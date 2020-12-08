@@ -14,10 +14,12 @@ comparePrice: 29.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Esprit 067ee1f038  Blusa Mujer  Rosa  Pastel Pink 695   34](https://www.amazon.es/dp/B06XSHM4MN/?tag=tolees-21) a 12.61 EUR (original: 29.99 EUR) (57.95 %  de descuento) en el siguiente enlace!
+Está [Esprit 067ee1f038  Blusa Mujer  Rosa  Pastel Pink 695   34](https://www.amazon.es/dp/B06XSHM4MN/?tag=tolees-21) con 57.95 de descuento por 12.61 EUR (original: 29.99 EUR) en el siguiente enlace!
 
 [![Esprit 067ee1f038  Blusa Mujer  Rosa  Pa](https://images-eu.ssl-images-amazon.com/images/I/41uslHgTISL._SL200_.jpg)](https://www.amazon.es/dp/B06XSHM4MN/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B06XSHM4MN/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B06XSHM4MN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+
