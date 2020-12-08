@@ -14,10 +14,12 @@ comparePrice: 59 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [El Ganso P. Esmerilado  Camisa Casual para Hombre   Verde   Small  Tamaño del Fabricante:S ](https://www.amazon.es/dp/B07GBWM5YQ/?tag=tolees-21) a 23.28 EUR (original: 59 EUR) (60.54 %  de descuento) en el siguiente enlace!
+Está [El Ganso P. Esmerilado  Camisa Casual para Hombre   Verde   Small  Tamaño del Fabricante:S ](https://www.amazon.es/dp/B07GBWM5YQ/?tag=tolees-21) con 60.54 de descuento por 23.28 EUR (original: 59 EUR) en el siguiente enlace!
 
 [![El Ganso P. Esmerilado  Camisa Casual pa](https://images-eu.ssl-images-amazon.com/images/I/51OC8QPkXwL._SL200_.jpg)](https://www.amazon.es/dp/B07GBWM5YQ/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07GBWM5YQ/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07GBWM5YQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

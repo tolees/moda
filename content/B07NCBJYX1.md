@@ -14,10 +14,12 @@ comparePrice: 23 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Pepe Jeans 45th 03b Camiseta  Marfil  Off White 803   2 años  Talla del Fabricante: 2  para Niños](https://www.amazon.es/dp/B07NCBJYX1/?tag=tolees-21) a 10.19 EUR (original: 23 EUR) (55.70 %  de descuento) en el siguiente enlace!
+Está [Pepe Jeans 45th 03b Camiseta  Marfil  Off White 803   2 años  Talla del Fabricante: 2  para Niños](https://www.amazon.es/dp/B07NCBJYX1/?tag=tolees-21) con 55.70 de descuento por 10.19 EUR (original: 23 EUR) en el siguiente enlace!
 
 [![Pepe Jeans 45th 03b Camiseta  Marfil  Of](https://images-eu.ssl-images-amazon.com/images/I/41VxURqQuPL._SL200_.jpg)](https://www.amazon.es/dp/B07NCBJYX1/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07NCBJYX1/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07NCBJYX1/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

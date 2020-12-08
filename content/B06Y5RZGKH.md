@@ -14,10 +14,12 @@ comparePrice: 150.31 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Ralph Lauren 0Rl8155  Gafas de Sol para Hombre  Jerry Havana  57](https://www.amazon.es/dp/B06Y5RZGKH/?tag=tolees-21) a 34.2 EUR (original: 150.31 EUR) (77.25 %  de descuento) en el siguiente enlace!
+Está [Ralph Lauren 0Rl8155  Gafas de Sol para Hombre  Jerry Havana  57](https://www.amazon.es/dp/B06Y5RZGKH/?tag=tolees-21) con 77.25 de descuento por 34.2 EUR (original: 150.31 EUR) en el siguiente enlace!
 
 [![Ralph Lauren 0Rl8155  Gafas de Sol para ](https://images-eu.ssl-images-amazon.com/images/I/31wAVTXnE5L._SL200_.jpg)](https://www.amazon.es/dp/B06Y5RZGKH/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B06Y5RZGKH/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B06Y5RZGKH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+
