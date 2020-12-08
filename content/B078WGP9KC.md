@@ -14,10 +14,12 @@ comparePrice: 49.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [PUMA Liga Sideline Jacket Jr Camiseta de equipación  Unisex niños  Negro Black White  116](https://www.amazon.es/dp/B078WGP9KC/?tag=tolees-21) a 19.72 EUR (original: 49.95 EUR) (60.52 %  de descuento) en el siguiente enlace!
+Está [PUMA Liga Sideline Jacket Jr Camiseta de equipación  Unisex niños  Negro Black White  116](https://www.amazon.es/dp/B078WGP9KC/?tag=tolees-21) con 60.52 de descuento por 19.72 EUR (original: 49.95 EUR) en el siguiente enlace!
 
 [![PUMA Liga Sideline Jacket Jr Camiseta de](https://images-eu.ssl-images-amazon.com/images/I/31OEBPqzNbL._SL200_.jpg)](https://www.amazon.es/dp/B078WGP9KC/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B078WGP9KC/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B078WGP9KC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

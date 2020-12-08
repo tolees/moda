@@ -14,12 +14,10 @@ comparePrice: 199.99 EUR
 inStock: true
 ---
 
-Está [Columbia Horizon Explorer  Chaqueta térmica impermeable  Hombre  Negro  Black   Talla XXL](https://www.amazon.es/dp/B07RCNF7F5/?tag=tolees-21) con 51.11 de descuento por 97.77 EUR (original: 199.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Columbia Horizon Explorer  Chaqueta térmica impermeable  Hombre  Negro  Black   Talla XXL](https://www.amazon.es/dp/B07RCNF7F5/?tag=tolees-21) a 97.77 EUR (original: 199.99 EUR) (51.11 %  de descuento) en el siguiente enlace!
 
 [![Columbia Horizon Explorer  Chaqueta térm](https://m.media-amazon.com/images/I/31bPXQQIYdL._SL200_.jpg)](https://www.amazon.es/dp/B07RCNF7F5/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07RCNF7F5/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07RCNF7F5/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

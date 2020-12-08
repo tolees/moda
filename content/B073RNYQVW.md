@@ -14,10 +14,12 @@ comparePrice: 30.0 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Helly Hansen Logo T-shirt Camiseta de manga corta hecha de algodón  con logo HH en el pecho](https://www.amazon.es/dp/B073RNYQVW/?tag=tolees-21) a 15.49 EUR (original: 30.0 EUR) (48.37 %  de descuento) en el siguiente enlace!
+Está [Helly Hansen Logo T-shirt Camiseta de manga corta hecha de algodón  con logo HH en el pecho](https://www.amazon.es/dp/B073RNYQVW/?tag=tolees-21) con 48.37 de descuento por 15.49 EUR (original: 30.0 EUR) en el siguiente enlace!
 
 [![Helly Hansen Logo T-shirt Camiseta de ma](https://m.media-amazon.com/images/I/31NvUr-ra9L._SL200_.jpg)](https://www.amazon.es/dp/B073RNYQVW/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B073RNYQVW/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B073RNYQVW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+
