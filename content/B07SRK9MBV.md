@@ -14,12 +14,10 @@ comparePrice: 99.9 EUR
 inStock: true
 ---
 
-Está [Geox D AIRELL B  Zapatillas  Gris  Lt Grey C1010   35 EU](https://www.amazon.es/dp/B07SRK9MBV/?tag=tolees-21) con 59.32 de descuento por 40.64 EUR (original: 99.9 EUR) en el siguiente enlace!
+Ahora mismo tienes [Geox D AIRELL B  Zapatillas  Gris  Lt Grey C1010   35 EU](https://www.amazon.es/dp/B07SRK9MBV/?tag=tolees-21) a 40.64 EUR (original: 99.9 EUR) (59.32 %  de descuento) en el siguiente enlace!
 
 [![Geox D AIRELL B  Zapatillas  Gris  Lt Gr](https://m.media-amazon.com/images/I/41ZZYfWdaRL._SL200_.jpg)](https://www.amazon.es/dp/B07SRK9MBV/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07SRK9MBV/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07SRK9MBV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-
