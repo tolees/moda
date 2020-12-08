@@ -14,10 +14,12 @@ comparePrice: 129.96 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Max Mara Mujer MM TILE HA 581 55 Gafas de sol  Negro  Havana Blck/Bw Brown ](https://www.amazon.es/dp/B01FPV3BHM/?tag=tolees-21) a 47.71 EUR (original: 129.96 EUR) (63.29 %  de descuento) en el siguiente enlace!
+Está [Max Mara Mujer MM TILE HA 581 55 Gafas de sol  Negro  Havana Blck/Bw Brown ](https://www.amazon.es/dp/B01FPV3BHM/?tag=tolees-21) con 63.29 de descuento por 47.71 EUR (original: 129.96 EUR) en el siguiente enlace!
 
 [![Max Mara Mujer MM TILE HA 581 55 Gafas d](https://images-eu.ssl-images-amazon.com/images/I/31U8EH3U8UL._SL200_.jpg)](https://www.amazon.es/dp/B01FPV3BHM/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B01FPV3BHM/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B01FPV3BHM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+
