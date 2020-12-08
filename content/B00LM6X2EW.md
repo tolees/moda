@@ -14,10 +14,12 @@ comparePrice: 25.9 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Havaianas Slim  Chanclas para Mujer  Gris  Steel Gray 5178   37/38 EU  35/36 Brazilian ](https://www.amazon.es/dp/B00LM6X2EW/?tag=tolees-21) a 8.66 EUR (original: 25.9 EUR) (66.56 %  de descuento) en el siguiente enlace!
+Está [Havaianas Slim  Chanclas para Mujer  Gris  Steel Gray 5178   37/38 EU  35/36 Brazilian ](https://www.amazon.es/dp/B00LM6X2EW/?tag=tolees-21) con 66.56 de descuento por 8.66 EUR (original: 25.9 EUR) en el siguiente enlace!
 
 [![Havaianas Slim  Chanclas para Mujer  Gri](https://images-eu.ssl-images-amazon.com/images/I/41st0Yq8QfL._SL200_.jpg)](https://www.amazon.es/dp/B00LM6X2EW/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00LM6X2EW/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00LM6X2EW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

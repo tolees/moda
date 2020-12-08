@@ -14,12 +14,10 @@ comparePrice: 99.95 EUR
 inStock: true
 ---
 
-Está [Lee Scarlett Jeans Vaqueros Skinny  Azul  Flight Wj   24W/29L para Mujer](https://www.amazon.es/dp/B07FTR2MW1/?tag=tolees-21) con 81.10 de descuento por 18.89 EUR (original: 99.95 EUR) en el siguiente enlace!
+Ahora mismo tienes [Lee Scarlett Jeans Vaqueros Skinny  Azul  Flight Wj   24W/29L para Mujer](https://www.amazon.es/dp/B07FTR2MW1/?tag=tolees-21) a 18.89 EUR (original: 99.95 EUR) (81.10 %  de descuento) en el siguiente enlace!
 
 [![Lee Scarlett Jeans Vaqueros Skinny  Azul](https://images-eu.ssl-images-amazon.com/images/I/3169lorE19L._SL200_.jpg)](https://www.amazon.es/dp/B07FTR2MW1/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07FTR2MW1/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07FTR2MW1/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

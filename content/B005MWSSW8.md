@@ -14,10 +14,12 @@ comparePrice: 132.0 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Ray-Ban Gafas de sol  Erika  Negro  622/8G   con lente Gris Degradada](https://www.amazon.es/dp/B005MWSSW8/?tag=tolees-21) a 80.0 EUR (original: 132.0 EUR) (39.39 %  de descuento) en el siguiente enlace!
+Está [Ray-Ban Gafas de sol  Erika  Negro  622/8G   con lente Gris Degradada](https://www.amazon.es/dp/B005MWSSW8/?tag=tolees-21) con 39.39 de descuento por 80.0 EUR (original: 132.0 EUR) en el siguiente enlace!
 
 [![Ray-Ban Gafas de sol  Erika  Negro  622/](https://m.media-amazon.com/images/I/21gwUoV9TnL._SL200_.jpg)](https://www.amazon.es/dp/B005MWSSW8/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B005MWSSW8/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B005MWSSW8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

@@ -14,10 +14,12 @@ comparePrice: 49.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Cortefiel 6717381  Vestido para Mujer  Azul  L](https://www.amazon.es/dp/B06XCVXKFN/?tag=tolees-21) a 19.68 EUR (original: 49.99 EUR) (60.63 %  de descuento) en el siguiente enlace!
+Está [Cortefiel 6717381  Vestido para Mujer  Azul  L](https://www.amazon.es/dp/B06XCVXKFN/?tag=tolees-21) con 60.63 de descuento por 19.68 EUR (original: 49.99 EUR) en el siguiente enlace!
 
 [![Cortefiel 6717381  Vestido para Mujer  A](https://images-eu.ssl-images-amazon.com/images/I/41s3RNXHWOL._SL200_.jpg)](https://www.amazon.es/dp/B06XCVXKFN/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B06XCVXKFN/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B06XCVXKFN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

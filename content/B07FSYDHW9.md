@@ -14,10 +14,12 @@ comparePrice: 25 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Lee Logo tee Camiseta  Rojo  Bright Red EF   Large para Mujer](https://www.amazon.es/dp/B07FSYDHW9/?tag=tolees-21) a 11.19 EUR (original: 25 EUR) (55.24 %  de descuento) en el siguiente enlace!
+Está [Lee Logo tee Camiseta  Rojo  Bright Red EF   Large para Mujer](https://www.amazon.es/dp/B07FSYDHW9/?tag=tolees-21) con 55.24 de descuento por 11.19 EUR (original: 25 EUR) en el siguiente enlace!
 
 [![Lee Logo tee Camiseta  Rojo  Bright Red ](https://images-eu.ssl-images-amazon.com/images/I/41bI1Nvfr0L._SL200_.jpg)](https://www.amazon.es/dp/B07FSYDHW9/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07FSYDHW9/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07FSYDHW9/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+
