@@ -1,0 +1,25 @@
+---
+layout: post
+title: 'Geox B Todo Girl B  Zapatillas para Bebé al 30.00 % de descuento'
+date: 2020-10-18 07:41:14
+thumbnailImage: 'https://m.media-amazon.com/images/I/41BrQ+gSu-L._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41BrQ+gSu-L._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: B0821RHKWT
+description:
+actualPrice: 38.5 EUR
+comparePrice: 55.0 EUR
+inStock: true
+---
+
+Está [Geox B Todo Girl B  Zapatillas para Bebés  Grey  24 EU](https://www.amazon.es/dp/B0821RHKWT/?tag=tolees-21) con 30.00 de descuento por 38.5 EUR (original: 55.0 EUR) en el siguiente enlace!
+
+[![Geox B Todo Girl B  Zapatillas para Bebé](https://m.media-amazon.com/images/I/41BrQ+gSu-L._SL200_.jpg)](https://www.amazon.es/dp/B0821RHKWT/?tag=tolees-21)
+
+[Ver la oferta!!](https://www.amazon.es/dp/B0821RHKWT/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

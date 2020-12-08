@@ -1,0 +1,23 @@
+---
+layout: post
+title: 'Karen Millen Soft Stripe Blouse Blusa    al 53.55 % de descuento'
+date: 
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mKEyY8axL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mKEyY8axL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: B07M6ZRJBD
+description:
+actualPrice: 60.55 EUR
+comparePrice: 130.35 EUR
+inStock: true
+---
+
+Ahora mismo tienes [Karen Millen Soft Stripe Blouse Blusa   Black & White 40   36  Talla del Fabricante:8  para Mujer](https://www.amazon.es/dp/B07M6ZRJBD/?tag=tolees-21) a 60.55 EUR (original: 130.35 EUR) (53.55 %  de descuento) en el siguiente enlace!
+
+[![Karen Millen Soft Stripe Blouse Blusa   ](https://images-eu.ssl-images-amazon.com/images/I/41mKEyY8axL._SL200_.jpg)](https://www.amazon.es/dp/B07M6ZRJBD/?tag=tolees-21)
+
+[Visítala!!!](https://www.amazon.es/dp/B07M6ZRJBD/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -1,0 +1,25 @@
+---
+layout: post
+title: 'VERO MODA VMTENNA 3/4 OPEN CARDIGAN  cha al 49.90 % de descuento'
+date: 
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/518QfD4dOrL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/518QfD4dOrL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: B01HMCZC8S
+description:
+actualPrice: 17.51 EUR
+comparePrice: 34.95 EUR
+inStock: true
+---
+
+Está [VERO MODA VMTENNA 3/4 OPEN CARDIGAN  chaqueta punto Mujer  Azul  Reflecting Pond   36  Talla del fabricante: Small ](https://www.amazon.es/dp/B01HMCZC8S/?tag=tolees-21) con 49.90 de descuento por 17.51 EUR (original: 34.95 EUR) en el siguiente enlace!
+
+[![VERO MODA VMTENNA 3/4 OPEN CARDIGAN  cha](https://images-eu.ssl-images-amazon.com/images/I/518QfD4dOrL._SL200_.jpg)](https://www.amazon.es/dp/B01HMCZC8S/?tag=tolees-21)
+
+[Ver la oferta!!](https://www.amazon.es/dp/B01HMCZC8S/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

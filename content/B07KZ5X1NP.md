@@ -1,0 +1,23 @@
+---
+layout: post
+title: 'Cortefiel C6K Print Punto-Cruz S-Ca Cami al 40.57 % de descuento'
+date: 
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411Ncp-gmZL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411Ncp-gmZL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: B07KZ5X1NP
+description:
+actualPrice: 22.88 EUR
+comparePrice: 38.5 EUR
+inStock: true
+---
+
+Ahora mismo tienes [Cortefiel C6K Print Punto-Cruz S-Ca Camisa de Vestir  Hombre  Azul  Gama Azules 19   Large  Tamaño del Fabricante:L ](https://www.amazon.es/dp/B07KZ5X1NP/?tag=tolees-21) a 22.88 EUR (original: 38.5 EUR) (40.57 %  de descuento) en el siguiente enlace!
+
+[![Cortefiel C6K Print Punto-Cruz S-Ca Cami](https://images-eu.ssl-images-amazon.com/images/I/411Ncp-gmZL._SL200_.jpg)](https://www.amazon.es/dp/B07KZ5X1NP/?tag=tolees-21)
+
+[Visítala!!!](https://www.amazon.es/dp/B07KZ5X1NP/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales

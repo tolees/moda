@@ -1,0 +1,25 @@
+---
+layout: post
+title: 'Descuento del 25.00 % en MERAKI Camiseta de Rayas de Manga Corta '
+date: 
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yA%2B8IuR5L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yA%2B8IuR5L._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: B079MBX1RM
+description:
+actualPrice: 12 EUR
+comparePrice: 16 EUR
+inStock: true
+---
+
+Tienes [MERAKI Camiseta de Rayas de Manga Corta Hombre  Blanco  Stripe 1 Navy / White   X-Large](https://www.amazon.es/dp/B079MBX1RM/?tag=tolees-21) con un 25.00 % de descuento con precio de oferta de 12 EUR (original: 16 EUR) en el siguiente enlace!
+
+[![MERAKI Camiseta de Rayas de Manga Corta ](https://images-eu.ssl-images-amazon.com/images/I/41yA%2B8IuR5L._SL200_.jpg)](https://www.amazon.es/dp/B079MBX1RM/?tag=tolees-21)
+
+[Accede a la oferta!!](https://www.amazon.es/dp/B079MBX1RM/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+
