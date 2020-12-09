@@ -14,10 +14,12 @@ comparePrice: 69.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [HUGO Elisha02 Camisa  Azul  Navy 413   46 para Hombre](https://www.amazon.es/dp/B07VGP7Q3G/?tag=tolees-21) a 27.63 EUR (original: 69.95 EUR) (60.50 %  de descuento) en el siguiente enlace!
+Está [HUGO Elisha02 Camisa  Azul  Navy 413   46 para Hombre](https://www.amazon.es/dp/B07VGP7Q3G/?tag=tolees-21) con 60.50 de descuento por 27.63 EUR (original: 69.95 EUR) en el siguiente enlace!
 
 [![HUGO Elisha02 Camisa  Azul  Navy 413   4](https://m.media-amazon.com/images/I/31FID5IuPHL._SL200_.jpg)](https://www.amazon.es/dp/B07VGP7Q3G/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07VGP7Q3G/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07VGP7Q3G/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

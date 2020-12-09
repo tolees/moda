@@ -14,10 +14,12 @@ comparePrice: 20 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [AURIQUE - Camisa Deportiva - para Mujer Blanco White  White  12  Manufacturer Size:M ](https://www.amazon.es/dp/B07MLVPNBZ/?tag=tolees-21) a 14 EUR (original: 20 EUR) (30.00 %  de descuento) en el siguiente enlace!
+Está [AURIQUE - Camisa Deportiva - para Mujer Blanco White  White  12  Manufacturer Size:M ](https://www.amazon.es/dp/B07MLVPNBZ/?tag=tolees-21) con 30.00 de descuento por 14 EUR (original: 20 EUR) en el siguiente enlace!
 
 [![AURIQUE - Camisa Deportiva - para Mujer ](https://images-eu.ssl-images-amazon.com/images/I/31MgW0OJ3aL._SL200_.jpg)](https://www.amazon.es/dp/B07MLVPNBZ/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07MLVPNBZ/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07MLVPNBZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+
