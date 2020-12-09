@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 79.65 % en Lee Button Down Camisa  Marfil  Blueprin'
+title: 'Lee Button Down Camisa  Marfil  Blueprin al 79.65 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41FKguMztUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41FKguMztUL._SL200_.jpg' ]
@@ -17,12 +17,10 @@ inStock: true
 prodname: 'Lee Button Down Camisa  Marfil  Blueprint Lh   Small para Hombre'
 ---
 
-Tienes [Lee Button Down Camisa  Marfil  Blueprint Lh   Small para Hombre](https://www.amazon.es/dp/B07FTKFR77/?tag=tolees-21) con un 79.65 % de descuento con precio de oferta de 12.2 EUR (original: 59.95 EUR) en el siguiente enlace!
+Ahora mismo tienes [Lee Button Down Camisa  Marfil  Blueprint Lh   Small para Hombre](https://www.amazon.es/dp/B07FTKFR77/?tag=tolees-21) a 12.2 EUR (original: 59.95 EUR) (79.65 %  de descuento) en el siguiente enlace!
 
 [![Lee Button Down Camisa  Marfil  Blueprin](https://images-eu.ssl-images-amazon.com/images/I/41FKguMztUL._SL200_.jpg)](https://www.amazon.es/dp/B07FTKFR77/?tag=tolees-21)
 
-[Accede a la oferta!!](https://www.amazon.es/dp/B07FTKFR77/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07FTKFR77/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

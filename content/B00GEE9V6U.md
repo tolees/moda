@@ -17,10 +17,12 @@ inStock: true
 prodname: 'Columbia Silver Ridge Cargo Pant AM8007 Pantalón  Hombre  Abyss  34'
 ---
 
-Ahora mismo tienes [Columbia Silver Ridge Cargo Pant AM8007 Pantalón  Hombre  Abyss  34](https://www.amazon.es/dp/B00GEE9V6U/?tag=tolees-21) a 32.75 EUR (original: 64.95 EUR) (49.58 %  de descuento) en el siguiente enlace!
+Está [Columbia Silver Ridge Cargo Pant AM8007 Pantalón  Hombre  Abyss  34](https://www.amazon.es/dp/B00GEE9V6U/?tag=tolees-21) con 49.58 de descuento por 32.75 EUR (original: 64.95 EUR) en el siguiente enlace!
 
 [![Columbia Silver Ridge Cargo Pant AM8007 ](https://images-eu.ssl-images-amazon.com/images/I/41ofekTpNlL._SL200_.jpg)](https://www.amazon.es/dp/B00GEE9V6U/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00GEE9V6U/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00GEE9V6U/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

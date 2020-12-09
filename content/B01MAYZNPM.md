@@ -17,10 +17,12 @@ inStock: true
 prodname: 'Under Armour UA HG Printedy Pantalón Corto  Mujer  Gris  XS'
 ---
 
-Ahora mismo tienes [Under Armour UA HG Printedy Pantalón Corto  Mujer  Gris  XS](https://www.amazon.es/dp/B01MAYZNPM/?tag=tolees-21) a 17.11 EUR (original: 30 EUR) (42.97 %  de descuento) en el siguiente enlace!
+Está [Under Armour UA HG Printedy Pantalón Corto  Mujer  Gris  XS](https://www.amazon.es/dp/B01MAYZNPM/?tag=tolees-21) con 42.97 de descuento por 17.11 EUR (original: 30 EUR) en el siguiente enlace!
 
 [![Under Armour UA HG Printedy Pantalón Cor](https://images-eu.ssl-images-amazon.com/images/I/41iLbD6VcAL._SL200_.jpg)](https://www.amazon.es/dp/B01MAYZNPM/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B01MAYZNPM/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B01MAYZNPM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+
