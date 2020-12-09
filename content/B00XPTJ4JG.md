@@ -17,10 +17,12 @@ inStock: true
 prodname: 'Columbia Mission Air Chaqueta Interchange  Hombre  Negro  Black   XL'
 ---
 
-Ahora mismo tienes [Columbia Mission Air Chaqueta Interchange  Hombre  Negro  Black   XL](https://www.amazon.es/dp/B00XPTJ4JG/?tag=tolees-21) a 65.49 EUR (original: 159.99 EUR) (59.07 %  de descuento) en el siguiente enlace!
+Está [Columbia Mission Air Chaqueta Interchange  Hombre  Negro  Black   XL](https://www.amazon.es/dp/B00XPTJ4JG/?tag=tolees-21) con 59.07 de descuento por 65.49 EUR (original: 159.99 EUR) en el siguiente enlace!
 
 [![Columbia Mission Air Chaqueta Interchang](https://m.media-amazon.com/images/I/419cBpXCc+L._SL200_.jpg)](https://www.amazon.es/dp/B00XPTJ4JG/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00XPTJ4JG/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00XPTJ4JG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

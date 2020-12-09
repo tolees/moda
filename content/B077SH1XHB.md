@@ -17,12 +17,10 @@ inStock: true
 prodname: 'Lacoste L1212 Camiseta Polo  Azul  Electrique   XS para Hombre'
 ---
 
-Está [Lacoste L1212 Camiseta Polo  Azul  Electrique   XS para Hombre](https://www.amazon.es/dp/B077SH1XHB/?tag=tolees-21) con 42.12 de descuento por 54.99 EUR (original: 95.0 EUR) en el siguiente enlace!
+Ahora mismo tienes [Lacoste L1212 Camiseta Polo  Azul  Electrique   XS para Hombre](https://www.amazon.es/dp/B077SH1XHB/?tag=tolees-21) a 54.99 EUR (original: 95.0 EUR) (42.12 %  de descuento) en el siguiente enlace!
 
 [![Lacoste L1212 Camiseta Polo  Azul  Elect](https://m.media-amazon.com/images/I/31wlqJlEkiL._SL200_.jpg)](https://www.amazon.es/dp/B077SH1XHB/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B077SH1XHB/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B077SH1XHB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

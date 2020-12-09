@@ -17,10 +17,12 @@ inStock: true
 prodname: 'Persol 0Po2422Sj 106156 49 Gafas de Sol  Dorado  Gold/Blue   Unisex-Adulto'
 ---
 
-Ahora mismo tienes [Persol 0Po2422Sj 106156 49 Gafas de Sol  Dorado  Gold/Blue   Unisex-Adulto](https://www.amazon.es/dp/B015EGV4CW/?tag=tolees-21) a 104.42 EUR (original: 204 EUR) (48.81 %  de descuento) en el siguiente enlace!
+Está [Persol 0Po2422Sj 106156 49 Gafas de Sol  Dorado  Gold/Blue   Unisex-Adulto](https://www.amazon.es/dp/B015EGV4CW/?tag=tolees-21) con 48.81 de descuento por 104.42 EUR (original: 204 EUR) en el siguiente enlace!
 
 [![Persol 0Po2422Sj 106156 49 Gafas de Sol ](https://images-eu.ssl-images-amazon.com/images/I/41tgK98F9eL._SL200_.jpg)](https://www.amazon.es/dp/B015EGV4CW/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B015EGV4CW/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B015EGV4CW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+
