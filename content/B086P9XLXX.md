@@ -14,10 +14,12 @@ comparePrice: 19.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [PUMA ESS Logo tee Camiseta  Mujer  Sharp Green  S](https://www.amazon.es/dp/B086P9XLXX/?tag=tolees-21) a 11.99 EUR (original: 19.95 EUR) (39.90 %  de descuento) en el siguiente enlace!
+Está [PUMA ESS Logo tee Camiseta  Mujer  Sharp Green  S](https://www.amazon.es/dp/B086P9XLXX/?tag=tolees-21) con 39.90 de descuento por 11.99 EUR (original: 19.95 EUR) en el siguiente enlace!
 
 [![PUMA ESS Logo tee Camiseta  Mujer  Sharp](https://m.media-amazon.com/images/I/31yJth6qU1L._SL200_.jpg)](https://www.amazon.es/dp/B086P9XLXX/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B086P9XLXX/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B086P9XLXX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

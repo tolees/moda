@@ -14,12 +14,10 @@ comparePrice: 49.99 EUR
 inStock: true
 ---
 
-Está [Only Onlisa Short Spring Jacket Otw  Chaqueta para Mujer  Rosa Cameo Rose  42  Talla del Fabricante: Large ](https://www.amazon.es/dp/B078VM1LMF/?tag=tolees-21) con 74.95 de descuento por 12.52 EUR (original: 49.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Only Onlisa Short Spring Jacket Otw  Chaqueta para Mujer  Rosa Cameo Rose  42  Talla del Fabricante: Large ](https://www.amazon.es/dp/B078VM1LMF/?tag=tolees-21) a 12.52 EUR (original: 49.99 EUR) (74.95 %  de descuento) en el siguiente enlace!
 
 [![Only Onlisa Short Spring Jacket Otw  Cha](https://images-eu.ssl-images-amazon.com/images/I/41OHfIerAML._SL200_.jpg)](https://www.amazon.es/dp/B078VM1LMF/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B078VM1LMF/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B078VM1LMF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

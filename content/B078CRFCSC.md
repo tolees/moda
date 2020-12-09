@@ -14,10 +14,12 @@ comparePrice: 80 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Levi s Maya Top Blusa  Azul  Super Dark Authentic 2 0003   X-Small para Mujer](https://www.amazon.es/dp/B078CRFCSC/?tag=tolees-21) a 20.1 EUR (original: 80 EUR) (74.88 %  de descuento) en el siguiente enlace!
+Está [Levi s Maya Top Blusa  Azul  Super Dark Authentic 2 0003   X-Small para Mujer](https://www.amazon.es/dp/B078CRFCSC/?tag=tolees-21) con 74.88 de descuento por 20.1 EUR (original: 80 EUR) en el siguiente enlace!
 
 [![Levi s Maya Top Blusa  Azul  Super Dark ](https://images-eu.ssl-images-amazon.com/images/I/41%2BQxFzbkgL._SL200_.jpg)](https://www.amazon.es/dp/B078CRFCSC/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B078CRFCSC/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B078CRFCSC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+
