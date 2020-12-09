@@ -17,12 +17,10 @@ inStock: true
 prodname: 'Cortefiel Camisa Lisa Estructura Camisa Casual  Hombre  Blanco  Blanco 99   Small  Tamaño del Fabricante:5 '
 ---
 
-Está [Cortefiel Camisa Lisa Estructura Camisa Casual  Hombre  Blanco  Blanco 99   Small  Tamaño del Fabricante:5 ](https://www.amazon.es/dp/B078WT9GCT/?tag=tolees-21) con 75.58 de descuento por 12.21 EUR (original: 49.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Cortefiel Camisa Lisa Estructura Camisa Casual  Hombre  Blanco  Blanco 99   Small  Tamaño del Fabricante:5 ](https://www.amazon.es/dp/B078WT9GCT/?tag=tolees-21) a 12.21 EUR (original: 49.99 EUR) (75.58 %  de descuento) en el siguiente enlace!
 
 [![Cortefiel Camisa Lisa Estructura Camisa ](https://images-eu.ssl-images-amazon.com/images/I/314XqMqUQeL._SL200_.jpg)](https://www.amazon.es/dp/B078WT9GCT/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B078WT9GCT/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B078WT9GCT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

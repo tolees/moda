@@ -17,10 +17,12 @@ inStock: true
 prodname: 'Columbia Triple Canyon Camisa de Manga Corta  Hombre  Amarillo  Stinger Plaid   M'
 ---
 
-Ahora mismo tienes [Columbia Triple Canyon Camisa de Manga Corta  Hombre  Amarillo  Stinger Plaid   M](https://www.amazon.es/dp/B07KSH3RKS/?tag=tolees-21) a 37.95 EUR (original: 64.99 EUR) (41.61 %  de descuento) en el siguiente enlace!
+Está [Columbia Triple Canyon Camisa de Manga Corta  Hombre  Amarillo  Stinger Plaid   M](https://www.amazon.es/dp/B07KSH3RKS/?tag=tolees-21) con 41.61 de descuento por 37.95 EUR (original: 64.99 EUR) en el siguiente enlace!
 
 [![Columbia Triple Canyon Camisa de Manga C](https://images-eu.ssl-images-amazon.com/images/I/515Gs4R06jL._SL200_.jpg)](https://www.amazon.es/dp/B07KSH3RKS/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07KSH3RKS/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07KSH3RKS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

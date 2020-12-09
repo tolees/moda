@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Réplica oficial camiseta primera equipac al 28.76 % de descuento'
-date: 2020-12-08 13:32:44
+date: 2020-12-09 16:19:16
 thumbnailImage: 'https://m.media-amazon.com/images/I/41R-1kbwV2L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41R-1kbwV2L._SL200_.jpg' ]
 comments: true

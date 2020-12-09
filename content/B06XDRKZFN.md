@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 38.21 % en Timberland Bradstreet Leather Sensorflex'
-date: 2020-12-08 16:19:57
+date: 2020-12-09 16:38:37
 thumbnailImage: 'https://m.media-amazon.com/images/I/41VxzL9wnpL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41VxzL9wnpL._SL200_.jpg' ]
 comments: true

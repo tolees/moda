@@ -17,12 +17,10 @@ inStock: true
 prodname: 'CATWALK COLLECTION - ALEX - Bolso de hombro - Cuero - Grande - Negro'
 ---
 
-Está [CATWALK COLLECTION - ALEX - Bolso de hombro - Cuero - Grande - Negro](https://www.amazon.es/dp/B005D3ZYNM/?tag=tolees-21) con 41.75 de descuento por 94.95 EUR (original: 163.0 EUR) en el siguiente enlace!
+Ahora mismo tienes [CATWALK COLLECTION - ALEX - Bolso de hombro - Cuero - Grande - Negro](https://www.amazon.es/dp/B005D3ZYNM/?tag=tolees-21) a 94.95 EUR (original: 163.0 EUR) (41.75 %  de descuento) en el siguiente enlace!
 
 [![CATWALK COLLECTION - ALEX - Bolso de hom](https://m.media-amazon.com/images/I/41hQ80m+SLL._SL200_.jpg)](https://www.amazon.es/dp/B005D3ZYNM/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B005D3ZYNM/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B005D3ZYNM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-
