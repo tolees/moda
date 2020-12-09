@@ -17,10 +17,12 @@ inStock: true
 prodname: 'Cortefiel 9163905  Camiseta para Mujer  Rosa  Gama Rosas/Morados 71   Large  talla del fabricante: 4 '
 ---
 
-Ahora mismo tienes [Cortefiel 9163905  Camiseta para Mujer  Rosa  Gama Rosas/Morados 71   Large  talla del fabricante: 4 ](https://www.amazon.es/dp/B078WTJCY6/?tag=tolees-21) a 11.21 EUR (original: 19.99 EUR) (43.92 %  de descuento) en el siguiente enlace!
+Está [Cortefiel 9163905  Camiseta para Mujer  Rosa  Gama Rosas/Morados 71   Large  talla del fabricante: 4 ](https://www.amazon.es/dp/B078WTJCY6/?tag=tolees-21) con 43.92 de descuento por 11.21 EUR (original: 19.99 EUR) en el siguiente enlace!
 
 [![Cortefiel 9163905  Camiseta para Mujer  ](https://images-eu.ssl-images-amazon.com/images/I/41lY-TAHESL._SL200_.jpg)](https://www.amazon.es/dp/B078WTJCY6/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B078WTJCY6/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B078WTJCY6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

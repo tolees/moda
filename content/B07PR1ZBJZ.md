@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 60.40 % en Under Armour UA Knockout Tank  Camiseta '
-date: 2020-12-08 09:28:31
+date: 2020-12-09 13:50:46
 thumbnailImage: 'https://m.media-amazon.com/images/I/41xMf-KFxtL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41xMf-KFxtL._SL200_.jpg' ]
 comments: true
