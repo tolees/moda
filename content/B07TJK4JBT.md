@@ -10,8 +10,11 @@ author: ring
 slug: B07TJK4JBT
 description:
 actualPrice: 29.08 EUR
+currency: EUR
+price: 29.08
 comparePrice: 89.95 EUR
 inStock: true
+prodname: Clarks Kaylin Cara  Zapatos de Tacón para Mujer  Gris  Stone Stone   39 EU
 ---
 
 Está [Clarks Kaylin Cara  Zapatos de Tacón para Mujer  Gris  Stone Stone   39 EU](https://www.amazon.es/dp/B07TJK4JBT/?tag=tolees-21) con 67.67 de descuento por 29.08 EUR (original: 89.95 EUR) en el siguiente enlace!

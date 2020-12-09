@@ -10,8 +10,11 @@ author: ring
 slug: B07XC62GVT
 description:
 actualPrice: 34.99 EUR
+currency: EUR
+price: 34.99
 comparePrice: 69.99 EUR
 inStock: true
+prodname: Zapatos de Hombres  Zapatillas de Deportivos Running para Hombre Zapatillas de Trabajo Ultra Liviano Reflectivo Transpirable Negro Black 44EU
 ---
 
 Ahora mismo tienes [Zapatos de Hombres  Zapatillas de Deportivos Running para Hombre Zapatillas de Trabajo Ultra Liviano Reflectivo Transpirable Negro Black 44EU](https://www.amazon.es/dp/B07XC62GVT/?tag=tolees-21) a 34.99 EUR (original: 69.99 EUR) (50.01 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B0777FGNMG
 description:
 actualPrice: 19.9 EUR
+currency: EUR
+price: 19.9
 comparePrice: 29 EUR
 inStock: true
+prodname: Tommy Jeans Mujer Clean Script Logo  Camisa Manga Corta  Negro  Tommy Black 078  X-Small
 ---
 
 Ahora mismo tienes [Tommy Jeans Mujer Clean Script Logo  Camisa Manga Corta  Negro  Tommy Black 078  X-Small](https://www.amazon.es/dp/B0777FGNMG/?tag=tolees-21) a 19.9 EUR (original: 29 EUR) (31.38 %  de descuento) en el siguiente enlace!

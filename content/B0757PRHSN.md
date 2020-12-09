@@ -10,8 +10,11 @@ author: ring
 slug: B0757PRHSN
 description:
 actualPrice: 6.24 EUR
+currency: EUR
+price: 6.24
 comparePrice: 22.99 EUR
 inStock: true
+prodname: Springfield Sudadera Caja Turn Pain Into Power Sudadera  Hombre  Gris  Grey   X-Large  Tamaño del Fabricante:XL 
 ---
 
 Tienes [Springfield Sudadera Caja Turn Pain Into Power Sudadera  Hombre  Gris  Grey   X-Large  Tamaño del Fabricante:XL ](https://www.amazon.es/dp/B0757PRHSN/?tag=tolees-21) con un 72.86 % de descuento con precio de oferta de 6.24 EUR (original: 22.99 EUR) en el siguiente enlace!

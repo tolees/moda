@@ -10,8 +10,11 @@ author: ring
 slug: B01MSZD91C
 description:
 actualPrice: 12.8 EUR
+currency: EUR
+price: 12.8
 comparePrice: 35 EUR
 inStock: true
+prodname: find. Lace Trim Shoulder Blusa para Mujer  Rosa  Old Rose   42  Talla del Fabricante: Large 
 ---
 
 Ahora mismo tienes [find. Lace Trim Shoulder Blusa para Mujer  Rosa  Old Rose   42  Talla del Fabricante: Large ](https://www.amazon.es/dp/B01MSZD91C/?tag=tolees-21) a 12.8 EUR (original: 35 EUR) (63.43 %  de descuento) en el siguiente enlace!

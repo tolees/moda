@@ -10,8 +10,11 @@ author: ring
 slug: B07JFGFYPF
 description:
 actualPrice: 60.55 EUR
+currency: EUR
+price: 60.55
 comparePrice: 110 EUR
 inStock: true
+prodname: Lacoste Sh6382 Sudadera  Azul  Marine 166   Large  Talla del Fabricante: 5  para Hombre
 ---
 
 Está [Lacoste Sh6382 Sudadera  Azul  Marine 166   Large  Talla del Fabricante: 5  para Hombre](https://www.amazon.es/dp/B07JFGFYPF/?tag=tolees-21) con 44.95 de descuento por 60.55 EUR (original: 110 EUR) en el siguiente enlace!

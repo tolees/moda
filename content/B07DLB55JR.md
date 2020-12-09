@@ -10,8 +10,11 @@ author: ring
 slug: B07DLB55JR
 description:
 actualPrice: 12.91 EUR
+currency: EUR
+price: 12.91
 comparePrice: 27.99 EUR
 inStock: true
+prodname: Women s Secret D1 Indigo Sello PJ FR Conjuntos de Pijama  Azul 12  Medium  Tamaño del Fabricante:M  para Mujer
 ---
 
 Está [Women s Secret D1 Indigo Sello PJ FR Conjuntos de Pijama  Azul 12  Medium  Tamaño del Fabricante:M  para Mujer](https://www.amazon.es/dp/B07DLB55JR/?tag=tolees-21) con 53.88 de descuento por 12.91 EUR (original: 27.99 EUR) en el siguiente enlace!

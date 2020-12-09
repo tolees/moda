@@ -10,8 +10,11 @@ author: ring
 slug: B07DZ8DQ5C
 description:
 actualPrice: 53.35 EUR
+currency: EUR
+price: 53.35
 comparePrice: 139.99 EUR
 inStock: true
+prodname: Columbia Chaqueta de plumón con Capucha para Hombre  Lake 22 Down Insulted Jacket  Gris  Charcoal Heather Print   Talla XL
 ---
 
 Está [Columbia Chaqueta de plumón con Capucha para Hombre  Lake 22 Down Insulted Jacket  Gris  Charcoal Heather Print   Talla XL](https://www.amazon.es/dp/B07DZ8DQ5C/?tag=tolees-21) con 61.89 de descuento por 53.35 EUR (original: 139.99 EUR) en el siguiente enlace!

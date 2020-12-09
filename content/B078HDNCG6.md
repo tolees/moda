@@ -10,8 +10,11 @@ author: ring
 slug: B078HDNCG6
 description:
 actualPrice: 14.73 EUR
+currency: EUR
+price: 14.73
 comparePrice: 29.99 EUR
 inStock: true
+prodname: Springfield Vestido Bodycon Escote Cruzado Vestido  Mujer   Varios   Medium  Tamaño del Fabricante:M 
 ---
 
 Está [Springfield Vestido Bodycon Escote Cruzado Vestido  Mujer   Varios   Medium  Tamaño del Fabricante:M ](https://www.amazon.es/dp/B078HDNCG6/?tag=tolees-21) con 50.88 de descuento por 14.73 EUR (original: 29.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B078HGXCCQ
 description:
 actualPrice: 12.25 EUR
+currency: EUR
+price: 12.25
 comparePrice: 29.99 EUR
 inStock: true
+prodname: Springfield Denim Regular Negro Lavado  Vaqueros Straight para Hombre    Tamaño del Fabricante:34 
 ---
 
 Está [Springfield Denim Regular Negro Lavado  Vaqueros Straight para Hombre    Tamaño del Fabricante:34 ](https://www.amazon.es/dp/B078HGXCCQ/?tag=tolees-21) con 59.15 de descuento por 12.25 EUR (original: 29.99 EUR) en el siguiente enlace!

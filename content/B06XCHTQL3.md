@@ -10,8 +10,11 @@ author: ring
 slug: B06XCHTQL3
 description:
 actualPrice: 32.52 EUR
+currency: EUR
+price: 32.52
 comparePrice: 79.95 EUR
 inStock: true
+prodname: Clarks Tilden Plain Zapatos de cordones derby Hombre  Marrón  Dark Tan Lea   43
 ---
 
 Tienes [Clarks Tilden Plain Zapatos de cordones derby Hombre  Marrón  Dark Tan Lea   43](https://www.amazon.es/dp/B06XCHTQL3/?tag=tolees-21) con un 59.32 % de descuento con precio de oferta de 32.52 EUR (original: 79.95 EUR) en el siguiente enlace!

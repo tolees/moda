@@ -10,8 +10,11 @@ author: ring
 slug: B07DHV1ZV9
 description:
 actualPrice: 8.18 EUR
+currency: EUR
+price: 8.18
 comparePrice: 25.99 EUR
 inStock: true
+prodname: Quiksilver LYA Base Camiseta  Niños  Gris  Light Grey Heather SJSH    Tamaño del Fabricante:S/10 
 ---
 
 Está [Quiksilver LYA Base Camiseta  Niños  Gris  Light Grey Heather SJSH    Tamaño del Fabricante:S/10 ](https://www.amazon.es/dp/B07DHV1ZV9/?tag=tolees-21) con 68.53 de descuento por 8.18 EUR (original: 25.99 EUR) en el siguiente enlace!

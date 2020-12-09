@@ -10,8 +10,11 @@ author: ring
 slug: B00LFCFMVY
 description:
 actualPrice: 29.95 EUR
+currency: EUR
+price: 29.95
 comparePrice: 40.0 EUR
 inStock: true
+prodname: Birkenstock Classic Arizona Eva  Zuecos de goma unisex  Azul  Navy 33 36 EU
 ---
 
 Está [Birkenstock Classic Arizona Eva  Zuecos de goma unisex  Azul  Navy 33 36 EU](https://www.amazon.es/dp/B00LFCFMVY/?tag=tolees-21) con 25.12 de descuento por 29.95 EUR (original: 40.0 EUR) en el siguiente enlace!

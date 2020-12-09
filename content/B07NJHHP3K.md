@@ -10,8 +10,11 @@ author: ring
 slug: B07NJHHP3K
 description:
 actualPrice: 76.79 EUR
+currency: EUR
+price: 76.79
 comparePrice: 169.95 EUR
 inStock: true
+prodname: Ternua Shishel M Chaqueta Impermeable  Hombre  Black  S
 ---
 
 Ahora mismo tienes [Ternua Shishel M Chaqueta Impermeable  Hombre  Black  S](https://www.amazon.es/dp/B07NJHHP3K/?tag=tolees-21) a 76.79 EUR (original: 169.95 EUR) (54.82 %  de descuento) en el siguiente enlace!

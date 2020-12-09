@@ -10,8 +10,11 @@ author: ring
 slug: B07FR8WNTD
 description:
 actualPrice: 34.21 EUR
+currency: EUR
+price: 34.21
 comparePrice: 69.95 EUR
 inStock: true
+prodname: Clarks Rufus Edge Bl  Zapatos de Cordones Bebés  Negro  Black Leather   43 EU
 ---
 
 Tienes [Clarks Rufus Edge Bl  Zapatos de Cordones Bebés  Negro  Black Leather   43 EU](https://www.amazon.es/dp/B07FR8WNTD/?tag=tolees-21) con un 51.09 % de descuento con precio de oferta de 34.21 EUR (original: 69.95 EUR) en el siguiente enlace!

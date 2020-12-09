@@ -10,8 +10,11 @@ author: ring
 slug: B01GFSC2RY
 description:
 actualPrice: 48.15 EUR
+currency: EUR
+price: 48.15
 comparePrice: 80 EUR
 inStock: true
+prodname: Diadora B.Elite  Sandalias con Plataforma Unisex Adulto  Bianco  Bianco/Blu Profondo/Blu Profon   45.5 EU
 ---
 
 Tienes [Diadora B.Elite  Sandalias con Plataforma Unisex Adulto  Bianco  Bianco/Blu Profondo/Blu Profon   45.5 EU](https://www.amazon.es/dp/B01GFSC2RY/?tag=tolees-21) con un 39.81 % de descuento con precio de oferta de 48.15 EUR (original: 80 EUR) en el siguiente enlace!

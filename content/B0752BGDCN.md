@@ -10,8 +10,11 @@ author: ring
 slug: B0752BGDCN
 description:
 actualPrice: 21.57 EUR
+currency: EUR
+price: 21.57
 comparePrice: 119.95 EUR
 inStock: true
+prodname: G-STAR RAW 5622 Mid Skinny Wmn  Vaqueros Mujer  Azul  Light Vintage Aged Destroy   W32/L28  Talla del Fabricante: 32/28 
 ---
 
 Tienes [G-STAR RAW 5622 Mid Skinny Wmn  Vaqueros Mujer  Azul  Light Vintage Aged Destroy   W32/L28  Talla del Fabricante: 32/28 ](https://www.amazon.es/dp/B0752BGDCN/?tag=tolees-21) con un 82.02 % de descuento con precio de oferta de 21.57 EUR (original: 119.95 EUR) en el siguiente enlace!

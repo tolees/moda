@@ -10,8 +10,11 @@ author: ring
 slug: B07FDFWD6G
 description:
 actualPrice: 9.42 EUR
+currency: EUR
+price: 9.42
 comparePrice: 17.95 EUR
 inStock: true
+prodname: Disney Mickey 4809 Pijama  Blanc  5 años para Niños
 ---
 
 Está [Disney Mickey 4809 Pijama  Blanc  5 años para Niños](https://www.amazon.es/dp/B07FDFWD6G/?tag=tolees-21) con 47.52 de descuento por 9.42 EUR (original: 17.95 EUR) en el siguiente enlace!

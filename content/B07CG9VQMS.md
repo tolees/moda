@@ -10,8 +10,11 @@ author: ring
 slug: B07CG9VQMS
 description:
 actualPrice: 28.99 EUR
+currency: EUR
+price: 28.99
 comparePrice: 59.99 EUR
 inStock: true
+prodname: BRONAX Zapatos para Correr en Montaña y Asfalto Aire Libre y Deportes Zapatillas de Running Padel para Hombre Negro Naranja 42
 ---
 
 Ahora mismo tienes [BRONAX Zapatos para Correr en Montaña y Asfalto Aire Libre y Deportes Zapatillas de Running Padel para Hombre Negro Naranja 42](https://www.amazon.es/dp/B07CG9VQMS/?tag=tolees-21) a 28.99 EUR (original: 59.99 EUR) (51.68 %  de descuento) en el siguiente enlace!

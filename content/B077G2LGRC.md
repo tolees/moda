@@ -10,8 +10,11 @@ author: ring
 slug: B077G2LGRC
 description:
 actualPrice: 42 EUR
+currency: EUR
+price: 42
 comparePrice: 70 EUR
 inStock: true
+prodname: TRUTH & FABLE ACB042 vestido dama de honor mujer  Multicolor  Red   40  Talla del fabricante: Medium 
 ---
 
 Está [TRUTH & FABLE ACB042 vestido dama de honor mujer  Multicolor  Red   40  Talla del fabricante: Medium ](https://www.amazon.es/dp/B077G2LGRC/?tag=tolees-21) con 40.00 de descuento por 42 EUR (original: 70 EUR) en el siguiente enlace!

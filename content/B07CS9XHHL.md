@@ -10,8 +10,11 @@ author: ring
 slug: B07CS9XHHL
 description:
 actualPrice: 12.36 EUR
+currency: EUR
+price: 12.36
 comparePrice: 29.9 EUR
 inStock: true
+prodname: Pepe Jeans Mack  Camiseta para Hombre   White 800   Small
 ---
 
 Ahora mismo tienes [Pepe Jeans Mack  Camiseta para Hombre   White 800   Small](https://www.amazon.es/dp/B07CS9XHHL/?tag=tolees-21) a 12.36 EUR (original: 29.9 EUR) (58.66 %  de descuento) en el siguiente enlace!

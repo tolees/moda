@@ -10,8 +10,11 @@ author: ring
 slug: B00MUJ3DJO
 description:
 actualPrice: 44.98 EUR
+currency: EUR
+price: 44.98
 comparePrice: 99.95 EUR
 inStock: true
+prodname: G-STAR Defend - Vaqueros para hombre  Accel Stretch In Medium Aged  W30/L32  talla fabricante: 30/32 
 ---
 
 Tienes [G-STAR Defend - Vaqueros para hombre  Accel Stretch In Medium Aged  W30/L32  talla fabricante: 30/32 ](https://www.amazon.es/dp/B00MUJ3DJO/?tag=tolees-21) con un 55.00 % de descuento con precio de oferta de 44.98 EUR (original: 99.95 EUR) en el siguiente enlace!

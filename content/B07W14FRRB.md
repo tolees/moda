@@ -10,8 +10,11 @@ author: ring
 slug: B07W14FRRB
 description:
 actualPrice: 16.28 EUR
+currency: EUR
+price: 16.28
 comparePrice: 35.0 EUR
 inStock: true
+prodname: Pepe Jeans Jay Camiseta  Marfil  Off White 803   Medium para Hombre
 ---
 
 Ahora mismo tienes [Pepe Jeans Jay Camiseta  Marfil  Off White 803   Medium para Hombre](https://www.amazon.es/dp/B07W14FRRB/?tag=tolees-21) a 16.28 EUR (original: 35.0 EUR) (53.49 %  de descuento) en el siguiente enlace!

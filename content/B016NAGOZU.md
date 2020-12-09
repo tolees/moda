@@ -10,8 +10,11 @@ author: ring
 slug: B016NAGOZU
 description:
 actualPrice: 14.97 EUR
+currency: EUR
+price: 14.97
 comparePrice: 19.97 EUR
 inStock: true
+prodname: Guantes anticortes Twinzee® - Protección nivel 5 de alto rendimiento  aptos para uso alimentario  certificación EN 388  1 par  Medium 
 ---
 
 Ahora mismo tienes [Guantes anticortes Twinzee® - Protección nivel 5 de alto rendimiento  aptos para uso alimentario  certificación EN 388  1 par  Medium ](https://www.amazon.es/dp/B016NAGOZU/?tag=tolees-21) a 14.97 EUR (original: 19.97 EUR) (25.04 %  de descuento) en el siguiente enlace!

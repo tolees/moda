@@ -10,8 +10,11 @@ author: ring
 slug: B00PBLM4BQ
 description:
 actualPrice: 27.44 EUR
+currency: EUR
+price: 27.44
 comparePrice: 55 EUR
 inStock: true
+prodname: Polaroid PLD 1015/S H8 V08 53 Gafas de Sol  Marrón  Havana/Green Pz   Hombre
 ---
 
 Ahora mismo tienes [Polaroid PLD 1015/S H8 V08 53 Gafas de Sol  Marrón  Havana/Green Pz   Hombre](https://www.amazon.es/dp/B00PBLM4BQ/?tag=tolees-21) a 27.44 EUR (original: 55 EUR) (50.11 %  de descuento) en el siguiente enlace!

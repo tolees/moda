@@ -10,8 +10,11 @@ author: ring
 slug: B078GZ1JYV
 description:
 actualPrice: 5.41 EUR
+currency: EUR
+price: 5.41
 comparePrice: 12.99 EUR
 inStock: true
+prodname: Springfield 3283208  Camiseta para Hombre  Azul  Azul Marino   X-Large  Tamaño del fabricante:XL 
 ---
 
 Ahora mismo tienes [Springfield 3283208  Camiseta para Hombre  Azul  Azul Marino   X-Large  Tamaño del fabricante:XL ](https://www.amazon.es/dp/B078GZ1JYV/?tag=tolees-21) a 5.41 EUR (original: 12.99 EUR) (58.35 %  de descuento) en el siguiente enlace!

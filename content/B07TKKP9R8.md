@@ -10,8 +10,11 @@ author: ring
 slug: B07TKKP9R8
 description:
 actualPrice: 12.49 EUR
+currency: EUR
+price: 12.49
 comparePrice: 24.99 EUR
 inStock: true
+prodname: Superdry OL Vintage EMB Crew Camiseta  Negro  Vast Black Space Dye Vx7   S para Hombre
 ---
 
 Ahora mismo tienes [Superdry OL Vintage EMB Crew Camiseta  Negro  Vast Black Space Dye Vx7   S para Hombre](https://www.amazon.es/dp/B07TKKP9R8/?tag=tolees-21) a 12.49 EUR (original: 24.99 EUR) (50.02 %  de descuento) en el siguiente enlace!

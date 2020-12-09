@@ -10,8 +10,11 @@ author: ring
 slug: B07JD4XDYW
 description:
 actualPrice: 34.99 EUR
+currency: EUR
+price: 34.99
 comparePrice: 59.99 EUR
 inStock: true
+prodname: ENKEEO Casco de Esquí con Forro y Orejeras Desmontables  Gafas Compatibles  Negro/L
 ---
 
 Tienes [ENKEEO Casco de Esquí con Forro y Orejeras Desmontables  Gafas Compatibles  Negro/L](https://www.amazon.es/dp/B07JD4XDYW/?tag=tolees-21) con un 41.67 % de descuento con precio de oferta de 34.99 EUR (original: 59.99 EUR) en el siguiente enlace!

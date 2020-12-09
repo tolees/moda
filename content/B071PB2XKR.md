@@ -10,8 +10,11 @@ author: ring
 slug: B071PB2XKR
 description:
 actualPrice: 13.9 EUR
+currency: EUR
+price: 13.9
 comparePrice: 39.99 EUR
 inStock: true
+prodname: Only Onladah L/s Blazer Jrs Chaqueta de Traje   Cloud Dancer Detail:Melange   38  Talla del Fabricante: Medium  para Mujer
 ---
 
 Está [Only Onladah L/s Blazer Jrs Chaqueta de Traje   Cloud Dancer Detail:Melange   38  Talla del Fabricante: Medium  para Mujer](https://www.amazon.es/dp/B071PB2XKR/?tag=tolees-21) con 65.24 de descuento por 13.9 EUR (original: 39.99 EUR) en el siguiente enlace!

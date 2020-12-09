@@ -10,8 +10,11 @@ author: ring
 slug: B01MT9XIJ0
 description:
 actualPrice: 46.95 EUR
+currency: EUR
+price: 46.95
 comparePrice: 95 EUR
 inStock: true
+prodname: Pepe Jeans Pixie PL200025  Vaqueros Skinny para Mujer  Azul  10Oz Str 8Dip Royal Dk D45   W26/L30
 ---
 
 Tienes [Pepe Jeans Pixie PL200025  Vaqueros Skinny para Mujer  Azul  10Oz Str 8Dip Royal Dk D45   W26/L30](https://www.amazon.es/dp/B01MT9XIJ0/?tag=tolees-21) con un 50.58 % de descuento con precio de oferta de 46.95 EUR (original: 95 EUR) en el siguiente enlace!

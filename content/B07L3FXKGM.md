@@ -10,8 +10,11 @@ author: ring
 slug: B07L3FXKGM
 description:
 actualPrice: 19.45 EUR
+currency: EUR
+price: 19.45
 comparePrice: 29.9 EUR
 inStock: true
+prodname: Tommy Hilfiger Hilfiger Print Beach Sandal  Chanclas para Hombre  Negro  Black 990   43 EU
 ---
 
 Tienes [Tommy Hilfiger Hilfiger Print Beach Sandal  Chanclas para Hombre  Negro  Black 990   43 EU](https://www.amazon.es/dp/B07L3FXKGM/?tag=tolees-21) con un 34.95 % de descuento con precio de oferta de 19.45 EUR (original: 29.9 EUR) en el siguiente enlace!

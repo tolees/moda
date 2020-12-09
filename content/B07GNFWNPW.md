@@ -10,8 +10,11 @@ author: ring
 slug: B07GNFWNPW
 description:
 actualPrice: 35.99 EUR
+currency: EUR
+price: 35.99
 comparePrice: 58.0 EUR
 inStock: true
+prodname: Mujer Hombres Zapatos de Senderismo al Aire Libre Zapatos de Escalada Zapatillas de montaña Ideal para Deportes Caminar Caza atlético Grey 41 EU
 ---
 
 Tienes [Mujer Hombres Zapatos de Senderismo al Aire Libre Zapatos de Escalada Zapatillas de montaña Ideal para Deportes Caminar Caza atlético Grey 41 EU](https://www.amazon.es/dp/B07GNFWNPW/?tag=tolees-21) con un 37.95 % de descuento con precio de oferta de 35.99 EUR (original: 58.0 EUR) en el siguiente enlace!

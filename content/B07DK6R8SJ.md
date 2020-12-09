@@ -10,8 +10,11 @@ author: ring
 slug: B07DK6R8SJ
 description:
 actualPrice: 34.95 EUR
+currency: EUR
+price: 34.95
 comparePrice: 69.9 EUR
 inStock: true
+prodname: Geox J Nebula Girl A  Zapatillas para Niñas  Rosa  Rose C8011   33 EU
 ---
 
 Tienes [Geox J Nebula Girl A  Zapatillas para Niñas  Rosa  Rose C8011   33 EU](https://www.amazon.es/dp/B07DK6R8SJ/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 34.95 EUR (original: 69.9 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B01CUR8VN8
 description:
 actualPrice: 72.38 EUR
+currency: EUR
+price: 72.38
 comparePrice: 140 EUR
 inStock: true
+prodname: Timberland Bradstreet Plain Toe Sensorflex  Zapatos de Cordones Oxford para Hombre  Gris  Pewter Saddleback   40 EU
 ---
 
 Está [Timberland Bradstreet Plain Toe Sensorflex  Zapatos de Cordones Oxford para Hombre  Gris  Pewter Saddleback   40 EU](https://www.amazon.es/dp/B01CUR8VN8/?tag=tolees-21) con 48.30 de descuento por 72.38 EUR (original: 140 EUR) en el siguiente enlace!

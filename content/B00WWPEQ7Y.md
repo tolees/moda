@@ -10,8 +10,11 @@ author: ring
 slug: B00WWPEQ7Y
 description:
 actualPrice: 16.99 EUR
+currency: EUR
+price: 16.99
 comparePrice: 24.95 EUR
 inStock: true
+prodname: JACK & JONES SENSE TRUNKS 3-PACK Bóxer  Blanco  Large  Pack de 3  para Hombre
 ---
 
 Tienes [JACK & JONES SENSE TRUNKS 3-PACK Bóxer  Blanco  Large  Pack de 3  para Hombre](https://www.amazon.es/dp/B00WWPEQ7Y/?tag=tolees-21) con un 31.90 % de descuento con precio de oferta de 16.99 EUR (original: 24.95 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07DJFRGCH
 description:
 actualPrice: 18.1 EUR
+currency: EUR
+price: 18.1
 comparePrice: 59.95 EUR
 inStock: true
+prodname: Dockers by Gerli 35cp308  Botines para Mujer  Negro  Schwarz 100   37 EU
 ---
 
 Está [Dockers by Gerli 35cp308  Botines para Mujer  Negro  Schwarz 100   37 EU](https://www.amazon.es/dp/B07DJFRGCH/?tag=tolees-21) con 69.81 de descuento por 18.1 EUR (original: 59.95 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B0792FQWMB
 description:
 actualPrice: 69.93 EUR
+currency: EUR
+price: 69.93
 comparePrice: 99.9 EUR
 inStock: true
+prodname: Geox U Wells C  Zapatillas para Hombre  Azul  Navy/Dk Burgundy Cf47j   40 EU
 ---
 
 Tienes [Geox U Wells C  Zapatillas para Hombre  Azul  Navy/Dk Burgundy Cf47j   40 EU](https://www.amazon.es/dp/B0792FQWMB/?tag=tolees-21) con un 30.00 % de descuento con precio de oferta de 69.93 EUR (original: 99.9 EUR) en el siguiente enlace!

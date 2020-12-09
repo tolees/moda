@@ -10,8 +10,11 @@ author: ring
 slug: B00TH2VCJ0
 description:
 actualPrice: 8.09 EUR
+currency: EUR
+price: 8.09
 comparePrice: 26.95 EUR
 inStock: true
+prodname: Berydale Blusa de manga larga para mujer  con escote tipo túnica  Blanco  34
 ---
 
 Ahora mismo tienes [Berydale Blusa de manga larga para mujer  con escote tipo túnica  Blanco  34](https://www.amazon.es/dp/B00TH2VCJ0/?tag=tolees-21) a 8.09 EUR (original: 26.95 EUR) (69.98 %  de descuento) en el siguiente enlace!

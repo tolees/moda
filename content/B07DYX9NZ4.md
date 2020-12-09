@@ -10,8 +10,11 @@ author: ring
 slug: B07DYX9NZ4
 description:
 actualPrice: 82 EUR
+currency: EUR
+price: 82
 comparePrice: 149.99 EUR
 inStock: true
+prodname: Columbia Chaqueta Impermeable con Capucha para Hombre  Pike Lake Hooded Jacket  Rojo  Red Element/Bright Copper   Talla M
 ---
 
 Tienes [Columbia Chaqueta Impermeable con Capucha para Hombre  Pike Lake Hooded Jacket  Rojo  Red Element/Bright Copper   Talla M](https://www.amazon.es/dp/B07DYX9NZ4/?tag=tolees-21) con un 45.33 % de descuento con precio de oferta de 82 EUR (original: 149.99 EUR) en el siguiente enlace!

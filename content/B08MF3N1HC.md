@@ -10,8 +10,11 @@ author: ring
 slug: B08MF3N1HC
 description:
 actualPrice: 0.7 EUR
+currency: EUR
+price: 0.7
 comparePrice: 1.05 EUR
 inStock: true
+prodname: LIGH 1pc Nuevo Hombre  Mujer  Caucho Negro  Acero Inoxidable  cordón  Collar  Cadena  Regalo de joyería de Moda - Negro
 ---
 
 Tienes [LIGH 1pc Nuevo Hombre  Mujer  Caucho Negro  Acero Inoxidable  cordón  Collar  Cadena  Regalo de joyería de Moda - Negro](https://www.amazon.es/dp/B08MF3N1HC/?tag=tolees-21) con un 33.33 % de descuento con precio de oferta de 0.7 EUR (original: 1.05 EUR) en el siguiente enlace!

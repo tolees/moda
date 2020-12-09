@@ -10,8 +10,11 @@ author: ring
 slug: B07M85HFXD
 description:
 actualPrice: 10.61 EUR
+currency: EUR
+price: 10.61
 comparePrice: 24.99 EUR
 inStock: true
+prodname: Levi s Levis 200SF CALEIDOSCOPE Boxer Brief 2P Culotte  Azul  Blue 056   S  Talla de Fabricante :010   Pack de 2 para Hombre
 ---
 
 Ahora mismo tienes [Levi s Levis 200SF CALEIDOSCOPE Boxer Brief 2P Culotte  Azul  Blue 056   S  Talla de Fabricante :010   Pack de 2 para Hombre](https://www.amazon.es/dp/B07M85HFXD/?tag=tolees-21) a 10.61 EUR (original: 24.99 EUR) (57.54 %  de descuento) en el siguiente enlace!

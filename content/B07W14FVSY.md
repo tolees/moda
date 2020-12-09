@@ -10,8 +10,11 @@ author: ring
 slug: B07W14FVSY
 description:
 actualPrice: 10.16 EUR
+currency: EUR
+price: 10.16
 comparePrice: 29.9 EUR
 inStock: true
+prodname: Pepe Jeans West Sir Camiseta  Verde  Unesafari 734   Small para Hombre
 ---
 
 Tienes [Pepe Jeans West Sir Camiseta  Verde  Unesafari 734   Small para Hombre](https://www.amazon.es/dp/B07W14FVSY/?tag=tolees-21) con un 66.02 % de descuento con precio de oferta de 10.16 EUR (original: 29.9 EUR) en el siguiente enlace!

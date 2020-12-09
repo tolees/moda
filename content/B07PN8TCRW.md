@@ -10,8 +10,11 @@ author: ring
 slug: B07PN8TCRW
 description:
 actualPrice: 16.47 EUR
+currency: EUR
+price: 16.47
 comparePrice: 26.86 EUR
 inStock: true
+prodname: Rieker Herbst/Winter  Botines Mujer  Rojo  Bordeaux/Havanna/Vino 35   37 EU
 ---
 
 Está [Rieker Herbst/Winter  Botines Mujer  Rojo  Bordeaux/Havanna/Vino 35   37 EU](https://www.amazon.es/dp/B07PN8TCRW/?tag=tolees-21) con 38.68 de descuento por 16.47 EUR (original: 26.86 EUR) en el siguiente enlace!

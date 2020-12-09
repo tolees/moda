@@ -10,8 +10,11 @@ author: ring
 slug: B07NDN35ZX
 description:
 actualPrice: 50 EUR
+currency: EUR
+price: 50
 comparePrice: 99.95 EUR
 inStock: true
+prodname: G-STAR RAW Revend Vaqueros skinny para Hombre para Hombre  Negro  Pitch Black B964/A810   W27/L32
 ---
 
 Ahora mismo tienes [G-STAR RAW Revend Vaqueros skinny para Hombre para Hombre  Negro  Pitch Black B964/A810   W27/L32](https://www.amazon.es/dp/B07NDN35ZX/?tag=tolees-21) a 50 EUR (original: 99.95 EUR) (49.97 %  de descuento) en el siguiente enlace!

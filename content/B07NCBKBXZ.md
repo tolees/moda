@@ -10,8 +10,11 @@ author: ring
 slug: B07NCBKBXZ
 description:
 actualPrice: 9.9 EUR
+currency: EUR
+price: 9.9
 comparePrice: 23 EUR
 inStock: true
+prodname: Pepe Jeans 45th 03b Camiseta  Marfil  Off White 803   3 años  Talla del Fabricante: 3  para Niños
 ---
 
 Tienes [Pepe Jeans 45th 03b Camiseta  Marfil  Off White 803   3 años  Talla del Fabricante: 3  para Niños](https://www.amazon.es/dp/B07NCBKBXZ/?tag=tolees-21) con un 56.96 % de descuento con precio de oferta de 9.9 EUR (original: 23 EUR) en el siguiente enlace!

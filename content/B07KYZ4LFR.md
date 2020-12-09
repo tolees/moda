@@ -10,8 +10,11 @@ author: ring
 slug: B07KYZ4LFR
 description:
 actualPrice: 23.06 EUR
+currency: EUR
+price: 23.06
 comparePrice: 39.99 EUR
 inStock: true
+prodname: Springfield 0 5.G.MD.Bandolera Cadena  Bolso Bandolera para Mujer   Negro 
 ---
 
 Está [Springfield 0 5.G.MD.Bandolera Cadena  Bolso Bandolera para Mujer   Negro ](https://www.amazon.es/dp/B07KYZ4LFR/?tag=tolees-21) con 42.34 de descuento por 23.06 EUR (original: 39.99 EUR) en el siguiente enlace!

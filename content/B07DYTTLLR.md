@@ -10,8 +10,11 @@ author: ring
 slug: B07DYTTLLR
 description:
 actualPrice: 93.98 EUR
+currency: EUR
+price: 93.98
 comparePrice: 169.99 EUR
 inStock: true
+prodname: Columbia Chaqueta de esquí Impermeable para Hombre  Ride On Ski Jacket  Negro  Talla XXL
 ---
 
 Ahora mismo tienes [Columbia Chaqueta de esquí Impermeable para Hombre  Ride On Ski Jacket  Negro  Talla XXL](https://www.amazon.es/dp/B07DYTTLLR/?tag=tolees-21) a 93.98 EUR (original: 169.99 EUR) (44.71 %  de descuento) en el siguiente enlace!

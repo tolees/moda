@@ -10,8 +10,11 @@ author: ring
 slug: B07JKKHL2Y
 description:
 actualPrice: 18.05 EUR
+currency: EUR
+price: 18.05
 comparePrice: 29.95 EUR
 inStock: true
+prodname: Refresh 69769  Sandalias con Punta Cerrada para Mujer  Amarillo  40 EU
 ---
 
 Ahora mismo tienes [Refresh 69769  Sandalias con Punta Cerrada para Mujer  Amarillo  40 EU](https://www.amazon.es/dp/B07JKKHL2Y/?tag=tolees-21) a 18.05 EUR (original: 29.95 EUR) (39.73 %  de descuento) en el siguiente enlace!

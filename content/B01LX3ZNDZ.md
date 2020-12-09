@@ -10,8 +10,11 @@ author: ring
 slug: B01LX3ZNDZ
 description:
 actualPrice: 29.16 EUR
+currency: EUR
+price: 29.16
 comparePrice: 59 EUR
 inStock: true
+prodname: Samsonite Sideways Laptop Bag 15.6" Bolso Bandolera  10.5 litros  Color Azul/Naranja
 ---
 
 Está [Samsonite Sideways Laptop Bag 15.6" Bolso Bandolera  10.5 litros  Color Azul/Naranja](https://www.amazon.es/dp/B01LX3ZNDZ/?tag=tolees-21) con 50.58 de descuento por 29.16 EUR (original: 59 EUR) en el siguiente enlace!

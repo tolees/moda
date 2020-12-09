@@ -10,8 +10,11 @@ author: ring
 slug: B01B6KX2UW
 description:
 actualPrice: 25.39 EUR
+currency: EUR
+price: 25.39
 comparePrice: 62.5 EUR
 inStock: true
+prodname: Puma Speed 500 Ignite Wn  Zapatilla para Mujer  Rojo  Red Blast-Royal Blue-White 01   40
 ---
 
 Ahora mismo tienes [Puma Speed 500 Ignite Wn  Zapatilla para Mujer  Rojo  Red Blast-Royal Blue-White 01   40](https://www.amazon.es/dp/B01B6KX2UW/?tag=tolees-21) a 25.39 EUR (original: 62.5 EUR) (59.38 %  de descuento) en el siguiente enlace!

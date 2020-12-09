@@ -10,8 +10,11 @@ author: ring
 slug: B077KGLLYK
 description:
 actualPrice: 14.06 EUR
+currency: EUR
+price: 14.06
 comparePrice: 49.95 EUR
 inStock: true
+prodname: Puma FIGC Italia Training Pants Zipped Pockets Jr Pantalón  Niños   Azul Oscuro   164
 ---
 
 Está [Puma FIGC Italia Training Pants Zipped Pockets Jr Pantalón  Niños   Azul Oscuro   164](https://www.amazon.es/dp/B077KGLLYK/?tag=tolees-21) con 71.85 de descuento por 14.06 EUR (original: 49.95 EUR) en el siguiente enlace!

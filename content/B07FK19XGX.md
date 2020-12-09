@@ -10,8 +10,11 @@ author: ring
 slug: B07FK19XGX
 description:
 actualPrice: 8.6 EUR
+currency: EUR
+price: 8.6
 comparePrice: 29.95 EUR
 inStock: true
+prodname: Lee Boxed Logo tee  Camiseta para Mujer  Blanco  White 12  X-Small
 ---
 
 Está [Lee Boxed Logo tee  Camiseta para Mujer  Blanco  White 12  X-Small](https://www.amazon.es/dp/B07FK19XGX/?tag=tolees-21) con 71.29 de descuento por 8.6 EUR (original: 29.95 EUR) en el siguiente enlace!

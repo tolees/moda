@@ -10,8 +10,11 @@ author: ring
 slug: B07JWXDVTV
 description:
 actualPrice: 24.96 EUR
+currency: EUR
+price: 24.96
 comparePrice: 44.95 EUR
 inStock: true
+prodname: Puma Evoknit Seamless Leggins  Mujer  Ponderosa Pine  S
 ---
 
 Ahora mismo tienes [Puma Evoknit Seamless Leggins  Mujer  Ponderosa Pine  S](https://www.amazon.es/dp/B07JWXDVTV/?tag=tolees-21) a 24.96 EUR (original: 44.95 EUR) (44.47 %  de descuento) en el siguiente enlace!

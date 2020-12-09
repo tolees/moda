@@ -10,8 +10,11 @@ author: ring
 slug: B07KJY8JTV
 description:
 actualPrice: 10.95 EUR
+currency: EUR
+price: 10.95
 comparePrice: 19.99 EUR
 inStock: true
+prodname: Quiksilver Quik Pool Camiseta de Manga Corta  Hombre  Naranja  Flamingo   XL
 ---
 
 Tienes [Quiksilver Quik Pool Camiseta de Manga Corta  Hombre  Naranja  Flamingo   XL](https://www.amazon.es/dp/B07KJY8JTV/?tag=tolees-21) con un 45.22 % de descuento con precio de oferta de 10.95 EUR (original: 19.99 EUR) en el siguiente enlace!

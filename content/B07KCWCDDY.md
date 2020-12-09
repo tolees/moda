@@ -10,8 +10,11 @@ author: ring
 slug: B07KCWCDDY
 description:
 actualPrice: 15.99 EUR
+currency: EUR
+price: 15.99
 comparePrice: 30 EUR
 inStock: true
+prodname: Hurley - Camiseta para hombre  Negro  XXL  High Bars Prm Tee Ss
 ---
 
 Está [Hurley - Camiseta para hombre  Negro  XXL  High Bars Prm Tee Ss](https://www.amazon.es/dp/B07KCWCDDY/?tag=tolees-21) con 46.70 de descuento por 15.99 EUR (original: 30 EUR) en el siguiente enlace!

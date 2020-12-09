@@ -10,8 +10,11 @@ author: ring
 slug: B07CRDZY56
 description:
 actualPrice: 18.25 EUR
+currency: EUR
+price: 18.25
 comparePrice: 39.9 EUR
 inStock: true
+prodname: Pepe Jeans Marlene Camiseta    Off White 803   X-Small para Mujer
 ---
 
 Tienes [Pepe Jeans Marlene Camiseta    Off White 803   X-Small para Mujer](https://www.amazon.es/dp/B07CRDZY56/?tag=tolees-21) con un 54.26 % de descuento con precio de oferta de 18.25 EUR (original: 39.9 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07B7XRTK8
 description:
 actualPrice: 19.72 EUR
+currency: EUR
+price: 19.72
 comparePrice: 109.95 EUR
 inStock: true
+prodname: Petrol Industries M-FW18-JAC104  Chaqueta para Hombre  Negro  Black 9999   Tamaño del Fabricante:M 
 ---
 
 Está [Petrol Industries M-FW18-JAC104  Chaqueta para Hombre  Negro  Black 9999   Tamaño del Fabricante:M ](https://www.amazon.es/dp/B07B7XRTK8/?tag=tolees-21) con 82.06 de descuento por 19.72 EUR (original: 109.95 EUR) en el siguiente enlace!

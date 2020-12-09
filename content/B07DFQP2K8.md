@@ -10,8 +10,11 @@ author: ring
 slug: B07DFQP2K8
 description:
 actualPrice: 10.49 EUR
+currency: EUR
+price: 10.49
 comparePrice: 21.9 EUR
 inStock: true
+prodname: Calvin Klein 2pk Trunks  Bóxer para Niños  Gris  1Greyheather/1Black 021  110  Talla del Fabricante: 4-5   Pack de 2
 ---
 
 Tienes [Calvin Klein 2pk Trunks  Bóxer para Niños  Gris  1Greyheather/1Black 021  110  Talla del Fabricante: 4-5   Pack de 2](https://www.amazon.es/dp/B07DFQP2K8/?tag=tolees-21) con un 52.10 % de descuento con precio de oferta de 10.49 EUR (original: 21.9 EUR) en el siguiente enlace!

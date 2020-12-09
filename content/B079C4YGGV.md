@@ -10,8 +10,11 @@ author: ring
 slug: B079C4YGGV
 description:
 actualPrice: 5.99 EUR
+currency: EUR
+price: 5.99
 comparePrice: 9.99 EUR
 inStock: true
+prodname: Jack & Jones Jjecorp Logo tee SS Crew Neck Noos Camiseta  Negro  Black Detail: Slim Fit   XX-Large para Hombre
 ---
 
 Ahora mismo tienes [Jack & Jones Jjecorp Logo tee SS Crew Neck Noos Camiseta  Negro  Black Detail: Slim Fit   XX-Large para Hombre](https://www.amazon.es/dp/B079C4YGGV/?tag=tolees-21) a 5.99 EUR (original: 9.99 EUR) (40.04 %  de descuento) en el siguiente enlace!

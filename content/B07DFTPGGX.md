@@ -10,8 +10,11 @@ author: ring
 slug: B07DFTPGGX
 description:
 actualPrice: 11.8 EUR
+currency: EUR
+price: 11.8
 comparePrice: 19.99 EUR
 inStock: true
+prodname: Under Armour Box Logo SS Camiseta  Niños  Negro  Black/Silt Brown 001   L
 ---
 
 Ahora mismo tienes [Under Armour Box Logo SS Camiseta  Niños  Negro  Black/Silt Brown 001   L](https://www.amazon.es/dp/B07DFTPGGX/?tag=tolees-21) a 11.8 EUR (original: 19.99 EUR) (40.97 %  de descuento) en el siguiente enlace!

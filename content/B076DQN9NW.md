@@ -10,8 +10,11 @@ author: ring
 slug: B076DQN9NW
 description:
 actualPrice: 19.99 EUR
+currency: EUR
+price: 19.99
 comparePrice: 43.99 EUR
 inStock: true
+prodname: Gafas Polarizadas Deporte Bici Anti UV400 Gafas Para Correr Running Antivaho con 5 Lentes Intercambiables Adaptadas también a Ciclismo Bicicleta de Montaña MTB y Carrera para Hombre y Mujer
 ---
 
 Ahora mismo tienes [Gafas Polarizadas Deporte Bici Anti UV400 Gafas Para Correr Running Antivaho con 5 Lentes Intercambiables Adaptadas también a Ciclismo Bicicleta de Montaña MTB y Carrera para Hombre y Mujer](https://www.amazon.es/dp/B076DQN9NW/?tag=tolees-21) a 19.99 EUR (original: 43.99 EUR) (54.56 %  de descuento) en el siguiente enlace!

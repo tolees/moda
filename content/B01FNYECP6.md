@@ -10,8 +10,11 @@ author: ring
 slug: B01FNYECP6
 description:
 actualPrice: 23.48 EUR
+currency: EUR
+price: 23.48
 comparePrice: 44.67 EUR
 inStock: true
+prodname: Garcia Z00046 Chaqueta   Spring White  44 Talladelfabricante:XL  para Mujer
 ---
 
 Tienes [Garcia Z00046 Chaqueta   Spring White  44 Talladelfabricante:XL  para Mujer](https://www.amazon.es/dp/B01FNYECP6/?tag=tolees-21) con un 47.44 % de descuento con precio de oferta de 23.48 EUR (original: 44.67 EUR) en el siguiente enlace!

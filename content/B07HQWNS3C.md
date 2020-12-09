@@ -10,8 +10,11 @@ author: ring
 slug: B07HQWNS3C
 description:
 actualPrice: 33.88 EUR
+currency: EUR
+price: 33.88
 comparePrice: 79.99 EUR
 inStock: true
+prodname: JACK & JONES Hombre Jjitim Jjoriginal JJ 320 Noos Vaqueros Slim Not Applicable  Azul  Blue Denim Blue Denim   W29/L30
 ---
 
 Ahora mismo tienes [JACK & JONES Hombre Jjitim Jjoriginal JJ 320 Noos Vaqueros Slim Not Applicable  Azul  Blue Denim Blue Denim   W29/L30](https://www.amazon.es/dp/B07HQWNS3C/?tag=tolees-21) a 33.88 EUR (original: 79.99 EUR) (57.64 %  de descuento) en el siguiente enlace!

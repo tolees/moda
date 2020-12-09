@@ -10,8 +10,11 @@ author: ring
 slug: B079MBX1RM
 description:
 actualPrice: 12 EUR
+currency: EUR
+price: 12
 comparePrice: 16 EUR
 inStock: true
+prodname: MERAKI Camiseta de Rayas de Manga Corta Hombre  Blanco  Stripe 1 Navy / White   X-Large
 ---
 
 Ahora mismo tienes [MERAKI Camiseta de Rayas de Manga Corta Hombre  Blanco  Stripe 1 Navy / White   X-Large](https://www.amazon.es/dp/B079MBX1RM/?tag=tolees-21) a 12 EUR (original: 16 EUR) (25.00 %  de descuento) en el siguiente enlace!

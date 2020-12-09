@@ -10,8 +10,11 @@ author: ring
 slug: B01N7QEI7Q
 description:
 actualPrice: 4.6 EUR
+currency: EUR
+price: 4.6
 comparePrice: 15.4 EUR
 inStock: true
+prodname: oodji Collection Mujer Vestido Ajustado con Escote en la Espalda  Verde  ES 42 / L
 ---
 
 Ahora mismo tienes [oodji Collection Mujer Vestido Ajustado con Escote en la Espalda  Verde  ES 42 / L](https://www.amazon.es/dp/B01N7QEI7Q/?tag=tolees-21) a 4.6 EUR (original: 15.4 EUR) (70.13 %  de descuento) en el siguiente enlace!

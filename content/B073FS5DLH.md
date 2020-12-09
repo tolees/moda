@@ -10,8 +10,11 @@ author: ring
 slug: B073FS5DLH
 description:
 actualPrice: 9.66 EUR
+currency: EUR
+price: 9.66
 comparePrice: 34.99 EUR
 inStock: true
+prodname: JACK & JONES Jcoslice Sweat Crew Neck  Sudadera para Hombre  Gris  Light Grey Melange Fit:Slim  Small
 ---
 
 Tienes [JACK & JONES Jcoslice Sweat Crew Neck  Sudadera para Hombre  Gris  Light Grey Melange Fit:Slim  Small](https://www.amazon.es/dp/B073FS5DLH/?tag=tolees-21) con un 72.39 % de descuento con precio de oferta de 9.66 EUR (original: 34.99 EUR) en el siguiente enlace!

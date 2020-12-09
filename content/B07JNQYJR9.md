@@ -10,8 +10,11 @@ author: ring
 slug: B07JNQYJR9
 description:
 actualPrice: 18.75 EUR
+currency: EUR
+price: 18.75
 comparePrice: 54 EUR
 inStock: true
+prodname: Guess SL Famme Top Camiseta de Tirantes  Blanco  True White A000 Twht   Large para Mujer
 ---
 
 Ahora mismo tienes [Guess SL Famme Top Camiseta de Tirantes  Blanco  True White A000 Twht   Large para Mujer](https://www.amazon.es/dp/B07JNQYJR9/?tag=tolees-21) a 18.75 EUR (original: 54 EUR) (65.28 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07HKHCGJG
 description:
 actualPrice: 13.48 EUR
+currency: EUR
+price: 13.48
 comparePrice: 29.73 EUR
 inStock: true
+prodname: Dorothy Perkins Maternity Brushed Wrap Dress  Vestido para Mujer  Gris  Grey  38  Talla del Fabricante: 10 
 ---
 
 Está [Dorothy Perkins Maternity Brushed Wrap Dress  Vestido para Mujer  Gris  Grey  38  Talla del Fabricante: 10 ](https://www.amazon.es/dp/B07HKHCGJG/?tag=tolees-21) con 54.66 de descuento por 13.48 EUR (original: 29.73 EUR) en el siguiente enlace!

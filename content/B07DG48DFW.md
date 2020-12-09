@@ -10,8 +10,11 @@ author: ring
 slug: B07DG48DFW
 description:
 actualPrice: 12.95 EUR
+currency: EUR
+price: 12.95
 comparePrice: 18.95 EUR
 inStock: true
+prodname: Puma Amplified tee Camiseta  Hombre  Negro  Cotton Black   M
 ---
 
 Ahora mismo tienes [Puma Amplified tee Camiseta  Hombre  Negro  Cotton Black   M](https://www.amazon.es/dp/B07DG48DFW/?tag=tolees-21) a 12.95 EUR (original: 18.95 EUR) (31.66 %  de descuento) en el siguiente enlace!

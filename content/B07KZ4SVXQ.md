@@ -10,8 +10,11 @@ author: ring
 slug: B07KZ4SVXQ
 description:
 actualPrice: 19.5 EUR
+currency: EUR
+price: 19.5
 comparePrice: 38.13 EUR
 inStock: true
+prodname: REPLAY M3763 .000.22662g Camiseta  Rojo  Coral Red 753   Large para Hombre
 ---
 
 Ahora mismo tienes [REPLAY M3763 .000.22662g Camiseta  Rojo  Coral Red 753   Large para Hombre](https://www.amazon.es/dp/B07KZ4SVXQ/?tag=tolees-21) a 19.5 EUR (original: 38.13 EUR) (48.86 %  de descuento) en el siguiente enlace!

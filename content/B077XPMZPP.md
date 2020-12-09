@@ -10,8 +10,11 @@ author: ring
 slug: B077XPMZPP
 description:
 actualPrice: 6.16 EUR
+currency: EUR
+price: 6.16
 comparePrice: 30 EUR
 inStock: true
+prodname: Under Armour Fly by Printed Short - Pantalón Corto para Mujer  Mujer  1297126-439  Deceit/Black/Reflective  Large
 ---
 
 Está [Under Armour Fly by Printed Short - Pantalón Corto para Mujer  Mujer  1297126-439  Deceit/Black/Reflective  Large](https://www.amazon.es/dp/B077XPMZPP/?tag=tolees-21) con 79.47 de descuento por 6.16 EUR (original: 30 EUR) en el siguiente enlace!

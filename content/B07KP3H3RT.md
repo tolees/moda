@@ -10,8 +10,11 @@ author: ring
 slug: B07KP3H3RT
 description:
 actualPrice: 22.48 EUR
+currency: EUR
+price: 22.48
 comparePrice: 31.71 EUR
 inStock: true
+prodname: adidas DT9938 Sudadera  Hombre  Azul  Legend Ink/White   M
 ---
 
 Está [adidas DT9938 Sudadera  Hombre  Azul  Legend Ink/White   M](https://www.amazon.es/dp/B07KP3H3RT/?tag=tolees-21) con 29.11 de descuento por 22.48 EUR (original: 31.71 EUR) en el siguiente enlace!

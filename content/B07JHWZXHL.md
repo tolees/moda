@@ -10,8 +10,11 @@ author: ring
 slug: B07JHWZXHL
 description:
 actualPrice: 14.48 EUR
+currency: EUR
+price: 14.48
 comparePrice: 34.95 EUR
 inStock: true
+prodname: PUMA ftblNXT Graphic Shirt Camiseta  Hombre  Negro Black/Red Blast  XXL
 ---
 
 Ahora mismo tienes [PUMA ftblNXT Graphic Shirt Camiseta  Hombre  Negro Black/Red Blast  XXL](https://www.amazon.es/dp/B07JHWZXHL/?tag=tolees-21) a 14.48 EUR (original: 34.95 EUR) (58.57 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07JMQ35XQ
 description:
 actualPrice: 27.39 EUR
+currency: EUR
+price: 27.39
 comparePrice: 39.95 EUR
 inStock: true
+prodname: XTI 32035  Zapatos con Tira de Tobillo para Mujer  Azul Navy  38 EU
 ---
 
 Tienes [XTI 32035  Zapatos con Tira de Tobillo para Mujer  Azul Navy  38 EU](https://www.amazon.es/dp/B07JMQ35XQ/?tag=tolees-21) con un 31.44 % de descuento con precio de oferta de 27.39 EUR (original: 39.95 EUR) en el siguiente enlace!

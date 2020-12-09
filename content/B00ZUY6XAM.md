@@ -10,8 +10,11 @@ author: ring
 slug: B00ZUY6XAM
 description:
 actualPrice: 36.55 EUR
+currency: EUR
+price: 36.55
 comparePrice: 52 EUR
 inStock: true
+prodname: REEF Fanning  Sandalias Flip-Flop para Hombre  Negro  Black / Silver   44 EU
 ---
 
 Tienes [REEF Fanning  Sandalias Flip-Flop para Hombre  Negro  Black / Silver   44 EU](https://www.amazon.es/dp/B00ZUY6XAM/?tag=tolees-21) con un 29.71 % de descuento con precio de oferta de 36.55 EUR (original: 52 EUR) en el siguiente enlace!

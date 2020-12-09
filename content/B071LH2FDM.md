@@ -10,8 +10,11 @@ author: ring
 slug: B071LH2FDM
 description:
 actualPrice: 17.04 EUR
+currency: EUR
+price: 17.04
 comparePrice: 26 EUR
 inStock: true
+prodname: Under Armour Team Issue Wordmark Camiseta de Manga Corta  Hombre  Blanco  100   L
 ---
 
 Tienes [Under Armour Team Issue Wordmark Camiseta de Manga Corta  Hombre  Blanco  100   L](https://www.amazon.es/dp/B071LH2FDM/?tag=tolees-21) con un 34.46 % de descuento con precio de oferta de 17.04 EUR (original: 26 EUR) en el siguiente enlace!

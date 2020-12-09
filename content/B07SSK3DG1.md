@@ -10,8 +10,11 @@ author: ring
 slug: B07SSK3DG1
 description:
 actualPrice: 35.49 EUR
+currency: EUR
+price: 35.49
 comparePrice: 99.9 EUR
 inStock: true
+prodname: Geox D ANNYTAH C  Bailarinas Mujer  Beige  Skin/Black C8616   36 EU
 ---
 
 Está [Geox D ANNYTAH C  Bailarinas Mujer  Beige  Skin/Black C8616   36 EU](https://www.amazon.es/dp/B07SSK3DG1/?tag=tolees-21) con 64.47 de descuento por 35.49 EUR (original: 99.9 EUR) en el siguiente enlace!

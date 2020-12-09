@@ -10,8 +10,11 @@ author: ring
 slug: B01BGTV89K
 description:
 actualPrice: 65.99 EUR
+currency: EUR
+price: 65.99
 comparePrice: 99.95 EUR
 inStock: true
+prodname: G-STAR RAW Midge Saddle Mid Waist Straight Vaqueros  Dk Aged 6553-89  22W / 26L para Mujer
 ---
 
 Está [G-STAR RAW Midge Saddle Mid Waist Straight Vaqueros  Dk Aged 6553-89  22W / 26L para Mujer](https://www.amazon.es/dp/B01BGTV89K/?tag=tolees-21) con 33.98 de descuento por 65.99 EUR (original: 99.95 EUR) en el siguiente enlace!

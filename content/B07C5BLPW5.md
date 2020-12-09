@@ -10,8 +10,11 @@ author: ring
 slug: B07C5BLPW5
 description:
 actualPrice: 15.95 EUR
+currency: EUR
+price: 15.95
 comparePrice: 74.95 EUR
 inStock: true
+prodname: Rieker 97790  Botines para Mujer  Verde  Forest/Testadimoro 54   37 EU
 ---
 
 Tienes [Rieker 97790  Botines para Mujer  Verde  Forest/Testadimoro 54   37 EU](https://www.amazon.es/dp/B07C5BLPW5/?tag=tolees-21) con un 78.72 % de descuento con precio de oferta de 15.95 EUR (original: 74.95 EUR) en el siguiente enlace!

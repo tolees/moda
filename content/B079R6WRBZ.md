@@ -10,8 +10,11 @@ author: ring
 slug: B079R6WRBZ
 description:
 actualPrice: 3 EUR
+currency: EUR
+price: 3
 comparePrice: 7 EUR
 inStock: true
+prodname: oodji Ultra Mujer Camiseta Estampada de Algodón Sin Etiqueta  Verde  ES 40 / M
 ---
 
 Ahora mismo tienes [oodji Ultra Mujer Camiseta Estampada de Algodón Sin Etiqueta  Verde  ES 40 / M](https://www.amazon.es/dp/B079R6WRBZ/?tag=tolees-21) a 3 EUR (original: 7 EUR) (57.14 %  de descuento) en el siguiente enlace!

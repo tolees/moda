@@ -10,8 +10,11 @@ author: ring
 slug: B01J7IUKYQ
 description:
 actualPrice: 10.68 EUR
+currency: EUR
+price: 10.68
 comparePrice: 96.9 EUR
 inStock: true
+prodname: 2TWO Lamus  Vestido para Mujer  Negro ES FR 38
 ---
 
 Está [2TWO Lamus  Vestido para Mujer  Negro ES FR 38](https://www.amazon.es/dp/B01J7IUKYQ/?tag=tolees-21) con 88.98 de descuento por 10.68 EUR (original: 96.9 EUR) en el siguiente enlace!

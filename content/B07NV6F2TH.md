@@ -10,8 +10,11 @@ author: ring
 slug: B07NV6F2TH
 description:
 actualPrice: 17.88 EUR
+currency: EUR
+price: 17.88
 comparePrice: 26.99 EUR
 inStock: true
+prodname: Bolso Pecho Hombre Mujer Bolsos Bandolera Mochila Táctical Impermeable Bolsos Mochila Casual para Viajes de Ciclismo Deportivo Negro
 ---
 
 Está [Bolso Pecho Hombre Mujer Bolsos Bandolera Mochila Táctical Impermeable Bolsos Mochila Casual para Viajes de Ciclismo Deportivo Negro](https://www.amazon.es/dp/B07NV6F2TH/?tag=tolees-21) con 33.75 de descuento por 17.88 EUR (original: 26.99 EUR) en el siguiente enlace!

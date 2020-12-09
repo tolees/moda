@@ -10,8 +10,11 @@ author: ring
 slug: B01M2VG8YZ
 description:
 actualPrice: 28.48 EUR
+currency: EUR
+price: 28.48
 comparePrice: 115 EUR
 inStock: true
+prodname: Geox D THYMAR B  Zapatillas para Mujer  Beige Gold/LT TAUPEC2LH6  41 EU
 ---
 
 Tienes [Geox D THYMAR B  Zapatillas para Mujer  Beige Gold/LT TAUPEC2LH6  41 EU](https://www.amazon.es/dp/B01M2VG8YZ/?tag=tolees-21) con un 75.23 % de descuento con precio de oferta de 28.48 EUR (original: 115 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07JHCNYMP
 description:
 actualPrice: 57.99 EUR
+currency: EUR
+price: 57.99
 comparePrice: 89.99 EUR
 inStock: true
+prodname: Columbia Redmond V2  Zapatos de Senderismo Impermeables Hombre  Marrón  Mud  Dark Adobe   42 EU
 ---
 
 Ahora mismo tienes [Columbia Redmond V2  Zapatos de Senderismo Impermeables Hombre  Marrón  Mud  Dark Adobe   42 EU](https://www.amazon.es/dp/B07JHCNYMP/?tag=tolees-21) a 57.99 EUR (original: 89.99 EUR) (35.56 %  de descuento) en el siguiente enlace!

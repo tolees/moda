@@ -10,8 +10,11 @@ author: ring
 slug: B07G89CNCX
 description:
 actualPrice: 16.55 EUR
+currency: EUR
+price: 16.55
 comparePrice: 39.99 EUR
 inStock: true
+prodname: OBEEII Niña Princesa Bebé Niña Vestido Unicornio Cumpleaños Disfraz de Cosplay para Fiesta Carnaval Navidad Bautizo Comunión Boda Rosa 4-5 Años
 ---
 
 Está [OBEEII Niña Princesa Bebé Niña Vestido Unicornio Cumpleaños Disfraz de Cosplay para Fiesta Carnaval Navidad Bautizo Comunión Boda Rosa 4-5 Años](https://www.amazon.es/dp/B07G89CNCX/?tag=tolees-21) con 58.61 de descuento por 16.55 EUR (original: 39.99 EUR) en el siguiente enlace!

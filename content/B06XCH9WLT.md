@@ -10,8 +10,11 @@ author: ring
 slug: B06XCH9WLT
 description:
 actualPrice: 70.95 EUR
+currency: EUR
+price: 70.95
 comparePrice: 140 EUR
 inStock: true
+prodname: Clarks Clarkdale Bud  Botines Hombre  Negro  Black Leather   42 EU
 ---
 
 Tienes [Clarks Clarkdale Bud  Botines Hombre  Negro  Black Leather   42 EU](https://www.amazon.es/dp/B06XCH9WLT/?tag=tolees-21) con un 49.32 % de descuento con precio de oferta de 70.95 EUR (original: 140 EUR) en el siguiente enlace!

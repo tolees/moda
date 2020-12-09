@@ -10,8 +10,11 @@ author: ring
 slug: B07L8STQHV
 description:
 actualPrice: 6.82 EUR
+currency: EUR
+price: 6.82
 comparePrice: 17.99 EUR
 inStock: true
+prodname: ZIPPY ZB0203_455_12 Sudadera  Niños  Gris  Light Grey Melange 1068    Tamaño del Fabricante:6/7 
 ---
 
 Ahora mismo tienes [ZIPPY ZB0203_455_12 Sudadera  Niños  Gris  Light Grey Melange 1068    Tamaño del Fabricante:6/7 ](https://www.amazon.es/dp/B07L8STQHV/?tag=tolees-21) a 6.82 EUR (original: 17.99 EUR) (62.09 %  de descuento) en el siguiente enlace!

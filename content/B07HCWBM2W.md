@@ -10,8 +10,11 @@ author: ring
 slug: B07HCWBM2W
 description:
 actualPrice: 11.99 EUR
+currency: EUR
+price: 11.99
 comparePrice: 16.72 EUR
 inStock: true
+prodname: X-TIGER Guantes Ciclismo MTB Dedo Medio Guantes Bici Respirable Reflectante 3D Gel Almohadilla para Hombre  Rojo XL 
 ---
 
 Ahora mismo tienes [X-TIGER Guantes Ciclismo MTB Dedo Medio Guantes Bici Respirable Reflectante 3D Gel Almohadilla para Hombre  Rojo XL ](https://www.amazon.es/dp/B07HCWBM2W/?tag=tolees-21) a 11.99 EUR (original: 16.72 EUR) (28.29 %  de descuento) en el siguiente enlace!

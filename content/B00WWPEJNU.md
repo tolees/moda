@@ -10,8 +10,11 @@ author: ring
 slug: B00WWPEJNU
 description:
 actualPrice: 17.49 EUR
+currency: EUR
+price: 17.49
 comparePrice: 24.95 EUR
 inStock: true
+prodname: Jack & Jones Sense Trunks 3-Pack Bóxer  Negro  Medium  Pack de 3  para Hombre
 ---
 
 Ahora mismo tienes [Jack & Jones Sense Trunks 3-Pack Bóxer  Negro  Medium  Pack de 3  para Hombre](https://www.amazon.es/dp/B00WWPEJNU/?tag=tolees-21) a 17.49 EUR (original: 24.95 EUR) (29.90 %  de descuento) en el siguiente enlace!

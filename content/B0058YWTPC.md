@@ -10,8 +10,11 @@ author: ring
 slug: B0058YWTPC
 description:
 actualPrice: 30.45 EUR
+currency: EUR
+price: 30.45
 comparePrice: 74.95 EUR
 inStock: true
+prodname: Columbia Silver Ridge Convertible Pantalón  Hombre  Grill  40
 ---
 
 Tienes [Columbia Silver Ridge Convertible Pantalón  Hombre  Grill  40](https://www.amazon.es/dp/B0058YWTPC/?tag=tolees-21) con un 59.37 % de descuento con precio de oferta de 30.45 EUR (original: 74.95 EUR) en el siguiente enlace!

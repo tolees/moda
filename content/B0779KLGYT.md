@@ -10,8 +10,11 @@ author: ring
 slug: B0779KLGYT
 description:
 actualPrice: 14.35 EUR
+currency: EUR
+price: 14.35
 comparePrice: 29.9 EUR
 inStock: true
+prodname: Pepe Jeans Brent  Camiseta Mujer  Negro  Black   Small
 ---
 
 Tienes [Pepe Jeans Brent  Camiseta Mujer  Negro  Black   Small](https://www.amazon.es/dp/B0779KLGYT/?tag=tolees-21) con un 52.01 % de descuento con precio de oferta de 14.35 EUR (original: 29.9 EUR) en el siguiente enlace!

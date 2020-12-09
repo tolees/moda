@@ -10,8 +10,11 @@ author: ring
 slug: B07KB9PWRN
 description:
 actualPrice: 23.95 EUR
+currency: EUR
+price: 23.95
 comparePrice: 39.99 EUR
 inStock: true
+prodname: Vero Moda Vmeva Abby 3/4 Trenchcoat Noos Abrigo  Rosa Misty Rose  40  Talla del Fabricante: Medium  para Mujer
 ---
 
 Tienes [Vero Moda Vmeva Abby 3/4 Trenchcoat Noos Abrigo  Rosa Misty Rose  40  Talla del Fabricante: Medium  para Mujer](https://www.amazon.es/dp/B07KB9PWRN/?tag=tolees-21) con un 40.11 % de descuento con precio de oferta de 23.95 EUR (original: 39.99 EUR) en el siguiente enlace!

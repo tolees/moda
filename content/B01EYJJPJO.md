@@ -10,8 +10,11 @@ author: ring
 slug: B01EYJJPJO
 description:
 actualPrice: 45.7 EUR
+currency: EUR
+price: 45.7
 comparePrice: 110 EUR
 inStock: true
+prodname: Levi s 501 Original Fit  Vaqueros para Hombre  Azul  Nelson 2289   30W / 34L
 ---
 
 Tienes [Levi s 501 Original Fit  Vaqueros para Hombre  Azul  Nelson 2289   30W / 34L](https://www.amazon.es/dp/B01EYJJPJO/?tag=tolees-21) con un 58.45 % de descuento con precio de oferta de 45.7 EUR (original: 110 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07FJNJJ5V
 description:
 actualPrice: 16.95 EUR
+currency: EUR
+price: 16.95
 comparePrice: 24.99 EUR
 inStock: true
+prodname: Superdry Label Vntge Emb S/s tee  Camiseta de Tirantes Hombre  Negro  Black 02A   X-Large
 ---
 
 Tienes [Superdry Label Vntge Emb S/s tee  Camiseta de Tirantes Hombre  Negro  Black 02A   X-Large](https://www.amazon.es/dp/B07FJNJJ5V/?tag=tolees-21) con un 32.17 % de descuento con precio de oferta de 16.95 EUR (original: 24.99 EUR) en el siguiente enlace!

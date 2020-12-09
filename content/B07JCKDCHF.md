@@ -10,8 +10,11 @@ author: ring
 slug: B07JCKDCHF
 description:
 actualPrice: 67.49 EUR
+currency: EUR
+price: 67.49
 comparePrice: 98.98 EUR
 inStock: true
+prodname: Columbia Powder Lite  Chaqueta de longitud media  Mujer  Negro  Black  Talla M
 ---
 
 Está [Columbia Powder Lite  Chaqueta de longitud media  Mujer  Negro  Black  Talla M](https://www.amazon.es/dp/B07JCKDCHF/?tag=tolees-21) con 31.81 de descuento por 67.49 EUR (original: 98.98 EUR) en el siguiente enlace!

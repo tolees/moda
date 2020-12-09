@@ -10,8 +10,11 @@ author: ring
 slug: B07GBFX1L5
 description:
 actualPrice: 20.56 EUR
+currency: EUR
+price: 20.56
 comparePrice: 35.68 EUR
 inStock: true
+prodname: Dorothy Perkins Amber  Zapatos de tacón con Punta Cerrada para Mujer  Gris  Grey 150   38 EU
 ---
 
 Ahora mismo tienes [Dorothy Perkins Amber  Zapatos de tacón con Punta Cerrada para Mujer  Gris  Grey 150   38 EU](https://www.amazon.es/dp/B07GBFX1L5/?tag=tolees-21) a 20.56 EUR (original: 35.68 EUR) (42.38 %  de descuento) en el siguiente enlace!

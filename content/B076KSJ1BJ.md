@@ -10,8 +10,11 @@ author: ring
 slug: B076KSJ1BJ
 description:
 actualPrice: 39.45 EUR
+currency: EUR
+price: 39.45
 comparePrice: 60 EUR
 inStock: true
+prodname: Salomon Sudadera  agile hz mid  mezcla de sintéticos  negro  Black y Surf The Web   hombre  talla: S
 ---
 
 Tienes [Salomon Sudadera  agile hz mid  mezcla de sintéticos  negro  Black y Surf The Web   hombre  talla: S](https://www.amazon.es/dp/B076KSJ1BJ/?tag=tolees-21) con un 34.25 % de descuento con precio de oferta de 39.45 EUR (original: 60 EUR) en el siguiente enlace!

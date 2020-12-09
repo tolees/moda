@@ -10,8 +10,11 @@ author: ring
 slug: B07L1GSBYQ
 description:
 actualPrice: 2.86 EUR
+currency: EUR
+price: 2.86
 comparePrice: 6.68 EUR
 inStock: true
+prodname: loud + proud Shirt Druck Aus Bio Baumwolle  Gots Zertifiziert Camisa Manga Larga  Azul  Midnight Mi   116  Talla del Fabricante: 110/116  para Niños
 ---
 
 Está [loud + proud Shirt Druck Aus Bio Baumwolle  Gots Zertifiziert Camisa Manga Larga  Azul  Midnight Mi   116  Talla del Fabricante: 110/116  para Niños](https://www.amazon.es/dp/B07L1GSBYQ/?tag=tolees-21) con 57.19 de descuento por 2.86 EUR (original: 6.68 EUR) en el siguiente enlace!

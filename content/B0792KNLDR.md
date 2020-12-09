@@ -10,8 +10,11 @@ author: ring
 slug: B0792KNLDR
 description:
 actualPrice: 63.74 EUR
+currency: EUR
+price: 63.74
 comparePrice: 139.99 EUR
 inStock: true
+prodname: Quiksilver - Chaqueta Softshell Impermeable - Hombre - L - Negro
 ---
 
 Está [Quiksilver - Chaqueta Softshell Impermeable - Hombre - L - Negro](https://www.amazon.es/dp/B0792KNLDR/?tag=tolees-21) con 54.47 de descuento por 63.74 EUR (original: 139.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07CZ7M3BV
 description:
 actualPrice: 21.49 EUR
+currency: EUR
+price: 21.49
 comparePrice: 42.86 EUR
 inStock: true
+prodname: Lacoste L.30 Slide 318 1 CAM  Chanclas para Hombre  Blanco Wht 21g  44.5 EU
 ---
 
 Tienes [Lacoste L.30 Slide 318 1 CAM  Chanclas para Hombre  Blanco Wht 21g  44.5 EU](https://www.amazon.es/dp/B07CZ7M3BV/?tag=tolees-21) con un 49.86 % de descuento con precio de oferta de 21.49 EUR (original: 42.86 EUR) en el siguiente enlace!

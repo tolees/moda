@@ -10,8 +10,11 @@ author: ring
 slug: B014DSMCS2
 description:
 actualPrice: 10.35 EUR
+currency: EUR
+price: 10.35
 comparePrice: 14.79 EUR
 inStock: true
+prodname: KRISP Mujer Camiseta Larga Básica Manga Corta  7604-RED-18 
 ---
 
 Está [KRISP Mujer Camiseta Larga Básica Manga Corta  7604-RED-18 ](https://www.amazon.es/dp/B014DSMCS2/?tag=tolees-21) con 30.02 de descuento por 10.35 EUR (original: 14.79 EUR) en el siguiente enlace!

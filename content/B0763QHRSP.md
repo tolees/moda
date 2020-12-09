@@ -10,8 +10,11 @@ author: ring
 slug: B0763QHRSP
 description:
 actualPrice: 35.95 EUR
+currency: EUR
+price: 35.95
 comparePrice: 89.95 EUR
 inStock: true
+prodname: Lee Scarlett Vaqueros Skinny  Azul  Dark Used Qb   W26/L31  Talla del Fabricante: Taglia Produttore 31/26  para Mujer
 ---
 
 Tienes [Lee Scarlett Vaqueros Skinny  Azul  Dark Used Qb   W26/L31  Talla del Fabricante: Taglia Produttore 31/26  para Mujer](https://www.amazon.es/dp/B0763QHRSP/?tag=tolees-21) con un 60.03 % de descuento con precio de oferta de 35.95 EUR (original: 89.95 EUR) en el siguiente enlace!

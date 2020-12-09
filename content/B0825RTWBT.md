@@ -10,8 +10,11 @@ author: ring
 slug: B0825RTWBT
 description:
 actualPrice: 67.48 EUR
+currency: EUR
+price: 67.48
 comparePrice: 109.9 EUR
 inStock: true
+prodname: Geox D Felicity G  Barco Ecuestre Mujer  Coffee  36 EU
 ---
 
 Ahora mismo tienes [Geox D Felicity G  Barco Ecuestre Mujer  Coffee  36 EU](https://www.amazon.es/dp/B0825RTWBT/?tag=tolees-21) a 67.48 EUR (original: 109.9 EUR) (38.60 %  de descuento) en el siguiente enlace!

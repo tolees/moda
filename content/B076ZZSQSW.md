@@ -10,8 +10,11 @@ author: ring
 slug: B076ZZSQSW
 description:
 actualPrice: 16.95 EUR
+currency: EUR
+price: 16.95
 comparePrice: 29.95 EUR
 inStock: true
+prodname: G-STAR RAW Cadulor R T S/s Camiseta   Grey Htr 906   Medium para Hombre
 ---
 
 Está [G-STAR RAW Cadulor R T S/s Camiseta   Grey Htr 906   Medium para Hombre](https://www.amazon.es/dp/B076ZZSQSW/?tag=tolees-21) con 43.41 de descuento por 16.95 EUR (original: 29.95 EUR) en el siguiente enlace!

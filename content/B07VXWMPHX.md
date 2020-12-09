@@ -10,8 +10,11 @@ author: ring
 slug: B07VXWMPHX
 description:
 actualPrice: 18.44 EUR
+currency: EUR
+price: 18.44
 comparePrice: 79.9 EUR
 inStock: true
+prodname: Pepe Jeans Alder Chaqueta  Amarillo  Acid Yellow 010   2-3 años  Talla del Fabricante: 2  para Niños
 ---
 
 Tienes [Pepe Jeans Alder Chaqueta  Amarillo  Acid Yellow 010   2-3 años  Talla del Fabricante: 2  para Niños](https://www.amazon.es/dp/B07VXWMPHX/?tag=tolees-21) con un 76.92 % de descuento con precio de oferta de 18.44 EUR (original: 79.9 EUR) en el siguiente enlace!

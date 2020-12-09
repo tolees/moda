@@ -10,8 +10,11 @@ author: ring
 slug: B076KHKHKT
 description:
 actualPrice: 21.18 EUR
+currency: EUR
+price: 21.18
 comparePrice: 35.0 EUR
 inStock: true
+prodname: Marca Amazon - find. Pantalones de Cuadros Mujer  Azul  Blue Mix   42  Label: L
 ---
 
 Ahora mismo tienes [Marca Amazon - find. Pantalones de Cuadros Mujer  Azul  Blue Mix   42  Label: L](https://www.amazon.es/dp/B076KHKHKT/?tag=tolees-21) a 21.18 EUR (original: 35.0 EUR) (39.49 %  de descuento) en el siguiente enlace!

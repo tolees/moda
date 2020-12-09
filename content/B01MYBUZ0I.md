@@ -10,8 +10,11 @@ author: ring
 slug: B01MYBUZ0I
 description:
 actualPrice: 18.34 EUR
+currency: EUR
+price: 18.34
 comparePrice: 66 EUR
 inStock: true
+prodname: Polaroid PLD 6025/S LB VK6 99 Gafas de Sol  Blanco  White/Green SF Pz   Unisex-Adulto
 ---
 
 Tienes [Polaroid PLD 6025/S LB VK6 99 Gafas de Sol  Blanco  White/Green SF Pz   Unisex-Adulto](https://www.amazon.es/dp/B01MYBUZ0I/?tag=tolees-21) con un 72.21 % de descuento con precio de oferta de 18.34 EUR (original: 66 EUR) en el siguiente enlace!

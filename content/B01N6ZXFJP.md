@@ -10,8 +10,11 @@ author: ring
 slug: B01N6ZXFJP
 description:
 actualPrice: 33.45 EUR
+currency: EUR
+price: 33.45
 comparePrice: 50 EUR
 inStock: true
+prodname: Lacoste TH6709  Camiseta para Hombre  Azul  Marine   XL  Talla del fabricante: 6 
 ---
 
 Ahora mismo tienes [Lacoste TH6709  Camiseta para Hombre  Azul  Marine   XL  Talla del fabricante: 6 ](https://www.amazon.es/dp/B01N6ZXFJP/?tag=tolees-21) a 33.45 EUR (original: 50 EUR) (33.10 %  de descuento) en el siguiente enlace!

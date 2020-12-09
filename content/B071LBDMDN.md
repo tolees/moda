@@ -10,8 +10,11 @@ author: ring
 slug: B071LBDMDN
 description:
 actualPrice: 7.8 EUR
+currency: EUR
+price: 7.8
 comparePrice: 18.2 EUR
 inStock: true
+prodname: FIND Vestido Asimétrico para Mujer   Azul  Navy   42  Talla del Fabricante: Large 
 ---
 
 Ahora mismo tienes [FIND Vestido Asimétrico para Mujer   Azul  Navy   42  Talla del Fabricante: Large ](https://www.amazon.es/dp/B071LBDMDN/?tag=tolees-21) a 7.8 EUR (original: 18.2 EUR) (57.14 %  de descuento) en el siguiente enlace!

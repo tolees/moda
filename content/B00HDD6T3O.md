@@ -10,8 +10,11 @@ author: ring
 slug: B00HDD6T3O
 description:
 actualPrice: 19.95 EUR
+currency: EUR
+price: 19.95
 comparePrice: 29.99 EUR
 inStock: true
+prodname: Crocs Sexi Flip Women  Sandalias para Mujer  Marrón Espresso  36/37 EU
 ---
 
 Tienes [Crocs Sexi Flip Women  Sandalias para Mujer  Marrón Espresso  36/37 EU](https://www.amazon.es/dp/B00HDD6T3O/?tag=tolees-21) con un 33.48 % de descuento con precio de oferta de 19.95 EUR (original: 29.99 EUR) en el siguiente enlace!

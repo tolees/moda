@@ -10,8 +10,11 @@ author: ring
 slug: B07JQBPYVD
 description:
 actualPrice: 9.36 EUR
+currency: EUR
+price: 9.36
 comparePrice: 34.99 EUR
 inStock: true
+prodname: JACK & JONES Jcofade Sweat Crew Neck Sudadera  White  Medium para Hombre
 ---
 
 Tienes [JACK & JONES Jcofade Sweat Crew Neck Sudadera  White  Medium para Hombre](https://www.amazon.es/dp/B07JQBPYVD/?tag=tolees-21) con un 73.25 % de descuento con precio de oferta de 9.36 EUR (original: 34.99 EUR) en el siguiente enlace!

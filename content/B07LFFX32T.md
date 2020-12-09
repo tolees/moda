@@ -10,8 +10,11 @@ author: ring
 slug: B07LFFX32T
 description:
 actualPrice: 23.34 EUR
+currency: EUR
+price: 23.34
 comparePrice: 35.0 EUR
 inStock: true
+prodname: Levi s Slim 2pk Crewneck 1 Camiseta  Negro  Two-Pack tee Black + Black 0001   X-Small 2 para Hombre
 ---
 
 Está [Levi s Slim 2pk Crewneck 1 Camiseta  Negro  Two-Pack tee Black + Black 0001   X-Small 2 para Hombre](https://www.amazon.es/dp/B07LFFX32T/?tag=tolees-21) con 33.31 de descuento por 23.34 EUR (original: 35.0 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B00XLLAEUG
 description:
 actualPrice: 9.99 EUR
+currency: EUR
+price: 9.99
 comparePrice: 15.99 EUR
 inStock: true
+prodname: Puma Basic Trunk 2P  Boxer hombre  Pack de 2   Azul   True Blue   L
 ---
 
 Está [Puma Basic Trunk 2P  Boxer hombre  Pack de 2   Azul   True Blue   L](https://www.amazon.es/dp/B00XLLAEUG/?tag=tolees-21) con 37.52 de descuento por 9.99 EUR (original: 15.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B01KJOMTF0
 description:
 actualPrice: 32.88 EUR
+currency: EUR
+price: 32.88
 comparePrice: 76.5 EUR
 inStock: true
+prodname: Dickies Pensacola - Vaqueros Hombre  Azul  W31L34
 ---
 
 Está [Dickies Pensacola - Vaqueros Hombre  Azul  W31L34](https://www.amazon.es/dp/B01KJOMTF0/?tag=tolees-21) con 57.02 de descuento por 32.88 EUR (original: 76.5 EUR) en el siguiente enlace!

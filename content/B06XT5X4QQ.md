@@ -10,8 +10,11 @@ author: ring
 slug: B06XT5X4QQ
 description:
 actualPrice: 12.59 EUR
+currency: EUR
+price: 12.59
 comparePrice: 17.99 EUR
 inStock: true
+prodname: Iris & Lilly Sujetador Reductor con Aros para Mujer  Blanco  White   90D  Talla del fabricante: 34D 
 ---
 
 Está [Iris & Lilly Sujetador Reductor con Aros para Mujer  Blanco  White   90D  Talla del fabricante: 34D ](https://www.amazon.es/dp/B06XT5X4QQ/?tag=tolees-21) con 30.02 de descuento por 12.59 EUR (original: 17.99 EUR) en el siguiente enlace!

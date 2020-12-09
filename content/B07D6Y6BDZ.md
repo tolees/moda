@@ -10,8 +10,11 @@ author: ring
 slug: B07D6Y6BDZ
 description:
 actualPrice: 23 EUR
+currency: EUR
+price: 23
 comparePrice: 99.99 EUR
 inStock: true
+prodname: Tom Tailor Denim Winter Blouson, Jacke, Chaqueta para Hombre, Azul (Urban Camouflage BLU 13064) Small
 ---
 
 Ahora mismo tienes [Tom Tailor Denim Winter Blouson, Jacke, Chaqueta para Hombre, Azul (Urban Camouflage BLU 13064) Small](https://www.amazon.es/dp/B07D6Y6BDZ/?tag=tolees-21) a 23 EUR (original: 99.99 EUR) (77.00 %  de descuento) en el siguiente enlace!

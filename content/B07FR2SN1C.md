@@ -10,8 +10,11 @@ author: ring
 slug: B07FR2SN1C
 description:
 actualPrice: 31.83 EUR
+currency: EUR
+price: 31.83
 comparePrice: 59.99 EUR
 inStock: true
+prodname: Naf Naf Jhnr79d Vestido  Negro  Noir 625   42 para Mujer
 ---
 
 Ahora mismo tienes [Naf Naf Jhnr79d Vestido  Negro  Noir 625   42 para Mujer](https://www.amazon.es/dp/B07FR2SN1C/?tag=tolees-21) a 31.83 EUR (original: 59.99 EUR) (46.94 %  de descuento) en el siguiente enlace!

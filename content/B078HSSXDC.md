@@ -10,8 +10,11 @@ author: ring
 slug: B078HSSXDC
 description:
 actualPrice: 15.9 EUR
+currency: EUR
+price: 15.9
 comparePrice: 30 EUR
 inStock: true
+prodname: Volcom Crisp Euro BSC SS Camiseta Manga Corta  Hombre  Negro  M
 ---
 
 Está [Volcom Crisp Euro BSC SS Camiseta Manga Corta  Hombre  Negro  M](https://www.amazon.es/dp/B078HSSXDC/?tag=tolees-21) con 47.00 de descuento por 15.9 EUR (original: 30 EUR) en el siguiente enlace!

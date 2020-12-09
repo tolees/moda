@@ -10,8 +10,11 @@ author: ring
 slug: B07N9BGW7B
 description:
 actualPrice: 17.99 EUR
+currency: EUR
+price: 17.99
 comparePrice: 29.9 EUR
 inStock: true
+prodname: Pepe Jeans West Sir  Camiseta para Hombre  Amarillo  Ochre Yellow 097   X-Large
 ---
 
 Está [Pepe Jeans West Sir  Camiseta para Hombre  Amarillo  Ochre Yellow 097   X-Large](https://www.amazon.es/dp/B07N9BGW7B/?tag=tolees-21) con 39.83 de descuento por 17.99 EUR (original: 29.9 EUR) en el siguiente enlace!

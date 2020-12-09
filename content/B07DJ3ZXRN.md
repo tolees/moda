@@ -10,8 +10,11 @@ author: ring
 slug: B07DJ3ZXRN
 description:
 actualPrice: 34.35 EUR
+currency: EUR
+price: 34.35
 comparePrice: 129.9 EUR
 inStock: true
+prodname: Geox Donna Brogue a  Botas Chelsea para Mujer  Azul  Navy   37 EU
 ---
 
 Tienes [Geox Donna Brogue a  Botas Chelsea para Mujer  Azul  Navy   37 EU](https://www.amazon.es/dp/B07DJ3ZXRN/?tag=tolees-21) con un 73.56 % de descuento con precio de oferta de 34.35 EUR (original: 129.9 EUR) en el siguiente enlace!

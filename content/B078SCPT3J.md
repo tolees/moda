@@ -10,8 +10,11 @@ author: ring
 slug: B078SCPT3J
 description:
 actualPrice: 34 EUR
+currency: EUR
+price: 34
 comparePrice: 69 EUR
 inStock: true
+prodname: Swarovski Collar Luckily Evil Eye  Blanco  baño de rodio
 ---
 
 Tienes [Swarovski Collar Luckily Evil Eye  Blanco  baño de rodio](https://www.amazon.es/dp/B078SCPT3J/?tag=tolees-21) con un 50.72 % de descuento con precio de oferta de 34 EUR (original: 69 EUR) en el siguiente enlace!

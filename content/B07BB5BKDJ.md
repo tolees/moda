@@ -10,8 +10,11 @@ author: ring
 slug: B07BB5BKDJ
 description:
 actualPrice: 40 EUR
+currency: EUR
+price: 40
 comparePrice: 80 EUR
 inStock: true
+prodname: The North Face T0AHJY Sudadera Drew Peak  Hombre  Asphalt Grey  M
 ---
 
 Está [The North Face T0AHJY Sudadera Drew Peak  Hombre  Asphalt Grey  M](https://www.amazon.es/dp/B07BB5BKDJ/?tag=tolees-21) con 50.00 de descuento por 40 EUR (original: 80 EUR) en el siguiente enlace!

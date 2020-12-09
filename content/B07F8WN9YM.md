@@ -10,8 +10,11 @@ author: ring
 slug: B07F8WN9YM
 description:
 actualPrice: 35.95 EUR
+currency: EUR
+price: 35.95
 comparePrice: 119.99 EUR
 inStock: true
+prodname: JACK & JONES PREMIUM Jprmorten Wool Coat STS Abrigo  Negro  Black   Medium para Hombre
 ---
 
 Tienes [JACK & JONES PREMIUM Jprmorten Wool Coat STS Abrigo  Negro  Black   Medium para Hombre](https://www.amazon.es/dp/B07F8WN9YM/?tag=tolees-21) con un 70.04 % de descuento con precio de oferta de 35.95 EUR (original: 119.99 EUR) en el siguiente enlace!

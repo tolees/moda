@@ -10,8 +10,11 @@ author: ring
 slug: B071JB3JCC
 description:
 actualPrice: 11.76 EUR
+currency: EUR
+price: 11.76
 comparePrice: 35 EUR
 inStock: true
+prodname: find. Sudadera con Encaje para Mujer   Rojo  Beet Red   36  Talla del Fabricante: X-Small 
 ---
 
 Ahora mismo tienes [find. Sudadera con Encaje para Mujer   Rojo  Beet Red   36  Talla del Fabricante: X-Small ](https://www.amazon.es/dp/B071JB3JCC/?tag=tolees-21) a 11.76 EUR (original: 35 EUR) (66.40 %  de descuento) en el siguiente enlace!

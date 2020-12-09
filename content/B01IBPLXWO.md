@@ -10,8 +10,11 @@ author: ring
 slug: B01IBPLXWO
 description:
 actualPrice: 10.32 EUR
+currency: EUR
+price: 10.32
 comparePrice: 34.95 EUR
 inStock: true
+prodname: ONLY 15118626  Chaqueta Punto Para Mujer  Amarillo  Harvest Gold Harvest Gold   Large
 ---
 
 Tienes [ONLY 15118626  Chaqueta Punto Para Mujer  Amarillo  Harvest Gold Harvest Gold   Large](https://www.amazon.es/dp/B01IBPLXWO/?tag=tolees-21) con un 70.47 % de descuento con precio de oferta de 10.32 EUR (original: 34.95 EUR) en el siguiente enlace!

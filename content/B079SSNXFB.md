@@ -10,8 +10,11 @@ author: ring
 slug: B079SSNXFB
 description:
 actualPrice: 21.95 EUR
+currency: EUR
+price: 21.95
 comparePrice: 39.95 EUR
 inStock: true
+prodname: Desigual TS_Casandra  Camiseta para Mujer   Gris Vigore Claro 2042   Small
 ---
 
 Está [Desigual TS_Casandra  Camiseta para Mujer   Gris Vigore Claro 2042   Small](https://www.amazon.es/dp/B079SSNXFB/?tag=tolees-21) con 45.06 de descuento por 21.95 EUR (original: 39.95 EUR) en el siguiente enlace!

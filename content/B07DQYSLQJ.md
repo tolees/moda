@@ -10,8 +10,11 @@ author: ring
 slug: B07DQYSLQJ
 description:
 actualPrice: 28.95 EUR
+currency: EUR
+price: 28.95
 comparePrice: 65 EUR
 inStock: true
+prodname: Volcom Threezy Crew Sudadera  Hombre  Negro  XL
 ---
 
 Tienes [Volcom Threezy Crew Sudadera  Hombre  Negro  XL](https://www.amazon.es/dp/B07DQYSLQJ/?tag=tolees-21) con un 55.46 % de descuento con precio de oferta de 28.95 EUR (original: 65 EUR) en el siguiente enlace!

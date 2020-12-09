@@ -10,8 +10,11 @@ author: ring
 slug: B07CZPRDXS
 description:
 actualPrice: 16.65 EUR
+currency: EUR
+price: 16.65
 comparePrice: 27.99 EUR
 inStock: true
+prodname: Under Armour Play Up Short 2.0 Pantalón Corto  Mujer  Azul  Coded Blue/Pitch Grey 451   M
 ---
 
 Ahora mismo tienes [Under Armour Play Up Short 2.0 Pantalón Corto  Mujer  Azul  Coded Blue/Pitch Grey 451   M](https://www.amazon.es/dp/B07CZPRDXS/?tag=tolees-21) a 16.65 EUR (original: 27.99 EUR) (40.51 %  de descuento) en el siguiente enlace!

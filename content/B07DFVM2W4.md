@@ -10,8 +10,11 @@ author: ring
 slug: B07DFVM2W4
 description:
 actualPrice: 10.3 EUR
+currency: EUR
+price: 10.3
 comparePrice: 44.99 EUR
 inStock: true
+prodname: MAMALICIOUS Mlintarsia L/s Knit Blouse A  Jersey premamá para Mujer  Marfil  Oatmeal Pattern:Winteasting/Grey Intarsia  42  Talla del Fabricante: Large 
 ---
 
 Ahora mismo tienes [MAMALICIOUS Mlintarsia L/s Knit Blouse A  Jersey premamá para Mujer  Marfil  Oatmeal Pattern:Winteasting/Grey Intarsia  42  Talla del Fabricante: Large ](https://www.amazon.es/dp/B07DFVM2W4/?tag=tolees-21) a 10.3 EUR (original: 44.99 EUR) (77.11 %  de descuento) en el siguiente enlace!

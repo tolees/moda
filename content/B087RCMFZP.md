@@ -10,8 +10,11 @@ author: ring
 slug: B087RCMFZP
 description:
 actualPrice: 25.99 EUR
+currency: EUR
+price: 25.99
 comparePrice: 59.99 EUR
 inStock: true
+prodname: Columbia CSC Basic Logo II Sudadera con Capucha  Hombre  Verde  Azul  Stone Green  Sky Blue   M
 ---
 
 Tienes [Columbia CSC Basic Logo II Sudadera con Capucha  Hombre  Verde  Azul  Stone Green  Sky Blue   M](https://www.amazon.es/dp/B087RCMFZP/?tag=tolees-21) con un 56.68 % de descuento con precio de oferta de 25.99 EUR (original: 59.99 EUR) en el siguiente enlace!

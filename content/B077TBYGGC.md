@@ -10,8 +10,11 @@ author: ring
 slug: B077TBYGGC
 description:
 actualPrice: 8.48 EUR
+currency: EUR
+price: 8.48
 comparePrice: 29.95 EUR
 inStock: true
+prodname: Refresh 64303  Sandalias con Punta Abierta para Mujer  Plateado  Silver   36 EU
 ---
 
 Tienes [Refresh 64303  Sandalias con Punta Abierta para Mujer  Plateado  Silver   36 EU](https://www.amazon.es/dp/B077TBYGGC/?tag=tolees-21) con un 71.69 % de descuento con precio de oferta de 8.48 EUR (original: 29.95 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B0893RQFKK
 description:
 actualPrice: 30.99 EUR
+currency: EUR
+price: 30.99
 comparePrice: 55.56 EUR
 inStock: true
+prodname: Quiksilver Square Me Up - Sudadera con Capucha para Hombre Sudadera con Capucha  Hombre  Athletic Heather  M
 ---
 
 Está [Quiksilver Square Me Up - Sudadera con Capucha para Hombre Sudadera con Capucha  Hombre  Athletic Heather  M](https://www.amazon.es/dp/B0893RQFKK/?tag=tolees-21) con 44.22 de descuento por 30.99 EUR (original: 55.56 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07DLNTT81
 description:
 actualPrice: 6.77 EUR
+currency: EUR
+price: 6.77
 comparePrice: 25.99 EUR
 inStock: true
+prodname: Springfield 5Ds C/Red Gg14  Jersey para Hombre   Gama Grises 43   Small  Tamaño del Fabricante:S 
 ---
 
 Tienes [Springfield 5Ds C/Red Gg14  Jersey para Hombre   Gama Grises 43   Small  Tamaño del Fabricante:S ](https://www.amazon.es/dp/B07DLNTT81/?tag=tolees-21) con un 73.95 % de descuento con precio de oferta de 6.77 EUR (original: 25.99 EUR) en el siguiente enlace!

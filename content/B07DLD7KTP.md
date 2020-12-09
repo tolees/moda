@@ -10,8 +10,11 @@ author: ring
 slug: B07DLD7KTP
 description:
 actualPrice: 17.1 EUR
+currency: EUR
+price: 17.1
 comparePrice: 59.99 EUR
 inStock: true
+prodname: Springfield 7.T.Ap. Chaqueta Doble Faz  Gama Azules 19    Tamaño del Fabricante:36  para Mujer
 ---
 
 Está [Springfield 7.T.Ap. Chaqueta Doble Faz  Gama Azules 19    Tamaño del Fabricante:36  para Mujer](https://www.amazon.es/dp/B07DLD7KTP/?tag=tolees-21) con 71.50 de descuento por 17.1 EUR (original: 59.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07V8KVB2B
 description:
 actualPrice: 22.46 EUR
+currency: EUR
+price: 22.46
 comparePrice: 39.0 EUR
 inStock: true
+prodname: Calvin Klein Instit Back Pop Logo Slim tee Camiseta  Blanco  Bright White Yaf   Medium para Hombre
 ---
 
 Está [Calvin Klein Instit Back Pop Logo Slim tee Camiseta  Blanco  Bright White Yaf   Medium para Hombre](https://www.amazon.es/dp/B07V8KVB2B/?tag=tolees-21) con 42.41 de descuento por 22.46 EUR (original: 39.0 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07DWVQDRX
 description:
 actualPrice: 121.65 EUR
+currency: EUR
+price: 121.65
 comparePrice: 230 EUR
 inStock: true
+prodname: SALEWA ORTLES Hybrid TWC M JKT Chaqueta  Hombre  Black out  50/L
 ---
 
 Ahora mismo tienes [SALEWA ORTLES Hybrid TWC M JKT Chaqueta  Hombre  Black out  50/L](https://www.amazon.es/dp/B07DWVQDRX/?tag=tolees-21) a 121.65 EUR (original: 230 EUR) (47.11 %  de descuento) en el siguiente enlace!

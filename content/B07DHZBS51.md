@@ -10,8 +10,11 @@ author: ring
 slug: B07DHZBS51
 description:
 actualPrice: 28.68 EUR
+currency: EUR
+price: 28.68
 comparePrice: 95 EUR
 inStock: true
+prodname: Geox D Jaysen a  Zapatillas para Mujer  Negro  Gun/Black C1223   41 EU
 ---
 
 Está [Geox D Jaysen a  Zapatillas para Mujer  Negro  Gun/Black C1223   41 EU](https://www.amazon.es/dp/B07DHZBS51/?tag=tolees-21) con 69.81 de descuento por 28.68 EUR (original: 95 EUR) en el siguiente enlace!

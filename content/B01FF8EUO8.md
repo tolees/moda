@@ -10,8 +10,11 @@ author: ring
 slug: B01FF8EUO8
 description:
 actualPrice: 24.31 EUR
+currency: EUR
+price: 24.31
 comparePrice: 49.95 EUR
 inStock: true
+prodname: JACK & JONES JJILIAM Jjoriginal Am 010 Lid Noos Vaqueros  Grey  Grey Denim   31W / 30L para Hombre
 ---
 
 Está [JACK & JONES JJILIAM Jjoriginal Am 010 Lid Noos Vaqueros  Grey  Grey Denim   31W / 30L para Hombre](https://www.amazon.es/dp/B01FF8EUO8/?tag=tolees-21) con 51.33 de descuento por 24.31 EUR (original: 49.95 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07NDNS7TW
 description:
 actualPrice: 15.55 EUR
+currency: EUR
+price: 15.55
 comparePrice: 99.95 EUR
 inStock: true
+prodname: G-STAR RAW Pleated Bib Blusa  Azul  Mazarine Blue 4213   36  Talla del Fabricante: X-Small  para Mujer
 ---
 
 Tienes [G-STAR RAW Pleated Bib Blusa  Azul  Mazarine Blue 4213   36  Talla del Fabricante: X-Small  para Mujer](https://www.amazon.es/dp/B07NDNS7TW/?tag=tolees-21) con un 84.44 % de descuento con precio de oferta de 15.55 EUR (original: 99.95 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07RB7TVVC
 description:
 actualPrice: 22.99 EUR
+currency: EUR
+price: 22.99
 comparePrice: 49.99 EUR
 inStock: true
+prodname: Columbia Fast Trek II Chaqueta para mujer
 ---
 
 Está [Columbia Fast Trek II Chaqueta para mujer](https://www.amazon.es/dp/B07RB7TVVC/?tag=tolees-21) con 54.01 de descuento por 22.99 EUR (original: 49.99 EUR) en el siguiente enlace!

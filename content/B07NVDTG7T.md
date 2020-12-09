@@ -10,8 +10,11 @@ author: ring
 slug: B07NVDTG7T
 description:
 actualPrice: 34.99 EUR
+currency: EUR
+price: 34.99
 comparePrice: 49.99 EUR
 inStock: true
+prodname: ENKEEO Casco de Esquí Unisex Ajustable  14 Salidas de Ventilación  Compatible con Gafas de Esquí  Blanco/L
 ---
 
 Ahora mismo tienes [ENKEEO Casco de Esquí Unisex Ajustable  14 Salidas de Ventilación  Compatible con Gafas de Esquí  Blanco/L](https://www.amazon.es/dp/B07NVDTG7T/?tag=tolees-21) a 34.99 EUR (original: 49.99 EUR) (30.01 %  de descuento) en el siguiente enlace!

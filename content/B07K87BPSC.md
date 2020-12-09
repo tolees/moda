@@ -10,8 +10,11 @@ author: ring
 slug: B07K87BPSC
 description:
 actualPrice: 24.45 EUR
+currency: EUR
+price: 24.45
 comparePrice: 59.95 EUR
 inStock: true
+prodname: Puma Amplified Hoody TR Sudadera  Hombre  Gris  Medium Gray Heather   XXL
 ---
 
 Está [Puma Amplified Hoody TR Sudadera  Hombre  Gris  Medium Gray Heather   XXL](https://www.amazon.es/dp/B07K87BPSC/?tag=tolees-21) con 59.22 de descuento por 24.45 EUR (original: 59.95 EUR) en el siguiente enlace!

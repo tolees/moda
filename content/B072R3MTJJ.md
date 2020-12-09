@@ -10,8 +10,11 @@ author: ring
 slug: B072R3MTJJ
 description:
 actualPrice: 53.49 EUR
+currency: EUR
+price: 53.49
 comparePrice: 129.99 EUR
 inStock: true
+prodname: Columbia Powder Lite Hooded Chaqueta De Plumón Con Capucha  Hombre  Azul  Collegiate Navy   Talla L
 ---
 
 Ahora mismo tienes [Columbia Powder Lite Hooded Chaqueta De Plumón Con Capucha  Hombre  Azul  Collegiate Navy   Talla L](https://www.amazon.es/dp/B072R3MTJJ/?tag=tolees-21) a 53.49 EUR (original: 129.99 EUR) (58.85 %  de descuento) en el siguiente enlace!

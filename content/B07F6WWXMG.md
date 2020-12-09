@@ -10,8 +10,11 @@ author: ring
 slug: B07F6WWXMG
 description:
 actualPrice: 14.95 EUR
+currency: EUR
+price: 14.95
 comparePrice: 25 EUR
 inStock: true
+prodname: Nike M NK Dry Leg Camo SWSH Camiseta  Hombre  Gris  dk Grey Heather/Neutral Olive   XL
 ---
 
 Está [Nike M NK Dry Leg Camo SWSH Camiseta  Hombre  Gris  dk Grey Heather/Neutral Olive   XL](https://www.amazon.es/dp/B07F6WWXMG/?tag=tolees-21) con 40.20 de descuento por 14.95 EUR (original: 25 EUR) en el siguiente enlace!

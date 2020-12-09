@@ -10,8 +10,11 @@ author: ring
 slug: B07FLKVLRS
 description:
 actualPrice: 19.93 EUR
+currency: EUR
+price: 19.93
 comparePrice: 39.9 EUR
 inStock: true
+prodname: Superdry 34th St tee Camiseta de Tirantes  Gris  Alaska Grey Grit Vm2   Medium para Hombre
 ---
 
 Tienes [Superdry 34th St tee Camiseta de Tirantes  Gris  Alaska Grey Grit Vm2   Medium para Hombre](https://www.amazon.es/dp/B07FLKVLRS/?tag=tolees-21) con un 50.05 % de descuento con precio de oferta de 19.93 EUR (original: 39.9 EUR) en el siguiente enlace!

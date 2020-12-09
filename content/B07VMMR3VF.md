@@ -10,8 +10,11 @@ author: ring
 slug: B07VMMR3VF
 description:
 actualPrice: 23.88 EUR
+currency: EUR
+price: 23.88
 comparePrice: 32.19 EUR
 inStock: true
+prodname: G-STAR RAW Jacquard Sweatshirt Sudadera  Gris  Grey Htr A613-906   S para Hombre
 ---
 
 Ahora mismo tienes [G-STAR RAW Jacquard Sweatshirt Sudadera  Gris  Grey Htr A613-906   S para Hombre](https://www.amazon.es/dp/B07VMMR3VF/?tag=tolees-21) a 23.88 EUR (original: 32.19 EUR) (25.82 %  de descuento) en el siguiente enlace!

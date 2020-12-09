@@ -10,8 +10,11 @@ author: ring
 slug: B074P7YPXY
 description:
 actualPrice: 26.29 EUR
+currency: EUR
+price: 26.29
 comparePrice: 85 EUR
 inStock: true
+prodname: Levi s Modern Western  Blusa para Mujer  Rojo  Cottonwood Merlot 0022   36  Talla del fabricante: Medium 
 ---
 
 Está [Levi s Modern Western  Blusa para Mujer  Rojo  Cottonwood Merlot 0022   36  Talla del fabricante: Medium ](https://www.amazon.es/dp/B074P7YPXY/?tag=tolees-21) con 69.07 de descuento por 26.29 EUR (original: 85 EUR) en el siguiente enlace!

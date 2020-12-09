@@ -10,8 +10,11 @@ author: ring
 slug: B07DYWL9V7
 description:
 actualPrice: 47.07 EUR
+currency: EUR
+price: 47.07
 comparePrice: 119.99 EUR
 inStock: true
+prodname: Columbia Pantalón de esquí para Hombre  Bugaboo Omni Heat  Gris  Graphite Heater   Talla S
 ---
 
 Ahora mismo tienes [Columbia Pantalón de esquí para Hombre  Bugaboo Omni Heat  Gris  Graphite Heater   Talla S](https://www.amazon.es/dp/B07DYWL9V7/?tag=tolees-21) a 47.07 EUR (original: 119.99 EUR) (60.77 %  de descuento) en el siguiente enlace!

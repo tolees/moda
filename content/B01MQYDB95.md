@@ -10,8 +10,11 @@ author: ring
 slug: B01MQYDB95
 description:
 actualPrice: 14.99 EUR
+currency: EUR
+price: 14.99
 comparePrice: 24.99 EUR
 inStock: true
+prodname: Crocs Crocband Flip  Chanclas Unisex Adulto  Gris  Graphite/Volt Green   45/46 EU
 ---
 
 Tienes [Crocs Crocband Flip  Chanclas Unisex Adulto  Gris  Graphite/Volt Green   45/46 EU](https://www.amazon.es/dp/B01MQYDB95/?tag=tolees-21) con un 40.02 % de descuento con precio de oferta de 14.99 EUR (original: 24.99 EUR) en el siguiente enlace!

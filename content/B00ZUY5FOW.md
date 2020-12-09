@@ -10,8 +10,11 @@ author: ring
 slug: B00ZUY5FOW
 description:
 actualPrice: 12.0 EUR
+currency: EUR
+price: 12.0
 comparePrice: 27.4 EUR
 inStock: true
+prodname: Reef Fanning  Chanclas para Hombre  Negro  Black / Brown   35 EU
 ---
 
 Ahora mismo tienes [Reef Fanning  Chanclas para Hombre  Negro  Black / Brown   35 EU](https://www.amazon.es/dp/B00ZUY5FOW/?tag=tolees-21) a 12.0 EUR (original: 27.4 EUR) (56.20 %  de descuento) en el siguiente enlace!

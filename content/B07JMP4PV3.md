@@ -10,8 +10,11 @@ author: ring
 slug: B07JMP4PV3
 description:
 actualPrice: 21.62 EUR
+currency: EUR
+price: 21.62
 comparePrice: 98 EUR
 inStock: true
+prodname: Guess Freda Skirt  Falda para Mujer  Negro  Jet Black A996 Jblk   30
 ---
 
 Está [Guess Freda Skirt  Falda para Mujer  Negro  Jet Black A996 Jblk   30](https://www.amazon.es/dp/B07JMP4PV3/?tag=tolees-21) con 77.94 de descuento por 21.62 EUR (original: 98 EUR) en el siguiente enlace!

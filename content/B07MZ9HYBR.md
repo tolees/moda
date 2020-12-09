@@ -10,8 +10,11 @@ author: ring
 slug: B07MZ9HYBR
 description:
 actualPrice: 10.59 EUR
+currency: EUR
+price: 10.59
 comparePrice: 14.99 EUR
 inStock: true
+prodname: Barbie - Fashionista Muñeca Rubia Bronceada con Vestido de Estampado Tropical  Mattel FXL59    color/modelo surtido
 ---
 
 Está [Barbie - Fashionista Muñeca Rubia Bronceada con Vestido de Estampado Tropical  Mattel FXL59    color/modelo surtido](https://www.amazon.es/dp/B07MZ9HYBR/?tag=tolees-21) con 29.35 de descuento por 10.59 EUR (original: 14.99 EUR) en el siguiente enlace!

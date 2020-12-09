@@ -10,8 +10,11 @@ author: ring
 slug: B07FG7Z7PL
 description:
 actualPrice: 13.95 EUR
+currency: EUR
+price: 13.95
 comparePrice: 19.95 EUR
 inStock: true
+prodname: Ipanema Anat Temas VIII Fem  Chanclas para Mujer  Black/Pink 8647  35/36 EU
 ---
 
 Tienes [Ipanema Anat Temas VIII Fem  Chanclas para Mujer  Black/Pink 8647  35/36 EU](https://www.amazon.es/dp/B07FG7Z7PL/?tag=tolees-21) con un 30.08 % de descuento con precio de oferta de 13.95 EUR (original: 19.95 EUR) en el siguiente enlace!

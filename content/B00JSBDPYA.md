@@ -10,8 +10,11 @@ author: ring
 slug: B00JSBDPYA
 description:
 actualPrice: 5.83 EUR
+currency: EUR
+price: 5.83
 comparePrice: 11.58 EUR
 inStock: true
+prodname: Jersey de Cuello Alto Con Cremallera de Algodón  gris
 ---
 
 Ahora mismo tienes [Jersey de Cuello Alto Con Cremallera de Algodón  gris](https://www.amazon.es/dp/B00JSBDPYA/?tag=tolees-21) a 5.83 EUR (original: 11.58 EUR) (49.65 %  de descuento) en el siguiente enlace!

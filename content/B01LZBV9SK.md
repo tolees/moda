@@ -10,8 +10,11 @@ author: ring
 slug: B01LZBV9SK
 description:
 actualPrice: 16.72 EUR
+currency: EUR
+price: 16.72
 comparePrice: 129 EUR
 inStock: true
+prodname: Geographical Norway TECLIPSE Lady ASSORT B Sudadera  Rosa  ES ES 40  DE 38  para Mujer
 ---
 
 Está [Geographical Norway TECLIPSE Lady ASSORT B Sudadera  Rosa  ES ES 40  DE 38  para Mujer](https://www.amazon.es/dp/B01LZBV9SK/?tag=tolees-21) con 87.04 de descuento por 16.72 EUR (original: 129 EUR) en el siguiente enlace!

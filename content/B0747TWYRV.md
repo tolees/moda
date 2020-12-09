@@ -10,8 +10,11 @@ author: ring
 slug: B0747TWYRV
 description:
 actualPrice: 27.5 EUR
+currency: EUR
+price: 27.5
 comparePrice: 55 EUR
 inStock: true
+prodname: Geox J Kilwi Boy I  Zapatillas para Niños  Navy/Red  34 EU
 ---
 
 Tienes [Geox J Kilwi Boy I  Zapatillas para Niños  Navy/Red  34 EU](https://www.amazon.es/dp/B0747TWYRV/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 27.5 EUR (original: 55 EUR) en el siguiente enlace!

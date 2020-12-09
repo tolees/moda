@@ -10,8 +10,11 @@ author: ring
 slug: B07HM2HN7B
 description:
 actualPrice: 9.12 EUR
+currency: EUR
+price: 9.12
 comparePrice: 28.99 EUR
 inStock: true
+prodname: Mayoral 4462  Sudadera con Capucha para Niñas   Rojo 82   6 años  Tamaño del Fabricante:6 
 ---
 
 Está [Mayoral 4462  Sudadera con Capucha para Niñas   Rojo 82   6 años  Tamaño del Fabricante:6 ](https://www.amazon.es/dp/B07HM2HN7B/?tag=tolees-21) con 68.54 de descuento por 9.12 EUR (original: 28.99 EUR) en el siguiente enlace!

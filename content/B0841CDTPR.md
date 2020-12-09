@@ -10,8 +10,11 @@ author: ring
 slug: B0841CDTPR
 description:
 actualPrice: 30.79 EUR
+currency: EUR
+price: 30.79
 comparePrice: 55.42 EUR
 inStock: true
+prodname: P Prettyia 1/6 Chaqueta Cortavientos Abrigo Largos y Sombrero Jazz Clásic Ropa Casual para Muñecas de Hombres 12 Pulgadas
 ---
 
 Está [P Prettyia 1/6 Chaqueta Cortavientos Abrigo Largos y Sombrero Jazz Clásic Ropa Casual para Muñecas de Hombres 12 Pulgadas](https://www.amazon.es/dp/B0841CDTPR/?tag=tolees-21) con 44.44 de descuento por 30.79 EUR (original: 55.42 EUR) en el siguiente enlace!

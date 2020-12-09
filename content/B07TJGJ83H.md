@@ -10,8 +10,11 @@ author: ring
 slug: B07TJGJ83H
 description:
 actualPrice: 14.99 EUR
+currency: EUR
+price: 14.99
 comparePrice: 34.99 EUR
 inStock: true
+prodname: Superdry Core Logo Stripe tee Camiseta  Gris  Academy Grey Twill V9v   M para Hombre
 ---
 
 Está [Superdry Core Logo Stripe tee Camiseta  Gris  Academy Grey Twill V9v   M para Hombre](https://www.amazon.es/dp/B07TJGJ83H/?tag=tolees-21) con 57.16 de descuento por 14.99 EUR (original: 34.99 EUR) en el siguiente enlace!

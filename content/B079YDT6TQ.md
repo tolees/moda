@@ -10,8 +10,11 @@ author: ring
 slug: B079YDT6TQ
 description:
 actualPrice: 21 EUR
+currency: EUR
+price: 21
 comparePrice: 69.95 EUR
 inStock: true
+prodname: s.Oliver 5-5-25320-21  Botines para Mujer  Gris  Anthracite 214   38 EU
 ---
 
 Está [s.Oliver 5-5-25320-21  Botines para Mujer  Gris  Anthracite 214   38 EU](https://www.amazon.es/dp/B079YDT6TQ/?tag=tolees-21) con 69.98 de descuento por 21 EUR (original: 69.95 EUR) en el siguiente enlace!

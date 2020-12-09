@@ -10,8 +10,11 @@ author: ring
 slug: B07KYL26CM
 description:
 actualPrice: 9.99 EUR
+currency: EUR
+price: 9.99
 comparePrice: 29.99 EUR
 inStock: true
+prodname: Springfield 4.J.Ap.T.D.Lace Frontal Jersey  Mujer  Azul  Gama Azules 19   Small  Tamaño del Fabricante:S 
 ---
 
 Tienes [Springfield 4.J.Ap.T.D.Lace Frontal Jersey  Mujer  Azul  Gama Azules 19   Small  Tamaño del Fabricante:S ](https://www.amazon.es/dp/B07KYL26CM/?tag=tolees-21) con un 66.69 % de descuento con precio de oferta de 9.99 EUR (original: 29.99 EUR) en el siguiente enlace!

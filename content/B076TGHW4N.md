@@ -10,8 +10,11 @@ author: ring
 slug: B076TGHW4N
 description:
 actualPrice: 26.2 EUR
+currency: EUR
+price: 26.2
 comparePrice: 44.95 EUR
 inStock: true
+prodname: Skechers On-The-goo 600-Regal  Sandalias de Plataforma para Hombre  Azul  Navy   42 EU
 ---
 
 Tienes [Skechers On-The-goo 600-Regal  Sandalias de Plataforma para Hombre  Azul  Navy   42 EU](https://www.amazon.es/dp/B076TGHW4N/?tag=tolees-21) con un 41.71 % de descuento con precio de oferta de 26.2 EUR (original: 44.95 EUR) en el siguiente enlace!

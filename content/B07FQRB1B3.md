@@ -10,8 +10,11 @@ author: ring
 slug: B07FQRB1B3
 description:
 actualPrice: 13.95 EUR
+currency: EUR
+price: 13.95
 comparePrice: 39.99 EUR
 inStock: true
+prodname: JACK & JONES Jjespace Melange Sweat Zip Hood Noos Sudadera  Azul  Navy Blazer Detail: Reg Fit - Solid   X-Large para Hombre
 ---
 
 Tienes [JACK & JONES Jjespace Melange Sweat Zip Hood Noos Sudadera  Azul  Navy Blazer Detail: Reg Fit - Solid   X-Large para Hombre](https://www.amazon.es/dp/B07FQRB1B3/?tag=tolees-21) con un 65.12 % de descuento con precio de oferta de 13.95 EUR (original: 39.99 EUR) en el siguiente enlace!

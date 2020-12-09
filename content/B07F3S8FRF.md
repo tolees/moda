@@ -10,8 +10,11 @@ author: ring
 slug: B07F3S8FRF
 description:
 actualPrice: 85.66 EUR
+currency: EUR
+price: 85.66
 comparePrice: 125 EUR
 inStock: true
+prodname: Geox U Nebula B  Zapatillas para Hombre  Gris  Papyrus C1122   42 EU
 ---
 
 Está [Geox U Nebula B  Zapatillas para Hombre  Gris  Papyrus C1122   42 EU](https://www.amazon.es/dp/B07F3S8FRF/?tag=tolees-21) con 31.47 de descuento por 85.66 EUR (original: 125 EUR) en el siguiente enlace!

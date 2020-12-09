@@ -10,8 +10,11 @@ author: ring
 slug: B076VNPD6Y
 description:
 actualPrice: 23.4 EUR
+currency: EUR
+price: 23.4
 comparePrice: 39.95 EUR
 inStock: true
+prodname: G-STAR RAW New Classic Regular R T S/s  Camiseta para Hombre  Marrón  Antelope Htr 8924  Large
 ---
 
 Tienes [G-STAR RAW New Classic Regular R T S/s  Camiseta para Hombre  Marrón  Antelope Htr 8924  Large](https://www.amazon.es/dp/B076VNPD6Y/?tag=tolees-21) con un 41.43 % de descuento con precio de oferta de 23.4 EUR (original: 39.95 EUR) en el siguiente enlace!

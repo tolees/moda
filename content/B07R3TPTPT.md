@@ -10,8 +10,11 @@ author: ring
 slug: B07R3TPTPT
 description:
 actualPrice: 30.39 EUR
+currency: EUR
+price: 30.39
 comparePrice: 51.18 EUR
 inStock: true
+prodname: CARE OF by PUMA Chaqueta acolchada impermeable para hombre  Verde  Green   M  Label: M
 ---
 
 Tienes [CARE OF by PUMA Chaqueta acolchada impermeable para hombre  Verde  Green   M  Label: M](https://www.amazon.es/dp/B07R3TPTPT/?tag=tolees-21) con un 40.62 % de descuento con precio de oferta de 30.39 EUR (original: 51.18 EUR) en el siguiente enlace!

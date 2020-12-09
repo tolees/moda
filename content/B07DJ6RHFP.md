@@ -10,8 +10,11 @@ author: ring
 slug: B07DJ6RHFP
 description:
 actualPrice: 37.66 EUR
+currency: EUR
+price: 37.66
 comparePrice: 99.9 EUR
 inStock: true
+prodname: Geox U Kaven C  Zapatillas para Hombre  Azul  Navy/Brown C0948   45 EU
 ---
 
 Tienes [Geox U Kaven C  Zapatillas para Hombre  Azul  Navy/Brown C0948   45 EU](https://www.amazon.es/dp/B07DJ6RHFP/?tag=tolees-21) con un 62.30 % de descuento con precio de oferta de 37.66 EUR (original: 99.9 EUR) en el siguiente enlace!

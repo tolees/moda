@@ -10,8 +10,11 @@ author: ring
 slug: B075SGYKGN
 description:
 actualPrice: 5.61 EUR
+currency: EUR
+price: 5.61
 comparePrice: 24.99 EUR
 inStock: true
+prodname: Springfield 1082620 Sudadera  Negro  Black   Medium  Tamaño del Fabricante:M  para Mujer
 ---
 
 Ahora mismo tienes [Springfield 1082620 Sudadera  Negro  Black   Medium  Tamaño del Fabricante:M  para Mujer](https://www.amazon.es/dp/B075SGYKGN/?tag=tolees-21) a 5.61 EUR (original: 24.99 EUR) (77.55 %  de descuento) en el siguiente enlace!

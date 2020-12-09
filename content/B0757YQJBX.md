@@ -10,8 +10,11 @@ author: ring
 slug: B0757YQJBX
 description:
 actualPrice: 24 EUR
+currency: EUR
+price: 24
 comparePrice: 34 EUR
 inStock: true
+prodname: FIND Vaqueros Recto Hombre   Gris  Grey Wash   W34/L32
 ---
 
 Está [FIND Vaqueros Recto Hombre   Gris  Grey Wash   W34/L32](https://www.amazon.es/dp/B0757YQJBX/?tag=tolees-21) con 29.41 de descuento por 24 EUR (original: 34 EUR) en el siguiente enlace!

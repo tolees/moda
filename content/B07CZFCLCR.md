@@ -10,8 +10,11 @@ author: ring
 slug: B07CZFCLCR
 description:
 actualPrice: 6.28 EUR
+currency: EUR
+price: 6.28
 comparePrice: 15.0 EUR
 inStock: true
+prodname: Marca Amazon - RED WAGON Camisa Manga Larga Vengadores Iron Man Marvel Niños  Multicolor  White / Grey   104  Label:4 Years
 ---
 
 Tienes [Marca Amazon - RED WAGON Camisa Manga Larga Vengadores Iron Man Marvel Niños  Multicolor  White / Grey   104  Label:4 Years](https://www.amazon.es/dp/B07CZFCLCR/?tag=tolees-21) con un 58.13 % de descuento con precio de oferta de 6.28 EUR (original: 15.0 EUR) en el siguiente enlace!

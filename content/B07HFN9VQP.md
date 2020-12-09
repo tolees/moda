@@ -10,8 +10,11 @@ author: ring
 slug: B07HFN9VQP
 description:
 actualPrice: 17.15 EUR
+currency: EUR
+price: 17.15
 comparePrice: 39.9 EUR
 inStock: true
+prodname: Tommy Hilfiger Logo tee  Camiseta Hombre  Amarillo  Empire Yellow 712   Small
 ---
 
 Ahora mismo tienes [Tommy Hilfiger Logo tee  Camiseta Hombre  Amarillo  Empire Yellow 712   Small](https://www.amazon.es/dp/B07HFN9VQP/?tag=tolees-21) a 17.15 EUR (original: 39.9 EUR) (57.02 %  de descuento) en el siguiente enlace!

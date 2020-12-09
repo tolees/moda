@@ -10,8 +10,11 @@ author: ring
 slug: B01KPWTRA6
 description:
 actualPrice: 11.59 EUR
+currency: EUR
+price: 11.59
 comparePrice: 44.99 EUR
 inStock: true
+prodname: ONLY onlTRUST L/S DRAPED PLAIN CARDIGAN KNT  chaqueta punto Mujer  Gris  Dark Grey Melange   36  Talla del fabricante: Small 
 ---
 
 Está [ONLY onlTRUST L/S DRAPED PLAIN CARDIGAN KNT  chaqueta punto Mujer  Gris  Dark Grey Melange   36  Talla del fabricante: Small ](https://www.amazon.es/dp/B01KPWTRA6/?tag=tolees-21) con 74.24 de descuento por 11.59 EUR (original: 44.99 EUR) en el siguiente enlace!

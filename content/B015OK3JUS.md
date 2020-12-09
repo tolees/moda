@@ -10,8 +10,11 @@ author: ring
 slug: B015OK3JUS
 description:
 actualPrice: 13.99 EUR
+currency: EUR
+price: 13.99
 comparePrice: 24.95 EUR
 inStock: true
+prodname: Puma Leadcat  Chanclas Unisex Adulto  Negro  Black-White 01   38 EU
 ---
 
 Tienes [Puma Leadcat  Chanclas Unisex Adulto  Negro  Black-White 01   38 EU](https://www.amazon.es/dp/B015OK3JUS/?tag=tolees-21) con un 43.93 % de descuento con precio de oferta de 13.99 EUR (original: 24.95 EUR) en el siguiente enlace!

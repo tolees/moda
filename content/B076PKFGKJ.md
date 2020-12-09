@@ -10,8 +10,11 @@ author: ring
 slug: B076PKFGKJ
 description:
 actualPrice: 23.99 EUR
+currency: EUR
+price: 23.99
 comparePrice: 39.99 EUR
 inStock: true
+prodname: Adidas CORE18 Hoody Sudadera con Capucha  Hombre  Rojo  Rojo/Blanco   S
 ---
 
 Tienes [Adidas CORE18 Hoody Sudadera con Capucha  Hombre  Rojo  Rojo/Blanco   S](https://www.amazon.es/dp/B076PKFGKJ/?tag=tolees-21) con un 40.01 % de descuento con precio de oferta de 23.99 EUR (original: 39.99 EUR) en el siguiente enlace!

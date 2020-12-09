@@ -10,8 +10,11 @@ author: ring
 slug: B014NMK1PO
 description:
 actualPrice: 14.3 EUR
+currency: EUR
+price: 14.3
 comparePrice: 90 EUR
 inStock: true
+prodname: Pepe Jeans Jeanius  Vaqueros relaxed para Hombre  Azul  11Oz Sanfore Twist N56   W29/L34
 ---
 
 Ahora mismo tienes [Pepe Jeans Jeanius  Vaqueros relaxed para Hombre  Azul  11Oz Sanfore Twist N56   W29/L34](https://www.amazon.es/dp/B014NMK1PO/?tag=tolees-21) a 14.3 EUR (original: 90 EUR) (84.11 %  de descuento) en el siguiente enlace!

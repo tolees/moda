@@ -10,8 +10,11 @@ author: ring
 slug: B078HC1CBC
 description:
 actualPrice: 11.75 EUR
+currency: EUR
+price: 11.75
 comparePrice: 22 EUR
 inStock: true
+prodname: Vihaan Impex Ropa de Mujer Ropa India Vestido Largo Mujer Camisetas Mujer Manga Larga Mujer Kurti Kurta para Mujer Tamaño del Busto 42 Pulgadas
 ---
 
 Ahora mismo tienes [Vihaan Impex Ropa de Mujer Ropa India Vestido Largo Mujer Camisetas Mujer Manga Larga Mujer Kurti Kurta para Mujer Tamaño del Busto 42 Pulgadas](https://www.amazon.es/dp/B078HC1CBC/?tag=tolees-21) a 11.75 EUR (original: 22 EUR) (46.59 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B01AXTB3J4
 description:
 actualPrice: 20.69 EUR
+currency: EUR
+price: 20.69
 comparePrice: 32.99 EUR
 inStock: true
+prodname: Eudora Harmony Ball Colgante el árbol de la vida  llamador de angeles embarazada  Collar Música Timbre Bell Mujeres Joyas El mejor Regalo para Niñas  Damas  Profesor  Madres y Hermanas
 ---
 
 Ahora mismo tienes [Eudora Harmony Ball Colgante el árbol de la vida  llamador de angeles embarazada  Collar Música Timbre Bell Mujeres Joyas El mejor Regalo para Niñas  Damas  Profesor  Madres y Hermanas](https://www.amazon.es/dp/B01AXTB3J4/?tag=tolees-21) a 20.69 EUR (original: 32.99 EUR) (37.28 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B01LX0Y4CO
 description:
 actualPrice: 17.16 EUR
+currency: EUR
+price: 17.16
 comparePrice: 39.99 EUR
 inStock: true
+prodname: ESPRIT 106EE1F036  Blusa Mujer  Rojo  Garnet Red   40
 ---
 
 Tienes [ESPRIT 106EE1F036  Blusa Mujer  Rojo  Garnet Red   40](https://www.amazon.es/dp/B01LX0Y4CO/?tag=tolees-21) con un 57.09 % de descuento con precio de oferta de 17.16 EUR (original: 39.99 EUR) en el siguiente enlace!

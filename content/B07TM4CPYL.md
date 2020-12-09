@@ -10,8 +10,11 @@ author: ring
 slug: B07TM4CPYL
 description:
 actualPrice: 35.99 EUR
+currency: EUR
+price: 35.99
 comparePrice: 58.0 EUR
 inStock: true
+prodname: Zapatos de Seguridad para Hombre Mujer con Puntera de Acero Zapatillas de Seguridad Trabajo Calzado de Industrial y Deportiva
 ---
 
 Está [Zapatos de Seguridad para Hombre Mujer con Puntera de Acero Zapatillas de Seguridad Trabajo Calzado de Industrial y Deportiva](https://www.amazon.es/dp/B07TM4CPYL/?tag=tolees-21) con 37.95 de descuento por 35.99 EUR (original: 58.0 EUR) en el siguiente enlace!

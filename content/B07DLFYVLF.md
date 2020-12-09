@@ -10,8 +10,11 @@ author: ring
 slug: B07DLFYVLF
 description:
 actualPrice: 6.36 EUR
+currency: EUR
+price: 6.36
 comparePrice: 17.99 EUR
 inStock: true
+prodname: Springfield Bimat. All Over Tropical Camiseta  Mujer  Azul  Azul Marino 10   Small  Tamaño del Fabricante:S 
 ---
 
 Tienes [Springfield Bimat. All Over Tropical Camiseta  Mujer  Azul  Azul Marino 10   Small  Tamaño del Fabricante:S ](https://www.amazon.es/dp/B07DLFYVLF/?tag=tolees-21) con un 64.65 % de descuento con precio de oferta de 6.36 EUR (original: 17.99 EUR) en el siguiente enlace!

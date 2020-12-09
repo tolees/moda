@@ -10,8 +10,11 @@ author: ring
 slug: B073QWRLM8
 description:
 actualPrice: 47.69 EUR
+currency: EUR
+price: 47.69
 comparePrice: 130 EUR
 inStock: true
+prodname: Levi s Type 3 Sherpa Trucker Chaqueta Vaquera  Gris  Biffy Grey Carbon Brushed 51   XX-Large para Hombre
 ---
 
 Ahora mismo tienes [Levi s Type 3 Sherpa Trucker Chaqueta Vaquera  Gris  Biffy Grey Carbon Brushed 51   XX-Large para Hombre](https://www.amazon.es/dp/B073QWRLM8/?tag=tolees-21) a 47.69 EUR (original: 130 EUR) (63.32 %  de descuento) en el siguiente enlace!

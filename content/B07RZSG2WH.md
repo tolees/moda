@@ -10,8 +10,11 @@ author: ring
 slug: B07RZSG2WH
 description:
 actualPrice: 27.64 EUR
+currency: EUR
+price: 27.64
 comparePrice: 99.95 EUR
 inStock: true
+prodname: BOSS Mabsoot  Camisa  Blanco  White 00100   X-Small para Hombre
 ---
 
 Ahora mismo tienes [BOSS Mabsoot  Camisa  Blanco  White 00100   X-Small para Hombre](https://www.amazon.es/dp/B07RZSG2WH/?tag=tolees-21) a 27.64 EUR (original: 99.95 EUR) (72.35 %  de descuento) en el siguiente enlace!

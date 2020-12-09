@@ -10,8 +10,11 @@ author: ring
 slug: B07V5DSMK9
 description:
 actualPrice: 15.49 EUR
+currency: EUR
+price: 15.49
 comparePrice: 29.62 EUR
 inStock: true
+prodname: Hurley M PRM Paradise LS HD Camiseta  Hombre  Black  XL
 ---
 
 Ahora mismo tienes [Hurley M PRM Paradise LS HD Camiseta  Hombre  Black  XL](https://www.amazon.es/dp/B07V5DSMK9/?tag=tolees-21) a 15.49 EUR (original: 29.62 EUR) (47.70 %  de descuento) en el siguiente enlace!

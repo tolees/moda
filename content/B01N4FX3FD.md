@@ -10,8 +10,11 @@ author: ring
 slug: B01N4FX3FD
 description:
 actualPrice: 59.84 EUR
+currency: EUR
+price: 59.84
 comparePrice: 119 EUR
 inStock: true
+prodname: Timberland Reloj Analógico para Hombre de Cuarzo con Correa en Cuero TBL15025JS.03
 ---
 
 Está [Timberland Reloj Analógico para Hombre de Cuarzo con Correa en Cuero TBL15025JS.03](https://www.amazon.es/dp/B01N4FX3FD/?tag=tolees-21) con 49.71 de descuento por 59.84 EUR (original: 119 EUR) en el siguiente enlace!

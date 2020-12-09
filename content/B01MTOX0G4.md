@@ -10,8 +10,11 @@ author: ring
 slug: B01MTOX0G4
 description:
 actualPrice: 11.45 EUR
+currency: EUR
+price: 11.45
 comparePrice: 19.95 EUR
 inStock: true
+prodname: adidas Squad 17 JSY SS Camiseta  Niños  Negro  Black/White   152
 ---
 
 Está [adidas Squad 17 JSY SS Camiseta  Niños  Negro  Black/White   152](https://www.amazon.es/dp/B01MTOX0G4/?tag=tolees-21) con 42.61 de descuento por 11.45 EUR (original: 19.95 EUR) en el siguiente enlace!

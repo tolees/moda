@@ -10,8 +10,11 @@ author: ring
 slug: B07DJTWBCL
 description:
 actualPrice: 13.17 EUR
+currency: EUR
+price: 13.17
 comparePrice: 49.99 EUR
 inStock: true
+prodname: Only Onlnew Skylar Fur Parka CC Otw Chaqueta  Gris Peat  42  Talla del Fabricante: X-Large  para Mujer
 ---
 
 Ahora mismo tienes [Only Onlnew Skylar Fur Parka CC Otw Chaqueta  Gris Peat  42  Talla del Fabricante: X-Large  para Mujer](https://www.amazon.es/dp/B07DJTWBCL/?tag=tolees-21) a 13.17 EUR (original: 49.99 EUR) (73.65 %  de descuento) en el siguiente enlace!

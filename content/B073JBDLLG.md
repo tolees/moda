@@ -10,8 +10,11 @@ author: ring
 slug: B073JBDLLG
 description:
 actualPrice: 30.25 EUR
+currency: EUR
+price: 30.25
 comparePrice: 129 EUR
 inStock: true
+prodname: Cortefiel 4.T.M.Coat Embrodery Flap Abrigo  Mujer  Negro  Black   Medium  Tamaño del fabricante:M 
 ---
 
 Está [Cortefiel 4.T.M.Coat Embrodery Flap Abrigo  Mujer  Negro  Black   Medium  Tamaño del fabricante:M ](https://www.amazon.es/dp/B073JBDLLG/?tag=tolees-21) con 76.55 de descuento por 30.25 EUR (original: 129 EUR) en el siguiente enlace!

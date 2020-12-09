@@ -10,8 +10,11 @@ author: ring
 slug: B07FFNMSLR
 description:
 actualPrice: 27.16 EUR
+currency: EUR
+price: 27.16
 comparePrice: 59.99 EUR
 inStock: true
+prodname: JACK & JONES Jjimike Jjoriginal Am 771 Noos  Vaqueros Relaxed para Hombre  Azul Blue Denim  W29/L32
 ---
 
 Tienes [JACK & JONES Jjimike Jjoriginal Am 771 Noos  Vaqueros Relaxed para Hombre  Azul Blue Denim  W29/L32](https://www.amazon.es/dp/B07FFNMSLR/?tag=tolees-21) con un 54.73 % de descuento con precio de oferta de 27.16 EUR (original: 59.99 EUR) en el siguiente enlace!

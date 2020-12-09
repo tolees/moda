@@ -10,8 +10,11 @@ author: ring
 slug: B07JX9RKVW
 description:
 actualPrice: 28.12 EUR
+currency: EUR
+price: 28.12
 comparePrice: 49.95 EUR
 inStock: true
+prodname: XTI 86074  Bolso Bandolera para Mujer  Marrón  Camel   32x20x17 cm  W x H x L 
 ---
 
 Tienes [XTI 86074  Bolso Bandolera para Mujer  Marrón  Camel   32x20x17 cm  W x H x L ](https://www.amazon.es/dp/B07JX9RKVW/?tag=tolees-21) con un 43.70 % de descuento con precio de oferta de 28.12 EUR (original: 49.95 EUR) en el siguiente enlace!

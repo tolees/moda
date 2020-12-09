@@ -10,8 +10,11 @@ author: ring
 slug: B005MYBRQU
 description:
 actualPrice: 20.21 EUR
+currency: EUR
+price: 20.21
 comparePrice: 26.95 EUR
 inStock: true
+prodname: Langer & Messmer hormas para zapatos de madera de cedro  para hombre y mujer   incluye calzador pequeño de madera de cedro  perfecto para viajes tamaño 34-50  el original  38/39 EU 
 ---
 
 Ahora mismo tienes [Langer & Messmer hormas para zapatos de madera de cedro  para hombre y mujer   incluye calzador pequeño de madera de cedro  perfecto para viajes tamaño 34-50  el original  38/39 EU ](https://www.amazon.es/dp/B005MYBRQU/?tag=tolees-21) a 20.21 EUR (original: 26.95 EUR) (25.01 %  de descuento) en el siguiente enlace!

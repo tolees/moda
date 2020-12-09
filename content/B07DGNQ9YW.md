@@ -10,8 +10,11 @@ author: ring
 slug: B07DGNQ9YW
 description:
 actualPrice: 60.44 EUR
+currency: EUR
+price: 60.44
 comparePrice: 136.67 EUR
 inStock: true
+prodname: Timberland Amherst  Botas Chukka para Hombre  Verde  Grape Leaf Nubuck A58   45.5 EU
 ---
 
 Ahora mismo tienes [Timberland Amherst  Botas Chukka para Hombre  Verde  Grape Leaf Nubuck A58   45.5 EU](https://www.amazon.es/dp/B07DGNQ9YW/?tag=tolees-21) a 60.44 EUR (original: 136.67 EUR) (55.78 %  de descuento) en el siguiente enlace!

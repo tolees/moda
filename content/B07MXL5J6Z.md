@@ -10,8 +10,11 @@ author: ring
 slug: B07MXL5J6Z
 description:
 actualPrice: 14.63 EUR
+currency: EUR
+price: 14.63
 comparePrice: 28 EUR
 inStock: true
+prodname: Salomon Coton Logo SS tee Camiseta  Hombre  Blanco  XXL
 ---
 
 Está [Salomon Coton Logo SS tee Camiseta  Hombre  Blanco  XXL](https://www.amazon.es/dp/B07MXL5J6Z/?tag=tolees-21) con 47.75 de descuento por 14.63 EUR (original: 28 EUR) en el siguiente enlace!

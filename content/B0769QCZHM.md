@@ -10,8 +10,11 @@ author: ring
 slug: B0769QCZHM
 description:
 actualPrice: 3.78 EUR
+currency: EUR
+price: 3.78
 comparePrice: 9.9 EUR
 inStock: true
+prodname: Speedo Jet Junior Gafas de natación  Unisex niños  Turquesa/Rojo Lava  One Size
 ---
 
 Tienes [Speedo Jet Junior Gafas de natación  Unisex niños  Turquesa/Rojo Lava  One Size](https://www.amazon.es/dp/B0769QCZHM/?tag=tolees-21) con un 61.82 % de descuento con precio de oferta de 3.78 EUR (original: 9.9 EUR) en el siguiente enlace!

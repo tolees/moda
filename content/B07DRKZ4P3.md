@@ -10,8 +10,11 @@ author: ring
 slug: B07DRKZ4P3
 description:
 actualPrice: 25.8 EUR
+currency: EUR
+price: 25.8
 comparePrice: 43 EUR
 inStock: true
+prodname: Kipling ESSYLA Bolso bandolera  21 cm  0.5 liters  Rojo  Active Red 
 ---
 
 Tienes [Kipling ESSYLA Bolso bandolera  21 cm  0.5 liters  Rojo  Active Red ](https://www.amazon.es/dp/B07DRKZ4P3/?tag=tolees-21) con un 40.00 % de descuento con precio de oferta de 25.8 EUR (original: 43 EUR) en el siguiente enlace!

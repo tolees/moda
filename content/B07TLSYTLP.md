@@ -10,8 +10,11 @@ author: ring
 slug: B07TLSYTLP
 description:
 actualPrice: 32.89 EUR
+currency: EUR
+price: 32.89
 comparePrice: 89.95 EUR
 inStock: true
+prodname: Clarks Sharon Crystal  Zapatos de Cordones Derby para Mujer  Beige  Sand Sand   41 EU
 ---
 
 Está [Clarks Sharon Crystal  Zapatos de Cordones Derby para Mujer  Beige  Sand Sand   41 EU](https://www.amazon.es/dp/B07TLSYTLP/?tag=tolees-21) con 63.44 de descuento por 32.89 EUR (original: 89.95 EUR) en el siguiente enlace!

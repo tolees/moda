@@ -10,8 +10,11 @@ author: ring
 slug: B07GT5KZH1
 description:
 actualPrice: 29.95 EUR
+currency: EUR
+price: 29.95
 comparePrice: 39.95 EUR
 inStock: true
+prodname: Vero Moda OuterwearVero Moda Pamela Chaqueta Acolchada de Plumas Chaqueta De Entretiempo para Mujer con Capucha  tamaño:S  Color:Chili Pepper
 ---
 
 Está [Vero Moda OuterwearVero Moda Pamela Chaqueta Acolchada de Plumas Chaqueta De Entretiempo para Mujer con Capucha  tamaño:S  Color:Chili Pepper](https://www.amazon.es/dp/B07GT5KZH1/?tag=tolees-21) con 25.03 de descuento por 29.95 EUR (original: 39.95 EUR) en el siguiente enlace!

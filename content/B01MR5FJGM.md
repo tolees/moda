@@ -10,8 +10,11 @@ author: ring
 slug: B01MR5FJGM
 description:
 actualPrice: 14.0 EUR
+currency: EUR
+price: 14.0
 comparePrice: 27.53 EUR
 inStock: true
+prodname: Marca Amazon - find. Chaqueta Estilo Guerrera para Mujer  Verde  Khaki   38  Label: S
 ---
 
 Está [Marca Amazon - find. Chaqueta Estilo Guerrera para Mujer  Verde  Khaki   38  Label: S](https://www.amazon.es/dp/B01MR5FJGM/?tag=tolees-21) con 49.15 de descuento por 14.0 EUR (original: 27.53 EUR) en el siguiente enlace!

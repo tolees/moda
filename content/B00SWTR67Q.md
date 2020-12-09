@@ -10,8 +10,11 @@ author: ring
 slug: B00SWTR67Q
 description:
 actualPrice: 44.12 EUR
+currency: EUR
+price: 44.12
 comparePrice: 75 EUR
 inStock: true
+prodname: Dickies Pensacola  Vaqueros para Hombre  Azul  Rinsed Rin   33W / 32L
 ---
 
 Tienes [Dickies Pensacola  Vaqueros para Hombre  Azul  Rinsed Rin   33W / 32L](https://www.amazon.es/dp/B00SWTR67Q/?tag=tolees-21) con un 41.17 % de descuento con precio de oferta de 44.12 EUR (original: 75 EUR) en el siguiente enlace!

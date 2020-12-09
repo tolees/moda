@@ -10,8 +10,11 @@ author: ring
 slug: B07FP2N6ZW
 description:
 actualPrice: 28.55 EUR
+currency: EUR
+price: 28.55
 comparePrice: 59.99 EUR
 inStock: true
+prodname: Vero Moda Vmanais Faux Shearling Short Jacket  Chaqueta para Mujer  Negro Detail: Black Teddy  42  Talla del Fabricante: Large 
 ---
 
 Está [Vero Moda Vmanais Faux Shearling Short Jacket  Chaqueta para Mujer  Negro Detail: Black Teddy  42  Talla del Fabricante: Large ](https://www.amazon.es/dp/B07FP2N6ZW/?tag=tolees-21) con 52.41 de descuento por 28.55 EUR (original: 59.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07BNSRRMP
 description:
 actualPrice: 39.99 EUR
+currency: EUR
+price: 39.99
 comparePrice: 139.99 EUR
 inStock: true
+prodname: edc by Esprit 098cc1g004  Abrigo para Mujer  Azul  Navy 400  Medium
 ---
 
 Ahora mismo tienes [edc by Esprit 098cc1g004  Abrigo para Mujer  Azul  Navy 400  Medium](https://www.amazon.es/dp/B07BNSRRMP/?tag=tolees-21) a 39.99 EUR (original: 139.99 EUR) (71.43 %  de descuento) en el siguiente enlace!

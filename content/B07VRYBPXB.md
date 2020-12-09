@@ -10,8 +10,11 @@ author: ring
 slug: B07VRYBPXB
 description:
 actualPrice: 52.27 EUR
+currency: EUR
+price: 52.27
 comparePrice: 139.95 EUR
 inStock: true
+prodname: G-STAR RAW Eyevi Fit and Flare Vestido  Gris  Sun Faded Basalt C049-b380   M para Mujer
 ---
 
 Está [G-STAR RAW Eyevi Fit and Flare Vestido  Gris  Sun Faded Basalt C049-b380   M para Mujer](https://www.amazon.es/dp/B07VRYBPXB/?tag=tolees-21) con 62.65 de descuento por 52.27 EUR (original: 139.95 EUR) en el siguiente enlace!

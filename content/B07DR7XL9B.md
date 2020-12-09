@@ -10,8 +10,11 @@ author: ring
 slug: B07DR7XL9B
 description:
 actualPrice: 15.99 EUR
+currency: EUR
+price: 15.99
 comparePrice: 44.57 EUR
 inStock: true
+prodname: Soporte para Gafas de Sol para Coche o Visera de Coche  Universal  Estuche Organizador con Tarjetero + Bolsa de Almacenamiento para Gafas  Soporte para Gafas de Coche  Color Gris
 ---
 
 Tienes [Soporte para Gafas de Sol para Coche o Visera de Coche  Universal  Estuche Organizador con Tarjetero + Bolsa de Almacenamiento para Gafas  Soporte para Gafas de Coche  Color Gris](https://www.amazon.es/dp/B07DR7XL9B/?tag=tolees-21) con un 64.12 % de descuento con precio de oferta de 15.99 EUR (original: 44.57 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07F1BGWCP
 description:
 actualPrice: 79.95 EUR
+currency: EUR
+price: 79.95
 comparePrice: 200 EUR
 inStock: true
+prodname: Levi s Down Barstow Puffer  Chaqueta para Hombre  Negro  Black 0000  XX-Large
 ---
 
 Ahora mismo tienes [Levi s Down Barstow Puffer  Chaqueta para Hombre  Negro  Black 0000  XX-Large](https://www.amazon.es/dp/B07F1BGWCP/?tag=tolees-21) a 79.95 EUR (original: 200 EUR) (60.02 %  de descuento) en el siguiente enlace!

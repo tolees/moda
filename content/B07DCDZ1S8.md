@@ -10,8 +10,11 @@ author: ring
 slug: B07DCDZ1S8
 description:
 actualPrice: 11.95 EUR
+currency: EUR
+price: 11.95
 comparePrice: 19.95 EUR
 inStock: true
+prodname: Puma Epic Flip v2  Chanclas Unisex Adulto  Morado  Sweet Lavender White   40.5 EU
 ---
 
 Está [Puma Epic Flip v2  Chanclas Unisex Adulto  Morado  Sweet Lavender White   40.5 EU](https://www.amazon.es/dp/B07DCDZ1S8/?tag=tolees-21) con 40.10 de descuento por 11.95 EUR (original: 19.95 EUR) en el siguiente enlace!

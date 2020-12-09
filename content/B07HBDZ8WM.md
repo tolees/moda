@@ -10,8 +10,11 @@ author: ring
 slug: B07HBDZ8WM
 description:
 actualPrice: 9.37 EUR
+currency: EUR
+price: 9.37
 comparePrice: 18 EUR
 inStock: true
+prodname: Disney Minnie Mouse Minnie Mouse Flower Hat  Sudadera para Niñas  Gris  Grey Marl  6-7 años
 ---
 
 Está [Disney Minnie Mouse Minnie Mouse Flower Hat  Sudadera para Niñas  Gris  Grey Marl  6-7 años](https://www.amazon.es/dp/B07HBDZ8WM/?tag=tolees-21) con 47.94 de descuento por 9.37 EUR (original: 18 EUR) en el siguiente enlace!

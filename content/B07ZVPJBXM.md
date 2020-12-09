@@ -10,8 +10,11 @@ author: ring
 slug: B07ZVPJBXM
 description:
 actualPrice: 38.99 EUR
+currency: EUR
+price: 38.99
 comparePrice: 65.0 EUR
 inStock: true
+prodname: Levi s Standard Crew Sudadera  Cyprine Tofu  XS para Mujer
 ---
 
 Está [Levi s Standard Crew Sudadera  Cyprine Tofu  XS para Mujer](https://www.amazon.es/dp/B07ZVPJBXM/?tag=tolees-21) con 40.02 de descuento por 38.99 EUR (original: 65.0 EUR) en el siguiente enlace!

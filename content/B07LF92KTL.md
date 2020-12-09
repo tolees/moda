@@ -10,8 +10,11 @@ author: ring
 slug: B07LF92KTL
 description:
 actualPrice: 39.0 EUR
+currency: EUR
+price: 39.0
 comparePrice: 65.0 EUR
 inStock: true
+prodname: Levi s Graphic Crew B Sudadera  Azul  Hm Ssnl Film 2 Dress Blues 0081   Small para Hombre
 ---
 
 Tienes [Levi s Graphic Crew B Sudadera  Azul  Hm Ssnl Film 2 Dress Blues 0081   Small para Hombre](https://www.amazon.es/dp/B07LF92KTL/?tag=tolees-21) con un 40.00 % de descuento con precio de oferta de 39.0 EUR (original: 65.0 EUR) en el siguiente enlace!

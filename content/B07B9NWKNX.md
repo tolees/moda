@@ -10,8 +10,11 @@ author: ring
 slug: B07B9NWKNX
 description:
 actualPrice: 77.93 EUR
+currency: EUR
+price: 77.93
 comparePrice: 155 EUR
 inStock: true
+prodname: Panama Jack Panama 03  Botines para Mujer  Verde  Kakhi B77   38 EU
 ---
 
 Tienes [Panama Jack Panama 03  Botines para Mujer  Verde  Kakhi B77   38 EU](https://www.amazon.es/dp/B07B9NWKNX/?tag=tolees-21) con un 49.72 % de descuento con precio de oferta de 77.93 EUR (original: 155 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B079FVMTVQ
 description:
 actualPrice: 9.44 EUR
+currency: EUR
+price: 9.44
 comparePrice: 28 EUR
 inStock: true
+prodname: Under Armour Tech-Twist - Camiseta de Manga Corta para Mujer  Mujer  1258568-291  Lime Fizz/Metallic Silver  Small
 ---
 
 Ahora mismo tienes [Under Armour Tech-Twist - Camiseta de Manga Corta para Mujer  Mujer  1258568-291  Lime Fizz/Metallic Silver  Small](https://www.amazon.es/dp/B079FVMTVQ/?tag=tolees-21) a 9.44 EUR (original: 28 EUR) (66.29 %  de descuento) en el siguiente enlace!

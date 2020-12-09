@@ -10,8 +10,11 @@ author: ring
 slug: B07DNRWBSY
 description:
 actualPrice: 24.44 EUR
+currency: EUR
+price: 24.44
 comparePrice: 54.95 EUR
 inStock: true
+prodname: adidas ESS Allcap Oh H  Sudadera para Mujer  Negro  S
 ---
 
 Está [adidas ESS Allcap Oh H  Sudadera para Mujer  Negro  S](https://www.amazon.es/dp/B07DNRWBSY/?tag=tolees-21) con 55.52 de descuento por 24.44 EUR (original: 54.95 EUR) en el siguiente enlace!

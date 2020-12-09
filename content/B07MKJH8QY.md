@@ -10,8 +10,11 @@ author: ring
 slug: B07MKJH8QY
 description:
 actualPrice: 16.35 EUR
+currency: EUR
+price: 16.35
 comparePrice: 29.95 EUR
 inStock: true
+prodname: G-STAR RAW Rodis T-Shirt Camiseta  Gris  Dk Shamrock Htr 8047   X-Large para Hombre
 ---
 
 Está [G-STAR RAW Rodis T-Shirt Camiseta  Gris  Dk Shamrock Htr 8047   X-Large para Hombre](https://www.amazon.es/dp/B07MKJH8QY/?tag=tolees-21) con 45.41 de descuento por 16.35 EUR (original: 29.95 EUR) en el siguiente enlace!

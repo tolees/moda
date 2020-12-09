@@ -10,8 +10,11 @@ author: ring
 slug: B018KKIZQC
 description:
 actualPrice: 69.49 EUR
+currency: EUR
+price: 69.49
 comparePrice: 110.98 EUR
 inStock: true
+prodname: Helly Hansen Crew Insulator - Chaqueta para hombre  Azul Oscuro  Navy   XL
 ---
 
 Está [Helly Hansen Crew Insulator - Chaqueta para hombre  Azul Oscuro  Navy   XL](https://www.amazon.es/dp/B018KKIZQC/?tag=tolees-21) con 37.39 de descuento por 69.49 EUR (original: 110.98 EUR) en el siguiente enlace!

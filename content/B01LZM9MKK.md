@@ -10,8 +10,11 @@ author: ring
 slug: B01LZM9MKK
 description:
 actualPrice: 14.99 EUR
+currency: EUR
+price: 14.99
 comparePrice: 56.99 EUR
 inStock: true
+prodname: Smilodox Slim Fit Jacket Chaqueta  Gris  Small para Hombre
 ---
 
 Tienes [Smilodox Slim Fit Jacket Chaqueta  Gris  Small para Hombre](https://www.amazon.es/dp/B01LZM9MKK/?tag=tolees-21) con un 73.70 % de descuento con precio de oferta de 14.99 EUR (original: 56.99 EUR) en el siguiente enlace!

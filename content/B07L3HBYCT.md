@@ -10,8 +10,11 @@ author: ring
 slug: B07L3HBYCT
 description:
 actualPrice: 36.63 EUR
+currency: EUR
+price: 36.63
 comparePrice: 119 EUR
 inStock: true
+prodname: Tommy Hilfiger Extra Slim Layton Pstr Eims Blue Vaqueros  Azul 911  W38/L34  Talla del Fabricante: 3438  para Hombre
 ---
 
 Tienes [Tommy Hilfiger Extra Slim Layton Pstr Eims Blue Vaqueros  Azul 911  W38/L34  Talla del Fabricante: 3438  para Hombre](https://www.amazon.es/dp/B07L3HBYCT/?tag=tolees-21) con un 69.22 % de descuento con precio de oferta de 36.63 EUR (original: 119 EUR) en el siguiente enlace!

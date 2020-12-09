@@ -10,8 +10,11 @@ author: ring
 slug: B01H71BTMW
 description:
 actualPrice: 20 EUR
+currency: EUR
+price: 20
 comparePrice: 34.99 EUR
 inStock: true
+prodname: crocs 203998  Chanclas Mujer  Gris  Smoke/White   34-35 EU
 ---
 
 Ahora mismo tienes [crocs 203998  Chanclas Mujer  Gris  Smoke/White   34-35 EU](https://www.amazon.es/dp/B01H71BTMW/?tag=tolees-21) a 20 EUR (original: 34.99 EUR) (42.84 %  de descuento) en el siguiente enlace!

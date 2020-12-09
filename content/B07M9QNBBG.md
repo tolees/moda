@@ -10,8 +10,11 @@ author: ring
 slug: B07M9QNBBG
 description:
 actualPrice: 28.68 EUR
+currency: EUR
+price: 28.68
 comparePrice: 119.95 EUR
 inStock: true
+prodname: G-STAR RAW 3301 Deconstructed Skinny Vaqueros  Negro  New Medium Aged Destroy 9136-A485   34W / 36L para Hombre
 ---
 
 Ahora mismo tienes [G-STAR RAW 3301 Deconstructed Skinny Vaqueros  Negro  New Medium Aged Destroy 9136-A485   34W / 36L para Hombre](https://www.amazon.es/dp/B07M9QNBBG/?tag=tolees-21) a 28.68 EUR (original: 119.95 EUR) (76.09 %  de descuento) en el siguiente enlace!

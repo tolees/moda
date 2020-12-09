@@ -10,8 +10,11 @@ author: ring
 slug: B07DWGS3YJ
 description:
 actualPrice: 12.57 EUR
+currency: EUR
+price: 12.57
 comparePrice: 26 EUR
 inStock: true
+prodname: Under Armour Challenger II Knit Short Pantalón Corto  Hombre  Azul  Blue Circuit/Academy/Steel 436   XL
 ---
 
 Está [Under Armour Challenger II Knit Short Pantalón Corto  Hombre  Azul  Blue Circuit/Academy/Steel 436   XL](https://www.amazon.es/dp/B07DWGS3YJ/?tag=tolees-21) con 51.65 de descuento por 12.57 EUR (original: 26 EUR) en el siguiente enlace!

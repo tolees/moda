@@ -10,8 +10,11 @@ author: ring
 slug: B00K6AGSXM
 description:
 actualPrice: 7.75 EUR
+currency: EUR
+price: 7.75
 comparePrice: 36.36 EUR
 inStock: true
+prodname: James & Nicholson Children s - Sudadera infantil  Azul  Sky Blue   Large  Talla del fabricante: Large 
 ---
 
 Está [James & Nicholson Children s - Sudadera infantil  Azul  Sky Blue   Large  Talla del fabricante: Large ](https://www.amazon.es/dp/B00K6AGSXM/?tag=tolees-21) con 78.69 de descuento por 7.75 EUR (original: 36.36 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07DJ2XHCM
 description:
 actualPrice: 47.19 EUR
+currency: EUR
+price: 47.19
 comparePrice: 109.9 EUR
 inStock: true
+prodname: Geox U Calgary D  Zapatos para Hombre  Negro  Black C9999   41 EU
 ---
 
 Ahora mismo tienes [Geox U Calgary D  Zapatos para Hombre  Negro  Black C9999   41 EU](https://www.amazon.es/dp/B07DJ2XHCM/?tag=tolees-21) a 47.19 EUR (original: 109.9 EUR) (57.06 %  de descuento) en el siguiente enlace!

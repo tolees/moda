@@ -10,8 +10,11 @@ author: ring
 slug: B00BSNFYAO
 description:
 actualPrice: 12.96 EUR
+currency: EUR
+price: 12.96
 comparePrice: 18.91 EUR
 inStock: true
+prodname: Alpinestar Ageless Classic tee Camiseta de Manga Logo de Corte Moderno  Hombre  Blanco  Black/White   Medium
 ---
 
 Ahora mismo tienes [Alpinestar Ageless Classic tee Camiseta de Manga Logo de Corte Moderno  Hombre  Blanco  Black/White   Medium](https://www.amazon.es/dp/B00BSNFYAO/?tag=tolees-21) a 12.96 EUR (original: 18.91 EUR) (31.46 %  de descuento) en el siguiente enlace!

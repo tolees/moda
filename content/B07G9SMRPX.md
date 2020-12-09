@@ -10,8 +10,11 @@ author: ring
 slug: B07G9SMRPX
 description:
 actualPrice: 9.18 EUR
+currency: EUR
+price: 9.18
 comparePrice: 22.95 EUR
 inStock: true
+prodname: Tuc Tuc Prenda Volantes FÁBULA  Camiseta para Niñas   Blanco 00   2 años  Tamaño del Fabricante:2A 
 ---
 
 Ahora mismo tienes [Tuc Tuc Prenda Volantes FÁBULA  Camiseta para Niñas   Blanco 00   2 años  Tamaño del Fabricante:2A ](https://www.amazon.es/dp/B07G9SMRPX/?tag=tolees-21) a 9.18 EUR (original: 22.95 EUR) (60.00 %  de descuento) en el siguiente enlace!

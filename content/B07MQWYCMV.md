@@ -10,8 +10,11 @@ author: ring
 slug: B07MQWYCMV
 description:
 actualPrice: 20.59 EUR
+currency: EUR
+price: 20.59
 comparePrice: 32.9 EUR
 inStock: true
+prodname: Marca Amazon - find. Pantalón Ancho Mujer  azul  marino   32W / 32L  Label: 32W / 32L
 ---
 
 Tienes [Marca Amazon - find. Pantalón Ancho Mujer  azul  marino   32W / 32L  Label: 32W / 32L](https://www.amazon.es/dp/B07MQWYCMV/?tag=tolees-21) con un 37.42 % de descuento con precio de oferta de 20.59 EUR (original: 32.9 EUR) en el siguiente enlace!

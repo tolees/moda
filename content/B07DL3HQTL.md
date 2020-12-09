@@ -10,8 +10,11 @@ author: ring
 slug: B07DL3HQTL
 description:
 actualPrice: 24.95 EUR
+currency: EUR
+price: 24.95
 comparePrice: 50 EUR
 inStock: true
+prodname: Nike G NSW Hoodie FZ PE Chaqueta  Azul Void/htr/Blue Chill  M para Niñas
 ---
 
 Ahora mismo tienes [Nike G NSW Hoodie FZ PE Chaqueta  Azul Void/htr/Blue Chill  M para Niñas](https://www.amazon.es/dp/B07DL3HQTL/?tag=tolees-21) a 24.95 EUR (original: 50 EUR) (50.10 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B08FZHMBXK
 description:
 actualPrice: 9.97 EUR
+currency: EUR
+price: 9.97
 comparePrice: 13.99 EUR
 inStock: true
+prodname: CINMOK 4pcs Ganchos Calcetines Navidad Ganchos Antideslizantes Navideños Chimenea para Colgar Calcetín Navideño Bolso Calendario Adviente Cajas Chimenea Mesa Cama Metal Plateado
 ---
 
 Ahora mismo tienes [CINMOK 4pcs Ganchos Calcetines Navidad Ganchos Antideslizantes Navideños Chimenea para Colgar Calcetín Navideño Bolso Calendario Adviente Cajas Chimenea Mesa Cama Metal Plateado](https://www.amazon.es/dp/B08FZHMBXK/?tag=tolees-21) a 9.97 EUR (original: 13.99 EUR) (28.73 %  de descuento) en el siguiente enlace!

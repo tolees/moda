@@ -10,8 +10,11 @@ author: ring
 slug: B07RB6F4JJ
 description:
 actualPrice: 13.36 EUR
+currency: EUR
+price: 13.36
 comparePrice: 19.3 EUR
 inStock: true
+prodname: find. Leather Panelled Hiker Botines  Negro Black  36 EU
 ---
 
 Tienes [find. Leather Panelled Hiker Botines  Negro Black  36 EU](https://www.amazon.es/dp/B07RB6F4JJ/?tag=tolees-21) con un 30.78 % de descuento con precio de oferta de 13.36 EUR (original: 19.3 EUR) en el siguiente enlace!

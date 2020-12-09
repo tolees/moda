@@ -10,8 +10,11 @@ author: ring
 slug: B07P2MPN1R
 description:
 actualPrice: 84.95 EUR
+currency: EUR
+price: 84.95
 comparePrice: 180 EUR
 inStock: true
+prodname: Diesel Sleenker L.32 Trousers Vaqueros Skinny  Azul Blue Denim 01  W32/L32  Talla del Fabricante: 32  para Hombre
 ---
 
 Tienes [Diesel Sleenker L.32 Trousers Vaqueros Skinny  Azul Blue Denim 01  W32/L32  Talla del Fabricante: 32  para Hombre](https://www.amazon.es/dp/B07P2MPN1R/?tag=tolees-21) con un 52.81 % de descuento con precio de oferta de 84.95 EUR (original: 180 EUR) en el siguiente enlace!

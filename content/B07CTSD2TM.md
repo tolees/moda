@@ -10,8 +10,11 @@ author: ring
 slug: B07CTSD2TM
 description:
 actualPrice: 13.49 EUR
+currency: EUR
+price: 13.49
 comparePrice: 29.99 EUR
 inStock: true
+prodname: PIECES Pcshape-up V361 MW Jeggings MB/Noos  Vaqueros Skinny Mujer  Azul  Medium Blue Denim Medium Denim   W24  Talla del Fabricante: XX-Small 
 ---
 
 Tienes [PIECES Pcshape-up V361 MW Jeggings MB/Noos  Vaqueros Skinny Mujer  Azul  Medium Blue Denim Medium Denim   W24  Talla del Fabricante: XX-Small ](https://www.amazon.es/dp/B07CTSD2TM/?tag=tolees-21) con un 55.02 % de descuento con precio de oferta de 13.49 EUR (original: 29.99 EUR) en el siguiente enlace!

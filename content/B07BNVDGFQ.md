@@ -10,8 +10,11 @@ author: ring
 slug: B07BNVDGFQ
 description:
 actualPrice: 25.35 EUR
+currency: EUR
+price: 25.35
 comparePrice: 99.9 EUR
 inStock: true
+prodname: Geox D Tahina B  Zapatillas sin Cordones para Mujer   Black C9999   35 EU
 ---
 
 Está [Geox D Tahina B  Zapatillas sin Cordones para Mujer   Black C9999   35 EU](https://www.amazon.es/dp/B07BNVDGFQ/?tag=tolees-21) con 74.62 de descuento por 25.35 EUR (original: 99.9 EUR) en el siguiente enlace!

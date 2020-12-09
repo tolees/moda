@@ -10,8 +10,11 @@ author: ring
 slug: B07JHW39HW
 description:
 actualPrice: 11.65 EUR
+currency: EUR
+price: 11.65
 comparePrice: 19.95 EUR
 inStock: true
+prodname: Puma ESS Logo tee Camiseta  Hombre  Amarillo  Blazing Yellow   M
 ---
 
 Está [Puma ESS Logo tee Camiseta  Hombre  Amarillo  Blazing Yellow   M](https://www.amazon.es/dp/B07JHW39HW/?tag=tolees-21) con 41.60 de descuento por 11.65 EUR (original: 19.95 EUR) en el siguiente enlace!

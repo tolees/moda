@@ -10,8 +10,11 @@ author: ring
 slug: B0752BGQRC
 description:
 actualPrice: 55.11 EUR
+currency: EUR
+price: 55.11
 comparePrice: 129.95 EUR
 inStock: true
+prodname: G-STAR RAW Midge Zip Mid Waist Skinny Vaqueros  Dark Aged D05281  26W / 36L para Mujer
 ---
 
 Ahora mismo tienes [G-STAR RAW Midge Zip Mid Waist Skinny Vaqueros  Dark Aged D05281  26W / 36L para Mujer](https://www.amazon.es/dp/B0752BGQRC/?tag=tolees-21) a 55.11 EUR (original: 129.95 EUR) (57.59 %  de descuento) en el siguiente enlace!

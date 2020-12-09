@@ -10,8 +10,11 @@ author: ring
 slug: B07H53KGRB
 description:
 actualPrice: 13.95 EUR
+currency: EUR
+price: 13.95
 comparePrice: 19.95 EUR
 inStock: true
+prodname: Desigual Shoes  Flip Flop_Tropical   Chanclas para Mujer   Blanco 1000   40 EU
 ---
 
 Ahora mismo tienes [Desigual Shoes  Flip Flop_Tropical   Chanclas para Mujer   Blanco 1000   40 EU](https://www.amazon.es/dp/B07H53KGRB/?tag=tolees-21) a 13.95 EUR (original: 19.95 EUR) (30.08 %  de descuento) en el siguiente enlace!

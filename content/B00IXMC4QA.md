@@ -10,8 +10,11 @@ author: ring
 slug: B00IXMC4QA
 description:
 actualPrice: 5.95 EUR
+currency: EUR
+price: 5.95
 comparePrice: 8.07 EUR
 inStock: true
+prodname: Joma Nobel Pantalón de equipación  Blanco  S
 ---
 
 Tienes [Joma Nobel Pantalón de equipación  Blanco  S](https://www.amazon.es/dp/B00IXMC4QA/?tag=tolees-21) con un 26.27 % de descuento con precio de oferta de 5.95 EUR (original: 8.07 EUR) en el siguiente enlace!

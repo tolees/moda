@@ -10,8 +10,11 @@ author: ring
 slug: B078GXLWL1
 description:
 actualPrice: 13.84 EUR
+currency: EUR
+price: 13.84
 comparePrice: 59.95 EUR
 inStock: true
+prodname: Trucco TT20EI1 Vestido  Morado  Medium  Tamaño del Fabricante:M  para Mujer
 ---
 
 Ahora mismo tienes [Trucco TT20EI1 Vestido  Morado  Medium  Tamaño del Fabricante:M  para Mujer](https://www.amazon.es/dp/B078GXLWL1/?tag=tolees-21) a 13.84 EUR (original: 59.95 EUR) (76.91 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07FJVQ82S
 description:
 actualPrice: 11.9 EUR
+currency: EUR
+price: 11.9
 comparePrice: 17.34 EUR
 inStock: true
+prodname: Ipanema Classic Brasil II Kids  Chanclas Unisex niños  Rosa  Pink 8553   29/30 EU
 ---
 
 Tienes [Ipanema Classic Brasil II Kids  Chanclas Unisex niños  Rosa  Pink 8553   29/30 EU](https://www.amazon.es/dp/B07FJVQ82S/?tag=tolees-21) con un 31.37 % de descuento con precio de oferta de 11.9 EUR (original: 17.34 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07GTDK7XD
 description:
 actualPrice: 13.21 EUR
+currency: EUR
+price: 13.21
 comparePrice: 29.95 EUR
 inStock: true
+prodname: Puma Pique Polo Camiseta  Hombre  Azul  M
 ---
 
 Está [Puma Pique Polo Camiseta  Hombre  Azul  M](https://www.amazon.es/dp/B07GTDK7XD/?tag=tolees-21) con 55.89 de descuento por 13.21 EUR (original: 29.95 EUR) en el siguiente enlace!

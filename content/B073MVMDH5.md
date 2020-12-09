@@ -10,8 +10,11 @@ author: ring
 slug: B073MVMDH5
 description:
 actualPrice: 9.26 EUR
+currency: EUR
+price: 9.26
 comparePrice: 26.99 EUR
 inStock: true
+prodname: Only Onlbette Logo LS Swt Sudadera  Negro  Black Print:White   34  Talla del Fabricante: X-Small  para Mujer
 ---
 
 Ahora mismo tienes [Only Onlbette Logo LS Swt Sudadera  Negro  Black Print:White   34  Talla del Fabricante: X-Small  para Mujer](https://www.amazon.es/dp/B073MVMDH5/?tag=tolees-21) a 9.26 EUR (original: 26.99 EUR) (65.69 %  de descuento) en el siguiente enlace!

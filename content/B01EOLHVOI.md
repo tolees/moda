@@ -10,8 +10,11 @@ author: ring
 slug: B01EOLHVOI
 description:
 actualPrice: 47.99 EUR
+currency: EUR
+price: 47.99
 comparePrice: 89.95 EUR
 inStock: true
+prodname: Lee Daren Zip  Vaqueros para Hombre  Azul  Raven Blue Ec   W38/L34
 ---
 
 Está [Lee Daren Zip  Vaqueros para Hombre  Azul  Raven Blue Ec   W38/L34](https://www.amazon.es/dp/B01EOLHVOI/?tag=tolees-21) con 46.65 de descuento por 47.99 EUR (original: 89.95 EUR) en el siguiente enlace!

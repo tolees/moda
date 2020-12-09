@@ -10,8 +10,11 @@ author: ring
 slug: B07XLK2BZQ
 description:
 actualPrice: 34.99 EUR
+currency: EUR
+price: 34.99
 comparePrice: 58.67 EUR
 inStock: true
+prodname: CELESTIA 100 IdiomasTe Amo Collares Mujeres  Plata de Ley 925 Nano Tecnología Grabado Collar de Recuerdos de Amor  Día de la Madre Regalos del Día de San Valentín para Ella  Joyas
 ---
 
 Tienes [CELESTIA 100 IdiomasTe Amo Collares Mujeres  Plata de Ley 925 Nano Tecnología Grabado Collar de Recuerdos de Amor  Día de la Madre Regalos del Día de San Valentín para Ella  Joyas](https://www.amazon.es/dp/B07XLK2BZQ/?tag=tolees-21) con un 40.36 % de descuento con precio de oferta de 34.99 EUR (original: 58.67 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07MZH8L5L
 description:
 actualPrice: 20.95 EUR
+currency: EUR
+price: 20.95
 comparePrice: 39.75 EUR
 inStock: true
+prodname: Superdry Shirt Shop Duo tee  Camiseta para Hombre  BLU  Teal Grit Uy9   XX-Large
 ---
 
 Tienes [Superdry Shirt Shop Duo tee  Camiseta para Hombre  BLU  Teal Grit Uy9   XX-Large](https://www.amazon.es/dp/B07MZH8L5L/?tag=tolees-21) con un 47.30 % de descuento con precio de oferta de 20.95 EUR (original: 39.75 EUR) en el siguiente enlace!

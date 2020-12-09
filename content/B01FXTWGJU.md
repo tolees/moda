@@ -10,8 +10,11 @@ author: ring
 slug: B01FXTWGJU
 description:
 actualPrice: 20.9 EUR
+currency: EUR
+price: 20.9
 comparePrice: 85 EUR
 inStock: true
+prodname: Geox JR AXEL BOY A - Botas para niños  Beige  DK YELLOW/COFFEEC2266   35 EU
 ---
 
 Tienes [Geox JR AXEL BOY A - Botas para niños  Beige  DK YELLOW/COFFEEC2266   35 EU](https://www.amazon.es/dp/B01FXTWGJU/?tag=tolees-21) con un 75.41 % de descuento con precio de oferta de 20.9 EUR (original: 85 EUR) en el siguiente enlace!

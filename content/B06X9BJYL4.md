@@ -10,8 +10,11 @@ author: ring
 slug: B06X9BJYL4
 description:
 actualPrice: 23.53 EUR
+currency: EUR
+price: 23.53
 comparePrice: 70 EUR
 inStock: true
+prodname: find. Zapatos de Piel estilo Óxford para Mujer  Rosa  Pink   41 EU
 ---
 
 Ahora mismo tienes [find. Zapatos de Piel estilo Óxford para Mujer  Rosa  Pink   41 EU](https://www.amazon.es/dp/B06X9BJYL4/?tag=tolees-21) a 23.53 EUR (original: 70 EUR) (66.39 %  de descuento) en el siguiente enlace!

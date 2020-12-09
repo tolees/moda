@@ -10,8 +10,11 @@ author: ring
 slug: B07NCB8CR2
 description:
 actualPrice: 12.59 EUR
+currency: EUR
+price: 12.59
 comparePrice: 29.9 EUR
 inStock: true
+prodname: Pepe Jeans Elia Camiseta  Negro  Black 999   X-Large para Mujer
 ---
 
 Tienes [Pepe Jeans Elia Camiseta  Negro  Black 999   X-Large para Mujer](https://www.amazon.es/dp/B07NCB8CR2/?tag=tolees-21) con un 57.89 % de descuento con precio de oferta de 12.59 EUR (original: 29.9 EUR) en el siguiente enlace!

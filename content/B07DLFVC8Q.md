@@ -10,8 +10,11 @@ author: ring
 slug: B07DLFVC8Q
 description:
 actualPrice: 13.48 EUR
+currency: EUR
+price: 13.48
 comparePrice: 29.99 EUR
 inStock: true
+prodname: Springfield 7Ba Jacquard Posici. Gg7 Jersey  Hombre  Azul  Gama Azules 13   Medium  Tamaño del Fabricante:M 
 ---
 
 Ahora mismo tienes [Springfield 7Ba Jacquard Posici. Gg7 Jersey  Hombre  Azul  Gama Azules 13   Medium  Tamaño del Fabricante:M ](https://www.amazon.es/dp/B07DLFVC8Q/?tag=tolees-21) a 13.48 EUR (original: 29.99 EUR) (55.05 %  de descuento) en el siguiente enlace!

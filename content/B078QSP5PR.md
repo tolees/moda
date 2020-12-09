@@ -10,8 +10,11 @@ author: ring
 slug: B078QSP5PR
 description:
 actualPrice: 112.74 EUR
+currency: EUR
+price: 112.74
 comparePrice: 220 EUR
 inStock: true
+prodname: The North Face Arctic Swirl - Chaqueta de plumón para Niñas  Verde  New Taupe Green   XL
 ---
 
 Tienes [The North Face Arctic Swirl - Chaqueta de plumón para Niñas  Verde  New Taupe Green   XL](https://www.amazon.es/dp/B078QSP5PR/?tag=tolees-21) con un 48.75 % de descuento con precio de oferta de 112.74 EUR (original: 220 EUR) en el siguiente enlace!

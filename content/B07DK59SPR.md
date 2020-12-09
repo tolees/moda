@@ -10,8 +10,11 @@ author: ring
 slug: B07DK59SPR
 description:
 actualPrice: 29.95 EUR
+currency: EUR
+price: 29.95
 comparePrice: 49.9 EUR
 inStock: true
+prodname: Geox J Pavel Girl a  Zapatillas para Niñas  Navy/Fuchsia C4268  26 EU
 ---
 
 Tienes [Geox J Pavel Girl a  Zapatillas para Niñas  Navy/Fuchsia C4268  26 EU](https://www.amazon.es/dp/B07DK59SPR/?tag=tolees-21) con un 39.98 % de descuento con precio de oferta de 29.95 EUR (original: 49.9 EUR) en el siguiente enlace!

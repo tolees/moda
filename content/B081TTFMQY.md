@@ -10,8 +10,11 @@ author: ring
 slug: B081TTFMQY
 description:
 actualPrice: 14.57 EUR
+currency: EUR
+price: 14.57
 comparePrice: 32.95 EUR
 inStock: true
+prodname: adidas Mono Jersey Pol T-Shirt  Hombre  Lush Red/White  M
 ---
 
 Está [adidas Mono Jersey Pol T-Shirt  Hombre  Lush Red/White  M](https://www.amazon.es/dp/B081TTFMQY/?tag=tolees-21) con 55.78 de descuento por 14.57 EUR (original: 32.95 EUR) en el siguiente enlace!

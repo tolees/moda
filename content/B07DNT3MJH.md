@@ -10,8 +10,11 @@ author: ring
 slug: B07DNT3MJH
 description:
 actualPrice: 7.85 EUR
+currency: EUR
+price: 7.85
 comparePrice: 34.95 EUR
 inStock: true
+prodname: Noa Noa Miniature Baby Leaf  Vestido Bebé-Niñas  Rosa  ALESAN 911   92  Talla del Fabricante: 24M 
 ---
 
 Está [Noa Noa Miniature Baby Leaf  Vestido Bebé-Niñas  Rosa  ALESAN 911   92  Talla del Fabricante: 24M ](https://www.amazon.es/dp/B07DNT3MJH/?tag=tolees-21) con 77.54 de descuento por 7.85 EUR (original: 34.95 EUR) en el siguiente enlace!

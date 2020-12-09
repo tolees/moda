@@ -10,8 +10,11 @@ author: ring
 slug: B01ESVET62
 description:
 actualPrice: 24.28 EUR
+currency: EUR
+price: 24.28
 comparePrice: 140 EUR
 inStock: true
+prodname: SHOE THE BEAR Alberte S  Sandalias con Plataforma para Mujer  Negro  Black   37 EU
 ---
 
 Ahora mismo tienes [SHOE THE BEAR Alberte S  Sandalias con Plataforma para Mujer  Negro  Black   37 EU](https://www.amazon.es/dp/B01ESVET62/?tag=tolees-21) a 24.28 EUR (original: 140 EUR) (82.66 %  de descuento) en el siguiente enlace!

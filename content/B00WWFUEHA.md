@@ -10,8 +10,11 @@ author: ring
 slug: B00WWFUEHA
 description:
 actualPrice: 60 EUR
+currency: EUR
+price: 60
 comparePrice: 99.95 EUR
 inStock: true
+prodname: G-Star Raw  3301 tapered - Vaqueros para hombre  Azul  Dark Aged 7209   W33/L34
 ---
 
 Tienes [G-Star Raw  3301 tapered - Vaqueros para hombre  Azul  Dark Aged 7209   W33/L34](https://www.amazon.es/dp/B00WWFUEHA/?tag=tolees-21) con un 39.97 % de descuento con precio de oferta de 60 EUR (original: 99.95 EUR) en el siguiente enlace!

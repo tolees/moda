@@ -10,8 +10,11 @@ author: ring
 slug: B07L8SQ4ZF
 description:
 actualPrice: 65.95 EUR
+currency: EUR
+price: 65.95
 comparePrice: 159.0 EUR
 inStock: true
+prodname: REPLAY Anbass Vaqueros Slim  Azul  Dark Blue 7   W30/L36  Talla del Fabricante: 30  para Hombre
 ---
 
 Tienes [REPLAY Anbass Vaqueros Slim  Azul  Dark Blue 7   W30/L36  Talla del Fabricante: 30  para Hombre](https://www.amazon.es/dp/B07L8SQ4ZF/?tag=tolees-21) con un 58.52 % de descuento con precio de oferta de 65.95 EUR (original: 159.0 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07KCYW8NH
 description:
 actualPrice: 15.2 EUR
+currency: EUR
+price: 15.2
 comparePrice: 39.95 EUR
 inStock: true
+prodname: adidas T19 Tank W Camiseta sin Mangas  Mujer  White  XL
 ---
 
 Ahora mismo tienes [adidas T19 Tank W Camiseta sin Mangas  Mujer  White  XL](https://www.amazon.es/dp/B07KCYW8NH/?tag=tolees-21) a 15.2 EUR (original: 39.95 EUR) (61.95 %  de descuento) en el siguiente enlace!

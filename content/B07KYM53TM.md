@@ -10,8 +10,11 @@ author: ring
 slug: B07KYM53TM
 description:
 actualPrice: 7.99 EUR
+currency: EUR
+price: 7.99
 comparePrice: 15.99 EUR
 inStock: true
+prodname: Springfield 9Ba Camiseta Cintas Hombro  Gama Azules 12   X-Small  Tamaño del Fabricante:XS  para
 ---
 
 Tienes [Springfield 9Ba Camiseta Cintas Hombro  Gama Azules 12   X-Small  Tamaño del Fabricante:XS  para](https://www.amazon.es/dp/B07KYM53TM/?tag=tolees-21) con un 50.03 % de descuento con precio de oferta de 7.99 EUR (original: 15.99 EUR) en el siguiente enlace!

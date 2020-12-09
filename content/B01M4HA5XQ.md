@@ -10,8 +10,11 @@ author: ring
 slug: B01M4HA5XQ
 description:
 actualPrice: 50 EUR
+currency: EUR
+price: 50
 comparePrice: 99.9 EUR
 inStock: true
+prodname: Geox D Sukie A  Zapatillas para Mujer  Beige  SKINC8182   37 EU
 ---
 
 Tienes [Geox D Sukie A  Zapatillas para Mujer  Beige  SKINC8182   37 EU](https://www.amazon.es/dp/B01M4HA5XQ/?tag=tolees-21) con un 49.95 % de descuento con precio de oferta de 50 EUR (original: 99.9 EUR) en el siguiente enlace!

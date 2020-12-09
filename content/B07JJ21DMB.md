@@ -10,8 +10,11 @@ author: ring
 slug: B07JJ21DMB
 description:
 actualPrice: 64.58 EUR
+currency: EUR
+price: 64.58
 comparePrice: 160 EUR
 inStock: true
+prodname: Armani Exchange Poly Crepe  vestido Mujer  Rosa  Pink Flamingos 1454   4
 ---
 
 Está [Armani Exchange Poly Crepe  vestido Mujer  Rosa  Pink Flamingos 1454   4](https://www.amazon.es/dp/B07JJ21DMB/?tag=tolees-21) con 59.64 de descuento por 64.58 EUR (original: 160 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07KZ1WWCF
 description:
 actualPrice: 6.76 EUR
+currency: EUR
+price: 6.76
 comparePrice: 19.99 EUR
 inStock: true
+prodname: Springfield Franq.Cuello Print Camiseta  Mujer  Marrón  Gama Marrones 33   X-Large  Tamaño del Fabricante:XL 
 ---
 
 Ahora mismo tienes [Springfield Franq.Cuello Print Camiseta  Mujer  Marrón  Gama Marrones 33   X-Large  Tamaño del Fabricante:XL ](https://www.amazon.es/dp/B07KZ1WWCF/?tag=tolees-21) a 6.76 EUR (original: 19.99 EUR) (66.18 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B01H4AFOWM
 description:
 actualPrice: 30.23 EUR
+currency: EUR
+price: 30.23
 comparePrice: 94.95 EUR
 inStock: true
+prodname: Wrangler Greensboro Straight Leg 1  Vaqueros para Hombre  Azul  Blown Away  31W / 34L
 ---
 
 Está [Wrangler Greensboro Straight Leg 1  Vaqueros para Hombre  Azul  Blown Away  31W / 34L](https://www.amazon.es/dp/B01H4AFOWM/?tag=tolees-21) con 68.16 de descuento por 30.23 EUR (original: 94.95 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B01LXXOIU3
 description:
 actualPrice: 4.07 EUR
+currency: EUR
+price: 4.07
 comparePrice: 18.99 EUR
 inStock: true
+prodname: IRIS & LILLY BLISL002 sujetadores push up  Azul  Light Teal2   90D  Talla del fabricante: 34D 
 ---
 
 Tienes [IRIS & LILLY BLISL002 sujetadores push up  Azul  Light Teal2   90D  Talla del fabricante: 34D ](https://www.amazon.es/dp/B01LXXOIU3/?tag=tolees-21) con un 78.57 % de descuento con precio de oferta de 4.07 EUR (original: 18.99 EUR) en el siguiente enlace!

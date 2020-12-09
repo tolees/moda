@@ -10,8 +10,11 @@ author: ring
 slug: B07VNTTXXC
 description:
 actualPrice: 34.99 EUR
+currency: EUR
+price: 34.99
 comparePrice: 89.95 EUR
 inStock: true
+prodname: Lee Brooklyn Straight Hombre Vaqueros  Gris  Moto Flat EB   33W / 30L
 ---
 
 Ahora mismo tienes [Lee Brooklyn Straight Hombre Vaqueros  Gris  Moto Flat EB   33W / 30L](https://www.amazon.es/dp/B07VNTTXXC/?tag=tolees-21) a 34.99 EUR (original: 89.95 EUR) (61.10 %  de descuento) en el siguiente enlace!

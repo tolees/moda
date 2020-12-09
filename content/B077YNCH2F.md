@@ -10,8 +10,11 @@ author: ring
 slug: B077YNCH2F
 description:
 actualPrice: 15.4 EUR
+currency: EUR
+price: 15.4
 comparePrice: 35 EUR
 inStock: true
+prodname: Volcom Over Ride DD SS Camiseta  Hombre  Azul  Cielo   L
 ---
 
 Tienes [Volcom Over Ride DD SS Camiseta  Hombre  Azul  Cielo   L](https://www.amazon.es/dp/B077YNCH2F/?tag=tolees-21) con un 56.00 % de descuento con precio de oferta de 15.4 EUR (original: 35 EUR) en el siguiente enlace!

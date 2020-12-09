@@ -10,8 +10,11 @@ author: ring
 slug: B07PDG8M4D
 description:
 actualPrice: 21.53 EUR
+currency: EUR
+price: 21.53
 comparePrice: 75.0 EUR
 inStock: true
+prodname: Kaporal Datte  Vaqueros Slim para Hombre  Azul  Eratik Eratik   W40/L32
 ---
 
 Está [Kaporal Datte  Vaqueros Slim para Hombre  Azul  Eratik Eratik   W40/L32](https://www.amazon.es/dp/B07PDG8M4D/?tag=tolees-21) con 71.29 de descuento por 21.53 EUR (original: 75.0 EUR) en el siguiente enlace!

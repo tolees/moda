@@ -10,8 +10,11 @@ author: ring
 slug: B07NBXJJYC
 description:
 actualPrice: 12.66 EUR
+currency: EUR
+price: 12.66
 comparePrice: 24.99 EUR
 inStock: true
+prodname: Superdry OL Essential Tank Camiseta sin Mangas  Morado  Parma Violet Nda   L  Talla del Fabricante:14  para Mujer
 ---
 
 Está [Superdry OL Essential Tank Camiseta sin Mangas  Morado  Parma Violet Nda   L  Talla del Fabricante:14  para Mujer](https://www.amazon.es/dp/B07NBXJJYC/?tag=tolees-21) con 49.34 de descuento por 12.66 EUR (original: 24.99 EUR) en el siguiente enlace!

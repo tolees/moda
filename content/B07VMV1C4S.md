@@ -10,8 +10,11 @@ author: ring
 slug: B07VMV1C4S
 description:
 actualPrice: 40.99 EUR
+currency: EUR
+price: 40.99
 comparePrice: 99.95 EUR
 inStock: true
+prodname: Lee Luke Vaqueros  Lt Worn Foam Er  29W / 32L para Hombre
 ---
 
 Está [Lee Luke Vaqueros  Lt Worn Foam Er  29W / 32L para Hombre](https://www.amazon.es/dp/B07VMV1C4S/?tag=tolees-21) con 58.99 de descuento por 40.99 EUR (original: 99.95 EUR) en el siguiente enlace!

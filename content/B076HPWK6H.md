@@ -10,8 +10,11 @@ author: ring
 slug: B076HPWK6H
 description:
 actualPrice: 28.95 EUR
+currency: EUR
+price: 28.95
 comparePrice: 39.99 EUR
 inStock: true
+prodname: adidas CORE18 Hoody Sudadera con Capucha  Hombre  Negro  Negro/Blanco   L
 ---
 
 Tienes [adidas CORE18 Hoody Sudadera con Capucha  Hombre  Negro  Negro/Blanco   L](https://www.amazon.es/dp/B076HPWK6H/?tag=tolees-21) con un 27.61 % de descuento con precio de oferta de 28.95 EUR (original: 39.99 EUR) en el siguiente enlace!

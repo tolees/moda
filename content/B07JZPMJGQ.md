@@ -10,8 +10,11 @@ author: ring
 slug: B07JZPMJGQ
 description:
 actualPrice: 39.1 EUR
+currency: EUR
+price: 39.1
 comparePrice: 74.95 EUR
 inStock: true
+prodname: adidas Pro Adversary Low 2019  Zapatos de Baloncesto para Hombre  Blanco FTWR White/Core Black/Grey Four F17  43 1/3 EU
 ---
 
 Tienes [adidas Pro Adversary Low 2019  Zapatos de Baloncesto para Hombre  Blanco FTWR White/Core Black/Grey Four F17  43 1/3 EU](https://www.amazon.es/dp/B07JZPMJGQ/?tag=tolees-21) con un 47.83 % de descuento con precio de oferta de 39.1 EUR (original: 74.95 EUR) en el siguiente enlace!

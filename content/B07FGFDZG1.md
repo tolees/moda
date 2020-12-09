@@ -10,8 +10,11 @@ author: ring
 slug: B07FGFDZG1
 description:
 actualPrice: 98.34 EUR
+currency: EUR
+price: 98.34
 comparePrice: 195.54 EUR
 inStock: true
+prodname: Volcom venson Chaqueta de Invierno  Mujer  B1531801  Cobre  Medium
 ---
 
 Está [Volcom venson Chaqueta de Invierno  Mujer  B1531801  Cobre  Medium](https://www.amazon.es/dp/B07FGFDZG1/?tag=tolees-21) con 49.71 de descuento por 98.34 EUR (original: 195.54 EUR) en el siguiente enlace!

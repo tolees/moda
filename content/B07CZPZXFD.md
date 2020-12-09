@@ -10,8 +10,11 @@ author: ring
 slug: B07CZPZXFD
 description:
 actualPrice: 19.46 EUR
+currency: EUR
+price: 19.46
 comparePrice: 41.95 EUR
 inStock: true
+prodname: BOSS Boxer Brief 2p Print  Azul  Dark Blue 401   X-Large  Pack de 2 para Hombre
 ---
 
 Está [BOSS Boxer Brief 2p Print  Azul  Dark Blue 401   X-Large  Pack de 2 para Hombre](https://www.amazon.es/dp/B07CZPZXFD/?tag=tolees-21) con 53.61 de descuento por 19.46 EUR (original: 41.95 EUR) en el siguiente enlace!

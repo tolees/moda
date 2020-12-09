@@ -10,8 +10,11 @@ author: ring
 slug: B01ETA6GZE
 description:
 actualPrice: 21.09 EUR
+currency: EUR
+price: 21.09
 comparePrice: 99.95 EUR
 inStock: true
+prodname: Bugatti V71301  Botines para Mujer  Negro  36 EU
 ---
 
 Tienes [Bugatti V71301  Botines para Mujer  Negro  36 EU](https://www.amazon.es/dp/B01ETA6GZE/?tag=tolees-21) con un 78.90 % de descuento con precio de oferta de 21.09 EUR (original: 99.95 EUR) en el siguiente enlace!

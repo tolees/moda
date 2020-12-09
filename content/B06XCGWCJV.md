@@ -10,8 +10,11 @@ author: ring
 slug: B06XCGWCJV
 description:
 actualPrice: 61.93 EUR
+currency: EUR
+price: 61.93
 comparePrice: 120 EUR
 inStock: true
+prodname: Clarks Norsen Mid  Botines Hombre  Marrón  Dark Tan Lea   42 EU
 ---
 
 Ahora mismo tienes [Clarks Norsen Mid  Botines Hombre  Marrón  Dark Tan Lea   42 EU](https://www.amazon.es/dp/B06XCGWCJV/?tag=tolees-21) a 61.93 EUR (original: 120 EUR) (48.39 %  de descuento) en el siguiente enlace!

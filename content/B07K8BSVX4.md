@@ -10,8 +10,11 @@ author: ring
 slug: B07K8BSVX4
 description:
 actualPrice: 23.66 EUR
+currency: EUR
+price: 23.66
 comparePrice: 39.9 EUR
 inStock: true
+prodname: Superdry Shirt Shop tee  Camiseta de Tirantes para Hombre  Azul  Navy Grey Feeder Zm3  X-Large
 ---
 
 Está [Superdry Shirt Shop tee  Camiseta de Tirantes para Hombre  Azul  Navy Grey Feeder Zm3  X-Large](https://www.amazon.es/dp/B07K8BSVX4/?tag=tolees-21) con 40.70 de descuento por 23.66 EUR (original: 39.9 EUR) en el siguiente enlace!

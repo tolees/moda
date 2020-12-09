@@ -10,8 +10,11 @@ author: ring
 slug: B07MN26CNL
 description:
 actualPrice: 17.56 EUR
+currency: EUR
+price: 17.56
 comparePrice: 30 EUR
 inStock: true
+prodname: The North Face Easy Camiseta  Hombre  Rojo  Salsa Red   S
 ---
 
 Ahora mismo tienes [The North Face Easy Camiseta  Hombre  Rojo  Salsa Red   S](https://www.amazon.es/dp/B07MN26CNL/?tag=tolees-21) a 17.56 EUR (original: 30 EUR) (41.47 %  de descuento) en el siguiente enlace!

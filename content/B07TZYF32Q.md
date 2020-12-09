@@ -10,8 +10,11 @@ author: ring
 slug: B07TZYF32Q
 description:
 actualPrice: 11.99 EUR
+currency: EUR
+price: 11.99
 comparePrice: 24.95 EUR
 inStock: true
+prodname: Wrangler SS tee Camiseta  Blanco  White 989   Medium para Hombre
 ---
 
 Ahora mismo tienes [Wrangler SS tee Camiseta  Blanco  White 989   Medium para Hombre](https://www.amazon.es/dp/B07TZYF32Q/?tag=tolees-21) a 11.99 EUR (original: 24.95 EUR) (51.94 %  de descuento) en el siguiente enlace!

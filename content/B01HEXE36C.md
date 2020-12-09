@@ -10,8 +10,11 @@ author: ring
 slug: B01HEXE36C
 description:
 actualPrice: 19.9 EUR
+currency: EUR
+price: 19.9
 comparePrice: 39.9 EUR
 inStock: true
+prodname: Crocs Crocband Clog Kids  Zuecos Unisex Niños  Verde  Forest/Stucco   19/20 EU
 ---
 
 Está [Crocs Crocband Clog Kids  Zuecos Unisex Niños  Verde  Forest/Stucco   19/20 EU](https://www.amazon.es/dp/B01HEXE36C/?tag=tolees-21) con 50.13 de descuento por 19.9 EUR (original: 39.9 EUR) en el siguiente enlace!

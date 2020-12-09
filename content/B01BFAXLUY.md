@@ -10,8 +10,11 @@ author: ring
 slug: B01BFAXLUY
 description:
 actualPrice: 8.76 EUR
+currency: EUR
+price: 8.76
 comparePrice: 38.25 EUR
 inStock: true
+prodname: HHG Vestido Verde S
 ---
 
 Tienes [HHG Vestido Verde S](https://www.amazon.es/dp/B01BFAXLUY/?tag=tolees-21) con un 77.10 % de descuento con precio de oferta de 8.76 EUR (original: 38.25 EUR) en el siguiente enlace!

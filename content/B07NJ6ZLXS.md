@@ -10,8 +10,11 @@ author: ring
 slug: B07NJ6ZLXS
 description:
 actualPrice: 16.99 EUR
+currency: EUR
+price: 16.99
 comparePrice: 36.99 EUR
 inStock: true
+prodname: Mujer Traje de Baño Conjunto Bikini de Lunares Negro Dos Piezas M CL011000-1
 ---
 
 Ahora mismo tienes [Mujer Traje de Baño Conjunto Bikini de Lunares Negro Dos Piezas M CL011000-1](https://www.amazon.es/dp/B07NJ6ZLXS/?tag=tolees-21) a 16.99 EUR (original: 36.99 EUR) (54.07 %  de descuento) en el siguiente enlace!

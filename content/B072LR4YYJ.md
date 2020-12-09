@@ -10,8 +10,11 @@ author: ring
 slug: B072LR4YYJ
 description:
 actualPrice: 9.37 EUR
+currency: EUR
+price: 9.37
 comparePrice: 19.99 EUR
 inStock: true
+prodname: edc by Esprit 097cc1k058  Camisa Manga Larga Mujer  Gris  Light Grey 5 044   Large
 ---
 
 Está [edc by Esprit 097cc1k058  Camisa Manga Larga Mujer  Gris  Light Grey 5 044   Large](https://www.amazon.es/dp/B072LR4YYJ/?tag=tolees-21) con 53.13 de descuento por 9.37 EUR (original: 19.99 EUR) en el siguiente enlace!

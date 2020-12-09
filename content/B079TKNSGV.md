@@ -10,8 +10,11 @@ author: ring
 slug: B079TKNSGV
 description:
 actualPrice: 5.58 EUR
+currency: EUR
+price: 5.58
 comparePrice: 26.99 EUR
 inStock: true
+prodname: Only Onllexi L/s O-Neck Box Swt  Sudadera Mujer   Oatmeal AOP: Flamingo   38  Talla del Fabricante: Small 
 ---
 
 Está [Only Onllexi L/s O-Neck Box Swt  Sudadera Mujer   Oatmeal AOP: Flamingo   38  Talla del Fabricante: Small ](https://www.amazon.es/dp/B079TKNSGV/?tag=tolees-21) con 79.33 de descuento por 5.58 EUR (original: 26.99 EUR) en el siguiente enlace!

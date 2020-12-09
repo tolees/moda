@@ -10,8 +10,11 @@ author: ring
 slug: B07JN5RTWF
 description:
 actualPrice: 24.6 EUR
+currency: EUR
+price: 24.6
 comparePrice: 45 EUR
 inStock: true
+prodname: Lacoste Ramm102 - Bóxer Hombre  Pack de 3  Azul  X-Small
 ---
 
 Ahora mismo tienes [Lacoste Ramm102 - Bóxer Hombre  Pack de 3  Azul  X-Small](https://www.amazon.es/dp/B07JN5RTWF/?tag=tolees-21) a 24.6 EUR (original: 45 EUR) (45.33 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07FMP5VTP
 description:
 actualPrice: 28.17 EUR
+currency: EUR
+price: 28.17
 comparePrice: 109 EUR
 inStock: true
+prodname: Kickers Oxfork  Zapatos de Cordones Derby para Hombre  Azul  Marine 10   42 EU
 ---
 
 Ahora mismo tienes [Kickers Oxfork  Zapatos de Cordones Derby para Hombre  Azul  Marine 10   42 EU](https://www.amazon.es/dp/B07FMP5VTP/?tag=tolees-21) a 28.17 EUR (original: 109 EUR) (74.16 %  de descuento) en el siguiente enlace!

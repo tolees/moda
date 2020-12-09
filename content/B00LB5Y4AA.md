@@ -10,8 +10,11 @@ author: ring
 slug: B00LB5Y4AA
 description:
 actualPrice: 24.7 EUR
+currency: EUR
+price: 24.7
 comparePrice: 44.95 EUR
 inStock: true
+prodname: Levi s Sweater N91503A Sudadera con Capucha  Rot 03  98  Herstellergröße: 3A  para Niños
 ---
 
 Tienes [Levi s Sweater N91503A Sudadera con Capucha  Rot 03  98  Herstellergröße: 3A  para Niños](https://www.amazon.es/dp/B00LB5Y4AA/?tag=tolees-21) con un 45.05 % de descuento con precio de oferta de 24.7 EUR (original: 44.95 EUR) en el siguiente enlace!

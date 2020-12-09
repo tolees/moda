@@ -10,8 +10,11 @@ author: ring
 slug: B07KZ1FHSP
 description:
 actualPrice: 9.46 EUR
+currency: EUR
+price: 9.46
 comparePrice: 12.99 EUR
 inStock: true
+prodname: Springfield Especial Frq. Branding 2 Camiseta  Mujer   Gama Rosas/Morados 71   One Size  Tamaño del Fabricante:XL 
 ---
 
 Está [Springfield Especial Frq. Branding 2 Camiseta  Mujer   Gama Rosas/Morados 71   One Size  Tamaño del Fabricante:XL ](https://www.amazon.es/dp/B07KZ1FHSP/?tag=tolees-21) con 27.17 de descuento por 9.46 EUR (original: 12.99 EUR) en el siguiente enlace!

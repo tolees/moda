@@ -10,8 +10,11 @@ author: ring
 slug: B07DVRH82P
 description:
 actualPrice: 85.99 EUR
+currency: EUR
+price: 85.99
 comparePrice: 140.0 EUR
 inStock: true
+prodname: Levi s Type 3 Chaqueta Vaquera  Stonebridge Sherpa Trucker  L para Hombre
 ---
 
 Tienes [Levi s Type 3 Chaqueta Vaquera  Stonebridge Sherpa Trucker  L para Hombre](https://www.amazon.es/dp/B07DVRH82P/?tag=tolees-21) con un 38.58 % de descuento con precio de oferta de 85.99 EUR (original: 140.0 EUR) en el siguiente enlace!

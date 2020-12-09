@@ -10,8 +10,11 @@ author: ring
 slug: B07B4RFWXQ
 description:
 actualPrice: 52.4 EUR
+currency: EUR
+price: 52.4
 comparePrice: 95 EUR
 inStock: true
+prodname: G-Star Doax Hooded Zip Thru Sw L/s  Sudadera para Hombre  Azul  Hudson Blue Heather   X-Large
 ---
 
 Está [G-Star Doax Hooded Zip Thru Sw L/s  Sudadera para Hombre  Azul  Hudson Blue Heather   X-Large](https://www.amazon.es/dp/B07B4RFWXQ/?tag=tolees-21) con 44.84 de descuento por 52.4 EUR (original: 95 EUR) en el siguiente enlace!

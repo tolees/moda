@@ -10,8 +10,11 @@ author: ring
 slug: B07HBDP56W
 description:
 actualPrice: 82.7 EUR
+currency: EUR
+price: 82.7
 comparePrice: 174.28 EUR
 inStock: true
+prodname: KAREN MILLEN Fashions Limited Textured Leather Court Shoes  Zapatos de tacón con Punta Cerrada para Mujer  Negro  Black 01   39 EU
 ---
 
 Ahora mismo tienes [KAREN MILLEN Fashions Limited Textured Leather Court Shoes  Zapatos de tacón con Punta Cerrada para Mujer  Negro  Black 01   39 EU](https://www.amazon.es/dp/B07HBDP56W/?tag=tolees-21) a 82.7 EUR (original: 174.28 EUR) (52.55 %  de descuento) en el siguiente enlace!

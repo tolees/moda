@@ -10,8 +10,11 @@ author: ring
 slug: B077V1VHYB
 description:
 actualPrice: 21.85 EUR
+currency: EUR
+price: 21.85
 comparePrice: 64.9 EUR
 inStock: true
+prodname: Marca Amazon - MERAKI Anorak Hombre con Capucha  Azul  Navy   S  Label: S
 ---
 
 Está [Marca Amazon - MERAKI Anorak Hombre con Capucha  Azul  Navy   S  Label: S](https://www.amazon.es/dp/B077V1VHYB/?tag=tolees-21) con 66.33 de descuento por 21.85 EUR (original: 64.9 EUR) en el siguiente enlace!

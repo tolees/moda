@@ -10,8 +10,11 @@ author: ring
 slug: B073JVYKZR
 description:
 actualPrice: 10.59 EUR
+currency: EUR
+price: 10.59
 comparePrice: 34.12 EUR
 inStock: true
+prodname: Marca Amazon - find. Cazadora Estilo Bomber para Hombre  Marrón  Khaki   XL  Label: XL
 ---
 
 Está [Marca Amazon - find. Cazadora Estilo Bomber para Hombre  Marrón  Khaki   XL  Label: XL](https://www.amazon.es/dp/B073JVYKZR/?tag=tolees-21) con 68.96 de descuento por 10.59 EUR (original: 34.12 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B00VX2NSLM
 description:
 actualPrice: 18.38 EUR
+currency: EUR
+price: 18.38
 comparePrice: 99.95 EUR
 inStock: true
+prodname: G-Star Raw 3301 Contour High Straight  Vaqueros para Mujer  Azul  3D Dark Aged   W26/L34
 ---
 
 Tienes [G-Star Raw 3301 Contour High Straight  Vaqueros para Mujer  Azul  3D Dark Aged   W26/L34](https://www.amazon.es/dp/B00VX2NSLM/?tag=tolees-21) con un 81.61 % de descuento con precio de oferta de 18.38 EUR (original: 99.95 EUR) en el siguiente enlace!

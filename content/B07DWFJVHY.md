@@ -10,8 +10,11 @@ author: ring
 slug: B07DWFJVHY
 description:
 actualPrice: 28.35 EUR
+currency: EUR
+price: 28.35
 comparePrice: 45 EUR
 inStock: true
+prodname: FIND Contrast Panel Zapatos de Cordones Derby  Marrón Brown  47 EU
 ---
 
 Tienes [FIND Contrast Panel Zapatos de Cordones Derby  Marrón Brown  47 EU](https://www.amazon.es/dp/B07DWFJVHY/?tag=tolees-21) con un 37.00 % de descuento con precio de oferta de 28.35 EUR (original: 45 EUR) en el siguiente enlace!

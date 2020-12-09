@@ -10,8 +10,11 @@ author: ring
 slug: B07KPRTGGB
 description:
 actualPrice: 16.62 EUR
+currency: EUR
+price: 16.62
 comparePrice: 82 EUR
 inStock: true
+prodname: Lili Gaufrette Gn30052 302 Dress  Vestido para Niñas  Rosa  Blush   5 años  Talla del Fabricante: 5A 
 ---
 
 Tienes [Lili Gaufrette Gn30052 302 Dress  Vestido para Niñas  Rosa  Blush   5 años  Talla del Fabricante: 5A ](https://www.amazon.es/dp/B07KPRTGGB/?tag=tolees-21) con un 79.73 % de descuento con precio de oferta de 16.62 EUR (original: 82 EUR) en el siguiente enlace!

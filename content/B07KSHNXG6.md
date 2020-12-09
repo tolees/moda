@@ -10,8 +10,11 @@ author: ring
 slug: B07KSHNXG6
 description:
 actualPrice: 29.44 EUR
+currency: EUR
+price: 29.44
 comparePrice: 139 EUR
 inStock: true
+prodname: REPLAY Karyna Vaqueros Slim  Verde  Sage Green 130   W31/L28  Talla del Fabricante: 31  para Mujer
 ---
 
 Está [REPLAY Karyna Vaqueros Slim  Verde  Sage Green 130   W31/L28  Talla del Fabricante: 31  para Mujer](https://www.amazon.es/dp/B07KSHNXG6/?tag=tolees-21) con 78.82 de descuento por 29.44 EUR (original: 139 EUR) en el siguiente enlace!

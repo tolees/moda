@@ -10,8 +10,11 @@ author: ring
 slug: B07HH5GPCL
 description:
 actualPrice: 36.45 EUR
+currency: EUR
+price: 36.45
 comparePrice: 75 EUR
 inStock: true
+prodname: Tommy Jeans Hombre Dobby  Camisa Manga Larga Normal Blanco  Classic White 100  Large
 ---
 
 Está [Tommy Jeans Hombre Dobby  Camisa Manga Larga Normal Blanco  Classic White 100  Large](https://www.amazon.es/dp/B07HH5GPCL/?tag=tolees-21) con 51.40 de descuento por 36.45 EUR (original: 75 EUR) en el siguiente enlace!

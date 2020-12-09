@@ -10,8 +10,11 @@ author: ring
 slug: B07CQQKCLT
 description:
 actualPrice: 78.57 EUR
+currency: EUR
+price: 78.57
 comparePrice: 145 EUR
 inStock: true
+prodname: Aigle Mooven Gore-Tex  Zapatos de Low Rise Senderismo para Hombre  Gris  Midgrey/Capri   39 EU
 ---
 
 Tienes [Aigle Mooven Gore-Tex  Zapatos de Low Rise Senderismo para Hombre  Gris  Midgrey/Capri   39 EU](https://www.amazon.es/dp/B07CQQKCLT/?tag=tolees-21) con un 45.81 % de descuento con precio de oferta de 78.57 EUR (original: 145 EUR) en el siguiente enlace!

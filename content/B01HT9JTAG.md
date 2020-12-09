@@ -10,8 +10,11 @@ author: ring
 slug: B01HT9JTAG
 description:
 actualPrice: 105.61 EUR
+currency: EUR
+price: 105.61
 comparePrice: 239.95 EUR
 inStock: true
+prodname: Columbia Chaqueta High Pass Gris Oscuro XL
 ---
 
 Ahora mismo tienes [Columbia Chaqueta High Pass Gris Oscuro XL](https://www.amazon.es/dp/B01HT9JTAG/?tag=tolees-21) a 105.61 EUR (original: 239.95 EUR) (55.99 %  de descuento) en el siguiente enlace!

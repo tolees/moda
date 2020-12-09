@@ -10,8 +10,11 @@ author: ring
 slug: B075RGBHY1
 description:
 actualPrice: 7.98 EUR
+currency: EUR
+price: 7.98
 comparePrice: 27 EUR
 inStock: true
+prodname: Double Agent 87229  Camiseta para Mujer   Gris Malva     Tamaño del Fabricante:S 
 ---
 
 Ahora mismo tienes [Double Agent 87229  Camiseta para Mujer   Gris Malva     Tamaño del Fabricante:S ](https://www.amazon.es/dp/B075RGBHY1/?tag=tolees-21) a 7.98 EUR (original: 27 EUR) (70.44 %  de descuento) en el siguiente enlace!

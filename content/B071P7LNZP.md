@@ -10,8 +10,11 @@ author: ring
 slug: B071P7LNZP
 description:
 actualPrice: 54.71 EUR
+currency: EUR
+price: 54.71
 comparePrice: 95 EUR
 inStock: true
+prodname: Guess FMALX3LEA09  Zapatos Derby Hombre  Marrón  Dbrow   43 EU
 ---
 
 Está [Guess FMALX3LEA09  Zapatos Derby Hombre  Marrón  Dbrow   43 EU](https://www.amazon.es/dp/B071P7LNZP/?tag=tolees-21) con 42.41 de descuento por 54.71 EUR (original: 95 EUR) en el siguiente enlace!

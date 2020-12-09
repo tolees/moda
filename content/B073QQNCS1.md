@@ -10,8 +10,11 @@ author: ring
 slug: B073QQNCS1
 description:
 actualPrice: 15.87 EUR
+currency: EUR
+price: 15.87
 comparePrice: 30 EUR
 inStock: true
+prodname: FIND Jersey con Cuello de Pico para Hombre  Naranja  Furnace   Small
 ---
 
 Está [FIND Jersey con Cuello de Pico para Hombre  Naranja  Furnace   Small](https://www.amazon.es/dp/B073QQNCS1/?tag=tolees-21) con 47.10 de descuento por 15.87 EUR (original: 30 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B003AQCMH0
 description:
 actualPrice: 45.45 EUR
+currency: EUR
+price: 45.45
 comparePrice: 80 EUR
 inStock: true
+prodname: Birkenstock Milano  Sandalias con Correa de Tobillo Unisex  Marrn  42 EU
 ---
 
 Tienes [Birkenstock Milano  Sandalias con Correa de Tobillo Unisex  Marrn  42 EU](https://www.amazon.es/dp/B003AQCMH0/?tag=tolees-21) con un 43.19 % de descuento con precio de oferta de 45.45 EUR (original: 80 EUR) en el siguiente enlace!

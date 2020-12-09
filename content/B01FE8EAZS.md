@@ -10,8 +10,11 @@ author: ring
 slug: B01FE8EAZS
 description:
 actualPrice: 19.99 EUR
+currency: EUR
+price: 19.99
 comparePrice: 30.0 EUR
 inStock: true
+prodname: J.Vénus Para Mujer Joyas  Collar de Plata con Colgante de Plata de ley 925 Zirconia 45cm / Collar  Joyería con el Caso  eterno amor - Azul 
 ---
 
 Tienes [J.Vénus Para Mujer Joyas  Collar de Plata con Colgante de Plata de ley 925 Zirconia 45cm / Collar  Joyería con el Caso  eterno amor - Azul ](https://www.amazon.es/dp/B01FE8EAZS/?tag=tolees-21) con un 33.37 % de descuento con precio de oferta de 19.99 EUR (original: 30.0 EUR) en el siguiente enlace!

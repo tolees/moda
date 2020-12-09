@@ -10,8 +10,11 @@ author: ring
 slug: B07DK4DPM8
 description:
 actualPrice: 27.5 EUR
+currency: EUR
+price: 27.5
 comparePrice: 59.9 EUR
 inStock: true
+prodname: Geox J SPACECLUB Girl C  Zapatillas para Niñas   Grey/Silver C0570   29 EU
 ---
 
 Está [Geox J SPACECLUB Girl C  Zapatillas para Niñas   Grey/Silver C0570   29 EU](https://www.amazon.es/dp/B07DK4DPM8/?tag=tolees-21) con 54.09 de descuento por 27.5 EUR (original: 59.9 EUR) en el siguiente enlace!

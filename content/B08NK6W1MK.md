@@ -10,8 +10,11 @@ author: ring
 slug: B08NK6W1MK
 description:
 actualPrice: 11.99 EUR
+currency: EUR
+price: 11.99
 comparePrice: 27.47 EUR
 inStock: true
+prodname: MGCG Vestidos elásticos de Manga Larga con Cuello Redondo y Estampado navideño con Copo de Nieve para Mujer Mini Vestido Delgado Vestido Casual Sexy
 ---
 
 Ahora mismo tienes [MGCG Vestidos elásticos de Manga Larga con Cuello Redondo y Estampado navideño con Copo de Nieve para Mujer Mini Vestido Delgado Vestido Casual Sexy](https://www.amazon.es/dp/B08NK6W1MK/?tag=tolees-21) a 11.99 EUR (original: 27.47 EUR) (56.35 %  de descuento) en el siguiente enlace!

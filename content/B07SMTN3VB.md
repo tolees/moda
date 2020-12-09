@@ -10,8 +10,11 @@ author: ring
 slug: B07SMTN3VB
 description:
 actualPrice: 13.43 EUR
+currency: EUR
+price: 13.43
 comparePrice: 30.0 EUR
 inStock: true
+prodname: Burton Durable Goods Camiseta  Hombre  True Black  XS
 ---
 
 Está [Burton Durable Goods Camiseta  Hombre  True Black  XS](https://www.amazon.es/dp/B07SMTN3VB/?tag=tolees-21) con 55.23 de descuento por 13.43 EUR (original: 30.0 EUR) en el siguiente enlace!

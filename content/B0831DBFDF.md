@@ -10,8 +10,11 @@ author: ring
 slug: B0831DBFDF
 description:
 actualPrice: 4.59 EUR
+currency: EUR
+price: 4.59
 comparePrice: 10.39 EUR
 inStock: true
+prodname: Moda Mujer Casual Encaje Sexy Lunares O Cuello Dulce Volante Camiseta Manga Larga Tops Blusa Luckycat  2-Rosado  Pequeña 
 ---
 
 Está [Moda Mujer Casual Encaje Sexy Lunares O Cuello Dulce Volante Camiseta Manga Larga Tops Blusa Luckycat  2-Rosado  Pequeña ](https://www.amazon.es/dp/B0831DBFDF/?tag=tolees-21) con 55.82 de descuento por 4.59 EUR (original: 10.39 EUR) en el siguiente enlace!

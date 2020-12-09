@@ -10,8 +10,11 @@ author: ring
 slug: B07CMJHGBZ
 description:
 actualPrice: 9.99 EUR
+currency: EUR
+price: 9.99
 comparePrice: 21.99 EUR
 inStock: true
+prodname: JIM HALO Gafas de Sol de Espejo Plano Oversized Diseñador Cuadrado Tintado Anteojos Mujer Rojo/Verde 
 ---
 
 Ahora mismo tienes [JIM HALO Gafas de Sol de Espejo Plano Oversized Diseñador Cuadrado Tintado Anteojos Mujer Rojo/Verde ](https://www.amazon.es/dp/B07CMJHGBZ/?tag=tolees-21) a 9.99 EUR (original: 21.99 EUR) (54.57 %  de descuento) en el siguiente enlace!

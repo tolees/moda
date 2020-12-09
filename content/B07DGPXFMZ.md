@@ -10,8 +10,11 @@ author: ring
 slug: B07DGPXFMZ
 description:
 actualPrice: 15.48 EUR
+currency: EUR
+price: 15.48
 comparePrice: 26 EUR
 inStock: true
+prodname: Under Armour UA Tech Graphic Short Pantalón Corto  Hombre  Rojo  Dark Maroon/Radio Red 600   M
 ---
 
 Ahora mismo tienes [Under Armour UA Tech Graphic Short Pantalón Corto  Hombre  Rojo  Dark Maroon/Radio Red 600   M](https://www.amazon.es/dp/B07DGPXFMZ/?tag=tolees-21) a 15.48 EUR (original: 26 EUR) (40.46 %  de descuento) en el siguiente enlace!

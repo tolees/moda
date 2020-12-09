@@ -10,8 +10,11 @@ author: ring
 slug: B07H65TJYM
 description:
 actualPrice: 25.2 EUR
+currency: EUR
+price: 25.2
 comparePrice: 39.95 EUR
 inStock: true
+prodname: Skechers Vinyasa-Glass Star  Sandalias de Punta Descubierta para Mujer  Beige  Taupe TPE   37 EU
 ---
 
 Está [Skechers Vinyasa-Glass Star  Sandalias de Punta Descubierta para Mujer  Beige  Taupe TPE   37 EU](https://www.amazon.es/dp/B07H65TJYM/?tag=tolees-21) con 36.92 de descuento por 25.2 EUR (original: 39.95 EUR) en el siguiente enlace!

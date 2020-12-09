@@ -10,8 +10,11 @@ author: ring
 slug: B07JQCKFD3
 description:
 actualPrice: 4.78 EUR
+currency: EUR
+price: 4.78
 comparePrice: 12.99 EUR
 inStock: true
+prodname: JACK & JONES Jorsummertime Small tee SS Crew Neck  Camiseta Hombre  Verde  Green Bay Fit: Slim 
 ---
 
 Ahora mismo tienes [JACK & JONES Jorsummertime Small tee SS Crew Neck  Camiseta Hombre  Verde  Green Bay Fit: Slim ](https://www.amazon.es/dp/B07JQCKFD3/?tag=tolees-21) a 4.78 EUR (original: 12.99 EUR) (63.20 %  de descuento) en el siguiente enlace!

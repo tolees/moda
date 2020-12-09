@@ -10,8 +10,11 @@ author: ring
 slug: B07DVTY7CC
 description:
 actualPrice: 16.45 EUR
+currency: EUR
+price: 16.45
 comparePrice: 37 EUR
 inStock: true
+prodname: Volcom Pen BSC LS Camiseta  Hombre  Negro  Dark Kelly   XL
 ---
 
 Ahora mismo tienes [Volcom Pen BSC LS Camiseta  Hombre  Negro  Dark Kelly   XL](https://www.amazon.es/dp/B07DVTY7CC/?tag=tolees-21) a 16.45 EUR (original: 37 EUR) (55.54 %  de descuento) en el siguiente enlace!

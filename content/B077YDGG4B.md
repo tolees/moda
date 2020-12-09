@@ -10,8 +10,11 @@ author: ring
 slug: B077YDGG4B
 description:
 actualPrice: 27.57 EUR
+currency: EUR
+price: 27.57
 comparePrice: 45.95 EUR
 inStock: true
+prodname: HIKARO Chaleco de Plumas con Capucha Hombre  Azul  Navy   56  Talla del fabricante: XX-Large 
 ---
 
 Tienes [HIKARO Chaleco de Plumas con Capucha Hombre  Azul  Navy   56  Talla del fabricante: XX-Large ](https://www.amazon.es/dp/B077YDGG4B/?tag=tolees-21) con un 40.00 % de descuento con precio de oferta de 27.57 EUR (original: 45.95 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07CKCMVBN
 description:
 actualPrice: 12.55 EUR
+currency: EUR
+price: 12.55
 comparePrice: 22.39 EUR
 inStock: true
+prodname: Inside 6sves21&  Vestido para Mujer  Negro  Black 1  X-Large
 ---
 
 Está [Inside 6sves21&  Vestido para Mujer  Negro  Black 1  X-Large](https://www.amazon.es/dp/B07CKCMVBN/?tag=tolees-21) con 43.95 de descuento por 12.55 EUR (original: 22.39 EUR) en el siguiente enlace!

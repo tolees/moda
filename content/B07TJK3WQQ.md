@@ -10,8 +10,11 @@ author: ring
 slug: B07TJK3WQQ
 description:
 actualPrice: 34.6 EUR
+currency: EUR
+price: 34.6
 comparePrice: 89.95 EUR
 inStock: true
+prodname: Clarks Kaylin Cara  Zapatos de Tacón Mujer  Rosa  Pink Pink   40 EU
 ---
 
 Tienes [Clarks Kaylin Cara  Zapatos de Tacón Mujer  Rosa  Pink Pink   40 EU](https://www.amazon.es/dp/B07TJK3WQQ/?tag=tolees-21) con un 61.53 % de descuento con precio de oferta de 34.6 EUR (original: 89.95 EUR) en el siguiente enlace!

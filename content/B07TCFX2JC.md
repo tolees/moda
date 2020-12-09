@@ -10,8 +10,11 @@ author: ring
 slug: B07TCFX2JC
 description:
 actualPrice: 13.99 EUR
+currency: EUR
+price: 13.99
 comparePrice: 29.99 EUR
 inStock: true
+prodname: OrgaWise Organizador Maleta Set de 8  Bolsa Organizador para Ropa  Zapatos y Cosméticos  Resistente al Agua y Duradero  Ofrece Una Caja de Cepillo de Dientes
 ---
 
 Ahora mismo tienes [OrgaWise Organizador Maleta Set de 8  Bolsa Organizador para Ropa  Zapatos y Cosméticos  Resistente al Agua y Duradero  Ofrece Una Caja de Cepillo de Dientes](https://www.amazon.es/dp/B07TCFX2JC/?tag=tolees-21) a 13.99 EUR (original: 29.99 EUR) (53.35 %  de descuento) en el siguiente enlace!

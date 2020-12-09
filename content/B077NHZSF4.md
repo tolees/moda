@@ -10,8 +10,11 @@ author: ring
 slug: B077NHZSF4
 description:
 actualPrice: 60 EUR
+currency: EUR
+price: 60
 comparePrice: 84 EUR
 inStock: true
+prodname: Lee Slim Rider Chaqueta Vaquera  Azul  Fresh Kiup   Small para Hombre
 ---
 
 Tienes [Lee Slim Rider Chaqueta Vaquera  Azul  Fresh Kiup   Small para Hombre](https://www.amazon.es/dp/B077NHZSF4/?tag=tolees-21) con un 28.57 % de descuento con precio de oferta de 60 EUR (original: 84 EUR) en el siguiente enlace!

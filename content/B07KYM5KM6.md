@@ -10,8 +10,11 @@ author: ring
 slug: B07KYM5KM6
 description:
 actualPrice: 9.99 EUR
+currency: EUR
+price: 9.99
 comparePrice: 22.99 EUR
 inStock: true
+prodname: Springfield 5DS Mao S.Jersey Jersey   Gama Azules 11   Large  Tamaño del Fabricante:L  para Hombre
 ---
 
 Ahora mismo tienes [Springfield 5DS Mao S.Jersey Jersey   Gama Azules 11   Large  Tamaño del Fabricante:L  para Hombre](https://www.amazon.es/dp/B07KYM5KM6/?tag=tolees-21) a 9.99 EUR (original: 22.99 EUR) (56.55 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07FHMPMNZ
 description:
 actualPrice: 21.79 EUR
+currency: EUR
+price: 21.79
 comparePrice: 60.73 EUR
 inStock: true
+prodname: Marca Amazon - find. Chaqueta Efecto Piel con Capucha para Hombre  Beige  Camel Camel   M  Label: M
 ---
 
 Está [Marca Amazon - find. Chaqueta Efecto Piel con Capucha para Hombre  Beige  Camel Camel   M  Label: M](https://www.amazon.es/dp/B07FHMPMNZ/?tag=tolees-21) con 64.12 de descuento por 21.79 EUR (original: 60.73 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B01FXQVIQK
 description:
 actualPrice: 15.59 EUR
+currency: EUR
+price: 15.59
 comparePrice: 30 EUR
 inStock: true
+prodname: Under Armour Performance Polo Camiseta de Manga Corta  Niños  Gris  025   S
 ---
 
 Ahora mismo tienes [Under Armour Performance Polo Camiseta de Manga Corta  Niños  Gris  025   S](https://www.amazon.es/dp/B01FXQVIQK/?tag=tolees-21) a 15.59 EUR (original: 30 EUR) (48.03 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B0725QKXXS
 description:
 actualPrice: 48.99 EUR
+currency: EUR
+price: 48.99
 comparePrice: 75.99 EUR
 inStock: true
+prodname: Ever-Pretty Vestido de Fiesta Manga Elegantes Coctel Fiesta Noche para Mujer 50 Azul Marino
 ---
 
 Ahora mismo tienes [Ever-Pretty Vestido de Fiesta Manga Elegantes Coctel Fiesta Noche para Mujer 50 Azul Marino](https://www.amazon.es/dp/B0725QKXXS/?tag=tolees-21) a 48.99 EUR (original: 75.99 EUR) (35.53 %  de descuento) en el siguiente enlace!

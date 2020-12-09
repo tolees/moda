@@ -10,8 +10,11 @@ author: ring
 slug: B00BLBUBCY
 description:
 actualPrice: 13.56 EUR
+currency: EUR
+price: 13.56
 comparePrice: 20.95 EUR
 inStock: true
+prodname: arena Hydrofit Man Hook Zapatos de Playa y Piscina  Hombre  Negro Black 056  43 EU
 ---
 
 Está [arena Hydrofit Man Hook Zapatos de Playa y Piscina  Hombre  Negro Black 056  43 EU](https://www.amazon.es/dp/B00BLBUBCY/?tag=tolees-21) con 35.27 de descuento por 13.56 EUR (original: 20.95 EUR) en el siguiente enlace!

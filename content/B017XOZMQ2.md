@@ -10,8 +10,11 @@ author: ring
 slug: B017XOZMQ2
 description:
 actualPrice: 151.25 EUR
+currency: EUR
+price: 151.25
 comparePrice: 260 EUR
 inStock: true
+prodname: Helly Hansen Salt Power Chaqueta  Hombre  Black  S
 ---
 
 Está [Helly Hansen Salt Power Chaqueta  Hombre  Black  S](https://www.amazon.es/dp/B017XOZMQ2/?tag=tolees-21) con 41.83 de descuento por 151.25 EUR (original: 260 EUR) en el siguiente enlace!

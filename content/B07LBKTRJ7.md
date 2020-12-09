@@ -10,8 +10,11 @@ author: ring
 slug: B07LBKTRJ7
 description:
 actualPrice: 24 EUR
+currency: EUR
+price: 24
 comparePrice: 35 EUR
 inStock: true
+prodname: Tommy Jeans TJW Easy Pocket tee Camiseta  Blanco  Classic White 100   L para Mujer
 ---
 
 Está [Tommy Jeans TJW Easy Pocket tee Camiseta  Blanco  Classic White 100   L para Mujer](https://www.amazon.es/dp/B07LBKTRJ7/?tag=tolees-21) con 31.43 de descuento por 24 EUR (original: 35 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B0014BYHGC
 description:
 actualPrice: 23.03 EUR
+currency: EUR
+price: 23.03
 comparePrice: 31.99 EUR
 inStock: true
+prodname: Crocs Classic Clog  Zuecos Unisex Adulto  Negro  Black 001   42/43 EU
 ---
 
 Tienes [Crocs Classic Clog  Zuecos Unisex Adulto  Negro  Black 001   42/43 EU](https://www.amazon.es/dp/B0014BYHGC/?tag=tolees-21) con un 28.01 % de descuento con precio de oferta de 23.03 EUR (original: 31.99 EUR) en el siguiente enlace!

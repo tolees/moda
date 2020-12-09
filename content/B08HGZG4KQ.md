@@ -10,8 +10,11 @@ author: ring
 slug: B08HGZG4KQ
 description:
 actualPrice: 34.44 EUR
+currency: EUR
+price: 34.44
 comparePrice: 61.35 EUR
 inStock: true
+prodname: Vohoney Falda para árbol de Navidad  redonda  122 cm  color dorado
 ---
 
 Ahora mismo tienes [Vohoney Falda para árbol de Navidad  redonda  122 cm  color dorado](https://www.amazon.es/dp/B08HGZG4KQ/?tag=tolees-21) a 34.44 EUR (original: 61.35 EUR) (43.86 %  de descuento) en el siguiente enlace!

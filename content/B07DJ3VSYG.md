@@ -10,8 +10,11 @@ author: ring
 slug: B07DJ3VSYG
 description:
 actualPrice: 39.95 EUR
+currency: EUR
+price: 39.95
 comparePrice: 79.9 EUR
 inStock: true
+prodname: Geox D Annytah a  Bailarinas para Mujer  Silver/White C0434  38 EU
 ---
 
 Tienes [Geox D Annytah a  Bailarinas para Mujer  Silver/White C0434  38 EU](https://www.amazon.es/dp/B07DJ3VSYG/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 39.95 EUR (original: 79.9 EUR) en el siguiente enlace!

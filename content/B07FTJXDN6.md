@@ -10,8 +10,11 @@ author: ring
 slug: B07FTJXDN6
 description:
 actualPrice: 35.95 EUR
+currency: EUR
+price: 35.95
 comparePrice: 89.95 EUR
 inStock: true
+prodname: Lee Elly  Vaqueros Slim para Mujer  Marfil  Raw Off White Xq   W30/L33
 ---
 
 Está [Lee Elly  Vaqueros Slim para Mujer  Marfil  Raw Off White Xq   W30/L33](https://www.amazon.es/dp/B07FTJXDN6/?tag=tolees-21) con 60.03 de descuento por 35.95 EUR (original: 89.95 EUR) en el siguiente enlace!

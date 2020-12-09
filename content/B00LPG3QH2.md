@@ -10,8 +10,11 @@ author: ring
 slug: B00LPG3QH2
 description:
 actualPrice: 36.03 EUR
+currency: EUR
+price: 36.03
 comparePrice: 94.95 EUR
 inStock: true
+prodname: Levi s 504 Regular Straight Fit  Vaqueros para Hombre  Azul  O8589 The Rich 425   W29/L34
 ---
 
 Ahora mismo tienes [Levi s 504 Regular Straight Fit  Vaqueros para Hombre  Azul  O8589 The Rich 425   W29/L34](https://www.amazon.es/dp/B00LPG3QH2/?tag=tolees-21) a 36.03 EUR (original: 94.95 EUR) (62.05 %  de descuento) en el siguiente enlace!

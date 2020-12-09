@@ -10,8 +10,11 @@ author: ring
 slug: B07FFSXP54
 description:
 actualPrice: 23.32 EUR
+currency: EUR
+price: 23.32
 comparePrice: 39.99 EUR
 inStock: true
+prodname: Jennyfer 00dida  Abrigo para Mujer  Negro  Black 60.0  Large
 ---
 
 Está [Jennyfer 00dida  Abrigo para Mujer  Negro  Black 60.0  Large](https://www.amazon.es/dp/B07FFSXP54/?tag=tolees-21) con 41.69 de descuento por 23.32 EUR (original: 39.99 EUR) en el siguiente enlace!

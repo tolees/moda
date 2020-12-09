@@ -10,8 +10,11 @@ author: ring
 slug: B01MZZIQWP
 description:
 actualPrice: 69.9 EUR
+currency: EUR
+price: 69.9
 comparePrice: 110 EUR
 inStock: true
+prodname: Levi s Trucker Jacket  Chaqueta Vaquera para Hombre  Azul  The Shell 0136   Medium
 ---
 
 Tienes [Levi s Trucker Jacket  Chaqueta Vaquera para Hombre  Azul  The Shell 0136   Medium](https://www.amazon.es/dp/B01MZZIQWP/?tag=tolees-21) con un 36.45 % de descuento con precio de oferta de 69.9 EUR (original: 110 EUR) en el siguiente enlace!

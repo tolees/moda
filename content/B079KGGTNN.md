@@ -10,8 +10,11 @@ author: ring
 slug: B079KGGTNN
 description:
 actualPrice: 34.95 EUR
+currency: EUR
+price: 34.95
 comparePrice: 79.95 EUR
 inStock: true
+prodname: Lee Daren Zip Fly Jeans Vaqueros Rectos  Azul  Light Blue Worn Vp   34W / 36L para Hombre
 ---
 
 Tienes [Lee Daren Zip Fly Jeans Vaqueros Rectos  Azul  Light Blue Worn Vp   34W / 36L para Hombre](https://www.amazon.es/dp/B079KGGTNN/?tag=tolees-21) con un 56.29 % de descuento con precio de oferta de 34.95 EUR (original: 79.95 EUR) en el siguiente enlace!

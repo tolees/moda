@@ -10,8 +10,11 @@ author: ring
 slug: B07FH9YXVB
 description:
 actualPrice: 49.95 EUR
+currency: EUR
+price: 49.95
 comparePrice: 100 EUR
 inStock: true
+prodname: Levi s 514  Vaqueros Straight para Hombre  Azul  Jazz D T2 1071   W30/L32
 ---
 
 Ahora mismo tienes [Levi s 514  Vaqueros Straight para Hombre  Azul  Jazz D T2 1071   W30/L32](https://www.amazon.es/dp/B07FH9YXVB/?tag=tolees-21) a 49.95 EUR (original: 100 EUR) (50.05 %  de descuento) en el siguiente enlace!

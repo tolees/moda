@@ -10,8 +10,11 @@ author: ring
 slug: B07F34CYPS
 description:
 actualPrice: 13.95 EUR
+currency: EUR
+price: 13.95
 comparePrice: 20 EUR
 inStock: true
+prodname: Vans Left Chest Logo tee  Camiseta para Hombre  Rojo  Jazzy-White Tide  Medium
 ---
 
 Ahora mismo tienes [Vans Left Chest Logo tee  Camiseta para Hombre  Rojo  Jazzy-White Tide  Medium](https://www.amazon.es/dp/B07F34CYPS/?tag=tolees-21) a 13.95 EUR (original: 20 EUR) (30.25 %  de descuento) en el siguiente enlace!

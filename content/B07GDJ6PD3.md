@@ -10,8 +10,11 @@ author: ring
 slug: B07GDJ6PD3
 description:
 actualPrice: 15.95 EUR
+currency: EUR
+price: 15.95
 comparePrice: 25 EUR
 inStock: true
+prodname: Levi s Graphic Set-in Neck  Camiseta para Hombre  Azul  Ssnl Boxtab Norse Blue 0522   XL
 ---
 
 Tienes [Levi s Graphic Set-in Neck  Camiseta para Hombre  Azul  Ssnl Boxtab Norse Blue 0522   XL](https://www.amazon.es/dp/B07GDJ6PD3/?tag=tolees-21) con un 36.20 % de descuento con precio de oferta de 15.95 EUR (original: 25 EUR) en el siguiente enlace!

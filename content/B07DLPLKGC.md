@@ -10,8 +10,11 @@ author: ring
 slug: B07DLPLKGC
 description:
 actualPrice: 34.71 EUR
+currency: EUR
+price: 34.71
 comparePrice: 69.99 EUR
 inStock: true
+prodname: Springfield 9.G.I.MD.Plumas Tecnico  Chaqueta para Mujer   Gama Azules 17   X-Large  Tamaño del Fabricante:XL 
 ---
 
 Tienes [Springfield 9.G.I.MD.Plumas Tecnico  Chaqueta para Mujer   Gama Azules 17   X-Large  Tamaño del Fabricante:XL ](https://www.amazon.es/dp/B07DLPLKGC/?tag=tolees-21) con un 50.41 % de descuento con precio de oferta de 34.71 EUR (original: 69.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B01J9SWCOU
 description:
 actualPrice: 37.33 EUR
+currency: EUR
+price: 37.33
 comparePrice: 221.58 EUR
 inStock: true
+prodname: HÄRVIST  Helsinki - Abrigo de manga larga para hombre  color kaki  talla L
 ---
 
 Ahora mismo tienes [HÄRVIST  Helsinki - Abrigo de manga larga para hombre  color kaki  talla L](https://www.amazon.es/dp/B01J9SWCOU/?tag=tolees-21) a 37.33 EUR (original: 221.58 EUR) (83.15 %  de descuento) en el siguiente enlace!

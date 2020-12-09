@@ -10,8 +10,11 @@ author: ring
 slug: B07SQGNW6R
 description:
 actualPrice: 26.18 EUR
+currency: EUR
+price: 26.18
 comparePrice: 135.0 EUR
 inStock: true
+prodname: Geox U Regale A  Zapatillas Hombre  Gris  Lt Grey/White C1303   40 EU
 ---
 
 Ahora mismo tienes [Geox U Regale A  Zapatillas Hombre  Gris  Lt Grey/White C1303   40 EU](https://www.amazon.es/dp/B07SQGNW6R/?tag=tolees-21) a 26.18 EUR (original: 135.0 EUR) (80.61 %  de descuento) en el siguiente enlace!

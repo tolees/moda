@@ -10,8 +10,11 @@ author: ring
 slug: B07B4RH7MN
 description:
 actualPrice: 12.67 EUR
+currency: EUR
+price: 12.67
 comparePrice: 26.31 EUR
 inStock: true
+prodname: Reef Rover  Chanclas para Hombre  Negro  All Black ALB   S
 ---
 
 Tienes [Reef Rover  Chanclas para Hombre  Negro  All Black ALB   S](https://www.amazon.es/dp/B07B4RH7MN/?tag=tolees-21) con un 51.84 % de descuento con precio de oferta de 12.67 EUR (original: 26.31 EUR) en el siguiente enlace!

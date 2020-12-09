@@ -10,8 +10,11 @@ author: ring
 slug: B079C6KRTT
 description:
 actualPrice: 5.95 EUR
+currency: EUR
+price: 5.95
 comparePrice: 12.99 EUR
 inStock: true
+prodname: JACK & JONES Jjejeans Print tee SS Crew Neck Noos Camiseta  Blanco  White Detail: Slim Fit   Large para Hombre
 ---
 
 Ahora mismo tienes [JACK & JONES Jjejeans Print tee SS Crew Neck Noos Camiseta  Blanco  White Detail: Slim Fit   Large para Hombre](https://www.amazon.es/dp/B079C6KRTT/?tag=tolees-21) a 5.95 EUR (original: 12.99 EUR) (54.20 %  de descuento) en el siguiente enlace!

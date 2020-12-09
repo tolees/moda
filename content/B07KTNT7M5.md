@@ -10,8 +10,11 @@ author: ring
 slug: B07KTNT7M5
 description:
 actualPrice: 10.9 EUR
+currency: EUR
+price: 10.9
 comparePrice: 39.95 EUR
 inStock: true
+prodname: United Colors of Benetton Sweater W/Hood  Sudadera Deportiva para Hombre  Blanco  Bianco 101   única  Talla del Fabricante: EL 
 ---
 
 Tienes [United Colors of Benetton Sweater W/Hood  Sudadera Deportiva para Hombre  Blanco  Bianco 101   única  Talla del Fabricante: EL ](https://www.amazon.es/dp/B07KTNT7M5/?tag=tolees-21) con un 72.72 % de descuento con precio de oferta de 10.9 EUR (original: 39.95 EUR) en el siguiente enlace!

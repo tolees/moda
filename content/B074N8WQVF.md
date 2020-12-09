@@ -10,8 +10,11 @@ author: ring
 slug: B074N8WQVF
 description:
 actualPrice: 62.49 EUR
+currency: EUR
+price: 62.49
 comparePrice: 110 EUR
 inStock: true
+prodname: Clarks Batcombe Wing  Zapatos de Cordones Derby para Hombre  Marrón  Dark TanLea   41.5 EU
 ---
 
 Tienes [Clarks Batcombe Wing  Zapatos de Cordones Derby para Hombre  Marrón  Dark TanLea   41.5 EU](https://www.amazon.es/dp/B074N8WQVF/?tag=tolees-21) con un 43.19 % de descuento con precio de oferta de 62.49 EUR (original: 110 EUR) en el siguiente enlace!

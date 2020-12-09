@@ -10,8 +10,11 @@ author: ring
 slug: B079SGPBHM
 description:
 actualPrice: 44.95 EUR
+currency: EUR
+price: 44.95
 comparePrice: 89.95 EUR
 inStock: true
+prodname: Desigual Vest_Julianne  Vestido para Mujer   Verde Botella 4009   Medium
 ---
 
 Tienes [Desigual Vest_Julianne  Vestido para Mujer   Verde Botella 4009   Medium](https://www.amazon.es/dp/B079SGPBHM/?tag=tolees-21) con un 50.03 % de descuento con precio de oferta de 44.95 EUR (original: 89.95 EUR) en el siguiente enlace!

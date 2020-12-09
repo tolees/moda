@@ -10,8 +10,11 @@ author: ring
 slug: B01CSTENDU
 description:
 actualPrice: 4.45 EUR
+currency: EUR
+price: 4.45
 comparePrice: 14.05 EUR
 inStock: true
+prodname: Joma 900248.300 - Camiseta para Mujer  Color Azul Marino  Talla XL
 ---
 
 Ahora mismo tienes [Joma 900248.300 - Camiseta para Mujer  Color Azul Marino  Talla XL](https://www.amazon.es/dp/B01CSTENDU/?tag=tolees-21) a 4.45 EUR (original: 14.05 EUR) (68.33 %  de descuento) en el siguiente enlace!

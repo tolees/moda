@@ -10,8 +10,11 @@ author: ring
 slug: B07GWVTMK5
 description:
 actualPrice: 51 EUR
+currency: EUR
+price: 51
 comparePrice: 110 EUR
 inStock: true
+prodname: New Balance MS X90 TBH de la Zapatilla de deporte para hombres azul gris rojo  44 EU
 ---
 
 Está [New Balance MS X90 TBH de la Zapatilla de deporte para hombres azul gris rojo  44 EU](https://www.amazon.es/dp/B07GWVTMK5/?tag=tolees-21) con 53.64 de descuento por 51 EUR (original: 110 EUR) en el siguiente enlace!

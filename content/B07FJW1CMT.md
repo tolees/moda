@@ -10,8 +10,11 @@ author: ring
 slug: B07FJW1CMT
 description:
 actualPrice: 19.6 EUR
+currency: EUR
+price: 19.6
 comparePrice: 27.99 EUR
 inStock: true
+prodname: Ipanema Charm Vi Sand Fem  Sandalias con Tira Vertical para Mujer  Beige 8778  40 EU
 ---
 
 Está [Ipanema Charm Vi Sand Fem  Sandalias con Tira Vertical para Mujer  Beige 8778  40 EU](https://www.amazon.es/dp/B07FJW1CMT/?tag=tolees-21) con 29.97 de descuento por 19.6 EUR (original: 27.99 EUR) en el siguiente enlace!

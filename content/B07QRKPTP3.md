@@ -10,8 +10,11 @@ author: ring
 slug: B07QRKPTP3
 description:
 actualPrice: 25.39 EUR
+currency: EUR
+price: 25.39
 comparePrice: 39.9 EUR
 inStock: true
+prodname: Superdry Vintage Logo AOP Mid tee Camiseta de Tirantes  Blanco  Optic 01c   Medium para Hombre
 ---
 
 Está [Superdry Vintage Logo AOP Mid tee Camiseta de Tirantes  Blanco  Optic 01c   Medium para Hombre](https://www.amazon.es/dp/B07QRKPTP3/?tag=tolees-21) con 36.37 de descuento por 25.39 EUR (original: 39.9 EUR) en el siguiente enlace!

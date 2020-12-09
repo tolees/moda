@@ -10,8 +10,11 @@ author: ring
 slug: B00HEQZ6CU
 description:
 actualPrice: 104.95 EUR
+currency: EUR
+price: 104.95
 comparePrice: 210.0 EUR
 inStock: true
+prodname: Timberland 6 Inch Premium Waterproof  Botas Chukka Mujer  Negro Black Nubuck  41.5 EU
 ---
 
 Está [Timberland 6 Inch Premium Waterproof  Botas Chukka Mujer  Negro Black Nubuck  41.5 EU](https://www.amazon.es/dp/B00HEQZ6CU/?tag=tolees-21) con 50.02 de descuento por 104.95 EUR (original: 210.0 EUR) en el siguiente enlace!

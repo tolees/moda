@@ -10,8 +10,11 @@ author: ring
 slug: B07DVQ6F9N
 description:
 actualPrice: 85.99 EUR
+currency: EUR
+price: 85.99
 comparePrice: 140.0 EUR
 inStock: true
+prodname: Levi s Type 3 Chaqueta Vaquera  Azul  Stonebridge Sherpa Trucker 0070   Medium para Hombre
 ---
 
 Está [Levi s Type 3 Chaqueta Vaquera  Azul  Stonebridge Sherpa Trucker 0070   Medium para Hombre](https://www.amazon.es/dp/B07DVQ6F9N/?tag=tolees-21) con 38.58 de descuento por 85.99 EUR (original: 140.0 EUR) en el siguiente enlace!

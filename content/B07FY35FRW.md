@@ -10,8 +10,11 @@ author: ring
 slug: B07FY35FRW
 description:
 actualPrice: 14.05 EUR
+currency: EUR
+price: 14.05
 comparePrice: 79.99 EUR
 inStock: true
+prodname: SELECTED FEMME Slfenva LS Knit Cardigan BF  Chaqueta Punto Mujer  Lapis Stripes  44  Talla del Fabricante: X-Large 
 ---
 
 Está [SELECTED FEMME Slfenva LS Knit Cardigan BF  Chaqueta Punto Mujer  Lapis Stripes  44  Talla del Fabricante: X-Large ](https://www.amazon.es/dp/B07FY35FRW/?tag=tolees-21) con 82.44 de descuento por 14.05 EUR (original: 79.99 EUR) en el siguiente enlace!

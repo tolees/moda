@@ -10,8 +10,11 @@ author: ring
 slug: B07MGX8W6B
 description:
 actualPrice: 25.04 EUR
+currency: EUR
+price: 25.04
 comparePrice: 119.95 EUR
 inStock: true
+prodname: G-STAR RAW Lynn D-Mid Waist Super Skinny Vaqueros  Azul  medium aged restored 9136-5408   29W / 30L para Mujer
 ---
 
 Está [G-STAR RAW Lynn D-Mid Waist Super Skinny Vaqueros  Azul  medium aged restored 9136-5408   29W / 30L para Mujer](https://www.amazon.es/dp/B07MGX8W6B/?tag=tolees-21) con 79.12 de descuento por 25.04 EUR (original: 119.95 EUR) en el siguiente enlace!

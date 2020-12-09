@@ -10,8 +10,11 @@ author: ring
 slug: B07DLLLCG4
 description:
 actualPrice: 10.31 EUR
+currency: EUR
+price: 10.31
 comparePrice: 29.99 EUR
 inStock: true
+prodname: Springfield 4.2.J.Ap.T.Criss Cross Jersey   Gama Azules 19   Small  Tamaño del Fabricante:S  para Mujer
 ---
 
 Tienes [Springfield 4.2.J.Ap.T.Criss Cross Jersey   Gama Azules 19   Small  Tamaño del Fabricante:S  para Mujer](https://www.amazon.es/dp/B07DLLLCG4/?tag=tolees-21) con un 65.62 % de descuento con precio de oferta de 10.31 EUR (original: 29.99 EUR) en el siguiente enlace!

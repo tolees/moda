@@ -10,8 +10,11 @@ author: ring
 slug: B07DK3PTFS
 description:
 actualPrice: 24.95 EUR
+currency: EUR
+price: 24.95
 comparePrice: 55 EUR
 inStock: true
+prodname: Geox Jr Sandal Kyle B  Sandalias Punta Cerrada para Niños  Azul  Royal/Navy C4227   31 EU
 ---
 
 Está [Geox Jr Sandal Kyle B  Sandalias Punta Cerrada para Niños  Azul  Royal/Navy C4227   31 EU](https://www.amazon.es/dp/B07DK3PTFS/?tag=tolees-21) con 54.64 de descuento por 24.95 EUR (original: 55 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07GYTMGD8
 description:
 actualPrice: 16.99 EUR
+currency: EUR
+price: 16.99
 comparePrice: 99.99 EUR
 inStock: true
+prodname: LOVORDS Collar Mujer Grabado Plata de Ley 925 Colgante Corazón Mamá Hijos Perla Cultivada Blanca de Agua Dulce 6mm Regalo Madre
 ---
 
 Tienes [LOVORDS Collar Mujer Grabado Plata de Ley 925 Colgante Corazón Mamá Hijos Perla Cultivada Blanca de Agua Dulce 6mm Regalo Madre](https://www.amazon.es/dp/B07GYTMGD8/?tag=tolees-21) con un 83.01 % de descuento con precio de oferta de 16.99 EUR (original: 99.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07VFL3VPT
 description:
 actualPrice: 43.95 EUR
+currency: EUR
+price: 43.95
 comparePrice: 79.95 EUR
 inStock: true
+prodname: HUGO Dantastic Camiseta  Negro  Black 1   Large para Hombre
 ---
 
 Está [HUGO Dantastic Camiseta  Negro  Black 1   Large para Hombre](https://www.amazon.es/dp/B07VFL3VPT/?tag=tolees-21) con 45.03 de descuento por 43.95 EUR (original: 79.95 EUR) en el siguiente enlace!

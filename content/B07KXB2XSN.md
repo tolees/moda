@@ -10,8 +10,11 @@ author: ring
 slug: B07KXB2XSN
 description:
 actualPrice: 112.14 EUR
+currency: EUR
+price: 112.14
 comparePrice: 198 EUR
 inStock: true
+prodname: Love Moschino Multicolored Flowers & Ants Longsleeve Sweater Sudadera  Gris  Mel.Light Gray A688   42  Talla del Fabricante: 44  para Mujer
 ---
 
 Está [Love Moschino Multicolored Flowers & Ants Longsleeve Sweater Sudadera  Gris  Mel.Light Gray A688   42  Talla del Fabricante: 44  para Mujer](https://www.amazon.es/dp/B07KXB2XSN/?tag=tolees-21) con 43.36 de descuento por 112.14 EUR (original: 198 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07ZVQF2W5
 description:
 actualPrice: 32.19 EUR
+currency: EUR
+price: 32.19
 comparePrice: 75.0 EUR
 inStock: true
+prodname: Levi s Graphic PO Hoodie B Sudadera con Capucha  Hm Pop Co Black  S para Hombre
 ---
 
 Tienes [Levi s Graphic PO Hoodie B Sudadera con Capucha  Hm Pop Co Black  S para Hombre](https://www.amazon.es/dp/B07ZVQF2W5/?tag=tolees-21) con un 57.08 % de descuento con precio de oferta de 32.19 EUR (original: 75.0 EUR) en el siguiente enlace!

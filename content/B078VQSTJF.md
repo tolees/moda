@@ -10,8 +10,11 @@ author: ring
 slug: B078VQSTJF
 description:
 actualPrice: 30.17 EUR
+currency: EUR
+price: 30.17
 comparePrice: 60 EUR
 inStock: true
+prodname: Volcom Imprint Crew Sudadera  Hombre  Azul Oscuro  M
 ---
 
 Está [Volcom Imprint Crew Sudadera  Hombre  Azul Oscuro  M](https://www.amazon.es/dp/B078VQSTJF/?tag=tolees-21) con 49.72 de descuento por 30.17 EUR (original: 60 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B0719MYGRB
 description:
 actualPrice: 17.29 EUR
+currency: EUR
+price: 17.29
 comparePrice: 49.99 EUR
 inStock: true
+prodname: Vila Clothes Vimust Short Parka Jacket TB Chaqueta  Verde  Ivy Green   Medium para Mujer
 ---
 
 Está [Vila Clothes Vimust Short Parka Jacket TB Chaqueta  Verde  Ivy Green   Medium para Mujer](https://www.amazon.es/dp/B0719MYGRB/?tag=tolees-21) con 65.41 de descuento por 17.29 EUR (original: 49.99 EUR) en el siguiente enlace!

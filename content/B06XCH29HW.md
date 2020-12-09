@@ -10,8 +10,11 @@ author: ring
 slug: B06XCH29HW
 description:
 actualPrice: 30.48 EUR
+currency: EUR
+price: 30.48
 comparePrice: 85.0 EUR
 inStock: true
+prodname: Pepe Jeans Kingston Zip Vaqueros regular  Azul  11Oz Streaky Stretch Dk Z45   28W/36L para Hombre
 ---
 
 Está [Pepe Jeans Kingston Zip Vaqueros regular  Azul  11Oz Streaky Stretch Dk Z45   28W/36L para Hombre](https://www.amazon.es/dp/B06XCH29HW/?tag=tolees-21) con 64.14 de descuento por 30.48 EUR (original: 85.0 EUR) en el siguiente enlace!

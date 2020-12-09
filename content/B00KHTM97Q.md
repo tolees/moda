@@ -10,8 +10,11 @@ author: ring
 slug: B00KHTM97Q
 description:
 actualPrice: 15.0 EUR
+currency: EUR
+price: 15.0
 comparePrice: 30.0 EUR
 inStock: true
+prodname: Under Armour UA Heatgear Short Sleeve Camiseta  Hombre  Gris  Carbon Heather/Black  090   M
 ---
 
 Ahora mismo tienes [Under Armour UA Heatgear Short Sleeve Camiseta  Hombre  Gris  Carbon Heather/Black  090   M](https://www.amazon.es/dp/B00KHTM97Q/?tag=tolees-21) a 15.0 EUR (original: 30.0 EUR) (50.00 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B00BCQM8I8
 description:
 actualPrice: 54.95 EUR
+currency: EUR
+price: 54.95
 comparePrice: 109.9 EUR
 inStock: true
+prodname: Geox D MARIEC.MID B - Plataforma de cuero mujer  Negro  Nero  Schwarz  BLACK C9999     37.5 EU  4.5 UK 
 ---
 
 Ahora mismo tienes [Geox D MARIEC.MID B - Plataforma de cuero mujer  Negro  Nero  Schwarz  BLACK C9999     37.5 EU  4.5 UK ](https://www.amazon.es/dp/B00BCQM8I8/?tag=tolees-21) a 54.95 EUR (original: 109.9 EUR) (50.00 %  de descuento) en el siguiente enlace!

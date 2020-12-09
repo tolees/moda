@@ -10,8 +10,11 @@ author: ring
 slug: B07C3TVDRV
 description:
 actualPrice: 23.39 EUR
+currency: EUR
+price: 23.39
 comparePrice: 120 EUR
 inStock: true
+prodname: Pepe Jeans Zinc Vaqueros  Azul  Wiser Wash Denim WW6   29W / 32L para Hombre
 ---
 
 Está [Pepe Jeans Zinc Vaqueros  Azul  Wiser Wash Denim WW6   29W / 32L para Hombre](https://www.amazon.es/dp/B07C3TVDRV/?tag=tolees-21) con 80.51 de descuento por 23.39 EUR (original: 120 EUR) en el siguiente enlace!

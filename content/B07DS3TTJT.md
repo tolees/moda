@@ -10,8 +10,11 @@ author: ring
 slug: B07DS3TTJT
 description:
 actualPrice: 20.79 EUR
+currency: EUR
+price: 20.79
 comparePrice: 32.58 EUR
 inStock: true
+prodname: Adidas W TR Co Tote Bolso Bandolera  25 cm  Tinmis/Carbon/Carbon
 ---
 
 Tienes [Adidas W TR Co Tote Bolso Bandolera  25 cm  Tinmis/Carbon/Carbon](https://www.amazon.es/dp/B07DS3TTJT/?tag=tolees-21) con un 36.19 % de descuento con precio de oferta de 20.79 EUR (original: 32.58 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07C5JYYSX
 description:
 actualPrice: 23.74 EUR
+currency: EUR
+price: 23.74
 comparePrice: 59 EUR
 inStock: true
+prodname: Diesel 00SH0I Camiseta  Hombre  Gris  912 912   Medium  Tamaño del Fabricante:M 
 ---
 
 Está [Diesel 00SH0I Camiseta  Hombre  Gris  912 912   Medium  Tamaño del Fabricante:M ](https://www.amazon.es/dp/B07C5JYYSX/?tag=tolees-21) con 59.76 de descuento por 23.74 EUR (original: 59 EUR) en el siguiente enlace!

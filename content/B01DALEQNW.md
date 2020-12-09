@@ -10,8 +10,11 @@ author: ring
 slug: B01DALEQNW
 description:
 actualPrice: 9.95 EUR
+currency: EUR
+price: 9.95
 comparePrice: 26.95 EUR
 inStock: true
+prodname: Izas Valira Camiseta de Manga Corta  Mujer  Blanco/Rojo  2XL
 ---
 
 Ahora mismo tienes [Izas Valira Camiseta de Manga Corta  Mujer  Blanco/Rojo  2XL](https://www.amazon.es/dp/B01DALEQNW/?tag=tolees-21) a 9.95 EUR (original: 26.95 EUR) (63.08 %  de descuento) en el siguiente enlace!

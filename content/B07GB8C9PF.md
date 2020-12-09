@@ -10,8 +10,11 @@ author: ring
 slug: B07GB8C9PF
 description:
 actualPrice: 20.79 EUR
+currency: EUR
+price: 20.79
 comparePrice: 29.99 EUR
 inStock: true
+prodname: Guantes Moto Invierno Impermeable Pantalla Táctil Guantes Protectores de Motociclismo Dedo Completo para Invierno
 ---
 
 Ahora mismo tienes [Guantes Moto Invierno Impermeable Pantalla Táctil Guantes Protectores de Motociclismo Dedo Completo para Invierno](https://www.amazon.es/dp/B07GB8C9PF/?tag=tolees-21) a 20.79 EUR (original: 29.99 EUR) (30.68 %  de descuento) en el siguiente enlace!

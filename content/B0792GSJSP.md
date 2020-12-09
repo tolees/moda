@@ -10,8 +10,11 @@ author: ring
 slug: B0792GSJSP
 description:
 actualPrice: 37.13 EUR
+currency: EUR
+price: 37.13
 comparePrice: 159.9 EUR
 inStock: true
+prodname: Geox D Vivyanne Mid C  Botines para Mujer   Black C9999   40 EU
 ---
 
 Ahora mismo tienes [Geox D Vivyanne Mid C  Botines para Mujer   Black C9999   40 EU](https://www.amazon.es/dp/B0792GSJSP/?tag=tolees-21) a 37.13 EUR (original: 159.9 EUR) (76.78 %  de descuento) en el siguiente enlace!

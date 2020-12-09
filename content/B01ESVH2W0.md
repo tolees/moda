@@ -10,8 +10,11 @@ author: ring
 slug: B01ESVH2W0
 description:
 actualPrice: 26.05 EUR
+currency: EUR
+price: 26.05
 comparePrice: 160 EUR
 inStock: true
+prodname: SHOE THE BEAR Asta  Botines para Mujer  Beige  Sand   37 EU
 ---
 
 Tienes [SHOE THE BEAR Asta  Botines para Mujer  Beige  Sand   37 EU](https://www.amazon.es/dp/B01ESVH2W0/?tag=tolees-21) con un 83.72 % de descuento con precio de oferta de 26.05 EUR (original: 160 EUR) en el siguiente enlace!

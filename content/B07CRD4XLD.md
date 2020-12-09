@@ -10,8 +10,11 @@ author: ring
 slug: B07CRD4XLD
 description:
 actualPrice: 13.85 EUR
+currency: EUR
+price: 13.85
 comparePrice: 29.9 EUR
 inStock: true
+prodname: Pepe Jeans West Sir Camiseta    Vert Woods 671   Large para Hombre
 ---
 
 Tienes [Pepe Jeans West Sir Camiseta    Vert Woods 671   Large para Hombre](https://www.amazon.es/dp/B07CRD4XLD/?tag=tolees-21) con un 53.68 % de descuento con precio de oferta de 13.85 EUR (original: 29.9 EUR) en el siguiente enlace!

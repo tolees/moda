@@ -10,8 +10,11 @@ author: ring
 slug: B0821SLVLC
 description:
 actualPrice: 29.6 EUR
+currency: EUR
+price: 29.6
 comparePrice: 65.0 EUR
 inStock: true
+prodname: Geox J Android Boy A  Zapatillas  Black/Yellow  30 EU
 ---
 
 Tienes [Geox J Android Boy A  Zapatillas  Black/Yellow  30 EU](https://www.amazon.es/dp/B0821SLVLC/?tag=tolees-21) con un 54.46 % de descuento con precio de oferta de 29.6 EUR (original: 65.0 EUR) en el siguiente enlace!

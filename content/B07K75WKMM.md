@@ -10,8 +10,11 @@ author: ring
 slug: B07K75WKMM
 description:
 actualPrice: 42.49 EUR
+currency: EUR
+price: 42.49
 comparePrice: 60.0 EUR
 inStock: true
+prodname: Levi s Graphic B Sudadera  Add Crew T2 Hm Midtone Heather Grey  S para Hombre
 ---
 
 Tienes [Levi s Graphic B Sudadera  Add Crew T2 Hm Midtone Heather Grey  S para Hombre](https://www.amazon.es/dp/B07K75WKMM/?tag=tolees-21) con un 29.18 % de descuento con precio de oferta de 42.49 EUR (original: 60.0 EUR) en el siguiente enlace!

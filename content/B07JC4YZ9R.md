@@ -10,8 +10,11 @@ author: ring
 slug: B07JC4YZ9R
 description:
 actualPrice: 55 EUR
+currency: EUR
+price: 55
 comparePrice: 110 EUR
 inStock: true
+prodname: Timberland Bradstreet Fabric/Leather  Zapatillas para Hombre  Marrón  Canteen Pz9   42 EU
 ---
 
 Tienes [Timberland Bradstreet Fabric/Leather  Zapatillas para Hombre  Marrón  Canteen Pz9   42 EU](https://www.amazon.es/dp/B07JC4YZ9R/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 55 EUR (original: 110 EUR) en el siguiente enlace!

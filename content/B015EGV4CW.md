@@ -10,8 +10,11 @@ author: ring
 slug: B015EGV4CW
 description:
 actualPrice: 104.42 EUR
+currency: EUR
+price: 104.42
 comparePrice: 204 EUR
 inStock: true
+prodname: Persol 0Po2422Sj 106156 49 Gafas de Sol  Dorado  Gold/Blue   Unisex-Adulto
 ---
 
 Está [Persol 0Po2422Sj 106156 49 Gafas de Sol  Dorado  Gold/Blue   Unisex-Adulto](https://www.amazon.es/dp/B015EGV4CW/?tag=tolees-21) con 48.81 de descuento por 104.42 EUR (original: 204 EUR) en el siguiente enlace!

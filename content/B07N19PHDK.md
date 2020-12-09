@@ -10,8 +10,11 @@ author: ring
 slug: B07N19PHDK
 description:
 actualPrice: 9.44 EUR
+currency: EUR
+price: 9.44
 comparePrice: 13.0 EUR
 inStock: true
+prodname: Lee Pencil Skirt  Falda para Mujer  Negro  Black Orrick Jn   36
 ---
 
 Tienes [Lee Pencil Skirt  Falda para Mujer  Negro  Black Orrick Jn   36](https://www.amazon.es/dp/B07N19PHDK/?tag=tolees-21) con un 27.38 % de descuento con precio de oferta de 9.44 EUR (original: 13.0 EUR) en el siguiente enlace!

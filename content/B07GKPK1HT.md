@@ -10,8 +10,11 @@ author: ring
 slug: B07GKPK1HT
 description:
 actualPrice: 49.77 EUR
+currency: EUR
+price: 49.77
 comparePrice: 100 EUR
 inStock: true
+prodname: Levi s Big and Tall 514 B&t Vaqueros Straight  Azul  Road Rinse 4-Waxy 0014   W50/L32 para Hombre
 ---
 
 Está [Levi s Big and Tall 514 B&t Vaqueros Straight  Azul  Road Rinse 4-Waxy 0014   W50/L32 para Hombre](https://www.amazon.es/dp/B07GKPK1HT/?tag=tolees-21) con 50.23 de descuento por 49.77 EUR (original: 100 EUR) en el siguiente enlace!

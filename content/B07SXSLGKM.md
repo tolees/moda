@@ -10,8 +10,11 @@ author: ring
 slug: B07SXSLGKM
 description:
 actualPrice: 44.95 EUR
+currency: EUR
+price: 44.95
 comparePrice: 89.9 EUR
 inStock: true
+prodname: Geox U WALEE A  Zapatillas Hombre  Azul  Navy C4002   43 EU
 ---
 
 Tienes [Geox U WALEE A  Zapatillas Hombre  Azul  Navy C4002   43 EU](https://www.amazon.es/dp/B07SXSLGKM/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 44.95 EUR (original: 89.9 EUR) en el siguiente enlace!

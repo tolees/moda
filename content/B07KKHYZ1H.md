@@ -10,8 +10,11 @@ author: ring
 slug: B07KKHYZ1H
 description:
 actualPrice: 16.44 EUR
+currency: EUR
+price: 16.44
 comparePrice: 35 EUR
 inStock: true
+prodname: Naf Naf Kenu42 Camiseta de Manga Larga  Negro  Noir 625   Large para Mujer
 ---
 
 Ahora mismo tienes [Naf Naf Kenu42 Camiseta de Manga Larga  Negro  Noir 625   Large para Mujer](https://www.amazon.es/dp/B07KKHYZ1H/?tag=tolees-21) a 16.44 EUR (original: 35 EUR) (53.03 %  de descuento) en el siguiente enlace!

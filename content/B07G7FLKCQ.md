@@ -10,8 +10,11 @@ author: ring
 slug: B07G7FLKCQ
 description:
 actualPrice: 26.69 EUR
+currency: EUR
+price: 26.69
 comparePrice: 37.81 EUR
 inStock: true
+prodname: Marca Amazon - MERAKI Jersey Cuello Cremallera Hombre  Negro  Black Black   M  Label: M
 ---
 
 Ahora mismo tienes [Marca Amazon - MERAKI Jersey Cuello Cremallera Hombre  Negro  Black Black   M  Label: M](https://www.amazon.es/dp/B07G7FLKCQ/?tag=tolees-21) a 26.69 EUR (original: 37.81 EUR) (29.41 %  de descuento) en el siguiente enlace!

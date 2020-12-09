@@ -10,8 +10,11 @@ author: ring
 slug: B07CFGYQP8
 description:
 actualPrice: 35.42 EUR
+currency: EUR
+price: 35.42
 comparePrice: 89.99 EUR
 inStock: true
+prodname: JACK & JONES Jjimike Jjicon Bl 785 Aw24 STS Vaqueros Relaxed  Azul Blue Denim  W38/L34 para Hombre
 ---
 
 Está [JACK & JONES Jjimike Jjicon Bl 785 Aw24 STS Vaqueros Relaxed  Azul Blue Denim  W38/L34 para Hombre](https://www.amazon.es/dp/B07CFGYQP8/?tag=tolees-21) con 60.64 de descuento por 35.42 EUR (original: 89.99 EUR) en el siguiente enlace!

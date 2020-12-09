@@ -10,8 +10,11 @@ author: ring
 slug: B07DHYWNX8
 description:
 actualPrice: 32.65 EUR
+currency: EUR
+price: 32.65
 comparePrice: 109.9 EUR
 inStock: true
+prodname: Geox U Calgary a  Zapatos Derby para Hombre  Negro  Black C9999   41 EU
 ---
 
 Ahora mismo tienes [Geox U Calgary a  Zapatos Derby para Hombre  Negro  Black C9999   41 EU](https://www.amazon.es/dp/B07DHYWNX8/?tag=tolees-21) a 32.65 EUR (original: 109.9 EUR) (70.29 %  de descuento) en el siguiente enlace!

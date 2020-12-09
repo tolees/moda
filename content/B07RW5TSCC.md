@@ -10,8 +10,11 @@ author: ring
 slug: B07RW5TSCC
 description:
 actualPrice: 8.66 EUR
+currency: EUR
+price: 8.66
 comparePrice: 14.99 EUR
 inStock: true
+prodname: JACK & JONES Jcobooster tee SS Crew Neck Camiseta  Azul  Maritime Blue Blau   Medium para Hombre
 ---
 
 Ahora mismo tienes [JACK & JONES Jcobooster tee SS Crew Neck Camiseta  Azul  Maritime Blue Blau   Medium para Hombre](https://www.amazon.es/dp/B07RW5TSCC/?tag=tolees-21) a 8.66 EUR (original: 14.99 EUR) (42.23 %  de descuento) en el siguiente enlace!

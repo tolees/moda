@@ -10,8 +10,11 @@ author: ring
 slug: B06XCYKJPJ
 description:
 actualPrice: 46.35 EUR
+currency: EUR
+price: 46.35
 comparePrice: 95 EUR
 inStock: true
+prodname: Pepe Jeans Saturn Pl201660 Vaqueros  Azul  10Oz Str 8Dip Royal Dk D45   25W / 30L para Mujer
 ---
 
 Tienes [Pepe Jeans Saturn Pl201660 Vaqueros  Azul  10Oz Str 8Dip Royal Dk D45   25W / 30L para Mujer](https://www.amazon.es/dp/B06XCYKJPJ/?tag=tolees-21) con un 51.21 % de descuento con precio de oferta de 46.35 EUR (original: 95 EUR) en el siguiente enlace!

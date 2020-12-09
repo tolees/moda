@@ -10,8 +10,11 @@ author: ring
 slug: B075JNS2CY
 description:
 actualPrice: 85.45 EUR
+currency: EUR
+price: 85.45
 comparePrice: 140.0 EUR
 inStock: true
+prodname: Timberland Bradstreet Leather Sensorflex   Botas Chukka Hombre  Marrón MD Brown Full Grain  39.5 EU
 ---
 
 Está [Timberland Bradstreet Leather Sensorflex   Botas Chukka Hombre  Marrón MD Brown Full Grain  39.5 EU](https://www.amazon.es/dp/B075JNS2CY/?tag=tolees-21) con 38.96 de descuento por 85.45 EUR (original: 140.0 EUR) en el siguiente enlace!

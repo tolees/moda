@@ -10,8 +10,11 @@ author: ring
 slug: B07DJ3VS5S
 description:
 actualPrice: 35.32 EUR
+currency: EUR
+price: 35.32
 comparePrice: 115 EUR
 inStock: true
+prodname: Geox D Theragon C  Zapatillas para Mujer  Blue/Navy C4294  41 EU
 ---
 
 Tienes [Geox D Theragon C  Zapatillas para Mujer  Blue/Navy C4294  41 EU](https://www.amazon.es/dp/B07DJ3VS5S/?tag=tolees-21) con un 69.29 % de descuento con precio de oferta de 35.32 EUR (original: 115 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07CRLF4F3
 description:
 actualPrice: 10.99 EUR
+currency: EUR
+price: 10.99
 comparePrice: 19.95 EUR
 inStock: true
+prodname: Puma Popcat  Zapatos de Playa y Piscina Unisex Adulto  Rosa  Winsome Orchid White 29   43 EU
 ---
 
 Está [Puma Popcat  Zapatos de Playa y Piscina Unisex Adulto  Rosa  Winsome Orchid White 29   43 EU](https://www.amazon.es/dp/B07CRLF4F3/?tag=tolees-21) con 44.91 de descuento por 10.99 EUR (original: 19.95 EUR) en el siguiente enlace!

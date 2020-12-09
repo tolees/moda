@@ -10,8 +10,11 @@ author: ring
 slug: B07DLHG7J8
 description:
 actualPrice: 6.52 EUR
+currency: EUR
+price: 6.52
 comparePrice: 25.99 EUR
 inStock: true
+prodname: Springfield 4Wo Long Sleeve Rugby Collar Sudadera  Hombre  Azul  Gama Azules 11   Small  Tamaño del Fabricante:S 
 ---
 
 Tienes [Springfield 4Wo Long Sleeve Rugby Collar Sudadera  Hombre  Azul  Gama Azules 11   Small  Tamaño del Fabricante:S ](https://www.amazon.es/dp/B07DLHG7J8/?tag=tolees-21) con un 74.91 % de descuento con precio de oferta de 6.52 EUR (original: 25.99 EUR) en el siguiente enlace!

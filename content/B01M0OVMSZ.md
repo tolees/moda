@@ -10,8 +10,11 @@ author: ring
 slug: B01M0OVMSZ
 description:
 actualPrice: 22.88 EUR
+currency: EUR
+price: 22.88
 comparePrice: 55 EUR
 inStock: true
+prodname: Samsonite Sideways Laptop Sleeve 15.6" Bolso Bandolera  8.9 litros  Color Azul/Naranja
 ---
 
 Ahora mismo tienes [Samsonite Sideways Laptop Sleeve 15.6" Bolso Bandolera  8.9 litros  Color Azul/Naranja](https://www.amazon.es/dp/B01M0OVMSZ/?tag=tolees-21) a 22.88 EUR (original: 55 EUR) (58.40 %  de descuento) en el siguiente enlace!

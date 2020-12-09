@@ -10,8 +10,11 @@ author: ring
 slug: B07JQ4QSRZ
 description:
 actualPrice: 9.03 EUR
+currency: EUR
+price: 9.03
 comparePrice: 39.99 EUR
 inStock: true
+prodname: Esprit Hombre 128ee2j001 Sudadera Not Applicable  Azul  Navy 400   Small
 ---
 
 Tienes [Esprit Hombre 128ee2j001 Sudadera Not Applicable  Azul  Navy 400   Small](https://www.amazon.es/dp/B07JQ4QSRZ/?tag=tolees-21) con un 77.42 % de descuento con precio de oferta de 9.03 EUR (original: 39.99 EUR) en el siguiente enlace!

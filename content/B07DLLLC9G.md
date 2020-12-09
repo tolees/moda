@@ -10,8 +10,11 @@ author: ring
 slug: B07DLLLC9G
 description:
 actualPrice: 15.84 EUR
+currency: EUR
+price: 15.84
 comparePrice: 49.99 EUR
 inStock: true
+prodname: Springfield 6.T.Ap.Abrigo Ligero Abrigo  Mujer  Azul  Azul Marino 10   40  Tamaño del Fabricante:40 
 ---
 
 Tienes [Springfield 6.T.Ap.Abrigo Ligero Abrigo  Mujer  Azul  Azul Marino 10   40  Tamaño del Fabricante:40 ](https://www.amazon.es/dp/B07DLLLC9G/?tag=tolees-21) con un 68.31 % de descuento con precio de oferta de 15.84 EUR (original: 49.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07DK5L7KN
 description:
 actualPrice: 21.95 EUR
+currency: EUR
+price: 21.95
 comparePrice: 59.9 EUR
 inStock: true
+prodname: Geox J Sandal Karly Girl D  Sandalias con Punta Abierta para Niñas  Pink  Rose C8011   39 EU
 ---
 
 Ahora mismo tienes [Geox J Sandal Karly Girl D  Sandalias con Punta Abierta para Niñas  Pink  Rose C8011   39 EU](https://www.amazon.es/dp/B07DK5L7KN/?tag=tolees-21) a 21.95 EUR (original: 59.9 EUR) (63.36 %  de descuento) en el siguiente enlace!

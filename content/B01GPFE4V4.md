@@ -10,8 +10,11 @@ author: ring
 slug: B01GPFE4V4
 description:
 actualPrice: 28.53 EUR
+currency: EUR
+price: 28.53
 comparePrice: 90 EUR
 inStock: true
+prodname: Under Armour W s UA Horizon Stc  Zapatos de Low Rise Senderismo para Mujer  Negro  Black  38 EU
 ---
 
 Está [Under Armour W s UA Horizon Stc  Zapatos de Low Rise Senderismo para Mujer  Negro  Black  38 EU](https://www.amazon.es/dp/B01GPFE4V4/?tag=tolees-21) con 68.30 de descuento por 28.53 EUR (original: 90 EUR) en el siguiente enlace!

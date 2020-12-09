@@ -10,8 +10,11 @@ author: ring
 slug: B07TXXFNM6
 description:
 actualPrice: 16.0 EUR
+currency: EUR
+price: 16.0
 comparePrice: 34.95 EUR
 inStock: true
+prodname: Wrangler SS Rainbow tee Camiseta  Marfil  Off White 737   X-Large para Hombre
 ---
 
 Tienes [Wrangler SS Rainbow tee Camiseta  Marfil  Off White 737   X-Large para Hombre](https://www.amazon.es/dp/B07TXXFNM6/?tag=tolees-21) con un 54.22 % de descuento con precio de oferta de 16.0 EUR (original: 34.95 EUR) en el siguiente enlace!

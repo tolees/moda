@@ -10,8 +10,11 @@ author: ring
 slug: B07K1HKZ6F
 description:
 actualPrice: 16.51 EUR
+currency: EUR
+price: 16.51
 comparePrice: 39.95 EUR
 inStock: true
+prodname: adidas Tiro 19 JSY W Camiseta de Manga Corta  Mujer  White/Black  XL
 ---
 
 Tienes [adidas Tiro 19 JSY W Camiseta de Manga Corta  Mujer  White/Black  XL](https://www.amazon.es/dp/B07K1HKZ6F/?tag=tolees-21) con un 58.67 % de descuento con precio de oferta de 16.51 EUR (original: 39.95 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07L7J3TMT
 description:
 actualPrice: 40.05 EUR
+currency: EUR
+price: 40.05
 comparePrice: 89 EUR
 inStock: true
+prodname: Napapijri Bevora C Sudadera  Azul  BLU Marine 176   X-Large para Hombre
 ---
 
 Tienes [Napapijri Bevora C Sudadera  Azul  BLU Marine 176   X-Large para Hombre](https://www.amazon.es/dp/B07L7J3TMT/?tag=tolees-21) con un 55.00 % de descuento con precio de oferta de 40.05 EUR (original: 89 EUR) en el siguiente enlace!

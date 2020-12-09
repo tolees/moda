@@ -10,8 +10,11 @@ author: ring
 slug: B01JIV9XA4
 description:
 actualPrice: 53.37 EUR
+currency: EUR
+price: 53.37
 comparePrice: 110.0 EUR
 inStock: true
+prodname: Levi s 511 Slim Vaqueros  Rock Cod  26W / 30L para Hombre
 ---
 
 Está [Levi s 511 Slim Vaqueros  Rock Cod  26W / 30L para Hombre](https://www.amazon.es/dp/B01JIV9XA4/?tag=tolees-21) con 51.48 de descuento por 53.37 EUR (original: 110.0 EUR) en el siguiente enlace!

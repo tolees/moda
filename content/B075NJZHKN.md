@@ -10,8 +10,11 @@ author: ring
 slug: B075NJZHKN
 description:
 actualPrice: 18.69 EUR
+currency: EUR
+price: 18.69
 comparePrice: 29.99 EUR
 inStock: true
+prodname: Eudora Colgante Aromaterapia Mujer Difusor de Aroma  Piedra Volcánica Collar de Difusor de Aceite Esencial de Aromaterapia joyería Perfume Camafeo Jaula Bola de Lava 7pcs
 ---
 
 Está [Eudora Colgante Aromaterapia Mujer Difusor de Aroma  Piedra Volcánica Collar de Difusor de Aceite Esencial de Aromaterapia joyería Perfume Camafeo Jaula Bola de Lava 7pcs](https://www.amazon.es/dp/B075NJZHKN/?tag=tolees-21) con 37.68 de descuento por 18.69 EUR (original: 29.99 EUR) en el siguiente enlace!

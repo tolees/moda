@@ -10,8 +10,11 @@ author: ring
 slug: B01H6NX4BU
 description:
 actualPrice: 26.8 EUR
+currency: EUR
+price: 26.8
 comparePrice: 39.99 EUR
 inStock: true
+prodname: Crocs Swiftwater River Sandal M  Sandalias para Hombre  Marrón  Espresso/Black   42/43 EU
 ---
 
 Ahora mismo tienes [Crocs Swiftwater River Sandal M  Sandalias para Hombre  Marrón  Espresso/Black   42/43 EU](https://www.amazon.es/dp/B01H6NX4BU/?tag=tolees-21) a 26.8 EUR (original: 39.99 EUR) (32.98 %  de descuento) en el siguiente enlace!

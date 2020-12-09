@@ -10,8 +10,11 @@ author: ring
 slug: B07GL6SQZV
 description:
 actualPrice: 41.61 EUR
+currency: EUR
+price: 41.61
 comparePrice: 200 EUR
 inStock: true
+prodname: Levi s Martina Puffer Chaqueta  Azul  Medieval Blue 0004   Large para Mujer
 ---
 
 Ahora mismo tienes [Levi s Martina Puffer Chaqueta  Azul  Medieval Blue 0004   Large para Mujer](https://www.amazon.es/dp/B07GL6SQZV/?tag=tolees-21) a 41.61 EUR (original: 200 EUR) (79.20 %  de descuento) en el siguiente enlace!

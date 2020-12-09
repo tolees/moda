@@ -10,8 +10,11 @@ author: ring
 slug: B073QWRLBR
 description:
 actualPrice: 46.72 EUR
+currency: EUR
+price: 46.72
 comparePrice: 100 EUR
 inStock: true
+prodname: Levi s 501 Original Vaqueros  Azul  Subway Station 2463   W29/L34 para Hombre
 ---
 
 Ahora mismo tienes [Levi s 501 Original Vaqueros  Azul  Subway Station 2463   W29/L34 para Hombre](https://www.amazon.es/dp/B073QWRLBR/?tag=tolees-21) a 46.72 EUR (original: 100 EUR) (53.28 %  de descuento) en el siguiente enlace!

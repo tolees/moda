@@ -10,8 +10,11 @@ author: ring
 slug: B079SGPBFZ
 description:
 actualPrice: 53.85 EUR
+currency: EUR
+price: 53.85
 comparePrice: 169.95 EUR
 inStock: true
+prodname: Desigual Padded_maca  Abrigo Mujer   Negro 2000   38  Talla fabricante: 40 
 ---
 
 Tienes [Desigual Padded_maca  Abrigo Mujer   Negro 2000   38  Talla fabricante: 40 ](https://www.amazon.es/dp/B079SGPBFZ/?tag=tolees-21) con un 68.31 % de descuento con precio de oferta de 53.85 EUR (original: 169.95 EUR) en el siguiente enlace!

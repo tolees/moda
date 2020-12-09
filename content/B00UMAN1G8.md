@@ -10,8 +10,11 @@ author: ring
 slug: B00UMAN1G8
 description:
 actualPrice: 67.43 EUR
+currency: EUR
+price: 67.43
 comparePrice: 160 EUR
 inStock: true
+prodname: Marc by Marc Jacobs MMJ 463/S QH  Gafas de Sol Unisex-Adulto  BU Grey Ruth  57
 ---
 
 Tienes [Marc by Marc Jacobs MMJ 463/S QH  Gafas de Sol Unisex-Adulto  BU Grey Ruth  57](https://www.amazon.es/dp/B00UMAN1G8/?tag=tolees-21) con un 57.86 % de descuento con precio de oferta de 67.43 EUR (original: 160 EUR) en el siguiente enlace!

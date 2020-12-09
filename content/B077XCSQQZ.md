@@ -10,8 +10,11 @@ author: ring
 slug: B077XCSQQZ
 description:
 actualPrice: 20.95 EUR
+currency: EUR
+price: 20.95
 comparePrice: 36.75 EUR
 inStock: true
+prodname: Superdry Shop AOP tee Camiseta  Naranja  Dry Tangerine CN3   M para Hombre
 ---
 
 Está [Superdry Shop AOP tee Camiseta  Naranja  Dry Tangerine CN3   M para Hombre](https://www.amazon.es/dp/B077XCSQQZ/?tag=tolees-21) con 42.99 de descuento por 20.95 EUR (original: 36.75 EUR) en el siguiente enlace!

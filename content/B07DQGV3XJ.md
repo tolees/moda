@@ -10,8 +10,11 @@ author: ring
 slug: B07DQGV3XJ
 description:
 actualPrice: 42.26 EUR
+currency: EUR
+price: 42.26
 comparePrice: 80 EUR
 inStock: true
+prodname: Burton Brtn Crew Sudadera  Hombre  Negro  True   L
 ---
 
 Está [Burton Brtn Crew Sudadera  Hombre  Negro  True   L](https://www.amazon.es/dp/B07DQGV3XJ/?tag=tolees-21) con 47.17 de descuento por 42.26 EUR (original: 80 EUR) en el siguiente enlace!

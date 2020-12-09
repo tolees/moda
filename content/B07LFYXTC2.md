@@ -10,8 +10,11 @@ author: ring
 slug: B07LFYXTC2
 description:
 actualPrice: 74.0 EUR
+currency: EUR
+price: 74.0
 comparePrice: 148.0 EUR
 inStock: true
+prodname: Geox U Nebula 4 X 4 B ABX  Zapatillas Hombre  Marrón  Coffee/Mud C6ml6   44 EU
 ---
 
 Está [Geox U Nebula 4 X 4 B ABX  Zapatillas Hombre  Marrón  Coffee/Mud C6ml6   44 EU](https://www.amazon.es/dp/B07LFYXTC2/?tag=tolees-21) con 50.00 de descuento por 74.0 EUR (original: 148.0 EUR) en el siguiente enlace!

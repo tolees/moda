@@ -10,8 +10,11 @@ author: ring
 slug: B01MCZUDIJ
 description:
 actualPrice: 35.99 EUR
+currency: EUR
+price: 35.99
 comparePrice: 95.0 EUR
 inStock: true
+prodname: Pepe Jeans New Brooke Vaqueros  Azul  10Oz Str 8Dip Royal Dk   24W/34L para Mujer
 ---
 
 Está [Pepe Jeans New Brooke Vaqueros  Azul  10Oz Str 8Dip Royal Dk   24W/34L para Mujer](https://www.amazon.es/dp/B01MCZUDIJ/?tag=tolees-21) con 62.12 de descuento por 35.99 EUR (original: 95.0 EUR) en el siguiente enlace!

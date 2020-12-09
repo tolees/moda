@@ -10,8 +10,11 @@ author: ring
 slug: B01GWX1QVA
 description:
 actualPrice: 58.68 EUR
+currency: EUR
+price: 58.68
 comparePrice: 99.9 EUR
 inStock: true
+prodname: Geox U New Damon A  Mocasines Hombre  Marrón  DK BROWNC6006   47 EU
 ---
 
 Tienes [Geox U New Damon A  Mocasines Hombre  Marrón  DK BROWNC6006   47 EU](https://www.amazon.es/dp/B01GWX1QVA/?tag=tolees-21) con un 41.26 % de descuento con precio de oferta de 58.68 EUR (original: 99.9 EUR) en el siguiente enlace!

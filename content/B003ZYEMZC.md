@@ -10,8 +10,11 @@ author: ring
 slug: B003ZYEMZC
 description:
 actualPrice: 17 EUR
+currency: EUR
+price: 17
 comparePrice: 22.9 EUR
 inStock: true
+prodname: Cressi Rash Guard  Camiseta con Filtro de Protección UPF 50+ para Hombre  Negro  Negro/Gris   L/4
 ---
 
 Tienes [Cressi Rash Guard  Camiseta con Filtro de Protección UPF 50+ para Hombre  Negro  Negro/Gris   L/4](https://www.amazon.es/dp/B003ZYEMZC/?tag=tolees-21) con un 25.76 % de descuento con precio de oferta de 17 EUR (original: 22.9 EUR) en el siguiente enlace!

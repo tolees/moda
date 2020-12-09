@@ -10,8 +10,11 @@ author: ring
 slug: B07H9MRR4Y
 description:
 actualPrice: 11.35 EUR
+currency: EUR
+price: 11.35
 comparePrice: 28.66 EUR
 inStock: true
+prodname: Marca Amazon - find. Jersey de Algodón con Cuello Redondo Hombre  Azul  Navy   M  Label: M
 ---
 
 Ahora mismo tienes [Marca Amazon - find. Jersey de Algodón con Cuello Redondo Hombre  Azul  Navy   M  Label: M](https://www.amazon.es/dp/B07H9MRR4Y/?tag=tolees-21) a 11.35 EUR (original: 28.66 EUR) (60.40 %  de descuento) en el siguiente enlace!

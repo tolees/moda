@@ -10,8 +10,11 @@ author: ring
 slug: B019PWDGJU
 description:
 actualPrice: 25.99 EUR
+currency: EUR
+price: 25.99
 comparePrice: 45.0 EUR
 inStock: true
+prodname: Diesel UMTEE-JAKETHREEPACK  Camiseta para Hombre  Negro  Black 900/0aalw   XS  Pack de 3
 ---
 
 Tienes [Diesel UMTEE-JAKETHREEPACK  Camiseta para Hombre  Negro  Black 900/0aalw   XS  Pack de 3](https://www.amazon.es/dp/B019PWDGJU/?tag=tolees-21) con un 42.24 % de descuento con precio de oferta de 25.99 EUR (original: 45.0 EUR) en el siguiente enlace!

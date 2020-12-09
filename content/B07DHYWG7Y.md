@@ -10,8 +10,11 @@ author: ring
 slug: B07DHYWG7Y
 description:
 actualPrice: 34.29 EUR
+currency: EUR
+price: 34.29
 comparePrice: 99.9 EUR
 inStock: true
+prodname: Geox U Kaven C  Zapatillas para Hombre  Negro  Black/Dk Grey C0005   45 EU
 ---
 
 Tienes [Geox U Kaven C  Zapatillas para Hombre  Negro  Black/Dk Grey C0005   45 EU](https://www.amazon.es/dp/B07DHYWG7Y/?tag=tolees-21) con un 65.68 % de descuento con precio de oferta de 34.29 EUR (original: 99.9 EUR) en el siguiente enlace!

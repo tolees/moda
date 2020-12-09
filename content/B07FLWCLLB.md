@@ -10,8 +10,11 @@ author: ring
 slug: B07FLWCLLB
 description:
 actualPrice: 26.24 EUR
+currency: EUR
+price: 26.24
 comparePrice: 89.99 EUR
 inStock: true
+prodname: Roxy Rock Peak Chaqueta  Mujer  Negro  True Black KVJ0   Large  Tamaño del Fabricante:L 
 ---
 
 Tienes [Roxy Rock Peak Chaqueta  Mujer  Negro  True Black KVJ0   Large  Tamaño del Fabricante:L ](https://www.amazon.es/dp/B07FLWCLLB/?tag=tolees-21) con un 70.84 % de descuento con precio de oferta de 26.24 EUR (original: 89.99 EUR) en el siguiente enlace!

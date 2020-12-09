@@ -10,8 +10,11 @@ author: ring
 slug: B01H4YGM5Q
 description:
 actualPrice: 18.95 EUR
+currency: EUR
+price: 18.95
 comparePrice: 28 EUR
 inStock: true
+prodname: Pepe Jeans Charing  Camiseta Hombre  Negro  Black   X-Large
 ---
 
 Tienes [Pepe Jeans Charing  Camiseta Hombre  Negro  Black   X-Large](https://www.amazon.es/dp/B01H4YGM5Q/?tag=tolees-21) con un 32.32 % de descuento con precio de oferta de 18.95 EUR (original: 28 EUR) en el siguiente enlace!

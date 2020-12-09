@@ -10,8 +10,11 @@ author: ring
 slug: B07GCJ3GSB
 description:
 actualPrice: 13.19 EUR
+currency: EUR
+price: 13.19
 comparePrice: 40.2 EUR
 inStock: true
+prodname: Glamorous Ladies Dress Vestido Fiesta Mujer   Multi Spot Chiffon Blue   40  Talla del Fabricante: Medium  para
 ---
 
 Ahora mismo tienes [Glamorous Ladies Dress Vestido Fiesta Mujer   Multi Spot Chiffon Blue   40  Talla del Fabricante: Medium  para](https://www.amazon.es/dp/B07GCJ3GSB/?tag=tolees-21) a 13.19 EUR (original: 40.2 EUR) (67.19 %  de descuento) en el siguiente enlace!

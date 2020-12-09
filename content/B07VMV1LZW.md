@@ -10,8 +10,11 @@ author: ring
 slug: B07VMV1LZW
 description:
 actualPrice: 40.48 EUR
+currency: EUR
+price: 40.48
 comparePrice: 89.95 EUR
 inStock: true
+prodname: Lee Luke Vaqueros Slim  Azul  Hawaii Light FM   W32/L32  Talla del Fabricante: 32/32  para Hombre
 ---
 
 Tienes [Lee Luke Vaqueros Slim  Azul  Hawaii Light FM   W32/L32  Talla del Fabricante: 32/32  para Hombre](https://www.amazon.es/dp/B07VMV1LZW/?tag=tolees-21) con un 55.00 % de descuento con precio de oferta de 40.48 EUR (original: 89.95 EUR) en el siguiente enlace!

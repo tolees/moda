@@ -10,8 +10,11 @@ author: ring
 slug: B07FNVT4CD
 description:
 actualPrice: 30.43 EUR
+currency: EUR
+price: 30.43
 comparePrice: 139.99 EUR
 inStock: true
+prodname: edc by Esprit 108cc2g016  Chaqueta para Hombre  Negro  Black 001  XX-Large
 ---
 
 Está [edc by Esprit 108cc2g016  Chaqueta para Hombre  Negro  Black 001  XX-Large](https://www.amazon.es/dp/B07FNVT4CD/?tag=tolees-21) con 78.26 de descuento por 30.43 EUR (original: 139.99 EUR) en el siguiente enlace!

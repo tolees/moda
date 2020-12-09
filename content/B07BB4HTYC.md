@@ -10,8 +10,11 @@ author: ring
 slug: B07BB4HTYC
 description:
 actualPrice: 10 EUR
+currency: EUR
+price: 10
 comparePrice: 20 EUR
 inStock: true
+prodname: The North Face Y S/S T Camiseta Simple Dome Hombre  Purdy Pink M
 ---
 
 Está [The North Face Y S/S T Camiseta Simple Dome Hombre  Purdy Pink M](https://www.amazon.es/dp/B07BB4HTYC/?tag=tolees-21) con 50.00 de descuento por 10 EUR (original: 20 EUR) en el siguiente enlace!

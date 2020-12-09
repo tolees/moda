@@ -10,8 +10,11 @@ author: ring
 slug: B07FR19RGY
 description:
 actualPrice: 52.66 EUR
+currency: EUR
+price: 52.66
 comparePrice: 79.95 EUR
 inStock: true
+prodname: Clarks Grandin Plain  Zapatos de Cordones Derby Hombre  Marrón  Dark Brown Tumbled-   44.5 EU
 ---
 
 Ahora mismo tienes [Clarks Grandin Plain  Zapatos de Cordones Derby Hombre  Marrón  Dark Brown Tumbled-   44.5 EU](https://www.amazon.es/dp/B07FR19RGY/?tag=tolees-21) a 52.66 EUR (original: 79.95 EUR) (34.13 %  de descuento) en el siguiente enlace!

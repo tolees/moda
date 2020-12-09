@@ -10,8 +10,11 @@ author: ring
 slug: B07M9QKZF9
 description:
 actualPrice: 13.32 EUR
+currency: EUR
+price: 13.32
 comparePrice: 39.95 EUR
 inStock: true
+prodname: G-STAR RAW Swando Graphic T-Shirt Camiseta  Negro  dk Black 6484   X-Large para Hombre
 ---
 
 Tienes [G-STAR RAW Swando Graphic T-Shirt Camiseta  Negro  dk Black 6484   X-Large para Hombre](https://www.amazon.es/dp/B07M9QKZF9/?tag=tolees-21) con un 66.66 % de descuento con precio de oferta de 13.32 EUR (original: 39.95 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B01MSNJ7SL
 description:
 actualPrice: 13.95 EUR
+currency: EUR
+price: 13.95
 comparePrice: 27.95 EUR
 inStock: true
+prodname: Puma Archive Logo tee Camiseta  Hombre  Blanco  XL
 ---
 
 Está [Puma Archive Logo tee Camiseta  Hombre  Blanco  XL](https://www.amazon.es/dp/B01MSNJ7SL/?tag=tolees-21) con 50.09 de descuento por 13.95 EUR (original: 27.95 EUR) en el siguiente enlace!

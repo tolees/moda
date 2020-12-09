@@ -10,8 +10,11 @@ author: ring
 slug: B00FZLS04W
 description:
 actualPrice: 28.71 EUR
+currency: EUR
+price: 28.71
 comparePrice: 48 EUR
 inStock: true
+prodname: Hi-Tec Hopkins  Chaqueta para Hombre  Negro  Black   XL
 ---
 
 Tienes [Hi-Tec Hopkins  Chaqueta para Hombre  Negro  Black   XL](https://www.amazon.es/dp/B00FZLS04W/?tag=tolees-21) con un 40.19 % de descuento con precio de oferta de 28.71 EUR (original: 48 EUR) en el siguiente enlace!

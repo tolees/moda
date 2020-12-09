@@ -10,8 +10,11 @@ author: ring
 slug: B01ERUQ4WG
 description:
 actualPrice: 9.25 EUR
+currency: EUR
+price: 9.25
 comparePrice: 29.4 EUR
 inStock: true
+prodname: New Look Stacey  Vestido para Mujer  Blanco ES 38  UK 10 
 ---
 
 Tienes [New Look Stacey  Vestido para Mujer  Blanco ES 38  UK 10 ](https://www.amazon.es/dp/B01ERUQ4WG/?tag=tolees-21) con un 68.54 % de descuento con precio de oferta de 9.25 EUR (original: 29.4 EUR) en el siguiente enlace!

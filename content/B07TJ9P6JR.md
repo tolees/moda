@@ -10,8 +10,11 @@ author: ring
 slug: B07TJ9P6JR
 description:
 actualPrice: 15.14 EUR
+currency: EUR
+price: 15.14
 comparePrice: 65.0 EUR
 inStock: true
+prodname: Under Armour UA Tech Pant Chándal  Pantalón De Deporte  Hombre   Black/Black/Black  001   38/32
 ---
 
 Ahora mismo tienes [Under Armour UA Tech Pant Chándal  Pantalón De Deporte  Hombre   Black/Black/Black  001   38/32](https://www.amazon.es/dp/B07TJ9P6JR/?tag=tolees-21) a 15.14 EUR (original: 65.0 EUR) (76.71 %  de descuento) en el siguiente enlace!

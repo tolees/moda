@@ -10,8 +10,11 @@ author: ring
 slug: B07ZVPDT3Q
 description:
 actualPrice: 45.5 EUR
+currency: EUR
+price: 45.5
 comparePrice: 65.0 EUR
 inStock: true
+prodname: Levi s Crew Sudadera  White  M para Hombre
 ---
 
 Ahora mismo tienes [Levi s Crew Sudadera  White  M para Hombre](https://www.amazon.es/dp/B07ZVPDT3Q/?tag=tolees-21) a 45.5 EUR (original: 65.0 EUR) (30.00 %  de descuento) en el siguiente enlace!

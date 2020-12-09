@@ -10,8 +10,11 @@ author: ring
 slug: B07KYZC84G
 description:
 actualPrice: 5.74 EUR
+currency: EUR
+price: 5.74
 comparePrice: 15.99 EUR
 inStock: true
+prodname: Springfield 2.T.Ap.Pv19.Cuello Bajo L Camiseta   Gama Rojo 65   X-Small  Tamaño del Fabricante:XS  para Mujer
 ---
 
 Está [Springfield 2.T.Ap.Pv19.Cuello Bajo L Camiseta   Gama Rojo 65   X-Small  Tamaño del Fabricante:XS  para Mujer](https://www.amazon.es/dp/B07KYZC84G/?tag=tolees-21) con 64.10 de descuento por 5.74 EUR (original: 15.99 EUR) en el siguiente enlace!

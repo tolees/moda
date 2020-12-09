@@ -10,8 +10,11 @@ author: ring
 slug: B0736XKJJL
 description:
 actualPrice: 9.37 EUR
+currency: EUR
+price: 9.37
 comparePrice: 34.99 EUR
 inStock: true
+prodname: Vero Moda Vmlinber LS V-Neck Wave Blouse LCS  suéter Mujer  Gris  Dark Grey Melange   34  Talla del Fabricante: X-Small 
 ---
 
 Está [Vero Moda Vmlinber LS V-Neck Wave Blouse LCS  suéter Mujer  Gris  Dark Grey Melange   34  Talla del Fabricante: X-Small ](https://www.amazon.es/dp/B0736XKJJL/?tag=tolees-21) con 73.22 de descuento por 9.37 EUR (original: 34.99 EUR) en el siguiente enlace!

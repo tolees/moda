@@ -10,8 +10,11 @@ author: ring
 slug: B002SNAY8U
 description:
 actualPrice: 79.56 EUR
+currency: EUR
+price: 79.56
 comparePrice: 130.0 EUR
 inStock: true
+prodname: Clarks Nature Three - Zapatos con cordones Derby para hombre  Black Leather  45
 ---
 
 Ahora mismo tienes [Clarks Nature Three - Zapatos con cordones Derby para hombre  Black Leather  45](https://www.amazon.es/dp/B002SNAY8U/?tag=tolees-21) a 79.56 EUR (original: 130.0 EUR) (38.80 %  de descuento) en el siguiente enlace!

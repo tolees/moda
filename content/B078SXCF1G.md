@@ -10,8 +10,11 @@ author: ring
 slug: B078SXCF1G
 description:
 actualPrice: 32.45 EUR
+currency: EUR
+price: 32.45
 comparePrice: 65.0 EUR
 inStock: true
+prodname: Timberland Union Wharf 2 Eye Oxford  Náuticos para Hombre  Negro Black Canvas  44 EU
 ---
 
 Está [Timberland Union Wharf 2 Eye Oxford  Náuticos para Hombre  Negro Black Canvas  44 EU](https://www.amazon.es/dp/B078SXCF1G/?tag=tolees-21) con 50.08 de descuento por 32.45 EUR (original: 65.0 EUR) en el siguiente enlace!

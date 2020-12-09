@@ -10,8 +10,11 @@ author: ring
 slug: B07BXWQNQD
 description:
 actualPrice: 10.41 EUR
+currency: EUR
+price: 10.41
 comparePrice: 13.88 EUR
 inStock: true
+prodname: Urban GoCo Camisas Manga Corta de Camiseta de Floral Impreso de Blusa del Hombro Fuera de Las Mujeres Tops  Medium  6 
 ---
 
 Tienes [Urban GoCo Camisas Manga Corta de Camiseta de Floral Impreso de Blusa del Hombro Fuera de Las Mujeres Tops  Medium  6 ](https://www.amazon.es/dp/B07BXWQNQD/?tag=tolees-21) con un 25.00 % de descuento con precio de oferta de 10.41 EUR (original: 13.88 EUR) en el siguiente enlace!

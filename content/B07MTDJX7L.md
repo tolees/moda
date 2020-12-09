@@ -10,8 +10,11 @@ author: ring
 slug: B07MTDJX7L
 description:
 actualPrice: 13.07 EUR
+currency: EUR
+price: 13.07
 comparePrice: 24.99 EUR
 inStock: true
+prodname: Levi s Levis 200SF Optical Zigzag Boxer Brief 2P Culotte  Rojo  Red 072   XL  Talla de Fabricante : 040   Pack de 2  para Hombre
 ---
 
 Ahora mismo tienes [Levi s Levis 200SF Optical Zigzag Boxer Brief 2P Culotte  Rojo  Red 072   XL  Talla de Fabricante : 040   Pack de 2  para Hombre](https://www.amazon.es/dp/B07MTDJX7L/?tag=tolees-21) a 13.07 EUR (original: 24.99 EUR) (47.70 %  de descuento) en el siguiente enlace!

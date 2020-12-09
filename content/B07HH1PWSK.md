@@ -10,8 +10,11 @@ author: ring
 slug: B07HH1PWSK
 description:
 actualPrice: 19.52 EUR
+currency: EUR
+price: 19.52
 comparePrice: 39 EUR
 inStock: true
+prodname: Tommy Jeans Mujer SATIN DETAIL TEE Camiseta Manga Corta  Azul  Black Iris 002  Small
 ---
 
 Tienes [Tommy Jeans Mujer SATIN DETAIL TEE Camiseta Manga Corta  Azul  Black Iris 002  Small](https://www.amazon.es/dp/B07HH1PWSK/?tag=tolees-21) con un 49.95 % de descuento con precio de oferta de 19.52 EUR (original: 39 EUR) en el siguiente enlace!

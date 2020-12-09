@@ -10,8 +10,11 @@ author: ring
 slug: B07KTXGLZD
 description:
 actualPrice: 24.98 EUR
+currency: EUR
+price: 24.98
 comparePrice: 49.95 EUR
 inStock: true
+prodname: adidas W E Lin FZ HD Sudadera  Mujer  brgros/rosaut  2XS
 ---
 
 Tienes [adidas W E Lin FZ HD Sudadera  Mujer  brgros/rosaut  2XS](https://www.amazon.es/dp/B07KTXGLZD/?tag=tolees-21) con un 49.99 % de descuento con precio de oferta de 24.98 EUR (original: 49.95 EUR) en el siguiente enlace!

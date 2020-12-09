@@ -10,8 +10,11 @@ author: ring
 slug: B07DHT94LL
 description:
 actualPrice: 9.47 EUR
+currency: EUR
+price: 9.47
 comparePrice: 25.99 EUR
 inStock: true
+prodname: Quiksilver Wave Party Camiseta  Hombre  Negro  Black KVJ0   Small  Tamaño del Fabricante:S 
 ---
 
 Ahora mismo tienes [Quiksilver Wave Party Camiseta  Hombre  Negro  Black KVJ0   Small  Tamaño del Fabricante:S ](https://www.amazon.es/dp/B07DHT94LL/?tag=tolees-21) a 9.47 EUR (original: 25.99 EUR) (63.56 %  de descuento) en el siguiente enlace!

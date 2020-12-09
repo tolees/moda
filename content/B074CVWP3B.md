@@ -10,8 +10,11 @@ author: ring
 slug: B074CVWP3B
 description:
 actualPrice: 52.3 EUR
+currency: EUR
+price: 52.3
 comparePrice: 140 EUR
 inStock: true
+prodname: Ecco Aquet  Zapatos de Cordones Brogue para Hombre  Gris  Moon Rock 2459   44 EU
 ---
 
 Tienes [Ecco Aquet  Zapatos de Cordones Brogue para Hombre  Gris  Moon Rock 2459   44 EU](https://www.amazon.es/dp/B074CVWP3B/?tag=tolees-21) con un 62.64 % de descuento con precio de oferta de 52.3 EUR (original: 140 EUR) en el siguiente enlace!

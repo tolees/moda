@@ -10,8 +10,11 @@ author: ring
 slug: B07DJTN7VC
 description:
 actualPrice: 10.77 EUR
+currency: EUR
+price: 10.77
 comparePrice: 49.99 EUR
 inStock: true
+prodname: Only Onlnew Skylar Fur Parka CC Otw Chaqueta  Azul Night Sky  42  Talla del Fabricante: X-Large  para Mujer
 ---
 
 Está [Only Onlnew Skylar Fur Parka CC Otw Chaqueta  Azul Night Sky  42  Talla del Fabricante: X-Large  para Mujer](https://www.amazon.es/dp/B07DJTN7VC/?tag=tolees-21) con 78.46 de descuento por 10.77 EUR (original: 49.99 EUR) en el siguiente enlace!

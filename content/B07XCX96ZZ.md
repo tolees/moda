@@ -10,8 +10,11 @@ author: ring
 slug: B07XCX96ZZ
 description:
 actualPrice: 27.99 EUR
+currency: EUR
+price: 27.99
 comparePrice: 129.99 EUR
 inStock: true
+prodname: LIGE Relojes para Hombre Moda Vestido Cronógrafo Impermeable Analógico Cuarzo Reloj Militar Acero Inoxidable Negro Reloj de Pulsera
 ---
 
 Tienes [LIGE Relojes para Hombre Moda Vestido Cronógrafo Impermeable Analógico Cuarzo Reloj Militar Acero Inoxidable Negro Reloj de Pulsera](https://www.amazon.es/dp/B07XCX96ZZ/?tag=tolees-21) con un 78.47 % de descuento con precio de oferta de 27.99 EUR (original: 129.99 EUR) en el siguiente enlace!

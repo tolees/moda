@@ -10,8 +10,11 @@ author: ring
 slug: B07FYK9ZS1
 description:
 actualPrice: 13.44 EUR
+currency: EUR
+price: 13.44
 comparePrice: 99.95 EUR
 inStock: true
+prodname: Wrangler Skinny  Vaqueros Skinny  Mujer  Azul  Forget Me Not 289   W24/L30
 ---
 
 Ahora mismo tienes [Wrangler Skinny  Vaqueros Skinny  Mujer  Azul  Forget Me Not 289   W24/L30](https://www.amazon.es/dp/B07FYK9ZS1/?tag=tolees-21) a 13.44 EUR (original: 99.95 EUR) (86.55 %  de descuento) en el siguiente enlace!

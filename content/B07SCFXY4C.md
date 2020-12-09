@@ -10,8 +10,11 @@ author: ring
 slug: B07SCFXY4C
 description:
 actualPrice: 22.49 EUR
+currency: EUR
+price: 22.49
 comparePrice: 39.99 EUR
 inStock: true
+prodname: Crocs Classic U  Zuecos Unisex Adulto  Verde  Verde Oscuro   38/39 EU
 ---
 
 Ahora mismo tienes [Crocs Classic U  Zuecos Unisex Adulto  Verde  Verde Oscuro   38/39 EU](https://www.amazon.es/dp/B07SCFXY4C/?tag=tolees-21) a 22.49 EUR (original: 39.99 EUR) (43.76 %  de descuento) en el siguiente enlace!

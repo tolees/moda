@@ -10,8 +10,11 @@ author: ring
 slug: B07F93PJSN
 description:
 actualPrice: 19.47 EUR
+currency: EUR
+price: 19.47
 comparePrice: 79.99 EUR
 inStock: true
+prodname: JACK & JONES Jcoten Jacket  Chaqueta para Hombre  Azul  Sky Captain  Medium
 ---
 
 Ahora mismo tienes [JACK & JONES Jcoten Jacket  Chaqueta para Hombre  Azul  Sky Captain  Medium](https://www.amazon.es/dp/B07F93PJSN/?tag=tolees-21) a 19.47 EUR (original: 79.99 EUR) (75.66 %  de descuento) en el siguiente enlace!

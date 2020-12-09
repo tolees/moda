@@ -10,8 +10,11 @@ author: ring
 slug: B079WRKY7H
 description:
 actualPrice: 36.99 EUR
+currency: EUR
+price: 36.99
 comparePrice: 95 EUR
 inStock: true
+prodname: Pepe Jeans Finsbury Vaqueros  Azul  Medium Used Gg6   38W / 30L para Hombre
 ---
 
 Ahora mismo tienes [Pepe Jeans Finsbury Vaqueros  Azul  Medium Used Gg6   38W / 30L para Hombre](https://www.amazon.es/dp/B079WRKY7H/?tag=tolees-21) a 36.99 EUR (original: 95 EUR) (61.06 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07BJHZTZ6
 description:
 actualPrice: 56.26 EUR
+currency: EUR
+price: 56.26
 comparePrice: 99.95 EUR
 inStock: true
+prodname: G-STAR RAW 3301 Slim  Vaqueros slim Hombre  Azul  Rinsed 082   W35/L28
 ---
 
 Ahora mismo tienes [G-STAR RAW 3301 Slim  Vaqueros slim Hombre  Azul  Rinsed 082   W35/L28](https://www.amazon.es/dp/B07BJHZTZ6/?tag=tolees-21) a 56.26 EUR (original: 99.95 EUR) (43.71 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07HFR8BLH
 description:
 actualPrice: 12.99 EUR
+currency: EUR
+price: 12.99
 comparePrice: 19.99 EUR
 inStock: true
+prodname: KSQS 925 Plata esterlina árbol de la Vida 5A Cubic Zirconia Cristales de Swarovski Colgante Collar para Mujeres y niña  45 + 5 Extensor 
 ---
 
 Ahora mismo tienes [KSQS 925 Plata esterlina árbol de la Vida 5A Cubic Zirconia Cristales de Swarovski Colgante Collar para Mujeres y niña  45 + 5 Extensor ](https://www.amazon.es/dp/B07HFR8BLH/?tag=tolees-21) a 12.99 EUR (original: 19.99 EUR) (35.02 %  de descuento) en el siguiente enlace!

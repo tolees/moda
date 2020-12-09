@@ -10,8 +10,11 @@ author: ring
 slug: B07MZKRKMP
 description:
 actualPrice: 19.98 EUR
+currency: EUR
+price: 19.98
 comparePrice: 39.95 EUR
 inStock: true
+prodname: adidas 3 Stripes Vestido de Tenis  Mujer  azuosc  32
 ---
 
 Tienes [adidas 3 Stripes Vestido de Tenis  Mujer  azuosc  32](https://www.amazon.es/dp/B07MZKRKMP/?tag=tolees-21) con un 49.99 % de descuento con precio de oferta de 19.98 EUR (original: 39.95 EUR) en el siguiente enlace!

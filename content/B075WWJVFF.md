@@ -10,8 +10,11 @@ author: ring
 slug: B075WWJVFF
 description:
 actualPrice: 13.62 EUR
+currency: EUR
+price: 13.62
 comparePrice: 49.99 EUR
 inStock: true
+prodname: Esprit 998ee1j800 Sudadera  Rojo  Cherry Red 615   XX-Large para Mujer
 ---
 
 Está [Esprit 998ee1j800 Sudadera  Rojo  Cherry Red 615   XX-Large para Mujer](https://www.amazon.es/dp/B075WWJVFF/?tag=tolees-21) con 72.75 de descuento por 13.62 EUR (original: 49.99 EUR) en el siguiente enlace!

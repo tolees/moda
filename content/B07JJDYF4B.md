@@ -10,8 +10,11 @@ author: ring
 slug: B07JJDYF4B
 description:
 actualPrice: 10.14 EUR
+currency: EUR
+price: 10.14
 comparePrice: 26.3 EUR
 inStock: true
+prodname: New Look Natural Animal  Falda para Mujer  Marrón  Brown Pattern 29  36  Talla del Fabricante: 8 
 ---
 
 Ahora mismo tienes [New Look Natural Animal  Falda para Mujer  Marrón  Brown Pattern 29  36  Talla del Fabricante: 8 ](https://www.amazon.es/dp/B07JJDYF4B/?tag=tolees-21) a 10.14 EUR (original: 26.3 EUR) (61.44 %  de descuento) en el siguiente enlace!

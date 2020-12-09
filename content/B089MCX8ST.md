@@ -10,8 +10,11 @@ author: ring
 slug: B089MCX8ST
 description:
 actualPrice: 18.9 EUR
+currency: EUR
+price: 18.9
 comparePrice: 40.0 EUR
 inStock: true
+prodname: Meller - Eyasi Silver Olive - Gafas de sol para hombre y mujer
 ---
 
 Está [Meller - Eyasi Silver Olive - Gafas de sol para hombre y mujer](https://www.amazon.es/dp/B089MCX8ST/?tag=tolees-21) con 52.75 de descuento por 18.9 EUR (original: 40.0 EUR) en el siguiente enlace!

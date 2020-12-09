@@ -10,8 +10,11 @@ author: ring
 slug: B07DLJX27Z
 description:
 actualPrice: 11.12 EUR
+currency: EUR
+price: 11.12
 comparePrice: 29.99 EUR
 inStock: true
+prodname: Springfield Frq Strech Sport Camisa Casual  Hombre  Azul  Gama Azules 11   Large  Tamaño del Fabricante:L 
 ---
 
 Está [Springfield Frq Strech Sport Camisa Casual  Hombre  Azul  Gama Azules 11   Large  Tamaño del Fabricante:L ](https://www.amazon.es/dp/B07DLJX27Z/?tag=tolees-21) con 62.92 de descuento por 11.12 EUR (original: 29.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07SZGFGFL
 description:
 actualPrice: 5.69 EUR
+currency: EUR
+price: 5.69
 comparePrice: 10.99 EUR
 inStock: true
+prodname: YWLINK Mono De Bebe NiñA NiñO Verano Mameluco De ImpresióN Lindo Dibujos Animados Sin Mangas Conjuntos Traje De Rastreo Vestido De NiñA para Bautizo Casual CóModo Edad Y-Azul Claro 2-3 años/110 
 ---
 
 Está [YWLINK Mono De Bebe NiñA NiñO Verano Mameluco De ImpresióN Lindo Dibujos Animados Sin Mangas Conjuntos Traje De Rastreo Vestido De NiñA para Bautizo Casual CóModo Edad Y-Azul Claro 2-3 años/110 ](https://www.amazon.es/dp/B07SZGFGFL/?tag=tolees-21) con 48.23 de descuento por 5.69 EUR (original: 10.99 EUR) en el siguiente enlace!

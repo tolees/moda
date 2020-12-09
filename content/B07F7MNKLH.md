@@ -10,8 +10,11 @@ author: ring
 slug: B07F7MNKLH
 description:
 actualPrice: 41.22 EUR
+currency: EUR
+price: 41.22
 comparePrice: 100 EUR
 inStock: true
+prodname: Burton Minxy Full-Zip Sudadera  Mujer  marrón  Camel Heather   M
 ---
 
 Tienes [Burton Minxy Full-Zip Sudadera  Mujer  marrón  Camel Heather   M](https://www.amazon.es/dp/B07F7MNKLH/?tag=tolees-21) con un 58.78 % de descuento con precio de oferta de 41.22 EUR (original: 100 EUR) en el siguiente enlace!

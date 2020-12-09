@@ -10,8 +10,11 @@ author: ring
 slug: B07FYFT14T
 description:
 actualPrice: 32.5 EUR
+currency: EUR
+price: 32.5
 comparePrice: 65 EUR
 inStock: true
+prodname: Lee Mid Skirt Falda  Marfil  Simple Focus Zj  32  Talla del Fabricante: 25  para Mujer
 ---
 
 Tienes [Lee Mid Skirt Falda  Marfil  Simple Focus Zj  32  Talla del Fabricante: 25  para Mujer](https://www.amazon.es/dp/B07FYFT14T/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 32.5 EUR (original: 65 EUR) en el siguiente enlace!

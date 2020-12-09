@@ -10,8 +10,11 @@ author: ring
 slug: B07PXNW7JR
 description:
 actualPrice: 11.64 EUR
+currency: EUR
+price: 11.64
 comparePrice: 35.9 EUR
 inStock: true
+prodname: Marca Amazon - find. Jersey con Cuello Redondo Mujer  Negro  Black   46  Label: XXL
 ---
 
 Ahora mismo tienes [Marca Amazon - find. Jersey con Cuello Redondo Mujer  Negro  Black   46  Label: XXL](https://www.amazon.es/dp/B07PXNW7JR/?tag=tolees-21) a 11.64 EUR (original: 35.9 EUR) (67.58 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07STV1LTV
 description:
 actualPrice: 14.68 EUR
+currency: EUR
+price: 14.68
 comparePrice: 19.98 EUR
 inStock: true
+prodname: Geox D Genova C  Bailarinas Mujer  Negro  Black C9999   38 EU
 ---
 
 Tienes [Geox D Genova C  Bailarinas Mujer  Negro  Black C9999   38 EU](https://www.amazon.es/dp/B07STV1LTV/?tag=tolees-21) con un 26.53 % de descuento con precio de oferta de 14.68 EUR (original: 19.98 EUR) en el siguiente enlace!

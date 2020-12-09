@@ -10,8 +10,11 @@ author: ring
 slug: B07F8Y1KJZ
 description:
 actualPrice: 68.99 EUR
+currency: EUR
+price: 68.99
 comparePrice: 119.99 EUR
 inStock: true
+prodname: JACK & JONES PREMIUM Jprmorten Wool Coat STS  Abrigo para Hombre  Gris  Grey Melange  X-Large
 ---
 
 Ahora mismo tienes [JACK & JONES PREMIUM Jprmorten Wool Coat STS  Abrigo para Hombre  Gris  Grey Melange  X-Large](https://www.amazon.es/dp/B07F8Y1KJZ/?tag=tolees-21) a 68.99 EUR (original: 119.99 EUR) (42.50 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07B53VCTN
 description:
 actualPrice: 54.35 EUR
+currency: EUR
+price: 54.35
 comparePrice: 149.95 EUR
 inStock: true
+prodname: G-STAR RAW D-STAQ 3D Skinny  Vaqueros  Azul  medium aged 8968-071   33W / 38L para Hombre
 ---
 
 Está [G-STAR RAW D-STAQ 3D Skinny  Vaqueros  Azul  medium aged 8968-071   33W / 38L para Hombre](https://www.amazon.es/dp/B07B53VCTN/?tag=tolees-21) con 63.75 de descuento por 54.35 EUR (original: 149.95 EUR) en el siguiente enlace!

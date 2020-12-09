@@ -10,8 +10,11 @@ author: ring
 slug: B072KDSZ9B
 description:
 actualPrice: 23.18 EUR
+currency: EUR
+price: 23.18
 comparePrice: 69.95 EUR
 inStock: true
+prodname: Lee One Pocket Shirt  Blusa para Mujer   Rust Bfdg   Small
 ---
 
 Tienes [Lee One Pocket Shirt  Blusa para Mujer   Rust Bfdg   Small](https://www.amazon.es/dp/B072KDSZ9B/?tag=tolees-21) con un 66.86 % de descuento con precio de oferta de 23.18 EUR (original: 69.95 EUR) en el siguiente enlace!

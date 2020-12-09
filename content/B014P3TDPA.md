@@ -10,8 +10,11 @@ author: ring
 slug: B014P3TDPA
 description:
 actualPrice: 37.95 EUR
+currency: EUR
+price: 37.95
 comparePrice: 56.95 EUR
 inStock: true
+prodname: Pepe Jeans London Cash  Vaqueros para Hombre  Azul  11Oz Streaky Stretch Med Z23   W30/L30
 ---
 
 Está [Pepe Jeans London Cash  Vaqueros para Hombre  Azul  11Oz Streaky Stretch Med Z23   W30/L30](https://www.amazon.es/dp/B014P3TDPA/?tag=tolees-21) con 33.36 de descuento por 37.95 EUR (original: 56.95 EUR) en el siguiente enlace!

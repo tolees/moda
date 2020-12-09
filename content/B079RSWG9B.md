@@ -10,8 +10,11 @@ author: ring
 slug: B079RSWG9B
 description:
 actualPrice: 15.23 EUR
+currency: EUR
+price: 15.23
 comparePrice: 35 EUR
 inStock: true
+prodname: Pepe Jeans JIN JR PG501964  Camiseta para Niñas  Rojo  Poppy 210  4 años
 ---
 
 Ahora mismo tienes [Pepe Jeans JIN JR PG501964  Camiseta para Niñas  Rojo  Poppy 210  4 años](https://www.amazon.es/dp/B079RSWG9B/?tag=tolees-21) a 15.23 EUR (original: 35 EUR) (56.49 %  de descuento) en el siguiente enlace!

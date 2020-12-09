@@ -10,8 +10,11 @@ author: ring
 slug: B07JQ8YD6H
 description:
 actualPrice: 25.49 EUR
+currency: EUR
+price: 25.49
 comparePrice: 40.99 EUR
 inStock: true
+prodname: Nasjac 1920 Flapper Set de accesorios de la década de Costume Collar Diadema Guantes Cigarette Holder Mujeres
 ---
 
 Ahora mismo tienes [Nasjac 1920 Flapper Set de accesorios de la década de Costume Collar Diadema Guantes Cigarette Holder Mujeres](https://www.amazon.es/dp/B07JQ8YD6H/?tag=tolees-21) a 25.49 EUR (original: 40.99 EUR) (37.81 %  de descuento) en el siguiente enlace!

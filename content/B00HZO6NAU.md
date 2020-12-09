@@ -10,8 +10,11 @@ author: ring
 slug: B00HZO6NAU
 description:
 actualPrice: 13.36 EUR
+currency: EUR
+price: 13.36
 comparePrice: 67.95 EUR
 inStock: true
+prodname: Jomos Freewalk  Zapatos de Cordones Derby para Mujer  Marrón  Braun  Almond   37 EU
 ---
 
 Ahora mismo tienes [Jomos Freewalk  Zapatos de Cordones Derby para Mujer  Marrón  Braun  Almond   37 EU](https://www.amazon.es/dp/B00HZO6NAU/?tag=tolees-21) a 13.36 EUR (original: 67.95 EUR) (80.34 %  de descuento) en el siguiente enlace!

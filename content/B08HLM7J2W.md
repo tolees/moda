@@ -10,8 +10,11 @@ author: ring
 slug: B08HLM7J2W
 description:
 actualPrice: 1.77 EUR
+currency: EUR
+price: 1.77
 comparePrice: 2.53 EUR
 inStock: true
+prodname: #NA Breve Moda Fibra Paja Trigo Plástico Taza de café Taza de té Taza Cuadrada ecológica Gárgaras
 ---
 
 Tienes [#NA Breve Moda Fibra Paja Trigo Plástico Taza de café Taza de té Taza Cuadrada ecológica Gárgaras](https://www.amazon.es/dp/B08HLM7J2W/?tag=tolees-21) con un 30.04 % de descuento con precio de oferta de 1.77 EUR (original: 2.53 EUR) en el siguiente enlace!

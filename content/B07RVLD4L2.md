@@ -10,8 +10,11 @@ author: ring
 slug: B07RVLD4L2
 description:
 actualPrice: 49.99 EUR
+currency: EUR
+price: 49.99
 comparePrice: 69.99 EUR
 inStock: true
+prodname: Ever-Pretty A-línea Encaje Talla Grande Vestido de Fiesta Cuello Redondo Largo para Mujer Verde Oscuro 52
 ---
 
 Tienes [Ever-Pretty A-línea Encaje Talla Grande Vestido de Fiesta Cuello Redondo Largo para Mujer Verde Oscuro 52](https://www.amazon.es/dp/B07RVLD4L2/?tag=tolees-21) con un 28.58 % de descuento con precio de oferta de 49.99 EUR (original: 69.99 EUR) en el siguiente enlace!

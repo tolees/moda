@@ -10,8 +10,11 @@ author: ring
 slug: B07J2NN1HV
 description:
 actualPrice: 8.5 EUR
+currency: EUR
+price: 8.5
 comparePrice: 24.95 EUR
 inStock: true
+prodname: Boss Boxer Brief 24 Logo  Hombre  Azul  Bright Blue 430   Small
 ---
 
 Ahora mismo tienes [Boss Boxer Brief 24 Logo  Hombre  Azul  Bright Blue 430   Small](https://www.amazon.es/dp/B07J2NN1HV/?tag=tolees-21) a 8.5 EUR (original: 24.95 EUR) (65.93 %  de descuento) en el siguiente enlace!

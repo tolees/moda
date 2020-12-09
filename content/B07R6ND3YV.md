@@ -10,8 +10,11 @@ author: ring
 slug: B07R6ND3YV
 description:
 actualPrice: 83.45 EUR
+currency: EUR
+price: 83.45
 comparePrice: 179.99 EUR
 inStock: true
+prodname: O NEILL PW Halite Chaqueta Esqui Y Snowboard para Mujer  Verde  Forest Night   M
 ---
 
 Ahora mismo tienes [O NEILL PW Halite Chaqueta Esqui Y Snowboard para Mujer  Verde  Forest Night   M](https://www.amazon.es/dp/B07R6ND3YV/?tag=tolees-21) a 83.45 EUR (original: 179.99 EUR) (53.64 %  de descuento) en el siguiente enlace!

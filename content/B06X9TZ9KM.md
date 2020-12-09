@@ -10,8 +10,11 @@ author: ring
 slug: B06X9TZ9KM
 description:
 actualPrice: 10.14 EUR
+currency: EUR
+price: 10.14
 comparePrice: 24 EUR
 inStock: true
+prodname: FIND Sudadera Cuello Redondo con Volante para Mujer   Rosa  Old Rose   44  Talla del Fabricante: X-Large 
 ---
 
 Está [FIND Sudadera Cuello Redondo con Volante para Mujer   Rosa  Old Rose   44  Talla del Fabricante: X-Large ](https://www.amazon.es/dp/B06X9TZ9KM/?tag=tolees-21) con 57.75 de descuento por 10.14 EUR (original: 24 EUR) en el siguiente enlace!

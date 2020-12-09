@@ -10,8 +10,11 @@ author: ring
 slug: B07DL82WFW
 description:
 actualPrice: 12.91 EUR
+currency: EUR
+price: 12.91
 comparePrice: 17.99 EUR
 inStock: true
+prodname: Springfield Bimat. Print Tropical Lateral Camiseta  Mujer  Blanco  Blanco 99   Large  Tamaño del Fabricante:L 
 ---
 
 Tienes [Springfield Bimat. Print Tropical Lateral Camiseta  Mujer  Blanco  Blanco 99   Large  Tamaño del Fabricante:L ](https://www.amazon.es/dp/B07DL82WFW/?tag=tolees-21) con un 28.24 % de descuento con precio de oferta de 12.91 EUR (original: 17.99 EUR) en el siguiente enlace!

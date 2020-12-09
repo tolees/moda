@@ -10,8 +10,11 @@ author: ring
 slug: B07FHF56CX
 description:
 actualPrice: 34.99 EUR
+currency: EUR
+price: 34.99
 comparePrice: 80.0 EUR
 inStock: true
+prodname: Helly Hansen Moss Outdoor Chaqueta Impermeable  Hombre  Essential Yellow  XL
 ---
 
 Está [Helly Hansen Moss Outdoor Chaqueta Impermeable  Hombre  Essential Yellow  XL](https://www.amazon.es/dp/B07FHF56CX/?tag=tolees-21) con 56.26 de descuento por 34.99 EUR (original: 80.0 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07H9DQJPR
 description:
 actualPrice: 9.79 EUR
+currency: EUR
+price: 9.79
 comparePrice: 25 EUR
 inStock: true
+prodname: Lee Logo tee Plus Size Camiseta  Gris  Sharp Grey Mele 03   XXX-Large para Mujer
 ---
 
 Está [Lee Logo tee Plus Size Camiseta  Gris  Sharp Grey Mele 03   XXX-Large para Mujer](https://www.amazon.es/dp/B07H9DQJPR/?tag=tolees-21) con 60.84 de descuento por 9.79 EUR (original: 25 EUR) en el siguiente enlace!

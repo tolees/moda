@@ -10,8 +10,11 @@ author: ring
 slug: B07SBB86HS
 description:
 actualPrice: 9.99 EUR
+currency: EUR
+price: 9.99
 comparePrice: 19.99 EUR
 inStock: true
+prodname: Crocs Classic II Flip  Chanclas Unisex Adulto  Negro  Black 001   39/40 EU
 ---
 
 Tienes [Crocs Classic II Flip  Chanclas Unisex Adulto  Negro  Black 001   39/40 EU](https://www.amazon.es/dp/B07SBB86HS/?tag=tolees-21) con un 50.03 % de descuento con precio de oferta de 9.99 EUR (original: 19.99 EUR) en el siguiente enlace!

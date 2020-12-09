@@ -10,8 +10,11 @@ author: ring
 slug: B07FSS4NNB
 description:
 actualPrice: 10.37 EUR
+currency: EUR
+price: 10.37
 comparePrice: 25 EUR
 inStock: true
+prodname: Lee Logo tee  Camiseta para Mujer  Gris  Sharp Grey Mele 03   Small
 ---
 
 Ahora mismo tienes [Lee Logo tee  Camiseta para Mujer  Gris  Sharp Grey Mele 03   Small](https://www.amazon.es/dp/B07FSS4NNB/?tag=tolees-21) a 10.37 EUR (original: 25 EUR) (58.52 %  de descuento) en el siguiente enlace!

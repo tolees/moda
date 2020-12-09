@@ -10,8 +10,11 @@ author: ring
 slug: B078HG7ZMC
 description:
 actualPrice: 13.8 EUR
+currency: EUR
+price: 13.8
 comparePrice: 26.99 EUR
 inStock: true
+prodname: Springfield 6853439 Camisa   Gama Rosa/Morado    Tamaño del Fabricante:36  para Mujer
 ---
 
 Ahora mismo tienes [Springfield 6853439 Camisa   Gama Rosa/Morado    Tamaño del Fabricante:36  para Mujer](https://www.amazon.es/dp/B078HG7ZMC/?tag=tolees-21) a 13.8 EUR (original: 26.99 EUR) (48.87 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07SL25GFB
 description:
 actualPrice: 40.99 EUR
+currency: EUR
+price: 40.99
 comparePrice: 60.0 EUR
 inStock: true
+prodname: Vans MN Classic Crew II Sudadera  Gris  Cemento Heather-Black Ady   XS para Hombre
 ---
 
 Ahora mismo tienes [Vans MN Classic Crew II Sudadera  Gris  Cemento Heather-Black Ady   XS para Hombre](https://www.amazon.es/dp/B07SL25GFB/?tag=tolees-21) a 40.99 EUR (original: 60.0 EUR) (31.68 %  de descuento) en el siguiente enlace!

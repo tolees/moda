@@ -10,8 +10,11 @@ author: ring
 slug: B07MGX4DFW
 description:
 actualPrice: 47.66 EUR
+currency: EUR
+price: 47.66
 comparePrice: 129.95 EUR
 inStock: true
+prodname: G-STAR RAW 3301 Slim  Vaqueros para Hombre  Azul  Lt Aged Destroy 9136-1243   W33/L32
 ---
 
 Tienes [G-STAR RAW 3301 Slim  Vaqueros para Hombre  Azul  Lt Aged Destroy 9136-1243   W33/L32](https://www.amazon.es/dp/B07MGX4DFW/?tag=tolees-21) con un 63.32 % de descuento con precio de oferta de 47.66 EUR (original: 129.95 EUR) en el siguiente enlace!

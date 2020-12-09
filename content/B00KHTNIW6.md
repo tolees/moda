@@ -10,8 +10,11 @@ author: ring
 slug: B00KHTNIW6
 description:
 actualPrice: 17.5 EUR
+currency: EUR
+price: 17.5
 comparePrice: 35.0 EUR
 inStock: true
+prodname: Under Armour UA Heatgear Long Sleeve Camiseta De Manga Larga  Hombre  Negro  Black/Steel 001   M
 ---
 
 Está [Under Armour UA Heatgear Long Sleeve Camiseta De Manga Larga  Hombre  Negro  Black/Steel 001   M](https://www.amazon.es/dp/B00KHTNIW6/?tag=tolees-21) con 50.00 de descuento por 17.5 EUR (original: 35.0 EUR) en el siguiente enlace!

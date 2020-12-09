@@ -10,8 +10,11 @@ author: ring
 slug: B01N7PJXWP
 description:
 actualPrice: 8.86 EUR
+currency: EUR
+price: 8.86
 comparePrice: 59.95 EUR
 inStock: true
+prodname: Petrol Industries LS Camiseta de Manga Larga  Rojo  Sunset Pink   L para Hombre
 ---
 
 Está [Petrol Industries LS Camiseta de Manga Larga  Rojo  Sunset Pink   L para Hombre](https://www.amazon.es/dp/B01N7PJXWP/?tag=tolees-21) con 85.22 de descuento por 8.86 EUR (original: 59.95 EUR) en el siguiente enlace!

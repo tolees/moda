@@ -10,8 +10,11 @@ author: ring
 slug: B07VGP7Q3G
 description:
 actualPrice: 27.63 EUR
+currency: EUR
+price: 27.63
 comparePrice: 69.95 EUR
 inStock: true
+prodname: HUGO Elisha02 Camisa  Azul  Navy 413   46 para Hombre
 ---
 
 Tienes [HUGO Elisha02 Camisa  Azul  Navy 413   46 para Hombre](https://www.amazon.es/dp/B07VGP7Q3G/?tag=tolees-21) con un 60.50 % de descuento con precio de oferta de 27.63 EUR (original: 69.95 EUR) en el siguiente enlace!

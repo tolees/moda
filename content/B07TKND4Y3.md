@@ -10,8 +10,11 @@ author: ring
 slug: B07TKND4Y3
 description:
 actualPrice: 46.35 EUR
+currency: EUR
+price: 46.35
 comparePrice: 110.0 EUR
 inStock: true
+prodname: Clarks Atticus Cap  Zapatos de Cordones Derby Hombre  Beige  Dark Sand Suede Dark Sand Suede   45 EU
 ---
 
 Ahora mismo tienes [Clarks Atticus Cap  Zapatos de Cordones Derby Hombre  Beige  Dark Sand Suede Dark Sand Suede   45 EU](https://www.amazon.es/dp/B07TKND4Y3/?tag=tolees-21) a 46.35 EUR (original: 110.0 EUR) (57.86 %  de descuento) en el siguiente enlace!

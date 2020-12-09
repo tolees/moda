@@ -10,8 +10,11 @@ author: ring
 slug: B07K51GTKP
 description:
 actualPrice: 30.41 EUR
+currency: EUR
+price: 30.41
 comparePrice: 72.95 EUR
 inStock: true
+prodname: Levi s kids Nn15527 Sweat Shirt  Sudadera para Niñas  Gris  Light China Grey 22   16 años  Talla del Fabricante: 16Y 
 ---
 
 Tienes [Levi s kids Nn15527 Sweat Shirt  Sudadera para Niñas  Gris  Light China Grey 22   16 años  Talla del Fabricante: 16Y ](https://www.amazon.es/dp/B07K51GTKP/?tag=tolees-21) con un 58.31 % de descuento con precio de oferta de 30.41 EUR (original: 72.95 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07DNY8DRR
 description:
 actualPrice: 10.04 EUR
+currency: EUR
+price: 10.04
 comparePrice: 28.08 EUR
 inStock: true
+prodname: Emporio Armani Underwear 9p523 Boxer  Gris  Grigio Melange 00048   X-Large para Hombre
 ---
 
 Ahora mismo tienes [Emporio Armani Underwear 9p523 Boxer  Gris  Grigio Melange 00048   X-Large para Hombre](https://www.amazon.es/dp/B07DNY8DRR/?tag=tolees-21) a 10.04 EUR (original: 28.08 EUR) (64.25 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B008O5NKYG
 description:
 actualPrice: 12.1 EUR
+currency: EUR
+price: 12.1
 comparePrice: 84.95 EUR
 inStock: true
+prodname: James & Nicholson Steppweste Padded Light Weight  Chaleco para Hombre  Gris  Carbon/Orange    Talla del Fabricante: Small 
 ---
 
 Ahora mismo tienes [James & Nicholson Steppweste Padded Light Weight  Chaleco para Hombre  Gris  Carbon/Orange    Talla del Fabricante: Small ](https://www.amazon.es/dp/B008O5NKYG/?tag=tolees-21) a 12.1 EUR (original: 84.95 EUR) (85.76 %  de descuento) en el siguiente enlace!

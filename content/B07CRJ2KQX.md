@@ -10,8 +10,11 @@ author: ring
 slug: B07CRJ2KQX
 description:
 actualPrice: 44.95 EUR
+currency: EUR
+price: 44.95
 comparePrice: 75 EUR
 inStock: true
+prodname: Pepe Jeans Ander Sudadera    Grey Marl 933   Small para Hombre
 ---
 
 Ahora mismo tienes [Pepe Jeans Ander Sudadera    Grey Marl 933   Small para Hombre](https://www.amazon.es/dp/B07CRJ2KQX/?tag=tolees-21) a 44.95 EUR (original: 75 EUR) (40.07 %  de descuento) en el siguiente enlace!

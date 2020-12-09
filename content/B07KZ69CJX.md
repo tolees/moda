@@ -10,8 +10,11 @@ author: ring
 slug: B07KZ69CJX
 description:
 actualPrice: 18.5 EUR
+currency: EUR
+price: 18.5
 comparePrice: 39.99 EUR
 inStock: true
+prodname: Cortefiel C6K Popelin Blanco S-Gi Camisa de Vestir  Hombre  Blanco  Blanco 99   Small  Tamaño del Fabricante:S 
 ---
 
 Está [Cortefiel C6K Popelin Blanco S-Gi Camisa de Vestir  Hombre  Blanco  Blanco 99   Small  Tamaño del Fabricante:S ](https://www.amazon.es/dp/B07KZ69CJX/?tag=tolees-21) con 53.74 de descuento por 18.5 EUR (original: 39.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07FFH2ZRH
 description:
 actualPrice: 13.99 EUR
+currency: EUR
+price: 13.99
 comparePrice: 30.16 EUR
 inStock: true
+prodname: Pantalón Corto Deportivo para Mujer  Running Pantalones cortos de yoga con bolsillo lateral   Fitness Mallas Deportivas  Polainas de yoga Fitness  pantalones deportivos y elásticos polaina  Gris  L 
 ---
 
 Ahora mismo tienes [Pantalón Corto Deportivo para Mujer  Running Pantalones cortos de yoga con bolsillo lateral   Fitness Mallas Deportivas  Polainas de yoga Fitness  pantalones deportivos y elásticos polaina  Gris  L ](https://www.amazon.es/dp/B07FFH2ZRH/?tag=tolees-21) a 13.99 EUR (original: 30.16 EUR) (53.61 %  de descuento) en el siguiente enlace!

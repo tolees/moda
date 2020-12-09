@@ -10,8 +10,11 @@ author: ring
 slug: B07RH2Q8QS
 description:
 actualPrice: 26.05 EUR
+currency: EUR
+price: 26.05
 comparePrice: 99.95 EUR
 inStock: true
+prodname: G-STAR RAW Parota Boyfriend Blusa  Azul  Faded Indigo Destroyed B810-A949   Large para Mujer
 ---
 
 Tienes [G-STAR RAW Parota Boyfriend Blusa  Azul  Faded Indigo Destroyed B810-A949   Large para Mujer](https://www.amazon.es/dp/B07RH2Q8QS/?tag=tolees-21) con un 73.94 % de descuento con precio de oferta de 26.05 EUR (original: 99.95 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07B4RYWY7
 description:
 actualPrice: 24.5 EUR
+currency: EUR
+price: 24.5
 comparePrice: 35 EUR
 inStock: true
+prodname: G-Star Starkon R T S/s  Camiseta para Hombre  Negro  Dark Black  Small
 ---
 
 Tienes [G-Star Starkon R T S/s  Camiseta para Hombre  Negro  Dark Black  Small](https://www.amazon.es/dp/B07B4RYWY7/?tag=tolees-21) con un 30.00 % de descuento con precio de oferta de 24.5 EUR (original: 35 EUR) en el siguiente enlace!

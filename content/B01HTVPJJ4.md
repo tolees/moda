@@ -10,8 +10,11 @@ author: ring
 slug: B01HTVPJJ4
 description:
 actualPrice: 10.9 EUR
+currency: EUR
+price: 10.9
 comparePrice: 31 EUR
 inStock: true
+prodname: edc by ESPRIT 996CC2J904  sudadera Hombre  Azul  NAVY   Small
 ---
 
 Está [edc by ESPRIT 996CC2J904  sudadera Hombre  Azul  NAVY   Small](https://www.amazon.es/dp/B01HTVPJJ4/?tag=tolees-21) con 64.84 de descuento por 10.9 EUR (original: 31 EUR) en el siguiente enlace!

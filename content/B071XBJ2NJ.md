@@ -10,8 +10,11 @@ author: ring
 slug: B071XBJ2NJ
 description:
 actualPrice: 65.2 EUR
+currency: EUR
+price: 65.2
 comparePrice: 170 EUR
 inStock: true
+prodname: Volcom Wenson Chaqueta  Hombre  Cobre  M
 ---
 
 Ahora mismo tienes [Volcom Wenson Chaqueta  Hombre  Cobre  M](https://www.amazon.es/dp/B071XBJ2NJ/?tag=tolees-21) a 65.2 EUR (original: 170 EUR) (61.65 %  de descuento) en el siguiente enlace!

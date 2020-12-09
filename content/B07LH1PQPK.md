@@ -10,8 +10,11 @@ author: ring
 slug: B07LH1PQPK
 description:
 actualPrice: 15.95 EUR
+currency: EUR
+price: 15.95
 comparePrice: 30 EUR
 inStock: true
+prodname: The North Face S/S Flash T Camiseta  Hombre  Negro Black/TNF White  S
 ---
 
 Ahora mismo tienes [The North Face S/S Flash T Camiseta  Hombre  Negro Black/TNF White  S](https://www.amazon.es/dp/B07LH1PQPK/?tag=tolees-21) a 15.95 EUR (original: 30 EUR) (46.83 %  de descuento) en el siguiente enlace!

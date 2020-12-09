@@ -10,8 +10,11 @@ author: ring
 slug: B075L8LZNP
 description:
 actualPrice: 65 EUR
+currency: EUR
+price: 65
 comparePrice: 159 EUR
 inStock: true
+prodname: TEENO taladro sin cable 21V+2 baterías de iones de litio+41 accesorios + guantes profesionales
 ---
 
 Está [TEENO taladro sin cable 21V+2 baterías de iones de litio+41 accesorios + guantes profesionales](https://www.amazon.es/dp/B075L8LZNP/?tag=tolees-21) con 59.12 de descuento por 65 EUR (original: 159 EUR) en el siguiente enlace!

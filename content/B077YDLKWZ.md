@@ -10,8 +10,11 @@ author: ring
 slug: B077YDLKWZ
 description:
 actualPrice: 27.3 EUR
+currency: EUR
+price: 27.3
 comparePrice: 45.95 EUR
 inStock: true
+prodname: HIKARO Chaleco de Plumas con Capucha Hombre  Gris  Charcoal   48  Talla del fabricante: Small 
 ---
 
 Está [HIKARO Chaleco de Plumas con Capucha Hombre  Gris  Charcoal   48  Talla del fabricante: Small ](https://www.amazon.es/dp/B077YDLKWZ/?tag=tolees-21) con 40.59 de descuento por 27.3 EUR (original: 45.95 EUR) en el siguiente enlace!

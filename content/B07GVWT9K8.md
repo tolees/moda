@@ -10,8 +10,11 @@ author: ring
 slug: B07GVWT9K8
 description:
 actualPrice: 24.74 EUR
+currency: EUR
+price: 24.74
 comparePrice: 74.08 EUR
 inStock: true
+prodname: Burton Menswear London Red Two Tone Lightweight Hooded Padded Jacket  Chaqueta para Hombre  Rojo  XX-Large
 ---
 
 Tienes [Burton Menswear London Red Two Tone Lightweight Hooded Padded Jacket  Chaqueta para Hombre  Rojo  XX-Large](https://www.amazon.es/dp/B07GVWT9K8/?tag=tolees-21) con un 66.60 % de descuento con precio de oferta de 24.74 EUR (original: 74.08 EUR) en el siguiente enlace!

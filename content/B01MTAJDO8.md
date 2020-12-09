@@ -10,8 +10,11 @@ author: ring
 slug: B01MTAJDO8
 description:
 actualPrice: 8.26 EUR
+currency: EUR
+price: 8.26
 comparePrice: 29.99 EUR
 inStock: true
+prodname: Esprit 047ee1k032  Camiseta Mujer   Off White   38  Talla del Fabricante: Medium 
 ---
 
 Está [Esprit 047ee1k032  Camiseta Mujer   Off White   38  Talla del Fabricante: Medium ](https://www.amazon.es/dp/B01MTAJDO8/?tag=tolees-21) con 72.46 de descuento por 8.26 EUR (original: 29.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B06WWJ7D7V
 description:
 actualPrice: 14.31 EUR
+currency: EUR
+price: 14.31
 comparePrice: 39 EUR
 inStock: true
+prodname: Guess U77G43  Bóxer para Hombre  F017  XX-Large  Tamaño del Fabricante:XXL 
 ---
 
 Está [Guess U77G43  Bóxer para Hombre  F017  XX-Large  Tamaño del Fabricante:XXL ](https://www.amazon.es/dp/B06WWJ7D7V/?tag=tolees-21) con 63.31 de descuento por 14.31 EUR (original: 39 EUR) en el siguiente enlace!

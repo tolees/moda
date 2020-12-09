@@ -10,8 +10,11 @@ author: ring
 slug: B07HMXDMYC
 description:
 actualPrice: 26.99 EUR
+currency: EUR
+price: 26.99
 comparePrice: 45.99 EUR
 inStock: true
+prodname: NACATIN Gafas de Esquí 4 en 1  100% UV400 Protección Doble Lentes Esféricas  Antivahos  Respirables Anti-Viento con Diseño de OTG Gafas de Snowboard Desmontable para Esquí y Deportes de Invierno Azul
 ---
 
 Ahora mismo tienes [NACATIN Gafas de Esquí 4 en 1  100% UV400 Protección Doble Lentes Esféricas  Antivahos  Respirables Anti-Viento con Diseño de OTG Gafas de Snowboard Desmontable para Esquí y Deportes de Invierno Azul](https://www.amazon.es/dp/B07HMXDMYC/?tag=tolees-21) a 26.99 EUR (original: 45.99 EUR) (41.31 %  de descuento) en el siguiente enlace!

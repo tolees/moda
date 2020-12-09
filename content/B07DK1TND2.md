@@ -10,8 +10,11 @@ author: ring
 slug: B07DK1TND2
 description:
 actualPrice: 19.95 EUR
+currency: EUR
+price: 19.95
 comparePrice: 45 EUR
 inStock: true
+prodname: Geox J Kilwi Girl J  Bailarinas para Niñas  Azul  Avio/Silver C4138   30 EU
 ---
 
 Tienes [Geox J Kilwi Girl J  Bailarinas para Niñas  Azul  Avio/Silver C4138   30 EU](https://www.amazon.es/dp/B07DK1TND2/?tag=tolees-21) con un 55.67 % de descuento con precio de oferta de 19.95 EUR (original: 45 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07B94NHKZ
 description:
 actualPrice: 28.18 EUR
+currency: EUR
+price: 28.18
 comparePrice: 99.95 EUR
 inStock: true
+prodname: Clarks Laina RAE  Zapatos de Tacón para Mujer  Negro  Black Patent   37 EU
 ---
 
 Está [Clarks Laina RAE  Zapatos de Tacón para Mujer  Negro  Black Patent   37 EU](https://www.amazon.es/dp/B07B94NHKZ/?tag=tolees-21) con 71.81 de descuento por 28.18 EUR (original: 99.95 EUR) en el siguiente enlace!

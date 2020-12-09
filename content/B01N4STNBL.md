@@ -10,8 +10,11 @@ author: ring
 slug: B01N4STNBL
 description:
 actualPrice: 19.99 EUR
+currency: EUR
+price: 19.99
 comparePrice: 29.9 EUR
 inStock: true
+prodname: Tommy Hilfiger Logo Camiseta de Cuello Redondo Perfecta para El Tiempo Libre  Blanco  White   XL para Hombre
 ---
 
 Tienes [Tommy Hilfiger Logo Camiseta de Cuello Redondo Perfecta para El Tiempo Libre  Blanco  White   XL para Hombre](https://www.amazon.es/dp/B01N4STNBL/?tag=tolees-21) con un 33.14 % de descuento con precio de oferta de 19.99 EUR (original: 29.9 EUR) en el siguiente enlace!

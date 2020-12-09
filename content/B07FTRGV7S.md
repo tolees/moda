@@ -10,8 +10,11 @@ author: ring
 slug: B07FTRGV7S
 description:
 actualPrice: 13.09 EUR
+currency: EUR
+price: 13.09
 comparePrice: 99.95 EUR
 inStock: true
+prodname: Lee Elly Vaqueros Slim  Azul  Light Rugged GE   27W / 33L para Mujer
 ---
 
 Tienes [Lee Elly Vaqueros Slim  Azul  Light Rugged GE   27W / 33L para Mujer](https://www.amazon.es/dp/B07FTRGV7S/?tag=tolees-21) con un 86.90 % de descuento con precio de oferta de 13.09 EUR (original: 99.95 EUR) en el siguiente enlace!

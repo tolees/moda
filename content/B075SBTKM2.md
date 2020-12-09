@@ -10,8 +10,11 @@ author: ring
 slug: B075SBTKM2
 description:
 actualPrice: 14.48 EUR
+currency: EUR
+price: 14.48
 comparePrice: 39.99 EUR
 inStock: true
+prodname: Springfield 8232423 Chaqueta  Negro  Black   Tamaño del Fabricante:42 para Mujer
 ---
 
 Tienes [Springfield 8232423 Chaqueta  Negro  Black   Tamaño del Fabricante:42 para Mujer](https://www.amazon.es/dp/B075SBTKM2/?tag=tolees-21) con un 63.79 % de descuento con precio de oferta de 14.48 EUR (original: 39.99 EUR) en el siguiente enlace!

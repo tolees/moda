@@ -10,8 +10,11 @@ author: ring
 slug: B07JPFST22
 description:
 actualPrice: 25.15 EUR
+currency: EUR
+price: 25.15
 comparePrice: 75 EUR
 inStock: true
+prodname: Morgan 191-rmil.n  Vestido Fiesta Mujer para Negro Noir  Medium  Talla del Fabricante: TM 
 ---
 
 Tienes [Morgan 191-rmil.n  Vestido Fiesta Mujer para Negro Noir  Medium  Talla del Fabricante: TM ](https://www.amazon.es/dp/B07JPFST22/?tag=tolees-21) con un 66.47 % de descuento con precio de oferta de 25.15 EUR (original: 75 EUR) en el siguiente enlace!

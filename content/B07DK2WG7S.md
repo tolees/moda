@@ -10,8 +10,11 @@ author: ring
 slug: B07DK2WG7S
 description:
 actualPrice: 22.5 EUR
+currency: EUR
+price: 22.5
 comparePrice: 45 EUR
 inStock: true
+prodname: Geox Jr Plie  D  Bailarinas para Niñas  Navy C4002  30 EU
 ---
 
 Tienes [Geox Jr Plie  D  Bailarinas para Niñas  Navy C4002  30 EU](https://www.amazon.es/dp/B07DK2WG7S/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 22.5 EUR (original: 45 EUR) en el siguiente enlace!

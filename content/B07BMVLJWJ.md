@@ -10,8 +10,11 @@ author: ring
 slug: B07BMVLJWJ
 description:
 actualPrice: 19.99 EUR
+currency: EUR
+price: 19.99
 comparePrice: 39.99 EUR
 inStock: true
+prodname: MISS MOLY Mujer Blusa de Mangas Cortas y Dobladillo con Ribete Cintura impermeabilizada con Blusa de Gasa Rojo Vino - L
 ---
 
 Ahora mismo tienes [MISS MOLY Mujer Blusa de Mangas Cortas y Dobladillo con Ribete Cintura impermeabilizada con Blusa de Gasa Rojo Vino - L](https://www.amazon.es/dp/B07BMVLJWJ/?tag=tolees-21) a 19.99 EUR (original: 39.99 EUR) (50.01 %  de descuento) en el siguiente enlace!

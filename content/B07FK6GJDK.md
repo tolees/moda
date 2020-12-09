@@ -10,8 +10,11 @@ author: ring
 slug: B07FK6GJDK
 description:
 actualPrice: 7.66 EUR
+currency: EUR
+price: 7.66
 comparePrice: 19.99 EUR
 inStock: true
+prodname: Esprit Kids RM1023509  Camiseta para Niñas  Gris  Dark Heather Grey 201   170  Talla del Fabricante: X-Large 
 ---
 
 Está [Esprit Kids RM1023509  Camiseta para Niñas  Gris  Dark Heather Grey 201   170  Talla del Fabricante: X-Large ](https://www.amazon.es/dp/B07FK6GJDK/?tag=tolees-21) con 61.68 de descuento por 7.66 EUR (original: 19.99 EUR) en el siguiente enlace!

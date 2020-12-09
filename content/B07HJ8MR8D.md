@@ -10,8 +10,11 @@ author: ring
 slug: B07HJ8MR8D
 description:
 actualPrice: 16.73 EUR
+currency: EUR
+price: 16.73
 comparePrice: 39.9 EUR
 inStock: true
+prodname: Tommy Hilfiger Big Scale Relaxed Fit tee  Camiseta Hombre  Rojo  Haute Red 611   Medium
 ---
 
 Está [Tommy Hilfiger Big Scale Relaxed Fit tee  Camiseta Hombre  Rojo  Haute Red 611   Medium](https://www.amazon.es/dp/B07HJ8MR8D/?tag=tolees-21) con 58.07 de descuento por 16.73 EUR (original: 39.9 EUR) en el siguiente enlace!

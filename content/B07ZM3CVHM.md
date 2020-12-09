@@ -10,8 +10,11 @@ author: ring
 slug: B07ZM3CVHM
 description:
 actualPrice: 37.99 EUR
+currency: EUR
+price: 37.99
 comparePrice: 259.99 EUR
 inStock: true
+prodname: BERSIGAR Reloj Casual de Moda para Hombre  Reloj de Cuarzo analógico para Hombre Reloj de Pulsera para Hombre con cronógrafo Comercial
 ---
 
 Está [BERSIGAR Reloj Casual de Moda para Hombre  Reloj de Cuarzo analógico para Hombre Reloj de Pulsera para Hombre con cronógrafo Comercial](https://www.amazon.es/dp/B07ZM3CVHM/?tag=tolees-21) con 85.39 de descuento por 37.99 EUR (original: 259.99 EUR) en el siguiente enlace!

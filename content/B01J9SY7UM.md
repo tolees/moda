@@ -10,8 +10,11 @@ author: ring
 slug: B01J9SY7UM
 description:
 actualPrice: 110.5 EUR
+currency: EUR
+price: 110.5
 comparePrice: 220.32 EUR
 inStock: true
+prodname: HÄRVIST  Oslo - Abrigo de manga larga para hombre  color negro  talla M
 ---
 
 Está [HÄRVIST  Oslo - Abrigo de manga larga para hombre  color negro  talla M](https://www.amazon.es/dp/B01J9SY7UM/?tag=tolees-21) con 49.85 de descuento por 110.5 EUR (original: 220.32 EUR) en el siguiente enlace!

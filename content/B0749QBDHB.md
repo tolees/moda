@@ -10,8 +10,11 @@ author: ring
 slug: B0749QBDHB
 description:
 actualPrice: 11.71 EUR
+currency: EUR
+price: 11.71
 comparePrice: 27.44 EUR
 inStock: true
+prodname: Jane Klain 271 370  Zuecos para Mujer  Azul  Navy   40 EU
 ---
 
 Está [Jane Klain 271 370  Zuecos para Mujer  Azul  Navy   40 EU](https://www.amazon.es/dp/B0749QBDHB/?tag=tolees-21) con 57.33 de descuento por 11.71 EUR (original: 27.44 EUR) en el siguiente enlace!

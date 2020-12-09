@@ -10,8 +10,11 @@ author: ring
 slug: B01N6PGT1F
 description:
 actualPrice: 36.65 EUR
+currency: EUR
+price: 36.65
 comparePrice: 84 EUR
 inStock: true
+prodname: Geographical Norway Pantalón Deporte Doudoune Negro 2XL
 ---
 
 Está [Geographical Norway Pantalón Deporte Doudoune Negro 2XL](https://www.amazon.es/dp/B01N6PGT1F/?tag=tolees-21) con 56.37 de descuento por 36.65 EUR (original: 84 EUR) en el siguiente enlace!

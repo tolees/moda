@@ -10,8 +10,11 @@ author: ring
 slug: B071WS8YTN
 description:
 actualPrice: 20.95 EUR
+currency: EUR
+price: 20.95
 comparePrice: 34.96 EUR
 inStock: true
+prodname: Urban Classics Heavy Hooded Jacket  Chaqueta para Hombre  Blau  Navy 155   Small
 ---
 
 Tienes [Urban Classics Heavy Hooded Jacket  Chaqueta para Hombre  Blau  Navy 155   Small](https://www.amazon.es/dp/B071WS8YTN/?tag=tolees-21) con un 40.07 % de descuento con precio de oferta de 20.95 EUR (original: 34.96 EUR) en el siguiente enlace!

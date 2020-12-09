@@ -10,8 +10,11 @@ author: ring
 slug: B01AC6PRJK
 description:
 actualPrice: 13 EUR
+currency: EUR
+price: 13
 comparePrice: 21 EUR
 inStock: true
+prodname: Nike Park VI Camiseta de Manga Corta para hombre  Rojo  Team Rojo/Blanco   S
 ---
 
 Tienes [Nike Park VI Camiseta de Manga Corta para hombre  Rojo  Team Rojo/Blanco   S](https://www.amazon.es/dp/B01AC6PRJK/?tag=tolees-21) con un 38.10 % de descuento con precio de oferta de 13 EUR (original: 21 EUR) en el siguiente enlace!

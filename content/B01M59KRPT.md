@@ -10,8 +10,11 @@ author: ring
 slug: B01M59KRPT
 description:
 actualPrice: 46.16 EUR
+currency: EUR
+price: 46.16
 comparePrice: 99.9 EUR
 inStock: true
+prodname: Geox D Jaysen A  Zapatillas Mujer  Blanco  White   41 EU
 ---
 
 Tienes [Geox D Jaysen A  Zapatillas Mujer  Blanco  White   41 EU](https://www.amazon.es/dp/B01M59KRPT/?tag=tolees-21) con un 53.79 % de descuento con precio de oferta de 46.16 EUR (original: 99.9 EUR) en el siguiente enlace!

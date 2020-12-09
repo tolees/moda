@@ -10,8 +10,11 @@ author: ring
 slug: B07TPPJXD5
 description:
 actualPrice: 14.5 EUR
+currency: EUR
+price: 14.5
 comparePrice: 30.0 EUR
 inStock: true
+prodname: Levi s Housemark Graphic tee Camiseta  Green  Hm Ssnl Emb Aloe 0250   XX-Small para Hombre
 ---
 
 Está [Levi s Housemark Graphic tee Camiseta  Green  Hm Ssnl Emb Aloe 0250   XX-Small para Hombre](https://www.amazon.es/dp/B07TPPJXD5/?tag=tolees-21) con 51.67 de descuento por 14.5 EUR (original: 30.0 EUR) en el siguiente enlace!

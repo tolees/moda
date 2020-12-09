@@ -10,8 +10,11 @@ author: ring
 slug: B078SWXN9Y
 description:
 actualPrice: 60.73 EUR
+currency: EUR
+price: 60.73
 comparePrice: 140 EUR
 inStock: true
+prodname: Timberland Retro Runner  Zapatos de Cordones Oxford para Hombre  Marrón  Pure Cashmere Nubuck K51   41 EU
 ---
 
 Ahora mismo tienes [Timberland Retro Runner  Zapatos de Cordones Oxford para Hombre  Marrón  Pure Cashmere Nubuck K51   41 EU](https://www.amazon.es/dp/B078SWXN9Y/?tag=tolees-21) a 60.73 EUR (original: 140 EUR) (56.62 %  de descuento) en el siguiente enlace!

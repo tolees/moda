@@ -10,8 +10,11 @@ author: ring
 slug: B07CLPBKVL
 description:
 actualPrice: 22.37 EUR
+currency: EUR
+price: 22.37
 comparePrice: 49.95 EUR
 inStock: true
+prodname: CMP Fleece Knit Tech Sudadera Forro Polar  Mujer  Plateado  Silver/Asphalt   D38  S 
 ---
 
 Ahora mismo tienes [CMP Fleece Knit Tech Sudadera Forro Polar  Mujer  Plateado  Silver/Asphalt   D38  S ](https://www.amazon.es/dp/B07CLPBKVL/?tag=tolees-21) a 22.37 EUR (original: 49.95 EUR) (55.22 %  de descuento) en el siguiente enlace!

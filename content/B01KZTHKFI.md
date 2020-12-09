@@ -10,8 +10,11 @@ author: ring
 slug: B01KZTHKFI
 description:
 actualPrice: 5.58 EUR
+currency: EUR
+price: 5.58
 comparePrice: 17.8 EUR
 inStock: true
+prodname: Touchlines Yippie Ya Yeah Schweinbacke - Camiseta Hombre  Negro  Black 13   XX-Large
 ---
 
 Está [Touchlines Yippie Ya Yeah Schweinbacke - Camiseta Hombre  Negro  Black 13   XX-Large](https://www.amazon.es/dp/B01KZTHKFI/?tag=tolees-21) con 68.65 de descuento por 5.58 EUR (original: 17.8 EUR) en el siguiente enlace!

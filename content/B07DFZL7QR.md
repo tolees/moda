@@ -10,8 +10,11 @@ author: ring
 slug: B07DFZL7QR
 description:
 actualPrice: 16.73 EUR
+currency: EUR
+price: 16.73
 comparePrice: 49.99 EUR
 inStock: true
+prodname: Vero Moda Vmfreeze Brush Parka Noos  Mujer  Gris Peat  42  Talla del Fabricante: X-Large 
 ---
 
 Está [Vero Moda Vmfreeze Brush Parka Noos  Mujer  Gris Peat  42  Talla del Fabricante: X-Large ](https://www.amazon.es/dp/B07DFZL7QR/?tag=tolees-21) con 66.53 de descuento por 16.73 EUR (original: 49.99 EUR) en el siguiente enlace!

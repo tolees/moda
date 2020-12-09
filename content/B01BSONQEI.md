@@ -10,8 +10,11 @@ author: ring
 slug: B01BSONQEI
 description:
 actualPrice: 21.39 EUR
+currency: EUR
+price: 21.39
 comparePrice: 65 EUR
 inStock: true
+prodname: Geox J Casey N  Abarcas Niñas  Negro  BLACKC9999   31 EU
 ---
 
 Está [Geox J Casey N  Abarcas Niñas  Negro  BLACKC9999   31 EU](https://www.amazon.es/dp/B01BSONQEI/?tag=tolees-21) con 67.09 de descuento por 21.39 EUR (original: 65 EUR) en el siguiente enlace!

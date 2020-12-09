@@ -10,8 +10,11 @@ author: ring
 slug: B07X1QCZGF
 description:
 actualPrice: 34.99 EUR
+currency: EUR
+price: 34.99
 comparePrice: 69.99 EUR
 inStock: true
+prodname: Zapatillas de Running Hombre Zapatillas para Hombre Calzado Deportivo Ligero y Transpirable Asfalto Zapatos para Correr Antideslizante Sneakers Blanco 41EU
 ---
 
 Ahora mismo tienes [Zapatillas de Running Hombre Zapatillas para Hombre Calzado Deportivo Ligero y Transpirable Asfalto Zapatos para Correr Antideslizante Sneakers Blanco 41EU](https://www.amazon.es/dp/B07X1QCZGF/?tag=tolees-21) a 34.99 EUR (original: 69.99 EUR) (50.01 %  de descuento) en el siguiente enlace!

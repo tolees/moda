@@ -10,8 +10,11 @@ author: ring
 slug: B00ZRF2PU6
 description:
 actualPrice: 8.63 EUR
+currency: EUR
+price: 8.63
 comparePrice: 19 EUR
 inStock: true
+prodname: Joma 100159.700 - Camiseta de equipación de Manga Corta para Hombre  Color Azul Royal  Talla XS
 ---
 
 Ahora mismo tienes [Joma 100159.700 - Camiseta de equipación de Manga Corta para Hombre  Color Azul Royal  Talla XS](https://www.amazon.es/dp/B00ZRF2PU6/?tag=tolees-21) a 8.63 EUR (original: 19 EUR) (54.58 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B076NMYPLL
 description:
 actualPrice: 26.71 EUR
+currency: EUR
+price: 26.71
 comparePrice: 99.95 EUR
 inStock: true
+prodname: Lee Scarlett Vaqueros Skinny  Azul  Strummer Worn Kian   27W / 33L para Mujer
 ---
 
 Tienes [Lee Scarlett Vaqueros Skinny  Azul  Strummer Worn Kian   27W / 33L para Mujer](https://www.amazon.es/dp/B076NMYPLL/?tag=tolees-21) con un 73.28 % de descuento con precio de oferta de 26.71 EUR (original: 99.95 EUR) en el siguiente enlace!

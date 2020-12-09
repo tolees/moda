@@ -10,8 +10,11 @@ author: ring
 slug: B07QJ1MG3W
 description:
 actualPrice: 8 EUR
+currency: EUR
+price: 8
 comparePrice: 18.47 EUR
 inStock: true
+prodname: New Look Lina Stripe Camiseta  Blanco  White Pattern 19   44  Talla del Fabricante: 16  para Mujer
 ---
 
 Está [New Look Lina Stripe Camiseta  Blanco  White Pattern 19   44  Talla del Fabricante: 16  para Mujer](https://www.amazon.es/dp/B07QJ1MG3W/?tag=tolees-21) con 56.69 de descuento por 8 EUR (original: 18.47 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B079QCDNJ3
 description:
 actualPrice: 10.73 EUR
+currency: EUR
+price: 10.73
 comparePrice: 35.99 EUR
 inStock: true
+prodname: edc by Esprit 048cc1f024 Blusa   Light Blue 440   Large para Mujer
 ---
 
 Ahora mismo tienes [edc by Esprit 048cc1f024 Blusa   Light Blue 440   Large para Mujer](https://www.amazon.es/dp/B079QCDNJ3/?tag=tolees-21) a 10.73 EUR (original: 35.99 EUR) (70.19 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B01H6NY0IG
 description:
 actualPrice: 27.95 EUR
+currency: EUR
+price: 27.95
 comparePrice: 39.99 EUR
 inStock: true
+prodname: Crocs Swiftwater Wave M  Zapatos de Agua para Hombre  Negro  Black/Pearl White 069   45/46 EU
 ---
 
 Está [Crocs Swiftwater Wave M  Zapatos de Agua para Hombre  Negro  Black/Pearl White 069   45/46 EU](https://www.amazon.es/dp/B01H6NY0IG/?tag=tolees-21) con 30.11 de descuento por 27.95 EUR (original: 39.99 EUR) en el siguiente enlace!

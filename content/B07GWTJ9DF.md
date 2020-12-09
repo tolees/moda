@@ -10,8 +10,11 @@ author: ring
 slug: B07GWTJ9DF
 description:
 actualPrice: 10.33 EUR
+currency: EUR
+price: 10.33
 comparePrice: 21.99 EUR
 inStock: true
+prodname: Levi s Levis 200sf Triple Vintage Stripe Boxer Brief 2p  Bóxer Hombre   True Blue 420   Medium
 ---
 
 Ahora mismo tienes [Levi s Levis 200sf Triple Vintage Stripe Boxer Brief 2p  Bóxer Hombre   True Blue 420   Medium](https://www.amazon.es/dp/B07GWTJ9DF/?tag=tolees-21) a 10.33 EUR (original: 21.99 EUR) (53.02 %  de descuento) en el siguiente enlace!

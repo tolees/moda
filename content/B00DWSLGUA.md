@@ -10,8 +10,11 @@ author: ring
 slug: B00DWSLGUA
 description:
 actualPrice: 38.61 EUR
+currency: EUR
+price: 38.61
 comparePrice: 99.9 EUR
 inStock: true
+prodname: Geox Uomo Snake K  Zapatillas para Hombre  Beige  Beige/Dark Orange C0845   47 EU
 ---
 
 Ahora mismo tienes [Geox Uomo Snake K  Zapatillas para Hombre  Beige  Beige/Dark Orange C0845   47 EU](https://www.amazon.es/dp/B00DWSLGUA/?tag=tolees-21) a 38.61 EUR (original: 99.9 EUR) (61.35 %  de descuento) en el siguiente enlace!

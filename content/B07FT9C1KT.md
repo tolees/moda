@@ -10,8 +10,11 @@ author: ring
 slug: B07FT9C1KT
 description:
 actualPrice: 32.53 EUR
+currency: EUR
+price: 32.53
 comparePrice: 99.95 EUR
 inStock: true
+prodname: Lee Rider  Vaqueros slim Hombre  Gris  Grey Worn Wf   W29/L32
 ---
 
 Ahora mismo tienes [Lee Rider  Vaqueros slim Hombre  Gris  Grey Worn Wf   W29/L32](https://www.amazon.es/dp/B07FT9C1KT/?tag=tolees-21) a 32.53 EUR (original: 99.95 EUR) (67.45 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07FJVG5C7
 description:
 actualPrice: 35.95 EUR
+currency: EUR
+price: 35.95
 comparePrice: 89.95 EUR
 inStock: true
+prodname: Lee Luke Vaqueros Tapered  Negro  Black Worn TV   W34/L32  Talla del Fabricante: 32/34  para Hombre
 ---
 
 Tienes [Lee Luke Vaqueros Tapered  Negro  Black Worn TV   W34/L32  Talla del Fabricante: 32/34  para Hombre](https://www.amazon.es/dp/B07FJVG5C7/?tag=tolees-21) con un 60.03 % de descuento con precio de oferta de 35.95 EUR (original: 89.95 EUR) en el siguiente enlace!

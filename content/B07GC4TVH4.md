@@ -10,8 +10,11 @@ author: ring
 slug: B07GC4TVH4
 description:
 actualPrice: 21.11 EUR
+currency: EUR
+price: 21.11
 comparePrice: 99.99 EUR
 inStock: true
+prodname: Ulla Popken Longjacke Mit Kapuze Chaqueta  Negro  Schwarz 10   44  Talla del Fabricante: 42  para Mujer
 ---
 
 Está [Ulla Popken Longjacke Mit Kapuze Chaqueta  Negro  Schwarz 10   44  Talla del Fabricante: 42  para Mujer](https://www.amazon.es/dp/B07GC4TVH4/?tag=tolees-21) con 78.89 de descuento por 21.11 EUR (original: 99.99 EUR) en el siguiente enlace!

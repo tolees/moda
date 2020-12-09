@@ -10,8 +10,11 @@ author: ring
 slug: B07ZVPJBHC
 description:
 actualPrice: 42.4 EUR
+currency: EUR
+price: 42.4
 comparePrice: 120.0 EUR
 inStock: true
+prodname: Levi s Original Trucker Chaqueta  All Mine  M para Mujer
 ---
 
 Está [Levi s Original Trucker Chaqueta  All Mine  M para Mujer](https://www.amazon.es/dp/B07ZVPJBHC/?tag=tolees-21) con 64.67 de descuento por 42.4 EUR (original: 120.0 EUR) en el siguiente enlace!

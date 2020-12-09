@@ -10,8 +10,11 @@ author: ring
 slug: B01ERU9PCC
 description:
 actualPrice: 11.5 EUR
+currency: EUR
+price: 11.5
 comparePrice: 18.9 EUR
 inStock: true
+prodname: Joma Faraon Burdeos Med Sudadera  Hombre  S
 ---
 
 Tienes [Joma Faraon Burdeos Med Sudadera  Hombre  S](https://www.amazon.es/dp/B01ERU9PCC/?tag=tolees-21) con un 39.15 % de descuento con precio de oferta de 11.5 EUR (original: 18.9 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07FPNJNSH
 description:
 actualPrice: 7.79 EUR
+currency: EUR
+price: 7.79
 comparePrice: 12.99 EUR
 inStock: true
+prodname: JACK & JONES Jorphotoxmas tee SS Crew Neck  Camiseta para Hombre  Cloud Dancer  X-Large
 ---
 
 Está [JACK & JONES Jorphotoxmas tee SS Crew Neck  Camiseta para Hombre  Cloud Dancer  X-Large](https://www.amazon.es/dp/B07FPNJNSH/?tag=tolees-21) con 40.03 de descuento por 7.79 EUR (original: 12.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B00LMKLG2S
 description:
 actualPrice: 15.32 EUR
+currency: EUR
+price: 15.32
 comparePrice: 29.99 EUR
 inStock: true
+prodname: Quiksilver Carver Suede M Sndl Sandalias con Plataforma Plana  Hombre  Negro  Solid Black   42
 ---
 
 Tienes [Quiksilver Carver Suede M Sndl Sandalias con Plataforma Plana  Hombre  Negro  Solid Black   42](https://www.amazon.es/dp/B00LMKLG2S/?tag=tolees-21) con un 48.92 % de descuento con precio de oferta de 15.32 EUR (original: 29.99 EUR) en el siguiente enlace!

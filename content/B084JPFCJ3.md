@@ -10,8 +10,11 @@ author: ring
 slug: B084JPFCJ3
 description:
 actualPrice: 47.01 EUR
+currency: EUR
+price: 47.01
 comparePrice: 64.99 EUR
 inStock: true
+prodname: Columbia Silver Ridge 2.0 Camisa de Manga Larga  Hombre  Beige  Fossil   L
 ---
 
 Está [Columbia Silver Ridge 2.0 Camisa de Manga Larga  Hombre  Beige  Fossil   L](https://www.amazon.es/dp/B084JPFCJ3/?tag=tolees-21) con 27.67 de descuento por 47.01 EUR (original: 64.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07KYQMKJK
 description:
 actualPrice: 9.99 EUR
+currency: EUR
+price: 9.99
 comparePrice: 25.99 EUR
 inStock: true
+prodname: Springfield 490 C/Block Gg12 Jersey   Gama Azules 11   Medium  Tamaño del Fabricante:M  para Hombre
 ---
 
 Ahora mismo tienes [Springfield 490 C/Block Gg12 Jersey   Gama Azules 11   Medium  Tamaño del Fabricante:M  para Hombre](https://www.amazon.es/dp/B07KYQMKJK/?tag=tolees-21) a 9.99 EUR (original: 25.99 EUR) (61.56 %  de descuento) en el siguiente enlace!

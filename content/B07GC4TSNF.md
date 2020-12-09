@@ -10,8 +10,11 @@ author: ring
 slug: B07GC4TSNF
 description:
 actualPrice: 6.02 EUR
+currency: EUR
+price: 6.02
 comparePrice: 8.65 EUR
 inStock: true
+prodname: Marca Amazon - IRIS & LILLY Full Lace DD Sujetador para Mujer  Rosa  Pink Sand/Blush   95D  Label: 36D
 ---
 
 Está [Marca Amazon - IRIS & LILLY Full Lace DD Sujetador para Mujer  Rosa  Pink Sand/Blush   95D  Label: 36D](https://www.amazon.es/dp/B07GC4TSNF/?tag=tolees-21) con 30.40 de descuento por 6.02 EUR (original: 8.65 EUR) en el siguiente enlace!

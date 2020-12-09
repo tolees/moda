@@ -10,8 +10,11 @@ author: ring
 slug: B07D9D4ZZS
 description:
 actualPrice: 12.93 EUR
+currency: EUR
+price: 12.93
 comparePrice: 49.95 EUR
 inStock: true
+prodname: XTI 48495  Botines para Mujer  Negro Plomo  38 EU
 ---
 
 Tienes [XTI 48495  Botines para Mujer  Negro Plomo  38 EU](https://www.amazon.es/dp/B07D9D4ZZS/?tag=tolees-21) con un 74.11 % de descuento con precio de oferta de 12.93 EUR (original: 49.95 EUR) en el siguiente enlace!

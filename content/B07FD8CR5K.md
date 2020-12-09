@@ -10,8 +10,11 @@ author: ring
 slug: B07FD8CR5K
 description:
 actualPrice: 6.86 EUR
+currency: EUR
+price: 6.86
 comparePrice: 21.83 EUR
 inStock: true
+prodname: Marca Amazon - find. Soft Velvet Panel Capucha Mujer  Azul  Navy   44  Label: XL
 ---
 
 Tienes [Marca Amazon - find. Soft Velvet Panel Capucha Mujer  Azul  Navy   44  Label: XL](https://www.amazon.es/dp/B07FD8CR5K/?tag=tolees-21) con un 68.58 % de descuento con precio de oferta de 6.86 EUR (original: 21.83 EUR) en el siguiente enlace!

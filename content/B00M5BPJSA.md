@@ -10,8 +10,11 @@ author: ring
 slug: B00M5BPJSA
 description:
 actualPrice: 29.89 EUR
+currency: EUR
+price: 29.89
 comparePrice: 86 EUR
 inStock: true
+prodname: Nike Air MAX Infuriate 2 Mid  Zapatos de Baloncesto para Hombre   Anthracite/Metallic Gold/Black/White 002   40 EU
 ---
 
 Tienes [Nike Air MAX Infuriate 2 Mid  Zapatos de Baloncesto para Hombre   Anthracite/Metallic Gold/Black/White 002   40 EU](https://www.amazon.es/dp/B00M5BPJSA/?tag=tolees-21) con un 65.24 % de descuento con precio de oferta de 29.89 EUR (original: 86 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07FR3JL3Y
 description:
 actualPrice: 57.67 EUR
+currency: EUR
+price: 57.67
 comparePrice: 99.95 EUR
 inStock: true
+prodname: Clarks Edward Walk  Zapatos de Cordones Derby para Hombre  Marrón  Tan Leather-   42 EU
 ---
 
 Ahora mismo tienes [Clarks Edward Walk  Zapatos de Cordones Derby para Hombre  Marrón  Tan Leather-   42 EU](https://www.amazon.es/dp/B07FR3JL3Y/?tag=tolees-21) a 57.67 EUR (original: 99.95 EUR) (42.30 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B078GBDBFX
 description:
 actualPrice: 97.09 EUR
+currency: EUR
+price: 97.09
 comparePrice: 376 EUR
 inStock: true
+prodname: BOSS Casual Oriol-d  Chaqueta Hombre  Azul  Dark Blue 404   Large  Talla del Fabricante: 52 
 ---
 
 Está [BOSS Casual Oriol-d  Chaqueta Hombre  Azul  Dark Blue 404   Large  Talla del Fabricante: 52 ](https://www.amazon.es/dp/B078GBDBFX/?tag=tolees-21) con 74.18 de descuento por 97.09 EUR (original: 376 EUR) en el siguiente enlace!

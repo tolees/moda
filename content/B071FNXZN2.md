@@ -10,8 +10,11 @@ author: ring
 slug: B071FNXZN2
 description:
 actualPrice: 203.49 EUR
+currency: EUR
+price: 203.49
 comparePrice: 450.0 EUR
 inStock: true
+prodname: Helly Hansen Alpha 3.0 Chaqueta de esquí para Hombre con Cremallera  Bolsillo para preservar batería del móvil y Visera de Alta Visibilidad  Negro  L
 ---
 
 Está [Helly Hansen Alpha 3.0 Chaqueta de esquí para Hombre con Cremallera  Bolsillo para preservar batería del móvil y Visera de Alta Visibilidad  Negro  L](https://www.amazon.es/dp/B071FNXZN2/?tag=tolees-21) con 54.78 de descuento por 203.49 EUR (original: 450.0 EUR) en el siguiente enlace!

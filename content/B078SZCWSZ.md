@@ -10,8 +10,11 @@ author: ring
 slug: B078SZCWSZ
 description:
 actualPrice: 25.64 EUR
+currency: EUR
+price: 25.64
 comparePrice: 35.28 EUR
 inStock: true
+prodname: Marca Amazon - TRUTH & FABLE Vestido midi de gasa con bordado floral para mujer  Morado  Lilac   40  Label: M
 ---
 
 Tienes [Marca Amazon - TRUTH & FABLE Vestido midi de gasa con bordado floral para mujer  Morado  Lilac   40  Label: M](https://www.amazon.es/dp/B078SZCWSZ/?tag=tolees-21) con un 27.32 % de descuento con precio de oferta de 25.64 EUR (original: 35.28 EUR) en el siguiente enlace!

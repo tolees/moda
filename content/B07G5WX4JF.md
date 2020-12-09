@@ -10,8 +10,11 @@ author: ring
 slug: B07G5WX4JF
 description:
 actualPrice: 10.48 EUR
+currency: EUR
+price: 10.48
 comparePrice: 17.91 EUR
 inStock: true
+prodname: New Look Pack  Camiseta para Hombre  Azul  Navy  X-Large  Talla del Fabricante: 54 
 ---
 
 Está [New Look Pack  Camiseta para Hombre  Azul  Navy  X-Large  Talla del Fabricante: 54 ](https://www.amazon.es/dp/B07G5WX4JF/?tag=tolees-21) con 41.49 de descuento por 10.48 EUR (original: 17.91 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B06XNXNR1C
 description:
 actualPrice: 21.81 EUR
+currency: EUR
+price: 21.81
 comparePrice: 110 EUR
 inStock: true
+prodname: Pepe Jeans Piccadilly PL200388 Pantalones Vaqueros Bootcut  Azul  Broken Medium Destroy Ra0   30W / 34L para Mujer
 ---
 
 Está [Pepe Jeans Piccadilly PL200388 Pantalones Vaqueros Bootcut  Azul  Broken Medium Destroy Ra0   30W / 34L para Mujer](https://www.amazon.es/dp/B06XNXNR1C/?tag=tolees-21) con 80.17 de descuento por 21.81 EUR (original: 110 EUR) en el siguiente enlace!

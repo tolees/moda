@@ -10,8 +10,11 @@ author: ring
 slug: B073JLXMXD
 description:
 actualPrice: 8.41 EUR
+currency: EUR
+price: 8.41
 comparePrice: 13.26 EUR
 inStock: true
+prodname: Marca Amazon - find. Blusa de Lunares para Mujer  Blanco  Spotted Print   42  Label: L
 ---
 
 Está [Marca Amazon - find. Blusa de Lunares para Mujer  Blanco  Spotted Print   42  Label: L](https://www.amazon.es/dp/B073JLXMXD/?tag=tolees-21) con 36.58 de descuento por 8.41 EUR (original: 13.26 EUR) en el siguiente enlace!

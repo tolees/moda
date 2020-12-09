@@ -10,8 +10,11 @@ author: ring
 slug: B07S7GNY8Q
 description:
 actualPrice: 21.99 EUR
+currency: EUR
+price: 21.99
 comparePrice: 49.99 EUR
 inStock: true
+prodname: Aibrou Camisa Hombre Verano de Manga Corta de Algodón Camisas de Hombre Lino Casual 2019
 ---
 
 Está [Aibrou Camisa Hombre Verano de Manga Corta de Algodón Camisas de Hombre Lino Casual 2019](https://www.amazon.es/dp/B07S7GNY8Q/?tag=tolees-21) con 56.01 de descuento por 21.99 EUR (original: 49.99 EUR) en el siguiente enlace!

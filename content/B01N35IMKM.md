@@ -10,8 +10,11 @@ author: ring
 slug: B01N35IMKM
 description:
 actualPrice: 24.93 EUR
+currency: EUR
+price: 24.93
 comparePrice: 49.99 EUR
 inStock: true
+prodname: Esprit 047ee1e008  Vestido Mujer   Light Grey   38  Talla del Fabricante: Medium 
 ---
 
 Ahora mismo tienes [Esprit 047ee1e008  Vestido Mujer   Light Grey   38  Talla del Fabricante: Medium ](https://www.amazon.es/dp/B01N35IMKM/?tag=tolees-21) a 24.93 EUR (original: 49.99 EUR) (50.13 %  de descuento) en el siguiente enlace!

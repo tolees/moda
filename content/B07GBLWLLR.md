@@ -10,8 +10,11 @@ author: ring
 slug: B07GBLWLLR
 description:
 actualPrice: 19.95 EUR
+currency: EUR
+price: 19.95
 comparePrice: 32.56 EUR
 inStock: true
+prodname: Diesel T-Just-YL Maglietta Camiseta  Blanco  White 100   M para Hombre
 ---
 
 Tienes [Diesel T-Just-YL Maglietta Camiseta  Blanco  White 100   M para Hombre](https://www.amazon.es/dp/B07GBLWLLR/?tag=tolees-21) con un 38.73 % de descuento con precio de oferta de 19.95 EUR (original: 32.56 EUR) en el siguiente enlace!

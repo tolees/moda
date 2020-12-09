@@ -10,8 +10,11 @@ author: ring
 slug: B07DL9ZVN4
 description:
 actualPrice: 17.45 EUR
+currency: EUR
+price: 17.45
 comparePrice: 34.99 EUR
 inStock: true
+prodname: Women s Secret Ca Panda PJ  Conjuntos de Pijama para Mujer   Rosa 71   Medium  Tamaño del Fabricante:M 
 ---
 
 Tienes [Women s Secret Ca Panda PJ  Conjuntos de Pijama para Mujer   Rosa 71   Medium  Tamaño del Fabricante:M ](https://www.amazon.es/dp/B07DL9ZVN4/?tag=tolees-21) con un 50.13 % de descuento con precio de oferta de 17.45 EUR (original: 34.99 EUR) en el siguiente enlace!

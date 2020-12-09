@@ -10,8 +10,11 @@ author: ring
 slug: B01EVKA1LW
 description:
 actualPrice: 13.3 EUR
+currency: EUR
+price: 13.3
 comparePrice: 38.92 EUR
 inStock: true
+prodname: Kappa Milla Jersey  Zapatillas para Mujer  Gris  1610 Grey/White   37 EU
 ---
 
 Tienes [Kappa Milla Jersey  Zapatillas para Mujer  Gris  1610 Grey/White   37 EU](https://www.amazon.es/dp/B01EVKA1LW/?tag=tolees-21) con un 65.83 % de descuento con precio de oferta de 13.3 EUR (original: 38.92 EUR) en el siguiente enlace!

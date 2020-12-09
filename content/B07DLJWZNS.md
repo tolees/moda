@@ -10,8 +10,11 @@ author: ring
 slug: B07DLJWZNS
 description:
 actualPrice: 7.55 EUR
+currency: EUR
+price: 7.55
 comparePrice: 29.99 EUR
 inStock: true
+prodname: Springfield Frq Gingham Melange  Camisa Casual para Hombre   Gama Azules 12   Small  Tamaño del Fabricante:S 
 ---
 
 Tienes [Springfield Frq Gingham Melange  Camisa Casual para Hombre   Gama Azules 12   Small  Tamaño del Fabricante:S ](https://www.amazon.es/dp/B07DLJWZNS/?tag=tolees-21) con un 74.82 % de descuento con precio de oferta de 7.55 EUR (original: 29.99 EUR) en el siguiente enlace!

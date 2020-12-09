@@ -10,8 +10,11 @@ author: ring
 slug: B01F76OENK
 description:
 actualPrice: 9.49 EUR
+currency: EUR
+price: 9.49
 comparePrice: 12.95 EUR
 inStock: true
+prodname: VERO MODA VMMAXI MY LS SOFT LONG U-NECK NOOS  Camisa Manga Larga Mujer  Negro  Black   40  Talla del fabricante: Large 
 ---
 
 Está [VERO MODA VMMAXI MY LS SOFT LONG U-NECK NOOS  Camisa Manga Larga Mujer  Negro  Black   40  Talla del fabricante: Large ](https://www.amazon.es/dp/B01F76OENK/?tag=tolees-21) con 26.72 de descuento por 9.49 EUR (original: 12.95 EUR) en el siguiente enlace!

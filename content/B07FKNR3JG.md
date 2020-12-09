@@ -10,8 +10,11 @@ author: ring
 slug: B07FKNR3JG
 description:
 actualPrice: 11.07 EUR
+currency: EUR
+price: 11.07
 comparePrice: 19.99 EUR
 inStock: true
+prodname: O Neill FM Profile Logo Chanclas  Hombre  Asphalt  43
 ---
 
 Ahora mismo tienes [O Neill FM Profile Logo Chanclas  Hombre  Asphalt  43](https://www.amazon.es/dp/B07FKNR3JG/?tag=tolees-21) a 11.07 EUR (original: 19.99 EUR) (44.62 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07FJWQ7CX
 description:
 actualPrice: 35.95 EUR
+currency: EUR
+price: 35.95
 comparePrice: 89.95 EUR
 inStock: true
+prodname: Lee Daren Zip Fly  Vaqueros Straight para Hombre  Azul  Bolt Blue Dh  W33/L30  Talla del Fabricante: 30/33 
 ---
 
 Ahora mismo tienes [Lee Daren Zip Fly  Vaqueros Straight para Hombre  Azul  Bolt Blue Dh  W33/L30  Talla del Fabricante: 30/33 ](https://www.amazon.es/dp/B07FJWQ7CX/?tag=tolees-21) a 35.95 EUR (original: 89.95 EUR) (60.03 %  de descuento) en el siguiente enlace!

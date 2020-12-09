@@ -10,8 +10,11 @@ author: ring
 slug: B07KZ1JKC7
 description:
 actualPrice: 6.83 EUR
+currency: EUR
+price: 6.83
 comparePrice: 22.99 EUR
 inStock: true
+prodname: Springfield 6BA C S Diagonal Jersey   Gama Azules 11   Medium  Tamaño del Fabricante:M  para Hombre
 ---
 
 Está [Springfield 6BA C S Diagonal Jersey   Gama Azules 11   Medium  Tamaño del Fabricante:M  para Hombre](https://www.amazon.es/dp/B07KZ1JKC7/?tag=tolees-21) con 70.29 de descuento por 6.83 EUR (original: 22.99 EUR) en el siguiente enlace!

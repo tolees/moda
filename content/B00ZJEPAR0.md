@@ -10,8 +10,11 @@ author: ring
 slug: B00ZJEPAR0
 description:
 actualPrice: 45.45 EUR
+currency: EUR
+price: 45.45
 comparePrice: 69.9 EUR
 inStock: true
+prodname: Tommy Hilfiger Original Stretch Shirt Camisa  Azul  Lavender Lustre   M para Hombre
 ---
 
 Ahora mismo tienes [Tommy Hilfiger Original Stretch Shirt Camisa  Azul  Lavender Lustre   M para Hombre](https://www.amazon.es/dp/B00ZJEPAR0/?tag=tolees-21) a 45.45 EUR (original: 69.9 EUR) (34.98 %  de descuento) en el siguiente enlace!

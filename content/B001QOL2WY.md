@@ -10,8 +10,11 @@ author: ring
 slug: B001QOL2WY
 description:
 actualPrice: 58.35 EUR
+currency: EUR
+price: 58.35
 comparePrice: 90.0 EUR
 inStock: true
+prodname: Levi s 501 Original Fit- Vaqueros para hombre  Azul  Onewash 101   W34/L30
 ---
 
 Está [Levi s 501 Original Fit- Vaqueros para hombre  Azul  Onewash 101   W34/L30](https://www.amazon.es/dp/B001QOL2WY/?tag=tolees-21) con 35.17 de descuento por 58.35 EUR (original: 90.0 EUR) en el siguiente enlace!

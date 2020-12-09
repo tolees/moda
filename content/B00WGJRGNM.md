@@ -10,8 +10,11 @@ author: ring
 slug: B00WGJRGNM
 description:
 actualPrice: 8.07 EUR
+currency: EUR
+price: 8.07
 comparePrice: 27.2 EUR
 inStock: true
+prodname: Trutex 2PK LS Non Iron Shirt  Camisa Niños  Oro  Gold   16+ Años  talla fabricante: 16" cuello 
 ---
 
 Está [Trutex 2PK LS Non Iron Shirt  Camisa Niños  Oro  Gold   16+ Años  talla fabricante: 16" cuello ](https://www.amazon.es/dp/B00WGJRGNM/?tag=tolees-21) con 70.33 de descuento por 8.07 EUR (original: 27.2 EUR) en el siguiente enlace!

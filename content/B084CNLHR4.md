@@ -10,8 +10,11 @@ author: ring
 slug: B084CNLHR4
 description:
 actualPrice: 23.57 EUR
+currency: EUR
+price: 23.57
 comparePrice: 39.99 EUR
 inStock: true
+prodname: HAWKERS · KARAT CLEAR BLUE LAX · Karat · Clear blue · Gafas de sol para hombre y mujer
 ---
 
 Ahora mismo tienes [HAWKERS · KARAT CLEAR BLUE LAX · Karat · Clear blue · Gafas de sol para hombre y mujer](https://www.amazon.es/dp/B084CNLHR4/?tag=tolees-21) a 23.57 EUR (original: 39.99 EUR) (41.06 %  de descuento) en el siguiente enlace!

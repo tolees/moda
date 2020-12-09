@@ -10,8 +10,11 @@ author: ring
 slug: B07JZJY4QR
 description:
 actualPrice: 10.88 EUR
+currency: EUR
+price: 10.88
 comparePrice: 29.95 EUR
 inStock: true
+prodname: adidas Striped 19 JSY Camiseta de Manga Corta  Hombre  Power Red/White  5-6Y
 ---
 
 Tienes [adidas Striped 19 JSY Camiseta de Manga Corta  Hombre  Power Red/White  5-6Y](https://www.amazon.es/dp/B07JZJY4QR/?tag=tolees-21) con un 63.67 % de descuento con precio de oferta de 10.88 EUR (original: 29.95 EUR) en el siguiente enlace!

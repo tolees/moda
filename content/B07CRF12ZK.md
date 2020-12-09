@@ -10,8 +10,11 @@ author: ring
 slug: B07CRF12ZK
 description:
 actualPrice: 16.11 EUR
+currency: EUR
+price: 16.11
 comparePrice: 75 EUR
 inStock: true
+prodname: Pepe Jeans Gracy Sudadera  Naranja  Lt Peach   Medium para Mujer
 ---
 
 Tienes [Pepe Jeans Gracy Sudadera  Naranja  Lt Peach   Medium para Mujer](https://www.amazon.es/dp/B07CRF12ZK/?tag=tolees-21) con un 78.52 % de descuento con precio de oferta de 16.11 EUR (original: 75 EUR) en el siguiente enlace!

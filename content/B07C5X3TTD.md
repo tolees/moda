@@ -10,8 +10,11 @@ author: ring
 slug: B07C5X3TTD
 description:
 actualPrice: 17.99 EUR
+currency: EUR
+price: 17.99
 comparePrice: 29.99 EUR
 inStock: true
+prodname: Jack & Jones Jjeholmen Sweat Zip Hood Noos Sudadera  Negro  Black   X-Small para Hombre
 ---
 
 Ahora mismo tienes [Jack & Jones Jjeholmen Sweat Zip Hood Noos Sudadera  Negro  Black   X-Small para Hombre](https://www.amazon.es/dp/B07C5X3TTD/?tag=tolees-21) a 17.99 EUR (original: 29.99 EUR) (40.01 %  de descuento) en el siguiente enlace!

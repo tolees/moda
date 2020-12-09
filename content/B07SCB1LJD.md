@@ -10,8 +10,11 @@ author: ring
 slug: B07SCB1LJD
 description:
 actualPrice: 14.99 EUR
+currency: EUR
+price: 14.99
 comparePrice: 25.0 EUR
 inStock: true
+prodname: Levi s June L S  Chanclas para Mujer  Rosa  Light Pink 81   36 EU
 ---
 
 Tienes [Levi s June L S  Chanclas para Mujer  Rosa  Light Pink 81   36 EU](https://www.amazon.es/dp/B07SCB1LJD/?tag=tolees-21) con un 40.04 % de descuento con precio de oferta de 14.99 EUR (original: 25.0 EUR) en el siguiente enlace!

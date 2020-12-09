@@ -10,8 +10,11 @@ author: ring
 slug: B06XDHND2W
 description:
 actualPrice: 23.36 EUR
+currency: EUR
+price: 23.36
 comparePrice: 72 EUR
 inStock: true
+prodname: Wrangler Western Shirt  Camisa para Hombre  Azul  Heritage Blue T3   Medium
 ---
 
 Ahora mismo tienes [Wrangler Western Shirt  Camisa para Hombre  Azul  Heritage Blue T3   Medium](https://www.amazon.es/dp/B06XDHND2W/?tag=tolees-21) a 23.36 EUR (original: 72 EUR) (67.56 %  de descuento) en el siguiente enlace!

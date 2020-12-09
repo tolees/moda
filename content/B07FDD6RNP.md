@@ -10,8 +10,11 @@ author: ring
 slug: B07FDD6RNP
 description:
 actualPrice: 9.18 EUR
+currency: EUR
+price: 9.18
 comparePrice: 29.99 EUR
 inStock: true
+prodname: Pimkie Crw18 Middleboots  Botines para Mujer  Marrón  Camel 747A07   38 EU
 ---
 
 Ahora mismo tienes [Pimkie Crw18 Middleboots  Botines para Mujer  Marrón  Camel 747A07   38 EU](https://www.amazon.es/dp/B07FDD6RNP/?tag=tolees-21) a 9.18 EUR (original: 29.99 EUR) (69.39 %  de descuento) en el siguiente enlace!

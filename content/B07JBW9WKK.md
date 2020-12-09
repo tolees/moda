@@ -10,8 +10,11 @@ author: ring
 slug: B07JBW9WKK
 description:
 actualPrice: 44.37 EUR
+currency: EUR
+price: 44.37
 comparePrice: 209 EUR
 inStock: true
+prodname: Geox W Jaysen  Chaqueta Mujer  Azul  Blue Nights/Saf. Bei F4468   40  Talla fabricante: 34 
 ---
 
 Está [Geox W Jaysen  Chaqueta Mujer  Azul  Blue Nights/Saf. Bei F4468   40  Talla fabricante: 34 ](https://www.amazon.es/dp/B07JBW9WKK/?tag=tolees-21) con 78.77 de descuento por 44.37 EUR (original: 209 EUR) en el siguiente enlace!

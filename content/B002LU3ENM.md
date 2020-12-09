@@ -10,8 +10,11 @@ author: ring
 slug: B002LU3ENM
 description:
 actualPrice: 46.45 EUR
+currency: EUR
+price: 46.45
 comparePrice: 89.0 EUR
 inStock: true
+prodname: Lacoste L1212 Camiseta Polo  Rojo  Bordeaux   M para Hombre
 ---
 
 Ahora mismo tienes [Lacoste L1212 Camiseta Polo  Rojo  Bordeaux   M para Hombre](https://www.amazon.es/dp/B002LU3ENM/?tag=tolees-21) a 46.45 EUR (original: 89.0 EUR) (47.81 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B012ARNONA
 description:
 actualPrice: 75.69 EUR
+currency: EUR
+price: 75.69
 comparePrice: 235 EUR
 inStock: true
+prodname: Pedro del Hierro Vestido Azul Tinta ES 44
 ---
 
 Ahora mismo tienes [Pedro del Hierro Vestido Azul Tinta ES 44](https://www.amazon.es/dp/B012ARNONA/?tag=tolees-21) a 75.69 EUR (original: 235 EUR) (67.79 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07GDJ9YNG
 description:
 actualPrice: 17.45 EUR
+currency: EUR
+price: 17.45
 comparePrice: 25 EUR
 inStock: true
+prodname: Levi s Housemark Graphic tee Camiseta  Gris  Hm Ssnl Tech Charcoal Grey Htr 0154   Small para Hombre
 ---
 
 Ahora mismo tienes [Levi s Housemark Graphic tee Camiseta  Gris  Hm Ssnl Tech Charcoal Grey Htr 0154   Small para Hombre](https://www.amazon.es/dp/B07GDJ9YNG/?tag=tolees-21) a 17.45 EUR (original: 25 EUR) (30.20 %  de descuento) en el siguiente enlace!

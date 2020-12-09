@@ -10,8 +10,11 @@ author: ring
 slug: B00LB5YGF8
 description:
 actualPrice: 33.7 EUR
+currency: EUR
+price: 33.7
 comparePrice: 47.95 EUR
 inStock: true
+prodname: Levi s Sweater Sudadera con Capucha  Blau  Navy 04   164  Herstellergröße: 14A  para Niños
 ---
 
 Está [Levi s Sweater Sudadera con Capucha  Blau  Navy 04   164  Herstellergröße: 14A  para Niños](https://www.amazon.es/dp/B00LB5YGF8/?tag=tolees-21) con 29.72 de descuento por 33.7 EUR (original: 47.95 EUR) en el siguiente enlace!

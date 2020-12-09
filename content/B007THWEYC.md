@@ -10,8 +10,11 @@ author: ring
 slug: B007THWEYC
 description:
 actualPrice: 23.95 EUR
+currency: EUR
+price: 23.95
 comparePrice: 36.5 EUR
 inStock: true
+prodname: Seac RAA Long EVO Camiseta para Snorkeling y Natación con Protección UV  Unisex  Azul Claro  XXL
 ---
 
 Está [Seac RAA Long EVO Camiseta para Snorkeling y Natación con Protección UV  Unisex  Azul Claro  XXL](https://www.amazon.es/dp/B007THWEYC/?tag=tolees-21) con 34.38 de descuento por 23.95 EUR (original: 36.5 EUR) en el siguiente enlace!

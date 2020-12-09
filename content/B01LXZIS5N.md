@@ -10,8 +10,11 @@ author: ring
 slug: B01LXZIS5N
 description:
 actualPrice: 85.99 EUR
+currency: EUR
+price: 85.99
 comparePrice: 125.28 EUR
 inStock: true
+prodname: Timberland Killington Half Cab  Zapatillas para Hombre  Gris Dark Grey Full Grain  40 EU
 ---
 
 Ahora mismo tienes [Timberland Killington Half Cab  Zapatillas para Hombre  Gris Dark Grey Full Grain  40 EU](https://www.amazon.es/dp/B01LXZIS5N/?tag=tolees-21) a 85.99 EUR (original: 125.28 EUR) (31.36 %  de descuento) en el siguiente enlace!

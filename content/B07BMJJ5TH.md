@@ -10,8 +10,11 @@ author: ring
 slug: B07BMJJ5TH
 description:
 actualPrice: 19.65 EUR
+currency: EUR
+price: 19.65
 comparePrice: 129.95 EUR
 inStock: true
+prodname: G-STAR RAW Shape High Waist Super Skinny Vaqueros  Azul  Rinsed 9425-082   23W / 30L para Mujer
 ---
 
 Ahora mismo tienes [G-STAR RAW Shape High Waist Super Skinny Vaqueros  Azul  Rinsed 9425-082   23W / 30L para Mujer](https://www.amazon.es/dp/B07BMJJ5TH/?tag=tolees-21) a 19.65 EUR (original: 129.95 EUR) (84.88 %  de descuento) en el siguiente enlace!

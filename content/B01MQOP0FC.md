@@ -10,8 +10,11 @@ author: ring
 slug: B01MQOP0FC
 description:
 actualPrice: 64.45 EUR
+currency: EUR
+price: 64.45
 comparePrice: 94 EUR
 inStock: true
+prodname: Lacoste L1212 Camiseta Polo  Rojo  Rouge 240   5XL  Talla del fabricante: 10  para Hombre
 ---
 
 Ahora mismo tienes [Lacoste L1212 Camiseta Polo  Rojo  Rouge 240   5XL  Talla del fabricante: 10  para Hombre](https://www.amazon.es/dp/B01MQOP0FC/?tag=tolees-21) a 64.45 EUR (original: 94 EUR) (31.44 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07FWGNZJD
 description:
 actualPrice: 40.83 EUR
+currency: EUR
+price: 40.83
 comparePrice: 199.99 EUR
 inStock: true
+prodname: JACK & JONES Jcosnowfox Jacket Noos  Chaqueta para Hombre  Gris Dark Grey Melange  Small
 ---
 
 Está [JACK & JONES Jcosnowfox Jacket Noos  Chaqueta para Hombre  Gris Dark Grey Melange  Small](https://www.amazon.es/dp/B07FWGNZJD/?tag=tolees-21) con 79.58 de descuento por 40.83 EUR (original: 199.99 EUR) en el siguiente enlace!

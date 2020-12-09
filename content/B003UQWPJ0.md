@@ -10,8 +10,11 @@ author: ring
 slug: B003UQWPJ0
 description:
 actualPrice: 9.97 EUR
+currency: EUR
+price: 9.97
 comparePrice: 19.95 EUR
 inStock: true
+prodname: adidas Duramo Slide  Chanclas Unisex Adulto  Negro  Black/White/Black   47 EU
 ---
 
 Tienes [adidas Duramo Slide  Chanclas Unisex Adulto  Negro  Black/White/Black   47 EU](https://www.amazon.es/dp/B003UQWPJ0/?tag=tolees-21) con un 50.03 % de descuento con precio de oferta de 9.97 EUR (original: 19.95 EUR) en el siguiente enlace!

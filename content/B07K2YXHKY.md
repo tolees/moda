@@ -10,8 +10,11 @@ author: ring
 slug: B07K2YXHKY
 description:
 actualPrice: 38.31 EUR
+currency: EUR
+price: 38.31
 comparePrice: 55 EUR
 inStock: true
+prodname: Hurley - Sudadera con capucha para hombre  Negro  talla M "M Surf Check One & Only"
 ---
 
 Ahora mismo tienes [Hurley - Sudadera con capucha para hombre  Negro  talla M "M Surf Check One & Only"](https://www.amazon.es/dp/B07K2YXHKY/?tag=tolees-21) a 38.31 EUR (original: 55 EUR) (30.35 %  de descuento) en el siguiente enlace!

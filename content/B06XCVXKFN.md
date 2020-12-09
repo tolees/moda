@@ -10,8 +10,11 @@ author: ring
 slug: B06XCVXKFN
 description:
 actualPrice: 19.68 EUR
+currency: EUR
+price: 19.68
 comparePrice: 49.99 EUR
 inStock: true
+prodname: Cortefiel 6717381  Vestido para Mujer  Azul  L
 ---
 
 Tienes [Cortefiel 6717381  Vestido para Mujer  Azul  L](https://www.amazon.es/dp/B06XCVXKFN/?tag=tolees-21) con un 60.63 % de descuento con precio de oferta de 19.68 EUR (original: 49.99 EUR) en el siguiente enlace!

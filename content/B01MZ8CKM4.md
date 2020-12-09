@@ -10,8 +10,11 @@ author: ring
 slug: B01MZ8CKM4
 description:
 actualPrice: 40.52 EUR
+currency: EUR
+price: 40.52
 comparePrice: 84 EUR
 inStock: true
+prodname: Geographical Norway Pantalón Deporte Doudoune Burdeos XL
 ---
 
 Tienes [Geographical Norway Pantalón Deporte Doudoune Burdeos XL](https://www.amazon.es/dp/B01MZ8CKM4/?tag=tolees-21) con un 51.76 % de descuento con precio de oferta de 40.52 EUR (original: 84 EUR) en el siguiente enlace!

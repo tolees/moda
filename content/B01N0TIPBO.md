@@ -10,8 +10,11 @@ author: ring
 slug: B01N0TIPBO
 description:
 actualPrice: 11.95 EUR
+currency: EUR
+price: 11.95
 comparePrice: 19.95 EUR
 inStock: true
+prodname: adidas Squad 17 Sho Pantalón Corto  Hombre  Verde  Verfue / Blanco   3XL
 ---
 
 Ahora mismo tienes [adidas Squad 17 Sho Pantalón Corto  Hombre  Verde  Verfue / Blanco   3XL](https://www.amazon.es/dp/B01N0TIPBO/?tag=tolees-21) a 11.95 EUR (original: 19.95 EUR) (40.10 %  de descuento) en el siguiente enlace!

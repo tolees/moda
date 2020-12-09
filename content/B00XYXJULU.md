@@ -10,8 +10,11 @@ author: ring
 slug: B00XYXJULU
 description:
 actualPrice: 12.93 EUR
+currency: EUR
+price: 12.93
 comparePrice: 140 EUR
 inStock: true
+prodname: Tantra Strap Sandals with Beads - Sandalias para Mujer  Color Verde  Talla 39
 ---
 
 Ahora mismo tienes [Tantra Strap Sandals with Beads - Sandalias para Mujer  Color Verde  Talla 39](https://www.amazon.es/dp/B00XYXJULU/?tag=tolees-21) a 12.93 EUR (original: 140 EUR) (90.76 %  de descuento) en el siguiente enlace!

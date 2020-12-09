@@ -10,8 +10,11 @@ author: ring
 slug: B077P4WWTS
 description:
 actualPrice: 13.72 EUR
+currency: EUR
+price: 13.72
 comparePrice: 89.95 EUR
 inStock: true
+prodname: Lee Scarlett Vaqueros Skinny  Gris  Stone Grey Lcao   W24/L33  Talla del Fabricante: 24/33  para Mujer
 ---
 
 Ahora mismo tienes [Lee Scarlett Vaqueros Skinny  Gris  Stone Grey Lcao   W24/L33  Talla del Fabricante: 24/33  para Mujer](https://www.amazon.es/dp/B077P4WWTS/?tag=tolees-21) a 13.72 EUR (original: 89.95 EUR) (84.75 %  de descuento) en el siguiente enlace!

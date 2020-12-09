@@ -10,8 +10,11 @@ author: ring
 slug: B0825PFXSF
 description:
 actualPrice: 59.79 EUR
+currency: EUR
+price: 59.79
 comparePrice: 119.9 EUR
 inStock: true
+prodname: Geox U GRECALE A  Zapatillas Hombre  Mimetic  40 EU
 ---
 
 Ahora mismo tienes [Geox U GRECALE A  Zapatillas Hombre  Mimetic  40 EU](https://www.amazon.es/dp/B0825PFXSF/?tag=tolees-21) a 59.79 EUR (original: 119.9 EUR) (50.13 %  de descuento) en el siguiente enlace!

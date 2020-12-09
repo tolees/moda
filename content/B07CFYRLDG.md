@@ -10,8 +10,11 @@ author: ring
 slug: B07CFYRLDG
 description:
 actualPrice: 47.77 EUR
+currency: EUR
+price: 47.77
 comparePrice: 130 EUR
 inStock: true
+prodname: Love Moschino Short Sleeve T-Shirt with Eye  Mouth and Love Camiseta  Rosa  Pink L75   34  Talla del Fabricante: 40  para Mujer
 ---
 
 Tienes [Love Moschino Short Sleeve T-Shirt with Eye  Mouth and Love Camiseta  Rosa  Pink L75   34  Talla del Fabricante: 40  para Mujer](https://www.amazon.es/dp/B07CFYRLDG/?tag=tolees-21) con un 63.25 % de descuento con precio de oferta de 47.77 EUR (original: 130 EUR) en el siguiente enlace!

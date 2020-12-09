@@ -10,8 +10,11 @@ author: ring
 slug: B071LQNTYL
 description:
 actualPrice: 17.13 EUR
+currency: EUR
+price: 17.13
 comparePrice: 59.95 EUR
 inStock: true
+prodname: Puma BVB Poly Camiseta de equipación  Hombre   Blanco/Plata Cat   XL
 ---
 
 Tienes [Puma BVB Poly Camiseta de equipación  Hombre   Blanco/Plata Cat   XL](https://www.amazon.es/dp/B071LQNTYL/?tag=tolees-21) con un 71.43 % de descuento con precio de oferta de 17.13 EUR (original: 59.95 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07JL5YCC4
 description:
 actualPrice: 16.99 EUR
+currency: EUR
+price: 16.99
 comparePrice: 39.95 EUR
 inStock: true
+prodname: Refresh 69724  Sandalias con Plataforma para Mujer  Rosa Nude  39 EU
 ---
 
 Tienes [Refresh 69724  Sandalias con Plataforma para Mujer  Rosa Nude  39 EU](https://www.amazon.es/dp/B07JL5YCC4/?tag=tolees-21) con un 57.47 % de descuento con precio de oferta de 16.99 EUR (original: 39.95 EUR) en el siguiente enlace!

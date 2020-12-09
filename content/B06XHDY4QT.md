@@ -10,8 +10,11 @@ author: ring
 slug: B06XHDY4QT
 description:
 actualPrice: 54.13 EUR
+currency: EUR
+price: 54.13
 comparePrice: 200 EUR
 inStock: true
+prodname: Helly Hansen W Blume Chaqueta  Mujer   Verde Oscuro   Medium  Tamaño del Fabricante:M 
 ---
 
 Ahora mismo tienes [Helly Hansen W Blume Chaqueta  Mujer   Verde Oscuro   Medium  Tamaño del Fabricante:M ](https://www.amazon.es/dp/B06XHDY4QT/?tag=tolees-21) a 54.13 EUR (original: 200 EUR) (72.93 %  de descuento) en el siguiente enlace!

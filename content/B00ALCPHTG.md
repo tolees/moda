@@ -10,8 +10,11 @@ author: ring
 slug: B00ALCPHTG
 description:
 actualPrice: 67.95 EUR
+currency: EUR
+price: 67.95
 comparePrice: 120 EUR
 inStock: true
+prodname: Diesel Herren Jeanshose  Larkee - Vaqueros para hombre  color azul  talla W30/L32
 ---
 
 Tienes [Diesel Herren Jeanshose  Larkee - Vaqueros para hombre  color azul  talla W30/L32](https://www.amazon.es/dp/B00ALCPHTG/?tag=tolees-21) con un 43.38 % de descuento con precio de oferta de 67.95 EUR (original: 120 EUR) en el siguiente enlace!

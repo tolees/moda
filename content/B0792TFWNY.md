@@ -10,8 +10,11 @@ author: ring
 slug: B0792TFWNY
 description:
 actualPrice: 39.37 EUR
+currency: EUR
+price: 39.37
 comparePrice: 155 EUR
 inStock: true
+prodname: Geox D Kenly Mid A  Botas Chelsea para Mujer   Brown C0013   41 EU
 ---
 
 Ahora mismo tienes [Geox D Kenly Mid A  Botas Chelsea para Mujer   Brown C0013   41 EU](https://www.amazon.es/dp/B0792TFWNY/?tag=tolees-21) a 39.37 EUR (original: 155 EUR) (74.60 %  de descuento) en el siguiente enlace!

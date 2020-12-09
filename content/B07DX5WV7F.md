@@ -10,8 +10,11 @@ author: ring
 slug: B07DX5WV7F
 description:
 actualPrice: 13.24 EUR
+currency: EUR
+price: 13.24
 comparePrice: 49.99 EUR
 inStock: true
+prodname: Only & Sons Onsloom Blue Washed LD PK 0897 Noos  Vaqueros Slim Hombre  Azul  Blue Denim   W31/L34
 ---
 
 Está [Only & Sons Onsloom Blue Washed LD PK 0897 Noos  Vaqueros Slim Hombre  Azul  Blue Denim   W31/L34](https://www.amazon.es/dp/B07DX5WV7F/?tag=tolees-21) con 73.51 de descuento por 13.24 EUR (original: 49.99 EUR) en el siguiente enlace!

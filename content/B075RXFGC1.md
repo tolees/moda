@@ -10,8 +10,11 @@ author: ring
 slug: B075RXFGC1
 description:
 actualPrice: 72.95 EUR
+currency: EUR
+price: 72.95
 comparePrice: 99.95 EUR
 inStock: true
+prodname: Gore Wear C5 OPTI Pantalón Corto Tirantes  Hombre  Black/White  L
 ---
 
 Tienes [Gore Wear C5 OPTI Pantalón Corto Tirantes  Hombre  Black/White  L](https://www.amazon.es/dp/B075RXFGC1/?tag=tolees-21) con un 27.01 % de descuento con precio de oferta de 72.95 EUR (original: 99.95 EUR) en el siguiente enlace!

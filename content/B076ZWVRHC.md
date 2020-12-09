@@ -10,8 +10,11 @@ author: ring
 slug: B076ZWVRHC
 description:
 actualPrice: 19.49 EUR
+currency: EUR
+price: 19.49
 comparePrice: 29.95 EUR
 inStock: true
+prodname: G-STAR RAW Holorn R T S/S Camiseta  Negro  Black 990   Large para Hombre
 ---
 
 Tienes [G-STAR RAW Holorn R T S/S Camiseta  Negro  Black 990   Large para Hombre](https://www.amazon.es/dp/B076ZWVRHC/?tag=tolees-21) con un 34.92 % de descuento con precio de oferta de 19.49 EUR (original: 29.95 EUR) en el siguiente enlace!

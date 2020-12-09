@@ -10,8 +10,11 @@ author: ring
 slug: B071HXYYY3
 description:
 actualPrice: 29.18 EUR
+currency: EUR
+price: 29.18
 comparePrice: 129.99 EUR
 inStock: true
+prodname: edc by Esprit 097cc1g004 Chaqueta  Cream Beige 295  XX-Large para Mujer
 ---
 
 Ahora mismo tienes [edc by Esprit 097cc1g004 Chaqueta  Cream Beige 295  XX-Large para Mujer](https://www.amazon.es/dp/B071HXYYY3/?tag=tolees-21) a 29.18 EUR (original: 129.99 EUR) (77.55 %  de descuento) en el siguiente enlace!

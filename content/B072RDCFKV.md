@@ -10,8 +10,11 @@ author: ring
 slug: B072RDCFKV
 description:
 actualPrice: 17.32 EUR
+currency: EUR
+price: 17.32
 comparePrice: 65 EUR
 inStock: true
+prodname: find. Abrigo Midi de Corte Recto en Tela Ligera Mujer  Negro  Black   42  Talla del Fabricante: Large 
 ---
 
 Ahora mismo tienes [find. Abrigo Midi de Corte Recto en Tela Ligera Mujer  Negro  Black   42  Talla del Fabricante: Large ](https://www.amazon.es/dp/B072RDCFKV/?tag=tolees-21) a 17.32 EUR (original: 65 EUR) (73.35 %  de descuento) en el siguiente enlace!

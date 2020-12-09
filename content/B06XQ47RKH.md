@@ -10,8 +10,11 @@ author: ring
 slug: B06XQ47RKH
 description:
 actualPrice: 22.62 EUR
+currency: EUR
+price: 22.62
 comparePrice: 35.95 EUR
 inStock: true
+prodname: Desigual Ts_sara  Camiseta para Mujer  Negro  Medium
 ---
 
 Tienes [Desigual Ts_sara  Camiseta para Mujer  Negro  Medium](https://www.amazon.es/dp/B06XQ47RKH/?tag=tolees-21) con un 37.08 % de descuento con precio de oferta de 22.62 EUR (original: 35.95 EUR) en el siguiente enlace!

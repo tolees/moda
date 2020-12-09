@@ -10,8 +10,11 @@ author: ring
 slug: B07LBBDD6S
 description:
 actualPrice: 20.25 EUR
+currency: EUR
+price: 20.25
 comparePrice: 29 EUR
 inStock: true
+prodname: Tommy Jeans TJM Essential Box Logo tee  Camiseta para Hombre  Blau  Black Iris 002   L
 ---
 
 Tienes [Tommy Jeans TJM Essential Box Logo tee  Camiseta para Hombre  Blau  Black Iris 002   L](https://www.amazon.es/dp/B07LBBDD6S/?tag=tolees-21) con un 30.17 % de descuento con precio de oferta de 20.25 EUR (original: 29 EUR) en el siguiente enlace!

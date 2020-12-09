@@ -10,8 +10,11 @@ author: ring
 slug: B01FFGO5PO
 description:
 actualPrice: 15.97 EUR
+currency: EUR
+price: 15.97
 comparePrice: 24.95 EUR
 inStock: true
+prodname: Under Armour UA HG Armour Racer Tank  Camiseta sin mangas Mujer  Azul  Pale Moonlight   XL  Talla del fabricante: XL 
 ---
 
 Ahora mismo tienes [Under Armour UA HG Armour Racer Tank  Camiseta sin mangas Mujer  Azul  Pale Moonlight   XL  Talla del fabricante: XL ](https://www.amazon.es/dp/B01FFGO5PO/?tag=tolees-21) a 15.97 EUR (original: 24.95 EUR) (35.99 %  de descuento) en el siguiente enlace!

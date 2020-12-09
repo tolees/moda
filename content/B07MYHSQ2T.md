@@ -10,8 +10,11 @@ author: ring
 slug: B07MYHSQ2T
 description:
 actualPrice: 37.21 EUR
+currency: EUR
+price: 37.21
 comparePrice: 85 EUR
 inStock: true
+prodname: Pepe Jeans Spike Vaqueros Straight  Azul  Medium Used Denim Bb6   W32/L30 para Hombre
 ---
 
 Ahora mismo tienes [Pepe Jeans Spike Vaqueros Straight  Azul  Medium Used Denim Bb6   W32/L30 para Hombre](https://www.amazon.es/dp/B07MYHSQ2T/?tag=tolees-21) a 37.21 EUR (original: 85 EUR) (56.22 %  de descuento) en el siguiente enlace!

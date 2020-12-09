@@ -10,8 +10,11 @@ author: ring
 slug: B07VGKSCH1
 description:
 actualPrice: 46.84 EUR
+currency: EUR
+price: 46.84
 comparePrice: 149.0 EUR
 inStock: true
+prodname: Napapijri Acalmar W Vest 2 Chaqueta  Rosa  Petal Pink P841   X-Small para Mujer
 ---
 
 Está [Napapijri Acalmar W Vest 2 Chaqueta  Rosa  Petal Pink P841   X-Small para Mujer](https://www.amazon.es/dp/B07VGKSCH1/?tag=tolees-21) con 68.56 de descuento por 46.84 EUR (original: 149.0 EUR) en el siguiente enlace!

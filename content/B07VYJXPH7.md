@@ -10,8 +10,11 @@ author: ring
 slug: B07VYJXPH7
 description:
 actualPrice: 52.5 EUR
+currency: EUR
+price: 52.5
 comparePrice: 75.0 EUR
 inStock: true
+prodname: Pepe Jeans ANN Bolso Shopper Verde 28x32x14 cms Poliéster
 ---
 
 Tienes [Pepe Jeans ANN Bolso Shopper Verde 28x32x14 cms Poliéster](https://www.amazon.es/dp/B07VYJXPH7/?tag=tolees-21) con un 30.00 % de descuento con precio de oferta de 52.5 EUR (original: 75.0 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B084TGFPKR
 description:
 actualPrice: 36.83 EUR
+currency: EUR
+price: 36.83
 comparePrice: 52.61 EUR
 inStock: true
+prodname: Mandarina Duck MD 20  Bolso de mano para Mujer  Cabernet  Talla única
 ---
 
 Ahora mismo tienes [Mandarina Duck MD 20  Bolso de mano para Mujer  Cabernet  Talla única](https://www.amazon.es/dp/B084TGFPKR/?tag=tolees-21) a 36.83 EUR (original: 52.61 EUR) (29.99 %  de descuento) en el siguiente enlace!

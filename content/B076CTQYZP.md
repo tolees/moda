@@ -10,8 +10,11 @@ author: ring
 slug: B076CTQYZP
 description:
 actualPrice: 11 EUR
+currency: EUR
+price: 11
 comparePrice: 21.99 EUR
 inStock: true
+prodname: Vero Moda Vmjakuri 3/4 Pleated Top D2-2  suéter para Mujer  Rosa  Zephyr Pattern:Melange  38  Talla del Fabricante: Medium 
 ---
 
 Ahora mismo tienes [Vero Moda Vmjakuri 3/4 Pleated Top D2-2  suéter para Mujer  Rosa  Zephyr Pattern:Melange  38  Talla del Fabricante: Medium ](https://www.amazon.es/dp/B076CTQYZP/?tag=tolees-21) a 11 EUR (original: 21.99 EUR) (49.98 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B00DZLBJAG
 description:
 actualPrice: 102.5 EUR
+currency: EUR
+price: 102.5
 comparePrice: 180 EUR
 inStock: true
+prodname: The North Face M Durango HD Chaqueta  Hombre  TNF Black  L
 ---
 
 Ahora mismo tienes [The North Face M Durango HD Chaqueta  Hombre  TNF Black  L](https://www.amazon.es/dp/B00DZLBJAG/?tag=tolees-21) a 102.5 EUR (original: 180 EUR) (43.06 %  de descuento) en el siguiente enlace!

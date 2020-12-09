@@ -10,8 +10,11 @@ author: ring
 slug: B07LFNDDBK
 description:
 actualPrice: 26.17 EUR
+currency: EUR
+price: 26.17
 comparePrice: 47.97 EUR
 inStock: true
+prodname: Dolores Promesas PV19 1034GRIS Sudadera  Mujer  Gris  Gris 00   Small  Tamaño del Fabricante:S 
 ---
 
 Tienes [Dolores Promesas PV19 1034GRIS Sudadera  Mujer  Gris  Gris 00   Small  Tamaño del Fabricante:S ](https://www.amazon.es/dp/B07LFNDDBK/?tag=tolees-21) con un 45.45 % de descuento con precio de oferta de 26.17 EUR (original: 47.97 EUR) en el siguiente enlace!

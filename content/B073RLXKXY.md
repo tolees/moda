@@ -10,8 +10,11 @@ author: ring
 slug: B073RLXKXY
 description:
 actualPrice: 13.04 EUR
+currency: EUR
+price: 13.04
 comparePrice: 24.99 EUR
 inStock: true
+prodname: JACK & JONES JACWAISTBAND TRUNKS 3 PACK NOOS Bóxer  Gris  Asphalt Detail:hawaian Ocean & Fiery Red   XX-Large  Pack de 3  para Hombre
 ---
 
 Tienes [JACK & JONES JACWAISTBAND TRUNKS 3 PACK NOOS Bóxer  Gris  Asphalt Detail:hawaian Ocean & Fiery Red   XX-Large  Pack de 3  para Hombre](https://www.amazon.es/dp/B073RLXKXY/?tag=tolees-21) con un 47.82 % de descuento con precio de oferta de 13.04 EUR (original: 24.99 EUR) en el siguiente enlace!

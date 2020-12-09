@@ -10,8 +10,11 @@ author: ring
 slug: B07LB6D6CT
 description:
 actualPrice: 89.14 EUR
+currency: EUR
+price: 89.14
 comparePrice: 180.9 EUR
 inStock: true
+prodname: Love Moschino - Borsa Soft Grain Pu  Bolso de mano Mujer  Negro  Nero   10x15x20 cm  W x H L 
 ---
 
 Tienes [Love Moschino - Borsa Soft Grain Pu  Bolso de mano Mujer  Negro  Nero   10x15x20 cm  W x H L ](https://www.amazon.es/dp/B07LB6D6CT/?tag=tolees-21) con un 50.72 % de descuento con precio de oferta de 89.14 EUR (original: 180.9 EUR) en el siguiente enlace!

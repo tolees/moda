@@ -10,8 +10,11 @@ author: ring
 slug: B06XCN9CJ5
 description:
 actualPrice: 8.9 EUR
+currency: EUR
+price: 8.9
 comparePrice: 25.99 EUR
 inStock: true
+prodname: Cortefiel 6327095  Camiseta Manga Corta para Mujer  Blanco  M
 ---
 
 Está [Cortefiel 6327095  Camiseta Manga Corta para Mujer  Blanco  M](https://www.amazon.es/dp/B06XCN9CJ5/?tag=tolees-21) con 65.76 de descuento por 8.9 EUR (original: 25.99 EUR) en el siguiente enlace!

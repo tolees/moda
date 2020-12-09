@@ -10,8 +10,11 @@ author: ring
 slug: B01I1UKXIY
 description:
 actualPrice: 20.95 EUR
+currency: EUR
+price: 20.95
 comparePrice: 39.95 EUR
 inStock: true
+prodname: Superdry Orange Label Triple Pack Bóxer  Blanco Optic  XX-Large  Tamaño del Fabricante:2XL  para Hombre
 ---
 
 Está [Superdry Orange Label Triple Pack Bóxer  Blanco Optic  XX-Large  Tamaño del Fabricante:2XL  para Hombre](https://www.amazon.es/dp/B01I1UKXIY/?tag=tolees-21) con 47.56 de descuento por 20.95 EUR (original: 39.95 EUR) en el siguiente enlace!

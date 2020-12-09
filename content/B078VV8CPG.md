@@ -10,8 +10,11 @@ author: ring
 slug: B078VV8CPG
 description:
 actualPrice: 26.29 EUR
+currency: EUR
+price: 26.29
 comparePrice: 60 EUR
 inStock: true
+prodname: Volcom Stone Crew Sudadera  Hombre  Gris  M
 ---
 
 Ahora mismo tienes [Volcom Stone Crew Sudadera  Hombre  Gris  M](https://www.amazon.es/dp/B078VV8CPG/?tag=tolees-21) a 26.29 EUR (original: 60 EUR) (56.18 %  de descuento) en el siguiente enlace!

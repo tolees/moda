@@ -10,8 +10,11 @@ author: ring
 slug: B07D9BGZDW
 description:
 actualPrice: 36.99 EUR
+currency: EUR
+price: 36.99
 comparePrice: 70 EUR
 inStock: true
+prodname: Nike FCB Y Nk BRT Stad JSY SS Hm Camiseta  Unisex niños  Azul  Deep Royal Blue/University Gold   XL
 ---
 
 Tienes [Nike FCB Y Nk BRT Stad JSY SS Hm Camiseta  Unisex niños  Azul  Deep Royal Blue/University Gold   XL](https://www.amazon.es/dp/B07D9BGZDW/?tag=tolees-21) con un 47.16 % de descuento con precio de oferta de 36.99 EUR (original: 70 EUR) en el siguiente enlace!

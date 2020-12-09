@@ -10,8 +10,11 @@ author: ring
 slug: B07DLSCWTC
 description:
 actualPrice: 15.95 EUR
+currency: EUR
+price: 15.95
 comparePrice: 89.99 EUR
 inStock: true
+prodname: Springfield INT. Real Down 3/4 Abrigo   Varios 98    Tamaño del Fabricante:42  para Mujer
 ---
 
 Ahora mismo tienes [Springfield INT. Real Down 3/4 Abrigo   Varios 98    Tamaño del Fabricante:42  para Mujer](https://www.amazon.es/dp/B07DLSCWTC/?tag=tolees-21) a 15.95 EUR (original: 89.99 EUR) (82.28 %  de descuento) en el siguiente enlace!

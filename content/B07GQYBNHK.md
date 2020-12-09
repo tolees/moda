@@ -10,8 +10,11 @@ author: ring
 slug: B07GQYBNHK
 description:
 actualPrice: 29.99 EUR
+currency: EUR
+price: 29.99
 comparePrice: 59.99 EUR
 inStock: true
+prodname: Zapatillas Deporte Hombre Zapatos para Correr Athletic Cordones Air Cushion Running Sports Sneakers
 ---
 
 Ahora mismo tienes [Zapatillas Deporte Hombre Zapatos para Correr Athletic Cordones Air Cushion Running Sports Sneakers](https://www.amazon.es/dp/B07GQYBNHK/?tag=tolees-21) a 29.99 EUR (original: 59.99 EUR) (50.01 %  de descuento) en el siguiente enlace!

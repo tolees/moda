@@ -10,8 +10,11 @@ author: ring
 slug: B07NYT8XDZ
 description:
 actualPrice: 37.49 EUR
+currency: EUR
+price: 37.49
 comparePrice: 49.99 EUR
 inStock: true
+prodname: David Jones - Bolso de Mano Bugatti Mujer - Señora Tote Bag Cuero Genuino PU - Bolso de Hombro Bandolera Múltiples Bolsillos Cremallera - Shopper Asas Piel Trabajo Diario Elegante Moda - Beige
 ---
 
 Está [David Jones - Bolso de Mano Bugatti Mujer - Señora Tote Bag Cuero Genuino PU - Bolso de Hombro Bandolera Múltiples Bolsillos Cremallera - Shopper Asas Piel Trabajo Diario Elegante Moda - Beige](https://www.amazon.es/dp/B07NYT8XDZ/?tag=tolees-21) con 25.01 de descuento por 37.49 EUR (original: 49.99 EUR) en el siguiente enlace!

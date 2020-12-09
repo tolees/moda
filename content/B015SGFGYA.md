@@ -10,8 +10,11 @@ author: ring
 slug: B015SGFGYA
 description:
 actualPrice: 17.5 EUR
+currency: EUR
+price: 17.5
 comparePrice: 23.9 EUR
 inStock: true
+prodname: Havaianas Luna  Sandalias para Mujer  Morado  Aubergine   37/38 EU [35/36 BR]
 ---
 
 Está [Havaianas Luna  Sandalias para Mujer  Morado  Aubergine   37/38 EU [35/36 BR]](https://www.amazon.es/dp/B015SGFGYA/?tag=tolees-21) con 26.78 de descuento por 17.5 EUR (original: 23.9 EUR) en el siguiente enlace!

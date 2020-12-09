@@ -10,8 +10,11 @@ author: ring
 slug: B07KMTRRQD
 description:
 actualPrice: 17.77 EUR
+currency: EUR
+price: 17.77
 comparePrice: 35 EUR
 inStock: true
+prodname: Volcom Chop Around BSC SS Camiseta  Hombre  White  M
 ---
 
 Tienes [Volcom Chop Around BSC SS Camiseta  Hombre  White  M](https://www.amazon.es/dp/B07KMTRRQD/?tag=tolees-21) con un 49.23 % de descuento con precio de oferta de 17.77 EUR (original: 35 EUR) en el siguiente enlace!

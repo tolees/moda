@@ -10,8 +10,11 @@ author: ring
 slug: B081BJTKJJ
 description:
 actualPrice: 22.27 EUR
+currency: EUR
+price: 22.27
 comparePrice: 79.99 EUR
 inStock: true
+prodname: Columbia Point Park  Chaqueta cortavientos  Hombre  Gris/Verde  Columbia Grey/City Grey/Green Boa   XXL
 ---
 
 Tienes [Columbia Point Park  Chaqueta cortavientos  Hombre  Gris/Verde  Columbia Grey/City Grey/Green Boa   XXL](https://www.amazon.es/dp/B081BJTKJJ/?tag=tolees-21) con un 72.16 % de descuento con precio de oferta de 22.27 EUR (original: 79.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07JJPQK9Y
 description:
 actualPrice: 10.66 EUR
+currency: EUR
+price: 10.66
 comparePrice: 23.43 EUR
 inStock: true
+prodname: Jacamo Hombre Stetch Skinny Jean 33\" Vaqueros Skinny Not Applicable  Negro  Black 001   W44/L33  Talla del Fabricante: 44L 
 ---
 
 Está [Jacamo Hombre Stetch Skinny Jean 33\" Vaqueros Skinny Not Applicable  Negro  Black 001   W44/L33  Talla del Fabricante: 44L ](https://www.amazon.es/dp/B07JJPQK9Y/?tag=tolees-21) con 54.50 de descuento por 10.66 EUR (original: 23.43 EUR) en el siguiente enlace!

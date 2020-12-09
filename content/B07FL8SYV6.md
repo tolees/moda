@@ -10,8 +10,11 @@ author: ring
 slug: B07FL8SYV6
 description:
 actualPrice: 17.95 EUR
+currency: EUR
+price: 17.95
 comparePrice: 35 EUR
 inStock: true
+prodname: Superdry Dry Originals S/s Pocket tee  Camiseta de Tirantes Hombre  Negro  Dry Smoulder Black Vl3   Medium
 ---
 
 Ahora mismo tienes [Superdry Dry Originals S/s Pocket tee  Camiseta de Tirantes Hombre  Negro  Dry Smoulder Black Vl3   Medium](https://www.amazon.es/dp/B07FL8SYV6/?tag=tolees-21) a 17.95 EUR (original: 35 EUR) (48.71 %  de descuento) en el siguiente enlace!

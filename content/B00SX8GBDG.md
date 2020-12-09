@@ -10,8 +10,11 @@ author: ring
 slug: B00SX8GBDG
 description:
 actualPrice: 10.85 EUR
+currency: EUR
+price: 10.85
 comparePrice: 19.95 EUR
 inStock: true
+prodname: Adidas Duramo Slide  Chanclas Unisex Adulto  Rojo Blanco/Rojoco 000  52 2/3 EU
 ---
 
 Ahora mismo tienes [Adidas Duramo Slide  Chanclas Unisex Adulto  Rojo Blanco/Rojoco 000  52 2/3 EU](https://www.amazon.es/dp/B00SX8GBDG/?tag=tolees-21) a 10.85 EUR (original: 19.95 EUR) (45.61 %  de descuento) en el siguiente enlace!

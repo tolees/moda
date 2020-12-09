@@ -10,8 +10,11 @@ author: ring
 slug: B01N0LLG9K
 description:
 actualPrice: 22.11 EUR
+currency: EUR
+price: 22.11
 comparePrice: 45.91 EUR
 inStock: true
+prodname: RED WAGON Chaqueta Deportiva con Capucha de Visera para Niños  Gris  Multi   5 años
 ---
 
 Ahora mismo tienes [RED WAGON Chaqueta Deportiva con Capucha de Visera para Niños  Gris  Multi   5 años](https://www.amazon.es/dp/B01N0LLG9K/?tag=tolees-21) a 22.11 EUR (original: 45.91 EUR) (51.84 %  de descuento) en el siguiente enlace!

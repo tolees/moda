@@ -10,8 +10,11 @@ author: ring
 slug: B07HH5GP9Y
 description:
 actualPrice: 59.14 EUR
+currency: EUR
+price: 59.14
 comparePrice: 139.9 EUR
 inStock: true
+prodname: Tommy Jeans Mujer Regular Trucker Chaqueta vaquera Manga Larga Denim Azul  Us Idol 2 Md Bl Rg D 911  X-Small
 ---
 
 Está [Tommy Jeans Mujer Regular Trucker Chaqueta vaquera Manga Larga Denim Azul  Us Idol 2 Md Bl Rg D 911  X-Small](https://www.amazon.es/dp/B07HH5GP9Y/?tag=tolees-21) con 57.73 de descuento por 59.14 EUR (original: 139.9 EUR) en el siguiente enlace!

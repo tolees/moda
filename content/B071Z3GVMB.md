@@ -10,8 +10,11 @@ author: ring
 slug: B071Z3GVMB
 description:
 actualPrice: 7.8 EUR
+currency: EUR
+price: 7.8
 comparePrice: 26 EUR
 inStock: true
+prodname: find. Vestido Ajustable para Mujer   Gris  Grau   44  Talla del Fabricante: X-Large 
 ---
 
 Ahora mismo tienes [find. Vestido Ajustable para Mujer   Gris  Grau   44  Talla del Fabricante: X-Large ](https://www.amazon.es/dp/B071Z3GVMB/?tag=tolees-21) a 7.8 EUR (original: 26 EUR) (70.00 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07CZPHXDK
 description:
 actualPrice: 14.99 EUR
+currency: EUR
+price: 14.99
 comparePrice: 25.99 EUR
 inStock: true
+prodname: Under Armour Sportstyle Logo Tank Camiseta sin Mangas  Hombre  Azul Academy/White 408  XXL
 ---
 
 Está [Under Armour Sportstyle Logo Tank Camiseta sin Mangas  Hombre  Azul Academy/White 408  XXL](https://www.amazon.es/dp/B07CZPHXDK/?tag=tolees-21) con 42.32 de descuento por 14.99 EUR (original: 25.99 EUR) en el siguiente enlace!

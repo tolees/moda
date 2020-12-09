@@ -10,8 +10,11 @@ author: ring
 slug: B07CTYPQNP
 description:
 actualPrice: 15.82 EUR
+currency: EUR
+price: 15.82
 comparePrice: 41 EUR
 inStock: true
+prodname: Conguitos Deportivo Luces Velcro  Zapatos de Cordones Derby para Niñas  Plateado  Plomo 78   20 EU
 ---
 
 Ahora mismo tienes [Conguitos Deportivo Luces Velcro  Zapatos de Cordones Derby para Niñas  Plateado  Plomo 78   20 EU](https://www.amazon.es/dp/B07CTYPQNP/?tag=tolees-21) a 15.82 EUR (original: 41 EUR) (61.41 %  de descuento) en el siguiente enlace!

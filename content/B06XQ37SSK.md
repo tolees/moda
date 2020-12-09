@@ -10,8 +10,11 @@ author: ring
 slug: B06XQ37SSK
 description:
 actualPrice: 48.39 EUR
+currency: EUR
+price: 48.39
 comparePrice: 109.95 EUR
 inStock: true
+prodname: Desigual Jers_arraga Chaqueta Punto  Gris Vigore Oscuro 2043  Large para Mujer
 ---
 
 Tienes [Desigual Jers_arraga Chaqueta Punto  Gris Vigore Oscuro 2043  Large para Mujer](https://www.amazon.es/dp/B06XQ37SSK/?tag=tolees-21) con un 55.99 % de descuento con precio de oferta de 48.39 EUR (original: 109.95 EUR) en el siguiente enlace!

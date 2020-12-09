@@ -10,8 +10,11 @@ author: ring
 slug: B01HEXGCFC
 description:
 actualPrice: 15.68 EUR
+currency: EUR
+price: 15.68
 comparePrice: 26.99 EUR
 inStock: true
+prodname: Crocs Classic Clog K  Zuecos Unisex Niños  Negro  Black   19/20 EU
 ---
 
 Tienes [Crocs Classic Clog K  Zuecos Unisex Niños  Negro  Black   19/20 EU](https://www.amazon.es/dp/B01HEXGCFC/?tag=tolees-21) con un 41.90 % de descuento con precio de oferta de 15.68 EUR (original: 26.99 EUR) en el siguiente enlace!

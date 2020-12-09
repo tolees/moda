@@ -10,8 +10,11 @@ author: ring
 slug: B07KKRCW2Q
 description:
 actualPrice: 33.81 EUR
+currency: EUR
+price: 33.81
 comparePrice: 55 EUR
 inStock: true
+prodname: Naf Naf Kenr28d Vestido  Azul  Bleu Marine 567   44 para Mujer
 ---
 
 Está [Naf Naf Kenr28d Vestido  Azul  Bleu Marine 567   44 para Mujer](https://www.amazon.es/dp/B07KKRCW2Q/?tag=tolees-21) con 38.53 de descuento por 33.81 EUR (original: 55 EUR) en el siguiente enlace!

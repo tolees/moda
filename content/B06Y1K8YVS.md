@@ -10,8 +10,11 @@ author: ring
 slug: B06Y1K8YVS
 description:
 actualPrice: 32.33 EUR
+currency: EUR
+price: 32.33
 comparePrice: 64.95 EUR
 inStock: true
+prodname: Wrangler Western Denim Shirt  Camisa Vaquera para Hombre  Azul  Rinse Indigo We  Medium
 ---
 
 Tienes [Wrangler Western Denim Shirt  Camisa Vaquera para Hombre  Azul  Rinse Indigo We  Medium](https://www.amazon.es/dp/B06Y1K8YVS/?tag=tolees-21) con un 50.22 % de descuento con precio de oferta de 32.33 EUR (original: 64.95 EUR) en el siguiente enlace!

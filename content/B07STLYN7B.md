@@ -10,8 +10,11 @@ author: ring
 slug: B07STLYN7B
 description:
 actualPrice: 54.44 EUR
+currency: EUR
+price: 54.44
 comparePrice: 109.9 EUR
 inStock: true
+prodname: Geox D LEELU  E  Zapatillas Mujer  Negro  Black C9999   37 EU
 ---
 
 Tienes [Geox D LEELU  E  Zapatillas Mujer  Negro  Black C9999   37 EU](https://www.amazon.es/dp/B07STLYN7B/?tag=tolees-21) con un 50.46 % de descuento con precio de oferta de 54.44 EUR (original: 109.9 EUR) en el siguiente enlace!

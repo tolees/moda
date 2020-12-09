@@ -10,8 +10,11 @@ author: ring
 slug: B079SSNXF6
 description:
 actualPrice: 28.6 EUR
+currency: EUR
+price: 28.6
 comparePrice: 99.95 EUR
 inStock: true
+prodname: Desigual Denim_Yasmine Vaqueros Skinny    Navy 5000   W31 para Mujer
 ---
 
 Tienes [Desigual Denim_Yasmine Vaqueros Skinny    Navy 5000   W31 para Mujer](https://www.amazon.es/dp/B079SSNXF6/?tag=tolees-21) con un 71.39 % de descuento con precio de oferta de 28.6 EUR (original: 99.95 EUR) en el siguiente enlace!

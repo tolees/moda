@@ -10,8 +10,11 @@ author: ring
 slug: B08K8Q6ZKL
 description:
 actualPrice: 39.99 EUR
+currency: EUR
+price: 39.99
 comparePrice: 53.99 EUR
 inStock: true
+prodname: JACK & JONES Jjemagic Puffer Hood STS - Chaqueta para hombre Negro XS
 ---
 
 Tienes [JACK & JONES Jjemagic Puffer Hood STS - Chaqueta para hombre Negro XS](https://www.amazon.es/dp/B08K8Q6ZKL/?tag=tolees-21) con un 25.93 % de descuento con precio de oferta de 39.99 EUR (original: 53.99 EUR) en el siguiente enlace!

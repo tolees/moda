@@ -10,8 +10,11 @@ author: ring
 slug: B07TDD6V8P
 description:
 actualPrice: 17.49 EUR
+currency: EUR
+price: 17.49
 comparePrice: 34.99 EUR
 inStock: true
+prodname: Crocs Funlab Disney Frozen 2 Clog Kids  Zuecos Unisex Niños  Azul  Mineral Blue 4jq   29/30 EU
 ---
 
 Tienes [Crocs Funlab Disney Frozen 2 Clog Kids  Zuecos Unisex Niños  Azul  Mineral Blue 4jq   29/30 EU](https://www.amazon.es/dp/B07TDD6V8P/?tag=tolees-21) con un 50.01 % de descuento con precio de oferta de 17.49 EUR (original: 34.99 EUR) en el siguiente enlace!

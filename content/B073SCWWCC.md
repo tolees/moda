@@ -10,8 +10,11 @@ author: ring
 slug: B073SCWWCC
 description:
 actualPrice: 6 EUR
+currency: EUR
+price: 6
 comparePrice: 20 EUR
 inStock: true
+prodname: FIND Camiseta de Manga Larga con Estampado para Hombre  Blanco  White 003   Large
 ---
 
 Está [FIND Camiseta de Manga Larga con Estampado para Hombre  Blanco  White 003   Large](https://www.amazon.es/dp/B073SCWWCC/?tag=tolees-21) con 70.00 de descuento por 6 EUR (original: 20 EUR) en el siguiente enlace!

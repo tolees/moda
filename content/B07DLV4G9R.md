@@ -10,8 +10,11 @@ author: ring
 slug: B07DLV4G9R
 description:
 actualPrice: 13.59 EUR
+currency: EUR
+price: 13.59
 comparePrice: 29.99 EUR
 inStock: true
+prodname: Springfield 7.J.Ap.Gym.Topos Chenilla Jersey  Gama Grises 41  Large  Tamaño del Fabricante:L  para Mujer
 ---
 
 Está [Springfield 7.J.Ap.Gym.Topos Chenilla Jersey  Gama Grises 41  Large  Tamaño del Fabricante:L  para Mujer](https://www.amazon.es/dp/B07DLV4G9R/?tag=tolees-21) con 54.68 de descuento por 13.59 EUR (original: 29.99 EUR) en el siguiente enlace!

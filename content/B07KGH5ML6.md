@@ -10,8 +10,11 @@ author: ring
 slug: B07KGH5ML6
 description:
 actualPrice: 39.27 EUR
+currency: EUR
+price: 39.27
 comparePrice: 69.95 EUR
 inStock: true
+prodname: BOSS Tefresh Camiseta   Open Miscellaneous 991   Large para Mujer
 ---
 
 Ahora mismo tienes [BOSS Tefresh Camiseta   Open Miscellaneous 991   Large para Mujer](https://www.amazon.es/dp/B07KGH5ML6/?tag=tolees-21) a 39.27 EUR (original: 69.95 EUR) (43.86 %  de descuento) en el siguiente enlace!

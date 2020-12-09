@@ -10,8 +10,11 @@ author: ring
 slug: B07KGYCVJH
 description:
 actualPrice: 17.94 EUR
+currency: EUR
+price: 17.94
 comparePrice: 27.99 EUR
 inStock: true
+prodname: Under Armour UA Pantalón Corto  Hombre  Ropa Deportiva con Logotipo  Ligera y Transpirable  Petrol Blue/Thunder  437   LG
 ---
 
 Está [Under Armour UA Pantalón Corto  Hombre  Ropa Deportiva con Logotipo  Ligera y Transpirable  Petrol Blue/Thunder  437   LG](https://www.amazon.es/dp/B07KGYCVJH/?tag=tolees-21) con 35.91 de descuento por 17.94 EUR (original: 27.99 EUR) en el siguiente enlace!

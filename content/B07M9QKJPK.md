@@ -10,8 +10,11 @@ author: ring
 slug: B07M9QKJPK
 description:
 actualPrice: 19.97 EUR
+currency: EUR
+price: 19.97
 comparePrice: 39.95 EUR
 inStock: true
+prodname: G-STAR RAW Graphic 41 T-shirt  Camiseta Hombre  Multicolor  dk black 6484   Large
 ---
 
 Está [G-STAR RAW Graphic 41 T-shirt  Camiseta Hombre  Multicolor  dk black 6484   Large](https://www.amazon.es/dp/B07M9QKJPK/?tag=tolees-21) con 50.01 de descuento por 19.97 EUR (original: 39.95 EUR) en el siguiente enlace!

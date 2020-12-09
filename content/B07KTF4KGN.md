@@ -10,8 +10,11 @@ author: ring
 slug: B07KTF4KGN
 description:
 actualPrice: 8.65 EUR
+currency: EUR
+price: 8.65
 comparePrice: 69.95 EUR
 inStock: true
+prodname: United Colors of Benetton Hombre Sweater L/s Jersey Not Applicable  Azul  BLU Scuro 901   Talla única  Talla del Fabricante: Small 
 ---
 
 Tienes [United Colors of Benetton Hombre Sweater L/s Jersey Not Applicable  Azul  BLU Scuro 901   Talla única  Talla del Fabricante: Small ](https://www.amazon.es/dp/B07KTF4KGN/?tag=tolees-21) con un 87.63 % de descuento con precio de oferta de 8.65 EUR (original: 69.95 EUR) en el siguiente enlace!

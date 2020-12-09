@@ -10,8 +10,11 @@ author: ring
 slug: B00XMLIAEC
 description:
 actualPrice: 98.95 EUR
+currency: EUR
+price: 98.95
 comparePrice: 250 EUR
 inStock: true
+prodname: Pepe Jeans Wendy  Abrigo para Mujer  Negro  36
 ---
 
 Tienes [Pepe Jeans Wendy  Abrigo para Mujer  Negro  36](https://www.amazon.es/dp/B00XMLIAEC/?tag=tolees-21) con un 60.42 % de descuento con precio de oferta de 98.95 EUR (original: 250 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07FQTWN7M
 description:
 actualPrice: 29.71 EUR
+currency: EUR
+price: 29.71
 comparePrice: 69.95 EUR
 inStock: true
+prodname: Clarks Leisa Brody  Sandalias de Talón Abierto para Mujer  Negro  Black-   38 EU
 ---
 
 Ahora mismo tienes [Clarks Leisa Brody  Sandalias de Talón Abierto para Mujer  Negro  Black-   38 EU](https://www.amazon.es/dp/B07FQTWN7M/?tag=tolees-21) a 29.71 EUR (original: 69.95 EUR) (57.53 %  de descuento) en el siguiente enlace!

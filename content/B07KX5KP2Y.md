@@ -10,8 +10,11 @@ author: ring
 slug: B07KX5KP2Y
 description:
 actualPrice: 26.11 EUR
+currency: EUR
+price: 26.11
 comparePrice: 95.04 EUR
 inStock: true
+prodname: Emporio Armani Underwear 9p287 Vestido  Blanco  Bianco 00010   38  Talla del Fabricante: Small  para Mujer
 ---
 
 Tienes [Emporio Armani Underwear 9p287 Vestido  Blanco  Bianco 00010   38  Talla del Fabricante: Small  para Mujer](https://www.amazon.es/dp/B07KX5KP2Y/?tag=tolees-21) con un 72.53 % de descuento con precio de oferta de 26.11 EUR (original: 95.04 EUR) en el siguiente enlace!

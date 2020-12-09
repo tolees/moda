@@ -10,8 +10,11 @@ author: ring
 slug: B01HUVTR6Y
 description:
 actualPrice: 59.98 EUR
+currency: EUR
+price: 59.98
 comparePrice: 109.95 EUR
 inStock: true
+prodname: adidas Wandertag J Sol Chaqueta  Hombre  Negro  180
 ---
 
 Está [adidas Wandertag J Sol Chaqueta  Hombre  Negro  180](https://www.amazon.es/dp/B01HUVTR6Y/?tag=tolees-21) con 45.45 de descuento por 59.98 EUR (original: 109.95 EUR) en el siguiente enlace!

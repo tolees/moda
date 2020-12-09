@@ -10,8 +10,11 @@ author: ring
 slug: B07ZFVQNBC
 description:
 actualPrice: 6.99 EUR
+currency: EUR
+price: 6.99
 comparePrice: 25.99 EUR
 inStock: true
+prodname: TOMSHOO - Chaleco térmico de invierno con calefacción por infrarrojos lejanos  calentado  cálido  para pesca  exploración de motos de nieve  chaqueta de motociclismo para mujeres y hombres  S-M
 ---
 
 Ahora mismo tienes [TOMSHOO - Chaleco térmico de invierno con calefacción por infrarrojos lejanos  calentado  cálido  para pesca  exploración de motos de nieve  chaqueta de motociclismo para mujeres y hombres  S-M](https://www.amazon.es/dp/B07ZFVQNBC/?tag=tolees-21) a 6.99 EUR (original: 25.99 EUR) (73.11 %  de descuento) en el siguiente enlace!

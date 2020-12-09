@@ -10,8 +10,11 @@ author: ring
 slug: B06XSHM4MN
 description:
 actualPrice: 12.61 EUR
+currency: EUR
+price: 12.61
 comparePrice: 29.99 EUR
 inStock: true
+prodname: Esprit 067ee1f038  Blusa Mujer  Rosa  Pastel Pink 695   34
 ---
 
 Tienes [Esprit 067ee1f038  Blusa Mujer  Rosa  Pastel Pink 695   34](https://www.amazon.es/dp/B06XSHM4MN/?tag=tolees-21) con un 57.95 % de descuento con precio de oferta de 12.61 EUR (original: 29.99 EUR) en el siguiente enlace!

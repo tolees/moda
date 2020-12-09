@@ -10,8 +10,11 @@ author: ring
 slug: B07MZJD7ZF
 description:
 actualPrice: 21.45 EUR
+currency: EUR
+price: 21.45
 comparePrice: 39.75 EUR
 inStock: true
+prodname: Superdry Premium Goods Duo Lite tee Camiseta  Rojo  Red 17I   XL para Hombre
 ---
 
 Ahora mismo tienes [Superdry Premium Goods Duo Lite tee Camiseta  Rojo  Red 17I   XL para Hombre](https://www.amazon.es/dp/B07MZJD7ZF/?tag=tolees-21) a 21.45 EUR (original: 39.75 EUR) (46.04 %  de descuento) en el siguiente enlace!

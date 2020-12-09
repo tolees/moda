@@ -10,8 +10,11 @@ author: ring
 slug: B06XKG8R6M
 description:
 actualPrice: 23.72 EUR
+currency: EUR
+price: 23.72
 comparePrice: 83.94 EUR
 inStock: true
+prodname: Max Max & Co CO.330/S K2 08A 50 Gafas de sol  Negro  Black Grey/Mauve   Mujer
 ---
 
 Ahora mismo tienes [Max Max & Co CO.330/S K2 08A 50 Gafas de sol  Negro  Black Grey/Mauve   Mujer](https://www.amazon.es/dp/B06XKG8R6M/?tag=tolees-21) a 23.72 EUR (original: 83.94 EUR) (71.74 %  de descuento) en el siguiente enlace!

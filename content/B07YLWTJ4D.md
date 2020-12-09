@@ -10,8 +10,11 @@ author: ring
 slug: B07YLWTJ4D
 description:
 actualPrice: 15.95 EUR
+currency: EUR
+price: 15.95
 comparePrice: 24.99 EUR
 inStock: true
+prodname: Superdry OL Vintage Embroidery tee Camisa  Turquesa  Turquoise Grit 3gz   S para Hombre
 ---
 
 Tienes [Superdry OL Vintage Embroidery tee Camisa  Turquesa  Turquoise Grit 3gz   S para Hombre](https://www.amazon.es/dp/B07YLWTJ4D/?tag=tolees-21) con un 36.17 % de descuento con precio de oferta de 15.95 EUR (original: 24.99 EUR) en el siguiente enlace!

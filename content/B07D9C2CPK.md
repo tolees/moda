@@ -10,8 +10,11 @@ author: ring
 slug: B07D9C2CPK
 description:
 actualPrice: 14.45 EUR
+currency: EUR
+price: 14.45
 comparePrice: 49.95 EUR
 inStock: true
+prodname: XTI 48433  Botines para Mujer  Marrón Taupe  41 EU
 ---
 
 Está [XTI 48433  Botines para Mujer  Marrón Taupe  41 EU](https://www.amazon.es/dp/B07D9C2CPK/?tag=tolees-21) con 71.07 de descuento por 14.45 EUR (original: 49.95 EUR) en el siguiente enlace!

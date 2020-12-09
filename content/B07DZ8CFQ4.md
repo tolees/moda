@@ -10,8 +10,11 @@ author: ring
 slug: B07DZ8CFQ4
 description:
 actualPrice: 16.15 EUR
+currency: EUR
+price: 16.15
 comparePrice: 29.99 EUR
 inStock: true
+prodname: Columbia Chaqueta Polar con Media Cremallera para Hombre  Klamath Range II Half Zip  Azul  Dark Mountain  Red Spark   Talla L
 ---
 
 Está [Columbia Chaqueta Polar con Media Cremallera para Hombre  Klamath Range II Half Zip  Azul  Dark Mountain  Red Spark   Talla L](https://www.amazon.es/dp/B07DZ8CFQ4/?tag=tolees-21) con 46.15 de descuento por 16.15 EUR (original: 29.99 EUR) en el siguiente enlace!

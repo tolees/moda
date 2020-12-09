@@ -10,8 +10,11 @@ author: ring
 slug: B01MQYC6SN
 description:
 actualPrice: 30.69 EUR
+currency: EUR
+price: 30.69
 comparePrice: 98.24 EUR
 inStock: true
+prodname: Guess Jalisa  Chanclas para Mujer  Naranja Orang  37 EU
 ---
 
 Está [Guess Jalisa  Chanclas para Mujer  Naranja Orang  37 EU](https://www.amazon.es/dp/B01MQYC6SN/?tag=tolees-21) con 68.76 de descuento por 30.69 EUR (original: 98.24 EUR) en el siguiente enlace!

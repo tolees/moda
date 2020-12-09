@@ -10,8 +10,11 @@ author: ring
 slug: B01N0T2ZBJ
 description:
 actualPrice: 15.59 EUR
+currency: EUR
+price: 15.59
 comparePrice: 39.37 EUR
 inStock: true
+prodname: Disney Girls - Muñeca Elena de Avalor Vestido Aventuras  Hasbro C0378EU4 
 ---
 
 Ahora mismo tienes [Disney Girls - Muñeca Elena de Avalor Vestido Aventuras  Hasbro C0378EU4 ](https://www.amazon.es/dp/B01N0T2ZBJ/?tag=tolees-21) a 15.59 EUR (original: 39.37 EUR) (60.40 %  de descuento) en el siguiente enlace!

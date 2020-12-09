@@ -10,8 +10,11 @@ author: ring
 slug: B07VPQWT9N
 description:
 actualPrice: 17.26 EUR
+currency: EUR
+price: 17.26
 comparePrice: 38.19 EUR
 inStock: true
+prodname: Tommy Hilfiger Stretch Slim Fit tee Camiseta Deporte  Desert Sky/White  Small para Hombre
 ---
 
 Tienes [Tommy Hilfiger Stretch Slim Fit tee Camiseta Deporte  Desert Sky/White  Small para Hombre](https://www.amazon.es/dp/B07VPQWT9N/?tag=tolees-21) con un 54.80 % de descuento con precio de oferta de 17.26 EUR (original: 38.19 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B01MSLUP8N
 description:
 actualPrice: 4.5 EUR
+currency: EUR
+price: 4.5
 comparePrice: 12.12 EUR
 inStock: true
+prodname: IRIS & LILLY Tanga de Encaje Soft Lace para Mujer  Pack de 2  Multicolor  White/Black   Large
 ---
 
 Tienes [IRIS & LILLY Tanga de Encaje Soft Lace para Mujer  Pack de 2  Multicolor  White/Black   Large](https://www.amazon.es/dp/B01MSLUP8N/?tag=tolees-21) con un 62.87 % de descuento con precio de oferta de 4.5 EUR (original: 12.12 EUR) en el siguiente enlace!

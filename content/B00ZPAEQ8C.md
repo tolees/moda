@@ -10,8 +10,11 @@ author: ring
 slug: B00ZPAEQ8C
 description:
 actualPrice: 82.42 EUR
+currency: EUR
+price: 82.42
 comparePrice: 131 EUR
 inStock: true
+prodname: Carrera 5003/ST XT KRW Gafas de sol  Azul  Bluette/Blue Sky Grey Speckled   57 Unisex-Adulto
 ---
 
 Está [Carrera 5003/ST XT KRW Gafas de sol  Azul  Bluette/Blue Sky Grey Speckled   57 Unisex-Adulto](https://www.amazon.es/dp/B00ZPAEQ8C/?tag=tolees-21) con 37.08 de descuento por 82.42 EUR (original: 131 EUR) en el siguiente enlace!

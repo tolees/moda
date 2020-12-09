@@ -10,8 +10,11 @@ author: ring
 slug: B07L9QMMPW
 description:
 actualPrice: 49.02 EUR
+currency: EUR
+price: 49.02
 comparePrice: 119 EUR
 inStock: true
+prodname: Napapijri K Rainforest Sum 1 Freesia Yellow Chaqueta  Amarillo Ya7  128  Talla del Fabricante: 08  para Niños
 ---
 
 Está [Napapijri K Rainforest Sum 1 Freesia Yellow Chaqueta  Amarillo Ya7  128  Talla del Fabricante: 08  para Niños](https://www.amazon.es/dp/B07L9QMMPW/?tag=tolees-21) con 58.81 de descuento por 49.02 EUR (original: 119 EUR) en el siguiente enlace!

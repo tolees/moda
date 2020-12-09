@@ -10,8 +10,11 @@ author: ring
 slug: B07MK2FHSL
 description:
 actualPrice: 37.39 EUR
+currency: EUR
+price: 37.39
 comparePrice: 119.95 EUR
 inStock: true
+prodname: G-STAR RAW 3301 Deconstructed Mid Waist Skinny Vaqueros  Negro  Medium Aged 9882/071   26W / 30L para Mujer
 ---
 
 Está [G-STAR RAW 3301 Deconstructed Mid Waist Skinny Vaqueros  Negro  Medium Aged 9882/071   26W / 30L para Mujer](https://www.amazon.es/dp/B07MK2FHSL/?tag=tolees-21) con 68.83 de descuento por 37.39 EUR (original: 119.95 EUR) en el siguiente enlace!

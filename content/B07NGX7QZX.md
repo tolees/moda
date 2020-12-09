@@ -10,8 +10,11 @@ author: ring
 slug: B07NGX7QZX
 description:
 actualPrice: 12.39 EUR
+currency: EUR
+price: 12.39
 comparePrice: 18.6 EUR
 inStock: true
+prodname: Simba 109402364 PJ Masks - Juego de Figuras de PJ Masks  héroes en Pijama y Villanos  5 Figuras de acción de 8 cm para niños a Partir de 3 años
 ---
 
 Ahora mismo tienes [Simba 109402364 PJ Masks - Juego de Figuras de PJ Masks  héroes en Pijama y Villanos  5 Figuras de acción de 8 cm para niños a Partir de 3 años](https://www.amazon.es/dp/B07NGX7QZX/?tag=tolees-21) a 12.39 EUR (original: 18.6 EUR) (33.39 %  de descuento) en el siguiente enlace!

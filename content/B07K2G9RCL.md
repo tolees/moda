@@ -10,8 +10,11 @@ author: ring
 slug: B07K2G9RCL
 description:
 actualPrice: 84.0 EUR
+currency: EUR
+price: 84.0
 comparePrice: 119.99 EUR
 inStock: true
+prodname: Timberland 6 Inch Basic Non-Contrast Waterproof  Botas Chukka Hombre  Marrón Dark Brown Nubuck  40 EU
 ---
 
 Tienes [Timberland 6 Inch Basic Non-Contrast Waterproof  Botas Chukka Hombre  Marrón Dark Brown Nubuck  40 EU](https://www.amazon.es/dp/B07K2G9RCL/?tag=tolees-21) con un 29.99 % de descuento con precio de oferta de 84.0 EUR (original: 119.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07CS9W9ZB
 description:
 actualPrice: 21.88 EUR
+currency: EUR
+price: 21.88
 comparePrice: 89.9 EUR
 inStock: true
+prodname: Pepe Jeans Kingston Zip Vaqueros Straight    Denim Gris Gm2   W30/L34 Taille Fabricant 30/34 para Hombre
 ---
 
 Tienes [Pepe Jeans Kingston Zip Vaqueros Straight    Denim Gris Gm2   W30/L34 Taille Fabricant 30/34 para Hombre](https://www.amazon.es/dp/B07CS9W9ZB/?tag=tolees-21) con un 75.66 % de descuento con precio de oferta de 21.88 EUR (original: 89.9 EUR) en el siguiente enlace!

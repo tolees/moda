@@ -10,8 +10,11 @@ author: ring
 slug: B07G9KJMW6
 description:
 actualPrice: 8.01 EUR
+currency: EUR
+price: 8.01
 comparePrice: 22.95 EUR
 inStock: true
+prodname: Tuc Tuc Prenda Kitties  Camiseta para Niñas   Morado 20   5 años  Tamaño del Fabricante:5A 
 ---
 
 Tienes [Tuc Tuc Prenda Kitties  Camiseta para Niñas   Morado 20   5 años  Tamaño del Fabricante:5A ](https://www.amazon.es/dp/B07G9KJMW6/?tag=tolees-21) con un 65.10 % de descuento con precio de oferta de 8.01 EUR (original: 22.95 EUR) en el siguiente enlace!

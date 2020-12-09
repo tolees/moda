@@ -10,8 +10,11 @@ author: ring
 slug: B08JM41WGX
 description:
 actualPrice: 9.59 EUR
+currency: EUR
+price: 9.59
 comparePrice: 12.85 EUR
 inStock: true
+prodname: KATOOM 16PCS Gafas de Harry Potter  Gafas Redondas de Infantil  con 6 Hojas Tatuaje para Niños  Gafas Wizard sin Lentes Estilo de Empollón para Materiales de Fiesta de Disfraces Halloween  Azul 
 ---
 
 Está [KATOOM 16PCS Gafas de Harry Potter  Gafas Redondas de Infantil  con 6 Hojas Tatuaje para Niños  Gafas Wizard sin Lentes Estilo de Empollón para Materiales de Fiesta de Disfraces Halloween  Azul ](https://www.amazon.es/dp/B08JM41WGX/?tag=tolees-21) con 25.37 de descuento por 9.59 EUR (original: 12.85 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07JPY8ZVT
 description:
 actualPrice: 5.99 EUR
+currency: EUR
+price: 5.99
 comparePrice: 16.99 EUR
 inStock: true
+prodname: Litthing Sujetador Deporte para Mujer Encaje Delgado sin Llantas de Doble Capas Estilo de Chaleco Inconsútil  negeo  M 
 ---
 
 Ahora mismo tienes [Litthing Sujetador Deporte para Mujer Encaje Delgado sin Llantas de Doble Capas Estilo de Chaleco Inconsútil  negeo  M ](https://www.amazon.es/dp/B07JPY8ZVT/?tag=tolees-21) a 5.99 EUR (original: 16.99 EUR) (64.74 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B010NZCIFQ
 description:
 actualPrice: 27.08 EUR
+currency: EUR
+price: 27.08
 comparePrice: 54.95 EUR
 inStock: true
+prodname: Columbia Silver Ridge C Pantalón Corto con Protección Solar 50  Hombre  Gris  Grey Ash   32
 ---
 
 Ahora mismo tienes [Columbia Silver Ridge C Pantalón Corto con Protección Solar 50  Hombre  Gris  Grey Ash   32](https://www.amazon.es/dp/B010NZCIFQ/?tag=tolees-21) a 27.08 EUR (original: 54.95 EUR) (50.72 %  de descuento) en el siguiente enlace!

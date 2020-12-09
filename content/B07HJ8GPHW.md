@@ -10,8 +10,11 @@ author: ring
 slug: B07HJ8GPHW
 description:
 actualPrice: 19.07 EUR
+currency: EUR
+price: 19.07
 comparePrice: 39.9 EUR
 inStock: true
+prodname: Tommy Hilfiger Big Scale Relaxed Fit tee  Camiseta para Hombre  Blanco  Bright White 100   Large
 ---
 
 Tienes [Tommy Hilfiger Big Scale Relaxed Fit tee  Camiseta para Hombre  Blanco  Bright White 100   Large](https://www.amazon.es/dp/B07HJ8GPHW/?tag=tolees-21) con un 52.21 % de descuento con precio de oferta de 19.07 EUR (original: 39.9 EUR) en el siguiente enlace!

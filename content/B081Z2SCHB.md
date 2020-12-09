@@ -10,8 +10,11 @@ author: ring
 slug: B081Z2SCHB
 description:
 actualPrice: 5.3 EUR
+currency: EUR
+price: 5.3
 comparePrice: 11.28 EUR
 inStock: true
+prodname: waotier Abrigo Hombres Invierno Cálido Abrigo de Lana Largo del Ajuste Delgado Breasted Doble Outwear Chaqueta Cortavientos Negocio De Trinchera Inteligente Abrigo
 ---
 
 Tienes [waotier Abrigo Hombres Invierno Cálido Abrigo de Lana Largo del Ajuste Delgado Breasted Doble Outwear Chaqueta Cortavientos Negocio De Trinchera Inteligente Abrigo](https://www.amazon.es/dp/B081Z2SCHB/?tag=tolees-21) con un 53.01 % de descuento con precio de oferta de 5.3 EUR (original: 11.28 EUR) en el siguiente enlace!

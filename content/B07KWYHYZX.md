@@ -10,8 +10,11 @@ author: ring
 slug: B07KWYHYZX
 description:
 actualPrice: 123.68 EUR
+currency: EUR
+price: 123.68
 comparePrice: 343 EUR
 inStock: true
+prodname: Love Moschino Multicolored Flowers and Logo_Knitted T-Shirt Camiseta  Blanco  Optical White A00   42  Talla del Fabricante: 44  para Mujer
 ---
 
 Está [Love Moschino Multicolored Flowers and Logo_Knitted T-Shirt Camiseta  Blanco  Optical White A00   42  Talla del Fabricante: 44  para Mujer](https://www.amazon.es/dp/B07KWYHYZX/?tag=tolees-21) con 63.94 de descuento por 123.68 EUR (original: 343 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B0721SWTVR
 description:
 actualPrice: 18.37 EUR
+currency: EUR
+price: 18.37
 comparePrice: 30.28 EUR
 inStock: true
+prodname: adidas Rev Crzy Expl J Camiseta  Hombre  Azul  Maruni/Blanco   2XLT
 ---
 
 Está [adidas Rev Crzy Expl J Camiseta  Hombre  Azul  Maruni/Blanco   2XLT](https://www.amazon.es/dp/B0721SWTVR/?tag=tolees-21) con 39.33 de descuento por 18.37 EUR (original: 30.28 EUR) en el siguiente enlace!

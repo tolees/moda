@@ -10,8 +10,11 @@ author: ring
 slug: B01GA5CVVO
 description:
 actualPrice: 18.58 EUR
+currency: EUR
+price: 18.58
 comparePrice: 59.95 EUR
 inStock: true
+prodname: VERO MODA VMLULU SHORT JACKET A  Chaqueta Mujer  Negro  Black   38  Talla del fabricante: Medium 
 ---
 
 Tienes [VERO MODA VMLULU SHORT JACKET A  Chaqueta Mujer  Negro  Black   38  Talla del fabricante: Medium ](https://www.amazon.es/dp/B01GA5CVVO/?tag=tolees-21) con un 69.01 % de descuento con precio de oferta de 18.58 EUR (original: 59.95 EUR) en el siguiente enlace!

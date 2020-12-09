@@ -10,8 +10,11 @@ author: ring
 slug: B07DQYVXKJ
 description:
 actualPrice: 18.95 EUR
+currency: EUR
+price: 18.95
 comparePrice: 37 EUR
 inStock: true
+prodname: Volcom Pen BSC LS Camiseta  Hombre  Negro  L
 ---
 
 Tienes [Volcom Pen BSC LS Camiseta  Hombre  Negro  L](https://www.amazon.es/dp/B07DQYVXKJ/?tag=tolees-21) con un 48.78 % de descuento con precio de oferta de 18.95 EUR (original: 37 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07DQZCHYQ
 description:
 actualPrice: 15.95 EUR
+currency: EUR
+price: 15.95
 comparePrice: 35 EUR
 inStock: true
+prodname: Volcom Line Tone HTH SS Camiseta  Hombre  Azul  Arctic Blue   XL
 ---
 
 Ahora mismo tienes [Volcom Line Tone HTH SS Camiseta  Hombre  Azul  Arctic Blue   XL](https://www.amazon.es/dp/B07DQZCHYQ/?tag=tolees-21) a 15.95 EUR (original: 35 EUR) (54.43 %  de descuento) en el siguiente enlace!

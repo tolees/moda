@@ -10,8 +10,11 @@ author: ring
 slug: B01AXYOR2Y
 description:
 actualPrice: 6.95 EUR
+currency: EUR
+price: 6.95
 comparePrice: 13.59 EUR
 inStock: true
+prodname: Joma 900140.206 - Camiseta para Mujer  Color Blanco/Rojo  Talla L
 ---
 
 Tienes [Joma 900140.206 - Camiseta para Mujer  Color Blanco/Rojo  Talla L](https://www.amazon.es/dp/B01AXYOR2Y/?tag=tolees-21) con un 48.86 % de descuento con precio de oferta de 6.95 EUR (original: 13.59 EUR) en el siguiente enlace!

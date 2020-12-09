@@ -10,8 +10,11 @@ author: ring
 slug: B075TDXCG5
 description:
 actualPrice: 15.93 EUR
+currency: EUR
+price: 15.93
 comparePrice: 49.95 EUR
 inStock: true
+prodname: Trucco - Vestido casual para mujer  color verde oscuro  talla S
 ---
 
 Tienes [Trucco - Vestido casual para mujer  color verde oscuro  talla S](https://www.amazon.es/dp/B075TDXCG5/?tag=tolees-21) con un 68.11 % de descuento con precio de oferta de 15.93 EUR (original: 49.95 EUR) en el siguiente enlace!

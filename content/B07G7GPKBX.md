@@ -10,8 +10,11 @@ author: ring
 slug: B07G7GPKBX
 description:
 actualPrice: 104.52 EUR
+currency: EUR
+price: 104.52
 comparePrice: 180 EUR
 inStock: true
+prodname: Diesel J-Shiro Jacket Chaqueta  Negro  Black 900   Small para Hombre
 ---
 
 Ahora mismo tienes [Diesel J-Shiro Jacket Chaqueta  Negro  Black 900   Small para Hombre](https://www.amazon.es/dp/B07G7GPKBX/?tag=tolees-21) a 104.52 EUR (original: 180 EUR) (41.93 %  de descuento) en el siguiente enlace!

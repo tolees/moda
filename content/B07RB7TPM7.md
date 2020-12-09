@@ -10,8 +10,11 @@ author: ring
 slug: B07RB7TPM7
 description:
 actualPrice: 65.49 EUR
+currency: EUR
+price: 65.49
 comparePrice: 159.99 EUR
 inStock: true
+prodname: Columbia Columbia Lodge  Chaqueta sudadera  Hombre  Negro  Black   Talla L
 ---
 
 Ahora mismo tienes [Columbia Columbia Lodge  Chaqueta sudadera  Hombre  Negro  Black   Talla L](https://www.amazon.es/dp/B07RB7TPM7/?tag=tolees-21) a 65.49 EUR (original: 159.99 EUR) (59.07 %  de descuento) en el siguiente enlace!

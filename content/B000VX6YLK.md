@@ -10,8 +10,11 @@ author: ring
 slug: B000VX6YLK
 description:
 actualPrice: 156.57 EUR
+currency: EUR
+price: 156.57
 comparePrice: 210.0 EUR
 inStock: true
+prodname: Timberland 6-Inch Premium Boot  Botas para Hombre  Amarillo  Wheat Nubuck   39.5 EU
 ---
 
 Está [Timberland 6-Inch Premium Boot  Botas para Hombre  Amarillo  Wheat Nubuck   39.5 EU](https://www.amazon.es/dp/B000VX6YLK/?tag=tolees-21) con 25.44 de descuento por 156.57 EUR (original: 210.0 EUR) en el siguiente enlace!

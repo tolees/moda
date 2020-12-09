@@ -10,8 +10,11 @@ author: ring
 slug: B07DLK4QVM
 description:
 actualPrice: 9.62 EUR
+currency: EUR
+price: 9.62
 comparePrice: 24.99 EUR
 inStock: true
+prodname: Springfield 4.T.BS.Jegging Basic Vaqueros Straight  Negro 1   Tamaño del Fabricante:36  para Mujer
 ---
 
 Tienes [Springfield 4.T.BS.Jegging Basic Vaqueros Straight  Negro 1   Tamaño del Fabricante:36  para Mujer](https://www.amazon.es/dp/B07DLK4QVM/?tag=tolees-21) con un 61.50 % de descuento con precio de oferta de 9.62 EUR (original: 24.99 EUR) en el siguiente enlace!

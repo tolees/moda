@@ -10,8 +10,11 @@ author: ring
 slug: B075VH6DFS
 description:
 actualPrice: 24.99 EUR
+currency: EUR
+price: 24.99
 comparePrice: 49.95 EUR
 inStock: true
+prodname: JACK & JONES Jcomulti Quilted Jacket Noos Chaqueta  Verde  Grape Leaf   Large para Hombre
 ---
 
 Está [JACK & JONES Jcomulti Quilted Jacket Noos Chaqueta  Verde  Grape Leaf   Large para Hombre](https://www.amazon.es/dp/B075VH6DFS/?tag=tolees-21) con 49.97 de descuento por 24.99 EUR (original: 49.95 EUR) en el siguiente enlace!

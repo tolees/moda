@@ -10,8 +10,11 @@ author: ring
 slug: B07D7JV9KX
 description:
 actualPrice: 26.86 EUR
+currency: EUR
+price: 26.86
 comparePrice: 64.9 EUR
 inStock: true
+prodname: Dolores Promesas 107338  Jersey para Mujer  Dorado Mosta  Medium  Tamaño del Fabricante:M 
 ---
 
 Tienes [Dolores Promesas 107338  Jersey para Mujer  Dorado Mosta  Medium  Tamaño del Fabricante:M ](https://www.amazon.es/dp/B07D7JV9KX/?tag=tolees-21) con un 58.61 % de descuento con precio de oferta de 26.86 EUR (original: 64.9 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B0792KNSCC
 description:
 actualPrice: 22.81 EUR
+currency: EUR
+price: 22.81
 comparePrice: 31.57 EUR
 inStock: true
+prodname: Geox U Happy Art. H  Zapatillas Hombre  Gris  Anthracite/Mud C9al6   41.5 EU
 ---
 
 Ahora mismo tienes [Geox U Happy Art. H  Zapatillas Hombre  Gris  Anthracite/Mud C9al6   41.5 EU](https://www.amazon.es/dp/B0792KNSCC/?tag=tolees-21) a 22.81 EUR (original: 31.57 EUR) (27.75 %  de descuento) en el siguiente enlace!

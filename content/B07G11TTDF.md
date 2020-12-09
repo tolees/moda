@@ -10,8 +10,11 @@ author: ring
 slug: B07G11TTDF
 description:
 actualPrice: 17.99 EUR
+currency: EUR
+price: 17.99
 comparePrice: 29.99 EUR
 inStock: true
+prodname: Sudadera Stranger Things TV Mejor Amiga Algodón Pullover Best Friend Cuello Redondo Hoodie Manga Larga Retro para Mujer Sweatshirt Casual Blanco M 
 ---
 
 Está [Sudadera Stranger Things TV Mejor Amiga Algodón Pullover Best Friend Cuello Redondo Hoodie Manga Larga Retro para Mujer Sweatshirt Casual Blanco M ](https://www.amazon.es/dp/B07G11TTDF/?tag=tolees-21) con 40.01 de descuento por 17.99 EUR (original: 29.99 EUR) en el siguiente enlace!

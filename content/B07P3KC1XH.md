@@ -10,8 +10,11 @@ author: ring
 slug: B07P3KC1XH
 description:
 actualPrice: 9.99 EUR
+currency: EUR
+price: 9.99
 comparePrice: 19.99 EUR
 inStock: true
+prodname: Superdry OL Essential V-Neck tee Camiseta  Gris  Mid Grey Marl HBA   XXS  Talla del Fabricante:6  para Mujer
 ---
 
 Ahora mismo tienes [Superdry OL Essential V-Neck tee Camiseta  Gris  Mid Grey Marl HBA   XXS  Talla del Fabricante:6  para Mujer](https://www.amazon.es/dp/B07P3KC1XH/?tag=tolees-21) a 9.99 EUR (original: 19.99 EUR) (50.03 %  de descuento) en el siguiente enlace!

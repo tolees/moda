@@ -10,8 +10,11 @@ author: ring
 slug: B07DFVF2BR
 description:
 actualPrice: 31.0 EUR
+currency: EUR
+price: 31.0
 comparePrice: 89.99 EUR
 inStock: true
+prodname: Only Onlsedona Boucle Wool Coat Otw Noos Abrigo  Negro  Black Detail:Melange   40  Talla del fabricante: Medium  para Mujer
 ---
 
 Tienes [Only Onlsedona Boucle Wool Coat Otw Noos Abrigo  Negro  Black Detail:Melange   40  Talla del fabricante: Medium  para Mujer](https://www.amazon.es/dp/B07DFVF2BR/?tag=tolees-21) con un 65.55 % de descuento con precio de oferta de 31.0 EUR (original: 89.99 EUR) en el siguiente enlace!

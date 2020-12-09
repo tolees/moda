@@ -10,8 +10,11 @@ author: ring
 slug: B074J7WZZC
 description:
 actualPrice: 24.99 EUR
+currency: EUR
+price: 24.99
 comparePrice: 44.99 EUR
 inStock: true
+prodname: Under Armour Challenger II Training Pant Pantalón Largo  Hombre  Negro  Black/Royal/Overcast Gray 002   L
 ---
 
 Tienes [Under Armour Challenger II Training Pant Pantalón Largo  Hombre  Negro  Black/Royal/Overcast Gray 002   L](https://www.amazon.es/dp/B074J7WZZC/?tag=tolees-21) con un 44.45 % de descuento con precio de oferta de 24.99 EUR (original: 44.99 EUR) en el siguiente enlace!

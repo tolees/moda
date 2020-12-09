@@ -10,8 +10,11 @@ author: ring
 slug: B07FL5JHS5
 description:
 actualPrice: 14.29 EUR
+currency: EUR
+price: 14.29
 comparePrice: 39.9 EUR
 inStock: true
+prodname: Superdry Vintage Logo Entry tee  Camiseta de Tirantes para Hombre  Naranja  Pitch Orange Vr9  Large
 ---
 
 Está [Superdry Vintage Logo Entry tee  Camiseta de Tirantes para Hombre  Naranja  Pitch Orange Vr9  Large](https://www.amazon.es/dp/B07FL5JHS5/?tag=tolees-21) con 64.19 de descuento por 14.29 EUR (original: 39.9 EUR) en el siguiente enlace!

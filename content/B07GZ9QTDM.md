@@ -10,8 +10,11 @@ author: ring
 slug: B07GZ9QTDM
 description:
 actualPrice: 19.95 EUR
+currency: EUR
+price: 19.95
 comparePrice: 39.95 EUR
 inStock: true
+prodname: Desigual Girl Knit Dress Short Sleeve  Vest_wilminton   Vestido Niñas  Blanco  White 1000   140  Talla del Fabricante: 9/10 
 ---
 
 Ahora mismo tienes [Desigual Girl Knit Dress Short Sleeve  Vest_wilminton   Vestido Niñas  Blanco  White 1000   140  Talla del Fabricante: 9/10 ](https://www.amazon.es/dp/B07GZ9QTDM/?tag=tolees-21) a 19.95 EUR (original: 39.95 EUR) (50.06 %  de descuento) en el siguiente enlace!

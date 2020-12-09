@@ -10,8 +10,11 @@ author: ring
 slug: B07CMCGVWC
 description:
 actualPrice: 28.76 EUR
+currency: EUR
+price: 28.76
 comparePrice: 109.95 EUR
 inStock: true
+prodname: Scotch & Soda R´Belle Padded Bomber Jacket with Colour Block & Placed Artworks  Chaqueta para Niñas   Combo Y 604  152  Talla del Fabricante: 12 
 ---
 
 Ahora mismo tienes [Scotch & Soda R´Belle Padded Bomber Jacket with Colour Block & Placed Artworks  Chaqueta para Niñas   Combo Y 604  152  Talla del Fabricante: 12 ](https://www.amazon.es/dp/B07CMCGVWC/?tag=tolees-21) a 28.76 EUR (original: 109.95 EUR) (73.84 %  de descuento) en el siguiente enlace!

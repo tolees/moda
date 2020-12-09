@@ -10,8 +10,11 @@ author: ring
 slug: B07D76JNYJ
 description:
 actualPrice: 57 EUR
+currency: EUR
+price: 57
 comparePrice: 95 EUR
 inStock: true
+prodname: Levi s 310 Shaping Super Skinny  Vaqueros Skinny para Mujer  Azul  Shock Wave 0006   W28/L32
 ---
 
 Tienes [Levi s 310 Shaping Super Skinny  Vaqueros Skinny para Mujer  Azul  Shock Wave 0006   W28/L32](https://www.amazon.es/dp/B07D76JNYJ/?tag=tolees-21) con un 40.00 % de descuento con precio de oferta de 57 EUR (original: 95 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07CVDJ56V
 description:
 actualPrice: 30.97 EUR
+currency: EUR
+price: 30.97
 comparePrice: 75 EUR
 inStock: true
+prodname: Under Armour Anomaly  Zapatos de Baloncesto para Hombre  Negro Mod Gray/Black 003  42.5 EU
 ---
 
 Tienes [Under Armour Anomaly  Zapatos de Baloncesto para Hombre  Negro Mod Gray/Black 003  42.5 EU](https://www.amazon.es/dp/B07CVDJ56V/?tag=tolees-21) con un 58.71 % de descuento con precio de oferta de 30.97 EUR (original: 75 EUR) en el siguiente enlace!

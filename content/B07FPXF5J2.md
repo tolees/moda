@@ -10,8 +10,11 @@ author: ring
 slug: B07FPXF5J2
 description:
 actualPrice: 7.59 EUR
+currency: EUR
+price: 7.59
 comparePrice: 12.99 EUR
 inStock: true
+prodname: JACK & JONES Jorphotoxmas tee SS Crew Neck  Camiseta Hombre   Cloud Dancer Cloud Dancer   Small
 ---
 
 Tienes [JACK & JONES Jorphotoxmas tee SS Crew Neck  Camiseta Hombre   Cloud Dancer Cloud Dancer   Small](https://www.amazon.es/dp/B07FPXF5J2/?tag=tolees-21) con un 41.57 % de descuento con precio de oferta de 7.59 EUR (original: 12.99 EUR) en el siguiente enlace!

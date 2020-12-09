@@ -10,8 +10,11 @@ author: ring
 slug: B08LNCDFJZ
 description:
 actualPrice: 16.99 EUR
+currency: EUR
+price: 16.99
 comparePrice: 54.43 EUR
 inStock: true
+prodname: Abrigo De Invierno Mujer Chaqueta con Capucha para Mujer Rebajas Talla Grande Sudaderas Mujer De Manga Larga Vintage Cremallera Caliente Chaqueta de Cuello Alto con Bolsillos 2020 Parka Outwear
 ---
 
 Está [Abrigo De Invierno Mujer Chaqueta con Capucha para Mujer Rebajas Talla Grande Sudaderas Mujer De Manga Larga Vintage Cremallera Caliente Chaqueta de Cuello Alto con Bolsillos 2020 Parka Outwear](https://www.amazon.es/dp/B08LNCDFJZ/?tag=tolees-21) con 68.79 de descuento por 16.99 EUR (original: 54.43 EUR) en el siguiente enlace!

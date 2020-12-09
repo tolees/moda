@@ -10,8 +10,11 @@ author: ring
 slug: B01FFL3ZIW
 description:
 actualPrice: 20.75 EUR
+currency: EUR
+price: 20.75
 comparePrice: 27.99 EUR
 inStock: true
+prodname: Under Armour HG Armour 2.0 Comp Short Pantalón Corto  Hombre  Blanco  White/Graphite 100   S
 ---
 
 Ahora mismo tienes [Under Armour HG Armour 2.0 Comp Short Pantalón Corto  Hombre  Blanco  White/Graphite 100   S](https://www.amazon.es/dp/B01FFL3ZIW/?tag=tolees-21) a 20.75 EUR (original: 27.99 EUR) (25.87 %  de descuento) en el siguiente enlace!

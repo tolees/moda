@@ -10,8 +10,11 @@ author: ring
 slug: B016ALTFLW
 description:
 actualPrice: 24.79 EUR
+currency: EUR
+price: 24.79
 comparePrice: 39.99 EUR
 inStock: true
+prodname: Gant 3-Pack Trunk  Camiseta sin Mangas para Hombre  Gris  Grey Melange 93  Medium
 ---
 
 Ahora mismo tienes [Gant 3-Pack Trunk  Camiseta sin Mangas para Hombre  Gris  Grey Melange 93  Medium](https://www.amazon.es/dp/B016ALTFLW/?tag=tolees-21) a 24.79 EUR (original: 39.99 EUR) (38.01 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07KMSZHT2
 description:
 actualPrice: 23.32 EUR
+currency: EUR
+price: 23.32
 comparePrice: 60 EUR
 inStock: true
+prodname: Volcom General Stone Crew Sudadera  Hombre  Burgundy Heather  M
 ---
 
 Ahora mismo tienes [Volcom General Stone Crew Sudadera  Hombre  Burgundy Heather  M](https://www.amazon.es/dp/B07KMSZHT2/?tag=tolees-21) a 23.32 EUR (original: 60 EUR) (61.13 %  de descuento) en el siguiente enlace!

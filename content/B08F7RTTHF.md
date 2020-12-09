@@ -10,8 +10,11 @@ author: ring
 slug: B08F7RTTHF
 description:
 actualPrice: 63.0 EUR
+currency: EUR
+price: 63.0
 comparePrice: 89.95 EUR
 inStock: true
+prodname: Real Madrid Temporada 2020/21 Camiseta Segunda Equipación Oficial  Unisex  Rosa  XS
 ---
 
 Ahora mismo tienes [Real Madrid Temporada 2020/21 Camiseta Segunda Equipación Oficial  Unisex  Rosa  XS](https://www.amazon.es/dp/B08F7RTTHF/?tag=tolees-21) a 63.0 EUR (original: 89.95 EUR) (29.96 %  de descuento) en el siguiente enlace!

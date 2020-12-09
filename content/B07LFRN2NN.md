@@ -10,8 +10,11 @@ author: ring
 slug: B07LFRN2NN
 description:
 actualPrice: 26.04 EUR
+currency: EUR
+price: 26.04
 comparePrice: 99.9 EUR
 inStock: true
+prodname: Geox D ANNYTAH Moc A  Mocasines Mujer  Negro  Black C9997   35 EU
 ---
 
 Está [Geox D ANNYTAH Moc A  Mocasines Mujer  Negro  Black C9997   35 EU](https://www.amazon.es/dp/B07LFRN2NN/?tag=tolees-21) con 73.93 de descuento por 26.04 EUR (original: 99.9 EUR) en el siguiente enlace!

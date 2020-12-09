@@ -10,8 +10,11 @@ author: ring
 slug: B07DCBYNHM
 description:
 actualPrice: 15.41 EUR
+currency: EUR
+price: 15.41
 comparePrice: 29.99 EUR
 inStock: true
+prodname: JACK & JONES Jornevada Sweat Crew Neck  Sudadera para Hombre  Negro  Black Fit: Slim  Small
 ---
 
 Ahora mismo tienes [JACK & JONES Jornevada Sweat Crew Neck  Sudadera para Hombre  Negro  Black Fit: Slim  Small](https://www.amazon.es/dp/B07DCBYNHM/?tag=tolees-21) a 15.41 EUR (original: 29.99 EUR) (48.62 %  de descuento) en el siguiente enlace!

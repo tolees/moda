@@ -10,8 +10,11 @@ author: ring
 slug: B00XREI2SI
 description:
 actualPrice: 14.81 EUR
+currency: EUR
+price: 14.81
 comparePrice: 19.99 EUR
 inStock: true
+prodname: Case Logic Intrata - Bolso para portátil de 11.6"  Color Negro
 ---
 
 Tienes [Case Logic Intrata - Bolso para portátil de 11.6"  Color Negro](https://www.amazon.es/dp/B00XREI2SI/?tag=tolees-21) con un 25.91 % de descuento con precio de oferta de 14.81 EUR (original: 19.99 EUR) en el siguiente enlace!

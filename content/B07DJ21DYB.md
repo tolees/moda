@@ -10,8 +10,11 @@ author: ring
 slug: B07DJ21DYB
 description:
 actualPrice: 33.9 EUR
+currency: EUR
+price: 33.9
 comparePrice: 50 EUR
 inStock: true
+prodname: New Balance 250  Zapatos de Playa y Piscina Unisex Adulto  Gris Castlerock Gr  45 EU
 ---
 
 Está [New Balance 250  Zapatos de Playa y Piscina Unisex Adulto  Gris Castlerock Gr  45 EU](https://www.amazon.es/dp/B07DJ21DYB/?tag=tolees-21) con 32.20 de descuento por 33.9 EUR (original: 50 EUR) en el siguiente enlace!

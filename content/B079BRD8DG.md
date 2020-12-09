@@ -10,8 +10,11 @@ author: ring
 slug: B079BRD8DG
 description:
 actualPrice: 11.89 EUR
+currency: EUR
+price: 11.89
 comparePrice: 16.99 EUR
 inStock: true
+prodname: Only Onlnicole S/s Mix Top Noos Camiseta  Blanco  Cloud Dancer Cloud Dancer   Small para Mujer
 ---
 
 Está [Only Onlnicole S/s Mix Top Noos Camiseta  Blanco  Cloud Dancer Cloud Dancer   Small para Mujer](https://www.amazon.es/dp/B079BRD8DG/?tag=tolees-21) con 30.02 de descuento por 11.89 EUR (original: 16.99 EUR) en el siguiente enlace!

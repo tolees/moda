@@ -10,8 +10,11 @@ author: ring
 slug: B07DGM4PYV
 description:
 actualPrice: 19.19 EUR
+currency: EUR
+price: 19.19
 comparePrice: 30 EUR
 inStock: true
+prodname: Under Armour Ua Tech Graphic  Camisa para Hombre  Negro  Negro/Gris   S
 ---
 
 Tienes [Under Armour Ua Tech Graphic  Camisa para Hombre  Negro  Negro/Gris   S](https://www.amazon.es/dp/B07DGM4PYV/?tag=tolees-21) con un 36.03 % de descuento con precio de oferta de 19.19 EUR (original: 30 EUR) en el siguiente enlace!

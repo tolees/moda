@@ -10,8 +10,11 @@ author: ring
 slug: B07LBM1PNH
 description:
 actualPrice: 20.49 EUR
+currency: EUR
+price: 20.49
 comparePrice: 29 EUR
 inStock: true
+prodname: Tommy Jeans TJM Essential Box Logo tee Camiseta  Gris  LT Grey HTR 038   L para Hombre
 ---
 
 Está [Tommy Jeans TJM Essential Box Logo tee Camiseta  Gris  LT Grey HTR 038   L para Hombre](https://www.amazon.es/dp/B07LBM1PNH/?tag=tolees-21) con 29.34 de descuento por 20.49 EUR (original: 29 EUR) en el siguiente enlace!

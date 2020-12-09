@@ -10,8 +10,11 @@ author: ring
 slug: B07ZVPWNBF
 description:
 actualPrice: 10.49 EUR
+currency: EUR
+price: 10.49
 comparePrice: 14.99 EUR
 inStock: true
+prodname: Levi s The tee Camiseta  Serif Logo Sepia Rose  Large para Mujer
 ---
 
 Está [Levi s The tee Camiseta  Serif Logo Sepia Rose  Large para Mujer](https://www.amazon.es/dp/B07ZVPWNBF/?tag=tolees-21) con 30.02 de descuento por 10.49 EUR (original: 14.99 EUR) en el siguiente enlace!

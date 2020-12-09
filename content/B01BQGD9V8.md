@@ -10,8 +10,11 @@ author: ring
 slug: B01BQGD9V8
 description:
 actualPrice: 18.15 EUR
+currency: EUR
+price: 18.15
 comparePrice: 33.9 EUR
 inStock: true
+prodname: Havaianas Slim Crystal Glamour SW  Chanclas para Mujer  Gris  Steel Grey   35/36 EU
 ---
 
 Ahora mismo tienes [Havaianas Slim Crystal Glamour SW  Chanclas para Mujer  Gris  Steel Grey   35/36 EU](https://www.amazon.es/dp/B01BQGD9V8/?tag=tolees-21) a 18.15 EUR (original: 33.9 EUR) (46.46 %  de descuento) en el siguiente enlace!

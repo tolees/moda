@@ -10,8 +10,11 @@ author: ring
 slug: B07KSP2C8B
 description:
 actualPrice: 22.37 EUR
+currency: EUR
+price: 22.37
 comparePrice: 49.99 EUR
 inStock: true
+prodname: Columbia Hombre Chaqueta Polar con Cremallera Completa  FAST TREK II FULL ZIP FLEECE  Poliéster  Azul  Carbon   Talla: XS  1420421
 ---
 
 Ahora mismo tienes [Columbia Hombre Chaqueta Polar con Cremallera Completa  FAST TREK II FULL ZIP FLEECE  Poliéster  Azul  Carbon   Talla: XS  1420421](https://www.amazon.es/dp/B07KSP2C8B/?tag=tolees-21) a 22.37 EUR (original: 49.99 EUR) (55.25 %  de descuento) en el siguiente enlace!

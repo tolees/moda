@@ -10,8 +10,11 @@ author: ring
 slug: B07XGLFS83
 description:
 actualPrice: 20.49 EUR
+currency: EUR
+price: 20.49
 comparePrice: 59.95 EUR
 inStock: true
+prodname: Skechers Go Walk 5  Sandalias de Punta Descubierta Hombre  Negro  Black Synthetic/Trim BBK   42.5 EU
 ---
 
 Tienes [Skechers Go Walk 5  Sandalias de Punta Descubierta Hombre  Negro  Black Synthetic/Trim BBK   42.5 EU](https://www.amazon.es/dp/B07XGLFS83/?tag=tolees-21) con un 65.82 % de descuento con precio de oferta de 20.49 EUR (original: 59.95 EUR) en el siguiente enlace!

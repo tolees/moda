@@ -10,8 +10,11 @@ author: ring
 slug: B06XRXF4J7
 description:
 actualPrice: 8.19 EUR
+currency: EUR
+price: 8.19
 comparePrice: 19.99 EUR
 inStock: true
+prodname: Esprit 067ee1k035 Camiseta   Red 630   Small para Mujer
 ---
 
 Está [Esprit 067ee1k035 Camiseta   Red 630   Small para Mujer](https://www.amazon.es/dp/B06XRXF4J7/?tag=tolees-21) con 59.03 de descuento por 8.19 EUR (original: 19.99 EUR) en el siguiente enlace!

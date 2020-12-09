@@ -10,8 +10,11 @@ author: ring
 slug: B078WT9NFX
 description:
 actualPrice: 12.15 EUR
+currency: EUR
+price: 12.15
 comparePrice: 22.99 EUR
 inStock: true
+prodname: Quiksilver Monkey Abyss  Zapatos de Playa y Piscina para Hombre  Gris Black/Grey Xsks  41 EU
 ---
 
 Ahora mismo tienes [Quiksilver Monkey Abyss  Zapatos de Playa y Piscina para Hombre  Gris Black/Grey Xsks  41 EU](https://www.amazon.es/dp/B078WT9NFX/?tag=tolees-21) a 12.15 EUR (original: 22.99 EUR) (47.15 %  de descuento) en el siguiente enlace!

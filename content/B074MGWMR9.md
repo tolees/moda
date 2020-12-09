@@ -10,8 +10,11 @@ author: ring
 slug: B074MGWMR9
 description:
 actualPrice: 21.84 EUR
+currency: EUR
+price: 21.84
 comparePrice: 49.99 EUR
 inStock: true
+prodname: PIECES Pcfive Dellydelux B220 MW Skn Ankjns Blk  Vaqueros Skinny Mujer  Negro  Black Black   42  Talla del Fabricante: X-Large 
 ---
 
 Está [PIECES Pcfive Dellydelux B220 MW Skn Ankjns Blk  Vaqueros Skinny Mujer  Negro  Black Black   42  Talla del Fabricante: X-Large ](https://www.amazon.es/dp/B074MGWMR9/?tag=tolees-21) con 56.31 de descuento por 21.84 EUR (original: 49.99 EUR) en el siguiente enlace!

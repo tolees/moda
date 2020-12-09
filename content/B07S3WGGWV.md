@@ -10,8 +10,11 @@ author: ring
 slug: B07S3WGGWV
 description:
 actualPrice: 12.99 EUR
+currency: EUR
+price: 12.99
 comparePrice: 25.0 EUR
 inStock: true
+prodname: Levi s Relaxed Graphic tee Camiseta  Gris  90 s Serif Logo Forged Iron 0045   Medium para Hombre
 ---
 
 Tienes [Levi s Relaxed Graphic tee Camiseta  Gris  90 s Serif Logo Forged Iron 0045   Medium para Hombre](https://www.amazon.es/dp/B07S3WGGWV/?tag=tolees-21) con un 48.04 % de descuento con precio de oferta de 12.99 EUR (original: 25.0 EUR) en el siguiente enlace!

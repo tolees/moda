@@ -10,8 +10,11 @@ author: ring
 slug: B075X2PVDK
 description:
 actualPrice: 17.5 EUR
+currency: EUR
+price: 17.5
 comparePrice: 35 EUR
 inStock: true
+prodname: find. NEWSTW024 vaqueros pitillo mujer  Negro  Clean Black   W27/L30
 ---
 
 Ahora mismo tienes [find. NEWSTW024 vaqueros pitillo mujer  Negro  Clean Black   W27/L30](https://www.amazon.es/dp/B075X2PVDK/?tag=tolees-21) a 17.5 EUR (original: 35 EUR) (50.00 %  de descuento) en el siguiente enlace!

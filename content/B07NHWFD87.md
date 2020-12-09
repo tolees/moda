@@ -10,8 +10,11 @@ author: ring
 slug: B07NHWFD87
 description:
 actualPrice: 10.12 EUR
+currency: EUR
+price: 10.12
 comparePrice: 14.99 EUR
 inStock: true
+prodname: JACK & JONES Jcomikkel tee SS Crew Neck Camiseta  Classic Blue Fit: Reg  Small para Hombre
 ---
 
 Tienes [JACK & JONES Jcomikkel tee SS Crew Neck Camiseta  Classic Blue Fit: Reg  Small para Hombre](https://www.amazon.es/dp/B07NHWFD87/?tag=tolees-21) con un 32.49 % de descuento con precio de oferta de 10.12 EUR (original: 14.99 EUR) en el siguiente enlace!

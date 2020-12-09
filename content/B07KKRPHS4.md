@@ -10,8 +10,11 @@ author: ring
 slug: B07KKRPHS4
 description:
 actualPrice: 21.83 EUR
+currency: EUR
+price: 21.83
 comparePrice: 30 EUR
 inStock: true
+prodname: Naf Naf Kenc32 Blusa  Marfil  Écru 333   40 para Mujer
 ---
 
 Ahora mismo tienes [Naf Naf Kenc32 Blusa  Marfil  Écru 333   40 para Mujer](https://www.amazon.es/dp/B07KKRPHS4/?tag=tolees-21) a 21.83 EUR (original: 30 EUR) (27.23 %  de descuento) en el siguiente enlace!

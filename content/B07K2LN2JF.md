@@ -10,8 +10,11 @@ author: ring
 slug: B07K2LN2JF
 description:
 actualPrice: 6.01 EUR
+currency: EUR
+price: 6.01
 comparePrice: 19.99 EUR
 inStock: true
+prodname: Adidas Adilette Aqua Zapatos de playa y piscina Unisex adulto  Azul  Navy F35542   40 1/2 EU  7 UK 
 ---
 
 Ahora mismo tienes [Adidas Adilette Aqua Zapatos de playa y piscina Unisex adulto  Azul  Navy F35542   40 1/2 EU  7 UK ](https://www.amazon.es/dp/B07K2LN2JF/?tag=tolees-21) a 6.01 EUR (original: 19.99 EUR) (69.93 %  de descuento) en el siguiente enlace!

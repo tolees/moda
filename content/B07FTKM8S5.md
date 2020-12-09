@@ -10,8 +10,11 @@ author: ring
 slug: B07FTKM8S5
 description:
 actualPrice: 23.04 EUR
+currency: EUR
+price: 23.04
 comparePrice: 99.95 EUR
 inStock: true
+prodname: Lee Marion Vaqueros Straight  Azul  Mid Aged WT   W34/L31 para Mujer
 ---
 
 Tienes [Lee Marion Vaqueros Straight  Azul  Mid Aged WT   W34/L31 para Mujer](https://www.amazon.es/dp/B07FTKM8S5/?tag=tolees-21) con un 76.95 % de descuento con precio de oferta de 23.04 EUR (original: 99.95 EUR) en el siguiente enlace!

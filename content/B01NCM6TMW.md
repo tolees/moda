@@ -10,8 +10,11 @@ author: ring
 slug: B01NCM6TMW
 description:
 actualPrice: 12.75 EUR
+currency: EUR
+price: 12.75
 comparePrice: 38 EUR
 inStock: true
+prodname: a40grados Sport & Style Caramelo Basic Camiseta de Tirantes  Mujer  Blanco  S
 ---
 
 Ahora mismo tienes [a40grados Sport & Style Caramelo Basic Camiseta de Tirantes  Mujer  Blanco  S](https://www.amazon.es/dp/B01NCM6TMW/?tag=tolees-21) a 12.75 EUR (original: 38 EUR) (66.45 %  de descuento) en el siguiente enlace!

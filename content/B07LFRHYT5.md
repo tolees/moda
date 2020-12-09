@@ -10,8 +10,11 @@ author: ring
 slug: B07LFRHYT5
 description:
 actualPrice: 18.78 EUR
+currency: EUR
+price: 18.78
 comparePrice: 99.9 EUR
 inStock: true
+prodname: Geox D New ANNYA Mid A  Zapatos con Tacón Mujer  Azul  Navy C4002   36 EU
 ---
 
 Tienes [Geox D New ANNYA Mid A  Zapatos con Tacón Mujer  Azul  Navy C4002   36 EU](https://www.amazon.es/dp/B07LFRHYT5/?tag=tolees-21) con un 81.20 % de descuento con precio de oferta de 18.78 EUR (original: 99.9 EUR) en el siguiente enlace!

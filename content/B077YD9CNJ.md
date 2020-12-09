@@ -10,8 +10,11 @@ author: ring
 slug: B077YD9CNJ
 description:
 actualPrice: 16.17 EUR
+currency: EUR
+price: 16.17
 comparePrice: 26.95 EUR
 inStock: true
+prodname: HIKARO Sudadera con Print Hombre  Azul  Aqua   54  Talla del fabricante: X-Large 
 ---
 
 Tienes [HIKARO Sudadera con Print Hombre  Azul  Aqua   54  Talla del fabricante: X-Large ](https://www.amazon.es/dp/B077YD9CNJ/?tag=tolees-21) con un 40.00 % de descuento con precio de oferta de 16.17 EUR (original: 26.95 EUR) en el siguiente enlace!

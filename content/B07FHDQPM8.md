@@ -10,8 +10,11 @@ author: ring
 slug: B07FHDQPM8
 description:
 actualPrice: 40.95 EUR
+currency: EUR
+price: 40.95
 comparePrice: 60 EUR
 inStock: true
+prodname: Helly Hansen Hh Logo Crew Sweat  Sudadera para Hombre  Verde  Verde 471   Large
 ---
 
 Está [Helly Hansen Hh Logo Crew Sweat  Sudadera para Hombre  Verde  Verde 471   Large](https://www.amazon.es/dp/B07FHDQPM8/?tag=tolees-21) con 31.75 de descuento por 40.95 EUR (original: 60 EUR) en el siguiente enlace!

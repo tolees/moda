@@ -10,8 +10,11 @@ author: ring
 slug: B07D6NLMKW
 description:
 actualPrice: 9.99 EUR
+currency: EUR
+price: 9.99
 comparePrice: 26.99 EUR
 inStock: true
+prodname: SIMYJOY Cobra Kai Retro Camiseta Karate Tshirt Cool TV Drama Top para Hombre Mujer Adolescente Negro L
 ---
 
 Ahora mismo tienes [SIMYJOY Cobra Kai Retro Camiseta Karate Tshirt Cool TV Drama Top para Hombre Mujer Adolescente Negro L](https://www.amazon.es/dp/B07D6NLMKW/?tag=tolees-21) a 9.99 EUR (original: 26.99 EUR) (62.99 %  de descuento) en el siguiente enlace!

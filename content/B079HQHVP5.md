@@ -10,8 +10,11 @@ author: ring
 slug: B079HQHVP5
 description:
 actualPrice: 9.74 EUR
+currency: EUR
+price: 9.74
 comparePrice: 14.99 EUR
 inStock: true
+prodname: Iris & Lilly Sujetador Body Natural Push-up Mujer  Multicolor  Spot/flower Print   95A  Talla del fabricante: 36A 
 ---
 
 Está [Iris & Lilly Sujetador Body Natural Push-up Mujer  Multicolor  Spot/flower Print   95A  Talla del fabricante: 36A ](https://www.amazon.es/dp/B079HQHVP5/?tag=tolees-21) con 35.02 de descuento por 9.74 EUR (original: 14.99 EUR) en el siguiente enlace!

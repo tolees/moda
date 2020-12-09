@@ -10,8 +10,11 @@ author: ring
 slug: B07KGDHKNT
 description:
 actualPrice: 18.61 EUR
+currency: EUR
+price: 18.61
 comparePrice: 39.95 EUR
 inStock: true
+prodname: BOSS Trunk 3P CO/EL Bóxer   Open Miscellaneous 986   X-Large para Hombre
 ---
 
 Tienes [BOSS Trunk 3P CO/EL Bóxer   Open Miscellaneous 986   X-Large para Hombre](https://www.amazon.es/dp/B07KGDHKNT/?tag=tolees-21) con un 53.42 % de descuento con precio de oferta de 18.61 EUR (original: 39.95 EUR) en el siguiente enlace!

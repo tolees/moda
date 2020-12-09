@@ -10,8 +10,11 @@ author: ring
 slug: B01AXYGQ3C
 description:
 actualPrice: 6.95 EUR
+currency: EUR
+price: 6.95
 comparePrice: 16.8 EUR
 inStock: true
+prodname: Joma 100005.700 - Camiseta de equipación de Manga Larga para Mujer  Color Azul Royal  Talla XS
 ---
 
 Ahora mismo tienes [Joma 100005.700 - Camiseta de equipación de Manga Larga para Mujer  Color Azul Royal  Talla XS](https://www.amazon.es/dp/B01AXYGQ3C/?tag=tolees-21) a 6.95 EUR (original: 16.8 EUR) (58.63 %  de descuento) en el siguiente enlace!

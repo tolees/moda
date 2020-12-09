@@ -10,8 +10,11 @@ author: ring
 slug: B07MZJ7BNJ
 description:
 actualPrice: 20.95 EUR
+currency: EUR
+price: 20.95
 comparePrice: 39.75 EUR
 inStock: true
+prodname: Superdry Vintage Logo Monochrome tee Camiseta  Blanco  Optic 01c   Small para Hombre
 ---
 
 Tienes [Superdry Vintage Logo Monochrome tee Camiseta  Blanco  Optic 01c   Small para Hombre](https://www.amazon.es/dp/B07MZJ7BNJ/?tag=tolees-21) con un 47.30 % de descuento con precio de oferta de 20.95 EUR (original: 39.75 EUR) en el siguiente enlace!

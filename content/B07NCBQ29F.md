@@ -10,8 +10,11 @@ author: ring
 slug: B07NCBQ29F
 description:
 actualPrice: 43.9 EUR
+currency: EUR
+price: 43.9
 comparePrice: 69.9 EUR
 inStock: true
+prodname: Pepe Jeans Anabella Vestido  Azul  Denim 000   17-18 años  Talla del Fabricante: 18  para Niñas
 ---
 
 Está [Pepe Jeans Anabella Vestido  Azul  Denim 000   17-18 años  Talla del Fabricante: 18  para Niñas](https://www.amazon.es/dp/B07NCBQ29F/?tag=tolees-21) con 37.20 de descuento por 43.9 EUR (original: 69.9 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B072BH3BMN
 description:
 actualPrice: 20.95 EUR
+currency: EUR
+price: 20.95
 comparePrice: 35 EUR
 inStock: true
+prodname: G-STAR RAW Base Htr R T S/s 2-Pack Camiseta  Negro  Solid Black 2019   XX-Large para Hombre
 ---
 
 Ahora mismo tienes [G-STAR RAW Base Htr R T S/s 2-Pack Camiseta  Negro  Solid Black 2019   XX-Large para Hombre](https://www.amazon.es/dp/B072BH3BMN/?tag=tolees-21) a 20.95 EUR (original: 35 EUR) (40.14 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B00RN0Q3FG
 description:
 actualPrice: 12.99 EUR
+currency: EUR
+price: 12.99
 comparePrice: 25 EUR
 inStock: true
+prodname: Nike M Nk Dry Tee Dfc 2.0 Camiseta de manga corta  Hombre  Azul  Obsidian/Matte Silver   XL
 ---
 
 Tienes [Nike M Nk Dry Tee Dfc 2.0 Camiseta de manga corta  Hombre  Azul  Obsidian/Matte Silver   XL](https://www.amazon.es/dp/B00RN0Q3FG/?tag=tolees-21) con un 48.04 % de descuento con precio de oferta de 12.99 EUR (original: 25 EUR) en el siguiente enlace!

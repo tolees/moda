@@ -10,8 +10,11 @@ author: ring
 slug: B07MCW4KCX
 description:
 actualPrice: 30.0 EUR
+currency: EUR
+price: 30.0
 comparePrice: 60.0 EUR
 inStock: true
+prodname: Under Armour Sportstyle Terry Logo Hoodie  Sudadera con Capucha Hombre  Negro  Black / White   L
 ---
 
 Tienes [Under Armour Sportstyle Terry Logo Hoodie  Sudadera con Capucha Hombre  Negro  Black / White   L](https://www.amazon.es/dp/B07MCW4KCX/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 30.0 EUR (original: 60.0 EUR) en el siguiente enlace!

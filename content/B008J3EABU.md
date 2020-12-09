@@ -10,8 +10,11 @@ author: ring
 slug: B008J3EABU
 description:
 actualPrice: 65.28 EUR
+currency: EUR
+price: 65.28
 comparePrice: 101.55 EUR
 inStock: true
+prodname: Keen CLEARWATER CNX M-RAVEN /BURNT HENNA - Sandalias de material sintético hombre  Black-Gargoyle  42
 ---
 
 Está [Keen CLEARWATER CNX M-RAVEN /BURNT HENNA - Sandalias de material sintético hombre  Black-Gargoyle  42](https://www.amazon.es/dp/B008J3EABU/?tag=tolees-21) con 35.72 de descuento por 65.28 EUR (original: 101.55 EUR) en el siguiente enlace!

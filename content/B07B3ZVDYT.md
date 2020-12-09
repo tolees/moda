@@ -10,8 +10,11 @@ author: ring
 slug: B07B3ZVDYT
 description:
 actualPrice: 25.92 EUR
+currency: EUR
+price: 25.92
 comparePrice: 79.99 EUR
 inStock: true
+prodname: JACK & JONES Jjitim Jjicon JJ 099 Noos  Vaqueros Slim para Hombre  Azul Blue Denim  W33/L32
 ---
 
 Ahora mismo tienes [JACK & JONES Jjitim Jjicon JJ 099 Noos  Vaqueros Slim para Hombre  Azul Blue Denim  W33/L32](https://www.amazon.es/dp/B07B3ZVDYT/?tag=tolees-21) a 25.92 EUR (original: 79.99 EUR) (67.60 %  de descuento) en el siguiente enlace!

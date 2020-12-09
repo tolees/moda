@@ -10,8 +10,11 @@ author: ring
 slug: B07FMJ7YTS
 description:
 actualPrice: 14.24 EUR
+currency: EUR
+price: 14.24
 comparePrice: 30 EUR
 inStock: true
+prodname: Nike M Nk BRT Top SS Dry  Camiseta de Tirantes para Hombre  Verde Flak/Olive Canvas/Black 399  Small
 ---
 
 Está [Nike M Nk BRT Top SS Dry  Camiseta de Tirantes para Hombre  Verde Flak/Olive Canvas/Black 399  Small](https://www.amazon.es/dp/B07FMJ7YTS/?tag=tolees-21) con 52.53 de descuento por 14.24 EUR (original: 30 EUR) en el siguiente enlace!

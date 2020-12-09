@@ -10,8 +10,11 @@ author: ring
 slug: B07B4ZTMLL
 description:
 actualPrice: 43.53 EUR
+currency: EUR
+price: 43.53
 comparePrice: 99.95 EUR
 inStock: true
+prodname: G-Star Raw Lynn Mid Skinny Wmn New  Vaqueros para Mujer  Azul  Lt Aged 424   W27/L34
 ---
 
 Tienes [G-Star Raw Lynn Mid Skinny Wmn New  Vaqueros para Mujer  Azul  Lt Aged 424   W27/L34](https://www.amazon.es/dp/B07B4ZTMLL/?tag=tolees-21) con un 56.45 % de descuento con precio de oferta de 43.53 EUR (original: 99.95 EUR) en el siguiente enlace!

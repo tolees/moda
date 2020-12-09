@@ -10,8 +10,11 @@ author: ring
 slug: B01N6ZJJWM
 description:
 actualPrice: 12.42 EUR
+currency: EUR
+price: 12.42
 comparePrice: 27.7 EUR
 inStock: true
+prodname: Morgan Top  Camiseta para Mujer  Gris Acier/Noir  M
 ---
 
 Ahora mismo tienes [Morgan Top  Camiseta para Mujer  Gris Acier/Noir  M](https://www.amazon.es/dp/B01N6ZJJWM/?tag=tolees-21) a 12.42 EUR (original: 27.7 EUR) (55.16 %  de descuento) en el siguiente enlace!

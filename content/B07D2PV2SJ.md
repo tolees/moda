@@ -10,8 +10,11 @@ author: ring
 slug: B07D2PV2SJ
 description:
 actualPrice: 22.22 EUR
+currency: EUR
+price: 22.22
 comparePrice: 45 EUR
 inStock: true
+prodname: Gant KU. Archive Oxford B.d. Shirt  Camisa Niños  Rosa  Light Pink   2 años  Talla del Fabricante: 92 
 ---
 
 Está [Gant KU. Archive Oxford B.d. Shirt  Camisa Niños  Rosa  Light Pink   2 años  Talla del Fabricante: 92 ](https://www.amazon.es/dp/B07D2PV2SJ/?tag=tolees-21) con 50.62 de descuento por 22.22 EUR (original: 45 EUR) en el siguiente enlace!

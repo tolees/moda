@@ -10,8 +10,11 @@ author: ring
 slug: B07BJHHBG3
 description:
 actualPrice: 29.38 EUR
+currency: EUR
+price: 29.38
 comparePrice: 119.95 EUR
 inStock: true
+prodname: G-STAR RAW 3301 Deconstructed Skinny  Vaqueros Skinny Hombre  Azul  Dk Aged 89   W42/L34
 ---
 
 Ahora mismo tienes [G-STAR RAW 3301 Deconstructed Skinny  Vaqueros Skinny Hombre  Azul  Dk Aged 89   W42/L34](https://www.amazon.es/dp/B07BJHHBG3/?tag=tolees-21) a 29.38 EUR (original: 119.95 EUR) (75.51 %  de descuento) en el siguiente enlace!

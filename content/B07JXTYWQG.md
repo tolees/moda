@@ -10,8 +10,11 @@ author: ring
 slug: B07JXTYWQG
 description:
 actualPrice: 19.3 EUR
+currency: EUR
+price: 19.3
 comparePrice: 98 EUR
 inStock: true
+prodname: Guess Bleached Shirt Camisa Casual  Naranja  Orange Check Bleach Le32   Large para Hombre
 ---
 
 Está [Guess Bleached Shirt Camisa Casual  Naranja  Orange Check Bleach Le32   Large para Hombre](https://www.amazon.es/dp/B07JXTYWQG/?tag=tolees-21) con 80.31 de descuento por 19.3 EUR (original: 98 EUR) en el siguiente enlace!

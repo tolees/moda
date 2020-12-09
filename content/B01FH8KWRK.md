@@ -10,8 +10,11 @@ author: ring
 slug: B01FH8KWRK
 description:
 actualPrice: 26.2 EUR
+currency: EUR
+price: 26.2
 comparePrice: 35 EUR
 inStock: true
+prodname: Under Armour UA Launch SW Split Short Pantalón Corto  Hombre  Negro  001   M
 ---
 
 Tienes [Under Armour UA Launch SW Split Short Pantalón Corto  Hombre  Negro  001   M](https://www.amazon.es/dp/B01FH8KWRK/?tag=tolees-21) con un 25.14 % de descuento con precio de oferta de 26.2 EUR (original: 35 EUR) en el siguiente enlace!

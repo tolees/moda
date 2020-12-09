@@ -10,8 +10,11 @@ author: ring
 slug: B06XDHSZ44
 description:
 actualPrice: 12.82 EUR
+currency: EUR
+price: 12.82
 comparePrice: 30 EUR
 inStock: true
+prodname: find. Blusa Tropical Print para Mujer   Multicolor  Multicoloured   44  Talla del Fabricante: X-Large 
 ---
 
 Tienes [find. Blusa Tropical Print para Mujer   Multicolor  Multicoloured   44  Talla del Fabricante: X-Large ](https://www.amazon.es/dp/B06XDHSZ44/?tag=tolees-21) con un 57.27 % de descuento con precio de oferta de 12.82 EUR (original: 30 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07RB7VDCL
 description:
 actualPrice: 57.25 EUR
+currency: EUR
+price: 57.25
 comparePrice: 139.99 EUR
 inStock: true
+prodname: Columbia Lake 22  Chaqueta de plumas con capucha  Hombre  Azul  Dark Mountain   Talla XL
 ---
 
 Está [Columbia Lake 22  Chaqueta de plumas con capucha  Hombre  Azul  Dark Mountain   Talla XL](https://www.amazon.es/dp/B07RB7VDCL/?tag=tolees-21) con 59.10 de descuento por 57.25 EUR (original: 139.99 EUR) en el siguiente enlace!

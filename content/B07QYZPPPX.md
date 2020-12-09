@@ -10,8 +10,11 @@ author: ring
 slug: B07QYZPPPX
 description:
 actualPrice: 23.99 EUR
+currency: EUR
+price: 23.99
 comparePrice: 35.95 EUR
 inStock: true
+prodname: Sandalias para Niños Casual Verano Strap Sandalias-Zapatillas de Material sintético para niño
 ---
 
 Tienes [Sandalias para Niños Casual Verano Strap Sandalias-Zapatillas de Material sintético para niño](https://www.amazon.es/dp/B07QYZPPPX/?tag=tolees-21) con un 33.27 % de descuento con precio de oferta de 23.99 EUR (original: 35.95 EUR) en el siguiente enlace!

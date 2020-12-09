@@ -10,8 +10,11 @@ author: ring
 slug: B07J6N4PBM
 description:
 actualPrice: 49.7 EUR
+currency: EUR
+price: 49.7
 comparePrice: 110 EUR
 inStock: true
+prodname: Timberland Bradstreet Fabric/Leather  Zapatillas para Hombre  Azul  Black Iris Du0   41.5 EU
 ---
 
 Ahora mismo tienes [Timberland Bradstreet Fabric/Leather  Zapatillas para Hombre  Azul  Black Iris Du0   41.5 EU](https://www.amazon.es/dp/B07J6N4PBM/?tag=tolees-21) a 49.7 EUR (original: 110 EUR) (54.82 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B01AC6PAUG
 description:
 actualPrice: 11.59 EUR
+currency: EUR
+price: 11.59
 comparePrice: 21 EUR
 inStock: true
+prodname: Nike Park VI Camiseta de Manga Corta para hombre  Blanco  White/Black   L
 ---
 
 Ahora mismo tienes [Nike Park VI Camiseta de Manga Corta para hombre  Blanco  White/Black   L](https://www.amazon.es/dp/B01AC6PAUG/?tag=tolees-21) a 11.59 EUR (original: 21 EUR) (44.81 %  de descuento) en el siguiente enlace!

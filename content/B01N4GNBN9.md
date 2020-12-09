@@ -10,8 +10,11 @@ author: ring
 slug: B01N4GNBN9
 description:
 actualPrice: 39.5 EUR
+currency: EUR
+price: 39.5
 comparePrice: 57.22 EUR
 inStock: true
+prodname: adidas Fort14 Jsy Y P Camiseta Real Oviedo Fc  Niños  Blanco  Blanco   116
 ---
 
 Está [adidas Fort14 Jsy Y P Camiseta Real Oviedo Fc  Niños  Blanco  Blanco   116](https://www.amazon.es/dp/B01N4GNBN9/?tag=tolees-21) con 30.97 de descuento por 39.5 EUR (original: 57.22 EUR) en el siguiente enlace!

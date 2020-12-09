@@ -10,8 +10,11 @@ author: ring
 slug: B06X9NSXCD
 description:
 actualPrice: 62.73 EUR
+currency: EUR
+price: 62.73
 comparePrice: 119.95 EUR
 inStock: true
+prodname: BOSS Orange24 Barcelona  Pantalones Vaqueros Delgados para Hombre  Negro  Black 002  W31/L34
 ---
 
 Está [BOSS Orange24 Barcelona  Pantalones Vaqueros Delgados para Hombre  Negro  Black 002  W31/L34](https://www.amazon.es/dp/B06X9NSXCD/?tag=tolees-21) con 47.70 de descuento por 62.73 EUR (original: 119.95 EUR) en el siguiente enlace!

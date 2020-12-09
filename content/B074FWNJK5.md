@@ -10,8 +10,11 @@ author: ring
 slug: B074FWNJK5
 description:
 actualPrice: 9 EUR
+currency: EUR
+price: 9
 comparePrice: 30 EUR
 inStock: true
+prodname: FIND Sudadera con Capucha y Detalle Bordado para Hombre  Azul  Navy   Large
 ---
 
 Tienes [FIND Sudadera con Capucha y Detalle Bordado para Hombre  Azul  Navy   Large](https://www.amazon.es/dp/B074FWNJK5/?tag=tolees-21) con un 70.00 % de descuento con precio de oferta de 9 EUR (original: 30 EUR) en el siguiente enlace!

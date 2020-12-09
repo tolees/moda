@@ -10,8 +10,11 @@ author: ring
 slug: B01AJ25OEU
 description:
 actualPrice: 29.25 EUR
+currency: EUR
+price: 29.25
 comparePrice: 150 EUR
 inStock: true
+prodname: Salewa Trektail Halbschuh  Zapatos de Low Rise Senderismo para Mujer  Marrón  Falcon/Red Onion 7556   37 EU
 ---
 
 Está [Salewa Trektail Halbschuh  Zapatos de Low Rise Senderismo para Mujer  Marrón  Falcon/Red Onion 7556   37 EU](https://www.amazon.es/dp/B01AJ25OEU/?tag=tolees-21) con 80.50 de descuento por 29.25 EUR (original: 150 EUR) en el siguiente enlace!

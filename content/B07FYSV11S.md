@@ -10,8 +10,11 @@ author: ring
 slug: B07FYSV11S
 description:
 actualPrice: 29.45 EUR
+currency: EUR
+price: 29.45
 comparePrice: 84.95 EUR
 inStock: true
+prodname: Wrangler Larston  Vaqueros  Azul  Dark Vent 27e   34W / 30L para Hombre
 ---
 
 Está [Wrangler Larston  Vaqueros  Azul  Dark Vent 27e   34W / 30L para Hombre](https://www.amazon.es/dp/B07FYSV11S/?tag=tolees-21) con 65.33 de descuento por 29.45 EUR (original: 84.95 EUR) en el siguiente enlace!

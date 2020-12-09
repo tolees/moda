@@ -10,8 +10,11 @@ author: ring
 slug: B076JFD1TP
 description:
 actualPrice: 67.49 EUR
+currency: EUR
+price: 67.49
 comparePrice: 89.99 EUR
 inStock: true
+prodname: BORLENI Chaqueta de moto a prueba de viento motocicleta armadura de equipo de protección otoño invierno verano para hombre de toda estaciòn
 ---
 
 Ahora mismo tienes [BORLENI Chaqueta de moto a prueba de viento motocicleta armadura de equipo de protección otoño invierno verano para hombre de toda estaciòn](https://www.amazon.es/dp/B076JFD1TP/?tag=tolees-21) a 67.49 EUR (original: 89.99 EUR) (25.00 %  de descuento) en el siguiente enlace!

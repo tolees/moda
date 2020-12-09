@@ -10,8 +10,11 @@ author: ring
 slug: B07MN26XXJ
 description:
 actualPrice: 14.01 EUR
+currency: EUR
+price: 14.01
 comparePrice: 30 EUR
 inStock: true
+prodname: The North Face S/S Red Box tee Camiseta  Hombre  Storm Blue  L
 ---
 
 Ahora mismo tienes [The North Face S/S Red Box tee Camiseta  Hombre  Storm Blue  L](https://www.amazon.es/dp/B07MN26XXJ/?tag=tolees-21) a 14.01 EUR (original: 30 EUR) (53.30 %  de descuento) en el siguiente enlace!

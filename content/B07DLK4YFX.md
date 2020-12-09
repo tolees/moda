@@ -10,8 +10,11 @@ author: ring
 slug: B07DLK4YFX
 description:
 actualPrice: 6.3 EUR
+currency: EUR
+price: 6.3
 comparePrice: 24.99 EUR
 inStock: true
+prodname: Springfield 4.2.T.MD.Camisa Aplique CRO Blusa  Mujer  Azul  Azul Marino 10   38  Tamaño del Fabricante:38 
 ---
 
 Ahora mismo tienes [Springfield 4.2.T.MD.Camisa Aplique CRO Blusa  Mujer  Azul  Azul Marino 10   38  Tamaño del Fabricante:38 ](https://www.amazon.es/dp/B07DLK4YFX/?tag=tolees-21) a 6.3 EUR (original: 24.99 EUR) (74.79 %  de descuento) en el siguiente enlace!

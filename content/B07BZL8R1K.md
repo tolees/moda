@@ -10,8 +10,11 @@ author: ring
 slug: B07BZL8R1K
 description:
 actualPrice: 19.18 EUR
+currency: EUR
+price: 19.18
 comparePrice: 115 EUR
 inStock: true
+prodname: Remonte R2671  Botines para Mujer  Negro  Schwarz 01   39 EU
 ---
 
 Está [Remonte R2671  Botines para Mujer  Negro  Schwarz 01   39 EU](https://www.amazon.es/dp/B07BZL8R1K/?tag=tolees-21) con 83.32 de descuento por 19.18 EUR (original: 115 EUR) en el siguiente enlace!

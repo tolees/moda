@@ -10,8 +10,11 @@ author: ring
 slug: B07PMTLW1N
 description:
 actualPrice: 16.26 EUR
+currency: EUR
+price: 16.26
 comparePrice: 28.0 EUR
 inStock: true
+prodname: Under Armour Challenger III Training Top Camisa Manga Corta  Hombre  Azul  SM
 ---
 
 Tienes [Under Armour Challenger III Training Top Camisa Manga Corta  Hombre  Azul  SM](https://www.amazon.es/dp/B07PMTLW1N/?tag=tolees-21) con un 41.93 % de descuento con precio de oferta de 16.26 EUR (original: 28.0 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07STL53MX
 description:
 actualPrice: 20.07 EUR
+currency: EUR
+price: 20.07
 comparePrice: 28.78 EUR
 inStock: true
+prodname: REPLAY M8034 .000.83286 Chaqueta  Verde  Grün 943   Small para Hombre
 ---
 
 Ahora mismo tienes [REPLAY M8034 .000.83286 Chaqueta  Verde  Grün 943   Small para Hombre](https://www.amazon.es/dp/B07STL53MX/?tag=tolees-21) a 20.07 EUR (original: 28.78 EUR) (30.26 %  de descuento) en el siguiente enlace!

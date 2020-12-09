@@ -10,8 +10,11 @@ author: ring
 slug: B073RNYQVW
 description:
 actualPrice: 15.49 EUR
+currency: EUR
+price: 15.49
 comparePrice: 30.0 EUR
 inStock: true
+prodname: Helly Hansen Logo T-shirt Camiseta de manga corta hecha de algodón  con logo HH en el pecho
 ---
 
 Tienes [Helly Hansen Logo T-shirt Camiseta de manga corta hecha de algodón  con logo HH en el pecho](https://www.amazon.es/dp/B073RNYQVW/?tag=tolees-21) con un 48.37 % de descuento con precio de oferta de 15.49 EUR (original: 30.0 EUR) en el siguiente enlace!

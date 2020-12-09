@@ -10,8 +10,11 @@ author: ring
 slug: B07VC4KJP9
 description:
 actualPrice: 23.84 EUR
+currency: EUR
+price: 23.84
 comparePrice: 49.0 EUR
 inStock: true
+prodname: Calvin Klein Vegetable Dye Monogram Slim tee Camiseta  Morado  Brandied Apricot VAZ   X-Large para Hombre
 ---
 
 Tienes [Calvin Klein Vegetable Dye Monogram Slim tee Camiseta  Morado  Brandied Apricot VAZ   X-Large para Hombre](https://www.amazon.es/dp/B07VC4KJP9/?tag=tolees-21) con un 51.35 % de descuento con precio de oferta de 23.84 EUR (original: 49.0 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07KMQYVNT
 description:
 actualPrice: 15.34 EUR
+currency: EUR
+price: 15.34
 comparePrice: 39.9 EUR
 inStock: true
+prodname: Superdry Trophy Micro AOP tee  Camiseta de Tirantes para Hombre  Negro  Black 02A  X-Large
 ---
 
 Ahora mismo tienes [Superdry Trophy Micro AOP tee  Camiseta de Tirantes para Hombre  Negro  Black 02A  X-Large](https://www.amazon.es/dp/B07KMQYVNT/?tag=tolees-21) a 15.34 EUR (original: 39.9 EUR) (61.55 %  de descuento) en el siguiente enlace!

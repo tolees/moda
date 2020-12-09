@@ -10,8 +10,11 @@ author: ring
 slug: B07GBCYGNX
 description:
 actualPrice: 75 EUR
+currency: EUR
+price: 75
 comparePrice: 150 EUR
 inStock: true
+prodname: Diesel Tepphar L.32 Pantaloni  Vaqueros Slim para Hombre  Blau  Denim 01  36W x 32L
 ---
 
 Tienes [Diesel Tepphar L.32 Pantaloni  Vaqueros Slim para Hombre  Blau  Denim 01  36W x 32L](https://www.amazon.es/dp/B07GBCYGNX/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 75 EUR (original: 150 EUR) en el siguiente enlace!

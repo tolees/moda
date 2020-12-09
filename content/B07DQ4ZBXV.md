@@ -10,8 +10,11 @@ author: ring
 slug: B07DQ4ZBXV
 description:
 actualPrice: 18.82 EUR
+currency: EUR
+price: 18.82
 comparePrice: 29.99 EUR
 inStock: true
+prodname: MTNG Collection Hally  Bolso bandolera para Mujer  Marrón  Karma Cuero   8 x 21 x 17 cm
 ---
 
 Está [MTNG Collection Hally  Bolso bandolera para Mujer  Marrón  Karma Cuero   8 x 21 x 17 cm](https://www.amazon.es/dp/B07DQ4ZBXV/?tag=tolees-21) con 37.25 de descuento por 18.82 EUR (original: 29.99 EUR) en el siguiente enlace!

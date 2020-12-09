@@ -10,8 +10,11 @@ author: ring
 slug: B0787FVBHN
 description:
 actualPrice: 39.61 EUR
+currency: EUR
+price: 39.61
 comparePrice: 59.73 EUR
 inStock: true
+prodname: Naf Naf ELIX Vestido  Negro  Noir 625    Talla del Fabricante: 34  para Mujer
 ---
 
 Ahora mismo tienes [Naf Naf ELIX Vestido  Negro  Noir 625    Talla del Fabricante: 34  para Mujer](https://www.amazon.es/dp/B0787FVBHN/?tag=tolees-21) a 39.61 EUR (original: 59.73 EUR) (33.68 %  de descuento) en el siguiente enlace!

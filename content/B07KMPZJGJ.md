@@ -10,8 +10,11 @@ author: ring
 slug: B07KMPZJGJ
 description:
 actualPrice: 20.95 EUR
+currency: EUR
+price: 20.95
 comparePrice: 39.9 EUR
 inStock: true
+prodname: Superdry Vintage Logo Camo Infill tee Camiseta de Tirantes  Negro  Black 02A   Large para Hombre
 ---
 
 Ahora mismo tienes [Superdry Vintage Logo Camo Infill tee Camiseta de Tirantes  Negro  Black 02A   Large para Hombre](https://www.amazon.es/dp/B07KMPZJGJ/?tag=tolees-21) a 20.95 EUR (original: 39.9 EUR) (47.49 %  de descuento) en el siguiente enlace!

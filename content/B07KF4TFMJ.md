@@ -10,8 +10,11 @@ author: ring
 slug: B07KF4TFMJ
 description:
 actualPrice: 48.83 EUR
+currency: EUR
+price: 48.83
 comparePrice: 110.0 EUR
 inStock: true
+prodname: Levi s 511 Slim Fit Vaqueros  Rajah ADV 3313  27W / 32L para Hombre
 ---
 
 Tienes [Levi s 511 Slim Fit Vaqueros  Rajah ADV 3313  27W / 32L para Hombre](https://www.amazon.es/dp/B07KF4TFMJ/?tag=tolees-21) con un 55.61 % de descuento con precio de oferta de 48.83 EUR (original: 110.0 EUR) en el siguiente enlace!

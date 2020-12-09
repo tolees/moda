@@ -10,8 +10,11 @@ author: ring
 slug: B07FXWBDTC
 description:
 actualPrice: 15.0 EUR
+currency: EUR
+price: 15.0
 comparePrice: 37.53 EUR
 inStock: true
+prodname: Marca Amazon - find. Puffer - Chaqueta Hombre  Azul  S  Label: S
 ---
 
 Está [Marca Amazon - find. Puffer - Chaqueta Hombre  Azul  S  Label: S](https://www.amazon.es/dp/B07FXWBDTC/?tag=tolees-21) con 60.03 de descuento por 15.0 EUR (original: 37.53 EUR) en el siguiente enlace!

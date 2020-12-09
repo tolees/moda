@@ -10,8 +10,11 @@ author: ring
 slug: B07VNSM7J3
 description:
 actualPrice: 37.08 EUR
+currency: EUR
+price: 37.08
 comparePrice: 115.0 EUR
 inStock: true
+prodname: Art Güell  Sandalias con Punta Cerrada para Mujer  Marrón  Cuero Cuero   36 EU
 ---
 
 Ahora mismo tienes [Art Güell  Sandalias con Punta Cerrada para Mujer  Marrón  Cuero Cuero   36 EU](https://www.amazon.es/dp/B07VNSM7J3/?tag=tolees-21) a 37.08 EUR (original: 115.0 EUR) (67.76 %  de descuento) en el siguiente enlace!

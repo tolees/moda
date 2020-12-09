@@ -10,8 +10,11 @@ author: ring
 slug: B01NH2X0TV
 description:
 actualPrice: 19.95 EUR
+currency: EUR
+price: 19.95
 comparePrice: 40 EUR
 inStock: true
+prodname: Timberland Adventure Seeker 2 Strap  Mocasines Unisex Niños  Azul  Black Iris   29 EU
 ---
 
 Ahora mismo tienes [Timberland Adventure Seeker 2 Strap  Mocasines Unisex Niños  Azul  Black Iris   29 EU](https://www.amazon.es/dp/B01NH2X0TV/?tag=tolees-21) a 19.95 EUR (original: 40 EUR) (50.12 %  de descuento) en el siguiente enlace!

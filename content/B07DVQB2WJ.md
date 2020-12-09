@@ -10,8 +10,11 @@ author: ring
 slug: B07DVQB2WJ
 description:
 actualPrice: 13.45 EUR
+currency: EUR
+price: 13.45
 comparePrice: 28.01 EUR
 inStock: true
+prodname: Volcom stence BSC SS - Camiseta  Hombre  A3531863  Engine Red  Extra-Small
 ---
 
 Ahora mismo tienes [Volcom stence BSC SS - Camiseta  Hombre  A3531863  Engine Red  Extra-Small](https://www.amazon.es/dp/B07DVQB2WJ/?tag=tolees-21) a 13.45 EUR (original: 28.01 EUR) (51.98 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07JZXJJ1V
 description:
 actualPrice: 14.32 EUR
+currency: EUR
+price: 14.32
 comparePrice: 29.97 EUR
 inStock: true
+prodname: Emporio Armani Underwear 9p529 Bóxer   Negro 00020   X-Large para Hombre
 ---
 
 Está [Emporio Armani Underwear 9p529 Bóxer   Negro 00020   X-Large para Hombre](https://www.amazon.es/dp/B07JZXJJ1V/?tag=tolees-21) con 52.22 de descuento por 14.32 EUR (original: 29.97 EUR) en el siguiente enlace!

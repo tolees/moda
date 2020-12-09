@@ -10,8 +10,11 @@ author: ring
 slug: B07NC7SPQ6
 description:
 actualPrice: 32.11 EUR
+currency: EUR
+price: 32.11
 comparePrice: 95 EUR
 inStock: true
+prodname: Pepe Jeans New Brooke Vaqueros Straight  Azul  Dark Used Denim Cn6   W25/L34 para Mujer
 ---
 
 Está [Pepe Jeans New Brooke Vaqueros Straight  Azul  Dark Used Denim Cn6   W25/L34 para Mujer](https://www.amazon.es/dp/B07NC7SPQ6/?tag=tolees-21) con 66.20 de descuento por 32.11 EUR (original: 95 EUR) en el siguiente enlace!

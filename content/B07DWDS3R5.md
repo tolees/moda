@@ -10,8 +10,11 @@ author: ring
 slug: B07DWDS3R5
 description:
 actualPrice: 18.7 EUR
+currency: EUR
+price: 18.7
 comparePrice: 26 EUR
 inStock: true
+prodname: Under Armour UA Tech Graphic Short Pantalón Corto  Hombre  Verde  Artillery Green/Black 357   L
 ---
 
 Está [Under Armour UA Tech Graphic Short Pantalón Corto  Hombre  Verde  Artillery Green/Black 357   L](https://www.amazon.es/dp/B07DWDS3R5/?tag=tolees-21) con 28.08 de descuento por 18.7 EUR (original: 26 EUR) en el siguiente enlace!

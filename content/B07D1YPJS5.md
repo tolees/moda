@@ -10,16 +10,17 @@ author: ring
 slug: B07D1YPJS5
 description:
 actualPrice: 100.95 EUR
+currency: EUR
+price: 100.95
 comparePrice: 140 EUR
 inStock: true
+prodname: Armani Exchange 8nze74 Chaqueta Punto  Azul  Navy 1510   Small para Hombre
 ---
 
-Está [Armani Exchange 8nze74 Chaqueta Punto  Azul  Navy 1510   Small para Hombre](https://www.amazon.es/dp/B07D1YPJS5/?tag=tolees-21) con 27.89 de descuento por 100.95 EUR (original: 140 EUR) en el siguiente enlace!
+Ahora mismo tienes [Armani Exchange 8nze74 Chaqueta Punto  Azul  Navy 1510   Small para Hombre](https://www.amazon.es/dp/B07D1YPJS5/?tag=tolees-21) a 100.95 EUR (original: 140 EUR) (27.89 %  de descuento) en el siguiente enlace!
 
 [![Armani Exchange 8nze74 Chaqueta Punto  A](https://images-eu.ssl-images-amazon.com/images/I/418a0dj0x1L._SL200_.jpg)](https://www.amazon.es/dp/B07D1YPJS5/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07D1YPJS5/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07D1YPJS5/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

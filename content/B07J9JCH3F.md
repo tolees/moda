@@ -10,8 +10,11 @@ author: ring
 slug: B07J9JCH3F
 description:
 actualPrice: 35.99 EUR
+currency: EUR
+price: 35.99
 comparePrice: 59.99 EUR
 inStock: true
+prodname: COOU Zapatos de Seguridad Comodo Hombre Mujer con Puntera de Acero S3 Calzado de Trabajo Botas de Trabajo de Seguridad
 ---
 
 Está [COOU Zapatos de Seguridad Comodo Hombre Mujer con Puntera de Acero S3 Calzado de Trabajo Botas de Trabajo de Seguridad](https://www.amazon.es/dp/B07J9JCH3F/?tag=tolees-21) con 40.01 de descuento por 35.99 EUR (original: 59.99 EUR) en el siguiente enlace!

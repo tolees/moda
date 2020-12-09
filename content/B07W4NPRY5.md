@@ -10,8 +10,11 @@ author: ring
 slug: B07W4NPRY5
 description:
 actualPrice: 10.22 EUR
+currency: EUR
+price: 10.22
 comparePrice: 76.66 EUR
 inStock: true
+prodname: Tommy Hilfiger Brooklyn Short Light Twill Vaqueros  Faded Indigo  29W / 30L para Hombre
 ---
 
 Está [Tommy Hilfiger Brooklyn Short Light Twill Vaqueros  Faded Indigo  29W / 30L para Hombre](https://www.amazon.es/dp/B07W4NPRY5/?tag=tolees-21) con 86.67 de descuento por 10.22 EUR (original: 76.66 EUR) en el siguiente enlace!

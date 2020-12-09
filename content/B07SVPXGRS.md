@@ -10,8 +10,11 @@ author: ring
 slug: B07SVPXGRS
 description:
 actualPrice: 50.5 EUR
+currency: EUR
+price: 50.5
 comparePrice: 109.9 EUR
 inStock: true
+prodname: Geox D LEELU  E  Zapatillas para Mujer  Blanco  White/Off White C1352   36 EU
 ---
 
 Ahora mismo tienes [Geox D LEELU  E  Zapatillas para Mujer  Blanco  White/Off White C1352   36 EU](https://www.amazon.es/dp/B07SVPXGRS/?tag=tolees-21) a 50.5 EUR (original: 109.9 EUR) (54.05 %  de descuento) en el siguiente enlace!

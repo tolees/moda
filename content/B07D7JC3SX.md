@@ -10,8 +10,11 @@ author: ring
 slug: B07D7JC3SX
 description:
 actualPrice: 43.17 EUR
+currency: EUR
+price: 43.17
 comparePrice: 149.9 EUR
 inStock: true
+prodname: Dolores Promesas 107430  Vestido para Mujer  Verde   Tamaño del Fabricante:36 
 ---
 
 Está [Dolores Promesas 107430  Vestido para Mujer  Verde   Tamaño del Fabricante:36 ](https://www.amazon.es/dp/B07D7JC3SX/?tag=tolees-21) con 71.20 de descuento por 43.17 EUR (original: 149.9 EUR) en el siguiente enlace!

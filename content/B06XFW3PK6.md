@@ -10,8 +10,11 @@ author: ring
 slug: B06XFW3PK6
 description:
 actualPrice: 29.76 EUR
+currency: EUR
+price: 29.76
 comparePrice: 140 EUR
 inStock: true
+prodname: Dr. Martens Corvid S1p  Zapatos de Seguridad Unisex Adulto  Negro  Black 001   46 EU
 ---
 
 Ahora mismo tienes [Dr. Martens Corvid S1p  Zapatos de Seguridad Unisex Adulto  Negro  Black 001   46 EU](https://www.amazon.es/dp/B06XFW3PK6/?tag=tolees-21) a 29.76 EUR (original: 140 EUR) (78.74 %  de descuento) en el siguiente enlace!

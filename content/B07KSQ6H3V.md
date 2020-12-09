@@ -10,8 +10,11 @@ author: ring
 slug: B07KSQ6H3V
 description:
 actualPrice: 16.2 EUR
+currency: EUR
+price: 16.2
 comparePrice: 34.99 EUR
 inStock: true
+prodname: Columbia Mujer Camiseta  Firwood Camp Tee  Poliéster  Violeta  Antique Mauve   Talla: M  1840491
 ---
 
 Está [Columbia Mujer Camiseta  Firwood Camp Tee  Poliéster  Violeta  Antique Mauve   Talla: M  1840491](https://www.amazon.es/dp/B07KSQ6H3V/?tag=tolees-21) con 53.70 de descuento por 16.2 EUR (original: 34.99 EUR) en el siguiente enlace!

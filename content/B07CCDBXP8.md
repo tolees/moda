@@ -10,8 +10,11 @@ author: ring
 slug: B07CCDBXP8
 description:
 actualPrice: 24.95 EUR
+currency: EUR
+price: 24.95
 comparePrice: 49.99 EUR
 inStock: true
+prodname: JACK & JONES Jorriver Jacket Chaqueta  Azul Total Eclipse  Medium para Hombre
 ---
 
 Está [JACK & JONES Jorriver Jacket Chaqueta  Azul Total Eclipse  Medium para Hombre](https://www.amazon.es/dp/B07CCDBXP8/?tag=tolees-21) con 50.09 de descuento por 24.95 EUR (original: 49.99 EUR) en el siguiente enlace!

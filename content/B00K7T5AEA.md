@@ -10,8 +10,11 @@ author: ring
 slug: B00K7T5AEA
 description:
 actualPrice: 34 EUR
+currency: EUR
+price: 34
 comparePrice: 85 EUR
 inStock: true
+prodname: Pepe Jeans Hatch  Vaqueros Slim para Hombre  Azul  12Oz Clean Twill H05   W33/L34
 ---
 
 Está [Pepe Jeans Hatch  Vaqueros Slim para Hombre  Azul  12Oz Clean Twill H05   W33/L34](https://www.amazon.es/dp/B00K7T5AEA/?tag=tolees-21) con 60.00 de descuento por 34 EUR (original: 85 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B073QQFRPR
 description:
 actualPrice: 9.5 EUR
+currency: EUR
+price: 9.5
 comparePrice: 28 EUR
 inStock: true
+prodname: find. Jersey con Textura de Cuadros para Hombre  Rojo  Damson   Large
 ---
 
 Está [find. Jersey con Textura de Cuadros para Hombre  Rojo  Damson   Large](https://www.amazon.es/dp/B073QQFRPR/?tag=tolees-21) con 66.07 de descuento por 9.5 EUR (original: 28 EUR) en el siguiente enlace!

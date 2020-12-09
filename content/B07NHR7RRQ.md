@@ -10,8 +10,11 @@ author: ring
 slug: B07NHR7RRQ
 description:
 actualPrice: 34.3 EUR
+currency: EUR
+price: 34.3
 comparePrice: 49 EUR
 inStock: true
+prodname: Tous Monedero Mediano Vera Topo
 ---
 
 Ahora mismo tienes [Tous Monedero Mediano Vera Topo](https://www.amazon.es/dp/B07NHR7RRQ/?tag=tolees-21) a 34.3 EUR (original: 49 EUR) (30.00 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B016N2MKPG
 description:
 actualPrice: 104.93 EUR
+currency: EUR
+price: 104.93
 comparePrice: 259.99 EUR
 inStock: true
+prodname: Serengeti Large Carlo  Gafas de Sol para Hombre  Tortoise  L
 ---
 
 Está [Serengeti Large Carlo  Gafas de Sol para Hombre  Tortoise  L](https://www.amazon.es/dp/B016N2MKPG/?tag=tolees-21) con 59.64 de descuento por 104.93 EUR (original: 259.99 EUR) en el siguiente enlace!

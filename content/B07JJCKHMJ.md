@@ -10,8 +10,11 @@ author: ring
 slug: B07JJCKHMJ
 description:
 actualPrice: 29.84 EUR
+currency: EUR
+price: 29.84
 comparePrice: 120 EUR
 inStock: true
+prodname: Armani Exchange Mao Collar Blusa  Rosa  Pretty In Pink 1453   X-Large para Mujer
 ---
 
 Tienes [Armani Exchange Mao Collar Blusa  Rosa  Pretty In Pink 1453   X-Large para Mujer](https://www.amazon.es/dp/B07JJCKHMJ/?tag=tolees-21) con un 75.13 % de descuento con precio de oferta de 29.84 EUR (original: 120 EUR) en el siguiente enlace!

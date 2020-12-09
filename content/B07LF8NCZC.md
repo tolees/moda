@@ -10,8 +10,11 @@ author: ring
 slug: B07LF8NCZC
 description:
 actualPrice: 21.67 EUR
+currency: EUR
+price: 21.67
 comparePrice: 35.0 EUR
 inStock: true
+prodname: Levi s 2Pk Crewneck 1 Camiseta  2 Pack Slim Crew Dress Blues/White  S  Pack de 2  para Hombre
 ---
 
 Ahora mismo tienes [Levi s 2Pk Crewneck 1 Camiseta  2 Pack Slim Crew Dress Blues/White  S  Pack de 2  para Hombre](https://www.amazon.es/dp/B07LF8NCZC/?tag=tolees-21) a 21.67 EUR (original: 35.0 EUR) (38.09 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B075RFMLMQ
 description:
 actualPrice: 17.83 EUR
+currency: EUR
+price: 17.83
 comparePrice: 39 EUR
 inStock: true
+prodname: Double Agent 86884  Jersey para Mujer   Gris Vigore Claro     Tamaño del Fabricante:M 
 ---
 
 Está [Double Agent 86884  Jersey para Mujer   Gris Vigore Claro     Tamaño del Fabricante:M ](https://www.amazon.es/dp/B075RFMLMQ/?tag=tolees-21) con 54.28 de descuento por 17.83 EUR (original: 39 EUR) en el siguiente enlace!

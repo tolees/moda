@@ -10,8 +10,11 @@ author: ring
 slug: B07DJ71WVW
 description:
 actualPrice: 34.95 EUR
+currency: EUR
+price: 34.95
 comparePrice: 60 EUR
 inStock: true
+prodname: Geox U Kaven A  Zapatillas para Hombre  Azul  Navy C4002   39 EU
 ---
 
 Ahora mismo tienes [Geox U Kaven A  Zapatillas para Hombre  Azul  Navy C4002   39 EU](https://www.amazon.es/dp/B07DJ71WVW/?tag=tolees-21) a 34.95 EUR (original: 60 EUR) (41.75 %  de descuento) en el siguiente enlace!

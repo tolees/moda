@@ -10,8 +10,11 @@ author: ring
 slug: B07KYKS6FQ
 description:
 actualPrice: 4.05 EUR
+currency: EUR
+price: 4.05
 comparePrice: 15.99 EUR
 inStock: true
+prodname: Springfield 4.T.Daily.Ap.Pv19.Polo FK Blusa   Gama Rojo 65   Large  Tamaño del Fabricante:L  para Mujer
 ---
 
 Ahora mismo tienes [Springfield 4.T.Daily.Ap.Pv19.Polo FK Blusa   Gama Rojo 65   Large  Tamaño del Fabricante:L  para Mujer](https://www.amazon.es/dp/B07KYKS6FQ/?tag=tolees-21) a 4.05 EUR (original: 15.99 EUR) (74.67 %  de descuento) en el siguiente enlace!

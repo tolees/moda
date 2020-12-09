@@ -10,8 +10,11 @@ author: ring
 slug: B07DP54WJB
 description:
 actualPrice: 10.4 EUR
+currency: EUR
+price: 10.4
 comparePrice: 24.99 EUR
 inStock: true
+prodname: ONLY Onldarling L/s Cardigan CC Knt  Chaqueta Punto para Mujer  Turquesa  Ether Detail:W. DTM Glitter   36  Talla del Fabricante: Small 
 ---
 
 Está [ONLY Onldarling L/s Cardigan CC Knt  Chaqueta Punto para Mujer  Turquesa  Ether Detail:W. DTM Glitter   36  Talla del Fabricante: Small ](https://www.amazon.es/dp/B07DP54WJB/?tag=tolees-21) con 58.38 de descuento por 10.4 EUR (original: 24.99 EUR) en el siguiente enlace!

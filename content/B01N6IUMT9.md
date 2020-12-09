@@ -10,8 +10,11 @@ author: ring
 slug: B01N6IUMT9
 description:
 actualPrice: 14.56 EUR
+currency: EUR
+price: 14.56
 comparePrice: 62.37 EUR
 inStock: true
+prodname: s.Oliver 13703713842  Vaqueros Straight para Hombre  Azul  Blue Denim Non Stretch Blau 52Y4   31W x 30L
 ---
 
 Ahora mismo tienes [s.Oliver 13703713842  Vaqueros Straight para Hombre  Azul  Blue Denim Non Stretch Blau 52Y4   31W x 30L](https://www.amazon.es/dp/B01N6IUMT9/?tag=tolees-21) a 14.56 EUR (original: 62.37 EUR) (76.66 %  de descuento) en el siguiente enlace!

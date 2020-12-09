@@ -10,8 +10,11 @@ author: ring
 slug: B07DWMT9BQ
 description:
 actualPrice: 41.42 EUR
+currency: EUR
+price: 41.42
 comparePrice: 159.99 EUR
 inStock: true
+prodname: Quiksilver Hana Go Chaqueta  Hombre  Negro  Black KVJ2    Tamaño del Fabricante:XL 
 ---
 
 Ahora mismo tienes [Quiksilver Hana Go Chaqueta  Hombre  Negro  Black KVJ2    Tamaño del Fabricante:XL ](https://www.amazon.es/dp/B07DWMT9BQ/?tag=tolees-21) a 41.42 EUR (original: 159.99 EUR) (74.11 %  de descuento) en el siguiente enlace!

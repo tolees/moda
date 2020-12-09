@@ -10,8 +10,11 @@ author: ring
 slug: B07CV8C9SY
 description:
 actualPrice: 19.62 EUR
+currency: EUR
+price: 19.62
 comparePrice: 69.99 EUR
 inStock: true
+prodname: PIECES Psdesi Boot DC  Botines para Mujer  Gris Natural  38 EU
 ---
 
 Ahora mismo tienes [PIECES Psdesi Boot DC  Botines para Mujer  Gris Natural  38 EU](https://www.amazon.es/dp/B07CV8C9SY/?tag=tolees-21) a 19.62 EUR (original: 69.99 EUR) (71.97 %  de descuento) en el siguiente enlace!

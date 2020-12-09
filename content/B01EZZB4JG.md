@@ -10,8 +10,11 @@ author: ring
 slug: B01EZZB4JG
 description:
 actualPrice: 20.49 EUR
+currency: EUR
+price: 20.49
 comparePrice: 65 EUR
 inStock: true
+prodname: Rocket Dog DANNIS  Botines para Mujer  Marrón  41 EU
 ---
 
 Está [Rocket Dog DANNIS  Botines para Mujer  Marrón  41 EU](https://www.amazon.es/dp/B01EZZB4JG/?tag=tolees-21) con 68.48 de descuento por 20.49 EUR (original: 65 EUR) en el siguiente enlace!

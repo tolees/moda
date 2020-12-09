@@ -10,8 +10,11 @@ author: ring
 slug: B07KL3SQXJ
 description:
 actualPrice: 14.97 EUR
+currency: EUR
+price: 14.97
 comparePrice: 25.2 EUR
 inStock: true
+prodname: adidas Own The Run tee Camiseta  Hombre  Blanco  White/Reflective Silver   S
 ---
 
 Está [adidas Own The Run tee Camiseta  Hombre  Blanco  White/Reflective Silver   S](https://www.amazon.es/dp/B07KL3SQXJ/?tag=tolees-21) con 40.60 de descuento por 14.97 EUR (original: 25.2 EUR) en el siguiente enlace!

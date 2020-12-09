@@ -10,8 +10,11 @@ author: ring
 slug: B078WWGDDP
 description:
 actualPrice: 38.35 EUR
+currency: EUR
+price: 38.35
 comparePrice: 59 EUR
 inStock: true
+prodname: FIND Zapatos T-bar de Tacón Mujer  Plateado  Silver 022   38 EU
 ---
 
 Tienes [FIND Zapatos T-bar de Tacón Mujer  Plateado  Silver 022   38 EU](https://www.amazon.es/dp/B078WWGDDP/?tag=tolees-21) con un 35.00 % de descuento con precio de oferta de 38.35 EUR (original: 59 EUR) en el siguiente enlace!

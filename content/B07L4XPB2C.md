@@ -10,8 +10,11 @@ author: ring
 slug: B07L4XPB2C
 description:
 actualPrice: 16.95 EUR
+currency: EUR
+price: 16.95
 comparePrice: 34.95 EUR
 inStock: true
+prodname: Charles Wilson Camisa Franela de Cuadros Manga Larga para Hombre  Medium  Blue & White 2 
 ---
 
 Tienes [Charles Wilson Camisa Franela de Cuadros Manga Larga para Hombre  Medium  Blue & White 2 ](https://www.amazon.es/dp/B07L4XPB2C/?tag=tolees-21) con un 51.50 % de descuento con precio de oferta de 16.95 EUR (original: 34.95 EUR) en el siguiente enlace!

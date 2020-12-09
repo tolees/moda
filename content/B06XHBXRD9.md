@@ -10,8 +10,11 @@ author: ring
 slug: B06XHBXRD9
 description:
 actualPrice: 29.95 EUR
+currency: EUR
+price: 29.95
 comparePrice: 69.9 EUR
 inStock: true
+prodname: Geox J Kommodor B  Zapatillas para Niños  Azul  Navy/Lime   38 EU
 ---
 
 Tienes [Geox J Kommodor B  Zapatillas para Niños  Azul  Navy/Lime   38 EU](https://www.amazon.es/dp/B06XHBXRD9/?tag=tolees-21) con un 57.15 % de descuento con precio de oferta de 29.95 EUR (original: 69.9 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B079QFHVBM
 description:
 actualPrice: 18.57 EUR
+currency: EUR
+price: 18.57
 comparePrice: 99.95 EUR
 inStock: true
+prodname: Lee Scarlett  Vaqueros Skinny para Mujer  Gris  Grey Raw WH   W29/L31
 ---
 
 Tienes [Lee Scarlett  Vaqueros Skinny para Mujer  Gris  Grey Raw WH   W29/L31](https://www.amazon.es/dp/B079QFHVBM/?tag=tolees-21) con un 81.42 % de descuento con precio de oferta de 18.57 EUR (original: 99.95 EUR) en el siguiente enlace!

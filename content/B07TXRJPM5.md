@@ -10,8 +10,11 @@ author: ring
 slug: B07TXRJPM5
 description:
 actualPrice: 35.49 EUR
+currency: EUR
+price: 35.49
 comparePrice: 79.95 EUR
 inStock: true
+prodname: Wrangler Greensboro Vaqueros  Azul  Sirocco Blue 150   33W / 30L para Hombre
 ---
 
 Tienes [Wrangler Greensboro Vaqueros  Azul  Sirocco Blue 150   33W / 30L para Hombre](https://www.amazon.es/dp/B07TXRJPM5/?tag=tolees-21) con un 55.61 % de descuento con precio de oferta de 35.49 EUR (original: 79.95 EUR) en el siguiente enlace!

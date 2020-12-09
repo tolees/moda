@@ -10,8 +10,11 @@ author: ring
 slug: B07RYLRFYD
 description:
 actualPrice: 40.94 EUR
+currency: EUR
+price: 40.94
 comparePrice: 59.0 EUR
 inStock: true
+prodname: Antony Morato Felpa Girocollo Basic con Placchetta Sudadera  Negro  Nero 9000   Small para Hombre
 ---
 
 Está [Antony Morato Felpa Girocollo Basic con Placchetta Sudadera  Negro  Nero 9000   Small para Hombre](https://www.amazon.es/dp/B07RYLRFYD/?tag=tolees-21) con 30.61 de descuento por 40.94 EUR (original: 59.0 EUR) en el siguiente enlace!

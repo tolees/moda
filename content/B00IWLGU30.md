@@ -10,8 +10,11 @@ author: ring
 slug: B00IWLGU30
 description:
 actualPrice: 19.79 EUR
+currency: EUR
+price: 19.79
 comparePrice: 69.95 EUR
 inStock: true
+prodname: LTB - Vaqueros straight para hombre  - vulcano  1332   W38/L30  38 
 ---
 
 Está [LTB - Vaqueros straight para hombre  - vulcano  1332   W38/L30  38 ](https://www.amazon.es/dp/B00IWLGU30/?tag=tolees-21) con 71.71 de descuento por 19.79 EUR (original: 69.95 EUR) en el siguiente enlace!

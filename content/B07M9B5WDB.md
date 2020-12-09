@@ -10,8 +10,11 @@ author: ring
 slug: B07M9B5WDB
 description:
 actualPrice: 37.52 EUR
+currency: EUR
+price: 37.52
 comparePrice: 80 EUR
 inStock: true
+prodname: The North Face Drew Peak Sudadera  Hombre  Azul  Storm Blue   L
 ---
 
 Ahora mismo tienes [The North Face Drew Peak Sudadera  Hombre  Azul  Storm Blue   L](https://www.amazon.es/dp/B07M9B5WDB/?tag=tolees-21) a 37.52 EUR (original: 80 EUR) (53.10 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B01DED5D7O
 description:
 actualPrice: 14.01 EUR
+currency: EUR
+price: 14.01
 comparePrice: 33.88 EUR
 inStock: true
+prodname: Reef Twinpin  Sandalias para Hombre   Khaki   40 EU
 ---
 
 Tienes [Reef Twinpin  Sandalias para Hombre   Khaki   40 EU](https://www.amazon.es/dp/B01DED5D7O/?tag=tolees-21) con un 58.65 % de descuento con precio de oferta de 14.01 EUR (original: 33.88 EUR) en el siguiente enlace!

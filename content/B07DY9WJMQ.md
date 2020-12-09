@@ -10,8 +10,11 @@ author: ring
 slug: B07DY9WJMQ
 description:
 actualPrice: 9.95 EUR
+currency: EUR
+price: 9.95
 comparePrice: 19.99 EUR
 inStock: true
+prodname: Roxy Viva Glitter IV  Zapatos de Playa y Piscina para Mujer  Rosa  Lt Peach Lpc   37 EU
 ---
 
 Tienes [Roxy Viva Glitter IV  Zapatos de Playa y Piscina para Mujer  Rosa  Lt Peach Lpc   37 EU](https://www.amazon.es/dp/B07DY9WJMQ/?tag=tolees-21) con un 50.23 % de descuento con precio de oferta de 9.95 EUR (original: 19.99 EUR) en el siguiente enlace!

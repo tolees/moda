@@ -10,8 +10,11 @@ author: ring
 slug: B07JZW9FJG
 description:
 actualPrice: 9.26 EUR
+currency: EUR
+price: 9.26
 comparePrice: 19.99 EUR
 inStock: true
+prodname: JACK & JONES Jcoscales Polo SS  Camiseta Hombre  Azul  Classic Blue Fit: Slim Melange   Medium
 ---
 
 Está [JACK & JONES Jcoscales Polo SS  Camiseta Hombre  Azul  Classic Blue Fit: Slim Melange   Medium](https://www.amazon.es/dp/B07JZW9FJG/?tag=tolees-21) con 53.68 de descuento por 9.26 EUR (original: 19.99 EUR) en el siguiente enlace!

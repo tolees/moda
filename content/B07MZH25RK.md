@@ -10,8 +10,11 @@ author: ring
 slug: B07MZH25RK
 description:
 actualPrice: 69.95 EUR
+currency: EUR
+price: 69.95
 comparePrice: 99.95 EUR
 inStock: true
+prodname: G-STAR RAW Revend Skinny Vaqueros  Medium Indigo Aged  31W / 32L para Hombre
 ---
 
 Tienes [G-STAR RAW Revend Skinny Vaqueros  Medium Indigo Aged  31W / 32L para Hombre](https://www.amazon.es/dp/B07MZH25RK/?tag=tolees-21) con un 30.02 % de descuento con precio de oferta de 69.95 EUR (original: 99.95 EUR) en el siguiente enlace!

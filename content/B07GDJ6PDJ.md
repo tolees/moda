@@ -10,8 +10,11 @@ author: ring
 slug: B07GDJ6PDJ
 description:
 actualPrice: 11.95 EUR
+currency: EUR
+price: 11.95
 comparePrice: 25 EUR
 inStock: true
+prodname: Levi s Graphic Set-in Neck  Camiseta para Hombre  Gris  Ssnl Boxtab Midtone Heather Grey 0523   L
 ---
 
 Ahora mismo tienes [Levi s Graphic Set-in Neck  Camiseta para Hombre  Gris  Ssnl Boxtab Midtone Heather Grey 0523   L](https://www.amazon.es/dp/B07GDJ6PDJ/?tag=tolees-21) a 11.95 EUR (original: 25 EUR) (52.20 %  de descuento) en el siguiente enlace!

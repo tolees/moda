@@ -10,8 +10,11 @@ author: ring
 slug: B07FGX8D6P
 description:
 actualPrice: 40.95 EUR
+currency: EUR
+price: 40.95
 comparePrice: 60.17 EUR
 inStock: true
+prodname: Columbia Mystic Falls Fleece Chaqueta Polar  Mujer  Azul  Talla L
 ---
 
 Está [Columbia Mystic Falls Fleece Chaqueta Polar  Mujer  Azul  Talla L](https://www.amazon.es/dp/B07FGX8D6P/?tag=tolees-21) con 31.94 de descuento por 40.95 EUR (original: 60.17 EUR) en el siguiente enlace!

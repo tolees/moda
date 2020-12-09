@@ -10,8 +10,11 @@ author: ring
 slug: B07VQN7TRQ
 description:
 actualPrice: 24.5 EUR
+currency: EUR
+price: 24.5
 comparePrice: 49.0 EUR
 inStock: true
+prodname: Fossil Collar para Mujer JF03242710
 ---
 
 Tienes [Fossil Collar para Mujer JF03242710](https://www.amazon.es/dp/B07VQN7TRQ/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 24.5 EUR (original: 49.0 EUR) en el siguiente enlace!

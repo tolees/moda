@@ -10,8 +10,11 @@ author: ring
 slug: B07HBHT94W
 description:
 actualPrice: 62.21 EUR
+currency: EUR
+price: 62.21
 comparePrice: 151.79 EUR
 inStock: true
+prodname: KAREN MILLEN Fashions Limited Studded Heeled Sandals  Zapatos de tacón con Punta Abierta para Mujer  Plateado  Silver 98   40 EU
 ---
 
 Ahora mismo tienes [KAREN MILLEN Fashions Limited Studded Heeled Sandals  Zapatos de tacón con Punta Abierta para Mujer  Plateado  Silver 98   40 EU](https://www.amazon.es/dp/B07HBHT94W/?tag=tolees-21) a 62.21 EUR (original: 151.79 EUR) (59.02 %  de descuento) en el siguiente enlace!

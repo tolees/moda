@@ -10,8 +10,11 @@ author: ring
 slug: B079RQC7YC
 description:
 actualPrice: 27.96 EUR
+currency: EUR
+price: 27.96
 comparePrice: 69.9 EUR
 inStock: true
+prodname: Pepe Jeans Zen  Sudadera con Capucha para Hombre  Azul  Chatham Blue 586   M
 ---
 
 Está [Pepe Jeans Zen  Sudadera con Capucha para Hombre  Azul  Chatham Blue 586   M](https://www.amazon.es/dp/B079RQC7YC/?tag=tolees-21) con 60.00 de descuento por 27.96 EUR (original: 69.9 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B087VHCPCP
 description:
 actualPrice: 47.49 EUR
+currency: EUR
+price: 47.49
 comparePrice: 109.99 EUR
 inStock: true
+prodname: Columbia Pike Lake II Chaleco Aislante para Mujer  Rosa  Nova Pink   S
 ---
 
 Ahora mismo tienes [Columbia Pike Lake II Chaleco Aislante para Mujer  Rosa  Nova Pink   S](https://www.amazon.es/dp/B087VHCPCP/?tag=tolees-21) a 47.49 EUR (original: 109.99 EUR) (56.82 %  de descuento) en el siguiente enlace!

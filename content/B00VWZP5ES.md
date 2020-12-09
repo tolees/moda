@@ -10,8 +10,11 @@ author: ring
 slug: B00VWZP5ES
 description:
 actualPrice: 52.48 EUR
+currency: EUR
+price: 52.48
 comparePrice: 149.95 EUR
 inStock: true
+prodname: G-STAR RAW Attacc Mid Straight Wmn  Vaqueros para Mujer  Blue  Medium Aged 071  W33/L34
 ---
 
 Tienes [G-STAR RAW Attacc Mid Straight Wmn  Vaqueros para Mujer  Blue  Medium Aged 071  W33/L34](https://www.amazon.es/dp/B00VWZP5ES/?tag=tolees-21) con un 65.00 % de descuento con precio de oferta de 52.48 EUR (original: 149.95 EUR) en el siguiente enlace!

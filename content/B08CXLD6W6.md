@@ -10,8 +10,11 @@ author: ring
 slug: B08CXLD6W6
 description:
 actualPrice: 20.41 EUR
+currency: EUR
+price: 20.41
 comparePrice: 34.68 EUR
 inStock: true
+prodname: GRAT.UNIC Leggins Mujer de Yoga Leggings Mujer Fitness Mallas Deportivas de Mujer Pantalones Elásticos de Yoga Con Bolsillos Laterales Pantalón Deportivo para Mujer  Negro & Plata  S 
 ---
 
 Está [GRAT.UNIC Leggins Mujer de Yoga Leggings Mujer Fitness Mallas Deportivas de Mujer Pantalones Elásticos de Yoga Con Bolsillos Laterales Pantalón Deportivo para Mujer  Negro & Plata  S ](https://www.amazon.es/dp/B08CXLD6W6/?tag=tolees-21) con 41.15 de descuento por 20.41 EUR (original: 34.68 EUR) en el siguiente enlace!

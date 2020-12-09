@@ -10,8 +10,11 @@ author: ring
 slug: B07CN7J8XR
 description:
 actualPrice: 17.45 EUR
+currency: EUR
+price: 17.45
 comparePrice: 24.99 EUR
 inStock: true
+prodname: crocs Swiftwater River Sandal K  Sandalias con Punta Abierta Unisex niño  Verde  Army Green 309.   32/33 EU
 ---
 
 Tienes [crocs Swiftwater River Sandal K  Sandalias con Punta Abierta Unisex niño  Verde  Army Green 309.   32/33 EU](https://www.amazon.es/dp/B07CN7J8XR/?tag=tolees-21) con un 30.17 % de descuento con precio de oferta de 17.45 EUR (original: 24.99 EUR) en el siguiente enlace!

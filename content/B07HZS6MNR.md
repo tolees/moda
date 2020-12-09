@@ -10,8 +10,11 @@ author: ring
 slug: B07HZS6MNR
 description:
 actualPrice: 12.58 EUR
+currency: EUR
+price: 12.58
 comparePrice: 22.88 EUR
 inStock: true
+prodname: Dickies Philomont Camiseta  Rojo  Fiery Red FR   Small para Hombre
 ---
 
 Tienes [Dickies Philomont Camiseta  Rojo  Fiery Red FR   Small para Hombre](https://www.amazon.es/dp/B07HZS6MNR/?tag=tolees-21) con un 45.02 % de descuento con precio de oferta de 12.58 EUR (original: 22.88 EUR) en el siguiente enlace!

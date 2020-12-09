@@ -10,8 +10,11 @@ author: ring
 slug: B01H70LNIS
 description:
 actualPrice: 15.49 EUR
+currency: EUR
+price: 15.49
 comparePrice: 34.99 EUR
 inStock: true
+prodname: crocs 203998  Chanclas Mujer  Negro  Black/White   34-35 EU
 ---
 
 Está [crocs 203998  Chanclas Mujer  Negro  Black/White   34-35 EU](https://www.amazon.es/dp/B01H70LNIS/?tag=tolees-21) con 55.73 de descuento por 15.49 EUR (original: 34.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07KSH6K3B
 description:
 actualPrice: 46.95 EUR
+currency: EUR
+price: 46.95
 comparePrice: 79.99 EUR
 inStock: true
+prodname: Columbia Powder Pass - Chaleco de Nylon  Hombre  Negro  Black   M
 ---
 
 Ahora mismo tienes [Columbia Powder Pass - Chaleco de Nylon  Hombre  Negro  Black   M](https://www.amazon.es/dp/B07KSH6K3B/?tag=tolees-21) a 46.95 EUR (original: 79.99 EUR) (41.31 %  de descuento) en el siguiente enlace!

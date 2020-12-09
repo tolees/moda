@@ -10,8 +10,11 @@ author: ring
 slug: B00I3D5EJI
 description:
 actualPrice: 21.11 EUR
+currency: EUR
+price: 21.11
 comparePrice: 64.95 EUR
 inStock: true
+prodname: Skechers Equalizer Vivid Dream  Zapatos  Mujer  Azul  Nvw   36
 ---
 
 Está [Skechers Equalizer Vivid Dream  Zapatos  Mujer  Azul  Nvw   36](https://www.amazon.es/dp/B00I3D5EJI/?tag=tolees-21) con 67.50 de descuento por 21.11 EUR (original: 64.95 EUR) en el siguiente enlace!

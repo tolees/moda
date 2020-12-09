@@ -10,8 +10,11 @@ author: ring
 slug: B07FGKRSV7
 description:
 actualPrice: 46.99 EUR
+currency: EUR
+price: 46.99
 comparePrice: 89.99 EUR
 inStock: true
+prodname: Under Armour Coldgear Run Knit Jacket Chaqueta  Hombre  Negro Black/Reflective 001  S
 ---
 
 Está [Under Armour Coldgear Run Knit Jacket Chaqueta  Hombre  Negro Black/Reflective 001  S](https://www.amazon.es/dp/B07FGKRSV7/?tag=tolees-21) con 47.78 de descuento por 46.99 EUR (original: 89.99 EUR) en el siguiente enlace!

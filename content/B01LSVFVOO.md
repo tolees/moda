@@ -10,8 +10,11 @@ author: ring
 slug: B01LSVFVOO
 description:
 actualPrice: 56.33 EUR
+currency: EUR
+price: 56.33
 comparePrice: 93.04 EUR
 inStock: true
+prodname: Liu Jo LJ659SR 419 55 Gafas de sol  Blue Tortoise  Mujer
 ---
 
 Está [Liu Jo LJ659SR 419 55 Gafas de sol  Blue Tortoise  Mujer](https://www.amazon.es/dp/B01LSVFVOO/?tag=tolees-21) con 39.46 de descuento por 56.33 EUR (original: 93.04 EUR) en el siguiente enlace!

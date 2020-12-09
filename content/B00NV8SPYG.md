@@ -10,8 +10,11 @@ author: ring
 slug: B00NV8SPYG
 description:
 actualPrice: 17.68 EUR
+currency: EUR
+price: 17.68
 comparePrice: 75 EUR
 inStock: true
+prodname: Naf Naf Pantalón Gris Oscuro ES 38
 ---
 
 Tienes [Naf Naf Pantalón Gris Oscuro ES 38](https://www.amazon.es/dp/B00NV8SPYG/?tag=tolees-21) con un 76.43 % de descuento con precio de oferta de 17.68 EUR (original: 75 EUR) en el siguiente enlace!

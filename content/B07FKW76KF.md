@@ -10,8 +10,11 @@ author: ring
 slug: B07FKW76KF
 description:
 actualPrice: 52.75 EUR
+currency: EUR
+price: 52.75
 comparePrice: 95 EUR
 inStock: true
+prodname: Armani Exchange Chest Stripe Camisa   White/H.Risk Red/Bla 5179   Small para Hombre
 ---
 
 Ahora mismo tienes [Armani Exchange Chest Stripe Camisa   White/H.Risk Red/Bla 5179   Small para Hombre](https://www.amazon.es/dp/B07FKW76KF/?tag=tolees-21) a 52.75 EUR (original: 95 EUR) (44.47 %  de descuento) en el siguiente enlace!

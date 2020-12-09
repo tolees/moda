@@ -10,8 +10,11 @@ author: ring
 slug: B01N8PIKGU
 description:
 actualPrice: 9.95 EUR
+currency: EUR
+price: 9.95
 comparePrice: 25.41 EUR
 inStock: true
+prodname: Kempa Fly High - Camiseta de Hombre  Todo el año  Hombre  Color weiß/Grau Melange  tamaño XXXL
 ---
 
 Está [Kempa Fly High - Camiseta de Hombre  Todo el año  Hombre  Color weiß/Grau Melange  tamaño XXXL](https://www.amazon.es/dp/B01N8PIKGU/?tag=tolees-21) con 60.84 de descuento por 9.95 EUR (original: 25.41 EUR) en el siguiente enlace!

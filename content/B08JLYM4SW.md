@@ -10,8 +10,11 @@ author: ring
 slug: B08JLYM4SW
 description:
 actualPrice: 18.79 EUR
+currency: EUR
+price: 18.79
 comparePrice: 25.87 EUR
 inStock: true
+prodname: Joyero de cuero para mujer  organizador de almacenamiento con espejo pendiente de collar  anillo de Navidad  Navidad  Día de la Madre  regalo de cumpleaños para esposa  madre y niña  color negro
 ---
 
 Ahora mismo tienes [Joyero de cuero para mujer  organizador de almacenamiento con espejo pendiente de collar  anillo de Navidad  Navidad  Día de la Madre  regalo de cumpleaños para esposa  madre y niña  color negro](https://www.amazon.es/dp/B08JLYM4SW/?tag=tolees-21) a 18.79 EUR (original: 25.87 EUR) (27.37 %  de descuento) en el siguiente enlace!

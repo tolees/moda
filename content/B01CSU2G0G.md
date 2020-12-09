@@ -10,8 +10,11 @@ author: ring
 slug: B01CSU2G0G
 description:
 actualPrice: 6.81 EUR
+currency: EUR
+price: 6.81
 comparePrice: 15 EUR
 inStock: true
+prodname: Joma Campus II Camiseta de Juego Manga Corta  Hombre  Royal  2XS
 ---
 
 Ahora mismo tienes [Joma Campus II Camiseta de Juego Manga Corta  Hombre  Royal  2XS](https://www.amazon.es/dp/B01CSU2G0G/?tag=tolees-21) a 6.81 EUR (original: 15 EUR) (54.60 %  de descuento) en el siguiente enlace!

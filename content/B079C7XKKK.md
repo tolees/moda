@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 50.77 % en Tommy Jeans Mujer Tommy Classics  Blusa '
+title: 'Tommy Jeans Mujer Tommy Classics  Blusa  al 50.77 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41shAbtjtjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41shAbtjtjL._SL200_.jpg' ]
@@ -10,15 +10,18 @@ author: ring
 slug: B079C7XKKK
 description:
 actualPrice: 32 EUR
+currency: EUR
+price: 32
 comparePrice: 65 EUR
 inStock: true
+prodname: Tommy Jeans Mujer Tommy Classics  Blusa Manga Larga  Blanco  Classic White 100  X-Small
 ---
 
-Tienes [Tommy Jeans Mujer Tommy Classics  Blusa Manga Larga  Blanco  Classic White 100  X-Small](https://www.amazon.es/dp/B079C7XKKK/?tag=tolees-21) con un 50.77 % de descuento con precio de oferta de 32 EUR (original: 65 EUR) en el siguiente enlace!
+Está [Tommy Jeans Mujer Tommy Classics  Blusa Manga Larga  Blanco  Classic White 100  X-Small](https://www.amazon.es/dp/B079C7XKKK/?tag=tolees-21) con 50.77 de descuento por 32 EUR (original: 65 EUR) en el siguiente enlace!
 
 [![Tommy Jeans Mujer Tommy Classics  Blusa ](https://images-eu.ssl-images-amazon.com/images/I/41shAbtjtjL._SL200_.jpg)](https://www.amazon.es/dp/B079C7XKKK/?tag=tolees-21)
 
-[Accede a la oferta!!](https://www.amazon.es/dp/B079C7XKKK/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B079C7XKKK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

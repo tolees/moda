@@ -10,8 +10,11 @@ author: ring
 slug: B087PXTZS1
 description:
 actualPrice: 11.99 EUR
+currency: EUR
+price: 11.99
 comparePrice: 19.99 EUR
 inStock: true
+prodname: AMZTM 3ro Dinosaurio Camiseta de Manga Corta Cumpleaños Bebé Niño Cumpleaño Manga Corta Tops 3 años 100% Algodón Blanca Dino Impreso Tops T Shirt  Blanca  3 años -110 
 ---
 
 Está [AMZTM 3ro Dinosaurio Camiseta de Manga Corta Cumpleaños Bebé Niño Cumpleaño Manga Corta Tops 3 años 100% Algodón Blanca Dino Impreso Tops T Shirt  Blanca  3 años -110 ](https://www.amazon.es/dp/B087PXTZS1/?tag=tolees-21) con 40.02 de descuento por 11.99 EUR (original: 19.99 EUR) en el siguiente enlace!

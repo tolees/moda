@@ -10,8 +10,11 @@ author: ring
 slug: B07ZKNX5H2
 description:
 actualPrice: 9.73 EUR
+currency: EUR
+price: 9.73
 comparePrice: 13.32 EUR
 inStock: true
+prodname: Marca Amazon - find. Jersey de Algodón Hombre  azul  marino   M  Label: M
 ---
 
 Está [Marca Amazon - find. Jersey de Algodón Hombre  azul  marino   M  Label: M](https://www.amazon.es/dp/B07ZKNX5H2/?tag=tolees-21) con 26.95 de descuento por 9.73 EUR (original: 13.32 EUR) en el siguiente enlace!

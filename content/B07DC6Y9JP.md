@@ -10,8 +10,11 @@ author: ring
 slug: B07DC6Y9JP
 description:
 actualPrice: 29.9 EUR
+currency: EUR
+price: 29.9
 comparePrice: 59.99 EUR
 inStock: true
+prodname: JACK & JONES Jcobarkley Jacket  Chaqueta para Hombre  Azul Sky Captain  Large
 ---
 
 Tienes [JACK & JONES Jcobarkley Jacket  Chaqueta para Hombre  Azul Sky Captain  Large](https://www.amazon.es/dp/B07DC6Y9JP/?tag=tolees-21) con un 50.16 % de descuento con precio de oferta de 29.9 EUR (original: 59.99 EUR) en el siguiente enlace!

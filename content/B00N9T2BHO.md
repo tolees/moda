@@ -10,8 +10,11 @@ author: ring
 slug: B00N9T2BHO
 description:
 actualPrice: 9.74 EUR
+currency: EUR
+price: 9.74
 comparePrice: 49.94 EUR
 inStock: true
+prodname: H.I.S Jeans 100362 - Vaqueros para Mujer  Color Rot  Flame Scarlet 6310   Talla 36
 ---
 
 Ahora mismo tienes [H.I.S Jeans 100362 - Vaqueros para Mujer  Color Rot  Flame Scarlet 6310   Talla 36](https://www.amazon.es/dp/B00N9T2BHO/?tag=tolees-21) a 9.74 EUR (original: 49.94 EUR) (80.50 %  de descuento) en el siguiente enlace!

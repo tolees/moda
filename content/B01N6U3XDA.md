@@ -10,8 +10,11 @@ author: ring
 slug: B01N6U3XDA
 description:
 actualPrice: 62.97 EUR
+currency: EUR
+price: 62.97
 comparePrice: 99.9 EUR
 inStock: true
+prodname: Geox Uomo Symbol B  Zapatos de Cordones Oxford para Hombre  Negro  45 EU
 ---
 
 Está [Geox Uomo Symbol B  Zapatos de Cordones Oxford para Hombre  Negro  45 EU](https://www.amazon.es/dp/B01N6U3XDA/?tag=tolees-21) con 36.97 de descuento por 62.97 EUR (original: 99.9 EUR) en el siguiente enlace!

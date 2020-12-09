@@ -10,8 +10,11 @@ author: ring
 slug: B077K5MZZD
 description:
 actualPrice: 21.19 EUR
+currency: EUR
+price: 21.19
 comparePrice: 119 EUR
 inStock: true
+prodname: Replay Joi Vaqueros Skinny  Azul  Dark Blue 7   W24/L30  Talla del Fabricante: 24  para Mujer
 ---
 
 Ahora mismo tienes [Replay Joi Vaqueros Skinny  Azul  Dark Blue 7   W24/L30  Talla del Fabricante: 24  para Mujer](https://www.amazon.es/dp/B077K5MZZD/?tag=tolees-21) a 21.19 EUR (original: 119 EUR) (82.19 %  de descuento) en el siguiente enlace!

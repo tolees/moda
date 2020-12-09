@@ -10,8 +10,11 @@ author: ring
 slug: B07QHWMJC1
 description:
 actualPrice: 168.79 EUR
+currency: EUR
+price: 168.79
 comparePrice: 228.8 EUR
 inStock: true
+prodname: exclusivememorabilia.com Camiseta de fútbol Liverpool 1985-86 firmada por Kenny Dalglish
 ---
 
 Está [exclusivememorabilia.com Camiseta de fútbol Liverpool 1985-86 firmada por Kenny Dalglish](https://www.amazon.es/dp/B07QHWMJC1/?tag=tolees-21) con 26.23 de descuento por 168.79 EUR (original: 228.8 EUR) en el siguiente enlace!

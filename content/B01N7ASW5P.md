@@ -10,8 +10,11 @@ author: ring
 slug: B01N7ASW5P
 description:
 actualPrice: 37.99 EUR
+currency: EUR
+price: 37.99
 comparePrice: 59.9 EUR
 inStock: true
+prodname: Tommy Hilfiger H2285arlow 1d  Zapatilla de Deporte Baja del Cuello para Hombre  Negro  Nero   43 EU
 ---
 
 Tienes [Tommy Hilfiger H2285arlow 1d  Zapatilla de Deporte Baja del Cuello para Hombre  Negro  Nero   43 EU](https://www.amazon.es/dp/B01N7ASW5P/?tag=tolees-21) con un 36.58 % de descuento con precio de oferta de 37.99 EUR (original: 59.9 EUR) en el siguiente enlace!

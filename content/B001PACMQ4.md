@@ -10,8 +10,11 @@ author: ring
 slug: B001PACMQ4
 description:
 actualPrice: 11.99 EUR
+currency: EUR
+price: 11.99
 comparePrice: 16.03 EUR
 inStock: true
+prodname: ABYstyle ABYTEX040 - Disfraz de hombre  adulto   talla M  - Camiseta One Piece Calavera con mapa negra m
 ---
 
 Tienes [ABYstyle ABYTEX040 - Disfraz de hombre  adulto   talla M  - Camiseta One Piece Calavera con mapa negra m](https://www.amazon.es/dp/B001PACMQ4/?tag=tolees-21) con un 25.20 % de descuento con precio de oferta de 11.99 EUR (original: 16.03 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07C9JWYND
 description:
 actualPrice: 9.0 EUR
+currency: EUR
+price: 9.0
 comparePrice: 18.5 EUR
 inStock: true
+prodname: oodji Ultra Hombre Camisa Estampada de Algodón  Azul  56
 ---
 
 Ahora mismo tienes [oodji Ultra Hombre Camisa Estampada de Algodón  Azul  56](https://www.amazon.es/dp/B07C9JWYND/?tag=tolees-21) a 9.0 EUR (original: 18.5 EUR) (51.35 %  de descuento) en el siguiente enlace!

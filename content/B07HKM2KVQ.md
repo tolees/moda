@@ -10,8 +10,11 @@ author: ring
 slug: B07HKM2KVQ
 description:
 actualPrice: 8.58 EUR
+currency: EUR
+price: 8.58
 comparePrice: 27.99 EUR
 inStock: true
+prodname: Mayoral 4300  Jersey para Niños   Rojo 38   2 años  Tamaño del Fabricante:2 
 ---
 
 Está [Mayoral 4300  Jersey para Niños   Rojo 38   2 años  Tamaño del Fabricante:2 ](https://www.amazon.es/dp/B07HKM2KVQ/?tag=tolees-21) con 69.35 de descuento por 8.58 EUR (original: 27.99 EUR) en el siguiente enlace!

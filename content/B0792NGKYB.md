@@ -10,8 +10,11 @@ author: ring
 slug: B0792NGKYB
 description:
 actualPrice: 29.95 EUR
+currency: EUR
+price: 29.95
 comparePrice: 55 EUR
 inStock: true
+prodname: Geox J Pavel A  Zapatillas para Niños   Dk Burgundy/Sky C7jm4   32 EU
 ---
 
 Está [Geox J Pavel A  Zapatillas para Niños   Dk Burgundy/Sky C7jm4   32 EU](https://www.amazon.es/dp/B0792NGKYB/?tag=tolees-21) con 45.55 de descuento por 29.95 EUR (original: 55 EUR) en el siguiente enlace!

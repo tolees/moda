@@ -10,8 +10,11 @@ author: ring
 slug: B01DAL0M2G
 description:
 actualPrice: 12.66 EUR
+currency: EUR
+price: 12.66
 comparePrice: 41.95 EUR
 inStock: true
+prodname: Izas Fara Camisa  Mujer  Morado  Purple   XS
 ---
 
 Ahora mismo tienes [Izas Fara Camisa  Mujer  Morado  Purple   XS](https://www.amazon.es/dp/B01DAL0M2G/?tag=tolees-21) a 12.66 EUR (original: 41.95 EUR) (69.82 %  de descuento) en el siguiente enlace!

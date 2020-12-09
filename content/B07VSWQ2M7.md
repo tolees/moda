@@ -10,8 +10,11 @@ author: ring
 slug: B07VSWQ2M7
 description:
 actualPrice: 15.32 EUR
+currency: EUR
+price: 15.32
 comparePrice: 79.95 EUR
 inStock: true
+prodname: G-STAR RAW Core 1 Pocket Straight Hemd Camisa  Azul  Sartho Blue 9679-6067   XS para Mujer
 ---
 
 Ahora mismo tienes [G-STAR RAW Core 1 Pocket Straight Hemd Camisa  Azul  Sartho Blue 9679-6067   XS para Mujer](https://www.amazon.es/dp/B07VSWQ2M7/?tag=tolees-21) a 15.32 EUR (original: 79.95 EUR) (80.84 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B0859JZTQS
 description:
 actualPrice: 22.99 EUR
+currency: EUR
+price: 22.99
 comparePrice: 38.99 EUR
 inStock: true
+prodname: deAO Mi Primera Muñeca Bebé Conjunto Incluye Muñeca de 14” con Pijama  Cuna con Móvil y Ropa de Cama  Trona  Sonajero  Orinal y Más Accesorios
 ---
 
 Ahora mismo tienes [deAO Mi Primera Muñeca Bebé Conjunto Incluye Muñeca de 14” con Pijama  Cuna con Móvil y Ropa de Cama  Trona  Sonajero  Orinal y Más Accesorios](https://www.amazon.es/dp/B0859JZTQS/?tag=tolees-21) a 22.99 EUR (original: 38.99 EUR) (41.04 %  de descuento) en el siguiente enlace!

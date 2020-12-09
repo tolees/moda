@@ -10,8 +10,11 @@ author: ring
 slug: B07KYNTJ3S
 description:
 actualPrice: 17.12 EUR
+currency: EUR
+price: 17.12
 comparePrice: 49.99 EUR
 inStock: true
+prodname: Springfield 3.T.Ap.Biker Antelina Col Chaqueta  Gama Azules 19   Tamaño del Fabricante:36  para Mujer
 ---
 
 Ahora mismo tienes [Springfield 3.T.Ap.Biker Antelina Col Chaqueta  Gama Azules 19   Tamaño del Fabricante:36  para Mujer](https://www.amazon.es/dp/B07KYNTJ3S/?tag=tolees-21) a 17.12 EUR (original: 49.99 EUR) (65.75 %  de descuento) en el siguiente enlace!

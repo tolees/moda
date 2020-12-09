@@ -10,8 +10,11 @@ author: ring
 slug: B07FJXMRHK
 description:
 actualPrice: 59.69 EUR
+currency: EUR
+price: 59.69
 comparePrice: 129.95 EUR
 inStock: true
+prodname: Lee Sherpa Jacket Chaqueta Vaquera  Azul  Vintage Worn   X-Large para Hombre
 ---
 
 Tienes [Lee Sherpa Jacket Chaqueta Vaquera  Azul  Vintage Worn   X-Large para Hombre](https://www.amazon.es/dp/B07FJXMRHK/?tag=tolees-21) con un 54.07 % de descuento con precio de oferta de 59.69 EUR (original: 129.95 EUR) en el siguiente enlace!

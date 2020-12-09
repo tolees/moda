@@ -10,8 +10,11 @@ author: ring
 slug: B01KJOO50C
 description:
 actualPrice: 22.42 EUR
+currency: EUR
+price: 22.42
 comparePrice: 59 EUR
 inStock: true
+prodname: Dickies Kingsley Sudadera  Marrón Brown Duck   X-Small Tamaño del Fabricante:Xsmal  para Hombre
 ---
 
 Ahora mismo tienes [Dickies Kingsley Sudadera  Marrón Brown Duck   X-Small Tamaño del Fabricante:Xsmal  para Hombre](https://www.amazon.es/dp/B01KJOO50C/?tag=tolees-21) a 22.42 EUR (original: 59 EUR) (62.00 %  de descuento) en el siguiente enlace!

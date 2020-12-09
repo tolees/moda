@@ -10,8 +10,11 @@ author: ring
 slug: B078GTWWQ6
 description:
 actualPrice: 13.64 EUR
+currency: EUR
+price: 13.64
 comparePrice: 29.99 EUR
 inStock: true
+prodname: Springfield Chaqueta Parka Corta Parka  Mujer  Azul  Azul   40  Tamaño del Fabricante:40 
 ---
 
 Está [Springfield Chaqueta Parka Corta Parka  Mujer  Azul  Azul   40  Tamaño del Fabricante:40 ](https://www.amazon.es/dp/B078GTWWQ6/?tag=tolees-21) con 54.52 de descuento por 13.64 EUR (original: 29.99 EUR) en el siguiente enlace!

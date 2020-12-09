@@ -10,8 +10,11 @@ author: ring
 slug: B06VV67WGP
 description:
 actualPrice: 14.29 EUR
+currency: EUR
+price: 14.29
 comparePrice: 20.49 EUR
 inStock: true
+prodname: Kempa Poly Camiseta de Entrenamiento  Hombre  Azul  L
 ---
 
 Tienes [Kempa Poly Camiseta de Entrenamiento  Hombre  Azul  L](https://www.amazon.es/dp/B06VV67WGP/?tag=tolees-21) con un 30.26 % de descuento con precio de oferta de 14.29 EUR (original: 20.49 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B075XQZK1H
 description:
 actualPrice: 13.39 EUR
+currency: EUR
+price: 13.39
 comparePrice: 29.71 EUR
 inStock: true
+prodname: Triumph Cardio App Better Musctan  Camiseta Deportiva de Tirantes para Mujer  Verde  Moss H1   M  Talla de fabricante: 40 
 ---
 
 Tienes [Triumph Cardio App Better Musctan  Camiseta Deportiva de Tirantes para Mujer  Verde  Moss H1   M  Talla de fabricante: 40 ](https://www.amazon.es/dp/B075XQZK1H/?tag=tolees-21) con un 54.93 % de descuento con precio de oferta de 13.39 EUR (original: 29.71 EUR) en el siguiente enlace!

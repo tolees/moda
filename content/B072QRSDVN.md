@@ -10,8 +10,11 @@ author: ring
 slug: B072QRSDVN
 description:
 actualPrice: 12.44 EUR
+currency: EUR
+price: 12.44
 comparePrice: 25 EUR
 inStock: true
+prodname: Lee Logo tee  Camiseta para Mujer  Negro  Black 01  Large
 ---
 
 Ahora mismo tienes [Lee Logo tee  Camiseta para Mujer  Negro  Black 01  Large](https://www.amazon.es/dp/B072QRSDVN/?tag=tolees-21) a 12.44 EUR (original: 25 EUR) (50.24 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07P2BD9TW
 description:
 actualPrice: 11.62 EUR
+currency: EUR
+price: 11.62
 comparePrice: 29.99 EUR
 inStock: true
+prodname: Superdry Collective tee Camiseta  Azul  Darkest Navy 49p   M para Hombre
 ---
 
 Ahora mismo tienes [Superdry Collective tee Camiseta  Azul  Darkest Navy 49p   M para Hombre](https://www.amazon.es/dp/B07P2BD9TW/?tag=tolees-21) a 11.62 EUR (original: 29.99 EUR) (61.25 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07F5WT6TC
 description:
 actualPrice: 50.99 EUR
+currency: EUR
+price: 50.99
 comparePrice: 120.0 EUR
 inStock: true
+prodname: Marmot Precip Eco Jacket Chubasqueros  Chaqueta  Prueba De Viento  Impermeable  Transpirable  Hombre  Arctic Navy  M
 ---
 
 Ahora mismo tienes [Marmot Precip Eco Jacket Chubasqueros  Chaqueta  Prueba De Viento  Impermeable  Transpirable  Hombre  Arctic Navy  M](https://www.amazon.es/dp/B07F5WT6TC/?tag=tolees-21) a 50.99 EUR (original: 120.0 EUR) (57.51 %  de descuento) en el siguiente enlace!

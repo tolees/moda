@@ -10,8 +10,11 @@ author: ring
 slug: B01MZ1EOAX
 description:
 actualPrice: 8.5 EUR
+currency: EUR
+price: 8.5
 comparePrice: 17.8 EUR
 inStock: true
+prodname: oodji Ultra Hombre Camisa Entallada a Lunares  Azul  сm 40 / ES 40 / S
 ---
 
 Ahora mismo tienes [oodji Ultra Hombre Camisa Entallada a Lunares  Azul  сm 40 / ES 40 / S](https://www.amazon.es/dp/B01MZ1EOAX/?tag=tolees-21) a 8.5 EUR (original: 17.8 EUR) (52.25 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07HYTDKQX
 description:
 actualPrice: 23.75 EUR
+currency: EUR
+price: 23.75
 comparePrice: 99 EUR
 inStock: true
+prodname: Pepe Jeans Regent Vaqueros  Azul  Whisper Wash Medium Used Ww4   26W / 32L para Mujer
 ---
 
 Tienes [Pepe Jeans Regent Vaqueros  Azul  Whisper Wash Medium Used Ww4   26W / 32L para Mujer](https://www.amazon.es/dp/B07HYTDKQX/?tag=tolees-21) con un 76.01 % de descuento con precio de oferta de 23.75 EUR (original: 99 EUR) en el siguiente enlace!

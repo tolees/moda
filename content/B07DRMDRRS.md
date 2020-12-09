@@ -10,8 +10,11 @@ author: ring
 slug: B07DRMDRRS
 description:
 actualPrice: 20.76 EUR
+currency: EUR
+price: 20.76
 comparePrice: 39.99 EUR
 inStock: true
+prodname: edc by Esprit 098cc1j008 Sudadera  Negro  Black 001   X-Large para Mujer
 ---
 
 Ahora mismo tienes [edc by Esprit 098cc1j008 Sudadera  Negro  Black 001   X-Large para Mujer](https://www.amazon.es/dp/B07DRMDRRS/?tag=tolees-21) a 20.76 EUR (original: 39.99 EUR) (48.09 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B074TPLBGQ
 description:
 actualPrice: 5.2 EUR
+currency: EUR
+price: 5.2
 comparePrice: 14.39 EUR
 inStock: true
+prodname: Schiesser Niñas Eco Surf T-Shirt Rundhals Camiseta Not Applicable  Blanco  Weiss 100   116
 ---
 
 Está [Schiesser Niñas Eco Surf T-Shirt Rundhals Camiseta Not Applicable  Blanco  Weiss 100   116](https://www.amazon.es/dp/B074TPLBGQ/?tag=tolees-21) con 63.86 de descuento por 5.2 EUR (original: 14.39 EUR) en el siguiente enlace!

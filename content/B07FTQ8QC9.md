@@ -10,8 +10,11 @@ author: ring
 slug: B07FTQ8QC9
 description:
 actualPrice: 18.41 EUR
+currency: EUR
+price: 18.41
 comparePrice: 59.95 EUR
 inStock: true
+prodname: Lee Button Down Camisa  Marfil  Blueprint Lh   XX-Large para Hombre
 ---
 
 Ahora mismo tienes [Lee Button Down Camisa  Marfil  Blueprint Lh   XX-Large para Hombre](https://www.amazon.es/dp/B07FTQ8QC9/?tag=tolees-21) a 18.41 EUR (original: 59.95 EUR) (69.29 %  de descuento) en el siguiente enlace!

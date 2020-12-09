@@ -10,8 +10,11 @@ author: ring
 slug: B07BXVD34S
 description:
 actualPrice: 29.59 EUR
+currency: EUR
+price: 29.59
 comparePrice: 99.95 EUR
 inStock: true
+prodname: Caprice 9-9-25421-21  Botines para Mujer  Marrón  Brown Comb 387   39 EU
 ---
 
 Está [Caprice 9-9-25421-21  Botines para Mujer  Marrón  Brown Comb 387   39 EU](https://www.amazon.es/dp/B07BXVD34S/?tag=tolees-21) con 70.40 de descuento por 29.59 EUR (original: 99.95 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07PCVZ32Z
 description:
 actualPrice: 21.99 EUR
+currency: EUR
+price: 21.99
 comparePrice: 29.99 EUR
 inStock: true
+prodname: Cartera Hombre Piel Bandera Legado Vox II Azul Monedero para Monedas  Billetera Capacidad Varios Billetes Fabricado España  Cuero Regalo Pulsera Bandera España Y Tarjeta Bloqueo RFID  Vertical botón 
 ---
 
 Ahora mismo tienes [Cartera Hombre Piel Bandera Legado Vox II Azul Monedero para Monedas  Billetera Capacidad Varios Billetes Fabricado España  Cuero Regalo Pulsera Bandera España Y Tarjeta Bloqueo RFID  Vertical botón ](https://www.amazon.es/dp/B07PCVZ32Z/?tag=tolees-21) a 21.99 EUR (original: 29.99 EUR) (26.68 %  de descuento) en el siguiente enlace!

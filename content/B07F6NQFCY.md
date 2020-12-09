@@ -10,8 +10,11 @@ author: ring
 slug: B07F6NQFCY
 description:
 actualPrice: 5.98 EUR
+currency: EUR
+price: 5.98
 comparePrice: 9.98 EUR
 inStock: true
+prodname: Naliha Las Mujeres Blusa De Leopardo Impreso T - Shirt Tops Botón Slim Office Blusas Leopard L
 ---
 
 Está [Naliha Las Mujeres Blusa De Leopardo Impreso T - Shirt Tops Botón Slim Office Blusas Leopard L](https://www.amazon.es/dp/B07F6NQFCY/?tag=tolees-21) con 40.08 de descuento por 5.98 EUR (original: 9.98 EUR) en el siguiente enlace!

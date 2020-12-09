@@ -10,8 +10,11 @@ author: ring
 slug: B07QYPSR3Z
 description:
 actualPrice: 18.3 EUR
+currency: EUR
+price: 18.3
 comparePrice: 24.63 EUR
 inStock: true
+prodname: Under Armour Double Knit Track Chaqueta  Mujer  Negro  XL
 ---
 
 Está [Under Armour Double Knit Track Chaqueta  Mujer  Negro  XL](https://www.amazon.es/dp/B07QYPSR3Z/?tag=tolees-21) con 25.70 de descuento por 18.3 EUR (original: 24.63 EUR) en el siguiente enlace!

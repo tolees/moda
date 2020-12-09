@@ -10,8 +10,11 @@ author: ring
 slug: B07K1GFBMB
 description:
 actualPrice: 21.12 EUR
+currency: EUR
+price: 21.12
 comparePrice: 49 EUR
 inStock: true
+prodname: Emporio Armani Underwear 9p400 Bóxer  Negro 00020  Small  Talla del Fabricante: 48  para Hombre
 ---
 
 Ahora mismo tienes [Emporio Armani Underwear 9p400 Bóxer  Negro 00020  Small  Talla del Fabricante: 48  para Hombre](https://www.amazon.es/dp/B07K1GFBMB/?tag=tolees-21) a 21.12 EUR (original: 49 EUR) (56.90 %  de descuento) en el siguiente enlace!

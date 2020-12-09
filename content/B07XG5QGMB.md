@@ -10,8 +10,11 @@ author: ring
 slug: B07XG5QGMB
 description:
 actualPrice: 34.99 EUR
+currency: EUR
+price: 34.99
 comparePrice: 69.99 EUR
 inStock: true
+prodname: Zapatillas de Running para Hombre Zapatillas de Deportivos Zapatos para Correr y Asfalto Aire Libre y Deportes Calzado
 ---
 
 Tienes [Zapatillas de Running para Hombre Zapatillas de Deportivos Zapatos para Correr y Asfalto Aire Libre y Deportes Calzado](https://www.amazon.es/dp/B07XG5QGMB/?tag=tolees-21) con un 50.01 % de descuento con precio de oferta de 34.99 EUR (original: 69.99 EUR) en el siguiente enlace!

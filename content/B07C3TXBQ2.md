@@ -10,8 +10,11 @@ author: ring
 slug: B07C3TXBQ2
 description:
 actualPrice: 41.95 EUR
+currency: EUR
+price: 41.95
 comparePrice: 99 EUR
 inStock: true
+prodname: Pepe Jeans Hatch  Vaqueros Slim para Hombre  Azul  Wiser Wash Denim WX1   W32/L32
 ---
 
 Tienes [Pepe Jeans Hatch  Vaqueros Slim para Hombre  Azul  Wiser Wash Denim WX1   W32/L32](https://www.amazon.es/dp/B07C3TXBQ2/?tag=tolees-21) con un 57.63 % de descuento con precio de oferta de 41.95 EUR (original: 99 EUR) en el siguiente enlace!

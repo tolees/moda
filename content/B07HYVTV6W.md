@@ -10,8 +10,11 @@ author: ring
 slug: B07HYVTV6W
 description:
 actualPrice: 24.5 EUR
+currency: EUR
+price: 24.5
 comparePrice: 34.95 EUR
 inStock: true
+prodname: Hawkers Classic Gafas de sol  Carey  One Size Unisex
 ---
 
 Tienes [Hawkers Classic Gafas de sol  Carey  One Size Unisex](https://www.amazon.es/dp/B07HYVTV6W/?tag=tolees-21) con un 29.90 % de descuento con precio de oferta de 24.5 EUR (original: 34.95 EUR) en el siguiente enlace!

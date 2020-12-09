@@ -10,8 +10,11 @@ author: ring
 slug: B07DK1CQGR
 description:
 actualPrice: 13.09 EUR
+currency: EUR
+price: 13.09
 comparePrice: 59.95 EUR
 inStock: true
+prodname: Tamaris 23734-21  Zapatos de Cordones Oxford para Mujer  Marrón  Pewter Antic 937   36 EU
 ---
 
 Ahora mismo tienes [Tamaris 23734-21  Zapatos de Cordones Oxford para Mujer  Marrón  Pewter Antic 937   36 EU](https://www.amazon.es/dp/B07DK1CQGR/?tag=tolees-21) a 13.09 EUR (original: 59.95 EUR) (78.17 %  de descuento) en el siguiente enlace!

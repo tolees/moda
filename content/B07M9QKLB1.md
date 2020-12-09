@@ -10,8 +10,11 @@ author: ring
 slug: B07M9QKLB1
 description:
 actualPrice: 23.95 EUR
+currency: EUR
+price: 23.95
 comparePrice: 39.95 EUR
 inStock: true
+prodname: G-STAR RAW Graphic 41 T-shirt  Camiseta Hombre  Multicolor  Deep flame 9821   Medium
 ---
 
 Está [G-STAR RAW Graphic 41 T-shirt  Camiseta Hombre  Multicolor  Deep flame 9821   Medium](https://www.amazon.es/dp/B07M9QKLB1/?tag=tolees-21) con 40.05 de descuento por 23.95 EUR (original: 39.95 EUR) en el siguiente enlace!

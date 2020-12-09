@@ -10,8 +10,11 @@ author: ring
 slug: B06XSZLN8J
 description:
 actualPrice: 14.79 EUR
+currency: EUR
+price: 14.79
 comparePrice: 22 EUR
 inStock: true
+prodname: FIND DC1930L vaqueros mujer  Negro  Black   W32/L32  Talla del Fabricante: Large 
 ---
 
 Ahora mismo tienes [FIND DC1930L vaqueros mujer  Negro  Black   W32/L32  Talla del Fabricante: Large ](https://www.amazon.es/dp/B06XSZLN8J/?tag=tolees-21) a 14.79 EUR (original: 22 EUR) (32.77 %  de descuento) en el siguiente enlace!

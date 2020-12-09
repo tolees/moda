@@ -10,8 +10,11 @@ author: ring
 slug: B074TQKFJN
 description:
 actualPrice: 7.23 EUR
+currency: EUR
+price: 7.23
 comparePrice: 17.95 EUR
 inStock: true
+prodname: Schiesser Niños Vintage T-Shirt Rundhals Camiseta Not Applicable  Amarillo  Orange 602   116
 ---
 
 Está [Schiesser Niños Vintage T-Shirt Rundhals Camiseta Not Applicable  Amarillo  Orange 602   116](https://www.amazon.es/dp/B074TQKFJN/?tag=tolees-21) con 59.72 de descuento por 7.23 EUR (original: 17.95 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07FKKMDX4
 description:
 actualPrice: 12.35 EUR
+currency: EUR
+price: 12.35
 comparePrice: 29.99 EUR
 inStock: true
+prodname: JACK & JONES Jorsteven Shirt LS  Camisa para Hombre   Forest Night Fit: Slim  Small
 ---
 
 Ahora mismo tienes [JACK & JONES Jorsteven Shirt LS  Camisa para Hombre   Forest Night Fit: Slim  Small](https://www.amazon.es/dp/B07FKKMDX4/?tag=tolees-21) a 12.35 EUR (original: 29.99 EUR) (58.82 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07CZJGC44
 description:
 actualPrice: 30.05 EUR
+currency: EUR
+price: 30.05
 comparePrice: 44.99 EUR
 inStock: true
+prodname: Under Armour Vanish Woven Short Pantalón Corto  Hombre  Azul  Dust/Batik 416   L
 ---
 
 Tienes [Under Armour Vanish Woven Short Pantalón Corto  Hombre  Azul  Dust/Batik 416   L](https://www.amazon.es/dp/B07CZJGC44/?tag=tolees-21) con un 33.21 % de descuento con precio de oferta de 30.05 EUR (original: 44.99 EUR) en el siguiente enlace!

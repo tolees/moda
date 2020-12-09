@@ -10,8 +10,11 @@ author: ring
 slug: B01IFA0PUG
 description:
 actualPrice: 13.76 EUR
+currency: EUR
+price: 13.76
 comparePrice: 30 EUR
 inStock: true
+prodname: The North Face S/S Red Box tee Camiseta de Manga Corta  Hombre  Negro  TNF Black   XL
 ---
 
 Está [The North Face S/S Red Box tee Camiseta de Manga Corta  Hombre  Negro  TNF Black   XL](https://www.amazon.es/dp/B01IFA0PUG/?tag=tolees-21) con 54.13 de descuento por 13.76 EUR (original: 30 EUR) en el siguiente enlace!

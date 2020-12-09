@@ -10,8 +10,11 @@ author: ring
 slug: B0106VZEIA
 description:
 actualPrice: 47.95 EUR
+currency: EUR
+price: 47.95
 comparePrice: 79.99 EUR
 inStock: true
+prodname: Columbia Saturday Trail II Pantalón Convertible  Mujer  Azul  India Ink   Talla US: W8/L  EU W40/L 
 ---
 
 Ahora mismo tienes [Columbia Saturday Trail II Pantalón Convertible  Mujer  Azul  India Ink   Talla US: W8/L  EU W40/L ](https://www.amazon.es/dp/B0106VZEIA/?tag=tolees-21) a 47.95 EUR (original: 79.99 EUR) (40.06 %  de descuento) en el siguiente enlace!

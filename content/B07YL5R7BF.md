@@ -10,8 +10,11 @@ author: ring
 slug: B07YL5R7BF
 description:
 actualPrice: 5.56 EUR
+currency: EUR
+price: 5.56
 comparePrice: 29.95 EUR
 inStock: true
+prodname: Wrangler SS Rainbow tee Camiseta  Blanco  White 989   Medium para Hombre
 ---
 
 Ahora mismo tienes [Wrangler SS Rainbow tee Camiseta  Blanco  White 989   Medium para Hombre](https://www.amazon.es/dp/B07YL5R7BF/?tag=tolees-21) a 5.56 EUR (original: 29.95 EUR) (81.44 %  de descuento) en el siguiente enlace!

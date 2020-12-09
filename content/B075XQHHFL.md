@@ -10,8 +10,11 @@ author: ring
 slug: B075XQHHFL
 description:
 actualPrice: 21 EUR
+currency: EUR
+price: 21
 comparePrice: 42 EUR
 inStock: true
+prodname: FIND HW 2492 vaqueros mujer cintura alta   Azul  Indigo   W37/L32  Talla del Fabricante: 46/48 
 ---
 
 Está [FIND HW 2492 vaqueros mujer cintura alta   Azul  Indigo   W37/L32  Talla del Fabricante: 46/48 ](https://www.amazon.es/dp/B075XQHHFL/?tag=tolees-21) con 50.00 de descuento por 21 EUR (original: 42 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07PM2QMJG
 description:
 actualPrice: 13.99 EUR
+currency: EUR
+price: 13.99
 comparePrice: 19.88 EUR
 inStock: true
+prodname: DOVAVA Gafas De Sol Para Hombre Polarizada UV Protección Adecuadas ara Ciclismo Viajar Conducir Pesca  Negro 
 ---
 
 Está [DOVAVA Gafas De Sol Para Hombre Polarizada UV Protección Adecuadas ara Ciclismo Viajar Conducir Pesca  Negro ](https://www.amazon.es/dp/B07PM2QMJG/?tag=tolees-21) con 29.63 de descuento por 13.99 EUR (original: 19.88 EUR) en el siguiente enlace!

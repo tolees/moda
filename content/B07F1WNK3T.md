@@ -10,8 +10,11 @@ author: ring
 slug: B07F1WNK3T
 description:
 actualPrice: 40 EUR
+currency: EUR
+price: 40
 comparePrice: 80 EUR
 inStock: true
+prodname: Timberland Malibu Waves 2 Band  Sandalia con Pulsera para Mujer  Verde  Martini Olive Y2q   40 EU
 ---
 
 Ahora mismo tienes [Timberland Malibu Waves 2 Band  Sandalia con Pulsera para Mujer  Verde  Martini Olive Y2q   40 EU](https://www.amazon.es/dp/B07F1WNK3T/?tag=tolees-21) a 40 EUR (original: 80 EUR) (50.00 %  de descuento) en el siguiente enlace!

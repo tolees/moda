@@ -10,8 +10,11 @@ author: ring
 slug: B07JCNGRRY
 description:
 actualPrice: 9.41 EUR
+currency: EUR
+price: 9.41
 comparePrice: 29.99 EUR
 inStock: true
+prodname: Vero Moda Vmmanja LS Placket Shirt Wvn Blusa  Azul  Night Sky Detail: W/Silver Buttons   40  Talla del Fabricante: Medium  para Mujer
 ---
 
 Está [Vero Moda Vmmanja LS Placket Shirt Wvn Blusa  Azul  Night Sky Detail: W/Silver Buttons   40  Talla del Fabricante: Medium  para Mujer](https://www.amazon.es/dp/B07JCNGRRY/?tag=tolees-21) con 68.62 de descuento por 9.41 EUR (original: 29.99 EUR) en el siguiente enlace!

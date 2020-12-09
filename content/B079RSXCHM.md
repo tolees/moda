@@ -10,8 +10,11 @@ author: ring
 slug: B079RSXCHM
 description:
 actualPrice: 13.77 EUR
+currency: EUR
+price: 13.77
 comparePrice: 35 EUR
 inStock: true
+prodname: Pepe Jeans Dani PL503849 Camiseta  Gris  Grey Marl 933   Medium para Mujer
 ---
 
 Ahora mismo tienes [Pepe Jeans Dani PL503849 Camiseta  Gris  Grey Marl 933   Medium para Mujer](https://www.amazon.es/dp/B079RSXCHM/?tag=tolees-21) a 13.77 EUR (original: 35 EUR) (60.66 %  de descuento) en el siguiente enlace!

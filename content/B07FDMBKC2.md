@@ -10,8 +10,11 @@ author: ring
 slug: B07FDMBKC2
 description:
 actualPrice: 5.74 EUR
+currency: EUR
+price: 5.74
 comparePrice: 13.95 EUR
 inStock: true
+prodname: Spiderman 5973 Camiseta  Negro Noir  6 años para Niños
 ---
 
 Está [Spiderman 5973 Camiseta  Negro Noir  6 años para Niños](https://www.amazon.es/dp/B07FDMBKC2/?tag=tolees-21) con 58.85 de descuento por 5.74 EUR (original: 13.95 EUR) en el siguiente enlace!

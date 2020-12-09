@@ -10,8 +10,11 @@ author: ring
 slug: B01EWFU1EI
 description:
 actualPrice: 78.2 EUR
+currency: EUR
+price: 78.2
 comparePrice: 140 EUR
 inStock: true
+prodname: Pepe Jeans London Melting W Zipper  Botines para Mujer  Marrón  Tobacco 859   40 EU
 ---
 
 Está [Pepe Jeans London Melting W Zipper  Botines para Mujer  Marrón  Tobacco 859   40 EU](https://www.amazon.es/dp/B01EWFU1EI/?tag=tolees-21) con 44.14 de descuento por 78.2 EUR (original: 140 EUR) en el siguiente enlace!

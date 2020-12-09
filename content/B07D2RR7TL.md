@@ -10,8 +10,11 @@ author: ring
 slug: B07D2RR7TL
 description:
 actualPrice: 67.67 EUR
+currency: EUR
+price: 67.67
 comparePrice: 149 EUR
 inStock: true
+prodname: Gant O1. Heather Oxford Gingham Reg BD  Camiseta Deporte para Hombre  Rojo  Roasted Brown Walnut  Small
 ---
 
 Está [Gant O1. Heather Oxford Gingham Reg BD  Camiseta Deporte para Hombre  Rojo  Roasted Brown Walnut  Small](https://www.amazon.es/dp/B07D2RR7TL/?tag=tolees-21) con 54.58 de descuento por 67.67 EUR (original: 149 EUR) en el siguiente enlace!

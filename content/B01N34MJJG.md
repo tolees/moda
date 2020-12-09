@@ -10,8 +10,11 @@ author: ring
 slug: B01N34MJJG
 description:
 actualPrice: 10.95 EUR
+currency: EUR
+price: 10.95
 comparePrice: 32 EUR
 inStock: true
+prodname: Joma Tropical Falda Pantalón  Mujer  Morado  M
 ---
 
 Ahora mismo tienes [Joma Tropical Falda Pantalón  Mujer  Morado  M](https://www.amazon.es/dp/B01N34MJJG/?tag=tolees-21) a 10.95 EUR (original: 32 EUR) (65.78 %  de descuento) en el siguiente enlace!

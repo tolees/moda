@@ -10,8 +10,11 @@ author: ring
 slug: B07YNRQ7FJ
 description:
 actualPrice: 10.96 EUR
+currency: EUR
+price: 10.96
 comparePrice: 15.31 EUR
 inStock: true
+prodname: Marca Amazon - find. Kitten Heel Court Zapatos de tacón con Punta Cerrada  Braun  Chocolate  Nude   40 EU
 ---
 
 Está [Marca Amazon - find. Kitten Heel Court Zapatos de tacón con Punta Cerrada  Braun  Chocolate  Nude   40 EU](https://www.amazon.es/dp/B07YNRQ7FJ/?tag=tolees-21) con 28.41 de descuento por 10.96 EUR (original: 15.31 EUR) en el siguiente enlace!

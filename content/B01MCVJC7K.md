@@ -10,8 +10,11 @@ author: ring
 slug: B01MCVJC7K
 description:
 actualPrice: 4.08 EUR
+currency: EUR
+price: 4.08
 comparePrice: 5.98 EUR
 inStock: true
+prodname: Distinct® Elástica de látex de Caucho para Lavar vajilla Guantes Largos Guantes de Cocina de Limpieza Las tareas del hogar
 ---
 
 Está [Distinct® Elástica de látex de Caucho para Lavar vajilla Guantes Largos Guantes de Cocina de Limpieza Las tareas del hogar](https://www.amazon.es/dp/B01MCVJC7K/?tag=tolees-21) con 31.77 de descuento por 4.08 EUR (original: 5.98 EUR) en el siguiente enlace!

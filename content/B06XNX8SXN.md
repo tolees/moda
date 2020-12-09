@@ -10,8 +10,11 @@ author: ring
 slug: B06XNX8SXN
 description:
 actualPrice: 43.37 EUR
+currency: EUR
+price: 43.37
 comparePrice: 99.9 EUR
 inStock: true
+prodname: Geox UOMO Symbol C  Zapatillas Hombre  Negro  47 EU
 ---
 
 Tienes [Geox UOMO Symbol C  Zapatillas Hombre  Negro  47 EU](https://www.amazon.es/dp/B06XNX8SXN/?tag=tolees-21) con un 56.59 % de descuento con precio de oferta de 43.37 EUR (original: 99.9 EUR) en el siguiente enlace!

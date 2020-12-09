@@ -10,8 +10,11 @@ author: ring
 slug: B07RY9L8SY
 description:
 actualPrice: 15.99 EUR
+currency: EUR
+price: 15.99
 comparePrice: 25.0 EUR
 inStock: true
+prodname: Levi s Vneck Camiseta  White  White + 0002   Small para Mujer
 ---
 
 Tienes [Levi s Vneck Camiseta  White  White + 0002   Small para Mujer](https://www.amazon.es/dp/B07RY9L8SY/?tag=tolees-21) con un 36.04 % de descuento con precio de oferta de 15.99 EUR (original: 25.0 EUR) en el siguiente enlace!

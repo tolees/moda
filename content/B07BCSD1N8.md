@@ -10,8 +10,11 @@ author: ring
 slug: B07BCSD1N8
 description:
 actualPrice: 22.65 EUR
+currency: EUR
+price: 22.65
 comparePrice: 49.95 EUR
 inStock: true
+prodname: Columbia Triple Canyon Youth Pantalón Largo  Niños  Negro  10/12
 ---
 
 Está [Columbia Triple Canyon Youth Pantalón Largo  Niños  Negro  10/12](https://www.amazon.es/dp/B07BCSD1N8/?tag=tolees-21) con 54.65 de descuento por 22.65 EUR (original: 49.95 EUR) en el siguiente enlace!

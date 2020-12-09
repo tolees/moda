@@ -10,8 +10,11 @@ author: ring
 slug: B07DL9GWF1
 description:
 actualPrice: 18.1 EUR
+currency: EUR
+price: 18.1
 comparePrice: 25.99 EUR
 inStock: true
+prodname: Springfield Frq Stripes Block Gg12  Jersey para Hombre   Gama Azules 11   X-Large  Tamaño del Fabricante:XL 
 ---
 
 Está [Springfield Frq Stripes Block Gg12  Jersey para Hombre   Gama Azules 11   X-Large  Tamaño del Fabricante:XL ](https://www.amazon.es/dp/B07DL9GWF1/?tag=tolees-21) con 30.36 de descuento por 18.1 EUR (original: 25.99 EUR) en el siguiente enlace!

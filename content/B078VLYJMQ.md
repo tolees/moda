@@ -10,8 +10,11 @@ author: ring
 slug: B078VLYJMQ
 description:
 actualPrice: 17.21 EUR
+currency: EUR
+price: 17.21
 comparePrice: 23.99 EUR
 inStock: true
+prodname: Only Onlnova Solid Vis Wide Sleeve Top Wvn  Blusa Mujer  Blanco  Cloud Dancer Cloud Dancer   42
 ---
 
 Tienes [Only Onlnova Solid Vis Wide Sleeve Top Wvn  Blusa Mujer  Blanco  Cloud Dancer Cloud Dancer   42](https://www.amazon.es/dp/B078VLYJMQ/?tag=tolees-21) con un 28.26 % de descuento con precio de oferta de 17.21 EUR (original: 23.99 EUR) en el siguiente enlace!

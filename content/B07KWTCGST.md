@@ -10,8 +10,11 @@ author: ring
 slug: B07KWTCGST
 description:
 actualPrice: 15.99 EUR
+currency: EUR
+price: 15.99
 comparePrice: 26.87 EUR
 inStock: true
+prodname: AX BOXING Chanclas Hombre Sandalias Mujer Verano 2019 Cuero Flor Piscina Playa luz Antideslizante  Color Verde  Talla 36 EU
 ---
 
 Ahora mismo tienes [AX BOXING Chanclas Hombre Sandalias Mujer Verano 2019 Cuero Flor Piscina Playa luz Antideslizante  Color Verde  Talla 36 EU](https://www.amazon.es/dp/B07KWTCGST/?tag=tolees-21) a 15.99 EUR (original: 26.87 EUR) (40.49 %  de descuento) en el siguiente enlace!

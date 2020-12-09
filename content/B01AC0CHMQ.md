@@ -10,8 +10,11 @@ author: ring
 slug: B01AC0CHMQ
 description:
 actualPrice: 10.5 EUR
+currency: EUR
+price: 10.5
 comparePrice: 16 EUR
 inStock: true
+prodname: Nike 725984  Camiseta Para Niños  Blanco  blanco / negro   S
 ---
 
 Ahora mismo tienes [Nike 725984  Camiseta Para Niños  Blanco  blanco / negro   S](https://www.amazon.es/dp/B01AC0CHMQ/?tag=tolees-21) a 10.5 EUR (original: 16 EUR) (34.38 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07CC7FRYW
 description:
 actualPrice: 37.48 EUR
+currency: EUR
+price: 37.48
 comparePrice: 74.71 EUR
 inStock: true
+prodname: Pepe Jeans Windham  Camisa para Hombre  Azul  Indigo 561  Medium
 ---
 
 Está [Pepe Jeans Windham  Camisa para Hombre  Azul  Indigo 561  Medium](https://www.amazon.es/dp/B07CC7FRYW/?tag=tolees-21) con 49.83 de descuento por 37.48 EUR (original: 74.71 EUR) en el siguiente enlace!

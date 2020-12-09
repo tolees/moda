@@ -10,8 +10,11 @@ author: ring
 slug: B07KMPYCJW
 description:
 actualPrice: 18.95 EUR
+currency: EUR
+price: 18.95
 comparePrice: 45 EUR
 inStock: true
+prodname: Superdry Applique Cut & Sew 08 S/s tee Camiseta de Tirantes  Gris  Varsity Silver Grit ZJ3   X-Small para Hombre
 ---
 
 Tienes [Superdry Applique Cut & Sew 08 S/s tee Camiseta de Tirantes  Gris  Varsity Silver Grit ZJ3   X-Small para Hombre](https://www.amazon.es/dp/B07KMPYCJW/?tag=tolees-21) con un 57.89 % de descuento con precio de oferta de 18.95 EUR (original: 45 EUR) en el siguiente enlace!

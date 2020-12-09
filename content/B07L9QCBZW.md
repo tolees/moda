@@ -10,8 +10,11 @@ author: ring
 slug: B07L9QCBZW
 description:
 actualPrice: 39.72 EUR
+currency: EUR
+price: 39.72
 comparePrice: 99 EUR
 inStock: true
+prodname: Napapijri Bonthe FZ Sudadera  Gris  Volcano H74   X-Large para Hombre
 ---
 
 Está [Napapijri Bonthe FZ Sudadera  Gris  Volcano H74   X-Large para Hombre](https://www.amazon.es/dp/B07L9QCBZW/?tag=tolees-21) con 59.88 de descuento por 39.72 EUR (original: 99 EUR) en el siguiente enlace!

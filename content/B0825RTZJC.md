@@ -10,8 +10,11 @@ author: ring
 slug: B0825RTZJC
 description:
 actualPrice: 70.49 EUR
+currency: EUR
+price: 70.49
 comparePrice: 125.0 EUR
 inStock: true
+prodname: Geox D CATRIA C  Botas Cortas al Tobillo Mujer  Negro  38 EU
 ---
 
 Ahora mismo tienes [Geox D CATRIA C  Botas Cortas al Tobillo Mujer  Negro  38 EU](https://www.amazon.es/dp/B0825RTZJC/?tag=tolees-21) a 70.49 EUR (original: 125.0 EUR) (43.61 %  de descuento) en el siguiente enlace!

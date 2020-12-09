@@ -10,8 +10,11 @@ author: ring
 slug: B083QCWHNM
 description:
 actualPrice: 14.0 EUR
+currency: EUR
+price: 14.0
 comparePrice: 20.0 EUR
 inStock: true
+prodname: UMBRO RCD Mallorca Paseo 2019-2020  Chaqueta  Black  Talla M
 ---
 
 Ahora mismo tienes [UMBRO RCD Mallorca Paseo 2019-2020  Chaqueta  Black  Talla M](https://www.amazon.es/dp/B083QCWHNM/?tag=tolees-21) a 14.0 EUR (original: 20.0 EUR) (30.00 %  de descuento) en el siguiente enlace!

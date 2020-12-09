@@ -10,8 +10,11 @@ author: ring
 slug: B07FJV2WPW
 description:
 actualPrice: 21.42 EUR
+currency: EUR
+price: 21.42
 comparePrice: 89.95 EUR
 inStock: true
+prodname: Gioseppo 46442-P  Botines para Mujer  Negro  38 EU
 ---
 
 Está [Gioseppo 46442-P  Botines para Mujer  Negro  38 EU](https://www.amazon.es/dp/B07FJV2WPW/?tag=tolees-21) con 76.19 de descuento por 21.42 EUR (original: 89.95 EUR) en el siguiente enlace!

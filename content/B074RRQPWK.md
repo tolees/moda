@@ -10,8 +10,11 @@ author: ring
 slug: B074RRQPWK
 description:
 actualPrice: 28.77 EUR
+currency: EUR
+price: 28.77
 comparePrice: 89.95 EUR
 inStock: true
+prodname: Lee Scarlett High Vaqueros Skinny  Azul  Blue Indigo Hael   26W / 31L para Mujer
 ---
 
 Tienes [Lee Scarlett High Vaqueros Skinny  Azul  Blue Indigo Hael   26W / 31L para Mujer](https://www.amazon.es/dp/B074RRQPWK/?tag=tolees-21) con un 68.02 % de descuento con precio de oferta de 28.77 EUR (original: 89.95 EUR) en el siguiente enlace!

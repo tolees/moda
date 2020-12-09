@@ -10,8 +10,11 @@ author: ring
 slug: B07GTTJ6FC
 description:
 actualPrice: 22.91 EUR
+currency: EUR
+price: 22.91
 comparePrice: 129.95 EUR
 inStock: true
+prodname: Berg Outdoor Fragas Chaqueta  Hombre  Azul  Snorkel   XL
 ---
 
 Ahora mismo tienes [Berg Outdoor Fragas Chaqueta  Hombre  Azul  Snorkel   XL](https://www.amazon.es/dp/B07GTTJ6FC/?tag=tolees-21) a 22.91 EUR (original: 129.95 EUR) (82.37 %  de descuento) en el siguiente enlace!

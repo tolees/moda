@@ -10,8 +10,11 @@ author: ring
 slug: B07G5JZZL6
 description:
 actualPrice: 26.21 EUR
+currency: EUR
+price: 26.21
 comparePrice: 100 EUR
 inStock: true
+prodname: Nike 932316 Camiseta  Negro 010  Medium  Tamaño del Fabricante:M  para Hombre
 ---
 
 Ahora mismo tienes [Nike 932316 Camiseta  Negro 010  Medium  Tamaño del Fabricante:M  para Hombre](https://www.amazon.es/dp/B07G5JZZL6/?tag=tolees-21) a 26.21 EUR (original: 100 EUR) (73.79 %  de descuento) en el siguiente enlace!

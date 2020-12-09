@@ -10,8 +10,11 @@ author: ring
 slug: B07HFPH36R
 description:
 actualPrice: 4.97 EUR
+currency: EUR
+price: 4.97
 comparePrice: 22.49 EUR
 inStock: true
+prodname: Simply Be Novelty Sequin Flamingo Xmas Tshirt Camiseta  Gris  Grey Marl   52  Talla del Fabricante: 24  para Mujer
 ---
 
 Está [Simply Be Novelty Sequin Flamingo Xmas Tshirt Camiseta  Gris  Grey Marl   52  Talla del Fabricante: 24  para Mujer](https://www.amazon.es/dp/B07HFPH36R/?tag=tolees-21) con 77.90 de descuento por 4.97 EUR (original: 22.49 EUR) en el siguiente enlace!

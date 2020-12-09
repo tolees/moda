@@ -10,8 +10,11 @@ author: ring
 slug: B076HQYBL7
 description:
 actualPrice: 14.95 EUR
+currency: EUR
+price: 14.95
 comparePrice: 35 EUR
 inStock: true
+prodname: adidas Core18 TR Sudadera  Hombre  Rojo/Blanco  Power   M
 ---
 
 Tienes [adidas Core18 TR Sudadera  Hombre  Rojo/Blanco  Power   M](https://www.amazon.es/dp/B076HQYBL7/?tag=tolees-21) con un 57.29 % de descuento con precio de oferta de 14.95 EUR (original: 35 EUR) en el siguiente enlace!

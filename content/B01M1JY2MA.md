@@ -10,8 +10,11 @@ author: ring
 slug: B01M1JY2MA
 description:
 actualPrice: 10.95 EUR
+currency: EUR
+price: 10.95
 comparePrice: 14.99 EUR
 inStock: true
+prodname: Puma Basic Boxer Printed Stripe 2P  Bóxer para Niños  Rojo  Ribbon Red   128  Talla de fabricante: 7-8 Años 
 ---
 
 Está [Puma Basic Boxer Printed Stripe 2P  Bóxer para Niños  Rojo  Ribbon Red   128  Talla de fabricante: 7-8 Años ](https://www.amazon.es/dp/B01M1JY2MA/?tag=tolees-21) con 26.95 de descuento por 10.95 EUR (original: 14.99 EUR) en el siguiente enlace!

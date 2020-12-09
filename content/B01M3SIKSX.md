@@ -10,8 +10,11 @@ author: ring
 slug: B01M3SIKSX
 description:
 actualPrice: 3.2 EUR
+currency: EUR
+price: 3.2
 comparePrice: 4.5 EUR
 inStock: true
+prodname: oodji Ultra Mujer Camiseta con Estampado de Flores Triangular  Blanco  ES 36 / XS
 ---
 
 Ahora mismo tienes [oodji Ultra Mujer Camiseta con Estampado de Flores Triangular  Blanco  ES 36 / XS](https://www.amazon.es/dp/B01M3SIKSX/?tag=tolees-21) a 3.2 EUR (original: 4.5 EUR) (28.89 %  de descuento) en el siguiente enlace!

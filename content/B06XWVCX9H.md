@@ -10,8 +10,11 @@ author: ring
 slug: B06XWVCX9H
 description:
 actualPrice: 38.35 EUR
+currency: EUR
+price: 38.35
 comparePrice: 89 EUR
 inStock: true
+prodname: Calvin Klein Habas Cn Hknit L/s  Sudadera para Hombre  Gris  Mid Grey Heather  XX-Large
 ---
 
 Ahora mismo tienes [Calvin Klein Habas Cn Hknit L/s  Sudadera para Hombre  Gris  Mid Grey Heather  XX-Large](https://www.amazon.es/dp/B06XWVCX9H/?tag=tolees-21) a 38.35 EUR (original: 89 EUR) (56.91 %  de descuento) en el siguiente enlace!

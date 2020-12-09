@@ -10,8 +10,11 @@ author: ring
 slug: B07L1DNJXT
 description:
 actualPrice: 20.67 EUR
+currency: EUR
+price: 20.67
 comparePrice: 79.99 EUR
 inStock: true
+prodname: JACK & JONES PREMIUM Jprtactical Field Jacket Parka  Verde Sedona Sage  M para Hombre
 ---
 
 Tienes [JACK & JONES PREMIUM Jprtactical Field Jacket Parka  Verde Sedona Sage  M para Hombre](https://www.amazon.es/dp/B07L1DNJXT/?tag=tolees-21) con un 74.16 % de descuento con precio de oferta de 20.67 EUR (original: 79.99 EUR) en el siguiente enlace!

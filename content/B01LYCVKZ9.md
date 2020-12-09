@@ -10,8 +10,11 @@ author: ring
 slug: B01LYCVKZ9
 description:
 actualPrice: 18.03 EUR
+currency: EUR
+price: 18.03
 comparePrice: 129 EUR
 inStock: true
+prodname: Geographical Norway Chaqueta Negro ES 40  DE 38 
 ---
 
 Ahora mismo tienes [Geographical Norway Chaqueta Negro ES 40  DE 38 ](https://www.amazon.es/dp/B01LYCVKZ9/?tag=tolees-21) a 18.03 EUR (original: 129 EUR) (86.02 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B078HWDX1W
 description:
 actualPrice: 12.52 EUR
+currency: EUR
+price: 12.52
 comparePrice: 59.99 EUR
 inStock: true
+prodname: edc by Esprit 038cc1e014  Vestido Mujer  Azul  Blue Medium Wash 902   X-Small
 ---
 
 Está [edc by Esprit 038cc1e014  Vestido Mujer  Azul  Blue Medium Wash 902   X-Small](https://www.amazon.es/dp/B078HWDX1W/?tag=tolees-21) con 79.13 de descuento por 12.52 EUR (original: 59.99 EUR) en el siguiente enlace!

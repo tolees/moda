@@ -10,8 +10,11 @@ author: ring
 slug: B078WV5XPC
 description:
 actualPrice: 22.09 EUR
+currency: EUR
+price: 22.09
 comparePrice: 89.9 EUR
 inStock: true
+prodname: Pedro del Hierro 3123065  Jersey Para Hombre  Azul  Navy Blu   XX-Large
 ---
 
 Está [Pedro del Hierro 3123065  Jersey Para Hombre  Azul  Navy Blu   XX-Large](https://www.amazon.es/dp/B078WV5XPC/?tag=tolees-21) con 75.43 de descuento por 22.09 EUR (original: 89.9 EUR) en el siguiente enlace!

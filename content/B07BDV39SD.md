@@ -10,8 +10,11 @@ author: ring
 slug: B07BDV39SD
 description:
 actualPrice: 22.82 EUR
+currency: EUR
+price: 22.82
 comparePrice: 68.9 EUR
 inStock: true
+prodname: Agatha Ruiz de la Prada 181938  Botines para Niñas  Rosa  181938/B/Amz Fucsia  Sauvage   31 EU
 ---
 
 Tienes [Agatha Ruiz de la Prada 181938  Botines para Niñas  Rosa  181938/B/Amz Fucsia  Sauvage   31 EU](https://www.amazon.es/dp/B07BDV39SD/?tag=tolees-21) con un 66.88 % de descuento con precio de oferta de 22.82 EUR (original: 68.9 EUR) en el siguiente enlace!

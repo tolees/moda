@@ -10,8 +10,11 @@ author: ring
 slug: B01GEDA2AY
 description:
 actualPrice: 29.49 EUR
+currency: EUR
+price: 29.49
 comparePrice: 139.99 EUR
 inStock: true
+prodname: Black Crevice Abrigo Corto Verde ES 38  DE 36 
 ---
 
 Está [Black Crevice Abrigo Corto Verde ES 38  DE 36 ](https://www.amazon.es/dp/B01GEDA2AY/?tag=tolees-21) con 78.93 de descuento por 29.49 EUR (original: 139.99 EUR) en el siguiente enlace!

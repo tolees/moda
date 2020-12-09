@@ -10,8 +10,11 @@ author: ring
 slug: B07FZQ8GND
 description:
 actualPrice: 31.64 EUR
+currency: EUR
+price: 31.64
 comparePrice: 42.48 EUR
 inStock: true
+prodname: Atlético de Madrid Bolsa Deporte Bolso de Viaje 50 cm.
 ---
 
 Está [Atlético de Madrid Bolsa Deporte Bolso de Viaje 50 cm.](https://www.amazon.es/dp/B07FZQ8GND/?tag=tolees-21) con 25.52 de descuento por 31.64 EUR (original: 42.48 EUR) en el siguiente enlace!

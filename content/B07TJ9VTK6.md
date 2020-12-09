@@ -10,8 +10,11 @@ author: ring
 slug: B07TJ9VTK6
 description:
 actualPrice: 15.36 EUR
+currency: EUR
+price: 15.36
 comparePrice: 65.0 EUR
 inStock: true
+prodname: Under Armour Tech Pantalón  Hombre  Marrón  3232
 ---
 
 Está [Under Armour Tech Pantalón  Hombre  Marrón  3232](https://www.amazon.es/dp/B07TJ9VTK6/?tag=tolees-21) con 76.37 de descuento por 15.36 EUR (original: 65.0 EUR) en el siguiente enlace!

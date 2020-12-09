@@ -10,8 +10,11 @@ author: ring
 slug: B07MZPL4SR
 description:
 actualPrice: 30.12 EUR
+currency: EUR
+price: 30.12
 comparePrice: 95.0 EUR
 inStock: true
+prodname: Pepe Jeans Spike Vaqueros Straight  Azul  Medium Used Powerflex Denim 000   28W/32L para Hombre
 ---
 
 Ahora mismo tienes [Pepe Jeans Spike Vaqueros Straight  Azul  Medium Used Powerflex Denim 000   28W/32L para Hombre](https://www.amazon.es/dp/B07MZPL4SR/?tag=tolees-21) a 30.12 EUR (original: 95.0 EUR) (68.29 %  de descuento) en el siguiente enlace!

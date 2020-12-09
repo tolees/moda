@@ -10,8 +10,11 @@ author: ring
 slug: B07DV2XKLZ
 description:
 actualPrice: 28.79 EUR
+currency: EUR
+price: 28.79
 comparePrice: 59.99 EUR
 inStock: true
+prodname: Columbia Wave Train  Sandalias para Mujer  Violeta  Eve  Soft Violet   42 EU
 ---
 
 Ahora mismo tienes [Columbia Wave Train  Sandalias para Mujer  Violeta  Eve  Soft Violet   42 EU](https://www.amazon.es/dp/B07DV2XKLZ/?tag=tolees-21) a 28.79 EUR (original: 59.99 EUR) (52.01 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07FM6PLX5
 description:
 actualPrice: 39.84 EUR
+currency: EUR
+price: 39.84
 comparePrice: 79.9 EUR
 inStock: true
+prodname: Superdry Tyler  Vaqueros Slim para Hombre  Negro  Portland Washed Black Vf7   42  Talla del Fabricante: 33.0 
 ---
 
 Tienes [Superdry Tyler  Vaqueros Slim para Hombre  Negro  Portland Washed Black Vf7   42  Talla del Fabricante: 33.0 ](https://www.amazon.es/dp/B07FM6PLX5/?tag=tolees-21) con un 50.14 % de descuento con precio de oferta de 39.84 EUR (original: 79.9 EUR) en el siguiente enlace!

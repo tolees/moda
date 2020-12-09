@@ -10,8 +10,11 @@ author: ring
 slug: B07SQGWGQ6
 description:
 actualPrice: 48.14 EUR
+currency: EUR
+price: 48.14
 comparePrice: 99.9 EUR
 inStock: true
+prodname: Geox D Avery C  Zapatillas  Negro  Black C9999   35 EU
 ---
 
 Ahora mismo tienes [Geox D Avery C  Zapatillas  Negro  Black C9999   35 EU](https://www.amazon.es/dp/B07SQGWGQ6/?tag=tolees-21) a 48.14 EUR (original: 99.9 EUR) (51.81 %  de descuento) en el siguiente enlace!

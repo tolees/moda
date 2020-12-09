@@ -10,8 +10,11 @@ author: ring
 slug: B07F4B9WPW
 description:
 actualPrice: 35.49 EUR
+currency: EUR
+price: 35.49
 comparePrice: 180 EUR
 inStock: true
+prodname: Sebago Boot Suede W  Botines para Mujer  Verde  Vert 909   37 EU
 ---
 
 Está [Sebago Boot Suede W  Botines para Mujer  Verde  Vert 909   37 EU](https://www.amazon.es/dp/B07F4B9WPW/?tag=tolees-21) con 80.28 de descuento por 35.49 EUR (original: 180 EUR) en el siguiente enlace!

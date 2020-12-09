@@ -10,8 +10,11 @@ author: ring
 slug: B07TYWBSZS
 description:
 actualPrice: 49.99 EUR
+currency: EUR
+price: 49.99
 comparePrice: 94.95 EUR
 inStock: true
+prodname: Wrangler Icons Vaqueros  Azul  Blue Rhapsody 13I   32W / 30L para Hombre
 ---
 
 Tienes [Wrangler Icons Vaqueros  Azul  Blue Rhapsody 13I   32W / 30L para Hombre](https://www.amazon.es/dp/B07TYWBSZS/?tag=tolees-21) con un 47.35 % de descuento con precio de oferta de 49.99 EUR (original: 94.95 EUR) en el siguiente enlace!

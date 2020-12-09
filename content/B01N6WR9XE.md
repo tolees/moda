@@ -10,8 +10,11 @@ author: ring
 slug: B01N6WR9XE
 description:
 actualPrice: 101.76 EUR
+currency: EUR
+price: 101.76
 comparePrice: 238 EUR
 inStock: true
+prodname: Oakley Gafas de sol Evzero Stride Polished Black  38
 ---
 
 Tienes [Oakley Gafas de sol Evzero Stride Polished Black  38](https://www.amazon.es/dp/B01N6WR9XE/?tag=tolees-21) con un 57.24 % de descuento con precio de oferta de 101.76 EUR (original: 238 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B00W3SGBLY
 description:
 actualPrice: 9.21 EUR
+currency: EUR
+price: 9.21
 comparePrice: 21.5 EUR
 inStock: true
+prodname: Joma Champion III Chaqueta con cremallera  Niños  Blanco  201   6XS
 ---
 
 Está [Joma Champion III Chaqueta con cremallera  Niños  Blanco  201   6XS](https://www.amazon.es/dp/B00W3SGBLY/?tag=tolees-21) con 57.16 de descuento por 9.21 EUR (original: 21.5 EUR) en el siguiente enlace!

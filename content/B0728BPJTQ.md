@@ -10,8 +10,11 @@ author: ring
 slug: B0728BPJTQ
 description:
 actualPrice: 22.99 EUR
+currency: EUR
+price: 22.99
 comparePrice: 44.99 EUR
 inStock: true
+prodname: Under Armour Sportstyle Pique Track Pant Pantalón Largo  Hombre  Gris  Stealth Gray/White 008   XL
 ---
 
 Está [Under Armour Sportstyle Pique Track Pant Pantalón Largo  Hombre  Gris  Stealth Gray/White 008   XL](https://www.amazon.es/dp/B0728BPJTQ/?tag=tolees-21) con 48.90 de descuento por 22.99 EUR (original: 44.99 EUR) en el siguiente enlace!

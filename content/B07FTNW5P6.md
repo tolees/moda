@@ -10,8 +10,11 @@ author: ring
 slug: B07FTNW5P6
 description:
 actualPrice: 30.73 EUR
+currency: EUR
+price: 30.73
 comparePrice: 89.95 EUR
 inStock: true
+prodname: Lee Rider Vaqueros Slim  Marfil  Lt Greige 64   W29/L32 para Hombre
 ---
 
 Ahora mismo tienes [Lee Rider Vaqueros Slim  Marfil  Lt Greige 64   W29/L32 para Hombre](https://www.amazon.es/dp/B07FTNW5P6/?tag=tolees-21) a 30.73 EUR (original: 89.95 EUR) (65.84 %  de descuento) en el siguiente enlace!

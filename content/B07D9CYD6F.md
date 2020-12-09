@@ -10,8 +10,11 @@ author: ring
 slug: B07D9CYD6F
 description:
 actualPrice: 14.99 EUR
+currency: EUR
+price: 14.99
 comparePrice: 22.99 EUR
 inStock: true
+prodname: SKYSPER Guantes de Ciclismo Bicicleta Cortos Dedo Medio Gel Almohadilla Verano para Hombre Mujer Deportivos Mitones para Bicicleta montaña MTB Carreras Gimnasio Fitness
 ---
 
 Está [SKYSPER Guantes de Ciclismo Bicicleta Cortos Dedo Medio Gel Almohadilla Verano para Hombre Mujer Deportivos Mitones para Bicicleta montaña MTB Carreras Gimnasio Fitness](https://www.amazon.es/dp/B07D9CYD6F/?tag=tolees-21) con 34.80 de descuento por 14.99 EUR (original: 22.99 EUR) en el siguiente enlace!

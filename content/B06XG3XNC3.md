@@ -10,8 +10,11 @@ author: ring
 slug: B06XG3XNC3
 description:
 actualPrice: 86.4 EUR
+currency: EUR
+price: 86.4
 comparePrice: 144 EUR
 inStock: true
+prodname: Volcom Hernan Chaqueta  Hombre  Marron  mud   M
 ---
 
 Tienes [Volcom Hernan Chaqueta  Hombre  Marron  mud   M](https://www.amazon.es/dp/B06XG3XNC3/?tag=tolees-21) con un 40.00 % de descuento con precio de oferta de 86.4 EUR (original: 144 EUR) en el siguiente enlace!

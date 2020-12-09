@@ -10,8 +10,11 @@ author: ring
 slug: B07D9XYZ4S
 description:
 actualPrice: 32 EUR
+currency: EUR
+price: 32
 comparePrice: 65 EUR
 inStock: true
+prodname: Tommy Jeans Mujer Slim Fit Poplin  Blusa Manga Larga  Negro  Tommy Black 078  Large
 ---
 
 Está [Tommy Jeans Mujer Slim Fit Poplin  Blusa Manga Larga  Negro  Tommy Black 078  Large](https://www.amazon.es/dp/B07D9XYZ4S/?tag=tolees-21) con 50.77 de descuento por 32 EUR (original: 65 EUR) en el siguiente enlace!

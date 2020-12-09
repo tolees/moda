@@ -10,8 +10,11 @@ author: ring
 slug: B01MT5KGEB
 description:
 actualPrice: 16.99 EUR
+currency: EUR
+price: 16.99
 comparePrice: 30 EUR
 inStock: true
+prodname: CGID E01 Pequeño Estilo Vintage Retro Lennon inspirado círculo metálico redondo gafas de sol polarizadas para hombres y mujeres
 ---
 
 Ahora mismo tienes [CGID E01 Pequeño Estilo Vintage Retro Lennon inspirado círculo metálico redondo gafas de sol polarizadas para hombres y mujeres](https://www.amazon.es/dp/B01MT5KGEB/?tag=tolees-21) a 16.99 EUR (original: 30 EUR) (43.37 %  de descuento) en el siguiente enlace!

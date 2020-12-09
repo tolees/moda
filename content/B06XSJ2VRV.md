@@ -10,8 +10,11 @@ author: ring
 slug: B06XSJ2VRV
 description:
 actualPrice: 7.25 EUR
+currency: EUR
+price: 7.25
 comparePrice: 15.99 EUR
 inStock: true
+prodname: Esprit 067ee1k096  Camiseta Mujer   Light Grey 5 044   Medium
 ---
 
 Tienes [Esprit 067ee1k096  Camiseta Mujer   Light Grey 5 044   Medium](https://www.amazon.es/dp/B06XSJ2VRV/?tag=tolees-21) con un 54.66 % de descuento con precio de oferta de 7.25 EUR (original: 15.99 EUR) en el siguiente enlace!

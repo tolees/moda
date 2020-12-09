@@ -10,8 +10,11 @@ author: ring
 slug: B087VJPSH4
 description:
 actualPrice: 44.99 EUR
+currency: EUR
+price: 44.99
 comparePrice: 109.99 EUR
 inStock: true
+prodname: Columbia Pike Lake II Chaleco Aislante para Mujer  Negro  Blanco  Black  White Typo Print   S
 ---
 
 Ahora mismo tienes [Columbia Pike Lake II Chaleco Aislante para Mujer  Negro  Blanco  Black  White Typo Print   S](https://www.amazon.es/dp/B087VJPSH4/?tag=tolees-21) a 44.99 EUR (original: 109.99 EUR) (59.10 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07DXWDNDK
 description:
 actualPrice: 13.37 EUR
+currency: EUR
+price: 13.37
 comparePrice: 65 EUR
 inStock: true
+prodname: Under Armour Storm - Camiseta de Calentamiento para Mujer  Tejido Iridiscente  diseño gráfico FZ  Mujer  1325529-020  Charcoal/White  Large
 ---
 
 Tienes [Under Armour Storm - Camiseta de Calentamiento para Mujer  Tejido Iridiscente  diseño gráfico FZ  Mujer  1325529-020  Charcoal/White  Large](https://www.amazon.es/dp/B07DXWDNDK/?tag=tolees-21) con un 79.43 % de descuento con precio de oferta de 13.37 EUR (original: 65 EUR) en el siguiente enlace!

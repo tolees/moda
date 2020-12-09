@@ -10,8 +10,11 @@ author: ring
 slug: B07JZYPZG2
 description:
 actualPrice: 9.36 EUR
+currency: EUR
+price: 9.36
 comparePrice: 44.45 EUR
 inStock: true
+prodname: Warehouse Mujer Petrol Spot Camisa Not Applicable   Multi 99   34  Talla del Fabricante: 6 
 ---
 
 Ahora mismo tienes [Warehouse Mujer Petrol Spot Camisa Not Applicable   Multi 99   34  Talla del Fabricante: 6 ](https://www.amazon.es/dp/B07JZYPZG2/?tag=tolees-21) a 9.36 EUR (original: 44.45 EUR) (78.94 %  de descuento) en el siguiente enlace!

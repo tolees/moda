@@ -10,8 +10,11 @@ author: ring
 slug: B07JKKL5P5
 description:
 actualPrice: 16.99 EUR
+currency: EUR
+price: 16.99
 comparePrice: 39.95 EUR
 inStock: true
+prodname: Refresh 69724  Sandalias con Plataforma para Mujer  Negro  38 EU
 ---
 
 Está [Refresh 69724  Sandalias con Plataforma para Mujer  Negro  38 EU](https://www.amazon.es/dp/B07JKKL5P5/?tag=tolees-21) con 57.47 de descuento por 16.99 EUR (original: 39.95 EUR) en el siguiente enlace!

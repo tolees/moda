@@ -10,8 +10,11 @@ author: ring
 slug: B00IN6R6NW
 description:
 actualPrice: 11.95 EUR
+currency: EUR
+price: 11.95
 comparePrice: 44.95 EUR
 inStock: true
+prodname: X-Loop Aurora Gafas de Sol Polarizadas - Deporte - Esqui - Ciclismo - UV400  UVA y UVB 
 ---
 
 Tienes [X-Loop Aurora Gafas de Sol Polarizadas - Deporte - Esqui - Ciclismo - UV400  UVA y UVB ](https://www.amazon.es/dp/B00IN6R6NW/?tag=tolees-21) con un 73.41 % de descuento con precio de oferta de 11.95 EUR (original: 44.95 EUR) en el siguiente enlace!

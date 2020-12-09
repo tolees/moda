@@ -10,8 +10,11 @@ author: ring
 slug: B075RHDP8V
 description:
 actualPrice: 39.98 EUR
+currency: EUR
+price: 39.98
 comparePrice: 89.95 EUR
 inStock: true
+prodname: GORE WEAR C3 Pantalón corto para hombre  S  negro
 ---
 
 Ahora mismo tienes [GORE WEAR C3 Pantalón corto para hombre  S  negro](https://www.amazon.es/dp/B075RHDP8V/?tag=tolees-21) a 39.98 EUR (original: 89.95 EUR) (55.55 %  de descuento) en el siguiente enlace!

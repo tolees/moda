@@ -10,8 +10,11 @@ author: ring
 slug: B07JWKLBNL
 description:
 actualPrice: 42.55 EUR
+currency: EUR
+price: 42.55
 comparePrice: 60 EUR
 inStock: true
+prodname: Lacoste Tf3924  Camiseta Mujer  Azul  Maree 1 S6t   40
 ---
 
 Ahora mismo tienes [Lacoste Tf3924  Camiseta Mujer  Azul  Maree 1 S6t   40](https://www.amazon.es/dp/B07JWKLBNL/?tag=tolees-21) a 42.55 EUR (original: 60 EUR) (29.08 %  de descuento) en el siguiente enlace!

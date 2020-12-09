@@ -10,8 +10,11 @@ author: ring
 slug: B000VICBXK
 description:
 actualPrice: 76.99 EUR
+currency: EUR
+price: 76.99
 comparePrice: 150.0 EUR
 inStock: true
+prodname: Timberland 6 Inch Premium Waterproof  Junior   Botas Clasicas Unisex Adulto  Amarillo Wheat Nubuck  39.5 EU
 ---
 
 Está [Timberland 6 Inch Premium Waterproof  Junior   Botas Clasicas Unisex Adulto  Amarillo Wheat Nubuck  39.5 EU](https://www.amazon.es/dp/B000VICBXK/?tag=tolees-21) con 48.67 de descuento por 76.99 EUR (original: 150.0 EUR) en el siguiente enlace!

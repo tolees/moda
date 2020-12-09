@@ -10,8 +10,11 @@ author: ring
 slug: B07FTSCTZP
 description:
 actualPrice: 22.8 EUR
+currency: EUR
+price: 22.8
 comparePrice: 99.95 EUR
 inStock: true
+prodname: Lee Scarlett Jeans Vaqueros Skinny  Azul  Flight Wj   34W/33L para Mujer
 ---
 
 Está [Lee Scarlett Jeans Vaqueros Skinny  Azul  Flight Wj   34W/33L para Mujer](https://www.amazon.es/dp/B07FTSCTZP/?tag=tolees-21) con 77.19 de descuento por 22.8 EUR (original: 99.95 EUR) en el siguiente enlace!

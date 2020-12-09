@@ -10,8 +10,11 @@ author: ring
 slug: B07BB3K7HJ
 description:
 actualPrice: 15.71 EUR
+currency: EUR
+price: 15.71
 comparePrice: 40 EUR
 inStock: true
+prodname: The North Face W Etip Glove Guantes  Mujer  Urban Navy Heather  XS
 ---
 
 Ahora mismo tienes [The North Face W Etip Glove Guantes  Mujer  Urban Navy Heather  XS](https://www.amazon.es/dp/B07BB3K7HJ/?tag=tolees-21) a 15.71 EUR (original: 40 EUR) (60.72 %  de descuento) en el siguiente enlace!

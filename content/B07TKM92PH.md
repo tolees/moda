@@ -10,8 +10,11 @@ author: ring
 slug: B07TKM92PH
 description:
 actualPrice: 0.01 EUR
+currency: EUR
+price: 0.01
 comparePrice: 8.99 EUR
 inStock: true
+prodname: [ 2019 Prime Day ]Vestido Playa Largo Verde Vestido Sin Mangas De Verano De Las Mujeres Lino Del o-Cuello Bolsillo Grande Casual Señoras Sueltas Más Vestido Largo Tamaño （Verde）~ Coconano
 ---
 
 Tienes [[ 2019 Prime Day ]Vestido Playa Largo Verde Vestido Sin Mangas De Verano De Las Mujeres Lino Del o-Cuello Bolsillo Grande Casual Señoras Sueltas Más Vestido Largo Tamaño （Verde）~ Coconano](https://www.amazon.es/dp/B07TKM92PH/?tag=tolees-21) con un 99.89 % de descuento con precio de oferta de 0.01 EUR (original: 8.99 EUR) en el siguiente enlace!

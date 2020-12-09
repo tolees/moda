@@ -10,8 +10,11 @@ author: ring
 slug: B07HHPGW44
 description:
 actualPrice: 23.99 EUR
+currency: EUR
+price: 23.99
 comparePrice: 39.99 EUR
 inStock: true
+prodname: MISS MOLY Camisetas Mujer Manga Larga Tops Y Blusas Camisa Túnica Tops Basicas Verde X-Small
 ---
 
 Ahora mismo tienes [MISS MOLY Camisetas Mujer Manga Larga Tops Y Blusas Camisa Túnica Tops Basicas Verde X-Small](https://www.amazon.es/dp/B07HHPGW44/?tag=tolees-21) a 23.99 EUR (original: 39.99 EUR) (40.01 %  de descuento) en el siguiente enlace!

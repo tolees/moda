@@ -10,8 +10,11 @@ author: ring
 slug: B07LFGF64G
 description:
 actualPrice: 14.09 EUR
+currency: EUR
+price: 14.09
 comparePrice: 35.0 EUR
 inStock: true
+prodname: Levi s 2Pk Crewneck 1 Camiseta  2 Pack Slim Crew White/Med Heather Grey  XS  Pack de 2  para Hombre
 ---
 
 Tienes [Levi s 2Pk Crewneck 1 Camiseta  2 Pack Slim Crew White/Med Heather Grey  XS  Pack de 2  para Hombre](https://www.amazon.es/dp/B07LFGF64G/?tag=tolees-21) con un 59.74 % de descuento con precio de oferta de 14.09 EUR (original: 35.0 EUR) en el siguiente enlace!

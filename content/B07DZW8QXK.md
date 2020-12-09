@@ -10,8 +10,11 @@ author: ring
 slug: B07DZW8QXK
 description:
 actualPrice: 12.6 EUR
+currency: EUR
+price: 12.6
 comparePrice: 20 EUR
 inStock: true
+prodname: Levis Footwear and Accessories Dodge Sportswear  Chanclas para Hombre  Rojo  Regular Red 87   XL
 ---
 
 Ahora mismo tienes [Levis Footwear and Accessories Dodge Sportswear  Chanclas para Hombre  Rojo  Regular Red 87   XL](https://www.amazon.es/dp/B07DZW8QXK/?tag=tolees-21) a 12.6 EUR (original: 20 EUR) (37.00 %  de descuento) en el siguiente enlace!

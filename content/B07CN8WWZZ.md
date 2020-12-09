@@ -10,8 +10,11 @@ author: ring
 slug: B07CN8WWZZ
 description:
 actualPrice: 21 EUR
+currency: EUR
+price: 21
 comparePrice: 42.5 EUR
 inStock: true
+prodname: Crocs Classic  Zuecos Unisex Adulto  Beige  Cobblestone 2v3   43/44 EU
 ---
 
 Tienes [Crocs Classic  Zuecos Unisex Adulto  Beige  Cobblestone 2v3   43/44 EU](https://www.amazon.es/dp/B07CN8WWZZ/?tag=tolees-21) con un 50.59 % de descuento con precio de oferta de 21 EUR (original: 42.5 EUR) en el siguiente enlace!

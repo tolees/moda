@@ -10,8 +10,11 @@ author: ring
 slug: B0148MACFS
 description:
 actualPrice: 7.94 EUR
+currency: EUR
+price: 7.94
 comparePrice: 48.37 EUR
 inStock: true
+prodname: FreeQuent Hill-BL  Blusa para Mujer  Blanco XS
 ---
 
 Tienes [FreeQuent Hill-BL  Blusa para Mujer  Blanco XS](https://www.amazon.es/dp/B0148MACFS/?tag=tolees-21) con un 83.58 % de descuento con precio de oferta de 7.94 EUR (original: 48.37 EUR) en el siguiente enlace!

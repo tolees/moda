@@ -10,8 +10,11 @@ author: ring
 slug: B07BJHTY27
 description:
 actualPrice: 13.35 EUR
+currency: EUR
+price: 13.35
 comparePrice: 99.95 EUR
 inStock: true
+prodname: G-STAR RAW Lynn Mid-Waist Skinny Vaqueros  Azul  dk Aged 6553-89   24W / 36L para Mujer
 ---
 
 Está [G-STAR RAW Lynn Mid-Waist Skinny Vaqueros  Azul  dk Aged 6553-89   24W / 36L para Mujer](https://www.amazon.es/dp/B07BJHTY27/?tag=tolees-21) con 86.64 de descuento por 13.35 EUR (original: 99.95 EUR) en el siguiente enlace!

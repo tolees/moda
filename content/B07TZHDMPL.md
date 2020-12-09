@@ -10,8 +10,11 @@ author: ring
 slug: B07TZHDMPL
 description:
 actualPrice: 43.49 EUR
+currency: EUR
+price: 43.49
 comparePrice: 69.95 EUR
 inStock: true
+prodname: Wrangler Icons Camisa  Azul  1 Year 924   XXX-Large para Hombre
 ---
 
 Ahora mismo tienes [Wrangler Icons Camisa  Azul  1 Year 924   XXX-Large para Hombre](https://www.amazon.es/dp/B07TZHDMPL/?tag=tolees-21) a 43.49 EUR (original: 69.95 EUR) (37.83 %  de descuento) en el siguiente enlace!

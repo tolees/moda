@@ -10,8 +10,11 @@ author: ring
 slug: B07D7JPH6K
 description:
 actualPrice: 35.55 EUR
+currency: EUR
+price: 35.55
 comparePrice: 249.9 EUR
 inStock: true
+prodname: Dolores Promesas 107353  Chaqueta de Traje para Mujer  Azul   Tamaño del Fabricante:42 
 ---
 
 Está [Dolores Promesas 107353  Chaqueta de Traje para Mujer  Azul   Tamaño del Fabricante:42 ](https://www.amazon.es/dp/B07D7JPH6K/?tag=tolees-21) con 85.77 de descuento por 35.55 EUR (original: 249.9 EUR) en el siguiente enlace!

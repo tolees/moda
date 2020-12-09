@@ -10,8 +10,11 @@ author: ring
 slug: B07DZ6PSZW
 description:
 actualPrice: 104.2 EUR
+currency: EUR
+price: 104.2
 comparePrice: 179.99 EUR
 inStock: true
+prodname: Columbia Chaqueta con Capucha para Mujer  Windgates Hooded Insulated Jacket  Azul  Nocturnal Heather   Talla L
 ---
 
 Tienes [Columbia Chaqueta con Capucha para Mujer  Windgates Hooded Insulated Jacket  Azul  Nocturnal Heather   Talla L](https://www.amazon.es/dp/B07DZ6PSZW/?tag=tolees-21) con un 42.11 % de descuento con precio de oferta de 104.2 EUR (original: 179.99 EUR) en el siguiente enlace!

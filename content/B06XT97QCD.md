@@ -10,8 +10,11 @@ author: ring
 slug: B06XT97QCD
 description:
 actualPrice: 21.26 EUR
+currency: EUR
+price: 21.26
 comparePrice: 59 EUR
 inStock: true
+prodname: Pepe Jeans Sidney JR PG580629  Sudadera para Niñas  Gris  Dk Grey 975  14 años
 ---
 
 Tienes [Pepe Jeans Sidney JR PG580629  Sudadera para Niñas  Gris  Dk Grey 975  14 años](https://www.amazon.es/dp/B06XT97QCD/?tag=tolees-21) con un 63.97 % de descuento con precio de oferta de 21.26 EUR (original: 59 EUR) en el siguiente enlace!

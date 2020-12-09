@@ -10,8 +10,11 @@ author: ring
 slug: B07GZ7CG1J
 description:
 actualPrice: 34.16 EUR
+currency: EUR
+price: 34.16
 comparePrice: 49.95 EUR
 inStock: true
+prodname: Desigual Girl Knit Dress Sleeveless  Vest_yamena  Vestido  Blanco  White 1000   140  Talla del Fabricante: 9/10  para Niñas
 ---
 
 Está [Desigual Girl Knit Dress Sleeveless  Vest_yamena  Vestido  Blanco  White 1000   140  Talla del Fabricante: 9/10  para Niñas](https://www.amazon.es/dp/B07GZ7CG1J/?tag=tolees-21) con 31.61 de descuento por 34.16 EUR (original: 49.95 EUR) en el siguiente enlace!

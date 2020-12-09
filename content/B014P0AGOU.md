@@ -10,8 +10,11 @@ author: ring
 slug: B014P0AGOU
 description:
 actualPrice: 49.95 EUR
+currency: EUR
+price: 49.95
 comparePrice: 72 EUR
 inStock: true
+prodname: Pepe Jeans London Cash  Vaqueros para Hombre  Azul  12Oz Clean Twill H05   W29/L32
 ---
 
 Ahora mismo tienes [Pepe Jeans London Cash  Vaqueros para Hombre  Azul  12Oz Clean Twill H05   W29/L32](https://www.amazon.es/dp/B014P0AGOU/?tag=tolees-21) a 49.95 EUR (original: 72 EUR) (30.62 %  de descuento) en el siguiente enlace!

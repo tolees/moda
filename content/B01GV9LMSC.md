@@ -10,8 +10,11 @@ author: ring
 slug: B01GV9LMSC
 description:
 actualPrice: 2.8 EUR
+currency: EUR
+price: 2.8
 comparePrice: 10.5 EUR
 inStock: true
+prodname: oodji Ultra Mujer Braguitas Bikini Ribete en Contraste  Naranja  ES 36 / XS
 ---
 
 Está [oodji Ultra Mujer Braguitas Bikini Ribete en Contraste  Naranja  ES 36 / XS](https://www.amazon.es/dp/B01GV9LMSC/?tag=tolees-21) con 73.33 de descuento por 2.8 EUR (original: 10.5 EUR) en el siguiente enlace!

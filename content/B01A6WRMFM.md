@@ -10,8 +10,11 @@ author: ring
 slug: B01A6WRMFM
 description:
 actualPrice: 41.36 EUR
+currency: EUR
+price: 41.36
 comparePrice: 70 EUR
 inStock: true
+prodname: The North Face Exploration Short Pantalón Corto  Hombre  Gris  Asphalt Grey   38
 ---
 
 Tienes [The North Face Exploration Short Pantalón Corto  Hombre  Gris  Asphalt Grey   38](https://www.amazon.es/dp/B01A6WRMFM/?tag=tolees-21) con un 40.91 % de descuento con precio de oferta de 41.36 EUR (original: 70 EUR) en el siguiente enlace!

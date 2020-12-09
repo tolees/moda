@@ -10,8 +10,11 @@ author: ring
 slug: B07F8ZN2GH
 description:
 actualPrice: 35.9 EUR
+currency: EUR
+price: 35.9
 comparePrice: 99.99 EUR
 inStock: true
+prodname: JACK & JONES Jornew Bento Parka Jacket  Hombre  Verde  Forest Night AOP: Camo  Large
 ---
 
 Está [JACK & JONES Jornew Bento Parka Jacket  Hombre  Verde  Forest Night AOP: Camo  Large](https://www.amazon.es/dp/B07F8ZN2GH/?tag=tolees-21) con 64.10 de descuento por 35.9 EUR (original: 99.99 EUR) en el siguiente enlace!

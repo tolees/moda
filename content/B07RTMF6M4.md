@@ -10,8 +10,11 @@ author: ring
 slug: B07RTMF6M4
 description:
 actualPrice: 13 EUR
+currency: EUR
+price: 13
 comparePrice: 22.89 EUR
 inStock: true
+prodname: New Look Adam Tie Dye Falda  Negro  Black Pattern 9   38  Talla del Fabricante: 10  para Mujer
 ---
 
 Está [New Look Adam Tie Dye Falda  Negro  Black Pattern 9   38  Talla del Fabricante: 10  para Mujer](https://www.amazon.es/dp/B07RTMF6M4/?tag=tolees-21) con 43.21 de descuento por 13 EUR (original: 22.89 EUR) en el siguiente enlace!

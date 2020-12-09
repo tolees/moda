@@ -10,8 +10,11 @@ author: ring
 slug: B07PYY1G2R
 description:
 actualPrice: 20 EUR
+currency: EUR
+price: 20
 comparePrice: 30.45 EUR
 inStock: true
+prodname: New Look Pastel Stripe Linen Vestido   Mulit-Coloured 99   40  Talla del Fabricante: 12  para Mujer
 ---
 
 Ahora mismo tienes [New Look Pastel Stripe Linen Vestido   Mulit-Coloured 99   40  Talla del Fabricante: 12  para Mujer](https://www.amazon.es/dp/B07PYY1G2R/?tag=tolees-21) a 20 EUR (original: 30.45 EUR) (34.32 %  de descuento) en el siguiente enlace!

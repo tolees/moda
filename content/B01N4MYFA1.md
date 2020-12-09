@@ -10,8 +10,11 @@ author: ring
 slug: B01N4MYFA1
 description:
 actualPrice: 109.94 EUR
+currency: EUR
+price: 109.94
 comparePrice: 485 EUR
 inStock: true
+prodname: Stella Maris STMB611-01 - Bolso para mujer con organizador de bolsillo extraíble  color negro
 ---
 
 Ahora mismo tienes [Stella Maris STMB611-01 - Bolso para mujer con organizador de bolsillo extraíble  color negro](https://www.amazon.es/dp/B01N4MYFA1/?tag=tolees-21) a 109.94 EUR (original: 485 EUR) (77.33 %  de descuento) en el siguiente enlace!

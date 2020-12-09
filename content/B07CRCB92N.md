@@ -10,8 +10,11 @@ author: ring
 slug: B07CRCB92N
 description:
 actualPrice: 24.01 EUR
+currency: EUR
+price: 24.01
 comparePrice: 95 EUR
 inStock: true
+prodname: Pepe Jeans New Brooke Vaqueros Hombre Ajustados  Azul  Denim GN2   32W / 34L para Mujer
 ---
 
 Ahora mismo tienes [Pepe Jeans New Brooke Vaqueros Hombre Ajustados  Azul  Denim GN2   32W / 34L para Mujer](https://www.amazon.es/dp/B07CRCB92N/?tag=tolees-21) a 24.01 EUR (original: 95 EUR) (74.73 %  de descuento) en el siguiente enlace!

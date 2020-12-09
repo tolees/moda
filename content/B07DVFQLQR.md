@@ -10,8 +10,11 @@ author: ring
 slug: B07DVFQLQR
 description:
 actualPrice: 19.99 EUR
+currency: EUR
+price: 19.99
 comparePrice: 39.99 EUR
 inStock: true
+prodname: Cuddle Club Mono Polar Bebé para Recién Nacidos a Niños 4 Años - Pijamas Infantiles Chaqueta de Invierno Abrigo Polar Niño Mono de Niños - BearBlack/White0-3m
 ---
 
 Tienes [Cuddle Club Mono Polar Bebé para Recién Nacidos a Niños 4 Años - Pijamas Infantiles Chaqueta de Invierno Abrigo Polar Niño Mono de Niños - BearBlack/White0-3m](https://www.amazon.es/dp/B07DVFQLQR/?tag=tolees-21) con un 50.01 % de descuento con precio de oferta de 19.99 EUR (original: 39.99 EUR) en el siguiente enlace!

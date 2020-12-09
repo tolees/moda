@@ -10,8 +10,11 @@ author: ring
 slug: B07KYNT9JJ
 description:
 actualPrice: 6.31 EUR
+currency: EUR
+price: 6.31
 comparePrice: 26.99 EUR
 inStock: true
+prodname: Springfield 2.1.J.MD.G.Pañuelo Jersey Gama Azules 19  Small  Tamaño del Fabricante:S  para Mujer
 ---
 
 Ahora mismo tienes [Springfield 2.1.J.MD.G.Pañuelo Jersey Gama Azules 19  Small  Tamaño del Fabricante:S  para Mujer](https://www.amazon.es/dp/B07KYNT9JJ/?tag=tolees-21) a 6.31 EUR (original: 26.99 EUR) (76.62 %  de descuento) en el siguiente enlace!

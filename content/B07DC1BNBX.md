@@ -10,8 +10,11 @@ author: ring
 slug: B07DC1BNBX
 description:
 actualPrice: 14.95 EUR
+currency: EUR
+price: 14.95
 comparePrice: 19.95 EUR
 inStock: true
+prodname: Puma Popcat  Zapatos de Playa y Piscina Unisex Adulto  Rojo  Hibiscus White 45   42 EU
 ---
 
 Está [Puma Popcat  Zapatos de Playa y Piscina Unisex Adulto  Rojo  Hibiscus White 45   42 EU](https://www.amazon.es/dp/B07DC1BNBX/?tag=tolees-21) con 25.06 de descuento por 14.95 EUR (original: 19.95 EUR) en el siguiente enlace!

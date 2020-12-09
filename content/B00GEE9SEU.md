@@ -10,8 +10,11 @@ author: ring
 slug: B00GEE9SEU
 description:
 actualPrice: 30.01 EUR
+currency: EUR
+price: 30.01
 comparePrice: 64.95 EUR
 inStock: true
+prodname: Columbia Silver Ridge Cargo Pant AM8007 Pantalón  Hombre  Abyss  30
 ---
 
 Tienes [Columbia Silver Ridge Cargo Pant AM8007 Pantalón  Hombre  Abyss  30](https://www.amazon.es/dp/B00GEE9SEU/?tag=tolees-21) con un 53.80 % de descuento con precio de oferta de 30.01 EUR (original: 64.95 EUR) en el siguiente enlace!

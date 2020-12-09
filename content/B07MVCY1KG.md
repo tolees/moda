@@ -10,8 +10,11 @@ author: ring
 slug: B07MVCY1KG
 description:
 actualPrice: 5.95 EUR
+currency: EUR
+price: 5.95
 comparePrice: 19.95 EUR
 inStock: true
+prodname: Chanclas Flip Flop Playa y Piscina para Mujer o Chica  36 EU  Ethnic 
 ---
 
 Ahora mismo tienes [Chanclas Flip Flop Playa y Piscina para Mujer o Chica  36 EU  Ethnic ](https://www.amazon.es/dp/B07MVCY1KG/?tag=tolees-21) a 5.95 EUR (original: 19.95 EUR) (70.18 %  de descuento) en el siguiente enlace!

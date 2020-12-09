@@ -10,8 +10,11 @@ author: ring
 slug: B07DVKVJJ1
 description:
 actualPrice: 30.41 EUR
+currency: EUR
+price: 30.41
 comparePrice: 44.95 EUR
 inStock: true
+prodname: adidas Hoops Mid 2.0  Zapatos de Baloncesto Unisex Niños  Blanco Ftwwht/Reamag/Trablu  30 EU
 ---
 
 Tienes [adidas Hoops Mid 2.0  Zapatos de Baloncesto Unisex Niños  Blanco Ftwwht/Reamag/Trablu  30 EU](https://www.amazon.es/dp/B07DVKVJJ1/?tag=tolees-21) con un 32.35 % de descuento con precio de oferta de 30.41 EUR (original: 44.95 EUR) en el siguiente enlace!

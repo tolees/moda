@@ -10,8 +10,11 @@ author: ring
 slug: B01N4DLIR5
 description:
 actualPrice: 15.96 EUR
+currency: EUR
+price: 15.96
 comparePrice: 29.9 EUR
 inStock: true
+prodname: Tommy Jeans Mujer Basic Camiseta de tirantes Manga Corta  Blanco  Bright White 113  Large
 ---
 
 Ahora mismo tienes [Tommy Jeans Mujer Basic Camiseta de tirantes Manga Corta  Blanco  Bright White 113  Large](https://www.amazon.es/dp/B01N4DLIR5/?tag=tolees-21) a 15.96 EUR (original: 29.9 EUR) (46.62 %  de descuento) en el siguiente enlace!

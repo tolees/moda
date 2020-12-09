@@ -10,8 +10,11 @@ author: ring
 slug: B07CGX16KG
 description:
 actualPrice: 25.31 EUR
+currency: EUR
+price: 25.31
 comparePrice: 139 EUR
 inStock: true
+prodname: REPLAY MA955 Newbill  Vaqueros Straight para Hombre  Gris  Dark Grey Denim 9  W30/L36
 ---
 
 Ahora mismo tienes [REPLAY MA955 Newbill  Vaqueros Straight para Hombre  Gris  Dark Grey Denim 9  W30/L36](https://www.amazon.es/dp/B07CGX16KG/?tag=tolees-21) a 25.31 EUR (original: 139 EUR) (81.79 %  de descuento) en el siguiente enlace!

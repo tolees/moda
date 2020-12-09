@@ -10,8 +10,11 @@ author: ring
 slug: B07DQBDTKQ
 description:
 actualPrice: 16.47 EUR
+currency: EUR
+price: 16.47
 comparePrice: 39.99 EUR
 inStock: true
+prodname: MTNG Collection BERNINA  Bolso totes para Mujer  Marrón  Karma Cuero   7.5 x 31 x 28 cm
 ---
 
 Tienes [MTNG Collection BERNINA  Bolso totes para Mujer  Marrón  Karma Cuero   7.5 x 31 x 28 cm](https://www.amazon.es/dp/B07DQBDTKQ/?tag=tolees-21) con un 58.81 % de descuento con precio de oferta de 16.47 EUR (original: 39.99 EUR) en el siguiente enlace!

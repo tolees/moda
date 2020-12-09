@@ -10,8 +10,11 @@ author: ring
 slug: B07HPVV5HL
 description:
 actualPrice: 19.74 EUR
+currency: EUR
+price: 19.74
 comparePrice: 56.69 EUR
 inStock: true
+prodname: New Look Chicago Parka  Gris  Light Grey   40  Talla del Fabricante: 12  para Mujer
 ---
 
 Ahora mismo tienes [New Look Chicago Parka  Gris  Light Grey   40  Talla del Fabricante: 12  para Mujer](https://www.amazon.es/dp/B07HPVV5HL/?tag=tolees-21) a 19.74 EUR (original: 56.69 EUR) (65.18 %  de descuento) en el siguiente enlace!

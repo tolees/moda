@@ -10,8 +10,11 @@ author: ring
 slug: B077VNLY1D
 description:
 actualPrice: 5.94 EUR
+currency: EUR
+price: 5.94
 comparePrice: 16.65 EUR
 inStock: true
+prodname: Tom Tailor T-Shirt Uni 1/1 Round-Neck  Camiseta para Niñas  Azul  Real Navy Blue 6593  12 años
 ---
 
 Está [Tom Tailor T-Shirt Uni 1/1 Round-Neck  Camiseta para Niñas  Azul  Real Navy Blue 6593  12 años](https://www.amazon.es/dp/B077VNLY1D/?tag=tolees-21) con 64.32 de descuento por 5.94 EUR (original: 16.65 EUR) en el siguiente enlace!

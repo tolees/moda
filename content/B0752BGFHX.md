@@ -10,8 +10,11 @@ author: ring
 slug: B0752BGFHX
 description:
 actualPrice: 34.05 EUR
+currency: EUR
+price: 34.05
 comparePrice: 89.95 EUR
 inStock: true
+prodname: G-STAR RAW 3301 Deconstructed High Waist Skinny Vaqueros  Negro  rinsed 8970-082   33W / 36L para Mujer
 ---
 
 Tienes [G-STAR RAW 3301 Deconstructed High Waist Skinny Vaqueros  Negro  rinsed 8970-082   33W / 36L para Mujer](https://www.amazon.es/dp/B0752BGFHX/?tag=tolees-21) con un 62.15 % de descuento con precio de oferta de 34.05 EUR (original: 89.95 EUR) en el siguiente enlace!

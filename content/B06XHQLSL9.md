@@ -10,8 +10,11 @@ author: ring
 slug: B06XHQLSL9
 description:
 actualPrice: 29.95 EUR
+currency: EUR
+price: 29.95
 comparePrice: 65 EUR
 inStock: true
+prodname: Geox J Kommodor B  Zapatillas para Niños  Negro  Black/White   35 EU
 ---
 
 Está [Geox J Kommodor B  Zapatillas para Niños  Negro  Black/White   35 EU](https://www.amazon.es/dp/B06XHQLSL9/?tag=tolees-21) con 53.92 de descuento por 29.95 EUR (original: 65 EUR) en el siguiente enlace!

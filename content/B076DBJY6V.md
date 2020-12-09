@@ -10,16 +10,17 @@ author: ring
 slug: B076DBJY6V
 description:
 actualPrice: 30 EUR
+currency: EUR
+price: 30
 comparePrice: 75 EUR
 inStock: true
+prodname: Pepe Jeans New Berry  Chaqueta para Niñas  Azul  12Oz Gymdigo Medium I62  6 años
 ---
 
-Está [Pepe Jeans New Berry  Chaqueta para Niñas  Azul  12Oz Gymdigo Medium I62  6 años](https://www.amazon.es/dp/B076DBJY6V/?tag=tolees-21) con 60.00 de descuento por 30 EUR (original: 75 EUR) en el siguiente enlace!
+Ahora mismo tienes [Pepe Jeans New Berry  Chaqueta para Niñas  Azul  12Oz Gymdigo Medium I62  6 años](https://www.amazon.es/dp/B076DBJY6V/?tag=tolees-21) a 30 EUR (original: 75 EUR) (60.00 %  de descuento) en el siguiente enlace!
 
 [![Pepe Jeans New Berry  Chaqueta para Niña](https://images-eu.ssl-images-amazon.com/images/I/51TyPYSWesL._SL200_.jpg)](https://www.amazon.es/dp/B076DBJY6V/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B076DBJY6V/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B076DBJY6V/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

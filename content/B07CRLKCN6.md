@@ -10,8 +10,11 @@ author: ring
 slug: B07CRLKCN6
 description:
 actualPrice: 48.23 EUR
+currency: EUR
+price: 48.23
 comparePrice: 79.95 EUR
 inStock: true
+prodname: Wrangler Arizona Vaqueros  Negro  Black Valley 19A   W32/L32 para Hombre
 ---
 
 Ahora mismo tienes [Wrangler Arizona Vaqueros  Negro  Black Valley 19A   W32/L32 para Hombre](https://www.amazon.es/dp/B07CRLKCN6/?tag=tolees-21) a 48.23 EUR (original: 79.95 EUR) (39.67 %  de descuento) en el siguiente enlace!

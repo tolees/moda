@@ -10,8 +10,11 @@ author: ring
 slug: B01FX11VJO
 description:
 actualPrice: 16.5 EUR
+currency: EUR
+price: 16.5
 comparePrice: 33 EUR
 inStock: true
+prodname: Under Armour Tech Short 2.0 Twist Pantalón Corto  Mujer  Negro  001   S
 ---
 
 Ahora mismo tienes [Under Armour Tech Short 2.0 Twist Pantalón Corto  Mujer  Negro  001   S](https://www.amazon.es/dp/B01FX11VJO/?tag=tolees-21) a 16.5 EUR (original: 33 EUR) (50.00 %  de descuento) en el siguiente enlace!

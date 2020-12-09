@@ -10,8 +10,11 @@ author: ring
 slug: B014KH1PPM
 description:
 actualPrice: 13.7 EUR
+currency: EUR
+price: 13.7
 comparePrice: 79.95 EUR
 inStock: true
+prodname: b.young Elis Jacket  Abrigo para Mujer  Elfenbein  Whisper Pink 80654  36
 ---
 
 Está [b.young Elis Jacket  Abrigo para Mujer  Elfenbein  Whisper Pink 80654  36](https://www.amazon.es/dp/B014KH1PPM/?tag=tolees-21) con 82.86 de descuento por 13.7 EUR (original: 79.95 EUR) en el siguiente enlace!

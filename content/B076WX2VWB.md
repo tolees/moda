@@ -10,8 +10,11 @@ author: ring
 slug: B076WX2VWB
 description:
 actualPrice: 34.98 EUR
+currency: EUR
+price: 34.98
 comparePrice: 99.95 EUR
 inStock: true
+prodname: G-STAR RAW 3301 Deconst Low Skinny Wmn  Vaqueros Mujer  Azul  Lt Aged 424   W30/L32
 ---
 
 Tienes [G-STAR RAW 3301 Deconst Low Skinny Wmn  Vaqueros Mujer  Azul  Lt Aged 424   W30/L32](https://www.amazon.es/dp/B076WX2VWB/?tag=tolees-21) con un 65.00 % de descuento con precio de oferta de 34.98 EUR (original: 99.95 EUR) en el siguiente enlace!

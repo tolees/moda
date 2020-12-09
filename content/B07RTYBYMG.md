@@ -10,8 +10,11 @@ author: ring
 slug: B07RTYBYMG
 description:
 actualPrice: 33.99 EUR
+currency: EUR
+price: 33.99
 comparePrice: 45.99 EUR
 inStock: true
+prodname: Axcone Zapatillas Hombres Mujer Deporte Running Zapatos para Correr Gimnasio Sneakers Deportivas Padel Transpirables Casual 833 PK 42EU
 ---
 
 Tienes [Axcone Zapatillas Hombres Mujer Deporte Running Zapatos para Correr Gimnasio Sneakers Deportivas Padel Transpirables Casual 833 PK 42EU](https://www.amazon.es/dp/B07RTYBYMG/?tag=tolees-21) con un 26.09 % de descuento con precio de oferta de 33.99 EUR (original: 45.99 EUR) en el siguiente enlace!

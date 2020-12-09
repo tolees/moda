@@ -10,8 +10,11 @@ author: ring
 slug: B077VTPD1X
 description:
 actualPrice: 45.19 EUR
+currency: EUR
+price: 45.19
 comparePrice: 100 EUR
 inStock: true
+prodname: Levi s 511 Slim Fit  Vaqueros para Hombre  Azul  Cuzn 2611   33W / 36L
 ---
 
 Ahora mismo tienes [Levi s 511 Slim Fit  Vaqueros para Hombre  Azul  Cuzn 2611   33W / 36L](https://www.amazon.es/dp/B077VTPD1X/?tag=tolees-21) a 45.19 EUR (original: 100 EUR) (54.81 %  de descuento) en el siguiente enlace!

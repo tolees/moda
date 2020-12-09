@@ -10,8 +10,11 @@ author: ring
 slug: B013SXHE1I
 description:
 actualPrice: 16.99 EUR
+currency: EUR
+price: 16.99
 comparePrice: 29.95 EUR
 inStock: true
+prodname: Only Onlleco 7/8 Long Cardigan Jrs Noos  Chaqueta Para Mujer  Negro  Black Black   34  Talla Fabricante: XS 
 ---
 
 Tienes [Only Onlleco 7/8 Long Cardigan Jrs Noos  Chaqueta Para Mujer  Negro  Black Black   34  Talla Fabricante: XS ](https://www.amazon.es/dp/B013SXHE1I/?tag=tolees-21) con un 43.27 % de descuento con precio de oferta de 16.99 EUR (original: 29.95 EUR) en el siguiente enlace!

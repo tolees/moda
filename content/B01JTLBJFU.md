@@ -10,8 +10,11 @@ author: ring
 slug: B01JTLBJFU
 description:
 actualPrice: 45.23 EUR
+currency: EUR
+price: 45.23
 comparePrice: 99.95 EUR
 inStock: true
+prodname: Uvex Downhill 2000 FM Gafas de esquí  Adultos Unisex  Black Mat/Blue-Clear  One Size
 ---
 
 Está [Uvex Downhill 2000 FM Gafas de esquí  Adultos Unisex  Black Mat/Blue-Clear  One Size](https://www.amazon.es/dp/B01JTLBJFU/?tag=tolees-21) con 54.75 de descuento por 45.23 EUR (original: 99.95 EUR) en el siguiente enlace!
