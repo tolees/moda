@@ -14,10 +14,12 @@ comparePrice: 14.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [DoGeek Transpirable Zapatos de Ballet Zapatillas de Ballet de Danza Baile para Niña](https://www.amazon.es/dp/B0714KRQQB/?tag=tolees-21) a 9.99 EUR (original: 14.99 EUR) (33.36 %  de descuento) en el siguiente enlace!
+Está [DoGeek Transpirable Zapatos de Ballet Zapatillas de Ballet de Danza Baile para Niña](https://www.amazon.es/dp/B0714KRQQB/?tag=tolees-21) con 33.36 de descuento por 9.99 EUR (original: 14.99 EUR) en el siguiente enlace!
 
 [![DoGeek Transpirable Zapatos de Ballet Za](https://m.media-amazon.com/images/I/41ynoej2YLL._SL200_.jpg)](https://www.amazon.es/dp/B0714KRQQB/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B0714KRQQB/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B0714KRQQB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

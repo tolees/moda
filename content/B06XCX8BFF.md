@@ -14,12 +14,10 @@ comparePrice: 89.99 EUR
 inStock: true
 ---
 
-Está [Cortefiel 7067399  Falda para Mujer  Verde Oscuro  M](https://www.amazon.es/dp/B06XCX8BFF/?tag=tolees-21) con 78.76 de descuento por 19.11 EUR (original: 89.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Cortefiel 7067399  Falda para Mujer  Verde Oscuro  M](https://www.amazon.es/dp/B06XCX8BFF/?tag=tolees-21) a 19.11 EUR (original: 89.99 EUR) (78.76 %  de descuento) en el siguiente enlace!
 
 [![Cortefiel 7067399  Falda para Mujer  Ver](https://images-eu.ssl-images-amazon.com/images/I/415E1OtrhFL._SL200_.jpg)](https://www.amazon.es/dp/B06XCX8BFF/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B06XCX8BFF/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B06XCX8BFF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-
