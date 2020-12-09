@@ -17,12 +17,10 @@ inStock: true
 prodname: 'Dockers by Gerli 35cp308  Botines para Mujer  Negro  Schwarz 100   37 EU'
 ---
 
-Está [Dockers by Gerli 35cp308  Botines para Mujer  Negro  Schwarz 100   37 EU](https://www.amazon.es/dp/B07DJFRGCH/?tag=tolees-21) con 69.81 de descuento por 18.1 EUR (original: 59.95 EUR) en el siguiente enlace!
+Ahora mismo tienes [Dockers by Gerli 35cp308  Botines para Mujer  Negro  Schwarz 100   37 EU](https://www.amazon.es/dp/B07DJFRGCH/?tag=tolees-21) a 18.1 EUR (original: 59.95 EUR) (69.81 %  de descuento) en el siguiente enlace!
 
 [![Dockers by Gerli 35cp308  Botines para M](https://images-eu.ssl-images-amazon.com/images/I/41XljOxcaRL._SL200_.jpg)](https://www.amazon.es/dp/B07DJFRGCH/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07DJFRGCH/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07DJFRGCH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

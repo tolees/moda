@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 32.20 % en Levi s SS Original Hm tee Camiseta  Cott'
-date: 2020-12-08 20:25:04
+date: 2020-12-09 20:42:07
 thumbnailImage: 'https://m.media-amazon.com/images/I/41DZrzX3xzL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41DZrzX3xzL._SL200_.jpg' ]
 comments: true

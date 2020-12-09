@@ -17,10 +17,12 @@ inStock: true
 prodname: 'Geox D Kaula B ABX D  Zapatillas Altas para Mujer  Negro  Black C9999   40 EU'
 ---
 
-Ahora mismo tienes [Geox D Kaula B ABX D  Zapatillas Altas para Mujer  Negro  Black C9999   40 EU](https://www.amazon.es/dp/B0792GPDVM/?tag=tolees-21) a 80.88 EUR (original: 145.0 EUR) (44.22 %  de descuento) en el siguiente enlace!
+Está [Geox D Kaula B ABX D  Zapatillas Altas para Mujer  Negro  Black C9999   40 EU](https://www.amazon.es/dp/B0792GPDVM/?tag=tolees-21) con 44.22 de descuento por 80.88 EUR (original: 145.0 EUR) en el siguiente enlace!
 
 [![Geox D Kaula B ABX D  Zapatillas Altas p](https://m.media-amazon.com/images/I/41ekOFB18IL._SL200_.jpg)](https://www.amazon.es/dp/B0792GPDVM/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B0792GPDVM/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B0792GPDVM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+
