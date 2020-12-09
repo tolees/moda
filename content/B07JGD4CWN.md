@@ -17,12 +17,10 @@ inStock: true
 prodname: 'Puma ESS No. 1 SL tee Camiseta  Hombre  Gris  Medium Gray Heather   XL'
 ---
 
-Está [Puma ESS No. 1 SL tee Camiseta  Hombre  Gris  Medium Gray Heather   XL](https://www.amazon.es/dp/B07JGD4CWN/?tag=tolees-21) con 41.56 de descuento por 10.49 EUR (original: 17.95 EUR) en el siguiente enlace!
+Ahora mismo tienes [Puma ESS No. 1 SL tee Camiseta  Hombre  Gris  Medium Gray Heather   XL](https://www.amazon.es/dp/B07JGD4CWN/?tag=tolees-21) a 10.49 EUR (original: 17.95 EUR) (41.56 %  de descuento) en el siguiente enlace!
 
 [![Puma ESS No. 1 SL tee Camiseta  Hombre  ](https://images-eu.ssl-images-amazon.com/images/I/41QD0P4PHrL._SL200_.jpg)](https://www.amazon.es/dp/B07JGD4CWN/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07JGD4CWN/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07JGD4CWN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

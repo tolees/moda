@@ -17,12 +17,10 @@ inStock: true
 prodname: 'Refresh 64783  Botines para Mujer  Negro  37 EU'
 ---
 
-Está [Refresh 64783  Botines para Mujer  Negro  37 EU](https://www.amazon.es/dp/B07DD3G8WT/?tag=tolees-21) con 80.02 de descuento por 9.98 EUR (original: 49.95 EUR) en el siguiente enlace!
+Ahora mismo tienes [Refresh 64783  Botines para Mujer  Negro  37 EU](https://www.amazon.es/dp/B07DD3G8WT/?tag=tolees-21) a 9.98 EUR (original: 49.95 EUR) (80.02 %  de descuento) en el siguiente enlace!
 
 [![Refresh 64783  Botines para Mujer  Negro](https://images-eu.ssl-images-amazon.com/images/I/41NgJIrBGvL._SL200_.jpg)](https://www.amazon.es/dp/B07DD3G8WT/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07DD3G8WT/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07DD3G8WT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-
