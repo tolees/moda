@@ -14,10 +14,12 @@ comparePrice: 25.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [edc by Esprit 098cc1k014 Camisa Manga Larga  Negro  Black 001   Small para Mujer](https://www.amazon.es/dp/B07DRQ6LMN/?tag=tolees-21) a 13.43 EUR (original: 25.99 EUR) (48.33 %  de descuento) en el siguiente enlace!
+Está [edc by Esprit 098cc1k014 Camisa Manga Larga  Negro  Black 001   Small para Mujer](https://www.amazon.es/dp/B07DRQ6LMN/?tag=tolees-21) con 48.33 de descuento por 13.43 EUR (original: 25.99 EUR) en el siguiente enlace!
 
 [![edc by Esprit 098cc1k014 Camisa Manga La](https://images-eu.ssl-images-amazon.com/images/I/31GxtGPHLVL._SL200_.jpg)](https://www.amazon.es/dp/B07DRQ6LMN/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07DRQ6LMN/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07DRQ6LMN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

@@ -14,10 +14,12 @@ comparePrice: 29.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [edc by Esprit 108cc1f018 Blusa  Negro  Black 001   Small para Mujer](https://www.amazon.es/dp/B07FWY7SGL/?tag=tolees-21) a 12.18 EUR (original: 29.99 EUR) (59.39 %  de descuento) en el siguiente enlace!
+Está [edc by Esprit 108cc1f018 Blusa  Negro  Black 001   Small para Mujer](https://www.amazon.es/dp/B07FWY7SGL/?tag=tolees-21) con 59.39 de descuento por 12.18 EUR (original: 29.99 EUR) en el siguiente enlace!
 
 [![edc by Esprit 108cc1f018 Blusa  Negro  B](https://images-eu.ssl-images-amazon.com/images/I/31zGT%2BVEBvL._SL200_.jpg)](https://www.amazon.es/dp/B07FWY7SGL/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07FWY7SGL/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07FWY7SGL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+
