@@ -17,10 +17,12 @@ inStock: true
 prodname: 'Columbia Powder Lite  Chaqueta  Mujer  C142Azul  Nocturnal  Talla L'
 ---
 
-Ahora mismo tienes [Columbia Powder Lite  Chaqueta  Mujer  C142Azul  Nocturnal  Talla L](https://www.amazon.es/dp/B07J9KKML3/?tag=tolees-21) a 47.99 EUR (original: 69.99 EUR) (31.43 %  de descuento) en el siguiente enlace!
+Está [Columbia Powder Lite  Chaqueta  Mujer  C142Azul  Nocturnal  Talla L](https://www.amazon.es/dp/B07J9KKML3/?tag=tolees-21) con 31.43 de descuento por 47.99 EUR (original: 69.99 EUR) en el siguiente enlace!
 
 [![Columbia Powder Lite  Chaqueta  Mujer  C](https://m.media-amazon.com/images/I/41whPXDISkL._SL200_.jpg)](https://www.amazon.es/dp/B07J9KKML3/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07J9KKML3/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07J9KKML3/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

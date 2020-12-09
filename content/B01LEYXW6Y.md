@@ -17,10 +17,12 @@ inStock: true
 prodname: 'New Look Wool Peacoat - Abrigo Para Hombre  color Azul  Blue   talla Small'
 ---
 
-Ahora mismo tienes [New Look Wool Peacoat - Abrigo Para Hombre  color Azul  Blue   talla Small](https://www.amazon.es/dp/B01LEYXW6Y/?tag=tolees-21) a 24.91 EUR (original: 65 EUR) (61.68 %  de descuento) en el siguiente enlace!
+Está [New Look Wool Peacoat - Abrigo Para Hombre  color Azul  Blue   talla Small](https://www.amazon.es/dp/B01LEYXW6Y/?tag=tolees-21) con 61.68 de descuento por 24.91 EUR (original: 65 EUR) en el siguiente enlace!
 
 [![New Look Wool Peacoat - Abrigo Para Homb](https://images-eu.ssl-images-amazon.com/images/I/41PBUIl8gsL._SL200_.jpg)](https://www.amazon.es/dp/B01LEYXW6Y/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B01LEYXW6Y/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B01LEYXW6Y/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

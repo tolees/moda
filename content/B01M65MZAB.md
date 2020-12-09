@@ -17,10 +17,12 @@ inStock: true
 prodname: 'Rieker Kinder K2266 Sandalias con Cuña Niñas  Gris  Silber/Platin   36 EU'
 ---
 
-Ahora mismo tienes [Rieker Kinder K2266 Sandalias con Cuña Niñas  Gris  Silber/Platin   36 EU](https://www.amazon.es/dp/B01M65MZAB/?tag=tolees-21) a 49.89 EUR (original: 69.95 EUR) (28.68 %  de descuento) en el siguiente enlace!
+Está [Rieker Kinder K2266 Sandalias con Cuña Niñas  Gris  Silber/Platin   36 EU](https://www.amazon.es/dp/B01M65MZAB/?tag=tolees-21) con 28.68 de descuento por 49.89 EUR (original: 69.95 EUR) en el siguiente enlace!
 
 [![Rieker Kinder K2266 Sandalias con Cuña N](https://images-eu.ssl-images-amazon.com/images/I/41wrFDi7V3L._SL200_.jpg)](https://www.amazon.es/dp/B01M65MZAB/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B01M65MZAB/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B01M65MZAB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+
