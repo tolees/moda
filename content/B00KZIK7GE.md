@@ -14,12 +14,10 @@ comparePrice: 15.69 EUR
 inStock: true
 ---
 
-Está [SOLS - Camiseta de manga larga para hombre - Modelo Monarch  Grande  L /Gris piedra ](https://www.amazon.es/dp/B00KZIK7GE/?tag=tolees-21) con 47.74 de descuento por 8.2 EUR (original: 15.69 EUR) en el siguiente enlace!
+Ahora mismo tienes [SOLS - Camiseta de manga larga para hombre - Modelo Monarch  Grande  L /Gris piedra ](https://www.amazon.es/dp/B00KZIK7GE/?tag=tolees-21) a 8.2 EUR (original: 15.69 EUR) (47.74 %  de descuento) en el siguiente enlace!
 
 [![SOLS - Camiseta de manga larga para homb](https://images-eu.ssl-images-amazon.com/images/I/51SwgH9B8KL._SL200_.jpg)](https://www.amazon.es/dp/B00KZIK7GE/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B00KZIK7GE/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B00KZIK7GE/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

@@ -14,10 +14,12 @@ comparePrice: 129.9 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Geox U NORWOLK B  Botas Chukka Hombre  Negro  Black C9999   42 EU](https://www.amazon.es/dp/B0792GPXLP/?tag=tolees-21) a 64.95 EUR (original: 129.9 EUR) (50.00 %  de descuento) en el siguiente enlace!
+Está [Geox U NORWOLK B  Botas Chukka Hombre  Negro  Black C9999   42 EU](https://www.amazon.es/dp/B0792GPXLP/?tag=tolees-21) con 50.00 de descuento por 64.95 EUR (original: 129.9 EUR) en el siguiente enlace!
 
 [![Geox U NORWOLK B  Botas Chukka Hombre  N](https://m.media-amazon.com/images/I/31KSUlI+2zL._SL200_.jpg)](https://www.amazon.es/dp/B0792GPXLP/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B0792GPXLP/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B0792GPXLP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+
