@@ -17,12 +17,10 @@ inStock: true
 prodname: 'Kempa - Camiseta Manga Corta Promo T-Shirt  Talla XXS  Color Negro'
 ---
 
-Está [Kempa - Camiseta Manga Corta Promo T-Shirt  Talla XXS  Color Negro](https://www.amazon.es/dp/B00TZA4VYM/?tag=tolees-21) con 58.33 de descuento por 6.95 EUR (original: 16.68 EUR) en el siguiente enlace!
+Ahora mismo tienes [Kempa - Camiseta Manga Corta Promo T-Shirt  Talla XXS  Color Negro](https://www.amazon.es/dp/B00TZA4VYM/?tag=tolees-21) a 6.95 EUR (original: 16.68 EUR) (58.33 %  de descuento) en el siguiente enlace!
 
 [![Kempa - Camiseta Manga Corta Promo T-Shi](https://images-eu.ssl-images-amazon.com/images/I/411bMorgO3L._SL200_.jpg)](https://www.amazon.es/dp/B00TZA4VYM/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B00TZA4VYM/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B00TZA4VYM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-
