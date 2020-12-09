@@ -14,10 +14,12 @@ comparePrice: 109.9 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Geox D Airell C  Zapatillas para Mujer  Beige  Black/White C0127   40 EU](https://www.amazon.es/dp/B07DJ3VBH8/?tag=tolees-21) a 35.93 EUR (original: 109.9 EUR) (67.31 %  de descuento) en el siguiente enlace!
+Está [Geox D Airell C  Zapatillas para Mujer  Beige  Black/White C0127   40 EU](https://www.amazon.es/dp/B07DJ3VBH8/?tag=tolees-21) con 67.31 de descuento por 35.93 EUR (original: 109.9 EUR) en el siguiente enlace!
 
 [![Geox D Airell C  Zapatillas para Mujer  ](https://images-eu.ssl-images-amazon.com/images/I/41nfHF5ePkL._SL200_.jpg)](https://www.amazon.es/dp/B07DJ3VBH8/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07DJ3VBH8/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07DJ3VBH8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

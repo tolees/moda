@@ -14,10 +14,12 @@ comparePrice: 19.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Under Armour Tech Big Logo Solid tee Camiseta  Niños  Azul  Royal/Black/Graphite 400   XL](https://www.amazon.es/dp/B077XSSZST/?tag=tolees-21) a 8 EUR (original: 19.99 EUR) (59.98 %  de descuento) en el siguiente enlace!
+Está [Under Armour Tech Big Logo Solid tee Camiseta  Niños  Azul  Royal/Black/Graphite 400   XL](https://www.amazon.es/dp/B077XSSZST/?tag=tolees-21) con 59.98 de descuento por 8 EUR (original: 19.99 EUR) en el siguiente enlace!
 
 [![Under Armour Tech Big Logo Solid tee Cam](https://images-eu.ssl-images-amazon.com/images/I/41wAmPreMiL._SL200_.jpg)](https://www.amazon.es/dp/B077XSSZST/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B077XSSZST/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B077XSSZST/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

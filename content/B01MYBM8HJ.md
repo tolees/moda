@@ -14,12 +14,10 @@ comparePrice: 29.55 EUR
 inStock: true
 ---
 
-Está [edc by Esprit 037cc1k014  Camisa Manga Larga Mujer  Azul  Dark Blue   36  Talla del Fabricante: Small ](https://www.amazon.es/dp/B01MYBM8HJ/?tag=tolees-21) con 75.94 de descuento por 7.11 EUR (original: 29.55 EUR) en el siguiente enlace!
+Ahora mismo tienes [edc by Esprit 037cc1k014  Camisa Manga Larga Mujer  Azul  Dark Blue   36  Talla del Fabricante: Small ](https://www.amazon.es/dp/B01MYBM8HJ/?tag=tolees-21) a 7.11 EUR (original: 29.55 EUR) (75.94 %  de descuento) en el siguiente enlace!
 
 [![edc by Esprit 037cc1k014  Camisa Manga L](https://images-eu.ssl-images-amazon.com/images/I/41yHnL0BV1L._SL200_.jpg)](https://www.amazon.es/dp/B01MYBM8HJ/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B01MYBM8HJ/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B01MYBM8HJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-
