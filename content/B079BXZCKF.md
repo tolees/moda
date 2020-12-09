@@ -14,10 +14,12 @@ comparePrice: 40.76 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Sandalias Punta Cerrada para Niños Zapatos Niño Niños Casual Verano Sandalias](https://www.amazon.es/dp/B079BXZCKF/?tag=tolees-21) a 24.99 EUR (original: 40.76 EUR) (38.69 %  de descuento) en el siguiente enlace!
+Está [Sandalias Punta Cerrada para Niños Zapatos Niño Niños Casual Verano Sandalias](https://www.amazon.es/dp/B079BXZCKF/?tag=tolees-21) con 38.69 de descuento por 24.99 EUR (original: 40.76 EUR) en el siguiente enlace!
 
 [![Sandalias Punta Cerrada para Niños Zapat](https://images-eu.ssl-images-amazon.com/images/I/51Q4KQjNGQL._SL200_.jpg)](https://www.amazon.es/dp/B079BXZCKF/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B079BXZCKF/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B079BXZCKF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+
