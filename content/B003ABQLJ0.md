@@ -14,10 +14,12 @@ comparePrice: 21.9 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Havaianas Brasil Chanclas Unisex Adulto  Verde Amazonia  43/44 EU](https://www.amazon.es/dp/B003ABQLJ0/?tag=tolees-21) a 10.95 EUR (original: 21.9 EUR) (50.00 %  de descuento) en el siguiente enlace!
+Está [Havaianas Brasil Chanclas Unisex Adulto  Verde Amazonia  43/44 EU](https://www.amazon.es/dp/B003ABQLJ0/?tag=tolees-21) con 50.00 de descuento por 10.95 EUR (original: 21.9 EUR) en el siguiente enlace!
 
 [![Havaianas Brasil Chanclas Unisex Adulto ](https://m.media-amazon.com/images/I/31uDWGAUaHL._SL200_.jpg)](https://www.amazon.es/dp/B003ABQLJ0/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B003ABQLJ0/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B003ABQLJ0/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

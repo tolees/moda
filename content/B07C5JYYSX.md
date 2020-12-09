@@ -14,12 +14,10 @@ comparePrice: 59 EUR
 inStock: true
 ---
 
-Está [Diesel 00SH0I Camiseta  Hombre  Gris  912 912   Medium  Tamaño del Fabricante:M ](https://www.amazon.es/dp/B07C5JYYSX/?tag=tolees-21) con 59.76 de descuento por 23.74 EUR (original: 59 EUR) en el siguiente enlace!
+Ahora mismo tienes [Diesel 00SH0I Camiseta  Hombre  Gris  912 912   Medium  Tamaño del Fabricante:M ](https://www.amazon.es/dp/B07C5JYYSX/?tag=tolees-21) a 23.74 EUR (original: 59 EUR) (59.76 %  de descuento) en el siguiente enlace!
 
 [![Diesel 00SH0I Camiseta  Hombre  Gris  91](https://images-eu.ssl-images-amazon.com/images/I/41hmFrCgkiL._SL200_.jpg)](https://www.amazon.es/dp/B07C5JYYSX/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07C5JYYSX/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07C5JYYSX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-
