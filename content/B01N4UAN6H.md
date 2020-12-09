@@ -14,12 +14,10 @@ comparePrice: 98.23 EUR
 inStock: true
 ---
 
-Está [Lee Snap Jacket Chaqueta  Azul  Bleached Stone   Small para Hombre](https://www.amazon.es/dp/B01N4UAN6H/?tag=tolees-21) con 75.29 de descuento por 24.27 EUR (original: 98.23 EUR) en el siguiente enlace!
+Ahora mismo tienes [Lee Snap Jacket Chaqueta  Azul  Bleached Stone   Small para Hombre](https://www.amazon.es/dp/B01N4UAN6H/?tag=tolees-21) a 24.27 EUR (original: 98.23 EUR) (75.29 %  de descuento) en el siguiente enlace!
 
 [![Lee Snap Jacket Chaqueta  Azul  Bleached](https://images-eu.ssl-images-amazon.com/images/I/41ffZ-kyY%2BL._SL200_.jpg)](https://www.amazon.es/dp/B01N4UAN6H/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B01N4UAN6H/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B01N4UAN6H/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

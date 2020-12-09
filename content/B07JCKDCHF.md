@@ -14,10 +14,12 @@ comparePrice: 98.98 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Columbia Powder Lite  Chaqueta de longitud media  Mujer  Negro  Black  Talla M](https://www.amazon.es/dp/B07JCKDCHF/?tag=tolees-21) a 67.49 EUR (original: 98.98 EUR) (31.81 %  de descuento) en el siguiente enlace!
+Está [Columbia Powder Lite  Chaqueta de longitud media  Mujer  Negro  Black  Talla M](https://www.amazon.es/dp/B07JCKDCHF/?tag=tolees-21) con 31.81 de descuento por 67.49 EUR (original: 98.98 EUR) en el siguiente enlace!
 
 [![Columbia Powder Lite  Chaqueta de longit](https://m.media-amazon.com/images/I/41bJ1-UvioL._SL200_.jpg)](https://www.amazon.es/dp/B07JCKDCHF/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07JCKDCHF/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07JCKDCHF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+
