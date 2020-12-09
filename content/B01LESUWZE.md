@@ -14,10 +14,12 @@ comparePrice: 25.9 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Havaianas Slim  Chanclas para Mujer  Verde  Mint Green/Mint Green   43/44 EU  41/42 Brazilian ](https://www.amazon.es/dp/B01LESUWZE/?tag=tolees-21) a 11.92 EUR (original: 25.9 EUR) (53.98 %  de descuento) en el siguiente enlace!
+Está [Havaianas Slim  Chanclas para Mujer  Verde  Mint Green/Mint Green   43/44 EU  41/42 Brazilian ](https://www.amazon.es/dp/B01LESUWZE/?tag=tolees-21) con 53.98 de descuento por 11.92 EUR (original: 25.9 EUR) en el siguiente enlace!
 
 [![Havaianas Slim  Chanclas para Mujer  Ver](https://images-eu.ssl-images-amazon.com/images/I/41c73KjfAFL._SL200_.jpg)](https://www.amazon.es/dp/B01LESUWZE/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B01LESUWZE/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B01LESUWZE/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

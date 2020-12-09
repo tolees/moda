@@ -14,12 +14,10 @@ comparePrice: 42.92 EUR
 inStock: true
 ---
 
-Está [Diesel T-Diego-YH Maglietta Camiseta  Rojo  Formula Red 42a   XL para Hombre](https://www.amazon.es/dp/B07G4DYX7N/?tag=tolees-21) con 39.49 de descuento por 25.97 EUR (original: 42.92 EUR) en el siguiente enlace!
+Ahora mismo tienes [Diesel T-Diego-YH Maglietta Camiseta  Rojo  Formula Red 42a   XL para Hombre](https://www.amazon.es/dp/B07G4DYX7N/?tag=tolees-21) a 25.97 EUR (original: 42.92 EUR) (39.49 %  de descuento) en el siguiente enlace!
 
 [![Diesel T-Diego-YH Maglietta Camiseta  Ro](https://images-eu.ssl-images-amazon.com/images/I/41jsP2i7AtL._SL200_.jpg)](https://www.amazon.es/dp/B07G4DYX7N/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07G4DYX7N/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07G4DYX7N/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

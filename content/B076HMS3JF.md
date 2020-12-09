@@ -14,10 +14,12 @@ comparePrice: 39.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [adidas CORE18 Hoody Sudadera con Capucha  Hombre  Azul  Azul/Blanco   XL](https://www.amazon.es/dp/B076HMS3JF/?tag=tolees-21) a 26.26 EUR (original: 39.95 EUR) (34.27 %  de descuento) en el siguiente enlace!
+Está [adidas CORE18 Hoody Sudadera con Capucha  Hombre  Azul  Azul/Blanco   XL](https://www.amazon.es/dp/B076HMS3JF/?tag=tolees-21) con 34.27 de descuento por 26.26 EUR (original: 39.95 EUR) en el siguiente enlace!
 
 [![adidas CORE18 Hoody Sudadera con Capucha](https://m.media-amazon.com/images/I/41PcgqQyyPL._SL200_.jpg)](https://www.amazon.es/dp/B076HMS3JF/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B076HMS3JF/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B076HMS3JF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

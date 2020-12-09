@@ -14,10 +14,12 @@ comparePrice: 9.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Happy Girls Basic Jersey Leggings  Marfil  Ecru 11   8 años  Talla del Fabricante: 134 ](https://www.amazon.es/dp/B017INIJRW/?tag=tolees-21) a 6.97 EUR (original: 9.95 EUR) (29.95 %  de descuento) en el siguiente enlace!
+Está [Happy Girls Basic Jersey Leggings  Marfil  Ecru 11   8 años  Talla del Fabricante: 134 ](https://www.amazon.es/dp/B017INIJRW/?tag=tolees-21) con 29.95 de descuento por 6.97 EUR (original: 9.95 EUR) en el siguiente enlace!
 
 [![Happy Girls Basic Jersey Leggings  Marfi](https://images-eu.ssl-images-amazon.com/images/I/31hgVORg75L._SL200_.jpg)](https://www.amazon.es/dp/B017INIJRW/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B017INIJRW/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B017INIJRW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+
