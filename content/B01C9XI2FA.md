@@ -14,7 +14,7 @@ currency: EUR
 price: 15.39
 comparePrice: 21.99 EUR
 inStock: true
-prodname: Joopin Gafas de Sol Mujer Moda Polarizadas Protección UV400 de Gran Tamaño Gafas de Sol Señoras  Leopardo 
+prodname: 'Joopin Gafas de Sol Mujer Moda Polarizadas Protección UV400 de Gran Tamaño Gafas de Sol Señoras  Leopardo '
 ---
 
 Tienes [Joopin Gafas de Sol Mujer Moda Polarizadas Protección UV400 de Gran Tamaño Gafas de Sol Señoras  Leopardo ](https://www.amazon.es/dp/B01C9XI2FA/?tag=tolees-21) con un 30.01 % de descuento con precio de oferta de 15.39 EUR (original: 21.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 13.86
 comparePrice: 19.95 EUR
 inStock: true
-prodname: adidas CORE18 tee Camiseta de Manga Corta  Hombre  Dark Blue/White  XS
+prodname: 'adidas CORE18 tee Camiseta de Manga Corta  Hombre  Dark Blue/White  XS'
 ---
 
 Tienes [adidas CORE18 tee Camiseta de Manga Corta  Hombre  Dark Blue/White  XS](https://www.amazon.es/dp/B076HNNY8W/?tag=tolees-21) con un 30.53 % de descuento con precio de oferta de 13.86 EUR (original: 19.95 EUR) en el siguiente enlace!

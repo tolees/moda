@@ -14,7 +14,7 @@ currency: EUR
 price: 35.3
 comparePrice: 89.9 EUR
 inStock: true
-prodname: Pepe Jeans Tobias JR  Chaqueta para Niños  Negro  Black 999   4 años
+prodname: 'Pepe Jeans Tobias JR  Chaqueta para Niños  Negro  Black 999   4 años'
 ---
 
 Ahora mismo tienes [Pepe Jeans Tobias JR  Chaqueta para Niños  Negro  Black 999   4 años](https://www.amazon.es/dp/B079RQTBJH/?tag=tolees-21) a 35.3 EUR (original: 89.9 EUR) (60.73 %  de descuento) en el siguiente enlace!

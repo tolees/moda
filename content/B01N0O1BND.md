@@ -14,7 +14,7 @@ currency: EUR
 price: 21
 comparePrice: 35 EUR
 inStock: true
-prodname: New Balance MT73581 Camiseta  Hombre  Blanco  White WT   Medium  Tamaño del Fabricante:M 
+prodname: 'New Balance MT73581 Camiseta  Hombre  Blanco  White WT   Medium  Tamaño del Fabricante:M '
 ---
 
 Está [New Balance MT73581 Camiseta  Hombre  Blanco  White WT   Medium  Tamaño del Fabricante:M ](https://www.amazon.es/dp/B01N0O1BND/?tag=tolees-21) con 40.00 de descuento por 21 EUR (original: 35 EUR) en el siguiente enlace!

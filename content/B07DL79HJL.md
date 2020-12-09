@@ -14,7 +14,7 @@ currency: EUR
 price: 9.03
 comparePrice: 29.99 EUR
 inStock: true
-prodname: Springfield Frq Gingham Melange  Camisa Casual para Hombre   Gales 80  Large  Tamaño del Fabricante:L 
+prodname: 'Springfield Frq Gingham Melange  Camisa Casual para Hombre   Gales 80  Large  Tamaño del Fabricante:L '
 ---
 
 Ahora mismo tienes [Springfield Frq Gingham Melange  Camisa Casual para Hombre   Gales 80  Large  Tamaño del Fabricante:L ](https://www.amazon.es/dp/B07DL79HJL/?tag=tolees-21) a 9.03 EUR (original: 29.99 EUR) (69.89 %  de descuento) en el siguiente enlace!

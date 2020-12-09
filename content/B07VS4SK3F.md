@@ -14,7 +14,7 @@ currency: EUR
 price: 28.7
 comparePrice: 40.39 EUR
 inStock: true
-prodname: Lee Scarlett High Vaqueros  Azul  Vintage Light NQ   29W/33L para Mujer
+prodname: 'Lee Scarlett High Vaqueros  Azul  Vintage Light NQ   29W/33L para Mujer'
 ---
 
 Está [Lee Scarlett High Vaqueros  Azul  Vintage Light NQ   29W/33L para Mujer](https://www.amazon.es/dp/B07VS4SK3F/?tag=tolees-21) con 28.94 de descuento por 28.7 EUR (original: 40.39 EUR) en el siguiente enlace!

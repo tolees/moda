@@ -14,7 +14,7 @@ currency: EUR
 price: 9.61
 comparePrice: 13.99 EUR
 inStock: true
-prodname: Iris & Lilly Camiseta de Tirantes Body Natural para Mujer  Pack de 2  1 x Blanco & 1 x Rosa Claro  X-Large
+prodname: 'Iris & Lilly Camiseta de Tirantes Body Natural para Mujer  Pack de 2  1 x Blanco & 1 x Rosa Claro  X-Large'
 ---
 
 Ahora mismo tienes [Iris & Lilly Camiseta de Tirantes Body Natural para Mujer  Pack de 2  1 x Blanco & 1 x Rosa Claro  X-Large](https://www.amazon.es/dp/B01MSLURJQ/?tag=tolees-21) a 9.61 EUR (original: 13.99 EUR) (31.31 %  de descuento) en el siguiente enlace!

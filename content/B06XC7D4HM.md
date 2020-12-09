@@ -14,7 +14,7 @@ currency: EUR
 price: 47.97
 comparePrice: 79.95 EUR
 inStock: true
-prodname: Clarks Adriel Viola  Zapatos de Tacón para Mujer  Negro  Black Pat   39.5 EU
+prodname: 'Clarks Adriel Viola  Zapatos de Tacón para Mujer  Negro  Black Pat   39.5 EU'
 ---
 
 Tienes [Clarks Adriel Viola  Zapatos de Tacón para Mujer  Negro  Black Pat   39.5 EU](https://www.amazon.es/dp/B06XC7D4HM/?tag=tolees-21) con un 40.00 % de descuento con precio de oferta de 47.97 EUR (original: 79.95 EUR) en el siguiente enlace!

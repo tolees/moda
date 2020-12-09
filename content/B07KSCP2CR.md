@@ -14,7 +14,7 @@ currency: EUR
 price: 2.93
 comparePrice: 3.94 EUR
 inStock: true
-prodname: Cebbay Conjuntos de lencería para Mujer Liquidación Gran tamaño de Ropa Interior de Encaje Vestido de bebé Abre hacia atrás Pijamas Vestido de Noche Chemise Pijamas Negro  x-Large 
+prodname: 'Cebbay Conjuntos de lencería para Mujer Liquidación Gran tamaño de Ropa Interior de Encaje Vestido de bebé Abre hacia atrás Pijamas Vestido de Noche Chemise Pijamas Negro  x-Large '
 ---
 
 Está [Cebbay Conjuntos de lencería para Mujer Liquidación Gran tamaño de Ropa Interior de Encaje Vestido de bebé Abre hacia atrás Pijamas Vestido de Noche Chemise Pijamas Negro  x-Large ](https://www.amazon.es/dp/B07KSCP2CR/?tag=tolees-21) con 25.63 de descuento por 2.93 EUR (original: 3.94 EUR) en el siguiente enlace!

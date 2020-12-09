@@ -14,7 +14,7 @@ currency: EUR
 price: 15.43
 comparePrice: 29.97 EUR
 inStock: true
-prodname: Emporio Armani Underwear 9p529 Bóxer  Azul  Bluette 15834   X-Large para Hombre
+prodname: 'Emporio Armani Underwear 9p529 Bóxer  Azul  Bluette 15834   X-Large para Hombre'
 ---
 
 Tienes [Emporio Armani Underwear 9p529 Bóxer  Azul  Bluette 15834   X-Large para Hombre](https://www.amazon.es/dp/B07K1J5NVT/?tag=tolees-21) con un 48.52 % de descuento con precio de oferta de 15.43 EUR (original: 29.97 EUR) en el siguiente enlace!

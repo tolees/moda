@@ -14,7 +14,7 @@ currency: EUR
 price: 35.19
 comparePrice: 89.95 EUR
 inStock: true
-prodname: HUGO Erriko  Camisa para Hombre  Blanco  Open White 199  Medium
+prodname: 'HUGO Erriko  Camisa para Hombre  Blanco  Open White 199  Medium'
 ---
 
 Ahora mismo tienes [HUGO Erriko  Camisa para Hombre  Blanco  Open White 199  Medium](https://www.amazon.es/dp/B079ZCRBNJ/?tag=tolees-21) a 35.19 EUR (original: 89.95 EUR) (60.88 %  de descuento) en el siguiente enlace!

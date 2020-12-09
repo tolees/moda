@@ -14,7 +14,7 @@ currency: EUR
 price: 7.05
 comparePrice: 18 EUR
 inStock: true
-prodname: find. Camiseta Manga Corta Deporte Hombre  Rojo  Red   54  Talla del fabricante: X-Large 
+prodname: 'find. Camiseta Manga Corta Deporte Hombre  Rojo  Red   54  Talla del fabricante: X-Large '
 ---
 
 Tienes [find. Camiseta Manga Corta Deporte Hombre  Rojo  Red   54  Talla del fabricante: X-Large ](https://www.amazon.es/dp/B0778SSFRL/?tag=tolees-21) con un 60.83 % de descuento con precio de oferta de 7.05 EUR (original: 18 EUR) en el siguiente enlace!

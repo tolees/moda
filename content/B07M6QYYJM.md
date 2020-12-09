@@ -14,7 +14,7 @@ currency: EUR
 price: 50.99
 comparePrice: 119.99 EUR
 inStock: true
-prodname: Columbia Lake 22  Chaqueta de plumas  Hombre  Negro  Black   Talla L
+prodname: 'Columbia Lake 22  Chaqueta de plumas  Hombre  Negro  Black   Talla L'
 ---
 
 Está [Columbia Lake 22  Chaqueta de plumas  Hombre  Negro  Black   Talla L](https://www.amazon.es/dp/B07M6QYYJM/?tag=tolees-21) con 57.50 de descuento por 50.99 EUR (original: 119.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 22.88
 comparePrice: 79.9 EUR
 inStock: true
-prodname: Dolores Promesas OI17 1054GRIS Sudadera  Gris  X-Small  Tamaño del Fabricante:XS  para Mujer
+prodname: 'Dolores Promesas OI17 1054GRIS Sudadera  Gris  X-Small  Tamaño del Fabricante:XS  para Mujer'
 ---
 
 Está [Dolores Promesas OI17 1054GRIS Sudadera  Gris  X-Small  Tamaño del Fabricante:XS  para Mujer](https://www.amazon.es/dp/B072C3ZPZH/?tag=tolees-21) con 71.36 de descuento por 22.88 EUR (original: 79.9 EUR) en el siguiente enlace!

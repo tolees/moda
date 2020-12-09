@@ -14,7 +14,7 @@ currency: EUR
 price: 34.98
 comparePrice: 99.95 EUR
 inStock: true
-prodname: G-STAR RAW 3301 Straight  Vaqueros Straight Hombre  Azul  Medium Aged 071   W28/L32
+prodname: 'G-STAR RAW 3301 Straight  Vaqueros Straight Hombre  Azul  Medium Aged 071   W28/L32'
 ---
 
 Está [G-STAR RAW 3301 Straight  Vaqueros Straight Hombre  Azul  Medium Aged 071   W28/L32](https://www.amazon.es/dp/B076WXFNVC/?tag=tolees-21) con 65.00 de descuento por 34.98 EUR (original: 99.95 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 26.2
 comparePrice: 40 EUR
 inStock: true
-prodname: Lacoste TH7618  Camiseta para Hombre  Gris  Argent Chiné Cca   Medium  Talla del fabricante: 4 
+prodname: 'Lacoste TH7618  Camiseta para Hombre  Gris  Argent Chiné Cca   Medium  Talla del fabricante: 4 '
 ---
 
 Está [Lacoste TH7618  Camiseta para Hombre  Gris  Argent Chiné Cca   Medium  Talla del fabricante: 4 ](https://www.amazon.es/dp/B00Q4MYSYC/?tag=tolees-21) con 34.50 de descuento por 26.2 EUR (original: 40 EUR) en el siguiente enlace!

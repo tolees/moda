@@ -14,7 +14,7 @@ currency: EUR
 price: 13.54
 comparePrice: 55 EUR
 inStock: true
-prodname: Pepe Jeans Amadea Sudadera    Deep Sea 597   4 años para Niñas
+prodname: 'Pepe Jeans Amadea Sudadera    Deep Sea 597   4 años para Niñas'
 ---
 
 Ahora mismo tienes [Pepe Jeans Amadea Sudadera    Deep Sea 597   4 años para Niñas](https://www.amazon.es/dp/B07CRD8W9F/?tag=tolees-21) a 13.54 EUR (original: 55 EUR) (75.38 %  de descuento) en el siguiente enlace!

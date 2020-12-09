@@ -14,7 +14,7 @@ currency: EUR
 price: 81.99
 comparePrice: 130.0 EUR
 inStock: true
-prodname: Levi s Type 3 Chaqueta Vaquera  Berk Sherpa Trucker  XXL para Hombre
+prodname: 'Levi s Type 3 Chaqueta Vaquera  Berk Sherpa Trucker  XXL para Hombre'
 ---
 
 Ahora mismo tienes [Levi s Type 3 Chaqueta Vaquera  Berk Sherpa Trucker  XXL para Hombre](https://www.amazon.es/dp/B07KF56DVX/?tag=tolees-21) a 81.99 EUR (original: 130.0 EUR) (36.93 %  de descuento) en el siguiente enlace!

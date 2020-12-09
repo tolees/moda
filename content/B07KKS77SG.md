@@ -14,7 +14,7 @@ currency: EUR
 price: 18.96
 comparePrice: 59.95 EUR
 inStock: true
-prodname: HUGO Dicagolino Sudadera  Amarillo  Bright Yellow 730   Small para Hombre
+prodname: 'HUGO Dicagolino Sudadera  Amarillo  Bright Yellow 730   Small para Hombre'
 ---
 
 Está [HUGO Dicagolino Sudadera  Amarillo  Bright Yellow 730   Small para Hombre](https://www.amazon.es/dp/B07KKS77SG/?tag=tolees-21) con 68.37 de descuento por 18.96 EUR (original: 59.95 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 8.39
 comparePrice: 25.99 EUR
 inStock: true
-prodname: edc by Esprit 057cc1k014  Camiseta Mujer  Gris  Light Grey   36  Talla del Fabricante: Small 
+prodname: 'edc by Esprit 057cc1k014  Camiseta Mujer  Gris  Light Grey   36  Talla del Fabricante: Small '
 ---
 
 Tienes [edc by Esprit 057cc1k014  Camiseta Mujer  Gris  Light Grey   36  Talla del Fabricante: Small ](https://www.amazon.es/dp/B01MUC0Q2C/?tag=tolees-21) con un 67.72 % de descuento con precio de oferta de 8.39 EUR (original: 25.99 EUR) en el siguiente enlace!

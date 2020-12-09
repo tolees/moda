@@ -14,7 +14,7 @@ currency: EUR
 price: 39.49
 comparePrice: 79.95 EUR
 inStock: true
-prodname: Wrangler Skinny  Vaqueros Skinny  Mujer  Negro  Black   W26/L32
+prodname: 'Wrangler Skinny  Vaqueros Skinny  Mujer  Negro  Black   W26/L32'
 ---
 
 Ahora mismo tienes [Wrangler Skinny  Vaqueros Skinny  Mujer  Negro  Black   W26/L32](https://www.amazon.es/dp/B01MQMRYEF/?tag=tolees-21) a 39.49 EUR (original: 79.95 EUR) (50.61 %  de descuento) en el siguiente enlace!

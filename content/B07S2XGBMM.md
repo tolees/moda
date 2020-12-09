@@ -14,7 +14,7 @@ currency: EUR
 price: 17.99
 comparePrice: 29.99 EUR
 inStock: true
-prodname: Jack & Jones Jjesoft Sweat Crew Neck Noos Sudadera  Negro  Black Black   Medium para Hombre
+prodname: 'Jack & Jones Jjesoft Sweat Crew Neck Noos Sudadera  Negro  Black Black   Medium para Hombre'
 ---
 
 Ahora mismo tienes [Jack & Jones Jjesoft Sweat Crew Neck Noos Sudadera  Negro  Black Black   Medium para Hombre](https://www.amazon.es/dp/B07S2XGBMM/?tag=tolees-21) a 17.99 EUR (original: 29.99 EUR) (40.01 %  de descuento) en el siguiente enlace!

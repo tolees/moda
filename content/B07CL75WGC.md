@@ -14,7 +14,7 @@ currency: EUR
 price: 22.95
 comparePrice: 139 EUR
 inStock: true
-prodname: REPLAY Luz Coin Zip  Vaqueros Skinny Mujer  Rojo  Charcoal 40   W26/L32
+prodname: 'REPLAY Luz Coin Zip  Vaqueros Skinny Mujer  Rojo  Charcoal 40   W26/L32'
 ---
 
 Está [REPLAY Luz Coin Zip  Vaqueros Skinny Mujer  Rojo  Charcoal 40   W26/L32](https://www.amazon.es/dp/B07CL75WGC/?tag=tolees-21) con 83.49 de descuento por 22.95 EUR (original: 139 EUR) en el siguiente enlace!

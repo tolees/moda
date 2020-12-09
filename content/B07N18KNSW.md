@@ -14,7 +14,7 @@ currency: EUR
 price: 64.49
 comparePrice: 99.95 EUR
 inStock: true
-prodname: G-STAR RAW ARC 3D Vaqueros  Authentic Faded Blue  28W / 28L para Hombre
+prodname: 'G-STAR RAW ARC 3D Vaqueros  Authentic Faded Blue  28W / 28L para Hombre'
 ---
 
 Ahora mismo tienes [G-STAR RAW ARC 3D Vaqueros  Authentic Faded Blue  28W / 28L para Hombre](https://www.amazon.es/dp/B07N18KNSW/?tag=tolees-21) a 64.49 EUR (original: 99.95 EUR) (35.48 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 8.49
 comparePrice: 29.99 EUR
 inStock: true
-prodname: TiaoBug Disfraz Navidad de Duende Pantalones Cortos Rayados de Verde Rojo Boxer Ropa Interior Sexy con Campanillas Rojo L
+prodname: 'TiaoBug Disfraz Navidad de Duende Pantalones Cortos Rayados de Verde Rojo Boxer Ropa Interior Sexy con Campanillas Rojo L'
 ---
 
 Ahora mismo tienes [TiaoBug Disfraz Navidad de Duende Pantalones Cortos Rayados de Verde Rojo Boxer Ropa Interior Sexy con Campanillas Rojo L](https://www.amazon.es/dp/B07X3TH4FW/?tag=tolees-21) a 8.49 EUR (original: 29.99 EUR) (71.69 %  de descuento) en el siguiente enlace!

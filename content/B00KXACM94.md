@@ -14,7 +14,7 @@ currency: EUR
 price: 16.5
 comparePrice: 33.0 EUR
 inStock: true
-prodname: Under Armour Raid Camiseta Masculina  Camiseta Transpirable  Ajustada Camiseta Deportiva de Manga Corta y de Secado rápido  Midnight Navy/Midnight Navy/Steel  410   MD
+prodname: 'Under Armour Raid Camiseta Masculina  Camiseta Transpirable  Ajustada Camiseta Deportiva de Manga Corta y de Secado rápido  Midnight Navy/Midnight Navy/Steel  410   MD'
 ---
 
 Está [Under Armour Raid Camiseta Masculina  Camiseta Transpirable  Ajustada Camiseta Deportiva de Manga Corta y de Secado rápido  Midnight Navy/Midnight Navy/Steel  410   MD](https://www.amazon.es/dp/B00KXACM94/?tag=tolees-21) con 50.00 de descuento por 16.5 EUR (original: 33.0 EUR) en el siguiente enlace!

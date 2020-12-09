@@ -14,7 +14,7 @@ currency: EUR
 price: 13
 comparePrice: 23.42 EUR
 inStock: true
-prodname: New Look Cara Ditsy Vestido  Verde  Green Pattern 39   36  Talla del Fabricante: 8  para Mujer
+prodname: 'New Look Cara Ditsy Vestido  Verde  Green Pattern 39   36  Talla del Fabricante: 8  para Mujer'
 ---
 
 Está [New Look Cara Ditsy Vestido  Verde  Green Pattern 39   36  Talla del Fabricante: 8  para Mujer](https://www.amazon.es/dp/B07PWMSYHJ/?tag=tolees-21) con 44.49 de descuento por 13 EUR (original: 23.42 EUR) en el siguiente enlace!

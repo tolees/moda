@@ -14,7 +14,7 @@ currency: EUR
 price: 25.9
 comparePrice: 44.9 EUR
 inStock: true
-prodname: Tommy Hilfiger 3p Boxer Brief  Hombre  Rosa  Grey Heather 004  X-Large
+prodname: 'Tommy Hilfiger 3p Boxer Brief  Hombre  Rosa  Grey Heather 004  X-Large'
 ---
 
 Ahora mismo tienes [Tommy Hilfiger 3p Boxer Brief  Hombre  Rosa  Grey Heather 004  X-Large](https://www.amazon.es/dp/B07DCS5TV9/?tag=tolees-21) a 25.9 EUR (original: 44.9 EUR) (42.32 %  de descuento) en el siguiente enlace!

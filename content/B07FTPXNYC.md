@@ -14,7 +14,7 @@ currency: EUR
 price: 18.17
 comparePrice: 79.95 EUR
 inStock: true
-prodname: Lee Scarlett  Vaqueros skinny para MujerAzul  Blueberry 
+prodname: 'Lee Scarlett  Vaqueros skinny para MujerAzul  Blueberry '
 ---
 
 Ahora mismo tienes [Lee Scarlett  Vaqueros skinny para MujerAzul  Blueberry ](https://www.amazon.es/dp/B07FTPXNYC/?tag=tolees-21) a 18.17 EUR (original: 79.95 EUR) (77.27 %  de descuento) en el siguiente enlace!

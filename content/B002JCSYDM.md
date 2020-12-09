@@ -14,7 +14,7 @@ currency: EUR
 price: 16.37
 comparePrice: 24.99 EUR
 inStock: true
-prodname: Crocs Crocband Flip  Chanclas Unisex-Adult  Blue Navy  42/43 EU
+prodname: 'Crocs Crocband Flip  Chanclas Unisex-Adult  Blue Navy  42/43 EU'
 ---
 
 Tienes [Crocs Crocband Flip  Chanclas Unisex-Adult  Blue Navy  42/43 EU](https://www.amazon.es/dp/B002JCSYDM/?tag=tolees-21) con un 34.49 % de descuento con precio de oferta de 16.37 EUR (original: 24.99 EUR) en el siguiente enlace!

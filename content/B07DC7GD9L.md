@@ -14,7 +14,7 @@ currency: EUR
 price: 25.9
 comparePrice: 59.99 EUR
 inStock: true
-prodname: JACK & JONES Jcobarkley Jacket  Chaqueta para Hombre  Verde Rosin  Small
+prodname: 'JACK & JONES Jcobarkley Jacket  Chaqueta para Hombre  Verde Rosin  Small'
 ---
 
 Tienes [JACK & JONES Jcobarkley Jacket  Chaqueta para Hombre  Verde Rosin  Small](https://www.amazon.es/dp/B07DC7GD9L/?tag=tolees-21) con un 56.83 % de descuento con precio de oferta de 25.9 EUR (original: 59.99 EUR) en el siguiente enlace!

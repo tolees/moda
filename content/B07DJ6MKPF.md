@@ -14,7 +14,7 @@ currency: EUR
 price: 30.76
 comparePrice: 79.9 EUR
 inStock: true
-prodname: Geox U Goinway B  Sandalias con Punta Abierta para Hombre  Navy/Black C0045  44 EU
+prodname: 'Geox U Goinway B  Sandalias con Punta Abierta para Hombre  Navy/Black C0045  44 EU'
 ---
 
 Ahora mismo tienes [Geox U Goinway B  Sandalias con Punta Abierta para Hombre  Navy/Black C0045  44 EU](https://www.amazon.es/dp/B07DJ6MKPF/?tag=tolees-21) a 30.76 EUR (original: 79.9 EUR) (61.50 %  de descuento) en el siguiente enlace!

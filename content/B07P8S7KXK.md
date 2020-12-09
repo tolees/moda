@@ -14,7 +14,7 @@ currency: EUR
 price: 21.59
 comparePrice: 33.88 EUR
 inStock: true
-prodname: Splash About Go Chaleco de Natación  niños  Nina s Ark  1-2 años
+prodname: 'Splash About Go Chaleco de Natación  niños  Nina s Ark  1-2 años'
 ---
 
 Ahora mismo tienes [Splash About Go Chaleco de Natación  niños  Nina s Ark  1-2 años](https://www.amazon.es/dp/B07P8S7KXK/?tag=tolees-21) a 21.59 EUR (original: 33.88 EUR) (36.28 %  de descuento) en el siguiente enlace!

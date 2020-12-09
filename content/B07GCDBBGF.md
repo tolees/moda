@@ -14,7 +14,7 @@ currency: EUR
 price: 40
 comparePrice: 61.46 EUR
 inStock: true
-prodname: New Look Traditional  Parka para Hombre  Verde  Dark Khaki   Small  Talla del Fabricante: 51 
+prodname: 'New Look Traditional  Parka para Hombre  Verde  Dark Khaki   Small  Talla del Fabricante: 51 '
 ---
 
 Tienes [New Look Traditional  Parka para Hombre  Verde  Dark Khaki   Small  Talla del Fabricante: 51 ](https://www.amazon.es/dp/B07GCDBBGF/?tag=tolees-21) con un 34.92 % de descuento con precio de oferta de 40 EUR (original: 61.46 EUR) en el siguiente enlace!

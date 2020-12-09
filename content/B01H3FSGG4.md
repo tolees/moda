@@ -14,7 +14,7 @@ currency: EUR
 price: 19.95
 comparePrice: 29.9 EUR
 inStock: true
-prodname: Tommy Hilfiger UB0UB90003  Camiseta Para Niños  Multicolor  White-Grey Heather   140-152 cm  talla del fabricante: 10-12 Ans   Pack de 2
+prodname: 'Tommy Hilfiger UB0UB90003  Camiseta Para Niños  Multicolor  White-Grey Heather   140-152 cm  talla del fabricante: 10-12 Ans   Pack de 2'
 ---
 
 Está [Tommy Hilfiger UB0UB90003  Camiseta Para Niños  Multicolor  White-Grey Heather   140-152 cm  talla del fabricante: 10-12 Ans   Pack de 2](https://www.amazon.es/dp/B01H3FSGG4/?tag=tolees-21) con 33.28 de descuento por 19.95 EUR (original: 29.9 EUR) en el siguiente enlace!

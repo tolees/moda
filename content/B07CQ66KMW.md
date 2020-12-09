@@ -14,7 +14,7 @@ currency: EUR
 price: 33.68
 comparePrice: 99.95 EUR
 inStock: true
-prodname: Lee Scarlett High  Vaqueros Skinny para Mujer  Azul  Cool Daze XV   W25/L33
+prodname: 'Lee Scarlett High  Vaqueros Skinny para Mujer  Azul  Cool Daze XV   W25/L33'
 ---
 
 Tienes [Lee Scarlett High  Vaqueros Skinny para Mujer  Azul  Cool Daze XV   W25/L33](https://www.amazon.es/dp/B07CQ66KMW/?tag=tolees-21) con un 66.30 % de descuento con precio de oferta de 33.68 EUR (original: 99.95 EUR) en el siguiente enlace!

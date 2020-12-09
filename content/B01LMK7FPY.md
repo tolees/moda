@@ -14,7 +14,7 @@ currency: EUR
 price: 7.96
 comparePrice: 11.96 EUR
 inStock: true
-prodname: Collar de seguridad para perro de Hotdog con luz LED  recargable por USB  gran visibilidad y mejora de la seguridad  7 colores  5 tamaños
+prodname: 'Collar de seguridad para perro de Hotdog con luz LED  recargable por USB  gran visibilidad y mejora de la seguridad  7 colores  5 tamaños'
 ---
 
 Ahora mismo tienes [Collar de seguridad para perro de Hotdog con luz LED  recargable por USB  gran visibilidad y mejora de la seguridad  7 colores  5 tamaños](https://www.amazon.es/dp/B01LMK7FPY/?tag=tolees-21) a 7.96 EUR (original: 11.96 EUR) (33.44 %  de descuento) en el siguiente enlace!

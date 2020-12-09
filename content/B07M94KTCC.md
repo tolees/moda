@@ -14,7 +14,7 @@ currency: EUR
 price: 69.95
 comparePrice: 100 EUR
 inStock: true
-prodname: The North Face Quest Chaqueta  Hombre  Mid Grey Black Heather  L
+prodname: 'The North Face Quest Chaqueta  Hombre  Mid Grey Black Heather  L'
 ---
 
 Tienes [The North Face Quest Chaqueta  Hombre  Mid Grey Black Heather  L](https://www.amazon.es/dp/B07M94KTCC/?tag=tolees-21) con un 30.05 % de descuento con precio de oferta de 69.95 EUR (original: 100 EUR) en el siguiente enlace!

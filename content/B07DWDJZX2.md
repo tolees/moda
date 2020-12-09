@@ -14,7 +14,7 @@ currency: EUR
 price: 18.9
 comparePrice: 29.99 EUR
 inStock: true
-prodname: Rip Curl Leazard Pouch Bolso Bandolera  19 cm  Negro
+prodname: 'Rip Curl Leazard Pouch Bolso Bandolera  19 cm  Negro'
 ---
 
 Está [Rip Curl Leazard Pouch Bolso Bandolera  19 cm  Negro](https://www.amazon.es/dp/B07DWDJZX2/?tag=tolees-21) con 36.98 de descuento por 18.9 EUR (original: 29.99 EUR) en el siguiente enlace!

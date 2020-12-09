@@ -14,7 +14,7 @@ currency: EUR
 price: 57.54
 comparePrice: 129.99 EUR
 inStock: true
-prodname: Columbia Hombre Chaqueta impermeable  Good Ways II Jacket  Nailon  Negro  Black Heather   Talla: XL  1840731
+prodname: 'Columbia Hombre Chaqueta impermeable  Good Ways II Jacket  Nailon  Negro  Black Heather   Talla: XL  1840731'
 ---
 
 Está [Columbia Hombre Chaqueta impermeable  Good Ways II Jacket  Nailon  Negro  Black Heather   Talla: XL  1840731](https://www.amazon.es/dp/B07KRSVHPX/?tag=tolees-21) con 55.74 de descuento por 57.54 EUR (original: 129.99 EUR) en el siguiente enlace!

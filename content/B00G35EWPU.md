@@ -14,7 +14,7 @@ currency: EUR
 price: 38.71
 comparePrice: 54.52 EUR
 inStock: true
-prodname: Swiss Eye Drive - Gafas de deporte  talla única  color rojo
+prodname: 'Swiss Eye Drive - Gafas de deporte  talla única  color rojo'
 ---
 
 Tienes [Swiss Eye Drive - Gafas de deporte  talla única  color rojo](https://www.amazon.es/dp/B00G35EWPU/?tag=tolees-21) con un 29.00 % de descuento con precio de oferta de 38.71 EUR (original: 54.52 EUR) en el siguiente enlace!

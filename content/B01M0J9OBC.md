@@ -14,7 +14,7 @@ currency: EUR
 price: 15.39
 comparePrice: 23.99 EUR
 inStock: true
-prodname: VBIGER Bolsa de Cuero Maletín de Negocios Bolsa de Moda Bandolera Bolso de Hombro Bolso Casual para Hombres
+prodname: 'VBIGER Bolsa de Cuero Maletín de Negocios Bolsa de Moda Bandolera Bolso de Hombro Bolso Casual para Hombres'
 ---
 
 Tienes [VBIGER Bolsa de Cuero Maletín de Negocios Bolsa de Moda Bandolera Bolso de Hombro Bolso Casual para Hombres](https://www.amazon.es/dp/B01M0J9OBC/?tag=tolees-21) con un 35.85 % de descuento con precio de oferta de 15.39 EUR (original: 23.99 EUR) en el siguiente enlace!

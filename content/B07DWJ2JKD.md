@@ -14,7 +14,7 @@ currency: EUR
 price: 37.99
 comparePrice: 82.99 EUR
 inStock: true
-prodname: hummel hmlclio Zip Chaqueta  Mujer  201671-3510  Blackberry Cordial Melange  Small
+prodname: 'hummel hmlclio Zip Chaqueta  Mujer  201671-3510  Blackberry Cordial Melange  Small'
 ---
 
 Tienes [hummel hmlclio Zip Chaqueta  Mujer  201671-3510  Blackberry Cordial Melange  Small](https://www.amazon.es/dp/B07DWJ2JKD/?tag=tolees-21) con un 54.22 % de descuento con precio de oferta de 37.99 EUR (original: 82.99 EUR) en el siguiente enlace!

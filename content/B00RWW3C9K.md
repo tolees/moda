@@ -14,7 +14,7 @@ currency: EUR
 price: 15.35
 comparePrice: 95 EUR
 inStock: true
-prodname: Yep by Jonak Brunella - Zapatos para niñas  Color Beige  zèbre Rose   Talla 37
+prodname: 'Yep by Jonak Brunella - Zapatos para niñas  Color Beige  zèbre Rose   Talla 37'
 ---
 
 Está [Yep by Jonak Brunella - Zapatos para niñas  Color Beige  zèbre Rose   Talla 37](https://www.amazon.es/dp/B00RWW3C9K/?tag=tolees-21) con 83.84 de descuento por 15.35 EUR (original: 95 EUR) en el siguiente enlace!

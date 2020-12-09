@@ -14,7 +14,7 @@ currency: EUR
 price: 27.03
 comparePrice: 79.95 EUR
 inStock: true
-prodname: Desigual Vest Bonney Vestido  Blanco  Crudo 1001   44  Talla del Fabricante: 44  para Mujer
+prodname: 'Desigual Vest Bonney Vestido  Blanco  Crudo 1001   44  Talla del Fabricante: 44  para Mujer'
 ---
 
 Está [Desigual Vest Bonney Vestido  Blanco  Crudo 1001   44  Talla del Fabricante: 44  para Mujer](https://www.amazon.es/dp/B07VJQFP38/?tag=tolees-21) con 66.19 de descuento por 27.03 EUR (original: 79.95 EUR) en el siguiente enlace!

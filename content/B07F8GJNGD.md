@@ -14,7 +14,7 @@ currency: EUR
 price: 101.3
 comparePrice: 250 EUR
 inStock: true
-prodname: Burton Gloria Insulator Pantalón de Snowboard  Mujer  marrón  Rose Brown   M
+prodname: 'Burton Gloria Insulator Pantalón de Snowboard  Mujer  marrón  Rose Brown   M'
 ---
 
 Ahora mismo tienes [Burton Gloria Insulator Pantalón de Snowboard  Mujer  marrón  Rose Brown   M](https://www.amazon.es/dp/B07F8GJNGD/?tag=tolees-21) a 101.3 EUR (original: 250 EUR) (59.48 %  de descuento) en el siguiente enlace!

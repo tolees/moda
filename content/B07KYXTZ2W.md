@@ -14,7 +14,7 @@ currency: EUR
 price: 6.82
 comparePrice: 17.99 EUR
 inStock: true
-prodname: Springfield 5.Pa.Falda Larga Lisa Circular Falda  Mujer  Azul  Azul Marino 10   One Size  Tamaño del Fabricante:L 
+prodname: 'Springfield 5.Pa.Falda Larga Lisa Circular Falda  Mujer  Azul  Azul Marino 10   One Size  Tamaño del Fabricante:L '
 ---
 
 Tienes [Springfield 5.Pa.Falda Larga Lisa Circular Falda  Mujer  Azul  Azul Marino 10   One Size  Tamaño del Fabricante:L ](https://www.amazon.es/dp/B07KYXTZ2W/?tag=tolees-21) con un 62.09 % de descuento con precio de oferta de 6.82 EUR (original: 17.99 EUR) en el siguiente enlace!

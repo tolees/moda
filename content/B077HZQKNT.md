@@ -14,7 +14,7 @@ currency: EUR
 price: 16.99
 comparePrice: 45.99 EUR
 inStock: true
-prodname: NHEIMA Faja Reductora Hombre Adelgazante  Camiseta Termica Chaleco Hombre Trabajo de Neopreno con Cierre para Sudoración  Quema Grasa  Gym  Faja Deportiva Lumbar  S  Gris-Negro-02 
+prodname: 'NHEIMA Faja Reductora Hombre Adelgazante  Camiseta Termica Chaleco Hombre Trabajo de Neopreno con Cierre para Sudoración  Quema Grasa  Gym  Faja Deportiva Lumbar  S  Gris-Negro-02 '
 ---
 
 Tienes [NHEIMA Faja Reductora Hombre Adelgazante  Camiseta Termica Chaleco Hombre Trabajo de Neopreno con Cierre para Sudoración  Quema Grasa  Gym  Faja Deportiva Lumbar  S  Gris-Negro-02 ](https://www.amazon.es/dp/B077HZQKNT/?tag=tolees-21) con un 63.06 % de descuento con precio de oferta de 16.99 EUR (original: 45.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 37.91
 comparePrice: 80 EUR
 inStock: true
-prodname: Helly Hansen Hh Lifa Merino Crew  Camiseta de Manga Larga para Hombre  Azul  Olympian Azul   Small  Tamaño del fabricante:S 
+prodname: 'Helly Hansen Hh Lifa Merino Crew  Camiseta de Manga Larga para Hombre  Azul  Olympian Azul   Small  Tamaño del fabricante:S '
 ---
 
 Tienes [Helly Hansen Hh Lifa Merino Crew  Camiseta de Manga Larga para Hombre  Azul  Olympian Azul   Small  Tamaño del fabricante:S ](https://www.amazon.es/dp/B06XHBTYCF/?tag=tolees-21) con un 52.61 % de descuento con precio de oferta de 37.91 EUR (original: 80 EUR) en el siguiente enlace!

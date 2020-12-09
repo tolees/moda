@@ -14,7 +14,7 @@ currency: EUR
 price: 21.88
 comparePrice: 59.95 EUR
 inStock: true
-prodname: Izas Sagra Chaqueta Poncho  Mujer  Rosa  Fuxia   XXL
+prodname: 'Izas Sagra Chaqueta Poncho  Mujer  Rosa  Fuxia   XXL'
 ---
 
 Ahora mismo tienes [Izas Sagra Chaqueta Poncho  Mujer  Rosa  Fuxia   XXL](https://www.amazon.es/dp/B06XT4L9BL/?tag=tolees-21) a 21.88 EUR (original: 59.95 EUR) (63.50 %  de descuento) en el siguiente enlace!

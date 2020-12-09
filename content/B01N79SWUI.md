@@ -14,7 +14,7 @@ currency: EUR
 price: 54.95
 comparePrice: 79.99 EUR
 inStock: true
-prodname: ElegantPark HP1560IAC Mujer Plataforma Peep Toe TAC¨®n Aguja Satin Zapatos De Noche Azul Marino EU 38
+prodname: 'ElegantPark HP1560IAC Mujer Plataforma Peep Toe TAC¨®n Aguja Satin Zapatos De Noche Azul Marino EU 38'
 ---
 
 Está [ElegantPark HP1560IAC Mujer Plataforma Peep Toe TAC¨®n Aguja Satin Zapatos De Noche Azul Marino EU 38](https://www.amazon.es/dp/B01N79SWUI/?tag=tolees-21) con 31.30 de descuento por 54.95 EUR (original: 79.99 EUR) en el siguiente enlace!

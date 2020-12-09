@@ -14,7 +14,7 @@ currency: EUR
 price: 15.97
 comparePrice: 49.99 EUR
 inStock: true
-prodname: Cortefiel C1Bck Pico Torzal  Jersey para Hombre  Blanco  Crudo 96   Small  Tamaño del Fabricante:S 
+prodname: 'Cortefiel C1Bck Pico Torzal  Jersey para Hombre  Blanco  Crudo 96   Small  Tamaño del Fabricante:S '
 ---
 
 Está [Cortefiel C1Bck Pico Torzal  Jersey para Hombre  Blanco  Crudo 96   Small  Tamaño del Fabricante:S ](https://www.amazon.es/dp/B07KYT1Z7N/?tag=tolees-21) con 68.05 de descuento por 15.97 EUR (original: 49.99 EUR) en el siguiente enlace!

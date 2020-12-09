@@ -14,7 +14,7 @@ currency: EUR
 price: 12.95
 comparePrice: 18.65 EUR
 inStock: true
-prodname: Calvin Klein Bikini String  Tanga para Mujer  Negro  Black 001  36  Talla del Fabricante: Small 
+prodname: 'Calvin Klein Bikini String  Tanga para Mujer  Negro  Black 001  36  Talla del Fabricante: Small '
 ---
 
 Tienes [Calvin Klein Bikini String  Tanga para Mujer  Negro  Black 001  36  Talla del Fabricante: Small ](https://www.amazon.es/dp/B01MRD7RVB/?tag=tolees-21) con un 30.56 % de descuento con precio de oferta de 12.95 EUR (original: 18.65 EUR) en el siguiente enlace!

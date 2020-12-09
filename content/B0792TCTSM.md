@@ -14,7 +14,7 @@ currency: EUR
 price: 60.18
 comparePrice: 125 EUR
 inStock: true
-prodname: Geox U Ariam B  Botas Chelsea para Hombre   Black C9999   42 EU
+prodname: 'Geox U Ariam B  Botas Chelsea para Hombre   Black C9999   42 EU'
 ---
 
 Tienes [Geox U Ariam B  Botas Chelsea para Hombre   Black C9999   42 EU](https://www.amazon.es/dp/B0792TCTSM/?tag=tolees-21) con un 51.86 % de descuento con precio de oferta de 60.18 EUR (original: 125 EUR) en el siguiente enlace!

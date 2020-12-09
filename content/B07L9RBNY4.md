@@ -14,7 +14,7 @@ currency: EUR
 price: 27
 comparePrice: 39 EUR
 inStock: true
-prodname: Napapijri Sachu Camiseta  Azul  BLU Marine 176   Small para Hombre
+prodname: 'Napapijri Sachu Camiseta  Azul  BLU Marine 176   Small para Hombre'
 ---
 
 Tienes [Napapijri Sachu Camiseta  Azul  BLU Marine 176   Small para Hombre](https://www.amazon.es/dp/B07L9RBNY4/?tag=tolees-21) con un 30.77 % de descuento con precio de oferta de 27 EUR (original: 39 EUR) en el siguiente enlace!

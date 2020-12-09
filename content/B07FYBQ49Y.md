@@ -14,7 +14,7 @@ currency: EUR
 price: 10.74
 comparePrice: 29.95 EUR
 inStock: true
-prodname: Wrangler Kabel tee Camiseta  Rojo  Scarlet Red 3uu   Small para Hombre
+prodname: 'Wrangler Kabel tee Camiseta  Rojo  Scarlet Red 3uu   Small para Hombre'
 ---
 
 Está [Wrangler Kabel tee Camiseta  Rojo  Scarlet Red 3uu   Small para Hombre](https://www.amazon.es/dp/B07FYBQ49Y/?tag=tolees-21) con 64.14 de descuento por 10.74 EUR (original: 29.95 EUR) en el siguiente enlace!

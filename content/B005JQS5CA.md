@@ -14,7 +14,7 @@ currency: EUR
 price: 95.99
 comparePrice: 150.0 EUR
 inStock: true
-prodname: Timberland Nellie Chukka  Botas Mujer  Amarillo Wheat Nubuck  36 EU
+prodname: 'Timberland Nellie Chukka  Botas Mujer  Amarillo Wheat Nubuck  36 EU'
 ---
 
 Ahora mismo tienes [Timberland Nellie Chukka  Botas Mujer  Amarillo Wheat Nubuck  36 EU](https://www.amazon.es/dp/B005JQS5CA/?tag=tolees-21) a 95.99 EUR (original: 150.0 EUR) (36.01 %  de descuento) en el siguiente enlace!

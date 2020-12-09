@@ -14,7 +14,7 @@ currency: EUR
 price: 48.99
 comparePrice: 89.99 EUR
 inStock: true
-prodname: Columbia Triple Canyon Pantalón De Senderismo De Otoño  Hombre  City Grey  Shark  W30/L30
+prodname: 'Columbia Triple Canyon Pantalón De Senderismo De Otoño  Hombre  City Grey  Shark  W30/L30'
 ---
 
 Tienes [Columbia Triple Canyon Pantalón De Senderismo De Otoño  Hombre  City Grey  Shark  W30/L30](https://www.amazon.es/dp/B07RCNNTJQ/?tag=tolees-21) con un 45.56 % de descuento con precio de oferta de 48.99 EUR (original: 89.99 EUR) en el siguiente enlace!

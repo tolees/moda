@@ -14,7 +14,7 @@ currency: EUR
 price: 62.49
 comparePrice: 90.65 EUR
 inStock: true
-prodname: Targus Newport Messenger bolso convertible de 10 L  mochila para portátiles de hasta 15   con compartimento específico  mochila convertible en bolso – negro  TSB965GL
+prodname: 'Targus Newport Messenger bolso convertible de 10 L  mochila para portátiles de hasta 15   con compartimento específico  mochila convertible en bolso – negro  TSB965GL'
 ---
 
 Ahora mismo tienes [Targus Newport Messenger bolso convertible de 10 L  mochila para portátiles de hasta 15   con compartimento específico  mochila convertible en bolso – negro  TSB965GL](https://www.amazon.es/dp/B07TXRJPGZ/?tag=tolees-21) a 62.49 EUR (original: 90.65 EUR) (31.06 %  de descuento) en el siguiente enlace!

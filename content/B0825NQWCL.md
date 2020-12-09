@@ -14,7 +14,7 @@ currency: EUR
 price: 51.89
 comparePrice: 99.9 EUR
 inStock: true
-prodname: Geox U ERRICO B  Mocasín Hombre  Azul Marino  41 EU
+prodname: 'Geox U ERRICO B  Mocasín Hombre  Azul Marino  41 EU'
 ---
 
 Está [Geox U ERRICO B  Mocasín Hombre  Azul Marino  41 EU](https://www.amazon.es/dp/B0825NQWCL/?tag=tolees-21) con 48.06 de descuento por 51.89 EUR (original: 99.9 EUR) en el siguiente enlace!

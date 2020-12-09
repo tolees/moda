@@ -14,7 +14,7 @@ currency: EUR
 price: 47.63
 comparePrice: 165 EUR
 inStock: true
-prodname: Neosens  S082 Restored Skin Brancello  Zapatos de Cordones Derby para Hombre  Marrón  Cuero   46
+prodname: 'Neosens  S082 Restored Skin Brancello  Zapatos de Cordones Derby para Hombre  Marrón  Cuero   46'
 ---
 
 Tienes [Neosens  S082 Restored Skin Brancello  Zapatos de Cordones Derby para Hombre  Marrón  Cuero   46](https://www.amazon.es/dp/B01N2QJGI4/?tag=tolees-21) con un 71.13 % de descuento con precio de oferta de 47.63 EUR (original: 165 EUR) en el siguiente enlace!

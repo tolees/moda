@@ -14,7 +14,7 @@ currency: EUR
 price: 19.95
 comparePrice: 34.95 EUR
 inStock: true
-prodname: Charles Wilson Pantalón De Chándal De Felpa con Dobladillo Abierto para Hombre  L  Charcoal Melange 
+prodname: 'Charles Wilson Pantalón De Chándal De Felpa con Dobladillo Abierto para Hombre  L  Charcoal Melange '
 ---
 
 Tienes [Charles Wilson Pantalón De Chándal De Felpa con Dobladillo Abierto para Hombre  L  Charcoal Melange ](https://www.amazon.es/dp/B08KGMNC21/?tag=tolees-21) con un 42.92 % de descuento con precio de oferta de 19.95 EUR (original: 34.95 EUR) en el siguiente enlace!

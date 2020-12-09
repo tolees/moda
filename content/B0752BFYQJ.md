@@ -14,7 +14,7 @@ currency: EUR
 price: 52.38
 comparePrice: 129.95 EUR
 inStock: true
-prodname: G-STAR RAW D-STAQ 3D Skinny  Vaqueros  Azul  dk Aged 8971-89   40W / 38L para Hombre
+prodname: 'G-STAR RAW D-STAQ 3D Skinny  Vaqueros  Azul  dk Aged 8971-89   40W / 38L para Hombre'
 ---
 
 Está [G-STAR RAW D-STAQ 3D Skinny  Vaqueros  Azul  dk Aged 8971-89   40W / 38L para Hombre](https://www.amazon.es/dp/B0752BFYQJ/?tag=tolees-21) con 59.69 de descuento por 52.38 EUR (original: 129.95 EUR) en el siguiente enlace!

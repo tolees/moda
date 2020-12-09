@@ -14,7 +14,7 @@ currency: EUR
 price: 22.08
 comparePrice: 133 EUR
 inStock: true
-prodname: Steve Madden Pacers  Botines para Mujer  Azul  Navy 001   40 EU
+prodname: 'Steve Madden Pacers  Botines para Mujer  Azul  Navy 001   40 EU'
 ---
 
 Está [Steve Madden Pacers  Botines para Mujer  Azul  Navy 001   40 EU](https://www.amazon.es/dp/B071JPCXGD/?tag=tolees-21) con 83.40 de descuento por 22.08 EUR (original: 133 EUR) en el siguiente enlace!

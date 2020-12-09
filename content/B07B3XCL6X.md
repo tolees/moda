@@ -14,7 +14,7 @@ currency: EUR
 price: 32.74
 comparePrice: 50.0 EUR
 inStock: true
-prodname: Polaroid PLD 6041/S Gafas de sol  Negro  BLACK   56 Unisex Adulto
+prodname: 'Polaroid PLD 6041/S Gafas de sol  Negro  BLACK   56 Unisex Adulto'
 ---
 
 Ahora mismo tienes [Polaroid PLD 6041/S Gafas de sol  Negro  BLACK   56 Unisex Adulto](https://www.amazon.es/dp/B07B3XCL6X/?tag=tolees-21) a 32.74 EUR (original: 50.0 EUR) (34.52 %  de descuento) en el siguiente enlace!

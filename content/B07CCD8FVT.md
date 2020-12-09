@@ -14,7 +14,7 @@ currency: EUR
 price: 144.83
 comparePrice: 257 EUR
 inStock: true
-prodname: Love Moschino Zipper Long Sleeve Sweater with Hearths  Chaqueta Punto para Mujer  Negro  Black C74  40  Talla del Fabricante: 42 
+prodname: 'Love Moschino Zipper Long Sleeve Sweater with Hearths  Chaqueta Punto para Mujer  Negro  Black C74  40  Talla del Fabricante: 42 '
 ---
 
 Ahora mismo tienes [Love Moschino Zipper Long Sleeve Sweater with Hearths  Chaqueta Punto para Mujer  Negro  Black C74  40  Talla del Fabricante: 42 ](https://www.amazon.es/dp/B07CCD8FVT/?tag=tolees-21) a 144.83 EUR (original: 257 EUR) (43.65 %  de descuento) en el siguiente enlace!

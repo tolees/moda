@@ -14,7 +14,7 @@ currency: EUR
 price: 8.91
 comparePrice: 24.36 EUR
 inStock: true
-prodname: Marca Amazon - find.. Camisa de Cuadros para Hombre  Multicolor  Multicheck   M  Label: M
+prodname: 'Marca Amazon - find.. Camisa de Cuadros para Hombre  Multicolor  Multicheck   M  Label: M'
 ---
 
 Ahora mismo tienes [Marca Amazon - find.. Camisa de Cuadros para Hombre  Multicolor  Multicheck   M  Label: M](https://www.amazon.es/dp/B06XG7CQR5/?tag=tolees-21) a 8.91 EUR (original: 24.36 EUR) (63.42 %  de descuento) en el siguiente enlace!

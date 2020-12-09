@@ -14,7 +14,7 @@ currency: EUR
 price: 55.95
 comparePrice: 99 EUR
 inStock: true
-prodname: Pepe Jeans Stanley Wiser Pm201705  Vaqueros Tapered para Hombre  Azul  Whisper Wash Medium Used Wx1   W33/L34  Talla del Fabricante: 33W / 34L 
+prodname: 'Pepe Jeans Stanley Wiser Pm201705  Vaqueros Tapered para Hombre  Azul  Whisper Wash Medium Used Wx1   W33/L34  Talla del Fabricante: 33W / 34L '
 ---
 
 Está [Pepe Jeans Stanley Wiser Pm201705  Vaqueros Tapered para Hombre  Azul  Whisper Wash Medium Used Wx1   W33/L34  Talla del Fabricante: 33W / 34L ](https://www.amazon.es/dp/B07HYHV8Y3/?tag=tolees-21) con 43.48 de descuento por 55.95 EUR (original: 99 EUR) en el siguiente enlace!

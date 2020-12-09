@@ -14,7 +14,7 @@ currency: EUR
 price: 59.25
 comparePrice: 119.99 EUR
 inStock: true
-prodname: Columbia Lake 22 Jacket Chaqueta  Mujer  Nocturnal  Talla L
+prodname: 'Columbia Lake 22 Jacket Chaqueta  Mujer  Nocturnal  Talla L'
 ---
 
 Está [Columbia Lake 22 Jacket Chaqueta  Mujer  Nocturnal  Talla L](https://www.amazon.es/dp/B07DZ8FWMH/?tag=tolees-21) con 50.62 de descuento por 59.25 EUR (original: 119.99 EUR) en el siguiente enlace!

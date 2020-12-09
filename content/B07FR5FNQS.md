@@ -14,7 +14,7 @@ currency: EUR
 price: 26.14
 comparePrice: 99.95 EUR
 inStock: true
-prodname: Clarks Dalia Leah  Zapatos de Tacón para Mujer  Amarillo  Ochre Nubuck-   36 EU
+prodname: 'Clarks Dalia Leah  Zapatos de Tacón para Mujer  Amarillo  Ochre Nubuck-   36 EU'
 ---
 
 Está [Clarks Dalia Leah  Zapatos de Tacón para Mujer  Amarillo  Ochre Nubuck-   36 EU](https://www.amazon.es/dp/B07FR5FNQS/?tag=tolees-21) con 73.85 de descuento por 26.14 EUR (original: 99.95 EUR) en el siguiente enlace!

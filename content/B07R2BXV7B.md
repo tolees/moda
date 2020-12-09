@@ -14,7 +14,7 @@ currency: EUR
 price: 56.99
 comparePrice: 129.95 EUR
 inStock: true
-prodname: Wrangler Sherpa Jacket Chaqueta Vaquera  Negro  Black Stone 24v   Small para Mujer
+prodname: 'Wrangler Sherpa Jacket Chaqueta Vaquera  Negro  Black Stone 24v   Small para Mujer'
 ---
 
 Tienes [Wrangler Sherpa Jacket Chaqueta Vaquera  Negro  Black Stone 24v   Small para Mujer](https://www.amazon.es/dp/B07R2BXV7B/?tag=tolees-21) con un 56.14 % de descuento con precio de oferta de 56.99 EUR (original: 129.95 EUR) en el siguiente enlace!

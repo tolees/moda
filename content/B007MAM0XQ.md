@@ -14,7 +14,7 @@ currency: EUR
 price: 11.95
 comparePrice: 30 EUR
 inStock: true
-prodname: Dickies T - Camiseta para hombre  Gris  XL  pack de 3
+prodname: 'Dickies T - Camiseta para hombre  Gris  XL  pack de 3'
 ---
 
 Ahora mismo tienes [Dickies T - Camiseta para hombre  Gris  XL  pack de 3](https://www.amazon.es/dp/B007MAM0XQ/?tag=tolees-21) a 11.95 EUR (original: 30 EUR) (60.17 %  de descuento) en el siguiente enlace!

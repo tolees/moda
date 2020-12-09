@@ -14,7 +14,7 @@ currency: EUR
 price: 28.12
 comparePrice: 39.95 EUR
 inStock: true
-prodname: BOSS Identity Shorts Pantalones de Pijama  Azul  Bright Blue 438   Medium para Hombre
+prodname: 'BOSS Identity Shorts Pantalones de Pijama  Azul  Bright Blue 438   Medium para Hombre'
 ---
 
 Ahora mismo tienes [BOSS Identity Shorts Pantalones de Pijama  Azul  Bright Blue 438   Medium para Hombre](https://www.amazon.es/dp/B07KK3LVWC/?tag=tolees-21) a 28.12 EUR (original: 39.95 EUR) (29.61 %  de descuento) en el siguiente enlace!

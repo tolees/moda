@@ -14,7 +14,7 @@ currency: EUR
 price: 29.99
 comparePrice: 139.99 EUR
 inStock: true
-prodname: Reloj Hombre LIGE Moda Reloj de Cuarzo analógico Impermeable Clásico Correa de Cuero Negro Fecha/Calendario Reloj …
+prodname: 'Reloj Hombre LIGE Moda Reloj de Cuarzo analógico Impermeable Clásico Correa de Cuero Negro Fecha/Calendario Reloj …'
 ---
 
 Tienes [Reloj Hombre LIGE Moda Reloj de Cuarzo analógico Impermeable Clásico Correa de Cuero Negro Fecha/Calendario Reloj …](https://www.amazon.es/dp/B07XQC5M2K/?tag=tolees-21) con un 78.58 % de descuento con precio de oferta de 29.99 EUR (original: 139.99 EUR) en el siguiente enlace!

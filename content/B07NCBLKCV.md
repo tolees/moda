@@ -14,7 +14,7 @@ currency: EUR
 price: 43.72
 comparePrice: 75 EUR
 inStock: true
-prodname: Pepe Jeans Dani Bling Falda  Azul  Denim 000   Small para Mujer
+prodname: 'Pepe Jeans Dani Bling Falda  Azul  Denim 000   Small para Mujer'
 ---
 
 Está [Pepe Jeans Dani Bling Falda  Azul  Denim 000   Small para Mujer](https://www.amazon.es/dp/B07NCBLKCV/?tag=tolees-21) con 41.71 de descuento por 43.72 EUR (original: 75 EUR) en el siguiente enlace!

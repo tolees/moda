@@ -14,7 +14,7 @@ currency: EUR
 price: 13.65
 comparePrice: 99.95 EUR
 inStock: true
-prodname: Lee Luke Vaqueros Tapered  Marfil  Blue Fuel Zf   W29/L34 para Hombre
+prodname: 'Lee Luke Vaqueros Tapered  Marfil  Blue Fuel Zf   W29/L34 para Hombre'
 ---
 
 Está [Lee Luke Vaqueros Tapered  Marfil  Blue Fuel Zf   W29/L34 para Hombre](https://www.amazon.es/dp/B07FYFRZNG/?tag=tolees-21) con 86.34 de descuento por 13.65 EUR (original: 99.95 EUR) en el siguiente enlace!

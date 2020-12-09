@@ -14,7 +14,7 @@ currency: EUR
 price: 29.99
 comparePrice: 99.9 EUR
 inStock: true
-prodname: Ben Sherman Original Hoodie Jersey  Blau  Dark Navy 025   L para Hombre
+prodname: 'Ben Sherman Original Hoodie Jersey  Blau  Dark Navy 025   L para Hombre'
 ---
 
 Tienes [Ben Sherman Original Hoodie Jersey  Blau  Dark Navy 025   L para Hombre](https://www.amazon.es/dp/B074MYGJSB/?tag=tolees-21) con un 69.98 % de descuento con precio de oferta de 29.99 EUR (original: 99.9 EUR) en el siguiente enlace!

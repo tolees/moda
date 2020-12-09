@@ -14,7 +14,7 @@ currency: EUR
 price: 53.49
 comparePrice: 129.99 EUR
 inStock: true
-prodname: Columbia Puffect Chaqueta para Mujer  Negro  XL
+prodname: 'Columbia Puffect Chaqueta para Mujer  Negro  XL'
 ---
 
 Está [Columbia Puffect Chaqueta para Mujer  Negro  XL](https://www.amazon.es/dp/B07K6ZN9QZ/?tag=tolees-21) con 58.85 de descuento por 53.49 EUR (original: 129.99 EUR) en el siguiente enlace!

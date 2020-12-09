@@ -14,7 +14,7 @@ currency: EUR
 price: 9.93
 comparePrice: 30 EUR
 inStock: true
-prodname: Under Armour Camiseta de Tirantes de Malla para Mujer HG  Mujer  1316124-906  Peach Horizon/Metallic Silver  Small
+prodname: 'Under Armour Camiseta de Tirantes de Malla para Mujer HG  Mujer  1316124-906  Peach Horizon/Metallic Silver  Small'
 ---
 
 Está [Under Armour Camiseta de Tirantes de Malla para Mujer HG  Mujer  1316124-906  Peach Horizon/Metallic Silver  Small](https://www.amazon.es/dp/B077XQJSPP/?tag=tolees-21) con 66.90 de descuento por 9.93 EUR (original: 30 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 26.99
 comparePrice: 43.99 EUR
 inStock: true
-prodname: LOHOTEK Flyknit Zapatillas Hombres Zapatos Deportivos para Hombres - Zapatos Casuales para Caminar Antideslizantes de Moda Zapatos Deportivas Atléticos al Aire Libre Gimnasio  44EU  Negro 
+prodname: 'LOHOTEK Flyknit Zapatillas Hombres Zapatos Deportivos para Hombres - Zapatos Casuales para Caminar Antideslizantes de Moda Zapatos Deportivas Atléticos al Aire Libre Gimnasio  44EU  Negro '
 ---
 
 Está [LOHOTEK Flyknit Zapatillas Hombres Zapatos Deportivos para Hombres - Zapatos Casuales para Caminar Antideslizantes de Moda Zapatos Deportivas Atléticos al Aire Libre Gimnasio  44EU  Negro ](https://www.amazon.es/dp/B07SS2PJNF/?tag=tolees-21) con 38.65 de descuento por 26.99 EUR (original: 43.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 5.48
 comparePrice: 17.99 EUR
 inStock: true
-prodname: JACK & JONES Jcomayfield tee SS Crew Neck  Camiseta para Hombre  Blanco  White Fit: Slim   Medium
+prodname: 'JACK & JONES Jcomayfield tee SS Crew Neck  Camiseta para Hombre  Blanco  White Fit: Slim   Medium'
 ---
 
 Ahora mismo tienes [JACK & JONES Jcomayfield tee SS Crew Neck  Camiseta para Hombre  Blanco  White Fit: Slim   Medium](https://www.amazon.es/dp/B07K5F3WWD/?tag=tolees-21) a 5.48 EUR (original: 17.99 EUR) (69.54 %  de descuento) en el siguiente enlace!

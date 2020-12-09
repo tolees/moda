@@ -14,7 +14,7 @@ currency: EUR
 price: 14.35
 comparePrice: 39.99 EUR
 inStock: true
-prodname: JACK & JONES Jcojonah Sweat Hood LS Noos  Sudadera para Hombre  Azul  Sky Captain Detail: JJ Print  Large
+prodname: 'JACK & JONES Jcojonah Sweat Hood LS Noos  Sudadera para Hombre  Azul  Sky Captain Detail: JJ Print  Large'
 ---
 
 Tienes [JACK & JONES Jcojonah Sweat Hood LS Noos  Sudadera para Hombre  Azul  Sky Captain Detail: JJ Print  Large](https://www.amazon.es/dp/B07HQWNPSV/?tag=tolees-21) con un 64.12 % de descuento con precio de oferta de 14.35 EUR (original: 39.99 EUR) en el siguiente enlace!

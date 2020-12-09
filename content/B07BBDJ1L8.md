@@ -14,7 +14,7 @@ currency: EUR
 price: 15.24
 comparePrice: 29.95 EUR
 inStock: true
-prodname: Softline 22360-21  Zapatos de Tacón para Mujer  Negro  Black Nappa 022   37 EU
+prodname: 'Softline 22360-21  Zapatos de Tacón para Mujer  Negro  Black Nappa 022   37 EU'
 ---
 
 Tienes [Softline 22360-21  Zapatos de Tacón para Mujer  Negro  Black Nappa 022   37 EU](https://www.amazon.es/dp/B07BBDJ1L8/?tag=tolees-21) con un 49.12 % de descuento con precio de oferta de 15.24 EUR (original: 29.95 EUR) en el siguiente enlace!

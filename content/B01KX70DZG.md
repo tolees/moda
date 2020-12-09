@@ -14,7 +14,7 @@ currency: EUR
 price: 78.35
 comparePrice: 190 EUR
 inStock: true
-prodname: Ray-Ban Junior 0Rb4273 Gafas de Sol  Shiny Trasparent Brown  52 Unisex-Adulto
+prodname: 'Ray-Ban Junior 0Rb4273 Gafas de Sol  Shiny Trasparent Brown  52 Unisex-Adulto'
 ---
 
 Está [Ray-Ban Junior 0Rb4273 Gafas de Sol  Shiny Trasparent Brown  52 Unisex-Adulto](https://www.amazon.es/dp/B01KX70DZG/?tag=tolees-21) con 58.76 de descuento por 78.35 EUR (original: 190 EUR) en el siguiente enlace!

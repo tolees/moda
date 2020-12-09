@@ -14,7 +14,7 @@ currency: EUR
 price: 166.93
 comparePrice: 435 EUR
 inStock: true
-prodname: Jimmy Choo Ello/S  Gafas de Sol para Mujer  Multicolor  Greig Cpprgd   56
+prodname: 'Jimmy Choo Ello/S  Gafas de Sol para Mujer  Multicolor  Greig Cpprgd   56'
 ---
 
 Está [Jimmy Choo Ello/S  Gafas de Sol para Mujer  Multicolor  Greig Cpprgd   56](https://www.amazon.es/dp/B01M7TOO7W/?tag=tolees-21) con 61.63 de descuento por 166.93 EUR (original: 435 EUR) en el siguiente enlace!

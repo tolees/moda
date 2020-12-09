@@ -14,7 +14,7 @@ currency: EUR
 price: 6.72
 comparePrice: 12.33 EUR
 inStock: true
-prodname: Marca Amazon - find. Pantalón de Corte Clásico Hombre  Azul  Marino   34W / 31L  Label: 34W / 31L
+prodname: 'Marca Amazon - find. Pantalón de Corte Clásico Hombre  Azul  Marino   34W / 31L  Label: 34W / 31L'
 ---
 
 Tienes [Marca Amazon - find. Pantalón de Corte Clásico Hombre  Azul  Marino   34W / 31L  Label: 34W / 31L](https://www.amazon.es/dp/B07QQ5WRJ8/?tag=tolees-21) con un 45.50 % de descuento con precio de oferta de 6.72 EUR (original: 12.33 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 34.56
 comparePrice: 90 EUR
 inStock: true
-prodname: Pepe Jeans Cane  Vaqueros Slim para Hombre  Azul  12Oz Clean Twill H05   W40/L34
+prodname: 'Pepe Jeans Cane  Vaqueros Slim para Hombre  Azul  12Oz Clean Twill H05   W40/L34'
 ---
 
 Está [Pepe Jeans Cane  Vaqueros Slim para Hombre  Azul  12Oz Clean Twill H05   W40/L34](https://www.amazon.es/dp/B00XNSGJEW/?tag=tolees-21) con 61.60 de descuento por 34.56 EUR (original: 90 EUR) en el siguiente enlace!

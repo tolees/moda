@@ -14,7 +14,7 @@ currency: EUR
 price: 12.19
 comparePrice: 50.95 EUR
 inStock: true
-prodname: Izas Dimasa Chaqueta de Punto  Mujer  Morado  2XL
+prodname: 'Izas Dimasa Chaqueta de Punto  Mujer  Morado  2XL'
 ---
 
 Ahora mismo tienes [Izas Dimasa Chaqueta de Punto  Mujer  Morado  2XL](https://www.amazon.es/dp/B01KG37QCA/?tag=tolees-21) a 12.19 EUR (original: 50.95 EUR) (76.07 %  de descuento) en el siguiente enlace!

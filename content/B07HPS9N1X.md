@@ -14,7 +14,7 @@ currency: EUR
 price: 9.97
 comparePrice: 25.99 EUR
 inStock: true
-prodname: Mayoral 3444  Chaleco para Niños   Azul 54   4 años  Tamaño del Fabricante:4 
+prodname: 'Mayoral 3444  Chaleco para Niños   Azul 54   4 años  Tamaño del Fabricante:4 '
 ---
 
 Está [Mayoral 3444  Chaleco para Niños   Azul 54   4 años  Tamaño del Fabricante:4 ](https://www.amazon.es/dp/B07HPS9N1X/?tag=tolees-21) con 61.64 de descuento por 9.97 EUR (original: 25.99 EUR) en el siguiente enlace!

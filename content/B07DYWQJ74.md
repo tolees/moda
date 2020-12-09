@@ -14,7 +14,7 @@ currency: EUR
 price: 28.95
 comparePrice: 49.99 EUR
 inStock: true
-prodname: Columbia Fast Trek II Full Zip Fleece Chaqueta Forro Polar  Hombre  Gris  Boulder/Red Element   Talla XL
+prodname: 'Columbia Fast Trek II Full Zip Fleece Chaqueta Forro Polar  Hombre  Gris  Boulder/Red Element   Talla XL'
 ---
 
 Ahora mismo tienes [Columbia Fast Trek II Full Zip Fleece Chaqueta Forro Polar  Hombre  Gris  Boulder/Red Element   Talla XL](https://www.amazon.es/dp/B07DYWQJ74/?tag=tolees-21) a 28.95 EUR (original: 49.99 EUR) (42.09 %  de descuento) en el siguiente enlace!

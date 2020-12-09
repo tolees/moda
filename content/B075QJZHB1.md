@@ -14,7 +14,7 @@ currency: EUR
 price: 4.72
 comparePrice: 16 EUR
 inStock: true
-prodname: find. Camiseta de Deporte con Paneles de Rejilla Hombre  Negro  Black   Large
+prodname: 'find. Camiseta de Deporte con Paneles de Rejilla Hombre  Negro  Black   Large'
 ---
 
 Tienes [find. Camiseta de Deporte con Paneles de Rejilla Hombre  Negro  Black   Large](https://www.amazon.es/dp/B075QJZHB1/?tag=tolees-21) con un 70.50 % de descuento con precio de oferta de 4.72 EUR (original: 16 EUR) en el siguiente enlace!

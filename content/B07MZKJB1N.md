@@ -14,7 +14,7 @@ currency: EUR
 price: 16.99
 comparePrice: 39.75 EUR
 inStock: true
-prodname: Superdry Low Roller tee Camiseta  Amarillo  Fluro Yellow 23K   XS para Hombre
+prodname: 'Superdry Low Roller tee Camiseta  Amarillo  Fluro Yellow 23K   XS para Hombre'
 ---
 
 Está [Superdry Low Roller tee Camiseta  Amarillo  Fluro Yellow 23K   XS para Hombre](https://www.amazon.es/dp/B07MZKJB1N/?tag=tolees-21) con 57.26 de descuento por 16.99 EUR (original: 39.75 EUR) en el siguiente enlace!

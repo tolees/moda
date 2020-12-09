@@ -14,7 +14,7 @@ currency: EUR
 price: 75.47
 comparePrice: 249 EUR
 inStock: true
-prodname: Schott NYC 210-Vint Chaqueta  Verde  Sage Green   M para Hombre
+prodname: 'Schott NYC 210-Vint Chaqueta  Verde  Sage Green   M para Hombre'
 ---
 
 Tienes [Schott NYC 210-Vint Chaqueta  Verde  Sage Green   M para Hombre](https://www.amazon.es/dp/B005CTTO1U/?tag=tolees-21) con un 69.69 % de descuento con precio de oferta de 75.47 EUR (original: 249 EUR) en el siguiente enlace!

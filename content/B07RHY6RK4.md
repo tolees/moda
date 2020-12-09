@@ -14,7 +14,7 @@ currency: EUR
 price: 21.32
 comparePrice: 31.82 EUR
 inStock: true
-prodname: New Balance 520v6  Zapatos para Correr para Mujer  Negro Black Lk6  44 EU
+prodname: 'New Balance 520v6  Zapatos para Correr para Mujer  Negro Black Lk6  44 EU'
 ---
 
 Ahora mismo tienes [New Balance 520v6  Zapatos para Correr para Mujer  Negro Black Lk6  44 EU](https://www.amazon.es/dp/B07RHY6RK4/?tag=tolees-21) a 21.32 EUR (original: 31.82 EUR) (33.00 %  de descuento) en el siguiente enlace!

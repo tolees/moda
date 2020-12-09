@@ -14,7 +14,7 @@ currency: EUR
 price: 13.21
 comparePrice: 49.95 EUR
 inStock: true
-prodname: United Colors of Benetton Hombre Sweater L/s Jersey Not Applicable  Gris  Grigio Melange 501   Talla única  Talla del Fabricante: X-Large 
+prodname: 'United Colors of Benetton Hombre Sweater L/s Jersey Not Applicable  Gris  Grigio Melange 501   Talla única  Talla del Fabricante: X-Large '
 ---
 
 Tienes [United Colors of Benetton Hombre Sweater L/s Jersey Not Applicable  Gris  Grigio Melange 501   Talla única  Talla del Fabricante: X-Large ](https://www.amazon.es/dp/B07KTGCXS9/?tag=tolees-21) con un 73.55 % de descuento con precio de oferta de 13.21 EUR (original: 49.95 EUR) en el siguiente enlace!

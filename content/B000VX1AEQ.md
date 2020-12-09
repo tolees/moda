@@ -14,7 +14,7 @@ currency: EUR
 price: 79.65
 comparePrice: 140.0 EUR
 inStock: true
-prodname: Timberland Classic 2 Eye  Náuticos para Hombre  Marrón Rootbeer Smooth  41 EU
+prodname: 'Timberland Classic 2 Eye  Náuticos para Hombre  Marrón Rootbeer Smooth  41 EU'
 ---
 
 Ahora mismo tienes [Timberland Classic 2 Eye  Náuticos para Hombre  Marrón Rootbeer Smooth  41 EU](https://www.amazon.es/dp/B000VX1AEQ/?tag=tolees-21) a 79.65 EUR (original: 140.0 EUR) (43.11 %  de descuento) en el siguiente enlace!

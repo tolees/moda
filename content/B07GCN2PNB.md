@@ -14,7 +14,7 @@ currency: EUR
 price: 14.72
 comparePrice: 27.93 EUR
 inStock: true
-prodname: New Look Hennie Flat  Vaqueros Slim para Hombre  Azul  Bright Blue  W36/L32  Talla del Fabricante: 36R 
+prodname: 'New Look Hennie Flat  Vaqueros Slim para Hombre  Azul  Bright Blue  W36/L32  Talla del Fabricante: 36R '
 ---
 
 Está [New Look Hennie Flat  Vaqueros Slim para Hombre  Azul  Bright Blue  W36/L32  Talla del Fabricante: 36R ](https://www.amazon.es/dp/B07GCN2PNB/?tag=tolees-21) con 47.30 de descuento por 14.72 EUR (original: 27.93 EUR) en el siguiente enlace!

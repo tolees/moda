@@ -14,7 +14,7 @@ currency: EUR
 price: 13.74
 comparePrice: 25.99 EUR
 inStock: true
-prodname: Springfield UA Gingham Melange Camisa Casual   Gama Azules 12   Small  Tamaño del Fabricante:S  para Hombre
+prodname: 'Springfield UA Gingham Melange Camisa Casual   Gama Azules 12   Small  Tamaño del Fabricante:S  para Hombre'
 ---
 
 Ahora mismo tienes [Springfield UA Gingham Melange Camisa Casual   Gama Azules 12   Small  Tamaño del Fabricante:S  para Hombre](https://www.amazon.es/dp/B07DLJXF4T/?tag=tolees-21) a 13.74 EUR (original: 25.99 EUR) (47.13 %  de descuento) en el siguiente enlace!

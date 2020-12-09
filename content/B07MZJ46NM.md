@@ -14,7 +14,7 @@ currency: EUR
 price: 20.95
 comparePrice: 39.75 EUR
 inStock: true
-prodname: Superdry Vintage Logo Panel Lite tee Camiseta  Rosa  Florida Pink Grit Z2C   M para Hombre
+prodname: 'Superdry Vintage Logo Panel Lite tee Camiseta  Rosa  Florida Pink Grit Z2C   M para Hombre'
 ---
 
 Está [Superdry Vintage Logo Panel Lite tee Camiseta  Rosa  Florida Pink Grit Z2C   M para Hombre](https://www.amazon.es/dp/B07MZJ46NM/?tag=tolees-21) con 47.30 de descuento por 20.95 EUR (original: 39.75 EUR) en el siguiente enlace!

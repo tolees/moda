@@ -14,7 +14,7 @@ currency: EUR
 price: 45.99
 comparePrice: 89.99 EUR
 inStock: true
-prodname: Only Onlsedona Boucle Wool Coat Otw Noos Abrigo  Gris  Light Grey Melange Detail:Melange   36  Talla del fabricante: X-Small  para Mujer
+prodname: 'Only Onlsedona Boucle Wool Coat Otw Noos Abrigo  Gris  Light Grey Melange Detail:Melange   36  Talla del fabricante: X-Small  para Mujer'
 ---
 
 Tienes [Only Onlsedona Boucle Wool Coat Otw Noos Abrigo  Gris  Light Grey Melange Detail:Melange   36  Talla del fabricante: X-Small  para Mujer](https://www.amazon.es/dp/B07DFN8ZRF/?tag=tolees-21) con un 48.89 % de descuento con precio de oferta de 45.99 EUR (original: 89.99 EUR) en el siguiente enlace!

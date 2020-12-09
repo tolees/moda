@@ -14,7 +14,7 @@ currency: EUR
 price: 47.95
 comparePrice: 85 EUR
 inStock: true
-prodname: The North Face Cyclone 2 HDY Chaqueta con Capucha  Hombre  Fiery Red/Urban Navy  XXL
+prodname: 'The North Face Cyclone 2 HDY Chaqueta con Capucha  Hombre  Fiery Red/Urban Navy  XXL'
 ---
 
 Ahora mismo tienes [The North Face Cyclone 2 HDY Chaqueta con Capucha  Hombre  Fiery Red/Urban Navy  XXL](https://www.amazon.es/dp/B078WGDBVL/?tag=tolees-21) a 47.95 EUR (original: 85 EUR) (43.59 %  de descuento) en el siguiente enlace!

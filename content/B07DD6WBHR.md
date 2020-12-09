@@ -14,7 +14,7 @@ currency: EUR
 price: 23.08
 comparePrice: 49.95 EUR
 inStock: true
-prodname: Refresh 64760  Botines para Mujer  Marrón  Camel   38 EU
+prodname: 'Refresh 64760  Botines para Mujer  Marrón  Camel   38 EU'
 ---
 
 Ahora mismo tienes [Refresh 64760  Botines para Mujer  Marrón  Camel   38 EU](https://www.amazon.es/dp/B07DD6WBHR/?tag=tolees-21) a 23.08 EUR (original: 49.95 EUR) (53.79 %  de descuento) en el siguiente enlace!

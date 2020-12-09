@@ -14,7 +14,7 @@ currency: EUR
 price: 11.23
 comparePrice: 20 EUR
 inStock: true
-prodname: adidas Tabe 14 JSY - Camiseta para hombre  color morado / blanco  talla 140
+prodname: 'adidas Tabe 14 JSY - Camiseta para hombre  color morado / blanco  talla 140'
 ---
 
 Está [adidas Tabe 14 JSY - Camiseta para hombre  color morado / blanco  talla 140](https://www.amazon.es/dp/B00LFVTDGK/?tag=tolees-21) con 43.85 de descuento por 11.23 EUR (original: 20 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 11.12
 comparePrice: 28.92 EUR
 inStock: true
-prodname: Glamorous Print Dress  Vestido para Mujer   Brown Rib Animal BW Black  36  Talla del Fabricante: X-Small 
+prodname: 'Glamorous Print Dress  Vestido para Mujer   Brown Rib Animal BW Black  36  Talla del Fabricante: X-Small '
 ---
 
 Está [Glamorous Print Dress  Vestido para Mujer   Brown Rib Animal BW Black  36  Talla del Fabricante: X-Small ](https://www.amazon.es/dp/B07HZDHS17/?tag=tolees-21) con 61.55 de descuento por 11.12 EUR (original: 28.92 EUR) en el siguiente enlace!

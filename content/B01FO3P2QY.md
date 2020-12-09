@@ -14,7 +14,7 @@ currency: EUR
 price: 45.38
 comparePrice: 64.99 EUR
 inStock: true
-prodname: Rowenta Soft Sensation EP5720F0 - Depiladora  2 velocidades  sistema anti dolor de 24 pinzas  cabezal exfoliante y afeitado  accesorio para zonas sensibles  cabezal de recorte zona del bikini
+prodname: 'Rowenta Soft Sensation EP5720F0 - Depiladora  2 velocidades  sistema anti dolor de 24 pinzas  cabezal exfoliante y afeitado  accesorio para zonas sensibles  cabezal de recorte zona del bikini'
 ---
 
 Tienes [Rowenta Soft Sensation EP5720F0 - Depiladora  2 velocidades  sistema anti dolor de 24 pinzas  cabezal exfoliante y afeitado  accesorio para zonas sensibles  cabezal de recorte zona del bikini](https://www.amazon.es/dp/B01FO3P2QY/?tag=tolees-21) con un 30.17 % de descuento con precio de oferta de 45.38 EUR (original: 64.99 EUR) en el siguiente enlace!

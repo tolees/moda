@@ -14,7 +14,7 @@ currency: EUR
 price: 17.89
 comparePrice: 35 EUR
 inStock: true
-prodname: Naf Naf Kenc20 Blusa  Rosa  Rose Pivoine 1304   40 para Mujer
+prodname: 'Naf Naf Kenc20 Blusa  Rosa  Rose Pivoine 1304   40 para Mujer'
 ---
 
 Ahora mismo tienes [Naf Naf Kenc20 Blusa  Rosa  Rose Pivoine 1304   40 para Mujer](https://www.amazon.es/dp/B07KKV9MFL/?tag=tolees-21) a 17.89 EUR (original: 35 EUR) (48.89 %  de descuento) en el siguiente enlace!

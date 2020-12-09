@@ -14,7 +14,7 @@ currency: EUR
 price: 19.55
 comparePrice: 29.9 EUR
 inStock: true
-prodname: Tommy Hilfiger Nautical Print Beach Sandal  Sandalias con Punta Abierta para Hombre  Negro  Black Bds   41 EU
+prodname: 'Tommy Hilfiger Nautical Print Beach Sandal  Sandalias con Punta Abierta para Hombre  Negro  Black Bds   41 EU'
 ---
 
 Ahora mismo tienes [Tommy Hilfiger Nautical Print Beach Sandal  Sandalias con Punta Abierta para Hombre  Negro  Black Bds   41 EU](https://www.amazon.es/dp/B07V2J2WVP/?tag=tolees-21) a 19.55 EUR (original: 29.9 EUR) (34.62 %  de descuento) en el siguiente enlace!

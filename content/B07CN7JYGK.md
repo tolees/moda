@@ -14,7 +14,7 @@ currency: EUR
 price: 14.99
 comparePrice: 24.99 EUR
 inStock: true
-prodname: Crocs Crocband Flip  Chanclas Unisex-Adult  Green  Army Green/White 37p   42/43 EU
+prodname: 'Crocs Crocband Flip  Chanclas Unisex-Adult  Green  Army Green/White 37p   42/43 EU'
 ---
 
 Está [Crocs Crocband Flip  Chanclas Unisex-Adult  Green  Army Green/White 37p   42/43 EU](https://www.amazon.es/dp/B07CN7JYGK/?tag=tolees-21) con 40.02 de descuento por 14.99 EUR (original: 24.99 EUR) en el siguiente enlace!

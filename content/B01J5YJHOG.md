@@ -14,7 +14,7 @@ currency: EUR
 price: 46.02
 comparePrice: 100 EUR
 inStock: true
-prodname: Helly Hansen Loke Chaqueta  Hombre  Verde  S
+prodname: 'Helly Hansen Loke Chaqueta  Hombre  Verde  S'
 ---
 
 Tienes [Helly Hansen Loke Chaqueta  Hombre  Verde  S](https://www.amazon.es/dp/B01J5YJHOG/?tag=tolees-21) con un 53.98 % de descuento con precio de oferta de 46.02 EUR (original: 100 EUR) en el siguiente enlace!

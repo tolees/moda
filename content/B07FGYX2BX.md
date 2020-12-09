@@ -14,7 +14,7 @@ currency: EUR
 price: 115.89
 comparePrice: 219.99 EUR
 inStock: true
-prodname: Columbia On The Trail Interchange Jacket Chaqueta Impermeable  Poliéster  Mujer  Azul  Nocturnal   Talla M
+prodname: 'Columbia On The Trail Interchange Jacket Chaqueta Impermeable  Poliéster  Mujer  Azul  Nocturnal   Talla M'
 ---
 
 Tienes [Columbia On The Trail Interchange Jacket Chaqueta Impermeable  Poliéster  Mujer  Azul  Nocturnal   Talla M](https://www.amazon.es/dp/B07FGYX2BX/?tag=tolees-21) con un 47.32 % de descuento con precio de oferta de 115.89 EUR (original: 219.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 27.5
 comparePrice: 59.9 EUR
 inStock: true
-prodname: Geox J Alonisso Boy E  Zapatillas para Niños  Azul  Navy/White C4211   37 EU
+prodname: 'Geox J Alonisso Boy E  Zapatillas para Niños  Azul  Navy/White C4211   37 EU'
 ---
 
 Tienes [Geox J Alonisso Boy E  Zapatillas para Niños  Azul  Navy/White C4211   37 EU](https://www.amazon.es/dp/B07DK3MGJF/?tag=tolees-21) con un 54.09 % de descuento con precio de oferta de 27.5 EUR (original: 59.9 EUR) en el siguiente enlace!

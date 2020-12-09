@@ -14,7 +14,7 @@ currency: EUR
 price: 22.24
 comparePrice: 55 EUR
 inStock: true
-prodname: Kipling Wearable Set Organizador de Bolso  40 cm  2 Liters   Block Lines 
+prodname: 'Kipling Wearable Set Organizador de Bolso  40 cm  2 Liters   Block Lines '
 ---
 
 Está [Kipling Wearable Set Organizador de Bolso  40 cm  2 Liters   Block Lines ](https://www.amazon.es/dp/B07DRFQL5G/?tag=tolees-21) con 59.56 de descuento por 22.24 EUR (original: 55 EUR) en el siguiente enlace!

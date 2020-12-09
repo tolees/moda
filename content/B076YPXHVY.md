@@ -14,7 +14,7 @@ currency: EUR
 price: 17.47
 comparePrice: 45 EUR
 inStock: true
-prodname: Levi s Logo  Camiseta para Hombre  Gris  Breaker Polo/w Contrast Tipping Htr Body Chinese Red Collar / B30 Medium Grey Heather + Dress Blues Cuff 0002 
+prodname: 'Levi s Logo  Camiseta para Hombre  Gris  Breaker Polo/w Contrast Tipping Htr Body Chinese Red Collar / B30 Medium Grey Heather + Dress Blues Cuff 0002 '
 ---
 
 Ahora mismo tienes [Levi s Logo  Camiseta para Hombre  Gris  Breaker Polo/w Contrast Tipping Htr Body Chinese Red Collar / B30 Medium Grey Heather + Dress Blues Cuff 0002 ](https://www.amazon.es/dp/B076YPXHVY/?tag=tolees-21) a 17.47 EUR (original: 45 EUR) (61.18 %  de descuento) en el siguiente enlace!

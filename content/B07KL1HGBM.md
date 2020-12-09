@@ -14,7 +14,7 @@ currency: EUR
 price: 29.79
 comparePrice: 60 EUR
 inStock: true
-prodname: Naf Naf Kenr34d Vestido  Azul  Bleu Marine 567   Large para Mujer
+prodname: 'Naf Naf Kenr34d Vestido  Azul  Bleu Marine 567   Large para Mujer'
 ---
 
 Ahora mismo tienes [Naf Naf Kenr34d Vestido  Azul  Bleu Marine 567   Large para Mujer](https://www.amazon.es/dp/B07KL1HGBM/?tag=tolees-21) a 29.79 EUR (original: 60 EUR) (50.35 %  de descuento) en el siguiente enlace!

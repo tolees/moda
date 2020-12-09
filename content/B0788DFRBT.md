@@ -14,7 +14,7 @@ currency: EUR
 price: 10.52
 comparePrice: 22.9 EUR
 inStock: true
-prodname: Tommy Hilfiger Hip Brief  Bóxer Hombre  Azul  Navy Blazer 416   Medium  Talla del Fabricante: MD 
+prodname: 'Tommy Hilfiger Hip Brief  Bóxer Hombre  Azul  Navy Blazer 416   Medium  Talla del Fabricante: MD '
 ---
 
 Tienes [Tommy Hilfiger Hip Brief  Bóxer Hombre  Azul  Navy Blazer 416   Medium  Talla del Fabricante: MD ](https://www.amazon.es/dp/B0788DFRBT/?tag=tolees-21) con un 54.06 % de descuento con precio de oferta de 10.52 EUR (original: 22.9 EUR) en el siguiente enlace!

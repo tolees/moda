@@ -14,7 +14,7 @@ currency: EUR
 price: 19.27
 comparePrice: 29.99 EUR
 inStock: true
-prodname: Under Armour UA Tech Graphic Short Nov Pantalón Corto  Hombre  Azul  Academy/Ether Blue 408   L
+prodname: 'Under Armour UA Tech Graphic Short Nov Pantalón Corto  Hombre  Azul  Academy/Ether Blue 408   L'
 ---
 
 Ahora mismo tienes [Under Armour UA Tech Graphic Short Nov Pantalón Corto  Hombre  Azul  Academy/Ether Blue 408   L](https://www.amazon.es/dp/B07CZK8D3C/?tag=tolees-21) a 19.27 EUR (original: 29.99 EUR) (35.75 %  de descuento) en el siguiente enlace!

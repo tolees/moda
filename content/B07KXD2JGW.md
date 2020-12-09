@@ -14,7 +14,7 @@ currency: EUR
 price: 175.46
 comparePrice: 314 EUR
 inStock: true
-prodname: Love Moschino Embroidered Allover \Ladybirds\_Fleece Dress Vestido  Gris  Embroidery 8004   42  Talla del Fabricante: Medium  para Mujer
+prodname: 'Love Moschino Embroidered Allover \Ladybirds\_Fleece Dress Vestido  Gris  Embroidery 8004   42  Talla del Fabricante: Medium  para Mujer'
 ---
 
 Ahora mismo tienes [Love Moschino Embroidered Allover \Ladybirds\_Fleece Dress Vestido  Gris  Embroidery 8004   42  Talla del Fabricante: Medium  para Mujer](https://www.amazon.es/dp/B07KXD2JGW/?tag=tolees-21) a 175.46 EUR (original: 314 EUR) (44.12 %  de descuento) en el siguiente enlace!

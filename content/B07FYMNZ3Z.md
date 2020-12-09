@@ -14,7 +14,7 @@ currency: EUR
 price: 20
 comparePrice: 29.95 EUR
 inStock: true
-prodname: Wrangler Kabel tee Camiseta  Azul  Turkish Sea 386   X-Large para Hombre
+prodname: 'Wrangler Kabel tee Camiseta  Azul  Turkish Sea 386   X-Large para Hombre'
 ---
 
 Tienes [Wrangler Kabel tee Camiseta  Azul  Turkish Sea 386   X-Large para Hombre](https://www.amazon.es/dp/B07FYMNZ3Z/?tag=tolees-21) con un 33.22 % de descuento con precio de oferta de 20 EUR (original: 29.95 EUR) en el siguiente enlace!

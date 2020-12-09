@@ -14,7 +14,7 @@ currency: EUR
 price: 50.57
 comparePrice: 129.95 EUR
 inStock: true
-prodname: G-STAR RAW Blake Multi Pocket Vestido  Azul  Mazarine Blue B809-4213   36  Talla del Fabricante: X-Small  para Mujer
+prodname: 'G-STAR RAW Blake Multi Pocket Vestido  Azul  Mazarine Blue B809-4213   36  Talla del Fabricante: X-Small  para Mujer'
 ---
 
 Tienes [G-STAR RAW Blake Multi Pocket Vestido  Azul  Mazarine Blue B809-4213   36  Talla del Fabricante: X-Small  para Mujer](https://www.amazon.es/dp/B07RCJHKN4/?tag=tolees-21) con un 61.09 % de descuento con precio de oferta de 50.57 EUR (original: 129.95 EUR) en el siguiente enlace!

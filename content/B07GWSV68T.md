@@ -14,7 +14,7 @@ currency: EUR
 price: 11.12
 comparePrice: 24.99 EUR
 inStock: true
-prodname: Levi s Levis 200sf Aloha Print Boxer Brief 2p  Bóxer Hombre  Azul  Blue 056   Small
+prodname: 'Levi s Levis 200sf Aloha Print Boxer Brief 2p  Bóxer Hombre  Azul  Blue 056   Small'
 ---
 
 Ahora mismo tienes [Levi s Levis 200sf Aloha Print Boxer Brief 2p  Bóxer Hombre  Azul  Blue 056   Small](https://www.amazon.es/dp/B07GWSV68T/?tag=tolees-21) a 11.12 EUR (original: 24.99 EUR) (55.50 %  de descuento) en el siguiente enlace!

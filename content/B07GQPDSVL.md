@@ -14,7 +14,7 @@ currency: EUR
 price: 16.59
 comparePrice: 29.95 EUR
 inStock: true
-prodname: Puma ESS Pique Polo Camiseta  Hombre  Blanco  White   M
+prodname: 'Puma ESS Pique Polo Camiseta  Hombre  Blanco  White   M'
 ---
 
 Ahora mismo tienes [Puma ESS Pique Polo Camiseta  Hombre  Blanco  White   M](https://www.amazon.es/dp/B07GQPDSVL/?tag=tolees-21) a 16.59 EUR (original: 29.95 EUR) (44.61 %  de descuento) en el siguiente enlace!

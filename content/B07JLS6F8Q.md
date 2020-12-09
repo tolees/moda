@@ -14,7 +14,7 @@ currency: EUR
 price: 19.59
 comparePrice: 49.95 EUR
 inStock: true
-prodname: XTI 35000  Zapatos con Tira de Tobillo para Mujer  Negro  39 EU
+prodname: 'XTI 35000  Zapatos con Tira de Tobillo para Mujer  Negro  39 EU'
 ---
 
 Ahora mismo tienes [XTI 35000  Zapatos con Tira de Tobillo para Mujer  Negro  39 EU](https://www.amazon.es/dp/B07JLS6F8Q/?tag=tolees-21) a 19.59 EUR (original: 49.95 EUR) (60.78 %  de descuento) en el siguiente enlace!

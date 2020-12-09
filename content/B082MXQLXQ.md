@@ -14,7 +14,7 @@ currency: EUR
 price: 17.23
 comparePrice: 35.9 EUR
 inStock: true
-prodname: MERAKI Jersey de Lana Merino Hombre  Verde  Khaki   XL  Label: XL
+prodname: 'MERAKI Jersey de Lana Merino Hombre  Verde  Khaki   XL  Label: XL'
 ---
 
 Ahora mismo tienes [MERAKI Jersey de Lana Merino Hombre  Verde  Khaki   XL  Label: XL](https://www.amazon.es/dp/B082MXQLXQ/?tag=tolees-21) a 17.23 EUR (original: 35.9 EUR) (52.01 %  de descuento) en el siguiente enlace!

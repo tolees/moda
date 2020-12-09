@@ -14,7 +14,7 @@ currency: EUR
 price: 15.81
 comparePrice: 89.95 EUR
 inStock: true
-prodname: Lee Elly Vaqueros  Negro  Black Rinse 47   W30/L33 para Mujer
+prodname: 'Lee Elly Vaqueros  Negro  Black Rinse 47   W30/L33 para Mujer'
 ---
 
 Está [Lee Elly Vaqueros  Negro  Black Rinse 47   W30/L33 para Mujer](https://www.amazon.es/dp/B07TVV72VQ/?tag=tolees-21) con 82.42 de descuento por 15.81 EUR (original: 89.95 EUR) en el siguiente enlace!

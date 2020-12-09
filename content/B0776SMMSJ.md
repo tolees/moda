@@ -14,7 +14,7 @@ currency: EUR
 price: 19.95
 comparePrice: 29 EUR
 inStock: true
-prodname: Tommy Jeans Hombre Original Jersey Camiseta Manga Corta  Blanco  Classic White 100  X-Large
+prodname: 'Tommy Jeans Hombre Original Jersey Camiseta Manga Corta  Blanco  Classic White 100  X-Large'
 ---
 
 Está [Tommy Jeans Hombre Original Jersey Camiseta Manga Corta  Blanco  Classic White 100  X-Large](https://www.amazon.es/dp/B0776SMMSJ/?tag=tolees-21) con 31.21 de descuento por 19.95 EUR (original: 29 EUR) en el siguiente enlace!

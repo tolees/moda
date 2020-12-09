@@ -14,7 +14,7 @@ currency: EUR
 price: 51.57
 comparePrice: 99.9 EUR
 inStock: true
-prodname: Geox UOMO Symbol D  Zapatos con Velcro Hombre  Negro  41 EU
+prodname: 'Geox UOMO Symbol D  Zapatos con Velcro Hombre  Negro  41 EU'
 ---
 
 Está [Geox UOMO Symbol D  Zapatos con Velcro Hombre  Negro  41 EU](https://www.amazon.es/dp/B01NBXXH1S/?tag=tolees-21) con 48.38 de descuento por 51.57 EUR (original: 99.9 EUR) en el siguiente enlace!

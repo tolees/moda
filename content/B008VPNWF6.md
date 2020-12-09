@@ -14,7 +14,7 @@ currency: EUR
 price: 9.5
 comparePrice: 13.5 EUR
 inStock: true
-prodname: Abanderado Termal algodón Invierno C/redondo Camiseta térmica  Blanco  2XL para Hombre
+prodname: 'Abanderado Termal algodón Invierno C/redondo Camiseta térmica  Blanco  2XL para Hombre'
 ---
 
 Está [Abanderado Termal algodón Invierno C/redondo Camiseta térmica  Blanco  2XL para Hombre](https://www.amazon.es/dp/B008VPNWF6/?tag=tolees-21) con 29.63 de descuento por 9.5 EUR (original: 13.5 EUR) en el siguiente enlace!

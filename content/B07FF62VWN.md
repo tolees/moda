@@ -14,7 +14,7 @@ currency: EUR
 price: 25.29
 comparePrice: 49.99 EUR
 inStock: true
-prodname: Quiksilver Aker Sudadera con Capucha  Hombre  Negro  Black KVJ0   Medium  Tamaño del Fabricante:M 
+prodname: 'Quiksilver Aker Sudadera con Capucha  Hombre  Negro  Black KVJ0   Medium  Tamaño del Fabricante:M '
 ---
 
 Está [Quiksilver Aker Sudadera con Capucha  Hombre  Negro  Black KVJ0   Medium  Tamaño del Fabricante:M ](https://www.amazon.es/dp/B07FF62VWN/?tag=tolees-21) con 49.41 de descuento por 25.29 EUR (original: 49.99 EUR) en el siguiente enlace!

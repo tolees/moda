@@ -14,7 +14,7 @@ currency: EUR
 price: 35.06
 comparePrice: 65 EUR
 inStock: true
-prodname: Under Armour Tech Pant Pantalón Largo  Hombre  Negro Black 001  36W / 36L
+prodname: 'Under Armour Tech Pant Pantalón Largo  Hombre  Negro Black 001  36W / 36L'
 ---
 
 Está [Under Armour Tech Pant Pantalón Largo  Hombre  Negro Black 001  36W / 36L](https://www.amazon.es/dp/B01FXGUZPA/?tag=tolees-21) con 46.06 de descuento por 35.06 EUR (original: 65 EUR) en el siguiente enlace!

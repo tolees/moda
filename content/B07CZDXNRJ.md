@@ -14,7 +14,7 @@ currency: EUR
 price: 26.01
 comparePrice: 70.0 EUR
 inStock: true
-prodname: Under Armour Playoff 2.0 1/4 Zip  Camisa Polo para Hombre  Camiseta Polo Hombre  Negro  Black/Black 001   S
+prodname: 'Under Armour Playoff 2.0 1/4 Zip  Camisa Polo para Hombre  Camiseta Polo Hombre  Negro  Black/Black 001   S'
 ---
 
 Tienes [Under Armour Playoff 2.0 1/4 Zip  Camisa Polo para Hombre  Camiseta Polo Hombre  Negro  Black/Black 001   S](https://www.amazon.es/dp/B07CZDXNRJ/?tag=tolees-21) con un 62.84 % de descuento con precio de oferta de 26.01 EUR (original: 70.0 EUR) en el siguiente enlace!

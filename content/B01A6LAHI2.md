@@ -14,7 +14,7 @@ currency: EUR
 price: 31.45
 comparePrice: 49.9 EUR
 inStock: true
-prodname: Crocs Crocband  Zuecos Unisex Adulto  Marrón  Khaki/Espresso   41/42 EU
+prodname: 'Crocs Crocband  Zuecos Unisex Adulto  Marrón  Khaki/Espresso   41/42 EU'
 ---
 
 Está [Crocs Crocband  Zuecos Unisex Adulto  Marrón  Khaki/Espresso   41/42 EU](https://www.amazon.es/dp/B01A6LAHI2/?tag=tolees-21) con 36.97 de descuento por 31.45 EUR (original: 49.9 EUR) en el siguiente enlace!

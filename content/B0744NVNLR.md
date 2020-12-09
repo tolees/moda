@@ -14,7 +14,7 @@ currency: EUR
 price: 17.61
 comparePrice: 79.99 EUR
 inStock: true
-prodname: ONLY Onldana Nylon Coat Otw  Abrigo Mujer  Verde  Peat Detail:Melange   40  Talla del fabricante: Large 
+prodname: 'ONLY Onldana Nylon Coat Otw  Abrigo Mujer  Verde  Peat Detail:Melange   40  Talla del fabricante: Large '
 ---
 
 Tienes [ONLY Onldana Nylon Coat Otw  Abrigo Mujer  Verde  Peat Detail:Melange   40  Talla del fabricante: Large ](https://www.amazon.es/dp/B0744NVNLR/?tag=tolees-21) con un 77.98 % de descuento con precio de oferta de 17.61 EUR (original: 79.99 EUR) en el siguiente enlace!

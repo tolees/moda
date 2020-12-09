@@ -14,15 +14,13 @@ currency: EUR
 price: 20.11
 comparePrice: 27.44 EUR
 inStock: true
-prodname: Hawkers New Classic Gafas de sol  Azul  One Size Unisex-Adult
+prodname: 'Hawkers New Classic Gafas de sol  Azul  One Size Unisex-Adult'
 ---
 
-Está [Hawkers New Classic Gafas de sol  Azul  One Size Unisex-Adult](https://www.amazon.es/dp/B07HBJ82WZ/?tag=tolees-21) con 26.71 de descuento por 20.11 EUR (original: 27.44 EUR) en el siguiente enlace!
+Ahora mismo tienes [Hawkers New Classic Gafas de sol  Azul  One Size Unisex-Adult](https://www.amazon.es/dp/B07HBJ82WZ/?tag=tolees-21) a 20.11 EUR (original: 27.44 EUR) (26.71 %  de descuento) en el siguiente enlace!
 
 [![Hawkers New Classic Gafas de sol  Azul  ](https://m.media-amazon.com/images/I/31j6xRKMcqL._SL200_.jpg)](https://www.amazon.es/dp/B07HBJ82WZ/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07HBJ82WZ/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07HBJ82WZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

@@ -14,7 +14,7 @@ currency: EUR
 price: 35.69
 comparePrice: 50.99 EUR
 inStock: true
-prodname: Jack & Jones Jjiglenn JJICON JJ 657 50SPS Noos Vaqueros Slim  Azul  Blue Denim   32W / 32L para Hombre
+prodname: 'Jack & Jones Jjiglenn JJICON JJ 657 50SPS Noos Vaqueros Slim  Azul  Blue Denim   32W / 32L para Hombre'
 ---
 
 Ahora mismo tienes [Jack & Jones Jjiglenn JJICON JJ 657 50SPS Noos Vaqueros Slim  Azul  Blue Denim   32W / 32L para Hombre](https://www.amazon.es/dp/B07ZJLK5FG/?tag=tolees-21) a 35.69 EUR (original: 50.99 EUR) (30.01 %  de descuento) en el siguiente enlace!

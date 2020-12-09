@@ -14,7 +14,7 @@ currency: EUR
 price: 18.15
 comparePrice: 26 EUR
 inStock: true
-prodname: Reef Smoothy - Chanclas para hombre  Negro  45 EU
+prodname: 'Reef Smoothy - Chanclas para hombre  Negro  45 EU'
 ---
 
 Está [Reef Smoothy - Chanclas para hombre  Negro  45 EU](https://www.amazon.es/dp/B001Q3KIKW/?tag=tolees-21) con 30.19 de descuento por 18.15 EUR (original: 26 EUR) en el siguiente enlace!

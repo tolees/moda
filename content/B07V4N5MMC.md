@@ -14,7 +14,7 @@ currency: EUR
 price: 19.02
 comparePrice: 99.9 EUR
 inStock: true
-prodname: Tommy Hilfiger Natural Flatform Sandal  Sandalias Punta Cerrada para Mujer  Negro  Black Bds   41 EU
+prodname: 'Tommy Hilfiger Natural Flatform Sandal  Sandalias Punta Cerrada para Mujer  Negro  Black Bds   41 EU'
 ---
 
 Está [Tommy Hilfiger Natural Flatform Sandal  Sandalias Punta Cerrada para Mujer  Negro  Black Bds   41 EU](https://www.amazon.es/dp/B07V4N5MMC/?tag=tolees-21) con 80.96 de descuento por 19.02 EUR (original: 99.9 EUR) en el siguiente enlace!

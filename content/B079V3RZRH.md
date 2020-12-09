@@ -14,7 +14,7 @@ currency: EUR
 price: 14.95
 comparePrice: 24.99 EUR
 inStock: true
-prodname: Only Onlsally S/l Top Wvn  Camiseta sin Mangas Mujer  Azul  Night Sky Detail: Embroidery White   38  Talla del Fabricante: 36 
+prodname: 'Only Onlsally S/l Top Wvn  Camiseta sin Mangas Mujer  Azul  Night Sky Detail: Embroidery White   38  Talla del Fabricante: 36 '
 ---
 
 Ahora mismo tienes [Only Onlsally S/l Top Wvn  Camiseta sin Mangas Mujer  Azul  Night Sky Detail: Embroidery White   38  Talla del Fabricante: 36 ](https://www.amazon.es/dp/B079V3RZRH/?tag=tolees-21) a 14.95 EUR (original: 24.99 EUR) (40.18 %  de descuento) en el siguiente enlace!

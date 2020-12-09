@@ -14,7 +14,7 @@ currency: EUR
 price: 42.99
 comparePrice: 74.99 EUR
 inStock: true
-prodname: Zapatos de Seguridad para Hombre con Puntera de Acero Zapatillas de Seguridad Trabajo  Calzado de Industrial y Deportiva LM-123k Negro Reflexivo 44.5 EU
+prodname: 'Zapatos de Seguridad para Hombre con Puntera de Acero Zapatillas de Seguridad Trabajo  Calzado de Industrial y Deportiva LM-123k Negro Reflexivo 44.5 EU'
 ---
 
 Ahora mismo tienes [Zapatos de Seguridad para Hombre con Puntera de Acero Zapatillas de Seguridad Trabajo  Calzado de Industrial y Deportiva LM-123k Negro Reflexivo 44.5 EU](https://www.amazon.es/dp/B07JQR2RCT/?tag=tolees-21) a 42.99 EUR (original: 74.99 EUR) (42.67 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 107.49
 comparePrice: 230 EUR
 inStock: true
-prodname: Helly Hansen Dubliner Parka  Chaquetón para hombre  Azul  Navy   M
+prodname: 'Helly Hansen Dubliner Parka  Chaquetón para hombre  Azul  Navy   M'
 ---
 
 Tienes [Helly Hansen Dubliner Parka  Chaquetón para hombre  Azul  Navy   M](https://www.amazon.es/dp/B01EOWZUA4/?tag=tolees-21) con un 53.27 % de descuento con precio de oferta de 107.49 EUR (original: 230 EUR) en el siguiente enlace!

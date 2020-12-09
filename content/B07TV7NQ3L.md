@@ -14,7 +14,7 @@ currency: EUR
 price: 10.41
 comparePrice: 20.0 EUR
 inStock: true
-prodname: Levi s Plus Size tee Camiseta  White  Pl Box Tab White+ 0094   XX-Large para Mujer
+prodname: 'Levi s Plus Size tee Camiseta  White  Pl Box Tab White+ 0094   XX-Large para Mujer'
 ---
 
 Tienes [Levi s Plus Size tee Camiseta  White  Pl Box Tab White+ 0094   XX-Large para Mujer](https://www.amazon.es/dp/B07TV7NQ3L/?tag=tolees-21) con un 47.95 % de descuento con precio de oferta de 10.41 EUR (original: 20.0 EUR) en el siguiente enlace!

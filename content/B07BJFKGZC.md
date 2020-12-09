@@ -14,7 +14,7 @@ currency: EUR
 price: 7.77
 comparePrice: 14.99 EUR
 inStock: true
-prodname: Iris & Lilly Braguita Estilo Bikini de Encaje Suave Mujer  Pack de 3  Rosa  Deep Sea Coral    Talla del fabricante: Medium 
+prodname: 'Iris & Lilly Braguita Estilo Bikini de Encaje Suave Mujer  Pack de 3  Rosa  Deep Sea Coral    Talla del fabricante: Medium '
 ---
 
 Está [Iris & Lilly Braguita Estilo Bikini de Encaje Suave Mujer  Pack de 3  Rosa  Deep Sea Coral    Talla del fabricante: Medium ](https://www.amazon.es/dp/B07BJFKGZC/?tag=tolees-21) con 48.17 de descuento por 7.77 EUR (original: 14.99 EUR) en el siguiente enlace!

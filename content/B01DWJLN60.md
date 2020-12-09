@@ -14,7 +14,7 @@ currency: EUR
 price: 22.74
 comparePrice: 63.08 EUR
 inStock: true
-prodname: Puma Ub evostripe FZ – Sudadera con Capucha para Hombre  Hombre  Pullover UB Evostripe FZ Hoody  Black-Red Blast  Extra-Large
+prodname: 'Puma Ub evostripe FZ – Sudadera con Capucha para Hombre  Hombre  Pullover UB Evostripe FZ Hoody  Black-Red Blast  Extra-Large'
 ---
 
 Tienes [Puma Ub evostripe FZ – Sudadera con Capucha para Hombre  Hombre  Pullover UB Evostripe FZ Hoody  Black-Red Blast  Extra-Large](https://www.amazon.es/dp/B01DWJLN60/?tag=tolees-21) con un 63.95 % de descuento con precio de oferta de 22.74 EUR (original: 63.08 EUR) en el siguiente enlace!

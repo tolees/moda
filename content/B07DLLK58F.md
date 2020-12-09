@@ -14,7 +14,7 @@ currency: EUR
 price: 27.28
 comparePrice: 45.99 EUR
 inStock: true
-prodname: Springfield 8.T.Ap. Plumas BS con Gross G, Chaqueta para Mujer, (Gama Azules 19), (Tamaño del Fabricante:42)
+prodname: 'Springfield 8.T.Ap. Plumas BS con Gross G, Chaqueta para Mujer, (Gama Azules 19), (Tamaño del Fabricante:42)'
 ---
 
 Tienes [Springfield 8.T.Ap. Plumas BS con Gross G, Chaqueta para Mujer, (Gama Azules 19), (Tamaño del Fabricante:42)](https://www.amazon.es/dp/B07DLLK58F/?tag=tolees-21) con un 40.68 % de descuento con precio de oferta de 27.28 EUR (original: 45.99 EUR) en el siguiente enlace!

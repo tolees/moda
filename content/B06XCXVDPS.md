@@ -14,7 +14,7 @@ currency: EUR
 price: 7.36
 comparePrice: 19.99 EUR
 inStock: true
-prodname: Cortefiel 6947670  Bikini para Mujer  Salmón  38
+prodname: 'Cortefiel 6947670  Bikini para Mujer  Salmón  38'
 ---
 
 Ahora mismo tienes [Cortefiel 6947670  Bikini para Mujer  Salmón  38](https://www.amazon.es/dp/B06XCXVDPS/?tag=tolees-21) a 7.36 EUR (original: 19.99 EUR) (63.18 %  de descuento) en el siguiente enlace!

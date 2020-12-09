@@ -14,7 +14,7 @@ currency: EUR
 price: 13.53
 comparePrice: 28 EUR
 inStock: true
-prodname: find. Jersey de Rayas Marineras para Mujer   Multicolor  Sports Red/white   38  Talla del Fabricante: Small 
+prodname: 'find. Jersey de Rayas Marineras para Mujer   Multicolor  Sports Red/white   38  Talla del Fabricante: Small '
 ---
 
 Tienes [find. Jersey de Rayas Marineras para Mujer   Multicolor  Sports Red/white   38  Talla del Fabricante: Small ](https://www.amazon.es/dp/B01NBKWI1L/?tag=tolees-21) con un 51.68 % de descuento con precio de oferta de 13.53 EUR (original: 28 EUR) en el siguiente enlace!

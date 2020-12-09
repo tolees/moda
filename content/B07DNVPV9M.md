@@ -14,7 +14,7 @@ currency: EUR
 price: 18.99
 comparePrice: 36 EUR
 inStock: true
-prodname: Umbro T040  Bóxer para Hombre  Negro  S  Pack of 5
+prodname: 'Umbro T040  Bóxer para Hombre  Negro  S  Pack of 5'
 ---
 
 Tienes [Umbro T040  Bóxer para Hombre  Negro  S  Pack of 5](https://www.amazon.es/dp/B07DNVPV9M/?tag=tolees-21) con un 47.25 % de descuento con precio de oferta de 18.99 EUR (original: 36 EUR) en el siguiente enlace!

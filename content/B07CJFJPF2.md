@@ -14,7 +14,7 @@ currency: EUR
 price: 10.49
 comparePrice: 49.99 EUR
 inStock: true
-prodname: Only Onlsui Reg Slim ANK Dnm Jeans Rea4495 Vaqueros  Negro Black Denim  W27/L32 para Mujer
+prodname: 'Only Onlsui Reg Slim ANK Dnm Jeans Rea4495 Vaqueros  Negro Black Denim  W27/L32 para Mujer'
 ---
 
 Está [Only Onlsui Reg Slim ANK Dnm Jeans Rea4495 Vaqueros  Negro Black Denim  W27/L32 para Mujer](https://www.amazon.es/dp/B07CJFJPF2/?tag=tolees-21) con 79.02 de descuento por 10.49 EUR (original: 49.99 EUR) en el siguiente enlace!

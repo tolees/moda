@@ -14,7 +14,7 @@ currency: EUR
 price: 24.63
 comparePrice: 70 EUR
 inStock: true
-prodname: Nike Ebernon Low Prem Zapatos de Baloncesto Hombre  Azul  Gym Blue/Midnight Navy/White 440   38.5 EU
+prodname: 'Nike Ebernon Low Prem Zapatos de Baloncesto Hombre  Azul  Gym Blue/Midnight Navy/White 440   38.5 EU'
 ---
 
 Ahora mismo tienes [Nike Ebernon Low Prem Zapatos de Baloncesto Hombre  Azul  Gym Blue/Midnight Navy/White 440   38.5 EU](https://www.amazon.es/dp/B078HGRMTT/?tag=tolees-21) a 24.63 EUR (original: 70 EUR) (64.81 %  de descuento) en el siguiente enlace!

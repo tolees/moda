@@ -14,7 +14,7 @@ currency: EUR
 price: 6.16
 comparePrice: 12.37 EUR
 inStock: true
-prodname: Spiderman Marvel Red Web\  Camiseta para Niños  Negro  Black  6-7 años
+prodname: 'Spiderman Marvel Red Web\  Camiseta para Niños  Negro  Black  6-7 años'
 ---
 
 Tienes [Spiderman Marvel Red Web\  Camiseta para Niños  Negro  Black  6-7 años](https://www.amazon.es/dp/B07HBKYBR5/?tag=tolees-21) con un 50.20 % de descuento con precio de oferta de 6.16 EUR (original: 12.37 EUR) en el siguiente enlace!

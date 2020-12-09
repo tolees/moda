@@ -14,7 +14,7 @@ currency: EUR
 price: 11.83
 comparePrice: 25.99 EUR
 inStock: true
-prodname: Esprit 047ee1k013 Camiseta   Light Pink   42  Talla del Fabricante: X-Large  para Mujer
+prodname: 'Esprit 047ee1k013 Camiseta   Light Pink   42  Talla del Fabricante: X-Large  para Mujer'
 ---
 
 Está [Esprit 047ee1k013 Camiseta   Light Pink   42  Talla del Fabricante: X-Large  para Mujer](https://www.amazon.es/dp/B01N7TGRBK/?tag=tolees-21) con 54.48 de descuento por 11.83 EUR (original: 25.99 EUR) en el siguiente enlace!

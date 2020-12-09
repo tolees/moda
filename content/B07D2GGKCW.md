@@ -14,7 +14,7 @@ currency: EUR
 price: 38.73
 comparePrice: 110 EUR
 inStock: true
-prodname: Levi s 502 Regular Taper Vaqueros Tapered  Negro  Headed South 0279   29W / 32L para Hombre
+prodname: 'Levi s 502 Regular Taper Vaqueros Tapered  Negro  Headed South 0279   29W / 32L para Hombre'
 ---
 
 Tienes [Levi s 502 Regular Taper Vaqueros Tapered  Negro  Headed South 0279   29W / 32L para Hombre](https://www.amazon.es/dp/B07D2GGKCW/?tag=tolees-21) con un 64.79 % de descuento con precio de oferta de 38.73 EUR (original: 110 EUR) en el siguiente enlace!

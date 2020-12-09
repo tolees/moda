@@ -14,7 +14,7 @@ currency: EUR
 price: 12.85
 comparePrice: 89.95 EUR
 inStock: true
-prodname: Desigual Fal_PILI  Falda Mujer  Negro  Negro 2000   Small
+prodname: 'Desigual Fal_PILI  Falda Mujer  Negro  Negro 2000   Small'
 ---
 
 Tienes [Desigual Fal_PILI  Falda Mujer  Negro  Negro 2000   Small](https://www.amazon.es/dp/B06XKXSZT2/?tag=tolees-21) con un 85.71 % de descuento con precio de oferta de 12.85 EUR (original: 89.95 EUR) en el siguiente enlace!

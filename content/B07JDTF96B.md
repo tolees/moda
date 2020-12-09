@@ -14,7 +14,7 @@ currency: EUR
 price: 39.28
 comparePrice: 65 EUR
 inStock: true
-prodname: Lacoste Sport Th3518 Camiseta   Blanc/Marine-Forest 7vt   XX-Large  Talla del Fabricante: 7  para Hombre
+prodname: 'Lacoste Sport Th3518 Camiseta   Blanc/Marine-Forest 7vt   XX-Large  Talla del Fabricante: 7  para Hombre'
 ---
 
 Tienes [Lacoste Sport Th3518 Camiseta   Blanc/Marine-Forest 7vt   XX-Large  Talla del Fabricante: 7  para Hombre](https://www.amazon.es/dp/B07JDTF96B/?tag=tolees-21) con un 39.57 % de descuento con precio de oferta de 39.28 EUR (original: 65 EUR) en el siguiente enlace!

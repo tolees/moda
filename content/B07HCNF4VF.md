@@ -14,7 +14,7 @@ currency: EUR
 price: 237.99
 comparePrice: 479.0 EUR
 inStock: true
-prodname: Napapijri Skidoo WOM EF 2 Chaqueta  Azul  Blu Marine 176   XXL para Mujer
+prodname: 'Napapijri Skidoo WOM EF 2 Chaqueta  Azul  Blu Marine 176   XXL para Mujer'
 ---
 
 Ahora mismo tienes [Napapijri Skidoo WOM EF 2 Chaqueta  Azul  Blu Marine 176   XXL para Mujer](https://www.amazon.es/dp/B07HCNF4VF/?tag=tolees-21) a 237.99 EUR (original: 479.0 EUR) (50.32 %  de descuento) en el siguiente enlace!

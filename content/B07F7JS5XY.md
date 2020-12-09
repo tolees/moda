@@ -14,7 +14,7 @@ currency: EUR
 price: 135.62
 comparePrice: 299 EUR
 inStock: true
-prodname: Tommy Hilfiger Tommy Down Hooded Bomber  Chaqueta Hombre  Negro  Jet Black 083  XX-Large
+prodname: 'Tommy Hilfiger Tommy Down Hooded Bomber  Chaqueta Hombre  Negro  Jet Black 083  XX-Large'
 ---
 
 Está [Tommy Hilfiger Tommy Down Hooded Bomber  Chaqueta Hombre  Negro  Jet Black 083  XX-Large](https://www.amazon.es/dp/B07F7JS5XY/?tag=tolees-21) con 54.64 de descuento por 135.62 EUR (original: 299 EUR) en el siguiente enlace!

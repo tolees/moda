@@ -14,7 +14,7 @@ currency: EUR
 price: 10.95
 comparePrice: 20.94 EUR
 inStock: true
-prodname: Lotto Jersey Delta Camiseta de Fútbol  Hombre  Azul  nvy/Wht   L
+prodname: 'Lotto Jersey Delta Camiseta de Fútbol  Hombre  Azul  nvy/Wht   L'
 ---
 
 Tienes [Lotto Jersey Delta Camiseta de Fútbol  Hombre  Azul  nvy/Wht   L](https://www.amazon.es/dp/B073P7QTCY/?tag=tolees-21) con un 47.71 % de descuento con precio de oferta de 10.95 EUR (original: 20.94 EUR) en el siguiente enlace!

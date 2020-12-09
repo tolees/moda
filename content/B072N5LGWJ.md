@@ -14,7 +14,7 @@ currency: EUR
 price: 54.97
 comparePrice: 120 EUR
 inStock: true
-prodname: Tommy Hilfiger TH 1493/S IR Gafas de sol  Havana Brown  53 Unisex-Adulto
+prodname: 'Tommy Hilfiger TH 1493/S IR Gafas de sol  Havana Brown  53 Unisex-Adulto'
 ---
 
 Está [Tommy Hilfiger TH 1493/S IR Gafas de sol  Havana Brown  53 Unisex-Adulto](https://www.amazon.es/dp/B072N5LGWJ/?tag=tolees-21) con 54.19 de descuento por 54.97 EUR (original: 120 EUR) en el siguiente enlace!

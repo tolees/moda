@@ -14,7 +14,7 @@ currency: EUR
 price: 5.9
 comparePrice: 9.2 EUR
 inStock: true
-prodname: Marca Amazon - find. Jersey de Punto con Cuello Redondo para Hombre  Gris  Charcoal Marl Charcoal Marl   M  Label: M
+prodname: 'Marca Amazon - find. Jersey de Punto con Cuello Redondo para Hombre  Gris  Charcoal Marl Charcoal Marl   M  Label: M'
 ---
 
 Ahora mismo tienes [Marca Amazon - find. Jersey de Punto con Cuello Redondo para Hombre  Gris  Charcoal Marl Charcoal Marl   M  Label: M](https://www.amazon.es/dp/B07FNQND5X/?tag=tolees-21) a 5.9 EUR (original: 9.2 EUR) (35.87 %  de descuento) en el siguiente enlace!

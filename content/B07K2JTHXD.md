@@ -14,7 +14,7 @@ currency: EUR
 price: 15.54
 comparePrice: 45.74 EUR
 inStock: true
-prodname: New Look Hetty Collar  Chaqueta para Mujer  Rosa  Light Pink 70  44  Talla del Fabricante: 53 
+prodname: 'New Look Hetty Collar  Chaqueta para Mujer  Rosa  Light Pink 70  44  Talla del Fabricante: 53 '
 ---
 
 Está [New Look Hetty Collar  Chaqueta para Mujer  Rosa  Light Pink 70  44  Talla del Fabricante: 53 ](https://www.amazon.es/dp/B07K2JTHXD/?tag=tolees-21) con 66.03 de descuento por 15.54 EUR (original: 45.74 EUR) en el siguiente enlace!

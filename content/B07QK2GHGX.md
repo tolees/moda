@@ -14,7 +14,7 @@ currency: EUR
 price: 13
 comparePrice: 23.09 EUR
 inStock: true
-prodname: New Look Jane Twill Falda  Negro  Black 1   40  Talla del Fabricante: 12  para Mujer
+prodname: 'New Look Jane Twill Falda  Negro  Black 1   40  Talla del Fabricante: 12  para Mujer'
 ---
 
 Está [New Look Jane Twill Falda  Negro  Black 1   40  Talla del Fabricante: 12  para Mujer](https://www.amazon.es/dp/B07QK2GHGX/?tag=tolees-21) con 43.70 de descuento por 13 EUR (original: 23.09 EUR) en el siguiente enlace!

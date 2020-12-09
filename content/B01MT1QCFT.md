@@ -14,7 +14,7 @@ currency: EUR
 price: 13.29
 comparePrice: 18.99 EUR
 inStock: true
-prodname: Joopin Gafas de Sol Mujer Moda Polarizadas Protección UV400 de Gran Tamaño Gafas de Sol Señoras  Paquete simple negro 
+prodname: 'Joopin Gafas de Sol Mujer Moda Polarizadas Protección UV400 de Gran Tamaño Gafas de Sol Señoras  Paquete simple negro '
 ---
 
 Está [Joopin Gafas de Sol Mujer Moda Polarizadas Protección UV400 de Gran Tamaño Gafas de Sol Señoras  Paquete simple negro ](https://www.amazon.es/dp/B01MT1QCFT/?tag=tolees-21) con 30.02 de descuento por 13.29 EUR (original: 18.99 EUR) en el siguiente enlace!

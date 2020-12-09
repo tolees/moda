@@ -14,7 +14,7 @@ currency: EUR
 price: 23.57
 comparePrice: 49.95 EUR
 inStock: true
-prodname: Tamaris 23712-21  Zapatos de Cordones Derby para Mujer  Negro  Black Struct. 6   37 EU
+prodname: 'Tamaris 23712-21  Zapatos de Cordones Derby para Mujer  Negro  Black Struct. 6   37 EU'
 ---
 
 Ahora mismo tienes [Tamaris 23712-21  Zapatos de Cordones Derby para Mujer  Negro  Black Struct. 6   37 EU](https://www.amazon.es/dp/B07DK1YGN5/?tag=tolees-21) a 23.57 EUR (original: 49.95 EUR) (52.81 %  de descuento) en el siguiente enlace!

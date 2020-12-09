@@ -14,7 +14,7 @@ currency: EUR
 price: 24.13
 comparePrice: 49.99 EUR
 inStock: true
-prodname: DC Shoes Circle Star Sudadera  Niños  Verde  Burnt Olive/Black Xggk   años  Tamaño del Fabricante:14/L 
+prodname: 'DC Shoes Circle Star Sudadera  Niños  Verde  Burnt Olive/Black Xggk   años  Tamaño del Fabricante:14/L '
 ---
 
 Ahora mismo tienes [DC Shoes Circle Star Sudadera  Niños  Verde  Burnt Olive/Black Xggk   años  Tamaño del Fabricante:14/L ](https://www.amazon.es/dp/B07DHSP4GZ/?tag=tolees-21) a 24.13 EUR (original: 49.99 EUR) (51.73 %  de descuento) en el siguiente enlace!

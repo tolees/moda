@@ -14,7 +14,7 @@ currency: EUR
 price: 10.72
 comparePrice: 29.95 EUR
 inStock: true
-prodname: Trucco - Camiseta para mujer  color negro  talla L
+prodname: 'Trucco - Camiseta para mujer  color negro  talla L'
 ---
 
 Ahora mismo tienes [Trucco - Camiseta para mujer  color negro  talla L](https://www.amazon.es/dp/B075TDWKXD/?tag=tolees-21) a 10.72 EUR (original: 29.95 EUR) (64.21 %  de descuento) en el siguiente enlace!

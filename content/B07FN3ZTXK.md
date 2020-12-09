@@ -14,7 +14,7 @@ currency: EUR
 price: 18.99
 comparePrice: 39.99 EUR
 inStock: true
-prodname: Superdry O L Vintage Embroidery L/s tee Camisa Manga Larga  Negro  Black 02a   XS para Hombre
+prodname: 'Superdry O L Vintage Embroidery L/s tee Camisa Manga Larga  Negro  Black 02a   XS para Hombre'
 ---
 
 Está [Superdry O L Vintage Embroidery L/s tee Camisa Manga Larga  Negro  Black 02a   XS para Hombre](https://www.amazon.es/dp/B07FN3ZTXK/?tag=tolees-21) con 52.51 de descuento por 18.99 EUR (original: 39.99 EUR) en el siguiente enlace!

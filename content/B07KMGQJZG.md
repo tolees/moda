@@ -14,7 +14,7 @@ currency: EUR
 price: 61.11
 comparePrice: 110 EUR
 inStock: true
-prodname: BROOKS BROTHERS Denim Slim Lunghi Red Fleece Vaqueros  Azul  Navy 415   44  Talla del Fabricante: 31 32  para Hombre
+prodname: 'BROOKS BROTHERS Denim Slim Lunghi Red Fleece Vaqueros  Azul  Navy 415   44  Talla del Fabricante: 31 32  para Hombre'
 ---
 
 Ahora mismo tienes [BROOKS BROTHERS Denim Slim Lunghi Red Fleece Vaqueros  Azul  Navy 415   44  Talla del Fabricante: 31 32  para Hombre](https://www.amazon.es/dp/B07KMGQJZG/?tag=tolees-21) a 61.11 EUR (original: 110 EUR) (44.45 %  de descuento) en el siguiente enlace!

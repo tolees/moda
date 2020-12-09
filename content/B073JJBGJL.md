@@ -14,7 +14,7 @@ currency: EUR
 price: 16.1
 comparePrice: 39.99 EUR
 inStock: true
-prodname: Cortefiel C7CC Caja Estructura Jersey  Hombre  Azul  Blue   X-Large  Tamaño del fabricante:XL 
+prodname: 'Cortefiel C7CC Caja Estructura Jersey  Hombre  Azul  Blue   X-Large  Tamaño del fabricante:XL '
 ---
 
 Ahora mismo tienes [Cortefiel C7CC Caja Estructura Jersey  Hombre  Azul  Blue   X-Large  Tamaño del fabricante:XL ](https://www.amazon.es/dp/B073JJBGJL/?tag=tolees-21) a 16.1 EUR (original: 39.99 EUR) (59.74 %  de descuento) en el siguiente enlace!

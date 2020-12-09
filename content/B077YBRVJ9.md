@@ -14,7 +14,7 @@ currency: EUR
 price: 20.77
 comparePrice: 31.16 EUR
 inStock: true
-prodname: HIKARO Sudadera con Cuello Alto Mujer  Azul  Navy   44  Talla del fabricante: X-Large 
+prodname: 'HIKARO Sudadera con Cuello Alto Mujer  Azul  Navy   44  Talla del fabricante: X-Large '
 ---
 
 Tienes [HIKARO Sudadera con Cuello Alto Mujer  Azul  Navy   44  Talla del fabricante: X-Large ](https://www.amazon.es/dp/B077YBRVJ9/?tag=tolees-21) con un 33.34 % de descuento con precio de oferta de 20.77 EUR (original: 31.16 EUR) en el siguiente enlace!

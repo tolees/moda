@@ -14,7 +14,7 @@ currency: EUR
 price: 7.2
 comparePrice: 12.99 EUR
 inStock: true
-prodname: Springfield 5.T.Ap.Pv19.Panadera FK Blusa   Varios 98   Medium  Tamaño del Fabricante:M  para Mujer
+prodname: 'Springfield 5.T.Ap.Pv19.Panadera FK Blusa   Varios 98   Medium  Tamaño del Fabricante:M  para Mujer'
 ---
 
 Tienes [Springfield 5.T.Ap.Pv19.Panadera FK Blusa   Varios 98   Medium  Tamaño del Fabricante:M  para Mujer](https://www.amazon.es/dp/B07KYZFKFS/?tag=tolees-21) con un 44.57 % de descuento con precio de oferta de 7.2 EUR (original: 12.99 EUR) en el siguiente enlace!

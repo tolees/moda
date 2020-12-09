@@ -14,7 +14,7 @@ currency: EUR
 price: 23.05
 comparePrice: 53.86 EUR
 inStock: true
-prodname: Marca Amazon - MERAKI Anorak Largo Mujer con Capucha  Azul  Blue   40  Label: M
+prodname: 'Marca Amazon - MERAKI Anorak Largo Mujer con Capucha  Azul  Blue   40  Label: M'
 ---
 
 Ahora mismo tienes [Marca Amazon - MERAKI Anorak Largo Mujer con Capucha  Azul  Blue   40  Label: M](https://www.amazon.es/dp/B076PND2PZ/?tag=tolees-21) a 23.05 EUR (original: 53.86 EUR) (57.20 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 10
 comparePrice: 25 EUR
 inStock: true
-prodname: find. Sandalias Pala para Mujer  Verde  Green/nude   37 EU
+prodname: 'find. Sandalias Pala para Mujer  Verde  Green/nude   37 EU'
 ---
 
 Está [find. Sandalias Pala para Mujer  Verde  Green/nude   37 EU](https://www.amazon.es/dp/B06XRCVLCC/?tag=tolees-21) con 60.00 de descuento por 10 EUR (original: 25 EUR) en el siguiente enlace!

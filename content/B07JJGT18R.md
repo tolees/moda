@@ -14,7 +14,7 @@ currency: EUR
 price: 11.07
 comparePrice: 22.67 EUR
 inStock: true
-prodname: New Look Gemma 5934779  Camisa para Mujer  Gris  Light Grey 2  38  Talla del Fabricante: 10 
+prodname: 'New Look Gemma 5934779  Camisa para Mujer  Gris  Light Grey 2  38  Talla del Fabricante: 10 '
 ---
 
 Tienes [New Look Gemma 5934779  Camisa para Mujer  Gris  Light Grey 2  38  Talla del Fabricante: 10 ](https://www.amazon.es/dp/B07JJGT18R/?tag=tolees-21) con un 51.17 % de descuento con precio de oferta de 11.07 EUR (original: 22.67 EUR) en el siguiente enlace!

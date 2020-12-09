@@ -14,7 +14,7 @@ currency: EUR
 price: 58.74
 comparePrice: 139.95 EUR
 inStock: true
-prodname: G-STAR RAW 5620 Elwood 3D Slim Jeans  Vaqueros Hombre   Dk Aged Antic Restored 33 9892  W36/L36
+prodname: 'G-STAR RAW 5620 Elwood 3D Slim Jeans  Vaqueros Hombre   Dk Aged Antic Restored 33 9892  W36/L36'
 ---
 
 Tienes [G-STAR RAW 5620 Elwood 3D Slim Jeans  Vaqueros Hombre   Dk Aged Antic Restored 33 9892  W36/L36](https://www.amazon.es/dp/B07CZHXYRH/?tag=tolees-21) con un 58.03 % de descuento con precio de oferta de 58.74 EUR (original: 139.95 EUR) en el siguiente enlace!

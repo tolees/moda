@@ -14,7 +14,7 @@ currency: EUR
 price: 12.99
 comparePrice: 17.99 EUR
 inStock: true
-prodname: Jack & Jones JPRBLUWIN Polo SS STS Camisa  Red Dahlia  L para Hombre
+prodname: 'Jack & Jones JPRBLUWIN Polo SS STS Camisa  Red Dahlia  L para Hombre'
 ---
 
 Ahora mismo tienes [Jack & Jones JPRBLUWIN Polo SS STS Camisa  Red Dahlia  L para Hombre](https://www.amazon.es/dp/B07ZDFZS4S/?tag=tolees-21) a 12.99 EUR (original: 17.99 EUR) (27.79 %  de descuento) en el siguiente enlace!

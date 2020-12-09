@@ -14,7 +14,7 @@ currency: EUR
 price: 50.64
 comparePrice: 100 EUR
 inStock: true
-prodname: Levi s Big and Tall 501 Button Fly B&t Vaqueros Straight  Negro  Air Black Warp 0076   44W/34L para Hombre
+prodname: 'Levi s Big and Tall 501 Button Fly B&t Vaqueros Straight  Negro  Air Black Warp 0076   44W/34L para Hombre'
 ---
 
 Tienes [Levi s Big and Tall 501 Button Fly B&t Vaqueros Straight  Negro  Air Black Warp 0076   44W/34L para Hombre](https://www.amazon.es/dp/B07GKZ9K2F/?tag=tolees-21) con un 49.36 % de descuento con precio de oferta de 50.64 EUR (original: 100 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 22.88
 comparePrice: 110 EUR
 inStock: true
-prodname: Pepe Jeans Cash Journey  Vaqueros Para Hombre  Azul  Denim- Long   W31  Talla fabricante: 31 
+prodname: 'Pepe Jeans Cash Journey  Vaqueros Para Hombre  Azul  Denim- Long   W31  Talla fabricante: 31 '
 ---
 
 Ahora mismo tienes [Pepe Jeans Cash Journey  Vaqueros Para Hombre  Azul  Denim- Long   W31  Talla fabricante: 31 ](https://www.amazon.es/dp/B01N6CMMMI/?tag=tolees-21) a 22.88 EUR (original: 110 EUR) (79.20 %  de descuento) en el siguiente enlace!

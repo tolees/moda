@@ -14,7 +14,7 @@ currency: EUR
 price: 14.62
 comparePrice: 49.99 EUR
 inStock: true
-prodname: Cortefiel 1236628  Pantalón Chino para Hombre  Beige  ES 46
+prodname: 'Cortefiel 1236628  Pantalón Chino para Hombre  Beige  ES 46'
 ---
 
 Tienes [Cortefiel 1236628  Pantalón Chino para Hombre  Beige  ES 46](https://www.amazon.es/dp/B01IHIDRQU/?tag=tolees-21) con un 70.75 % de descuento con precio de oferta de 14.62 EUR (original: 49.99 EUR) en el siguiente enlace!

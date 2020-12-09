@@ -14,7 +14,7 @@ currency: EUR
 price: 15.99
 comparePrice: 34.95 EUR
 inStock: true
-prodname: DoGeek Escarpines Antideslizante Zapato de Agua Zapatos de Playa Escarpines Calzado de Playa Surf
+prodname: 'DoGeek Escarpines Antideslizante Zapato de Agua Zapatos de Playa Escarpines Calzado de Playa Surf'
 ---
 
 Está [DoGeek Escarpines Antideslizante Zapato de Agua Zapatos de Playa Escarpines Calzado de Playa Surf](https://www.amazon.es/dp/B071XH6NGB/?tag=tolees-21) con 54.25 de descuento por 15.99 EUR (original: 34.95 EUR) en el siguiente enlace!

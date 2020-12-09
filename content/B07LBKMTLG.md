@@ -14,7 +14,7 @@ currency: EUR
 price: 34.6
 comparePrice: 69.9 EUR
 inStock: true
-prodname: Tommy Hilfiger Elfie Lace Open-nk Top 1/2 Slv Camiseta  Blanco  Classic White 100   X-Small para Mujer
+prodname: 'Tommy Hilfiger Elfie Lace Open-nk Top 1/2 Slv Camiseta  Blanco  Classic White 100   X-Small para Mujer'
 ---
 
 Ahora mismo tienes [Tommy Hilfiger Elfie Lace Open-nk Top 1/2 Slv Camiseta  Blanco  Classic White 100   X-Small para Mujer](https://www.amazon.es/dp/B07LBKMTLG/?tag=tolees-21) a 34.6 EUR (original: 69.9 EUR) (50.50 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 14.99
 comparePrice: 35.65 EUR
 inStock: true
-prodname: Mujer Bikini Dos Piezas Tiras Traje de baño de Talle Alto Bañador Estampado De Piña
+prodname: 'Mujer Bikini Dos Piezas Tiras Traje de baño de Talle Alto Bañador Estampado De Piña'
 ---
 
 Está [Mujer Bikini Dos Piezas Tiras Traje de baño de Talle Alto Bañador Estampado De Piña](https://www.amazon.es/dp/B07PQHN7JX/?tag=tolees-21) con 57.95 de descuento por 14.99 EUR (original: 35.65 EUR) en el siguiente enlace!

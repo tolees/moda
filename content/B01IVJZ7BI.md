@@ -14,7 +14,7 @@ currency: EUR
 price: 43.49
 comparePrice: 100.0 EUR
 inStock: true
-prodname: VAUDE Men s Luminum Performance Pants - Pantalón Color Black  Talla XL
+prodname: 'VAUDE Men s Luminum Performance Pants - Pantalón Color Black  Talla XL'
 ---
 
 Tienes [VAUDE Men s Luminum Performance Pants - Pantalón Color Black  Talla XL](https://www.amazon.es/dp/B01IVJZ7BI/?tag=tolees-21) con un 56.51 % de descuento con precio de oferta de 43.49 EUR (original: 100.0 EUR) en el siguiente enlace!

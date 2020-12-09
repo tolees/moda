@@ -14,7 +14,7 @@ currency: EUR
 price: 9.13
 comparePrice: 35.99 EUR
 inStock: true
-prodname: Springfield 6.J.MD.T.Lavanda Jersey  Mujer  Azul  Gama Azules 11   Small  Tamaño del Fabricante:S 
+prodname: 'Springfield 6.J.MD.T.Lavanda Jersey  Mujer  Azul  Gama Azules 11   Small  Tamaño del Fabricante:S '
 ---
 
 Está [Springfield 6.J.MD.T.Lavanda Jersey  Mujer  Azul  Gama Azules 11   Small  Tamaño del Fabricante:S ](https://www.amazon.es/dp/B07DLLJGT2/?tag=tolees-21) con 74.63 de descuento por 9.13 EUR (original: 35.99 EUR) en el siguiente enlace!

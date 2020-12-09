@@ -14,7 +14,7 @@ currency: EUR
 price: 72.29
 comparePrice: 129.99 EUR
 inStock: true
-prodname: Columbia Powder Lite  Chaqueta con capucha  Mujer  Amarillo  Raw Honey  Talla XS
+prodname: 'Columbia Powder Lite  Chaqueta con capucha  Mujer  Amarillo  Raw Honey  Talla XS'
 ---
 
 Tienes [Columbia Powder Lite  Chaqueta con capucha  Mujer  Amarillo  Raw Honey  Talla XS](https://www.amazon.es/dp/B07R92MTCY/?tag=tolees-21) con un 44.39 % de descuento con precio de oferta de 72.29 EUR (original: 129.99 EUR) en el siguiente enlace!

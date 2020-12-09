@@ -14,7 +14,7 @@ currency: EUR
 price: 62.99
 comparePrice: 140.0 EUR
 inStock: true
-prodname: Timberland Bradstreet Leather Sensorflex   Botas Chukka Hombre  Negro Nubuck  43 EU
+prodname: 'Timberland Bradstreet Leather Sensorflex   Botas Chukka Hombre  Negro Nubuck  43 EU'
 ---
 
 Tienes [Timberland Bradstreet Leather Sensorflex   Botas Chukka Hombre  Negro Nubuck  43 EU](https://www.amazon.es/dp/B014YHPMHK/?tag=tolees-21) con un 55.01 % de descuento con precio de oferta de 62.99 EUR (original: 140.0 EUR) en el siguiente enlace!

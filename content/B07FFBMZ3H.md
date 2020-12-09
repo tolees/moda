@@ -14,7 +14,7 @@ currency: EUR
 price: 64.39
 comparePrice: 119.99 EUR
 inStock: true
-prodname: Quiksilver Brooks Full Zip Chaqueta  Hombre  Negro  Tarmac KTA0   Small  Tamaño del Fabricante:S 
+prodname: 'Quiksilver Brooks Full Zip Chaqueta  Hombre  Negro  Tarmac KTA0   Small  Tamaño del Fabricante:S '
 ---
 
 Está [Quiksilver Brooks Full Zip Chaqueta  Hombre  Negro  Tarmac KTA0   Small  Tamaño del Fabricante:S ](https://www.amazon.es/dp/B07FFBMZ3H/?tag=tolees-21) con 46.34 de descuento por 64.39 EUR (original: 119.99 EUR) en el siguiente enlace!

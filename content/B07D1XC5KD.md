@@ -14,7 +14,7 @@ currency: EUR
 price: 69.96
 comparePrice: 210 EUR
 inStock: true
-prodname: Armani Exchange 6zyh18  Blusa para Mujer  Negro  Black 1200  X-Small
+prodname: 'Armani Exchange 6zyh18  Blusa para Mujer  Negro  Black 1200  X-Small'
 ---
 
 Está [Armani Exchange 6zyh18  Blusa para Mujer  Negro  Black 1200  X-Small](https://www.amazon.es/dp/B07D1XC5KD/?tag=tolees-21) con 66.69 de descuento por 69.96 EUR (original: 210 EUR) en el siguiente enlace!

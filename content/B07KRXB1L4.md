@@ -14,7 +14,7 @@ currency: EUR
 price: 17.95
 comparePrice: 29.99 EUR
 inStock: true
-prodname: Columbia Hombre Camiseta  Onchan Park Tee  Algodón  Verde  Cypress/Graphic 2   Talla: XS  1841974
+prodname: 'Columbia Hombre Camiseta  Onchan Park Tee  Algodón  Verde  Cypress/Graphic 2   Talla: XS  1841974'
 ---
 
 Tienes [Columbia Hombre Camiseta  Onchan Park Tee  Algodón  Verde  Cypress/Graphic 2   Talla: XS  1841974](https://www.amazon.es/dp/B07KRXB1L4/?tag=tolees-21) con un 40.15 % de descuento con precio de oferta de 17.95 EUR (original: 29.99 EUR) en el siguiente enlace!

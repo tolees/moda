@@ -14,7 +14,7 @@ currency: EUR
 price: 36.63
 comparePrice: 58.8 EUR
 inStock: true
-prodname: Trangoworld Yosa Camiseta Interior  Hombre  Negro  L
+prodname: 'Trangoworld Yosa Camiseta Interior  Hombre  Negro  L'
 ---
 
 Ahora mismo tienes [Trangoworld Yosa Camiseta Interior  Hombre  Negro  L](https://www.amazon.es/dp/B07FKNF83M/?tag=tolees-21) a 36.63 EUR (original: 58.8 EUR) (37.70 %  de descuento) en el siguiente enlace!

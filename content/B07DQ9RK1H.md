@@ -14,7 +14,7 @@ currency: EUR
 price: 33.71
 comparePrice: 64.99 EUR
 inStock: true
-prodname: Columbia Saturday Trail II Pantalón de Senderismo hasta  Nailon  Mujer  Verde  Pond   Talla US: W12/L18/  EU W44/L18 
+prodname: 'Columbia Saturday Trail II Pantalón de Senderismo hasta  Nailon  Mujer  Verde  Pond   Talla US: W12/L18/  EU W44/L18 '
 ---
 
 Está [Columbia Saturday Trail II Pantalón de Senderismo hasta  Nailon  Mujer  Verde  Pond   Talla US: W12/L18/  EU W44/L18 ](https://www.amazon.es/dp/B07DQ9RK1H/?tag=tolees-21) con 48.13 de descuento por 33.71 EUR (original: 64.99 EUR) en el siguiente enlace!

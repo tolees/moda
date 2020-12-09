@@ -14,7 +14,7 @@ currency: EUR
 price: 13.57
 comparePrice: 32.95 EUR
 inStock: true
-prodname: Boss Trunk Microprint  Bóxer para Hombre  Azul  Dark Blue 406  Medium
+prodname: 'Boss Trunk Microprint  Bóxer para Hombre  Azul  Dark Blue 406  Medium'
 ---
 
 Tienes [Boss Trunk Microprint  Bóxer para Hombre  Azul  Dark Blue 406  Medium](https://www.amazon.es/dp/B07G4FG8RD/?tag=tolees-21) con un 58.82 % de descuento con precio de oferta de 13.57 EUR (original: 32.95 EUR) en el siguiente enlace!

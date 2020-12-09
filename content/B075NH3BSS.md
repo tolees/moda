@@ -14,7 +14,7 @@ currency: EUR
 price: 9.08
 comparePrice: 39.99 EUR
 inStock: true
-prodname: Tom Tailor Trendy Cosy Sweatshirt  Sudadera para Mujer  Azul  Real Navy Blue 6593   36  Talla del Fabricante: Small 
+prodname: 'Tom Tailor Trendy Cosy Sweatshirt  Sudadera para Mujer  Azul  Real Navy Blue 6593   36  Talla del Fabricante: Small '
 ---
 
 Ahora mismo tienes [Tom Tailor Trendy Cosy Sweatshirt  Sudadera para Mujer  Azul  Real Navy Blue 6593   36  Talla del Fabricante: Small ](https://www.amazon.es/dp/B075NH3BSS/?tag=tolees-21) a 9.08 EUR (original: 39.99 EUR) (77.29 %  de descuento) en el siguiente enlace!

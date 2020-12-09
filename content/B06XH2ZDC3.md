@@ -14,13 +14,15 @@ currency: EUR
 price: 31.39
 comparePrice: 61 EUR
 inStock: true
-prodname: Polaroid PLD 1023/S OZ 202 Gafas de Sol  Marrón  Brown Havana/Red Grey Speckled Pz   51 Unisex-Adulto
+prodname: 'Polaroid PLD 1023/S OZ 202 Gafas de Sol  Marrón  Brown Havana/Red Grey Speckled Pz   51 Unisex-Adulto'
 ---
 
-Ahora mismo tienes [Polaroid PLD 1023/S OZ 202 Gafas de Sol  Marrón  Brown Havana/Red Grey Speckled Pz   51 Unisex-Adulto](https://www.amazon.es/dp/B06XH2ZDC3/?tag=tolees-21) a 31.39 EUR (original: 61 EUR) (48.54 %  de descuento) en el siguiente enlace!
+Está [Polaroid PLD 1023/S OZ 202 Gafas de Sol  Marrón  Brown Havana/Red Grey Speckled Pz   51 Unisex-Adulto](https://www.amazon.es/dp/B06XH2ZDC3/?tag=tolees-21) con 48.54 de descuento por 31.39 EUR (original: 61 EUR) en el siguiente enlace!
 
 [![Polaroid PLD 1023/S OZ 202 Gafas de Sol ](https://images-eu.ssl-images-amazon.com/images/I/31%2B-dz-heBL._SL200_.jpg)](https://www.amazon.es/dp/B06XH2ZDC3/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B06XH2ZDC3/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B06XH2ZDC3/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

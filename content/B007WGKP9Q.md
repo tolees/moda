@@ -14,7 +14,7 @@ currency: EUR
 price: 12.97
 comparePrice: 26 EUR
 inStock: true
-prodname: Nike Pico 4  Tdv   Zapatos de Primeros Pasos para Bebés  Negro  Black/Black/Metallic Silver 001   17 EU
+prodname: 'Nike Pico 4  Tdv   Zapatos de Primeros Pasos para Bebés  Negro  Black/Black/Metallic Silver 001   17 EU'
 ---
 
 Tienes [Nike Pico 4  Tdv   Zapatos de Primeros Pasos para Bebés  Negro  Black/Black/Metallic Silver 001   17 EU](https://www.amazon.es/dp/B007WGKP9Q/?tag=tolees-21) con un 50.12 % de descuento con precio de oferta de 12.97 EUR (original: 26 EUR) en el siguiente enlace!

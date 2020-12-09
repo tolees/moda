@@ -14,7 +14,7 @@ currency: EUR
 price: 16.37
 comparePrice: 49 EUR
 inStock: true
-prodname: Diesel T-Flavia-B  Camiseta para Mujer  Blanco 100  Small  Tamaño del Fabricante:S 
+prodname: 'Diesel T-Flavia-B  Camiseta para Mujer  Blanco 100  Small  Tamaño del Fabricante:S '
 ---
 
 Está [Diesel T-Flavia-B  Camiseta para Mujer  Blanco 100  Small  Tamaño del Fabricante:S ](https://www.amazon.es/dp/B07CNNY2MC/?tag=tolees-21) con 66.59 de descuento por 16.37 EUR (original: 49 EUR) en el siguiente enlace!

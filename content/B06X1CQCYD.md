@@ -14,7 +14,7 @@ currency: EUR
 price: 21
 comparePrice: 70 EUR
 inStock: true
-prodname: find. Botines Estilo Chelsea para Mujer  Negro  Black   36 EU
+prodname: 'find. Botines Estilo Chelsea para Mujer  Negro  Black   36 EU'
 ---
 
 Tienes [find. Botines Estilo Chelsea para Mujer  Negro  Black   36 EU](https://www.amazon.es/dp/B06X1CQCYD/?tag=tolees-21) con un 70.00 % de descuento con precio de oferta de 21 EUR (original: 70 EUR) en el siguiente enlace!

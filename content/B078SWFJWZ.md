@@ -14,7 +14,7 @@ currency: EUR
 price: 224.29
 comparePrice: 599.99 EUR
 inStock: true
-prodname: Gant The Rough Weather Slicker  Chaqueta Hombre  Azul  Navy   Large
+prodname: 'Gant The Rough Weather Slicker  Chaqueta Hombre  Azul  Navy   Large'
 ---
 
 Ahora mismo tienes [Gant The Rough Weather Slicker  Chaqueta Hombre  Azul  Navy   Large](https://www.amazon.es/dp/B078SWFJWZ/?tag=tolees-21) a 224.29 EUR (original: 599.99 EUR) (62.62 %  de descuento) en el siguiente enlace!

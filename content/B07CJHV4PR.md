@@ -14,7 +14,7 @@ currency: EUR
 price: 17.43
 comparePrice: 49.99 EUR
 inStock: true
-prodname: Only Onltahoe Hood Jacket Otw Noos  Chaqueta para Mujer  Rosa Misty Rose  44  Talla del Fabricante: XX-Large 
+prodname: 'Only Onltahoe Hood Jacket Otw Noos  Chaqueta para Mujer  Rosa Misty Rose  44  Talla del Fabricante: XX-Large '
 ---
 
 Tienes [Only Onltahoe Hood Jacket Otw Noos  Chaqueta para Mujer  Rosa Misty Rose  44  Talla del Fabricante: XX-Large ](https://www.amazon.es/dp/B07CJHV4PR/?tag=tolees-21) con un 65.13 % de descuento con precio de oferta de 17.43 EUR (original: 49.99 EUR) en el siguiente enlace!

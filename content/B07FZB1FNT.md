@@ -14,7 +14,7 @@ currency: EUR
 price: 3.97
 comparePrice: 5.75 EUR
 inStock: true
-prodname: Lámpara de lectura LED ultraligera de moda para el viento Lámpara de lectura portátil alimentada por pila AAA con tubo flexible PY-X7188
+prodname: 'Lámpara de lectura LED ultraligera de moda para el viento Lámpara de lectura portátil alimentada por pila AAA con tubo flexible PY-X7188'
 ---
 
 Ahora mismo tienes [Lámpara de lectura LED ultraligera de moda para el viento Lámpara de lectura portátil alimentada por pila AAA con tubo flexible PY-X7188](https://www.amazon.es/dp/B07FZB1FNT/?tag=tolees-21) a 3.97 EUR (original: 5.75 EUR) (30.96 %  de descuento) en el siguiente enlace!

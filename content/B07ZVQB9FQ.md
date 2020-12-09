@@ -14,7 +14,7 @@ currency: EUR
 price: 48.33
 comparePrice: 65.0 EUR
 inStock: true
-prodname: Levi s Crew Sudadera  Chisel Grey Heather  S para Hombre
+prodname: 'Levi s Crew Sudadera  Chisel Grey Heather  S para Hombre'
 ---
 
 Está [Levi s Crew Sudadera  Chisel Grey Heather  S para Hombre](https://www.amazon.es/dp/B07ZVQB9FQ/?tag=tolees-21) con 25.65 de descuento por 48.33 EUR (original: 65.0 EUR) en el siguiente enlace!

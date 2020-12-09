@@ -14,7 +14,7 @@ currency: EUR
 price: 24.5
 comparePrice: 44.9 EUR
 inStock: true
-prodname: Tommy Hilfiger 3p Boxer Brief  Rosa  Grey Heather 004   Medium para Hombre
+prodname: 'Tommy Hilfiger 3p Boxer Brief  Rosa  Grey Heather 004   Medium para Hombre'
 ---
 
 Está [Tommy Hilfiger 3p Boxer Brief  Rosa  Grey Heather 004   Medium para Hombre](https://www.amazon.es/dp/B07DCWKYTD/?tag=tolees-21) con 45.43 de descuento por 24.5 EUR (original: 44.9 EUR) en el siguiente enlace!

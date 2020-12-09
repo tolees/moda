@@ -14,7 +14,7 @@ currency: EUR
 price: 7.36
 comparePrice: 19.88 EUR
 inStock: true
-prodname: New Look Burgundy Tile Print 6053063  Camisa para Hombre  Rojo  Dark 67   X-Large  Talla del Fabricante: 54 
+prodname: 'New Look Burgundy Tile Print 6053063  Camisa para Hombre  Rojo  Dark 67   X-Large  Talla del Fabricante: 54 '
 ---
 
 Tienes [New Look Burgundy Tile Print 6053063  Camisa para Hombre  Rojo  Dark 67   X-Large  Talla del Fabricante: 54 ](https://www.amazon.es/dp/B07LD5Z2HJ/?tag=tolees-21) con un 62.98 % de descuento con precio de oferta de 7.36 EUR (original: 19.88 EUR) en el siguiente enlace!

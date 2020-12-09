@@ -14,7 +14,7 @@ currency: EUR
 price: 12.59
 comparePrice: 65.95 EUR
 inStock: true
-prodname: Marco Tozzi Premio 23733  Zapatos de Vestir para Mujer  Rosa  Rose   39 EU
+prodname: 'Marco Tozzi Premio 23733  Zapatos de Vestir para Mujer  Rosa  Rose   39 EU'
 ---
 
 Ahora mismo tienes [Marco Tozzi Premio 23733  Zapatos de Vestir para Mujer  Rosa  Rose   39 EU](https://www.amazon.es/dp/B071LFHXMR/?tag=tolees-21) a 12.59 EUR (original: 65.95 EUR) (80.91 %  de descuento) en el siguiente enlace!

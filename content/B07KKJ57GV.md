@@ -14,7 +14,7 @@ currency: EUR
 price: 8.66
 comparePrice: 30 EUR
 inStock: true
-prodname: Naf Naf Keng9 Chaqueta Punto  Beige  Creme 271   X-Large para Mujer
+prodname: 'Naf Naf Keng9 Chaqueta Punto  Beige  Creme 271   X-Large para Mujer'
 ---
 
 Tienes [Naf Naf Keng9 Chaqueta Punto  Beige  Creme 271   X-Large para Mujer](https://www.amazon.es/dp/B07KKJ57GV/?tag=tolees-21) con un 71.13 % de descuento con precio de oferta de 8.66 EUR (original: 30 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 24
 comparePrice: 32.9 EUR
 inStock: true
-prodname: Crocs Crocband Sandal Kids  Sandalias Unisex Niños  Rosa  Candy Party Pink   32/33 EU
+prodname: 'Crocs Crocband Sandal Kids  Sandalias Unisex Niños  Rosa  Candy Party Pink   32/33 EU'
 ---
 
 Tienes [Crocs Crocband Sandal Kids  Sandalias Unisex Niños  Rosa  Candy Party Pink   32/33 EU](https://www.amazon.es/dp/B01DEB73HO/?tag=tolees-21) con un 27.05 % de descuento con precio de oferta de 24 EUR (original: 32.9 EUR) en el siguiente enlace!

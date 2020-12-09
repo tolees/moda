@@ -14,7 +14,7 @@ currency: EUR
 price: 28.73
 comparePrice: 54.99 EUR
 inStock: true
-prodname: Under Armour Rival Fitted Full Zip Sudadera  Hombre  Marrón  Silt Brown/Black 221   S
+prodname: 'Under Armour Rival Fitted Full Zip Sudadera  Hombre  Marrón  Silt Brown/Black 221   S'
 ---
 
 Ahora mismo tienes [Under Armour Rival Fitted Full Zip Sudadera  Hombre  Marrón  Silt Brown/Black 221   S](https://www.amazon.es/dp/B07KGY2GLP/?tag=tolees-21) a 28.73 EUR (original: 54.99 EUR) (47.75 %  de descuento) en el siguiente enlace!

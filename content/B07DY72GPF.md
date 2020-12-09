@@ -14,7 +14,7 @@ currency: EUR
 price: 13.62
 comparePrice: 20 EUR
 inStock: true
-prodname: Under Armour - Camiseta de Tirantes para Mujer  Mujer  1325580-436  Blue Circuit Light Heather/Tonal  XS
+prodname: 'Under Armour - Camiseta de Tirantes para Mujer  Mujer  1325580-436  Blue Circuit Light Heather/Tonal  XS'
 ---
 
 Tienes [Under Armour - Camiseta de Tirantes para Mujer  Mujer  1325580-436  Blue Circuit Light Heather/Tonal  XS](https://www.amazon.es/dp/B07DY72GPF/?tag=tolees-21) con un 31.90 % de descuento con precio de oferta de 13.62 EUR (original: 20 EUR) en el siguiente enlace!

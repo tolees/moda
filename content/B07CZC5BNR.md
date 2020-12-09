@@ -14,7 +14,7 @@ currency: EUR
 price: 15
 comparePrice: 30 EUR
 inStock: true
-prodname: Reef One Slide  Chanclas para Hombre  Azul  Navy/White Naw   37.5 EU
+prodname: 'Reef One Slide  Chanclas para Hombre  Azul  Navy/White Naw   37.5 EU'
 ---
 
 Ahora mismo tienes [Reef One Slide  Chanclas para Hombre  Azul  Navy/White Naw   37.5 EU](https://www.amazon.es/dp/B07CZC5BNR/?tag=tolees-21) a 15 EUR (original: 30 EUR) (50.00 %  de descuento) en el siguiente enlace!

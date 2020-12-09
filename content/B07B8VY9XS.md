@@ -14,7 +14,7 @@ currency: EUR
 price: 33.72
 comparePrice: 150 EUR
 inStock: true
-prodname: Clarks Un Atlas Logtx  Zapatos de Cordones Derby para Hombre  Negro  Black Nubuck   41 EU
+prodname: 'Clarks Un Atlas Logtx  Zapatos de Cordones Derby para Hombre  Negro  Black Nubuck   41 EU'
 ---
 
 Ahora mismo tienes [Clarks Un Atlas Logtx  Zapatos de Cordones Derby para Hombre  Negro  Black Nubuck   41 EU](https://www.amazon.es/dp/B07B8VY9XS/?tag=tolees-21) a 33.72 EUR (original: 150 EUR) (77.52 %  de descuento) en el siguiente enlace!

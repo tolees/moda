@@ -14,7 +14,7 @@ currency: EUR
 price: 13.75
 comparePrice: 54.4 EUR
 inStock: true
-prodname: Kaporal DELIXE17M42  Camisa para Hombre  Blanco  White   L
+prodname: 'Kaporal DELIXE17M42  Camisa para Hombre  Blanco  White   L'
 ---
 
 Ahora mismo tienes [Kaporal DELIXE17M42  Camisa para Hombre  Blanco  White   L](https://www.amazon.es/dp/B01MQ2BQFR/?tag=tolees-21) a 13.75 EUR (original: 54.4 EUR) (74.72 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 57.89
 comparePrice: 115.0 EUR
 inStock: true
-prodname: Geox U Snake.2 A  Zapatillas para Hombre  Blanco  White/Lt Grey C1995   43 EU
+prodname: 'Geox U Snake.2 A  Zapatillas para Hombre  Blanco  White/Lt Grey C1995   43 EU'
 ---
 
 Tienes [Geox U Snake.2 A  Zapatillas para Hombre  Blanco  White/Lt Grey C1995   43 EU](https://www.amazon.es/dp/B07SSJW7CT/?tag=tolees-21) con un 49.66 % de descuento con precio de oferta de 57.89 EUR (original: 115.0 EUR) en el siguiente enlace!

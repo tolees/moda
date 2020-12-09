@@ -14,7 +14,7 @@ currency: EUR
 price: 12.37
 comparePrice: 25 EUR
 inStock: true
-prodname: find. Camiseta con Lazo para Mujer   Azul  Navy Mix   38  Talla del Fabricante: Small 
+prodname: 'find. Camiseta con Lazo para Mujer   Azul  Navy Mix   38  Talla del Fabricante: Small '
 ---
 
 Está [find. Camiseta con Lazo para Mujer   Azul  Navy Mix   38  Talla del Fabricante: Small ](https://www.amazon.es/dp/B06WRWGWJZ/?tag=tolees-21) con 50.52 de descuento por 12.37 EUR (original: 25 EUR) en el siguiente enlace!

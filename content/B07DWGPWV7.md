@@ -14,7 +14,7 @@ currency: EUR
 price: 24.45
 comparePrice: 45 EUR
 inStock: true
-prodname: Under Armour - Sudadera de algodón con cremallera  Niños  Granate   XL
+prodname: 'Under Armour - Sudadera de algodón con cremallera  Niños  Granate   XL'
 ---
 
 Tienes [Under Armour - Sudadera de algodón con cremallera  Niños  Granate   XL](https://www.amazon.es/dp/B07DWGPWV7/?tag=tolees-21) con un 45.67 % de descuento con precio de oferta de 24.45 EUR (original: 45 EUR) en el siguiente enlace!

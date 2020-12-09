@@ -14,7 +14,7 @@ currency: EUR
 price: 19.2
 comparePrice: 29.95 EUR
 inStock: true
-prodname: adidas Freelift Cl  Camiseta de Tirantes Hombre  Blanco  Cloud White   Medium
+prodname: 'adidas Freelift Cl  Camiseta de Tirantes Hombre  Blanco  Cloud White   Medium'
 ---
 
 Tienes [adidas Freelift Cl  Camiseta de Tirantes Hombre  Blanco  Cloud White   Medium](https://www.amazon.es/dp/B07DFB7LWT/?tag=tolees-21) con un 35.89 % de descuento con precio de oferta de 19.2 EUR (original: 29.95 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 82.95
 comparePrice: 170 EUR
 inStock: true
-prodname: Fly London Site360fly  Botines para Mujer  Verde  Petrol 005   37 EU
+prodname: 'Fly London Site360fly  Botines para Mujer  Verde  Petrol 005   37 EU'
 ---
 
 Está [Fly London Site360fly  Botines para Mujer  Verde  Petrol 005   37 EU](https://www.amazon.es/dp/B07CHQ2S8M/?tag=tolees-21) con 51.21 de descuento por 82.95 EUR (original: 170 EUR) en el siguiente enlace!

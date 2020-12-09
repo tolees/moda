@@ -14,7 +14,7 @@ currency: EUR
 price: 38.57
 comparePrice: 109.9 EUR
 inStock: true
-prodname: Geox U Federico V  Zapatos de Cordones Derby Hombre  Negro  Black C9999   46 EU
+prodname: 'Geox U Federico V  Zapatos de Cordones Derby Hombre  Negro  Black C9999   46 EU'
 ---
 
 Ahora mismo tienes [Geox U Federico V  Zapatos de Cordones Derby Hombre  Negro  Black C9999   46 EU](https://www.amazon.es/dp/B005DXDY2U/?tag=tolees-21) a 38.57 EUR (original: 109.9 EUR) (64.90 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 11.79
 comparePrice: 22.99 EUR
 inStock: true
-prodname: JACK & JONES Jormetallica tee SS Crew Neck  Camiseta para Hombre  Blanco  White Box Fit   Large
+prodname: 'JACK & JONES Jormetallica tee SS Crew Neck  Camiseta para Hombre  Blanco  White Box Fit   Large'
 ---
 
 Tienes [JACK & JONES Jormetallica tee SS Crew Neck  Camiseta para Hombre  Blanco  White Box Fit   Large](https://www.amazon.es/dp/B07JYYDQKN/?tag=tolees-21) con un 48.72 % de descuento con precio de oferta de 11.79 EUR (original: 22.99 EUR) en el siguiente enlace!

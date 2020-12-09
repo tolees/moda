@@ -14,7 +14,7 @@ currency: EUR
 price: 3.99
 comparePrice: 7.18 EUR
 inStock: true
-prodname: Homyl Dulce Camiseta de Manga Corta + Falda de Moda para 16 Pulgadas Muñeca de Salón
+prodname: 'Homyl Dulce Camiseta de Manga Corta + Falda de Moda para 16 Pulgadas Muñeca de Salón'
 ---
 
 Ahora mismo tienes [Homyl Dulce Camiseta de Manga Corta + Falda de Moda para 16 Pulgadas Muñeca de Salón](https://www.amazon.es/dp/B07C8JKLZX/?tag=tolees-21) a 3.99 EUR (original: 7.18 EUR) (44.43 %  de descuento) en el siguiente enlace!

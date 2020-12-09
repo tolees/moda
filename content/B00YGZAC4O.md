@@ -14,7 +14,7 @@ currency: EUR
 price: 13.2
 comparePrice: 119.99 EUR
 inStock: true
-prodname: Tom Tailor blazer/508 - Chaqueta de traje para hombre  color azul  knitted navy 6800   talla 36L
+prodname: 'Tom Tailor blazer/508 - Chaqueta de traje para hombre  color azul  knitted navy 6800   talla 36L'
 ---
 
 Tienes [Tom Tailor blazer/508 - Chaqueta de traje para hombre  color azul  knitted navy 6800   talla 36L](https://www.amazon.es/dp/B00YGZAC4O/?tag=tolees-21) con un 89.00 % de descuento con precio de oferta de 13.2 EUR (original: 119.99 EUR) en el siguiente enlace!

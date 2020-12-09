@@ -14,7 +14,7 @@ currency: EUR
 price: 17.79
 comparePrice: 39 EUR
 inStock: true
-prodname: Tommy Jeans TJW 1985 Embroidery tee Camiseta  Azul  Canal Blue 407   XS para Mujer
+prodname: 'Tommy Jeans TJW 1985 Embroidery tee Camiseta  Azul  Canal Blue 407   XS para Mujer'
 ---
 
 Tienes [Tommy Jeans TJW 1985 Embroidery tee Camiseta  Azul  Canal Blue 407   XS para Mujer](https://www.amazon.es/dp/B07LBLTVYP/?tag=tolees-21) con un 54.38 % de descuento con precio de oferta de 17.79 EUR (original: 39 EUR) en el siguiente enlace!

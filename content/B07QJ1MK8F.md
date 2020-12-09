@@ -14,7 +14,7 @@ currency: EUR
 price: 11
 comparePrice: 23.09 EUR
 inStock: true
-prodname: New Look Bermuda Button Falda  Verde  Light Green 31   38  Talla del Fabricante: 10  para Mujer
+prodname: 'New Look Bermuda Button Falda  Verde  Light Green 31   38  Talla del Fabricante: 10  para Mujer'
 ---
 
 Está [New Look Bermuda Button Falda  Verde  Light Green 31   38  Talla del Fabricante: 10  para Mujer](https://www.amazon.es/dp/B07QJ1MK8F/?tag=tolees-21) con 52.36 de descuento por 11 EUR (original: 23.09 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 24.95
 comparePrice: 55 EUR
 inStock: true
-prodname: Geox J Artach Boy A  Zapatillas para Niños   Coffee/Royal C6483   32 EU
+prodname: 'Geox J Artach Boy A  Zapatillas para Niños   Coffee/Royal C6483   32 EU'
 ---
 
 Está [Geox J Artach Boy A  Zapatillas para Niños   Coffee/Royal C6483   32 EU](https://www.amazon.es/dp/B0792HCFDX/?tag=tolees-21) con 54.64 de descuento por 24.95 EUR (original: 55 EUR) en el siguiente enlace!

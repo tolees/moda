@@ -14,7 +14,7 @@ currency: EUR
 price: 29.95
 comparePrice: 59.95 EUR
 inStock: true
-prodname: Desigual Vest_Agra  Vestido para Mujer   Negro 2000   X-Small
+prodname: 'Desigual Vest_Agra  Vestido para Mujer   Negro 2000   X-Small'
 ---
 
 Ahora mismo tienes [Desigual Vest_Agra  Vestido para Mujer   Negro 2000   X-Small](https://www.amazon.es/dp/B079SMCTY9/?tag=tolees-21) a 29.95 EUR (original: 59.95 EUR) (50.04 %  de descuento) en el siguiente enlace!

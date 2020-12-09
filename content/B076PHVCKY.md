@@ -14,7 +14,7 @@ currency: EUR
 price: 16.2
 comparePrice: 40.94 EUR
 inStock: true
-prodname: Marca Amazon - MERAKI Chaqueta de Plumas con Capucha Mujer  Azul  Blue   42  Label: L
+prodname: 'Marca Amazon - MERAKI Chaqueta de Plumas con Capucha Mujer  Azul  Blue   42  Label: L'
 ---
 
 Ahora mismo tienes [Marca Amazon - MERAKI Chaqueta de Plumas con Capucha Mujer  Azul  Blue   42  Label: L](https://www.amazon.es/dp/B076PHVCKY/?tag=tolees-21) a 16.2 EUR (original: 40.94 EUR) (60.43 %  de descuento) en el siguiente enlace!

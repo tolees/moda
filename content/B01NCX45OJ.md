@@ -14,7 +14,7 @@ currency: EUR
 price: 12.37
 comparePrice: 34.99 EUR
 inStock: true
-prodname: Only Onlseco Dark Blue Shoulder Dnm Top Qyt  Camiseta sin Mangas Mujer  Azul  Dark Denim Denim   40
+prodname: 'Only Onlseco Dark Blue Shoulder Dnm Top Qyt  Camiseta sin Mangas Mujer  Azul  Dark Denim Denim   40'
 ---
 
 Está [Only Onlseco Dark Blue Shoulder Dnm Top Qyt  Camiseta sin Mangas Mujer  Azul  Dark Denim Denim   40](https://www.amazon.es/dp/B01NCX45OJ/?tag=tolees-21) con 64.65 de descuento por 12.37 EUR (original: 34.99 EUR) en el siguiente enlace!

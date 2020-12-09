@@ -14,7 +14,7 @@ currency: EUR
 price: 43.9
 comparePrice: 79.95 EUR
 inStock: true
-prodname: Timezone EduardoTZ - Vaqueros para hombre  Azul  raywash 3728   W29/L32  29/32 
+prodname: 'Timezone EduardoTZ - Vaqueros para hombre  Azul  raywash 3728   W29/L32  29/32 '
 ---
 
 Ahora mismo tienes [Timezone EduardoTZ - Vaqueros para hombre  Azul  raywash 3728   W29/L32  29/32 ](https://www.amazon.es/dp/B00XK3G2XI/?tag=tolees-21) a 43.9 EUR (original: 79.95 EUR) (45.09 %  de descuento) en el siguiente enlace!

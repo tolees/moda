@@ -14,7 +14,7 @@ currency: EUR
 price: 53.95
 comparePrice: 89.95 EUR
 inStock: true
-prodname: Lee Daren Zip Fly  Vaqueros Rectos para Hombre  Negro  Black Night Gz   W36/L32
+prodname: 'Lee Daren Zip Fly  Vaqueros Rectos para Hombre  Negro  Black Night Gz   W36/L32'
 ---
 
 Ahora mismo tienes [Lee Daren Zip Fly  Vaqueros Rectos para Hombre  Negro  Black Night Gz   W36/L32](https://www.amazon.es/dp/B079KGMKS7/?tag=tolees-21) a 53.95 EUR (original: 89.95 EUR) (40.02 %  de descuento) en el siguiente enlace!

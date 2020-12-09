@@ -14,7 +14,7 @@ currency: EUR
 price: 21.9
 comparePrice: 40 EUR
 inStock: true
-prodname: Under Armour Mk1 Inset - Pantalón Corto para Hombre  Hombre  1320823-600  Dark Maroon/Radio Red  2 X-Grande
+prodname: 'Under Armour Mk1 Inset - Pantalón Corto para Hombre  Hombre  1320823-600  Dark Maroon/Radio Red  2 X-Grande'
 ---
 
 Tienes [Under Armour Mk1 Inset - Pantalón Corto para Hombre  Hombre  1320823-600  Dark Maroon/Radio Red  2 X-Grande](https://www.amazon.es/dp/B077XPD7ML/?tag=tolees-21) con un 45.25 % de descuento con precio de oferta de 21.9 EUR (original: 40 EUR) en el siguiente enlace!

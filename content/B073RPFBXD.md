@@ -14,7 +14,7 @@ currency: EUR
 price: 30.01
 comparePrice: 51.9 EUR
 inStock: true
-prodname: RIP CURL Last Light Bandeau Set Bikini  Mujer  Sunkist Coral  XS
+prodname: 'RIP CURL Last Light Bandeau Set Bikini  Mujer  Sunkist Coral  XS'
 ---
 
 Tienes [RIP CURL Last Light Bandeau Set Bikini  Mujer  Sunkist Coral  XS](https://www.amazon.es/dp/B073RPFBXD/?tag=tolees-21) con un 42.18 % de descuento con precio de oferta de 30.01 EUR (original: 51.9 EUR) en el siguiente enlace!

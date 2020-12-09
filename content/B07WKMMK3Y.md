@@ -14,7 +14,7 @@ currency: EUR
 price: 9.53
 comparePrice: 35.0 EUR
 inStock: true
-prodname: Pepe Jeans Jude Camiseta  Azul  Indigo 561   Medium para Hombre
+prodname: 'Pepe Jeans Jude Camiseta  Azul  Indigo 561   Medium para Hombre'
 ---
 
 Ahora mismo tienes [Pepe Jeans Jude Camiseta  Azul  Indigo 561   Medium para Hombre](https://www.amazon.es/dp/B07WKMMK3Y/?tag=tolees-21) a 9.53 EUR (original: 35.0 EUR) (72.77 %  de descuento) en el siguiente enlace!

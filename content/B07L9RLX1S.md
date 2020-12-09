@@ -14,7 +14,7 @@ currency: EUR
 price: 34.63
 comparePrice: 69 EUR
 inStock: true
-prodname: Napapijri Sellary Camiseta   Fantasy F14   Large para Hombre
+prodname: 'Napapijri Sellary Camiseta   Fantasy F14   Large para Hombre'
 ---
 
 Está [Napapijri Sellary Camiseta   Fantasy F14   Large para Hombre](https://www.amazon.es/dp/B07L9RLX1S/?tag=tolees-21) con 49.81 de descuento por 34.63 EUR (original: 69 EUR) en el siguiente enlace!

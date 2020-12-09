@@ -14,7 +14,7 @@ currency: EUR
 price: 41.65
 comparePrice: 90 EUR
 inStock: true
-prodname: Volcom Ermont Chaqueta  Hombre  Burgundy  S
+prodname: 'Volcom Ermont Chaqueta  Hombre  Burgundy  S'
 ---
 
 Está [Volcom Ermont Chaqueta  Hombre  Burgundy  S](https://www.amazon.es/dp/B07KMTRG9T/?tag=tolees-21) con 53.72 de descuento por 41.65 EUR (original: 90 EUR) en el siguiente enlace!

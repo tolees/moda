@@ -14,7 +14,7 @@ currency: EUR
 price: 11.11
 comparePrice: 18.05 EUR
 inStock: true
-prodname: Marca Amazon - find. Chaqueta Larga con Cuello de Pico Mujer  Negro  Black   42  Label: L
+prodname: 'Marca Amazon - find. Chaqueta Larga con Cuello de Pico Mujer  Negro  Black   42  Label: L'
 ---
 
 Ahora mismo tienes [Marca Amazon - find. Chaqueta Larga con Cuello de Pico Mujer  Negro  Black   42  Label: L](https://www.amazon.es/dp/B07VDG3ZD2/?tag=tolees-21) a 11.11 EUR (original: 18.05 EUR) (38.45 %  de descuento) en el siguiente enlace!

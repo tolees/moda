@@ -14,7 +14,7 @@ currency: EUR
 price: 39.5
 comparePrice: 99.9 EUR
 inStock: true
-prodname: Geox D Sukie B  Zapatillas para Mujer  Azul  Lt Blue C4003   38 EU
+prodname: 'Geox D Sukie B  Zapatillas para Mujer  Azul  Lt Blue C4003   38 EU'
 ---
 
 Tienes [Geox D Sukie B  Zapatillas para Mujer  Azul  Lt Blue C4003   38 EU](https://www.amazon.es/dp/B07SVPWMGB/?tag=tolees-21) con un 60.46 % de descuento con precio de oferta de 39.5 EUR (original: 99.9 EUR) en el siguiente enlace!

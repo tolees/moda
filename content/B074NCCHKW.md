@@ -14,7 +14,7 @@ currency: EUR
 price: 23.01
 comparePrice: 79.95 EUR
 inStock: true
-prodname: SELECTED FEMME Sflivana LS Knit Cuff Cardigan  Chaqueta Punto Mujer  Azul  Faded Denim Pattern:Melange   38  Talla del Fabricante: Medium 
+prodname: 'SELECTED FEMME Sflivana LS Knit Cuff Cardigan  Chaqueta Punto Mujer  Azul  Faded Denim Pattern:Melange   38  Talla del Fabricante: Medium '
 ---
 
 Tienes [SELECTED FEMME Sflivana LS Knit Cuff Cardigan  Chaqueta Punto Mujer  Azul  Faded Denim Pattern:Melange   38  Talla del Fabricante: Medium ](https://www.amazon.es/dp/B074NCCHKW/?tag=tolees-21) con un 71.22 % de descuento con precio de oferta de 23.01 EUR (original: 79.95 EUR) en el siguiente enlace!

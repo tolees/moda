@@ -14,7 +14,7 @@ currency: EUR
 price: 16.68
 comparePrice: 30 EUR
 inStock: true
-prodname: The North Face S/S Red Box tee Camiseta de Manga Corta  Hombre  Gris  TNF Medium Grey Heather   L
+prodname: 'The North Face S/S Red Box tee Camiseta de Manga Corta  Hombre  Gris  TNF Medium Grey Heather   L'
 ---
 
 Ahora mismo tienes [The North Face S/S Red Box tee Camiseta de Manga Corta  Hombre  Gris  TNF Medium Grey Heather   L](https://www.amazon.es/dp/B01MTEOOR4/?tag=tolees-21) a 16.68 EUR (original: 30 EUR) (44.40 %  de descuento) en el siguiente enlace!

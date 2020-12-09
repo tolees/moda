@@ -14,7 +14,7 @@ currency: EUR
 price: 26.95
 comparePrice: 89.9 EUR
 inStock: true
-prodname: Geox D Sandal Hiver A  Sandalias con Punta Abierta Mujer  Beige  Sand/Champagne C5zb5   38 EU
+prodname: 'Geox D Sandal Hiver A  Sandalias con Punta Abierta Mujer  Beige  Sand/Champagne C5zb5   38 EU'
 ---
 
 Tienes [Geox D Sandal Hiver A  Sandalias con Punta Abierta Mujer  Beige  Sand/Champagne C5zb5   38 EU](https://www.amazon.es/dp/B07SQQ1FMJ/?tag=tolees-21) con un 70.02 % de descuento con precio de oferta de 26.95 EUR (original: 89.9 EUR) en el siguiente enlace!

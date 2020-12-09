@@ -14,7 +14,7 @@ currency: EUR
 price: 34.18
 comparePrice: 139.9 EUR
 inStock: true
-prodname: Geox D Audalies High A  Botas para Mujer  Marrón  Brown   40 EU
+prodname: 'Geox D Audalies High A  Botas para Mujer  Marrón  Brown   40 EU'
 ---
 
 Tienes [Geox D Audalies High A  Botas para Mujer  Marrón  Brown   40 EU](https://www.amazon.es/dp/B06Y1RDV7K/?tag=tolees-21) con un 75.57 % de descuento con precio de oferta de 34.18 EUR (original: 139.9 EUR) en el siguiente enlace!

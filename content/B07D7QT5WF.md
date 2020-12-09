@@ -14,7 +14,7 @@ currency: EUR
 price: 23.37
 comparePrice: 69.95 EUR
 inStock: true
-prodname: BOSS Casual Tyger  Camiseta Hombre  Azul  Dark Blue 404   Medium
+prodname: 'BOSS Casual Tyger  Camiseta Hombre  Azul  Dark Blue 404   Medium'
 ---
 
 Tienes [BOSS Casual Tyger  Camiseta Hombre  Azul  Dark Blue 404   Medium](https://www.amazon.es/dp/B07D7QT5WF/?tag=tolees-21) con un 66.59 % de descuento con precio de oferta de 23.37 EUR (original: 69.95 EUR) en el siguiente enlace!

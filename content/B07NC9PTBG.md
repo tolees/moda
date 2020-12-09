@@ -14,7 +14,7 @@ currency: EUR
 price: 8.18
 comparePrice: 15 EUR
 inStock: true
-prodname: Pepe Jeans Hana Glitter S/s Camiseta  Gris  Grey Marl 933   4 años  Talla del Fabricante: 4  para Niñas
+prodname: 'Pepe Jeans Hana Glitter S/s Camiseta  Gris  Grey Marl 933   4 años  Talla del Fabricante: 4  para Niñas'
 ---
 
 Ahora mismo tienes [Pepe Jeans Hana Glitter S/s Camiseta  Gris  Grey Marl 933   4 años  Talla del Fabricante: 4  para Niñas](https://www.amazon.es/dp/B07NC9PTBG/?tag=tolees-21) a 8.18 EUR (original: 15 EUR) (45.47 %  de descuento) en el siguiente enlace!

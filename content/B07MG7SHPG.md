@@ -14,7 +14,7 @@ currency: EUR
 price: 9.32
 comparePrice: 14.95 EUR
 inStock: true
-prodname: Disney Minnie 5595 Camiseta  Rojo Rouge  12 años para Niñas
+prodname: 'Disney Minnie 5595 Camiseta  Rojo Rouge  12 años para Niñas'
 ---
 
 Tienes [Disney Minnie 5595 Camiseta  Rojo Rouge  12 años para Niñas](https://www.amazon.es/dp/B07MG7SHPG/?tag=tolees-21) con un 37.66 % de descuento con precio de oferta de 9.32 EUR (original: 14.95 EUR) en el siguiente enlace!

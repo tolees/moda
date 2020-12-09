@@ -14,7 +14,7 @@ currency: EUR
 price: 34.81
 comparePrice: 99.9 EUR
 inStock: true
-prodname: Geox D AIRELL A  Zapatillas para Mujer  Azul  Navy C4002   36 EU
+prodname: 'Geox D AIRELL A  Zapatillas para Mujer  Azul  Navy C4002   36 EU'
 ---
 
 Está [Geox D AIRELL A  Zapatillas para Mujer  Azul  Navy C4002   36 EU](https://www.amazon.es/dp/B07SWTYHD7/?tag=tolees-21) con 65.16 de descuento por 34.81 EUR (original: 99.9 EUR) en el siguiente enlace!

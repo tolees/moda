@@ -14,7 +14,7 @@ currency: EUR
 price: 38.64
 comparePrice: 79.9 EUR
 inStock: true
-prodname: Pepe Jeans Stanley Vaqueros Straight  Azul  Dark Used Denim Cm6   W29/L32 para Hombre
+prodname: 'Pepe Jeans Stanley Vaqueros Straight  Azul  Dark Used Denim Cm6   W29/L32 para Hombre'
 ---
 
 Ahora mismo tienes [Pepe Jeans Stanley Vaqueros Straight  Azul  Dark Used Denim Cm6   W29/L32 para Hombre](https://www.amazon.es/dp/B07NC7SQ7N/?tag=tolees-21) a 38.64 EUR (original: 79.9 EUR) (51.64 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 36.65
 comparePrice: 64.95 EUR
 inStock: true
-prodname: Columbia XO0665 Camisa de Excursionismo de Manga Larga para Hombre  Silver Ridge II Long Sleeve Shirt  Azul  Talla XL
+prodname: 'Columbia XO0665 Camisa de Excursionismo de Manga Larga para Hombre  Silver Ridge II Long Sleeve Shirt  Azul  Talla XL'
 ---
 
 Tienes [Columbia XO0665 Camisa de Excursionismo de Manga Larga para Hombre  Silver Ridge II Long Sleeve Shirt  Azul  Talla XL](https://www.amazon.es/dp/B0771ZSRYM/?tag=tolees-21) con un 43.57 % de descuento con precio de oferta de 36.65 EUR (original: 64.95 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 16.95
 comparePrice: 29.95 EUR
 inStock: true
-prodname: Puma ESS Logo Leggins  Mujer  Ponderosa Pine  M
+prodname: 'Puma ESS Logo Leggins  Mujer  Ponderosa Pine  M'
 ---
 
 Ahora mismo tienes [Puma ESS Logo Leggins  Mujer  Ponderosa Pine  M](https://www.amazon.es/dp/B07JHL9SRY/?tag=tolees-21) a 16.95 EUR (original: 29.95 EUR) (43.41 %  de descuento) en el siguiente enlace!

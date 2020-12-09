@@ -14,7 +14,7 @@ currency: EUR
 price: 25.84
 comparePrice: 49.95 EUR
 inStock: true
-prodname: Spagnolo Pt Denim 0640  Vaqueros Slim Para Hombre  Azul  Azul Medio   48/L33  Tamaño del fabricante: 48 
+prodname: 'Spagnolo Pt Denim 0640  Vaqueros Slim Para Hombre  Azul  Azul Medio   48/L33  Tamaño del fabricante: 48 '
 ---
 
 Está [Spagnolo Pt Denim 0640  Vaqueros Slim Para Hombre  Azul  Azul Medio   48/L33  Tamaño del fabricante: 48 ](https://www.amazon.es/dp/B0746RGTJJ/?tag=tolees-21) con 48.27 de descuento por 25.84 EUR (original: 49.95 EUR) en el siguiente enlace!

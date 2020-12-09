@@ -14,7 +14,7 @@ currency: EUR
 price: 10
 comparePrice: 17.99 EUR
 inStock: true
-prodname: RIP CURL Mama Strokes SS tee Camiseta  Hombre  Navy  L
+prodname: 'RIP CURL Mama Strokes SS tee Camiseta  Hombre  Navy  L'
 ---
 
 Tienes [RIP CURL Mama Strokes SS tee Camiseta  Hombre  Navy  L](https://www.amazon.es/dp/B07NGNWSND/?tag=tolees-21) con un 44.41 % de descuento con precio de oferta de 10 EUR (original: 17.99 EUR) en el siguiente enlace!

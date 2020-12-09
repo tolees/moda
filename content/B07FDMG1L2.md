@@ -14,7 +14,7 @@ currency: EUR
 price: 33.41
 comparePrice: 65 EUR
 inStock: true
-prodname: Armani Exchange Magnetic Stripe Logo Camiseta  Negro  Black 1200   X-Small para Hombre
+prodname: 'Armani Exchange Magnetic Stripe Logo Camiseta  Negro  Black 1200   X-Small para Hombre'
 ---
 
 Está [Armani Exchange Magnetic Stripe Logo Camiseta  Negro  Black 1200   X-Small para Hombre](https://www.amazon.es/dp/B07FDMG1L2/?tag=tolees-21) con 48.60 de descuento por 33.41 EUR (original: 65 EUR) en el siguiente enlace!

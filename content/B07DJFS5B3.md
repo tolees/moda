@@ -14,7 +14,7 @@ currency: EUR
 price: 22.51
 comparePrice: 59.95 EUR
 inStock: true
-prodname: Dockers by Gerli 35cp324  Botines para Mujer  Gris  Taupe 430   37 EU
+prodname: 'Dockers by Gerli 35cp324  Botines para Mujer  Gris  Taupe 430   37 EU'
 ---
 
 Tienes [Dockers by Gerli 35cp324  Botines para Mujer  Gris  Taupe 430   37 EU](https://www.amazon.es/dp/B07DJFS5B3/?tag=tolees-21) con un 62.45 % de descuento con precio de oferta de 22.51 EUR (original: 59.95 EUR) en el siguiente enlace!

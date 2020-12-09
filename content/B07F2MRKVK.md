@@ -14,7 +14,7 @@ currency: EUR
 price: 57.95
 comparePrice: 90 EUR
 inStock: true
-prodname: Levi s 511 Fit  Vaqueros Slim para Hombre  Azul  Ombre Blue 14W Warp Str Cord B WT 2   W30/L34
+prodname: 'Levi s 511 Fit  Vaqueros Slim para Hombre  Azul  Ombre Blue 14W Warp Str Cord B WT 2   W30/L34'
 ---
 
 Ahora mismo tienes [Levi s 511 Fit  Vaqueros Slim para Hombre  Azul  Ombre Blue 14W Warp Str Cord B WT 2   W30/L34](https://www.amazon.es/dp/B07F2MRKVK/?tag=tolees-21) a 57.95 EUR (original: 90 EUR) (35.61 %  de descuento) en el siguiente enlace!

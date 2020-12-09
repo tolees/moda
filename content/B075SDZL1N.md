@@ -14,7 +14,7 @@ currency: EUR
 price: 8.26
 comparePrice: 25.99 EUR
 inStock: true
-prodname: Springfield 1402145 Jersey  Beige/Roasted  Medium  Tamaño del Fabricante:M  para Hombre
+prodname: 'Springfield 1402145 Jersey  Beige/Roasted  Medium  Tamaño del Fabricante:M  para Hombre'
 ---
 
 Tienes [Springfield 1402145 Jersey  Beige/Roasted  Medium  Tamaño del Fabricante:M  para Hombre](https://www.amazon.es/dp/B075SDZL1N/?tag=tolees-21) con un 68.22 % de descuento con precio de oferta de 8.26 EUR (original: 25.99 EUR) en el siguiente enlace!

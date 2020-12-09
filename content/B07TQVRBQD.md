@@ -14,7 +14,7 @@ currency: EUR
 price: 31.62
 comparePrice: 99.95 EUR
 inStock: true
-prodname: Clarks Hero Walk  Zapatos de Cordones Derby  Negro  Black SDE Black SDE   37 EU
+prodname: 'Clarks Hero Walk  Zapatos de Cordones Derby  Negro  Black SDE Black SDE   37 EU'
 ---
 
 Tienes [Clarks Hero Walk  Zapatos de Cordones Derby  Negro  Black SDE Black SDE   37 EU](https://www.amazon.es/dp/B07TQVRBQD/?tag=tolees-21) con un 68.36 % de descuento con precio de oferta de 31.62 EUR (original: 99.95 EUR) en el siguiente enlace!

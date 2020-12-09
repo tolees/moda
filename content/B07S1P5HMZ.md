@@ -14,7 +14,7 @@ currency: EUR
 price: 48.3
 comparePrice: 65.0 EUR
 inStock: true
-prodname: Levi s Relaxed Graphic Long Sleeve Sudadera  White  Crew Box Tab White+ 0092   XL para Mujer
+prodname: 'Levi s Relaxed Graphic Long Sleeve Sudadera  White  Crew Box Tab White+ 0092   XL para Mujer'
 ---
 
 Tienes [Levi s Relaxed Graphic Long Sleeve Sudadera  White  Crew Box Tab White+ 0092   XL para Mujer](https://www.amazon.es/dp/B07S1P5HMZ/?tag=tolees-21) con un 25.69 % de descuento con precio de oferta de 48.3 EUR (original: 65.0 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 18.15
 comparePrice: 40.05 EUR
 inStock: true
-prodname: Under Armour HG Armour 2.0 Comp Short Pantalón Corto  Hombre  Blanco  White/Graphite 100   XL3T
+prodname: 'Under Armour HG Armour 2.0 Comp Short Pantalón Corto  Hombre  Blanco  White/Graphite 100   XL3T'
 ---
 
 Tienes [Under Armour HG Armour 2.0 Comp Short Pantalón Corto  Hombre  Blanco  White/Graphite 100   XL3T](https://www.amazon.es/dp/B07FLGNYN7/?tag=tolees-21) con un 54.68 % de descuento con precio de oferta de 18.15 EUR (original: 40.05 EUR) en el siguiente enlace!

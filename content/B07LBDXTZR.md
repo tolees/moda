@@ -14,7 +14,7 @@ currency: EUR
 price: 79.73
 comparePrice: 120.0 EUR
 inStock: true
-prodname: Helly Hansen Jr Barrier Down Aislante Chaqueta De Pluma  Unisex niños  Blue Tint  14 YRS
+prodname: 'Helly Hansen Jr Barrier Down Aislante Chaqueta De Pluma  Unisex niños  Blue Tint  14 YRS'
 ---
 
 Tienes [Helly Hansen Jr Barrier Down Aislante Chaqueta De Pluma  Unisex niños  Blue Tint  14 YRS](https://www.amazon.es/dp/B07LBDXTZR/?tag=tolees-21) con un 33.56 % de descuento con precio de oferta de 79.73 EUR (original: 120.0 EUR) en el siguiente enlace!

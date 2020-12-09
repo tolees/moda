@@ -14,7 +14,7 @@ currency: EUR
 price: 13.29
 comparePrice: 18.99 EUR
 inStock: true
-prodname: IRIS & LILLY Parte de Arriba de Bikini asimetrico Mujer   Rojo  Sumatra   38  Talla del fabricante: Small 
+prodname: 'IRIS & LILLY Parte de Arriba de Bikini asimetrico Mujer   Rojo  Sumatra   38  Talla del fabricante: Small '
 ---
 
 Está [IRIS & LILLY Parte de Arriba de Bikini asimetrico Mujer   Rojo  Sumatra   38  Talla del fabricante: Small ](https://www.amazon.es/dp/B07JGSNY1N/?tag=tolees-21) con 30.02 de descuento por 13.29 EUR (original: 18.99 EUR) en el siguiente enlace!

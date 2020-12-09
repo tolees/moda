@@ -14,7 +14,7 @@ currency: EUR
 price: 7.05
 comparePrice: 39.9 EUR
 inStock: true
-prodname: Maria Mare 66329 - Zapatos de Vestir para Mujer  Color suedi Maquillaje  Talla 39
+prodname: 'Maria Mare 66329 - Zapatos de Vestir para Mujer  Color suedi Maquillaje  Talla 39'
 ---
 
 Ahora mismo tienes [Maria Mare 66329 - Zapatos de Vestir para Mujer  Color suedi Maquillaje  Talla 39](https://www.amazon.es/dp/B01BXZRTXQ/?tag=tolees-21) a 7.05 EUR (original: 39.9 EUR) (82.33 %  de descuento) en el siguiente enlace!

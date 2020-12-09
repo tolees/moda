@@ -14,7 +14,7 @@ currency: EUR
 price: 16.9
 comparePrice: 49.95 EUR
 inStock: true
-prodname: Desigual TS Tropic Thoughts Camiseta  Amarillo  Blazing 8035   Small para Mujer
+prodname: 'Desigual TS Tropic Thoughts Camiseta  Amarillo  Blazing 8035   Small para Mujer'
 ---
 
 Tienes [Desigual TS Tropic Thoughts Camiseta  Amarillo  Blazing 8035   Small para Mujer](https://www.amazon.es/dp/B07VGN8Q9R/?tag=tolees-21) con un 66.17 % de descuento con precio de oferta de 16.9 EUR (original: 49.95 EUR) en el siguiente enlace!

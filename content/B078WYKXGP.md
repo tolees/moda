@@ -14,7 +14,7 @@ currency: EUR
 price: 57.79
 comparePrice: 100 EUR
 inStock: true
-prodname: Armani Exchange Elegant Stretch Vestido de Fiesta  Negro  Black 1200   Medium para Mujer
+prodname: 'Armani Exchange Elegant Stretch Vestido de Fiesta  Negro  Black 1200   Medium para Mujer'
 ---
 
 Tienes [Armani Exchange Elegant Stretch Vestido de Fiesta  Negro  Black 1200   Medium para Mujer](https://www.amazon.es/dp/B078WYKXGP/?tag=tolees-21) con un 42.21 % de descuento con precio de oferta de 57.79 EUR (original: 100 EUR) en el siguiente enlace!

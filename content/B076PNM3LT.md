@@ -14,7 +14,7 @@ currency: EUR
 price: 23.99
 comparePrice: 39.99 EUR
 inStock: true
-prodname: Adidas CORE18 Hoody Sudadera con Capucha  Hombre  Rojo  Rojo/Blanco   L
+prodname: 'Adidas CORE18 Hoody Sudadera con Capucha  Hombre  Rojo  Rojo/Blanco   L'
 ---
 
 Ahora mismo tienes [Adidas CORE18 Hoody Sudadera con Capucha  Hombre  Rojo  Rojo/Blanco   L](https://www.amazon.es/dp/B076PNM3LT/?tag=tolees-21) a 23.99 EUR (original: 39.99 EUR) (40.01 %  de descuento) en el siguiente enlace!

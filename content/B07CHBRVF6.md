@@ -14,7 +14,7 @@ currency: EUR
 price: 19.99
 comparePrice: 39.99 EUR
 inStock: true
-prodname: AX BOXING Zapatillas Hombres Deporte Running Sneakers Zapatos para Correr Gimnasio Deportivas Padel Transpirables Casual 40-46  43 EU  A8178-Azul 
+prodname: 'AX BOXING Zapatillas Hombres Deporte Running Sneakers Zapatos para Correr Gimnasio Deportivas Padel Transpirables Casual 40-46  43 EU  A8178-Azul '
 ---
 
 Tienes [AX BOXING Zapatillas Hombres Deporte Running Sneakers Zapatos para Correr Gimnasio Deportivas Padel Transpirables Casual 40-46  43 EU  A8178-Azul ](https://www.amazon.es/dp/B07CHBRVF6/?tag=tolees-21) con un 50.01 % de descuento con precio de oferta de 19.99 EUR (original: 39.99 EUR) en el siguiente enlace!

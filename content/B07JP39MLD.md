@@ -14,7 +14,7 @@ currency: EUR
 price: 49.95
 comparePrice: 129.95 EUR
 inStock: true
-prodname: G-STAR RAW Mujer Lynn Mid Skinny Wmn New Vaqueros skinny Not Applicable  Azul  Faded Lt Aged A691   W27/L32  Talla del fabricante: 27/32 
+prodname: 'G-STAR RAW Mujer Lynn Mid Skinny Wmn New Vaqueros skinny Not Applicable  Azul  Faded Lt Aged A691   W27/L32  Talla del fabricante: 27/32 '
 ---
 
 Está [G-STAR RAW Mujer Lynn Mid Skinny Wmn New Vaqueros skinny Not Applicable  Azul  Faded Lt Aged A691   W27/L32  Talla del fabricante: 27/32 ](https://www.amazon.es/dp/B07JP39MLD/?tag=tolees-21) con 61.56 de descuento por 49.95 EUR (original: 129.95 EUR) en el siguiente enlace!

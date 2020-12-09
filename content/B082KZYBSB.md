@@ -14,7 +14,7 @@ currency: EUR
 price: 14.36
 comparePrice: 25.15 EUR
 inStock: true
-prodname: P Prettyia Mini Camisa de Mangas Largas Casuales y Zapatos de Cordones Deportivo Ropas para Muñecas Hombres a Escala 1/6
+prodname: 'P Prettyia Mini Camisa de Mangas Largas Casuales y Zapatos de Cordones Deportivo Ropas para Muñecas Hombres a Escala 1/6'
 ---
 
 Tienes [P Prettyia Mini Camisa de Mangas Largas Casuales y Zapatos de Cordones Deportivo Ropas para Muñecas Hombres a Escala 1/6](https://www.amazon.es/dp/B082KZYBSB/?tag=tolees-21) con un 42.90 % de descuento con precio de oferta de 14.36 EUR (original: 25.15 EUR) en el siguiente enlace!

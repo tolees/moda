@@ -14,7 +14,7 @@ currency: EUR
 price: 8.57
 comparePrice: 29.95 EUR
 inStock: true
-prodname: Wrangler SS Rainbow tee Camiseta  Blanco  White 989   X-Large para Hombre
+prodname: 'Wrangler SS Rainbow tee Camiseta  Blanco  White 989   X-Large para Hombre'
 ---
 
 Está [Wrangler SS Rainbow tee Camiseta  Blanco  White 989   X-Large para Hombre](https://www.amazon.es/dp/B07YL59VBJ/?tag=tolees-21) con 71.39 de descuento por 8.57 EUR (original: 29.95 EUR) en el siguiente enlace!

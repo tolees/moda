@@ -14,7 +14,7 @@ currency: EUR
 price: 47.99
 comparePrice: 69.99 EUR
 inStock: true
-prodname: Columbia Powder Lite  Chaqueta  Mujer  C142Azul  Nocturnal  Talla L
+prodname: 'Columbia Powder Lite  Chaqueta  Mujer  C142Azul  Nocturnal  Talla L'
 ---
 
 Tienes [Columbia Powder Lite  Chaqueta  Mujer  C142Azul  Nocturnal  Talla L](https://www.amazon.es/dp/B07J9KKML3/?tag=tolees-21) con un 31.43 % de descuento con precio de oferta de 47.99 EUR (original: 69.99 EUR) en el siguiente enlace!

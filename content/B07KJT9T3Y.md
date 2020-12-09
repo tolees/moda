@@ -14,7 +14,7 @@ currency: EUR
 price: 12.67
 comparePrice: 19.99 EUR
 inStock: true
-prodname: Quiksilver Get Bizzy Camiseta  Hombre  Azul  Blue Nights   L
+prodname: 'Quiksilver Get Bizzy Camiseta  Hombre  Azul  Blue Nights   L'
 ---
 
 Ahora mismo tienes [Quiksilver Get Bizzy Camiseta  Hombre  Azul  Blue Nights   L](https://www.amazon.es/dp/B07KJT9T3Y/?tag=tolees-21) a 12.67 EUR (original: 19.99 EUR) (36.62 %  de descuento) en el siguiente enlace!

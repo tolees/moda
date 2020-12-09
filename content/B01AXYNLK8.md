@@ -14,7 +14,7 @@ currency: EUR
 price: 6.81
 comparePrice: 16 EUR
 inStock: true
-prodname: Joma 900140.350 - Camiseta para Mujer  Color Azul Celeste  Talla XS
+prodname: 'Joma 900140.350 - Camiseta para Mujer  Color Azul Celeste  Talla XS'
 ---
 
 Está [Joma 900140.350 - Camiseta para Mujer  Color Azul Celeste  Talla XS](https://www.amazon.es/dp/B01AXYNLK8/?tag=tolees-21) con 57.44 de descuento por 6.81 EUR (original: 16 EUR) en el siguiente enlace!

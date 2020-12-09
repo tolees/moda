@@ -14,7 +14,7 @@ currency: EUR
 price: 9.8
 comparePrice: 55 EUR
 inStock: true
-prodname: Pepe Jeans Veronica  Vestido para Niñas    Multi Bleu 0aa  7 años
+prodname: 'Pepe Jeans Veronica  Vestido para Niñas    Multi Bleu 0aa  7 años'
 ---
 
 Tienes [Pepe Jeans Veronica  Vestido para Niñas    Multi Bleu 0aa  7 años](https://www.amazon.es/dp/B07CRJ33KT/?tag=tolees-21) con un 82.18 % de descuento con precio de oferta de 9.8 EUR (original: 55 EUR) en el siguiente enlace!

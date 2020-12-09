@@ -14,7 +14,7 @@ currency: EUR
 price: 71.42
 comparePrice: 129.9 EUR
 inStock: true
-prodname: Geox U IACOPO C  Zapatos de Cordones Derby para Hombre  Marrón  Cognac C6001   45 EU
+prodname: 'Geox U IACOPO C  Zapatos de Cordones Derby para Hombre  Marrón  Cognac C6001   45 EU'
 ---
 
 Tienes [Geox U IACOPO C  Zapatos de Cordones Derby para Hombre  Marrón  Cognac C6001   45 EU](https://www.amazon.es/dp/B07STLQ1NS/?tag=tolees-21) con un 45.02 % de descuento con precio de oferta de 71.42 EUR (original: 129.9 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 51.01
 comparePrice: 72.87 EUR
 inStock: true
-prodname: Bolso para ordenador Pepe Jeans Bitmat Coral
+prodname: 'Bolso para ordenador Pepe Jeans Bitmat Coral'
 ---
 
 Tienes [Bolso para ordenador Pepe Jeans Bitmat Coral](https://www.amazon.es/dp/B07NCVKZV1/?tag=tolees-21) con un 30.00 % de descuento con precio de oferta de 51.01 EUR (original: 72.87 EUR) en el siguiente enlace!

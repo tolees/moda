@@ -14,7 +14,7 @@ currency: EUR
 price: 13.99
 comparePrice: 21.98 EUR
 inStock: true
-prodname: Munvot- Mujer Leggins y Mallas de Cintura Alta para Yoga Pilates Fitness y Running M
+prodname: 'Munvot- Mujer Leggins y Mallas de Cintura Alta para Yoga Pilates Fitness y Running M'
 ---
 
 Tienes [Munvot- Mujer Leggins y Mallas de Cintura Alta para Yoga Pilates Fitness y Running M](https://www.amazon.es/dp/B07CTJ63NF/?tag=tolees-21) con un 36.35 % de descuento con precio de oferta de 13.99 EUR (original: 21.98 EUR) en el siguiente enlace!

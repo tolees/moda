@@ -14,7 +14,7 @@ currency: EUR
 price: 58.45
 comparePrice: 89.9 EUR
 inStock: true
-prodname: Pepe Jeans Finsbury Vaqueros Pitillo Hombre  Gris  Wiser Wash Grey Used Denim Wy0   W32/L32 para
+prodname: 'Pepe Jeans Finsbury Vaqueros Pitillo Hombre  Gris  Wiser Wash Grey Used Denim Wy0   W32/L32 para'
 ---
 
 Tienes [Pepe Jeans Finsbury Vaqueros Pitillo Hombre  Gris  Wiser Wash Grey Used Denim Wy0   W32/L32 para](https://www.amazon.es/dp/B07NC9MY4F/?tag=tolees-21) con un 34.98 % de descuento con precio de oferta de 58.45 EUR (original: 89.9 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 16.76
 comparePrice: 29.99 EUR
 inStock: true
-prodname: Columbia Hombre Camiseta  Onchan Park Tee  Algodón  Rojo  Mountain Red/Graphic 2   Talla: XXL  1841974
+prodname: 'Columbia Hombre Camiseta  Onchan Park Tee  Algodón  Rojo  Mountain Red/Graphic 2   Talla: XXL  1841974'
 ---
 
 Tienes [Columbia Hombre Camiseta  Onchan Park Tee  Algodón  Rojo  Mountain Red/Graphic 2   Talla: XXL  1841974](https://www.amazon.es/dp/B07KRWJJN6/?tag=tolees-21) con un 44.11 % de descuento con precio de oferta de 16.76 EUR (original: 29.99 EUR) en el siguiente enlace!

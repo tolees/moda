@@ -14,7 +14,7 @@ currency: EUR
 price: 10.99
 comparePrice: 19.99 EUR
 inStock: true
-prodname: Huntvp Riñonera Táctica Mochila Deportiva Militar Bolso Cinturon Impermeable para Senderismo Ciclismo Camping Caza  Camuflaje
+prodname: 'Huntvp Riñonera Táctica Mochila Deportiva Militar Bolso Cinturon Impermeable para Senderismo Ciclismo Camping Caza  Camuflaje'
 ---
 
 Está [Huntvp Riñonera Táctica Mochila Deportiva Militar Bolso Cinturon Impermeable para Senderismo Ciclismo Camping Caza  Camuflaje](https://www.amazon.es/dp/B07WNLC7C9/?tag=tolees-21) con 45.02 de descuento por 10.99 EUR (original: 19.99 EUR) en el siguiente enlace!

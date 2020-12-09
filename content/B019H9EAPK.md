@@ -14,7 +14,7 @@ currency: EUR
 price: 32.99
 comparePrice: 56.99 EUR
 inStock: true
-prodname: Everlife Shop CS Caza Airsoft Paintball Chaleco de Poliéster Exterior Premium Ejército Wargame de Plena Protección con Accesorio Negro Chaleco Tactico Molle  Khaki 
+prodname: 'Everlife Shop CS Caza Airsoft Paintball Chaleco de Poliéster Exterior Premium Ejército Wargame de Plena Protección con Accesorio Negro Chaleco Tactico Molle  Khaki '
 ---
 
 Ahora mismo tienes [Everlife Shop CS Caza Airsoft Paintball Chaleco de Poliéster Exterior Premium Ejército Wargame de Plena Protección con Accesorio Negro Chaleco Tactico Molle  Khaki ](https://www.amazon.es/dp/B019H9EAPK/?tag=tolees-21) a 32.99 EUR (original: 56.99 EUR) (42.11 %  de descuento) en el siguiente enlace!

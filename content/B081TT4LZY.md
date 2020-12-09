@@ -14,7 +14,7 @@ currency: EUR
 price: 15.01
 comparePrice: 32.95 EUR
 inStock: true
-prodname: adidas Mono Jersey Pol T-Shirt  Hombre  Night Marine/White  S
+prodname: 'adidas Mono Jersey Pol T-Shirt  Hombre  Night Marine/White  S'
 ---
 
 Tienes [adidas Mono Jersey Pol T-Shirt  Hombre  Night Marine/White  S](https://www.amazon.es/dp/B081TT4LZY/?tag=tolees-21) con un 54.45 % de descuento con precio de oferta de 15.01 EUR (original: 32.95 EUR) en el siguiente enlace!

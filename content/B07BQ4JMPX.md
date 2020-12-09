@@ -14,7 +14,7 @@ currency: EUR
 price: 67.49
 comparePrice: 93.15 EUR
 inStock: true
-prodname: Lee Rider Jeans Vaqueros  Blue Drop  33W / 30L para Hombre
+prodname: 'Lee Rider Jeans Vaqueros  Blue Drop  33W / 30L para Hombre'
 ---
 
 Está [Lee Rider Jeans Vaqueros  Blue Drop  33W / 30L para Hombre](https://www.amazon.es/dp/B07BQ4JMPX/?tag=tolees-21) con 27.55 de descuento por 67.49 EUR (original: 93.15 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 17.99
 comparePrice: 29.99 EUR
 inStock: true
-prodname: amzdeal Caja para Gafas de Sol Caja de Almacenaje Plegable con Tapa para 16 Anteojos  Caja de Exposición para Gafas  Joya y Reloj
+prodname: 'amzdeal Caja para Gafas de Sol Caja de Almacenaje Plegable con Tapa para 16 Anteojos  Caja de Exposición para Gafas  Joya y Reloj'
 ---
 
 Está [amzdeal Caja para Gafas de Sol Caja de Almacenaje Plegable con Tapa para 16 Anteojos  Caja de Exposición para Gafas  Joya y Reloj](https://www.amazon.es/dp/B01NARCUNH/?tag=tolees-21) con 40.01 de descuento por 17.99 EUR (original: 29.99 EUR) en el siguiente enlace!

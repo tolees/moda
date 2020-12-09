@@ -14,7 +14,7 @@ currency: EUR
 price: 31.99
 comparePrice: 46.99 EUR
 inStock: true
-prodname: ENGSWA Collar Mujer Plata de Ley 925 Colgante Nudo de Corazón Regalo para Abuela
+prodname: 'ENGSWA Collar Mujer Plata de Ley 925 Colgante Nudo de Corazón Regalo para Abuela'
 ---
 
 Tienes [ENGSWA Collar Mujer Plata de Ley 925 Colgante Nudo de Corazón Regalo para Abuela](https://www.amazon.es/dp/B08FYJCTHT/?tag=tolees-21) con un 31.92 % de descuento con precio de oferta de 31.99 EUR (original: 46.99 EUR) en el siguiente enlace!

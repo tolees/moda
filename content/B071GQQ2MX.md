@@ -14,7 +14,7 @@ currency: EUR
 price: 15.59
 comparePrice: 24.95 EUR
 inStock: true
-prodname: Adidas Adilette Shower Chanclas Hombre  Rojo  Escarl/Ftwbla/Escarl 000   46 EU  11 UK 
+prodname: 'Adidas Adilette Shower Chanclas Hombre  Rojo  Escarl/Ftwbla/Escarl 000   46 EU  11 UK '
 ---
 
 Está [Adidas Adilette Shower Chanclas Hombre  Rojo  Escarl/Ftwbla/Escarl 000   46 EU  11 UK ](https://www.amazon.es/dp/B071GQQ2MX/?tag=tolees-21) con 37.52 de descuento por 15.59 EUR (original: 24.95 EUR) en el siguiente enlace!

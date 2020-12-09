@@ -14,7 +14,7 @@ currency: EUR
 price: 10.68
 comparePrice: 49.99 EUR
 inStock: true
-prodname: ESPRIT Collection 027eo1f001  Blusa Mujer  Azul  Navy   38
+prodname: 'ESPRIT Collection 027eo1f001  Blusa Mujer  Azul  Navy   38'
 ---
 
 Ahora mismo tienes [ESPRIT Collection 027eo1f001  Blusa Mujer  Azul  Navy   38](https://www.amazon.es/dp/B01N0EPWF0/?tag=tolees-21) a 10.68 EUR (original: 49.99 EUR) (78.64 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 11.22
 comparePrice: 16.2 EUR
 inStock: true
-prodname: Marca Amazon - find. Jersey de Algodón Hombre  Gris  Grey Marl   XXL  Label: XXL
+prodname: 'Marca Amazon - find. Jersey de Algodón Hombre  Gris  Grey Marl   XXL  Label: XXL'
 ---
 
 Está [Marca Amazon - find. Jersey de Algodón Hombre  Gris  Grey Marl   XXL  Label: XXL](https://www.amazon.es/dp/B07ZKNMWNW/?tag=tolees-21) con 30.74 de descuento por 11.22 EUR (original: 16.2 EUR) en el siguiente enlace!

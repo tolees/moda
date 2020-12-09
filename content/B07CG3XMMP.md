@@ -14,7 +14,7 @@ currency: EUR
 price: 16.95
 comparePrice: 29.99 EUR
 inStock: true
-prodname: JACK & JONES Jjeholmen Sweat Zip Hood Noos Sudadera  Rojo  Port Royale   X-Large para Hombre
+prodname: 'JACK & JONES Jjeholmen Sweat Zip Hood Noos Sudadera  Rojo  Port Royale   X-Large para Hombre'
 ---
 
 Tienes [JACK & JONES Jjeholmen Sweat Zip Hood Noos Sudadera  Rojo  Port Royale   X-Large para Hombre](https://www.amazon.es/dp/B07CG3XMMP/?tag=tolees-21) con un 43.48 % de descuento con precio de oferta de 16.95 EUR (original: 29.99 EUR) en el siguiente enlace!

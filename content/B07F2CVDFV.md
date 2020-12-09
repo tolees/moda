@@ -14,7 +14,7 @@ currency: EUR
 price: 67.08
 comparePrice: 129.9 EUR
 inStock: true
-prodname: LLOYD Floyd  Zapatos Derby para Hombre  Negro  Schwarz 0   44.5 EU
+prodname: 'LLOYD Floyd  Zapatos Derby para Hombre  Negro  Schwarz 0   44.5 EU'
 ---
 
 Tienes [LLOYD Floyd  Zapatos Derby para Hombre  Negro  Schwarz 0   44.5 EU](https://www.amazon.es/dp/B07F2CVDFV/?tag=tolees-21) con un 48.36 % de descuento con precio de oferta de 67.08 EUR (original: 129.9 EUR) en el siguiente enlace!

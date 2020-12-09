@@ -14,7 +14,7 @@ currency: EUR
 price: 11.75
 comparePrice: 28 EUR
 inStock: true
-prodname: Goodthreads Camisa Oxford de Manga Larga Estampado Tartán Standard Fit Hombre  Azul  green navy tartan   Medium
+prodname: 'Goodthreads Camisa Oxford de Manga Larga Estampado Tartán Standard Fit Hombre  Azul  green navy tartan   Medium'
 ---
 
 Ahora mismo tienes [Goodthreads Camisa Oxford de Manga Larga Estampado Tartán Standard Fit Hombre  Azul  green navy tartan   Medium](https://www.amazon.es/dp/B07BKQQDXL/?tag=tolees-21) a 11.75 EUR (original: 28 EUR) (58.04 %  de descuento) en el siguiente enlace!

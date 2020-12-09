@@ -14,7 +14,7 @@ currency: EUR
 price: 0.01
 comparePrice: 15.42 EUR
 inStock: true
-prodname: AIni Mujer Verano De Playa Vestido Estampado Vestido De Lino Y AlgodóN Sin Mangas Vestidos De Fiesta para Bodas Talla Grandes Vestidos Playa Mujer Vestidos Casuales Vestido Midi Vestido Verano
+prodname: 'AIni Mujer Verano De Playa Vestido Estampado Vestido De Lino Y AlgodóN Sin Mangas Vestidos De Fiesta para Bodas Talla Grandes Vestidos Playa Mujer Vestidos Casuales Vestido Midi Vestido Verano'
 ---
 
 Tienes [AIni Mujer Verano De Playa Vestido Estampado Vestido De Lino Y AlgodóN Sin Mangas Vestidos De Fiesta para Bodas Talla Grandes Vestidos Playa Mujer Vestidos Casuales Vestido Midi Vestido Verano](https://www.amazon.es/dp/B07QKZ6VHG/?tag=tolees-21) con un 99.94 % de descuento con precio de oferta de 0.01 EUR (original: 15.42 EUR) en el siguiente enlace!

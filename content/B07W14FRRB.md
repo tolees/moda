@@ -14,13 +14,15 @@ currency: EUR
 price: 16.28
 comparePrice: 35.0 EUR
 inStock: true
-prodname: Pepe Jeans Jay Camiseta  Marfil  Off White 803   Medium para Hombre
+prodname: 'Pepe Jeans Jay Camiseta  Marfil  Off White 803   Medium para Hombre'
 ---
 
-Ahora mismo tienes [Pepe Jeans Jay Camiseta  Marfil  Off White 803   Medium para Hombre](https://www.amazon.es/dp/B07W14FRRB/?tag=tolees-21) a 16.28 EUR (original: 35.0 EUR) (53.49 %  de descuento) en el siguiente enlace!
+Está [Pepe Jeans Jay Camiseta  Marfil  Off White 803   Medium para Hombre](https://www.amazon.es/dp/B07W14FRRB/?tag=tolees-21) con 53.49 de descuento por 16.28 EUR (original: 35.0 EUR) en el siguiente enlace!
 
 [![Pepe Jeans Jay Camiseta  Marfil  Off Whi](https://m.media-amazon.com/images/I/41RICmOPQkL._SL200_.jpg)](https://www.amazon.es/dp/B07W14FRRB/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07W14FRRB/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07W14FRRB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

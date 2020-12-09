@@ -14,7 +14,7 @@ currency: EUR
 price: 41.8
 comparePrice: 114.73 EUR
 inStock: true
-prodname: Timberland 6 Inch Premium Waterproof  Youth   Botas Clasicas Unisex-Niños  Rojo Medium Red Nubuck  32.5 EU
+prodname: 'Timberland 6 Inch Premium Waterproof  Youth   Botas Clasicas Unisex-Niños  Rojo Medium Red Nubuck  32.5 EU'
 ---
 
 Está [Timberland 6 Inch Premium Waterproof  Youth   Botas Clasicas Unisex-Niños  Rojo Medium Red Nubuck  32.5 EU](https://www.amazon.es/dp/B013IFVXBS/?tag=tolees-21) con 63.57 de descuento por 41.8 EUR (original: 114.73 EUR) en el siguiente enlace!

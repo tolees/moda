@@ -14,7 +14,7 @@ currency: EUR
 price: 17.99
 comparePrice: 99.99 EUR
 inStock: true
-prodname: ENGSWA Collar Mujer Grabado Colgante con Cristal Asimétrico Regalo Abuela
+prodname: 'ENGSWA Collar Mujer Grabado Colgante con Cristal Asimétrico Regalo Abuela'
 ---
 
 Está [ENGSWA Collar Mujer Grabado Colgante con Cristal Asimétrico Regalo Abuela](https://www.amazon.es/dp/B07J68BVCQ/?tag=tolees-21) con 82.01 de descuento por 17.99 EUR (original: 99.99 EUR) en el siguiente enlace!

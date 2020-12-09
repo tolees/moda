@@ -14,7 +14,7 @@ currency: EUR
 price: 12.61
 comparePrice: 29.9 EUR
 inStock: true
-prodname: Tommy Hilfiger Holli C-nk tee SS  Camiseta para Mujer  Blanco  Classic White / Silver Foil 905   X-Large
+prodname: 'Tommy Hilfiger Holli C-nk tee SS  Camiseta para Mujer  Blanco  Classic White / Silver Foil 905   X-Large'
 ---
 
 Está [Tommy Hilfiger Holli C-nk tee SS  Camiseta para Mujer  Blanco  Classic White / Silver Foil 905   X-Large](https://www.amazon.es/dp/B07HHBR19N/?tag=tolees-21) con 57.83 de descuento por 12.61 EUR (original: 29.9 EUR) en el siguiente enlace!

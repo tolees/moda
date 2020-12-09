@@ -14,7 +14,7 @@ currency: EUR
 price: 31.85
 comparePrice: 69.95 EUR
 inStock: true
-prodname: Clarks Step Isle Crew  Zapatos de Cordones Derby para Hombre  Rojo  Red-   47 EU
+prodname: 'Clarks Step Isle Crew  Zapatos de Cordones Derby para Hombre  Rojo  Red-   47 EU'
 ---
 
 Tienes [Clarks Step Isle Crew  Zapatos de Cordones Derby para Hombre  Rojo  Red-   47 EU](https://www.amazon.es/dp/B07FQVB1D3/?tag=tolees-21) con un 54.47 % de descuento con precio de oferta de 31.85 EUR (original: 69.95 EUR) en el siguiente enlace!

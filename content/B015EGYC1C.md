@@ -14,7 +14,7 @@ currency: EUR
 price: 33.2
 comparePrice: 119 EUR
 inStock: true
-prodname: GUESS GU6865-5801A  Gafas de Sol para Hombre  Negro  58
+prodname: 'GUESS GU6865-5801A  Gafas de Sol para Hombre  Negro  58'
 ---
 
 Ahora mismo tienes [GUESS GU6865-5801A  Gafas de Sol para Hombre  Negro  58](https://www.amazon.es/dp/B015EGYC1C/?tag=tolees-21) a 33.2 EUR (original: 119 EUR) (72.10 %  de descuento) en el siguiente enlace!

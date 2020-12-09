@@ -14,7 +14,7 @@ currency: EUR
 price: 14.58
 comparePrice: 59.98 EUR
 inStock: true
-prodname: WOCK Everlite  Zuecos Unisex Adulto  Morado  Lila 4540200-35   35 EU
+prodname: 'WOCK Everlite  Zuecos Unisex Adulto  Morado  Lila 4540200-35   35 EU'
 ---
 
 Ahora mismo tienes [WOCK Everlite  Zuecos Unisex Adulto  Morado  Lila 4540200-35   35 EU](https://www.amazon.es/dp/B00BP3QVSG/?tag=tolees-21) a 14.58 EUR (original: 59.98 EUR) (75.69 %  de descuento) en el siguiente enlace!

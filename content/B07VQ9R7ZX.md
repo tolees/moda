@@ -14,13 +14,15 @@ currency: EUR
 price: 43.88
 comparePrice: 109.95 EUR
 inStock: true
-prodname: Lee Worker Drapey Dress Vestido  Verde  Olive Green NX   X-Small para Mujer
+prodname: 'Lee Worker Drapey Dress Vestido  Verde  Olive Green NX   X-Small para Mujer'
 ---
 
-Ahora mismo tienes [Lee Worker Drapey Dress Vestido  Verde  Olive Green NX   X-Small para Mujer](https://www.amazon.es/dp/B07VQ9R7ZX/?tag=tolees-21) a 43.88 EUR (original: 109.95 EUR) (60.09 %  de descuento) en el siguiente enlace!
+Está [Lee Worker Drapey Dress Vestido  Verde  Olive Green NX   X-Small para Mujer](https://www.amazon.es/dp/B07VQ9R7ZX/?tag=tolees-21) con 60.09 de descuento por 43.88 EUR (original: 109.95 EUR) en el siguiente enlace!
 
 [![Lee Worker Drapey Dress Vestido  Verde  ](https://m.media-amazon.com/images/I/31gPUQOgj5L._SL200_.jpg)](https://www.amazon.es/dp/B07VQ9R7ZX/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07VQ9R7ZX/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07VQ9R7ZX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

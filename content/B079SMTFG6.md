@@ -14,7 +14,7 @@ currency: EUR
 price: 23.29
 comparePrice: 52.95 EUR
 inStock: true
-prodname: Desigual Sweat_Diderot  Sudadera Niñas   Navy 5000 
+prodname: 'Desigual Sweat_Diderot  Sudadera Niñas   Navy 5000 '
 ---
 
 Tienes [Desigual Sweat_Diderot  Sudadera Niñas   Navy 5000 ](https://www.amazon.es/dp/B079SMTFG6/?tag=tolees-21) con un 56.02 % de descuento con precio de oferta de 23.29 EUR (original: 52.95 EUR) en el siguiente enlace!

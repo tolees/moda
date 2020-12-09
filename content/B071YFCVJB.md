@@ -14,7 +14,7 @@ currency: EUR
 price: 14.06
 comparePrice: 49.95 EUR
 inStock: true
-prodname: XTI 047530  Botines para Mujer  Negro  Black   36 EU
+prodname: 'XTI 047530  Botines para Mujer  Negro  Black   36 EU'
 ---
 
 Tienes [XTI 047530  Botines para Mujer  Negro  Black   36 EU](https://www.amazon.es/dp/B071YFCVJB/?tag=tolees-21) con un 71.85 % de descuento con precio de oferta de 14.06 EUR (original: 49.95 EUR) en el siguiente enlace!

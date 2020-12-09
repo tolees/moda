@@ -14,7 +14,7 @@ currency: EUR
 price: 31.15
 comparePrice: 159.0 EUR
 inStock: true
-prodname: REPLAY New Luz Vaqueros Skinny  Azul  Light Blue 10   No Aplica /L28  Talla del Fabricante: 26  para Mujer
+prodname: 'REPLAY New Luz Vaqueros Skinny  Azul  Light Blue 10   No Aplica /L28  Talla del Fabricante: 26  para Mujer'
 ---
 
 Está [REPLAY New Luz Vaqueros Skinny  Azul  Light Blue 10   No Aplica /L28  Talla del Fabricante: 26  para Mujer](https://www.amazon.es/dp/B07SWSX9XZ/?tag=tolees-21) con 80.41 de descuento por 31.15 EUR (original: 159.0 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 9
 comparePrice: 17.99 EUR
 inStock: true
-prodname: Iris & Lilly BLICR001 sujetadores  Beige  Black/nude   95A  Talla del fabricante: 36A 
+prodname: 'Iris & Lilly BLICR001 sujetadores  Beige  Black/nude   95A  Talla del fabricante: 36A '
 ---
 
 Tienes [Iris & Lilly BLICR001 sujetadores  Beige  Black/nude   95A  Talla del fabricante: 36A ](https://www.amazon.es/dp/B06XSYK3CT/?tag=tolees-21) con un 49.97 % de descuento con precio de oferta de 9 EUR (original: 17.99 EUR) en el siguiente enlace!

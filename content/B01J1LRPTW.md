@@ -14,7 +14,7 @@ currency: EUR
 price: 17.22
 comparePrice: 34.9 EUR
 inStock: true
-prodname: Crocs Crocband II Sandal Kids  Sandalias Unisex Niños  Verde  Volt Green/Navy   34/35 EU
+prodname: 'Crocs Crocband II Sandal Kids  Sandalias Unisex Niños  Verde  Volt Green/Navy   34/35 EU'
 ---
 
 Está [Crocs Crocband II Sandal Kids  Sandalias Unisex Niños  Verde  Volt Green/Navy   34/35 EU](https://www.amazon.es/dp/B01J1LRPTW/?tag=tolees-21) con 50.66 de descuento por 17.22 EUR (original: 34.9 EUR) en el siguiente enlace!

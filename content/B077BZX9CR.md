@@ -14,7 +14,7 @@ currency: EUR
 price: 7.23
 comparePrice: 29.95 EUR
 inStock: true
-prodname: Bench Corp Logo tee Camiseta  Rosa  Cabaret Pk11397   Small para Mujer
+prodname: 'Bench Corp Logo tee Camiseta  Rosa  Cabaret Pk11397   Small para Mujer'
 ---
 
 Tienes [Bench Corp Logo tee Camiseta  Rosa  Cabaret Pk11397   Small para Mujer](https://www.amazon.es/dp/B077BZX9CR/?tag=tolees-21) con un 75.86 % de descuento con precio de oferta de 7.23 EUR (original: 29.95 EUR) en el siguiente enlace!

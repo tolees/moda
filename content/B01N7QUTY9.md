@@ -14,7 +14,7 @@ currency: EUR
 price: 45.5
 comparePrice: 65 EUR
 inStock: true
-prodname: FIND Leather Lace Up Brogue  Zapatos de Vestir Hombre  Marrón  Brown   43 EU
+prodname: 'FIND Leather Lace Up Brogue  Zapatos de Vestir Hombre  Marrón  Brown   43 EU'
 ---
 
 Tienes [FIND Leather Lace Up Brogue  Zapatos de Vestir Hombre  Marrón  Brown   43 EU](https://www.amazon.es/dp/B01N7QUTY9/?tag=tolees-21) con un 30.00 % de descuento con precio de oferta de 45.5 EUR (original: 65 EUR) en el siguiente enlace!

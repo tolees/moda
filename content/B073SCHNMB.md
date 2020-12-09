@@ -14,7 +14,7 @@ currency: EUR
 price: 5
 comparePrice: 12 EUR
 inStock: true
-prodname: FIND Camiseta Bronx para Hombre  Gris  Grey Marl 003   X-Large
+prodname: 'FIND Camiseta Bronx para Hombre  Gris  Grey Marl 003   X-Large'
 ---
 
 Tienes [FIND Camiseta Bronx para Hombre  Gris  Grey Marl 003   X-Large](https://www.amazon.es/dp/B073SCHNMB/?tag=tolees-21) con un 58.33 % de descuento con precio de oferta de 5 EUR (original: 12 EUR) en el siguiente enlace!

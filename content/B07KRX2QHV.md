@@ -14,7 +14,7 @@ currency: EUR
 price: 59.28
 comparePrice: 149.99 EUR
 inStock: true
-prodname: Columbia Mujer Chaqueta impermeable  Hideaway Creek Jacket  Poliéster  Azul  India Ink   Talla: XL  1840361
+prodname: 'Columbia Mujer Chaqueta impermeable  Hideaway Creek Jacket  Poliéster  Azul  India Ink   Talla: XL  1840361'
 ---
 
 Tienes [Columbia Mujer Chaqueta impermeable  Hideaway Creek Jacket  Poliéster  Azul  India Ink   Talla: XL  1840361](https://www.amazon.es/dp/B07KRX2QHV/?tag=tolees-21) con un 60.48 % de descuento con precio de oferta de 59.28 EUR (original: 149.99 EUR) en el siguiente enlace!

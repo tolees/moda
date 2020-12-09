@@ -14,7 +14,7 @@ currency: EUR
 price: 90.55
 comparePrice: 189.99 EUR
 inStock: true
-prodname: RIP CURL Enigma PTD JKT Chaqueta  Hombre  Cypress  M
+prodname: 'RIP CURL Enigma PTD JKT Chaqueta  Hombre  Cypress  M'
 ---
 
 Ahora mismo tienes [RIP CURL Enigma PTD JKT Chaqueta  Hombre  Cypress  M](https://www.amazon.es/dp/B07GDWX3H6/?tag=tolees-21) a 90.55 EUR (original: 189.99 EUR) (52.34 %  de descuento) en el siguiente enlace!

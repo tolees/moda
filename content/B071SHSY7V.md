@@ -14,7 +14,7 @@ currency: EUR
 price: 15.62
 comparePrice: 30.38 EUR
 inStock: true
-prodname: Khanomak - Pantalón Corto Deportivo - para Mujer Rojo Granate Large
+prodname: 'Khanomak - Pantalón Corto Deportivo - para Mujer Rojo Granate Large'
 ---
 
 Ahora mismo tienes [Khanomak - Pantalón Corto Deportivo - para Mujer Rojo Granate Large](https://www.amazon.es/dp/B071SHSY7V/?tag=tolees-21) a 15.62 EUR (original: 30.38 EUR) (48.58 %  de descuento) en el siguiente enlace!

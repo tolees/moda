@@ -14,7 +14,7 @@ currency: EUR
 price: 108.99
 comparePrice: 149.99 EUR
 inStock: true
-prodname: Columbia Pike Lake  Chaqueta forrada con capucha  Hombre  Azul oscuro Nocturnal   Talla L
+prodname: 'Columbia Pike Lake  Chaqueta forrada con capucha  Hombre  Azul oscuro Nocturnal   Talla L'
 ---
 
 Está [Columbia Pike Lake  Chaqueta forrada con capucha  Hombre  Azul oscuro Nocturnal   Talla L](https://www.amazon.es/dp/B07DYWQJK1/?tag=tolees-21) con 27.34 de descuento por 108.99 EUR (original: 149.99 EUR) en el siguiente enlace!

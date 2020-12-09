@@ -14,7 +14,7 @@ currency: EUR
 price: 14.62
 comparePrice: 28 EUR
 inStock: true
-prodname: Salomon Coton Logo SS tee Camiseta  Hombre  Gris  Vapor   M
+prodname: 'Salomon Coton Logo SS tee Camiseta  Hombre  Gris  Vapor   M'
 ---
 
 Tienes [Salomon Coton Logo SS tee Camiseta  Hombre  Gris  Vapor   M](https://www.amazon.es/dp/B07KT2QYFG/?tag=tolees-21) con un 47.79 % de descuento con precio de oferta de 14.62 EUR (original: 28 EUR) en el siguiente enlace!

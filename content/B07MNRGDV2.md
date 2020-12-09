@@ -14,7 +14,7 @@ currency: EUR
 price: 23.81
 comparePrice: 99.95 EUR
 inStock: true
-prodname: G-STAR RAW Lynn Mid-Waist Skinny Vaqueros  Azul  Medium Indigo Aged 8968-6028   23W / 28L para Mujer
+prodname: 'G-STAR RAW Lynn Mid-Waist Skinny Vaqueros  Azul  Medium Indigo Aged 8968-6028   23W / 28L para Mujer'
 ---
 
 Ahora mismo tienes [G-STAR RAW Lynn Mid-Waist Skinny Vaqueros  Azul  Medium Indigo Aged 8968-6028   23W / 28L para Mujer](https://www.amazon.es/dp/B07MNRGDV2/?tag=tolees-21) a 23.81 EUR (original: 99.95 EUR) (76.18 %  de descuento) en el siguiente enlace!

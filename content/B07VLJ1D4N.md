@@ -14,7 +14,7 @@ currency: EUR
 price: 15.09
 comparePrice: 45.0 EUR
 inStock: true
-prodname: Tommy Hilfiger Tjw Diagonal Logo tee Camiseta  Blanco  White Ybr   40  Talla del Fabricante: Large  para Mujer
+prodname: 'Tommy Hilfiger Tjw Diagonal Logo tee Camiseta  Blanco  White Ybr   40  Talla del Fabricante: Large  para Mujer'
 ---
 
 Ahora mismo tienes [Tommy Hilfiger Tjw Diagonal Logo tee Camiseta  Blanco  White Ybr   40  Talla del Fabricante: Large  para Mujer](https://www.amazon.es/dp/B07VLJ1D4N/?tag=tolees-21) a 15.09 EUR (original: 45.0 EUR) (66.47 %  de descuento) en el siguiente enlace!

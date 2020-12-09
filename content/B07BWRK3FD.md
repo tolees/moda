@@ -14,7 +14,7 @@ currency: EUR
 price: 18.45
 comparePrice: 45.99 EUR
 inStock: true
-prodname: Eferri 0JV5900  Bolso de mano para Mujer  Plateado  Plata   21x14x29 cm  W x H x L 
+prodname: 'Eferri 0JV5900  Bolso de mano para Mujer  Plateado  Plata   21x14x29 cm  W x H x L '
 ---
 
 Tienes [Eferri 0JV5900  Bolso de mano para Mujer  Plateado  Plata   21x14x29 cm  W x H x L ](https://www.amazon.es/dp/B07BWRK3FD/?tag=tolees-21) con un 59.88 % de descuento con precio de oferta de 18.45 EUR (original: 45.99 EUR) en el siguiente enlace!

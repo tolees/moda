@@ -14,7 +14,7 @@ currency: EUR
 price: 34.95
 comparePrice: 69.9 EUR
 inStock: true
-prodname: Geox Jr Garcia Boy B  Zapatillas Altas para Niños  Azul  Navy C4002   30 EU
+prodname: 'Geox Jr Garcia Boy B  Zapatillas Altas para Niños  Azul  Navy C4002   30 EU'
 ---
 
 Ahora mismo tienes [Geox Jr Garcia Boy B  Zapatillas Altas para Niños  Azul  Navy C4002   30 EU](https://www.amazon.es/dp/B0792TCWDV/?tag=tolees-21) a 34.95 EUR (original: 69.9 EUR) (50.00 %  de descuento) en el siguiente enlace!

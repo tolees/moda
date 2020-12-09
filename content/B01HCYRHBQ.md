@@ -14,7 +14,7 @@ currency: EUR
 price: 14.71
 comparePrice: 24.95 EUR
 inStock: true
-prodname: JACK & JONES JACLICHFIELD TRUNKS 3 PACK  Bóxer Hombre  Multicolor  Burgundy   X-Large
+prodname: 'JACK & JONES JACLICHFIELD TRUNKS 3 PACK  Bóxer Hombre  Multicolor  Burgundy   X-Large'
 ---
 
 Está [JACK & JONES JACLICHFIELD TRUNKS 3 PACK  Bóxer Hombre  Multicolor  Burgundy   X-Large](https://www.amazon.es/dp/B01HCYRHBQ/?tag=tolees-21) con 41.04 de descuento por 14.71 EUR (original: 24.95 EUR) en el siguiente enlace!

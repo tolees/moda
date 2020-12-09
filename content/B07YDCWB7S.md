@@ -14,7 +14,7 @@ currency: EUR
 price: 25.19
 comparePrice: 50.0 EUR
 inStock: true
-prodname: Realmark Bolso de Cuero Genuino Mochila Bolso de Hombro Bolso de Pecho Bolso Bandolera Monedero Mochila
+prodname: 'Realmark Bolso de Cuero Genuino Mochila Bolso de Hombro Bolso de Pecho Bolso Bandolera Monedero Mochila'
 ---
 
 Tienes [Realmark Bolso de Cuero Genuino Mochila Bolso de Hombro Bolso de Pecho Bolso Bandolera Monedero Mochila](https://www.amazon.es/dp/B07YDCWB7S/?tag=tolees-21) con un 49.62 % de descuento con precio de oferta de 25.19 EUR (original: 50.0 EUR) en el siguiente enlace!

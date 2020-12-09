@@ -14,7 +14,7 @@ currency: EUR
 price: 133.65
 comparePrice: 310 EUR
 inStock: true
-prodname: Fendi Brillengestelle FF 0011 7SU/17-53-17-135 Monturas de gafas  Blanco  Weiß   53.0 para Mujer
+prodname: 'Fendi Brillengestelle FF 0011 7SU/17-53-17-135 Monturas de gafas  Blanco  Weiß   53.0 para Mujer'
 ---
 
 Ahora mismo tienes [Fendi Brillengestelle FF 0011 7SU/17-53-17-135 Monturas de gafas  Blanco  Weiß   53.0 para Mujer](https://www.amazon.es/dp/B00HUWQUIC/?tag=tolees-21) a 133.65 EUR (original: 310 EUR) (56.89 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 33.09
 comparePrice: 99.9 EUR
 inStock: true
-prodname: Nanos Jersey para Niñas   Rosa Palo 26   3 años  Tamaño del Fabricante:3 
+prodname: 'Nanos Jersey para Niñas   Rosa Palo 26   3 años  Tamaño del Fabricante:3 '
 ---
 
 Tienes [Nanos Jersey para Niñas   Rosa Palo 26   3 años  Tamaño del Fabricante:3 ](https://www.amazon.es/dp/B07B4CPCJX/?tag=tolees-21) con un 66.88 % de descuento con precio de oferta de 33.09 EUR (original: 99.9 EUR) en el siguiente enlace!

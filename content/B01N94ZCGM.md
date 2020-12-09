@@ -14,7 +14,7 @@ currency: EUR
 price: 42.68
 comparePrice: 109 EUR
 inStock: true
-prodname: Ralph Lauren RALPH BY 0Ra5226 Gafas de sol  Black  56 para Mujer
+prodname: 'Ralph Lauren RALPH BY 0Ra5226 Gafas de sol  Black  56 para Mujer'
 ---
 
 Ahora mismo tienes [Ralph Lauren RALPH BY 0Ra5226 Gafas de sol  Black  56 para Mujer](https://www.amazon.es/dp/B01N94ZCGM/?tag=tolees-21) a 42.68 EUR (original: 109 EUR) (60.84 %  de descuento) en el siguiente enlace!

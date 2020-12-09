@@ -14,7 +14,7 @@ currency: EUR
 price: 2.7
 comparePrice: 12.9 EUR
 inStock: true
-prodname: oodji Ultra Mujer Camiseta con Inscripción y Dobladillos en Las Mangas  Morado  ES 40/M
+prodname: 'oodji Ultra Mujer Camiseta con Inscripción y Dobladillos en Las Mangas  Morado  ES 40/M'
 ---
 
 Ahora mismo tienes [oodji Ultra Mujer Camiseta con Inscripción y Dobladillos en Las Mangas  Morado  ES 40/M](https://www.amazon.es/dp/B06XXMVLF7/?tag=tolees-21) a 2.7 EUR (original: 12.9 EUR) (79.07 %  de descuento) en el siguiente enlace!

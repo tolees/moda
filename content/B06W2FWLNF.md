@@ -14,7 +14,7 @@ currency: EUR
 price: 9.58
 comparePrice: 19.9 EUR
 inStock: true
-prodname: boboli 424088 Camiseta de Manga Larga  Niñas  Blanco  Blanco Químico   104  Tamaño del Fabricante:104cm 
+prodname: 'boboli 424088 Camiseta de Manga Larga  Niñas  Blanco  Blanco Químico   104  Tamaño del Fabricante:104cm '
 ---
 
 Está [boboli 424088 Camiseta de Manga Larga  Niñas  Blanco  Blanco Químico   104  Tamaño del Fabricante:104cm ](https://www.amazon.es/dp/B06W2FWLNF/?tag=tolees-21) con 51.86 de descuento por 9.58 EUR (original: 19.9 EUR) en el siguiente enlace!

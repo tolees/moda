@@ -14,7 +14,7 @@ currency: EUR
 price: 14.73
 comparePrice: 59.99 EUR
 inStock: true
-prodname: ESPRIT Collection 078eo1i004 Chaqueta Punto  Azul  Navy 400   Medium para Mujer
+prodname: 'ESPRIT Collection 078eo1i004 Chaqueta Punto  Azul  Navy 400   Medium para Mujer'
 ---
 
 Está [ESPRIT Collection 078eo1i004 Chaqueta Punto  Azul  Navy 400   Medium para Mujer](https://www.amazon.es/dp/B07BBYKNBW/?tag=tolees-21) con 75.45 de descuento por 14.73 EUR (original: 59.99 EUR) en el siguiente enlace!

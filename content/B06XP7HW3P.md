@@ -14,7 +14,7 @@ currency: EUR
 price: 18.31
 comparePrice: 40 EUR
 inStock: true
-prodname: find. Vaqueros Rectos Ajustados para Hombre  Negro  Light Wash   W30/L34  Talla del fabricante: 30 
+prodname: 'find. Vaqueros Rectos Ajustados para Hombre  Negro  Light Wash   W30/L34  Talla del fabricante: 30 '
 ---
 
 Tienes [find. Vaqueros Rectos Ajustados para Hombre  Negro  Light Wash   W30/L34  Talla del fabricante: 30 ](https://www.amazon.es/dp/B06XP7HW3P/?tag=tolees-21) con un 54.23 % de descuento con precio de oferta de 18.31 EUR (original: 40 EUR) en el siguiente enlace!

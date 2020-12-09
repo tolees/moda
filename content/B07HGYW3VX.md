@@ -14,7 +14,7 @@ currency: EUR
 price: 17.43
 comparePrice: 24.98 EUR
 inStock: true
-prodname: Kit de Reparación de Neumáticos 100pcs  TECCPO Reparación de Neumáticos con Mechas para llantas  Herramientas Automotrices Punción Multifuncional con Maleta Negra  Guantes  Clavos de Reparación Rápida
+prodname: 'Kit de Reparación de Neumáticos 100pcs  TECCPO Reparación de Neumáticos con Mechas para llantas  Herramientas Automotrices Punción Multifuncional con Maleta Negra  Guantes  Clavos de Reparación Rápida'
 ---
 
 Está [Kit de Reparación de Neumáticos 100pcs  TECCPO Reparación de Neumáticos con Mechas para llantas  Herramientas Automotrices Punción Multifuncional con Maleta Negra  Guantes  Clavos de Reparación Rápida](https://www.amazon.es/dp/B07HGYW3VX/?tag=tolees-21) con 30.22 de descuento por 17.43 EUR (original: 24.98 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 25.04
 comparePrice: 69.95 EUR
 inStock: true
-prodname: Clarks Scape Street K  Zapatos de Cordones Brogue para Niños  Negro  Black Leather-   32 EU
+prodname: 'Clarks Scape Street K  Zapatos de Cordones Brogue para Niños  Negro  Black Leather-   32 EU'
 ---
 
 Tienes [Clarks Scape Street K  Zapatos de Cordones Brogue para Niños  Negro  Black Leather-   32 EU](https://www.amazon.es/dp/B07FNFTHZC/?tag=tolees-21) con un 64.20 % de descuento con precio de oferta de 25.04 EUR (original: 69.95 EUR) en el siguiente enlace!

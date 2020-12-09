@@ -14,7 +14,7 @@ currency: EUR
 price: 4.86
 comparePrice: 12.99 EUR
 inStock: true
-prodname: Springfield 4Ca Slub Brochazo Wild AZ  Sudadera para Hombre   Gama Azules 12   Medium  Tamaño del Fabricante:M 
+prodname: 'Springfield 4Ca Slub Brochazo Wild AZ  Sudadera para Hombre   Gama Azules 12   Medium  Tamaño del Fabricante:M '
 ---
 
 Ahora mismo tienes [Springfield 4Ca Slub Brochazo Wild AZ  Sudadera para Hombre   Gama Azules 12   Medium  Tamaño del Fabricante:M ](https://www.amazon.es/dp/B07DLS5STR/?tag=tolees-21) a 4.86 EUR (original: 12.99 EUR) (62.59 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 38.54
 comparePrice: 140 EUR
 inStock: true
-prodname: Pepe Jeans Walbrooks Chaqueta  Negro  Black 999   XXL para Hombre
+prodname: 'Pepe Jeans Walbrooks Chaqueta  Negro  Black 999   XXL para Hombre'
 ---
 
 Está [Pepe Jeans Walbrooks Chaqueta  Negro  Black 999   XXL para Hombre](https://www.amazon.es/dp/B079S4VFJD/?tag=tolees-21) con 72.47 de descuento por 38.54 EUR (original: 140 EUR) en el siguiente enlace!

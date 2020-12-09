@@ -14,7 +14,7 @@ currency: EUR
 price: 8.03
 comparePrice: 12.56 EUR
 inStock: true
-prodname: Marca Amazon - find. Jersey Largo sin Hombros  Mujer  Negro  Black   36  Label: XS
+prodname: 'Marca Amazon - find. Jersey Largo sin Hombros  Mujer  Negro  Black   36  Label: XS'
 ---
 
 Tienes [Marca Amazon - find. Jersey Largo sin Hombros  Mujer  Negro  Black   36  Label: XS](https://www.amazon.es/dp/B07YF94ZLW/?tag=tolees-21) con un 36.07 % de descuento con precio de oferta de 8.03 EUR (original: 12.56 EUR) en el siguiente enlace!

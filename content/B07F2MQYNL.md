@@ -14,7 +14,7 @@ currency: EUR
 price: 44.95
 comparePrice: 90 EUR
 inStock: true
-prodname: Levi s 511 Fit  Vaqueros Slim para Hombre  Gris  Lead Gray 14W Warp Str Cord B WT 2 3255  28W / 32L
+prodname: 'Levi s 511 Fit  Vaqueros Slim para Hombre  Gris  Lead Gray 14W Warp Str Cord B WT 2 3255  28W / 32L'
 ---
 
 Está [Levi s 511 Fit  Vaqueros Slim para Hombre  Gris  Lead Gray 14W Warp Str Cord B WT 2 3255  28W / 32L](https://www.amazon.es/dp/B07F2MQYNL/?tag=tolees-21) con 50.06 de descuento por 44.95 EUR (original: 90 EUR) en el siguiente enlace!

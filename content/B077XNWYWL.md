@@ -14,7 +14,7 @@ currency: EUR
 price: 14.25
 comparePrice: 26 EUR
 inStock: true
-prodname: Under Armour - Camiseta de Tirantes para Mujer con Logotipo de WM  Mujer  1323449-001  Black/White/Metallic Silver  Medium
+prodname: 'Under Armour - Camiseta de Tirantes para Mujer con Logotipo de WM  Mujer  1323449-001  Black/White/Metallic Silver  Medium'
 ---
 
 Ahora mismo tienes [Under Armour - Camiseta de Tirantes para Mujer con Logotipo de WM  Mujer  1323449-001  Black/White/Metallic Silver  Medium](https://www.amazon.es/dp/B077XNWYWL/?tag=tolees-21) a 14.25 EUR (original: 26 EUR) (45.19 %  de descuento) en el siguiente enlace!

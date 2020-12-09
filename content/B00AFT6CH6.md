@@ -14,7 +14,7 @@ currency: EUR
 price: 16.75
 comparePrice: 26.9 EUR
 inStock: true
-prodname: Suecos Skoll  Zuecos de Trabajo Unisex Adulto  Blanco  White   37 EU
+prodname: 'Suecos Skoll  Zuecos de Trabajo Unisex Adulto  Blanco  White   37 EU'
 ---
 
 Tienes [Suecos Skoll  Zuecos de Trabajo Unisex Adulto  Blanco  White   37 EU](https://www.amazon.es/dp/B00AFT6CH6/?tag=tolees-21) con un 37.73 % de descuento con precio de oferta de 16.75 EUR (original: 26.9 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 14.04
 comparePrice: 29.99 EUR
 inStock: true
-prodname: Vero Moda Vmmendota LS O-Neck Blouse suéter  Azul  Navy Blazer Detail:Eggnog Edges   36  Talla del Fabricante: Small  para Mujer
+prodname: 'Vero Moda Vmmendota LS O-Neck Blouse suéter  Azul  Navy Blazer Detail:Eggnog Edges   36  Talla del Fabricante: Small  para Mujer'
 ---
 
 Está [Vero Moda Vmmendota LS O-Neck Blouse suéter  Azul  Navy Blazer Detail:Eggnog Edges   36  Talla del Fabricante: Small  para Mujer](https://www.amazon.es/dp/B072N8FPVR/?tag=tolees-21) con 53.18 de descuento por 14.04 EUR (original: 29.99 EUR) en el siguiente enlace!

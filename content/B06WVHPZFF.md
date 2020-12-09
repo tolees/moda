@@ -14,7 +14,7 @@ currency: EUR
 price: 24.22
 comparePrice: 44.9 EUR
 inStock: true
-prodname: SideCar Ayuda-V17 Camiseta  Mujer   Estampado   Medium  Tamaño del Fabricante:M 
+prodname: 'SideCar Ayuda-V17 Camiseta  Mujer   Estampado   Medium  Tamaño del Fabricante:M '
 ---
 
 Ahora mismo tienes [SideCar Ayuda-V17 Camiseta  Mujer   Estampado   Medium  Tamaño del Fabricante:M ](https://www.amazon.es/dp/B06WVHPZFF/?tag=tolees-21) a 24.22 EUR (original: 44.9 EUR) (46.06 %  de descuento) en el siguiente enlace!

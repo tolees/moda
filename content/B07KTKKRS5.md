@@ -14,7 +14,7 @@ currency: EUR
 price: 14.99
 comparePrice: 29.99 EUR
 inStock: true
-prodname: RianGor Patrón de Flor de PU Cuero Borde Sexo Collar con Cadena para SM Gmae
+prodname: 'RianGor Patrón de Flor de PU Cuero Borde Sexo Collar con Cadena para SM Gmae'
 ---
 
 Ahora mismo tienes [RianGor Patrón de Flor de PU Cuero Borde Sexo Collar con Cadena para SM Gmae](https://www.amazon.es/dp/B07KTKKRS5/?tag=tolees-21) a 14.99 EUR (original: 29.99 EUR) (50.02 %  de descuento) en el siguiente enlace!

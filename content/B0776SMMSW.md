@@ -14,7 +14,7 @@ currency: EUR
 price: 19.95
 comparePrice: 29 EUR
 inStock: true
-prodname: Tommy Jeans Hombre Original Jersey Camiseta Manga Corta  Gris  Lt Grey Htr 038  Large
+prodname: 'Tommy Jeans Hombre Original Jersey Camiseta Manga Corta  Gris  Lt Grey Htr 038  Large'
 ---
 
 Tienes [Tommy Jeans Hombre Original Jersey Camiseta Manga Corta  Gris  Lt Grey Htr 038  Large](https://www.amazon.es/dp/B0776SMMSW/?tag=tolees-21) con un 31.21 % de descuento con precio de oferta de 19.95 EUR (original: 29 EUR) en el siguiente enlace!

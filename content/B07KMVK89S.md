@@ -14,7 +14,7 @@ currency: EUR
 price: 14.99
 comparePrice: 30 EUR
 inStock: true
-prodname: Volcom Halfer BSC SS Camiseta  Hombre  Black  XS
+prodname: 'Volcom Halfer BSC SS Camiseta  Hombre  Black  XS'
 ---
 
 Ahora mismo tienes [Volcom Halfer BSC SS Camiseta  Hombre  Black  XS](https://www.amazon.es/dp/B07KMVK89S/?tag=tolees-21) a 14.99 EUR (original: 30 EUR) (50.03 %  de descuento) en el siguiente enlace!

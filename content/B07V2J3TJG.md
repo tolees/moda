@@ -14,7 +14,7 @@ currency: EUR
 price: 12.0
 comparePrice: 34.9 EUR
 inStock: true
-prodname: Tommy Hilfiger Tommy Jeans Print Beach Sandal  Chanclas para Hombre  Negro  Black Bds   42 EU
+prodname: 'Tommy Hilfiger Tommy Jeans Print Beach Sandal  Chanclas para Hombre  Negro  Black Bds   42 EU'
 ---
 
 Ahora mismo tienes [Tommy Hilfiger Tommy Jeans Print Beach Sandal  Chanclas para Hombre  Negro  Black Bds   42 EU](https://www.amazon.es/dp/B07V2J3TJG/?tag=tolees-21) a 12.0 EUR (original: 34.9 EUR) (65.62 %  de descuento) en el siguiente enlace!

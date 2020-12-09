@@ -14,7 +14,7 @@ currency: EUR
 price: 21.03
 comparePrice: 39.95 EUR
 inStock: true
-prodname: XTI 35030  Zapatos de tacón con Punta Cerrada para Mujer  Rosa Nude  39 EU
+prodname: 'XTI 35030  Zapatos de tacón con Punta Cerrada para Mujer  Rosa Nude  39 EU'
 ---
 
 Está [XTI 35030  Zapatos de tacón con Punta Cerrada para Mujer  Rosa Nude  39 EU](https://www.amazon.es/dp/B07JMLY7L1/?tag=tolees-21) con 47.36 de descuento por 21.03 EUR (original: 39.95 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 11.12
 comparePrice: 14.99 EUR
 inStock: true
-prodname: Iris & Lilly Braguita Estilo Bikini Body Smooth Mujer  Pack de 5  Multicolor  White/fiery Red/spanish Villa/maritime Blue    Talla del fabricante: Medium 
+prodname: 'Iris & Lilly Braguita Estilo Bikini Body Smooth Mujer  Pack de 5  Multicolor  White/fiery Red/spanish Villa/maritime Blue    Talla del fabricante: Medium '
 ---
 
 Está [Iris & Lilly Braguita Estilo Bikini Body Smooth Mujer  Pack de 5  Multicolor  White/fiery Red/spanish Villa/maritime Blue    Talla del fabricante: Medium ](https://www.amazon.es/dp/B078HGLL5D/?tag=tolees-21) con 25.82 de descuento por 11.12 EUR (original: 14.99 EUR) en el siguiente enlace!

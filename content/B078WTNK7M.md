@@ -14,7 +14,7 @@ currency: EUR
 price: 45.64
 comparePrice: 99.99 EUR
 inStock: true
-prodname: Cortefiel Vestido Manga Larga   Varios 3   Medium para Mujer
+prodname: 'Cortefiel Vestido Manga Larga   Varios 3   Medium para Mujer'
 ---
 
 Tienes [Cortefiel Vestido Manga Larga   Varios 3   Medium para Mujer](https://www.amazon.es/dp/B078WTNK7M/?tag=tolees-21) con un 54.36 % de descuento con precio de oferta de 45.64 EUR (original: 99.99 EUR) en el siguiente enlace!

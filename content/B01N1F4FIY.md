@@ -14,7 +14,7 @@ currency: EUR
 price: 20.32
 comparePrice: 52.86 EUR
 inStock: true
-prodname: Antony Morato MMSS00131-FA400007-7047  Camisa Para Hombre  Azul  Blu Persiano   talla del fabricante: 50
+prodname: 'Antony Morato MMSS00131-FA400007-7047  Camisa Para Hombre  Azul  Blu Persiano   talla del fabricante: 50'
 ---
 
 Está [Antony Morato MMSS00131-FA400007-7047  Camisa Para Hombre  Azul  Blu Persiano   talla del fabricante: 50](https://www.amazon.es/dp/B01N1F4FIY/?tag=tolees-21) con 61.56 de descuento por 20.32 EUR (original: 52.86 EUR) en el siguiente enlace!

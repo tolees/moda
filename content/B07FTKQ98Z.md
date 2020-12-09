@@ -14,7 +14,7 @@ currency: EUR
 price: 11.4
 comparePrice: 25 EUR
 inStock: true
-prodname: Lee Logo tee  Camiseta Hombre  Marfil  Bright White Lj   X-Large
+prodname: 'Lee Logo tee  Camiseta Hombre  Marfil  Bright White Lj   X-Large'
 ---
 
 Está [Lee Logo tee  Camiseta Hombre  Marfil  Bright White Lj   X-Large](https://www.amazon.es/dp/B07FTKQ98Z/?tag=tolees-21) con 54.40 de descuento por 11.4 EUR (original: 25 EUR) en el siguiente enlace!

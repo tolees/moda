@@ -14,7 +14,7 @@ currency: EUR
 price: 32.77
 comparePrice: 54.95 EUR
 inStock: true
-prodname: Clarks Step Beat Sun  Sandalias Punta Cerrada para Hombre  Azul  Navy-   41 EU
+prodname: 'Clarks Step Beat Sun  Sandalias Punta Cerrada para Hombre  Azul  Navy-   41 EU'
 ---
 
 Tienes [Clarks Step Beat Sun  Sandalias Punta Cerrada para Hombre  Azul  Navy-   41 EU](https://www.amazon.es/dp/B07FR64YBJ/?tag=tolees-21) con un 40.36 % de descuento con precio de oferta de 32.77 EUR (original: 54.95 EUR) en el siguiente enlace!

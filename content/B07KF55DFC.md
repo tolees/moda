@@ -14,7 +14,7 @@ currency: EUR
 price: 48.9
 comparePrice: 110.0 EUR
 inStock: true
-prodname: Levi s 501 Crop Vaqueros Boyfriend  Black Heart  25W / 28L para Mujer
+prodname: 'Levi s 501 Crop Vaqueros Boyfriend  Black Heart  25W / 28L para Mujer'
 ---
 
 Ahora mismo tienes [Levi s 501 Crop Vaqueros Boyfriend  Black Heart  25W / 28L para Mujer](https://www.amazon.es/dp/B07KF55DFC/?tag=tolees-21) a 48.9 EUR (original: 110.0 EUR) (55.55 %  de descuento) en el siguiente enlace!

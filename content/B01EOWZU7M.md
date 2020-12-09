@@ -14,7 +14,7 @@ currency: EUR
 price: 101.78
 comparePrice: 230.0 EUR
 inStock: true
-prodname: Helly Hansen Dubliner Parka Chaqueta 3/4 Impermeable  Cortaviento y Transpirable para Hombre para el Uso Diario  Azul  Marino   L
+prodname: 'Helly Hansen Dubliner Parka Chaqueta 3/4 Impermeable  Cortaviento y Transpirable para Hombre para el Uso Diario  Azul  Marino   L'
 ---
 
 Tienes [Helly Hansen Dubliner Parka Chaqueta 3/4 Impermeable  Cortaviento y Transpirable para Hombre para el Uso Diario  Azul  Marino   L](https://www.amazon.es/dp/B01EOWZU7M/?tag=tolees-21) con un 55.75 % de descuento con precio de oferta de 101.78 EUR (original: 230.0 EUR) en el siguiente enlace!

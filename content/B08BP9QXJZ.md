@@ -14,7 +14,7 @@ currency: EUR
 price: 29.99
 comparePrice: 65.97 EUR
 inStock: true
-prodname: FIZILI Relojes Hombre Moda Deporte Cuarzo Analógico Malla Acero Inoxidable Impermeable Cronógrafo Reloj de Pulsera 2280H
+prodname: 'FIZILI Relojes Hombre Moda Deporte Cuarzo Analógico Malla Acero Inoxidable Impermeable Cronógrafo Reloj de Pulsera 2280H'
 ---
 
 Está [FIZILI Relojes Hombre Moda Deporte Cuarzo Analógico Malla Acero Inoxidable Impermeable Cronógrafo Reloj de Pulsera 2280H](https://www.amazon.es/dp/B08BP9QXJZ/?tag=tolees-21) con 54.54 de descuento por 29.99 EUR (original: 65.97 EUR) en el siguiente enlace!

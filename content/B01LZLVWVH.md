@@ -14,7 +14,7 @@ currency: EUR
 price: 5.44
 comparePrice: 48.09 EUR
 inStock: true
-prodname: Eddie Bauer Langarmhemd Kariert Camisa  Azul Oscuro  43 cm  17"  para Hombre
+prodname: 'Eddie Bauer Langarmhemd Kariert Camisa  Azul Oscuro  43 cm  17"  para Hombre'
 ---
 
 Ahora mismo tienes [Eddie Bauer Langarmhemd Kariert Camisa  Azul Oscuro  43 cm  17"  para Hombre](https://www.amazon.es/dp/B01LZLVWVH/?tag=tolees-21) a 5.44 EUR (original: 48.09 EUR) (88.69 %  de descuento) en el siguiente enlace!

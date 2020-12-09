@@ -14,7 +14,7 @@ currency: EUR
 price: 15.99
 comparePrice: 25.0 EUR
 inStock: true
-prodname: Levi s Orig Hm Vneck Camiseta  Black  Mineral Black 0001   Medium para Hombre
+prodname: 'Levi s Orig Hm Vneck Camiseta  Black  Mineral Black 0001   Medium para Hombre'
 ---
 
 Ahora mismo tienes [Levi s Orig Hm Vneck Camiseta  Black  Mineral Black 0001   Medium para Hombre](https://www.amazon.es/dp/B07SNTWSBX/?tag=tolees-21) a 15.99 EUR (original: 25.0 EUR) (36.04 %  de descuento) en el siguiente enlace!

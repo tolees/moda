@@ -14,7 +14,7 @@ currency: EUR
 price: 15.68
 comparePrice: 39.99 EUR
 inStock: true
-prodname: JACK & JONES Jcojonah Sweat Hood LS Noos  Sudadera para Hombre  Gris  Light Grey Melange Detail: JJ Print  Small
+prodname: 'JACK & JONES Jcojonah Sweat Hood LS Noos  Sudadera para Hombre  Gris  Light Grey Melange Detail: JJ Print  Small'
 ---
 
 Está [JACK & JONES Jcojonah Sweat Hood LS Noos  Sudadera para Hombre  Gris  Light Grey Melange Detail: JJ Print  Small](https://www.amazon.es/dp/B07J2BD6YJ/?tag=tolees-21) con 60.79 de descuento por 15.68 EUR (original: 39.99 EUR) en el siguiente enlace!

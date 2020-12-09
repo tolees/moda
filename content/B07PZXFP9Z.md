@@ -14,7 +14,7 @@ currency: EUR
 price: 17.23
 comparePrice: 31.48 EUR
 inStock: true
-prodname: Marca Amazon - find. Phrm3686 - jersey mujer Mujer  Beige  Oatmeal   42  Label: L
+prodname: 'Marca Amazon - find. Phrm3686 - jersey mujer Mujer  Beige  Oatmeal   42  Label: L'
 ---
 
 Ahora mismo tienes [Marca Amazon - find. Phrm3686 - jersey mujer Mujer  Beige  Oatmeal   42  Label: L](https://www.amazon.es/dp/B07PZXFP9Z/?tag=tolees-21) a 17.23 EUR (original: 31.48 EUR) (45.27 %  de descuento) en el siguiente enlace!

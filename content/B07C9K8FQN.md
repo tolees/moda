@@ -14,7 +14,7 @@ currency: EUR
 price: 55.57
 comparePrice: 119 EUR
 inStock: true
-prodname: BOSS Hombre Taber BC-p Vaqueros Tapered Not Applicable  Negro  Black 008   W32/L30  Talla del Fabricante: 3230 
+prodname: 'BOSS Hombre Taber BC-p Vaqueros Tapered Not Applicable  Negro  Black 008   W32/L30  Talla del Fabricante: 3230 '
 ---
 
 Está [BOSS Hombre Taber BC-p Vaqueros Tapered Not Applicable  Negro  Black 008   W32/L30  Talla del Fabricante: 3230 ](https://www.amazon.es/dp/B07C9K8FQN/?tag=tolees-21) con 53.30 de descuento por 55.57 EUR (original: 119 EUR) en el siguiente enlace!

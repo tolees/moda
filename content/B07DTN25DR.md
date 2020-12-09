@@ -14,7 +14,7 @@ currency: EUR
 price: 18.99
 comparePrice: 38.25 EUR
 inStock: true
-prodname: Lacoste Croco Slide 119 1 737cma0018082  Sandalias de Punta Descubierta para Hombre  Blanco  Wht/Grn 082   44.5 EU
+prodname: 'Lacoste Croco Slide 119 1 737cma0018082  Sandalias de Punta Descubierta para Hombre  Blanco  Wht/Grn 082   44.5 EU'
 ---
 
 Tienes [Lacoste Croco Slide 119 1 737cma0018082  Sandalias de Punta Descubierta para Hombre  Blanco  Wht/Grn 082   44.5 EU](https://www.amazon.es/dp/B07DTN25DR/?tag=tolees-21) con un 50.35 % de descuento con precio de oferta de 18.99 EUR (original: 38.25 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 28.52
 comparePrice: 99.95 EUR
 inStock: true
-prodname: BOSS Orange 10195942 01  Camisa Hombre  Negro  Black   Large
+prodname: 'BOSS Orange 10195942 01  Camisa Hombre  Negro  Black   Large'
 ---
 
 Tienes [BOSS Orange 10195942 01  Camisa Hombre  Negro  Black   Large](https://www.amazon.es/dp/B01M8JE9VU/?tag=tolees-21) con un 71.47 % de descuento con precio de oferta de 28.52 EUR (original: 99.95 EUR) en el siguiente enlace!

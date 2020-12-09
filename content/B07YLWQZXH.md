@@ -14,7 +14,7 @@ currency: EUR
 price: 14.99
 comparePrice: 24.99 EUR
 inStock: true
-prodname: Superdry OL Vintage Embroidery tee Camisa  Azul  Pool Blue Navy Grit 3ef   XS para Hombre
+prodname: 'Superdry OL Vintage Embroidery tee Camisa  Azul  Pool Blue Navy Grit 3ef   XS para Hombre'
 ---
 
 Ahora mismo tienes [Superdry OL Vintage Embroidery tee Camisa  Azul  Pool Blue Navy Grit 3ef   XS para Hombre](https://www.amazon.es/dp/B07YLWQZXH/?tag=tolees-21) a 14.99 EUR (original: 24.99 EUR) (40.02 %  de descuento) en el siguiente enlace!

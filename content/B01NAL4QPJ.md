@@ -14,7 +14,7 @@ currency: EUR
 price: 36.44
 comparePrice: 69.95 EUR
 inStock: true
-prodname: BOSS Orange 50369465  Camiseta Para Hombre  Gris  Open White 120   Large
+prodname: 'BOSS Orange 50369465  Camiseta Para Hombre  Gris  Open White 120   Large'
 ---
 
 Tienes [BOSS Orange 50369465  Camiseta Para Hombre  Gris  Open White 120   Large](https://www.amazon.es/dp/B01NAL4QPJ/?tag=tolees-21) con un 47.91 % de descuento con precio de oferta de 36.44 EUR (original: 69.95 EUR) en el siguiente enlace!

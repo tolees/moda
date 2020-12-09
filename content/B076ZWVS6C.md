@@ -14,7 +14,7 @@ currency: EUR
 price: 16.95
 comparePrice: 29.95 EUR
 inStock: true
-prodname: G-STAR RAW Cadulor R T S/s Camiseta   White Htr 129   Large para Hombre
+prodname: 'G-STAR RAW Cadulor R T S/s Camiseta   White Htr 129   Large para Hombre'
 ---
 
 Tienes [G-STAR RAW Cadulor R T S/s Camiseta   White Htr 129   Large para Hombre](https://www.amazon.es/dp/B076ZWVS6C/?tag=tolees-21) con un 43.41 % de descuento con precio de oferta de 16.95 EUR (original: 29.95 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 11.64
 comparePrice: 39.95 EUR
 inStock: true
-prodname: Refresh 063868  Botines para Mujer  Azul  Navy   39 EU
+prodname: 'Refresh 063868  Botines para Mujer  Azul  Navy   39 EU'
 ---
 
 Tienes [Refresh 063868  Botines para Mujer  Azul  Navy   39 EU](https://www.amazon.es/dp/B071NDNWB2/?tag=tolees-21) con un 70.86 % de descuento con precio de oferta de 11.64 EUR (original: 39.95 EUR) en el siguiente enlace!

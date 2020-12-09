@@ -14,7 +14,7 @@ currency: EUR
 price: 27.95
 comparePrice: 39.99 EUR
 inStock: true
-prodname: Crocs Baya  Zuecos Unisex Adulto  Rosa  Party Pink   39/40 EU
+prodname: 'Crocs Baya  Zuecos Unisex Adulto  Rosa  Party Pink   39/40 EU'
 ---
 
 Ahora mismo tienes [Crocs Baya  Zuecos Unisex Adulto  Rosa  Party Pink   39/40 EU](https://www.amazon.es/dp/B078G1MJLQ/?tag=tolees-21) a 27.95 EUR (original: 39.99 EUR) (30.11 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 14.99
 comparePrice: 21.99 EUR
 inStock: true
-prodname: ABRAVO Mujer Sudadera con Capucha Manga Larga Jerséis Sueltos Sudadera con Estampado la Camiseta Otoño Invierno Mujer Chándal  L  Rayado Blanco 
+prodname: 'ABRAVO Mujer Sudadera con Capucha Manga Larga Jerséis Sueltos Sudadera con Estampado la Camiseta Otoño Invierno Mujer Chándal  L  Rayado Blanco '
 ---
 
 Está [ABRAVO Mujer Sudadera con Capucha Manga Larga Jerséis Sueltos Sudadera con Estampado la Camiseta Otoño Invierno Mujer Chándal  L  Rayado Blanco ](https://www.amazon.es/dp/B07YBXCMDQ/?tag=tolees-21) con 31.83 de descuento por 14.99 EUR (original: 21.99 EUR) en el siguiente enlace!

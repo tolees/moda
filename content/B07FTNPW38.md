@@ -14,7 +14,7 @@ currency: EUR
 price: 27.26
 comparePrice: 99.95 EUR
 inStock: true
-prodname: Lee Rider  Vaqueros Slim para Hombre  Azul  Buddy Blue Ui   W33/L30
+prodname: 'Lee Rider  Vaqueros Slim para Hombre  Azul  Buddy Blue Ui   W33/L30'
 ---
 
 Está [Lee Rider  Vaqueros Slim para Hombre  Azul  Buddy Blue Ui   W33/L30](https://www.amazon.es/dp/B07FTNPW38/?tag=tolees-21) con 72.73 de descuento por 27.26 EUR (original: 99.95 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 12.67
 comparePrice: 39 EUR
 inStock: true
-prodname: find. Falda Plisada Mujer  Multicolor  Multicoloured   Small
+prodname: 'find. Falda Plisada Mujer  Multicolor  Multicoloured   Small'
 ---
 
 Ahora mismo tienes [find. Falda Plisada Mujer  Multicolor  Multicoloured   Small](https://www.amazon.es/dp/B07B14JQLW/?tag=tolees-21) a 12.67 EUR (original: 39 EUR) (67.51 %  de descuento) en el siguiente enlace!

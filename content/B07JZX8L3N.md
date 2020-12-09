@@ -14,7 +14,7 @@ currency: EUR
 price: 23.56
 comparePrice: 49.99 EUR
 inStock: true
-prodname: JACK & JONES Jorglave Light Track Jacket Chaqueta  Azul True Blue  Medium para Hombre
+prodname: 'JACK & JONES Jorglave Light Track Jacket Chaqueta  Azul True Blue  Medium para Hombre'
 ---
 
 Está [JACK & JONES Jorglave Light Track Jacket Chaqueta  Azul True Blue  Medium para Hombre](https://www.amazon.es/dp/B07JZX8L3N/?tag=tolees-21) con 52.87 de descuento por 23.56 EUR (original: 49.99 EUR) en el siguiente enlace!

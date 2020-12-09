@@ -14,7 +14,7 @@ currency: EUR
 price: 15.0
 comparePrice: 25.0 EUR
 inStock: true
-prodname: Levi s Relaxed Graphic tee Camiseta  Logotipo de la Serie 90 de la Serie 90  XXS para Hombre
+prodname: 'Levi s Relaxed Graphic tee Camiseta  Logotipo de la Serie 90 de la Serie 90  XXS para Hombre'
 ---
 
 Está [Levi s Relaxed Graphic tee Camiseta  Logotipo de la Serie 90 de la Serie 90  XXS para Hombre](https://www.amazon.es/dp/B081HFM8PZ/?tag=tolees-21) con 40.00 de descuento por 15.0 EUR (original: 25.0 EUR) en el siguiente enlace!

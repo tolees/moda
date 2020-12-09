@@ -14,7 +14,7 @@ currency: EUR
 price: 84.8
 comparePrice: 179.99 EUR
 inStock: true
-prodname: Columbia Chaqueta con Capucha para Mujer  Windgates Hooded Insulated Jacket  Azul  Astral Heather   Talla L
+prodname: 'Columbia Chaqueta con Capucha para Mujer  Windgates Hooded Insulated Jacket  Azul  Astral Heather   Talla L'
 ---
 
 Está [Columbia Chaqueta con Capucha para Mujer  Windgates Hooded Insulated Jacket  Azul  Astral Heather   Talla L](https://www.amazon.es/dp/B07DYXW1HS/?tag=tolees-21) con 52.89 de descuento por 84.8 EUR (original: 179.99 EUR) en el siguiente enlace!

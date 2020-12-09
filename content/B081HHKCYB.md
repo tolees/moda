@@ -14,7 +14,7 @@ currency: EUR
 price: 22.64
 comparePrice: 69.95 EUR
 inStock: true
-prodname: adidas Selección Española Temporada 2020/21 Camiseta Primera equipación  Unisex  Victory Red  152
+prodname: 'adidas Selección Española Temporada 2020/21 Camiseta Primera equipación  Unisex  Victory Red  152'
 ---
 
 Está [adidas Selección Española Temporada 2020/21 Camiseta Primera equipación  Unisex  Victory Red  152](https://www.amazon.es/dp/B081HHKCYB/?tag=tolees-21) con 67.63 de descuento por 22.64 EUR (original: 69.95 EUR) en el siguiente enlace!

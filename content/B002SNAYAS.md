@@ -14,7 +14,7 @@ currency: EUR
 price: 45.68
 comparePrice: 130.0 EUR
 inStock: true
-prodname: Clarks Nature Three 20339005 - Zapatos casual de cuero nobuck para hombre  color marrón  Mahogany Leather   talla 41.5
+prodname: 'Clarks Nature Three 20339005 - Zapatos casual de cuero nobuck para hombre  color marrón  Mahogany Leather   talla 41.5'
 ---
 
 Ahora mismo tienes [Clarks Nature Three 20339005 - Zapatos casual de cuero nobuck para hombre  color marrón  Mahogany Leather   talla 41.5](https://www.amazon.es/dp/B002SNAYAS/?tag=tolees-21) a 45.68 EUR (original: 130.0 EUR) (64.86 %  de descuento) en el siguiente enlace!

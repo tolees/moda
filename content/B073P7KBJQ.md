@@ -14,7 +14,7 @@ currency: EUR
 price: 59.99
 comparePrice: 220.0 EUR
 inStock: true
-prodname: FIRENZE ARTEGIANI.Mochila de Mujer Casual Piel auténtica.Mochila de Piel Acabado Dollaro. Bolso Mochila Casual Mujer Cuero Genuino. Made IN Italy.Vera Pelle Italiana. 31x31x10 cm. Color: Rojo Granate
+prodname: 'FIRENZE ARTEGIANI.Mochila de Mujer Casual Piel auténtica.Mochila de Piel Acabado Dollaro. Bolso Mochila Casual Mujer Cuero Genuino. Made IN Italy.Vera Pelle Italiana. 31x31x10 cm. Color: Rojo Granate'
 ---
 
 Tienes [FIRENZE ARTEGIANI.Mochila de Mujer Casual Piel auténtica.Mochila de Piel Acabado Dollaro. Bolso Mochila Casual Mujer Cuero Genuino. Made IN Italy.Vera Pelle Italiana. 31x31x10 cm. Color: Rojo Granate](https://www.amazon.es/dp/B073P7KBJQ/?tag=tolees-21) con un 72.73 % de descuento con precio de oferta de 59.99 EUR (original: 220.0 EUR) en el siguiente enlace!

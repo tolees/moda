@@ -14,7 +14,7 @@ currency: EUR
 price: 10.66
 comparePrice: 28 EUR
 inStock: true
-prodname: find. Vestido Recto para Mujer   Gris  Grau   44  Talla del Fabricante: X-Large 
+prodname: 'find. Vestido Recto para Mujer   Gris  Grau   44  Talla del Fabricante: X-Large '
 ---
 
 Tienes [find. Vestido Recto para Mujer   Gris  Grau   44  Talla del Fabricante: X-Large ](https://www.amazon.es/dp/B073QSXYLW/?tag=tolees-21) con un 61.93 % de descuento con precio de oferta de 10.66 EUR (original: 28 EUR) en el siguiente enlace!

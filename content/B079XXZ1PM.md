@@ -14,7 +14,7 @@ currency: EUR
 price: 10.09
 comparePrice: 22.95 EUR
 inStock: true
-prodname: Puma Liga Training Jersey T-Shirt  Hombre  Pepper Green/White  XXL
+prodname: 'Puma Liga Training Jersey T-Shirt  Hombre  Pepper Green/White  XXL'
 ---
 
 Tienes [Puma Liga Training Jersey T-Shirt  Hombre  Pepper Green/White  XXL](https://www.amazon.es/dp/B079XXZ1PM/?tag=tolees-21) con un 56.03 % de descuento con precio de oferta de 10.09 EUR (original: 22.95 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 15.4
 comparePrice: 22 EUR
 inStock: true
-prodname: AURIQUE Side Stripe Yoga Leggings Azul  Dress Blue  40  Talla del Fabricante: Medium 
+prodname: 'AURIQUE Side Stripe Yoga Leggings Azul  Dress Blue  40  Talla del Fabricante: Medium '
 ---
 
 Ahora mismo tienes [AURIQUE Side Stripe Yoga Leggings Azul  Dress Blue  40  Talla del Fabricante: Medium ](https://www.amazon.es/dp/B07L46FTJL/?tag=tolees-21) a 15.4 EUR (original: 22 EUR) (30.00 %  de descuento) en el siguiente enlace!

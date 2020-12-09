@@ -14,7 +14,7 @@ currency: EUR
 price: 53.4
 comparePrice: 91.8 EUR
 inStock: true
-prodname: Love Moschino - Borsa Denim  Bolso de mano Mujer  Negro  Nero   13x36x53 cm  W x H L 
+prodname: 'Love Moschino - Borsa Denim  Bolso de mano Mujer  Negro  Nero   13x36x53 cm  W x H L '
 ---
 
 Está [Love Moschino - Borsa Denim  Bolso de mano Mujer  Negro  Nero   13x36x53 cm  W x H L ](https://www.amazon.es/dp/B07LBJ9ZM5/?tag=tolees-21) con 41.83 de descuento por 53.4 EUR (original: 91.8 EUR) en el siguiente enlace!

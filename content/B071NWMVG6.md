@@ -14,7 +14,7 @@ currency: EUR
 price: 12.35
 comparePrice: 49.95 EUR
 inStock: true
-prodname: Marco Tozzi 23735  Zapatos de Vestir para Mujer  Negro  Black Antic   37 EU
+prodname: 'Marco Tozzi 23735  Zapatos de Vestir para Mujer  Negro  Black Antic   37 EU'
 ---
 
 Tienes [Marco Tozzi 23735  Zapatos de Vestir para Mujer  Negro  Black Antic   37 EU](https://www.amazon.es/dp/B071NWMVG6/?tag=tolees-21) con un 75.28 % de descuento con precio de oferta de 12.35 EUR (original: 49.95 EUR) en el siguiente enlace!

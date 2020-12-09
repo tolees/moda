@@ -14,7 +14,7 @@ currency: EUR
 price: 399.78
 comparePrice: 720 EUR
 inStock: true
-prodname: Casualplay Stwinner - Pack de silla de paseo para gemelos y bolso  color hielo  blanco 
+prodname: 'Casualplay Stwinner - Pack de silla de paseo para gemelos y bolso  color hielo  blanco '
 ---
 
 Tienes [Casualplay Stwinner - Pack de silla de paseo para gemelos y bolso  color hielo  blanco ](https://www.amazon.es/dp/B00HRCC03E/?tag=tolees-21) con un 44.48 % de descuento con precio de oferta de 399.78 EUR (original: 720 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 21.97
 comparePrice: 49 EUR
 inStock: true
-prodname: Lacoste L.30 Slide 118 1 Caw  Chanclas para Mujer  Morado  Dk Violet PURP/Wht   35.5 EU
+prodname: 'Lacoste L.30 Slide 118 1 Caw  Chanclas para Mujer  Morado  Dk Violet PURP/Wht   35.5 EU'
 ---
 
 Ahora mismo tienes [Lacoste L.30 Slide 118 1 Caw  Chanclas para Mujer  Morado  Dk Violet PURP/Wht   35.5 EU](https://www.amazon.es/dp/B077DGKDFC/?tag=tolees-21) a 21.97 EUR (original: 49 EUR) (55.16 %  de descuento) en el siguiente enlace!

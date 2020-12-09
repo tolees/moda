@@ -14,7 +14,7 @@ currency: EUR
 price: 17.69
 comparePrice: 79.95 EUR
 inStock: true
-prodname: bugatti 411901733400  Zapatos con Tira de Tobillo Mujer  Braun Cognac 6300  41 EU
+prodname: 'bugatti 411901733400  Zapatos con Tira de Tobillo Mujer  Braun Cognac 6300  41 EU'
 ---
 
 Está [bugatti 411901733400  Zapatos con Tira de Tobillo Mujer  Braun Cognac 6300  41 EU](https://www.amazon.es/dp/B07VLNY8HM/?tag=tolees-21) con 77.87 de descuento por 17.69 EUR (original: 79.95 EUR) en el siguiente enlace!

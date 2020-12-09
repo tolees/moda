@@ -14,7 +14,7 @@ currency: EUR
 price: 25.51
 comparePrice: 139.95 EUR
 inStock: true
-prodname: G-STAR RAW Revend Vaqueros skinny para Hombre para Hombre  Azul  medium aged 8977-071   38W / 36L
+prodname: 'G-STAR RAW Revend Vaqueros skinny para Hombre para Hombre  Azul  medium aged 8977-071   38W / 36L'
 ---
 
 Tienes [G-STAR RAW Revend Vaqueros skinny para Hombre para Hombre  Azul  medium aged 8977-071   38W / 36L](https://www.amazon.es/dp/B06XCC8FC3/?tag=tolees-21) con un 81.77 % de descuento con precio de oferta de 25.51 EUR (original: 139.95 EUR) en el siguiente enlace!

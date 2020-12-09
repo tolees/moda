@@ -14,7 +14,7 @@ currency: EUR
 price: 39.99
 comparePrice: 79.99 EUR
 inStock: true
-prodname: JACK & JONES Jorlatte Parka Jacket Hombre  Azul Total Eclipse  X-Large
+prodname: 'JACK & JONES Jorlatte Parka Jacket Hombre  Azul Total Eclipse  X-Large'
 ---
 
 Está [JACK & JONES Jorlatte Parka Jacket Hombre  Azul Total Eclipse  X-Large](https://www.amazon.es/dp/B07F8ZHJN8/?tag=tolees-21) con 50.01 de descuento por 39.99 EUR (original: 79.99 EUR) en el siguiente enlace!

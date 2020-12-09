@@ -14,7 +14,7 @@ currency: EUR
 price: 66.58
 comparePrice: 179 EUR
 inStock: true
-prodname: Napapijri Rainforest M Sum 1 Rhubarb Red Chaqueta  Rojo R85  Large para Hombre
+prodname: 'Napapijri Rainforest M Sum 1 Rhubarb Red Chaqueta  Rojo R85  Large para Hombre'
 ---
 
 Tienes [Napapijri Rainforest M Sum 1 Rhubarb Red Chaqueta  Rojo R85  Large para Hombre](https://www.amazon.es/dp/B07L9SH4LC/?tag=tolees-21) con un 62.80 % de descuento con precio de oferta de 66.58 EUR (original: 179 EUR) en el siguiente enlace!

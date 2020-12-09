@@ -14,7 +14,7 @@ currency: EUR
 price: 17.95
 comparePrice: 49.99 EUR
 inStock: true
-prodname: Only & Sons Onsloom Dk Blue Dcc 0442 Noos  Vaqueros Slim para Hombre  Azul Denim  W28/L30
+prodname: 'Only & Sons Onsloom Dk Blue Dcc 0442 Noos  Vaqueros Slim para Hombre  Azul Denim  W28/L30'
 ---
 
 Tienes [Only & Sons Onsloom Dk Blue Dcc 0442 Noos  Vaqueros Slim para Hombre  Azul Denim  W28/L30](https://www.amazon.es/dp/B07CVP14SQ/?tag=tolees-21) con un 64.09 % de descuento con precio de oferta de 17.95 EUR (original: 49.99 EUR) en el siguiente enlace!

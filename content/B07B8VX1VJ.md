@@ -14,7 +14,7 @@ currency: EUR
 price: 40.2
 comparePrice: 79.95 EUR
 inStock: true
-prodname: Clarks Linvale Jerica  Zapatos de Tacón para Mujer  Negro  Black Leather   38 EU
+prodname: 'Clarks Linvale Jerica  Zapatos de Tacón para Mujer  Negro  Black Leather   38 EU'
 ---
 
 Tienes [Clarks Linvale Jerica  Zapatos de Tacón para Mujer  Negro  Black Leather   38 EU](https://www.amazon.es/dp/B07B8VX1VJ/?tag=tolees-21) con un 49.72 % de descuento con precio de oferta de 40.2 EUR (original: 79.95 EUR) en el siguiente enlace!

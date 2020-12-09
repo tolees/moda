@@ -14,7 +14,7 @@ currency: EUR
 price: 44
 comparePrice: 59.9 EUR
 inStock: true
-prodname: Geox Jr Wader  Sandalias Punta Cerrada para Niños  Azul  Navy/Royal C4226   36 EU
+prodname: 'Geox Jr Wader  Sandalias Punta Cerrada para Niños  Azul  Navy/Royal C4226   36 EU'
 ---
 
 Ahora mismo tienes [Geox Jr Wader  Sandalias Punta Cerrada para Niños  Azul  Navy/Royal C4226   36 EU](https://www.amazon.es/dp/B07DK3TDDS/?tag=tolees-21) a 44 EUR (original: 59.9 EUR) (26.54 %  de descuento) en el siguiente enlace!

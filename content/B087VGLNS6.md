@@ -14,7 +14,7 @@ currency: EUR
 price: 21.99
 comparePrice: 44.99 EUR
 inStock: true
-prodname: Columbia Fast Trek Chaleco Polar  Hombre  Gris  City Grey   M
+prodname: 'Columbia Fast Trek Chaleco Polar  Hombre  Gris  City Grey   M'
 ---
 
 Está [Columbia Fast Trek Chaleco Polar  Hombre  Gris  City Grey   M](https://www.amazon.es/dp/B087VGLNS6/?tag=tolees-21) con 51.12 de descuento por 21.99 EUR (original: 44.99 EUR) en el siguiente enlace!

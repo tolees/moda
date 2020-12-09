@@ -14,7 +14,7 @@ currency: EUR
 price: 23.83
 comparePrice: 44.99 EUR
 inStock: true
-prodname: Women s Secret PF V Shape Sbup Sw Conjuntos de Bikini  Mujer  Negro  Black 1    Tamaño del Fabricante:XS 
+prodname: 'Women s Secret PF V Shape Sbup Sw Conjuntos de Bikini  Mujer  Negro  Black 1    Tamaño del Fabricante:XS '
 ---
 
 Tienes [Women s Secret PF V Shape Sbup Sw Conjuntos de Bikini  Mujer  Negro  Black 1    Tamaño del Fabricante:XS ](https://www.amazon.es/dp/B07KZ84PGM/?tag=tolees-21) con un 47.03 % de descuento con precio de oferta de 23.83 EUR (original: 44.99 EUR) en el siguiente enlace!

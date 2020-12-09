@@ -14,7 +14,7 @@ currency: EUR
 price: 10.08
 comparePrice: 36.3 EUR
 inStock: true
-prodname: Amazon Brand - find. Men s Cotton Jumper  Grey  Grey Marl   M  Label:M
+prodname: 'Amazon Brand - find. Men s Cotton Jumper  Grey  Grey Marl   M  Label:M'
 ---
 
 Está [Amazon Brand - find. Men s Cotton Jumper  Grey  Grey Marl   M  Label:M](https://www.amazon.es/dp/B07ZKN8KVW/?tag=tolees-21) con 72.23 de descuento por 10.08 EUR (original: 36.3 EUR) en el siguiente enlace!

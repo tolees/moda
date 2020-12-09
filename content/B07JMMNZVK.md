@@ -14,7 +14,7 @@ currency: EUR
 price: 89.49
 comparePrice: 133.87 EUR
 inStock: true
-prodname: Timberland Sprint Trekker Mid  Botas Chukka Hombre  Amarillo Wheat Nubuck  45 EU
+prodname: 'Timberland Sprint Trekker Mid  Botas Chukka Hombre  Amarillo Wheat Nubuck  45 EU'
 ---
 
 Está [Timberland Sprint Trekker Mid  Botas Chukka Hombre  Amarillo Wheat Nubuck  45 EU](https://www.amazon.es/dp/B07JMMNZVK/?tag=tolees-21) con 33.15 de descuento por 89.49 EUR (original: 133.87 EUR) en el siguiente enlace!

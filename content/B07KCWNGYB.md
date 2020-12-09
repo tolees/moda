@@ -14,7 +14,7 @@ currency: EUR
 price: 15.99
 comparePrice: 30 EUR
 inStock: true
-prodname: Hurley - Camiseta para hombre  Negro  M  High Bars Prm Tee Ss
+prodname: 'Hurley - Camiseta para hombre  Negro  M  High Bars Prm Tee Ss'
 ---
 
 Ahora mismo tienes [Hurley - Camiseta para hombre  Negro  M  High Bars Prm Tee Ss](https://www.amazon.es/dp/B07KCWNGYB/?tag=tolees-21) a 15.99 EUR (original: 30 EUR) (46.70 %  de descuento) en el siguiente enlace!

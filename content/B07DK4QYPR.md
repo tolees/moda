@@ -14,7 +14,7 @@ currency: EUR
 price: 27.5
 comparePrice: 59.9 EUR
 inStock: true
-prodname: Geox J SPACECLUB Girl C  Zapatillas para Niñas   Rose/Lt Pink C8373   31 EU
+prodname: 'Geox J SPACECLUB Girl C  Zapatillas para Niñas   Rose/Lt Pink C8373   31 EU'
 ---
 
 Está [Geox J SPACECLUB Girl C  Zapatillas para Niñas   Rose/Lt Pink C8373   31 EU](https://www.amazon.es/dp/B07DK4QYPR/?tag=tolees-21) con 54.09 de descuento por 27.5 EUR (original: 59.9 EUR) en el siguiente enlace!

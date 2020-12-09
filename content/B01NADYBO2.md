@@ -14,7 +14,7 @@ currency: EUR
 price: 12.01
 comparePrice: 69 EUR
 inStock: true
-prodname: Napapijri Sevilla  Camiseta para Mujer  Rosa  Tea Rose  Medium
+prodname: 'Napapijri Sevilla  Camiseta para Mujer  Rosa  Tea Rose  Medium'
 ---
 
 Está [Napapijri Sevilla  Camiseta para Mujer  Rosa  Tea Rose  Medium](https://www.amazon.es/dp/B01NADYBO2/?tag=tolees-21) con 82.59 de descuento por 12.01 EUR (original: 69 EUR) en el siguiente enlace!

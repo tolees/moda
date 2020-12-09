@@ -14,7 +14,7 @@ currency: EUR
 price: 7.86
 comparePrice: 29.99 EUR
 inStock: true
-prodname: Tom Tailor Denim Tube Rock Mit Modischer Rib Optik Und Midi Länge  Falda para Mujer  Gris  Light Silver Grey Mé 10367  Medium
+prodname: 'Tom Tailor Denim Tube Rock Mit Modischer Rib Optik Und Midi Länge  Falda para Mujer  Gris  Light Silver Grey Mé 10367  Medium'
 ---
 
 Está [Tom Tailor Denim Tube Rock Mit Modischer Rib Optik Und Midi Länge  Falda para Mujer  Gris  Light Silver Grey Mé 10367  Medium](https://www.amazon.es/dp/B07DTZJMP4/?tag=tolees-21) con 73.79 de descuento por 7.86 EUR (original: 29.99 EUR) en el siguiente enlace!

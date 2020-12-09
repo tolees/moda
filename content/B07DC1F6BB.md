@@ -14,7 +14,7 @@ currency: EUR
 price: 13.95
 comparePrice: 19.95 EUR
 inStock: true
-prodname: Puma Epic Flip v2  Chanclas Unisex Adulto  Azul  Indigo Bunting White   38 EU
+prodname: 'Puma Epic Flip v2  Chanclas Unisex Adulto  Azul  Indigo Bunting White   38 EU'
 ---
 
 Tienes [Puma Epic Flip v2  Chanclas Unisex Adulto  Azul  Indigo Bunting White   38 EU](https://www.amazon.es/dp/B07DC1F6BB/?tag=tolees-21) con un 30.08 % de descuento con precio de oferta de 13.95 EUR (original: 19.95 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 27.35
 comparePrice: 39.95 EUR
 inStock: true
-prodname: G-STAR RAW Adisyon Straight Deep V T 1/2 SL  Camiseta Mujer  Verde  Orphus 722   Large
+prodname: 'G-STAR RAW Adisyon Straight Deep V T 1/2 SL  Camiseta Mujer  Verde  Orphus 722   Large'
 ---
 
 Tienes [G-STAR RAW Adisyon Straight Deep V T 1/2 SL  Camiseta Mujer  Verde  Orphus 722   Large](https://www.amazon.es/dp/B06XC6LSLM/?tag=tolees-21) con un 31.54 % de descuento con precio de oferta de 27.35 EUR (original: 39.95 EUR) en el siguiente enlace!

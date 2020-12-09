@@ -14,7 +14,7 @@ currency: EUR
 price: 26.95
 comparePrice: 49.9 EUR
 inStock: true
-prodname: Geox J Alonisso Boy B  Zapatillas para Niños  Gris  Grey/Fluo Orange C1040   26 EU
+prodname: 'Geox J Alonisso Boy B  Zapatillas para Niños  Gris  Grey/Fluo Orange C1040   26 EU'
 ---
 
 Ahora mismo tienes [Geox J Alonisso Boy B  Zapatillas para Niños  Gris  Grey/Fluo Orange C1040   26 EU](https://www.amazon.es/dp/B07DT7Y5SK/?tag=tolees-21) a 26.95 EUR (original: 49.9 EUR) (45.99 %  de descuento) en el siguiente enlace!

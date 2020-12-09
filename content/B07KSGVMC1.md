@@ -14,7 +14,7 @@ currency: EUR
 price: 14.95
 comparePrice: 24.99 EUR
 inStock: true
-prodname: Columbia Hombre Camiseta  CSC Basic Logo  Algodón  Azul  Carbon   Talla: L  1680051
+prodname: 'Columbia Hombre Camiseta  CSC Basic Logo  Algodón  Azul  Carbon   Talla: L  1680051'
 ---
 
 Ahora mismo tienes [Columbia Hombre Camiseta  CSC Basic Logo  Algodón  Azul  Carbon   Talla: L  1680051](https://www.amazon.es/dp/B07KSGVMC1/?tag=tolees-21) a 14.95 EUR (original: 24.99 EUR) (40.18 %  de descuento) en el siguiente enlace!

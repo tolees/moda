@@ -14,7 +14,7 @@ currency: EUR
 price: 56.91
 comparePrice: 125 EUR
 inStock: true
-prodname: Volcom Yorkstone Chaqueta  Hombre  Negro  M
+prodname: 'Volcom Yorkstone Chaqueta  Hombre  Negro  M'
 ---
 
 Ahora mismo tienes [Volcom Yorkstone Chaqueta  Hombre  Negro  M](https://www.amazon.es/dp/B071NGZFSP/?tag=tolees-21) a 56.91 EUR (original: 125 EUR) (54.47 %  de descuento) en el siguiente enlace!

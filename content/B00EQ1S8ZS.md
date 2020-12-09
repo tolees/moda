@@ -14,7 +14,7 @@ currency: EUR
 price: 36.26
 comparePrice: 84.9 EUR
 inStock: true
-prodname: Kipling Sevrine  Bolso bandolera para Mujer  Negro  Black   11.5x32x22.5 cm  B x H x T 
+prodname: 'Kipling Sevrine  Bolso bandolera para Mujer  Negro  Black   11.5x32x22.5 cm  B x H x T '
 ---
 
 Está [Kipling Sevrine  Bolso bandolera para Mujer  Negro  Black   11.5x32x22.5 cm  B x H x T ](https://www.amazon.es/dp/B00EQ1S8ZS/?tag=tolees-21) con 57.29 de descuento por 36.26 EUR (original: 84.9 EUR) en el siguiente enlace!

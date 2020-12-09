@@ -14,7 +14,7 @@ currency: EUR
 price: 101
 comparePrice: 189.99 EUR
 inStock: true
-prodname: Columbia Alpine Action Oh Chaqueta de Esquí  Negro  Talla XS
+prodname: 'Columbia Alpine Action Oh Chaqueta de Esquí  Negro  Talla XS'
 ---
 
 Está [Columbia Alpine Action Oh Chaqueta de Esquí  Negro  Talla XS](https://www.amazon.es/dp/B00GSD90ZO/?tag=tolees-21) con 46.84 de descuento por 101 EUR (original: 189.99 EUR) en el siguiente enlace!

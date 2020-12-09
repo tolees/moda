@@ -14,7 +14,7 @@ currency: EUR
 price: 18.47
 comparePrice: 25.99 EUR
 inStock: true
-prodname: Miss Lulu Bolso Totes para Mujer de Mano Moda 3Pcs Bolsos de Hombro Cuero PU
+prodname: 'Miss Lulu Bolso Totes para Mujer de Mano Moda 3Pcs Bolsos de Hombro Cuero PU'
 ---
 
 Ahora mismo tienes [Miss Lulu Bolso Totes para Mujer de Mano Moda 3Pcs Bolsos de Hombro Cuero PU](https://www.amazon.es/dp/B01N6TXXPD/?tag=tolees-21) a 18.47 EUR (original: 25.99 EUR) (28.93 %  de descuento) en el siguiente enlace!

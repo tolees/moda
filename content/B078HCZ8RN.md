@@ -14,7 +14,7 @@ currency: EUR
 price: 13.84
 comparePrice: 59.99 EUR
 inStock: true
-prodname: Noisy May Nmlucy NW Power Shape Jeans Ba076 Noos  Vaqueros Slim Mujer  Negro  Black   W28/L34  Talla del Fabricante: 28 
+prodname: 'Noisy May Nmlucy NW Power Shape Jeans Ba076 Noos  Vaqueros Slim Mujer  Negro  Black   W28/L34  Talla del Fabricante: 28 '
 ---
 
 Está [Noisy May Nmlucy NW Power Shape Jeans Ba076 Noos  Vaqueros Slim Mujer  Negro  Black   W28/L34  Talla del Fabricante: 28 ](https://www.amazon.es/dp/B078HCZ8RN/?tag=tolees-21) con 76.93 de descuento por 13.84 EUR (original: 59.99 EUR) en el siguiente enlace!

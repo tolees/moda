@@ -14,7 +14,7 @@ currency: EUR
 price: 53.95
 comparePrice: 71.95 EUR
 inStock: true
-prodname: Timberland Doudoune  Chaqueta para Niños  Azul  Indigo Blue  6 años
+prodname: 'Timberland Doudoune  Chaqueta para Niños  Azul  Indigo Blue  6 años'
 ---
 
 Tienes [Timberland Doudoune  Chaqueta para Niños  Azul  Indigo Blue  6 años](https://www.amazon.es/dp/B0794PMPYX/?tag=tolees-21) con un 25.02 % de descuento con precio de oferta de 53.95 EUR (original: 71.95 EUR) en el siguiente enlace!

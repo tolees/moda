@@ -14,7 +14,7 @@ currency: EUR
 price: 27.08
 comparePrice: 79.99 EUR
 inStock: true
-prodname: JACK & JONES Jjitim Jjoriginal JJ 320 Noos Vaqueros Slim  Azul Blue Denim  W36/L36 para Hombre
+prodname: 'JACK & JONES Jjitim Jjoriginal JJ 320 Noos Vaqueros Slim  Azul Blue Denim  W36/L36 para Hombre'
 ---
 
 Ahora mismo tienes [JACK & JONES Jjitim Jjoriginal JJ 320 Noos Vaqueros Slim  Azul Blue Denim  W36/L36 para Hombre](https://www.amazon.es/dp/B07HR2ZHG3/?tag=tolees-21) a 27.08 EUR (original: 79.99 EUR) (66.15 %  de descuento) en el siguiente enlace!

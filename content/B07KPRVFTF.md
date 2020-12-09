@@ -14,7 +14,7 @@ currency: EUR
 price: 54.99
 comparePrice: 129.99 EUR
 inStock: true
-prodname: Columbia Buck Butte Chaqueta Aislante con Capucha para Hombre  Gris  Negro  Graphite  Black   XXL
+prodname: 'Columbia Buck Butte Chaqueta Aislante con Capucha para Hombre  Gris  Negro  Graphite  Black   XXL'
 ---
 
 Tienes [Columbia Buck Butte Chaqueta Aislante con Capucha para Hombre  Gris  Negro  Graphite  Black   XXL](https://www.amazon.es/dp/B07KPRVFTF/?tag=tolees-21) con un 57.70 % de descuento con precio de oferta de 54.99 EUR (original: 129.99 EUR) en el siguiente enlace!

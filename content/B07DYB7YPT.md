@@ -14,7 +14,7 @@ currency: EUR
 price: 7.95
 comparePrice: 15.99 EUR
 inStock: true
-prodname: Roxy Sandy II  Zapatos de Playa y Piscina para Mujer  Negro  Black Multi Bk5   40 EU
+prodname: 'Roxy Sandy II  Zapatos de Playa y Piscina para Mujer  Negro  Black Multi Bk5   40 EU'
 ---
 
 Tienes [Roxy Sandy II  Zapatos de Playa y Piscina para Mujer  Negro  Black Multi Bk5   40 EU](https://www.amazon.es/dp/B07DYB7YPT/?tag=tolees-21) con un 50.28 % de descuento con precio de oferta de 7.95 EUR (original: 15.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 55.95
 comparePrice: 139.95 EUR
 inStock: true
-prodname: G-STAR RAW Shape High Waist Super Skinny Vaqueros  Azul  Medium Aged 9425-071   29W / 30L para Mujer
+prodname: 'G-STAR RAW Shape High Waist Super Skinny Vaqueros  Azul  Medium Aged 9425-071   29W / 30L para Mujer'
 ---
 
 Está [G-STAR RAW Shape High Waist Super Skinny Vaqueros  Azul  Medium Aged 9425-071   29W / 30L para Mujer](https://www.amazon.es/dp/B0752XNWXM/?tag=tolees-21) con 60.02 de descuento por 55.95 EUR (original: 139.95 EUR) en el siguiente enlace!

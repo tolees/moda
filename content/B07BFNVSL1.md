@@ -14,7 +14,7 @@ currency: EUR
 price: 10.67
 comparePrice: 39.99 EUR
 inStock: true
-prodname: SELECTED HOMME Slhslimmoonie Shirt LS W Noos  Camisa para Hombre  Azul  Skyway AOP  Medium
+prodname: 'SELECTED HOMME Slhslimmoonie Shirt LS W Noos  Camisa para Hombre  Azul  Skyway AOP  Medium'
 ---
 
 Tienes [SELECTED HOMME Slhslimmoonie Shirt LS W Noos  Camisa para Hombre  Azul  Skyway AOP  Medium](https://www.amazon.es/dp/B07BFNVSL1/?tag=tolees-21) con un 73.32 % de descuento con precio de oferta de 10.67 EUR (original: 39.99 EUR) en el siguiente enlace!

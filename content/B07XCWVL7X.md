@@ -14,7 +14,7 @@ currency: EUR
 price: 15.77
 comparePrice: 34.95 EUR
 inStock: true
-prodname: PUMA Metal Splash Deep V tee Camiseta  Mujer  White  L
+prodname: 'PUMA Metal Splash Deep V tee Camiseta  Mujer  White  L'
 ---
 
 Ahora mismo tienes [PUMA Metal Splash Deep V tee Camiseta  Mujer  White  L](https://www.amazon.es/dp/B07XCWVL7X/?tag=tolees-21) a 15.77 EUR (original: 34.95 EUR) (54.88 %  de descuento) en el siguiente enlace!

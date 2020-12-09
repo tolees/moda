@@ -14,7 +14,7 @@ currency: EUR
 price: 24.67
 comparePrice: 139 EUR
 inStock: true
-prodname: REPLAY Hombre Grover Vaqueros Straight Not Applicable  Azul  Dark Blue 7   W29/L34  Talla del Fabricante: 29 
+prodname: 'REPLAY Hombre Grover Vaqueros Straight Not Applicable  Azul  Dark Blue 7   W29/L34  Talla del Fabricante: 29 '
 ---
 
 Tienes [REPLAY Hombre Grover Vaqueros Straight Not Applicable  Azul  Dark Blue 7   W29/L34  Talla del Fabricante: 29 ](https://www.amazon.es/dp/B07CJFX5LQ/?tag=tolees-21) con un 82.25 % de descuento con precio de oferta de 24.67 EUR (original: 139 EUR) en el siguiente enlace!

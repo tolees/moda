@@ -14,7 +14,7 @@ currency: EUR
 price: 44.1
 comparePrice: 69.99 EUR
 inStock: true
-prodname: JACK & JONES Jjitim Jjleon GE 189 I.k. Noos  Vaqueros Slim para Hombre  Azul Blue Denim  W38/L32
+prodname: 'JACK & JONES Jjitim Jjleon GE 189 I.k. Noos  Vaqueros Slim para Hombre  Azul Blue Denim  W38/L32'
 ---
 
 Tienes [JACK & JONES Jjitim Jjleon GE 189 I.k. Noos  Vaqueros Slim para Hombre  Azul Blue Denim  W38/L32](https://www.amazon.es/dp/B07F8RLP7X/?tag=tolees-21) con un 36.99 % de descuento con precio de oferta de 44.1 EUR (original: 69.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 25.9
 comparePrice: 49.95 EUR
 inStock: true
-prodname: Hugo Boss Green Camiseta de cuello redondo Gris Claro  Azul  Navy 410   Large
+prodname: 'Hugo Boss Green Camiseta de cuello redondo Gris Claro  Azul  Navy 410   Large'
 ---
 
 Tienes [Hugo Boss Green Camiseta de cuello redondo Gris Claro  Azul  Navy 410   Large](https://www.amazon.es/dp/B00IW8UFJ8/?tag=tolees-21) con un 48.15 % de descuento con precio de oferta de 25.9 EUR (original: 49.95 EUR) en el siguiente enlace!

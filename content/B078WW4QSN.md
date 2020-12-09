@@ -14,7 +14,7 @@ currency: EUR
 price: 22.43
 comparePrice: 33.98 EUR
 inStock: true
-prodname: Fossil Collar cadena de mujer con acero inoxidable
+prodname: 'Fossil Collar cadena de mujer con acero inoxidable'
 ---
 
 Está [Fossil Collar cadena de mujer con acero inoxidable](https://www.amazon.es/dp/B078WW4QSN/?tag=tolees-21) con 33.99 de descuento por 22.43 EUR (original: 33.98 EUR) en el siguiente enlace!

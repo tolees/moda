@@ -14,7 +14,7 @@ currency: EUR
 price: 120.49
 comparePrice: 199.0 EUR
 inStock: true
-prodname: Napapijri Rainforest Winter 1 Chaqueta  Azul  Clematis Blue Vb1   L para Hombre
+prodname: 'Napapijri Rainforest Winter 1 Chaqueta  Azul  Clematis Blue Vb1   L para Hombre'
 ---
 
 Ahora mismo tienes [Napapijri Rainforest Winter 1 Chaqueta  Azul  Clematis Blue Vb1   L para Hombre](https://www.amazon.es/dp/B07MK1QHS7/?tag=tolees-21) a 120.49 EUR (original: 199.0 EUR) (39.45 %  de descuento) en el siguiente enlace!

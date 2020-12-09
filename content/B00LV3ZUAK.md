@@ -14,7 +14,7 @@ currency: EUR
 price: 31.5
 comparePrice: 65.0 EUR
 inStock: true
-prodname: Helly Hansen HH QD Cargo Shorts 11 - Pantalón corto para hombre  Negro  33
+prodname: 'Helly Hansen HH QD Cargo Shorts 11 - Pantalón corto para hombre  Negro  33'
 ---
 
 Ahora mismo tienes [Helly Hansen HH QD Cargo Shorts 11 - Pantalón corto para hombre  Negro  33](https://www.amazon.es/dp/B00LV3ZUAK/?tag=tolees-21) a 31.5 EUR (original: 65.0 EUR) (51.54 %  de descuento) en el siguiente enlace!

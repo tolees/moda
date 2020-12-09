@@ -14,7 +14,7 @@ currency: EUR
 price: 40.89
 comparePrice: 99.99 EUR
 inStock: true
-prodname: Gant Chambray Block Shirt  Camisa para Mujer  Azul  Blue Ocean   16  Talla del Fabricante: 42 
+prodname: 'Gant Chambray Block Shirt  Camisa para Mujer  Azul  Blue Ocean   16  Talla del Fabricante: 42 '
 ---
 
 Tienes [Gant Chambray Block Shirt  Camisa para Mujer  Azul  Blue Ocean   16  Talla del Fabricante: 42 ](https://www.amazon.es/dp/B075S8RFFM/?tag=tolees-21) con un 59.11 % de descuento con precio de oferta de 40.89 EUR (original: 99.99 EUR) en el siguiente enlace!

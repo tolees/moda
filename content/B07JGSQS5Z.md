@@ -14,7 +14,7 @@ currency: EUR
 price: 10.49
 comparePrice: 14.99 EUR
 inStock: true
-prodname: IRIS & LILLY Sh191278 Braguita de Bikini  Multicolor  Tropical Flower Print   40  Talla del fabricante: Medium 
+prodname: 'IRIS & LILLY Sh191278 Braguita de Bikini  Multicolor  Tropical Flower Print   40  Talla del fabricante: Medium '
 ---
 
 Está [IRIS & LILLY Sh191278 Braguita de Bikini  Multicolor  Tropical Flower Print   40  Talla del fabricante: Medium ](https://www.amazon.es/dp/B07JGSQS5Z/?tag=tolees-21) con 30.02 de descuento por 10.49 EUR (original: 14.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 4.3
 comparePrice: 40 EUR
 inStock: true
-prodname: edc by Esprit Ethnic Jacqa SK Falda  Negro  38 para Mujer
+prodname: 'edc by Esprit Ethnic Jacqa SK Falda  Negro  38 para Mujer'
 ---
 
 Tienes [edc by Esprit Ethnic Jacqa SK Falda  Negro  38 para Mujer](https://www.amazon.es/dp/B016WTZSIQ/?tag=tolees-21) con un 89.25 % de descuento con precio de oferta de 4.3 EUR (original: 40 EUR) en el siguiente enlace!

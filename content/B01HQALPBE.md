@@ -14,7 +14,7 @@ currency: EUR
 price: 29.52
 comparePrice: 44.99 EUR
 inStock: true
-prodname: Crocs Crocband U  Zuecos Unisex Adulto  Gris  Light Grey-Navy   41-42 EU
+prodname: 'Crocs Crocband U  Zuecos Unisex Adulto  Gris  Light Grey-Navy   41-42 EU'
 ---
 
 Ahora mismo tienes [Crocs Crocband U  Zuecos Unisex Adulto  Gris  Light Grey-Navy   41-42 EU](https://www.amazon.es/dp/B01HQALPBE/?tag=tolees-21) a 29.52 EUR (original: 44.99 EUR) (34.39 %  de descuento) en el siguiente enlace!

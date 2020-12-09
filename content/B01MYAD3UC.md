@@ -14,7 +14,7 @@ currency: EUR
 price: 12.11
 comparePrice: 34.99 EUR
 inStock: true
-prodname: Gocco S73AATCP802  Abrigo para Niñas  Azul  Royal  L
+prodname: 'Gocco S73AATCP802  Abrigo para Niñas  Azul  Royal  L'
 ---
 
 Tienes [Gocco S73AATCP802  Abrigo para Niñas  Azul  Royal  L](https://www.amazon.es/dp/B01MYAD3UC/?tag=tolees-21) con un 65.39 % de descuento con precio de oferta de 12.11 EUR (original: 34.99 EUR) en el siguiente enlace!

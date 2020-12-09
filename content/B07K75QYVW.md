@@ -14,7 +14,7 @@ currency: EUR
 price: 15.46
 comparePrice: 70 EUR
 inStock: true
-prodname: Levi s Ultimate Boyfriend Blusa  Blanco  Bright White 0003   Large para Mujer
+prodname: 'Levi s Ultimate Boyfriend Blusa  Blanco  Bright White 0003   Large para Mujer'
 ---
 
 Ahora mismo tienes [Levi s Ultimate Boyfriend Blusa  Blanco  Bright White 0003   Large para Mujer](https://www.amazon.es/dp/B07K75QYVW/?tag=tolees-21) a 15.46 EUR (original: 70 EUR) (77.91 %  de descuento) en el siguiente enlace!

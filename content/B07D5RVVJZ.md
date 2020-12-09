@@ -14,7 +14,7 @@ currency: EUR
 price: 32.54
 comparePrice: 69.95 EUR
 inStock: true
-prodname: Puma Evostripe Sudadera  Hombre  Verde  Quiet Shade   XL
+prodname: 'Puma Evostripe Sudadera  Hombre  Verde  Quiet Shade   XL'
 ---
 
 Ahora mismo tienes [Puma Evostripe Sudadera  Hombre  Verde  Quiet Shade   XL](https://www.amazon.es/dp/B07D5RVVJZ/?tag=tolees-21) a 32.54 EUR (original: 69.95 EUR) (53.48 %  de descuento) en el siguiente enlace!

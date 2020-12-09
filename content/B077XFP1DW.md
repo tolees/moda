@@ -14,7 +14,7 @@ currency: EUR
 price: 5.41
 comparePrice: 25.95 EUR
 inStock: true
-prodname: Tuc Tuc Croak  Pelele para Bebés   Único   68  Tamaño del Fabricante:91 
+prodname: 'Tuc Tuc Croak  Pelele para Bebés   Único   68  Tamaño del Fabricante:91 '
 ---
 
 Tienes [Tuc Tuc Croak  Pelele para Bebés   Único   68  Tamaño del Fabricante:91 ](https://www.amazon.es/dp/B077XFP1DW/?tag=tolees-21) con un 79.15 % de descuento con precio de oferta de 5.41 EUR (original: 25.95 EUR) en el siguiente enlace!

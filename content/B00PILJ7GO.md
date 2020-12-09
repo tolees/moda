@@ -14,7 +14,7 @@ currency: EUR
 price: 14.6
 comparePrice: 69 EUR
 inStock: true
-prodname: Solo Capri - Abito Scampanato  Pack  Vestido Mujer  Blanco  S
+prodname: 'Solo Capri - Abito Scampanato  Pack  Vestido Mujer  Blanco  S'
 ---
 
 Tienes [Solo Capri - Abito Scampanato  Pack  Vestido Mujer  Blanco  S](https://www.amazon.es/dp/B00PILJ7GO/?tag=tolees-21) con un 78.84 % de descuento con precio de oferta de 14.6 EUR (original: 69 EUR) en el siguiente enlace!

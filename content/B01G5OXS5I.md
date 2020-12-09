@@ -14,7 +14,7 @@ currency: EUR
 price: 8.76
 comparePrice: 49.99 EUR
 inStock: true
-prodname: edc by ESPRIT 076CC1E035  vestido Mujer  Azul  NAVY   38  Talla del fabricante: Medium 
+prodname: 'edc by ESPRIT 076CC1E035  vestido Mujer  Azul  NAVY   38  Talla del fabricante: Medium '
 ---
 
 Tienes [edc by ESPRIT 076CC1E035  vestido Mujer  Azul  NAVY   38  Talla del fabricante: Medium ](https://www.amazon.es/dp/B01G5OXS5I/?tag=tolees-21) con un 82.48 % de descuento con precio de oferta de 8.76 EUR (original: 49.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 11.15
 comparePrice: 30 EUR
 inStock: true
-prodname: Hurley - Camiseta para hombre  Blanco  S  High Bars Prm Tee Ss
+prodname: 'Hurley - Camiseta para hombre  Blanco  S  High Bars Prm Tee Ss'
 ---
 
 Tienes [Hurley - Camiseta para hombre  Blanco  S  High Bars Prm Tee Ss](https://www.amazon.es/dp/B07KCWHG61/?tag=tolees-21) con un 62.83 % de descuento con precio de oferta de 11.15 EUR (original: 30 EUR) en el siguiente enlace!

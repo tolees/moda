@@ -14,7 +14,7 @@ currency: EUR
 price: 27.3
 comparePrice: 39.0 EUR
 inStock: true
-prodname: Canadian Peak Sudadera DE Mujer GYRELLE Azul Marino 02
+prodname: 'Canadian Peak Sudadera DE Mujer GYRELLE Azul Marino 02'
 ---
 
 Ahora mismo tienes [Canadian Peak Sudadera DE Mujer GYRELLE Azul Marino 02](https://www.amazon.es/dp/B0831QBMFY/?tag=tolees-21) a 27.3 EUR (original: 39.0 EUR) (30.00 %  de descuento) en el siguiente enlace!

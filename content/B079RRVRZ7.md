@@ -14,7 +14,7 @@ currency: EUR
 price: 27.95
 comparePrice: 39.9 EUR
 inStock: true
-prodname: Pepe Jeans Claudia  Camiseta Mujer  Negro  Black 999   Large
+prodname: 'Pepe Jeans Claudia  Camiseta Mujer  Negro  Black 999   Large'
 ---
 
 Está [Pepe Jeans Claudia  Camiseta Mujer  Negro  Black 999   Large](https://www.amazon.es/dp/B079RRVRZ7/?tag=tolees-21) con 29.95 de descuento por 27.95 EUR (original: 39.9 EUR) en el siguiente enlace!

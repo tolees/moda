@@ -14,7 +14,7 @@ currency: EUR
 price: 10.73
 comparePrice: 25 EUR
 inStock: true
-prodname: BILLABONG Locked In SS Camiseta  Hombre   Gris Heather 9   Small
+prodname: 'BILLABONG Locked In SS Camiseta  Hombre   Gris Heather 9   Small'
 ---
 
 Ahora mismo tienes [BILLABONG Locked In SS Camiseta  Hombre   Gris Heather 9   Small](https://www.amazon.es/dp/B077RWPCYY/?tag=tolees-21) a 10.73 EUR (original: 25 EUR) (57.08 %  de descuento) en el siguiente enlace!

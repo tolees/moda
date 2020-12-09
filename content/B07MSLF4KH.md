@@ -14,7 +14,7 @@ currency: EUR
 price: 93.0
 comparePrice: 165.0 EUR
 inStock: true
-prodname: Geox D Kaula B ABX C  Botas de Nieve para Mujer  Marrón  Tobacco C6777   35 EU
+prodname: 'Geox D Kaula B ABX C  Botas de Nieve para Mujer  Marrón  Tobacco C6777   35 EU'
 ---
 
 Ahora mismo tienes [Geox D Kaula B ABX C  Botas de Nieve para Mujer  Marrón  Tobacco C6777   35 EU](https://www.amazon.es/dp/B07MSLF4KH/?tag=tolees-21) a 93.0 EUR (original: 165.0 EUR) (43.64 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 66.48
 comparePrice: 140 EUR
 inStock: true
-prodname: The North Face Venture 2 Chaqueta  Mujer  Azul  Coastal Fjord Blue   Small  Tamaño del Fabricante:S 
+prodname: 'The North Face Venture 2 Chaqueta  Mujer  Azul  Coastal Fjord Blue   Small  Tamaño del Fabricante:S '
 ---
 
 Está [The North Face Venture 2 Chaqueta  Mujer  Azul  Coastal Fjord Blue   Small  Tamaño del Fabricante:S ](https://www.amazon.es/dp/B01GQUY22O/?tag=tolees-21) con 52.51 de descuento por 66.48 EUR (original: 140 EUR) en el siguiente enlace!

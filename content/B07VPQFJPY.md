@@ -14,7 +14,7 @@ currency: EUR
 price: 21.01
 comparePrice: 129.95 EUR
 inStock: true
-prodname: G-STAR RAW 3301 High Waist Skinny Ankle Vaqueros  Azul  Vintage Ripped Sky 8968-B173   W24/L28  Talla del Fabricante: 24W / 28L  para Mujer
+prodname: 'G-STAR RAW 3301 High Waist Skinny Ankle Vaqueros  Azul  Vintage Ripped Sky 8968-B173   W24/L28  Talla del Fabricante: 24W / 28L  para Mujer'
 ---
 
 Tienes [G-STAR RAW 3301 High Waist Skinny Ankle Vaqueros  Azul  Vintage Ripped Sky 8968-B173   W24/L28  Talla del Fabricante: 24W / 28L  para Mujer](https://www.amazon.es/dp/B07VPQFJPY/?tag=tolees-21) con un 83.83 % de descuento con precio de oferta de 21.01 EUR (original: 129.95 EUR) en el siguiente enlace!

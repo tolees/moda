@@ -14,7 +14,7 @@ currency: EUR
 price: 44.98
 comparePrice: 99.95 EUR
 inStock: true
-prodname: G-STAR Defend - Vaqueros para hombre  Accel Stretch In Medium Aged  W34/L32  talla fabricante: 34/32 
+prodname: 'G-STAR Defend - Vaqueros para hombre  Accel Stretch In Medium Aged  W34/L32  talla fabricante: 34/32 '
 ---
 
 Está [G-STAR Defend - Vaqueros para hombre  Accel Stretch In Medium Aged  W34/L32  talla fabricante: 34/32 ](https://www.amazon.es/dp/B00MUJ3M6S/?tag=tolees-21) con 55.00 de descuento por 44.98 EUR (original: 99.95 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 27.98
 comparePrice: 60 EUR
 inStock: true
-prodname: Lacoste Th4247  Camiseta para Hombre   Blanc 001   Small  Talla del Fabricante: 3 
+prodname: 'Lacoste Th4247  Camiseta para Hombre   Blanc 001   Small  Talla del Fabricante: 3 '
 ---
 
 Ahora mismo tienes [Lacoste Th4247  Camiseta para Hombre   Blanc 001   Small  Talla del Fabricante: 3 ](https://www.amazon.es/dp/B07JWVY8GT/?tag=tolees-21) a 27.98 EUR (original: 60 EUR) (53.37 %  de descuento) en el siguiente enlace!

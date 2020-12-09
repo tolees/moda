@@ -14,7 +14,7 @@ currency: EUR
 price: 11.46
 comparePrice: 24.95 EUR
 inStock: true
-prodname: BOSS Hugo Boxer BM  Bóxer Hombre  Blanco  White 100   Small
+prodname: 'BOSS Hugo Boxer BM  Bóxer Hombre  Blanco  White 100   Small'
 ---
 
 Está [BOSS Hugo Boxer BM  Bóxer Hombre  Blanco  White 100   Small](https://www.amazon.es/dp/B00IJVGBEQ/?tag=tolees-21) con 54.07 de descuento por 11.46 EUR (original: 24.95 EUR) en el siguiente enlace!

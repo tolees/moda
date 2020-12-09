@@ -14,7 +14,7 @@ currency: EUR
 price: 10.38
 comparePrice: 25.95 EUR
 inStock: true
-prodname: Intimuse Alima Vestido  Multicolor  Blumen Bedruckt 113   38
+prodname: 'Intimuse Alima Vestido  Multicolor  Blumen Bedruckt 113   38'
 ---
 
 Tienes [Intimuse Alima Vestido  Multicolor  Blumen Bedruckt 113   38](https://www.amazon.es/dp/B01N3C4RGX/?tag=tolees-21) con un 60.00 % de descuento con precio de oferta de 10.38 EUR (original: 25.95 EUR) en el siguiente enlace!

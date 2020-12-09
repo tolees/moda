@@ -14,7 +14,7 @@ currency: EUR
 price: 1.48
 comparePrice: 3.4 EUR
 inStock: true
-prodname: BaZhaHei Borlas de SeñOras del Cubo Bolso de Bandolera de Mujer de Moda Casual Bolsa de Cubo Paquete de Hija Bolso Crossbody
+prodname: 'BaZhaHei Borlas de SeñOras del Cubo Bolso de Bandolera de Mujer de Moda Casual Bolsa de Cubo Paquete de Hija Bolso Crossbody'
 ---
 
 Ahora mismo tienes [BaZhaHei Borlas de SeñOras del Cubo Bolso de Bandolera de Mujer de Moda Casual Bolsa de Cubo Paquete de Hija Bolso Crossbody](https://www.amazon.es/dp/B07QVBW39M/?tag=tolees-21) a 1.48 EUR (original: 3.4 EUR) (56.47 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 31.95
 comparePrice: 79.99 EUR
 inStock: true
-prodname: JACK & JONES Jcoearth Parka  Gris  Light Grey Melange   Large para Hombre
+prodname: 'JACK & JONES Jcoearth Parka  Gris  Light Grey Melange   Large para Hombre'
 ---
 
 Está [JACK & JONES Jcoearth Parka  Gris  Light Grey Melange   Large para Hombre](https://www.amazon.es/dp/B07F8YCL6T/?tag=tolees-21) con 60.06 de descuento por 31.95 EUR (original: 79.99 EUR) en el siguiente enlace!

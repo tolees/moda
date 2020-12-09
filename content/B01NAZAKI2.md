@@ -14,7 +14,7 @@ currency: EUR
 price: 49.47
 comparePrice: 89.95 EUR
 inStock: true
-prodname: Lee Luke - Vaqueros Hombre  Clean Black  W29/L30  Talla del fabricante: 29 
+prodname: 'Lee Luke - Vaqueros Hombre  Clean Black  W29/L30  Talla del fabricante: 29 '
 ---
 
 Tienes [Lee Luke - Vaqueros Hombre  Clean Black  W29/L30  Talla del fabricante: 29 ](https://www.amazon.es/dp/B01NAZAKI2/?tag=tolees-21) con un 45.00 % de descuento con precio de oferta de 49.47 EUR (original: 89.95 EUR) en el siguiente enlace!

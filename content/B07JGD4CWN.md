@@ -14,7 +14,7 @@ currency: EUR
 price: 10.49
 comparePrice: 17.95 EUR
 inStock: true
-prodname: Puma ESS No. 1 SL tee Camiseta  Hombre  Gris  Medium Gray Heather   XL
+prodname: 'Puma ESS No. 1 SL tee Camiseta  Hombre  Gris  Medium Gray Heather   XL'
 ---
 
 Tienes [Puma ESS No. 1 SL tee Camiseta  Hombre  Gris  Medium Gray Heather   XL](https://www.amazon.es/dp/B07JGD4CWN/?tag=tolees-21) con un 41.56 % de descuento con precio de oferta de 10.49 EUR (original: 17.95 EUR) en el siguiente enlace!

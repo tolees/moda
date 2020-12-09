@@ -14,7 +14,7 @@ currency: EUR
 price: 46.95
 comparePrice: 79.95 EUR
 inStock: true
-prodname: Columbia Triple Canyon Pantalón Largo  Hombre  Gris  Grill  Black   W32/L32
+prodname: 'Columbia Triple Canyon Pantalón Largo  Hombre  Gris  Grill  Black   W32/L32'
 ---
 
 Tienes [Columbia Triple Canyon Pantalón Largo  Hombre  Gris  Grill  Black   W32/L32](https://www.amazon.es/dp/B01NCMQUX7/?tag=tolees-21) con un 41.28 % de descuento con precio de oferta de 46.95 EUR (original: 79.95 EUR) en el siguiente enlace!

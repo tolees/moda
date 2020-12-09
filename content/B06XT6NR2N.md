@@ -14,7 +14,7 @@ currency: EUR
 price: 29.85
 comparePrice: 90 EUR
 inStock: true
-prodname: Pepe Jeans Zinc BLK PM202393  Pantalones Vaqueros para Hombre  Negro  Urban Black 000   31W / 34L
+prodname: 'Pepe Jeans Zinc BLK PM202393  Pantalones Vaqueros para Hombre  Negro  Urban Black 000   31W / 34L'
 ---
 
 Ahora mismo tienes [Pepe Jeans Zinc BLK PM202393  Pantalones Vaqueros para Hombre  Negro  Urban Black 000   31W / 34L](https://www.amazon.es/dp/B06XT6NR2N/?tag=tolees-21) a 29.85 EUR (original: 90 EUR) (66.83 %  de descuento) en el siguiente enlace!

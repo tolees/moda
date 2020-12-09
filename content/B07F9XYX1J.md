@@ -14,7 +14,7 @@ currency: EUR
 price: 16.44
 comparePrice: 21.98 EUR
 inStock: true
-prodname: Joma Winner Sudadera  Hombre  Royal/Marino  L
+prodname: 'Joma Winner Sudadera  Hombre  Royal/Marino  L'
 ---
 
 Ahora mismo tienes [Joma Winner Sudadera  Hombre  Royal/Marino  L](https://www.amazon.es/dp/B07F9XYX1J/?tag=tolees-21) a 16.44 EUR (original: 21.98 EUR) (25.20 %  de descuento) en el siguiente enlace!

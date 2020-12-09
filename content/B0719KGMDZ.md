@@ -14,7 +14,7 @@ currency: EUR
 price: 12.54
 comparePrice: 30 EUR
 inStock: true
-prodname: Under Armour UA Tech Graphic SS tee Camiseta de Manga Corta  Hombre  Negro  001   2XL
+prodname: 'Under Armour UA Tech Graphic SS tee Camiseta de Manga Corta  Hombre  Negro  001   2XL'
 ---
 
 Tienes [Under Armour UA Tech Graphic SS tee Camiseta de Manga Corta  Hombre  Negro  001   2XL](https://www.amazon.es/dp/B0719KGMDZ/?tag=tolees-21) con un 58.20 % de descuento con precio de oferta de 12.54 EUR (original: 30 EUR) en el siguiente enlace!

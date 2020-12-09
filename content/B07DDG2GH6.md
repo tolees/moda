@@ -14,7 +14,7 @@ currency: EUR
 price: 14.94
 comparePrice: 49.95 EUR
 inStock: true
-prodname: Refresh 64783  Botines para Mujer  Azul  Navy   37 EU
+prodname: 'Refresh 64783  Botines para Mujer  Azul  Navy   37 EU'
 ---
 
 Tienes [Refresh 64783  Botines para Mujer  Azul  Navy   37 EU](https://www.amazon.es/dp/B07DDG2GH6/?tag=tolees-21) con un 70.09 % de descuento con precio de oferta de 14.94 EUR (original: 49.95 EUR) en el siguiente enlace!

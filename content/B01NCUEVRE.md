@@ -14,7 +14,7 @@ currency: EUR
 price: 39.3
 comparePrice: 84 EUR
 inStock: true
-prodname: Geographical Norway Pantalón Deporte Doudoune Burdeos 2XL
+prodname: 'Geographical Norway Pantalón Deporte Doudoune Burdeos 2XL'
 ---
 
 Ahora mismo tienes [Geographical Norway Pantalón Deporte Doudoune Burdeos 2XL](https://www.amazon.es/dp/B01NCUEVRE/?tag=tolees-21) a 39.3 EUR (original: 84 EUR) (53.21 %  de descuento) en el siguiente enlace!

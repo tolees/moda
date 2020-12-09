@@ -14,7 +14,7 @@ currency: EUR
 price: 13.33
 comparePrice: 44.99 EUR
 inStock: true
-prodname: MAMALICIOUS Mlnicki 3/4 Tencel Above Knee Dress A  Vestido para Mujer  Azul Light Blue Denim  38  Talla del Fabricante: Medium 
+prodname: 'MAMALICIOUS Mlnicki 3/4 Tencel Above Knee Dress A  Vestido para Mujer  Azul Light Blue Denim  38  Talla del Fabricante: Medium '
 ---
 
 Tienes [MAMALICIOUS Mlnicki 3/4 Tencel Above Knee Dress A  Vestido para Mujer  Azul Light Blue Denim  38  Talla del Fabricante: Medium ](https://www.amazon.es/dp/B06VV1QQTF/?tag=tolees-21) con un 70.37 % de descuento con precio de oferta de 13.33 EUR (original: 44.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 51.99
 comparePrice: 120.0 EUR
 inStock: true
-prodname: Helly Hansen Dubliner Jacket Chaqueta chubasquero para hombre de uso diario y para actividades marítimas con la tecnología Helly Tech
+prodname: 'Helly Hansen Dubliner Jacket Chaqueta chubasquero para hombre de uso diario y para actividades marítimas con la tecnología Helly Tech'
 ---
 
 Está [Helly Hansen Dubliner Jacket Chaqueta chubasquero para hombre de uso diario y para actividades marítimas con la tecnología Helly Tech](https://www.amazon.es/dp/B01EOX0B3E/?tag=tolees-21) con 56.67 de descuento por 51.99 EUR (original: 120.0 EUR) en el siguiente enlace!

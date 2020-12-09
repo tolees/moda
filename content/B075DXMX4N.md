@@ -14,7 +14,7 @@ currency: EUR
 price: 28.17
 comparePrice: 42.63 EUR
 inStock: true
-prodname: Fossil Collar con colgante Mujer acero inoxidable - JF02819040
+prodname: 'Fossil Collar con colgante Mujer acero inoxidable - JF02819040'
 ---
 
 Tienes [Fossil Collar con colgante Mujer acero inoxidable - JF02819040](https://www.amazon.es/dp/B075DXMX4N/?tag=tolees-21) con un 33.92 % de descuento con precio de oferta de 28.17 EUR (original: 42.63 EUR) en el siguiente enlace!

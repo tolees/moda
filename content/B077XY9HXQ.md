@@ -14,7 +14,7 @@ currency: EUR
 price: 18.45
 comparePrice: 30 EUR
 inStock: true
-prodname: Vans_Apparel Print Box  Camiseta para Hombre  Negro  Black-Neo Jungle Pgz  Medium
+prodname: 'Vans_Apparel Print Box  Camiseta para Hombre  Negro  Black-Neo Jungle Pgz  Medium'
 ---
 
 Tienes [Vans_Apparel Print Box  Camiseta para Hombre  Negro  Black-Neo Jungle Pgz  Medium](https://www.amazon.es/dp/B077XY9HXQ/?tag=tolees-21) con un 38.50 % de descuento con precio de oferta de 18.45 EUR (original: 30 EUR) en el siguiente enlace!

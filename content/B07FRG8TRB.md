@@ -14,7 +14,7 @@ currency: EUR
 price: 31.89
 comparePrice: 79.99 EUR
 inStock: true
-prodname: Naf Naf Jhnr73 Vestido  Rosa  Champagne Rose Aaoe   Medium para Mujer
+prodname: 'Naf Naf Jhnr73 Vestido  Rosa  Champagne Rose Aaoe   Medium para Mujer'
 ---
 
 Está [Naf Naf Jhnr73 Vestido  Rosa  Champagne Rose Aaoe   Medium para Mujer](https://www.amazon.es/dp/B07FRG8TRB/?tag=tolees-21) con 60.13 de descuento por 31.89 EUR (original: 79.99 EUR) en el siguiente enlace!

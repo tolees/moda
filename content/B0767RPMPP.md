@@ -14,7 +14,7 @@ currency: EUR
 price: 35.26
 comparePrice: 139.9 EUR
 inStock: true
-prodname: Geox D Marlyna G  Botines para Mujer  Gris  Lt Grey/Silver   36 EU
+prodname: 'Geox D Marlyna G  Botines para Mujer  Gris  Lt Grey/Silver   36 EU'
 ---
 
 Tienes [Geox D Marlyna G  Botines para Mujer  Gris  Lt Grey/Silver   36 EU](https://www.amazon.es/dp/B0767RPMPP/?tag=tolees-21) con un 74.80 % de descuento con precio de oferta de 35.26 EUR (original: 139.9 EUR) en el siguiente enlace!

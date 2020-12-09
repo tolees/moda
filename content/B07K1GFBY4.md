@@ -14,7 +14,7 @@ currency: EUR
 price: 27.93
 comparePrice: 44.32 EUR
 inStock: true
-prodname: Emporio Armani Underwear Braguita de bikini para Mujer  Verde  Verde Militar 00084   XS
+prodname: 'Emporio Armani Underwear Braguita de bikini para Mujer  Verde  Verde Militar 00084   XS'
 ---
 
 Ahora mismo tienes [Emporio Armani Underwear Braguita de bikini para Mujer  Verde  Verde Militar 00084   XS](https://www.amazon.es/dp/B07K1GFBY4/?tag=tolees-21) a 27.93 EUR (original: 44.32 EUR) (36.98 %  de descuento) en el siguiente enlace!

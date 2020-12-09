@@ -14,7 +14,7 @@ currency: EUR
 price: 17.48
 comparePrice: 59.95 EUR
 inStock: true
-prodname: Tom Tailor 5891001  Botines para Mujer  Blanco  Offwhite 00138   38 EU
+prodname: 'Tom Tailor 5891001  Botines para Mujer  Blanco  Offwhite 00138   38 EU'
 ---
 
 Tienes [Tom Tailor 5891001  Botines para Mujer  Blanco  Offwhite 00138   38 EU](https://www.amazon.es/dp/B079HCCVNR/?tag=tolees-21) con un 70.84 % de descuento con precio de oferta de 17.48 EUR (original: 59.95 EUR) en el siguiente enlace!

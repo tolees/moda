@@ -14,7 +14,7 @@ currency: EUR
 price: 13.99
 comparePrice: 24.99 EUR
 inStock: true
-prodname: 3W GRT Leggings Mujer Fitness  Leggings De Yoga para Mujer  Pantalones De Entrenamiento  Pantalón Corto Deportivo para Mujer Cintura Alta  Gris1/3  S 
+prodname: '3W GRT Leggings Mujer Fitness  Leggings De Yoga para Mujer  Pantalones De Entrenamiento  Pantalón Corto Deportivo para Mujer Cintura Alta  Gris1/3  S '
 ---
 
 Ahora mismo tienes [3W GRT Leggings Mujer Fitness  Leggings De Yoga para Mujer  Pantalones De Entrenamiento  Pantalón Corto Deportivo para Mujer Cintura Alta  Gris1/3  S ](https://www.amazon.es/dp/B086PNPVXN/?tag=tolees-21) a 13.99 EUR (original: 24.99 EUR) (44.02 %  de descuento) en el siguiente enlace!

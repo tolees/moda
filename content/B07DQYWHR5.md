@@ -14,7 +14,7 @@ currency: EUR
 price: 30.95
 comparePrice: 70 EUR
 inStock: true
-prodname: Volcom Iconic Zip Sudadera  Hombre  marrón  Mushroom   S
+prodname: 'Volcom Iconic Zip Sudadera  Hombre  marrón  Mushroom   S'
 ---
 
 Ahora mismo tienes [Volcom Iconic Zip Sudadera  Hombre  marrón  Mushroom   S](https://www.amazon.es/dp/B07DQYWHR5/?tag=tolees-21) a 30.95 EUR (original: 70 EUR) (55.79 %  de descuento) en el siguiente enlace!

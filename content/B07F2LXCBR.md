@@ -14,7 +14,7 @@ currency: EUR
 price: 9.98
 comparePrice: 14.99 EUR
 inStock: true
-prodname: HEMING Cartera para Hombre Negra  Cartera tarjetero hombre  Billetera Hombre Pequeña  Cartera Hombre Piel  Carteras Hombre Pequeña  Cartera de Piel  Carteras Hombre Cuero  Tarjetero Hombre negro
+prodname: 'HEMING Cartera para Hombre Negra  Cartera tarjetero hombre  Billetera Hombre Pequeña  Cartera Hombre Piel  Carteras Hombre Pequeña  Cartera de Piel  Carteras Hombre Cuero  Tarjetero Hombre negro'
 ---
 
 Tienes [HEMING Cartera para Hombre Negra  Cartera tarjetero hombre  Billetera Hombre Pequeña  Cartera Hombre Piel  Carteras Hombre Pequeña  Cartera de Piel  Carteras Hombre Cuero  Tarjetero Hombre negro](https://www.amazon.es/dp/B07F2LXCBR/?tag=tolees-21) con un 33.42 % de descuento con precio de oferta de 9.98 EUR (original: 14.99 EUR) en el siguiente enlace!

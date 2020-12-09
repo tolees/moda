@@ -14,7 +14,7 @@ currency: EUR
 price: 19.77
 comparePrice: 99 EUR
 inStock: true
-prodname: Pepe Jeans Saturn Vaqueros  Azul  Denim MC5   24W / 34L para Mujer
+prodname: 'Pepe Jeans Saturn Vaqueros  Azul  Denim MC5   24W / 34L para Mujer'
 ---
 
 Ahora mismo tienes [Pepe Jeans Saturn Vaqueros  Azul  Denim MC5   24W / 34L para Mujer](https://www.amazon.es/dp/B07C3TVM5R/?tag=tolees-21) a 19.77 EUR (original: 99 EUR) (80.03 %  de descuento) en el siguiente enlace!

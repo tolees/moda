@@ -14,7 +14,7 @@ currency: EUR
 price: 11.95
 comparePrice: 29.99 EUR
 inStock: true
-prodname: JACK & JONES Jcoten Shirt Ls One Pocket  Camisa Hombre  Blanco  Large
+prodname: 'JACK & JONES Jcoten Shirt Ls One Pocket  Camisa Hombre  Blanco  Large'
 ---
 
 Tienes [JACK & JONES Jcoten Shirt Ls One Pocket  Camisa Hombre  Blanco  Large](https://www.amazon.es/dp/B07GNFJBQB/?tag=tolees-21) con un 60.15 % de descuento con precio de oferta de 11.95 EUR (original: 29.99 EUR) en el siguiente enlace!

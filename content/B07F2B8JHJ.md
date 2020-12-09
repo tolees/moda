@@ -14,7 +14,7 @@ currency: EUR
 price: 36.49
 comparePrice: 85.0 EUR
 inStock: true
-prodname: Timberland Malibu Waves Ankle  Sandalias para Mujer  Verde Olive Nubuck  36 EU
+prodname: 'Timberland Malibu Waves Ankle  Sandalias para Mujer  Verde Olive Nubuck  36 EU'
 ---
 
 Ahora mismo tienes [Timberland Malibu Waves Ankle  Sandalias para Mujer  Verde Olive Nubuck  36 EU](https://www.amazon.es/dp/B07F2B8JHJ/?tag=tolees-21) a 36.49 EUR (original: 85.0 EUR) (57.07 %  de descuento) en el siguiente enlace!

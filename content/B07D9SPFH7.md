@@ -14,7 +14,7 @@ currency: EUR
 price: 50.07
 comparePrice: 149 EUR
 inStock: true
-prodname: Carrera 113-S-003-HD  Gafas de sol Unisex  Black 57
+prodname: 'Carrera 113-S-003-HD  Gafas de sol Unisex  Black 57'
 ---
 
 Tienes [Carrera 113-S-003-HD  Gafas de sol Unisex  Black 57](https://www.amazon.es/dp/B07D9SPFH7/?tag=tolees-21) con un 66.40 % de descuento con precio de oferta de 50.07 EUR (original: 149 EUR) en el siguiente enlace!

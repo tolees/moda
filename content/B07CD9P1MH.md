@@ -14,7 +14,7 @@ currency: EUR
 price: 41.95
 comparePrice: 139 EUR
 inStock: true
-prodname: Replay Jondrill  Vaqueros Skinny para Hombre  Azul  Dark Blue Denim 10   W32/L30
+prodname: 'Replay Jondrill  Vaqueros Skinny para Hombre  Azul  Dark Blue Denim 10   W32/L30'
 ---
 
 Ahora mismo tienes [Replay Jondrill  Vaqueros Skinny para Hombre  Azul  Dark Blue Denim 10   W32/L30](https://www.amazon.es/dp/B07CD9P1MH/?tag=tolees-21) a 41.95 EUR (original: 139 EUR) (69.82 %  de descuento) en el siguiente enlace!

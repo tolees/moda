@@ -14,7 +14,7 @@ currency: EUR
 price: 18.59
 comparePrice: 59.99 EUR
 inStock: true
-prodname: Only Onlrelax Dnm Jeans Rim13350 Vaqueros Boyfriend  Azul  Medium Blue Denim   W27/L32  Talla del Fabricante: 27  para Mujer
+prodname: 'Only Onlrelax Dnm Jeans Rim13350 Vaqueros Boyfriend  Azul  Medium Blue Denim   W27/L32  Talla del Fabricante: 27  para Mujer'
 ---
 
 Ahora mismo tienes [Only Onlrelax Dnm Jeans Rim13350 Vaqueros Boyfriend  Azul  Medium Blue Denim   W27/L32  Talla del Fabricante: 27  para Mujer](https://www.amazon.es/dp/B073MT8MQM/?tag=tolees-21) a 18.59 EUR (original: 59.99 EUR) (69.01 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 11.14
 comparePrice: 29.95 EUR
 inStock: true
-prodname: Puma Pique Polo Camiseta  Hombre  Gris  Medium Gray Heather   L
+prodname: 'Puma Pique Polo Camiseta  Hombre  Gris  Medium Gray Heather   L'
 ---
 
 Tienes [Puma Pique Polo Camiseta  Hombre  Gris  Medium Gray Heather   L](https://www.amazon.es/dp/B07DKTM1Q9/?tag=tolees-21) con un 62.80 % de descuento con precio de oferta de 11.14 EUR (original: 29.95 EUR) en el siguiente enlace!

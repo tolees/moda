@@ -14,7 +14,7 @@ currency: EUR
 price: 103.65
 comparePrice: 150.0 EUR
 inStock: true
-prodname: Helly Hansen HP Racing Chaqueta  Hombre  Graphite Blue  XL
+prodname: 'Helly Hansen HP Racing Chaqueta  Hombre  Graphite Blue  XL'
 ---
 
 Tienes [Helly Hansen HP Racing Chaqueta  Hombre  Graphite Blue  XL](https://www.amazon.es/dp/B07F2Q9YZW/?tag=tolees-21) con un 30.90 % de descuento con precio de oferta de 103.65 EUR (original: 150.0 EUR) en el siguiente enlace!

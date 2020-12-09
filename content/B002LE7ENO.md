@@ -14,7 +14,7 @@ currency: EUR
 price: 90.18
 comparePrice: 145 EUR
 inStock: true
-prodname: Panama Jack Bota Panama  Zapatos de Cordones Brogue para Mujer  Amarillo  Vintage B1   39 EU
+prodname: 'Panama Jack Bota Panama  Zapatos de Cordones Brogue para Mujer  Amarillo  Vintage B1   39 EU'
 ---
 
 Tienes [Panama Jack Bota Panama  Zapatos de Cordones Brogue para Mujer  Amarillo  Vintage B1   39 EU](https://www.amazon.es/dp/B002LE7ENO/?tag=tolees-21) con un 37.81 % de descuento con precio de oferta de 90.18 EUR (original: 145 EUR) en el siguiente enlace!

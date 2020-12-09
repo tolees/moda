@@ -14,7 +14,7 @@ currency: EUR
 price: 9
 comparePrice: 24.13 EUR
 inStock: true
-prodname: find. Vaqueros para Hombre  Azul  W34/L34
+prodname: 'find. Vaqueros para Hombre  Azul  W34/L34'
 ---
 
 Tienes [find. Vaqueros para Hombre  Azul  W34/L34](https://www.amazon.es/dp/B01N1UVHWE/?tag=tolees-21) con un 62.70 % de descuento con precio de oferta de 9 EUR (original: 24.13 EUR) en el siguiente enlace!

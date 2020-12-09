@@ -14,7 +14,7 @@ currency: EUR
 price: 12.24
 comparePrice: 39.99 EUR
 inStock: true
-prodname: Cortefiel 6097561  Falda para Mujer  Negro  Medium
+prodname: 'Cortefiel 6097561  Falda para Mujer  Negro  Medium'
 ---
 
 Ahora mismo tienes [Cortefiel 6097561  Falda para Mujer  Negro  Medium](https://www.amazon.es/dp/B06XCYCRVJ/?tag=tolees-21) a 12.24 EUR (original: 39.99 EUR) (69.39 %  de descuento) en el siguiente enlace!

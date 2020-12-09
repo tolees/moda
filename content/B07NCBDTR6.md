@@ -14,7 +14,7 @@ currency: EUR
 price: 13.39
 comparePrice: 29.9 EUR
 inStock: true
-prodname: Pepe Jeans Roman Camiseta   Multi 0Aa   5 años  Talla del Fabricante: 5  para Niños
+prodname: 'Pepe Jeans Roman Camiseta   Multi 0Aa   5 años  Talla del Fabricante: 5  para Niños'
 ---
 
 Está [Pepe Jeans Roman Camiseta   Multi 0Aa   5 años  Talla del Fabricante: 5  para Niños](https://www.amazon.es/dp/B07NCBDTR6/?tag=tolees-21) con 55.22 de descuento por 13.39 EUR (original: 29.9 EUR) en el siguiente enlace!

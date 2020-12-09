@@ -14,7 +14,7 @@ currency: EUR
 price: 25.93
 comparePrice: 99.95 EUR
 inStock: true
-prodname: Wrangler Icons 124wj Chaqueta vaquera  Azul  BLUE RHAPSODY 13I   Small para Mujer
+prodname: 'Wrangler Icons 124wj Chaqueta vaquera  Azul  BLUE RHAPSODY 13I   Small para Mujer'
 ---
 
 Está [Wrangler Icons 124wj Chaqueta vaquera  Azul  BLUE RHAPSODY 13I   Small para Mujer](https://www.amazon.es/dp/B07TWTGMCV/?tag=tolees-21) con 74.06 de descuento por 25.93 EUR (original: 99.95 EUR) en el siguiente enlace!

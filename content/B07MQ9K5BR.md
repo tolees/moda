@@ -14,7 +14,7 @@ currency: EUR
 price: 22.44
 comparePrice: 39.99 EUR
 inStock: true
-prodname: adidas W AOP HDY Sudadera  Mujer  Negro/Blanco  2XS
+prodname: 'adidas W AOP HDY Sudadera  Mujer  Negro/Blanco  2XS'
 ---
 
 Está [adidas W AOP HDY Sudadera  Mujer  Negro/Blanco  2XS](https://www.amazon.es/dp/B07MQ9K5BR/?tag=tolees-21) con 43.89 de descuento por 22.44 EUR (original: 39.99 EUR) en el siguiente enlace!

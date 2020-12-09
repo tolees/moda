@@ -14,7 +14,7 @@ currency: EUR
 price: 9.82
 comparePrice: 54.92 EUR
 inStock: true
-prodname: SEE U SOON 7122012  Vestido para Mujer  Azul  Navy   40  Talla del Fabricante: 2 
+prodname: 'SEE U SOON 7122012  Vestido para Mujer  Azul  Navy   40  Talla del Fabricante: 2 '
 ---
 
 Ahora mismo tienes [SEE U SOON 7122012  Vestido para Mujer  Azul  Navy   40  Talla del Fabricante: 2 ](https://www.amazon.es/dp/B01M5G7ARX/?tag=tolees-21) a 9.82 EUR (original: 54.92 EUR) (82.12 %  de descuento) en el siguiente enlace!

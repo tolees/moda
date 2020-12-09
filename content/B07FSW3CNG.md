@@ -14,7 +14,7 @@ currency: EUR
 price: 61.46
 comparePrice: 160.0 EUR
 inStock: true
-prodname: Clarks Wallabee  Zapatos de Cordones Brogue para Mujer  Negro  Black Suede-   35.5 EU
+prodname: 'Clarks Wallabee  Zapatos de Cordones Brogue para Mujer  Negro  Black Suede-   35.5 EU'
 ---
 
 Ahora mismo tienes [Clarks Wallabee  Zapatos de Cordones Brogue para Mujer  Negro  Black Suede-   35.5 EU](https://www.amazon.es/dp/B07FSW3CNG/?tag=tolees-21) a 61.46 EUR (original: 160.0 EUR) (61.59 %  de descuento) en el siguiente enlace!

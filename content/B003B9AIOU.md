@@ -14,7 +14,7 @@ currency: EUR
 price: 25.77
 comparePrice: 53.99 EUR
 inStock: true
-prodname: Smiffy S 31126S Disfraz Fever De Boxeadora Con Camiseta  Shorts Chaqueta Y Guantes  Negro  S - Eu Tamaño 36-38
+prodname: 'Smiffy S 31126S Disfraz Fever De Boxeadora Con Camiseta  Shorts Chaqueta Y Guantes  Negro  S - Eu Tamaño 36-38'
 ---
 
 Tienes [Smiffy S 31126S Disfraz Fever De Boxeadora Con Camiseta  Shorts Chaqueta Y Guantes  Negro  S - Eu Tamaño 36-38](https://www.amazon.es/dp/B003B9AIOU/?tag=tolees-21) con un 52.27 % de descuento con precio de oferta de 25.77 EUR (original: 53.99 EUR) en el siguiente enlace!

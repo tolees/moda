@@ -14,7 +14,7 @@ currency: EUR
 price: 12.88
 comparePrice: 29.9 EUR
 inStock: true
-prodname: FreeQuent Nero-JA  Chaqueta de Traje para Mujer  Rosa M
+prodname: 'FreeQuent Nero-JA  Chaqueta de Traje para Mujer  Rosa M'
 ---
 
 Está [FreeQuent Nero-JA  Chaqueta de Traje para Mujer  Rosa M](https://www.amazon.es/dp/B01EL0W8JA/?tag=tolees-21) con 56.92 de descuento por 12.88 EUR (original: 29.9 EUR) en el siguiente enlace!

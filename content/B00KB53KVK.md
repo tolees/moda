@@ -14,7 +14,7 @@ currency: EUR
 price: 4.09
 comparePrice: 38.39 EUR
 inStock: true
-prodname: DC Comics - Sudadera de Manga Larga con Cuello Redondo para Mujer  Color Gris  Heather Grey   Talla 40
+prodname: 'DC Comics - Sudadera de Manga Larga con Cuello Redondo para Mujer  Color Gris  Heather Grey   Talla 40'
 ---
 
 Está [DC Comics - Sudadera de Manga Larga con Cuello Redondo para Mujer  Color Gris  Heather Grey   Talla 40](https://www.amazon.es/dp/B00KB53KVK/?tag=tolees-21) con 89.35 de descuento por 4.09 EUR (original: 38.39 EUR) en el siguiente enlace!

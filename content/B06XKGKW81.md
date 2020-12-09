@@ -14,7 +14,7 @@ currency: EUR
 price: 5.4
 comparePrice: 11.6 EUR
 inStock: true
-prodname: oodji Ultra Hombre Camiseta Estampada de Algodón  Azul  ES 58-60 / XXL
+prodname: 'oodji Ultra Hombre Camiseta Estampada de Algodón  Azul  ES 58-60 / XXL'
 ---
 
 Ahora mismo tienes [oodji Ultra Hombre Camiseta Estampada de Algodón  Azul  ES 58-60 / XXL](https://www.amazon.es/dp/B06XKGKW81/?tag=tolees-21) a 5.4 EUR (original: 11.6 EUR) (53.45 %  de descuento) en el siguiente enlace!

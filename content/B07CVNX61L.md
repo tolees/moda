@@ -14,7 +14,7 @@ currency: EUR
 price: 57.95
 comparePrice: 110 EUR
 inStock: true
-prodname: Levi s 511 Slim Fit  Vaqueros para Hombre  Azul  Coywolf Adapt 2964   28W / 32L
+prodname: 'Levi s 511 Slim Fit  Vaqueros para Hombre  Azul  Coywolf Adapt 2964   28W / 32L'
 ---
 
 Tienes [Levi s 511 Slim Fit  Vaqueros para Hombre  Azul  Coywolf Adapt 2964   28W / 32L](https://www.amazon.es/dp/B07CVNX61L/?tag=tolees-21) con un 47.32 % de descuento con precio de oferta de 57.95 EUR (original: 110 EUR) en el siguiente enlace!

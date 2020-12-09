@@ -14,7 +14,7 @@ currency: EUR
 price: 5.94
 comparePrice: 8.84 EUR
 inStock: true
-prodname: Joma Nobel Pantalón de equipación  Negro  2XS
+prodname: 'Joma Nobel Pantalón de equipación  Negro  2XS'
 ---
 
 Tienes [Joma Nobel Pantalón de equipación  Negro  2XS](https://www.amazon.es/dp/B00IXMBSC6/?tag=tolees-21) con un 32.81 % de descuento con precio de oferta de 5.94 EUR (original: 8.84 EUR) en el siguiente enlace!

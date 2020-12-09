@@ -14,7 +14,7 @@ currency: EUR
 price: 164.99
 comparePrice: 220.0 EUR
 inStock: true
-prodname: The North Face M Quest Triclimate Chaqueta  Hombre  Tnf Black  S
+prodname: 'The North Face M Quest Triclimate Chaqueta  Hombre  Tnf Black  S'
 ---
 
 Está [The North Face M Quest Triclimate Chaqueta  Hombre  Tnf Black  S](https://www.amazon.es/dp/B07T7WBSQL/?tag=tolees-21) con 25.00 de descuento por 164.99 EUR (original: 220.0 EUR) en el siguiente enlace!

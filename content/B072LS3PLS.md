@@ -14,7 +14,7 @@ currency: EUR
 price: 27.49
 comparePrice: 49.99 EUR
 inStock: true
-prodname: Only onlSEDONA Light Coat OTW Noos Abrigo  Gris  Dark Grey Melange   34  Talla del Fabricante: X-Small  para Mujer
+prodname: 'Only onlSEDONA Light Coat OTW Noos Abrigo  Gris  Dark Grey Melange   34  Talla del Fabricante: X-Small  para Mujer'
 ---
 
 Ahora mismo tienes [Only onlSEDONA Light Coat OTW Noos Abrigo  Gris  Dark Grey Melange   34  Talla del Fabricante: X-Small  para Mujer](https://www.amazon.es/dp/B072LS3PLS/?tag=tolees-21) a 27.49 EUR (original: 49.99 EUR) (45.01 %  de descuento) en el siguiente enlace!

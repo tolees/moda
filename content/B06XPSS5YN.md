@@ -14,7 +14,7 @@ currency: EUR
 price: 12.73
 comparePrice: 29.95 EUR
 inStock: true
-prodname: Desigual TS_Simba Camiseta  Rojo  Borgoña 3007   X-Large para Mujer
+prodname: 'Desigual TS_Simba Camiseta  Rojo  Borgoña 3007   X-Large para Mujer'
 ---
 
 Está [Desigual TS_Simba Camiseta  Rojo  Borgoña 3007   X-Large para Mujer](https://www.amazon.es/dp/B06XPSS5YN/?tag=tolees-21) con 57.50 de descuento por 12.73 EUR (original: 29.95 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 16.95
 comparePrice: 39.95 EUR
 inStock: true
-prodname: Charles Wilson Sudadera con Cremallera Completa con Capucha Peso Intermedio para Hombre  XX-Large  Navy 
+prodname: 'Charles Wilson Sudadera con Cremallera Completa con Capucha Peso Intermedio para Hombre  XX-Large  Navy '
 ---
 
 Está [Charles Wilson Sudadera con Cremallera Completa con Capucha Peso Intermedio para Hombre  XX-Large  Navy ](https://www.amazon.es/dp/B07L5QZ5GR/?tag=tolees-21) con 57.57 de descuento por 16.95 EUR (original: 39.95 EUR) en el siguiente enlace!

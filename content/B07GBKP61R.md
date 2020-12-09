@@ -14,7 +14,7 @@ currency: EUR
 price: 7.95
 comparePrice: 26.99 EUR
 inStock: true
-prodname: Charanga JORENORE  Sudadera para Bebés  Marfil Crudo 10  62  Tamaño del Fabricante:3-6 
+prodname: 'Charanga JORENORE  Sudadera para Bebés  Marfil Crudo 10  62  Tamaño del Fabricante:3-6 '
 ---
 
 Está [Charanga JORENORE  Sudadera para Bebés  Marfil Crudo 10  62  Tamaño del Fabricante:3-6 ](https://www.amazon.es/dp/B07GBKP61R/?tag=tolees-21) con 70.54 de descuento por 7.95 EUR (original: 26.99 EUR) en el siguiente enlace!

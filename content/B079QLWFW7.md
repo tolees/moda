@@ -14,7 +14,7 @@ currency: EUR
 price: 40.35
 comparePrice: 125 EUR
 inStock: true
-prodname: Pepe Jeans London Melting Warm  Botines para Mujer  Marrón  Nut Brown 877   37 EU
+prodname: 'Pepe Jeans London Melting Warm  Botines para Mujer  Marrón  Nut Brown 877   37 EU'
 ---
 
 Tienes [Pepe Jeans London Melting Warm  Botines para Mujer  Marrón  Nut Brown 877   37 EU](https://www.amazon.es/dp/B079QLWFW7/?tag=tolees-21) con un 67.72 % de descuento con precio de oferta de 40.35 EUR (original: 125 EUR) en el siguiente enlace!

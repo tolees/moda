@@ -14,7 +14,7 @@ currency: EUR
 price: 7.82
 comparePrice: 20.15 EUR
 inStock: true
-prodname: SURETTI Sport Gafas de Sol  Negro  One Size  SB de s5419
+prodname: 'SURETTI Sport Gafas de Sol  Negro  One Size  SB de s5419'
 ---
 
 Ahora mismo tienes [SURETTI Sport Gafas de Sol  Negro  One Size  SB de s5419](https://www.amazon.es/dp/B01FVZOF6I/?tag=tolees-21) a 7.82 EUR (original: 20.15 EUR) (61.19 %  de descuento) en el siguiente enlace!

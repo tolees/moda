@@ -14,13 +14,15 @@ currency: EUR
 price: 5.46
 comparePrice: 9.69 EUR
 inStock: true
-prodname: Marca Amazon - Find. Sandalias abiertas para mujer.  color Azul  talla 40 EU
+prodname: 'Marca Amazon - Find. Sandalias abiertas para mujer.  color Azul  talla 40 EU'
 ---
 
-Ahora mismo tienes [Marca Amazon - Find. Sandalias abiertas para mujer.  color Azul  talla 40 EU](https://www.amazon.es/dp/B07Z59MNVX/?tag=tolees-21) a 5.46 EUR (original: 9.69 EUR) (43.65 %  de descuento) en el siguiente enlace!
+Está [Marca Amazon - Find. Sandalias abiertas para mujer.  color Azul  talla 40 EU](https://www.amazon.es/dp/B07Z59MNVX/?tag=tolees-21) con 43.65 de descuento por 5.46 EUR (original: 9.69 EUR) en el siguiente enlace!
 
 [![Marca Amazon - Find. Sandalias abiertas ](https://m.media-amazon.com/images/I/4108UvCYcLL._SL200_.jpg)](https://www.amazon.es/dp/B07Z59MNVX/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07Z59MNVX/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07Z59MNVX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

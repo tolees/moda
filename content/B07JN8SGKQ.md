@@ -14,7 +14,7 @@ currency: EUR
 price: 23.54
 comparePrice: 76 EUR
 inStock: true
-prodname: Guess LS Collins Shirt Camisa Casual  Blanco  True White A000 Twht   X-Large para Hombre
+prodname: 'Guess LS Collins Shirt Camisa Casual  Blanco  True White A000 Twht   X-Large para Hombre'
 ---
 
 Tienes [Guess LS Collins Shirt Camisa Casual  Blanco  True White A000 Twht   X-Large para Hombre](https://www.amazon.es/dp/B07JN8SGKQ/?tag=tolees-21) con un 69.03 % de descuento con precio de oferta de 23.54 EUR (original: 76 EUR) en el siguiente enlace!

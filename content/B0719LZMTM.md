@@ -14,7 +14,7 @@ currency: EUR
 price: 8.13
 comparePrice: 26 EUR
 inStock: true
-prodname: Under Armour - Camiseta sin Mangas para niño  Niños  1289956-002  Negro/Gris  para jóvenes XS
+prodname: 'Under Armour - Camiseta sin Mangas para niño  Niños  1289956-002  Negro/Gris  para jóvenes XS'
 ---
 
 Tienes [Under Armour - Camiseta sin Mangas para niño  Niños  1289956-002  Negro/Gris  para jóvenes XS](https://www.amazon.es/dp/B0719LZMTM/?tag=tolees-21) con un 68.73 % de descuento con precio de oferta de 8.13 EUR (original: 26 EUR) en el siguiente enlace!

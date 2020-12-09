@@ -14,7 +14,7 @@ currency: EUR
 price: 29.28
 comparePrice: 59.9 EUR
 inStock: true
-prodname: Hilfiger Denim Tommy Jeans Stripe Summer Shoe  Zapatos de Cordones Oxford para Hombre  Bleu  45 EU
+prodname: 'Hilfiger Denim Tommy Jeans Stripe Summer Shoe  Zapatos de Cordones Oxford para Hombre  Bleu  45 EU'
 ---
 
 Tienes [Hilfiger Denim Tommy Jeans Stripe Summer Shoe  Zapatos de Cordones Oxford para Hombre  Bleu  45 EU](https://www.amazon.es/dp/B07L3FZQ2Y/?tag=tolees-21) con un 51.12 % de descuento con precio de oferta de 29.28 EUR (original: 59.9 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 25.62
 comparePrice: 139.95 EUR
 inStock: true
-prodname: G-STAR RAW Lynn 2-Zip Mid Waist Skinny Ankle Vaqueros  Negro  Worn In Chert Grey 9882-B178   W34/L34  Talla del Fabricante: 34W/ 34L  para Mujer
+prodname: 'G-STAR RAW Lynn 2-Zip Mid Waist Skinny Ankle Vaqueros  Negro  Worn In Chert Grey 9882-B178   W34/L34  Talla del Fabricante: 34W/ 34L  para Mujer'
 ---
 
 Ahora mismo tienes [G-STAR RAW Lynn 2-Zip Mid Waist Skinny Ankle Vaqueros  Negro  Worn In Chert Grey 9882-B178   W34/L34  Talla del Fabricante: 34W/ 34L  para Mujer](https://www.amazon.es/dp/B07VRYGMRG/?tag=tolees-21) a 25.62 EUR (original: 139.95 EUR) (81.69 %  de descuento) en el siguiente enlace!

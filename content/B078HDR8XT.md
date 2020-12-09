@@ -14,7 +14,7 @@ currency: EUR
 price: 8.88
 comparePrice: 25.99 EUR
 inStock: true
-prodname: Springfield 373710 Camisa Casual  Hombre  Amarillo  Gama Amarillos   Small  Tamaño del Fabricante:S 
+prodname: 'Springfield 373710 Camisa Casual  Hombre  Amarillo  Gama Amarillos   Small  Tamaño del Fabricante:S '
 ---
 
 Está [Springfield 373710 Camisa Casual  Hombre  Amarillo  Gama Amarillos   Small  Tamaño del Fabricante:S ](https://www.amazon.es/dp/B078HDR8XT/?tag=tolees-21) con 65.83 de descuento por 8.88 EUR (original: 25.99 EUR) en el siguiente enlace!

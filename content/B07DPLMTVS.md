@@ -14,7 +14,7 @@ currency: EUR
 price: 3
 comparePrice: 7.3 EUR
 inStock: true
-prodname: oodji Ultra Mujer Camiseta de Algodón con Estampado y Borde Inferior No Elaborado  Rojo  ES 38 / S
+prodname: 'oodji Ultra Mujer Camiseta de Algodón con Estampado y Borde Inferior No Elaborado  Rojo  ES 38 / S'
 ---
 
 Ahora mismo tienes [oodji Ultra Mujer Camiseta de Algodón con Estampado y Borde Inferior No Elaborado  Rojo  ES 38 / S](https://www.amazon.es/dp/B07DPLMTVS/?tag=tolees-21) a 3 EUR (original: 7.3 EUR) (58.90 %  de descuento) en el siguiente enlace!

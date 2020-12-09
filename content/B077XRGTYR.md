@@ -14,7 +14,7 @@ currency: EUR
 price: 22.32
 comparePrice: 35 EUR
 inStock: true
-prodname: Under Armour Run Tall Graphic Camisa Manga Corta  Hombre  After Burn/Charcoal/Reflective  L
+prodname: 'Under Armour Run Tall Graphic Camisa Manga Corta  Hombre  After Burn/Charcoal/Reflective  L'
 ---
 
 Tienes [Under Armour Run Tall Graphic Camisa Manga Corta  Hombre  After Burn/Charcoal/Reflective  L](https://www.amazon.es/dp/B077XRGTYR/?tag=tolees-21) con un 36.23 % de descuento con precio de oferta de 22.32 EUR (original: 35 EUR) en el siguiente enlace!

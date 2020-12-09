@@ -14,7 +14,7 @@ currency: EUR
 price: 14.98
 comparePrice: 29.95 EUR
 inStock: true
-prodname: Desigual Girl Knit T-Shirt Short Sleeve  TS_Earwig  Camiseta  Rojo  Pink Fuschia 3022   140  Talla del Fabricante: 9/10  para Niñas
+prodname: 'Desigual Girl Knit T-Shirt Short Sleeve  TS_Earwig  Camiseta  Rojo  Pink Fuschia 3022   140  Talla del Fabricante: 9/10  para Niñas'
 ---
 
 Tienes [Desigual Girl Knit T-Shirt Short Sleeve  TS_Earwig  Camiseta  Rojo  Pink Fuschia 3022   140  Talla del Fabricante: 9/10  para Niñas](https://www.amazon.es/dp/B07GZ3RB7C/?tag=tolees-21) con un 49.98 % de descuento con precio de oferta de 14.98 EUR (original: 29.95 EUR) en el siguiente enlace!

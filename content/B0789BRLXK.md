@@ -14,7 +14,7 @@ currency: EUR
 price: 25.99
 comparePrice: 60.0 EUR
 inStock: true
-prodname: Helly Hansen HH Logo Crew Sudadera  Hombre  Azul Navy  XL
+prodname: 'Helly Hansen HH Logo Crew Sudadera  Hombre  Azul Navy  XL'
 ---
 
 Está [Helly Hansen HH Logo Crew Sudadera  Hombre  Azul Navy  XL](https://www.amazon.es/dp/B0789BRLXK/?tag=tolees-21) con 56.68 de descuento por 25.99 EUR (original: 60.0 EUR) en el siguiente enlace!

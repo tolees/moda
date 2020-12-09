@@ -14,7 +14,7 @@ currency: EUR
 price: 9.48
 comparePrice: 13.22 EUR
 inStock: true
-prodname: Marca Amazon - find. Jersey Largo sin Hombros  Mujer  Gris  Silver Grey Marl   40  Label: M
+prodname: 'Marca Amazon - find. Jersey Largo sin Hombros  Mujer  Gris  Silver Grey Marl   40  Label: M'
 ---
 
 Está [Marca Amazon - find. Jersey Largo sin Hombros  Mujer  Gris  Silver Grey Marl   40  Label: M](https://www.amazon.es/dp/B07YF9RFPP/?tag=tolees-21) con 28.29 de descuento por 9.48 EUR (original: 13.22 EUR) en el siguiente enlace!

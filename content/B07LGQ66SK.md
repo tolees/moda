@@ -14,7 +14,7 @@ currency: EUR
 price: 19.71
 comparePrice: 49.9 EUR
 inStock: true
-prodname: Dolores Promesas PV19 1017  Sudadera para Mujer  Gris  Gris 001   Small  Tamaño del Fabricante:S 
+prodname: 'Dolores Promesas PV19 1017  Sudadera para Mujer  Gris  Gris 001   Small  Tamaño del Fabricante:S '
 ---
 
 Tienes [Dolores Promesas PV19 1017  Sudadera para Mujer  Gris  Gris 001   Small  Tamaño del Fabricante:S ](https://www.amazon.es/dp/B07LGQ66SK/?tag=tolees-21) con un 60.50 % de descuento con precio de oferta de 19.71 EUR (original: 49.9 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 139
 comparePrice: 279 EUR
 inStock: true
-prodname: Tommy Hilfiger Alana Down Parka  Mujer  Verde  Olive Night 302  X-Small
+prodname: 'Tommy Hilfiger Alana Down Parka  Mujer  Verde  Olive Night 302  X-Small'
 ---
 
 Tienes [Tommy Hilfiger Alana Down Parka  Mujer  Verde  Olive Night 302  X-Small](https://www.amazon.es/dp/B07FJCBCGW/?tag=tolees-21) con un 50.18 % de descuento con precio de oferta de 139 EUR (original: 279 EUR) en el siguiente enlace!

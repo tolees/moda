@@ -14,7 +14,7 @@ currency: EUR
 price: 28.98
 comparePrice: 39.95 EUR
 inStock: true
-prodname: adidas Core18 Hoody Sudadera  Hombre  Bold Green  XS
+prodname: 'adidas Core18 Hoody Sudadera  Hombre  Bold Green  XS'
 ---
 
 Ahora mismo tienes [adidas Core18 Hoody Sudadera  Hombre  Bold Green  XS](https://www.amazon.es/dp/B07X8HXWXY/?tag=tolees-21) a 28.98 EUR (original: 39.95 EUR) (27.46 %  de descuento) en el siguiente enlace!

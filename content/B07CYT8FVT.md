@@ -14,7 +14,7 @@ currency: EUR
 price: 22.99
 comparePrice: 36.99 EUR
 inStock: true
-prodname: 5BILLION - Juego de bandas de resistencia para el maletero de un bikini y glúteos  cinturón de cintura ajustable  con bolsa de transporte y una guía de ejercicio completa  Verde 
+prodname: '5BILLION - Juego de bandas de resistencia para el maletero de un bikini y glúteos  cinturón de cintura ajustable  con bolsa de transporte y una guía de ejercicio completa  Verde '
 ---
 
 Está [5BILLION - Juego de bandas de resistencia para el maletero de un bikini y glúteos  cinturón de cintura ajustable  con bolsa de transporte y una guía de ejercicio completa  Verde ](https://www.amazon.es/dp/B07CYT8FVT/?tag=tolees-21) con 37.85 de descuento por 22.99 EUR (original: 36.99 EUR) en el siguiente enlace!

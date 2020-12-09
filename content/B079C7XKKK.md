@@ -14,7 +14,7 @@ currency: EUR
 price: 32
 comparePrice: 65 EUR
 inStock: true
-prodname: Tommy Jeans Mujer Tommy Classics  Blusa Manga Larga  Blanco  Classic White 100  X-Small
+prodname: 'Tommy Jeans Mujer Tommy Classics  Blusa Manga Larga  Blanco  Classic White 100  X-Small'
 ---
 
 Está [Tommy Jeans Mujer Tommy Classics  Blusa Manga Larga  Blanco  Classic White 100  X-Small](https://www.amazon.es/dp/B079C7XKKK/?tag=tolees-21) con 50.77 de descuento por 32 EUR (original: 65 EUR) en el siguiente enlace!

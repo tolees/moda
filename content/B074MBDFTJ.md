@@ -14,7 +14,7 @@ currency: EUR
 price: 83.53
 comparePrice: 215 EUR
 inStock: true
-prodname: The North Face W Tri Jkt Chaqueta Tanken Triclimate  Mujer  TNF Black  L
+prodname: 'The North Face W Tri Jkt Chaqueta Tanken Triclimate  Mujer  TNF Black  L'
 ---
 
 Está [The North Face W Tri Jkt Chaqueta Tanken Triclimate  Mujer  TNF Black  L](https://www.amazon.es/dp/B074MBDFTJ/?tag=tolees-21) con 61.15 de descuento por 83.53 EUR (original: 215 EUR) en el siguiente enlace!

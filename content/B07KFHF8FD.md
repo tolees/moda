@@ -14,7 +14,7 @@ currency: EUR
 price: 4.65
 comparePrice: 9.99 EUR
 inStock: true
-prodname: Esprit Kids T-Shirt LS Camisa Manga Larga  Gris  Anthracite 290   Talla del Fabricante: 128+ para Niños
+prodname: 'Esprit Kids T-Shirt LS Camisa Manga Larga  Gris  Anthracite 290   Talla del Fabricante: 128+ para Niños'
 ---
 
 Tienes [Esprit Kids T-Shirt LS Camisa Manga Larga  Gris  Anthracite 290   Talla del Fabricante: 128+ para Niños](https://www.amazon.es/dp/B07KFHF8FD/?tag=tolees-21) con un 53.45 % de descuento con precio de oferta de 4.65 EUR (original: 9.99 EUR) en el siguiente enlace!

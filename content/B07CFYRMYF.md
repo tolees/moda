@@ -14,7 +14,7 @@ currency: EUR
 price: 73.12
 comparePrice: 284 EUR
 inStock: true
-prodname: Love Moschino Zipper Sleeveless Dress  Vestido para Mujer  Negro  Black C74  42  Talla del Fabricante: 44 
+prodname: 'Love Moschino Zipper Sleeveless Dress  Vestido para Mujer  Negro  Black C74  42  Talla del Fabricante: 44 '
 ---
 
 Tienes [Love Moschino Zipper Sleeveless Dress  Vestido para Mujer  Negro  Black C74  42  Talla del Fabricante: 44 ](https://www.amazon.es/dp/B07CFYRMYF/?tag=tolees-21) con un 74.25 % de descuento con precio de oferta de 73.12 EUR (original: 284 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 35.26
 comparePrice: 59.99 EUR
 inStock: true
-prodname: Naf Naf Jhnr66d  Vestido para Mujer  Azul  Bleu Marine 567  38
+prodname: 'Naf Naf Jhnr66d  Vestido para Mujer  Azul  Bleu Marine 567  38'
 ---
 
 Ahora mismo tienes [Naf Naf Jhnr66d  Vestido para Mujer  Azul  Bleu Marine 567  38](https://www.amazon.es/dp/B07FSFW3YM/?tag=tolees-21) a 35.26 EUR (original: 59.99 EUR) (41.22 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 81.32
 comparePrice: 116.17 EUR
 inStock: true
-prodname: Timberland Graydon Leather Chukka  Botas Hombre  Negro Black Nubuck  40 EU
+prodname: 'Timberland Graydon Leather Chukka  Botas Hombre  Negro Black Nubuck  40 EU'
 ---
 
 Está [Timberland Graydon Leather Chukka  Botas Hombre  Negro Black Nubuck  40 EU](https://www.amazon.es/dp/B07JN5NHY8/?tag=tolees-21) con 30.00 de descuento por 81.32 EUR (original: 116.17 EUR) en el siguiente enlace!

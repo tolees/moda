@@ -14,7 +14,7 @@ currency: EUR
 price: 5.09
 comparePrice: 19.1 EUR
 inStock: true
-prodname: Marca Amazon - find. Chaqueta con Cuello Redondo Mujer  Rojo  Red   42  Label: L
+prodname: 'Marca Amazon - find. Chaqueta con Cuello Redondo Mujer  Rojo  Red   42  Label: L'
 ---
 
 Tienes [Marca Amazon - find. Chaqueta con Cuello Redondo Mujer  Rojo  Red   42  Label: L](https://www.amazon.es/dp/B07KXF7W8X/?tag=tolees-21) con un 73.35 % de descuento con precio de oferta de 5.09 EUR (original: 19.1 EUR) en el siguiente enlace!

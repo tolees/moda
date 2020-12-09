@@ -14,7 +14,7 @@ currency: EUR
 price: 28.49
 comparePrice: 39.99 EUR
 inStock: true
-prodname: JACK & JONES JJELOGO Blocking Sweat Hood STS Sudadera con capucha  Azul  China Blue   M para Hombre
+prodname: 'JACK & JONES JJELOGO Blocking Sweat Hood STS Sudadera con capucha  Azul  China Blue   M para Hombre'
 ---
 
 Tienes [JACK & JONES JJELOGO Blocking Sweat Hood STS Sudadera con capucha  Azul  China Blue   M para Hombre](https://www.amazon.es/dp/B08BPDJMTX/?tag=tolees-21) con un 28.76 % de descuento con precio de oferta de 28.49 EUR (original: 39.99 EUR) en el siguiente enlace!

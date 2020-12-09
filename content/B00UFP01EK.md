@@ -14,7 +14,7 @@ currency: EUR
 price: 26.72
 comparePrice: 49.94 EUR
 inStock: true
-prodname: Blend 703119 - Vaqueros para Hombre  Color Schwarz  Denim Black 76204   Talla W33 / L34  ES 44 
+prodname: 'Blend 703119 - Vaqueros para Hombre  Color Schwarz  Denim Black 76204   Talla W33 / L34  ES 44 '
 ---
 
 Tienes [Blend 703119 - Vaqueros para Hombre  Color Schwarz  Denim Black 76204   Talla W33 / L34  ES 44 ](https://www.amazon.es/dp/B00UFP01EK/?tag=tolees-21) con un 46.50 % de descuento con precio de oferta de 26.72 EUR (original: 49.94 EUR) en el siguiente enlace!

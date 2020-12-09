@@ -14,7 +14,7 @@ currency: EUR
 price: 12.59
 comparePrice: 20.99 EUR
 inStock: true
-prodname: SALOVES Ropa para Mascotas Perros Invierno Chaleco Caliente Abrigo Chaqueta Traje para Mascotas Gato Perro Cachorro Ropa Algodón Suave Aprueba de Agua Navidad Talla 3XL-7XL
+prodname: 'SALOVES Ropa para Mascotas Perros Invierno Chaleco Caliente Abrigo Chaqueta Traje para Mascotas Gato Perro Cachorro Ropa Algodón Suave Aprueba de Agua Navidad Talla 3XL-7XL'
 ---
 
 Ahora mismo tienes [SALOVES Ropa para Mascotas Perros Invierno Chaleco Caliente Abrigo Chaqueta Traje para Mascotas Gato Perro Cachorro Ropa Algodón Suave Aprueba de Agua Navidad Talla 3XL-7XL](https://www.amazon.es/dp/B07GRQD6VY/?tag=tolees-21) a 12.59 EUR (original: 20.99 EUR) (40.02 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 13.61
 comparePrice: 26 EUR
 inStock: true
-prodname: Under Armour UA Split Fragment Logo SS T Camiseta de Manga Corta  Hombre  Rojo  600   L
+prodname: 'Under Armour UA Split Fragment Logo SS T Camiseta de Manga Corta  Hombre  Rojo  600   L'
 ---
 
 Tienes [Under Armour UA Split Fragment Logo SS T Camiseta de Manga Corta  Hombre  Rojo  600   L](https://www.amazon.es/dp/B077GTPDZ5/?tag=tolees-21) con un 47.65 % de descuento con precio de oferta de 13.61 EUR (original: 26 EUR) en el siguiente enlace!

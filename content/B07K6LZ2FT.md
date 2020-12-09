@@ -14,7 +14,7 @@ currency: EUR
 price: 34.98
 comparePrice: 54.99 EUR
 inStock: true
-prodname: Columbia Arcadia  Chaqueta de lluvia  Niña  Azul oscuro  Nocturnal   M
+prodname: 'Columbia Arcadia  Chaqueta de lluvia  Niña  Azul oscuro  Nocturnal   M'
 ---
 
 Está [Columbia Arcadia  Chaqueta de lluvia  Niña  Azul oscuro  Nocturnal   M](https://www.amazon.es/dp/B07K6LZ2FT/?tag=tolees-21) con 36.39 de descuento por 34.98 EUR (original: 54.99 EUR) en el siguiente enlace!

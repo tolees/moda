@@ -14,7 +14,7 @@ currency: EUR
 price: 18
 comparePrice: 45 EUR
 inStock: true
-prodname: Pepe Jeans Jamison  Vaqueros Slim para Niños  Azul  10Oz Comf Str Dk Used P46   2 años
+prodname: 'Pepe Jeans Jamison  Vaqueros Slim para Niños  Azul  10Oz Comf Str Dk Used P46   2 años'
 ---
 
 Está [Pepe Jeans Jamison  Vaqueros Slim para Niños  Azul  10Oz Comf Str Dk Used P46   2 años](https://www.amazon.es/dp/B06XTPTDKK/?tag=tolees-21) con 60.00 de descuento por 18 EUR (original: 45 EUR) en el siguiente enlace!

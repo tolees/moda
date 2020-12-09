@@ -14,7 +14,7 @@ currency: EUR
 price: 18.46
 comparePrice: 59.95 EUR
 inStock: true
-prodname: BOSS Athleisure tee 1  Camiseta Hombre  Gris  Light/Pastel Grey 059   Medium
+prodname: 'BOSS Athleisure tee 1  Camiseta Hombre  Gris  Light/Pastel Grey 059   Medium'
 ---
 
 Ahora mismo tienes [BOSS Athleisure tee 1  Camiseta Hombre  Gris  Light/Pastel Grey 059   Medium](https://www.amazon.es/dp/B07CHS9WZS/?tag=tolees-21) a 18.46 EUR (original: 59.95 EUR) (69.21 %  de descuento) en el siguiente enlace!

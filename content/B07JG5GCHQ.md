@@ -14,7 +14,7 @@ currency: EUR
 price: 15.99
 comparePrice: 59.99 EUR
 inStock: true
-prodname: Lifewit Bolsa Térmica con Doble Compartimentos Aislamiento Multiuso Caja De Almuerzo para Hombres Mujeres Niños Bebé Bolso Térmico para Camping Excursión Playa Refrescos 7L  Rojo 
+prodname: 'Lifewit Bolsa Térmica con Doble Compartimentos Aislamiento Multiuso Caja De Almuerzo para Hombres Mujeres Niños Bebé Bolso Térmico para Camping Excursión Playa Refrescos 7L  Rojo '
 ---
 
 Está [Lifewit Bolsa Térmica con Doble Compartimentos Aislamiento Multiuso Caja De Almuerzo para Hombres Mujeres Niños Bebé Bolso Térmico para Camping Excursión Playa Refrescos 7L  Rojo ](https://www.amazon.es/dp/B07JG5GCHQ/?tag=tolees-21) con 73.35 de descuento por 15.99 EUR (original: 59.99 EUR) en el siguiente enlace!

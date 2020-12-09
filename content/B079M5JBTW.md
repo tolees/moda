@@ -14,7 +14,7 @@ currency: EUR
 price: 27.99
 comparePrice: 39.9 EUR
 inStock: true
-prodname: Mount Swiss Pantalón Corto - para Hombre Antracita XX-Large
+prodname: 'Mount Swiss Pantalón Corto - para Hombre Antracita XX-Large'
 ---
 
 Está [Mount Swiss Pantalón Corto - para Hombre Antracita XX-Large](https://www.amazon.es/dp/B079M5JBTW/?tag=tolees-21) con 29.85 de descuento por 27.99 EUR (original: 39.9 EUR) en el siguiente enlace!

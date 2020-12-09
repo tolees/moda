@@ -14,7 +14,7 @@ currency: EUR
 price: 9.95
 comparePrice: 23.95 EUR
 inStock: true
-prodname: Joma Elite V Camiseta  Unisex Adulto  Rojo  S
+prodname: 'Joma Elite V Camiseta  Unisex Adulto  Rojo  S'
 ---
 
 Tienes [Joma Elite V Camiseta  Unisex Adulto  Rojo  S](https://www.amazon.es/dp/B01ERYX0UG/?tag=tolees-21) con un 58.46 % de descuento con precio de oferta de 9.95 EUR (original: 23.95 EUR) en el siguiente enlace!

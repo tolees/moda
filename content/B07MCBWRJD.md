@@ -14,7 +14,7 @@ currency: EUR
 price: 23.33
 comparePrice: 32.04 EUR
 inStock: true
-prodname: Pablosky Sandalias con Punta Abierta para Niños   Verde 590180   27 EU
+prodname: 'Pablosky Sandalias con Punta Abierta para Niños   Verde 590180   27 EU'
 ---
 
 Tienes [Pablosky Sandalias con Punta Abierta para Niños   Verde 590180   27 EU](https://www.amazon.es/dp/B07MCBWRJD/?tag=tolees-21) con un 27.18 % de descuento con precio de oferta de 23.33 EUR (original: 32.04 EUR) en el siguiente enlace!

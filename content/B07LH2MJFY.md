@@ -14,7 +14,7 @@ currency: EUR
 price: 30.99
 comparePrice: 50 EUR
 inStock: true
-prodname: Bridesmay Vestido de Cóctel Fiesta Mujer Verano Años 50 Vintage Rockabilly Sin Mangas Pin Up Small Cherry M
+prodname: 'Bridesmay Vestido de Cóctel Fiesta Mujer Verano Años 50 Vintage Rockabilly Sin Mangas Pin Up Small Cherry M'
 ---
 
 Tienes [Bridesmay Vestido de Cóctel Fiesta Mujer Verano Años 50 Vintage Rockabilly Sin Mangas Pin Up Small Cherry M](https://www.amazon.es/dp/B07LH2MJFY/?tag=tolees-21) con un 38.02 % de descuento con precio de oferta de 30.99 EUR (original: 50 EUR) en el siguiente enlace!

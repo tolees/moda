@@ -14,7 +14,7 @@ currency: EUR
 price: 29.45
 comparePrice: 84.95 EUR
 inStock: true
-prodname: Wrangler Larston  Vaqueros  Azul  Dark Vent 27e   33W / 34L para Hombre
+prodname: 'Wrangler Larston  Vaqueros  Azul  Dark Vent 27e   33W / 34L para Hombre'
 ---
 
 Está [Wrangler Larston  Vaqueros  Azul  Dark Vent 27e   33W / 34L para Hombre](https://www.amazon.es/dp/B07FYZ1NMD/?tag=tolees-21) con 65.33 de descuento por 29.45 EUR (original: 84.95 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 29.5
 comparePrice: 55 EUR
 inStock: true
-prodname: Geox J Waviness C  Zapatillas para Niños  Azul  Navy/Orange   32 EU
+prodname: 'Geox J Waviness C  Zapatillas para Niños  Azul  Navy/Orange   32 EU'
 ---
 
 Tienes [Geox J Waviness C  Zapatillas para Niños  Azul  Navy/Orange   32 EU](https://www.amazon.es/dp/B076X8FVSX/?tag=tolees-21) con un 46.36 % de descuento con precio de oferta de 29.5 EUR (original: 55 EUR) en el siguiente enlace!

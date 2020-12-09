@@ -14,7 +14,7 @@ currency: EUR
 price: 8.5
 comparePrice: 11.89 EUR
 inStock: true
-prodname: Selighting Guantes Tácticos Medio Dedo Guantes Militar Guantes para Moto Guantes para Ciclismo Guantes de Caza para Hombre  L  Verde Militar 
+prodname: 'Selighting Guantes Tácticos Medio Dedo Guantes Militar Guantes para Moto Guantes para Ciclismo Guantes de Caza para Hombre  L  Verde Militar '
 ---
 
 Ahora mismo tienes [Selighting Guantes Tácticos Medio Dedo Guantes Militar Guantes para Moto Guantes para Ciclismo Guantes de Caza para Hombre  L  Verde Militar ](https://www.amazon.es/dp/B083PRYB7V/?tag=tolees-21) a 8.5 EUR (original: 11.89 EUR) (28.51 %  de descuento) en el siguiente enlace!

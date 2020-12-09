@@ -14,7 +14,7 @@ currency: EUR
 price: 31.64
 comparePrice: 55 EUR
 inStock: true
-prodname: Under Armour UA CG Armour Mock Camiseta de Manga Larga  Hombre  Negro  Black 002   XL
+prodname: 'Under Armour UA CG Armour Mock Camiseta de Manga Larga  Hombre  Negro  Black 002   XL'
 ---
 
 Está [Under Armour UA CG Armour Mock Camiseta de Manga Larga  Hombre  Negro  Black 002   XL](https://www.amazon.es/dp/B01MRX5Z4F/?tag=tolees-21) con 42.47 de descuento por 31.64 EUR (original: 55 EUR) en el siguiente enlace!

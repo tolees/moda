@@ -14,7 +14,7 @@ currency: EUR
 price: 14.95
 comparePrice: 19.95 EUR
 inStock: true
-prodname: PUMA Future Grip 19.4 Guantes De Portero  Hombre  Red Blast Black White  9
+prodname: 'PUMA Future Grip 19.4 Guantes De Portero  Hombre  Red Blast Black White  9'
 ---
 
 Tienes [PUMA Future Grip 19.4 Guantes De Portero  Hombre  Red Blast Black White  9](https://www.amazon.es/dp/B07JH1FHHL/?tag=tolees-21) con un 25.06 % de descuento con precio de oferta de 14.95 EUR (original: 19.95 EUR) en el siguiente enlace!

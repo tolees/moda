@@ -14,7 +14,7 @@ currency: EUR
 price: 12.94
 comparePrice: 85.0 EUR
 inStock: true
-prodname: Pepe Jeans Vestido Fiesta  Multicolor  Multi 0AA   Medium para Mujer
+prodname: 'Pepe Jeans Vestido Fiesta  Multicolor  Multi 0AA   Medium para Mujer'
 ---
 
 Está [Pepe Jeans Vestido Fiesta  Multicolor  Multi 0AA   Medium para Mujer](https://www.amazon.es/dp/B07WKPRWX8/?tag=tolees-21) con 84.78 de descuento por 12.94 EUR (original: 85.0 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 78.24
 comparePrice: 118.89 EUR
 inStock: true
-prodname: Liu Jo Dress Stripes and Lace  Vestido para Mujer  Multicolor  Antrym Blue Stripes V9859   46
+prodname: 'Liu Jo Dress Stripes and Lace  Vestido para Mujer  Multicolor  Antrym Blue Stripes V9859   46'
 ---
 
 Tienes [Liu Jo Dress Stripes and Lace  Vestido para Mujer  Multicolor  Antrym Blue Stripes V9859   46](https://www.amazon.es/dp/B07H4Y6KSP/?tag=tolees-21) con un 34.19 % de descuento con precio de oferta de 78.24 EUR (original: 118.89 EUR) en el siguiente enlace!

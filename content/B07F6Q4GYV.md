@@ -14,7 +14,7 @@ currency: EUR
 price: 15.57
 comparePrice: 50 EUR
 inStock: true
-prodname: Nike G NSW Hoodie FZ PE Chaqueta  Niñas   Ashen Slate/Lava Glow   S
+prodname: 'Nike G NSW Hoodie FZ PE Chaqueta  Niñas   Ashen Slate/Lava Glow   S'
 ---
 
 Está [Nike G NSW Hoodie FZ PE Chaqueta  Niñas   Ashen Slate/Lava Glow   S](https://www.amazon.es/dp/B07F6Q4GYV/?tag=tolees-21) con 68.86 de descuento por 15.57 EUR (original: 50 EUR) en el siguiente enlace!

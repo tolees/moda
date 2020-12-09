@@ -14,7 +14,7 @@ currency: EUR
 price: 16.25
 comparePrice: 33.95 EUR
 inStock: true
-prodname: BOSS Identity Jers Boxer  Gris  Medium Grey 33   X-Large para Hombre
+prodname: 'BOSS Identity Jers Boxer  Gris  Medium Grey 33   X-Large para Hombre'
 ---
 
 Tienes [BOSS Identity Jers Boxer  Gris  Medium Grey 33   X-Large para Hombre](https://www.amazon.es/dp/B074XXTC8K/?tag=tolees-21) con un 52.14 % de descuento con precio de oferta de 16.25 EUR (original: 33.95 EUR) en el siguiente enlace!

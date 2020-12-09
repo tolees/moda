@@ -14,7 +14,7 @@ currency: EUR
 price: 11.79
 comparePrice: 29.95 EUR
 inStock: true
-prodname: Lee Stripe T Camiseta  Marfil  Blueprint Lh   XX-Large para Hombre
+prodname: 'Lee Stripe T Camiseta  Marfil  Blueprint Lh   XX-Large para Hombre'
 ---
 
 Tienes [Lee Stripe T Camiseta  Marfil  Blueprint Lh   XX-Large para Hombre](https://www.amazon.es/dp/B07FTL5WVR/?tag=tolees-21) con un 60.63 % de descuento con precio de oferta de 11.79 EUR (original: 29.95 EUR) en el siguiente enlace!

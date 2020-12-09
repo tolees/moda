@@ -14,7 +14,7 @@ currency: EUR
 price: 13.67
 comparePrice: 22.48 EUR
 inStock: true
-prodname: HIKARO Sudadera Hombre  Verde  Khaki   48  Talla del fabricante: Small 
+prodname: 'HIKARO Sudadera Hombre  Verde  Khaki   48  Talla del fabricante: Small '
 ---
 
 Ahora mismo tienes [HIKARO Sudadera Hombre  Verde  Khaki   48  Talla del fabricante: Small ](https://www.amazon.es/dp/B077Y9FSVV/?tag=tolees-21) a 13.67 EUR (original: 22.48 EUR) (39.19 %  de descuento) en el siguiente enlace!

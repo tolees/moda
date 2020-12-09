@@ -14,7 +14,7 @@ currency: EUR
 price: 17.99
 comparePrice: 76.99 EUR
 inStock: true
-prodname: Lifewit 15" Maletín para Portátil Bolso Bandolera Hombre Bolsa de Mensajero Maletines Cuero Vintage Marrón
+prodname: 'Lifewit 15" Maletín para Portátil Bolso Bandolera Hombre Bolsa de Mensajero Maletines Cuero Vintage Marrón'
 ---
 
 Tienes [Lifewit 15" Maletín para Portátil Bolso Bandolera Hombre Bolsa de Mensajero Maletines Cuero Vintage Marrón](https://www.amazon.es/dp/B07C8HLS8X/?tag=tolees-21) con un 76.63 % de descuento con precio de oferta de 17.99 EUR (original: 76.99 EUR) en el siguiente enlace!

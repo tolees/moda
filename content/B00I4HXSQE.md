@@ -14,7 +14,7 @@ currency: EUR
 price: 5.45
 comparePrice: 8.18 EUR
 inStock: true
-prodname: Gildan - Camiseta básica de manga corta Unisex Estilosa Suave Niños Niñas - Verano/Calor  Mediana  M /Morado Heliconia 
+prodname: 'Gildan - Camiseta básica de manga corta Unisex Estilosa Suave Niños Niñas - Verano/Calor  Mediana  M /Morado Heliconia '
 ---
 
 Está [Gildan - Camiseta básica de manga corta Unisex Estilosa Suave Niños Niñas - Verano/Calor  Mediana  M /Morado Heliconia ](https://www.amazon.es/dp/B00I4HXSQE/?tag=tolees-21) con 33.37 de descuento por 5.45 EUR (original: 8.18 EUR) en el siguiente enlace!

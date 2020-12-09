@@ -14,7 +14,7 @@ currency: EUR
 price: 12.92
 comparePrice: 39.9 EUR
 inStock: true
-prodname: Urban Classics Ladies Back Lace Up Sweater  Sudadera para Mujer  Gris  Grey 00111   Large
+prodname: 'Urban Classics Ladies Back Lace Up Sweater  Sudadera para Mujer  Gris  Grey 00111   Large'
 ---
 
 Está [Urban Classics Ladies Back Lace Up Sweater  Sudadera para Mujer  Gris  Grey 00111   Large](https://www.amazon.es/dp/B07DQ22SMT/?tag=tolees-21) con 67.62 de descuento por 12.92 EUR (original: 39.9 EUR) en el siguiente enlace!

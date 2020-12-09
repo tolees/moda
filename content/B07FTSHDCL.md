@@ -14,7 +14,7 @@ currency: EUR
 price: 16.87
 comparePrice: 99.95 EUR
 inStock: true
-prodname: Lee Luke Vaqueros Tapered  Azul  Light Daze ZX   W26/L32 para Hombre
+prodname: 'Lee Luke Vaqueros Tapered  Azul  Light Daze ZX   W26/L32 para Hombre'
 ---
 
 Ahora mismo tienes [Lee Luke Vaqueros Tapered  Azul  Light Daze ZX   W26/L32 para Hombre](https://www.amazon.es/dp/B07FTSHDCL/?tag=tolees-21) a 16.87 EUR (original: 99.95 EUR) (83.12 %  de descuento) en el siguiente enlace!

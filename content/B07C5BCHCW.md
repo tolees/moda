@@ -14,7 +14,7 @@ currency: EUR
 price: 48.93
 comparePrice: 100 EUR
 inStock: true
-prodname: Love Moschino Short Sleeve T-Shirt with Hearth Print  Camiseta para Mujer  Gris  Mel.Dark Gray B922  40  Talla del Fabricante: 42 
+prodname: 'Love Moschino Short Sleeve T-Shirt with Hearth Print  Camiseta para Mujer  Gris  Mel.Dark Gray B922  40  Talla del Fabricante: 42 '
 ---
 
 Está [Love Moschino Short Sleeve T-Shirt with Hearth Print  Camiseta para Mujer  Gris  Mel.Dark Gray B922  40  Talla del Fabricante: 42 ](https://www.amazon.es/dp/B07C5BCHCW/?tag=tolees-21) con 51.07 de descuento por 48.93 EUR (original: 100 EUR) en el siguiente enlace!

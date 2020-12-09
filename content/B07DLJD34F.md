@@ -14,7 +14,7 @@ currency: EUR
 price: 15.52
 comparePrice: 29.99 EUR
 inStock: true
-prodname: Women s Secret TF Black Dots PJ  Conjuntos de Pijama para Mujer   Varios 98  Small  Tamaño del Fabricante:S 
+prodname: 'Women s Secret TF Black Dots PJ  Conjuntos de Pijama para Mujer   Varios 98  Small  Tamaño del Fabricante:S '
 ---
 
 Tienes [Women s Secret TF Black Dots PJ  Conjuntos de Pijama para Mujer   Varios 98  Small  Tamaño del Fabricante:S ](https://www.amazon.es/dp/B07DLJD34F/?tag=tolees-21) con un 48.25 % de descuento con precio de oferta de 15.52 EUR (original: 29.99 EUR) en el siguiente enlace!

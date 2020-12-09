@@ -14,7 +14,7 @@ currency: EUR
 price: 16.17
 comparePrice: 26.95 EUR
 inStock: true
-prodname: HIKARO Sudadera con Print Hombre  Azul  Navy   54  Talla del fabricante: X-Large 
+prodname: 'HIKARO Sudadera con Print Hombre  Azul  Navy   54  Talla del fabricante: X-Large '
 ---
 
 Ahora mismo tienes [HIKARO Sudadera con Print Hombre  Azul  Navy   54  Talla del fabricante: X-Large ](https://www.amazon.es/dp/B077YDLL7J/?tag=tolees-21) a 16.17 EUR (original: 26.95 EUR) (40.00 %  de descuento) en el siguiente enlace!

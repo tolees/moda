@@ -14,7 +14,7 @@ currency: EUR
 price: 11.99
 comparePrice: 26.49 EUR
 inStock: true
-prodname: YiZYiF Bolero de Boda Fiesta Niñas Chaqueta Brillante Cárdigan Bebés Torera Niña Manga Larga para Vestido Traje Elegante Bautizo Comunión 18 Meses - 10 Años Plateado 8-9 Años
+prodname: 'YiZYiF Bolero de Boda Fiesta Niñas Chaqueta Brillante Cárdigan Bebés Torera Niña Manga Larga para Vestido Traje Elegante Bautizo Comunión 18 Meses - 10 Años Plateado 8-9 Años'
 ---
 
 Ahora mismo tienes [YiZYiF Bolero de Boda Fiesta Niñas Chaqueta Brillante Cárdigan Bebés Torera Niña Manga Larga para Vestido Traje Elegante Bautizo Comunión 18 Meses - 10 Años Plateado 8-9 Años](https://www.amazon.es/dp/B083FWBYDK/?tag=tolees-21) a 11.99 EUR (original: 26.49 EUR) (54.74 %  de descuento) en el siguiente enlace!

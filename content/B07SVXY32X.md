@@ -14,7 +14,7 @@ currency: EUR
 price: 23.61
 comparePrice: 109.9 EUR
 inStock: true
-prodname: Geox D Genova Moc A  Mocasines para Mujer  Beige  Sand C5004   40 EU
+prodname: 'Geox D Genova Moc A  Mocasines para Mujer  Beige  Sand C5004   40 EU'
 ---
 
 Tienes [Geox D Genova Moc A  Mocasines para Mujer  Beige  Sand C5004   40 EU](https://www.amazon.es/dp/B07SVXY32X/?tag=tolees-21) con un 78.52 % de descuento con precio de oferta de 23.61 EUR (original: 109.9 EUR) en el siguiente enlace!

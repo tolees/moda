@@ -14,7 +14,7 @@ currency: EUR
 price: 19.75
 comparePrice: 30.0 EUR
 inStock: true
-prodname: Helly Hansen HH Logo T-Shirt Camiseta  Hombre  Royal Blue  S
+prodname: 'Helly Hansen HH Logo T-Shirt Camiseta  Hombre  Royal Blue  S'
 ---
 
 Tienes [Helly Hansen HH Logo T-Shirt Camiseta  Hombre  Royal Blue  S](https://www.amazon.es/dp/B07SD8XN3F/?tag=tolees-21) con un 34.17 % de descuento con precio de oferta de 19.75 EUR (original: 30.0 EUR) en el siguiente enlace!

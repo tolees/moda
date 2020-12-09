@@ -14,7 +14,7 @@ currency: EUR
 price: 57.29
 comparePrice: 109.9 EUR
 inStock: true
-prodname: Geox D Felicity G  Botines Mujer  Negro  Black C9999   36 EU
+prodname: 'Geox D Felicity G  Botines Mujer  Negro  Black C9999   36 EU'
 ---
 
 Tienes [Geox D Felicity G  Botines Mujer  Negro  Black C9999   36 EU](https://www.amazon.es/dp/B07LFZC6JZ/?tag=tolees-21) con un 47.87 % de descuento con precio de oferta de 57.29 EUR (original: 109.9 EUR) en el siguiente enlace!

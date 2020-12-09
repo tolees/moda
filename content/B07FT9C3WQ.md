@@ -14,7 +14,7 @@ currency: EUR
 price: 27.65
 comparePrice: 79.95 EUR
 inStock: true
-prodname: Lee Scarlett Cropped  Vaqueros Skinny para Mujer  Gris  Concrete Grey Cm  W31/L33
+prodname: 'Lee Scarlett Cropped  Vaqueros Skinny para Mujer  Gris  Concrete Grey Cm  W31/L33'
 ---
 
 Está [Lee Scarlett Cropped  Vaqueros Skinny para Mujer  Gris  Concrete Grey Cm  W31/L33](https://www.amazon.es/dp/B07FT9C3WQ/?tag=tolees-21) con 65.42 de descuento por 27.65 EUR (original: 79.95 EUR) en el siguiente enlace!

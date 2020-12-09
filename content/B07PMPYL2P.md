@@ -14,7 +14,7 @@ currency: EUR
 price: 45.99
 comparePrice: 74.95 EUR
 inStock: true
-prodname: Wrangler Icons Camisa  Azul  2 Years 922   Small para Hombre
+prodname: 'Wrangler Icons Camisa  Azul  2 Years 922   Small para Hombre'
 ---
 
 Está [Wrangler Icons Camisa  Azul  2 Years 922   Small para Hombre](https://www.amazon.es/dp/B07PMPYL2P/?tag=tolees-21) con 38.64 de descuento por 45.99 EUR (original: 74.95 EUR) en el siguiente enlace!

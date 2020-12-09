@@ -14,7 +14,7 @@ currency: EUR
 price: 13.14
 comparePrice: 22.99 EUR
 inStock: true
-prodname: Quiksilver - Sandalias - Hombre - EU 47 - Negro
+prodname: 'Quiksilver - Sandalias - Hombre - EU 47 - Negro'
 ---
 
 Tienes [Quiksilver - Sandalias - Hombre - EU 47 - Negro](https://www.amazon.es/dp/B00LMI4WQW/?tag=tolees-21) con un 42.84 % de descuento con precio de oferta de 13.14 EUR (original: 22.99 EUR) en el siguiente enlace!

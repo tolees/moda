@@ -14,7 +14,7 @@ currency: EUR
 price: 99.3
 comparePrice: 150.0 EUR
 inStock: true
-prodname: Helly Hansen Crew Midlayer Chaqueta deportiva impermeable  Hombre  Negro  Black 990   M
+prodname: 'Helly Hansen Crew Midlayer Chaqueta deportiva impermeable  Hombre  Negro  Black 990   M'
 ---
 
 Tienes [Helly Hansen Crew Midlayer Chaqueta deportiva impermeable  Hombre  Negro  Black 990   M](https://www.amazon.es/dp/B006ZML8FI/?tag=tolees-21) con un 33.80 % de descuento con precio de oferta de 99.3 EUR (original: 150.0 EUR) en el siguiente enlace!

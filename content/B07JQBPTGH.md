@@ -14,7 +14,7 @@ currency: EUR
 price: 9.77
 comparePrice: 19.99 EUR
 inStock: true
-prodname: JACK & JONES Jcoscales Polo SS  Camiseta Hombre  Azul  Hawaiian Ocean Fit: Slim Melange   Medium
+prodname: 'JACK & JONES Jcoscales Polo SS  Camiseta Hombre  Azul  Hawaiian Ocean Fit: Slim Melange   Medium'
 ---
 
 Ahora mismo tienes [JACK & JONES Jcoscales Polo SS  Camiseta Hombre  Azul  Hawaiian Ocean Fit: Slim Melange   Medium](https://www.amazon.es/dp/B07JQBPTGH/?tag=tolees-21) a 9.77 EUR (original: 19.99 EUR) (51.13 %  de descuento) en el siguiente enlace!

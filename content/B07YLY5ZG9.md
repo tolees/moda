@@ -14,7 +14,7 @@ currency: EUR
 price: 13.11
 comparePrice: 34.99 EUR
 inStock: true
-prodname: Superdry VL O tee Camisa  Verde  Pine Green Gci   S para Hombre
+prodname: 'Superdry VL O tee Camisa  Verde  Pine Green Gci   S para Hombre'
 ---
 
 Tienes [Superdry VL O tee Camisa  Verde  Pine Green Gci   S para Hombre](https://www.amazon.es/dp/B07YLY5ZG9/?tag=tolees-21) con un 62.53 % de descuento con precio de oferta de 13.11 EUR (original: 34.99 EUR) en el siguiente enlace!

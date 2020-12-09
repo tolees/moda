@@ -14,7 +14,7 @@ currency: EUR
 price: 37.44
 comparePrice: 49.99 EUR
 inStock: true
-prodname: Springfield 4.2.Gym.MD.Perfecto Velvet Chaqueta  Mujer  Azul  Gama Azules 19   36  Tamaño del Fabricante:36 
+prodname: 'Springfield 4.2.Gym.MD.Perfecto Velvet Chaqueta  Mujer  Azul  Gama Azules 19   36  Tamaño del Fabricante:36 '
 ---
 
 Tienes [Springfield 4.2.Gym.MD.Perfecto Velvet Chaqueta  Mujer  Azul  Gama Azules 19   36  Tamaño del Fabricante:36 ](https://www.amazon.es/dp/B07DLLLC6F/?tag=tolees-21) con un 25.11 % de descuento con precio de oferta de 37.44 EUR (original: 49.99 EUR) en el siguiente enlace!

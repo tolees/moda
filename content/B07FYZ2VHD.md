@@ -14,7 +14,7 @@ currency: EUR
 price: 18.65
 comparePrice: 89.95 EUR
 inStock: true
-prodname: Wrangler Greensboro Vaqueros  Azul  Lunar Eclipse 27r   31W/L34 para Hombre
+prodname: 'Wrangler Greensboro Vaqueros  Azul  Lunar Eclipse 27r   31W/L34 para Hombre'
 ---
 
 Ahora mismo tienes [Wrangler Greensboro Vaqueros  Azul  Lunar Eclipse 27r   31W/L34 para Hombre](https://www.amazon.es/dp/B07FYZ2VHD/?tag=tolees-21) a 18.65 EUR (original: 89.95 EUR) (79.27 %  de descuento) en el siguiente enlace!

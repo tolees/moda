@@ -14,7 +14,7 @@ currency: EUR
 price: 24.99
 comparePrice: 49.99 EUR
 inStock: true
-prodname: Sandalias con Velcro para Niños
+prodname: 'Sandalias con Velcro para Niños'
 ---
 
 Tienes [Sandalias con Velcro para Niños](https://www.amazon.es/dp/B06X1H3YYB/?tag=tolees-21) con un 50.01 % de descuento con precio de oferta de 24.99 EUR (original: 49.99 EUR) en el siguiente enlace!

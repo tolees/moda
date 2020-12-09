@@ -14,7 +14,7 @@ currency: EUR
 price: 13.98
 comparePrice: 23.98 EUR
 inStock: true
-prodname: zhaojiexiaodian Sudadera con Capucha para Hombre  Sudadera con Capucha  monopatín de Hip Hop  Uniforme de béisbol Suelto de Bolsillo Canguro Chaqueta con Capucha  Amarillo  S 
+prodname: 'zhaojiexiaodian Sudadera con Capucha para Hombre  Sudadera con Capucha  monopatín de Hip Hop  Uniforme de béisbol Suelto de Bolsillo Canguro Chaqueta con Capucha  Amarillo  S '
 ---
 
 Está [zhaojiexiaodian Sudadera con Capucha para Hombre  Sudadera con Capucha  monopatín de Hip Hop  Uniforme de béisbol Suelto de Bolsillo Canguro Chaqueta con Capucha  Amarillo  S ](https://www.amazon.es/dp/B08GZXXN22/?tag=tolees-21) con 41.70 de descuento por 13.98 EUR (original: 23.98 EUR) en el siguiente enlace!

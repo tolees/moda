@@ -14,7 +14,7 @@ currency: EUR
 price: 16.99
 comparePrice: 25.99 EUR
 inStock: true
-prodname: LaLaAreal Faja Reductora Adelgazante Hombre Camiseta Termica Sauna de Neopreno Fitness Running Gym Faja Deportiva
+prodname: 'LaLaAreal Faja Reductora Adelgazante Hombre Camiseta Termica Sauna de Neopreno Fitness Running Gym Faja Deportiva'
 ---
 
 Está [LaLaAreal Faja Reductora Adelgazante Hombre Camiseta Termica Sauna de Neopreno Fitness Running Gym Faja Deportiva](https://www.amazon.es/dp/B01FU2OI0K/?tag=tolees-21) con 34.63 de descuento por 16.99 EUR (original: 25.99 EUR) en el siguiente enlace!

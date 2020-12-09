@@ -14,7 +14,7 @@ currency: EUR
 price: 36.77
 comparePrice: 99.95 EUR
 inStock: true
-prodname: Clarks Hero  Zapatos de Cordones Brogue Mujer  Marrón  Tan Leather Tan Leather   37 EU
+prodname: 'Clarks Hero  Zapatos de Cordones Brogue Mujer  Marrón  Tan Leather Tan Leather   37 EU'
 ---
 
 Tienes [Clarks Hero  Zapatos de Cordones Brogue Mujer  Marrón  Tan Leather Tan Leather   37 EU](https://www.amazon.es/dp/B07TQW6NXZ/?tag=tolees-21) con un 63.21 % de descuento con precio de oferta de 36.77 EUR (original: 99.95 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 4.3
 comparePrice: 15 EUR
 inStock: true
-prodname: Morgan 162-bara.n Camiseta sin Mangas  Blanco Off White  Small  Talla del Fabricante: TS  para Mujer
+prodname: 'Morgan 162-bara.n Camiseta sin Mangas  Blanco Off White  Small  Talla del Fabricante: TS  para Mujer'
 ---
 
 Tienes [Morgan 162-bara.n Camiseta sin Mangas  Blanco Off White  Small  Talla del Fabricante: TS  para Mujer](https://www.amazon.es/dp/B07FKPP3Q4/?tag=tolees-21) con un 71.33 % de descuento con precio de oferta de 4.3 EUR (original: 15 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 30.42
 comparePrice: 79.99 EUR
 inStock: true
-prodname: ESPRIT Collection 5P Slim  Vaqueros para Hombre  Blau  E Dark Blue 952   W31/ L34
+prodname: 'ESPRIT Collection 5P Slim  Vaqueros para Hombre  Blau  E Dark Blue 952   W31/ L34'
 ---
 
 Está [ESPRIT Collection 5P Slim  Vaqueros para Hombre  Blau  E Dark Blue 952   W31/ L34](https://www.amazon.es/dp/B00U8GIEAE/?tag=tolees-21) con 61.97 de descuento por 30.42 EUR (original: 79.99 EUR) en el siguiente enlace!

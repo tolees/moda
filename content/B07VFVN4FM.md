@@ -14,7 +14,7 @@ currency: EUR
 price: 42.33
 comparePrice: 139.0 EUR
 inStock: true
-prodname: Calvin Klein Hooded Zip Through with Seaming Chaqueta  Rosa  Keepsake Pink Tir   42  Talla del fabricante: X-Large  para Mujer
+prodname: 'Calvin Klein Hooded Zip Through with Seaming Chaqueta  Rosa  Keepsake Pink Tir   42  Talla del fabricante: X-Large  para Mujer'
 ---
 
 Tienes [Calvin Klein Hooded Zip Through with Seaming Chaqueta  Rosa  Keepsake Pink Tir   42  Talla del fabricante: X-Large  para Mujer](https://www.amazon.es/dp/B07VFVN4FM/?tag=tolees-21) con un 69.55 % de descuento con precio de oferta de 42.33 EUR (original: 139.0 EUR) en el siguiente enlace!

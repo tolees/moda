@@ -14,7 +14,7 @@ currency: EUR
 price: 9.49
 comparePrice: 35.0 EUR
 inStock: true
-prodname: Pepe Jeans Sonny Camiseta  Azul  Ultra Blue 542   Medium para Hombre
+prodname: 'Pepe Jeans Sonny Camiseta  Azul  Ultra Blue 542   Medium para Hombre'
 ---
 
 Está [Pepe Jeans Sonny Camiseta  Azul  Ultra Blue 542   Medium para Hombre](https://www.amazon.es/dp/B07VWX83DN/?tag=tolees-21) con 72.89 de descuento por 9.49 EUR (original: 35.0 EUR) en el siguiente enlace!

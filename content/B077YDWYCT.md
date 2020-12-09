@@ -14,7 +14,7 @@ currency: EUR
 price: 38.97
 comparePrice: 64.95 EUR
 inStock: true
-prodname: HIKARO Chaqueta Ligera Estilo Parka con Capucha Mujer  Verde  Khaki   40  Talla del fabricante: Medium 
+prodname: 'HIKARO Chaqueta Ligera Estilo Parka con Capucha Mujer  Verde  Khaki   40  Talla del fabricante: Medium '
 ---
 
 Tienes [HIKARO Chaqueta Ligera Estilo Parka con Capucha Mujer  Verde  Khaki   40  Talla del fabricante: Medium ](https://www.amazon.es/dp/B077YDWYCT/?tag=tolees-21) con un 40.00 % de descuento con precio de oferta de 38.97 EUR (original: 64.95 EUR) en el siguiente enlace!

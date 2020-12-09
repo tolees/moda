@@ -14,7 +14,7 @@ currency: EUR
 price: 37.1
 comparePrice: 53.0 EUR
 inStock: true
-prodname: ANABEL LEE Vestido Circo Mujer L.
+prodname: 'ANABEL LEE Vestido Circo Mujer L.'
 ---
 
 Ahora mismo tienes [ANABEL LEE Vestido Circo Mujer L.](https://www.amazon.es/dp/B08BPB3QR1/?tag=tolees-21) a 37.1 EUR (original: 53.0 EUR) (30.00 %  de descuento) en el siguiente enlace!

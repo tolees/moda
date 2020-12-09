@@ -14,7 +14,7 @@ currency: EUR
 price: 6.28
 comparePrice: 25.99 EUR
 inStock: true
-prodname: edc by ESPRIT 096CC1K061  Camiseta Mujer  Rojo  BORDEAUX RED   36  Talla del fabricante: Small 
+prodname: 'edc by ESPRIT 096CC1K061  Camiseta Mujer  Rojo  BORDEAUX RED   36  Talla del fabricante: Small '
 ---
 
 Tienes [edc by ESPRIT 096CC1K061  Camiseta Mujer  Rojo  BORDEAUX RED   36  Talla del fabricante: Small ](https://www.amazon.es/dp/B01IOSHEDU/?tag=tolees-21) con un 75.84 % de descuento con precio de oferta de 6.28 EUR (original: 25.99 EUR) en el siguiente enlace!

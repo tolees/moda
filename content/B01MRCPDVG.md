@@ -14,7 +14,7 @@ currency: EUR
 price: 44.95
 comparePrice: 89.95 EUR
 inStock: true
-prodname: Lee Scarlett Vaqueros Skinny  Azul  Solid Blue KT   W30/L33 para Mujer
+prodname: 'Lee Scarlett Vaqueros Skinny  Azul  Solid Blue KT   W30/L33 para Mujer'
 ---
 
 Tienes [Lee Scarlett Vaqueros Skinny  Azul  Solid Blue KT   W30/L33 para Mujer](https://www.amazon.es/dp/B01MRCPDVG/?tag=tolees-21) con un 50.03 % de descuento con precio de oferta de 44.95 EUR (original: 89.95 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 58.67
 comparePrice: 79.5 EUR
 inStock: true
-prodname: X-Bionic Camiseta Ml C/Redondo Apani 4.0 Merino Mujer
+prodname: 'X-Bionic Camiseta Ml C/Redondo Apani 4.0 Merino Mujer'
 ---
 
 Está [X-Bionic Camiseta Ml C/Redondo Apani 4.0 Merino Mujer](https://www.amazon.es/dp/B07X7G4BHG/?tag=tolees-21) con 26.20 de descuento por 58.67 EUR (original: 79.5 EUR) en el siguiente enlace!

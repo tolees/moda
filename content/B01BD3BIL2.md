@@ -14,7 +14,7 @@ currency: EUR
 price: 19.99
 comparePrice: 39.9 EUR
 inStock: true
-prodname: Urban Classics Ladies Light Bomber Jacket - Chaqueta Mujer  color Negro  Black 7   talla 42  Talla del fabricante: XL 
+prodname: 'Urban Classics Ladies Light Bomber Jacket - Chaqueta Mujer  color Negro  Black 7   talla 42  Talla del fabricante: XL '
 ---
 
 Tienes [Urban Classics Ladies Light Bomber Jacket - Chaqueta Mujer  color Negro  Black 7   talla 42  Talla del fabricante: XL ](https://www.amazon.es/dp/B01BD3BIL2/?tag=tolees-21) con un 49.90 % de descuento con precio de oferta de 19.99 EUR (original: 39.9 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 36.51
 comparePrice: 57.27 EUR
 inStock: true
-prodname: Geox UOMO Snake K  Zapatillas Hombre  Beige/Naranja Dk  48 EU
+prodname: 'Geox UOMO Snake K  Zapatillas Hombre  Beige/Naranja Dk  48 EU'
 ---
 
 Ahora mismo tienes [Geox UOMO Snake K  Zapatillas Hombre  Beige/Naranja Dk  48 EU](https://www.amazon.es/dp/B07QD12FPP/?tag=tolees-21) a 36.51 EUR (original: 57.27 EUR) (36.25 %  de descuento) en el siguiente enlace!

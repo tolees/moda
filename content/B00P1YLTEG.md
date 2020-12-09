@@ -14,7 +14,7 @@ currency: EUR
 price: 29.41
 comparePrice: 125 EUR
 inStock: true
-prodname: Just Cavalli Sonnenbrille JC649S 5601U  Gafas de Sol para Mujer  Negro  Schwarz   54
+prodname: 'Just Cavalli Sonnenbrille JC649S 5601U  Gafas de Sol para Mujer  Negro  Schwarz   54'
 ---
 
 Ahora mismo tienes [Just Cavalli Sonnenbrille JC649S 5601U  Gafas de Sol para Mujer  Negro  Schwarz   54](https://www.amazon.es/dp/B00P1YLTEG/?tag=tolees-21) a 29.41 EUR (original: 125 EUR) (76.47 %  de descuento) en el siguiente enlace!

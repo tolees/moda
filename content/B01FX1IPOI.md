@@ -14,7 +14,7 @@ currency: EUR
 price: 32.45
 comparePrice: 50 EUR
 inStock: true
-prodname: Under Armour UA Tech Short Pantalón Corto  Hombre  Beige  Canvas   Talla Fabricante: 36
+prodname: 'Under Armour UA Tech Short Pantalón Corto  Hombre  Beige  Canvas   Talla Fabricante: 36'
 ---
 
 Está [Under Armour UA Tech Short Pantalón Corto  Hombre  Beige  Canvas   Talla Fabricante: 36](https://www.amazon.es/dp/B01FX1IPOI/?tag=tolees-21) con 35.10 de descuento por 32.45 EUR (original: 50 EUR) en el siguiente enlace!

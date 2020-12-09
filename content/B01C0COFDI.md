@@ -14,7 +14,7 @@ currency: EUR
 price: 11.97
 comparePrice: 19.97 EUR
 inStock: true
-prodname: Guantes anticortes Twinzee® - Protección nivel 5 de alto rendimiento  aptos para uso alimentario  certificación EN 388  1 par  Extra Large 
+prodname: 'Guantes anticortes Twinzee® - Protección nivel 5 de alto rendimiento  aptos para uso alimentario  certificación EN 388  1 par  Extra Large '
 ---
 
 Está [Guantes anticortes Twinzee® - Protección nivel 5 de alto rendimiento  aptos para uso alimentario  certificación EN 388  1 par  Extra Large ](https://www.amazon.es/dp/B01C0COFDI/?tag=tolees-21) con 40.06 de descuento por 11.97 EUR (original: 19.97 EUR) en el siguiente enlace!

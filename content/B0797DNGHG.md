@@ -14,7 +14,7 @@ currency: EUR
 price: 46.95
 comparePrice: 99.95 EUR
 inStock: true
-prodname: Columbia Jones Ridge Jacket Chaqueta Impermeable  Aislamiento térmico sintético Hi-Loft  Hombre  Negro  M
+prodname: 'Columbia Jones Ridge Jacket Chaqueta Impermeable  Aislamiento térmico sintético Hi-Loft  Hombre  Negro  M'
 ---
 
 Ahora mismo tienes [Columbia Jones Ridge Jacket Chaqueta Impermeable  Aislamiento térmico sintético Hi-Loft  Hombre  Negro  M](https://www.amazon.es/dp/B0797DNGHG/?tag=tolees-21) a 46.95 EUR (original: 99.95 EUR) (53.03 %  de descuento) en el siguiente enlace!

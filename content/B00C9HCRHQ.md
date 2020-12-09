@@ -14,7 +14,7 @@ currency: EUR
 price: 16.82
 comparePrice: 40 EUR
 inStock: true
-prodname: The North Face Light S/S Crew Camiseta Ligera de Manga Corta con Cuello Redondo  Mujer  Negro  TNF Black   Medium
+prodname: 'The North Face Light S/S Crew Camiseta Ligera de Manga Corta con Cuello Redondo  Mujer  Negro  TNF Black   Medium'
 ---
 
 Tienes [The North Face Light S/S Crew Camiseta Ligera de Manga Corta con Cuello Redondo  Mujer  Negro  TNF Black   Medium](https://www.amazon.es/dp/B00C9HCRHQ/?tag=tolees-21) con un 57.95 % de descuento con precio de oferta de 16.82 EUR (original: 40 EUR) en el siguiente enlace!

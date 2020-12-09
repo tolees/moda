@@ -14,7 +14,7 @@ currency: EUR
 price: 12.97
 comparePrice: 26 EUR
 inStock: true
-prodname: Nike Pico 4  Tdv   Zapatos de Primeros Pasos para Bebés  Negro  Negro 454501 001   25 EU
+prodname: 'Nike Pico 4  Tdv   Zapatos de Primeros Pasos para Bebés  Negro  Negro 454501 001   25 EU'
 ---
 
 Está [Nike Pico 4  Tdv   Zapatos de Primeros Pasos para Bebés  Negro  Negro 454501 001   25 EU](https://www.amazon.es/dp/B007WGKPPA/?tag=tolees-21) con 50.12 de descuento por 12.97 EUR (original: 26 EUR) en el siguiente enlace!

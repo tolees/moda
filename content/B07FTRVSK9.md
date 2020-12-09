@@ -14,7 +14,7 @@ currency: EUR
 price: 18.65
 comparePrice: 99.95 EUR
 inStock: true
-prodname: Lee Morton Vaqueros Rectos  Azul  Flick Mid IX   W32/L34 para Hombre
+prodname: 'Lee Morton Vaqueros Rectos  Azul  Flick Mid IX   W32/L34 para Hombre'
 ---
 
 Tienes [Lee Morton Vaqueros Rectos  Azul  Flick Mid IX   W32/L34 para Hombre](https://www.amazon.es/dp/B07FTRVSK9/?tag=tolees-21) con un 81.34 % de descuento con precio de oferta de 18.65 EUR (original: 99.95 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 15.99
 comparePrice: 32.99 EUR
 inStock: true
-prodname: iClosam Camisón Mujer Gato Verano Pijama Casual Algodón Ropa de Dormir Talla Grande
+prodname: 'iClosam Camisón Mujer Gato Verano Pijama Casual Algodón Ropa de Dormir Talla Grande'
 ---
 
 Tienes [iClosam Camisón Mujer Gato Verano Pijama Casual Algodón Ropa de Dormir Talla Grande](https://www.amazon.es/dp/B07QKW46SQ/?tag=tolees-21) con un 51.53 % de descuento con precio de oferta de 15.99 EUR (original: 32.99 EUR) en el siguiente enlace!

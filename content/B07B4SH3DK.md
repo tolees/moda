@@ -14,7 +14,7 @@ currency: EUR
 price: 13.95
 comparePrice: 35 EUR
 inStock: true
-prodname: G-Star Tairi R T S/s  Camiseta para Hombre   Dark Black  Medium
+prodname: 'G-Star Tairi R T S/s  Camiseta para Hombre   Dark Black  Medium'
 ---
 
 Está [G-Star Tairi R T S/s  Camiseta para Hombre   Dark Black  Medium](https://www.amazon.es/dp/B07B4SH3DK/?tag=tolees-21) con 60.14 de descuento por 13.95 EUR (original: 35 EUR) en el siguiente enlace!

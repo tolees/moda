@@ -14,7 +14,7 @@ currency: EUR
 price: 11.78
 comparePrice: 29.99 EUR
 inStock: true
-prodname: edc by Esprit 038cc1f010  Blusa Mujer  Azul  Light Blue 440   Small
+prodname: 'edc by Esprit 038cc1f010  Blusa Mujer  Azul  Light Blue 440   Small'
 ---
 
 Ahora mismo tienes [edc by Esprit 038cc1f010  Blusa Mujer  Azul  Light Blue 440   Small](https://www.amazon.es/dp/B078HTRXRW/?tag=tolees-21) a 11.78 EUR (original: 29.99 EUR) (60.72 %  de descuento) en el siguiente enlace!

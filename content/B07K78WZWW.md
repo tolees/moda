@@ -14,7 +14,7 @@ currency: EUR
 price: 48.5
 comparePrice: 90 EUR
 inStock: true
-prodname: Levi s 311 Shaping Ankle Skinny Vaqueros  Blanco  Western White 0031   W25  Talla del Fabricante: 25  para Mujer
+prodname: 'Levi s 311 Shaping Ankle Skinny Vaqueros  Blanco  Western White 0031   W25  Talla del Fabricante: 25  para Mujer'
 ---
 
 Está [Levi s 311 Shaping Ankle Skinny Vaqueros  Blanco  Western White 0031   W25  Talla del Fabricante: 25  para Mujer](https://www.amazon.es/dp/B07K78WZWW/?tag=tolees-21) con 46.11 de descuento por 48.5 EUR (original: 90 EUR) en el siguiente enlace!

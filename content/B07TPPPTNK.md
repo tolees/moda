@@ -14,7 +14,7 @@ currency: EUR
 price: 45.99
 comparePrice: 70.0 EUR
 inStock: true
-prodname: Levi s Relaxed Graphic Hoodie Sudadera  Blanco  Boxtab Pop White 0022   X-Small para Hombre
+prodname: 'Levi s Relaxed Graphic Hoodie Sudadera  Blanco  Boxtab Pop White 0022   X-Small para Hombre'
 ---
 
 Ahora mismo tienes [Levi s Relaxed Graphic Hoodie Sudadera  Blanco  Boxtab Pop White 0022   X-Small para Hombre](https://www.amazon.es/dp/B07TPPPTNK/?tag=tolees-21) a 45.99 EUR (original: 70.0 EUR) (34.30 %  de descuento) en el siguiente enlace!

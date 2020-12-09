@@ -14,7 +14,7 @@ currency: EUR
 price: 8.57
 comparePrice: 34.99 EUR
 inStock: true
-prodname: JACK & JONES Jorflock Sweat Crew Neck  Sudadera Hombre  Negro  Medium  Talla del Fabricante: 
+prodname: 'JACK & JONES Jorflock Sweat Crew Neck  Sudadera Hombre  Negro  Medium  Talla del Fabricante: '
 ---
 
 Ahora mismo tienes [JACK & JONES Jorflock Sweat Crew Neck  Sudadera Hombre  Negro  Medium  Talla del Fabricante: ](https://www.amazon.es/dp/B07GNVB7LB/?tag=tolees-21) a 8.57 EUR (original: 34.99 EUR) (75.51 %  de descuento) en el siguiente enlace!

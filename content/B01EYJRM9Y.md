@@ -14,7 +14,7 @@ currency: EUR
 price: 62.78
 comparePrice: 110 EUR
 inStock: true
-prodname: Levi s 511 Slim Fit  Vaqueros Hombre  Azul  Headed South 4006   32W / 32L
+prodname: 'Levi s 511 Slim Fit  Vaqueros Hombre  Azul  Headed South 4006   32W / 32L'
 ---
 
 Tienes [Levi s 511 Slim Fit  Vaqueros Hombre  Azul  Headed South 4006   32W / 32L](https://www.amazon.es/dp/B01EYJRM9Y/?tag=tolees-21) con un 42.93 % de descuento con precio de oferta de 62.78 EUR (original: 110 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 16.3
 comparePrice: 54.99 EUR
 inStock: true
-prodname: Under Armour Vanish Seamless LS Novelty Camiseta de Manga Larga  Hombre  Negro  Black/Graphite 001   XL
+prodname: 'Under Armour Vanish Seamless LS Novelty Camiseta de Manga Larga  Hombre  Negro  Black/Graphite 001   XL'
 ---
 
 Ahora mismo tienes [Under Armour Vanish Seamless LS Novelty Camiseta de Manga Larga  Hombre  Negro  Black/Graphite 001   XL](https://www.amazon.es/dp/B07KH8WLFC/?tag=tolees-21) a 16.3 EUR (original: 54.99 EUR) (70.36 %  de descuento) en el siguiente enlace!

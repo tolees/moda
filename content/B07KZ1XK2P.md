@@ -14,7 +14,7 @@ currency: EUR
 price: 7.7
 comparePrice: 29.99 EUR
 inStock: true
-prodname: Springfield SDS Natural Strech  Camisa Casual para Hombre   Gama Azules 15   Small  Tamaño del Fabricante:S 
+prodname: 'Springfield SDS Natural Strech  Camisa Casual para Hombre   Gama Azules 15   Small  Tamaño del Fabricante:S '
 ---
 
 Ahora mismo tienes [Springfield SDS Natural Strech  Camisa Casual para Hombre   Gama Azules 15   Small  Tamaño del Fabricante:S ](https://www.amazon.es/dp/B07KZ1XK2P/?tag=tolees-21) a 7.7 EUR (original: 29.99 EUR) (74.32 %  de descuento) en el siguiente enlace!

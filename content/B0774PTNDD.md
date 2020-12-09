@@ -14,7 +14,7 @@ currency: EUR
 price: 36.66
 comparePrice: 49.99 EUR
 inStock: true
-prodname: Crocs Yukon Vista Clog M  Zuecos para Hombre  Negro  Black/Black 060   39/40 EU
+prodname: 'Crocs Yukon Vista Clog M  Zuecos para Hombre  Negro  Black/Black 060   39/40 EU'
 ---
 
 Ahora mismo tienes [Crocs Yukon Vista Clog M  Zuecos para Hombre  Negro  Black/Black 060   39/40 EU](https://www.amazon.es/dp/B0774PTNDD/?tag=tolees-21) a 36.66 EUR (original: 49.99 EUR) (26.67 %  de descuento) en el siguiente enlace!

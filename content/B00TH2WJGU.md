@@ -14,7 +14,7 @@ currency: EUR
 price: 9.98
 comparePrice: 24.95 EUR
 inStock: true
-prodname: Berydale Vestido veraniego de mujer  versátil  5 posibilidades de uso  Negro  Talla del fabricante: 40/42
+prodname: 'Berydale Vestido veraniego de mujer  versátil  5 posibilidades de uso  Negro  Talla del fabricante: 40/42'
 ---
 
 Ahora mismo tienes [Berydale Vestido veraniego de mujer  versátil  5 posibilidades de uso  Negro  Talla del fabricante: 40/42](https://www.amazon.es/dp/B00TH2WJGU/?tag=tolees-21) a 9.98 EUR (original: 24.95 EUR) (60.00 %  de descuento) en el siguiente enlace!

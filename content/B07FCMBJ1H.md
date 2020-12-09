@@ -14,7 +14,7 @@ currency: EUR
 price: 85.99
 comparePrice: 139.0 EUR
 inStock: true
-prodname: REPLAY Zeumar Vaqueros Slim  Beige  Sand 20   34W / 32L para Hombre
+prodname: 'REPLAY Zeumar Vaqueros Slim  Beige  Sand 20   34W / 32L para Hombre'
 ---
 
 Ahora mismo tienes [REPLAY Zeumar Vaqueros Slim  Beige  Sand 20   34W / 32L para Hombre](https://www.amazon.es/dp/B07FCMBJ1H/?tag=tolees-21) a 85.99 EUR (original: 139.0 EUR) (38.14 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 48.58
 comparePrice: 149 EUR
 inStock: true
-prodname: BDBA 17SS414  Chaqueta Vaquera para Mujer  Azul  Denim  Large  Tamaño del Fabricante:40 
+prodname: 'BDBA 17SS414  Chaqueta Vaquera para Mujer  Azul  Denim  Large  Tamaño del Fabricante:40 '
 ---
 
 Está [BDBA 17SS414  Chaqueta Vaquera para Mujer  Azul  Denim  Large  Tamaño del Fabricante:40 ](https://www.amazon.es/dp/B06XX6ZC8F/?tag=tolees-21) con 67.40 de descuento por 48.58 EUR (original: 149 EUR) en el siguiente enlace!

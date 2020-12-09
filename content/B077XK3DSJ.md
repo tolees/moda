@@ -14,7 +14,7 @@ currency: EUR
 price: 22.21
 comparePrice: 40 EUR
 inStock: true
-prodname: Under Armour Charged Cotton 6in  Bóxer para Hombre  Gris  Steel/Steel 039   Large  Pack de 3
+prodname: 'Under Armour Charged Cotton 6in  Bóxer para Hombre  Gris  Steel/Steel 039   Large  Pack de 3'
 ---
 
 Está [Under Armour Charged Cotton 6in  Bóxer para Hombre  Gris  Steel/Steel 039   Large  Pack de 3](https://www.amazon.es/dp/B077XK3DSJ/?tag=tolees-21) con 44.47 de descuento por 22.21 EUR (original: 40 EUR) en el siguiente enlace!

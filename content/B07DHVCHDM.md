@@ -14,7 +14,7 @@ currency: EUR
 price: 54.97
 comparePrice: 129.99 EUR
 inStock: true
-prodname: Quiksilver Mission Block Chaqueta de Nieve  Niños  Negro  16/XXL
+prodname: 'Quiksilver Mission Block Chaqueta de Nieve  Niños  Negro  16/XXL'
 ---
 
 Ahora mismo tienes [Quiksilver Mission Block Chaqueta de Nieve  Niños  Negro  16/XXL](https://www.amazon.es/dp/B07DHVCHDM/?tag=tolees-21) a 54.97 EUR (original: 129.99 EUR) (57.71 %  de descuento) en el siguiente enlace!

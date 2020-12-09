@@ -14,7 +14,7 @@ currency: EUR
 price: 13.88
 comparePrice: 25.99 EUR
 inStock: true
-prodname: Quiksilver Classic Revenge Camiseta  Hombre  Anthracite/Solid  M
+prodname: 'Quiksilver Classic Revenge Camiseta  Hombre  Anthracite/Solid  M'
 ---
 
 Está [Quiksilver Classic Revenge Camiseta  Hombre  Anthracite/Solid  M](https://www.amazon.es/dp/B078WXV4BG/?tag=tolees-21) con 46.59 de descuento por 13.88 EUR (original: 25.99 EUR) en el siguiente enlace!

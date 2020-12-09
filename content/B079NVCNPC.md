@@ -14,7 +14,7 @@ currency: EUR
 price: 20
 comparePrice: 49 EUR
 inStock: true
-prodname: Napapijri Solin LS  Camiseta  Hombre  Verde  Green Musk Gd3   XXX-Large
+prodname: 'Napapijri Solin LS  Camiseta  Hombre  Verde  Green Musk Gd3   XXX-Large'
 ---
 
 Ahora mismo tienes [Napapijri Solin LS  Camiseta  Hombre  Verde  Green Musk Gd3   XXX-Large](https://www.amazon.es/dp/B079NVCNPC/?tag=tolees-21) a 20 EUR (original: 49 EUR) (59.18 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 28.69
 comparePrice: 79.9 EUR
 inStock: true
-prodname: Pepe Jeans Regent Vaqueros Pitillo  Azul  Denim 000   W28/L32  Talla del Fabricante: 28  para Mujer
+prodname: 'Pepe Jeans Regent Vaqueros Pitillo  Azul  Denim 000   W28/L32  Talla del Fabricante: 28  para Mujer'
 ---
 
 Está [Pepe Jeans Regent Vaqueros Pitillo  Azul  Denim 000   W28/L32  Talla del Fabricante: 28  para Mujer](https://www.amazon.es/dp/B07WZGXSKZ/?tag=tolees-21) con 64.09 de descuento por 28.69 EUR (original: 79.9 EUR) en el siguiente enlace!

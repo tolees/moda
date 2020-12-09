@@ -14,7 +14,7 @@ currency: EUR
 price: 23.95
 comparePrice: 37 EUR
 inStock: true
-prodname: Levi s  2 Pack Crew - Camiseta para Hombre  Negro  Black/Black   XXL
+prodname: 'Levi s  2 Pack Crew - Camiseta para Hombre  Negro  Black/Black   XXL'
 ---
 
 Está [Levi s  2 Pack Crew - Camiseta para Hombre  Negro  Black/Black   XXL](https://www.amazon.es/dp/B007BXC7SC/?tag=tolees-21) con 35.27 de descuento por 23.95 EUR (original: 37 EUR) en el siguiente enlace!

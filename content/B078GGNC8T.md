@@ -14,7 +14,7 @@ currency: EUR
 price: 26.1
 comparePrice: 39.95 EUR
 inStock: true
-prodname: BOSS Typer Camiseta  Rosa  Light/Pastel Pink 681   XX-Large para Hombre
+prodname: 'BOSS Typer Camiseta  Rosa  Light/Pastel Pink 681   XX-Large para Hombre'
 ---
 
 Tienes [BOSS Typer Camiseta  Rosa  Light/Pastel Pink 681   XX-Large para Hombre](https://www.amazon.es/dp/B078GGNC8T/?tag=tolees-21) con un 34.67 % de descuento con precio de oferta de 26.1 EUR (original: 39.95 EUR) en el siguiente enlace!

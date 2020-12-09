@@ -14,7 +14,7 @@ currency: EUR
 price: 13.86
 comparePrice: 39.95 EUR
 inStock: true
-prodname: XTI 86082  Bolso de Mano para Mujer  Rosa  Nude  33x20x14 cm  W x H x L 
+prodname: 'XTI 86082  Bolso de Mano para Mujer  Rosa  Nude  33x20x14 cm  W x H x L '
 ---
 
 Tienes [XTI 86082  Bolso de Mano para Mujer  Rosa  Nude  33x20x14 cm  W x H x L ](https://www.amazon.es/dp/B07JLDK1DN/?tag=tolees-21) con un 65.31 % de descuento con precio de oferta de 13.86 EUR (original: 39.95 EUR) en el siguiente enlace!

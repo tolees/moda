@@ -14,7 +14,7 @@ currency: EUR
 price: 83.4
 comparePrice: 139 EUR
 inStock: true
-prodname: Kipling TEAGAN S Organizador de bolso  54 cm  39 liters  Multicolor  Scribble lines 
+prodname: 'Kipling TEAGAN S Organizador de bolso  54 cm  39 liters  Multicolor  Scribble lines '
 ---
 
 Está [Kipling TEAGAN S Organizador de bolso  54 cm  39 liters  Multicolor  Scribble lines ](https://www.amazon.es/dp/B07DRJC6Q9/?tag=tolees-21) con 40.00 de descuento por 83.4 EUR (original: 139 EUR) en el siguiente enlace!

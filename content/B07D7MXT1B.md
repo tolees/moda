@@ -14,7 +14,7 @@ currency: EUR
 price: 39.71
 comparePrice: 64.9 EUR
 inStock: true
-prodname: Dolores Promesas 107234 Vestido  Blanco Crudo  Small  Tamaño del Fabricante:S  para Mujer
+prodname: 'Dolores Promesas 107234 Vestido  Blanco Crudo  Small  Tamaño del Fabricante:S  para Mujer'
 ---
 
 Tienes [Dolores Promesas 107234 Vestido  Blanco Crudo  Small  Tamaño del Fabricante:S  para Mujer](https://www.amazon.es/dp/B07D7MXT1B/?tag=tolees-21) con un 38.81 % de descuento con precio de oferta de 39.71 EUR (original: 64.9 EUR) en el siguiente enlace!

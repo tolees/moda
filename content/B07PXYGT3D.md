@@ -14,7 +14,7 @@ currency: EUR
 price: 7.64
 comparePrice: 14.2 EUR
 inStock: true
-prodname: Maglev Essentials Damen Langärmeliges Shirt Mit Rundem Ausschnitt  5er-Pack Camiseta  Azul Blau   44  Talla del fabricante: X-Large   5
+prodname: 'Maglev Essentials Damen Langärmeliges Shirt Mit Rundem Ausschnitt  5er-Pack Camiseta  Azul Blau   44  Talla del fabricante: X-Large   5'
 ---
 
 Ahora mismo tienes [Maglev Essentials Damen Langärmeliges Shirt Mit Rundem Ausschnitt  5er-Pack Camiseta  Azul Blau   44  Talla del fabricante: X-Large   5](https://www.amazon.es/dp/B07PXYGT3D/?tag=tolees-21) a 7.64 EUR (original: 14.2 EUR) (46.20 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 25.59
 comparePrice: 69.99 EUR
 inStock: true
-prodname: Hawiton Pijamas Mujer Invierno de Algodón Mangas Larga Conjunto Camiseta y Pantalones Largo Ropa de Casa 2 Piezas
+prodname: 'Hawiton Pijamas Mujer Invierno de Algodón Mangas Larga Conjunto Camiseta y Pantalones Largo Ropa de Casa 2 Piezas'
 ---
 
 Ahora mismo tienes [Hawiton Pijamas Mujer Invierno de Algodón Mangas Larga Conjunto Camiseta y Pantalones Largo Ropa de Casa 2 Piezas](https://www.amazon.es/dp/B07Y7TT2TS/?tag=tolees-21) a 25.59 EUR (original: 69.99 EUR) (63.44 %  de descuento) en el siguiente enlace!

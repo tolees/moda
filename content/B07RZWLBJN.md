@@ -14,7 +14,7 @@ currency: EUR
 price: 19.9
 comparePrice: 32.66 EUR
 inStock: true
-prodname: CNFIO - Elegante Vestido de Playa para Mujer  Vestido Largo de Verano  Cuello Redondo  sin Mangas  Estilo Informal  para cóctel Azul Marino 44
+prodname: 'CNFIO - Elegante Vestido de Playa para Mujer  Vestido Largo de Verano  Cuello Redondo  sin Mangas  Estilo Informal  para cóctel Azul Marino 44'
 ---
 
 Ahora mismo tienes [CNFIO - Elegante Vestido de Playa para Mujer  Vestido Largo de Verano  Cuello Redondo  sin Mangas  Estilo Informal  para cóctel Azul Marino 44](https://www.amazon.es/dp/B07RZWLBJN/?tag=tolees-21) a 19.9 EUR (original: 32.66 EUR) (39.07 %  de descuento) en el siguiente enlace!

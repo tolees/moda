@@ -14,7 +14,7 @@ currency: EUR
 price: 29.84
 comparePrice: 69.95 EUR
 inStock: true
-prodname: United Colors of Benetton Jacket, Chaqueta para Hombre, Marrón (Camel 3c7) Medium (Talla del Fabricante: 46)
+prodname: 'United Colors of Benetton Jacket, Chaqueta para Hombre, Marrón (Camel 3c7) Medium (Talla del Fabricante: 46)'
 ---
 
 Está [United Colors of Benetton Jacket, Chaqueta para Hombre, Marrón (Camel 3c7) Medium (Talla del Fabricante: 46)](https://www.amazon.es/dp/B07DHW5FF8/?tag=tolees-21) con 57.34 de descuento por 29.84 EUR (original: 69.95 EUR) en el siguiente enlace!

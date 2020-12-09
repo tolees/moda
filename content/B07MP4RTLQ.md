@@ -14,7 +14,7 @@ currency: EUR
 price: 28.99
 comparePrice: 49.99 EUR
 inStock: true
-prodname: Zapatos de Baloncesto para niños Alto para Ayudar a los Zapatos Deportivos Zapatillas para Niños
+prodname: 'Zapatos de Baloncesto para niños Alto para Ayudar a los Zapatos Deportivos Zapatillas para Niños'
 ---
 
 Tienes [Zapatos de Baloncesto para niños Alto para Ayudar a los Zapatos Deportivos Zapatillas para Niños](https://www.amazon.es/dp/B07MP4RTLQ/?tag=tolees-21) con un 42.01 % de descuento con precio de oferta de 28.99 EUR (original: 49.99 EUR) en el siguiente enlace!

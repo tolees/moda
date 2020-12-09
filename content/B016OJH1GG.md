@@ -14,7 +14,7 @@ currency: EUR
 price: 13.12
 comparePrice: 99.95 EUR
 inStock: true
-prodname: NAOKO Vestido At10 Caqui/Verde/Marrón S
+prodname: 'NAOKO Vestido At10 Caqui/Verde/Marrón S'
 ---
 
 Tienes [NAOKO Vestido At10 Caqui/Verde/Marrón S](https://www.amazon.es/dp/B016OJH1GG/?tag=tolees-21) con un 86.87 % de descuento con precio de oferta de 13.12 EUR (original: 99.95 EUR) en el siguiente enlace!

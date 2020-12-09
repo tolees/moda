@@ -14,7 +14,7 @@ currency: EUR
 price: 38.68
 comparePrice: 75 EUR
 inStock: true
-prodname: The North Face Horizon Convertible Pantalón  Mujer  Vanadis Grey  6
+prodname: 'The North Face Horizon Convertible Pantalón  Mujer  Vanadis Grey  6'
 ---
 
 Tienes [The North Face Horizon Convertible Pantalón  Mujer  Vanadis Grey  6](https://www.amazon.es/dp/B00TY6LOFG/?tag=tolees-21) con un 48.43 % de descuento con precio de oferta de 38.68 EUR (original: 75 EUR) en el siguiente enlace!

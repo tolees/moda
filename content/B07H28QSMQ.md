@@ -14,7 +14,7 @@ currency: EUR
 price: 27.49
 comparePrice: 56.99 EUR
 inStock: true
-prodname: ZAFUL Suéter Mujer de Cuello Alto Sueter Básico Corto Jersey de Punto para Invierno Otoño Jerséis Suelto de Manga Larga Casual Sweater  S - L
+prodname: 'ZAFUL Suéter Mujer de Cuello Alto Sueter Básico Corto Jersey de Punto para Invierno Otoño Jerséis Suelto de Manga Larga Casual Sweater  S - L'
 ---
 
 Tienes [ZAFUL Suéter Mujer de Cuello Alto Sueter Básico Corto Jersey de Punto para Invierno Otoño Jerséis Suelto de Manga Larga Casual Sweater  S - L](https://www.amazon.es/dp/B07H28QSMQ/?tag=tolees-21) con un 51.76 % de descuento con precio de oferta de 27.49 EUR (original: 56.99 EUR) en el siguiente enlace!

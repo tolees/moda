@@ -14,7 +14,7 @@ currency: EUR
 price: 6.57
 comparePrice: 15.99 EUR
 inStock: true
-prodname: edc by Esprit 039CC1K029 Camiseta  Gris  Medium Grey 5 039   XL para Mujer
+prodname: 'edc by Esprit 039CC1K029 Camiseta  Gris  Medium Grey 5 039   XL para Mujer'
 ---
 
 Está [edc by Esprit 039CC1K029 Camiseta  Gris  Medium Grey 5 039   XL para Mujer](https://www.amazon.es/dp/B07N37VQJK/?tag=tolees-21) con 58.91 de descuento por 6.57 EUR (original: 15.99 EUR) en el siguiente enlace!

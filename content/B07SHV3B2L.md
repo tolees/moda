@@ -14,7 +14,7 @@ currency: EUR
 price: 1.39
 comparePrice: 2.59 EUR
 inStock: true
-prodname: HuaMore Chanclas Mujer Piscina  Resbalón de Verano Comodos Bohemio Chanclas TacóN Alto Tirón Playa
+prodname: 'HuaMore Chanclas Mujer Piscina  Resbalón de Verano Comodos Bohemio Chanclas TacóN Alto Tirón Playa'
 ---
 
 Está [HuaMore Chanclas Mujer Piscina  Resbalón de Verano Comodos Bohemio Chanclas TacóN Alto Tirón Playa](https://www.amazon.es/dp/B07SHV3B2L/?tag=tolees-21) con 46.33 de descuento por 1.39 EUR (original: 2.59 EUR) en el siguiente enlace!

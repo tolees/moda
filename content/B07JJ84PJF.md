@@ -14,7 +14,7 @@ currency: EUR
 price: 25.35
 comparePrice: 39 EUR
 inStock: true
-prodname: Lacoste Sport Th7618  Camiseta para Hombre  Azul  Pratensis Adb  X-Small  Talla del Fabricante: 2 
+prodname: 'Lacoste Sport Th7618  Camiseta para Hombre  Azul  Pratensis Adb  X-Small  Talla del Fabricante: 2 '
 ---
 
 Ahora mismo tienes [Lacoste Sport Th7618  Camiseta para Hombre  Azul  Pratensis Adb  X-Small  Talla del Fabricante: 2 ](https://www.amazon.es/dp/B07JJ84PJF/?tag=tolees-21) a 25.35 EUR (original: 39 EUR) (35.00 %  de descuento) en el siguiente enlace!

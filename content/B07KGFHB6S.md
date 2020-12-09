@@ -14,7 +14,7 @@ currency: EUR
 price: 17.39
 comparePrice: 59.95 EUR
 inStock: true
-prodname: BOSS Toxx Camiseta  Verde  Open Green 346   XX-Large para Hombre
+prodname: 'BOSS Toxx Camiseta  Verde  Open Green 346   XX-Large para Hombre'
 ---
 
 Tienes [BOSS Toxx Camiseta  Verde  Open Green 346   XX-Large para Hombre](https://www.amazon.es/dp/B07KGFHB6S/?tag=tolees-21) con un 70.99 % de descuento con precio de oferta de 17.39 EUR (original: 59.95 EUR) en el siguiente enlace!

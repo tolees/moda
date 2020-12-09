@@ -14,7 +14,7 @@ currency: EUR
 price: 14.96
 comparePrice: 28 EUR
 inStock: true
-prodname: Diesel Umbx-Shawntwopack - Boxer pack de 2 para hombre  multicolor  rojo/azul   talla XXL
+prodname: 'Diesel Umbx-Shawntwopack - Boxer pack de 2 para hombre  multicolor  rojo/azul   talla XXL'
 ---
 
 Ahora mismo tienes [Diesel Umbx-Shawntwopack - Boxer pack de 2 para hombre  multicolor  rojo/azul   talla XXL](https://www.amazon.es/dp/B012ICINGA/?tag=tolees-21) a 14.96 EUR (original: 28 EUR) (46.57 %  de descuento) en el siguiente enlace!

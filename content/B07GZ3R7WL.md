@@ -14,7 +14,7 @@ currency: EUR
 price: 23.45
 comparePrice: 35.95 EUR
 inStock: true
-prodname: Desigual Girl Knit Dress Sleeveless  Vest_Madison  Vestido  Blanco  White 1000   104  Talla del Fabricante: 3/4  para Niñas
+prodname: 'Desigual Girl Knit Dress Sleeveless  Vest_Madison  Vestido  Blanco  White 1000   104  Talla del Fabricante: 3/4  para Niñas'
 ---
 
 Tienes [Desigual Girl Knit Dress Sleeveless  Vest_Madison  Vestido  Blanco  White 1000   104  Talla del Fabricante: 3/4  para Niñas](https://www.amazon.es/dp/B07GZ3R7WL/?tag=tolees-21) con un 34.77 % de descuento con precio de oferta de 23.45 EUR (original: 35.95 EUR) en el siguiente enlace!

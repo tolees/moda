@@ -14,7 +14,7 @@ currency: EUR
 price: 16.22
 comparePrice: 39.95 EUR
 inStock: true
-prodname: Kappa Korfu  Sandalias de Punta Descubierta Unisex Niños  Negro  Black/Orange   34 EU
+prodname: 'Kappa Korfu  Sandalias de Punta Descubierta Unisex Niños  Negro  Black/Orange   34 EU'
 ---
 
 Tienes [Kappa Korfu  Sandalias de Punta Descubierta Unisex Niños  Negro  Black/Orange   34 EU](https://www.amazon.es/dp/B01AXNSLSQ/?tag=tolees-21) con un 59.40 % de descuento con precio de oferta de 16.22 EUR (original: 39.95 EUR) en el siguiente enlace!

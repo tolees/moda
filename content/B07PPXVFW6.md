@@ -14,7 +14,7 @@ currency: EUR
 price: 14.0
 comparePrice: 28.0 EUR
 inStock: true
-prodname: Under Armour Challenger III Training Top Camisa Manga Corta  Hombre  Negro  LG
+prodname: 'Under Armour Challenger III Training Top Camisa Manga Corta  Hombre  Negro  LG'
 ---
 
 Ahora mismo tienes [Under Armour Challenger III Training Top Camisa Manga Corta  Hombre  Negro  LG](https://www.amazon.es/dp/B07PPXVFW6/?tag=tolees-21) a 14.0 EUR (original: 28.0 EUR) (50.00 %  de descuento) en el siguiente enlace!

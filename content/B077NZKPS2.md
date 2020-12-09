@@ -14,13 +14,15 @@ currency: EUR
 price: 19.87
 comparePrice: 99.95 EUR
 inStock: true
-prodname: Lee Elly Vaqueros Slim  Azul  Unplugged Auvk   27W / 31L para Mujer
+prodname: 'Lee Elly Vaqueros Slim  Azul  Unplugged Auvk   27W / 31L para Mujer'
 ---
 
-Ahora mismo tienes [Lee Elly Vaqueros Slim  Azul  Unplugged Auvk   27W / 31L para Mujer](https://www.amazon.es/dp/B077NZKPS2/?tag=tolees-21) a 19.87 EUR (original: 99.95 EUR) (80.12 %  de descuento) en el siguiente enlace!
+Está [Lee Elly Vaqueros Slim  Azul  Unplugged Auvk   27W / 31L para Mujer](https://www.amazon.es/dp/B077NZKPS2/?tag=tolees-21) con 80.12 de descuento por 19.87 EUR (original: 99.95 EUR) en el siguiente enlace!
 
 [![Lee Elly Vaqueros Slim  Azul  Unplugged ](https://images-eu.ssl-images-amazon.com/images/I/41AO0WAgAVL._SL200_.jpg)](https://www.amazon.es/dp/B077NZKPS2/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B077NZKPS2/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B077NZKPS2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

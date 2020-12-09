@@ -14,7 +14,7 @@ currency: EUR
 price: 12.27
 comparePrice: 36.99 EUR
 inStock: true
-prodname: Gocco Jersey GRECA  Niñas  Marfil  Crudo EA  2-3 años
+prodname: 'Gocco Jersey GRECA  Niñas  Marfil  Crudo EA  2-3 años'
 ---
 
 Tienes [Gocco Jersey GRECA  Niñas  Marfil  Crudo EA  2-3 años](https://www.amazon.es/dp/B07D4PFK6V/?tag=tolees-21) con un 66.83 % de descuento con precio de oferta de 12.27 EUR (original: 36.99 EUR) en el siguiente enlace!

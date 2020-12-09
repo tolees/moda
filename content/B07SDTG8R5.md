@@ -14,7 +14,7 @@ currency: EUR
 price: 41.44
 comparePrice: 119.95 EUR
 inStock: true
-prodname: Under Armour Under Armour Men s Hovr Havoc 2 Basketballschuhe Zapatos de Baloncesto Hombre  Negro  Black  003    38 EU  5 UK 
+prodname: 'Under Armour Under Armour Men s Hovr Havoc 2 Basketballschuhe Zapatos de Baloncesto Hombre  Negro  Black  003    38 EU  5 UK '
 ---
 
 Está [Under Armour Under Armour Men s Hovr Havoc 2 Basketballschuhe Zapatos de Baloncesto Hombre  Negro  Black  003    38 EU  5 UK ](https://www.amazon.es/dp/B07SDTG8R5/?tag=tolees-21) con 65.45 de descuento por 41.44 EUR (original: 119.95 EUR) en el siguiente enlace!

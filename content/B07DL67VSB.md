@@ -14,7 +14,7 @@ currency: EUR
 price: 22.99
 comparePrice: 40.98 EUR
 inStock: true
-prodname: Element Cornell Classic Ho - Sudadera para Hombre Sudadera  Hombre  Eclipse Navy  XL
+prodname: 'Element Cornell Classic Ho - Sudadera para Hombre Sudadera  Hombre  Eclipse Navy  XL'
 ---
 
 Ahora mismo tienes [Element Cornell Classic Ho - Sudadera para Hombre Sudadera  Hombre  Eclipse Navy  XL](https://www.amazon.es/dp/B07DL67VSB/?tag=tolees-21) a 22.99 EUR (original: 40.98 EUR) (43.90 %  de descuento) en el siguiente enlace!

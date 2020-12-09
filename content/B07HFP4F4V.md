@@ -14,7 +14,7 @@ currency: EUR
 price: 19.73
 comparePrice: 59.9 EUR
 inStock: true
-prodname: Tommy Hilfiger Vertical Stripe Shirt L/s  Camisa Manga Larga Niños  Blanco  Bright White/Multi 123   116
+prodname: 'Tommy Hilfiger Vertical Stripe Shirt L/s  Camisa Manga Larga Niños  Blanco  Bright White/Multi 123   116'
 ---
 
 Está [Tommy Hilfiger Vertical Stripe Shirt L/s  Camisa Manga Larga Niños  Blanco  Bright White/Multi 123   116](https://www.amazon.es/dp/B07HFP4F4V/?tag=tolees-21) con 67.06 de descuento por 19.73 EUR (original: 59.9 EUR) en el siguiente enlace!

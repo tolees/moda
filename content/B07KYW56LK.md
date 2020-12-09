@@ -14,7 +14,7 @@ currency: EUR
 price: 17.51
 comparePrice: 49.99 EUR
 inStock: true
-prodname: Cortefiel C7Cc Denim Slim Verdoso Vaqueros Tapered  Hombre  Azul  Gama Azules 13   42  Tamaño del Fabricante:42 
+prodname: 'Cortefiel C7Cc Denim Slim Verdoso Vaqueros Tapered  Hombre  Azul  Gama Azules 13   42  Tamaño del Fabricante:42 '
 ---
 
 Está [Cortefiel C7Cc Denim Slim Verdoso Vaqueros Tapered  Hombre  Azul  Gama Azules 13   42  Tamaño del Fabricante:42 ](https://www.amazon.es/dp/B07KYW56LK/?tag=tolees-21) con 64.97 de descuento por 17.51 EUR (original: 49.99 EUR) en el siguiente enlace!

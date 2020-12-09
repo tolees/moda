@@ -14,7 +14,7 @@ currency: EUR
 price: 34.5
 comparePrice: 69.0 EUR
 inStock: true
-prodname: SAKROOTS - Basic Crossbody - Bolso bandolera - para mujer - Charcoal  Gris 
+prodname: 'SAKROOTS - Basic Crossbody - Bolso bandolera - para mujer - Charcoal  Gris '
 ---
 
 Ahora mismo tienes [SAKROOTS - Basic Crossbody - Bolso bandolera - para mujer - Charcoal  Gris ](https://www.amazon.es/dp/B06XKPG3SL/?tag=tolees-21) a 34.5 EUR (original: 69.0 EUR) (50.00 %  de descuento) en el siguiente enlace!

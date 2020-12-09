@@ -14,7 +14,7 @@ currency: EUR
 price: 5.1
 comparePrice: 10.2 EUR
 inStock: true
-prodname: KRISP 6610-WINBLK-08  Vestido Corto Fruncido Busto  Granate  6610   36
+prodname: 'KRISP 6610-WINBLK-08  Vestido Corto Fruncido Busto  Granate  6610   36'
 ---
 
 Ahora mismo tienes [KRISP 6610-WINBLK-08  Vestido Corto Fruncido Busto  Granate  6610   36](https://www.amazon.es/dp/B06XYRDSM6/?tag=tolees-21) a 5.1 EUR (original: 10.2 EUR) (50.00 %  de descuento) en el siguiente enlace!

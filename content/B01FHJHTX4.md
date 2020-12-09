@@ -14,7 +14,7 @@ currency: EUR
 price: 15.28
 comparePrice: 30 EUR
 inStock: true
-prodname: Under Armour UA Woven Graphic Short Pantalón Corto  Hombre  Gris  035   S
+prodname: 'Under Armour UA Woven Graphic Short Pantalón Corto  Hombre  Gris  035   S'
 ---
 
 Tienes [Under Armour UA Woven Graphic Short Pantalón Corto  Hombre  Gris  035   S](https://www.amazon.es/dp/B01FHJHTX4/?tag=tolees-21) con un 49.07 % de descuento con precio de oferta de 15.28 EUR (original: 30 EUR) en el siguiente enlace!

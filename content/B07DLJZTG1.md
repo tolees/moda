@@ -14,7 +14,7 @@ currency: EUR
 price: 13.42
 comparePrice: 25.99 EUR
 inStock: true
-prodname: Springfield 5Ba C/Red Coderas Gg12 Jersey  Hombre  Dorado  Tostado 50   X-Large  Tamaño del Fabricante:XL 
+prodname: 'Springfield 5Ba C/Red Coderas Gg12 Jersey  Hombre  Dorado  Tostado 50   X-Large  Tamaño del Fabricante:XL '
 ---
 
 Está [Springfield 5Ba C/Red Coderas Gg12 Jersey  Hombre  Dorado  Tostado 50   X-Large  Tamaño del Fabricante:XL ](https://www.amazon.es/dp/B07DLJZTG1/?tag=tolees-21) con 48.36 de descuento por 13.42 EUR (original: 25.99 EUR) en el siguiente enlace!

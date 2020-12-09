@@ -14,7 +14,7 @@ currency: EUR
 price: 19
 comparePrice: 37.49 EUR
 inStock: true
-prodname: Crocs Sexi Flip Women  Sandalias para Mujer  Azul  Pool 40m   39/40 EU
+prodname: 'Crocs Sexi Flip Women  Sandalias para Mujer  Azul  Pool 40m   39/40 EU'
 ---
 
 Tienes [Crocs Sexi Flip Women  Sandalias para Mujer  Azul  Pool 40m   39/40 EU](https://www.amazon.es/dp/B07CN8YCV4/?tag=tolees-21) con un 49.32 % de descuento con precio de oferta de 19 EUR (original: 37.49 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 29.21
 comparePrice: 54.95 EUR
 inStock: true
-prodname: PUMA Modern Sports Hoody Sudadera  Mujer  Blanco White  XS
+prodname: 'PUMA Modern Sports Hoody Sudadera  Mujer  Blanco White  XS'
 ---
 
 Tienes [PUMA Modern Sports Hoody Sudadera  Mujer  Blanco White  XS](https://www.amazon.es/dp/B07JHCGBQY/?tag=tolees-21) con un 46.84 % de descuento con precio de oferta de 29.21 EUR (original: 54.95 EUR) en el siguiente enlace!

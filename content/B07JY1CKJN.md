@@ -14,7 +14,7 @@ currency: EUR
 price: 5.46
 comparePrice: 14.99 EUR
 inStock: true
-prodname: JACK & JONES Jorgiant tee SS Crew Neck  Camiseta Hombre  Gris  Light Grey Melange Fit: Slim   Small
+prodname: 'JACK & JONES Jorgiant tee SS Crew Neck  Camiseta Hombre  Gris  Light Grey Melange Fit: Slim   Small'
 ---
 
 Tienes [JACK & JONES Jorgiant tee SS Crew Neck  Camiseta Hombre  Gris  Light Grey Melange Fit: Slim   Small](https://www.amazon.es/dp/B07JY1CKJN/?tag=tolees-21) con un 63.58 % de descuento con precio de oferta de 5.46 EUR (original: 14.99 EUR) en el siguiente enlace!

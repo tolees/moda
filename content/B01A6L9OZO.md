@@ -14,7 +14,7 @@ currency: EUR
 price: 22.45
 comparePrice: 42.5 EUR
 inStock: true
-prodname: Crocs Classic  Zuecos Unisex Adulto  Violeta  Lilac   37/38 EU
+prodname: 'Crocs Classic  Zuecos Unisex Adulto  Violeta  Lilac   37/38 EU'
 ---
 
 Está [Crocs Classic  Zuecos Unisex Adulto  Violeta  Lilac   37/38 EU](https://www.amazon.es/dp/B01A6L9OZO/?tag=tolees-21) con 47.18 de descuento por 22.45 EUR (original: 42.5 EUR) en el siguiente enlace!

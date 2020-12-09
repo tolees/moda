@@ -14,7 +14,7 @@ currency: EUR
 price: 9.6
 comparePrice: 31.99 EUR
 inStock: true
-prodname: find. Vaqueros Rectos Oscuros para Hombre  Azul  Rinsed Wash   W30/L30  Talla del fabricante: 30 
+prodname: 'find. Vaqueros Rectos Oscuros para Hombre  Azul  Rinsed Wash   W30/L30  Talla del fabricante: 30 '
 ---
 
 Está [find. Vaqueros Rectos Oscuros para Hombre  Azul  Rinsed Wash   W30/L30  Talla del fabricante: 30 ](https://www.amazon.es/dp/B01MUYHPRT/?tag=tolees-21) con 69.99 de descuento por 9.6 EUR (original: 31.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 30.72
 comparePrice: 99.0 EUR
 inStock: true
-prodname: Pepe Jeans Vaqueros Ajustados  Gris  Eclipse 968   W30  Talla del Fabricante: 30  para Mujer
+prodname: 'Pepe Jeans Vaqueros Ajustados  Gris  Eclipse 968   W30  Talla del Fabricante: 30  para Mujer'
 ---
 
 Está [Pepe Jeans Vaqueros Ajustados  Gris  Eclipse 968   W30  Talla del Fabricante: 30  para Mujer](https://www.amazon.es/dp/B07MNYM4MP/?tag=tolees-21) con 68.97 de descuento por 30.72 EUR (original: 99.0 EUR) en el siguiente enlace!

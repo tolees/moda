@@ -14,7 +14,7 @@ currency: EUR
 price: 58.44
 comparePrice: 99.95 EUR
 inStock: true
-prodname: Lee Luke  Vaqueros delgados cónicos  Azul  True Authentic Gcby   W27/L32
+prodname: 'Lee Luke  Vaqueros delgados cónicos  Azul  True Authentic Gcby   W27/L32'
 ---
 
 Está [Lee Luke  Vaqueros delgados cónicos  Azul  True Authentic Gcby   W27/L32](https://www.amazon.es/dp/B071K5KPQV/?tag=tolees-21) con 41.53 de descuento por 58.44 EUR (original: 99.95 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 55.34
 comparePrice: 119 EUR
 inStock: true
-prodname: Dockers Pantalón Alpha Khaki Slim Azul Noche W30L32
+prodname: 'Dockers Pantalón Alpha Khaki Slim Azul Noche W30L32'
 ---
 
 Tienes [Dockers Pantalón Alpha Khaki Slim Azul Noche W30L32](https://www.amazon.es/dp/B014PXWX8O/?tag=tolees-21) con un 53.50 % de descuento con precio de oferta de 55.34 EUR (original: 119 EUR) en el siguiente enlace!

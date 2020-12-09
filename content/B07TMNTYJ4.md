@@ -14,7 +14,7 @@ currency: EUR
 price: 46.99
 comparePrice: 69.99 EUR
 inStock: true
-prodname: Superdry AOE Crew Sudadera  Gris  Silver Glass Feeder 9st   XS para Hombre
+prodname: 'Superdry AOE Crew Sudadera  Gris  Silver Glass Feeder 9st   XS para Hombre'
 ---
 
 Está [Superdry AOE Crew Sudadera  Gris  Silver Glass Feeder 9st   XS para Hombre](https://www.amazon.es/dp/B07TMNTYJ4/?tag=tolees-21) con 32.86 de descuento por 46.99 EUR (original: 69.99 EUR) en el siguiente enlace!

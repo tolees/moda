@@ -14,7 +14,7 @@ currency: EUR
 price: 127.99
 comparePrice: 200.0 EUR
 inStock: true
-prodname: Timberland Radford 6-Inch Waterproof  Botas Chukka Hombre  Amarillo Wheat Nubuck  41 EU
+prodname: 'Timberland Radford 6-Inch Waterproof  Botas Chukka Hombre  Amarillo Wheat Nubuck  41 EU'
 ---
 
 Está [Timberland Radford 6-Inch Waterproof  Botas Chukka Hombre  Amarillo Wheat Nubuck  41 EU](https://www.amazon.es/dp/B072WVXYXW/?tag=tolees-21) con 36.00 de descuento por 127.99 EUR (original: 200.0 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 78.92
 comparePrice: 115.0 EUR
 inStock: true
-prodname: Cat Footwear Haycox  Zapatos de Cordones Derby para Hombre  Marrón  Beaned 0   40 EU
+prodname: 'Cat Footwear Haycox  Zapatos de Cordones Derby para Hombre  Marrón  Beaned 0   40 EU'
 ---
 
 Está [Cat Footwear Haycox  Zapatos de Cordones Derby para Hombre  Marrón  Beaned 0   40 EU](https://www.amazon.es/dp/B005AVMWXM/?tag=tolees-21) con 31.37 de descuento por 78.92 EUR (original: 115.0 EUR) en el siguiente enlace!

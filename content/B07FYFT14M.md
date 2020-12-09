@@ -14,7 +14,7 @@ currency: EUR
 price: 35.9
 comparePrice: 65 EUR
 inStock: true
-prodname: Lee Mid Skirt  Falda para Mujer  Marfil  Raw Off White XQ   34  Talla del Fabricante: 24 
+prodname: 'Lee Mid Skirt  Falda para Mujer  Marfil  Raw Off White XQ   34  Talla del Fabricante: 24 '
 ---
 
 Tienes [Lee Mid Skirt  Falda para Mujer  Marfil  Raw Off White XQ   34  Talla del Fabricante: 24 ](https://www.amazon.es/dp/B07FYFT14M/?tag=tolees-21) con un 44.77 % de descuento con precio de oferta de 35.9 EUR (original: 65 EUR) en el siguiente enlace!

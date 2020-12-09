@@ -14,7 +14,7 @@ currency: EUR
 price: 53.36
 comparePrice: 110.0 EUR
 inStock: true
-prodname: Clarks Batcombe Hall Derby - Zapatos de Cordones para Hombre  Braun  Dark Brown Nub Dark Brown Nub   45 EU
+prodname: 'Clarks Batcombe Hall Derby - Zapatos de Cordones para Hombre  Braun  Dark Brown Nub Dark Brown Nub   45 EU'
 ---
 
 Está [Clarks Batcombe Hall Derby - Zapatos de Cordones para Hombre  Braun  Dark Brown Nub Dark Brown Nub   45 EU](https://www.amazon.es/dp/B07MLSSCZF/?tag=tolees-21) con 51.49 de descuento por 53.36 EUR (original: 110.0 EUR) en el siguiente enlace!

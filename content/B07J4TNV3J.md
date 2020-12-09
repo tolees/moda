@@ -14,7 +14,7 @@ currency: EUR
 price: 17.99
 comparePrice: 46.99 EUR
 inStock: true
-prodname: Aicehome Bolsa Termica Aislada con Correa de Hombro Ajustable y de Moda  Bolsa de Almuerzo Impermeable y a Prueba de Fugas para el Trabajo y Picnic con Rojo y Mazarine
+prodname: 'Aicehome Bolsa Termica Aislada con Correa de Hombro Ajustable y de Moda  Bolsa de Almuerzo Impermeable y a Prueba de Fugas para el Trabajo y Picnic con Rojo y Mazarine'
 ---
 
 Tienes [Aicehome Bolsa Termica Aislada con Correa de Hombro Ajustable y de Moda  Bolsa de Almuerzo Impermeable y a Prueba de Fugas para el Trabajo y Picnic con Rojo y Mazarine](https://www.amazon.es/dp/B07J4TNV3J/?tag=tolees-21) con un 61.72 % de descuento con precio de oferta de 17.99 EUR (original: 46.99 EUR) en el siguiente enlace!

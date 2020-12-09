@@ -14,7 +14,7 @@ currency: EUR
 price: 47
 comparePrice: 95 EUR
 inStock: true
-prodname: Tommy Jeans TJM Bold Logo Sweater Jersey  Azul  Black Iris/Multi 002   S para Hombre
+prodname: 'Tommy Jeans TJM Bold Logo Sweater Jersey  Azul  Black Iris/Multi 002   S para Hombre'
 ---
 
 Tienes [Tommy Jeans TJM Bold Logo Sweater Jersey  Azul  Black Iris/Multi 002   S para Hombre](https://www.amazon.es/dp/B07LBKTLQQ/?tag=tolees-21) con un 50.53 % de descuento con precio de oferta de 47 EUR (original: 95 EUR) en el siguiente enlace!

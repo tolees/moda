@@ -14,7 +14,7 @@ currency: EUR
 price: 18.95
 comparePrice: 79.9 EUR
 inStock: true
-prodname: Pepe Jeans Kaiden Camisa    Indigo 561   Small para Hombre
+prodname: 'Pepe Jeans Kaiden Camisa    Indigo 561   Small para Hombre'
 ---
 
 Ahora mismo tienes [Pepe Jeans Kaiden Camisa    Indigo 561   Small para Hombre](https://www.amazon.es/dp/B07CRJ81SJ/?tag=tolees-21) a 18.95 EUR (original: 79.9 EUR) (76.28 %  de descuento) en el siguiente enlace!

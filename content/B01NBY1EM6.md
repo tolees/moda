@@ -14,7 +14,7 @@ currency: EUR
 price: 35.4
 comparePrice: 59 EUR
 inStock: true
-prodname: Timberland Millers River  Polo Hombre  Negro  Black 001   Medium
+prodname: 'Timberland Millers River  Polo Hombre  Negro  Black 001   Medium'
 ---
 
 Ahora mismo tienes [Timberland Millers River  Polo Hombre  Negro  Black 001   Medium](https://www.amazon.es/dp/B01NBY1EM6/?tag=tolees-21) a 35.4 EUR (original: 59 EUR) (40.00 %  de descuento) en el siguiente enlace!

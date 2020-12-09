@@ -14,7 +14,7 @@ currency: EUR
 price: 25.38
 comparePrice: 58.82 EUR
 inStock: true
-prodname: Marca Amazon - find. Luxury Trench - Abrigo Mujer  Rojo  Red   46  Label: XXL
+prodname: 'Marca Amazon - find. Luxury Trench - Abrigo Mujer  Rojo  Red   46  Label: XXL'
 ---
 
 Está [Marca Amazon - find. Luxury Trench - Abrigo Mujer  Rojo  Red   46  Label: XXL](https://www.amazon.es/dp/B07FQXSB9X/?tag=tolees-21) con 56.85 de descuento por 25.38 EUR (original: 58.82 EUR) en el siguiente enlace!

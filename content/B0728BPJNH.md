@@ -14,7 +14,7 @@ currency: EUR
 price: 13.64
 comparePrice: 30 EUR
 inStock: true
-prodname: Under Armour UA HG Armour Printed Shorty Pantalón Corto  Mujer  Negro  001   S
+prodname: 'Under Armour UA HG Armour Printed Shorty Pantalón Corto  Mujer  Negro  001   S'
 ---
 
 Ahora mismo tienes [Under Armour UA HG Armour Printed Shorty Pantalón Corto  Mujer  Negro  001   S](https://www.amazon.es/dp/B0728BPJNH/?tag=tolees-21) a 13.64 EUR (original: 30 EUR) (54.53 %  de descuento) en el siguiente enlace!

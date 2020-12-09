@@ -14,7 +14,7 @@ currency: EUR
 price: 13.5
 comparePrice: 29.9 EUR
 inStock: true
-prodname: Tommy Hilfiger Cotton cn tee SS Iconic - Camiseta para Mujer  Color Grey Heather 004  Talla 38
+prodname: 'Tommy Hilfiger Cotton cn tee SS Iconic - Camiseta para Mujer  Color Grey Heather 004  Talla 38'
 ---
 
 Ahora mismo tienes [Tommy Hilfiger Cotton cn tee SS Iconic - Camiseta para Mujer  Color Grey Heather 004  Talla 38](https://www.amazon.es/dp/B00UT2N9EI/?tag=tolees-21) a 13.5 EUR (original: 29.9 EUR) (54.85 %  de descuento) en el siguiente enlace!

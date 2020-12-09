@@ -14,7 +14,7 @@ currency: EUR
 price: 12.47
 comparePrice: 119.95 EUR
 inStock: true
-prodname: G-STAR RAW Tedie Ultra High Waist Straight Ripped Ankle C Vaqueros  Azul  Worn In Atlas B767-B136   W24/L32  Talla del Fabricante: 24W/ 32L  para Mujer
+prodname: 'G-STAR RAW Tedie Ultra High Waist Straight Ripped Ankle C Vaqueros  Azul  Worn In Atlas B767-B136   W24/L32  Talla del Fabricante: 24W/ 32L  para Mujer'
 ---
 
 Ahora mismo tienes [G-STAR RAW Tedie Ultra High Waist Straight Ripped Ankle C Vaqueros  Azul  Worn In Atlas B767-B136   W24/L32  Talla del Fabricante: 24W/ 32L  para Mujer](https://www.amazon.es/dp/B07VQVF7Y5/?tag=tolees-21) a 12.47 EUR (original: 119.95 EUR) (89.60 %  de descuento) en el siguiente enlace!

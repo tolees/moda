@@ -14,7 +14,7 @@ currency: EUR
 price: 7.66
 comparePrice: 24.99 EUR
 inStock: true
-prodname: Only Nos Onlmila Lacy L/S Knt Noos  Jersey para Mujer  Azul Surf The Web  M
+prodname: 'Only Nos Onlmila Lacy L/S Knt Noos  Jersey para Mujer  Azul Surf The Web  M'
 ---
 
 Está [Only Nos Onlmila Lacy L/S Knt Noos  Jersey para Mujer  Azul Surf The Web  M](https://www.amazon.es/dp/B07FP3BY5M/?tag=tolees-21) con 69.35 de descuento por 7.66 EUR (original: 24.99 EUR) en el siguiente enlace!

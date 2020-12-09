@@ -14,7 +14,7 @@ currency: EUR
 price: 15.99
 comparePrice: 31.99 EUR
 inStock: true
-prodname: Crocs Crocband Clog Kids  Zuecos Unisex Niños  Azul  Bright Cobalt/Charcoal 4jn   30/31 EU
+prodname: 'Crocs Crocband Clog Kids  Zuecos Unisex Niños  Azul  Bright Cobalt/Charcoal 4jn   30/31 EU'
 ---
 
 Tienes [Crocs Crocband Clog Kids  Zuecos Unisex Niños  Azul  Bright Cobalt/Charcoal 4jn   30/31 EU](https://www.amazon.es/dp/B07K9QPLG4/?tag=tolees-21) con un 50.02 % de descuento con precio de oferta de 15.99 EUR (original: 31.99 EUR) en el siguiente enlace!

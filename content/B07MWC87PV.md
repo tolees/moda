@@ -14,7 +14,7 @@ currency: EUR
 price: 47.99
 comparePrice: 99.5 EUR
 inStock: true
-prodname: RICOO Banco de Armario Zapatería WM035-BG-A Estanterías con Asientos Acolchado para la casa Entrada de Madera Baúl Botas Banco Zapatero de Almacenamiento Zapatos Color Gris hormigón y Gris Antracita
+prodname: 'RICOO Banco de Armario Zapatería WM035-BG-A Estanterías con Asientos Acolchado para la casa Entrada de Madera Baúl Botas Banco Zapatero de Almacenamiento Zapatos Color Gris hormigón y Gris Antracita'
 ---
 
 Tienes [RICOO Banco de Armario Zapatería WM035-BG-A Estanterías con Asientos Acolchado para la casa Entrada de Madera Baúl Botas Banco Zapatero de Almacenamiento Zapatos Color Gris hormigón y Gris Antracita](https://www.amazon.es/dp/B07MWC87PV/?tag=tolees-21) con un 51.77 % de descuento con precio de oferta de 47.99 EUR (original: 99.5 EUR) en el siguiente enlace!

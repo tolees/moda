@@ -14,7 +14,7 @@ currency: EUR
 price: 27.13
 comparePrice: 139.95 EUR
 inStock: true
-prodname: G-STAR RAW 3301 Slim Vaqueros  Azul  Medium Aged 7890-071   25W / 30L para Hombre
+prodname: 'G-STAR RAW 3301 Slim Vaqueros  Azul  Medium Aged 7890-071   25W / 30L para Hombre'
 ---
 
 Tienes [G-STAR RAW 3301 Slim Vaqueros  Azul  Medium Aged 7890-071   25W / 30L para Hombre](https://www.amazon.es/dp/B01BGTIN98/?tag=tolees-21) con un 80.61 % de descuento con precio de oferta de 27.13 EUR (original: 139.95 EUR) en el siguiente enlace!

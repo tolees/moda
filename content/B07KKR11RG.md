@@ -14,7 +14,7 @@ currency: EUR
 price: 15.28
 comparePrice: 38 EUR
 inStock: true
-prodname: Naf Naf Kenc36 Blusa  Marfil  Écru 333   44 para Mujer
+prodname: 'Naf Naf Kenc36 Blusa  Marfil  Écru 333   44 para Mujer'
 ---
 
 Tienes [Naf Naf Kenc36 Blusa  Marfil  Écru 333   44 para Mujer](https://www.amazon.es/dp/B07KKR11RG/?tag=tolees-21) con un 59.79 % de descuento con precio de oferta de 15.28 EUR (original: 38 EUR) en el siguiente enlace!

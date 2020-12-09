@@ -14,7 +14,7 @@ currency: EUR
 price: 33.34
 comparePrice: 50 EUR
 inStock: true
-prodname: The North Face Drew Peak Sudadera con Capucha  Niñas  TNF Black  M
+prodname: 'The North Face Drew Peak Sudadera con Capucha  Niñas  TNF Black  M'
 ---
 
 Tienes [The North Face Drew Peak Sudadera con Capucha  Niñas  TNF Black  M](https://www.amazon.es/dp/B07MGJYYLZ/?tag=tolees-21) con un 33.32 % de descuento con precio de oferta de 33.34 EUR (original: 50 EUR) en el siguiente enlace!

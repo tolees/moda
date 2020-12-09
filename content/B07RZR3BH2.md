@@ -14,7 +14,7 @@ currency: EUR
 price: 8.99
 comparePrice: 12.99 EUR
 inStock: true
-prodname: Jack & Jones Jjeorganic Basic tee SS O-Neck Noos Camiseta  Blanco  White Detail: Slim   XX-Large para Hombre
+prodname: 'Jack & Jones Jjeorganic Basic tee SS O-Neck Noos Camiseta  Blanco  White Detail: Slim   XX-Large para Hombre'
 ---
 
 Ahora mismo tienes [Jack & Jones Jjeorganic Basic tee SS O-Neck Noos Camiseta  Blanco  White Detail: Slim   XX-Large para Hombre](https://www.amazon.es/dp/B07RZR3BH2/?tag=tolees-21) a 8.99 EUR (original: 12.99 EUR) (30.79 %  de descuento) en el siguiente enlace!

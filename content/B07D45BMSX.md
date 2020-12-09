@@ -14,7 +14,7 @@ currency: EUR
 price: 19.98
 comparePrice: 60 EUR
 inStock: true
-prodname: FIND Suede Zapatos de Cordones Derby  Azul Blue  47 EU
+prodname: 'FIND Suede Zapatos de Cordones Derby  Azul Blue  47 EU'
 ---
 
 Tienes [FIND Suede Zapatos de Cordones Derby  Azul Blue  47 EU](https://www.amazon.es/dp/B07D45BMSX/?tag=tolees-21) con un 66.70 % de descuento con precio de oferta de 19.98 EUR (original: 60 EUR) en el siguiente enlace!

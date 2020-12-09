@@ -14,7 +14,7 @@ currency: EUR
 price: 29.02
 comparePrice: 55 EUR
 inStock: true
-prodname: Under Armour Rival Fitted Full Zip Sudadera  Hombre  Azul  Midnight Navy/White 410   XS
+prodname: 'Under Armour Rival Fitted Full Zip Sudadera  Hombre  Azul  Midnight Navy/White 410   XS'
 ---
 
 Está [Under Armour Rival Fitted Full Zip Sudadera  Hombre  Azul  Midnight Navy/White 410   XS](https://www.amazon.es/dp/B0714DRWMB/?tag=tolees-21) con 47.24 de descuento por 29.02 EUR (original: 55 EUR) en el siguiente enlace!

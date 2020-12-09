@@ -14,7 +14,7 @@ currency: EUR
 price: 9.98
 comparePrice: 20.05 EUR
 inStock: true
-prodname: Marca Amazon - MERAKI Gabardina Impermeable Hombre  Rojo  Red   M  Label: M
+prodname: 'Marca Amazon - MERAKI Gabardina Impermeable Hombre  Rojo  Red   M  Label: M'
 ---
 
 Está [Marca Amazon - MERAKI Gabardina Impermeable Hombre  Rojo  Red   M  Label: M](https://www.amazon.es/dp/B077TVYSW6/?tag=tolees-21) con 50.22 de descuento por 9.98 EUR (original: 20.05 EUR) en el siguiente enlace!

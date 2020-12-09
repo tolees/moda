@@ -14,7 +14,7 @@ currency: EUR
 price: 20.88
 comparePrice: 39.99 EUR
 inStock: true
-prodname: Vila Clothes Vilimit Skirt  Falda para Mujer  Azul Total Eclipse  38  Talla del Fabricante: Medium 
+prodname: 'Vila Clothes Vilimit Skirt  Falda para Mujer  Azul Total Eclipse  38  Talla del Fabricante: Medium '
 ---
 
 Está [Vila Clothes Vilimit Skirt  Falda para Mujer  Azul Total Eclipse  38  Talla del Fabricante: Medium ](https://www.amazon.es/dp/B075QCXSX4/?tag=tolees-21) con 47.79 de descuento por 20.88 EUR (original: 39.99 EUR) en el siguiente enlace!

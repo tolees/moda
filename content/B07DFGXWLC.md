@@ -14,7 +14,7 @@ currency: EUR
 price: 7.45
 comparePrice: 14.95 EUR
 inStock: true
-prodname: adidas Cy5615 Monedero  15 cm  Ónitéc / Blabas
+prodname: 'adidas Cy5615 Monedero  15 cm  Ónitéc / Blabas'
 ---
 
 Tienes [adidas Cy5615 Monedero  15 cm  Ónitéc / Blabas](https://www.amazon.es/dp/B07DFGXWLC/?tag=tolees-21) con un 50.17 % de descuento con precio de oferta de 7.45 EUR (original: 14.95 EUR) en el siguiente enlace!

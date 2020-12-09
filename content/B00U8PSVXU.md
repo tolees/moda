@@ -14,7 +14,7 @@ currency: EUR
 price: 32.7
 comparePrice: 119 EUR
 inStock: true
-prodname: Guess GU6843 Gafas de Sol  Negro  52 Unisex Adulto
+prodname: 'Guess GU6843 Gafas de Sol  Negro  52 Unisex Adulto'
 ---
 
 Ahora mismo tienes [Guess GU6843 Gafas de Sol  Negro  52 Unisex Adulto](https://www.amazon.es/dp/B00U8PSVXU/?tag=tolees-21) a 32.7 EUR (original: 119 EUR) (72.52 %  de descuento) en el siguiente enlace!

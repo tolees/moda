@@ -14,7 +14,7 @@ currency: EUR
 price: 48
 comparePrice: 119.95 EUR
 inStock: true
-prodname: G-STAR RAW Midge Zip Mid Waist Skinny Vaqueros  Negro  Rinsed 8970-082   31W / 34L para Mujer
+prodname: 'G-STAR RAW Midge Zip Mid Waist Skinny Vaqueros  Negro  Rinsed 8970-082   31W / 34L para Mujer'
 ---
 
 Está [G-STAR RAW Midge Zip Mid Waist Skinny Vaqueros  Negro  Rinsed 8970-082   31W / 34L para Mujer](https://www.amazon.es/dp/B0752BGHGX/?tag=tolees-21) con 59.98 de descuento por 48 EUR (original: 119.95 EUR) en el siguiente enlace!

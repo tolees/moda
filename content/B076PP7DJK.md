@@ -14,7 +14,7 @@ currency: EUR
 price: 16.2
 comparePrice: 35.29 EUR
 inStock: true
-prodname: Marca Amazon - MERAKI Chaqueta de Plumas con Capucha Mujer  Rojo  Burgundy   38  Label: S
+prodname: 'Marca Amazon - MERAKI Chaqueta de Plumas con Capucha Mujer  Rojo  Burgundy   38  Label: S'
 ---
 
 Ahora mismo tienes [Marca Amazon - MERAKI Chaqueta de Plumas con Capucha Mujer  Rojo  Burgundy   38  Label: S](https://www.amazon.es/dp/B076PP7DJK/?tag=tolees-21) a 16.2 EUR (original: 35.29 EUR) (54.09 %  de descuento) en el siguiente enlace!

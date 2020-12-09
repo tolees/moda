@@ -14,7 +14,7 @@ currency: EUR
 price: 7.49
 comparePrice: 10.95 EUR
 inStock: true
-prodname: PetTec Collar de Perro Cómodo y Duradero  Fabricado con Trioflex lo Que lo Hace Fuerte; para Perros Grandes o Pequeños  Ajustable y con Relleno Impermeable  Rojo 
+prodname: 'PetTec Collar de Perro Cómodo y Duradero  Fabricado con Trioflex lo Que lo Hace Fuerte; para Perros Grandes o Pequeños  Ajustable y con Relleno Impermeable  Rojo '
 ---
 
 Está [PetTec Collar de Perro Cómodo y Duradero  Fabricado con Trioflex lo Que lo Hace Fuerte; para Perros Grandes o Pequeños  Ajustable y con Relleno Impermeable  Rojo ](https://www.amazon.es/dp/B01FURRGYA/?tag=tolees-21) con 31.60 de descuento por 7.49 EUR (original: 10.95 EUR) en el siguiente enlace!

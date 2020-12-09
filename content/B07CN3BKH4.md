@@ -14,7 +14,7 @@ currency: EUR
 price: 17.34
 comparePrice: 34.9 EUR
 inStock: true
-prodname: Crocs Serena Sandal Women  Sandalias de Punta Descubierta para Mujer  Rosa Melon 6jc  38/39 EU
+prodname: 'Crocs Serena Sandal Women  Sandalias de Punta Descubierta para Mujer  Rosa Melon 6jc  38/39 EU'
 ---
 
 Ahora mismo tienes [Crocs Serena Sandal Women  Sandalias de Punta Descubierta para Mujer  Rosa Melon 6jc  38/39 EU](https://www.amazon.es/dp/B07CN3BKH4/?tag=tolees-21) a 17.34 EUR (original: 34.9 EUR) (50.32 %  de descuento) en el siguiente enlace!

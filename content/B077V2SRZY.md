@@ -14,7 +14,7 @@ currency: EUR
 price: 7.64
 comparePrice: 24.99 EUR
 inStock: true
-prodname: Vero Moda Vmkara LS Key Hole Blouse  suéter para Mujer  Marfil Pristine  44  Talla del Fabricante: X-Large 
+prodname: 'Vero Moda Vmkara LS Key Hole Blouse  suéter para Mujer  Marfil Pristine  44  Talla del Fabricante: X-Large '
 ---
 
 Ahora mismo tienes [Vero Moda Vmkara LS Key Hole Blouse  suéter para Mujer  Marfil Pristine  44  Talla del Fabricante: X-Large ](https://www.amazon.es/dp/B077V2SRZY/?tag=tolees-21) a 7.64 EUR (original: 24.99 EUR) (69.43 %  de descuento) en el siguiente enlace!

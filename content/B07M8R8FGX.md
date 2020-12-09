@@ -14,7 +14,7 @@ currency: EUR
 price: 114.97
 comparePrice: 200 EUR
 inStock: true
-prodname: The North Face Dryzzle Chaqueta  Hombre  Urban Navy  XL
+prodname: 'The North Face Dryzzle Chaqueta  Hombre  Urban Navy  XL'
 ---
 
 Ahora mismo tienes [The North Face Dryzzle Chaqueta  Hombre  Urban Navy  XL](https://www.amazon.es/dp/B07M8R8FGX/?tag=tolees-21) a 114.97 EUR (original: 200 EUR) (42.52 %  de descuento) en el siguiente enlace!

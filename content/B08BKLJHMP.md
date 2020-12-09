@@ -14,7 +14,7 @@ currency: EUR
 price: 26.49
 comparePrice: 48.6 EUR
 inStock: true
-prodname: Hurley M One&Only Woven 2.0 L/S Camisa  Hombre  Ash Green
+prodname: 'Hurley M One&Only Woven 2.0 L/S Camisa  Hombre  Ash Green'
 ---
 
 Está [Hurley M One&Only Woven 2.0 L/S Camisa  Hombre  Ash Green](https://www.amazon.es/dp/B08BKLJHMP/?tag=tolees-21) con 45.49 de descuento por 26.49 EUR (original: 48.6 EUR) en el siguiente enlace!

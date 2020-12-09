@@ -14,7 +14,7 @@ currency: EUR
 price: 33.49
 comparePrice: 85 EUR
 inStock: true
-prodname: Burton Support Guantes de Snowboard  Hombre  Negro  True   XS
+prodname: 'Burton Support Guantes de Snowboard  Hombre  Negro  True   XS'
 ---
 
 Está [Burton Support Guantes de Snowboard  Hombre  Negro  True   XS](https://www.amazon.es/dp/B00P7AV8FE/?tag=tolees-21) con 60.60 de descuento por 33.49 EUR (original: 85 EUR) en el siguiente enlace!

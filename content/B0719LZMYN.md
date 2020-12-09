@@ -14,7 +14,7 @@ currency: EUR
 price: 9.2
 comparePrice: 26 EUR
 inStock: true
-prodname: Under Armour Challenger II Knit Short Pantalón Corto  Hombre  Blanco  White/Graphite 101   XXL
+prodname: 'Under Armour Challenger II Knit Short Pantalón Corto  Hombre  Blanco  White/Graphite 101   XXL'
 ---
 
 Está [Under Armour Challenger II Knit Short Pantalón Corto  Hombre  Blanco  White/Graphite 101   XXL](https://www.amazon.es/dp/B0719LZMYN/?tag=tolees-21) con 64.62 de descuento por 9.2 EUR (original: 26 EUR) en el siguiente enlace!

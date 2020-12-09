@@ -14,7 +14,7 @@ currency: EUR
 price: 56.05
 comparePrice: 99.95 EUR
 inStock: true
-prodname: Desigual Vest_Santorini  Vestido para Mujer   Negro 2000   40
+prodname: 'Desigual Vest_Santorini  Vestido para Mujer   Negro 2000   40'
 ---
 
 Está [Desigual Vest_Santorini  Vestido para Mujer   Negro 2000   40](https://www.amazon.es/dp/B06XPXBR84/?tag=tolees-21) con 43.92 de descuento por 56.05 EUR (original: 99.95 EUR) en el siguiente enlace!

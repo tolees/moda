@@ -14,7 +14,7 @@ currency: EUR
 price: 8.8
 comparePrice: 12.26 EUR
 inStock: true
-prodname: AiRunTech Cintura Fanny Pack Riñoneras Deportivas Cinturón de Correr Impermeable Bolso Running para Camina el Perro Bicicleta Senderismo Teléfono 6 Pulgadas Riñoneras Mujer Hombre Niños  Gray 
+prodname: 'AiRunTech Cintura Fanny Pack Riñoneras Deportivas Cinturón de Correr Impermeable Bolso Running para Camina el Perro Bicicleta Senderismo Teléfono 6 Pulgadas Riñoneras Mujer Hombre Niños  Gray '
 ---
 
 Tienes [AiRunTech Cintura Fanny Pack Riñoneras Deportivas Cinturón de Correr Impermeable Bolso Running para Camina el Perro Bicicleta Senderismo Teléfono 6 Pulgadas Riñoneras Mujer Hombre Niños  Gray ](https://www.amazon.es/dp/B01D3GZARA/?tag=tolees-21) con un 28.22 % de descuento con precio de oferta de 8.8 EUR (original: 12.26 EUR) en el siguiente enlace!

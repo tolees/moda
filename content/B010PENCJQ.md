@@ -14,7 +14,7 @@ currency: EUR
 price: 21.59
 comparePrice: 39.99 EUR
 inStock: true
-prodname: Crocs Classic U  Zuecos Unisex Adulto  Lemon  41/42 EU
+prodname: 'Crocs Classic U  Zuecos Unisex Adulto  Lemon  41/42 EU'
 ---
 
 Tienes [Crocs Classic U  Zuecos Unisex Adulto  Lemon  41/42 EU](https://www.amazon.es/dp/B010PENCJQ/?tag=tolees-21) con un 46.01 % de descuento con precio de oferta de 21.59 EUR (original: 39.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 56.25
 comparePrice: 75.0 EUR
 inStock: true
-prodname: Art I Breathe  Sandalias con Punta Abierta Unisex Adulto  Marrón  Cuero Cuero   36 EU
+prodname: 'Art I Breathe  Sandalias con Punta Abierta Unisex Adulto  Marrón  Cuero Cuero   36 EU'
 ---
 
 Tienes [Art I Breathe  Sandalias con Punta Abierta Unisex Adulto  Marrón  Cuero Cuero   36 EU](https://www.amazon.es/dp/B07VR19DXT/?tag=tolees-21) con un 25.00 % de descuento con precio de oferta de 56.25 EUR (original: 75.0 EUR) en el siguiente enlace!

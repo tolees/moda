@@ -14,7 +14,7 @@ currency: EUR
 price: 21.34
 comparePrice: 39.95 EUR
 inStock: true
-prodname: Spagnolo 194000247080  Jersey Para Hombre  Azul  Medium
+prodname: 'Spagnolo 194000247080  Jersey Para Hombre  Azul  Medium'
 ---
 
 Ahora mismo tienes [Spagnolo 194000247080  Jersey Para Hombre  Azul  Medium](https://www.amazon.es/dp/B06XTSJSVH/?tag=tolees-21) a 21.34 EUR (original: 39.95 EUR) (46.58 %  de descuento) en el siguiente enlace!

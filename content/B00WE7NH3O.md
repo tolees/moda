@@ -14,7 +14,7 @@ currency: EUR
 price: 7.91
 comparePrice: 35.87 EUR
 inStock: true
-prodname: Manoukian Camisa Hombre Slim Azul Claro M
+prodname: 'Manoukian Camisa Hombre Slim Azul Claro M'
 ---
 
 Está [Manoukian Camisa Hombre Slim Azul Claro M](https://www.amazon.es/dp/B00WE7NH3O/?tag=tolees-21) con 77.95 de descuento por 7.91 EUR (original: 35.87 EUR) en el siguiente enlace!

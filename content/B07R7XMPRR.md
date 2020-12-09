@@ -14,7 +14,7 @@ currency: EUR
 price: 52.18
 comparePrice: 99.99 EUR
 inStock: true
-prodname: Columbia Cascade Ridge II Chaqueta Softshell para mujer
+prodname: 'Columbia Cascade Ridge II Chaqueta Softshell para mujer'
 ---
 
 Está [Columbia Cascade Ridge II Chaqueta Softshell para mujer](https://www.amazon.es/dp/B07R7XMPRR/?tag=tolees-21) con 47.81 de descuento por 52.18 EUR (original: 99.99 EUR) en el siguiente enlace!

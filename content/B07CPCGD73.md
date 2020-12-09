@@ -14,7 +14,7 @@ currency: EUR
 price: 18.15
 comparePrice: 49.9 EUR
 inStock: true
-prodname: Crocs Crocband U  Zuecos Unisex Adulto  Verde  Citrus-Grey 725   48-49 EU
+prodname: 'Crocs Crocband U  Zuecos Unisex Adulto  Verde  Citrus-Grey 725   48-49 EU'
 ---
 
 Tienes [Crocs Crocband U  Zuecos Unisex Adulto  Verde  Citrus-Grey 725   48-49 EU](https://www.amazon.es/dp/B07CPCGD73/?tag=tolees-21) con un 63.63 % de descuento con precio de oferta de 18.15 EUR (original: 49.9 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 14.99
 comparePrice: 24.99 EUR
 inStock: true
-prodname: Superdry Low Pro Sneaker Camiseta de Tirantes  Blanco  Optic White 26C   M para Hombre
+prodname: 'Superdry Low Pro Sneaker Camiseta de Tirantes  Blanco  Optic White 26C   M para Hombre'
 ---
 
 Está [Superdry Low Pro Sneaker Camiseta de Tirantes  Blanco  Optic White 26C   M para Hombre](https://www.amazon.es/dp/B07F9M7SXL/?tag=tolees-21) con 40.02 de descuento por 14.99 EUR (original: 24.99 EUR) en el siguiente enlace!

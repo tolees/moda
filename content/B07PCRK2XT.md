@@ -14,7 +14,7 @@ currency: EUR
 price: 98.95
 comparePrice: 155.53 EUR
 inStock: true
-prodname: Diesel D-bazer L.32 Trousers Vaqueros Tapered  Negro  Black 900   W31/L34  Talla del Fabricante: 31  para Hombre
+prodname: 'Diesel D-bazer L.32 Trousers Vaqueros Tapered  Negro  Black 900   W31/L34  Talla del Fabricante: 31  para Hombre'
 ---
 
 Tienes [Diesel D-bazer L.32 Trousers Vaqueros Tapered  Negro  Black 900   W31/L34  Talla del Fabricante: 31  para Hombre](https://www.amazon.es/dp/B07PCRK2XT/?tag=tolees-21) con un 36.38 % de descuento con precio de oferta de 98.95 EUR (original: 155.53 EUR) en el siguiente enlace!

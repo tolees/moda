@@ -14,7 +14,7 @@ currency: EUR
 price: 35.99
 comparePrice: 58.88 EUR
 inStock: true
-prodname: Air Zapatillas de Running para Hombre Mujer Zapatos para Correr y Asfalto Aire Libre y Deportes Calzado Unisexo Blue Plum 40
+prodname: 'Air Zapatillas de Running para Hombre Mujer Zapatos para Correr y Asfalto Aire Libre y Deportes Calzado Unisexo Blue Plum 40'
 ---
 
 Tienes [Air Zapatillas de Running para Hombre Mujer Zapatos para Correr y Asfalto Aire Libre y Deportes Calzado Unisexo Blue Plum 40](https://www.amazon.es/dp/B075NCVK8T/?tag=tolees-21) con un 38.88 % de descuento con precio de oferta de 35.99 EUR (original: 58.88 EUR) en el siguiente enlace!

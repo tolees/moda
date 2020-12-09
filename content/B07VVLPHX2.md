@@ -14,7 +14,7 @@ currency: EUR
 price: 45.37
 comparePrice: 115.0 EUR
 inStock: true
-prodname: El Naturalista Stella  Sandalias con Punta Cerrada para Mujer  Marrón  Wood Wood   36 EU
+prodname: 'El Naturalista Stella  Sandalias con Punta Cerrada para Mujer  Marrón  Wood Wood   36 EU'
 ---
 
 Tienes [El Naturalista Stella  Sandalias con Punta Cerrada para Mujer  Marrón  Wood Wood   36 EU](https://www.amazon.es/dp/B07VVLPHX2/?tag=tolees-21) con un 60.55 % de descuento con precio de oferta de 45.37 EUR (original: 115.0 EUR) en el siguiente enlace!

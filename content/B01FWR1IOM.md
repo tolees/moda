@@ -14,7 +14,7 @@ currency: EUR
 price: 10.32
 comparePrice: 26 EUR
 inStock: true
-prodname: Under Armour UA Stunt Short Pantalón Corto  Niños  Negro  001   XL
+prodname: 'Under Armour UA Stunt Short Pantalón Corto  Niños  Negro  001   XL'
 ---
 
 Está [Under Armour UA Stunt Short Pantalón Corto  Niños  Negro  001   XL](https://www.amazon.es/dp/B01FWR1IOM/?tag=tolees-21) con 60.31 de descuento por 10.32 EUR (original: 26 EUR) en el siguiente enlace!

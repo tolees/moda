@@ -14,7 +14,7 @@ currency: EUR
 price: 27.89
 comparePrice: 99.95 EUR
 inStock: true
-prodname: Clarks Un Trail Form  Zapatos de Cordones Brogue Derby  Beige  Stone Nubuck Stone Nubuck   40 EU
+prodname: 'Clarks Un Trail Form  Zapatos de Cordones Brogue Derby  Beige  Stone Nubuck Stone Nubuck   40 EU'
 ---
 
 Ahora mismo tienes [Clarks Un Trail Form  Zapatos de Cordones Brogue Derby  Beige  Stone Nubuck Stone Nubuck   40 EU](https://www.amazon.es/dp/B07TQWGHS3/?tag=tolees-21) a 27.89 EUR (original: 99.95 EUR) (72.10 %  de descuento) en el siguiente enlace!

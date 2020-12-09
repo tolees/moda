@@ -14,7 +14,7 @@ currency: EUR
 price: 27.45
 comparePrice: 51.97 EUR
 inStock: true
-prodname: Timberland Gateway Pier  Zapatos de Cordones Oxford Unisex Niños  Azul  Twilight Blue Vk4   37 EU
+prodname: 'Timberland Gateway Pier  Zapatos de Cordones Oxford Unisex Niños  Azul  Twilight Blue Vk4   37 EU'
 ---
 
 Tienes [Timberland Gateway Pier  Zapatos de Cordones Oxford Unisex Niños  Azul  Twilight Blue Vk4   37 EU](https://www.amazon.es/dp/B07F1WZBLG/?tag=tolees-21) con un 47.18 % de descuento con precio de oferta de 27.45 EUR (original: 51.97 EUR) en el siguiente enlace!

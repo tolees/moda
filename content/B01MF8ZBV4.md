@@ -14,7 +14,7 @@ currency: EUR
 price: 18.09
 comparePrice: 66 EUR
 inStock: true
-prodname: Polaroid PLD 6018/S JY TNY  Gafas de sol Unisex Adulto  Gris  Cry Ruthen/Greyblmirror Pz  55
+prodname: 'Polaroid PLD 6018/S JY TNY  Gafas de sol Unisex Adulto  Gris  Cry Ruthen/Greyblmirror Pz  55'
 ---
 
 Tienes [Polaroid PLD 6018/S JY TNY  Gafas de sol Unisex Adulto  Gris  Cry Ruthen/Greyblmirror Pz  55](https://www.amazon.es/dp/B01MF8ZBV4/?tag=tolees-21) con un 72.59 % de descuento con precio de oferta de 18.09 EUR (original: 66 EUR) en el siguiente enlace!

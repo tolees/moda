@@ -14,7 +14,7 @@ currency: EUR
 price: 23.95
 comparePrice: 42.5 EUR
 inStock: true
-prodname: Calvin Klein Low Rise Trunk 3PK Bóxer  Negro  B-Iron Gate/Scooter/Wedgewood WB Mfn   M para Hombre
+prodname: 'Calvin Klein Low Rise Trunk 3PK Bóxer  Negro  B-Iron Gate/Scooter/Wedgewood WB Mfn   M para Hombre'
 ---
 
 Está [Calvin Klein Low Rise Trunk 3PK Bóxer  Negro  B-Iron Gate/Scooter/Wedgewood WB Mfn   M para Hombre](https://www.amazon.es/dp/B07LBPX39Q/?tag=tolees-21) con 43.65 de descuento por 23.95 EUR (original: 42.5 EUR) en el siguiente enlace!

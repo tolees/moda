@@ -14,7 +14,7 @@ currency: EUR
 price: 5.45
 comparePrice: 8.18 EUR
 inStock: true
-prodname: Gildan - Camiseta básica de manga corta Unisex Estilosa Suave Niños Niñas - Verano/Calor  XS/Verde menta 
+prodname: 'Gildan - Camiseta básica de manga corta Unisex Estilosa Suave Niños Niñas - Verano/Calor  XS/Verde menta '
 ---
 
 Está [Gildan - Camiseta básica de manga corta Unisex Estilosa Suave Niños Niñas - Verano/Calor  XS/Verde menta ](https://www.amazon.es/dp/B01BOE4UVK/?tag=tolees-21) con 33.37 de descuento por 5.45 EUR (original: 8.18 EUR) en el siguiente enlace!

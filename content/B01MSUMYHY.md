@@ -14,7 +14,7 @@ currency: EUR
 price: 11.47
 comparePrice: 27.36 EUR
 inStock: true
-prodname: Berydale Bd312 Blusa  Blanco  Weiß   36  Talla del fabricante: XS 
+prodname: 'Berydale Bd312 Blusa  Blanco  Weiß   36  Talla del fabricante: XS '
 ---
 
 Tienes [Berydale Bd312 Blusa  Blanco  Weiß   36  Talla del fabricante: XS ](https://www.amazon.es/dp/B01MSUMYHY/?tag=tolees-21) con un 58.08 % de descuento con precio de oferta de 11.47 EUR (original: 27.36 EUR) en el siguiente enlace!

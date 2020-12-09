@@ -14,7 +14,7 @@ currency: EUR
 price: 31.3
 comparePrice: 74.95 EUR
 inStock: true
-prodname: Rieker P9060  Botines para Mujer  Negro Schwarz/Black-Silver 01  37 EU
+prodname: 'Rieker P9060  Botines para Mujer  Negro Schwarz/Black-Silver 01  37 EU'
 ---
 
 Tienes [Rieker P9060  Botines para Mujer  Negro Schwarz/Black-Silver 01  37 EU](https://www.amazon.es/dp/B07CFZ27JH/?tag=tolees-21) con un 58.24 % de descuento con precio de oferta de 31.3 EUR (original: 74.95 EUR) en el siguiente enlace!

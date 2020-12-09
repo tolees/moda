@@ -14,7 +14,7 @@ currency: EUR
 price: 82.5
 comparePrice: 152.9 EUR
 inStock: true
-prodname: Timberland Euro Sprint Hiker  Botas para Hombre  Marrón Brown MD Brown Full Grain  43 EU
+prodname: 'Timberland Euro Sprint Hiker  Botas para Hombre  Marrón Brown MD Brown Full Grain  43 EU'
 ---
 
 Tienes [Timberland Euro Sprint Hiker  Botas para Hombre  Marrón Brown MD Brown Full Grain  43 EU](https://www.amazon.es/dp/B07JMMTPZ8/?tag=tolees-21) con un 46.04 % de descuento con precio de oferta de 82.5 EUR (original: 152.9 EUR) en el siguiente enlace!

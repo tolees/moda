@@ -14,7 +14,7 @@ currency: EUR
 price: 37.49
 comparePrice: 84.95 EUR
 inStock: true
-prodname: Wrangler Greensboro Vaqueros  Azul  El Zonda 158   35W / 32L para Hombre
+prodname: 'Wrangler Greensboro Vaqueros  Azul  El Zonda 158   35W / 32L para Hombre'
 ---
 
 Tienes [Wrangler Greensboro Vaqueros  Azul  El Zonda 158   35W / 32L para Hombre](https://www.amazon.es/dp/B07TYW95VH/?tag=tolees-21) con un 55.87 % de descuento con precio de oferta de 37.49 EUR (original: 84.95 EUR) en el siguiente enlace!

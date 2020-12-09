@@ -14,7 +14,7 @@ currency: EUR
 price: 27.99
 comparePrice: 65.0 EUR
 inStock: true
-prodname: Levi s HR Decon Iconic BF Skirt Falda  Blue  High Plains 0011   One Size  Size: 24  para Mujer
+prodname: 'Levi s HR Decon Iconic BF Skirt Falda  Blue  High Plains 0011   One Size  Size: 24  para Mujer'
 ---
 
 Tienes [Levi s HR Decon Iconic BF Skirt Falda  Blue  High Plains 0011   One Size  Size: 24  para Mujer](https://www.amazon.es/dp/B07TJGC4BG/?tag=tolees-21) con un 56.94 % de descuento con precio de oferta de 27.99 EUR (original: 65.0 EUR) en el siguiente enlace!

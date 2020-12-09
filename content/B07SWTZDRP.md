@@ -14,7 +14,7 @@ currency: EUR
 price: 57.72
 comparePrice: 129.9 EUR
 inStock: true
-prodname: Geox D Nebula B  Zapatillas sin Cordones  Rojo  Red C7000   35 EU
+prodname: 'Geox D Nebula B  Zapatillas sin Cordones  Rojo  Red C7000   35 EU'
 ---
 
 Tienes [Geox D Nebula B  Zapatillas sin Cordones  Rojo  Red C7000   35 EU](https://www.amazon.es/dp/B07SWTZDRP/?tag=tolees-21) con un 55.57 % de descuento con precio de oferta de 57.72 EUR (original: 129.9 EUR) en el siguiente enlace!

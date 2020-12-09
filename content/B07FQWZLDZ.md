@@ -14,7 +14,7 @@ currency: EUR
 price: 31.97
 comparePrice: 110 EUR
 inStock: true
-prodname: Clarks Un Aldric Walk  Zapatos de Cordones Derby para Hombre  Marrón  Dark Tan Leather-   47 EU
+prodname: 'Clarks Un Aldric Walk  Zapatos de Cordones Derby para Hombre  Marrón  Dark Tan Leather-   47 EU'
 ---
 
 Está [Clarks Un Aldric Walk  Zapatos de Cordones Derby para Hombre  Marrón  Dark Tan Leather-   47 EU](https://www.amazon.es/dp/B07FQWZLDZ/?tag=tolees-21) con 70.94 de descuento por 31.97 EUR (original: 110 EUR) en el siguiente enlace!

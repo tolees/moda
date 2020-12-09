@@ -14,7 +14,7 @@ currency: EUR
 price: 16.49
 comparePrice: 21.99 EUR
 inStock: true
-prodname: FM London Tagless  Bóxer para Hombre   Assorted   XX-Large Pack de 5
+prodname: 'FM London Tagless  Bóxer para Hombre   Assorted   XX-Large Pack de 5'
 ---
 
 Tienes [FM London Tagless  Bóxer para Hombre   Assorted   XX-Large Pack de 5](https://www.amazon.es/dp/B077HMSDJL/?tag=tolees-21) con un 25.01 % de descuento con precio de oferta de 16.49 EUR (original: 21.99 EUR) en el siguiente enlace!

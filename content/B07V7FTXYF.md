@@ -14,7 +14,7 @@ currency: EUR
 price: 25.82
 comparePrice: 89.95 EUR
 inStock: true
-prodname: BOSS Rash Camisa  Amarillo  Medium Yellow 723   X-Large para Hombre
+prodname: 'BOSS Rash Camisa  Amarillo  Medium Yellow 723   X-Large para Hombre'
 ---
 
 Está [BOSS Rash Camisa  Amarillo  Medium Yellow 723   X-Large para Hombre](https://www.amazon.es/dp/B07V7FTXYF/?tag=tolees-21) con 71.30 de descuento por 25.82 EUR (original: 89.95 EUR) en el siguiente enlace!

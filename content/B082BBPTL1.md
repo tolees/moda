@@ -14,7 +14,7 @@ currency: EUR
 price: 59.5
 comparePrice: 119.0 EUR
 inStock: true
-prodname: Geographical Norway Parka Hombre Alibaba 056 rol 7
+prodname: 'Geographical Norway Parka Hombre Alibaba 056 rol 7'
 ---
 
 Está [Geographical Norway Parka Hombre Alibaba 056 rol 7](https://www.amazon.es/dp/B082BBPTL1/?tag=tolees-21) con 50.00 de descuento por 59.5 EUR (original: 119.0 EUR) en el siguiente enlace!

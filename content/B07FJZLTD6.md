@@ -14,7 +14,7 @@ currency: EUR
 price: 6.02
 comparePrice: 9.96 EUR
 inStock: true
-prodname: Eono Essentials - Camiseta de fútbol para niño  8 años 
+prodname: 'Eono Essentials - Camiseta de fútbol para niño  8 años '
 ---
 
 Ahora mismo tienes [Eono Essentials - Camiseta de fútbol para niño  8 años ](https://www.amazon.es/dp/B07FJZLTD6/?tag=tolees-21) a 6.02 EUR (original: 9.96 EUR) (39.56 %  de descuento) en el siguiente enlace!

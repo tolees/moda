@@ -14,7 +14,7 @@ currency: EUR
 price: 15.95
 comparePrice: 28 EUR
 inStock: true
-prodname: Pepe Jeans Charing  Camiseta Hombre  Gris  Grey Marl   X-Large
+prodname: 'Pepe Jeans Charing  Camiseta Hombre  Gris  Grey Marl   X-Large'
 ---
 
 Está [Pepe Jeans Charing  Camiseta Hombre  Gris  Grey Marl   X-Large](https://www.amazon.es/dp/B06XTHHNH8/?tag=tolees-21) con 43.04 de descuento por 15.95 EUR (original: 28 EUR) en el siguiente enlace!

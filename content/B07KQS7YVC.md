@@ -14,7 +14,7 @@ currency: EUR
 price: 43.45
 comparePrice: 69.95 EUR
 inStock: true
-prodname: adidas TT Chaqueta  Mujer  Negro  36
+prodname: 'adidas TT Chaqueta  Mujer  Negro  36'
 ---
 
 Está [adidas TT Chaqueta  Mujer  Negro  36](https://www.amazon.es/dp/B07KQS7YVC/?tag=tolees-21) con 37.88 de descuento por 43.45 EUR (original: 69.95 EUR) en el siguiente enlace!

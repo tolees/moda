@@ -14,7 +14,7 @@ currency: EUR
 price: 19.8
 comparePrice: 35.99 EUR
 inStock: true
-prodname: edc by Esprit 058cc1f014 Blusa   Navy 400   Medium para Mujer
+prodname: 'edc by Esprit 058cc1f014 Blusa   Navy 400   Medium para Mujer'
 ---
 
 Ahora mismo tienes [edc by Esprit 058cc1f014 Blusa   Navy 400   Medium para Mujer](https://www.amazon.es/dp/B079MDQXYP/?tag=tolees-21) a 19.8 EUR (original: 35.99 EUR) (44.98 %  de descuento) en el siguiente enlace!

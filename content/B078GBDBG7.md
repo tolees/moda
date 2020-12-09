@@ -14,7 +14,7 @@ currency: EUR
 price: 57.42
 comparePrice: 119 EUR
 inStock: true
-prodname: BOSS Orange24 Barcelona P Vaqueros Straight  Azul  Dark Blue 405   W34/L32  Talla del Fabricante: 34/32  para Hombre
+prodname: 'BOSS Orange24 Barcelona P Vaqueros Straight  Azul  Dark Blue 405   W34/L32  Talla del Fabricante: 34/32  para Hombre'
 ---
 
 Está [BOSS Orange24 Barcelona P Vaqueros Straight  Azul  Dark Blue 405   W34/L32  Talla del Fabricante: 34/32  para Hombre](https://www.amazon.es/dp/B078GBDBG7/?tag=tolees-21) con 51.75 de descuento por 57.42 EUR (original: 119 EUR) en el siguiente enlace!

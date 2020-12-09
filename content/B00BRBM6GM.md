@@ -14,7 +14,7 @@ currency: EUR
 price: 8.06
 comparePrice: 29.95 EUR
 inStock: true
-prodname: Portwest - Pantalón de trabajo  color negro
+prodname: 'Portwest - Pantalón de trabajo  color negro'
 ---
 
 Tienes [Portwest - Pantalón de trabajo  color negro](https://www.amazon.es/dp/B00BRBM6GM/?tag=tolees-21) con un 73.09 % de descuento con precio de oferta de 8.06 EUR (original: 29.95 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 71.45
 comparePrice: 139.9 EUR
 inStock: true
-prodname: Geox U TAIKI B ABX A  Zapatillas Altas Hombre  Marrón  Brown/Mud C6044   42 EU
+prodname: 'Geox U TAIKI B ABX A  Zapatillas Altas Hombre  Marrón  Brown/Mud C6044   42 EU'
 ---
 
 Está [Geox U TAIKI B ABX A  Zapatillas Altas Hombre  Marrón  Brown/Mud C6044   42 EU](https://www.amazon.es/dp/B07PL6N8TT/?tag=tolees-21) con 48.93 de descuento por 71.45 EUR (original: 139.9 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 19.95
 comparePrice: 39.47 EUR
 inStock: true
-prodname: Kappa Carcarella Chaqueta Deportiva  Hombre  Gris  S
+prodname: 'Kappa Carcarella Chaqueta Deportiva  Hombre  Gris  S'
 ---
 
 Ahora mismo tienes [Kappa Carcarella Chaqueta Deportiva  Hombre  Gris  S](https://www.amazon.es/dp/B00OHG2NPS/?tag=tolees-21) a 19.95 EUR (original: 39.47 EUR) (49.46 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 2.7
 comparePrice: 12.1 EUR
 inStock: true
-prodname: oodji Ultra Mujer Sujetador Bikini con Lazo  Turquesa  75C / 34C
+prodname: 'oodji Ultra Mujer Sujetador Bikini con Lazo  Turquesa  75C / 34C'
 ---
 
 Ahora mismo tienes [oodji Ultra Mujer Sujetador Bikini con Lazo  Turquesa  75C / 34C](https://www.amazon.es/dp/B01GVBV7S0/?tag=tolees-21) a 2.7 EUR (original: 12.1 EUR) (77.69 %  de descuento) en el siguiente enlace!

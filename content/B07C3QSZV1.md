@@ -14,7 +14,7 @@ currency: EUR
 price: 17.95
 comparePrice: 35 EUR
 inStock: true
-prodname: Pepe Jeans Willy Camiseta  Gris  Grey Marl 933   Small para Hombre
+prodname: 'Pepe Jeans Willy Camiseta  Gris  Grey Marl 933   Small para Hombre'
 ---
 
 Está [Pepe Jeans Willy Camiseta  Gris  Grey Marl 933   Small para Hombre](https://www.amazon.es/dp/B07C3QSZV1/?tag=tolees-21) con 48.71 de descuento por 17.95 EUR (original: 35 EUR) en el siguiente enlace!

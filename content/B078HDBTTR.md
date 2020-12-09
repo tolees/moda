@@ -14,7 +14,7 @@ currency: EUR
 price: 7.97
 comparePrice: 29.99 EUR
 inStock: true
-prodname: Springfield 13315 Vaqueros Relaxed  Hombre  Azul  Gama Azules    Tamaño del Fabricante:36 
+prodname: 'Springfield 13315 Vaqueros Relaxed  Hombre  Azul  Gama Azules    Tamaño del Fabricante:36 '
 ---
 
 Ahora mismo tienes [Springfield 13315 Vaqueros Relaxed  Hombre  Azul  Gama Azules    Tamaño del Fabricante:36 ](https://www.amazon.es/dp/B078HDBTTR/?tag=tolees-21) a 7.97 EUR (original: 29.99 EUR) (73.42 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 23.93
 comparePrice: 69.95 EUR
 inStock: true
-prodname: G-STAR RAW Core Super Slim Shirt L\\s  Camisa Hombre  Rojo  Bright Russet 9819   XX-Large
+prodname: 'G-STAR RAW Core Super Slim Shirt L\\s  Camisa Hombre  Rojo  Bright Russet 9819   XX-Large'
 ---
 
 Tienes [G-STAR RAW Core Super Slim Shirt L\\s  Camisa Hombre  Rojo  Bright Russet 9819   XX-Large](https://www.amazon.es/dp/B07CZH1NNP/?tag=tolees-21) con un 65.79 % de descuento con precio de oferta de 23.93 EUR (original: 69.95 EUR) en el siguiente enlace!

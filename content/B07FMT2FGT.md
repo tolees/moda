@@ -14,7 +14,7 @@ currency: EUR
 price: 17.99
 comparePrice: 25.99 EUR
 inStock: true
-prodname: Bolso porta mascotas sling  mascotas propias Nolso porta mascotas sling seguro  Cómodo  reversible  ajustable  apto Mascotas pequeñas y medianas  perfecto para actividades al aire libre
+prodname: 'Bolso porta mascotas sling  mascotas propias Nolso porta mascotas sling seguro  Cómodo  reversible  ajustable  apto Mascotas pequeñas y medianas  perfecto para actividades al aire libre'
 ---
 
 Tienes [Bolso porta mascotas sling  mascotas propias Nolso porta mascotas sling seguro  Cómodo  reversible  ajustable  apto Mascotas pequeñas y medianas  perfecto para actividades al aire libre](https://www.amazon.es/dp/B07FMT2FGT/?tag=tolees-21) con un 30.78 % de descuento con precio de oferta de 17.99 EUR (original: 25.99 EUR) en el siguiente enlace!

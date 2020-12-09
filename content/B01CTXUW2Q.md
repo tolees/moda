@@ -14,7 +14,7 @@ currency: EUR
 price: 16.29
 comparePrice: 53.55 EUR
 inStock: true
-prodname: Won Hundred Camiseta Manga Corta Marrón S
+prodname: 'Won Hundred Camiseta Manga Corta Marrón S'
 ---
 
 Está [Won Hundred Camiseta Manga Corta Marrón S](https://www.amazon.es/dp/B01CTXUW2Q/?tag=tolees-21) con 69.58 de descuento por 16.29 EUR (original: 53.55 EUR) en el siguiente enlace!

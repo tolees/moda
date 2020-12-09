@@ -14,7 +14,7 @@ currency: EUR
 price: 5.32
 comparePrice: 12.99 EUR
 inStock: true
-prodname: Esprit Kids T-Shirt SS  Camiseta para Niños  Azul  Azuray Blue 443   170  Talla del Fabricante: X-Large 
+prodname: 'Esprit Kids T-Shirt SS  Camiseta para Niños  Azul  Azuray Blue 443   170  Talla del Fabricante: X-Large '
 ---
 
 Ahora mismo tienes [Esprit Kids T-Shirt SS  Camiseta para Niños  Azul  Azuray Blue 443   170  Talla del Fabricante: X-Large ](https://www.amazon.es/dp/B07KFPLH2P/?tag=tolees-21) a 5.32 EUR (original: 12.99 EUR) (59.05 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 19.15
 comparePrice: 35.0 EUR
 inStock: true
-prodname: Levi s 501 Crop T-Shirt Camisa Manga Larga  Multicolour  Agnes Stripe Forged Iron 0011   X-Small para Mujer
+prodname: 'Levi s 501 Crop T-Shirt Camisa Manga Larga  Multicolour  Agnes Stripe Forged Iron 0011   X-Small para Mujer'
 ---
 
 Ahora mismo tienes [Levi s 501 Crop T-Shirt Camisa Manga Larga  Multicolour  Agnes Stripe Forged Iron 0011   X-Small para Mujer](https://www.amazon.es/dp/B07RZLJJJ5/?tag=tolees-21) a 19.15 EUR (original: 35.0 EUR) (45.29 %  de descuento) en el siguiente enlace!

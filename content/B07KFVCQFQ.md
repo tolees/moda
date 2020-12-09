@@ -14,7 +14,7 @@ currency: EUR
 price: 7.8
 comparePrice: 29.99 EUR
 inStock: true
-prodname: edc by Esprit Mujer 019cc1k007 Camisa Manga Larga Not Applicable  Rojo  Dark Red 610   Small
+prodname: 'edc by Esprit Mujer 019cc1k007 Camisa Manga Larga Not Applicable  Rojo  Dark Red 610   Small'
 ---
 
 Ahora mismo tienes [edc by Esprit Mujer 019cc1k007 Camisa Manga Larga Not Applicable  Rojo  Dark Red 610   Small](https://www.amazon.es/dp/B07KFVCQFQ/?tag=tolees-21) a 7.8 EUR (original: 29.99 EUR) (73.99 %  de descuento) en el siguiente enlace!

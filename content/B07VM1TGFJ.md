@@ -14,7 +14,7 @@ currency: EUR
 price: 33.49
 comparePrice: 69.0 EUR
 inStock: true
-prodname: HKT by Hackett Hkt Super Ox Camisa  Blanco  800white 800   40  Talla del Fabricante: Small  para Hombre
+prodname: 'HKT by Hackett Hkt Super Ox Camisa  Blanco  800white 800   40  Talla del Fabricante: Small  para Hombre'
 ---
 
 Está [HKT by Hackett Hkt Super Ox Camisa  Blanco  800white 800   40  Talla del Fabricante: Small  para Hombre](https://www.amazon.es/dp/B07VM1TGFJ/?tag=tolees-21) con 51.46 de descuento por 33.49 EUR (original: 69.0 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 6.9
 comparePrice: 22.95 EUR
 inStock: true
-prodname: Desigual Girl Knit T-Shirt Short Sleeve  TS_Sacramento   Camiseta Niñas  Blanco  White 1000   140  Talla del Fabricante: 9/10 
+prodname: 'Desigual Girl Knit T-Shirt Short Sleeve  TS_Sacramento   Camiseta Niñas  Blanco  White 1000   140  Talla del Fabricante: 9/10 '
 ---
 
 Tienes [Desigual Girl Knit T-Shirt Short Sleeve  TS_Sacramento   Camiseta Niñas  Blanco  White 1000   140  Talla del Fabricante: 9/10 ](https://www.amazon.es/dp/B07H7MNFCK/?tag=tolees-21) con un 69.93 % de descuento con precio de oferta de 6.9 EUR (original: 22.95 EUR) en el siguiente enlace!

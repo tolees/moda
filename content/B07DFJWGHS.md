@@ -14,7 +14,7 @@ currency: EUR
 price: 20.82
 comparePrice: 41 EUR
 inStock: true
-prodname: Calvin Klein Trunk 2pk  Bóxer Hombre  Rojo  Manic Red/Black Gbe   X-Large
+prodname: 'Calvin Klein Trunk 2pk  Bóxer Hombre  Rojo  Manic Red/Black Gbe   X-Large'
 ---
 
 Ahora mismo tienes [Calvin Klein Trunk 2pk  Bóxer Hombre  Rojo  Manic Red/Black Gbe   X-Large](https://www.amazon.es/dp/B07DFJWGHS/?tag=tolees-21) a 20.82 EUR (original: 41 EUR) (49.22 %  de descuento) en el siguiente enlace!

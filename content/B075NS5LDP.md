@@ -14,7 +14,7 @@ currency: EUR
 price: 65.03
 comparePrice: 109.95 EUR
 inStock: true
-prodname: Gore Wear C5 Pantalón Corto Tirantes  Mujer  Negro  34
+prodname: 'Gore Wear C5 Pantalón Corto Tirantes  Mujer  Negro  34'
 ---
 
 Está [Gore Wear C5 Pantalón Corto Tirantes  Mujer  Negro  34](https://www.amazon.es/dp/B075NS5LDP/?tag=tolees-21) con 40.85 de descuento por 65.03 EUR (original: 109.95 EUR) en el siguiente enlace!

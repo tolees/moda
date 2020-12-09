@@ -14,7 +14,7 @@ currency: EUR
 price: 59.99
 comparePrice: 84.95 EUR
 inStock: true
-prodname: Adidas Temporada 2020/21 Chaqueta Cortavientos Oficial  Unisex  Blanco  M
+prodname: 'Adidas Temporada 2020/21 Chaqueta Cortavientos Oficial  Unisex  Blanco  M'
 ---
 
 Tienes [Adidas Temporada 2020/21 Chaqueta Cortavientos Oficial  Unisex  Blanco  M](https://www.amazon.es/dp/B08CPLFHCS/?tag=tolees-21) con un 29.38 % de descuento con precio de oferta de 59.99 EUR (original: 84.95 EUR) en el siguiente enlace!

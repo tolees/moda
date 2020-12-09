@@ -14,7 +14,7 @@ currency: EUR
 price: 9.27
 comparePrice: 27.47 EUR
 inStock: true
-prodname: Pour Moi? Mini Maxi Underwired Top Parte de Arriba de Bikini  Rojo  Red Red   95L  Talla del Fabricante: 36HH  para Mujer
+prodname: 'Pour Moi? Mini Maxi Underwired Top Parte de Arriba de Bikini  Rojo  Red Red   95L  Talla del Fabricante: 36HH  para Mujer'
 ---
 
 Está [Pour Moi? Mini Maxi Underwired Top Parte de Arriba de Bikini  Rojo  Red Red   95L  Talla del Fabricante: 36HH  para Mujer](https://www.amazon.es/dp/B07RS7N8DR/?tag=tolees-21) con 66.25 de descuento por 9.27 EUR (original: 27.47 EUR) en el siguiente enlace!

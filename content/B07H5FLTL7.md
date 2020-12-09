@@ -14,7 +14,7 @@ currency: EUR
 price: 14.49
 comparePrice: 24.99 EUR
 inStock: true
-prodname: CLUB CUBANA Camisa Hawaiana Florar Casual Manga Corta Ajuste Regular para Hombre S
+prodname: 'CLUB CUBANA Camisa Hawaiana Florar Casual Manga Corta Ajuste Regular para Hombre S'
 ---
 
 Está [CLUB CUBANA Camisa Hawaiana Florar Casual Manga Corta Ajuste Regular para Hombre S](https://www.amazon.es/dp/B07H5FLTL7/?tag=tolees-21) con 42.02 de descuento por 14.49 EUR (original: 24.99 EUR) en el siguiente enlace!

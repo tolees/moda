@@ -14,7 +14,7 @@ currency: EUR
 price: 0.6
 comparePrice: 2.26 EUR
 inStock: true
-prodname: OPAKY Tubos de Soplado y Bolas - Piñata de Juguete Botines / Rellenos para Bolsas de Fiesta Boda / Niños Juguetes educativos
+prodname: 'OPAKY Tubos de Soplado y Bolas - Piñata de Juguete Botines / Rellenos para Bolsas de Fiesta Boda / Niños Juguetes educativos'
 ---
 
 Tienes [OPAKY Tubos de Soplado y Bolas - Piñata de Juguete Botines / Rellenos para Bolsas de Fiesta Boda / Niños Juguetes educativos](https://www.amazon.es/dp/B07PKLFB81/?tag=tolees-21) con un 73.45 % de descuento con precio de oferta de 0.6 EUR (original: 2.26 EUR) en el siguiente enlace!

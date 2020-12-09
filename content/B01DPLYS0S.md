@@ -14,7 +14,7 @@ currency: EUR
 price: 15.75
 comparePrice: 75 EUR
 inStock: true
-prodname: Les Sophistiquees - Canotta  Pack  Blusa Mujer  Blanco  S
+prodname: 'Les Sophistiquees - Canotta  Pack  Blusa Mujer  Blanco  S'
 ---
 
 Está [Les Sophistiquees - Canotta  Pack  Blusa Mujer  Blanco  S](https://www.amazon.es/dp/B01DPLYS0S/?tag=tolees-21) con 79.00 de descuento por 15.75 EUR (original: 75 EUR) en el siguiente enlace!

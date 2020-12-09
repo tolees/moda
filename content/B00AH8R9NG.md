@@ -14,7 +14,7 @@ currency: EUR
 price: 32.14
 comparePrice: 115 EUR
 inStock: true
-prodname: Tuscany Silver Collar cadena Mujer plata - 8.19.6905
+prodname: 'Tuscany Silver Collar cadena Mujer plata - 8.19.6905'
 ---
 
 Tienes [Tuscany Silver Collar cadena Mujer plata - 8.19.6905](https://www.amazon.es/dp/B00AH8R9NG/?tag=tolees-21) con un 72.05 % de descuento con precio de oferta de 32.14 EUR (original: 115 EUR) en el siguiente enlace!

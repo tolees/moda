@@ -14,7 +14,7 @@ currency: EUR
 price: 24.99
 comparePrice: 99.9 EUR
 inStock: true
-prodname: Geox D Theragon a  Zapatillas para Mujer  Black C9999  38 EU
+prodname: 'Geox D Theragon a  Zapatillas para Mujer  Black C9999  38 EU'
 ---
 
 Está [Geox D Theragon a  Zapatillas para Mujer  Black C9999  38 EU](https://www.amazon.es/dp/B07DJ7QN8D/?tag=tolees-21) con 74.98 de descuento por 24.99 EUR (original: 99.9 EUR) en el siguiente enlace!

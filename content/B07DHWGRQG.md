@@ -14,7 +14,7 @@ currency: EUR
 price: 46.97
 comparePrice: 150 EUR
 inStock: true
-prodname: Diesel TR  Vaqueros Straight para Hombre  Azul  01 Blue Denim 085aq  W31/L34
+prodname: 'Diesel TR  Vaqueros Straight para Hombre  Azul  01 Blue Denim 085aq  W31/L34'
 ---
 
 Tienes [Diesel TR  Vaqueros Straight para Hombre  Azul  01 Blue Denim 085aq  W31/L34](https://www.amazon.es/dp/B07DHWGRQG/?tag=tolees-21) con un 68.69 % de descuento con precio de oferta de 46.97 EUR (original: 150 EUR) en el siguiente enlace!

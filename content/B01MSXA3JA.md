@@ -14,7 +14,7 @@ currency: EUR
 price: 93.95
 comparePrice: 140.0 EUR
 inStock: true
-prodname: Timberland Adventure 2.0 Cupsole Chukka  Zapatillas para Hombre  Verde Dark Olive  40 EU
+prodname: 'Timberland Adventure 2.0 Cupsole Chukka  Zapatillas para Hombre  Verde Dark Olive  40 EU'
 ---
 
 Tienes [Timberland Adventure 2.0 Cupsole Chukka  Zapatillas para Hombre  Verde Dark Olive  40 EU](https://www.amazon.es/dp/B01MSXA3JA/?tag=tolees-21) con un 32.89 % de descuento con precio de oferta de 93.95 EUR (original: 140.0 EUR) en el siguiente enlace!

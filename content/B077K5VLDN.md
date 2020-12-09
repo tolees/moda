@@ -14,7 +14,7 @@ currency: EUR
 price: 31.48
 comparePrice: 99 EUR
 inStock: true
-prodname: REPLAY Grover  Vaqueros Slim Hombre  Azul  Light Blue 9   W33/L34  Talla del Fabricante: 33 
+prodname: 'REPLAY Grover  Vaqueros Slim Hombre  Azul  Light Blue 9   W33/L34  Talla del Fabricante: 33 '
 ---
 
 Tienes [REPLAY Grover  Vaqueros Slim Hombre  Azul  Light Blue 9   W33/L34  Talla del Fabricante: 33 ](https://www.amazon.es/dp/B077K5VLDN/?tag=tolees-21) con un 68.20 % de descuento con precio de oferta de 31.48 EUR (original: 99 EUR) en el siguiente enlace!

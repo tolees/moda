@@ -14,7 +14,7 @@ currency: EUR
 price: 8.03
 comparePrice: 38.51 EUR
 inStock: true
-prodname: s.Oliver in Velouroptik  Chaqueta para Niños  Blau  Dark Blue 5834  14 años
+prodname: 's.Oliver in Velouroptik  Chaqueta para Niños  Blau  Dark Blue 5834  14 años'
 ---
 
 Está [s.Oliver in Velouroptik  Chaqueta para Niños  Blau  Dark Blue 5834  14 años](https://www.amazon.es/dp/B01EYJ2YB0/?tag=tolees-21) con 79.15 de descuento por 8.03 EUR (original: 38.51 EUR) en el siguiente enlace!

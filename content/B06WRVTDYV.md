@@ -14,7 +14,7 @@ currency: EUR
 price: 92.49
 comparePrice: 164 EUR
 inStock: true
-prodname: Carrera 141/S 70 J5G  Gafas de Sol Unisex-Adulto  Dorado  Gold/Brown   51
+prodname: 'Carrera 141/S 70 J5G  Gafas de Sol Unisex-Adulto  Dorado  Gold/Brown   51'
 ---
 
 Tienes [Carrera 141/S 70 J5G  Gafas de Sol Unisex-Adulto  Dorado  Gold/Brown   51](https://www.amazon.es/dp/B06WRVTDYV/?tag=tolees-21) con un 43.60 % de descuento con precio de oferta de 92.49 EUR (original: 164 EUR) en el siguiente enlace!

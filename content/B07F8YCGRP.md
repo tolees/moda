@@ -14,7 +14,7 @@ currency: EUR
 price: 29.95
 comparePrice: 99.99 EUR
 inStock: true
-prodname: JACK & JONES Jornew Bento Parka Jacket  Hombre  Azul  Total Eclipse Total Eclipse   XX-Large
+prodname: 'JACK & JONES Jornew Bento Parka Jacket  Hombre  Azul  Total Eclipse Total Eclipse   XX-Large'
 ---
 
 Ahora mismo tienes [JACK & JONES Jornew Bento Parka Jacket  Hombre  Azul  Total Eclipse Total Eclipse   XX-Large](https://www.amazon.es/dp/B07F8YCGRP/?tag=tolees-21) a 29.95 EUR (original: 99.99 EUR) (70.05 %  de descuento) en el siguiente enlace!

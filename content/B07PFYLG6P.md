@@ -14,7 +14,7 @@ currency: EUR
 price: 44.9
 comparePrice: 59.9 EUR
 inStock: true
-prodname: Scalpers New Oxford BD Camisa Casual  Azul  Dark Blue 18362   XX-Small  Tamaño del Fabricante:38  para Hombre
+prodname: 'Scalpers New Oxford BD Camisa Casual  Azul  Dark Blue 18362   XX-Small  Tamaño del Fabricante:38  para Hombre'
 ---
 
 Está [Scalpers New Oxford BD Camisa Casual  Azul  Dark Blue 18362   XX-Small  Tamaño del Fabricante:38  para Hombre](https://www.amazon.es/dp/B07PFYLG6P/?tag=tolees-21) con 25.04 de descuento por 44.9 EUR (original: 59.9 EUR) en el siguiente enlace!

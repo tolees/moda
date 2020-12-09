@@ -14,7 +14,7 @@ currency: EUR
 price: 45.04
 comparePrice: 110.0 EUR
 inStock: true
-prodname: Levi s 510 Skinny Fit  Vaqueros para Hombre  Azul  Ivy Adv 0941   W27/L32
+prodname: 'Levi s 510 Skinny Fit  Vaqueros para Hombre  Azul  Ivy Adv 0941   W27/L32'
 ---
 
 Está [Levi s 510 Skinny Fit  Vaqueros para Hombre  Azul  Ivy Adv 0941   W27/L32](https://www.amazon.es/dp/B07KF4QXCM/?tag=tolees-21) con 59.05 de descuento por 45.04 EUR (original: 110.0 EUR) en el siguiente enlace!

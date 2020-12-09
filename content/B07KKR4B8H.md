@@ -14,7 +14,7 @@ currency: EUR
 price: 14.71
 comparePrice: 38 EUR
 inStock: true
-prodname: Naf Naf Kenc36 Blusa  Azul  Bleu Marine 567   34 para Mujer
+prodname: 'Naf Naf Kenc36 Blusa  Azul  Bleu Marine 567   34 para Mujer'
 ---
 
 Está [Naf Naf Kenc36 Blusa  Azul  Bleu Marine 567   34 para Mujer](https://www.amazon.es/dp/B07KKR4B8H/?tag=tolees-21) con 61.29 de descuento por 14.71 EUR (original: 38 EUR) en el siguiente enlace!

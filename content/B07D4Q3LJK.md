@@ -14,7 +14,7 @@ currency: EUR
 price: 5.67
 comparePrice: 25.93 EUR
 inStock: true
-prodname: Marca Amazon - find. Stitched Crew - suéter Hombre  Gris  Charcoal   XXL  Label: XXL
+prodname: 'Marca Amazon - find. Stitched Crew - suéter Hombre  Gris  Charcoal   XXL  Label: XXL'
 ---
 
 Tienes [Marca Amazon - find. Stitched Crew - suéter Hombre  Gris  Charcoal   XXL  Label: XXL](https://www.amazon.es/dp/B07D4Q3LJK/?tag=tolees-21) con un 78.13 % de descuento con precio de oferta de 5.67 EUR (original: 25.93 EUR) en el siguiente enlace!

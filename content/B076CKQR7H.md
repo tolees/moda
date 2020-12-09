@@ -14,7 +14,7 @@ currency: EUR
 price: 16.99
 comparePrice: 29.99 EUR
 inStock: true
-prodname: Evolution Super Son Camiseta para Niños T-Shirt Goku Dragon Master Ball Vegeta Turtle Roshi Db  Farbe2:Negro;Kinder T-Shirt Größe:98/104
+prodname: 'Evolution Super Son Camiseta para Niños T-Shirt Goku Dragon Master Ball Vegeta Turtle Roshi Db  Farbe2:Negro;Kinder T-Shirt Größe:98/104'
 ---
 
 Ahora mismo tienes [Evolution Super Son Camiseta para Niños T-Shirt Goku Dragon Master Ball Vegeta Turtle Roshi Db  Farbe2:Negro;Kinder T-Shirt Größe:98/104](https://www.amazon.es/dp/B076CKQR7H/?tag=tolees-21) a 16.99 EUR (original: 29.99 EUR) (43.35 %  de descuento) en el siguiente enlace!

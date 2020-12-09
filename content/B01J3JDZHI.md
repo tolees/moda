@@ -14,7 +14,7 @@ currency: EUR
 price: 14.95
 comparePrice: 24.99 EUR
 inStock: true
-prodname: Columbia CSC Basic Logo Camiseta  Hombre  Gris Grey Heather  XL
+prodname: 'Columbia CSC Basic Logo Camiseta  Hombre  Gris Grey Heather  XL'
 ---
 
 Está [Columbia CSC Basic Logo Camiseta  Hombre  Gris Grey Heather  XL](https://www.amazon.es/dp/B01J3JDZHI/?tag=tolees-21) con 40.18 de descuento por 14.95 EUR (original: 24.99 EUR) en el siguiente enlace!

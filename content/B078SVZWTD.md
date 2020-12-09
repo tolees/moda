@@ -14,7 +14,7 @@ currency: EUR
 price: 49.73
 comparePrice: 129 EUR
 inStock: true
-prodname: Gant A-Line Twill Midi-Skirt  Falda Mujer  Blanco  White   40  Talla del Fabricante: 38 
+prodname: 'Gant A-Line Twill Midi-Skirt  Falda Mujer  Blanco  White   40  Talla del Fabricante: 38 '
 ---
 
 Ahora mismo tienes [Gant A-Line Twill Midi-Skirt  Falda Mujer  Blanco  White   40  Talla del Fabricante: 38 ](https://www.amazon.es/dp/B078SVZWTD/?tag=tolees-21) a 49.73 EUR (original: 129 EUR) (61.45 %  de descuento) en el siguiente enlace!

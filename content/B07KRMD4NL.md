@@ -14,7 +14,7 @@ currency: EUR
 price: 18.83
 comparePrice: 34.99 EUR
 inStock: true
-prodname: Columbia Mujer Camiseta  ZERO RULES SHORT SLEEVE SHIRT  Poliéster  Rojo  Coral Bloom Heather   Talla: M  1533571
+prodname: 'Columbia Mujer Camiseta  ZERO RULES SHORT SLEEVE SHIRT  Poliéster  Rojo  Coral Bloom Heather   Talla: M  1533571'
 ---
 
 Ahora mismo tienes [Columbia Mujer Camiseta  ZERO RULES SHORT SLEEVE SHIRT  Poliéster  Rojo  Coral Bloom Heather   Talla: M  1533571](https://www.amazon.es/dp/B07KRMD4NL/?tag=tolees-21) a 18.83 EUR (original: 34.99 EUR) (46.18 %  de descuento) en el siguiente enlace!

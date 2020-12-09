@@ -14,7 +14,7 @@ currency: EUR
 price: 15.57
 comparePrice: 24.95 EUR
 inStock: true
-prodname: Jack & Jones Sense Trunks 3-Pack Bóxer  Gris  Light Grey Melange   Medium  Pack de 3  para Hombre
+prodname: 'Jack & Jones Sense Trunks 3-Pack Bóxer  Gris  Light Grey Melange   Medium  Pack de 3  para Hombre'
 ---
 
 Tienes [Jack & Jones Sense Trunks 3-Pack Bóxer  Gris  Light Grey Melange   Medium  Pack de 3  para Hombre](https://www.amazon.es/dp/B00WWPEPFC/?tag=tolees-21) con un 37.60 % de descuento con precio de oferta de 15.57 EUR (original: 24.95 EUR) en el siguiente enlace!

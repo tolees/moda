@@ -14,7 +14,7 @@ currency: EUR
 price: 64.95
 comparePrice: 129.9 EUR
 inStock: true
-prodname: Geox Donna Brogue A  Botas Chelsea para Mujer  Azul  Navy   35 EU
+prodname: 'Geox Donna Brogue A  Botas Chelsea para Mujer  Azul  Navy   35 EU'
 ---
 
 Tienes [Geox Donna Brogue A  Botas Chelsea para Mujer  Azul  Navy   35 EU](https://www.amazon.es/dp/B07DJ34TMR/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 64.95 EUR (original: 129.9 EUR) en el siguiente enlace!

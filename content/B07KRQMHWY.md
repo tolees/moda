@@ -14,7 +14,7 @@ currency: EUR
 price: 38.45
 comparePrice: 54.95 EUR
 inStock: true
-prodname: Gioseppo 48912  Sandalias con Punta Abierta para Mujer  Verde  Camuflaje 000   38 EU
+prodname: 'Gioseppo 48912  Sandalias con Punta Abierta para Mujer  Verde  Camuflaje 000   38 EU'
 ---
 
 Está [Gioseppo 48912  Sandalias con Punta Abierta para Mujer  Verde  Camuflaje 000   38 EU](https://www.amazon.es/dp/B07KRQMHWY/?tag=tolees-21) con 30.03 de descuento por 38.45 EUR (original: 54.95 EUR) en el siguiente enlace!

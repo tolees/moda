@@ -14,7 +14,7 @@ currency: EUR
 price: 17.91
 comparePrice: 39.99 EUR
 inStock: true
-prodname: Under Armour Rival Logo Hoody Sudadera con Capucha  Niños  Marrón  Silt Brown/Onyx White 221   YMD
+prodname: 'Under Armour Rival Logo Hoody Sudadera con Capucha  Niños  Marrón  Silt Brown/Onyx White 221   YMD'
 ---
 
 Ahora mismo tienes [Under Armour Rival Logo Hoody Sudadera con Capucha  Niños  Marrón  Silt Brown/Onyx White 221   YMD](https://www.amazon.es/dp/B07KGYCVCC/?tag=tolees-21) a 17.91 EUR (original: 39.99 EUR) (55.21 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 27.99
 comparePrice: 39.99 EUR
 inStock: true
-prodname: Adidas CORE18 SW Top Sudadera  Hombre  Azul  Azul/Blanco   XS
+prodname: 'Adidas CORE18 SW Top Sudadera  Hombre  Azul  Azul/Blanco   XS'
 ---
 
 Tienes [Adidas CORE18 SW Top Sudadera  Hombre  Azul  Azul/Blanco   XS](https://www.amazon.es/dp/B076HQRJL2/?tag=tolees-21) con un 30.01 % de descuento con precio de oferta de 27.99 EUR (original: 39.99 EUR) en el siguiente enlace!

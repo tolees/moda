@@ -14,7 +14,7 @@ currency: EUR
 price: 18.99
 comparePrice: 30.99 EUR
 inStock: true
-prodname: Bolsa Bandolera Hombre Pequeño Bolso de Mensajero de Lona Mini Messenger Bag Bolsos a Hombro con Mosquetón clip para iPad Mini Deporte  Trabajo  Casual  Viajes Marrón Hengwin
+prodname: 'Bolsa Bandolera Hombre Pequeño Bolso de Mensajero de Lona Mini Messenger Bag Bolsos a Hombro con Mosquetón clip para iPad Mini Deporte  Trabajo  Casual  Viajes Marrón Hengwin'
 ---
 
 Tienes [Bolsa Bandolera Hombre Pequeño Bolso de Mensajero de Lona Mini Messenger Bag Bolsos a Hombro con Mosquetón clip para iPad Mini Deporte  Trabajo  Casual  Viajes Marrón Hengwin](https://www.amazon.es/dp/B076CKZWC1/?tag=tolees-21) con un 38.72 % de descuento con precio de oferta de 18.99 EUR (original: 30.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 14.52
 comparePrice: 49.95 EUR
 inStock: true
-prodname: Desires 9189100 Chaqueta Deportiva  Azul  Peacoat   Medium  Tamaño del Fabricante:M  para Mujer
+prodname: 'Desires 9189100 Chaqueta Deportiva  Azul  Peacoat   Medium  Tamaño del Fabricante:M  para Mujer'
 ---
 
 Tienes [Desires 9189100 Chaqueta Deportiva  Azul  Peacoat   Medium  Tamaño del Fabricante:M  para Mujer](https://www.amazon.es/dp/B077GTWXGQ/?tag=tolees-21) con un 70.93 % de descuento con precio de oferta de 14.52 EUR (original: 49.95 EUR) en el siguiente enlace!

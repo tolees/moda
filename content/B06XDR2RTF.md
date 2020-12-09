@@ -14,7 +14,7 @@ currency: EUR
 price: 6.51
 comparePrice: 13.5 EUR
 inStock: true
-prodname: Joma Champion IV M/C Camiseta Equipamiento  Hombre  Rosa/Negro  XL
+prodname: 'Joma Champion IV M/C Camiseta Equipamiento  Hombre  Rosa/Negro  XL'
 ---
 
 Está [Joma Champion IV M/C Camiseta Equipamiento  Hombre  Rosa/Negro  XL](https://www.amazon.es/dp/B06XDR2RTF/?tag=tolees-21) con 51.78 de descuento por 6.51 EUR (original: 13.5 EUR) en el siguiente enlace!

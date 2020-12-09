@@ -14,7 +14,7 @@ currency: EUR
 price: 11.95
 comparePrice: 21.63 EUR
 inStock: true
-prodname: Superdry AOP Flip Flop  Zapatos de Playa y Piscina para Mujer  Multicolor  Neon Tropical Yv7   40-41 EU
+prodname: 'Superdry AOP Flip Flop  Zapatos de Playa y Piscina para Mujer  Multicolor  Neon Tropical Yv7   40-41 EU'
 ---
 
 Ahora mismo tienes [Superdry AOP Flip Flop  Zapatos de Playa y Piscina para Mujer  Multicolor  Neon Tropical Yv7   40-41 EU](https://www.amazon.es/dp/B07KCQV9S2/?tag=tolees-21) a 11.95 EUR (original: 21.63 EUR) (44.75 %  de descuento) en el siguiente enlace!

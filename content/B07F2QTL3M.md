@@ -14,7 +14,7 @@ currency: EUR
 price: 23.95
 comparePrice: 60 EUR
 inStock: true
-prodname: Vans Otw Crew Sudadera  Rojo  Rhumba Red White Tda   Large para Hombre
+prodname: 'Vans Otw Crew Sudadera  Rojo  Rhumba Red White Tda   Large para Hombre'
 ---
 
 Ahora mismo tienes [Vans Otw Crew Sudadera  Rojo  Rhumba Red White Tda   Large para Hombre](https://www.amazon.es/dp/B07F2QTL3M/?tag=tolees-21) a 23.95 EUR (original: 60 EUR) (60.08 %  de descuento) en el siguiente enlace!

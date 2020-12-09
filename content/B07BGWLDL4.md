@@ -14,7 +14,7 @@ currency: EUR
 price: 6.98
 comparePrice: 29.99 EUR
 inStock: true
-prodname: COLLEER Sujetador Adhesivo  Profesional Push Up De Silicona Bra Invisible Adhesivo Reutilizable sin Tirantes Espalda para Mujer para El Vestido de La Boda  B  Beige 
+prodname: 'COLLEER Sujetador Adhesivo  Profesional Push Up De Silicona Bra Invisible Adhesivo Reutilizable sin Tirantes Espalda para Mujer para El Vestido de La Boda  B  Beige '
 ---
 
 Ahora mismo tienes [COLLEER Sujetador Adhesivo  Profesional Push Up De Silicona Bra Invisible Adhesivo Reutilizable sin Tirantes Espalda para Mujer para El Vestido de La Boda  B  Beige ](https://www.amazon.es/dp/B07BGWLDL4/?tag=tolees-21) a 6.98 EUR (original: 29.99 EUR) (76.73 %  de descuento) en el siguiente enlace!

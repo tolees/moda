@@ -14,7 +14,7 @@ currency: EUR
 price: 8.95
 comparePrice: 29.51 EUR
 inStock: true
-prodname: Marca Amazon - find. Regular Oxford - Camisa Hombre  Oro  óxido   M  Label: M
+prodname: 'Marca Amazon - find. Regular Oxford - Camisa Hombre  Oro  óxido   M  Label: M'
 ---
 
 Ahora mismo tienes [Marca Amazon - find. Regular Oxford - Camisa Hombre  Oro  óxido   M  Label: M](https://www.amazon.es/dp/B07N45BKDT/?tag=tolees-21) a 8.95 EUR (original: 29.51 EUR) (69.67 %  de descuento) en el siguiente enlace!

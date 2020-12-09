@@ -14,7 +14,7 @@ currency: EUR
 price: 12.66
 comparePrice: 49.95 EUR
 inStock: true
-prodname: XTI 047202  Botines para Mujer  Rojo  Burdeos   38 EU
+prodname: 'XTI 047202  Botines para Mujer  Rojo  Burdeos   38 EU'
 ---
 
 Tienes [XTI 047202  Botines para Mujer  Rojo  Burdeos   38 EU](https://www.amazon.es/dp/B071R4GPQL/?tag=tolees-21) con un 74.65 % de descuento con precio de oferta de 12.66 EUR (original: 49.95 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 24.87
 comparePrice: 59.99 EUR
 inStock: true
-prodname: Seidensticker Modern Kurzarm Mit Kent Kragen Bügelfrei  Camisa Hombre  Azul  Hellblau 13   40  Talla del Fabricante: 38 
+prodname: 'Seidensticker Modern Kurzarm Mit Kent Kragen Bügelfrei  Camisa Hombre  Azul  Hellblau 13   40  Talla del Fabricante: 38 '
 ---
 
 Ahora mismo tienes [Seidensticker Modern Kurzarm Mit Kent Kragen Bügelfrei  Camisa Hombre  Azul  Hellblau 13   40  Talla del Fabricante: 38 ](https://www.amazon.es/dp/B07FY3H9DB/?tag=tolees-21) a 24.87 EUR (original: 59.99 EUR) (58.54 %  de descuento) en el siguiente enlace!

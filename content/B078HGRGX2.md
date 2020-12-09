@@ -14,7 +14,7 @@ currency: EUR
 price: 17.94
 comparePrice: 29.99 EUR
 inStock: true
-prodname: Springfield 1503391  Camisa Casual para Hombre   Gama Azules   Small  Tamaño del Fabricante:S 
+prodname: 'Springfield 1503391  Camisa Casual para Hombre   Gama Azules   Small  Tamaño del Fabricante:S '
 ---
 
 Está [Springfield 1503391  Camisa Casual para Hombre   Gama Azules   Small  Tamaño del Fabricante:S ](https://www.amazon.es/dp/B078HGRGX2/?tag=tolees-21) con 40.18 de descuento por 17.94 EUR (original: 29.99 EUR) en el siguiente enlace!

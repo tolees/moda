@@ -14,7 +14,7 @@ currency: EUR
 price: 17.95
 comparePrice: 25 EUR
 inStock: true
-prodname: Vans Colorblock tee  Camiseta para Hombre  Azul  Dress Blues-White Short  Medium
+prodname: 'Vans Colorblock tee  Camiseta para Hombre  Azul  Dress Blues-White Short  Medium'
 ---
 
 Tienes [Vans Colorblock tee  Camiseta para Hombre  Azul  Dress Blues-White Short  Medium](https://www.amazon.es/dp/B07F31MVPQ/?tag=tolees-21) con un 28.20 % de descuento con precio de oferta de 17.95 EUR (original: 25 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 9.99
 comparePrice: 29.99 EUR
 inStock: true
-prodname: Springfield 4.J.Ap.T.D.Lace Frontal Jersey  Mujer  Azul  Gama Azules 19   Medium  Tamaño del Fabricante:M 
+prodname: 'Springfield 4.J.Ap.T.D.Lace Frontal Jersey  Mujer  Azul  Gama Azules 19   Medium  Tamaño del Fabricante:M '
 ---
 
 Tienes [Springfield 4.J.Ap.T.D.Lace Frontal Jersey  Mujer  Azul  Gama Azules 19   Medium  Tamaño del Fabricante:M ](https://www.amazon.es/dp/B07KYXV7JR/?tag=tolees-21) con un 66.69 % de descuento con precio de oferta de 9.99 EUR (original: 29.99 EUR) en el siguiente enlace!

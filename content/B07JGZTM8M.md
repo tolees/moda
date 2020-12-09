@@ -14,7 +14,7 @@ currency: EUR
 price: 21.45
 comparePrice: 39.75 EUR
 inStock: true
-prodname: Superdry Low Roller tee Camiseta  Azul  Harrington Navy PX2   XL para Hombre
+prodname: 'Superdry Low Roller tee Camiseta  Azul  Harrington Navy PX2   XL para Hombre'
 ---
 
 Está [Superdry Low Roller tee Camiseta  Azul  Harrington Navy PX2   XL para Hombre](https://www.amazon.es/dp/B07JGZTM8M/?tag=tolees-21) con 46.04 de descuento por 21.45 EUR (original: 39.75 EUR) en el siguiente enlace!

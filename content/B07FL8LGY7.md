@@ -14,7 +14,7 @@ currency: EUR
 price: 27.19
 comparePrice: 75 EUR
 inStock: true
-prodname: Superdry Vintage Logo Panel Stripe Crew  Sudadera para Hombre  Azul  Cobalt Blast Blue Vr5  X-Small
+prodname: 'Superdry Vintage Logo Panel Stripe Crew  Sudadera para Hombre  Azul  Cobalt Blast Blue Vr5  X-Small'
 ---
 
 Ahora mismo tienes [Superdry Vintage Logo Panel Stripe Crew  Sudadera para Hombre  Azul  Cobalt Blast Blue Vr5  X-Small](https://www.amazon.es/dp/B07FL8LGY7/?tag=tolees-21) a 27.19 EUR (original: 75 EUR) (63.75 %  de descuento) en el siguiente enlace!

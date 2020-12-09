@@ -14,7 +14,7 @@ currency: EUR
 price: 26.06
 comparePrice: 65 EUR
 inStock: true
-prodname: Pepe Jeans Scott Sudadera   Grey Marl 933   Small para Hombre
+prodname: 'Pepe Jeans Scott Sudadera   Grey Marl 933   Small para Hombre'
 ---
 
 Está [Pepe Jeans Scott Sudadera   Grey Marl 933   Small para Hombre](https://www.amazon.es/dp/B07CS9WXXK/?tag=tolees-21) con 59.91 de descuento por 26.06 EUR (original: 65 EUR) en el siguiente enlace!

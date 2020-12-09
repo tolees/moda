@@ -14,7 +14,7 @@ currency: EUR
 price: 14.95
 comparePrice: 39.9 EUR
 inStock: true
-prodname: L. Bo Apparel - Camisa Formal - Clásico - Manga Larga - para Hombre Azul XX-Large
+prodname: 'L. Bo Apparel - Camisa Formal - Clásico - Manga Larga - para Hombre Azul XX-Large'
 ---
 
 Tienes [L. Bo Apparel - Camisa Formal - Clásico - Manga Larga - para Hombre Azul XX-Large](https://www.amazon.es/dp/B071LJR3NM/?tag=tolees-21) con un 62.53 % de descuento con precio de oferta de 14.95 EUR (original: 39.9 EUR) en el siguiente enlace!

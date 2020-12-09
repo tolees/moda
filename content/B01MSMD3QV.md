@@ -14,7 +14,7 @@ currency: EUR
 price: 56.95
 comparePrice: 95 EUR
 inStock: true
-prodname: Pepe Jeans Kingston Zip  Vaqueros Regular para Hombre  Azul  12Oz Rope Dye Glory Dk W53   W38/L36
+prodname: 'Pepe Jeans Kingston Zip  Vaqueros Regular para Hombre  Azul  12Oz Rope Dye Glory Dk W53   W38/L36'
 ---
 
 Tienes [Pepe Jeans Kingston Zip  Vaqueros Regular para Hombre  Azul  12Oz Rope Dye Glory Dk W53   W38/L36](https://www.amazon.es/dp/B01MSMD3QV/?tag=tolees-21) con un 40.05 % de descuento con precio de oferta de 56.95 EUR (original: 95 EUR) en el siguiente enlace!

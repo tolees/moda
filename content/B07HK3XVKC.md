@@ -14,7 +14,7 @@ currency: EUR
 price: 19.78
 comparePrice: 56.89 EUR
 inStock: true
-prodname: IIIIS-F Zapatos de Deporte y Aire Libre Zapatillas Deportivas Respirables para Hombre
+prodname: 'IIIIS-F Zapatos de Deporte y Aire Libre Zapatillas Deportivas Respirables para Hombre'
 ---
 
 Tienes [IIIIS-F Zapatos de Deporte y Aire Libre Zapatillas Deportivas Respirables para Hombre](https://www.amazon.es/dp/B07HK3XVKC/?tag=tolees-21) con un 65.23 % de descuento con precio de oferta de 19.78 EUR (original: 56.89 EUR) en el siguiente enlace!

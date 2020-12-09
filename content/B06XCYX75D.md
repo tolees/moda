@@ -14,7 +14,7 @@ currency: EUR
 price: 60.82
 comparePrice: 136.67 EUR
 inStock: true
-prodname: Timberland Killington  Botas Clasicas para Hombre  Negro  Black Nubuck 1   45.5 EU
+prodname: 'Timberland Killington  Botas Clasicas para Hombre  Negro  Black Nubuck 1   45.5 EU'
 ---
 
 Ahora mismo tienes [Timberland Killington  Botas Clasicas para Hombre  Negro  Black Nubuck 1   45.5 EU](https://www.amazon.es/dp/B06XCYX75D/?tag=tolees-21) a 60.82 EUR (original: 136.67 EUR) (55.50 %  de descuento) en el siguiente enlace!

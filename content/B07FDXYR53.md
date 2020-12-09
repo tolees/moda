@@ -14,7 +14,7 @@ currency: EUR
 price: 30.99
 comparePrice: 70.99 EUR
 inStock: true
-prodname: Mochila Hombre Vintage Mochila Bolso Mujer Antirrobo Mochila Portatil 15 6 Pulgadas Trabajo Impermeable Camping Deportiva Casual College Daypack  Negro
+prodname: 'Mochila Hombre Vintage Mochila Bolso Mujer Antirrobo Mochila Portatil 15 6 Pulgadas Trabajo Impermeable Camping Deportiva Casual College Daypack  Negro'
 ---
 
 Tienes [Mochila Hombre Vintage Mochila Bolso Mujer Antirrobo Mochila Portatil 15 6 Pulgadas Trabajo Impermeable Camping Deportiva Casual College Daypack  Negro](https://www.amazon.es/dp/B07FDXYR53/?tag=tolees-21) con un 56.35 % de descuento con precio de oferta de 30.99 EUR (original: 70.99 EUR) en el siguiente enlace!

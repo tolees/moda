@@ -14,7 +14,7 @@ currency: EUR
 price: 65.43
 comparePrice: 90.0 EUR
 inStock: true
-prodname: Levi s 501 Original Fit Jeans Vaqueros  Black 0165  32W / 32L para Hombre
+prodname: 'Levi s 501 Original Fit Jeans Vaqueros  Black 0165  32W / 32L para Hombre'
 ---
 
 Está [Levi s 501 Original Fit Jeans Vaqueros  Black 0165  32W / 32L para Hombre](https://www.amazon.es/dp/B001QOE6EU/?tag=tolees-21) con 27.30 de descuento por 65.43 EUR (original: 90.0 EUR) en el siguiente enlace!

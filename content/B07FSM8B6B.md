@@ -14,7 +14,7 @@ currency: EUR
 price: 12.5
 comparePrice: 25 EUR
 inStock: true
-prodname: Lee Logo tee Camiseta  Rojo  Bright Red EF   Medium para Mujer
+prodname: 'Lee Logo tee Camiseta  Rojo  Bright Red EF   Medium para Mujer'
 ---
 
 Tienes [Lee Logo tee Camiseta  Rojo  Bright Red EF   Medium para Mujer](https://www.amazon.es/dp/B07FSM8B6B/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 12.5 EUR (original: 25 EUR) en el siguiente enlace!

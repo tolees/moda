@@ -14,7 +14,7 @@ currency: EUR
 price: 59.24
 comparePrice: 119.99 EUR
 inStock: true
-prodname: Columbia Pantalón de esquí para Mujer  Bugaboo Oh  Blanco  M
+prodname: 'Columbia Pantalón de esquí para Mujer  Bugaboo Oh  Blanco  M'
 ---
 
 Tienes [Columbia Pantalón de esquí para Mujer  Bugaboo Oh  Blanco  M](https://www.amazon.es/dp/B00QLG5ORQ/?tag=tolees-21) con un 50.63 % de descuento con precio de oferta de 59.24 EUR (original: 119.99 EUR) en el siguiente enlace!

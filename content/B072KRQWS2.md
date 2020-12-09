@@ -14,7 +14,7 @@ currency: EUR
 price: 3.4
 comparePrice: 13.3 EUR
 inStock: true
-prodname: oodji Ultra Mujer Camiseta Recortada de Tejido a Rayas  Amarillo  ES 38 / S
+prodname: 'oodji Ultra Mujer Camiseta Recortada de Tejido a Rayas  Amarillo  ES 38 / S'
 ---
 
 Está [oodji Ultra Mujer Camiseta Recortada de Tejido a Rayas  Amarillo  ES 38 / S](https://www.amazon.es/dp/B072KRQWS2/?tag=tolees-21) con 74.44 de descuento por 3.4 EUR (original: 13.3 EUR) en el siguiente enlace!

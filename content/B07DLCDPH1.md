@@ -14,7 +14,7 @@ currency: EUR
 price: 14.99
 comparePrice: 25.99 EUR
 inStock: true
-prodname: Springfield 5Ba Jersey Block Gg12  Hombre   Gama Azules 11   Small  Tamaño del Fabricante:S 
+prodname: 'Springfield 5Ba Jersey Block Gg12  Hombre   Gama Azules 11   Small  Tamaño del Fabricante:S '
 ---
 
 Tienes [Springfield 5Ba Jersey Block Gg12  Hombre   Gama Azules 11   Small  Tamaño del Fabricante:S ](https://www.amazon.es/dp/B07DLCDPH1/?tag=tolees-21) con un 42.32 % de descuento con precio de oferta de 14.99 EUR (original: 25.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 17.14
 comparePrice: 48.39 EUR
 inStock: true
-prodname: Jack & Jones Jeans Vaqueros  Blue Raw Aged  29W / 32L para Hombre
+prodname: 'Jack & Jones Jeans Vaqueros  Blue Raw Aged  29W / 32L para Hombre'
 ---
 
 Está [Jack & Jones Jeans Vaqueros  Blue Raw Aged  29W / 32L para Hombre](https://www.amazon.es/dp/B0823CHXSK/?tag=tolees-21) con 64.58 de descuento por 17.14 EUR (original: 48.39 EUR) en el siguiente enlace!

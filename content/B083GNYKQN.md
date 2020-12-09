@@ -14,7 +14,7 @@ currency: EUR
 price: 21.5
 comparePrice: 51.08 EUR
 inStock: true
-prodname: Fankeshi - Abrigo de piel sintética para niña de flores  diseño de bolero - Blanco - 130 cm
+prodname: 'Fankeshi - Abrigo de piel sintética para niña de flores  diseño de bolero - Blanco - 130 cm'
 ---
 
 Está [Fankeshi - Abrigo de piel sintética para niña de flores  diseño de bolero - Blanco - 130 cm](https://www.amazon.es/dp/B083GNYKQN/?tag=tolees-21) con 57.91 de descuento por 21.5 EUR (original: 51.08 EUR) en el siguiente enlace!

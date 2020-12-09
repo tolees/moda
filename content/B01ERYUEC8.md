@@ -14,7 +14,7 @@ currency: EUR
 price: 9.87
 comparePrice: 21.95 EUR
 inStock: true
-prodname: Joma - Camiseta Outdoor Blanco m/c para Hombre
+prodname: 'Joma - Camiseta Outdoor Blanco m/c para Hombre'
 ---
 
 Tienes [Joma - Camiseta Outdoor Blanco m/c para Hombre](https://www.amazon.es/dp/B01ERYUEC8/?tag=tolees-21) con un 55.03 % de descuento con precio de oferta de 9.87 EUR (original: 21.95 EUR) en el siguiente enlace!

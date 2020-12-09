@@ -14,7 +14,7 @@ currency: EUR
 price: 8.39
 comparePrice: 25.99 EUR
 inStock: true
-prodname: Springfield 490 Raya Kodak Gg12 Jersey   Gama Azules 15   Medium  Tamaño del Fabricante:M  para Hombre
+prodname: 'Springfield 490 Raya Kodak Gg12 Jersey   Gama Azules 15   Medium  Tamaño del Fabricante:M  para Hombre'
 ---
 
 Está [Springfield 490 Raya Kodak Gg12 Jersey   Gama Azules 15   Medium  Tamaño del Fabricante:M  para Hombre](https://www.amazon.es/dp/B07KZ21CYB/?tag=tolees-21) con 67.72 de descuento por 8.39 EUR (original: 25.99 EUR) en el siguiente enlace!

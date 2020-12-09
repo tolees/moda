@@ -14,7 +14,7 @@ currency: EUR
 price: 79.22
 comparePrice: 199.99 EUR
 inStock: true
-prodname: Gant O1. The Panel Down Vest Chaleco  Azul  Poseidon Blue 448   Small para Hombre
+prodname: 'Gant O1. The Panel Down Vest Chaleco  Azul  Poseidon Blue 448   Small para Hombre'
 ---
 
 Ahora mismo tienes [Gant O1. The Panel Down Vest Chaleco  Azul  Poseidon Blue 448   Small para Hombre](https://www.amazon.es/dp/B07KPQLXRY/?tag=tolees-21) a 79.22 EUR (original: 199.99 EUR) (60.39 %  de descuento) en el siguiente enlace!

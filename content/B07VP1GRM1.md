@@ -14,7 +14,7 @@ currency: EUR
 price: 26.99
 comparePrice: 65.0 EUR
 inStock: true
-prodname: Lee Workwear SWS Sudadera  Amarillo  Golden Yellow Nf   S para Hombre
+prodname: 'Lee Workwear SWS Sudadera  Amarillo  Golden Yellow Nf   S para Hombre'
 ---
 
 Ahora mismo tienes [Lee Workwear SWS Sudadera  Amarillo  Golden Yellow Nf   S para Hombre](https://www.amazon.es/dp/B07VP1GRM1/?tag=tolees-21) a 26.99 EUR (original: 65.0 EUR) (58.48 %  de descuento) en el siguiente enlace!

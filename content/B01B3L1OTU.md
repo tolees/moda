@@ -14,7 +14,7 @@ currency: EUR
 price: 6.19
 comparePrice: 11.95 EUR
 inStock: true
-prodname: Montana MS33 gafas de sol  Multicoloured Revo Blue  Talla única Unisex Adulto
+prodname: 'Montana MS33 gafas de sol  Multicoloured Revo Blue  Talla única Unisex Adulto'
 ---
 
 Está [Montana MS33 gafas de sol  Multicoloured Revo Blue  Talla única Unisex Adulto](https://www.amazon.es/dp/B01B3L1OTU/?tag=tolees-21) con 48.20 de descuento por 6.19 EUR (original: 11.95 EUR) en el siguiente enlace!

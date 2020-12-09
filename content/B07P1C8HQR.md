@@ -14,7 +14,7 @@ currency: EUR
 price: 11.9
 comparePrice: 25 EUR
 inStock: true
-prodname: Emma & Giovanni - Corto Elástica Básica Falda - Mujer  ES 36/38  Talla Fabricante M   Negro 
+prodname: 'Emma & Giovanni - Corto Elástica Básica Falda - Mujer  ES 36/38  Talla Fabricante M   Negro '
 ---
 
 Tienes [Emma & Giovanni - Corto Elástica Básica Falda - Mujer  ES 36/38  Talla Fabricante M   Negro ](https://www.amazon.es/dp/B07P1C8HQR/?tag=tolees-21) con un 52.40 % de descuento con precio de oferta de 11.9 EUR (original: 25 EUR) en el siguiente enlace!

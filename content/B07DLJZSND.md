@@ -14,7 +14,7 @@ currency: EUR
 price: 8.84
 comparePrice: 25.99 EUR
 inStock: true
-prodname: Springfield 4Wo 1Row Caja Embroidery Sudadera  Hombre  Azul  Gama Azules 12   Medium  Tamaño del Fabricante:M 
+prodname: 'Springfield 4Wo 1Row Caja Embroidery Sudadera  Hombre  Azul  Gama Azules 12   Medium  Tamaño del Fabricante:M '
 ---
 
 Está [Springfield 4Wo 1Row Caja Embroidery Sudadera  Hombre  Azul  Gama Azules 12   Medium  Tamaño del Fabricante:M ](https://www.amazon.es/dp/B07DLJZSND/?tag=tolees-21) con 65.99 de descuento por 8.84 EUR (original: 25.99 EUR) en el siguiente enlace!

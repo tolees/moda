@@ -14,7 +14,7 @@ currency: EUR
 price: 12.99
 comparePrice: 20.0 EUR
 inStock: true
-prodname: Levi s Ben Touch Screen Gloves  Guantes Hombre  Negro  Black   Medium
+prodname: 'Levi s Ben Touch Screen Gloves  Guantes Hombre  Negro  Black   Medium'
 ---
 
 Tienes [Levi s Ben Touch Screen Gloves  Guantes Hombre  Negro  Black   Medium](https://www.amazon.es/dp/B00J2SFLDM/?tag=tolees-21) con un 35.05 % de descuento con precio de oferta de 12.99 EUR (original: 20.0 EUR) en el siguiente enlace!

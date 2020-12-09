@@ -14,7 +14,7 @@ currency: EUR
 price: 26.97
 comparePrice: 70 EUR
 inStock: true
-prodname: Naf Naf Kenr49d  Vestido Mujer  Rosa  Framboise 391   38
+prodname: 'Naf Naf Kenr49d  Vestido Mujer  Rosa  Framboise 391   38'
 ---
 
 Ahora mismo tienes [Naf Naf Kenr49d  Vestido Mujer  Rosa  Framboise 391   38](https://www.amazon.es/dp/B07KKRKY6S/?tag=tolees-21) a 26.97 EUR (original: 70 EUR) (61.47 %  de descuento) en el siguiente enlace!

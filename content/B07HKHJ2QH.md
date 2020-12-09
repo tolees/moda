@@ -14,7 +14,7 @@ currency: EUR
 price: 41.99
 comparePrice: 89.99 EUR
 inStock: true
-prodname: Collar de adiestramiento para Perros con Control a Distancia 300 Metros
+prodname: 'Collar de adiestramiento para Perros con Control a Distancia 300 Metros'
 ---
 
 Ahora mismo tienes [Collar de adiestramiento para Perros con Control a Distancia 300 Metros](https://www.amazon.es/dp/B07HKHJ2QH/?tag=tolees-21) a 41.99 EUR (original: 89.99 EUR) (53.34 %  de descuento) en el siguiente enlace!

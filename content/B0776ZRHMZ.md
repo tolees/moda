@@ -14,7 +14,7 @@ currency: EUR
 price: 23.49
 comparePrice: 35.0 EUR
 inStock: true
-prodname: Tommy Hilfiger Original Rib Camisa  Azul  Black Iris 002   X-Small para Hombre
+prodname: 'Tommy Hilfiger Original Rib Camisa  Azul  Black Iris 002   X-Small para Hombre'
 ---
 
 Ahora mismo tienes [Tommy Hilfiger Original Rib Camisa  Azul  Black Iris 002   X-Small para Hombre](https://www.amazon.es/dp/B0776ZRHMZ/?tag=tolees-21) a 23.49 EUR (original: 35.0 EUR) (32.89 %  de descuento) en el siguiente enlace!

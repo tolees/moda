@@ -14,7 +14,7 @@ currency: EUR
 price: 30.09
 comparePrice: 49.95 EUR
 inStock: true
-prodname: G-STAR RAW Hombre Korpaz Slim Granddad T L\\s Camisa Manga Larga Not Applicable  Azul  Sartho Blue 6067   XX-Large
+prodname: 'G-STAR RAW Hombre Korpaz Slim Granddad T L\\s Camisa Manga Larga Not Applicable  Azul  Sartho Blue 6067   XX-Large'
 ---
 
 Ahora mismo tienes [G-STAR RAW Hombre Korpaz Slim Granddad T L\\s Camisa Manga Larga Not Applicable  Azul  Sartho Blue 6067   XX-Large](https://www.amazon.es/dp/B07CZJ7K5B/?tag=tolees-21) a 30.09 EUR (original: 49.95 EUR) (39.76 %  de descuento) en el siguiente enlace!

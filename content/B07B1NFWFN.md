@@ -14,7 +14,7 @@ currency: EUR
 price: 19.78
 comparePrice: 56.89 EUR
 inStock: true
-prodname: IIIIS-F Mujer Zapatos Resbalón en Comodidad Zapatos Plano Zapatos Mocasines
+prodname: 'IIIIS-F Mujer Zapatos Resbalón en Comodidad Zapatos Plano Zapatos Mocasines'
 ---
 
 Tienes [IIIIS-F Mujer Zapatos Resbalón en Comodidad Zapatos Plano Zapatos Mocasines](https://www.amazon.es/dp/B07B1NFWFN/?tag=tolees-21) con un 65.23 % de descuento con precio de oferta de 19.78 EUR (original: 56.89 EUR) en el siguiente enlace!

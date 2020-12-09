@@ -14,7 +14,7 @@ currency: EUR
 price: 7.99
 comparePrice: 10.95 EUR
 inStock: true
-prodname: Grupo Erik TAZ025 Taza de desayuno Gafas Profesor  La Casa de Papel  Cerámica  Blanca con rojo
+prodname: 'Grupo Erik TAZ025 Taza de desayuno Gafas Profesor  La Casa de Papel  Cerámica  Blanca con rojo'
 ---
 
 Está [Grupo Erik TAZ025 Taza de desayuno Gafas Profesor  La Casa de Papel  Cerámica  Blanca con rojo](https://www.amazon.es/dp/B07YSNWZMS/?tag=tolees-21) con 27.03 de descuento por 7.99 EUR (original: 10.95 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 28.99
 comparePrice: 59.99 EUR
 inStock: true
-prodname: Only Onlchris Fur Hooded Jacket Otw Noos Chaqueta  Negro  Black Black   Large para Mujer
+prodname: 'Only Onlchris Fur Hooded Jacket Otw Noos Chaqueta  Negro  Black Black   Large para Mujer'
 ---
 
 Ahora mismo tienes [Only Onlchris Fur Hooded Jacket Otw Noos Chaqueta  Negro  Black Black   Large para Mujer](https://www.amazon.es/dp/B07F2ZWDHH/?tag=tolees-21) a 28.99 EUR (original: 59.99 EUR) (51.68 %  de descuento) en el siguiente enlace!

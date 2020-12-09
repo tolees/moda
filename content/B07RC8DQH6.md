@@ -14,7 +14,7 @@ currency: EUR
 price: 57.96
 comparePrice: 119.99 EUR
 inStock: true
-prodname: Columbia Lake 22 Chaqueta de Plumas para Mujer  Negro  XL
+prodname: 'Columbia Lake 22 Chaqueta de Plumas para Mujer  Negro  XL'
 ---
 
 Está [Columbia Lake 22 Chaqueta de Plumas para Mujer  Negro  XL](https://www.amazon.es/dp/B07RC8DQH6/?tag=tolees-21) con 51.70 de descuento por 57.96 EUR (original: 119.99 EUR) en el siguiente enlace!

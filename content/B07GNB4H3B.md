@@ -14,7 +14,7 @@ currency: EUR
 price: 2.5
 comparePrice: 8.92 EUR
 inStock: true
-prodname: YuamMei 1 par  2 Piezas  Guantes de microondas Resistentes al Calor de Silicona Mini Manoplas de Horno  Púrpura 
+prodname: 'YuamMei 1 par  2 Piezas  Guantes de microondas Resistentes al Calor de Silicona Mini Manoplas de Horno  Púrpura '
 ---
 
 Tienes [YuamMei 1 par  2 Piezas  Guantes de microondas Resistentes al Calor de Silicona Mini Manoplas de Horno  Púrpura ](https://www.amazon.es/dp/B07GNB4H3B/?tag=tolees-21) con un 71.97 % de descuento con precio de oferta de 2.5 EUR (original: 8.92 EUR) en el siguiente enlace!

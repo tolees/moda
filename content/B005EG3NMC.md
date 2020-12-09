@@ -14,7 +14,7 @@ currency: EUR
 price: 14.13
 comparePrice: 19.95 EUR
 inStock: true
-prodname: Uvex Sportstyle 204 Gafas de Ciclismo  Unisex Adulto  Negro  Talla Única
+prodname: 'Uvex Sportstyle 204 Gafas de Ciclismo  Unisex Adulto  Negro  Talla Única'
 ---
 
 Está [Uvex Sportstyle 204 Gafas de Ciclismo  Unisex Adulto  Negro  Talla Única](https://www.amazon.es/dp/B005EG3NMC/?tag=tolees-21) con 29.17 de descuento por 14.13 EUR (original: 19.95 EUR) en el siguiente enlace!

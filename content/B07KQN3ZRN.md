@@ -14,7 +14,7 @@ currency: EUR
 price: 46.35
 comparePrice: 139 EUR
 inStock: true
-prodname: Trussardi Jeans - T-easy Light Bauletto  Bolso de mano Mujer  Azul  Dark Blue   25x19x15 cm  W x H L 
+prodname: 'Trussardi Jeans - T-easy Light Bauletto  Bolso de mano Mujer  Azul  Dark Blue   25x19x15 cm  W x H L '
 ---
 
 Ahora mismo tienes [Trussardi Jeans - T-easy Light Bauletto  Bolso de mano Mujer  Azul  Dark Blue   25x19x15 cm  W x H L ](https://www.amazon.es/dp/B07KQN3ZRN/?tag=tolees-21) a 46.35 EUR (original: 139 EUR) (66.65 %  de descuento) en el siguiente enlace!

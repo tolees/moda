@@ -14,7 +14,7 @@ currency: EUR
 price: 22.34
 comparePrice: 49.95 EUR
 inStock: true
-prodname: Puma SF Street tee Camiseta  Hombre  Rojo  Rosso Corsa   L
+prodname: 'Puma SF Street tee Camiseta  Hombre  Rojo  Rosso Corsa   L'
 ---
 
 Ahora mismo tienes [Puma SF Street tee Camiseta  Hombre  Rojo  Rosso Corsa   L](https://www.amazon.es/dp/B07DFSQ7M2/?tag=tolees-21) a 22.34 EUR (original: 49.95 EUR) (55.28 %  de descuento) en el siguiente enlace!

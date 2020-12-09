@@ -14,7 +14,7 @@ currency: EUR
 price: 16.98
 comparePrice: 59.9 EUR
 inStock: true
-prodname: Crocs Norlin Slip-on Men  Hombre Zapatilla  Azul  Navy/White   36-37 EU
+prodname: 'Crocs Norlin Slip-on Men  Hombre Zapatilla  Azul  Navy/White   36-37 EU'
 ---
 
 Tienes [Crocs Norlin Slip-on Men  Hombre Zapatilla  Azul  Navy/White   36-37 EU](https://www.amazon.es/dp/B00NVAT32M/?tag=tolees-21) con un 71.65 % de descuento con precio de oferta de 16.98 EUR (original: 59.9 EUR) en el siguiente enlace!

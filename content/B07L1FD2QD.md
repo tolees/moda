@@ -14,7 +14,7 @@ currency: EUR
 price: 11.39
 comparePrice: 49.99 EUR
 inStock: true
-prodname: Vero Moda Vmclarin Short Jacket Chaqueta  Rosa  Sepia Rose   40  Talla del Fabricante: Medium  para Mujer
+prodname: 'Vero Moda Vmclarin Short Jacket Chaqueta  Rosa  Sepia Rose   40  Talla del Fabricante: Medium  para Mujer'
 ---
 
 Está [Vero Moda Vmclarin Short Jacket Chaqueta  Rosa  Sepia Rose   40  Talla del Fabricante: Medium  para Mujer](https://www.amazon.es/dp/B07L1FD2QD/?tag=tolees-21) con 77.22 de descuento por 11.39 EUR (original: 49.99 EUR) en el siguiente enlace!

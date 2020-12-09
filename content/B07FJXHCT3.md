@@ -14,7 +14,7 @@ currency: EUR
 price: 24.76
 comparePrice: 84.95 EUR
 inStock: true
-prodname: Gioseppo 46201-P  Zapatos de tacón con Punta Cerrada para Mujer  Leopardo  37 EU
+prodname: 'Gioseppo 46201-P  Zapatos de tacón con Punta Cerrada para Mujer  Leopardo  37 EU'
 ---
 
 Está [Gioseppo 46201-P  Zapatos de tacón con Punta Cerrada para Mujer  Leopardo  37 EU](https://www.amazon.es/dp/B07FJXHCT3/?tag=tolees-21) con 70.85 de descuento por 24.76 EUR (original: 84.95 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 28.98
 comparePrice: 55.92 EUR
 inStock: true
-prodname: Timberland Coupe-Vent A Capuche Impermeable  Azul  Amiral 841   18-24 Meses  Talla del Fabricante: 18M  para Bebés
+prodname: 'Timberland Coupe-Vent A Capuche Impermeable  Azul  Amiral 841   18-24 Meses  Talla del Fabricante: 18M  para Bebés'
 ---
 
 Está [Timberland Coupe-Vent A Capuche Impermeable  Azul  Amiral 841   18-24 Meses  Talla del Fabricante: 18M  para Bebés](https://www.amazon.es/dp/B07JGPV5NP/?tag=tolees-21) con 48.18 de descuento por 28.98 EUR (original: 55.92 EUR) en el siguiente enlace!

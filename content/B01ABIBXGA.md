@@ -14,7 +14,7 @@ currency: EUR
 price: 17.16
 comparePrice: 79.99 EUR
 inStock: true
-prodname: Naf Naf ECRI  Vestido para Mujer  Schwarz  0625 Noir   ES ES 36  DE 34 
+prodname: 'Naf Naf ECRI  Vestido para Mujer  Schwarz  0625 Noir   ES ES 36  DE 34 '
 ---
 
 Tienes [Naf Naf ECRI  Vestido para Mujer  Schwarz  0625 Noir   ES ES 36  DE 34 ](https://www.amazon.es/dp/B01ABIBXGA/?tag=tolees-21) con un 78.55 % de descuento con precio de oferta de 17.16 EUR (original: 79.99 EUR) en el siguiente enlace!

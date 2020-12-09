@@ -14,7 +14,7 @@ currency: EUR
 price: 5.99
 comparePrice: 22.99 EUR
 inStock: true
-prodname: inhzoy Chaqueta de Princesa para Niña Abrigo de Fiesta Boda Manga Corta Bolero Satinado para Vestido Capa con 3D Flores Cárdigan Dama de Honor Beige 18-24 Meses
+prodname: 'inhzoy Chaqueta de Princesa para Niña Abrigo de Fiesta Boda Manga Corta Bolero Satinado para Vestido Capa con 3D Flores Cárdigan Dama de Honor Beige 18-24 Meses'
 ---
 
 Ahora mismo tienes [inhzoy Chaqueta de Princesa para Niña Abrigo de Fiesta Boda Manga Corta Bolero Satinado para Vestido Capa con 3D Flores Cárdigan Dama de Honor Beige 18-24 Meses](https://www.amazon.es/dp/B07XTD39ZJ/?tag=tolees-21) a 5.99 EUR (original: 22.99 EUR) (73.95 %  de descuento) en el siguiente enlace!

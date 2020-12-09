@@ -14,7 +14,7 @@ currency: EUR
 price: 19.03
 comparePrice: 29.95 EUR
 inStock: true
-prodname: Wrangler Kabel tee  Camiseta para Hombre  Blanco  Offwhite 02   Medium
+prodname: 'Wrangler Kabel tee  Camiseta para Hombre  Blanco  Offwhite 02   Medium'
 ---
 
 Está [Wrangler Kabel tee  Camiseta para Hombre  Blanco  Offwhite 02   Medium](https://www.amazon.es/dp/B06XDT6S3Q/?tag=tolees-21) con 36.46 de descuento por 19.03 EUR (original: 29.95 EUR) en el siguiente enlace!

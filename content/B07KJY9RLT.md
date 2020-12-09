@@ -14,7 +14,7 @@ currency: EUR
 price: 28.45
 comparePrice: 59.99 EUR
 inStock: true
-prodname: Quiksilver Spring Roll Sudadera con Capucha para Hombre  Amarillo  Rattan   XXL
+prodname: 'Quiksilver Spring Roll Sudadera con Capucha para Hombre  Amarillo  Rattan   XXL'
 ---
 
 Tienes [Quiksilver Spring Roll Sudadera con Capucha para Hombre  Amarillo  Rattan   XXL](https://www.amazon.es/dp/B07KJY9RLT/?tag=tolees-21) con un 52.58 % de descuento con precio de oferta de 28.45 EUR (original: 59.99 EUR) en el siguiente enlace!

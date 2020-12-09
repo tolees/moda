@@ -14,7 +14,7 @@ currency: EUR
 price: 34.32
 comparePrice: 99.99 EUR
 inStock: true
-prodname: Columbia Mujer Chaqueta impermeable  Timothy Lake W Jacket  Poliéster  Azul  Atoll   Talla: M  1840501
+prodname: 'Columbia Mujer Chaqueta impermeable  Timothy Lake W Jacket  Poliéster  Azul  Atoll   Talla: M  1840501'
 ---
 
 Tienes [Columbia Mujer Chaqueta impermeable  Timothy Lake W Jacket  Poliéster  Azul  Atoll   Talla: M  1840501](https://www.amazon.es/dp/B07KSFMK7Q/?tag=tolees-21) con un 65.68 % de descuento con precio de oferta de 34.32 EUR (original: 99.99 EUR) en el siguiente enlace!

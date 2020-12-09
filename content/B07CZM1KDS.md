@@ -14,7 +14,7 @@ currency: EUR
 price: 6.37
 comparePrice: 26.0 EUR
 inStock: true
-prodname: Under Armour  UNDKU Raid Pantalón Corto  Niños  Negro  YLG
+prodname: 'Under Armour  UNDKU Raid Pantalón Corto  Niños  Negro  YLG'
 ---
 
 Tienes [Under Armour  UNDKU Raid Pantalón Corto  Niños  Negro  YLG](https://www.amazon.es/dp/B07CZM1KDS/?tag=tolees-21) con un 75.50 % de descuento con precio de oferta de 6.37 EUR (original: 26.0 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 18.88
 comparePrice: 47.7 EUR
 inStock: true
-prodname: Marca Amazon - find. Impermeable Hombre  Beige  Tobacco   XS  Label: XS
+prodname: 'Marca Amazon - find. Impermeable Hombre  Beige  Tobacco   XS  Label: XS'
 ---
 
 Ahora mismo tienes [Marca Amazon - find. Impermeable Hombre  Beige  Tobacco   XS  Label: XS](https://www.amazon.es/dp/B07G8FJXGT/?tag=tolees-21) a 18.88 EUR (original: 47.7 EUR) (60.42 %  de descuento) en el siguiente enlace!

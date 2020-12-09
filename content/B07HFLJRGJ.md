@@ -14,7 +14,7 @@ currency: EUR
 price: 18.65
 comparePrice: 24.99 EUR
 inStock: true
-prodname: Levi s Levis 200sf Schooldaze Boxer Brief 2p  Bóxer Hombre  Negro  Caviar 703   X-Large
+prodname: 'Levi s Levis 200sf Schooldaze Boxer Brief 2p  Bóxer Hombre  Negro  Caviar 703   X-Large'
 ---
 
 Tienes [Levi s Levis 200sf Schooldaze Boxer Brief 2p  Bóxer Hombre  Negro  Caviar 703   X-Large](https://www.amazon.es/dp/B07HFLJRGJ/?tag=tolees-21) con un 25.37 % de descuento con precio de oferta de 18.65 EUR (original: 24.99 EUR) en el siguiente enlace!

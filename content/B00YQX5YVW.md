@@ -14,7 +14,7 @@ currency: EUR
 price: 37.45
 comparePrice: 75 EUR
 inStock: true
-prodname: GEOX J Casey Girl  Botas Militar para Niñas  Black  32 EU
+prodname: 'GEOX J Casey Girl  Botas Militar para Niñas  Black  32 EU'
 ---
 
 Tienes [GEOX J Casey Girl  Botas Militar para Niñas  Black  32 EU](https://www.amazon.es/dp/B00YQX5YVW/?tag=tolees-21) con un 50.07 % de descuento con precio de oferta de 37.45 EUR (original: 75 EUR) en el siguiente enlace!

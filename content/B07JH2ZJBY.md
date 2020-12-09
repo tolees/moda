@@ -14,7 +14,7 @@ currency: EUR
 price: 13.99
 comparePrice: 19.95 EUR
 inStock: true
-prodname: Puma Modern Sports Logo tee Camiseta  Mujer  Cotton Black/Fair Aqua  XL
+prodname: 'Puma Modern Sports Logo tee Camiseta  Mujer  Cotton Black/Fair Aqua  XL'
 ---
 
 Tienes [Puma Modern Sports Logo tee Camiseta  Mujer  Cotton Black/Fair Aqua  XL](https://www.amazon.es/dp/B07JH2ZJBY/?tag=tolees-21) con un 29.87 % de descuento con precio de oferta de 13.99 EUR (original: 19.95 EUR) en el siguiente enlace!

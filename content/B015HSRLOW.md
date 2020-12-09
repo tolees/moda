@@ -14,7 +14,7 @@ currency: EUR
 price: 16.91
 comparePrice: 149.99 EUR
 inStock: true
-prodname: Esprit Tiny Check BLZ Chaqueta de Traje  Negro  36L para Hombre
+prodname: 'Esprit Tiny Check BLZ Chaqueta de Traje  Negro  36L para Hombre'
 ---
 
 Ahora mismo tienes [Esprit Tiny Check BLZ Chaqueta de Traje  Negro  36L para Hombre](https://www.amazon.es/dp/B015HSRLOW/?tag=tolees-21) a 16.91 EUR (original: 149.99 EUR) (88.73 %  de descuento) en el siguiente enlace!

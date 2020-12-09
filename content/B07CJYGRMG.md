@@ -14,7 +14,7 @@ currency: EUR
 price: 32.32
 comparePrice: 65 EUR
 inStock: true
-prodname: Pepe Jeans Ridleys I Camisa  Negro  Black 999   Large para Hombre
+prodname: 'Pepe Jeans Ridleys I Camisa  Negro  Black 999   Large para Hombre'
 ---
 
 Tienes [Pepe Jeans Ridleys I Camisa  Negro  Black 999   Large para Hombre](https://www.amazon.es/dp/B07CJYGRMG/?tag=tolees-21) con un 50.28 % de descuento con precio de oferta de 32.32 EUR (original: 65 EUR) en el siguiente enlace!

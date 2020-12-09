@@ -14,7 +14,7 @@ currency: EUR
 price: 10.92
 comparePrice: 17.7 EUR
 inStock: true
-prodname: oodji Ultra Mujer Vestido de Punto Estampado Gráfico  Naranja  ES 36 / XS
+prodname: 'oodji Ultra Mujer Vestido de Punto Estampado Gráfico  Naranja  ES 36 / XS'
 ---
 
 Ahora mismo tienes [oodji Ultra Mujer Vestido de Punto Estampado Gráfico  Naranja  ES 36 / XS](https://www.amazon.es/dp/B01EYRK8NI/?tag=tolees-21) a 10.92 EUR (original: 17.7 EUR) (38.31 %  de descuento) en el siguiente enlace!

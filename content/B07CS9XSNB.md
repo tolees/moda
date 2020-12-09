@@ -14,7 +14,7 @@ currency: EUR
 price: 12.85
 comparePrice: 25 EUR
 inStock: true
-prodname: Pepe Jeans Pascal  Camiseta para Hombre   White 800   X-Small
+prodname: 'Pepe Jeans Pascal  Camiseta para Hombre   White 800   X-Small'
 ---
 
 Está [Pepe Jeans Pascal  Camiseta para Hombre   White 800   X-Small](https://www.amazon.es/dp/B07CS9XSNB/?tag=tolees-21) con 48.60 de descuento por 12.85 EUR (original: 25 EUR) en el siguiente enlace!

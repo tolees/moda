@@ -14,7 +14,7 @@ currency: EUR
 price: 14.49
 comparePrice: 22.04 EUR
 inStock: true
-prodname: Levi s The Original Camiseta  Multicolour  Hm Patch OG tee Riverside/White + 0014   Large para Hombre
+prodname: 'Levi s The Original Camiseta  Multicolour  Hm Patch OG tee Riverside/White + 0014   Large para Hombre'
 ---
 
 Ahora mismo tienes [Levi s The Original Camiseta  Multicolour  Hm Patch OG tee Riverside/White + 0014   Large para Hombre](https://www.amazon.es/dp/B07TMHHJVP/?tag=tolees-21) a 14.49 EUR (original: 22.04 EUR) (34.26 %  de descuento) en el siguiente enlace!

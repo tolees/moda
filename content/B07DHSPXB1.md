@@ -14,7 +14,7 @@ currency: EUR
 price: 29.76
 comparePrice: 69.99 EUR
 inStock: true
-prodname: DC Shoes Star Sudadera  Hombre  Negro  Black Kvj0   Medium  Tamaño del Fabricante:M 
+prodname: 'DC Shoes Star Sudadera  Hombre  Negro  Black Kvj0   Medium  Tamaño del Fabricante:M '
 ---
 
 Está [DC Shoes Star Sudadera  Hombre  Negro  Black Kvj0   Medium  Tamaño del Fabricante:M ](https://www.amazon.es/dp/B07DHSPXB1/?tag=tolees-21) con 57.48 de descuento por 29.76 EUR (original: 69.99 EUR) en el siguiente enlace!

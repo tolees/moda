@@ -14,7 +14,7 @@ currency: EUR
 price: 24.19
 comparePrice: 44.99 EUR
 inStock: true
-prodname: Under Armour Vanish Seamless SS Camiseta  Hombre  Azul  Academy/Graphite 408   M
+prodname: 'Under Armour Vanish Seamless SS Camiseta  Hombre  Azul  Academy/Graphite 408   M'
 ---
 
 Está [Under Armour Vanish Seamless SS Camiseta  Hombre  Azul  Academy/Graphite 408   M](https://www.amazon.es/dp/B077XM3NVR/?tag=tolees-21) con 46.23 de descuento por 24.19 EUR (original: 44.99 EUR) en el siguiente enlace!

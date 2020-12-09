@@ -14,7 +14,7 @@ currency: EUR
 price: 23.58
 comparePrice: 199.99 EUR
 inStock: true
-prodname: MAMALICIOUS Mlina Down Jacket  Abrigo premamá para Mujer  Azul  Navy Blazer  38  Talla del Fabricante: Small 
+prodname: 'MAMALICIOUS Mlina Down Jacket  Abrigo premamá para Mujer  Azul  Navy Blazer  38  Talla del Fabricante: Small '
 ---
 
 Está [MAMALICIOUS Mlina Down Jacket  Abrigo premamá para Mujer  Azul  Navy Blazer  38  Talla del Fabricante: Small ](https://www.amazon.es/dp/B07DGP8G3Y/?tag=tolees-21) con 88.21 de descuento por 23.58 EUR (original: 199.99 EUR) en el siguiente enlace!

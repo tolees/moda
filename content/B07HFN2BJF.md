@@ -14,7 +14,7 @@ currency: EUR
 price: 26.89
 comparePrice: 79.9 EUR
 inStock: true
-prodname: Tommy Hilfiger Solid Texture Badge LS Reg Polo  Camisa Manga Larga Hombre  Blanco  Bright White 100   Large
+prodname: 'Tommy Hilfiger Solid Texture Badge LS Reg Polo  Camisa Manga Larga Hombre  Blanco  Bright White 100   Large'
 ---
 
 Está [Tommy Hilfiger Solid Texture Badge LS Reg Polo  Camisa Manga Larga Hombre  Blanco  Bright White 100   Large](https://www.amazon.es/dp/B07HFN2BJF/?tag=tolees-21) con 66.35 de descuento por 26.89 EUR (original: 79.9 EUR) en el siguiente enlace!

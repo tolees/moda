@@ -14,7 +14,7 @@ currency: EUR
 price: 8.62
 comparePrice: 26.99 EUR
 inStock: true
-prodname: Only Onlnew Maye L/S Ruffle Dress Cc Knt  Vestido para Mujer  Azul  Night Sky Detail: W. Black Melange   40  Talla del fabricante: Medium 
+prodname: 'Only Onlnew Maye L/S Ruffle Dress Cc Knt  Vestido para Mujer  Azul  Night Sky Detail: W. Black Melange   40  Talla del fabricante: Medium '
 ---
 
 Ahora mismo tienes [Only Onlnew Maye L/S Ruffle Dress Cc Knt  Vestido para Mujer  Azul  Night Sky Detail: W. Black Melange   40  Talla del fabricante: Medium ](https://www.amazon.es/dp/B078VMGDKF/?tag=tolees-21) a 8.62 EUR (original: 26.99 EUR) (68.06 %  de descuento) en el siguiente enlace!

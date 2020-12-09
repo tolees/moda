@@ -14,7 +14,7 @@ currency: EUR
 price: 9.99
 comparePrice: 19.95 EUR
 inStock: true
-prodname: Puma Essentials LG T Camiseta de Manga Corta  Hombre  Azul  Peacoat   L
+prodname: 'Puma Essentials LG T Camiseta de Manga Corta  Hombre  Azul  Peacoat   L'
 ---
 
 Tienes [Puma Essentials LG T Camiseta de Manga Corta  Hombre  Azul  Peacoat   L](https://www.amazon.es/dp/B07GSY2MWZ/?tag=tolees-21) con un 49.92 % de descuento con precio de oferta de 9.99 EUR (original: 19.95 EUR) en el siguiente enlace!

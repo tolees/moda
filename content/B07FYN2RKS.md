@@ -14,7 +14,7 @@ currency: EUR
 price: 15.95
 comparePrice: 29.95 EUR
 inStock: true
-prodname: Wrangler Kabel tee Camiseta  Marfil  Offwhite 302   Large para Hombre
+prodname: 'Wrangler Kabel tee Camiseta  Marfil  Offwhite 302   Large para Hombre'
 ---
 
 Ahora mismo tienes [Wrangler Kabel tee Camiseta  Marfil  Offwhite 302   Large para Hombre](https://www.amazon.es/dp/B07FYN2RKS/?tag=tolees-21) a 15.95 EUR (original: 29.95 EUR) (46.74 %  de descuento) en el siguiente enlace!

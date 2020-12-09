@@ -14,7 +14,7 @@ currency: EUR
 price: 13.62
 comparePrice: 30.0 EUR
 inStock: true
-prodname: Black Diamond Lightweight Gridtech Guantes  Unisex Adulto  Small
+prodname: 'Black Diamond Lightweight Gridtech Guantes  Unisex Adulto  Small'
 ---
 
 Está [Black Diamond Lightweight Gridtech Guantes  Unisex Adulto  Small](https://www.amazon.es/dp/B019EZ2IFG/?tag=tolees-21) con 54.60 de descuento por 13.62 EUR (original: 30.0 EUR) en el siguiente enlace!

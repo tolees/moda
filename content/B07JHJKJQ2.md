@@ -14,7 +14,7 @@ currency: EUR
 price: 28.57
 comparePrice: 100 EUR
 inStock: true
-prodname: Armani Exchange Gothic Writing Sudadera  Negro  Black W/White Embro 5242   Small  Talla del Fabricante: 33  para Mujer
+prodname: 'Armani Exchange Gothic Writing Sudadera  Negro  Black W/White Embro 5242   Small  Talla del Fabricante: 33  para Mujer'
 ---
 
 Está [Armani Exchange Gothic Writing Sudadera  Negro  Black W/White Embro 5242   Small  Talla del Fabricante: 33  para Mujer](https://www.amazon.es/dp/B07JHJKJQ2/?tag=tolees-21) con 71.43 de descuento por 28.57 EUR (original: 100 EUR) en el siguiente enlace!

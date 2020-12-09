@@ -14,7 +14,7 @@ currency: EUR
 price: 29.99
 comparePrice: 79.99 EUR
 inStock: true
-prodname: JACK & JONES Hombre Jjiglenn Jjicon JJ 357 50sps Noos Vaqueros Slim Not Applicable  Azul  Blue Denim Blue Denim   W28/L30
+prodname: 'JACK & JONES Hombre Jjiglenn Jjicon JJ 357 50sps Noos Vaqueros Slim Not Applicable  Azul  Blue Denim Blue Denim   W28/L30'
 ---
 
 Ahora mismo tienes [JACK & JONES Hombre Jjiglenn Jjicon JJ 357 50sps Noos Vaqueros Slim Not Applicable  Azul  Blue Denim Blue Denim   W28/L30](https://www.amazon.es/dp/B07HQY7RP8/?tag=tolees-21) a 29.99 EUR (original: 79.99 EUR) (62.51 %  de descuento) en el siguiente enlace!

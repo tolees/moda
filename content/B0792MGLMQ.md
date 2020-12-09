@@ -14,7 +14,7 @@ currency: EUR
 price: 38.45
 comparePrice: 55 EUR
 inStock: true
-prodname: Geox J Pavel A  Zapatillas para Niños   Military/Grey C3225   31 EU
+prodname: 'Geox J Pavel A  Zapatillas para Niños   Military/Grey C3225   31 EU'
 ---
 
 Tienes [Geox J Pavel A  Zapatillas para Niños   Military/Grey C3225   31 EU](https://www.amazon.es/dp/B0792MGLMQ/?tag=tolees-21) con un 30.09 % de descuento con precio de oferta de 38.45 EUR (original: 55 EUR) en el siguiente enlace!

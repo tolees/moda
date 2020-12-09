@@ -14,7 +14,7 @@ currency: EUR
 price: 32.17
 comparePrice: 54.95 EUR
 inStock: true
-prodname: Clarks Arla Jacory  Sandalias de Talón Abierto para Mujer  Verde  Olive-   37.5 EU
+prodname: 'Clarks Arla Jacory  Sandalias de Talón Abierto para Mujer  Verde  Olive-   37.5 EU'
 ---
 
 Ahora mismo tienes [Clarks Arla Jacory  Sandalias de Talón Abierto para Mujer  Verde  Olive-   37.5 EU](https://www.amazon.es/dp/B07FSDK9PF/?tag=tolees-21) a 32.17 EUR (original: 54.95 EUR) (41.46 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 18.42
 comparePrice: 30 EUR
 inStock: true
-prodname: Levi s The tee  Camiseta para Mujer  Rojo  Valley Girl PFD Chinese Red 0354   Large
+prodname: 'Levi s The tee  Camiseta para Mujer  Rojo  Valley Girl PFD Chinese Red 0354   Large'
 ---
 
 Tienes [Levi s The tee  Camiseta para Mujer  Rojo  Valley Girl PFD Chinese Red 0354   Large](https://www.amazon.es/dp/B07D2JGYQZ/?tag=tolees-21) con un 38.60 % de descuento con precio de oferta de 18.42 EUR (original: 30 EUR) en el siguiente enlace!

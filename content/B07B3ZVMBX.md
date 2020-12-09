@@ -14,7 +14,7 @@ currency: EUR
 price: 15.45
 comparePrice: 39.99 EUR
 inStock: true
-prodname: JACK & JONES Jjiglenn Jjoriginal NZ 005 Noos  Vaqueros Slim Hombre  Azul  Blue Denim Blue Denim   W28/L32
+prodname: 'JACK & JONES Jjiglenn Jjoriginal NZ 005 Noos  Vaqueros Slim Hombre  Azul  Blue Denim Blue Denim   W28/L32'
 ---
 
 Ahora mismo tienes [JACK & JONES Jjiglenn Jjoriginal NZ 005 Noos  Vaqueros Slim Hombre  Azul  Blue Denim Blue Denim   W28/L32](https://www.amazon.es/dp/B07B3ZVMBX/?tag=tolees-21) a 15.45 EUR (original: 39.99 EUR) (61.37 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 15.36
 comparePrice: 49.95 EUR
 inStock: true
-prodname: XTI 30952  Botines para Mujer  Negro  Black   41 EU
+prodname: 'XTI 30952  Botines para Mujer  Negro  Black   41 EU'
 ---
 
 Ahora mismo tienes [XTI 30952  Botines para Mujer  Negro  Black   41 EU](https://www.amazon.es/dp/B07D9FLDVY/?tag=tolees-21) a 15.36 EUR (original: 49.95 EUR) (69.25 %  de descuento) en el siguiente enlace!

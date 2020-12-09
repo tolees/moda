@@ -14,7 +14,7 @@ currency: EUR
 price: 74.49
 comparePrice: 150.0 EUR
 inStock: true
-prodname: Helly Hansen Crew Midlayer Chaqueta deportiva impermeable  Hombre  Blanco  Bright White   XL
+prodname: 'Helly Hansen Crew Midlayer Chaqueta deportiva impermeable  Hombre  Blanco  Bright White   XL'
 ---
 
 Está [Helly Hansen Crew Midlayer Chaqueta deportiva impermeable  Hombre  Blanco  Bright White   XL](https://www.amazon.es/dp/B004GEBHVC/?tag=tolees-21) con 50.34 de descuento por 74.49 EUR (original: 150.0 EUR) en el siguiente enlace!

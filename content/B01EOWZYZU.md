@@ -14,7 +14,7 @@ currency: EUR
 price: 122.22
 comparePrice: 270.0 EUR
 inStock: true
-prodname: Helly Hansen Coastal 2 Parka Chaqueta Impermeable  Cortaviento y Transpirable para el Uso Diario  Hombre  Azul  Marino   S
+prodname: 'Helly Hansen Coastal 2 Parka Chaqueta Impermeable  Cortaviento y Transpirable para el Uso Diario  Hombre  Azul  Marino   S'
 ---
 
 Ahora mismo tienes [Helly Hansen Coastal 2 Parka Chaqueta Impermeable  Cortaviento y Transpirable para el Uso Diario  Hombre  Azul  Marino   S](https://www.amazon.es/dp/B01EOWZYZU/?tag=tolees-21) a 122.22 EUR (original: 270.0 EUR) (54.73 %  de descuento) en el siguiente enlace!

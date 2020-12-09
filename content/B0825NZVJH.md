@@ -14,7 +14,7 @@ currency: EUR
 price: 71.25
 comparePrice: 139.9 EUR
 inStock: true
-prodname: Geox U LEVICO B ABX C  Zapatillas Hombre  Azul Marino  44 EU
+prodname: 'Geox U LEVICO B ABX C  Zapatillas Hombre  Azul Marino  44 EU'
 ---
 
 Tienes [Geox U LEVICO B ABX C  Zapatillas Hombre  Azul Marino  44 EU](https://www.amazon.es/dp/B0825NZVJH/?tag=tolees-21) con un 49.07 % de descuento con precio de oferta de 71.25 EUR (original: 139.9 EUR) en el siguiente enlace!

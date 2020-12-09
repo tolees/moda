@@ -14,7 +14,7 @@ currency: EUR
 price: 25.48
 comparePrice: 39.95 EUR
 inStock: true
-prodname: Hummel Core 1/2 Zip Sudadera  Unisex Adulto  Azul Marino / Verde Esmeralda  S
+prodname: 'Hummel Core 1/2 Zip Sudadera  Unisex Adulto  Azul Marino / Verde Esmeralda  S'
 ---
 
 Ahora mismo tienes [Hummel Core 1/2 Zip Sudadera  Unisex Adulto  Azul Marino / Verde Esmeralda  S](https://www.amazon.es/dp/B01AU3T7ZA/?tag=tolees-21) a 25.48 EUR (original: 39.95 EUR) (36.22 %  de descuento) en el siguiente enlace!

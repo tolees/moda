@@ -14,7 +14,7 @@ currency: EUR
 price: 13.47
 comparePrice: 19.42 EUR
 inStock: true
-prodname: Marca Amazon - MERAKI Anorak Hombre con Cuello Alto  Azul  Navy   XS  Label: XS
+prodname: 'Marca Amazon - MERAKI Anorak Hombre con Cuello Alto  Azul  Navy   XS  Label: XS'
 ---
 
 Tienes [Marca Amazon - MERAKI Anorak Hombre con Cuello Alto  Azul  Navy   XS  Label: XS](https://www.amazon.es/dp/B077TPRK5S/?tag=tolees-21) con un 30.64 % de descuento con precio de oferta de 13.47 EUR (original: 19.42 EUR) en el siguiente enlace!

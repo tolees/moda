@@ -14,7 +14,7 @@ currency: EUR
 price: 16.97
 comparePrice: 27.99 EUR
 inStock: true
-prodname: Under Armour Play Up Short 2.0 Pantalón Corto  Mujer  Gris  Ash Taupe/Orange Dream 057   XS
+prodname: 'Under Armour Play Up Short 2.0 Pantalón Corto  Mujer  Gris  Ash Taupe/Orange Dream 057   XS'
 ---
 
 Tienes [Under Armour Play Up Short 2.0 Pantalón Corto  Mujer  Gris  Ash Taupe/Orange Dream 057   XS](https://www.amazon.es/dp/B07CZNH4GF/?tag=tolees-21) con un 39.37 % de descuento con precio de oferta de 16.97 EUR (original: 27.99 EUR) en el siguiente enlace!

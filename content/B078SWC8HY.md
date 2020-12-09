@@ -14,7 +14,7 @@ currency: EUR
 price: 12.91
 comparePrice: 29.99 EUR
 inStock: true
-prodname: Women’secret Pijama Largo Pijama de una Pieza  Mujer  Rojo  Red 69   Small  Tamaño del Fabricante:S 
+prodname: 'Women’secret Pijama Largo Pijama de una Pieza  Mujer  Rojo  Red 69   Small  Tamaño del Fabricante:S '
 ---
 
 Está [Women’secret Pijama Largo Pijama de una Pieza  Mujer  Rojo  Red 69   Small  Tamaño del Fabricante:S ](https://www.amazon.es/dp/B078SWC8HY/?tag=tolees-21) con 56.95 de descuento por 12.91 EUR (original: 29.99 EUR) en el siguiente enlace!

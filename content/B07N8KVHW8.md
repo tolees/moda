@@ -14,7 +14,7 @@ currency: EUR
 price: 16.95
 comparePrice: 36.2 EUR
 inStock: true
-prodname: Vero Moda NOS Vmhot Seven NW Dnm Fold Shorts Mix Noos Pantalones Cortos  Azul Light Blue Denim  38  Talla del Fabricante: Small  para Mujer
+prodname: 'Vero Moda NOS Vmhot Seven NW Dnm Fold Shorts Mix Noos Pantalones Cortos  Azul Light Blue Denim  38  Talla del Fabricante: Small  para Mujer'
 ---
 
 Tienes [Vero Moda NOS Vmhot Seven NW Dnm Fold Shorts Mix Noos Pantalones Cortos  Azul Light Blue Denim  38  Talla del Fabricante: Small  para Mujer](https://www.amazon.es/dp/B07N8KVHW8/?tag=tolees-21) con un 53.18 % de descuento con precio de oferta de 16.95 EUR (original: 36.2 EUR) en el siguiente enlace!

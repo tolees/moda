@@ -14,7 +14,7 @@ currency: EUR
 price: 32.07
 comparePrice: 50 EUR
 inStock: true
-prodname: Lacoste Th6386 Camiseta  Blanc 001  Large  Talla del Fabricante: 5  para Hombre
+prodname: 'Lacoste Th6386 Camiseta  Blanc 001  Large  Talla del Fabricante: 5  para Hombre'
 ---
 
 Está [Lacoste Th6386 Camiseta  Blanc 001  Large  Talla del Fabricante: 5  para Hombre](https://www.amazon.es/dp/B07JDTDTV8/?tag=tolees-21) con 35.86 de descuento por 32.07 EUR (original: 50 EUR) en el siguiente enlace!

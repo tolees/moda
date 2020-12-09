@@ -14,7 +14,7 @@ currency: EUR
 price: 13.17
 comparePrice: 21.95 EUR
 inStock: true
-prodname: HIKARO Pantalón con Logo Corto Mujer  Rosa  Pink Marl   42  Talla del fabricante: Large 
+prodname: 'HIKARO Pantalón con Logo Corto Mujer  Rosa  Pink Marl   42  Talla del fabricante: Large '
 ---
 
 Tienes [HIKARO Pantalón con Logo Corto Mujer  Rosa  Pink Marl   42  Talla del fabricante: Large ](https://www.amazon.es/dp/B077YHNTLZ/?tag=tolees-21) con un 40.00 % de descuento con precio de oferta de 13.17 EUR (original: 21.95 EUR) en el siguiente enlace!

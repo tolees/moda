@@ -14,7 +14,7 @@ currency: EUR
 price: 31.08
 comparePrice: 54.99 EUR
 inStock: true
-prodname: Under Armour Rival Fleece Logo Hoodie Sudadera  Hombre  Gris  Steel Light Heather/Black 035   S
+prodname: 'Under Armour Rival Fleece Logo Hoodie Sudadera  Hombre  Gris  Steel Light Heather/Black 035   S'
 ---
 
 Ahora mismo tienes [Under Armour Rival Fleece Logo Hoodie Sudadera  Hombre  Gris  Steel Light Heather/Black 035   S](https://www.amazon.es/dp/B077XNKH5Z/?tag=tolees-21) a 31.08 EUR (original: 54.99 EUR) (43.48 %  de descuento) en el siguiente enlace!

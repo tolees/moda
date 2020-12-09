@@ -14,7 +14,7 @@ currency: EUR
 price: 19.57
 comparePrice: 27.95 EUR
 inStock: true
-prodname: Lower East Camiseta Manga Corta Hombre  Pack de 5  Rojo  M
+prodname: 'Lower East Camiseta Manga Corta Hombre  Pack de 5  Rojo  M'
 ---
 
 Está [Lower East Camiseta Manga Corta Hombre  Pack de 5  Rojo  M](https://www.amazon.es/dp/B00N3TG6BW/?tag=tolees-21) con 29.98 de descuento por 19.57 EUR (original: 27.95 EUR) en el siguiente enlace!

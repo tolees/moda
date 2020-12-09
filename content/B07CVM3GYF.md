@@ -14,7 +14,7 @@ currency: EUR
 price: 72.95
 comparePrice: 179.95 EUR
 inStock: true
-prodname: CMP 38z2256 Chaqueta  Mujer  Gris  Anthracite   L
+prodname: 'CMP 38z2256 Chaqueta  Mujer  Gris  Anthracite   L'
 ---
 
 Está [CMP 38z2256 Chaqueta  Mujer  Gris  Anthracite   L](https://www.amazon.es/dp/B07CVM3GYF/?tag=tolees-21) con 59.46 de descuento por 72.95 EUR (original: 179.95 EUR) en el siguiente enlace!

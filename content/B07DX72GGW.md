@@ -14,7 +14,7 @@ currency: EUR
 price: 11.83
 comparePrice: 24.95 EUR
 inStock: true
-prodname: Puma ESS tee Camiseta  Hombre  Verde  Laurel Wreath Heather   L
+prodname: 'Puma ESS tee Camiseta  Hombre  Verde  Laurel Wreath Heather   L'
 ---
 
 Está [Puma ESS tee Camiseta  Hombre  Verde  Laurel Wreath Heather   L](https://www.amazon.es/dp/B07DX72GGW/?tag=tolees-21) con 52.59 de descuento por 11.83 EUR (original: 24.95 EUR) en el siguiente enlace!

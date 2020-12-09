@@ -14,7 +14,7 @@ currency: EUR
 price: 14.85
 comparePrice: 44.99 EUR
 inStock: true
-prodname: PIECES Pcgaia 2/4 Midi Lace Dress  Vestido Mujer  Negro  Black Black   36  Talla del Fabricante: X-Small 
+prodname: 'PIECES Pcgaia 2/4 Midi Lace Dress  Vestido Mujer  Negro  Black Black   36  Talla del Fabricante: X-Small '
 ---
 
 Ahora mismo tienes [PIECES Pcgaia 2/4 Midi Lace Dress  Vestido Mujer  Negro  Black Black   36  Talla del Fabricante: X-Small ](https://www.amazon.es/dp/B078VQ9KMJ/?tag=tolees-21) a 14.85 EUR (original: 44.99 EUR) (66.99 %  de descuento) en el siguiente enlace!

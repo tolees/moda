@@ -14,7 +14,7 @@ currency: EUR
 price: 28.1
 comparePrice: 59.99 EUR
 inStock: true
-prodname: Only Onlnew Lorca Short Canvas Parka CC Otw  Mujer  Azul Sky Captain  36  Talla del Fabricante: Small 
+prodname: 'Only Onlnew Lorca Short Canvas Parka CC Otw  Mujer  Azul Sky Captain  36  Talla del Fabricante: Small '
 ---
 
 Está [Only Onlnew Lorca Short Canvas Parka CC Otw  Mujer  Azul Sky Captain  36  Talla del Fabricante: Small ](https://www.amazon.es/dp/B072JMHPGT/?tag=tolees-21) con 53.16 de descuento por 28.1 EUR (original: 59.99 EUR) en el siguiente enlace!

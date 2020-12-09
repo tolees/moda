@@ -14,7 +14,7 @@ currency: EUR
 price: 15.9
 comparePrice: 28.36 EUR
 inStock: true
-prodname: Volcom Crisp Euro BSC SS - Camiseta  Hombre  A3531851  Dark Kelly  Extra-Small
+prodname: 'Volcom Crisp Euro BSC SS - Camiseta  Hombre  A3531851  Dark Kelly  Extra-Small'
 ---
 
 Tienes [Volcom Crisp Euro BSC SS - Camiseta  Hombre  A3531851  Dark Kelly  Extra-Small](https://www.amazon.es/dp/B07DVQLNDK/?tag=tolees-21) con un 43.94 % de descuento con precio de oferta de 15.9 EUR (original: 28.36 EUR) en el siguiente enlace!

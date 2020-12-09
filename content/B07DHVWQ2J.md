@@ -14,7 +14,7 @@ currency: EUR
 price: 61.84
 comparePrice: 189.99 EUR
 inStock: true
-prodname: Quiksilver Mission Chaqueta de Nieve  Hombre  Negro  Stellar   XXL
+prodname: 'Quiksilver Mission Chaqueta de Nieve  Hombre  Negro  Stellar   XXL'
 ---
 
 Tienes [Quiksilver Mission Chaqueta de Nieve  Hombre  Negro  Stellar   XXL](https://www.amazon.es/dp/B07DHVWQ2J/?tag=tolees-21) con un 67.45 % de descuento con precio de oferta de 61.84 EUR (original: 189.99 EUR) en el siguiente enlace!

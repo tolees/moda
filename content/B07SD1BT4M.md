@@ -14,7 +14,7 @@ currency: EUR
 price: 10.99
 comparePrice: 19.95 EUR
 inStock: true
-prodname: PUMA Epic Flip V2  Chanclas Unisex Adulto  Rosa  Sun Kissed Coral-Rosewater   38 EU
+prodname: 'PUMA Epic Flip V2  Chanclas Unisex Adulto  Rosa  Sun Kissed Coral-Rosewater   38 EU'
 ---
 
 Está [PUMA Epic Flip V2  Chanclas Unisex Adulto  Rosa  Sun Kissed Coral-Rosewater   38 EU](https://www.amazon.es/dp/B07SD1BT4M/?tag=tolees-21) con 44.91 de descuento por 10.99 EUR (original: 19.95 EUR) en el siguiente enlace!

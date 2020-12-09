@@ -14,7 +14,7 @@ currency: EUR
 price: 19.99
 comparePrice: 29.95 EUR
 inStock: true
-prodname: Puma ESS+ Logo tee Dress Camiseta  Mujer  Negro  Cotton Black   M
+prodname: 'Puma ESS+ Logo tee Dress Camiseta  Mujer  Negro  Cotton Black   M'
 ---
 
 Está [Puma ESS+ Logo tee Dress Camiseta  Mujer  Negro  Cotton Black   M](https://www.amazon.es/dp/B07JHWWSKK/?tag=tolees-21) con 33.26 de descuento por 19.99 EUR (original: 29.95 EUR) en el siguiente enlace!

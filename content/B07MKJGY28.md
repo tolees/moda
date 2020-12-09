@@ -14,7 +14,7 @@ currency: EUR
 price: 31.94
 comparePrice: 99.95 EUR
 inStock: true
-prodname: G-STAR RAW 3301 Slim Vaqueros  Azul  Lt Indigo Aged 8968-8436   40W / 36L para Hombre
+prodname: 'G-STAR RAW 3301 Slim Vaqueros  Azul  Lt Indigo Aged 8968-8436   40W / 36L para Hombre'
 ---
 
 Ahora mismo tienes [G-STAR RAW 3301 Slim Vaqueros  Azul  Lt Indigo Aged 8968-8436   40W / 36L para Hombre](https://www.amazon.es/dp/B07MKJGY28/?tag=tolees-21) a 31.94 EUR (original: 99.95 EUR) (68.04 %  de descuento) en el siguiente enlace!

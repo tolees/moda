@@ -14,7 +14,7 @@ currency: EUR
 price: 13.31
 comparePrice: 49.99 EUR
 inStock: true
-prodname: Celio Hombre Jokrey15 Vaqueros Straight Not Applicable  Gris  Gris Gris    Talla del Fabricante: 40 
+prodname: 'Celio Hombre Jokrey15 Vaqueros Straight Not Applicable  Gris  Gris Gris    Talla del Fabricante: 40 '
 ---
 
 Ahora mismo tienes [Celio Hombre Jokrey15 Vaqueros Straight Not Applicable  Gris  Gris Gris    Talla del Fabricante: 40 ](https://www.amazon.es/dp/B07D5VF3PD/?tag=tolees-21) a 13.31 EUR (original: 49.99 EUR) (73.37 %  de descuento) en el siguiente enlace!

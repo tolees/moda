@@ -14,7 +14,7 @@ currency: EUR
 price: 54.99
 comparePrice: 110.0 EUR
 inStock: true
-prodname: Timberland Adventure 2.0 Cupsole Modern Oxford  Zapatillas Bajas para Hombre  Gris Light Grey Nubuck  44 EU
+prodname: 'Timberland Adventure 2.0 Cupsole Modern Oxford  Zapatillas Bajas para Hombre  Gris Light Grey Nubuck  44 EU'
 ---
 
 Tienes [Timberland Adventure 2.0 Cupsole Modern Oxford  Zapatillas Bajas para Hombre  Gris Light Grey Nubuck  44 EU](https://www.amazon.es/dp/B07RDM2SK4/?tag=tolees-21) con un 50.01 % de descuento con precio de oferta de 54.99 EUR (original: 110.0 EUR) en el siguiente enlace!

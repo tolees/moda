@@ -14,7 +14,7 @@ currency: EUR
 price: 50.62
 comparePrice: 110 EUR
 inStock: true
-prodname: Levi s 510 Skinny Fit  Vaqueros para Hombre  Azul  Madison Square 0701   36W / 34L
+prodname: 'Levi s 510 Skinny Fit  Vaqueros para Hombre  Azul  Madison Square 0701   36W / 34L'
 ---
 
 Ahora mismo tienes [Levi s 510 Skinny Fit  Vaqueros para Hombre  Azul  Madison Square 0701   36W / 34L](https://www.amazon.es/dp/B071DXDJ2S/?tag=tolees-21) a 50.62 EUR (original: 110 EUR) (53.98 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 29.7
 comparePrice: 139 EUR
 inStock: true
-prodname: REPLAY Rob  Vaqueros Relaxed para Hombre  Azul  Mid Blue Denim 10  W30/L34
+prodname: 'REPLAY Rob  Vaqueros Relaxed para Hombre  Azul  Mid Blue Denim 10  W30/L34'
 ---
 
 Ahora mismo tienes [REPLAY Rob  Vaqueros Relaxed para Hombre  Azul  Mid Blue Denim 10  W30/L34](https://www.amazon.es/dp/B07CJGGC7M/?tag=tolees-21) a 29.7 EUR (original: 139 EUR) (78.63 %  de descuento) en el siguiente enlace!

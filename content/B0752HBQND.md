@@ -14,7 +14,7 @@ currency: EUR
 price: 18.37
 comparePrice: 50.0 EUR
 inStock: true
-prodname: Marca Amazon - find. Cazadora Estilo Bomber para Hombre  Azul  Navy   XL  Label: XL
+prodname: 'Marca Amazon - find. Cazadora Estilo Bomber para Hombre  Azul  Navy   XL  Label: XL'
 ---
 
 Ahora mismo tienes [Marca Amazon - find. Cazadora Estilo Bomber para Hombre  Azul  Navy   XL  Label: XL](https://www.amazon.es/dp/B0752HBQND/?tag=tolees-21) a 18.37 EUR (original: 50.0 EUR) (63.26 %  de descuento) en el siguiente enlace!

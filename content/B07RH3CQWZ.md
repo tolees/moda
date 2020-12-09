@@ -14,7 +14,7 @@ currency: EUR
 price: 8.66
 comparePrice: 14.99 EUR
 inStock: true
-prodname: JACK & JONES Jcobooster tee SS Crew Neck April 19 Camiseta  Azul  Azure Blue Fit: Slim   X-Large para Hombre
+prodname: 'JACK & JONES Jcobooster tee SS Crew Neck April 19 Camiseta  Azul  Azure Blue Fit: Slim   X-Large para Hombre'
 ---
 
 Tienes [JACK & JONES Jcobooster tee SS Crew Neck April 19 Camiseta  Azul  Azure Blue Fit: Slim   X-Large para Hombre](https://www.amazon.es/dp/B07RH3CQWZ/?tag=tolees-21) con un 42.23 % de descuento con precio de oferta de 8.66 EUR (original: 14.99 EUR) en el siguiente enlace!

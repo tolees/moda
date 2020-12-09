@@ -14,7 +14,7 @@ currency: EUR
 price: 51.21
 comparePrice: 99.95 EUR
 inStock: true
-prodname: Clarks Un Trail Form  Zapatos de Cordones Derby para Hombre  Marrón  Tan Leather-   44.5 EU
+prodname: 'Clarks Un Trail Form  Zapatos de Cordones Derby para Hombre  Marrón  Tan Leather-   44.5 EU'
 ---
 
 Tienes [Clarks Un Trail Form  Zapatos de Cordones Derby para Hombre  Marrón  Tan Leather-   44.5 EU](https://www.amazon.es/dp/B07FRBTMXF/?tag=tolees-21) con un 48.76 % de descuento con precio de oferta de 51.21 EUR (original: 99.95 EUR) en el siguiente enlace!

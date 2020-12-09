@@ -14,7 +14,7 @@ currency: EUR
 price: 22.48
 comparePrice: 39.04 EUR
 inStock: true
-prodname: CARE OF by PUMA Chaqueta acolchada impermeable para mujer  Rojo  Red   talla S
+prodname: 'CARE OF by PUMA Chaqueta acolchada impermeable para mujer  Rojo  Red   talla S'
 ---
 
 Tienes [CARE OF by PUMA Chaqueta acolchada impermeable para mujer  Rojo  Red   talla S](https://www.amazon.es/dp/B07QXXYM92/?tag=tolees-21) con un 42.42 % de descuento con precio de oferta de 22.48 EUR (original: 39.04 EUR) en el siguiente enlace!

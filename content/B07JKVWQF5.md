@@ -14,7 +14,7 @@ currency: EUR
 price: 16.09
 comparePrice: 29.95 EUR
 inStock: true
-prodname: XTI 86112  Bolso Bolera para Mujer   Blanco   17x13x8 cm  W x H x L 
+prodname: 'XTI 86112  Bolso Bolera para Mujer   Blanco   17x13x8 cm  W x H x L '
 ---
 
 Ahora mismo tienes [XTI 86112  Bolso Bolera para Mujer   Blanco   17x13x8 cm  W x H x L ](https://www.amazon.es/dp/B07JKVWQF5/?tag=tolees-21) a 16.09 EUR (original: 29.95 EUR) (46.28 %  de descuento) en el siguiente enlace!

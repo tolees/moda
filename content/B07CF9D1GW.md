@@ -14,7 +14,7 @@ currency: EUR
 price: 70.47
 comparePrice: 150 EUR
 inStock: true
-prodname: Under Armour Storm Anorak Chaqueta  Mujer  Blanco  100   XS
+prodname: 'Under Armour Storm Anorak Chaqueta  Mujer  Blanco  100   XS'
 ---
 
 Está [Under Armour Storm Anorak Chaqueta  Mujer  Blanco  100   XS](https://www.amazon.es/dp/B07CF9D1GW/?tag=tolees-21) con 53.02 de descuento por 70.47 EUR (original: 150 EUR) en el siguiente enlace!

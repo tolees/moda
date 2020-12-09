@@ -14,7 +14,7 @@ currency: EUR
 price: 1.94
 comparePrice: 3.25 EUR
 inStock: true
-prodname: Bebé Prewalker Zapatos Auxma Primeros Pasos para bebé-niñas Zapatos de Flores de Encaje Sandalias de Bowknot para 0-6 6-12 12-18 Meses  0-6 M  Blanco 
+prodname: 'Bebé Prewalker Zapatos Auxma Primeros Pasos para bebé-niñas Zapatos de Flores de Encaje Sandalias de Bowknot para 0-6 6-12 12-18 Meses  0-6 M  Blanco '
 ---
 
 Está [Bebé Prewalker Zapatos Auxma Primeros Pasos para bebé-niñas Zapatos de Flores de Encaje Sandalias de Bowknot para 0-6 6-12 12-18 Meses  0-6 M  Blanco ](https://www.amazon.es/dp/B01MYV9BNK/?tag=tolees-21) con 40.31 de descuento por 1.94 EUR (original: 3.25 EUR) en el siguiente enlace!

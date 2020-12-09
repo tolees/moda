@@ -14,7 +14,7 @@ currency: EUR
 price: 34.75
 comparePrice: 89.9 EUR
 inStock: true
-prodname: Superdry Echo Beach Cagoule  Chaqueta Deportiva para Hombre   Verde 03o   Medium
+prodname: 'Superdry Echo Beach Cagoule  Chaqueta Deportiva para Hombre   Verde 03o   Medium'
 ---
 
 Está [Superdry Echo Beach Cagoule  Chaqueta Deportiva para Hombre   Verde 03o   Medium](https://www.amazon.es/dp/B07FL8RTSW/?tag=tolees-21) con 61.35 de descuento por 34.75 EUR (original: 89.9 EUR) en el siguiente enlace!

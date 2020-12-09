@@ -14,7 +14,7 @@ currency: EUR
 price: 10.0
 comparePrice: 16.61 EUR
 inStock: true
-prodname: SafeLightPro F2 - Gafas de protección para depilación HPL/IPL  Protección UV
+prodname: 'SafeLightPro F2 - Gafas de protección para depilación HPL/IPL  Protección UV'
 ---
 
 Ahora mismo tienes [SafeLightPro F2 - Gafas de protección para depilación HPL/IPL  Protección UV](https://www.amazon.es/dp/B016BU1YEI/?tag=tolees-21) a 10.0 EUR (original: 16.61 EUR) (39.80 %  de descuento) en el siguiente enlace!

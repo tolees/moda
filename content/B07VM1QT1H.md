@@ -14,7 +14,7 @@ currency: EUR
 price: 54.95
 comparePrice: 100.0 EUR
 inStock: true
-prodname: Hackett London White Based Chk Camisa  Azul  5bpsky/Blue 5bp   40  Talla del Fabricante: Small  para Hombre
+prodname: 'Hackett London White Based Chk Camisa  Azul  5bpsky/Blue 5bp   40  Talla del Fabricante: Small  para Hombre'
 ---
 
 Ahora mismo tienes [Hackett London White Based Chk Camisa  Azul  5bpsky/Blue 5bp   40  Talla del Fabricante: Small  para Hombre](https://www.amazon.es/dp/B07VM1QT1H/?tag=tolees-21) a 54.95 EUR (original: 100.0 EUR) (45.05 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 27.49
 comparePrice: 49.99 EUR
 inStock: true
-prodname: Only onlSEDONA Coat OTW Noos Abrigo  Gris  Light Grey Melange   38  Talla del Fabricante: Medium  para Mujer
+prodname: 'Only onlSEDONA Coat OTW Noos Abrigo  Gris  Light Grey Melange   38  Talla del Fabricante: Medium  para Mujer'
 ---
 
 Tienes [Only onlSEDONA Coat OTW Noos Abrigo  Gris  Light Grey Melange   38  Talla del Fabricante: Medium  para Mujer](https://www.amazon.es/dp/B0719MYBVW/?tag=tolees-21) con un 45.01 % de descuento con precio de oferta de 27.49 EUR (original: 49.99 EUR) en el siguiente enlace!

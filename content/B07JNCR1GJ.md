@@ -14,7 +14,7 @@ currency: EUR
 price: 12.74
 comparePrice: 29.99 EUR
 inStock: true
-prodname: Cressi Aqua Shoes - Zapatos Deportivos para Uso Acuático  Negro/Azul  38
+prodname: 'Cressi Aqua Shoes - Zapatos Deportivos para Uso Acuático  Negro/Azul  38'
 ---
 
 Tienes [Cressi Aqua Shoes - Zapatos Deportivos para Uso Acuático  Negro/Azul  38](https://www.amazon.es/dp/B07JNCR1GJ/?tag=tolees-21) con un 57.52 % de descuento con precio de oferta de 12.74 EUR (original: 29.99 EUR) en el siguiente enlace!

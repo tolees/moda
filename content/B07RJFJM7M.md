@@ -14,7 +14,7 @@ currency: EUR
 price: 39.99
 comparePrice: 69.99 EUR
 inStock: true
-prodname: Zapatillas de Seguridad Mujer  LM-121 Zapatos de Trabajo con Punta de Acero Ultra Liviano Suave y cómodo Transpirable Antideslizante 39 EU Correa Negro 
+prodname: 'Zapatillas de Seguridad Mujer  LM-121 Zapatos de Trabajo con Punta de Acero Ultra Liviano Suave y cómodo Transpirable Antideslizante 39 EU Correa Negro '
 ---
 
 Tienes [Zapatillas de Seguridad Mujer  LM-121 Zapatos de Trabajo con Punta de Acero Ultra Liviano Suave y cómodo Transpirable Antideslizante 39 EU Correa Negro ](https://www.amazon.es/dp/B07RJFJM7M/?tag=tolees-21) con un 42.86 % de descuento con precio de oferta de 39.99 EUR (original: 69.99 EUR) en el siguiente enlace!

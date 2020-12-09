@@ -14,7 +14,7 @@ currency: EUR
 price: 6.08
 comparePrice: 24.95 EUR
 inStock: true
-prodname: Colorado Denim Eliessa  Camiseta de Manga Larga para Mujer  Azul  Nightshadow  XL
+prodname: 'Colorado Denim Eliessa  Camiseta de Manga Larga para Mujer  Azul  Nightshadow  XL'
 ---
 
 Está [Colorado Denim Eliessa  Camiseta de Manga Larga para Mujer  Azul  Nightshadow  XL](https://www.amazon.es/dp/B01GLKSQEY/?tag=tolees-21) con 75.63 de descuento por 6.08 EUR (original: 24.95 EUR) en el siguiente enlace!

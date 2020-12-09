@@ -14,7 +14,7 @@ currency: EUR
 price: 9.53
 comparePrice: 19.06 EUR
 inStock: true
-prodname: OBEEII Disfraz de Anna Frozen  Princesa Elsa y Reina de la Nieve  Vestido de fantasía para niñas Cosplay Show Navidad Carnaval Cumpleaños Fiesta Pascua Regalo Anna06 6-7 Años
+prodname: 'OBEEII Disfraz de Anna Frozen  Princesa Elsa y Reina de la Nieve  Vestido de fantasía para niñas Cosplay Show Navidad Carnaval Cumpleaños Fiesta Pascua Regalo Anna06 6-7 Años'
 ---
 
 Está [OBEEII Disfraz de Anna Frozen  Princesa Elsa y Reina de la Nieve  Vestido de fantasía para niñas Cosplay Show Navidad Carnaval Cumpleaños Fiesta Pascua Regalo Anna06 6-7 Años](https://www.amazon.es/dp/B08GX8Y6BW/?tag=tolees-21) con 50.00 de descuento por 9.53 EUR (original: 19.06 EUR) en el siguiente enlace!

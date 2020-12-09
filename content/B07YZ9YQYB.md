@@ -14,7 +14,7 @@ currency: EUR
 price: 9.47
 comparePrice: 12.73 EUR
 inStock: true
-prodname: Marca Amazon - find. Cotton Utility - Abrigos Hombre  Beige  Stone   S  Label: S
+prodname: 'Marca Amazon - find. Cotton Utility - Abrigos Hombre  Beige  Stone   S  Label: S'
 ---
 
 Está [Marca Amazon - find. Cotton Utility - Abrigos Hombre  Beige  Stone   S  Label: S](https://www.amazon.es/dp/B07YZ9YQYB/?tag=tolees-21) con 25.61 de descuento por 9.47 EUR (original: 12.73 EUR) en el siguiente enlace!

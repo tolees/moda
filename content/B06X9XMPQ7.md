@@ -14,7 +14,7 @@ currency: EUR
 price: 18
 comparePrice: 60 EUR
 inStock: true
-prodname: find. Zapatos de Piel Brogue para Mujer  Negro  Black   36 EU
+prodname: 'find. Zapatos de Piel Brogue para Mujer  Negro  Black   36 EU'
 ---
 
 Tienes [find. Zapatos de Piel Brogue para Mujer  Negro  Black   36 EU](https://www.amazon.es/dp/B06X9XMPQ7/?tag=tolees-21) con un 70.00 % de descuento con precio de oferta de 18 EUR (original: 60 EUR) en el siguiente enlace!

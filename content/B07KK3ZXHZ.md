@@ -14,7 +14,7 @@ currency: EUR
 price: 47.95
 comparePrice: 119.99 EUR
 inStock: true
-prodname: Columbia Peakfreak X2 Outdry  Zapatos de Senderismo  para Hombre  Black  Ti Grey Steel  42 EU
+prodname: 'Columbia Peakfreak X2 Outdry  Zapatos de Senderismo  para Hombre  Black  Ti Grey Steel  42 EU'
 ---
 
 Ahora mismo tienes [Columbia Peakfreak X2 Outdry  Zapatos de Senderismo  para Hombre  Black  Ti Grey Steel  42 EU](https://www.amazon.es/dp/B07KK3ZXHZ/?tag=tolees-21) a 47.95 EUR (original: 119.99 EUR) (60.04 %  de descuento) en el siguiente enlace!

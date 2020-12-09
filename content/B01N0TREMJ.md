@@ -14,7 +14,7 @@ currency: EUR
 price: 27.21
 comparePrice: 45.9 EUR
 inStock: true
-prodname: oodji Ultra Mujer Chaqueta Acolchada con Cremallera y Botones Decorativos  Rojo  ES 34 / XXS
+prodname: 'oodji Ultra Mujer Chaqueta Acolchada con Cremallera y Botones Decorativos  Rojo  ES 34 / XXS'
 ---
 
 Ahora mismo tienes [oodji Ultra Mujer Chaqueta Acolchada con Cremallera y Botones Decorativos  Rojo  ES 34 / XXS](https://www.amazon.es/dp/B01N0TREMJ/?tag=tolees-21) a 27.21 EUR (original: 45.9 EUR) (40.72 %  de descuento) en el siguiente enlace!

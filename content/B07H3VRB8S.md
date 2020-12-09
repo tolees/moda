@@ -14,7 +14,7 @@ currency: EUR
 price: 6.98
 comparePrice: 11.98 EUR
 inStock: true
-prodname: CHRONSTYLE Conjunto de pijama para Niños 3 meses Bebé  Baby 
+prodname: 'CHRONSTYLE Conjunto de pijama para Niños 3 meses Bebé  Baby '
 ---
 
 Tienes [CHRONSTYLE Conjunto de pijama para Niños 3 meses Bebé  Baby ](https://www.amazon.es/dp/B07H3VRB8S/?tag=tolees-21) con un 41.74 % de descuento con precio de oferta de 6.98 EUR (original: 11.98 EUR) en el siguiente enlace!

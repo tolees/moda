@@ -14,7 +14,7 @@ currency: EUR
 price: 8.63
 comparePrice: 23.95 EUR
 inStock: true
-prodname: Joma Free 900222 Camiseta  Mujer  Morado  S
+prodname: 'Joma Free 900222 Camiseta  Mujer  Morado  S'
 ---
 
 Tienes [Joma Free 900222 Camiseta  Mujer  Morado  S](https://www.amazon.es/dp/B01ERZGPX4/?tag=tolees-21) con un 63.97 % de descuento con precio de oferta de 8.63 EUR (original: 23.95 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 25.46
 comparePrice: 50 EUR
 inStock: true
-prodname: Lacoste Tf3049 Camiseta  Marfil  Napolitain 6xp   34 para Mujer
+prodname: 'Lacoste Tf3049 Camiseta  Marfil  Napolitain 6xp   34 para Mujer'
 ---
 
 Tienes [Lacoste Tf3049 Camiseta  Marfil  Napolitain 6xp   34 para Mujer](https://www.amazon.es/dp/B07JFGFYJS/?tag=tolees-21) con un 49.08 % de descuento con precio de oferta de 25.46 EUR (original: 50 EUR) en el siguiente enlace!

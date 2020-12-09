@@ -14,7 +14,7 @@ currency: EUR
 price: 51.87
 comparePrice: 129.95 EUR
 inStock: true
-prodname: Berg Outdoor Leomil Chaqueta  Mujer  Negro  XL
+prodname: 'Berg Outdoor Leomil Chaqueta  Mujer  Negro  XL'
 ---
 
 Está [Berg Outdoor Leomil Chaqueta  Mujer  Negro  XL](https://www.amazon.es/dp/B07GT7CBJW/?tag=tolees-21) con 60.08 de descuento por 51.87 EUR (original: 129.95 EUR) en el siguiente enlace!

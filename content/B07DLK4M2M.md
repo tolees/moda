@@ -14,7 +14,7 @@ currency: EUR
 price: 13.41
 comparePrice: 26.99 EUR
 inStock: true
-prodname: Springfield 6.J.Ap.T.Bimateria Bordad Jersey  Mujer  Rosa  Gama Rosas/morados 71   X-Small  Tamaño del Fabricante:XS 
+prodname: 'Springfield 6.J.Ap.T.Bimateria Bordad Jersey  Mujer  Rosa  Gama Rosas/morados 71   X-Small  Tamaño del Fabricante:XS '
 ---
 
 Tienes [Springfield 6.J.Ap.T.Bimateria Bordad Jersey  Mujer  Rosa  Gama Rosas/morados 71   X-Small  Tamaño del Fabricante:XS ](https://www.amazon.es/dp/B07DLK4M2M/?tag=tolees-21) con un 50.31 % de descuento con precio de oferta de 13.41 EUR (original: 26.99 EUR) en el siguiente enlace!

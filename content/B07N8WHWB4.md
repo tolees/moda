@@ -14,7 +14,7 @@ currency: EUR
 price: 26.06
 comparePrice: 89.9 EUR
 inStock: true
-prodname: Pepe Jeans Cher High Vaqueros Pitillo Hombre  Azul  Medium Used Denim Wv1   W31/L28 para Mujer
+prodname: 'Pepe Jeans Cher High Vaqueros Pitillo Hombre  Azul  Medium Used Denim Wv1   W31/L28 para Mujer'
 ---
 
 Está [Pepe Jeans Cher High Vaqueros Pitillo Hombre  Azul  Medium Used Denim Wv1   W31/L28 para Mujer](https://www.amazon.es/dp/B07N8WHWB4/?tag=tolees-21) con 71.01 de descuento por 26.06 EUR (original: 89.9 EUR) en el siguiente enlace!

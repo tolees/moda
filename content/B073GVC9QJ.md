@@ -14,7 +14,7 @@ currency: EUR
 price: 7.14
 comparePrice: 19.99 EUR
 inStock: true
-prodname: Esprit 097ee1k008  Camiseta Mujer   Light Aqua Green 390   Small
+prodname: 'Esprit 097ee1k008  Camiseta Mujer   Light Aqua Green 390   Small'
 ---
 
 Está [Esprit 097ee1k008  Camiseta Mujer   Light Aqua Green 390   Small](https://www.amazon.es/dp/B073GVC9QJ/?tag=tolees-21) con 64.28 de descuento por 7.14 EUR (original: 19.99 EUR) en el siguiente enlace!

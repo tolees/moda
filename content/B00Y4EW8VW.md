@@ -14,7 +14,7 @@ currency: EUR
 price: 89.51
 comparePrice: 329.0 EUR
 inStock: true
-prodname: Tommy Hilfiger Butch STSSLD99003 Chaqueta de Traje  Azul  427   102 para Hombre
+prodname: 'Tommy Hilfiger Butch STSSLD99003 Chaqueta de Traje  Azul  427   102 para Hombre'
 ---
 
 Está [Tommy Hilfiger Butch STSSLD99003 Chaqueta de Traje  Azul  427   102 para Hombre](https://www.amazon.es/dp/B00Y4EW8VW/?tag=tolees-21) con 72.79 de descuento por 89.51 EUR (original: 329.0 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 55
 comparePrice: 110 EUR
 inStock: true
-prodname: Levi s The Jacket Chaqueta Vaquera  Negro  Berk Trucker 0306   Small para Hombre
+prodname: 'Levi s The Jacket Chaqueta Vaquera  Negro  Berk Trucker 0306   Small para Hombre'
 ---
 
 Está [Levi s The Jacket Chaqueta Vaquera  Negro  Berk Trucker 0306   Small para Hombre](https://www.amazon.es/dp/B07F27SFVQ/?tag=tolees-21) con 50.00 de descuento por 55 EUR (original: 110 EUR) en el siguiente enlace!

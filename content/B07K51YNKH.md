@@ -14,7 +14,7 @@ currency: EUR
 price: 73.99
 comparePrice: 110.0 EUR
 inStock: true
-prodname: Levi s The Jacket  Chaqueta vaquera  Azul  Palmer Trucker 0352   X-Large para Hombre
+prodname: 'Levi s The Jacket  Chaqueta vaquera  Azul  Palmer Trucker 0352   X-Large para Hombre'
 ---
 
 Está [Levi s The Jacket  Chaqueta vaquera  Azul  Palmer Trucker 0352   X-Large para Hombre](https://www.amazon.es/dp/B07K51YNKH/?tag=tolees-21) con 32.74 de descuento por 73.99 EUR (original: 110.0 EUR) en el siguiente enlace!

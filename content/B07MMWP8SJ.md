@@ -14,7 +14,7 @@ currency: EUR
 price: 35.43
 comparePrice: 99.95 EUR
 inStock: true
-prodname: Wrangler Skinny Jeans Vaqueros  Azul  Soft Worn 12b   24W / 32L para Mujer
+prodname: 'Wrangler Skinny Jeans Vaqueros  Azul  Soft Worn 12b   24W / 32L para Mujer'
 ---
 
 Está [Wrangler Skinny Jeans Vaqueros  Azul  Soft Worn 12b   24W / 32L para Mujer](https://www.amazon.es/dp/B07MMWP8SJ/?tag=tolees-21) con 64.55 de descuento por 35.43 EUR (original: 99.95 EUR) en el siguiente enlace!

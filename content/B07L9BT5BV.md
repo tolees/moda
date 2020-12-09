@@ -14,7 +14,7 @@ currency: EUR
 price: 21.88
 comparePrice: 33.16 EUR
 inStock: true
-prodname: Dorothy Perkins Check Shift Dress  Vestido para Mujer  Gris  Grey 150   36  Talla del Fabricante: 8 
+prodname: 'Dorothy Perkins Check Shift Dress  Vestido para Mujer  Gris  Grey 150   36  Talla del Fabricante: 8 '
 ---
 
 Está [Dorothy Perkins Check Shift Dress  Vestido para Mujer  Gris  Grey 150   36  Talla del Fabricante: 8 ](https://www.amazon.es/dp/B07L9BT5BV/?tag=tolees-21) con 34.02 de descuento por 21.88 EUR (original: 33.16 EUR) en el siguiente enlace!

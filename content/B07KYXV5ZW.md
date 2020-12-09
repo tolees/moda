@@ -14,7 +14,7 @@ currency: EUR
 price: 7.92
 comparePrice: 17.99 EUR
 inStock: true
-prodname: Springfield Frq.T.MD.All Over Flores Camiseta  Mujer  Negro  Negro 1   X-Large  Tamaño del Fabricante:XL 
+prodname: 'Springfield Frq.T.MD.All Over Flores Camiseta  Mujer  Negro  Negro 1   X-Large  Tamaño del Fabricante:XL '
 ---
 
 Está [Springfield Frq.T.MD.All Over Flores Camiseta  Mujer  Negro  Negro 1   X-Large  Tamaño del Fabricante:XL ](https://www.amazon.es/dp/B07KYXV5ZW/?tag=tolees-21) con 55.98 de descuento por 7.92 EUR (original: 17.99 EUR) en el siguiente enlace!

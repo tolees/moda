@@ -14,7 +14,7 @@ currency: EUR
 price: 56.98
 comparePrice: 119.9 EUR
 inStock: true
-prodname: Geox D RUBIDIA A  Zapatillas  Beige  Light Taupe C6738   35 EU
+prodname: 'Geox D RUBIDIA A  Zapatillas  Beige  Light Taupe C6738   35 EU'
 ---
 
 Tienes [Geox D RUBIDIA A  Zapatillas  Beige  Light Taupe C6738   35 EU](https://www.amazon.es/dp/B07DJ7LXYS/?tag=tolees-21) con un 52.48 % de descuento con precio de oferta de 56.98 EUR (original: 119.9 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 10.69
 comparePrice: 29.95 EUR
 inStock: true
-prodname: Trucco - camiseta para mujer  color blanco  talla S
+prodname: 'Trucco - camiseta para mujer  color blanco  talla S'
 ---
 
 Tienes [Trucco - camiseta para mujer  color blanco  talla S](https://www.amazon.es/dp/B073SBR5LR/?tag=tolees-21) con un 64.31 % de descuento con precio de oferta de 10.69 EUR (original: 29.95 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 45.99
 comparePrice: 70.0 EUR
 inStock: true
-prodname: Levi s Graphic Diana Crew Sudadera  White  90 s Serif White+ 0000   XXS para Mujer
+prodname: 'Levi s Graphic Diana Crew Sudadera  White  90 s Serif White+ 0000   XXS para Mujer'
 ---
 
 Ahora mismo tienes [Levi s Graphic Diana Crew Sudadera  White  90 s Serif White+ 0000   XXS para Mujer](https://www.amazon.es/dp/B07SP4YWD6/?tag=tolees-21) a 45.99 EUR (original: 70.0 EUR) (34.30 %  de descuento) en el siguiente enlace!

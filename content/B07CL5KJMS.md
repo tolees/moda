@@ -14,7 +14,7 @@ currency: EUR
 price: 15.84
 comparePrice: 49.9 EUR
 inStock: true
-prodname: Lovable 9l076c Pijama   Verde 009   Medium para Mujer
+prodname: 'Lovable 9l076c Pijama   Verde 009   Medium para Mujer'
 ---
 
 Está [Lovable 9l076c Pijama   Verde 009   Medium para Mujer](https://www.amazon.es/dp/B07CL5KJMS/?tag=tolees-21) con 68.26 de descuento por 15.84 EUR (original: 49.9 EUR) en el siguiente enlace!

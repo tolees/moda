@@ -14,7 +14,7 @@ currency: EUR
 price: 3.76
 comparePrice: 6.42 EUR
 inStock: true
-prodname: Springfield 7.Pv20.Panadera Lace-C/97 Camiseta  Blanco  White Print 97   XS  Tamaño del Fabricante: XS  para Mujer
+prodname: 'Springfield 7.Pv20.Panadera Lace-C/97 Camiseta  Blanco  White Print 97   XS  Tamaño del Fabricante: XS  para Mujer'
 ---
 
 Ahora mismo tienes [Springfield 7.Pv20.Panadera Lace-C/97 Camiseta  Blanco  White Print 97   XS  Tamaño del Fabricante: XS  para Mujer](https://www.amazon.es/dp/B07WLXMCNG/?tag=tolees-21) a 3.76 EUR (original: 6.42 EUR) (41.43 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 9.01
 comparePrice: 26.0 EUR
 inStock: true
-prodname: Under Armour Challenger III Knit Short  Pantalones Cortos para Entrenar  pantalón Short de Hombre para Correr Hombre  Negro  Black/White  001    2XL
+prodname: 'Under Armour Challenger III Knit Short  Pantalones Cortos para Entrenar  pantalón Short de Hombre para Correr Hombre  Negro  Black/White  001    2XL'
 ---
 
 Está [Under Armour Challenger III Knit Short  Pantalones Cortos para Entrenar  pantalón Short de Hombre para Correr Hombre  Negro  Black/White  001    2XL](https://www.amazon.es/dp/B07PMTL4JF/?tag=tolees-21) con 65.35 de descuento por 9.01 EUR (original: 26.0 EUR) en el siguiente enlace!

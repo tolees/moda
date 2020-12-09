@@ -14,7 +14,7 @@ currency: EUR
 price: 26.2
 comparePrice: 35 EUR
 inStock: true
-prodname: Lacoste TH7618  Camiseta para Hombre  Negro  Noir   Medium  Talla del fabricante: 4 
+prodname: 'Lacoste TH7618  Camiseta para Hombre  Negro  Noir   Medium  Talla del fabricante: 4 '
 ---
 
 Está [Lacoste TH7618  Camiseta para Hombre  Negro  Noir   Medium  Talla del fabricante: 4 ](https://www.amazon.es/dp/B00Q4MYZW2/?tag=tolees-21) con 25.14 de descuento por 26.2 EUR (original: 35 EUR) en el siguiente enlace!

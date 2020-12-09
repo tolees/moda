@@ -14,7 +14,7 @@ currency: EUR
 price: 5.98
 comparePrice: 71.12 EUR
 inStock: true
-prodname: Lindbergh Men s Waistcoat For Suit  Chaqueta de Traje para Hombre  Gris  Lt Grey   48
+prodname: 'Lindbergh Men s Waistcoat For Suit  Chaqueta de Traje para Hombre  Gris  Lt Grey   48'
 ---
 
 Ahora mismo tienes [Lindbergh Men s Waistcoat For Suit  Chaqueta de Traje para Hombre  Gris  Lt Grey   48](https://www.amazon.es/dp/B06XPM6HSQ/?tag=tolees-21) a 5.98 EUR (original: 71.12 EUR) (91.59 %  de descuento) en el siguiente enlace!

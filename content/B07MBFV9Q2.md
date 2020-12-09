@@ -14,7 +14,7 @@ currency: EUR
 price: 51.99
 comparePrice: 119.99 EUR
 inStock: true
-prodname: Columbia Lake 22  Chaqueta de plumas  Hombre  Azul  Collegiate Navy   Talla M
+prodname: 'Columbia Lake 22  Chaqueta de plumas  Hombre  Azul  Collegiate Navy   Talla M'
 ---
 
 Tienes [Columbia Lake 22  Chaqueta de plumas  Hombre  Azul  Collegiate Navy   Talla M](https://www.amazon.es/dp/B07MBFV9Q2/?tag=tolees-21) con un 56.67 % de descuento con precio de oferta de 51.99 EUR (original: 119.99 EUR) en el siguiente enlace!

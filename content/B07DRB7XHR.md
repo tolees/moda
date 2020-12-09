@@ -14,7 +14,7 @@ currency: EUR
 price: 15.49
 comparePrice: 45.99 EUR
 inStock: true
-prodname: MTNG Collection 57401  Botines para Mujer   Antil Negro C35442   37 EU
+prodname: 'MTNG Collection 57401  Botines para Mujer   Antil Negro C35442   37 EU'
 ---
 
 Ahora mismo tienes [MTNG Collection 57401  Botines para Mujer   Antil Negro C35442   37 EU](https://www.amazon.es/dp/B07DRB7XHR/?tag=tolees-21) a 15.49 EUR (original: 45.99 EUR) (66.32 %  de descuento) en el siguiente enlace!

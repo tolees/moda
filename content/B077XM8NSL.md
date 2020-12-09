@@ -14,7 +14,7 @@ currency: EUR
 price: 32.68
 comparePrice: 54.99 EUR
 inStock: true
-prodname: Under Armour Rival Fleece Logo Hoodie Sudadera  Hombre  Negro  Black/White 001   M
+prodname: 'Under Armour Rival Fleece Logo Hoodie Sudadera  Hombre  Negro  Black/White 001   M'
 ---
 
 Tienes [Under Armour Rival Fleece Logo Hoodie Sudadera  Hombre  Negro  Black/White 001   M](https://www.amazon.es/dp/B077XM8NSL/?tag=tolees-21) con un 40.57 % de descuento con precio de oferta de 32.68 EUR (original: 54.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 55.95
 comparePrice: 97.19 EUR
 inStock: true
-prodname: Lacoste Sj7625 Sudadera  Gris  Argent Chiné Cca   14 años  Talla del Fabricante: 14A  para Niños
+prodname: 'Lacoste Sj7625 Sudadera  Gris  Argent Chiné Cca   14 años  Talla del Fabricante: 14A  para Niños'
 ---
 
 Está [Lacoste Sj7625 Sudadera  Gris  Argent Chiné Cca   14 años  Talla del Fabricante: 14A  para Niños](https://www.amazon.es/dp/B07MRKH4Y5/?tag=tolees-21) con 42.43 de descuento por 55.95 EUR (original: 97.19 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 38.99
 comparePrice: 119.95 EUR
 inStock: true
-prodname: Wrangler Jacket Chaqueta bomber  Azul  NAVY 114   Large para Hombre
+prodname: 'Wrangler Jacket Chaqueta bomber  Azul  NAVY 114   Large para Hombre'
 ---
 
 Tienes [Wrangler Jacket Chaqueta bomber  Azul  NAVY 114   Large para Hombre](https://www.amazon.es/dp/B07TXXBSYM/?tag=tolees-21) con un 67.49 % de descuento con precio de oferta de 38.99 EUR (original: 119.95 EUR) en el siguiente enlace!

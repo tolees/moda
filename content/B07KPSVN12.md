@@ -14,7 +14,7 @@ currency: EUR
 price: 23.86
 comparePrice: 79 EUR
 inStock: true
-prodname: REPLAY M4006 .000.80279a Camisa  Azul  Azure 960   Small para Hombre
+prodname: 'REPLAY M4006 .000.80279a Camisa  Azul  Azure 960   Small para Hombre'
 ---
 
 Tienes [REPLAY M4006 .000.80279a Camisa  Azul  Azure 960   Small para Hombre](https://www.amazon.es/dp/B07KPSVN12/?tag=tolees-21) con un 69.80 % de descuento con precio de oferta de 23.86 EUR (original: 79 EUR) en el siguiente enlace!

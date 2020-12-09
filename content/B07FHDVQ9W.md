@@ -14,7 +14,7 @@ currency: EUR
 price: 16.47
 comparePrice: 29.95 EUR
 inStock: true
-prodname: adidas Response tee M  Camiseta de Tirantes para Hombre  Rojo Noble Maroon F18  Medium
+prodname: 'adidas Response tee M  Camiseta de Tirantes para Hombre  Rojo Noble Maroon F18  Medium'
 ---
 
 Ahora mismo tienes [adidas Response tee M  Camiseta de Tirantes para Hombre  Rojo Noble Maroon F18  Medium](https://www.amazon.es/dp/B07FHDVQ9W/?tag=tolees-21) a 16.47 EUR (original: 29.95 EUR) (45.01 %  de descuento) en el siguiente enlace!

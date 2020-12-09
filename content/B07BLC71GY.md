@@ -14,7 +14,7 @@ currency: EUR
 price: 15.4
 comparePrice: 22 EUR
 inStock: true
-prodname: AURIQUE Mallas Deportivas con Cordón en la Cintura Mujer  Negro  Black   36  Talla del Fabricante: XS 
+prodname: 'AURIQUE Mallas Deportivas con Cordón en la Cintura Mujer  Negro  Black   36  Talla del Fabricante: XS '
 ---
 
 Está [AURIQUE Mallas Deportivas con Cordón en la Cintura Mujer  Negro  Black   36  Talla del Fabricante: XS ](https://www.amazon.es/dp/B07BLC71GY/?tag=tolees-21) con 30.00 de descuento por 15.4 EUR (original: 22 EUR) en el siguiente enlace!

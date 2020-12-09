@@ -14,7 +14,7 @@ currency: EUR
 price: 17.9
 comparePrice: 39.99 EUR
 inStock: true
-prodname: Springfield 5Ua-Chaleco C/Funnel Chaqueta  Hombre  Gris  Gama Grises 44   Small  Tamaño del Fabricante:S 
+prodname: 'Springfield 5Ua-Chaleco C/Funnel Chaqueta  Hombre  Gris  Gama Grises 44   Small  Tamaño del Fabricante:S '
 ---
 
 Está [Springfield 5Ua-Chaleco C/Funnel Chaqueta  Hombre  Gris  Gama Grises 44   Small  Tamaño del Fabricante:S ](https://www.amazon.es/dp/B07DLFVDBV/?tag=tolees-21) con 55.24 de descuento por 17.9 EUR (original: 39.99 EUR) en el siguiente enlace!

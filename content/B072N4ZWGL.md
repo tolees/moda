@@ -14,7 +14,7 @@ currency: EUR
 price: 19.13
 comparePrice: 34.95 EUR
 inStock: true
-prodname: BOSS Brief Signature Bóxer  Blanco  White 100   Medium para Hombre
+prodname: 'BOSS Brief Signature Bóxer  Blanco  White 100   Medium para Hombre'
 ---
 
 Tienes [BOSS Brief Signature Bóxer  Blanco  White 100   Medium para Hombre](https://www.amazon.es/dp/B072N4ZWGL/?tag=tolees-21) con un 45.26 % de descuento con precio de oferta de 19.13 EUR (original: 34.95 EUR) en el siguiente enlace!

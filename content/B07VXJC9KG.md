@@ -14,7 +14,7 @@ currency: EUR
 price: 39.06
 comparePrice: 109.95 EUR
 inStock: true
-prodname: Art Güell  Sandalias con Punta Abierta para Mujer  Marrón  Cuero   38 EU
+prodname: 'Art Güell  Sandalias con Punta Abierta para Mujer  Marrón  Cuero   38 EU'
 ---
 
 Tienes [Art Güell  Sandalias con Punta Abierta para Mujer  Marrón  Cuero   38 EU](https://www.amazon.es/dp/B07VXJC9KG/?tag=tolees-21) con un 64.47 % de descuento con precio de oferta de 39.06 EUR (original: 109.95 EUR) en el siguiente enlace!

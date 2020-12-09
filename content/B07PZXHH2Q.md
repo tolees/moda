@@ -14,7 +14,7 @@ currency: EUR
 price: 7.05
 comparePrice: 9.71 EUR
 inStock: true
-prodname: Marca Amazon - find. Phkn0239 - chaqueta premama Mujer  Azul  Blue   40  Label: M
+prodname: 'Marca Amazon - find. Phkn0239 - chaqueta premama Mujer  Azul  Blue   40  Label: M'
 ---
 
 Ahora mismo tienes [Marca Amazon - find. Phkn0239 - chaqueta premama Mujer  Azul  Blue   40  Label: M](https://www.amazon.es/dp/B07PZXHH2Q/?tag=tolees-21) a 7.05 EUR (original: 9.71 EUR) (27.39 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 10.5
 comparePrice: 40 EUR
 inStock: true
-prodname: find. Pantalón con Estampado de Flores Mujer  Negro  Black Mix   36  Talla del Fabricante: X-Small 
+prodname: 'find. Pantalón con Estampado de Flores Mujer  Negro  Black Mix   36  Talla del Fabricante: X-Small '
 ---
 
 Ahora mismo tienes [find. Pantalón con Estampado de Flores Mujer  Negro  Black Mix   36  Talla del Fabricante: X-Small ](https://www.amazon.es/dp/B01MXYIL0V/?tag=tolees-21) a 10.5 EUR (original: 40 EUR) (73.75 %  de descuento) en el siguiente enlace!

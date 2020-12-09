@@ -14,7 +14,7 @@ currency: EUR
 price: 10.95
 comparePrice: 21 EUR
 inStock: true
-prodname: Joma SHT.S0M01 - Falda de tenis para mujer  color Coral  talla Medium
+prodname: 'Joma SHT.S0M01 - Falda de tenis para mujer  color Coral  talla Medium'
 ---
 
 Está [Joma SHT.S0M01 - Falda de tenis para mujer  color Coral  talla Medium](https://www.amazon.es/dp/B01ERPH5D8/?tag=tolees-21) con 47.86 de descuento por 10.95 EUR (original: 21 EUR) en el siguiente enlace!

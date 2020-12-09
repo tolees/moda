@@ -14,7 +14,7 @@ currency: EUR
 price: 43.86
 comparePrice: 249.9 EUR
 inStock: true
-prodname: Dolores Promesas 107351  Chaqueta de Traje para Mujer  Negro   Tamaño del Fabricante:42 
+prodname: 'Dolores Promesas 107351  Chaqueta de Traje para Mujer  Negro   Tamaño del Fabricante:42 '
 ---
 
 Tienes [Dolores Promesas 107351  Chaqueta de Traje para Mujer  Negro   Tamaño del Fabricante:42 ](https://www.amazon.es/dp/B07D7MPXHM/?tag=tolees-21) con un 82.45 % de descuento con precio de oferta de 43.86 EUR (original: 249.9 EUR) en el siguiente enlace!

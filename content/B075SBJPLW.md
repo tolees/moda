@@ -14,7 +14,7 @@ currency: EUR
 price: 59.11
 comparePrice: 199.99 EUR
 inStock: true
-prodname: Gant Winter Star Shirt  Camisa para Mujer  Rosa  Port Red   16  Talla del Fabricante: 42 
+prodname: 'Gant Winter Star Shirt  Camisa para Mujer  Rosa  Port Red   16  Talla del Fabricante: 42 '
 ---
 
 Está [Gant Winter Star Shirt  Camisa para Mujer  Rosa  Port Red   16  Talla del Fabricante: 42 ](https://www.amazon.es/dp/B075SBJPLW/?tag=tolees-21) con 70.44 de descuento por 59.11 EUR (original: 199.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 53.49
 comparePrice: 129.99 EUR
 inStock: true
-prodname: Columbia Powder Lite Chaqueta para Hombre  Azul  Collegiate Navy   XL
+prodname: 'Columbia Powder Lite Chaqueta para Hombre  Azul  Collegiate Navy   XL'
 ---
 
 Ahora mismo tienes [Columbia Powder Lite Chaqueta para Hombre  Azul  Collegiate Navy   XL](https://www.amazon.es/dp/B072X1KNZT/?tag=tolees-21) a 53.49 EUR (original: 129.99 EUR) (58.85 %  de descuento) en el siguiente enlace!

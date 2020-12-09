@@ -14,7 +14,7 @@ currency: EUR
 price: 2.96
 comparePrice: 4.23 EUR
 inStock: true
-prodname: #NA Calentador de montaña con Aislamiento USB de Moda  Aislamiento térmico  Taza de café Multifuncional eléctrica  Alfombrilla  Accesorio de Oficina en casa
+prodname: '#NA Calentador de montaña con Aislamiento USB de Moda  Aislamiento térmico  Taza de café Multifuncional eléctrica  Alfombrilla  Accesorio de Oficina en casa'
 ---
 
 Tienes [#NA Calentador de montaña con Aislamiento USB de Moda  Aislamiento térmico  Taza de café Multifuncional eléctrica  Alfombrilla  Accesorio de Oficina en casa](https://www.amazon.es/dp/B08HYK6BZR/?tag=tolees-21) con un 30.02 % de descuento con precio de oferta de 2.96 EUR (original: 4.23 EUR) en el siguiente enlace!

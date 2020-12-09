@@ -14,7 +14,7 @@ currency: EUR
 price: 40.86
 comparePrice: 109.9 EUR
 inStock: true
-prodname: Geox U EOLO B  Zapatillas para Hombre  Gris  White/Lt Grey C1236   40 EU
+prodname: 'Geox U EOLO B  Zapatillas para Hombre  Gris  White/Lt Grey C1236   40 EU'
 ---
 
 Tienes [Geox U EOLO B  Zapatillas para Hombre  Gris  White/Lt Grey C1236   40 EU](https://www.amazon.es/dp/B07SQGP3FQ/?tag=tolees-21) con un 62.82 % de descuento con precio de oferta de 40.86 EUR (original: 109.9 EUR) en el siguiente enlace!

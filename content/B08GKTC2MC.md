@@ -14,7 +14,7 @@ currency: EUR
 price: 41.99
 comparePrice: 59.99 EUR
 inStock: true
-prodname: Superdry Mujer Sudadera con Cuello Redondo Super Arenilla Gris Sílex 40
+prodname: 'Superdry Mujer Sudadera con Cuello Redondo Super Arenilla Gris Sílex 40'
 ---
 
 Ahora mismo tienes [Superdry Mujer Sudadera con Cuello Redondo Super Arenilla Gris Sílex 40](https://www.amazon.es/dp/B08GKTC2MC/?tag=tolees-21) a 41.99 EUR (original: 59.99 EUR) (30.01 %  de descuento) en el siguiente enlace!

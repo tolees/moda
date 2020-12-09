@@ -14,7 +14,7 @@ currency: EUR
 price: 12.99
 comparePrice: 34.65 EUR
 inStock: true
-prodname: KICCOLY Gafas de Sol Deportivas Polarizadas para Hombre Esquiar Golf Correr Ciclismo TR8116 Súper Liviana para Hombre y para Mujer
+prodname: 'KICCOLY Gafas de Sol Deportivas Polarizadas para Hombre Esquiar Golf Correr Ciclismo TR8116 Súper Liviana para Hombre y para Mujer'
 ---
 
 Tienes [KICCOLY Gafas de Sol Deportivas Polarizadas para Hombre Esquiar Golf Correr Ciclismo TR8116 Súper Liviana para Hombre y para Mujer](https://www.amazon.es/dp/B07C2Q5WWZ/?tag=tolees-21) con un 62.51 % de descuento con precio de oferta de 12.99 EUR (original: 34.65 EUR) en el siguiente enlace!

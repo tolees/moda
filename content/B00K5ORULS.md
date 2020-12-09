@@ -14,7 +14,7 @@ currency: EUR
 price: 46.4
 comparePrice: 189 EUR
 inStock: true
-prodname: Nebulus Chaqueta Terry Azul Oscuro 2XL
+prodname: 'Nebulus Chaqueta Terry Azul Oscuro 2XL'
 ---
 
 Está [Nebulus Chaqueta Terry Azul Oscuro 2XL](https://www.amazon.es/dp/B00K5ORULS/?tag=tolees-21) con 75.45 de descuento por 46.4 EUR (original: 189 EUR) en el siguiente enlace!

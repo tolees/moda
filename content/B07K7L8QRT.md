@@ -14,7 +14,7 @@ currency: EUR
 price: 18.74
 comparePrice: 29.95 EUR
 inStock: true
-prodname: adidas TIRO19 WOV SHO Pantalón Corto  Hombre  Azul  Dark Blue/White   XL
+prodname: 'adidas TIRO19 WOV SHO Pantalón Corto  Hombre  Azul  Dark Blue/White   XL'
 ---
 
 Está [adidas TIRO19 WOV SHO Pantalón Corto  Hombre  Azul  Dark Blue/White   XL](https://www.amazon.es/dp/B07K7L8QRT/?tag=tolees-21) con 37.43 de descuento por 18.74 EUR (original: 29.95 EUR) en el siguiente enlace!

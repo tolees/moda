@@ -14,7 +14,7 @@ currency: EUR
 price: 13.99
 comparePrice: 25.0 EUR
 inStock: true
-prodname: Pepe Jeans Eggo PM500465 Camiseta  Negro  Black 999   2X-Large para Hombre
+prodname: 'Pepe Jeans Eggo PM500465 Camiseta  Negro  Black 999   2X-Large para Hombre'
 ---
 
 Tienes [Pepe Jeans Eggo PM500465 Camiseta  Negro  Black 999   2X-Large para Hombre](https://www.amazon.es/dp/B00HVZKWPA/?tag=tolees-21) con un 44.04 % de descuento con precio de oferta de 13.99 EUR (original: 25.0 EUR) en el siguiente enlace!

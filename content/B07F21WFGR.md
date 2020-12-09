@@ -14,7 +14,7 @@ currency: EUR
 price: 32.45
 comparePrice: 65 EUR
 inStock: true
-prodname: Timberland Union Wharf  Zapatillas para Hombre  Azul  Vintage Indigo Cc4   42 EU
+prodname: 'Timberland Union Wharf  Zapatillas para Hombre  Azul  Vintage Indigo Cc4   42 EU'
 ---
 
 Tienes [Timberland Union Wharf  Zapatillas para Hombre  Azul  Vintage Indigo Cc4   42 EU](https://www.amazon.es/dp/B07F21WFGR/?tag=tolees-21) con un 50.08 % de descuento con precio de oferta de 32.45 EUR (original: 65 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 24.99
 comparePrice: 39.99 EUR
 inStock: true
-prodname: Jack & Jones NOS Jjiglenn Jjoriginal Am 816 Noos Vaqueros Slim  Negro Black Denim   W31/L32  Talla del fabricante: 31  para Hombre
+prodname: 'Jack & Jones NOS Jjiglenn Jjoriginal Am 816 Noos Vaqueros Slim  Negro Black Denim   W31/L32  Talla del fabricante: 31  para Hombre'
 ---
 
 Está [Jack & Jones NOS Jjiglenn Jjoriginal Am 816 Noos Vaqueros Slim  Negro Black Denim   W31/L32  Talla del fabricante: 31  para Hombre](https://www.amazon.es/dp/B07JPWXWKW/?tag=tolees-21) con 37.51 de descuento por 24.99 EUR (original: 39.99 EUR) en el siguiente enlace!

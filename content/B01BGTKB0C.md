@@ -14,7 +14,7 @@ currency: EUR
 price: 70.68
 comparePrice: 119.95 EUR
 inStock: true
-prodname: G-STAR RAW Revend Straight  Vaqueros para Hombre  Azul  Medium Aged   W30/L32
+prodname: 'G-STAR RAW Revend Straight  Vaqueros para Hombre  Azul  Medium Aged   W30/L32'
 ---
 
 Ahora mismo tienes [G-STAR RAW Revend Straight  Vaqueros para Hombre  Azul  Medium Aged   W30/L32](https://www.amazon.es/dp/B01BGTKB0C/?tag=tolees-21) a 70.68 EUR (original: 119.95 EUR) (41.08 %  de descuento) en el siguiente enlace!

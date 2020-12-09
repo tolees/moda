@@ -14,7 +14,7 @@ currency: EUR
 price: 14.67
 comparePrice: 24.99 EUR
 inStock: true
-prodname: Columbia Hombre Camiseta  Leathan Trail Tee  Algodón  Blanco  White/Graphic 2   Talla: XL  1841933
+prodname: 'Columbia Hombre Camiseta  Leathan Trail Tee  Algodón  Blanco  White/Graphic 2   Talla: XL  1841933'
 ---
 
 Ahora mismo tienes [Columbia Hombre Camiseta  Leathan Trail Tee  Algodón  Blanco  White/Graphic 2   Talla: XL  1841933](https://www.amazon.es/dp/B07KSPQS9J/?tag=tolees-21) a 14.67 EUR (original: 24.99 EUR) (41.30 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 54.39
 comparePrice: 84 EUR
 inStock: true
-prodname: Guess GU7411-5752F  Gafas de sol para Mujer  Marrón 57
+prodname: 'Guess GU7411-5752F  Gafas de sol para Mujer  Marrón 57'
 ---
 
 Está [Guess GU7411-5752F  Gafas de sol para Mujer  Marrón 57](https://www.amazon.es/dp/B015E9JIXG/?tag=tolees-21) con 35.25 de descuento por 54.39 EUR (original: 84 EUR) en el siguiente enlace!

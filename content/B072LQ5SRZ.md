@@ -14,7 +14,7 @@ currency: EUR
 price: 18.9
 comparePrice: 29.99 EUR
 inStock: true
-prodname: Crocs Crocband II Sandal PS K  Sandalias Unisex Niños  Rojo  Pepper/Blue Jean   32/33 EU
+prodname: 'Crocs Crocband II Sandal PS K  Sandalias Unisex Niños  Rojo  Pepper/Blue Jean   32/33 EU'
 ---
 
 Ahora mismo tienes [Crocs Crocband II Sandal PS K  Sandalias Unisex Niños  Rojo  Pepper/Blue Jean   32/33 EU](https://www.amazon.es/dp/B072LQ5SRZ/?tag=tolees-21) a 18.9 EUR (original: 29.99 EUR) (36.98 %  de descuento) en el siguiente enlace!

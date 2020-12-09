@@ -14,7 +14,7 @@ currency: EUR
 price: 38.18
 comparePrice: 95 EUR
 inStock: true
-prodname: Pepe Jeans Candy PL401524 Chaqueta  Azul  Dulwich 594   X-Small para Mujer
+prodname: 'Pepe Jeans Candy PL401524 Chaqueta  Azul  Dulwich 594   X-Small para Mujer'
 ---
 
 Está [Pepe Jeans Candy PL401524 Chaqueta  Azul  Dulwich 594   X-Small para Mujer](https://www.amazon.es/dp/B079WJ4MYB/?tag=tolees-21) con 59.81 de descuento por 38.18 EUR (original: 95 EUR) en el siguiente enlace!

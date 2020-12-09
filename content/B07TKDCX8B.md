@@ -14,7 +14,7 @@ currency: EUR
 price: 15.82
 comparePrice: 65.0 EUR
 inStock: true
-prodname: Under Armour UA Tech Pant Chándal  Pantalón De Deporte  Hombre   Khaki Base/Khaki Base/Khaki Base  289   30/30
+prodname: 'Under Armour UA Tech Pant Chándal  Pantalón De Deporte  Hombre   Khaki Base/Khaki Base/Khaki Base  289   30/30'
 ---
 
 Tienes [Under Armour UA Tech Pant Chándal  Pantalón De Deporte  Hombre   Khaki Base/Khaki Base/Khaki Base  289   30/30](https://www.amazon.es/dp/B07TKDCX8B/?tag=tolees-21) con un 75.66 % de descuento con precio de oferta de 15.82 EUR (original: 65.0 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 16.37
 comparePrice: 39.95 EUR
 inStock: true
-prodname: Marco Tozzi 2-2-22423-32  Zapatos con Plataforma para Mujer  Rosa  Pink Comb 514   37 EU
+prodname: 'Marco Tozzi 2-2-22423-32  Zapatos con Plataforma para Mujer  Rosa  Pink Comb 514   37 EU'
 ---
 
 Está [Marco Tozzi 2-2-22423-32  Zapatos con Plataforma para Mujer  Rosa  Pink Comb 514   37 EU](https://www.amazon.es/dp/B07GS6ZKX9/?tag=tolees-21) con 59.02 de descuento por 16.37 EUR (original: 39.95 EUR) en el siguiente enlace!

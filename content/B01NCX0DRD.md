@@ -14,7 +14,7 @@ currency: EUR
 price: 8.81
 comparePrice: 19.99 EUR
 inStock: true
-prodname: edc by Esprit 047cc1k015  Camiseta Mujer   Off White   36  Talla del Fabricante: Small 
+prodname: 'edc by Esprit 047cc1k015  Camiseta Mujer   Off White   36  Talla del Fabricante: Small '
 ---
 
 Ahora mismo tienes [edc by Esprit 047cc1k015  Camiseta Mujer   Off White   36  Talla del Fabricante: Small ](https://www.amazon.es/dp/B01NCX0DRD/?tag=tolees-21) a 8.81 EUR (original: 19.99 EUR) (55.93 %  de descuento) en el siguiente enlace!

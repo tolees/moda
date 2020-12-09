@@ -14,7 +14,7 @@ currency: EUR
 price: 61.4
 comparePrice: 135 EUR
 inStock: true
-prodname: Volcom Hernan Chaqueta  Hombre  Verde  Military   S
+prodname: 'Volcom Hernan Chaqueta  Hombre  Verde  Military   S'
 ---
 
 Está [Volcom Hernan Chaqueta  Hombre  Verde  Military   S](https://www.amazon.es/dp/B072RZN9NW/?tag=tolees-21) con 54.52 de descuento por 61.4 EUR (original: 135 EUR) en el siguiente enlace!

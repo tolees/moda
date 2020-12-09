@@ -14,7 +14,7 @@ currency: EUR
 price: 36.9
 comparePrice: 80 EUR
 inStock: true
-prodname: Under Armour UA Jet Mid  Zapatos de Baloncesto para Hombre  Rojo  Red/White   44 EU
+prodname: 'Under Armour UA Jet Mid  Zapatos de Baloncesto para Hombre  Rojo  Red/White   44 EU'
 ---
 
 Tienes [Under Armour UA Jet Mid  Zapatos de Baloncesto para Hombre  Rojo  Red/White   44 EU](https://www.amazon.es/dp/B076SBLWSM/?tag=tolees-21) con un 53.88 % de descuento con precio de oferta de 36.9 EUR (original: 80 EUR) en el siguiente enlace!

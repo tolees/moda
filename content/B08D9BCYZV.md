@@ -14,7 +14,7 @@ currency: EUR
 price: 26.99
 comparePrice: 54.43 EUR
 inStock: true
-prodname: Natural Feelings - Calzoncillos para hombre tipo bóxer  algodón suave  5 unidades
+prodname: 'Natural Feelings - Calzoncillos para hombre tipo bóxer  algodón suave  5 unidades'
 ---
 
 Está [Natural Feelings - Calzoncillos para hombre tipo bóxer  algodón suave  5 unidades](https://www.amazon.es/dp/B08D9BCYZV/?tag=tolees-21) con 50.41 de descuento por 26.99 EUR (original: 54.43 EUR) en el siguiente enlace!

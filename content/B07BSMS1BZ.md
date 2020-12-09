@@ -14,7 +14,7 @@ currency: EUR
 price: 28.9
 comparePrice: 129 EUR
 inStock: true
-prodname: REPLAY Joi  Vaqueros Skinny Mujer  Gris  Grey 9   W23/L30
+prodname: 'REPLAY Joi  Vaqueros Skinny Mujer  Gris  Grey 9   W23/L30'
 ---
 
 Tienes [REPLAY Joi  Vaqueros Skinny Mujer  Gris  Grey 9   W23/L30](https://www.amazon.es/dp/B07BSMS1BZ/?tag=tolees-21) con un 77.60 % de descuento con precio de oferta de 28.9 EUR (original: 129 EUR) en el siguiente enlace!

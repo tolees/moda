@@ -14,7 +14,7 @@ currency: EUR
 price: 98.2
 comparePrice: 170 EUR
 inStock: true
-prodname: The North Face M Insulated Jk Chaqueta con Aislamiento Quest  Hombre  Vanadis Grey Black Heather  XS
+prodname: 'The North Face M Insulated Jk Chaqueta con Aislamiento Quest  Hombre  Vanadis Grey Black Heather  XS'
 ---
 
 Tienes [The North Face M Insulated Jk Chaqueta con Aislamiento Quest  Hombre  Vanadis Grey Black Heather  XS](https://www.amazon.es/dp/B07BB5KF8G/?tag=tolees-21) con un 42.24 % de descuento con precio de oferta de 98.2 EUR (original: 170 EUR) en el siguiente enlace!

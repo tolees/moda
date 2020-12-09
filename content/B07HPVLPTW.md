@@ -14,7 +14,7 @@ currency: EUR
 price: 6.6
 comparePrice: 14.82 EUR
 inStock: true
-prodname: DC Comics Batman & Batgirl  Camiseta para Mujer  Blanco White  40  Talla del Fabricante: Medium 
+prodname: 'DC Comics Batman & Batgirl  Camiseta para Mujer  Blanco White  40  Talla del Fabricante: Medium '
 ---
 
 Ahora mismo tienes [DC Comics Batman & Batgirl  Camiseta para Mujer  Blanco White  40  Talla del Fabricante: Medium ](https://www.amazon.es/dp/B07HPVLPTW/?tag=tolees-21) a 6.6 EUR (original: 14.82 EUR) (55.47 %  de descuento) en el siguiente enlace!

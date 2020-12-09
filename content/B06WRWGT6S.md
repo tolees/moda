@@ -14,7 +14,7 @@ currency: EUR
 price: 65.09
 comparePrice: 92.99 EUR
 inStock: true
-prodname: Timberland Adventure 2.0 Cupsole Chukka  Zapatillas para Hombre  Amarillo Yellow Wheat  45 EU
+prodname: 'Timberland Adventure 2.0 Cupsole Chukka  Zapatillas para Hombre  Amarillo Yellow Wheat  45 EU'
 ---
 
 Está [Timberland Adventure 2.0 Cupsole Chukka  Zapatillas para Hombre  Amarillo Yellow Wheat  45 EU](https://www.amazon.es/dp/B06WRWGT6S/?tag=tolees-21) con 30.00 de descuento por 65.09 EUR (original: 92.99 EUR) en el siguiente enlace!

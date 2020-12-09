@@ -14,7 +14,7 @@ currency: EUR
 price: 71.22
 comparePrice: 131.65 EUR
 inStock: true
-prodname: Polo Ralph Lauren 0PH2083  Monturas de Gafas para Hombre  Azul  Blue Transparent   48
+prodname: 'Polo Ralph Lauren 0PH2083  Monturas de Gafas para Hombre  Azul  Blue Transparent   48'
 ---
 
 Está [Polo Ralph Lauren 0PH2083  Monturas de Gafas para Hombre  Azul  Blue Transparent   48](https://www.amazon.es/dp/B01MYS09FR/?tag=tolees-21) con 45.90 de descuento por 71.22 EUR (original: 131.65 EUR) en el siguiente enlace!

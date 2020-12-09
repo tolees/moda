@@ -14,7 +14,7 @@ currency: EUR
 price: 32.67
 comparePrice: 59.9 EUR
 inStock: true
-prodname: Geox J Sandal Flexyper Boy D  Sandalias con Punta Cerrada para Niños  Azul  Navy C4002   31 EU
+prodname: 'Geox J Sandal Flexyper Boy D  Sandalias con Punta Cerrada para Niños  Azul  Navy C4002   31 EU'
 ---
 
 Ahora mismo tienes [Geox J Sandal Flexyper Boy D  Sandalias con Punta Cerrada para Niños  Azul  Navy C4002   31 EU](https://www.amazon.es/dp/B07DK1ZQCL/?tag=tolees-21) a 32.67 EUR (original: 59.9 EUR) (45.46 %  de descuento) en el siguiente enlace!

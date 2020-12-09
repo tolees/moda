@@ -14,7 +14,7 @@ currency: EUR
 price: 9.09
 comparePrice: 22.95 EUR
 inStock: true
-prodname: Joma Olimpia Camiseta  Hombre  Blanco  XS
+prodname: 'Joma Olimpia Camiseta  Hombre  Blanco  XS'
 ---
 
 Tienes [Joma Olimpia Camiseta  Hombre  Blanco  XS](https://www.amazon.es/dp/B06Y2YYSP5/?tag=tolees-21) con un 60.39 % de descuento con precio de oferta de 9.09 EUR (original: 22.95 EUR) en el siguiente enlace!

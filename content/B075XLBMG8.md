@@ -14,7 +14,7 @@ currency: EUR
 price: 16.96
 comparePrice: 51.28 EUR
 inStock: true
-prodname: SEWOR lupa mecanismo japonés de cuarzo reloj de bolsillo con cadena de moda doble  Metal y piel   Oro 
+prodname: 'SEWOR lupa mecanismo japonés de cuarzo reloj de bolsillo con cadena de moda doble  Metal y piel   Oro '
 ---
 
 Tienes [SEWOR lupa mecanismo japonés de cuarzo reloj de bolsillo con cadena de moda doble  Metal y piel   Oro ](https://www.amazon.es/dp/B075XLBMG8/?tag=tolees-21) con un 66.93 % de descuento con precio de oferta de 16.96 EUR (original: 51.28 EUR) en el siguiente enlace!

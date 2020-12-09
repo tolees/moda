@@ -14,7 +14,7 @@ currency: EUR
 price: 53.46
 comparePrice: 100 EUR
 inStock: true
-prodname: Levi s 511 Slim Fit  Vaqueros para Hombre  Azul  Biology 1542   27W / 32L
+prodname: 'Levi s 511 Slim Fit  Vaqueros para Hombre  Azul  Biology 1542   27W / 32L'
 ---
 
 Tienes [Levi s 511 Slim Fit  Vaqueros para Hombre  Azul  Biology 1542   27W / 32L](https://www.amazon.es/dp/B00LPG7S4E/?tag=tolees-21) con un 46.54 % de descuento con precio de oferta de 53.46 EUR (original: 100 EUR) en el siguiente enlace!

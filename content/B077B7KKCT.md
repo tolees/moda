@@ -14,7 +14,7 @@ currency: EUR
 price: 17.84
 comparePrice: 26.6 EUR
 inStock: true
-prodname: Marca Amazon - AURIQUE Chaqueta Running Mujer  Azul  Imperial Blue   38  Label:S
+prodname: 'Marca Amazon - AURIQUE Chaqueta Running Mujer  Azul  Imperial Blue   38  Label:S'
 ---
 
 Ahora mismo tienes [Marca Amazon - AURIQUE Chaqueta Running Mujer  Azul  Imperial Blue   38  Label:S](https://www.amazon.es/dp/B077B7KKCT/?tag=tolees-21) a 17.84 EUR (original: 26.6 EUR) (32.93 %  de descuento) en el siguiente enlace!

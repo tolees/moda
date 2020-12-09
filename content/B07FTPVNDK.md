@@ -14,7 +14,7 @@ currency: EUR
 price: 23.28
 comparePrice: 49.99 EUR
 inStock: true
-prodname: Vero Moda Vmexcursion Expedition Aw18 3/4 Parka  Abrigo Mujer  Marfil  Oatmeal   40  Talla del Fabricante: Medium 
+prodname: 'Vero Moda Vmexcursion Expedition Aw18 3/4 Parka  Abrigo Mujer  Marfil  Oatmeal   40  Talla del Fabricante: Medium '
 ---
 
 Ahora mismo tienes [Vero Moda Vmexcursion Expedition Aw18 3/4 Parka  Abrigo Mujer  Marfil  Oatmeal   40  Talla del Fabricante: Medium ](https://www.amazon.es/dp/B07FTPVNDK/?tag=tolees-21) a 23.28 EUR (original: 49.99 EUR) (53.43 %  de descuento) en el siguiente enlace!

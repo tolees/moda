@@ -14,7 +14,7 @@ currency: EUR
 price: 26.64
 comparePrice: 59.95 EUR
 inStock: true
-prodname: Puma Athletics Hoody TR Sudadera  Hombre  Negro  Cotton Black   XL
+prodname: 'Puma Athletics Hoody TR Sudadera  Hombre  Negro  Cotton Black   XL'
 ---
 
 Está [Puma Athletics Hoody TR Sudadera  Hombre  Negro  Cotton Black   XL](https://www.amazon.es/dp/B07JH2ZT3M/?tag=tolees-21) con 55.56 de descuento por 26.64 EUR (original: 59.95 EUR) en el siguiente enlace!

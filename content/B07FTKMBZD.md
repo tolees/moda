@@ -14,7 +14,7 @@ currency: EUR
 price: 12.8
 comparePrice: 29.95 EUR
 inStock: true
-prodname: Lee Graphic Tee  Camiseta Hombre  Rojo  Faded Red Leo   X-Large
+prodname: 'Lee Graphic Tee  Camiseta Hombre  Rojo  Faded Red Leo   X-Large'
 ---
 
 Tienes [Lee Graphic Tee  Camiseta Hombre  Rojo  Faded Red Leo   X-Large](https://www.amazon.es/dp/B07FTKMBZD/?tag=tolees-21) con un 57.26 % de descuento con precio de oferta de 12.8 EUR (original: 29.95 EUR) en el siguiente enlace!

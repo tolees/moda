@@ -14,7 +14,7 @@ currency: EUR
 price: 38.24
 comparePrice: 150 EUR
 inStock: true
-prodname: KENNETH COLE Rylan Bootie  Botines para Mujer  Negro  Black 001   39 EU
+prodname: 'KENNETH COLE Rylan Bootie  Botines para Mujer  Negro  Black 001   39 EU'
 ---
 
 Ahora mismo tienes [KENNETH COLE Rylan Bootie  Botines para Mujer  Negro  Black 001   39 EU](https://www.amazon.es/dp/B07DMFLBCZ/?tag=tolees-21) a 38.24 EUR (original: 150 EUR) (74.51 %  de descuento) en el siguiente enlace!

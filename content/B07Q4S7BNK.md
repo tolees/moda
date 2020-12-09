@@ -14,7 +14,7 @@ currency: EUR
 price: 9.23
 comparePrice: 12.99 EUR
 inStock: true
-prodname: UMIPUBO Blusas y Camisa Mujer Vaquera Sexy Camisetas de Gasa Tops Cremallera Manga Corta Blusas Cuello en V Ropa
+prodname: 'UMIPUBO Blusas y Camisa Mujer Vaquera Sexy Camisetas de Gasa Tops Cremallera Manga Corta Blusas Cuello en V Ropa'
 ---
 
 Está [UMIPUBO Blusas y Camisa Mujer Vaquera Sexy Camisetas de Gasa Tops Cremallera Manga Corta Blusas Cuello en V Ropa](https://www.amazon.es/dp/B07Q4S7BNK/?tag=tolees-21) con 28.95 de descuento por 9.23 EUR (original: 12.99 EUR) en el siguiente enlace!

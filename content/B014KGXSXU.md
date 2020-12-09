@@ -14,7 +14,7 @@ currency: EUR
 price: 6.32
 comparePrice: 39.95 EUR
 inStock: true
-prodname: B.Young Chaqueta Larga Azul Única
+prodname: 'B.Young Chaqueta Larga Azul Única'
 ---
 
 Está [B.Young Chaqueta Larga Azul Única](https://www.amazon.es/dp/B014KGXSXU/?tag=tolees-21) con 84.18 de descuento por 6.32 EUR (original: 39.95 EUR) en el siguiente enlace!

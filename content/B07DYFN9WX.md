@@ -14,7 +14,7 @@ currency: EUR
 price: 10.95
 comparePrice: 19.99 EUR
 inStock: true
-prodname: Roxy Tahiti Vi  Zapatos de Playa y Piscina para Mujer   Multi MUL   39 EU
+prodname: 'Roxy Tahiti Vi  Zapatos de Playa y Piscina para Mujer   Multi MUL   39 EU'
 ---
 
 Está [Roxy Tahiti Vi  Zapatos de Playa y Piscina para Mujer   Multi MUL   39 EU](https://www.amazon.es/dp/B07DYFN9WX/?tag=tolees-21) con 45.22 de descuento por 10.95 EUR (original: 19.99 EUR) en el siguiente enlace!

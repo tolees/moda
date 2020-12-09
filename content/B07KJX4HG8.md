@@ -14,7 +14,7 @@ currency: EUR
 price: 77.99
 comparePrice: 119.99 EUR
 inStock: true
-prodname: Columbia Peakfreak X2 Outdry  Zapatos de Senderismo  para Mujer  Black  Daredevil  38 EU
+prodname: 'Columbia Peakfreak X2 Outdry  Zapatos de Senderismo  para Mujer  Black  Daredevil  38 EU'
 ---
 
 Tienes [Columbia Peakfreak X2 Outdry  Zapatos de Senderismo  para Mujer  Black  Daredevil  38 EU](https://www.amazon.es/dp/B07KJX4HG8/?tag=tolees-21) con un 35.00 % de descuento con precio de oferta de 77.99 EUR (original: 119.99 EUR) en el siguiente enlace!

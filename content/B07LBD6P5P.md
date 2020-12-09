@@ -14,7 +14,7 @@ currency: EUR
 price: 18.41
 comparePrice: 34.99 EUR
 inStock: true
-prodname: JACK & JONES Jaclee Trunks 5 Pack Bóxer  Azul  Surft The Web/Estate Blue/Blue Jewel   Large  Pack de 5  para Hombre
+prodname: 'JACK & JONES Jaclee Trunks 5 Pack Bóxer  Azul  Surft The Web/Estate Blue/Blue Jewel   Large  Pack de 5  para Hombre'
 ---
 
 Está [JACK & JONES Jaclee Trunks 5 Pack Bóxer  Azul  Surft The Web/Estate Blue/Blue Jewel   Large  Pack de 5  para Hombre](https://www.amazon.es/dp/B07LBD6P5P/?tag=tolees-21) con 47.38 de descuento por 18.41 EUR (original: 34.99 EUR) en el siguiente enlace!

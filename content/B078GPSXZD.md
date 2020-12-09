@@ -14,7 +14,7 @@ currency: EUR
 price: 28.33
 comparePrice: 99 EUR
 inStock: true
-prodname: HUGO Men Eynold  Camisa Hombre  Blanco  Open White 199   X-Large
+prodname: 'HUGO Men Eynold  Camisa Hombre  Blanco  Open White 199   X-Large'
 ---
 
 Está [HUGO Men Eynold  Camisa Hombre  Blanco  Open White 199   X-Large](https://www.amazon.es/dp/B078GPSXZD/?tag=tolees-21) con 71.38 de descuento por 28.33 EUR (original: 99 EUR) en el siguiente enlace!

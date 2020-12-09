@@ -14,7 +14,7 @@ currency: EUR
 price: 8.24
 comparePrice: 39.99 EUR
 inStock: true
-prodname: JACK & JONES Jorknox Shirt LS Camisa   Bonnie Blue Fit:Slim   Small para Hombre
+prodname: 'JACK & JONES Jorknox Shirt LS Camisa   Bonnie Blue Fit:Slim   Small para Hombre'
 ---
 
 Ahora mismo tienes [JACK & JONES Jorknox Shirt LS Camisa   Bonnie Blue Fit:Slim   Small para Hombre](https://www.amazon.es/dp/B07KZ55NCT/?tag=tolees-21) a 8.24 EUR (original: 39.99 EUR) (79.39 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 13.95
 comparePrice: 30 EUR
 inStock: true
-prodname: The North Face S/S tee Camiseta Celebration  Hombre  Negro  TNF Black   S
+prodname: 'The North Face S/S tee Camiseta Celebration  Hombre  Negro  TNF Black   S'
 ---
 
 Ahora mismo tienes [The North Face S/S tee Camiseta Celebration  Hombre  Negro  TNF Black   S](https://www.amazon.es/dp/B07M8GW7NN/?tag=tolees-21) a 13.95 EUR (original: 30 EUR) (53.50 %  de descuento) en el siguiente enlace!

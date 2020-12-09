@@ -14,7 +14,7 @@ currency: EUR
 price: 21.73
 comparePrice: 115 EUR
 inStock: true
-prodname: Tommy Jeans Hombre Relaxed Cropped Randy Vaqueros relaxed  relaxed Azul  Tommy Jeans Mid Blue Rigid 911  W29/L34
+prodname: 'Tommy Jeans Hombre Relaxed Cropped Randy Vaqueros relaxed  relaxed Azul  Tommy Jeans Mid Blue Rigid 911  W29/L34'
 ---
 
 Está [Tommy Jeans Hombre Relaxed Cropped Randy Vaqueros relaxed  relaxed Azul  Tommy Jeans Mid Blue Rigid 911  W29/L34](https://www.amazon.es/dp/B078LDKBQX/?tag=tolees-21) con 81.10 de descuento por 21.73 EUR (original: 115 EUR) en el siguiente enlace!

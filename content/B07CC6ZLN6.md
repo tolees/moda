@@ -14,7 +14,7 @@ currency: EUR
 price: 16.73
 comparePrice: 39.9 EUR
 inStock: true
-prodname: Pepe Jeans West Sir LS  Camiseta para Hombre  Rojo  Poppy 210  Large
+prodname: 'Pepe Jeans West Sir LS  Camiseta para Hombre  Rojo  Poppy 210  Large'
 ---
 
 Está [Pepe Jeans West Sir LS  Camiseta para Hombre  Rojo  Poppy 210  Large](https://www.amazon.es/dp/B07CC6ZLN6/?tag=tolees-21) con 58.07 de descuento por 16.73 EUR (original: 39.9 EUR) en el siguiente enlace!

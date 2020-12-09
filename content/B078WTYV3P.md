@@ -14,7 +14,7 @@ currency: EUR
 price: 13.99
 comparePrice: 19.99 EUR
 inStock: true
-prodname: Quiksilver Molokai Lava Division  Chanclas para Hombre  Negro Black/Red/Blue Xkrb  42 EU
+prodname: 'Quiksilver Molokai Lava Division  Chanclas para Hombre  Negro Black/Red/Blue Xkrb  42 EU'
 ---
 
 Está [Quiksilver Molokai Lava Division  Chanclas para Hombre  Negro Black/Red/Blue Xkrb  42 EU](https://www.amazon.es/dp/B078WTYV3P/?tag=tolees-21) con 30.02 de descuento por 13.99 EUR (original: 19.99 EUR) en el siguiente enlace!

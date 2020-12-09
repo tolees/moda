@@ -14,7 +14,7 @@ currency: EUR
 price: 69.99
 comparePrice: 139.98 EUR
 inStock: true
-prodname: gracosy Botines de Cuero para Mujeres Otoño e Invierno 2019 Bloque de Pata Flor Original Hecho a Mano Estilo Bohemio Nacional Rico en Color Cómodo Suela Blanda Cremallera
+prodname: 'gracosy Botines de Cuero para Mujeres Otoño e Invierno 2019 Bloque de Pata Flor Original Hecho a Mano Estilo Bohemio Nacional Rico en Color Cómodo Suela Blanda Cremallera'
 ---
 
 Está [gracosy Botines de Cuero para Mujeres Otoño e Invierno 2019 Bloque de Pata Flor Original Hecho a Mano Estilo Bohemio Nacional Rico en Color Cómodo Suela Blanda Cremallera](https://www.amazon.es/dp/B07GR5MTNS/?tag=tolees-21) con 50.00 de descuento por 69.99 EUR (original: 139.98 EUR) en el siguiente enlace!

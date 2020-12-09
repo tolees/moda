@@ -14,7 +14,7 @@ currency: EUR
 price: 50.93
 comparePrice: 99.99 EUR
 inStock: true
-prodname: RIP CURL Wetland Anti-Series Fleece Sudadera  Hombre  Pewter Grey mar  M
+prodname: 'RIP CURL Wetland Anti-Series Fleece Sudadera  Hombre  Pewter Grey mar  M'
 ---
 
 Está [RIP CURL Wetland Anti-Series Fleece Sudadera  Hombre  Pewter Grey mar  M](https://www.amazon.es/dp/B07FQJ33TH/?tag=tolees-21) con 49.06 de descuento por 50.93 EUR (original: 99.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 17.99
 comparePrice: 23.99 EUR
 inStock: true
-prodname: Xaed - Camiseta térmica de esquí para hombre  negro/azul  XL 
+prodname: 'Xaed - Camiseta térmica de esquí para hombre  negro/azul  XL '
 ---
 
 Tienes [Xaed - Camiseta térmica de esquí para hombre  negro/azul  XL ](https://www.amazon.es/dp/B07J6ZGLBL/?tag=tolees-21) con un 25.01 % de descuento con precio de oferta de 17.99 EUR (original: 23.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 22.99
 comparePrice: 49.99 EUR
 inStock: true
-prodname: Hawiton Pijamas Hombre Verano Corto de Algodón con Pantalón
+prodname: 'Hawiton Pijamas Hombre Verano Corto de Algodón con Pantalón'
 ---
 
 Está [Hawiton Pijamas Hombre Verano Corto de Algodón con Pantalón](https://www.amazon.es/dp/B07RRMVNP9/?tag=tolees-21) con 54.01 de descuento por 22.99 EUR (original: 49.99 EUR) en el siguiente enlace!

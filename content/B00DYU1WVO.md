@@ -14,7 +14,7 @@ currency: EUR
 price: 9.97
 comparePrice: 50.8 EUR
 inStock: true
-prodname: KangaROOS Wasilla Rucksack - Bolso Mochila de Material sintético Mujer  Color Beige  Talla 48x30x18 cm  B x H x T 
+prodname: 'KangaROOS Wasilla Rucksack - Bolso Mochila de Material sintético Mujer  Color Beige  Talla 48x30x18 cm  B x H x T '
 ---
 
 Está [KangaROOS Wasilla Rucksack - Bolso Mochila de Material sintético Mujer  Color Beige  Talla 48x30x18 cm  B x H x T ](https://www.amazon.es/dp/B00DYU1WVO/?tag=tolees-21) con 80.37 de descuento por 9.97 EUR (original: 50.8 EUR) en el siguiente enlace!

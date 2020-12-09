@@ -14,7 +14,7 @@ currency: EUR
 price: 7.95
 comparePrice: 24.45 EUR
 inStock: true
-prodname: Regatta - Chaqueta de Forro Polar con Media Cremallera para niños  Infantil  Color Azul Marino  tamaño 14 años
+prodname: 'Regatta - Chaqueta de Forro Polar con Media Cremallera para niños  Infantil  Color Azul Marino  tamaño 14 años'
 ---
 
 Está [Regatta - Chaqueta de Forro Polar con Media Cremallera para niños  Infantil  Color Azul Marino  tamaño 14 años](https://www.amazon.es/dp/B07FNJB3DG/?tag=tolees-21) con 67.48 de descuento por 7.95 EUR (original: 24.45 EUR) en el siguiente enlace!

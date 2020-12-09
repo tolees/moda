@@ -14,7 +14,7 @@ currency: EUR
 price: 38.16
 comparePrice: 99.95 EUR
 inStock: true
-prodname: Lee Daren Vaqueros Slim  Azul  Light Daze ZX   30W / 32L para Hombre
+prodname: 'Lee Daren Vaqueros Slim  Azul  Light Daze ZX   30W / 32L para Hombre'
 ---
 
 Ahora mismo tienes [Lee Daren Vaqueros Slim  Azul  Light Daze ZX   30W / 32L para Hombre](https://www.amazon.es/dp/B07CQ1WDJV/?tag=tolees-21) a 38.16 EUR (original: 99.95 EUR) (61.82 %  de descuento) en el siguiente enlace!

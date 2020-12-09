@@ -14,7 +14,7 @@ currency: EUR
 price: 33.36
 comparePrice: 99.95 EUR
 inStock: true
-prodname: Lee Carol  Vaqueros straight Mujer  Azul  Mid Bellevue Gx   W24/L31
+prodname: 'Lee Carol  Vaqueros straight Mujer  Azul  Mid Bellevue Gx   W24/L31'
 ---
 
 Tienes [Lee Carol  Vaqueros straight Mujer  Azul  Mid Bellevue Gx   W24/L31](https://www.amazon.es/dp/B07TTTNTPR/?tag=tolees-21) con un 66.62 % de descuento con precio de oferta de 33.36 EUR (original: 99.95 EUR) en el siguiente enlace!

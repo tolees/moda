@@ -14,7 +14,7 @@ currency: EUR
 price: 58.99
 comparePrice: 130.0 EUR
 inStock: true
-prodname: Helly Hansen Sirdal Hooded Insulator Jacket Chaqueta  Hombre  Lav Green  XL
+prodname: 'Helly Hansen Sirdal Hooded Insulator Jacket Chaqueta  Hombre  Lav Green  XL'
 ---
 
 Tienes [Helly Hansen Sirdal Hooded Insulator Jacket Chaqueta  Hombre  Lav Green  XL](https://www.amazon.es/dp/B0886TZYJG/?tag=tolees-21) con un 54.62 % de descuento con precio de oferta de 58.99 EUR (original: 130.0 EUR) en el siguiente enlace!

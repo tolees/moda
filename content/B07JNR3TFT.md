@@ -14,7 +14,7 @@ currency: EUR
 price: 14.56
 comparePrice: 60 EUR
 inStock: true
-prodname: Guess SS Cn Sally tee  Camiseta de Tirantes para Mujer  Rojo  Rhubarb G501   Medium
+prodname: 'Guess SS Cn Sally tee  Camiseta de Tirantes para Mujer  Rojo  Rhubarb G501   Medium'
 ---
 
 Tienes [Guess SS Cn Sally tee  Camiseta de Tirantes para Mujer  Rojo  Rhubarb G501   Medium](https://www.amazon.es/dp/B07JNR3TFT/?tag=tolees-21) con un 75.73 % de descuento con precio de oferta de 14.56 EUR (original: 60 EUR) en el siguiente enlace!

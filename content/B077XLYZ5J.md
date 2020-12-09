@@ -14,7 +14,7 @@ currency: EUR
 price: 14.0
 comparePrice: 28.0 EUR
 inStock: true
-prodname: Under Armour HeatGear ARMOUR 2.0 COMP Shorts  Pantalón Corto Hombre  Azul  Royal/Academy 401   S
+prodname: 'Under Armour HeatGear ARMOUR 2.0 COMP Shorts  Pantalón Corto Hombre  Azul  Royal/Academy 401   S'
 ---
 
 Ahora mismo tienes [Under Armour HeatGear ARMOUR 2.0 COMP Shorts  Pantalón Corto Hombre  Azul  Royal/Academy 401   S](https://www.amazon.es/dp/B077XLYZ5J/?tag=tolees-21) a 14.0 EUR (original: 28.0 EUR) (50.00 %  de descuento) en el siguiente enlace!

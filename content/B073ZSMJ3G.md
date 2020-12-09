@@ -14,7 +14,7 @@ currency: EUR
 price: 38.03
 comparePrice: 89.99 EUR
 inStock: true
-prodname: Gant The Oxford Shirt Reg BD Camisa  Rojo  Light Pink 662   XXX-Large para Hombre
+prodname: 'Gant The Oxford Shirt Reg BD Camisa  Rojo  Light Pink 662   XXX-Large para Hombre'
 ---
 
 Ahora mismo tienes [Gant The Oxford Shirt Reg BD Camisa  Rojo  Light Pink 662   XXX-Large para Hombre](https://www.amazon.es/dp/B073ZSMJ3G/?tag=tolees-21) a 38.03 EUR (original: 89.99 EUR) (57.74 %  de descuento) en el siguiente enlace!

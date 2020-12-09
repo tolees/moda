@@ -14,7 +14,7 @@ currency: EUR
 price: 23.13
 comparePrice: 81 EUR
 inStock: true
-prodname: Nike Wmns Ebernon Mid Prem  Zapatos de Baloncesto para Mujer  Negro Black 001  38 EU
+prodname: 'Nike Wmns Ebernon Mid Prem  Zapatos de Baloncesto para Mujer  Negro Black 001  38 EU'
 ---
 
 Ahora mismo tienes [Nike Wmns Ebernon Mid Prem  Zapatos de Baloncesto para Mujer  Negro Black 001  38 EU](https://www.amazon.es/dp/B07DCN4GDM/?tag=tolees-21) a 23.13 EUR (original: 81 EUR) (71.44 %  de descuento) en el siguiente enlace!

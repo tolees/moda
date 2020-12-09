@@ -14,7 +14,7 @@ currency: EUR
 price: 18.91
 comparePrice: 66 EUR
 inStock: true
-prodname: Polaroid Unisex adulto PLD 6018/S 94 SKF Gafas de sol  Gris  Havana Ruthe/Brown Polar Ds   55
+prodname: 'Polaroid Unisex adulto PLD 6018/S 94 SKF Gafas de sol  Gris  Havana Ruthe/Brown Polar Ds   55'
 ---
 
 Está [Polaroid Unisex adulto PLD 6018/S 94 SKF Gafas de sol  Gris  Havana Ruthe/Brown Polar Ds   55](https://www.amazon.es/dp/B01MYU58RJ/?tag=tolees-21) con 71.35 de descuento por 18.91 EUR (original: 66 EUR) en el siguiente enlace!

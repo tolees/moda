@@ -14,7 +14,7 @@ currency: EUR
 price: 10.75
 comparePrice: 29.9 EUR
 inStock: true
-prodname: Pepe Jeans Michelle  Camiseta para Mujer  Marfil  Off White 803  Small
+prodname: 'Pepe Jeans Michelle  Camiseta para Mujer  Marfil  Off White 803  Small'
 ---
 
 Tienes [Pepe Jeans Michelle  Camiseta para Mujer  Marfil  Off White 803  Small](https://www.amazon.es/dp/B07CS9VSQF/?tag=tolees-21) con un 64.05 % de descuento con precio de oferta de 10.75 EUR (original: 29.9 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 14.13
 comparePrice: 26 EUR
 inStock: true
-prodname: Under Armour GL Foundation T - Camiseta de Manga Corta para Hombre  Hombre  1326849-299  City Khaki/Downtown Green/Black  Large
+prodname: 'Under Armour GL Foundation T - Camiseta de Manga Corta para Hombre  Hombre  1326849-299  City Khaki/Downtown Green/Black  Large'
 ---
 
 Ahora mismo tienes [Under Armour GL Foundation T - Camiseta de Manga Corta para Hombre  Hombre  1326849-299  City Khaki/Downtown Green/Black  Large](https://www.amazon.es/dp/B07DXVQ62K/?tag=tolees-21) a 14.13 EUR (original: 26 EUR) (45.65 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 10.95
 comparePrice: 21.9 EUR
 inStock: true
-prodname: Havaianas Brasil Chanclas Unisex Adulto  Blanco Brasil White  41/42 EU
+prodname: 'Havaianas Brasil Chanclas Unisex Adulto  Blanco Brasil White  41/42 EU'
 ---
 
 Tienes [Havaianas Brasil Chanclas Unisex Adulto  Blanco Brasil White  41/42 EU](https://www.amazon.es/dp/B000YKMIVK/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 10.95 EUR (original: 21.9 EUR) en el siguiente enlace!

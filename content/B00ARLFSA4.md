@@ -14,7 +14,7 @@ currency: EUR
 price: 41.59
 comparePrice: 66.0 EUR
 inStock: true
-prodname: Polaroid P8339 LA KIH Gafas de sol  Negro  Black/Brown Shaded Polarized   55 para Mujer
+prodname: 'Polaroid P8339 LA KIH Gafas de sol  Negro  Black/Brown Shaded Polarized   55 para Mujer'
 ---
 
 Ahora mismo tienes [Polaroid P8339 LA KIH Gafas de sol  Negro  Black/Brown Shaded Polarized   55 para Mujer](https://www.amazon.es/dp/B00ARLFSA4/?tag=tolees-21) a 41.59 EUR (original: 66.0 EUR) (36.98 %  de descuento) en el siguiente enlace!

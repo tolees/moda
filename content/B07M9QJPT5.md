@@ -14,7 +14,7 @@ currency: EUR
 price: 29.05
 comparePrice: 99.95 EUR
 inStock: true
-prodname: G-STAR RAW Revend Vaqueros skinny para Hombre para Hombre  Negro  lt indigo aged 8968-8436   W40/L36
+prodname: 'G-STAR RAW Revend Vaqueros skinny para Hombre para Hombre  Negro  lt indigo aged 8968-8436   W40/L36'
 ---
 
 Está [G-STAR RAW Revend Vaqueros skinny para Hombre para Hombre  Negro  lt indigo aged 8968-8436   W40/L36](https://www.amazon.es/dp/B07M9QJPT5/?tag=tolees-21) con 70.94 de descuento por 29.05 EUR (original: 99.95 EUR) en el siguiente enlace!

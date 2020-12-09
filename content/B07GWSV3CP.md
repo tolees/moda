@@ -14,7 +14,7 @@ currency: EUR
 price: 10.64
 comparePrice: 21.99 EUR
 inStock: true
-prodname: Levi s Levis 200sf Triple Vintage Stripe Boxer Brief 2p  Bóxer Hombre  Azul  Blue 056   Large
+prodname: 'Levi s Levis 200sf Triple Vintage Stripe Boxer Brief 2p  Bóxer Hombre  Azul  Blue 056   Large'
 ---
 
 Ahora mismo tienes [Levi s Levis 200sf Triple Vintage Stripe Boxer Brief 2p  Bóxer Hombre  Azul  Blue 056   Large](https://www.amazon.es/dp/B07GWSV3CP/?tag=tolees-21) a 10.64 EUR (original: 21.99 EUR) (51.61 %  de descuento) en el siguiente enlace!

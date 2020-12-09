@@ -14,7 +14,7 @@ currency: EUR
 price: 86.95
 comparePrice: 140.0 EUR
 inStock: true
-prodname: Timberland Adventure 2.0 Cupsole Chukka  Zapatillas para Hombre  Marrón Glazed Ginger Roughcut  39.5 EU
+prodname: 'Timberland Adventure 2.0 Cupsole Chukka  Zapatillas para Hombre  Marrón Glazed Ginger Roughcut  39.5 EU'
 ---
 
 Está [Timberland Adventure 2.0 Cupsole Chukka  Zapatillas para Hombre  Marrón Glazed Ginger Roughcut  39.5 EU](https://www.amazon.es/dp/B06XDS6TF1/?tag=tolees-21) con 37.89 de descuento por 86.95 EUR (original: 140.0 EUR) en el siguiente enlace!

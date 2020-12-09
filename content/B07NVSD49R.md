@@ -14,7 +14,7 @@ currency: EUR
 price: 19.49
 comparePrice: 29.95 EUR
 inStock: true
-prodname: G-STAR RAW Graphic Logo 4 Camiseta  Blanco  X-Large  Talla del Fabricante:  para Hombre
+prodname: 'G-STAR RAW Graphic Logo 4 Camiseta  Blanco  X-Large  Talla del Fabricante:  para Hombre'
 ---
 
 Ahora mismo tienes [G-STAR RAW Graphic Logo 4 Camiseta  Blanco  X-Large  Talla del Fabricante:  para Hombre](https://www.amazon.es/dp/B07NVSD49R/?tag=tolees-21) a 19.49 EUR (original: 29.95 EUR) (34.92 %  de descuento) en el siguiente enlace!

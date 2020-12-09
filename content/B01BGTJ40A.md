@@ -14,7 +14,7 @@ currency: EUR
 price: 24.22
 comparePrice: 99.95 EUR
 inStock: true
-prodname: G-STAR RAW 3301 Tapered Vaqueros para Hombre  Azul  dk aged 6590-89   30W / 34L
+prodname: 'G-STAR RAW 3301 Tapered Vaqueros para Hombre  Azul  dk aged 6590-89   30W / 34L'
 ---
 
 Tienes [G-STAR RAW 3301 Tapered Vaqueros para Hombre  Azul  dk aged 6590-89   30W / 34L](https://www.amazon.es/dp/B01BGTJ40A/?tag=tolees-21) con un 75.77 % de descuento con precio de oferta de 24.22 EUR (original: 99.95 EUR) en el siguiente enlace!

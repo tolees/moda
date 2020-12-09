@@ -14,7 +14,7 @@ currency: EUR
 price: 24.87
 comparePrice: 89.99 EUR
 inStock: true
-prodname: ONLY onlYATTA WOOL JACKET OTW  Chaqueta Mujer  Azul  Night Sky   40  Talla del fabricante: Large 
+prodname: 'ONLY onlYATTA WOOL JACKET OTW  Chaqueta Mujer  Azul  Night Sky   40  Talla del fabricante: Large '
 ---
 
 Ahora mismo tienes [ONLY onlYATTA WOOL JACKET OTW  Chaqueta Mujer  Azul  Night Sky   40  Talla del fabricante: Large ](https://www.amazon.es/dp/B01JISY83E/?tag=tolees-21) a 24.87 EUR (original: 89.99 EUR) (72.36 %  de descuento) en el siguiente enlace!

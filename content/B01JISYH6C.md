@@ -14,7 +14,7 @@ currency: EUR
 price: 14.27
 comparePrice: 89.99 EUR
 inStock: true
-prodname: ONLY onlYATTA WOOL JACKET OTW  Chaqueta Mujer  Negro  Black   38  Talla del fabricante: Medium 
+prodname: 'ONLY onlYATTA WOOL JACKET OTW  Chaqueta Mujer  Negro  Black   38  Talla del fabricante: Medium '
 ---
 
 Tienes [ONLY onlYATTA WOOL JACKET OTW  Chaqueta Mujer  Negro  Black   38  Talla del fabricante: Medium ](https://www.amazon.es/dp/B01JISYH6C/?tag=tolees-21) con un 84.14 % de descuento con precio de oferta de 14.27 EUR (original: 89.99 EUR) en el siguiente enlace!

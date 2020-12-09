@@ -14,7 +14,7 @@ currency: EUR
 price: 54.31
 comparePrice: 109.9 EUR
 inStock: true
-prodname: Geox U WARLEY B  Zapatillas para Hombre  Azul  Navy/Lt Grey C0832   44 EU
+prodname: 'Geox U WARLEY B  Zapatillas para Hombre  Azul  Navy/Lt Grey C0832   44 EU'
 ---
 
 Ahora mismo tienes [Geox U WARLEY B  Zapatillas para Hombre  Azul  Navy/Lt Grey C0832   44 EU](https://www.amazon.es/dp/B07SWTS14C/?tag=tolees-21) a 54.31 EUR (original: 109.9 EUR) (50.58 %  de descuento) en el siguiente enlace!

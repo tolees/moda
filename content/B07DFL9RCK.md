@@ -14,7 +14,7 @@ currency: EUR
 price: 15.45
 comparePrice: 21.9 EUR
 inStock: true
-prodname: Calvin Klein 2pk Trunks Bóxer  Blanco  1 Black/ 1 White 003   110  Talla del Fabricante: 4-5   Pack de 2 para Niños
+prodname: 'Calvin Klein 2pk Trunks Bóxer  Blanco  1 Black/ 1 White 003   110  Talla del Fabricante: 4-5   Pack de 2 para Niños'
 ---
 
 Tienes [Calvin Klein 2pk Trunks Bóxer  Blanco  1 Black/ 1 White 003   110  Talla del Fabricante: 4-5   Pack de 2 para Niños](https://www.amazon.es/dp/B07DFL9RCK/?tag=tolees-21) con un 29.45 % de descuento con precio de oferta de 15.45 EUR (original: 21.9 EUR) en el siguiente enlace!

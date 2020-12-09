@@ -14,7 +14,7 @@ currency: EUR
 price: 9.05
 comparePrice: 18.95 EUR
 inStock: true
-prodname: Cressi Flash Swim Goggles Gafas de Natación Premium para Adultos 100% Anti UV  Negro  Talla Única
+prodname: 'Cressi Flash Swim Goggles Gafas de Natación Premium para Adultos 100% Anti UV  Negro  Talla Única'
 ---
 
 Ahora mismo tienes [Cressi Flash Swim Goggles Gafas de Natación Premium para Adultos 100% Anti UV  Negro  Talla Única](https://www.amazon.es/dp/B007CXY5PE/?tag=tolees-21) a 9.05 EUR (original: 18.95 EUR) (52.24 %  de descuento) en el siguiente enlace!

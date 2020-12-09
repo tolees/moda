@@ -14,7 +14,7 @@ currency: EUR
 price: 22.55
 comparePrice: 69.9 EUR
 inStock: true
-prodname: Geox D Sozy G  Sandalias con Punta Abierta para Mujer  Beige  Lt Taupe/Rose Gold Ch6h8   37 EU
+prodname: 'Geox D Sozy G  Sandalias con Punta Abierta para Mujer  Beige  Lt Taupe/Rose Gold Ch6h8   37 EU'
 ---
 
 Tienes [Geox D Sozy G  Sandalias con Punta Abierta para Mujer  Beige  Lt Taupe/Rose Gold Ch6h8   37 EU](https://www.amazon.es/dp/B07SVPWXBF/?tag=tolees-21) con un 67.74 % de descuento con precio de oferta de 22.55 EUR (original: 69.9 EUR) en el siguiente enlace!

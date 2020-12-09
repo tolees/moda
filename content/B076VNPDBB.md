@@ -14,7 +14,7 @@ currency: EUR
 price: 49.33
 comparePrice: 139.95 EUR
 inStock: true
-prodname: G-STAR RAW 3301 Graft Shirt L/s  Camisa Vaquera Hombre  Azul  Medium Aged Restored 184 9011   X-Large
+prodname: 'G-STAR RAW 3301 Graft Shirt L/s  Camisa Vaquera Hombre  Azul  Medium Aged Restored 184 9011   X-Large'
 ---
 
 Ahora mismo tienes [G-STAR RAW 3301 Graft Shirt L/s  Camisa Vaquera Hombre  Azul  Medium Aged Restored 184 9011   X-Large](https://www.amazon.es/dp/B076VNPDBB/?tag=tolees-21) a 49.33 EUR (original: 139.95 EUR) (64.75 %  de descuento) en el siguiente enlace!

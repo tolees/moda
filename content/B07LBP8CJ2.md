@@ -14,7 +14,7 @@ currency: EUR
 price: 45.49
 comparePrice: 100.0 EUR
 inStock: true
-prodname: Helly Hansen Paramount Resistente Al Agua Y Al Viento Y Respirable Chaleco De Softshell  Hombre  Black  M
+prodname: 'Helly Hansen Paramount Resistente Al Agua Y Al Viento Y Respirable Chaleco De Softshell  Hombre  Black  M'
 ---
 
 Tienes [Helly Hansen Paramount Resistente Al Agua Y Al Viento Y Respirable Chaleco De Softshell  Hombre  Black  M](https://www.amazon.es/dp/B07LBP8CJ2/?tag=tolees-21) con un 54.51 % de descuento con precio de oferta de 45.49 EUR (original: 100.0 EUR) en el siguiente enlace!

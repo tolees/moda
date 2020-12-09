@@ -14,7 +14,7 @@ currency: EUR
 price: 7.44
 comparePrice: 13.95 EUR
 inStock: true
-prodname: Joma Gala Sudadera  Hombre  Rojo  XS
+prodname: 'Joma Gala Sudadera  Hombre  Rojo  XS'
 ---
 
 Está [Joma Gala Sudadera  Hombre  Rojo  XS](https://www.amazon.es/dp/B00W3RCZ3S/?tag=tolees-21) con 46.67 de descuento por 7.44 EUR (original: 13.95 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 52.8
 comparePrice: 145.0 EUR
 inStock: true
-prodname: Geox U Nebula 4 X 4 B ABX  Zapatillas Hombre  Azul  Navy C4002   39 EU
+prodname: 'Geox U Nebula 4 X 4 B ABX  Zapatillas Hombre  Azul  Navy C4002   39 EU'
 ---
 
 Está [Geox U Nebula 4 X 4 B ABX  Zapatillas Hombre  Azul  Navy C4002   39 EU](https://www.amazon.es/dp/B07LFRN7WK/?tag=tolees-21) con 63.59 de descuento por 52.8 EUR (original: 145.0 EUR) en el siguiente enlace!

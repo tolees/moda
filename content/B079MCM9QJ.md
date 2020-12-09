@@ -14,7 +14,7 @@ currency: EUR
 price: 13.65
 comparePrice: 29.99 EUR
 inStock: true
-prodname: JACK & JONES Jorsheridan Shirt SS Western Noos  Camisa para Hombre  Gris  Light Grey Denim  Large
+prodname: 'JACK & JONES Jorsheridan Shirt SS Western Noos  Camisa para Hombre  Gris  Light Grey Denim  Large'
 ---
 
 Tienes [JACK & JONES Jorsheridan Shirt SS Western Noos  Camisa para Hombre  Gris  Light Grey Denim  Large](https://www.amazon.es/dp/B079MCM9QJ/?tag=tolees-21) con un 54.48 % de descuento con precio de oferta de 13.65 EUR (original: 29.99 EUR) en el siguiente enlace!

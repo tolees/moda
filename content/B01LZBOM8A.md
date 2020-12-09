@@ -14,7 +14,7 @@ currency: EUR
 price: 62.94
 comparePrice: 95.0 EUR
 inStock: true
-prodname: El Naturalista Pleasant Wakataua  Sandalias con Punta Cerrada para Mujer  Negro  Black   40 EU
+prodname: 'El Naturalista Pleasant Wakataua  Sandalias con Punta Cerrada para Mujer  Negro  Black   40 EU'
 ---
 
 Ahora mismo tienes [El Naturalista Pleasant Wakataua  Sandalias con Punta Cerrada para Mujer  Negro  Black   40 EU](https://www.amazon.es/dp/B01LZBOM8A/?tag=tolees-21) a 62.94 EUR (original: 95.0 EUR) (33.75 %  de descuento) en el siguiente enlace!

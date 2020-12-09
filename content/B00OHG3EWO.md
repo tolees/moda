@@ -14,7 +14,7 @@ currency: EUR
 price: 22.95
 comparePrice: 70 EUR
 inStock: true
-prodname: Kappa Carcarella Chaqueta Deportiva  Hombre  Azul  Navy   4XL
+prodname: 'Kappa Carcarella Chaqueta Deportiva  Hombre  Azul  Navy   4XL'
 ---
 
 Está [Kappa Carcarella Chaqueta Deportiva  Hombre  Azul  Navy   4XL](https://www.amazon.es/dp/B00OHG3EWO/?tag=tolees-21) con 67.21 de descuento por 22.95 EUR (original: 70 EUR) en el siguiente enlace!

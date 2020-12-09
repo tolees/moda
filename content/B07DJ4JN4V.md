@@ -14,7 +14,7 @@ currency: EUR
 price: 22.85
 comparePrice: 69.95 EUR
 inStock: true
-prodname: United Colors of Benetton Jacket  Chaqueta para Hombre  Marrón  Camel 3c7  Small  Talla del Fabricante: 42 
+prodname: 'United Colors of Benetton Jacket  Chaqueta para Hombre  Marrón  Camel 3c7  Small  Talla del Fabricante: 42 '
 ---
 
 Ahora mismo tienes [United Colors of Benetton Jacket  Chaqueta para Hombre  Marrón  Camel 3c7  Small  Talla del Fabricante: 42 ](https://www.amazon.es/dp/B07DJ4JN4V/?tag=tolees-21) a 22.85 EUR (original: 69.95 EUR) (67.33 %  de descuento) en el siguiente enlace!

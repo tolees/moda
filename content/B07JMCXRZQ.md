@@ -14,7 +14,7 @@ currency: EUR
 price: 21.67
 comparePrice: 89.95 EUR
 inStock: true
-prodname: Lee Scarlett Vaqueros  Clean Wheaton In  24W / 33L para Mujer
+prodname: 'Lee Scarlett Vaqueros  Clean Wheaton In  24W / 33L para Mujer'
 ---
 
 Está [Lee Scarlett Vaqueros  Clean Wheaton In  24W / 33L para Mujer](https://www.amazon.es/dp/B07JMCXRZQ/?tag=tolees-21) con 75.91 de descuento por 21.67 EUR (original: 89.95 EUR) en el siguiente enlace!

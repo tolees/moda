@@ -14,7 +14,7 @@ currency: EUR
 price: 6.44
 comparePrice: 17.99 EUR
 inStock: true
-prodname: JACK & JONES Jcomayfield tee SS Crew Neck Camiseta  Azul  Sky Captain Fit: Slim   Medium para Hombre
+prodname: 'JACK & JONES Jcomayfield tee SS Crew Neck Camiseta  Azul  Sky Captain Fit: Slim   Medium para Hombre'
 ---
 
 Ahora mismo tienes [JACK & JONES Jcomayfield tee SS Crew Neck Camiseta  Azul  Sky Captain Fit: Slim   Medium para Hombre](https://www.amazon.es/dp/B07JYYKZC5/?tag=tolees-21) a 6.44 EUR (original: 17.99 EUR) (64.20 %  de descuento) en el siguiente enlace!

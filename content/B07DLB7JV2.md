@@ -14,7 +14,7 @@ currency: EUR
 price: 6.18
 comparePrice: 15.99 EUR
 inStock: true
-prodname: Springfield 2.T.Ap. Piedras Colores Bimateria Camiseta sin Mangas  Mujer  Blanco  Blanco 99   X-Small  Tamaño del Fabricante:XS 
+prodname: 'Springfield 2.T.Ap. Piedras Colores Bimateria Camiseta sin Mangas  Mujer  Blanco  Blanco 99   X-Small  Tamaño del Fabricante:XS '
 ---
 
 Ahora mismo tienes [Springfield 2.T.Ap. Piedras Colores Bimateria Camiseta sin Mangas  Mujer  Blanco  Blanco 99   X-Small  Tamaño del Fabricante:XS ](https://www.amazon.es/dp/B07DLB7JV2/?tag=tolees-21) a 6.18 EUR (original: 15.99 EUR) (61.35 %  de descuento) en el siguiente enlace!

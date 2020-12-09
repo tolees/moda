@@ -14,7 +14,7 @@ currency: EUR
 price: 9.18
 comparePrice: 38.41 EUR
 inStock: true
-prodname: Marvel Avengers Icon Sudadera  Negro  Black   XX-Large para Hombre
+prodname: 'Marvel Avengers Icon Sudadera  Negro  Black   XX-Large para Hombre'
 ---
 
 Ahora mismo tienes [Marvel Avengers Icon Sudadera  Negro  Black   XX-Large para Hombre](https://www.amazon.es/dp/B01KZ84HQO/?tag=tolees-21) a 9.18 EUR (original: 38.41 EUR) (76.10 %  de descuento) en el siguiente enlace!

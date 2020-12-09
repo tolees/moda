@@ -14,7 +14,7 @@ currency: EUR
 price: 17.5
 comparePrice: 89.95 EUR
 inStock: true
-prodname: Lee Scarlett High Skinny Vaqueros  Azul  Dark Used Vq   25W / 33L para Mujer
+prodname: 'Lee Scarlett High Skinny Vaqueros  Azul  Dark Used Vq   25W / 33L para Mujer'
 ---
 
 Está [Lee Scarlett High Skinny Vaqueros  Azul  Dark Used Vq   25W / 33L para Mujer](https://www.amazon.es/dp/B079P7LGFP/?tag=tolees-21) con 80.54 de descuento por 17.5 EUR (original: 89.95 EUR) en el siguiente enlace!

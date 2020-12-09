@@ -14,7 +14,7 @@ currency: EUR
 price: 87.98
 comparePrice: 129.99 EUR
 inStock: true
-prodname: Columbia Pike Lake Chaqueta Aislante  Hombre  Rojo  Negro  Mountain Red Shine  Shark   L
+prodname: 'Columbia Pike Lake Chaqueta Aislante  Hombre  Rojo  Negro  Mountain Red Shine  Shark   L'
 ---
 
 Ahora mismo tienes [Columbia Pike Lake Chaqueta Aislante  Hombre  Rojo  Negro  Mountain Red Shine  Shark   L](https://www.amazon.es/dp/B087VHCPDQ/?tag=tolees-21) a 87.98 EUR (original: 129.99 EUR) (32.32 %  de descuento) en el siguiente enlace!

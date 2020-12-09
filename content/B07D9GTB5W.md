@@ -14,7 +14,7 @@ currency: EUR
 price: 18.02
 comparePrice: 49.95 EUR
 inStock: true
-prodname: XTI 48398  Botines para Mujer  Marrón Taupe  37 EU
+prodname: 'XTI 48398  Botines para Mujer  Marrón Taupe  37 EU'
 ---
 
 Tienes [XTI 48398  Botines para Mujer  Marrón Taupe  37 EU](https://www.amazon.es/dp/B07D9GTB5W/?tag=tolees-21) con un 63.92 % de descuento con precio de oferta de 18.02 EUR (original: 49.95 EUR) en el siguiente enlace!

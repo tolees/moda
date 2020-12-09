@@ -14,7 +14,7 @@ currency: EUR
 price: 30.69
 comparePrice: 89.9 EUR
 inStock: true
-prodname: Geox D ANNYTAH D  Bailarinas Mujer  Beige  Lt Grey C1010   41 EU
+prodname: 'Geox D ANNYTAH D  Bailarinas Mujer  Beige  Lt Grey C1010   41 EU'
 ---
 
 Está [Geox D ANNYTAH D  Bailarinas Mujer  Beige  Lt Grey C1010   41 EU](https://www.amazon.es/dp/B07SWV1NG5/?tag=tolees-21) con 65.86 de descuento por 30.69 EUR (original: 89.9 EUR) en el siguiente enlace!

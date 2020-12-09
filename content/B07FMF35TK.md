@@ -14,7 +14,7 @@ currency: EUR
 price: 14.49
 comparePrice: 20.0 EUR
 inStock: true
-prodname: Kappa Zoshim 3 Betis Camiseta  Hombre  Negro  L
+prodname: 'Kappa Zoshim 3 Betis Camiseta  Hombre  Negro  L'
 ---
 
 Está [Kappa Zoshim 3 Betis Camiseta  Hombre  Negro  L](https://www.amazon.es/dp/B07FMF35TK/?tag=tolees-21) con 27.55 de descuento por 14.49 EUR (original: 20.0 EUR) en el siguiente enlace!

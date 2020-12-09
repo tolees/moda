@@ -14,7 +14,7 @@ currency: EUR
 price: 20.34
 comparePrice: 40.74 EUR
 inStock: true
-prodname: Volcom Radical Daze - Camiseta  Negro  XS  Mujer  B3531854  Sea Navy  Small
+prodname: 'Volcom Radical Daze - Camiseta  Negro  XS  Mujer  B3531854  Sea Navy  Small'
 ---
 
 Ahora mismo tienes [Volcom Radical Daze - Camiseta  Negro  XS  Mujer  B3531854  Sea Navy  Small](https://www.amazon.es/dp/B07DVYDC1S/?tag=tolees-21) a 20.34 EUR (original: 40.74 EUR) (50.07 %  de descuento) en el siguiente enlace!
