@@ -17,10 +17,12 @@ inStock: true
 prodname: 'Under Armour Graphic Sportstyle Fashion SSC - Camiseta  Mujer  Negro  Black/White  S'
 ---
 
-Ahora mismo tienes [Under Armour Graphic Sportstyle Fashion SSC - Camiseta  Mujer  Negro  Black/White  S](https://www.amazon.es/dp/B07KSRB1HG/?tag=tolees-21) a 17.46 EUR (original: 29.99 EUR) (41.78 %  de descuento) en el siguiente enlace!
+Está [Under Armour Graphic Sportstyle Fashion SSC - Camiseta  Mujer  Negro  Black/White  S](https://www.amazon.es/dp/B07KSRB1HG/?tag=tolees-21) con 41.78 de descuento por 17.46 EUR (original: 29.99 EUR) en el siguiente enlace!
 
 [![Under Armour Graphic Sportstyle Fashion ](https://m.media-amazon.com/images/I/41GCncLEFvL._SL200_.jpg)](https://www.amazon.es/dp/B07KSRB1HG/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07KSRB1HG/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07KSRB1HG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

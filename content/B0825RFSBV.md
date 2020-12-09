@@ -17,12 +17,10 @@ inStock: true
 prodname: 'Geox D Calinda Mid A  Botas Cortas al Tobillo Mujer  Negro  39 EU'
 ---
 
-Está [Geox D Calinda Mid A  Botas Cortas al Tobillo Mujer  Negro  39 EU](https://www.amazon.es/dp/B0825RFSBV/?tag=tolees-21) con 50.23 de descuento por 59.68 EUR (original: 119.9 EUR) en el siguiente enlace!
+Ahora mismo tienes [Geox D Calinda Mid A  Botas Cortas al Tobillo Mujer  Negro  39 EU](https://www.amazon.es/dp/B0825RFSBV/?tag=tolees-21) a 59.68 EUR (original: 119.9 EUR) (50.23 %  de descuento) en el siguiente enlace!
 
 [![Geox D Calinda Mid A  Botas Cortas al To](https://m.media-amazon.com/images/I/31YbekRUUrL._SL200_.jpg)](https://www.amazon.es/dp/B0825RFSBV/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B0825RFSBV/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B0825RFSBV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-
