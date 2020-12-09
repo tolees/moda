@@ -17,10 +17,12 @@ inStock: true
 prodname: 'Iris & Lilly Mallas Deportivas por Media Pierna para Mujer  Gris  Grey Marl/lime   Large'
 ---
 
-Ahora mismo tienes [Iris & Lilly Mallas Deportivas por Media Pierna para Mujer  Gris  Grey Marl/lime   Large](https://www.amazon.es/dp/B01N9BVEXJ/?tag=tolees-21) a 6.94 EUR (original: 15.99 EUR) (56.60 %  de descuento) en el siguiente enlace!
+Está [Iris & Lilly Mallas Deportivas por Media Pierna para Mujer  Gris  Grey Marl/lime   Large](https://www.amazon.es/dp/B01N9BVEXJ/?tag=tolees-21) con 56.60 de descuento por 6.94 EUR (original: 15.99 EUR) en el siguiente enlace!
 
 [![Iris & Lilly Mallas Deportivas por Media](https://images-eu.ssl-images-amazon.com/images/I/41avdWXpyfL._SL200_.jpg)](https://www.amazon.es/dp/B01N9BVEXJ/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B01N9BVEXJ/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B01N9BVEXJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

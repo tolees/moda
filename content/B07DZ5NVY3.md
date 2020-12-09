@@ -17,12 +17,10 @@ inStock: true
 prodname: 'Columbia Horizon Explorer  Chaqueta térmica con capucha  Hombre  Negro  Black   Talla M'
 ---
 
-Está [Columbia Horizon Explorer  Chaqueta térmica con capucha  Hombre  Negro  Black   Talla M](https://www.amazon.es/dp/B07DZ5NVY3/?tag=tolees-21) con 58.06 de descuento por 75.49 EUR (original: 179.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Columbia Horizon Explorer  Chaqueta térmica con capucha  Hombre  Negro  Black   Talla M](https://www.amazon.es/dp/B07DZ5NVY3/?tag=tolees-21) a 75.49 EUR (original: 179.99 EUR) (58.06 %  de descuento) en el siguiente enlace!
 
 [![Columbia Horizon Explorer  Chaqueta térm](https://m.media-amazon.com/images/I/41P5qfRMUrL._SL200_.jpg)](https://www.amazon.es/dp/B07DZ5NVY3/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07DZ5NVY3/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07DZ5NVY3/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-
