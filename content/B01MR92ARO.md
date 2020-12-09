@@ -14,10 +14,12 @@ comparePrice: 39.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [edc by Esprit 037cc1f009  Blusa Mujer  Azul  Pastel Blue   36  Talla del Fabricante: Small ](https://www.amazon.es/dp/B01MR92ARO/?tag=tolees-21) a 10.66 EUR (original: 39.99 EUR) (73.34 %  de descuento) en el siguiente enlace!
+Está [edc by Esprit 037cc1f009  Blusa Mujer  Azul  Pastel Blue   36  Talla del Fabricante: Small ](https://www.amazon.es/dp/B01MR92ARO/?tag=tolees-21) con 73.34 de descuento por 10.66 EUR (original: 39.99 EUR) en el siguiente enlace!
 
 [![edc by Esprit 037cc1f009  Blusa Mujer  A](https://images-eu.ssl-images-amazon.com/images/I/41BZE9YNBEL._SL200_.jpg)](https://www.amazon.es/dp/B01MR92ARO/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B01MR92ARO/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B01MR92ARO/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+
