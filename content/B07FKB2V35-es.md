@@ -18,12 +18,10 @@ prodname: 'Superdry Vintage Logo Tri tee Camiseta de Tirantes  Azul  Eclipse Nav
 country: 'es'
 ---
 
-Está [Superdry Vintage Logo Tri tee Camiseta de Tirantes  Azul  Eclipse Navy 98T   L para Hombre](https://www.amazon.es/dp/B07FKB2V35/?tag=tolees-21) con 57.16 de descuento por 14.99 EUR (original: 34.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Superdry Vintage Logo Tri tee Camiseta de Tirantes  Azul  Eclipse Navy 98T   L para Hombre](https://www.amazon.es/dp/B07FKB2V35/?tag=tolees-21) a 14.99 EUR (original: 34.99 EUR) (57.16 %  de descuento) en el siguiente enlace!
 
 [![Superdry Vintage Logo Tri tee Camiseta d](https://m.media-amazon.com/images/I/41HNZ35idrL._SL200_.jpg)](https://www.amazon.es/dp/B07FKB2V35/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07FKB2V35/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07FKB2V35/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

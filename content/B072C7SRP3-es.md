@@ -18,10 +18,12 @@ prodname: 'Under Armour Tri Blend Tank Camiseta sin Mangas  Mujer  Azul  XL'
 country: 'es'
 ---
 
-Ahora mismo tienes [Under Armour Tri Blend Tank Camiseta sin Mangas  Mujer  Azul  XL](https://www.amazon.es/dp/B072C7SRP3/?tag=tolees-21) a 14.49 EUR (original: 30 EUR) (51.70 %  de descuento) en el siguiente enlace!
+Está [Under Armour Tri Blend Tank Camiseta sin Mangas  Mujer  Azul  XL](https://www.amazon.es/dp/B072C7SRP3/?tag=tolees-21) con 51.70 de descuento por 14.49 EUR (original: 30 EUR) en el siguiente enlace!
 
 [![Under Armour Tri Blend Tank Camiseta sin](https://images-eu.ssl-images-amazon.com/images/I/41GN2fyi09L._SL200_.jpg)](https://www.amazon.es/dp/B072C7SRP3/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B072C7SRP3/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B072C7SRP3/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

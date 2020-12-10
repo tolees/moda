@@ -18,10 +18,12 @@ prodname: 'TOM TAILOR Denim 35550120071  Chaqueta Para Mujer  Negro  Black 2999 
 country: 'es'
 ---
 
-Ahora mismo tienes [TOM TAILOR Denim 35550120071  Chaqueta Para Mujer  Negro  Black 2999   Medium](https://www.amazon.es/dp/B071V9K2CZ/?tag=tolees-21) a 25.79 EUR (original: 69.99 EUR) (63.15 %  de descuento) en el siguiente enlace!
+Está [TOM TAILOR Denim 35550120071  Chaqueta Para Mujer  Negro  Black 2999   Medium](https://www.amazon.es/dp/B071V9K2CZ/?tag=tolees-21) con 63.15 de descuento por 25.79 EUR (original: 69.99 EUR) en el siguiente enlace!
 
 [![TOM TAILOR Denim 35550120071  Chaqueta P](https://images-eu.ssl-images-amazon.com/images/I/416R9tbWDyL._SL200_.jpg)](https://www.amazon.es/dp/B071V9K2CZ/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B071V9K2CZ/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B071V9K2CZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

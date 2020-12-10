@@ -18,10 +18,12 @@ prodname: 'Geox U Goinway B  Sandalias con Punta Abierta para Hombre  Navy/Black
 country: 'es'
 ---
 
-Ahora mismo tienes [Geox U Goinway B  Sandalias con Punta Abierta para Hombre  Navy/Black C0045  44 EU](https://www.amazon.es/dp/B07DJ6MKPF/?tag=tolees-21) a 30.76 EUR (original: 79.9 EUR) (61.50 %  de descuento) en el siguiente enlace!
+Está [Geox U Goinway B  Sandalias con Punta Abierta para Hombre  Navy/Black C0045  44 EU](https://www.amazon.es/dp/B07DJ6MKPF/?tag=tolees-21) con 61.50 de descuento por 30.76 EUR (original: 79.9 EUR) en el siguiente enlace!
 
 [![Geox U Goinway B  Sandalias con Punta Ab](https://images-eu.ssl-images-amazon.com/images/I/31LkUyLW-yL._SL200_.jpg)](https://www.amazon.es/dp/B07DJ6MKPF/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07DJ6MKPF/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07DJ6MKPF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

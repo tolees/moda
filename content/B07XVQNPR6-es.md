@@ -18,10 +18,12 @@ prodname: 'Esprit 119ee1f007 Blusa  Negro  Black 001   36  Talla del Fabricante:
 country: 'es'
 ---
 
-Ahora mismo tienes [Esprit 119ee1f007 Blusa  Negro  Black 001   36  Talla del Fabricante: 34  para Mujer](https://www.amazon.es/dp/B07XVQNPR6/?tag=tolees-21) a 14.99 EUR (original: 39.99 EUR) (62.52 %  de descuento) en el siguiente enlace!
+Está [Esprit 119ee1f007 Blusa  Negro  Black 001   36  Talla del Fabricante: 34  para Mujer](https://www.amazon.es/dp/B07XVQNPR6/?tag=tolees-21) con 62.52 de descuento por 14.99 EUR (original: 39.99 EUR) en el siguiente enlace!
 
 [![Esprit 119ee1f007 Blusa  Negro  Black 00](https://m.media-amazon.com/images/I/511kRAz9ZbL._SL200_.jpg)](https://www.amazon.es/dp/B07XVQNPR6/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07XVQNPR6/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07XVQNPR6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

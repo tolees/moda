@@ -18,10 +18,12 @@ prodname: 'Pepa Loves UMA Dress Print Vestido Casual  Mujer   Print   40  Tamañ
 country: 'es'
 ---
 
-Ahora mismo tienes [Pepa Loves UMA Dress Print Vestido Casual  Mujer   Print   40  Tamaño del Fabricante:M ](https://www.amazon.es/dp/B071W3B5VY/?tag=tolees-21) a 15.3 EUR (original: 59 EUR) (74.07 %  de descuento) en el siguiente enlace!
+Está [Pepa Loves UMA Dress Print Vestido Casual  Mujer   Print   40  Tamaño del Fabricante:M ](https://www.amazon.es/dp/B071W3B5VY/?tag=tolees-21) con 74.07 de descuento por 15.3 EUR (original: 59 EUR) en el siguiente enlace!
 
 [![Pepa Loves UMA Dress Print Vestido Casua](https://images-eu.ssl-images-amazon.com/images/I/41Mi2Ir9i5L._SL200_.jpg)](https://www.amazon.es/dp/B071W3B5VY/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B071W3B5VY/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B071W3B5VY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

@@ -18,10 +18,12 @@ prodname: 'Nike 5535 001 45 Monturas de Gafas  Black/Challenge Red  Unisex-niño
 country: 'es'
 ---
 
-Ahora mismo tienes [Nike 5535 001 45 Monturas de Gafas  Black/Challenge Red  Unisex-niños](https://www.amazon.es/dp/B018E79BRS/?tag=tolees-21) a 18.55 EUR (original: 100 EUR) (81.45 %  de descuento) en el siguiente enlace!
+Está [Nike 5535 001 45 Monturas de Gafas  Black/Challenge Red  Unisex-niños](https://www.amazon.es/dp/B018E79BRS/?tag=tolees-21) con 81.45 de descuento por 18.55 EUR (original: 100 EUR) en el siguiente enlace!
 
 [![Nike 5535 001 45 Monturas de Gafas  Blac](https://images-eu.ssl-images-amazon.com/images/I/31h3FHIRhFL._SL200_.jpg)](https://www.amazon.es/dp/B018E79BRS/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B018E79BRS/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B018E79BRS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

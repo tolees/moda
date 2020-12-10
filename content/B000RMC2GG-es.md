@@ -18,12 +18,10 @@ prodname: 'Havaianas Brasil Chanclas Unisex Adulto  Negro  Black 0090   39/40 EU
 country: 'es'
 ---
 
-Está [Havaianas Brasil Chanclas Unisex Adulto  Negro  Black 0090   39/40 EU](https://www.amazon.es/dp/B000RMC2GG/?tag=tolees-21) con 50.00 de descuento por 10.95 EUR (original: 21.9 EUR) en el siguiente enlace!
+Ahora mismo tienes [Havaianas Brasil Chanclas Unisex Adulto  Negro  Black 0090   39/40 EU](https://www.amazon.es/dp/B000RMC2GG/?tag=tolees-21) a 10.95 EUR (original: 21.9 EUR) (50.00 %  de descuento) en el siguiente enlace!
 
 [![Havaianas Brasil Chanclas Unisex Adulto ](https://m.media-amazon.com/images/I/41YboDy+JwL._SL200_.jpg)](https://www.amazon.es/dp/B000RMC2GG/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B000RMC2GG/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B000RMC2GG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-
