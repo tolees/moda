@@ -17,12 +17,10 @@ inStock: true
 prodname: 'Columbia 1773271 POWDER LITE LIGHT HOODED JACKET  Chaqueta con capucha  Hombre   Aislamiento sintético Hi-Loft   Verde  Cypress Heather    Talla XL'
 ---
 
-Está [Columbia 1773271 POWDER LITE LIGHT HOODED JACKET  Chaqueta con capucha  Hombre   Aislamiento sintético Hi-Loft   Verde  Cypress Heather    Talla XL](https://www.amazon.es/dp/B07KSFP9ZZ/?tag=tolees-21) con 57.84 de descuento por 50.59 EUR (original: 119.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Columbia 1773271 POWDER LITE LIGHT HOODED JACKET  Chaqueta con capucha  Hombre   Aislamiento sintético Hi-Loft   Verde  Cypress Heather    Talla XL](https://www.amazon.es/dp/B07KSFP9ZZ/?tag=tolees-21) a 50.59 EUR (original: 119.99 EUR) (57.84 %  de descuento) en el siguiente enlace!
 
 [![Columbia 1773271 POWDER LITE LIGHT HOODE](https://images-eu.ssl-images-amazon.com/images/I/41uhbne05kL._SL200_.jpg)](https://www.amazon.es/dp/B07KSFP9ZZ/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07KSFP9ZZ/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07KSFP9ZZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

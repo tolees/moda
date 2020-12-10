@@ -17,12 +17,10 @@ inStock: true
 prodname: 'Dockers by Gerli 35xe208-300  Botines para Mujer  Amarillo  Golden Tan   37 EU'
 ---
 
-Está [Dockers by Gerli 35xe208-300  Botines para Mujer  Amarillo  Golden Tan   37 EU](https://www.amazon.es/dp/B01F4BPV3U/?tag=tolees-21) con 81.66 de descuento por 18.33 EUR (original: 99.95 EUR) en el siguiente enlace!
+Ahora mismo tienes [Dockers by Gerli 35xe208-300  Botines para Mujer  Amarillo  Golden Tan   37 EU](https://www.amazon.es/dp/B01F4BPV3U/?tag=tolees-21) a 18.33 EUR (original: 99.95 EUR) (81.66 %  de descuento) en el siguiente enlace!
 
 [![Dockers by Gerli 35xe208-300  Botines pa](https://images-eu.ssl-images-amazon.com/images/I/51MqkBYAxlL._SL200_.jpg)](https://www.amazon.es/dp/B01F4BPV3U/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B01F4BPV3U/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B01F4BPV3U/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-
