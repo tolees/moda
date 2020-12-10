@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'JACK & JONES 12152840 Sudadera con capuc al 45.65 % de descuento'
-date: 2020-12-08 16:39:15
+date: 2020-12-10 21:00:45
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Lr-xoH9uL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Lr-xoH9uL._SL200_.jpg' ]
 comments: true
