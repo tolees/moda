@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Crocs Serena Flip Women  Sandalias de Pu al 51.22 % de descuento'
+date: 2020-11-21 22:00:48
+thumbnailImage: 'https://m.media-amazon.com/images/I/31VUd3qV+iL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/31VUd3qV+iL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B07K8XNCTX-es'
+description:
+actualPrice: 14.63 EUR
+currency: EUR
+price: 14.63
+comparePrice: 29.99 EUR
+inStock: true
+prodname: 'Crocs Serena Flip Women  Sandalias de Punta Descubierta para Mujer  Rojo  Poppy 611   37/38 EU'
+country: 'es'
+---
+
+Está [Crocs Serena Flip Women  Sandalias de Punta Descubierta para Mujer  Rojo  Poppy 611   37/38 EU](https://www.amazon.es/dp/B07K8XNCTX/?tag=tolees-21) con 51.22 de descuento por 14.63 EUR (original: 29.99 EUR) en el siguiente enlace!
+
+[![Crocs Serena Flip Women  Sandalias de Pu](https://m.media-amazon.com/images/I/31VUd3qV+iL._SL200_.jpg)](https://www.amazon.es/dp/B07K8XNCTX/?tag=tolees-21)
+
+[Ver la oferta!!](https://www.amazon.es/dp/B07K8XNCTX/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

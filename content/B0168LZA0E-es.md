@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Pepe Jeans Kingston Zip  Vaqueros Regula al 77.65 % de descuento'
+date: 
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pbAlVQbIL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41pbAlVQbIL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B0168LZA0E-es'
+description:
+actualPrice: 21.23 EUR
+currency: EUR
+price: 21.23
+comparePrice: 95 EUR
+inStock: true
+prodname: 'Pepe Jeans Kingston Zip  Vaqueros Regular para Hombre  Azul  12Oz Rope Dye Glory Dk W53   W32/L36'
+country: 'es'
+---
+
+Está [Pepe Jeans Kingston Zip  Vaqueros Regular para Hombre  Azul  12Oz Rope Dye Glory Dk W53   W32/L36](https://www.amazon.es/dp/B0168LZA0E/?tag=tolees-21) con 77.65 de descuento por 21.23 EUR (original: 95 EUR) en el siguiente enlace!
+
+[![Pepe Jeans Kingston Zip  Vaqueros Regula](https://images-eu.ssl-images-amazon.com/images/I/41pbAlVQbIL._SL200_.jpg)](https://www.amazon.es/dp/B0168LZA0E/?tag=tolees-21)
+
+[Ver la oferta!!](https://www.amazon.es/dp/B0168LZA0E/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

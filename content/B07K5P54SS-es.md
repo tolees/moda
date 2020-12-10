@@ -1,0 +1,27 @@
+---
+layout: post
+title: 'Glamorous Ladies Floral Party Dress  Ves al 73.17 % de descuento'
+date: 
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410rB8VnGJL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410rB8VnGJL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B07K5P54SS-es'
+description:
+actualPrice: 12.89 EUR
+currency: EUR
+price: 12.89
+comparePrice: 48.04 EUR
+inStock: true
+prodname: 'Glamorous Ladies Floral Party Dress  Vestido para Mujer   Black Small Flower BS  36  Talla del Fabricante: 8 '
+country: 'es'
+---
+
+Ahora mismo tienes [Glamorous Ladies Floral Party Dress  Vestido para Mujer   Black Small Flower BS  36  Talla del Fabricante: 8 ](https://www.amazon.es/dp/B07K5P54SS/?tag=tolees-21) a 12.89 EUR (original: 48.04 EUR) (73.17 %  de descuento) en el siguiente enlace!
+
+[![Glamorous Ladies Floral Party Dress  Ves](https://images-eu.ssl-images-amazon.com/images/I/410rB8VnGJL._SL200_.jpg)](https://www.amazon.es/dp/B07K5P54SS/?tag=tolees-21)
+
+[Visítala!!!](https://www.amazon.es/dp/B07K5P54SS/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales

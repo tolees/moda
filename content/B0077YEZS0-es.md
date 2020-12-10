@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Columbia Silver Ridge Pant Pantalón de S al 48.56 % de descuento'
+date: 
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BiTl-UavL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2BiTl-UavL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B0077YEZS0-es'
+description:
+actualPrice: 33.43 EUR
+currency: EUR
+price: 33.43
+comparePrice: 64.99 EUR
+inStock: true
+prodname: 'Columbia Silver Ridge Pant Pantalón de Senderismo para Mujer  Gris  Grill   W38/S'
+country: 'es'
+---
+
+Está [Columbia Silver Ridge Pant Pantalón de Senderismo para Mujer  Gris  Grill   W38/S](https://www.amazon.es/dp/B0077YEZS0/?tag=tolees-21) con 48.56 de descuento por 33.43 EUR (original: 64.99 EUR) en el siguiente enlace!
+
+[![Columbia Silver Ridge Pant Pantalón de S](https://images-eu.ssl-images-amazon.com/images/I/41%2BiTl-UavL._SL200_.jpg)](https://www.amazon.es/dp/B0077YEZS0/?tag=tolees-21)
+
+[Ver la oferta!!](https://www.amazon.es/dp/B0077YEZS0/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

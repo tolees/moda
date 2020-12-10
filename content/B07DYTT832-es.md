@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Columbia Chaqueta Cortavientos para Homb al 61.78 % de descuento'
+date: 
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41609-cvXKL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41609-cvXKL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B07DYTT832-es'
+description:
+actualPrice: 38.22 EUR
+currency: EUR
+price: 38.22
+comparePrice: 99.99 EUR
+inStock: true
+prodname: 'Columbia Chaqueta Cortavientos para Hombre  Cascade Ridge II Softshell  Marrón  Peatmoss Heather   XXL'
+country: 'es'
+---
+
+Está [Columbia Chaqueta Cortavientos para Hombre  Cascade Ridge II Softshell  Marrón  Peatmoss Heather   XXL](https://www.amazon.es/dp/B07DYTT832/?tag=tolees-21) con 61.78 de descuento por 38.22 EUR (original: 99.99 EUR) en el siguiente enlace!
+
+[![Columbia Chaqueta Cortavientos para Homb](https://images-eu.ssl-images-amazon.com/images/I/41609-cvXKL._SL200_.jpg)](https://www.amazon.es/dp/B07DYTT832/?tag=tolees-21)
+
+[Ver la oferta!!](https://www.amazon.es/dp/B07DYTT832/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

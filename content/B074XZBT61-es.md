@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'ESPRIT Collection 107eo1k013  Camisa Man al 81.39 % de descuento'
+date: 
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DvYSLfvbL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DvYSLfvbL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B074XZBT61-es'
+description:
+actualPrice: 8.56 EUR
+currency: EUR
+price: 8.56
+comparePrice: 45.99 EUR
+inStock: true
+prodname: 'ESPRIT Collection 107eo1k013  Camisa Manga Larga para Mujer  Negro  Black 001  Large'
+country: 'es'
+---
+
+Está [ESPRIT Collection 107eo1k013  Camisa Manga Larga para Mujer  Negro  Black 001  Large](https://www.amazon.es/dp/B074XZBT61/?tag=tolees-21) con 81.39 de descuento por 8.56 EUR (original: 45.99 EUR) en el siguiente enlace!
+
+[![ESPRIT Collection 107eo1k013  Camisa Man](https://images-eu.ssl-images-amazon.com/images/I/41DvYSLfvbL._SL200_.jpg)](https://www.amazon.es/dp/B074XZBT61/?tag=tolees-21)
+
+[Ver la oferta!!](https://www.amazon.es/dp/B074XZBT61/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

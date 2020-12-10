@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Descuento del 56.12 % en LIU JO Shoes Patty 02-Sandal Metallic Le'
+date: 
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41AkMIMfcML._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41AkMIMfcML._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B07L6S66NB-es'
+description:
+actualPrice: 65.78 EUR
+currency: EUR
+price: 65.78
+comparePrice: 149.9 EUR
+inStock: true
+prodname: 'LIU JO Shoes Patty 02-Sandal Metallic Leather Gold  Sandalias con Punta Abierta para Mujer  Dorado 00529  36 EU'
+country: 'es'
+---
+
+Tienes [LIU JO Shoes Patty 02-Sandal Metallic Leather Gold  Sandalias con Punta Abierta para Mujer  Dorado 00529  36 EU](https://www.amazon.es/dp/B07L6S66NB/?tag=tolees-21) con un 56.12 % de descuento con precio de oferta de 65.78 EUR (original: 149.9 EUR) en el siguiente enlace!
+
+[![LIU JO Shoes Patty 02-Sandal Metallic Le](https://images-eu.ssl-images-amazon.com/images/I/41AkMIMfcML._SL200_.jpg)](https://www.amazon.es/dp/B07L6S66NB/?tag=tolees-21)
+
+[Accede a la oferta!!](https://www.amazon.es/dp/B07L6S66NB/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

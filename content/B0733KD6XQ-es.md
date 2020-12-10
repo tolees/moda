@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Descuento del 49.97 % en FABTASTICS Camiseta Game of Thrones Homb'
+date: 
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HD49FzkiL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HD49FzkiL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B0733KD6XQ-es'
+description:
+actualPrice: 8.48 EUR
+currency: EUR
+price: 8.48
+comparePrice: 16.95 EUR
+inStock: true
+prodname: 'FABTASTICS Camiseta Game of Thrones Hombre  Blanco  White 001   Large'
+country: 'es'
+---
+
+Tienes [FABTASTICS Camiseta Game of Thrones Hombre  Blanco  White 001   Large](https://www.amazon.es/dp/B0733KD6XQ/?tag=tolees-21) con un 49.97 % de descuento con precio de oferta de 8.48 EUR (original: 16.95 EUR) en el siguiente enlace!
+
+[![FABTASTICS Camiseta Game of Thrones Homb](https://images-eu.ssl-images-amazon.com/images/I/41HD49FzkiL._SL200_.jpg)](https://www.amazon.es/dp/B0733KD6XQ/?tag=tolees-21)
+
+[Accede a la oferta!!](https://www.amazon.es/dp/B0733KD6XQ/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

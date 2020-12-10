@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Geox U Sandford B ABX A  Zapatillas para al 61.56 % de descuento'
+date: 
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411yZlFOBpL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411yZlFOBpL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B0792B9CJK-es'
+description:
+actualPrice: 51.89 EUR
+currency: EUR
+price: 51.89
+comparePrice: 135 EUR
+inStock: true
+prodname: 'Geox U Sandford B ABX A  Zapatillas para Hombre   Dk Jeans C4322   44 EU'
+country: 'es'
+---
+
+Está [Geox U Sandford B ABX A  Zapatillas para Hombre   Dk Jeans C4322   44 EU](https://www.amazon.es/dp/B0792B9CJK/?tag=tolees-21) con 61.56 de descuento por 51.89 EUR (original: 135 EUR) en el siguiente enlace!
+
+[![Geox U Sandford B ABX A  Zapatillas para](https://images-eu.ssl-images-amazon.com/images/I/411yZlFOBpL._SL200_.jpg)](https://www.amazon.es/dp/B0792B9CJK/?tag=tolees-21)
+
+[Ver la oferta!!](https://www.amazon.es/dp/B0792B9CJK/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

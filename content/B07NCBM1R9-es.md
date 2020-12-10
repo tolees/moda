@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Pepe Jeans Mable Vaqueros Straight  Azul al 50.02 % de descuento'
+date: 
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41l0M-kgbAL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41l0M-kgbAL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B07NCBM1R9-es'
+description:
+actualPrice: 44.93 EUR
+currency: EUR
+price: 44.93
+comparePrice: 89.9 EUR
+inStock: true
+prodname: 'Pepe Jeans Mable Vaqueros Straight  Azul  Medium Used Denim Gm3   W31/L28 para Mujer'
+country: 'es'
+---
+
+Está [Pepe Jeans Mable Vaqueros Straight  Azul  Medium Used Denim Gm3   W31/L28 para Mujer](https://www.amazon.es/dp/B07NCBM1R9/?tag=tolees-21) con 50.02 de descuento por 44.93 EUR (original: 89.9 EUR) en el siguiente enlace!
+
+[![Pepe Jeans Mable Vaqueros Straight  Azul](https://images-eu.ssl-images-amazon.com/images/I/41l0M-kgbAL._SL200_.jpg)](https://www.amazon.es/dp/B07NCBM1R9/?tag=tolees-21)
+
+[Ver la oferta!!](https://www.amazon.es/dp/B07NCBM1R9/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

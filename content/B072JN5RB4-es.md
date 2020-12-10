@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Crocs Swiftwater Flip W  Zapatos de Play al 42.84 % de descuento'
+date: 
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ZAjmxR5wL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ZAjmxR5wL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B072JN5RB4-es'
+description:
+actualPrice: 19.95 EUR
+currency: EUR
+price: 19.95
+comparePrice: 34.9 EUR
+inStock: true
+prodname: 'Crocs Swiftwater Flip W  Zapatos de Playa y Piscina para Mujer  Turquesa  Tropical Teal/Pearl White 31i   36/37 EU'
+country: 'es'
+---
+
+Está [Crocs Swiftwater Flip W  Zapatos de Playa y Piscina para Mujer  Turquesa  Tropical Teal/Pearl White 31i   36/37 EU](https://www.amazon.es/dp/B072JN5RB4/?tag=tolees-21) con 42.84 de descuento por 19.95 EUR (original: 34.9 EUR) en el siguiente enlace!
+
+[![Crocs Swiftwater Flip W  Zapatos de Play](https://images-eu.ssl-images-amazon.com/images/I/31ZAjmxR5wL._SL200_.jpg)](https://www.amazon.es/dp/B072JN5RB4/?tag=tolees-21)
+
+[Ver la oferta!!](https://www.amazon.es/dp/B072JN5RB4/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Descuento del 30.00 % en BILLABONG Contrast SS Camiseta de nataci'
+date: 
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LipZzW9-L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LipZzW9-L._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B079JX4JY2-es'
+description:
+actualPrice: 22.4 EUR
+currency: EUR
+price: 22.4
+comparePrice: 32 EUR
+inStock: true
+prodname: 'BILLABONG Contrast SS Camiseta de natación  Hombre   Gris Heather 9   Small'
+country: 'es'
+---
+
+Tienes [BILLABONG Contrast SS Camiseta de natación  Hombre   Gris Heather 9   Small](https://www.amazon.es/dp/B079JX4JY2/?tag=tolees-21) con un 30.00 % de descuento con precio de oferta de 22.4 EUR (original: 32 EUR) en el siguiente enlace!
+
+[![BILLABONG Contrast SS Camiseta de nataci](https://images-eu.ssl-images-amazon.com/images/I/41LipZzW9-L._SL200_.jpg)](https://www.amazon.es/dp/B079JX4JY2/?tag=tolees-21)
+
+[Accede a la oferta!!](https://www.amazon.es/dp/B079JX4JY2/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

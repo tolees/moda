@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'SELECTED HOMME Shnslim-Leon 6111 Mid St  al 40.43 % de descuento'
+date: 
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41l7GYpYSBL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41l7GYpYSBL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B076ZYQ3J8-es'
+description:
+actualPrice: 27.99 EUR
+currency: EUR
+price: 27.99
+comparePrice: 46.99 EUR
+inStock: true
+prodname: 'SELECTED HOMME Shnslim-Leon 6111 Mid St Jeans STS  Vaqueros Slim para Hombre  Azul Medium Blue Denim  W32/L34  Talla del Fabricante: 32 '
+country: 'es'
+---
+
+Está [SELECTED HOMME Shnslim-Leon 6111 Mid St Jeans STS  Vaqueros Slim para Hombre  Azul Medium Blue Denim  W32/L34  Talla del Fabricante: 32 ](https://www.amazon.es/dp/B076ZYQ3J8/?tag=tolees-21) con 40.43 de descuento por 27.99 EUR (original: 46.99 EUR) en el siguiente enlace!
+
+[![SELECTED HOMME Shnslim-Leon 6111 Mid St ](https://images-eu.ssl-images-amazon.com/images/I/41l7GYpYSBL._SL200_.jpg)](https://www.amazon.es/dp/B076ZYQ3J8/?tag=tolees-21)
+
+[Ver la oferta!!](https://www.amazon.es/dp/B076ZYQ3J8/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

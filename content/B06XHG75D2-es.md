@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Helly Hansen W HH LIFA 1/2 Zip Camiseta  al 54.02 % de descuento'
+date: 
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Y5uj2zMzL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Y5uj2zMzL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B06XHG75D2-es'
+description:
+actualPrice: 22.99 EUR
+currency: EUR
+price: 22.99
+comparePrice: 50 EUR
+inStock: true
+prodname: 'Helly Hansen W HH LIFA 1/2 Zip Camiseta Deportiva  Mujer   Azul   X-Small  Tamaño del Fabricante:XS '
+country: 'es'
+---
+
+Está [Helly Hansen W HH LIFA 1/2 Zip Camiseta Deportiva  Mujer   Azul   X-Small  Tamaño del Fabricante:XS ](https://www.amazon.es/dp/B06XHG75D2/?tag=tolees-21) con 54.02 de descuento por 22.99 EUR (original: 50 EUR) en el siguiente enlace!
+
+[![Helly Hansen W HH LIFA 1/2 Zip Camiseta ](https://images-eu.ssl-images-amazon.com/images/I/31Y5uj2zMzL._SL200_.jpg)](https://www.amazon.es/dp/B06XHG75D2/?tag=tolees-21)
+
+[Ver la oferta!!](https://www.amazon.es/dp/B06XHG75D2/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

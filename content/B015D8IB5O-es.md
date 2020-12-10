@@ -1,0 +1,27 @@
+---
+layout: post
+title: 'adidas Techfit Base - Camiseta de manga  al 31.21 % de descuento'
+date: 
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MDhmtZdnL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41MDhmtZdnL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B015D8IB5O-es'
+description:
+actualPrice: 15.1 EUR
+currency: EUR
+price: 15.1
+comparePrice: 21.95 EUR
+inStock: true
+prodname: 'adidas Techfit Base - Camiseta de manga corta para hombre  Blanco  White   M'
+country: 'es'
+---
+
+Ahora mismo tienes [adidas Techfit Base - Camiseta de manga corta para hombre  Blanco  White   M](https://www.amazon.es/dp/B015D8IB5O/?tag=tolees-21) a 15.1 EUR (original: 21.95 EUR) (31.21 %  de descuento) en el siguiente enlace!
+
+[![adidas Techfit Base - Camiseta de manga ](https://images-eu.ssl-images-amazon.com/images/I/41MDhmtZdnL._SL200_.jpg)](https://www.amazon.es/dp/B015D8IB5O/?tag=tolees-21)
+
+[Visítala!!!](https://www.amazon.es/dp/B015D8IB5O/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales

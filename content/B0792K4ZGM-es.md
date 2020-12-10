@@ -1,0 +1,27 @@
+---
+layout: post
+title: 'Geox U SAYMORE C  Zapatos de Cordones De al 31.82 % de descuento'
+date: 2020-10-17 16:34:39
+thumbnailImage: 'https://m.media-amazon.com/images/I/31erhMvglVL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/31erhMvglVL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B0792K4ZGM-es'
+description:
+actualPrice: 22.63 EUR
+currency: EUR
+price: 22.63
+comparePrice: 33.19 EUR
+inStock: true
+prodname: 'Geox U SAYMORE C  Zapatos de Cordones Derby para Hombre  Marrón  Cognac C6001   39 EU'
+country: 'es'
+---
+
+Ahora mismo tienes [Geox U SAYMORE C  Zapatos de Cordones Derby para Hombre  Marrón  Cognac C6001   39 EU](https://www.amazon.es/dp/B0792K4ZGM/?tag=tolees-21) a 22.63 EUR (original: 33.19 EUR) (31.82 %  de descuento) en el siguiente enlace!
+
+[![Geox U SAYMORE C  Zapatos de Cordones De](https://m.media-amazon.com/images/I/31erhMvglVL._SL200_.jpg)](https://www.amazon.es/dp/B0792K4ZGM/?tag=tolees-21)
+
+[Visítala!!!](https://www.amazon.es/dp/B0792K4ZGM/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales

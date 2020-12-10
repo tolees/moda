@@ -1,0 +1,27 @@
+---
+layout: post
+title: 'Tuc Tuc Prenda Conejito FÁBULA  Camiseta al 60.00 % de descuento'
+date: 
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41r0CSWU9NL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41r0CSWU9NL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B07G9SMJ56-es'
+description:
+actualPrice: 5.18 EUR
+currency: EUR
+price: 5.18
+comparePrice: 12.95 EUR
+inStock: true
+prodname: 'Tuc Tuc Prenda Conejito FÁBULA  Camiseta para Niñas   Rosa 01   2 años  Tamaño del Fabricante:2A '
+country: 'es'
+---
+
+Ahora mismo tienes [Tuc Tuc Prenda Conejito FÁBULA  Camiseta para Niñas   Rosa 01   2 años  Tamaño del Fabricante:2A ](https://www.amazon.es/dp/B07G9SMJ56/?tag=tolees-21) a 5.18 EUR (original: 12.95 EUR) (60.00 %  de descuento) en el siguiente enlace!
+
+[![Tuc Tuc Prenda Conejito FÁBULA  Camiseta](https://images-eu.ssl-images-amazon.com/images/I/41r0CSWU9NL._SL200_.jpg)](https://www.amazon.es/dp/B07G9SMJ56/?tag=tolees-21)
+
+[Visítala!!!](https://www.amazon.es/dp/B07G9SMJ56/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales

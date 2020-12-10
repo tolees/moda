@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Tantra Leather Espadrille Wedge Sandals  al 92.50 % de descuento'
+date: 
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51XrXoyepDL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51XrXoyepDL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B00XYX3A98-es'
+description:
+actualPrice: 15.75 EUR
+currency: EUR
+price: 15.75
+comparePrice: 210 EUR
+inStock: true
+prodname: 'Tantra Leather Espadrille Wedge Sandals with Metallic Details - Sandalias para Mujer  Color Azul  Talla 38'
+country: 'es'
+---
+
+Está [Tantra Leather Espadrille Wedge Sandals with Metallic Details - Sandalias para Mujer  Color Azul  Talla 38](https://www.amazon.es/dp/B00XYX3A98/?tag=tolees-21) con 92.50 de descuento por 15.75 EUR (original: 210 EUR) en el siguiente enlace!
+
+[![Tantra Leather Espadrille Wedge Sandals ](https://images-eu.ssl-images-amazon.com/images/I/51XrXoyepDL._SL200_.jpg)](https://www.amazon.es/dp/B00XYX3A98/?tag=tolees-21)
+
+[Ver la oferta!!](https://www.amazon.es/dp/B00XYX3A98/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

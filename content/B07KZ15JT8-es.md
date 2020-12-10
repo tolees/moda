@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Springfield 3Yl Classic Denim Pocket Cam al 72.02 % de descuento'
+date: 
+thumbnailImage: ''
+images: [ '' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B07KZ15JT8-es'
+description:
+actualPrice: 8.39 EUR
+currency: EUR
+price: 8.39
+comparePrice: 29.99 EUR
+inStock: true
+prodname: 'Springfield 3Yl Classic Denim Pocket Camisa Casual  Hombre  Azul  Gama Azules 11   Small  Tamaño del Fabricante:S '
+country: 'es'
+---
+
+Está [Springfield 3Yl Classic Denim Pocket Camisa Casual  Hombre  Azul  Gama Azules 11   Small  Tamaño del Fabricante:S ](https://www.amazon.es/dp/B07KZ15JT8/?tag=tolees-21) con 72.02 de descuento por 8.39 EUR (original: 29.99 EUR) en el siguiente enlace!
+
+[![Springfield 3Yl Classic Denim Pocket Cam]()](https://www.amazon.es/dp/B07KZ15JT8/?tag=tolees-21)
+
+[Ver la oferta!!](https://www.amazon.es/dp/B07KZ15JT8/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

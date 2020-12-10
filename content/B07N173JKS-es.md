@@ -1,0 +1,27 @@
+---
+layout: post
+title: 'G-STAR RAW D-STAQ 5-Pocket Slim Vaqueros al 50.63 % de descuento'
+date: 2020-11-22 10:08:44
+thumbnailImage: 'https://m.media-amazon.com/images/I/413Nw7eGReL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/413Nw7eGReL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B07N173JKS-es'
+description:
+actualPrice: 59.22 EUR
+currency: EUR
+price: 59.22
+comparePrice: 119.95 EUR
+inStock: true
+prodname: 'G-STAR RAW D-STAQ 5-Pocket Slim Vaqueros  Lt Indigo Aged 8968-8436  26W / 32L para Hombre'
+country: 'es'
+---
+
+Ahora mismo tienes [G-STAR RAW D-STAQ 5-Pocket Slim Vaqueros  Lt Indigo Aged 8968-8436  26W / 32L para Hombre](https://www.amazon.es/dp/B07N173JKS/?tag=tolees-21) a 59.22 EUR (original: 119.95 EUR) (50.63 %  de descuento) en el siguiente enlace!
+
+[![G-STAR RAW D-STAQ 5-Pocket Slim Vaqueros](https://m.media-amazon.com/images/I/413Nw7eGReL._SL200_.jpg)](https://www.amazon.es/dp/B07N173JKS/?tag=tolees-21)
+
+[Visítala!!!](https://www.amazon.es/dp/B07N173JKS/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales

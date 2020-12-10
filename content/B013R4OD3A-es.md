@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Descuento del 84.09 % en Cream Carola Dress Vestido  Negro  Pitch'
+date: 
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-D31pAF1L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-D31pAF1L._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B013R4OD3A-es'
+description:
+actualPrice: 11.13 EUR
+currency: EUR
+price: 11.13
+comparePrice: 69.95 EUR
+inStock: true
+prodname: 'Cream Carola Dress Vestido  Negro  Pitch 61907   X-Small para Mujer'
+country: 'es'
+---
+
+Tienes [Cream Carola Dress Vestido  Negro  Pitch 61907   X-Small para Mujer](https://www.amazon.es/dp/B013R4OD3A/?tag=tolees-21) con un 84.09 % de descuento con precio de oferta de 11.13 EUR (original: 69.95 EUR) en el siguiente enlace!
+
+[![Cream Carola Dress Vestido  Negro  Pitch](https://images-eu.ssl-images-amazon.com/images/I/41-D31pAF1L._SL200_.jpg)](https://www.amazon.es/dp/B013R4OD3A/?tag=tolees-21)
+
+[Accede a la oferta!!](https://www.amazon.es/dp/B013R4OD3A/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

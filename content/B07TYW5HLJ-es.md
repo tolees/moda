@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Wrangler Vaqueros Slim  Azul  Rinse Wash al 43.73 % de descuento'
+date: 2020-11-16 11:25:38
+thumbnailImage: 'https://m.media-amazon.com/images/I/316ehLv7xHL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/316ehLv7xHL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B07TYW5HLJ-es'
+description:
+actualPrice: 44.99 EUR
+currency: EUR
+price: 44.99
+comparePrice: 79.95 EUR
+inStock: true
+prodname: 'Wrangler Vaqueros Slim  Azul  Rinse Wash 023   W30/L30  Talla del fabricante: 30/30  para Mujer'
+country: 'es'
+---
+
+Está [Wrangler Vaqueros Slim  Azul  Rinse Wash 023   W30/L30  Talla del fabricante: 30/30  para Mujer](https://www.amazon.es/dp/B07TYW5HLJ/?tag=tolees-21) con 43.73 de descuento por 44.99 EUR (original: 79.95 EUR) en el siguiente enlace!
+
+[![Wrangler Vaqueros Slim  Azul  Rinse Wash](https://m.media-amazon.com/images/I/316ehLv7xHL._SL200_.jpg)](https://www.amazon.es/dp/B07TYW5HLJ/?tag=tolees-21)
+
+[Ver la oferta!!](https://www.amazon.es/dp/B07TYW5HLJ/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

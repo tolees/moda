@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'New Look Arya Ditsy Vestido  Blanco  Whi al 59.02 % de descuento'
+date: 
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51qVa-iSVZL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51qVa-iSVZL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B07PSJB317-es'
+description:
+actualPrice: 12 EUR
+currency: EUR
+price: 12
+comparePrice: 29.28 EUR
+inStock: true
+prodname: 'New Look Arya Ditsy Vestido  Blanco  White Pattern 19   34  Talla del Fabricante: 6  para Mujer'
+country: 'es'
+---
+
+Está [New Look Arya Ditsy Vestido  Blanco  White Pattern 19   34  Talla del Fabricante: 6  para Mujer](https://www.amazon.es/dp/B07PSJB317/?tag=tolees-21) con 59.02 de descuento por 12 EUR (original: 29.28 EUR) en el siguiente enlace!
+
+[![New Look Arya Ditsy Vestido  Blanco  Whi](https://images-eu.ssl-images-amazon.com/images/I/51qVa-iSVZL._SL200_.jpg)](https://www.amazon.es/dp/B07PSJB317/?tag=tolees-21)
+
+[Ver la oferta!!](https://www.amazon.es/dp/B07PSJB317/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+
