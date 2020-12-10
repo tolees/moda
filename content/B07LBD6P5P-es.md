@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 47.38 % en JACK & JONES Jaclee Trunks 5 Pack Bóxer '
-date: 2020-12-09 16:58:48
+date: 2020-12-10 19:15:08
 thumbnailImage: 'https://m.media-amazon.com/images/I/41ilS3fHR0L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41ilS3fHR0L._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones JJREGAN Puffer Chaqueta  Ne al 34.70 % de descuento'
-date: 2020-12-09 13:29:09
+date: 2020-12-10 20:02:55
 thumbnailImage: 'https://m.media-amazon.com/images/I/31tIoofNVjL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31tIoofNVjL._SL200_.jpg' ]
 comments: true
