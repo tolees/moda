@@ -17,10 +17,12 @@ inStock: true
 prodname: 'Levi s Trucker Jacket  Chaqueta Vaquera para Hombre  Azul  The Shell 0136   Medium'
 ---
 
-Ahora mismo tienes [Levi s Trucker Jacket  Chaqueta Vaquera para Hombre  Azul  The Shell 0136   Medium](https://www.amazon.es/dp/B01MZZIQWP/?tag=tolees-21) a 69.9 EUR (original: 110 EUR) (36.45 %  de descuento) en el siguiente enlace!
+Está [Levi s Trucker Jacket  Chaqueta Vaquera para Hombre  Azul  The Shell 0136   Medium](https://www.amazon.es/dp/B01MZZIQWP/?tag=tolees-21) con 36.45 de descuento por 69.9 EUR (original: 110 EUR) en el siguiente enlace!
 
 [![Levi s Trucker Jacket  Chaqueta Vaquera ](https://images-eu.ssl-images-amazon.com/images/I/51RZNtmMhHL._SL200_.jpg)](https://www.amazon.es/dp/B01MZZIQWP/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B01MZZIQWP/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B01MZZIQWP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

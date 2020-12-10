@@ -17,12 +17,10 @@ inStock: true
 prodname: 'SELECTED FEMME Sftilla LS Top Ex  Blusa Mujer  Marfil  Pink Tint Pink Tint   40'
 ---
 
-Está [SELECTED FEMME Sftilla LS Top Ex  Blusa Mujer  Marfil  Pink Tint Pink Tint   40](https://www.amazon.es/dp/B071KBZCB1/?tag=tolees-21) con 85.01 de descuento por 8.99 EUR (original: 59.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [SELECTED FEMME Sftilla LS Top Ex  Blusa Mujer  Marfil  Pink Tint Pink Tint   40](https://www.amazon.es/dp/B071KBZCB1/?tag=tolees-21) a 8.99 EUR (original: 59.99 EUR) (85.01 %  de descuento) en el siguiente enlace!
 
 [![SELECTED FEMME Sftilla LS Top Ex  Blusa ](https://images-eu.ssl-images-amazon.com/images/I/41mxwlQMOvL._SL200_.jpg)](https://www.amazon.es/dp/B071KBZCB1/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B071KBZCB1/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B071KBZCB1/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-
