@@ -17,10 +17,12 @@ inStock: true
 prodname: 'Burton Retro Mountain Organic Crew Sudadera  Hombre  Azul  Mood Indigo   XS'
 ---
 
-Ahora mismo tienes [Burton Retro Mountain Organic Crew Sudadera  Hombre  Azul  Mood Indigo   XS](https://www.amazon.es/dp/B07FJCBDVB/?tag=tolees-21) a 25.75 EUR (original: 70 EUR) (63.21 %  de descuento) en el siguiente enlace!
+Está [Burton Retro Mountain Organic Crew Sudadera  Hombre  Azul  Mood Indigo   XS](https://www.amazon.es/dp/B07FJCBDVB/?tag=tolees-21) con 63.21 de descuento por 25.75 EUR (original: 70 EUR) en el siguiente enlace!
 
 [![Burton Retro Mountain Organic Crew Sudad](https://images-eu.ssl-images-amazon.com/images/I/31abTooDlfL._SL200_.jpg)](https://www.amazon.es/dp/B07FJCBDVB/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07FJCBDVB/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07FJCBDVB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+
