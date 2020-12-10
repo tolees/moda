@@ -17,10 +17,12 @@ inStock: true
 prodname: 'Adidas CORE18 SW Top Sudadera  Hombre  Rojo  Rojo/Blanco   XS'
 ---
 
-Ahora mismo tienes [Adidas CORE18 SW Top Sudadera  Hombre  Rojo  Rojo/Blanco   XS](https://www.amazon.es/dp/B076HQ4CLV/?tag=tolees-21) a 24.55 EUR (original: 39.95 EUR) (38.55 %  de descuento) en el siguiente enlace!
+Está [Adidas CORE18 SW Top Sudadera  Hombre  Rojo  Rojo/Blanco   XS](https://www.amazon.es/dp/B076HQ4CLV/?tag=tolees-21) con 38.55 de descuento por 24.55 EUR (original: 39.95 EUR) en el siguiente enlace!
 
 [![Adidas CORE18 SW Top Sudadera  Hombre  R](https://m.media-amazon.com/images/I/41NkKbsR8hL._SL200_.jpg)](https://www.amazon.es/dp/B076HQ4CLV/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B076HQ4CLV/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B076HQ4CLV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

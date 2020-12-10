@@ -17,10 +17,12 @@ inStock: true
 prodname: 'Armani Exchange Chest Stripe Camisa   White/H.Risk Red/Bla 5179   Small para Hombre'
 ---
 
-Ahora mismo tienes [Armani Exchange Chest Stripe Camisa   White/H.Risk Red/Bla 5179   Small para Hombre](https://www.amazon.es/dp/B07FKW76KF/?tag=tolees-21) a 52.75 EUR (original: 95 EUR) (44.47 %  de descuento) en el siguiente enlace!
+Está [Armani Exchange Chest Stripe Camisa   White/H.Risk Red/Bla 5179   Small para Hombre](https://www.amazon.es/dp/B07FKW76KF/?tag=tolees-21) con 44.47 de descuento por 52.75 EUR (original: 95 EUR) en el siguiente enlace!
 
 [![Armani Exchange Chest Stripe Camisa   Wh](https://images-eu.ssl-images-amazon.com/images/I/41D5i78JsWL._SL200_.jpg)](https://www.amazon.es/dp/B07FKW76KF/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07FKW76KF/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07FKW76KF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

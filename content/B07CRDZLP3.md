@@ -17,10 +17,12 @@ inStock: true
 prodname: 'Pepe Jeans West Sir  Camiseta para Hombre   Steel Blue 563   Medium'
 ---
 
-Ahora mismo tienes [Pepe Jeans West Sir  Camiseta para Hombre   Steel Blue 563   Medium](https://www.amazon.es/dp/B07CRDZLP3/?tag=tolees-21) a 17.99 EUR (original: 29.9 EUR) (39.83 %  de descuento) en el siguiente enlace!
+Está [Pepe Jeans West Sir  Camiseta para Hombre   Steel Blue 563   Medium](https://www.amazon.es/dp/B07CRDZLP3/?tag=tolees-21) con 39.83 de descuento por 17.99 EUR (original: 29.9 EUR) en el siguiente enlace!
 
 [![Pepe Jeans West Sir  Camiseta para Hombr](https://images-eu.ssl-images-amazon.com/images/I/31d1FeulqeL._SL200_.jpg)](https://www.amazon.es/dp/B07CRDZLP3/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07CRDZLP3/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07CRDZLP3/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

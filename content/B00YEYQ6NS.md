@@ -17,10 +17,12 @@ inStock: true
 prodname: 'Columbia Midweight Stretch Pantalón  Mujer  Negro  Black   M'
 ---
 
-Ahora mismo tienes [Columbia Midweight Stretch Pantalón  Mujer  Negro  Black   M](https://www.amazon.es/dp/B00YEYQ6NS/?tag=tolees-21) a 31.95 EUR (original: 54.99 EUR) (41.90 %  de descuento) en el siguiente enlace!
+Está [Columbia Midweight Stretch Pantalón  Mujer  Negro  Black   M](https://www.amazon.es/dp/B00YEYQ6NS/?tag=tolees-21) con 41.90 de descuento por 31.95 EUR (original: 54.99 EUR) en el siguiente enlace!
 
 [![Columbia Midweight Stretch Pantalón  Muj](https://images-eu.ssl-images-amazon.com/images/I/31tzFDiyLWL._SL200_.jpg)](https://www.amazon.es/dp/B00YEYQ6NS/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00YEYQ6NS/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00YEYQ6NS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+
