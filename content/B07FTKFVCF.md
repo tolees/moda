@@ -17,10 +17,12 @@ inStock: true
 prodname: 'Lee Logo tee  Camiseta para Hombre  Marfil  Sharp Grey Mele 03  XX-Large'
 ---
 
-Ahora mismo tienes [Lee Logo tee  Camiseta para Hombre  Marfil  Sharp Grey Mele 03  XX-Large](https://www.amazon.es/dp/B07FTKFVCF/?tag=tolees-21) a 12.2 EUR (original: 25 EUR) (51.20 %  de descuento) en el siguiente enlace!
+Está [Lee Logo tee  Camiseta para Hombre  Marfil  Sharp Grey Mele 03  XX-Large](https://www.amazon.es/dp/B07FTKFVCF/?tag=tolees-21) con 51.20 de descuento por 12.2 EUR (original: 25 EUR) en el siguiente enlace!
 
 [![Lee Logo tee  Camiseta para Hombre  Marf](https://images-eu.ssl-images-amazon.com/images/I/41t2HKeuAJL._SL200_.jpg)](https://www.amazon.es/dp/B07FTKFVCF/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07FTKFVCF/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07FTKFVCF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

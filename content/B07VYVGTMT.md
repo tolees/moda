@@ -17,10 +17,12 @@ inStock: true
 prodname: 'El Naturalista Wakataua  Sandalias con Punta Abierta para Mujer  Amarillo  Curry Curry   36 EU'
 ---
 
-Ahora mismo tienes [El Naturalista Wakataua  Sandalias con Punta Abierta para Mujer  Amarillo  Curry Curry   36 EU](https://www.amazon.es/dp/B07VYVGTMT/?tag=tolees-21) a 25.61 EUR (original: 95.0 EUR) (73.04 %  de descuento) en el siguiente enlace!
+Está [El Naturalista Wakataua  Sandalias con Punta Abierta para Mujer  Amarillo  Curry Curry   36 EU](https://www.amazon.es/dp/B07VYVGTMT/?tag=tolees-21) con 73.04 de descuento por 25.61 EUR (original: 95.0 EUR) en el siguiente enlace!
 
 [![El Naturalista Wakataua  Sandalias con P](https://m.media-amazon.com/images/I/416SCl-HC5L._SL200_.jpg)](https://www.amazon.es/dp/B07VYVGTMT/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07VYVGTMT/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07VYVGTMT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+
