@@ -17,10 +17,12 @@ inStock: true
 prodname: 'Double Agent Short Skirt with Opening ON Front  Falda para Mujer  820 Gris Vigore Oscuro  XS'
 ---
 
-Ahora mismo tienes [Double Agent Short Skirt with Opening ON Front  Falda para Mujer  820 Gris Vigore Oscuro  XS](https://www.amazon.es/dp/B01LY6R5OG/?tag=tolees-21) a 8.35 EUR (original: 25 EUR) (66.60 %  de descuento) en el siguiente enlace!
+Está [Double Agent Short Skirt with Opening ON Front  Falda para Mujer  820 Gris Vigore Oscuro  XS](https://www.amazon.es/dp/B01LY6R5OG/?tag=tolees-21) con 66.60 de descuento por 8.35 EUR (original: 25 EUR) en el siguiente enlace!
 
 [![Double Agent Short Skirt with Opening ON](https://images-eu.ssl-images-amazon.com/images/I/41JUCWAPrHL._SL200_.jpg)](https://www.amazon.es/dp/B01LY6R5OG/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B01LY6R5OG/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B01LY6R5OG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+
