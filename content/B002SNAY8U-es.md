@@ -18,10 +18,12 @@ prodname: 'Clarks Nature Three - Zapatos con cordones Derby para hombre  Black L
 country: 'es'
 ---
 
-Ahora mismo tienes [Clarks Nature Three - Zapatos con cordones Derby para hombre  Black Leather  45](https://www.amazon.es/dp/B002SNAY8U/?tag=tolees-21) a 79.56 EUR (original: 130.0 EUR) (38.80 %  de descuento) en el siguiente enlace!
+Está [Clarks Nature Three - Zapatos con cordones Derby para hombre  Black Leather  45](https://www.amazon.es/dp/B002SNAY8U/?tag=tolees-21) con 38.80 de descuento por 79.56 EUR (original: 130.0 EUR) en el siguiente enlace!
 
 [![Clarks Nature Three - Zapatos con cordon](https://m.media-amazon.com/images/I/41d24vGz2mL._SL200_.jpg)](https://www.amazon.es/dp/B002SNAY8U/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B002SNAY8U/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B002SNAY8U/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

@@ -18,10 +18,12 @@ prodname: 'Christian Dior VERYDIOR1N T7 VV6  Gafas de Sol para Mujer  Azul  Blue
 country: 'es'
 ---
 
-Ahora mismo tienes [Christian Dior VERYDIOR1N T7 VV6  Gafas de Sol para Mujer  Azul  Blueehvna Grn/Blue Grey Speckled   51](https://www.amazon.es/dp/B01GWFYOHG/?tag=tolees-21) a 91.07 EUR (original: 341 EUR) (73.29 %  de descuento) en el siguiente enlace!
+Está [Christian Dior VERYDIOR1N T7 VV6  Gafas de Sol para Mujer  Azul  Blueehvna Grn/Blue Grey Speckled   51](https://www.amazon.es/dp/B01GWFYOHG/?tag=tolees-21) con 73.29 de descuento por 91.07 EUR (original: 341 EUR) en el siguiente enlace!
 
 [![Christian Dior VERYDIOR1N T7 VV6  Gafas ](https://images-eu.ssl-images-amazon.com/images/I/41AQXvU2yAL._SL200_.jpg)](https://www.amazon.es/dp/B01GWFYOHG/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B01GWFYOHG/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B01GWFYOHG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

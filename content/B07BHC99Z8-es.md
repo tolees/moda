@@ -18,10 +18,12 @@ prodname: 'COOLWAY CHERBLU  Zapatos de Cordones Oxford para Mujer  Negro  Nvbk 0
 country: 'es'
 ---
 
-Ahora mismo tienes [COOLWAY CHERBLU  Zapatos de Cordones Oxford para Mujer  Negro  Nvbk 001   36 EU](https://www.amazon.es/dp/B07BHC99Z8/?tag=tolees-21) a 25.95 EUR (original: 39.99 EUR) (35.11 %  de descuento) en el siguiente enlace!
+Está [COOLWAY CHERBLU  Zapatos de Cordones Oxford para Mujer  Negro  Nvbk 001   36 EU](https://www.amazon.es/dp/B07BHC99Z8/?tag=tolees-21) con 35.11 de descuento por 25.95 EUR (original: 39.99 EUR) en el siguiente enlace!
 
 [![COOLWAY CHERBLU  Zapatos de Cordones Oxf](https://images-eu.ssl-images-amazon.com/images/I/31Xg3fWQCAL._SL200_.jpg)](https://www.amazon.es/dp/B07BHC99Z8/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07BHC99Z8/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07BHC99Z8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

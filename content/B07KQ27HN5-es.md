@@ -18,12 +18,10 @@ prodname: 'Helly Hansen Driftline Polo Camiseta tipo polo de manga corta con tej
 country: 'es'
 ---
 
-Está [Helly Hansen Driftline Polo Camiseta tipo polo de manga corta con tejido de secado rápido y logo HH en el pecho](https://www.amazon.es/dp/B07KQ27HN5/?tag=tolees-21) con 26.70 de descuento por 43.98 EUR (original: 60.0 EUR) en el siguiente enlace!
+Ahora mismo tienes [Helly Hansen Driftline Polo Camiseta tipo polo de manga corta con tejido de secado rápido y logo HH en el pecho](https://www.amazon.es/dp/B07KQ27HN5/?tag=tolees-21) a 43.98 EUR (original: 60.0 EUR) (26.70 %  de descuento) en el siguiente enlace!
 
 [![Helly Hansen Driftline Polo Camiseta tip](https://m.media-amazon.com/images/I/31gn4Hj5EwL._SL200_.jpg)](https://www.amazon.es/dp/B07KQ27HN5/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07KQ27HN5/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07KQ27HN5/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

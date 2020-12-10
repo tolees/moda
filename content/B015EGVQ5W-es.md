@@ -18,10 +18,12 @@ prodname: 'Diesel Sonnenbrille DL0161 5433J Gafas de sol  Multicolor  Mehrfarbig
 country: 'es'
 ---
 
-Ahora mismo tienes [Diesel Sonnenbrille DL0161 5433J Gafas de sol  Multicolor  Mehrfarbig   54 Unisex Adulto](https://www.amazon.es/dp/B015EGVQ5W/?tag=tolees-21) a 56.99 EUR (original: 145 EUR) (60.70 %  de descuento) en el siguiente enlace!
+Está [Diesel Sonnenbrille DL0161 5433J Gafas de sol  Multicolor  Mehrfarbig   54 Unisex Adulto](https://www.amazon.es/dp/B015EGVQ5W/?tag=tolees-21) con 60.70 de descuento por 56.99 EUR (original: 145 EUR) en el siguiente enlace!
 
 [![Diesel Sonnenbrille DL0161 5433J Gafas d](https://images-eu.ssl-images-amazon.com/images/I/31pOT2gEdRL._SL200_.jpg)](https://www.amazon.es/dp/B015EGVQ5W/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B015EGVQ5W/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B015EGVQ5W/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

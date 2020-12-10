@@ -18,10 +18,12 @@ prodname: 'Cortefiel Gobi Chambray Print T-BD Camisa Casual  Hombre  Azul  Gama 
 country: 'es'
 ---
 
-Ahora mismo tienes [Cortefiel Gobi Chambray Print T-BD Camisa Casual  Hombre  Azul  Gama Azules 13   X-Large  Tamaño del Fabricante:XL ](https://www.amazon.es/dp/B07KZ5LFK6/?tag=tolees-21) a 17.78 EUR (original: 49.99 EUR) (64.43 %  de descuento) en el siguiente enlace!
+Está [Cortefiel Gobi Chambray Print T-BD Camisa Casual  Hombre  Azul  Gama Azules 13   X-Large  Tamaño del Fabricante:XL ](https://www.amazon.es/dp/B07KZ5LFK6/?tag=tolees-21) con 64.43 de descuento por 17.78 EUR (original: 49.99 EUR) en el siguiente enlace!
 
 [![Cortefiel Gobi Chambray Print T-BD Camis](https://images-eu.ssl-images-amazon.com/images/I/517DVEnMVaL._SL200_.jpg)](https://www.amazon.es/dp/B07KZ5LFK6/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07KZ5LFK6/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07KZ5LFK6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+
