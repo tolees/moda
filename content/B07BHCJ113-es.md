@@ -18,10 +18,12 @@ prodname: 'COOLWAY Jane  Botines para Mujer  Negro  Blk 000   38 EU'
 country: 'es'
 ---
 
-Ahora mismo tienes [COOLWAY Jane  Botines para Mujer  Negro  Blk 000   38 EU](https://www.amazon.es/dp/B07BHCJ113/?tag=tolees-21) a 23.08 EUR (original: 49.99 EUR) (53.83 %  de descuento) en el siguiente enlace!
+Está [COOLWAY Jane  Botines para Mujer  Negro  Blk 000   38 EU](https://www.amazon.es/dp/B07BHCJ113/?tag=tolees-21) con 53.83 de descuento por 23.08 EUR (original: 49.99 EUR) en el siguiente enlace!
 
 [![COOLWAY Jane  Botines para Mujer  Negro ](https://images-eu.ssl-images-amazon.com/images/I/41mhgbX-Y2L._SL200_.jpg)](https://www.amazon.es/dp/B07BHCJ113/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07BHCJ113/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07BHCJ113/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

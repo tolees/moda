@@ -18,12 +18,10 @@ prodname: 'Esprit 038ee1k039  Camisa Manga Larga Mujer  Blanco  Off White 110   
 country: 'es'
 ---
 
-Está [Esprit 038ee1k039  Camisa Manga Larga Mujer  Blanco  Off White 110   Medium](https://www.amazon.es/dp/B0784NFLV5/?tag=tolees-21) con 46.18 de descuento por 19.37 EUR (original: 35.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Esprit 038ee1k039  Camisa Manga Larga Mujer  Blanco  Off White 110   Medium](https://www.amazon.es/dp/B0784NFLV5/?tag=tolees-21) a 19.37 EUR (original: 35.99 EUR) (46.18 %  de descuento) en el siguiente enlace!
 
 [![Esprit 038ee1k039  Camisa Manga Larga Mu](https://images-eu.ssl-images-amazon.com/images/I/41JIFeZbjPL._SL200_.jpg)](https://www.amazon.es/dp/B0784NFLV5/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B0784NFLV5/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B0784NFLV5/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

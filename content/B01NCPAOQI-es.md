@@ -18,12 +18,10 @@ prodname: 'Columbia Della Fall Mid Jacket Chaqueta Larga  Mujer  Azul  India Ink
 country: 'es'
 ---
 
-Está [Columbia Della Fall Mid Jacket Chaqueta Larga  Mujer  Azul  India Ink   S](https://www.amazon.es/dp/B01NCPAOQI/?tag=tolees-21) con 55.29 de descuento por 111.76 EUR (original: 249.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Columbia Della Fall Mid Jacket Chaqueta Larga  Mujer  Azul  India Ink   S](https://www.amazon.es/dp/B01NCPAOQI/?tag=tolees-21) a 111.76 EUR (original: 249.99 EUR) (55.29 %  de descuento) en el siguiente enlace!
 
 [![Columbia Della Fall Mid Jacket Chaqueta ]()](https://www.amazon.es/dp/B01NCPAOQI/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B01NCPAOQI/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B01NCPAOQI/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

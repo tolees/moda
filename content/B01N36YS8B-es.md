@@ -18,10 +18,12 @@ prodname: 'edc by Esprit 037cc1f020  Blusa Mujer  Azul  Light Blue   38  Talla d
 country: 'es'
 ---
 
-Ahora mismo tienes [edc by Esprit 037cc1f020  Blusa Mujer  Azul  Light Blue   38  Talla del Fabricante: Medium ](https://www.amazon.es/dp/B01N36YS8B/?tag=tolees-21) a 7.76 EUR (original: 39.99 EUR) (80.60 %  de descuento) en el siguiente enlace!
+Está [edc by Esprit 037cc1f020  Blusa Mujer  Azul  Light Blue   38  Talla del Fabricante: Medium ](https://www.amazon.es/dp/B01N36YS8B/?tag=tolees-21) con 80.60 de descuento por 7.76 EUR (original: 39.99 EUR) en el siguiente enlace!
 
 [![edc by Esprit 037cc1f020  Blusa Mujer  A](https://images-eu.ssl-images-amazon.com/images/I/41tDsfgwVBL._SL200_.jpg)](https://www.amazon.es/dp/B01N36YS8B/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B01N36YS8B/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B01N36YS8B/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

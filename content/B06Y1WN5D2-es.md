@@ -18,12 +18,10 @@ prodname: 'Geox D Gendry A  Zapatillas para Mujer  Negro  Black   36 EU'
 country: 'es'
 ---
 
-Está [Geox D Gendry A  Zapatillas para Mujer  Negro  Black   36 EU](https://www.amazon.es/dp/B06Y1WN5D2/?tag=tolees-21) con 75.71 de descuento por 26.69 EUR (original: 109.9 EUR) en el siguiente enlace!
+Ahora mismo tienes [Geox D Gendry A  Zapatillas para Mujer  Negro  Black   36 EU](https://www.amazon.es/dp/B06Y1WN5D2/?tag=tolees-21) a 26.69 EUR (original: 109.9 EUR) (75.71 %  de descuento) en el siguiente enlace!
 
 [![Geox D Gendry A  Zapatillas para Mujer  ](https://images-eu.ssl-images-amazon.com/images/I/41r40kA0Y6L._SL200_.jpg)](https://www.amazon.es/dp/B06Y1WN5D2/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B06Y1WN5D2/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B06Y1WN5D2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

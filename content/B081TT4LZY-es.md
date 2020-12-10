@@ -18,10 +18,12 @@ prodname: 'adidas Mono Jersey Pol T-Shirt  Hombre  Night Marine/White  S'
 country: 'es'
 ---
 
-Ahora mismo tienes [adidas Mono Jersey Pol T-Shirt  Hombre  Night Marine/White  S](https://www.amazon.es/dp/B081TT4LZY/?tag=tolees-21) a 15.01 EUR (original: 32.95 EUR) (54.45 %  de descuento) en el siguiente enlace!
+Está [adidas Mono Jersey Pol T-Shirt  Hombre  Night Marine/White  S](https://www.amazon.es/dp/B081TT4LZY/?tag=tolees-21) con 54.45 de descuento por 15.01 EUR (original: 32.95 EUR) en el siguiente enlace!
 
 [![adidas Mono Jersey Pol T-Shirt  Hombre  ](https://m.media-amazon.com/images/I/41guVsb4W-L._SL200_.jpg)](https://www.amazon.es/dp/B081TT4LZY/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B081TT4LZY/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B081TT4LZY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

@@ -18,10 +18,12 @@ prodname: 'Columbia Powder Lite Chaqueta Resistente al Agua  Poliéster  Niños 
 country: 'es'
 ---
 
-Ahora mismo tienes [Columbia Powder Lite Chaqueta Resistente al Agua  Poliéster  Niños  Azul  Collegiate Navy   XXS](https://www.amazon.es/dp/B07DZ8FW7L/?tag=tolees-21) a 40.95 EUR (original: 69.99 EUR) (41.49 %  de descuento) en el siguiente enlace!
+Está [Columbia Powder Lite Chaqueta Resistente al Agua  Poliéster  Niños  Azul  Collegiate Navy   XXS](https://www.amazon.es/dp/B07DZ8FW7L/?tag=tolees-21) con 41.49 de descuento por 40.95 EUR (original: 69.99 EUR) en el siguiente enlace!
 
 [![Columbia Powder Lite Chaqueta Resistente](https://images-eu.ssl-images-amazon.com/images/I/41qtHEja9LL._SL200_.jpg)](https://www.amazon.es/dp/B07DZ8FW7L/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07DZ8FW7L/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07DZ8FW7L/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

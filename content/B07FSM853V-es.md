@@ -18,10 +18,12 @@ prodname: 'Lee Relaxed Western Blusa  Marfil  Blueprint LH   38  Talla del Fabri
 country: 'es'
 ---
 
-Ahora mismo tienes [Lee Relaxed Western Blusa  Marfil  Blueprint LH   38  Talla del Fabricante: X-Small  para Mujer](https://www.amazon.es/dp/B07FSM853V/?tag=tolees-21) a 18.86 EUR (original: 59.95 EUR) (68.54 %  de descuento) en el siguiente enlace!
+Está [Lee Relaxed Western Blusa  Marfil  Blueprint LH   38  Talla del Fabricante: X-Small  para Mujer](https://www.amazon.es/dp/B07FSM853V/?tag=tolees-21) con 68.54 de descuento por 18.86 EUR (original: 59.95 EUR) en el siguiente enlace!
 
 [![Lee Relaxed Western Blusa  Marfil  Bluep](https://images-eu.ssl-images-amazon.com/images/I/51AYxhBMyyL._SL200_.jpg)](https://www.amazon.es/dp/B07FSM853V/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07FSM853V/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07FSM853V/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+
