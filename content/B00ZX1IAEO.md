@@ -17,12 +17,10 @@ inStock: true
 prodname: 'Joma 100049.100 - Camiseta de Baloncesto  Color Negro  Talla 4XS-3XS'
 ---
 
-Está [Joma 100049.100 - Camiseta de Baloncesto  Color Negro  Talla 4XS-3XS](https://www.amazon.es/dp/B00ZX1IAEO/?tag=tolees-21) con 48.57 de descuento por 8.64 EUR (original: 16.8 EUR) en el siguiente enlace!
+Ahora mismo tienes [Joma 100049.100 - Camiseta de Baloncesto  Color Negro  Talla 4XS-3XS](https://www.amazon.es/dp/B00ZX1IAEO/?tag=tolees-21) a 8.64 EUR (original: 16.8 EUR) (48.57 %  de descuento) en el siguiente enlace!
 
 [![Joma 100049.100 - Camiseta de Baloncesto](https://images-eu.ssl-images-amazon.com/images/I/41ctonUnCAL._SL200_.jpg)](https://www.amazon.es/dp/B00ZX1IAEO/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B00ZX1IAEO/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B00ZX1IAEO/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-
