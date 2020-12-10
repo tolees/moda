@@ -17,10 +17,12 @@ inStock: true
 prodname: 'The North Face Y Po HD Sudadera Juvenil Drew Peak  Unisex niños  Cosmic Blue/High Rise Grey  M'
 ---
 
-Ahora mismo tienes [The North Face Y Po HD Sudadera Juvenil Drew Peak  Unisex niños  Cosmic Blue/High Rise Grey  M](https://www.amazon.es/dp/B07BB5JVSW/?tag=tolees-21) a 25 EUR (original: 50 EUR) (50.00 %  de descuento) en el siguiente enlace!
+Está [The North Face Y Po HD Sudadera Juvenil Drew Peak  Unisex niños  Cosmic Blue/High Rise Grey  M](https://www.amazon.es/dp/B07BB5JVSW/?tag=tolees-21) con 50.00 de descuento por 25 EUR (original: 50 EUR) en el siguiente enlace!
 
 [![The North Face Y Po HD Sudadera Juvenil ](https://images-eu.ssl-images-amazon.com/images/I/311yLCmV2HL._SL200_.jpg)](https://www.amazon.es/dp/B07BB5JVSW/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07BB5JVSW/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07BB5JVSW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+
