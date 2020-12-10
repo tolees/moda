@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lee Button Down  Camisa para Hombre  Azu al 65.09 % de descuento'
+title: 'Descuento del 65.09 % en Lee Button Down  Camisa para Hombre  Azu'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41W6L6krixL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41W6L6krixL._SL200_.jpg' ]
@@ -17,11 +17,11 @@ inStock: true
 prodname: 'Lee Button Down  Camisa para Hombre  Azul  Deep Indigo Jqps   X-Large'
 ---
 
-Está [Lee Button Down  Camisa para Hombre  Azul  Deep Indigo Jqps   X-Large](https://www.amazon.es/dp/B01N0NQVDZ/?tag=tolees-21) con 65.09 de descuento por 20.93 EUR (original: 59.95 EUR) en el siguiente enlace!
+Tienes [Lee Button Down  Camisa para Hombre  Azul  Deep Indigo Jqps   X-Large](https://www.amazon.es/dp/B01N0NQVDZ/?tag=tolees-21) con un 65.09 % de descuento con precio de oferta de 20.93 EUR (original: 59.95 EUR) en el siguiente enlace!
 
 [![Lee Button Down  Camisa para Hombre  Azu](https://images-eu.ssl-images-amazon.com/images/I/41W6L6krixL._SL200_.jpg)](https://www.amazon.es/dp/B01N0NQVDZ/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B01N0NQVDZ/?tag=tolees-21)
+[Accede a la oferta!!](https://www.amazon.es/dp/B01N0NQVDZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

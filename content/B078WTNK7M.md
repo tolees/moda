@@ -17,10 +17,12 @@ inStock: true
 prodname: 'Cortefiel Vestido Manga Larga   Varios 3   Medium para Mujer'
 ---
 
-Ahora mismo tienes [Cortefiel Vestido Manga Larga   Varios 3   Medium para Mujer](https://www.amazon.es/dp/B078WTNK7M/?tag=tolees-21) a 45.64 EUR (original: 99.99 EUR) (54.36 %  de descuento) en el siguiente enlace!
+Está [Cortefiel Vestido Manga Larga   Varios 3   Medium para Mujer](https://www.amazon.es/dp/B078WTNK7M/?tag=tolees-21) con 54.36 de descuento por 45.64 EUR (original: 99.99 EUR) en el siguiente enlace!
 
 [![Cortefiel Vestido Manga Larga   Varios 3](https://images-eu.ssl-images-amazon.com/images/I/41q6pw%2BgefL._SL200_.jpg)](https://www.amazon.es/dp/B078WTNK7M/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B078WTNK7M/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B078WTNK7M/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

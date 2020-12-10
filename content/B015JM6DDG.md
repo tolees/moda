@@ -17,10 +17,12 @@ inStock: true
 prodname: 'Hackett London Pantalón Burdeos ES 31'
 ---
 
-Ahora mismo tienes [Hackett London Pantalón Burdeos ES 31](https://www.amazon.es/dp/B015JM6DDG/?tag=tolees-21) a 55.17 EUR (original: 180 EUR) (69.35 %  de descuento) en el siguiente enlace!
+Está [Hackett London Pantalón Burdeos ES 31](https://www.amazon.es/dp/B015JM6DDG/?tag=tolees-21) con 69.35 de descuento por 55.17 EUR (original: 180 EUR) en el siguiente enlace!
 
 [![Hackett London Pantalón Burdeos ES 31](https://images-eu.ssl-images-amazon.com/images/I/41yUVlPOVKL._SL200_.jpg)](https://www.amazon.es/dp/B015JM6DDG/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B015JM6DDG/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B015JM6DDG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+
