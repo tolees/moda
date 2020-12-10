@@ -22,6 +22,9 @@ Tienes [Pepe Jeans Spike Vaqueros Straight  Azul  Medium Used Denim Bb6   W32/L3
 
 [![Pepe Jeans Spike Vaqueros Straight  Azul](https://images-eu.ssl-images-amazon.com/images/I/41N5q-p45xL._SL200_.jpg)](https://www.amazon.es/dp/B07MYHSQ2T/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07MYHSQ2T/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

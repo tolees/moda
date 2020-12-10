@@ -22,6 +22,9 @@ Está [Omiera Adroit Facial  Cuerpo  Bikini y Piernas Crema Inhibidora de Crecim
 
 [![Omiera Adroit Facial  Cuerpo  Bikini y P](https://images-eu.ssl-images-amazon.com/images/I/315l7BL2jfL._SL200_.jpg)](https://www.amazon.es/dp/B00B7M9PJM/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00B7M9PJM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Lee Scarlett Jeans Vaqueros  Grau  Chrome Wash LK   W25/ L33 para Mujer](
 
 [![Lee Scarlett Jeans Vaqueros  Grau  Chrom](https://images-eu.ssl-images-amazon.com/images/I/41MDAB7SKzL._SL200_.jpg)](https://www.amazon.es/dp/B00KFH562U/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00KFH562U/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Columbia Silver Ridge II Cargo Short Pantalón Corto  Nailon  Hombre  Neg
 
 [![Columbia Silver Ridge II Cargo Short Pan](https://images-eu.ssl-images-amazon.com/images/I/31EED%2BaYSPL._SL200_.jpg)](https://www.amazon.es/dp/B07L2S4BDG/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07L2S4BDG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

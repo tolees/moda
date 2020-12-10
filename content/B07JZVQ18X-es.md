@@ -22,6 +22,9 @@ Está [JACK & JONES Jorgiant tee SS Crew Neck Camiseta  Azul  Total Eclipse Fit:
 
 [![JACK & JONES Jorgiant tee SS Crew Neck C](https://images-eu.ssl-images-amazon.com/images/I/413Cu%2BdtjYL._SL200_.jpg)](https://www.amazon.es/dp/B07JZVQ18X/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07JZVQ18X/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

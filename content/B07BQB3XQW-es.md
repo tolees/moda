@@ -22,6 +22,9 @@ Está [Dr. Martens Calamuslos1p  Zapatos de Seguridad Unisex Adulto  Rojo  Indus
 
 [![Dr. Martens Calamuslos1p  Zapatos de Seg](https://images-eu.ssl-images-amazon.com/images/I/41ULtfMyOGL._SL200_.jpg)](https://www.amazon.es/dp/B07BQB3XQW/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07BQB3XQW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [REPLAY M4953p.000.71670 Camisa   White/Lt Blue Microflowers 10   Small pa
 
 [![REPLAY M4953p.000.71670 Camisa   White/L](https://images-eu.ssl-images-amazon.com/images/I/41it01dQrDL._SL200_.jpg)](https://www.amazon.es/dp/B07KJRWH9L/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KJRWH9L/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

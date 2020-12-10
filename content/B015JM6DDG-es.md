@@ -22,6 +22,9 @@ Tienes [Hackett London Pantalón Burdeos ES 31](https://www.amazon.es/dp/B015JM6
 
 [![Hackett London Pantalón Burdeos ES 31](https://images-eu.ssl-images-amazon.com/images/I/41yUVlPOVKL._SL200_.jpg)](https://www.amazon.es/dp/B015JM6DDG/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B015JM6DDG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

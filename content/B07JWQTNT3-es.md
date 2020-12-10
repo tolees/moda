@@ -22,6 +22,9 @@ Está [IRIS & LILLY Sh190858 bañadores  Negro  Nero   44  Talla del fabricante:
 
 [![IRIS & LILLY Sh190858 bañadores  Negro  ](https://images-eu.ssl-images-amazon.com/images/I/41QF3zs0SqL._SL200_.jpg)](https://www.amazon.es/dp/B07JWQTNT3/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07JWQTNT3/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

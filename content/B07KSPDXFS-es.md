@@ -22,6 +22,9 @@ Está [Columbia Triple Canyon Pantalón Corto de Senderismo  Poliéster  Hombre 
 
 [![Columbia Triple Canyon Pantalón Corto de](https://images-eu.ssl-images-amazon.com/images/I/41Ma0mht%2BxL._SL200_.jpg)](https://www.amazon.es/dp/B07KSPDXFS/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KSPDXFS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Nike Wmns Ebernon Mid Prem  Zapatos de Baloncesto para Mujer  Blanco Whit
 
 [![Nike Wmns Ebernon Mid Prem  Zapatos de B](https://images-eu.ssl-images-amazon.com/images/I/31d1lnJIdeL._SL200_.jpg)](https://www.amazon.es/dp/B07HYYLKGJ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07HYYLKGJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

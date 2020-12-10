@@ -22,6 +22,9 @@ Está [Trucco - Jersey para mujer  color marron claro  talla M](https://www.amaz
 
 [![Trucco - Jersey para mujer  color marron](https://images-eu.ssl-images-amazon.com/images/I/41tWv0dxO9L._SL200_.jpg)](https://www.amazon.es/dp/B073SBND3V/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B073SBND3V/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [hummel Stay Authentic - Camiseta de fútbol para Mujer  poliéster  Naran
 
 [![hummel Stay Authentic - Camiseta de fútb](https://images-eu.ssl-images-amazon.com/images/I/41gUZYuL8uL._SL200_.jpg)](https://www.amazon.es/dp/B00I0W4NS0/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00I0W4NS0/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

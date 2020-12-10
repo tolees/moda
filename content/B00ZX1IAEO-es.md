@@ -22,6 +22,9 @@ Está [Joma 100049.100 - Camiseta de Baloncesto  Color Negro  Talla 4XS-3XS](htt
 
 [![Joma 100049.100 - Camiseta de Baloncesto](https://images-eu.ssl-images-amazon.com/images/I/41ctonUnCAL._SL200_.jpg)](https://www.amazon.es/dp/B00ZX1IAEO/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00ZX1IAEO/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

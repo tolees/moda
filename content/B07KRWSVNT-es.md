@@ -22,6 +22,9 @@ Está [Columbia 1681661 CSC BASIC LOGO II HOODIE  Sudadera con capucha  Hombre  
 
 [![Columbia 1681661 CSC BASIC LOGO II HOODI](https://images-eu.ssl-images-amazon.com/images/I/41bWIODs4HL._SL200_.jpg)](https://www.amazon.es/dp/B07KRWSVNT/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KRWSVNT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Levi s Down Barstow Puffer  Chaqueta para Hombre  Negro  Black 0000   Sma
 
 [![Levi s Down Barstow Puffer  Chaqueta par](https://images-eu.ssl-images-amazon.com/images/I/41cFj6FzF9L._SL200_.jpg)](https://www.amazon.es/dp/B07F123GDQ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07F123GDQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Lee Logo tee Plus Size Camiseta  Gris  Sharp Grey Mele 03   XXX-Large par
 
 [![Lee Logo tee Plus Size Camiseta  Gris  S](https://images-eu.ssl-images-amazon.com/images/I/4135HalYbQL._SL200_.jpg)](https://www.amazon.es/dp/B07H9DQJPR/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07H9DQJPR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

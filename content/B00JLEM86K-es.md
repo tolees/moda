@@ -22,6 +22,9 @@ Ahora mismo tienes [Emporio Armani 5229T3 Gafas de sol  Black/Grey Rubber  56 pa
 
 [![Emporio Armani 5229T3 Gafas de sol  Blac](https://images-eu.ssl-images-amazon.com/images/I/31F%2BwLLyYyL._SL200_.jpg)](https://www.amazon.es/dp/B00JLEM86K/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00JLEM86K/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

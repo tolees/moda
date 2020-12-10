@@ -22,6 +22,9 @@ Está [ESPRIT Collection 027eo1e030  Vestido para Mujer  Rojo  Red 2  42  Talla 
 
 [![ESPRIT Collection 027eo1e030  Vestido pa](https://images-eu.ssl-images-amazon.com/images/I/41NPQhYMncL._SL200_.jpg)](https://www.amazon.es/dp/B01NA6NL48/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01NA6NL48/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

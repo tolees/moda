@@ -22,6 +22,9 @@ Está [El Ganso Oxford Bandera Camisa Casual  Blanco  X-Large  Tamaño del Fabri
 
 [![El Ganso Oxford Bandera Camisa Casual  B](https://images-eu.ssl-images-amazon.com/images/I/3146gVbcprL._SL200_.jpg)](https://www.amazon.es/dp/B07GCBB69B/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07GCBB69B/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

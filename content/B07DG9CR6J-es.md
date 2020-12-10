@@ -22,6 +22,9 @@ Está [Love Moschino Coats  Abrigo Mujer   Bl/Red/Beig/WH 4062   40  Talla del F
 
 [![Love Moschino Coats  Abrigo Mujer   Bl/R](https://images-eu.ssl-images-amazon.com/images/I/41WWRynooLL._SL200_.jpg)](https://www.amazon.es/dp/B07DG9CR6J/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DG9CR6J/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

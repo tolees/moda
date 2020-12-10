@@ -22,6 +22,9 @@ Tienes [Collar para adiestramiento canino on modo vibració](https://www.amazon.
 
 [![Collar para adiestramiento canino on mod](https://images-eu.ssl-images-amazon.com/images/I/51zEruJMmdL._SL200_.jpg)](https://www.amazon.es/dp/B06XK6ZGBR/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B06XK6ZGBR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

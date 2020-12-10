@@ -22,6 +22,9 @@ Está [Lee Scarlett Vaqueros Skinny  Azul  Dark Used Qb   W26/L31  Talla del Fab
 
 [![Lee Scarlett Vaqueros Skinny  Azul  Dark](https://images-eu.ssl-images-amazon.com/images/I/31%2Bs7Id40eL._SL200_.jpg)](https://www.amazon.es/dp/B0763QHRSP/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0763QHRSP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

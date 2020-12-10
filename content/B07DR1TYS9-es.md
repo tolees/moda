@@ -22,6 +22,9 @@ Ahora mismo tienes [MTNG Collection 57561  Zapatos de Cordones Oxford para Mujer
 
 [![MTNG Collection 57561  Zapatos de Cordon](https://images-eu.ssl-images-amazon.com/images/I/41trljox2ZL._SL200_.jpg)](https://www.amazon.es/dp/B07DR1TYS9/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07DR1TYS9/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

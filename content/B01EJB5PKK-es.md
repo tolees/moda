@@ -22,6 +22,9 @@ Tienes [JACK & JONES JORHAMILTON Sweat Crew Neck  Sudadera para Hombre   Mykonos
 
 [![JACK & JONES JORHAMILTON Sweat Crew Neck](https://images-eu.ssl-images-amazon.com/images/I/51UMXuzYSnL._SL200_.jpg)](https://www.amazon.es/dp/B01EJB5PKK/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01EJB5PKK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

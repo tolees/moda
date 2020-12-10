@@ -22,6 +22,9 @@ Ahora mismo tienes [Springfield 2DR C/Doble Torzal Estruc Jersey   Gama Grises 4
 
 [![Springfield 2DR C/Doble Torzal Estruc Je](https://images-eu.ssl-images-amazon.com/images/I/416P%2BYYntbL._SL200_.jpg)](https://www.amazon.es/dp/B07KYZZPP7/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07KYZZPP7/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

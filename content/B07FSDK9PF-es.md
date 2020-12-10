@@ -22,6 +22,9 @@ Está [Clarks Arla Jacory  Sandalias de Talón Abierto para Mujer  Verde  Olive-
 
 [![Clarks Arla Jacory  Sandalias de Talón A](https://images-eu.ssl-images-amazon.com/images/I/41d9zO5vdQL._SL200_.jpg)](https://www.amazon.es/dp/B07FSDK9PF/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FSDK9PF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

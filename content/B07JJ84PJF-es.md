@@ -22,6 +22,9 @@ Está [Lacoste Sport Th7618  Camiseta para Hombre  Azul  Pratensis Adb  X-Small 
 
 [![Lacoste Sport Th7618  Camiseta para Homb](https://images-eu.ssl-images-amazon.com/images/I/414FLGICaZL._SL200_.jpg)](https://www.amazon.es/dp/B07JJ84PJF/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07JJ84PJF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

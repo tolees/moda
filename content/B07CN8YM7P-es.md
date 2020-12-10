@@ -22,6 +22,9 @@ Está [Crocs Sexi Flip Women  Sandalias para Mujer  Azul  Pool 40m   38/39 EU](h
 
 [![Crocs Sexi Flip Women  Sandalias para Mu](https://images-eu.ssl-images-amazon.com/images/I/31IaoD8p2ZL._SL200_.jpg)](https://www.amazon.es/dp/B07CN8YM7P/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07CN8YM7P/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

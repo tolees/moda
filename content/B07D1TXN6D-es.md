@@ -22,6 +22,9 @@ Ahora mismo tienes [SELECTED HOMME Slhslim-Leon 6131 D.Blue St Jeans W Noos Vaqu
 
 [![SELECTED HOMME Slhslim-Leon 6131 D.Blue ](https://images-eu.ssl-images-amazon.com/images/I/41D87r7FRDL._SL200_.jpg)](https://www.amazon.es/dp/B07D1TXN6D/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07D1TXN6D/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

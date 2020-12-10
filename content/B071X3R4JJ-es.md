@@ -22,6 +22,9 @@ Tienes [Lee Morton Vaqueros Rectos  Negro  Black Rinse YC47   W30/L30 para Hombr
 
 [![Lee Morton Vaqueros Rectos  Negro  Black](https://images-eu.ssl-images-amazon.com/images/I/41CBcxlWGBL._SL200_.jpg)](https://www.amazon.es/dp/B071X3R4JJ/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B071X3R4JJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

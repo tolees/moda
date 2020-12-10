@@ -22,6 +22,10 @@ Está [Levi s 2Pk Crewneck Graphic Camiseta  2 Pack Sw White/Mineral Black  S pa
 
 [![Levi s 2Pk Crewneck Graphic Camiseta  2 ](https://m.media-amazon.com/images/I/31xNkWhiwIL._SL200_.jpg)](https://www.amazon.es/dp/B07LFGKRVB/?tag=tolees-21)
 
+Principales características:
+
+- 2 paquetes Crewneck Graphic
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07LFGKRVB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

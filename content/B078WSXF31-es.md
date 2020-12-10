@@ -22,6 +22,9 @@ Está [Cortefiel Pantalón de Lino  Beige  Tostado 50   Tamaño del Fabricante:4
 
 [![Cortefiel Pantalón de Lino  Beige  Tosta](https://images-eu.ssl-images-amazon.com/images/I/419r0kEYp4L._SL200_.jpg)](https://www.amazon.es/dp/B078WSXF31/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B078WSXF31/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

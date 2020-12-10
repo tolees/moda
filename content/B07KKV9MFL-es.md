@@ -22,6 +22,9 @@ Está [Naf Naf Kenc20 Blusa  Rosa  Rose Pivoine 1304   40 para Mujer](https://ww
 
 [![Naf Naf Kenc20 Blusa  Rosa  Rose Pivoine](https://images-eu.ssl-images-amazon.com/images/I/41-DRD69phL._SL200_.jpg)](https://www.amazon.es/dp/B07KKV9MFL/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KKV9MFL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

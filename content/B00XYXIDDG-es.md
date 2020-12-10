@@ -22,6 +22,9 @@ Tienes [Tantra Strap Sandals with Beads - Sandalias para Mujer  Color Negro  Tal
 
 [![Tantra Strap Sandals with Beads - Sandal](https://images-eu.ssl-images-amazon.com/images/I/416akKbN3JL._SL200_.jpg)](https://www.amazon.es/dp/B00XYXIDDG/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00XYXIDDG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

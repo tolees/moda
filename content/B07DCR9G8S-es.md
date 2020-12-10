@@ -22,6 +22,9 @@ Tienes [LOSMILE Mujer Bolso de Mano Lona Bolso de Bandolera Bolsas de Playa Bols
 
 [![LOSMILE Mujer Bolso de Mano Lona Bolso d](https://images-eu.ssl-images-amazon.com/images/I/41e%2B%2B-L4zIL._SL200_.jpg)](https://www.amazon.es/dp/B07DCR9G8S/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07DCR9G8S/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

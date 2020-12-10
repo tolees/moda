@@ -22,6 +22,9 @@ Está [Iris & Lilly AM8525 sujetadores push up  Negro  Black   100A  Talla del f
 
 [![Iris & Lilly AM8525 sujetadores push up ](https://images-eu.ssl-images-amazon.com/images/I/41jkTjO2lgL._SL200_.jpg)](https://www.amazon.es/dp/B076MCXCMR/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B076MCXCMR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

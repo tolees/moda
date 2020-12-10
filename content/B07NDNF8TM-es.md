@@ -22,6 +22,9 @@ Tienes [Tous 995960262  Monedero para Mujer   Marrón   11x10x2.5 cm  W x H x L 
 
 [![Tous 995960262  Monedero para Mujer   Ma](https://images-eu.ssl-images-amazon.com/images/I/51nHBuYvyoL._SL200_.jpg)](https://www.amazon.es/dp/B07NDNF8TM/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07NDNF8TM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

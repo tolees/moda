@@ -22,6 +22,9 @@ Tienes [Vero Moda Vmglory Eva LS Blouse  suéter Mujer  Gris  Light Grey Melange
 
 [![Vero Moda Vmglory Eva LS Blouse  suéter ](https://images-eu.ssl-images-amazon.com/images/I/41JWh5ZFPdL._SL200_.jpg)](https://www.amazon.es/dp/B073SV7J4L/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B073SV7J4L/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

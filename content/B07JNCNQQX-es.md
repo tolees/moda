@@ -22,6 +22,9 @@ Está [Lacoste Ramm211 Bóxer  Azul  Mood Indigo 405   Medium para Hombre](https
 
 [![Lacoste Ramm211 Bóxer  Azul  Mood Indigo](https://images-eu.ssl-images-amazon.com/images/I/417xSuhSnPL._SL200_.jpg)](https://www.amazon.es/dp/B07JNCNQQX/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07JNCNQQX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

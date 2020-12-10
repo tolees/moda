@@ -22,6 +22,9 @@ Está [VECDY Bañador Bebe Niña  2 Piezas Traje De Baño Moda Monokini Sin Tira
 
 [![VECDY Bañador Bebe Niña  2 Piezas Traje ](https://images-eu.ssl-images-amazon.com/images/I/31kwZBs4N4L._SL200_.jpg)](https://www.amazon.es/dp/B07T64Q2JF/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07T64Q2JF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

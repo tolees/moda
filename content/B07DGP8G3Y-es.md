@@ -22,6 +22,9 @@ Tienes [MAMALICIOUS Mlina Down Jacket  Abrigo premamá para Mujer  Azul  Navy Bl
 
 [![MAMALICIOUS Mlina Down Jacket  Abrigo pr](https://images-eu.ssl-images-amazon.com/images/I/41VPfm48IxL._SL200_.jpg)](https://www.amazon.es/dp/B07DGP8G3Y/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07DGP8G3Y/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

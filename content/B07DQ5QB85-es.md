@@ -22,6 +22,9 @@ Está [Sixty Seven 79786  Zapatos de tacón con Punta Cerrada para Mujer   Cache
 
 [![Sixty Seven 79786  Zapatos de tacón con ](https://images-eu.ssl-images-amazon.com/images/I/31h4o0JQmpL._SL200_.jpg)](https://www.amazon.es/dp/B07DQ5QB85/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DQ5QB85/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

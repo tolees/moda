@@ -22,6 +22,9 @@ Está [Love Moschino Short Sleeve T-Shirt with Eye  Mouth and Love Camiseta  Ros
 
 [![Love Moschino Short Sleeve T-Shirt with ](https://images-eu.ssl-images-amazon.com/images/I/41M053JO0pL._SL200_.jpg)](https://www.amazon.es/dp/B07CFYRLDG/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07CFYRLDG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

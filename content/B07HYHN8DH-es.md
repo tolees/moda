@@ -22,6 +22,9 @@ Tienes [Pepe Jeans New Brooke  Vaqueros para Mujer  Azul  Whisper Wash Destroy W
 
 [![Pepe Jeans New Brooke  Vaqueros para Muj]()](https://www.amazon.es/dp/B07HYHN8DH/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07HYHN8DH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

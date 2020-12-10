@@ -22,6 +22,9 @@ Tienes [Vila Clothes Viwendis L/s Rollneck Knit Top-Noos Camiseta Cuello Alto  M
 
 [![Vila Clothes Viwendis L/s Rollneck Knit ](https://images-eu.ssl-images-amazon.com/images/I/41mEeT9hmGL._SL200_.jpg)](https://www.amazon.es/dp/B07C5Z99CD/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07C5Z99CD/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

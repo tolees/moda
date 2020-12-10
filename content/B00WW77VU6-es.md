@@ -22,6 +22,9 @@ Ahora mismo tienes [2TWO Handi  Vestido para Mujer  Negro  38](https://www.amazo
 
 [![2TWO Handi  Vestido para Mujer  Negro  3](https://images-eu.ssl-images-amazon.com/images/I/31xKnXPA%2B0L._SL200_.jpg)](https://www.amazon.es/dp/B00WW77VU6/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00WW77VU6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

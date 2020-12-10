@@ -22,6 +22,9 @@ Ahora mismo tienes [BAGZY Plegable Bolso de Viaje Grande Bolsa de Hombro de Gimn
 
 [![BAGZY Plegable Bolso de Viaje Grande Bol](https://images-eu.ssl-images-amazon.com/images/I/519WPIxWlPL._SL200_.jpg)](https://www.amazon.es/dp/B07G5RHM89/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07G5RHM89/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

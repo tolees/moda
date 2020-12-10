@@ -22,6 +22,9 @@ Está [Lee Logo tee  Camiseta para Hombre  Marfil  Sharp Grey Mele 03  XX-Large]
 
 [![Lee Logo tee  Camiseta para Hombre  Marf](https://images-eu.ssl-images-amazon.com/images/I/41t2HKeuAJL._SL200_.jpg)](https://www.amazon.es/dp/B07FTKFVCF/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FTKFVCF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

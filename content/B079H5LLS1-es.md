@@ -22,6 +22,9 @@ Está [Guess GU0130F-61C39  Gafas de Sol para Hombre  Black/Grey Blue 61](https:
 
 [![Guess GU0130F-61C39  Gafas de Sol para H](https://images-eu.ssl-images-amazon.com/images/I/317FnlU12rL._SL200_.jpg)](https://www.amazon.es/dp/B079H5LLS1/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B079H5LLS1/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

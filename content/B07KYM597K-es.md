@@ -22,6 +22,9 @@ Está [Springfield 490 C/Block Gg12 Jersey  Gama Azules 15  X-Large  Tamaño del
 
 [![Springfield 490 C/Block Gg12 Jersey  Gam](https://images-eu.ssl-images-amazon.com/images/I/41Ie2vZl1zL._SL200_.jpg)](https://www.amazon.es/dp/B07KYM597K/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KYM597K/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

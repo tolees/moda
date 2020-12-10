@@ -22,6 +22,9 @@ Tienes [AiRunTech Cintura Fanny Pack Riñoneras Deportivas Cinturón de Correr I
 
 [![AiRunTech Cintura Fanny Pack Riñoneras D](https://images-eu.ssl-images-amazon.com/images/I/31rXXAkqBcL._SL200_.jpg)](https://www.amazon.es/dp/B07G2FSV48/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07G2FSV48/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

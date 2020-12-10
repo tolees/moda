@@ -22,6 +22,9 @@ Ahora mismo tienes [Tommy Hilfiger Hilfiger Print Beach Sandal  Chanclas para Ho
 
 [![Tommy Hilfiger Hilfiger Print Beach Sand](https://images-eu.ssl-images-amazon.com/images/I/41xs6pz9nVL._SL200_.jpg)](https://www.amazon.es/dp/B07L3FY1J9/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07L3FY1J9/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Persol Gafas de sol 0PO3134S Black 95/31  51](https://www.amazon.es/dp/B
 
 [![Persol Gafas de sol 0PO3134S Black 95/31](https://images-eu.ssl-images-amazon.com/images/I/31jq3fDznyL._SL200_.jpg)](https://www.amazon.es/dp/B0154FXY5I/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B0154FXY5I/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

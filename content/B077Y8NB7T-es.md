@@ -22,6 +22,9 @@ Ahora mismo tienes [Inside 5SPPC01 Chaqueta Impermeable  Mujer  Blanco  Large  T
 
 [![Inside 5SPPC01 Chaqueta Impermeable  Muj](https://images-eu.ssl-images-amazon.com/images/I/41ldmi0Jt5L._SL200_.jpg)](https://www.amazon.es/dp/B077Y8NB7T/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B077Y8NB7T/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

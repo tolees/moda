@@ -22,6 +22,9 @@ Está [Esprit 037ee1j010  Sudadera Mujer   Off White   38  Talla del Fabricante:
 
 [![Esprit 037ee1j010  Sudadera Mujer   Off ](https://images-eu.ssl-images-amazon.com/images/I/413%2B34Gl6NL._SL200_.jpg)](https://www.amazon.es/dp/B01N9HKB0K/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01N9HKB0K/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

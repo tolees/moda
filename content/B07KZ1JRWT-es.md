@@ -22,6 +22,9 @@ Ahora mismo tienes [Springfield 490 Raya Kodak Gg12 Jersey   Gama Azules 15   Sm
 
 [![Springfield 490 Raya Kodak Gg12 Jersey  ](https://images-eu.ssl-images-amazon.com/images/I/41vi3Rkaf3L._SL200_.jpg)](https://www.amazon.es/dp/B07KZ1JRWT/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07KZ1JRWT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Springfield 5.T.Ap.Pv19.Panadera FK Blusa   Varios 98   Medium  Tamaño d
 
 [![Springfield 5.T.Ap.Pv19.Panadera FK Blus]()](https://www.amazon.es/dp/B07KYZFKFS/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KYZFKFS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

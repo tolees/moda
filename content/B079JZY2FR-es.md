@@ -22,6 +22,9 @@ Tienes [Napapijri Rainforest Winter  Chaqueta  Amarillo  Spark Yellow Y36   X-La
 
 [![Napapijri Rainforest Winter  Chaqueta  A](https://images-eu.ssl-images-amazon.com/images/I/41KVrZaYVAL._SL200_.jpg)](https://www.amazon.es/dp/B079JZY2FR/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B079JZY2FR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Mustang Stiefelette  Botines para Mujer  Marfil  Ice 203   39 EU](https:/
 
 [![Mustang Stiefelette  Botines para Mujer ](https://images-eu.ssl-images-amazon.com/images/I/41WQhECg0nL._SL200_.jpg)](https://www.amazon.es/dp/B07D9TMQ3V/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07D9TMQ3V/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Diesel Tepphar L.32 Pantaloni  Vaqueros Slim para Hombre  Blau  Denim 01 
 
 [![Diesel Tepphar L.32 Pantaloni  Vaqueros ](https://images-eu.ssl-images-amazon.com/images/I/41L8D8VmfkL._SL200_.jpg)](https://www.amazon.es/dp/B07GBCYGNX/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07GBCYGNX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

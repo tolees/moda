@@ -22,6 +22,9 @@ Ahora mismo tienes [IIIIS-F Mujer Zapatos Resbalón en Comodidad Zapatos Plano Z
 
 [![IIIIS-F Mujer Zapatos Resbalón en Comodi](https://images-eu.ssl-images-amazon.com/images/I/41K2C-NqO9L._SL200_.jpg)](https://www.amazon.es/dp/B07B1NFWFN/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07B1NFWFN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

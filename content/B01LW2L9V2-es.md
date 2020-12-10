@@ -22,6 +22,9 @@ Ahora mismo tienes [LANGRIA Armario Modular  Estantería por Módulos  Armario d
 
 [![LANGRIA Armario Modular  Estantería por ](https://images-eu.ssl-images-amazon.com/images/I/51gis8NsYbL._SL200_.jpg)](https://www.amazon.es/dp/B01LW2L9V2/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01LW2L9V2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

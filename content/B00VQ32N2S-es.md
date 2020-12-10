@@ -22,6 +22,9 @@ Está [Camiseta Abanderado Imperio  300 Pack 2   Ref 2300 ](https://www.amazon.e
 
 [![Camiseta Abanderado Imperio  300 Pack 2 ](https://images-eu.ssl-images-amazon.com/images/I/31-gHbHgMIL._SL200_.jpg)](https://www.amazon.es/dp/B00VQ32N2S/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00VQ32N2S/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

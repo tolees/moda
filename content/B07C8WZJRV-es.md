@@ -22,6 +22,9 @@ Tienes [Vans_Apparel Classic  Camiseta para Hombre  Amarillo  New Wheat-Dress Bl
 
 [![Vans_Apparel Classic  Camiseta para Homb](https://images-eu.ssl-images-amazon.com/images/I/41i0W%2BAU6BL._SL200_.jpg)](https://www.amazon.es/dp/B07C8WZJRV/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07C8WZJRV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

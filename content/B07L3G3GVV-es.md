@@ -22,6 +22,9 @@ Está [Tommy Hilfiger Hilfiger Print Beach Sandal  Chanclas para Hombre  Negro  
 
 [![Tommy Hilfiger Hilfiger Print Beach Sand](https://images-eu.ssl-images-amazon.com/images/I/41xs6pz9nVL._SL200_.jpg)](https://www.amazon.es/dp/B07L3G3GVV/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07L3G3GVV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

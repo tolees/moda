@@ -22,6 +22,9 @@ Está [Armani Exchange J01 Super Skinny Indigo Denim Vaqueros  Azul 1500  W26/L3
 
 [![Armani Exchange J01 Super Skinny Indigo ](https://images-eu.ssl-images-amazon.com/images/I/41FnEPzt6JL._SL200_.jpg)](https://www.amazon.es/dp/B07JJCJYFT/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07JJCJYFT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

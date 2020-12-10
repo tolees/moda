@@ -22,6 +22,9 @@ Tienes [Gocco Pantalón Pata De Gallo  Niñas  Marrón  Cuero MC  5-6 años](htt
 
 [![Gocco Pantalón Pata De Gallo  Niñas  Mar](https://images-eu.ssl-images-amazon.com/images/I/31UzhTMPwtL._SL200_.jpg)](https://www.amazon.es/dp/B07D86VDF9/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07D86VDF9/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Macson Pantalón Gris Oscuro ES 42](https://www.amazon.es/dp/B0179O2OCG/?
 
 [![Macson Pantalón Gris Oscuro ES 42](https://images-eu.ssl-images-amazon.com/images/I/41CkLkk84-L._SL200_.jpg)](https://www.amazon.es/dp/B0179O2OCG/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0179O2OCG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

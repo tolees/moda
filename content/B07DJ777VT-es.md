@@ -22,6 +22,9 @@ Está [Geox D Myria B  Zapatillas para Mujer  Coral C7008  37 EU](https://www.am
 
 [![Geox D Myria B  Zapatillas para Mujer  C](https://images-eu.ssl-images-amazon.com/images/I/41QWVEexApL._SL200_.jpg)](https://www.amazon.es/dp/B07DJ777VT/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DJ777VT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

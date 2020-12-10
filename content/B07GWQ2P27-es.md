@@ -22,6 +22,9 @@ Tienes [L-RUN Hombres Zapatos de Senderismo Zapatillas de Deporte al Aire Libre 
 
 [![L-RUN Hombres Zapatos de Senderismo Zapa](https://images-eu.ssl-images-amazon.com/images/I/41Nm0OsRffL._SL200_.jpg)](https://www.amazon.es/dp/B07GWQ2P27/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07GWQ2P27/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

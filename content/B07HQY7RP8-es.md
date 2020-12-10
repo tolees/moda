@@ -22,6 +22,9 @@ Está [JACK & JONES Hombre Jjiglenn Jjicon JJ 357 50sps Noos Vaqueros Slim Not A
 
 [![JACK & JONES Hombre Jjiglenn Jjicon JJ 3](https://images-eu.ssl-images-amazon.com/images/I/41NiRrQ2nkL._SL200_.jpg)](https://www.amazon.es/dp/B07HQY7RP8/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07HQY7RP8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Eferri 0JV5716  Bolso Bandolera para Mujer   Rosa   30.5x18x32 cm  W x H 
 
 [![Eferri 0JV5716  Bolso Bandolera para Muj](https://images-eu.ssl-images-amazon.com/images/I/51Fh3yi%2BKBL._SL200_.jpg)](https://www.amazon.es/dp/B07CB69TRT/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07CB69TRT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

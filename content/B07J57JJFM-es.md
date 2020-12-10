@@ -22,6 +22,9 @@ Está [IRIS & LILLY Kt106 bañadores  Negro  Black   38  Talla del fabricante: S
 
 [![IRIS & LILLY Kt106 bañadores  Negro  Bla](https://images-eu.ssl-images-amazon.com/images/I/31sErhnecIL._SL200_.jpg)](https://www.amazon.es/dp/B07J57JJFM/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07J57JJFM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Tommy Hilfiger Claudia THERMORE Insulated Bomber  Chaqueta Mujer  Azul  M
 
 [![Tommy Hilfiger Claudia THERMORE Insulate](https://images-eu.ssl-images-amazon.com/images/I/41CCcYWS8OL._SL200_.jpg)](https://www.amazon.es/dp/B072MHR22Z/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B072MHR22Z/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

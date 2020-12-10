@@ -22,6 +22,9 @@ Tienes [LEGO Teo 755 L/S Camiseta  Niños  Blanco  Off White   140  Tamaño del 
 
 [![LEGO Teo 755 L/S Camiseta  Niños  Blanco](https://images-eu.ssl-images-amazon.com/images/I/51-y8nlRTpL._SL200_.jpg)](https://www.amazon.es/dp/B071W1CXJP/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B071W1CXJP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Joma SHT.S0M01 - Falda de tenis para mujer  color Coral  tal
 
 [![Joma SHT.S0M01 - Falda de tenis para muj](https://images-eu.ssl-images-amazon.com/images/I/41bykK66loL._SL200_.jpg)](https://www.amazon.es/dp/B01ERPH5D8/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01ERPH5D8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

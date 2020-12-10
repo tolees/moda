@@ -22,6 +22,9 @@ Tienes [Jack & Jones  Jjebasic Polo SS Noos - Camiseta para Hombre  Rosa  Misty 
 
 [![Jack & Jones  Jjebasic Polo SS Noos - Ca]()](https://www.amazon.es/dp/B079C4L7TS/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B079C4L7TS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

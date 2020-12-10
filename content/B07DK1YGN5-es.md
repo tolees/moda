@@ -22,6 +22,9 @@ Está [Tamaris 23712-21  Zapatos de Cordones Derby para Mujer  Negro  Black Stru
 
 [![Tamaris 23712-21  Zapatos de Cordones De](https://images-eu.ssl-images-amazon.com/images/I/41gU45xTYvL._SL200_.jpg)](https://www.amazon.es/dp/B07DK1YGN5/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DK1YGN5/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

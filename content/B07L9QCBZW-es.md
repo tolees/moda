@@ -22,6 +22,9 @@ Está [Napapijri Bonthe FZ Sudadera  Gris  Volcano H74   X-Large para Hombre](ht
 
 [![Napapijri Bonthe FZ Sudadera  Gris  Volc](https://images-eu.ssl-images-amazon.com/images/I/31zWZHuhivL._SL200_.jpg)](https://www.amazon.es/dp/B07L9QCBZW/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07L9QCBZW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

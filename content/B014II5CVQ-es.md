@@ -22,6 +22,9 @@ Está [Dolce & Gabbana Junior DG4238 298987 - gafas de sol Unisex adulto  Negro 
 
 [![Dolce & Gabbana Junior DG4238 298987 - g](https://images-eu.ssl-images-amazon.com/images/I/31eg4abA7UL._SL200_.jpg)](https://www.amazon.es/dp/B014II5CVQ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B014II5CVQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

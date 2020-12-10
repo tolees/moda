@@ -22,6 +22,9 @@ Está [Columbia Mujer Chaqueta impermeable  Pouring Adventure II Jacket  Nailon 
 
 [![Columbia Mujer Chaqueta impermeable  Pou](https://images-eu.ssl-images-amazon.com/images/I/414AXTUaTkL._SL200_.jpg)](https://www.amazon.es/dp/B07KSG87B3/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KSG87B3/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

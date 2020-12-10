@@ -22,6 +22,9 @@ Tienes [Geox D Sukie B  Zapatillas para Mujer   Navy C4002   36 EU](https://www.
 
 [![Geox D Sukie B  Zapatillas para Mujer   ](https://images-eu.ssl-images-amazon.com/images/I/414MB6De6jL._SL200_.jpg)](https://www.amazon.es/dp/B0792FKCVX/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B0792FKCVX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

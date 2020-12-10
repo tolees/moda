@@ -22,6 +22,9 @@ Está [Springfield 273554 Camisa Casual  Hombre  Azul  Gamma Azules   Large  Tam
 
 [![Springfield 273554 Camisa Casual  Hombre](https://images-eu.ssl-images-amazon.com/images/I/41xODxH7ckL._SL200_.jpg)](https://www.amazon.es/dp/B078HGFB1S/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B078HGFB1S/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

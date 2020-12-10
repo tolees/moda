@@ -22,6 +22,9 @@ Está [Tommy Jeans Hombre Original Triblend  Camiseta Manga Corta  Rojo  Formula
 
 [![Tommy Jeans Hombre Original Triblend  Ca](https://images-eu.ssl-images-amazon.com/images/I/41wlN12t91L._SL200_.jpg)](https://www.amazon.es/dp/B0777PZ7VF/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0777PZ7VF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

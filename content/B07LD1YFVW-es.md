@@ -22,6 +22,9 @@ Ahora mismo tienes [Warehouse Knitback Abrigo   Green 20   38 ES ES para Mujer](
 
 [![Warehouse Knitback Abrigo   Green 20   3](https://images-eu.ssl-images-amazon.com/images/I/315iJJ10YKL._SL200_.jpg)](https://www.amazon.es/dp/B07LD1YFVW/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07LD1YFVW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [JACK & JONES  Vaqueros Slim para Hombre  Azul  Blue Denim Blue Denim   W3
 
 [![JACK & JONES  Vaqueros Slim para Hombre ](https://images-eu.ssl-images-amazon.com/images/I/4183e3hYxhL._SL200_.jpg)](https://www.amazon.es/dp/B073SXJTTP/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B073SXJTTP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

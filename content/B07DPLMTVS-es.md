@@ -22,6 +22,9 @@ Está [oodji Ultra Mujer Camiseta de Algodón con Estampado y Borde Inferior No 
 
 [![oodji Ultra Mujer Camiseta de Algodón co](https://images-eu.ssl-images-amazon.com/images/I/418qARpwmFL._SL200_.jpg)](https://www.amazon.es/dp/B07DPLMTVS/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DPLMTVS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

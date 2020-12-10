@@ -22,6 +22,9 @@ Tienes [Desigual Girl Knit Dress Straps  Vest_Swan  Vestido  Rojo  Pink Fuschia 
 
 [![Desigual Girl Knit Dress Straps  Vest_Sw](https://images-eu.ssl-images-amazon.com/images/I/41CrsBNlQCL._SL200_.jpg)](https://www.amazon.es/dp/B07GZ4K7TX/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07GZ4K7TX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

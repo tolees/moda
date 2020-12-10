@@ -22,6 +22,9 @@ Tienes [Timberland AF NELLIE DBLE WHEAT NBK - Botas de aventura para mujer  colo
 
 [![Timberland AF NELLIE DBLE WHEAT NBK - Bo](https://images-eu.ssl-images-amazon.com/images/I/41LYMsWLeUL._SL200_.jpg)](https://www.amazon.es/dp/B005JQS5O8/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B005JQS5O8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

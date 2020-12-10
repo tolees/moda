@@ -22,6 +22,9 @@ Está [Geox U Vincit C  Zapatillas para Hombre  Negro  Black/Dk Grey   42 EU](ht
 
 [![Geox U Vincit C  Zapatillas para Hombre ](https://images-eu.ssl-images-amazon.com/images/I/31mP9I6FdmL._SL200_.jpg)](https://www.amazon.es/dp/B07DJ3MVZW/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DJ3MVZW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

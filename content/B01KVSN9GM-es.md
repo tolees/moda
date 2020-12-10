@@ -22,6 +22,9 @@ Está [Timberland Adventure 2.0 Cupsole Alpine Zapatillas Hombre  Negro  Black N
 
 [![Timberland Adventure 2.0 Cupsole Alpine ](https://images-eu.ssl-images-amazon.com/images/I/41GZfYH%2B-KL._SL200_.jpg)](https://www.amazon.es/dp/B01KVSN9GM/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01KVSN9GM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

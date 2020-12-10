@@ -22,6 +22,9 @@ Está [Tuc Tuc Prenda Volantes Kitties  Camiseta para Niñas   Blanco 05   5 añ
 
 [![Tuc Tuc Prenda Volantes Kitties  Camiset](https://images-eu.ssl-images-amazon.com/images/I/41AqKDQLD1L._SL200_.jpg)](https://www.amazon.es/dp/B07G9TRHRX/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07G9TRHRX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

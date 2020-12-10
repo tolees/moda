@@ -22,6 +22,9 @@ Está [Helly Hansen Dublin Down Chaqueta de pluma  Hombre  Negro  M](https://www
 
 [![Helly Hansen Dublin Down Chaqueta de plu](https://images-eu.ssl-images-amazon.com/images/I/41FXbtjrDwL._SL200_.jpg)](https://www.amazon.es/dp/B01ET4CE74/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01ET4CE74/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

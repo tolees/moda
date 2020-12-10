@@ -22,6 +22,9 @@ Ahora mismo tienes [Polaroid P0300 Y2 MZ9 43  Gafas de Sol Unisex Niños  Morado
 
 [![Polaroid P0300 Y2 MZ9 43  Gafas de Sol U](https://images-eu.ssl-images-amazon.com/images/I/31TkmtCSojL._SL200_.jpg)](https://www.amazon.es/dp/B017AG4LD8/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B017AG4LD8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

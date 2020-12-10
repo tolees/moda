@@ -22,6 +22,9 @@ Ahora mismo tienes [Gucci GG0064SK Gafas de sol  Black-Grey  55 para Hombre](htt
 
 [![Gucci GG0064SK Gafas de sol  Black-Grey ](https://images-eu.ssl-images-amazon.com/images/I/31Kcsl9joaL._SL200_.jpg)](https://www.amazon.es/dp/B06XFWJ2S6/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B06XFWJ2S6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

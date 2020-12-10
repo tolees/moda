@@ -22,6 +22,9 @@ Tienes [FIND Zapatos T-bar de Tacón Mujer  Plateado  Silver 022   38 EU](https:
 
 [![FIND Zapatos T-bar de Tacón Mujer  Plate](https://images-eu.ssl-images-amazon.com/images/I/31f0YIZml5L._SL200_.jpg)](https://www.amazon.es/dp/B078WWGDDP/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B078WWGDDP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

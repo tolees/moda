@@ -22,6 +22,9 @@ Está [Desires 9189100  Chaqueta Deportiva para Mujer  Rosa  Wash. Rose  Small  
 
 [![Desires 9189100  Chaqueta Deportiva para](https://images-eu.ssl-images-amazon.com/images/I/418VTfJJ9VL._SL200_.jpg)](https://www.amazon.es/dp/B077GYK6X8/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B077GYK6X8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

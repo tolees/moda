@@ -22,6 +22,9 @@ Está [Vero Moda  Camiseta sin Mangas para Mujer  Negro  Black Black   38  Talla
 
 [![Vero Moda  Camiseta sin Mangas para Muje](https://images-eu.ssl-images-amazon.com/images/I/41peLleTDmL._SL200_.jpg)](https://www.amazon.es/dp/B072XK43YJ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B072XK43YJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [find. Bomber Chaqueta para Mujer  Gris  Silver Grey   36  Talla del Fabri
 
 [![find. Bomber Chaqueta para Mujer  Gris  ](https://images-eu.ssl-images-amazon.com/images/I/416Qat1sPOL._SL200_.jpg)](https://www.amazon.es/dp/B01N7IGO20/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01N7IGO20/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

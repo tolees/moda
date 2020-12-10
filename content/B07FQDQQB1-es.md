@@ -22,6 +22,9 @@ Ahora mismo tienes [The North Face McMurdo - Chaqueta Impermeable con relleno de
 
 [![The North Face McMurdo - Chaqueta Imperm](https://images-eu.ssl-images-amazon.com/images/I/412NPgkPAcL._SL200_.jpg)](https://www.amazon.es/dp/B07FQDQQB1/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07FQDQQB1/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

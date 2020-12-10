@@ -22,6 +22,9 @@ Está [VERO MODA Vmabby 3/4 Top Dnm  Blusa para Mujer  Blanco  Snow White Stripe
 
 [![VERO MODA Vmabby 3/4 Top Dnm  Blusa para](https://images-eu.ssl-images-amazon.com/images/I/41bMEJvVBGL._SL200_.jpg)](https://www.amazon.es/dp/B01N4EOYF5/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01N4EOYF5/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

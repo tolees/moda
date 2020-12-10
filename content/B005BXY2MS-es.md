@@ -22,6 +22,9 @@ Está [Marmot Minimalist - Chaqueta impermeable para hombre  color negro  talla 
 
 [![Marmot Minimalist - Chaqueta impermeable](https://images-eu.ssl-images-amazon.com/images/I/41ya2eqWL7L._SL200_.jpg)](https://www.amazon.es/dp/B005BXY2MS/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B005BXY2MS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

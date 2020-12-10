@@ -22,6 +22,9 @@ Tienes [LOFIR Chaqueta de Mezclilla para niñas con Flores de Encaje  Chaqueta d
 
 [![LOFIR Chaqueta de Mezclilla para niñas c](https://images-eu.ssl-images-amazon.com/images/I/51aDPbB6T-L._SL200_.jpg)](https://www.amazon.es/dp/B07DCLTY5W/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07DCLTY5W/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

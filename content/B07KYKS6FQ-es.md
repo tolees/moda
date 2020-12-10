@@ -22,6 +22,9 @@ Está [Springfield 4.T.Daily.Ap.Pv19.Polo FK Blusa   Gama Rojo 65   Large  Tama�
 
 [![Springfield 4.T.Daily.Ap.Pv19.Polo FK Bl](https://images-eu.ssl-images-amazon.com/images/I/41CW%2BzbbTSL._SL200_.jpg)](https://www.amazon.es/dp/B07KYKS6FQ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KYKS6FQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

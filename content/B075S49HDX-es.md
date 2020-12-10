@@ -22,6 +22,9 @@ Está [FIND Pantalón Corto de Deporte Hombre  Negro  Black   50  Talla del fabr
 
 [![FIND Pantalón Corto de Deporte Hombre  N](https://images-eu.ssl-images-amazon.com/images/I/411yMbZTcIL._SL200_.jpg)](https://www.amazon.es/dp/B075S49HDX/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B075S49HDX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

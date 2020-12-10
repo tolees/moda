@@ -22,6 +22,9 @@ Está [JACK & JONES Jorsheridan Shirt SS Western Noos  Camisa para Hombre  Gris 
 
 [![JACK & JONES Jorsheridan Shirt SS Wester](https://images-eu.ssl-images-amazon.com/images/I/41U1lxLNHwL._SL200_.jpg)](https://www.amazon.es/dp/B079MCM9QJ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B079MCM9QJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Scotch & Soda AMS Blauw 3-Pack Allover Printed and Solid Boxer Shorts  B�
 
 [![Scotch & Soda AMS Blauw 3-Pack Allover P](https://images-eu.ssl-images-amazon.com/images/I/41pkBZ6%2B62L._SL200_.jpg)](https://www.amazon.es/dp/B07D2TB7HX/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07D2TB7HX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [JACK & JONES Jjepocket tee SS O-Neck Noos Camiseta  Azul  Na
 
 [![JACK & JONES Jjepocket tee SS O-Neck Noo](https://images-eu.ssl-images-amazon.com/images/I/41P1cxmonWL._SL200_.jpg)](https://www.amazon.es/dp/B079CBNT1J/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B079CBNT1J/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

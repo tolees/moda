@@ -22,6 +22,9 @@ Está [Geox J Kilwi M  Zapatillas para Niñas  Azul  Navy   38 EU](https://www.a
 
 [![Geox J Kilwi M  Zapatillas para Niñas  A](https://images-eu.ssl-images-amazon.com/images/I/41IL4jEm48L._SL200_.jpg)](https://www.amazon.es/dp/B076XBQXDJ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B076XBQXDJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

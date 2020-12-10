@@ -22,6 +22,9 @@ Está [Geox J Xunday Boy H  Botas Chukka para Niños   Navy/Black C0045   33 EU]
 
 [![Geox J Xunday Boy H  Botas Chukka para N](https://images-eu.ssl-images-amazon.com/images/I/41ZlN0zVImL._SL200_.jpg)](https://www.amazon.es/dp/B079RYZLMR/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B079RYZLMR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [JACK & JONES Jacpertro Trunks Noos  Bóxer Hombre   Persimmo
 
 [![JACK & JONES Jacpertro Trunks Noos  Bóxe](https://images-eu.ssl-images-amazon.com/images/I/51Eum1P7n2L._SL200_.jpg)](https://www.amazon.es/dp/B07B3WYQK7/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07B3WYQK7/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Clarks Grandin Plain  Zapatos de Cordones Brogue para Hombre  Gris  Grap
 
 [![Clarks Grandin Plain  Zapatos de Cordone](https://images-eu.ssl-images-amazon.com/images/I/3175hc%2BVNdL._SL200_.jpg)](https://www.amazon.es/dp/B07C8P3SJ3/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07C8P3SJ3/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

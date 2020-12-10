@@ -22,6 +22,9 @@ Está [Tommy Jeans Hombre Check  Camisa Manga Larga  Azul  Black Iris / Green Bl
 
 [![Tommy Jeans Hombre Check  Camisa Manga L](https://images-eu.ssl-images-amazon.com/images/I/5198IOj5N3L._SL200_.jpg)](https://www.amazon.es/dp/B07CBCWPM3/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07CBCWPM3/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

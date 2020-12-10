@@ -22,6 +22,9 @@ Ahora mismo tienes [BILLABONG Easy Daze Tropic Braguita de Bikini  Mujer   Multi
 
 [![BILLABONG Easy Daze Tropic Braguita de B](https://images-eu.ssl-images-amazon.com/images/I/41SP5gsrh3L._SL200_.jpg)](https://www.amazon.es/dp/B0786WGBJ8/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B0786WGBJ8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

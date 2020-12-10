@@ -22,6 +22,9 @@ Está [Tommy Hilfiger Hilfiger Stripe Beach Sandal  Chanclas para Hombre  Azul  
 
 [![Tommy Hilfiger Hilfiger Stripe Beach San](https://images-eu.ssl-images-amazon.com/images/I/51rRg6aNxnL._SL200_.jpg)](https://www.amazon.es/dp/B07L3FD4X5/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07L3FD4X5/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

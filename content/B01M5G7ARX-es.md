@@ -22,6 +22,9 @@ Está [SEE U SOON 7122012  Vestido para Mujer  Azul  Navy   40  Talla del Fabric
 
 [![SEE U SOON 7122012  Vestido para Mujer  ](https://images-eu.ssl-images-amazon.com/images/I/31F5BANNopL._SL200_.jpg)](https://www.amazon.es/dp/B01M5G7ARX/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01M5G7ARX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

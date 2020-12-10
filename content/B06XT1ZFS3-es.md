@@ -22,6 +22,9 @@ Está [Pepe Jeans Liza PL701101 Chaqueta Punto  Gris  Granite 971   Medium/Large
 
 [![Pepe Jeans Liza PL701101 Chaqueta Punto ](https://images-eu.ssl-images-amazon.com/images/I/41A2puqFKNL._SL200_.jpg)](https://www.amazon.es/dp/B06XT1ZFS3/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B06XT1ZFS3/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

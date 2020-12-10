@@ -22,6 +22,9 @@ Está [Clarks Spye Astro  Botines para Mujer  Beige  Sand Suede   40 EU](https:/
 
 [![Clarks Spye Astro  Botines para Mujer  B](https://images-eu.ssl-images-amazon.com/images/I/41UKOaA5-SL._SL200_.jpg)](https://www.amazon.es/dp/B01BP3JII0/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01BP3JII0/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

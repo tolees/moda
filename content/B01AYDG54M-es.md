@@ -22,6 +22,9 @@ Está [Puma Borussia Dortmund Home Replica Shirt Camiseta equipación  Hombre  A
 
 [![Puma Borussia Dortmund Home Replica Shir](https://images-eu.ssl-images-amazon.com/images/I/51I1cj8e8WL._SL200_.jpg)](https://www.amazon.es/dp/B01AYDG54M/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01AYDG54M/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

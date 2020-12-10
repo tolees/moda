@@ -22,6 +22,9 @@ Está [Panama Jack Panama 03 Colours B7  Zapatos de Cordones Brogue para Mujer  
 
 [![Panama Jack Panama 03 Colours B7  Zapato](https://images-eu.ssl-images-amazon.com/images/I/41gvXeyTlWL._SL200_.jpg)](https://www.amazon.es/dp/B00CM6M85K/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00CM6M85K/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

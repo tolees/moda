@@ -22,6 +22,13 @@ Está [JACK & JONES Jaclee Trunks 5 Pack Bóxer  Azul  Surft The Web/Estate Blue
 
 [![JACK & JONES Jaclee Trunks 5 Pack Bóxer ](https://m.media-amazon.com/images/I/41ilS3fHR0L._SL200_.jpg)](https://www.amazon.es/dp/B07LBDD5J4/?tag=tolees-21)
 
+Principales características:
+
+- Conjunto De Calzoncillos Boxer
+- Pretina Ancha
+- Estiramiento
+- Paquete Triple
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07LBDD5J4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

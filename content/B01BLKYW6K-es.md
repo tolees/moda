@@ -22,6 +22,9 @@ Está [Pedro del Hierro Sandalias de tacón Rosa EU 39](https://www.amazon.es/dp
 
 [![Pedro del Hierro Sandalias de tacón Rosa](https://images-eu.ssl-images-amazon.com/images/I/31-kgGKIfFL._SL200_.jpg)](https://www.amazon.es/dp/B01BLKYW6K/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01BLKYW6K/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

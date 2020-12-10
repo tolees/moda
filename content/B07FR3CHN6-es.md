@@ -22,6 +22,9 @@ Está [Clarks Un Trek Part  Sandalias de Talón Abierto para Hombre  Verde  Dark
 
 [![Clarks Un Trek Part  Sandalias de Talón ](https://images-eu.ssl-images-amazon.com/images/I/41zvX038JRL._SL200_.jpg)](https://www.amazon.es/dp/B07FR3CHN6/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FR3CHN6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

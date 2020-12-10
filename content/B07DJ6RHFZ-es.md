@@ -22,6 +22,9 @@ Está [Geox U Kaven C  Zapatillas para Hombre  Gris  Grey/Stone C1071   46 EU](h
 
 [![Geox U Kaven C  Zapatillas para Hombre  ](https://images-eu.ssl-images-amazon.com/images/I/41LPNT7%2BCEL._SL200_.jpg)](https://www.amazon.es/dp/B07DJ6RHFZ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DJ6RHFZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

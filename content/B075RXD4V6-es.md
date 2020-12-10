@@ -22,6 +22,9 @@ Está [Gore Wear C3 Windstopper Chaleco  Hombre   Amarillo Neon /Negro  XL](http
 
 [![Gore Wear C3 Windstopper Chaleco  Hombre](https://images-eu.ssl-images-amazon.com/images/I/41ohgDSUi0L._SL200_.jpg)](https://www.amazon.es/dp/B075RXD4V6/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B075RXD4V6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [XTI 32046  Zapatos con Tira de Tobillo para Mujer  Gris  39 EU](https://
 
 [![XTI 32046  Zapatos con Tira de Tobillo p](https://images-eu.ssl-images-amazon.com/images/I/414s9cbDtBL._SL200_.jpg)](https://www.amazon.es/dp/B07JMM323Q/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07JMM323Q/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

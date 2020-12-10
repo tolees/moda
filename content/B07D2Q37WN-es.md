@@ -22,6 +22,9 @@ Está [Gant O1. The Quilted City Jacket Chaqueta  Azul  Navy   X-Large para Homb
 
 [![Gant O1. The Quilted City Jacket Chaquet](https://images-eu.ssl-images-amazon.com/images/I/41yCYsLP36L._SL200_.jpg)](https://www.amazon.es/dp/B07D2Q37WN/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07D2Q37WN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

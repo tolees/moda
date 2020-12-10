@@ -22,6 +22,9 @@ Está [Geox JR AXEL BOY A - Botas para niños  Beige  DK YELLOW/COFFEEC2266   35
 
 [![Geox JR AXEL BOY A - Botas para niños  B](https://images-eu.ssl-images-amazon.com/images/I/51cVfOTKU4L._SL200_.jpg)](https://www.amazon.es/dp/B01FXTWGJU/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01FXTWGJU/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

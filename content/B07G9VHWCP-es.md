@@ -22,6 +22,9 @@ Está [Esprit 118ee2b013  Vaqueros Slim Hombre  Azul  Blue Rinse 900   W29/L32](
 
 [![Esprit 118ee2b013  Vaqueros Slim Hombre ](https://images-eu.ssl-images-amazon.com/images/I/41N%2BmzCYmQL._SL200_.jpg)](https://www.amazon.es/dp/B07G9VHWCP/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07G9VHWCP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

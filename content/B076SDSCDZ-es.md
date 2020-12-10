@@ -22,6 +22,9 @@ Está [Iris & Lilly Bata Ligera Mujer  Gris  Grey Heather   Large](https://www.a
 
 [![Iris & Lilly Bata Ligera Mujer  Gris  Gr](https://images-eu.ssl-images-amazon.com/images/I/31m69Fq7CiL._SL200_.jpg)](https://www.amazon.es/dp/B076SDSCDZ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B076SDSCDZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

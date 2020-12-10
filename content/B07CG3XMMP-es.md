@@ -22,6 +22,9 @@ Está [JACK & JONES Jjeholmen Sweat Zip Hood Noos Sudadera  Rojo  Port Royale   
 
 [![JACK & JONES Jjeholmen Sweat Zip Hood No](https://images-eu.ssl-images-amazon.com/images/I/41qdPF7PllL._SL200_.jpg)](https://www.amazon.es/dp/B07CG3XMMP/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07CG3XMMP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

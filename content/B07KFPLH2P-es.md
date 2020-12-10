@@ -22,6 +22,9 @@ Tienes [Esprit Kids T-Shirt SS  Camiseta para Niños  Azul  Azuray Blue 443   17
 
 [![Esprit Kids T-Shirt SS  Camiseta para Ni](https://images-eu.ssl-images-amazon.com/images/I/41SuJguBtDL._SL200_.jpg)](https://www.amazon.es/dp/B07KFPLH2P/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07KFPLH2P/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

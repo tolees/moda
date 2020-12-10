@@ -22,6 +22,9 @@ Está [JACK & JONES Jacnew Camo Trunks 3 Pack Bóxer  Negro  Black Detail:Black 
 
 [![JACK & JONES Jacnew Camo Trunks 3 Pack B](https://images-eu.ssl-images-amazon.com/images/I/41lTUJz8z7L._SL200_.jpg)](https://www.amazon.es/dp/B076KDWDDX/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B076KDWDDX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

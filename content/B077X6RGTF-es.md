@@ -22,6 +22,9 @@ Ahora mismo tienes [LARNMERN Zapatos de Seguridad con Punta de Acero S3 SRC LM-2
 
 [![LARNMERN Zapatos de Seguridad con Punta ](https://images-eu.ssl-images-amazon.com/images/I/41Yv5iAmBoL._SL200_.jpg)](https://www.amazon.es/dp/B077X6RGTF/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B077X6RGTF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

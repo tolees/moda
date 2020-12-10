@@ -22,6 +22,9 @@ Tienes [Joma Combi - Pantalón Deportivo para Mujer  Color Negro  Talla M](https
 
 [![Joma Combi - Pantalón Deportivo para Muj](https://images-eu.ssl-images-amazon.com/images/I/31N9oFB9P2L._SL200_.jpg)](https://www.amazon.es/dp/B00ORVCV9Q/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00ORVCV9Q/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

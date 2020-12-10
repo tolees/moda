@@ -22,6 +22,9 @@ Está [Springfield FR Ml Logo 1988 Sudadera  Hombre  Azul  Gama Azules 12   X-La
 
 [![Springfield FR Ml Logo 1988 Sudadera  Ho](https://images-eu.ssl-images-amazon.com/images/I/41NFo7JxxpL._SL200_.jpg)](https://www.amazon.es/dp/B07DLFVYHJ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DLFVYHJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

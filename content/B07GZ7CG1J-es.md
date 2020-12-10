@@ -22,6 +22,9 @@ Tienes [Desigual Girl Knit Dress Sleeveless  Vest_yamena  Vestido  Blanco  White
 
 [![Desigual Girl Knit Dress Sleeveless  Ves](https://images-eu.ssl-images-amazon.com/images/I/418DVt5T-bL._SL200_.jpg)](https://www.amazon.es/dp/B07GZ7CG1J/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07GZ7CG1J/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [G-STAR RAW Graphic 41 T-shirt  Camiseta Hombre  Multicolor  dk black 6484
 
 [![G-STAR RAW Graphic 41 T-shirt  Camiseta ](https://images-eu.ssl-images-amazon.com/images/I/41C5-nAm32L._SL200_.jpg)](https://www.amazon.es/dp/B07M9QKJPK/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07M9QKJPK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

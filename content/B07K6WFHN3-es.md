@@ -22,6 +22,9 @@ Está [adidas Pred Trn J - Guantes de portero  Unisex niños  Active Solar Red/B
 
 [![adidas Pred Trn J - Guantes de portero  ](https://images-eu.ssl-images-amazon.com/images/I/41Rwq-bM8zL._SL200_.jpg)](https://www.amazon.es/dp/B07K6WFHN3/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07K6WFHN3/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

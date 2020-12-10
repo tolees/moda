@@ -22,6 +22,9 @@ Está [Levi s 501 Original Fit Vaqueros  Azul Marlon 0162   40W / 32L para Hombr
 
 [![Levi s 501 Original Fit Vaqueros  Azul M](https://images-eu.ssl-images-amazon.com/images/I/41-hU%2BtvkUL._SL200_.jpg)](https://www.amazon.es/dp/B01JYVEHRM/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01JYVEHRM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [LTB - Vaqueros straight para hombre  - vulcano  1332   W38/L30  38 ](htt
 
 [![LTB - Vaqueros straight para hombre  - v](https://images-eu.ssl-images-amazon.com/images/I/414H51jWsyL._SL200_.jpg)](https://www.amazon.es/dp/B00IWLGU30/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00IWLGU30/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

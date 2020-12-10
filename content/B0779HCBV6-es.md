@@ -22,6 +22,9 @@ Ahora mismo tienes [Pepe Jeans Bobie  Camiseta Mujer  Blanco  Off White   Large]
 
 [![Pepe Jeans Bobie  Camiseta Mujer  Blanco](https://images-eu.ssl-images-amazon.com/images/I/41aUnj1yS7L._SL200_.jpg)](https://www.amazon.es/dp/B0779HCBV6/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B0779HCBV6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

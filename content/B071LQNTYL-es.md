@@ -22,6 +22,9 @@ Ahora mismo tienes [Puma BVB Poly Camiseta de equipación  Hombre   Blanco/Plata
 
 [![Puma BVB Poly Camiseta de equipación  Ho](https://images-eu.ssl-images-amazon.com/images/I/41dHOcp%2BJDL._SL200_.jpg)](https://www.amazon.es/dp/B071LQNTYL/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B071LQNTYL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

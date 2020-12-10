@@ -22,6 +22,9 @@ Ahora mismo tienes [Under Armour Mk1 Short Pantalón Corto  Hombre  Azul Academy
 
 [![Under Armour Mk1 Short Pantalón Corto  H](https://images-eu.ssl-images-amazon.com/images/I/31iK1mZylyL._SL200_.jpg)](https://www.amazon.es/dp/B071F48CZV/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B071F48CZV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

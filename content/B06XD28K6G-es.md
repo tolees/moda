@@ -22,6 +22,9 @@ Está [Cortefiel 6717470  Vestido para Mujer  Naranja  M](https://www.amazon.es/
 
 [![Cortefiel 6717470  Vestido para Mujer  N](https://images-eu.ssl-images-amazon.com/images/I/41t8n66FwKL._SL200_.jpg)](https://www.amazon.es/dp/B06XD28K6G/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B06XD28K6G/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [DINOMADic | Unisexo Bambú Gafas de Sol Polarizadas en Caja de Madera Red
 
 [![DINOMADic | Unisexo Bambú Gafas de Sol P](https://images-eu.ssl-images-amazon.com/images/I/418RKN1HARL._SL200_.jpg)](https://www.amazon.es/dp/B07FSNRPVT/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FSNRPVT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

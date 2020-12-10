@@ -22,6 +22,9 @@ Está [The North Face Quest Pantalón  Mujer  TNF Black  SHT10](https://www.amaz
 
 [![The North Face Quest Pantalón  Mujer  TN](https://images-eu.ssl-images-amazon.com/images/I/31XlreAW-sL._SL200_.jpg)](https://www.amazon.es/dp/B07MCY9G87/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07MCY9G87/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

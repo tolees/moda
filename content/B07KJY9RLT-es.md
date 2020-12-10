@@ -22,6 +22,9 @@ Está [Quiksilver Spring Roll Sudadera con Capucha para Hombre  Amarillo  Rattan
 
 [![Quiksilver Spring Roll Sudadera con Capu](https://images-eu.ssl-images-amazon.com/images/I/41yvZdRTJgL._SL200_.jpg)](https://www.amazon.es/dp/B07KJY9RLT/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KJY9RLT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

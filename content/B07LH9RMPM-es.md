@@ -22,6 +22,9 @@ Está [The North Face S/S Celebration Easy tee Camiseta  Hombre  Asphalt Grey  M
 
 [![The North Face S/S Celebration Easy tee ](https://images-eu.ssl-images-amazon.com/images/I/41K-oq3NwNL._SL200_.jpg)](https://www.amazon.es/dp/B07LH9RMPM/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07LH9RMPM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

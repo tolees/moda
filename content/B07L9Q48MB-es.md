@@ -22,6 +22,9 @@ Está [Napapijri Sarja Camiseta   Fantasy F40   X-Large para Hombre](https://www
 
 [![Napapijri Sarja Camiseta   Fantasy F40  ](https://images-eu.ssl-images-amazon.com/images/I/41XXXmZNOLL._SL200_.jpg)](https://www.amazon.es/dp/B07L9Q48MB/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07L9Q48MB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

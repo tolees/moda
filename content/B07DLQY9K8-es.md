@@ -22,6 +22,9 @@ Tienes [Springfield 4.2.G.MD.Vestido Pata De Vestido  Mujer  Negro  Negro 1   38
 
 [![Springfield 4.2.G.MD.Vestido Pata De Ves](https://images-eu.ssl-images-amazon.com/images/I/31CCxOoYpcL._SL200_.jpg)](https://www.amazon.es/dp/B07DLQY9K8/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07DLQY9K8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

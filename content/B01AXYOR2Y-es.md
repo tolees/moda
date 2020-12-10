@@ -22,6 +22,9 @@ Tienes [Joma 900140.206 - Camiseta para Mujer  Color Blanco/Rojo  Talla L](https
 
 [![Joma 900140.206 - Camiseta para Mujer  C](https://images-eu.ssl-images-amazon.com/images/I/315YjdOXzlL._SL200_.jpg)](https://www.amazon.es/dp/B01AXYOR2Y/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01AXYOR2Y/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

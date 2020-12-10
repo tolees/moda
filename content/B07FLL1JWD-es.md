@@ -22,6 +22,9 @@ Ahora mismo tienes [Superdry Bailey Bodycon Dress  Vestido para Mujer  Negro  Bl
 
 [![Superdry Bailey Bodycon Dress  Vestido p](https://images-eu.ssl-images-amazon.com/images/I/31SdKreLjyL._SL200_.jpg)](https://www.amazon.es/dp/B07FLL1JWD/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07FLL1JWD/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

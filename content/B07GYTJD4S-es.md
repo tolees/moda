@@ -22,6 +22,9 @@ Ahora mismo tienes [LOVORDS Collar Mujer Grabado Plata de Ley 925 Colgante Perla
 
 [![LOVORDS Collar Mujer Grabado Plata de Le](https://images-eu.ssl-images-amazon.com/images/I/41qsR1ybrUL._SL200_.jpg)](https://www.amazon.es/dp/B07GYTJD4S/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07GYTJD4S/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

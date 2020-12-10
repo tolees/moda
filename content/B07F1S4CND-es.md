@@ -22,6 +22,9 @@ Tienes [Levi s 511 Fit  Vaqueros Slim para Hombre  Negro  Mineral Black 14W Warp
 
 [![Levi s 511 Fit  Vaqueros Slim para Hombr](https://images-eu.ssl-images-amazon.com/images/I/31ydQrw7xXL._SL200_.jpg)](https://www.amazon.es/dp/B07F1S4CND/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07F1S4CND/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

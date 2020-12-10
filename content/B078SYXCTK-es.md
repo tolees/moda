@@ -22,6 +22,9 @@ Tienes [Fila FU5016/2  Bóxer para Hombre  Negro  Black 200  X-Large  Tamaño de
 
 [![Fila FU5016/2  Bóxer para Hombre  Negro ](https://images-eu.ssl-images-amazon.com/images/I/41yT2ERFtLL._SL200_.jpg)](https://www.amazon.es/dp/B078SYXCTK/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B078SYXCTK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

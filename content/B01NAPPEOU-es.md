@@ -22,6 +22,9 @@ Está [Tommy Hilfiger WW0WW17638  Camiseta sin Mangas Para Mujer  Multicolor  Sn
 
 [![Tommy Hilfiger WW0WW17638  Camiseta sin ](https://images-eu.ssl-images-amazon.com/images/I/411i1%2BH2G%2BL._SL200_.jpg)](https://www.amazon.es/dp/B01NAPPEOU/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01NAPPEOU/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Under Armour BGS Jet 2018 3020948-002  Zapatos de Baloncesto Unisex Niñ
 
 [![Under Armour BGS Jet 2018 3020948-002  Z](https://images-eu.ssl-images-amazon.com/images/I/41BeApbe8HL._SL200_.jpg)](https://www.amazon.es/dp/B076TP59MR/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B076TP59MR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

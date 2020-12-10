@@ -22,6 +22,9 @@ Está [XTI 32055  Zapatos con Tira de Tobillo para Mujer  Negro  39 EU](https://
 
 [![XTI 32055  Zapatos con Tira de Tobillo p](https://images-eu.ssl-images-amazon.com/images/I/41K-62vA3UL._SL200_.jpg)](https://www.amazon.es/dp/B07JM42MWR/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07JM42MWR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

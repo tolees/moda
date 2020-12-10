@@ -22,6 +22,9 @@ Está [MTNG Collection 57561  Zapatos de Cordones Oxford para Mujer   Antil Negr
 
 [![MTNG Collection 57561  Zapatos de Cordon](https://images-eu.ssl-images-amazon.com/images/I/31tWnEIRk6L._SL200_.jpg)](https://www.amazon.es/dp/B07DQTL4R2/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DQTL4R2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

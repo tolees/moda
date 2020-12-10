@@ -22,6 +22,9 @@ Está [Fendi Brillengestelle FF 0011 7SR/17-53-17-135 Monturas de gafas  Marrón
 
 [![Fendi Brillengestelle FF 0011 7SR/17-53-](https://images-eu.ssl-images-amazon.com/images/I/31jeELu2K1L._SL200_.jpg)](https://www.amazon.es/dp/B00HUWQUB4/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00HUWQUB4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

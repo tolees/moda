@@ -22,6 +22,9 @@ Está [Springfield 8.T.Ap. Plumas BS con Gross G Chaqueta  Gama Azules 19   Tama
 
 [![Springfield 8.T.Ap. Plumas BS con Gross ](https://images-eu.ssl-images-amazon.com/images/I/41ILm4sZpSL._SL200_.jpg)](https://www.amazon.es/dp/B07DLFZGRP/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DLFZGRP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

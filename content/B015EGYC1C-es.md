@@ -22,6 +22,9 @@ Está [GUESS GU6865-5801A  Gafas de Sol para Hombre  Negro  58](https://www.amaz
 
 [![GUESS GU6865-5801A  Gafas de Sol para Ho](https://images-eu.ssl-images-amazon.com/images/I/31mM%2B9eMVzL._SL200_.jpg)](https://www.amazon.es/dp/B015EGYC1C/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B015EGYC1C/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

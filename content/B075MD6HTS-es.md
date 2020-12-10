@@ -22,6 +22,9 @@ Tienes [Ralph Lauren RALPH BY 0Ra5239 Gafas de sol  Yellow Tortoise  54 para Muj
 
 [![Ralph Lauren RALPH BY 0Ra5239 Gafas de s](https://images-eu.ssl-images-amazon.com/images/I/41yfdNRNIwL._SL200_.jpg)](https://www.amazon.es/dp/B075MD6HTS/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B075MD6HTS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Desigual TS_Flavia  Camiseta para Mujer    Negro 2000  Medium](https://ww
 
 [![Desigual TS_Flavia  Camiseta para Mujer ](https://images-eu.ssl-images-amazon.com/images/I/419bOuH6hkL._SL200_.jpg)](https://www.amazon.es/dp/B079SGQJZS/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B079SGQJZS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

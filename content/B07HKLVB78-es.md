@@ -22,6 +22,9 @@ Está [Mayoral 4440-30-4 Sudadera con Capucha  Niños  Verde  Kale 30   4 años 
 
 [![Mayoral 4440-30-4 Sudadera con Capucha  ](https://images-eu.ssl-images-amazon.com/images/I/41bMp5toSDL._SL200_.jpg)](https://www.amazon.es/dp/B07HKLVB78/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07HKLVB78/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

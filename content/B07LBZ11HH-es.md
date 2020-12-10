@@ -22,6 +22,9 @@ Tienes [Tom Tailor Casual 1007964 Chaqueta  Azul  Navy Stripe 15817   X-Large pa
 
 [![Tom Tailor Casual 1007964 Chaqueta  Azul](https://images-eu.ssl-images-amazon.com/images/I/41OQWBXZTUL._SL200_.jpg)](https://www.amazon.es/dp/B07LBZ11HH/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07LBZ11HH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

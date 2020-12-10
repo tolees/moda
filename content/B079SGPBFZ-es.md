@@ -22,6 +22,9 @@ Está [Desigual Padded_maca  Abrigo Mujer   Negro 2000   38  Talla fabricante: 4
 
 [![Desigual Padded_maca  Abrigo Mujer   Neg](https://images-eu.ssl-images-amazon.com/images/I/415-9E0ABuL._SL200_.jpg)](https://www.amazon.es/dp/B079SGPBFZ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B079SGPBFZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

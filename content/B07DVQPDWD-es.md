@@ -22,6 +22,9 @@ Está [Columbia Mujer Pantalón de Senderismo  Saturday Trail Pant  Nailon  Verd
 
 [![Columbia Mujer Pantalón de Senderismo  S](https://images-eu.ssl-images-amazon.com/images/I/318iorz3F2L._SL200_.jpg)](https://www.amazon.es/dp/B07DVQPDWD/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DVQPDWD/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

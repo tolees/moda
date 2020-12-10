@@ -22,6 +22,9 @@ Tienes [Levi s 511 Fit  Vaqueros Slim para Hombre  Azul  Sun Fade 2153   W30/L30
 
 [![Levi s 511 Fit  Vaqueros Slim para Hombr](https://images-eu.ssl-images-amazon.com/images/I/41kGSni97TL._SL200_.jpg)](https://www.amazon.es/dp/B077ZYTR7Z/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B077ZYTR7Z/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

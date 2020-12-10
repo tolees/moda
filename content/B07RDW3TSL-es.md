@@ -22,6 +22,9 @@ Está [AIni Mujer Verano De Playa Vestido De Lino De Verano Vestido Mujer Mujer 
 
 [![AIni Mujer Verano De Playa Vestido De Li](https://images-eu.ssl-images-amazon.com/images/I/313gsqLH8ZL._SL200_.jpg)](https://www.amazon.es/dp/B07RDW3TSL/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07RDW3TSL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

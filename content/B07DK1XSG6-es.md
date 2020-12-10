@@ -22,6 +22,9 @@ Ahora mismo tienes [Geox Jr Sandal Roxanne B  Sandalias Punta Cerrada para Niña
 
 [![Geox Jr Sandal Roxanne B  Sandalias Punt](https://images-eu.ssl-images-amazon.com/images/I/41U-H8ZwQaL._SL200_.jpg)](https://www.amazon.es/dp/B07DK1XSG6/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07DK1XSG6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

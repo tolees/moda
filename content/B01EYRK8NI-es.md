@@ -22,6 +22,9 @@ Tienes [oodji Ultra Mujer Vestido de Punto Estampado Gráfico  Naranja  ES 36 / 
 
 [![oodji Ultra Mujer Vestido de Punto Estam](https://images-eu.ssl-images-amazon.com/images/I/415pShmDtJL._SL200_.jpg)](https://www.amazon.es/dp/B01EYRK8NI/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01EYRK8NI/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

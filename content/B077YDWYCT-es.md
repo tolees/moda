@@ -22,6 +22,9 @@ Ahora mismo tienes [HIKARO Chaqueta Ligera Estilo Parka con Capucha Mujer  Verde
 
 [![HIKARO Chaqueta Ligera Estilo Parka con ](https://images-eu.ssl-images-amazon.com/images/I/41tLLVXNdVL._SL200_.jpg)](https://www.amazon.es/dp/B077YDWYCT/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B077YDWYCT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

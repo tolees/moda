@@ -22,6 +22,9 @@ Está [Batman Logo Camiseta  Gris  Sports Grey   Large para Hombre](https://www.
 
 [![Batman Logo Camiseta  Gris  Sports Grey ](https://images-eu.ssl-images-amazon.com/images/I/41OJFKOFF-L._SL200_.jpg)](https://www.amazon.es/dp/B06Y69LSP4/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B06Y69LSP4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

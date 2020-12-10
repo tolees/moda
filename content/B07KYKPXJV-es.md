@@ -22,6 +22,9 @@ Está [Springfield 3.Gym.MD.Midi Boto Vestido  Gama Marrones 36  Medium  Tamaño
 
 [![Springfield 3.Gym.MD.Midi Boto Vestido  ](https://images-eu.ssl-images-amazon.com/images/I/31o7qTQebEL._SL200_.jpg)](https://www.amazon.es/dp/B07KYKPXJV/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KYKPXJV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

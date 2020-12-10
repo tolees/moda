@@ -22,6 +22,9 @@ Está [Geox D Jaysen a  Zapatillas para Mujer  Dorado  Champagne/Gold Cb52x   38
 
 [![Geox D Jaysen a  Zapatillas para Mujer  ](https://images-eu.ssl-images-amazon.com/images/I/41bb0IhywjL._SL200_.jpg)](https://www.amazon.es/dp/B07DJC8S55/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DJC8S55/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

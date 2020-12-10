@@ -22,6 +22,9 @@ Está [eleMar Tankini Bikini  Mujer  Negro  Schwarz-Nelke-Weiß/Schwarz   42D](
 
 [![eleMar Tankini Bikini  Mujer  Negro  Sch](https://images-eu.ssl-images-amazon.com/images/I/515KpvQ8ygL._SL200_.jpg)](https://www.amazon.es/dp/B00W7WGW9M/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00W7WGW9M/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

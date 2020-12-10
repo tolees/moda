@@ -22,6 +22,9 @@ Está [Canterbury Oficial de la Rugby World Cup 2019 Camiseta de Algodón  Hombr
 
 [![Canterbury Oficial de la Rugby World Cup](https://images-eu.ssl-images-amazon.com/images/I/311JpgYNE5L._SL200_.jpg)](https://www.amazon.es/dp/B07JHVG6SQ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07JHVG6SQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

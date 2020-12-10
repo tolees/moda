@@ -22,6 +22,9 @@ Está [Lee Daren Zip Fly Vaqueros rectors Rectos  Negro  Black Night Gz   34W/36
 
 [![Lee Daren Zip Fly Vaqueros rectors Recto](https://images-eu.ssl-images-amazon.com/images/I/31oaB37SkwL._SL200_.jpg)](https://www.amazon.es/dp/B079K5D1VH/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B079K5D1VH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

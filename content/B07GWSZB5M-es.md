@@ -22,6 +22,9 @@ Tienes [Levi s Levis 200sf Aloha Print Boxer Brief 2p  Negro  Caviar 703   Small
 
 [![Levi s Levis 200sf Aloha Print Boxer Bri](https://images-eu.ssl-images-amazon.com/images/I/518OwWX%2BIcL._SL200_.jpg)](https://www.amazon.es/dp/B07GWSZB5M/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07GWSZB5M/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

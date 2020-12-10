@@ -22,6 +22,9 @@ Está [Love Moschino Tess.Jacquard NATU+PU  bolso bandolera para Mujer  Multicol
 
 [![Love Moschino Tess.Jacquard NATU+PU  bol](https://images-eu.ssl-images-amazon.com/images/I/51TFtnpNGXL._SL200_.jpg)](https://www.amazon.es/dp/B07KCSRNNW/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KCSRNNW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

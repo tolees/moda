@@ -22,6 +22,9 @@ Está [Springfield 6.J.Ap.T.Bimateria Bordad Jersey  Mujer  Rosa  Gama Rosas/mor
 
 [![Springfield 6.J.Ap.T.Bimateria Bordad Je](https://images-eu.ssl-images-amazon.com/images/I/415HcsPqYFL._SL200_.jpg)](https://www.amazon.es/dp/B07DLK4M2M/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DLK4M2M/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

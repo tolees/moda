@@ -22,6 +22,9 @@ Está [Springfield 4.J.Ap.T.Rayas Glitter Jersey  Beige  Ivory   Large  Tamaño 
 
 [![Springfield 4.J.Ap.T.Rayas Glitter Jerse](https://images-eu.ssl-images-amazon.com/images/I/51bJzAM8r3L._SL200_.jpg)](https://www.amazon.es/dp/B0748GRLVW/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0748GRLVW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

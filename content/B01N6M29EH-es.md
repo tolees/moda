@@ -22,6 +22,9 @@ Tienes [Pepe Jeans Saturn Vaqueros  Azul  10Oz Stretch Ultra Dk H06   25W / 32L 
 
 [![Pepe Jeans Saturn Vaqueros  Azul  10Oz S](https://images-eu.ssl-images-amazon.com/images/I/41PF7crqbNL._SL200_.jpg)](https://www.amazon.es/dp/B01N6M29EH/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01N6M29EH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

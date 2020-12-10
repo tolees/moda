@@ -22,6 +22,9 @@ Está [L-RUN Mujeres Botas de Nieve para Hombre Slip On Winter Boots Botines Zap
 
 [![L-RUN Mujeres Botas de Nieve para Hombre](https://images-eu.ssl-images-amazon.com/images/I/41F1fUYDMKL._SL200_.jpg)](https://www.amazon.es/dp/B07GZGXD9G/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07GZGXD9G/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [HUGO Elisha01  Camisa Hombre  Blanco  Open White 199   XX-Large](https://
 
 [![HUGO Elisha01  Camisa Hombre  Blanco  Op](https://images-eu.ssl-images-amazon.com/images/I/31WYDviWdVL._SL200_.jpg)](https://www.amazon.es/dp/B079ZFZCYC/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B079ZFZCYC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Diesel 00SH0I Camiseta  Hombre  Gris  912 912   Medium  Tamaño del Fabr
 
 [![Diesel 00SH0I Camiseta  Hombre  Gris  91](https://images-eu.ssl-images-amazon.com/images/I/41hmFrCgkiL._SL200_.jpg)](https://www.amazon.es/dp/B07C5JYYSX/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07C5JYYSX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

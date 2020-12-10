@@ -22,6 +22,9 @@ Está [Joma 900140.650 - Camiseta para Mujer  Color Burdeos  Talla 2XS](https://
 
 [![Joma 900140.650 - Camiseta para Mujer  C](https://images-eu.ssl-images-amazon.com/images/I/31Tem7C6gDL._SL200_.jpg)](https://www.amazon.es/dp/B01AXYMIHA/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01AXYMIHA/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

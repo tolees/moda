@@ -22,6 +22,9 @@ Tienes [New Look Button Through Tea Vestido  Negro  Black 1   34  Talla del Fabr
 
 [![New Look Button Through Tea Vestido  Neg](https://images-eu.ssl-images-amazon.com/images/I/31RzvOKcbcL._SL200_.jpg)](https://www.amazon.es/dp/B07P67KF1L/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07P67KF1L/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

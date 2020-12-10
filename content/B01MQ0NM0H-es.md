@@ -22,6 +22,9 @@ Está [SELECTED FEMME SFDYNELLA LS SHIRT  Blusa Mujer  Azul  Ombre Blue   38](ht
 
 [![SELECTED FEMME SFDYNELLA LS SHIRT  Blusa](https://images-eu.ssl-images-amazon.com/images/I/41XTHAyDgpL._SL200_.jpg)](https://www.amazon.es/dp/B01MQ0NM0H/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01MQ0NM0H/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

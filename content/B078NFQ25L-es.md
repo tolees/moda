@@ -22,6 +22,9 @@ Está [Columbia Lake 22 Down Jacket Chaqueta  Hombre  Mosstone  Talla M](https:/
 
 [![Columbia Lake 22 Down Jacket Chaqueta  H](https://images-eu.ssl-images-amazon.com/images/I/41ZCv0sdU6L._SL200_.jpg)](https://www.amazon.es/dp/B078NFQ25L/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B078NFQ25L/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

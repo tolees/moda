@@ -22,6 +22,9 @@ Ahora mismo tienes [Kayhan Hombre Camisa  TwoFace Black L](https://www.amazon.es
 
 [![Kayhan Hombre Camisa  TwoFace Black L](https://images-eu.ssl-images-amazon.com/images/I/41CcCn8KthL._SL200_.jpg)](https://www.amazon.es/dp/B00ZQ4MY22/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00ZQ4MY22/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

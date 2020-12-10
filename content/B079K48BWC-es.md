@@ -22,6 +22,9 @@ Está [Lee Scarlett Jeans Vaqueros Skinny  Negro  Black Rinse 47   W25/L29 para 
 
 [![Lee Scarlett Jeans Vaqueros Skinny  Negr](https://images-eu.ssl-images-amazon.com/images/I/41IY5xULYCL._SL200_.jpg)](https://www.amazon.es/dp/B079K48BWC/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B079K48BWC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [BILLABONG All Day Crew Jersey  Hombre  Verde  Military 176   X-Small  Tam
 
 [![BILLABONG All Day Crew Jersey  Hombre  V](https://images-eu.ssl-images-amazon.com/images/I/41mwelPkkML._SL200_.jpg)](https://www.amazon.es/dp/B07F34XQ8C/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07F34XQ8C/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

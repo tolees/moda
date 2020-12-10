@@ -22,6 +22,9 @@ Tienes [FIND Blusa Semitrasparente con Bajo de Encaje para Mujer   Rosa  Old Ros
 
 [![FIND Blusa Semitrasparente con Bajo de E](https://images-eu.ssl-images-amazon.com/images/I/41f5K70uRDL._SL200_.jpg)](https://www.amazon.es/dp/B01N5FOXCF/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01N5FOXCF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

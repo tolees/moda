@@ -22,6 +22,9 @@ Está [Columbia 1832222 Powder Pass Vest Chaleco  Nylon  Hombre  Azul  Carbon   
 
 [![Columbia 1832222 Powder Pass Vest Chalec](https://images-eu.ssl-images-amazon.com/images/I/410E1zASdUL._SL200_.jpg)](https://www.amazon.es/dp/B07KSQ9TR6/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KSQ9TR6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

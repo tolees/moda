@@ -22,6 +22,9 @@ Está [Only Onlmaye 3/4 V-Neck Dress CC Knt  Vestido para Mujer   Night Sky Stri
 
 [![Only Onlmaye 3/4 V-Neck Dress CC Knt  Ve](https://images-eu.ssl-images-amazon.com/images/I/41edAUwmO8L._SL200_.jpg)](https://www.amazon.es/dp/B07FFB8HX1/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FFB8HX1/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

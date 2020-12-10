@@ -22,6 +22,9 @@ Tienes [Cross - Vaqueros Skinny fit para Mujer  Talla W29/L34  29   Color Azul  
 
 [![Cross - Vaqueros Skinny fit para Mujer  ](https://images-eu.ssl-images-amazon.com/images/I/41Obyoh0koL._SL200_.jpg)](https://www.amazon.es/dp/B00FWOYXNY/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00FWOYXNY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

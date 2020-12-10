@@ -22,6 +22,9 @@ Está [Reef Escape Lux Print Rose Shibori  Chanclas para Mujer  41 EU](https://w
 
 [![Reef Escape Lux Print Rose Shibori  Chan](https://images-eu.ssl-images-amazon.com/images/I/51r7f3AKkUL._SL200_.jpg)](https://www.amazon.es/dp/B01M24UTEV/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01M24UTEV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

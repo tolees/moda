@@ -22,6 +22,9 @@ Está [Love Moschino Dress Vestido  Negro  Black C74   38  Talla del Fabricante:
 
 [![Love Moschino Dress Vestido  Negro  Blac](https://images-eu.ssl-images-amazon.com/images/I/31%2B2PZv8mFL._SL200_.jpg)](https://www.amazon.es/dp/B071FB8JYF/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B071FB8JYF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

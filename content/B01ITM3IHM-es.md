@@ -22,6 +22,9 @@ Está [DC Comics Batman Badge - Sudadera Niñas  Gris  Sports Grey   5-6 años  
 
 [![DC Comics Batman Badge - Sudadera Niñas ](https://images-eu.ssl-images-amazon.com/images/I/51ZCgadkrbL._SL200_.jpg)](https://www.amazon.es/dp/B01ITM3IHM/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01ITM3IHM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

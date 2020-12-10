@@ -22,6 +22,9 @@ Está [Mayoral 4462  Sudadera con Capucha para Niñas   Rojo 82   6 años  Tama�
 
 [![Mayoral 4462  Sudadera con Capucha para ](https://images-eu.ssl-images-amazon.com/images/I/41gf37OjcwL._SL200_.jpg)](https://www.amazon.es/dp/B07HM2HN7B/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07HM2HN7B/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

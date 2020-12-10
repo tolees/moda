@@ -22,6 +22,9 @@ Ahora mismo tienes [Cressi Rocker Gafas de Sol  Unisex Adulto  Negro/Lentes Refl
 
 [![Cressi Rocker Gafas de Sol  Unisex Adult](https://images-eu.ssl-images-amazon.com/images/I/41dXRXUDBAL._SL200_.jpg)](https://www.amazon.es/dp/B01JRV1LNC/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01JRV1LNC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

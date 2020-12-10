@@ -22,6 +22,9 @@ Ahora mismo tienes [find. find. Blusa de Cuello Alto para Mujer  Blusa Mujer  Ro
 
 [![find. find. Blusa de Cuello Alto para Mu](https://images-eu.ssl-images-amazon.com/images/I/415I6jc4oZL._SL200_.jpg)](https://www.amazon.es/dp/B071FJCW9K/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B071FJCW9K/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

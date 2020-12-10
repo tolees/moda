@@ -22,6 +22,9 @@ Está [Diesel 00S0EC Vaqueros Skinny  Azul  Denim 01   W28/L32 para Mujer](https
 
 [![Diesel 00S0EC Vaqueros Skinny  Azul  Den](https://images-eu.ssl-images-amazon.com/images/I/41x7ak69gmL._SL200_.jpg)](https://www.amazon.es/dp/B078R4TGCK/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B078R4TGCK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

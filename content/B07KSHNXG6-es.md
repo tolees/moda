@@ -22,6 +22,9 @@ Está [REPLAY Karyna Vaqueros Slim  Verde  Sage Green 130   W31/L28  Talla del F
 
 [![REPLAY Karyna Vaqueros Slim  Verde  Sage](https://images-eu.ssl-images-amazon.com/images/I/31Q-T8cOFWL._SL200_.jpg)](https://www.amazon.es/dp/B07KSHNXG6/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KSHNXG6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

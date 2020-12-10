@@ -22,6 +22,9 @@ Está [VERO MODA VMORCHIDA 3/4 SHORT BLOUSE LOC  suéter Mujer  Rojo  Decadent C
 
 [![VERO MODA VMORCHIDA 3/4 SHORT BLOUSE LOC](https://images-eu.ssl-images-amazon.com/images/I/51evMVWz4pL._SL200_.jpg)](https://www.amazon.es/dp/B01LWI8X1C/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01LWI8X1C/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

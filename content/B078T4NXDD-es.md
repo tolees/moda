@@ -22,6 +22,9 @@ Está [Puma Liga Training Jr Sudadera  Unisex niños  Red/White  164](https://ww
 
 [![Puma Liga Training Jr Sudadera  Unisex n](https://images-eu.ssl-images-amazon.com/images/I/41zTwPRmiYL._SL200_.jpg)](https://www.amazon.es/dp/B078T4NXDD/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B078T4NXDD/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

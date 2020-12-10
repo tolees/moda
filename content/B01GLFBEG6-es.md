@@ -22,6 +22,9 @@ Está [Carrera Junior CARRERINO 16 JI D28  Gafas de sol Unisex-Niño  Negro  Shi
 
 [![Carrera Junior CARRERINO 16 JI D28  Gafa](https://images-eu.ssl-images-amazon.com/images/I/313KFMDynwL._SL200_.jpg)](https://www.amazon.es/dp/B01GLFBEG6/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01GLFBEG6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [adidas M AOP SWT Sudadera  Hombre  Negro/Blanco  XS](https://www.amazon.e
 
 [![adidas M AOP SWT Sudadera  Hombre  Negro](https://images-eu.ssl-images-amazon.com/images/I/41CXiqdpZqL._SL200_.jpg)](https://www.amazon.es/dp/B07M7PQQ86/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07M7PQQ86/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

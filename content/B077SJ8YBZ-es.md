@@ -22,6 +22,9 @@ Está [Puma Evostripe Sweat tee Camiseta  Mujer  Rosa  Pearl   S](https://www.am
 
 [![Puma Evostripe Sweat tee Camiseta  Mujer](https://images-eu.ssl-images-amazon.com/images/I/41dY6Kcx%2B0L._SL200_.jpg)](https://www.amazon.es/dp/B077SJ8YBZ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B077SJ8YBZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

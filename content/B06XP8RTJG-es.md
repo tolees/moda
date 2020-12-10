@@ -22,6 +22,9 @@ Ahora mismo tienes [Desigual Fal_alpens  Falda para Niñas   Negro 2000   104  T
 
 [![Desigual Fal_alpens  Falda para Niñas   ](https://images-eu.ssl-images-amazon.com/images/I/51YIYJGTqgL._SL200_.jpg)](https://www.amazon.es/dp/B06XP8RTJG/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B06XP8RTJG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Kappa Milla Jersey  Zapatillas para Mujer  Gris  1610 Grey/W
 
 [![Kappa Milla Jersey  Zapatillas para Muje](https://images-eu.ssl-images-amazon.com/images/I/413uJ1UMNBL._SL200_.jpg)](https://www.amazon.es/dp/B01EVKA1LW/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01EVKA1LW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

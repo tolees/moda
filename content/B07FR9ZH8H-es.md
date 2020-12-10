@@ -22,6 +22,9 @@ Tienes [Clarks Dalia Rose  Zapatos de Tacón para Mujer  Gris  Grey/Blue-   36 E
 
 [![Clarks Dalia Rose  Zapatos de Tacón para](https://images-eu.ssl-images-amazon.com/images/I/41Y7w-cUlGL._SL200_.jpg)](https://www.amazon.es/dp/B07FR9ZH8H/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07FR9ZH8H/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

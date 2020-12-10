@@ -22,6 +22,9 @@ Tienes [New Look Maternity Underbump Black Jegging  Vaqueros Skinny Mujer  Negro
 
 [![New Look Maternity Underbump Black Jeggi](https://images-eu.ssl-images-amazon.com/images/I/31BLnexmatL._SL200_.jpg)](https://www.amazon.es/dp/B06XGX9WKR/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B06XGX9WKR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

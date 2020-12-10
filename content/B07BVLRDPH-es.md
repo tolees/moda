@@ -22,6 +22,9 @@ Está [Gfas De Sol Mujer Gato Ojos  Grande Oversized Gafas Moda Tendencia Diseñ
 
 [![Gfas De Sol Mujer Gato Ojos  Grande Over](https://images-eu.ssl-images-amazon.com/images/I/41nOgbZzv-L._SL200_.jpg)](https://www.amazon.es/dp/B07BVLRDPH/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07BVLRDPH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

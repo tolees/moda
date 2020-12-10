@@ -22,6 +22,9 @@ Tienes [Springfield 6792944 Camisa  Azul  Blue   Tamaño del Fabricante:40 para 
 
 [![Springfield 6792944 Camisa  Azul  Blue  ](https://images-eu.ssl-images-amazon.com/images/I/51fo%2Bbjq8tL._SL200_.jpg)](https://www.amazon.es/dp/B0768GD3WL/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B0768GD3WL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

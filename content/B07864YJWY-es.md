@@ -22,6 +22,9 @@ Está [PUMA 655646 01 Camiseta de Equipación  Niños  Rojo  Rojo/Blanco   140](
 
 [![PUMA 655646 01 Camiseta de Equipación  N](https://images-eu.ssl-images-amazon.com/images/I/51n2-IVLPQL._SL200_.jpg)](https://www.amazon.es/dp/B07864YJWY/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07864YJWY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

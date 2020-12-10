@@ -22,6 +22,9 @@ Tienes [NUBILY Bolso Bandolera Impermeable Bolsos Mochila con USB y Orificio par
 
 [![NUBILY Bolso Bandolera Impermeable Bolso](https://images-eu.ssl-images-amazon.com/images/I/41MZc5%2BG3aL._SL200_.jpg)](https://www.amazon.es/dp/B07R8YX9W3/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07R8YX9W3/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

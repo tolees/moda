@@ -22,6 +22,9 @@ Está [Vero Moda Vmhot Nine HW Dnm Pencil Skirt Mix Noos Falda  Negro Black  34 
 
 [![Vero Moda Vmhot Nine HW Dnm Pencil Skirt](https://images-eu.ssl-images-amazon.com/images/I/31-WCA8H24L._SL200_.jpg)](https://www.amazon.es/dp/B075Z5H2VJ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B075Z5H2VJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

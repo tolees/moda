@@ -22,6 +22,9 @@ Está [G-STAR RAW Midge Saddle Mid Straight Wmn New  Vaqueros Mujer  Negro  Rins
 
 [![G-STAR RAW Midge Saddle Mid Straight Wmn](https://images-eu.ssl-images-amazon.com/images/I/41M6KOyiNqL._SL200_.jpg)](https://www.amazon.es/dp/B071VD44YN/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B071VD44YN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

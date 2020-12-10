@@ -22,6 +22,9 @@ Está [Cortefiel C0Cb Oxford Liso TBD Camisa Casual   Blanco 99   Large  Tamaño
 
 [![Cortefiel C0Cb Oxford Liso TBD Camisa Ca]()](https://www.amazon.es/dp/B07KZ5VHP7/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KZ5VHP7/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

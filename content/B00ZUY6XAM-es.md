@@ -22,6 +22,9 @@ Tienes [REEF Fanning  Sandalias Flip-Flop para Hombre  Negro  Black / Silver   4
 
 [![REEF Fanning  Sandalias Flip-Flop para H](https://images-eu.ssl-images-amazon.com/images/I/31OHKcm5WGL._SL200_.jpg)](https://www.amazon.es/dp/B00ZUY6XAM/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00ZUY6XAM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

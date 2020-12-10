@@ -22,6 +22,9 @@ Está [New Look Barry Vaqueros Skinny  Blanco  White 10   W36/L30  Talla del Fab
 
 [![New Look Barry Vaqueros Skinny  Blanco  ](https://images-eu.ssl-images-amazon.com/images/I/31PRftyZS7L._SL200_.jpg)](https://www.amazon.es/dp/B07RJGB57Y/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07RJGB57Y/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

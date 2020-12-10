@@ -22,6 +22,9 @@ Está [The North Face Blocked FZ HD Sudadera con Capucha  Cremallera Integral y 
 
 [![The North Face Blocked FZ HD Sudadera co](https://images-eu.ssl-images-amazon.com/images/I/41fh1kTYvGL._SL200_.jpg)](https://www.amazon.es/dp/B07M9CLJVP/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07M9CLJVP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

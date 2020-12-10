@@ -22,6 +22,9 @@ Está [Pepe Jeans Hiddleston PM305474  Camisa para Hombre  Azul  Indigo 561  X-L
 
 [![Pepe Jeans Hiddleston PM305474  Camisa p](https://images-eu.ssl-images-amazon.com/images/I/41lYy0fjg4L._SL200_.jpg)](https://www.amazon.es/dp/B079RSZZTY/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B079RSZZTY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

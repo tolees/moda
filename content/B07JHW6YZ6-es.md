@@ -22,6 +22,9 @@ Está [Puma Modern Sports Graphic tee Camiseta  Mujer  Azul  Fair Aqua/Silver   
 
 [![Puma Modern Sports Graphic tee Camiseta ](https://images-eu.ssl-images-amazon.com/images/I/31BWQ8twwzL._SL200_.jpg)](https://www.amazon.es/dp/B07JHW6YZ6/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07JHW6YZ6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

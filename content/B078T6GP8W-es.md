@@ -22,6 +22,9 @@ Ahora mismo tienes [Tommy Hilfiger Essential TH Beach Sandal  Chanclas para Homb
 
 [![Tommy Hilfiger Essential TH Beach Sandal](https://images-eu.ssl-images-amazon.com/images/I/41ZlTwsoqhL._SL200_.jpg)](https://www.amazon.es/dp/B078T6GP8W/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B078T6GP8W/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Naf Naf Keng9 Chaqueta Punto  Negro  Noir 625   Large para M
 
 [![Naf Naf Keng9 Chaqueta Punto  Negro  Noi](https://images-eu.ssl-images-amazon.com/images/I/41WzOfe%2Bc2L._SL200_.jpg)](https://www.amazon.es/dp/B07KKTT8C5/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07KKTT8C5/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

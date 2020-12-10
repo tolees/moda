@@ -22,6 +22,9 @@ Está [BOSS Toxx Camiseta  Verde  Open Green 346   XX-Large para Hombre](https:/
 
 [![BOSS Toxx Camiseta  Verde  Open Green 34](https://images-eu.ssl-images-amazon.com/images/I/31rRYmbmJrL._SL200_.jpg)](https://www.amazon.es/dp/B07KGFHB6S/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KGFHB6S/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

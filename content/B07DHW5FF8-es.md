@@ -22,6 +22,9 @@ Ahora mismo tienes [United Colors of Benetton Jacket, Chaqueta para Hombre, Marr
 
 [![United Colors of Benetton Jacket, Chaque](https://images-eu.ssl-images-amazon.com/images/I/41h7RVuOshL._SL200_.jpg)](https://www.amazon.es/dp/B07DHW5FF8/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07DHW5FF8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

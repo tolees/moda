@@ -22,6 +22,9 @@ Tienes [KSQS 925 Plata esterlina árbol de la Vida 5A Cubic Zirconia Cristales d
 
 [![KSQS 925 Plata esterlina árbol de la Vid](https://images-eu.ssl-images-amazon.com/images/I/41rSKLB4IEL._SL200_.jpg)](https://www.amazon.es/dp/B07HFR8BLH/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07HFR8BLH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

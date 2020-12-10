@@ -22,6 +22,9 @@ Ahora mismo tienes [Lacoste L1212 Camiseta Polo  Azul  Ruisseau T01   S  Talla d
 
 [![Lacoste L1212 Camiseta Polo  Azul  Ruiss](https://images-eu.ssl-images-amazon.com/images/I/31xfEBO8oGL._SL200_.jpg)](https://www.amazon.es/dp/B002LU3E6E/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B002LU3E6E/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Hackett London Dots and Crosses Print Camisa  Azul  XL para Hombre](http
 
 [![Hackett London Dots and Crosses Print Ca](https://images-eu.ssl-images-amazon.com/images/I/41fLGK8R6JL._SL200_.jpg)](https://www.amazon.es/dp/B079QMQK2T/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B079QMQK2T/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

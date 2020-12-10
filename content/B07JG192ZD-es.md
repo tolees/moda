@@ -22,6 +22,9 @@ Está [Lacoste Sh6382 Sudadera  Verde  Vert 132   Medium  Talla del Fabricante: 
 
 [![Lacoste Sh6382 Sudadera  Verde  Vert 132](https://images-eu.ssl-images-amazon.com/images/I/418dqP4HyuL._SL200_.jpg)](https://www.amazon.es/dp/B07JG192ZD/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07JG192ZD/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

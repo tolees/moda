@@ -22,6 +22,9 @@ Está [Tommy Jeans Hombre Essential Split Box  Camiseta Manga Corta  Blanco  Cla
 
 [![Tommy Jeans Hombre Essential Split Box  ](https://images-eu.ssl-images-amazon.com/images/I/41v8aozPeFL._SL200_.jpg)](https://www.amazon.es/dp/B07HH1M83H/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07HH1M83H/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [WEILLCCE Bolso de Móvil Bolsos para Mujer Mini Bolsos Bolso
 
 [![WEILLCCE Bolso de Móvil Bolsos para Muje](https://images-eu.ssl-images-amazon.com/images/I/41JRq3tB6rL._SL200_.jpg)](https://www.amazon.es/dp/B07FZ4NDPR/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07FZ4NDPR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

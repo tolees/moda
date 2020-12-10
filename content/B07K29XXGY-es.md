@@ -22,6 +22,9 @@ Tienes [New Look Trim Lined 5545424  Parka para Mujer  Beige  Stone 16  38  Tall
 
 [![New Look Trim Lined 5545424  Parka para ](https://images-eu.ssl-images-amazon.com/images/I/41ClcqUr5UL._SL200_.jpg)](https://www.amazon.es/dp/B07K29XXGY/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07K29XXGY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

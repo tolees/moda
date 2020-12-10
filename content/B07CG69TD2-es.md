@@ -22,6 +22,9 @@ Tienes [Collar de madre e hijo Koooper  Te amo  Plata joyas para mujer  Collare
 
 [![Collar de madre e hijo Koooper  Te amo  ](https://images-eu.ssl-images-amazon.com/images/I/41d10yXOT0L._SL200_.jpg)](https://www.amazon.es/dp/B07CG69TD2/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07CG69TD2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

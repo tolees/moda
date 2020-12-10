@@ -22,6 +22,9 @@ Tienes [Burton Vida Pantalón de Snowboard  Mujer  Negro  True   L](https://www.
 
 [![Burton Vida Pantalón de Snowboard  Mujer](https://images-eu.ssl-images-amazon.com/images/I/31mmPS8PXcL._SL200_.jpg)](https://www.amazon.es/dp/B06XN69KSG/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B06XN69KSG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

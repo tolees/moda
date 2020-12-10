@@ -22,6 +22,9 @@ Está [KONVINIT Guantes de Ciclismo  Guantes Pantalla Táctil Acolchados en Gel 
 
 [![KONVINIT Guantes de Ciclismo  Guantes Pa](https://images-eu.ssl-images-amazon.com/images/I/41qZ-PMJbgL._SL200_.jpg)](https://www.amazon.es/dp/B07GYZRYLP/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07GYZRYLP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

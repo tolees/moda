@@ -22,6 +22,9 @@ Ahora mismo tienes [Clarks Un Voyageplain  Zapatos de Cordones Derby para Hombre
 
 [![Clarks Un Voyageplain  Zapatos de Cordon](https://images-eu.ssl-images-amazon.com/images/I/31q9Fp15rYL._SL200_.jpg)](https://www.amazon.es/dp/B07B97NVYD/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07B97NVYD/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [KRISP Vestido Corto Ajustado Moda Mujer  Burdeos/Negro  6609   40  6609-W
 
 [![KRISP Vestido Corto Ajustado Moda Mujer ](https://images-eu.ssl-images-amazon.com/images/I/51TYJIoiD8L._SL200_.jpg)](https://www.amazon.es/dp/B075TG1FK9/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B075TG1FK9/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [PIECES Pcgaia 2/4 Midi Lace Dress  Vestido Mujer  Negro  Black Black   3
 
 [![PIECES Pcgaia 2/4 Midi Lace Dress  Vesti](https://images-eu.ssl-images-amazon.com/images/I/41y-pSB3HEL._SL200_.jpg)](https://www.amazon.es/dp/B078VQ9KMJ/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B078VQ9KMJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

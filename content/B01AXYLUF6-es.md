@@ -22,6 +22,9 @@ Está [Joma 900140.900 - Camiseta para Mujer  Color Amarillo  Talla 4XS-3XS](htt
 
 [![Joma 900140.900 - Camiseta para Mujer  C](https://images-eu.ssl-images-amazon.com/images/I/41SVEWYCWbL._SL200_.jpg)](https://www.amazon.es/dp/B01AXYLUF6/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01AXYLUF6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

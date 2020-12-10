@@ -22,6 +22,9 @@ Está [Cortefiel Vestido Manga Larga   Varios 3   Medium para Mujer](https://www
 
 [![Cortefiel Vestido Manga Larga   Varios 3](https://images-eu.ssl-images-amazon.com/images/I/41q6pw%2BgefL._SL200_.jpg)](https://www.amazon.es/dp/B078WTNK7M/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B078WTNK7M/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

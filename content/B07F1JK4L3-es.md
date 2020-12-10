@@ -22,6 +22,9 @@ Tienes [Zapatos de Seguridad para Hombre con Puntera de Acero Zapatillas de Segu
 
 [![Zapatos de Seguridad para Hombre con Pun](https://images-eu.ssl-images-amazon.com/images/I/41ifAxlUKGL._SL200_.jpg)](https://www.amazon.es/dp/B07F1JK4L3/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07F1JK4L3/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

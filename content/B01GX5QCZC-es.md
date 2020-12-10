@@ -22,6 +22,9 @@ Tienes [Wrangler Regular Fit Straight Leg Vaqueros  Azul  Stonewash   35W / 32L 
 
 [![Wrangler Regular Fit Straight Leg Vaquer](https://images-eu.ssl-images-amazon.com/images/I/41UByBmOboL._SL200_.jpg)](https://www.amazon.es/dp/B01GX5QCZC/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01GX5QCZC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

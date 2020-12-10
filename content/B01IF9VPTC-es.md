@@ -22,6 +22,9 @@ Está [The North Face M Glacier Delta 1/4 Zip Jersey  Hombre  Negro  Tnf Black  
 
 [![The North Face M Glacier Delta 1/4 Zip J](https://images-eu.ssl-images-amazon.com/images/I/41w1ag5wLXL._SL200_.jpg)](https://www.amazon.es/dp/B01IF9VPTC/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01IF9VPTC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

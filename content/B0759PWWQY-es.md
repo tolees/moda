@@ -22,6 +22,9 @@ Tienes [Clarks Kessell Craft  Zapatos de Cordones Derby para Hombre  Azul  Blue 
 
 [![Clarks Kessell Craft  Zapatos de Cordone](https://images-eu.ssl-images-amazon.com/images/I/415kDZ8WhkL._SL200_.jpg)](https://www.amazon.es/dp/B0759PWWQY/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B0759PWWQY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

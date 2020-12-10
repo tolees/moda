@@ -22,6 +22,9 @@ Está [G-STAR RAW Whistler Quilted HDD Bomber  Chaqueta Hombre  Negro  Dk Black 
 
 [![G-STAR RAW Whistler Quilted HDD Bomber  ](https://images-eu.ssl-images-amazon.com/images/I/413CwyFtArL._SL200_.jpg)](https://www.amazon.es/dp/B07BJHFPKM/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07BJHFPKM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

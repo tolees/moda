@@ -22,6 +22,9 @@ Está [REPLAY Vivy Vaqueros Slim  Azul  Light Blue 10   W27/L28  Talla del Fabri
 
 [![REPLAY Vivy Vaqueros Slim  Azul  Light B](https://images-eu.ssl-images-amazon.com/images/I/31NqegVqaGL._SL200_.jpg)](https://www.amazon.es/dp/B07KPRKMCZ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KPRKMCZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

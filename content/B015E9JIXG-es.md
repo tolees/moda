@@ -22,6 +22,9 @@ Tienes [Guess GU7411-5752F  Gafas de sol para Mujer  Marrón 57](https://www.ama
 
 [![Guess GU7411-5752F  Gafas de sol para Mu](https://images-eu.ssl-images-amazon.com/images/I/31eHq1CzViL._SL200_.jpg)](https://www.amazon.es/dp/B015E9JIXG/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B015E9JIXG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

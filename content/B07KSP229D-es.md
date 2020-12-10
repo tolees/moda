@@ -22,6 +22,9 @@ Ahora mismo tienes [Columbia Triple Canyon Pantalón Convertible  Poliéster  Ho
 
 [![Columbia Triple Canyon Pantalón Converti](https://images-eu.ssl-images-amazon.com/images/I/31sMnCf7UIL._SL200_.jpg)](https://www.amazon.es/dp/B07KSP229D/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07KSP229D/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

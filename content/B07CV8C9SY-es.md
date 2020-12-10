@@ -22,6 +22,9 @@ Tienes [PIECES Psdesi Boot DC  Botines para Mujer  Gris Natural  38 EU](https://
 
 [![PIECES Psdesi Boot DC  Botines para Muje](https://images-eu.ssl-images-amazon.com/images/I/51yLfZtkXgL._SL200_.jpg)](https://www.amazon.es/dp/B07CV8C9SY/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07CV8C9SY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

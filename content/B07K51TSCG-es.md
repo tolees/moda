@@ -22,6 +22,9 @@ Está [Levi s kids Nn10227 11 Short Sleeve tee-Shirt Camiseta  Marfil  Écru   3
 
 [![Levi s kids Nn10227 11 Short Sleeve tee-](https://images-eu.ssl-images-amazon.com/images/I/31TnuFLW%2BFL._SL200_.jpg)](https://www.amazon.es/dp/B07K51TSCG/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07K51TSCG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

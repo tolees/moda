@@ -22,6 +22,9 @@ Tienes [Miami Beach Swimwear Demi Bikini  Rosa  Intense Coral 400   40](https://
 
 [![Miami Beach Swimwear Demi Bikini  Rosa  ](https://images-eu.ssl-images-amazon.com/images/I/41MZOzdfHQL._SL200_.jpg)](https://www.amazon.es/dp/B01C8CA3J0/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01C8CA3J0/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

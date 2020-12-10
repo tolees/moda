@@ -22,6 +22,9 @@ Está [Geox D Vega Moc A  Mocasines para Mujer  Verde  Lt Green C3001   38 EU](h
 
 [![Geox D Vega Moc A  Mocasines para Mujer ](https://images-eu.ssl-images-amazon.com/images/I/31AKHL8FAzL._SL200_.jpg)](https://www.amazon.es/dp/B07DJMXCNB/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DJMXCNB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

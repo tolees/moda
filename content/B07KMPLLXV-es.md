@@ -22,6 +22,9 @@ Está [Roxy Feel Happy - Bolso de mano para mujer  Med Blue Newport Border SW  T
 
 [![Roxy Feel Happy - Bolso de mano para muj](https://images-eu.ssl-images-amazon.com/images/I/51Sk%2B3LapuL._SL200_.jpg)](https://www.amazon.es/dp/B07KMPLLXV/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KMPLLXV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

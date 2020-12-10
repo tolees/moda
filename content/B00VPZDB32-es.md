@@ -22,6 +22,9 @@ Ahora mismo tienes [Puma Bodywear Stripe 15 - Bóxer para hombre  pack de 2   Ro
 
 [![Puma Bodywear Stripe 15 - Bóxer para hom](https://images-eu.ssl-images-amazon.com/images/I/41IAJwkzYYL._SL200_.jpg)](https://www.amazon.es/dp/B00VPZDB32/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00VPZDB32/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

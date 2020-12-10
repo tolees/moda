@@ -22,6 +22,9 @@ Está [Vero Moda Vmsami LS Highneck Blouse Boo Camiseta Cuello Alto  Rosa  Misty
 
 [![Vero Moda Vmsami LS Highneck Blouse Boo ](https://images-eu.ssl-images-amazon.com/images/I/41TdZ1-VJ3L._SL200_.jpg)](https://www.amazon.es/dp/B0745MJNMK/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0745MJNMK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

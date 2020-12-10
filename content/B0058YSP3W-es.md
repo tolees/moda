@@ -22,6 +22,9 @@ Está [Columbia Fleece Fast Trek II Full Zip Chaqueta Polar  Hombre  Gris  Grill
 
 [![Columbia Fleece Fast Trek II Full Zip Ch](https://images-eu.ssl-images-amazon.com/images/I/41Xt92VuJGL._SL200_.jpg)](https://www.amazon.es/dp/B0058YSP3W/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0058YSP3W/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

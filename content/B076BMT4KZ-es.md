@@ -22,6 +22,9 @@ Ahora mismo tienes [PIECES - 17086718  Bolso Mujer  Beige  Nature   16x29x35 cm 
 
 [![PIECES - 17086718  Bolso Mujer  Beige  N](https://images-eu.ssl-images-amazon.com/images/I/41oRGb8Gq2L._SL200_.jpg)](https://www.amazon.es/dp/B076BMT4KZ/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B076BMT4KZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

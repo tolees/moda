@@ -22,6 +22,9 @@ Está [Hackett Clothing Pinpoint Single Cuff  Camisa Hombre  Blanco  White   15 
 
 [![Hackett Clothing Pinpoint Single Cuff  C](https://images-eu.ssl-images-amazon.com/images/I/418NB5mt0TL._SL200_.jpg)](https://www.amazon.es/dp/B01M0B2TT1/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01M0B2TT1/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

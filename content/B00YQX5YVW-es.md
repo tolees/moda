@@ -22,6 +22,9 @@ Ahora mismo tienes [GEOX J Casey Girl  Botas Militar para Niñas  Black  32 EU](
 
 [![GEOX J Casey Girl  Botas Militar para Ni](https://images-eu.ssl-images-amazon.com/images/I/419Y-1%2BV-jL._SL200_.jpg)](https://www.amazon.es/dp/B00YQX5YVW/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00YQX5YVW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

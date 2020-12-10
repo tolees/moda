@@ -22,6 +22,9 @@ Está [Esprit 128ee1j008  Sudadera Mujer  Rosa  Old Pink 680   XX-Large](https:/
 
 [![Esprit 128ee1j008  Sudadera Mujer  Rosa ](https://images-eu.ssl-images-amazon.com/images/I/41lX0lI0PYL._SL200_.jpg)](https://www.amazon.es/dp/B07GZ51T6J/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07GZ51T6J/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

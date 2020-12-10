@@ -22,6 +22,9 @@ Está [DC Comics - Sudadera de Manga Larga con Capucha para Mujer  Color Blanco 
 
 [![DC Comics - Sudadera de Manga Larga con ](https://images-eu.ssl-images-amazon.com/images/I/41nVcU1QZ-L._SL200_.jpg)](https://www.amazon.es/dp/B00KB5T1Z4/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00KB5T1Z4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

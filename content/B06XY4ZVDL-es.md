@@ -22,6 +22,9 @@ Está [Oakley Flak Draft Gafas de Sol  Navy  67 para Hombre](https://www.amazon.
 
 [![Oakley Flak Draft Gafas de Sol  Navy  67](https://images-eu.ssl-images-amazon.com/images/I/315SA6smn1L._SL200_.jpg)](https://www.amazon.es/dp/B06XY4ZVDL/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B06XY4ZVDL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

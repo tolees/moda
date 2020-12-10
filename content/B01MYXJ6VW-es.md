@@ -22,6 +22,9 @@ Está [Minecraft Niño Camiseta  3-4 Años ](https://www.amazon.es/dp/B01MYXJ6VW
 
 [![Minecraft Niño Camiseta  3-4 Años ](https://images-eu.ssl-images-amazon.com/images/I/51txlvW1a1L._SL200_.jpg)](https://www.amazon.es/dp/B01MYXJ6VW/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01MYXJ6VW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

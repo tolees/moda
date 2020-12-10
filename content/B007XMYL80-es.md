@@ -22,6 +22,9 @@ Tienes [Havaianas Brasil Logo  Chanclas Al Dedo para Unisex Niños  Negro  31/32
 
 [![Havaianas Brasil Logo  Chanclas Al Dedo ](https://images-eu.ssl-images-amazon.com/images/I/413TKU04TmL._SL200_.jpg)](https://www.amazon.es/dp/B007XMYL80/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B007XMYL80/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

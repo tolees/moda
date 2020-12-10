@@ -22,6 +22,9 @@ Está [Only Onlbrooke Nylon Coat Otw Abrigo  Negro Black  36  Talla del Fabrican
 
 [![Only Onlbrooke Nylon Coat Otw Abrigo  Ne](https://images-eu.ssl-images-amazon.com/images/I/41yk1MADydL._SL200_.jpg)](https://www.amazon.es/dp/B073Q1LM2B/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B073Q1LM2B/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Springfield 6Re Organic Structure  Camisa Casual para Hombre   Azul Marin
 
 [![Springfield 6Re Organic Structure  Camis](https://images-eu.ssl-images-amazon.com/images/I/31McZnlxILL._SL200_.jpg)](https://www.amazon.es/dp/B07KZ3L6QL/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KZ3L6QL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

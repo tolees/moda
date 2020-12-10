@@ -22,6 +22,9 @@ Ahora mismo tienes [Columbia Triple Canyon Camisa de Manga Corta  Hombre  Negro 
 
 [![Columbia Triple Canyon Camisa de Manga C](https://images-eu.ssl-images-amazon.com/images/I/41HNJ55warL._SL200_.jpg)](https://www.amazon.es/dp/B07KSG127P/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07KSG127P/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

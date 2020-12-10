@@ -22,6 +22,9 @@ Ahora mismo tienes [Nanos Jersey para Niñas   Rosa Palo 26   3 años  Tamaño d
 
 [![Nanos Jersey para Niñas   Rosa Palo 26  ](https://images-eu.ssl-images-amazon.com/images/I/51QH%2BLJXPsL._SL200_.jpg)](https://www.amazon.es/dp/B07B4CPCJX/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07B4CPCJX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

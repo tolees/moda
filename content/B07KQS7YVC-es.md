@@ -22,6 +22,9 @@ Ahora mismo tienes [adidas TT Chaqueta  Mujer  Negro  36](https://www.amazon.es/
 
 [![adidas TT Chaqueta  Mujer  Negro  36](https://images-eu.ssl-images-amazon.com/images/I/51j86ha-HfL._SL200_.jpg)](https://www.amazon.es/dp/B07KQS7YVC/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07KQS7YVC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

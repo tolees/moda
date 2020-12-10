@@ -22,6 +22,9 @@ Está [Emma & Giovanni - Corto Elástica Básica Falda - Mujer  ES 36/38  Talla 
 
 [![Emma & Giovanni - Corto Elástica Básica ](https://images-eu.ssl-images-amazon.com/images/I/31F0hlPIu4L._SL200_.jpg)](https://www.amazon.es/dp/B07P1C8HQR/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07P1C8HQR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

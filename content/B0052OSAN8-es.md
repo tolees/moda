@@ -22,6 +22,9 @@ Tienes [Diesel Münzbörse 00X696PR425T8013 Monedero  12 cm  Negro  Schwarz ](ht
 
 [![Diesel Münzbörse 00X696PR425T8013 Monede](https://images-eu.ssl-images-amazon.com/images/I/21clIUt575L._SL200_.jpg)](https://www.amazon.es/dp/B0052OSAN8/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B0052OSAN8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

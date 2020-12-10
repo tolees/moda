@@ -22,6 +22,9 @@ Está [BOSS Boxer Brief 2p Print  Azul  Dark Blue 401   X-Large  Pack de 2 para 
 
 [![BOSS Boxer Brief 2p Print  Azul  Dark Bl](https://images-eu.ssl-images-amazon.com/images/I/41ioEtaXIrL._SL200_.jpg)](https://www.amazon.es/dp/B07CZPZXFD/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07CZPZXFD/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Vans V76 Skinny  Vaqueros para hombre  Negro  Black   W36/L3
 
 [![Vans V76 Skinny  Vaqueros para hombre  N](https://images-eu.ssl-images-amazon.com/images/I/31Mv-scePKL._SL200_.jpg)](https://www.amazon.es/dp/B0046EC7WA/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B0046EC7WA/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

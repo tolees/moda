@@ -22,6 +22,9 @@ Está [Lacoste Th6386  Camiseta Hombre  Azul  Aquarium 07h F8r   Small  Talla de
 
 [![Lacoste Th6386  Camiseta Hombre  Azul  A](https://images-eu.ssl-images-amazon.com/images/I/41SLmAVpLsL._SL200_.jpg)](https://www.amazon.es/dp/B07JDTCPJP/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07JDTCPJP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

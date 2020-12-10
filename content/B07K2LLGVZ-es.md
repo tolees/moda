@@ -22,6 +22,9 @@ Tienes [Love Moschino Logo and Glitter Heart_Short Sleeve T-Shirt Camiseta  Blan
 
 [![Love Moschino Logo and Glitter Heart_Sho](https://images-eu.ssl-images-amazon.com/images/I/41Lmd7NUxeL._SL200_.jpg)](https://www.amazon.es/dp/B07K2LLGVZ/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07K2LLGVZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

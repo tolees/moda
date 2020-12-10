@@ -22,6 +22,9 @@ Está [Geox D Myria C  Zapatillas Altas para Mujer  Negro  Black C9999   35 EU](
 
 [![Geox D Myria C  Zapatillas Altas para Mu](https://images-eu.ssl-images-amazon.com/images/I/41daUQ5xJaL._SL200_.jpg)](https://www.amazon.es/dp/B07DPMCWSR/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DPMCWSR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

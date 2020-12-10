@@ -22,6 +22,9 @@ Tienes [Joma Fit One  Camiseta Unisex Adulto  Unisex Adulto  1199.98.009  Turque
 
 [![Joma Fit One  Camiseta Unisex Adulto  Un](https://images-eu.ssl-images-amazon.com/images/I/41BWuN6RNCL._SL200_.jpg)](https://www.amazon.es/dp/B01I05ECFK/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01I05ECFK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

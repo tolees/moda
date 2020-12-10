@@ -22,6 +22,9 @@ Ahora mismo tienes [BOSS Trunk CO/EL Bóxer  Azul  Open Blue 487   Small  Pack d
 
 [![BOSS Trunk CO/EL Bóxer  Azul  Open Blue ](https://images-eu.ssl-images-amazon.com/images/I/41PQP8V5ERL._SL200_.jpg)](https://www.amazon.es/dp/B01JZD7FT6/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01JZD7FT6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

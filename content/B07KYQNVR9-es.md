@@ -22,6 +22,9 @@ Está [Springfield 6BA Mao Tira Oxford  Jersey para Hombre   Blanco 99   X-Large
 
 [![Springfield 6BA Mao Tira Oxford  Jersey ]()](https://www.amazon.es/dp/B07KYQNVR9/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KYQNVR9/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

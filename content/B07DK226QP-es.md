@@ -22,6 +22,9 @@ Ahora mismo tienes [Geox Jr Waviness Boy  Zapatillas para Niños  Azul  Royal/Li
 
 [![Geox Jr Waviness Boy  Zapatillas para Ni](https://images-eu.ssl-images-amazon.com/images/I/41h6COdOUHL._SL200_.jpg)](https://www.amazon.es/dp/B07DK226QP/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07DK226QP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

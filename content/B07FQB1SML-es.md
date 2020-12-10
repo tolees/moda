@@ -22,6 +22,9 @@ Ahora mismo tienes [JACK & JONES Jacthomas Trunks Noos Bóxer  Navy Blazer  Larg
 
 [![JACK & JONES Jacthomas Trunks Noos Bóxer](https://images-eu.ssl-images-amazon.com/images/I/51B1%2Bk6lh6L._SL200_.jpg)](https://www.amazon.es/dp/B07FQB1SML/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07FQB1SML/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

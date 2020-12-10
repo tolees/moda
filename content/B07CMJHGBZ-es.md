@@ -22,6 +22,9 @@ Está [JIM HALO Gafas de Sol de Espejo Plano Oversized Diseñador Cuadrado Tinta
 
 [![JIM HALO Gafas de Sol de Espejo Plano Ov](https://images-eu.ssl-images-amazon.com/images/I/41CLRHXzeVL._SL200_.jpg)](https://www.amazon.es/dp/B07CMJHGBZ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07CMJHGBZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

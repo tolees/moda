@@ -22,6 +22,9 @@ Está [Gant Henley  Top de Pijama Hombre  Azul  Navy   XX-Large](https://www.ama
 
 [![Gant Henley  Top de Pijama Hombre  Azul ](https://images-eu.ssl-images-amazon.com/images/I/319XJc7WdCL._SL200_.jpg)](https://www.amazon.es/dp/B07D2RVX7S/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07D2RVX7S/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Under Armour UA Vanish SS T Camiseta de Manga Corta  Hombre  Blanco  100 
 
 [![Under Armour UA Vanish SS T Camiseta de ](https://images-eu.ssl-images-amazon.com/images/I/41mGmxu-BBL._SL200_.jpg)](https://www.amazon.es/dp/B077GTPCV8/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B077GTPCV8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

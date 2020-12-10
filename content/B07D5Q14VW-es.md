@@ -22,6 +22,9 @@ Ahora mismo tienes [Celio Afower Vaqueros Straight  Blue Black  W32/L32  Talla d
 
 [![Celio Afower Vaqueros Straight  Blue Bla](https://images-eu.ssl-images-amazon.com/images/I/41PUpi774uL._SL200_.jpg)](https://www.amazon.es/dp/B07D5Q14VW/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07D5Q14VW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Lee Luke Vaqueros Tapered  Azul  Greenway Et   W33/L34 para Hombre](http
 
 [![Lee Luke Vaqueros Tapered  Azul  Greenwa](https://images-eu.ssl-images-amazon.com/images/I/416leFMg8XL._SL200_.jpg)](https://www.amazon.es/dp/B07BQ5LBG3/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07BQ5LBG3/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

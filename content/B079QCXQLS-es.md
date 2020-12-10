@@ -22,6 +22,9 @@ Está [Hackett London GMT Dye Delave OXF BS  Camisa para Hombre  Azul Medium](ht
 
 [![Hackett London GMT Dye Delave OXF BS  Ca](https://images-eu.ssl-images-amazon.com/images/I/41yFQGlX%2BZL._SL200_.jpg)](https://www.amazon.es/dp/B079QCXQLS/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B079QCXQLS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

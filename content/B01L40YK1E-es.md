@@ -22,6 +22,9 @@ Tienes [Havaianas Top  Chanclas para Unisex Adulto  Verde  Green Olive   37/38 E
 
 [![Havaianas Top  Chanclas para Unisex Adul](https://images-eu.ssl-images-amazon.com/images/I/41G%2Bkbj-giL._SL200_.jpg)](https://www.amazon.es/dp/B01L40YK1E/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01L40YK1E/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Pepe Jeans Duetone Bolso Bandolera  25 cm  3.25 Litros  Negro](https://w
 
 [![Pepe Jeans Duetone Bolso Bandolera  25 c](https://images-eu.ssl-images-amazon.com/images/I/41qQl9Zc19L._SL200_.jpg)](https://www.amazon.es/dp/B072MFNBHX/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B072MFNBHX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

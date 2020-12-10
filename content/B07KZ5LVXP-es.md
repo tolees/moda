@@ -22,6 +22,9 @@ Tienes [Cortefiel C1Bcc Print Flor Navy T-S Camisa Casual  Hombre  Azul  Azul Ma
 
 [![Cortefiel C1Bcc Print Flor Navy T-S Cami](https://images-eu.ssl-images-amazon.com/images/I/51jHz4Zq6HL._SL200_.jpg)](https://www.amazon.es/dp/B07KZ5LVXP/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07KZ5LVXP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

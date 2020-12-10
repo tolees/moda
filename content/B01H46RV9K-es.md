@@ -22,6 +22,9 @@ Ahora mismo tienes [Adrianna Papell Vestido Negro ES 38  UK 8 ](https://www.amaz
 
 [![Adrianna Papell Vestido Negro ES 38  UK ](https://images-eu.ssl-images-amazon.com/images/I/41v3mahmsZL._SL200_.jpg)](https://www.amazon.es/dp/B01H46RV9K/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01H46RV9K/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

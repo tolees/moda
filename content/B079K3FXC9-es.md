@@ -22,6 +22,9 @@ Está [Napapijri Berthow Logo Crew  Sudadera  Verde  Green Musk Gd3   Large para
 
 [![Napapijri Berthow Logo Crew  Sudadera  V](https://images-eu.ssl-images-amazon.com/images/I/41b2lL6rLWL._SL200_.jpg)](https://www.amazon.es/dp/B079K3FXC9/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B079K3FXC9/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

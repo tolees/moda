@@ -22,6 +22,9 @@ Está [G-STAR RAW 3301 Straight  Vaqueros straight Hombre  Negro  rinsed 8970-08
 
 [![G-STAR RAW 3301 Straight  Vaqueros strai](https://images-eu.ssl-images-amazon.com/images/I/31PL-vldtpL._SL200_.jpg)](https://www.amazon.es/dp/B07CZHQCTP/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07CZHQCTP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

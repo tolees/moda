@@ -22,6 +22,9 @@ Está [Only Onlriga Utility Shirt Solid Wvn  Blusa Mujer  Azul  Night Sky   38](
 
 [![Only Onlriga Utility Shirt Solid Wvn  Bl](https://images-eu.ssl-images-amazon.com/images/I/41o5I5QhwqL._SL200_.jpg)](https://www.amazon.es/dp/B073RKPBMH/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B073RKPBMH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

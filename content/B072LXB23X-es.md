@@ -22,6 +22,9 @@ Ahora mismo tienes [Sledgers - Joute Zapatos Hombre de Cuero  40 EU  Negro ](htt
 
 [![Sledgers - Joute Zapatos Hombre de Cuero](https://images-eu.ssl-images-amazon.com/images/I/31cAI0DQQLL._SL200_.jpg)](https://www.amazon.es/dp/B072LXB23X/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B072LXB23X/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

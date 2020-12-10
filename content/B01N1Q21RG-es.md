@@ -22,6 +22,9 @@ Ahora mismo tienes [Puma Evopower Grip 4.3 Guantes de Portero  Unisex Adulto  Ve
 
 [![Puma Evopower Grip 4.3 Guantes de Porter](https://images-eu.ssl-images-amazon.com/images/I/41Y5ie1q9IL._SL200_.jpg)](https://www.amazon.es/dp/B01N1Q21RG/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01N1Q21RG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

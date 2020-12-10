@@ -22,6 +22,9 @@ Está [Under Armour Sc30 Short Pantalón Corto  Niños  Verde  Neo Turquoise/Bla
 
 [![Under Armour Sc30 Short Pantalón Corto  ](https://images-eu.ssl-images-amazon.com/images/I/51WZvb5MmkL._SL200_.jpg)](https://www.amazon.es/dp/B07CZMYH6K/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07CZMYH6K/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

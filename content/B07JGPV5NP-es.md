@@ -22,6 +22,9 @@ Tienes [Timberland Coupe-Vent A Capuche Impermeable  Azul  Amiral 841   18-24 Me
 
 [![Timberland Coupe-Vent A Capuche Impermea](https://images-eu.ssl-images-amazon.com/images/I/41WivQTkfpL._SL200_.jpg)](https://www.amazon.es/dp/B07JGPV5NP/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07JGPV5NP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

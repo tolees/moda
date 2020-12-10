@@ -22,6 +22,9 @@ Ahora mismo tienes [Guess Freda Skirt  Falda para Mujer  Negro  Jet Black A996 J
 
 [![Guess Freda Skirt  Falda para Mujer  Neg](https://images-eu.ssl-images-amazon.com/images/I/41GVcLZ1JVL._SL200_.jpg)](https://www.amazon.es/dp/B07JMP4PV3/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07JMP4PV3/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

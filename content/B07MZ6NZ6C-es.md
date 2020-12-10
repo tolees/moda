@@ -22,6 +22,9 @@ Está [IRIS & LILLY KT251 baño  Multicolour  Leopard   12  Size:M ](https://www
 
 [![IRIS & LILLY KT251 baño  Multicolour  Le](https://images-eu.ssl-images-amazon.com/images/I/41dJU4MZ1mL._SL200_.jpg)](https://www.amazon.es/dp/B07MZ6NZ6C/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07MZ6NZ6C/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

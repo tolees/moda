@@ -22,6 +22,9 @@ Ahora mismo tienes [Vero Moda Vmjulie LS O-Neck Slit Blouse Boo  suéter Mujer  
 
 [![Vero Moda Vmjulie LS O-Neck Slit Blouse ](https://images-eu.ssl-images-amazon.com/images/I/41WUp7jSMrL._SL200_.jpg)](https://www.amazon.es/dp/B074ZRLMLG/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B074ZRLMLG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Samsonite Sideways Laptop Sleeve 13.3" Bolso Bandolera  6.2 litros  Color
 
 [![Samsonite Sideways Laptop Sleeve 13.3" B](https://images-eu.ssl-images-amazon.com/images/I/511vG4Zem4L._SL200_.jpg)](https://www.amazon.es/dp/B01M1C5E6H/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01M1C5E6H/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Eono Essentials – Bolso para carrito de bebé con abundanc
 
 [![Eono Essentials – Bolso para carrito de ](https://images-eu.ssl-images-amazon.com/images/I/41diN91y5SL._SL200_.jpg)](https://www.amazon.es/dp/B07D49NNWK/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07D49NNWK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

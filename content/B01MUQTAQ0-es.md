@@ -22,6 +22,9 @@ Está [Intimuse Amari Vestido  Negro  Schwarz 001   X-Large](https://www.amazon.
 
 [![Intimuse Amari Vestido  Negro  Schwarz 0](https://images-eu.ssl-images-amazon.com/images/I/31I-NyqbkwL._SL200_.jpg)](https://www.amazon.es/dp/B01MUQTAQ0/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01MUQTAQ0/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

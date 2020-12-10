@@ -22,6 +22,9 @@ Está [RIP CURL Mama Strokes SS tee Camiseta  Hombre  Light Blue  XL](https://ww
 
 [![RIP CURL Mama Strokes SS tee Camiseta  H](https://images-eu.ssl-images-amazon.com/images/I/4148tOqMNyL._SL200_.jpg)](https://www.amazon.es/dp/B07NGNL6SJ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07NGNL6SJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

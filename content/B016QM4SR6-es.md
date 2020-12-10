@@ -22,6 +22,9 @@ Ahora mismo tienes [Tommy Hilfiger Core Stretch Slim Poplin Shirt  Camisa para H
 
 [![Tommy Hilfiger Core Stretch Slim Poplin ](https://images-eu.ssl-images-amazon.com/images/I/41922szbUmL._SL200_.jpg)](https://www.amazon.es/dp/B016QM4SR6/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B016QM4SR6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [oodji Ultra Hombre Camiseta de Algodón sin Etiqueta con Estampado de F�
 
 [![oodji Ultra Hombre Camiseta de Algodón s](https://images-eu.ssl-images-amazon.com/images/I/41fNeWeRlyL._SL200_.jpg)](https://www.amazon.es/dp/B07D8RSYNS/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07D8RSYNS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

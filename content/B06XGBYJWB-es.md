@@ -22,6 +22,9 @@ Tienes [Pepe Jeans Pixlette Vaqueros  Negro  8Oz Super Str Blk Jegging V98   4 a
 
 [![Pepe Jeans Pixlette Vaqueros  Negro  8Oz](https://images-eu.ssl-images-amazon.com/images/I/31hSJC9kscL._SL200_.jpg)](https://www.amazon.es/dp/B06XGBYJWB/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B06XGBYJWB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

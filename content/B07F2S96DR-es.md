@@ -22,6 +22,9 @@ Tienes [Vans Spicoli 4 Shades Gafas de Sol  Blanco  White-Green Lapis Blue   50 
 
 [![Vans Spicoli 4 Shades Gafas de Sol  Blan](https://images-eu.ssl-images-amazon.com/images/I/310DfSETJNL._SL200_.jpg)](https://www.amazon.es/dp/B07F2S96DR/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07F2S96DR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

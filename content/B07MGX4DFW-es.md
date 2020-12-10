@@ -22,6 +22,9 @@ Ahora mismo tienes [G-STAR RAW 3301 Slim  Vaqueros para Hombre  Azul  Lt Aged De
 
 [![G-STAR RAW 3301 Slim  Vaqueros para Homb](https://images-eu.ssl-images-amazon.com/images/I/41N81QrZr5L._SL200_.jpg)](https://www.amazon.es/dp/B07MGX4DFW/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07MGX4DFW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

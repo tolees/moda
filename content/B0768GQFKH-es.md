@@ -22,6 +22,9 @@ Tienes [Springfield 6882749  Falda para Mujer  Negro  Black    Tamaño del Fabri
 
 [![Springfield 6882749  Falda para Mujer  N](https://images-eu.ssl-images-amazon.com/images/I/41TxifFmnbL._SL200_.jpg)](https://www.amazon.es/dp/B0768GQFKH/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B0768GQFKH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

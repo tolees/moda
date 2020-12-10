@@ -22,6 +22,9 @@ Está [DC Shoes Original Spectrum Chaqueta  Hombre  Azul  Insignia Blue   S](htt
 
 [![DC Shoes Original Spectrum Chaqueta  Hom](https://images-eu.ssl-images-amazon.com/images/I/41cOX%2BUJwUL._SL200_.jpg)](https://www.amazon.es/dp/B07F2R73XP/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07F2R73XP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

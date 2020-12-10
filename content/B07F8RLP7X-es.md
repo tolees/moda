@@ -22,6 +22,9 @@ Está [JACK & JONES Jjitim Jjleon GE 189 I.k. Noos  Vaqueros Slim para Hombre  A
 
 [![JACK & JONES Jjitim Jjleon GE 189 I.k. N](https://images-eu.ssl-images-amazon.com/images/I/31QWk5DcslL._SL200_.jpg)](https://www.amazon.es/dp/B07F8RLP7X/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07F8RLP7X/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Rocket Dog Brittany  Botines para Mujer  Marrón  Brown Heirloom C00   36
 
 [![Rocket Dog Brittany  Botines para Mujer ](https://images-eu.ssl-images-amazon.com/images/I/41lOX3S829L._SL200_.jpg)](https://www.amazon.es/dp/B07H5M1CTG/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07H5M1CTG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

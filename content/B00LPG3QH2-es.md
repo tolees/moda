@@ -22,6 +22,9 @@ Ahora mismo tienes [Levi s 504 Regular Straight Fit  Vaqueros para Hombre  Azul 
 
 [![Levi s 504 Regular Straight Fit  Vaquero](https://images-eu.ssl-images-amazon.com/images/I/41L20x8ONuL._SL200_.jpg)](https://www.amazon.es/dp/B00LPG3QH2/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00LPG3QH2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

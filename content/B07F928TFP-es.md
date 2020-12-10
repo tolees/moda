@@ -22,6 +22,9 @@ Ahora mismo tienes [JACK & JONES PREMIUM Jprfred Arctic Parka STS  Hombre  Marr�
 
 [![JACK & JONES PREMIUM Jprfred Arctic Park](https://images-eu.ssl-images-amazon.com/images/I/418Jc%2BQugnL._SL200_.jpg)](https://www.amazon.es/dp/B07F928TFP/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07F928TFP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

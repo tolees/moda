@@ -22,6 +22,9 @@ Está [Only & Sons Onsace Jacket  Chaqueta para Hombre  Rhubarb  X-Large](https:
 
 [![Only & Sons Onsace Jacket  Chaqueta para](https://images-eu.ssl-images-amazon.com/images/I/41fHHKrSyWL._SL200_.jpg)](https://www.amazon.es/dp/B07D4TF38K/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07D4TF38K/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

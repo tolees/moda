@@ -22,6 +22,9 @@ Está [Springfield 2.1.J.MD.G.Pañuelo Jersey Gama Azules 19  Small  Tamaño del
 
 [![Springfield 2.1.J.MD.G.Pañuelo Jersey Ga](https://images-eu.ssl-images-amazon.com/images/I/41393S77RaL._SL200_.jpg)](https://www.amazon.es/dp/B07KYNT9JJ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KYNT9JJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

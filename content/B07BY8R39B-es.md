@@ -22,6 +22,9 @@ Tienes [Jana 8-8-25303-21  Botines para Mujer  Gris  Graphite 206   39 EU](https
 
 [![Jana 8-8-25303-21  Botines para Mujer  G](https://images-eu.ssl-images-amazon.com/images/I/41H2sKd0GeL._SL200_.jpg)](https://www.amazon.es/dp/B07BY8R39B/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07BY8R39B/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Tous Clutch Carlata Plata-Rosa  Bolso de Mano para Mujer  Plateado  29x19
 
 [![Tous Clutch Carlata Plata-Rosa  Bolso de](https://images-eu.ssl-images-amazon.com/images/I/41PItKNqcML._SL200_.jpg)](https://www.amazon.es/dp/B07NC2K7MM/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07NC2K7MM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

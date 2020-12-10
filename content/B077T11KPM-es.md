@@ -22,6 +22,9 @@ Está [lodi IDAIRA  Sandalias con Punta Abierta para Mujer  Rosa  Ginger Rubor  
 
 [![lodi IDAIRA  Sandalias con Punta Abierta](https://images-eu.ssl-images-amazon.com/images/I/41E3YA-yXhL._SL200_.jpg)](https://www.amazon.es/dp/B077T11KPM/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B077T11KPM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

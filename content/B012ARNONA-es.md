@@ -22,6 +22,9 @@ Tienes [Pedro del Hierro Vestido Azul Tinta ES 44](https://www.amazon.es/dp/B012
 
 [![Pedro del Hierro Vestido Azul Tinta ES 4](https://images-eu.ssl-images-amazon.com/images/I/312kLbJW7PL._SL200_.jpg)](https://www.amazon.es/dp/B012ARNONA/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B012ARNONA/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

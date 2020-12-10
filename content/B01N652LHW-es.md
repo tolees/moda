@@ -22,6 +22,9 @@ Ahora mismo tienes [Puma Ess Pique  Camiseta Polo Hombre  Gris  Medium Gray Heat
 
 [![Puma Ess Pique  Camiseta Polo Hombre  Gr](https://images-eu.ssl-images-amazon.com/images/I/41f0ElcbBvL._SL200_.jpg)](https://www.amazon.es/dp/B01N652LHW/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01N652LHW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

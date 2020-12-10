@@ -22,6 +22,9 @@ Ahora mismo tienes [G-STAR RAW ARC 3D Mid Skinny Wmn Vaqueros  Azul  Medium Aged
 
 [![G-STAR RAW ARC 3D Mid Skinny Wmn Vaquero](https://images-eu.ssl-images-amazon.com/images/I/41P7PYRYPxL._SL200_.jpg)](https://www.amazon.es/dp/B07KB34BND/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07KB34BND/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

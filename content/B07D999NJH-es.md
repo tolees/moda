@@ -22,6 +22,9 @@ Está [XTI 48608  Botines para Mujer  Negro  Black   39 EU](https://www.amazon.e
 
 [![XTI 48608  Botines para Mujer  Negro  Bl](https://images-eu.ssl-images-amazon.com/images/I/419hyLpjO0L._SL200_.jpg)](https://www.amazon.es/dp/B07D999NJH/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07D999NJH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Under Armour Spectrum Po - Sudadera con capucha para hombre  Negro  L](ht
 
 [![Under Armour Spectrum Po - Sudadera con ](https://images-eu.ssl-images-amazon.com/images/I/41AT5jo9%2BeL._SL200_.jpg)](https://www.amazon.es/dp/B077XRW2JJ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B077XRW2JJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

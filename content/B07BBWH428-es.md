@@ -22,6 +22,9 @@ Tienes [G-STAR RAW Starkon R T S\s  Camiseta Hombre  Azul  Sartho Blue 6067   Sm
 
 [![G-STAR RAW Starkon R T S\s  Camiseta Hom](https://images-eu.ssl-images-amazon.com/images/I/41bC8rKF4JL._SL200_.jpg)](https://www.amazon.es/dp/B07BBWH428/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07BBWH428/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

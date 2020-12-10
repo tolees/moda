@@ -22,6 +22,9 @@ Tienes [WOCK Everlite  Zuecos Unisex Adulto  Blanco  Weiss 4540020-46   46 EU](h
 
 [![WOCK Everlite  Zuecos Unisex Adulto  Bla](https://images-eu.ssl-images-amazon.com/images/I/31%2BtQ1PuX8L._SL200_.jpg)](https://www.amazon.es/dp/B00BP3TYYE/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00BP3TYYE/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

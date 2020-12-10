@@ -22,6 +22,9 @@ Ahora mismo tienes [New Look Button Through Tea Vestido  Negro  Black 1   38  Ta
 
 [![New Look Button Through Tea Vestido  Neg](https://images-eu.ssl-images-amazon.com/images/I/31RzvOKcbcL._SL200_.jpg)](https://www.amazon.es/dp/B07PCMQFF7/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07PCMQFF7/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Only Onlloulou L/s Cardigan Knt  Chaqueta Punto para Mujer  
 
 [![Only Onlloulou L/s Cardigan Knt  Chaquet](https://images-eu.ssl-images-amazon.com/images/I/419mnXQppKL._SL200_.jpg)](https://www.amazon.es/dp/B07G4MRJ33/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07G4MRJ33/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

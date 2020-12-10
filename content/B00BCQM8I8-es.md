@@ -22,6 +22,9 @@ Está [Geox D MARIEC.MID B - Plataforma de cuero mujer  Negro  Nero  Schwarz  BL
 
 [![Geox D MARIEC.MID B - Plataforma de cuer](https://images-eu.ssl-images-amazon.com/images/I/41ACaMsw1HL._SL200_.jpg)](https://www.amazon.es/dp/B00BCQM8I8/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00BCQM8I8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

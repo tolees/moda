@@ -22,6 +22,9 @@ Está [Joma 100005.550 - Camiseta de equipación de Manga Larga para Mujer  Colo
 
 [![Joma 100005.550 - Camiseta de equipación](https://images-eu.ssl-images-amazon.com/images/I/41kgpzS8NoL._SL200_.jpg)](https://www.amazon.es/dp/B01AXYH3KM/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01AXYH3KM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

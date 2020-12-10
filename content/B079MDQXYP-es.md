@@ -22,6 +22,9 @@ Está [edc by Esprit 058cc1f014 Blusa   Navy 400   Medium para Mujer](https://ww
 
 [![edc by Esprit 058cc1f014 Blusa   Navy 40](https://images-eu.ssl-images-amazon.com/images/I/51KzkeYBKqL._SL200_.jpg)](https://www.amazon.es/dp/B079MDQXYP/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B079MDQXYP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

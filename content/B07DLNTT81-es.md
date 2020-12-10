@@ -22,6 +22,9 @@ Está [Springfield 5Ds C/Red Gg14  Jersey para Hombre   Gama Grises 43   Small  
 
 [![Springfield 5Ds C/Red Gg14  Jersey para ](https://images-eu.ssl-images-amazon.com/images/I/41KqCNZ6FeL._SL200_.jpg)](https://www.amazon.es/dp/B07DLNTT81/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DLNTT81/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

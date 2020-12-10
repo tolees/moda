@@ -22,6 +22,9 @@ Ahora mismo tienes [The North Face M Insulated Jk Chaqueta con Aislamiento Quest
 
 [![The North Face M Insulated Jk Chaqueta c](https://images-eu.ssl-images-amazon.com/images/I/41X5yi42n5L._SL200_.jpg)](https://www.amazon.es/dp/B07BB5KF8G/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07BB5KF8G/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

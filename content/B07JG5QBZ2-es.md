@@ -22,6 +22,9 @@ Ahora mismo tienes [Timberland Bermuda Bañador  Naranja  Papaye 42b   2 años  
 
 [![Timberland Bermuda Bañador  Naranja  Pap](https://images-eu.ssl-images-amazon.com/images/I/41xts7NEjVL._SL200_.jpg)](https://www.amazon.es/dp/B07JG5QBZ2/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07JG5QBZ2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

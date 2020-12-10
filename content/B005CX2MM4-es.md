@@ -22,6 +22,9 @@ Ahora mismo tienes [Urban Classics Chaleco Negro/Verde XS](https://www.amazon.es
 
 [![Urban Classics Chaleco Negro/Verde XS](https://images-eu.ssl-images-amazon.com/images/I/41TsafNxpPL._SL200_.jpg)](https://www.amazon.es/dp/B005CX2MM4/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B005CX2MM4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

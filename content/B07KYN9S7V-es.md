@@ -22,6 +22,9 @@ Ahora mismo tienes [Springfield 2.Gym.MD.Bimateria Lazo C Jersey   Gama Rojo 64 
 
 [![Springfield 2.Gym.MD.Bimateria Lazo C Je](https://images-eu.ssl-images-amazon.com/images/I/41iyAwO6QXL._SL200_.jpg)](https://www.amazon.es/dp/B07KYN9S7V/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07KYN9S7V/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

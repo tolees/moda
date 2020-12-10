@@ -22,6 +22,9 @@ Está [BOSS T-Shirt RN BP Retro  Camiseta Hombre  Azul  Dark Blue 402   XX-Large
 
 [![BOSS T-Shirt RN BP Retro  Camiseta Hombr](https://images-eu.ssl-images-amazon.com/images/I/41CtJTInwEL._SL200_.jpg)](https://www.amazon.es/dp/B07CZNDCRC/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07CZNDCRC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

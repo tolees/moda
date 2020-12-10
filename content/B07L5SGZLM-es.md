@@ -22,6 +22,9 @@ Tienes [Charles Wilson Sudadera con Cremallera Completa con Capucha Peso Interme
 
 [![Charles Wilson Sudadera con Cremallera C](https://images-eu.ssl-images-amazon.com/images/I/41ROmgn8X8L._SL200_.jpg)](https://www.amazon.es/dp/B07L5SGZLM/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07L5SGZLM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

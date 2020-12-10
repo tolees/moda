@@ -22,6 +22,9 @@ Tienes [Springfield INT.3.Plumas Light Chaqueta   Verde Oscuro 20   Small  Tama√
 
 [![Springfield INT.3.Plumas Light Chaqueta ](https://images-eu.ssl-images-amazon.com/images/I/41nc3e2ejpL._SL200_.jpg)](https://www.amazon.es/dp/B07KYXV356/?tag=tolees-21)
 
+Caracter√≠sticas principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07KYXV356/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

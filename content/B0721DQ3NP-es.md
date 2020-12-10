@@ -22,6 +22,9 @@ Está [Lee Elly Vaqueros Slim  Azul  Crosby Blue Hald   W24/L31 para Mujer](http
 
 [![Lee Elly Vaqueros Slim  Azul  Crosby Blu](https://images-eu.ssl-images-amazon.com/images/I/41cOQIxa1eL._SL200_.jpg)](https://www.amazon.es/dp/B0721DQ3NP/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0721DQ3NP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

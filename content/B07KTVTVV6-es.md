@@ -22,6 +22,9 @@ Está [adidas SPT Full Zip Sudadera  Hombre  Maruni/Blanco  3XL](https://www.ama
 
 [![adidas SPT Full Zip Sudadera  Hombre  Ma](https://images-eu.ssl-images-amazon.com/images/I/41b9k7Ml3HL._SL200_.jpg)](https://www.amazon.es/dp/B07KTVTVV6/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KTVTVV6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

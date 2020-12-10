@@ -22,6 +22,9 @@ Tienes [Lee Luke Vaqueros Tapered  Negro  Black Worn TV   W32/L34  Talla del Fab
 
 [![Lee Luke Vaqueros Tapered  Negro  Black ](https://images-eu.ssl-images-amazon.com/images/I/413dapDmiNL._SL200_.jpg)](https://www.amazon.es/dp/B07FJWK6J8/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07FJWK6J8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

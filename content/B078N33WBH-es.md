@@ -22,6 +22,9 @@ Tienes [Coofit Bolsos de Mujer Moda Tote Bag Negro Mother s Day Dia de la madre]
 
 [![Coofit Bolsos de Mujer Moda Tote Bag Neg](https://images-eu.ssl-images-amazon.com/images/I/41WBm-UtY7L._SL200_.jpg)](https://www.amazon.es/dp/B078N33WBH/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B078N33WBH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

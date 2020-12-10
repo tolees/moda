@@ -22,6 +22,9 @@ Está [Burton Menswear London Geometric Print Pique Shirt Camiseta  Blanco  Whit
 
 [![Burton Menswear London Geometric Print P](https://images-eu.ssl-images-amazon.com/images/I/51dmE7GbfjL._SL200_.jpg)](https://www.amazon.es/dp/B07NJCTB6Z/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07NJCTB6Z/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

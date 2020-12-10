@@ -22,6 +22,9 @@ Ahora mismo tienes [New Look Petite Wrap Mini 6178899 Vestido  Amarillo  Mid Yel
 
 [![New Look Petite Wrap Mini 6178899 Vestid](https://images-eu.ssl-images-amazon.com/images/I/31GpU5HckHL._SL200_.jpg)](https://www.amazon.es/dp/B07NC4JDKK/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07NC4JDKK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

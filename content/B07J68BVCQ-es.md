@@ -22,6 +22,9 @@ Tienes [ENGSWA Collar Mujer Grabado Colgante con Cristal Asimétrico Regalo Abue
 
 [![ENGSWA Collar Mujer Grabado Colgante con](https://images-eu.ssl-images-amazon.com/images/I/41ccaVqZNuL._SL200_.jpg)](https://www.amazon.es/dp/B07J68BVCQ/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07J68BVCQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

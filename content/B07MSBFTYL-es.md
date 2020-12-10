@@ -22,6 +22,9 @@ Está [New Look Strappy Pinny 6143129  Vestido para Mujer   Yellow Pattern 89   
 
 [![New Look Strappy Pinny 6143129  Vestido ](https://images-eu.ssl-images-amazon.com/images/I/41RuIdNko9L._SL200_.jpg)](https://www.amazon.es/dp/B07MSBFTYL/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07MSBFTYL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

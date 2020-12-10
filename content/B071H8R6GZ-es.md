@@ -22,6 +22,9 @@ Está [JACK & JONES Jjiglenn Jjfelix Am 458 Pcw SPS Noos  Pantalones Vaqueros De
 
 [![JACK & JONES Jjiglenn Jjfelix Am 458 Pcw](https://images-eu.ssl-images-amazon.com/images/I/311QfYN4GAL._SL200_.jpg)](https://www.amazon.es/dp/B071H8R6GZ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B071H8R6GZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

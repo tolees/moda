@@ -22,6 +22,9 @@ Tienes [Joma Gladiator - Pantalón largo brillante para hombre  color Azul Royal
 
 [![Joma Gladiator - Pantalón largo brillant](https://images-eu.ssl-images-amazon.com/images/I/41szzh04QBL._SL200_.jpg)](https://www.amazon.es/dp/B00HGOZWXI/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00HGOZWXI/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

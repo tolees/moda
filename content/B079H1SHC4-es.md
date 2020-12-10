@@ -22,6 +22,9 @@ Tienes [Panama Jack Panama 03 Wool  Botines para Mujer  Marrón  Bark B18   42 E
 
 [![Panama Jack Panama 03 Wool  Botines para](https://images-eu.ssl-images-amazon.com/images/I/41jttFh9b1L._SL200_.jpg)](https://www.amazon.es/dp/B079H1SHC4/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B079H1SHC4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

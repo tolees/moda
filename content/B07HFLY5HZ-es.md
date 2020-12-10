@@ -22,6 +22,9 @@ Tienes [Tommy Hilfiger Baseball Collar Slim Polo  Polo Hombre  Blanco  Bright Wh
 
 [![Tommy Hilfiger Baseball Collar Slim Polo](https://images-eu.ssl-images-amazon.com/images/I/31yFAZycGEL._SL200_.jpg)](https://www.amazon.es/dp/B07HFLY5HZ/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07HFLY5HZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

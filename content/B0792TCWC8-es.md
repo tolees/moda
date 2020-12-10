@@ -22,6 +22,9 @@ Ahora mismo tienes [Geox J Kalispera Girl D  Zapatillas Altas para Niñas   Navy
 
 [![Geox J Kalispera Girl D  Zapatillas Alta](https://images-eu.ssl-images-amazon.com/images/I/51PzbMwq47L._SL200_.jpg)](https://www.amazon.es/dp/B0792TCWC8/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B0792TCWC8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

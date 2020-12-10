@@ -22,6 +22,9 @@ Ahora mismo tienes [Puma Leadcat  Chanclas Unisex Adulto  Verde Olivine 18  44.5
 
 [![Puma Leadcat  Chanclas Unisex Adulto  Ve](https://images-eu.ssl-images-amazon.com/images/I/31dQvQnLcdL._SL200_.jpg)](https://www.amazon.es/dp/B07DC6T7WN/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07DC6T7WN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

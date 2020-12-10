@@ -22,6 +22,9 @@ Está [Armani Exchange Semi Circle Cursive Slim Fit Scoop Neck Camiseta  Rojo  M
 
 [![Armani Exchange Semi Circle Cursive Slim](https://images-eu.ssl-images-amazon.com/images/I/41M2%2BGtDZaL._SL200_.jpg)](https://www.amazon.es/dp/B07F1K3NC8/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07F1K3NC8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

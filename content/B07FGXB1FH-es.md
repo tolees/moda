@@ -22,6 +22,9 @@ Ahora mismo tienes [Columbia Chaqueta Impermeable con Capucha para Mujer  Powder
 
 [![Columbia Chaqueta Impermeable con Capuch](https://images-eu.ssl-images-amazon.com/images/I/417Lw4cDg-L._SL200_.jpg)](https://www.amazon.es/dp/B07FGXB1FH/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07FGXB1FH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

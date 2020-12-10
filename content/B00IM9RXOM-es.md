@@ -22,6 +22,9 @@ Tienes [Seac Flipper Gafas de natación para Piscina  Unisex niños  Azul  Small
 
 [![Seac Flipper Gafas de natación para Pisc](https://images-eu.ssl-images-amazon.com/images/I/41Vdjvm8LKL._SL200_.jpg)](https://www.amazon.es/dp/B00IM9RXOM/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00IM9RXOM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

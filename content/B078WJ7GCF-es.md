@@ -22,6 +22,9 @@ Está [BILLABONG Essential Zh Sudadera con Capucha  Mujer   Mineral Verde 2897  
 
 [![BILLABONG Essential Zh Sudadera con Capu](https://images-eu.ssl-images-amazon.com/images/I/41OwgG%2B8GBL._SL200_.jpg)](https://www.amazon.es/dp/B078WJ7GCF/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B078WJ7GCF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

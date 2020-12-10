@@ -22,6 +22,9 @@ Está [REPLAY Jacksy  Vaqueros Skinny Mujer  Negro  Black Denim 7   W32/L30  Tal
 
 [![REPLAY Jacksy  Vaqueros Skinny Mujer  Ne](https://images-eu.ssl-images-amazon.com/images/I/31tryaoyVDL._SL200_.jpg)](https://www.amazon.es/dp/B077K4SCS7/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B077K4SCS7/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

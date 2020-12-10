@@ -22,6 +22,9 @@ Tienes [Nike T-Shirt FC Barcelona Covert Camiseta  Unisex niños  Negro  Black/W
 
 [![Nike T-Shirt FC Barcelona Covert Camiset](https://images-eu.ssl-images-amazon.com/images/I/31%2BcOHf15XL._SL200_.jpg)](https://www.amazon.es/dp/B00P97RUO8/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00P97RUO8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

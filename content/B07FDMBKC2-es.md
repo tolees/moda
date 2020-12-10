@@ -22,6 +22,9 @@ Tienes [Spiderman 5973 Camiseta  Negro Noir  6 años para Niños](https://www.am
 
 [![Spiderman 5973 Camiseta  Negro Noir  6 a](https://images-eu.ssl-images-amazon.com/images/I/41DjweqhU9L._SL200_.jpg)](https://www.amazon.es/dp/B07FDMBKC2/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07FDMBKC2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

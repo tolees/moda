@@ -22,6 +22,9 @@ Tienes [Joma Brama Classic  Camiseta térmica Unisex  Negro  L/XL](https://www.a
 
 [![Joma Brama Classic  Camiseta térmica Uni](https://images-eu.ssl-images-amazon.com/images/I/31lbuek%2BoFL._SL200_.jpg)](https://www.amazon.es/dp/B009KO84HS/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B009KO84HS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

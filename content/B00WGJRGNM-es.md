@@ -22,6 +22,9 @@ Tienes [Trutex 2PK LS Non Iron Shirt  Camisa Niños  Oro  Gold   16+ Años  tall
 
 [![Trutex 2PK LS Non Iron Shirt  Camisa Niñ](https://images-eu.ssl-images-amazon.com/images/I/41F1rZE1rXL._SL200_.jpg)](https://www.amazon.es/dp/B00WGJRGNM/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00WGJRGNM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

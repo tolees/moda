@@ -22,6 +22,9 @@ Está [Quiksilver Everyday Sudadera con Capucha y Cremallera  Hombre  Gris  Dark
 
 [![Quiksilver Everyday Sudadera con Capucha](https://images-eu.ssl-images-amazon.com/images/I/41ftQAob3YL._SL200_.jpg)](https://www.amazon.es/dp/B07DHV9LZC/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DHV9LZC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

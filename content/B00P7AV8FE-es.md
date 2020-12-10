@@ -22,6 +22,9 @@ Tienes [Burton Support Guantes de Snowboard  Hombre  Negro  True   XS](https://w
 
 [![Burton Support Guantes de Snowboard  Hom](https://images-eu.ssl-images-amazon.com/images/I/41QXLX4BrSL._SL200_.jpg)](https://www.amazon.es/dp/B00P7AV8FE/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00P7AV8FE/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

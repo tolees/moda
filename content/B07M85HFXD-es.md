@@ -22,6 +22,9 @@ Ahora mismo tienes [Levi s Levis 200SF CALEIDOSCOPE Boxer Brief 2P Culotte  Azul
 
 [![Levi s Levis 200SF CALEIDOSCOPE Boxer Br](https://images-eu.ssl-images-amazon.com/images/I/41lE6oY5k6L._SL200_.jpg)](https://www.amazon.es/dp/B07M85HFXD/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07M85HFXD/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

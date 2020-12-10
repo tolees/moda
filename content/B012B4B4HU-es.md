@@ -22,6 +22,9 @@ Ahora mismo tienes [Les Sophistiquees Abito Smanicato  Vestido para Mujer   Beig
 
 [![Les Sophistiquees Abito Smanicato  Vesti](https://images-eu.ssl-images-amazon.com/images/I/31BsnHuzhQL._SL200_.jpg)](https://www.amazon.es/dp/B012B4B4HU/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B012B4B4HU/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

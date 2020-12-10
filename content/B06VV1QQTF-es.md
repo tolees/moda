@@ -22,6 +22,9 @@ Está [MAMALICIOUS Mlnicki 3/4 Tencel Above Knee Dress A  Vestido para Mujer  Az
 
 [![MAMALICIOUS Mlnicki 3/4 Tencel Above Kne](https://images-eu.ssl-images-amazon.com/images/I/31KFw5POIPL._SL200_.jpg)](https://www.amazon.es/dp/B06VV1QQTF/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B06VV1QQTF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

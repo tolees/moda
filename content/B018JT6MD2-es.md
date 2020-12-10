@@ -22,6 +22,9 @@ Ahora mismo tienes [Levi s Levis 300LS Long Sleeve Henley 1P  Camiseta de Tirant
 
 [![Levi s Levis 300LS Long Sleeve Henley 1P](https://images-eu.ssl-images-amazon.com/images/I/411V1EO0lmL._SL200_.jpg)](https://www.amazon.es/dp/B018JT6MD2/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B018JT6MD2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

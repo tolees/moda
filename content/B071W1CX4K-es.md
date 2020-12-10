@@ -22,6 +22,9 @@ Está [LEGO Saxton 750 Sudadera  Niños  Gris  Grey Melange   104  Tamaño del F
 
 [![LEGO Saxton 750 Sudadera  Niños  Gris  G](https://images-eu.ssl-images-amazon.com/images/I/51cOWyoN0YL._SL200_.jpg)](https://www.amazon.es/dp/B071W1CX4K/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B071W1CX4K/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

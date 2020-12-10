@@ -22,6 +22,9 @@ Está [Only Onlboomerang 3/4 Stud Unicorn Jrs  Camiseta Mujer  Gris  Light Grey 
 
 [![Only Onlboomerang 3/4 Stud Unicorn Jrs  ](https://images-eu.ssl-images-amazon.com/images/I/41WJ5Ba8MJL._SL200_.jpg)](https://www.amazon.es/dp/B06XYTK4CV/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B06XYTK4CV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

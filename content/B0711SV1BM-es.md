@@ -22,6 +22,9 @@ Está [Under Armour Men s Rocket 3 Basketball Shoes  Zapatos de Baloncesto para 
 
 [![Under Armour Men s Rocket 3 Basketball S](https://images-eu.ssl-images-amazon.com/images/I/41Ke62FlwdL._SL200_.jpg)](https://www.amazon.es/dp/B0711SV1BM/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0711SV1BM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

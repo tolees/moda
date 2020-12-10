@@ -22,6 +22,9 @@ Está [find. Blusa con Mangas de Lunares para Mujer  Rojo  Red   42  Talla del F
 
 [![find. Blusa con Mangas de Lunares para M](https://images-eu.ssl-images-amazon.com/images/I/41dTfyg7t3L._SL200_.jpg)](https://www.amazon.es/dp/B074H2FHMT/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B074H2FHMT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

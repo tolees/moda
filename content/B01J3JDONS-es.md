@@ -22,6 +22,9 @@ Está [Columbia CSC Basic Logo Camiseta de Manga Corta  Hombre  Gris Grey Heathe
 
 [![Columbia CSC Basic Logo Camiseta de Mang](https://images-eu.ssl-images-amazon.com/images/I/41e%2Bh-F01FL._SL200_.jpg)](https://www.amazon.es/dp/B01J3JDONS/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01J3JDONS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

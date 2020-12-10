@@ -22,6 +22,9 @@ Está [Geox D Nebula C  Zapatillas para Mujer  Beige  Cream C0423   39 EU](https
 
 [![Geox D Nebula C  Zapatillas para Mujer  ](https://images-eu.ssl-images-amazon.com/images/I/41jtBDIS0oL._SL200_.jpg)](https://www.amazon.es/dp/B07DJ3VXCB/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DJ3VXCB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

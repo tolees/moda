@@ -22,6 +22,9 @@ Está [JACK & JONES Jcoten Jacket  Chaqueta para Hombre  Azul  Sky Captain  Medi
 
 [![JACK & JONES Jcoten Jacket  Chaqueta par](https://images-eu.ssl-images-amazon.com/images/I/41160yjKI8L._SL200_.jpg)](https://www.amazon.es/dp/B07F93PJSN/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07F93PJSN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Jimmy Choo BEBI/S J6 PUE 53 Gafas de Sol  Negro  Animalier BK/Brown SF   
 
 [![Jimmy Choo BEBI/S J6 PUE 53 Gafas de Sol](https://images-eu.ssl-images-amazon.com/images/I/3123skUKQfL._SL200_.jpg)](https://www.amazon.es/dp/B01BU35II4/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01BU35II4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

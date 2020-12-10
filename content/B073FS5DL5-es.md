@@ -22,6 +22,9 @@ Ahora mismo tienes [JACK & JONES Jcoslice Sweat Crew Neck  Sudadera para Hombre 
 
 [![JACK & JONES Jcoslice Sweat Crew Neck  S](https://images-eu.ssl-images-amazon.com/images/I/41tIDVwL7hL._SL200_.jpg)](https://www.amazon.es/dp/B073FS5DL5/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B073FS5DL5/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

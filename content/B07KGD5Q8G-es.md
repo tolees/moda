@@ -22,6 +22,9 @@ Ahora mismo tienes [BOSS Trunk 3P CO/EL Bóxer   Open Miscellaneous 989   Large 
 
 [![BOSS Trunk 3P CO/EL Bóxer   Open Miscell](https://images-eu.ssl-images-amazon.com/images/I/41c%2BkfbsqVL._SL200_.jpg)](https://www.amazon.es/dp/B07KGD5Q8G/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07KGD5Q8G/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

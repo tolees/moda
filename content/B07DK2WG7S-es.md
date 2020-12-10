@@ -22,6 +22,9 @@ Está [Geox Jr Plie  D  Bailarinas para Niñas  Navy C4002  30 EU](https://www.a
 
 [![Geox Jr Plie  D  Bailarinas para Niñas  ](https://images-eu.ssl-images-amazon.com/images/I/31aEeNtKtHL._SL200_.jpg)](https://www.amazon.es/dp/B07DK2WG7S/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DK2WG7S/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

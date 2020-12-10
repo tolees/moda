@@ -22,6 +22,9 @@ Está [Naf Naf Kenr138ad  Vestido para Mujer  Negro  Noir/Fantaisie Aaqd  40](ht
 
 [![Naf Naf Kenr138ad  Vestido para Mujer  N](https://images-eu.ssl-images-amazon.com/images/I/412dJAcd0HL._SL200_.jpg)](https://www.amazon.es/dp/B07LFBZLW9/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07LFBZLW9/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

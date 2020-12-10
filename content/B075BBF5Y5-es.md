@@ -22,6 +22,9 @@ Está [MERAKI Vestido Maxi Slim Fit de Algodón Mujer  Negro  Black   X-Small](h
 
 [![MERAKI Vestido Maxi Slim Fit de Algodón ](https://images-eu.ssl-images-amazon.com/images/I/31S%2BJZD1jjL._SL200_.jpg)](https://www.amazon.es/dp/B075BBF5Y5/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B075BBF5Y5/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Crocs Crocband Flip  Chanclas Unisex Adulto  Negro  Black   42/43 EU](ht
 
 [![Crocs Crocband Flip  Chanclas Unisex Adu](https://images-eu.ssl-images-amazon.com/images/I/31nFkWbAcCL._SL200_.jpg)](https://www.amazon.es/dp/B002SNA7XC/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B002SNA7XC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

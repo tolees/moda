@@ -22,6 +22,9 @@ Está [FIND Vaqueros Recto Hombre   Gris  Grey Wash   W34/L32](https://www.amazo
 
 [![FIND Vaqueros Recto Hombre   Gris  Grey ](https://images-eu.ssl-images-amazon.com/images/I/41UbmlI7akL._SL200_.jpg)](https://www.amazon.es/dp/B0757YQJBX/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0757YQJBX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

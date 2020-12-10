@@ -22,6 +22,9 @@ Está [BROOKS BROTHERS Denim Lunghi Slim Fit Red Fleece  Vaqueros Hombre  Azul  
 
 [![BROOKS BROTHERS Denim Lunghi Slim Fit Re](https://images-eu.ssl-images-amazon.com/images/I/41TXbrDvkCL._SL200_.jpg)](https://www.amazon.es/dp/B01FHSN1R8/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01FHSN1R8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

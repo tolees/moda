@@ -22,6 +22,9 @@ Ahora mismo tienes [RED WAGON Vestido con Volante Niñas  Azul  Lt Blue   8 año
 
 [![RED WAGON Vestido con Volante Niñas  Azu](https://images-eu.ssl-images-amazon.com/images/I/31RHdThDg1L._SL200_.jpg)](https://www.amazon.es/dp/B075MMQJ8S/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B075MMQJ8S/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

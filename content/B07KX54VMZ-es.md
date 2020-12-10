@@ -22,6 +22,9 @@ Está [ESPRIT Collection 029eo1g014 Abrigo  Azul  Navy 400   44  Talla del Fabri
 
 [![ESPRIT Collection 029eo1g014 Abrigo  Azu](https://images-eu.ssl-images-amazon.com/images/I/312fcp3IIXL._SL200_.jpg)](https://www.amazon.es/dp/B07KX54VMZ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KX54VMZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

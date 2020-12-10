@@ -22,6 +22,9 @@ Está [Naf Naf Jhnr66d  Vestido para Mujer  Azul  Bleu Marine 567  38](https://w
 
 [![Naf Naf Jhnr66d  Vestido para Mujer  Azu](https://images-eu.ssl-images-amazon.com/images/I/317VKq8BjiL._SL200_.jpg)](https://www.amazon.es/dp/B07FSFW3YM/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FSFW3YM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

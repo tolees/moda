@@ -22,6 +22,9 @@ Está [Geox U Jaylon G  Botas Clasicas para Hombre   Black C9999   41 EU](https:
 
 [![Geox U Jaylon G  Botas Clasicas para Hom](https://images-eu.ssl-images-amazon.com/images/I/31NJyz5Iy6L._SL200_.jpg)](https://www.amazon.es/dp/B07B8ZL7D6/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07B8ZL7D6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

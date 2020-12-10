@@ -22,6 +22,9 @@ Está [Only Onlcarmen Reg SK ANK JNS Rea19541 Noos  Vaqueros Skinny para Mujer  
 
 [![Only Onlcarmen Reg SK ANK JNS Rea19541 N](https://images-eu.ssl-images-amazon.com/images/I/41htGf-flAL._SL200_.jpg)](https://www.amazon.es/dp/B07CJS8RC4/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07CJS8RC4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

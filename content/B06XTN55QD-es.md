@@ -22,6 +22,9 @@ Está [Pepe Jeans LIDA XL PG300783 Camisa  Azul  7Oz Queenofhearts 000   Medium 
 
 [![Pepe Jeans LIDA XL PG300783 Camisa  Azul](https://images-eu.ssl-images-amazon.com/images/I/414ME9t9KeL._SL200_.jpg)](https://www.amazon.es/dp/B06XTN55QD/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B06XTN55QD/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

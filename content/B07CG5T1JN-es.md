@@ -22,6 +22,9 @@ Está [Pepe Jeans Regent Vaqueros Slim  Azul  Denim CF5   26W / 32L para Mujer](
 
 [![Pepe Jeans Regent Vaqueros Slim  Azul  D](https://images-eu.ssl-images-amazon.com/images/I/41c8oGGm9JL._SL200_.jpg)](https://www.amazon.es/dp/B07CG5T1JN/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07CG5T1JN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

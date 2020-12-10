@@ -22,6 +22,9 @@ Tienes [RED WAGON Gingham Dress Vestido para Niñas  Multicolor  Multi   4 años
 
 [![RED WAGON Gingham Dress Vestido para Niñ](https://images-eu.ssl-images-amazon.com/images/I/51SPoBw7F1L._SL200_.jpg)](https://www.amazon.es/dp/B01N5A48HA/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01N5A48HA/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

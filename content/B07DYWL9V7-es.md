@@ -22,6 +22,9 @@ Ahora mismo tienes [Columbia Pantalón de esquí para Hombre  Bugaboo Omni Heat 
 
 [![Columbia Pantalón de esquí para Hombre  ](https://images-eu.ssl-images-amazon.com/images/I/415WjrBuZUL._SL200_.jpg)](https://www.amazon.es/dp/B07DYWL9V7/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07DYWL9V7/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

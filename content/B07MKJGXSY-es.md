@@ -22,6 +22,9 @@ Está [G-STAR RAW D-STAQ 5-Pocket Skinny Colored Vaqueros  Beige  Sahara A791-43
 
 [![G-STAR RAW D-STAQ 5-Pocket Skinny Colore](https://images-eu.ssl-images-amazon.com/images/I/31%2B%2Br1BGZvL._SL200_.jpg)](https://www.amazon.es/dp/B07MKJGXSY/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07MKJGXSY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

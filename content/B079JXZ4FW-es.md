@@ -22,6 +22,9 @@ Ahora mismo tienes [Napapijri Rainforest Camou  Chaqueta   Fantasy F84   Small p
 
 [![Napapijri Rainforest Camou  Chaqueta   F](https://images-eu.ssl-images-amazon.com/images/I/41QpBE5vLZL._SL200_.jpg)](https://www.amazon.es/dp/B079JXZ4FW/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B079JXZ4FW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

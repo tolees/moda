@@ -22,6 +22,9 @@ Tienes [Levi s 501 Original Fit- Vaqueros para hombre  Azul  Onewash 101   W32/L
 
 [![Levi s 501 Original Fit- Vaqueros para h](https://images-eu.ssl-images-amazon.com/images/I/41sVvJ-73QL._SL200_.jpg)](https://www.amazon.es/dp/B001QOE5T6/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B001QOE5T6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Geox Jr Wader  Sandalias Punta Cerrada para Niños  Rojo  Black/Red C0048
 
 [![Geox Jr Wader  Sandalias Punta Cerrada p](https://images-eu.ssl-images-amazon.com/images/I/41ZpIT0mbjL._SL200_.jpg)](https://www.amazon.es/dp/B07DK4Y14P/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DK4Y14P/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

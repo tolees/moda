@@ -22,6 +22,9 @@ Está [Blend  20702635 - Camisa de Manga Corta para Hombre  Color Azul  74636   
 
 [![Blend  20702635 - Camisa de Manga Corta ](https://images-eu.ssl-images-amazon.com/images/I/416WEPiHhJL._SL200_.jpg)](https://www.amazon.es/dp/B01N9KIEYP/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01N9KIEYP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

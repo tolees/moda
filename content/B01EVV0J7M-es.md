@@ -22,6 +22,9 @@ Ahora mismo tienes [Fendi Brillengestelle FF 0070/F MJH/16-53-16-135 Monturas de
 
 [![Fendi Brillengestelle FF 0070/F MJH/16-5](https://images-eu.ssl-images-amazon.com/images/I/3122jSQOufL._SL200_.jpg)](https://www.amazon.es/dp/B01EVV0J7M/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01EVV0J7M/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

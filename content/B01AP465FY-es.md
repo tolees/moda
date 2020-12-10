@@ -22,6 +22,9 @@ Está [Geox Jr Federico M  Zapatos de Cordones Derby para Niños  Negro  42 EU](
 
 [![Geox Jr Federico M  Zapatos de Cordones ](https://images-eu.ssl-images-amazon.com/images/I/41Ttp4pYvvL._SL200_.jpg)](https://www.amazon.es/dp/B01AP465FY/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01AP465FY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

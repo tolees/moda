@@ -22,6 +22,9 @@ Está [Chicco 09006469000000-030  Camiseta Unisex bebé  Blanco  Naturale 030  6
 
 [![Chicco 09006469000000-030  Camiseta Unis](https://images-eu.ssl-images-amazon.com/images/I/41CVuxmlvlL._SL200_.jpg)](https://www.amazon.es/dp/B079Z6VXQN/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B079Z6VXQN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

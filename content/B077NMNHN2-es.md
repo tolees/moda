@@ -22,6 +22,9 @@ Está [Lee Slim Rider  Chaqueta Vaquera para Hombre  Azul  Fresh Kiup  Medium](h
 
 [![Lee Slim Rider  Chaqueta Vaquera para Ho](https://images-eu.ssl-images-amazon.com/images/I/51c7lmNUw9L._SL200_.jpg)](https://www.amazon.es/dp/B077NMNHN2/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B077NMNHN2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

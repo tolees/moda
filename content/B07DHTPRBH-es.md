@@ -22,6 +22,9 @@ Está [Roxy Jetty Chaqueta  Mujer   Bright Blanco_freespace Girl   L](https://ww
 
 [![Roxy Jetty Chaqueta  Mujer   Bright Blan](https://images-eu.ssl-images-amazon.com/images/I/51a2RiETDiL._SL200_.jpg)](https://www.amazon.es/dp/B07DHTPRBH/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DHTPRBH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

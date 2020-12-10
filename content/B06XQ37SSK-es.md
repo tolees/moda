@@ -22,6 +22,9 @@ Está [Desigual Jers_arraga Chaqueta Punto  Gris Vigore Oscuro 2043  Large para 
 
 [![Desigual Jers_arraga Chaqueta Punto  Gri](https://images-eu.ssl-images-amazon.com/images/I/51ItwHlHQsL._SL200_.jpg)](https://www.amazon.es/dp/B06XQ37SSK/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B06XQ37SSK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

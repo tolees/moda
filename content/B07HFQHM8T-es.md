@@ -22,6 +22,9 @@ Tienes [JACK & JONES Jactropicana Trunks 3 Pack  Bóxer Hombre   Bonnie Blue Det
 
 [![JACK & JONES Jactropicana Trunks 3 Pack ](https://images-eu.ssl-images-amazon.com/images/I/51hKbkWFaYL._SL200_.jpg)](https://www.amazon.es/dp/B07HFQHM8T/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07HFQHM8T/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

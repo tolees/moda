@@ -22,6 +22,9 @@ Está [edc by Esprit 047cc1k015  Camiseta Mujer   Off White   36  Talla del Fabr
 
 [![edc by Esprit 047cc1k015  Camiseta Mujer](https://images-eu.ssl-images-amazon.com/images/I/41znHi3rMxL._SL200_.jpg)](https://www.amazon.es/dp/B01NCX0DRD/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01NCX0DRD/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

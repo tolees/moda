@@ -22,6 +22,9 @@ Está [Springfield 4.2.T.MD.Falda Botonadura  Falda para Mujer   Negro 1    Tama
 
 [![Springfield 4.2.T.MD.Falda Botonadura  F](https://images-eu.ssl-images-amazon.com/images/I/41-akxEL2lL._SL200_.jpg)](https://www.amazon.es/dp/B07DLLKXWC/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DLLKXWC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

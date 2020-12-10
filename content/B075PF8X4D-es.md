@@ -22,6 +22,9 @@ Tienes [Vans_Apparel Vans Clan  Camiseta para Mujer  Negro  Black   6  Talla del
 
 [![Vans_Apparel Vans Clan  Camiseta para Mu](https://images-eu.ssl-images-amazon.com/images/I/41BvSBnIddL._SL200_.jpg)](https://www.amazon.es/dp/B075PF8X4D/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B075PF8X4D/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

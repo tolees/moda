@@ -22,6 +22,9 @@ Está [Pepe Jeans Cashed Vaqueros slim  Azul  Blue Black Wk0   10 años para Ni�
 
 [![Pepe Jeans Cashed Vaqueros slim  Azul  B](https://images-eu.ssl-images-amazon.com/images/I/31yEFKsg9UL._SL200_.jpg)](https://www.amazon.es/dp/B079RQQ42Q/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B079RQQ42Q/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

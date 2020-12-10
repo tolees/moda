@@ -22,6 +22,9 @@ Tienes [JACK & JONES Jjitim Jjoriginal Jos 220 Noos  Vaqueros Slim Hombre  Negro
 
 [![JACK & JONES Jjitim Jjoriginal Jos 220 N](https://images-eu.ssl-images-amazon.com/images/I/31SF9acirKL._SL200_.jpg)](https://www.amazon.es/dp/B07FQDQ2YV/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07FQDQ2YV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

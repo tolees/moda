@@ -22,6 +22,9 @@ Tienes [JACK & JONES Jacstyle 2 Trunks 3 Pack Bóxer  Azul  Dark Denim Detail: B
 
 [![JACK & JONES Jacstyle 2 Trunks 3 Pack Bó](https://images-eu.ssl-images-amazon.com/images/I/51r4vPxjskL._SL200_.jpg)](https://www.amazon.es/dp/B078W6YS9S/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B078W6YS9S/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

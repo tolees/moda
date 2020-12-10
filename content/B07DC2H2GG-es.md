@@ -22,6 +22,9 @@ Ahora mismo tienes [flintronic ® Tarjetas de Crédito  Cartera Piel RFID Billet
 
 [![flintronic ® Tarjetas de Crédito  Carter](https://images-eu.ssl-images-amazon.com/images/I/5160-hvpvWL._SL200_.jpg)](https://www.amazon.es/dp/B07DC2H2GG/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07DC2H2GG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

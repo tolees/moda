@@ -22,6 +22,9 @@ Está [Under Armour UA Big Logo Slash Tank Camiseta sin Mangas  Niñas  Rosa  97
 
 [![Under Armour UA Big Logo Slash Tank Cami](https://images-eu.ssl-images-amazon.com/images/I/41E2K7m0NaL._SL200_.jpg)](https://www.amazon.es/dp/B01M6Z9N9J/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01M6Z9N9J/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

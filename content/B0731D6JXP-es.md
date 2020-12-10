@@ -22,6 +22,9 @@ Ahora mismo tienes [Volcom Brakk P/O Sudadera con Capucha  Hombre  Cobre  S](htt
 
 [![Volcom Brakk P/O Sudadera con Capucha  H](https://images-eu.ssl-images-amazon.com/images/I/413QG683nvL._SL200_.jpg)](https://www.amazon.es/dp/B0731D6JXP/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B0731D6JXP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

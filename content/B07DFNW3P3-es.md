@@ -22,6 +22,9 @@ Está [Puma Ignite S/S Mono Camiseta  Hombre  Black  XL](https://www.amazon.es/d
 
 [![Puma Ignite S/S Mono Camiseta  Hombre  B](https://images-eu.ssl-images-amazon.com/images/I/31HOEpd4dhL._SL200_.jpg)](https://www.amazon.es/dp/B07DFNW3P3/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DFNW3P3/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

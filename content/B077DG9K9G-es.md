@@ -22,6 +22,9 @@ Ahora mismo tienes [Crocs Swiftwater River Sandal  Sandalias de Punta Descubiert
 
 [![Crocs Swiftwater River Sandal  Sandalias](https://images-eu.ssl-images-amazon.com/images/I/41K-K6DLVHL._SL200_.jpg)](https://www.amazon.es/dp/B077DG9K9G/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B077DG9K9G/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

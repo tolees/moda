@@ -22,6 +22,9 @@ Está [Replay Joi Vaqueros Skinny  Azul  Dark Blue 7   W24/L30  Talla del Fabric
 
 [![Replay Joi Vaqueros Skinny  Azul  Dark B](https://images-eu.ssl-images-amazon.com/images/I/31botKny4PL._SL200_.jpg)](https://www.amazon.es/dp/B077K5MZZD/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B077K5MZZD/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

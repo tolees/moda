@@ -22,6 +22,9 @@ Está [Nike W NSW TCH FLC Hoodie FZ Sudadera  Mujer  Gris  Carbon Heather/Htr/Bl
 
 [![Nike W NSW TCH FLC Hoodie FZ Sudadera  M](https://images-eu.ssl-images-amazon.com/images/I/51nWH8js7BL._SL200_.jpg)](https://www.amazon.es/dp/B01MY2B4JR/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01MY2B4JR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

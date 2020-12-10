@@ -22,6 +22,9 @@ Está [Brooks Brothers Gilet Trapuntato - Chaleco Guateado para hombre  color ve
 
 [![Brooks Brothers Gilet Trapuntato - Chale](https://images-eu.ssl-images-amazon.com/images/I/41Biso6O8hL._SL200_.jpg)](https://www.amazon.es/dp/B00YJ2EAT2/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00YJ2EAT2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [IRIS & LILLY Culotte por la Cadera Body Smooth para Mujer  Pack de 3  Ne
 
 [![IRIS & LILLY Culotte por la Cadera Body ](https://images-eu.ssl-images-amazon.com/images/I/313UNYKbm0L._SL200_.jpg)](https://www.amazon.es/dp/B06X9YFM21/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B06X9YFM21/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Women Secret ME Embroidery Tunic Blusa  Mujer  Beige  Ivory   Medium  Tam
 
 [![Women Secret ME Embroidery Tunic Blusa  ](https://images-eu.ssl-images-amazon.com/images/I/31LLz2IEymL._SL200_.jpg)](https://www.amazon.es/dp/B06Y43XKVV/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B06Y43XKVV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

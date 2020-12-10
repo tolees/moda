@@ -22,6 +22,9 @@ Tienes [G-Star Starkon R T S/s  Camiseta para Hombre  Negro  Dark Black  Small](
 
 [![G-Star Starkon R T S/s  Camiseta para Ho](https://images-eu.ssl-images-amazon.com/images/I/51DrQvJ1VJL._SL200_.jpg)](https://www.amazon.es/dp/B07B4RYWY7/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07B4RYWY7/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

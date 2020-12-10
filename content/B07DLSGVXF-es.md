@@ -22,6 +22,9 @@ Está [Springfield 4.Pa. Detalle Cintas Esco Camiseta de Manga Larga  Mujer  Ros
 
 [![Springfield 4.Pa. Detalle Cintas Esco Ca](https://images-eu.ssl-images-amazon.com/images/I/315vh5onKvL._SL200_.jpg)](https://www.amazon.es/dp/B07DLSGVXF/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DLSGVXF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

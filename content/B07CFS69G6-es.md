@@ -22,6 +22,9 @@ Está [Pepe Jeans George  Camiseta para Hombre  Azul  Lt Blue 501  Medium](https
 
 [![Pepe Jeans George  Camiseta para Hombre ](https://images-eu.ssl-images-amazon.com/images/I/41JjDFcqtDL._SL200_.jpg)](https://www.amazon.es/dp/B07CFS69G6/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07CFS69G6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

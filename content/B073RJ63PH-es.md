@@ -22,6 +22,9 @@ Está [Vero Moda Vmglory Fullneedle Funnel LS Blouse Camiseta Cuello Alto  Negro
 
 [![Vero Moda Vmglory Fullneedle Funnel LS B](https://images-eu.ssl-images-amazon.com/images/I/41-52ftkkEL._SL200_.jpg)](https://www.amazon.es/dp/B073RJ63PH/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B073RJ63PH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Smiffy S 31126S Disfraz Fever De Boxeadora Con Camiseta  Shorts Chaqueta
 
 [![Smiffy S 31126S Disfraz Fever De Boxeado](https://images-eu.ssl-images-amazon.com/images/I/31y19UmQifL._SL200_.jpg)](https://www.amazon.es/dp/B003B9AIOU/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B003B9AIOU/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

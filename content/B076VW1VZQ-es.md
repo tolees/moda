@@ -22,6 +22,9 @@ Ahora mismo tienes [Pepe Jeans New Brooke Pl200019 Vaqueros  Azul  10Oz Str Amer
 
 [![Pepe Jeans New Brooke Pl200019 Vaqueros ](https://images-eu.ssl-images-amazon.com/images/I/4104njRKq5L._SL200_.jpg)](https://www.amazon.es/dp/B076VW1VZQ/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B076VW1VZQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

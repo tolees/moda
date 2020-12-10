@@ -22,6 +22,9 @@ Está [Esprit 018ee1f003  Blusa Mujer  Rojo  Berry Red 625   40](https://www.ama
 
 [![Esprit 018ee1f003  Blusa Mujer  Rojo  Be](https://images-eu.ssl-images-amazon.com/images/I/41lBu2WwHgL._SL200_.jpg)](https://www.amazon.es/dp/B0765CYHH1/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0765CYHH1/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

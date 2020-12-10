@@ -22,6 +22,9 @@ Está [Columbia Hombre Camiseta  CSC Basic Logo  Algodón  Rosa  Rosewater   Tal
 
 [![Columbia Hombre Camiseta  CSC Basic Logo](https://images-eu.ssl-images-amazon.com/images/I/31p8zpbHndL._SL200_.jpg)](https://www.amazon.es/dp/B07KSNVC9Z/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KSNVC9Z/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

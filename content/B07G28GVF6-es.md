@@ -22,6 +22,9 @@ Ahora mismo tienes [Real madrid cf Bolsa Deporte Bolso de Viaje 50 cm.](https://
 
 [![Real madrid cf Bolsa Deporte Bolso de Vi](https://images-eu.ssl-images-amazon.com/images/I/41pYQgcNkkL._SL200_.jpg)](https://www.amazon.es/dp/B07G28GVF6/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07G28GVF6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

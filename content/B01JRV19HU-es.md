@@ -22,6 +22,9 @@ Ahora mismo tienes [Cressi Ninja Floating - Gafas de Sol Premium](https://www.am
 
 [![Cressi Ninja Floating - Gafas de Sol Pre](https://images-eu.ssl-images-amazon.com/images/I/41ouWhS7pKL._SL200_.jpg)](https://www.amazon.es/dp/B01JRV19HU/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01JRV19HU/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

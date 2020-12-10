@@ -22,6 +22,9 @@ Está [Springfield 6.J.Ap.T.Studs All Granat Jersey  Mujer  Rojo  Gama Rojos 67 
 
 [![Springfield 6.J.Ap.T.Studs All Granat Je](https://images-eu.ssl-images-amazon.com/images/I/41pN1VIG%2BPL._SL200_.jpg)](https://www.amazon.es/dp/B07DLK3N12/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DLK3N12/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

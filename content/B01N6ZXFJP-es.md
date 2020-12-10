@@ -22,6 +22,9 @@ Está [Lacoste TH6709  Camiseta para Hombre  Azul  Marine   XL  Talla del fabric
 
 [![Lacoste TH6709  Camiseta para Hombre  Az](https://images-eu.ssl-images-amazon.com/images/I/31o1-zNdmjL._SL200_.jpg)](https://www.amazon.es/dp/B01N6ZXFJP/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01N6ZXFJP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

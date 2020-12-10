@@ -22,6 +22,9 @@ Está [Gant O2. Striped Flared Dress Vestido  Azul  Persian Blue 423   Large par
 
 [![Gant O2. Striped Flared Dress Vestido  A](https://images-eu.ssl-images-amazon.com/images/I/41HtH6r%2BV3L._SL200_.jpg)](https://www.amazon.es/dp/B07KPRTB96/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KPRTB96/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

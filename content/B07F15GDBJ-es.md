@@ -22,6 +22,9 @@ Está [JACK & JONES Jcocarlo Sweat Zip Hood Noos  Sudadera para Hombre  Gris Lig
 
 [![JACK & JONES Jcocarlo Sweat Zip Hood Noo](https://images-eu.ssl-images-amazon.com/images/I/41ko9TRpNeL._SL200_.jpg)](https://www.amazon.es/dp/B07F15GDBJ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07F15GDBJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

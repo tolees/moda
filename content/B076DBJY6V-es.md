@@ -22,6 +22,9 @@ Está [Pepe Jeans New Berry  Chaqueta para Niñas  Azul  12Oz Gymdigo Medium I62
 
 [![Pepe Jeans New Berry  Chaqueta para Niña](https://images-eu.ssl-images-amazon.com/images/I/51TyPYSWesL._SL200_.jpg)](https://www.amazon.es/dp/B076DBJY6V/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B076DBJY6V/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [BILLABONG Barlow Trucker Chaqueta  Hombre  Marrón  Tobacco 2845   Mediu
 
 [![BILLABONG Barlow Trucker Chaqueta  Hombr](https://images-eu.ssl-images-amazon.com/images/I/4191QW2eleL._SL200_.jpg)](https://www.amazon.es/dp/B07F11QPPZ/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07F11QPPZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

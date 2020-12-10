@@ -22,6 +22,9 @@ Está [Disney Mickey 4809 Pijama  Blanc  5 años para Niños](https://www.amazon
 
 [![Disney Mickey 4809 Pijama  Blanc  5 años](https://images-eu.ssl-images-amazon.com/images/I/31WW3QV-I%2BL._SL200_.jpg)](https://www.amazon.es/dp/B07FDFWD6G/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FDFWD6G/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

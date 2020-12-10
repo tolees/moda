@@ -22,6 +22,9 @@ Tienes [Geox U Avery A  Zapatillas para Hombre  Negro  43 EU](https://www.amazon
 
 [![Geox U Avery A  Zapatillas para Hombre  ](https://images-eu.ssl-images-amazon.com/images/I/41SFa653V0L._SL200_.jpg)](https://www.amazon.es/dp/B076X8V6SQ/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B076X8V6SQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

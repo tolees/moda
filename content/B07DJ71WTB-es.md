@@ -22,6 +22,9 @@ Tienes [Geox U Renan C  Zapatillas para Hombre  Azul  Navy C4002   42 EU](https:
 
 [![Geox U Renan C  Zapatillas para Hombre  ](https://images-eu.ssl-images-amazon.com/images/I/41t9Tc9xlKL._SL200_.jpg)](https://www.amazon.es/dp/B07DJ71WTB/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07DJ71WTB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Gant Printed Shift Dress Vestido  Azul  Persian Blue   42  Talla del Fab
 
 [![Gant Printed Shift Dress Vestido  Azul  ](https://images-eu.ssl-images-amazon.com/images/I/41wLyr1vjWL._SL200_.jpg)](https://www.amazon.es/dp/B07B8ZVV87/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07B8ZVV87/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

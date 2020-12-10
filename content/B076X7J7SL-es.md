@@ -22,6 +22,9 @@ Tienes [Geox U Leitan B  Mocasines para Hombre  Azul  Navy   45 EU](https://www.
 
 [![Geox U Leitan B  Mocasines para Hombre  ](https://images-eu.ssl-images-amazon.com/images/I/41RZOY8SGfL._SL200_.jpg)](https://www.amazon.es/dp/B076X7J7SL/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B076X7J7SL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

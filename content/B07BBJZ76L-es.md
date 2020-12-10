@@ -22,6 +22,9 @@ Ahora mismo tienes [Softline 25461-21  Botines para Mujer  Azul  Navy 805   40 E
 
 [![Softline 25461-21  Botines para Mujer  A](https://images-eu.ssl-images-amazon.com/images/I/411TEj%2ByTKL._SL200_.jpg)](https://www.amazon.es/dp/B07BBJZ76L/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07BBJZ76L/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

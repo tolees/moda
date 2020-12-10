@@ -22,6 +22,9 @@ Está [Springfield 4.2.J.Ap.T.Jersey Rayas Cha  Jersey para Mujer   Gama Grises 
 
 [![Springfield 4.2.J.Ap.T.Jersey Rayas Cha ](https://images-eu.ssl-images-amazon.com/images/I/515uEHVcHoL._SL200_.jpg)](https://www.amazon.es/dp/B07DLGQVG6/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DLGQVG6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

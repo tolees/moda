@@ -22,6 +22,9 @@ Está [Levi s Plus Size 311 Pl Shaping Skinny Vaqueros  Negro  4X Stretch New Ul
 
 [![Levi s Plus Size 311 Pl Shaping Skinny V](https://images-eu.ssl-images-amazon.com/images/I/31XNpI4g4OL._SL200_.jpg)](https://www.amazon.es/dp/B07FHBQY3J/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FHBQY3J/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

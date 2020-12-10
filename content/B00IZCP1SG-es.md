@@ -22,6 +22,9 @@ Está [GOL - Vestido para niña  Color Schwarz  Black 2   Talla 14 años  162 cm
 
 [![GOL - Vestido para niña  Color Schwarz  ](https://images-eu.ssl-images-amazon.com/images/I/41KYXYxEZtL._SL200_.jpg)](https://www.amazon.es/dp/B00IZCP1SG/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00IZCP1SG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Lee Rider Vaqueros Slim  Azul  Blue Time CH   W28/L34  Talla del Fabrican
 
 [![Lee Rider Vaqueros Slim  Azul  Blue Time](https://images-eu.ssl-images-amazon.com/images/I/41yt0iHc7kL._SL200_.jpg)](https://www.amazon.es/dp/B07HH96JPV/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07HH96JPV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

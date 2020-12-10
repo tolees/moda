@@ -22,6 +22,9 @@ Ahora mismo tienes [JACK & JONES Jacpeter Trunks Noos. Bóxer  Azul Navy Blazer 
 
 [![JACK & JONES Jacpeter Trunks Noos. Bóxer](https://images-eu.ssl-images-amazon.com/images/I/51I13TIlq3L._SL200_.jpg)](https://www.amazon.es/dp/B07FQ8L8B6/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07FQ8L8B6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

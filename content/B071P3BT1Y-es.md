@@ -22,6 +22,9 @@ Tienes [Only Onlvictory Contrast Bomber CC Otw Chaqueta  Verde Olive Night  36  
 
 [![Only Onlvictory Contrast Bomber CC Otw C](https://images-eu.ssl-images-amazon.com/images/I/41PogL5xmwL._SL200_.jpg)](https://www.amazon.es/dp/B071P3BT1Y/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B071P3BT1Y/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

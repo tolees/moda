@@ -22,6 +22,9 @@ Está [Asics Gel-Rocket 8  Zapatos de Voleibol para Mujer  Gris  Mid Grey/Pink G
 
 [![Asics Gel-Rocket 8  Zapatos de Voleibol ](https://images-eu.ssl-images-amazon.com/images/I/41jitpm6ztL._SL200_.jpg)](https://www.amazon.es/dp/B07D1F4MB7/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07D1F4MB7/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

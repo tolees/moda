@@ -22,6 +22,9 @@ Está [Desigual Sweat_Diderot  Sudadera Niñas   Navy 5000 ](https://www.amazon.
 
 [![Desigual Sweat_Diderot  Sudadera Niñas  ](https://images-eu.ssl-images-amazon.com/images/I/41BL6D6SuhL._SL200_.jpg)](https://www.amazon.es/dp/B079SMTFG6/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B079SMTFG6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

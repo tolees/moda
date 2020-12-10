@@ -22,6 +22,9 @@ Está [Zapatos de Seguridad con Punta de Acero  Ligeros y Transpirables Zapatos 
 
 [![Zapatos de Seguridad con Punta de Acero ](https://images-eu.ssl-images-amazon.com/images/I/412XN44SukL._SL200_.jpg)](https://www.amazon.es/dp/B07M9DJKZV/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07M9DJKZV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

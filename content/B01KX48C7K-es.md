@@ -22,6 +22,9 @@ Ahora mismo tienes [Ray-Ban JUNIOR 0Rj9540S Gafas de sol  Gunmetal Top Red  47 U
 
 [![Ray-Ban JUNIOR 0Rj9540S Gafas de sol  Gu](https://images-eu.ssl-images-amazon.com/images/I/41pTnxWcDmL._SL200_.jpg)](https://www.amazon.es/dp/B01KX48C7K/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01KX48C7K/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Crocs Classic  Zuecos Unisex Adulto  Blanco  White 100b   38/39 EU](https
 
 [![Crocs Classic  Zuecos Unisex Adulto  Bla](https://images-eu.ssl-images-amazon.com/images/I/31WF4oqHjvL._SL200_.jpg)](https://www.amazon.es/dp/B01J99NA9U/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01J99NA9U/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

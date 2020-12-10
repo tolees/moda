@@ -22,6 +22,9 @@ Está [XTI 86074  Bolso Bandolera para Mujer  Marrón  Camel   32x20x17 cm  W x 
 
 [![XTI 86074  Bolso Bandolera para Mujer  M](https://images-eu.ssl-images-amazon.com/images/I/514ih1uNFiL._SL200_.jpg)](https://www.amazon.es/dp/B07JX9RKVW/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07JX9RKVW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

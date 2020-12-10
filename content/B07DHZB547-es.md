@@ -22,6 +22,9 @@ Ahora mismo tienes [United Colors of Benetton Heavy Jacket  Chaqueta para Mujer 
 
 [![United Colors of Benetton Heavy Jacket  ](https://images-eu.ssl-images-amazon.com/images/I/41PN8DgR5gL._SL200_.jpg)](https://www.amazon.es/dp/B07DHZB547/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07DHZB547/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

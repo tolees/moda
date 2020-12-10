@@ -22,6 +22,9 @@ Está [Pepe Jeans Artini Sudadera    Eclipse 968   Large para Hombre](https://ww
 
 [![Pepe Jeans Artini Sudadera    Eclipse 96](https://images-eu.ssl-images-amazon.com/images/I/41KQeIuyWCL._SL200_.jpg)](https://www.amazon.es/dp/B07CS9XHKB/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07CS9XHKB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

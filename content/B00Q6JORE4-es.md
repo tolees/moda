@@ -22,6 +22,9 @@ Está [Zapatillas de Senderismo Zapatos para Caminar Botas de montaÐa Montana H
 
 [![Zapatillas de Senderismo Zapatos para Ca](https://images-eu.ssl-images-amazon.com/images/I/51VUYqoNOHL._SL200_.jpg)](https://www.amazon.es/dp/B00Q6JORE4/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00Q6JORE4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

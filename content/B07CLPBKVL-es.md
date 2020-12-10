@@ -22,6 +22,9 @@ Está [CMP Fleece Knit Tech Sudadera Forro Polar  Mujer  Plateado  Silver/Asphal
 
 [![CMP Fleece Knit Tech Sudadera Forro Pola](https://images-eu.ssl-images-amazon.com/images/I/41hUEm3XP4L._SL200_.jpg)](https://www.amazon.es/dp/B07CLPBKVL/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07CLPBKVL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

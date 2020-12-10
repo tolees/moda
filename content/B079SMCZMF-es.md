@@ -22,6 +22,9 @@ Está [Desigual TS_Nisa  Camiseta para Mujer    Marino 5001  Small](https://www.
 
 [![Desigual TS_Nisa  Camiseta para Mujer   ](https://images-eu.ssl-images-amazon.com/images/I/41wzPAibjZL._SL200_.jpg)](https://www.amazon.es/dp/B079SMCZMF/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B079SMCZMF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

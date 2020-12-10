@@ -22,6 +22,9 @@ Tienes [Nasjac 1920 Flapper Set de accesorios de la década de Costume Collar Di
 
 [![Nasjac 1920 Flapper Set de accesorios de](https://images-eu.ssl-images-amazon.com/images/I/41y3M%2B9x%2BIL._SL200_.jpg)](https://www.amazon.es/dp/B07JQ8YD6H/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07JQ8YD6H/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

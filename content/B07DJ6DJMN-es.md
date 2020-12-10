@@ -22,6 +22,9 @@ Está [Geox Uomo Carnaby B  Zapatos de Cordones Brogue para Hombre  Azul  Navy C
 
 [![Geox Uomo Carnaby B  Zapatos de Cordones](https://images-eu.ssl-images-amazon.com/images/I/31LZqktC6aL._SL200_.jpg)](https://www.amazon.es/dp/B07DJ6DJMN/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DJ6DJMN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

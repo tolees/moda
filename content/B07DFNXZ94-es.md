@@ -22,6 +22,9 @@ Ahora mismo tienes [Calvin Klein Hip Brief 3pk  Bóxer para Hombre  Verde  B-For
 
 [![Calvin Klein Hip Brief 3pk  Bóxer para H](https://images-eu.ssl-images-amazon.com/images/I/41yFp8xnd9L._SL200_.jpg)](https://www.amazon.es/dp/B07DFNXZ94/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07DFNXZ94/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

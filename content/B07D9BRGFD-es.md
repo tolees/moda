@@ -22,6 +22,9 @@ Está [Marco Tozzi 26298-21  Botines para Mujer  Marrón  Tobacco Comb 465   37 
 
 [![Marco Tozzi 26298-21  Botines para Mujer](https://images-eu.ssl-images-amazon.com/images/I/41mw6RKuR6L._SL200_.jpg)](https://www.amazon.es/dp/B07D9BRGFD/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07D9BRGFD/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

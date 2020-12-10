@@ -22,6 +22,9 @@ Tienes [FUSHITON Zapatos de Agua para Buceo Snorkel Surf Piscina Playa Aqua Cycl
 
 [![FUSHITON Zapatos de Agua para Buceo Snor](https://images-eu.ssl-images-amazon.com/images/I/41tY3bfcB5L._SL200_.jpg)](https://www.amazon.es/dp/B07QQY4TV4/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07QQY4TV4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

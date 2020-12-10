@@ -22,6 +22,9 @@ Ahora mismo tienes [Love Moschino - Borsa Soft Grain Pu  Bolso de mano Mujer  Be
 
 [![Love Moschino - Borsa Soft Grain Pu  Bol](https://images-eu.ssl-images-amazon.com/images/I/31TvfEWLe6L._SL200_.jpg)](https://www.amazon.es/dp/B07LBJ7F6P/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07LBJ7F6P/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

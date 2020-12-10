@@ -22,6 +22,9 @@ Ahora mismo tienes [Guess U77G43  Bóxer para Hombre  F017  XX-Large  Tamaño de
 
 [![Guess U77G43  Bóxer para Hombre  F017  X](https://images-eu.ssl-images-amazon.com/images/I/41OipOUSiHL._SL200_.jpg)](https://www.amazon.es/dp/B06WWJ7D7V/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B06WWJ7D7V/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Clarks Un Globe Vibe  Zapatos de Cordones Derby para Hombre 
 
 [![Clarks Un Globe Vibe  Zapatos de Cordone](https://images-eu.ssl-images-amazon.com/images/I/31a7BQHLwaL._SL200_.jpg)](https://www.amazon.es/dp/B07FQX5HV8/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07FQX5HV8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

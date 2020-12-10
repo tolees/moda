@@ -22,6 +22,9 @@ Tienes [Morgan Blusa Crudo ES 40  FR 40 ](https://www.amazon.es/dp/B017NLWQ4G/?t
 
 [![Morgan Blusa Crudo ES 40  FR 40 ](https://images-eu.ssl-images-amazon.com/images/I/51OTRASungL._SL200_.jpg)](https://www.amazon.es/dp/B017NLWQ4G/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B017NLWQ4G/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

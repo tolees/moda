@@ -22,6 +22,9 @@ Ahora mismo tienes [JACK & JONES Jorknox Shirt LS Camisa   Rosette Fit:Slim   Me
 
 [![JACK & JONES Jorknox Shirt LS Camisa   R](https://images-eu.ssl-images-amazon.com/images/I/41dK3L4VkqL._SL200_.jpg)](https://www.amazon.es/dp/B07L1DG3HD/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07L1DG3HD/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

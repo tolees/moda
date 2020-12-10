@@ -22,6 +22,9 @@ Está [BOSS Tefresh Camiseta   Open Miscellaneous 971   X-Small para Mujer](http
 
 [![BOSS Tefresh Camiseta   Open Miscellaneo](https://images-eu.ssl-images-amazon.com/images/I/41vgPcw9QjL._SL200_.jpg)](https://www.amazon.es/dp/B07KGDKHJJ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KGDKHJJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

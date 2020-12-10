@@ -22,6 +22,9 @@ Está [Nautica J73603  Chaqueta Deportiva para Hombre  Azul  True Navy   XX-Larg
 
 [![Nautica J73603  Chaqueta Deportiva para ](https://images-eu.ssl-images-amazon.com/images/I/416%2BPeuFtNL._SL200_.jpg)](https://www.amazon.es/dp/B0727Z3VML/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0727Z3VML/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

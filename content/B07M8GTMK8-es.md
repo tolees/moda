@@ -22,6 +22,9 @@ Ahora mismo tienes [The North Face 100 Glacier Full Zip Chaqueta  Mujer  Juicy R
 
 [![The North Face 100 Glacier Full Zip Chaq](https://images-eu.ssl-images-amazon.com/images/I/41%2BlhkhXhIL._SL200_.jpg)](https://www.amazon.es/dp/B07M8GTMK8/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07M8GTMK8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

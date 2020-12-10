@@ -22,6 +22,9 @@ Está [Pepe Jeans Sidney JR PG580629  Sudadera para Niñas  Gris  Dk Grey 975  1
 
 [![Pepe Jeans Sidney JR PG580629  Sudadera ](https://images-eu.ssl-images-amazon.com/images/I/61ODRXIOzGL._SL200_.jpg)](https://www.amazon.es/dp/B06XT97QCD/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B06XT97QCD/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

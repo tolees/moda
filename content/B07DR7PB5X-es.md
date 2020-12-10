@@ -22,6 +22,9 @@ Está [MAXTOP Zapatillas de Running Hombre Correr Sneakers Transpirables Zapatos
 
 [![MAXTOP Zapatillas de Running Hombre Corr](https://images-eu.ssl-images-amazon.com/images/I/5170P99VTtL._SL200_.jpg)](https://www.amazon.es/dp/B07DR7PB5X/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DR7PB5X/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

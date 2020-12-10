@@ -22,6 +22,9 @@ Está [The North Face T93L6M Camiseta De Manga Corta  Unisex niños  Cosmic Blue
 
 [![The North Face T93L6M Camiseta De Manga ](https://images-eu.ssl-images-amazon.com/images/I/419ULwFv58L._SL200_.jpg)](https://www.amazon.es/dp/B07BB4DP2F/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07BB4DP2F/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

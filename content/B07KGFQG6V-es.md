@@ -22,6 +22,9 @@ Está [BOSS Wardor Sudadera sin Capucha  Azul  Dark Blue 404   Medium para Hombr
 
 [![BOSS Wardor Sudadera sin Capucha  Azul  ](https://images-eu.ssl-images-amazon.com/images/I/41OMmCdS5CL._SL200_.jpg)](https://www.amazon.es/dp/B07KGFQG6V/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KGFQG6V/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

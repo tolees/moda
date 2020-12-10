@@ -22,6 +22,9 @@ Ahora mismo tienes [JACK & JONES Jornew Bento Parka Jacket  Hombre  Verde  Fores
 
 [![JACK & JONES Jornew Bento Parka Jacket  ](https://images-eu.ssl-images-amazon.com/images/I/41MvpGSIFOL._SL200_.jpg)](https://www.amazon.es/dp/B07F8ZN2GH/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07F8ZN2GH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

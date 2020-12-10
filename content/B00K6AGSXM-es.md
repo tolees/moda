@@ -22,6 +22,9 @@ Tienes [James & Nicholson Children s - Sudadera infantil  Azul  Sky Blue   Large
 
 [![James & Nicholson Children s - Sudadera ](https://images-eu.ssl-images-amazon.com/images/I/316IHEIds5L._SL200_.jpg)](https://www.amazon.es/dp/B00K6AGSXM/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00K6AGSXM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

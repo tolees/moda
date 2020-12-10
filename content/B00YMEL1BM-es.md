@@ -22,6 +22,9 @@ Está [NOISY MAY Extreme Lucy Nw Soft Jeans Pi315 - Noos - Vaqueros para mujer  
 
 [![NOISY MAY Extreme Lucy Nw Soft Jeans Pi3](https://images-eu.ssl-images-amazon.com/images/I/31HzC0AdtzL._SL200_.jpg)](https://www.amazon.es/dp/B00YMEL1BM/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00YMEL1BM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

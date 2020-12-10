@@ -22,6 +22,9 @@ Está [Collar corto para mujer. Gargantilla con bolas de resina y cadena de alum
 
 [![Collar corto para mujer. Gargantilla con](https://images-eu.ssl-images-amazon.com/images/I/51nAJi0%2BBeL._SL200_.jpg)](https://www.amazon.es/dp/B07F9ZR45B/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07F9ZR45B/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

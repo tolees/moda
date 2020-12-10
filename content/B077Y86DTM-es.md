@@ -22,6 +22,9 @@ Está [HIKARO Sudadera con Cuello Alto Mujer  Negro  Black   44  Talla del fabri
 
 [![HIKARO Sudadera con Cuello Alto Mujer  N](https://images-eu.ssl-images-amazon.com/images/I/41wlCXy1gTL._SL200_.jpg)](https://www.amazon.es/dp/B077Y86DTM/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B077Y86DTM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

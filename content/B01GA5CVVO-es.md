@@ -22,6 +22,9 @@ Tienes [VERO MODA VMLULU SHORT JACKET A  Chaqueta Mujer  Negro  Black   38  Tall
 
 [![VERO MODA VMLULU SHORT JACKET A  Chaquet](https://images-eu.ssl-images-amazon.com/images/I/415y3MlivdL._SL200_.jpg)](https://www.amazon.es/dp/B01GA5CVVO/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01GA5CVVO/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

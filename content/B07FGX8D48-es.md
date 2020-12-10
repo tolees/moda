@@ -22,6 +22,9 @@ Tienes [Columbia Gate Racer Chaqueta Softshell para Hombre  Azul  Collegiate Nav
 
 [![Columbia Gate Racer Chaqueta Softshell p](https://images-eu.ssl-images-amazon.com/images/I/31aUiDycB8L._SL200_.jpg)](https://www.amazon.es/dp/B07FGX8D48/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07FGX8D48/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

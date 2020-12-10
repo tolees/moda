@@ -22,6 +22,9 @@ Está [Rieker Y2550  Botines para Mujer  Negro Schwarz 00  36 EU](https://www.am
 
 [![Rieker Y2550  Botines para Mujer  Negro ](https://images-eu.ssl-images-amazon.com/images/I/31NW7bc86mL._SL200_.jpg)](https://www.amazon.es/dp/B07C5H7FCM/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07C5H7FCM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

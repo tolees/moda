@@ -22,6 +22,9 @@ Está [New Look Tay Crepe Chaqueta de Traje  Negro  Black 1   40 para Mujer](htt
 
 [![New Look Tay Crepe Chaqueta de Traje  Ne](https://images-eu.ssl-images-amazon.com/images/I/41jvUuy7p1L._SL200_.jpg)](https://www.amazon.es/dp/B01MTQQRLW/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01MTQQRLW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Pepe Jeans Andrea  Camiseta para Mujer    Steel Blue 563  Small](https:/
 
 [![Pepe Jeans Andrea  Camiseta para Mujer  ](https://images-eu.ssl-images-amazon.com/images/I/41210oKfXBL._SL200_.jpg)](https://www.amazon.es/dp/B07CRJ2L9T/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07CRJ2L9T/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

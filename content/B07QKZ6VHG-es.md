@@ -22,6 +22,9 @@ Está [AIni Mujer Verano De Playa Vestido Estampado Vestido De Lino Y AlgodóN S
 
 [![AIni Mujer Verano De Playa Vestido Estam](https://images-eu.ssl-images-amazon.com/images/I/414fdTzmhKL._SL200_.jpg)](https://www.amazon.es/dp/B07QKZ6VHG/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07QKZ6VHG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

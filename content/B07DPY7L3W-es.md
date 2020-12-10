@@ -22,6 +22,9 @@ Ahora mismo tienes [Burton Barnstorm Pantalón de Snowboard  Niños  Verde  Oliv
 
 [![Burton Barnstorm Pantalón de Snowboard  ](https://images-eu.ssl-images-amazon.com/images/I/31PqhQDQk4L._SL200_.jpg)](https://www.amazon.es/dp/B07DPY7L3W/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07DPY7L3W/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

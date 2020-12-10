@@ -22,6 +22,9 @@ Tienes [Geox J Android Boy C  Zapatillas para Niños   Grey/Red C0051   34 EU](h
 
 [![Geox J Android Boy C  Zapatillas para Ni](https://images-eu.ssl-images-amazon.com/images/I/5150D8V-bsL._SL200_.jpg)](https://www.amazon.es/dp/B07DK5KBMN/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07DK5KBMN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

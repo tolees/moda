@@ -22,6 +22,9 @@ Está [SIMYJOY Cobra Kai Retro Camiseta Karate Tshirt Cool TV Drama Top para Hom
 
 [![SIMYJOY Cobra Kai Retro Camiseta Karate ](https://images-eu.ssl-images-amazon.com/images/I/41S06815wQL._SL200_.jpg)](https://www.amazon.es/dp/B07D6NLMKW/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07D6NLMKW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

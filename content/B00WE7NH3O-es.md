@@ -22,6 +22,9 @@ Está [Manoukian Camisa Hombre Slim Azul Claro M](https://www.amazon.es/dp/B00WE
 
 [![Manoukian Camisa Hombre Slim Azul Claro ](https://images-eu.ssl-images-amazon.com/images/I/41xYw8MX3kL._SL200_.jpg)](https://www.amazon.es/dp/B00WE7NH3O/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00WE7NH3O/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

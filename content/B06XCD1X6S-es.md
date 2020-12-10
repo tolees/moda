@@ -22,6 +22,9 @@ Está [G-STAR RAW Adisyon Straight Deep V T 1/2 SL  Camiseta Mujer  Morado  Maro
 
 [![G-STAR RAW Adisyon Straight Deep V T 1/2](https://images-eu.ssl-images-amazon.com/images/I/41uLnL3k2qL._SL200_.jpg)](https://www.amazon.es/dp/B06XCD1X6S/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B06XCD1X6S/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

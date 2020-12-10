@@ -22,6 +22,9 @@ Ahora mismo tienes [ZAFUL Suéter Mujer de Cuello Alto Sueter Básico Corto Jers
 
 [![ZAFUL Suéter Mujer de Cuello Alto Sueter](https://images-eu.ssl-images-amazon.com/images/I/41lgcKb0P9L._SL200_.jpg)](https://www.amazon.es/dp/B07H28QSMQ/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07H28QSMQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

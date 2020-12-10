@@ -22,6 +22,9 @@ Ahora mismo tienes [Dockers by Gerli 35xe208-300  Botines para Mujer  Amarillo  
 
 [![Dockers by Gerli 35xe208-300  Botines pa](https://images-eu.ssl-images-amazon.com/images/I/51MqkBYAxlL._SL200_.jpg)](https://www.amazon.es/dp/B01F4BPV3U/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01F4BPV3U/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

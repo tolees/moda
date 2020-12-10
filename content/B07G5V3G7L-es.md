@@ -22,6 +22,9 @@ Está [New Look Fringe Sleeve Cardigan  Chaqueta Punto para Mujer  Negro  Black 
 
 [![New Look Fringe Sleeve Cardigan  Chaquet](https://images-eu.ssl-images-amazon.com/images/I/41SMDBSFC%2BL._SL200_.jpg)](https://www.amazon.es/dp/B07G5V3G7L/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07G5V3G7L/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

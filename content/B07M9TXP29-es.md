@@ -22,6 +22,9 @@ Tienes [AX BOXING Chanclas Hombre Sandalias Mujer Verano 2019 Cuero Flor Piscina
 
 [![AX BOXING Chanclas Hombre Sandalias Muje](https://images-eu.ssl-images-amazon.com/images/I/51S7Mk4uURL._SL200_.jpg)](https://www.amazon.es/dp/B07M9TXP29/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07M9TXP29/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

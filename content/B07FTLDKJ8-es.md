@@ -22,6 +22,9 @@ Tienes [Lee Pique Polo  Camiseta Hombre  Marfil  Bright White Lj   XXXX-Large](h
 
 [![Lee Pique Polo  Camiseta Hombre  Marfil ](https://images-eu.ssl-images-amazon.com/images/I/31YcCvaRrRL._SL200_.jpg)](https://www.amazon.es/dp/B07FTLDKJ8/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07FTLDKJ8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

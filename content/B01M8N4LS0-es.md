@@ -22,6 +22,9 @@ Está [Ray-Ban RB 3557 Gafas de sol  Gold  51 para Hombre](https://www.amazon.es
 
 [![Ray-Ban RB 3557 Gafas de sol  Gold  51 p](https://images-eu.ssl-images-amazon.com/images/I/3112KpEWNoL._SL200_.jpg)](https://www.amazon.es/dp/B01M8N4LS0/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01M8N4LS0/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

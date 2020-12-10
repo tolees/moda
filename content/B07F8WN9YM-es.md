@@ -22,6 +22,9 @@ Tienes [JACK & JONES PREMIUM Jprmorten Wool Coat STS Abrigo  Negro  Black   Medi
 
 [![JACK & JONES PREMIUM Jprmorten Wool Coat](https://images-eu.ssl-images-amazon.com/images/I/41g7v27zNoL._SL200_.jpg)](https://www.amazon.es/dp/B07F8WN9YM/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07F8WN9YM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Aleumdr Mujer Vestido de Playa Camisolas y Pareos Vestido Retro Bikini Co
 
 [![Aleumdr Mujer Vestido de Playa Camisolas](https://images-eu.ssl-images-amazon.com/images/I/51Fp75VY0cL._SL200_.jpg)](https://www.amazon.es/dp/B07TXDXQT3/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07TXDXQT3/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

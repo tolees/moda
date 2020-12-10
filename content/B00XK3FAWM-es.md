@@ -22,6 +22,9 @@ Tienes [Timezone GerritTZ - Vaqueros para Hombre  Color Blau  Light Blue Wash 38
 
 [![Timezone GerritTZ - Vaqueros para Hombre](https://images-eu.ssl-images-amazon.com/images/I/417l3qdmGmL._SL200_.jpg)](https://www.amazon.es/dp/B00XK3FAWM/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00XK3FAWM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

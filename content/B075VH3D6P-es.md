@@ -22,6 +22,9 @@ Tienes [JACK & JONES Jcomulti Quilted Jacket Noos Chaqueta Azul  Sky Captain  Sm
 
 [![JACK & JONES Jcomulti Quilted Jacket Noo](https://images-eu.ssl-images-amazon.com/images/I/41vAOJNBgiL._SL200_.jpg)](https://www.amazon.es/dp/B075VH3D6P/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B075VH3D6P/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

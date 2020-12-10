@@ -22,6 +22,9 @@ Ahora mismo tienes [ASICS Gel-Cool Camiseta  Mujer  Verde Agua  Large](https://w
 
 [![ASICS Gel-Cool Camiseta  Mujer  Verde Ag](https://images-eu.ssl-images-amazon.com/images/I/31e%2Bby%2BsNAL._SL200_.jpg)](https://www.amazon.es/dp/B076MH22JT/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B076MH22JT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

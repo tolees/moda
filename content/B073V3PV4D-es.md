@@ -22,6 +22,9 @@ Ahora mismo tienes [WINGPADEL Camiseta W-Lisa Azul Blanco](https://www.amazon.es
 
 [![WINGPADEL Camiseta W-Lisa Azul Blanco](https://images-eu.ssl-images-amazon.com/images/I/31rgHR0nVKL._SL200_.jpg)](https://www.amazon.es/dp/B073V3PV4D/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B073V3PV4D/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

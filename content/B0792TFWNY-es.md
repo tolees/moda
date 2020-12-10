@@ -22,6 +22,9 @@ Tienes [Geox D Kenly Mid A  Botas Chelsea para Mujer   Brown C0013   41 EU](http
 
 [![Geox D Kenly Mid A  Botas Chelsea para M](https://images-eu.ssl-images-amazon.com/images/I/41A6e6JGMzL._SL200_.jpg)](https://www.amazon.es/dp/B0792TFWNY/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B0792TFWNY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

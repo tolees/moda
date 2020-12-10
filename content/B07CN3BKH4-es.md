@@ -22,6 +22,9 @@ Ahora mismo tienes [Crocs Serena Sandal Women  Sandalias de Punta Descubierta pa
 
 [![Crocs Serena Sandal Women  Sandalias de ](https://images-eu.ssl-images-amazon.com/images/I/31MLNKRi9iL._SL200_.jpg)](https://www.amazon.es/dp/B07CN3BKH4/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07CN3BKH4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

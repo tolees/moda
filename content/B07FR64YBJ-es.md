@@ -22,6 +22,9 @@ Ahora mismo tienes [Clarks Step Beat Sun  Sandalias Punta Cerrada para Hombre  A
 
 [![Clarks Step Beat Sun  Sandalias Punta Ce](https://images-eu.ssl-images-amazon.com/images/I/41850t7gKSL._SL200_.jpg)](https://www.amazon.es/dp/B07FR64YBJ/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07FR64YBJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

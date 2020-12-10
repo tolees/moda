@@ -22,6 +22,9 @@ Tienes [Napapijri Acalmar W 1 BLU Marine Chaqueta Bomber  Azul 176  Medium para 
 
 [![Napapijri Acalmar W 1 BLU Marine Chaquet](https://images-eu.ssl-images-amazon.com/images/I/41nG9u8snoL._SL200_.jpg)](https://www.amazon.es/dp/B07L9S6V5P/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07L9S6V5P/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

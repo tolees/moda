@@ -22,6 +22,9 @@ Está [adidas Squad 17 Sho Pantalón Corto  Hombre  Verde  Verfue / Blanco   3XL
 
 [![adidas Squad 17 Sho Pantalón Corto  Homb](https://images-eu.ssl-images-amazon.com/images/I/41tI5OYIAUL._SL200_.jpg)](https://www.amazon.es/dp/B01N0TIPBO/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01N0TIPBO/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

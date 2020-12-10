@@ -22,6 +22,9 @@ Tienes [FIND DC1930L vaqueros mujer  Azul  Indigo   W30/L32  Talla del Fabricant
 
 [![FIND DC1930L vaqueros mujer  Azul  Indig](https://images-eu.ssl-images-amazon.com/images/I/41XvISqw8-L._SL200_.jpg)](https://www.amazon.es/dp/B06XSPNVSL/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B06XSPNVSL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

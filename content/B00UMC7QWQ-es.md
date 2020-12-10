@@ -22,6 +22,9 @@ Está [Carrera - Gafas de sol Rectangulares 5023/S Interchangeable  Negro](https
 
 [![Carrera - Gafas de sol Rectangulares 502](https://images-eu.ssl-images-amazon.com/images/I/41WoZhJJlAL._SL200_.jpg)](https://www.amazon.es/dp/B00UMC7QWQ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00UMC7QWQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Helly Hansen HP Foil Chaleco  Hombre   Rojo 222   Small  Tamaño del Fab
 
 [![Helly Hansen HP Foil Chaleco  Hombre   R](https://images-eu.ssl-images-amazon.com/images/I/41qAWpSykfL._SL200_.jpg)](https://www.amazon.es/dp/B06VTZFJWV/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B06VTZFJWV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

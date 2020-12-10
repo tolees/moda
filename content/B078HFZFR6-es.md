@@ -22,6 +22,9 @@ Tienes [Springfield Blazer Flor Hombro Chaqueta de Traje   Varios   40  Tamaño 
 
 [![Springfield Blazer Flor Hombro Chaqueta ](https://images-eu.ssl-images-amazon.com/images/I/51MrNhMGOXL._SL200_.jpg)](https://www.amazon.es/dp/B078HFZFR6/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B078HFZFR6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

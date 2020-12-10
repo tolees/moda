@@ -22,6 +22,9 @@ Está [Springfield Camisa Manga Corta Camisa Casual  Hombre  Azul  Gama Azules  
 
 [![Springfield Camisa Manga Corta Camisa Ca](https://images-eu.ssl-images-amazon.com/images/I/41j2uMLsZUL._SL200_.jpg)](https://www.amazon.es/dp/B078HGXBG7/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B078HGXBG7/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Geox U Kennet B  Zapatillas para Hombre  Azul  Navy C4002   44 EU](https
 
 [![Geox U Kennet B  Zapatillas para Hombre ](https://images-eu.ssl-images-amazon.com/images/I/310x5Eii-oL._SL200_.jpg)](https://www.amazon.es/dp/B07DJ2XD24/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07DJ2XD24/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

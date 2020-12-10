@@ -22,6 +22,9 @@ Ahora mismo tienes [Boxeur Des Rues BXT-1339 - Pantalón corto de hombre  Azul R
 
 [![Boxeur Des Rues BXT-1339 - Pantalón cort](https://images-eu.ssl-images-amazon.com/images/I/41kUF3cy89L._SL200_.jpg)](https://www.amazon.es/dp/B018GPE5ZQ/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B018GPE5ZQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

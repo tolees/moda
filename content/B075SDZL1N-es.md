@@ -22,6 +22,9 @@ Está [Springfield 1402145 Jersey  Beige/Roasted  Medium  Tamaño del Fabricante
 
 [![Springfield 1402145 Jersey  Beige/Roaste](https://images-eu.ssl-images-amazon.com/images/I/41rzMFWSQUL._SL200_.jpg)](https://www.amazon.es/dp/B075SDZL1N/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B075SDZL1N/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

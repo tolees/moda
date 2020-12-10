@@ -22,6 +22,9 @@ Tienes [G-STAR RAW Base Htr R T S/s 2-Pack Camiseta  Negro  Solid Black 2019   X
 
 [![G-STAR RAW Base Htr R T S/s 2-Pack Camis](https://images-eu.ssl-images-amazon.com/images/I/41UFrJnlapL._SL200_.jpg)](https://www.amazon.es/dp/B072BH3BMN/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B072BH3BMN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

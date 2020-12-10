@@ -22,6 +22,9 @@ Ahora mismo tienes [The North Face Hoodie Sudadera con Capucha Surgent Halfdome 
 
 [![The North Face Hoodie Sudadera con Capuc](https://images-eu.ssl-images-amazon.com/images/I/41tN3koh5YL._SL200_.jpg)](https://www.amazon.es/dp/B07BB4V5X1/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07BB4V5X1/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

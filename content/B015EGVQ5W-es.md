@@ -22,6 +22,9 @@ Ahora mismo tienes [Diesel Sonnenbrille DL0161 5433J Gafas de sol  Multicolor  M
 
 [![Diesel Sonnenbrille DL0161 5433J Gafas d](https://images-eu.ssl-images-amazon.com/images/I/31pOT2gEdRL._SL200_.jpg)](https://www.amazon.es/dp/B015EGVQ5W/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B015EGVQ5W/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

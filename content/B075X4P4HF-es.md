@@ -22,6 +22,9 @@ Ahora mismo tienes [find. NEWSTW030 vaqueros mujer  Azul  Mid Vintage   W37/L30 
 
 [![find. NEWSTW030 vaqueros mujer  Azul  Mi](https://images-eu.ssl-images-amazon.com/images/I/41hv0XZxTTL._SL200_.jpg)](https://www.amazon.es/dp/B075X4P4HF/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B075X4P4HF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

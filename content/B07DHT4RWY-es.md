@@ -22,6 +22,9 @@ Ahora mismo tienes [DC Shoes New Star Sherpa Sudadera  Hombre  Negro  Black Kvj0
 
 [![DC Shoes New Star Sherpa Sudadera  Hombr](https://images-eu.ssl-images-amazon.com/images/I/416Qf0KadzL._SL200_.jpg)](https://www.amazon.es/dp/B07DHT4RWY/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07DHT4RWY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

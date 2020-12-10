@@ -22,6 +22,9 @@ Está [Springfield 6.T. Plumas C.Alto Chaqueta  Mujer  Negro  Negro 1   40  Tama
 
 [![Springfield 6.T. Plumas C.Alto Chaqueta ](https://images-eu.ssl-images-amazon.com/images/I/411LQoi6gEL._SL200_.jpg)](https://www.amazon.es/dp/B07DL8L22Q/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DL8L22Q/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

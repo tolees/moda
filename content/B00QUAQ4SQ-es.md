@@ -22,6 +22,9 @@ Está [Aqua Sphere Beach Walker Kids Agua Guantes  Rosa/Rose  34 EU](https://ww
 
 [![Aqua Sphere Beach Walker Kids Agua Guant](https://images-eu.ssl-images-amazon.com/images/I/51ENd%2BlOcIL._SL200_.jpg)](https://www.amazon.es/dp/B00QUAQ4SQ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00QUAQ4SQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

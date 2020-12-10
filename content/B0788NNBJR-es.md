@@ -22,6 +22,9 @@ Ahora mismo tienes [ZAPATILLA E511Y-0149 GEL-PADEL BLANCO](https://www.amazon.es
 
 [![ZAPATILLA E511Y-0149 GEL-PADEL BLANCO](https://images-eu.ssl-images-amazon.com/images/I/31iF9oZHAlL._SL200_.jpg)](https://www.amazon.es/dp/B0788NNBJR/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B0788NNBJR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Levi s SS Ringer tee Housemark  Camiseta para Hombre   Retro
 
 [![Levi s SS Ringer tee Housemark  Camiseta](https://images-eu.ssl-images-amazon.com/images/I/41oLRGtHiFL._SL200_.jpg)](https://www.amazon.es/dp/B07CYM3LM7/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07CYM3LM7/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

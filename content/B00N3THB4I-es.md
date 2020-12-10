@@ -22,6 +22,9 @@ Está [Lower East Camiseta Manga Corta Hombre  Pack de 5  Blanco  XL](https://ww
 
 [![Lower East Camiseta Manga Corta Hombre  ](https://images-eu.ssl-images-amazon.com/images/I/21bJBVXm4gL._SL200_.jpg)](https://www.amazon.es/dp/B00N3THB4I/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00N3THB4I/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

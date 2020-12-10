@@ -22,6 +22,9 @@ Ahora mismo tienes [Puma Epic Flip v2  Chanclas Unisex Adulto  Azul  Indigo Bunt
 
 [![Puma Epic Flip v2  Chanclas Unisex Adult](https://images-eu.ssl-images-amazon.com/images/I/41o%2BVlFyE%2BL._SL200_.jpg)](https://www.amazon.es/dp/B07DC1F6BB/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07DC1F6BB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

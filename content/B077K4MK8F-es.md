@@ -22,6 +22,9 @@ Ahora mismo tienes [adidas CF1587 Camiseta  Hombre  Negro  Granit   XL](https://
 
 [![adidas CF1587 Camiseta  Hombre  Negro  G](https://images-eu.ssl-images-amazon.com/images/I/51RcE97Fz-L._SL200_.jpg)](https://www.amazon.es/dp/B077K4MK8F/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B077K4MK8F/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [REPLAY MA955 Newbill  Vaqueros Straight para Hombre  Gris  Dark Grey Den
 
 [![REPLAY MA955 Newbill  Vaqueros Straight ](https://images-eu.ssl-images-amazon.com/images/I/41c3CB%2Bm1CL._SL200_.jpg)](https://www.amazon.es/dp/B07CGK4Y1G/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07CGK4Y1G/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

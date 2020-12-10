@@ -22,6 +22,9 @@ Ahora mismo tienes [Spalding Essential Reversible Camiseta de Juego  Hombre  Azu
 
 [![Spalding Essential Reversible Camiseta d](https://images-eu.ssl-images-amazon.com/images/I/41SyH5LHJtL._SL200_.jpg)](https://www.amazon.es/dp/B00V5LNLEK/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00V5LNLEK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

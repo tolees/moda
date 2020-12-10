@@ -22,6 +22,9 @@ Tienes [Birkenstock Arizona EVA  Sandalias de Punta Descubierta para Mujer  Rosa
 
 [![Birkenstock Arizona EVA  Sandalias de Pu](https://images-eu.ssl-images-amazon.com/images/I/311cdxzqCvL._SL200_.jpg)](https://www.amazon.es/dp/B07LCSHGF8/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07LCSHGF8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Morellato SRR01 - Eclipse - Collar de Mujer de Acero Inoxida
 
 [![Morellato SRR01 - Eclipse - Collar de Mu](https://images-eu.ssl-images-amazon.com/images/I/41mG%2Bn9y0LL._SL200_.jpg)](https://www.amazon.es/dp/B0044SUIQK/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B0044SUIQK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

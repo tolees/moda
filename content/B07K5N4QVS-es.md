@@ -22,6 +22,9 @@ Está [Levi s kids Nn15527 22 Sweat Shirt  Sudadera Niñas  Gris  Light China Gr
 
 [![Levi s kids Nn15527 22 Sweat Shirt  Suda](https://images-eu.ssl-images-amazon.com/images/I/41e7po5SuAL._SL200_.jpg)](https://www.amazon.es/dp/B07K5N4QVS/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07K5N4QVS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [G-STAR RAW D-STAQ 5-pkt Tapered  Vaqueros Tapered Hombre  Azul  Lt Aged 
 
 [![G-STAR RAW D-STAQ 5-pkt Tapered  Vaquero](https://images-eu.ssl-images-amazon.com/images/I/410LT6NsWdL._SL200_.jpg)](https://www.amazon.es/dp/B078SGW3JL/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B078SGW3JL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

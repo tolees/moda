@@ -22,6 +22,9 @@ Ahora mismo tienes [Nike W Blazer Low SD  Zapatos de Baloncesto para Mujer  Smok
 
 [![Nike W Blazer Low SD  Zapatos de Balonce](https://images-eu.ssl-images-amazon.com/images/I/41zhRX5PaRL._SL200_.jpg)](https://www.amazon.es/dp/B07DCJ8V8L/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07DCJ8V8L/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

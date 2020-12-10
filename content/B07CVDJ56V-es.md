@@ -22,6 +22,9 @@ Tienes [Under Armour Anomaly  Zapatos de Baloncesto para Hombre  Negro Mod Gray/
 
 [![Under Armour Anomaly  Zapatos de Balonce](https://images-eu.ssl-images-amazon.com/images/I/41IjHQc0rXL._SL200_.jpg)](https://www.amazon.es/dp/B07CVDJ56V/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07CVDJ56V/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

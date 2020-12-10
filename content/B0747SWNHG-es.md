@@ -22,6 +22,9 @@ Tienes [find. BSK-S-498 vestido fiesta mujer  Verde  Green   48  Talla del Fabri
 
 [![find. BSK-S-498 vestido fiesta mujer  Ve](https://images-eu.ssl-images-amazon.com/images/I/31%2BviO3YP2L._SL200_.jpg)](https://www.amazon.es/dp/B0747SWNHG/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B0747SWNHG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

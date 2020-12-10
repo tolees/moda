@@ -22,6 +22,9 @@ Tienes [Jomos Freewalk  Zapatos de Cordones Derby para Mujer  Marrón  Braun  Al
 
 [![Jomos Freewalk  Zapatos de Cordones Derb](https://images-eu.ssl-images-amazon.com/images/I/41YEkVUTUKL._SL200_.jpg)](https://www.amazon.es/dp/B00HZO6NAU/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00HZO6NAU/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

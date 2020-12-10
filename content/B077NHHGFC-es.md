@@ -22,6 +22,9 @@ Ahora mismo tienes [Lee Rider Vaqueros Slim  Azul  Fresh Kiup   W29/L32 para Hom
 
 [![Lee Rider Vaqueros Slim  Azul  Fresh Kiu](https://images-eu.ssl-images-amazon.com/images/I/41eAWHn-rIL._SL200_.jpg)](https://www.amazon.es/dp/B077NHHGFC/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B077NHHGFC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Iris & Lilly BAL-009 camiseta tirantes mujer  Gris  Grey Marl/cobalt Blu
 
 [![Iris & Lilly BAL-009 camiseta tirantes m](https://images-eu.ssl-images-amazon.com/images/I/41zPU1XE-0L._SL200_.jpg)](https://www.amazon.es/dp/B01N6B41HZ/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01N6B41HZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

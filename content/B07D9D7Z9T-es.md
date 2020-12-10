@@ -22,6 +22,9 @@ Ahora mismo tienes [Riñonera Deportiva Mochila Bolsa Cintura 2 Bolsillos Bolso 
 
 [![Riñonera Deportiva Mochila Bolsa Cintura](https://images-eu.ssl-images-amazon.com/images/I/41WSJfH1wML._SL200_.jpg)](https://www.amazon.es/dp/B07D9D7Z9T/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07D9D7Z9T/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

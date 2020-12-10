@@ -22,6 +22,9 @@ Está [find. Camisa de Rayas con Hombros al Aire para Mujer   Azul  Blue Stripe 
 
 [![find. Camisa de Rayas con Hombros al Air](https://images-eu.ssl-images-amazon.com/images/I/41w0uMmuoDL._SL200_.jpg)](https://www.amazon.es/dp/B06XDLYJ4C/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B06XDLYJ4C/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

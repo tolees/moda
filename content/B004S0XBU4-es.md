@@ -22,6 +22,9 @@ Ahora mismo tienes [Mascot Bolzano Chaqueta Pilot XS  color verde/azul  00922 �
 
 [![Mascot Bolzano Chaqueta Pilot XS  color ](https://images-eu.ssl-images-amazon.com/images/I/51NygEI9GjL._SL200_.jpg)](https://www.amazon.es/dp/B004S0XBU4/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B004S0XBU4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

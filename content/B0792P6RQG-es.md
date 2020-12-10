@@ -22,6 +22,9 @@ Tienes [Geox B Rishon Boy B  Zapatillas para Bebés   Navy/Dk Red C4244   25 EU]
 
 [![Geox B Rishon Boy B  Zapatillas para Beb](https://images-eu.ssl-images-amazon.com/images/I/41fO0UWim%2BL._SL200_.jpg)](https://www.amazon.es/dp/B0792P6RQG/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B0792P6RQG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

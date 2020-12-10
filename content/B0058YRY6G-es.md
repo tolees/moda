@@ -22,6 +22,9 @@ Está [Columbia Silver Ridge L Camisa de Manga Larga para Senderismo  Hombre  Bl
 
 [![Columbia Silver Ridge L Camisa de Manga ](https://images-eu.ssl-images-amazon.com/images/I/41EqUWI8-RL._SL200_.jpg)](https://www.amazon.es/dp/B0058YRY6G/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0058YRY6G/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

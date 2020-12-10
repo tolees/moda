@@ -22,6 +22,9 @@ Está [Geox D Tabelya A  Zapatillas para Mujer   Bordeaux/Dk Burgundy C7b7j   38
 
 [![Geox D Tabelya A  Zapatillas para Mujer ](https://images-eu.ssl-images-amazon.com/images/I/41kWwQT7oEL._SL200_.jpg)](https://www.amazon.es/dp/B0792FPNK4/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0792FPNK4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Joma Olimpia Camiseta  Hombre  Blanco/Amarillo  S](https://www.amazon.es/
 
 [![Joma Olimpia Camiseta  Hombre  Blanco/Am](https://images-eu.ssl-images-amazon.com/images/I/41yX8HPJPCL._SL200_.jpg)](https://www.amazon.es/dp/B06Y2ZHQ2Y/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B06Y2ZHQ2Y/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

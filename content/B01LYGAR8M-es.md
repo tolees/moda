@@ -22,6 +22,9 @@ Tienes [Levi s Levis 300ls Striped Chambray Woven Boxer 2p  Hombre  Rojo  Red 07
 
 [![Levi s Levis 300ls Striped Chambray Wove](https://images-eu.ssl-images-amazon.com/images/I/515EXZo06WL._SL200_.jpg)](https://www.amazon.es/dp/B01LYGAR8M/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01LYGAR8M/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

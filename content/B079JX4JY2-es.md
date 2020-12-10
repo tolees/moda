@@ -22,6 +22,9 @@ Está [BILLABONG Contrast SS Camiseta de natación  Hombre   Gris Heather 9   Sm
 
 [![BILLABONG Contrast SS Camiseta de nataci](https://images-eu.ssl-images-amazon.com/images/I/41LipZzW9-L._SL200_.jpg)](https://www.amazon.es/dp/B079JX4JY2/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B079JX4JY2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [ONLY 15118626  Chaqueta Punto Para Mujer  Amarillo  Harvest Gold Harvest 
 
 [![ONLY 15118626  Chaqueta Punto Para Mujer](https://images-eu.ssl-images-amazon.com/images/I/41t2-CxPdyL._SL200_.jpg)](https://www.amazon.es/dp/B01IBPLXWO/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01IBPLXWO/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

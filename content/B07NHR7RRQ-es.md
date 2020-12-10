@@ -22,6 +22,9 @@ Ahora mismo tienes [Tous Monedero Mediano Vera Topo](https://www.amazon.es/dp/B0
 
 [![Tous Monedero Mediano Vera Topo](https://images-eu.ssl-images-amazon.com/images/I/31WzoOAMt7L._SL200_.jpg)](https://www.amazon.es/dp/B07NHR7RRQ/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07NHR7RRQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

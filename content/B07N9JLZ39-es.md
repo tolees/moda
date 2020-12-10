@@ -22,6 +22,9 @@ Está [Pepe Jeans West Sir  Camiseta para Hombre  Amarillo  Ochre Yellow 097   M
 
 [![Pepe Jeans West Sir  Camiseta para Hombr](https://images-eu.ssl-images-amazon.com/images/I/41q7vljD6JL._SL200_.jpg)](https://www.amazon.es/dp/B07N9JLZ39/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07N9JLZ39/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

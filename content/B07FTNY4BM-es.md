@@ -22,6 +22,9 @@ Ahora mismo tienes [Lee Scarlett High Skinny Vaqueros  Azul  Dark Used UE   26W 
 
 [![Lee Scarlett High Skinny Vaqueros  Azul ](https://images-eu.ssl-images-amazon.com/images/I/41uC0nbNsxL._SL200_.jpg)](https://www.amazon.es/dp/B07FTNY4BM/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07FTNY4BM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [oodji Ultra Hombre Camiseta Estampada de Algodón  Verde  ES 58-60 / XXL
 
 [![oodji Ultra Hombre Camiseta Estampada de](https://images-eu.ssl-images-amazon.com/images/I/41Bpw2%2BGYlL._SL200_.jpg)](https://www.amazon.es/dp/B06Y177QPC/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B06Y177QPC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

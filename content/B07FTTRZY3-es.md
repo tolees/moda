@@ -22,6 +22,9 @@ Está [Lee Rider  Vaqueros Slim para Hombre  Azul  Buddy Blue Ui   W29/L34](http
 
 [![Lee Rider  Vaqueros Slim para Hombre  Az](https://images-eu.ssl-images-amazon.com/images/I/41-wail2zML._SL200_.jpg)](https://www.amazon.es/dp/B07FTTRZY3/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FTTRZY3/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

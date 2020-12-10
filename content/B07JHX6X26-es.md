@@ -22,6 +22,9 @@ Tienes [Puma ESS Logo Leggins  Mujer  Cotton Black/Silver Metallic  L](https://w
 
 [![Puma ESS Logo Leggins  Mujer  Cotton Bla](https://images-eu.ssl-images-amazon.com/images/I/31uIEfSHjxL._SL200_.jpg)](https://www.amazon.es/dp/B07JHX6X26/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07JHX6X26/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Levi s 511 Slim Fit  Vaqueros para Hombre  Azul  Rain Shower 0709   29W /
 
 [![Levi s 511 Slim Fit  Vaqueros para Hombr](https://images-eu.ssl-images-amazon.com/images/I/31swTw2FIdL._SL200_.jpg)](https://www.amazon.es/dp/B00A22PUHY/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00A22PUHY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

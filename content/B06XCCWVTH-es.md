@@ -22,6 +22,9 @@ Tienes [find. Gingham Embroidered Sudadera para Mujer  Multicolor  Black/white C
 
 [![find. Gingham Embroidered Sudadera para ](https://images-eu.ssl-images-amazon.com/images/I/51Gs6S6H7-L._SL200_.jpg)](https://www.amazon.es/dp/B06XCCWVTH/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B06XCCWVTH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

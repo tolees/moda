@@ -22,6 +22,9 @@ Está [Luzoeo Sandalias Mujer Cuña Alpargatas Plataforma Bohemias Zapatos Roman
 
 [![Luzoeo Sandalias Mujer Cuña Alpargatas P](https://images-eu.ssl-images-amazon.com/images/I/41Uv0ALApLL._SL200_.jpg)](https://www.amazon.es/dp/B07RJY273T/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07RJY273T/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

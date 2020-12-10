@@ -22,6 +22,9 @@ Está [find. Cropped Chemical Lace Blusa para Mujer  Verde  Green   40  Talla de
 
 [![find. Cropped Chemical Lace Blusa para M](https://images-eu.ssl-images-amazon.com/images/I/41tFWe9826L._SL200_.jpg)](https://www.amazon.es/dp/B06XD7DX6L/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B06XD7DX6L/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

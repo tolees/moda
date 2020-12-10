@@ -22,6 +22,9 @@ Está [Ultrasport Advanced Loke Chaqueta Informal  Acolchada  para Todo el año 
 
 [![Ultrasport Advanced Loke Chaqueta Inform](https://images-eu.ssl-images-amazon.com/images/I/41nmG3OQCfL._SL200_.jpg)](https://www.amazon.es/dp/B078GYS6P7/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B078GYS6P7/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

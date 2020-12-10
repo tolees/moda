@@ -22,6 +22,9 @@ Ahora mismo tienes [Columbia Chaqueta Cortavientos para Hombre  Cascade Ridge II
 
 [![Columbia Chaqueta Cortavientos para Homb](https://images-eu.ssl-images-amazon.com/images/I/41609-cvXKL._SL200_.jpg)](https://www.amazon.es/dp/B07DYTT832/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07DYTT832/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Bellybutton Pauline - Kleid 1/2 Arm  Vestido Mujer  Rojo  Tomato 2052   4
 
 [![Bellybutton Pauline - Kleid 1/2 Arm  Ves](https://images-eu.ssl-images-amazon.com/images/I/31EYpQgUzNL._SL200_.jpg)](https://www.amazon.es/dp/B013K6MHMY/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B013K6MHMY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

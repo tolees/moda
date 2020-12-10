@@ -22,6 +22,9 @@ Tienes [Vero Moda Vmjakuri 3/4 Pleated Top D2-2  suéter Mujer  Rosa  Azalea Pat
 
 [![Vero Moda Vmjakuri 3/4 Pleated Top D2-2 ](https://images-eu.ssl-images-amazon.com/images/I/417%2BHsIoqVL._SL200_.jpg)](https://www.amazon.es/dp/B076DJ9M5C/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B076DJ9M5C/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

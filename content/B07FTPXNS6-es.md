@@ -22,6 +22,9 @@ Está [Lee Basic Crew Sudadera  Marfil  Black 01   Small para Hombre](https://ww
 
 [![Lee Basic Crew Sudadera  Marfil  Black 0](https://images-eu.ssl-images-amazon.com/images/I/31lvsctZ6YL._SL200_.jpg)](https://www.amazon.es/dp/B07FTPXNS6/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FTPXNS6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

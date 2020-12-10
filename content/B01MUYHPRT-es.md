@@ -22,6 +22,9 @@ Está [find. Vaqueros Rectos Oscuros para Hombre  Azul  Rinsed Wash   W30/L30  T
 
 [![find. Vaqueros Rectos Oscuros para Hombr](https://images-eu.ssl-images-amazon.com/images/I/41nhq5zpf-L._SL200_.jpg)](https://www.amazon.es/dp/B01MUYHPRT/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01MUYHPRT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

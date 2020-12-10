@@ -22,6 +22,9 @@ Está [JACK & JONES Jorglave Light Track Jacket  Chaqueta para Hombre  Rojo Flam
 
 [![JACK & JONES Jorglave Light Track Jacket](https://images-eu.ssl-images-amazon.com/images/I/41K50iR2mQL._SL200_.jpg)](https://www.amazon.es/dp/B07JYCZRKP/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07JYCZRKP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Rinascimento CFC0084650003  Falda para Mujer  Azul  BLU B041  S](https://
 
 [![Rinascimento CFC0084650003  Falda para M](https://images-eu.ssl-images-amazon.com/images/I/41dPQcYy2uL._SL200_.jpg)](https://www.amazon.es/dp/B079JCKMQS/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B079JCKMQS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

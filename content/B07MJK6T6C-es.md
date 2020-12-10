@@ -22,6 +22,9 @@ Está [Pablosky Sandalias con Punta Abierta para Niñas   Blanco 473203   29 EU]
 
 [![Pablosky Sandalias con Punta Abierta par](https://images-eu.ssl-images-amazon.com/images/I/41vBmYpbGEL._SL200_.jpg)](https://www.amazon.es/dp/B07MJK6T6C/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07MJK6T6C/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

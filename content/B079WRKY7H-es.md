@@ -22,6 +22,9 @@ Ahora mismo tienes [Pepe Jeans Finsbury Vaqueros  Azul  Medium Used Gg6   38W / 
 
 [![Pepe Jeans Finsbury Vaqueros  Azul  Medi](https://images-eu.ssl-images-amazon.com/images/I/41u4d%2B3sFxL._SL200_.jpg)](https://www.amazon.es/dp/B079WRKY7H/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B079WRKY7H/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Tom Tailor blazer/508 - Chaqueta de traje para hombre  color azul  knitte
 
 [![Tom Tailor blazer/508 - Chaqueta de traj](https://images-eu.ssl-images-amazon.com/images/I/419vv6YxJaL._SL200_.jpg)](https://www.amazon.es/dp/B00YGZAC4O/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00YGZAC4O/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

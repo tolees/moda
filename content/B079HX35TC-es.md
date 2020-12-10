@@ -22,6 +22,9 @@ Tienes [Tom Tailor 5870503  Botines para Niñas  Verde  Khaki 00007   27 EU](htt
 
 [![Tom Tailor 5870503  Botines para Niñas  ](https://images-eu.ssl-images-amazon.com/images/I/417f5iYQDqL._SL200_.jpg)](https://www.amazon.es/dp/B079HX35TC/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B079HX35TC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [G-STAR RAW 3301 Slim Vaqueros  Azul  Lt Aged Destroy 9136-1243   30W / 36
 
 [![G-STAR RAW 3301 Slim Vaqueros  Azul  Lt ](https://images-eu.ssl-images-amazon.com/images/I/41N81QrZr5L._SL200_.jpg)](https://www.amazon.es/dp/B07M9QKM81/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07M9QKM81/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

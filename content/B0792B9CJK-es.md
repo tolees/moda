@@ -22,6 +22,9 @@ Tienes [Geox U Sandford B ABX A  Zapatillas para Hombre   Dk Jeans C4322   44 EU
 
 [![Geox U Sandford B ABX A  Zapatillas para](https://images-eu.ssl-images-amazon.com/images/I/411yZlFOBpL._SL200_.jpg)](https://www.amazon.es/dp/B0792B9CJK/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B0792B9CJK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

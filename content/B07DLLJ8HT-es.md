@@ -22,6 +22,9 @@ Tienes [Springfield INT. Plumas Largo Abrigo  Mujer  Dorado  Tostado 50   40  Ta
 
 [![Springfield INT. Plumas Largo Abrigo  Mu](https://images-eu.ssl-images-amazon.com/images/I/31p8nPxxX6L._SL200_.jpg)](https://www.amazon.es/dp/B07DLLJ8HT/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07DLLJ8HT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

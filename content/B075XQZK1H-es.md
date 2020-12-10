@@ -22,6 +22,9 @@ Está [Triumph Cardio App Better Musctan  Camiseta Deportiva de Tirantes para Mu
 
 [![Triumph Cardio App Better Musctan  Camis](https://images-eu.ssl-images-amazon.com/images/I/41sdiz5UHbL._SL200_.jpg)](https://www.amazon.es/dp/B075XQZK1H/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B075XQZK1H/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

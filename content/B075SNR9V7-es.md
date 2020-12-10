@@ -22,6 +22,9 @@ Está [Seidensticker - Camisa Formal - Clásico - Manga Larga - para Hombre Azul
 
 [![Seidensticker - Camisa Formal - Clásico ](https://images-eu.ssl-images-amazon.com/images/I/41-zT6dZ9QL._SL200_.jpg)](https://www.amazon.es/dp/B075SNR9V7/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B075SNR9V7/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

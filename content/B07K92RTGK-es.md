@@ -22,6 +22,9 @@ Tienes [Esprit Kids Kleid Vestido  Rosa  Dark Pink 326   Talla del Fabricante: 1
 
 [![Esprit Kids Kleid Vestido  Rosa  Dark Pi](https://images-eu.ssl-images-amazon.com/images/I/418WSJnKT0L._SL200_.jpg)](https://www.amazon.es/dp/B07K92RTGK/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07K92RTGK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

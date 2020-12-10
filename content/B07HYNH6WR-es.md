@@ -22,6 +22,9 @@ Está [Nike EBERNON Low  Zapatos de Baloncesto para Hombre   Blue Void/White 401
 
 [![Nike EBERNON Low  Zapatos de Baloncesto ](https://images-eu.ssl-images-amazon.com/images/I/41mNkDuAfHL._SL200_.jpg)](https://www.amazon.es/dp/B07HYNH6WR/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07HYNH6WR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [BILLABONG Balance Crew - Sudadera para Hombre  Hombre  Balance Crew  Re
 
 [![BILLABONG Balance Crew - Sudadera para H](https://images-eu.ssl-images-amazon.com/images/I/41adnfTvkLL._SL200_.jpg)](https://www.amazon.es/dp/B01MTUCWZZ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01MTUCWZZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

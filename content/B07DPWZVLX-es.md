@@ -22,6 +22,9 @@ Está [Burton Covert Chaqueta de Snowboard  Hombre  Naranja  Golden Oak  / Azul 
 
 [![Burton Covert Chaqueta de Snowboard  Hom](https://images-eu.ssl-images-amazon.com/images/I/41OYGSlSRFL._SL200_.jpg)](https://www.amazon.es/dp/B07DPWZVLX/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DPWZVLX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

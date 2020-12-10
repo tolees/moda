@@ -22,6 +22,9 @@ Tienes [Lee Logo tee  Camiseta Hombre  Marfil  Bright White Lj   X-Large](https:
 
 [![Lee Logo tee  Camiseta Hombre  Marfil  B](https://images-eu.ssl-images-amazon.com/images/I/415d3hHAX%2BL._SL200_.jpg)](https://www.amazon.es/dp/B07FTKQ98Z/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07FTKQ98Z/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

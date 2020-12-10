@@ -22,6 +22,9 @@ Está [Gant O1. Rose C-Neck SS T-Shirt Camiseta  Beige  Eggshell 113   X-Large p
 
 [![Gant O1. Rose C-Neck SS T-Shirt Camiseta](https://images-eu.ssl-images-amazon.com/images/I/41ADF2Yqs6L._SL200_.jpg)](https://www.amazon.es/dp/B07KPQDXMR/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KPQDXMR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

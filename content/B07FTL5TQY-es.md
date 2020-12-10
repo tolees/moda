@@ -22,6 +22,9 @@ Tienes [Lee Rider  Vaqueros slim para Hombre  Azul  Blue Days Ib  W38/L32](https
 
 [![Lee Rider  Vaqueros slim para Hombre  Az](https://images-eu.ssl-images-amazon.com/images/I/41EOuwBPboL._SL200_.jpg)](https://www.amazon.es/dp/B07FTL5TQY/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07FTL5TQY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

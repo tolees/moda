@@ -22,6 +22,9 @@ Ahora mismo tienes [MERAKI Regular Camiseta de Manga Corta con Corte Estándar y
 
 [![MERAKI Regular Camiseta de Manga Corta c](https://images-eu.ssl-images-amazon.com/images/I/31zH%2BQkh-PL._SL200_.jpg)](https://www.amazon.es/dp/B079MBWM4C/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B079MBWM4C/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

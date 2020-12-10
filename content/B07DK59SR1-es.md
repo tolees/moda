@@ -22,6 +22,9 @@ Está [Geox JR Sandal Strada A  Sandalias con Punta Abierta para Niños  Blue  N
 
 [![Geox JR Sandal Strada A  Sandalias con P](https://images-eu.ssl-images-amazon.com/images/I/315t4oMiOAL._SL200_.jpg)](https://www.amazon.es/dp/B07DK59SR1/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DK59SR1/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

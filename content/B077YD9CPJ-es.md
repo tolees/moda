@@ -22,6 +22,9 @@ Ahora mismo tienes [HIKARO Camiseta Manga Larga Hombre  Negro  Black   48  Talla
 
 [![HIKARO Camiseta Manga Larga Hombre  Negr](https://images-eu.ssl-images-amazon.com/images/I/41dFyYdZ%2BIL._SL200_.jpg)](https://www.amazon.es/dp/B077YD9CPJ/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B077YD9CPJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

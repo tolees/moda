@@ -22,6 +22,9 @@ Tienes [Desigual Shoes_Swan Tigers  Sandalias con Plataforma Plana para Mujer  A
 
 [![Desigual Shoes_Swan Tigers  Sandalias co](https://images-eu.ssl-images-amazon.com/images/I/5174WZfNDUL._SL200_.jpg)](https://www.amazon.es/dp/B075SC6TLB/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B075SC6TLB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

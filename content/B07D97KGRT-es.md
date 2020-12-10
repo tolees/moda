@@ -22,6 +22,9 @@ Ahora mismo tienes [XTI 55886  Botines para Niñas  Negro  Black   30 EU](https:
 
 [![XTI 55886  Botines para Niñas  Negro  Bl](https://images-eu.ssl-images-amazon.com/images/I/41LS7JkYOaL._SL200_.jpg)](https://www.amazon.es/dp/B07D97KGRT/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07D97KGRT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

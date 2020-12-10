@@ -22,6 +22,9 @@ Tienes [FIND Frill Overlay Sudadera para Mujer  Rosa  Old Rose   36  Talla del F
 
 [![FIND Frill Overlay Sudadera para Mujer  ](https://images-eu.ssl-images-amazon.com/images/I/41ekPwG8rAL._SL200_.jpg)](https://www.amazon.es/dp/B06X9PYF9C/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B06X9PYF9C/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

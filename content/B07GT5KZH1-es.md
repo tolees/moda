@@ -22,6 +22,9 @@ Está [Vero Moda OuterwearVero Moda Pamela Chaqueta Acolchada de Plumas Chaqueta
 
 [![Vero Moda OuterwearVero Moda Pamela Chaq](https://images-eu.ssl-images-amazon.com/images/I/41Ym8jQwDaL._SL200_.jpg)](https://www.amazon.es/dp/B07GT5KZH1/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07GT5KZH1/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

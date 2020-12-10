@@ -22,6 +22,9 @@ Está [MTNG Collection Bled  Bolso Bandolera para Mujer   Antelina Negro   5.5 x
 
 [![MTNG Collection Bled  Bolso Bandolera pa](https://images-eu.ssl-images-amazon.com/images/I/41Y4W9-tBUL._SL200_.jpg)](https://www.amazon.es/dp/B07DQ7Z2RC/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DQ7Z2RC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

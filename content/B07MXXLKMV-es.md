@@ -22,6 +22,9 @@ Está [Superdry Vintage Logo Monochrome tee Camiseta  Blanco  Optic 01c   X-Larg
 
 [![Superdry Vintage Logo Monochrome tee Cam](https://images-eu.ssl-images-amazon.com/images/I/31g3F6iS5lL._SL200_.jpg)](https://www.amazon.es/dp/B07MXXLKMV/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07MXXLKMV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Eono Essentials - Camiseta de fútbol para niño  8 años ](https://www.a
 
 [![Eono Essentials - Camiseta de fútbol par](https://images-eu.ssl-images-amazon.com/images/I/31qw2YNvyBL._SL200_.jpg)](https://www.amazon.es/dp/B07FJZLTD6/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FJZLTD6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

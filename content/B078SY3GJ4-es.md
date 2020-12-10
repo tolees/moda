@@ -22,6 +22,9 @@ Está [Timberland Newport Bay  Zapatos de Cordones Oxford para Hombre  Azul  Neb
 
 [![Timberland Newport Bay  Zapatos de Cordo](https://images-eu.ssl-images-amazon.com/images/I/413t1CKAhGL._SL200_.jpg)](https://www.amazon.es/dp/B078SY3GJ4/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B078SY3GJ4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [BILLABONG Labrea Crew Jersey  Hombre  Gris  Grey Heather 9   Large  Tama�
 
 [![BILLABONG Labrea Crew Jersey  Hombre  Gr](https://images-eu.ssl-images-amazon.com/images/I/41WKna0dKTL._SL200_.jpg)](https://www.amazon.es/dp/B078WJ91MT/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B078WJ91MT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

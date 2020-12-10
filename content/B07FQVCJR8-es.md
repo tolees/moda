@@ -22,6 +22,9 @@ Tienes [Clarks Grandin Plain  Zapatos de Cordones Derby para Hombre  Azul  Navy 
 
 [![Clarks Grandin Plain  Zapatos de Cordone](https://images-eu.ssl-images-amazon.com/images/I/31IQk6t8kaL._SL200_.jpg)](https://www.amazon.es/dp/B07FQVCJR8/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07FQVCJR8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

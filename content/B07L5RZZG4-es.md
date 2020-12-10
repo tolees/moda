@@ -22,6 +22,9 @@ Está [Charles Wilson Sudadera con Capucha Peso Intermedio para Hombre  Medium  
 
 [![Charles Wilson Sudadera con Capucha Peso](https://images-eu.ssl-images-amazon.com/images/I/41vKXrTHxNL._SL200_.jpg)](https://www.amazon.es/dp/B07L5RZZG4/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07L5RZZG4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

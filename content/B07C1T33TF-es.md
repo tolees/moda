@@ -22,6 +22,9 @@ Ahora mismo tienes [Ecco Bella  Botines para Mujer  Schwarz  Black 1001   37 EU]
 
 [![Ecco Bella  Botines para Mujer  Schwarz ](https://images-eu.ssl-images-amazon.com/images/I/41IoEI89eXL._SL200_.jpg)](https://www.amazon.es/dp/B07C1T33TF/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07C1T33TF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

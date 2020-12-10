@@ -22,6 +22,9 @@ Ahora mismo tienes [Camper Morrys K100295-006 Zapatos de Vestir Hombre 45](https
 
 [![Camper Morrys K100295-006 Zapatos de Ves](https://images-eu.ssl-images-amazon.com/images/I/41lxY0LmxKL._SL200_.jpg)](https://www.amazon.es/dp/B0794P3WGD/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B0794P3WGD/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

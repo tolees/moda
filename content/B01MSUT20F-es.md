@@ -22,6 +22,9 @@ Tienes [adidas Ess Base Tee Camiseta  Hombre  Azul  Maruni/Blanco   S](https://w
 
 [![adidas Ess Base Tee Camiseta  Hombre  Az](https://images-eu.ssl-images-amazon.com/images/I/416BjtVGEgL._SL200_.jpg)](https://www.amazon.es/dp/B01MSUT20F/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01MSUT20F/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

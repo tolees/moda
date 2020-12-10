@@ -22,6 +22,9 @@ Está [Desigual Vest_Agra  Vestido para Mujer   Negro 2000   X-Small](https://ww
 
 [![Desigual Vest_Agra  Vestido para Mujer  ](https://images-eu.ssl-images-amazon.com/images/I/417yq34QJUL._SL200_.jpg)](https://www.amazon.es/dp/B079SMCTY9/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B079SMCTY9/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

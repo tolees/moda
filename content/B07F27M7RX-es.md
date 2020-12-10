@@ -22,6 +22,9 @@ Ahora mismo tienes [Levi s 514 Vaqueros Straight  Azul  Covered Up T2 1075   W31
 
 [![Levi s 514 Vaqueros Straight  Azul  Cove](https://images-eu.ssl-images-amazon.com/images/I/41As7GQzkhL._SL200_.jpg)](https://www.amazon.es/dp/B07F27M7RX/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07F27M7RX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

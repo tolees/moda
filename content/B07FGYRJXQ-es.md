@@ -22,6 +22,9 @@ Está [Columbia Northern Comfort II Hoodie Sudadera  Hombre  Negro  Talla XXL](h
 
 [![Columbia Northern Comfort II Hoodie Suda](https://images-eu.ssl-images-amazon.com/images/I/41z-pSG58vL._SL200_.jpg)](https://www.amazon.es/dp/B07FGYRJXQ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FGYRJXQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

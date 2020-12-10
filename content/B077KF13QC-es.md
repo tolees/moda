@@ -22,6 +22,9 @@ Tienes [Columbia W Thermarator Glove Guantes  Mujer  Eve  tall XL](https://www.a
 
 [![Columbia W Thermarator Glove Guantes  Mu](https://images-eu.ssl-images-amazon.com/images/I/51TBrXEutkL._SL200_.jpg)](https://www.amazon.es/dp/B077KF13QC/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B077KF13QC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

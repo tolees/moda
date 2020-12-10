@@ -22,6 +22,9 @@ Ahora mismo tienes [Marco Tozzi 22433  Sandalias con Plataforma para Mujer  Verd
 
 [![Marco Tozzi 22433  Sandalias con Platafo](https://images-eu.ssl-images-amazon.com/images/I/41Sv1KsMgZL._SL200_.jpg)](https://www.amazon.es/dp/B01N43NIQG/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01N43NIQG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Joinfun Mujeres Camisetas sin Mangas Tank Top  botón Strappy Sexy Casual
 
 [![Joinfun Mujeres Camisetas sin Mangas Tan](https://images-eu.ssl-images-amazon.com/images/I/41uZjHBiY1L._SL200_.jpg)](https://www.amazon.es/dp/B07QTWHP3F/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07QTWHP3F/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [LOFIR Calcetines sin mangas para hombres Corte bajo Non Slip Grip-Invisib
 
 [![LOFIR Calcetines sin mangas para hombres](https://images-eu.ssl-images-amazon.com/images/I/61--tQkm%2BEL._SL200_.jpg)](https://www.amazon.es/dp/B07D6PM5Q1/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07D6PM5Q1/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

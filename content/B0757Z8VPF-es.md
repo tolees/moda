@@ -22,6 +22,9 @@ Tienes [FIND Pantalón Vaquero Skinny Hombre  Azul  Blue Black   W31/L30](https:
 
 [![FIND Pantalón Vaquero Skinny Hombre  Azu](https://images-eu.ssl-images-amazon.com/images/I/417DYs6DH0L._SL200_.jpg)](https://www.amazon.es/dp/B0757Z8VPF/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B0757Z8VPF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

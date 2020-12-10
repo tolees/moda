@@ -22,6 +22,9 @@ Está [United Colors of Benetton Blouse Blusa  Azul  BLU 901   única  Talla del
 
 [![United Colors of Benetton Blouse Blusa  ](https://images-eu.ssl-images-amazon.com/images/I/41dT76hxBhL._SL200_.jpg)](https://www.amazon.es/dp/B07KTP3NJG/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KTP3NJG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

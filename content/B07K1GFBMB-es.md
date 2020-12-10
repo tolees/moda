@@ -22,6 +22,9 @@ Ahora mismo tienes [Emporio Armani Underwear 9p400 Bóxer  Negro 00020  Small  T
 
 [![Emporio Armani Underwear 9p400 Bóxer  Ne](https://images-eu.ssl-images-amazon.com/images/I/41QO57Ewa1L._SL200_.jpg)](https://www.amazon.es/dp/B07K1GFBMB/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07K1GFBMB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Gant 3-Pack Trunk Seasonal Solid Camiseta sin Mangas  Rojo  Cardinal Red 
 
 [![Gant 3-Pack Trunk Seasonal Solid Camiset](https://images-eu.ssl-images-amazon.com/images/I/41vldbT7DjL._SL200_.jpg)](https://www.amazon.es/dp/B07KPQ3S9Q/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KPQ3S9Q/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

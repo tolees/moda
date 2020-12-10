@@ -22,6 +22,9 @@ Ahora mismo tienes [SELECTED FEMME Sflivana LS Knit Cuff Cardigan  Chaqueta Punt
 
 [![SELECTED FEMME Sflivana LS Knit Cuff Car](https://images-eu.ssl-images-amazon.com/images/I/41%2BM15WNcyL._SL200_.jpg)](https://www.amazon.es/dp/B074NCCHKW/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B074NCCHKW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

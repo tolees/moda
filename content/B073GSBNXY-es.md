@@ -22,6 +22,9 @@ Está [Esprit 097ee1g019  Chaqueta Mujer  Gris  Brown Grey 025   Small](https://
 
 [![Esprit 097ee1g019  Chaqueta Mujer  Gris ](https://images-eu.ssl-images-amazon.com/images/I/41bSUvzlR1L._SL200_.jpg)](https://www.amazon.es/dp/B073GSBNXY/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B073GSBNXY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

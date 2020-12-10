@@ -22,6 +22,9 @@ Está [Geox U Dublin B  Zapatos de Cordones Brogue para Hombre  Azul  Navy   42 
 
 [![Geox U Dublin B  Zapatos de Cordones Bro](https://images-eu.ssl-images-amazon.com/images/I/31q6wYn-wYL._SL200_.jpg)](https://www.amazon.es/dp/B07DJ3G9R3/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DJ3G9R3/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

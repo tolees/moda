@@ -22,6 +22,9 @@ Tienes [Blend Jeans Without Trash Vaqueros Slim  Negro  Denim Black 76204   31W 
 
 [![Blend Jeans Without Trash Vaqueros Slim ](https://images-eu.ssl-images-amazon.com/images/I/31WkXlrA2wL._SL200_.jpg)](https://www.amazon.es/dp/B07FDDJNX8/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07FDDJNX8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

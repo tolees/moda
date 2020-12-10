@@ -22,6 +22,9 @@ Tienes [Vero Moda Vmmilan Nille 3/4 Deep V-Neck Blouse suéter  Azul  Navy Blaze
 
 [![Vero Moda Vmmilan Nille 3/4 Deep V-Neck ](https://images-eu.ssl-images-amazon.com/images/I/41FpxtJNdpL._SL200_.jpg)](https://www.amazon.es/dp/B072FBY9JC/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B072FBY9JC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Levi s 501 Vaqueros Tapered  Azul  Noten 45   W28/L34 para Hombre](https:
 
 [![Levi s 501 Vaqueros Tapered  Azul  Noten](https://images-eu.ssl-images-amazon.com/images/I/41r9nWkDUAL._SL200_.jpg)](https://www.amazon.es/dp/B073QWYYCF/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B073QWYYCF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

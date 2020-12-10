@@ -22,6 +22,9 @@ Está [Geox D Seylise Mid A  Zapatos de Tacón para Mujer   Black C9999   41 EU]
 
 [![Geox D Seylise Mid A  Zapatos de Tacón p](https://images-eu.ssl-images-amazon.com/images/I/31DpFapax%2BL._SL200_.jpg)](https://www.amazon.es/dp/B0792PDJJ1/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0792PDJJ1/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

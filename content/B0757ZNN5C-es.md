@@ -22,6 +22,9 @@ Tienes [find. Vaqueros Estrechos con Rotos Hombre Gris  Washed Black  W29/L30](h
 
 [![find. Vaqueros Estrechos con Rotos Hombr](https://images-eu.ssl-images-amazon.com/images/I/41s8puIANLL._SL200_.jpg)](https://www.amazon.es/dp/B0757ZNN5C/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B0757ZNN5C/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

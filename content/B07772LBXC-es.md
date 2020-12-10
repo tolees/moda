@@ -22,6 +22,9 @@ Ahora mismo tienes [Tommy Jeans Hombre  Tapered Steve Vaqueros slim   Azul  Berr
 
 [![Tommy Jeans Hombre  Tapered Steve Vaquer](https://images-eu.ssl-images-amazon.com/images/I/31JEgGmAu0L._SL200_.jpg)](https://www.amazon.es/dp/B07772LBXC/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07772LBXC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

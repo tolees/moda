@@ -22,6 +22,9 @@ Está [Timberland Exeter River Basic Crew Sudadera  Gris  Medium Grey Heather 05
 
 [![Timberland Exeter River Basic Crew Sudad](https://images-eu.ssl-images-amazon.com/images/I/41tSO7s7j3L._SL200_.jpg)](https://www.amazon.es/dp/B073Y63THR/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B073Y63THR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Kipling TEAGAN S Organizador de bolso  54 cm  39 liters  Multicolor  Scri
 
 [![Kipling TEAGAN S Organizador de bolso  5](https://images-eu.ssl-images-amazon.com/images/I/51TbvU7OmSL._SL200_.jpg)](https://www.amazon.es/dp/B07DRJC6Q9/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DRJC6Q9/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

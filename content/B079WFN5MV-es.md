@@ -22,6 +22,9 @@ Tienes [Pepe Jeans New Brooke  Vaqueros para Mujer  Azul  Dark Used Ce5  33W / 3
 
 [![Pepe Jeans New Brooke  Vaqueros para Muj](https://images-eu.ssl-images-amazon.com/images/I/31yETgynpnL._SL200_.jpg)](https://www.amazon.es/dp/B079WFN5MV/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B079WFN5MV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

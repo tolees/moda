@@ -22,6 +22,9 @@ Tienes [Pepe Jeans Finsbury  Vaqueros para Hombre  Negro  Black Used Wa5  30W / 
 
 [![Pepe Jeans Finsbury  Vaqueros para Hombr](https://images-eu.ssl-images-amazon.com/images/I/41sLqvJ93zL._SL200_.jpg)](https://www.amazon.es/dp/B06XJWSW3R/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B06XJWSW3R/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

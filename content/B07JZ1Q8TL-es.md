@@ -22,6 +22,9 @@ Está [Kono mujeres Hobo bandolera estilo vintage de alta calidad suave pu bolso
 
 [![Kono mujeres Hobo bandolera estilo vinta](https://images-eu.ssl-images-amazon.com/images/I/41ERUk2M73L._SL200_.jpg)](https://www.amazon.es/dp/B07JZ1Q8TL/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07JZ1Q8TL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

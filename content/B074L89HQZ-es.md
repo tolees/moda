@@ -22,6 +22,9 @@ Está [Only Onlmesa AOP Wide Sleeve Top Wvn  Blusa Mujer   Black AOP:sanchi Flor
 
 [![Only Onlmesa AOP Wide Sleeve Top Wvn  Bl](https://images-eu.ssl-images-amazon.com/images/I/510%2BFXewARL._SL200_.jpg)](https://www.amazon.es/dp/B074L89HQZ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B074L89HQZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

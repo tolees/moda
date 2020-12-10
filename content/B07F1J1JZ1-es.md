@@ -22,6 +22,9 @@ Está [BILLABONG All Day 10K Boy Chaqueta  Niños  Verde  Military Heather 1288 
 
 [![BILLABONG All Day 10K Boy Chaqueta  Niño](https://images-eu.ssl-images-amazon.com/images/I/4184FONTewL._SL200_.jpg)](https://www.amazon.es/dp/B07F1J1JZ1/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07F1J1JZ1/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Emporio Armani CC747  Bóxer para Hombre  Blanco  White  Small  Tamaño 
 
 [![Emporio Armani CC747  Bóxer para Hombre ](https://images-eu.ssl-images-amazon.com/images/I/31He8nKLSlL._SL200_.jpg)](https://www.amazon.es/dp/B00UN8RO7G/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00UN8RO7G/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

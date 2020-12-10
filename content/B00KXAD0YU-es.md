@@ -22,6 +22,9 @@ Tienes [Under Armour UA Raid SS Camiseta  Hombre  Negro Black/Graphite 001  XL](
 
 [![Under Armour UA Raid SS Camiseta  Hombre](https://images-eu.ssl-images-amazon.com/images/I/31sCMH6%2B6QL._SL200_.jpg)](https://www.amazon.es/dp/B00KXAD0YU/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00KXAD0YU/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

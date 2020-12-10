@@ -22,6 +22,9 @@ Está [Superdry Vintage Logo Panel Stripe Crew  Sudadera para Hombre  Verde  Pit
 
 [![Superdry Vintage Logo Panel Stripe Crew ](https://images-eu.ssl-images-amazon.com/images/I/419Z0GmInnL._SL200_.jpg)](https://www.amazon.es/dp/B07FMXTWHY/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FMXTWHY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

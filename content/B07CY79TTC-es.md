@@ -22,6 +22,9 @@ Ahora mismo tienes [Windsoroyal - Guantes de verano Alton para mujer  Negro - L]
 
 [![Windsoroyal - Guantes de verano Alton pa](https://images-eu.ssl-images-amazon.com/images/I/51r3-PwWmTL._SL200_.jpg)](https://www.amazon.es/dp/B07CY79TTC/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07CY79TTC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

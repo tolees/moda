@@ -22,6 +22,9 @@ Tienes [Levi s  ® Graphic Set-In Neck 2 Camiseta Photo Wht](https://www.amazon.
 
 [![Levi s  ® Graphic Set-In Neck 2 Camiseta](https://images-eu.ssl-images-amazon.com/images/I/31uvTOeUJuL._SL200_.jpg)](https://www.amazon.es/dp/B07GF263KJ/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07GF263KJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

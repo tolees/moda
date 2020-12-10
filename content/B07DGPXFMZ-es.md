@@ -22,6 +22,9 @@ Está [Under Armour UA Tech Graphic Short Pantalón Corto  Hombre  Rojo  Dark Ma
 
 [![Under Armour UA Tech Graphic Short Panta](https://images-eu.ssl-images-amazon.com/images/I/31JnZ9bIAvL._SL200_.jpg)](https://www.amazon.es/dp/B07DGPXFMZ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DGPXFMZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

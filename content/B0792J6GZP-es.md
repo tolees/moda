@@ -22,6 +22,9 @@ Tienes [Roxy Easy Game Camiseta sin Mangas de Diseño Técnico  Mujer  Negro  An
 
 [![Roxy Easy Game Camiseta sin Mangas de Di](https://images-eu.ssl-images-amazon.com/images/I/41gLT26OHDL._SL200_.jpg)](https://www.amazon.es/dp/B0792J6GZP/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B0792J6GZP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

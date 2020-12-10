@@ -22,6 +22,9 @@ Está [FIND Camiseta Bronx para Hombre  Azul  Majolica Blue 002   XX-Large](http
 
 [![FIND Camiseta Bronx para Hombre  Azul  M](https://images-eu.ssl-images-amazon.com/images/I/41g6hw401QL._SL200_.jpg)](https://www.amazon.es/dp/B073SCWDRQ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B073SCWDRQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

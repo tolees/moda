@@ -22,6 +22,9 @@ Está [The North Face S/S Peak tee Camiseta de Manga Corta  Hombre  Storm Blue  
 
 [![The North Face S/S Peak tee Camiseta de ](https://images-eu.ssl-images-amazon.com/images/I/414Yp3m-JgL._SL200_.jpg)](https://www.amazon.es/dp/B07MN9CSQR/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07MN9CSQR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

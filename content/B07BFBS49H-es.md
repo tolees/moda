@@ -22,6 +22,9 @@ Ahora mismo tienes [Vestido Mujer Vintage Años 50s Estampado Girasol Vestido El
 
 [![Vestido Mujer Vintage Años 50s Estampado](https://images-eu.ssl-images-amazon.com/images/I/41XUJMq-E5L._SL200_.jpg)](https://www.amazon.es/dp/B07BFBS49H/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07BFBS49H/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

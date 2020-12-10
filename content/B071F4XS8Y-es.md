@@ -22,6 +22,9 @@ Ahora mismo tienes [Vero Moda Vmgaltine LS Ruffle Blouse suéter  Rosa  Rose Clo
 
 [![Vero Moda Vmgaltine LS Ruffle Blouse sué](https://images-eu.ssl-images-amazon.com/images/I/41dNrN2Q3xL._SL200_.jpg)](https://www.amazon.es/dp/B071F4XS8Y/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B071F4XS8Y/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

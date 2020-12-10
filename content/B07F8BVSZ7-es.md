@@ -22,6 +22,9 @@ Está [Quiksilver Scaly Chaqueta  Hombre  Negro  Black KVJ0   Medium  Tamaño de
 
 [![Quiksilver Scaly Chaqueta  Hombre  Negro](https://images-eu.ssl-images-amazon.com/images/I/41-pXF2iDmL._SL200_.jpg)](https://www.amazon.es/dp/B07F8BVSZ7/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07F8BVSZ7/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

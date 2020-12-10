@@ -22,6 +22,9 @@ Ahora mismo tienes [Levi s Type 3 Sherpa Trucker Chaqueta  Beige  True Chino Cor
 
 [![Levi s Type 3 Sherpa Trucker Chaqueta  B](https://images-eu.ssl-images-amazon.com/images/I/41jzzhE%2BdFL._SL200_.jpg)](https://www.amazon.es/dp/B07D6ZTDL4/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07D6ZTDL4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

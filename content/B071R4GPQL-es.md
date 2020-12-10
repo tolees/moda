@@ -22,6 +22,9 @@ Tienes [XTI 047202  Botines para Mujer  Rojo  Burdeos   38 EU](https://www.amazo
 
 [![XTI 047202  Botines para Mujer  Rojo  Bu](https://images-eu.ssl-images-amazon.com/images/I/510tkpErRwL._SL200_.jpg)](https://www.amazon.es/dp/B071R4GPQL/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B071R4GPQL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Converse Star Chevron Graphic Crew  Sudadera para Hombre  Gris  Vintage G
 
 [![Converse Star Chevron Graphic Crew  Suda](https://images-eu.ssl-images-amazon.com/images/I/41WD9qFNxGL._SL200_.jpg)](https://www.amazon.es/dp/B079QC6YVQ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B079QC6YVQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

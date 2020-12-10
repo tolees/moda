@@ -22,6 +22,9 @@ Tienes [Geox J Xunday Boy H  Botas Chukka para Niños   Dk Yellow/Brown C2286   
 
 [![Geox J Xunday Boy H  Botas Chukka para N](https://images-eu.ssl-images-amazon.com/images/I/41xOw9N0oYL._SL200_.jpg)](https://www.amazon.es/dp/B079RP6PS5/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B079RP6PS5/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

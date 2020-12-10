@@ -22,6 +22,9 @@ Está [JACK & JONES Jjepocket tee SS O-Neck Noos Camiseta  Blanco  White Detail:
 
 [![JACK & JONES Jjepocket tee SS O-Neck Noo](https://images-eu.ssl-images-amazon.com/images/I/41QSlznI2eL._SL200_.jpg)](https://www.amazon.es/dp/B079BPYZMZ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B079BPYZMZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

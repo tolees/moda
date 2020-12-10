@@ -22,6 +22,9 @@ Está [Levi s 511 Slim Fit  Vaqueros para Hombre  Azul  Make Warp Cool 3298   33
 
 [![Levi s 511 Slim Fit  Vaqueros para Hombr](https://images-eu.ssl-images-amazon.com/images/I/41VU7ZZJf0L._SL200_.jpg)](https://www.amazon.es/dp/B07K75ZHRZ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07K75ZHRZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

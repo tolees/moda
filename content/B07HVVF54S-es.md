@@ -22,6 +22,9 @@ Está [HARRY POTTER - Camiseta Modelo Hogwarts para niños y niñas  7-8 Años/B
 
 [![HARRY POTTER - Camiseta Modelo Hogwarts ](https://images-eu.ssl-images-amazon.com/images/I/51ggVINV9gL._SL200_.jpg)](https://www.amazon.es/dp/B07HVVF54S/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07HVVF54S/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

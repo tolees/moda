@@ -22,6 +22,9 @@ Está [Dockers Pantalón Alpha Khaki Slim Azul Noche W30L32](https://www.amazon.
 
 [![Dockers Pantalón Alpha Khaki Slim Azul N](https://images-eu.ssl-images-amazon.com/images/I/41fxlTSBpDL._SL200_.jpg)](https://www.amazon.es/dp/B014PXWX8O/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B014PXWX8O/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

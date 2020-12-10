@@ -22,6 +22,9 @@ Ahora mismo tienes [Columbia Saturday Trail II Pantalón de Senderismo hasta  Na
 
 [![Columbia Saturday Trail II Pantalón de S](https://images-eu.ssl-images-amazon.com/images/I/31UPQUuwXmL._SL200_.jpg)](https://www.amazon.es/dp/B07DQ9RK1H/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07DQ9RK1H/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Under Armour UA Jet Mid  Zapatos de Baloncesto para Hombre  Rojo  Red/Whi
 
 [![Under Armour UA Jet Mid  Zapatos de Balo](https://images-eu.ssl-images-amazon.com/images/I/41%2BAdkP54%2BL._SL200_.jpg)](https://www.amazon.es/dp/B076SBLWSM/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B076SBLWSM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,11 @@ Está [JACK & JONES Clark Original JOS 318 Vaqueros  Azul  Blue Denim   33W / 32
 
 [![JACK & JONES Clark Original JOS 318 Vaqu](https://m.media-amazon.com/images/I/41bixBZsvbL._SL200_.jpg)](https://www.amazon.es/dp/B00N1TQUSS/?tag=tolees-21)
 
+Principales características:
+
+- Corte regular fit y cinco bolsillos
+- Puntadas marrones para un look denim auténtico
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00N1TQUSS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

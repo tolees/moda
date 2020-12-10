@@ -22,6 +22,9 @@ Está [Jack & Jones Storm Sweat - Camiseta de manga larga con cuello redondo par
 
 [![Jack & Jones Storm Sweat - Camiseta de m](https://images-eu.ssl-images-amazon.com/images/I/41ksXQ3hipL._SL200_.jpg)](https://www.amazon.es/dp/B0085SG0BM/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0085SG0BM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

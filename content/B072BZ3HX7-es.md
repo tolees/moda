@@ -22,6 +22,9 @@ Está [edc by Esprit 097cc1i058  Chaqueta Punto Mujer  Azul  Navy 400   Small](h
 
 [![edc by Esprit 097cc1i058  Chaqueta Punto](https://images-eu.ssl-images-amazon.com/images/I/513PHXA-3ZL._SL200_.jpg)](https://www.amazon.es/dp/B072BZ3HX7/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B072BZ3HX7/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

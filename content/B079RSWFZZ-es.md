@@ -22,6 +22,9 @@ Está [Pepe Jeans Claudia PL503846 Camiseta  Blanco  Off White 803   Large para 
 
 [![Pepe Jeans Claudia PL503846 Camiseta  Bl](https://images-eu.ssl-images-amazon.com/images/I/41GX7kbcijL._SL200_.jpg)](https://www.amazon.es/dp/B079RSWFZZ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B079RSWFZZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

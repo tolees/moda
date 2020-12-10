@@ -22,6 +22,9 @@ Tienes [Springfield 2.BS.Oi18 AOP Estrella Camiseta  Mujer   Varios 98   Medium 
 
 [![Springfield 2.BS.Oi18 AOP Estrella Camis](https://images-eu.ssl-images-amazon.com/images/I/51Yiu8lewYL._SL200_.jpg)](https://www.amazon.es/dp/B07DLLKY5V/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07DLLKY5V/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

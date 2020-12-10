@@ -22,6 +22,9 @@ Ahora mismo tienes [Columbia Silver Ridge II Chaleco para Senderismo  Aislamient
 
 [![Columbia Silver Ridge II Chaleco para Se](https://images-eu.ssl-images-amazon.com/images/I/41sUH4iDJ2L._SL200_.jpg)](https://www.amazon.es/dp/B072JKQ7T7/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B072JKQ7T7/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

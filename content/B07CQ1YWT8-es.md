@@ -22,6 +22,9 @@ Está [Lee Elly  Vaqueros Slim  Mujer  Azul  Fresh Worn Xn   W24/L31](https://ww
 
 [![Lee Elly  Vaqueros Slim  Mujer  Azul  Fr]()](https://www.amazon.es/dp/B07CQ1YWT8/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07CQ1YWT8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [New Look Sadie Stripe Blusa  Blanco  White Pattern 19  38  T
 
 [![New Look Sadie Stripe Blusa  Blanco  Whi](https://images-eu.ssl-images-amazon.com/images/I/41mNH8pyflL._SL200_.jpg)](https://www.amazon.es/dp/B07JHMKZ4Z/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07JHMKZ4Z/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Helly Hansen W Hh Logo Hoodie  Sudadera con capucha para Mujer  Blanco  B
 
 [![Helly Hansen W Hh Logo Hoodie  Sudadera ](https://images-eu.ssl-images-amazon.com/images/I/3134e7ZO76L._SL200_.jpg)](https://www.amazon.es/dp/B07F2Q64GD/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07F2Q64GD/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

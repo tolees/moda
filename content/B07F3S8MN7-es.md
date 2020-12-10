@@ -22,6 +22,9 @@ Está [Geox U Nebula a  Zapatillas para Hombre  Rojo  Dark Red C7004   41 EU](ht
 
 [![Geox U Nebula a  Zapatillas para Hombre ](https://images-eu.ssl-images-amazon.com/images/I/31pnfbslrTL._SL200_.jpg)](https://www.amazon.es/dp/B07F3S8MN7/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07F3S8MN7/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

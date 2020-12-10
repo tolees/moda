@@ -22,6 +22,9 @@ Ahora mismo tienes [Napapijri Rainforest M Sum 1 Rhubarb Red Chaqueta  Rojo R85 
 
 [![Napapijri Rainforest M Sum 1 Rhubarb Red](https://images-eu.ssl-images-amazon.com/images/I/41vH71Jk%2BPL._SL200_.jpg)](https://www.amazon.es/dp/B07L9SH4LC/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07L9SH4LC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

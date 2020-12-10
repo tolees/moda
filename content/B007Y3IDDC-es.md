@@ -22,6 +22,9 @@ Está [Mephisto AGAZIO Charles 3800 Black P5104725 - Zapatos Casual de Cuero par
 
 [![Mephisto AGAZIO Charles 3800 Black P5104](https://images-eu.ssl-images-amazon.com/images/I/31QuWs4DxNL._SL200_.jpg)](https://www.amazon.es/dp/B007Y3IDDC/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B007Y3IDDC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

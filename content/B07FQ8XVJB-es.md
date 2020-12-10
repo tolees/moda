@@ -22,6 +22,9 @@ Tienes [JACK & JONES Jjiglenn Jjicon JJ 257 50sps Noos  Vaqueros Slim Hombre  Gr
 
 [![JACK & JONES Jjiglenn Jjicon JJ 257 50sp](https://images-eu.ssl-images-amazon.com/images/I/41I--JlL6EL._SL200_.jpg)](https://www.amazon.es/dp/B07FQ8XVJB/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07FQ8XVJB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

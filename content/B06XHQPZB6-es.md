@@ -22,6 +22,9 @@ Tienes [Geox J Kommodor B  Zapatillas para Niños  Negro  Black/White   38 EU](h
 
 [![Geox J Kommodor B  Zapatillas para Niños](https://images-eu.ssl-images-amazon.com/images/I/41AfdXY3t%2BL._SL200_.jpg)](https://www.amazon.es/dp/B06XHQPZB6/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B06XHQPZB6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Inside 5SFD13 Camiseta  Mujer  Blanco  Medium  Tamaño del Fabricante:M ]
 
 [![Inside 5SFD13 Camiseta  Mujer  Blanco  M](https://images-eu.ssl-images-amazon.com/images/I/41RBKyn%2BQFL._SL200_.jpg)](https://www.amazon.es/dp/B077YDZ3H2/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B077YDZ3H2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

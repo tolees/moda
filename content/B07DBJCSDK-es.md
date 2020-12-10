@@ -22,6 +22,9 @@ Está [United Colors of Benetton T-Shirt L/s  Camiseta Niños  Marrón  Camel 3c
 
 [![United Colors of Benetton T-Shirt L/s  C](https://images-eu.ssl-images-amazon.com/images/I/41P1u%2B44tDL._SL200_.jpg)](https://www.amazon.es/dp/B07DBJCSDK/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DBJCSDK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

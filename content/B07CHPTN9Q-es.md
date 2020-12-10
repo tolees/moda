@@ -22,6 +22,9 @@ Está [ONLY Onlbex Lace Up Bootie  Botines para Mujer  Morado Burgundy  38 EU](h
 
 [![ONLY Onlbex Lace Up Bootie  Botines para](https://images-eu.ssl-images-amazon.com/images/I/41jh5TAcJuL._SL200_.jpg)](https://www.amazon.es/dp/B07CHPTN9Q/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07CHPTN9Q/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

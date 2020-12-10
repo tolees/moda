@@ -22,6 +22,9 @@ Está [Lee Scarlett High  Vaqueros Skinny para Mujer  Azul  Cool Daze XV   W25/L
 
 [![Lee Scarlett High  Vaqueros Skinny para ](https://images-eu.ssl-images-amazon.com/images/I/41FNnuYdv4L._SL200_.jpg)](https://www.amazon.es/dp/B07CQ66KMW/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07CQ66KMW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

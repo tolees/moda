@@ -22,6 +22,9 @@ Tienes [Desigual TS_Sydney  Camiseta para Niñas   Rosa Palido 3025   116  Talla
 
 [![Desigual TS_Sydney  Camiseta para Niñas ](https://images-eu.ssl-images-amazon.com/images/I/41tH2iXm7GL._SL200_.jpg)](https://www.amazon.es/dp/B075GYL6LK/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B075GYL6LK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

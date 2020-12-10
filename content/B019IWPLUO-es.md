@@ -22,6 +22,9 @@ Está [Mexx MX3021172 Women Dress - vestido Mujer  Blau  Vintage Indigo 407   ES
 
 [![Mexx MX3021172 Women Dress - vestido Muj](https://images-eu.ssl-images-amazon.com/images/I/41ScuyL-9gL._SL200_.jpg)](https://www.amazon.es/dp/B019IWPLUO/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B019IWPLUO/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

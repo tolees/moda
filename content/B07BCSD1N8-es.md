@@ -22,6 +22,9 @@ Está [Columbia Triple Canyon Youth Pantalón Largo  Niños  Negro  10/12](https
 
 [![Columbia Triple Canyon Youth Pantalón La](https://images-eu.ssl-images-amazon.com/images/I/317S5RAjAlL._SL200_.jpg)](https://www.amazon.es/dp/B07BCSD1N8/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07BCSD1N8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

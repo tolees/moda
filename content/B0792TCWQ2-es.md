@@ -22,6 +22,9 @@ Ahora mismo tienes [Geox J Xunday Boy A  Botas Chukka para Niños  Azul  Navy/Bl
 
 [![Geox J Xunday Boy A  Botas Chukka para N](https://images-eu.ssl-images-amazon.com/images/I/418xtQv%2BsBL._SL200_.jpg)](https://www.amazon.es/dp/B0792TCWQ2/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B0792TCWQ2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Iron Maiden Hi Contrast Trooper  Camiseta Manga Corta para Hombre  Negro 
 
 [![Iron Maiden Hi Contrast Trooper  Camiset](https://images-eu.ssl-images-amazon.com/images/I/41IycNa0VyL._SL200_.jpg)](https://www.amazon.es/dp/B00BR2KY5G/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00BR2KY5G/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

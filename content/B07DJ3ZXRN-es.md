@@ -22,6 +22,9 @@ Está [Geox Donna Brogue a  Botas Chelsea para Mujer  Azul  Navy   37 EU](https:
 
 [![Geox Donna Brogue a  Botas Chelsea para ](https://images-eu.ssl-images-amazon.com/images/I/31dJQk308iL._SL200_.jpg)](https://www.amazon.es/dp/B07DJ3ZXRN/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DJ3ZXRN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

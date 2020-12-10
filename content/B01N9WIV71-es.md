@@ -22,6 +22,13 @@ Tienes [Tommy Hilfiger Logo Camiseta de Cuello Redondo Perfecta para El Tiempo L
 
 [![Tommy Hilfiger Logo Camiseta de Cuello R](https://m.media-amazon.com/images/I/419WHxiryRL._SL200_.jpg)](https://www.amazon.es/dp/B01N9WIV71/?tag=tolees-21)
 
+Características principales:
+
+- Logo de Tommy Hilfiger en la parte delantera
+- Logo bordado en la manga
+- Cinta distintiva en el interior del cuello
+- Camiseta de corte clásico óptima para el tiempo libre
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01N9WIV71/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

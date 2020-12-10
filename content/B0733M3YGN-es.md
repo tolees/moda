@@ -22,6 +22,9 @@ Está [Puma Heather Cat tee Camiseta  Mujer  Naranja  M](https://www.amazon.es/d
 
 [![Puma Heather Cat tee Camiseta  Mujer  Na](https://images-eu.ssl-images-amazon.com/images/I/41M976p2qPL._SL200_.jpg)](https://www.amazon.es/dp/B0733M3YGN/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0733M3YGN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

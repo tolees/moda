@@ -22,6 +22,9 @@ Está [adidas BQ6515 Chaqueta  Hombre  Blanco/Negro  S](https://www.amazon.es/dp
 
 [![adidas BQ6515 Chaqueta  Hombre  Blanco/N](https://images-eu.ssl-images-amazon.com/images/I/41lx2pwQf8L._SL200_.jpg)](https://www.amazon.es/dp/B076HQ3VQV/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B076HQ3VQV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

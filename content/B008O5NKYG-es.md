@@ -22,6 +22,9 @@ Está [James & Nicholson Steppweste Padded Light Weight  Chaleco para Hombre  Gr
 
 [![James & Nicholson Steppweste Padded Ligh](https://images-eu.ssl-images-amazon.com/images/I/41FcJ4bhoHL._SL200_.jpg)](https://www.amazon.es/dp/B008O5NKYG/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B008O5NKYG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

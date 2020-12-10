@@ -22,6 +22,9 @@ Ahora mismo tienes [Vero Moda Vmchelsey LS Boatneck Blouse Boo suéter  Rosa  Ro
 
 [![Vero Moda Vmchelsey LS Boatneck Blouse B](https://images-eu.ssl-images-amazon.com/images/I/41SjjKmf0NL._SL200_.jpg)](https://www.amazon.es/dp/B077VW9PXX/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B077VW9PXX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

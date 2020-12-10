@@ -22,6 +22,9 @@ Tienes [Crocs Santa Cruz Canvas Flip Men  Chanclas para Hombre  Marrón  Espress
 
 [![Crocs Santa Cruz Canvas Flip Men  Chancl](https://images-eu.ssl-images-amazon.com/images/I/31xWTBi0n%2BL._SL200_.jpg)](https://www.amazon.es/dp/B07CN8XSKK/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07CN8XSKK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Springfield 3Yl Classic Denim Pocket Camisa Casual  Hombre  Azul  Gama A
 
 [![Springfield 3Yl Classic Denim Pocket Cam]()](https://www.amazon.es/dp/B07KZ15JT8/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07KZ15JT8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

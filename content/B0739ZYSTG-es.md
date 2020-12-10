@@ -22,6 +22,9 @@ Está [Double Agent 87325 Vaqueros Skinny  Gris Oscuro  WNA  Tamaño del Fabrica
 
 [![Double Agent 87325 Vaqueros Skinny  Gris](https://images-eu.ssl-images-amazon.com/images/I/41gmUku-QRL._SL200_.jpg)](https://www.amazon.es/dp/B0739ZYSTG/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0739ZYSTG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

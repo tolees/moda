@@ -22,6 +22,9 @@ Tienes [Joma Katy Camiseta de tirantes  Mujer  Amarillo  S](https://www.amazon.e
 
 [![Joma Katy Camiseta de tirantes  Mujer  A](https://images-eu.ssl-images-amazon.com/images/I/41ZuZEiQ62L._SL200_.jpg)](https://www.amazon.es/dp/B010FXN8A0/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B010FXN8A0/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

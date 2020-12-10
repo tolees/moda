@@ -22,6 +22,9 @@ Tienes [Tommy Jeans Hombre  Scanton  Vaqueros slim   Azul  Cobalt Light Bl St 91
 
 [![Tommy Jeans Hombre  Scanton  Vaqueros sl](https://images-eu.ssl-images-amazon.com/images/I/41YMVQvofXL._SL200_.jpg)](https://www.amazon.es/dp/B07HH5GS63/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07HH5GS63/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

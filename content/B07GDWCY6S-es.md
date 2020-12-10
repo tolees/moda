@@ -22,6 +22,9 @@ Está [Levi s Barstow Western Camisa   Wildcat Indigo 2 0303   Large para Hombre
 
 [![Levi s Barstow Western Camisa   Wildcat ](https://images-eu.ssl-images-amazon.com/images/I/515s01NLN3L._SL200_.jpg)](https://www.amazon.es/dp/B07GDWCY6S/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07GDWCY6S/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

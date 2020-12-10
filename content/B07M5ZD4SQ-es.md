@@ -22,6 +22,9 @@ Está [G-STAR RAW 3301 Deconstructed Skinny Vaqueros  Negro  New Medium Aged Des
 
 [![G-STAR RAW 3301 Deconstructed Skinny Vaq](https://images-eu.ssl-images-amazon.com/images/I/41q6LT-wYlL._SL200_.jpg)](https://www.amazon.es/dp/B07M5ZD4SQ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07M5ZD4SQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

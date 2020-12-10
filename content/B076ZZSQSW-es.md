@@ -22,6 +22,9 @@ Está [G-STAR RAW Cadulor R T S/s Camiseta   Grey Htr 906   Medium para Hombre](
 
 [![G-STAR RAW Cadulor R T S/s Camiseta   Gr](https://images-eu.ssl-images-amazon.com/images/I/41pJ1%2BmBtwL._SL200_.jpg)](https://www.amazon.es/dp/B076ZZSQSW/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B076ZZSQSW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [ALESYA by Scarpe&Scarpe - Zapatos de salón con elásticos C
 
 [![ALESYA by Scarpe&Scarpe - Zapatos de sal](https://images-eu.ssl-images-amazon.com/images/I/41w5I6ItNTL._SL200_.jpg)](https://www.amazon.es/dp/B0742KGR7S/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B0742KGR7S/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

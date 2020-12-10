@@ -22,6 +22,9 @@ Está [hummel Hmlmateo H Sudadera  Hombre  Gris  Gray Melange   XL](https://www.
 
 [![hummel Hmlmateo H Sudadera  Hombre  Gris](https://images-eu.ssl-images-amazon.com/images/I/41pQvGOfqsL._SL200_.jpg)](https://www.amazon.es/dp/B07KS2S4DS/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KS2S4DS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Urban Classics Ladies Back Lace Up Sweater  Sudadera para Mu
 
 [![Urban Classics Ladies Back Lace Up Sweat](https://images-eu.ssl-images-amazon.com/images/I/41Gsc5QHY3L._SL200_.jpg)](https://www.amazon.es/dp/B07DQ22SMT/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07DQ22SMT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

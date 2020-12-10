@@ -22,6 +22,9 @@ Está [Geox Jr Ciak Girl J  Zapatillas para Niñas  White/Red C0050  28 EU](http
 
 [![Geox Jr Ciak Girl J  Zapatillas para Niñ](https://images-eu.ssl-images-amazon.com/images/I/41KX211S4OL._SL200_.jpg)](https://www.amazon.es/dp/B07DK2M4YK/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DK2M4YK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [edc by Esprit 097cc1g024 Abrigo  Gris  Dark Grey 020   Small para Mujer](
 
 [![edc by Esprit 097cc1g024 Abrigo  Gris  D](https://images-eu.ssl-images-amazon.com/images/I/41zQ7IrSsGL._SL200_.jpg)](https://www.amazon.es/dp/B0719M2WCB/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0719M2WCB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

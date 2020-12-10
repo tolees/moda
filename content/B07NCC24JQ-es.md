@@ -22,6 +22,9 @@ Está [Pepe Jeans Mable Vaqueros Straight  Azul  Light Used Denim Md0   W31/L30 
 
 [![Pepe Jeans Mable Vaqueros Straight  Azul](https://images-eu.ssl-images-amazon.com/images/I/31Afc69boKL._SL200_.jpg)](https://www.amazon.es/dp/B07NCC24JQ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07NCC24JQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

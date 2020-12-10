@@ -22,6 +22,9 @@ Tienes [Levi s The tee  Camiseta para Mujer  Rojo  Valley Girl PFD Chinese Red 0
 
 [![Levi s The tee  Camiseta para Mujer  Roj](https://images-eu.ssl-images-amazon.com/images/I/41m8XbflLWL._SL200_.jpg)](https://www.amazon.es/dp/B07D2JGYQZ/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07D2JGYQZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

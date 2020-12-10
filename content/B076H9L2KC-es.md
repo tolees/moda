@@ -22,6 +22,9 @@ Tienes [Kipling Bizzy Boo  Bolso Mochila para Mujer  Rosa  City Pink   15x24x45 
 
 [![Kipling Bizzy Boo  Bolso Mochila para Mu](https://images-eu.ssl-images-amazon.com/images/I/41w6ELsIAqL._SL200_.jpg)](https://www.amazon.es/dp/B076H9L2KC/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B076H9L2KC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

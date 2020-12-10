@@ -22,6 +22,9 @@ Tienes [Crocs Crocband Sandal Kids  Sandalias Unisex Niños  Rosa  Carnation/Ame
 
 [![Crocs Crocband Sandal Kids  Sandalias Un](https://images-eu.ssl-images-amazon.com/images/I/41e7NTBE0DL._SL200_.jpg)](https://www.amazon.es/dp/B077GXF4DT/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B077GXF4DT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Clarks Rufus Edge Bl  Zapatos de Cordones Bebés  Negro  Black Leather  
 
 [![Clarks Rufus Edge Bl  Zapatos de Cordone](https://images-eu.ssl-images-amazon.com/images/I/31WsM9MJS5L._SL200_.jpg)](https://www.amazon.es/dp/B07FR8WNTD/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07FR8WNTD/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

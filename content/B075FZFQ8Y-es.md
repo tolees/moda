@@ -22,6 +22,9 @@ Ahora mismo tienes [Clarks Unnature Plain  Zapatos de Cordones Derby para Hombre
 
 [![Clarks Unnature Plain  Zapatos de Cordon](https://images-eu.ssl-images-amazon.com/images/I/41QqHK9rJKL._SL200_.jpg)](https://www.amazon.es/dp/B075FZFQ8Y/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B075FZFQ8Y/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Geox Baby Kilwi Girl  Zapatillas para Bebés  Azul  Avio C4005   21 EU](h
 
 [![Geox Baby Kilwi Girl  Zapatillas para Be](https://images-eu.ssl-images-amazon.com/images/I/415DxXxwFML._SL200_.jpg)](https://www.amazon.es/dp/B07DJVJGHT/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DJVJGHT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

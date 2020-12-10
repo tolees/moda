@@ -22,6 +22,9 @@ Está [BILLABONG Balance Po Jersey  Hombre  Negro  Black 19   Small  Tamaño del
 
 [![BILLABONG Balance Po Jersey  Hombre  Neg](https://images-eu.ssl-images-amazon.com/images/I/41QG2oOnzCL._SL200_.jpg)](https://www.amazon.es/dp/B07F11MZ4C/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07F11MZ4C/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Clarks Unnature Time  Zapatos de Cordones Derby para Hombre  Marrón  Dar
 
 [![Clarks Unnature Time  Zapatos de Cordone](https://images-eu.ssl-images-amazon.com/images/I/41ArK8sxMFL._SL200_.jpg)](https://www.amazon.es/dp/B075PHC4YK/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B075PHC4YK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

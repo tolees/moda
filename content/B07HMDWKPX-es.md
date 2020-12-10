@@ -22,6 +22,9 @@ Está [XAED - Pantalón corto de fitness para mujer  negro/fucsia  mediano ](htt
 
 [![XAED - Pantalón corto de fitness para mu](https://images-eu.ssl-images-amazon.com/images/I/31k-MMa%2B1tL._SL200_.jpg)](https://www.amazon.es/dp/B07HMDWKPX/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07HMDWKPX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

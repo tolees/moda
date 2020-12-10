@@ -22,6 +22,9 @@ Está [Hackett London Brushed TSHAL CHK Camisa   Multi Red 2aa   M para Hombre](
 
 [![Hackett London Brushed TSHAL CHK Camisa ](https://images-eu.ssl-images-amazon.com/images/I/41u90g9R%2BYL._SL200_.jpg)](https://www.amazon.es/dp/B079QG8WN4/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B079QG8WN4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [find. Sudadera con Encaje Mujer  Negro  Black   44  Talla de
 
 [![find. Sudadera con Encaje Mujer  Negro  ](https://images-eu.ssl-images-amazon.com/images/I/41D%2BRQbxHEL._SL200_.jpg)](https://www.amazon.es/dp/B077NJJJ3S/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B077NJJJ3S/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [JACK & JONES Jcooval tee SS Crew Neck Camiseta  Azul  Maritime Blue Fit:R
 
 [![JACK & JONES Jcooval tee SS Crew Neck Ca](https://images-eu.ssl-images-amazon.com/images/I/41rp6RGNwhL._SL200_.jpg)](https://www.amazon.es/dp/B07KZ558XF/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KZ558XF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

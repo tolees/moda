@@ -22,6 +22,9 @@ Está [FIND Suede Zapatos de Cordones Derby  Azul Blue  47 EU](https://www.amazo
 
 [![FIND Suede Zapatos de Cordones Derby  Az](https://images-eu.ssl-images-amazon.com/images/I/31ZqEHyoOJL._SL200_.jpg)](https://www.amazon.es/dp/B07D45BMSX/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07D45BMSX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

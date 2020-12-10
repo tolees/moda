@@ -22,6 +22,9 @@ Tienes [Iris & Lilly Tanga de Tira con Encaje Mujer  Pack de 3  Azul  Cashmere B
 
 [![Iris & Lilly Tanga de Tira con Encaje Mu](https://images-eu.ssl-images-amazon.com/images/I/31mxCyozYdL._SL200_.jpg)](https://www.amazon.es/dp/B07BJFL587/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07BJFL587/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

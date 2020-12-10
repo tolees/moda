@@ -22,6 +22,9 @@ Está [Havaianas Slim  Chanclas para Mujer  Verde  Mint Green/Mint Green   43/44
 
 [![Havaianas Slim  Chanclas para Mujer  Ver](https://images-eu.ssl-images-amazon.com/images/I/41c73KjfAFL._SL200_.jpg)](https://www.amazon.es/dp/B01LESUWZE/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01LESUWZE/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

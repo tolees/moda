@@ -22,6 +22,9 @@ Está [New Look Wool Peacoat - Abrigo Para Hombre  color Azul  Blue   talla Smal
 
 [![New Look Wool Peacoat - Abrigo Para Homb](https://images-eu.ssl-images-amazon.com/images/I/41PBUIl8gsL._SL200_.jpg)](https://www.amazon.es/dp/B01LEYXW6Y/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01LEYXW6Y/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Carrera 5003/ST XT KRW Gafas de sol  Azul  Bluette/Blue Sky 
 
 [![Carrera 5003/ST XT KRW Gafas de sol  Azu](https://images-eu.ssl-images-amazon.com/images/I/31RTCPn4B5L._SL200_.jpg)](https://www.amazon.es/dp/B00ZPAEQ8C/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00ZPAEQ8C/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

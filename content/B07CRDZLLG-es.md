@@ -22,6 +22,9 @@ Está [Pepe Jeans Clifford Camisa   Indigo 561   X-Small para Hombre](https://ww
 
 [![Pepe Jeans Clifford Camisa   Indigo 561 ](https://images-eu.ssl-images-amazon.com/images/I/41xJGTkAL9L._SL200_.jpg)](https://www.amazon.es/dp/B07CRDZLLG/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07CRDZLLG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Puma Basic Boxer Printed Stripe 2P  Bóxer para Niños  Rojo  Ribbon Red 
 
 [![Puma Basic Boxer Printed Stripe 2P  Bóxe](https://images-eu.ssl-images-amazon.com/images/I/51mBy%2B6qpKL._SL200_.jpg)](https://www.amazon.es/dp/B01M1JY2MA/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01M1JY2MA/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Diesel K-aroud Sudadera  Azul  Total Eclipse 81e   Medium para Hombre](ht
 
 [![Diesel K-aroud Sudadera  Azul  Total Ecl](https://images-eu.ssl-images-amazon.com/images/I/31xr9Hn4kbL._SL200_.jpg)](https://www.amazon.es/dp/B07GN1M17T/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07GN1M17T/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

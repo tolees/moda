@@ -22,6 +22,9 @@ Está [ESPRIT Collection 996EO1E900  vestido Mujer  Marrón  DARK BROWN   44  Ta
 
 [![ESPRIT Collection 996EO1E900  vestido Mu](https://images-eu.ssl-images-amazon.com/images/I/41RMmF8NFiL._SL200_.jpg)](https://www.amazon.es/dp/B01I2TO1NW/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01I2TO1NW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

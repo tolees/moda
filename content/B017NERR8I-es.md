@@ -22,6 +22,9 @@ Está [Tom Ford FT5388  Monturas de gafas para Mujer   Negro Lucido   52.0](http
 
 [![Tom Ford FT5388  Monturas de gafas para ](https://images-eu.ssl-images-amazon.com/images/I/31fKspDzeUL._SL200_.jpg)](https://www.amazon.es/dp/B017NERR8I/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B017NERR8I/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

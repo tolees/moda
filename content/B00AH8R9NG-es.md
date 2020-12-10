@@ -22,6 +22,9 @@ Ahora mismo tienes [Tuscany Silver Collar cadena Mujer plata - 8.19.6905](https:
 
 [![Tuscany Silver Collar cadena Mujer plata](https://images-eu.ssl-images-amazon.com/images/I/41HVSiTgPnL._SL200_.jpg)](https://www.amazon.es/dp/B00AH8R9NG/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00AH8R9NG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,11 @@ Tienes [Jack & Jones Jjeorganic Basic tee SS O-Neck Noos Camiseta  Negro  Black 
 
 [![Jack & Jones Jjeorganic Basic tee SS O-N](https://m.media-amazon.com/images/I/31Ww3y9WEvL._SL200_.jpg)](https://www.amazon.es/dp/B07RXQHR8V/?tag=tolees-21)
 
+Características principales:
+
+- Short-sleeved tee with o-neck
+- Cotton fabric for a soft and comfortable wear
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07RXQHR8V/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

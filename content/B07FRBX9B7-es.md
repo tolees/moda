@@ -22,6 +22,9 @@ Ahora mismo tienes [Clarks Batcombe Wing  Zapatos de Cordones Derby para Hombre 
 
 [![Clarks Batcombe Wing  Zapatos de Cordone](https://images-eu.ssl-images-amazon.com/images/I/41MsQ8IDphL._SL200_.jpg)](https://www.amazon.es/dp/B07FRBX9B7/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07FRBX9B7/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

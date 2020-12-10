@@ -22,6 +22,9 @@ Está [Diesel J-coreli Jacket Chaqueta  Negro  Black 900   Small para Hombre](ht
 
 [![Diesel J-coreli Jacket Chaqueta  Negro  ](https://images-eu.ssl-images-amazon.com/images/I/41tbMKXSMRL._SL200_.jpg)](https://www.amazon.es/dp/B07MZGSWBL/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07MZGSWBL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

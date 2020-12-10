@@ -22,6 +22,9 @@ Ahora mismo tienes [Gola Shingle 3  Sandalias Atléticas  Hombre  Beige  Taupe/b
 
 [![Gola Shingle 3  Sandalias Atléticas  Hom](https://images-eu.ssl-images-amazon.com/images/I/41NHI15uOJL._SL200_.jpg)](https://www.amazon.es/dp/B01N34IZV6/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01N34IZV6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Cortefiel C6K Estruc Nat-Strch S-Ca Camisa de Vestir   Blanco 99   Small 
 
 [![Cortefiel C6K Estruc Nat-Strch S-Ca Cami](https://images-eu.ssl-images-amazon.com/images/I/31puX99ZHtL._SL200_.jpg)](https://www.amazon.es/dp/B07KZ6KH12/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KZ6KH12/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

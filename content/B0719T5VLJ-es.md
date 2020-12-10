@@ -22,6 +22,9 @@ Está [Pepa Loves Winter Sweater Grey Jersey  Mujer  Gris  Grey   38  Tamaño de
 
 [![Pepa Loves Winter Sweater Grey Jersey  M](https://images-eu.ssl-images-amazon.com/images/I/519eH62g--L._SL200_.jpg)](https://www.amazon.es/dp/B0719T5VLJ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0719T5VLJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [HIKARO Chaleco de Plumas con Capucha Hombre  Azul  Navy   56  Talla del 
 
 [![HIKARO Chaleco de Plumas con Capucha Hom](https://images-eu.ssl-images-amazon.com/images/I/41aB7E0UtZL._SL200_.jpg)](https://www.amazon.es/dp/B077YDGG4B/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B077YDGG4B/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

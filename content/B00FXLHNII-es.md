@@ -22,6 +22,9 @@ Tienes [JACK & JONES Bolton Dean WH. Pepper Org  Pantalón para Hombre  Beige  W
 
 [![JACK & JONES Bolton Dean WH. Pepper Org ](https://images-eu.ssl-images-amazon.com/images/I/41d%2BnkqUA8L._SL200_.jpg)](https://www.amazon.es/dp/B00FXLHNII/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00FXLHNII/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

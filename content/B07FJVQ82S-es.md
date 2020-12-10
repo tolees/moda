@@ -22,6 +22,9 @@ Ahora mismo tienes [Ipanema Classic Brasil II Kids  Chanclas Unisex niños  Rosa
 
 [![Ipanema Classic Brasil II Kids  Chanclas](https://images-eu.ssl-images-amazon.com/images/I/41n7NnPZYEL._SL200_.jpg)](https://www.amazon.es/dp/B07FJVQ82S/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07FJVQ82S/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

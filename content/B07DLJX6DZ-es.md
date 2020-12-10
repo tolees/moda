@@ -22,6 +22,9 @@ Está [Springfield Pack 3 Tela Beers Bóxer  Hombre  Rojo  Rojo/Raya Diplomat 60
 
 [![Springfield Pack 3 Tela Beers Bóxer  Hom](https://images-eu.ssl-images-amazon.com/images/I/51aqNy7ep6L._SL200_.jpg)](https://www.amazon.es/dp/B07DLJX6DZ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DLJX6DZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Geox J Artach Boy A  Zapatillas para Niños   Coffee/Royal C6483   39 EU
 
 [![Geox J Artach Boy A  Zapatillas para Niñ](https://images-eu.ssl-images-amazon.com/images/I/41u8u8dMS2L._SL200_.jpg)](https://www.amazon.es/dp/B0792KWMLW/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B0792KWMLW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

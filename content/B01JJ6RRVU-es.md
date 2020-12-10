@@ -22,6 +22,9 @@ Está [Timberland Foraker  Botas para Hombre  Marrón  Dark Sudan Brown Saddleba
 
 [![Timberland Foraker  Botas para Hombre  M](https://images-eu.ssl-images-amazon.com/images/I/41pgg%2B2giwL._SL200_.jpg)](https://www.amazon.es/dp/B01JJ6RRVU/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01JJ6RRVU/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

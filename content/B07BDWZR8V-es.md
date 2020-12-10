@@ -22,6 +22,9 @@ Tienes [Agatha Ruiz de la Prada 181946  Botines para Niñas  Gris  181946/B/Amz 
 
 [![Agatha Ruiz de la Prada 181946  Botines ](https://images-eu.ssl-images-amazon.com/images/I/51o4TRxIYsL._SL200_.jpg)](https://www.amazon.es/dp/B07BDWZR8V/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07BDWZR8V/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

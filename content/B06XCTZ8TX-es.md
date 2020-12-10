@@ -22,6 +22,9 @@ Ahora mismo tienes [Cortefiel 7747187  Pantalón para Hombre  Verde Oscuro  ES 4
 
 [![Cortefiel 7747187  Pantalón para Hombre ](https://images-eu.ssl-images-amazon.com/images/I/41Ii4Pgf8UL._SL200_.jpg)](https://www.amazon.es/dp/B06XCTZ8TX/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B06XCTZ8TX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

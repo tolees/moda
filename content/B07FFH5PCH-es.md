@@ -22,6 +22,9 @@ Tienes [Jennyfer 00puna Abrigo  Beige  Camel 39.0   Medium para Mujer](https://w
 
 [![Jennyfer 00puna Abrigo  Beige  Camel 39.](https://images-eu.ssl-images-amazon.com/images/I/41QAVZwZYdL._SL200_.jpg)](https://www.amazon.es/dp/B07FFH5PCH/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07FFH5PCH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

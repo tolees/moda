@@ -22,6 +22,9 @@ Ahora mismo tienes [Pepe Jeans Groot PM505962 Camiseta  Azul  Chatham Blue 586  
 
 [![Pepe Jeans Groot PM505962 Camiseta  Azul](https://images-eu.ssl-images-amazon.com/images/I/4148ITB1%2BsL._SL200_.jpg)](https://www.amazon.es/dp/B079RS1C6B/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B079RS1C6B/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

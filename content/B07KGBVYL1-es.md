@@ -22,6 +22,9 @@ Ahora mismo tienes [BOSS Tephoto Camiseta  Blanco  White 100   Medium para Mujer
 
 [![BOSS Tephoto Camiseta  Blanco  White 100](https://images-eu.ssl-images-amazon.com/images/I/31Fui8FZ5IL._SL200_.jpg)](https://www.amazon.es/dp/B07KGBVYL1/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07KGBVYL1/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

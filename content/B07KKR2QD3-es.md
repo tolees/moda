@@ -22,6 +22,9 @@ Tienes [Naf Naf Kenu21 Camiseta de Manga Larga  Beige  Fadded Nude A A Em   Larg
 
 [![Naf Naf Kenu21 Camiseta de Manga Larga  ](https://images-eu.ssl-images-amazon.com/images/I/41XJzWk1X8L._SL200_.jpg)](https://www.amazon.es/dp/B07KKR2QD3/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07KKR2QD3/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

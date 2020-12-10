@@ -22,6 +22,9 @@ Está [Lacoste Ch4872 Camisa  Rojo  Salvia/Encrier 98v   X-Large  Talla del Fabr
 
 [![Lacoste Ch4872 Camisa  Rojo  Salvia/Encr](https://images-eu.ssl-images-amazon.com/images/I/51w8aEFxdFL._SL200_.jpg)](https://www.amazon.es/dp/B07JDTDTPM/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07JDTDTPM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

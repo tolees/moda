@@ -22,6 +22,10 @@ Está [Superdry Vintage Logo Tri tee Camiseta de Tirantes  Azul  Eclipse Navy 98
 
 [![Superdry Vintage Logo Tri tee Camiseta d](https://m.media-amazon.com/images/I/41HNZ35idrL._SL200_.jpg)](https://www.amazon.es/dp/B07FFN9CQT/?tag=tolees-21)
 
+Principales características:
+
+- Las prendas de Superdry son fabricadas con un adecuado balance entre estilo y confort; recomendamos una talla superior a la que emplea habitualmente para una auténtica experiencia Superdry
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FFN9CQT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

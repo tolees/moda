@@ -22,6 +22,9 @@ Está [Springfield 2Ba Basic Polo  Sudadera para Hombre   Gama Azules 11   Mediu
 
 [![Springfield 2Ba Basic Polo  Sudadera par](https://images-eu.ssl-images-amazon.com/images/I/31VXNVnu51L._SL200_.jpg)](https://www.amazon.es/dp/B07DLCDCVM/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DLCDCVM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

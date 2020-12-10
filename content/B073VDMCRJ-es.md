@@ -22,6 +22,9 @@ Está [PROSTEEL - Collar de Hombre de Acero Inoxidable Cadena Veneciana Cadena d
 
 [![PROSTEEL - Collar de Hombre de Acero Ino](https://images-eu.ssl-images-amazon.com/images/I/41HlW1oj3pL._SL200_.jpg)](https://www.amazon.es/dp/B073VDMCRJ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B073VDMCRJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

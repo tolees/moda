@@ -22,6 +22,9 @@ Está [Roxy Jetty Guantes  Niñas  Azul  Crown Blue_Indie Stripes   M](https://w
 
 [![Roxy Jetty Guantes  Niñas  Azul  Crown B](https://images-eu.ssl-images-amazon.com/images/I/51lTixgoaPL._SL200_.jpg)](https://www.amazon.es/dp/B07DQ81HWJ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DQ81HWJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

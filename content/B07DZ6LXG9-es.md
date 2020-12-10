@@ -22,6 +22,9 @@ Está [Columbia Chaqueta Polar con Media Cremallera para Hombre  Klamath Range I
 
 [![Columbia Chaqueta Polar con Media Cremal](https://images-eu.ssl-images-amazon.com/images/I/41dOFJcPRCL._SL200_.jpg)](https://www.amazon.es/dp/B07DZ6LXG9/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DZ6LXG9/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

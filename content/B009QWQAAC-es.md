@@ -22,6 +22,9 @@ Tienes [Timezone - Vaqueros Straight para Hombre  Talla W30 / L32  ES 40   Color
 
 [![Timezone - Vaqueros Straight para Hombre](https://images-eu.ssl-images-amazon.com/images/I/41TCMORQ-UL._SL200_.jpg)](https://www.amazon.es/dp/B009QWQAAC/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B009QWQAAC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

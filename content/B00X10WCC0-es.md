@@ -22,6 +22,9 @@ Está [Saccess DY1526 - Bolso de hombro de piel sintética mujer  color rojo  re
 
 [![Saccess DY1526 - Bolso de hombro de piel](https://images-eu.ssl-images-amazon.com/images/I/51dnPW685fL._SL200_.jpg)](https://www.amazon.es/dp/B00X10WCC0/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00X10WCC0/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

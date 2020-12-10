@@ -22,6 +22,9 @@ Ahora mismo tienes [KRISP 6607-CORBLK-18  Vestido Corto Patinadora Vuelo Fruncid
 
 [![KRISP 6607-CORBLK-18  Vestido Corto Pati](https://images-eu.ssl-images-amazon.com/images/I/517SRFq1-hL._SL200_.jpg)](https://www.amazon.es/dp/B01N4LBKPL/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01N4LBKPL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

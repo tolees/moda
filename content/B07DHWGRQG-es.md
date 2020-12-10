@@ -22,6 +22,9 @@ Está [Diesel TR  Vaqueros Straight para Hombre  Azul  01 Blue Denim 085aq  W31/
 
 [![Diesel TR  Vaqueros Straight para Hombre](https://images-eu.ssl-images-amazon.com/images/I/31ilrZCpspL._SL200_.jpg)](https://www.amazon.es/dp/B07DHWGRQG/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DHWGRQG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

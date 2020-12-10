@@ -22,6 +22,9 @@ Ahora mismo tienes [Quiksilver Quik Pool Camiseta de Manga Corta  Hombre  Rojo  
 
 [![Quiksilver Quik Pool Camiseta de Manga C](https://images-eu.ssl-images-amazon.com/images/I/41EpcBSwBML._SL200_.jpg)](https://www.amazon.es/dp/B07KJTB4P9/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07KJTB4P9/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

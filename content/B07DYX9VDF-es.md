@@ -22,6 +22,9 @@ Está [Columbia Pantalón de esquí impermeable para hombre  Cushman Crest Pant 
 
 [![Columbia Pantalón de esquí impermeable p](https://images-eu.ssl-images-amazon.com/images/I/31UxmAamByL._SL200_.jpg)](https://www.amazon.es/dp/B07DYX9VDF/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DYX9VDF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

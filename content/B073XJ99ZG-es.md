@@ -22,6 +22,9 @@ Está [Lifewit 7L Bolsa Porta Alimentos para Niños Doble Compartimentos Aislami
 
 [![Lifewit 7L Bolsa Porta Alimentos para Ni](https://images-eu.ssl-images-amazon.com/images/I/51DZKNCHY8L._SL200_.jpg)](https://www.amazon.es/dp/B073XJ99ZG/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B073XJ99ZG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Under Armour UA Qualifier Short Sleeve Camiseta  Mujer  Amarillo High-Vis
 
 [![Under Armour UA Qualifier Short Sleeve C](https://images-eu.ssl-images-amazon.com/images/I/41HnSnQo9BL._SL200_.jpg)](https://www.amazon.es/dp/B07KGXPSZY/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KGXPSZY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

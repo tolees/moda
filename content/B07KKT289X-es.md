@@ -22,6 +22,9 @@ Ahora mismo tienes [HUGO Elisha01 Camisa  Azul  Navy 413   XX-Large  Talla del F
 
 [![HUGO Elisha01 Camisa  Azul  Navy 413   X](https://images-eu.ssl-images-amazon.com/images/I/41cZVjLhOFL._SL200_.jpg)](https://www.amazon.es/dp/B07KKT289X/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07KKT289X/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

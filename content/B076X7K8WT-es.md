@@ -22,6 +22,9 @@ Está [Geox U Mansel A  Zapatilla Baja para Hombre  Azul  Blue   39 EU](https://
 
 [![Geox U Mansel A  Zapatilla Baja para Hom](https://images-eu.ssl-images-amazon.com/images/I/41P6MHiM4GL._SL200_.jpg)](https://www.amazon.es/dp/B076X7K8WT/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B076X7K8WT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

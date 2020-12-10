@@ -22,6 +22,9 @@ Está [HIKARO Camiseta con Botones Hombre  Rojo  Burgundy   54  Talla del fabric
 
 [![HIKARO Camiseta con Botones Hombre  Rojo](https://images-eu.ssl-images-amazon.com/images/I/41mJmK6An1L._SL200_.jpg)](https://www.amazon.es/dp/B077YDZ2WJ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B077YDZ2WJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

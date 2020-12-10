@@ -22,6 +22,9 @@ Ahora mismo tienes [Timberland Rime Ridge  Botas Clasicas para Hombre  Marrón  
 
 [![Timberland Rime Ridge  Botas Clasicas pa](https://images-eu.ssl-images-amazon.com/images/I/416uRUXZMaL._SL200_.jpg)](https://www.amazon.es/dp/B07DGNJY52/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07DGNJY52/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

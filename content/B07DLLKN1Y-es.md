@@ -22,6 +22,9 @@ Ahora mismo tienes [Springfield Abrigo Franq Paño  Negro 1    Tamaño del Fabri
 
 [![Springfield Abrigo Franq Paño  Negro 1  ](https://images-eu.ssl-images-amazon.com/images/I/410C7Tj%2BOTL._SL200_.jpg)](https://www.amazon.es/dp/B07DLLKN1Y/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07DLLKN1Y/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

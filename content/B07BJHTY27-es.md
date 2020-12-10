@@ -22,6 +22,9 @@ Está [G-STAR RAW Lynn Mid-Waist Skinny Vaqueros  Azul  dk Aged 6553-89   24W / 
 
 [![G-STAR RAW Lynn Mid-Waist Skinny Vaquero](https://images-eu.ssl-images-amazon.com/images/I/41IgER6YihL._SL200_.jpg)](https://www.amazon.es/dp/B07BJHTY27/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07BJHTY27/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

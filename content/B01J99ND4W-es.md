@@ -22,6 +22,9 @@ Ahora mismo tienes [Crocs Coast  Zuecos Unisex Adulto  Blanco  White 100b   39/4
 
 [![Crocs Coast  Zuecos Unisex Adulto  Blanc](https://images-eu.ssl-images-amazon.com/images/I/31WF4oqHjvL._SL200_.jpg)](https://www.amazon.es/dp/B01J99ND4W/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01J99ND4W/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

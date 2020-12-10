@@ -22,6 +22,10 @@ Tienes [Clarks Batcombe Hall Derby - Zapatos de Cordones para Hombre  Negro  Bla
 
 [![Clarks Batcombe Hall Derby - Zapatos de ](https://m.media-amazon.com/images/I/41kg3hdp+SL._SL200_.jpg)](https://www.amazon.es/dp/B073GY8DTG/?tag=tolees-21)
 
+Características principales:
+
+- cuero
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B073GY8DTG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

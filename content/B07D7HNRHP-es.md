@@ -22,6 +22,9 @@ Ahora mismo tienes [Dolores Promesas 107343  Falda para Mujer  Azulo   Tamaño d
 
 [![Dolores Promesas 107343  Falda para Muje]()](https://www.amazon.es/dp/B07D7HNRHP/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07D7HNRHP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Lacoste Sj9102  Sudadera para Niñas  Azul  Navy Blue 166  8 años  Talla
 
 [![Lacoste Sj9102  Sudadera para Niñas  Azu](https://images-eu.ssl-images-amazon.com/images/I/31JyuOn9QwL._SL200_.jpg)](https://www.amazon.es/dp/B07DV1BQC8/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DV1BQC8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

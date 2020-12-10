@@ -22,6 +22,9 @@ Está [Wrangler Greensboro Straight Leg 2 Vaqueros  Azul  Light Blue 25N   32W /
 
 [![Wrangler Greensboro Straight Leg 2 Vaque](https://images-eu.ssl-images-amazon.com/images/I/41mN9GsHDxL._SL200_.jpg)](https://www.amazon.es/dp/B07BPBJJV3/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07BPBJJV3/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

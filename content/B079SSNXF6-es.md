@@ -22,6 +22,9 @@ Está [Desigual Denim_Yasmine Vaqueros Skinny    Navy 5000   W31 para Mujer](htt
 
 [![Desigual Denim_Yasmine Vaqueros Skinny  ](https://images-eu.ssl-images-amazon.com/images/I/41gSFGYpRBL._SL200_.jpg)](https://www.amazon.es/dp/B079SSNXF6/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B079SSNXF6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

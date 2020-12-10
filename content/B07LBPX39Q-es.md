@@ -22,6 +22,9 @@ Está [Calvin Klein Low Rise Trunk 3PK Bóxer  Negro  B-Iron Gate/Scooter/Wedgew
 
 [![Calvin Klein Low Rise Trunk 3PK Bóxer  N](https://images-eu.ssl-images-amazon.com/images/I/41m8vMvYtqL._SL200_.jpg)](https://www.amazon.es/dp/B07LBPX39Q/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07LBPX39Q/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

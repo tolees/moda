@@ -22,6 +22,9 @@ Tienes [Lee MARION STRAIGHT ONE WASH - Vaqueros para mujer  Azul  ONE WASH 45   
 
 [![Lee MARION STRAIGHT ONE WASH - Vaqueros ](https://images-eu.ssl-images-amazon.com/images/I/31kCmDvRF1L._SL200_.jpg)](https://www.amazon.es/dp/B00MFRET6M/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00MFRET6M/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

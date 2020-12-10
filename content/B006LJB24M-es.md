@@ -22,6 +22,9 @@ Tienes [Okiedog 24212 Samurai - Bolso para pañales y cambiador  color gris y ne
 
 [![Okiedog 24212 Samurai - Bolso para pañal](https://images-eu.ssl-images-amazon.com/images/I/41Lx390L78L._SL200_.jpg)](https://www.amazon.es/dp/B006LJB24M/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B006LJB24M/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

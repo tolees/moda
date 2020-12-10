@@ -22,6 +22,9 @@ Ahora mismo tienes [Only Onlmaja Calf Skirt Jrs Falda  Champagne Beige  40  Tall
 
 [![Only Onlmaja Calf Skirt Jrs Falda  Champ](https://images-eu.ssl-images-amazon.com/images/I/41WjJJR2mtL._SL200_.jpg)](https://www.amazon.es/dp/B01N34UYWN/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01N34UYWN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Double Agent Melange Stripe T-Shirt Camiseta  820 Gris Vigore Oscuro  S p
 
 [![Double Agent Melange Stripe T-Shirt Cami](https://images-eu.ssl-images-amazon.com/images/I/41FX0d7E93L._SL200_.jpg)](https://www.amazon.es/dp/B01LWVVO0Y/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01LWVVO0Y/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

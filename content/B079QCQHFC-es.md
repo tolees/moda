@@ -22,6 +22,9 @@ Está [Hackett London Light Wash CL Denim NS  Vaqueros Straight para Hombre  Azu
 
 [![Hackett London Light Wash CL Denim NS  V](https://images-eu.ssl-images-amazon.com/images/I/41nzK5RcaNL._SL200_.jpg)](https://www.amazon.es/dp/B079QCQHFC/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B079QCQHFC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

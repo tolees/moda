@@ -22,6 +22,9 @@ Está [Talkabout Bluse 1/1 Arm  Blusa Mujer   Breeze-Late Night-Stripe 8004   36
 
 [![Talkabout Bluse 1/1 Arm  Blusa Mujer   B](https://images-eu.ssl-images-amazon.com/images/I/41kYQ8KqPFL._SL200_.jpg)](https://www.amazon.es/dp/B07FJDGXGR/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FJDGXGR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

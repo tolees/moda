@@ -22,6 +22,9 @@ Tienes [Tamaris - Bimba Shopping Bag  Bolso Mujer  Grau  Graphite Comb.   12x32x
 
 [![Tamaris - Bimba Shopping Bag  Bolso Muje](https://images-eu.ssl-images-amazon.com/images/I/41a1xvIhGqL._SL200_.jpg)](https://www.amazon.es/dp/B07173XJTY/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07173XJTY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

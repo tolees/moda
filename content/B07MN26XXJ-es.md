@@ -22,6 +22,9 @@ Tienes [The North Face S/S Red Box tee Camiseta  Hombre  Storm Blue  L](https://
 
 [![The North Face S/S Red Box tee Camiseta ](https://images-eu.ssl-images-amazon.com/images/I/414%2Bc7xAvsL._SL200_.jpg)](https://www.amazon.es/dp/B07MN26XXJ/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07MN26XXJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

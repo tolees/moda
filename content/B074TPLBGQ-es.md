@@ -22,6 +22,9 @@ Ahora mismo tienes [Schiesser Niñas Eco Surf T-Shirt Rundhals Camiseta Not Appl
 
 [![Schiesser Niñas Eco Surf T-Shirt Rundhal](https://images-eu.ssl-images-amazon.com/images/I/41SWKNWxoWL._SL200_.jpg)](https://www.amazon.es/dp/B074TPLBGQ/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B074TPLBGQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Inside 5SCN71& Camiseta  Mujer  Azul  Azul 22   Medium  Tamaño del Fabr
 
 [![Inside 5SCN71& Camiseta  Mujer  Azul  Az](https://images-eu.ssl-images-amazon.com/images/I/41YstL0eRIL._SL200_.jpg)](https://www.amazon.es/dp/B078WHJXPH/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B078WHJXPH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

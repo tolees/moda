@@ -22,6 +22,9 @@ Tienes [ZAFUL Suéter Mujer de Cuello Alto Sueter Básico Corto Jersey de Punto 
 
 [![ZAFUL Suéter Mujer de Cuello Alto Sueter](https://images-eu.ssl-images-amazon.com/images/I/51NH0wOfMgL._SL200_.jpg)](https://www.amazon.es/dp/B07H296ZQW/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07H296ZQW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

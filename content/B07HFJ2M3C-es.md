@@ -22,6 +22,9 @@ Tienes [Levi s Levis Frankenstein Boxer Brief 2p   Red 072   Small  Pack de 2 pa
 
 [![Levi s Levis Frankenstein Boxer Brief 2p](https://images-eu.ssl-images-amazon.com/images/I/51PGjQoxYML._SL200_.jpg)](https://www.amazon.es/dp/B07HFJ2M3C/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07HFJ2M3C/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [ESPRIT Collection 106EO1E003 - Regular Fit  vestido Mujer  Marrón  Taupe
 
 [![ESPRIT Collection 106EO1E003 - Regular F](https://images-eu.ssl-images-amazon.com/images/I/41bO-Iw-eUL._SL200_.jpg)](https://www.amazon.es/dp/B01LZAV6CL/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01LZAV6CL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

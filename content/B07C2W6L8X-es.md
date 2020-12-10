@@ -22,6 +22,9 @@ Ahora mismo tienes [Desigual Collar Mujer Sin Metal - 18WAGO202000U](https://www
 
 [![Desigual Collar Mujer Sin Metal - 18WAGO](https://images-eu.ssl-images-amazon.com/images/I/41BIcc%2BotFL._SL200_.jpg)](https://www.amazon.es/dp/B07C2W6L8X/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07C2W6L8X/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

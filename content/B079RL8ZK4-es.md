@@ -22,6 +22,9 @@ Está [Camper Peu  Zapatos de Cordones Oxford para Hombre  Mehrfarbig  Multi/Ass
 
 [![Camper Peu  Zapatos de Cordones Oxford p](https://images-eu.ssl-images-amazon.com/images/I/41NXdnSwH4L._SL200_.jpg)](https://www.amazon.es/dp/B079RL8ZK4/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B079RL8ZK4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Lee Western Camisa  Azul  Blue Stance   XX-Large para Hombre](https://www
 
 [![Lee Western Camisa  Azul  Blue Stance   ](https://images-eu.ssl-images-amazon.com/images/I/41uPlYWOTPL._SL200_.jpg)](https://www.amazon.es/dp/B00W7BWZ0I/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00W7BWZ0I/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

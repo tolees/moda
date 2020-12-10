@@ -22,6 +22,9 @@ Está [New Look Wide Foot Alexis  Botines para Mujer  Negro  Black 1   37 EU](ht
 
 [![New Look Wide Foot Alexis  Botines para ](https://images-eu.ssl-images-amazon.com/images/I/31U4to4-5EL._SL200_.jpg)](https://www.amazon.es/dp/B07GZ9L69P/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07GZ9L69P/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

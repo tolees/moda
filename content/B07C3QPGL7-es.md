@@ -22,6 +22,9 @@ Ahora mismo tienes [Pepe Jeans Dexter PM505669 Camiseta  Gris  Concrete 840   Me
 
 [![Pepe Jeans Dexter PM505669 Camiseta  Gri](https://images-eu.ssl-images-amazon.com/images/I/51q30xZv1GL._SL200_.jpg)](https://www.amazon.es/dp/B07C3QPGL7/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07C3QPGL7/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

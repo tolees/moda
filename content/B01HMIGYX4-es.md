@@ -22,6 +22,9 @@ Ahora mismo tienes [The North Face M Quest Insulated Jacket - Chaqueta para homb
 
 [![The North Face M Quest Insulated Jacket ](https://images-eu.ssl-images-amazon.com/images/I/41LL4IFUDCL._SL200_.jpg)](https://www.amazon.es/dp/B01HMIGYX4/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01HMIGYX4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

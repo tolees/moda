@@ -22,6 +22,9 @@ Está [VERO MODA VMSEBASTIN L/S BOMBER D2-1  Chaqueta Mujer  Rojo  Poppy Red   3
 
 [![VERO MODA VMSEBASTIN L/S BOMBER D2-1  Ch](https://images-eu.ssl-images-amazon.com/images/I/41AZGbCuB2L._SL200_.jpg)](https://www.amazon.es/dp/B01M0CEYBS/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01M0CEYBS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

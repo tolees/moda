@@ -22,6 +22,9 @@ Está [Under Armour Kids 191480583463 FC St. Pauli - Camiseta réplica para niñ
 
 [![Under Armour Kids 191480583463 FC St. Pa](https://images-eu.ssl-images-amazon.com/images/I/41GHVDJb4WL._SL200_.jpg)](https://www.amazon.es/dp/B07DPT5N7Q/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DPT5N7Q/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

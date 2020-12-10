@@ -22,6 +22,9 @@ Está [United Colors of Benetton Hombre Heavy Jacket Parka Not Applicable  Azul 
 
 [![United Colors of Benetton Hombre Heavy J](https://images-eu.ssl-images-amazon.com/images/I/41rJOIkjWQL._SL200_.jpg)](https://www.amazon.es/dp/B07KTH5TK1/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KTH5TK1/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

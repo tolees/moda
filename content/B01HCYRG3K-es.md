@@ -22,6 +22,13 @@ Está [JACK & JONES JACLICHFIELD TRUNKS 3 PACK  Bóxer Hombre  Multicolor  Burgu
 
 [![JACK & JONES JACLICHFIELD TRUNKS 3 PACK ](https://m.media-amazon.com/images/I/41QaUfiaRtL._SL200_.jpg)](https://www.amazon.es/dp/B01HCYRG3K/?tag=tolees-21)
 
+Principales características:
+
+- Estiramiento
+- Paquete Triple
+- Pretina Ancha
+- Conjunto De Calzoncillos Boxer
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01HCYRG3K/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

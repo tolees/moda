@@ -22,6 +22,9 @@ Está [JACK & JONES Jorxmaspocket tee SS Crew Neck  Camiseta Hombre   Cloud Danc
 
 [![JACK & JONES Jorxmaspocket tee SS Crew N](https://images-eu.ssl-images-amazon.com/images/I/3105Zd5Ts-L._SL200_.jpg)](https://www.amazon.es/dp/B07FQ92L1D/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FQ92L1D/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

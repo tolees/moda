@@ -22,6 +22,9 @@ Está [G-STAR RAW Korpaz Graphic Hooded Sweater Sudadera  Negro  dk Gold 5618   
 
 [![G-STAR RAW Korpaz Graphic Hooded Sweater](https://images-eu.ssl-images-amazon.com/images/I/41PLx6lqFaL._SL200_.jpg)](https://www.amazon.es/dp/B07M5Z9ZZ7/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07M5Z9ZZ7/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

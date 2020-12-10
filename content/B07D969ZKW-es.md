@@ -22,6 +22,9 @@ Está [XTI 30956  Zapatos de tacón con Punta Cerrada para Mujer  Negro  Black  
 
 [![XTI 30956  Zapatos de tacón con Punta Ce](https://images-eu.ssl-images-amazon.com/images/I/31B1YLHuywL._SL200_.jpg)](https://www.amazon.es/dp/B07D969ZKW/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07D969ZKW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Cartera de Mano para Mujer Bolso de Fiesta Boda Salidas Bols
 
 [![Cartera de Mano para Mujer Bolso de Fies](https://images-eu.ssl-images-amazon.com/images/I/51-u4quxYHL._SL200_.jpg)](https://www.amazon.es/dp/B0756XFN5D/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B0756XFN5D/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Iris & Lilly HOP541 sujetador sin aros  Rosa  Blush   90C  Talla del fab
 
 [![Iris & Lilly HOP541 sujetador sin aros  ](https://images-eu.ssl-images-amazon.com/images/I/41ZIv5innlL._SL200_.jpg)](https://www.amazon.es/dp/B076XY6WY5/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B076XY6WY5/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Diesel 00SHEB  Camiseta para Hombre   Gris 912   Small  Tamaño del Fabri
 
 [![Diesel 00SHEB  Camiseta para Hombre   Gr](https://images-eu.ssl-images-amazon.com/images/I/41f9JIucfRL._SL200_.jpg)](https://www.amazon.es/dp/B07CP1L56F/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07CP1L56F/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

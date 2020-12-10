@@ -22,6 +22,9 @@ Tienes [Love Moschino Heart Logo_Short Sleeve Hooded Fleece Dress Vestido  Gris 
 
 [![Love Moschino Heart Logo_Short Sleeve Ho](https://images-eu.ssl-images-amazon.com/images/I/41b7ekkpcfL._SL200_.jpg)](https://www.amazon.es/dp/B07K2LHGTR/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07K2LHGTR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

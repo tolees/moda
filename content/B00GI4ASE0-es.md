@@ -22,6 +22,9 @@ Está [I-D-C CID Vd-pe10759t Camiseta de Tirantes  Azul  Blue   X-Large para Hom
 
 [![I-D-C CID Vd-pe10759t Camiseta de Tirant](https://images-eu.ssl-images-amazon.com/images/I/41OsDeDvI7L._SL200_.jpg)](https://www.amazon.es/dp/B00GI4ASE0/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00GI4ASE0/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

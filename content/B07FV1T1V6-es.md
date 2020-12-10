@@ -22,6 +22,9 @@ Tienes [Lee Marion Vaqueros Straight  Azul  Rinse 36   W30/L33 para Mujer](https
 
 [![Lee Marion Vaqueros Straight  Azul  Rins](https://images-eu.ssl-images-amazon.com/images/I/317B5udjW8L._SL200_.jpg)](https://www.amazon.es/dp/B07FV1T1V6/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07FV1T1V6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

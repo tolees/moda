@@ -22,6 +22,9 @@ Está [Reef Stuyak II  Sandalias Flip-Flop para Hombre  Negro-Schwarz  Black BLA
 
 [![Reef Stuyak II  Sandalias Flip-Flop para](https://images-eu.ssl-images-amazon.com/images/I/31HNWdobcBL._SL200_.jpg)](https://www.amazon.es/dp/B0179BQ5GA/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0179BQ5GA/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

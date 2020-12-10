@@ -22,6 +22,9 @@ Está [Wolfpack 15017118 Pantalón Trend Corto  Talla 42/44 M ](https://www.amaz
 
 [![Wolfpack 15017118 Pantalón Trend Corto  ](https://images-eu.ssl-images-amazon.com/images/I/41ufCi-Q5aL._SL200_.jpg)](https://www.amazon.es/dp/B01AB33W6O/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01AB33W6O/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

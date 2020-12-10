@@ -22,6 +22,9 @@ Está [Desigual Girl Knit T-Shirt Short Sleeve  TS_Butterfly   Camiseta para Ni�
 
 [![Desigual Girl Knit T-Shirt Short Sleeve ](https://images-eu.ssl-images-amazon.com/images/I/41II7e%2B5R1L._SL200_.jpg)](https://www.amazon.es/dp/B07H7M8FF9/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07H7M8FF9/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

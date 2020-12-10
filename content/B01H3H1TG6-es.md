@@ -22,6 +22,9 @@ Ahora mismo tienes [Petite Mendigote Gaité - Bolso al Hombro de Cuero para Muje
 
 [![Petite Mendigote Gaité - Bolso al Hombro](https://images-eu.ssl-images-amazon.com/images/I/41gYJNNSomL._SL200_.jpg)](https://www.amazon.es/dp/B01H3H1TG6/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01H3H1TG6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Hawiton Pijamas para Mujer Verano Corto Pijama de Algodón Manga Corta  
 
 [![Hawiton Pijamas para Mujer Verano Corto ](https://images-eu.ssl-images-amazon.com/images/I/31cTnECiEwL._SL200_.jpg)](https://www.amazon.es/dp/B07PWX2HVT/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07PWX2HVT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

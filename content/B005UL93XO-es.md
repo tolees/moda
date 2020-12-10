@@ -22,6 +22,9 @@ Ahora mismo tienes [Barts Nylon Mitts  Guantes para Niñas  Negro  schwarz   1](
 
 [![Barts Nylon Mitts  Guantes para Niñas  N](https://images-eu.ssl-images-amazon.com/images/I/41E2ED0OOQL._SL200_.jpg)](https://www.amazon.es/dp/B005UL93XO/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B005UL93XO/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

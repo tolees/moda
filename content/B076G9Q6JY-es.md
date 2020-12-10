@@ -22,6 +22,9 @@ Está [Pepe Jeans Hatch  Vaqueros Slim para Hombre  Azul  Denim Tru Blu Dark CE7
 
 [![Pepe Jeans Hatch  Vaqueros Slim para Hom](https://images-eu.ssl-images-amazon.com/images/I/41tlfRs-sZL._SL200_.jpg)](https://www.amazon.es/dp/B076G9Q6JY/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B076G9Q6JY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

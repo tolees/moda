@@ -22,6 +22,9 @@ Está [Pepe Jeans Gaby L  Sudadera para Mujer    Mousse 808  Small](https://www.
 
 [![Pepe Jeans Gaby L  Sudadera para Mujer  ](https://images-eu.ssl-images-amazon.com/images/I/41CniUGyCAL._SL200_.jpg)](https://www.amazon.es/dp/B07CS9WTHF/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07CS9WTHF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

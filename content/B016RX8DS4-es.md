@@ -22,6 +22,9 @@ Está [Betty & Co T-Shirts  Camiseta Mujer  Blanco  Star White 1004   40](https:
 
 [![Betty & Co T-Shirts  Camiseta Mujer  Bla](https://images-eu.ssl-images-amazon.com/images/I/41e8XhH3vlL._SL200_.jpg)](https://www.amazon.es/dp/B016RX8DS4/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B016RX8DS4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

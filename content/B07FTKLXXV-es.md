@@ -22,6 +22,9 @@ Está [Lee Logo tee  Camiseta para Hombre  Marfil  Bright Red EF   Small](https:
 
 [![Lee Logo tee  Camiseta para Hombre  Marf](https://images-eu.ssl-images-amazon.com/images/I/41p4IFpdqHL._SL200_.jpg)](https://www.amazon.es/dp/B07FTKLXXV/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FTKLXXV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Geox U Nebula a  Zapatillas para Hombre  Azul  Navy C4002   45 EU](https:
 
 [![Geox U Nebula a  Zapatillas para Hombre ](https://images-eu.ssl-images-amazon.com/images/I/41gQdziRuYL._SL200_.jpg)](https://www.amazon.es/dp/B07DJ77W1X/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DJ77W1X/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Emporio Armani Underwear 111210 Bóxer   Antracite/Cielo 04844   Small  P
 
 [![Emporio Armani Underwear 111210 Bóxer   ](https://images-eu.ssl-images-amazon.com/images/I/41fhxbnnXLL._SL200_.jpg)](https://www.amazon.es/dp/B074NDZ71R/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B074NDZ71R/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Jack & JonesGobi - Botines hombre  Azul  Navy Blazer   41](h
 
 [![Jack & JonesGobi - Botines hombre  Azul](https://images-eu.ssl-images-amazon.com/images/I/41Y35yck8wL._SL200_.jpg)](https://www.amazon.es/dp/B01DDY5K5Y/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01DDY5K5Y/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

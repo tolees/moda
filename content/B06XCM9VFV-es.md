@@ -22,6 +22,9 @@ Tienes [Pepe Jeans Saturn Pl201660 Vaqueros Azul  10Oz Str 8Dip Royal Dk D45   2
 
 [![Pepe Jeans Saturn Pl201660 Vaqueros Azul](https://images-eu.ssl-images-amazon.com/images/I/41%2B6EN1fDeL._SL200_.jpg)](https://www.amazon.es/dp/B06XCM9VFV/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B06XCM9VFV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

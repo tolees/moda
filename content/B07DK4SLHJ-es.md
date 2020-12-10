@@ -22,6 +22,9 @@ Ahora mismo tienes [Geox J Flexyper Boy D  Zapatillas para Niños  Gris  Grey/Li
 
 [![Geox J Flexyper Boy D  Zapatillas para N](https://images-eu.ssl-images-amazon.com/images/I/41NaQZ7iW4L._SL200_.jpg)](https://www.amazon.es/dp/B07DK4SLHJ/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07DK4SLHJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

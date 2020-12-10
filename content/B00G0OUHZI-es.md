@@ -22,6 +22,9 @@ Tienes [Calvin Klein Sleek - Bikini para mujer  Negro  BLACK 001   Large](https:
 
 [![Calvin Klein Sleek - Bikini para mujer  ](https://images-eu.ssl-images-amazon.com/images/I/41o19KHuihL._SL200_.jpg)](https://www.amazon.es/dp/B00G0OUHZI/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00G0OUHZI/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

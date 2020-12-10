@@ -22,6 +22,9 @@ Está [Desigual TS_Joana  Camiseta para Niños    Rojo Sangre 3005  104  Talla d
 
 [![Desigual TS_Joana  Camiseta para Niños  ](https://images-eu.ssl-images-amazon.com/images/I/51HNeJG8ntL._SL200_.jpg)](https://www.amazon.es/dp/B079SSPFRF/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B079SSPFRF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

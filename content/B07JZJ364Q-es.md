@@ -22,6 +22,9 @@ Ahora mismo tienes [JACK & JONES Jornico Shirt Org  Camisa para Hombre   Fiery R
 
 [![JACK & JONES Jornico Shirt Org  Camisa p](https://images-eu.ssl-images-amazon.com/images/I/51A-Gf1R5DL._SL200_.jpg)](https://www.amazon.es/dp/B07JZJ364Q/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07JZJ364Q/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

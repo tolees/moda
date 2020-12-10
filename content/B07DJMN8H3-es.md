@@ -22,6 +22,9 @@ Tienes [Only Onlnew Skylar Fur Parka CC Otw Chaqueta  Rojo Scooter  38  Talla de
 
 [![Only Onlnew Skylar Fur Parka CC Otw Chaq](https://images-eu.ssl-images-amazon.com/images/I/41hO83XZIZL._SL200_.jpg)](https://www.amazon.es/dp/B07DJMN8H3/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07DJMN8H3/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

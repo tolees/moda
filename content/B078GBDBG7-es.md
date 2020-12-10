@@ -22,6 +22,9 @@ Está [BOSS Orange24 Barcelona P Vaqueros Straight  Azul  Dark Blue 405   W34/L3
 
 [![BOSS Orange24 Barcelona P Vaqueros Strai](https://images-eu.ssl-images-amazon.com/images/I/41En5AJ2VZL._SL200_.jpg)](https://www.amazon.es/dp/B078GBDBG7/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B078GBDBG7/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

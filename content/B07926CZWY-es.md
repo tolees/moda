@@ -22,6 +22,9 @@ Tienes [Geox D Asheely NP ABX C  Botas Estilo Motero para Mujer   Biscuit C5046 
 
 [![Geox D Asheely NP ABX C  Botas Estilo Mo](https://images-eu.ssl-images-amazon.com/images/I/41a-HVQfGYL._SL200_.jpg)](https://www.amazon.es/dp/B07926CZWY/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07926CZWY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

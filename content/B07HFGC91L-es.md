@@ -22,6 +22,9 @@ Ahora mismo tienes [ONLY NOS onlAVA Faux Leather Biker OTW Noos Chaqueta  Rojo H
 
 [![ONLY NOS onlAVA Faux Leather Biker OTW N](https://images-eu.ssl-images-amazon.com/images/I/41Va5uc%2BHIL._SL200_.jpg)](https://www.amazon.es/dp/B07HFGC91L/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07HFGC91L/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

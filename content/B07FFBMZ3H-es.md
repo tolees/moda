@@ -22,6 +22,9 @@ Está [Quiksilver Brooks Full Zip Chaqueta  Hombre  Negro  Tarmac KTA0   Small  
 
 [![Quiksilver Brooks Full Zip Chaqueta  Hom](https://images-eu.ssl-images-amazon.com/images/I/41ovSrLw0jL._SL200_.jpg)](https://www.amazon.es/dp/B07FFBMZ3H/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FFBMZ3H/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

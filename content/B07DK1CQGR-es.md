@@ -22,6 +22,9 @@ Ahora mismo tienes [Tamaris 23734-21  Zapatos de Cordones Oxford para Mujer  Mar
 
 [![Tamaris 23734-21  Zapatos de Cordones Ox](https://images-eu.ssl-images-amazon.com/images/I/416QFcfM4JL._SL200_.jpg)](https://www.amazon.es/dp/B07DK1CQGR/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07DK1CQGR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

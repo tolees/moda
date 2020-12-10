@@ -22,6 +22,9 @@ Está [Havaianas Top  Chanclas para Unisex Adulto  Blanco  White   49/50 EU  47/
 
 [![Havaianas Top  Chanclas para Unisex Adul](https://images-eu.ssl-images-amazon.com/images/I/41NlhmRCJaL._SL200_.jpg)](https://www.amazon.es/dp/B001OI3MR0/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B001OI3MR0/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

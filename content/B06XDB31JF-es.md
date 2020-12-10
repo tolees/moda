@@ -22,6 +22,9 @@ Está [Gucci gafas de sol GG0064SK AVANA-AVANA-BLUE  55](https://www.amazon.es/d
 
 [![Gucci gafas de sol GG0064SK AVANA-AVANA-](https://images-eu.ssl-images-amazon.com/images/I/314J6ZdA9fL._SL200_.jpg)](https://www.amazon.es/dp/B06XDB31JF/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B06XDB31JF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

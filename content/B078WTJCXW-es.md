@@ -22,6 +22,9 @@ Tienes [Cortefiel Rayas Camisa Casual  Gama Azules 12  Medium  Tamaño del Fabri
 
 [![Cortefiel Rayas Camisa Casual  Gama Azul](https://images-eu.ssl-images-amazon.com/images/I/51C0tJmSKyL._SL200_.jpg)](https://www.amazon.es/dp/B078WTJCXW/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B078WTJCXW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

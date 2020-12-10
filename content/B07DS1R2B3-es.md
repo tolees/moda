@@ -22,6 +22,9 @@ Está [Levi s kids Nm15027  Sudadera Niños  Gris  China Grey 20   8 años  Tall
 
 [![Levi s kids Nm15027  Sudadera Niños  Gri](https://images-eu.ssl-images-amazon.com/images/I/51eGtJYAvcL._SL200_.jpg)](https://www.amazon.es/dp/B07DS1R2B3/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DS1R2B3/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

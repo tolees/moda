@@ -22,6 +22,9 @@ Está [Mujer Bikini Dos Piezas Tiras Traje de baño de Talle Alto Bañador Estam
 
 [![Mujer Bikini Dos Piezas Tiras Traje de b](https://images-eu.ssl-images-amazon.com/images/I/4139KPulhYL._SL200_.jpg)](https://www.amazon.es/dp/B07PPDHJZW/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07PPDHJZW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

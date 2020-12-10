@@ -22,6 +22,9 @@ Está [Columbia Silver Ridge 2.0 Pantalón de Senderismo Nailon  Mujer  Negro  T
 
 [![Columbia Silver Ridge 2.0 Pantalón de Se](https://images-eu.ssl-images-amazon.com/images/I/31gALgFcw4L._SL200_.jpg)](https://www.amazon.es/dp/B07KRWGL66/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KRWGL66/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

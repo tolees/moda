@@ -22,6 +22,9 @@ Tienes [Vero Moda Vmhenna 3/4 Wrap Dress Noos Vestido  Negro  Black Detail: Soli
 
 [![Vero Moda Vmhenna 3/4 Wrap Dress Noos Ve](https://images-eu.ssl-images-amazon.com/images/I/31UhQcN3DKL._SL200_.jpg)](https://www.amazon.es/dp/B077DFHT7T/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B077DFHT7T/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Geox D Kaula D  Mocasines para Mujer   Black C9999   37 EU](
 
 [![Geox D Kaula D  Mocasines para Mujer   B](https://images-eu.ssl-images-amazon.com/images/I/415auV1MaHL._SL200_.jpg)](https://www.amazon.es/dp/B0792FK2HQ/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B0792FK2HQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Lee Slim Western Blusa  Azul  Heather Blue LI   X-Small para
 
 [![Lee Slim Western Blusa  Azul  Heather Bl](https://images-eu.ssl-images-amazon.com/images/I/41qVRVnC4gL._SL200_.jpg)](https://www.amazon.es/dp/B07HH77K5H/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07HH77K5H/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

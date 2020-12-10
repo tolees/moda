@@ -22,6 +22,9 @@ Tienes [Cressi Planet Swim Goggles - Premium Anti Niebla Gafas de Natación Más
 
 [![Cressi Planet Swim Goggles - Premium Ant](https://images-eu.ssl-images-amazon.com/images/I/41R5zbY%2BLcL._SL200_.jpg)](https://www.amazon.es/dp/B007CHAG8A/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B007CHAG8A/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

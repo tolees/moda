@@ -22,6 +22,9 @@ Tienes [find. Camisa de Rayas Mujer  Blanco  White/black Stripe   38  Talla del 
 
 [![find. Camisa de Rayas Mujer  Blanco  Whi](https://images-eu.ssl-images-amazon.com/images/I/51jUUVOcOaL._SL200_.jpg)](https://www.amazon.es/dp/B076S2TFPS/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B076S2TFPS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

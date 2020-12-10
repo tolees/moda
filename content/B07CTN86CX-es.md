@@ -22,6 +22,9 @@ Tienes [Under Armour Jet Mid  Zapatos de Baloncesto para Hombre  Blanco  White/E
 
 [![Under Armour Jet Mid  Zapatos de Balonce](https://images-eu.ssl-images-amazon.com/images/I/41KbAYEnZBL._SL200_.jpg)](https://www.amazon.es/dp/B07CTN86CX/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07CTN86CX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

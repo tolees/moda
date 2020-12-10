@@ -22,6 +22,9 @@ Está [Levi s Barstow Western Camisa  Gris  Wintercress Dark Heather Gray 246   
 
 [![Levi s Barstow Western Camisa  Gris  Win](https://images-eu.ssl-images-amazon.com/images/I/51OtBS5Z%2BUL._SL200_.jpg)](https://www.amazon.es/dp/B073QXMSFJ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B073QXMSFJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

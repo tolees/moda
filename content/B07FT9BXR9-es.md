@@ -22,6 +22,9 @@ Está [Lee Luke  Vaqueros tapered para Hombre  Azul  Clean Summer Ol  W29/L32](h
 
 [![Lee Luke  Vaqueros tapered para Hombre  ](https://images-eu.ssl-images-amazon.com/images/I/41bqKd6mKlL._SL200_.jpg)](https://www.amazon.es/dp/B07FT9BXR9/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FT9BXR9/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

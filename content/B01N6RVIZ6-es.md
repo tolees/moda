@@ -22,6 +22,9 @@ Está [PIECES Pcamy Rmw Skirt Mbld&Black/Noos Falda  Azul Medium Blue Denim  32 
 
 [![PIECES Pcamy Rmw Skirt Mbld&Black/Noos F](https://images-eu.ssl-images-amazon.com/images/I/41l%2BR5QEE8L._SL200_.jpg)](https://www.amazon.es/dp/B01N6RVIZ6/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01N6RVIZ6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Timberland Bradstreet 3 Eyeblack Iris Nubuck  Náuticos Para Hombre  Azul
 
 [![Timberland Bradstreet 3 Eyeblack Iris Nu](https://images-eu.ssl-images-amazon.com/images/I/41dhVRWkRCL._SL200_.jpg)](https://www.amazon.es/dp/B01NGTZ456/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01NGTZ456/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

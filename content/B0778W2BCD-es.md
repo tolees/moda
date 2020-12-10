@@ -22,6 +22,9 @@ Tienes [XTI 30681  Sandalias con Tira a T para Mujer  Negro  Black   39 EU](http
 
 [![XTI 30681  Sandalias con Tira a T para M](https://images-eu.ssl-images-amazon.com/images/I/41OGDnBjkzL._SL200_.jpg)](https://www.amazon.es/dp/B0778W2BCD/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B0778W2BCD/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

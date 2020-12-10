@@ -22,6 +22,9 @@ Tienes [Love Moschino Casual Dresses Vestido  Negro  Black C74   40  Talla del F
 
 [![Love Moschino Casual Dresses Vestido  Ne](https://images-eu.ssl-images-amazon.com/images/I/31YsGum5T6L._SL200_.jpg)](https://www.amazon.es/dp/B07DG8MMRN/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07DG8MMRN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Desigual Fal_PILI  Falda Mujer  Negro  Negro 2000   Small](h
 
 [![Desigual Fal_PILI  Falda Mujer  Negro  N](https://images-eu.ssl-images-amazon.com/images/I/41JQ0wNBkHL._SL200_.jpg)](https://www.amazon.es/dp/B06XKXSZT2/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B06XKXSZT2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

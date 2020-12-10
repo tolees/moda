@@ -22,6 +22,9 @@ Tienes [New Balance 230  Zapatos de Playa y Piscina Unisex Adulto  Rosa  Confett
 
 [![New Balance 230  Zapatos de Playa y Pisc](https://images-eu.ssl-images-amazon.com/images/I/31x0czqvsGL._SL200_.jpg)](https://www.amazon.es/dp/B07DJ2J4H2/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07DJ2J4H2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

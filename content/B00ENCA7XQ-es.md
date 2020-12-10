@@ -22,6 +22,9 @@ Está [Selected - Chaqueta de Traje de Manga 3/4 para Mujer  Color Blanco  Talla
 
 [![Selected - Chaqueta de Traje de Manga 3/](https://images-eu.ssl-images-amazon.com/images/I/310vNUQISNL._SL200_.jpg)](https://www.amazon.es/dp/B00ENCA7XQ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00ENCA7XQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

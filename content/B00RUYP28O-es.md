@@ -22,6 +22,9 @@ Está [The North Face Chaqueta Quest  Hombre  Negro  TNF Black   XS](https://www
 
 [![The North Face Chaqueta Quest  Hombre  N](https://images-eu.ssl-images-amazon.com/images/I/315lq-Le6GL._SL200_.jpg)](https://www.amazon.es/dp/B00RUYP28O/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00RUYP28O/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

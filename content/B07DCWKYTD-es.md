@@ -22,6 +22,9 @@ Está [Tommy Hilfiger 3p Boxer Brief  Rosa  Grey Heather 004   Medium para Hombr
 
 [![Tommy Hilfiger 3p Boxer Brief  Rosa  Gre](https://images-eu.ssl-images-amazon.com/images/I/41m9guGBHbL._SL200_.jpg)](https://www.amazon.es/dp/B07DCWKYTD/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DCWKYTD/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

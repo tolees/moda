@@ -22,6 +22,9 @@ Ahora mismo tienes [Cortefiel 5617642  Blusa para Mujer  Azul  S](https://www.am
 
 [![Cortefiel 5617642  Blusa para Mujer  Azu](https://images-eu.ssl-images-amazon.com/images/I/51wTHOdtchL._SL200_.jpg)](https://www.amazon.es/dp/B06XCZB2HJ/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B06XCZB2HJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

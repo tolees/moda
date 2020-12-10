@@ -22,6 +22,9 @@ Tienes [Armani Exchange Pima Round Neck Camiseta  Blanco  White 1100   Medium pa
 
 [![Armani Exchange Pima Round Neck Camiseta](https://images-eu.ssl-images-amazon.com/images/I/31hEu4p05hL._SL200_.jpg)](https://www.amazon.es/dp/B07JJ21F2N/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07JJ21F2N/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Dolores Promesas Vestido  Blanco  107232 0   Medium  Tamaño
 
 [![Dolores Promesas Vestido  Blanco  107232](https://images-eu.ssl-images-amazon.com/images/I/41qns96s2-L._SL200_.jpg)](https://www.amazon.es/dp/B07D7JXFVK/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07D7JXFVK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

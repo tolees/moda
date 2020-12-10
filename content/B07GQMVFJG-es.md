@@ -22,6 +22,9 @@ Está [Zapatillas Deporte Hombre Zapatos para Correr Athletic Cordones Air Cushi
 
 [![Zapatillas Deporte Hombre Zapatos para C](https://images-eu.ssl-images-amazon.com/images/I/51LErTA-E3L._SL200_.jpg)](https://www.amazon.es/dp/B07GQMVFJG/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07GQMVFJG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

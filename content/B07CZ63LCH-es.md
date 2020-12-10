@@ -22,6 +22,9 @@ Está [G-STAR RAW Midge Worker High Waist Straight Ankle Vaqueros  Azul  Clean d
 
 [![G-STAR RAW Midge Worker High Waist Strai](https://images-eu.ssl-images-amazon.com/images/I/31kPSNqTiqL._SL200_.jpg)](https://www.amazon.es/dp/B07CZ63LCH/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07CZ63LCH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

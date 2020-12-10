@@ -22,6 +22,9 @@ Está [JACK & JONES Jjitim Jjoriginal Am 781 50sps Noos  Vaqueros Slim Hombre  A
 
 [![JACK & JONES Jjitim Jjoriginal Am 781 50](https://images-eu.ssl-images-amazon.com/images/I/41%2BTzeUveML._SL200_.jpg)](https://www.amazon.es/dp/B07FRGMPBP/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FRGMPBP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

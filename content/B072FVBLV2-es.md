@@ -22,6 +22,9 @@ Ahora mismo tienes [Pepaloves Tabata  Vestido Casual para Mujer  Marrón  Fruit 
 
 [![Pepaloves Tabata  Vestido Casual para Mu](https://images-eu.ssl-images-amazon.com/images/I/41LGdfV7GgL._SL200_.jpg)](https://www.amazon.es/dp/B072FVBLV2/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B072FVBLV2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

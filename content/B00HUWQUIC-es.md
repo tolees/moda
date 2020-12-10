@@ -22,6 +22,9 @@ Tienes [Fendi Brillengestelle FF 0011 7SU/17-53-17-135 Monturas de gafas  Blanco
 
 [![Fendi Brillengestelle FF 0011 7SU/17-53-](https://images-eu.ssl-images-amazon.com/images/I/21Wn0TxQ6fL._SL200_.jpg)](https://www.amazon.es/dp/B00HUWQUIC/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00HUWQUIC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Lee Scarlett Vaqueros Skinny  Azul  Solid Blue KT   W30/L33 para Mujer](h
 
 [![Lee Scarlett Vaqueros Skinny  Azul  Soli](https://images-eu.ssl-images-amazon.com/images/I/314Zdze8IpL._SL200_.jpg)](https://www.amazon.es/dp/B01MRCPDVG/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01MRCPDVG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

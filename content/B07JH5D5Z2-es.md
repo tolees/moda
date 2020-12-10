@@ -22,6 +22,9 @@ Está [IRIS & LILLY Sh180457 bañadores  Azul  Harmony Blu   40  Talla del fabri
 
 [![IRIS & LILLY Sh180457 bañadores  Azul  H](https://images-eu.ssl-images-amazon.com/images/I/41s4CAtfgpL._SL200_.jpg)](https://www.amazon.es/dp/B07JH5D5Z2/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07JH5D5Z2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

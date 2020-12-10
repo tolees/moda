@@ -22,6 +22,9 @@ Está [Blend 20704817/70010  Vaqueros Skinny para Hombre  Gris  Phantom Grey   T
 
 [![Blend 20704817/70010  Vaqueros Skinny pa](https://images-eu.ssl-images-amazon.com/images/I/41WMBsdg4fL._SL200_.jpg)](https://www.amazon.es/dp/B074CKL5PQ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B074CKL5PQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

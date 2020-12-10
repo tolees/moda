@@ -22,6 +22,9 @@ Está [FIND Pantalón Vaquero Skinny Hombre  Negro  Black   W30/L30](https://www
 
 [![FIND Pantalón Vaquero Skinny Hombre  Neg](https://images-eu.ssl-images-amazon.com/images/I/415hijJtVYL._SL200_.jpg)](https://www.amazon.es/dp/B0757ZBTL6/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0757ZBTL6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

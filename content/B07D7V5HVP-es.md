@@ -22,6 +22,9 @@ Está [BOSS Casual Weave  Sudadera Hombre  Morado  Open Purple 550   XX-Large](h
 
 [![BOSS Casual Weave  Sudadera Hombre  Mora](https://images-eu.ssl-images-amazon.com/images/I/31y1D9WVHFL._SL200_.jpg)](https://www.amazon.es/dp/B07D7V5HVP/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07D7V5HVP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

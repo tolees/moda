@@ -22,6 +22,9 @@ Tienes [Helly Hansen HH LIFA MAX 1/2 Zip Camiseta Técnica Lana Merino  Hombre  
 
 [![Helly Hansen HH LIFA MAX 1/2 Zip Camiset](https://images-eu.ssl-images-amazon.com/images/I/41zIWZiV6OL._SL200_.jpg)](https://www.amazon.es/dp/B06XHCWDLN/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B06XHCWDLN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

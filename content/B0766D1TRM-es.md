@@ -22,6 +22,9 @@ Ahora mismo tienes [Geox D Vega B  Zapatillas para Mujer  Gris  Light Grey   38 
 
 [![Geox D Vega B  Zapatillas para Mujer  Gr](https://images-eu.ssl-images-amazon.com/images/I/41hk2voSR0L._SL200_.jpg)](https://www.amazon.es/dp/B0766D1TRM/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B0766D1TRM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

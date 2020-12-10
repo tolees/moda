@@ -22,6 +22,9 @@ Está [Geox U Blainey A  Zapatos de Cordones Brogue para Hombre  Navy C4002  43 
 
 [![Geox U Blainey A  Zapatos de Cordones Br](https://images-eu.ssl-images-amazon.com/images/I/31cbYmIM1UL._SL200_.jpg)](https://www.amazon.es/dp/B07DJ9BH69/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DJ9BH69/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

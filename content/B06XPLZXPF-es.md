@@ -22,6 +22,9 @@ Tienes [IRIS & LILLY Top Bikini con Forma de Triángulo para Mujer  Verde  Olive
 
 [![IRIS & LILLY Top Bikini con Forma de Tri](https://images-eu.ssl-images-amazon.com/images/I/41CYU%2BwuL7L._SL200_.jpg)](https://www.amazon.es/dp/B06XPLZXPF/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B06XPLZXPF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

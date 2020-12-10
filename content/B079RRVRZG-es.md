@@ -22,6 +22,9 @@ Está [Pepe Jeans Marisol  Blusa Mujer  Marfil  Candle 806   Medium](https://www
 
 [![Pepe Jeans Marisol  Blusa Mujer  Marfil ](https://images-eu.ssl-images-amazon.com/images/I/31RKhPNP1rL._SL200_.jpg)](https://www.amazon.es/dp/B079RRVRZG/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B079RRVRZG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

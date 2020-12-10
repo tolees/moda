@@ -22,6 +22,9 @@ Está [XTI 55886  Botines para Niñas  Marrón Taupe  33 EU](https://www.amazon.
 
 [![XTI 55886  Botines para Niñas  Marrón Ta](https://images-eu.ssl-images-amazon.com/images/I/41BlyDfs3NL._SL200_.jpg)](https://www.amazon.es/dp/B07D9CNQZK/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07D9CNQZK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

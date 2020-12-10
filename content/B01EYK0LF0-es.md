@@ -22,6 +22,9 @@ Está [Levi s THE MUSCLE TANK  Camiseta Mujer  Blanco  FESTIVAL TANK WHITE   Sma
 
 [![Levi s THE MUSCLE TANK  Camiseta Mujer  ](https://images-eu.ssl-images-amazon.com/images/I/41J3XheZBIL._SL200_.jpg)](https://www.amazon.es/dp/B01EYK0LF0/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01EYK0LF0/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

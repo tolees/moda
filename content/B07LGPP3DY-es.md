@@ -22,6 +22,9 @@ Está [Guess Pandora Top Blusa  Negro  Jet Black A996 JBLK   M para Mujer](https
 
 [![Guess Pandora Top Blusa  Negro  Jet Blac](https://images-eu.ssl-images-amazon.com/images/I/41oNQ3bFLAL._SL200_.jpg)](https://www.amazon.es/dp/B07LGPP3DY/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07LGPP3DY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

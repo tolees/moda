@@ -22,6 +22,9 @@ Ahora mismo tienes [Fendi FF 0191/S O7 DDB  Gafas de Sol para Mujer  Dorado  Gol
 
 [![Fendi FF 0191/S O7 DDB  Gafas de Sol par](https://images-eu.ssl-images-amazon.com/images/I/31IHOGcNLTL._SL200_.jpg)](https://www.amazon.es/dp/B01M4PCQ9A/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01M4PCQ9A/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

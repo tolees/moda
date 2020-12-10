@@ -22,6 +22,9 @@ Está [Timberland Kennebec River  Camiseta para Hombre  Azul  Maritime Blue J38 
 
 [![Timberland Kennebec River  Camiseta para](https://images-eu.ssl-images-amazon.com/images/I/41SYB3vQEVL._SL200_.jpg)](https://www.amazon.es/dp/B079G9KWVZ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B079G9KWVZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

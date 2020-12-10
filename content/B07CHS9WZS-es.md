@@ -22,6 +22,9 @@ Está [BOSS Athleisure tee 1  Camiseta Hombre  Gris  Light/Pastel Grey 059   Med
 
 [![BOSS Athleisure tee 1  Camiseta Hombre  ](https://images-eu.ssl-images-amazon.com/images/I/41H5nGcVA1L._SL200_.jpg)](https://www.amazon.es/dp/B07CHS9WZS/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07CHS9WZS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

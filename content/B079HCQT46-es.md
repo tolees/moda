@@ -22,6 +22,9 @@ Ahora mismo tienes [Tom Tailor 5890101  Botines para Mujer  Turquesa  Ice 00169 
 
 [![Tom Tailor 5890101  Botines para Mujer  ](https://images-eu.ssl-images-amazon.com/images/I/41HtVyt23AL._SL200_.jpg)](https://www.amazon.es/dp/B079HCQT46/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B079HCQT46/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

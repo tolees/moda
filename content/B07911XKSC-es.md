@@ -22,6 +22,9 @@ Tienes [Vero Moda Vmasta Milo SS Suki Dress  Vestido Mujer  Rosa  Zephyr Zephyr 
 
 [![Vero Moda Vmasta Milo SS Suki Dress  Ves](https://images-eu.ssl-images-amazon.com/images/I/31KfXX2UWKL._SL200_.jpg)](https://www.amazon.es/dp/B07911XKSC/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07911XKSC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

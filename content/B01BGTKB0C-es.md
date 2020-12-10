@@ -22,6 +22,9 @@ Está [G-STAR RAW Revend Straight  Vaqueros para Hombre  Azul  Medium Aged   W30
 
 [![G-STAR RAW Revend Straight  Vaqueros par](https://images-eu.ssl-images-amazon.com/images/I/41IHjLA8rCL._SL200_.jpg)](https://www.amazon.es/dp/B01BGTKB0C/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01BGTKB0C/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Nike Nike Ebernon Low Prem Zapatos de Baloncesto Hombre  Gris  Dark Grey/
 
 [![Nike Nike Ebernon Low Prem Zapatos de Ba](https://images-eu.ssl-images-amazon.com/images/I/41SIwwygAGL._SL200_.jpg)](https://www.amazon.es/dp/B00MCJ2SZ2/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00MCJ2SZ2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Lee Mid Skirt  Falda para Mujer  Azul  Simple Focus ZJ  36  Talla del fab
 
 [![Lee Mid Skirt  Falda para Mujer  Azul  S](https://images-eu.ssl-images-amazon.com/images/I/41JscUBF87L._SL200_.jpg)](https://www.amazon.es/dp/B07FYNQLKM/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FYNQLKM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

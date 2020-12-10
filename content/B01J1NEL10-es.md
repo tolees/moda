@@ -22,6 +22,9 @@ Tienes [Wolf & Whistle Bronze and Black Lace Vestido  Negro  ES ES 40  UK 12  pa
 
 [![Wolf & Whistle Bronze and Black Lace Ves](https://images-eu.ssl-images-amazon.com/images/I/41yi1QFnX6L._SL200_.jpg)](https://www.amazon.es/dp/B01J1NEL10/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01J1NEL10/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

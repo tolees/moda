@@ -22,6 +22,9 @@ Tienes [The North Face T92S7FNXD.M - Camiseta para mujer  color Amarillo  Jaune 
 
 [![The North Face T92S7FNXD.M - Camiseta pa](https://images-eu.ssl-images-amazon.com/images/I/41Kx9AABd4L._SL200_.jpg)](https://www.amazon.es/dp/B01ND15OH5/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01ND15OH5/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

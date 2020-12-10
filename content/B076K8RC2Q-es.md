@@ -22,6 +22,9 @@ Ahora mismo tienes [STAR WARS 8 The Last Jedi-Captain Phasma Art Camiseta  Sport
 
 [![STAR WARS 8 The Last Jedi-Captain Phasma](https://images-eu.ssl-images-amazon.com/images/I/51a-kfFZBRL._SL200_.jpg)](https://www.amazon.es/dp/B076K8RC2Q/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B076K8RC2Q/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

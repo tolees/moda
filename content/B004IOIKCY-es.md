@@ -22,6 +22,9 @@ Está [Hatley TSJWIBE245 - Camiseta de Manga Corta para Mujer  Color Rosa  Talla
 
 [![Hatley TSJWIBE245 - Camiseta de Manga Co](https://images-eu.ssl-images-amazon.com/images/I/41q0IlwukfL._SL200_.jpg)](https://www.amazon.es/dp/B004IOIKCY/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B004IOIKCY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

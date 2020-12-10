@@ -22,6 +22,9 @@ Ahora mismo tienes [Pepe Jeans Raury Camiseta  Amarillo  Yellow 043   Medium par
 
 [![Pepe Jeans Raury Camiseta  Amarillo  Yel](https://images-eu.ssl-images-amazon.com/images/I/31qHzw5GhQL._SL200_.jpg)](https://www.amazon.es/dp/B07N9CWC1V/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07N9CWC1V/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

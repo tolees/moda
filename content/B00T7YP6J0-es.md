@@ -22,6 +22,9 @@ Está [adidas Estro 15 JSY - Camiseta para hombre  color azul / blanco  talla 14
 
 [![adidas Estro 15 JSY - Camiseta para homb](https://images-eu.ssl-images-amazon.com/images/I/41jpAegh4PL._SL200_.jpg)](https://www.amazon.es/dp/B00T7YP6J0/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00T7YP6J0/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

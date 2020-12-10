@@ -22,6 +22,9 @@ Tienes [Vero Moda Vmpernille 3/4 Parka  Abrigo Mujer  Verde  Ivy Green Detail:Go
 
 [![Vero Moda Vmpernille 3/4 Parka  Abrigo M](https://images-eu.ssl-images-amazon.com/images/I/41oAzfb3ZQL._SL200_.jpg)](https://www.amazon.es/dp/B076CM5PSS/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B076CM5PSS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

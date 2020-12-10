@@ -22,6 +22,9 @@ Está [Superdry Arctic Hooded Pop Zip Windchea  Chaqueta Deportiva para Mujer  A
 
 [![Superdry Arctic Hooded Pop Zip Windchea ](https://images-eu.ssl-images-amazon.com/images/I/41G0axspNWL._SL200_.jpg)](https://www.amazon.es/dp/B07FLKVLSS/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FLKVLSS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [find. Zapatos de Piel estilo Óxford para Mujer  Rosa  Pink   41 EU](http
 
 [![find. Zapatos de Piel estilo Óxford para](https://images-eu.ssl-images-amazon.com/images/I/31z1OTgeEAL._SL200_.jpg)](https://www.amazon.es/dp/B06X9BJYL4/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B06X9BJYL4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

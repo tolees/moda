@@ -22,6 +22,9 @@ Tienes [G-STAR RAW Drillon R T S/s Camiseta  Azul  Sartho Blue Htr 6370   X-Larg
 
 [![G-STAR RAW Drillon R T S/s Camiseta  Azu](https://images-eu.ssl-images-amazon.com/images/I/41IgRqIrcRL._SL200_.jpg)](https://www.amazon.es/dp/B07713HVXM/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07713HVXM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

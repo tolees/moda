@@ -22,6 +22,9 @@ Ahora mismo tienes [Trucco TT16AQ1  Jersey para Mujer   Blanco Crudo   Medium  T
 
 [![Trucco TT16AQ1  Jersey para Mujer   Blan](https://images-eu.ssl-images-amazon.com/images/I/31yeMhAfrLL._SL200_.jpg)](https://www.amazon.es/dp/B078GNYNT2/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B078GNYNT2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

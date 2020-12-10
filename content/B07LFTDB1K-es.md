@@ -22,6 +22,9 @@ Ahora mismo tienes [Zapatillas de Seguridad Hombres LM-30 Zapatos de Trabajo de 
 
 [![Zapatillas de Seguridad Hombres LM-30 Za](https://images-eu.ssl-images-amazon.com/images/I/51JUX6fUlnL._SL200_.jpg)](https://www.amazon.es/dp/B07LFTDB1K/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07LFTDB1K/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

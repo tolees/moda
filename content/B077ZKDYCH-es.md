@@ -22,6 +22,9 @@ Ahora mismo tienes [edc by Esprit 028cc1e024  Vestido para Mujer  Blanco  Off Wh
 
 [![edc by Esprit 028cc1e024  Vestido para M](https://images-eu.ssl-images-amazon.com/images/I/41GaeHwpOML._SL200_.jpg)](https://www.amazon.es/dp/B077ZKDYCH/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B077ZKDYCH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

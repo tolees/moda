@@ -22,6 +22,9 @@ Está [Columbia Pouring Adventure II - Chaqueta Impermeable  Mujer  Verde  Pond 
 
 [![Columbia Pouring Adventure II - Chaqueta](https://images-eu.ssl-images-amazon.com/images/I/41iUwk%2BJPqL._SL200_.jpg)](https://www.amazon.es/dp/B07KSNPBRM/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KSNPBRM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

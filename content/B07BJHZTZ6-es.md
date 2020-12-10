@@ -22,6 +22,9 @@ Está [G-STAR RAW 3301 Slim  Vaqueros slim Hombre  Azul  Rinsed 082   W35/L28](h
 
 [![G-STAR RAW 3301 Slim  Vaqueros slim Homb](https://images-eu.ssl-images-amazon.com/images/I/416XogKw5-L._SL200_.jpg)](https://www.amazon.es/dp/B07BJHZTZ6/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07BJHZTZ6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

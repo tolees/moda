@@ -22,6 +22,9 @@ Ahora mismo tienes [RIP CURL High Seas Jacket Chaqueta  Mujer  Black  M](https:/
 
 [![RIP CURL High Seas Jacket Chaqueta  Muje](https://images-eu.ssl-images-amazon.com/images/I/51oEP03i1sL._SL200_.jpg)](https://www.amazon.es/dp/B07FQ1HDJQ/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07FQ1HDJQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

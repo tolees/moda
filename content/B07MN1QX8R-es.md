@@ -22,6 +22,9 @@ Está [The North Face Y S/S Easy tee Camiseta  Niños  Black/TNF White  S](https
 
 [![The North Face Y S/S Easy tee Camiseta  ](https://images-eu.ssl-images-amazon.com/images/I/31RgAL-5r6L._SL200_.jpg)](https://www.amazon.es/dp/B07MN1QX8R/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07MN1QX8R/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

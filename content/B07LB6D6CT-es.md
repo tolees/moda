@@ -22,6 +22,9 @@ Está [Love Moschino - Borsa Soft Grain Pu  Bolso de mano Mujer  Negro  Nero   1
 
 [![Love Moschino - Borsa Soft Grain Pu  Bol](https://images-eu.ssl-images-amazon.com/images/I/41hlD6WzjbL._SL200_.jpg)](https://www.amazon.es/dp/B07LB6D6CT/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07LB6D6CT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

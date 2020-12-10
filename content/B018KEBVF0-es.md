@@ -22,6 +22,9 @@ Tienes [NAOKO Vestido At5 Negro/Blanco S](https://www.amazon.es/dp/B018KEBVF0/?t
 
 [![NAOKO Vestido At5 Negro/Blanco S](https://images-eu.ssl-images-amazon.com/images/I/41My0t9BtML._SL200_.jpg)](https://www.amazon.es/dp/B018KEBVF0/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B018KEBVF0/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

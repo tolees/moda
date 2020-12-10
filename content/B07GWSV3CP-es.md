@@ -22,6 +22,9 @@ Está [Levi s Levis 200sf Triple Vintage Stripe Boxer Brief 2p  Bóxer Hombre  A
 
 [![Levi s Levis 200sf Triple Vintage Stripe](https://images-eu.ssl-images-amazon.com/images/I/51ftK0w%2BdxL._SL200_.jpg)](https://www.amazon.es/dp/B07GWSV3CP/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07GWSV3CP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

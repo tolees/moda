@@ -22,6 +22,9 @@ Tienes [New Look Arya Ditsy Blusa  Rosa  Pink Pattern 79   40  Talla del Fabrica
 
 [![New Look Arya Ditsy Blusa  Rosa  Pink Pa](https://images-eu.ssl-images-amazon.com/images/I/41EQKRrv81L._SL200_.jpg)](https://www.amazon.es/dp/B07PMDR8GH/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07PMDR8GH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Desigual Girl Knit Dress Short Sleeve  Vest_wilminton   Vestido Niñas  
 
 [![Desigual Girl Knit Dress Short Sleeve  V](https://images-eu.ssl-images-amazon.com/images/I/518uAuTfCVL._SL200_.jpg)](https://www.amazon.es/dp/B07GZRRWQ5/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07GZRRWQ5/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

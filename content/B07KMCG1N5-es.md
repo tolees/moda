@@ -22,6 +22,9 @@ Está [fawova Classic Gafas de Sol Aviador Hombre Polarizadas  2019 Gafas Sol Po
 
 [![fawova Classic Gafas de Sol Aviador Homb](https://images-eu.ssl-images-amazon.com/images/I/31Hsy0r4dqL._SL200_.jpg)](https://www.amazon.es/dp/B07KMCG1N5/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KMCG1N5/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

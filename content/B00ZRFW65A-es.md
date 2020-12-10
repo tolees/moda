@@ -22,6 +22,9 @@ Ahora mismo tienes [Joma 100157.207 - Camiseta de equipación de Manga Corta par
 
 [![Joma 100157.207 - Camiseta de equipación](https://images-eu.ssl-images-amazon.com/images/I/41eHhk-30SL._SL200_.jpg)](https://www.amazon.es/dp/B00ZRFW65A/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00ZRFW65A/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

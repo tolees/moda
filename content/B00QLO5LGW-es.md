@@ -22,6 +22,9 @@ Ahora mismo tienes [Selected Homme Five Rico 1364 Jeans I  Vaqueros para Hombre 
 
 [![Selected Homme Five Rico 1364 Jeans I  V](https://images-eu.ssl-images-amazon.com/images/I/41cELnqp6OL._SL200_.jpg)](https://www.amazon.es/dp/B00QLO5LGW/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00QLO5LGW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

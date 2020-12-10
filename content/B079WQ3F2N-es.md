@@ -22,6 +22,9 @@ Tienes [adidas Indoor Super  Zapatos de Squash para Hombre  Amarillo  Amatac/Neg
 
 [![adidas Indoor Super  Zapatos de Squash p](https://images-eu.ssl-images-amazon.com/images/I/41-s%2BcovIbL._SL200_.jpg)](https://www.amazon.es/dp/B079WQ3F2N/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B079WQ3F2N/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

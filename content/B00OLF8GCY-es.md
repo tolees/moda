@@ -22,6 +22,9 @@ Ahora mismo tienes [KangaROOS K-Vulca 5054 - zapatilla deportiva de material sin
 
 [![KangaROOS K-Vulca 5054 - zapatilla depor](https://images-eu.ssl-images-amazon.com/images/I/41mreQxQ2oL._SL200_.jpg)](https://www.amazon.es/dp/B00OLF8GCY/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00OLF8GCY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

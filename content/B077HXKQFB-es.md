@@ -22,6 +22,9 @@ Ahora mismo tienes [Granberg 110.0160-S- Guantes de bambú para adultos  talla p
 
 [![Granberg 110.0160-S- Guantes de bambú pa](https://images-eu.ssl-images-amazon.com/images/I/31a1kGQy%2BsL._SL200_.jpg)](https://www.amazon.es/dp/B077HXKQFB/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B077HXKQFB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

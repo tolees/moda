@@ -22,6 +22,9 @@ Está [Naf Naf KENR85AD Vestido  Azul  Bleu Marine 567   34 ES ES para Mujer](ht
 
 [![Naf Naf KENR85AD Vestido  Azul  Bleu Mar](https://images-eu.ssl-images-amazon.com/images/I/31FwQnqy6JL._SL200_.jpg)](https://www.amazon.es/dp/B07LFH69C9/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07LFH69C9/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Fendi FF 0229/S 81 VK6  Gafas de sol para Mujer  Blanco  White/Brown Gre
 
 [![Fendi FF 0229/S 81 VK6  Gafas de sol par](https://images-eu.ssl-images-amazon.com/images/I/31wCaS2UHLL._SL200_.jpg)](https://www.amazon.es/dp/B06Y5N4FLT/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B06Y5N4FLT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

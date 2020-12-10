@@ -22,6 +22,9 @@ Está [Scotch & Soda Regular Fit-Classic All-Over Printed Shirt Camisa   Combo E
 
 [![Scotch & Soda Regular Fit-Classic All-Ov](https://images-eu.ssl-images-amazon.com/images/I/41U%2BOOpnr2L._SL200_.jpg)](https://www.amazon.es/dp/B07H44V4LC/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07H44V4LC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

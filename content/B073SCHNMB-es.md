@@ -22,6 +22,9 @@ Está [FIND Camiseta Bronx para Hombre  Gris  Grey Marl 003   X-Large](https://w
 
 [![FIND Camiseta Bronx para Hombre  Gris  G](https://images-eu.ssl-images-amazon.com/images/I/41OD1hPUbjL._SL200_.jpg)](https://www.amazon.es/dp/B073SCHNMB/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B073SCHNMB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [James & Nicholson Sweatshirt Round Heavy Sudadera  Gris  gre
 
 [![James & Nicholson Sweatshirt Round Heavy](https://images-eu.ssl-images-amazon.com/images/I/516Mqi2b%2BAL._SL200_.jpg)](https://www.amazon.es/dp/B006D5TRKU/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B006D5TRKU/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Geox D New Lucinda A  Botines para Mujer   Black C9999   38 
 
 [![Geox D New Lucinda A  Botines para Mujer](https://images-eu.ssl-images-amazon.com/images/I/416iisboYpL._SL200_.jpg)](https://www.amazon.es/dp/B0792GXBS5/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B0792GXBS5/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

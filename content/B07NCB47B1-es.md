@@ -22,6 +22,9 @@ Está [Pepe Jeans Jayla Vestido  Azul  Blue 551   7 años  Talla del Fabricante:
 
 [![Pepe Jeans Jayla Vestido  Azul  Blue 551](https://images-eu.ssl-images-amazon.com/images/I/4168KEN1fhL._SL200_.jpg)](https://www.amazon.es/dp/B07NCB47B1/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07NCB47B1/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

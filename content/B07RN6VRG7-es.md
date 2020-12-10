@@ -22,6 +22,9 @@ Ahora mismo tienes [Sandalias Mujer Plataformas Verano Planas Cuña 3 CM Tacon B
 
 [![Sandalias Mujer Plataformas Verano Plana](https://images-eu.ssl-images-amazon.com/images/I/41O8wX2IKBL._SL200_.jpg)](https://www.amazon.es/dp/B07RN6VRG7/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07RN6VRG7/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

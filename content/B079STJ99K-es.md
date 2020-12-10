@@ -22,6 +22,9 @@ Está [Desigual TS_Oskar  Camiseta Niños   Gris Vigore Claro 2042 ](https://www
 
 [![Desigual TS_Oskar  Camiseta Niños   Gris](https://images-eu.ssl-images-amazon.com/images/I/51dcvOmla9L._SL200_.jpg)](https://www.amazon.es/dp/B079STJ99K/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B079STJ99K/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

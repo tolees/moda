@@ -22,6 +22,9 @@ Está [Pepe Jeans Pixlette Pg200242 Vaqueros  Negro  8Oz Super Str Blk Jegging V
 
 [![Pepe Jeans Pixlette Pg200242 Vaqueros  N](https://images-eu.ssl-images-amazon.com/images/I/31hSJC9kscL._SL200_.jpg)](https://www.amazon.es/dp/B01CFWQMG6/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01CFWQMG6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

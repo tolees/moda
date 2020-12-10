@@ -22,6 +22,9 @@ Está [Pepe Jeans Aviary  Chaqueta para Hombre  Azul  XX-Large](https://www.amaz
 
 [![Pepe Jeans Aviary  Chaqueta para Hombre ](https://images-eu.ssl-images-amazon.com/images/I/41gooIi97wL._SL200_.jpg)](https://www.amazon.es/dp/B07C3TPT93/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07C3TPT93/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

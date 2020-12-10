@@ -22,6 +22,9 @@ Ahora mismo tienes [Geox Jr Sandal Kyle B  Sandalias Punta Cerrada para Niños  
 
 [![Geox Jr Sandal Kyle B  Sandalias Punta C](https://images-eu.ssl-images-amazon.com/images/I/41jd4jLYpqL._SL200_.jpg)](https://www.amazon.es/dp/B07DK1XR9P/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07DK1XR9P/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

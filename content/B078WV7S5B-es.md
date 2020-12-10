@@ -22,6 +22,9 @@ Tienes [Calvin Klein Trunk 2pk Bóxer   Affection/Ashford Grey Jxg   Large  Pack
 
 [![Calvin Klein Trunk 2pk Bóxer   Affection](https://images-eu.ssl-images-amazon.com/images/I/41CrEGqBZ7L._SL200_.jpg)](https://www.amazon.es/dp/B078WV7S5B/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B078WV7S5B/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

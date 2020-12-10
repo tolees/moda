@@ -22,6 +22,9 @@ Está [Steve Madden Pacers  Botines para Mujer  Azul  Navy 001   36 EU](https://
 
 [![Steve Madden Pacers  Botines para Mujer ](https://images-eu.ssl-images-amazon.com/images/I/41zVxvE%2BTRL._SL200_.jpg)](https://www.amazon.es/dp/B071G3GDJ2/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B071G3GDJ2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Spiuk Trivium Triathlon Zapatilla  Unisex Adulto  Verde/Negro  46](https:
 
 [![Spiuk Trivium Triathlon Zapatilla  Unise](https://images-eu.ssl-images-amazon.com/images/I/41-R-YtlP9L._SL200_.jpg)](https://www.amazon.es/dp/B01ETMCMO6/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01ETMCMO6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

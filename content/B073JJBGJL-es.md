@@ -22,6 +22,9 @@ Está [Cortefiel C7CC Caja Estructura Jersey  Hombre  Azul  Blue   X-Large  Tama
 
 [![Cortefiel C7CC Caja Estructura Jersey  H](https://images-eu.ssl-images-amazon.com/images/I/41ZBGuVDE0L._SL200_.jpg)](https://www.amazon.es/dp/B073JJBGJL/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B073JJBGJL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Springfield 3 Pack Granates Gaviotas Bóxer  Hombre  Rojo  Gama Rojo 68  
 
 [![Springfield 3 Pack Granates Gaviotas Bóx](https://images-eu.ssl-images-amazon.com/images/I/416dD9PmorL._SL200_.jpg)](https://www.amazon.es/dp/B07KZ1T5NB/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KZ1T5NB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

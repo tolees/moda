@@ -22,6 +22,9 @@ Ahora mismo tienes [Pepe Jeans West Sir Camiseta    Vert Woods 671   Medium para
 
 [![Pepe Jeans West Sir Camiseta    Vert Woo](https://images-eu.ssl-images-amazon.com/images/I/41BSSTs%2BF0L._SL200_.jpg)](https://www.amazon.es/dp/B07CRJ7MLB/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07CRJ7MLB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Springfield 8232318  Chaqueta Deportiva para Mujer  Azul  Blue   40](htt
 
 [![Springfield 8232318  Chaqueta Deportiva ](https://images-eu.ssl-images-amazon.com/images/I/41OqUgK9NzL._SL200_.jpg)](https://www.amazon.es/dp/B075SGPN6Y/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B075SGPN6Y/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

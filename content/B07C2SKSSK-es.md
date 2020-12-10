@@ -22,6 +22,9 @@ Tienes [oodji Ultra Hombre Camiseta de Algodón con Estampado  Negro  ES 46-48 /
 
 [![oodji Ultra Hombre Camiseta de Algodón c](https://images-eu.ssl-images-amazon.com/images/I/41nIAG3PwrL._SL200_.jpg)](https://www.amazon.es/dp/B07C2SKSSK/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07C2SKSSK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [New Look Prem Lace  Vestido para Mujer  Red  Dark Red   ES 4
 
 [![New Look Prem Lace  Vestido para Mujer  ](https://images-eu.ssl-images-amazon.com/images/I/41gavAQzSFL._SL200_.jpg)](https://www.amazon.es/dp/B01HZ0CZ7I/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01HZ0CZ7I/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

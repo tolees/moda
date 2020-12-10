@@ -22,6 +22,9 @@ Tienes [Under Armour Rival Fleece Logo Hoodie Sudadera  Hombre  Rojo  Aruba Red/
 
 [![Under Armour Rival Fleece Logo Hoodie Su](https://images-eu.ssl-images-amazon.com/images/I/3143WlWmBRL._SL200_.jpg)](https://www.amazon.es/dp/B07KSJDD8W/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07KSJDD8W/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

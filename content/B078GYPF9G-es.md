@@ -22,6 +22,9 @@ Tienes [Trucco TT16BF1 Jersey  Blanco  Medium  Tamaño del Fabricante:M  para Mu
 
 [![Trucco TT16BF1 Jersey  Blanco  Medium  T](https://images-eu.ssl-images-amazon.com/images/I/31VG2ze7yXL._SL200_.jpg)](https://www.amazon.es/dp/B078GYPF9G/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B078GYPF9G/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

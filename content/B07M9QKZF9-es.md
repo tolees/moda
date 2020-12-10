@@ -22,6 +22,9 @@ Está [G-STAR RAW Swando Graphic T-Shirt Camiseta  Negro  dk Black 6484   X-Larg
 
 [![G-STAR RAW Swando Graphic T-Shirt Camise](https://images-eu.ssl-images-amazon.com/images/I/311DkKKJDML._SL200_.jpg)](https://www.amazon.es/dp/B07M9QKZF9/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07M9QKZF9/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

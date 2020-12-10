@@ -22,6 +22,9 @@ Está [Roxy Tahiti Vi  Zapatos de Playa y Piscina para Mujer   Multi MUL   39 EU
 
 [![Roxy Tahiti Vi  Zapatos de Playa y Pisci](https://images-eu.ssl-images-amazon.com/images/I/51uzt2kUFIL._SL200_.jpg)](https://www.amazon.es/dp/B07DYFN9WX/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DYFN9WX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

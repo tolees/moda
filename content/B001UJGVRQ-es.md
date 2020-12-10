@@ -22,6 +22,9 @@ Está [Calvin Klein Trunk_0000U2662G  Bóxer para Hombre  Multicolor  Grey/White
 
 [![Calvin Klein Trunk_0000U2662G  Bóxer par](https://images-eu.ssl-images-amazon.com/images/I/41d-18sKAhL._SL200_.jpg)](https://www.amazon.es/dp/B001UJGVRQ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B001UJGVRQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Volcom Halfer BSC SS Camiseta  Hombre  Black  XS](https://www.amazon.es/
 
 [![Volcom Halfer BSC SS Camiseta  Hombre  B](https://images-eu.ssl-images-amazon.com/images/I/41a2qM6w32L._SL200_.jpg)](https://www.amazon.es/dp/B07KMVK89S/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07KMVK89S/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

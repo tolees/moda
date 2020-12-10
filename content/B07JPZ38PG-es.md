@@ -22,6 +22,9 @@ Tienes [JACK & JONES Jcojonas tee SS Crew Neck Zal Camiseta  Blanco  White Fit: 
 
 [![JACK & JONES Jcojonas tee SS Crew Neck Z](https://images-eu.ssl-images-amazon.com/images/I/41URxX0LU4L._SL200_.jpg)](https://www.amazon.es/dp/B07JPZ38PG/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07JPZ38PG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Goodthreads Camisa Oxford de Manga Larga Estampado Tartán Standard Fit H
 
 [![Goodthreads Camisa Oxford de Manga Larga](https://images-eu.ssl-images-amazon.com/images/I/51fmdEat2rL._SL200_.jpg)](https://www.amazon.es/dp/B07BKQQDXL/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07BKQQDXL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

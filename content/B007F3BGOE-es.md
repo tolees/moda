@@ -22,6 +22,9 @@ Está [Under Armour Ua Tech Ss Tee  Camiseta De Fitness Hombre  Rojo  Red   XXL]
 
 [![Under Armour Ua Tech Ss Tee  Camiseta De](https://images-eu.ssl-images-amazon.com/images/I/41I2I6vgzML._SL200_.jpg)](https://www.amazon.es/dp/B007F3BGOE/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B007F3BGOE/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

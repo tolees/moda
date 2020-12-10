@@ -22,6 +22,9 @@ Está [The North Face M S/S Flash tee Camiseta  Hombre  Verde  Four Leaf clovr  
 
 [![The North Face M S/S Flash tee Camiseta ](https://images-eu.ssl-images-amazon.com/images/I/418Wc4P78bL._SL200_.jpg)](https://www.amazon.es/dp/B07BB4TW95/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07BB4TW95/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

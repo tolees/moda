@@ -22,6 +22,9 @@ Está [Pepe Jeans 45th 03l Camiseta  Marfil  Off White 803   X-Small para Mujer]
 
 [![Pepe Jeans 45th 03l Camiseta  Marfil  Of](https://images-eu.ssl-images-amazon.com/images/I/410oH-WJJ2L._SL200_.jpg)](https://www.amazon.es/dp/B07NC9VBFW/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07NC9VBFW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [G-STAR RAW 3301 Graft Shirt L/s  Camisa Vaquera Hombre  Azul  Medium Aged
 
 [![G-STAR RAW 3301 Graft Shirt L/s  Camisa ](https://images-eu.ssl-images-amazon.com/images/I/51nGPEor9nL._SL200_.jpg)](https://www.amazon.es/dp/B076VNPDBB/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B076VNPDBB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

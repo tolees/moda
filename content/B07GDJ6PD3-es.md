@@ -22,6 +22,9 @@ Está [Levi s Graphic Set-in Neck  Camiseta para Hombre  Azul  Ssnl Boxtab Norse
 
 [![Levi s Graphic Set-in Neck  Camiseta par](https://images-eu.ssl-images-amazon.com/images/I/41Gp%2BVdbgAL._SL200_.jpg)](https://www.amazon.es/dp/B07GDJ6PD3/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07GDJ6PD3/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

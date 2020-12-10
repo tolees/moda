@@ -22,6 +22,9 @@ Tienes [Pepe Jeans Spike  Vaqueros para Hombre  Negro  Denim Wc2   31W / 32L](ht
 
 [![Pepe Jeans Spike  Vaqueros para Hombre  ](https://images-eu.ssl-images-amazon.com/images/I/41flAHLmk0L._SL200_.jpg)](https://www.amazon.es/dp/B07C47TND3/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07C47TND3/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

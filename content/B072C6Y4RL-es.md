@@ -22,6 +22,9 @@ Está [Ray-Ban 4360 Gafas de sol  Top Havana on Light Brown  54 para Mujer](http
 
 [![Ray-Ban 4360 Gafas de sol  Top Havana on](https://images-eu.ssl-images-amazon.com/images/I/31SYPQZQzrL._SL200_.jpg)](https://www.amazon.es/dp/B072C6Y4RL/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B072C6Y4RL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

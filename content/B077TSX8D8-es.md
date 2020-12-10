@@ -22,6 +22,9 @@ Tienes [Quiksilver Classic Quadro Glide Camiseta  Niños   Gris Claro   M/12](ht
 
 [![Quiksilver Classic Quadro Glide Camiseta](https://images-eu.ssl-images-amazon.com/images/I/41Llok06jWL._SL200_.jpg)](https://www.amazon.es/dp/B077TSX8D8/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B077TSX8D8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

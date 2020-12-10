@@ -22,6 +22,9 @@ Tienes [oodji Ultra Hombre Camiseta Recta con Estampado Urbano  Gris  ES 50 / M]
 
 [![oodji Ultra Hombre Camiseta Recta con Es](https://images-eu.ssl-images-amazon.com/images/I/41hqot8PALL._SL200_.jpg)](https://www.amazon.es/dp/B06Y15CTXR/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B06Y15CTXR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

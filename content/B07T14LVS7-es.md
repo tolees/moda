@@ -22,6 +22,9 @@ Está [Sandalias Mujer Verano 2019 SHOBDW Zapatillas En Oferta Chanclas Mujer Sa
 
 [![Sandalias Mujer Verano 2019 SHOBDW Zapat](https://images-eu.ssl-images-amazon.com/images/I/31QWdH8nmiL._SL200_.jpg)](https://www.amazon.es/dp/B07T14LVS7/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07T14LVS7/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Vero Moda Vmmalena LS Dress Exp Noos  Vestido Mujer  Gris  Light Grey Me
 
 [![Vero Moda Vmmalena LS Dress Exp Noos  Ve](https://images-eu.ssl-images-amazon.com/images/I/31oxuKizmTL._SL200_.jpg)](https://www.amazon.es/dp/B07CFS5CZZ/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07CFS5CZZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

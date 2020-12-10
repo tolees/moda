@@ -22,6 +22,9 @@ Tienes [BILLABONG Essential Crew Jersey  Mujer  Rosa  Nude 4443   X-Small  Tama√
 
 [![BILLABONG Essential Crew Jersey  Mujer  ](https://images-eu.ssl-images-amazon.com/images/I/410zIBO0vrL._SL200_.jpg)](https://www.amazon.es/dp/B07F12R5LG/?tag=tolees-21)
 
+Caracter√≠sticas principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07F12R5LG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Wrangler Short Sleeve Heritage Western Navy  Camisa para Hombre  Azul  B
 
 [![Wrangler Short Sleeve Heritage Western N](https://images-eu.ssl-images-amazon.com/images/I/418JeOXLxKL._SL200_.jpg)](https://www.amazon.es/dp/B01N0DNT44/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01N0DNT44/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

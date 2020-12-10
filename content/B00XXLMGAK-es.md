@@ -22,6 +22,9 @@ Tienes [ICHI Erin IZARO Vaqueros  10001 Black  W27/L32  27  para Mujer](https://
 
 [![ICHI Erin IZARO Vaqueros  10001 Black  W](https://images-eu.ssl-images-amazon.com/images/I/41E0ubOvj7L._SL200_.jpg)](https://www.amazon.es/dp/B00XXLMGAK/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00XXLMGAK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

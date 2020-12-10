@@ -22,6 +22,9 @@ Está [Puma Arsenal FC Fan Cat tee Camiseta  Hombre   Negro/Blanco   XXL](https:
 
 [![Puma Arsenal FC Fan Cat tee Camiseta  Ho](https://images-eu.ssl-images-amazon.com/images/I/41jm3iRqm1L._SL200_.jpg)](https://www.amazon.es/dp/B0784TFQVS/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0784TFQVS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

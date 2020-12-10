@@ -22,6 +22,9 @@ Está [Pepe Jeans Cher High Vaqueros Pitillo Hombre  Azul  Medium Used Denim Wv1
 
 [![Pepe Jeans Cher High Vaqueros Pitillo Ho](https://images-eu.ssl-images-amazon.com/images/I/319LbfVfDHL._SL200_.jpg)](https://www.amazon.es/dp/B07N8WHWB4/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07N8WHWB4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Cortefiel C1Bcc Caz. Bomber Ultrali Chaqueta  Azul Marino 10   Large  Tam
 
 [![Cortefiel C1Bcc Caz. Bomber Ultrali Chaq](https://images-eu.ssl-images-amazon.com/images/I/41TE28ihzUL._SL200_.jpg)](https://www.amazon.es/dp/B07KZ67ZX2/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KZ67ZX2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [The North Face T0A8MU Sudadera  Mujer  Blue Wing Teal/Peyote Beige  M](h
 
 [![The North Face T0A8MU Sudadera  Mujer  B](https://images-eu.ssl-images-amazon.com/images/I/31D-IDjLLvL._SL200_.jpg)](https://www.amazon.es/dp/B07BB5GSWJ/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07BB5GSWJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

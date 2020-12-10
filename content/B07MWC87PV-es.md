@@ -22,6 +22,9 @@ Está [RICOO Banco de Armario Zapatería WM035-BG-A Estanterías con Asientos Ac
 
 [![RICOO Banco de Armario Zapatería WM035-B](https://images-eu.ssl-images-amazon.com/images/I/41rMmGJTRhL._SL200_.jpg)](https://www.amazon.es/dp/B07MWC87PV/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07MWC87PV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

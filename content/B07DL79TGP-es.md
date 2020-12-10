@@ -22,6 +22,9 @@ Ahora mismo tienes [Springfield 5Wo Polo M/L Raya Vertic. Jersey  Hombre  Azul  
 
 [![Springfield 5Wo Polo M/L Raya Vertic. Je](https://images-eu.ssl-images-amazon.com/images/I/41-DMANYghL._SL200_.jpg)](https://www.amazon.es/dp/B07DL79TGP/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07DL79TGP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

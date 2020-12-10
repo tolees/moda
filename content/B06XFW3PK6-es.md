@@ -22,6 +22,9 @@ Tienes [Dr. Martens Corvid S1p  Zapatos de Seguridad Unisex Adulto  Negro  Black
 
 [![Dr. Martens Corvid S1p  Zapatos de Segur](https://images-eu.ssl-images-amazon.com/images/I/41rpFibw9CL._SL200_.jpg)](https://www.amazon.es/dp/B06XFW3PK6/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B06XFW3PK6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

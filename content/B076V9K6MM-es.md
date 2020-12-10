@@ -22,6 +22,9 @@ Está [Alex Perry collares mujer cadena de plata mujer Collar de cristal swarovs
 
 [![Alex Perry collares mujer cadena de plat](https://images-eu.ssl-images-amazon.com/images/I/41XV1RqU1jL._SL200_.jpg)](https://www.amazon.es/dp/B076V9K6MM/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B076V9K6MM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

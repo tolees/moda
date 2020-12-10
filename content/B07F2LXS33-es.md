@@ -22,6 +22,9 @@ Tienes [Helly Hansen Crew Chaqueta  Hombre  Graphite Blue  S](https://www.amazon
 
 [![Helly Hansen Crew Chaqueta  Hombre  Grap](https://images-eu.ssl-images-amazon.com/images/I/41IFZa3VanL._SL200_.jpg)](https://www.amazon.es/dp/B07F2LXS33/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07F2LXS33/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

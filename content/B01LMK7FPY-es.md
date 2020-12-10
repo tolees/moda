@@ -22,6 +22,9 @@ Ahora mismo tienes [Collar de seguridad para perro de Hotdog con luz LED  recarg
 
 [![Collar de seguridad para perro de Hotdog](https://images-eu.ssl-images-amazon.com/images/I/51X8cUmcGDL._SL200_.jpg)](https://www.amazon.es/dp/B01LMK7FPY/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01LMK7FPY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Lee Daren Zip Fly Jeans Vaqueros Rectos  Azul  Light Blue Worn Vp   38W /
 
 [![Lee Daren Zip Fly Jeans Vaqueros Rectos ](https://images-eu.ssl-images-amazon.com/images/I/41SkBWzdh1L._SL200_.jpg)](https://www.amazon.es/dp/B079K9T3PD/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B079K9T3PD/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

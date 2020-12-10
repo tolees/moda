@@ -22,6 +22,9 @@ Ahora mismo tienes [Pepe Jeans West Sir Camiseta  Amarillo  Ochre Yellow 097   S
 
 [![Pepe Jeans West Sir Camiseta  Amarillo  ](https://images-eu.ssl-images-amazon.com/images/I/41q7vljD6JL._SL200_.jpg)](https://www.amazon.es/dp/B07N9CXT1G/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07N9CXT1G/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

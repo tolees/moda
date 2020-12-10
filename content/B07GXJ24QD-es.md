@@ -22,6 +22,9 @@ Está [Blusa de manga larga de moda blusa de la mujer Camisas Sexy Off Tops de h
 
 [![Blusa de manga larga de moda blusa de la]()](https://www.amazon.es/dp/B07GXJ24QD/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07GXJ24QD/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Armani Giorgio 0AR6024 Gafas de sol  Dorado  Gold/Grün   6 Unisex Adulto
 
 [![Armani Giorgio 0AR6024 Gafas de sol  Dor](https://images-eu.ssl-images-amazon.com/images/I/31EGq8E01NL._SL200_.jpg)](https://www.amazon.es/dp/B014VI86QQ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B014VI86QQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

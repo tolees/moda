@@ -22,6 +22,9 @@ Ahora mismo tienes [Pepe Jeans Kingston Zip  Vaqueros Regular para Hombre  Azul 
 
 [![Pepe Jeans Kingston Zip  Vaqueros Regula](https://images-eu.ssl-images-amazon.com/images/I/41d-PI9EM-L._SL200_.jpg)](https://www.amazon.es/dp/B01MQ67DKX/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01MQ67DKX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

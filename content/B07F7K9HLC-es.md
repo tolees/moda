@@ -22,6 +22,9 @@ Ahora mismo tienes [Burton Evergreen Synthetic Hooded Insulator Chaqueta Funcion
 
 [![Burton Evergreen Synthetic Hooded Insula](https://images-eu.ssl-images-amazon.com/images/I/41TX7oICK6L._SL200_.jpg)](https://www.amazon.es/dp/B07F7K9HLC/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07F7K9HLC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Skechers Gambix  Sandalias de Punta Descubierta para Hombre  Negro  Black
 
 [![Skechers Gambix  Sandalias de Punta Desc](https://images-eu.ssl-images-amazon.com/images/I/31LX8pCLCWL._SL200_.jpg)](https://www.amazon.es/dp/B07JWTSVP9/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07JWTSVP9/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

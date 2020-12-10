@@ -22,6 +22,9 @@ Ahora mismo tienes [Geox D Gendry C  Zapatillas para Mujer   Gun/Dk Grey C1g9f  
 
 [![Geox D Gendry C  Zapatillas para Mujer  ](https://images-eu.ssl-images-amazon.com/images/I/41LgwBrO1kL._SL200_.jpg)](https://www.amazon.es/dp/B0792T5HBG/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B0792T5HBG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

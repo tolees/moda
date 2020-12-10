@@ -22,6 +22,9 @@ Está [Napapijri K Rainforest S Op 1 Black Chaqueta  Negro 041  140  Talla del F
 
 [![Napapijri K Rainforest S Op 1 Black Chaq](https://images-eu.ssl-images-amazon.com/images/I/3106iKL1tZL._SL200_.jpg)](https://www.amazon.es/dp/B07L9NYD18/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07L9NYD18/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Mayoral 3444  Chaleco para Niños   Azul 54   4 años  Tama�
 
 [![Mayoral 3444  Chaleco para Niños   Azul ](https://images-eu.ssl-images-amazon.com/images/I/31O9jwTY6IL._SL200_.jpg)](https://www.amazon.es/dp/B07HPS9N1X/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07HPS9N1X/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

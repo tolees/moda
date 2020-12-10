@@ -22,6 +22,9 @@ Está [Burton Gore Underglove Guantes de Snowboard  Hombre  Negro  True   XS](ht
 
 [![Burton Gore Underglove Guantes de Snowbo](https://images-eu.ssl-images-amazon.com/images/I/31ywlgR3pYL._SL200_.jpg)](https://www.amazon.es/dp/B00KAW8LG8/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00KAW8LG8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

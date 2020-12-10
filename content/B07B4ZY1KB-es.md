@@ -22,6 +22,9 @@ Tienes [Puma Platform Slide Bold Wns  Zapatos de Playa y Piscina para Mujer  Bla
 
 [![Puma Platform Slide Bold Wns  Zapatos de](https://images-eu.ssl-images-amazon.com/images/I/31JqWWWdBeL._SL200_.jpg)](https://www.amazon.es/dp/B07B4ZY1KB/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07B4ZY1KB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

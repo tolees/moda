@@ -22,6 +22,9 @@ Ahora mismo tienes [Levi s Barstow Western Camisa   Wildcat Dress Blues 0280   M
 
 [![Levi s Barstow Western Camisa   Wildcat ](https://images-eu.ssl-images-amazon.com/images/I/51PcfX7oBOL._SL200_.jpg)](https://www.amazon.es/dp/B07CHX52RP/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07CHX52RP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

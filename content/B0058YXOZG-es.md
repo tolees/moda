@@ -22,6 +22,9 @@ Está [Columbia Wanderhose Silver Ridge Cargo Pants Pantalón  Hombre  Grill  30
 
 [![Columbia Wanderhose Silver Ridge Cargo P](https://images-eu.ssl-images-amazon.com/images/I/41vjiGGgZML._SL200_.jpg)](https://www.amazon.es/dp/B0058YXOZG/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0058YXOZG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

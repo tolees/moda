@@ -22,6 +22,9 @@ Tienes [AURIQUE Mallas Deportivas con Cordón en la Cintura Mujer  Negro  Black 
 
 [![AURIQUE Mallas Deportivas con Cordón en ](https://images-eu.ssl-images-amazon.com/images/I/312BUaB0SiL._SL200_.jpg)](https://www.amazon.es/dp/B07BLC71GY/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07BLC71GY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

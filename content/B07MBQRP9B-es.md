@@ -22,6 +22,9 @@ Está [New Look Cassie Colourblock6095964  Chaqueta para Mujer  Negro  Black Pat
 
 [![New Look Cassie Colourblock6095964  Chaq](https://images-eu.ssl-images-amazon.com/images/I/41WKWj7nYqL._SL200_.jpg)](https://www.amazon.es/dp/B07MBQRP9B/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07MBQRP9B/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Springfield 6.J.Ap.T.Allover Stars Jersey  Rosa  Gama Rosas/morados 71   
 
 [![Springfield 6.J.Ap.T.Allover Stars Jerse](https://images-eu.ssl-images-amazon.com/images/I/416WanH8V4L._SL200_.jpg)](https://www.amazon.es/dp/B07DLS9PVS/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DLS9PVS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

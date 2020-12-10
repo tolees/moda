@@ -22,6 +22,9 @@ Ahora mismo tienes [DC Shoes Star LS Boy Camiseta de Manga Larga  niños  Azul  
 
 [![DC Shoes Star LS Boy Camiseta de Manga L](https://images-eu.ssl-images-amazon.com/images/I/41P8AQ%2BplkL._SL200_.jpg)](https://www.amazon.es/dp/B0731QGHVF/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B0731QGHVF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

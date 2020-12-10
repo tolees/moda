@@ -22,6 +22,9 @@ Está [Calvin Klein 2pk Trunks Bóxer  Blanco  1 Black/ 1 White 003   110  Talla
 
 [![Calvin Klein 2pk Trunks Bóxer  Blanco  1](https://images-eu.ssl-images-amazon.com/images/I/315x5xWaNIL._SL200_.jpg)](https://www.amazon.es/dp/B07DFL9RCK/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DFL9RCK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

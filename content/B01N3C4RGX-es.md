@@ -22,6 +22,9 @@ Ahora mismo tienes [Intimuse Alima Vestido  Multicolor  Blumen Bedruckt 113   38
 
 [![Intimuse Alima Vestido  Multicolor  Blum](https://images-eu.ssl-images-amazon.com/images/I/51dkyj-6VKL._SL200_.jpg)](https://www.amazon.es/dp/B01N3C4RGX/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01N3C4RGX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [JACK & JONES Jjespace Melange Sweat Zip Hood Noos Sudadera  Negro  Black 
 
 [![JACK & JONES Jjespace Melange Sweat Zip ](https://images-eu.ssl-images-amazon.com/images/I/31YgmSDhZwL._SL200_.jpg)](https://www.amazon.es/dp/B07FQR9SSK/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FQR9SSK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [wergem Moda Femenina Estampado Animal Manga Corta Camiseta básica Top Ve
 
 [![wergem Moda Femenina Estampado Animal Ma](https://images-eu.ssl-images-amazon.com/images/I/41ibPKi6BGL._SL200_.jpg)](https://www.amazon.es/dp/B07RCF49T5/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07RCF49T5/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

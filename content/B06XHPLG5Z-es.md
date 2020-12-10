@@ -22,6 +22,9 @@ Ahora mismo tienes [Geox J Kommodor B  Zapatillas para Niños  Azul  Navy/Lime  
 
 [![Geox J Kommodor B  Zapatillas para Niños](https://images-eu.ssl-images-amazon.com/images/I/418Cx0nZ4QL._SL200_.jpg)](https://www.amazon.es/dp/B06XHPLG5Z/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B06XHPLG5Z/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

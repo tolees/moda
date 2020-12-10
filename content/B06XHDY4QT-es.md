@@ -22,6 +22,9 @@ Está [Helly Hansen W Blume Chaqueta  Mujer   Verde Oscuro   Medium  Tamaño del
 
 [![Helly Hansen W Blume Chaqueta  Mujer   V](https://images-eu.ssl-images-amazon.com/images/I/41TL5plEBXL._SL200_.jpg)](https://www.amazon.es/dp/B06XHDY4QT/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B06XHDY4QT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

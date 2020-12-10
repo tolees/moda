@@ -22,6 +22,9 @@ Está [G-STAR RAW 5622 3D High Waist Boyfriend 7/8-Length Vaqueros  Azul  Medium
 
 [![G-STAR RAW 5622 3D High Waist Boyfriend ](https://images-eu.ssl-images-amazon.com/images/I/41zA0MC4RWL._SL200_.jpg)](https://www.amazon.es/dp/B076VXMKTG/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B076VXMKTG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

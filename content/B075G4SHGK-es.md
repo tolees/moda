@@ -22,6 +22,9 @@ Está [Gipsy by Mauritius Young SF LAWOV  Chaqueta para Hombre  Negro  Black 000
 
 [![Gipsy by Mauritius Young SF LAWOV  Chaqu](https://images-eu.ssl-images-amazon.com/images/I/41BZMJHCpSL._SL200_.jpg)](https://www.amazon.es/dp/B075G4SHGK/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B075G4SHGK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

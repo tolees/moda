@@ -22,6 +22,9 @@ Está [New Look Maternity Parka Abrigo  Verde  Dark Khaki   46  Talla del Fabric
 
 [![New Look Maternity Parka Abrigo  Verde  ](https://images-eu.ssl-images-amazon.com/images/I/41BhY3rQpQL._SL200_.jpg)](https://www.amazon.es/dp/B07GVV8QC1/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07GVV8QC1/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

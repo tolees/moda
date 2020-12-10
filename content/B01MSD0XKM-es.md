@@ -22,6 +22,9 @@ Está [The North Face S/S Red Box tee Camiseta de Manga Corta  Hombre  Gris  TNF
 
 [![The North Face S/S Red Box tee Camiseta ](https://images-eu.ssl-images-amazon.com/images/I/41fDCf%2B-iqL._SL200_.jpg)](https://www.amazon.es/dp/B01MSD0XKM/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01MSD0XKM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

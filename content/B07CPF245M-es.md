@@ -22,6 +22,9 @@ Tienes [Crocs Sanrah Strappy Wedge  Zuecos para Mujer  Blanco  Silver/Pearl Whit
 
 [![Crocs Sanrah Strappy Wedge  Zuecos para ](https://images-eu.ssl-images-amazon.com/images/I/31DO1acdPuL._SL200_.jpg)](https://www.amazon.es/dp/B07CPF245M/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07CPF245M/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Skechers Beverlee-High Tea  Sandalias de Punta Descubierta para Mujer  B
 
 [![Skechers Beverlee-High Tea  Sandalias de](https://images-eu.ssl-images-amazon.com/images/I/411m7AHDqyL._SL200_.jpg)](https://www.amazon.es/dp/B0755WF7ND/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B0755WF7ND/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

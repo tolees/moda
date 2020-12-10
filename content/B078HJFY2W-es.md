@@ -22,6 +22,9 @@ Ahora mismo tienes [Diesel Buster L.32 Vaqueros Straight  Azul 01  W32/L32  Tall
 
 [![Diesel Buster L.32 Vaqueros Straight  Az](https://images-eu.ssl-images-amazon.com/images/I/31oseeSngzL._SL200_.jpg)](https://www.amazon.es/dp/B078HJFY2W/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B078HJFY2W/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

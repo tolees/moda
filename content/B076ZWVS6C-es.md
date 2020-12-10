@@ -22,6 +22,9 @@ Está [G-STAR RAW Cadulor R T S/s Camiseta   White Htr 129   Large para Hombre](
 
 [![G-STAR RAW Cadulor R T S/s Camiseta   Wh](https://images-eu.ssl-images-amazon.com/images/I/41DS41uExtL._SL200_.jpg)](https://www.amazon.es/dp/B076ZWVS6C/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B076ZWVS6C/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

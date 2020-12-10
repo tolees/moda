@@ -22,6 +22,9 @@ Está [BOSS Identity Pants Pantalones de Pijama  Verde  Dark Green 307   Small p
 
 [![BOSS Identity Pants Pantalones de Pijama](https://images-eu.ssl-images-amazon.com/images/I/41HlDXEM4nL._SL200_.jpg)](https://www.amazon.es/dp/B07KGCPBTL/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KGCPBTL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

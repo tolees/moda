@@ -22,6 +22,9 @@ Está [Sandalias Punta Cerrada para Niños Zapatos Niño Niños Casual Verano Sa
 
 [![Sandalias Punta Cerrada para Niños Zapat](https://images-eu.ssl-images-amazon.com/images/I/51Q4KQjNGQL._SL200_.jpg)](https://www.amazon.es/dp/B079BXZCKF/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B079BXZCKF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

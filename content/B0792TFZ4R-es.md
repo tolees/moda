@@ -22,6 +22,9 @@ Está [Geox Jr Gregg B  Zapatillas Altas para Niños   Navy/Yellow C4054   33 EU
 
 [![Geox Jr Gregg B  Zapatillas Altas para N](https://images-eu.ssl-images-amazon.com/images/I/51yFULnyWdL._SL200_.jpg)](https://www.amazon.es/dp/B0792TFZ4R/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0792TFZ4R/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Columbia Powder Lite Chaqueta sin Mangas  Hombre  Negro  Black   L](https
 
 [![Columbia Powder Lite Chaqueta sin Mangas](https://images-eu.ssl-images-amazon.com/images/I/41u4kWzH94L._SL200_.jpg)](https://www.amazon.es/dp/B072R1QZB3/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B072R1QZB3/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

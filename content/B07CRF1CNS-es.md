@@ -22,6 +22,9 @@ Ahora mismo tienes [Pepe Jeans Cindy PG301107 Blusa    Multi Bleu 0aa   9-10  Ta
 
 [![Pepe Jeans Cindy PG301107 Blusa    Multi](https://images-eu.ssl-images-amazon.com/images/I/51vgkYTMmIL._SL200_.jpg)](https://www.amazon.es/dp/B07CRF1CNS/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07CRF1CNS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

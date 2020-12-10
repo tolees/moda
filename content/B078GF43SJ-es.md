@@ -22,6 +22,9 @@ Está [SMILODOX - Sandalias para Hombre  Color Gris  Talla 41 EU](https://www.am
 
 [![SMILODOX - Sandalias para Hombre  Color ](https://images-eu.ssl-images-amazon.com/images/I/41wYyxhC9sL._SL200_.jpg)](https://www.amazon.es/dp/B078GF43SJ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B078GF43SJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [find. Sandalias de Piel Abiertas para Mujer  Negro  Black   
 
 [![find. Sandalias de Piel Abiertas para Mu](https://images-eu.ssl-images-amazon.com/images/I/31XjvkMu62L._SL200_.jpg)](https://www.amazon.es/dp/B06XH3ZC59/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B06XH3ZC59/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

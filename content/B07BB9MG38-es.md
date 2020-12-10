@@ -22,6 +22,9 @@ Tienes [Softline 25461-21  Botines para Mujer  Marrón  Chestnut 328   38 EU](ht
 
 [![Softline 25461-21  Botines para Mujer  M](https://images-eu.ssl-images-amazon.com/images/I/41LD2820euL._SL200_.jpg)](https://www.amazon.es/dp/B07BB9MG38/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07BB9MG38/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

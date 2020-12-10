@@ -22,6 +22,9 @@ Ahora mismo tienes [DC Shoes Defy Youth Chaqueta  Niños  Verde  Chive Leaf Camo
 
 [![DC Shoes Defy Youth Chaqueta  Niños  Ver](https://images-eu.ssl-images-amazon.com/images/I/51i%2BLYTiRwL._SL200_.jpg)](https://www.amazon.es/dp/B07DHT1LVV/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07DHT1LVV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

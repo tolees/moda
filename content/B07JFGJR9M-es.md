@@ -22,6 +22,9 @@ Está [Lacoste Sport Sh3499 Sudadera  Gris  Senecio Chiné/Platine-Noir 6dz   X-
 
 [![Lacoste Sport Sh3499 Sudadera  Gris  Sen](https://images-eu.ssl-images-amazon.com/images/I/416ZOAzE1XL._SL200_.jpg)](https://www.amazon.es/dp/B07JFGJR9M/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07JFGJR9M/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

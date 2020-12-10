@@ -22,6 +22,9 @@ Tienes [Tommy Jeans Mujer Regular Trucker Chaqueta vaquera Manga Larga Denim Azu
 
 [![Tommy Jeans Mujer Regular Trucker Chaque](https://images-eu.ssl-images-amazon.com/images/I/41%2Bct5k3X%2BL._SL200_.jpg)](https://www.amazon.es/dp/B07HH5GP9Y/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07HH5GP9Y/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

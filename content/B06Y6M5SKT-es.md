@@ -22,6 +22,9 @@ Ahora mismo tienes [REPLAY Anbass Pantalones Vaqueros Delgados  Azul  Mid Blue D
 
 [![REPLAY Anbass Pantalones Vaqueros Delgad](https://images-eu.ssl-images-amazon.com/images/I/41NgzhKF3WL._SL200_.jpg)](https://www.amazon.es/dp/B06Y6M5SKT/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B06Y6M5SKT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

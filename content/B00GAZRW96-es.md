@@ -22,6 +22,9 @@ Tienes [Pepe Jeans PM540411 - Vaqueros  con Manga Corta  con Cuello Redondo para
 
 [![Pepe Jeans PM540411 - Vaqueros  con Mang](https://images-eu.ssl-images-amazon.com/images/I/41LDncEv5tL._SL200_.jpg)](https://www.amazon.es/dp/B00GAZRW96/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00GAZRW96/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

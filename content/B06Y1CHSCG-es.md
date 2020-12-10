@@ -22,6 +22,9 @@ Está [Geox D Prestyn B  Zapatos de Vestir para Mujer  Negro  Black   40 EU](htt
 
 [![Geox D Prestyn B  Zapatos de Vestir para](https://images-eu.ssl-images-amazon.com/images/I/4138OIJ43JL._SL200_.jpg)](https://www.amazon.es/dp/B06Y1CHSCG/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B06Y1CHSCG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

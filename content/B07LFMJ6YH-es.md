@@ -22,6 +22,9 @@ Está [Dolores Promesas PV19 2040ROJO Vestido   Rojo 00    Tamaño del Fabricant
 
 [![Dolores Promesas PV19 2040ROJO Vestido  ](https://images-eu.ssl-images-amazon.com/images/I/31FyUpMqRZL._SL200_.jpg)](https://www.amazon.es/dp/B07LFMJ6YH/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07LFMJ6YH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

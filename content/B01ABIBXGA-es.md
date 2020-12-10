@@ -22,6 +22,9 @@ Está [Naf Naf ECRI  Vestido para Mujer  Schwarz  0625 Noir   ES ES 36  DE 34 ](
 
 [![Naf Naf ECRI  Vestido para Mujer  Schwar](https://images-eu.ssl-images-amazon.com/images/I/31z6oer%2BU-L._SL200_.jpg)](https://www.amazon.es/dp/B01ABIBXGA/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01ABIBXGA/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

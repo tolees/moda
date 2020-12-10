@@ -22,6 +22,9 @@ Está [Under Armour AF 1/2 - Camiseta de Manga Corta con Cremallera  Niños  132
 
 [![Under Armour AF 1/2 - Camiseta de Manga ](https://images-eu.ssl-images-amazon.com/images/I/31ydDVKb4iL._SL200_.jpg)](https://www.amazon.es/dp/B079FYVX9F/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B079FYVX9F/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [DKNY 0Dy4675  Monturas de Gafas para Mujer  Negro  Matte Black   53](htt
 
 [![DKNY 0Dy4675  Monturas de Gafas para Muj](https://images-eu.ssl-images-amazon.com/images/I/3123Cn4aHHL._SL200_.jpg)](https://www.amazon.es/dp/B06Y5PTDB4/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B06Y5PTDB4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

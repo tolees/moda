@@ -22,6 +22,9 @@ Está [Geox U Hilstone Wide NP ABX C  Botas Clasicas para Hombre   Black C9999  
 
 [![Geox U Hilstone Wide NP ABX C  Botas Cla](https://images-eu.ssl-images-amazon.com/images/I/31pa3OMwSRL._SL200_.jpg)](https://www.amazon.es/dp/B0792TNMG7/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0792TNMG7/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

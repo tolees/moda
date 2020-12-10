@@ -22,6 +22,9 @@ Tienes [Gant G1. Banker Bow Blouse  Camisa Mujer  Rosa  California Pink   42  Ta
 
 [![Gant G1. Banker Bow Blouse  Camisa Mujer](https://images-eu.ssl-images-amazon.com/images/I/41Pda1jmrHL._SL200_.jpg)](https://www.amazon.es/dp/B07D2Q6CF6/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07D2Q6CF6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

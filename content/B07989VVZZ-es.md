@@ -22,6 +22,9 @@ Tienes [Only Onlmarna 3/4 Kimono Jrs Chaqueta Punto  Marfil  Oatmeal Detail: Mel
 
 [![Only Onlmarna 3/4 Kimono Jrs Chaqueta Pu](https://images-eu.ssl-images-amazon.com/images/I/41XPAYpKQQL._SL200_.jpg)](https://www.amazon.es/dp/B07989VVZZ/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07989VVZZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

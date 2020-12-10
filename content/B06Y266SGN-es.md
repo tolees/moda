@@ -22,6 +22,9 @@ Ahora mismo tienes [Geox J744FA00077  Zapatos de Cordones Unisex Adulto  Gris  F
 
 [![Geox J744FA00077  Zapatos de Cordones Un](https://images-eu.ssl-images-amazon.com/images/I/41tRlyB%2Br7L._SL200_.jpg)](https://www.amazon.es/dp/B06Y266SGN/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B06Y266SGN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

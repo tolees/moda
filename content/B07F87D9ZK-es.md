@@ -22,6 +22,9 @@ Está [Burton Hilltop Chaqueta de Snowboard  Hombre  Azul  Vallarta Blue   S](ht
 
 [![Burton Hilltop Chaqueta de Snowboard  Ho](https://images-eu.ssl-images-amazon.com/images/I/41l4FQoMEZL._SL200_.jpg)](https://www.amazon.es/dp/B07F87D9ZK/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07F87D9ZK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

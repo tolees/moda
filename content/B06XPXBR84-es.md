@@ -22,6 +22,9 @@ Tienes [Desigual Vest_Santorini  Vestido para Mujer   Negro 2000   40](https://w
 
 [![Desigual Vest_Santorini  Vestido para Mu](https://images-eu.ssl-images-amazon.com/images/I/41xyv1JD%2ByL._SL200_.jpg)](https://www.amazon.es/dp/B06XPXBR84/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B06XPXBR84/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

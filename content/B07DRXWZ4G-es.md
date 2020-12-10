@@ -22,6 +22,9 @@ Ahora mismo tienes [Levi s kids Sweat Shirt  Sudadera Niños  Gris  China Grey 2
 
 [![Levi s kids Sweat Shirt  Sudadera Niños ](https://images-eu.ssl-images-amazon.com/images/I/51eGtJYAvcL._SL200_.jpg)](https://www.amazon.es/dp/B07DRXWZ4G/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07DRXWZ4G/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

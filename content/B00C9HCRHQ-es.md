@@ -22,6 +22,9 @@ Tienes [The North Face Light S/S Crew Camiseta Ligera de Manga Corta con Cuello 
 
 [![The North Face Light S/S Crew Camiseta L](https://images-eu.ssl-images-amazon.com/images/I/41kQdNCni7L._SL200_.jpg)](https://www.amazon.es/dp/B00C9HCRHQ/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00C9HCRHQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

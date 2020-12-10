@@ -22,6 +22,9 @@ Está [JACK & JONES Jconile Jacket  Parka para Hombre  Gris Glacier Gray  X-Larg
 
 [![JACK & JONES Jconile Jacket  Parka para ](https://images-eu.ssl-images-amazon.com/images/I/41BDXoOkIsL._SL200_.jpg)](https://www.amazon.es/dp/B07FF9F9VV/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FF9F9VV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

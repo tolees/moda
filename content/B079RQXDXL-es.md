@@ -22,6 +22,9 @@ Está [Pepe Jeans Gala PL303160  Blusa para Mujer   Multi 0Aa   Medium](https://
 
 [![Pepe Jeans Gala PL303160  Blusa para Muj](https://images-eu.ssl-images-amazon.com/images/I/51XAm3QaJFL._SL200_.jpg)](https://www.amazon.es/dp/B079RQXDXL/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B079RQXDXL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

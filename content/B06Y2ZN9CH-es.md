@@ -22,6 +22,9 @@ Ahora mismo tienes [Joma Crew II Chaqueta  Hombre  Marino/Rojo  L](https://www.a
 
 [![Joma Crew II Chaqueta  Hombre  Marino/Ro](https://images-eu.ssl-images-amazon.com/images/I/41G1gqLF5IL._SL200_.jpg)](https://www.amazon.es/dp/B06Y2ZN9CH/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B06Y2ZN9CH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

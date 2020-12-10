@@ -22,6 +22,9 @@ Tienes [Only & Sons Onsloom Grey Jog PK 1444 Noos  Vaqueros Slim Hombre  Gris  G
 
 [![Only & Sons Onsloom Grey Jog PK 1444 Noo](https://images-eu.ssl-images-amazon.com/images/I/41QEqk1MTOL._SL200_.jpg)](https://www.amazon.es/dp/B07DXHTXD2/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07DXHTXD2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

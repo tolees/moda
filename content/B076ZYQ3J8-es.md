@@ -22,6 +22,9 @@ Tienes [SELECTED HOMME Shnslim-Leon 6111 Mid St Jeans STS  Vaqueros Slim para Ho
 
 [![SELECTED HOMME Shnslim-Leon 6111 Mid St ](https://images-eu.ssl-images-amazon.com/images/I/41l7GYpYSBL._SL200_.jpg)](https://www.amazon.es/dp/B076ZYQ3J8/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B076ZYQ3J8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

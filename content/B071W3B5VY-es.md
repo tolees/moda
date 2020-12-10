@@ -22,6 +22,9 @@ Está [Pepa Loves UMA Dress Print Vestido Casual  Mujer   Print   40  Tamaño de
 
 [![Pepa Loves UMA Dress Print Vestido Casua](https://images-eu.ssl-images-amazon.com/images/I/41Mi2Ir9i5L._SL200_.jpg)](https://www.amazon.es/dp/B071W3B5VY/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B071W3B5VY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

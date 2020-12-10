@@ -22,6 +22,9 @@ Está [Mayoral 4430  Sudadera con Capucha para Niños  Blanco  Bruma Vig 75  8 a
 
 [![Mayoral 4430  Sudadera con Capucha para ](https://images-eu.ssl-images-amazon.com/images/I/51ksGfedl7L._SL200_.jpg)](https://www.amazon.es/dp/B07HKP6FRM/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07HKP6FRM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

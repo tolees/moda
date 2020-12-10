@@ -22,6 +22,9 @@ Tienes [Diesel Thommer L.30 Trousers Vaqueros Slim  Azul Blue Denim 01  W29/L30 
 
 [![Diesel Thommer L.30 Trousers Vaqueros Sl](https://images-eu.ssl-images-amazon.com/images/I/41BfDBXglML._SL200_.jpg)](https://www.amazon.es/dp/B07P76F1VK/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07P76F1VK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

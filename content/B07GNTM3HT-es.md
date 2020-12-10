@@ -22,6 +22,9 @@ Está [Skechers On-The-go 600-Flawless  Sandalias de Talón Abierto para Mujer  
 
 [![Skechers On-The-go 600-Flawless  Sandali](https://images-eu.ssl-images-amazon.com/images/I/31LIaB8y3TL._SL200_.jpg)](https://www.amazon.es/dp/B07GNTM3HT/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07GNTM3HT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

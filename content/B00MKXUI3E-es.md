@@ -22,6 +22,9 @@ Tienes [The North Face M Warm L/S Zip Neck - Camiseta para hombre  color negro  
 
 [![The North Face M Warm L/S Zip Neck - Cam](https://images-eu.ssl-images-amazon.com/images/I/41SyVI3b4QL._SL200_.jpg)](https://www.amazon.es/dp/B00MKXUI3E/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00MKXUI3E/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

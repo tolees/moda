@@ -22,6 +22,9 @@ Ahora mismo tienes [Bolso cruzado al pecho de algodón en 40 estampados búho ca
 
 [![Bolso cruzado al pecho de algodón en 40 ](https://images-eu.ssl-images-amazon.com/images/I/51IarsofWyL._SL200_.jpg)](https://www.amazon.es/dp/B01HG06L4A/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01HG06L4A/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

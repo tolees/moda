@@ -22,6 +22,9 @@ Ahora mismo tienes [Timberland Millers River  Polo Hombre  Negro  Black 001   Me
 
 [![Timberland Millers River  Polo Hombre  N](https://images-eu.ssl-images-amazon.com/images/I/417TMGE6oYL._SL200_.jpg)](https://www.amazon.es/dp/B01NBY1EM6/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01NBY1EM6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

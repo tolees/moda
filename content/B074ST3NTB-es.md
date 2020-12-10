@@ -22,6 +22,9 @@ Ahora mismo tienes [Havaianas Unisex adulto TRANCOSO/M VQ 22K 49 Gafas de sol  R
 
 [![Havaianas Unisex adulto TRANCOSO/M VQ 22](https://images-eu.ssl-images-amazon.com/images/I/41z%2BzkQ3c3L._SL200_.jpg)](https://www.amazon.es/dp/B074ST3NTB/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B074ST3NTB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

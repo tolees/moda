@@ -22,6 +22,9 @@ Ahora mismo tienes [Lee Basic Hoodie  sudadera Hombre  Azul  Dipped Blue La   XX
 
 [![Lee Basic Hoodie  sudadera Hombre  Azul ](https://images-eu.ssl-images-amazon.com/images/I/41ghjLU08RL._SL200_.jpg)](https://www.amazon.es/dp/B07FTSFC1L/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07FTSFC1L/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

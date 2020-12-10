@@ -22,6 +22,9 @@ Tienes [JACK & JONES PREMIUM Jprblackpool Shirt L/s Au18 STS  Camisa para Hombre
 
 [![JACK & JONES PREMIUM Jprblackpool Shirt ](https://images-eu.ssl-images-amazon.com/images/I/51c09l%2BBi3L._SL200_.jpg)](https://www.amazon.es/dp/B07CGF5HH9/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07CGF5HH9/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

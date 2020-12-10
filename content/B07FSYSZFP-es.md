@@ -22,6 +22,9 @@ Está [Clarks Un Karely Sun  Chanclas para Mujer  Gris  Sage Nubuck-   41.5 EU](
 
 [![Clarks Un Karely Sun  Chanclas para Muje](https://images-eu.ssl-images-amazon.com/images/I/31FbbkRRybL._SL200_.jpg)](https://www.amazon.es/dp/B07FSYSZFP/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FSYSZFP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

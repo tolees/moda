@@ -22,6 +22,9 @@ Tienes [Jimmy Choo Lash/S  Gafas de Sol para Mujer  Multicolor  Gdbk Mtlzed   53
 
 [![Jimmy Choo Lash/S  Gafas de Sol para Muj](https://images-eu.ssl-images-amazon.com/images/I/41GuoP17VaL._SL200_.jpg)](https://www.amazon.es/dp/B01M32MVTV/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01M32MVTV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

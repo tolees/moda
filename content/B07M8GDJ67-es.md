@@ -22,6 +22,9 @@ Está [Cubre zapatos de bicicleta  Vaxiuja Cubrezapatos Térmico Impermeable A P
 
 [![Cubre zapatos de bicicleta  Vaxiuja Cubr](https://images-eu.ssl-images-amazon.com/images/I/415F3TOm-FL._SL200_.jpg)](https://www.amazon.es/dp/B07M8GDJ67/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07M8GDJ67/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

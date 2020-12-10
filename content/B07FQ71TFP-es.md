@@ -22,6 +22,9 @@ Tienes [JACK & JONES Jacmix Solid Trunks Noos Bóxer  Rojo Rosewood  Medium para
 
 [![JACK & JONES Jacmix Solid Trunks Noos Bó](https://images-eu.ssl-images-amazon.com/images/I/41m%2BaLrWHOL._SL200_.jpg)](https://www.amazon.es/dp/B07FQ71TFP/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07FQ71TFP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

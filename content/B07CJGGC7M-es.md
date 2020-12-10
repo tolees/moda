@@ -22,6 +22,9 @@ Ahora mismo tienes [REPLAY Rob  Vaqueros Relaxed para Hombre  Azul  Mid Blue Den
 
 [![REPLAY Rob  Vaqueros Relaxed para Hombre](https://images-eu.ssl-images-amazon.com/images/I/41C2HShZK8L._SL200_.jpg)](https://www.amazon.es/dp/B07CJGGC7M/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07CJGGC7M/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

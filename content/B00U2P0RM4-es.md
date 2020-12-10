@@ -22,6 +22,9 @@ Tienes [KRISP 6610-CORBLK-16  Vestido Corto Patinadora Vuelo Fruncido Busto  Cor
 
 [![KRISP 6610-CORBLK-16  Vestido Corto Pati](https://images-eu.ssl-images-amazon.com/images/I/41KHgz-tpCL._SL200_.jpg)](https://www.amazon.es/dp/B00U2P0RM4/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00U2P0RM4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Wrangler SS Graphic tee Camiseta  Azul  Navy Q35   Medium para Hombre](ht
 
 [![Wrangler SS Graphic tee Camiseta  Azul  ](https://images-eu.ssl-images-amazon.com/images/I/41Q7aruBS%2BL._SL200_.jpg)](https://www.amazon.es/dp/B07FYKWSGN/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FYKWSGN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

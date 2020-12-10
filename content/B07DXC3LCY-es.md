@@ -22,6 +22,9 @@ Está [3 Pommes tee-Shirt  Camiseta Niñas  Azul  Navy Blue 49   3-4 años  Tall
 
 [![3 Pommes tee-Shirt  Camiseta Niñas  Azul](https://images-eu.ssl-images-amazon.com/images/I/411ArhCRe8L._SL200_.jpg)](https://www.amazon.es/dp/B07DXC3LCY/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DXC3LCY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

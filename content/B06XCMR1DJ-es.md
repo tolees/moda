@@ -22,6 +22,9 @@ Está [Pepe Jeans Pixlette  Vaqueros para Niñas  Azul  10Oz Dual Core Indigo T4
 
 [![Pepe Jeans Pixlette  Vaqueros para Niñas](https://images-eu.ssl-images-amazon.com/images/I/412q-ydDDGL._SL200_.jpg)](https://www.amazon.es/dp/B06XCMR1DJ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B06XCMR1DJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

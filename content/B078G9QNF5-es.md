@@ -22,6 +22,9 @@ Ahora mismo tienes [BOSS Trunk 3p Co/el  Bóxer Hombre  Multicolor  Open Miscell
 
 [![BOSS Trunk 3p Co/el  Bóxer Hombre  Multi](https://images-eu.ssl-images-amazon.com/images/I/51pvofeKBvL._SL200_.jpg)](https://www.amazon.es/dp/B078G9QNF5/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B078G9QNF5/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

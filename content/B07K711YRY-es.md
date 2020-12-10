@@ -22,6 +22,9 @@ Está [Levi s 501 Original Fit Vaqueros  Azul  Snoot 2744   W32/L34 para Hombre]
 
 [![Levi s 501 Original Fit Vaqueros  Azul  ](https://images-eu.ssl-images-amazon.com/images/I/41prtsJ61sL._SL200_.jpg)](https://www.amazon.es/dp/B07K711YRY/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07K711YRY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

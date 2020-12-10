@@ -22,6 +22,9 @@ Tienes [Vero Moda Vmhappy LS V-Neck Blouse Boo  suéter Mujer  Rosa  Azalea Pink
 
 [![Vero Moda Vmhappy LS V-Neck Blouse Boo  ](https://images-eu.ssl-images-amazon.com/images/I/41%2BvTP3HjfL._SL200_.jpg)](https://www.amazon.es/dp/B072XP7M5H/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B072XP7M5H/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Under Armour Play Up Short 2.0 Pantalón Corto  Mujer  Morado  Purple Pri
 
 [![Under Armour Play Up Short 2.0 Pantalón ](https://images-eu.ssl-images-amazon.com/images/I/41RECdYUj9L._SL200_.jpg)](https://www.amazon.es/dp/B07CZSM3Y6/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07CZSM3Y6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

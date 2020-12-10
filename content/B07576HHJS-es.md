@@ -22,6 +22,9 @@ Está [Springfield Parka Larga Capucha Pluma Water Repellent Abrigo  Negro  Blac
 
 [![Springfield Parka Larga Capucha Pluma Wa](https://images-eu.ssl-images-amazon.com/images/I/41fMN-R7ZVL._SL200_.jpg)](https://www.amazon.es/dp/B07576HHJS/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07576HHJS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

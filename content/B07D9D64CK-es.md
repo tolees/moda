@@ -22,6 +22,9 @@ Ahora mismo tienes [XTI 48432  Botines para Mujer  Marrón Camel  37 EU](https:/
 
 [![XTI 48432  Botines para Mujer  Marrón Ca](https://images-eu.ssl-images-amazon.com/images/I/410Px-0ff2L._SL200_.jpg)](https://www.amazon.es/dp/B07D9D64CK/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07D9D64CK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

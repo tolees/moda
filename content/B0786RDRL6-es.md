@@ -22,6 +22,9 @@ Tienes [Puma Drirelease Graphic tee Camiseta  Hombre  Gris  Light Gray Heather  
 
 [![Puma Drirelease Graphic tee Camiseta  Ho](https://images-eu.ssl-images-amazon.com/images/I/412b1FlDXgL._SL200_.jpg)](https://www.amazon.es/dp/B0786RDRL6/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B0786RDRL6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

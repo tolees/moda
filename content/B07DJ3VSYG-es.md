@@ -22,6 +22,9 @@ Está [Geox D Annytah a  Bailarinas para Mujer  Silver/White C0434  38 EU](https
 
 [![Geox D Annytah a  Bailarinas para Mujer ](https://images-eu.ssl-images-amazon.com/images/I/31mqR-tsxeL._SL200_.jpg)](https://www.amazon.es/dp/B07DJ3VSYG/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DJ3VSYG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

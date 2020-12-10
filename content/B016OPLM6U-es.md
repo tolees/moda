@@ -22,6 +22,9 @@ Está [Jimmy Choo Cora/S 6P J33 56  Gafas de Sol para Mujer  Gris  Gry Bwgltmud/
 
 [![Jimmy Choo Cora/S 6P J33 56  Gafas de So](https://images-eu.ssl-images-amazon.com/images/I/41KJY2ZaOnL._SL200_.jpg)](https://www.amazon.es/dp/B016OPLM6U/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B016OPLM6U/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Gant The Broadcloth Banker Reg BD Camisa  Azul  Capri Blue 468   Small pa
 
 [![Gant The Broadcloth Banker Reg BD Camisa](https://images-eu.ssl-images-amazon.com/images/I/41bRce-sAGL._SL200_.jpg)](https://www.amazon.es/dp/B07BP34Q8F/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07BP34Q8F/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

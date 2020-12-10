@@ -22,6 +22,9 @@ Está [Arnés de Seguridad para Caminar Ajustable Arnés de Bebe a Pie de Camina
 
 [![Arnés de Seguridad para Caminar Ajustabl](https://images-eu.ssl-images-amazon.com/images/I/51ranZ%2B8HzL._SL200_.jpg)](https://www.amazon.es/dp/B07FMKSBSH/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FMKSBSH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

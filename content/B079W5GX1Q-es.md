@@ -22,6 +22,9 @@ Está [Helly Hansen W Verglas Hooded Down Insulato Chaqueta con capucha  Mujer  
 
 [![Helly Hansen W Verglas Hooded Down Insul](https://images-eu.ssl-images-amazon.com/images/I/41QN6duLTEL._SL200_.jpg)](https://www.amazon.es/dp/B079W5GX1Q/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B079W5GX1Q/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

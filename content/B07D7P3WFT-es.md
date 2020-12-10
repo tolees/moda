@@ -22,6 +22,9 @@ Ahora mismo tienes [Dolores Promesas 107374 Camisa  Blanc    Tamaño del Fabrica
 
 [![Dolores Promesas 107374 Camisa  Blanc   ](https://images-eu.ssl-images-amazon.com/images/I/41ZnIHPkWCL._SL200_.jpg)](https://www.amazon.es/dp/B07D7P3WFT/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07D7P3WFT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

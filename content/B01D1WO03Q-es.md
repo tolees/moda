@@ -22,6 +22,9 @@ Ahora mismo tienes [Clarks Carlita Cove  Zapatos de Tacón para Mujer  Morado  P
 
 [![Clarks Carlita Cove  Zapatos de Tacón pa](https://images-eu.ssl-images-amazon.com/images/I/41u%2BAoU4uML._SL200_.jpg)](https://www.amazon.es/dp/B01D1WO03Q/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01D1WO03Q/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

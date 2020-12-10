@@ -22,6 +22,9 @@ Tienes [PUMA Rebel Basic tee Camiseta  Hombre  Blanco White  XXL](https://www.am
 
 [![PUMA Rebel Basic tee Camiseta  Hombre  B](https://images-eu.ssl-images-amazon.com/images/I/41kZJHrP%2BkL._SL200_.jpg)](https://www.amazon.es/dp/B07JWVK386/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07JWVK386/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

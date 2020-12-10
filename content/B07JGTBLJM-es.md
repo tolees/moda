@@ -22,6 +22,9 @@ Está [Armani Exchange J13 Slim Vaqueros  Azul  Denim Indaco 1500   W28/L34  Tal
 
 [![Armani Exchange J13 Slim Vaqueros  Azul ](https://images-eu.ssl-images-amazon.com/images/I/31byJt%2BG8FL._SL200_.jpg)](https://www.amazon.es/dp/B07JGTBLJM/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07JGTBLJM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Havaianas Top  Chanclas para Unisex Adulto  Rojo  Ruby Red   41/42 EU  3
 
 [![Havaianas Top  Chanclas para Unisex Adul](https://images-eu.ssl-images-amazon.com/images/I/41upc30LcwL._SL200_.jpg)](https://www.amazon.es/dp/B003AOUGHU/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B003AOUGHU/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Mr.Van LED Plegable Espejo  Espejo Portátil de Viaje con 3 Pliegues/Esp
 
 [![Mr.Van LED Plegable Espejo  Espejo Portá](https://images-eu.ssl-images-amazon.com/images/I/41cKdSObrPL._SL200_.jpg)](https://www.amazon.es/dp/B07CK48ND5/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07CK48ND5/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

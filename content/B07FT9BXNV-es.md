@@ -22,6 +22,9 @@ Está [Lee Daren Zip Fly Vaqueros rectors Rectos  Gris  Grau Used Xz   28W/32L p
 
 [![Lee Daren Zip Fly Vaqueros rectors Recto](https://images-eu.ssl-images-amazon.com/images/I/413DhhQ%2BliL._SL200_.jpg)](https://www.amazon.es/dp/B07FT9BXNV/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FT9BXNV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

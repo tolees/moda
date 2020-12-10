@@ -22,6 +22,9 @@ Está [Love Moschino Coat with Hearth Shaped Buttons Abrigo  Azul  Blue Y83   44
 
 [![Love Moschino Coat with Hearth Shaped Bu](https://images-eu.ssl-images-amazon.com/images/I/31VbF8KcPvL._SL200_.jpg)](https://www.amazon.es/dp/B07CCDJ189/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07CCDJ189/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

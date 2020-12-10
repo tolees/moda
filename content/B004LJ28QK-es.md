@@ -22,6 +22,9 @@ Ahora mismo tienes [Guess UBN12020 - Collar de Mujer de Plata de Ley  51 cm](htt
 
 [![Guess UBN12020 - Collar de Mujer de Plat](https://images-eu.ssl-images-amazon.com/images/I/41iVjGNP14L._SL200_.jpg)](https://www.amazon.es/dp/B004LJ28QK/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B004LJ28QK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

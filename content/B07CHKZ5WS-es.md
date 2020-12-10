@@ -22,6 +22,9 @@ Tienes [BOSS Jaysee Chaqueta  Marrón  Dark Brown 204   X-Large  Talla del Fabri
 
 [![BOSS Jaysee Chaqueta  Marrón  Dark Brown](https://images-eu.ssl-images-amazon.com/images/I/41iuBJwiuGL._SL200_.jpg)](https://www.amazon.es/dp/B07CHKZ5WS/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07CHKZ5WS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

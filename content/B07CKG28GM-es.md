@@ -22,6 +22,9 @@ Ahora mismo tienes [Inside 6sves21&  Vestido Mujer  Negro  Black 1   Medium](htt
 
 [![Inside 6sves21&  Vestido Mujer  Negro  B](https://images-eu.ssl-images-amazon.com/images/I/41NGzno41FL._SL200_.jpg)](https://www.amazon.es/dp/B07CKG28GM/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07CKG28GM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Napapijri Bonthe C Sudadera  Azul  BLU Marine 176   Medium para Hombre](h
 
 [![Napapijri Bonthe C Sudadera  Azul  BLU M](https://images-eu.ssl-images-amazon.com/images/I/31qBZ8uVisL._SL200_.jpg)](https://www.amazon.es/dp/B07L9PRT3G/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07L9PRT3G/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

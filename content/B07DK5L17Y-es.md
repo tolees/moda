@@ -22,6 +22,9 @@ Ahora mismo tienes [Geox J Alonisso Boy B  Zapatillas para Niños  Gris  Grey/Fl
 
 [![Geox J Alonisso Boy B  Zapatillas para N](https://images-eu.ssl-images-amazon.com/images/I/41l6BeXJ5sL._SL200_.jpg)](https://www.amazon.es/dp/B07DK5L17Y/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07DK5L17Y/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

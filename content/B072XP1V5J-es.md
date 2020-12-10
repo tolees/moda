@@ -22,6 +22,9 @@ Tienes [Vero Moda Vmbrilliant LS V-Neck Blouse Boo suéter  Rojo  Flame Scarlet 
 
 [![Vero Moda Vmbrilliant LS V-Neck Blouse B](https://images-eu.ssl-images-amazon.com/images/I/41yU%2Bx%2BXhCL._SL200_.jpg)](https://www.amazon.es/dp/B072XP1V5J/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B072XP1V5J/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

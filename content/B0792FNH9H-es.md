@@ -22,6 +22,9 @@ Tienes [Geox Donna Brogue B  Zapatos de Cordones Derby para Mujer   Brown C0013 
 
 [![Geox Donna Brogue B  Zapatos de Cordones](https://images-eu.ssl-images-amazon.com/images/I/31U0JSo6h6L._SL200_.jpg)](https://www.amazon.es/dp/B0792FNH9H/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B0792FNH9H/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

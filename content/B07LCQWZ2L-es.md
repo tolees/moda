@@ -22,6 +22,9 @@ Tienes [Talkabout 460008-96071 Blusa   White-Black-Dot 9006   42 Talla del Fabri
 
 [![Talkabout 460008-96071 Blusa   White-Bla](https://images-eu.ssl-images-amazon.com/images/I/41gmqYO86zL._SL200_.jpg)](https://www.amazon.es/dp/B07LCQWZ2L/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07LCQWZ2L/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

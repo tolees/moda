@@ -22,6 +22,9 @@ Ahora mismo tienes [Vero Moda Vmedna LS Blouse Ga Blusa   Eggnog AOP: Stripe Bla
 
 [![Vero Moda Vmedna LS Blouse Ga Blusa   Eg](https://images-eu.ssl-images-amazon.com/images/I/41NRRzaQzUL._SL200_.jpg)](https://www.amazon.es/dp/B07D4LWBCK/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07D4LWBCK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

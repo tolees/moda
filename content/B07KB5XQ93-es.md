@@ -22,6 +22,9 @@ Tienes [Emma & Giovanni - Leggins Algodon Made in Italy - mujer  Negro  ES 36  T
 
 [![Emma & Giovanni - Leggins Algodon Made i](https://images-eu.ssl-images-amazon.com/images/I/31%2B%2BRkXUWCL._SL200_.jpg)](https://www.amazon.es/dp/B07KB5XQ93/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07KB5XQ93/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

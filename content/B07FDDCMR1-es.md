@@ -22,6 +22,9 @@ Ahora mismo tienes [Armani Exchange J15 Straight Vaqueros  Azul  Denim Indaco 15
 
 [![Armani Exchange J15 Straight Vaqueros  A](https://images-eu.ssl-images-amazon.com/images/I/418S1UCk4AL._SL200_.jpg)](https://www.amazon.es/dp/B07FDDCMR1/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07FDDCMR1/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

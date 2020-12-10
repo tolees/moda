@@ -22,6 +22,9 @@ Está [AURIQUE camiseta deportiva mujer  Morado  38  Talla del fabricante: S ](h
 
 [![AURIQUE camiseta deportiva mujer  Morado](https://images-eu.ssl-images-amazon.com/images/I/41A%2B8PQW9AL._SL200_.jpg)](https://www.amazon.es/dp/B0778ZCPV9/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0778ZCPV9/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

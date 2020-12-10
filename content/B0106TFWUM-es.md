@@ -22,6 +22,9 @@ Está [Fruit of the Loom Ss126m  Sudadera para Hombre  Negro  Medium](https://ww
 
 [![Fruit of the Loom Ss126m  Sudadera para ](https://images-eu.ssl-images-amazon.com/images/I/41rNTfgsbpL._SL200_.jpg)](https://www.amazon.es/dp/B0106TFWUM/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0106TFWUM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

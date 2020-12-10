@@ -22,6 +22,9 @@ Está [Desigual Girl Knit T-Shirt Straps  TS_Summer  Camiseta  Blanco  White 100
 
 [![Desigual Girl Knit T-Shirt Straps  TS_Su](https://images-eu.ssl-images-amazon.com/images/I/513udt9sLiL._SL200_.jpg)](https://www.amazon.es/dp/B07GYVBTHZ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07GYVBTHZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

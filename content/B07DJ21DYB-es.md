@@ -22,6 +22,9 @@ Está [New Balance 250  Zapatos de Playa y Piscina Unisex Adulto  Gris Castleroc
 
 [![New Balance 250  Zapatos de Playa y Pisc](https://images-eu.ssl-images-amazon.com/images/I/41mJM1ka8nL._SL200_.jpg)](https://www.amazon.es/dp/B07DJ21DYB/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DJ21DYB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

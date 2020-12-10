@@ -22,6 +22,9 @@ Está [Geox J Alonisso Boy E  Zapatillas para Niños  Azul  Navy/White C4211   3
 
 [![Geox J Alonisso Boy E  Zapatillas para N](https://images-eu.ssl-images-amazon.com/images/I/41zn5lK8Q7L._SL200_.jpg)](https://www.amazon.es/dp/B07DK3MGJF/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DK3MGJF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

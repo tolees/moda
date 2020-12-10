@@ -22,6 +22,9 @@ Está [Tiffosi Forbes  Chaqueta para Hombre  Azul  Blue 790  Large  Tamaño del 
 
 [![Tiffosi Forbes  Chaqueta para Hombre  Az](https://images-eu.ssl-images-amazon.com/images/I/41lJObncmHL._SL200_.jpg)](https://www.amazon.es/dp/B07FDCSCBH/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FDCSCBH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

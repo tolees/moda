@@ -22,6 +22,9 @@ Está [Volcom Radical Daze tee Camiseta  Mujer  Blanco  Large](https://www.amazo
 
 [![Volcom Radical Daze tee Camiseta  Mujer ](https://images-eu.ssl-images-amazon.com/images/I/41kqmhm8BGL._SL200_.jpg)](https://www.amazon.es/dp/B073WVBWHC/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B073WVBWHC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

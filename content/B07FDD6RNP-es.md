@@ -22,6 +22,9 @@ Está [Pimkie Crw18 Middleboots  Botines para Mujer  Marrón  Camel 747A07   38 
 
 [![Pimkie Crw18 Middleboots  Botines para M](https://images-eu.ssl-images-amazon.com/images/I/41qo88dQ7bL._SL200_.jpg)](https://www.amazon.es/dp/B07FDD6RNP/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FDD6RNP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

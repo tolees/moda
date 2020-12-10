@@ -22,6 +22,9 @@ Está [Springfield Frq Gingham Melange  Camisa Casual para Hombre   Gales 80  Me
 
 [![Springfield Frq Gingham Melange  Camisa ](https://images-eu.ssl-images-amazon.com/images/I/41N8sQTTrNL._SL200_.jpg)](https://www.amazon.es/dp/B07DLCBPHK/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DLCBPHK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

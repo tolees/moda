@@ -22,6 +22,9 @@ Ahora mismo tienes [G-STAR RAW 5620 3D Super Slim  Vaqueros para Hombre  Gris  D
 
 [![G-STAR RAW 5620 3D Super Slim  Vaqueros ](https://images-eu.ssl-images-amazon.com/images/I/41yhEke%2B0RL._SL200_.jpg)](https://www.amazon.es/dp/B01BGTKVS4/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01BGTKVS4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

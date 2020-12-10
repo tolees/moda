@@ -22,6 +22,9 @@ Está [Armani Exchange Magnetic Stripe Logo Camiseta  Negro  Black 1200   X-Smal
 
 [![Armani Exchange Magnetic Stripe Logo Cam](https://images-eu.ssl-images-amazon.com/images/I/41gLRKX278L._SL200_.jpg)](https://www.amazon.es/dp/B07FDMG1L2/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FDMG1L2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

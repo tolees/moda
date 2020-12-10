@@ -22,6 +22,9 @@ Ahora mismo tienes [oodji Ultra Mujer Sujetador Bikini con Lazo  Turquesa  80B /
 
 [![oodji Ultra Mujer Sujetador Bikini con L](https://images-eu.ssl-images-amazon.com/images/I/412j739j9mL._SL200_.jpg)](https://www.amazon.es/dp/B01GVBV8U2/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01GVBV8U2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

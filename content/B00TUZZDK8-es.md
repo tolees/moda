@@ -22,6 +22,9 @@ Ahora mismo tienes [G-Star 3301 Loose - Pantalones Vaqueros Hombre  Color Azul  
 
 [![G-Star 3301 Loose - Pantalones Vaqueros ](https://images-eu.ssl-images-amazon.com/images/I/41QsS4kTGyL._SL200_.jpg)](https://www.amazon.es/dp/B00TUZZDK8/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00TUZZDK8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

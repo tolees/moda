@@ -22,6 +22,9 @@ Está [The North Face Light Drew Peak Sudadera  Hombre  New Taupe Green  L](http
 
 [![The North Face Light Drew Peak Sudadera ](https://images-eu.ssl-images-amazon.com/images/I/319oco7QPiL._SL200_.jpg)](https://www.amazon.es/dp/B07MNB18KW/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07MNB18KW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

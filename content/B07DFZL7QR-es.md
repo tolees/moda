@@ -22,6 +22,9 @@ Ahora mismo tienes [Vero Moda Vmfreeze Brush Parka Noos  Mujer  Gris Peat  42  T
 
 [![Vero Moda Vmfreeze Brush Parka Noos  Muj](https://images-eu.ssl-images-amazon.com/images/I/41%2BGPHUr4FL._SL200_.jpg)](https://www.amazon.es/dp/B07DFZL7QR/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07DFZL7QR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

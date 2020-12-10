@@ -22,6 +22,9 @@ Está [Quiksilver Sierra Chaqueta de Nieve  Hombre  Rojo  Flame   XL](https://ww
 
 [![Quiksilver Sierra Chaqueta de Nieve  Hom](https://images-eu.ssl-images-amazon.com/images/I/41a8GQ5UvEL._SL200_.jpg)](https://www.amazon.es/dp/B07DHVNQQD/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DHVNQQD/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

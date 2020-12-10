@@ -22,6 +22,9 @@ Tienes [IRIS & LILLY Sh191018 bañadores  Multicolor  Palm Print   40  Talla del
 
 [![IRIS & LILLY Sh191018 bañadores  Multico](https://images-eu.ssl-images-amazon.com/images/I/41NgWz0eRQL._SL200_.jpg)](https://www.amazon.es/dp/B07JFM89ND/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07JFM89ND/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

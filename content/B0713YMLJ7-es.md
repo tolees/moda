@@ -22,6 +22,9 @@ Tienes [FIND  Sudadera Guns N  Roses para Hombre  Schwarz  Black   Medium](https
 
 [![FIND  Sudadera Guns N  Roses para Hombre](https://images-eu.ssl-images-amazon.com/images/I/41ZBhWBv1fL._SL200_.jpg)](https://www.amazon.es/dp/B0713YMLJ7/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B0713YMLJ7/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

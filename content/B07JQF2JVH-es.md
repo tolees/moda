@@ -22,6 +22,9 @@ Tienes [JACK & JONES Jormetallica tee SS Crew Neck  Camiseta para Hombre  Gris  
 
 [![JACK & JONES Jormetallica tee SS Crew Ne](https://images-eu.ssl-images-amazon.com/images/I/414nCzTnrYL._SL200_.jpg)](https://www.amazon.es/dp/B07JQF2JVH/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07JQF2JVH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

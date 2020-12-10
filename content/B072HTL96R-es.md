@@ -22,6 +22,9 @@ Tienes [JACK & JONES Jjiglenn Jjoriginal Am 431 SPS Noos Pantalones Vaqueros Del
 
 [![JACK & JONES Jjiglenn Jjoriginal Am 431 ](https://images-eu.ssl-images-amazon.com/images/I/41NO-Pw56QL._SL200_.jpg)](https://www.amazon.es/dp/B072HTL96R/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B072HTL96R/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

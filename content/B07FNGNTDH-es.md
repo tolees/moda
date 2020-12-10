@@ -22,6 +22,9 @@ Está [JACK & JONES Jjiglenn Jjfox Bl 820 Noos Vaqueros Slim  Azul Blue Denim  W
 
 [![JACK & JONES Jjiglenn Jjfox Bl 820 Noos ](https://images-eu.ssl-images-amazon.com/images/I/41-uSnthdfL._SL200_.jpg)](https://www.amazon.es/dp/B07FNGNTDH/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FNGNTDH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

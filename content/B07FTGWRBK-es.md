@@ -22,6 +22,9 @@ Está [Lee Daren Zip Fly Vaqueros rectors Rectos  Azul  Storm DM   31W/34L para 
 
 [![Lee Daren Zip Fly Vaqueros rectors Recto](https://images-eu.ssl-images-amazon.com/images/I/41Y%2Btivc2OL._SL200_.jpg)](https://www.amazon.es/dp/B07FTGWRBK/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FTGWRBK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Redford Nizza  Camisa Hombre  Azul  Blau   Tamaño del Cuello: 42 cm   L
 
 [![Redford Nizza  Camisa Hombre  Azul  Blau](https://images-eu.ssl-images-amazon.com/images/I/31BPBUxSpQL._SL200_.jpg)](https://www.amazon.es/dp/B01MFARSB2/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01MFARSB2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

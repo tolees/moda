@@ -22,6 +22,9 @@ Está [Quiksilver Shoreline Nubuck  Zapatos de Playa y Piscina para Hombre  Negr
 
 [![Quiksilver Shoreline Nubuck  Zapatos de ](https://images-eu.ssl-images-amazon.com/images/I/31NnlRsye3L._SL200_.jpg)](https://www.amazon.es/dp/B07DYC1M5W/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DYC1M5W/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

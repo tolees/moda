@@ -22,6 +22,9 @@ Está [Springfield 5Ba Turtle Gg12 Cotton  Jersey para Hombre   Gama Grises 43  
 
 [![Springfield 5Ba Turtle Gg12 Cotton  Jers](https://images-eu.ssl-images-amazon.com/images/I/418YkSaOvgL._SL200_.jpg)](https://www.amazon.es/dp/B07DLFVXP3/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DLFVXP3/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

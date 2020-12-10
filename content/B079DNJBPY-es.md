@@ -22,6 +22,9 @@ Está [Dafunna Mujer Traje de baño Bikini Conjuntos Push Up Cintura Alta Ruffle
 
 [![Dafunna Mujer Traje de baño Bikini Conju](https://images-eu.ssl-images-amazon.com/images/I/51f4KT4TV9L._SL200_.jpg)](https://www.amazon.es/dp/B079DNJBPY/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B079DNJBPY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

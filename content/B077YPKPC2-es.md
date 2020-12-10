@@ -22,6 +22,9 @@ Está [HIKARO Chaleco de Plumas con Capucha Hombre  Rojo  Red   48  Talla del fa
 
 [![HIKARO Chaleco de Plumas con Capucha Hom](https://images-eu.ssl-images-amazon.com/images/I/41sMVEN7CLL._SL200_.jpg)](https://www.amazon.es/dp/B077YPKPC2/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B077YPKPC2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [JACK & JONES PREMIUM Jprmorten Wool Coat STS  Abrigo para Hombre  Gris  G
 
 [![JACK & JONES PREMIUM Jprmorten Wool Coat](https://images-eu.ssl-images-amazon.com/images/I/41-w2chF8WL._SL200_.jpg)](https://www.amazon.es/dp/B07F8Y1KJZ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07F8Y1KJZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

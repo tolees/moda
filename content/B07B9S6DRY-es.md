@@ -22,6 +22,9 @@ Está [Vero Moda Vmjenny Capsl Ancle Dress Att  Vestido Mujer   Night Sky AOP: J
 
 [![Vero Moda Vmjenny Capsl Ancle Dress Att ](https://images-eu.ssl-images-amazon.com/images/I/41AkHaLDkrL._SL200_.jpg)](https://www.amazon.es/dp/B07B9S6DRY/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07B9S6DRY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

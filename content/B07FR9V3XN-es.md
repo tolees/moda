@@ -22,6 +22,9 @@ Está [Clarks Sharon Crystal  Zapatos de Cordones Derby para Mujer  Negro  Black
 
 [![Clarks Sharon Crystal  Zapatos de Cordon](https://images-eu.ssl-images-amazon.com/images/I/31TLszw6yWL._SL200_.jpg)](https://www.amazon.es/dp/B07FR9V3XN/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FR9V3XN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Geox D Airell C  Zapatillas para Mujer  Marrón  Dk Coffee/Taupe   40 EU]
 
 [![Geox D Airell C  Zapatillas para Mujer  ](https://images-eu.ssl-images-amazon.com/images/I/41J7zfZk2dL._SL200_.jpg)](https://www.amazon.es/dp/B06XNXC7SB/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B06XNXC7SB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

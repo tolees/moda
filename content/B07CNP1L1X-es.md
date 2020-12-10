@@ -22,6 +22,9 @@ Tienes [Wrangler Greensboro Vaqueros  Azul  Indigo Wit 25f   W38 / L30 para Homb
 
 [![Wrangler Greensboro Vaqueros  Azul  Indi](https://images-eu.ssl-images-amazon.com/images/I/41n9PsosQZL._SL200_.jpg)](https://www.amazon.es/dp/B07CNP1L1X/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07CNP1L1X/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

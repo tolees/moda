@@ -22,6 +22,9 @@ Ahora mismo tienes [Desigual TS_Martine - Camiseta Mujer  Negro  Negro 2000   X-
 
 [![Desigual TS_Martine - Camiseta Mujer  Ne](https://images-eu.ssl-images-amazon.com/images/I/41jfddH1m4L._SL200_.jpg)](https://www.amazon.es/dp/B01M0X5W2F/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01M0X5W2F/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

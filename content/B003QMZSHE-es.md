@@ -22,6 +22,9 @@ Tienes [GORE BIKE WEAR Guantes de Hombre  Ciclismo en carretera  Dedos cortos  T
 
 [![GORE BIKE WEAR Guantes de Hombre  Ciclis](https://images-eu.ssl-images-amazon.com/images/I/41XbtpuYiAL._SL200_.jpg)](https://www.amazon.es/dp/B003QMZSHE/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B003QMZSHE/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

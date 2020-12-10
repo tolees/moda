@@ -22,6 +22,9 @@ Está [Gant O2. Collarless Padded Jacket Chaqueta  Azul  Marine 410   42  Talla 
 
 [![Gant O2. Collarless Padded Jacket Chaque](https://images-eu.ssl-images-amazon.com/images/I/41Cp-ylHuWL._SL200_.jpg)](https://www.amazon.es/dp/B07H4K9R2B/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07H4K9R2B/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

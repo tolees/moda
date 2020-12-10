@@ -22,6 +22,9 @@ Está [Adidas Adilette Aqua  Zapatos de Playa y Piscina Unisex Adulto  Rosa Aero
 
 [![Adidas Adilette Aqua  Zapatos de Playa y](https://images-eu.ssl-images-amazon.com/images/I/31jZXGU70rL._SL200_.jpg)](https://www.amazon.es/dp/B07GBD4HL5/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07GBD4HL5/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

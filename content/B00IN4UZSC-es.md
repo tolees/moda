@@ -22,6 +22,9 @@ Está [Jako Active - Chaqueta deportiva para hombre azul marino y blanco Talla:X
 
 [![Jako Active - Chaqueta deportiva para ho](https://images-eu.ssl-images-amazon.com/images/I/41EA295v7JL._SL200_.jpg)](https://www.amazon.es/dp/B00IN4UZSC/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00IN4UZSC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

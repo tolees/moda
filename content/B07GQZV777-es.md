@@ -22,6 +22,9 @@ Está [Mujer Bata Albornoz Larga Señoras Bata Bata de Noche Collar de Felpa Sua
 
 [![Mujer Bata Albornoz Larga Señoras Bata B](https://images-eu.ssl-images-amazon.com/images/I/41A60jcRjDL._SL200_.jpg)](https://www.amazon.es/dp/B07GQZV777/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07GQZV777/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

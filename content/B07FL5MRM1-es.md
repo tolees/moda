@@ -22,6 +22,9 @@ Está [Superdry Windcheater  Chaqueta Deportiva para Mujer  Azul  Elite Cobalt X
 
 [![Superdry Windcheater  Chaqueta Deportiva](https://images-eu.ssl-images-amazon.com/images/I/41BoWDQeuwL._SL200_.jpg)](https://www.amazon.es/dp/B07FL5MRM1/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FL5MRM1/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

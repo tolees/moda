@@ -22,6 +22,9 @@ Tienes [Stella Maris STMB605-03 - Bolso para mujer con organizador de bolsillo e
 
 [![Stella Maris STMB605-03 - Bolso para muj](https://images-eu.ssl-images-amazon.com/images/I/51ifKzgPvuL._SL200_.jpg)](https://www.amazon.es/dp/B01N21AHY8/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01N21AHY8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

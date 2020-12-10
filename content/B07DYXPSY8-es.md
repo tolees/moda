@@ -22,6 +22,9 @@ Tienes [Columbia Lake 22 Down Jacket Chaqueta  Hombre  Dark Mountain  Talla XXL]
 
 [![Columbia Lake 22 Down Jacket Chaqueta  H](https://images-eu.ssl-images-amazon.com/images/I/41DLCSGca7L._SL200_.jpg)](https://www.amazon.es/dp/B07DYXPSY8/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07DYXPSY8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

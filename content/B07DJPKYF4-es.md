@@ -22,6 +22,9 @@ Ahora mismo tienes [Only Onlbilla L/s Cardigan Jrs  Chaqueta Punto Mujer  Marró
 
 [![Only Onlbilla L/s Cardigan Jrs  Chaqueta](https://images-eu.ssl-images-amazon.com/images/I/41krOtwFp0L._SL200_.jpg)](https://www.amazon.es/dp/B07DJPKYF4/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07DJPKYF4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

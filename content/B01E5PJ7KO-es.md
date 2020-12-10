@@ -22,6 +22,9 @@ Está [Miami Beach Swimwear Rosa  Bikini Mujer  Azul  aquarius   40](https://www
 
 [![Miami Beach Swimwear Rosa  Bikini Mujer ](https://images-eu.ssl-images-amazon.com/images/I/41aFpwypyiL._SL200_.jpg)](https://www.amazon.es/dp/B01E5PJ7KO/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01E5PJ7KO/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

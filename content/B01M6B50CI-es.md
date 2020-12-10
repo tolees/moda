@@ -22,6 +22,9 @@ Tienes [adidas Gr Tee B Y Camiseta Real Madrid Fc  Hombre  Blanco  Blanco / Vior
 
 [![adidas Gr Tee B Y Camiseta Real Madrid F](https://images-eu.ssl-images-amazon.com/images/I/411bKDoBMDL._SL200_.jpg)](https://www.amazon.es/dp/B01M6B50CI/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01M6B50CI/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

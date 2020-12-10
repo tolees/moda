@@ -22,6 +22,9 @@ Ahora mismo tienes [Gocco Jersey Ochos  Niños   Azul AC   2-3 años](https://ww
 
 [![Gocco Jersey Ochos  Niños   Azul AC   2-](https://images-eu.ssl-images-amazon.com/images/I/41D8Rs3T6lL._SL200_.jpg)](https://www.amazon.es/dp/B07D86Q5RK/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07D86Q5RK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

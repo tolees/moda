@@ -22,6 +22,9 @@ Está [Springfield 4.Fq.Camisa Strech  Camisa para Mujer   Blanco 99    Tamaño 
 
 [![Springfield 4.Fq.Camisa Strech  Camisa p](https://images-eu.ssl-images-amazon.com/images/I/41ehtR1J3UL._SL200_.jpg)](https://www.amazon.es/dp/B07DLSDNHN/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DLSDNHN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

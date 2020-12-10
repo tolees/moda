@@ -22,6 +22,9 @@ Ahora mismo tienes [HHG Vestido Camisero Blanco S](https://www.amazon.es/dp/B01B
 
 [![HHG Vestido Camisero Blanco S](https://images-eu.ssl-images-amazon.com/images/I/415UZYQuf5L._SL200_.jpg)](https://www.amazon.es/dp/B01BFB007A/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01BFB007A/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

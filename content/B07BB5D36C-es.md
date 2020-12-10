@@ -22,6 +22,9 @@ Tienes [The North Face T0A8AZ Chaqueta Quest  Hombre  Vanadis Grey Black Heather
 
 [![The North Face T0A8AZ Chaqueta Quest  Ho](https://images-eu.ssl-images-amazon.com/images/I/41qFvizf1iL._SL200_.jpg)](https://www.amazon.es/dp/B07BB5D36C/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07BB5D36C/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

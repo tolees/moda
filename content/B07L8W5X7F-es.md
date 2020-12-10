@@ -22,6 +22,9 @@ Tienes [Regatta Fingal IV Quick Drying UV Protection Logo tee Camiseta  Hombre  
 
 [![Regatta Fingal IV Quick Drying UV Protec](https://images-eu.ssl-images-amazon.com/images/I/41m9C1uk9JL._SL200_.jpg)](https://www.amazon.es/dp/B07L8W5X7F/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07L8W5X7F/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

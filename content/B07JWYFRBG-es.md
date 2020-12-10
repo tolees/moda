@@ -22,6 +22,9 @@ Está [Carrément Beau Robe Vestido  Marfil  Offwhite 117   10 años  Talla del 
 
 [![Carrément Beau Robe Vestido  Marfil  Off](https://images-eu.ssl-images-amazon.com/images/I/31024vkXveL._SL200_.jpg)](https://www.amazon.es/dp/B07JWYFRBG/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07JWYFRBG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

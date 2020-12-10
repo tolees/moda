@@ -22,6 +22,9 @@ Está [Only Onlnew Skylar Fur Parka CC Otw Chaqueta  Gris Peat  42  Talla del Fa
 
 [![Only Onlnew Skylar Fur Parka CC Otw Chaq](https://images-eu.ssl-images-amazon.com/images/I/417wVRluNWL._SL200_.jpg)](https://www.amazon.es/dp/B07DJTWBCL/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DJTWBCL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

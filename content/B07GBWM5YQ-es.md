@@ -22,6 +22,9 @@ Tienes [El Ganso P. Esmerilado  Camisa Casual para Hombre   Verde   Small  Tama√
 
 [![El Ganso P. Esmerilado  Camisa Casual pa](https://images-eu.ssl-images-amazon.com/images/I/51OC8QPkXwL._SL200_.jpg)](https://www.amazon.es/dp/B07GBWM5YQ/?tag=tolees-21)
 
+Caracter√≠sticas principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07GBWM5YQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

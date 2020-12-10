@@ -22,6 +22,9 @@ Ahora mismo tienes [Wrangler Kabel tee Camiseta  Rojo  Scarlet Red 3uu   Small p
 
 [![Wrangler Kabel tee Camiseta  Rojo  Scarl](https://images-eu.ssl-images-amazon.com/images/I/41COUOsHTZL._SL200_.jpg)](https://www.amazon.es/dp/B07FYBQ49Y/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07FYBQ49Y/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

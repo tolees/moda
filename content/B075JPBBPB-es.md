@@ -22,6 +22,9 @@ Tienes [The North Face M Stshl PT SM T933J6JK3SHT38 Pantalón Softshell Tanken  
 
 [![The North Face M Stshl PT SM T933J6JK3SH]()](https://www.amazon.es/dp/B075JPBBPB/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B075JPBBPB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

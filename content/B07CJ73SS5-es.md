@@ -22,6 +22,9 @@ Está [Only Onllisa L/s Zip Highneck Swt Sudadera   Misty Rose AOP:Kisses Red Pl
 
 [![Only Onllisa L/s Zip Highneck Swt Sudade](https://images-eu.ssl-images-amazon.com/images/I/41fqDSyYrAL._SL200_.jpg)](https://www.amazon.es/dp/B07CJ73SS5/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07CJ73SS5/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

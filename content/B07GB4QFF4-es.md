@@ -22,6 +22,9 @@ Tienes [Tuc Tuc Prenda Tricot Parfum Vestido   Azul 00   12 años  Tamaño del F
 
 [![Tuc Tuc Prenda Tricot Parfum Vestido   A](https://images-eu.ssl-images-amazon.com/images/I/51gX6w4vr-L._SL200_.jpg)](https://www.amazon.es/dp/B07GB4QFF4/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07GB4QFF4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

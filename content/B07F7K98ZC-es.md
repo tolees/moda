@@ -22,6 +22,9 @@ Está [Burton Breach Chaqueta de Snowboard  Hombre  Rojo  Bitters/Chestnut Waxed
 
 [![Burton Breach Chaqueta de Snowboard  Hom](https://images-eu.ssl-images-amazon.com/images/I/41r7s4Kq4jL._SL200_.jpg)](https://www.amazon.es/dp/B07F7K98ZC/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07F7K98ZC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [JACK & JONES Jaccolorfull Small Stripe Trunks Noos Bóxer  Fiery Red  Ho
 
 [![JACK & JONES Jaccolorfull Small Stripe T](https://images-eu.ssl-images-amazon.com/images/I/51dhFEdxiIL._SL200_.jpg)](https://www.amazon.es/dp/B07F5MY45N/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07F5MY45N/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

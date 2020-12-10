@@ -22,6 +22,9 @@ Ahora mismo tienes [Geox D Aneko B  Zapatillas para Mujer  Rojo  Cigar  37 EU](h
 
 [![Geox D Aneko B  Zapatillas para Mujer  R](https://images-eu.ssl-images-amazon.com/images/I/41nXneVXIVL._SL200_.jpg)](https://www.amazon.es/dp/B06Y2SGF9S/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B06Y2SGF9S/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [G-STAR RAW 3301 Deconstructed Mid Waist Skinny Vaqueros  Negro  Medium A
 
 [![G-STAR RAW 3301 Deconstructed Mid Waist ](https://images-eu.ssl-images-amazon.com/images/I/310ezkAnzkL._SL200_.jpg)](https://www.amazon.es/dp/B07MK2FHSL/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07MK2FHSL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

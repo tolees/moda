@@ -22,6 +22,9 @@ Tienes [Esprit 127ee1j003  Sudadera Mujer  Rosa  Pink 670   XX-Large](https://ww
 
 [![Esprit 127ee1j003  Sudadera Mujer  Rosa ](https://images-eu.ssl-images-amazon.com/images/I/41yRd-Lvy8L._SL200_.jpg)](https://www.amazon.es/dp/B07614QCJL/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07614QCJL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

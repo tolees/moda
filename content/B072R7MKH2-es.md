@@ -22,6 +22,9 @@ Tienes [Vero Moda Vmylda LS Boxy Blouse  suéter Mujer  Azul  Navy Blazer Navy B
 
 [![Vero Moda Vmylda LS Boxy Blouse  suéter ](https://images-eu.ssl-images-amazon.com/images/I/41UMU72VZgL._SL200_.jpg)](https://www.amazon.es/dp/B072R7MKH2/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B072R7MKH2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

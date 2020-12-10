@@ -22,6 +22,9 @@ Ahora mismo tienes [Springfield 4.2.T.Ap.Blusa All Over  Blusa para Mujer   Vari
 
 [![Springfield 4.2.T.Ap.Blusa All Over  Blu](https://images-eu.ssl-images-amazon.com/images/I/51z2cm4cZnL._SL200_.jpg)](https://www.amazon.es/dp/B07DL82MLR/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07DL82MLR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

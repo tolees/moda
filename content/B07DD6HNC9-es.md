@@ -22,6 +22,9 @@ Está [Refresh 64760  Botines para Mujer  Marrón 38 EU](https://www.amazon.es/d
 
 [![Refresh 64760  Botines para Mujer  Marró](https://images-eu.ssl-images-amazon.com/images/I/41DmC6%2BLTHL._SL200_.jpg)](https://www.amazon.es/dp/B07DD6HNC9/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DD6HNC9/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

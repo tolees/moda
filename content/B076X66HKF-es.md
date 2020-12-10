@@ -22,6 +22,9 @@ Está [Geox U Keilan B  Zapatillas para Hombre  Gris  Stone   40 EU](https://www
 
 [![Geox U Keilan B  Zapatillas para Hombre ](https://images-eu.ssl-images-amazon.com/images/I/41wD1TqsTWL._SL200_.jpg)](https://www.amazon.es/dp/B076X66HKF/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B076X66HKF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

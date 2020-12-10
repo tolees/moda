@@ -22,6 +22,9 @@ Está [FIND Sudadera con Trabillas para Mujer  Negro  Black   40  Talla del Fabr
 
 [![FIND Sudadera con Trabillas para Mujer  ](https://images-eu.ssl-images-amazon.com/images/I/41NCX87%2B3VL._SL200_.jpg)](https://www.amazon.es/dp/B071FRHD56/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B071FRHD56/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

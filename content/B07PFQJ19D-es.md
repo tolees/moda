@@ -22,6 +22,9 @@ Ahora mismo tienes [Only & Sons Onspatrik Stripe Slim tee Eq 3191 Camiseta  Larg
 
 [![Only & Sons Onspatrik Stripe Slim tee Eq](https://images-eu.ssl-images-amazon.com/images/I/51sY6Hqlr5L._SL200_.jpg)](https://www.amazon.es/dp/B07PFQJ19D/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07PFQJ19D/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

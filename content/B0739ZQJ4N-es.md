@@ -22,6 +22,9 @@ Ahora mismo tienes [Double Agent 87227 Camiseta  Gris Vigore Claro  Medium  Tama
 
 [![Double Agent 87227 Camiseta  Gris Vigore](https://images-eu.ssl-images-amazon.com/images/I/41bclQgdolL._SL200_.jpg)](https://www.amazon.es/dp/B0739ZQJ4N/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B0739ZQJ4N/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

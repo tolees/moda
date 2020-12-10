@@ -22,6 +22,9 @@ Tienes [Geox Jr Plie  E  Zapatos de Cordones Oxford para Niñas  Negro  Black C9
 
 [![Geox Jr Plie  E  Zapatos de Cordones Oxf](https://images-eu.ssl-images-amazon.com/images/I/31bQ6XwnOzL._SL200_.jpg)](https://www.amazon.es/dp/B0792GPTQV/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B0792GPTQV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

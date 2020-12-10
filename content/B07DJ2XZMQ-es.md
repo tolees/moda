@@ -22,6 +22,9 @@ Tienes [Geox U Kaven C  Zapatillas para Hombre  Negro  Black/Dk Grey C0005   42 
 
 [![Geox U Kaven C  Zapatillas para Hombre  ](https://images-eu.ssl-images-amazon.com/images/I/31hVNnA2WpL._SL200_.jpg)](https://www.amazon.es/dp/B07DJ2XZMQ/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07DJ2XZMQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

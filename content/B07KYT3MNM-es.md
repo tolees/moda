@@ -22,6 +22,9 @@ Está [Cortefiel C2Bcc Print Flor Turquesa  Camisa Casual para Hombre   Gama Azu
 
 [![Cortefiel C2Bcc Print Flor Turquesa  Cam](https://images-eu.ssl-images-amazon.com/images/I/41ZSUMY9C4L._SL200_.jpg)](https://www.amazon.es/dp/B07KYT3MNM/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KYT3MNM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

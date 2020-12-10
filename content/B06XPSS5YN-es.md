@@ -22,6 +22,9 @@ Ahora mismo tienes [Desigual TS_Simba Camiseta  Rojo  Borgoña 3007   X-Large pa
 
 [![Desigual TS_Simba Camiseta  Rojo  Borgoñ](https://images-eu.ssl-images-amazon.com/images/I/41SZTn%2BrFAL._SL200_.jpg)](https://www.amazon.es/dp/B06XPSS5YN/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B06XPSS5YN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Eono Essentials - Chaqueta de softshell infantil con capucha fija  negro 
 
 [![Eono Essentials - Chaqueta de softshell ](https://images-eu.ssl-images-amazon.com/images/I/41A1s5tXkvL._SL200_.jpg)](https://www.amazon.es/dp/B07FFW7QG2/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FFW7QG2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

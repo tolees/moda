@@ -22,6 +22,9 @@ Tienes [Joma Nobel Pantalón de equipación  Blanco  L](https://www.amazon.es/dp
 
 [![Joma Nobel Pantalón de equipación  Blanc]()](https://www.amazon.es/dp/B00IXMC6EK/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00IXMC6EK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

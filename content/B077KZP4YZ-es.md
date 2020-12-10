@@ -22,6 +22,9 @@ Tienes [Dolores Promesas Pv18 1023  Vestido para Mujer  Blanco  Estam  Large Tam
 
 [![Dolores Promesas Pv18 1023  Vestido para](https://images-eu.ssl-images-amazon.com/images/I/31bsQatlocL._SL200_.jpg)](https://www.amazon.es/dp/B077KZP4YZ/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B077KZP4YZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

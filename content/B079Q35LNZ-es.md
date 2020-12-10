@@ -22,6 +22,9 @@ Tienes [Lee Daren Zip Fly  Vaqueros Straight para Hombre  Azul  Blue Worn Ve  W2
 
 [![Lee Daren Zip Fly  Vaqueros Straight par](https://images-eu.ssl-images-amazon.com/images/I/41NptRQq-sL._SL200_.jpg)](https://www.amazon.es/dp/B079Q35LNZ/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B079Q35LNZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

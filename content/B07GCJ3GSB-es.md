@@ -22,6 +22,9 @@ Está [Glamorous Ladies Dress Vestido Fiesta Mujer   Multi Spot Chiffon Blue   4
 
 [![Glamorous Ladies Dress Vestido Fiesta Mu](https://images-eu.ssl-images-amazon.com/images/I/41zFBCuOkRL._SL200_.jpg)](https://www.amazon.es/dp/B07GCJ3GSB/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07GCJ3GSB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

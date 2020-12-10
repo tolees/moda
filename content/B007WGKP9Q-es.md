@@ -22,6 +22,9 @@ Está [Nike Pico 4  Tdv   Zapatos de Primeros Pasos para Bebés  Negro  Black/Bl
 
 [![Nike Pico 4  Tdv   Zapatos de Primeros P](https://images-eu.ssl-images-amazon.com/images/I/41asNCJ1M4L._SL200_.jpg)](https://www.amazon.es/dp/B007WGKP9Q/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B007WGKP9Q/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

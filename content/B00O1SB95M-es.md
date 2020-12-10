@@ -22,6 +22,9 @@ Tienes [ICHI CIVAZ DR - Vestido para Mujer  Color Blau  Blau 14402 Colony   Tall
 
 [![ICHI CIVAZ DR - Vestido para Mujer  Colo](https://images-eu.ssl-images-amazon.com/images/I/41UKguUeYIL._SL200_.jpg)](https://www.amazon.es/dp/B00O1SB95M/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00O1SB95M/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

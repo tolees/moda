@@ -22,6 +22,9 @@ Está [adidas Rev Crzy Expl J Camiseta  Hombre  Azul  Maruni/Blanco   2XLT](http
 
 [![adidas Rev Crzy Expl J Camiseta  Hombre ](https://images-eu.ssl-images-amazon.com/images/I/41rVD34GU4L._SL200_.jpg)](https://www.amazon.es/dp/B0721SWTVR/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0721SWTVR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

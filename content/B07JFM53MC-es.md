@@ -22,6 +22,9 @@ Tienes [IRIS & LILLY Sh190848 Parte de Arriba Bikini  Multicolor  Midori   40  T
 
 [![IRIS & LILLY Sh190848 Parte de Arriba Bi](https://images-eu.ssl-images-amazon.com/images/I/41txNrddaOL._SL200_.jpg)](https://www.amazon.es/dp/B07JFM53MC/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07JFM53MC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

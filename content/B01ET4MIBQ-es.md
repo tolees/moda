@@ -22,6 +22,9 @@ Ahora mismo tienes [Helly Hansen Dubliner Jacket  Chaqueta deportiva para Hombre
 
 [![Helly Hansen Dubliner Jacket  Chaqueta d](https://images-eu.ssl-images-amazon.com/images/I/41mDNDXM2PL._SL200_.jpg)](https://www.amazon.es/dp/B01ET4MIBQ/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01ET4MIBQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

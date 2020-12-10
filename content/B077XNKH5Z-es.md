@@ -22,6 +22,9 @@ Está [Under Armour Rival Fleece Logo Hoodie Sudadera  Hombre  Gris  Steel Light
 
 [![Under Armour Rival Fleece Logo Hoodie Su](https://images-eu.ssl-images-amazon.com/images/I/31P1fXRRlML._SL200_.jpg)](https://www.amazon.es/dp/B077XNKH5Z/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B077XNKH5Z/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

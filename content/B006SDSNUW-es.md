@@ -22,6 +22,9 @@ Tienes [Eddie Bauer - Vaqueros straight para hombre  Azul  Stonewashed   W31 / L
 
 [![Eddie Bauer - Vaqueros straight para hom](https://images-eu.ssl-images-amazon.com/images/I/41-vltd3wlL._SL200_.jpg)](https://www.amazon.es/dp/B006SDSNUW/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B006SDSNUW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

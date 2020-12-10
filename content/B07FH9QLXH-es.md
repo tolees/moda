@@ -22,6 +22,9 @@ Está [Timberland Union Wharf 2-Eye Oxford  Mocasines para Hombre  Blanco  Wind 
 
 [![Timberland Union Wharf 2-Eye Oxford  Moc](https://images-eu.ssl-images-amazon.com/images/I/31VjBKKo9hL._SL200_.jpg)](https://www.amazon.es/dp/B07FH9QLXH/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FH9QLXH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

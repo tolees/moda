@@ -22,6 +22,9 @@ Tienes [Rowenta Soft Sensation EP5720F0 - Depiladora  2 velocidades  sistema ant
 
 [![Rowenta Soft Sensation EP5720F0 - Depila](https://images-eu.ssl-images-amazon.com/images/I/41dm4l4gz3L._SL200_.jpg)](https://www.amazon.es/dp/B01FO3P2QY/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01FO3P2QY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

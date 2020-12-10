@@ -22,6 +22,9 @@ Tienes [Pepe Jeans New Brooke Vaqueros  Azul  10Oz Str American Blue Lt D26   30
 
 [![Pepe Jeans New Brooke Vaqueros  Azul  10](https://images-eu.ssl-images-amazon.com/images/I/4104njRKq5L._SL200_.jpg)](https://www.amazon.es/dp/B076W47QZF/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B076W47QZF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

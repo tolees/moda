@@ -22,6 +22,9 @@ Ahora mismo tienes [JACK & JONES Jcomayfield tee SS Crew Neck Camiseta  Verde  E
 
 [![JACK & JONES Jcomayfield tee SS Crew Nec](https://images-eu.ssl-images-amazon.com/images/I/4107-W-tzHL._SL200_.jpg)](https://www.amazon.es/dp/B07K4XTXPP/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07K4XTXPP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

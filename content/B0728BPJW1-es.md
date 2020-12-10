@@ -22,6 +22,9 @@ Tienes [Under Armour UA HG Arm Shorty Metallic WB Pantalón Corto  Mujer  Gris  
 
 [![Under Armour UA HG Arm Shorty Metallic W](https://images-eu.ssl-images-amazon.com/images/I/414YY6%2BEL3L._SL200_.jpg)](https://www.amazon.es/dp/B0728BPJW1/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B0728BPJW1/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

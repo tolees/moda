@@ -22,6 +22,9 @@ Ahora mismo tienes [The North Face L/S Stripes tee Camiseta a Rayas de Manga Lar
 
 [![The North Face L/S Stripes tee Camiseta ](https://images-eu.ssl-images-amazon.com/images/I/41ACRDyeRsL._SL200_.jpg)](https://www.amazon.es/dp/B07MCYJ34S/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07MCYJ34S/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

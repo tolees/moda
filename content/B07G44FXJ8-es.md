@@ -22,6 +22,9 @@ Ahora mismo tienes [BOSS Cosy Pants  Pantalones de Pijama Hombre  Gris  Medium G
 
 [![BOSS Cosy Pants  Pantalones de Pijama Ho](https://images-eu.ssl-images-amazon.com/images/I/41Dck6O6b3L._SL200_.jpg)](https://www.amazon.es/dp/B07G44FXJ8/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07G44FXJ8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [G-STAR RAW D-STAQ 5-Pocket Skinny Colored Vaqueros  Verde  dk Shamrock A
 
 [![G-STAR RAW D-STAQ 5-Pocket Skinny Colore](https://images-eu.ssl-images-amazon.com/images/I/31HG71YfQ3L._SL200_.jpg)](https://www.amazon.es/dp/B07M5ZD24Q/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07M5ZD24Q/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

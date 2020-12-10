@@ -22,6 +22,9 @@ Tienes [G-STAR RAW Shape High Waist Super Skinny Vaqueros  Azul  Rinsed 9425-082
 
 [![G-STAR RAW Shape High Waist Super Skinny](https://images-eu.ssl-images-amazon.com/images/I/31c2SaXqHuL._SL200_.jpg)](https://www.amazon.es/dp/B07BMJJ5TH/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07BMJJ5TH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

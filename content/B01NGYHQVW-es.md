@@ -22,6 +22,9 @@ Está [find. Vaqueros Rectos para Hombre  Azul  W33/L34  Talla del fabricante: 3
 
 [![find. Vaqueros Rectos para Hombre  Azul ](https://images-eu.ssl-images-amazon.com/images/I/414XAQKfvGL._SL200_.jpg)](https://www.amazon.es/dp/B01NGYHQVW/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01NGYHQVW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

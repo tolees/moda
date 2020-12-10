@@ -22,6 +22,9 @@ Ahora mismo tienes [BOSS J21 Selma Vaqueros Slim Fit  Amarillo  Light/Pastel Yel
 
 [![BOSS J21 Selma Vaqueros Slim Fit  Amaril](https://images-eu.ssl-images-amazon.com/images/I/31UrcXThdCL._SL200_.jpg)](https://www.amazon.es/dp/B07KGDVH1D/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07KGDVH1D/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Springfield Sudadera Cuello Camionero  Rojo  Red   Medium  Tamaño del Fa
 
 [![Springfield Sudadera Cuello Camionero  R](https://images-eu.ssl-images-amazon.com/images/I/41p5gl21J-L._SL200_.jpg)](https://www.amazon.es/dp/B07573CWGD/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07573CWGD/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

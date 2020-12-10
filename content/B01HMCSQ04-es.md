@@ -22,6 +22,9 @@ Ahora mismo tienes [VERO MODA VMNORAH LS BLOUSE DNM T  Jersey premamá Mujer  Ne
 
 [![VERO MODA VMNORAH LS BLOUSE DNM T  Jerse](https://images-eu.ssl-images-amazon.com/images/I/41kH6K6xAQL._SL200_.jpg)](https://www.amazon.es/dp/B01HMCSQ04/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01HMCSQ04/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

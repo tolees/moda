@@ -22,6 +22,9 @@ Tienes [Fendi FF 0041/S VQ 9F6 Gafas de Sol  Rosa  Trpch PLD Pink Multilayer   5
 
 [![Fendi FF 0041/S VQ 9F6 Gafas de Sol  Ros](https://images-eu.ssl-images-amazon.com/images/I/31YHRjDdzHL._SL200_.jpg)](https://www.amazon.es/dp/B00KW48AWE/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00KW48AWE/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

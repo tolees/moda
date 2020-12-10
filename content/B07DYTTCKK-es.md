@@ -22,6 +22,9 @@ Está [Columbia 1562212_S Conjunto de Nieve con Chaqueta para niños  Buga  Azul
 
 [![Columbia 1562212_S Conjunto de Nieve con](https://images-eu.ssl-images-amazon.com/images/I/41k2e4Hh77L._SL200_.jpg)](https://www.amazon.es/dp/B07DYTTCKK/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DYTTCKK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

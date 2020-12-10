@@ -22,6 +22,9 @@ Está [Nike G NSW Hoodie FZ PE Chaqueta  Azul Void/htr/Blue Chill  M para Niñas
 
 [![Nike G NSW Hoodie FZ PE Chaqueta  Azul V](https://images-eu.ssl-images-amazon.com/images/I/41dX0MHsv9L._SL200_.jpg)](https://www.amazon.es/dp/B07DL3HQTL/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DL3HQTL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

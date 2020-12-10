@@ -22,6 +22,9 @@ Está [Napapijri Solin LS  Camiseta  Hombre  Verde  Green Musk Gd3   XXX-Large](
 
 [![Napapijri Solin LS  Camiseta  Hombre  Ve](https://images-eu.ssl-images-amazon.com/images/I/41DUSA5D6TL._SL200_.jpg)](https://www.amazon.es/dp/B079NVCNPC/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B079NVCNPC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

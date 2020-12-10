@@ -22,6 +22,9 @@ Está [Pepe Jeans Mack  Camiseta para Hombre   Grey Marl 933   XX-Large](https:/
 
 [![Pepe Jeans Mack  Camiseta para Hombre   ](https://images-eu.ssl-images-amazon.com/images/I/41QEir05OML._SL200_.jpg)](https://www.amazon.es/dp/B07CRJ2G7N/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07CRJ2G7N/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

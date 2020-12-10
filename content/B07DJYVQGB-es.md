@@ -22,6 +22,9 @@ Está [Geox B Kilwi C10  Zapatillas para Bebés  Gris  Grey/Avio C0493   20 EU](
 
 [![Geox B Kilwi C10  Zapatillas para Bebés ](https://images-eu.ssl-images-amazon.com/images/I/412jhnyoA9L._SL200_.jpg)](https://www.amazon.es/dp/B07DJYVQGB/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DJYVQGB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

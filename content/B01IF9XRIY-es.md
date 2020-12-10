@@ -22,6 +22,9 @@ Está [The North Face S/S Camiseta De Manga Corta Simple Dome  Hombre  TNF White
 
 [![The North Face S/S Camiseta De Manga Cor](https://images-eu.ssl-images-amazon.com/images/I/41fW3uWyrhL._SL200_.jpg)](https://www.amazon.es/dp/B01IF9XRIY/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01IF9XRIY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

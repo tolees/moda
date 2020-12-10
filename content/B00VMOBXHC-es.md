@@ -22,6 +22,9 @@ Tienes [Jako Striker KA - Camiseta de fútbol  Unisex Adulto  Multicolor  White 
 
 [![Jako Striker KA - Camiseta de fútbol  Un](https://images-eu.ssl-images-amazon.com/images/I/41oDXmH7S6L._SL200_.jpg)](https://www.amazon.es/dp/B00VMOBXHC/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00VMOBXHC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

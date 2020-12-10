@@ -22,6 +22,9 @@ Está [Pepe Jeans Finsbury Vaqueros  Negro  Denim WE3   31W / 34L para Hombre](h
 
 [![Pepe Jeans Finsbury Vaqueros  Negro  Den](https://images-eu.ssl-images-amazon.com/images/I/31Rh0YQDCRL._SL200_.jpg)](https://www.amazon.es/dp/B07CRJ7M92/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07CRJ7M92/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

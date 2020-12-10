@@ -22,6 +22,9 @@ Está [Blend - Vaqueros Straight para Hombre  Color Bleu - Blau  76021-l32   Tal
 
 [![Blend - Vaqueros Straight para Hombre  C](https://images-eu.ssl-images-amazon.com/images/I/41HrnMqUvzL._SL200_.jpg)](https://www.amazon.es/dp/B00ET04TYU/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00ET04TYU/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

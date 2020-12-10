@@ -22,6 +22,9 @@ Tienes [Only Onlbette Logo LS Swt Sudadera  Negro  Black Print:White   34  Talla
 
 [![Only Onlbette Logo LS Swt Sudadera  Negr](https://images-eu.ssl-images-amazon.com/images/I/41ndbPBQ7TL._SL200_.jpg)](https://www.amazon.es/dp/B073MVMDH5/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B073MVMDH5/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

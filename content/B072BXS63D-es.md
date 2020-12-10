@@ -22,6 +22,9 @@ Tienes [Under Armour Playmaker Fix SL  Zapatos de Playa y Piscina para Mujer  Ne
 
 [![Under Armour Playmaker Fix SL  Zapatos d](https://images-eu.ssl-images-amazon.com/images/I/31-JsZp5LVL._SL200_.jpg)](https://www.amazon.es/dp/B072BXS63D/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B072BXS63D/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

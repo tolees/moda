@@ -22,6 +22,9 @@ Está [Columbia Della Fall Mid Jacket Chaqueta Larga  Mujer  Azul  India Ink   S
 
 [![Columbia Della Fall Mid Jacket Chaqueta ]()](https://www.amazon.es/dp/B01NCPAOQI/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01NCPAOQI/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

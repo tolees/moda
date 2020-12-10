@@ -22,6 +22,9 @@ Está [LIU JO Shoes Patty 02-Sandal Metallic Leather Gold  Sandalias con Punta A
 
 [![LIU JO Shoes Patty 02-Sandal Metallic Le](https://images-eu.ssl-images-amazon.com/images/I/41AkMIMfcML._SL200_.jpg)](https://www.amazon.es/dp/B07L6S66NB/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07L6S66NB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

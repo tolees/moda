@@ -22,6 +22,9 @@ Está [Levi s 510 Skinny Fit  Vaqueros para Hombre  Azul  Madison Square 0701   
 
 [![Levi s 510 Skinny Fit  Vaqueros para Hom](https://images-eu.ssl-images-amazon.com/images/I/41BZcVXRxvL._SL200_.jpg)](https://www.amazon.es/dp/B071DXDJ2S/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B071DXDJ2S/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

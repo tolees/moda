@@ -22,6 +22,9 @@ Está [Armani Exchange 6zya52  Vestido de Fiesta para Mujer  Negro  Black 1200  
 
 [![Armani Exchange 6zya52  Vestido de Fiest](https://images-eu.ssl-images-amazon.com/images/I/31c1ds5NCdL._SL200_.jpg)](https://www.amazon.es/dp/B078G7PHT6/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B078G7PHT6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

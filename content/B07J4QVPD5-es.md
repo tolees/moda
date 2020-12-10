@@ -22,6 +22,9 @@ Está [IRIS & LILLY Kt122 Bikini  Azul  Blue/White Stripe   S  85B 70B ](https:/
 
 [![IRIS & LILLY Kt122 Bikini  Azul  Blue/Wh](https://images-eu.ssl-images-amazon.com/images/I/4147qOi0fkL._SL200_.jpg)](https://www.amazon.es/dp/B07J4QVPD5/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07J4QVPD5/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

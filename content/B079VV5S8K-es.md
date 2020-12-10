@@ -22,6 +22,9 @@ Ahora mismo tienes [Desigual - Bols_dark Amber Loverty  Bolso Mujer  Marrón  Ca
 
 [![Desigual - Bols_dark Amber Loverty  Bols](https://images-eu.ssl-images-amazon.com/images/I/515Q95B250L._SL200_.jpg)](https://www.amazon.es/dp/B079VV5S8K/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B079VV5S8K/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

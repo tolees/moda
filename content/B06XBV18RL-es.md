@@ -22,6 +22,9 @@ Tienes [G-Star Raw 3301 Deconstructed Super Slim  Vaqueros para Hombre  Azul  Me
 
 [![G-Star Raw 3301 Deconstructed Super Slim](https://images-eu.ssl-images-amazon.com/images/I/41BFC%2BzYLCL._SL200_.jpg)](https://www.amazon.es/dp/B06XBV18RL/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B06XBV18RL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

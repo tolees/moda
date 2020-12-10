@@ -22,6 +22,9 @@ Ahora mismo tienes [adidas Hoops 2.0 Mid  Zapatos de Baloncesto para Mujer  Negr
 
 [![adidas Hoops 2.0 Mid  Zapatos de Balonce](https://images-eu.ssl-images-amazon.com/images/I/41Aa2Qd5yFL._SL200_.jpg)](https://www.amazon.es/dp/B07FT38J5V/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07FT38J5V/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

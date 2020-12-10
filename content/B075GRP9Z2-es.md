@@ -22,6 +22,9 @@ Ahora mismo tienes [Only Onlnadine L/s Highneck Swt CS Sudadera   Strawberry Ice
 
 [![Only Onlnadine L/s Highneck Swt CS Sudad](https://images-eu.ssl-images-amazon.com/images/I/41MP6Q-9qBL._SL200_.jpg)](https://www.amazon.es/dp/B075GRP9Z2/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B075GRP9Z2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

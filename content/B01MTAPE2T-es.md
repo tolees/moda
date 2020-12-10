@@ -22,6 +22,9 @@ Tienes [Helly Hansen Crew Hooded Midlayer Chaqueta Deportiva  Hombre  Olympian B
 
 [![Helly Hansen Crew Hooded Midlayer Chaque](https://images-eu.ssl-images-amazon.com/images/I/41pPWvKTHaL._SL200_.jpg)](https://www.amazon.es/dp/B01MTAPE2T/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01MTAPE2T/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

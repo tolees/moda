@@ -22,6 +22,9 @@ Ahora mismo tienes [Springfield 6Fo-Biker Antelina  Chaqueta para Hombre   Azul 
 
 [![Springfield 6Fo-Biker Antelina  Chaqueta](https://images-eu.ssl-images-amazon.com/images/I/41serSUzZKL._SL200_.jpg)](https://www.amazon.es/dp/B07DLJXC4Q/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07DLJXC4Q/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

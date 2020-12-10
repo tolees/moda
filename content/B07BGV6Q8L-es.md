@@ -22,6 +22,9 @@ Tienes [BOODUN Guantes de Gimnasia para Mujeres con Envoltura para muñeca Larga
 
 [![BOODUN Guantes de Gimnasia para Mujeres ](https://images-eu.ssl-images-amazon.com/images/I/51D8PrTMk4L._SL200_.jpg)](https://www.amazon.es/dp/B07BGV6Q8L/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07BGV6Q8L/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

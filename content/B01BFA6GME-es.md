@@ -22,6 +22,9 @@ Está [HHG Vestido Largo Blanco S](https://www.amazon.es/dp/B01BFA6GME/?tag=tole
 
 [![HHG Vestido Largo Blanco S](https://images-eu.ssl-images-amazon.com/images/I/41lIx0OkVpL._SL200_.jpg)](https://www.amazon.es/dp/B01BFA6GME/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01BFA6GME/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

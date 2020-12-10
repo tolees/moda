@@ -22,6 +22,9 @@ Está [Tous BILLETERA M. K UNIQUE MARINO-MULTI](https://www.amazon.es/dp/B07NYB3
 
 [![Tous BILLETERA M. K UNIQUE MARINO-MULTI](https://images-eu.ssl-images-amazon.com/images/I/41OVLygOdUL._SL200_.jpg)](https://www.amazon.es/dp/B07NYB36CR/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07NYB36CR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

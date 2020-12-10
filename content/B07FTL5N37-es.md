@@ -22,6 +22,9 @@ Está [Lee Scarlett  Vaqueros skinny para MujerAzul  Dark Eve Wan ](https://www.
 
 [![Lee Scarlett  Vaqueros skinny para Mujer](https://images-eu.ssl-images-amazon.com/images/I/31iumS%2BjGML._SL200_.jpg)](https://www.amazon.es/dp/B07FTL5N37/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FTL5N37/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

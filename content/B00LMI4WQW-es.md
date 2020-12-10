@@ -22,6 +22,9 @@ Está [Quiksilver - Sandalias - Hombre - EU 47 - Negro](https://www.amazon.es/dp
 
 [![Quiksilver - Sandalias - Hombre - EU 47 ](https://images-eu.ssl-images-amazon.com/images/I/31tcZQfff5L._SL200_.jpg)](https://www.amazon.es/dp/B00LMI4WQW/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00LMI4WQW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

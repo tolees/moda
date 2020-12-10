@@ -22,6 +22,9 @@ Está [Tommy Jeans Hombre Ryan Original  Vaqueros straight  recta Azul  Rinse Co
 
 [![Tommy Jeans Hombre Ryan Original  Vaquer](https://images-eu.ssl-images-amazon.com/images/I/41l8NUFM5sL._SL200_.jpg)](https://www.amazon.es/dp/B07774RBQN/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07774RBQN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

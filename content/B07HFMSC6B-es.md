@@ -22,6 +22,9 @@ Está [Esprit 118ee1k025  Camisa Manga Larga para Mujer  Azul  Navy 400  Large](
 
 [![Esprit 118ee1k025  Camisa Manga Larga pa](https://images-eu.ssl-images-amazon.com/images/I/41Aet%2BWBgsL._SL200_.jpg)](https://www.amazon.es/dp/B07HFMSC6B/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07HFMSC6B/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

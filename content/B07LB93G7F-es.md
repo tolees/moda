@@ -22,6 +22,9 @@ Ahora mismo tienes [Love Moschino - Borsa Pu  Bolso de mano Mujer  Marfil  Avori
 
 [![Love Moschino - Borsa Pu  Bolso de mano ](https://images-eu.ssl-images-amazon.com/images/I/41zhSj1QBUL._SL200_.jpg)](https://www.amazon.es/dp/B07LB93G7F/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07LB93G7F/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

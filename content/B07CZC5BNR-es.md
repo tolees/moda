@@ -22,6 +22,9 @@ Tienes [Reef One Slide  Chanclas para Hombre  Azul  Navy/White Naw   37.5 EU](ht
 
 [![Reef One Slide  Chanclas para Hombre  Az](https://images-eu.ssl-images-amazon.com/images/I/31FkcfvM8iL._SL200_.jpg)](https://www.amazon.es/dp/B07CZC5BNR/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07CZC5BNR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

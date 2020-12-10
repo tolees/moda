@@ -22,6 +22,9 @@ Ahora mismo tienes [Geox D Avery a  Zapatillas para Mujer  Navy C4002  39 EU](ht
 
 [![Geox D Avery a  Zapatillas para Mujer  N](https://images-eu.ssl-images-amazon.com/images/I/41YdlbLjpFL._SL200_.jpg)](https://www.amazon.es/dp/B07DJ7H6N6/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07DJ7H6N6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

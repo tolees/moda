@@ -22,6 +22,9 @@ Está [Under Armour UA Heat Seeker  Zapatos de Baloncesto para Hombre  Negro  An
 
 [![Under Armour UA Heat Seeker  Zapatos de ](https://images-eu.ssl-images-amazon.com/images/I/51zIPWFowRL._SL200_.jpg)](https://www.amazon.es/dp/B071P2ZCK6/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B071P2ZCK6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

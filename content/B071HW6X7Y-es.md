@@ -22,6 +22,9 @@ Tienes [DoGeek Respirable Net Mules Unisex Playa Sandalias del Malla Zapatillas 
 
 [![DoGeek Respirable Net Mules Unisex Playa](https://images-eu.ssl-images-amazon.com/images/I/41TS0I7C0gL._SL200_.jpg)](https://www.amazon.es/dp/B071HW6X7Y/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B071HW6X7Y/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

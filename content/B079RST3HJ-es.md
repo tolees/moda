@@ -22,6 +22,9 @@ Está [Pepe Jeans Dani PL503849  Camiseta para Mujer  Gris  Grey Marl 933  Large
 
 [![Pepe Jeans Dani PL503849  Camiseta para ](https://images-eu.ssl-images-amazon.com/images/I/41W4KinZfaL._SL200_.jpg)](https://www.amazon.es/dp/B079RST3HJ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B079RST3HJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

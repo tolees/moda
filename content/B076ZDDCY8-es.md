@@ -22,6 +22,9 @@ Tienes [TRUTH & FABLE 13840 vestido fiesta mujer  Negro  Black   44  Talla del f
 
 [![TRUTH & FABLE 13840 vestido fiesta mujer](https://images-eu.ssl-images-amazon.com/images/I/315Yv3jUI5L._SL200_.jpg)](https://www.amazon.es/dp/B076ZDDCY8/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B076ZDDCY8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

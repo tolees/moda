@@ -22,6 +22,9 @@ Ahora mismo tienes [Redford Oslo  Camisa Hombre  Multicolor  camel navy   Tamañ
 
 [![Redford Oslo  Camisa Hombre  Multicolor ](https://images-eu.ssl-images-amazon.com/images/I/516Bxw4JPcL._SL200_.jpg)](https://www.amazon.es/dp/B01G5J08GU/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01G5J08GU/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

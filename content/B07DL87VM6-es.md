@@ -22,6 +22,9 @@ Está [Springfield INT. Real Down 3/4 Abrigo  Mujer   Varios 98   40  Tamaño de
 
 [![Springfield INT. Real Down 3/4 Abrigo  M](https://images-eu.ssl-images-amazon.com/images/I/41dfZguaw%2BL._SL200_.jpg)](https://www.amazon.es/dp/B07DL87VM6/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DL87VM6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

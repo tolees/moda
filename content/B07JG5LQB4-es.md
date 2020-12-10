@@ -22,6 +22,9 @@ Está [Timberland Surfer Bañador de natación  Negro  Black 09b   4 años  Tall
 
 [![Timberland Surfer Bañador de natación  N](https://images-eu.ssl-images-amazon.com/images/I/4116QgDasQL._SL200_.jpg)](https://www.amazon.es/dp/B07JG5LQB4/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07JG5LQB4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

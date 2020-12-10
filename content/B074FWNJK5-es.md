@@ -22,6 +22,9 @@ Está [FIND Sudadera con Capucha y Detalle Bordado para Hombre  Azul  Navy   Lar
 
 [![FIND Sudadera con Capucha y Detalle Bord](https://images-eu.ssl-images-amazon.com/images/I/41mGtYSxQ8L._SL200_.jpg)](https://www.amazon.es/dp/B074FWNJK5/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B074FWNJK5/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

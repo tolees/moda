@@ -22,6 +22,9 @@ Ahora mismo tienes [Pepe Jeans Cane  Vaqueros Slim para Hombre  Azul  11Oz Strea
 
 [![Pepe Jeans Cane  Vaqueros Slim para Homb](https://images-eu.ssl-images-amazon.com/images/I/41BkqQc9KbL._SL200_.jpg)](https://www.amazon.es/dp/B01M4OZYUD/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01M4OZYUD/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

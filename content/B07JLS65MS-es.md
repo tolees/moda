@@ -22,6 +22,9 @@ Tienes [XTI 32033  Zapatos con Tira de Tobillo para Mujer  Rosa Nude  39 EU](htt
 
 [![XTI 32033  Zapatos con Tira de Tobillo p]()](https://www.amazon.es/dp/B07JLS65MS/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07JLS65MS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

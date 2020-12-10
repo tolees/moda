@@ -22,6 +22,9 @@ Está [Geox D Tahina B  Zapatillas sin Cordones para Mujer   Black C9999   35 EU
 
 [![Geox D Tahina B  Zapatillas sin Cordones](https://images-eu.ssl-images-amazon.com/images/I/31Fi%2BQ8-ecL._SL200_.jpg)](https://www.amazon.es/dp/B07BNVDGFQ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07BNVDGFQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

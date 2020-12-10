@@ -22,6 +22,9 @@ Está [PIECES Pcmusthave 3/4 Top Noos Camisa Manga Larga  Rosa Evening Sand  40 
 
 [![PIECES Pcmusthave 3/4 Top Noos Camisa Ma](https://images-eu.ssl-images-amazon.com/images/I/413H%2BLhK1ML._SL200_.jpg)](https://www.amazon.es/dp/B076THTLXR/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B076THTLXR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

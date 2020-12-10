@@ -22,6 +22,9 @@ Tienes [Geox B Kilwi Girl B  Zapatillas para Bebés   Smoke Grey C9006   21 EU](
 
 [![Geox B Kilwi Girl B  Zapatillas para Beb](https://images-eu.ssl-images-amazon.com/images/I/51-p3MghMuL._SL200_.jpg)](https://www.amazon.es/dp/B0792J6RPH/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B0792J6RPH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

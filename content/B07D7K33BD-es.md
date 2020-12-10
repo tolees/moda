@@ -22,6 +22,9 @@ Ahora mismo tienes [Dolores Promesas 107411  Vestido para Mujer  Naranja Geom   
 
 [![Dolores Promesas 107411  Vestido para Mu](https://images-eu.ssl-images-amazon.com/images/I/41X0vw4DmUL._SL200_.jpg)](https://www.amazon.es/dp/B07D7K33BD/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07D7K33BD/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

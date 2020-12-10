@@ -22,6 +22,9 @@ Ahora mismo tienes [G-Star Raw 3301 Contour High Straight  Vaqueros para Mujer  
 
 [![G-Star Raw 3301 Contour High Straight  V](https://images-eu.ssl-images-amazon.com/images/I/41%2B9jYp1NBL._SL200_.jpg)](https://www.amazon.es/dp/B00VX2NSLM/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00VX2NSLM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

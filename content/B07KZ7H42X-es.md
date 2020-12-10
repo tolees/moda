@@ -22,6 +22,9 @@ Ahora mismo tienes [Cortefiel C7Cc Indigo T-BD Camisa Casual  Hombre  Azul  Azul
 
 [![Cortefiel C7Cc Indigo T-BD Camisa Casual](https://images-eu.ssl-images-amazon.com/images/I/41vvdq63P8L._SL200_.jpg)](https://www.amazon.es/dp/B07KZ7H42X/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07KZ7H42X/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

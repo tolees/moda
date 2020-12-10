@@ -22,6 +22,9 @@ Está [Fossil Collar con colgante Mujer acero inoxidable - JF02819040](https://w
 
 [![Fossil Collar con colgante Mujer acero i](https://images-eu.ssl-images-amazon.com/images/I/31ihwrZ2MdL._SL200_.jpg)](https://www.amazon.es/dp/B075DXMX4N/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B075DXMX4N/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

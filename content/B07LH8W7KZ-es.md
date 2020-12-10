@@ -22,6 +22,9 @@ Está [The North Face Ambition 1/4 Zip Midlayer Camiseta con Cremallera para Hom
 
 [![The North Face Ambition 1/4 Zip Midlayer](https://images-eu.ssl-images-amazon.com/images/I/41sgH80vZML._SL200_.jpg)](https://www.amazon.es/dp/B07LH8W7KZ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07LH8W7KZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Pepe Jeans Charing  Camiseta Hombre  Negro  Black   X-Large](https://www.
 
 [![Pepe Jeans Charing  Camiseta Hombre  Neg](https://images-eu.ssl-images-amazon.com/images/I/419nMNZtL6L._SL200_.jpg)](https://www.amazon.es/dp/B01H4YGM5Q/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01H4YGM5Q/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

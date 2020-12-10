@@ -22,6 +22,9 @@ Está [Geox J Sandal Karly Girl D  Sandalias con Punta Abierta para Niñas  Pink
 
 [![Geox J Sandal Karly Girl D  Sandalias co](https://images-eu.ssl-images-amazon.com/images/I/31OA3Ms%2BiyL._SL200_.jpg)](https://www.amazon.es/dp/B07DK5L7KN/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DK5L7KN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

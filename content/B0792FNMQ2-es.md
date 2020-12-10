@@ -22,6 +22,9 @@ Ahora mismo tienes [Geox D Annya High A  Zapatos de Tacón para Mujer   Black C9
 
 [![Geox D Annya High A  Zapatos de Tacón pa](https://images-eu.ssl-images-amazon.com/images/I/310pPGun2jL._SL200_.jpg)](https://www.amazon.es/dp/B0792FNMQ2/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B0792FNMQ2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

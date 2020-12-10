@@ -22,6 +22,9 @@ Está [JACK & JONES PREMIUM Jprbront BLU. tee SS Crew Neck  Camiseta Hombre   Du
 
 [![JACK & JONES PREMIUM Jprbront BLU. tee S](https://images-eu.ssl-images-amazon.com/images/I/41JPaddPbOL._SL200_.jpg)](https://www.amazon.es/dp/B07G3WXMG3/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07G3WXMG3/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

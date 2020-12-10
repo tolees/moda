@@ -22,6 +22,9 @@ Está [REPLAY Katewin Pantalones Vaqueros Delgados  Azul  Denim 9   W26/L28  Tal
 
 [![REPLAY Katewin Pantalones Vaqueros Delga](https://images-eu.ssl-images-amazon.com/images/I/41q67Q48cbL._SL200_.jpg)](https://www.amazon.es/dp/B071CNVG68/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B071CNVG68/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

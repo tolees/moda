@@ -22,6 +22,9 @@ Tienes [Swarovski Collar Dear  Mediano  Blanco  baño de Oro Rosa](https://www.a
 
 [![Swarovski Collar Dear  Mediano  Blanco  ](https://images-eu.ssl-images-amazon.com/images/I/31YTdjRBK3L._SL200_.jpg)](https://www.amazon.es/dp/B0751C5SQS/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B0751C5SQS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

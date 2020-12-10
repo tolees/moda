@@ -22,6 +22,9 @@ Tienes [Springfield 5 Pack Negros Bóxer  Hombre  Negro  Negro 1   Large  Tamañ
 
 [![Springfield 5 Pack Negros Bóxer  Hombre ](https://images-eu.ssl-images-amazon.com/images/I/51MlrZD%2BYXL._SL200_.jpg)](https://www.amazon.es/dp/B07KZ1V1VK/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07KZ1V1VK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

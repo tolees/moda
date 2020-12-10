@@ -22,6 +22,9 @@ Ahora mismo tienes [Lee Rider Vaqueros Slim  Negro  Black Worn Xz   W38/L36 para
 
 [![Lee Rider Vaqueros Slim  Negro  Black Wo](https://images-eu.ssl-images-amazon.com/images/I/41Wpo8dCE3L._SL200_.jpg)](https://www.amazon.es/dp/B079PBL1TG/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B079PBL1TG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

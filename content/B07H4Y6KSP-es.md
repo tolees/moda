@@ -22,6 +22,9 @@ Ahora mismo tienes [Liu Jo Dress Stripes and Lace  Vestido para Mujer  Multicolo
 
 [![Liu Jo Dress Stripes and Lace  Vestido p](https://images-eu.ssl-images-amazon.com/images/I/41ImbkRKG8L._SL200_.jpg)](https://www.amazon.es/dp/B07H4Y6KSP/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07H4Y6KSP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Helly Hansen HH Classic Wash Bag Organizador de Bolso  Unisex Adultos  B
 
 [![Helly Hansen HH Classic Wash Bag Organiz](https://images-eu.ssl-images-amazon.com/images/I/41vlMi7F2-L._SL200_.jpg)](https://www.amazon.es/dp/B073RPQXX2/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B073RPQXX2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

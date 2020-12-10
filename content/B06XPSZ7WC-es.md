@@ -22,6 +22,9 @@ Está [Desigual TS_shasa  Camiseta para Mujer  Blanco  Crudo 1001  X-Small](http
 
 [![Desigual TS_shasa  Camiseta para Mujer  ](https://images-eu.ssl-images-amazon.com/images/I/41xHOFF2VyL._SL200_.jpg)](https://www.amazon.es/dp/B06XPSZ7WC/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B06XPSZ7WC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

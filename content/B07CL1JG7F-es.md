@@ -22,6 +22,9 @@ Tienes [ONLY Onlnew Sissi Reg Strt Ank Jeans Cre8679  Vaqueros evasé Mujer  Azu
 
 [![ONLY Onlnew Sissi Reg Strt Ank Jeans Cre](https://images-eu.ssl-images-amazon.com/images/I/413feJUow6L._SL200_.jpg)](https://www.amazon.es/dp/B07CL1JG7F/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07CL1JG7F/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

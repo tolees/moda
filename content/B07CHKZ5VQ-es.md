@@ -22,6 +22,9 @@ Tienes [BOSS Mypop Camisa Blanco  White 100  Medium para Hombre](https://www.ama
 
 [![BOSS Mypop Camisa Blanco  White 100  Med](https://images-eu.ssl-images-amazon.com/images/I/41533etMYXL._SL200_.jpg)](https://www.amazon.es/dp/B07CHKZ5VQ/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07CHKZ5VQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

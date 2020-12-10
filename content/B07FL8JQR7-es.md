@@ -22,6 +22,9 @@ Está [Superdry Padded Elite Windcheater  Chaqueta Deportiva para Hombre  Negro 
 
 [![Superdry Padded Elite Windcheater  Chaqu](https://images-eu.ssl-images-amazon.com/images/I/316MlX1sQRL._SL200_.jpg)](https://www.amazon.es/dp/B07FL8JQR7/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FL8JQR7/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [BRONAX Zapatillas Hombres Deporte Running Zapatos para Correr Gimnasio Sn
 
 [![BRONAX Zapatillas Hombres Deporte Runnin](https://images-eu.ssl-images-amazon.com/images/I/51idJZ3%2BJpL._SL200_.jpg)](https://www.amazon.es/dp/B07QSD7YM8/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07QSD7YM8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

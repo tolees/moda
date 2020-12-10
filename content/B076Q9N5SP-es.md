@@ -22,6 +22,9 @@ Tienes [Armani Exchange 8nyj01 Vaqueros Skinny  Azul  Indigo Denim 1500   W29/L3
 
 [![Armani Exchange 8nyj01 Vaqueros Skinny  ](https://images-eu.ssl-images-amazon.com/images/I/41t1Wxsx0bL._SL200_.jpg)](https://www.amazon.es/dp/B076Q9N5SP/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B076Q9N5SP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

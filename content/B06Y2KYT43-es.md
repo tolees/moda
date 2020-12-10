@@ -22,6 +22,9 @@ Tienes [Geox Jr Sofia H  Botas para Niñas  Negro  Black   40 EU](https://www.am
 
 [![Geox Jr Sofia H  Botas para Niñas  Negro](https://images-eu.ssl-images-amazon.com/images/I/41%2BE08Rd87L._SL200_.jpg)](https://www.amazon.es/dp/B06Y2KYT43/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B06Y2KYT43/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Nike Training Bib Camiseta  Hombre  Rosa/Negro  Vivid Pink/Black   S/M](h
 
 [![Nike Training Bib Camiseta  Hombre  Rosa](https://images-eu.ssl-images-amazon.com/images/I/41WAA0So8vL._SL200_.jpg)](https://www.amazon.es/dp/B01AC6IDO6/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01AC6IDO6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

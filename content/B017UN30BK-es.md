@@ -22,6 +22,9 @@ Ahora mismo tienes [Calvin Klein JeansVIGGO HEAVY CANVAS - Zapatos de playa y pi
 
 [![Calvin Klein JeansVIGGO HEAVY CANVAS - Z](https://images-eu.ssl-images-amazon.com/images/I/31IQHUa2nSL._SL200_.jpg)](https://www.amazon.es/dp/B017UN30BK/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B017UN30BK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

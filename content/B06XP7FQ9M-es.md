@@ -22,6 +22,9 @@ Está [Pepe Jeans Cane  Vaqueros Slim para Hombre  Azul  Dark Used Cb5   W31/L32
 
 [![Pepe Jeans Cane  Vaqueros Slim para Homb](https://images-eu.ssl-images-amazon.com/images/I/41NHN9b12pL._SL200_.jpg)](https://www.amazon.es/dp/B06XP7FQ9M/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B06XP7FQ9M/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

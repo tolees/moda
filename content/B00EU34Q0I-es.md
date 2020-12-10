@@ -22,6 +22,9 @@ Está [Tuscany Silver 8.14.7156 - Collar de plata de ley  925/1000   sin gema](h
 
 [![Tuscany Silver 8.14.7156 - Collar de pla](https://images-eu.ssl-images-amazon.com/images/I/21IxVsmwBLL._SL200_.jpg)](https://www.amazon.es/dp/B00EU34Q0I/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00EU34Q0I/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

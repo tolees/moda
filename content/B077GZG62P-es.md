@@ -22,6 +22,9 @@ Está [Dickies Pensacola Vaqueros Relaxed  Hombre  Gris  Mid Gray MDG    Tamaño
 
 [![Dickies Pensacola Vaqueros Relaxed  Homb](https://images-eu.ssl-images-amazon.com/images/I/41VU27sh1fL._SL200_.jpg)](https://www.amazon.es/dp/B077GZG62P/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B077GZG62P/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

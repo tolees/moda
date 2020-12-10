@@ -22,6 +22,9 @@ Tienes [PUMA Liga Sideline Jacket Jr Camiseta de equipación  Unisex niños  Neg
 
 [![PUMA Liga Sideline Jacket Jr Camiseta de](https://images-eu.ssl-images-amazon.com/images/I/31OEBPqzNbL._SL200_.jpg)](https://www.amazon.es/dp/B078WGP9KC/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B078WGP9KC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

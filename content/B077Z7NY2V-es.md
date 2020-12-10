@@ -22,6 +22,9 @@ Ahora mismo tienes [HIKARO Camiseta con Botones Hombre  Rojo  Burgundy   52  Tal
 
 [![HIKARO Camiseta con Botones Hombre  Rojo](https://images-eu.ssl-images-amazon.com/images/I/41mJmK6An1L._SL200_.jpg)](https://www.amazon.es/dp/B077Z7NY2V/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B077Z7NY2V/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

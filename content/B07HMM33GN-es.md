@@ -22,6 +22,9 @@ Está [Mont Blanc Hombre Sunglasses Mb719S 56N-56-17-145 Gafas de sol  Marrón  
 
 [![Mont Blanc Hombre Sunglasses Mb719S 56N-](https://images-eu.ssl-images-amazon.com/images/I/31taGxRW-GL._SL200_.jpg)](https://www.amazon.es/dp/B07HMM33GN/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07HMM33GN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

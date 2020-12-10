@@ -22,6 +22,9 @@ Está [Gant 3-Pack Trunk  Camiseta sin Mangas para Hombre  105  XXX-Large](https
 
 [![Gant 3-Pack Trunk  Camiseta sin Mangas p](https://images-eu.ssl-images-amazon.com/images/I/41vGeg4bkeL._SL200_.jpg)](https://www.amazon.es/dp/B016ALT9E0/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B016ALT9E0/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

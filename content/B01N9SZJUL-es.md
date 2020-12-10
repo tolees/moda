@@ -22,6 +22,9 @@ Está [Only Onlfelia S/s Dress Box ESS  Vestido Mujer   Cloud Dancer Stripes:Bla
 
 [![Only Onlfelia S/s Dress Box ESS  Vestido](https://images-eu.ssl-images-amazon.com/images/I/41FPIBTyVNL._SL200_.jpg)](https://www.amazon.es/dp/B01N9SZJUL/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01N9SZJUL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

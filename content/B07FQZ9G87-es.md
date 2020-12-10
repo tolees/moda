@@ -22,6 +22,9 @@ Está [JACK & JONES Jjespace Sweat Zip Hood Noos Sudadera  Azul  True Navy Detai
 
 [![JACK & JONES Jjespace Sweat Zip Hood Noo](https://images-eu.ssl-images-amazon.com/images/I/41S7SvyoroL._SL200_.jpg)](https://www.amazon.es/dp/B07FQZ9G87/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FQZ9G87/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

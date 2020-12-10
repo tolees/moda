@@ -22,6 +22,9 @@ Está [The North Face Quest Chaqueta  Hombre  Mid Grey Black Heather  2XL](https
 
 [![The North Face Quest Chaqueta  Hombre  M](https://images-eu.ssl-images-amazon.com/images/I/31RDxoguwSL._SL200_.jpg)](https://www.amazon.es/dp/B07M8XW4LB/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07M8XW4LB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

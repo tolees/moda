@@ -22,6 +22,9 @@ Tienes [Cortefiel 2273292  Camisa de Manga Corta para Hombre  Multicolor  Gama A
 
 [![Cortefiel 2273292  Camisa de Manga Corta](https://images-eu.ssl-images-amazon.com/images/I/41ZzefplEaL._SL200_.jpg)](https://www.amazon.es/dp/B078WV9DHM/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B078WV9DHM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

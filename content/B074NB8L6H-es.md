@@ -22,6 +22,9 @@ Está [edc by Esprit 107cc1b008  Vaqueros Skinny Mujer  Gris  Grey Dark Wash 921
 
 [![edc by Esprit 107cc1b008  Vaqueros Skinn](https://images-eu.ssl-images-amazon.com/images/I/41VO1luWDQL._SL200_.jpg)](https://www.amazon.es/dp/B074NB8L6H/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B074NB8L6H/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

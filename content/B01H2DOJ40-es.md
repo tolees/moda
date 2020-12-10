@@ -22,6 +22,9 @@ Está [Desires Chaqueta Negro XS](https://www.amazon.es/dp/B01H2DOJ40/?tag=tolee
 
 [![Desires Chaqueta Negro XS](https://images-eu.ssl-images-amazon.com/images/I/31Fc-Jpgs1L._SL200_.jpg)](https://www.amazon.es/dp/B01H2DOJ40/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01H2DOJ40/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

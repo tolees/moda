@@ -22,6 +22,9 @@ Está [The North Face SS Raglan Easy tee Camiseta  Hombre  Rojo  Fiery Red   S](
 
 [![The North Face SS Raglan Easy tee Camise](https://images-eu.ssl-images-amazon.com/images/I/41xoSlF6wfL._SL200_.jpg)](https://www.amazon.es/dp/B07M8H1FMF/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07M8H1FMF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

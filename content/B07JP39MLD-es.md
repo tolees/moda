@@ -22,6 +22,9 @@ Está [G-STAR RAW Mujer Lynn Mid Skinny Wmn New Vaqueros skinny Not Applicable  
 
 [![G-STAR RAW Mujer Lynn Mid Skinny Wmn New](https://images-eu.ssl-images-amazon.com/images/I/31Fe70OooqL._SL200_.jpg)](https://www.amazon.es/dp/B07JP39MLD/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07JP39MLD/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

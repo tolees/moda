@@ -22,6 +22,9 @@ Ahora mismo tienes [Wrangler ARIZONA-W12OHY32D Vaqueros  Azul  Broke Blue 32D   
 
 [![Wrangler ARIZONA-W12OHY32D Vaqueros  Azu](https://images-eu.ssl-images-amazon.com/images/I/41HpoD%2By6iL._SL200_.jpg)](https://www.amazon.es/dp/B079VWC37R/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B079VWC37R/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

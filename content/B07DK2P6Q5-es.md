@@ -22,6 +22,9 @@ Ahora mismo tienes [Geox B Kaytan B  Sandalias para Bebés  Blanco  White/Navy C
 
 [![Geox B Kaytan B  Sandalias para Bebés  B](https://images-eu.ssl-images-amazon.com/images/I/41c%2Bt5DMTML._SL200_.jpg)](https://www.amazon.es/dp/B07DK2P6Q5/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07DK2P6Q5/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

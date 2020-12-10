@@ -22,6 +22,9 @@ Está [Dorothy Perkins Amber  Zapatos de tacón con Punta Cerrada para Mujer  Gr
 
 [![Dorothy Perkins Amber  Zapatos de tacón ](https://images-eu.ssl-images-amazon.com/images/I/31sm3bY4XVL._SL200_.jpg)](https://www.amazon.es/dp/B07GBFX1L5/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07GBFX1L5/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

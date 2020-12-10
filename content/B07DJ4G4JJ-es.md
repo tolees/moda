@@ -22,6 +22,9 @@ Tienes [Vero Moda Vmbrilliant LS V-Neck Blouse Noos suéter  Negro  Black Detail
 
 [![Vero Moda Vmbrilliant LS V-Neck Blouse N](https://images-eu.ssl-images-amazon.com/images/I/41VlJp8rPZL._SL200_.jpg)](https://www.amazon.es/dp/B07DJ4G4JJ/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07DJ4G4JJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

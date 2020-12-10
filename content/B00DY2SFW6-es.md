@@ -22,6 +22,9 @@ Ahora mismo tienes [Geox Snake K  Zapatillas para Hombre  Gris  Dark Grey/Off Wh
 
 [![Geox Snake K  Zapatillas para Hombre  Gr](https://images-eu.ssl-images-amazon.com/images/I/41PXiqLGHDL._SL200_.jpg)](https://www.amazon.es/dp/B00DY2SFW6/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00DY2SFW6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

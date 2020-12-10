@@ -22,6 +22,9 @@ Está [Levi s 310 Shaping Super Skinny  Vaqueros Skinny para Mujer  Azul  Ivy Le
 
 [![Levi s 310 Shaping Super Skinny  Vaquero](https://images-eu.ssl-images-amazon.com/images/I/41cVSdcF-IL._SL200_.jpg)](https://www.amazon.es/dp/B07K6Y1FJ2/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07K6Y1FJ2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

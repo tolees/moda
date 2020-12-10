@@ -22,6 +22,9 @@ Está [JACK & JONES Jjitom Jjoriginal Jos 774 50sps Ltd  Vaqueros Skinny Hombre 
 
 [![JACK & JONES Jjitom Jjoriginal Jos 774 5](https://images-eu.ssl-images-amazon.com/images/I/419P9VZUc4L._SL200_.jpg)](https://www.amazon.es/dp/B07FPNK1C5/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FPNK1C5/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

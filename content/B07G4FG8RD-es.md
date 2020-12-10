@@ -22,6 +22,9 @@ Está [Boss Trunk Microprint  Bóxer para Hombre  Azul  Dark Blue 406  Medium](h
 
 [![Boss Trunk Microprint  Bóxer para Hombre](https://images-eu.ssl-images-amazon.com/images/I/41KFlfahvIL._SL200_.jpg)](https://www.amazon.es/dp/B07G4FG8RD/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07G4FG8RD/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

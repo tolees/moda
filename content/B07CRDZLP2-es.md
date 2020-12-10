@@ -22,6 +22,9 @@ Tienes [Pepe Jeans West Sir  Camiseta para Hombre    Steel Blue 563  X-Large](ht
 
 [![Pepe Jeans West Sir  Camiseta para Hombr](https://images-eu.ssl-images-amazon.com/images/I/31d1FeulqeL._SL200_.jpg)](https://www.amazon.es/dp/B07CRDZLP2/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07CRDZLP2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

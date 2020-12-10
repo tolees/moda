@@ -22,6 +22,9 @@ Ahora mismo tienes [Under Armour UA BGS Torch Mid  Zapatos de Baloncesto para Ni
 
 [![Under Armour UA BGS Torch Mid  Zapatos d](https://images-eu.ssl-images-amazon.com/images/I/51eSp5IpC6L._SL200_.jpg)](https://www.amazon.es/dp/B076ZPNR13/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B076ZPNR13/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

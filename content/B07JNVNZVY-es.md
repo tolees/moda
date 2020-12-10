@@ -22,6 +22,9 @@ Está [ZADIG&VOLTAIRE Robe Vestido   Bleu ROI 865   4 años  Talla del Fabricant
 
 [![ZADIG&VOLTAIRE Robe Vestido   Bleu ROI 8](https://images-eu.ssl-images-amazon.com/images/I/31kkw1Cy75L._SL200_.jpg)](https://www.amazon.es/dp/B07JNVNZVY/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07JNVNZVY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

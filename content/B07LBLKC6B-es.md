@@ -22,6 +22,9 @@ Está [Tommy Jeans TJM Tape Hoodie Sudadera con Capucha  Blanco  Classic White 1
 
 [![Tommy Jeans TJM Tape Hoodie Sudadera con](https://images-eu.ssl-images-amazon.com/images/I/31lR-80YMjL._SL200_.jpg)](https://www.amazon.es/dp/B07LBLKC6B/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07LBLKC6B/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

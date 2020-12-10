@@ -22,6 +22,9 @@ Ahora mismo tienes [The North Face Y Jkt Chaqueta Infantil Snowquest Plus  Unise
 
 [![The North Face Y Jkt Chaqueta Infantil S](https://images-eu.ssl-images-amazon.com/images/I/410fhI05e3L._SL200_.jpg)](https://www.amazon.es/dp/B07BB4CCXN/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07BB4CCXN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

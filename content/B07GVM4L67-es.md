@@ -22,6 +22,9 @@ Tienes [JACK & JONES Jorshakedowns Sweat Zip Hood  Sudadera para Hombre  Azul  T
 
 [![JACK & JONES Jorshakedowns Sweat Zip Hoo](https://images-eu.ssl-images-amazon.com/images/I/41LtTNTyHkL._SL200_.jpg)](https://www.amazon.es/dp/B07GVM4L67/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07GVM4L67/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

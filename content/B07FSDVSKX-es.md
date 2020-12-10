@@ -22,6 +22,9 @@ Está [Clarks Funny Dream  Zapatos de Cordones Derby para Mujer  Rojo  Raspberry
 
 [![Clarks Funny Dream  Zapatos de Cordones ](https://images-eu.ssl-images-amazon.com/images/I/41GR8b4gMeL._SL200_.jpg)](https://www.amazon.es/dp/B07FSDVSKX/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FSDVSKX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

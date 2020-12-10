@@ -22,6 +22,9 @@ Ahora mismo tienes [Levi s Slim 2 Pack Crew tee Camiseta   Fig Purple/Dress Blue
 
 [![Levi s Slim 2 Pack Crew tee Camiseta   F](https://images-eu.ssl-images-amazon.com/images/I/316a9uGV97L._SL200_.jpg)](https://www.amazon.es/dp/B07DVLHB76/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07DVLHB76/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

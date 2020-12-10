@@ -22,6 +22,9 @@ Ahora mismo tienes [Puma Leadcat Suede  Zapatos de Playa y Piscina Unisex Adulto
 
 [![Puma Leadcat Suede  Zapatos de Playa y P](https://images-eu.ssl-images-amazon.com/images/I/41SCBicxs0L._SL200_.jpg)](https://www.amazon.es/dp/B077MQ6FHH/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B077MQ6FHH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

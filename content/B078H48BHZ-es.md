@@ -22,6 +22,9 @@ Tienes [ESPRIT Collection 038eo1e031  Vestido de Fiesta para Mujer  Rosa  Pink F
 
 [![ESPRIT Collection 038eo1e031  Vestido de](https://images-eu.ssl-images-amazon.com/images/I/31ROgCtzz6L._SL200_.jpg)](https://www.amazon.es/dp/B078H48BHZ/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B078H48BHZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

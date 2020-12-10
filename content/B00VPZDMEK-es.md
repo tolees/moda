@@ -22,6 +22,9 @@ Tienes [Puma Bodywear Stripe 15 - Bóxer para hombre  pack de 2   Verde  Green/G
 
 [![Puma Bodywear Stripe 15 - Bóxer para hom](https://images-eu.ssl-images-amazon.com/images/I/41TL-eC4bFL._SL200_.jpg)](https://www.amazon.es/dp/B00VPZDMEK/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00VPZDMEK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Geox J Borealis Boy B  Sandalias Punta Cerrada para Niños  Navy/Red C07
 
 [![Geox J Borealis Boy B  Sandalias Punta C](https://images-eu.ssl-images-amazon.com/images/I/41wJdhO%2BOJL._SL200_.jpg)](https://www.amazon.es/dp/B07DK5HZNF/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07DK5HZNF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

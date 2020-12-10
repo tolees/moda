@@ -22,6 +22,9 @@ Está [STEVE MADDEN DONDDI - Sandalias clásicas para Mujer  Color Black/White  
 
 [![STEVE MADDEN DONDDI - Sandalias clásicas](https://images-eu.ssl-images-amazon.com/images/I/41USsVh4ArL._SL200_.jpg)](https://www.amazon.es/dp/B00MR1JC0Y/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00MR1JC0Y/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [XTI 86112  Bolso Bolera para Mujer   Blanco   17x13x8 cm  W x H x L ](ht
 
 [![XTI 86112  Bolso Bolera para Mujer   Bla](https://images-eu.ssl-images-amazon.com/images/I/41lxCqsL04L._SL200_.jpg)](https://www.amazon.es/dp/B07JKVWQF5/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07JKVWQF5/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

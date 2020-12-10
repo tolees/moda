@@ -22,6 +22,9 @@ Está [Tommy Jeans TJM Circle Graphic tee Camiseta  Verde  Dynasty Green 399   M
 
 [![Tommy Jeans TJM Circle Graphic tee Camis](https://images-eu.ssl-images-amazon.com/images/I/41e7mqafhoL._SL200_.jpg)](https://www.amazon.es/dp/B07LBB8GV4/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07LBB8GV4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

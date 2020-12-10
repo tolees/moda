@@ -22,6 +22,9 @@ Tienes [G-STAR RAW 3301 Slim Vaqueros  Azul  Medium Aged 7890-071   25W / 30L pa
 
 [![G-STAR RAW 3301 Slim Vaqueros  Azul  Med](https://images-eu.ssl-images-amazon.com/images/I/41QtfdxG0AL._SL200_.jpg)](https://www.amazon.es/dp/B01BGTIN98/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01BGTIN98/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [XTI 32035  Zapatos con Tira de Tobillo para Mujer  Azul Navy  38 EU](htt
 
 [![XTI 32035  Zapatos con Tira de Tobillo p](https://images-eu.ssl-images-amazon.com/images/I/41ZlA12PZNL._SL200_.jpg)](https://www.amazon.es/dp/B07JMQ35XQ/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07JMQ35XQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

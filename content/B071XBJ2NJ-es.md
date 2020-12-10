@@ -22,6 +22,9 @@ Está [Volcom Wenson Chaqueta  Hombre  Cobre  M](https://www.amazon.es/dp/B071XB
 
 [![Volcom Wenson Chaqueta  Hombre  Cobre  M](https://images-eu.ssl-images-amazon.com/images/I/41v%2BUkbr%2BoL._SL200_.jpg)](https://www.amazon.es/dp/B071XBJ2NJ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B071XBJ2NJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

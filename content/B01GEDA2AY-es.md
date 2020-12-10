@@ -22,6 +22,9 @@ Tienes [Black Crevice Abrigo Corto Verde ES 38  DE 36 ](https://www.amazon.es/dp
 
 [![Black Crevice Abrigo Corto Verde ES 38  ](https://images-eu.ssl-images-amazon.com/images/I/41itOr1FPYL._SL200_.jpg)](https://www.amazon.es/dp/B01GEDA2AY/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01GEDA2AY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

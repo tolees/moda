@@ -22,6 +22,9 @@ Está [Clarks Kendra Sienna  Zapatos de Tacón para Mujer  Gris  Grey   36 EU](h
 
 [![Clarks Kendra Sienna  Zapatos de Tacón p](https://images-eu.ssl-images-amazon.com/images/I/51af8ZrpXZL._SL200_.jpg)](https://www.amazon.es/dp/B01K9JMSKQ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01K9JMSKQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

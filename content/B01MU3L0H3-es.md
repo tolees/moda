@@ -22,6 +22,9 @@ Está [RED WAGON Conjunto de Pijama de Pantalón Corto para Niño  Blanco  White
 
 [![RED WAGON Conjunto de Pijama de Pantalón](https://images-eu.ssl-images-amazon.com/images/I/51GRpQ9bXkL._SL200_.jpg)](https://www.amazon.es/dp/B01MU3L0H3/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01MU3L0H3/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Tommy Jeans Hombre  Tapered Steve  Vaqueros slim  Ajustada Azul  Berry Mi
 
 [![Tommy Jeans Hombre  Tapered Steve  Vaque](https://images-eu.ssl-images-amazon.com/images/I/412r%2BjR%2BmvL._SL200_.jpg)](https://www.amazon.es/dp/B0776X8DLQ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0776X8DLQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

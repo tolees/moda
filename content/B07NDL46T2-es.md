@@ -22,6 +22,9 @@ Está [Pepe Jeans Regent Vaqueros Pitillo Hombre  Azul  Light Used Denim Md9   W
 
 [![Pepe Jeans Regent Vaqueros Pitillo Hombr](https://images-eu.ssl-images-amazon.com/images/I/411072hQ9nL._SL200_.jpg)](https://www.amazon.es/dp/B07NDL46T2/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07NDL46T2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

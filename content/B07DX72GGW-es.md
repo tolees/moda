@@ -22,6 +22,9 @@ Está [Puma ESS tee Camiseta  Hombre  Verde  Laurel Wreath Heather   L](https://
 
 [![Puma ESS tee Camiseta  Hombre  Verde  La](https://images-eu.ssl-images-amazon.com/images/I/41X1MTgMWSL._SL200_.jpg)](https://www.amazon.es/dp/B07DX72GGW/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DX72GGW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

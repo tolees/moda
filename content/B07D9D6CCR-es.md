@@ -22,6 +22,9 @@ Está [XTI 48433  Botines para Mujer  Marrón Camel  36 EU](https://www.amazon.e
 
 [![XTI 48433  Botines para Mujer  Marrón Ca](https://images-eu.ssl-images-amazon.com/images/I/415K7zWq2lL._SL200_.jpg)](https://www.amazon.es/dp/B07D9D6CCR/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07D9D6CCR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

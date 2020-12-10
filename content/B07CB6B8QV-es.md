@@ -22,6 +22,9 @@ Tienes [Eferri 0JV5919  Bolso bandolera para Mujer  Marrón  Camel   16x5.5x20.5
 
 [![Eferri 0JV5919  Bolso bandolera para Muj](https://images-eu.ssl-images-amazon.com/images/I/51SvZtSvmXL._SL200_.jpg)](https://www.amazon.es/dp/B07CB6B8QV/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07CB6B8QV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

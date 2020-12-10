@@ -22,6 +22,9 @@ Ahora mismo tienes [Tbest Kit de Chaleco Táctico para Niños para Nerf Gun N-St
 
 [![Tbest Kit de Chaleco Táctico para Niños ](https://images-eu.ssl-images-amazon.com/images/I/61CixIbz8IL._SL200_.jpg)](https://www.amazon.es/dp/B07JB7YV66/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07JB7YV66/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

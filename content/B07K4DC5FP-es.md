@@ -22,6 +22,9 @@ Está [Tom Tailor Casual 1007929 Camisa  Azul  Navy Aral Blue Glenc 15766   X-La
 
 [![Tom Tailor Casual 1007929 Camisa  Azul  ](https://images-eu.ssl-images-amazon.com/images/I/41tXcrFS67L._SL200_.jpg)](https://www.amazon.es/dp/B07K4DC5FP/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07K4DC5FP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

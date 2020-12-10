@@ -22,6 +22,9 @@ Está [SELECTED HOMME Shdonevictor Shirt LS Noos Camisa  Blanco  Bright White   
 
 [![SELECTED HOMME Shdonevictor Shirt LS Noo](https://images-eu.ssl-images-amazon.com/images/I/31ry8MY%2BHlL._SL200_.jpg)](https://www.amazon.es/dp/B071H5B9JR/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B071H5B9JR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

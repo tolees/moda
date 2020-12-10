@@ -22,6 +22,9 @@ Ahora mismo tienes [Lee Scarlett  Vaqueros Skinny para Mujer  Gris  Grey Raw WH 
 
 [![Lee Scarlett  Vaqueros Skinny para Mujer](https://images-eu.ssl-images-amazon.com/images/I/41gukNeX%2B8L._SL200_.jpg)](https://www.amazon.es/dp/B079Q97QNG/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B079Q97QNG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

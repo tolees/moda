@@ -22,6 +22,9 @@ Está [Bellfield Jersey Gris S](https://www.amazon.es/dp/B01MRL3FGS/?tag=tolees-
 
 [![Bellfield Jersey Gris S](https://images-eu.ssl-images-amazon.com/images/I/41r-y3cWiwL._SL200_.jpg)](https://www.amazon.es/dp/B01MRL3FGS/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01MRL3FGS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Nebulus Jersey Cuello Alto Himal Azul Marino/Blanco L](https
 
 [![Nebulus Jersey Cuello Alto Himal Azul Ma](https://images-eu.ssl-images-amazon.com/images/I/51RONm038hL._SL200_.jpg)](https://www.amazon.es/dp/B01M076RTN/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01M076RTN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

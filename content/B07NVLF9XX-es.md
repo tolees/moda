@@ -22,6 +22,9 @@ Está [GRACE KARIN Falda Plisada Estampada de Años 50 Falda Vintage Floral para
 
 [![GRACE KARIN Falda Plisada Estampada de A](https://images-eu.ssl-images-amazon.com/images/I/51fMvTpsr1L._SL200_.jpg)](https://www.amazon.es/dp/B07NVLF9XX/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07NVLF9XX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Esprit 028ee1j002 Sudadera   Light Grey 5 044   Medium para Mujer](https
 
 [![Esprit 028ee1j002 Sudadera   Light Grey ](https://images-eu.ssl-images-amazon.com/images/I/41DkF0LQMWL._SL200_.jpg)](https://www.amazon.es/dp/B0784NDGB5/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B0784NDGB5/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

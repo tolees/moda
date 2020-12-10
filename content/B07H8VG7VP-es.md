@@ -22,6 +22,9 @@ Está [New Look All Over Animal Windbreaker Chaqueta  Rojo  Red Pattern   40  Ta
 
 [![New Look All Over Animal Windbreaker Cha](https://images-eu.ssl-images-amazon.com/images/I/511Q3jpxIgL._SL200_.jpg)](https://www.amazon.es/dp/B07H8VG7VP/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07H8VG7VP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

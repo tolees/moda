@@ -22,6 +22,9 @@ Ahora mismo tienes [XTI 48375  Botines para Mujer  Negro  Black   39 EU](https:/
 
 [![XTI 48375  Botines para Mujer  Negro  Bl](https://images-eu.ssl-images-amazon.com/images/I/41S31DGOaPL._SL200_.jpg)](https://www.amazon.es/dp/B07D97KD6V/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07D97KD6V/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

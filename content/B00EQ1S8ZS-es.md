@@ -22,6 +22,9 @@ Tienes [Kipling Sevrine  Bolso bandolera para Mujer  Negro  Black   11.5x32x22.5
 
 [![Kipling Sevrine  Bolso bandolera para Mu](https://images-eu.ssl-images-amazon.com/images/I/41cURWamNKL._SL200_.jpg)](https://www.amazon.es/dp/B00EQ1S8ZS/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00EQ1S8ZS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

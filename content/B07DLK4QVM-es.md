@@ -22,6 +22,9 @@ Ahora mismo tienes [Springfield 4.T.BS.Jegging Basic Vaqueros Straight  Negro 1 
 
 [![Springfield 4.T.BS.Jegging Basic Vaquero](https://images-eu.ssl-images-amazon.com/images/I/31z-psBmfoL._SL200_.jpg)](https://www.amazon.es/dp/B07DLK4QVM/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07DLK4QVM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [TRUTH & FABLE ACB042 vestido dama de honor mujer  Multicolor  Red   40  T
 
 [![TRUTH & FABLE ACB042 vestido dama de hon](https://images-eu.ssl-images-amazon.com/images/I/41nozAFtL5L._SL200_.jpg)](https://www.amazon.es/dp/B077G2LGRC/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B077G2LGRC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

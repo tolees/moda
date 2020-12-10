@@ -22,6 +22,9 @@ Tienes [Nike Park VI Camiseta de Manga Corta para hombre  Negro  Black/White   2
 
 [![Nike Park VI Camiseta de Manga Corta par](https://images-eu.ssl-images-amazon.com/images/I/41egExLNswL._SL200_.jpg)](https://www.amazon.es/dp/B01AC6PB5U/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01AC6PB5U/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

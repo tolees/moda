@@ -22,6 +22,9 @@ Está [FIND Sudadera con Capucha y Cremallera Hombre  Gris  Grau   52  Talla del
 
 [![FIND Sudadera con Capucha y Cremallera H](https://images-eu.ssl-images-amazon.com/images/I/51-ksjnve%2BL._SL200_.jpg)](https://www.amazon.es/dp/B073JV7W8Z/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B073JV7W8Z/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

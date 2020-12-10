@@ -22,6 +22,9 @@ Está [Puma ESS Logo tee Camiseta  Mujer  Rosa  Pale Pink   XL](https://www.amaz
 
 [![Puma ESS Logo tee Camiseta  Mujer  Rosa ](https://images-eu.ssl-images-amazon.com/images/I/31CeGrZhI7L._SL200_.jpg)](https://www.amazon.es/dp/B07JGD48LT/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07JGD48LT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

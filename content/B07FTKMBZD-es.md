@@ -22,6 +22,9 @@ Está [Lee Graphic Tee  Camiseta Hombre  Rojo  Faded Red Leo   X-Large](https://
 
 [![Lee Graphic Tee  Camiseta Hombre  Rojo  ](https://images-eu.ssl-images-amazon.com/images/I/31iwp35ZSXL._SL200_.jpg)](https://www.amazon.es/dp/B07FTKMBZD/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FTKMBZD/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

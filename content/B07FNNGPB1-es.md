@@ -22,6 +22,9 @@ Ahora mismo tienes [JACK & JONES Jacmix Solid Trunks Noos Bóxer  Negro Black  X
 
 [![JACK & JONES Jacmix Solid Trunks Noos Bó](https://images-eu.ssl-images-amazon.com/images/I/41zXE1tjBmL._SL200_.jpg)](https://www.amazon.es/dp/B07FNNGPB1/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07FNNGPB1/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

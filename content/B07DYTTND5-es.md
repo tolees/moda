@@ -22,6 +22,9 @@ Tienes [Columbia Powder Lite Chaqueta Resistente al Agua  Poliéster  Niños  Az
 
 [![Columbia Powder Lite Chaqueta Resistente](https://images-eu.ssl-images-amazon.com/images/I/41J%2B7vdX2EL._SL200_.jpg)](https://www.amazon.es/dp/B07DYTTND5/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07DYTTND5/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

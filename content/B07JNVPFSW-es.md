@@ -22,6 +22,9 @@ Está [JACK & JONES Jcofade Sweat Crew Neck Sudadera  White  Small para Hombre](
 
 [![JACK & JONES Jcofade Sweat Crew Neck Sud](https://images-eu.ssl-images-amazon.com/images/I/41DI3OPEJLL._SL200_.jpg)](https://www.amazon.es/dp/B07JNVPFSW/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07JNVPFSW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

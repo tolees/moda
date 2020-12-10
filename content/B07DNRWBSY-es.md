@@ -22,6 +22,9 @@ Está [adidas ESS Allcap Oh H  Sudadera para Mujer  Negro  S](https://www.amazon
 
 [![adidas ESS Allcap Oh H  Sudadera para Mu](https://images-eu.ssl-images-amazon.com/images/I/31NNAufNlwL._SL200_.jpg)](https://www.amazon.es/dp/B07DNRWBSY/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DNRWBSY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [find. Vestido Ajustable para Mujer   Gris  Grau   44  Talla 
 
 [![find. Vestido Ajustable para Mujer   Gri](https://images-eu.ssl-images-amazon.com/images/I/41nxmjiucTL._SL200_.jpg)](https://www.amazon.es/dp/B071Z3GVMB/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B071Z3GVMB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

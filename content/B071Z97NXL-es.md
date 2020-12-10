@@ -22,6 +22,9 @@ Tienes [Wrangler Bryson Vaqueros  Azul  Rinse Resin 96X   29W / 34L para Hombre]
 
 [![Wrangler Bryson Vaqueros  Azul  Rinse Re](https://images-eu.ssl-images-amazon.com/images/I/41BvJBkYBZL._SL200_.jpg)](https://www.amazon.es/dp/B071Z97NXL/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B071Z97NXL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

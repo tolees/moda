@@ -22,6 +22,9 @@ Está [Pepe Jeans Soho Vaqueros  Azul  10Oz Rinse Plus M15   25W / 32L para Muje
 
 [![Pepe Jeans Soho Vaqueros  Azul  10Oz Rin](https://images-eu.ssl-images-amazon.com/images/I/41Hz8DLYZyL._SL200_.jpg)](https://www.amazon.es/dp/B014YUE4J4/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B014YUE4J4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

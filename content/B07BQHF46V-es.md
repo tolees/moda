@@ -22,6 +22,9 @@ Ahora mismo tienes [Nike 930149 Camiseta de Manga Larga  Rosa 646  Medium  Tama�
 
 [![Nike 930149 Camiseta de Manga Larga  Ros](https://images-eu.ssl-images-amazon.com/images/I/31KEhwEZXxL._SL200_.jpg)](https://www.amazon.es/dp/B07BQHF46V/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07BQHF46V/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

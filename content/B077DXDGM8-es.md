@@ -22,6 +22,9 @@ Está [MAMALICIOUS Mlphie Nell 3/4 Jersey Top Nf A  Camiseta de Manga Larga prem
 
 [![MAMALICIOUS Mlphie Nell 3/4 Jersey Top N](https://images-eu.ssl-images-amazon.com/images/I/41XHLj36vfL._SL200_.jpg)](https://www.amazon.es/dp/B077DXDGM8/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B077DXDGM8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

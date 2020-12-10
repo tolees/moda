@@ -22,6 +22,9 @@ Está [Pepe Jeans Elia Camiseta  Blanco  Optic White 802   X-Large para Mujer](h
 
 [![Pepe Jeans Elia Camiseta  Blanco  Optic ](https://images-eu.ssl-images-amazon.com/images/I/41AdDfs2VtL._SL200_.jpg)](https://www.amazon.es/dp/B07NCB63HP/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07NCB63HP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

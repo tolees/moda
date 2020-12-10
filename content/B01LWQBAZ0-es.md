@@ -22,6 +22,9 @@ Está [Betty & Co 0150/0837  Vestido Casual para Mujer  Negro/Gris ES 40  DE 38 
 
 [![Betty & Co 0150/0837  Vestido Casual par](https://images-eu.ssl-images-amazon.com/images/I/41n-sml4ynL._SL200_.jpg)](https://www.amazon.es/dp/B01LWQBAZ0/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01LWQBAZ0/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

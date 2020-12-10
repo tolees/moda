@@ -22,6 +22,9 @@ Está [Under Armour Fly by Short - Pantalón Corto para Mujer  Mujer  1297125-90
 
 [![Under Armour Fly by Short - Pantalón Cor](https://images-eu.ssl-images-amazon.com/images/I/31pc23P-hlL._SL200_.jpg)](https://www.amazon.es/dp/B0785FPDB8/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0785FPDB8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

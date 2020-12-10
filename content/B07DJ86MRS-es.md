@@ -22,6 +22,9 @@ Tienes [United Colors of Benetton Dress Vestido  Turquesa  Turquoise 69e   98  T
 
 [![United Colors of Benetton Dress Vestido ](https://images-eu.ssl-images-amazon.com/images/I/51%2BJurz03IL._SL200_.jpg)](https://www.amazon.es/dp/B07DJ86MRS/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07DJ86MRS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Carrera Junior CARRERINO 21 UZ 807  Gafas de sol Unisex-Niño  Negro  BL
 
 [![Carrera Junior CARRERINO 21 UZ 807  Gafa](https://images-eu.ssl-images-amazon.com/images/I/41qpa-Fbf6L._SL200_.jpg)](https://www.amazon.es/dp/B06WD72FXR/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B06WD72FXR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

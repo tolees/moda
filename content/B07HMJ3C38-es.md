@@ -22,6 +22,9 @@ Tienes [Ted Baker Rhaily  Sandalias de Punta Descubierta para Mujer  Marrón  Ca
 
 [![Ted Baker Rhaily  Sandalias de Punta Des](https://images-eu.ssl-images-amazon.com/images/I/31uZk0bKQCL._SL200_.jpg)](https://www.amazon.es/dp/B07HMJ3C38/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07HMJ3C38/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

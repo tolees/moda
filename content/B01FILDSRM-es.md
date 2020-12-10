@@ -22,6 +22,9 @@ Está [Sublevel H7000N10704A  Camisa para Hombre  Blanco  White  L](https://www.
 
 [![Sublevel H7000N10704A  Camisa para Hombr](https://images-eu.ssl-images-amazon.com/images/I/41Amj%2BgPNqL._SL200_.jpg)](https://www.amazon.es/dp/B01FILDSRM/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01FILDSRM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

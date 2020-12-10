@@ -22,6 +22,9 @@ Está [New Look Pack  Camiseta para Hombre  Azul  Navy  X-Large  Talla del Fabri
 
 [![New Look Pack  Camiseta para Hombre  Azu](https://images-eu.ssl-images-amazon.com/images/I/31LMbDx2n6L._SL200_.jpg)](https://www.amazon.es/dp/B07G5WX4JF/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07G5WX4JF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

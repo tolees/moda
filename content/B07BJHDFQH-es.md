@@ -22,6 +22,9 @@ Está [G-STAR RAW Midge Saddle Mid Waist Straight  Vaqueros Mujer   Medium Indig
 
 [![G-STAR RAW Midge Saddle Mid Waist Straig](https://images-eu.ssl-images-amazon.com/images/I/41giFDekO5L._SL200_.jpg)](https://www.amazon.es/dp/B07BJHDFQH/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07BJHDFQH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

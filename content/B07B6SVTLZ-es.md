@@ -22,6 +22,9 @@ Está [Burton Midweight Crew Camiseta Térmica  Hombre  Verde  Seersucker Camo  
 
 [![Burton Midweight Crew Camiseta Térmica  ](https://images-eu.ssl-images-amazon.com/images/I/41QwRu6ybIL._SL200_.jpg)](https://www.amazon.es/dp/B07B6SVTLZ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07B6SVTLZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [FIND Textured Overhead  Sudadera con Capucha Hombre  Negro  Schwarz   48
 
 [![FIND Textured Overhead  Sudadera con Cap](https://images-eu.ssl-images-amazon.com/images/I/41ohgdaJ59L._SL200_.jpg)](https://www.amazon.es/dp/B073JP5KWD/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B073JP5KWD/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

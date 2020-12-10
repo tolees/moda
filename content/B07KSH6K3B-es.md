@@ -22,6 +22,9 @@ Está [Columbia Powder Pass - Chaleco de Nylon  Hombre  Negro  Black   M](https:
 
 [![Columbia Powder Pass - Chaleco de Nylon ](https://images-eu.ssl-images-amazon.com/images/I/41jLcVaC%2BnL._SL200_.jpg)](https://www.amazon.es/dp/B07KSH6K3B/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KSH6K3B/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

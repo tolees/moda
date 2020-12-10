@@ -22,6 +22,9 @@ Está [Roxy Parisian Walkway Camiseta sin Mangas de Diseño Técnico  Mujer  Azu
 
 [![Roxy Parisian Walkway Camiseta sin Manga](https://images-eu.ssl-images-amazon.com/images/I/417TdAUx8FL._SL200_.jpg)](https://www.amazon.es/dp/B0792KTQ7Q/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0792KTQ7Q/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [LLOYD Floyd  Zapatos Derby para Hombre  Negro  Schwarz 0   44.5 EU](http
 
 [![LLOYD Floyd  Zapatos Derby para Hombre  ](https://images-eu.ssl-images-amazon.com/images/I/31lZ4VGZNyL._SL200_.jpg)](https://www.amazon.es/dp/B07F2CVDFV/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07F2CVDFV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

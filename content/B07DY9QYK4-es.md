@@ -22,6 +22,9 @@ Ahora mismo tienes [Roxy Viva Glitter IV  Zapatos de Playa y Piscina para Mujer 
 
 [![Roxy Viva Glitter IV  Zapatos de Playa y](https://images-eu.ssl-images-amazon.com/images/I/41Mz9bIc9iL._SL200_.jpg)](https://www.amazon.es/dp/B07DY9QYK4/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07DY9QYK4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

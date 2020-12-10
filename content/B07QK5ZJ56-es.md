@@ -22,6 +22,9 @@ Ahora mismo tienes [Almohadillas de Talón  Gel Almohadillas para Tacón con Fue
 
 [![Almohadillas de Talón  Gel Almohadillas ](https://images-eu.ssl-images-amazon.com/images/I/41iMGmiJF4L._SL200_.jpg)](https://www.amazon.es/dp/B07QK5ZJ56/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07QK5ZJ56/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Only Onlhaya S/s Crab/Shark Top Box Jrs  Camiseta Mujer  Blanco  Bright W
 
 [![Only Onlhaya S/s Crab/Shark Top Box Jrs ](https://images-eu.ssl-images-amazon.com/images/I/41GLhC-Ms4L._SL200_.jpg)](https://www.amazon.es/dp/B079TPBQW9/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B079TPBQW9/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

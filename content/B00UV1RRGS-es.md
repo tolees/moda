@@ -22,6 +22,9 @@ Está [REPLAY Anbass  Vaqueros Slim Hombre  Azul  Blue Denim 7   W38/L34  Talla 
 
 [![REPLAY Anbass  Vaqueros Slim Hombre  Azu](https://images-eu.ssl-images-amazon.com/images/I/41-%2BNdacSpL._SL200_.jpg)](https://www.amazon.es/dp/B00UV1RRGS/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00UV1RRGS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

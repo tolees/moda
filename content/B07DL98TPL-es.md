@@ -22,6 +22,9 @@ Tienes [Springfield 4Wo M/Ranglan Block Gg12 Jersey  Gama Azules 11  Small  Tama
 
 [![Springfield 4Wo M/Ranglan Block Gg12 Jer](https://images-eu.ssl-images-amazon.com/images/I/41yemeMy2YL._SL200_.jpg)](https://www.amazon.es/dp/B07DL98TPL/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07DL98TPL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

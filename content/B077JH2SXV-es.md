@@ -22,6 +22,9 @@ Está [Volcom Sngl STN P/O Sudadera  Hombre  Gris  Storm   S](https://www.amazon
 
 [![Volcom Sngl STN P/O Sudadera  Hombre  Gr](https://images-eu.ssl-images-amazon.com/images/I/51JoGBXsxOL._SL200_.jpg)](https://www.amazon.es/dp/B077JH2SXV/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B077JH2SXV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

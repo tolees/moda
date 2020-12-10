@@ -22,6 +22,9 @@ Está [LEGO TEO 613 - T-Shirt S/S Camiseta  Niños  Azul  Blue   152  Tamaño de
 
 [![LEGO TEO 613 - T-Shirt S/S Camiseta  Niñ](https://images-eu.ssl-images-amazon.com/images/I/518CTCgxUCL._SL200_.jpg)](https://www.amazon.es/dp/B01MTF8G58/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01MTF8G58/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Geox J Alonisso F  Zapatillas Altas para Niños  Negro  White/Black   38
 
 [![Geox J Alonisso F  Zapatillas Altas para](https://images-eu.ssl-images-amazon.com/images/I/51oNVG6L5lL._SL200_.jpg)](https://www.amazon.es/dp/B076XD8MNH/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B076XD8MNH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

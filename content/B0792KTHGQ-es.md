@@ -22,6 +22,9 @@ Tienes [Geox J Perth Boy C  Zapatillas Altas para Niños   Black C9999   28 EU](
 
 [![Geox J Perth Boy C  Zapatillas Altas par](https://images-eu.ssl-images-amazon.com/images/I/41sTUR0WRhL._SL200_.jpg)](https://www.amazon.es/dp/B0792KTHGQ/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B0792KTHGQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

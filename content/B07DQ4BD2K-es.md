@@ -22,6 +22,9 @@ Está [Burton Exile Cargo Pantalón de Snowboard  Niños  Rojo  Bitters   L](htt
 
 [![Burton Exile Cargo Pantalón de Snowboard](https://images-eu.ssl-images-amazon.com/images/I/31DhK9t9M-L._SL200_.jpg)](https://www.amazon.es/dp/B07DQ4BD2K/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DQ4BD2K/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

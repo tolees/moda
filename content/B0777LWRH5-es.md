@@ -22,6 +22,9 @@ Ahora mismo tienes [JACK & JONES Jjifred Jjoriginal CR 033 STS Vaqueros Relaxed 
 
 [![JACK & JONES Jjifred Jjoriginal CR 033 S](https://images-eu.ssl-images-amazon.com/images/I/41GWxe8hgAL._SL200_.jpg)](https://www.amazon.es/dp/B0777LWRH5/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B0777LWRH5/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

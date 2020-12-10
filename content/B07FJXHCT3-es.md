@@ -22,6 +22,9 @@ Está [Gioseppo 46201-P  Zapatos de tacón con Punta Cerrada para Mujer  Leopard
 
 [![Gioseppo 46201-P  Zapatos de tacón con P](https://images-eu.ssl-images-amazon.com/images/I/51dHXPKGcaL._SL200_.jpg)](https://www.amazon.es/dp/B07FJXHCT3/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FJXHCT3/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

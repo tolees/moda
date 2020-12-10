@@ -22,6 +22,9 @@ Ahora mismo tienes [Tamaris 25700  Botines para Mujer   Antelope Met. 376   37 E
 
 [![Tamaris 25700  Botines para Mujer   Ante](https://images-eu.ssl-images-amazon.com/images/I/51RAemIQs8L._SL200_.jpg)](https://www.amazon.es/dp/B01MQJFIO7/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01MQJFIO7/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

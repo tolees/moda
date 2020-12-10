@@ -22,6 +22,9 @@ Está [Superdry Orange Label Neon tee Camiseta  Rosa  Bright Blast Pink ZH9   XS
 
 [![Superdry Orange Label Neon tee Camiseta ](https://images-eu.ssl-images-amazon.com/images/I/31l9Frzo3eL._SL200_.jpg)](https://www.amazon.es/dp/B07MZJD15M/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07MZJD15M/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Joma Crew Camiseta de Manga Corta  Hombre  Verde  S](https://www.amazon.
 
 [![Joma Crew Camiseta de Manga Corta  Hombr](https://images-eu.ssl-images-amazon.com/images/I/31dAm-QpXqL._SL200_.jpg)](https://www.amazon.es/dp/B00VWYIC9E/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00VWYIC9E/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Lee Graphic Tee  Camiseta Hombre  Naranja  Nectarine Lc   Small](https://
 
 [![Lee Graphic Tee  Camiseta Hombre  Naranj](https://images-eu.ssl-images-amazon.com/images/I/31dufvc2arL._SL200_.jpg)](https://www.amazon.es/dp/B07FTRHMFQ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FTRHMFQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [XTI 48454  Botines para Mujer  Gris  Grey   37 EU](https://www.amazon.es
 
 [![XTI 48454  Botines para Mujer  Gris  Gre](https://images-eu.ssl-images-amazon.com/images/I/41BfRj8CrFL._SL200_.jpg)](https://www.amazon.es/dp/B07D9DZ5VT/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07D9DZ5VT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

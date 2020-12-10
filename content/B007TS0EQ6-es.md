@@ -22,6 +22,9 @@ Está [Cressi Marea VIP Gafas y tubo de snorkel Unisex Adulto  Transparente/Rosa
 
 [![Cressi Marea VIP Gafas y tubo de snorkel](https://images-eu.ssl-images-amazon.com/images/I/51cDmarOL2L._SL200_.jpg)](https://www.amazon.es/dp/B007TS0EQ6/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B007TS0EQ6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

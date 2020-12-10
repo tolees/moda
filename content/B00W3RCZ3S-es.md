@@ -22,6 +22,9 @@ Tienes [Joma Gala Sudadera  Hombre  Rojo  XS](https://www.amazon.es/dp/B00W3RCZ3
 
 [![Joma Gala Sudadera  Hombre  Rojo  XS](https://images-eu.ssl-images-amazon.com/images/I/417jmZcmMkL._SL200_.jpg)](https://www.amazon.es/dp/B00W3RCZ3S/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00W3RCZ3S/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

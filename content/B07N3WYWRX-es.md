@@ -22,6 +22,12 @@ Está [Marca Amazon - IRIS & LILLY Albornoz de Forro Polar para Mujer  gris  L  
 
 [![Marca Amazon - IRIS & LILLY Albornoz de ](https://m.media-amazon.com/images/I/41zqXNbhHXL._SL200_.jpg)](https://www.amazon.es/dp/B07N3WYWRX/?tag=tolees-21)
 
+Principales características:
+
+- Una marca de Amazon.
+- Tejido suave.
+- Corbata en la cintura.
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07N3WYWRX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

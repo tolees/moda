@@ -22,6 +22,9 @@ Ahora mismo tienes [Geox J Kalispera Girl I  Zapatillas Altas para Niñas  Gris 
 
 [![Geox J Kalispera Girl I  Zapatillas Alta](https://images-eu.ssl-images-amazon.com/images/I/51Y%2B2ZxRqbL._SL200_.jpg)](https://www.amazon.es/dp/B06Y26SCZ6/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B06Y26SCZ6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

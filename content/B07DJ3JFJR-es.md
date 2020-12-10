@@ -22,6 +22,9 @@ Está [Geox D Theragon a  Zapatillas para Mujer  Black C9999  36 EU](https://www
 
 [![Geox D Theragon a  Zapatillas para Mujer](https://images-eu.ssl-images-amazon.com/images/I/41AkQWciOeL._SL200_.jpg)](https://www.amazon.es/dp/B07DJ3JFJR/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DJ3JFJR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

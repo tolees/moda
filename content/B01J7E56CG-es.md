@@ -22,6 +22,9 @@ Está [Rieker 13405  Zapatos de Cordones Derby para Hombre  Marrón  Mandel/Sher
 
 [![Rieker 13405  Zapatos de Cordones Derby ](https://images-eu.ssl-images-amazon.com/images/I/41UgEq-fuRL._SL200_.jpg)](https://www.amazon.es/dp/B01J7E56CG/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01J7E56CG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

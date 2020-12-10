@@ -22,6 +22,9 @@ Tienes [Trucco - camiseta para mujer  color blanco  talla S](https://www.amazon.
 
 [![Trucco - camiseta para mujer  color blan](https://images-eu.ssl-images-amazon.com/images/I/41K1jXt94dL._SL200_.jpg)](https://www.amazon.es/dp/B073SBR5LR/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B073SBR5LR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Superdry Orange Label Triple Pack Bóxer  Blanco Optic  XX-L
 
 [![Superdry Orange Label Triple Pack Bóxer ](https://images-eu.ssl-images-amazon.com/images/I/31%2Btc7LLX5L._SL200_.jpg)](https://www.amazon.es/dp/B01I1UKXIY/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01I1UKXIY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

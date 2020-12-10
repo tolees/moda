@@ -22,6 +22,9 @@ Está [Levi s SS Set-in Sunset Pocket Camiseta  Azul  Parisian Blue 0072   Large
 
 [![Levi s SS Set-in Sunset Pocket Camiseta ](https://images-eu.ssl-images-amazon.com/images/I/31UWq7yKPtL._SL200_.jpg)](https://www.amazon.es/dp/B07K78WZTQ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07K78WZTQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

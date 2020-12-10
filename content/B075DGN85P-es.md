@@ -22,6 +22,9 @@ Está [IRIS & LILLY BLICT001 sujetadores  Multicolor  Grey Marl/Nude   100D  Tal
 
 [![IRIS & LILLY BLICT001 sujetadores  Multi](https://images-eu.ssl-images-amazon.com/images/I/41OcfVoCGQL._SL200_.jpg)](https://www.amazon.es/dp/B075DGN85P/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B075DGN85P/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

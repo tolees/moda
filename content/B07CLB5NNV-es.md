@@ -22,6 +22,9 @@ Tienes [Scotch & Soda Classic Boxer Short In Printed Stripe Solid Melange  Bóxe
 
 [![Scotch & Soda Classic Boxer Short In Pri](https://images-eu.ssl-images-amazon.com/images/I/51ZpaE15LrL._SL200_.jpg)](https://www.amazon.es/dp/B07CLB5NNV/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07CLB5NNV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

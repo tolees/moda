@@ -22,6 +22,9 @@ Está [BOSS Trunk 3P CO/EL Bóxer   Open Miscellaneous 985   Medium para Hombre]
 
 [![BOSS Trunk 3P CO/EL Bóxer   Open Miscell](https://images-eu.ssl-images-amazon.com/images/I/41m8ylWBcRL._SL200_.jpg)](https://www.amazon.es/dp/B07KGDNVSM/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KGDNVSM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

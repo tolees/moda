@@ -22,6 +22,9 @@ Está [Meltin Pot Markus  Vaqueros para Hombre  Blau  Bs15   W30/L34](https://ww
 
 [![Meltin Pot Markus  Vaqueros para Hombre ](https://images-eu.ssl-images-amazon.com/images/I/41DDktpfp1L._SL200_.jpg)](https://www.amazon.es/dp/B00PE69JX4/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00PE69JX4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Gola Shingle 3  Sandalias Atléticas  Hombre  Gris  Grey/black/blue   43 
 
 [![Gola Shingle 3  Sandalias Atléticas  Hom](https://images-eu.ssl-images-amazon.com/images/I/41KEyK6-lrL._SL200_.jpg)](https://www.amazon.es/dp/B01MR6LHWO/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01MR6LHWO/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

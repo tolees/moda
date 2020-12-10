@@ -22,6 +22,9 @@ Tienes [adidas Squad 17 JSY W Camiseta  Mujer  Verde  Verfue/Blanco   S](https:/
 
 [![adidas Squad 17 JSY W Camiseta  Mujer  V](https://images-eu.ssl-images-amazon.com/images/I/41CEgvw5ZLL._SL200_.jpg)](https://www.amazon.es/dp/B01NCOQO5L/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01NCOQO5L/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

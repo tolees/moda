@@ -22,6 +22,9 @@ Tienes [Lee Luke - Vaqueros Hombre  Clean Black  W29/L30  Talla del fabricante: 
 
 [![Lee Luke - Vaqueros Hombre  Clean Black ](https://images-eu.ssl-images-amazon.com/images/I/4145z6Bjl9L._SL200_.jpg)](https://www.amazon.es/dp/B01NAZAKI2/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01NAZAKI2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

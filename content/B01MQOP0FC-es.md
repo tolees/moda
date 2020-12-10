@@ -22,6 +22,9 @@ Está [Lacoste L1212 Camiseta Polo  Rojo  Rouge 240   5XL  Talla del fabricante:
 
 [![Lacoste L1212 Camiseta Polo  Rojo  Rouge](https://images-eu.ssl-images-amazon.com/images/I/41zBRNnxCmL._SL200_.jpg)](https://www.amazon.es/dp/B01MQOP0FC/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01MQOP0FC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

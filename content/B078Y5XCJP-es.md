@@ -22,6 +22,9 @@ Ahora mismo tienes [The North Face Mountain Light II Shell Chaqueta  Hombre  Neg
 
 [![The North Face Mountain Light II Shell C](https://images-eu.ssl-images-amazon.com/images/I/31cx3uZm8QL._SL200_.jpg)](https://www.amazon.es/dp/B078Y5XCJP/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B078Y5XCJP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

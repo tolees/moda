@@ -22,6 +22,9 @@ Tienes [Geox J Pavel A  Zapatillas para Niños   Dk Burgundy/Sky C7jm4   32 EU](
 
 [![Geox J Pavel A  Zapatillas para Niños   ](https://images-eu.ssl-images-amazon.com/images/I/41cyDehiAdL._SL200_.jpg)](https://www.amazon.es/dp/B0792NGKYB/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B0792NGKYB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

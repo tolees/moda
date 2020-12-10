@@ -22,6 +22,9 @@ Está [Timberland tee-Shirt Manches Courtes Camiseta   Gris Chiné Blanc A32   3
 
 [![Timberland tee-Shirt Manches Courtes Cam](https://images-eu.ssl-images-amazon.com/images/I/41aYCDn%2BkQL._SL200_.jpg)](https://www.amazon.es/dp/B07JG5LT1M/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07JG5LT1M/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

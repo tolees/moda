@@ -22,6 +22,9 @@ Ahora mismo tienes [LEGO Saxton 751 Sudadera  Rojo  Red   Tamaño del Fabricante
 
 [![LEGO Saxton 751 Sudadera  Rojo  Red   Ta](https://images-eu.ssl-images-amazon.com/images/I/51QzkecMdVL._SL200_.jpg)](https://www.amazon.es/dp/B0725XM3SK/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B0725XM3SK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

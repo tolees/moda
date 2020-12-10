@@ -22,6 +22,9 @@ Ahora mismo tienes [Diesel S-Gir-ya Sweat-Shirt Sudadera  Blanco  Bright White 1
 
 [![Diesel S-Gir-ya Sweat-Shirt Sudadera  Bl](https://images-eu.ssl-images-amazon.com/images/I/31hxlUNgvZL._SL200_.jpg)](https://www.amazon.es/dp/B07G4KMQCP/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07G4KMQCP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

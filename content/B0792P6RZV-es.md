@@ -22,6 +22,9 @@ Tienes [Geox J Kalispera Girl F  Zapatillas Altas para Niñas   Dk Grey C9002   
 
 [![Geox J Kalispera Girl F  Zapatillas Alta](https://images-eu.ssl-images-amazon.com/images/I/41MrzVsmMCL._SL200_.jpg)](https://www.amazon.es/dp/B0792P6RZV/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B0792P6RZV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

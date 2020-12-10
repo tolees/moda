@@ -22,6 +22,9 @@ Ahora mismo tienes [Love Moschino Logo Box_Short Sleeve T-Shirt Camiseta  Blanco
 
 [![Love Moschino Logo Box_Short Sleeve T-Sh](https://images-eu.ssl-images-amazon.com/images/I/41x89eTdjJL._SL200_.jpg)](https://www.amazon.es/dp/B07K2LGW8H/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07K2LGW8H/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

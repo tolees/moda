@@ -22,6 +22,9 @@ Tienes [BOSS Tiboss Camiseta  Amarillo  Light/Pastel Yellow 743   Medium para Mu
 
 [![BOSS Tiboss Camiseta  Amarillo  Light/Pa](https://images-eu.ssl-images-amazon.com/images/I/319Lz%2BzO75L._SL200_.jpg)](https://www.amazon.es/dp/B07KGRB23F/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07KGRB23F/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

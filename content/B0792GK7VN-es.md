@@ -22,6 +22,9 @@ Está [Geox U Mattias B ABX B  Botas Chukka para Hombre  Negro  Black C9999   42
 
 [![Geox U Mattias B ABX B  Botas Chukka par](https://images-eu.ssl-images-amazon.com/images/I/41HVxHwgusL._SL200_.jpg)](https://www.amazon.es/dp/B0792GK7VN/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0792GK7VN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

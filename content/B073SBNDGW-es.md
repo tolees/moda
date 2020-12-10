@@ -22,6 +22,9 @@ Está [Burton Symbol Chaqueta de Snowboard  Niños  Negro  True   XL](https://ww
 
 [![Burton Symbol Chaqueta de Snowboard  Niñ](https://images-eu.ssl-images-amazon.com/images/I/31YL8sGCvCL._SL200_.jpg)](https://www.amazon.es/dp/B073SBNDGW/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B073SBNDGW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

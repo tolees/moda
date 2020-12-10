@@ -22,6 +22,9 @@ Está [Mustang 1/1Slv_0/P_K  Camisa casual para Hombre  Multicolor  Big Check 11
 
 [![Mustang 1/1Slv_0/P_K  Camisa casual para](https://images-eu.ssl-images-amazon.com/images/I/415pnUVQ0OL._SL200_.jpg)](https://www.amazon.es/dp/B07GYWHWFP/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07GYWHWFP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

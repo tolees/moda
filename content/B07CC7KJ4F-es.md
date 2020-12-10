@@ -22,6 +22,9 @@ Tienes [Pepe Jeans Saturn  Vaqueros para Mujer  Azul  Denim MC5  28W / 30L](http
 
 [![Pepe Jeans Saturn  Vaqueros para Mujer  ](https://images-eu.ssl-images-amazon.com/images/I/41876%2BsBVVL._SL200_.jpg)](https://www.amazon.es/dp/B07CC7KJ4F/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07CC7KJ4F/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

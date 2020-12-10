@@ -22,6 +22,9 @@ Está [Vero Moda Vmcozy Copenhagen Nice LS Cardigan Noos  Chaqueta Punto para Mu
 
 [![Vero Moda Vmcozy Copenhagen Nice LS Card](https://images-eu.ssl-images-amazon.com/images/I/4191aUgDeoL._SL200_.jpg)](https://www.amazon.es/dp/B01JOWMRXC/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01JOWMRXC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

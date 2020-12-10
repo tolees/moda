@@ -22,6 +22,10 @@ Ahora mismo tienes [Pepe Jeans Jerrod Camiseta  Azul  Indigo 561   Small para Ho
 
 [![Pepe Jeans Jerrod Camiseta  Azul  Indigo](https://m.media-amazon.com/images/I/51BxTL2qqIL._SL200_.jpg)](https://www.amazon.es/dp/B07VVRD16W/?tag=tolees-21)
 
+Características:
+
+- Camiseta de manga corta de tejido extrasuave, cuello redondo, bandera y logotipo impresos
+
 [Visítala!!!](https://www.amazon.es/dp/B07VVRD16W/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

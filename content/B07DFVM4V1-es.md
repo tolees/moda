@@ -22,6 +22,9 @@ Tienes [MAMALICIOUS Mlintarsia L/s Knit Blouse A  Jersey premamá Mujer  Marfil 
 
 [![MAMALICIOUS Mlintarsia L/s Knit Blouse A](https://images-eu.ssl-images-amazon.com/images/I/416qB7bWpmL._SL200_.jpg)](https://www.amazon.es/dp/B07DFVM4V1/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07DFVM4V1/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

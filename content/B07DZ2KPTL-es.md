@@ -22,6 +22,9 @@ Tienes [Burton Hazelton Chaqueta  Mujer  Azul  Mood Indigo   L](https://www.amaz
 
 [![Burton Hazelton Chaqueta  Mujer  Azul  M](https://images-eu.ssl-images-amazon.com/images/I/41hsoa8IMqL._SL200_.jpg)](https://www.amazon.es/dp/B07DZ2KPTL/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07DZ2KPTL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

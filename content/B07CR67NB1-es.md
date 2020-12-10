@@ -22,6 +22,9 @@ Tienes [AURIQUE Leggings de Deporte sin Costuras Mujer  Negro  Black   40  Talla
 
 [![AURIQUE Leggings de Deporte sin Costuras](https://images-eu.ssl-images-amazon.com/images/I/41jdZ0U7zKL._SL200_.jpg)](https://www.amazon.es/dp/B07CR67NB1/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07CR67NB1/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

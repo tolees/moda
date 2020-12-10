@@ -22,6 +22,9 @@ Tienes [Columbia Mujer Chaqueta impermeable  Hideaway Creek Jacket  Poliéster  
 
 [![Columbia Mujer Chaqueta impermeable  Hid](https://images-eu.ssl-images-amazon.com/images/I/31zQ8rK3SDL._SL200_.jpg)](https://www.amazon.es/dp/B07KRX2QHV/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07KRX2QHV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

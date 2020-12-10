@@ -22,6 +22,9 @@ Está [Springfield 4.2.T.Ap.R. Bimateria Flor Bordada Sudadera   Gama Grises 42 
 
 [![Springfield 4.2.T.Ap.R. Bimateria Flor B](https://images-eu.ssl-images-amazon.com/images/I/410Ubj5DwaL._SL200_.jpg)](https://www.amazon.es/dp/B07DLLKDRN/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DLLKDRN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

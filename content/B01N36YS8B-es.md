@@ -22,6 +22,9 @@ Tienes [edc by Esprit 037cc1f020  Blusa Mujer  Azul  Light Blue   38  Talla del 
 
 [![edc by Esprit 037cc1f020  Blusa Mujer  A](https://images-eu.ssl-images-amazon.com/images/I/41tDsfgwVBL._SL200_.jpg)](https://www.amazon.es/dp/B01N36YS8B/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01N36YS8B/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

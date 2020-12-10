@@ -22,6 +22,9 @@ Ahora mismo tienes [Art 1300 Memphis Black/I Explore  Sandalias con Punta Abiert
 
 [![Art 1300 Memphis Black/I Explore  Sandal](https://images-eu.ssl-images-amazon.com/images/I/41QJO89HHTL._SL200_.jpg)](https://www.amazon.es/dp/B0771VGSG8/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B0771VGSG8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

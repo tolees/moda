@@ -22,6 +22,9 @@ Ahora mismo tienes [edc by Esprit 048cc1f024 Blusa   Pink 670   Medium para Muje
 
 [![edc by Esprit 048cc1f024 Blusa   Pink 67](https://images-eu.ssl-images-amazon.com/images/I/41OcKVn5XfL._SL200_.jpg)](https://www.amazon.es/dp/B079QMW28W/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B079QMW28W/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Polaroid PLD 2080/S Gafas de Sol  Multicolor  Mtt Blue   58 para Hombre](
 
 [![Polaroid PLD 2080/S Gafas de Sol  Multic](https://images-eu.ssl-images-amazon.com/images/I/31nPKFXHpbL._SL200_.jpg)](https://www.amazon.es/dp/B07NLCX2Q1/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07NLCX2Q1/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

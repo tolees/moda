@@ -22,6 +22,9 @@ Está [Clarks Walbeck Edge II  Zapatos de Cordones Derby para Hombre  Negro  Bla
 
 [![Clarks Walbeck Edge II  Zapatos de Cordo](https://images-eu.ssl-images-amazon.com/images/I/31XkYUXkiuL._SL200_.jpg)](https://www.amazon.es/dp/B07B411BLZ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07B411BLZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

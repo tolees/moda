@@ -22,6 +22,9 @@ Está [Joma Crew II Camiseta de Juego Manga Corta  Hombre  Multicolor  Azul Cele
 
 [![Joma Crew II Camiseta de Juego Manga Cor](https://images-eu.ssl-images-amazon.com/images/I/41V0ni%2BAvCL._SL200_.jpg)](https://www.amazon.es/dp/B06Y61JWY9/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B06Y61JWY9/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

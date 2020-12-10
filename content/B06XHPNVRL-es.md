@@ -22,6 +22,9 @@ Tienes [Geox Jr Sofia J  Zapatos de Cordones Derby para Niñas  Negro  Black   3
 
 [![Geox Jr Sofia J  Zapatos de Cordones Der](https://images-eu.ssl-images-amazon.com/images/I/41YJ7JE1MjL._SL200_.jpg)](https://www.amazon.es/dp/B06XHPNVRL/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B06XHPNVRL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

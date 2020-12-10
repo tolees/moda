@@ -22,6 +22,9 @@ Está [Cerdá Disney Donald Bolso Bandolera  18 cm  Blanco](https://www.amazon.e
 
 [![Cerdá Disney Donald Bolso Bandolera  18 ](https://images-eu.ssl-images-amazon.com/images/I/41vc1NHKbsL._SL200_.jpg)](https://www.amazon.es/dp/B07JGP747Y/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07JGP747Y/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

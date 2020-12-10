@@ -22,6 +22,9 @@ Está [Springfield 6.T.Ap.Abrigo Ligero Abrigo  Mujer  Azul  Azul Marino 10   40
 
 [![Springfield 6.T.Ap.Abrigo Ligero Abrigo ](https://images-eu.ssl-images-amazon.com/images/I/31e3NDHdaCL._SL200_.jpg)](https://www.amazon.es/dp/B07DLLLC9G/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DLLLC9G/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

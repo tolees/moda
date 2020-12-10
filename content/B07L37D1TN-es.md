@@ -22,6 +22,9 @@ Tienes [Tommy Hilfiger Stretch Slim Fit tee Camiseta  Blanco  Bright White/Jet B
 
 [![Tommy Hilfiger Stretch Slim Fit tee Cami](https://images-eu.ssl-images-amazon.com/images/I/41pnheaqYbL._SL200_.jpg)](https://www.amazon.es/dp/B07L37D1TN/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07L37D1TN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

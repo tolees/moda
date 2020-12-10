@@ -22,6 +22,9 @@ Tienes [Desigual Biki_Eve  Parte de Arriba Bikini Mujer  Azul  Turquoise 5070   
 
 [![Desigual Biki_Eve  Parte de Arriba Bikin](https://images-eu.ssl-images-amazon.com/images/I/51EQ47TUYrL._SL200_.jpg)](https://www.amazon.es/dp/B075RCF9VG/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B075RCF9VG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

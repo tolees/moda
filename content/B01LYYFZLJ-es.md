@@ -22,6 +22,9 @@ Está [Hombre Zapatos Casuales Amortiguadores Zapatilla Deportiva Ligero Caminar
 
 [![Hombre Zapatos Casuales Amortiguadores Z](https://images-eu.ssl-images-amazon.com/images/I/41V-c5la4dL._SL200_.jpg)](https://www.amazon.es/dp/B01LYYFZLJ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01LYYFZLJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

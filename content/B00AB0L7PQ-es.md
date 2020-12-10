@@ -22,6 +22,9 @@ Está [The North Face Equipment TNF Bolso Base Camp Travel Canister Large  Unise
 
 [![The North Face Equipment TNF Bolso Base ](https://images-eu.ssl-images-amazon.com/images/I/41lkyLyLNkL._SL200_.jpg)](https://www.amazon.es/dp/B00AB0L7PQ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00AB0L7PQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

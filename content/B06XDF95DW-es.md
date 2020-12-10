@@ -22,6 +22,9 @@ Ahora mismo tienes [SELECTED FEMME SFNEWSMILE SS Slit Dress EX Vestido  Azul Dar
 
 [![SELECTED FEMME SFNEWSMILE SS Slit Dress ](https://images-eu.ssl-images-amazon.com/images/I/316Q1Fa4imL._SL200_.jpg)](https://www.amazon.es/dp/B06XDF95DW/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B06XDF95DW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

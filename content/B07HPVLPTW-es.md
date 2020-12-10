@@ -22,6 +22,9 @@ Está [DC Comics Batman & Batgirl  Camiseta para Mujer  Blanco White  40  Talla 
 
 [![DC Comics Batman & Batgirl  Camiseta par](https://images-eu.ssl-images-amazon.com/images/I/41O%2B8Unwm-L._SL200_.jpg)](https://www.amazon.es/dp/B07HPVLPTW/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07HPVLPTW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

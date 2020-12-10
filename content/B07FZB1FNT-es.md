@@ -22,6 +22,9 @@ Ahora mismo tienes [Lámpara de lectura LED ultraligera de moda para el viento L
 
 [![Lámpara de lectura LED ultraligera de mo](https://images-eu.ssl-images-amazon.com/images/I/31zQsskEuSL._SL200_.jpg)](https://www.amazon.es/dp/B07FZB1FNT/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07FZB1FNT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

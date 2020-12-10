@@ -22,6 +22,9 @@ Está [Pepe Jeans Joel Camiseta  Blanco  Optic White 802   Medium para Hombre](h
 
 [![Pepe Jeans Joel Camiseta  Blanco  Optic ](https://images-eu.ssl-images-amazon.com/images/I/31iqcJDTioL._SL200_.jpg)](https://www.amazon.es/dp/B07N9BDYNZ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07N9BDYNZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

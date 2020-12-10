@@ -22,6 +22,9 @@ Tienes [New Look Arya Ditsy Vestido  Blanco  White Pattern 19   34  Talla del Fa
 
 [![New Look Arya Ditsy Vestido  Blanco  Whi](https://images-eu.ssl-images-amazon.com/images/I/51qVa-iSVZL._SL200_.jpg)](https://www.amazon.es/dp/B07PSJB317/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07PSJB317/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

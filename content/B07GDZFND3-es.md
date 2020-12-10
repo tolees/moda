@@ -22,6 +22,9 @@ Está [Levi s SS Colorblock tee Camiseta   Colorbock Dress Blues/White/Parisian 
 
 [![Levi s SS Colorblock tee Camiseta   Colo](https://images-eu.ssl-images-amazon.com/images/I/41NEkWftJcL._SL200_.jpg)](https://www.amazon.es/dp/B07GDZFND3/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07GDZFND3/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

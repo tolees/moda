@@ -22,6 +22,9 @@ Está [BROOKS BROTHERS Denim Slim Lunghi Red Fleece Vaqueros  Azul  Navy 415   4
 
 [![BROOKS BROTHERS Denim Slim Lunghi Red Fl](https://images-eu.ssl-images-amazon.com/images/I/41Nz6KYDWCL._SL200_.jpg)](https://www.amazon.es/dp/B07KMGQJZG/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KMGQJZG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

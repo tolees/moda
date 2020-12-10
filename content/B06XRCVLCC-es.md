@@ -22,6 +22,9 @@ Tienes [find. Sandalias Pala para Mujer  Verde  Green/nude   37 EU](https://www.
 
 [![find. Sandalias Pala para Mujer  Verde  ](https://images-eu.ssl-images-amazon.com/images/I/21cg95OtS5L._SL200_.jpg)](https://www.amazon.es/dp/B06XRCVLCC/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B06XRCVLCC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

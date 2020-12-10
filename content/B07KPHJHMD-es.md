@@ -22,6 +22,9 @@ Está [REPLAY Rob Vaqueros Straight  Azul  Super Light Blue 11   W28/L30  Talla 
 
 [![REPLAY Rob Vaqueros Straight  Azul  Supe](https://images-eu.ssl-images-amazon.com/images/I/41DjGjYFtBL._SL200_.jpg)](https://www.amazon.es/dp/B07KPHJHMD/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KPHJHMD/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

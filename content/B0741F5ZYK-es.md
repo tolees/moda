@@ -22,6 +22,9 @@ Ahora mismo tienes [Only Onlmaria L/s Cardigan Knt Chaqueta Punto   Black Detail
 
 [![Only Onlmaria L/s Cardigan Knt Chaqueta ](https://images-eu.ssl-images-amazon.com/images/I/41teD-E%2BAGL._SL200_.jpg)](https://www.amazon.es/dp/B0741F5ZYK/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B0741F5ZYK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

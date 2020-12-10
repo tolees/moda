@@ -22,6 +22,9 @@ Ahora mismo tienes [Refresh 64670  Botines para Mujer  Verde  Kaki   39 EU](http
 
 [![Refresh 64670  Botines para Mujer  Verde](https://images-eu.ssl-images-amazon.com/images/I/41RzG8hEtpL._SL200_.jpg)](https://www.amazon.es/dp/B07DD3G1X6/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07DD3G1X6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

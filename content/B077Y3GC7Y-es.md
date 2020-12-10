@@ -22,6 +22,9 @@ Tienes [HIKARO Chaleco de Plumas con Capucha Hombre  Rojo  Burgundy   50  Talla 
 
 [![HIKARO Chaleco de Plumas con Capucha Hom](https://images-eu.ssl-images-amazon.com/images/I/419zYg0DsjL._SL200_.jpg)](https://www.amazon.es/dp/B077Y3GC7Y/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B077Y3GC7Y/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

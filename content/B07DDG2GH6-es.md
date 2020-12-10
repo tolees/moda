@@ -22,6 +22,9 @@ Tienes [Refresh 64783  Botines para Mujer  Azul  Navy   37 EU](https://www.amazo
 
 [![Refresh 64783  Botines para Mujer  Azul ](https://images-eu.ssl-images-amazon.com/images/I/413eVTdCOLL._SL200_.jpg)](https://www.amazon.es/dp/B07DDG2GH6/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07DDG2GH6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Scalpers New Oxford BD Camisa Casual  Azul  Dark Blue 18362   XX-Small  T
 
 [![Scalpers New Oxford BD Camisa Casual  Az](https://images-eu.ssl-images-amazon.com/images/I/31uJdaoRJML._SL200_.jpg)](https://www.amazon.es/dp/B07PFYLG6P/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07PFYLG6P/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Love Moschino - Borsa Intreccio Pu  Bolso de mano Mujer  Neg
 
 [![Love Moschino - Borsa Intreccio Pu  Bols](https://images-eu.ssl-images-amazon.com/images/I/51B626dVFxL._SL200_.jpg)](https://www.amazon.es/dp/B07LBGR7PB/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07LBGR7PB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

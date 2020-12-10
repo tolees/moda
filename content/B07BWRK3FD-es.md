@@ -22,6 +22,9 @@ Está [Eferri 0JV5900  Bolso de mano para Mujer  Plateado  Plata   21x14x29 cm  
 
 [![Eferri 0JV5900  Bolso de mano para Mujer](https://images-eu.ssl-images-amazon.com/images/I/51r6g45ZVTL._SL200_.jpg)](https://www.amazon.es/dp/B07BWRK3FD/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07BWRK3FD/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

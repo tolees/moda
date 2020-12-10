@@ -22,6 +22,9 @@ Tienes [Merrell MOAB Vent  Zapatos de Low Rise Senderismo para Hombre  Marrón  
 
 [![Merrell MOAB Vent  Zapatos de Low Rise S](https://images-eu.ssl-images-amazon.com/images/I/51y-QSMlzyL._SL200_.jpg)](https://www.amazon.es/dp/B000LP2MG4/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B000LP2MG4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

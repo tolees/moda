@@ -22,6 +22,9 @@ Tienes [Springfield 490 Fotographic Camara 90 Camiseta  Hombre  Blanco  Blanco 9
 
 [![Springfield 490 Fotographic Camara 90 Ca](https://images-eu.ssl-images-amazon.com/images/I/41WcdXk1D3L._SL200_.jpg)](https://www.amazon.es/dp/B07KZ1DT1F/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07KZ1DT1F/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Levi s 511 Fit  Vaqueros slim para Hombre  Azul  Rolf 2613  32W / 34L](ht
 
 [![Levi s 511 Fit  Vaqueros slim para Hombr](https://images-eu.ssl-images-amazon.com/images/I/41GWwuOPd7L._SL200_.jpg)](https://www.amazon.es/dp/B077VLC92Z/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B077VLC92Z/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

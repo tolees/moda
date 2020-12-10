@@ -22,6 +22,9 @@ Tienes [Geox J Hadriel Girl E  Botas Altas para Niñas   Dk Grey C9002   27 EU](
 
 [![Geox J Hadriel Girl E  Botas Altas para ](https://images-eu.ssl-images-amazon.com/images/I/41gmy1ZB9sL._SL200_.jpg)](https://www.amazon.es/dp/B0792JMNZ9/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B0792JMNZ9/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

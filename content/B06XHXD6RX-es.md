@@ -22,6 +22,9 @@ Tienes [Diesel DL0239-01A-52 Gafas de Sol  Negro  Shiny Black/Smoke   52.0 para 
 
 [![Diesel DL0239-01A-52 Gafas de Sol  Negro](https://images-eu.ssl-images-amazon.com/images/I/31C0uQgZQuL._SL200_.jpg)](https://www.amazon.es/dp/B06XHXD6RX/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B06XHXD6RX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

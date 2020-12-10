@@ -22,6 +22,9 @@ Está [Pepe Jeans JIN JR PG501964  Camiseta para Niñas  Rojo  Poppy 210  4 año
 
 [![Pepe Jeans JIN JR PG501964  Camiseta par](https://images-eu.ssl-images-amazon.com/images/I/413hO5-ipOL._SL200_.jpg)](https://www.amazon.es/dp/B079RSWG9B/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B079RSWG9B/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

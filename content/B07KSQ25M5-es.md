@@ -22,6 +22,9 @@ Está [Columbia 1773272 POWDER LITE LIGHT HOODED JACKET  Chaqueta con capucha  H
 
 [![Columbia 1773272 POWDER LITE LIGHT HOODE](https://images-eu.ssl-images-amazon.com/images/I/41Ac1uFOy2L._SL200_.jpg)](https://www.amazon.es/dp/B07KSQ25M5/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KSQ25M5/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

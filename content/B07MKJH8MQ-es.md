@@ -22,6 +22,9 @@ Tienes [G-STAR RAW Shelo T-Shirt Camiseta  Negro  dk Black 6484   Medium para Ho
 
 [![G-STAR RAW Shelo T-Shirt Camiseta  Negro](https://images-eu.ssl-images-amazon.com/images/I/31HEE1o9RBL._SL200_.jpg)](https://www.amazon.es/dp/B07MKJH8MQ/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07MKJH8MQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

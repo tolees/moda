@@ -22,6 +22,9 @@ Está [Joma 100157.201 - Camiseta de equipación de Manga Corta para Hombre  Col
 
 [![Joma 100157.201 - Camiseta de equipación](https://images-eu.ssl-images-amazon.com/images/I/31820u7whDL._SL200_.jpg)](https://www.amazon.es/dp/B00ZRG0X7M/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00ZRG0X7M/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [GANT 3-Pack Trunk Boxer   Multicolor 105   XX-Large](https://www.amazon.e
 
 [![GANT 3-Pack Trunk Boxer   Multicolor 105](https://images-eu.ssl-images-amazon.com/images/I/41vGeg4bkeL._SL200_.jpg)](https://www.amazon.es/dp/B016ALT9AE/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B016ALT9AE/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Pepe Jeans Hana Glitter S/s Camiseta  Gris  Grey Marl 933   4 años  Tall
 
 [![Pepe Jeans Hana Glitter S/s Camiseta  Gr](https://images-eu.ssl-images-amazon.com/images/I/41Y5WtHltlL._SL200_.jpg)](https://www.amazon.es/dp/B07NC9PTBG/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07NC9PTBG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

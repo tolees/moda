@@ -22,6 +22,9 @@ Está [Vans Rutland III Sudadera   Asphalt Jazzy Heather Tpx   Small para Hombre
 
 [![Vans Rutland III Sudadera   Asphalt Jazz](https://images-eu.ssl-images-amazon.com/images/I/41dSk3aJPrL._SL200_.jpg)](https://www.amazon.es/dp/B07F31RKT2/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07F31RKT2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

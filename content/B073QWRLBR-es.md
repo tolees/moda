@@ -22,6 +22,9 @@ Está [Levi s 501 Original Vaqueros  Azul  Subway Station 2463   W29/L34 para Ho
 
 [![Levi s 501 Original Vaqueros  Azul  Subw](https://images-eu.ssl-images-amazon.com/images/I/41BGYee5y8L._SL200_.jpg)](https://www.amazon.es/dp/B073QWRLBR/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B073QWRLBR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

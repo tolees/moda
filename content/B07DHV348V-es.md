@@ -22,6 +22,9 @@ Está [Quiksilver Bamboo Breakfast Camiseta  Hombre  Negro  Black KVJ0   Small  
 
 [![Quiksilver Bamboo Breakfast Camiseta  Ho](https://images-eu.ssl-images-amazon.com/images/I/41dJxwPVMgL._SL200_.jpg)](https://www.amazon.es/dp/B07DHV348V/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DHV348V/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

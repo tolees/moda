@@ -22,6 +22,9 @@ Ahora mismo tienes [Columbia Powder Lite Chaqueta Resistente al Agua  Poliéster
 
 [![Columbia Powder Lite Chaqueta Resistente](https://images-eu.ssl-images-amazon.com/images/I/51W%2BAd4LgPL._SL200_.jpg)](https://www.amazon.es/dp/B07DYXW5D2/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07DYXW5D2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

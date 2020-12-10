@@ -22,6 +22,9 @@ Está [Guess M83i47k7br0  Camiseta de Tirantes para Hombre  Blanco  True White A
 
 [![Guess M83i47k7br0  Camiseta de Tirantes ](https://images-eu.ssl-images-amazon.com/images/I/410lmVzvC9L._SL200_.jpg)](https://www.amazon.es/dp/B07D7QHNF5/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07D7QHNF5/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

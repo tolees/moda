@@ -22,6 +22,9 @@ Está [s.Oliver 13703713842  Vaqueros Straight para Hombre  Azul  Blue Denim Non
 
 [![s.Oliver 13703713842  Vaqueros Straight ](https://images-eu.ssl-images-amazon.com/images/I/41tVqQ-jM1L._SL200_.jpg)](https://www.amazon.es/dp/B01N6IUMT9/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01N6IUMT9/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

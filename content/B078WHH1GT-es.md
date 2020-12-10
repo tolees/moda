@@ -22,6 +22,9 @@ Está [Inside 5SCN68& Camiseta  Marfil  Crudo 95   Medium  Tamaño del Fabricant
 
 [![Inside 5SCN68& Camiseta  Marfil  Crudo 9](https://images-eu.ssl-images-amazon.com/images/I/41Q46uaNJGL._SL200_.jpg)](https://www.amazon.es/dp/B078WHH1GT/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B078WHH1GT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [MaYee Power Guantes Gimnasia Hombre Mujer Transpirable Antid
 
 [![MaYee Power Guantes Gimnasia Hombre Muje](https://images-eu.ssl-images-amazon.com/images/I/51GVtrKqyHL._SL200_.jpg)](https://www.amazon.es/dp/B07NQ52FQ9/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07NQ52FQ9/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

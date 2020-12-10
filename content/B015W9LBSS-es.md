@@ -22,6 +22,9 @@ Tienes [Levi s kids Short Sleeves Batwin T-Shirt  Camiseta para Niños  Blanco  
 
 [![Levi s kids Short Sleeves Batwin T-Shirt](https://images-eu.ssl-images-amazon.com/images/I/41h9vAU5hxL._SL200_.jpg)](https://www.amazon.es/dp/B015W9LBSS/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B015W9LBSS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

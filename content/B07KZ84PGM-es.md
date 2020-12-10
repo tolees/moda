@@ -22,6 +22,9 @@ Está [Women s Secret PF V Shape Sbup Sw Conjuntos de Bikini  Mujer  Negro  Blac
 
 [![Women s Secret PF V Shape Sbup Sw Conjun](https://images-eu.ssl-images-amazon.com/images/I/41IqIOmU-zL._SL200_.jpg)](https://www.amazon.es/dp/B07KZ84PGM/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KZ84PGM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Liu Jo Bottom Up Ruffle Vaqueros Skinny  Azul  Dem.Blue Even
 
 [![Liu Jo Bottom Up Ruffle Vaqueros Skinny ](https://images-eu.ssl-images-amazon.com/images/I/41CbUYRRxML._SL200_.jpg)](https://www.amazon.es/dp/B07H4Y6P6K/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07H4Y6P6K/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

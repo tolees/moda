@@ -22,6 +22,9 @@ Está [Levi s SS Camiseta   Colorblock tee Peacoat/Marshmallow/Ch 0002   Large p
 
 [![Levi s SS Camiseta   Colorblock tee Peac](https://images-eu.ssl-images-amazon.com/images/I/41t9RcXjs4L._SL200_.jpg)](https://www.amazon.es/dp/B07CHS9LMJ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07CHS9LMJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

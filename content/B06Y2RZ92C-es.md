@@ -22,6 +22,9 @@ Está [Geox D New Virna H  Botas Chelsea para Mujer  Marrón  Mud   40 EU](https
 
 [![Geox D New Virna H  Botas Chelsea para M](https://images-eu.ssl-images-amazon.com/images/I/411MmHrw8jL._SL200_.jpg)](https://www.amazon.es/dp/B06Y2RZ92C/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B06Y2RZ92C/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

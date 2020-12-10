@@ -22,6 +22,9 @@ Está [Under Armour HG Armour 2.0 Long Short Pantalón Corto  Hombre  Blanco  Wh
 
 [![Under Armour HG Armour 2.0 Long Short Pa](https://images-eu.ssl-images-amazon.com/images/I/31WuY7nj9RL._SL200_.jpg)](https://www.amazon.es/dp/B01FFL4Y5U/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01FFL4Y5U/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

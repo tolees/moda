@@ -22,6 +22,9 @@ Está [TOMS Men Santiago Forged Iron Grey  Zapatos de Playa y Piscina para Hombr
 
 [![TOMS Men Santiago Forged Iron Grey  Zapa](https://images-eu.ssl-images-amazon.com/images/I/41WlaK8rh9L._SL200_.jpg)](https://www.amazon.es/dp/B01H5QMZU4/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01H5QMZU4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

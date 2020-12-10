@@ -22,6 +22,9 @@ Tienes [Cartoon 8434/7483 Blusa  Cielo  ES ES 36  DE 34  para Mujer](https://www
 
 [![Cartoon 8434/7483 Blusa  Cielo  ES ES 36](https://images-eu.ssl-images-amazon.com/images/I/51uPx0PewTL._SL200_.jpg)](https://www.amazon.es/dp/B01GQSO2US/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01GQSO2US/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

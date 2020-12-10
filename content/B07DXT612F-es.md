@@ -22,6 +22,9 @@ Está [Under Armour Raid - Camiseta de Manga Larga con Cremallera 1/4 para niño
 
 [![Under Armour Raid - Camiseta de Manga La](https://images-eu.ssl-images-amazon.com/images/I/41IZwIR7dqL._SL200_.jpg)](https://www.amazon.es/dp/B07DXT612F/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DXT612F/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

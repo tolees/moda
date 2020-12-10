@@ -22,6 +22,9 @@ Tienes [Pepe Jeans Suzane  Blusa Mujer  Multicolor  Multi   38  Talla del fabric
 
 [![Pepe Jeans Suzane  Blusa Mujer  Multicol](https://images-eu.ssl-images-amazon.com/images/I/51UB%2BIy-dgL._SL200_.jpg)](https://www.amazon.es/dp/B01MXOWW8K/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01MXOWW8K/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

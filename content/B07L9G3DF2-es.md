@@ -22,6 +22,9 @@ Tienes [Napapijri Sevora Camiseta  Blanco  Bright White 002   X-Large para Hombr
 
 [![Napapijri Sevora Camiseta  Blanco  Brigh](https://images-eu.ssl-images-amazon.com/images/I/31KKIVEN%2BHL._SL200_.jpg)](https://www.amazon.es/dp/B07L9G3DF2/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07L9G3DF2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

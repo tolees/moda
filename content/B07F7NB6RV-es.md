@@ -22,6 +22,9 @@ Ahora mismo tienes [Burton Covert Chaqueta de Snowboard  Niños  Rojo  Bitters  
 
 [![Burton Covert Chaqueta de Snowboard  Niñ](https://images-eu.ssl-images-amazon.com/images/I/41ZQM2ATTJL._SL200_.jpg)](https://www.amazon.es/dp/B07F7NB6RV/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07F7NB6RV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

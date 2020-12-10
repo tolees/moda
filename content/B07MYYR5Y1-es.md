@@ -22,6 +22,9 @@ Está [Vestidos para niñas de Flores Vestidos de Encaje para niña Vestidos Bla
 
 [![Vestidos para niñas de Flores Vestidos d](https://images-eu.ssl-images-amazon.com/images/I/31GuxLDSHkL._SL200_.jpg)](https://www.amazon.es/dp/B07MYYR5Y1/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07MYYR5Y1/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

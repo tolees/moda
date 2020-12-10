@@ -22,6 +22,9 @@ Está [Call It Spring EU Fenallan  Botines para Mujer  Negro  Jet Black 001   38
 
 [![Call It Spring EU Fenallan  Botines para](https://images-eu.ssl-images-amazon.com/images/I/41sXr4Gb6HL._SL200_.jpg)](https://www.amazon.es/dp/B07DNKWDCZ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DNKWDCZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

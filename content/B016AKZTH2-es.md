@@ -22,6 +22,9 @@ Tienes [Fendi FF 0137/S CN NT2 Gafas de sol  Negro  Matte Shiny Black/Dark Grey 
 
 [![Fendi FF 0137/S CN NT2 Gafas de sol  Neg](https://images-eu.ssl-images-amazon.com/images/I/31a1ZURyJXL._SL200_.jpg)](https://www.amazon.es/dp/B016AKZTH2/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B016AKZTH2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Zapatos de Seguridad para Hombre con Puntera de Acero Zapati
 
 [![Zapatos de Seguridad para Hombre con Pun](https://images-eu.ssl-images-amazon.com/images/I/41UF4gysdkL._SL200_.jpg)](https://www.amazon.es/dp/B07F1MXM3W/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07F1MXM3W/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Derbystar Uni - Camiseta de equipación  tamaño L - XL  Color Amarillo/A
 
 [![Derbystar Uni - Camiseta de equipación  ](https://images-eu.ssl-images-amazon.com/images/I/41JOoSREtWL._SL200_.jpg)](https://www.amazon.es/dp/B007MLY6O6/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B007MLY6O6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

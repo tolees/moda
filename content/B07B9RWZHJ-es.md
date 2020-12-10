@@ -22,6 +22,9 @@ Está [Noisy May Nmelse L/s O-Neck Top Noos  Camisa Manga Larga Mujer   Bright W
 
 [![Noisy May Nmelse L/s O-Neck Top Noos  Ca](https://images-eu.ssl-images-amazon.com/images/I/51UjKtHoEdL._SL200_.jpg)](https://www.amazon.es/dp/B07B9RWZHJ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07B9RWZHJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

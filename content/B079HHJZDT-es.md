@@ -22,6 +22,9 @@ Está [Gant O1. Cott/ELA Boatneck Top Camiseta sin Mangas  Azul  Evening Blue 43
 
 [![Gant O1. Cott/ELA Boatneck Top Camiseta ](https://images-eu.ssl-images-amazon.com/images/I/31oaB0nHzEL._SL200_.jpg)](https://www.amazon.es/dp/B079HHJZDT/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B079HHJZDT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

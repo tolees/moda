@@ -22,6 +22,9 @@ Está [Tommy Jeans TJM Circle Graphic tee Camiseta  Rot  Flame Scarlet 667   S p
 
 [![Tommy Jeans TJM Circle Graphic tee Camis](https://images-eu.ssl-images-amazon.com/images/I/41E%2BiKQ122L._SL200_.jpg)](https://www.amazon.es/dp/B07LBBDDDN/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07LBBDDDN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [find. Zapatos Brogues Mujer  Dorado  40 EU](https://www.amazon.es/dp/B06X
 
 [![find. Zapatos Brogues Mujer  Dorado  40 ](https://images-eu.ssl-images-amazon.com/images/I/41Xu02%2BzpWL._SL200_.jpg)](https://www.amazon.es/dp/B06X9WV88W/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B06X9WV88W/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [IRIS & LILLY Sh191020 bañadores  Negro  Nero   40  Talla de
 
 [![IRIS & LILLY Sh191020 bañadores  Negro  ](https://images-eu.ssl-images-amazon.com/images/I/31PPJRPE5jL._SL200_.jpg)](https://www.amazon.es/dp/B07JGJWG1C/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07JGJWG1C/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

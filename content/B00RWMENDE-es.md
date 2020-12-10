@@ -22,6 +22,9 @@ Tienes [CAMPER Pelotas  Zapatos de Cordones Oxford para Mujer  Schwarz  Black   
 
 [![CAMPER Pelotas  Zapatos de Cordones Oxfo](https://images-eu.ssl-images-amazon.com/images/I/41DwyI7IljL._SL200_.jpg)](https://www.amazon.es/dp/B00RWMENDE/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00RWMENDE/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

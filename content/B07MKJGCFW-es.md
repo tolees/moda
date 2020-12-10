@@ -22,6 +22,9 @@ Está [Esprit 029ee1d016  Falda Mujer  Azul  Navy 400   Medium](https://www.amaz
 
 [![Esprit 029ee1d016  Falda Mujer  Azul  Na](https://images-eu.ssl-images-amazon.com/images/I/41-E7qsr3AL._SL200_.jpg)](https://www.amazon.es/dp/B07MKJGCFW/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07MKJGCFW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

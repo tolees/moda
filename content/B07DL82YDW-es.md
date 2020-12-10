@@ -22,6 +22,9 @@ Ahora mismo tienes [Springfield 4.Pa.Falda Midi Pencil Falda  Mujer  Negro  Negr
 
 [![Springfield 4.Pa.Falda Midi Pencil Falda](https://images-eu.ssl-images-amazon.com/images/I/31A0i1osFaL._SL200_.jpg)](https://www.amazon.es/dp/B07DL82YDW/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07DL82YDW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

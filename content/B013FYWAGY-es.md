@@ -22,6 +22,9 @@ Está [B. Young Hadina Blouse 2 - Blusa Mujer  Blanco  38](https://www.amazon.es
 
 [![B. Young Hadina Blouse 2 - Blusa Mujer  ](https://images-eu.ssl-images-amazon.com/images/I/41chdqYGhPL._SL200_.jpg)](https://www.amazon.es/dp/B013FYWAGY/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B013FYWAGY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

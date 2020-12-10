@@ -22,6 +22,9 @@ Está [Clarks Sharon Pearl  Botines para Mujer  Negro  Black Leather   37.5 EU](
 
 [![Clarks Sharon Pearl  Botines para Mujer ](https://images-eu.ssl-images-amazon.com/images/I/41D4e4q5bEL._SL200_.jpg)](https://www.amazon.es/dp/B07BLBRNFJ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07BLBRNFJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

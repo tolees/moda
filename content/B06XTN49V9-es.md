@@ -22,6 +22,9 @@ Está [Pepe Jeans Jamison  Vaqueros Slim para Niños  Azul  10Oz Comf Str Dk Use
 
 [![Pepe Jeans Jamison  Vaqueros Slim para N](https://images-eu.ssl-images-amazon.com/images/I/41aqn2i5vFL._SL200_.jpg)](https://www.amazon.es/dp/B06XTN49V9/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B06XTN49V9/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

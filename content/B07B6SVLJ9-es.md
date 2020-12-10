@@ -22,6 +22,9 @@ Está [Burton Lelah Chaqueta de Snowboard  Mujer  Negro  True Heather   S](https
 
 [![Burton Lelah Chaqueta de Snowboard  Muje](https://images-eu.ssl-images-amazon.com/images/I/411xtPGSBwL._SL200_.jpg)](https://www.amazon.es/dp/B07B6SVLJ9/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07B6SVLJ9/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

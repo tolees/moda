@@ -22,6 +22,9 @@ Está [Only & Sons Onsloom Blue Washed LD PK 0897 Noos  Vaqueros Slim para Hombr
 
 [![Only & Sons Onsloom Blue Washed LD PK 08](https://images-eu.ssl-images-amazon.com/images/I/41NTbxGxQcL._SL200_.jpg)](https://www.amazon.es/dp/B07DX6Q72R/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DX6Q72R/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

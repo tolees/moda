@@ -22,6 +22,9 @@ Ahora mismo tienes [Tom Tailor Denim Tube Rock Mit Modischer Rib Optik Und Midi 
 
 [![Tom Tailor Denim Tube Rock Mit Modischer](https://images-eu.ssl-images-amazon.com/images/I/31mDdQ213TL._SL200_.jpg)](https://www.amazon.es/dp/B07DTZJMP4/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07DTZJMP4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

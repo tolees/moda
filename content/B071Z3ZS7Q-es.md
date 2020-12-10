@@ -22,6 +22,9 @@ Tienes [FIND Vestido Ajustable para Mujer   Azul  Blau   48  Talla del Fabricant
 
 [![FIND Vestido Ajustable para Mujer   Azul](https://images-eu.ssl-images-amazon.com/images/I/41HCy9CkUzL._SL200_.jpg)](https://www.amazon.es/dp/B071Z3ZS7Q/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B071Z3ZS7Q/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

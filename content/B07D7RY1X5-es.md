@@ -22,6 +22,9 @@ Ahora mismo tienes [Diesel 00SJ2Y  Camiseta para Hombre   Negro 900   X-Small  T
 
 [![Diesel 00SJ2Y  Camiseta para Hombre   Ne](https://images-eu.ssl-images-amazon.com/images/I/41H2CWIhrtL._SL200_.jpg)](https://www.amazon.es/dp/B07D7RY1X5/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07D7RY1X5/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

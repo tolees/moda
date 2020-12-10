@@ -22,6 +22,9 @@ Está [NACATIN Mochila Gimnasio Mujer/Hombre  Bolso Deportivo Niño con Gabinete
 
 [![NACATIN Mochila Gimnasio Mujer/Hombre  B](https://images-eu.ssl-images-amazon.com/images/I/41qUTbnY0FL._SL200_.jpg)](https://www.amazon.es/dp/B078PB7FLQ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B078PB7FLQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

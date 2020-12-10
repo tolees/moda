@@ -22,6 +22,9 @@ Está [Pepe Jeans Hatch  Vaqueros Slim para Hombre  Negro  Denim 11Oz Stay Black
 
 [![Pepe Jeans Hatch  Vaqueros Slim para Hom](https://images-eu.ssl-images-amazon.com/images/I/41eOORt7OtL._SL200_.jpg)](https://www.amazon.es/dp/B074BZ6HY8/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B074BZ6HY8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Guess M83q05k7cl0  Sudadera para Hombre  Gris  Garage Grey C.D. F9U4  X-L
 
 [![Guess M83q05k7cl0  Sudadera para Hombre ](https://images-eu.ssl-images-amazon.com/images/I/41LxLBOhiGL._SL200_.jpg)](https://www.amazon.es/dp/B07D7MYQW8/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07D7MYQW8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

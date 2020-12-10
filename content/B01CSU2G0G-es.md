@@ -22,6 +22,9 @@ Tienes [Joma Campus II Camiseta de Juego Manga Corta  Hombre  Royal  2XS](https:
 
 [![Joma Campus II Camiseta de Juego Manga C](https://images-eu.ssl-images-amazon.com/images/I/31enyrnEaxL._SL200_.jpg)](https://www.amazon.es/dp/B01CSU2G0G/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01CSU2G0G/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

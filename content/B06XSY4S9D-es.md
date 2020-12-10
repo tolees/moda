@@ -22,6 +22,9 @@ Está [FIND DC1930L vaqueros mujer  Gris  Grey   W28/L32  Talla del Fabricante: 
 
 [![FIND DC1930L vaqueros mujer  Gris  Grey ](https://images-eu.ssl-images-amazon.com/images/I/41oHYCmVdoL._SL200_.jpg)](https://www.amazon.es/dp/B06XSY4S9D/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B06XSY4S9D/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

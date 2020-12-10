@@ -22,6 +22,9 @@ Está [HAWKERS · ONE X · Caramel Carey · Sky · Gafas de sol para hombre y mu
 
 [![HAWKERS · ONE X · Caramel Carey · Sky · ](https://images-eu.ssl-images-amazon.com/images/I/31sXxrPQdnL._SL200_.jpg)](https://www.amazon.es/dp/B011VGE2DC/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B011VGE2DC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

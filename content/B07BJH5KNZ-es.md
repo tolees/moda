@@ -22,6 +22,9 @@ Tienes [G-STAR RAW Midge Saddle Mid-Waist Straight Vaqueros   Medium Indigo Aged
 
 [![G-STAR RAW Midge Saddle Mid-Waist Straig](https://images-eu.ssl-images-amazon.com/images/I/41giFDekO5L._SL200_.jpg)](https://www.amazon.es/dp/B07BJH5KNZ/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07BJH5KNZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

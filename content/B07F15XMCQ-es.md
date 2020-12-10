@@ -22,6 +22,9 @@ Está [BILLABONG Essential Jkt Chaqueta  Mujer  Rosa  Nude 4443   X-Small  Tama�
 
 [![BILLABONG Essential Jkt Chaqueta  Mujer ](https://images-eu.ssl-images-amazon.com/images/I/311I6VYBazL._SL200_.jpg)](https://www.amazon.es/dp/B07F15XMCQ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07F15XMCQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

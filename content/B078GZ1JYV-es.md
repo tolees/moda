@@ -22,6 +22,9 @@ Está [Springfield 3283208  Camiseta para Hombre  Azul  Azul Marino   X-Large  T
 
 [![Springfield 3283208  Camiseta para Hombr](https://images-eu.ssl-images-amazon.com/images/I/41oLzZ6PC4L._SL200_.jpg)](https://www.amazon.es/dp/B078GZ1JYV/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B078GZ1JYV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

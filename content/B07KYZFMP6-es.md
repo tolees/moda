@@ -22,6 +22,9 @@ Está [Springfield 2.T.Ap.Pv19.Tachas Bolita  Camiseta para Mujer   Gama Grises 
 
 [![Springfield 2.T.Ap.Pv19.Tachas Bolita  C](https://images-eu.ssl-images-amazon.com/images/I/41YrTrcf42L._SL200_.jpg)](https://www.amazon.es/dp/B07KYZFMP6/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KYZFMP6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

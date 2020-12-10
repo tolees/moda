@@ -22,6 +22,9 @@ Ahora mismo tienes [BILLABONG All Day Sherpa Zh Bo Jersey  Niños  Azul  Navy 21
 
 [![BILLABONG All Day Sherpa Zh Bo Jersey  N](https://images-eu.ssl-images-amazon.com/images/I/51m29KVEt4L._SL200_.jpg)](https://www.amazon.es/dp/B07F12WXS4/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07F12WXS4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

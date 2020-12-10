@@ -22,6 +22,9 @@ Ahora mismo tienes [Springfield 3.T.MD.Bandolera Tachas T  Bolso Bandolera para 
 
 [![Springfield 3.T.MD.Bandolera Tachas T  B](https://images-eu.ssl-images-amazon.com/images/I/41YlGconTuL._SL200_.jpg)](https://www.amazon.es/dp/B07KYZX1ZK/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07KYZX1ZK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

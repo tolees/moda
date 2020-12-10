@@ -22,6 +22,9 @@ Está [G-STAR arc 3d slim - hydrite denim - Vaqueros para hombre  Blau - Blue  D
 
 [![G-STAR arc 3d slim - hydrite denim - Vaq](https://images-eu.ssl-images-amazon.com/images/I/41ZdtqxIMdL._SL200_.jpg)](https://www.amazon.es/dp/B00VXD0R4M/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00VXD0R4M/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [JACK & JONES Jorberlin tee SS Crew Neck Camiseta   Total Eclipse Detail:S
 
 [![JACK & JONES Jorberlin tee SS Crew Neck ](https://images-eu.ssl-images-amazon.com/images/I/513l5Fhv8yL._SL200_.jpg)](https://www.amazon.es/dp/B01N21DMEV/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01N21DMEV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

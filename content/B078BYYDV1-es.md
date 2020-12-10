@@ -22,6 +22,9 @@ Está [Under Armour Woven Graphic Short Pantalón Corto  Hombre  Negro  Black 00
 
 [![Under Armour Woven Graphic Short Pantaló](https://images-eu.ssl-images-amazon.com/images/I/41lOZja1WJL._SL200_.jpg)](https://www.amazon.es/dp/B078BYYDV1/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B078BYYDV1/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Only Onlisa Short Spring Jacket Otw  Chaqueta para Mujer  Rosa Cameo Rose
 
 [![Only Onlisa Short Spring Jacket Otw  Cha](https://images-eu.ssl-images-amazon.com/images/I/41OHfIerAML._SL200_.jpg)](https://www.amazon.es/dp/B078VM1LMF/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B078VM1LMF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

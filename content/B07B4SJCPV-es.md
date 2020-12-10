@@ -22,6 +22,9 @@ Ahora mismo tienes [G-Star Loose Hooded Sw Wmn L/s  Sudadera Mujer  Rosa  Pyg 71
 
 [![G-Star Loose Hooded Sw Wmn L/s  Sudadera](https://images-eu.ssl-images-amazon.com/images/I/41dm7h4gYJL._SL200_.jpg)](https://www.amazon.es/dp/B07B4SJCPV/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07B4SJCPV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

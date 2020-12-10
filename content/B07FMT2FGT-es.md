@@ -22,6 +22,9 @@ Tienes [Bolso porta mascotas sling  mascotas propias Nolso porta mascotas sling 
 
 [![Bolso porta mascotas sling  mascotas pro](https://images-eu.ssl-images-amazon.com/images/I/41SFAJkB-LL._SL200_.jpg)](https://www.amazon.es/dp/B07FMT2FGT/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07FMT2FGT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Joma Elite V Camiseta  Unisex Adulto  Rojo  XL](https://www.amazon.es/dp/
 
 [![Joma Elite V Camiseta  Unisex Adulto  Ro](https://images-eu.ssl-images-amazon.com/images/I/41wTDFyBqEL._SL200_.jpg)](https://www.amazon.es/dp/B01ERYX3LM/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01ERYX3LM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

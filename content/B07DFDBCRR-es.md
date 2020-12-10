@@ -22,6 +22,9 @@ Está [adidas Pro Spark 2018  Zapatos de Baloncesto Unisex para Niños  Rojo Sca
 
 [![adidas Pro Spark 2018  Zapatos de Balonc](https://images-eu.ssl-images-amazon.com/images/I/41hBDI3J5LL._SL200_.jpg)](https://www.amazon.es/dp/B07DFDBCRR/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DFDBCRR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

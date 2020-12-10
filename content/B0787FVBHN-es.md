@@ -22,6 +22,9 @@ Está [Naf Naf ELIX Vestido  Negro  Noir 625    Talla del Fabricante: 34  para M
 
 [![Naf Naf ELIX Vestido  Negro  Noir 625   ](https://images-eu.ssl-images-amazon.com/images/I/41Zcy6oYnLL._SL200_.jpg)](https://www.amazon.es/dp/B0787FVBHN/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0787FVBHN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

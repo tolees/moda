@@ -22,6 +22,9 @@ Tienes [find. Falda Vaquera Suave con Cordón para Mujer   Azul  Dark Indigo   3
 
 [![find. Falda Vaquera Suave con Cordón par](https://images-eu.ssl-images-amazon.com/images/I/41p5ulPjJ5L._SL200_.jpg)](https://www.amazon.es/dp/B01MXY6H86/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01MXY6H86/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

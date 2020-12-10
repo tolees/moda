@@ -22,6 +22,9 @@ Está [Wrangler LS 2pkt Flap Shir Camisa  Rojo  Scarlet Red Zuu   Small para Hom
 
 [![Wrangler LS 2pkt Flap Shir Camisa  Rojo ](https://images-eu.ssl-images-amazon.com/images/I/51chPS8duzL._SL200_.jpg)](https://www.amazon.es/dp/B07FYBX6J6/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FYBX6J6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

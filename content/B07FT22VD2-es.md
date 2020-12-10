@@ -22,6 +22,9 @@ Está [Lee Logo tee  Camiseta para Mujer  Rojo  Bright Red EF  Small](https://ww
 
 [![Lee Logo tee  Camiseta para Mujer  Rojo ](https://images-eu.ssl-images-amazon.com/images/I/41bI1Nvfr0L._SL200_.jpg)](https://www.amazon.es/dp/B07FT22VD2/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FT22VD2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Under Armour Torch  Zapatos de Baloncesto para Hombre  Negro
 
 [![Under Armour Torch  Zapatos de Baloncest](https://images-eu.ssl-images-amazon.com/images/I/31fkVRQO99L._SL200_.jpg)](https://www.amazon.es/dp/B076S7P6SN/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B076S7P6SN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

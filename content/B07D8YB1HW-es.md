@@ -22,6 +22,9 @@ Está [Tommy Hilfiger LS tee Logo  Top de Pijama para Hombre  Rosa  Pomegranate 
 
 [![Tommy Hilfiger LS tee Logo  Top de Pijam](https://images-eu.ssl-images-amazon.com/images/I/413GcH4s8LL._SL200_.jpg)](https://www.amazon.es/dp/B07D8YB1HW/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07D8YB1HW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

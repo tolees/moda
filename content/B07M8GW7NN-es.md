@@ -22,6 +22,9 @@ Está [The North Face S/S tee Camiseta Celebration  Hombre  Negro  TNF Black   S
 
 [![The North Face S/S tee Camiseta Celebrat](https://images-eu.ssl-images-amazon.com/images/I/411JxF1d3cL._SL200_.jpg)](https://www.amazon.es/dp/B07M8GW7NN/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07M8GW7NN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

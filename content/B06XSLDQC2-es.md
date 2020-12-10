@@ -22,6 +22,9 @@ Ahora mismo tienes [Iris & Lilly BLICR001 sujetadores  Beige  Black/nude   100A 
 
 [![Iris & Lilly BLICR001 sujetadores  Beige](https://images-eu.ssl-images-amazon.com/images/I/41hzvwNyr4L._SL200_.jpg)](https://www.amazon.es/dp/B06XSLDQC2/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B06XSLDQC2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

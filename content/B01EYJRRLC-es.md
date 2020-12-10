@@ -22,6 +22,9 @@ Está [Levi s 511 Slim Fit  Vaqueros para Hombre  Azul  Headed South 2090  W33/L
 
 [![Levi s 511 Slim Fit  Vaqueros para Hombr](https://images-eu.ssl-images-amazon.com/images/I/31qx3wy%2BtUL._SL200_.jpg)](https://www.amazon.es/dp/B01EYJRRLC/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01EYJRRLC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

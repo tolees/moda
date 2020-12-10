@@ -22,6 +22,9 @@ Tienes [The North Face Y Glove Guantes Apex + Etip  Unisex niños  TNF Black  M]
 
 [![The North Face Y Glove Guantes Apex + Et](https://images-eu.ssl-images-amazon.com/images/I/41rh3gYIkYL._SL200_.jpg)](https://www.amazon.es/dp/B078WFSQDF/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B078WFSQDF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

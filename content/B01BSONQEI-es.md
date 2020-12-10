@@ -22,6 +22,9 @@ Está [Geox J Casey N  Abarcas Niñas  Negro  BLACKC9999   31 EU](https://www.am
 
 [![Geox J Casey N  Abarcas Niñas  Negro  BL](https://images-eu.ssl-images-amazon.com/images/I/41SpIuLNrcL._SL200_.jpg)](https://www.amazon.es/dp/B01BSONQEI/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01BSONQEI/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

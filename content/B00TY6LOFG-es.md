@@ -22,6 +22,9 @@ Tienes [The North Face Horizon Convertible Pantalón  Mujer  Vanadis Grey  6](ht
 
 [![The North Face Horizon Convertible Panta](https://images-eu.ssl-images-amazon.com/images/I/41rUi0td0tL._SL200_.jpg)](https://www.amazon.es/dp/B00TY6LOFG/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00TY6LOFG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

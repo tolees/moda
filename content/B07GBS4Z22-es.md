@@ -22,6 +22,9 @@ Tienes [New Look Drop Shoulder Crew Sudadera  Rojo  Red NIU 62   Small  Talla de
 
 [![New Look Drop Shoulder Crew Sudadera  Ro](https://images-eu.ssl-images-amazon.com/images/I/31byI0RqWEL._SL200_.jpg)](https://www.amazon.es/dp/B07GBS4Z22/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07GBS4Z22/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

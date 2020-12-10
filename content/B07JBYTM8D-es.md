@@ -22,6 +22,9 @@ Tienes [Lee Extreme Motion Vaqueros Straight  Azul  Trip CR   32W / 34L para Hom
 
 [![Lee Extreme Motion Vaqueros Straight  Az](https://images-eu.ssl-images-amazon.com/images/I/41ou6pIRpNL._SL200_.jpg)](https://www.amazon.es/dp/B07JBYTM8D/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07JBYTM8D/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

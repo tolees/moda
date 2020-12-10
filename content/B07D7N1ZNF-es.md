@@ -22,6 +22,9 @@ Tienes [s.Oliver 24400-31  Zapatos de Tacón para Mujer  Rojo  Wine Patent 517  
 
 [![s.Oliver 24400-31  Zapatos de Tacón para](https://images-eu.ssl-images-amazon.com/images/I/519nHkH4XpL._SL200_.jpg)](https://www.amazon.es/dp/B07D7N1ZNF/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07D7N1ZNF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

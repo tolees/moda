@@ -22,6 +22,9 @@ Está [AURIQUE Top Deportivo Mujer  Negro  Black/red/white   Small](https://www.
 
 [![AURIQUE Top Deportivo Mujer  Negro  Blac](https://images-eu.ssl-images-amazon.com/images/I/41C6CbXZylL._SL200_.jpg)](https://www.amazon.es/dp/B076BVYDXP/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B076BVYDXP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

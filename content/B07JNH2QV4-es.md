@@ -22,6 +22,9 @@ Está [Morgan 191-rtuly.n  Vestido Fiesta Mujer Multico  36  Talla del Fabricant
 
 [![Morgan 191-rtuly.n  Vestido Fiesta Mujer](https://images-eu.ssl-images-amazon.com/images/I/41SuBpRN8IL._SL200_.jpg)](https://www.amazon.es/dp/B07JNH2QV4/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07JNH2QV4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

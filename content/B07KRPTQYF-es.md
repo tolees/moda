@@ -22,6 +22,9 @@ Está [Columbia Hombre Chaqueta Polar con Cremallera Completa  KELSO DRIVE FULL 
 
 [![Columbia Hombre Chaqueta Polar con Crema](https://images-eu.ssl-images-amazon.com/images/I/41HCLpvEPrL._SL200_.jpg)](https://www.amazon.es/dp/B07KRPTQYF/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KRPTQYF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Puma Amplified tee Camiseta  Hombre  Verde  Pino Ponderosa   M](https://w
 
 [![Puma Amplified tee Camiseta  Hombre  Ver](https://images-eu.ssl-images-amazon.com/images/I/31vqWxI98HL._SL200_.jpg)](https://www.amazon.es/dp/B07DG2HCV4/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DG2HCV4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

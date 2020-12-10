@@ -22,6 +22,9 @@ Está [G-STAR RAW 3301 Deconstructed Skinny  Vaqueros Skinny Hombre  Azul  Dk Ag
 
 [![G-STAR RAW 3301 Deconstructed Skinny  Va](https://images-eu.ssl-images-amazon.com/images/I/413rTLy5IAL._SL200_.jpg)](https://www.amazon.es/dp/B07BJHHBG3/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07BJHHBG3/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

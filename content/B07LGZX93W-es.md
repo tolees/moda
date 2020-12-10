@@ -22,6 +22,9 @@ Está [Guess Mujer SWSOLAL9246 Monedero Negro Size: 20.5x10x2 cm  W x H x L ](ht
 
 [![Guess Mujer SWSOLAL9246 Monedero Negro S](https://images-eu.ssl-images-amazon.com/images/I/31-y6DO5YfL._SL200_.jpg)](https://www.amazon.es/dp/B07LGZX93W/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07LGZX93W/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

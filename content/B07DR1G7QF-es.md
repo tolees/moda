@@ -22,6 +22,9 @@ Tienes [Volcom Pen BSC LS Camiseta  Hombre  Negro  M](https://www.amazon.es/dp/B
 
 [![Volcom Pen BSC LS Camiseta  Hombre  Negr](https://images-eu.ssl-images-amazon.com/images/I/41k01DL%2BGtL._SL200_.jpg)](https://www.amazon.es/dp/B07DR1G7QF/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07DR1G7QF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

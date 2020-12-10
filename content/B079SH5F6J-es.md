@@ -22,6 +22,9 @@ Tienes [Desigual Sweat_Cintia  Sudadera para Niñas   Navy 5000   140  Talla del
 
 [![Desigual Sweat_Cintia  Sudadera para Niñ](https://images-eu.ssl-images-amazon.com/images/I/51xNc4IXzlL._SL200_.jpg)](https://www.amazon.es/dp/B079SH5F6J/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B079SH5F6J/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

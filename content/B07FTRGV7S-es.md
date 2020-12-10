@@ -22,6 +22,9 @@ Ahora mismo tienes [Lee Elly Vaqueros Slim  Azul  Light Rugged GE   27W / 33L pa
 
 [![Lee Elly Vaqueros Slim  Azul  Light Rugg](https://images-eu.ssl-images-amazon.com/images/I/318PR357ATL._SL200_.jpg)](https://www.amazon.es/dp/B07FTRGV7S/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07FTRGV7S/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

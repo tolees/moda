@@ -22,6 +22,9 @@ Está [Levi s Levis 200sf Schooldaze Boxer Brief 2p  Bóxer Hombre  Negro  Cavia
 
 [![Levi s Levis 200sf Schooldaze Boxer Brie](https://images-eu.ssl-images-amazon.com/images/I/41PoPxCBILL._SL200_.jpg)](https://www.amazon.es/dp/B07HFLJRGJ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07HFLJRGJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

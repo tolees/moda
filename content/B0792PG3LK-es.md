@@ -22,6 +22,9 @@ Tienes [Geox J Djrock Girl A  Zapatillas sin Cordones para Niñas   Dk Rose C800
 
 [![Geox J Djrock Girl A  Zapatillas sin Cor](https://images-eu.ssl-images-amazon.com/images/I/41hJQwOfu3L._SL200_.jpg)](https://www.amazon.es/dp/B0792PG3LK/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B0792PG3LK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Lacoste Ramc402 Bóxer  Azul  Navy/Turkishsea 970   Medium para Hombre](
 
 [![Lacoste Ramc402 Bóxer  Azul  Navy/Turkis](https://images-eu.ssl-images-amazon.com/images/I/41e32921o1L._SL200_.jpg)](https://www.amazon.es/dp/B07JNG8Y78/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07JNG8Y78/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

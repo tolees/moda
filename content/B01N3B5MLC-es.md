@@ -22,6 +22,9 @@ Tienes [JACK & JONES Jorhero tee SS Crew Neck  Camiseta para Hombre  Verde  Lily
 
 [![JACK & JONES Jorhero tee SS Crew Neck  C](https://images-eu.ssl-images-amazon.com/images/I/41q0VHYInSL._SL200_.jpg)](https://www.amazon.es/dp/B01N3B5MLC/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01N3B5MLC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

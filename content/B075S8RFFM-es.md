@@ -22,6 +22,9 @@ Ahora mismo tienes [Gant Chambray Block Shirt  Camisa para Mujer  Azul  Blue Oce
 
 [![Gant Chambray Block Shirt  Camisa para M](https://images-eu.ssl-images-amazon.com/images/I/41UBHU9hBeL._SL200_.jpg)](https://www.amazon.es/dp/B075S8RFFM/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B075S8RFFM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Simply Be Novelty Sequin Flamingo Xmas Tshirt Camiseta  Gris  Grey Marl  
 
 [![Simply Be Novelty Sequin Flamingo Xmas T](https://images-eu.ssl-images-amazon.com/images/I/41UK49Wz2iL._SL200_.jpg)](https://www.amazon.es/dp/B07HFPH36R/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07HFPH36R/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

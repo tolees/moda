@@ -22,6 +22,9 @@ Está [Tommy Hilfiger Mercer-2str Vaqueros Straight  Gris  Chandler Grey 911   W
 
 [![Tommy Hilfiger Mercer-2str Vaqueros Stra](https://images-eu.ssl-images-amazon.com/images/I/41sUEmiKOfL._SL200_.jpg)](https://www.amazon.es/dp/B079KSNPXX/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B079KSNPXX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

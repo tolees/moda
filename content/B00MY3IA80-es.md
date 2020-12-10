@@ -22,6 +22,9 @@ Ahora mismo tienes [Clarks Raspin Plan - Zapatos con Cordones de Cuero Hombre  C
 
 [![Clarks Raspin Plan - Zapatos con Cordone](https://images-eu.ssl-images-amazon.com/images/I/41J8JQHt%2BFL._SL200_.jpg)](https://www.amazon.es/dp/B00MY3IA80/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00MY3IA80/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

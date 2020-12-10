@@ -22,6 +22,9 @@ Está [Seac RAA Long EVO Camiseta para Snorkeling y Natación con Protección UV
 
 [![Seac RAA Long EVO Camiseta para Snorkeli](https://images-eu.ssl-images-amazon.com/images/I/41iz90M3SBL._SL200_.jpg)](https://www.amazon.es/dp/B007THWEYC/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B007THWEYC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

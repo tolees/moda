@@ -22,6 +22,9 @@ Está [Lee Luke Vaqueros Tapered  Azul  Light Daze ZX   W26/L32 para Hombre](htt
 
 [![Lee Luke Vaqueros Tapered  Azul  Light D](https://images-eu.ssl-images-amazon.com/images/I/41T8YlHc4zL._SL200_.jpg)](https://www.amazon.es/dp/B07FTSHDCL/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FTSHDCL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

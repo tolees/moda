@@ -22,6 +22,9 @@ Tienes [Burton Gameday Chaqueta de Snowboard  Niños  Azul  Mood Indigo  / Rojo 
 
 [![Burton Gameday Chaqueta de Snowboard  Ni](https://images-eu.ssl-images-amazon.com/images/I/41vpDWro4tL._SL200_.jpg)](https://www.amazon.es/dp/B07DPWZL2J/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07DPWZL2J/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

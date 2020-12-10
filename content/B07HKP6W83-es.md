@@ -22,6 +22,9 @@ Tienes [Wrangler Greensboro Vaqueros  Verde  Moss Green 330   W35/L34 para Hombr
 
 [![Wrangler Greensboro Vaqueros  Verde  Mos](https://images-eu.ssl-images-amazon.com/images/I/31mZG13pMqL._SL200_.jpg)](https://www.amazon.es/dp/B07HKP6W83/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07HKP6W83/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

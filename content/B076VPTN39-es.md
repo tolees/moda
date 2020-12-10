@@ -22,6 +22,9 @@ Está [G-STAR RAW New Classic Regular R T S/s  Camiseta para Hombre  Marrón  An
 
 [![G-STAR RAW New Classic Regular R T S/s  ](https://images-eu.ssl-images-amazon.com/images/I/51JNtWb78fL._SL200_.jpg)](https://www.amazon.es/dp/B076VPTN39/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B076VPTN39/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

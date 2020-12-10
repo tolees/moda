@@ -22,6 +22,9 @@ Está [Marco Tozzi 2-2-25306-31  Botines para Mujer  Negro  Black Ant.Comb 096  
 
 [![Marco Tozzi 2-2-25306-31  Botines para M](https://images-eu.ssl-images-amazon.com/images/I/41nTYk4eA0L._SL200_.jpg)](https://www.amazon.es/dp/B07CC7G2TL/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07CC7G2TL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

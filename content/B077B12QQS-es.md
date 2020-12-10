@@ -22,6 +22,9 @@ Ahora mismo tienes [Pepe Jeans Rodeo PM303159  Camisa para Hombre  Blanco  White
 
 [![Pepe Jeans Rodeo PM303159  Camisa para H](https://images-eu.ssl-images-amazon.com/images/I/31ydefmsyhL._SL200_.jpg)](https://www.amazon.es/dp/B077B12QQS/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B077B12QQS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

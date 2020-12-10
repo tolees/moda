@@ -22,6 +22,9 @@ Ahora mismo tienes [Mayoral 4028  Camiseta de Manga Larga para Niños   Damasco 
 
 [![Mayoral 4028  Camiseta de Manga Larga pa](https://images-eu.ssl-images-amazon.com/images/I/41cNrdsSPuL._SL200_.jpg)](https://www.amazon.es/dp/B07HPT4DFC/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07HPT4DFC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

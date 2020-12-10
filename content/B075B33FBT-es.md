@@ -22,6 +22,9 @@ Tienes [Tommy Hilfiger Chk Shirt L/s  Blusa para Niños  Amarillo  Freesia 14-08
 
 [![Tommy Hilfiger Chk Shirt L/s  Blusa para](https://images-eu.ssl-images-amazon.com/images/I/51Ci4QKg6yL._SL200_.jpg)](https://www.amazon.es/dp/B075B33FBT/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B075B33FBT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Geox B Kilwi Boy C  Zapatillas para Bebés  Azul  Navy/White
 
 [![Geox B Kilwi Boy C  Zapatillas para Bebé](https://images-eu.ssl-images-amazon.com/images/I/412BiMjDnWL._SL200_.jpg)](https://www.amazon.es/dp/B07DK1XNWB/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07DK1XNWB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

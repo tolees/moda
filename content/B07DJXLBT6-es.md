@@ -22,6 +22,9 @@ Está [Geox B Sandal Multy Boy B  Sandalias para Bebés  Navy/Yellow C0657  24 E
 
 [![Geox B Sandal Multy Boy B  Sandalias par](https://images-eu.ssl-images-amazon.com/images/I/41eiYk5hXmL._SL200_.jpg)](https://www.amazon.es/dp/B07DJXLBT6/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DJXLBT6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

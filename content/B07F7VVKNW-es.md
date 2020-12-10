@@ -22,6 +22,9 @@ Ahora mismo tienes [Burton Covert Chaqueta de Snowboard  Hombre  Verde  Mosstone
 
 [![Burton Covert Chaqueta de Snowboard  Hom](https://images-eu.ssl-images-amazon.com/images/I/41k6ByUAGnL._SL200_.jpg)](https://www.amazon.es/dp/B07F7VVKNW/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07F7VVKNW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Women s Secret D1 Pink Sello PJ FR Conjuntos de Pijama Rosa 77  Small  Ta
 
 [![Women s Secret D1 Pink Sello PJ FR Conju](https://images-eu.ssl-images-amazon.com/images/I/31CWCwXs2-L._SL200_.jpg)](https://www.amazon.es/dp/B07DLLS8C7/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DLLS8C7/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

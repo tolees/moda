@@ -22,6 +22,9 @@ Ahora mismo tienes [JACK & JONES Jjeoxford Shirt L/s Noos  Camisa para Hombre   
 
 [![JACK & JONES Jjeoxford Shirt L/s Noos  C](https://images-eu.ssl-images-amazon.com/images/I/41RNW0m-nPL._SL200_.jpg)](https://www.amazon.es/dp/B07FNLMB19/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07FNLMB19/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

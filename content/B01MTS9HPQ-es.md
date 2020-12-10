@@ -22,6 +22,9 @@ Está [JACK & JONES Jorstripe Sweat Crew Neck  Sudadera Hombre  Negro  Black   S
 
 [![JACK & JONES Jorstripe Sweat Crew Neck  ](https://images-eu.ssl-images-amazon.com/images/I/51x64MNJIFL._SL200_.jpg)](https://www.amazon.es/dp/B01MTS9HPQ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01MTS9HPQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

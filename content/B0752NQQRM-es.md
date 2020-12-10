@@ -22,6 +22,9 @@ Ahora mismo tienes [G-STAR RAW D-staq 3d Skinny  Vaqueros skinny Hombre  Azul  D
 
 [![G-STAR RAW D-staq 3d Skinny  Vaqueros sk](https://images-eu.ssl-images-amazon.com/images/I/41tszoBThaL._SL200_.jpg)](https://www.amazon.es/dp/B0752NQQRM/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B0752NQQRM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

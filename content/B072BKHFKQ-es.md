@@ -22,6 +22,9 @@ Tienes [Inside 4SPLN27& Camiseta  Gris  Medium  Tamaño del Fabricante:M  para M
 
 [![Inside 4SPLN27& Camiseta  Gris  Medium  ](https://images-eu.ssl-images-amazon.com/images/I/51e-EljRrgL._SL200_.jpg)](https://www.amazon.es/dp/B072BKHFKQ/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B072BKHFKQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

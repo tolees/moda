@@ -22,6 +22,9 @@ Ahora mismo tienes [Levi s Sutro Puffer Parka  Parka Hombre  Verde  Olive Night 
 
 [![Levi s Sutro Puffer Parka  Parka Hombre ](https://images-eu.ssl-images-amazon.com/images/I/41xirFUhiTL._SL200_.jpg)](https://www.amazon.es/dp/B073R1ZQFF/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B073R1ZQFF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

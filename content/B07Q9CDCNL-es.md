@@ -22,6 +22,9 @@ Está [Pepe Jeans Wildshire Bolso Bandolera  20 cm  1.76 litros](https://www.ama
 
 [![Pepe Jeans Wildshire Bolso Bandolera  20](https://images-eu.ssl-images-amazon.com/images/I/511YGhefFxL._SL200_.jpg)](https://www.amazon.es/dp/B07Q9CDCNL/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07Q9CDCNL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

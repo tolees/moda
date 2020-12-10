@@ -22,6 +22,9 @@ Ahora mismo tienes [Ipanema Charm Vi Sand Fem  Sandalias con Tira Vertical para 
 
 [![Ipanema Charm Vi Sand Fem  Sandalias con](https://images-eu.ssl-images-amazon.com/images/I/41LIs4FPqXL._SL200_.jpg)](https://www.amazon.es/dp/B07FJW1CMT/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07FJW1CMT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

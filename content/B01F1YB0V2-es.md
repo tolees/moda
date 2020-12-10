@@ -22,6 +22,9 @@ Está [Diesel  Camiseta para Hombre  Schwarz  900 Black 0WAER   X-Large](https:/
 
 [![Diesel  Camiseta para Hombre  Schwarz  9](https://images-eu.ssl-images-amazon.com/images/I/41ypnfPOMIL._SL200_.jpg)](https://www.amazon.es/dp/B01F1YB0V2/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01F1YB0V2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

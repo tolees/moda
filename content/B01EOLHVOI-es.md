@@ -22,6 +22,9 @@ Está [Lee Daren Zip  Vaqueros para Hombre  Azul  Raven Blue Ec   W38/L34](https
 
 [![Lee Daren Zip  Vaqueros para Hombre  Azu](https://images-eu.ssl-images-amazon.com/images/I/41OHp73tk%2BL._SL200_.jpg)](https://www.amazon.es/dp/B01EOLHVOI/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01EOLHVOI/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

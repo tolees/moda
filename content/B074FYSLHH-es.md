@@ -22,6 +22,9 @@ Ahora mismo tienes [find. Jersey de Punto para Mujer  Rosa  Bright Pink   38  Ta
 
 [![find. Jersey de Punto para Mujer  Rosa  ](https://images-eu.ssl-images-amazon.com/images/I/414TeeNiqvL._SL200_.jpg)](https://www.amazon.es/dp/B074FYSLHH/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B074FYSLHH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

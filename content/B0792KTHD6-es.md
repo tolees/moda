@@ -22,6 +22,9 @@ Tienes [Geox J Arzach Boy C  Zapatillas para Niños   Navy/Grey C0661   32 EU](h
 
 [![Geox J Arzach Boy C  Zapatillas para Niñ](https://images-eu.ssl-images-amazon.com/images/I/41zFeiJ3K2L._SL200_.jpg)](https://www.amazon.es/dp/B0792KTHD6/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B0792KTHD6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

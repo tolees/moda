@@ -22,6 +22,9 @@ Está [Vero Moda Vmkara LS Key Hole Blouse  suéter para Mujer  Marfil Pristine 
 
 [![Vero Moda Vmkara LS Key Hole Blouse  sué](https://images-eu.ssl-images-amazon.com/images/I/41bW-BZ2kNL._SL200_.jpg)](https://www.amazon.es/dp/B077V2SRZY/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B077V2SRZY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

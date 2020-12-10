@@ -22,6 +22,9 @@ Tienes [The North Face Y Jkt Chaqueta Snow Quest  Unisex niños  Kokomo Green  S
 
 [![The North Face Y Jkt Chaqueta Snow Quest](https://images-eu.ssl-images-amazon.com/images/I/41L9KlqTy2L._SL200_.jpg)](https://www.amazon.es/dp/B011BW0W7G/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B011BW0W7G/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [KRISP 6610-WINBLK-08  Vestido Corto Fruncido Busto  Granate  6610   36](
 
 [![KRISP 6610-WINBLK-08  Vestido Corto Frun](https://images-eu.ssl-images-amazon.com/images/I/41FXM2EjwxL._SL200_.jpg)](https://www.amazon.es/dp/B06XYRDSM6/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B06XYRDSM6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

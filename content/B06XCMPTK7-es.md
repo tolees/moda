@@ -22,6 +22,9 @@ Está [Pepe Jeans Hatch  Vaqueros Slim para Hombre  Azul  Denim S55   W36/L30](h
 
 [![Pepe Jeans Hatch  Vaqueros Slim para Hom](https://images-eu.ssl-images-amazon.com/images/I/41Wgxg1La6L._SL200_.jpg)](https://www.amazon.es/dp/B06XCMPTK7/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B06XCMPTK7/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

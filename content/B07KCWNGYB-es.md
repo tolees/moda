@@ -22,6 +22,9 @@ Está [Hurley - Camiseta para hombre  Negro  M  High Bars Prm Tee Ss](https://ww
 
 [![Hurley - Camiseta para hombre  Negro  M ](https://images-eu.ssl-images-amazon.com/images/I/415AMXOONoL._SL200_.jpg)](https://www.amazon.es/dp/B07KCWNGYB/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KCWNGYB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Armani Exchange 6zya06  Vestido Mujer  Negro  Black 1200   X-Small  Tall
 
 [![Armani Exchange 6zya06  Vestido Mujer  N](https://images-eu.ssl-images-amazon.com/images/I/31-oZ66jPBL._SL200_.jpg)](https://www.amazon.es/dp/B07D1S1FQY/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07D1S1FQY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

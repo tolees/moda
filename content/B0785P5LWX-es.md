@@ -22,6 +22,9 @@ Está [HIKARO Chaleco de Plumas con Capucha Mujer  Beige  Stone   46  Talla del 
 
 [![HIKARO Chaleco de Plumas con Capucha Muj](https://images-eu.ssl-images-amazon.com/images/I/41bKM%2B6dYcL._SL200_.jpg)](https://www.amazon.es/dp/B0785P5LWX/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0785P5LWX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

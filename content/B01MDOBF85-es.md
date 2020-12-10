@@ -22,6 +22,9 @@ Ahora mismo tienes [Soaked in Luxury Dafne Bomber Jacket  Chaqueta para Mujer  G
 
 [![Soaked in Luxury Dafne Bomber Jacket  Ch](https://images-eu.ssl-images-amazon.com/images/I/41qwjyxx28L._SL200_.jpg)](https://www.amazon.es/dp/B01MDOBF85/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01MDOBF85/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

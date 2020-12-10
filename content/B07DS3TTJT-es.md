@@ -22,6 +22,9 @@ Está [Adidas W TR Co Tote Bolso Bandolera  25 cm  Tinmis/Carbon/Carbon](https:/
 
 [![Adidas W TR Co Tote Bolso Bandolera  25 ](https://images-eu.ssl-images-amazon.com/images/I/41pO4uKfvHL._SL200_.jpg)](https://www.amazon.es/dp/B07DS3TTJT/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DS3TTJT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Urban Classics Light Jacket  Chaqueta Bomber para Hombre  Gris  Darkgrey 
 
 [![Urban Classics Light Jacket  Chaqueta Bo](https://images-eu.ssl-images-amazon.com/images/I/41AtcQlWveL._SL200_.jpg)](https://www.amazon.es/dp/B01N9S9XLN/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01N9S9XLN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

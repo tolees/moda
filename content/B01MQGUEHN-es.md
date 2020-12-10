@@ -22,6 +22,9 @@ Está [Chatham Lewis II  Zapatos de Cordones Brogue para Hombre  Marrón  Tan 00
 
 [![Chatham Lewis II  Zapatos de Cordones Br](https://images-eu.ssl-images-amazon.com/images/I/41HtB2YPuYL._SL200_.jpg)](https://www.amazon.es/dp/B01MQGUEHN/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01MQGUEHN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

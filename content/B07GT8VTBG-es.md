@@ -22,6 +22,9 @@ Tienes [New Look Deli  Botines para Mujer  Beige  Tan 18   39 EU](https://www.am
 
 [![New Look Deli  Botines para Mujer  Beige](https://images-eu.ssl-images-amazon.com/images/I/31BaCCUKQ6L._SL200_.jpg)](https://www.amazon.es/dp/B07GT8VTBG/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07GT8VTBG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

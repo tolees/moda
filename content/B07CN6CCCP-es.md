@@ -22,6 +22,9 @@ Está [Crocs Classic Clog  Zuecos Unisex Adulto  Beige  Cobblestone 2V3   42/43 
 
 [![Crocs Classic Clog  Zuecos Unisex Adulto](https://images-eu.ssl-images-amazon.com/images/I/31gtw1hp6yL._SL200_.jpg)](https://www.amazon.es/dp/B07CN6CCCP/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07CN6CCCP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

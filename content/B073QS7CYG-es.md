@@ -22,6 +22,9 @@ Ahora mismo tienes [FIND Botines de Puntera con Cordones para Mujer  Negro  Blac
 
 [![FIND Botines de Puntera con Cordones par](https://images-eu.ssl-images-amazon.com/images/I/31tm3Up6SaL._SL200_.jpg)](https://www.amazon.es/dp/B073QS7CYG/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B073QS7CYG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

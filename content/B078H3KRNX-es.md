@@ -22,6 +22,9 @@ Tienes [COMVIP Hombres Sin fisuras cráneo Impreso Las vendas abrigo de la bufan
 
 [![COMVIP Hombres Sin fisuras cráneo Impres](https://images-eu.ssl-images-amazon.com/images/I/51uNQV7%2BViL._SL200_.jpg)](https://www.amazon.es/dp/B078H3KRNX/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B078H3KRNX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [REPLAY Waitom Vaqueros Slim  Azul  Blue Denim 9   W30/L34 pa
 
 [![REPLAY Waitom Vaqueros Slim  Azul  Blue ](https://images-eu.ssl-images-amazon.com/images/I/41GDwMqzt1L._SL200_.jpg)](https://www.amazon.es/dp/B07C9PH73Z/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07C9PH73Z/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

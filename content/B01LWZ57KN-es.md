@@ -22,6 +22,9 @@ Está [Polaroid PLD 6017/S Q2 TIZ 60  Gafas de sol Unisex Adulto  Rosa Bluesf Fu
 
 [![Polaroid PLD 6017/S Q2 TIZ 60  Gafas de ](https://images-eu.ssl-images-amazon.com/images/I/31RhMnlrknL._SL200_.jpg)](https://www.amazon.es/dp/B01LWZ57KN/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01LWZ57KN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

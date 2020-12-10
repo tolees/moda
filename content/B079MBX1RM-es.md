@@ -22,6 +22,9 @@ Ahora mismo tienes [MERAKI Camiseta de Rayas de Manga Corta Hombre  Blanco  Stri
 
 [![MERAKI Camiseta de Rayas de Manga Corta ](https://images-eu.ssl-images-amazon.com/images/I/41yA%2B8IuR5L._SL200_.jpg)](https://www.amazon.es/dp/B079MBX1RM/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B079MBX1RM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

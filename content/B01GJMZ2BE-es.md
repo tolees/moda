@@ -22,6 +22,9 @@ Tienes [PIECES PCRAYA ROUND NECK BLOUSE NOOS  Camisa Manga Larga Mujer  Multicol
 
 [![PIECES PCRAYA ROUND NECK BLOUSE NOOS  Ca](https://images-eu.ssl-images-amazon.com/images/I/51AUfOUuoHL._SL200_.jpg)](https://www.amazon.es/dp/B01GJMZ2BE/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01GJMZ2BE/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

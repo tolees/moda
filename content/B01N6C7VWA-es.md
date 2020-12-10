@@ -22,6 +22,9 @@ Ahora mismo tienes [Pepe Jeans Hatch  Vaqueros Slim para Hombre  Azul  Denim M85
 
 [![Pepe Jeans Hatch  Vaqueros Slim para Hom](https://images-eu.ssl-images-amazon.com/images/I/41frsgxydBL._SL200_.jpg)](https://www.amazon.es/dp/B01N6C7VWA/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01N6C7VWA/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Pepe Jeans Taylor Falda    Denim Cn6   Medium para Mujer](https://www.am
 
 [![Pepe Jeans Taylor Falda    Denim Cn6   M](https://images-eu.ssl-images-amazon.com/images/I/31x3WaNNIIL._SL200_.jpg)](https://www.amazon.es/dp/B07CRJ32KX/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07CRJ32KX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

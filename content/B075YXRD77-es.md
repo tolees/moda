@@ -22,6 +22,9 @@ Ahora mismo tienes [find. Parka Ligera Hombre  Azul  Navy   XX-Large](https://ww
 
 [![find. Parka Ligera Hombre  Azul  Navy   ](https://images-eu.ssl-images-amazon.com/images/I/41dOroBZGWL._SL200_.jpg)](https://www.amazon.es/dp/B075YXRD77/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B075YXRD77/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

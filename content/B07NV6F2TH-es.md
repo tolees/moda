@@ -22,6 +22,9 @@ Tienes [Bolso Pecho Hombre Mujer Bolsos Bandolera Mochila Táctical Impermeable 
 
 [![Bolso Pecho Hombre Mujer Bolsos Bandoler](https://images-eu.ssl-images-amazon.com/images/I/3100CpsHxuL._SL200_.jpg)](https://www.amazon.es/dp/B07NV6F2TH/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07NV6F2TH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

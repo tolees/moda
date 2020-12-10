@@ -22,6 +22,9 @@ Está [Naf Naf Kenr49d  Vestido Mujer  Rosa  Framboise 391   38](https://www.ama
 
 [![Naf Naf Kenr49d  Vestido Mujer  Rosa  Fr](https://images-eu.ssl-images-amazon.com/images/I/317-OLaKCoL._SL200_.jpg)](https://www.amazon.es/dp/B07KKRKY6S/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KKRKY6S/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

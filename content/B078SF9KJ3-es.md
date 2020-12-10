@@ -22,6 +22,9 @@ Tienes [Esprit 038ee2b028  Vaqueros Slim Hombre  Azul  Blue Dark Wash 901   W33/
 
 [![Esprit 038ee2b028  Vaqueros Slim Hombre ](https://images-eu.ssl-images-amazon.com/images/I/41nP2yAkB5L._SL200_.jpg)](https://www.amazon.es/dp/B078SF9KJ3/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B078SF9KJ3/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

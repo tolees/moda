@@ -22,6 +22,9 @@ Tienes [Pantalón Corto Shorts clásicas Pantalones Deportivos Mujer Braguitas B
 
 [![Pantalón Corto Shorts clásicas Pantalone](https://images-eu.ssl-images-amazon.com/images/I/41FwbmBPwoL._SL200_.jpg)](https://www.amazon.es/dp/B07BCBWC86/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07BCBWC86/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

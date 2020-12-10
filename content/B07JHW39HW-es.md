@@ -22,6 +22,9 @@ Está [Puma ESS Logo tee Camiseta  Hombre  Amarillo  Blazing Yellow   M](https:/
 
 [![Puma ESS Logo tee Camiseta  Hombre  Amar](https://images-eu.ssl-images-amazon.com/images/I/41lck5gT-CL._SL200_.jpg)](https://www.amazon.es/dp/B07JHW39HW/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07JHW39HW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

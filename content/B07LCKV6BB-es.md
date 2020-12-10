@@ -22,6 +22,9 @@ Está [Amaza S925 Plata de Ley 100 Idiomas Te Amo Collar con Caja de Regalo de J
 
 [![Amaza S925 Plata de Ley 100 Idiomas Te A](https://images-eu.ssl-images-amazon.com/images/I/41Qap18qPJL._SL200_.jpg)](https://www.amazon.es/dp/B07LCKV6BB/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07LCKV6BB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

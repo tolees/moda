@@ -22,6 +22,9 @@ Está [Wilson Falda de tenis  W Team 12.5 Skirt  Poliéster/licra  Negro  Talla:
 
 [![Wilson Falda de tenis  W Team 12.5 Skirt](https://images-eu.ssl-images-amazon.com/images/I/41qS-WA73XL._SL200_.jpg)](https://www.amazon.es/dp/B0781VZZJM/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0781VZZJM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

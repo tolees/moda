@@ -22,6 +22,9 @@ Está [Lee Luke  Vaqueros para Hombre  Gris  Concrete Grey Gc   W28/L32](https:/
 
 [![Lee Luke  Vaqueros para Hombre  Gris  Co](https://images-eu.ssl-images-amazon.com/images/I/31sFWpf5yoL._SL200_.jpg)](https://www.amazon.es/dp/B07FTR74X1/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FTR74X1/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

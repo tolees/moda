@@ -22,6 +22,9 @@ Está [Levi s Graphic Gym Sudadera  Gris  Box Tab Crew Smokestack Htr 0004   XX-
 
 [![Levi s Graphic Gym Sudadera  Gris  Box T](https://images-eu.ssl-images-amazon.com/images/I/41C3BAZNV0L._SL200_.jpg)](https://www.amazon.es/dp/B07K75MDHC/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07K75MDHC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

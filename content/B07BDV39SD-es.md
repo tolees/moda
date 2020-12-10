@@ -22,6 +22,9 @@ Está [Agatha Ruiz de la Prada 181938  Botines para Niñas  Rosa  181938/B/Amz F
 
 [![Agatha Ruiz de la Prada 181938  Botines ](https://images-eu.ssl-images-amazon.com/images/I/41VjR6DBaOL._SL200_.jpg)](https://www.amazon.es/dp/B07BDV39SD/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07BDV39SD/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

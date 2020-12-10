@@ -22,6 +22,9 @@ Está [Pepe Jeans Grace PL503793  Camiseta para Mujer  Azul  Frost Blue 503  X-L
 
 [![Pepe Jeans Grace PL503793  Camiseta para](https://images-eu.ssl-images-amazon.com/images/I/41rVyHQggpL._SL200_.jpg)](https://www.amazon.es/dp/B077GG3N5Y/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B077GG3N5Y/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

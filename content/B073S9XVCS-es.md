@@ -22,6 +22,9 @@ Está [JACK & JONES Jcoexnine Jacket  Chaqueta para Hombre  Verde  Rosin Fit:One
 
 [![JACK & JONES Jcoexnine Jacket  Chaqueta ](https://images-eu.ssl-images-amazon.com/images/I/41EtbCzao2L._SL200_.jpg)](https://www.amazon.es/dp/B073S9XVCS/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B073S9XVCS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

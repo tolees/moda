@@ -22,6 +22,9 @@ Está [Pepe Jeans Kingston Zip Vaqueros Straight    Denim Gris Gm2   W30/L34 Tai
 
 [![Pepe Jeans Kingston Zip Vaqueros Straigh](https://images-eu.ssl-images-amazon.com/images/I/4119im1RMDL._SL200_.jpg)](https://www.amazon.es/dp/B07CS9W9ZB/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07CS9W9ZB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

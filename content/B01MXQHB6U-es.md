@@ -22,6 +22,9 @@ Está [Vero Moda Vmroos 2/4 Short Dress  Vestido Mujer   Total Eclipse   40](htt
 
 [![Vero Moda Vmroos 2/4 Short Dress  Vestid](https://images-eu.ssl-images-amazon.com/images/I/41PzmGB016L._SL200_.jpg)](https://www.amazon.es/dp/B01MXQHB6U/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01MXQHB6U/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

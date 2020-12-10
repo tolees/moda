@@ -22,6 +22,9 @@ Tienes [Springfield 7Ba Jacquard Posici. Gg7 Jersey  Hombre  Azul  Gama Azules 1
 
 [![Springfield 7Ba Jacquard Posici. Gg7 Jer](https://images-eu.ssl-images-amazon.com/images/I/41gPakYrWHL._SL200_.jpg)](https://www.amazon.es/dp/B07DLFVC8Q/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07DLFVC8Q/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

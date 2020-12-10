@@ -22,6 +22,9 @@ Está [Charanga VESTUL Vestido  Bebé-Niñas  Gris Tejano 30   86  Tamaño del F
 
 [![Charanga VESTUL Vestido  Bebé-Niñas  Gri](https://images-eu.ssl-images-amazon.com/images/I/41CjqIxY30L._SL200_.jpg)](https://www.amazon.es/dp/B07GBKC885/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07GBKC885/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

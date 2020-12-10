@@ -22,6 +22,9 @@ Está [Sandalias para niño Sandalias Deportivas Zapatillas de Trekking y Sender
 
 [![Sandalias para niño Sandalias Deportivas](https://images-eu.ssl-images-amazon.com/images/I/51tYve5bnwL._SL200_.jpg)](https://www.amazon.es/dp/B07QYT9CTD/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07QYT9CTD/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

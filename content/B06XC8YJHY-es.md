@@ -22,6 +22,9 @@ Ahora mismo tienes [G-STAR RAW Lynn D-mid Super Skinny Wmn - Vaqueros skinny Muj
 
 [![G-STAR RAW Lynn D-mid Super Skinny Wmn -](https://images-eu.ssl-images-amazon.com/images/I/31UlT1CLiRL._SL200_.jpg)](https://www.amazon.es/dp/B06XC8YJHY/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B06XC8YJHY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

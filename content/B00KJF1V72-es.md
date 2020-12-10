@@ -22,6 +22,9 @@ Está [Carrera Unisex adulto 5034/S 70 KKL Gafas de sol  Negro  Black Dkruth/Bro
 
 [![Carrera Unisex adulto 5034/S 70 KKL Gafa](https://images-eu.ssl-images-amazon.com/images/I/31-4sbNKUXL._SL200_.jpg)](https://www.amazon.es/dp/B00KJF1V72/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00KJF1V72/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Star Wars PK1112-A Boxer  XX-Small  Tamaño del Fabricante:6  para Hombr
 
 [![Star Wars PK1112-A Boxer  XX-Small  Tama](https://images-eu.ssl-images-amazon.com/images/I/513m-F93c8L._SL200_.jpg)](https://www.amazon.es/dp/B07HP9JY44/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07HP9JY44/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

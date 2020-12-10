@@ -22,6 +22,9 @@ Tienes [Samsonite 54795/1251 Attack SLG Monedero  Color Marrón](https://www.ama
 
 [![Samsonite 54795/1251 Attack SLG Monedero](https://images-eu.ssl-images-amazon.com/images/I/51N9TMLEtZL._SL200_.jpg)](https://www.amazon.es/dp/B00C96QVZ6/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00C96QVZ6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

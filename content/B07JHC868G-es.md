@@ -22,6 +22,9 @@ Ahora mismo tienes [Puma ESS+ Cut Off Tank Camiseta De Tirantes  Mujer  Blanco W
 
 [![Puma ESS+ Cut Off Tank Camiseta De Tiran](https://images-eu.ssl-images-amazon.com/images/I/41xnbCgMKDL._SL200_.jpg)](https://www.amazon.es/dp/B07JHC868G/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07JHC868G/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

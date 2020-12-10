@@ -22,6 +22,9 @@ Está [firesara Gafas de natación para niños protección UV  antiniebla y sin 
 
 [![firesara Gafas de natación para niños pr](https://images-eu.ssl-images-amazon.com/images/I/41okdJWGG2L._SL200_.jpg)](https://www.amazon.es/dp/B07H81JY3G/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07H81JY3G/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

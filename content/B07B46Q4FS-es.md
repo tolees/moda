@@ -22,6 +22,9 @@ Tienes [JACK & JONES Jjiglenn Jjoriginal NZ 005 Noos  Vaqueros Slim Hombre  Azul
 
 [![JACK & JONES Jjiglenn Jjoriginal NZ 005 ](https://images-eu.ssl-images-amazon.com/images/I/41T8u2Z-VqL._SL200_.jpg)](https://www.amazon.es/dp/B07B46Q4FS/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07B46Q4FS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

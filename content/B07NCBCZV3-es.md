@@ -22,6 +22,9 @@ Está [Pepe Jeans Finsbury Vaqueros Pitillo Hombre  Gris  Wiser Wash Grey Used D
 
 [![Pepe Jeans Finsbury Vaqueros Pitillo Hom](https://images-eu.ssl-images-amazon.com/images/I/31SbVXZy2eL._SL200_.jpg)](https://www.amazon.es/dp/B07NCBCZV3/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07NCBCZV3/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

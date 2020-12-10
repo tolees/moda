@@ -22,6 +22,9 @@ Ahora mismo tienes [PUMA Modern Sports FoldUp Leggins  Mujer  Negro Black/Fair A
 
 [![PUMA Modern Sports FoldUp Leggins  Mujer](https://images-eu.ssl-images-amazon.com/images/I/31LCj4%2B5GbL._SL200_.jpg)](https://www.amazon.es/dp/B07JWVPWG1/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07JWVPWG1/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

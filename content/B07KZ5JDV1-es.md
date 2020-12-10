@@ -22,6 +22,9 @@ Está [JACK & JONES Jcolaw tee SS Crew Neck Camiseta  Azul  Maritime Blue Fit:Sl
 
 [![JACK & JONES Jcolaw tee SS Crew Neck Cam]()](https://www.amazon.es/dp/B07KZ5JDV1/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KZ5JDV1/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

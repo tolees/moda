@@ -22,6 +22,9 @@ Está [Diesel T-Just-YL Maglietta Camiseta  Blanco  White 100   M para Hombre](h
 
 [![Diesel T-Just-YL Maglietta Camiseta  Bla](https://images-eu.ssl-images-amazon.com/images/I/419gbMgpF5L._SL200_.jpg)](https://www.amazon.es/dp/B07GBLWLLR/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07GBLWLLR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

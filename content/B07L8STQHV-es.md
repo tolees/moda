@@ -22,6 +22,9 @@ Tienes [ZIPPY ZB0203_455_12 Sudadera  Niños  Gris  Light Grey Melange 1068    T
 
 [![ZIPPY ZB0203_455_12 Sudadera  Niños  Gri](https://images-eu.ssl-images-amazon.com/images/I/31HDW3B%2BaSL._SL200_.jpg)](https://www.amazon.es/dp/B07L8STQHV/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07L8STQHV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

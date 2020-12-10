@@ -22,6 +22,9 @@ Está [Springfield 4.T.Daily.Ap.Pv19.Polo FK Blusa  Mujer  Beige  Crudo 96   One
 
 [![Springfield 4.T.Daily.Ap.Pv19.Polo FK Bl]()](https://www.amazon.es/dp/B07KYYWXQ9/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KYYWXQ9/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Marc O Polo Body & Beach Multipack M-Shorts 3-Pack Bóxer  Azul  Aquarium
 
 [![Marc O Polo Body & Beach Multipack M-Sho](https://images-eu.ssl-images-amazon.com/images/I/31ix7ibb9XL._SL200_.jpg)](https://www.amazon.es/dp/B07JW78MNT/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07JW78MNT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

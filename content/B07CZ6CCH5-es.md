@@ -22,6 +22,9 @@ Tienes [G-STAR RAW Lynn Mid-Waist Skinny Vaqueros  Azul  Medium Aged Restored 89
 
 [![G-STAR RAW Lynn Mid-Waist Skinny Vaquero](https://images-eu.ssl-images-amazon.com/images/I/413JfSJbxXL._SL200_.jpg)](https://www.amazon.es/dp/B07CZ6CCH5/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07CZ6CCH5/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

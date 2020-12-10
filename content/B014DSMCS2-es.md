@@ -22,6 +22,9 @@ Está [KRISP Mujer Camiseta Larga Básica Manga Corta  7604-RED-18 ](https://www
 
 [![KRISP Mujer Camiseta Larga Básica Manga ](https://images-eu.ssl-images-amazon.com/images/I/41Jc0lwlEHL._SL200_.jpg)](https://www.amazon.es/dp/B014DSMCS2/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B014DSMCS2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

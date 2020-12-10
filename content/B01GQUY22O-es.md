@@ -22,6 +22,9 @@ Ahora mismo tienes [The North Face Venture 2 Chaqueta  Mujer  Azul  Coastal Fjor
 
 [![The North Face Venture 2 Chaqueta  Mujer](https://images-eu.ssl-images-amazon.com/images/I/418G2R0vbLL._SL200_.jpg)](https://www.amazon.es/dp/B01GQUY22O/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01GQUY22O/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Juana Barranco Tesa Falda Casual  Mujer  Negro  46  Tamaño del Fabrican
 
 [![Juana Barranco Tesa Falda Casual  Mujer ](https://images-eu.ssl-images-amazon.com/images/I/41LJ3g2VYiL._SL200_.jpg)](https://www.amazon.es/dp/B06XFDGDCY/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B06XFDGDCY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

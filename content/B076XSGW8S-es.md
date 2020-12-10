@@ -22,6 +22,9 @@ Tienes [Geox J Jensea E  Zapatillas para Niñas  Rosa  Fuchsia   35 EU](https://
 
 [![Geox J Jensea E  Zapatillas para Niñas  ](https://images-eu.ssl-images-amazon.com/images/I/51ZVSti7-WL._SL200_.jpg)](https://www.amazon.es/dp/B076XSGW8S/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B076XSGW8S/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

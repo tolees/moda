@@ -22,6 +22,9 @@ Está [Esprit 049ee1e001 Vestido  Negro  Black 001   Medium para Mujer](https://
 
 [![Esprit 049ee1e001 Vestido  Negro  Black ](https://images-eu.ssl-images-amazon.com/images/I/51sdFKKWqbL._SL200_.jpg)](https://www.amazon.es/dp/B07NB7JNK5/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07NB7JNK5/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

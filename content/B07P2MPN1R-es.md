@@ -22,6 +22,9 @@ Está [Diesel Sleenker L.32 Trousers Vaqueros Skinny  Azul Blue Denim 01  W32/L3
 
 [![Diesel Sleenker L.32 Trousers Vaqueros S](https://images-eu.ssl-images-amazon.com/images/I/41RPqJpMHdL._SL200_.jpg)](https://www.amazon.es/dp/B07P2MPN1R/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07P2MPN1R/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

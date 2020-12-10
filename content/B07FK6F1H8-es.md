@@ -22,6 +22,9 @@ Está [Eono Essentials - Chaqueta para mujer 3 en 1 con capucha fija  gris oscur
 
 [![Eono Essentials - Chaqueta para mujer 3 ](https://images-eu.ssl-images-amazon.com/images/I/41cblnwZ5nL._SL200_.jpg)](https://www.amazon.es/dp/B07FK6F1H8/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FK6F1H8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [BOSS tee 7 Camiseta  Gris  Light/Pastel Grey 441   X-Large para Hombre](h
 
 [![BOSS tee 7 Camiseta  Gris  Light/Pastel ](https://images-eu.ssl-images-amazon.com/images/I/41oINveIRoL._SL200_.jpg)](https://www.amazon.es/dp/B07KGD48FK/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KGD48FK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

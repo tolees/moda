@@ -22,6 +22,9 @@ Está [United Colors of Benetton Heavy Jacket  Chaqueta Hombre  Azul  Dark Blue 
 
 [![United Colors of Benetton Heavy Jacket  ](https://images-eu.ssl-images-amazon.com/images/I/41TVGMnCkUL._SL200_.jpg)](https://www.amazon.es/dp/B07DJ48V6P/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DJ48V6P/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

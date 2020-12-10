@@ -22,6 +22,9 @@ Está [FIND Blusa Metalizada para Mujer   Plateado  Silber   40  Talla del Fabri
 
 [![FIND Blusa Metalizada para Mujer   Plate](https://images-eu.ssl-images-amazon.com/images/I/51aGDL1Xj8L._SL200_.jpg)](https://www.amazon.es/dp/B071Z3N8CK/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B071Z3N8CK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

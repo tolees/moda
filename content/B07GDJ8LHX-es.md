@@ -22,6 +22,9 @@ Tienes [Levi s Graphic Set-in Neck  Camiseta para Hombre  Gris  Ssnl Boxtab Midt
 
 [![Levi s Graphic Set-in Neck  Camiseta par](https://images-eu.ssl-images-amazon.com/images/I/41y9FzG86-L._SL200_.jpg)](https://www.amazon.es/dp/B07GDJ8LHX/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07GDJ8LHX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

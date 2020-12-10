@@ -22,6 +22,9 @@ Tienes [CID DC Originals-Heroine Pop Art  Camiseta para Mujer   Negro   Large](h
 
 [![CID DC Originals-Heroine Pop Art  Camise](https://images-eu.ssl-images-amazon.com/images/I/41dUJ7GbK2L._SL200_.jpg)](https://www.amazon.es/dp/B01N8Z0BDS/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01N8Z0BDS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

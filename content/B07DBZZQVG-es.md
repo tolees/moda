@@ -22,6 +22,9 @@ Está [Puma Popcat  Zapatos de Playa y Piscina Unisex Adulto  Blanco White-Surf 
 
 [![Puma Popcat  Zapatos de Playa y Piscina ](https://images-eu.ssl-images-amazon.com/images/I/31w22epnm2L._SL200_.jpg)](https://www.amazon.es/dp/B07DBZZQVG/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DBZZQVG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

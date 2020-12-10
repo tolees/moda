@@ -22,6 +22,9 @@ Tienes [Levi s Plus Size 310 Pl Shping SPR Skinny Vaqueros  Azul  Affinity Plus 
 
 [![Levi s Plus Size 310 Pl Shping SPR Skinn](https://images-eu.ssl-images-amazon.com/images/I/41MkzHWqWgL._SL200_.jpg)](https://www.amazon.es/dp/B07FHB2YRT/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07FHB2YRT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Calvin Klein K30K300747543002  Camisa Para Hombre  Azul  Denim   42](htt
 
 [![Calvin Klein K30K300747543002  Camisa Pa](https://images-eu.ssl-images-amazon.com/images/I/41DEeYH5hjL._SL200_.jpg)](https://www.amazon.es/dp/B072X54JTP/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B072X54JTP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

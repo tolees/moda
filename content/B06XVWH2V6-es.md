@@ -22,6 +22,9 @@ Ahora mismo tienes [Vestido Corto de Mujer con Hombros Descubiertos Vestidos Ver
 
 [![Vestido Corto de Mujer con Hombros Descu](https://images-eu.ssl-images-amazon.com/images/I/41vrz54C8hL._SL200_.jpg)](https://www.amazon.es/dp/B06XVWH2V6/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B06XVWH2V6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

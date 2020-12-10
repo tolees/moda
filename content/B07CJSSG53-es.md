@@ -22,6 +22,9 @@ Tienes [JIM HALO Gafas de Sol Polarizadas Fit Over Desgaste Conducción Nocturna
 
 [![JIM HALO Gafas de Sol Polarizadas Fit Ov](https://images-eu.ssl-images-amazon.com/images/I/41YKEIXBZHL._SL200_.jpg)](https://www.amazon.es/dp/B07CJSSG53/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07CJSSG53/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

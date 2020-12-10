@@ -22,6 +22,9 @@ Está [Under Armour UA Tech Graphic Short Nov Pantalón Corto  Hombre  Gris  Pit
 
 [![Under Armour UA Tech Graphic Short Nov P](https://images-eu.ssl-images-amazon.com/images/I/41lRJSLYu-L._SL200_.jpg)](https://www.amazon.es/dp/B07CZJCRZT/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07CZJCRZT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

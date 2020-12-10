@@ -22,6 +22,9 @@ Tienes [Gant TG Breton Striped Jersey Dress Vestido  Beige  Eggshell 113   128  
 
 [![Gant TG Breton Striped Jersey Dress Vest](https://images-eu.ssl-images-amazon.com/images/I/41qVNm%2BAKuL._SL200_.jpg)](https://www.amazon.es/dp/B07KPFX5XL/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07KPFX5XL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

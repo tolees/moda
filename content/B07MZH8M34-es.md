@@ -22,6 +22,9 @@ Está [Superdry Super 23 Hawaii Entry tee Camiseta  Blanco  Rodeo White Snowy Xq
 
 [![Superdry Super 23 Hawaii Entry tee Camis](https://images-eu.ssl-images-amazon.com/images/I/310Kqq34utL._SL200_.jpg)](https://www.amazon.es/dp/B07MZH8M34/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07MZH8M34/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Columbia Chaqueta Softshell Cortavientos para Mujer  Cascade Ridge Jacket
 
 [![Columbia Chaqueta Softshell Cortavientos](https://images-eu.ssl-images-amazon.com/images/I/41LNA8DDFbL._SL200_.jpg)](https://www.amazon.es/dp/B07DZ6HW33/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DZ6HW33/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

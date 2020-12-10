@@ -22,6 +22,9 @@ Tienes [Double Agent 87270 Sudadera  Gris Vigore Medio    Tamaño del Fabricante
 
 [![Double Agent 87270 Sudadera  Gris Vigore](https://images-eu.ssl-images-amazon.com/images/I/41TNo5exAKL._SL200_.jpg)](https://www.amazon.es/dp/B075RGYZP3/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B075RGYZP3/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

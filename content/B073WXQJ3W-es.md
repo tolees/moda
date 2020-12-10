@@ -22,6 +22,9 @@ Está [find. Jersey de Cachemir para Mujer  Rosa  Flower Show Gp-6052   46  Tall
 
 [![find. Jersey de Cachemir para Mujer  Ros](https://images-eu.ssl-images-amazon.com/images/I/41UB53QomxL._SL200_.jpg)](https://www.amazon.es/dp/B073WXQJ3W/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B073WXQJ3W/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

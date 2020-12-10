@@ -22,6 +22,9 @@ Está [Springfield 4.2.J.Ap.T.Studs Print Jersey   Gris Oscuro 40   Medium  Tama
 
 [![Springfield 4.2.J.Ap.T.Studs Print Jerse](https://images-eu.ssl-images-amazon.com/images/I/41mFdMQPIHL._SL200_.jpg)](https://www.amazon.es/dp/B07DLLJWGS/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DLLJWGS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

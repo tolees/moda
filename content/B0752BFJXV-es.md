@@ -22,6 +22,9 @@ Ahora mismo tienes [G-STAR RAW 5620 3D Skinny  Vaqueros Skinny Hombre  Azul  Lig
 
 [![G-STAR RAW 5620 3D Skinny  Vaqueros Skin](https://images-eu.ssl-images-amazon.com/images/I/41NdkPara9L._SL200_.jpg)](https://www.amazon.es/dp/B0752BFJXV/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B0752BFJXV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

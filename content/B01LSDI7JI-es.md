@@ -22,6 +22,9 @@ Ahora mismo tienes [Big Star Colton  Vaqueros Tapered para Hombre  Azul W32L34](
 
 [![Big Star Colton  Vaqueros Tapered para H](https://images-eu.ssl-images-amazon.com/images/I/41nmIeyNW9L._SL200_.jpg)](https://www.amazon.es/dp/B01LSDI7JI/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01LSDI7JI/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

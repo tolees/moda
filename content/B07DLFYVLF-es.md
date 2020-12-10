@@ -22,6 +22,9 @@ Está [Springfield Bimat. All Over Tropical Camiseta  Mujer  Azul  Azul Marino 1
 
 [![Springfield Bimat. All Over Tropical Cam](https://images-eu.ssl-images-amazon.com/images/I/51NufmHnlDL._SL200_.jpg)](https://www.amazon.es/dp/B07DLFYVLF/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DLFYVLF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

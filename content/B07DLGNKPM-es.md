@@ -22,6 +22,9 @@ Está [Women s Secret SF Satin Soft Robe Vestido  Mujer  Gris  Gris 44   Large  
 
 [![Women s Secret SF Satin Soft Robe Vestid](https://images-eu.ssl-images-amazon.com/images/I/31Kc78cL5uL._SL200_.jpg)](https://www.amazon.es/dp/B07DLGNKPM/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DLGNKPM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

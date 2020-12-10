@@ -22,6 +22,9 @@ Tienes [G-STAR RAW Rodis T-Shirt Camiseta  Gris  Dk Shamrock Htr 8047   X-Large 
 
 [![G-STAR RAW Rodis T-Shirt Camiseta  Gris ](https://images-eu.ssl-images-amazon.com/images/I/41spBsHuczL._SL200_.jpg)](https://www.amazon.es/dp/B07MKJH8QY/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07MKJH8QY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

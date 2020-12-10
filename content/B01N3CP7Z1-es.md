@@ -22,6 +22,9 @@ Tienes [Camper Peu K400048-005 Botines Mujer 38](https://www.amazon.es/dp/B01N3C
 
 [![Camper Peu K400048-005 Botines Mujer 38](https://images-eu.ssl-images-amazon.com/images/I/41mAnLXDMFL._SL200_.jpg)](https://www.amazon.es/dp/B01N3CP7Z1/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01N3CP7Z1/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Guantes anticortes Twinzee® - Protección nivel 5 de alto rendimiento  a
 
 [![Guantes anticortes Twinzee® - Protección](https://images-eu.ssl-images-amazon.com/images/I/51f0pyy7rHL._SL200_.jpg)](https://www.amazon.es/dp/B016NAGOZU/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B016NAGOZU/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

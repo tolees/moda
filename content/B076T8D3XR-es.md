@@ -22,6 +22,9 @@ Tienes [Skechers Upgrades  Sandalias de Plataforma para Mujer  Dorado  Rose Gold
 
 [![Skechers Upgrades  Sandalias de Platafor](https://images-eu.ssl-images-amazon.com/images/I/41j73AKzc7L._SL200_.jpg)](https://www.amazon.es/dp/B076T8D3XR/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B076T8D3XR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

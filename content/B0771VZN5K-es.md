@@ -22,6 +22,9 @@ Ahora mismo tienes [Columbia Silver Ridge II Camisa de Senderismo Manga Corta  H
 
 [![Columbia Silver Ridge II Camisa de Sende](https://images-eu.ssl-images-amazon.com/images/I/41OMXkzYpzL._SL200_.jpg)](https://www.amazon.es/dp/B0771VZN5K/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B0771VZN5K/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

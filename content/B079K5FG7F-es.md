@@ -22,6 +22,9 @@ Está [Lee Morton Vaqueros Rectos  Azul  Mid Blue Ro   38W / 36L para Hombre](ht
 
 [![Lee Morton Vaqueros Rectos  Azul  Mid Bl](https://images-eu.ssl-images-amazon.com/images/I/41aJAG66FXL._SL200_.jpg)](https://www.amazon.es/dp/B079K5FG7F/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B079K5FG7F/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

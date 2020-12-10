@@ -22,6 +22,9 @@ Ahora mismo tienes [FIND Court Zapatos de Tacón  Negro Black  38 EU](https://ww
 
 [![FIND Court Zapatos de Tacón  Negro Black](https://images-eu.ssl-images-amazon.com/images/I/31D87Xc686L._SL200_.jpg)](https://www.amazon.es/dp/B07D45H4WL/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07D45H4WL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

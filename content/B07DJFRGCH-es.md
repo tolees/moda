@@ -22,6 +22,9 @@ Está [Dockers by Gerli 35cp308  Botines para Mujer  Negro  Schwarz 100   37 EU]
 
 [![Dockers by Gerli 35cp308  Botines para M](https://images-eu.ssl-images-amazon.com/images/I/41XljOxcaRL._SL200_.jpg)](https://www.amazon.es/dp/B07DJFRGCH/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DJFRGCH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

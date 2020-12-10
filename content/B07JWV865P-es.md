@@ -22,6 +22,9 @@ Ahora mismo tienes [PUMA Knockout Jacket Sudadera  Mujer  Black Heather  XS](htt
 
 [![PUMA Knockout Jacket Sudadera  Mujer  Bl](https://images-eu.ssl-images-amazon.com/images/I/31qjrmdbtBL._SL200_.jpg)](https://www.amazon.es/dp/B07JWV865P/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07JWV865P/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

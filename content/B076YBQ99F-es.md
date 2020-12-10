@@ -22,6 +22,9 @@ Está [Levi s Chaqueta Bomber para Mujer  Azul  Kora Get It Together 0003  Large
 
 [![Levi s Chaqueta Bomber para Mujer  Azul ](https://images-eu.ssl-images-amazon.com/images/I/41lcginlPAL._SL200_.jpg)](https://www.amazon.es/dp/B076YBQ99F/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B076YBQ99F/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Superdry Hombre Cork Colour Pop Sandalias de Dedo Size: 40/41 EU](https:
 
 [![Superdry Hombre Cork Colour Pop Sandalia](https://images-eu.ssl-images-amazon.com/images/I/41a9Bcx615L._SL200_.jpg)](https://www.amazon.es/dp/B01N5I0EHI/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01N5I0EHI/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

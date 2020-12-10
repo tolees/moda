@@ -22,6 +22,9 @@ Está [Jacamo Hombre Stetch Skinny Jean 33\" Vaqueros Skinny Not Applicable  Neg
 
 [![Jacamo Hombre Stetch Skinny Jean 33\" Va](https://images-eu.ssl-images-amazon.com/images/I/31Lga6pdv8L._SL200_.jpg)](https://www.amazon.es/dp/B07JJPQK9Y/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07JJPQK9Y/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

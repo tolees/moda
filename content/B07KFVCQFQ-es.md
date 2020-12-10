@@ -22,6 +22,9 @@ Está [edc by Esprit Mujer 019cc1k007 Camisa Manga Larga Not Applicable  Rojo  D
 
 [![edc by Esprit Mujer 019cc1k007 Camisa Ma](https://images-eu.ssl-images-amazon.com/images/I/41GSbLZsyIL._SL200_.jpg)](https://www.amazon.es/dp/B07KFVCQFQ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KFVCQFQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

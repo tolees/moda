@@ -22,6 +22,9 @@ Tienes [Clarks Stafford Park5 - Zapatos Hombre  Marrón  44](https://www.amazon.
 
 [![Clarks Stafford Park5 - Zapatos Hombre  ](https://images-eu.ssl-images-amazon.com/images/I/41uhMQx6Z9L._SL200_.jpg)](https://www.amazon.es/dp/B00EPFWY96/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00EPFWY96/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

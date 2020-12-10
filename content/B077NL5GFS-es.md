@@ -22,6 +22,9 @@ Está [Lee Rider Jeans Vaqueros Slim  Azul  Kick It Cdpf   28W / 32L para Hombre
 
 [![Lee Rider Jeans Vaqueros Slim  Azul  Kic](https://images-eu.ssl-images-amazon.com/images/I/41kpxb%2B1G9L._SL200_.jpg)](https://www.amazon.es/dp/B077NL5GFS/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B077NL5GFS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

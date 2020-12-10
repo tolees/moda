@@ -22,6 +22,9 @@ Tienes [Sublevel H5086N44271A - Parka para Hombre  Color Dark Green 12400  Talla
 
 [![Sublevel H5086N44271A - Parka para Hombr](https://images-eu.ssl-images-amazon.com/images/I/51SD1JG050L._SL200_.jpg)](https://www.amazon.es/dp/B00O45LZYC/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00O45LZYC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

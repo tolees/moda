@@ -22,6 +22,9 @@ Está [Dolores Promesas 107437 Vestido  Naranja VAR   Tamaño del Fabricante:36 
 
 [![Dolores Promesas 107437 Vestido  Naranja](https://images-eu.ssl-images-amazon.com/images/I/415Jp1hHlyL._SL200_.jpg)](https://www.amazon.es/dp/B07D7N2B3J/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07D7N2B3J/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

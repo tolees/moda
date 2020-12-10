@@ -22,6 +22,9 @@ Está [HUGO Errik Camisa  Blanco  Open White 199   X-Large  Talla del Fabricante
 
 [![HUGO Errik Camisa  Blanco  Open White 19](https://images-eu.ssl-images-amazon.com/images/I/31po%2B%2B4I4pL._SL200_.jpg)](https://www.amazon.es/dp/B07KKVTFPB/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KKVTFPB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

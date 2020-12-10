@@ -22,6 +22,9 @@ Está [Adidas BA7849  Sandalias Deportivas para Niñas  Azul  Blue/Footwear Whit
 
 [![Adidas BA7849  Sandalias Deportivas para](https://images-eu.ssl-images-amazon.com/images/I/41nBc3poWuL._SL200_.jpg)](https://www.amazon.es/dp/B01NAEEAIU/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01NAEEAIU/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

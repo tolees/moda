@@ -22,6 +22,9 @@ Está [Joma - Camiseta Record Rosa Fluor-Negro m/c para Hombre](https://www.amaz
 
 [![Joma - Camiseta Record Rosa Fluor-Negro ](https://images-eu.ssl-images-amazon.com/images/I/41s5Jl2IOhL._SL200_.jpg)](https://www.amazon.es/dp/B0107SD5DI/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0107SD5DI/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

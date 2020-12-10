@@ -22,6 +22,9 @@ Está [The North Face S/S HypreSS St Camisa  Hombre  Asphalt Grey  L](https://ww
 
 [![The North Face S/S HypreSS St Camisa  Ho](https://images-eu.ssl-images-amazon.com/images/I/51JOcs8hcGL._SL200_.jpg)](https://www.amazon.es/dp/B078GFQJZ7/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B078GFQJZ7/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Tommy Hilfiger Elfie Lace Open-nk Top 1/2 Slv Camiseta  Blanco  Classic W
 
 [![Tommy Hilfiger Elfie Lace Open-nk Top 1/](https://images-eu.ssl-images-amazon.com/images/I/31zVkgW7JKL._SL200_.jpg)](https://www.amazon.es/dp/B07LBKMTLG/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07LBKMTLG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

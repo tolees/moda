@@ -22,6 +22,9 @@ Ahora mismo tienes [Pepe Jeans New Brooke Vaqueros Straight  Azul  Dark Used Den
 
 [![Pepe Jeans New Brooke Vaqueros Straight ](https://images-eu.ssl-images-amazon.com/images/I/314doK9Ru3L._SL200_.jpg)](https://www.amazon.es/dp/B07NC7SPQ6/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07NC7SPQ6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

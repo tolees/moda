@@ -22,6 +22,9 @@ Ahora mismo tienes [Crocs Classic  Zuecos Unisex Adulto  Azul  Navy 410b   39/40
 
 [![Crocs Classic  Zuecos Unisex Adulto  Azu](https://images-eu.ssl-images-amazon.com/images/I/41p5V2y1AAL._SL200_.jpg)](https://www.amazon.es/dp/B01J99LV4G/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01J99LV4G/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

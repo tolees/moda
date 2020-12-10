@@ -22,6 +22,9 @@ Está [Boss Trunk Microprint  Bóxer para Hombre  Negro  Black 003   Large](http
 
 [![Boss Trunk Microprint  Bóxer para Hombre](https://images-eu.ssl-images-amazon.com/images/I/41-giUFCDoL._SL200_.jpg)](https://www.amazon.es/dp/B07G4F35LW/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07G4F35LW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

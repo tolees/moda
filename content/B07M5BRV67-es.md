@@ -22,6 +22,9 @@ Está [adidas DT4823  Bolso bandolera Unisex Adultos  Multicolor Negro/Blanco  2
 
 [![adidas DT4823  Bolso bandolera Unisex Ad](https://images-eu.ssl-images-amazon.com/images/I/41HJVSv4ArL._SL200_.jpg)](https://www.amazon.es/dp/B07M5BRV67/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07M5BRV67/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

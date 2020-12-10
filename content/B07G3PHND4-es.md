@@ -22,6 +22,9 @@ Ahora mismo tienes [Dorothy Perkins Aubree  Zapatos de tacón con Punta Cerrada 
 
 [![Dorothy Perkins Aubree  Zapatos de tacón](https://images-eu.ssl-images-amazon.com/images/I/31NUzkjbwUL._SL200_.jpg)](https://www.amazon.es/dp/B07G3PHND4/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07G3PHND4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

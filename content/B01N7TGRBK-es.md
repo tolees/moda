@@ -22,6 +22,9 @@ Ahora mismo tienes [Esprit 047ee1k013 Camiseta   Light Pink   42  Talla del Fabr
 
 [![Esprit 047ee1k013 Camiseta   Light Pink ](https://images-eu.ssl-images-amazon.com/images/I/416VJ7celiL._SL200_.jpg)](https://www.amazon.es/dp/B01N7TGRBK/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01N7TGRBK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

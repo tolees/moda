@@ -22,6 +22,9 @@ Está [Puma Drirelease Graphic tee Camiseta  Hombre  Rojo  Flame Scarlet   L](ht
 
 [![Puma Drirelease Graphic tee Camiseta  Ho](https://images-eu.ssl-images-amazon.com/images/I/41xJuu0wV6L._SL200_.jpg)](https://www.amazon.es/dp/B077SJ7PR7/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B077SJ7PR7/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

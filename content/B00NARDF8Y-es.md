@@ -22,6 +22,9 @@ Ahora mismo tienes [SELECTED HOMME One Mix Phil Shirt LS Noos ID  Camisa para Ho
 
 [![SELECTED HOMME One Mix Phil Shirt LS Noo](https://images-eu.ssl-images-amazon.com/images/I/41aJvz68bZL._SL200_.jpg)](https://www.amazon.es/dp/B00NARDF8Y/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00NARDF8Y/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

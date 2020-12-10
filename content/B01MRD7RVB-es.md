@@ -22,6 +22,9 @@ Ahora mismo tienes [Calvin Klein Bikini String  Tanga para Mujer  Negro  Black 0
 
 [![Calvin Klein Bikini String  Tanga para M](https://images-eu.ssl-images-amazon.com/images/I/419eR8V6d%2BL._SL200_.jpg)](https://www.amazon.es/dp/B01MRD7RVB/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01MRD7RVB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

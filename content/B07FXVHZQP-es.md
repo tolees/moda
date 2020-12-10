@@ -22,6 +22,9 @@ Está [Botas de Seguridad para Hombres  LM-861202 S1P SRC Zapatos de Seguridad c
 
 [![Botas de Seguridad para Hombres  LM-8612](https://images-eu.ssl-images-amazon.com/images/I/51lQyOvc0TL._SL200_.jpg)](https://www.amazon.es/dp/B07FXVHZQP/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FXVHZQP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

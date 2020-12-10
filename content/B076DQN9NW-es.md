@@ -22,6 +22,9 @@ Está [Gafas Polarizadas Deporte Bici Anti UV400 Gafas Para Correr Running Antiv
 
 [![Gafas Polarizadas Deporte Bici Anti UV40](https://images-eu.ssl-images-amazon.com/images/I/41DqrFM2PqL._SL200_.jpg)](https://www.amazon.es/dp/B076DQN9NW/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B076DQN9NW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

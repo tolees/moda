@@ -22,6 +22,9 @@ Tienes [Tommy Hilfiger Poppy Small Tote  Bolso Totes para Mujer  Negro  Black   
 
 [![Tommy Hilfiger Poppy Small Tote  Bolso T](https://images-eu.ssl-images-amazon.com/images/I/41Bh25ibo5L._SL200_.jpg)](https://www.amazon.es/dp/B071NJ8H2V/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B071NJ8H2V/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

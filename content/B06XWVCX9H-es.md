@@ -22,6 +22,9 @@ Tienes [Calvin Klein Habas Cn Hknit L/s  Sudadera para Hombre  Gris  Mid Grey He
 
 [![Calvin Klein Habas Cn Hknit L/s  Sudader](https://images-eu.ssl-images-amazon.com/images/I/41fXS2xscCL._SL200_.jpg)](https://www.amazon.es/dp/B06XWVCX9H/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B06XWVCX9H/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

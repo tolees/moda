@@ -22,6 +22,9 @@ Está [Just Cavalli Sonnenbrille JC649S 5601U  Gafas de Sol para Mujer  Negro  S
 
 [![Just Cavalli Sonnenbrille JC649S 5601U  ](https://images-eu.ssl-images-amazon.com/images/I/31nXoWEZ8hL._SL200_.jpg)](https://www.amazon.es/dp/B00P1YLTEG/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00P1YLTEG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

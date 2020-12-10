@@ -22,6 +22,9 @@ Está [InCollections  - Collar de mujer de plata con ámbar en forma de corazon 
 
 [![InCollections  - Collar de mujer de plat](https://images-eu.ssl-images-amazon.com/images/I/41wa1JIkN%2BL._SL200_.jpg)](https://www.amazon.es/dp/B004Y3KAQI/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B004Y3KAQI/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

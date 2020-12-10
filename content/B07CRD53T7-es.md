@@ -22,6 +22,9 @@ Está [Pepe Jeans Izzo Camiseta   Off White 803   XX-Large para Hombre](https://
 
 [![Pepe Jeans Izzo Camiseta   Off White 803](https://images-eu.ssl-images-amazon.com/images/I/31Lf2-wm76L._SL200_.jpg)](https://www.amazon.es/dp/B07CRD53T7/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07CRD53T7/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

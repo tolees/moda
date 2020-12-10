@@ -22,6 +22,9 @@ Está [HHG Vestido Verde S](https://www.amazon.es/dp/B01BFAXLUY/?tag=tolees-21) 
 
 [![HHG Vestido Verde S](https://images-eu.ssl-images-amazon.com/images/I/51nopnflKwL._SL200_.jpg)](https://www.amazon.es/dp/B01BFAXLUY/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01BFAXLUY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

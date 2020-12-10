@@ -22,6 +22,9 @@ Ahora mismo tienes [KAREN MILLEN Fashions Limited Tassel Ankle Boots  Botines pa
 
 [![KAREN MILLEN Fashions Limited Tassel Ank](https://images-eu.ssl-images-amazon.com/images/I/31URLr9bRZL._SL200_.jpg)](https://www.amazon.es/dp/B07HBL4V9Q/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07HBL4V9Q/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Gant The Oxford Shirt Reg BD Camisa  Rojo  Light Pink 662   XXX-Large par
 
 [![Gant The Oxford Shirt Reg BD Camisa  Roj](https://images-eu.ssl-images-amazon.com/images/I/41t2pV8s87L._SL200_.jpg)](https://www.amazon.es/dp/B073ZSMJ3G/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B073ZSMJ3G/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Under Armour UA Tech Short Pantalón Corto  Hombre  Beige  C
 
 [![Under Armour UA Tech Short Pantalón Cort](https://images-eu.ssl-images-amazon.com/images/I/41P-M9cvVUL._SL200_.jpg)](https://www.amazon.es/dp/B01FX1IPOI/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01FX1IPOI/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Eferri 0JV5918  Bolso de mano para Mujer   Rosa   23.5x12.5x30 cm  W x H 
 
 [![Eferri 0JV5918  Bolso de mano para Mujer](https://images-eu.ssl-images-amazon.com/images/I/51iXTQW9V7L._SL200_.jpg)](https://www.amazon.es/dp/B07CDS8J7C/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07CDS8J7C/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

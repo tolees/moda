@@ -22,6 +22,9 @@ Ahora mismo tienes [Abanderado Termal Termaltech Boxer  Blanco 001  XX-Large  Ta
 
 [![Abanderado Termal Termaltech Boxer  Blan](https://images-eu.ssl-images-amazon.com/images/I/41NGBia9umL._SL200_.jpg)](https://www.amazon.es/dp/B01N382KDN/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01N382KDN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

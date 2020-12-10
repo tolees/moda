@@ -22,6 +22,9 @@ Está [XTI 86082  Bolso de mano para Mujer   Blanco   33x20x14 cm  W x H x L ](h
 
 [![XTI 86082  Bolso de mano para Mujer   Bl](https://images-eu.ssl-images-amazon.com/images/I/41ziCFnSxxL._SL200_.jpg)](https://www.amazon.es/dp/B07JLDZ9CG/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07JLDZ9CG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

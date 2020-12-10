@@ -22,6 +22,9 @@ Está [Black Crevice Abrigo Corto Taupe ES 46  DE 44 ](https://www.amazon.es/dp/
 
 [![Black Crevice Abrigo Corto Taupe ES 46  ](https://images-eu.ssl-images-amazon.com/images/I/41gu8majJAL._SL200_.jpg)](https://www.amazon.es/dp/B01GEDABOQ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01GEDABOQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

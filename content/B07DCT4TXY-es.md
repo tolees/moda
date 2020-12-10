@@ -22,6 +22,9 @@ Ahora mismo tienes [Nike W Blazer Low SD  Zapatos de Baloncesto para Mujer  Blac
 
 [![Nike W Blazer Low SD  Zapatos de Balonce](https://images-eu.ssl-images-amazon.com/images/I/31hxyaSThRL._SL200_.jpg)](https://www.amazon.es/dp/B07DCT4TXY/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07DCT4TXY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

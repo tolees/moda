@@ -22,6 +22,9 @@ Está [Geox U Kaven C  Zapatillas para Hombre  Azul  Navy/Brown C0948   45 EU](h
 
 [![Geox U Kaven C  Zapatillas para Hombre  ](https://images-eu.ssl-images-amazon.com/images/I/315kosQceTL._SL200_.jpg)](https://www.amazon.es/dp/B07DJ6RHFP/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DJ6RHFP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [HUGO Ero3-w Camisa  Azul  Dark Blue 405   Medium para Hombre](https://www
 
 [![HUGO Ero3-w Camisa  Azul  Dark Blue 405 ](https://images-eu.ssl-images-amazon.com/images/I/51997jRjg3L._SL200_.jpg)](https://www.amazon.es/dp/B07KKT24VM/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KKT24VM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

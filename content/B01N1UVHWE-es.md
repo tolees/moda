@@ -22,6 +22,9 @@ Ahora mismo tienes [find. Vaqueros para Hombre  Azul  W34/L34](https://www.amazo
 
 [![find. Vaqueros para Hombre  Azul  W34/L3](https://images-eu.ssl-images-amazon.com/images/I/41H5646iSaL._SL200_.jpg)](https://www.amazon.es/dp/B01N1UVHWE/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01N1UVHWE/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

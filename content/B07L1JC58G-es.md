@@ -22,6 +22,9 @@ Tienes [PIMKIE Tss19 Nerna  Camiseta para Mujer  Negro  Noir 899a08  Large](http
 
 [![PIMKIE Tss19 Nerna  Camiseta para Mujer ](https://images-eu.ssl-images-amazon.com/images/I/31oNC5%2BjgOL._SL200_.jpg)](https://www.amazon.es/dp/B07L1JC58G/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07L1JC58G/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

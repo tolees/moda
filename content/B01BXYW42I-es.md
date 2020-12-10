@@ -22,6 +22,9 @@ Está [Cheiw 47085 - Sandalias para niños Unisex  Color marrón  Talla 38](http
 
 [![Cheiw 47085 - Sandalias para niños Unise](https://images-eu.ssl-images-amazon.com/images/I/41s2hHdCZHL._SL200_.jpg)](https://www.amazon.es/dp/B01BXYW42I/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01BXYW42I/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

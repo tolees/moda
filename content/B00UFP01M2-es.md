@@ -22,6 +22,9 @@ Tienes [Blend 703119 Vaqueros  Schwarz  Denim Black 76204   W31 / L32  ES 42  pa
 
 [![Blend 703119 Vaqueros  Schwarz  Denim Bl](https://images-eu.ssl-images-amazon.com/images/I/41XQ0TcBTtL._SL200_.jpg)](https://www.amazon.es/dp/B00UFP01M2/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00UFP01M2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

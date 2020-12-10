@@ -22,6 +22,9 @@ Tienes [Springfield 1282611  Chaqueta de Traje para Mujer  Rojo  Red   40  Tama√
 
 [![Springfield 1282611  Chaqueta de Traje p](https://images-eu.ssl-images-amazon.com/images/I/41xJ41uKnOL._SL200_.jpg)](https://www.amazon.es/dp/B075SBC66F/?tag=tolees-21)
 
+Caracter√≠sticas principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B075SBC66F/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

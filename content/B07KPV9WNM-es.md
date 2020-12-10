@@ -22,6 +22,9 @@ Está [Gant O1. The Panel Down Jacket Chaqueta  Azul  Poseidon Blue 448   XX-Lar
 
 [![Gant O1. The Panel Down Jacket Chaqueta ](https://images-eu.ssl-images-amazon.com/images/I/4131pF2G1jL._SL200_.jpg)](https://www.amazon.es/dp/B07KPV9WNM/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KPV9WNM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

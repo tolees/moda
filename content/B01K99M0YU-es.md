@@ -22,6 +22,9 @@ Está [Tommy Hilfiger TH 1449/S NR Gafas de Sol  Black Grey  54 Unisex-Adulto](h
 
 [![Tommy Hilfiger TH 1449/S NR Gafas de Sol](https://images-eu.ssl-images-amazon.com/images/I/314Yu3NQT1L._SL200_.jpg)](https://www.amazon.es/dp/B01K99M0YU/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01K99M0YU/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

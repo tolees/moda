@@ -22,6 +22,9 @@ Tienes [DURAGADGET Gafas de Realidad Virtual VR ajustables en color negro para S
 
 [![DURAGADGET Gafas de Realidad Virtual VR ](https://images-eu.ssl-images-amazon.com/images/I/31yj%2BPQeGAL._SL200_.jpg)](https://www.amazon.es/dp/B06XCDT5W1/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B06XCDT5W1/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

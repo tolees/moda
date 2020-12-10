@@ -22,6 +22,9 @@ Está [Salewa Trektail Gore-Tex Halbschuh  Zapatos de High Rise Senderismo Unise
 
 [![Salewa Trektail Gore-Tex Halbschuh  Zapa](https://images-eu.ssl-images-amazon.com/images/I/41EucKOMXuL._SL200_.jpg)](https://www.amazon.es/dp/B01FLWMZPY/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01FLWMZPY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

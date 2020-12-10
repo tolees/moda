@@ -22,6 +22,9 @@ Está [crocs Swiftwater River Sandal K  Sandalias con Punta Abierta Unisex niño
 
 [![crocs Swiftwater River Sandal K  Sandali](https://images-eu.ssl-images-amazon.com/images/I/414RDQvN2mL._SL200_.jpg)](https://www.amazon.es/dp/B07CN7J8XR/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07CN7J8XR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

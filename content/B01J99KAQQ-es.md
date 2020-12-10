@@ -22,6 +22,9 @@ Está [Crocs Coast  Zuecos Unisex Adulto  Gris  Graphite 014.   38/39 EU](https:
 
 [![Crocs Coast  Zuecos Unisex Adulto  Gris ](https://images-eu.ssl-images-amazon.com/images/I/418lo-GphEL._SL200_.jpg)](https://www.amazon.es/dp/B01J99KAQQ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01J99KAQQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

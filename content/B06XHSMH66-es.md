@@ -22,6 +22,9 @@ Tienes [Joma Champion IV M/C Camiseta Equipamiento  Hombre  Verde/Rojo  4XS-3XS]
 
 [![Joma Champion IV M/C Camiseta Equipamien](https://images-eu.ssl-images-amazon.com/images/I/41n773Sli8L._SL200_.jpg)](https://www.amazon.es/dp/B06XHSMH66/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B06XHSMH66/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

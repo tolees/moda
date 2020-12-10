@@ -22,6 +22,9 @@ Tienes [United Colors of Benetton Dress  Vestido para Niñas  Gris  Melange Dark
 
 [![United Colors of Benetton Dress  Vestido](https://images-eu.ssl-images-amazon.com/images/I/51iAcZa0ALL._SL200_.jpg)](https://www.amazon.es/dp/B07DJ2P54C/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07DJ2P54C/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

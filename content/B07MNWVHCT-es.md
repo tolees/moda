@@ -22,6 +22,9 @@ Está [adidas Beckenbauer TT Sudadera  Hombre  acevap  XS](https://www.amazon.es
 
 [![adidas Beckenbauer TT Sudadera  Hombre  ](https://images-eu.ssl-images-amazon.com/images/I/4197aAI3OCL._SL200_.jpg)](https://www.amazon.es/dp/B07MNWVHCT/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07MNWVHCT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

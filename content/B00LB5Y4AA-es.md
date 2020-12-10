@@ -22,6 +22,9 @@ Tienes [Levi s Sweater N91503A Sudadera con Capucha  Rot 03  98  Herstellergrö�
 
 [![Levi s Sweater N91503A Sudadera con Capu](https://images-eu.ssl-images-amazon.com/images/I/41hVmVPq8-L._SL200_.jpg)](https://www.amazon.es/dp/B00LB5Y4AA/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00LB5Y4AA/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

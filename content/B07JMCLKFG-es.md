@@ -22,6 +22,9 @@ Está [Firenze Artegiani Bolso Shopping Bag de Mujer en Piel auténtica  Acabado
 
 [![Firenze Artegiani Bolso Shopping Bag de ](https://images-eu.ssl-images-amazon.com/images/I/41Aquci4wtL._SL200_.jpg)](https://www.amazon.es/dp/B07JMCLKFG/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07JMCLKFG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

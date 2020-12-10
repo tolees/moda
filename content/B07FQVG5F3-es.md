@@ -22,6 +22,9 @@ Tienes [Clarks Step Isle Crew  Zapatos de Cordones Derby para Hombre  Verde  Oli
 
 [![Clarks Step Isle Crew  Zapatos de Cordon](https://images-eu.ssl-images-amazon.com/images/I/41%2B1-Q5izYL._SL200_.jpg)](https://www.amazon.es/dp/B07FQVG5F3/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07FQVG5F3/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

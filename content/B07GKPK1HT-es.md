@@ -22,6 +22,9 @@ Ahora mismo tienes [Levi s Big and Tall 514 B&t Vaqueros Straight  Azul  Road Ri
 
 [![Levi s Big and Tall 514 B&t Vaqueros Str](https://images-eu.ssl-images-amazon.com/images/I/41V96Mu4pEL._SL200_.jpg)](https://www.amazon.es/dp/B07GKPK1HT/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07GKPK1HT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

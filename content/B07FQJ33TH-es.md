@@ -22,6 +22,9 @@ Está [RIP CURL Wetland Anti-Series Fleece Sudadera  Hombre  Pewter Grey mar  M]
 
 [![RIP CURL Wetland Anti-Series Fleece Suda](https://images-eu.ssl-images-amazon.com/images/I/41aT9WxSzcL._SL200_.jpg)](https://www.amazon.es/dp/B07FQJ33TH/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FQJ33TH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

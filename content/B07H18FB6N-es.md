@@ -22,6 +22,9 @@ Está [Gant 3-Pack Trunk Seasonal Solid  Bóxer Hombre  Negro  Black 5   X-Large
 
 [![Gant 3-Pack Trunk Seasonal Solid  Bóxer ](https://images-eu.ssl-images-amazon.com/images/I/41Nl-hqvyUL._SL200_.jpg)](https://www.amazon.es/dp/B07H18FB6N/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07H18FB6N/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

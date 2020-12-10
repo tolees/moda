@@ -22,6 +22,9 @@ Tienes [Puma Leadcat  Chanclas Unisex Adulto  Verde Olivine 18  49.5 EU](https:/
 
 [![Puma Leadcat  Chanclas Unisex Adulto  Ve](https://images-eu.ssl-images-amazon.com/images/I/41O5NQuW9UL._SL200_.jpg)](https://www.amazon.es/dp/B018VQ0WPW/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B018VQ0WPW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

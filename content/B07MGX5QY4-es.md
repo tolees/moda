@@ -22,6 +22,9 @@ Está [G-STAR RAW 3301 Slim Vaqueros  Azul  Lt Indigo Aged 8968-8436   27W / 32L
 
 [![G-STAR RAW 3301 Slim Vaqueros  Azul  Lt ](https://images-eu.ssl-images-amazon.com/images/I/410Ik78iAdL._SL200_.jpg)](https://www.amazon.es/dp/B07MGX5QY4/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07MGX5QY4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

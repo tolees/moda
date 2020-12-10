@@ -22,6 +22,9 @@ Está [JACK & JONES Jormetallica tee LS Crew Neck  Camisa Manga Larga para Hombr
 
 [![JACK & JONES Jormetallica tee LS Crew Ne](https://images-eu.ssl-images-amazon.com/images/I/410NMyw6F6L._SL200_.jpg)](https://www.amazon.es/dp/B07JZVKX24/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07JZVKX24/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

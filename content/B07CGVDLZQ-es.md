@@ -22,6 +22,9 @@ Está [GNEDIAE para Hombre Botas de Senderismo Impermeables de Ocio al Aire Libr
 
 [![GNEDIAE para Hombre Botas de Senderismo ](https://images-eu.ssl-images-amazon.com/images/I/518PvAkg17L._SL200_.jpg)](https://www.amazon.es/dp/B07CGVDLZQ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07CGVDLZQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

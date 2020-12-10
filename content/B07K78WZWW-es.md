@@ -22,6 +22,9 @@ Está [Levi s 311 Shaping Ankle Skinny Vaqueros  Blanco  Western White 0031   W2
 
 [![Levi s 311 Shaping Ankle Skinny Vaqueros](https://images-eu.ssl-images-amazon.com/images/I/315mhjCc1mL._SL200_.jpg)](https://www.amazon.es/dp/B07K78WZWW/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07K78WZWW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

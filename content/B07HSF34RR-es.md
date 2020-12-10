@@ -22,6 +22,9 @@ Ahora mismo tienes [Camiseta de algodón de manga corta - Real Betis Balompié 2
 
 [![Camiseta de algodón de manga corta - Rea](https://images-eu.ssl-images-amazon.com/images/I/31l1pJFtHxL._SL200_.jpg)](https://www.amazon.es/dp/B07HSF34RR/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07HSF34RR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

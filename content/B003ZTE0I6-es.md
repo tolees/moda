@@ -22,6 +22,9 @@ Tienes [Nike Air Precision II Aa7069-001  Zapatos de Baloncesto para Hombre  Neg
 
 [![Nike Air Precision II Aa7069-001  Zapato](https://images-eu.ssl-images-amazon.com/images/I/41BMLOs8QgL._SL200_.jpg)](https://www.amazon.es/dp/B003ZTE0I6/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B003ZTE0I6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

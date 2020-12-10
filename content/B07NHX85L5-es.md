@@ -22,6 +22,9 @@ Está [JACK & JONES Jcomason tee SS Crew Neck WHS Camiseta Negro  Black Fit: Sli
 
 [![JACK & JONES Jcomason tee SS Crew Neck W](https://images-eu.ssl-images-amazon.com/images/I/41lDvGtx3qL._SL200_.jpg)](https://www.amazon.es/dp/B07NHX85L5/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07NHX85L5/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

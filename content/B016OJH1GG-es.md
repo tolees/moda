@@ -22,6 +22,9 @@ Ahora mismo tienes [NAOKO Vestido At10 Caqui/Verde/Marrón S](https://www.amazon
 
 [![NAOKO Vestido At10 Caqui/Verde/Marrón S](https://images-eu.ssl-images-amazon.com/images/I/41dETss1EUL._SL200_.jpg)](https://www.amazon.es/dp/B016OJH1GG/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B016OJH1GG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

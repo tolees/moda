@@ -22,6 +22,9 @@ Está [Vans Otw Camiseta  Gris  Heather-White Tdj   Medium para Hombre](https://
 
 [![Vans Otw Camiseta  Gris  Heather-White T](https://images-eu.ssl-images-amazon.com/images/I/31RdpF4KvmL._SL200_.jpg)](https://www.amazon.es/dp/B07FHDXMYT/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FHDXMYT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

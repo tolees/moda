@@ -22,6 +22,9 @@ Está [Columbia Mujer Camiseta  ZERO RULES SHORT SLEEVE SHIRT  Poliéster  Azul 
 
 [![Columbia Mujer Camiseta  ZERO RULES SHOR](https://images-eu.ssl-images-amazon.com/images/I/31v-4C2KbwL._SL200_.jpg)](https://www.amazon.es/dp/B07GSSMQN3/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07GSSMQN3/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [oodji Ultra Mujer Sujetador Bikini Bandeau  sin Tirantes   M
 
 [![oodji Ultra Mujer Sujetador Bikini Bande](https://images-eu.ssl-images-amazon.com/images/I/51ulmR5zXPL._SL200_.jpg)](https://www.amazon.es/dp/B01FK9ZI70/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01FK9ZI70/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

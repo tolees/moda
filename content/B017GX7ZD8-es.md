@@ -22,6 +22,9 @@ Ahora mismo tienes [Only Blusa Azul Oscuro ES 40  DE 38 ](https://www.amazon.es/
 
 [![Only Blusa Azul Oscuro ES 40  DE 38 ](https://images-eu.ssl-images-amazon.com/images/I/41YiUOSYs6L._SL200_.jpg)](https://www.amazon.es/dp/B017GX7ZD8/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B017GX7ZD8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

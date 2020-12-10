@@ -22,6 +22,9 @@ Tienes [Puma BVB Local Temporada 2017/2018 Camiseta  Hombre  Amarillo  L](https:
 
 [![Puma BVB Local Temporada 2017/2018 Camis](https://images-eu.ssl-images-amazon.com/images/I/41JJqpkNxGL._SL200_.jpg)](https://www.amazon.es/dp/B01MS4L07V/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01MS4L07V/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Joma Tropical Falda Pantalón  Mujer  Verde  S](https://www.
 
 [![Joma Tropical Falda Pantalón  Mujer  Ver](https://images-eu.ssl-images-amazon.com/images/I/41iLdNp1pgL._SL200_.jpg)](https://www.amazon.es/dp/B0719R9YNW/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B0719R9YNW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

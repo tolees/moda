@@ -22,6 +22,9 @@ Tienes [Quiksilver Sierra Chaqueta de Nieve  Hombre  Verde Lima  XL](https://www
 
 [![Quiksilver Sierra Chaqueta de Nieve  Hom](https://images-eu.ssl-images-amazon.com/images/I/41ynjYM3zbL._SL200_.jpg)](https://www.amazon.es/dp/B07DHVNR74/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07DHVNR74/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

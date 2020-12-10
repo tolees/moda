@@ -22,6 +22,9 @@ Tienes [Urban Classics Kapuzenpulli Long Melange Zip Hoody  Sudadera para Mujer 
 
 [![Urban Classics Kapuzenpulli Long Melange](https://images-eu.ssl-images-amazon.com/images/I/41XZg52HgLL._SL200_.jpg)](https://www.amazon.es/dp/B011KDL13K/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B011KDL13K/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

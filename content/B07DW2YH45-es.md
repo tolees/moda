@@ -22,6 +22,9 @@ Tienes [Hummel hmlf Inlay Jacket Chaqueta  Hombre  200791-2800  Medium Melange  
 
 [![Hummel hmlf Inlay Jacket Chaqueta  Hombr](https://images-eu.ssl-images-amazon.com/images/I/41sVmrYLUTL._SL200_.jpg)](https://www.amazon.es/dp/B07DW2YH45/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07DW2YH45/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

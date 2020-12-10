@@ -22,6 +22,9 @@ Está [Springfield Falda Cuadros Volante  Casual para Mujer  Gris  Grey    Tama�
 
 [![Springfield Falda Cuadros Volante  Casua](https://images-eu.ssl-images-amazon.com/images/I/41oJxdDaq6L._SL200_.jpg)](https://www.amazon.es/dp/B07573FGPM/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07573FGPM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

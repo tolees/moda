@@ -22,6 +22,9 @@ Ahora mismo tienes [Blend 20703822 Vaqueros Skinny  Gris  Denim Grey   W31/L32  
 
 [![Blend 20703822 Vaqueros Skinny  Gris  De](https://images-eu.ssl-images-amazon.com/images/I/41KedBNJ8UL._SL200_.jpg)](https://www.amazon.es/dp/B0719VSXJM/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B0719VSXJM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

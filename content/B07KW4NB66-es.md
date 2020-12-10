@@ -22,6 +22,9 @@ Ahora mismo tienes [New Balance MS X90 TBG de la Zapatilla de deporte para hombr
 
 [![New Balance MS X90 TBG de la Zapatilla d](https://images-eu.ssl-images-amazon.com/images/I/41M%2B6QXDMUL._SL200_.jpg)](https://www.amazon.es/dp/B07KW4NB66/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07KW4NB66/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

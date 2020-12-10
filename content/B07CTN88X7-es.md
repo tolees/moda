@@ -22,6 +22,9 @@ Tienes [Under Armour Lockdown 3  Zapatos de Baloncesto para Hombre  Rojo  Red/Mo
 
 [![Under Armour Lockdown 3  Zapatos de Balo](https://images-eu.ssl-images-amazon.com/images/I/41avF58tTLL._SL200_.jpg)](https://www.amazon.es/dp/B07CTN88X7/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07CTN88X7/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

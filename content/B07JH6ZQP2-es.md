@@ -22,6 +22,9 @@ Tienes [Canterbury Over The Head Oficial de la Rugby World Cup 2019 Sudadera  Ho
 
 [![Canterbury Over The Head Oficial de la R](https://images-eu.ssl-images-amazon.com/images/I/31W3akiJIwL._SL200_.jpg)](https://www.amazon.es/dp/B07JH6ZQP2/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07JH6ZQP2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

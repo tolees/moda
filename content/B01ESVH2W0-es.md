@@ -22,6 +22,9 @@ Tienes [SHOE THE BEAR Asta  Botines para Mujer  Beige  Sand   37 EU](https://www
 
 [![SHOE THE BEAR Asta  Botines para Mujer  ](https://images-eu.ssl-images-amazon.com/images/I/51rui5yahqL._SL200_.jpg)](https://www.amazon.es/dp/B01ESVH2W0/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01ESVH2W0/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

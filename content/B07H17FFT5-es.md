@@ -22,6 +22,9 @@ Ahora mismo tienes [ENKEEO Guantes Ski Impermeables y Gruesos Anti-Nieve para Sn
 
 [![ENKEEO Guantes Ski Impermeables y Grueso](https://images-eu.ssl-images-amazon.com/images/I/51hTtiddQxL._SL200_.jpg)](https://www.amazon.es/dp/B07H17FFT5/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07H17FFT5/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

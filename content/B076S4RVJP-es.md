@@ -22,6 +22,9 @@ Ahora mismo tienes [Under Armour Lockdown 3 3020622-001  Zapatos de Baloncesto p
 
 [![Under Armour Lockdown 3 3020622-001  Zap](https://images-eu.ssl-images-amazon.com/images/I/41LLmTu4ZuL._SL200_.jpg)](https://www.amazon.es/dp/B076S4RVJP/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B076S4RVJP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Nike 725984  Camiseta Para Niños  Blanco  blanco / negro   S](https://ww
 
 [![Nike 725984  Camiseta Para Niños  Blanco](https://images-eu.ssl-images-amazon.com/images/I/31vjw-8lL-L._SL200_.jpg)](https://www.amazon.es/dp/B01AC0CHMQ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01AC0CHMQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

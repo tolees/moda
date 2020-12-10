@@ -22,6 +22,9 @@ Está [United Colors of Benetton Hombre Sweater L/s Jersey Not Applicable  Gris 
 
 [![United Colors of Benetton Hombre Sweater](https://images-eu.ssl-images-amazon.com/images/I/416Z7Q0%2B3QL._SL200_.jpg)](https://www.amazon.es/dp/B07KTGCXS9/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KTGCXS9/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

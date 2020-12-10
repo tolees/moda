@@ -22,6 +22,9 @@ Está [Springfield 3BA Basica Abierta Capucha 3Ply Jersey   Gama Verdes 22   Lar
 
 [![Springfield 3BA Basica Abierta Capucha 3](https://images-eu.ssl-images-amazon.com/images/I/4192-V%2BMxOL._SL200_.jpg)](https://www.amazon.es/dp/B07KZ27H3R/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KZ27H3R/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

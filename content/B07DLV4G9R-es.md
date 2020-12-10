@@ -22,6 +22,9 @@ Ahora mismo tienes [Springfield 7.J.Ap.Gym.Topos Chenilla Jersey  Gama Grises 41
 
 [![Springfield 7.J.Ap.Gym.Topos Chenilla Je](https://images-eu.ssl-images-amazon.com/images/I/416RDcJcJVL._SL200_.jpg)](https://www.amazon.es/dp/B07DLV4G9R/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07DLV4G9R/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

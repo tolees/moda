@@ -22,6 +22,9 @@ Tienes [Cortefiel C7CB Straight Lav. Oscuro Vaqueros straight  Hombre  Azul  Blu
 
 [![Cortefiel C7CB Straight Lav. Oscuro Vaqu](https://images-eu.ssl-images-amazon.com/images/I/41DlCF--XZL._SL200_.jpg)](https://www.amazon.es/dp/B073JDF23B/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B073JDF23B/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

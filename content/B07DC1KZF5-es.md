@@ -22,6 +22,9 @@ Está [Puma Leadcat  Chanclas Unisex Adulto  Verde  Ponderosa Pine White 20   43
 
 [![Puma Leadcat  Chanclas Unisex Adulto  Ve](https://images-eu.ssl-images-amazon.com/images/I/3117QWo74DL._SL200_.jpg)](https://www.amazon.es/dp/B07DC1KZF5/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DC1KZF5/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

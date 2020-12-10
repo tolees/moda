@@ -22,6 +22,9 @@ Está [Merrell - sandalias de Cuero mujer  Beige  Taupe   37 EU](https://www.ama
 
 [![Merrell - sandalias de Cuero mujer  Beig](https://images-eu.ssl-images-amazon.com/images/I/417%2BllaRyEL._SL200_.jpg)](https://www.amazon.es/dp/B01HZPQYRA/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01HZPQYRA/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [G-STAR RAW Hombre Korpaz Slim Granddad T L\\s Camisa Manga Larga Not Appl
 
 [![G-STAR RAW Hombre Korpaz Slim Granddad T](https://images-eu.ssl-images-amazon.com/images/I/31YJV2qlI9L._SL200_.jpg)](https://www.amazon.es/dp/B07CZJ7K5B/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07CZJ7K5B/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

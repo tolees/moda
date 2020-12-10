@@ -22,6 +22,9 @@ Está [G-STAR Revend Super Slim  - Slander indigo superstretch - Vaqueros para h
 
 [![G-STAR Revend Super Slim  - Slander indi](https://images-eu.ssl-images-amazon.com/images/I/41I%2BKRo2FIL._SL200_.jpg)](https://www.amazon.es/dp/B00SF8F2B6/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00SF8F2B6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

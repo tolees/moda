@@ -22,6 +22,9 @@ Ahora mismo tienes [Ecco Aquet  Zapatos de Cordones Brogue para Hombre  Gris  Mo
 
 [![Ecco Aquet  Zapatos de Cordones Brogue p](https://images-eu.ssl-images-amazon.com/images/I/41a7eWFf75L._SL200_.jpg)](https://www.amazon.es/dp/B074CVWP3B/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B074CVWP3B/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

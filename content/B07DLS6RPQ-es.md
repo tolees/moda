@@ -22,6 +22,9 @@ Está [Springfield 4.Fq.Vestido Midi Volant  Vestido para Mujer   Negro 1    Tam
 
 [![Springfield 4.Fq.Vestido Midi Volant  Ve](https://images-eu.ssl-images-amazon.com/images/I/31KXwxc3AUL._SL200_.jpg)](https://www.amazon.es/dp/B07DLS6RPQ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DLS6RPQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

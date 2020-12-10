@@ -22,6 +22,9 @@ Tienes [Springfield 1683632  Bolso maletín para Mujer   Gamma Azules ](https://
 
 [![Springfield 1683632  Bolso maletín para ](https://images-eu.ssl-images-amazon.com/images/I/51b-nJuSt7L._SL200_.jpg)](https://www.amazon.es/dp/B078HDKKKM/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B078HDKKKM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

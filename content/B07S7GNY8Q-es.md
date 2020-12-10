@@ -22,6 +22,9 @@ Está [Aibrou Camisa Hombre Verano de Manga Corta de Algodón Camisas de Hombre 
 
 [![Aibrou Camisa Hombre Verano de Manga Cor](https://images-eu.ssl-images-amazon.com/images/I/41QOWH45mVL._SL200_.jpg)](https://www.amazon.es/dp/B07S7GNY8Q/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07S7GNY8Q/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

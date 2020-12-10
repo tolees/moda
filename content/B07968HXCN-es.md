@@ -22,6 +22,9 @@ Tienes [Rosegal Sudadera Mujer con Capucha y Cremallera Chaqueta Corta Casual y 
 
 [![Rosegal Sudadera Mujer con Capucha y Cre](https://images-eu.ssl-images-amazon.com/images/I/5117PMJHdDL._SL200_.jpg)](https://www.amazon.es/dp/B07968HXCN/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07968HXCN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

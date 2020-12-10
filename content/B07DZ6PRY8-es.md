@@ -22,6 +22,9 @@ Tienes [Columbia Chaqueta de plumón con Capucha para Hombre  Lake 22 Down Insul
 
 [![Columbia Chaqueta de plumón con Capucha ](https://images-eu.ssl-images-amazon.com/images/I/41Y%2BZ3IZt4L._SL200_.jpg)](https://www.amazon.es/dp/B07DZ6PRY8/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07DZ6PRY8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

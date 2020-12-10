@@ -22,6 +22,9 @@ Ahora mismo tienes [REPLAY Luz Vaqueros Skinny  Azul  Medium Blue 9   W23/L30  T
 
 [![REPLAY Luz Vaqueros Skinny  Azul  Medium](https://images-eu.ssl-images-amazon.com/images/I/31VFRbNikzL._SL200_.jpg)](https://www.amazon.es/dp/B07KRTFM16/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07KRTFM16/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

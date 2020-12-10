@@ -22,6 +22,9 @@ Tienes [Blend Cirrus  Vaqueros para Hombre  Middle Blue 76201 W33/L34  33 ](http
 
 [![Blend Cirrus  Vaqueros para Hombre  Midd](https://images-eu.ssl-images-amazon.com/images/I/410n7FX%2BCiL._SL200_.jpg)](https://www.amazon.es/dp/B00VGKVFWK/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00VGKVFWK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

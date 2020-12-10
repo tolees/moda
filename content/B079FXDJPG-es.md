@@ -22,6 +22,9 @@ Está [FIND Botines con Puntera y Tacón Bajo Mujer  Plateado  Silver Silver   3
 
 [![FIND Botines con Puntera y Tacón Bajo Mu](https://images-eu.ssl-images-amazon.com/images/I/318atN-vV0L._SL200_.jpg)](https://www.amazon.es/dp/B079FXDJPG/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B079FXDJPG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

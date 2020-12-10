@@ -22,6 +22,9 @@ Tienes [Puma Epic Flip v2  Chanclas Unisex Adulto  Verde  ELM-Olivine   47 EU](h
 
 [![Puma Epic Flip v2  Chanclas Unisex Adult](https://images-eu.ssl-images-amazon.com/images/I/41j0Mp%2BQR8L._SL200_.jpg)](https://www.amazon.es/dp/B07DBZJBP8/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07DBZJBP8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

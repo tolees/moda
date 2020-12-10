@@ -22,6 +22,9 @@ Está [Scotch & Soda R´Belle Padded Bomber Jacket with Colour Block & Placed Ar
 
 [![Scotch & Soda R´Belle Padded Bomber Jack](https://images-eu.ssl-images-amazon.com/images/I/41F4OPZGyXL._SL200_.jpg)](https://www.amazon.es/dp/B07CMCGVWC/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07CMCGVWC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

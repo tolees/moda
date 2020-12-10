@@ -22,6 +22,9 @@ Tienes [Mayoral 4434  Sudadera con Capucha para Niños   Orion 75  2 años  Tama
 
 [![Mayoral 4434  Sudadera con Capucha para ](https://images-eu.ssl-images-amazon.com/images/I/41ken4mk6bL._SL200_.jpg)](https://www.amazon.es/dp/B07HKHXL5T/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07HKHXL5T/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

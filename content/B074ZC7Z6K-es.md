@@ -22,6 +22,9 @@ Tienes [TRUTH & FABLE 13791 vestido fiesta mujer  Rosa  Pink   46  Talla del fab
 
 [![TRUTH & FABLE 13791 vestido fiesta mujer](https://images-eu.ssl-images-amazon.com/images/I/41XeWvQN2vL._SL200_.jpg)](https://www.amazon.es/dp/B074ZC7Z6K/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B074ZC7Z6K/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

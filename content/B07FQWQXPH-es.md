@@ -22,6 +22,9 @@ Está [JACK & JONES Jcokarl tee SS Crew Neck  Camiseta para Hombre  Blanco  Whit
 
 [![JACK & JONES Jcokarl tee SS Crew Neck  C](https://images-eu.ssl-images-amazon.com/images/I/416ew6FQjbL._SL200_.jpg)](https://www.amazon.es/dp/B07FQWQXPH/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FQWQXPH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

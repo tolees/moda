@@ -22,6 +22,9 @@ Está [Naf Naf Jhnr79d Vestido  Negro  Noir 625   42 para Mujer](https://www.ama
 
 [![Naf Naf Jhnr79d Vestido  Negro  Noir 625](https://images-eu.ssl-images-amazon.com/images/I/31Ehx0tha4L._SL200_.jpg)](https://www.amazon.es/dp/B07FR2SN1C/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FR2SN1C/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

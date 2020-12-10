@@ -22,6 +22,9 @@ Ahora mismo tienes [Clarks Lawes  Botines para Hombre  Negro  Black Warm Lined L
 
 [![Clarks Lawes  Botines para Hombre  Negro](https://images-eu.ssl-images-amazon.com/images/I/411bki5FxwL._SL200_.jpg)](https://www.amazon.es/dp/B01CQZF7YK/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01CQZF7YK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

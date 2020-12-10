@@ -22,6 +22,9 @@ Ahora mismo tienes [Desigual Girl Knit T-Shirt Short Sleeve  TS_Sacramento   Cam
 
 [![Desigual Girl Knit T-Shirt Short Sleeve ](https://images-eu.ssl-images-amazon.com/images/I/41MGKaCp-PL._SL200_.jpg)](https://www.amazon.es/dp/B07H7MNFCK/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07H7MNFCK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

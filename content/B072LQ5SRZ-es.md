@@ -22,6 +22,9 @@ Ahora mismo tienes [Crocs Crocband II Sandal PS K  Sandalias Unisex Niños  Rojo
 
 [![Crocs Crocband II Sandal PS K  Sandalias](https://images-eu.ssl-images-amazon.com/images/I/41q7NdLP5sL._SL200_.jpg)](https://www.amazon.es/dp/B072LQ5SRZ/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B072LQ5SRZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

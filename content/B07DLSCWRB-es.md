@@ -22,6 +22,9 @@ Está [Springfield 4.2.T.Ap.Perfecto Antelina  Chaqueta para Mujer   Gama Verdes
 
 [![Springfield 4.2.T.Ap.Perfecto Antelina  ](https://images-eu.ssl-images-amazon.com/images/I/41PGYTnFkeL._SL200_.jpg)](https://www.amazon.es/dp/B07DLSCWRB/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DLSCWRB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

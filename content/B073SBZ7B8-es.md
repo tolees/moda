@@ -22,6 +22,9 @@ Está [Trucco - Camisa para mujer  color blanco  talla 42](https://www.amazon.es
 
 [![Trucco - Camisa para mujer  color blanco](https://images-eu.ssl-images-amazon.com/images/I/41gFSO8XGWL._SL200_.jpg)](https://www.amazon.es/dp/B073SBZ7B8/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B073SBZ7B8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

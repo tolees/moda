@@ -22,6 +22,9 @@ Está [New Look Lina Stripe Camiseta  Blanco  White Pattern 19   46  Talla del F
 
 [![New Look Lina Stripe Camiseta  Blanco  W](https://images-eu.ssl-images-amazon.com/images/I/41j%2BxyDs9zL._SL200_.jpg)](https://www.amazon.es/dp/B07QDNDRTK/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07QDNDRTK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

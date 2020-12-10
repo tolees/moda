@@ -22,6 +22,9 @@ Ahora mismo tienes [DC Shoes Canongate 2 Parka  Hombre  Negro  Black Kvj0   X-La
 
 [![DC Shoes Canongate 2 Parka  Hombre  Negr](https://images-eu.ssl-images-amazon.com/images/I/41-q-Q1L81L._SL200_.jpg)](https://www.amazon.es/dp/B07DZDWH4G/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07DZDWH4G/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

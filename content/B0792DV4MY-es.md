@@ -22,6 +22,9 @@ Está [Geox U Uvet E  Botas Clasicas para Hombre   Black C9999   42 EU](https://
 
 [![Geox U Uvet E  Botas Clasicas para Hombr](https://images-eu.ssl-images-amazon.com/images/I/31rtCDjAzaL._SL200_.jpg)](https://www.amazon.es/dp/B0792DV4MY/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0792DV4MY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Levi s 501 Original Vaqueros  Negro  Black 0660   W33/L34 para Hombre](ht
 
 [![Levi s 501 Original Vaqueros  Negro  Bla](https://images-eu.ssl-images-amazon.com/images/I/31hfPQeQuzL._SL200_.jpg)](https://www.amazon.es/dp/B001QOL15C/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B001QOL15C/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

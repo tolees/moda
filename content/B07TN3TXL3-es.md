@@ -22,6 +22,12 @@ Está [JACK & JONES 12152840 Sudadera con capucha  Gris  Light Melange   M para 
 
 [![JACK & JONES 12152840 Sudadera con capuc](https://m.media-amazon.com/images/I/41Lr-xoH9uL._SL200_.jpg)](https://www.amazon.es/dp/B07TN3TXL3/?tag=tolees-21)
 
+Principales características:
+
+- Jersey con logo
+- Mezcla de algodón
+- Talla/Tamaño: Medium
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07TN3TXL3/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

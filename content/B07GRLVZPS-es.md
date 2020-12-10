@@ -22,6 +22,9 @@ Está [Urban Classics Hooded Puffer Jacket Chaqueta  Negro  Black 00007   XXXX-L
 
 [![Urban Classics Hooded Puffer Jacket Chaq](https://images-eu.ssl-images-amazon.com/images/I/41FkUsDgWiL._SL200_.jpg)](https://www.amazon.es/dp/B07GRLVZPS/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07GRLVZPS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

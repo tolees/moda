@@ -22,6 +22,9 @@ Está [Urban Classics Heavy Hooded Jacket  Chaqueta para Hombre  Blau  Navy 155 
 
 [![Urban Classics Heavy Hooded Jacket  Chaq](https://images-eu.ssl-images-amazon.com/images/I/51Y3DUO7WGL._SL200_.jpg)](https://www.amazon.es/dp/B071WS8YTN/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B071WS8YTN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [RIP CURL Surf Check Jacket Chaqueta  Mujer  Steel Marle  XL](https://www
 
 [![RIP CURL Surf Check Jacket Chaqueta  Muj](https://images-eu.ssl-images-amazon.com/images/I/41jpXa8wMYL._SL200_.jpg)](https://www.amazon.es/dp/B07FPZV5PK/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07FPZV5PK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

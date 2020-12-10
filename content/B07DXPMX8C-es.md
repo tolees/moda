@@ -22,6 +22,9 @@ Tienes [3 Pommes Sweat Shirt  Sudadera Niños  Azul  Navy Blue 49   5-6 años  T
 
 [![3 Pommes Sweat Shirt  Sudadera Niños  Az](https://images-eu.ssl-images-amazon.com/images/I/51t5auBDrBL._SL200_.jpg)](https://www.amazon.es/dp/B07DXPMX8C/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07DXPMX8C/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

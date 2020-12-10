@@ -22,6 +22,9 @@ Está [BOSS Boxer Brief 2p Print  Hombre  Rojo  Bright Red 620  Small Pack de 2]
 
 [![BOSS Boxer Brief 2p Print  Hombre  Rojo ](https://images-eu.ssl-images-amazon.com/images/I/411LpOl8dYL._SL200_.jpg)](https://www.amazon.es/dp/B07G43VW2T/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07G43VW2T/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Crocs Classic  Zuecos Unisex Adulto  Violeta  Lilac   37/38 EU](https://w
 
 [![Crocs Classic  Zuecos Unisex Adulto  Vio](https://images-eu.ssl-images-amazon.com/images/I/41SMazXGdML._SL200_.jpg)](https://www.amazon.es/dp/B01A6L9OZO/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01A6L9OZO/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

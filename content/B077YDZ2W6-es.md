@@ -22,6 +22,9 @@ Está [HIKARO Sudadera con Capucha Hombre  Gris  Grey Marl   48  Talla del fabri
 
 [![HIKARO Sudadera con Capucha Hombre  Gris](https://images-eu.ssl-images-amazon.com/images/I/41mMcx--riL._SL200_.jpg)](https://www.amazon.es/dp/B077YDZ2W6/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B077YDZ2W6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

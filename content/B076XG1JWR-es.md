@@ -22,6 +22,9 @@ Ahora mismo tienes [Geox J New Sandal Aloha B  Sandalias con Tira Vertical para 
 
 [![Geox J New Sandal Aloha B  Sandalias con](https://images-eu.ssl-images-amazon.com/images/I/51WbC1Xp9KL._SL200_.jpg)](https://www.amazon.es/dp/B076XG1JWR/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B076XG1JWR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

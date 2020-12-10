@@ -22,6 +22,9 @@ Está [Vero Moda Vmnicky L/s Tie Top D2-1  Blusa Mujer   Night Sky AOP: Dots   3
 
 [![Vero Moda Vmnicky L/s Tie Top D2-1  Blus](https://images-eu.ssl-images-amazon.com/images/I/5192N2ecDhL._SL200_.jpg)](https://www.amazon.es/dp/B076BVHT3T/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B076BVHT3T/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

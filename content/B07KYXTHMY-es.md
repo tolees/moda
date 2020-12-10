@@ -22,6 +22,9 @@ Está [Springfield 7.Gym.Camisa Fluida Suizo Blusa  Mujer  Azul  Gama Azules 11 
 
 [![Springfield 7.Gym.Camisa Fluida Suizo Bl](https://images-eu.ssl-images-amazon.com/images/I/41yWcS5OiaL._SL200_.jpg)](https://www.amazon.es/dp/B07KYXTHMY/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KYXTHMY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

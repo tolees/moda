@@ -22,6 +22,9 @@ Tienes [Wrangler SS 1pkt Shirt Camisa  Blanco  White O12   Medium para Hombre](h
 
 [![Wrangler SS 1pkt Shirt Camisa  Blanco  W](https://images-eu.ssl-images-amazon.com/images/I/41O8TvISrEL._SL200_.jpg)](https://www.amazon.es/dp/B078SZ6GNC/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B078SZ6GNC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

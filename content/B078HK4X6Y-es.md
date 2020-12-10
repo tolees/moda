@@ -22,6 +22,9 @@ Está [Springfield 6813720 Blusa  Mujer   Gama Rosa/Morado   34  Tamaño del Fab
 
 [![Springfield 6813720 Blusa  Mujer   Gama ](https://images-eu.ssl-images-amazon.com/images/I/41cRokEVyXL._SL200_.jpg)](https://www.amazon.es/dp/B078HK4X6Y/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B078HK4X6Y/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

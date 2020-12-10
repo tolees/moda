@@ -22,6 +22,9 @@ Tienes [NACATIN Guantes de Esquí  Guantes de Invierno Resistente al Agua para H
 
 [![NACATIN Guantes de Esquí  Guantes de Inv](https://images-eu.ssl-images-amazon.com/images/I/51nsW-hUTbL._SL200_.jpg)](https://www.amazon.es/dp/B07JB1H58S/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07JB1H58S/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

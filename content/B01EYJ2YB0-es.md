@@ -22,6 +22,9 @@ Tienes [s.Oliver in Velouroptik  Chaqueta para Niños  Blau  Dark Blue 5834  14 
 
 [![s.Oliver in Velouroptik  Chaqueta para N](https://images-eu.ssl-images-amazon.com/images/I/41z1D6dXa4L._SL200_.jpg)](https://www.amazon.es/dp/B01EYJ2YB0/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01EYJ2YB0/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

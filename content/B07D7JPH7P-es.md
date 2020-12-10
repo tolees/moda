@@ -22,6 +22,9 @@ Tienes [Dolores Promesas 107364  Vestido para Mujer  Marrón  Grana    Tamaño d
 
 [![Dolores Promesas 107364  Vestido para Mu](https://images-eu.ssl-images-amazon.com/images/I/41MxUBSJTWL._SL200_.jpg)](https://www.amazon.es/dp/B07D7JPH7P/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07D7JPH7P/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

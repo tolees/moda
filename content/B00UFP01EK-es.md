@@ -22,6 +22,9 @@ Está [Blend 703119 - Vaqueros para Hombre  Color Schwarz  Denim Black 76204   T
 
 [![Blend 703119 - Vaqueros para Hombre  Col](https://images-eu.ssl-images-amazon.com/images/I/41XQ0TcBTtL._SL200_.jpg)](https://www.amazon.es/dp/B00UFP01EK/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00UFP01EK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

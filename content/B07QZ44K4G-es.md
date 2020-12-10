@@ -22,6 +22,9 @@ Está [HuaMore Chanclas Mujer Piscina  Resbalón de Verano Comodos Bohemio Chanc
 
 [![HuaMore Chanclas Mujer Piscina  Resbalón](https://images-eu.ssl-images-amazon.com/images/I/416MEneYEVL._SL200_.jpg)](https://www.amazon.es/dp/B07QZ44K4G/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07QZ44K4G/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Superdry Vintage Logo Tropical INFILL E Camiseta  Grigio  Ic
 
 [![Superdry Vintage Logo Tropical INFILL E ](https://images-eu.ssl-images-amazon.com/images/I/31dToqcE2aL._SL200_.jpg)](https://www.amazon.es/dp/B07MZDNQ7R/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07MZDNQ7R/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

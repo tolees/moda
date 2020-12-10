@@ -22,6 +22,9 @@ Ahora mismo tienes [Charles Wilson Sudadera con Cremallera Completa con Capucha 
 
 [![Charles Wilson Sudadera con Cremallera C](https://images-eu.ssl-images-amazon.com/images/I/415ltkqGxlL._SL200_.jpg)](https://www.amazon.es/dp/B07L5QZ5GR/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07L5QZ5GR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

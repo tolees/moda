@@ -22,6 +22,9 @@ Tienes [Vero Moda Vmlife SS Top Jrs  Camiseta sin Mangas Mujer  Azul  Plein Air 
 
 [![Vero Moda Vmlife SS Top Jrs  Camiseta si](https://images-eu.ssl-images-amazon.com/images/I/41cmizcOs5L._SL200_.jpg)](https://www.amazon.es/dp/B01NCKU50B/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01NCKU50B/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

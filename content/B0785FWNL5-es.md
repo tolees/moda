@@ -22,6 +22,9 @@ Está [Under Armour UA Tech 2.0 SS tee Camiseta  Hombre  Rojo  Red/Graphite 600 
 
 [![Under Armour UA Tech 2.0 SS tee Camiseta](https://images-eu.ssl-images-amazon.com/images/I/41spBHcdTdL._SL200_.jpg)](https://www.amazon.es/dp/B0785FWNL5/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0785FWNL5/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

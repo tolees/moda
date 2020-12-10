@@ -22,6 +22,9 @@ Ahora mismo tienes [oodji Ultra Mujer Camiseta Básica de Algodón  Pack de 2   
 
 [![oodji Ultra Mujer Camiseta Básica de Alg]()](https://www.amazon.es/dp/B07CXG1LTV/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07CXG1LTV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Ultrasport Softshell Jacket Serfaus Chaqueta de esquí  Mujer  Negro/Verd
 
 [![Ultrasport Softshell Jacket Serfaus Chaq](https://images-eu.ssl-images-amazon.com/images/I/41C0H-1IlVL._SL200_.jpg)](https://www.amazon.es/dp/B00565XJHU/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00565XJHU/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

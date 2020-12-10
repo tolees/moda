@@ -22,6 +22,9 @@ Tienes [Kappa Carcarella Chaqueta Deportiva  Hombre  Azul  Navy   4XL](https://w
 
 [![Kappa Carcarella Chaqueta Deportiva  Hom](https://images-eu.ssl-images-amazon.com/images/I/31ckND3SkGL._SL200_.jpg)](https://www.amazon.es/dp/B00OHG3EWO/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00OHG3EWO/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

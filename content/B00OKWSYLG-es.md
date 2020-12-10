@@ -22,6 +22,9 @@ Tienes [Geox D Giyo  Zapatillas Altas para Mujer  Negro  Black C9999   39 EU](ht
 
 [![Geox D Giyo  Zapatillas Altas para Mujer](https://images-eu.ssl-images-amazon.com/images/I/41nGRqzWCJL._SL200_.jpg)](https://www.amazon.es/dp/B00OKWSYLG/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00OKWSYLG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

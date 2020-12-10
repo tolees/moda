@@ -22,6 +22,9 @@ Tienes [Columbia Alpine Action Oh Chaqueta de Esquí  Negro  Talla XS](https://w
 
 [![Columbia Alpine Action Oh Chaqueta de Es](https://images-eu.ssl-images-amazon.com/images/I/411inlRpxRL._SL200_.jpg)](https://www.amazon.es/dp/B00GSD90ZO/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00GSD90ZO/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

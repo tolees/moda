@@ -22,6 +22,9 @@ Está [Under Armour Performance Polo Camiseta de Manga Corta  Niños  Gris  025 
 
 [![Under Armour Performance Polo Camiseta d](https://images-eu.ssl-images-amazon.com/images/I/41LxtOxpbmL._SL200_.jpg)](https://www.amazon.es/dp/B01FXQVIQK/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01FXQVIQK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

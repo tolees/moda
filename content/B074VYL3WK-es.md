@@ -22,6 +22,9 @@ Ahora mismo tienes [Fazitrip Guantes para niños  Impermeable  para Esquiar  Mon
 
 [![Fazitrip Guantes para niños  Impermeable](https://images-eu.ssl-images-amazon.com/images/I/51RrVk242pL._SL200_.jpg)](https://www.amazon.es/dp/B074VYL3WK/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B074VYL3WK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

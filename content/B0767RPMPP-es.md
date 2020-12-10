@@ -22,6 +22,9 @@ Ahora mismo tienes [Geox D Marlyna G  Botines para Mujer  Gris  Lt Grey/Silver  
 
 [![Geox D Marlyna G  Botines para Mujer  Gr](https://images-eu.ssl-images-amazon.com/images/I/41QCp2dy%2BKL._SL200_.jpg)](https://www.amazon.es/dp/B0767RPMPP/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B0767RPMPP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

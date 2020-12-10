@@ -22,6 +22,9 @@ Está [FIND AMZ090101 vaqueros mujer  Azul  Blue   W26/L32](https://www.amazon.e
 
 [![FIND AMZ090101 vaqueros mujer  Azul  Blu](https://images-eu.ssl-images-amazon.com/images/I/419DN%2BXwANL._SL200_.jpg)](https://www.amazon.es/dp/B079YJTNRL/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B079YJTNRL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

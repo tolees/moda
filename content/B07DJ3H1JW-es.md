@@ -22,6 +22,9 @@ Ahora mismo tienes [Geox U Nebula 4 X 4 B ABX a  Botas Chukka para Hombre  Navy 
 
 [![Geox U Nebula 4 X 4 B ABX a  Botas Chukk](https://images-eu.ssl-images-amazon.com/images/I/41iBPEAsGcL._SL200_.jpg)](https://www.amazon.es/dp/B07DJ3H1JW/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07DJ3H1JW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

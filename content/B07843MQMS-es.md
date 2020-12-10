@@ -22,6 +22,9 @@ Está [Nautica Water Resist Carcoat  Abrigo Impermeable para Hombre  Azul  Navy 
 
 [![Nautica Water Resist Carcoat  Abrigo Imp](https://images-eu.ssl-images-amazon.com/images/I/31uM0bvAnqL._SL200_.jpg)](https://www.amazon.es/dp/B07843MQMS/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07843MQMS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Vila Clothes Vidisa L/s Cowlneck Knit Top  Camiseta Cuello Alto Mujer  M
 
 [![Vila Clothes Vidisa L/s Cowlneck Knit To](https://images-eu.ssl-images-amazon.com/images/I/41h9QtCvU0L._SL200_.jpg)](https://www.amazon.es/dp/B072BZYYD6/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B072BZYYD6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

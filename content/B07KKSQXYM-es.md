@@ -22,6 +22,9 @@ Está [HUGO Eddison-w Camisa  Marrón  Medium Brown 217   X-Small para Hombre](h
 
 [![HUGO Eddison-w Camisa  Marrón  Medium Br](https://images-eu.ssl-images-amazon.com/images/I/41pvGERZ3uL._SL200_.jpg)](https://www.amazon.es/dp/B07KKSQXYM/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KKSQXYM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

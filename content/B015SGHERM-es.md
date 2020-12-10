@@ -22,6 +22,9 @@ Tienes [Havaianas You Metallic  Sandalias para Mujer  Dorado  Sand Grey/Light Go
 
 [![Havaianas You Metallic  Sandalias para M](https://images-eu.ssl-images-amazon.com/images/I/41a11nNEbbL._SL200_.jpg)](https://www.amazon.es/dp/B015SGHERM/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B015SGHERM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

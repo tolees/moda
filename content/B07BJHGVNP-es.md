@@ -22,6 +22,9 @@ Está [G-STAR RAW Deline Track Overshirt  Chaqueta para Hombre  Negro  Dk Black 
 
 [![G-STAR RAW Deline Track Overshirt  Chaqu](https://images-eu.ssl-images-amazon.com/images/I/4142kK%2BVtmL._SL200_.jpg)](https://www.amazon.es/dp/B07BJHGVNP/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07BJHGVNP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

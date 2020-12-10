@@ -22,6 +22,9 @@ Está [ONLY 15136161  Parka Para Mujer  Verde  Peat Peat   42  Talla del fabrica
 
 [![ONLY 15136161  Parka Para Mujer  Verde  ](https://images-eu.ssl-images-amazon.com/images/I/41QJvoksELL._SL200_.jpg)](https://www.amazon.es/dp/B071JF2ZKD/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B071JF2ZKD/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

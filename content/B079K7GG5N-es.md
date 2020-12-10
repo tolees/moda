@@ -22,6 +22,9 @@ Está [Lee Daren Zip Fly  Vaqueros Rectos para Hombre  Negro  Black Night Gz   W
 
 [![Lee Daren Zip Fly  Vaqueros Rectos para ](https://images-eu.ssl-images-amazon.com/images/I/31oaB37SkwL._SL200_.jpg)](https://www.amazon.es/dp/B079K7GG5N/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B079K7GG5N/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

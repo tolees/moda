@@ -22,6 +22,9 @@ Está [BOSS T-Shirt VN 3P CO  Camiseta para Hombre  Negro  Black 1  Small Pack d
 
 [![BOSS T-Shirt VN 3P CO  Camiseta para Hom](https://images-eu.ssl-images-amazon.com/images/I/31uxB3BZCZL._SL200_.jpg)](https://www.amazon.es/dp/B01MDM930F/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01MDM930F/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

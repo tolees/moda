@@ -22,6 +22,9 @@ Está [Puma SF Street tee Camiseta  Hombre  Rojo  Rosso Corsa   L](https://www.a
 
 [![Puma SF Street tee Camiseta  Hombre  Roj](https://images-eu.ssl-images-amazon.com/images/I/41L6cVLngwL._SL200_.jpg)](https://www.amazon.es/dp/B07DFSQ7M2/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DFSQ7M2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

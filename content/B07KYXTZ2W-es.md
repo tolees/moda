@@ -22,6 +22,9 @@ Tienes [Springfield 5.Pa.Falda Larga Lisa Circular Falda  Mujer  Azul  Azul Mari
 
 [![Springfield 5.Pa.Falda Larga Lisa Circul]()](https://www.amazon.es/dp/B07KYXTZ2W/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07KYXTZ2W/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

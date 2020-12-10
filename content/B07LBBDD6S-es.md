@@ -22,6 +22,9 @@ Está [Tommy Jeans TJM Essential Box Logo tee  Camiseta para Hombre  Blau  Black
 
 [![Tommy Jeans TJM Essential Box Logo tee  ](https://images-eu.ssl-images-amazon.com/images/I/41HNU%2BqJcCL._SL200_.jpg)](https://www.amazon.es/dp/B07LBBDD6S/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07LBBDD6S/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Geox J Alonisso Boy B  Zapatillas para Niños  Azul  Navy/Ro
 
 [![Geox J Alonisso Boy B  Zapatillas para N](https://images-eu.ssl-images-amazon.com/images/I/417upkNRZSL._SL200_.jpg)](https://www.amazon.es/dp/B07DK4GBLT/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07DK4GBLT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
