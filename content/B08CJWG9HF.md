@@ -17,10 +17,12 @@ inStock: true
 prodname: 'Adidas Real Madrid Temporada 2020/21 Camiseta Entrenamiento Oficial  Unisex  Blanco  XS'
 ---
 
-Ahora mismo tienes [Adidas Real Madrid Temporada 2020/21 Camiseta Entrenamiento Oficial  Unisex  Blanco  XS](https://www.amazon.es/dp/B08CJWG9HF/?tag=tolees-21) a 29.43 EUR (original: 44.95 EUR) (34.53 %  de descuento) en el siguiente enlace!
+Está [Adidas Real Madrid Temporada 2020/21 Camiseta Entrenamiento Oficial  Unisex  Blanco  XS](https://www.amazon.es/dp/B08CJWG9HF/?tag=tolees-21) con 34.53 de descuento por 29.43 EUR (original: 44.95 EUR) en el siguiente enlace!
 
 [![Adidas Real Madrid Temporada 2020/21 Cam](https://m.media-amazon.com/images/I/312eN5461lL._SL200_.jpg)](https://www.amazon.es/dp/B08CJWG9HF/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B08CJWG9HF/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B08CJWG9HF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

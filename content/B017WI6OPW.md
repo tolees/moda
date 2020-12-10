@@ -17,12 +17,10 @@ inStock: true
 prodname: 'Pepe Jeans PAU  Vaqueros para Niñas  Azul  10Oz Comf Str Med Used P58  12 años'
 ---
 
-Está [Pepe Jeans PAU  Vaqueros para Niñas  Azul  10Oz Comf Str Med Used P58  12 años](https://www.amazon.es/dp/B017WI6OPW/?tag=tolees-21) con 60.00 de descuento por 18 EUR (original: 45 EUR) en el siguiente enlace!
+Ahora mismo tienes [Pepe Jeans PAU  Vaqueros para Niñas  Azul  10Oz Comf Str Med Used P58  12 años](https://www.amazon.es/dp/B017WI6OPW/?tag=tolees-21) a 18 EUR (original: 45 EUR) (60.00 %  de descuento) en el siguiente enlace!
 
 [![Pepe Jeans PAU  Vaqueros para Niñas  Azu](https://images-eu.ssl-images-amazon.com/images/I/41W1RGRPdpL._SL200_.jpg)](https://www.amazon.es/dp/B017WI6OPW/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B017WI6OPW/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B017WI6OPW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-
