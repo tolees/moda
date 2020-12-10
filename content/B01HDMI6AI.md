@@ -17,12 +17,10 @@ inStock: true
 prodname: 'POLO CLUB Camisa Hombre Gentle Taylor Azul Celeste 3XL'
 ---
 
-Está [POLO CLUB Camisa Hombre Gentle Taylor Azul Celeste 3XL](https://www.amazon.es/dp/B01HDMI6AI/?tag=tolees-21) con 82.18 de descuento por 20.49 EUR (original: 115 EUR) en el siguiente enlace!
+Ahora mismo tienes [POLO CLUB Camisa Hombre Gentle Taylor Azul Celeste 3XL](https://www.amazon.es/dp/B01HDMI6AI/?tag=tolees-21) a 20.49 EUR (original: 115 EUR) (82.18 %  de descuento) en el siguiente enlace!
 
 [![POLO CLUB Camisa Hombre Gentle Taylor Az](https://images-eu.ssl-images-amazon.com/images/I/41EG9lg1qtL._SL200_.jpg)](https://www.amazon.es/dp/B01HDMI6AI/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B01HDMI6AI/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B01HDMI6AI/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

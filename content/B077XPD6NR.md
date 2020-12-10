@@ -17,12 +17,10 @@ inStock: true
 prodname: 'Under Armour Tech Big Logo Solid Camisa  Niños  Azul  S'
 ---
 
-Está [Under Armour Tech Big Logo Solid Camisa  Niños  Azul  S](https://www.amazon.es/dp/B077XPD6NR/?tag=tolees-21) con 63.05 de descuento por 7.39 EUR (original: 20 EUR) en el siguiente enlace!
+Ahora mismo tienes [Under Armour Tech Big Logo Solid Camisa  Niños  Azul  S](https://www.amazon.es/dp/B077XPD6NR/?tag=tolees-21) a 7.39 EUR (original: 20 EUR) (63.05 %  de descuento) en el siguiente enlace!
 
 [![Under Armour Tech Big Logo Solid Camisa ](https://images-eu.ssl-images-amazon.com/images/I/41pRz9zLu3L._SL200_.jpg)](https://www.amazon.es/dp/B077XPD6NR/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B077XPD6NR/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B077XPD6NR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-
