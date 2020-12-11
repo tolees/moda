@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 34.98 % en Tommy Hilfiger Original Stretch Shirt Ca'
-date: 2020-12-10 08:42:52
+date: 2020-12-11 10:23:13
 thumbnailImage: 'https://m.media-amazon.com/images/I/31+dDgHgCZL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31+dDgHgCZL._SL200_.jpg' ]
 comments: true
@@ -21,6 +21,12 @@ country: 'es'
 Tienes [Tommy Hilfiger Original Stretch Shirt Camisa  Azul  Lavender Lustre   M para Hombre](https://www.amazon.es/dp/B00ZJEPAR0/?tag=tolees-21) con un 34.98 % de descuento con precio de oferta de 45.45 EUR (original: 69.9 EUR) en el siguiente enlace!
 
 [![Tommy Hilfiger Original Stretch Shirt Ca](https://m.media-amazon.com/images/I/31+dDgHgCZL._SL200_.jpg)](https://www.amazon.es/dp/B00ZJEPAR0/?tag=tolees-21)
+
+Características principales:
+
+- Tiene el logo de la marca bordado en el pecho
+- Fabricada en tejido ligero y suave
+- Camisa para hombre
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00ZJEPAR0/?tag=tolees-21)
 
