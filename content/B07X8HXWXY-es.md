@@ -25,8 +25,8 @@ Tienes [adidas Core18 Hoody Sudadera  Hombre  Bold Green  XS](https://www.amazon
 Características principales:
 
 - Regular fit
-- Kangaroo pocket
 - Hood with lanyard
+- Kangaroo pocket
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07X8HXWXY/?tag=tolees-21)
 
