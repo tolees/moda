@@ -25,9 +25,9 @@ Está [Geox J Alben Boy D  Zapatillas para Niños  Azul  Avio/Red C4327   34 EU]
 Principales características:
 
 - Revestimiento: Malla
-- Material exterior: Sintético
 - Tipo de tacón: Plano
 - Material de la suela: Goma
+- Material exterior: Sintético
 - Cierre: Cordones
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07SWT4J5R/?tag=tolees-21)

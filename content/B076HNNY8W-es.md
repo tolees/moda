@@ -24,9 +24,9 @@ Tienes [adidas CORE18 tee Camiseta de Manga Corta  Hombre  Dark Blue/White  XS](
 
 Características principales:
 
-- Regular fit
 - Adidas logo on the front
 - Climalite anti-humidity fabric
+- Regular fit
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B076HNNY8W/?tag=tolees-21)
 

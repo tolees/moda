@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'G-STAR RAW Midge Zip Mid Waist Skinny Va al 57.59 % de descuento'
-date: 2020-12-05 16:17:36
+title: 'G-STAR RAW Midge Zip Mid Waist Skinny Va al 59.74 % de descuento'
+date: 2020-12-11 08:02:39
 thumbnailImage: 'https://m.media-amazon.com/images/I/41RKPzc7jJL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41RKPzc7jJL._SL200_.jpg' ]
 comments: true
@@ -9,18 +9,23 @@ category: ofertas
 author: ring
 slug: 'B0752BGQRC-es'
 description:
-actualPrice: 55.11 EUR
+actualPrice: 52.32 EUR
 currency: EUR
-price: 55.11
+price: 52.32
 comparePrice: 129.95 EUR
 inStock: true
 prodname: 'G-STAR RAW Midge Zip Mid Waist Skinny Vaqueros  Dark Aged D05281  26W / 36L para Mujer'
 country: 'es'
 ---
 
-Ahora mismo tienes [G-STAR RAW Midge Zip Mid Waist Skinny Vaqueros  Dark Aged D05281  26W / 36L para Mujer](https://www.amazon.es/dp/B0752BGQRC/?tag=tolees-21) a 55.11 EUR (original: 129.95 EUR) (57.59 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [G-STAR RAW Midge Zip Mid Waist Skinny Vaqueros  Dark Aged D05281  26W / 36L para Mujer](https://www.amazon.es/dp/B0752BGQRC/?tag=tolees-21) a 52.32 EUR (original: 129.95 EUR) (59.74 %  de descuento) en el siguiente enlace!
 
 [![G-STAR RAW Midge Zip Mid Waist Skinny Va](https://m.media-amazon.com/images/I/41RKPzc7jJL._SL200_.jpg)](https://www.amazon.es/dp/B0752BGQRC/?tag=tolees-21)
+
+Características:
+
+- Elástico y estable.
+- Denim de peso medio de 10,2 oz.
 
 [Visítala!!!](https://www.amazon.es/dp/B0752BGQRC/?tag=tolees-21)
 

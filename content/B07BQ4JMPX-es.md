@@ -24,8 +24,8 @@ Ahora mismo tienes [Lee Rider Jeans Vaqueros  Blue Drop  33W / 30L para Hombre](
 
 Características:
 
-- Vaqueros para hombre
 - Estilo 5 bolsillos
+- Vaqueros para hombre
 - Tienen un parche de piel en la parte trasera con la marca Lee
 
 [Visítala!!!](https://www.amazon.es/dp/B07BQ4JMPX/?tag=tolees-21)
