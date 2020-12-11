@@ -25,8 +25,8 @@ Está [Wrangler SS Rainbow tee Camiseta  Marfil  Off White 737   X-Large para Ho
 Principales características:
 
 - Tiene un llamativo logo en el pecho
-- Fabricada en tejido ligero que ofrece comodidad
 - Producto de corte regular
+- Fabricada en tejido ligero que ofrece comodidad
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07TXXFNM6/?tag=tolees-21)
 
