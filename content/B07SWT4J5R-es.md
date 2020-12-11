@@ -26,8 +26,8 @@ Principales características:
 
 - Revestimiento: Malla
 - Tipo de tacón: Plano
-- Material de la suela: Goma
 - Material exterior: Sintético
+- Material de la suela: Goma
 - Cierre: Cordones
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07SWT4J5R/?tag=tolees-21)
