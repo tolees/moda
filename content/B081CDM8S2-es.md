@@ -24,8 +24,8 @@ Está [Geographical Norway Chaqueta Mujer Anson Negro S](https://www.amazon.es/d
 
 Principales características:
 
-- Media cremallera
 - Bordados en la manga
+- Media cremallera
 - Puños ajustables
 - Bolsillo tipo canguro en la parte delantera
 - Capucha fija
