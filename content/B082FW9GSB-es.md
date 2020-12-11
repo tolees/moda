@@ -24,9 +24,9 @@ Está [REPLAY M3233 .000.22890C Sudadera  397 Off Black  M para Hombre](https://
 
 Principales características:
 
-- Algodón y algodón con forro polar.
-- Acabados de calidad.
 - Cómodas.
+- Acabados de calidad.
+- Algodón y algodón con forro polar.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B082FW9GSB/?tag=tolees-21)
 

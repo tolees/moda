@@ -24,8 +24,8 @@ Tienes [Geographical Norway Chaqueta de niño BOKER CAQUI talla 8 años](https:/
 
 Características principales:
 
-- Chaqueta de niño
 - Capucha
+- Chaqueta de niño
 - pelo destomtable
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B08MQB1P6S/?tag=tolees-21)

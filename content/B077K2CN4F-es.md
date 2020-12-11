@@ -24,11 +24,11 @@ Ahora mismo tienes [Cliont Zapatillas de Gato Lindo Zapatillas de Invierno de In
 
 Características:
 
-- Material exterior: sintético.
-- Salmuera: TPR. Es antideslizante y resistente al desgaste.
 - Material interno: Textil.
-- Altura del tacón: 3 centímetros.
 - Cierre: deslizamiento.
+- Salmuera: TPR. Es antideslizante y resistente al desgaste.
+- Altura del tacón: 3 centímetros.
+- Material exterior: sintético.
 
 [Visítala!!!](https://www.amazon.es/dp/B077K2CN4F/?tag=tolees-21)
 
