@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tommy Hilfiger Original Rib Camisa  Negr al 31.46 % de descuento'
-date: 2020-12-10 22:09:30
+date: 2020-12-11 22:39:07
 thumbnailImage: 'https://m.media-amazon.com/images/I/416xYiUcOvL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/416xYiUcOvL._SL200_.jpg' ]
 comments: true
@@ -24,11 +24,11 @@ Ahora mismo tienes [Tommy Hilfiger Original Rib Camisa  Negro  Tommy Black 078  
 
 Características:
 
-- Cuello redondo
-- Puro algodón orgánico
-- Logo de Tommy Jeans bordado en el pecho
-- Detalles distintivos de Tommy Jeans
 - Corte slim
+- Detalles distintivos de Tommy Jeans
+- Logo de Tommy Jeans bordado en el pecho
+- Puro algodón orgánico
+- Cuello redondo
 
 [Visítala!!!](https://www.amazon.es/dp/B0776SMLZP/?tag=tolees-21)
 
