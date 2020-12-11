@@ -24,8 +24,8 @@ Ahora mismo tienes [Crocs Crocband II Sandal PS K  Sandalias Unisex Niños  Rosa
 
 Características:
 
-- Los tamaños de suela son de EE.UU. La etiqueta muestra el Reino Unido. M = Hombres W = Mujeres
 - Los zapatos Crocs mostrarán tallas de EE.UU.
+- Los tamaños de suela son de EE.UU. La etiqueta muestra el Reino Unido. M = Hombres W = Mujeres
 
 [Visítala!!!](https://www.amazon.es/dp/B0728CNXWX/?tag=tolees-21)
 

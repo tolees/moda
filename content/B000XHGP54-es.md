@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 52.56 % en Clarks Funny Dream  Zapatos de Cordones '
-date: 2020-11-27 17:09:10
+title: 'Descuento del 32.24 % en Clarks Funny Dream  Zapatos de Cordones '
+date: 2020-12-11 21:50:27
 thumbnailImage: 'https://m.media-amazon.com/images/I/41PUVsnTjAL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41PUVsnTjAL._SL200_.jpg' ]
 comments: true
@@ -9,18 +9,22 @@ category: ofertas
 author: ring
 slug: 'B000XHGP54-es'
 description:
-actualPrice: 47.42 EUR
+actualPrice: 67.73 EUR
 currency: EUR
-price: 47.42
+price: 67.73
 comparePrice: 99.95 EUR
 inStock: true
 prodname: 'Clarks Funny Dream  Zapatos de Cordones Derby  Negro  Black Leather   35.5 EU'
 country: 'es'
 ---
 
-Tienes [Clarks Funny Dream  Zapatos de Cordones Derby  Negro  Black Leather   35.5 EU](https://www.amazon.es/dp/B000XHGP54/?tag=tolees-21) con un 52.56 % de descuento con precio de oferta de 47.42 EUR (original: 99.95 EUR) en el siguiente enlace!
+Tienes [Clarks Funny Dream  Zapatos de Cordones Derby  Negro  Black Leather   35.5 EU](https://www.amazon.es/dp/B000XHGP54/?tag=tolees-21) con un 32.24 % de descuento con precio de oferta de 67.73 EUR (original: 99.95 EUR) en el siguiente enlace!
 
 [![Clarks Funny Dream  Zapatos de Cordones ](https://m.media-amazon.com/images/I/41PUVsnTjAL._SL200_.jpg)](https://www.amazon.es/dp/B000XHGP54/?tag=tolees-21)
+
+Características principales:
+
+- cuero
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B000XHGP54/?tag=tolees-21)
 
