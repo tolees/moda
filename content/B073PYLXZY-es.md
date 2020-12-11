@@ -24,8 +24,8 @@ Está [Timberland Allington 6 Inch  Botas Chukka Mujer  Amarillo Wheat Nubuck  3
 
 Principales características:
 
-- Cierre: Cordones
 - Material de la suela: Goma; Material exterior: Nobuck; Revestimiento: Tela
+- Cierre: Cordones
 
 [Ver la oferta!!](https://www.amazon.es/dp/B073PYLXZY/?tag=tolees-21)
 
