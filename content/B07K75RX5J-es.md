@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 37.17 % en Levi s Original Hm tee Camiseta  LS Cott'
-date: 2020-12-11 16:42:07
+date: 2020-12-12 17:05:13
 image: 'https://m.media-amazon.com/images/I/41iR6KXnbIL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -24,8 +24,8 @@ Tienes [Levi s Original Hm tee Camiseta  LS Cotton + Patch Dress Blues  M para H
 
 ℹ️:
 
-- Elaborada en punto suave
 - Con un discreto logo en el pecho
+- Elaborada en punto suave
 - Modelo casual
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07K75RX5J/?tag=tolees-21)
