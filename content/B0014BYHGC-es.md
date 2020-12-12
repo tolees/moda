@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Crocs Classic Clog  Zuecos Unisex Adulto al 28.01 % de descuento'
-date: 2020-12-10 02:23:39
+date: 2020-12-12 19:01:30
 image: 'https://m.media-amazon.com/images/I/41z-2si+kCL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -22,7 +22,13 @@ Ahora mismo tienes [Crocs Classic Clog  Zuecos Unisex Adulto  Negro  Black 001  
 
 [![Crocs Classic Clog  Zuecos Unisex Adulto](https://m.media-amazon.com/images/I/41z-2si+kCL._SL200_.jpg)](https://www.amazon.es/dp/B0014BYHGC/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
+- Cierre: Tira de tobillo
+- Material de la suela: Sintético
+- Revestimiento: Sin forro
+- Composición: Sintético
+- Tipo de tacón: Plano
+- Material exterior: Espuma
 
 [Visítala!!!](https://www.amazon.es/dp/B0014BYHGC/?tag=tolees-21)
