@@ -24,7 +24,7 @@ Ahora mismo tienes [Only onlSKY REG DNM Skirt BB PIM992 Noos Falda  Mezclilla De
 
 🔎:
 
-- Denimskirt with raw edge at hemline
 - Light blue wash
+- Denimskirt with raw edge at hemline
 
 [Visítala!!!](https://www.amazon.es/dp/B07HFLL9M1/?tag=tolees-21)

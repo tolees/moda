@@ -24,10 +24,10 @@ Ahora mismo tienes [J.Vénus Collar de plata de ley con diamante para mujer Con 
 
 🔎:
 
+- ❤ Collar en plata de primera ley y circonitas cúbicas transparentes y cadena de 45 cm
 - ❤ ¡Simple y femenino! Este delicado colgante se ve estupendo y es muy fácil de mezclar y combinar.
 - ❤ Garantía：Todas nuestras joyas cuentan con una garantía de 24 meses. Cualquier duda que tengas estamos aquí para ayudarte.
 - ❤ Para ti que te gusta ir a la moda o para regalar a esa amiga tan especial. O si lo prefieres, para sorprender a mamá con un colgante lleno de significado.
 - ❤ Todas J.Vénus joyas se envían con un packaging especial que te enamorará.
-- ❤ Collar en plata de primera ley y circonitas cúbicas transparentes y cadena de 45 cm
 
 [Visítala!!!](https://www.amazon.es/dp/B01FE7JKRM/?tag=tolees-21)
