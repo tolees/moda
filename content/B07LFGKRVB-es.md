@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s 2Pk Crewneck Graphic Camiseta  2  al 31.46 % de descuento'
-date: 2020-12-10 20:21:54
+date: 2020-12-12 12:37:07
 thumbnailImage: 'https://m.media-amazon.com/images/I/31xNkWhiwIL._SL200_.jpg'
 image: 'https://m.media-amazon.com/images/I/31xNkWhiwIL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31xNkWhiwIL._SL200_.jpg' ]

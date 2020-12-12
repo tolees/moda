@@ -29,9 +29,9 @@ Ahora mismo tienes [Timberland Larchmont Waterproof  Botas Chukka Hombre  Marró
 Características:
 
 - Durable L7 lug rubber sole with bevelled sidewalls
-- Premium waterproof full-grain leather upper
 - Removable mesh lined OrthoLite PU insole
 - Breathable and eco-friendly PET mesh lining for comfort
+- Premium waterproof full-grain leather upper
 - Seam-sealed construction for maximum protection
 
 [Visítala!!!](https://www.amazon.es/dp/B00X9CSP44/?tag=tolees-21)

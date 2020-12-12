@@ -30,8 +30,8 @@ Características principales:
 
 - Estiramiento
 - Pretina Ancha
-- Conjunto De Calzoncillos Boxer
 - Paquete Triple
+- Conjunto De Calzoncillos Boxer
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07LBD6P5P/?tag=tolees-21)
 

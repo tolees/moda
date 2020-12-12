@@ -28,8 +28,8 @@ Está [JACK & JONES Clark Original JOS 318 Vaqueros  Azul  Blue Denim   33W / 32
 
 Principales características:
 
-- Puntadas marrones para un look denim auténtico
 - Corte regular fit y cinco bolsillos
+- Puntadas marrones para un look denim auténtico
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00N1TQUSS/?tag=tolees-21)
 

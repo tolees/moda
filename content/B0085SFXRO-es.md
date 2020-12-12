@@ -30,8 +30,8 @@ Principales características:
 
 - Color: NAVY AZUL
 - Artículo: 12058529 BASIC TEE
-- Designer: JACK&JONES
 - Estación: SIEMPRE DISPONIBLE
+- Designer: JACK&JONES
 
 [Ver la oferta!!](https://www.amazon.es/dp/B0085SFXRO/?tag=tolees-21)
 

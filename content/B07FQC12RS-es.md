@@ -28,8 +28,8 @@ Está [JACK & JONES Jjitim Jjoriginal Am 781 50SPS Noos Vaqueros slim  Azul  Blu
 
 Principales características:
 
-- Corte slim fit ni muy ceñido ni muy holgado
 - Costuras marrones para un look denim auténtico
+- Corte slim fit ni muy ceñido ni muy holgado
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07FQC12RS/?tag=tolees-21)
 

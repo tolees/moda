@@ -28,11 +28,11 @@ Ahora mismo tienes [Aibrou Pijama Hombre Verano Corto de 100% Algodón Pijamas d
 
 Características:
 
-- 【5 tamaños para elegir】Talla Europea: S- M- L - XL- XXL. 3 colores: Azul marino, gris y negro.
 - 【Cuidado de las prendas】 El conjunto de pijamas cortos se recomienda lavar a mano y lavar a máquina en la bolsa de la colada. Lavar con agua fría y colores similares. Seque solo a fuego lento.
+- 【Superior Material】Hecho de una tela de algodón cómoda. Es muy suave, transpirable y amigable con la piel, cómodo y fresco para usar.
 - 【Regalo perfecto para hombres】Un regalo especial para cualquier festival, hombres en tu vida ya sean tu padre, hijo, esposo, novio o amigo cercano
 - 【Diseño simple y generoso】Manga corta; Pantalones cortos con dos bolsillos.
-- 【Superior Material】Hecho de una tela de algodón cómoda. Es muy suave, transpirable y amigable con la piel, cómodo y fresco para usar.
+- 【5 tamaños para elegir】Talla Europea: S- M- L - XL- XXL. 3 colores: Azul marino, gris y negro.
 
 [Visítala!!!](https://www.amazon.es/dp/B07N2HL2XK/?tag=tolees-21)
 

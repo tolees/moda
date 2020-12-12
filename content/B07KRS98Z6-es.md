@@ -28,11 +28,11 @@ Tienes [Art Alfama  Zapatos de tacón con Punta Cerrada Mujer  Negro  Black   41
 
 Características principales:
 
-- Material de la suela: Goma
 - Cierre: Velcro
-- Material exterior: Cuero
-- Tipo de tacón: Tacón ancho
 - Revestimiento: Cuero sintético
+- Tipo de tacón: Tacón ancho
+- Material de la suela: Goma
+- Material exterior: Cuero
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07KRS98Z6/?tag=tolees-21)
 

@@ -28,9 +28,9 @@ Tienes [Lee Malone Vaqueros  Light del Rey Ej  30W / 32L para Hombre](https://ww
 
 Características principales:
 
+- Vaqueros para hombre
 - Tienen un parche de piel en la parte trasera con la marca Lee
 - Presentan 5 bolsillos
-- Vaqueros para hombre
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07VPXHQ38/?tag=tolees-21)
 
