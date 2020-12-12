@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s 501 Original Vaqueros  Onewash  3 al 25.17 % de descuento'
-date: 2020-12-10 21:28:46
+date: 2020-12-12 13:17:58
 thumbnailImage: 'https://m.media-amazon.com/images/I/41u6V9BHazL._SL200_.jpg'
 image: 'https://m.media-amazon.com/images/I/41u6V9BHazL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41u6V9BHazL._SL200_.jpg' ]

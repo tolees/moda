@@ -28,11 +28,11 @@ Tienes [Columbia Woodburn II Chukka Waterproof Omni-Heat  Zapatos Hombre  Marró
 
 Características principales:
 
-- Material exterior: Cuero
-- Revestimiento: Sintético
+- Anchura del zapato: Normal
 - Tipo de tacón: Plano
 - Cierre: Cordones
-- Anchura del zapato: Normal
+- Material exterior: Cuero
+- Revestimiento: Sintético
 - Altura del tacón: 1 centímetros
 - Material de la suela: Caucho
 - Composición: Cuero

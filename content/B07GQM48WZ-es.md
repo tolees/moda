@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Graphic Camiseta  84 Sportswear L al 28.04 % de descuento'
-date: 2020-12-06 08:14:54
+date: 2020-12-12 13:15:14
 thumbnailImage: 'https://m.media-amazon.com/images/I/41XugffUYwL._SL200_.jpg'
 image: 'https://m.media-amazon.com/images/I/41XugffUYwL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41XugffUYwL._SL200_.jpg' ]
@@ -28,6 +28,9 @@ Está [Levi s Graphic Camiseta  84 Sportswear Logo Grey Midtone Grey Htr  XX-Sma
 
 Principales características:
 
+- Fabricada en tejido ligero
+- Con el logotipo deportivo de Levis
+- Modelo casual
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07GQM48WZ/?tag=tolees-21)
 

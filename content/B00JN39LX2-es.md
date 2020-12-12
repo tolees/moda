@@ -28,8 +28,8 @@ Ahora mismo tienes [Nautica V41050 Camiseta  Azul  Noon Blue   Medium  Tamaño d
 
 Características:
 
-- manga corta, bolsillo en el pecho con el logotipo de Nautica.
 - Cuello redondo
+- manga corta, bolsillo en el pecho con el logotipo de Nautica.
 
 [Visítala!!!](https://www.amazon.es/dp/B00JN39LX2/?tag=tolees-21)
 

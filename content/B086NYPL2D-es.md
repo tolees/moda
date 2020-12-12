@@ -28,11 +28,11 @@ Está [PUMA Evostripe tee Camiseta  Mujer  Black  M](https://www.amazon.es/dp/B0
 
 Principales características:
 
-- BCI: La asociación de PUMA con la Iniciativa del Mejor Algodón (Better Cotton Initiative) para mejorar el cultivo de algodón a nivel global
 - Corte holgado
 - Logotipo del PUMA impreso en puntos de goma en la parte frontal
-- dryCELL: La denominación de PUMA para las propiedades repelentes de la humedad que ayudan a que la piel permanezca seca y cómoda
+- BCI: La asociación de PUMA con la Iniciativa del Mejor Algodón (Better Cotton Initiative) para mejorar el cultivo de algodón a nivel global
 - Estándar OEKO-TEX: Elaboración en conformidad con el estándar OEKO-TEX, con el que se evita el uso de sustancias nocivas desde el hilo hasta el producto final
+- dryCELL: La denominación de PUMA para las propiedades repelentes de la humedad que ayudan a que la piel permanezca seca y cómoda
 
 [Ver la oferta!!](https://www.amazon.es/dp/B086NYPL2D/?tag=tolees-21)
 

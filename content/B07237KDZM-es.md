@@ -28,8 +28,8 @@ Está [Only onlSEDONA Light Coat OTW Noos Abrigo  Gris  Dark Grey Melange   40  
 
 Principales características:
 
-- Abrigo de lana con capucha.
 - Abrigo largo de entretiempo.
+- Abrigo de lana con capucha.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07237KDZM/?tag=tolees-21)
 

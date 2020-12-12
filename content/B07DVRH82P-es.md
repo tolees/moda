@@ -28,8 +28,8 @@ Ahora mismo tienes [Levi s Type 3 Chaqueta Vaquera  Stonebridge Sherpa Trucker  
 
 Características:
 
-- Trucker tipo 3 Sherpa
 - Parte frontal típica de 2 bolsillos
+- Trucker tipo 3 Sherpa
 - Forro de las mangas: 100% poliamida
 - La chaqueta tipo 3 Sherpa Trucker es una buena figura en los viajes de compra: clásico en este modelo de 84% algodón son la parte frontal típica de 2 bolsillos, las costuras decorativas dobles y las legendarias botones de camión
 
