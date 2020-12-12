@@ -28,10 +28,10 @@ Ahora mismo tienes [Pepe Jeans Eggo PM500465 Camiseta  Gris  Grey Marl 933   2X-
 
 Características:
 
-- Fabricada en tejido suave
-- Manga corta
-- Camiseta básica para hombre
 - Logo estampado en el pecho
+- Fabricada en tejido suave
+- Camiseta básica para hombre
+- Manga corta
 
 [Visítala!!!](https://www.amazon.es/dp/B06XTHB89K/?tag=tolees-21)
 
