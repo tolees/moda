@@ -22,7 +22,7 @@ Ahora mismo tienes [The North Face Horizon Sunnyside Pantalón Corto  Mujer  Van
 
 [![The North Face Horizon Sunnyside Pantaló](https://images-eu.ssl-images-amazon.com/images/I/41dWsuLZJHL._SL200_.jpg)](https://www.amazon.es/dp/B00ILWGZ8K/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00ILWGZ8K/?tag=tolees-21)

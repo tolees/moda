@@ -22,7 +22,7 @@ Ahora mismo tienes [Guess Abito Corto Samantha Dress  Vestido para Mujer  Negro 
 
 [![Guess Abito Corto Samantha Dress  Vestid](https://images-eu.ssl-images-amazon.com/images/I/315D64renPL._SL200_.jpg)](https://www.amazon.es/dp/B07D7RFXHG/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07D7RFXHG/?tag=tolees-21)

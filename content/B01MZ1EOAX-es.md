@@ -22,7 +22,7 @@ Ahora mismo tienes [oodji Ultra Hombre Camisa Entallada a Lunares  Azul  сm 40 
 
 [![oodji Ultra Hombre Camisa Entallada a Lu](https://images-eu.ssl-images-amazon.com/images/I/41uLmimOj7L._SL200_.jpg)](https://www.amazon.es/dp/B01MZ1EOAX/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01MZ1EOAX/?tag=tolees-21)

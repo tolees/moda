@@ -22,7 +22,7 @@ Ahora mismo tienes [Vila Clothes Vipen New Skirt-Noos  Falda para Mujer  Verde  
 
 [![Vila Clothes Vipen New Skirt-Noos  Falda](https://images-eu.ssl-images-amazon.com/images/I/31YYG9DtRZL._SL200_.jpg)](https://www.amazon.es/dp/B07FD5LQH2/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07FD5LQH2/?tag=tolees-21)

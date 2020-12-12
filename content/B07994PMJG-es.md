@@ -22,7 +22,7 @@ Ahora mismo tienes [Tommy Jeans Hombre  Scanton Vaqueros   Azul  Wilson Mid Blue
 
 [![Tommy Jeans Hombre  Scanton Vaqueros   A](https://images-eu.ssl-images-amazon.com/images/I/41Jg08hxllL._SL200_.jpg)](https://www.amazon.es/dp/B07994PMJG/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07994PMJG/?tag=tolees-21)

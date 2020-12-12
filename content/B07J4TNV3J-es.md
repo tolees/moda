@@ -22,7 +22,7 @@ Ahora mismo tienes [Aicehome Bolsa Termica Aislada con Correa de Hombro Ajustabl
 
 [![Aicehome Bolsa Termica Aislada con Corre](https://images-eu.ssl-images-amazon.com/images/I/51C%2BHsaoY4L._SL200_.jpg)](https://www.amazon.es/dp/B07J4TNV3J/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07J4TNV3J/?tag=tolees-21)

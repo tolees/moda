@@ -22,7 +22,7 @@ Ahora mismo tienes [KENNETH COLE Levin Monk  Zapatos de Cordones Oxford para Hom
 
 [![KENNETH COLE Levin Monk  Zapatos de Cord](https://images-eu.ssl-images-amazon.com/images/I/31QZ4WmFNwL._SL200_.jpg)](https://www.amazon.es/dp/B079XC79FZ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B079XC79FZ/?tag=tolees-21)

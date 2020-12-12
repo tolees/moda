@@ -22,7 +22,7 @@ Ahora mismo tienes [Timberland Bradstreet Leather Sensorflex  Zapatillas Chukka 
 
 [![Timberland Bradstreet Leather Sensorflex](https://images-eu.ssl-images-amazon.com/images/I/318a-h8WqPL._SL200_.jpg)](https://www.amazon.es/dp/B07F22WGSF/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07F22WGSF/?tag=tolees-21)

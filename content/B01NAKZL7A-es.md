@@ -22,7 +22,7 @@ Ahora mismo tienes [Vans_Apparel Addison II Parka MTE  Chaqueta para Mujer  Verd
 
 [![Vans_Apparel Addison II Parka MTE  Chaqu](https://images-eu.ssl-images-amazon.com/images/I/41yv8W6-uCL._SL200_.jpg)](https://www.amazon.es/dp/B01NAKZL7A/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01NAKZL7A/?tag=tolees-21)

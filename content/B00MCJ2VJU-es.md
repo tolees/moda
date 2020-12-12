@@ -22,7 +22,7 @@ Ahora mismo tienes [Nike Ebernon Low Prem Zapatos de Baloncesto Hombre  Gris  Da
 
 [![Nike Ebernon Low Prem Zapatos de Balonce](https://images-eu.ssl-images-amazon.com/images/I/41SIwwygAGL._SL200_.jpg)](https://www.amazon.es/dp/B00MCJ2VJU/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00MCJ2VJU/?tag=tolees-21)

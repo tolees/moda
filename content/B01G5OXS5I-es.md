@@ -22,7 +22,7 @@ Ahora mismo tienes [edc by ESPRIT 076CC1E035  vestido Mujer  Azul  NAVY   38  Ta
 
 [![edc by ESPRIT 076CC1E035  vestido Mujer ](https://images-eu.ssl-images-amazon.com/images/I/41SnF5kEKjL._SL200_.jpg)](https://www.amazon.es/dp/B01G5OXS5I/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01G5OXS5I/?tag=tolees-21)

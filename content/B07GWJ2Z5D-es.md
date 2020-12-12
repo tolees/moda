@@ -22,7 +22,7 @@ Ahora mismo tienes [JACK & JONES PREMIUM Jprchelsea Check Shirt L/s Pre Au  Cami
 
 [![JACK & JONES PREMIUM Jprchelsea Check Sh](https://images-eu.ssl-images-amazon.com/images/I/41TjEmxld5L._SL200_.jpg)](https://www.amazon.es/dp/B07GWJ2Z5D/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07GWJ2Z5D/?tag=tolees-21)

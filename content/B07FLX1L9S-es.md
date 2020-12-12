@@ -22,7 +22,7 @@ Ahora mismo tienes [Bata 7996322  Zapatos de tacón con Punta Cerrada para Mujer
 
 [![Bata 7996322  Zapatos de tacón con Punta](https://images-eu.ssl-images-amazon.com/images/I/31z%2BRuGBJiL._SL200_.jpg)](https://www.amazon.es/dp/B07FLX1L9S/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07FLX1L9S/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [JACK & JONES Jjiglenn Jjcharlie Am 736 Ltd  Vaqueros Slim pa
 
 [![JACK & JONES Jjiglenn Jjcharlie Am 736 L](https://images-eu.ssl-images-amazon.com/images/I/41SLDvoMwCL._SL200_.jpg)](https://www.amazon.es/dp/B07CBWX4JN/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07CBWX4JN/?tag=tolees-21)

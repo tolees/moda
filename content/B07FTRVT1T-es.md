@@ -22,7 +22,7 @@ Ahora mismo tienes [Lee Ultimate Pocket Tee  Camiseta Hombre  Rojo  Bright Red E
 
 [![Lee Ultimate Pocket Tee  Camiseta Hombre](https://images-eu.ssl-images-amazon.com/images/I/41GyBXr268L._SL200_.jpg)](https://www.amazon.es/dp/B07FTRVT1T/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07FTRVT1T/?tag=tolees-21)

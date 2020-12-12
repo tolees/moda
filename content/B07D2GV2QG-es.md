@@ -22,7 +22,7 @@ Ahora mismo tienes [Levi s 501 Original Fit Vaqueros  Gris  Mlk Warp 2649   W34/
 
 [![Levi s 501 Original Fit Vaqueros  Gris  ](https://images-eu.ssl-images-amazon.com/images/I/41RN69puwdL._SL200_.jpg)](https://www.amazon.es/dp/B07D2GV2QG/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07D2GV2QG/?tag=tolees-21)

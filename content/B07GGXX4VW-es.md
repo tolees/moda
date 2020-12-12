@@ -22,7 +22,7 @@ Ahora mismo tienes [ZAFUL Suéter Mujer Ancho Jersey de Invierno Casual Jerséis
 
 [![ZAFUL Suéter Mujer Ancho Jersey de Invie](https://images-eu.ssl-images-amazon.com/images/I/41n8ADM-nML._SL200_.jpg)](https://www.amazon.es/dp/B07GGXX4VW/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07GGXX4VW/?tag=tolees-21)

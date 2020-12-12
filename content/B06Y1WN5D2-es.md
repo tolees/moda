@@ -22,7 +22,7 @@ Ahora mismo tienes [Geox D Gendry A  Zapatillas para Mujer  Negro  Black   36 EU
 
 [![Geox D Gendry A  Zapatillas para Mujer  ](https://images-eu.ssl-images-amazon.com/images/I/41r40kA0Y6L._SL200_.jpg)](https://www.amazon.es/dp/B06Y1WN5D2/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B06Y1WN5D2/?tag=tolees-21)

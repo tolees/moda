@@ -22,7 +22,7 @@ Ahora mismo tienes [Fendi FF 0086/S 3U HK5  Gafas de sol para Mujer  Azul  Spttd
 
 [![Fendi FF 0086/S 3U HK5  Gafas de sol par](https://images-eu.ssl-images-amazon.com/images/I/31VBNFFBaML._SL200_.jpg)](https://www.amazon.es/dp/B00VXVT2SG/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00VXVT2SG/?tag=tolees-21)

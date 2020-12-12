@@ -22,7 +22,7 @@ Ahora mismo tienes [Axara H15 18632  Falda para Mujer  Negro  XS](https://www.am
 
 [![Axara H15 18632  Falda para Mujer  Negro](https://images-eu.ssl-images-amazon.com/images/I/41yTuEczEgL._SL200_.jpg)](https://www.amazon.es/dp/B00W4U19KO/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00W4U19KO/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [XTI 48606  Botines para Mujer  Negro  Black   40 EU](https:/
 
 [![XTI 48606  Botines para Mujer  Negro  Bl](https://images-eu.ssl-images-amazon.com/images/I/31nYKKNnJ9L._SL200_.jpg)](https://www.amazon.es/dp/B07D9BF8L5/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07D9BF8L5/?tag=tolees-21)

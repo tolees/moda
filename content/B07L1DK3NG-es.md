@@ -22,7 +22,7 @@ Ahora mismo tienes [JACK & JONES Jcoexplore tee SS Crew Neck Camiseta  Blanco  W
 
 [![JACK & JONES Jcoexplore tee SS Crew Neck](https://images-eu.ssl-images-amazon.com/images/I/415L9vLNJ6L._SL200_.jpg)](https://www.amazon.es/dp/B07L1DK3NG/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07L1DK3NG/?tag=tolees-21)

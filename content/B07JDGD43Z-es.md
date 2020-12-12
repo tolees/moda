@@ -22,7 +22,7 @@ Ahora mismo tienes [Botines Hombre Invierno Forrado Lace Up 4 Pulgadas Impermeab
 
 [![Botines Hombre Invierno Forrado Lace Up ](https://images-eu.ssl-images-amazon.com/images/I/41IUBBufX5L._SL200_.jpg)](https://www.amazon.es/dp/B07JDGD43Z/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07JDGD43Z/?tag=tolees-21)

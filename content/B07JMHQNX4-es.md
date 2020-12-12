@@ -22,7 +22,7 @@ Ahora mismo tienes [XTI 48829  Sandalias con Plataforma para Mujer  Blanco Hielo
 
 [![XTI 48829  Sandalias con Plataforma para](https://images-eu.ssl-images-amazon.com/images/I/41cqlkHLDtL._SL200_.jpg)](https://www.amazon.es/dp/B07JMHQNX4/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07JMHQNX4/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Geox Junior  Mocasines de Cuero para Niños  Negro  Black 99
 
 [![Geox Junior  Mocasines de Cuero para Niñ](https://images-eu.ssl-images-amazon.com/images/I/41qR6C4NuAL._SL200_.jpg)](https://www.amazon.es/dp/B001W01ZTW/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B001W01ZTW/?tag=tolees-21)

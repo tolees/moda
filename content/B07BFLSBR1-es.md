@@ -22,7 +22,7 @@ Ahora mismo tienes [ESPRIT Landy Bootie  Botines para Mujer  Marrón  Camel 230 
 
 [![ESPRIT Landy Bootie  Botines para Mujer ](https://images-eu.ssl-images-amazon.com/images/I/41A0NSTIdUL._SL200_.jpg)](https://www.amazon.es/dp/B07BFLSBR1/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07BFLSBR1/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Odlo Zeroweight X-Warm Chaleco  Hombre  Azul  Jewel/Poseidon
 
 [![Odlo Zeroweight X-Warm Chaleco  Hombre  ](https://images-eu.ssl-images-amazon.com/images/I/4129v9h2-XL._SL200_.jpg)](https://www.amazon.es/dp/B07DWTZFM1/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DWTZFM1/?tag=tolees-21)

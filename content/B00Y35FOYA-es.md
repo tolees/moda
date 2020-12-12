@@ -22,7 +22,7 @@ Ahora mismo tienes [TANTRA  Wild Tshirt - Camiseta para Mujer  Color Black  Tall
 
 [![TANTRA  Wild Tshirt - Camiseta para Muje](https://images-eu.ssl-images-amazon.com/images/I/51YF7yPF1oL._SL200_.jpg)](https://www.amazon.es/dp/B00Y35FOYA/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00Y35FOYA/?tag=tolees-21)

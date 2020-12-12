@@ -22,7 +22,7 @@ Ahora mismo tienes [adidas Freelift Cl  Camiseta de Tirantes Hombre  Blanco  Clo
 
 [![adidas Freelift Cl  Camiseta de Tirantes](https://images-eu.ssl-images-amazon.com/images/I/31fAT8emjFL._SL200_.jpg)](https://www.amazon.es/dp/B07DFB7LWT/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DFB7LWT/?tag=tolees-21)

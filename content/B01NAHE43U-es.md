@@ -22,7 +22,7 @@ Ahora mismo tienes [Timberland Adventure 2.0 Cupsole  Botas Chukka para Hombre  
 
 [![Timberland Adventure 2.0 Cupsole  Botas ](https://images-eu.ssl-images-amazon.com/images/I/41LSnALLAWL._SL200_.jpg)](https://www.amazon.es/dp/B01NAHE43U/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01NAHE43U/?tag=tolees-21)

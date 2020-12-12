@@ -22,7 +22,7 @@ Ahora mismo tienes [Springfield 1332171  Jersey para Mujer  Rosa  Pink   Medium 
 
 [![Springfield 1332171  Jersey para Mujer  ](https://images-eu.ssl-images-amazon.com/images/I/51wpt8SHzBL._SL200_.jpg)](https://www.amazon.es/dp/B075SDZL35/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B075SDZL35/?tag=tolees-21)

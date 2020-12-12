@@ -22,7 +22,7 @@ Ahora mismo tienes [Nike G NSW Hoodie FZ PE Chaqueta  Niñas   Ashen Slate/Lava 
 
 [![Nike G NSW Hoodie FZ PE Chaqueta  Niñas ](https://images-eu.ssl-images-amazon.com/images/I/41zzBDKlJvL._SL200_.jpg)](https://www.amazon.es/dp/B07F6Q4GYV/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07F6Q4GYV/?tag=tolees-21)

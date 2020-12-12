@@ -22,7 +22,7 @@ Ahora mismo tienes [Dorothy Perkins Luxe Faux Fur Parka  Chaqueta para Mujer  Ve
 
 [![Dorothy Perkins Luxe Faux Fur Parka  Cha](https://images-eu.ssl-images-amazon.com/images/I/41J4SMPQWZL._SL200_.jpg)](https://www.amazon.es/dp/B07G4MYFPC/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07G4MYFPC/?tag=tolees-21)

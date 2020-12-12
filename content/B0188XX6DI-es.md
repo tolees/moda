@@ -22,7 +22,7 @@ Ahora mismo tienes [The North Face S/S Dome Camiseta De Manga Corta Simple  Muje
 
 [![The North Face S/S Dome Camiseta De Mang](https://images-eu.ssl-images-amazon.com/images/I/31YUyoNJ%2B3L._SL200_.jpg)](https://www.amazon.es/dp/B0188XX6DI/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0188XX6DI/?tag=tolees-21)

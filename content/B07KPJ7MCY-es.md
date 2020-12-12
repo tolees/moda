@@ -22,7 +22,7 @@ Ahora mismo tienes [SELECTED FEMME Slfdamina 7/8 Dress Vestido  Morado Clover  4
 
 [![SELECTED FEMME Slfdamina 7/8 Dress Vesti](https://images-eu.ssl-images-amazon.com/images/I/31LTCXwzjSL._SL200_.jpg)](https://www.amazon.es/dp/B07KPJ7MCY/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07KPJ7MCY/?tag=tolees-21)

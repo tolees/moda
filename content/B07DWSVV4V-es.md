@@ -22,7 +22,7 @@ Ahora mismo tienes [Under Armour Challenger II Knit Short Pantalón Corto  Hombr
 
 [![Under Armour Challenger II Knit Short Pa](https://images-eu.ssl-images-amazon.com/images/I/41V-jfQlPJL._SL200_.jpg)](https://www.amazon.es/dp/B07DWSVV4V/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DWSVV4V/?tag=tolees-21)

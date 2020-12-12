@@ -22,7 +22,7 @@ Ahora mismo tienes [Under Armour Sportstyle Cotton Graphic Short Pantalón Corto
 
 [![Under Armour Sportstyle Cotton Graphic S](https://images-eu.ssl-images-amazon.com/images/I/312mXkcsLeL._SL200_.jpg)](https://www.amazon.es/dp/B079G3V7ZW/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B079G3V7ZW/?tag=tolees-21)

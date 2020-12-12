@@ -22,7 +22,7 @@ Ahora mismo tienes [Springfield 8953635  Vestido para Mujer   Gama Verdes   Larg
 
 [![Springfield 8953635  Vestido para Mujer ](https://images-eu.ssl-images-amazon.com/images/I/41l0s9SDjXL._SL200_.jpg)](https://www.amazon.es/dp/B078H2HJSZ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B078H2HJSZ/?tag=tolees-21)

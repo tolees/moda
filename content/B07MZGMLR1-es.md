@@ -22,7 +22,7 @@ Ahora mismo tienes [Superdry Premium Goods Duo Lite tee Camiseta  Blanco  Optic 
 
 [![Superdry Premium Goods Duo Lite tee Cami](https://images-eu.ssl-images-amazon.com/images/I/41Cam91YSkL._SL200_.jpg)](https://www.amazon.es/dp/B07MZGMLR1/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07MZGMLR1/?tag=tolees-21)

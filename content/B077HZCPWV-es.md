@@ -22,7 +22,7 @@ Ahora mismo tienes [Under Armour 1320610 UA Slim Leg Crop - Pantalón de felpa p
 
 [![Under Armour 1320610 UA Slim Leg Crop - ](https://images-eu.ssl-images-amazon.com/images/I/41QkN3XB7bL._SL200_.jpg)](https://www.amazon.es/dp/B077HZCPWV/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B077HZCPWV/?tag=tolees-21)

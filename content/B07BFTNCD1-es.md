@@ -22,7 +22,7 @@ Ahora mismo tienes [Vero Moda Vmlou LS Top A  Blusa Mujer  Blanco  Snow White Sn
 
 [![Vero Moda Vmlou LS Top A  Blusa Mujer  B](https://images-eu.ssl-images-amazon.com/images/I/41hb3%2BNvf1L._SL200_.jpg)](https://www.amazon.es/dp/B07BFTNCD1/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07BFTNCD1/?tag=tolees-21)

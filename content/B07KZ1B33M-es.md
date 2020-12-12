@@ -22,7 +22,7 @@ Ahora mismo tienes [Springfield 2.T.Ap.Pv19.Flor Print Camiseta  Gama Azules 19 
 
 [![Springfield 2.T.Ap.Pv19.Flor Print Camis](https://images-eu.ssl-images-amazon.com/images/I/51clv62oYjL._SL200_.jpg)](https://www.amazon.es/dp/B07KZ1B33M/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07KZ1B33M/?tag=tolees-21)

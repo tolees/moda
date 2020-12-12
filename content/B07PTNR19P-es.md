@@ -22,7 +22,7 @@ Ahora mismo tienes [Bañador de Mujer Bikini Ropa de Baño de Una Pieza Azul Mar
 
 [![Bañador de Mujer Bikini Ropa de Baño de ](https://images-eu.ssl-images-amazon.com/images/I/31UBaOMxv1L._SL200_.jpg)](https://www.amazon.es/dp/B07PTNR19P/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07PTNR19P/?tag=tolees-21)

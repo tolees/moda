@@ -22,7 +22,7 @@ Ahora mismo tienes [Polaroid PLD 1023/S OZ 202 Gafas de Sol  Marrón  Brown Hava
 
 [![Polaroid PLD 1023/S OZ 202 Gafas de Sol ](https://images-eu.ssl-images-amazon.com/images/I/31%2B-dz-heBL._SL200_.jpg)](https://www.amazon.es/dp/B06XH2ZDC3/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B06XH2ZDC3/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Columbia Inner Limits Jacket Chaqueta Impermeable  Aislamien
 
 [![Columbia Inner Limits Jacket Chaqueta Im](https://images-eu.ssl-images-amazon.com/images/I/41g-z1lf1ZL._SL200_.jpg)](https://www.amazon.es/dp/B0797HSF6G/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0797HSF6G/?tag=tolees-21)

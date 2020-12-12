@@ -22,7 +22,7 @@ Ahora mismo tienes [Vero Moda Vmnew Elva LS O-Neck Blouse Boo  suéter para Muje
 
 [![Vero Moda Vmnew Elva LS O-Neck Blouse Bo](https://images-eu.ssl-images-amazon.com/images/I/418Kh0w4dmL._SL200_.jpg)](https://www.amazon.es/dp/B077TTZMN3/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B077TTZMN3/?tag=tolees-21)

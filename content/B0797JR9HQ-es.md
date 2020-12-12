@@ -22,7 +22,7 @@ Ahora mismo tienes [Armani Exchange 6zyc04  Blusa para Mujer  Blanco  White 1100
 
 [![Armani Exchange 6zyc04  Blusa para Mujer](https://images-eu.ssl-images-amazon.com/images/I/31LUa8xvunL._SL200_.jpg)](https://www.amazon.es/dp/B0797JR9HQ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0797JR9HQ/?tag=tolees-21)

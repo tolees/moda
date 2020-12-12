@@ -22,7 +22,7 @@ Ahora mismo tienes [Springfield Check Vichy Melange B.S Camisa Casual  Hombre  V
 
 [![Springfield Check Vichy Melange B.S Cami](https://images-eu.ssl-images-amazon.com/images/I/41YYu2te9VL._SL200_.jpg)](https://www.amazon.es/dp/B07DLCDN4G/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DLCDN4G/?tag=tolees-21)

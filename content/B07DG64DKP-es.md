@@ -22,7 +22,7 @@ Ahora mismo tienes [Calvin Klein Lightly Lined Demi  Sujetador para Camiseta par
 
 [![Calvin Klein Lightly Lined Demi  Sujetad](https://images-eu.ssl-images-amazon.com/images/I/41Jk7iiJgXL._SL200_.jpg)](https://www.amazon.es/dp/B07DG64DKP/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DG64DKP/?tag=tolees-21)

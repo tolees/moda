@@ -22,7 +22,7 @@ Ahora mismo tienes [Springfield 5.Pa.Corto Liso M/C Lace Vestido   Negro 1   Med
 
 [![Springfield 5.Pa.Corto Liso M/C Lace Ves]()](https://www.amazon.es/dp/B07KZ1HYTH/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07KZ1HYTH/?tag=tolees-21)

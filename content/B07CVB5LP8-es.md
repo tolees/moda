@@ -22,7 +22,7 @@ Ahora mismo tienes [Under Armour Lockdown 3  Zapatos de Baloncesto para Hombre  
 
 [![Under Armour Lockdown 3  Zapatos de Balo](https://images-eu.ssl-images-amazon.com/images/I/4140tArKB9L._SL200_.jpg)](https://www.amazon.es/dp/B07CVB5LP8/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07CVB5LP8/?tag=tolees-21)

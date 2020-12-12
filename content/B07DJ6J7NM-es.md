@@ -22,7 +22,7 @@ Ahora mismo tienes [Geox U Kristof B  Zapatillas para Hombre  Azul  Navy C4002  
 
 [![Geox U Kristof B  Zapatillas para Hombre](https://images-eu.ssl-images-amazon.com/images/I/31Vuo3TgxBL._SL200_.jpg)](https://www.amazon.es/dp/B07DJ6J7NM/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DJ6J7NM/?tag=tolees-21)

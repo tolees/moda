@@ -22,7 +22,7 @@ Ahora mismo tienes [Under Armour Woven Graphic Wordmark Short Pantalón Corto  H
 
 [![Under Armour Woven Graphic Wordmark Shor](https://images-eu.ssl-images-amazon.com/images/I/41e7IX%2Bu4%2BL._SL200_.jpg)](https://www.amazon.es/dp/B0725QTHDW/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0725QTHDW/?tag=tolees-21)

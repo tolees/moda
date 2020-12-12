@@ -22,7 +22,7 @@ Ahora mismo tienes [PIECES Pckaysa Slip Top Noos  Camiseta sin Mangas Mujer  Ros
 
 [![PIECES Pckaysa Slip Top Noos  Camiseta s](https://images-eu.ssl-images-amazon.com/images/I/41dSDes1AJL._SL200_.jpg)](https://www.amazon.es/dp/B0723DF5SP/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0723DF5SP/?tag=tolees-21)

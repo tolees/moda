@@ -22,7 +22,7 @@ Ahora mismo tienes [Pepe Jeans Edie  Vaqueros Boyfriend para Mujer  Azul  Denim 
 
 [![Pepe Jeans Edie  Vaqueros Boyfriend para](https://images-eu.ssl-images-amazon.com/images/I/41NAqo4zSrL._SL200_.jpg)](https://www.amazon.es/dp/B07C43YLXB/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07C43YLXB/?tag=tolees-21)

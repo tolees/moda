@@ -22,7 +22,7 @@ Ahora mismo tienes [Geox J Android Girl A  Zapatillas para Niñas  Dorado  Plati
 
 [![Geox J Android Girl A  Zapatillas para N](https://images-eu.ssl-images-amazon.com/images/I/41IcbZQdI3L._SL200_.jpg)](https://www.amazon.es/dp/B07DK3BS4R/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DK3BS4R/?tag=tolees-21)

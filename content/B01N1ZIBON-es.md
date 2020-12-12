@@ -22,7 +22,7 @@ Ahora mismo tienes [Puma BVB Entrenamiento Temporada 2017/2018 Jersey  Hombre  A
 
 [![Puma BVB Entrenamiento Temporada 2017/20](https://images-eu.ssl-images-amazon.com/images/I/41vHjEyxanL._SL200_.jpg)](https://www.amazon.es/dp/B01N1ZIBON/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01N1ZIBON/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [COOLWAY Luly  Botines para Mujer  Negro  Pnt   38 EU](https:
 
 [![COOLWAY Luly  Botines para Mujer  Negro ](https://images-eu.ssl-images-amazon.com/images/I/3181cyV0euL._SL200_.jpg)](https://www.amazon.es/dp/B071YMB6LQ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B071YMB6LQ/?tag=tolees-21)

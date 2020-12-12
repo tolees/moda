@@ -22,7 +22,7 @@ Ahora mismo tienes [Tommy Jeans Hombre Original Tapered Ronnie  Vaqueros straigh
 
 [![Tommy Jeans Hombre Original Tapered Ronn](https://images-eu.ssl-images-amazon.com/images/I/417wqjxxR1L._SL200_.jpg)](https://www.amazon.es/dp/B0776XBZ6R/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0776XBZ6R/?tag=tolees-21)

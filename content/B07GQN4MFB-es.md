@@ -22,7 +22,7 @@ Ahora mismo tienes [Zapatillas Deporte Hombre Zapatos para Correr Athletic Cordo
 
 [![Zapatillas Deporte Hombre Zapatos para C](https://images-eu.ssl-images-amazon.com/images/I/51vxSCK8QzL._SL200_.jpg)](https://www.amazon.es/dp/B07GQN4MFB/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07GQN4MFB/?tag=tolees-21)

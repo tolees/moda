@@ -22,7 +22,7 @@ Ahora mismo tienes [JACK & JONES Jjiliam Jjoriginal Am 741 Noos  Vaqueros Skinny
 
 [![JACK & JONES Jjiliam Jjoriginal Am 741 N](https://images-eu.ssl-images-amazon.com/images/I/41DToq%2B3Q-L._SL200_.jpg)](https://www.amazon.es/dp/B07CFH44D5/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07CFH44D5/?tag=tolees-21)

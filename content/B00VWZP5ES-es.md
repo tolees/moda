@@ -22,7 +22,7 @@ Ahora mismo tienes [G-STAR RAW Attacc Mid Straight Wmn  Vaqueros para Mujer  Blu
 
 [![G-STAR RAW Attacc Mid Straight Wmn  Vaqu](https://images-eu.ssl-images-amazon.com/images/I/31SQ9NgnuxL._SL200_.jpg)](https://www.amazon.es/dp/B00VWZP5ES/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00VWZP5ES/?tag=tolees-21)

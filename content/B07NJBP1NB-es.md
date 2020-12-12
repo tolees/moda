@@ -22,7 +22,7 @@ Ahora mismo tienes [Mujer Traje de Baño Conjunto Bikini de Lunares Rojo Dos Pie
 
 [![Mujer Traje de Baño Conjunto Bikini de L](https://images-eu.ssl-images-amazon.com/images/I/41w7tiUeHBL._SL200_.jpg)](https://www.amazon.es/dp/B07NJBP1NB/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07NJBP1NB/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Columbia Lake 22 Hooded Jacket Chaqueta con Capucha  Mujer  
 
 [![Columbia Lake 22 Hooded Jacket Chaqueta ](https://images-eu.ssl-images-amazon.com/images/I/414NC%2BAKUXL._SL200_.jpg)](https://www.amazon.es/dp/B07DZ6PS4X/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DZ6PS4X/?tag=tolees-21)

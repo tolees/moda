@@ -22,7 +22,7 @@ Ahora mismo tienes [find. Lace Trim Shoulder Blusa para Mujer  Rosa  Old Rose   
 
 [![find. Lace Trim Shoulder Blusa para Muje](https://images-eu.ssl-images-amazon.com/images/I/41v%2Blkhko-L._SL200_.jpg)](https://www.amazon.es/dp/B01MSZD91C/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01MSZD91C/?tag=tolees-21)

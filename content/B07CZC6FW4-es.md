@@ -22,7 +22,7 @@ Ahora mismo tienes [Under Armour Vanish Woven Short Pantalón Corto  Hombre  Azu
 
 [![Under Armour Vanish Woven Short Pantalón](https://images-eu.ssl-images-amazon.com/images/I/31DyS9iMwEL._SL200_.jpg)](https://www.amazon.es/dp/B07CZC6FW4/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07CZC6FW4/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Fitibest 2 Pack Camiseta de Compresión Deportiva Camiseta d
 
 [![Fitibest 2 Pack Camiseta de Compresión D](https://images-eu.ssl-images-amazon.com/images/I/41aPtnY7cVL._SL200_.jpg)](https://www.amazon.es/dp/B074DWDBMM/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B074DWDBMM/?tag=tolees-21)

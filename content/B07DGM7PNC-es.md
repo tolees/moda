@@ -22,7 +22,7 @@ Ahora mismo tienes [Timberland Hiker  Botas de Senderismo para Hombre  Marrón  
 
 [![Timberland Hiker  Botas de Senderismo pa](https://images-eu.ssl-images-amazon.com/images/I/41QKUwLup0L._SL200_.jpg)](https://www.amazon.es/dp/B07DGM7PNC/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DGM7PNC/?tag=tolees-21)

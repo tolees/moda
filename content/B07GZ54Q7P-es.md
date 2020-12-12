@@ -22,7 +22,7 @@ Ahora mismo tienes [Desigual Girl Knit Dress Short Sleeve  Vest_souix  Vestido  
 
 [![Desigual Girl Knit Dress Short Sleeve  V](https://images-eu.ssl-images-amazon.com/images/I/41fn9IFUkLL._SL200_.jpg)](https://www.amazon.es/dp/B07GZ54Q7P/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07GZ54Q7P/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Sebago Boot Suede W  Botines para Mujer  Verde  Vert 909   3
 
 [![Sebago Boot Suede W  Botines para Mujer ](https://images-eu.ssl-images-amazon.com/images/I/41HCdsNzi5L._SL200_.jpg)](https://www.amazon.es/dp/B07F4B9WPW/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07F4B9WPW/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Clarks Isidora Faye  Zapatos de Tacón para Mujer  Beige  Nu
 
 [![Clarks Isidora Faye  Zapatos de Tacón pa](https://images-eu.ssl-images-amazon.com/images/I/41Iomlq8GFL._SL200_.jpg)](https://www.amazon.es/dp/B0759KQB5H/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0759KQB5H/?tag=tolees-21)

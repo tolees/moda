@@ -22,7 +22,7 @@ Ahora mismo tienes [Columbia Canyon Point Mid Waterproof  Zapatos de High Rise S
 
 [![Columbia Canyon Point Mid Waterproof  Za](https://images-eu.ssl-images-amazon.com/images/I/51afixMbIwL._SL200_.jpg)](https://www.amazon.es/dp/B07733LLRX/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07733LLRX/?tag=tolees-21)

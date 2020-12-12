@@ -22,7 +22,7 @@ Ahora mismo tienes [edc by Esprit 106cc1j007 Sudadera  Gris  Light Grey 5   36  
 
 [![edc by Esprit 106cc1j007 Sudadera  Gris ](https://images-eu.ssl-images-amazon.com/images/I/4179O3ChUbL._SL200_.jpg)](https://www.amazon.es/dp/B01LZB46EL/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01LZB46EL/?tag=tolees-21)

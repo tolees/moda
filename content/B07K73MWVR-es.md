@@ -22,7 +22,7 @@ Ahora mismo tienes [Levi s Graphic B Sudadera  Gris  Add Crew T2 Hm Mid Tone Hea
 
 [![Levi s Graphic B Sudadera  Gris  Add Cre](https://images-eu.ssl-images-amazon.com/images/I/41pdyhk%2BmrL._SL200_.jpg)](https://www.amazon.es/dp/B07K73MWVR/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07K73MWVR/?tag=tolees-21)

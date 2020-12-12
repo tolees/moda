@@ -22,7 +22,7 @@ Ahora mismo tienes [Timberland Dausette Leather  Zapatillas para Mujer  Blanco  
 
 [![Timberland Dausette Leather  Zapatillas ](https://images-eu.ssl-images-amazon.com/images/I/31X5WohAo3L._SL200_.jpg)](https://www.amazon.es/dp/B07F2BB86R/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07F2BB86R/?tag=tolees-21)

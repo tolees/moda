@@ -22,7 +22,7 @@ Ahora mismo tienes [JACK & JONES Jormetallica tee SS Crew Neck  Camiseta para Ho
 
 [![JACK & JONES Jormetallica tee SS Crew Ne](https://images-eu.ssl-images-amazon.com/images/I/414nCzTnrYL._SL200_.jpg)](https://www.amazon.es/dp/B07JPYZ7PT/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07JPYZ7PT/?tag=tolees-21)

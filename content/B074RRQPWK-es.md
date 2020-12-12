@@ -22,7 +22,7 @@ Ahora mismo tienes [Lee Scarlett High Vaqueros Skinny  Azul  Blue Indigo Hael   
 
 [![Lee Scarlett High Vaqueros Skinny  Azul ](https://images-eu.ssl-images-amazon.com/images/I/41qT7mTjlpL._SL200_.jpg)](https://www.amazon.es/dp/B074RRQPWK/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B074RRQPWK/?tag=tolees-21)

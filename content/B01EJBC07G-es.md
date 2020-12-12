@@ -22,7 +22,7 @@ Ahora mismo tienes [Bunker Booty - botas con forro cálido de caña media y boti
 
 [![Bunker Booty - botas con forro cálido de](https://images-eu.ssl-images-amazon.com/images/I/414hb-yNdTL._SL200_.jpg)](https://www.amazon.es/dp/B01EJBC07G/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01EJBC07G/?tag=tolees-21)

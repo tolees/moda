@@ -22,7 +22,7 @@ Ahora mismo tienes [Armani Exchange Star Rubber Sandal  Chanclas para Mujer  Bla
 
 [![Armani Exchange Star Rubber Sandal  Chan](https://images-eu.ssl-images-amazon.com/images/I/31PZBHwaxcL._SL200_.jpg)](https://www.amazon.es/dp/B07F6KWMV7/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07F6KWMV7/?tag=tolees-21)

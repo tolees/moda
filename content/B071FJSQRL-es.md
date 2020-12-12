@@ -22,7 +22,7 @@ Ahora mismo tienes [find. Morrison  Botines Mujer  Gris  Lt Grey   39](https://w
 
 [![find. Morrison  Botines Mujer  Gris  Lt ](https://images-eu.ssl-images-amazon.com/images/I/317Vt8BEbcL._SL200_.jpg)](https://www.amazon.es/dp/B071FJSQRL/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B071FJSQRL/?tag=tolees-21)

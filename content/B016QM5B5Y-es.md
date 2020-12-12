@@ -22,7 +22,7 @@ Ahora mismo tienes [Tommy Hilfiger Core Stretch Slim CNECK tee  Camiseta para Ho
 
 [![Tommy Hilfiger Core Stretch Slim CNECK t](https://images-eu.ssl-images-amazon.com/images/I/31k-Eta2FOL._SL200_.jpg)](https://www.amazon.es/dp/B016QM5B5Y/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B016QM5B5Y/?tag=tolees-21)

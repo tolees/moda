@@ -22,7 +22,7 @@ Ahora mismo tienes [Geox Renan H  Zapatillas para Hombre  Beige  Smoke Grey/Sand
 
 [![Geox Renan H  Zapatillas para Hombre  Be](https://images-eu.ssl-images-amazon.com/images/I/41t9NaoFBFL._SL200_.jpg)](https://www.amazon.es/dp/B07DJ2XL92/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DJ2XL92/?tag=tolees-21)

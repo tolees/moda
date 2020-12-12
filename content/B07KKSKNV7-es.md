@@ -22,7 +22,7 @@ Ahora mismo tienes [HUGO Ero3-w Camisa  Azul  Dark Blue 405   XX-Large para Homb
 
 [![HUGO Ero3-w Camisa  Azul  Dark Blue 405 ](https://images-eu.ssl-images-amazon.com/images/I/51997jRjg3L._SL200_.jpg)](https://www.amazon.es/dp/B07KKSKNV7/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07KKSKNV7/?tag=tolees-21)

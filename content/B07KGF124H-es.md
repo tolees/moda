@@ -22,7 +22,7 @@ Ahora mismo tienes [BOSS tee 13  Camiseta para Hombre  Azul  Navy  X-Large](http
 
 [![BOSS tee 13  Camiseta para Hombre  Azul ](https://images-eu.ssl-images-amazon.com/images/I/41Kxqei4WPL._SL200_.jpg)](https://www.amazon.es/dp/B07KGF124H/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07KGF124H/?tag=tolees-21)

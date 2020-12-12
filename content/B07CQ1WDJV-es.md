@@ -22,7 +22,7 @@ Ahora mismo tienes [Lee Daren Vaqueros Slim  Azul  Light Daze ZX   30W / 32L par
 
 [![Lee Daren Vaqueros Slim  Azul  Light Daz](https://images-eu.ssl-images-amazon.com/images/I/41fYd0MrVSL._SL200_.jpg)](https://www.amazon.es/dp/B07CQ1WDJV/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07CQ1WDJV/?tag=tolees-21)

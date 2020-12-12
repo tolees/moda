@@ -22,7 +22,7 @@ Ahora mismo tienes [Geographical Norway Chapria Lady  Parka para Mujer  Rojo  Ta
 
 [![Geographical Norway Chapria Lady  Parka ](https://images-eu.ssl-images-amazon.com/images/I/51rEZvsRuQL._SL200_.jpg)](https://www.amazon.es/dp/B01L3E4NSG/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01L3E4NSG/?tag=tolees-21)

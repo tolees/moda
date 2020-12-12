@@ -22,7 +22,7 @@ Ahora mismo tienes [blue seven Da Shirt  Rundhals  Camiseta para Mujer  Negro  A
 
 [![blue seven Da Shirt  Rundhals  Camiseta ](https://images-eu.ssl-images-amazon.com/images/I/51GSdN%2B9iOL._SL200_.jpg)](https://www.amazon.es/dp/B01DLVC25U/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01DLVC25U/?tag=tolees-21)

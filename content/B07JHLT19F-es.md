@@ -22,7 +22,7 @@ Ahora mismo tienes [Skechers Gambix  Sandalias de Punta Descubierta para Hombre 
 
 [![Skechers Gambix  Sandalias de Punta Desc](https://images-eu.ssl-images-amazon.com/images/I/31LX8pCLCWL._SL200_.jpg)](https://www.amazon.es/dp/B07JHLT19F/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07JHLT19F/?tag=tolees-21)

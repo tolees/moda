@@ -22,7 +22,7 @@ Ahora mismo tienes [Naf Naf Jhnc62d  Blusa para Mujer   Imprime 487  40](https:/
 
 [![Naf Naf Jhnc62d  Blusa para Mujer   Impr](https://images-eu.ssl-images-amazon.com/images/I/51f88%2BMBQ%2BL._SL200_.jpg)](https://www.amazon.es/dp/B07FR4LP3Z/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07FR4LP3Z/?tag=tolees-21)

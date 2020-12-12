@@ -22,7 +22,7 @@ Ahora mismo tienes [FIND Croc Embellished Leather Botines  Negro Black  40 EU](h
 
 [![FIND Croc Embellished Leather Botines  N](https://images-eu.ssl-images-amazon.com/images/I/31yZl%2BbuJ1L._SL200_.jpg)](https://www.amazon.es/dp/B07G1DXPKN/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07G1DXPKN/?tag=tolees-21)

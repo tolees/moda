@@ -22,7 +22,7 @@ Ahora mismo tienes [G-STAR RAW D-STAQ 5-pkt Straight Tapered  Vaqueros Tapered H
 
 [![G-STAR RAW D-STAQ 5-pkt Straight Tapered](https://images-eu.ssl-images-amazon.com/images/I/41qdtE8u3eL._SL200_.jpg)](https://www.amazon.es/dp/B0752P6BMG/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0752P6BMG/?tag=tolees-21)

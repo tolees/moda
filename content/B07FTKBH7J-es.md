@@ -22,7 +22,7 @@ Ahora mismo tienes [Lee Scarlett Cropped Vaqueros Skinny  Marfil  Off White EW  
 
 [![Lee Scarlett Cropped Vaqueros Skinny  Ma](https://images-eu.ssl-images-amazon.com/images/I/31ww-OoSf9L._SL200_.jpg)](https://www.amazon.es/dp/B07FTKBH7J/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07FTKBH7J/?tag=tolees-21)

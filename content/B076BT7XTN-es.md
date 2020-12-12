@@ -22,7 +22,7 @@ Ahora mismo tienes [AURIQUE Camiseta Deportiva Mujer  Negro  Black/red/white   M
 
 [![AURIQUE Camiseta Deportiva Mujer  Negro ](https://images-eu.ssl-images-amazon.com/images/I/41%2BaApvMOvL._SL200_.jpg)](https://www.amazon.es/dp/B076BT7XTN/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B076BT7XTN/?tag=tolees-21)

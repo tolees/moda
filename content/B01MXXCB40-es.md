@@ -22,7 +22,7 @@ Ahora mismo tienes [Vero Moda Vmsally S/s Top Box D2-3 Camiseta  Blanco  Snow Wh
 
 [![Vero Moda Vmsally S/s Top Box D2-3 Camis](https://images-eu.ssl-images-amazon.com/images/I/513lo37H26L._SL200_.jpg)](https://www.amazon.es/dp/B01MXXCB40/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01MXXCB40/?tag=tolees-21)

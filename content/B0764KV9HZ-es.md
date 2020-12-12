@@ -22,7 +22,7 @@ Ahora mismo tienes [Kipling SILEN  Bolso bandolera para Mujer  Azul  True Navy  
 
 [![Kipling SILEN  Bolso bandolera para Muje](https://images-eu.ssl-images-amazon.com/images/I/41bGHUUoe9L._SL200_.jpg)](https://www.amazon.es/dp/B0764KV9HZ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0764KV9HZ/?tag=tolees-21)

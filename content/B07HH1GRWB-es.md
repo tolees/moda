@@ -22,7 +22,7 @@ Ahora mismo tienes [Tommy Jeans Mujer SOFT JERSEY Camiseta Manga Corta  Azul  Bl
 
 [![Tommy Jeans Mujer SOFT JERSEY Camiseta M](https://images-eu.ssl-images-amazon.com/images/I/31sS0gJ3xdL._SL200_.jpg)](https://www.amazon.es/dp/B07HH1GRWB/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07HH1GRWB/?tag=tolees-21)

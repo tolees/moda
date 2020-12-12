@@ -22,7 +22,7 @@ Ahora mismo tienes [Under Armour UA Woven Graphic Short Pantalón Corto  Hombre 
 
 [![Under Armour UA Woven Graphic Short Pant](https://images-eu.ssl-images-amazon.com/images/I/31a6fdrgxaL._SL200_.jpg)](https://www.amazon.es/dp/B01FHJHTX4/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01FHJHTX4/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Thermals Performance Compression  camiseta térmica para Hom
 
 [![Thermals Performance Compression  camise](https://images-eu.ssl-images-amazon.com/images/I/41XStTmZxrL._SL200_.jpg)](https://www.amazon.es/dp/B076KPSCF4/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B076KPSCF4/?tag=tolees-21)

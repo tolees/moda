@@ -22,7 +22,7 @@ Ahora mismo tienes [Columbia CSC Basic Logo Camiseta  Hombre  Negro  Black   L](
 
 [![Columbia CSC Basic Logo Camiseta  Hombre](https://images-eu.ssl-images-amazon.com/images/I/41FW516re2L._SL200_.jpg)](https://www.amazon.es/dp/B01J3JDEM4/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01J3JDEM4/?tag=tolees-21)

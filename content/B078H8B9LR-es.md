@@ -22,7 +22,7 @@ Ahora mismo tienes [FIND Camiseta Básica con Textura Hombre  Azul  Mid Blue   5
 
 [![FIND Camiseta Básica con Textura Hombre ](https://images-eu.ssl-images-amazon.com/images/I/41HYjKJ782L._SL200_.jpg)](https://www.amazon.es/dp/B078H8B9LR/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B078H8B9LR/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [E.INFINITY Set de Pendientes y Collar de Perlas de Agua Dulc
 
 [![E.INFINITY Set de Pendientes y Collar de](https://images-eu.ssl-images-amazon.com/images/I/41jo5Qxm-WL._SL200_.jpg)](https://www.amazon.es/dp/B07H19ZSXR/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07H19ZSXR/?tag=tolees-21)

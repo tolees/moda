@@ -22,7 +22,7 @@ Ahora mismo tienes [Marco Tozzi 2-2-22443-31  Zapatos de Tacón para Mujer  Negr
 
 [![Marco Tozzi 2-2-22443-31  Zapatos de Tac](https://images-eu.ssl-images-amazon.com/images/I/31FelH4seKL._SL200_.jpg)](https://www.amazon.es/dp/B07C43MY9F/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07C43MY9F/?tag=tolees-21)

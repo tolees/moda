@@ -22,7 +22,7 @@ Ahora mismo tienes [S.Oliver Denim 40.607.21.5880 - Camiseta de manga larga para
 
 [![S.Oliver Denim 40.607.21.5880 - Camiseta](https://images-eu.ssl-images-amazon.com/images/I/517ytUdap5L._SL200_.jpg)](https://www.amazon.es/dp/B01D1ZTFLA/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01D1ZTFLA/?tag=tolees-21)

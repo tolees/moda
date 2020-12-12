@@ -22,7 +22,7 @@ Ahora mismo tienes [Only Onlleah Short Fur Jacket CC Otw  Parka para Mujer  Gris
 
 [![Only Onlleah Short Fur Jacket CC Otw  Pa](https://images-eu.ssl-images-amazon.com/images/I/41wG7uBF0aL._SL200_.jpg)](https://www.amazon.es/dp/B07FKBPF31/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07FKBPF31/?tag=tolees-21)

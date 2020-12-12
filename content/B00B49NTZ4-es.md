@@ -22,7 +22,7 @@ Ahora mismo tienes [Blend 700522 Blizzard - Vaqueros para hombres  color azul  b
 
 [![Blend 700522 Blizzard - Vaqueros para ho](https://images-eu.ssl-images-amazon.com/images/I/41SP9WYObXL._SL200_.jpg)](https://www.amazon.es/dp/B00B49NTZ4/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00B49NTZ4/?tag=tolees-21)

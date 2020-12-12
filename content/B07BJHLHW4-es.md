@@ -22,7 +22,7 @@ Ahora mismo tienes [G-STAR RAW Strett Qlt Jkt Wmn  Chaqueta para Mujer  Naranja 
 
 [![G-STAR RAW Strett Qlt Jkt Wmn  Chaqueta ](https://images-eu.ssl-images-amazon.com/images/I/513gKGJk%2BSL._SL200_.jpg)](https://www.amazon.es/dp/B07BJHLHW4/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07BJHLHW4/?tag=tolees-21)

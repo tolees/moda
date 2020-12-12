@@ -22,7 +22,7 @@ Ahora mismo tienes [Pepe Jeans Kingston Zip  Vaqueros Recto para Hombre  Negro  
 
 [![Pepe Jeans Kingston Zip  Vaqueros Recto ](https://images-eu.ssl-images-amazon.com/images/I/41VnX5cnsUL._SL200_.jpg)](https://www.amazon.es/dp/B074BZ48FT/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B074BZ48FT/?tag=tolees-21)

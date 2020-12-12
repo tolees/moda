@@ -22,7 +22,7 @@ Ahora mismo tienes [Geox U New Pluges E  Zapatos de Cordones Derby para Hombre  
 
 [![Geox U New Pluges E  Zapatos de Cordones](https://images-eu.ssl-images-amazon.com/images/I/31qeXq%2BuDFL._SL200_.jpg)](https://www.amazon.es/dp/B0792T8NYD/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0792T8NYD/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Columbia Cascade Explorer Pantalón Convertible  Hombre  Mar
 
 [![Columbia Cascade Explorer Pantalón Conve](https://images-eu.ssl-images-amazon.com/images/I/41Jbf0oYfQL._SL200_.jpg)](https://www.amazon.es/dp/B01A6ZH8Z8/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01A6ZH8Z8/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Birkenstock Arizona Birko-Flor  Sandalias de Punta Descubier
 
 [![Birkenstock Arizona Birko-Flor  Sandalia](https://images-eu.ssl-images-amazon.com/images/I/4130VehauYL._SL200_.jpg)](https://www.amazon.es/dp/B07G37TXGZ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07G37TXGZ/?tag=tolees-21)

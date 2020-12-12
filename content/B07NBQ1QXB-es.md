@@ -22,7 +22,7 @@ Ahora mismo tienes [Diesel Sleenker L.30 Trousers Vaqueros Skinny  Azul Blue Den
 
 [![Diesel Sleenker L.30 Trousers Vaqueros S](https://images-eu.ssl-images-amazon.com/images/I/41VIyZRBWXL._SL200_.jpg)](https://www.amazon.es/dp/B07NBQ1QXB/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07NBQ1QXB/?tag=tolees-21)

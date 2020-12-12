@@ -22,7 +22,7 @@ Ahora mismo tienes [French Connection Whisper Ruth_71LCH Vestido  Negro  Black 1
 
 [![French Connection Whisper Ruth_71LCH Ves](https://images-eu.ssl-images-amazon.com/images/I/313EQJj944L._SL200_.jpg)](https://www.amazon.es/dp/B07KJQC7F9/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07KJQC7F9/?tag=tolees-21)

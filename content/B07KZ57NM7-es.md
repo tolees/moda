@@ -22,7 +22,7 @@ Ahora mismo tienes [Cortefiel C7Cb Denim Slim Oscuro Vaqueros Tapered   Gama Azu
 
 [![Cortefiel C7Cb Denim Slim Oscuro Vaquero](https://images-eu.ssl-images-amazon.com/images/I/31DqOR2WxnL._SL200_.jpg)](https://www.amazon.es/dp/B07KZ57NM7/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07KZ57NM7/?tag=tolees-21)

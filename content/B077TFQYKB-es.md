@@ -22,7 +22,7 @@ Ahora mismo tienes [Gocco S82JJECA402  Jersey para Niños   Azul  4 años](https
 
 [![Gocco S82JJECA402  Jersey para Niños   A](https://images-eu.ssl-images-amazon.com/images/I/41SVGeYi9oL._SL200_.jpg)](https://www.amazon.es/dp/B077TFQYKB/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B077TFQYKB/?tag=tolees-21)

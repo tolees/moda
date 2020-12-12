@@ -22,7 +22,7 @@ Ahora mismo tienes [The North Face LOGOWEAR  Camiseta de manga corta  Mujer  Mul
 
 [![The North Face LOGOWEAR  Camiseta de man](https://images-eu.ssl-images-amazon.com/images/I/31GPJmY85mL._SL200_.jpg)](https://www.amazon.es/dp/B07BB52GHS/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07BB52GHS/?tag=tolees-21)

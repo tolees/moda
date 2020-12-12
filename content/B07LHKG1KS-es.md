@@ -22,7 +22,7 @@ Ahora mismo tienes [The North Face Surgent Halfdome Sudadera con Capucha  Hombre
 
 [![The North Face Surgent Halfdome Sudadera](https://images-eu.ssl-images-amazon.com/images/I/41gXmIqQRxL._SL200_.jpg)](https://www.amazon.es/dp/B07LHKG1KS/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07LHKG1KS/?tag=tolees-21)

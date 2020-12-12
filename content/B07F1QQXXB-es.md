@@ -22,7 +22,7 @@ Ahora mismo tienes [Celio Afowis  Vaqueros Slim para Hombre  Gris  W26/L34  Tall
 
 [![Celio Afowis  Vaqueros Slim para Hombre ](https://images-eu.ssl-images-amazon.com/images/I/41TXRmsrbtL._SL200_.jpg)](https://www.amazon.es/dp/B07F1QQXXB/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07F1QQXXB/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Timberland Killington  Botas Clasicas para Hombre  Marrón  
 
 [![Timberland Killington  Botas Clasicas pa](https://images-eu.ssl-images-amazon.com/images/I/418o73kxBqL._SL200_.jpg)](https://www.amazon.es/dp/B01N6KSUA7/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01N6KSUA7/?tag=tolees-21)

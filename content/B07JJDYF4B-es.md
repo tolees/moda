@@ -22,7 +22,7 @@ Ahora mismo tienes [New Look Natural Animal  Falda para Mujer  Marrón  Brown Pa
 
 [![New Look Natural Animal  Falda para Muje](https://images-eu.ssl-images-amazon.com/images/I/41dv0Bok%2ByL._SL200_.jpg)](https://www.amazon.es/dp/B07JJDYF4B/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07JJDYF4B/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Ultrasport 1318-140 - Camiseta de Manga Corta y Cuello de Pi
 
 [![Ultrasport 1318-140 - Camiseta de Manga ](https://images-eu.ssl-images-amazon.com/images/I/31ztxklTBlL._SL200_.jpg)](https://www.amazon.es/dp/B011BAHFXW/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B011BAHFXW/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Roxy Sandy II  Zapatos de Playa y Piscina para Mujer  Negro 
 
 [![Roxy Sandy II  Zapatos de Playa y Piscin](https://images-eu.ssl-images-amazon.com/images/I/318LydxdrSL._SL200_.jpg)](https://www.amazon.es/dp/B07DYB7YPT/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DYB7YPT/?tag=tolees-21)

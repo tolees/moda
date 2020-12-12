@@ -22,7 +22,7 @@ Ahora mismo tienes [Geox D Borealis a  Sandalias con Punta Abierta para Mujer  L
 
 [![Geox D Borealis a  Sandalias con Punta A](https://images-eu.ssl-images-amazon.com/images/I/41FAKR87DLL._SL200_.jpg)](https://www.amazon.es/dp/B07DJ7HLHB/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DJ7HLHB/?tag=tolees-21)

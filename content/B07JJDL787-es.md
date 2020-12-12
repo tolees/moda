@@ -22,7 +22,7 @@ Ahora mismo tienes [Armani Exchange Logo Chest Camiseta  Blanco  Opt White W/Pin
 
 [![Armani Exchange Logo Chest Camiseta  Bla](https://images-eu.ssl-images-amazon.com/images/I/41U6bc%2BEFNL._SL200_.jpg)](https://www.amazon.es/dp/B07JJDL787/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07JJDL787/?tag=tolees-21)

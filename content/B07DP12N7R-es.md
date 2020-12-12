@@ -22,7 +22,7 @@ Ahora mismo tienes [Eastpak The One Bolso Bandolera  21 cm  2.5 Liters  Gris  Co
 
 [![Eastpak The One Bolso Bandolera  21 cm  ](https://images-eu.ssl-images-amazon.com/images/I/41ZX76yaXUL._SL200_.jpg)](https://www.amazon.es/dp/B07DP12N7R/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DP12N7R/?tag=tolees-21)

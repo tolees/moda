@@ -22,7 +22,7 @@ Ahora mismo tienes [Geox U Kennet B  Zapatillas para Hombre  Negro  Black C9999 
 
 [![Geox U Kennet B  Zapatillas para Hombre ](https://images-eu.ssl-images-amazon.com/images/I/31zXNBW%2BzXL._SL200_.jpg)](https://www.amazon.es/dp/B07DJ77Y5P/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DJ77Y5P/?tag=tolees-21)

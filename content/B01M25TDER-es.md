@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Timberland Bradstreet Leather Sensorflex al 35.72 % de descuento'
-date: 2020-12-06 17:41:45
+date: 2020-12-12 14:55:15
 image: 'https://m.media-amazon.com/images/I/419WSQXQ6HL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -22,7 +22,14 @@ Ahora mismo tienes [Timberland Bradstreet Leather Sensorflex  Botas Chukka para 
 
 [![Timberland Bradstreet Leather Sensorflex](https://m.media-amazon.com/images/I/419WSQXQ6HL._SL200_.jpg)](https://www.amazon.es/dp/B01M25TDER/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
+- Composición: Cuero
+- Tipo de tacón: Plano
+- Material de la suela: Goma
+- Cierre: Cordones
+- Revestimiento: Tela
+- Material exterior: Cuero
+- Anchura del zapato: normal
 
 [Visítala!!!](https://www.amazon.es/dp/B01M25TDER/?tag=tolees-21)

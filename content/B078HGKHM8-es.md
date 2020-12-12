@@ -22,7 +22,7 @@ Ahora mismo tienes [Springfield Jersey Rayas Botones Hombros Jersey  Mujer  Rojo
 
 [![Springfield Jersey Rayas Botones Hombros](https://images-eu.ssl-images-amazon.com/images/I/51ef67u6B5L._SL200_.jpg)](https://www.amazon.es/dp/B078HGKHM8/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B078HGKHM8/?tag=tolees-21)

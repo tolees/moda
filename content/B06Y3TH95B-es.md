@@ -22,7 +22,7 @@ Ahora mismo tienes [xdian – Camiseta de Tirantes para deportes y gimnasio  a
 
 [![xdian – Camiseta de Tirantes para deport](https://images-eu.ssl-images-amazon.com/images/I/51TChetn0AL._SL200_.jpg)](https://www.amazon.es/dp/B06Y3TH95B/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B06Y3TH95B/?tag=tolees-21)

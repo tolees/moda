@@ -22,7 +22,7 @@ Ahora mismo tienes [Pepe Jeans Evia Blusa   Multi Bleu 0aa   Large para Mujer](h
 
 [![Pepe Jeans Evia Blusa   Multi Bleu 0aa  ](https://images-eu.ssl-images-amazon.com/images/I/41OzWmSageL._SL200_.jpg)](https://www.amazon.es/dp/B07CRJ31SN/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07CRJ31SN/?tag=tolees-21)

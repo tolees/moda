@@ -22,7 +22,7 @@ Ahora mismo tienes [VILA CLOTHES VIMASK BLAZER  Chaqueta de traje Mujer  Multico
 
 [![VILA CLOTHES VIMASK BLAZER  Chaqueta de ](https://images-eu.ssl-images-amazon.com/images/I/41P2bzPqsvL._SL200_.jpg)](https://www.amazon.es/dp/B00QQD77NS/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00QQD77NS/?tag=tolees-21)

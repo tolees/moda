@@ -22,7 +22,7 @@ Ahora mismo tienes [Mujeres Moda Pendientes Collar Circonita Cúbica Talla Redon
 
 [![Mujeres Moda Pendientes Collar Circonita](https://images-eu.ssl-images-amazon.com/images/I/41CFrgN4wtL._SL200_.jpg)](https://www.amazon.es/dp/B01N1M9ENF/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01N1M9ENF/?tag=tolees-21)

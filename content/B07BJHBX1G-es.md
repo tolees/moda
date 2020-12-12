@@ -22,7 +22,7 @@ Ahora mismo tienes [G-STAR RAW 3301 Straight  Vaqueros Straight Hombre  Azul  Me
 
 [![G-STAR RAW 3301 Straight  Vaqueros Strai](https://images-eu.ssl-images-amazon.com/images/I/41DaWjHdigL._SL200_.jpg)](https://www.amazon.es/dp/B07BJHBX1G/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07BJHBX1G/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Springfield 3 Pack Woven Palm Bóxer  Hombre  Azul  Gama Azu
 
 [![Springfield 3 Pack Woven Palm Bóxer  Hom](https://images-eu.ssl-images-amazon.com/images/I/51RCE6n6SXL._SL200_.jpg)](https://www.amazon.es/dp/B07KYYVSH1/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07KYYVSH1/?tag=tolees-21)

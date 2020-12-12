@@ -22,7 +22,7 @@ Ahora mismo tienes [Quiksilver Everyday Zip Sudadera con Capucha  Hombre  Gris  
 
 [![Quiksilver Everyday Zip Sudadera con Cap](https://images-eu.ssl-images-amazon.com/images/I/412aahixpbL._SL200_.jpg)](https://www.amazon.es/dp/B07DHV9Z61/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DHV9Z61/?tag=tolees-21)

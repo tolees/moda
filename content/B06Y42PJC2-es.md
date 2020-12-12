@@ -22,7 +22,7 @@ Ahora mismo tienes [My faldas Garbi  Falda Casual para Mujer  Negro  Black   38 
 
 [![My faldas Garbi  Falda Casual para Mujer](https://images-eu.ssl-images-amazon.com/images/I/41hmVtK6fEL._SL200_.jpg)](https://www.amazon.es/dp/B06Y42PJC2/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B06Y42PJC2/?tag=tolees-21)

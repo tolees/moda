@@ -22,7 +22,7 @@ Ahora mismo tienes [Napapijri Skidoo  Chaqueta  Azul  Plastic B56   Large para H
 
 [![Napapijri Skidoo  Chaqueta  Azul  Plasti](https://images-eu.ssl-images-amazon.com/images/I/41iKopEmzhL._SL200_.jpg)](https://www.amazon.es/dp/B079KBB7SX/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B079KBB7SX/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Jana 8-8-25503-21  Botines para Mujer  Marrón  Cigar 314   
 
 [![Jana 8-8-25503-21  Botines para Mujer  M](https://images-eu.ssl-images-amazon.com/images/I/31VpZZUhYrL._SL200_.jpg)](https://www.amazon.es/dp/B07BY1NS3Z/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07BY1NS3Z/?tag=tolees-21)

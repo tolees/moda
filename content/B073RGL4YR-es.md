@@ -22,7 +22,7 @@ Ahora mismo tienes [Only Onlmeredith Highneck L/s Dress Knt Noos  Vestido Mujer 
 
 [![Only Onlmeredith Highneck L/s Dress Knt ](https://images-eu.ssl-images-amazon.com/images/I/311%2BgUsJCRL._SL200_.jpg)](https://www.amazon.es/dp/B073RGL4YR/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B073RGL4YR/?tag=tolees-21)

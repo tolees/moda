@@ -22,7 +22,7 @@ Ahora mismo tienes [Puma Divecat V2  Zapatos de Playa y Piscina Unisex Adulto  N
 
 [![Puma Divecat V2  Zapatos de Playa y Pisc](https://images-eu.ssl-images-amazon.com/images/I/31kt62osfWL._SL200_.jpg)](https://www.amazon.es/dp/B07DCHJP1H/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DCHJP1H/?tag=tolees-21)

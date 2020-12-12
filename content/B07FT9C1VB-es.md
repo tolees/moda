@@ -22,7 +22,7 @@ Ahora mismo tienes [Lee Rider Vaqueros Slim  Marfil  Off White EW   W32/L30 para
 
 [![Lee Rider Vaqueros Slim  Marfil  Off Whi](https://images-eu.ssl-images-amazon.com/images/I/31hFumvXglL._SL200_.jpg)](https://www.amazon.es/dp/B07FT9C1VB/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07FT9C1VB/?tag=tolees-21)

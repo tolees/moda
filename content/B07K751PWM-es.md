@@ -22,7 +22,7 @@ Ahora mismo tienes [Levi s 510 Skinny Fit  Vaqueros para Hombre  Azul  Wobbegong
 
 [![Levi s 510 Skinny Fit  Vaqueros para Hom](https://images-eu.ssl-images-amazon.com/images/I/41jAA4i%2BLlL._SL200_.jpg)](https://www.amazon.es/dp/B07K751PWM/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07K751PWM/?tag=tolees-21)

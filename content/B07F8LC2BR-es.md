@@ -22,7 +22,7 @@ Ahora mismo tienes [LOKASS bolsa portátil de asas del bolso de hombro clásico 
 
 [![LOKASS bolsa portátil de asas del bolso ](https://images-eu.ssl-images-amazon.com/images/I/41xfHxP7j6L._SL200_.jpg)](https://www.amazon.es/dp/B07F8LC2BR/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07F8LC2BR/?tag=tolees-21)

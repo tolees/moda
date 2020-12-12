@@ -22,7 +22,7 @@ Ahora mismo tienes [JACK & JONES Jorcolby Shirt LS Camisa   Cloud Dancer Fit:Sli
 
 [![JACK & JONES Jorcolby Shirt LS Camisa   ](https://images-eu.ssl-images-amazon.com/images/I/51ECjxx6jKL._SL200_.jpg)](https://www.amazon.es/dp/B07L1DHKCZ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07L1DHKCZ/?tag=tolees-21)

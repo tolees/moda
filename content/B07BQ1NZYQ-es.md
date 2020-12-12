@@ -22,7 +22,7 @@ Ahora mismo tienes [Lee Scarlett Cropped  Vaqueros Skinny para Mujer  Azul  Urba
 
 [![Lee Scarlett Cropped  Vaqueros Skinny pa](https://images-eu.ssl-images-amazon.com/images/I/41HyXqNSZkL._SL200_.jpg)](https://www.amazon.es/dp/B07BQ1NZYQ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07BQ1NZYQ/?tag=tolees-21)

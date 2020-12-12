@@ -22,7 +22,7 @@ Ahora mismo tienes [Iris & Lilly Pijama de Tirantes y Pantalón Corto Mujer  Mul
 
 [![Iris & Lilly Pijama de Tirantes y Pantal](https://images-eu.ssl-images-amazon.com/images/I/41OuTuD7zTL._SL200_.jpg)](https://www.amazon.es/dp/B073ZCM4GP/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B073ZCM4GP/?tag=tolees-21)

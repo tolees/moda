@@ -22,7 +22,7 @@ Ahora mismo tienes [Geox U Damocle A  Zapatos de Cordones Derby para Hombre  Bei
 
 [![Geox U Damocle A  Zapatos de Cordones De](https://images-eu.ssl-images-amazon.com/images/I/41FdA8-lplL._SL200_.jpg)](https://www.amazon.es/dp/B076X4LQPH/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B076X4LQPH/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Dolores Promesas 107391 Blusa  Amarillo Naran   Tamaño del 
 
 [![Dolores Promesas 107391 Blusa  Amarillo ](https://images-eu.ssl-images-amazon.com/images/I/51Y2DgRulFL._SL200_.jpg)](https://www.amazon.es/dp/B07D7NFSJW/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07D7NFSJW/?tag=tolees-21)

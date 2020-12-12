@@ -22,7 +22,7 @@ Ahora mismo tienes [ONLY Onlstarlight Long Fur Parka Cc Otw  Parka Mujer  Rojo  
 
 [![ONLY Onlstarlight Long Fur Parka Cc Otw ](https://images-eu.ssl-images-amazon.com/images/I/417C5dfTinL._SL200_.jpg)](https://www.amazon.es/dp/B07FJY4HZN/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07FJY4HZN/?tag=tolees-21)

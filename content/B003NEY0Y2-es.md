@@ -22,7 +22,7 @@ Ahora mismo tienes [Odlo L/S Turtle Neck Active Originals W Camiseta  Hombre  Gr
 
 [![Odlo L/S Turtle Neck Active Originals W ](https://images-eu.ssl-images-amazon.com/images/I/41VTE3KP4KL._SL200_.jpg)](https://www.amazon.es/dp/B003NEY0Y2/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B003NEY0Y2/?tag=tolees-21)

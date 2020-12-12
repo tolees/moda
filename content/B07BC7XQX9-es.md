@@ -22,7 +22,7 @@ Ahora mismo tienes [NEEKFOX 20L Mochilla de Excursión Liviana y Empacable Bolso
 
 [![NEEKFOX 20L Mochilla de Excursión Livian](https://images-eu.ssl-images-amazon.com/images/I/41JuG3NPx6L._SL200_.jpg)](https://www.amazon.es/dp/B07BC7XQX9/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07BC7XQX9/?tag=tolees-21)

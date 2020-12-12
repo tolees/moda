@@ -22,7 +22,7 @@ Ahora mismo tienes [Columbia Peak to Point Pantalón de Senderismo  Poliéster  
 
 [![Columbia Peak to Point Pantalón de Sende](https://images-eu.ssl-images-amazon.com/images/I/31lb5ggMXnL._SL200_.jpg)](https://www.amazon.es/dp/B07KSQ6M73/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07KSQ6M73/?tag=tolees-21)

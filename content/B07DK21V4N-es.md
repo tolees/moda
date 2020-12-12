@@ -22,7 +22,7 @@ Ahora mismo tienes [Geox B Tutim a  Zapatillas para Bebés  Navy/White C4211  22
 
 [![Geox B Tutim a  Zapatillas para Bebés  N](https://images-eu.ssl-images-amazon.com/images/I/31xMcUEQ-ML._SL200_.jpg)](https://www.amazon.es/dp/B07DK21V4N/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DK21V4N/?tag=tolees-21)

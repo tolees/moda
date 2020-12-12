@@ -22,7 +22,7 @@ Ahora mismo tienes [MTNG Collection 57401  Botines para Mujer   Antil Negro C354
 
 [![MTNG Collection 57401  Botines para Muje](https://images-eu.ssl-images-amazon.com/images/I/31DqAlnLXpL._SL200_.jpg)](https://www.amazon.es/dp/B07DRB7XHR/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DRB7XHR/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Women s Secret D1 Indigo Flowery PJ  Conjuntos de Pijama par
 
 [![Women s Secret D1 Indigo Flowery PJ  Con](https://images-eu.ssl-images-amazon.com/images/I/310QRtR%2Bp4L._SL200_.jpg)](https://www.amazon.es/dp/B07DLB55JV/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DLB55JV/?tag=tolees-21)

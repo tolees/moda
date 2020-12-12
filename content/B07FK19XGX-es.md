@@ -22,7 +22,7 @@ Ahora mismo tienes [Lee Boxed Logo tee  Camiseta para Mujer  Blanco  White 12  X
 
 [![Lee Boxed Logo tee  Camiseta para Mujer ](https://images-eu.ssl-images-amazon.com/images/I/41DnRG1eYiL._SL200_.jpg)](https://www.amazon.es/dp/B07FK19XGX/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07FK19XGX/?tag=tolees-21)

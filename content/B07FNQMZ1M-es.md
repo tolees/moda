@@ -22,7 +22,7 @@ Ahora mismo tienes [Vero Moda Vmlolly LS V-Neck Blouse Boo suéter  Gris  Gray V
 
 [![Vero Moda Vmlolly LS V-Neck Blouse Boo s](https://images-eu.ssl-images-amazon.com/images/I/41be4nV-W2L._SL200_.jpg)](https://www.amazon.es/dp/B07FNQMZ1M/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07FNQMZ1M/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Puma Modern Sports FoldUp Leggins  Mujer  Verde  Ponderosa P
 
 [![Puma Modern Sports FoldUp Leggins  Mujer](https://images-eu.ssl-images-amazon.com/images/I/31BSBSZXccL._SL200_.jpg)](https://www.amazon.es/dp/B07JHL4KCH/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07JHL4KCH/?tag=tolees-21)

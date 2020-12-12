@@ -22,7 +22,7 @@ Ahora mismo tienes [Gant G2. Classic Tailored Coat  Abrigo Mujer  Rosa  Pink Emb
 
 [![Gant G2. Classic Tailored Coat  Abrigo M](https://images-eu.ssl-images-amazon.com/images/I/31x1KSXRI%2BL._SL200_.jpg)](https://www.amazon.es/dp/B07D2RMBH8/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07D2RMBH8/?tag=tolees-21)

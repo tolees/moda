@@ -22,7 +22,7 @@ Ahora mismo tienes [Mammut Tasch Pouch Bolso bandolera  Unisex adultos  Negro  B
 
 [![Mammut Tasch Pouch Bolso bandolera  Unis](https://images-eu.ssl-images-amazon.com/images/I/51uvsNo6xxL._SL200_.jpg)](https://www.amazon.es/dp/B004OGQKL4/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B004OGQKL4/?tag=tolees-21)

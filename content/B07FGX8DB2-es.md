@@ -22,7 +22,7 @@ Ahora mismo tienes [Columbia South Canyon Lined Jacket Chaqueta Impermeable  Hom
 
 [![Columbia South Canyon Lined Jacket Chaqu](https://images-eu.ssl-images-amazon.com/images/I/31QuUFncLzL._SL200_.jpg)](https://www.amazon.es/dp/B07FGX8DB2/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07FGX8DB2/?tag=tolees-21)

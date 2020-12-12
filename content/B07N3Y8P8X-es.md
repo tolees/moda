@@ -22,7 +22,7 @@ Ahora mismo tienes [Gaatpot Unisex Niños Sandalias con Punta Cerrada Niña Niñ
 
 [![Gaatpot Unisex Niños Sandalias con Punta](https://images-eu.ssl-images-amazon.com/images/I/51gTMAd9JlL._SL200_.jpg)](https://www.amazon.es/dp/B07N3Y8P8X/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07N3Y8P8X/?tag=tolees-21)

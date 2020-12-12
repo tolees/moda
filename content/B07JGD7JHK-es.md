@@ -22,7 +22,7 @@ Ahora mismo tienes [PUMA Cosmic Jacket TZ Chaqueta De Entrenamiento  Mujer  Negr
 
 [![PUMA Cosmic Jacket TZ Chaqueta De Entren](https://images-eu.ssl-images-amazon.com/images/I/41KNOJZsrTL._SL200_.jpg)](https://www.amazon.es/dp/B07JGD7JHK/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07JGD7JHK/?tag=tolees-21)

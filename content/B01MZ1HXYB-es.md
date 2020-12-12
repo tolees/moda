@@ -22,7 +22,7 @@ Ahora mismo tienes [Jack & Jones Jorjohan Shirt Ls  Camisa para Hombre  Multicol
 
 [![Jack & Jones Jorjohan Shirt Ls  Camisa p](https://images-eu.ssl-images-amazon.com/images/I/519EK0BiGoL._SL200_.jpg)](https://www.amazon.es/dp/B01MZ1HXYB/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01MZ1HXYB/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [REPLAY Katewin  Pantalones Vaqueros Delgados para Mujer  Roj
 
 [![REPLAY Katewin  Pantalones Vaqueros Delg](https://images-eu.ssl-images-amazon.com/images/I/31mAc%2Bd1zYL._SL200_.jpg)](https://www.amazon.es/dp/B071CDGG3K/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B071CDGG3K/?tag=tolees-21)

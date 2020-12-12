@@ -22,7 +22,7 @@ Ahora mismo tienes [Skechers On-The-goo 600-Regal  Sandalias de Plataforma para 
 
 [![Skechers On-The-goo 600-Regal  Sandalias](https://images-eu.ssl-images-amazon.com/images/I/31ZBCrjierL._SL200_.jpg)](https://www.amazon.es/dp/B076TGHW4N/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B076TGHW4N/?tag=tolees-21)

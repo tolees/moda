@@ -22,7 +22,7 @@ Ahora mismo tienes [Hem & Seam Pantalón de Traje Ajustado Hombre  Gris  Char   
 
 [![Hem & Seam Pantalón de Traje Ajustado Ho](https://images-eu.ssl-images-amazon.com/images/I/31mXz2Hb8XL._SL200_.jpg)](https://www.amazon.es/dp/B074WXQ4Y5/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B074WXQ4Y5/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Wrangler Kabel tee Camiseta  Azul  Turkish Sea 386   Medium 
 
 [![Wrangler Kabel tee Camiseta  Azul  Turki](https://images-eu.ssl-images-amazon.com/images/I/41zxXej1ALL._SL200_.jpg)](https://www.amazon.es/dp/B07FYYV2R2/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07FYYV2R2/?tag=tolees-21)

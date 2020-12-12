@@ -22,7 +22,7 @@ Ahora mismo tienes [G-STAR RAW 3301 Deconstructed High Waist Skinny Vaqueros  Ne
 
 [![G-STAR RAW 3301 Deconstructed High Waist](https://images-eu.ssl-images-amazon.com/images/I/318%2BN1F64KL._SL200_.jpg)](https://www.amazon.es/dp/B0752BGFHX/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0752BGFHX/?tag=tolees-21)

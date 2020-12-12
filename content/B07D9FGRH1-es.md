@@ -22,7 +22,7 @@ Ahora mismo tienes [Levi s 501 Original Vaqueros  Azul  Sponge St 2698  W40/L32 
 
 [![Levi s 501 Original Vaqueros  Azul  Spon](https://images-eu.ssl-images-amazon.com/images/I/41FG3i1Uz0L._SL200_.jpg)](https://www.amazon.es/dp/B07D9FGRH1/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07D9FGRH1/?tag=tolees-21)

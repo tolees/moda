@@ -22,7 +22,7 @@ Ahora mismo tienes [G-STAR 3301 Loose - cyclo stretch denim - Vaqueros para homb
 
 [![G-STAR 3301 Loose - cyclo stretch denim ](https://images-eu.ssl-images-amazon.com/images/I/41QsS4kTGyL._SL200_.jpg)](https://www.amazon.es/dp/B00PXM8MVO/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00PXM8MVO/?tag=tolees-21)

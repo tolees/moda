@@ -22,7 +22,7 @@ Ahora mismo tienes [Timberland Pokey Pine 6In Boot with Side Zip  Botas Unisex-N
 
 [![Timberland Pokey Pine 6In Boot with Side](https://images-eu.ssl-images-amazon.com/images/I/41lTMsX6yKL._SL200_.jpg)](https://www.amazon.es/dp/B00R9BX17C/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00R9BX17C/?tag=tolees-21)

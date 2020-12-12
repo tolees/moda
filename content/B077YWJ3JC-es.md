@@ -22,7 +22,7 @@ Ahora mismo tienes [HIKARO Sudadera con Capucha Hombre  Gris  Grey Marl   56  Ta
 
 [![HIKARO Sudadera con Capucha Hombre  Gris](https://images-eu.ssl-images-amazon.com/images/I/41x0HCZdnKL._SL200_.jpg)](https://www.amazon.es/dp/B077YWJ3JC/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B077YWJ3JC/?tag=tolees-21)

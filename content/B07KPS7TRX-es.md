@@ -22,7 +22,7 @@ Ahora mismo tienes [Gant O1. Micro Floral Shirt Blusa  Blanco  White 110   38  T
 
 [![Gant O1. Micro Floral Shirt Blusa  Blanc](https://images-eu.ssl-images-amazon.com/images/I/41MgFlttMgL._SL200_.jpg)](https://www.amazon.es/dp/B07KPS7TRX/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07KPS7TRX/?tag=tolees-21)

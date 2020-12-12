@@ -22,7 +22,7 @@ Ahora mismo tienes [Mustang Schnür-Booty  Botines para Mujer  Marfil  Ivory 243
 
 [![Mustang Schnür-Booty  Botines para Mujer](https://images-eu.ssl-images-amazon.com/images/I/41OX5q2FvvL._SL200_.jpg)](https://www.amazon.es/dp/B07DB1GZ9T/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DB1GZ9T/?tag=tolees-21)

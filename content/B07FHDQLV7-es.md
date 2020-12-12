@@ -22,7 +22,7 @@ Ahora mismo tienes [Helly Hansen W Crew Midlayer Jacket - Chaqueta para Mujer  N
 
 [![Helly Hansen W Crew Midlayer Jacket - Ch](https://images-eu.ssl-images-amazon.com/images/I/41EV39DiQsL._SL200_.jpg)](https://www.amazon.es/dp/B07FHDQLV7/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07FHDQLV7/?tag=tolees-21)

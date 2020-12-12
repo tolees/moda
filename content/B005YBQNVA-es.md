@@ -22,7 +22,7 @@ Ahora mismo tienes [Lee Brooklyn Straight  Vaqueros para Hombre  Azul  Mid Stone
 
 [![Lee Brooklyn Straight  Vaqueros para Hom](https://images-eu.ssl-images-amazon.com/images/I/41ISZK%2BAUQL._SL200_.jpg)](https://www.amazon.es/dp/B005YBQNVA/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B005YBQNVA/?tag=tolees-21)

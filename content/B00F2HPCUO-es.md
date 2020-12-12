@@ -22,7 +22,7 @@ Ahora mismo tienes [The North Face T0A3X6 Chaqueta Sangro  Mujer  TNF Black  XL]
 
 [![The North Face T0A3X6 Chaqueta Sangro  M](https://images-eu.ssl-images-amazon.com/images/I/41OVZxgRAkL._SL200_.jpg)](https://www.amazon.es/dp/B00F2HPCUO/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00F2HPCUO/?tag=tolees-21)

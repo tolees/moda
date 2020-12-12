@@ -22,7 +22,7 @@ Ahora mismo tienes [Morgan 191-rmil.n  Vestido Fiesta Mujer para Negro Noir  Med
 
 [![Morgan 191-rmil.n  Vestido Fiesta Mujer ](https://images-eu.ssl-images-amazon.com/images/I/413Go0Dov4L._SL200_.jpg)](https://www.amazon.es/dp/B07JPFST22/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07JPFST22/?tag=tolees-21)

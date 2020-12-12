@@ -22,7 +22,7 @@ Ahora mismo tienes [Levi s Graphic Crew B Sudadera  Gris  Hm Fleece Midtone Grey
 
 [![Levi s Graphic Crew B Sudadera  Gris  Hm](https://images-eu.ssl-images-amazon.com/images/I/41EAnC-mb6L._SL200_.jpg)](https://www.amazon.es/dp/B072KGSR2H/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B072KGSR2H/?tag=tolees-21)

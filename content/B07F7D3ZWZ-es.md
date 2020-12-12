@@ -22,7 +22,7 @@ Ahora mismo tienes [JACK & JONES Jjeoxford Shirt L/s Noos Camisa  Verde  Deep De
 
 [![JACK & JONES Jjeoxford Shirt L/s Noos Ca](https://images-eu.ssl-images-amazon.com/images/I/31ZOY0wy68L._SL200_.jpg)](https://www.amazon.es/dp/B07F7D3ZWZ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07F7D3ZWZ/?tag=tolees-21)

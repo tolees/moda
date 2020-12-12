@@ -22,7 +22,7 @@ Ahora mismo tienes [adidas Fort14 Jsy Y P Camiseta Real Oviedo Fc  Niños  Blanc
 
 [![adidas Fort14 Jsy Y P Camiseta Real Ovie](https://images-eu.ssl-images-amazon.com/images/I/41sYDYbq2VL._SL200_.jpg)](https://www.amazon.es/dp/B01N4GNBN9/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01N4GNBN9/?tag=tolees-21)

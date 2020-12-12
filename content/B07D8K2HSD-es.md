@@ -22,7 +22,7 @@ Ahora mismo tienes [BOSS Athleisure Brod_s  Camisa Hombre  Azul  Open Blue 480  
 
 [![BOSS Athleisure Brod_s  Camisa Hombre  A](https://images-eu.ssl-images-amazon.com/images/I/41LUzTZyb6L._SL200_.jpg)](https://www.amazon.es/dp/B07D8K2HSD/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07D8K2HSD/?tag=tolees-21)

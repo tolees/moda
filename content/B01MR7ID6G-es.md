@@ -22,7 +22,7 @@ Ahora mismo tienes [Geox D Annya Mid B  Zapatos de Tacón para Mujer  Negro  Bla
 
 [![Geox D Annya Mid B  Zapatos de Tacón par](https://images-eu.ssl-images-amazon.com/images/I/41gA68WkhZL._SL200_.jpg)](https://www.amazon.es/dp/B01MR7ID6G/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01MR7ID6G/?tag=tolees-21)

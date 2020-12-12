@@ -22,7 +22,7 @@ Ahora mismo tienes [Esprit 058ee1k031  Camiseta Mujer   Navy 400   X-Large](http
 
 [![Esprit 058ee1k031  Camiseta Mujer   Navy](https://images-eu.ssl-images-amazon.com/images/I/41LuPx%2BjwyL._SL200_.jpg)](https://www.amazon.es/dp/B0794LSVLP/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0794LSVLP/?tag=tolees-21)

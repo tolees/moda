@@ -22,7 +22,7 @@ Ahora mismo tienes [XTI 86082  Bolso de Mano para Mujer  Rosa  Nude  33x20x14 cm
 
 [![XTI 86082  Bolso de Mano para Mujer  Ros](https://images-eu.ssl-images-amazon.com/images/I/517D74ryUiL._SL200_.jpg)](https://www.amazon.es/dp/B07JLDK1DN/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07JLDK1DN/?tag=tolees-21)

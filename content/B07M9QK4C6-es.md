@@ -22,7 +22,7 @@ Ahora mismo tienes [G-STAR RAW Graphic 41 T-shirt  Camiseta Hombre  Multicolor  
 
 [![G-STAR RAW Graphic 41 T-shirt  Camiseta ](https://images-eu.ssl-images-amazon.com/images/I/41C5-nAm32L._SL200_.jpg)](https://www.amazon.es/dp/B07M9QK4C6/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07M9QK4C6/?tag=tolees-21)

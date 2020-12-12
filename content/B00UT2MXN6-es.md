@@ -22,7 +22,7 @@ Ahora mismo tienes [Tommy Hilfiger Cotton Pant Iconic - Pantalones de Pijama par
 
 [![Tommy Hilfiger Cotton Pant Iconic - Pant](https://images-eu.ssl-images-amazon.com/images/I/31vH2zjP1%2BL._SL200_.jpg)](https://www.amazon.es/dp/B00UT2MXN6/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00UT2MXN6/?tag=tolees-21)

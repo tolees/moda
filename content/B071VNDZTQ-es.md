@@ -22,7 +22,7 @@ Ahora mismo tienes [FIND Camiseta Estampada para Hombre  Blanco  White   Medium]
 
 [![FIND Camiseta Estampada para Hombre  Bla](https://images-eu.ssl-images-amazon.com/images/I/41qyUt6DkbL._SL200_.jpg)](https://www.amazon.es/dp/B071VNDZTQ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B071VNDZTQ/?tag=tolees-21)

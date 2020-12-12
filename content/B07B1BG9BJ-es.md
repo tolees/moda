@@ -22,7 +22,7 @@ Ahora mismo tienes [BOSS Athleisure tee 13  Camiseta Hombre  Blanco  White 100  
 
 [![BOSS Athleisure tee 13  Camiseta Hombre ](https://images-eu.ssl-images-amazon.com/images/I/41SLiW%2B4y9L._SL200_.jpg)](https://www.amazon.es/dp/B07B1BG9BJ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07B1BG9BJ/?tag=tolees-21)

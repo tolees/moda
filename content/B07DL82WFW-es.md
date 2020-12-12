@@ -22,7 +22,7 @@ Ahora mismo tienes [Springfield Bimat. Print Tropical Lateral Camiseta  Mujer  B
 
 [![Springfield Bimat. Print Tropical Latera](https://images-eu.ssl-images-amazon.com/images/I/51GdMNf8wtL._SL200_.jpg)](https://www.amazon.es/dp/B07DL82WFW/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DL82WFW/?tag=tolees-21)

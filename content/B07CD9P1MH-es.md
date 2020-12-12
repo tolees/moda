@@ -22,7 +22,7 @@ Ahora mismo tienes [Replay Jondrill  Vaqueros Skinny para Hombre  Azul  Dark Blu
 
 [![Replay Jondrill  Vaqueros Skinny para Ho](https://images-eu.ssl-images-amazon.com/images/I/41jOtbsJ1zL._SL200_.jpg)](https://www.amazon.es/dp/B07CD9P1MH/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07CD9P1MH/?tag=tolees-21)

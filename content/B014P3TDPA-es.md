@@ -22,7 +22,7 @@ Ahora mismo tienes [Pepe Jeans London Cash  Vaqueros para Hombre  Azul  11Oz Str
 
 [![Pepe Jeans London Cash  Vaqueros para Ho](https://images-eu.ssl-images-amazon.com/images/I/41N5SKc6IpL._SL200_.jpg)](https://www.amazon.es/dp/B014P3TDPA/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B014P3TDPA/?tag=tolees-21)

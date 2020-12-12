@@ -22,7 +22,7 @@ Ahora mismo tienes [Mil-Tec – Chaqueta de protección contra la Humedad con 
 
 [![Mil-Tec – Chaqueta de protección contra ](https://images-eu.ssl-images-amazon.com/images/I/515COHjSAVL._SL200_.jpg)](https://www.amazon.es/dp/B0058HTGB4/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0058HTGB4/?tag=tolees-21)

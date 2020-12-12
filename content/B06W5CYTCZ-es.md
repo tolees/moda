@@ -22,7 +22,7 @@ Ahora mismo tienes [Vans Left Chest Logo tee  Camiseta para Hombre  Blanco  Whit
 
 [![Vans Left Chest Logo tee  Camiseta para ](https://images-eu.ssl-images-amazon.com/images/I/31IBg3K4vaL._SL200_.jpg)](https://www.amazon.es/dp/B06W5CYTCZ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B06W5CYTCZ/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Geox J Thymar a  Zapatos de Cordones Derby Niñas  Negro  Bl
 
 [![Geox J Thymar a  Zapatos de Cordones Der](https://images-eu.ssl-images-amazon.com/images/I/41dClqS6jsL._SL200_.jpg)](https://www.amazon.es/dp/B06Y2D1YX5/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B06Y2D1YX5/?tag=tolees-21)

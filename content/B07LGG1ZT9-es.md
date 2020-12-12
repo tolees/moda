@@ -22,7 +22,7 @@ Ahora mismo tienes [New Look Scuba Belted 6061870  Vestido para Mujer  Red  Ligh
 
 [![New Look Scuba Belted 6061870  Vestido p](https://images-eu.ssl-images-amazon.com/images/I/311Qjcc5r7L._SL200_.jpg)](https://www.amazon.es/dp/B07LGG1ZT9/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07LGG1ZT9/?tag=tolees-21)

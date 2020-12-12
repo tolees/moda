@@ -22,7 +22,7 @@ Ahora mismo tienes [REPLAY Anbass Vaqueros Slim  Azul  Dark Blue 7   W40/L36  Ta
 
 [![REPLAY Anbass Vaqueros Slim  Azul  Dark ](https://images-eu.ssl-images-amazon.com/images/I/31jO0ShHxRL._SL200_.jpg)](https://www.amazon.es/dp/B014CVO3WS/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B014CVO3WS/?tag=tolees-21)

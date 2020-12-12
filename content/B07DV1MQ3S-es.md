@@ -22,7 +22,7 @@ Ahora mismo tienes [Lacoste Croco Slide 119 1 737cma0018082  Sandalias de Punta 
 
 [![Lacoste Croco Slide 119 1 737cma0018082 ](https://images-eu.ssl-images-amazon.com/images/I/31OnqhrGa3L._SL200_.jpg)](https://www.amazon.es/dp/B07DV1MQ3S/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DV1MQ3S/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Tuc Tuc Vestido Punto M/C NIÑA BAHÍA  Blanco 5   5 años  
 
 [![Tuc Tuc Vestido Punto M/C NIÑA BAHÍA  Bl](https://images-eu.ssl-images-amazon.com/images/I/41pjusLOfcL._SL200_.jpg)](https://www.amazon.es/dp/B07MZNS4FS/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07MZNS4FS/?tag=tolees-21)

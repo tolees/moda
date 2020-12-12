@@ -22,7 +22,7 @@ Ahora mismo tienes [KICCOLY Gafas de Sol Deportivas Polarizadas para Hombre Esqu
 
 [![KICCOLY Gafas de Sol Deportivas Polariza](https://images-eu.ssl-images-amazon.com/images/I/41j-NkAJcuL._SL200_.jpg)](https://www.amazon.es/dp/B07C2Q5WWZ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07C2Q5WWZ/?tag=tolees-21)

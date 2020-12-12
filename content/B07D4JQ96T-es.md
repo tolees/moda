@@ -22,7 +22,7 @@ Ahora mismo tienes [Vero Moda Vmellie LS O-Neck Linking Blouse  suéter Mujer  R
 
 [![Vero Moda Vmellie LS O-Neck Linking Blou](https://images-eu.ssl-images-amazon.com/images/I/41rzB8-LTBL._SL200_.jpg)](https://www.amazon.es/dp/B07D4JQ96T/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07D4JQ96T/?tag=tolees-21)

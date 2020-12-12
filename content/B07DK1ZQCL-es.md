@@ -22,7 +22,7 @@ Ahora mismo tienes [Geox J Sandal Flexyper Boy D  Sandalias con Punta Cerrada pa
 
 [![Geox J Sandal Flexyper Boy D  Sandalias ](https://images-eu.ssl-images-amazon.com/images/I/416svtTLtoL._SL200_.jpg)](https://www.amazon.es/dp/B07DK1ZQCL/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DK1ZQCL/?tag=tolees-21)

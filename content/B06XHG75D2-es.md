@@ -22,7 +22,7 @@ Ahora mismo tienes [Helly Hansen W HH LIFA 1/2 Zip Camiseta Deportiva  Mujer   A
 
 [![Helly Hansen W HH LIFA 1/2 Zip Camiseta ](https://images-eu.ssl-images-amazon.com/images/I/31Y5uj2zMzL._SL200_.jpg)](https://www.amazon.es/dp/B06XHG75D2/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B06XHG75D2/?tag=tolees-21)

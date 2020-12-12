@@ -22,7 +22,7 @@ Ahora mismo tienes [Pepe Jeans Finsbury  Vaqueros para Hombre  Azul  Denim I48  
 
 [![Pepe Jeans Finsbury  Vaqueros para Hombr](https://images-eu.ssl-images-amazon.com/images/I/41X3OCzhETL._SL200_.jpg)](https://www.amazon.es/dp/B01H4W9NCW/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01H4W9NCW/?tag=tolees-21)

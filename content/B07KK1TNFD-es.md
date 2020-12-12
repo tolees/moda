@@ -22,7 +22,7 @@ Ahora mismo tienes [Quiksilver Quik Pool Camiseta de Manga Corta  Hombre  Naranj
 
 [![Quiksilver Quik Pool Camiseta de Manga C](https://images-eu.ssl-images-amazon.com/images/I/41gobenVuoL._SL200_.jpg)](https://www.amazon.es/dp/B07KK1TNFD/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07KK1TNFD/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [REPLAY MA955 Newbill  Vaqueros Straight para Hombre  Gris  D
 
 [![REPLAY MA955 Newbill  Vaqueros Straight ](https://images-eu.ssl-images-amazon.com/images/I/41c3CB%2Bm1CL._SL200_.jpg)](https://www.amazon.es/dp/B07CGX16KG/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07CGX16KG/?tag=tolees-21)

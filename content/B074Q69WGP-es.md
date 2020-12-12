@@ -22,7 +22,7 @@ Ahora mismo tienes [Timberland Flyroam Leather Hiker  Zapatillas de Senderismo U
 
 [![Timberland Flyroam Leather Hiker  Zapati](https://images-eu.ssl-images-amazon.com/images/I/41Rw3x8umjL._SL200_.jpg)](https://www.amazon.es/dp/B074Q69WGP/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B074Q69WGP/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Joma Nobel Pantalón de equipación  Burdeos  6XS-5XS](https
 
 [![Joma Nobel Pantalón de equipación  Burde]()](https://www.amazon.es/dp/B00VA8XKSA/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00VA8XKSA/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [RIP CURL Montauk Parka Jacket Chaqueta  Mujer  Major Brown  
 
 [![RIP CURL Montauk Parka Jacket Chaqueta  ](https://images-eu.ssl-images-amazon.com/images/I/419nO51um4L._SL200_.jpg)](https://www.amazon.es/dp/B07FNRSXJ4/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07FNRSXJ4/?tag=tolees-21)

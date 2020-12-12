@@ -22,7 +22,7 @@ Ahora mismo tienes [adidas Ask SPR tee LS Camiseta   Azul Claro   L para Hombre]
 
 [![adidas Ask SPR tee LS Camiseta   Azul Cl](https://images-eu.ssl-images-amazon.com/images/I/41BZgvZfdRL._SL200_.jpg)](https://www.amazon.es/dp/B078Q7GHP4/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B078Q7GHP4/?tag=tolees-21)

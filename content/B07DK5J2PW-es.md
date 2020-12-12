@@ -22,7 +22,7 @@ Ahora mismo tienes [Geox J Borealis Boy B  Sandalias Punta Cerrada para Niños  
 
 [![Geox J Borealis Boy B  Sandalias Punta C](https://images-eu.ssl-images-amazon.com/images/I/41g-RXJ9YaL._SL200_.jpg)](https://www.amazon.es/dp/B07DK5J2PW/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DK5J2PW/?tag=tolees-21)

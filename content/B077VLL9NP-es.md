@@ -22,7 +22,7 @@ Ahora mismo tienes [Levi s The Perfect Tee  Camiseta para Mujer  Gris  Pattern S
 
 [![Levi s The Perfect Tee  Camiseta para Mu](https://images-eu.ssl-images-amazon.com/images/I/41rXmhYbyVL._SL200_.jpg)](https://www.amazon.es/dp/B077VLL9NP/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B077VLL9NP/?tag=tolees-21)

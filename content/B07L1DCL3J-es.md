@@ -22,7 +22,7 @@ Ahora mismo tienes [JACK & JONES Jortuco tee SS Crew Neck  Camiseta para Hombre 
 
 [![JACK & JONES Jortuco tee SS Crew Neck  C](https://images-eu.ssl-images-amazon.com/images/I/413x4gel5oL._SL200_.jpg)](https://www.amazon.es/dp/B07L1DCL3J/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07L1DCL3J/?tag=tolees-21)

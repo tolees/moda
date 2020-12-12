@@ -22,7 +22,7 @@ Ahora mismo tienes [Max Max & Co CO.330/S K2 08A 50 Gafas de sol  Negro  Black G
 
 [![Max Max & Co CO.330/S K2 08A 50 Gafas de](https://images-eu.ssl-images-amazon.com/images/I/41s15Lq7eLL._SL200_.jpg)](https://www.amazon.es/dp/B06XKG8R6M/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B06XKG8R6M/?tag=tolees-21)

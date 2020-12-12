@@ -22,7 +22,7 @@ Ahora mismo tienes [HIKARO Pantalón Corto Short para Mujer  Azul  Navy   42  Ta
 
 [![HIKARO Pantalón Corto Short para Mujer  ](https://images-eu.ssl-images-amazon.com/images/I/41YgavS-tKL._SL200_.jpg)](https://www.amazon.es/dp/B077Y6VP3D/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B077Y6VP3D/?tag=tolees-21)

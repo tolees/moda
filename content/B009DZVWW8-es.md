@@ -22,7 +22,7 @@ Ahora mismo tienes [LTB Jeans Valerie  Vaqueros Corte de Bota para Mujer  Azul  
 
 [![LTB Jeans Valerie  Vaqueros Corte de Bot](https://images-eu.ssl-images-amazon.com/images/I/416ZHIeYMKL._SL200_.jpg)](https://www.amazon.es/dp/B009DZVWW8/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B009DZVWW8/?tag=tolees-21)

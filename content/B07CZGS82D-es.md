@@ -22,7 +22,7 @@ Ahora mismo tienes [Asics Upcourt 3 Gs Zapatos de Squash Unisex Niños  Rosa  Di
 
 [![Asics Upcourt 3 Gs Zapatos de Squash Uni](https://images-eu.ssl-images-amazon.com/images/I/41y4cSC%2BgwL._SL200_.jpg)](https://www.amazon.es/dp/B07CZGS82D/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07CZGS82D/?tag=tolees-21)

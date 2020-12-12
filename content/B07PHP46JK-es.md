@@ -22,7 +22,7 @@ Ahora mismo tienes [SINOES Zapatos Hombre Deportivos Casuales Zapatillas Deporte
 
 [![SINOES Zapatos Hombre Deportivos Casuale](https://images-eu.ssl-images-amazon.com/images/I/31-FamBtJcL._SL200_.jpg)](https://www.amazon.es/dp/B07PHP46JK/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07PHP46JK/?tag=tolees-21)

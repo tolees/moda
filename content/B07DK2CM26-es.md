@@ -22,7 +22,7 @@ Ahora mismo tienes [Geox B Kilwi Girl J  Bailarinas para Bebés  White/Pink C040
 
 [![Geox B Kilwi Girl J  Bailarinas para Beb](https://images-eu.ssl-images-amazon.com/images/I/31d29ScWCXL._SL200_.jpg)](https://www.amazon.es/dp/B07DK2CM26/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DK2CM26/?tag=tolees-21)

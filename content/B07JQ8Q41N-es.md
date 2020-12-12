@@ -22,7 +22,7 @@ Ahora mismo tienes [Levi s Essential V Neck Camiseta   Pacifica Maritime Blue/Cl
 
 [![Levi s Essential V Neck Camiseta   Pacif](https://images-eu.ssl-images-amazon.com/images/I/41sJ5vBmJkL._SL200_.jpg)](https://www.amazon.es/dp/B07JQ8Q41N/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07JQ8Q41N/?tag=tolees-21)

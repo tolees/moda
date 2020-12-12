@@ -22,7 +22,7 @@ Ahora mismo tienes [Lee Slim Rider Chaqueta Vaquera  Azul  Super Stonewash Rd66 
 
 [![Lee Slim Rider Chaqueta Vaquera  Azul  S](https://images-eu.ssl-images-amazon.com/images/I/41NtIycru6L._SL200_.jpg)](https://www.amazon.es/dp/B077NHB4T5/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B077NHB4T5/?tag=tolees-21)

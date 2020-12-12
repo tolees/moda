@@ -22,7 +22,7 @@ Ahora mismo tienes [Leathario Bolso de Cuero Multifuncionales Maletínes Portát
 
 [![Leathario Bolso de Cuero Multifuncionale](https://images-eu.ssl-images-amazon.com/images/I/313mM1qbQ4L._SL200_.jpg)](https://www.amazon.es/dp/B016D7VGBU/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B016D7VGBU/?tag=tolees-21)

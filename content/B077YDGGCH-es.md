@@ -22,7 +22,7 @@ Ahora mismo tienes [Under Armour HG - Pantalón Corto para Mujer  Mujer  1309619
 
 [![Under Armour HG - Pantalón Corto para Mu](https://images-eu.ssl-images-amazon.com/images/I/41gAnZhyBfL._SL200_.jpg)](https://www.amazon.es/dp/B077YDGGCH/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B077YDGGCH/?tag=tolees-21)

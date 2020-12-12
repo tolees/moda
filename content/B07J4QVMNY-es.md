@@ -22,7 +22,7 @@ Ahora mismo tienes [IRIS & LILLY Kt118 Bikini  Rojo  Red/White Polka Dot   M  90
 
 [![IRIS & LILLY Kt118 Bikini  Rojo  Red/Whi](https://images-eu.ssl-images-amazon.com/images/I/41WjIYadFML._SL200_.jpg)](https://www.amazon.es/dp/B07J4QVMNY/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07J4QVMNY/?tag=tolees-21)

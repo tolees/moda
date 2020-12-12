@@ -22,7 +22,7 @@ Ahora mismo tienes [Activewear Camiseta de Deporte Mujer  Azul  Navy   38  Talla
 
 [![Activewear Camiseta de Deporte Mujer  Az](https://images-eu.ssl-images-amazon.com/images/I/41ysEERqawL._SL200_.jpg)](https://www.amazon.es/dp/B075V7DY7B/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B075V7DY7B/?tag=tolees-21)

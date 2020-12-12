@@ -22,7 +22,7 @@ Ahora mismo tienes [Springfield 4Wo Abierta Hacker Team Sudadera  Hombre  Gris  
 
 [![Springfield 4Wo Abierta Hacker Team Suda](https://images-eu.ssl-images-amazon.com/images/I/41xctDMAsUL._SL200_.jpg)](https://www.amazon.es/dp/B07DL92KG2/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DL92KG2/?tag=tolees-21)

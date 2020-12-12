@@ -22,7 +22,7 @@ Ahora mismo tienes [Cortefiel 2.T.M. Blusa Escote Pico - Blusa para mujer  color
 
 [![Cortefiel 2.T.M. Blusa Escote Pico - Blu](https://images-eu.ssl-images-amazon.com/images/I/41UsQ9JA3UL._SL200_.jpg)](https://www.amazon.es/dp/B01J5JE2PA/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01J5JE2PA/?tag=tolees-21)

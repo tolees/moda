@@ -22,7 +22,7 @@ Ahora mismo tienes [Clarks Un Cruise Lace  Zapatos de Cordones Derby para Mujer 
 
 [![Clarks Un Cruise Lace  Zapatos de Cordon](https://images-eu.ssl-images-amazon.com/images/I/41gAMNuRiWL._SL200_.jpg)](https://www.amazon.es/dp/B079TYB4DQ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B079TYB4DQ/?tag=tolees-21)

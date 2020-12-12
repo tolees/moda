@@ -22,7 +22,7 @@ Ahora mismo tienes [YuamMei 1 par  2 Piezas  Guantes de microondas Resistentes a
 
 [![YuamMei 1 par  2 Piezas  Guantes de micr](https://images-eu.ssl-images-amazon.com/images/I/31c6kX2raZL._SL200_.jpg)](https://www.amazon.es/dp/B07GNB4H3B/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07GNB4H3B/?tag=tolees-21)

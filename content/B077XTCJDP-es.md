@@ -22,7 +22,7 @@ Ahora mismo tienes [Under Armour - Camiseta de Tirantes para Mujer  Mujer  13255
 
 [![Under Armour - Camiseta de Tirantes para](https://images-eu.ssl-images-amazon.com/images/I/41dnH-xBh%2BL._SL200_.jpg)](https://www.amazon.es/dp/B077XTCJDP/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B077XTCJDP/?tag=tolees-21)

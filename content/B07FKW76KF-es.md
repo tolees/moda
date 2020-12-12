@@ -22,7 +22,7 @@ Ahora mismo tienes [Armani Exchange Chest Stripe Camisa   White/H.Risk Red/Bla 5
 
 [![Armani Exchange Chest Stripe Camisa   Wh](https://images-eu.ssl-images-amazon.com/images/I/41D5i78JsWL._SL200_.jpg)](https://www.amazon.es/dp/B07FKW76KF/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07FKW76KF/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Pandora Collar en forma Y Mujer plata - 397445CZ-70](https:/
 
 [![Pandora Collar en forma Y Mujer plata - ](https://images-eu.ssl-images-amazon.com/images/I/31X961aHy0L._SL200_.jpg)](https://www.amazon.es/dp/B07F5BM8WR/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07F5BM8WR/?tag=tolees-21)

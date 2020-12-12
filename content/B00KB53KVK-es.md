@@ -22,7 +22,7 @@ Ahora mismo tienes [DC Comics - Sudadera de Manga Larga con Cuello Redondo para 
 
 [![DC Comics - Sudadera de Manga Larga con ](https://images-eu.ssl-images-amazon.com/images/I/41Z7WluyC4L._SL200_.jpg)](https://www.amazon.es/dp/B00KB53KVK/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00KB53KVK/?tag=tolees-21)

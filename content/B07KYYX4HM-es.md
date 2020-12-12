@@ -22,7 +22,7 @@ Ahora mismo tienes [Springfield 3.T.Ap.Blazer Circular Chaqueta  Dorado  Tostado
 
 [![Springfield 3.T.Ap.Blazer Circular Chaqu]()](https://www.amazon.es/dp/B07KYYX4HM/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07KYYX4HM/?tag=tolees-21)

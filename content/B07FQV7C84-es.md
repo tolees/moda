@@ -22,7 +22,7 @@ Ahora mismo tienes [Clarks Grandin Plain  Zapatos de Cordones Derby para Hombre 
 
 [![Clarks Grandin Plain  Zapatos de Cordone](https://images-eu.ssl-images-amazon.com/images/I/31IQk6t8kaL._SL200_.jpg)](https://www.amazon.es/dp/B07FQV7C84/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07FQV7C84/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Pepe Jeans Core Jacket Chaqueta Vaquera  Azul  Wiser Wash Me
 
 [![Pepe Jeans Core Jacket Chaqueta Vaquera ](https://images-eu.ssl-images-amazon.com/images/I/41ju4dq0sAL._SL200_.jpg)](https://www.amazon.es/dp/B07JPJ85TZ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07JPJ85TZ/?tag=tolees-21)

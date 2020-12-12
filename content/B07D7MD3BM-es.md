@@ -22,7 +22,7 @@ Ahora mismo tienes [Dolores Promesas 107234  Vestido para Mujer  Blanco Crudo  M
 
 [![Dolores Promesas 107234  Vestido para Mu](https://images-eu.ssl-images-amazon.com/images/I/3176KlktpAL._SL200_.jpg)](https://www.amazon.es/dp/B07D7MD3BM/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07D7MD3BM/?tag=tolees-21)

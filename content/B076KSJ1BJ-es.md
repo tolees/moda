@@ -22,7 +22,7 @@ Ahora mismo tienes [Salomon Sudadera  agile hz mid  mezcla de sintéticos  negro
 
 [![Salomon Sudadera  agile hz mid  mezcla d](https://images-eu.ssl-images-amazon.com/images/I/41uPvzQHj8L._SL200_.jpg)](https://www.amazon.es/dp/B076KSJ1BJ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B076KSJ1BJ/?tag=tolees-21)

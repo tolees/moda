@@ -22,7 +22,7 @@ Ahora mismo tienes [Only & Sons Onsloom Dark Blue 6972 Pa Noos  Pantalones Vaque
 
 [![Only & Sons Onsloom Dark Blue 6972 Pa No](https://images-eu.ssl-images-amazon.com/images/I/41mSRFhSmPL._SL200_.jpg)](https://www.amazon.es/dp/B06XSWSM2M/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B06XSWSM2M/?tag=tolees-21)

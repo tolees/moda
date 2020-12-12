@@ -22,7 +22,7 @@ Ahora mismo tienes [Kiwi Saint Tropez Sujetador de Bikini Triangle Wendy Noeud E
 
 [![Kiwi Saint Tropez Sujetador de Bikini Tr](https://images-eu.ssl-images-amazon.com/images/I/41S1IqXykdL._SL200_.jpg)](https://www.amazon.es/dp/B017ESMRGU/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B017ESMRGU/?tag=tolees-21)

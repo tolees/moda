@@ -22,7 +22,7 @@ Ahora mismo tienes [Diadora B. Elite  Sandalias con Plataforma Unisex Adulto  Bl
 
 [![Diadora B. Elite  Sandalias con Platafor](https://images-eu.ssl-images-amazon.com/images/I/41F6WWqEb4L._SL200_.jpg)](https://www.amazon.es/dp/B01CJH97J6/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01CJH97J6/?tag=tolees-21)

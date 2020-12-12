@@ -22,7 +22,7 @@ Ahora mismo tienes [Vero Moda OuterwearVero Moda Pamela Chaqueta Acolchada de Pl
 
 [![Vero Moda OuterwearVero Moda Pamela Chaq](https://images-eu.ssl-images-amazon.com/images/I/41Ym8jQwDaL._SL200_.jpg)](https://www.amazon.es/dp/B07GT6KQ82/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07GT6KQ82/?tag=tolees-21)

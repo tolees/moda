@@ -22,7 +22,7 @@ Ahora mismo tienes [G-STAR RAW Midge Zip Mid Waist Skinny Vaqueros  Azul  Dk Age
 
 [![G-STAR RAW Midge Zip Mid Waist Skinny Va](https://images-eu.ssl-images-amazon.com/images/I/41RKPzc7jJL._SL200_.jpg)](https://www.amazon.es/dp/B0752PDFYM/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0752PDFYM/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Vero Moda NOS Vmhot Seven NW Dnm Fold Shorts Mix Noos Pantal
 
 [![Vero Moda NOS Vmhot Seven NW Dnm Fold Sh](https://images-eu.ssl-images-amazon.com/images/I/41IduZdvYVL._SL200_.jpg)](https://www.amazon.es/dp/B07N8KVHW8/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07N8KVHW8/?tag=tolees-21)

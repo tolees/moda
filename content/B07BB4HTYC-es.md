@@ -22,7 +22,7 @@ Ahora mismo tienes [The North Face Y S/S T Camiseta Simple Dome Hombre  Purdy Pi
 
 [![The North Face Y S/S T Camiseta Simple D](https://images-eu.ssl-images-amazon.com/images/I/31nLsy%2B5h-L._SL200_.jpg)](https://www.amazon.es/dp/B07BB4HTYC/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07BB4HTYC/?tag=tolees-21)

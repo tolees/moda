@@ -22,7 +22,7 @@ Ahora mismo tienes [Joma Street - Pantalón para Mujer  Color Azul Marino  Talla
 
 [![Joma Street - Pantalón para Mujer  Color](https://images-eu.ssl-images-amazon.com/images/I/31cqvUdLEXL._SL200_.jpg)](https://www.amazon.es/dp/B00ORVD8RK/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00ORVD8RK/?tag=tolees-21)

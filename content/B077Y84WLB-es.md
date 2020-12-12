@@ -22,7 +22,7 @@ Ahora mismo tienes [HUGO Drick Sudadera  Azul  Open Blue 461   Large para Hombre
 
 [![HUGO Drick Sudadera  Azul  Open Blue 461](https://images-eu.ssl-images-amazon.com/images/I/41RDqQ77ZzL._SL200_.jpg)](https://www.amazon.es/dp/B077Y84WLB/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B077Y84WLB/?tag=tolees-21)

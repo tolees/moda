@@ -22,7 +22,7 @@ Ahora mismo tienes [G-STAR RAW Core Super Slim Shirt L\\s  Camisa Hombre  Rojo  
 
 [![G-STAR RAW Core Super Slim Shirt L\\s  C](https://images-eu.ssl-images-amazon.com/images/I/41aSolpVFAL._SL200_.jpg)](https://www.amazon.es/dp/B07CZH1NNP/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07CZH1NNP/?tag=tolees-21)

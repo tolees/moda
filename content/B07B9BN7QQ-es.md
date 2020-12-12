@@ -22,7 +22,7 @@ Ahora mismo tienes [Clarks Vargo Mid  Zapatos de Cordones Derby para Hombre  Ver
 
 [![Clarks Vargo Mid  Zapatos de Cordones De](https://images-eu.ssl-images-amazon.com/images/I/315mIWbCIhL._SL200_.jpg)](https://www.amazon.es/dp/B07B9BN7QQ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07B9BN7QQ/?tag=tolees-21)

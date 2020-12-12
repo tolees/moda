@@ -22,7 +22,7 @@ Ahora mismo tienes [Napapijri Sachu Camiseta  Azul  BLU Marine 176   Small para 
 
 [![Napapijri Sachu Camiseta  Azul  BLU Mari](https://images-eu.ssl-images-amazon.com/images/I/41Awu8y%2BTCL._SL200_.jpg)](https://www.amazon.es/dp/B07L9RBNY4/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07L9RBNY4/?tag=tolees-21)

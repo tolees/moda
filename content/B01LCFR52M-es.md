@@ -22,7 +22,7 @@ Ahora mismo tienes [Joe Browns Sophisticated Sequin  Vestido para Mujer  Marrón
 
 [![Joe Browns Sophisticated Sequin  Vestido](https://images-eu.ssl-images-amazon.com/images/I/41BDWA70W-L._SL200_.jpg)](https://www.amazon.es/dp/B01LCFR52M/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01LCFR52M/?tag=tolees-21)

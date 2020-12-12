@@ -22,7 +22,7 @@ Ahora mismo tienes [Only Onlmesa AOP Wide Sleeve Top Wvn  Blusa para Mujer   Nig
 
 [![Only Onlmesa AOP Wide Sleeve Top Wvn  Bl](https://images-eu.ssl-images-amazon.com/images/I/51Q5GXQ6LuL._SL200_.jpg)](https://www.amazon.es/dp/B075GMJDX2/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B075GMJDX2/?tag=tolees-21)

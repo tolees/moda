@@ -22,7 +22,7 @@ Ahora mismo tienes [Dolores Promesas 107430  Vestido para Mujer  Verde   Tamaño
 
 [![Dolores Promesas 107430  Vestido para Mu](https://images-eu.ssl-images-amazon.com/images/I/31p2wdDHPeL._SL200_.jpg)](https://www.amazon.es/dp/B07D7JC3SX/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07D7JC3SX/?tag=tolees-21)

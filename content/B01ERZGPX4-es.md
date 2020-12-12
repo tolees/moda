@@ -22,7 +22,7 @@ Ahora mismo tienes [Joma Free 900222 Camiseta  Mujer  Morado  S](https://www.ama
 
 [![Joma Free 900222 Camiseta  Mujer  Morado](https://images-eu.ssl-images-amazon.com/images/I/41a4ACYD0LL._SL200_.jpg)](https://www.amazon.es/dp/B01ERZGPX4/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01ERZGPX4/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [JACK & JONES Jcochain tee SS Crew Neck Camiseta  Azul  Azure
 
 [![JACK & JONES Jcochain tee SS Crew Neck C](https://images-eu.ssl-images-amazon.com/images/I/41dQWVCXVfL._SL200_.jpg)](https://www.amazon.es/dp/B07N9G73ZY/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07N9G73ZY/?tag=tolees-21)

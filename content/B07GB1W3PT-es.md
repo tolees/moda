@@ -22,7 +22,7 @@ Ahora mismo tienes [Levi s 502 Regular Taper Vaqueros Tapered  Azul  Make Warp C
 
 [![Levi s 502 Regular Taper Vaqueros Tapere](https://images-eu.ssl-images-amazon.com/images/I/41ycjtJzjcL._SL200_.jpg)](https://www.amazon.es/dp/B07GB1W3PT/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07GB1W3PT/?tag=tolees-21)

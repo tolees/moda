@@ -22,7 +22,7 @@ Ahora mismo tienes [Lee Elly  Vaqueros Slim  Mujer  Negro  Black Rinse 47   W28/
 
 [![Lee Elly  Vaqueros Slim  Mujer  Negro  B](https://images-eu.ssl-images-amazon.com/images/I/31PlFZ9JvcL._SL200_.jpg)](https://www.amazon.es/dp/B079KG3GN1/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B079KG3GN1/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [adidas TT Chaqueta  Mujer  Negro  34](https://www.amazon.es/
 
 [![adidas TT Chaqueta  Mujer  Negro  34](https://images-eu.ssl-images-amazon.com/images/I/51j86ha-HfL._SL200_.jpg)](https://www.amazon.es/dp/B07KWD7GMD/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07KWD7GMD/?tag=tolees-21)

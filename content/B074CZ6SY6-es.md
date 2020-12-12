@@ -22,7 +22,7 @@ Ahora mismo tienes [Tom Tailor Denim Lurex Peplum Shirt  Camisa Manga Larga para
 
 [![Tom Tailor Denim Lurex Peplum Shirt  Cam](https://images-eu.ssl-images-amazon.com/images/I/41YdzUYtaKL._SL200_.jpg)](https://www.amazon.es/dp/B074CZ6SY6/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B074CZ6SY6/?tag=tolees-21)

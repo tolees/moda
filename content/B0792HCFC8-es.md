@@ -22,7 +22,7 @@ Ahora mismo tienes [Geox J Hadriel Girl D  Botas Chelsea para Niñas   Dk Grey C
 
 [![Geox J Hadriel Girl D  Botas Chelsea par](https://images-eu.ssl-images-amazon.com/images/I/41amVyzD2iL._SL200_.jpg)](https://www.amazon.es/dp/B0792HCFC8/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0792HCFC8/?tag=tolees-21)

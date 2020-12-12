@@ -22,7 +22,7 @@ Ahora mismo tienes [Kappa Dasio Padded Jkt  Chaqueta Unisex infantil  Rojo  Red 
 
 [![Kappa Dasio Padded Jkt  Chaqueta Unisex ](https://images-eu.ssl-images-amazon.com/images/I/51ITKizPO4L._SL200_.jpg)](https://www.amazon.es/dp/B0741J2DYM/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0741J2DYM/?tag=tolees-21)

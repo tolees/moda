@@ -22,7 +22,7 @@ Ahora mismo tienes [adidas Adilette W  Zapatos de Playa y Piscina para Mujer  Ne
 
 [![adidas Adilette W  Zapatos de Playa y Pi](https://images-eu.ssl-images-amazon.com/images/I/41HFUb79ytL._SL200_.jpg)](https://www.amazon.es/dp/B07K16QZH6/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07K16QZH6/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Joma Champion II - Sudadera Unisex  Color Rojo/Blanco  Talla
 
 [![Joma Champion II - Sudadera Unisex  Colo](https://images-eu.ssl-images-amazon.com/images/I/41m5GPSFqcL._SL200_.jpg)](https://www.amazon.es/dp/B00AIGO9F8/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00AIGO9F8/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [LIU JO Shoes Patty 02-Sandal Kid Suede Geranium  Sandalias c
 
 [![LIU JO Shoes Patty 02-Sandal Kid Suede G](https://images-eu.ssl-images-amazon.com/images/I/41d8DhAJP6L._SL200_.jpg)](https://www.amazon.es/dp/B07L6RTD7W/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07L6RTD7W/?tag=tolees-21)

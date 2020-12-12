@@ -22,7 +22,7 @@ Ahora mismo tienes [JACK & JONES Jcobarkley Jacket  Chaqueta para Hombre  Azul S
 
 [![JACK & JONES Jcobarkley Jacket  Chaqueta](https://images-eu.ssl-images-amazon.com/images/I/41kQVTR751L._SL200_.jpg)](https://www.amazon.es/dp/B07DC7FZGJ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DC7FZGJ/?tag=tolees-21)

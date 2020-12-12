@@ -22,7 +22,7 @@ Ahora mismo tienes [Puma Platform Slide EP  Zapatos de Playa y Piscina para Muje
 
 [![Puma Platform Slide EP  Zapatos de Playa](https://images-eu.ssl-images-amazon.com/images/I/41C3XhSLk7L._SL200_.jpg)](https://www.amazon.es/dp/B077MQJDLP/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B077MQJDLP/?tag=tolees-21)

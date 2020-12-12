@@ -22,7 +22,7 @@ Ahora mismo tienes [Pepe Jeans Tami  Parka para Mujer  Azul  Dulwich 594  S](htt
 
 [![Pepe Jeans Tami  Parka para Mujer  Azul ](https://images-eu.ssl-images-amazon.com/images/I/41CxL%2BhDUjL._SL200_.jpg)](https://www.amazon.es/dp/B079RS1FDL/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B079RS1FDL/?tag=tolees-21)

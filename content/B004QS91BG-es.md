@@ -22,7 +22,7 @@ Ahora mismo tienes [Cross Jeans Pantalón Vaquero Adriana Skinny W26/L34 Azul](h
 
 [![Cross Jeans Pantalón Vaquero Adriana Ski](https://images-eu.ssl-images-amazon.com/images/I/314PTzhD31L._SL200_.jpg)](https://www.amazon.es/dp/B004QS91BG/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B004QS91BG/?tag=tolees-21)

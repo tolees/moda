@@ -22,7 +22,7 @@ Ahora mismo tienes [Columbia Chaqueta Impermeable con Capucha para Hombre  Pike 
 
 [![Columbia Chaqueta Impermeable con Capuch](https://images-eu.ssl-images-amazon.com/images/I/41Plk0EuPwL._SL200_.jpg)](https://www.amazon.es/dp/B07DYX9NZ4/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DYX9NZ4/?tag=tolees-21)

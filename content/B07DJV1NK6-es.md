@@ -22,7 +22,7 @@ Ahora mismo tienes [Only Onlnew Skylar Fur Parka CC Otw  Chaqueta Mujer  Azul  N
 
 [![Only Onlnew Skylar Fur Parka CC Otw  Cha](https://images-eu.ssl-images-amazon.com/images/I/31bYRPJ5ajL._SL200_.jpg)](https://www.amazon.es/dp/B07DJV1NK6/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DJV1NK6/?tag=tolees-21)

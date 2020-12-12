@@ -22,7 +22,7 @@ Ahora mismo tienes [Vero Moda Vmnicky 3/4 Collar Wrap Top D2-3  Camiseta para Mu
 
 [![Vero Moda Vmnicky 3/4 Collar Wrap Top D2](https://images-eu.ssl-images-amazon.com/images/I/51XLSLA3FuL._SL200_.jpg)](https://www.amazon.es/dp/B077VQTPQD/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B077VQTPQD/?tag=tolees-21)

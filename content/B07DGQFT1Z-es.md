@@ -22,7 +22,7 @@ Ahora mismo tienes [Timberland Squall Canyon  Botas Chukka para Hombre  Negro  J
 
 [![Timberland Squall Canyon  Botas Chukka p](https://images-eu.ssl-images-amazon.com/images/I/3158nDiayKL._SL200_.jpg)](https://www.amazon.es/dp/B07DGQFT1Z/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DGQFT1Z/?tag=tolees-21)

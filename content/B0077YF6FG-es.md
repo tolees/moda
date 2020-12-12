@@ -22,7 +22,7 @@ Ahora mismo tienes [Columbia Mujer Pantalón  Silver Ridge  Castaño  Fossil   T
 
 [![Columbia Mujer Pantalón  Silver Ridge  C](https://images-eu.ssl-images-amazon.com/images/I/41Rgx99ybbL._SL200_.jpg)](https://www.amazon.es/dp/B0077YF6FG/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0077YF6FG/?tag=tolees-21)

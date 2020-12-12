@@ -22,7 +22,7 @@ Ahora mismo tienes [Pepe Jeans Fredrick Sudadera    Dulwich 594   2 años para N
 
 [![Pepe Jeans Fredrick Sudadera    Dulwich ](https://images-eu.ssl-images-amazon.com/images/I/41tm9IQ7E4L._SL200_.jpg)](https://www.amazon.es/dp/B07CRD9B4R/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07CRD9B4R/?tag=tolees-21)

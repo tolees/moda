@@ -22,7 +22,7 @@ Ahora mismo tienes [Lee Morton Vaqueros Rectos  Negro  Black Rinse YC47   29W / 
 
 [![Lee Morton Vaqueros Rectos  Negro  Black](https://images-eu.ssl-images-amazon.com/images/I/41CBcxlWGBL._SL200_.jpg)](https://www.amazon.es/dp/B071GKJQSW/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B071GKJQSW/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Under Armour UA Boxed Sportstyle SS Camiseta  Hombre  Azul  
 
 [![Under Armour UA Boxed Sportstyle SS Cami](https://images-eu.ssl-images-amazon.com/images/I/41kMnIdZylL._SL200_.jpg)](https://www.amazon.es/dp/B078B2GVXN/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B078B2GVXN/?tag=tolees-21)

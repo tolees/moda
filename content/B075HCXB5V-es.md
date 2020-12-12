@@ -22,7 +22,7 @@ Ahora mismo tienes [Baglamor Chica Floral Bolso de Noche Bolsa de Embrague Bolso
 
 [![Baglamor Chica Floral Bolso de Noche Bol](https://images-eu.ssl-images-amazon.com/images/I/51olWGKwXEL._SL200_.jpg)](https://www.amazon.es/dp/B075HCXB5V/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B075HCXB5V/?tag=tolees-21)

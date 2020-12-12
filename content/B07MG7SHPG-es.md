@@ -22,7 +22,7 @@ Ahora mismo tienes [Disney Minnie 5595 Camiseta  Rojo Rouge  12 años para Niña
 
 [![Disney Minnie 5595 Camiseta  Rojo Rouge ](https://images-eu.ssl-images-amazon.com/images/I/51emwuJuTvL._SL200_.jpg)](https://www.amazon.es/dp/B07MG7SHPG/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07MG7SHPG/?tag=tolees-21)

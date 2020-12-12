@@ -22,7 +22,7 @@ Ahora mismo tienes [Wrangler Skinny  Vaqueros Skinny  Mujer  Azul  Forget Me Not
 
 [![Wrangler Skinny  Vaqueros Skinny  Mujer ](https://images-eu.ssl-images-amazon.com/images/I/31OrFlWHdGL._SL200_.jpg)](https://www.amazon.es/dp/B07FYK9ZS1/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07FYK9ZS1/?tag=tolees-21)

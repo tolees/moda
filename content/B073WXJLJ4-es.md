@@ -22,7 +22,7 @@ Ahora mismo tienes [Vero Moda Vmagoura LS Cardigan A  Chaqueta Punto Mujer  Blan
 
 [![Vero Moda Vmagoura LS Cardigan A  Chaque](https://images-eu.ssl-images-amazon.com/images/I/41hW6U3FkaL._SL200_.jpg)](https://www.amazon.es/dp/B073WXJLJ4/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B073WXJLJ4/?tag=tolees-21)

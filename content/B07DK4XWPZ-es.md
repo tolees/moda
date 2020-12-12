@@ -22,7 +22,7 @@ Ahora mismo tienes [Geox J Sandal Karly Girl D  Sandalias con Punta Abierta para
 
 [![Geox J Sandal Karly Girl D  Sandalias co](https://images-eu.ssl-images-amazon.com/images/I/41x230RAC6L._SL200_.jpg)](https://www.amazon.es/dp/B07DK4XWPZ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DK4XWPZ/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Pepe Jeans Lia  Parka para Mujer  Verde  Sherwood 664   Smal
 
 [![Pepe Jeans Lia  Parka para Mujer  Verde ](https://images-eu.ssl-images-amazon.com/images/I/41HShS1ZylL._SL200_.jpg)](https://www.amazon.es/dp/B079RMP46P/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B079RMP46P/?tag=tolees-21)

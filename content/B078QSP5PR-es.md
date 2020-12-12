@@ -22,7 +22,7 @@ Ahora mismo tienes [The North Face Arctic Swirl - Chaqueta de plumón para Niña
 
 [![The North Face Arctic Swirl - Chaqueta d](https://images-eu.ssl-images-amazon.com/images/I/41JljdL0xSL._SL200_.jpg)](https://www.amazon.es/dp/B078QSP5PR/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B078QSP5PR/?tag=tolees-21)

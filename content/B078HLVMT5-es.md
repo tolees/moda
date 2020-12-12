@@ -22,7 +22,7 @@ Ahora mismo tienes [Springfield 343374  Camisa Casual para Hombre   Gamma Azules
 
 [![Springfield 343374  Camisa Casual para H](https://images-eu.ssl-images-amazon.com/images/I/41qI4-S1iPL._SL200_.jpg)](https://www.amazon.es/dp/B078HLVMT5/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B078HLVMT5/?tag=tolees-21)

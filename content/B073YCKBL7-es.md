@@ -22,7 +22,7 @@ Ahora mismo tienes [Esprit 107ee1k051  Camisa Manga Larga para Mujer  Blanco  Of
 
 [![Esprit 107ee1k051  Camisa Manga Larga pa](https://images-eu.ssl-images-amazon.com/images/I/41JRMhBbAEL._SL200_.jpg)](https://www.amazon.es/dp/B073YCKBL7/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B073YCKBL7/?tag=tolees-21)

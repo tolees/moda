@@ -22,7 +22,7 @@ Ahora mismo tienes [REPLAY Joi  Vaqueros Skinny Mujer  Gris  Grey 9   W23/L30](h
 
 [![REPLAY Joi  Vaqueros Skinny Mujer  Gris ](https://images-eu.ssl-images-amazon.com/images/I/41ZPyoHASHL._SL200_.jpg)](https://www.amazon.es/dp/B07BSMS1BZ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07BSMS1BZ/?tag=tolees-21)

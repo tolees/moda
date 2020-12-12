@@ -22,7 +22,7 @@ Ahora mismo tienes [JACK & JONES Jormetallica tee LS Crew Neck  Camisa Manga Lar
 
 [![JACK & JONES Jormetallica tee LS Crew Ne](https://images-eu.ssl-images-amazon.com/images/I/41GxWAur0nL._SL200_.jpg)](https://www.amazon.es/dp/B07JNVFDF7/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07JNVFDF7/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Inside 4SOGC10 Sudadera  Blanco  Small  Tamaño del Fabrican
 
 [![Inside 4SOGC10 Sudadera  Blanco  Small  ](https://images-eu.ssl-images-amazon.com/images/I/512DVbea9WL._SL200_.jpg)](https://www.amazon.es/dp/B071RXSWBK/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B071RXSWBK/?tag=tolees-21)

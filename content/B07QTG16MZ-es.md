@@ -22,7 +22,7 @@ Ahora mismo tienes [Joinfun Mujeres Camisetas sin Mangas Tank Top  botón Strapp
 
 [![Joinfun Mujeres Camisetas sin Mangas Tan](https://images-eu.ssl-images-amazon.com/images/I/41rPfXzTroL._SL200_.jpg)](https://www.amazon.es/dp/B07QTG16MZ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07QTG16MZ/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Only & Sons Onsstan SS Fitted Polo tee Noos  Camiseta para H
 
 [![Only & Sons Onsstan SS Fitted Polo tee N](https://images-eu.ssl-images-amazon.com/images/I/41jytQbvs%2BL._SL200_.jpg)](https://www.amazon.es/dp/B01MRT7RU3/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01MRT7RU3/?tag=tolees-21)

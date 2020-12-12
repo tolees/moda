@@ -22,7 +22,7 @@ Ahora mismo tienes [Quiksilver Herren Monkey Wrench Sandals  Sandalias de Punta 
 
 [![Quiksilver Herren Monkey Wrench Sandals ](https://images-eu.ssl-images-amazon.com/images/I/3148HCM4X2L._SL200_.jpg)](https://www.amazon.es/dp/B00LMI2QDS/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00LMI2QDS/?tag=tolees-21)

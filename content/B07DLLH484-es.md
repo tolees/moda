@@ -22,7 +22,7 @@ Ahora mismo tienes [Springfield 4.2.Gym.MD. Daily Lace Cruda Camiseta de Manga L
 
 [![Springfield 4.2.Gym.MD. Daily Lace Cruda](https://images-eu.ssl-images-amazon.com/images/I/41aBIN5DOwL._SL200_.jpg)](https://www.amazon.es/dp/B07DLLH484/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DLLH484/?tag=tolees-21)

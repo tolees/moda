@@ -22,7 +22,7 @@ Ahora mismo tienes [Under Armour Fly by Short Pantalón Corto  Mujer  Azul  Oxfo
 
 [![Under Armour Fly by Short Pantalón Corto](https://images-eu.ssl-images-amazon.com/images/I/419287ch6UL._SL200_.jpg)](https://www.amazon.es/dp/B072BY3DL5/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B072BY3DL5/?tag=tolees-21)

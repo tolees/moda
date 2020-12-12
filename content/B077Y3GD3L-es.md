@@ -22,7 +22,7 @@ Ahora mismo tienes [Inside 5SFD20 Camiseta  Mujer  Verde  X-Small  Tamaño del F
 
 [![Inside 5SFD20 Camiseta  Mujer  Verde  X-](https://images-eu.ssl-images-amazon.com/images/I/41iHz%2BfaocL._SL200_.jpg)](https://www.amazon.es/dp/B077Y3GD3L/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B077Y3GD3L/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Lee Rider  Vaqueros slim Hombre  Gris  Grey Worn Wf   W29/L3
 
 [![Lee Rider  Vaqueros slim Hombre  Gris  G](https://images-eu.ssl-images-amazon.com/images/I/41bwCwz7vkL._SL200_.jpg)](https://www.amazon.es/dp/B07FT9C1KT/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07FT9C1KT/?tag=tolees-21)

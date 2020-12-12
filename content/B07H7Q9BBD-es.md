@@ -22,7 +22,7 @@ Ahora mismo tienes [Hush Puppies Plain Toe  Zapatos de Cordones Derby para Hombr
 
 [![Hush Puppies Plain Toe  Zapatos de Cordo](https://images-eu.ssl-images-amazon.com/images/I/31Yyo4YO2BL._SL200_.jpg)](https://www.amazon.es/dp/B07H7Q9BBD/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07H7Q9BBD/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Geox J Aveup B  Zapatillas Altas para Niñas  Gris  Dk Grey 
 
 [![Geox J Aveup B  Zapatillas Altas para Ni](https://images-eu.ssl-images-amazon.com/images/I/41PNXod-Z2L._SL200_.jpg)](https://www.amazon.es/dp/B06Y2KRL9R/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B06Y2KRL9R/?tag=tolees-21)

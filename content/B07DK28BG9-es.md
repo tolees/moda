@@ -22,7 +22,7 @@ Ahora mismo tienes [Geox J Android Boy A  Zapatillas para Niños  Azul  Navy/Ora
 
 [![Geox J Android Boy A  Zapatillas para Ni](https://images-eu.ssl-images-amazon.com/images/I/51TYZU5m3NL._SL200_.jpg)](https://www.amazon.es/dp/B07DK28BG9/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DK28BG9/?tag=tolees-21)

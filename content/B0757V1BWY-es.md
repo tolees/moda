@@ -22,7 +22,7 @@ Ahora mismo tienes [find. vaqueros pitillo hombre  Azul  Blue Black   W32/L32](h
 
 [![find. vaqueros pitillo hombre  Azul  Blu](https://images-eu.ssl-images-amazon.com/images/I/41HnbcZuJjL._SL200_.jpg)](https://www.amazon.es/dp/B0757V1BWY/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0757V1BWY/?tag=tolees-21)

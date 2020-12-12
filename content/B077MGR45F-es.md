@@ -22,7 +22,7 @@ Ahora mismo tienes [Only Onlmaia L/s Smock Top Gingham Wvn Blusa   Cloud Dancer 
 
 [![Only Onlmaia L/s Smock Top Gingham Wvn B](https://images-eu.ssl-images-amazon.com/images/I/41qmMxMXa3L._SL200_.jpg)](https://www.amazon.es/dp/B077MGR45F/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B077MGR45F/?tag=tolees-21)

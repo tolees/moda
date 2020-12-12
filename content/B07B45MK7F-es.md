@@ -22,7 +22,7 @@ Ahora mismo tienes [JACK & JONES Jjiglenn Jjoriginal NZ 005 Noos  Vaqueros Slim 
 
 [![JACK & JONES Jjiglenn Jjoriginal NZ 005 ](https://images-eu.ssl-images-amazon.com/images/I/41T8u2Z-VqL._SL200_.jpg)](https://www.amazon.es/dp/B07B45MK7F/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07B45MK7F/?tag=tolees-21)

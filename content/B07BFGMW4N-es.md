@@ -22,7 +22,7 @@ Ahora mismo tienes [G-Star 3301 High Straight 90 s Ankle Wmn  Vaqueros Mujer  Az
 
 [![G-Star 3301 High Straight 90 s Ankle Wmn](https://images-eu.ssl-images-amazon.com/images/I/41wkfkHYrCL._SL200_.jpg)](https://www.amazon.es/dp/B07BFGMW4N/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07BFGMW4N/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Under Armour - Camiseta de Manga Corta para Hombre  Estilo D
 
 [![Under Armour - Camiseta de Manga Corta p](https://images-eu.ssl-images-amazon.com/images/I/313CJUQlMxL._SL200_.jpg)](https://www.amazon.es/dp/B077XQVY78/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B077XQVY78/?tag=tolees-21)

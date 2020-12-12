@@ -22,7 +22,7 @@ Ahora mismo tienes [Clarks Komuter Spark  Zapatos de Cordones Derby para Hombre 
 
 [![Clarks Komuter Spark  Zapatos de Cordone](https://images-eu.ssl-images-amazon.com/images/I/41U7eFsO5YL._SL200_.jpg)](https://www.amazon.es/dp/B07B99XY4V/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07B99XY4V/?tag=tolees-21)

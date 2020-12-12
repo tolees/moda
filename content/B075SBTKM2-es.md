@@ -22,7 +22,7 @@ Ahora mismo tienes [Springfield 8232423 Chaqueta  Negro  Black   Tamaño del Fab
 
 [![Springfield 8232423 Chaqueta  Negro  Bla](https://images-eu.ssl-images-amazon.com/images/I/41SSNC7LHRL._SL200_.jpg)](https://www.amazon.es/dp/B075SBTKM2/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B075SBTKM2/?tag=tolees-21)

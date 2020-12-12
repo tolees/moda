@@ -22,7 +22,7 @@ Ahora mismo tienes [Dolores Promesas 107372  Vestido para Mujer  Marrón Leopa  
 
 [![Dolores Promesas 107372  Vestido para Mu](https://images-eu.ssl-images-amazon.com/images/I/31qXeLrxXlL._SL200_.jpg)](https://www.amazon.es/dp/B07D7MXXRL/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07D7MXXRL/?tag=tolees-21)

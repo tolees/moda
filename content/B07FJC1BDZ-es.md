@@ -22,7 +22,7 @@ Ahora mismo tienes [blue seven Damen-Langarmshirt Von mit Front-Druck Camiseta  
 
 [![blue seven Damen-Langarmshirt Von mit Fr](https://images-eu.ssl-images-amazon.com/images/I/41QBCuMucSL._SL200_.jpg)](https://www.amazon.es/dp/B07FJC1BDZ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07FJC1BDZ/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Under Armour HG Racer - Camiseta de Tirantes para Mujer  Muj
 
 [![Under Armour HG Racer - Camiseta de Tira](https://images-eu.ssl-images-amazon.com/images/I/41CxgX-HKPL._SL200_.jpg)](https://www.amazon.es/dp/B077XRTTV3/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B077XRTTV3/?tag=tolees-21)

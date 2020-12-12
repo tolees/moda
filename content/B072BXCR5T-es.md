@@ -22,7 +22,7 @@ Ahora mismo tienes [Under Armour UA Athlete SS Camiseta de Manga Corta  Hombre  
 
 [![Under Armour UA Athlete SS Camiseta de M](https://images-eu.ssl-images-amazon.com/images/I/41PXMgS01%2BL._SL200_.jpg)](https://www.amazon.es/dp/B072BXCR5T/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B072BXCR5T/?tag=tolees-21)

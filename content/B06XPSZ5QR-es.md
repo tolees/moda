@@ -22,7 +22,7 @@ Ahora mismo tienes [Desigual TS_Silvia  Camisa Manga Larga para Mujer   Negro 20
 
 [![Desigual TS_Silvia  Camisa Manga Larga p](https://images-eu.ssl-images-amazon.com/images/I/41K78orDb9L._SL200_.jpg)](https://www.amazon.es/dp/B06XPSZ5QR/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B06XPSZ5QR/?tag=tolees-21)

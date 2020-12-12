@@ -22,7 +22,7 @@ Ahora mismo tienes [PROSTEEL Collar Hombre Cuba Curb Chain](https://www.amazon.e
 
 [![PROSTEEL Collar Hombre Cuba Curb Chain](https://images-eu.ssl-images-amazon.com/images/I/41CA-lcrnUL._SL200_.jpg)](https://www.amazon.es/dp/B0776QV6DL/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0776QV6DL/?tag=tolees-21)

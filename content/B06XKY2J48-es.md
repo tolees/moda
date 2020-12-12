@@ -22,7 +22,7 @@ Ahora mismo tienes [Desigual Vest_achille  vestido Mujer  Negro  Black Denim 500
 
 [![Desigual Vest_achille  vestido Mujer  Ne](https://images-eu.ssl-images-amazon.com/images/I/31uTz%2BS8JIL._SL200_.jpg)](https://www.amazon.es/dp/B06XKY2J48/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B06XKY2J48/?tag=tolees-21)

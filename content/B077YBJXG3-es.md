@@ -22,7 +22,7 @@ Ahora mismo tienes [HIKARO Camiseta con Botones Hombre  Gris  Grey Marl   54  Ta
 
 [![HIKARO Camiseta con Botones Hombre  Gris](https://images-eu.ssl-images-amazon.com/images/I/41nBlvj7NvL._SL200_.jpg)](https://www.amazon.es/dp/B077YBJXG3/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B077YBJXG3/?tag=tolees-21)

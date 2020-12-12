@@ -22,7 +22,7 @@ Ahora mismo tienes [Goodyear applicabile corsé a Parka y Chaleco Hi Vis](https:
 
 [![Goodyear applicabile corsé a Parka y Cha](https://images-eu.ssl-images-amazon.com/images/I/517mJS2cPKL._SL200_.jpg)](https://www.amazon.es/dp/B00JSB57W8/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00JSB57W8/?tag=tolees-21)

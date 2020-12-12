@@ -22,7 +22,7 @@ Ahora mismo tienes [2TWO Lamus  Vestido para Mujer  Negro ES FR 38](https://www.
 
 [![2TWO Lamus  Vestido para Mujer  Negro ES](https://images-eu.ssl-images-amazon.com/images/I/31g8ELyvsvL._SL200_.jpg)](https://www.amazon.es/dp/B01J7IUKYQ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01J7IUKYQ/?tag=tolees-21)

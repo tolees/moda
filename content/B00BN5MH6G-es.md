@@ -22,7 +22,7 @@ Ahora mismo tienes [Pepe Jeans Flag Logo LS Pm501326  Camiseta Hombre  Gris  Gre
 
 [![Pepe Jeans Flag Logo LS Pm501326  Camise](https://images-eu.ssl-images-amazon.com/images/I/41GUVBS5xsL._SL200_.jpg)](https://www.amazon.es/dp/B00BN5MH6G/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00BN5MH6G/?tag=tolees-21)

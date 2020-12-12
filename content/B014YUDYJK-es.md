@@ -22,7 +22,7 @@ Ahora mismo tienes [Pepe Jeans Soho  Vaqueros para Mujer  Azul  10Oz Rinse Plus 
 
 [![Pepe Jeans Soho  Vaqueros para Mujer  Az](https://images-eu.ssl-images-amazon.com/images/I/41Hz8DLYZyL._SL200_.jpg)](https://www.amazon.es/dp/B014YUDYJK/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B014YUDYJK/?tag=tolees-21)

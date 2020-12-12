@@ -22,7 +22,7 @@ Ahora mismo tienes [Levi s Kids Skinny Fit N92223B - Vaqueros para niños  Azul 
 
 [![Levi s Kids Skinny Fit N92223B - Vaquero](https://images-eu.ssl-images-amazon.com/images/I/41HTOZvZPzL._SL200_.jpg)](https://www.amazon.es/dp/B00HJ5G1F2/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00HJ5G1F2/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Champion Crewneck T-Shirt-Institutionals Camiseta  Azul  NNY
 
 [![Champion Crewneck T-Shirt-Institutionals](https://images-eu.ssl-images-amazon.com/images/I/41YK0GzJ-hL._SL200_.jpg)](https://www.amazon.es/dp/B072ZXB5JB/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B072ZXB5JB/?tag=tolees-21)

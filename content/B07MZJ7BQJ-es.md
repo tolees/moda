@@ -22,7 +22,7 @@ Ahora mismo tienes [Superdry Whistler Geo tee Camiseta  Rosa  Hyper Pink MSO   S
 
 [![Superdry Whistler Geo tee Camiseta  Rosa](https://images-eu.ssl-images-amazon.com/images/I/41wEn0W0GbL._SL200_.jpg)](https://www.amazon.es/dp/B07MZJ7BQJ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07MZJ7BQJ/?tag=tolees-21)

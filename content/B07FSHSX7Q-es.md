@@ -22,7 +22,7 @@ Ahora mismo tienes [Clarks Tri Chloe  Sandalias de Talón Abierto para Mujer  Ve
 
 [![Clarks Tri Chloe  Sandalias de Talón Abi](https://images-eu.ssl-images-amazon.com/images/I/3123FLOSl9L._SL200_.jpg)](https://www.amazon.es/dp/B07FSHSX7Q/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07FSHSX7Q/?tag=tolees-21)

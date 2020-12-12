@@ -22,7 +22,7 @@ Ahora mismo tienes [Cortefiel 6327095  Camiseta Manga Corta para Mujer  Blanco  
 
 [![Cortefiel 6327095  Camiseta Manga Corta ](https://images-eu.ssl-images-amazon.com/images/I/41iPSVQOTIL._SL200_.jpg)](https://www.amazon.es/dp/B06XCN9CJ5/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B06XCN9CJ5/?tag=tolees-21)

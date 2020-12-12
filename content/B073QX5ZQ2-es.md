@@ -22,7 +22,7 @@ Ahora mismo tienes [Levi s 501 - Vaqueros Tapered para Hombre  Negro  Black Punk
 
 [![Levi s 501 - Vaqueros Tapered para Hombr](https://images-eu.ssl-images-amazon.com/images/I/41znA5uzAUL._SL200_.jpg)](https://www.amazon.es/dp/B073QX5ZQ2/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B073QX5ZQ2/?tag=tolees-21)

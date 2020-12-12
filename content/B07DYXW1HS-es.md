@@ -22,7 +22,7 @@ Ahora mismo tienes [Columbia Chaqueta con Capucha para Mujer  Windgates Hooded I
 
 [![Columbia Chaqueta con Capucha para Mujer](https://images-eu.ssl-images-amazon.com/images/I/41VRCOG2QUL._SL200_.jpg)](https://www.amazon.es/dp/B07DYXW1HS/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DYXW1HS/?tag=tolees-21)

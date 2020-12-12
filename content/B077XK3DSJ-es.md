@@ -22,7 +22,7 @@ Ahora mismo tienes [Under Armour Charged Cotton 6in  Bóxer para Hombre  Gris  S
 
 [![Under Armour Charged Cotton 6in  Bóxer p](https://images-eu.ssl-images-amazon.com/images/I/51C-Zf-uVBL._SL200_.jpg)](https://www.amazon.es/dp/B077XK3DSJ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B077XK3DSJ/?tag=tolees-21)

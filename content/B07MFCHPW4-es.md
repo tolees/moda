@@ -22,7 +22,7 @@ Ahora mismo tienes [Eono Essentials - Chaqueta de senderismo de entretiempo con 
 
 [![Eono Essentials - Chaqueta de senderismo](https://images-eu.ssl-images-amazon.com/images/I/314RZgGU0iL._SL200_.jpg)](https://www.amazon.es/dp/B07MFCHPW4/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07MFCHPW4/?tag=tolees-21)

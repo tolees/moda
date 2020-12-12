@@ -22,7 +22,7 @@ Ahora mismo tienes [G-STAR RAW Shape High Waist Super Skinny Vaqueros  Azul  Med
 
 [![G-STAR RAW Shape High Waist Super Skinny](https://images-eu.ssl-images-amazon.com/images/I/41lRGTdSQjL._SL200_.jpg)](https://www.amazon.es/dp/B0752XNWXM/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0752XNWXM/?tag=tolees-21)

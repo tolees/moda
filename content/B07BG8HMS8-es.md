@@ -22,7 +22,7 @@ Ahora mismo tienes [G-STAR RAW Garber Empral Wool Trench  Abrigo Hombre  Negro  
 
 [![G-STAR RAW Garber Empral Wool Trench  Ab](https://images-eu.ssl-images-amazon.com/images/I/41CGqKjJQUL._SL200_.jpg)](https://www.amazon.es/dp/B07BG8HMS8/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07BG8HMS8/?tag=tolees-21)

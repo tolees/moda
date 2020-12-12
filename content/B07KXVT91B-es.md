@@ -22,7 +22,7 @@ Ahora mismo tienes [Mexx Falda   Plisee Printed 318187   40  Talla del Fabricant
 
 [![Mexx Falda   Plisee Printed 318187   40 ](https://images-eu.ssl-images-amazon.com/images/I/41L1a4yPPSL._SL200_.jpg)](https://www.amazon.es/dp/B07KXVT91B/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07KXVT91B/?tag=tolees-21)

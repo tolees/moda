@@ -22,7 +22,7 @@ Ahora mismo tienes [Superdry Academy Athletics tee Camiseta de Tirantes  Verde  
 
 [![Superdry Academy Athletics tee Camiseta ](https://images-eu.ssl-images-amazon.com/images/I/41z4MmQ7uKL._SL200_.jpg)](https://www.amazon.es/dp/B07KMGVH7N/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07KMGVH7N/?tag=tolees-21)

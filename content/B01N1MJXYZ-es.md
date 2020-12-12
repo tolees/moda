@@ -22,7 +22,7 @@ Ahora mismo tienes [Covert Overt CC17SD10  Vestido para Mujer  Negro  Black 100 
 
 [![Covert Overt CC17SD10  Vestido para Muje](https://images-eu.ssl-images-amazon.com/images/I/31%2BM2nlT4DL._SL200_.jpg)](https://www.amazon.es/dp/B01N1MJXYZ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01N1MJXYZ/?tag=tolees-21)

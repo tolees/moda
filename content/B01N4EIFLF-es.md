@@ -22,7 +22,7 @@ Ahora mismo tienes [Vero Moda Vmzoe LS Tencel Bomber Jacket Ga Chaqueta  Marrón
 
 [![Vero Moda Vmzoe LS Tencel Bomber Jacket ](https://images-eu.ssl-images-amazon.com/images/I/516WWdwJy3L._SL200_.jpg)](https://www.amazon.es/dp/B01N4EIFLF/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01N4EIFLF/?tag=tolees-21)

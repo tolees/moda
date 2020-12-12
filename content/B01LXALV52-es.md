@@ -22,7 +22,7 @@ Ahora mismo tienes [Tamaris 26393  Botines para Mujer  Marrón  Taupe 341   39 E
 
 [![Tamaris 26393  Botines para Mujer  Marró](https://images-eu.ssl-images-amazon.com/images/I/51uBlZMyJ2L._SL200_.jpg)](https://www.amazon.es/dp/B01LXALV52/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01LXALV52/?tag=tolees-21)

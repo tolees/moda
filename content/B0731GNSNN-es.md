@@ -22,7 +22,7 @@ Ahora mismo tienes [Vila Clothes Vibless 7/8 Sleeve Knit Cardigan  Chaqueta Punt
 
 [![Vila Clothes Vibless 7/8 Sleeve Knit Car](https://images-eu.ssl-images-amazon.com/images/I/418U0xEG5vL._SL200_.jpg)](https://www.amazon.es/dp/B0731GNSNN/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0731GNSNN/?tag=tolees-21)

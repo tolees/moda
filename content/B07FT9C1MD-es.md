@@ -22,7 +22,7 @@ Ahora mismo tienes [Lee Scarlett  Vaqueros Skinny para Mujer  Negro  Raw Pitch W
 
 [![Lee Scarlett  Vaqueros Skinny para Mujer](https://images-eu.ssl-images-amazon.com/images/I/31dk31qc-mL._SL200_.jpg)](https://www.amazon.es/dp/B07FT9C1MD/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07FT9C1MD/?tag=tolees-21)

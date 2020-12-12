@@ -22,7 +22,7 @@ Ahora mismo tienes [REPLAY Jacksy  Vaqueros Straight Mujer  Azul  Light Blue Den
 
 [![REPLAY Jacksy  Vaqueros Straight Mujer  ](https://images-eu.ssl-images-amazon.com/images/I/41OPvod%2B2IL._SL200_.jpg)](https://www.amazon.es/dp/B07BSMP1PF/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07BSMP1PF/?tag=tolees-21)

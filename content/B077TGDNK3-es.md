@@ -22,7 +22,7 @@ Ahora mismo tienes [lodi Elena-Gosr  Zapatos con Tacon y Correa de Tobillo para 
 
 [![lodi Elena-Gosr  Zapatos con Tacon y Cor](https://images-eu.ssl-images-amazon.com/images/I/41uJbY65YTL._SL200_.jpg)](https://www.amazon.es/dp/B077TGDNK3/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B077TGDNK3/?tag=tolees-21)

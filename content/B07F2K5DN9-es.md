@@ -22,7 +22,7 @@ Ahora mismo tienes [Levi s SS Set-in Sunset Pocket  Camiseta para Hombre  Azul  
 
 [![Levi s SS Set-in Sunset Pocket  Camiseta](https://images-eu.ssl-images-amazon.com/images/I/41F7oaI%2B-2L._SL200_.jpg)](https://www.amazon.es/dp/B07F2K5DN9/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07F2K5DN9/?tag=tolees-21)

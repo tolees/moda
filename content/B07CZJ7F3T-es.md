@@ -22,7 +22,7 @@ Ahora mismo tienes [Under Armour UA Tech Graphic Short Nov Pantalón Corto  Homb
 
 [![Under Armour UA Tech Graphic Short Nov P](https://images-eu.ssl-images-amazon.com/images/I/41m0PMxs8IL._SL200_.jpg)](https://www.amazon.es/dp/B07CZJ7F3T/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07CZJ7F3T/?tag=tolees-21)

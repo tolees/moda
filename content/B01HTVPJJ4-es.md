@@ -22,7 +22,7 @@ Ahora mismo tienes [edc by ESPRIT 996CC2J904  sudadera Hombre  Azul  NAVY   Smal
 
 [![edc by ESPRIT 996CC2J904  sudadera Hombr](https://images-eu.ssl-images-amazon.com/images/I/512WNOrGV3L._SL200_.jpg)](https://www.amazon.es/dp/B01HTVPJJ4/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01HTVPJJ4/?tag=tolees-21)

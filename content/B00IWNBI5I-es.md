@@ -22,7 +22,7 @@ Ahora mismo tienes [Jack & Jones Tim Original - Vaqueros slim para hombre  Azul 
 
 [![Jack & Jones Tim Original - Vaqueros sli](https://images-eu.ssl-images-amazon.com/images/I/41tuXnRPiEL._SL200_.jpg)](https://www.amazon.es/dp/B00IWNBI5I/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00IWNBI5I/?tag=tolees-21)

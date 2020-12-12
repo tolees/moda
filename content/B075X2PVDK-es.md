@@ -22,7 +22,7 @@ Ahora mismo tienes [find. NEWSTW024 vaqueros pitillo mujer  Negro  Clean Black  
 
 [![find. NEWSTW024 vaqueros pitillo mujer  ](https://images-eu.ssl-images-amazon.com/images/I/41N3HqIdnQL._SL200_.jpg)](https://www.amazon.es/dp/B075X2PVDK/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B075X2PVDK/?tag=tolees-21)

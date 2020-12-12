@@ -22,7 +22,7 @@ Ahora mismo tienes [Champion Hooded Sweatshirt Sudadera con Capucha  Verde  Pag/
 
 [![Champion Hooded Sweatshirt Sudadera con ](https://images-eu.ssl-images-amazon.com/images/I/41NI3i3pFrL._SL200_.jpg)](https://www.amazon.es/dp/B07DGVM7QK/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DGVM7QK/?tag=tolees-21)

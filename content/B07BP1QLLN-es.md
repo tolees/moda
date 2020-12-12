@@ -22,7 +22,7 @@ Ahora mismo tienes [Chaleco de seguridad reflectante con múltiples bolsillos pa
 
 [![Chaleco de seguridad reflectante con múl](https://images-eu.ssl-images-amazon.com/images/I/41AnTkLCSPL._SL200_.jpg)](https://www.amazon.es/dp/B07BP1QLLN/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07BP1QLLN/?tag=tolees-21)

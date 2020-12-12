@@ -22,7 +22,7 @@ Ahora mismo tienes [Ray-Ban RB 3548n Gafas de sol  Gold  48 para Hombre](https:/
 
 [![Ray-Ban RB 3548n Gafas de sol  Gold  48 ](https://images-eu.ssl-images-amazon.com/images/I/21oF22JiWxL._SL200_.jpg)](https://www.amazon.es/dp/B01EXRUN16/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01EXRUN16/?tag=tolees-21)

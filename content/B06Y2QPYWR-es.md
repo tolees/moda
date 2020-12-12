@@ -22,7 +22,7 @@ Ahora mismo tienes [Geox U Mattias B ABX C  Botas Chukka para Hombre  Negro  Bla
 
 [![Geox U Mattias B ABX C  Botas Chukka par](https://images-eu.ssl-images-amazon.com/images/I/41uC5u6xFsL._SL200_.jpg)](https://www.amazon.es/dp/B06Y2QPYWR/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B06Y2QPYWR/?tag=tolees-21)

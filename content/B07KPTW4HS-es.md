@@ -22,7 +22,7 @@ Ahora mismo tienes [Replay Anbass  Vaqueros Slim para Hombre  Azul  Dark Blue 7 
 
 [![Replay Anbass  Vaqueros Slim para Hombre](https://images-eu.ssl-images-amazon.com/images/I/41V0vZmV0oL._SL200_.jpg)](https://www.amazon.es/dp/B07KPTW4HS/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07KPTW4HS/?tag=tolees-21)

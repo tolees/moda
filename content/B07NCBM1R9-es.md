@@ -22,7 +22,7 @@ Ahora mismo tienes [Pepe Jeans Mable Vaqueros Straight  Azul  Medium Used Denim 
 
 [![Pepe Jeans Mable Vaqueros Straight  Azul](https://images-eu.ssl-images-amazon.com/images/I/41l0M-kgbAL._SL200_.jpg)](https://www.amazon.es/dp/B07NCBM1R9/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07NCBM1R9/?tag=tolees-21)

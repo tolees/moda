@@ -22,7 +22,7 @@ Ahora mismo tienes [Tommy Jeans Mujer Summer Script Logo Tank Camisa Manga Corta
 
 [![Tommy Jeans Mujer Summer Script Logo Tan](https://images-eu.ssl-images-amazon.com/images/I/41WFtvEgETL._SL200_.jpg)](https://www.amazon.es/dp/B07CDYM4WW/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07CDYM4WW/?tag=tolees-21)

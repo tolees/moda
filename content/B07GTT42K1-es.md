@@ -22,7 +22,7 @@ Ahora mismo tienes [Berg Outdoor Fragas Chaqueta  Hombre  Azul  Snorkel   L](htt
 
 [![Berg Outdoor Fragas Chaqueta  Hombre  Az](https://images-eu.ssl-images-amazon.com/images/I/41tnvlfHrWL._SL200_.jpg)](https://www.amazon.es/dp/B07GTT42K1/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07GTT42K1/?tag=tolees-21)

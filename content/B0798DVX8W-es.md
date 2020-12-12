@@ -22,7 +22,7 @@ Ahora mismo tienes [G-STAR RAW Cart Slide II  Chanclas para Mujer  Negro  Black/
 
 [![G-STAR RAW Cart Slide II  Chanclas para ](https://images-eu.ssl-images-amazon.com/images/I/31laDAwaEwL._SL200_.jpg)](https://www.amazon.es/dp/B0798DVX8W/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0798DVX8W/?tag=tolees-21)

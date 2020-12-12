@@ -22,7 +22,7 @@ Ahora mismo tienes [G-STAR RAW Midge Zip Low Waist Super Skinny Vaqueros  rinsed
 
 [![G-STAR RAW Midge Zip Low Waist Super Ski](https://images-eu.ssl-images-amazon.com/images/I/31rtXZ49w%2BL._SL200_.jpg)](https://www.amazon.es/dp/B00SF8JWC6/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00SF8JWC6/?tag=tolees-21)

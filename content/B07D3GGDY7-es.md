@@ -22,7 +22,7 @@ Ahora mismo tienes [AURIQUE Capri Stripe Leggings Deporte  Gris  Grey Marl/Black
 
 [![AURIQUE Capri Stripe Leggings Deporte  G](https://images-eu.ssl-images-amazon.com/images/I/41TvOSjfTPL._SL200_.jpg)](https://www.amazon.es/dp/B07D3GGDY7/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07D3GGDY7/?tag=tolees-21)

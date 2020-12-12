@@ -22,7 +22,7 @@ Ahora mismo tienes [JACK & JONES Jjiglenn Jjicon JJ 257 50sps Noos  Vaqueros Sli
 
 [![JACK & JONES Jjiglenn Jjicon JJ 257 50sp](https://images-eu.ssl-images-amazon.com/images/I/41I--JlL6EL._SL200_.jpg)](https://www.amazon.es/dp/B07FPXF5L5/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07FPXF5L5/?tag=tolees-21)

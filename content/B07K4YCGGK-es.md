@@ -22,7 +22,7 @@ Ahora mismo tienes [Antony Morato Maglia Girocollo A Righe Jersey  Gris  Grigio 
 
 [![Antony Morato Maglia Girocollo A Righe J](https://images-eu.ssl-images-amazon.com/images/I/41-jv4L-NmL._SL200_.jpg)](https://www.amazon.es/dp/B07K4YCGGK/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07K4YCGGK/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Tommy Jeans Mujer BASIC CN T-SHIRT S/S 13 Camiseta Manga Cor
 
 [![Tommy Jeans Mujer BASIC CN T-SHIRT S/S 1](https://images-eu.ssl-images-amazon.com/images/I/412wNB611SL._SL200_.jpg)](https://www.amazon.es/dp/B01N4DLL63/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01N4DLL63/?tag=tolees-21)

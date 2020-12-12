@@ -22,7 +22,7 @@ Ahora mismo tienes [Esprit Accessoires - 019ea1o040  Bolso Mujer  Negro  Black  
 
 [![Esprit Accessoires - 019ea1o040  Bolso M](https://images-eu.ssl-images-amazon.com/images/I/31hQuL3f3OL._SL200_.jpg)](https://www.amazon.es/dp/B07KYGGX7J/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07KYGGX7J/?tag=tolees-21)

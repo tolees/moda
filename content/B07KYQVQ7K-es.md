@@ -22,7 +22,7 @@ Ahora mismo tienes [Springfield 4 90 Gingham Check Mel Camisa Casual   Gama Verd
 
 [![Springfield 4 90 Gingham Check Mel Camis](https://images-eu.ssl-images-amazon.com/images/I/41hj1EBqGxL._SL200_.jpg)](https://www.amazon.es/dp/B07KYQVQ7K/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07KYQVQ7K/?tag=tolees-21)

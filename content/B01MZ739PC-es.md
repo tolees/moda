@@ -22,7 +22,7 @@ Ahora mismo tienes [KRISP 6607-TURBLK-08  Vestido Corto Patinadora Vuelo Fruncid
 
 [![KRISP 6607-TURBLK-08  Vestido Corto Pati](https://images-eu.ssl-images-amazon.com/images/I/51GWhkpkJ8L._SL200_.jpg)](https://www.amazon.es/dp/B01MZ739PC/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01MZ739PC/?tag=tolees-21)

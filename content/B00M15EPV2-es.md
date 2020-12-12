@@ -22,7 +22,7 @@ Ahora mismo tienes [Timberland Adventure Seeker 2 Strap  Sandalias Unisex niños
 
 [![Timberland Adventure Seeker 2 Strap  San](https://images-eu.ssl-images-amazon.com/images/I/41yWKOck%2BuL._SL200_.jpg)](https://www.amazon.es/dp/B00M15EPV2/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00M15EPV2/?tag=tolees-21)

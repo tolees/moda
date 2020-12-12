@@ -22,7 +22,7 @@ Ahora mismo tienes [Iris & Lilly Tanga Estampado con Encaje para Mujer  Pack de 
 
 [![Iris & Lilly Tanga Estampado con Encaje ](https://images-eu.ssl-images-amazon.com/images/I/41siEub4lrL._SL200_.jpg)](https://www.amazon.es/dp/B0744NZGM5/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0744NZGM5/?tag=tolees-21)

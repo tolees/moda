@@ -22,7 +22,7 @@ Ahora mismo tienes [Dolores Promesas PV19 1036BROSA Sudadera  Mujer  Rosa  Rosa 
 
 [![Dolores Promesas PV19 1036BROSA Sudadera](https://images-eu.ssl-images-amazon.com/images/I/417PnmK9WrL._SL200_.jpg)](https://www.amazon.es/dp/B07LFF2PL2/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07LFF2PL2/?tag=tolees-21)

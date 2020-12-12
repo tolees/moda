@@ -22,7 +22,7 @@ Ahora mismo tienes [Zapatos de trabajo de seguridad Alto de piel negro S3](https
 
 [![Zapatos de trabajo de seguridad Alto de ](https://images-eu.ssl-images-amazon.com/images/I/51IZxeZQ14L._SL200_.jpg)](https://www.amazon.es/dp/B011BQHWFC/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B011BQHWFC/?tag=tolees-21)

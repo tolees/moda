@@ -22,7 +22,7 @@ Ahora mismo tienes [Springfield 5.Pa.Falda Larga Lisa Circular Falda  Mujer  Ver
 
 [![Springfield 5.Pa.Falda Larga Lisa Circul](https://images-eu.ssl-images-amazon.com/images/I/31N0qDeQOzL._SL200_.jpg)](https://www.amazon.es/dp/B07KYXTK4N/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07KYXTK4N/?tag=tolees-21)

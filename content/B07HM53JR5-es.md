@@ -22,7 +22,7 @@ Ahora mismo tienes [XAED - Camiseta térmica de esquí para mujer  gris/azul cla
 
 [![XAED - Camiseta térmica de esquí para mu](https://images-eu.ssl-images-amazon.com/images/I/41nDezHpt-L._SL200_.jpg)](https://www.amazon.es/dp/B07HM53JR5/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07HM53JR5/?tag=tolees-21)

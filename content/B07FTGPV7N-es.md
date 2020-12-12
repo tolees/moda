@@ -22,7 +22,7 @@ Ahora mismo tienes [Lee Scarlett  Vaqueros skinny para MujerAzul  Light Mid ](ht
 
 [![Lee Scarlett  Vaqueros skinny para Mujer](https://images-eu.ssl-images-amazon.com/images/I/31Kwr0x1QkL._SL200_.jpg)](https://www.amazon.es/dp/B07FTGPV7N/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07FTGPV7N/?tag=tolees-21)

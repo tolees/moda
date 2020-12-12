@@ -22,7 +22,7 @@ Ahora mismo tienes [Tommy Hilfiger Badge Textile Beach Sandal  Chanclas para Hom
 
 [![Tommy Hilfiger Badge Textile Beach Sanda](https://images-eu.ssl-images-amazon.com/images/I/31JOYSfxKIL._SL200_.jpg)](https://www.amazon.es/dp/B07L3G61NC/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07L3G61NC/?tag=tolees-21)

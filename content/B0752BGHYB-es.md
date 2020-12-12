@@ -22,7 +22,7 @@ Ahora mismo tienes [G-STAR RAW 5622 Mid Waist Skinny Vaqueros  Negro  rinsed 897
 
 [![G-STAR RAW 5622 Mid Waist Skinny Vaquero](https://images-eu.ssl-images-amazon.com/images/I/31UD7rwZVSL._SL200_.jpg)](https://www.amazon.es/dp/B0752BGHYB/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0752BGHYB/?tag=tolees-21)

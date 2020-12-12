@@ -22,7 +22,7 @@ Ahora mismo tienes [XTI 48606  Botines para Mujer  Verde Kaki  39 EU](https://ww
 
 [![XTI 48606  Botines para Mujer  Verde Kak](https://images-eu.ssl-images-amazon.com/images/I/41bE2b99uwL._SL200_.jpg)](https://www.amazon.es/dp/B07D97DXX9/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07D97DXX9/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Benetton 2BA2532W5  Chaqueta para Mujer  Negro  40 ES  10 UK
 
 [![Benetton 2BA2532W5  Chaqueta para Mujer ](https://images-eu.ssl-images-amazon.com/images/I/41dlmc46xHL._SL200_.jpg)](https://www.amazon.es/dp/B01IP7XLUK/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01IP7XLUK/?tag=tolees-21)

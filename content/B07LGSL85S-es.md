@@ -22,7 +22,7 @@ Ahora mismo tienes [Guess Lelani  Sandal /Leathe  Zapatos de tacón con Punta Ab
 
 [![Guess Lelani  Sandal /Leathe  Zapatos de](https://images-eu.ssl-images-amazon.com/images/I/41moJKBi7JL._SL200_.jpg)](https://www.amazon.es/dp/B07LGSL85S/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07LGSL85S/?tag=tolees-21)

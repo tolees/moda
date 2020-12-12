@@ -22,7 +22,7 @@ Ahora mismo tienes [LEGO Saxton 652  Camiseta de Pijama para Niños  Rojo  Red  
 
 [![LEGO Saxton 652  Camiseta de Pijama para](https://images-eu.ssl-images-amazon.com/images/I/518HKtFgxJL._SL200_.jpg)](https://www.amazon.es/dp/B06XQGCBD5/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B06XQGCBD5/?tag=tolees-21)

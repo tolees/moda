@@ -22,7 +22,7 @@ Ahora mismo tienes [Love Moschino Boyfit 5pockets Denim Trousers Vaqueros Boyfri
 
 [![Love Moschino Boyfit 5pockets Denim Trou](https://images-eu.ssl-images-amazon.com/images/I/41pvUUT6u6L._SL200_.jpg)](https://www.amazon.es/dp/B07KX9HL7J/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07KX9HL7J/?tag=tolees-21)

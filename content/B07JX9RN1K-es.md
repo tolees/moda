@@ -22,7 +22,7 @@ Ahora mismo tienes [XTI 86080  Bolso Mochila para Mujer  Marrón  Camel   34x27x
 
 [![XTI 86080  Bolso Mochila para Mujer  Mar](https://images-eu.ssl-images-amazon.com/images/I/41SzJwIBhNL._SL200_.jpg)](https://www.amazon.es/dp/B07JX9RN1K/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07JX9RN1K/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Desigual Girl Knit T-Shirt Short Sleeve  TS_Earwig  Camiseta
 
 [![Desigual Girl Knit T-Shirt Short Sleeve ](https://images-eu.ssl-images-amazon.com/images/I/41BO2LBxIFL._SL200_.jpg)](https://www.amazon.es/dp/B07GZ3RB7C/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07GZ3RB7C/?tag=tolees-21)

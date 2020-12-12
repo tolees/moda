@@ -22,7 +22,7 @@ Ahora mismo tienes [New Look Wide Foot Deena  Botines para Mujer  Beige  Tan 18 
 
 [![New Look Wide Foot Deena  Botines para M](https://images-eu.ssl-images-amazon.com/images/I/41uREC1wOuL._SL200_.jpg)](https://www.amazon.es/dp/B07GDL8NG5/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07GDL8NG5/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Levi s Barstow Western Camisa   Wildcat Indigo 2 0303   X-La
 
 [![Levi s Barstow Western Camisa   Wildcat ](https://images-eu.ssl-images-amazon.com/images/I/515s01NLN3L._SL200_.jpg)](https://www.amazon.es/dp/B07GDQDYC4/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07GDQDYC4/?tag=tolees-21)

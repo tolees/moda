@@ -22,7 +22,7 @@ Ahora mismo tienes [Levi s Martina Puffer Chaqueta  Azul  Medieval Blue 0004   S
 
 [![Levi s Martina Puffer Chaqueta  Azul  Me](https://images-eu.ssl-images-amazon.com/images/I/41MBUeEU7EL._SL200_.jpg)](https://www.amazon.es/dp/B07F29V8YQ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07F29V8YQ/?tag=tolees-21)

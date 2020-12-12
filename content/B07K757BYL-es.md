@@ -22,7 +22,7 @@ Ahora mismo tienes [Levi s Plus Size Pl Western Blusa  Azul  Radio Starr  G2  00
 
 [![Levi s Plus Size Pl Western Blusa  Azul ](https://images-eu.ssl-images-amazon.com/images/I/413YqqpksLL._SL200_.jpg)](https://www.amazon.es/dp/B07K757BYL/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07K757BYL/?tag=tolees-21)

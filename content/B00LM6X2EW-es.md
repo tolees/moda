@@ -22,7 +22,7 @@ Ahora mismo tienes [Havaianas Slim  Chanclas para Mujer  Gris  Steel Gray 5178  
 
 [![Havaianas Slim  Chanclas para Mujer  Gri](https://images-eu.ssl-images-amazon.com/images/I/41st0Yq8QfL._SL200_.jpg)](https://www.amazon.es/dp/B00LM6X2EW/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00LM6X2EW/?tag=tolees-21)

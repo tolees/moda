@@ -22,7 +22,7 @@ Ahora mismo tienes [FIND  Botines para Mujer  Rosa  Nude   40 EU](https://www.am
 
 [![FIND  Botines para Mujer  Rosa  Nude   4](https://images-eu.ssl-images-amazon.com/images/I/31NMSNCF0jL._SL200_.jpg)](https://www.amazon.es/dp/B06W2N3MBX/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B06W2N3MBX/?tag=tolees-21)

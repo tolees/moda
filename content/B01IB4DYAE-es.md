@@ -22,7 +22,7 @@ Ahora mismo tienes [Bonita Platzierter Druck  3/4-Arm  Blusa Mujer  Gris  frost 
 
 [![Bonita Platzierter Druck  3/4-Arm  Blusa](https://images-eu.ssl-images-amazon.com/images/I/51HFc--RszL._SL200_.jpg)](https://www.amazon.es/dp/B01IB4DYAE/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01IB4DYAE/?tag=tolees-21)

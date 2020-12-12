@@ -22,7 +22,7 @@ Ahora mismo tienes [GNEDIAE para Hombre Botas de Senderismo Impermeables de Ocio
 
 [![GNEDIAE para Hombre Botas de Senderismo ](https://images-eu.ssl-images-amazon.com/images/I/518PvAkg17L._SL200_.jpg)](https://www.amazon.es/dp/B07JW5MG5K/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07JW5MG5K/?tag=tolees-21)

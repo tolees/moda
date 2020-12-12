@@ -22,7 +22,7 @@ Ahora mismo tienes [XTI 55988  Botines para Niñas  Rosa Nude  37 EU](https://ww
 
 [![XTI 55988  Botines para Niñas  Rosa Nude](https://images-eu.ssl-images-amazon.com/images/I/4186WPzWLkL._SL200_.jpg)](https://www.amazon.es/dp/B07D97C6PN/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07D97C6PN/?tag=tolees-21)

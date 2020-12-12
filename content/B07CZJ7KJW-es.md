@@ -22,7 +22,7 @@ Ahora mismo tienes [G-STAR RAW 5620 3d Zip Knee Skinny  Vaqueros skinny Hombre  
 
 [![G-STAR RAW 5620 3d Zip Knee Skinny  Vaqu](https://images-eu.ssl-images-amazon.com/images/I/31F66wvA7mL._SL200_.jpg)](https://www.amazon.es/dp/B07CZJ7KJW/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07CZJ7KJW/?tag=tolees-21)

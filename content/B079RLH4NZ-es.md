@@ -22,7 +22,7 @@ Ahora mismo tienes [Pepe Jeans Adrian PM505925 Camiseta  Rojo  Dk Wine 499   X-L
 
 [![Pepe Jeans Adrian PM505925 Camiseta  Roj](https://images-eu.ssl-images-amazon.com/images/I/41O6NiJoKSL._SL200_.jpg)](https://www.amazon.es/dp/B079RLH4NZ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B079RLH4NZ/?tag=tolees-21)

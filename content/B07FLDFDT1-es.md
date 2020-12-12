@@ -22,7 +22,7 @@ Ahora mismo tienes [Superdry 34th St tee  Camiseta de Tirantes para Hombre  Gris
 
 [![Superdry 34th St tee  Camiseta de Tirant](https://images-eu.ssl-images-amazon.com/images/I/41HebI8g4tL._SL200_.jpg)](https://www.amazon.es/dp/B07FLDFDT1/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07FLDFDT1/?tag=tolees-21)

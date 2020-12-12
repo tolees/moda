@@ -22,7 +22,7 @@ Ahora mismo tienes [Quiksilver Carver Suede M Sndl Sandalias con Plataforma Plan
 
 [![Quiksilver Carver Suede M Sndl Sandalias](https://images-eu.ssl-images-amazon.com/images/I/31ldhUqLD7L._SL200_.jpg)](https://www.amazon.es/dp/B00LMKLG2S/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00LMKLG2S/?tag=tolees-21)

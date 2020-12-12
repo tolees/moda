@@ -22,7 +22,7 @@ Ahora mismo tienes [Pepe Jeans Charing  Camiseta Hombre  Gris  Grey Marl   X-Lar
 
 [![Pepe Jeans Charing  Camiseta Hombre  Gri](https://images-eu.ssl-images-amazon.com/images/I/41PC4XLR0jL._SL200_.jpg)](https://www.amazon.es/dp/B06XTHHNH8/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B06XTHHNH8/?tag=tolees-21)

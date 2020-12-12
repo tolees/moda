@@ -22,7 +22,7 @@ Ahora mismo tienes [adidas Daily 2.0  Zapatos de Baloncesto para Hombre  Blanco 
 
 [![adidas Daily 2.0  Zapatos de Baloncesto ](https://images-eu.ssl-images-amazon.com/images/I/41pCgg4jZBL._SL200_.jpg)](https://www.amazon.es/dp/B077VPV3BY/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B077VPV3BY/?tag=tolees-21)

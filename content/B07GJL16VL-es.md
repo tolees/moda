@@ -22,7 +22,7 @@ Ahora mismo tienes [GRAT.UNIC Sauna Chaleco Faja Reductora Trajes de sudoración
 
 [![GRAT.UNIC Sauna Chaleco Faja Reductora T](https://images-eu.ssl-images-amazon.com/images/I/41Mb-6A8hlL._SL200_.jpg)](https://www.amazon.es/dp/B07GJL16VL/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07GJL16VL/?tag=tolees-21)

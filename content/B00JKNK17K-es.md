@@ -22,7 +22,7 @@ Ahora mismo tienes [Camper Pelotas XL  Zapatos de cordones Oxford para Hombre  N
 
 [![Camper Pelotas XL  Zapatos de cordones O](https://images-eu.ssl-images-amazon.com/images/I/31OaEQkElNL._SL200_.jpg)](https://www.amazon.es/dp/B00JKNK17K/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00JKNK17K/?tag=tolees-21)

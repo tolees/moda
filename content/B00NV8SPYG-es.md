@@ -22,7 +22,7 @@ Ahora mismo tienes [Naf Naf Pantalón Gris Oscuro ES 38](https://www.amazon.es/d
 
 [![Naf Naf Pantalón Gris Oscuro ES 38](https://images-eu.ssl-images-amazon.com/images/I/31E3op2v4xL._SL200_.jpg)](https://www.amazon.es/dp/B00NV8SPYG/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00NV8SPYG/?tag=tolees-21)

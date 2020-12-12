@@ -22,7 +22,7 @@ Ahora mismo tienes [Springfield Frq Stripes Block Gg12  Jersey para Hombre   Gam
 
 [![Springfield Frq Stripes Block Gg12  Jers](https://images-eu.ssl-images-amazon.com/images/I/41SqUX0hoSL._SL200_.jpg)](https://www.amazon.es/dp/B07DL9GWF1/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DL9GWF1/?tag=tolees-21)

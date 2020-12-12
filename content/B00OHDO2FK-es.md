@@ -22,7 +22,7 @@ Ahora mismo tienes [Kappa Pepito - Chanclas unisex  color negro/blanco  talla 41
 
 [![Kappa Pepito - Chanclas unisex  color ne](https://images-eu.ssl-images-amazon.com/images/I/31uPJyYF9XL._SL200_.jpg)](https://www.amazon.es/dp/B00OHDO2FK/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00OHDO2FK/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Inside 4SPGN07  Sudadera para Mujer  Multicolor  Medium  Tam
 
 [![Inside 4SPGN07  Sudadera para Mujer  Mul](https://images-eu.ssl-images-amazon.com/images/I/41oQw3rig5L._SL200_.jpg)](https://www.amazon.es/dp/B072HSKG95/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B072HSKG95/?tag=tolees-21)

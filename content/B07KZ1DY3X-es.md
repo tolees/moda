@@ -22,7 +22,7 @@ Ahora mismo tienes [Springfield 2.Gym.Vestido Jaquard SPO Vestido  Mujer  Azul  
 
 [![Springfield 2.Gym.Vestido Jaquard SPO Ve](https://images-eu.ssl-images-amazon.com/images/I/31D%2BTu5Xe%2BL._SL200_.jpg)](https://www.amazon.es/dp/B07KZ1DY3X/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07KZ1DY3X/?tag=tolees-21)

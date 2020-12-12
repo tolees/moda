@@ -22,7 +22,7 @@ Ahora mismo tienes [Joma Katy - Camiseta para Mujer  Color Azul Marino/Blanco  T
 
 [![Joma Katy - Camiseta para Mujer  Color A](https://images-eu.ssl-images-amazon.com/images/I/41g7kFgSWiL._SL200_.jpg)](https://www.amazon.es/dp/B010FXL1YA/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B010FXL1YA/?tag=tolees-21)

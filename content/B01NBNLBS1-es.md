@@ -22,7 +22,7 @@ Ahora mismo tienes [RED WAGON Vestido de Manga Corta con Parches para Niñas  Gr
 
 [![RED WAGON Vestido de Manga Corta con Par](https://images-eu.ssl-images-amazon.com/images/I/41XoXDW67ZL._SL200_.jpg)](https://www.amazon.es/dp/B01NBNLBS1/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01NBNLBS1/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Ralph Lauren RALPH BY 0Ra5226 Gafas de sol  Black  56 para M
 
 [![Ralph Lauren RALPH BY 0Ra5226 Gafas de s](https://images-eu.ssl-images-amazon.com/images/I/31KDDxFh6ZL._SL200_.jpg)](https://www.amazon.es/dp/B01N94ZCGM/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01N94ZCGM/?tag=tolees-21)

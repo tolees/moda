@@ -22,7 +22,7 @@ Ahora mismo tienes [Merrell Vapor Guante 3 Zapatilla De Correr para Tierra - 41.
 
 [![Merrell Vapor Guante 3 Zapatilla De Corr](https://images-eu.ssl-images-amazon.com/images/I/416BJL3x91L._SL200_.jpg)](https://www.amazon.es/dp/B071JPYXQM/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B071JPYXQM/?tag=tolees-21)

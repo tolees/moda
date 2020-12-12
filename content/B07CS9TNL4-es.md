@@ -22,7 +22,7 @@ Ahora mismo tienes [Pepe Jeans Gaby L  Sudadera para Mujer    Mousse 808  Medium
 
 [![Pepe Jeans Gaby L  Sudadera para Mujer  ](https://images-eu.ssl-images-amazon.com/images/I/41CniUGyCAL._SL200_.jpg)](https://www.amazon.es/dp/B07CS9TNL4/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07CS9TNL4/?tag=tolees-21)

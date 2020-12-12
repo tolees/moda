@@ -22,7 +22,7 @@ Ahora mismo tienes [Quiksilver Island Oasis  Zapatos de Playa y Piscina para Hom
 
 [![Quiksilver Island Oasis  Zapatos de Play](https://images-eu.ssl-images-amazon.com/images/I/41IEr%2Bmz2ML._SL200_.jpg)](https://www.amazon.es/dp/B07DYCY7QM/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DYCY7QM/?tag=tolees-21)

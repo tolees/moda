@@ -22,7 +22,7 @@ Ahora mismo tienes [HIKARO Sudadera con Capucha Hombre  Negro  Black   48  Talla
 
 [![HIKARO Sudadera con Capucha Hombre  Negr](https://images-eu.ssl-images-amazon.com/images/I/41xdShULarL._SL200_.jpg)](https://www.amazon.es/dp/B077Y6VNS3/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B077Y6VNS3/?tag=tolees-21)

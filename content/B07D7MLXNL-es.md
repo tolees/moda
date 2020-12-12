@@ -22,7 +22,7 @@ Ahora mismo tienes [Diesel 00SJ3U  Camiseta para Hombre   Blanco 100   Small  Ta
 
 [![Diesel 00SJ3U  Camiseta para Hombre   Bl](https://images-eu.ssl-images-amazon.com/images/I/4114kHJT4rL._SL200_.jpg)](https://www.amazon.es/dp/B07D7MLXNL/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07D7MLXNL/?tag=tolees-21)

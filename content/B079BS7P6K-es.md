@@ -22,7 +22,7 @@ Ahora mismo tienes [JACK & JONES Jorwallet Tank Top STS Camiseta sin Mangas  Gri
 
 [![JACK & JONES Jorwallet Tank Top STS Cami](https://images-eu.ssl-images-amazon.com/images/I/41hWmhnCg3L._SL200_.jpg)](https://www.amazon.es/dp/B079BS7P6K/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B079BS7P6K/?tag=tolees-21)

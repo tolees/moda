@@ -22,7 +22,7 @@ Ahora mismo tienes [Levi s SS tee Camiseta   Colorblock Quiet Shade/White/Dress 
 
 [![Levi s SS tee Camiseta   Colorblock Quie](https://images-eu.ssl-images-amazon.com/images/I/41yUVyufUpL._SL200_.jpg)](https://www.amazon.es/dp/B07K76XCPY/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07K76XCPY/?tag=tolees-21)

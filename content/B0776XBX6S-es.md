@@ -22,7 +22,7 @@ Ahora mismo tienes [Tommy Jeans Hombre  Scanton Vaqueros slim  Ajustada Azul  Da
 
 [![Tommy Jeans Hombre  Scanton Vaqueros sli](https://images-eu.ssl-images-amazon.com/images/I/41IcxujSdhL._SL200_.jpg)](https://www.amazon.es/dp/B0776XBX6S/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0776XBX6S/?tag=tolees-21)

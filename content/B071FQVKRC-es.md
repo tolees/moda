@@ -22,7 +22,7 @@ Ahora mismo tienes [Under Armour Tech Ssv Graphic Twist Camisa de Manga Corta  M
 
 [![Under Armour Tech Ssv Graphic Twist Cami](https://images-eu.ssl-images-amazon.com/images/I/41rbQfuAbNL._SL200_.jpg)](https://www.amazon.es/dp/B071FQVKRC/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B071FQVKRC/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Tommy Jeans Mujer Tommy Classics  Blusa Manga Larga  Blanco 
 
 [![Tommy Jeans Mujer Tommy Classics  Blusa ](https://images-eu.ssl-images-amazon.com/images/I/41shAbtjtjL._SL200_.jpg)](https://www.amazon.es/dp/B079C4LJ6R/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B079C4LJ6R/?tag=tolees-21)

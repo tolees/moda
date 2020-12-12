@@ -22,7 +22,7 @@ Ahora mismo tienes [JACK & JONES Jorgiant tee SS Crew Neck  Camiseta Hombre  Gri
 
 [![JACK & JONES Jorgiant tee SS Crew Neck  ](https://images-eu.ssl-images-amazon.com/images/I/41318hQmm2L._SL200_.jpg)](https://www.amazon.es/dp/B07JY1CKJN/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07JY1CKJN/?tag=tolees-21)

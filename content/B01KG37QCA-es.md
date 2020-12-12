@@ -22,7 +22,7 @@ Ahora mismo tienes [Izas Dimasa Chaqueta de Punto  Mujer  Morado  2XL](https://w
 
 [![Izas Dimasa Chaqueta de Punto  Mujer  Mo](https://images-eu.ssl-images-amazon.com/images/I/51Lco5qPVeL._SL200_.jpg)](https://www.amazon.es/dp/B01KG37QCA/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01KG37QCA/?tag=tolees-21)

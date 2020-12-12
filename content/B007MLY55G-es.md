@@ -22,7 +22,7 @@ Ahora mismo tienes [Derbystar Uni - Camiseta de equipación  tamaño M  color am
 
 [![Derbystar Uni - Camiseta de equipación  ](https://images-eu.ssl-images-amazon.com/images/I/41s3ynEXLJL._SL200_.jpg)](https://www.amazon.es/dp/B007MLY55G/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B007MLY55G/?tag=tolees-21)

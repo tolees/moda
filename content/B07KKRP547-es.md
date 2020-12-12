@@ -22,7 +22,7 @@ Ahora mismo tienes [Naf Naf Kenr23d Vestido  Azul  Bleu Marine 567   38 para Muj
 
 [![Naf Naf Kenr23d Vestido  Azul  Bleu Mari](https://images-eu.ssl-images-amazon.com/images/I/31Y2mwEW0hL._SL200_.jpg)](https://www.amazon.es/dp/B07KKRP547/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07KKRP547/?tag=tolees-21)

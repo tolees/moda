@@ -22,7 +22,7 @@ Ahora mismo tienes [Skechers Go Run 600-Sunrise  Sandalias de Punta Descubierta 
 
 [![Skechers Go Run 600-Sunrise  Sandalias d](https://images-eu.ssl-images-amazon.com/images/I/314An4qWDCL._SL200_.jpg)](https://www.amazon.es/dp/B07JBJP43G/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07JBJP43G/?tag=tolees-21)

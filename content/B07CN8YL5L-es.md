@@ -22,7 +22,7 @@ Ahora mismo tienes [Crocs Classic II Slide  Sandalias de Punta Descubierta Unise
 
 [![Crocs Classic II Slide  Sandalias de Pun](https://images-eu.ssl-images-amazon.com/images/I/31T3VZ4khaL._SL200_.jpg)](https://www.amazon.es/dp/B07CN8YL5L/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07CN8YL5L/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Inside 4SFC31& Camiseta  Negro  Medium  Tamaño del Fabrican
 
 [![Inside 4SFC31& Camiseta  Negro  Medium  ](https://images-eu.ssl-images-amazon.com/images/I/41HhKMBTxQL._SL200_.jpg)](https://www.amazon.es/dp/B07142XTVY/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07142XTVY/?tag=tolees-21)

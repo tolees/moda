@@ -22,7 +22,7 @@ Ahora mismo tienes [Springfield 7.T.Ap. Chaqueta Doble Faz  Gama Azules 19    Ta
 
 [![Springfield 7.T.Ap. Chaqueta Doble Faz  ](https://images-eu.ssl-images-amazon.com/images/I/41j%2BkoZFpLL._SL200_.jpg)](https://www.amazon.es/dp/B07DLD7KTP/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DLD7KTP/?tag=tolees-21)

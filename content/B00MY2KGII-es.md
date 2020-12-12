@@ -22,7 +22,7 @@ Ahora mismo tienes [Clarks Originals Desert London  - Zapatos con cordones Derby
 
 [![Clarks Originals Desert London  - Zapato](https://images-eu.ssl-images-amazon.com/images/I/41CxGsnXBFL._SL200_.jpg)](https://www.amazon.es/dp/B00MY2KGII/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00MY2KGII/?tag=tolees-21)

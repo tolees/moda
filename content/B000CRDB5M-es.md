@@ -22,7 +22,7 @@ Ahora mismo tienes [Eastpak Delegate Bolso bandolera  20 L  38.5 cm  Negro  Blac
 
 [![Eastpak Delegate Bolso bandolera  20 L  ](https://images-eu.ssl-images-amazon.com/images/I/414qwIG2CGL._SL200_.jpg)](https://www.amazon.es/dp/B000CRDB5M/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B000CRDB5M/?tag=tolees-21)

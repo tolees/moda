@@ -22,7 +22,7 @@ Ahora mismo tienes [LEGO Tanya Camiseta de Manga Larga  Niños  Azul  Blue 541  
 
 [![LEGO Tanya Camiseta de Manga Larga  Niño](https://images-eu.ssl-images-amazon.com/images/I/51kd18OOBpL._SL200_.jpg)](https://www.amazon.es/dp/B077PVLC3S/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B077PVLC3S/?tag=tolees-21)

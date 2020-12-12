@@ -22,7 +22,7 @@ Ahora mismo tienes [FIND DC3375S vaqueros mujer cintura alta   Azul  Mid Wash   
 
 [![FIND DC3375S vaqueros mujer cintura alta](https://images-eu.ssl-images-amazon.com/images/I/41c5B0GnwgL._SL200_.jpg)](https://www.amazon.es/dp/B072JMCSH5/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B072JMCSH5/?tag=tolees-21)

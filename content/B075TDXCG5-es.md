@@ -22,7 +22,7 @@ Ahora mismo tienes [Trucco - Vestido casual para mujer  color verde oscuro  tall
 
 [![Trucco - Vestido casual para mujer  colo](https://images-eu.ssl-images-amazon.com/images/I/31oeQXkxI8L._SL200_.jpg)](https://www.amazon.es/dp/B075TDXCG5/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B075TDXCG5/?tag=tolees-21)

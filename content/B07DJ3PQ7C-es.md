@@ -22,7 +22,7 @@ Ahora mismo tienes [Geox D Jaysen a  Zapatillas para Mujer  Dorado  Champagne/Go
 
 [![Geox D Jaysen a  Zapatillas para Mujer  ](https://images-eu.ssl-images-amazon.com/images/I/41bb0IhywjL._SL200_.jpg)](https://www.amazon.es/dp/B07DJ3PQ7C/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DJ3PQ7C/?tag=tolees-21)

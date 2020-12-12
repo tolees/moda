@@ -22,7 +22,7 @@ Ahora mismo tienes [Noisy May Nmlucy NW Power Shape Jeans Ba076 Noos  Vaqueros S
 
 [![Noisy May Nmlucy NW Power Shape Jeans Ba](https://images-eu.ssl-images-amazon.com/images/I/31ctI2rPqEL._SL200_.jpg)](https://www.amazon.es/dp/B078HCZ8RN/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B078HCZ8RN/?tag=tolees-21)

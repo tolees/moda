@@ -22,7 +22,7 @@ Ahora mismo tienes [LuckyGirls Zapatillas de Correr Malla Jogging Zapatos Inform
 
 [![LuckyGirls Zapatillas de Correr Malla Jo](https://images-eu.ssl-images-amazon.com/images/I/41-2Ph6ltyL._SL200_.jpg)](https://www.amazon.es/dp/B07J1LWWNP/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07J1LWWNP/?tag=tolees-21)

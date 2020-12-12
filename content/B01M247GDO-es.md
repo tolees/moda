@@ -22,7 +22,7 @@ Ahora mismo tienes [Helly Hansen Crew Hooded Midlayer  - Chaqueta Impermeable co
 
 [![Helly Hansen Crew Hooded Midlayer  - Cha](https://images-eu.ssl-images-amazon.com/images/I/41yB8lh1ShL._SL200_.jpg)](https://www.amazon.es/dp/B01M247GDO/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01M247GDO/?tag=tolees-21)

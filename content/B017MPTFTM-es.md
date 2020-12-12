@@ -22,7 +22,7 @@ Ahora mismo tienes [Rieker 21083  Sandalias de Punta Descubierta para Hombre  Az
 
 [![Rieker 21083  Sandalias de Punta Descubi](https://images-eu.ssl-images-amazon.com/images/I/41%2BQgV4exuL._SL200_.jpg)](https://www.amazon.es/dp/B017MPTFTM/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B017MPTFTM/?tag=tolees-21)

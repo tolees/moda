@@ -22,7 +22,7 @@ Ahora mismo tienes [Springfield 8863792  Camisa para Mujer   Gama Azules   Mediu
 
 [![Springfield 8863792  Camisa para Mujer  ](https://images-eu.ssl-images-amazon.com/images/I/41tpKtlq1QL._SL200_.jpg)](https://www.amazon.es/dp/B078HFRR5P/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B078HFRR5P/?tag=tolees-21)

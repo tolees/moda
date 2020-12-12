@@ -22,7 +22,7 @@ Ahora mismo tienes [BOSS Trunk Structure Bóxer  Azul  Medium Blue 421   Hombre]
 
 [![BOSS Trunk Structure Bóxer  Azul  Medium](https://images-eu.ssl-images-amazon.com/images/I/51yI%2BUzFStL._SL200_.jpg)](https://www.amazon.es/dp/B07CZX1CHT/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07CZX1CHT/?tag=tolees-21)

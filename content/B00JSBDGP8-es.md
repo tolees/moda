@@ -22,7 +22,7 @@ Ahora mismo tienes [Jersey de Cuello Alto Con Cremallera de Algodón  azul](http
 
 [![Jersey de Cuello Alto Con Cremallera de ](https://images-eu.ssl-images-amazon.com/images/I/31d18WztIcL._SL200_.jpg)](https://www.amazon.es/dp/B00JSBDGP8/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00JSBDGP8/?tag=tolees-21)

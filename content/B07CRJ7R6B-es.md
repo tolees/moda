@@ -22,7 +22,7 @@ Ahora mismo tienes [Pepe Jeans Scott Sudadera    Grey Marl 933   XX-Large para H
 
 [![Pepe Jeans Scott Sudadera    Grey Marl 9](https://images-eu.ssl-images-amazon.com/images/I/41I3xr0mArL._SL200_.jpg)](https://www.amazon.es/dp/B07CRJ7R6B/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07CRJ7R6B/?tag=tolees-21)

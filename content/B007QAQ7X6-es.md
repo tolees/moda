@@ -22,7 +22,7 @@ Ahora mismo tienes [Cressi Bahamas - Chanclas Flip Flop para Playa y Piscina](ht
 
 [![Cressi Bahamas - Chanclas Flip Flop para](https://images-eu.ssl-images-amazon.com/images/I/51bAPT4mzaL._SL200_.jpg)](https://www.amazon.es/dp/B007QAQ7X6/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B007QAQ7X6/?tag=tolees-21)

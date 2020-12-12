@@ -22,7 +22,7 @@ Ahora mismo tienes [XTI 32055  Zapatos con Tira de Tobillo para Mujer  Marrón T
 
 [![XTI 32055  Zapatos con Tira de Tobillo p](https://images-eu.ssl-images-amazon.com/images/I/41YpsK5qFBL._SL200_.jpg)](https://www.amazon.es/dp/B07JMM7HZD/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07JMM7HZD/?tag=tolees-21)

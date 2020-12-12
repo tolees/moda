@@ -22,7 +22,7 @@ Ahora mismo tienes [Gant TG Girls SS T-Shirt Camiseta  Rosa  Summer Rose 659   1
 
 [![Gant TG Girls SS T-Shirt Camiseta  Rosa ](https://images-eu.ssl-images-amazon.com/images/I/31Px4b%2BJpaL._SL200_.jpg)](https://www.amazon.es/dp/B07KPQ3GP7/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07KPQ3GP7/?tag=tolees-21)

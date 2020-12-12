@@ -22,7 +22,7 @@ Ahora mismo tienes [Crocs Crocband U  Zuecos Unisex Adulto  Verde  Citrus-Grey 7
 
 [![Crocs Crocband U  Zuecos Unisex Adulto  ](https://images-eu.ssl-images-amazon.com/images/I/31Ayz9%2BT7yL._SL200_.jpg)](https://www.amazon.es/dp/B07CPCGD73/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07CPCGD73/?tag=tolees-21)

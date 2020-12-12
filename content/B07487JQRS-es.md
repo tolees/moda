@@ -22,7 +22,7 @@ Ahora mismo tienes [LOSMILE Bolsos Bandolera de Hombres  Bolso de Hombro de Lona
 
 [![LOSMILE Bolsos Bandolera de Hombres  Bol](https://images-eu.ssl-images-amazon.com/images/I/51TH1zCsRXL._SL200_.jpg)](https://www.amazon.es/dp/B07487JQRS/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07487JQRS/?tag=tolees-21)

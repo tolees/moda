@@ -22,7 +22,7 @@ Ahora mismo tienes [Esprit 997ee1f800  Blusa para Mujer   Pastel Blue  36](https
 
 [![Esprit 997ee1f800  Blusa para Mujer   Pa](https://images-eu.ssl-images-amazon.com/images/I/41FWKApOtPL._SL200_.jpg)](https://www.amazon.es/dp/B01MXKLC7T/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01MXKLC7T/?tag=tolees-21)

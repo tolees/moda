@@ -22,7 +22,7 @@ Ahora mismo tienes [Schiesser Niños Vintage T-Shirt Rundhals Camiseta Not Appli
 
 [![Schiesser Niños Vintage T-Shirt Rundhals](https://images-eu.ssl-images-amazon.com/images/I/41VOOwKHZCL._SL200_.jpg)](https://www.amazon.es/dp/B074TQKFJN/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B074TQKFJN/?tag=tolees-21)

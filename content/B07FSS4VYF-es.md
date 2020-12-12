@@ -22,7 +22,7 @@ Ahora mismo tienes [Lee Logo tee Camiseta  Gris  Sharp Grey Mele 03   X-Large pa
 
 [![Lee Logo tee Camiseta  Gris  Sharp Grey ](https://images-eu.ssl-images-amazon.com/images/I/41xuBWEvlLL._SL200_.jpg)](https://www.amazon.es/dp/B07FSS4VYF/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07FSS4VYF/?tag=tolees-21)

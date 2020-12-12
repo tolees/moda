@@ -22,7 +22,7 @@ Ahora mismo tienes [Diesel Larkee-beex SP  Vaqueros Straight para Hombre  Azul  
 
 [![Diesel Larkee-beex SP  Vaqueros Straight]()](https://www.amazon.es/dp/B07DJ8JRM5/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DJ8JRM5/?tag=tolees-21)

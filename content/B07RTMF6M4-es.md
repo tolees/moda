@@ -22,7 +22,7 @@ Ahora mismo tienes [New Look Adam Tie Dye Falda  Negro  Black Pattern 9   38  Ta
 
 [![New Look Adam Tie Dye Falda  Negro  Blac](https://images-eu.ssl-images-amazon.com/images/I/41Rs3B7p7YL._SL200_.jpg)](https://www.amazon.es/dp/B07RTMF6M4/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07RTMF6M4/?tag=tolees-21)

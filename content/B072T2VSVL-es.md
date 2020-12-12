@@ -22,7 +22,7 @@ Ahora mismo tienes [Skechers On The Go 600 15316-bbk  Sandalias Deportivas para 
 
 [![Skechers On The Go 600 15316-bbk  Sandal](https://images-eu.ssl-images-amazon.com/images/I/319VYKORKIL._SL200_.jpg)](https://www.amazon.es/dp/B072T2VSVL/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B072T2VSVL/?tag=tolees-21)

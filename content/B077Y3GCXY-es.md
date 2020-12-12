@@ -22,7 +22,7 @@ Ahora mismo tienes [HIKARO Sudadera con Print Mujer  Verde  Khaki   38  Talla de
 
 [![HIKARO Sudadera con Print Mujer  Verde  ](https://images-eu.ssl-images-amazon.com/images/I/41Qijyhzb3L._SL200_.jpg)](https://www.amazon.es/dp/B077Y3GCXY/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B077Y3GCXY/?tag=tolees-21)

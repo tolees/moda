@@ -22,7 +22,7 @@ Ahora mismo tienes [Tommy Jeans Mujer SATIN DETAIL TEE Camiseta Manga Corta  Azu
 
 [![Tommy Jeans Mujer SATIN DETAIL TEE Camis](https://images-eu.ssl-images-amazon.com/images/I/41V7ss8BXfL._SL200_.jpg)](https://www.amazon.es/dp/B07HH1PWSK/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07HH1PWSK/?tag=tolees-21)

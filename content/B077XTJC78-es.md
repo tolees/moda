@@ -22,7 +22,7 @@ Ahora mismo tienes [Under Armour Fly by Short Pantalón Corto  Mujer  Verde  Art
 
 [![Under Armour Fly by Short Pantalón Corto](https://images-eu.ssl-images-amazon.com/images/I/31k0XOJhzML._SL200_.jpg)](https://www.amazon.es/dp/B077XTJC78/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B077XTJC78/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Levi s Modern Western  Blusa para Mujer  Multicolor  Licoric
 
 [![Levi s Modern Western  Blusa para Mujer ](https://images-eu.ssl-images-amazon.com/images/I/4102bv4y%2BcL._SL200_.jpg)](https://www.amazon.es/dp/B01EYK121C/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01EYK121C/?tag=tolees-21)

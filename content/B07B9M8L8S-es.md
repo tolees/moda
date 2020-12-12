@@ -22,7 +22,7 @@ Ahora mismo tienes [Panama Jack Felicia  Botines para Mujer  Gris  Grey B24   41
 
 [![Panama Jack Felicia  Botines para Mujer ](https://images-eu.ssl-images-amazon.com/images/I/41ErtRotl5L._SL200_.jpg)](https://www.amazon.es/dp/B07B9M8L8S/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07B9M8L8S/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Lee Button Down Camisa  Marfil  Bright Red EF   Small para H
 
 [![Lee Button Down Camisa  Marfil  Bright R](https://images-eu.ssl-images-amazon.com/images/I/51JCgtjl3CL._SL200_.jpg)](https://www.amazon.es/dp/B07FTK4HLP/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07FTK4HLP/?tag=tolees-21)

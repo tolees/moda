@@ -22,7 +22,7 @@ Ahora mismo tienes [Charles Wilson Camisa Franela de Cuadros Manga Larga para Ho
 
 [![Charles Wilson Camisa Franela de Cuadros](https://images-eu.ssl-images-amazon.com/images/I/519EhcE7f%2BL._SL200_.jpg)](https://www.amazon.es/dp/B07L4ZQY9K/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07L4ZQY9K/?tag=tolees-21)

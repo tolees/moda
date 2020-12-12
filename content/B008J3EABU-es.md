@@ -22,7 +22,7 @@ Ahora mismo tienes [Keen CLEARWATER CNX M-RAVEN /BURNT HENNA - Sandalias de mate
 
 [![Keen CLEARWATER CNX M-RAVEN /BURNT HENNA](https://images-eu.ssl-images-amazon.com/images/I/41X15CdxlDL._SL200_.jpg)](https://www.amazon.es/dp/B008J3EABU/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B008J3EABU/?tag=tolees-21)

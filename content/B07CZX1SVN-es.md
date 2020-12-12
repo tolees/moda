@@ -22,7 +22,7 @@ Ahora mismo tienes [BOSS Trunk One Design Bóxer   Open Miscellaneous 972   XX-L
 
 [![BOSS Trunk One Design Bóxer   Open Misce](https://images-eu.ssl-images-amazon.com/images/I/51ZlnATqmLL._SL200_.jpg)](https://www.amazon.es/dp/B07CZX1SVN/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07CZX1SVN/?tag=tolees-21)

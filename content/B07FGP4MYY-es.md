@@ -22,7 +22,7 @@ Ahora mismo tienes [Esprit 088ee1k009  Camisa Manga Larga Mujer  Azul  Navy 400 
 
 [![Esprit 088ee1k009  Camisa Manga Larga Mu](https://images-eu.ssl-images-amazon.com/images/I/51j8AbV9SkL._SL200_.jpg)](https://www.amazon.es/dp/B07FGP4MYY/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07FGP4MYY/?tag=tolees-21)

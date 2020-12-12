@@ -22,7 +22,7 @@ Ahora mismo tienes [Geox U Vincit C  Zapatillas para Hombre  Gris  Grey/Stone   
 
 [![Geox U Vincit C  Zapatillas para Hombre ](https://images-eu.ssl-images-amazon.com/images/I/41fwf%2B6t4XL._SL200_.jpg)](https://www.amazon.es/dp/B07DJ2R9K8/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DJ2R9K8/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Seidensticker Tailored Langarm Mit Kent Kragen Bügelfrei Ka
 
 [![Seidensticker Tailored Langarm Mit Kent ](https://images-eu.ssl-images-amazon.com/images/I/31YJQ%2BH013L._SL200_.jpg)](https://www.amazon.es/dp/B07FXX5F11/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07FXX5F11/?tag=tolees-21)

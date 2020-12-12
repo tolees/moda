@@ -22,7 +22,7 @@ Ahora mismo tienes [REPLAY Jondrill  Vaqueros Skinny Hombre  Gris  Grau 9   W32/
 
 [![REPLAY Jondrill  Vaqueros Skinny Hombre ](https://images-eu.ssl-images-amazon.com/images/I/41VV6YNtCmL._SL200_.jpg)](https://www.amazon.es/dp/B07BS9YL4J/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07BS9YL4J/?tag=tolees-21)

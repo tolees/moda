@@ -22,7 +22,7 @@ Ahora mismo tienes [HIKARO Sudadera con Print Mujer  Gris  Charcoal   46  Talla 
 
 [![HIKARO Sudadera con Print Mujer  Gris  C](https://images-eu.ssl-images-amazon.com/images/I/41I4HKIbNkL._SL200_.jpg)](https://www.amazon.es/dp/B077YD9CZR/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B077YD9CZR/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Just Cavalli Sonnenbrille JC645S 5890L Gafas de sol  Azul  B
 
 [![Just Cavalli Sonnenbrille JC645S 5890L G](https://images-eu.ssl-images-amazon.com/images/I/31UZoVsOxVL._SL200_.jpg)](https://www.amazon.es/dp/B00Q7VTF34/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00Q7VTF34/?tag=tolees-21)

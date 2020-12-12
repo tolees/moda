@@ -22,7 +22,7 @@ Ahora mismo tienes [edc by Esprit 029CC1K036 Camiseta  Blanco  Off White 110   S
 
 [![edc by Esprit 029CC1K036 Camiseta  Blanc](https://images-eu.ssl-images-amazon.com/images/I/41R0n5FUT9L._SL200_.jpg)](https://www.amazon.es/dp/B07M5LT5WF/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07M5LT5WF/?tag=tolees-21)

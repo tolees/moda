@@ -22,7 +22,7 @@ Ahora mismo tienes [Guess GU6843 Gafas de Sol  Negro  52 Unisex Adulto](https://
 
 [![Guess GU6843 Gafas de Sol  Negro  52 Uni](https://images-eu.ssl-images-amazon.com/images/I/31r5HQBIK5L._SL200_.jpg)](https://www.amazon.es/dp/B00U8PSVXU/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00U8PSVXU/?tag=tolees-21)

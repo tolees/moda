@@ -22,7 +22,7 @@ Ahora mismo tienes [Bench Sweat Skirt Asymetrical Zip Front  Falda Mujer  Negro 
 
 [![Bench Sweat Skirt Asymetrical Zip Front ](https://images-eu.ssl-images-amazon.com/images/I/31linMidTuL._SL200_.jpg)](https://www.amazon.es/dp/B0725LF6JX/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0725LF6JX/?tag=tolees-21)

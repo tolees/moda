@@ -22,7 +22,7 @@ Ahora mismo tienes [Timberland Gateway Pier  Zapatos de Cordones Oxford Unisex N
 
 [![Timberland Gateway Pier  Zapatos de Cord](https://images-eu.ssl-images-amazon.com/images/I/31cmL9Wg-aL._SL200_.jpg)](https://www.amazon.es/dp/B07F1WZBLG/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07F1WZBLG/?tag=tolees-21)

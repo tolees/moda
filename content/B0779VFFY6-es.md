@@ -22,7 +22,7 @@ Ahora mismo tienes [AURIQUE Leggings de Deporte Mujer  Negro  Black/love Potion 
 
 [![AURIQUE Leggings de Deporte Mujer  Negro](https://images-eu.ssl-images-amazon.com/images/I/416FRl%2BNw5L._SL200_.jpg)](https://www.amazon.es/dp/B0779VFFY6/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0779VFFY6/?tag=tolees-21)

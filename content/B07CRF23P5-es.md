@@ -22,7 +22,7 @@ Ahora mismo tienes [Pepe Jeans Rudy  Blusa para Niños   Indigo 561   6 años](h
 
 [![Pepe Jeans Rudy  Blusa para Niños   Indi](https://images-eu.ssl-images-amazon.com/images/I/51wc2vP15PL._SL200_.jpg)](https://www.amazon.es/dp/B07CRF23P5/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07CRF23P5/?tag=tolees-21)

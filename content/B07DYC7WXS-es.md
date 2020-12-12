@@ -22,7 +22,7 @@ Ahora mismo tienes [Roxy Costas  Zapatos de Playa y Piscina para Mujer  Blanco  
 
 [![Roxy Costas  Zapatos de Playa y Piscina ](https://images-eu.ssl-images-amazon.com/images/I/41YcMedi1sL._SL200_.jpg)](https://www.amazon.es/dp/B07DYC7WXS/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DYC7WXS/?tag=tolees-21)

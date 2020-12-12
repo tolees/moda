@@ -22,7 +22,7 @@ Ahora mismo tienes [Springfield 490-Bomber Basica Chaqueta Bomber  Gama Verdes 2
 
 [![Springfield 490-Bomber Basica Chaqueta B](https://images-eu.ssl-images-amazon.com/images/I/41VwR-BjG0L._SL200_.jpg)](https://www.amazon.es/dp/B07KZ28WKK/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07KZ28WKK/?tag=tolees-21)

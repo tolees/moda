@@ -22,7 +22,7 @@ Ahora mismo tienes [Geox U Smart B  Zapatillas para Hombre  Azul  43 EU](https:/
 
 [![Geox U Smart B  Zapatillas para Hombre  ](https://images-eu.ssl-images-amazon.com/images/I/41iy3%2BQuELL._SL200_.jpg)](https://www.amazon.es/dp/B076X7TJGV/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B076X7TJGV/?tag=tolees-21)

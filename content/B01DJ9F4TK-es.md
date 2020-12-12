@@ -22,7 +22,7 @@ Ahora mismo tienes [Jako - Camiseta para Mujer  Cuello En V  Marine  36  6113]
 
 [![Jako - Camiseta para Mujer  Cuello En V ](https://images-eu.ssl-images-amazon.com/images/I/41zL%2BqAoUDL._SL200_.jpg)](https://www.amazon.es/dp/B01DJ9F4TK/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01DJ9F4TK/?tag=tolees-21)

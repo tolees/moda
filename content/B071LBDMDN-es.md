@@ -22,7 +22,7 @@ Ahora mismo tienes [FIND Vestido Asimétrico para Mujer   Azul  Navy   42  Talla
 
 [![FIND Vestido Asimétrico para Mujer   Azu](https://images-eu.ssl-images-amazon.com/images/I/31DYy7llUSL._SL200_.jpg)](https://www.amazon.es/dp/B071LBDMDN/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B071LBDMDN/?tag=tolees-21)

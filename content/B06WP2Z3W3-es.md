@@ -22,7 +22,7 @@ Ahora mismo tienes [Liujo C16068T1710  Vestido para Mujer  Negro / Marrón  ES 3
 
 [![Liujo C16068T1710  Vestido para Mujer  N](https://images-eu.ssl-images-amazon.com/images/I/4120uvz1CxL._SL200_.jpg)](https://www.amazon.es/dp/B06WP2Z3W3/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B06WP2Z3W3/?tag=tolees-21)

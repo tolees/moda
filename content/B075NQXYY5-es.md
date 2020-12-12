@@ -22,7 +22,7 @@ Ahora mismo tienes [Trangoworld Linth Pantalón Largo  Mujer  Rosa Oscuro  S](ht
 
 [![Trangoworld Linth Pantalón Largo  Mujer ](https://images-eu.ssl-images-amazon.com/images/I/31N-m1n9bDL._SL200_.jpg)](https://www.amazon.es/dp/B075NQXYY5/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B075NQXYY5/?tag=tolees-21)

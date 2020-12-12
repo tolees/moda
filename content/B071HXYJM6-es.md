@@ -22,7 +22,7 @@ Ahora mismo tienes [edc by Esprit 097cc1k047  Camisa Manga Larga Mujer  Morado  
 
 [![edc by Esprit 097cc1k047  Camisa Manga L](https://images-eu.ssl-images-amazon.com/images/I/51-lHtE61VL._SL200_.jpg)](https://www.amazon.es/dp/B071HXYJM6/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B071HXYJM6/?tag=tolees-21)

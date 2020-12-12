@@ -22,7 +22,7 @@ Ahora mismo tienes [Springfield 5.T.Ap.Pv19.Cruzada Camiseta   Varios 98   X-Sma
 
 [![Springfield 5.T.Ap.Pv19.Cruzada Camiseta](https://images-eu.ssl-images-amazon.com/images/I/41JdxJMo%2BoL._SL200_.jpg)](https://www.amazon.es/dp/B07KZ187BT/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07KZ187BT/?tag=tolees-21)

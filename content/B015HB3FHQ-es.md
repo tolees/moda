@@ -1,28 +1,35 @@
 ---
 layout: post
-title: 'Descuento del 39.68 % en Timberland Bradstreet Leather Sensorflex'
-date: 2020-12-10 04:35:27
+title: 'Descuento del 39.32 % en Timberland Bradstreet Leather Sensorflex'
+date: 2020-12-12 14:54:42
 image: 'https://m.media-amazon.com/images/I/31LKGEgxcnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B015HB3FHQ-es'
-actualPrice: 84.45 EUR
+actualPrice: 84.95 EUR
 currency: EUR
-price: 84.45
+price: 84.95
 comparePrice: 140.0 EUR
 prodname: 'Timberland Bradstreet Leather Sensorflex   Botas Chukka Hombre  Marrón MD Brown Full Grain  40 EU'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B015HB3FHQ/?tag=tolees-21'
-descuento: '39.68'
+descuento: '39.32'
 ---
 
-Tienes [Timberland Bradstreet Leather Sensorflex   Botas Chukka Hombre  Marrón MD Brown Full Grain  40 EU](https://www.amazon.es/dp/B015HB3FHQ/?tag=tolees-21) con un 39.68 % de descuento con precio de oferta de 84.45 EUR (original: 140.0 EUR) en el siguiente enlace!
+Tienes [Timberland Bradstreet Leather Sensorflex   Botas Chukka Hombre  Marrón MD Brown Full Grain  40 EU](https://www.amazon.es/dp/B015HB3FHQ/?tag=tolees-21) con un 39.32 % de descuento con precio de oferta de 84.95 EUR (original: 140.0 EUR) en el siguiente enlace!
 
 [![Timberland Bradstreet Leather Sensorflex](https://m.media-amazon.com/images/I/31LKGEgxcnL._SL200_.jpg)](https://www.amazon.es/dp/B015HB3FHQ/?tag=tolees-21)
 
 ℹ️:
 
+- Material exterior: Cuero
+- Cierre: Cordones
+- Anchura del zapato: normal
+- Composición: Cuero
+- Tipo de tacón: Plano
+- Revestimiento: Tela
+- Material de la suela: Goma
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B015HB3FHQ/?tag=tolees-21)

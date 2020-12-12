@@ -22,7 +22,7 @@ Ahora mismo tienes [Geox Jr Dakin  Zapatillas para Niños  Verde  Green/Sky C331
 
 [![Geox Jr Dakin  Zapatillas para Niños  Ve](https://images-eu.ssl-images-amazon.com/images/I/413TM-vYpoL._SL200_.jpg)](https://www.amazon.es/dp/B07DK4XPWY/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DK4XPWY/?tag=tolees-21)

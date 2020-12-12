@@ -22,7 +22,7 @@ Ahora mismo tienes [Love Moschino Logo Foil_Short Sleeve T-Shirt Camiseta  Blanc
 
 [![Love Moschino Logo Foil_Short Sleeve T-S](https://images-eu.ssl-images-amazon.com/images/I/4123QYdCNvL._SL200_.jpg)](https://www.amazon.es/dp/B07K2M5T9Z/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07K2M5T9Z/?tag=tolees-21)

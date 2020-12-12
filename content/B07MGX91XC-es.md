@@ -22,7 +22,7 @@ Ahora mismo tienes [G-STAR RAW 3301 Deconstructed Mid Waist Straight Vaqueros  A
 
 [![G-STAR RAW 3301 Deconstructed Mid Waist ](https://images-eu.ssl-images-amazon.com/images/I/410KpNx94FL._SL200_.jpg)](https://www.amazon.es/dp/B07MGX91XC/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07MGX91XC/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Springfield 690 Naming SPF Org Tricol Camiseta  Blanco 99  S
 
 [![Springfield 690 Naming SPF Org Tricol Ca](https://images-eu.ssl-images-amazon.com/images/I/41Ppl6UbcrL._SL200_.jpg)](https://www.amazon.es/dp/B07KZ1ZT6Q/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07KZ1ZT6Q/?tag=tolees-21)

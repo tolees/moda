@@ -22,7 +22,7 @@ Ahora mismo tienes [Geox Jr Sandal Kraze D  Sandalias Punta Cerrada para Niños 
 
 [![Geox Jr Sandal Kraze D  Sandalias Punta ](https://images-eu.ssl-images-amazon.com/images/I/51pfynbxW0L._SL200_.jpg)](https://www.amazon.es/dp/B01N55OYF0/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01N55OYF0/?tag=tolees-21)

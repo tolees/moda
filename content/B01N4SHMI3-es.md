@@ -22,7 +22,7 @@ Ahora mismo tienes [The North Face Kutum Sudadera con Capucha  Mujer  Azul  Coas
 
 [![The North Face Kutum Sudadera con Capuch](https://images-eu.ssl-images-amazon.com/images/I/41qix8BHekL._SL200_.jpg)](https://www.amazon.es/dp/B01N4SHMI3/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01N4SHMI3/?tag=tolees-21)

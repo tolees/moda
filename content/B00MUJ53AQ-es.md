@@ -22,7 +22,7 @@ Ahora mismo tienes [G-STAR Defend - Vaqueros para hombre  Accel Stretch In Mediu
 
 [![G-STAR Defend - Vaqueros para hombre  Ac](https://images-eu.ssl-images-amazon.com/images/I/41NOVv3bhjL._SL200_.jpg)](https://www.amazon.es/dp/B00MUJ53AQ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00MUJ53AQ/?tag=tolees-21)

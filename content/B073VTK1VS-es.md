@@ -22,7 +22,7 @@ Ahora mismo tienes [find. Vestido Mini Estilo Sudadera para Mujer  Gris  44](htt
 
 [![find. Vestido Mini Estilo Sudadera para ](https://images-eu.ssl-images-amazon.com/images/I/41dXWodKMQL._SL200_.jpg)](https://www.amazon.es/dp/B073VTK1VS/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B073VTK1VS/?tag=tolees-21)

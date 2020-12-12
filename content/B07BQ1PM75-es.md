@@ -22,7 +22,7 @@ Ahora mismo tienes [Lee Elly Vaqueros Skinny  Azul  Greenway Et   W30/L35 para M
 
 [![Lee Elly Vaqueros Skinny  Azul  Greenway](https://images-eu.ssl-images-amazon.com/images/I/41ajDBj7vML._SL200_.jpg)](https://www.amazon.es/dp/B07BQ1PM75/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07BQ1PM75/?tag=tolees-21)

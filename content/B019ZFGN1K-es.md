@@ -22,7 +22,7 @@ Ahora mismo tienes [Under Armour Tech Ssc-Twist - Camiseta de manga corta para m
 
 [![Under Armour Tech Ssc-Twist - Camiseta d](https://images-eu.ssl-images-amazon.com/images/I/41QIEghKPPL._SL200_.jpg)](https://www.amazon.es/dp/B019ZFGN1K/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B019ZFGN1K/?tag=tolees-21)

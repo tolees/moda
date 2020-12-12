@@ -22,7 +22,7 @@ Ahora mismo tienes [Lacoste Th6386 Camiseta  Negro  Noir 031   Medium  Talla del
 
 [![Lacoste Th6386 Camiseta  Negro  Noir 031](https://images-eu.ssl-images-amazon.com/images/I/41a3slOVdwL._SL200_.jpg)](https://www.amazon.es/dp/B07JG1FYHD/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07JG1FYHD/?tag=tolees-21)

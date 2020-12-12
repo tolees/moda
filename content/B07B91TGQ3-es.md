@@ -22,7 +22,7 @@ Ahora mismo tienes [Clarks Un Atlas Logtx  Zapatos de Cordones Derby para Hombre
 
 [![Clarks Un Atlas Logtx  Zapatos de Cordon](https://images-eu.ssl-images-amazon.com/images/I/41eadEvua6L._SL200_.jpg)](https://www.amazon.es/dp/B07B91TGQ3/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07B91TGQ3/?tag=tolees-21)

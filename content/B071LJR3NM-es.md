@@ -22,7 +22,7 @@ Ahora mismo tienes [L. Bo Apparel - Camisa Formal - Clásico - Manga Larga - par
 
 [![L. Bo Apparel - Camisa Formal - Clásico ](https://images-eu.ssl-images-amazon.com/images/I/41VFE7eW93L._SL200_.jpg)](https://www.amazon.es/dp/B071LJR3NM/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B071LJR3NM/?tag=tolees-21)

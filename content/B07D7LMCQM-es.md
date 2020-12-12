@@ -22,7 +22,7 @@ Ahora mismo tienes [Guess M83q12k7cs0  Sudadera para Hombre  Azul  Blue Navy G72
 
 [![Guess M83q12k7cs0  Sudadera para Hombre ](https://images-eu.ssl-images-amazon.com/images/I/31IWirEzr4L._SL200_.jpg)](https://www.amazon.es/dp/B07D7LMCQM/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07D7LMCQM/?tag=tolees-21)

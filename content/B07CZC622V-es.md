@@ -22,7 +22,7 @@ Ahora mismo tienes [Under Armour UA Speed Stride 7   Woven Short Pantalón Corto
 
 [![Under Armour UA Speed Stride 7   Woven S](https://images-eu.ssl-images-amazon.com/images/I/31KN2jgKeyL._SL200_.jpg)](https://www.amazon.es/dp/B07CZC622V/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07CZC622V/?tag=tolees-21)

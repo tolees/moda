@@ -22,7 +22,7 @@ Ahora mismo tienes [Springfield 5Ba Jersey Block Gg12  Hombre   Gama Azules 11  
 
 [![Springfield 5Ba Jersey Block Gg12  Hombr](https://images-eu.ssl-images-amazon.com/images/I/315aqAfMCQL._SL200_.jpg)](https://www.amazon.es/dp/B07DLCDPH1/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DLCDPH1/?tag=tolees-21)

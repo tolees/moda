@@ -22,7 +22,7 @@ Ahora mismo tienes [Champion Shawl Collar Sweatshirt-Varsity  Sudadera para Homb
 
 [![Champion Shawl Collar Sweatshirt-Varsity](https://images-eu.ssl-images-amazon.com/images/I/41ZAElWwFLL._SL200_.jpg)](https://www.amazon.es/dp/B072ZVC6H2/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B072ZVC6H2/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [HIKARO Camiseta Manga Corta Hombre  Verde  Khaki   50  Talla
 
 [![HIKARO Camiseta Manga Corta Hombre  Verd](https://images-eu.ssl-images-amazon.com/images/I/41y-6ZNKMUL._SL200_.jpg)](https://www.amazon.es/dp/B077Y84WCT/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B077Y84WCT/?tag=tolees-21)

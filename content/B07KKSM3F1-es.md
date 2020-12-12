@@ -22,7 +22,7 @@ Ahora mismo tienes [HUGO Errik Camisa  Blanco  Open White 199   Large  Talla del
 
 [![HUGO Errik Camisa  Blanco  Open White 19](https://images-eu.ssl-images-amazon.com/images/I/31po%2B%2B4I4pL._SL200_.jpg)](https://www.amazon.es/dp/B07KKSM3F1/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07KKSM3F1/?tag=tolees-21)

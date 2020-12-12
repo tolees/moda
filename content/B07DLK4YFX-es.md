@@ -22,7 +22,7 @@ Ahora mismo tienes [Springfield 4.2.T.MD.Camisa Aplique CRO Blusa  Mujer  Azul  
 
 [![Springfield 4.2.T.MD.Camisa Aplique CRO ](https://images-eu.ssl-images-amazon.com/images/I/41ZY-xRHVQL._SL200_.jpg)](https://www.amazon.es/dp/B07DLK4YFX/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DLK4YFX/?tag=tolees-21)

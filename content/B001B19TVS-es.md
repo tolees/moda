@@ -22,7 +22,7 @@ Ahora mismo tienes [Timberland 6 inch Premium Waterproof  Botas para Hombre  Nar
 
 [![Timberland 6 inch Premium Waterproof  Bo](https://images-eu.ssl-images-amazon.com/images/I/41CteGytukL._SL200_.jpg)](https://www.amazon.es/dp/B001B19TVS/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B001B19TVS/?tag=tolees-21)

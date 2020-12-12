@@ -22,7 +22,7 @@ Ahora mismo tienes [Sandalias Mujer Verano 2019 SHOBDW Rebajas Zapatos Tangas Ch
 
 [![Sandalias Mujer Verano 2019 SHOBDW Rebaj](https://images-eu.ssl-images-amazon.com/images/I/417FySOBy2L._SL200_.jpg)](https://www.amazon.es/dp/B07QZSJF1F/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07QZSJF1F/?tag=tolees-21)

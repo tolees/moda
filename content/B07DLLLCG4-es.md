@@ -22,7 +22,7 @@ Ahora mismo tienes [Springfield 4.2.J.Ap.T.Criss Cross Jersey   Gama Azules 19  
 
 [![Springfield 4.2.J.Ap.T.Criss Cross Jerse](https://images-eu.ssl-images-amazon.com/images/I/41-efODWBXL._SL200_.jpg)](https://www.amazon.es/dp/B07DLLLCG4/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DLLLCG4/?tag=tolees-21)

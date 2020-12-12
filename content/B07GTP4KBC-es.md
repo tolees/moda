@@ -22,7 +22,7 @@ Ahora mismo tienes [ESPRIT Collection 118eo1e025 Vestido  Rojo  Bordeaux Red 600
 
 [![ESPRIT Collection 118eo1e025 Vestido  Ro](https://images-eu.ssl-images-amazon.com/images/I/416Wm%2BDUQnL._SL200_.jpg)](https://www.amazon.es/dp/B07GTP4KBC/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07GTP4KBC/?tag=tolees-21)

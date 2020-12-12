@@ -22,7 +22,7 @@ Ahora mismo tienes [Pepe Jeans Zinc BLK PM202393  Pantalones Vaqueros para Hombr
 
 [![Pepe Jeans Zinc BLK PM202393  Pantalones](https://images-eu.ssl-images-amazon.com/images/I/41pH9WfkWlL._SL200_.jpg)](https://www.amazon.es/dp/B06XT6NR2N/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B06XT6NR2N/?tag=tolees-21)

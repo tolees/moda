@@ -22,7 +22,7 @@ Ahora mismo tienes [Vans Flare Crop  Pantalones Vaqueros Acampanados para Mujer 
 
 [![Vans Flare Crop  Pantalones Vaqueros Aca](https://images-eu.ssl-images-amazon.com/images/I/41b3wklQeYL._SL200_.jpg)](https://www.amazon.es/dp/B01N3CY1L0/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01N3CY1L0/?tag=tolees-21)

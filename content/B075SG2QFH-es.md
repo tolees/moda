@@ -22,7 +22,7 @@ Ahora mismo tienes [Collar Mujer Plata de Ley 925 Brillante Cristal Colgante Col
 
 [![Collar Mujer Plata de Ley 925 Brillante ](https://images-eu.ssl-images-amazon.com/images/I/51ZPtQPldfL._SL200_.jpg)](https://www.amazon.es/dp/B075SG2QFH/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B075SG2QFH/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [JACK & JONES Jorphotoxmas tee SS Crew Neck  Camiseta Hombre 
 
 [![JACK & JONES Jorphotoxmas tee SS Crew Ne](https://images-eu.ssl-images-amazon.com/images/I/41zIUIwt9fL._SL200_.jpg)](https://www.amazon.es/dp/B07FQ91JYC/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07FQ91JYC/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Lee Stripe tee Camiseta  Marfil  Indigo Flash ED   40  Talla
 
 [![Lee Stripe tee Camiseta  Marfil  Indigo ](https://images-eu.ssl-images-amazon.com/images/I/41zzwTPHhXL._SL200_.jpg)](https://www.amazon.es/dp/B07FSGX1DN/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07FSGX1DN/?tag=tolees-21)

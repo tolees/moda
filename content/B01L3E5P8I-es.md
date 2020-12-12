@@ -22,7 +22,7 @@ Ahora mismo tienes [Geographical Norway Wm683F  Chaleco para Mujer  Gris  M](htt
 
 [![Geographical Norway Wm683F  Chaleco para](https://images-eu.ssl-images-amazon.com/images/I/517pHb-AXDL._SL200_.jpg)](https://www.amazon.es/dp/B01L3E5P8I/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01L3E5P8I/?tag=tolees-21)

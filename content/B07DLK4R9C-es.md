@@ -22,7 +22,7 @@ Ahora mismo tienes [Springfield 6.T.Ap. Plumas C.Alto Chaqueta   Gama Verdes 29 
 
 [![Springfield 6.T.Ap. Plumas C.Alto Chaque](https://images-eu.ssl-images-amazon.com/images/I/41PWu5pRi6L._SL200_.jpg)](https://www.amazon.es/dp/B07DLK4R9C/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DLK4R9C/?tag=tolees-21)

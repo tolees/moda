@@ -22,7 +22,7 @@ Ahora mismo tienes [Tommy Jeans TJM Essential Box Logo tee Camiseta  Gris  LT Gr
 
 [![Tommy Jeans TJM Essential Box Logo tee C](https://images-eu.ssl-images-amazon.com/images/I/41g2hobeiML._SL200_.jpg)](https://www.amazon.es/dp/B07LBM1PNH/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07LBM1PNH/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Pepa Loves Cross Sweatshirt Cream Sudadera  Beige  40  Tama�
 
 [![Pepa Loves Cross Sweatshirt Cream Sudade](https://images-eu.ssl-images-amazon.com/images/I/416fGjB0BBL._SL200_.jpg)](https://www.amazon.es/dp/B072LYCD86/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B072LYCD86/?tag=tolees-21)

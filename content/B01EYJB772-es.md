@@ -22,7 +22,7 @@ Ahora mismo tienes [Kappa Bliss Mid Ii Tex  Botines Unisex Niños  Azul  EU 31](
 
 [![Kappa Bliss Mid Ii Tex  Botines Unisex N](https://images-eu.ssl-images-amazon.com/images/I/51rdMsbf1QL._SL200_.jpg)](https://www.amazon.es/dp/B01EYJB772/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01EYJB772/?tag=tolees-21)

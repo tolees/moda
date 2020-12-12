@@ -22,7 +22,7 @@ Ahora mismo tienes [Lacoste L.30 Slide 118 1 Caw  Chanclas para Mujer  Morado  D
 
 [![Lacoste L.30 Slide 118 1 Caw  Chanclas p](https://images-eu.ssl-images-amazon.com/images/I/41SvCd5RMtL._SL200_.jpg)](https://www.amazon.es/dp/B077DGKDFC/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B077DGKDFC/?tag=tolees-21)

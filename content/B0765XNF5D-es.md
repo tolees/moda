@@ -22,7 +22,7 @@ Ahora mismo tienes [JACK & JONES Jjifred Jjoriginal JJ 066 Aw24 Noos Vaqueros Re
 
 [![JACK & JONES Jjifred Jjoriginal JJ 066 A](https://images-eu.ssl-images-amazon.com/images/I/41BJjdwLwZL._SL200_.jpg)](https://www.amazon.es/dp/B0765XNF5D/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0765XNF5D/?tag=tolees-21)

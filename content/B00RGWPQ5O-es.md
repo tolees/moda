@@ -22,7 +22,7 @@ Ahora mismo tienes [Polaroid PLD 6009/S M C3 PRK  Gafas de sol Unisex Adulto  Az
 
 [![Polaroid PLD 6009/S M C3 PRK  Gafas de s](https://images-eu.ssl-images-amazon.com/images/I/31Hd94GKDDL._SL200_.jpg)](https://www.amazon.es/dp/B00RGWPQ5O/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00RGWPQ5O/?tag=tolees-21)

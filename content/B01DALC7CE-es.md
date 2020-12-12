@@ -22,7 +22,7 @@ Ahora mismo tienes [Izas Mijares Camiseta  Mujer  Rojo  XS](https://www.amazon.e
 
 [![Izas Mijares Camiseta  Mujer  Rojo  XS](https://images-eu.ssl-images-amazon.com/images/I/41Tb9RMH3jL._SL200_.jpg)](https://www.amazon.es/dp/B01DALC7CE/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01DALC7CE/?tag=tolees-21)

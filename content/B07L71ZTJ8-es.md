@@ -22,7 +22,7 @@ Ahora mismo tienes [LIU JO Shoes Doroty 05-Sandal Met Leath Slv  Sandalias con P
 
 [![LIU JO Shoes Doroty 05-Sandal Met Leath ](https://images-eu.ssl-images-amazon.com/images/I/41ziuzgdQNL._SL200_.jpg)](https://www.amazon.es/dp/B07L71ZTJ8/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07L71ZTJ8/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Under Armour AF Graphic Po Sudadera  Hombre  Azul  2XL](http
 
 [![Under Armour AF Graphic Po Sudadera  Hom](https://images-eu.ssl-images-amazon.com/images/I/41fO07s0fWL._SL200_.jpg)](https://www.amazon.es/dp/B01NH310VZ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01NH310VZ/?tag=tolees-21)

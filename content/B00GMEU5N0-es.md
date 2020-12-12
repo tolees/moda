@@ -22,7 +22,7 @@ Ahora mismo tienes [Birkenstock Kids ROMA   BF-NUBUK 233073 - Zuecos para unisex
 
 [![Birkenstock Kids ROMA   BF-NUBUK 233073 ](https://images-eu.ssl-images-amazon.com/images/I/41Lh8mJIawL._SL200_.jpg)](https://www.amazon.es/dp/B00GMEU5N0/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00GMEU5N0/?tag=tolees-21)

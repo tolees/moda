@@ -22,7 +22,7 @@ Ahora mismo tienes [JACK & JONES Jactwisted Trunks 3 Pack Bóxer   Fiery Red Det
 
 [![JACK & JONES Jactwisted Trunks 3 Pack Bó](https://images-eu.ssl-images-amazon.com/images/I/513rWcPlV0L._SL200_.jpg)](https://www.amazon.es/dp/B07L1DJ3DD/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07L1DJ3DD/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [HIKARO Sudadera con Capucha y Logo Mujer  Verde  Khaki   40 
 
 [![HIKARO Sudadera con Capucha y Logo Mujer](https://images-eu.ssl-images-amazon.com/images/I/41ocTd%2BSzBL._SL200_.jpg)](https://www.amazon.es/dp/B077YDTTWV/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B077YDTTWV/?tag=tolees-21)

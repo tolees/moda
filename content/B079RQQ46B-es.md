@@ -22,7 +22,7 @@ Ahora mismo tienes [Pepe Jeans Iris PL952412  Vestido para Mujer  Azul  8Oz Old 
 
 [![Pepe Jeans Iris PL952412  Vestido para M](https://images-eu.ssl-images-amazon.com/images/I/41zfssbC3CL._SL200_.jpg)](https://www.amazon.es/dp/B079RQQ46B/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B079RQQ46B/?tag=tolees-21)

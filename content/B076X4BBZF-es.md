@@ -22,7 +22,7 @@ Ahora mismo tienes [Levi s Essential V Neck  Camiseta para Mujer  Negro  Black 0
 
 [![Levi s Essential V Neck  Camiseta para M](https://images-eu.ssl-images-amazon.com/images/I/41aHEnktuML._SL200_.jpg)](https://www.amazon.es/dp/B076X4BBZF/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B076X4BBZF/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Lee Elly  Vaqueros Slim para Mujer  Marfil  Raw Off White Xq
 
 [![Lee Elly  Vaqueros Slim para Mujer  Marf](https://images-eu.ssl-images-amazon.com/images/I/31oZuBumuLL._SL200_.jpg)](https://www.amazon.es/dp/B07FTL5V29/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07FTL5V29/?tag=tolees-21)

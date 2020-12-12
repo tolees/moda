@@ -22,7 +22,7 @@ Ahora mismo tienes [Springfield 490 Raya Emplazada Gg7 Jersey  Hombre  Azul  Gam
 
 [![Springfield 490 Raya Emplazada Gg7 Jerse](https://images-eu.ssl-images-amazon.com/images/I/41sAHrW8eZL._SL200_.jpg)](https://www.amazon.es/dp/B07KZ1XQ9H/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07KZ1XQ9H/?tag=tolees-21)

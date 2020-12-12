@@ -22,7 +22,7 @@ Ahora mismo tienes [Gant 3-Pack Trunk Seasonal Solid Camiseta sin Mangas  Azul  
 
 [![Gant 3-Pack Trunk Seasonal Solid Camiset](https://images-eu.ssl-images-amazon.com/images/I/41sAvJChFgL._SL200_.jpg)](https://www.amazon.es/dp/B07KPQ85JL/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07KPQ85JL/?tag=tolees-21)

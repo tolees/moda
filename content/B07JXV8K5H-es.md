@@ -22,7 +22,7 @@ Ahora mismo tienes [Guess LS Cn Jaguars Swtr  Jersey para Hombre  Negro  Jet Bla
 
 [![Guess LS Cn Jaguars Swtr  Jersey para Ho](https://images-eu.ssl-images-amazon.com/images/I/41UAF5aP4jL._SL200_.jpg)](https://www.amazon.es/dp/B07JXV8K5H/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07JXV8K5H/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Refresh 69724  Sandalias con Plataforma para Mujer  Negro  3
 
 [![Refresh 69724  Sandalias con Plataforma ](https://images-eu.ssl-images-amazon.com/images/I/415mSNFtuzL._SL200_.jpg)](https://www.amazon.es/dp/B07JKW1NW3/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07JKW1NW3/?tag=tolees-21)

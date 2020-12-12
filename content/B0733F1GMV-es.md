@@ -22,7 +22,7 @@ Ahora mismo tienes [T-Shirts Camiseta de Corte Recto para Hombre  Marrón  Ginge
 
 [![T-Shirts Camiseta de Corte Recto para Ho](https://images-eu.ssl-images-amazon.com/images/I/41qwRdpcooL._SL200_.jpg)](https://www.amazon.es/dp/B0733F1GMV/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0733F1GMV/?tag=tolees-21)

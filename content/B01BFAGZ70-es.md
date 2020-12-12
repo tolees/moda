@@ -22,7 +22,7 @@ Ahora mismo tienes [HHG Vestido Azul S](https://www.amazon.es/dp/B01BFAGZ70/?tag
 
 [![HHG Vestido Azul S](https://images-eu.ssl-images-amazon.com/images/I/41JIakF3QtL._SL200_.jpg)](https://www.amazon.es/dp/B01BFAGZ70/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01BFAGZ70/?tag=tolees-21)

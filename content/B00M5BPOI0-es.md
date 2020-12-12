@@ -22,7 +22,7 @@ Ahora mismo tienes [Nike Air MAX Infuriate 2 Mid  Zapatos de Baloncesto para Hom
 
 [![Nike Air MAX Infuriate 2 Mid  Zapatos de](https://images-eu.ssl-images-amazon.com/images/I/31S1BQBO%2BZL._SL200_.jpg)](https://www.amazon.es/dp/B00M5BPOI0/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00M5BPOI0/?tag=tolees-21)

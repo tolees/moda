@@ -22,7 +22,7 @@ Ahora mismo tienes [Lee Daren  Vaqueros Straight para Hombre  Azul  Banshee Worn
 
 [![Lee Daren  Vaqueros Straight para Hombre](https://images-eu.ssl-images-amazon.com/images/I/41RceXY4OfL._SL200_.jpg)](https://www.amazon.es/dp/B076N1QWBT/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B076N1QWBT/?tag=tolees-21)

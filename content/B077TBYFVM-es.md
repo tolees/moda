@@ -22,7 +22,7 @@ Ahora mismo tienes [Refresh 64404  Sandalias con Punta Abierta para Mujer  Negro
 
 [![Refresh 64404  Sandalias con Punta Abier](https://images-eu.ssl-images-amazon.com/images/I/51kvNgT%2BIrL._SL200_.jpg)](https://www.amazon.es/dp/B077TBYFVM/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B077TBYFVM/?tag=tolees-21)

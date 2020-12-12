@@ -22,7 +22,7 @@ Ahora mismo tienes [Lee Scarlett Vaqueros Skinny  Azul  Midtown Blues Haoe   W24
 
 [![Lee Scarlett Vaqueros Skinny  Azul  Midt](https://images-eu.ssl-images-amazon.com/images/I/41eD4Bv-sDL._SL200_.jpg)](https://www.amazon.es/dp/B077NZKLQX/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B077NZKLQX/?tag=tolees-21)

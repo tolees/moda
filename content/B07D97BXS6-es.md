@@ -22,7 +22,7 @@ Ahora mismo tienes [XTI 48614  Botines para Mujer  Negro Plomo  38 EU](https://w
 
 [![XTI 48614  Botines para Mujer  Negro Plo](https://images-eu.ssl-images-amazon.com/images/I/41O2xTXbsUL._SL200_.jpg)](https://www.amazon.es/dp/B07D97BXS6/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07D97BXS6/?tag=tolees-21)

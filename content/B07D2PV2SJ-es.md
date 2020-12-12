@@ -22,7 +22,7 @@ Ahora mismo tienes [Gant KU. Archive Oxford B.d. Shirt  Camisa Niños  Rosa  Lig
 
 [![Gant KU. Archive Oxford B.d. Shirt  Cami](https://images-eu.ssl-images-amazon.com/images/I/314BW5beTAL._SL200_.jpg)](https://www.amazon.es/dp/B07D2PV2SJ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07D2PV2SJ/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Levi s 502 Regular Taper Vaqueros Straight  Azul  Franklin L
 
 [![Levi s 502 Regular Taper Vaqueros Straig](https://images-eu.ssl-images-amazon.com/images/I/41IqVXSr9ML._SL200_.jpg)](https://www.amazon.es/dp/B077VSL9Y3/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B077VSL9Y3/?tag=tolees-21)

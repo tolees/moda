@@ -22,7 +22,7 @@ Ahora mismo tienes [HUGO Dicago  Sudadera para Hombre  Gris  Open Grey 061   XX-
 
 [![HUGO Dicago  Sudadera para Hombre  Gris ](https://images-eu.ssl-images-amazon.com/images/I/41aSnhS-pRL._SL200_.jpg)](https://www.amazon.es/dp/B06XCZL386/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B06XCZL386/?tag=tolees-21)

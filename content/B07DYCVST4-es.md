@@ -22,7 +22,7 @@ Ahora mismo tienes [Quiksilver Molokai Resin Check  Zapatos de Playa y Piscina p
 
 [![Quiksilver Molokai Resin Check  Zapatos ](https://images-eu.ssl-images-amazon.com/images/I/41qY-YCiT6L._SL200_.jpg)](https://www.amazon.es/dp/B07DYCVST4/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DYCVST4/?tag=tolees-21)

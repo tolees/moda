@@ -22,7 +22,7 @@ Ahora mismo tienes [exclusivememorabilia.com Camiseta de fútbol Liverpool 1985-
 
 [![exclusivememorabilia.com Camiseta de fút](https://images-eu.ssl-images-amazon.com/images/I/41lcN9y4WvL._SL200_.jpg)](https://www.amazon.es/dp/B07QHWMJC1/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07QHWMJC1/?tag=tolees-21)

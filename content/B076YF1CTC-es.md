@@ -22,7 +22,7 @@ Ahora mismo tienes [Levi s 314 Shaping Straight  Vaqueros Straight para Mujer  A
 
 [![Levi s 314 Shaping Straight  Vaqueros St](https://images-eu.ssl-images-amazon.com/images/I/41jTumpJUkL._SL200_.jpg)](https://www.amazon.es/dp/B076YF1CTC/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B076YF1CTC/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Lower East Camiseta Manga Corta Hombre  Pack de 5  Hellgrau/
 
 [![Lower East Camiseta Manga Corta Hombre  ](https://images-eu.ssl-images-amazon.com/images/I/41khaifZgNL._SL200_.jpg)](https://www.amazon.es/dp/B00N3TGFV8/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00N3TGFV8/?tag=tolees-21)

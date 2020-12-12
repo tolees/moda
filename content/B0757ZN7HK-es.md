@@ -22,7 +22,7 @@ Ahora mismo tienes [find. Vaqueros Estrechos Hombre  Azul  W42/L32](https://www.
 
 [![find. Vaqueros Estrechos Hombre  Azul  W](https://images-eu.ssl-images-amazon.com/images/I/41q3DjO9cML._SL200_.jpg)](https://www.amazon.es/dp/B0757ZN7HK/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0757ZN7HK/?tag=tolees-21)

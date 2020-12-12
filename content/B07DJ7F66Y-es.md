@@ -22,7 +22,7 @@ Ahora mismo tienes [Geox U Kaven A  Zapatillas para Hombre  Azul  Navy C4002   4
 
 [![Geox U Kaven A  Zapatillas para Hombre  ](https://images-eu.ssl-images-amazon.com/images/I/41u6c5alheL._SL200_.jpg)](https://www.amazon.es/dp/B07DJ7F66Y/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DJ7F66Y/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [KRISP Vestido Moda Mujer Fruncido  Granate  6678   46  6678-
 
 [![KRISP Vestido Moda Mujer Fruncido  Grana](https://images-eu.ssl-images-amazon.com/images/I/41HTQDWPQVL._SL200_.jpg)](https://www.amazon.es/dp/B074KJR3R9/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B074KJR3R9/?tag=tolees-21)

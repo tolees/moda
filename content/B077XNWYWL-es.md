@@ -22,7 +22,7 @@ Ahora mismo tienes [Under Armour - Camiseta de Tirantes para Mujer con Logotipo 
 
 [![Under Armour - Camiseta de Tirantes para](https://images-eu.ssl-images-amazon.com/images/I/41Gwq05RKKL._SL200_.jpg)](https://www.amazon.es/dp/B077XNWYWL/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B077XNWYWL/?tag=tolees-21)

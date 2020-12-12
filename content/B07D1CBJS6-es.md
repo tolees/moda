@@ -22,7 +22,7 @@ Ahora mismo tienes [Marca Amazon - find. Sudadera Súper Suave Mujer  Rosa  Pink
 
 [![Marca Amazon - find. Sudadera Súper Suav](https://m.media-amazon.com/images/I/31ZHuJCw7yL._SL200_.jpg)](https://www.amazon.es/dp/B07D1CBJS6/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 - Precio mínimo ofrecido por este vendedor en los 30 días anteriores a la oferta: 24€
 

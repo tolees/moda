@@ -22,7 +22,7 @@ Ahora mismo tienes [United Colors of Benetton Hombre Sweater L/s Jersey Not Appl
 
 [![United Colors of Benetton Hombre Sweater](https://images-eu.ssl-images-amazon.com/images/I/41D-VxxsXwL._SL200_.jpg)](https://www.amazon.es/dp/B07KTF4KGN/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07KTF4KGN/?tag=tolees-21)

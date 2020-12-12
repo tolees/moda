@@ -22,7 +22,7 @@ Ahora mismo tienes [Geox D Annytah Moc C  Mocasines para Mujer   Brown C0013   3
 
 [![Geox D Annytah Moc C  Mocasines para Muj](https://images-eu.ssl-images-amazon.com/images/I/41UhaQfz1iL._SL200_.jpg)](https://www.amazon.es/dp/B0792GGBG5/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0792GGBG5/?tag=tolees-21)

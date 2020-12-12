@@ -22,7 +22,7 @@ Ahora mismo tienes [Geox Jr Wader  Sandalias Punta Cerrada para Niños  Azul  Na
 
 [![Geox Jr Wader  Sandalias Punta Cerrada p](https://images-eu.ssl-images-amazon.com/images/I/41UvmpivMzL._SL200_.jpg)](https://www.amazon.es/dp/B07DK4QYNQ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DK4QYNQ/?tag=tolees-21)

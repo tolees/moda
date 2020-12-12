@@ -22,7 +22,7 @@ Ahora mismo tienes [Gant O2. Madras Colorful Reg BD SS Camisa  Azul  Persian Blu
 
 [![Gant O2. Madras Colorful Reg BD SS Camis](https://images-eu.ssl-images-amazon.com/images/I/51kx7-c55xL._SL200_.jpg)](https://www.amazon.es/dp/B07KPQ8W8P/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07KPQ8W8P/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [JACK & JONES Jorautumn City tee SS Crew Neck  Camiseta para 
 
 [![JACK & JONES Jorautumn City tee SS Crew ](https://images-eu.ssl-images-amazon.com/images/I/41fUUGzA5QL._SL200_.jpg)](https://www.amazon.es/dp/B07FKSY4QN/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07FKSY4QN/?tag=tolees-21)

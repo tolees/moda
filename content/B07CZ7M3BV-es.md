@@ -22,7 +22,7 @@ Ahora mismo tienes [Lacoste L.30 Slide 318 1 CAM  Chanclas para Hombre  Blanco W
 
 [![Lacoste L.30 Slide 318 1 CAM  Chanclas p](https://images-eu.ssl-images-amazon.com/images/I/31IBfeS%2B9JL._SL200_.jpg)](https://www.amazon.es/dp/B07CZ7M3BV/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07CZ7M3BV/?tag=tolees-21)

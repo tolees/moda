@@ -22,7 +22,7 @@ Ahora mismo tienes [Levi s Sweater  Sudadera con capucha para Niños  negro  bla
 
 [![Levi s Sweater  Sudadera con capucha par](https://images-eu.ssl-images-amazon.com/images/I/31Kp4amDXAL._SL200_.jpg)](https://www.amazon.es/dp/B00LB5Y0FE/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00LB5Y0FE/?tag=tolees-21)

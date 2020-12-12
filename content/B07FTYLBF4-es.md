@@ -22,7 +22,7 @@ Ahora mismo tienes [Vero Moda Vmward Feather LS O-Neck Blouse suéter   Misty Ro
 
 [![Vero Moda Vmward Feather LS O-Neck Blous](https://images-eu.ssl-images-amazon.com/images/I/414ooKqCm2L._SL200_.jpg)](https://www.amazon.es/dp/B07FTYLBF4/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07FTYLBF4/?tag=tolees-21)

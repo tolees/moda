@@ -22,7 +22,7 @@ Ahora mismo tienes [BILLABONG Distant Highway Blusa  Mujer  Negro  Black 19   X-
 
 [![BILLABONG Distant Highway Blusa  Mujer  ](https://images-eu.ssl-images-amazon.com/images/I/41e%2BkgPLCgL._SL200_.jpg)](https://www.amazon.es/dp/B07F1FSFPC/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07F1FSFPC/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Glamorous Print Dress  Vestido para Mujer   Brown Rib Animal
 
 [![Glamorous Print Dress  Vestido para Muje](https://images-eu.ssl-images-amazon.com/images/I/41PDbMlBAjL._SL200_.jpg)](https://www.amazon.es/dp/B07HZB88R9/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07HZB88R9/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [DC Comics Camiseta Manga Corta Flash Line Logo Verde Militar
 
 [![DC Comics Camiseta Manga Corta Flash Lin](https://images-eu.ssl-images-amazon.com/images/I/41Wt0C2MtKL._SL200_.jpg)](https://www.amazon.es/dp/B01A5ODY62/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01A5ODY62/?tag=tolees-21)

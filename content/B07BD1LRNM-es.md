@@ -22,7 +22,7 @@ Ahora mismo tienes [Columbia Silver Ridge II Convertible Pantalón de Senderismo
 
 [![Columbia Silver Ridge II Convertible Pan](https://images-eu.ssl-images-amazon.com/images/I/31QgWZn8tgL._SL200_.jpg)](https://www.amazon.es/dp/B07BD1LRNM/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07BD1LRNM/?tag=tolees-21)

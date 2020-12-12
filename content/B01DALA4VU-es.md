@@ -22,7 +22,7 @@ Ahora mismo tienes [Izas Mijares Camiseta  Mujer  Fucsia  L](https://www.amazon.
 
 [![Izas Mijares Camiseta  Mujer  Fucsia  L](https://images-eu.ssl-images-amazon.com/images/I/41kq%2BXMiwcL._SL200_.jpg)](https://www.amazon.es/dp/B01DALA4VU/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01DALA4VU/?tag=tolees-21)

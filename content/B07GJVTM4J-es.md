@@ -22,7 +22,7 @@ Ahora mismo tienes [Carrera Boxer Nbx  Zapatillas de Cross para Hombre  Azul  De
 
 [![Carrera Boxer Nbx  Zapatillas de Cross p](https://images-eu.ssl-images-amazon.com/images/I/41jmwTD1d7L._SL200_.jpg)](https://www.amazon.es/dp/B07GJVTM4J/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07GJVTM4J/?tag=tolees-21)

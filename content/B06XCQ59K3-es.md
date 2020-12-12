@@ -22,7 +22,7 @@ Ahora mismo tienes [Pepe Jeans Saturn Pl201660 Vaqueros  Azul  10Oz Str 8Dip Roy
 
 [![Pepe Jeans Saturn Pl201660 Vaqueros  Azu](https://images-eu.ssl-images-amazon.com/images/I/41%2B6EN1fDeL._SL200_.jpg)](https://www.amazon.es/dp/B06XCQ59K3/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B06XCQ59K3/?tag=tolees-21)

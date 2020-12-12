@@ -22,7 +22,7 @@ Ahora mismo tienes [RIP CURL Big Mama Hz Sudadera  Niños  Negro  14](https://ww
 
 [![RIP CURL Big Mama Hz Sudadera  Niños  Ne](https://images-eu.ssl-images-amazon.com/images/I/41g3y7vXp1L._SL200_.jpg)](https://www.amazon.es/dp/B07FP1LLYM/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07FP1LLYM/?tag=tolees-21)

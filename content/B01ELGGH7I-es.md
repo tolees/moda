@@ -22,7 +22,7 @@ Ahora mismo tienes [Blend Sabbi Dr  Vestido para Mujer  Rojo  Tawny Port  36  Ta
 
 [![Blend Sabbi Dr  Vestido para Mujer  Rojo](https://images-eu.ssl-images-amazon.com/images/I/41GhTGNZMgL._SL200_.jpg)](https://www.amazon.es/dp/B01ELGGH7I/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01ELGGH7I/?tag=tolees-21)

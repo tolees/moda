@@ -22,7 +22,7 @@ Ahora mismo tienes [Naf Naf Jhnt57d  Camiseta de Manga Larga para Mujer  Negro  
 
 [![Naf Naf Jhnt57d  Camiseta de Manga Larga](https://images-eu.ssl-images-amazon.com/images/I/41rJjmKyBWL._SL200_.jpg)](https://www.amazon.es/dp/B07FQTY1NL/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07FQTY1NL/?tag=tolees-21)

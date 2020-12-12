@@ -22,7 +22,7 @@ Ahora mismo tienes [Geox J Alonisso Boy E  Zapatillas para Niños  Blanco  White
 
 [![Geox J Alonisso Boy E  Zapatillas para N](https://images-eu.ssl-images-amazon.com/images/I/41osjcDJSNL._SL200_.jpg)](https://www.amazon.es/dp/B07DK1W1B8/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DK1W1B8/?tag=tolees-21)

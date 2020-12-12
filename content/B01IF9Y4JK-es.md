@@ -22,7 +22,7 @@ Ahora mismo tienes [The North Face Tekware TNF Jersey 100 Glacier  Hombre  TNF B
 
 [![The North Face Tekware TNF Jersey 100 Gl](https://images-eu.ssl-images-amazon.com/images/I/41IdG1Z7u5L._SL200_.jpg)](https://www.amazon.es/dp/B01IF9Y4JK/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01IF9Y4JK/?tag=tolees-21)

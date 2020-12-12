@@ -22,7 +22,7 @@ Ahora mismo tienes [LTB Jeans Molly  Vaqueros Slim para Mujer  Azul  Sian Wash 5
 
 [![LTB Jeans Molly  Vaqueros Slim para Muje](https://images-eu.ssl-images-amazon.com/images/I/41KVOsrBPWL._SL200_.jpg)](https://www.amazon.es/dp/B07HJQ67HK/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07HJQ67HK/?tag=tolees-21)

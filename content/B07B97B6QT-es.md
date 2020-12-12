@@ -22,7 +22,7 @@ Ahora mismo tienes [Clarks Vargo Plain  Zapatos de Cordones Derby para Hombre  M
 
 [![Clarks Vargo Plain  Zapatos de Cordones ](https://images-eu.ssl-images-amazon.com/images/I/31rY%2ByEsaML._SL200_.jpg)](https://www.amazon.es/dp/B07B97B6QT/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07B97B6QT/?tag=tolees-21)

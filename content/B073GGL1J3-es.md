@@ -22,7 +22,7 @@ Ahora mismo tienes [I-D-C CID Vd-pe15301t  Camiseta de Tirantes Hombre  Negro  B
 
 [![I-D-C CID Vd-pe15301t  Camiseta de Tiran](https://images-eu.ssl-images-amazon.com/images/I/41DZl1IMcRL._SL200_.jpg)](https://www.amazon.es/dp/B073GGL1J3/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B073GGL1J3/?tag=tolees-21)

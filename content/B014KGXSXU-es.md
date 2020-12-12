@@ -22,7 +22,7 @@ Ahora mismo tienes [B.Young Chaqueta Larga Azul Única](https://www.amazon.es/dp
 
 [![B.Young Chaqueta Larga Azul Única](https://images-eu.ssl-images-amazon.com/images/I/41aoOXhAMJL._SL200_.jpg)](https://www.amazon.es/dp/B014KGXSXU/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B014KGXSXU/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Lee Rider Jacket  Chaqueta vaquera Mujer  Azul  Super Stonew
 
 [![Lee Rider Jacket  Chaqueta vaquera Mujer](https://images-eu.ssl-images-amazon.com/images/I/41hgnUQFzgL._SL200_.jpg)](https://www.amazon.es/dp/B077PBGCXF/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B077PBGCXF/?tag=tolees-21)

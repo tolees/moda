@@ -22,7 +22,7 @@ Ahora mismo tienes [Timberland Seabury Classic 2 Eye  Náuticos Unisex Niños  M
 
 [![Timberland Seabury Classic 2 Eye  Náutic](https://images-eu.ssl-images-amazon.com/images/I/41BcED0LpeL._SL200_.jpg)](https://www.amazon.es/dp/B00UH2FQ3M/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00UH2FQ3M/?tag=tolees-21)

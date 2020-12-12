@@ -22,7 +22,7 @@ Ahora mismo tienes [Rieker 97790  Botines para Mujer  Verde  Forest/Testadimoro 
 
 [![Rieker 97790  Botines para Mujer  Verde ](https://images-eu.ssl-images-amazon.com/images/I/41mysKKgsYL._SL200_.jpg)](https://www.amazon.es/dp/B07C5BLPW5/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07C5BLPW5/?tag=tolees-21)

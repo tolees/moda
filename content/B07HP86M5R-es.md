@@ -22,7 +22,7 @@ Ahora mismo tienes [Skechers Parton-Wilcon  Zapatos de Cordones Brogue para Homb
 
 [![Skechers Parton-Wilcon  Zapatos de Cordo](https://images-eu.ssl-images-amazon.com/images/I/31kOODvCTVL._SL200_.jpg)](https://www.amazon.es/dp/B07HP86M5R/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07HP86M5R/?tag=tolees-21)

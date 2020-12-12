@@ -22,7 +22,7 @@ Ahora mismo tienes [Springfield 4BA Polo Basico Ml Jersey   Gama Azules 11   Med
 
 [![Springfield 4BA Polo Basico Ml Jersey   ](https://images-eu.ssl-images-amazon.com/images/I/31grXQW037L._SL200_.jpg)](https://www.amazon.es/dp/B07KZ1MCB6/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07KZ1MCB6/?tag=tolees-21)

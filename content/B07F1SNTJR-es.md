@@ -22,7 +22,7 @@ Ahora mismo tienes [New Look Crew  Camiseta para Hombre  Rojo  Dark Burgundy 67 
 
 [![New Look Crew  Camiseta para Hombre  Roj](https://images-eu.ssl-images-amazon.com/images/I/412KR21O5LL._SL200_.jpg)](https://www.amazon.es/dp/B07F1SNTJR/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07F1SNTJR/?tag=tolees-21)

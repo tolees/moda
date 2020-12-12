@@ -22,7 +22,7 @@ Ahora mismo tienes [New Look Maternity Twist Back6128347  Jersey para Mujer   Da
 
 [![New Look Maternity Twist Back6128347  Je](https://images-eu.ssl-images-amazon.com/images/I/41zjD7wbnzL._SL200_.jpg)](https://www.amazon.es/dp/B07MLJG4K3/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07MLJG4K3/?tag=tolees-21)

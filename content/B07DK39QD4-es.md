@@ -22,7 +22,7 @@ Ahora mismo tienes [Geox Jr Ciak Girl a  Zapatillas Altas para Niñas  Pink C800
 
 [![Geox Jr Ciak Girl a  Zapatillas Altas pa](https://images-eu.ssl-images-amazon.com/images/I/41PAm1V5TuL._SL200_.jpg)](https://www.amazon.es/dp/B07DK39QD4/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DK39QD4/?tag=tolees-21)

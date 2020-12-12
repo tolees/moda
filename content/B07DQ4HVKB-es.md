@@ -22,7 +22,7 @@ Ahora mismo tienes [Burton Elodie Chaqueta de Snowboard  Niñas   Flowers   L](h
 
 [![Burton Elodie Chaqueta de Snowboard  Niñ](https://images-eu.ssl-images-amazon.com/images/I/519HHo6ROnL._SL200_.jpg)](https://www.amazon.es/dp/B07DQ4HVKB/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DQ4HVKB/?tag=tolees-21)

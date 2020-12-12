@@ -22,7 +22,7 @@ Ahora mismo tienes [FIND Vestido de Canalé con Cuello Alto para Mujer  Gris  44
 
 [![FIND Vestido de Canalé con Cuello Alto p](https://images-eu.ssl-images-amazon.com/images/I/411VY-mPNML._SL200_.jpg)](https://www.amazon.es/dp/B073VQML4Z/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B073VQML4Z/?tag=tolees-21)

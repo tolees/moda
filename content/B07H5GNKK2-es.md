@@ -22,7 +22,7 @@ Ahora mismo tienes [Desigual Shoes  Lola_Mexican   Chanclas para Mujer   Negro 2
 
 [![Desigual Shoes  Lola_Mexican   Chanclas ](https://images-eu.ssl-images-amazon.com/images/I/51z1JPXSRoL._SL200_.jpg)](https://www.amazon.es/dp/B07H5GNKK2/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07H5GNKK2/?tag=tolees-21)

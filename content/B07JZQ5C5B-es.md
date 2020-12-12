@@ -22,7 +22,7 @@ Ahora mismo tienes [Lee Elly Vaqueros Straight  Azul  Blue Drop Em   30W / 35L p
 
 [![Lee Elly Vaqueros Straight  Azul  Blue D](https://images-eu.ssl-images-amazon.com/images/I/41B0VTE2OQL._SL200_.jpg)](https://www.amazon.es/dp/B07JZQ5C5B/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07JZQ5C5B/?tag=tolees-21)

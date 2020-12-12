@@ -22,7 +22,7 @@ Ahora mismo tienes [Geox D Theragon a  Zapatillas para Mujer  Black C9999  37 EU
 
 [![Geox D Theragon a  Zapatillas para Mujer](https://images-eu.ssl-images-amazon.com/images/I/41AkQWciOeL._SL200_.jpg)](https://www.amazon.es/dp/B07DJ7MBQL/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DJ7MBQL/?tag=tolees-21)

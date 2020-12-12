@@ -22,7 +22,7 @@ Ahora mismo tienes [Geox J Android Girl a  Zapatillas para Niñas  Rosa  White/P
 
 [![Geox J Android Girl a  Zapatillas para N](https://images-eu.ssl-images-amazon.com/images/I/41dZIEuh2kL._SL200_.jpg)](https://www.amazon.es/dp/B07DK33DF1/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DK33DF1/?tag=tolees-21)

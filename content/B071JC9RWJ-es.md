@@ -22,7 +22,7 @@ Ahora mismo tienes [find. Falda Asimétrica para Mujer   Gris  Grey   48  Talla 
 
 [![find. Falda Asimétrica para Mujer   Gris](https://images-eu.ssl-images-amazon.com/images/I/41uh%2BuA4aIL._SL200_.jpg)](https://www.amazon.es/dp/B071JC9RWJ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B071JC9RWJ/?tag=tolees-21)

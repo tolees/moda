@@ -22,7 +22,7 @@ Ahora mismo tienes [Under Armour Speed Stride Tank Camiseta de Tirantes  Mujer  
 
 [![Under Armour Speed Stride Tank Camiseta ](https://images-eu.ssl-images-amazon.com/images/I/41MUV4toTSL._SL200_.jpg)](https://www.amazon.es/dp/B072M2YM9M/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B072M2YM9M/?tag=tolees-21)

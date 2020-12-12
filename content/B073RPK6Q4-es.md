@@ -22,7 +22,7 @@ Ahora mismo tienes [Helly Hansen 67188 Bolso de Mano  Unisex Adulto  Azul  Olymp
 
 [![Helly Hansen 67188 Bolso de Mano  Unisex](https://images-eu.ssl-images-amazon.com/images/I/41s5gPsOTEL._SL200_.jpg)](https://www.amazon.es/dp/B073RPK6Q4/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B073RPK6Q4/?tag=tolees-21)

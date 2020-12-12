@@ -22,7 +22,7 @@ Ahora mismo tienes [FIND Sudadera Oversized con Volantes para Mujer   Rosa  Old 
 
 [![FIND Sudadera Oversized con Volantes par](https://images-eu.ssl-images-amazon.com/images/I/415BajCIAgL._SL200_.jpg)](https://www.amazon.es/dp/B01N0P3B7W/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01N0P3B7W/?tag=tolees-21)

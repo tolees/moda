@@ -22,7 +22,7 @@ Ahora mismo tienes [HIKARO Sudadera con Cuello Alto Mujer  Azul  Aqua   38  Tall
 
 [![HIKARO Sudadera con Cuello Alto Mujer  A](https://images-eu.ssl-images-amazon.com/images/I/41COO1sjk1L._SL200_.jpg)](https://www.amazon.es/dp/B077Y6CLBP/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B077Y6CLBP/?tag=tolees-21)

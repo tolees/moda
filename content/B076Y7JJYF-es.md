@@ -22,7 +22,7 @@ Ahora mismo tienes [Levi s Graphic tee-B Camiseta  Blanco  Hm LS Better White 00
 
 [![Levi s Graphic tee-B Camiseta  Blanco  H](https://images-eu.ssl-images-amazon.com/images/I/31yWcYFen5L._SL200_.jpg)](https://www.amazon.es/dp/B076Y7JJYF/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B076Y7JJYF/?tag=tolees-21)

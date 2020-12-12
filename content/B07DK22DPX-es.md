@@ -22,7 +22,7 @@ Ahora mismo tienes [Geox Baby Kilwi Girl  Zapatillas para Bebés  Azul  Avio C40
 
 [![Geox Baby Kilwi Girl  Zapatillas para Be](https://images-eu.ssl-images-amazon.com/images/I/415DxXxwFML._SL200_.jpg)](https://www.amazon.es/dp/B07DK22DPX/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DK22DPX/?tag=tolees-21)

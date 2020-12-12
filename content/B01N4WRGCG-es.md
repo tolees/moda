@@ -22,7 +22,7 @@ Ahora mismo tienes [Bolsa de deporte grande de alta calidad  bolsa de viaje cort
 
 [![Bolsa de deporte grande de alta calidad ](https://images-eu.ssl-images-amazon.com/images/I/417HWN5GD%2BL._SL200_.jpg)](https://www.amazon.es/dp/B01N4WRGCG/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01N4WRGCG/?tag=tolees-21)

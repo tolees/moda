@@ -22,7 +22,7 @@ Ahora mismo tienes [BDBA 17SS414  Chaqueta Vaquera para Mujer  Azul  Denim  Larg
 
 [![BDBA 17SS414  Chaqueta Vaquera para Muje](https://images-eu.ssl-images-amazon.com/images/I/41KN2%2BPe1DL._SL200_.jpg)](https://www.amazon.es/dp/B06XX6ZC8F/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B06XX6ZC8F/?tag=tolees-21)

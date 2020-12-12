@@ -22,7 +22,7 @@ Ahora mismo tienes [Springfield 373710 Camisa Casual  Hombre  Amarillo  Gama Ama
 
 [![Springfield 373710 Camisa Casual  Hombre](https://images-eu.ssl-images-amazon.com/images/I/51WXvcE8iqL._SL200_.jpg)](https://www.amazon.es/dp/B078HDR8XT/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B078HDR8XT/?tag=tolees-21)

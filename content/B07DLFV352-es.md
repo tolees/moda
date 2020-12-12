@@ -22,7 +22,7 @@ Ahora mismo tienes [Springfield Wo Oxford Polera Camisa Casual  Hombre  Azul  Ga
 
 [![Springfield Wo Oxford Polera Camisa Casu](https://images-eu.ssl-images-amazon.com/images/I/31t%2B7BgTjLL._SL200_.jpg)](https://www.amazon.es/dp/B07DLFV352/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DLFV352/?tag=tolees-21)

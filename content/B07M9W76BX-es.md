@@ -22,7 +22,7 @@ Ahora mismo tienes [Vectry Vestidos De Fiesta para Bodas Talla Grandes Vestidos 
 
 [![Vectry Vestidos De Fiesta para Bodas Tal](https://images-eu.ssl-images-amazon.com/images/I/312B58N8dgL._SL200_.jpg)](https://www.amazon.es/dp/B07M9W76BX/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07M9W76BX/?tag=tolees-21)

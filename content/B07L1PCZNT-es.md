@@ -22,7 +22,7 @@ Ahora mismo tienes [PIMKIE Phs19 Nino Twist Blusa  Negro  Noir 899b09   40 para 
 
 [![PIMKIE Phs19 Nino Twist Blusa  Negro  No](https://images-eu.ssl-images-amazon.com/images/I/51A6NAwCAKL._SL200_.jpg)](https://www.amazon.es/dp/B07L1PCZNT/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07L1PCZNT/?tag=tolees-21)

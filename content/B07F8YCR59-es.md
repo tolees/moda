@@ -22,7 +22,7 @@ Ahora mismo tienes [JACK & JONES Jornew Bento Parka Jacket  Hombre  Azul Total E
 
 [![JACK & JONES Jornew Bento Parka Jacket  ](https://images-eu.ssl-images-amazon.com/images/I/41AsyfwnhTL._SL200_.jpg)](https://www.amazon.es/dp/B07F8YCR59/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07F8YCR59/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Levi s Levis 200SF Optical Zigzag Boxer Brief 2P Culotte  Ro
 
 [![Levi s Levis 200SF Optical Zigzag Boxer ](https://images-eu.ssl-images-amazon.com/images/I/51Pt2OeDe2L._SL200_.jpg)](https://www.amazon.es/dp/B07MTDJX7L/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07MTDJX7L/?tag=tolees-21)

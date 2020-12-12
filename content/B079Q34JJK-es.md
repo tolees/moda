@@ -22,7 +22,7 @@ Ahora mismo tienes [Lee Scarlett Vaqueros Skinny  Negro  Black Trash Vn   W24/L2
 
 [![Lee Scarlett Vaqueros Skinny  Negro  Bla](https://images-eu.ssl-images-amazon.com/images/I/31vyVp7zvmL._SL200_.jpg)](https://www.amazon.es/dp/B079Q34JJK/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B079Q34JJK/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Diesel Buster  Vaqueros Straight para Hombre  Azul  01 Blue 
 
 [![Diesel Buster  Vaqueros Straight para Ho](https://images-eu.ssl-images-amazon.com/images/I/41iZsBFFmsL._SL200_.jpg)](https://www.amazon.es/dp/B07DJ1RJ6J/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DJ1RJ6J/?tag=tolees-21)

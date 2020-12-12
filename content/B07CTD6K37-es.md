@@ -22,7 +22,7 @@ Ahora mismo tienes [Oflamn Bolsa de Viaje Bolsa Fin de Semana - Bolsa de Deporte
 
 [![Oflamn Bolsa de Viaje Bolsa Fin de Seman](https://images-eu.ssl-images-amazon.com/images/I/41cquWmh-wL._SL200_.jpg)](https://www.amazon.es/dp/B07CTD6K37/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07CTD6K37/?tag=tolees-21)

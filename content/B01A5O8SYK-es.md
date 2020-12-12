@@ -22,7 +22,7 @@ Ahora mismo tienes [Marvel Camiseta Manga Corta Core Logo Blanco XL](https://www
 
 [![Marvel Camiseta Manga Corta Core Logo Bl](https://images-eu.ssl-images-amazon.com/images/I/41UEYvOUgcL._SL200_.jpg)](https://www.amazon.es/dp/B01A5O8SYK/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01A5O8SYK/?tag=tolees-21)

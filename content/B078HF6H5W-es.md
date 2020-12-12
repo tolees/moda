@@ -22,7 +22,7 @@ Ahora mismo tienes [Springfield 8953600 Vestido  Mujer   Varios   Small  Tamaño
 
 [![Springfield 8953600 Vestido  Mujer   Var](https://images-eu.ssl-images-amazon.com/images/I/41Zq4e5SNoL._SL200_.jpg)](https://www.amazon.es/dp/B078HF6H5W/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B078HF6H5W/?tag=tolees-21)

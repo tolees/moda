@@ -22,7 +22,7 @@ Ahora mismo tienes [BOSS Biado R Camisa  Azul  Medium Blue 423   XX-Large para H
 
 [![BOSS Biado R Camisa  Azul  Medium Blue 4](https://images-eu.ssl-images-amazon.com/images/I/41YiRmb795L._SL200_.jpg)](https://www.amazon.es/dp/B07D8L92LR/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07D8L92LR/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Desigual Jers_Adeline Chaqueta Punto  Negro 2000  X-Small pa
 
 [![Desigual Jers_Adeline Chaqueta Punto  Ne](https://images-eu.ssl-images-amazon.com/images/I/51RDbt-dGnL._SL200_.jpg)](https://www.amazon.es/dp/B06XQ2ZG3Z/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B06XQ2ZG3Z/?tag=tolees-21)

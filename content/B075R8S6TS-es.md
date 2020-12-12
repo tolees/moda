@@ -22,7 +22,7 @@ Ahora mismo tienes [GOLIATE Kit BDSM Completo Pareja Soft y Hard  Cuero Suave al
 
 [![GOLIATE Kit BDSM Completo Pareja Soft y ](https://images-eu.ssl-images-amazon.com/images/I/51MH3TKcOPL._SL200_.jpg)](https://www.amazon.es/dp/B075R8S6TS/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B075R8S6TS/?tag=tolees-21)

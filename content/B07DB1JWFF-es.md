@@ -22,7 +22,7 @@ Ahora mismo tienes [Mustang Kurzschaftstiefel  Botines para Mujer  Gris  Dunkelg
 
 [![Mustang Kurzschaftstiefel  Botines para ](https://images-eu.ssl-images-amazon.com/images/I/414f-Xw0MiL._SL200_.jpg)](https://www.amazon.es/dp/B07DB1JWFF/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DB1JWFF/?tag=tolees-21)

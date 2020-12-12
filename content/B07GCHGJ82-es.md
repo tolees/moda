@@ -22,7 +22,7 @@ Ahora mismo tienes [El Ganso Oxford Bandera Camisa Casual  Hombre  Azul  Celeste
 
 [![El Ganso Oxford Bandera Camisa Casual  H](https://images-eu.ssl-images-amazon.com/images/I/31y27lue4fL._SL200_.jpg)](https://www.amazon.es/dp/B07GCHGJ82/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07GCHGJ82/?tag=tolees-21)

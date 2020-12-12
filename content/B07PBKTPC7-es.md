@@ -22,7 +22,7 @@ Ahora mismo tienes [New Look Petite Mixed Animal Vestido  Marrón  Brown Pattern
 
 [![New Look Petite Mixed Animal Vestido  Ma](https://images-eu.ssl-images-amazon.com/images/I/51n%2BywOZDkL._SL200_.jpg)](https://www.amazon.es/dp/B07PBKTPC7/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07PBKTPC7/?tag=tolees-21)

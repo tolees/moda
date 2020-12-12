@@ -22,7 +22,7 @@ Ahora mismo tienes [G-STAR RAW Civita Slim T-Shirt Camiseta  Rosa  pyg 7176   X-
 
 [![G-STAR RAW Civita Slim T-Shirt Camiseta ](https://images-eu.ssl-images-amazon.com/images/I/41ac4j4wKqL._SL200_.jpg)](https://www.amazon.es/dp/B07MDBJ88L/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07MDBJ88L/?tag=tolees-21)

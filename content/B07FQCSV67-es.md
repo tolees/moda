@@ -22,7 +22,7 @@ Ahora mismo tienes [JACK & JONES Jjiclark Jjoriginal Zip JJ 913 Noos  Vaqueros S
 
 [![JACK & JONES Jjiclark Jjoriginal Zip JJ ](https://images-eu.ssl-images-amazon.com/images/I/31YP4iiDJiL._SL200_.jpg)](https://www.amazon.es/dp/B07FQCSV67/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07FQCSV67/?tag=tolees-21)

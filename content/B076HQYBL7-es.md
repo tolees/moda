@@ -22,7 +22,7 @@ Ahora mismo tienes [adidas Core18 TR Sudadera  Hombre  Rojo/Blanco  Power   M](h
 
 [![adidas Core18 TR Sudadera  Hombre  Rojo/](https://images-eu.ssl-images-amazon.com/images/I/41ZduBwrWnL._SL200_.jpg)](https://www.amazon.es/dp/B076HQYBL7/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B076HQYBL7/?tag=tolees-21)

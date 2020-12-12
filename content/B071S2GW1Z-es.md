@@ -22,7 +22,7 @@ Ahora mismo tienes [Naf Naf NOBORE Jersey  Negro  Noir 625   S para Mujer](https
 
 [![Naf Naf NOBORE Jersey  Negro  Noir 625  ](https://images-eu.ssl-images-amazon.com/images/I/41BWqUxm4hL._SL200_.jpg)](https://www.amazon.es/dp/B071S2GW1Z/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B071S2GW1Z/?tag=tolees-21)

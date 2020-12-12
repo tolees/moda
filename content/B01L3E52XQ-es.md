@@ -22,7 +22,7 @@ Ahora mismo tienes [Geographical Norway Tansa Lady  Chaqueta Para Mujer  Morado 
 
 [![Geographical Norway Tansa Lady  Chaqueta](https://images-eu.ssl-images-amazon.com/images/I/41mH7y3%2B77L._SL200_.jpg)](https://www.amazon.es/dp/B01L3E52XQ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01L3E52XQ/?tag=tolees-21)

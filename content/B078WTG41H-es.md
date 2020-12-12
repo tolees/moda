@@ -22,7 +22,7 @@ Ahora mismo tienes [Cortefiel Pantalón Liso Tailored Fit Pantalones  Hombre  Az
 
 [![Cortefiel Pantalón Liso Tailored Fit Pan](https://images-eu.ssl-images-amazon.com/images/I/41oAQYP2MNL._SL200_.jpg)](https://www.amazon.es/dp/B078WTG41H/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B078WTG41H/?tag=tolees-21)

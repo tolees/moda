@@ -22,7 +22,7 @@ Ahora mismo tienes [find. Sudadera de Manga Ancha para Mujer   Azul  Sport Red  
 
 [![find. Sudadera de Manga Ancha para Mujer](https://images-eu.ssl-images-amazon.com/images/I/41CDxea5yPL._SL200_.jpg)](https://www.amazon.es/dp/B01N4FPPOC/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01N4FPPOC/?tag=tolees-21)

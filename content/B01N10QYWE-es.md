@@ -22,7 +22,7 @@ Ahora mismo tienes [SELECTED FEMME Sfnatali LS Boatneck-Color Camisa Manga Larga
 
 [![SELECTED FEMME Sfnatali LS Boatneck-Colo](https://images-eu.ssl-images-amazon.com/images/I/51WFLs6ObUL._SL200_.jpg)](https://www.amazon.es/dp/B01N10QYWE/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01N10QYWE/?tag=tolees-21)

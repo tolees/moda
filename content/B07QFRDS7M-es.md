@@ -22,7 +22,7 @@ Ahora mismo tienes [New Look Bermuda Button Falda  Verde  Light Green 31   36  T
 
 [![New Look Bermuda Button Falda  Verde  Li](https://images-eu.ssl-images-amazon.com/images/I/31dhYEzPEkL._SL200_.jpg)](https://www.amazon.es/dp/B07QFRDS7M/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07QFRDS7M/?tag=tolees-21)

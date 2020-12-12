@@ -22,7 +22,7 @@ Ahora mismo tienes [Cressi 1946 Aqua Shoes Zapatos Deportivo para Uso Acuático 
 
 [![Cressi 1946 Aqua Shoes Zapatos Deportivo](https://images-eu.ssl-images-amazon.com/images/I/510owJxMWiL._SL200_.jpg)](https://www.amazon.es/dp/B07JQLG1MQ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07JQLG1MQ/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [find. FP00947.2.1 vestido fiesta mujer  Rojo  Sports Red   4
 
 [![find. FP00947.2.1 vestido fiesta mujer  ](https://images-eu.ssl-images-amazon.com/images/I/4101KC4QsLL._SL200_.jpg)](https://www.amazon.es/dp/B01N4GTPIQ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01N4GTPIQ/?tag=tolees-21)

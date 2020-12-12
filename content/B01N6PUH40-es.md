@@ -22,7 +22,7 @@ Ahora mismo tienes [Lower East Le232 Camisa  Blanco  Weiß/Schwarz   Small](http
 
 [![Lower East Le232 Camisa  Blanco  Weiß/Sc](https://images-eu.ssl-images-amazon.com/images/I/51sdG8omPBL._SL200_.jpg)](https://www.amazon.es/dp/B01N6PUH40/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01N6PUH40/?tag=tolees-21)

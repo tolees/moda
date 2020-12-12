@@ -22,7 +22,7 @@ Ahora mismo tienes [JACK & JONES Jorsheridan Shirt SS Western Noos  Camisa para 
 
 [![JACK & JONES Jorsheridan Shirt SS Wester](https://images-eu.ssl-images-amazon.com/images/I/41U1lxLNHwL._SL200_.jpg)](https://www.amazon.es/dp/B079MGYX1Z/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B079MGYX1Z/?tag=tolees-21)

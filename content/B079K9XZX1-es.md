@@ -22,7 +22,7 @@ Ahora mismo tienes [Napapijri Tres Half  Sudadera suéter  Negro  Black 041   98
 
 [![Napapijri Tres Half  Sudadera suéter  Ne](https://images-eu.ssl-images-amazon.com/images/I/41jWNBGa3NL._SL200_.jpg)](https://www.amazon.es/dp/B079K9XZX1/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B079K9XZX1/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [edc by Esprit Camisa casual para Hombre  Blanco  Off White  
 
 [![edc by Esprit Camisa casual para Hombre ](https://images-eu.ssl-images-amazon.com/images/I/4136EiEswyL._SL200_.jpg)](https://www.amazon.es/dp/B01N6P1XY3/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01N6P1XY3/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [find. Sudadera con Encaje para Mujer   Rojo  Beet Red   36  
 
 [![find. Sudadera con Encaje para Mujer   R](https://images-eu.ssl-images-amazon.com/images/I/41wIH6B1koL._SL200_.jpg)](https://www.amazon.es/dp/B071JB3JCC/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B071JB3JCC/?tag=tolees-21)

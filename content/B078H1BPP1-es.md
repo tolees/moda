@@ -22,7 +22,7 @@ Ahora mismo tienes [Springfield 6883672  Falda Para Mujer  Marfil  Marfil   34  
 
 [![Springfield 6883672  Falda Para Mujer  M](https://images-eu.ssl-images-amazon.com/images/I/41OAw67YONL._SL200_.jpg)](https://www.amazon.es/dp/B078H1BPP1/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B078H1BPP1/?tag=tolees-21)

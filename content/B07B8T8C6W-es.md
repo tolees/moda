@@ -22,7 +22,7 @@ Ahora mismo tienes [Clarks Originals Wallabee Boot  Botines para Mujer  Gris  Gr
 
 [![Clarks Originals Wallabee Boot  Botines ](https://images-eu.ssl-images-amazon.com/images/I/41AuJVqU3JL._SL200_.jpg)](https://www.amazon.es/dp/B07B8T8C6W/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07B8T8C6W/?tag=tolees-21)

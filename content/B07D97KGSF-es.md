@@ -22,7 +22,7 @@ Ahora mismo tienes [XTI 48454  Botines para Mujer  Negro  Black   38 EU](https:/
 
 [![XTI 48454  Botines para Mujer  Negro  Bl](https://images-eu.ssl-images-amazon.com/images/I/41UfY2EE3jL._SL200_.jpg)](https://www.amazon.es/dp/B07D97KGSF/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07D97KGSF/?tag=tolees-21)

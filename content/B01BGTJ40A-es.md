@@ -22,7 +22,7 @@ Ahora mismo tienes [G-STAR RAW 3301 Tapered Vaqueros para Hombre  Azul  dk aged 
 
 [![G-STAR RAW 3301 Tapered Vaqueros para Ho](https://images-eu.ssl-images-amazon.com/images/I/41gT8GpK%2BaL._SL200_.jpg)](https://www.amazon.es/dp/B01BGTJ40A/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01BGTJ40A/?tag=tolees-21)

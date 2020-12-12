@@ -22,7 +22,7 @@ Ahora mismo tienes [Kipling ESSYLA Bolso Bandolera  21 cm  0.5 Liters  Azul  Act
 
 [![Kipling ESSYLA Bolso Bandolera  21 cm  0](https://images-eu.ssl-images-amazon.com/images/I/51jJ8xgnnTL._SL200_.jpg)](https://www.amazon.es/dp/B07DRKVJ94/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DRKVJ94/?tag=tolees-21)

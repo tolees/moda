@@ -22,7 +22,7 @@ Ahora mismo tienes [Pepe Jeans Taylor Falda  Negro  Denim Wc1   Small para Mujer
 
 [![Pepe Jeans Taylor Falda  Negro  Denim Wc](https://images-eu.ssl-images-amazon.com/images/I/41bD1NxV3SL._SL200_.jpg)](https://www.amazon.es/dp/B07C589QJY/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07C589QJY/?tag=tolees-21)

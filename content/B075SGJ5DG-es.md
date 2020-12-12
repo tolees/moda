@@ -22,7 +22,7 @@ Ahora mismo tienes [Springfield 92517 Camiseta  Gris  Grey   Small  Tamaño del 
 
 [![Springfield 92517 Camiseta  Gris  Grey  ](https://images-eu.ssl-images-amazon.com/images/I/412%2Bzw6W9eL._SL200_.jpg)](https://www.amazon.es/dp/B075SGJ5DG/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B075SGJ5DG/?tag=tolees-21)

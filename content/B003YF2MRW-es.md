@@ -22,7 +22,7 @@ Ahora mismo tienes [Timberland Heritage 6" Premium Waterproof  Wide fit   Botas 
 
 [![Timberland Heritage 6" Premium Waterproo](https://images-eu.ssl-images-amazon.com/images/I/41PHRu6nXeL._SL200_.jpg)](https://www.amazon.es/dp/B003YF2MRW/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B003YF2MRW/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Tom Tailor Denim NELA Split L  Light Stone Wash Denim  29  V
 
 [![Tom Tailor Denim NELA Split L  Light Sto](https://images-eu.ssl-images-amazon.com/images/I/41TmnEoinFL._SL200_.jpg)](https://www.amazon.es/dp/B07CQ3PS7Y/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07CQ3PS7Y/?tag=tolees-21)

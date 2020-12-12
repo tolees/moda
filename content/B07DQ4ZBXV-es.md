@@ -22,7 +22,7 @@ Ahora mismo tienes [MTNG Collection Hally  Bolso bandolera para Mujer  Marrón  
 
 [![MTNG Collection Hally  Bolso bandolera p](https://images-eu.ssl-images-amazon.com/images/I/41ELxpyfEoL._SL200_.jpg)](https://www.amazon.es/dp/B07DQ4ZBXV/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DQ4ZBXV/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [oodji Ultra Mujer Camiseta Ancha de Algodón  Verde  ES 34 /
 
 [![oodji Ultra Mujer Camiseta Ancha de Algo](https://images-eu.ssl-images-amazon.com/images/I/51TdKtZfwdL._SL200_.jpg)](https://www.amazon.es/dp/B06XP2LZF9/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B06XP2LZF9/?tag=tolees-21)

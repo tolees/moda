@@ -22,7 +22,7 @@ Ahora mismo tienes [G-STAR RAW Midge Zip Mid Waist Skinny Vaqueros  Azul  lt Vin
 
 [![G-STAR RAW Midge Zip Mid Waist Skinny Va](https://images-eu.ssl-images-amazon.com/images/I/41GFkyVdzHL._SL200_.jpg)](https://www.amazon.es/dp/B071FP3CGT/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B071FP3CGT/?tag=tolees-21)

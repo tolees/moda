@@ -22,7 +22,7 @@ Ahora mismo tienes [Springfield 5 Pack Rayas Bóxer  Hombre  Rojo  Gama Rojo 68 
 
 [![Springfield 5 Pack Rayas Bóxer  Hombre  ](https://images-eu.ssl-images-amazon.com/images/I/51lm-gGurlL._SL200_.jpg)](https://www.amazon.es/dp/B07KYQN1HZ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07KYQN1HZ/?tag=tolees-21)

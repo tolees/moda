@@ -22,7 +22,7 @@ Ahora mismo tienes [Vans Colorblock tee  Camiseta para Hombre  Azul  Dress Blues
 
 [![Vans Colorblock tee  Camiseta para Hombr](https://images-eu.ssl-images-amazon.com/images/I/31u5kE1zGcL._SL200_.jpg)](https://www.amazon.es/dp/B07F31MVPQ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07F31MVPQ/?tag=tolees-21)

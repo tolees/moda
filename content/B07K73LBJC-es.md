@@ -22,7 +22,7 @@ Ahora mismo tienes [Levi s The Perfect Tee - Camiseta para Mujer  Blanco  Hsmk B
 
 [![Levi s The Perfect Tee - Camiseta para M](https://images-eu.ssl-images-amazon.com/images/I/41b1-bE%2BsYL._SL200_.jpg)](https://www.amazon.es/dp/B07K73LBJC/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07K73LBJC/?tag=tolees-21)

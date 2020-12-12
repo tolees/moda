@@ -22,7 +22,7 @@ Ahora mismo tienes [Dolores Promesas 107370 Vestido  Azul   Tamaño del Fabrican
 
 [![Dolores Promesas 107370 Vestido  Azul   ](https://images-eu.ssl-images-amazon.com/images/I/4110zOQixnL._SL200_.jpg)](https://www.amazon.es/dp/B07D7J3JT3/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07D7J3JT3/?tag=tolees-21)

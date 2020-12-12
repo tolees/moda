@@ -22,7 +22,7 @@ Ahora mismo tienes [Salewa Trektail Halbschuh  Zapatos de Low Rise Senderismo pa
 
 [![Salewa Trektail Halbschuh  Zapatos de Lo](https://images-eu.ssl-images-amazon.com/images/I/41jE5GWkoOL._SL200_.jpg)](https://www.amazon.es/dp/B01AJ25OEU/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01AJ25OEU/?tag=tolees-21)

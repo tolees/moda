@@ -22,7 +22,7 @@ Ahora mismo tienes [Mustang Schnür-Stiefelette  Botines para Mujer  Marrón  Ka
 
 [![Mustang Schnür-Stiefelette  Botines para](https://images-eu.ssl-images-amazon.com/images/I/41veh3nlwXL._SL200_.jpg)](https://www.amazon.es/dp/B07DB1LKSD/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DB1LKSD/?tag=tolees-21)

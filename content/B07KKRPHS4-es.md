@@ -22,7 +22,7 @@ Ahora mismo tienes [Naf Naf Kenc32 Blusa  Marfil  Écru 333   40 para Mujer](htt
 
 [![Naf Naf Kenc32 Blusa  Marfil  Écru 333  ](https://images-eu.ssl-images-amazon.com/images/I/41uPB5IGCdL._SL200_.jpg)](https://www.amazon.es/dp/B07KKRPHS4/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07KKRPHS4/?tag=tolees-21)

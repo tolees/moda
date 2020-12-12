@@ -22,7 +22,7 @@ Ahora mismo tienes [find. Zapatos Tacón Bajo Mujer  Amarillo  Yellow   36 EU](h
 
 [![find. Zapatos Tacón Bajo Mujer  Amarillo](https://images-eu.ssl-images-amazon.com/images/I/31o8urrGS%2BL._SL200_.jpg)](https://www.amazon.es/dp/B073QRT9W1/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B073QRT9W1/?tag=tolees-21)

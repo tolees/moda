@@ -22,7 +22,7 @@ Ahora mismo tienes [BOSS Orange Cattitude  Camisa Manga Larga Hombre  Azul  Dark
 
 [![BOSS Orange Cattitude  Camisa Manga Larg](https://images-eu.ssl-images-amazon.com/images/I/41aMcSpepkL._SL200_.jpg)](https://www.amazon.es/dp/B072KHZJ29/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B072KHZJ29/?tag=tolees-21)

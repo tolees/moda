@@ -22,7 +22,7 @@ Ahora mismo tienes [PIECES Psdaja Boot  Botines para Mujer  Negro Black  38 EU](
 
 [![PIECES Psdaja Boot  Botines para Mujer  ](https://images-eu.ssl-images-amazon.com/images/I/31VwrwXuUjL._SL200_.jpg)](https://www.amazon.es/dp/B07CTM433S/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07CTM433S/?tag=tolees-21)

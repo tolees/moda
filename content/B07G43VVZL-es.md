@@ -22,7 +22,7 @@ Ahora mismo tienes [BOSS Trunk 2p Gift Co Bóxer  Rojo  Bright Red 623   X-Large
 
 [![BOSS Trunk 2p Gift Co Bóxer  Rojo  Brigh](https://images-eu.ssl-images-amazon.com/images/I/41RebEKaPBL._SL200_.jpg)](https://www.amazon.es/dp/B07G43VVZL/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07G43VVZL/?tag=tolees-21)

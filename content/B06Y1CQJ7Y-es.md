@@ -22,7 +22,7 @@ Ahora mismo tienes [Wrangler Western Denim Shirt  Camisa Vaquera para Hombre  Az
 
 [![Wrangler Western Denim Shirt  Camisa Vaq](https://images-eu.ssl-images-amazon.com/images/I/41Gw6ay6QiL._SL200_.jpg)](https://www.amazon.es/dp/B06Y1CQJ7Y/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B06Y1CQJ7Y/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Geox J SPACECLUB Girl C  Zapatillas para Niñas   Rose/Lt Pi
 
 [![Geox J SPACECLUB Girl C  Zapatillas para](https://images-eu.ssl-images-amazon.com/images/I/41IhGYhj0WL._SL200_.jpg)](https://www.amazon.es/dp/B07DK57F1R/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DK57F1R/?tag=tolees-21)

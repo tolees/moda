@@ -22,7 +22,7 @@ Ahora mismo tienes [Seafolly Mujer Active Multi Strap Hipster Braguita de Bikini
 
 [![Seafolly Mujer Active Multi Strap Hipste](https://images-eu.ssl-images-amazon.com/images/I/410IEEgE37L._SL200_.jpg)](https://www.amazon.es/dp/B07BN8QP2Z/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07BN8QP2Z/?tag=tolees-21)

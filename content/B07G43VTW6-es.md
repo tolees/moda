@@ -22,7 +22,7 @@ Ahora mismo tienes [Boss Boxer Brief 24 Logo  Hombre  Azul  Dark Blue 404  Mediu
 
 [![Boss Boxer Brief 24 Logo  Hombre  Azul  ](https://images-eu.ssl-images-amazon.com/images/I/41q9b5GzU9L._SL200_.jpg)](https://www.amazon.es/dp/B07G43VTW6/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07G43VTW6/?tag=tolees-21)

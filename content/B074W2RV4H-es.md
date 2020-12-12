@@ -22,7 +22,7 @@ Ahora mismo tienes [Star Wars - Camiseta para mujer - Star Wars - Small](https:/
 
 [![Star Wars - Camiseta para mujer - Star W](https://images-eu.ssl-images-amazon.com/images/I/51Dy66xnAYL._SL200_.jpg)](https://www.amazon.es/dp/B074W2RV4H/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B074W2RV4H/?tag=tolees-21)

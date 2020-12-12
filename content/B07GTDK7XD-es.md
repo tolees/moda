@@ -22,7 +22,7 @@ Ahora mismo tienes [Puma Pique Polo Camiseta  Hombre  Azul  M](https://www.amazo
 
 [![Puma Pique Polo Camiseta  Hombre  Azul  ](https://images-eu.ssl-images-amazon.com/images/I/41UilLcyqDL._SL200_.jpg)](https://www.amazon.es/dp/B07GTDK7XD/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07GTDK7XD/?tag=tolees-21)

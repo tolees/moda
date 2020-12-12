@@ -22,7 +22,7 @@ Ahora mismo tienes [Ogeenier Hombre Deporte Camiseta sin Mangas de Secado Rápid
 
 [![Ogeenier Hombre Deporte Camiseta sin Man](https://images-eu.ssl-images-amazon.com/images/I/41T%2Bs-57EZL._SL200_.jpg)](https://www.amazon.es/dp/B07QRZ1JRV/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07QRZ1JRV/?tag=tolees-21)

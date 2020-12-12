@@ -22,7 +22,7 @@ Ahora mismo tienes [Lee Morton Vaqueros Rectos  Azul  Flick Mid IX   W30/L32 par
 
 [![Lee Morton Vaqueros Rectos  Azul  Flick ](https://images-eu.ssl-images-amazon.com/images/I/4171QMsfaUL._SL200_.jpg)](https://www.amazon.es/dp/B07FTKR9N7/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07FTKR9N7/?tag=tolees-21)

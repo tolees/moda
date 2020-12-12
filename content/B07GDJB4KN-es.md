@@ -22,7 +22,7 @@ Ahora mismo tienes [Levi s Graphic Set-in Neck  Camiseta para Hombre  Azul  Ssnl
 
 [![Levi s Graphic Set-in Neck  Camiseta par](https://images-eu.ssl-images-amazon.com/images/I/41Gp%2BVdbgAL._SL200_.jpg)](https://www.amazon.es/dp/B07GDJB4KN/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07GDJB4KN/?tag=tolees-21)

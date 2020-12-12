@@ -22,7 +22,7 @@ Ahora mismo tienes [edc by Esprit 039CC1K029 Camiseta  Gris  Medium Grey 5 039  
 
 [![edc by Esprit 039CC1K029 Camiseta  Gris ](https://images-eu.ssl-images-amazon.com/images/I/41WunzU6%2B6L._SL200_.jpg)](https://www.amazon.es/dp/B07N37VQJK/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07N37VQJK/?tag=tolees-21)

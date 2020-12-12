@@ -22,7 +22,7 @@ Ahora mismo tienes [Vero Moda Vmmendota LS O-Neck Blouse suéter  Azul  Navy Bla
 
 [![Vero Moda Vmmendota LS O-Neck Blouse sué](https://images-eu.ssl-images-amazon.com/images/I/41YX6UYGB%2BL._SL200_.jpg)](https://www.amazon.es/dp/B072N8FPVR/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B072N8FPVR/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Berydale Vestido veraniego de mujer  versátil  5 posibilida
 
 [![Berydale Vestido veraniego de mujer  ver](https://images-eu.ssl-images-amazon.com/images/I/31PYSmwmvUL._SL200_.jpg)](https://www.amazon.es/dp/B00TH2WJGU/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00TH2WJGU/?tag=tolees-21)

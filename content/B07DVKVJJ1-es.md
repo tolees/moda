@@ -22,7 +22,7 @@ Ahora mismo tienes [adidas Hoops Mid 2.0  Zapatos de Baloncesto Unisex Niños  B
 
 [![adidas Hoops Mid 2.0  Zapatos de Balonce](https://images-eu.ssl-images-amazon.com/images/I/41PJY9vQFlL._SL200_.jpg)](https://www.amazon.es/dp/B07DVKVJJ1/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DVKVJJ1/?tag=tolees-21)

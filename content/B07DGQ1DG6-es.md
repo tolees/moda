@@ -22,7 +22,7 @@ Ahora mismo tienes [Timberland Davis Square 6 Inch  Botas Clasicas Unisex-Niño 
 
 [![Timberland Davis Square 6 Inch  Botas Cl](https://images-eu.ssl-images-amazon.com/images/I/41gX76t4GeL._SL200_.jpg)](https://www.amazon.es/dp/B07DGQ1DG6/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DGQ1DG6/?tag=tolees-21)

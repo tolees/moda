@@ -22,7 +22,7 @@ Ahora mismo tienes [SEWOR lupa mecanismo japonés de cuarzo reloj de bolsillo co
 
 [![SEWOR lupa mecanismo japonés de cuarzo r](https://images-eu.ssl-images-amazon.com/images/I/51-oQywz95L._SL200_.jpg)](https://www.amazon.es/dp/B075XLBMG8/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B075XLBMG8/?tag=tolees-21)

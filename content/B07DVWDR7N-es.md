@@ -22,7 +22,7 @@ Ahora mismo tienes [DC Shoes Spray Se  Zapatos de Playa y Piscina para Mujer  Ro
 
 [![DC Shoes Spray Se  Zapatos de Playa y Pi](https://images-eu.ssl-images-amazon.com/images/I/41QQUAcIrGL._SL200_.jpg)](https://www.amazon.es/dp/B07DVWDR7N/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DVWDR7N/?tag=tolees-21)

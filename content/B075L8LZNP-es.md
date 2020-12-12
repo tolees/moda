@@ -22,7 +22,7 @@ Ahora mismo tienes [TEENO taladro sin cable 21V+2 baterías de iones de litio+41
 
 [![TEENO taladro sin cable 21V+2 baterías d](https://images-eu.ssl-images-amazon.com/images/I/51Olm-N9k0L._SL200_.jpg)](https://www.amazon.es/dp/B075L8LZNP/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B075L8LZNP/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Roxy Tahiti Vi  Zapatos de Playa y Piscina para Mujer  Azul 
 
 [![Roxy Tahiti Vi  Zapatos de Playa y Pisci](https://images-eu.ssl-images-amazon.com/images/I/413Dk06iQLL._SL200_.jpg)](https://www.amazon.es/dp/B07DYM5JB2/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DYM5JB2/?tag=tolees-21)

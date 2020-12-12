@@ -22,7 +22,7 @@ Ahora mismo tienes [Springfield 0 5.G.MD.Bandolera Cadena  Bolso Bandolera para 
 
 [![Springfield 0 5.G.MD.Bandolera Cadena  B](https://images-eu.ssl-images-amazon.com/images/I/41lHzNqa2gL._SL200_.jpg)](https://www.amazon.es/dp/B07KYZ4LFR/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07KYZ4LFR/?tag=tolees-21)

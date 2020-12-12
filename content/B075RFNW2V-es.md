@@ -22,7 +22,7 @@ Ahora mismo tienes [SHANA 73885 Jersey  Gris Perla    Tamaño del Fabricante:M  
 
 [![SHANA 73885 Jersey  Gris Perla    Tamaño](https://images-eu.ssl-images-amazon.com/images/I/41GdrbBfQxL._SL200_.jpg)](https://www.amazon.es/dp/B075RFNW2V/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B075RFNW2V/?tag=tolees-21)

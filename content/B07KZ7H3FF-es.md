@@ -22,7 +22,7 @@ Ahora mismo tienes [Cortefiel C7Cc Denim Slim Verdoso Vaqueros Tapered Gama Azul
 
 [![Cortefiel C7Cc Denim Slim Verdoso Vaquer](https://images-eu.ssl-images-amazon.com/images/I/41QV4rGVZ7L._SL200_.jpg)](https://www.amazon.es/dp/B07KZ7H3FF/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07KZ7H3FF/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Only Onlhanna L/s Top Box Wvn Blusa  Blanco  Cloud Dancer   
 
 [![Only Onlhanna L/s Top Box Wvn Blusa  Bla](https://images-eu.ssl-images-amazon.com/images/I/41Epn8JUzhL._SL200_.jpg)](https://www.amazon.es/dp/B071WFPTHJ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B071WFPTHJ/?tag=tolees-21)

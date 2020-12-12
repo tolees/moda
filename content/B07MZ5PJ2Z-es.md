@@ -22,7 +22,7 @@ Ahora mismo tienes [Superdry Rookie Star Shacket Abrigo  Verde  Dull Army 10Z   
 
 [![Superdry Rookie Star Shacket Abrigo  Ver](https://images-eu.ssl-images-amazon.com/images/I/41rCjVgNHUL._SL200_.jpg)](https://www.amazon.es/dp/B07MZ5PJ2Z/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07MZ5PJ2Z/?tag=tolees-21)

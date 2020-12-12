@@ -22,7 +22,7 @@ Ahora mismo tienes [Naf Naf Kenu42 Camiseta de Manga Larga  Azul  Bleu Marine Ch
 
 [![Naf Naf Kenu42 Camiseta de Manga Larga  ](https://images-eu.ssl-images-amazon.com/images/I/41MFdZTZOjL._SL200_.jpg)](https://www.amazon.es/dp/B07KKRL4BM/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07KKRL4BM/?tag=tolees-21)

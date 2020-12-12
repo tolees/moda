@@ -22,7 +22,7 @@ Ahora mismo tienes [Izas Lee Pantalón Corto  Mujer  Rosa  Fuxia / Grey   L](htt
 
 [![Izas Lee Pantalón Corto  Mujer  Rosa  Fu](https://images-eu.ssl-images-amazon.com/images/I/41LsCGx9iBL._SL200_.jpg)](https://www.amazon.es/dp/B06XSKB5LQ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B06XSKB5LQ/?tag=tolees-21)

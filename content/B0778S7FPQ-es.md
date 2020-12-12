@@ -22,7 +22,7 @@ Ahora mismo tienes [XTI 30753  Zapatos con Tacon y Correa de Tobillo para Mujer 
 
 [![XTI 30753  Zapatos con Tacon y Correa de](https://images-eu.ssl-images-amazon.com/images/I/41jDLpbmDXL._SL200_.jpg)](https://www.amazon.es/dp/B0778S7FPQ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0778S7FPQ/?tag=tolees-21)

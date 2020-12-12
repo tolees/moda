@@ -22,7 +22,7 @@ Ahora mismo tienes [Geox U Vinto A  Zapatillas para Hombre  Azul  Navy   46 EU](
 
 [![Geox U Vinto A  Zapatillas para Hombre  ](https://images-eu.ssl-images-amazon.com/images/I/41mmzcBNGwL._SL200_.jpg)](https://www.amazon.es/dp/B074KM6ZXX/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B074KM6ZXX/?tag=tolees-21)

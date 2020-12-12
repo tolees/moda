@@ -22,7 +22,7 @@ Ahora mismo tienes [adidas Squad 17 JSY SS Camiseta  Niños  Negro  Black/White 
 
 [![adidas Squad 17 JSY SS Camiseta  Niños  ](https://images-eu.ssl-images-amazon.com/images/I/31M%2BenSXurL._SL200_.jpg)](https://www.amazon.es/dp/B01MTOX0G4/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01MTOX0G4/?tag=tolees-21)

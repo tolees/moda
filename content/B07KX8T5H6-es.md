@@ -22,7 +22,7 @@ Ahora mismo tienes [Love Moschino Mujer Embroidered Allover \Ladybirds\_Chambray
 
 [![Love Moschino Mujer Embroidered Allover ](https://images-eu.ssl-images-amazon.com/images/I/416ZYb39wOL._SL200_.jpg)](https://www.amazon.es/dp/B07KX8T5H6/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07KX8T5H6/?tag=tolees-21)

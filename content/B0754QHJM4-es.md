@@ -22,7 +22,7 @@ Ahora mismo tienes [Salomon Agile Chaleco  Hombre  Azul  Surf The Web   L](https
 
 [![Salomon Agile Chaleco  Hombre  Azul  Sur](https://images-eu.ssl-images-amazon.com/images/I/41dS2cOUIBL._SL200_.jpg)](https://www.amazon.es/dp/B0754QHJM4/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0754QHJM4/?tag=tolees-21)

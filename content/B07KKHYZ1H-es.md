@@ -22,7 +22,7 @@ Ahora mismo tienes [Naf Naf Kenu42 Camiseta de Manga Larga  Negro  Noir 625   La
 
 [![Naf Naf Kenu42 Camiseta de Manga Larga  ](https://images-eu.ssl-images-amazon.com/images/I/41yNoDFYpcL._SL200_.jpg)](https://www.amazon.es/dp/B07KKHYZ1H/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07KKHYZ1H/?tag=tolees-21)

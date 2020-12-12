@@ -22,7 +22,7 @@ Ahora mismo tienes [REPLAY Grover Vaqueros Tapered  Azul  Light Blue 10   W28/L3
 
 [![REPLAY Grover Vaqueros Tapered  Azul  Li](https://images-eu.ssl-images-amazon.com/images/I/410wcenDbtL._SL200_.jpg)](https://www.amazon.es/dp/B07KPRR436/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07KPRR436/?tag=tolees-21)

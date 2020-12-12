@@ -22,7 +22,7 @@ Ahora mismo tienes [KOSETI • Cartera de Piel para Hombre. Marca y Fabricación
 
 [![KOSETI • Cartera de Piel para Hombre. Ma](https://images-eu.ssl-images-amazon.com/images/I/414z3VOnYZL._SL200_.jpg)](https://www.amazon.es/dp/B07D79NZ3N/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07D79NZ3N/?tag=tolees-21)

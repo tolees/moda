@@ -22,7 +22,7 @@ Ahora mismo tienes [G-Star Loose Hooded Sw Wmn L/s  Sudadera para Mujer  Blanco 
 
 [![G-Star Loose Hooded Sw Wmn L/s  Sudadera](https://images-eu.ssl-images-amazon.com/images/I/416KMXyH8jL._SL200_.jpg)](https://www.amazon.es/dp/B07B4R9L6M/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07B4R9L6M/?tag=tolees-21)

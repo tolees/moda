@@ -22,7 +22,7 @@ Ahora mismo tienes [Superdry Premium Equipment tee Camiseta  Verde  Vintage Wash
 
 [![Superdry Premium Equipment tee Camiseta ](https://images-eu.ssl-images-amazon.com/images/I/41tMeoZK9YL._SL200_.jpg)](https://www.amazon.es/dp/B077XJLDZB/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B077XJLDZB/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [ALDO Veradia  Botines para Mujer  Negro  Jet Black 2 93   36
 
 [![ALDO Veradia  Botines para Mujer  Negro ](https://images-eu.ssl-images-amazon.com/images/I/31f9SD69xGL._SL200_.jpg)](https://www.amazon.es/dp/B07DGRQBY4/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DGRQBY4/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Geox J Kilwi Girl E  Zapatillas para Niñas  Beige C5000  34
 
 [![Geox J Kilwi Girl E  Zapatillas para Niñ](https://images-eu.ssl-images-amazon.com/images/I/31yLPcofnCL._SL200_.jpg)](https://www.amazon.es/dp/B07DK1P6ZX/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DK1P6ZX/?tag=tolees-21)

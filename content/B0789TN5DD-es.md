@@ -22,7 +22,7 @@ Ahora mismo tienes [Nike Air Versitile III  Zapatos de Baloncesto Unisex Adulto 
 
 [![Nike Air Versitile III  Zapatos de Balon](https://images-eu.ssl-images-amazon.com/images/I/41gAbTWY4bL._SL200_.jpg)](https://www.amazon.es/dp/B0789TN5DD/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0789TN5DD/?tag=tolees-21)

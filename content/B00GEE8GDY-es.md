@@ -22,7 +22,7 @@ Ahora mismo tienes [Columbia Sweet As II Chaqueta  Hombre  Negro  Black   XXL](h
 
 [![Columbia Sweet As II Chaqueta  Hombre  N](https://images-eu.ssl-images-amazon.com/images/I/31q5NVIxHML._SL200_.jpg)](https://www.amazon.es/dp/B00GEE8GDY/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00GEE8GDY/?tag=tolees-21)

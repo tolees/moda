@@ -22,7 +22,7 @@ Ahora mismo tienes [Geox U Kaven A  Zapatillas para Hombre  Marrón  Browncotto/
 
 [![Geox U Kaven A  Zapatillas para Hombre  ](https://images-eu.ssl-images-amazon.com/images/I/41Q8UpX8MQL._SL200_.jpg)](https://www.amazon.es/dp/B07DJ3JG7K/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DJ3JG7K/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Hitchy Transportin Gato/Transportin Perro Pequeño Mascota
 
 [![Hitchy Transportin Gato/Transportin Perr](https://images-eu.ssl-images-amazon.com/images/I/41xh3JAIUyL._SL200_.jpg)](https://www.amazon.es/dp/B07KF6T9F7/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07KF6T9F7/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [edc by Esprit 108cc1f018 Blusa  Negro  Black 001   Small par
 
 [![edc by Esprit 108cc1f018 Blusa  Negro  B](https://images-eu.ssl-images-amazon.com/images/I/31zGT%2BVEBvL._SL200_.jpg)](https://www.amazon.es/dp/B07FWY7SGL/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07FWY7SGL/?tag=tolees-21)

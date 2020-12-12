@@ -22,7 +22,7 @@ Ahora mismo tienes [Cortefiel 7067399  Falda para Mujer  Verde Oscuro  S](https:
 
 [![Cortefiel 7067399  Falda para Mujer  Ver](https://images-eu.ssl-images-amazon.com/images/I/415E1OtrhFL._SL200_.jpg)](https://www.amazon.es/dp/B06XC9P2Q3/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B06XC9P2Q3/?tag=tolees-21)

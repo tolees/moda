@@ -22,7 +22,7 @@ Ahora mismo tienes [Geox JR Sandal Roxanne C  Sandalias con Punta Abierta para N
 
 [![Geox JR Sandal Roxanne C  Sandalias con ](https://images-eu.ssl-images-amazon.com/images/I/41AUuYHsm2L._SL200_.jpg)](https://www.amazon.es/dp/B07DK697BQ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DK697BQ/?tag=tolees-21)

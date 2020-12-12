@@ -22,7 +22,7 @@ Ahora mismo tienes [Havaianas High Fashion  Chanclas para Mujer  Morado  Grape W
 
 [![Havaianas High Fashion  Chanclas para Mu](https://images-eu.ssl-images-amazon.com/images/I/41azgToVe1L._SL200_.jpg)](https://www.amazon.es/dp/B074MK6RMG/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B074MK6RMG/?tag=tolees-21)

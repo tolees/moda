@@ -22,7 +22,7 @@ Ahora mismo tienes [Clarks Lynette Deb  Sandalias con Plataforma Plana para Muje
 
 [![Clarks Lynette Deb  Sandalias con Plataf](https://images-eu.ssl-images-amazon.com/images/I/319hUvfk7aL._SL200_.jpg)](https://www.amazon.es/dp/B07FQZ4BJG/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07FQZ4BJG/?tag=tolees-21)

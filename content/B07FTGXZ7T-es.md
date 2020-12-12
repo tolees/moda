@@ -22,7 +22,7 @@ Ahora mismo tienes [Lee Daren Zip Fly Vaqueros rectors Rectos  Azul  Lt Stone Xf
 
 [![Lee Daren Zip Fly Vaqueros rectors Recto](https://images-eu.ssl-images-amazon.com/images/I/41aQ4nE8YGL._SL200_.jpg)](https://www.amazon.es/dp/B07FTGXZ7T/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07FTGXZ7T/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Geox D Theragon C  Zapatillas para Mujer  Blue/Navy C4294 37
 
 [![Geox D Theragon C  Zapatillas para Mujer](https://images-eu.ssl-images-amazon.com/images/I/31ubXouYhPL._SL200_.jpg)](https://www.amazon.es/dp/B07DJ7MBJH/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DJ7MBJH/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [G-STAR RAW Revend Vaqueros skinny para Hombre para Hombre  N
 
 [![G-STAR RAW Revend Vaqueros skinny para H](https://images-eu.ssl-images-amazon.com/images/I/41qAZ7CFGqL._SL200_.jpg)](https://www.amazon.es/dp/B07MKJH1DK/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07MKJH1DK/?tag=tolees-21)

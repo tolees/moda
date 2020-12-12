@@ -22,7 +22,7 @@ Ahora mismo tienes [Columbia Chaqueta Impermeable para Mujer  Powder Lite Jacket
 
 [![Columbia Chaqueta Impermeable para Mujer](https://images-eu.ssl-images-amazon.com/images/I/41fa66qywRL._SL200_.jpg)](https://www.amazon.es/dp/B07DYX9X1V/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DYX9X1V/?tag=tolees-21)

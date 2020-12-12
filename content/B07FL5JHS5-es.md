@@ -22,7 +22,7 @@ Ahora mismo tienes [Superdry Vintage Logo Entry tee  Camiseta de Tirantes para H
 
 [![Superdry Vintage Logo Entry tee  Camiset](https://images-eu.ssl-images-amazon.com/images/I/41PWqqnFhdL._SL200_.jpg)](https://www.amazon.es/dp/B07FL5JHS5/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07FL5JHS5/?tag=tolees-21)

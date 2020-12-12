@@ -22,7 +22,7 @@ Ahora mismo tienes [New Balance MC NB Ice 2E Camiseta  Mujer  Rosa  Vivid Coral 
 
 [![New Balance MC NB Ice 2E Camiseta  Mujer](https://images-eu.ssl-images-amazon.com/images/I/41ldGoTDPXL._SL200_.jpg)](https://www.amazon.es/dp/B071NRZLLQ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B071NRZLLQ/?tag=tolees-21)

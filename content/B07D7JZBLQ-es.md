@@ -22,7 +22,7 @@ Ahora mismo tienes [Dolores Promesas 107390 Vestido  Amarillo Naran   Tamaño de
 
 [![Dolores Promesas 107390 Vestido  Amarill](https://images-eu.ssl-images-amazon.com/images/I/31HvAI29%2BoL._SL200_.jpg)](https://www.amazon.es/dp/B07D7JZBLQ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07D7JZBLQ/?tag=tolees-21)

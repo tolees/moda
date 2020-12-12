@@ -22,7 +22,7 @@ Ahora mismo tienes [Adidas Duramo Slide  Chanclas Unisex Adulto  Rojo White/Coll
 
 [![Adidas Duramo Slide  Chanclas Unisex Adu](https://images-eu.ssl-images-amazon.com/images/I/31X3Y0GoXIL._SL200_.jpg)](https://www.amazon.es/dp/B073TY2X8Z/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B073TY2X8Z/?tag=tolees-21)

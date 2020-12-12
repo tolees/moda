@@ -22,7 +22,7 @@ Ahora mismo tienes [JACK & JONES Jorflock Sweat Crew Neck  Sudadera Hombre  Negr
 
 [![JACK & JONES Jorflock Sweat Crew Neck  S](https://images-eu.ssl-images-amazon.com/images/I/412gk3ipx0L._SL200_.jpg)](https://www.amazon.es/dp/B07GNVB7LB/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07GNVB7LB/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [XTI 30953  Zapatos de tacón con Punta Cerrada para Mujer  G
 
 [![XTI 30953  Zapatos de tacón con Punta Ce](https://images-eu.ssl-images-amazon.com/images/I/31i064k3UHL._SL200_.jpg)](https://www.amazon.es/dp/B07D9CKZJ4/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07D9CKZJ4/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [JACK & JONES Jcowhelk tee SS Crew Neck  Camiseta Hombre  Gri
 
 [![JACK & JONES Jcowhelk tee SS Crew Neck  ](https://images-eu.ssl-images-amazon.com/images/I/416Wpauud0L._SL200_.jpg)](https://www.amazon.es/dp/B073SBG5G5/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B073SBG5G5/?tag=tolees-21)

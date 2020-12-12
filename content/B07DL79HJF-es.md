@@ -22,7 +22,7 @@ Ahora mismo tienes [Springfield Frq Gingham Melange  Camisa Casual para Hombre  
 
 [![Springfield Frq Gingham Melange  Camisa ](https://images-eu.ssl-images-amazon.com/images/I/51kvH8kzFrL._SL200_.jpg)](https://www.amazon.es/dp/B07DL79HJF/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DL79HJF/?tag=tolees-21)

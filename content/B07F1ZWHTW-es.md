@@ -22,7 +22,7 @@ Ahora mismo tienes [Timberland Newport Bay Canvas  Zapatillas para Hombre  Marr�
 
 [![Timberland Newport Bay Canvas  Zapatilla](https://images-eu.ssl-images-amazon.com/images/I/31JlWAu3R0L._SL200_.jpg)](https://www.amazon.es/dp/B07F1ZWHTW/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07F1ZWHTW/?tag=tolees-21)

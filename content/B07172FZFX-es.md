@@ -22,7 +22,7 @@ Ahora mismo tienes [Only onlROYAL Deluxe REG MB Jeans PIM702 Noos  Vaqueros Skin
 
 [![Only onlROYAL Deluxe REG MB Jeans PIM702](https://images-eu.ssl-images-amazon.com/images/I/416PDBOH37L._SL200_.jpg)](https://www.amazon.es/dp/B07172FZFX/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07172FZFX/?tag=tolees-21)

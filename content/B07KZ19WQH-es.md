@@ -22,7 +22,7 @@ Ahora mismo tienes [Springfield 3.G.M.Trench Antelina Chaqueta  Mujer  Dorado  T
 
 [![Springfield 3.G.M.Trench Antelina Chaque](https://images-eu.ssl-images-amazon.com/images/I/41NUS0agf3L._SL200_.jpg)](https://www.amazon.es/dp/B07KZ19WQH/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07KZ19WQH/?tag=tolees-21)

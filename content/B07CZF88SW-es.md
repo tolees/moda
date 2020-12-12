@@ -22,7 +22,7 @@ Ahora mismo tienes [Under Armour Sportstyle Logo Tank Camiseta sin Mangas  Hombr
 
 [![Under Armour Sportstyle Logo Tank Camise](https://images-eu.ssl-images-amazon.com/images/I/31aJFVqCb5L._SL200_.jpg)](https://www.amazon.es/dp/B07CZF88SW/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07CZF88SW/?tag=tolees-21)

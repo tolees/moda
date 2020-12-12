@@ -22,7 +22,7 @@ Ahora mismo tienes [Geox D Audalies High A  Botas para Mujer  Marrón  Brown   4
 
 [![Geox D Audalies High A  Botas para Mujer](https://images-eu.ssl-images-amazon.com/images/I/41X1aMHzDyL._SL200_.jpg)](https://www.amazon.es/dp/B06Y1RDV7K/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B06Y1RDV7K/?tag=tolees-21)

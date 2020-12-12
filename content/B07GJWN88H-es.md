@@ -22,7 +22,7 @@ Ahora mismo tienes [bugatti 311420103500  Zapatos de Cordones Derby para Hombre 
 
 [![bugatti 311420103500  Zapatos de Cordone](https://images-eu.ssl-images-amazon.com/images/I/312KcC5vTdL._SL200_.jpg)](https://www.amazon.es/dp/B07GJWN88H/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07GJWN88H/?tag=tolees-21)

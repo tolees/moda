@@ -22,7 +22,7 @@ Ahora mismo tienes [Fendi Brillengestelle FF 0048 D28/17-52-17-130 Monturas de g
 
 [![Fendi Brillengestelle FF 0048 D28/17-52-](https://images-eu.ssl-images-amazon.com/images/I/31CLngP8DFL._SL200_.jpg)](https://www.amazon.es/dp/B00NPAKKO8/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00NPAKKO8/?tag=tolees-21)

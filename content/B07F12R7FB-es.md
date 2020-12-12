@@ -22,7 +22,7 @@ Ahora mismo tienes [BILLABONG All Day Zip Hood Jersey  Hombre  Azul  Navy 21   X
 
 [![BILLABONG All Day Zip Hood Jersey  Hombr](https://images-eu.ssl-images-amazon.com/images/I/51HoVvs5T2L._SL200_.jpg)](https://www.amazon.es/dp/B07F12R7FB/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07F12R7FB/?tag=tolees-21)

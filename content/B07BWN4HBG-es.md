@@ -22,7 +22,7 @@ Ahora mismo tienes [tuokener Bolsos de Mujer Nylon Hombro Bolso Bolsa Impermeabl
 
 [![tuokener Bolsos de Mujer Nylon Hombro Bo](https://images-eu.ssl-images-amazon.com/images/I/51oJFLqZ6VL._SL200_.jpg)](https://www.amazon.es/dp/B07BWN4HBG/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07BWN4HBG/?tag=tolees-21)

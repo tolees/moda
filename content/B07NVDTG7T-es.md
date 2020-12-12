@@ -22,7 +22,7 @@ Ahora mismo tienes [ENKEEO Casco de Esquí Unisex Ajustable  14 Salidas de Venti
 
 [![ENKEEO Casco de Esquí Unisex Ajustable  ](https://images-eu.ssl-images-amazon.com/images/I/41aqUF-IDoL._SL200_.jpg)](https://www.amazon.es/dp/B07NVDTG7T/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07NVDTG7T/?tag=tolees-21)

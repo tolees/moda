@@ -22,7 +22,7 @@ Ahora mismo tienes [Trust Urban Exora - Gafas de Realidad Virtual y Auriculares 
 
 [![Trust Urban Exora - Gafas de Realidad Vi](https://images-eu.ssl-images-amazon.com/images/I/31Rv9shLHZL._SL200_.jpg)](https://www.amazon.es/dp/B075CWYVX5/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B075CWYVX5/?tag=tolees-21)

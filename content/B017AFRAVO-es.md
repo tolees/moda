@@ -22,7 +22,7 @@ Ahora mismo tienes [Polaroid PLD 3015/S JY OGL Gafas de sol  Azul  Bluette/Greyb
 
 [![Polaroid PLD 3015/S JY OGL Gafas de sol ](https://images-eu.ssl-images-amazon.com/images/I/31g9iZ%2ByH-L._SL200_.jpg)](https://www.amazon.es/dp/B017AFRAVO/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B017AFRAVO/?tag=tolees-21)

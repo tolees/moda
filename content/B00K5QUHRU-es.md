@@ -22,7 +22,7 @@ Ahora mismo tienes [Wrangler Regular Fit Straight Leg Vaqueros  Azul  Stonewash 
 
 [![Wrangler Regular Fit Straight Leg Vaquer](https://images-eu.ssl-images-amazon.com/images/I/41UByBmOboL._SL200_.jpg)](https://www.amazon.es/dp/B00K5QUHRU/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00K5QUHRU/?tag=tolees-21)

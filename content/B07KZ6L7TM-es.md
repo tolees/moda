@@ -22,7 +22,7 @@ Ahora mismo tienes [Cortefiel C0Cb Oxford Liso TBD Camisa Casual  Blanco 99  Med
 
 [![Cortefiel C0Cb Oxford Liso TBD Camisa Ca](https://images-eu.ssl-images-amazon.com/images/I/31Q0aTL6OOL._SL200_.jpg)](https://www.amazon.es/dp/B07KZ6L7TM/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07KZ6L7TM/?tag=tolees-21)

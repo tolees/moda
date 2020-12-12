@@ -22,7 +22,7 @@ Ahora mismo tienes [AOKULASIC Mens Moda cronógrafo Cuarzo Resistente al Agua mu
 
 [![AOKULASIC Mens Moda cronógrafo Cuarzo Re](https://images-eu.ssl-images-amazon.com/images/I/51gOCxMa4RL._SL200_.jpg)](https://www.amazon.es/dp/B0789DJ5BW/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0789DJ5BW/?tag=tolees-21)

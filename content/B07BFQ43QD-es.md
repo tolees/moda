@@ -22,7 +22,7 @@ Ahora mismo tienes [SELECTED HOMME Slhslimmoonie Shirt LS W Noos  Camisa para Ho
 
 [![SELECTED HOMME Slhslimmoonie Shirt LS W ](https://images-eu.ssl-images-amazon.com/images/I/51ncQ6mI-dL._SL200_.jpg)](https://www.amazon.es/dp/B07BFQ43QD/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07BFQ43QD/?tag=tolees-21)

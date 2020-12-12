@@ -22,7 +22,7 @@ Ahora mismo tienes [Under Armour UA Never out Worked SS Camiseta de Manga Corta 
 
 [![Under Armour UA Never out Worked SS Cami](https://images-eu.ssl-images-amazon.com/images/I/41tcuh41udL._SL200_.jpg)](https://www.amazon.es/dp/B072J2VFVL/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B072J2VFVL/?tag=tolees-21)

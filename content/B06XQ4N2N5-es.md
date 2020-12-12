@@ -22,7 +22,7 @@ Ahora mismo tienes [Desigual Vest_flopo  Vestido para Mujer   Negro 2000   Large
 
 [![Desigual Vest_flopo  Vestido para Mujer ](https://images-eu.ssl-images-amazon.com/images/I/31o-Lye1w-L._SL200_.jpg)](https://www.amazon.es/dp/B06XQ4N2N5/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B06XQ4N2N5/?tag=tolees-21)

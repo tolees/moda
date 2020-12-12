@@ -22,7 +22,7 @@ Ahora mismo tienes [edc by Esprit 057cc1k010  Camiseta Mujer   Dark Blue   40  T
 
 [![edc by Esprit 057cc1k010  Camiseta Mujer](https://images-eu.ssl-images-amazon.com/images/I/51sd25f7cuL._SL200_.jpg)](https://www.amazon.es/dp/B01N7TSNMQ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01N7TSNMQ/?tag=tolees-21)

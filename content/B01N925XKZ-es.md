@@ -22,7 +22,7 @@ Ahora mismo tienes [Esprit 017ee1k010  Camisa Manga Larga Mujer   Navy   38  Tal
 
 [![Esprit 017ee1k010  Camisa Manga Larga Mu](https://images-eu.ssl-images-amazon.com/images/I/412BzzG1c1L._SL200_.jpg)](https://www.amazon.es/dp/B01N925XKZ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01N925XKZ/?tag=tolees-21)

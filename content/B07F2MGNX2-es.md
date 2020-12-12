@@ -22,7 +22,7 @@ Ahora mismo tienes [Levi s The Jacket  Chaqueta Vaquera para Hombre  Azul  Commo
 
 [![Levi s The Jacket  Chaqueta Vaquera para](https://images-eu.ssl-images-amazon.com/images/I/41sUTWV2McL._SL200_.jpg)](https://www.amazon.es/dp/B07F2MGNX2/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07F2MGNX2/?tag=tolees-21)

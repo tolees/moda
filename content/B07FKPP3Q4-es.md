@@ -22,7 +22,7 @@ Ahora mismo tienes [Morgan 162-bara.n Camiseta sin Mangas  Blanco Off White  Sma
 
 [![Morgan 162-bara.n Camiseta sin Mangas  B](https://images-eu.ssl-images-amazon.com/images/I/41a8JGsjQnL._SL200_.jpg)](https://www.amazon.es/dp/B07FKPP3Q4/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07FKPP3Q4/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Mochila Hombre de Viaje  Mochila de Ordenador con Puerto USB
 
 [![Mochila Hombre de Viaje  Mochila de Orde](https://images-eu.ssl-images-amazon.com/images/I/51EZw5tq7IL._SL200_.jpg)](https://www.amazon.es/dp/B07FSBV7XG/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07FSBV7XG/?tag=tolees-21)

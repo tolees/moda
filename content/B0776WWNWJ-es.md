@@ -22,7 +22,7 @@ Ahora mismo tienes [adidas Camiseta de la Selección Española de Fútbol para e
 
 [![adidas Camiseta de la Selección Española](https://images-eu.ssl-images-amazon.com/images/I/41nhRefgxEL._SL200_.jpg)](https://www.amazon.es/dp/B0776WWNWJ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0776WWNWJ/?tag=tolees-21)

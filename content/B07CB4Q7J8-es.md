@@ -22,7 +22,7 @@ Ahora mismo tienes [Mocasines Negros Planos para Mujer Invierno - Zapatos Comodo
 
 [![Mocasines Negros Planos para Mujer Invie](https://images-eu.ssl-images-amazon.com/images/I/4128GF3cvZL._SL200_.jpg)](https://www.amazon.es/dp/B07CB4Q7J8/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07CB4Q7J8/?tag=tolees-21)

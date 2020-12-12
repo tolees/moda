@@ -22,7 +22,7 @@ Ahora mismo tienes [The North Face S/S Red Box tee Camiseta de Manga Corta  Homb
 
 [![The North Face S/S Red Box tee Camiseta ](https://images-eu.ssl-images-amazon.com/images/I/41hjrO15ShL._SL200_.jpg)](https://www.amazon.es/dp/B01MTEOOR4/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01MTEOOR4/?tag=tolees-21)

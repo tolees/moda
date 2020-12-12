@@ -22,7 +22,7 @@ Ahora mismo tienes [Adelheid Glückspilz Handtasche klein 11140133472 - Bolso co
 
 [![Adelheid Glückspilz Handtasche klein 111](https://images-eu.ssl-images-amazon.com/images/I/51ihUnKbGEL._SL200_.jpg)](https://www.amazon.es/dp/B00G1YAH34/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00G1YAH34/?tag=tolees-21)

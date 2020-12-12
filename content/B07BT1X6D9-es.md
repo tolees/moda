@@ -22,7 +22,7 @@ Ahora mismo tienes [oodji Ultra Mujer Camiseta Recortada de Tejido a Rayas  Rosa
 
 [![oodji Ultra Mujer Camiseta Recortada de ](https://images-eu.ssl-images-amazon.com/images/I/51acI3dOtlL._SL200_.jpg)](https://www.amazon.es/dp/B07BT1X6D9/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07BT1X6D9/?tag=tolees-21)

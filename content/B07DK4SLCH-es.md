@@ -22,7 +22,7 @@ Ahora mismo tienes [Geox J New Savage Boy C  Zapatillas para Niños  Navy/Red C0
 
 [![Geox J New Savage Boy C  Zapatillas para](https://images-eu.ssl-images-amazon.com/images/I/41v9cQFd68L._SL200_.jpg)](https://www.amazon.es/dp/B07DK4SLCH/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DK4SLCH/?tag=tolees-21)

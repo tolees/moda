@@ -22,7 +22,7 @@ Ahora mismo tienes [Springfield 9883193  Sandalias con Punta Abierta para Mujer 
 
 [![Springfield 9883193  Sandalias con Punta](https://images-eu.ssl-images-amazon.com/images/I/41ixZ0qkSJL._SL200_.jpg)](https://www.amazon.es/dp/B078HFF2FZ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B078HFF2FZ/?tag=tolees-21)

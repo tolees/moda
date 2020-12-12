@@ -22,7 +22,7 @@ Ahora mismo tienes [Covert Overt Chaqueta Negro M](https://www.amazon.es/dp/B01H
 
 [![Covert Overt Chaqueta Negro M](https://images-eu.ssl-images-amazon.com/images/I/414WU6L40SL._SL200_.jpg)](https://www.amazon.es/dp/B01H1VTXH6/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01H1VTXH6/?tag=tolees-21)

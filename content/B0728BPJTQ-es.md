@@ -22,7 +22,7 @@ Ahora mismo tienes [Under Armour Sportstyle Pique Track Pant Pantalón Largo  Ho
 
 [![Under Armour Sportstyle Pique Track Pant](https://images-eu.ssl-images-amazon.com/images/I/41kSn%2BeKcmL._SL200_.jpg)](https://www.amazon.es/dp/B0728BPJTQ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0728BPJTQ/?tag=tolees-21)

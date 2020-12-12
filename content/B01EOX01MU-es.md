@@ -22,7 +22,7 @@ Ahora mismo tienes [Helly Hansen COASTAL 2 Parka - Parka acolchada impermeable
 
 [![Helly Hansen COASTAL 2 Parka - Parka aco](https://images-eu.ssl-images-amazon.com/images/I/41A9BJnIp1L._SL200_.jpg)](https://www.amazon.es/dp/B01EOX01MU/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01EOX01MU/?tag=tolees-21)

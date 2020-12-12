@@ -22,7 +22,7 @@ Ahora mismo tienes [arena Athena Woman Hook Zapatos de Playa y Piscina  Mujer  N
 
 [![arena Athena Woman Hook Zapatos de Playa](https://images-eu.ssl-images-amazon.com/images/I/41AZeB1UEfL._SL200_.jpg)](https://www.amazon.es/dp/B005FMPDGO/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B005FMPDGO/?tag=tolees-21)

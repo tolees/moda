@@ -22,7 +22,7 @@ Ahora mismo tienes [HIKARO Camiseta Manga Larga Hombre  Gris  Dark Grey   54  Ta
 
 [![HIKARO Camiseta Manga Larga Hombre  Gris](https://images-eu.ssl-images-amazon.com/images/I/51Q%2BpJnvXrL._SL200_.jpg)](https://www.amazon.es/dp/B077Y93YVJ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B077Y93YVJ/?tag=tolees-21)

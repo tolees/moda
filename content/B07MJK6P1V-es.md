@@ -22,7 +22,7 @@ Ahora mismo tienes [Pablosky Sandalias con Punta Abierta para Niñas   Blanco 46
 
 [![Pablosky Sandalias con Punta Abierta par](https://images-eu.ssl-images-amazon.com/images/I/31%2B4X%2BCI1KL._SL200_.jpg)](https://www.amazon.es/dp/B07MJK6P1V/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07MJK6P1V/?tag=tolees-21)

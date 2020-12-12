@@ -22,7 +22,7 @@ Ahora mismo tienes [Lee Brooklyn  Vaqueros Straight para Hombre  Azul  Jurassic 
 
 [![Lee Brooklyn  Vaqueros Straight para Hom](https://images-eu.ssl-images-amazon.com/images/I/41-Hl4fmFGL._SL200_.jpg)](https://www.amazon.es/dp/B077NHHGD9/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B077NHHGD9/?tag=tolees-21)

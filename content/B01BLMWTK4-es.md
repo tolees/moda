@@ -22,7 +22,7 @@ Ahora mismo tienes [Pedro Del Hierro 5505933  Jersey para Mujer  Azul Marino  L]
 
 [![Pedro Del Hierro 5505933  Jersey para Mu](https://images-eu.ssl-images-amazon.com/images/I/51vSjWKqnxL._SL200_.jpg)](https://www.amazon.es/dp/B01BLMWTK4/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01BLMWTK4/?tag=tolees-21)

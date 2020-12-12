@@ -22,7 +22,7 @@ Ahora mismo tienes [Wolpertinger Wiesn WP 5008 - Botines Chukka para mujer  colo
 
 [![Wolpertinger Wiesn WP 5008 - Botines Chu](https://images-eu.ssl-images-amazon.com/images/I/41iNAgTtQBL._SL200_.jpg)](https://www.amazon.es/dp/B00NTVX5X6/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00NTVX5X6/?tag=tolees-21)

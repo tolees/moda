@@ -22,7 +22,7 @@ Ahora mismo tienes [Roxy Share New Words Sudadera con Capucha y Cremallera  Niñ
 
 [![Roxy Share New Words Sudadera con Capuch](https://images-eu.ssl-images-amazon.com/images/I/41xO1I6N8hL._SL200_.jpg)](https://www.amazon.es/dp/B0722PZ3SJ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0722PZ3SJ/?tag=tolees-21)

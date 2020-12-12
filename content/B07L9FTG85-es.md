@@ -22,7 +22,7 @@ Ahora mismo tienes [Napapijri Bevora W C Sudadera  Azul  BLU Marine 176   Large 
 
 [![Napapijri Bevora W C Sudadera  Azul  BLU](https://images-eu.ssl-images-amazon.com/images/I/41JecsbQRVL._SL200_.jpg)](https://www.amazon.es/dp/B07L9FTG85/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07L9FTG85/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [JACK & JONES Jjitim Jjoriginal Jos 220 Noos  Vaqueros Slim H
 
 [![JACK & JONES Jjitim Jjoriginal Jos 220 N](https://images-eu.ssl-images-amazon.com/images/I/31SF9acirKL._SL200_.jpg)](https://www.amazon.es/dp/B07FQB1QZG/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07FQB1QZG/?tag=tolees-21)

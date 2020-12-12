@@ -22,7 +22,7 @@ Ahora mismo tienes [find. Sudadera con Mensaje Mujer  Rosa  X-Small](https://www
 
 [![find. Sudadera con Mensaje Mujer  Rosa  ](https://images-eu.ssl-images-amazon.com/images/I/41lPlT4tHtL._SL200_.jpg)](https://www.amazon.es/dp/B076X4Y9YR/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B076X4Y9YR/?tag=tolees-21)

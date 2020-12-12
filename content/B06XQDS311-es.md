@@ -22,7 +22,7 @@ Ahora mismo tienes [LEGO Tallys 613  Camiseta para Niñas  Morado  Purple   Tama
 
 [![LEGO Tallys 613  Camiseta para Niñas  Mo](https://images-eu.ssl-images-amazon.com/images/I/512sZvKyLOL._SL200_.jpg)](https://www.amazon.es/dp/B06XQDS311/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B06XQDS311/?tag=tolees-21)

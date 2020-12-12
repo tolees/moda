@@ -22,7 +22,7 @@ Ahora mismo tienes [El Naturalista N5020  Zapatos de tacón con Punta Abierta pa
 
 [![El Naturalista N5020  Zapatos de tacón c](https://images-eu.ssl-images-amazon.com/images/I/41JhPbfNNEL._SL200_.jpg)](https://www.amazon.es/dp/B075LMJ8XH/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B075LMJ8XH/?tag=tolees-21)

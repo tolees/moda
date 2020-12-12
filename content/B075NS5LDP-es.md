@@ -22,7 +22,7 @@ Ahora mismo tienes [Gore Wear C5 Pantalón Corto Tirantes  Mujer  Negro  34](htt
 
 [![Gore Wear C5 Pantalón Corto Tirantes  Mu](https://images-eu.ssl-images-amazon.com/images/I/419Osf6uxML._SL200_.jpg)](https://www.amazon.es/dp/B075NS5LDP/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B075NS5LDP/?tag=tolees-21)

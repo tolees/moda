@@ -22,7 +22,7 @@ Ahora mismo tienes [oodji Ultra Mujer Camiseta Recta de Tejido Texturizado  Verd
 
 [![oodji Ultra Mujer Camiseta Recta de Teji](https://images-eu.ssl-images-amazon.com/images/I/51LlDxmBYrL._SL200_.jpg)](https://www.amazon.es/dp/B072R2TZGQ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B072R2TZGQ/?tag=tolees-21)

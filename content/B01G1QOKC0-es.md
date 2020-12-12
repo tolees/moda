@@ -22,7 +22,7 @@ Ahora mismo tienes [Hengying Vertical Funda para Cinturón Bolso de Cintura Homb
 
 [![Hengying Vertical Funda para Cinturón Bo](https://images-eu.ssl-images-amazon.com/images/I/41qUrWc07qL._SL200_.jpg)](https://www.amazon.es/dp/B01G1QOKC0/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01G1QOKC0/?tag=tolees-21)

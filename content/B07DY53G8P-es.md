@@ -22,7 +22,7 @@ Ahora mismo tienes [Under Armour Baseline Word Mark tee - Camiseta de Manga Cort
 
 [![Under Armour Baseline Word Mark tee - Ca](https://images-eu.ssl-images-amazon.com/images/I/312JDQfViWL._SL200_.jpg)](https://www.amazon.es/dp/B07DY53G8P/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DY53G8P/?tag=tolees-21)

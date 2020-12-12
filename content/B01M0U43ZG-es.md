@@ -22,7 +22,7 @@ Ahora mismo tienes [Timberland Reloj Analógico para Hombre de Cuarzo con Correa
 
 [![Timberland Reloj Analógico para Hombre d](https://images-eu.ssl-images-amazon.com/images/I/51cTyEi%2BOmL._SL200_.jpg)](https://www.amazon.es/dp/B01M0U43ZG/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01M0U43ZG/?tag=tolees-21)

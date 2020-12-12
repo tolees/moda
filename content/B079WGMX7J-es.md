@@ -22,7 +22,7 @@ Ahora mismo tienes [Pepe Jeans Candy PL401524 Chaqueta  Azul  Dulwich 594   X-La
 
 [![Pepe Jeans Candy PL401524 Chaqueta  Azul](https://images-eu.ssl-images-amazon.com/images/I/41OOl0hlNxL._SL200_.jpg)](https://www.amazon.es/dp/B079WGMX7J/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B079WGMX7J/?tag=tolees-21)

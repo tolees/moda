@@ -22,7 +22,7 @@ Ahora mismo tienes [Timberland Splitrock 2  Botas Chukka para Hombre  Beige  Whe
 
 [![Timberland Splitrock 2  Botas Chukka par](https://images-eu.ssl-images-amazon.com/images/I/519dTdgS-dL._SL200_.jpg)](https://www.amazon.es/dp/B014CWNVNO/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B014CWNVNO/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Levi s kids Nn10024 01 Short Sleeve tee-Shirt Camiseta Blanc
 
 [![Levi s kids Nn10024 01 Short Sleeve tee-](https://images-eu.ssl-images-amazon.com/images/I/31rVOS8QizL._SL200_.jpg)](https://www.amazon.es/dp/B07K51FN1W/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07K51FN1W/?tag=tolees-21)

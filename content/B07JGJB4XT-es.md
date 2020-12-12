@@ -22,7 +22,7 @@ Ahora mismo tienes [IRIS & LILLY Sh191278 Braguita de Bikini  Multicolor  Tropic
 
 [![IRIS & LILLY Sh191278 Braguita de Bikini](https://images-eu.ssl-images-amazon.com/images/I/41WFToX7L0L._SL200_.jpg)](https://www.amazon.es/dp/B07JGJB4XT/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07JGJB4XT/?tag=tolees-21)

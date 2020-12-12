@@ -22,7 +22,7 @@ Ahora mismo tienes [Under Armour Sc30 - Sudadera con Capucha y Forro Polar para 
 
 [![Under Armour Sc30 - Sudadera con Capucha](https://images-eu.ssl-images-amazon.com/images/I/51n2Wsv04cL._SL200_.jpg)](https://www.amazon.es/dp/B0781VYS4S/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0781VYS4S/?tag=tolees-21)

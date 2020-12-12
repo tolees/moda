@@ -22,7 +22,7 @@ Ahora mismo tienes [JACK & JONES Jorsuburban tee SS Crew Neck  Camiseta para Hom
 
 [![JACK & JONES Jorsuburban tee SS Crew Nec](https://images-eu.ssl-images-amazon.com/images/I/41OqMOXL%2BFL._SL200_.jpg)](https://www.amazon.es/dp/B07L1DKBRR/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07L1DKBRR/?tag=tolees-21)

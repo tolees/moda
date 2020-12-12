@@ -22,7 +22,7 @@ Ahora mismo tienes [Izas Florenz Chaqueta de Pluma con Capucha para Hombre  Azul
 
 [![Izas Florenz Chaqueta de Pluma con Capuc](https://images-eu.ssl-images-amazon.com/images/I/41-90ePZzcL._SL200_.jpg)](https://www.amazon.es/dp/B071HQHZML/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B071HQHZML/?tag=tolees-21)

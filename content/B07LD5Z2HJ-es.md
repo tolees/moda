@@ -22,7 +22,7 @@ Ahora mismo tienes [New Look Burgundy Tile Print 6053063  Camisa para Hombre  Ro
 
 [![New Look Burgundy Tile Print 6053063  Ca](https://images-eu.ssl-images-amazon.com/images/I/51274JnO5BL._SL200_.jpg)](https://www.amazon.es/dp/B07LD5Z2HJ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07LD5Z2HJ/?tag=tolees-21)

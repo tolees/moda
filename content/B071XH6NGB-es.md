@@ -22,7 +22,7 @@ Ahora mismo tienes [DoGeek Escarpines Antideslizante Zapato de Agua Zapatos de P
 
 [![DoGeek Escarpines Antideslizante Zapato ](https://images-eu.ssl-images-amazon.com/images/I/41%2Bz0VhiU2L._SL200_.jpg)](https://www.amazon.es/dp/B071XH6NGB/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B071XH6NGB/?tag=tolees-21)

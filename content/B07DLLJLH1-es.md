@@ -22,7 +22,7 @@ Ahora mismo tienes [Springfield INT. Plumas Largo  Abrigo para Mujer  Dorado  To
 
 [![Springfield INT. Plumas Largo  Abrigo pa](https://images-eu.ssl-images-amazon.com/images/I/31p8nPxxX6L._SL200_.jpg)](https://www.amazon.es/dp/B07DLLJLH1/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DLLJLH1/?tag=tolees-21)

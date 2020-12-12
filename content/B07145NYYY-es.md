@@ -22,7 +22,7 @@ Ahora mismo tienes [FIND Sudadera de Tercipelo de Manga Larga para Mujer   Amari
 
 [![FIND Sudadera de Tercipelo de Manga Larg](https://images-eu.ssl-images-amazon.com/images/I/41ZkuWel3qL._SL200_.jpg)](https://www.amazon.es/dp/B07145NYYY/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07145NYYY/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Geox U Calgary D  Zapatos para Hombre  Negro  Black C9999   
 
 [![Geox U Calgary D  Zapatos para Hombre  N](https://images-eu.ssl-images-amazon.com/images/I/31OgkLAhv0L._SL200_.jpg)](https://www.amazon.es/dp/B07DJCP37P/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DJCP37P/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Desigual Shoes  Flip Flop_Tropical   Chanclas para Mujer   N
 
 [![Desigual Shoes  Flip Flop_Tropical   Cha](https://images-eu.ssl-images-amazon.com/images/I/51tCjWpQybL._SL200_.jpg)](https://www.amazon.es/dp/B07H5J1FN7/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07H5J1FN7/?tag=tolees-21)

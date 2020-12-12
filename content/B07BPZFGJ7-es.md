@@ -22,7 +22,7 @@ Ahora mismo tienes [Lee Ultimate Shirt Blusa  Beige  Cloud Dancer Ha  Ha  Medium
 
 [![Lee Ultimate Shirt Blusa  Beige  Cloud D](https://images-eu.ssl-images-amazon.com/images/I/41NRMhdPNtL._SL200_.jpg)](https://www.amazon.es/dp/B07BPZFGJ7/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07BPZFGJ7/?tag=tolees-21)

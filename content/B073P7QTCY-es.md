@@ -22,7 +22,7 @@ Ahora mismo tienes [Lotto Jersey Delta Camiseta de Fútbol  Hombre  Azul  nvy/Wh
 
 [![Lotto Jersey Delta Camiseta de Fútbol  H](https://images-eu.ssl-images-amazon.com/images/I/41GNc0hybuL._SL200_.jpg)](https://www.amazon.es/dp/B073P7QTCY/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B073P7QTCY/?tag=tolees-21)

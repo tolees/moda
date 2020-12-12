@@ -22,7 +22,7 @@ Ahora mismo tienes [Refresh 69819  Botines para Mujer  Blanco Hielo  39 EU](http
 
 [![Refresh 69819  Botines para Mujer  Blanc](https://images-eu.ssl-images-amazon.com/images/I/41kUC4fUyvL._SL200_.jpg)](https://www.amazon.es/dp/B07JX9PMP4/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07JX9PMP4/?tag=tolees-21)

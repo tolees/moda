@@ -22,7 +22,7 @@ Ahora mismo tienes [Disney Bella Bolso Bandolera  17 cm  1.02 Litros  Varios col
 
 [![Disney Bella Bolso Bandolera  17 cm  1.0](https://images-eu.ssl-images-amazon.com/images/I/41huiFv2ROL._SL200_.jpg)](https://www.amazon.es/dp/B06WWM8F75/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B06WWM8F75/?tag=tolees-21)

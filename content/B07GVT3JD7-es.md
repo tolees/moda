@@ -22,7 +22,7 @@ Ahora mismo tienes [JACK & JONES Jcojans Sweat Zip Hood  Sudadera para Hombre  G
 
 [![JACK & JONES Jcojans Sweat Zip Hood  Sud](https://images-eu.ssl-images-amazon.com/images/I/41CMaXU-ToL._SL200_.jpg)](https://www.amazon.es/dp/B07GVT3JD7/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07GVT3JD7/?tag=tolees-21)

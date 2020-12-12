@@ -22,7 +22,7 @@ Ahora mismo tienes [MAMALICIOUS Mlaine L/s Jersey Top Mix  Camiseta de manchas l
 
 [![MAMALICIOUS Mlaine L/s Jersey Top Mix  C](https://images-eu.ssl-images-amazon.com/images/I/412Z2LPWhcL._SL200_.jpg)](https://www.amazon.es/dp/B01MRF7BV6/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01MRF7BV6/?tag=tolees-21)

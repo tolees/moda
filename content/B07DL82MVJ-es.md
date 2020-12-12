@@ -22,7 +22,7 @@ Ahora mismo tienes [Springfield 4.2.T.Ap. Biker PU  Chaqueta para Mujer   Negro 
 
 [![Springfield 4.2.T.Ap. Biker PU  Chaqueta](https://images-eu.ssl-images-amazon.com/images/I/41TL9ekCgkL._SL200_.jpg)](https://www.amazon.es/dp/B07DL82MVJ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DL82MVJ/?tag=tolees-21)

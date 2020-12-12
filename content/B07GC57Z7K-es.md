@@ -22,7 +22,7 @@ Ahora mismo tienes [Puma Pique Polo Camiseta  Hombre  Gris  Medium Gray Heather 
 
 [![Puma Pique Polo Camiseta  Hombre  Gris  ](https://images-eu.ssl-images-amazon.com/images/I/41omuM7BGEL._SL200_.jpg)](https://www.amazon.es/dp/B07GC57Z7K/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07GC57Z7K/?tag=tolees-21)

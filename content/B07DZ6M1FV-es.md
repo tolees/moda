@@ -22,7 +22,7 @@ Ahora mismo tienes [Columbia Chillin Fleece Non Hooded Chaqueta Polar  Mujer  Ne
 
 [![Columbia Chillin Fleece Non Hooded Chaqu](https://images-eu.ssl-images-amazon.com/images/I/41l2VgN%2BmJL._SL200_.jpg)](https://www.amazon.es/dp/B07DZ6M1FV/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DZ6M1FV/?tag=tolees-21)

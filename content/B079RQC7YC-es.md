@@ -22,7 +22,7 @@ Ahora mismo tienes [Pepe Jeans Zen  Sudadera con Capucha para Hombre  Azul  Chat
 
 [![Pepe Jeans Zen  Sudadera con Capucha par](https://images-eu.ssl-images-amazon.com/images/I/41iKBH1ghkL._SL200_.jpg)](https://www.amazon.es/dp/B079RQC7YC/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B079RQC7YC/?tag=tolees-21)

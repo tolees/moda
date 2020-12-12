@@ -22,7 +22,7 @@ Ahora mismo tienes [Puma Leadcat  Chanclas Unisex Adulto  Blanco White-Sweet Lav
 
 [![Puma Leadcat  Chanclas Unisex Adulto  Bl](https://images-eu.ssl-images-amazon.com/images/I/31WgUdykXQL._SL200_.jpg)](https://www.amazon.es/dp/B07DC7GL72/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DC7GL72/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Columbia Triple Canyon Pantalón Largo  Hombre  Gris  Grill 
 
 [![Columbia Triple Canyon Pantalón Largo  H](https://images-eu.ssl-images-amazon.com/images/I/31sDhs6CvxL._SL200_.jpg)](https://www.amazon.es/dp/B01NCMQUX7/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01NCMQUX7/?tag=tolees-21)

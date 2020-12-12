@@ -22,7 +22,7 @@ Ahora mismo tienes [HIKARO Pantalón con Logo Corto Mujer  Rosa  Pink Marl   42 
 
 [![HIKARO Pantalón con Logo Corto Mujer  Ro](https://images-eu.ssl-images-amazon.com/images/I/41tnTEUHHqL._SL200_.jpg)](https://www.amazon.es/dp/B077YHNTLZ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B077YHNTLZ/?tag=tolees-21)

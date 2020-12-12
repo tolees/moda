@@ -22,7 +22,7 @@ Ahora mismo tienes [Desigual TS Dalila Camiseta de Manga 3/4  Azul  Navy 5000   
 
 [![Desigual TS Dalila Camiseta de Manga 3/4](https://images-eu.ssl-images-amazon.com/images/I/41uXqTMdYNL._SL200_.jpg)](https://www.amazon.es/dp/B079SS5G8N/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B079SS5G8N/?tag=tolees-21)

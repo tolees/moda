@@ -22,7 +22,7 @@ Ahora mismo tienes [Columbia Jones Ridge Jacket Chaqueta Impermeable  Aislamient
 
 [![Columbia Jones Ridge Jacket Chaqueta Imp](https://images-eu.ssl-images-amazon.com/images/I/41S%2BA%2Bb35iL._SL200_.jpg)](https://www.amazon.es/dp/B0797DNGHG/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0797DNGHG/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Puma Epic Flip V2  Chanclas Unisex Adulto  Rosa  Winsome Orc
 
 [![Puma Epic Flip V2  Chanclas Unisex Adult](https://images-eu.ssl-images-amazon.com/images/I/31l1ZDRlUWL._SL200_.jpg)](https://www.amazon.es/dp/B07CZ436VP/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07CZ436VP/?tag=tolees-21)

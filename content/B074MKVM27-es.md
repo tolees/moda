@@ -22,7 +22,7 @@ Ahora mismo tienes [Havaianas Urban Basic  Chanclas para Hombre  Azul  Navy Blue
 
 [![Havaianas Urban Basic  Chanclas para Hom](https://images-eu.ssl-images-amazon.com/images/I/51ZwxSmStmL._SL200_.jpg)](https://www.amazon.es/dp/B074MKVM27/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B074MKVM27/?tag=tolees-21)

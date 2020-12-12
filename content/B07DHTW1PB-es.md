@@ -22,7 +22,7 @@ Ahora mismo tienes [Quiksilver Mission Chaqueta de Nieve  Hombre  Gris  Simple T
 
 [![Quiksilver Mission Chaqueta de Nieve  Ho](https://images-eu.ssl-images-amazon.com/images/I/41xhGwJ-eHL._SL200_.jpg)](https://www.amazon.es/dp/B07DHTW1PB/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DHTW1PB/?tag=tolees-21)

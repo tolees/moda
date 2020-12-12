@@ -22,7 +22,7 @@ Ahora mismo tienes [Superdry Low Roller tee Camiseta  Amarillo  Fluro Yellow 23K
 
 [![Superdry Low Roller tee Camiseta  Amaril](https://images-eu.ssl-images-amazon.com/images/I/31ImbsxRSdL._SL200_.jpg)](https://www.amazon.es/dp/B07MZKJB1N/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07MZKJB1N/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [JACK & JONES VINTAGE Jjvsebastian LS Granddad Noos  Camisa M
 
 [![JACK & JONES VINTAGE Jjvsebastian LS Gra](https://images-eu.ssl-images-amazon.com/images/I/41AOPGQ4ohL._SL200_.jpg)](https://www.amazon.es/dp/B071HRS5N4/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B071HRS5N4/?tag=tolees-21)

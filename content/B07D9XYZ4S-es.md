@@ -22,7 +22,7 @@ Ahora mismo tienes [Tommy Jeans Mujer Slim Fit Poplin  Blusa Manga Larga  Negro 
 
 [![Tommy Jeans Mujer Slim Fit Poplin  Blusa](https://images-eu.ssl-images-amazon.com/images/I/31goeAv4jJL._SL200_.jpg)](https://www.amazon.es/dp/B07D9XYZ4S/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07D9XYZ4S/?tag=tolees-21)

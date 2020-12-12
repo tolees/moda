@@ -22,7 +22,7 @@ Ahora mismo tienes [Geox U Keilan D  Zapatillas para Hombre   Dk Jeans/Anthracit
 
 [![Geox U Keilan D  Zapatillas para Hombre ](https://images-eu.ssl-images-amazon.com/images/I/41oMyOotRYL._SL200_.jpg)](https://www.amazon.es/dp/B0792GSN8Z/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0792GSN8Z/?tag=tolees-21)

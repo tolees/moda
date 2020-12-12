@@ -22,7 +22,7 @@ Ahora mismo tienes [Under Armour Ua Tech Tee 2.0 Camiseta de manga corta  Hombre
 
 [![Under Armour Ua Tech Tee 2.0 Camiseta de](https://images-eu.ssl-images-amazon.com/images/I/41QnUNvjMcL._SL200_.jpg)](https://www.amazon.es/dp/B077XQ3L6L/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B077XQ3L6L/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [SPECIAL MAGIC - Camisa Deportiva - para Mujer Blanco White1 
 
 [![SPECIAL MAGIC - Camisa Deportiva - para ](https://images-eu.ssl-images-amazon.com/images/I/51jK16DgJ-L._SL200_.jpg)](https://www.amazon.es/dp/B07JPKR4YJ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07JPKR4YJ/?tag=tolees-21)

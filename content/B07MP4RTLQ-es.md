@@ -22,7 +22,7 @@ Ahora mismo tienes [Zapatos de Baloncesto para niños Alto para Ayudar a los Zap
 
 [![Zapatos de Baloncesto para niños Alto pa](https://images-eu.ssl-images-amazon.com/images/I/517i2cpLQFL._SL200_.jpg)](https://www.amazon.es/dp/B07MP4RTLQ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07MP4RTLQ/?tag=tolees-21)

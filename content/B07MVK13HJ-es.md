@@ -22,7 +22,7 @@ Ahora mismo tienes [Safta Real Madrid Monedero  12 cm  Negro](https://www.amazon
 
 [![Safta Real Madrid Monedero  12 cm  Negro](https://images-eu.ssl-images-amazon.com/images/I/51j9swEcbmL._SL200_.jpg)](https://www.amazon.es/dp/B07MVK13HJ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07MVK13HJ/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Gocco Jersey GRECA  Niñas  Marfil  Crudo EA  2-3 años](htt
 
 [![Gocco Jersey GRECA  Niñas  Marfil  Crudo](https://images-eu.ssl-images-amazon.com/images/I/31XIFuyYjwL._SL200_.jpg)](https://www.amazon.es/dp/B07D4PFK6V/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07D4PFK6V/?tag=tolees-21)

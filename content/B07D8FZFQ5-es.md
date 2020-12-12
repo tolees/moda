@@ -22,7 +22,7 @@ Ahora mismo tienes [Diesel 084Uj  Vaqueros Skinny para Hombre  Azul 01    Tamañ
 
 [![Diesel 084Uj  Vaqueros Skinny para Hombr](https://images-eu.ssl-images-amazon.com/images/I/41hRLswH5QL._SL200_.jpg)](https://www.amazon.es/dp/B07D8FZFQ5/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07D8FZFQ5/?tag=tolees-21)

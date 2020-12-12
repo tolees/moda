@@ -22,7 +22,7 @@ Ahora mismo tienes [Vans Left Chest Logo tee  Camiseta para Hombre  Rojo  Jazzy-
 
 [![Vans Left Chest Logo tee  Camiseta para ](https://images-eu.ssl-images-amazon.com/images/I/41xPoc4-lpL._SL200_.jpg)](https://www.amazon.es/dp/B07F34CYPS/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07F34CYPS/?tag=tolees-21)

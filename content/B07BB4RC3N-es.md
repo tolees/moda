@@ -22,7 +22,7 @@ Ahora mismo tienes [The North Face M 1/4 Jersey Glacier Delta  Hombre  Hyper Blu
 
 [![The North Face M 1/4 Jersey Glacier Delt](https://images-eu.ssl-images-amazon.com/images/I/41oGgRDwrlL._SL200_.jpg)](https://www.amazon.es/dp/B07BB4RC3N/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07BB4RC3N/?tag=tolees-21)

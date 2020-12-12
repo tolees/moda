@@ -22,7 +22,7 @@ Ahora mismo tienes [JACK & JONES Jjejeans Print tee SS Crew Neck Noos Camiseta  
 
 [![JACK & JONES Jjejeans Print tee SS Crew ](https://images-eu.ssl-images-amazon.com/images/I/41R7amgkGSL._SL200_.jpg)](https://www.amazon.es/dp/B079C7Q9GP/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B079C7Q9GP/?tag=tolees-21)

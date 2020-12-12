@@ -22,7 +22,7 @@ Ahora mismo tienes [Levi s 511 Slim Fit  Vaqueros para Hombre  Azul  Limerick Ad
 
 [![Levi s 511 Slim Fit  Vaqueros para Hombr](https://images-eu.ssl-images-amazon.com/images/I/41oVWCpqS-L._SL200_.jpg)](https://www.amazon.es/dp/B07JZNJ7VY/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07JZNJ7VY/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Diesel Wayfarer Eye  Gafas de sol Unisex Adulto  Multicolor 
 
 [![Diesel Wayfarer Eye  Gafas de sol Unisex](https://images-eu.ssl-images-amazon.com/images/I/31Jfz%2B6OyQL._SL200_.jpg)](https://www.amazon.es/dp/B07B4NDGWK/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07B4NDGWK/?tag=tolees-21)

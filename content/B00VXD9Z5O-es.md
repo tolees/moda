@@ -22,7 +22,7 @@ Ahora mismo tienes [G-Star Holmer Tapered - Vaqueros para hombre  Blau  dk aged 
 
 [![G-Star Holmer Tapered - Vaqueros para ho](https://images-eu.ssl-images-amazon.com/images/I/41iVyOgAM3L._SL200_.jpg)](https://www.amazon.es/dp/B00VXD9Z5O/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00VXD9Z5O/?tag=tolees-21)

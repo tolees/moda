@@ -22,7 +22,7 @@ Ahora mismo tienes [Under Armour Jet Mid 3020623-003  Zapatos de Baloncesto para
 
 [![Under Armour Jet Mid 3020623-003  Zapato](https://images-eu.ssl-images-amazon.com/images/I/41yTM8auIbL._SL200_.jpg)](https://www.amazon.es/dp/B07CTN88ZY/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07CTN88ZY/?tag=tolees-21)

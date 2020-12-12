@@ -22,7 +22,7 @@ Ahora mismo tienes [Clarks Crown Bloom K  Sandalias de Talón Abierto para Niña
 
 [![Clarks Crown Bloom K  Sandalias de Talón](https://images-eu.ssl-images-amazon.com/images/I/31Di3QZH2zL._SL200_.jpg)](https://www.amazon.es/dp/B07FQ1Q9L9/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07FQ1Q9L9/?tag=tolees-21)

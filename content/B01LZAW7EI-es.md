@@ -22,7 +22,7 @@ Ahora mismo tienes [ESPRIT 106EE1F014  Blusa Mujer  Marfil  Off White E110   38]
 
 [![ESPRIT 106EE1F014  Blusa Mujer  Marfil  ](https://images-eu.ssl-images-amazon.com/images/I/41%2BbCPoNivL._SL200_.jpg)](https://www.amazon.es/dp/B01LZAW7EI/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01LZAW7EI/?tag=tolees-21)

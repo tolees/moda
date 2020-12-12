@@ -22,7 +22,7 @@ Ahora mismo tienes [New Look Lina Stripe Camiseta  Blanco  White Pattern 19   44
 
 [![New Look Lina Stripe Camiseta  Blanco  W](https://images-eu.ssl-images-amazon.com/images/I/41j%2BxyDs9zL._SL200_.jpg)](https://www.amazon.es/dp/B07QJ1MG3W/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07QJ1MG3W/?tag=tolees-21)

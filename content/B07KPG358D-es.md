@@ -22,7 +22,7 @@ Ahora mismo tienes [REPLAY Luz Vaqueros Skinny  Azul  Dark Blue 7   W24/L32  Tal
 
 [![REPLAY Luz Vaqueros Skinny  Azul  Dark B](https://images-eu.ssl-images-amazon.com/images/I/416UT8WCOtL._SL200_.jpg)](https://www.amazon.es/dp/B07KPG358D/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07KPG358D/?tag=tolees-21)

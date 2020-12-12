@@ -22,7 +22,7 @@ Ahora mismo tienes [Pepe Jeans Flag Logo LS  Camiseta de Manga Larga para Hombre
 
 [![Pepe Jeans Flag Logo LS  Camiseta de Man](https://images-eu.ssl-images-amazon.com/images/I/41MPREZ-yNL._SL200_.jpg)](https://www.amazon.es/dp/B06XT5DP9K/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B06XT5DP9K/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Superdry Low Roller tee Camiseta  Rojo  Sugar Red D3a   XS p
 
 [![Superdry Low Roller tee Camiseta  Rojo  ](https://images-eu.ssl-images-amazon.com/images/I/41TsrPbPqjL._SL200_.jpg)](https://www.amazon.es/dp/B07MZHVVK1/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07MZHVVK1/?tag=tolees-21)

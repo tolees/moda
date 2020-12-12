@@ -22,7 +22,7 @@ Ahora mismo tienes [AURIQUE Leggings de Deporte Mujer  Negro  Black   38  Talla 
 
 [![AURIQUE Leggings de Deporte Mujer  Negro](https://images-eu.ssl-images-amazon.com/images/I/41rA%2B7KkepL._SL200_.jpg)](https://www.amazon.es/dp/B077BJVNFG/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B077BJVNFG/?tag=tolees-21)

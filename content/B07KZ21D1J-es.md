@@ -22,7 +22,7 @@ Ahora mismo tienes [Springfield 490 C/Block Gg12 Jersey  Gama Azules 11  X-Large
 
 [![Springfield 490 C/Block Gg12 Jersey  Gam](https://images-eu.ssl-images-amazon.com/images/I/41pyZxefd9L._SL200_.jpg)](https://www.amazon.es/dp/B07KZ21D1J/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07KZ21D1J/?tag=tolees-21)

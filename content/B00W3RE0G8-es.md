@@ -22,7 +22,7 @@ Ahora mismo tienes [Joma Gala Sudadera  Hombre  Rojo  Vino   3XS](https://www.am
 
 [![Joma Gala Sudadera  Hombre  Rojo  Vino  ](https://images-eu.ssl-images-amazon.com/images/I/41Ejz-EQKlL._SL200_.jpg)](https://www.amazon.es/dp/B00W3RE0G8/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00W3RE0G8/?tag=tolees-21)

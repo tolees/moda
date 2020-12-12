@@ -22,7 +22,7 @@ Ahora mismo tienes [Puma Liga Casuals Polo Camiseta  Hombre   Azul Electrico Lem
 
 [![Puma Liga Casuals Polo Camiseta  Hombre ](https://images-eu.ssl-images-amazon.com/images/I/41-RPtDv6pL._SL200_.jpg)](https://www.amazon.es/dp/B077SPZ45F/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B077SPZ45F/?tag=tolees-21)

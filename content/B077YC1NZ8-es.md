@@ -22,7 +22,7 @@ Ahora mismo tienes [Puma 516421 02 Pantalón  Mujer  Blanco  S](https://www.amaz
 
 [![Puma 516421 02 Pantalón  Mujer  Blanco  ](https://images-eu.ssl-images-amazon.com/images/I/31BaJpchZEL._SL200_.jpg)](https://www.amazon.es/dp/B077YC1NZ8/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B077YC1NZ8/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Pepe Jeans Zen Sudadera con capucha  Azul  Chatham Blue 586 
 
 [![Pepe Jeans Zen Sudadera con capucha  Azu](https://images-eu.ssl-images-amazon.com/images/I/41iKBH1ghkL._SL200_.jpg)](https://www.amazon.es/dp/B079RR7JKV/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B079RR7JKV/?tag=tolees-21)

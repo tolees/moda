@@ -22,7 +22,7 @@ Ahora mismo tienes [Blend 20701278  Jersey para Hombre  Black/ 70155 L](https://
 
 [![Blend 20701278  Jersey para Hombre  Blac](https://images-eu.ssl-images-amazon.com/images/I/51nsJp0PJQL._SL200_.jpg)](https://www.amazon.es/dp/B01H58EPNW/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01H58EPNW/?tag=tolees-21)

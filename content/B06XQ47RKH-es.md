@@ -22,7 +22,7 @@ Ahora mismo tienes [Desigual Ts_sara  Camiseta para Mujer  Negro  Medium](https:
 
 [![Desigual Ts_sara  Camiseta para Mujer  N](https://images-eu.ssl-images-amazon.com/images/I/41g7oGXqZtL._SL200_.jpg)](https://www.amazon.es/dp/B06XQ47RKH/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B06XQ47RKH/?tag=tolees-21)

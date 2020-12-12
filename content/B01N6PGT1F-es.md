@@ -22,7 +22,7 @@ Ahora mismo tienes [Geographical Norway Pantalón Deporte Doudoune Negro 2XL](ht
 
 [![Geographical Norway Pantalón Deporte Dou](https://images-eu.ssl-images-amazon.com/images/I/41bzSHGViJL._SL200_.jpg)](https://www.amazon.es/dp/B01N6PGT1F/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01N6PGT1F/?tag=tolees-21)

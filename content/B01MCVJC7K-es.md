@@ -22,7 +22,7 @@ Ahora mismo tienes [Distinct® Elástica de látex de Caucho para Lavar vajilla 
 
 [![Distinct® Elástica de látex de Caucho pa](https://images-eu.ssl-images-amazon.com/images/I/51Ukx-xX-oL._SL200_.jpg)](https://www.amazon.es/dp/B01MCVJC7K/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01MCVJC7K/?tag=tolees-21)

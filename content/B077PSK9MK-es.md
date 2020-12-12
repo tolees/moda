@@ -22,7 +22,7 @@ Ahora mismo tienes [Lee Scarlett High  Vaqueros Skinny para Mujer  Azul  Solid B
 
 [![Lee Scarlett High  Vaqueros Skinny para ](https://images-eu.ssl-images-amazon.com/images/I/31ViAse12lL._SL200_.jpg)](https://www.amazon.es/dp/B077PSK9MK/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B077PSK9MK/?tag=tolees-21)
