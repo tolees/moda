@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Ex-BF Sherpa Trucker Chaqueta vaq al 33.47 % de descuento'
-date: 2020-12-11 16:48:40
+date: 2020-12-12 16:51:41
 image: 'https://m.media-amazon.com/images/I/5164ACK54SL._SL200_.jpg'
 comments: true
 category: ofertas
