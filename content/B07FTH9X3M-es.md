@@ -29,8 +29,8 @@ Está [Lee Rider  Vaqueros Slim para Hombre  Azul  Broken Blue Sx   W28/L32](htt
 Principales características:
 
 - Vaqueros para hombre
-- Tienen un parche de piel en la parte trasera con la marca Lee
 - Estilo 5 bolsillos
+- Tienen un parche de piel en la parte trasera con la marca Lee
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07FTH9X3M/?tag=tolees-21)
 

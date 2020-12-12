@@ -30,8 +30,8 @@ Características:
 
 - Material de la suela: Sintético
 - Tipo de talla: Te informamos que los zapatos Geox son holgados, te recomendamos elegir media talla menos con respecto a tu talla habitual
-- Material exterior: Cuero
 - Tipo de tacón: Plano
+- Material exterior: Cuero
 - Revestimiento: Sintético
 - Cierre: Cremallera
 

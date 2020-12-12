@@ -28,8 +28,8 @@ Tienes [Vero Moda Vmava Plain SS Top Ga Noos Camiseta  Marrón  Coffee Bean Coff
 
 Características principales:
 
-- Basic t-shirt material
 - T-shirt material with crew- neck
+- Basic t-shirt material
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07SWW8H39/?tag=tolees-21)
 

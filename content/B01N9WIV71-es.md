@@ -30,8 +30,8 @@ Características principales:
 
 - Cinta distintiva en el interior del cuello
 - Camiseta de corte clásico óptima para el tiempo libre
-- Logo de Tommy Hilfiger en la parte delantera
 - Logo bordado en la manga
+- Logo de Tommy Hilfiger en la parte delantera
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01N9WIV71/?tag=tolees-21)
 

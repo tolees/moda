@@ -28,11 +28,11 @@ Ahora mismo tienes [Lois - Cartera para Hombre de Cuero Piel Genuina. Doble Comp
 
 Características:
 
-- Otro con 2 compartimentos para billetes y 2 para tarjetas y documentación.
-- Dos compartimentos independientes. Uno para monedas con clip y dos ranuras para tarjetas.
 - Para cualquier edad. Muy práctica, cómoda y segura. Presentación en caja para regalo.. Vendido por TOPMALETAS
 - Cartera Monedero Billetero Tarjetero de Piel genuina de la firma LOIS. Diseño exclusivo.
 - Materiales y costuras de alta calidad. Resistente al desgaste. Medidas: 10x8 cm. Material: Piel genuina.
+- Otro con 2 compartimentos para billetes y 2 para tarjetas y documentación.
+- Dos compartimentos independientes. Uno para monedas con clip y dos ranuras para tarjetas.
 
 [Visítala!!!](https://www.amazon.es/dp/B07HJW7T39/?tag=tolees-21)
 

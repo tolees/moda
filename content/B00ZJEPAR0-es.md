@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 34.98 % en Tommy Hilfiger Original Stretch Shirt Ca'
-date: 2020-12-11 10:23:13
+date: 2020-12-12 10:55:45
 thumbnailImage: 'https://m.media-amazon.com/images/I/31+dDgHgCZL._SL200_.jpg'
 image: 'https://m.media-amazon.com/images/I/31+dDgHgCZL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31+dDgHgCZL._SL200_.jpg' ]
@@ -28,9 +28,9 @@ Tienes [Tommy Hilfiger Original Stretch Shirt Camisa  Azul  Lavender Lustre   M 
 
 Características principales:
 
-- Camisa para hombre
 - Tiene el logo de la marca bordado en el pecho
 - Fabricada en tejido ligero y suave
+- Camisa para hombre
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00ZJEPAR0/?tag=tolees-21)
 

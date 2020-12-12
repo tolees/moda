@@ -28,11 +28,11 @@ Está [YSSHUI [3 unidades] Thug Life Gafas de sol  para hombres y mujeres  de vi
 
 Principales características:
 
-- [Dile a cualquier hater «DEAL WITH IT» ] - Sé el amo con estas gafas de «Thug Life». Haz siempre los «thug life» responsablemente.
-- [NOSCOPE MLG 360 en la vida real] - ¿Alguna vez quisiste hacer un 360 y sin alcance a tus enemigos en la vida real? Ahora puedes. Ponte estas gafas y ponte a ello.
 - [3 tipos de gafas] – Gran regalo para los jugadores, el entusiasta de los meme o el troll de la vida.
 - - - -
+- [NOSCOPE MLG 360 en la vida real] - ¿Alguna vez quisiste hacer un 360 y sin alcance a tus enemigos en la vida real? Ahora puedes. Ponte estas gafas y ponte a ello.
 - [La vida en 8 bits] – Estas gafas de píxel son ideales para fiestas y convenciones de Minecraft. El diseño de píxeles es perfecto para cualquier persona que busque un estilo de 8 bits.
+- [Dile a cualquier hater «DEAL WITH IT» ] - Sé el amo con estas gafas de «Thug Life». Haz siempre los «thug life» responsablemente.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07CNLJVCZ/?tag=tolees-21)
 

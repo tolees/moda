@@ -28,10 +28,10 @@ Ahora mismo tienes [adidas Tiro 19 Camiseta Entrenamiento  Hombre  Negro  Black/
 
 Características:
 
-- Esta prenda se ha confeccionado con poliéster reciclado para ahorrar recursos y reducir emisiones
 - Corte clásico más ancho y silueta recta
-- Ventilación estratégica Climacool; diseño FreeLift; inserciones de malla en los costados
 - Cuello de pico de canalé; Manga corta raglán
+- Esta prenda se ha confeccionado con poliéster reciclado para ahorrar recursos y reducir emisiones
+- Ventilación estratégica Climacool; diseño FreeLift; inserciones de malla en los costados
 
 [Visítala!!!](https://www.amazon.es/dp/B07JQDP1HB/?tag=tolees-21)
 

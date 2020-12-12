@@ -28,9 +28,9 @@ Ahora mismo tienes [Tommy Hilfiger 3p Trunk Bóxer  Azul  Peacoat-Pt 409   Mediu
 
 Características:
 
-- Ajuste cómodo y adecuado
 - Cintura con la inscripción de Tommy Hilfiger
 - Cinta distintiva en la cintura
+- Ajuste cómodo y adecuado
 - Producto con diseño clásico y estilo para todos los días
 
 [Visítala!!!](https://www.amazon.es/dp/B00K5R9LH6/?tag=tolees-21)

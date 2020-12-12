@@ -28,9 +28,9 @@ Ahora mismo tienes [Levi s SS Original HM tee Camiseta  Ueprint  XS para Hombre]
 
 Características:
 
-- Modelo casual
 - Logotipo pequeño de Levis en el pecho
 - Adecuada para el día a día
+- Modelo casual
 
 [Visítala!!!](https://www.amazon.es/dp/B07ZVQDP49/?tag=tolees-21)
 
