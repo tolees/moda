@@ -25,8 +25,8 @@ Está [PUMA Evostripe tee Camiseta  Mujer  Black  M](https://www.amazon.es/dp/B0
 Principales características:
 
 - Estándar OEKO-TEX: Elaboración en conformidad con el estándar OEKO-TEX, con el que se evita el uso de sustancias nocivas desde el hilo hasta el producto final
-- dryCELL: La denominación de PUMA para las propiedades repelentes de la humedad que ayudan a que la piel permanezca seca y cómoda
 - Logotipo del PUMA impreso en puntos de goma en la parte frontal
+- dryCELL: La denominación de PUMA para las propiedades repelentes de la humedad que ayudan a que la piel permanezca seca y cómoda
 - Corte holgado
 - BCI: La asociación de PUMA con la Iniciativa del Mejor Algodón (Better Cotton Initiative) para mejorar el cultivo de algodón a nivel global
 
