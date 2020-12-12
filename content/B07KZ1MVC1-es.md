@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 58.50 % en Springfield 5DS Mao S.Jersey Jersey  Gam'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31t58TykXCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31t58TykXCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31t58TykXCL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 22.99 EUR
 inStock: true
 prodname: 'Springfield 5DS Mao S.Jersey Jersey  Gama Azules 11  Small  Tamaño del Fabricante:S  para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KZ1MVC1/?tag=tolees-21'
+descuento: '58.50'
+titulo: 'Springfield 5DS Mao S.Jersey Jersey  Gam'
 ---
 
 Tienes [Springfield 5DS Mao S.Jersey Jersey  Gama Azules 11  Small  Tamaño del Fabricante:S  para Hombre](https://www.amazon.es/dp/B07KZ1MVC1/?tag=tolees-21) con un 58.50 % de descuento con precio de oferta de 9.54 EUR (original: 22.99 EUR) en el siguiente enlace!

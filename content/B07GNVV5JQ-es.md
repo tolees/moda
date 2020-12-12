@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 60.15 % en JACK & JONES Jcoten Shirt Ls One Pocket '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/311b67drOaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/311b67drOaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/311b67drOaL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'JACK & JONES Jcoten Shirt Ls One Pocket  Camisa Hombre  Blanco  Medium'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GNVV5JQ/?tag=tolees-21'
+descuento: '60.15'
+titulo: 'JACK & JONES Jcoten Shirt Ls One Pocket '
 ---
 
 Tienes [JACK & JONES Jcoten Shirt Ls One Pocket  Camisa Hombre  Blanco  Medium](https://www.amazon.es/dp/B07GNVV5JQ/?tag=tolees-21) con un 60.15 % de descuento con precio de oferta de 11.95 EUR (original: 29.99 EUR) en el siguiente enlace!

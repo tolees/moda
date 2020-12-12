@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 70.32 % en Tommy Hilfiger Slim Check Shirt  Camisa '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jszoZMJjL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41jszoZMJjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jszoZMJjL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 89.9 EUR
 inStock: true
 prodname: 'Tommy Hilfiger Slim Check Shirt  Camisa Hombre  Rojo  Goji Berry/ 902   XX-Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HFN2B9J/?tag=tolees-21'
+descuento: '70.32'
+titulo: 'Tommy Hilfiger Slim Check Shirt  Camisa '
 ---
 
 Tienes [Tommy Hilfiger Slim Check Shirt  Camisa Hombre  Rojo  Goji Berry/ 902   XX-Large](https://www.amazon.es/dp/B07HFN2B9J/?tag=tolees-21) con un 70.32 % de descuento con precio de oferta de 26.68 EUR (original: 89.9 EUR) en el siguiente enlace!

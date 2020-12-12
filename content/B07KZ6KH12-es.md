@@ -3,6 +3,7 @@ layout: post
 title: 'Cortefiel C6K Estruc Nat-Strch S-Ca Cami al 54.47 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31puX99ZHtL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31puX99ZHtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31puX99ZHtL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'Cortefiel C6K Estruc Nat-Strch S-Ca Camisa de Vestir   Blanco 99   Small  Tamaño del Fabricante:S  para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KZ6KH12/?tag=tolees-21'
+descuento: '54.47'
+titulo: 'Cortefiel C6K Estruc Nat-Strch S-Ca Cami'
 ---
 
 Está [Cortefiel C6K Estruc Nat-Strch S-Ca Camisa de Vestir   Blanco 99   Small  Tamaño del Fabricante:S  para Hombre](https://www.amazon.es/dp/B07KZ6KH12/?tag=tolees-21) con 54.47 de descuento por 22.76 EUR (original: 49.99 EUR) en el siguiente enlace!

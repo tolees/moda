@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 54.52 % en Springfield Chaqueta Parka Corta Parka  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kvGk0fXOL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41kvGk0fXOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kvGk0fXOL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'Springfield Chaqueta Parka Corta Parka  Mujer  Azul  Azul   40  Tamaño del Fabricante:40 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078GTWWQ6/?tag=tolees-21'
+descuento: '54.52'
+titulo: 'Springfield Chaqueta Parka Corta Parka  '
 ---
 
 Tienes [Springfield Chaqueta Parka Corta Parka  Mujer  Azul  Azul   40  Tamaño del Fabricante:40 ](https://www.amazon.es/dp/B078GTWWQ6/?tag=tolees-21) con un 54.52 % de descuento con precio de oferta de 13.64 EUR (original: 29.99 EUR) en el siguiente enlace!

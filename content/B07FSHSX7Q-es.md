@@ -3,6 +3,7 @@ layout: post
 title: 'Clarks Tri Chloe  Sandalias de Talón Abi al 46.07 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/3123FLOSl9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/3123FLOSl9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/3123FLOSl9L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'Clarks Tri Chloe  Sandalias de Talón Abierto para Mujer  Verde  Olive-   39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FSHSX7Q/?tag=tolees-21'
+descuento: '46.07'
+titulo: 'Clarks Tri Chloe  Sandalias de Talón Abi'
 ---
 
 Ahora mismo tienes [Clarks Tri Chloe  Sandalias de Talón Abierto para Mujer  Verde  Olive-   39 EU](https://www.amazon.es/dp/B07FSHSX7Q/?tag=tolees-21) a 53.9 EUR (original: 99.95 EUR) (46.07 %  de descuento) en el siguiente enlace!

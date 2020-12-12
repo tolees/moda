@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 27.77 % en Awdis - Sudadera lisa con cuello redondo'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418GmJDbpwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/418GmJDbpwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418GmJDbpwL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 18.62 EUR
 inStock: true
 prodname: 'Awdis - Sudadera lisa con cuello redondo Unisex  XS /Rosa Grisáceo '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078KN5B4X/?tag=tolees-21'
+descuento: '27.77'
+titulo: 'Awdis - Sudadera lisa con cuello redondo'
 ---
 
 Tienes [Awdis - Sudadera lisa con cuello redondo Unisex  XS /Rosa Grisáceo ](https://www.amazon.es/dp/B078KN5B4X/?tag=tolees-21) con un 27.77 % de descuento con precio de oferta de 13.45 EUR (original: 18.62 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Geox J Hadriel Girl D  Botas Chelsea par al 40.07 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41amVyzD2iL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41amVyzD2iL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41amVyzD2iL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 75 EUR
 inStock: true
 prodname: 'Geox J Hadriel Girl D  Botas Chelsea para Niñas   Dk Grey C9002   28 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0792HCFC8/?tag=tolees-21'
+descuento: '40.07'
+titulo: 'Geox J Hadriel Girl D  Botas Chelsea par'
 ---
 
 Ahora mismo tienes [Geox J Hadriel Girl D  Botas Chelsea para Niñas   Dk Grey C9002   28 EU](https://www.amazon.es/dp/B0792HCFC8/?tag=tolees-21) a 44.95 EUR (original: 75 EUR) (40.07 %  de descuento) en el siguiente enlace!

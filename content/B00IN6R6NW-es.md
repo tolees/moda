@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 73.41 % en X-Loop Aurora Gafas de Sol Polarizadas -'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31hmNhP02bL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31hmNhP02bL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31hmNhP02bL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 44.95 EUR
 inStock: true
 prodname: 'X-Loop Aurora Gafas de Sol Polarizadas - Deporte - Esqui - Ciclismo - UV400  UVA y UVB '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00IN6R6NW/?tag=tolees-21'
+descuento: '73.41'
+titulo: 'X-Loop Aurora Gafas de Sol Polarizadas -'
 ---
 
 Tienes [X-Loop Aurora Gafas de Sol Polarizadas - Deporte - Esqui - Ciclismo - UV400  UVA y UVB ](https://www.amazon.es/dp/B00IN6R6NW/?tag=tolees-21) con un 73.41 % de descuento con precio de oferta de 11.95 EUR (original: 44.95 EUR) en el siguiente enlace!

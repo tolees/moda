@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 53.13 % en JACK & JONES Jcoscales Polo SS Camiseta '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31B4a5buOlL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31B4a5buOlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31B4a5buOlL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'JACK & JONES Jcoscales Polo SS Camiseta  Blanco  White Fit: Slim   XX-Large para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JQF2JYK/?tag=tolees-21'
+descuento: '53.13'
+titulo: 'JACK & JONES Jcoscales Polo SS Camiseta '
 ---
 
 Tienes [JACK & JONES Jcoscales Polo SS Camiseta  Blanco  White Fit: Slim   XX-Large para Hombre](https://www.amazon.es/dp/B07JQF2JYK/?tag=tolees-21) con un 53.13 % de descuento con precio de oferta de 9.37 EUR (original: 19.99 EUR) en el siguiente enlace!

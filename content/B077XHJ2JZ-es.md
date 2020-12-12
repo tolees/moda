@@ -3,6 +3,7 @@ layout: post
 title: 'Tuc Tuc Bird Tropic Chaqueta  Bebé-Niñas al 64.78 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-7GFtu-NL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41-7GFtu-NL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-7GFtu-NL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 25.95 EUR
 inStock: true
 prodname: 'Tuc Tuc Bird Tropic Chaqueta  Bebé-Niñas  Rosa  Fucsia   68  Tamaño del Fabricante:69 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077XHJ2JZ/?tag=tolees-21'
+descuento: '64.78'
+titulo: 'Tuc Tuc Bird Tropic Chaqueta  Bebé-Niñas'
 ---
 
 Está [Tuc Tuc Bird Tropic Chaqueta  Bebé-Niñas  Rosa  Fucsia   68  Tamaño del Fabricante:69 ](https://www.amazon.es/dp/B077XHJ2JZ/?tag=tolees-21) con 64.78 de descuento por 9.14 EUR (original: 25.95 EUR) en el siguiente enlace!

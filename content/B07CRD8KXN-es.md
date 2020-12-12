@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 60.77 % en Pepe Jeans Venus Vaqueros Straight    De'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31w7-HfIv2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31w7-HfIv2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31w7-HfIv2L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 95 EUR
 inStock: true
 prodname: 'Pepe Jeans Venus Vaqueros Straight    Denim Wz2   W33/L34 Taille Fabricant 33/34 para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CRD8KXN/?tag=tolees-21'
+descuento: '60.77'
+titulo: 'Pepe Jeans Venus Vaqueros Straight    De'
 ---
 
 Tienes [Pepe Jeans Venus Vaqueros Straight    Denim Wz2   W33/L34 Taille Fabricant 33/34 para Mujer](https://www.amazon.es/dp/B07CRD8KXN/?tag=tolees-21) con un 60.77 % de descuento con precio de oferta de 37.27 EUR (original: 95 EUR) en el siguiente enlace!

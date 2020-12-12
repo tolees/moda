@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 33.34 % en LOFIR Chaqueta de Mezclilla para niñas c'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51aDPbB6T-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51aDPbB6T-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51aDPbB6T-L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'LOFIR Chaqueta de Mezclilla para niñas con Flores de Encaje  Chaqueta de Jean Lavada Linda y de Moda  120cm '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DCLTY5W/?tag=tolees-21'
+descuento: '33.34'
+titulo: 'LOFIR Chaqueta de Mezclilla para niñas c'
 ---
 
 Tienes [LOFIR Chaqueta de Mezclilla para niñas con Flores de Encaje  Chaqueta de Jean Lavada Linda y de Moda  120cm ](https://www.amazon.es/dp/B07DCLTY5W/?tag=tolees-21) con un 33.34 % de descuento con precio de oferta de 19.99 EUR (original: 29.99 EUR) en el siguiente enlace!

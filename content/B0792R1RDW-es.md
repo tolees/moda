@@ -3,6 +3,7 @@ layout: post
 title: 'Geox J Kalispera Girl D  Zapatillas Alta al 57.15 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4147%2BL83ZiL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4147%2BL83ZiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4147%2BL83ZiL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 69.9 EUR
 inStock: true
 prodname: 'Geox J Kalispera Girl D  Zapatillas Altas para Niñas   Dk Grey C9002   39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0792R1RDW/?tag=tolees-21'
+descuento: '57.15'
+titulo: 'Geox J Kalispera Girl D  Zapatillas Alta'
 ---
 
 Está [Geox J Kalispera Girl D  Zapatillas Altas para Niñas   Dk Grey C9002   39 EU](https://www.amazon.es/dp/B0792R1RDW/?tag=tolees-21) con 57.15 de descuento por 29.95 EUR (original: 69.9 EUR) en el siguiente enlace!

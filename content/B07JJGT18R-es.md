@@ -3,6 +3,7 @@ layout: post
 title: 'New Look Gemma 5934779  Camisa para Muje al 51.17 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4154dJBBB3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4154dJBBB3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4154dJBBB3L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 22.67 EUR
 inStock: true
 prodname: 'New Look Gemma 5934779  Camisa para Mujer  Gris  Light Grey 2  38  Talla del Fabricante: 10 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JJGT18R/?tag=tolees-21'
+descuento: '51.17'
+titulo: 'New Look Gemma 5934779  Camisa para Muje'
 ---
 
 Está [New Look Gemma 5934779  Camisa para Mujer  Gris  Light Grey 2  38  Talla del Fabricante: 10 ](https://www.amazon.es/dp/B07JJGT18R/?tag=tolees-21) con 51.17 de descuento por 11.07 EUR (original: 22.67 EUR) en el siguiente enlace!

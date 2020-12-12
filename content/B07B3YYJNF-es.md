@@ -3,6 +3,7 @@ layout: post
 title: 'Clarks Walbeck Edge II  Zapatos de Cordo al 45.58 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31XkYUXkiuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31XkYUXkiuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31XkYUXkiuL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 89.95 EUR
 inStock: true
 prodname: 'Clarks Walbeck Edge II  Zapatos de Cordones Derby para Hombre  Negro  Black Leather   47 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07B3YYJNF/?tag=tolees-21'
+descuento: '45.58'
+titulo: 'Clarks Walbeck Edge II  Zapatos de Cordo'
 ---
 
 Está [Clarks Walbeck Edge II  Zapatos de Cordones Derby para Hombre  Negro  Black Leather   47 EU](https://www.amazon.es/dp/B07B3YYJNF/?tag=tolees-21) con 45.58 de descuento por 48.95 EUR (original: 89.95 EUR) en el siguiente enlace!

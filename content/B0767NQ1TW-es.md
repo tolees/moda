@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 71.93 % en Geox D Ophira B  Zapatillas para Mujer  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HveEJvL2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41HveEJvL2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HveEJvL2L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 105 EUR
 inStock: true
 prodname: 'Geox D Ophira B  Zapatillas para Mujer  Blanco  40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0767NQ1TW/?tag=tolees-21'
+descuento: '71.93'
+titulo: 'Geox D Ophira B  Zapatillas para Mujer  '
 ---
 
 Tienes [Geox D Ophira B  Zapatillas para Mujer  Blanco  40 EU](https://www.amazon.es/dp/B0767NQ1TW/?tag=tolees-21) con un 71.93 % de descuento con precio de oferta de 29.47 EUR (original: 105 EUR) en el siguiente enlace!

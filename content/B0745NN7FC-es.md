@@ -3,6 +3,7 @@ layout: post
 title: 'NAME IT Nithedra LS Dress F Nmt Vestido  al 55.73 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vie7jTDiL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41vie7jTDiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vie7jTDiL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 23.99 EUR
 inStock: true
 prodname: 'NAME IT Nithedra LS Dress F Nmt Vestido  Negro  Black   134 para Niñas'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0745NN7FC/?tag=tolees-21'
+descuento: '55.73'
+titulo: 'NAME IT Nithedra LS Dress F Nmt Vestido '
 ---
 
 Ahora mismo tienes [NAME IT Nithedra LS Dress F Nmt Vestido  Negro  Black   134 para Niñas](https://www.amazon.es/dp/B0745NN7FC/?tag=tolees-21) a 10.62 EUR (original: 23.99 EUR) (55.73 %  de descuento) en el siguiente enlace!

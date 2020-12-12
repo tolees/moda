@@ -3,6 +3,7 @@ layout: post
 title: 'Levi s Martina Puffer Chaqueta  Azul  Me al 79.20 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MBUeEU7EL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41MBUeEU7EL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41MBUeEU7EL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 200 EUR
 inStock: true
 prodname: 'Levi s Martina Puffer Chaqueta  Azul  Medieval Blue 0004   Large para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GL6SQZV/?tag=tolees-21'
+descuento: '79.20'
+titulo: 'Levi s Martina Puffer Chaqueta  Azul  Me'
 ---
 
 Está [Levi s Martina Puffer Chaqueta  Azul  Medieval Blue 0004   Large para Mujer](https://www.amazon.es/dp/B07GL6SQZV/?tag=tolees-21) con 79.20 de descuento por 41.61 EUR (original: 200 EUR) en el siguiente enlace!

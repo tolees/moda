@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 80.61 % en G-STAR RAW 3301 Slim Vaqueros  Azul  Med'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QtfdxG0AL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41QtfdxG0AL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QtfdxG0AL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 139.95 EUR
 inStock: true
 prodname: 'G-STAR RAW 3301 Slim Vaqueros  Azul  Medium Aged 7890-071   25W / 30L para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01BGTIN98/?tag=tolees-21'
+descuento: '80.61'
+titulo: 'G-STAR RAW 3301 Slim Vaqueros  Azul  Med'
 ---
 
 Tienes [G-STAR RAW 3301 Slim Vaqueros  Azul  Medium Aged 7890-071   25W / 30L para Hombre](https://www.amazon.es/dp/B01BGTIN98/?tag=tolees-21) con un 80.61 % de descuento con precio de oferta de 27.13 EUR (original: 139.95 EUR) en el siguiente enlace!

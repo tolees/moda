@@ -3,6 +3,7 @@ layout: post
 title: 'STAR WARS 8 The Last Jedi-Captain Phasma al 59.76 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51a-kfFZBRL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51a-kfFZBRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51a-kfFZBRL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 25.4 EUR
 inStock: true
 prodname: 'STAR WARS 8 The Last Jedi-Captain Phasma Art Camiseta  Sports Grey  Small para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076K8RC2Q/?tag=tolees-21'
+descuento: '59.76'
+titulo: 'STAR WARS 8 The Last Jedi-Captain Phasma'
 ---
 
 Ahora mismo tienes [STAR WARS 8 The Last Jedi-Captain Phasma Art Camiseta  Sports Grey  Small para Hombre](https://www.amazon.es/dp/B076K8RC2Q/?tag=tolees-21) a 10.22 EUR (original: 25.4 EUR) (59.76 %  de descuento) en el siguiente enlace!

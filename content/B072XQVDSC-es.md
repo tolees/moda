@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 59.33 % en VERO MODA 10182070  Jersey Para Mujer  N'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kgo54fgvL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41kgo54fgvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kgo54fgvL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 34.99 EUR
 inStock: true
 prodname: 'VERO MODA 10182070  Jersey Para Mujer  Negro  Dark Black Melange   38  Talla del fabricante: Medium '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072XQVDSC/?tag=tolees-21'
+descuento: '59.33'
+titulo: 'VERO MODA 10182070  Jersey Para Mujer  N'
 ---
 
 Tienes [VERO MODA 10182070  Jersey Para Mujer  Negro  Dark Black Melange   38  Talla del fabricante: Medium ](https://www.amazon.es/dp/B072XQVDSC/?tag=tolees-21) con un 59.33 % de descuento con precio de oferta de 14.23 EUR (original: 34.99 EUR) en el siguiente enlace!

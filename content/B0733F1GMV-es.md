@@ -3,6 +3,7 @@ layout: post
 title: 'T-Shirts Camiseta de Corte Recto para Ho al 70.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qwRdpcooL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41qwRdpcooL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qwRdpcooL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 8 EUR
 inStock: true
 prodname: 'T-Shirts Camiseta de Corte Recto para Hombre  Marrón  Ginger   Medium'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0733F1GMV/?tag=tolees-21'
+descuento: '70.00'
+titulo: 'T-Shirts Camiseta de Corte Recto para Ho'
 ---
 
 Ahora mismo tienes [T-Shirts Camiseta de Corte Recto para Hombre  Marrón  Ginger   Medium](https://www.amazon.es/dp/B0733F1GMV/?tag=tolees-21) a 2.4 EUR (original: 8 EUR) (70.00 %  de descuento) en el siguiente enlace!

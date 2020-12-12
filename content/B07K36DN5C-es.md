@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 52.99 % en Love Moschino Heart Shaped Buttons Short'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-AxRXVckL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41-AxRXVckL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-AxRXVckL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 368 EUR
 inStock: true
 prodname: 'Love Moschino Heart Shaped Buttons Short Jacket Chaqueta  Negro  Black C74   44  Talla del Fabricante: 46  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K36DN5C/?tag=tolees-21'
+descuento: '52.99'
+titulo: 'Love Moschino Heart Shaped Buttons Short'
 ---
 
 Tienes [Love Moschino Heart Shaped Buttons Short Jacket Chaqueta  Negro  Black C74   44  Talla del Fabricante: 46  para Mujer](https://www.amazon.es/dp/B07K36DN5C/?tag=tolees-21) con un 52.99 % de descuento con precio de oferta de 172.98 EUR (original: 368 EUR) en el siguiente enlace!

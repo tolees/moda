@@ -3,6 +3,7 @@ layout: post
 title: 'Pepe Jeans Core Jacket Chaqueta Vaquera  al 45.37 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ju4dq0sAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ju4dq0sAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ju4dq0sAL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 99 EUR
 inStock: true
 prodname: 'Pepe Jeans Core Jacket Chaqueta Vaquera  Azul  Wiser Wash Medium Used Denim Wx6   Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JPJ85TZ/?tag=tolees-21'
+descuento: '45.37'
+titulo: 'Pepe Jeans Core Jacket Chaqueta Vaquera '
 ---
 
 Ahora mismo tienes [Pepe Jeans Core Jacket Chaqueta Vaquera  Azul  Wiser Wash Medium Used Denim Wx6   Mujer](https://www.amazon.es/dp/B07JPJ85TZ/?tag=tolees-21) a 54.08 EUR (original: 99 EUR) (45.37 %  de descuento) en el siguiente enlace!

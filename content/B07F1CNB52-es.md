@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 51.06 % en BILLABONG Eye Sea Sky Camiseta de Manga '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41V1llTvemL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41V1llTvemL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41V1llTvemL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 35 EUR
 inStock: true
 prodname: 'BILLABONG Eye Sea Sky Camiseta de Manga Larga  Mujer  Negro  Black 19   Medium  Tamaño del Fabricante:M '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F1CNB52/?tag=tolees-21'
+descuento: '51.06'
+titulo: 'BILLABONG Eye Sea Sky Camiseta de Manga '
 ---
 
 Tienes [BILLABONG Eye Sea Sky Camiseta de Manga Larga  Mujer  Negro  Black 19   Medium  Tamaño del Fabricante:M ](https://www.amazon.es/dp/B07F1CNB52/?tag=tolees-21) con un 51.06 % de descuento con precio de oferta de 17.13 EUR (original: 35 EUR) en el siguiente enlace!

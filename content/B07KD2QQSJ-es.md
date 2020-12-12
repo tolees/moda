@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 46.70 % en Hurley - Camiseta para hombre  Azul clar'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41z-gr4XBML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41z-gr4XBML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41z-gr4XBML._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 30 EUR
 inStock: true
 prodname: 'Hurley - Camiseta para hombre  Azul clarito  XXL  High Bars Prm Tee Ss'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KD2QQSJ/?tag=tolees-21'
+descuento: '46.70'
+titulo: 'Hurley - Camiseta para hombre  Azul clar'
 ---
 
 Tienes [Hurley - Camiseta para hombre  Azul clarito  XXL  High Bars Prm Tee Ss](https://www.amazon.es/dp/B07KD2QQSJ/?tag=tolees-21) con un 46.70 % de descuento con precio de oferta de 15.99 EUR (original: 30 EUR) en el siguiente enlace!

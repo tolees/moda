@@ -3,6 +3,7 @@ layout: post
 title: 'Joma - Camiseta Record Verde-Blanco m/c  al 53.76 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31cy8aq4tlL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31cy8aq4tlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31cy8aq4tlL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 13.95 EUR
 inStock: true
 prodname: 'Joma - Camiseta Record Verde-Blanco m/c para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0107SAZNQ/?tag=tolees-21'
+descuento: '53.76'
+titulo: 'Joma - Camiseta Record Verde-Blanco m/c '
 ---
 
 Ahora mismo tienes [Joma - Camiseta Record Verde-Blanco m/c para Hombre](https://www.amazon.es/dp/B0107SAZNQ/?tag=tolees-21) a 6.45 EUR (original: 13.95 EUR) (53.76 %  de descuento) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.00 % en HIKARO Chaleco de Plumas con Capucha Hom'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LiEryTk2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41LiEryTk2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LiEryTk2L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 45.95 EUR
 inStock: true
 prodname: 'HIKARO Chaleco de Plumas con Capucha Hombre  Verde  Khaki   52  Talla del fabricante: Large '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077YDGG49/?tag=tolees-21'
+descuento: '40.00'
+titulo: 'HIKARO Chaleco de Plumas con Capucha Hom'
 ---
 
 Tienes [HIKARO Chaleco de Plumas con Capucha Hombre  Verde  Khaki   52  Talla del fabricante: Large ](https://www.amazon.es/dp/B077YDGG49/?tag=tolees-21) con un 40.00 % de descuento con precio de oferta de 27.57 EUR (original: 45.95 EUR) en el siguiente enlace!

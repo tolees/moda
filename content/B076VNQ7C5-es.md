@@ -3,6 +3,7 @@ layout: post
 title: 'MTNG NEWCAMELIA  Zapatos de Cordones Oxf al 64.95 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41sl6aqLkFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41sl6aqLkFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41sl6aqLkFL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 45.99 EUR
 inStock: true
 prodname: 'MTNG NEWCAMELIA  Zapatos de Cordones Oxford para Mujer  Negro  39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076VNQ7C5/?tag=tolees-21'
+descuento: '64.95'
+titulo: 'MTNG NEWCAMELIA  Zapatos de Cordones Oxf'
 ---
 
 Está [MTNG NEWCAMELIA  Zapatos de Cordones Oxford para Mujer  Negro  39 EU](https://www.amazon.es/dp/B076VNQ7C5/?tag=tolees-21) con 64.95 de descuento por 16.12 EUR (original: 45.99 EUR) en el siguiente enlace!

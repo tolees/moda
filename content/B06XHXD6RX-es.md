@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 63.07 % en Diesel DL0239-01A-52 Gafas de Sol  Negro'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31C0uQgZQuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31C0uQgZQuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31C0uQgZQuL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 160 EUR
 inStock: true
 prodname: 'Diesel DL0239-01A-52 Gafas de Sol  Negro  Shiny Black/Smoke   52.0 para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XHXD6RX/?tag=tolees-21'
+descuento: '63.07'
+titulo: 'Diesel DL0239-01A-52 Gafas de Sol  Negro'
 ---
 
 Tienes [Diesel DL0239-01A-52 Gafas de Sol  Negro  Shiny Black/Smoke   52.0 para Hombre](https://www.amazon.es/dp/B06XHXD6RX/?tag=tolees-21) con un 63.07 % de descuento con precio de oferta de 59.09 EUR (original: 160 EUR) en el siguiente enlace!

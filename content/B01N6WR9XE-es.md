@@ -3,6 +3,7 @@ layout: post
 title: 'Oakley Gafas de sol Evzero Stride Polish al 57.24 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31e6Y7Pi44L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31e6Y7Pi44L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31e6Y7Pi44L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 238 EUR
 inStock: true
 prodname: 'Oakley Gafas de sol Evzero Stride Polished Black  38'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N6WR9XE/?tag=tolees-21'
+descuento: '57.24'
+titulo: 'Oakley Gafas de sol Evzero Stride Polish'
 ---
 
 Está [Oakley Gafas de sol Evzero Stride Polished Black  38](https://www.amazon.es/dp/B01N6WR9XE/?tag=tolees-21) con 57.24 de descuento por 101.76 EUR (original: 238 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 66.62 % en Lee Rider Shirt  Camisa Hombre  Marfil  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41w4JMQV8ZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41w4JMQV8ZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41w4JMQV8ZL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'Lee Rider Shirt  Camisa Hombre  Marfil  Blueprint Lh   X-Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FTR2TGP/?tag=tolees-21'
+descuento: '66.62'
+titulo: 'Lee Rider Shirt  Camisa Hombre  Marfil  '
 ---
 
 Tienes [Lee Rider Shirt  Camisa Hombre  Marfil  Blueprint Lh   X-Large](https://www.amazon.es/dp/B07FTR2TGP/?tag=tolees-21) con un 66.62 % de descuento con precio de oferta de 20.01 EUR (original: 59.95 EUR) en el siguiente enlace!

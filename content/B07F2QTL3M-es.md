@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 60.08 % en Vans Otw Crew Sudadera  Rojo  Rhumba Red'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KCH-l1UmL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41KCH-l1UmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41KCH-l1UmL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 60 EUR
 inStock: true
 prodname: 'Vans Otw Crew Sudadera  Rojo  Rhumba Red White Tda   Large para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F2QTL3M/?tag=tolees-21'
+descuento: '60.08'
+titulo: 'Vans Otw Crew Sudadera  Rojo  Rhumba Red'
 ---
 
 Tienes [Vans Otw Crew Sudadera  Rojo  Rhumba Red White Tda   Large para Hombre](https://www.amazon.es/dp/B07F2QTL3M/?tag=tolees-21) con un 60.08 % de descuento con precio de oferta de 23.95 EUR (original: 60 EUR) en el siguiente enlace!

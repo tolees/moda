@@ -3,6 +3,7 @@ layout: post
 title: 'Hackett London POWERFLEX  Vaqueros Strai al 44.35 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31VEGvJOyNL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31VEGvJOyNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31VEGvJOyNL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 150 EUR
 inStock: true
 prodname: 'Hackett London POWERFLEX  Vaqueros Straight para Hombre  Gris  Grey 945  35W / 32L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079QBZQDJ/?tag=tolees-21'
+descuento: '44.35'
+titulo: 'Hackett London POWERFLEX  Vaqueros Strai'
 ---
 
 Está [Hackett London POWERFLEX  Vaqueros Straight para Hombre  Gris  Grey 945  35W / 32L](https://www.amazon.es/dp/B079QBZQDJ/?tag=tolees-21) con 44.35 de descuento por 83.48 EUR (original: 150 EUR) en el siguiente enlace!

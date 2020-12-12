@@ -3,6 +3,7 @@ layout: post
 title: 'XTI 48429  Botines para Mujer  Negro  Bl al 73.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RewmSm9zL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41RewmSm9zL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RewmSm9zL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: 'XTI 48429  Botines para Mujer  Negro  Black   38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D97BMC2/?tag=tolees-21'
+descuento: '73.01'
+titulo: 'XTI 48429  Botines para Mujer  Negro  Bl'
 ---
 
 Está [XTI 48429  Botines para Mujer  Negro  Black   38 EU](https://www.amazon.es/dp/B07D97BMC2/?tag=tolees-21) con 73.01 de descuento por 13.48 EUR (original: 49.95 EUR) en el siguiente enlace!

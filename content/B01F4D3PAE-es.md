@@ -3,6 +3,7 @@ layout: post
 title: 'Pepe Jeans Malene  camisa Mujer  Multico al 56.41 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51IHPk5nscL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51IHPk5nscL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51IHPk5nscL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 75 EUR
 inStock: true
 prodname: 'Pepe Jeans Malene  camisa Mujer  Multicolor  Multi 0aa   38  Talla del fabricante: Small '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01F4D3PAE/?tag=tolees-21'
+descuento: '56.41'
+titulo: 'Pepe Jeans Malene  camisa Mujer  Multico'
 ---
 
 Ahora mismo tienes [Pepe Jeans Malene  camisa Mujer  Multicolor  Multi 0aa   38  Talla del fabricante: Small ](https://www.amazon.es/dp/B01F4D3PAE/?tag=tolees-21) a 32.69 EUR (original: 75 EUR) (56.41 %  de descuento) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Columbia Boubioz Hooded Full Zip Chaquet al 74.16 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417tBVvGKWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/417tBVvGKWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417tBVvGKWL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 99.99 EUR
 inStock: true
 prodname: 'Columbia Boubioz Hooded Full Zip Chaqueta Polar con Cremallera Completa  Poliéster  Amarillo/Rojo  Canyon Gold/Red Element   Talla: XXL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DZ6PXVW/?tag=tolees-21'
+descuento: '74.16'
+titulo: 'Columbia Boubioz Hooded Full Zip Chaquet'
 ---
 
 Está [Columbia Boubioz Hooded Full Zip Chaqueta Polar con Cremallera Completa  Poliéster  Amarillo/Rojo  Canyon Gold/Red Element   Talla: XXL](https://www.amazon.es/dp/B07DZ6PXVW/?tag=tolees-21) con 74.16 de descuento por 25.84 EUR (original: 99.99 EUR) en el siguiente enlace!

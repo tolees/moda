@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour Anomaly  Zapatos de Balonce al 52.23 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41w6vphsW0L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41w6vphsW0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41w6vphsW0L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 75 EUR
 inStock: true
 prodname: 'Under Armour Anomaly  Zapatos de Baloncesto para Hombre  Gris  Ash Taupe/Gray Flux/Black 102   41 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CTLGS9R/?tag=tolees-21'
+descuento: '52.23'
+titulo: 'Under Armour Anomaly  Zapatos de Balonce'
 ---
 
 Está [Under Armour Anomaly  Zapatos de Baloncesto para Hombre  Gris  Ash Taupe/Gray Flux/Black 102   41 EU](https://www.amazon.es/dp/B07CTLGS9R/?tag=tolees-21) con 52.23 de descuento por 35.83 EUR (original: 75 EUR) en el siguiente enlace!

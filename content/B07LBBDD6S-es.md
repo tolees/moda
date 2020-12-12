@@ -3,6 +3,7 @@ layout: post
 title: 'Tommy Jeans TJM Essential Box Logo tee   al 30.17 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HNU%2BqJcCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41HNU%2BqJcCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HNU%2BqJcCL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 29 EUR
 inStock: true
 prodname: 'Tommy Jeans TJM Essential Box Logo tee  Camiseta para Hombre  Blau  Black Iris 002   L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07LBBDD6S/?tag=tolees-21'
+descuento: '30.17'
+titulo: 'Tommy Jeans TJM Essential Box Logo tee  '
 ---
 
 Está [Tommy Jeans TJM Essential Box Logo tee  Camiseta para Hombre  Blau  Black Iris 002   L](https://www.amazon.es/dp/B07LBBDD6S/?tag=tolees-21) con 30.17 de descuento por 20.25 EUR (original: 29 EUR) en el siguiente enlace!

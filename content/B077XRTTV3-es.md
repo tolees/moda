@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour HG Racer - Camiseta de Tira al 65.96 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CxgX-HKPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41CxgX-HKPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CxgX-HKPL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 28 EUR
 inStock: true
 prodname: 'Under Armour HG Racer - Camiseta de Tirantes para Mujer  Mujer  1271765-906  Peach Horizon/Metallic Silver  Medium'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077XRTTV3/?tag=tolees-21'
+descuento: '65.96'
+titulo: 'Under Armour HG Racer - Camiseta de Tira'
 ---
 
 Ahora mismo tienes [Under Armour HG Racer - Camiseta de Tirantes para Mujer  Mujer  1271765-906  Peach Horizon/Metallic Silver  Medium](https://www.amazon.es/dp/B077XRTTV3/?tag=tolees-21) a 9.53 EUR (original: 28 EUR) (65.96 %  de descuento) en el siguiente enlace!

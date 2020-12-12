@@ -3,6 +3,7 @@ layout: post
 title: 'Timberland Killington  Botas Clasicas pa al 50.62 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418o73kxBqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/418o73kxBqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418o73kxBqL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 130 EUR
 inStock: true
 prodname: 'Timberland Killington  Botas Clasicas para Hombre  Marrón  Trapper Tan Nubuck D51   43 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N6KSUA7/?tag=tolees-21'
+descuento: '50.62'
+titulo: 'Timberland Killington  Botas Clasicas pa'
 ---
 
 Ahora mismo tienes [Timberland Killington  Botas Clasicas para Hombre  Marrón  Trapper Tan Nubuck D51   43 EU](https://www.amazon.es/dp/B01N6KSUA7/?tag=tolees-21) a 64.19 EUR (original: 130 EUR) (50.62 %  de descuento) en el siguiente enlace!

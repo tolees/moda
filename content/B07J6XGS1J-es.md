@@ -3,6 +3,7 @@ layout: post
 title: 'Mayoral 791429  Camiseta de Manga Larga  al 54.36 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51%2Btieb-1%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51%2Btieb-1%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51%2Btieb-1%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 17.99 EUR
 inStock: true
 prodname: 'Mayoral 791429  Camiseta de Manga Larga para Niñas  Azul  Marino 11  8 años  Tamaño del Fabricante:8 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07J6XGS1J/?tag=tolees-21'
+descuento: '54.36'
+titulo: 'Mayoral 791429  Camiseta de Manga Larga '
 ---
 
 Ahora mismo tienes [Mayoral 791429  Camiseta de Manga Larga para Niñas  Azul  Marino 11  8 años  Tamaño del Fabricante:8 ](https://www.amazon.es/dp/B07J6XGS1J/?tag=tolees-21) a 8.21 EUR (original: 17.99 EUR) (54.36 %  de descuento) en el siguiente enlace!

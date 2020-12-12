@@ -3,6 +3,7 @@ layout: post
 title: 'Pepe Jeans Sidney JR PG580629  Sudadera  al 63.97 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61ODRXIOzGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61ODRXIOzGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61ODRXIOzGL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 59 EUR
 inStock: true
 prodname: 'Pepe Jeans Sidney JR PG580629  Sudadera para Niñas  Gris  Dk Grey 975  14 años'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XT97QCD/?tag=tolees-21'
+descuento: '63.97'
+titulo: 'Pepe Jeans Sidney JR PG580629  Sudadera '
 ---
 
 Está [Pepe Jeans Sidney JR PG580629  Sudadera para Niñas  Gris  Dk Grey 975  14 años](https://www.amazon.es/dp/B06XT97QCD/?tag=tolees-21) con 63.97 de descuento por 21.26 EUR (original: 59 EUR) en el siguiente enlace!

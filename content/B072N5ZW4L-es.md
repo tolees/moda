@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 77.44 % en Vero Moda Vmjennie LS Top  Camisa Manga '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41I59%2BDXMyL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41I59%2BDXMyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41I59%2BDXMyL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 26.99 EUR
 inStock: true
 prodname: 'Vero Moda Vmjennie LS Top  Camisa Manga Larga Mujer  Azul  Navy Blazer Navy Blazer   36  Talla del Fabricante: Small '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072N5ZW4L/?tag=tolees-21'
+descuento: '77.44'
+titulo: 'Vero Moda Vmjennie LS Top  Camisa Manga '
 ---
 
 Tienes [Vero Moda Vmjennie LS Top  Camisa Manga Larga Mujer  Azul  Navy Blazer Navy Blazer   36  Talla del Fabricante: Small ](https://www.amazon.es/dp/B072N5ZW4L/?tag=tolees-21) con un 77.44 % de descuento con precio de oferta de 6.09 EUR (original: 26.99 EUR) en el siguiente enlace!

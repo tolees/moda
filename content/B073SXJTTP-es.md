@@ -3,6 +3,7 @@ layout: post
 title: 'JACK & JONES  Vaqueros Slim para Hombre  al 80.67 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4183e3hYxhL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4183e3hYxhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4183e3hYxhL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 99.99 EUR
 inStock: true
 prodname: 'JACK & JONES  Vaqueros Slim para Hombre  Azul  Blue Denim Blue Denim   W32/L36  Talla del fabricante: 32 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073SXJTTP/?tag=tolees-21'
+descuento: '80.67'
+titulo: 'JACK & JONES  Vaqueros Slim para Hombre '
 ---
 
 Está [JACK & JONES  Vaqueros Slim para Hombre  Azul  Blue Denim Blue Denim   W32/L36  Talla del fabricante: 32 ](https://www.amazon.es/dp/B073SXJTTP/?tag=tolees-21) con 80.67 de descuento por 19.33 EUR (original: 99.99 EUR) en el siguiente enlace!

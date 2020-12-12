@@ -3,6 +3,7 @@ layout: post
 title: 'Pepe Jeans Simone JR PB580773  Sudadera  al 45.84 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51C-8Am4wML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51C-8Am4wML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51C-8Am4wML._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 49 EUR
 inStock: true
 prodname: 'Pepe Jeans Simone JR PB580773  Sudadera para Niños  Verde  Stone Green 726  10 años'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076DHCNT7/?tag=tolees-21'
+descuento: '45.84'
+titulo: 'Pepe Jeans Simone JR PB580773  Sudadera '
 ---
 
 Ahora mismo tienes [Pepe Jeans Simone JR PB580773  Sudadera para Niños  Verde  Stone Green 726  10 años](https://www.amazon.es/dp/B076DHCNT7/?tag=tolees-21) a 26.54 EUR (original: 49 EUR) (45.84 %  de descuento) en el siguiente enlace!

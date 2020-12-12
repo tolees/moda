@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 55.01 % en Helly Hansen Crew Chaqueta  Hombre   Azu'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RAX1VbyzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41RAX1VbyzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RAX1VbyzL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 140 EUR
 inStock: true
 prodname: 'Helly Hansen Crew Chaqueta  Hombre   Azul Navy   2XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B006SWC0GQ/?tag=tolees-21'
+descuento: '55.01'
+titulo: 'Helly Hansen Crew Chaqueta  Hombre   Azu'
 ---
 
 Tienes [Helly Hansen Crew Chaqueta  Hombre   Azul Navy   2XL](https://www.amazon.es/dp/B006SWC0GQ/?tag=tolees-21) con un 55.01 % de descuento con precio de oferta de 62.99 EUR (original: 140 EUR) en el siguiente enlace!

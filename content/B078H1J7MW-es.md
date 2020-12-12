@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield 73326 Camiseta de Manga Larg al 57.91 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41EwCWSyRpL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41EwCWSyRpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41EwCWSyRpL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 15.99 EUR
 inStock: true
 prodname: 'Springfield 73326 Camiseta de Manga Larga   Rosa Morado   Small  Tamaño del Fabricante:2  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078H1J7MW/?tag=tolees-21'
+descuento: '57.91'
+titulo: 'Springfield 73326 Camiseta de Manga Larg'
 ---
 
 Ahora mismo tienes [Springfield 73326 Camiseta de Manga Larga   Rosa Morado   Small  Tamaño del Fabricante:2  para Mujer](https://www.amazon.es/dp/B078H1J7MW/?tag=tolees-21) a 6.73 EUR (original: 15.99 EUR) (57.91 %  de descuento) en el siguiente enlace!

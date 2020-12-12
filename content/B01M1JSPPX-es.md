@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Basic Boxer Printed Stripe 2P  Bóxe al 34.96 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51IfZXB5llL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51IfZXB5llL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51IfZXB5llL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 14.99 EUR
 inStock: true
 prodname: 'Puma Basic Boxer Printed Stripe 2P  Bóxer para Niños  Azul  Blue   140  Talla de fabricante: 9-10 Años '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01M1JSPPX/?tag=tolees-21'
+descuento: '34.96'
+titulo: 'Puma Basic Boxer Printed Stripe 2P  Bóxe'
 ---
 
 Ahora mismo tienes [Puma Basic Boxer Printed Stripe 2P  Bóxer para Niños  Azul  Blue   140  Talla de fabricante: 9-10 Años ](https://www.amazon.es/dp/B01M1JSPPX/?tag=tolees-21) a 9.75 EUR (original: 14.99 EUR) (34.96 %  de descuento) en el siguiente enlace!

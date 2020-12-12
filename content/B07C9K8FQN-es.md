@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 53.30 % en BOSS Hombre Taber BC-p Vaqueros Tapered '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31SFhTvVGcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31SFhTvVGcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31SFhTvVGcL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 119 EUR
 inStock: true
 prodname: 'BOSS Hombre Taber BC-p Vaqueros Tapered Not Applicable  Negro  Black 008   W32/L30  Talla del Fabricante: 3230 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07C9K8FQN/?tag=tolees-21'
+descuento: '53.30'
+titulo: 'BOSS Hombre Taber BC-p Vaqueros Tapered '
 ---
 
 Tienes [BOSS Hombre Taber BC-p Vaqueros Tapered Not Applicable  Negro  Black 008   W32/L30  Talla del Fabricante: 3230 ](https://www.amazon.es/dp/B07C9K8FQN/?tag=tolees-21) con un 53.30 % de descuento con precio de oferta de 55.57 EUR (original: 119 EUR) en el siguiente enlace!

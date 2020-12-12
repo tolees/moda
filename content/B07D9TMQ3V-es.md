@@ -3,6 +3,7 @@ layout: post
 title: 'Mustang Stiefelette  Botines para Mujer  al 55.71 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41WQhECg0nL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41WQhECg0nL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41WQhECg0nL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'Mustang Stiefelette  Botines para Mujer  Marfil  Ice 203   39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D9TMQ3V/?tag=tolees-21'
+descuento: '55.71'
+titulo: 'Mustang Stiefelette  Botines para Mujer '
 ---
 
 Está [Mustang Stiefelette  Botines para Mujer  Marfil  Ice 203   39 EU](https://www.amazon.es/dp/B07D9TMQ3V/?tag=tolees-21) con 55.71 de descuento por 30.98 EUR (original: 69.95 EUR) en el siguiente enlace!

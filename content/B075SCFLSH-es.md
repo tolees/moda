@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 67.33 % en Springfield 1512021  Camisa casual para '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41po5jUnCHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41po5jUnCHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41po5jUnCHL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 25.99 EUR
 inStock: true
 prodname: 'Springfield 1512021  Camisa casual para Hombre  Blanco  White 99   Small  Tamaño del fabricante:S '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075SCFLSH/?tag=tolees-21'
+descuento: '67.33'
+titulo: 'Springfield 1512021  Camisa casual para '
 ---
 
 Tienes [Springfield 1512021  Camisa casual para Hombre  Blanco  White 99   Small  Tamaño del fabricante:S ](https://www.amazon.es/dp/B075SCFLSH/?tag=tolees-21) con un 67.33 % de descuento con precio de oferta de 8.49 EUR (original: 25.99 EUR) en el siguiente enlace!

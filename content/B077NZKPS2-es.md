@@ -3,6 +3,7 @@ layout: post
 title: 'Lee Elly Vaqueros Slim  Azul  Unplugged  al 80.12 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41AO0WAgAVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41AO0WAgAVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41AO0WAgAVL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'Lee Elly Vaqueros Slim  Azul  Unplugged Auvk   27W / 31L para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077NZKPS2/?tag=tolees-21'
+descuento: '80.12'
+titulo: 'Lee Elly Vaqueros Slim  Azul  Unplugged '
 ---
 
 Está [Lee Elly Vaqueros Slim  Azul  Unplugged Auvk   27W / 31L para Mujer](https://www.amazon.es/dp/B077NZKPS2/?tag=tolees-21) con 80.12 de descuento por 19.87 EUR (original: 99.95 EUR) en el siguiente enlace!

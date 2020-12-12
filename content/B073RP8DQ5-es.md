@@ -3,6 +3,7 @@ layout: post
 title: 'Helly Hansen Stockholm Backpack Bolso de al 54.29 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pSHX2ScpL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41pSHX2ScpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41pSHX2ScpL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 70 EUR
 inStock: true
 prodname: 'Helly Hansen Stockholm Backpack Bolso de Mano  Unisex  Negro  Black   Talla única'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073RP8DQ5/?tag=tolees-21'
+descuento: '54.29'
+titulo: 'Helly Hansen Stockholm Backpack Bolso de'
 ---
 
 Ahora mismo tienes [Helly Hansen Stockholm Backpack Bolso de Mano  Unisex  Negro  Black   Talla única](https://www.amazon.es/dp/B073RP8DQ5/?tag=tolees-21) a 32 EUR (original: 70 EUR) (54.29 %  de descuento) en el siguiente enlace!

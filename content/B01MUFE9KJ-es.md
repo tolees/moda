@@ -3,6 +3,7 @@ layout: post
 title: 'G-STAR RAW 3301 Deconstructed Mid Waist  al 68.32 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31HiX1wFhcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31HiX1wFhcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31HiX1wFhcL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 89.95 EUR
 inStock: true
 prodname: 'G-STAR RAW 3301 Deconstructed Mid Waist Straight Vaqueros  Negro  raw denim 6245-001   26W / 30L para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MUFE9KJ/?tag=tolees-21'
+descuento: '68.32'
+titulo: 'G-STAR RAW 3301 Deconstructed Mid Waist '
 ---
 
 Está [G-STAR RAW 3301 Deconstructed Mid Waist Straight Vaqueros  Negro  raw denim 6245-001   26W / 30L para Mujer](https://www.amazon.es/dp/B01MUFE9KJ/?tag=tolees-21) con 68.32 de descuento por 28.5 EUR (original: 89.95 EUR) en el siguiente enlace!

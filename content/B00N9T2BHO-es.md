@@ -3,6 +3,7 @@ layout: post
 title: 'H.I.S Jeans 100362 - Vaqueros para Mujer al 80.50 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fk62rZjmL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41fk62rZjmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fk62rZjmL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 49.94 EUR
 inStock: true
 prodname: 'H.I.S Jeans 100362 - Vaqueros para Mujer  Color Rot  Flame Scarlet 6310   Talla 36'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00N9T2BHO/?tag=tolees-21'
+descuento: '80.50'
+titulo: 'H.I.S Jeans 100362 - Vaqueros para Mujer'
 ---
 
 Ahora mismo tienes [H.I.S Jeans 100362 - Vaqueros para Mujer  Color Rot  Flame Scarlet 6310   Talla 36](https://www.amazon.es/dp/B00N9T2BHO/?tag=tolees-21) a 9.74 EUR (original: 49.94 EUR) (80.50 %  de descuento) en el siguiente enlace!

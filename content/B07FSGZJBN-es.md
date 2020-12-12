@@ -3,6 +3,7 @@ layout: post
 title: 'Naf Naf Jhnh30d Abrigo   Fantaisie 1756  al 72.63 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51zlP-4z6OL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51zlP-4z6OL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51zlP-4z6OL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 169.99 EUR
 inStock: true
 prodname: 'Naf Naf Jhnh30d Abrigo   Fantaisie 1756   38 para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FSGZJBN/?tag=tolees-21'
+descuento: '72.63'
+titulo: 'Naf Naf Jhnh30d Abrigo   Fantaisie 1756 '
 ---
 
 Está [Naf Naf Jhnh30d Abrigo   Fantaisie 1756   38 para Mujer](https://www.amazon.es/dp/B07FSGZJBN/?tag=tolees-21) con 72.63 de descuento por 46.53 EUR (original: 169.99 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Armani Exchange J15 Straight Vaqueros  A al 48.11 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418S1UCk4AL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/418S1UCk4AL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418S1UCk4AL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 105 EUR
 inStock: true
 prodname: 'Armani Exchange J15 Straight Vaqueros  Azul  Denim Indaco 1500   W29/L34  Talla del Fabricante: 29  para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FDDCMR1/?tag=tolees-21'
+descuento: '48.11'
+titulo: 'Armani Exchange J15 Straight Vaqueros  A'
 ---
 
 Ahora mismo tienes [Armani Exchange J15 Straight Vaqueros  Azul  Denim Indaco 1500   W29/L34  Talla del Fabricante: 29  para Hombre](https://www.amazon.es/dp/B07FDDCMR1/?tag=tolees-21) a 54.48 EUR (original: 105 EUR) (48.11 %  de descuento) en el siguiente enlace!

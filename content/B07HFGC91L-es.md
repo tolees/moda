@@ -3,6 +3,7 @@ layout: post
 title: 'ONLY NOS onlAVA Faux Leather Biker OTW N al 60.09 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Va5uc%2BHIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Va5uc%2BHIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Va5uc%2BHIL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'ONLY NOS onlAVA Faux Leather Biker OTW Noos Chaqueta  Rojo High Risk Red  40 para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HFGC91L/?tag=tolees-21'
+descuento: '60.09'
+titulo: 'ONLY NOS onlAVA Faux Leather Biker OTW N'
 ---
 
 Ahora mismo tienes [ONLY NOS onlAVA Faux Leather Biker OTW Noos Chaqueta  Rojo High Risk Red  40 para Mujer](https://www.amazon.es/dp/B07HFGC91L/?tag=tolees-21) a 19.95 EUR (original: 49.99 EUR) (60.09 %  de descuento) en el siguiente enlace!

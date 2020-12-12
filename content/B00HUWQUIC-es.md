@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 56.89 % en Fendi Brillengestelle FF 0011 7SU/17-53-'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21Wn0TxQ6fL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/21Wn0TxQ6fL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21Wn0TxQ6fL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 310 EUR
 inStock: true
 prodname: 'Fendi Brillengestelle FF 0011 7SU/17-53-17-135 Monturas de gafas  Blanco  Weiß   53.0 para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00HUWQUIC/?tag=tolees-21'
+descuento: '56.89'
+titulo: 'Fendi Brillengestelle FF 0011 7SU/17-53-'
 ---
 
 Tienes [Fendi Brillengestelle FF 0011 7SU/17-53-17-135 Monturas de gafas  Blanco  Weiß   53.0 para Mujer](https://www.amazon.es/dp/B00HUWQUIC/?tag=tolees-21) con un 56.89 % de descuento con precio de oferta de 133.65 EUR (original: 310 EUR) en el siguiente enlace!

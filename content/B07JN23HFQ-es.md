@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 70.97 % en Morgan 191-tito.n Camiseta  Negro Night '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pw5sUjzhL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41pw5sUjzhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41pw5sUjzhL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 29 EUR
 inStock: true
 prodname: 'Morgan 191-tito.n Camiseta  Negro Night  Small  Talla del Fabricante: TS  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JN23HFQ/?tag=tolees-21'
+descuento: '70.97'
+titulo: 'Morgan 191-tito.n Camiseta  Negro Night '
 ---
 
 Tienes [Morgan 191-tito.n Camiseta  Negro Night  Small  Talla del Fabricante: TS  para Mujer](https://www.amazon.es/dp/B07JN23HFQ/?tag=tolees-21) con un 70.97 % de descuento con precio de oferta de 8.42 EUR (original: 29 EUR) en el siguiente enlace!

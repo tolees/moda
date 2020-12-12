@@ -3,6 +3,7 @@ layout: post
 title: 'Lee Scarlett Jeans Vaqueros Skinny  Negr al 78.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41IY5xULYCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41IY5xULYCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41IY5xULYCL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 89.95 EUR
 inStock: true
 prodname: 'Lee Scarlett Jeans Vaqueros Skinny  Negro  Black Rinse 47   W25/L29 para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079K48BWC/?tag=tolees-21'
+descuento: '78.00'
+titulo: 'Lee Scarlett Jeans Vaqueros Skinny  Negr'
 ---
 
 Está [Lee Scarlett Jeans Vaqueros Skinny  Negro  Black Rinse 47   W25/L29 para Mujer](https://www.amazon.es/dp/B079K48BWC/?tag=tolees-21) con 78.00 de descuento por 19.79 EUR (original: 89.95 EUR) en el siguiente enlace!

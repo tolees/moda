@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 63.78 % en Kempa Core - Camiseta para Mujer Azul Az'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413UGMYUDWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/413UGMYUDWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413UGMYUDWL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 20.57 EUR
 inStock: true
 prodname: 'Kempa Core - Camiseta para Mujer Azul Azul Talla:Medium'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00J3QTYHW/?tag=tolees-21'
+descuento: '63.78'
+titulo: 'Kempa Core - Camiseta para Mujer Azul Az'
 ---
 
 Tienes [Kempa Core - Camiseta para Mujer Azul Azul Talla:Medium](https://www.amazon.es/dp/B00J3QTYHW/?tag=tolees-21) con un 63.78 % de descuento con precio de oferta de 7.45 EUR (original: 20.57 EUR) en el siguiente enlace!

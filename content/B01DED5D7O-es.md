@@ -3,6 +3,7 @@ layout: post
 title: 'Reef Twinpin  Sandalias para Hombre   Kh al 58.65 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31F2orNIX8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31F2orNIX8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31F2orNIX8L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 33.88 EUR
 inStock: true
 prodname: 'Reef Twinpin  Sandalias para Hombre   Khaki   40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01DED5D7O/?tag=tolees-21'
+descuento: '58.65'
+titulo: 'Reef Twinpin  Sandalias para Hombre   Kh'
 ---
 
 Está [Reef Twinpin  Sandalias para Hombre   Khaki   40 EU](https://www.amazon.es/dp/B01DED5D7O/?tag=tolees-21) con 58.65 de descuento por 14.01 EUR (original: 33.88 EUR) en el siguiente enlace!

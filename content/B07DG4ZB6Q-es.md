@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Amplified Big Logo tee Camiseta  Ho al 59.64 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31zsgRWnEPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31zsgRWnEPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31zsgRWnEPL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 51.91 EUR
 inStock: true
 prodname: 'Puma Amplified Big Logo tee Camiseta  Hombre  Verde  Olivine   XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DG4ZB6Q/?tag=tolees-21'
+descuento: '59.64'
+titulo: 'Puma Amplified Big Logo tee Camiseta  Ho'
 ---
 
 Ahora mismo tienes [Puma Amplified Big Logo tee Camiseta  Hombre  Verde  Olivine   XL](https://www.amazon.es/dp/B07DG4ZB6Q/?tag=tolees-21) a 20.95 EUR (original: 51.91 EUR) (59.64 %  de descuento) en el siguiente enlace!

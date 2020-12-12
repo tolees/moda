@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 88.99 % en Sylvie Flirty Swimwear Brix  Parte de Ar'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GAtRcZUxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41GAtRcZUxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GAtRcZUxL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 54.95 EUR
 inStock: true
 prodname: 'Sylvie Flirty Swimwear Brix  Parte de Arriba de Bikini para Mujer  Negro  Black 5053   42  Talla del fabricante: 40A '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077YC1FRR/?tag=tolees-21'
+descuento: '88.99'
+titulo: 'Sylvie Flirty Swimwear Brix  Parte de Ar'
 ---
 
 Tienes [Sylvie Flirty Swimwear Brix  Parte de Arriba de Bikini para Mujer  Negro  Black 5053   42  Talla del fabricante: 40A ](https://www.amazon.es/dp/B077YC1FRR/?tag=tolees-21) con un 88.99 % de descuento con precio de oferta de 6.05 EUR (original: 54.95 EUR) en el siguiente enlace!

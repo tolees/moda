@@ -3,6 +3,7 @@ layout: post
 title: 'Burton Durable Goods Sudadera  Hombre  B al 52.91 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UWBtiiIpL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41UWBtiiIpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UWBtiiIpL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 65 EUR
 inStock: true
 prodname: 'Burton Durable Goods Sudadera  Hombre  Bitters  XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0733D1CQQ/?tag=tolees-21'
+descuento: '52.91'
+titulo: 'Burton Durable Goods Sudadera  Hombre  B'
 ---
 
 Ahora mismo tienes [Burton Durable Goods Sudadera  Hombre  Bitters  XL](https://www.amazon.es/dp/B0733D1CQQ/?tag=tolees-21) a 30.61 EUR (original: 65 EUR) (52.91 %  de descuento) en el siguiente enlace!

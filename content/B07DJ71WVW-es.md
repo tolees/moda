@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 41.75 % en Geox U Kaven A  Zapatillas para Hombre  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41u6c5alheL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41u6c5alheL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41u6c5alheL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 60 EUR
 inStock: true
 prodname: 'Geox U Kaven A  Zapatillas para Hombre  Azul  Navy C4002   39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DJ71WVW/?tag=tolees-21'
+descuento: '41.75'
+titulo: 'Geox U Kaven A  Zapatillas para Hombre  '
 ---
 
 Tienes [Geox U Kaven A  Zapatillas para Hombre  Azul  Navy C4002   39 EU](https://www.amazon.es/dp/B07DJ71WVW/?tag=tolees-21) con un 41.75 % de descuento con precio de oferta de 34.95 EUR (original: 60 EUR) en el siguiente enlace!

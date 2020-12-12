@@ -3,6 +3,7 @@ layout: post
 title: 'Fendi Brillengestelle FF 0048 D28/17-52- al 47.26 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31CLngP8DFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31CLngP8DFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31CLngP8DFL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 253.43 EUR
 inStock: true
 prodname: 'Fendi Brillengestelle FF 0048 D28/17-52-17-130 Monturas de gafas  Negro  Schwarz   52.0 para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00NPAKKO8/?tag=tolees-21'
+descuento: '47.26'
+titulo: 'Fendi Brillengestelle FF 0048 D28/17-52-'
 ---
 
 Ahora mismo tienes [Fendi Brillengestelle FF 0048 D28/17-52-17-130 Monturas de gafas  Negro  Schwarz   52.0 para Mujer](https://www.amazon.es/dp/B00NPAKKO8/?tag=tolees-21) a 133.65 EUR (original: 253.43 EUR) (47.26 %  de descuento) en el siguiente enlace!

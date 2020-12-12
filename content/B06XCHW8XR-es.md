@@ -3,6 +3,7 @@ layout: post
 title: 'Pepe Jeans New Brooke  Vaqueros para Muj al 33.21 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lWncSn2dL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41lWncSn2dL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41lWncSn2dL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 95 EUR
 inStock: true
 prodname: 'Pepe Jeans New Brooke  Vaqueros para Mujer  Azul  10Oz Str 8Dip Royal Dk D45  27W / 30L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XCHW8XR/?tag=tolees-21'
+descuento: '33.21'
+titulo: 'Pepe Jeans New Brooke  Vaqueros para Muj'
 ---
 
 Ahora mismo tienes [Pepe Jeans New Brooke  Vaqueros para Mujer  Azul  10Oz Str 8Dip Royal Dk D45  27W / 30L](https://www.amazon.es/dp/B06XCHW8XR/?tag=tolees-21) a 63.45 EUR (original: 95 EUR) (33.21 %  de descuento) en el siguiente enlace!

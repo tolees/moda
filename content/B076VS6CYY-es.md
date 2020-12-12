@@ -3,6 +3,7 @@ layout: post
 title: 'Carrera Hombre 4005/S 7F 6HT Gafas de so al 37.69 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31f6zzcSc4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31f6zzcSc4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31f6zzcSc4L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 117.34 EUR
 inStock: true
 prodname: 'Carrera Hombre 4005/S 7F 6HT Gafas de sol  Gris  Whcrygrydots/Rd Red   65'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076VS6CYY/?tag=tolees-21'
+descuento: '37.69'
+titulo: 'Carrera Hombre 4005/S 7F 6HT Gafas de so'
 ---
 
 Está [Carrera Hombre 4005/S 7F 6HT Gafas de sol  Gris  Whcrygrydots/Rd Red   65](https://www.amazon.es/dp/B076VS6CYY/?tag=tolees-21) con 37.69 de descuento por 73.11 EUR (original: 117.34 EUR) en el siguiente enlace!

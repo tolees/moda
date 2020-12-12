@@ -3,6 +3,7 @@ layout: post
 title: 'Cache Cache TUTOBBY Blusa  Blanco  Cloud al 54.02 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41r2t-GR25L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41r2t-GR25L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41r2t-GR25L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 28.25 EUR
 inStock: true
 prodname: 'Cache Cache TUTOBBY Blusa  Blanco  Cloud Dancer 277   Talla del Fabricante: 38 para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073P73QJR/?tag=tolees-21'
+descuento: '54.02'
+titulo: 'Cache Cache TUTOBBY Blusa  Blanco  Cloud'
 ---
 
 Ahora mismo tienes [Cache Cache TUTOBBY Blusa  Blanco  Cloud Dancer 277   Talla del Fabricante: 38 para Mujer](https://www.amazon.es/dp/B073P73QJR/?tag=tolees-21) a 12.99 EUR (original: 28.25 EUR) (54.02 %  de descuento) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 80.70 % en edc by Esprit 027cc2f005  Camisa para Ho'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ubMfHqpcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51ubMfHqpcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ubMfHqpcL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 36.06 EUR
 inStock: true
 prodname: 'edc by Esprit 027cc2f005  Camisa para Hombre  Azul  Navy   Medium'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N2K7BG2/?tag=tolees-21'
+descuento: '80.70'
+titulo: 'edc by Esprit 027cc2f005  Camisa para Ho'
 ---
 
 Tienes [edc by Esprit 027cc2f005  Camisa para Hombre  Azul  Navy   Medium](https://www.amazon.es/dp/B01N2K7BG2/?tag=tolees-21) con un 80.70 % de descuento con precio de oferta de 6.96 EUR (original: 36.06 EUR) en el siguiente enlace!

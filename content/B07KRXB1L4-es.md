@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.15 % en Columbia Hombre Camiseta  Onchan Park Te'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415XQda4T%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/415XQda4T%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415XQda4T%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'Columbia Hombre Camiseta  Onchan Park Tee  Algodón  Verde  Cypress/Graphic 2   Talla: XS  1841974'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KRXB1L4/?tag=tolees-21'
+descuento: '40.15'
+titulo: 'Columbia Hombre Camiseta  Onchan Park Te'
 ---
 
 Tienes [Columbia Hombre Camiseta  Onchan Park Tee  Algodón  Verde  Cypress/Graphic 2   Talla: XS  1841974](https://www.amazon.es/dp/B07KRXB1L4/?tag=tolees-21) con un 40.15 % de descuento con precio de oferta de 17.95 EUR (original: 29.99 EUR) en el siguiente enlace!

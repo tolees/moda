@@ -3,6 +3,7 @@ layout: post
 title: 'Vero Moda Vmsisse Butter HW Fx Leather S al 62.32 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31DruFjfucL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31DruFjfucL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31DruFjfucL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Vero Moda Vmsisse Butter HW Fx Leather Short Skirt  Falda Mujer  Negro  Black Black   38  Talla del Fabricante: Small '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DLB3JF9/?tag=tolees-21'
+descuento: '62.32'
+titulo: 'Vero Moda Vmsisse Butter HW Fx Leather S'
 ---
 
 Está [Vero Moda Vmsisse Butter HW Fx Leather Short Skirt  Falda Mujer  Negro  Black Black   38  Talla del Fabricante: Small ](https://www.amazon.es/dp/B07DLB3JF9/?tag=tolees-21) con 62.32 de descuento por 15.07 EUR (original: 39.99 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Inside 5SPPC01 Chaqueta Impermeable  Muj al 57.50 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ldmi0Jt5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ldmi0Jt5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ldmi0Jt5L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 30.07 EUR
 inStock: true
 prodname: 'Inside 5SPPC01 Chaqueta Impermeable  Mujer  Blanco  Large  Tamaño del Fabricante:L '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077Y8NB7T/?tag=tolees-21'
+descuento: '57.50'
+titulo: 'Inside 5SPPC01 Chaqueta Impermeable  Muj'
 ---
 
 Ahora mismo tienes [Inside 5SPPC01 Chaqueta Impermeable  Mujer  Blanco  Large  Tamaño del Fabricante:L ](https://www.amazon.es/dp/B077Y8NB7T/?tag=tolees-21) a 12.78 EUR (original: 30.07 EUR) (57.50 %  de descuento) en el siguiente enlace!

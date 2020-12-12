@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield 6.T.Ap. Plumas C.Alto Chaque al 69.60 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PWu5pRi6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41PWu5pRi6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PWu5pRi6L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 45.99 EUR
 inStock: true
 prodname: 'Springfield 6.T.Ap. Plumas C.Alto Chaqueta   Gama Verdes 29    Tamaño del Fabricante:44  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DLK4R9C/?tag=tolees-21'
+descuento: '69.60'
+titulo: 'Springfield 6.T.Ap. Plumas C.Alto Chaque'
 ---
 
 Ahora mismo tienes [Springfield 6.T.Ap. Plumas C.Alto Chaqueta   Gama Verdes 29    Tamaño del Fabricante:44  para Mujer](https://www.amazon.es/dp/B07DLK4R9C/?tag=tolees-21) a 13.98 EUR (original: 45.99 EUR) (69.60 %  de descuento) en el siguiente enlace!

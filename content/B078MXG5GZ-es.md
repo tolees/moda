@@ -3,6 +3,7 @@ layout: post
 title: 'ESPRIT Sports 028ei1g001  Chaqueta Mujer al 81.23 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cWB25Mc8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41cWB25Mc8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41cWB25Mc8L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 69.99 EUR
 inStock: true
 prodname: 'ESPRIT Sports 028ei1g001  Chaqueta Mujer  Rosa  Light Pink 690   40  Talla del Fabricante: Medium '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078MXG5GZ/?tag=tolees-21'
+descuento: '81.23'
+titulo: 'ESPRIT Sports 028ei1g001  Chaqueta Mujer'
 ---
 
 Ahora mismo tienes [ESPRIT Sports 028ei1g001  Chaqueta Mujer  Rosa  Light Pink 690   40  Talla del Fabricante: Medium ](https://www.amazon.es/dp/B078MXG5GZ/?tag=tolees-21) a 13.14 EUR (original: 69.99 EUR) (81.23 %  de descuento) en el siguiente enlace!

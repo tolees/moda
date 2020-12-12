@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 54.71 % en Hummel Hmlmyleneshirt Sudadera  Unisex n'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51DyacrcapL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51DyacrcapL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51DyacrcapL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 34.95 EUR
 inStock: true
 prodname: 'Hummel Hmlmyleneshirt Sudadera  Unisex niños  Blanco  Melange   110'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DVX2VBJ/?tag=tolees-21'
+descuento: '54.71'
+titulo: 'Hummel Hmlmyleneshirt Sudadera  Unisex n'
 ---
 
 Tienes [Hummel Hmlmyleneshirt Sudadera  Unisex niños  Blanco  Melange   110](https://www.amazon.es/dp/B07DVX2VBJ/?tag=tolees-21) con un 54.71 % de descuento con precio de oferta de 15.83 EUR (original: 34.95 EUR) en el siguiente enlace!

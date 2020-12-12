@@ -3,6 +3,7 @@ layout: post
 title: 'REPLAY Waitom Vaqueros Slim  Azul  Blue  al 82.45 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GDwMqzt1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41GDwMqzt1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GDwMqzt1L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 129 EUR
 inStock: true
 prodname: 'REPLAY Waitom Vaqueros Slim  Azul  Blue Denim 9   W30/L34 para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07C9PH73Z/?tag=tolees-21'
+descuento: '82.45'
+titulo: 'REPLAY Waitom Vaqueros Slim  Azul  Blue '
 ---
 
 Ahora mismo tienes [REPLAY Waitom Vaqueros Slim  Azul  Blue Denim 9   W30/L34 para Hombre](https://www.amazon.es/dp/B07C9PH73Z/?tag=tolees-21) a 22.64 EUR (original: 129 EUR) (82.45 %  de descuento) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Muvit I/O MIOVRC001 - Gafas de Realidad  al 33.18 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31wLHvO8qYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31wLHvO8qYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31wLHvO8qYL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 14.95 EUR
 inStock: true
 prodname: 'Muvit I/O MIOVRC001 - Gafas de Realidad Virtual'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CG6QWLG/?tag=tolees-21'
+descuento: '33.18'
+titulo: 'Muvit I/O MIOVRC001 - Gafas de Realidad '
 ---
 
 Está [Muvit I/O MIOVRC001 - Gafas de Realidad Virtual](https://www.amazon.es/dp/B07CG6QWLG/?tag=tolees-21) con 33.18 de descuento por 9.99 EUR (original: 14.95 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Armani Exchange Logo Chest Camiseta  Bla al 27.82 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41U6bc%2BEFNL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41U6bc%2BEFNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41U6bc%2BEFNL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 49 EUR
 inStock: true
 prodname: 'Armani Exchange Logo Chest Camiseta  Blanco  Opt White W/Pink FLA 01bp   Large para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JJDL787/?tag=tolees-21'
+descuento: '27.82'
+titulo: 'Armani Exchange Logo Chest Camiseta  Bla'
 ---
 
 Ahora mismo tienes [Armani Exchange Logo Chest Camiseta  Blanco  Opt White W/Pink FLA 01bp   Large para Mujer](https://www.amazon.es/dp/B07JJDL787/?tag=tolees-21) a 35.37 EUR (original: 49 EUR) (27.82 %  de descuento) en el siguiente enlace!

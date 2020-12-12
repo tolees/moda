@@ -3,6 +3,7 @@ layout: post
 title: 'Blend  20702635 - Camisa de Manga Corta  al 77.44 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416WEPiHhJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/416WEPiHhJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416WEPiHhJL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 28.28 EUR
 inStock: true
 prodname: 'Blend  20702635 - Camisa de Manga Corta para Hombre  Color Azul  74636   Talla L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N9KIEYP/?tag=tolees-21'
+descuento: '77.44'
+titulo: 'Blend  20702635 - Camisa de Manga Corta '
 ---
 
 Está [Blend  20702635 - Camisa de Manga Corta para Hombre  Color Azul  74636   Talla L](https://www.amazon.es/dp/B01N9KIEYP/?tag=tolees-21) con 77.44 de descuento por 6.38 EUR (original: 28.28 EUR) en el siguiente enlace!

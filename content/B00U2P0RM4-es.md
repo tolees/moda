@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.02 % en KRISP 6610-CORBLK-16  Vestido Corto Pati'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KHgz-tpCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41KHgz-tpCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41KHgz-tpCL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 24.39 EUR
 inStock: true
 prodname: 'KRISP 6610-CORBLK-16  Vestido Corto Patinadora Vuelo Fruncido Busto  Coral  6610   44'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00U2P0RM4/?tag=tolees-21'
+descuento: '50.02'
+titulo: 'KRISP 6610-CORBLK-16  Vestido Corto Pati'
 ---
 
 Tienes [KRISP 6610-CORBLK-16  Vestido Corto Patinadora Vuelo Fruncido Busto  Coral  6610   44](https://www.amazon.es/dp/B00U2P0RM4/?tag=tolees-21) con un 50.02 % de descuento con precio de oferta de 12.19 EUR (original: 24.39 EUR) en el siguiente enlace!

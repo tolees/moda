@@ -3,6 +3,7 @@ layout: post
 title: 'JACK & JONES Jorautumn City tee SS Crew  al 31.72 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fUUGzA5QL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41fUUGzA5QL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fUUGzA5QL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 12.99 EUR
 inStock: true
 prodname: 'JACK & JONES Jorautumn City tee SS Crew Neck  Camiseta para Hombre  Gris  Asphalt Fit: Reg  Medium'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FKSY4QN/?tag=tolees-21'
+descuento: '31.72'
+titulo: 'JACK & JONES Jorautumn City tee SS Crew '
 ---
 
 Ahora mismo tienes [JACK & JONES Jorautumn City tee SS Crew Neck  Camiseta para Hombre  Gris  Asphalt Fit: Reg  Medium](https://www.amazon.es/dp/B07FKSY4QN/?tag=tolees-21) a 8.87 EUR (original: 12.99 EUR) (31.72 %  de descuento) en el siguiente enlace!

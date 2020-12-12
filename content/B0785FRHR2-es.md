@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour Rival Fleece Po - Sudadera  al 42.47 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41AoNPel96L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41AoNPel96L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41AoNPel96L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'Under Armour Rival Fleece Po - Sudadera con capucha  Hombre  Gris  Steel Light Heather/Black 036   M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0785FRHR2/?tag=tolees-21'
+descuento: '42.47'
+titulo: 'Under Armour Rival Fleece Po - Sudadera '
 ---
 
 Está [Under Armour Rival Fleece Po - Sudadera con capucha  Hombre  Gris  Steel Light Heather/Black 036   M](https://www.amazon.es/dp/B0785FRHR2/?tag=tolees-21) con 42.47 de descuento por 28.76 EUR (original: 49.99 EUR) en el siguiente enlace!

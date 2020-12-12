@@ -3,6 +3,7 @@ layout: post
 title: 'Clarks Netley Rose  Zapatos de Cordones  al 50.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZzoZ-InpL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZzoZ-InpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZzoZ-InpL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 110 EUR
 inStock: true
 prodname: 'Clarks Netley Rose  Zapatos de Cordones Derby para Mujer  Negro  Black Patent-   40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D6QCS9K/?tag=tolees-21'
+descuento: '50.00'
+titulo: 'Clarks Netley Rose  Zapatos de Cordones '
 ---
 
 Está [Clarks Netley Rose  Zapatos de Cordones Derby para Mujer  Negro  Black Patent-   40 EU](https://www.amazon.es/dp/B07D6QCS9K/?tag=tolees-21) con 50.00 de descuento por 55 EUR (original: 110 EUR) en el siguiente enlace!

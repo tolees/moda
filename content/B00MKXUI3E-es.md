@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 53.82 % en The North Face M Warm L/S Zip Neck - Cam'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41SyVI3b4QL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41SyVI3b4QL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41SyVI3b4QL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 65 EUR
 inStock: true
 prodname: 'The North Face M Warm L/S Zip Neck - Camiseta para hombre  color negro  talla S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00MKXUI3E/?tag=tolees-21'
+descuento: '53.82'
+titulo: 'The North Face M Warm L/S Zip Neck - Cam'
 ---
 
 Tienes [The North Face M Warm L/S Zip Neck - Camiseta para hombre  color negro  talla S](https://www.amazon.es/dp/B00MKXUI3E/?tag=tolees-21) con un 53.82 % de descuento con precio de oferta de 30.02 EUR (original: 65 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Clarks Un Geo Lace  Zapatos de Cordones  al 50.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31tnZfjcmKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31tnZfjcmKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31tnZfjcmKL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 110 EUR
 inStock: true
 prodname: 'Clarks Un Geo Lace  Zapatos de Cordones Derby para Hombre  Marrón  Dark Brown Nubuck   44 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07B991QDD/?tag=tolees-21'
+descuento: '50.00'
+titulo: 'Clarks Un Geo Lace  Zapatos de Cordones '
 ---
 
 Ahora mismo tienes [Clarks Un Geo Lace  Zapatos de Cordones Derby para Hombre  Marrón  Dark Brown Nubuck   44 EU](https://www.amazon.es/dp/B07B991QDD/?tag=tolees-21) a 55 EUR (original: 110 EUR) (50.00 %  de descuento) en el siguiente enlace!

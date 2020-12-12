@@ -3,6 +3,7 @@ layout: post
 title: 'Vila Clothes Vilimit Skirt  Falda para M al 47.79 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vyPwCww-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41vyPwCww-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vyPwCww-L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Vila Clothes Vilimit Skirt  Falda para Mujer  Azul Total Eclipse  38  Talla del Fabricante: Medium '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075QCXSX4/?tag=tolees-21'
+descuento: '47.79'
+titulo: 'Vila Clothes Vilimit Skirt  Falda para M'
 ---
 
 Está [Vila Clothes Vilimit Skirt  Falda para Mujer  Azul Total Eclipse  38  Talla del Fabricante: Medium ](https://www.amazon.es/dp/B075QCXSX4/?tag=tolees-21) con 47.79 de descuento por 20.88 EUR (original: 39.99 EUR) en el siguiente enlace!

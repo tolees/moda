@@ -3,6 +3,7 @@ layout: post
 title: 'Guess Pandora Top Blusa  Negro  Jet Blac al 31.92 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41oNQ3bFLAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41oNQ3bFLAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41oNQ3bFLAL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 52 EUR
 inStock: true
 prodname: 'Guess Pandora Top Blusa  Negro  Jet Black A996 JBLK   M para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07LGPP3DY/?tag=tolees-21'
+descuento: '31.92'
+titulo: 'Guess Pandora Top Blusa  Negro  Jet Blac'
 ---
 
 Está [Guess Pandora Top Blusa  Negro  Jet Black A996 JBLK   M para Mujer](https://www.amazon.es/dp/B07LGPP3DY/?tag=tolees-21) con 31.92 de descuento por 35.4 EUR (original: 52 EUR) en el siguiente enlace!

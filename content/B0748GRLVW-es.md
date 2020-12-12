@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield 4.J.Ap.T.Rayas Glitter Jerse al 49.93 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51bJzAM8r3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51bJzAM8r3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51bJzAM8r3L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 22.99 EUR
 inStock: true
 prodname: 'Springfield 4.J.Ap.T.Rayas Glitter Jersey  Beige  Ivory   Large  Tamaño del Fabricante:L  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0748GRLVW/?tag=tolees-21'
+descuento: '49.93'
+titulo: 'Springfield 4.J.Ap.T.Rayas Glitter Jerse'
 ---
 
 Está [Springfield 4.J.Ap.T.Rayas Glitter Jersey  Beige  Ivory   Large  Tamaño del Fabricante:L  para Mujer](https://www.amazon.es/dp/B0748GRLVW/?tag=tolees-21) con 49.93 de descuento por 11.51 EUR (original: 22.99 EUR) en el siguiente enlace!

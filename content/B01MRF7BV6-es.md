@@ -3,6 +3,7 @@ layout: post
 title: 'MAMALICIOUS Mlaine L/s Jersey Top Mix  C al 63.54 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412Z2LPWhcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/412Z2LPWhcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412Z2LPWhcL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 29.95 EUR
 inStock: true
 prodname: 'MAMALICIOUS Mlaine L/s Jersey Top Mix  Camiseta de manchas largas premamá para Mujer  Gris  Medium Grey Melange   38  Talla fabricante:Medium '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MRF7BV6/?tag=tolees-21'
+descuento: '63.54'
+titulo: 'MAMALICIOUS Mlaine L/s Jersey Top Mix  C'
 ---
 
 Ahora mismo tienes [MAMALICIOUS Mlaine L/s Jersey Top Mix  Camiseta de manchas largas premamá para Mujer  Gris  Medium Grey Melange   38  Talla fabricante:Medium ](https://www.amazon.es/dp/B01MRF7BV6/?tag=tolees-21) a 10.92 EUR (original: 29.95 EUR) (63.54 %  de descuento) en el siguiente enlace!

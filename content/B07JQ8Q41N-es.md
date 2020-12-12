@@ -3,6 +3,7 @@ layout: post
 title: 'Levi s Essential V Neck Camiseta   Pacif al 55.17 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41sJ5vBmJkL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41sJ5vBmJkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41sJ5vBmJkL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 30 EUR
 inStock: true
 prodname: 'Levi s Essential V Neck Camiseta   Pacifica Maritime Blue/Cloud Dancer 0026   Large para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JQ8Q41N/?tag=tolees-21'
+descuento: '55.17'
+titulo: 'Levi s Essential V Neck Camiseta   Pacif'
 ---
 
 Ahora mismo tienes [Levi s Essential V Neck Camiseta   Pacifica Maritime Blue/Cloud Dancer 0026   Large para Mujer](https://www.amazon.es/dp/B07JQ8Q41N/?tag=tolees-21) a 13.45 EUR (original: 30 EUR) (55.17 %  de descuento) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'GOL - Vestido para niña  Color Schwarz   al 72.63 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KYXYxEZtL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41KYXYxEZtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41KYXYxEZtL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'GOL - Vestido para niña  Color Schwarz  Black 2   Talla 14 años  162 cm '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00IZCP1SG/?tag=tolees-21'
+descuento: '72.63'
+titulo: 'GOL - Vestido para niña  Color Schwarz  '
 ---
 
 Está [GOL - Vestido para niña  Color Schwarz  Black 2   Talla 14 años  162 cm ](https://www.amazon.es/dp/B00IZCP1SG/?tag=tolees-21) con 72.63 de descuento por 16.41 EUR (original: 59.95 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'MAMALICIOUS Mlzoe L/s Knit Top A  Jersey al 59.19 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hKumbhQsL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41hKumbhQsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41hKumbhQsL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 44.99 EUR
 inStock: true
 prodname: 'MAMALICIOUS Mlzoe L/s Knit Top A  Jersey premamá Mujer  Gris  Light Grey Melange   42  Talla del Fabricante: Large '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FPJBSNK/?tag=tolees-21'
+descuento: '59.19'
+titulo: 'MAMALICIOUS Mlzoe L/s Knit Top A  Jersey'
 ---
 
 Está [MAMALICIOUS Mlzoe L/s Knit Top A  Jersey premamá Mujer  Gris  Light Grey Melange   42  Talla del Fabricante: Large ](https://www.amazon.es/dp/B07FPJBSNK/?tag=tolees-21) con 59.19 de descuento por 18.36 EUR (original: 44.99 EUR) en el siguiente enlace!

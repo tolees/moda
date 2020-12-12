@@ -3,6 +3,7 @@ layout: post
 title: 'PUMA Evostripe Evoknit tee Camiseta  Hom al 50.09 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Y1t-ReC7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Y1t-ReC7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Y1t-ReC7L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 39.95 EUR
 inStock: true
 prodname: 'PUMA Evostripe Evoknit tee Camiseta  Hombre  Negro Black  M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JHX3LWL/?tag=tolees-21'
+descuento: '50.09'
+titulo: 'PUMA Evostripe Evoknit tee Camiseta  Hom'
 ---
 
 Está [PUMA Evostripe Evoknit tee Camiseta  Hombre  Negro Black  M](https://www.amazon.es/dp/B07JHX3LWL/?tag=tolees-21) con 50.09 de descuento por 19.94 EUR (original: 39.95 EUR) en el siguiente enlace!

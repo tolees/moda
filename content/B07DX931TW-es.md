@@ -3,6 +3,7 @@ layout: post
 title: '3 Pommes Dress  Vestido Bebé-Niñas  Marr al 58.54 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31bvtm%2Bk-QL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31bvtm%2Bk-QL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31bvtm%2Bk-QL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 34.95 EUR
 inStock: true
 prodname: '3 Pommes Dress  Vestido Bebé-Niñas  Marrón  Brown 67   18-24 Meses  Talla del Fabricante: 18/2Y '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DX931TW/?tag=tolees-21'
+descuento: '58.54'
+titulo: '3 Pommes Dress  Vestido Bebé-Niñas  Marr'
 ---
 
 Ahora mismo tienes [3 Pommes Dress  Vestido Bebé-Niñas  Marrón  Brown 67   18-24 Meses  Talla del Fabricante: 18/2Y ](https://www.amazon.es/dp/B07DX931TW/?tag=tolees-21) a 14.49 EUR (original: 34.95 EUR) (58.54 %  de descuento) en el siguiente enlace!

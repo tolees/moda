@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 78.46 % en Avoalre Gafas de Sol Hombres Polarizadas'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410WhrH393L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/410WhrH393L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410WhrH393L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 99.99 EUR
 inStock: true
 prodname: 'Avoalre Gafas de Sol Hombres Polarizadas Gafas Deportivas Unisex Anti UV400 Marco TR90 Súper Ligero y Mujer Ciclismo MTB Running Coche Moto Montaña - Azules'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07NW3QR74/?tag=tolees-21'
+descuento: '78.46'
+titulo: 'Avoalre Gafas de Sol Hombres Polarizadas'
 ---
 
 Tienes [Avoalre Gafas de Sol Hombres Polarizadas Gafas Deportivas Unisex Anti UV400 Marco TR90 Súper Ligero y Mujer Ciclismo MTB Running Coche Moto Montaña - Azules](https://www.amazon.es/dp/B07NW3QR74/?tag=tolees-21) con un 78.46 % de descuento con precio de oferta de 21.54 EUR (original: 99.99 EUR) en el siguiente enlace!

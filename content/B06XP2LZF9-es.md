@@ -3,6 +3,7 @@ layout: post
 title: 'oodji Ultra Mujer Camiseta Ancha de Algo al 53.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51TdKtZfwdL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51TdKtZfwdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51TdKtZfwdL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 8.3 EUR
 inStock: true
 prodname: 'oodji Ultra Mujer Camiseta Ancha de Algodón  Verde  ES 34 / XXS'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XP2LZF9/?tag=tolees-21'
+descuento: '53.01'
+titulo: 'oodji Ultra Mujer Camiseta Ancha de Algo'
 ---
 
 Ahora mismo tienes [oodji Ultra Mujer Camiseta Ancha de Algodón  Verde  ES 34 / XXS](https://www.amazon.es/dp/B06XP2LZF9/?tag=tolees-21) a 3.9 EUR (original: 8.3 EUR) (53.01 %  de descuento) en el siguiente enlace!

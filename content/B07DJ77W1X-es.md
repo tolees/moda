@@ -3,6 +3,7 @@ layout: post
 title: 'Geox U Nebula a  Zapatillas para Hombre  al 72.29 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gQdziRuYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41gQdziRuYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gQdziRuYL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 135 EUR
 inStock: true
 prodname: 'Geox U Nebula a  Zapatillas para Hombre  Azul  Navy C4002   45 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DJ77W1X/?tag=tolees-21'
+descuento: '72.29'
+titulo: 'Geox U Nebula a  Zapatillas para Hombre '
 ---
 
 Está [Geox U Nebula a  Zapatillas para Hombre  Azul  Navy C4002   45 EU](https://www.amazon.es/dp/B07DJ77W1X/?tag=tolees-21) con 72.29 de descuento por 37.41 EUR (original: 135 EUR) en el siguiente enlace!

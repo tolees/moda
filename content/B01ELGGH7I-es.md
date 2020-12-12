@@ -3,6 +3,7 @@ layout: post
 title: 'Blend Sabbi Dr  Vestido para Mujer  Rojo al 80.20 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GhTGNZMgL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41GhTGNZMgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GhTGNZMgL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 49.94 EUR
 inStock: true
 prodname: 'Blend Sabbi Dr  Vestido para Mujer  Rojo  Tawny Port  36  Talla del Fabricante: XS '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01ELGGH7I/?tag=tolees-21'
+descuento: '80.20'
+titulo: 'Blend Sabbi Dr  Vestido para Mujer  Rojo'
 ---
 
 Ahora mismo tienes [Blend Sabbi Dr  Vestido para Mujer  Rojo  Tawny Port  36  Talla del Fabricante: XS ](https://www.amazon.es/dp/B01ELGGH7I/?tag=tolees-21) a 9.89 EUR (original: 49.94 EUR) (80.20 %  de descuento) en el siguiente enlace!

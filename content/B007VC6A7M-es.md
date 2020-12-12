@@ -3,6 +3,7 @@ layout: post
 title: 'Timberland Classic 2-Eye  Náuticos para  al 41.77 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ND0PctnPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ND0PctnPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ND0PctnPL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 140 EUR
 inStock: true
 prodname: 'Timberland Classic 2-Eye  Náuticos para Hombre  Marrón  Brown 452   45.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B007VC6A7M/?tag=tolees-21'
+descuento: '41.77'
+titulo: 'Timberland Classic 2-Eye  Náuticos para '
 ---
 
 Ahora mismo tienes [Timberland Classic 2-Eye  Náuticos para Hombre  Marrón  Brown 452   45.5 EU](https://www.amazon.es/dp/B007VC6A7M/?tag=tolees-21) a 81.52 EUR (original: 140 EUR) (41.77 %  de descuento) en el siguiente enlace!

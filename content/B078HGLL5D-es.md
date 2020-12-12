@@ -3,6 +3,7 @@ layout: post
 title: 'Iris & Lilly Braguita Estilo Bikini Body al 25.82 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41V6SJNHcgL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41V6SJNHcgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41V6SJNHcgL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 14.99 EUR
 inStock: true
 prodname: 'Iris & Lilly Braguita Estilo Bikini Body Smooth Mujer  Pack de 5  Multicolor  White/fiery Red/spanish Villa/maritime Blue    Talla del fabricante: Medium '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078HGLL5D/?tag=tolees-21'
+descuento: '25.82'
+titulo: 'Iris & Lilly Braguita Estilo Bikini Body'
 ---
 
 Ahora mismo tienes [Iris & Lilly Braguita Estilo Bikini Body Smooth Mujer  Pack de 5  Multicolor  White/fiery Red/spanish Villa/maritime Blue    Talla del fabricante: Medium ](https://www.amazon.es/dp/B078HGLL5D/?tag=tolees-21) a 11.12 EUR (original: 14.99 EUR) (25.82 %  de descuento) en el siguiente enlace!

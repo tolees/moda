@@ -3,6 +3,7 @@ layout: post
 title: 'G-STAR RAW 3301 Deconstructed Skinny Vaq al 78.25 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31-mTuLCf0L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31-mTuLCf0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31-mTuLCf0L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 119.95 EUR
 inStock: true
 prodname: 'G-STAR RAW 3301 Deconstructed Skinny Vaqueros  Negro  Medium Aged 9882/071   W30/L34  Talla del Fabricante: 30W/ 34L  para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MTDSMQ6/?tag=tolees-21'
+descuento: '78.25'
+titulo: 'G-STAR RAW 3301 Deconstructed Skinny Vaq'
 ---
 
 Está [G-STAR RAW 3301 Deconstructed Skinny Vaqueros  Negro  Medium Aged 9882/071   W30/L34  Talla del Fabricante: 30W/ 34L  para Hombre](https://www.amazon.es/dp/B07MTDSMQ6/?tag=tolees-21) con 78.25 de descuento por 26.09 EUR (original: 119.95 EUR) en el siguiente enlace!

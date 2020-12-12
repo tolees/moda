@@ -3,6 +3,7 @@ layout: post
 title: 'Polaroid PLD 6024/S JB TJD 99  Gafas de  al 69.41 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31madZSxIsL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31madZSxIsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31madZSxIsL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 66 EUR
 inStock: true
 prodname: 'Polaroid PLD 6024/S JB TJD 99  Gafas de sol Unisex Adulto  Gris Grey Silmir Pz'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01M5IUZ4Y/?tag=tolees-21'
+descuento: '69.41'
+titulo: 'Polaroid PLD 6024/S JB TJD 99  Gafas de '
 ---
 
 Está [Polaroid PLD 6024/S JB TJD 99  Gafas de sol Unisex Adulto  Gris Grey Silmir Pz](https://www.amazon.es/dp/B01M5IUZ4Y/?tag=tolees-21) con 69.41 de descuento por 20.19 EUR (original: 66 EUR) en el siguiente enlace!

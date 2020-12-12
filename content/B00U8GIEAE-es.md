@@ -3,6 +3,7 @@ layout: post
 title: 'ESPRIT Collection 5P Slim  Vaqueros para al 61.97 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nlAau6IaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41nlAau6IaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41nlAau6IaL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 79.99 EUR
 inStock: true
 prodname: 'ESPRIT Collection 5P Slim  Vaqueros para Hombre  Blau  E Dark Blue 952   W31/ L34'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00U8GIEAE/?tag=tolees-21'
+descuento: '61.97'
+titulo: 'ESPRIT Collection 5P Slim  Vaqueros para'
 ---
 
 Ahora mismo tienes [ESPRIT Collection 5P Slim  Vaqueros para Hombre  Blau  E Dark Blue 952   W31/ L34](https://www.amazon.es/dp/B00U8GIEAE/?tag=tolees-21) a 30.42 EUR (original: 79.99 EUR) (61.97 %  de descuento) en el siguiente enlace!

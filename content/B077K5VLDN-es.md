@@ -3,6 +3,7 @@ layout: post
 title: 'REPLAY Grover  Vaqueros Slim Hombre  Azu al 68.20 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TmLKMpz6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41TmLKMpz6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TmLKMpz6L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 99 EUR
 inStock: true
 prodname: 'REPLAY Grover  Vaqueros Slim Hombre  Azul  Light Blue 9   W33/L34  Talla del Fabricante: 33 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077K5VLDN/?tag=tolees-21'
+descuento: '68.20'
+titulo: 'REPLAY Grover  Vaqueros Slim Hombre  Azu'
 ---
 
 Está [REPLAY Grover  Vaqueros Slim Hombre  Azul  Light Blue 9   W33/L34  Talla del Fabricante: 33 ](https://www.amazon.es/dp/B077K5VLDN/?tag=tolees-21) con 68.20 de descuento por 31.48 EUR (original: 99 EUR) en el siguiente enlace!

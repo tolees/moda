@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.17 % en Asics Gel-kayano Trainer Knit - Zapatos '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XY18KzewL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41XY18KzewL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XY18KzewL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 143.7 EUR
 inStock: true
 prodname: 'Asics Gel-kayano Trainer Knit - Zapatos de entrenamiento de carrera en asfalto para hombre  negro  42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N671UJG/?tag=tolees-21'
+descuento: '50.17'
+titulo: 'Asics Gel-kayano Trainer Knit - Zapatos '
 ---
 
 Tienes [Asics Gel-kayano Trainer Knit - Zapatos de entrenamiento de carrera en asfalto para hombre  negro  42 EU](https://www.amazon.es/dp/B01N671UJG/?tag=tolees-21) con un 50.17 % de descuento con precio de oferta de 71.6 EUR (original: 143.7 EUR) en el siguiente enlace!

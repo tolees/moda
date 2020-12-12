@@ -3,6 +3,7 @@ layout: post
 title: 'JACK & JONES Jorphotoxmas tee SS Crew Ne al 41.57 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QmXqBqJbL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41QmXqBqJbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QmXqBqJbL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 12.99 EUR
 inStock: true
 prodname: 'JACK & JONES Jorphotoxmas tee SS Crew Neck  Camiseta Hombre   Cloud Dancer Cloud Dancer   Small'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FPXF5J2/?tag=tolees-21'
+descuento: '41.57'
+titulo: 'JACK & JONES Jorphotoxmas tee SS Crew Ne'
 ---
 
 Ahora mismo tienes [JACK & JONES Jorphotoxmas tee SS Crew Neck  Camiseta Hombre   Cloud Dancer Cloud Dancer   Small](https://www.amazon.es/dp/B07FPXF5J2/?tag=tolees-21) a 7.59 EUR (original: 12.99 EUR) (41.57 %  de descuento) en el siguiente enlace!

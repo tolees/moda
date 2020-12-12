@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 35.81 % en Crocs Swiftwater Sandal Men  Zapatos de '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tS7GPOeyL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41tS7GPOeyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tS7GPOeyL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 49.9 EUR
 inStock: true
 prodname: 'Crocs Swiftwater Sandal Men  Zapatos de Agua para Hombre  Marrón Espresso  39/40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00EWJT84O/?tag=tolees-21'
+descuento: '35.81'
+titulo: 'Crocs Swiftwater Sandal Men  Zapatos de '
 ---
 
 Tienes [Crocs Swiftwater Sandal Men  Zapatos de Agua para Hombre  Marrón Espresso  39/40 EU](https://www.amazon.es/dp/B00EWJT84O/?tag=tolees-21) con un 35.81 % de descuento con precio de oferta de 32.03 EUR (original: 49.9 EUR) en el siguiente enlace!

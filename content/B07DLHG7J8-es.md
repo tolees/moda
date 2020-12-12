@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield 4Wo Long Sleeve Rugby Collar al 74.91 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4187SLIzNcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4187SLIzNcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4187SLIzNcL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 25.99 EUR
 inStock: true
 prodname: 'Springfield 4Wo Long Sleeve Rugby Collar Sudadera  Hombre  Azul  Gama Azules 11   Small  Tamaño del Fabricante:S '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DLHG7J8/?tag=tolees-21'
+descuento: '74.91'
+titulo: 'Springfield 4Wo Long Sleeve Rugby Collar'
 ---
 
 Está [Springfield 4Wo Long Sleeve Rugby Collar Sudadera  Hombre  Azul  Gama Azules 11   Small  Tamaño del Fabricante:S ](https://www.amazon.es/dp/B07DLHG7J8/?tag=tolees-21) con 74.91 de descuento por 6.52 EUR (original: 25.99 EUR) en el siguiente enlace!

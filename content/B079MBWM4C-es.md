@@ -3,6 +3,7 @@ layout: post
 title: 'MERAKI Regular Camiseta de Manga Corta c al 25.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31zH%2BQkh-PL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31zH%2BQkh-PL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31zH%2BQkh-PL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 15 EUR
 inStock: true
 prodname: 'MERAKI Regular Camiseta de Manga Corta con Corte Estándar y Cuello de Pico Hombre  Blanco  Optic White   Medium'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079MBWM4C/?tag=tolees-21'
+descuento: '25.00'
+titulo: 'MERAKI Regular Camiseta de Manga Corta c'
 ---
 
 Ahora mismo tienes [MERAKI Regular Camiseta de Manga Corta con Corte Estándar y Cuello de Pico Hombre  Blanco  Optic White   Medium](https://www.amazon.es/dp/B079MBWM4C/?tag=tolees-21) a 11.25 EUR (original: 15 EUR) (25.00 %  de descuento) en el siguiente enlace!

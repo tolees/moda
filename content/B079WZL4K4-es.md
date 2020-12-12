@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 49.81 % en Columbia Canyon Chaqueta  Hombre  Azul  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BzLIY1IsL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BzLIY1IsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2BzLIY1IsL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 89.99 EUR
 inStock: true
 prodname: 'Columbia Canyon Chaqueta  Hombre  Azul  Collegiate Navy Heather   M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079WZL4K4/?tag=tolees-21'
+descuento: '49.81'
+titulo: 'Columbia Canyon Chaqueta  Hombre  Azul  '
 ---
 
 Tienes [Columbia Canyon Chaqueta  Hombre  Azul  Collegiate Navy Heather   M](https://www.amazon.es/dp/B079WZL4K4/?tag=tolees-21) con un 49.81 % de descuento con precio de oferta de 45.17 EUR (original: 89.99 EUR) en el siguiente enlace!

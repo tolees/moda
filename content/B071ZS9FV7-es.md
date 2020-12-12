@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 52.85 % en ONLY Onlstarlight Aw Fur Parka Cc Otw  P'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51iESmyEBGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51iESmyEBGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51iESmyEBGL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'ONLY Onlstarlight Aw Fur Parka Cc Otw  Parka Mujer  Verde Oscuro  Jet Set    40  Talla del fabricante: Large '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071ZS9FV7/?tag=tolees-21'
+descuento: '52.85'
+titulo: 'ONLY Onlstarlight Aw Fur Parka Cc Otw  P'
 ---
 
 Tienes [ONLY Onlstarlight Aw Fur Parka Cc Otw  Parka Mujer  Verde Oscuro  Jet Set    40  Talla del fabricante: Large ](https://www.amazon.es/dp/B071ZS9FV7/?tag=tolees-21) con un 52.85 % de descuento con precio de oferta de 23.57 EUR (original: 49.99 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 66.90 % en Crocs Modi Sport Flip  Chanclas Unisex A'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KAgXnFFhL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41KAgXnFFhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41KAgXnFFhL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 44.9 EUR
 inStock: true
 prodname: 'Crocs Modi Sport Flip  Chanclas Unisex Adulto  Azul  Navy/Tangerine   38/39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N3LCR5Z/?tag=tolees-21'
+descuento: '66.90'
+titulo: 'Crocs Modi Sport Flip  Chanclas Unisex A'
 ---
 
 Tienes [Crocs Modi Sport Flip  Chanclas Unisex Adulto  Azul  Navy/Tangerine   38/39 EU](https://www.amazon.es/dp/B01N3LCR5Z/?tag=tolees-21) con un 66.90 % de descuento con precio de oferta de 14.86 EUR (original: 44.9 EUR) en el siguiente enlace!

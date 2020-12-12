@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 71.54 % en Under Armour Tech Ssv-Ticker - Camiseta '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31UxV2AqANL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31UxV2AqANL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31UxV2AqANL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 28 EUR
 inStock: true
 prodname: 'Under Armour Tech Ssv-Ticker - Camiseta de Manga Corta para Mujer  Mujer  1321258-001  Black/White/Metallic Silver  XS'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FGR9Q8H/?tag=tolees-21'
+descuento: '71.54'
+titulo: 'Under Armour Tech Ssv-Ticker - Camiseta '
 ---
 
 Tienes [Under Armour Tech Ssv-Ticker - Camiseta de Manga Corta para Mujer  Mujer  1321258-001  Black/White/Metallic Silver  XS](https://www.amazon.es/dp/B07FGR9Q8H/?tag=tolees-21) con un 71.54 % de descuento con precio de oferta de 7.97 EUR (original: 28 EUR) en el siguiente enlace!

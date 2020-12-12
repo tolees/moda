@@ -3,6 +3,7 @@ layout: post
 title: 'Mount Swiss Pantalón Corto - para Hombre al 37.37 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OTIdbhdzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41OTIdbhdzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41OTIdbhdzL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 39.9 EUR
 inStock: true
 prodname: 'Mount Swiss Pantalón Corto - para Hombre Negro S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079MC9D9W/?tag=tolees-21'
+descuento: '37.37'
+titulo: 'Mount Swiss Pantalón Corto - para Hombre'
 ---
 
 Está [Mount Swiss Pantalón Corto - para Hombre Negro S](https://www.amazon.es/dp/B079MC9D9W/?tag=tolees-21) con 37.37 de descuento por 24.99 EUR (original: 39.9 EUR) en el siguiente enlace!

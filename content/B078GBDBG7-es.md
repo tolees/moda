@@ -3,6 +3,7 @@ layout: post
 title: 'BOSS Orange24 Barcelona P Vaqueros Strai al 51.75 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41En5AJ2VZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41En5AJ2VZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41En5AJ2VZL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 119 EUR
 inStock: true
 prodname: 'BOSS Orange24 Barcelona P Vaqueros Straight  Azul  Dark Blue 405   W34/L32  Talla del Fabricante: 34/32  para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078GBDBG7/?tag=tolees-21'
+descuento: '51.75'
+titulo: 'BOSS Orange24 Barcelona P Vaqueros Strai'
 ---
 
 Está [BOSS Orange24 Barcelona P Vaqueros Straight  Azul  Dark Blue 405   W34/L32  Talla del Fabricante: 34/32  para Hombre](https://www.amazon.es/dp/B078GBDBG7/?tag=tolees-21) con 51.75 de descuento por 57.42 EUR (original: 119 EUR) en el siguiente enlace!

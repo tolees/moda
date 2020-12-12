@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.01 % en IRIS & LILLY Kt103 bañadores  Rosa  Pink'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mwPWQZBnL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41mwPWQZBnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mwPWQZBnL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 22.99 EUR
 inStock: true
 prodname: 'IRIS & LILLY Kt103 bañadores  Rosa  Pink Stripe   42  Talla del fabricante: Large '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07J4QP76T/?tag=tolees-21'
+descuento: '30.01'
+titulo: 'IRIS & LILLY Kt103 bañadores  Rosa  Pink'
 ---
 
 Tienes [IRIS & LILLY Kt103 bañadores  Rosa  Pink Stripe   42  Talla del fabricante: Large ](https://www.amazon.es/dp/B07J4QP76T/?tag=tolees-21) con un 30.01 % de descuento con precio de oferta de 16.09 EUR (original: 22.99 EUR) en el siguiente enlace!

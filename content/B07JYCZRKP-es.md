@@ -3,6 +3,7 @@ layout: post
 title: 'JACK & JONES Jorglave Light Track Jacket al 57.73 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41K50iR2mQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41K50iR2mQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41K50iR2mQL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'JACK & JONES Jorglave Light Track Jacket  Chaqueta para Hombre  Rojo Flame Scarlet  Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JYCZRKP/?tag=tolees-21'
+descuento: '57.73'
+titulo: 'JACK & JONES Jorglave Light Track Jacket'
 ---
 
 Está [JACK & JONES Jorglave Light Track Jacket  Chaqueta para Hombre  Rojo Flame Scarlet  Large](https://www.amazon.es/dp/B07JYCZRKP/?tag=tolees-21) con 57.73 de descuento por 21.13 EUR (original: 49.99 EUR) en el siguiente enlace!

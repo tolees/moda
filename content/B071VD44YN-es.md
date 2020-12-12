@@ -3,6 +3,7 @@ layout: post
 title: 'G-STAR RAW Midge Saddle Mid Straight Wmn al 65.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41M6KOyiNqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41M6KOyiNqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41M6KOyiNqL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'G-STAR RAW Midge Saddle Mid Straight Wmn New  Vaqueros Mujer  Negro  Rinsed 082   W25/L30'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071VD44YN/?tag=tolees-21'
+descuento: '65.01'
+titulo: 'G-STAR RAW Midge Saddle Mid Straight Wmn'
 ---
 
 Está [G-STAR RAW Midge Saddle Mid Straight Wmn New  Vaqueros Mujer  Negro  Rinsed 082   W25/L30](https://www.amazon.es/dp/B071VD44YN/?tag=tolees-21) con 65.01 de descuento por 34.97 EUR (original: 99.95 EUR) en el siguiente enlace!

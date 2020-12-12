@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Core-Run S/S tee Camiseta  Hombre   al 48.45 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MsZvkr-WL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41MsZvkr-WL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41MsZvkr-WL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 29.95 EUR
 inStock: true
 prodname: 'Puma Core-Run S/S tee Camiseta  Hombre  Gris  M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073Q3FQ1G/?tag=tolees-21'
+descuento: '48.45'
+titulo: 'Puma Core-Run S/S tee Camiseta  Hombre  '
 ---
 
 Ahora mismo tienes [Puma Core-Run S/S tee Camiseta  Hombre  Gris  M](https://www.amazon.es/dp/B073Q3FQ1G/?tag=tolees-21) a 15.44 EUR (original: 29.95 EUR) (48.45 %  de descuento) en el siguiente enlace!

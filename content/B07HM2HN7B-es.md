@@ -3,6 +3,7 @@ layout: post
 title: 'Mayoral 4462  Sudadera con Capucha para  al 68.54 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gf37OjcwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41gf37OjcwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gf37OjcwL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 28.99 EUR
 inStock: true
 prodname: 'Mayoral 4462  Sudadera con Capucha para Niñas   Rojo 82   6 años  Tamaño del Fabricante:6 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HM2HN7B/?tag=tolees-21'
+descuento: '68.54'
+titulo: 'Mayoral 4462  Sudadera con Capucha para '
 ---
 
 Está [Mayoral 4462  Sudadera con Capucha para Niñas   Rojo 82   6 años  Tamaño del Fabricante:6 ](https://www.amazon.es/dp/B07HM2HN7B/?tag=tolees-21) con 68.54 de descuento por 9.12 EUR (original: 28.99 EUR) en el siguiente enlace!

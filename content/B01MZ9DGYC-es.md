@@ -3,6 +3,7 @@ layout: post
 title: 'Jimmy Choo Mask/S M3 138  Gafas de Sol p al 73.70 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/313KJPHCDqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/313KJPHCDqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/313KJPHCDqL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 374 EUR
 inStock: true
 prodname: 'Jimmy Choo Mask/S M3 138  Gafas de Sol para Mujer  Gris  Rosegold Silver Grey Speckled   99'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MZ9DGYC/?tag=tolees-21'
+descuento: '73.70'
+titulo: 'Jimmy Choo Mask/S M3 138  Gafas de Sol p'
 ---
 
 Está [Jimmy Choo Mask/S M3 138  Gafas de Sol para Mujer  Gris  Rosegold Silver Grey Speckled   99](https://www.amazon.es/dp/B01MZ9DGYC/?tag=tolees-21) con 73.70 de descuento por 98.36 EUR (original: 374 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Clarks Originals Desert London  - Zapato al 53.85 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CxGsnXBFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41CxGsnXBFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CxGsnXBFL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 130 EUR
 inStock: true
 prodname: 'Clarks Originals Desert London  - Zapatos con cordones Derby para hombre  Beeswax  45'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00MY2KGII/?tag=tolees-21'
+descuento: '53.85'
+titulo: 'Clarks Originals Desert London  - Zapato'
 ---
 
 Ahora mismo tienes [Clarks Originals Desert London  - Zapatos con cordones Derby para hombre  Beeswax  45](https://www.amazon.es/dp/B00MY2KGII/?tag=tolees-21) a 60 EUR (original: 130 EUR) (53.85 %  de descuento) en el siguiente enlace!

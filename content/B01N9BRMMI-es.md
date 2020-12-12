@@ -3,6 +3,7 @@ layout: post
 title: 'Only Onlamina Ls Oneck Print Box Swt - S al 68.59 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51iJ51gjbBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51iJ51gjbBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51iJ51gjbBL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 22.19 EUR
 inStock: true
 prodname: 'Only Onlamina Ls Oneck Print Box Swt - Sudadera para Mujer  Multicolor  Cloud Dancer Print:I Dont Give A Ship   S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N9BRMMI/?tag=tolees-21'
+descuento: '68.59'
+titulo: 'Only Onlamina Ls Oneck Print Box Swt - S'
 ---
 
 Está [Only Onlamina Ls Oneck Print Box Swt - Sudadera para Mujer  Multicolor  Cloud Dancer Print:I Dont Give A Ship   S](https://www.amazon.es/dp/B01N9BRMMI/?tag=tolees-21) con 68.59 de descuento por 6.97 EUR (original: 22.19 EUR) en el siguiente enlace!

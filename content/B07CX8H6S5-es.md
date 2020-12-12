@@ -3,6 +3,7 @@ layout: post
 title: 'Levi s Deconstructed Skirt Falda  Azul   al 41.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41FQYJFCn-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41FQYJFCn-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41FQYJFCn-L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 60 EUR
 inStock: true
 prodname: 'Levi s Deconstructed Skirt Falda  Azul  Whats The Damage 0021   única  Talla del Fabricante: 29  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CX8H6S5/?tag=tolees-21'
+descuento: '41.00'
+titulo: 'Levi s Deconstructed Skirt Falda  Azul  '
 ---
 
 Ahora mismo tienes [Levi s Deconstructed Skirt Falda  Azul  Whats The Damage 0021   única  Talla del Fabricante: 29  para Mujer](https://www.amazon.es/dp/B07CX8H6S5/?tag=tolees-21) a 35.4 EUR (original: 60 EUR) (41.00 %  de descuento) en el siguiente enlace!

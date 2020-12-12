@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 79.02 % en Only Onlsui Reg Slim ANK Dnm Jeans Rea44'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZiigG6U%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZiigG6U%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZiigG6U%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'Only Onlsui Reg Slim ANK Dnm Jeans Rea4495 Vaqueros  Negro Black Denim  W27/L32 para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CJFJPF2/?tag=tolees-21'
+descuento: '79.02'
+titulo: 'Only Onlsui Reg Slim ANK Dnm Jeans Rea44'
 ---
 
 Tienes [Only Onlsui Reg Slim ANK Dnm Jeans Rea4495 Vaqueros  Negro Black Denim  W27/L32 para Mujer](https://www.amazon.es/dp/B07CJFJPF2/?tag=tolees-21) con un 79.02 % de descuento con precio de oferta de 10.49 EUR (original: 49.99 EUR) en el siguiente enlace!

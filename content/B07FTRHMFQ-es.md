@@ -3,6 +3,7 @@ layout: post
 title: 'Lee Graphic Tee  Camiseta Hombre  Naranj al 49.98 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31dufvc2arL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31dufvc2arL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31dufvc2arL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 29.95 EUR
 inStock: true
 prodname: 'Lee Graphic Tee  Camiseta Hombre  Naranja  Nectarine Lc   Small'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FTRHMFQ/?tag=tolees-21'
+descuento: '49.98'
+titulo: 'Lee Graphic Tee  Camiseta Hombre  Naranj'
 ---
 
 Está [Lee Graphic Tee  Camiseta Hombre  Naranja  Nectarine Lc   Small](https://www.amazon.es/dp/B07FTRHMFQ/?tag=tolees-21) con 49.98 de descuento por 14.98 EUR (original: 29.95 EUR) en el siguiente enlace!

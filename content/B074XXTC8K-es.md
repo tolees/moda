@@ -3,6 +3,7 @@ layout: post
 title: 'BOSS Identity Jers Boxer  Gris  Medium G al 52.14 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/510YjkFhAPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/510YjkFhAPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/510YjkFhAPL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 33.95 EUR
 inStock: true
 prodname: 'BOSS Identity Jers Boxer  Gris  Medium Grey 33   X-Large para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B074XXTC8K/?tag=tolees-21'
+descuento: '52.14'
+titulo: 'BOSS Identity Jers Boxer  Gris  Medium G'
 ---
 
 Está [BOSS Identity Jers Boxer  Gris  Medium Grey 33   X-Large para Hombre](https://www.amazon.es/dp/B074XXTC8K/?tag=tolees-21) con 52.14 de descuento por 16.25 EUR (original: 33.95 EUR) en el siguiente enlace!

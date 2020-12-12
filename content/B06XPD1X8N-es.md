@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 55.17 % en Desigual Sweat_Grebe  Sudadera para Niña'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51v-kgeSk-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51v-kgeSk-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51v-kgeSk-L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 56.95 EUR
 inStock: true
 prodname: 'Desigual Sweat_Grebe  Sudadera para Niñas   Negro 2000   116  Talla del Fabricante: 5/6 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XPD1X8N/?tag=tolees-21'
+descuento: '55.17'
+titulo: 'Desigual Sweat_Grebe  Sudadera para Niña'
 ---
 
 Tienes [Desigual Sweat_Grebe  Sudadera para Niñas   Negro 2000   116  Talla del Fabricante: 5/6 ](https://www.amazon.es/dp/B06XPD1X8N/?tag=tolees-21) con un 55.17 % de descuento con precio de oferta de 25.53 EUR (original: 56.95 EUR) en el siguiente enlace!

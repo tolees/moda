@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 34.69 % en JACK & JONES Jactropicana Trunks 3 Pack '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51hKbkWFaYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51hKbkWFaYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51hKbkWFaYL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 24.99 EUR
 inStock: true
 prodname: 'JACK & JONES Jactropicana Trunks 3 Pack  Bóxer Hombre   Bonnie Blue Detail:Aque Green Black   Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HFQHM8T/?tag=tolees-21'
+descuento: '34.69'
+titulo: 'JACK & JONES Jactropicana Trunks 3 Pack '
 ---
 
 Tienes [JACK & JONES Jactropicana Trunks 3 Pack  Bóxer Hombre   Bonnie Blue Detail:Aque Green Black   Large](https://www.amazon.es/dp/B07HFQHM8T/?tag=tolees-21) con un 34.69 % de descuento con precio de oferta de 16.32 EUR (original: 24.99 EUR) en el siguiente enlace!

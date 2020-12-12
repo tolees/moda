@@ -3,6 +3,7 @@ layout: post
 title: 'SELECTED FEMME Sfnatali LS Boatneck-Colo al 60.59 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51WFLs6ObUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51WFLs6ObUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51WFLs6ObUL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'SELECTED FEMME Sfnatali LS Boatneck-Color Camisa Manga Larga  Verde Grape Leaf  36  Talla del Fabricante: Small  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N10QYWE/?tag=tolees-21'
+descuento: '60.59'
+titulo: 'SELECTED FEMME Sfnatali LS Boatneck-Colo'
 ---
 
 Ahora mismo tienes [SELECTED FEMME Sfnatali LS Boatneck-Color Camisa Manga Larga  Verde Grape Leaf  36  Talla del Fabricante: Small  para Mujer](https://www.amazon.es/dp/B01N10QYWE/?tag=tolees-21) a 15.76 EUR (original: 39.99 EUR) (60.59 %  de descuento) en el siguiente enlace!

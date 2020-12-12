@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.72 % en Swarovski Collar Luckily Evil Eye  Blanc'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31%2BToEEC0NL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31%2BToEEC0NL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31%2BToEEC0NL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 69 EUR
 inStock: true
 prodname: 'Swarovski Collar Luckily Evil Eye  Blanco  baño de rodio'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078SCPT3J/?tag=tolees-21'
+descuento: '50.72'
+titulo: 'Swarovski Collar Luckily Evil Eye  Blanc'
 ---
 
 Tienes [Swarovski Collar Luckily Evil Eye  Blanco  baño de rodio](https://www.amazon.es/dp/B078SCPT3J/?tag=tolees-21) con un 50.72 % de descuento con precio de oferta de 34 EUR (original: 69 EUR) en el siguiente enlace!

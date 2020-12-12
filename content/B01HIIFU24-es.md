@@ -3,6 +3,7 @@ layout: post
 title: 'Shinecon WEIVR3D - Gafas 3D al 93.35 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mhAm9JP4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41mhAm9JP4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mhAm9JP4L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 69.9 EUR
 inStock: true
 prodname: 'Shinecon WEIVR3D - Gafas 3D'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01HIIFU24/?tag=tolees-21'
+descuento: '93.35'
+titulo: 'Shinecon WEIVR3D - Gafas 3D'
 ---
 
 Está [Shinecon WEIVR3D - Gafas 3D](https://www.amazon.es/dp/B01HIIFU24/?tag=tolees-21) con 93.35 de descuento por 4.65 EUR (original: 69.9 EUR) en el siguiente enlace!

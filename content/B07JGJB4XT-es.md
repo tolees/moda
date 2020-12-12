@@ -3,6 +3,7 @@ layout: post
 title: 'IRIS & LILLY Sh191278 Braguita de Bikini al 30.02 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41WFToX7L0L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41WFToX7L0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41WFToX7L0L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 14.99 EUR
 inStock: true
 prodname: 'IRIS & LILLY Sh191278 Braguita de Bikini  Multicolor  Tropical Flower Print   38  Talla del fabricante: Small '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JGJB4XT/?tag=tolees-21'
+descuento: '30.02'
+titulo: 'IRIS & LILLY Sh191278 Braguita de Bikini'
 ---
 
 Ahora mismo tienes [IRIS & LILLY Sh191278 Braguita de Bikini  Multicolor  Tropical Flower Print   38  Talla del fabricante: Small ](https://www.amazon.es/dp/B07JGJB4XT/?tag=tolees-21) a 10.49 EUR (original: 14.99 EUR) (30.02 %  de descuento) en el siguiente enlace!

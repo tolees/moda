@@ -3,6 +3,7 @@ layout: post
 title: 'Pepe Jeans Hiddleston PM305474  Camisa p al 60.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lYy0fjg4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41lYy0fjg4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41lYy0fjg4L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 85 EUR
 inStock: true
 prodname: 'Pepe Jeans Hiddleston PM305474  Camisa para Hombre  Azul  Indigo 561  X-Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079RSZZTY/?tag=tolees-21'
+descuento: '60.00'
+titulo: 'Pepe Jeans Hiddleston PM305474  Camisa p'
 ---
 
 Está [Pepe Jeans Hiddleston PM305474  Camisa para Hombre  Azul  Indigo 561  X-Large](https://www.amazon.es/dp/B079RSZZTY/?tag=tolees-21) con 60.00 de descuento por 34 EUR (original: 85 EUR) en el siguiente enlace!

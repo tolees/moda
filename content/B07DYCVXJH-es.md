@@ -3,6 +3,7 @@ layout: post
 title: 'Quiksilver Molokai Highline Slab  Zapato al 39.97 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MsXDndlTL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41MsXDndlTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41MsXDndlTL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'Quiksilver Molokai Highline Slab  Zapatos de Playa y Piscina para Hombre  Azul  Black Blue Xkbb   47 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DYCVXJH/?tag=tolees-21'
+descuento: '39.97'
+titulo: 'Quiksilver Molokai Highline Slab  Zapato'
 ---
 
 Está [Quiksilver Molokai Highline Slab  Zapatos de Playa y Piscina para Hombre  Azul  Black Blue Xkbb   47 EU](https://www.amazon.es/dp/B07DYCVXJH/?tag=tolees-21) con 39.97 de descuento por 12 EUR (original: 19.99 EUR) en el siguiente enlace!

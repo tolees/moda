@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 37.75 % en Fruit of the Loom Value T  Camiseta Niño'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412sqTxnD5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/412sqTxnD5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412sqTxnD5L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 6.41 EUR
 inStock: true
 prodname: 'Fruit of the Loom Value T  Camiseta Niño  rosa claro  3-4 años'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0171YH0FU/?tag=tolees-21'
+descuento: '37.75'
+titulo: 'Fruit of the Loom Value T  Camiseta Niño'
 ---
 
 Tienes [Fruit of the Loom Value T  Camiseta Niño  rosa claro  3-4 años](https://www.amazon.es/dp/B0171YH0FU/?tag=tolees-21) con un 37.75 % de descuento con precio de oferta de 3.99 EUR (original: 6.41 EUR) en el siguiente enlace!

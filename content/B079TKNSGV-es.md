@@ -3,6 +3,7 @@ layout: post
 title: 'Only Onllexi L/s O-Neck Box Swt  Sudader al 79.33 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41y-4ZHugKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41y-4ZHugKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41y-4ZHugKL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 26.99 EUR
 inStock: true
 prodname: 'Only Onllexi L/s O-Neck Box Swt  Sudadera Mujer   Oatmeal AOP: Flamingo   38  Talla del Fabricante: Small '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079TKNSGV/?tag=tolees-21'
+descuento: '79.33'
+titulo: 'Only Onllexi L/s O-Neck Box Swt  Sudader'
 ---
 
 Está [Only Onllexi L/s O-Neck Box Swt  Sudadera Mujer   Oatmeal AOP: Flamingo   38  Talla del Fabricante: Small ](https://www.amazon.es/dp/B079TKNSGV/?tag=tolees-21) con 79.33 de descuento por 5.58 EUR (original: 26.99 EUR) en el siguiente enlace!

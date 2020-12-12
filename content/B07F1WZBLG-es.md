@@ -3,6 +3,7 @@ layout: post
 title: 'Timberland Gateway Pier  Zapatos de Cord al 47.18 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31cmL9Wg-aL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31cmL9Wg-aL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31cmL9Wg-aL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 51.97 EUR
 inStock: true
 prodname: 'Timberland Gateway Pier  Zapatos de Cordones Oxford Unisex Niños  Azul  Twilight Blue Vk4   37 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F1WZBLG/?tag=tolees-21'
+descuento: '47.18'
+titulo: 'Timberland Gateway Pier  Zapatos de Cord'
 ---
 
 Ahora mismo tienes [Timberland Gateway Pier  Zapatos de Cordones Oxford Unisex Niños  Azul  Twilight Blue Vk4   37 EU](https://www.amazon.es/dp/B07F1WZBLG/?tag=tolees-21) a 27.45 EUR (original: 51.97 EUR) (47.18 %  de descuento) en el siguiente enlace!

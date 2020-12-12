@@ -3,6 +3,7 @@ layout: post
 title: 'SELECTED HOMME Slhslim-Leon 1452 L St Je al 68.43 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ls0wwp3zL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ls0wwp3zL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ls0wwp3zL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 99.99 EUR
 inStock: true
 prodname: 'SELECTED HOMME Slhslim-Leon 1452 L St Jeans W Noos Vaqueros Slim  Azul Light Blue Denim  W32/L32 para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D1B2BNZ/?tag=tolees-21'
+descuento: '68.43'
+titulo: 'SELECTED HOMME Slhslim-Leon 1452 L St Je'
 ---
 
 Está [SELECTED HOMME Slhslim-Leon 1452 L St Jeans W Noos Vaqueros Slim  Azul Light Blue Denim  W32/L32 para Hombre](https://www.amazon.es/dp/B07D1B2BNZ/?tag=tolees-21) con 68.43 de descuento por 31.57 EUR (original: 99.99 EUR) en el siguiente enlace!

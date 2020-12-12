@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 63.42 % en Geox J Kalispera Girl B  Zapatillas Alta'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41v6Ibi%2BXLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41v6Ibi%2BXLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41v6Ibi%2BXLL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 55 EUR
 inStock: true
 prodname: 'Geox J Kalispera Girl B  Zapatillas Altas para Niñas   Black C9999   31 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0792MGPTL/?tag=tolees-21'
+descuento: '63.42'
+titulo: 'Geox J Kalispera Girl B  Zapatillas Alta'
 ---
 
 Tienes [Geox J Kalispera Girl B  Zapatillas Altas para Niñas   Black C9999   31 EU](https://www.amazon.es/dp/B0792MGPTL/?tag=tolees-21) con un 63.42 % de descuento con precio de oferta de 20.12 EUR (original: 55 EUR) en el siguiente enlace!

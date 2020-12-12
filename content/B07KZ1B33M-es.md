@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield 2.T.Ap.Pv19.Flor Print Camis al 57.74 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51clv62oYjL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51clv62oYjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51clv62oYjL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 12.99 EUR
 inStock: true
 prodname: 'Springfield 2.T.Ap.Pv19.Flor Print Camiseta  Gama Azules 19  X-Large  Tamaño del Fabricante:XL  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KZ1B33M/?tag=tolees-21'
+descuento: '57.74'
+titulo: 'Springfield 2.T.Ap.Pv19.Flor Print Camis'
 ---
 
 Ahora mismo tienes [Springfield 2.T.Ap.Pv19.Flor Print Camiseta  Gama Azules 19  X-Large  Tamaño del Fabricante:XL  para Mujer](https://www.amazon.es/dp/B07KZ1B33M/?tag=tolees-21) a 5.49 EUR (original: 12.99 EUR) (57.74 %  de descuento) en el siguiente enlace!

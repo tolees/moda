@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 59.94 % en Targarian Conjunto de Collar y Pendiente'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/513OIC7%2BK6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/513OIC7%2BK6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/513OIC7%2BK6L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 9.86 EUR
 inStock: true
 prodname: 'Targarian Conjunto de Collar y Pendientes con 2 Corazones entrelazados en Oro Blanco y Cadena by'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00YT3RTD0/?tag=tolees-21'
+descuento: '59.94'
+titulo: 'Targarian Conjunto de Collar y Pendiente'
 ---
 
 Tienes [Targarian Conjunto de Collar y Pendientes con 2 Corazones entrelazados en Oro Blanco y Cadena by](https://www.amazon.es/dp/B00YT3RTD0/?tag=tolees-21) con un 59.94 % de descuento con precio de oferta de 3.95 EUR (original: 9.86 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Levi s kids Nn15527 Sweat Shirt  Sudader al 58.31 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41e7po5SuAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41e7po5SuAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41e7po5SuAL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 72.95 EUR
 inStock: true
 prodname: 'Levi s kids Nn15527 Sweat Shirt  Sudadera para Niñas  Gris  Light China Grey 22   16 años  Talla del Fabricante: 16Y '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K51GTKP/?tag=tolees-21'
+descuento: '58.31'
+titulo: 'Levi s kids Nn15527 Sweat Shirt  Sudader'
 ---
 
 Está [Levi s kids Nn15527 Sweat Shirt  Sudadera para Niñas  Gris  Light China Grey 22   16 años  Talla del Fabricante: 16Y ](https://www.amazon.es/dp/B07K51GTKP/?tag=tolees-21) con 58.31 de descuento por 30.41 EUR (original: 72.95 EUR) en el siguiente enlace!

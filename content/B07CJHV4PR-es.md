@@ -3,6 +3,7 @@ layout: post
 title: 'Only Onltahoe Hood Jacket Otw Noos  Chaq al 65.13 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BrYjGYIDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41BrYjGYIDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BrYjGYIDL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'Only Onltahoe Hood Jacket Otw Noos  Chaqueta para Mujer  Rosa Misty Rose  44  Talla del Fabricante: XX-Large '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CJHV4PR/?tag=tolees-21'
+descuento: '65.13'
+titulo: 'Only Onltahoe Hood Jacket Otw Noos  Chaq'
 ---
 
 Ahora mismo tienes [Only Onltahoe Hood Jacket Otw Noos  Chaqueta para Mujer  Rosa Misty Rose  44  Talla del Fabricante: XX-Large ](https://www.amazon.es/dp/B07CJHV4PR/?tag=tolees-21) a 17.43 EUR (original: 49.99 EUR) (65.13 %  de descuento) en el siguiente enlace!

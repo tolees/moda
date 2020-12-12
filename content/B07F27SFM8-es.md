@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 66.36 % en Levi s Plus Size 310 Pl Shping SPR Skinn'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41q1bPvWFxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41q1bPvWFxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41q1bPvWFxL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 95 EUR
 inStock: true
 prodname: 'Levi s Plus Size 310 Pl Shping SPR Skinny  Vaqueros Mujer  Azul  Chelsea Devils Plus 0022  22 M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F27SFM8/?tag=tolees-21'
+descuento: '66.36'
+titulo: 'Levi s Plus Size 310 Pl Shping SPR Skinn'
 ---
 
 Tienes [Levi s Plus Size 310 Pl Shping SPR Skinny  Vaqueros Mujer  Azul  Chelsea Devils Plus 0022  22 M](https://www.amazon.es/dp/B07F27SFM8/?tag=tolees-21) con un 66.36 % de descuento con precio de oferta de 31.96 EUR (original: 95 EUR) en el siguiente enlace!

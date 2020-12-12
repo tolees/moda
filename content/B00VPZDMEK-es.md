@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 26.13 % en Puma Bodywear Stripe 15 - Bóxer para hom'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TL-eC4bFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41TL-eC4bFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TL-eC4bFL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 16.99 EUR
 inStock: true
 prodname: 'Puma Bodywear Stripe 15 - Bóxer para hombre  pack de 2   Verde  Green/Grey   S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00VPZDMEK/?tag=tolees-21'
+descuento: '26.13'
+titulo: 'Puma Bodywear Stripe 15 - Bóxer para hom'
 ---
 
 Tienes [Puma Bodywear Stripe 15 - Bóxer para hombre  pack de 2   Verde  Green/Grey   S](https://www.amazon.es/dp/B00VPZDMEK/?tag=tolees-21) con un 26.13 % de descuento con precio de oferta de 12.55 EUR (original: 16.99 EUR) en el siguiente enlace!

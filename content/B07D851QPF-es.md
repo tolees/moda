@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 80.57 % en SELECTED HOMME Slhdan Jacket B  Chaqueta'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31yurNFyy6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31yurNFyy6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31yurNFyy6L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 119.99 EUR
 inStock: true
 prodname: 'SELECTED HOMME Slhdan Jacket B  Chaqueta para Hombre  Verde Rosin  Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D851QPF/?tag=tolees-21'
+descuento: '80.57'
+titulo: 'SELECTED HOMME Slhdan Jacket B  Chaqueta'
 ---
 
 Tienes [SELECTED HOMME Slhdan Jacket B  Chaqueta para Hombre  Verde Rosin  Large](https://www.amazon.es/dp/B07D851QPF/?tag=tolees-21) con un 80.57 % de descuento con precio de oferta de 23.31 EUR (original: 119.99 EUR) en el siguiente enlace!

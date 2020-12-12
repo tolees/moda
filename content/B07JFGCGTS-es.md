@@ -3,6 +3,7 @@ layout: post
 title: 'Lacoste Tj3290 Camiseta  Marfil  Farine  al 44.43 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Y8mGm4RDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31Y8mGm4RDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Y8mGm4RDL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 35 EUR
 inStock: true
 prodname: 'Lacoste Tj3290 Camiseta  Marfil  Farine 70v   4 años  Talla del Fabricante: 4A  para Niños'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JFGCGTS/?tag=tolees-21'
+descuento: '44.43'
+titulo: 'Lacoste Tj3290 Camiseta  Marfil  Farine '
 ---
 
 Está [Lacoste Tj3290 Camiseta  Marfil  Farine 70v   4 años  Talla del Fabricante: 4A  para Niños](https://www.amazon.es/dp/B07JFGCGTS/?tag=tolees-21) con 44.43 de descuento por 19.45 EUR (original: 35 EUR) en el siguiente enlace!

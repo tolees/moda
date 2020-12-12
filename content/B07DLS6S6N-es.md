@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield 6.Ap.Oi18 Ml Puño Boton Cami al 50.27 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31wFFkIoXAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31wFFkIoXAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31wFFkIoXAL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 12.99 EUR
 inStock: true
 prodname: 'Springfield 6.Ap.Oi18 Ml Puño Boton Camiseta de Manga Larga  Mujer   Varios 98   Medium  Tamaño del Fabricante:M '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DLS6S6N/?tag=tolees-21'
+descuento: '50.27'
+titulo: 'Springfield 6.Ap.Oi18 Ml Puño Boton Cami'
 ---
 
 Está [Springfield 6.Ap.Oi18 Ml Puño Boton Camiseta de Manga Larga  Mujer   Varios 98   Medium  Tamaño del Fabricante:M ](https://www.amazon.es/dp/B07DLS6S6N/?tag=tolees-21) con 50.27 de descuento por 6.46 EUR (original: 12.99 EUR) en el siguiente enlace!

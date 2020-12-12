@@ -3,6 +3,7 @@ layout: post
 title: 'El Ganso 1050s180055  Camisa Casual para al 37.03 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51hnlWF-3cL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51hnlWF-3cL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51hnlWF-3cL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 65 EUR
 inStock: true
 prodname: 'El Ganso 1050s180055  Camisa Casual para Hombre   Azul/Blanco   Small  Tamaño del Fabricante:38 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B074QW6J5R/?tag=tolees-21'
+descuento: '37.03'
+titulo: 'El Ganso 1050s180055  Camisa Casual para'
 ---
 
 Está [El Ganso 1050s180055  Camisa Casual para Hombre   Azul/Blanco   Small  Tamaño del Fabricante:38 ](https://www.amazon.es/dp/B074QW6J5R/?tag=tolees-21) con 37.03 de descuento por 40.93 EUR (original: 65 EUR) en el siguiente enlace!

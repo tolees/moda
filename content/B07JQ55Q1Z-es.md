@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 57.52 % en Cressi 1946 Aqua Shoes Zapatos Deportivo'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51M8yRjGlKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51M8yRjGlKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51M8yRjGlKL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'Cressi 1946 Aqua Shoes Zapatos Deportivo para Uso Acuático  Unisex Adulto  Negro/Azul  36'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JQ55Q1Z/?tag=tolees-21'
+descuento: '57.52'
+titulo: 'Cressi 1946 Aqua Shoes Zapatos Deportivo'
 ---
 
 Tienes [Cressi 1946 Aqua Shoes Zapatos Deportivo para Uso Acuático  Unisex Adulto  Negro/Azul  36](https://www.amazon.es/dp/B07JQ55Q1Z/?tag=tolees-21) con un 57.52 % de descuento con precio de oferta de 12.74 EUR (original: 29.99 EUR) en el siguiente enlace!

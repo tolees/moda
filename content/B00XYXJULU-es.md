@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 90.76 % en Tantra Strap Sandals with Beads - Sandal'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YslrVm2tL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41YslrVm2tL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YslrVm2tL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 140 EUR
 inStock: true
 prodname: 'Tantra Strap Sandals with Beads - Sandalias para Mujer  Color Verde  Talla 39'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00XYXJULU/?tag=tolees-21'
+descuento: '90.76'
+titulo: 'Tantra Strap Sandals with Beads - Sandal'
 ---
 
 Tienes [Tantra Strap Sandals with Beads - Sandalias para Mujer  Color Verde  Talla 39](https://www.amazon.es/dp/B00XYXJULU/?tag=tolees-21) con un 90.76 % de descuento con precio de oferta de 12.93 EUR (original: 140 EUR) en el siguiente enlace!

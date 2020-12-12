@@ -3,6 +3,7 @@ layout: post
 title: 'Polaroid PLD 3015/S JY OGL Gafas de sol  al 49.18 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31g9iZ%2ByH-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31g9iZ%2ByH-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31g9iZ%2ByH-L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 61 EUR
 inStock: true
 prodname: 'Polaroid PLD 3015/S JY OGL Gafas de sol  Azul  Bluette/Greyblmirror Pz   63 para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B017AFRAVO/?tag=tolees-21'
+descuento: '49.18'
+titulo: 'Polaroid PLD 3015/S JY OGL Gafas de sol '
 ---
 
 Ahora mismo tienes [Polaroid PLD 3015/S JY OGL Gafas de sol  Azul  Bluette/Greyblmirror Pz   63 para Hombre](https://www.amazon.es/dp/B017AFRAVO/?tag=tolees-21) a 31 EUR (original: 61 EUR) (49.18 %  de descuento) en el siguiente enlace!

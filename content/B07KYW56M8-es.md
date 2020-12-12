@@ -3,6 +3,7 @@ layout: post
 title: 'Cortefiel C1Bcc Caja Mallas Cargada  Jer al 65.99 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412Vm0bMIHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/412Vm0bMIHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412Vm0bMIHL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'Cortefiel C1Bcc Caja Mallas Cargada  Jersey para Hombre   Gama Rojo 65   Medium  Tamaño del Fabricante:M '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KYW56M8/?tag=tolees-21'
+descuento: '65.99'
+titulo: 'Cortefiel C1Bcc Caja Mallas Cargada  Jer'
 ---
 
 Ahora mismo tienes [Cortefiel C1Bcc Caja Mallas Cargada  Jersey para Hombre   Gama Rojo 65   Medium  Tamaño del Fabricante:M ](https://www.amazon.es/dp/B07KYW56M8/?tag=tolees-21) a 17 EUR (original: 49.99 EUR) (65.99 %  de descuento) en el siguiente enlace!

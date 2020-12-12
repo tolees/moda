@@ -3,6 +3,7 @@ layout: post
 title: 'Smilodox Slim Fit Jacket Chaqueta  Gris  al 73.70 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51GT2xxArPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51GT2xxArPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51GT2xxArPL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 56.99 EUR
 inStock: true
 prodname: 'Smilodox Slim Fit Jacket Chaqueta  Gris  Small para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01LZM9MKK/?tag=tolees-21'
+descuento: '73.70'
+titulo: 'Smilodox Slim Fit Jacket Chaqueta  Gris '
 ---
 
 Está [Smilodox Slim Fit Jacket Chaqueta  Gris  Small para Hombre](https://www.amazon.es/dp/B01LZM9MKK/?tag=tolees-21) con 73.70 de descuento por 14.99 EUR (original: 56.99 EUR) en el siguiente enlace!

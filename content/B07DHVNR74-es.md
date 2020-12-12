@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.77 % en Quiksilver Sierra Chaqueta de Nieve  Hom'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ynjYM3zbL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ynjYM3zbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ynjYM3zbL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 199.99 EUR
 inStock: true
 prodname: 'Quiksilver Sierra Chaqueta de Nieve  Hombre  Verde Lima  XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DHVNR74/?tag=tolees-21'
+descuento: '40.77'
+titulo: 'Quiksilver Sierra Chaqueta de Nieve  Hom'
 ---
 
 Tienes [Quiksilver Sierra Chaqueta de Nieve  Hombre  Verde Lima  XL](https://www.amazon.es/dp/B07DHVNR74/?tag=tolees-21) con un 40.77 % de descuento con precio de oferta de 118.46 EUR (original: 199.99 EUR) en el siguiente enlace!

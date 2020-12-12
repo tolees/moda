@@ -3,6 +3,7 @@ layout: post
 title: 'Emporio Armani Underwear 9p729 Bóxer  Az al 46.15 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gN0n%2Bn-qL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41gN0n%2Bn-qL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gN0n%2Bn-qL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 29.97 EUR
 inStock: true
 prodname: 'Emporio Armani Underwear 9p729 Bóxer  Azul  Marine 00135   X-Large para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DM5YC79/?tag=tolees-21'
+descuento: '46.15'
+titulo: 'Emporio Armani Underwear 9p729 Bóxer  Az'
 ---
 
 Está [Emporio Armani Underwear 9p729 Bóxer  Azul  Marine 00135   X-Large para Hombre](https://www.amazon.es/dp/B07DM5YC79/?tag=tolees-21) con 46.15 de descuento por 16.14 EUR (original: 29.97 EUR) en el siguiente enlace!

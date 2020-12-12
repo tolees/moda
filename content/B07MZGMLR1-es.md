@@ -3,6 +3,7 @@ layout: post
 title: 'Superdry Premium Goods Duo Lite tee Cami al 54.84 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Cam91YSkL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Cam91YSkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Cam91YSkL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 39.75 EUR
 inStock: true
 prodname: 'Superdry Premium Goods Duo Lite tee Camiseta  Blanco  Optic 01c   L para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MZGMLR1/?tag=tolees-21'
+descuento: '54.84'
+titulo: 'Superdry Premium Goods Duo Lite tee Cami'
 ---
 
 Ahora mismo tienes [Superdry Premium Goods Duo Lite tee Camiseta  Blanco  Optic 01c   L para Hombre](https://www.amazon.es/dp/B07MZGMLR1/?tag=tolees-21) a 17.95 EUR (original: 39.75 EUR) (54.84 %  de descuento) en el siguiente enlace!

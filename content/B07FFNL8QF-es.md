@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 46.08 % en Jennyfer 00puna  Abrigo para Mujer  Beig'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QAVZwZYdL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41QAVZwZYdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QAVZwZYdL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 45.99 EUR
 inStock: true
 prodname: 'Jennyfer 00puna  Abrigo para Mujer  Beige  Camel 39.0  Small'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FFNL8QF/?tag=tolees-21'
+descuento: '46.08'
+titulo: 'Jennyfer 00puna  Abrigo para Mujer  Beig'
 ---
 
 Tienes [Jennyfer 00puna  Abrigo para Mujer  Beige  Camel 39.0  Small](https://www.amazon.es/dp/B07FFNL8QF/?tag=tolees-21) con un 46.08 % de descuento con precio de oferta de 24.8 EUR (original: 45.99 EUR) en el siguiente enlace!

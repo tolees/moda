@@ -3,6 +3,7 @@ layout: post
 title: 'Vero Moda OuterwearVero Moda Pamela Chaq al 25.03 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pQTC3C-3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41pQTC3C-3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41pQTC3C-3L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 39.95 EUR
 inStock: true
 prodname: 'Vero Moda OuterwearVero Moda Pamela Chaqueta Acolchada de Plumas Chaqueta De Entretiempo para Mujer con Capucha  tamaño:S  Color:Peat'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GT4LBM3/?tag=tolees-21'
+descuento: '25.03'
+titulo: 'Vero Moda OuterwearVero Moda Pamela Chaq'
 ---
 
 Ahora mismo tienes [Vero Moda OuterwearVero Moda Pamela Chaqueta Acolchada de Plumas Chaqueta De Entretiempo para Mujer con Capucha  tamaño:S  Color:Peat](https://www.amazon.es/dp/B07GT4LBM3/?tag=tolees-21) a 29.95 EUR (original: 39.95 EUR) (25.03 %  de descuento) en el siguiente enlace!

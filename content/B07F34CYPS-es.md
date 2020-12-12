@@ -3,6 +3,7 @@ layout: post
 title: 'Vans Left Chest Logo tee  Camiseta para  al 30.25 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xPoc4-lpL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41xPoc4-lpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xPoc4-lpL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 20 EUR
 inStock: true
 prodname: 'Vans Left Chest Logo tee  Camiseta para Hombre  Rojo  Jazzy-White Tide  Medium'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F34CYPS/?tag=tolees-21'
+descuento: '30.25'
+titulo: 'Vans Left Chest Logo tee  Camiseta para '
 ---
 
 Ahora mismo tienes [Vans Left Chest Logo tee  Camiseta para Hombre  Rojo  Jazzy-White Tide  Medium](https://www.amazon.es/dp/B07F34CYPS/?tag=tolees-21) a 13.95 EUR (original: 20 EUR) (30.25 %  de descuento) en el siguiente enlace!

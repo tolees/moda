@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 74.83 % en Pepe Jeans Ryan PM581118  Sudadera para '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415DiDoj3ZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/415DiDoj3ZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415DiDoj3ZL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 60 EUR
 inStock: true
 prodname: 'Pepe Jeans Ryan PM581118  Sudadera para Hombre  Morado  Odissey Grey 973  Medium'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XWBRRRN/?tag=tolees-21'
+descuento: '74.83'
+titulo: 'Pepe Jeans Ryan PM581118  Sudadera para '
 ---
 
 Tienes [Pepe Jeans Ryan PM581118  Sudadera para Hombre  Morado  Odissey Grey 973  Medium](https://www.amazon.es/dp/B06XWBRRRN/?tag=tolees-21) con un 74.83 % de descuento con precio de oferta de 15.1 EUR (original: 60 EUR) en el siguiente enlace!

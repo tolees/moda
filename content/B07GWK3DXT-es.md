@@ -3,6 +3,7 @@ layout: post
 title: 'Vero Moda Vmsiv Soraya Short Jacket Boos al 58.74 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Rh4%2BdMTvL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Rh4%2BdMTvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Rh4%2BdMTvL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Vero Moda Vmsiv Soraya Short Jacket Boos  Chaqueta Mujer  Amarillo  Golden Nugget   42  Talla del Fabricante: Large '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GWK3DXT/?tag=tolees-21'
+descuento: '58.74'
+titulo: 'Vero Moda Vmsiv Soraya Short Jacket Boos'
 ---
 
 Está [Vero Moda Vmsiv Soraya Short Jacket Boos  Chaqueta Mujer  Amarillo  Golden Nugget   42  Talla del Fabricante: Large ](https://www.amazon.es/dp/B07GWK3DXT/?tag=tolees-21) con 58.74 de descuento por 16.5 EUR (original: 39.99 EUR) en el siguiente enlace!

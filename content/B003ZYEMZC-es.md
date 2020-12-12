@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 25.76 % en Cressi Rash Guard  Camiseta con Filtro d'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zIGN5SMUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41zIGN5SMUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zIGN5SMUL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 22.9 EUR
 inStock: true
 prodname: 'Cressi Rash Guard  Camiseta con Filtro de Protección UPF 50+ para Hombre  Negro  Negro/Gris   L/4'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B003ZYEMZC/?tag=tolees-21'
+descuento: '25.76'
+titulo: 'Cressi Rash Guard  Camiseta con Filtro d'
 ---
 
 Tienes [Cressi Rash Guard  Camiseta con Filtro de Protección UPF 50+ para Hombre  Negro  Negro/Gris   L/4](https://www.amazon.es/dp/B003ZYEMZC/?tag=tolees-21) con un 25.76 % de descuento con precio de oferta de 17 EUR (original: 22.9 EUR) en el siguiente enlace!

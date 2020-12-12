@@ -3,6 +3,7 @@ layout: post
 title: 'HIKARO Camiseta Logo Hombre  Gris  Light al 59.89 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cnl79bpqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41cnl79bpqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41cnl79bpqL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 17.95 EUR
 inStock: true
 prodname: 'HIKARO Camiseta Logo Hombre  Gris  Light Grey Marl   50  Talla del fabricante: Medium '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077YWT2K7/?tag=tolees-21'
+descuento: '59.89'
+titulo: 'HIKARO Camiseta Logo Hombre  Gris  Light'
 ---
 
 Ahora mismo tienes [HIKARO Camiseta Logo Hombre  Gris  Light Grey Marl   50  Talla del fabricante: Medium ](https://www.amazon.es/dp/B077YWT2K7/?tag=tolees-21) a 7.2 EUR (original: 17.95 EUR) (59.89 %  de descuento) en el siguiente enlace!

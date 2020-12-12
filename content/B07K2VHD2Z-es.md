@@ -3,6 +3,7 @@ layout: post
 title: 'Hurley - Sudadera con capucha para hombr al 50.93 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51idIiYkRcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51idIiYkRcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51idIiYkRcL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 55 EUR
 inStock: true
 prodname: 'Hurley - Sudadera con capucha para hombre  Gris  talla S "M Surf Check One & Only"'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K2VHD2Z/?tag=tolees-21'
+descuento: '50.93'
+titulo: 'Hurley - Sudadera con capucha para hombr'
 ---
 
 Ahora mismo tienes [Hurley - Sudadera con capucha para hombre  Gris  talla S "M Surf Check One & Only"](https://www.amazon.es/dp/B07K2VHD2Z/?tag=tolees-21) a 26.99 EUR (original: 55 EUR) (50.93 %  de descuento) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Keen CLEARWATER CNX M-RAVEN /BURNT HENNA al 35.72 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41X15CdxlDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41X15CdxlDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41X15CdxlDL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 101.55 EUR
 inStock: true
 prodname: 'Keen CLEARWATER CNX M-RAVEN /BURNT HENNA - Sandalias de material sintético hombre  Black-Gargoyle  42'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B008J3EABU/?tag=tolees-21'
+descuento: '35.72'
+titulo: 'Keen CLEARWATER CNX M-RAVEN /BURNT HENNA'
 ---
 
 Ahora mismo tienes [Keen CLEARWATER CNX M-RAVEN /BURNT HENNA - Sandalias de material sintético hombre  Black-Gargoyle  42](https://www.amazon.es/dp/B008J3EABU/?tag=tolees-21) a 65.28 EUR (original: 101.55 EUR) (35.72 %  de descuento) en el siguiente enlace!

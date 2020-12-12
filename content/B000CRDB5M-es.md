@@ -3,6 +3,7 @@ layout: post
 title: 'Eastpak Delegate Bolso bandolera  20 L   al 50.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414qwIG2CGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/414qwIG2CGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414qwIG2CGL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 60 EUR
 inStock: true
 prodname: 'Eastpak Delegate Bolso bandolera  20 L  38.5 cm  Negro  Black '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B000CRDB5M/?tag=tolees-21'
+descuento: '50.00'
+titulo: 'Eastpak Delegate Bolso bandolera  20 L  '
 ---
 
 Ahora mismo tienes [Eastpak Delegate Bolso bandolera  20 L  38.5 cm  Negro  Black ](https://www.amazon.es/dp/B000CRDB5M/?tag=tolees-21) a 30 EUR (original: 60 EUR) (50.00 %  de descuento) en el siguiente enlace!

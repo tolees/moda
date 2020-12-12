@@ -3,6 +3,7 @@ layout: post
 title: 'Wrangler Skinny  Vaqueros Skinny  Mujer  al 86.55 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31OrFlWHdGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31OrFlWHdGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31OrFlWHdGL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'Wrangler Skinny  Vaqueros Skinny  Mujer  Azul  Forget Me Not 289   W24/L30'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FYK9ZS1/?tag=tolees-21'
+descuento: '86.55'
+titulo: 'Wrangler Skinny  Vaqueros Skinny  Mujer '
 ---
 
 Ahora mismo tienes [Wrangler Skinny  Vaqueros Skinny  Mujer  Azul  Forget Me Not 289   W24/L30](https://www.amazon.es/dp/B07FYK9ZS1/?tag=tolees-21) a 13.44 EUR (original: 99.95 EUR) (86.55 %  de descuento) en el siguiente enlace!

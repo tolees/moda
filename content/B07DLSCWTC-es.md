@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield INT. Real Down 3/4 Abrigo    al 82.28 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dfZguaw%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41dfZguaw%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dfZguaw%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 89.99 EUR
 inStock: true
 prodname: 'Springfield INT. Real Down 3/4 Abrigo   Varios 98    Tamaño del Fabricante:42  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DLSCWTC/?tag=tolees-21'
+descuento: '82.28'
+titulo: 'Springfield INT. Real Down 3/4 Abrigo   '
 ---
 
 Está [Springfield INT. Real Down 3/4 Abrigo   Varios 98    Tamaño del Fabricante:42  para Mujer](https://www.amazon.es/dp/B07DLSCWTC/?tag=tolees-21) con 82.28 de descuento por 15.95 EUR (original: 89.99 EUR) en el siguiente enlace!

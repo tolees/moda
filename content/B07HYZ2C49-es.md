@@ -3,6 +3,7 @@ layout: post
 title: 'Nike EBERNON Low  Zapatos de Baloncesto  al 58.63 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mNkDuAfHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41mNkDuAfHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mNkDuAfHL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 60 EUR
 inStock: true
 prodname: 'Nike EBERNON Low  Zapatos de Baloncesto para Hombre   Blue Void/White 401   42.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HYZ2C49/?tag=tolees-21'
+descuento: '58.63'
+titulo: 'Nike EBERNON Low  Zapatos de Baloncesto '
 ---
 
 Está [Nike EBERNON Low  Zapatos de Baloncesto para Hombre   Blue Void/White 401   42.5 EU](https://www.amazon.es/dp/B07HYZ2C49/?tag=tolees-21) con 58.63 de descuento por 24.82 EUR (original: 60 EUR) en el siguiente enlace!

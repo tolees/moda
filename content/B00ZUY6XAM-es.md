@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 29.71 % en REEF Fanning  Sandalias Flip-Flop para H'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31OHKcm5WGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31OHKcm5WGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31OHKcm5WGL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 52 EUR
 inStock: true
 prodname: 'REEF Fanning  Sandalias Flip-Flop para Hombre  Negro  Black / Silver   44 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00ZUY6XAM/?tag=tolees-21'
+descuento: '29.71'
+titulo: 'REEF Fanning  Sandalias Flip-Flop para H'
 ---
 
 Tienes [REEF Fanning  Sandalias Flip-Flop para Hombre  Negro  Black / Silver   44 EU](https://www.amazon.es/dp/B00ZUY6XAM/?tag=tolees-21) con un 29.71 % de descuento con precio de oferta de 36.55 EUR (original: 52 EUR) en el siguiente enlace!

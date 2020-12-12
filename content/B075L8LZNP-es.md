@@ -3,6 +3,7 @@ layout: post
 title: 'TEENO taladro sin cable 21V+2 baterías d al 59.12 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Olm-N9k0L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Olm-N9k0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Olm-N9k0L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 159 EUR
 inStock: true
 prodname: 'TEENO taladro sin cable 21V+2 baterías de iones de litio+41 accesorios + guantes profesionales'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075L8LZNP/?tag=tolees-21'
+descuento: '59.12'
+titulo: 'TEENO taladro sin cable 21V+2 baterías d'
 ---
 
 Ahora mismo tienes [TEENO taladro sin cable 21V+2 baterías de iones de litio+41 accesorios + guantes profesionales](https://www.amazon.es/dp/B075L8LZNP/?tag=tolees-21) a 65 EUR (original: 159 EUR) (59.12 %  de descuento) en el siguiente enlace!

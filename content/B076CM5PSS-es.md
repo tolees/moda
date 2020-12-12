@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 51.72 % en Vero Moda Vmpernille 3/4 Parka  Abrigo M'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41oAzfb3ZQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41oAzfb3ZQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41oAzfb3ZQL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 44.99 EUR
 inStock: true
 prodname: 'Vero Moda Vmpernille 3/4 Parka  Abrigo Mujer  Verde  Ivy Green Detail:Gold Metal Trimming   40  Talla del Fabricante: Large '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076CM5PSS/?tag=tolees-21'
+descuento: '51.72'
+titulo: 'Vero Moda Vmpernille 3/4 Parka  Abrigo M'
 ---
 
 Tienes [Vero Moda Vmpernille 3/4 Parka  Abrigo Mujer  Verde  Ivy Green Detail:Gold Metal Trimming   40  Talla del Fabricante: Large ](https://www.amazon.es/dp/B076CM5PSS/?tag=tolees-21) con un 51.72 % de descuento con precio de oferta de 21.72 EUR (original: 44.99 EUR) en el siguiente enlace!

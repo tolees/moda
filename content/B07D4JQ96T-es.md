@@ -3,6 +3,7 @@ layout: post
 title: 'Vero Moda Vmellie LS O-Neck Linking Blou al 65.07 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rzB8-LTBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41rzB8-LTBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rzB8-LTBL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 24.99 EUR
 inStock: true
 prodname: 'Vero Moda Vmellie LS O-Neck Linking Blouse  suéter Mujer  Rosa  Misty Rose Detail: Melange   40  Talla del Fabricante: Medium '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D4JQ96T/?tag=tolees-21'
+descuento: '65.07'
+titulo: 'Vero Moda Vmellie LS O-Neck Linking Blou'
 ---
 
 Ahora mismo tienes [Vero Moda Vmellie LS O-Neck Linking Blouse  suéter Mujer  Rosa  Misty Rose Detail: Melange   40  Talla del Fabricante: Medium ](https://www.amazon.es/dp/B07D4JQ96T/?tag=tolees-21) a 8.73 EUR (original: 24.99 EUR) (65.07 %  de descuento) en el siguiente enlace!

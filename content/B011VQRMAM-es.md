@@ -3,6 +3,7 @@ layout: post
 title: 'Dickies Rotonda South Camisa  Negro  Bla al 59.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41IGrPcsJBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41IGrPcsJBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41IGrPcsJBL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 49 EUR
 inStock: true
 prodname: 'Dickies Rotonda South Camisa  Negro  Black   Small  Tamaño del Fabricante:S  para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B011VQRMAM/?tag=tolees-21'
+descuento: '59.00'
+titulo: 'Dickies Rotonda South Camisa  Negro  Bla'
 ---
 
 Ahora mismo tienes [Dickies Rotonda South Camisa  Negro  Black   Small  Tamaño del Fabricante:S  para Hombre](https://www.amazon.es/dp/B011VQRMAM/?tag=tolees-21) a 20.09 EUR (original: 49 EUR) (59.00 %  de descuento) en el siguiente enlace!

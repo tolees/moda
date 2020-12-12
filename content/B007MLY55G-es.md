@@ -3,6 +3,7 @@ layout: post
 title: 'Derbystar Uni - Camiseta de equipación   al 62.83 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41s3ynEXLJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41s3ynEXLJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41s3ynEXLJL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 18 EUR
 inStock: true
 prodname: 'Derbystar Uni - Camiseta de equipación  tamaño M  color amarillo/negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B007MLY55G/?tag=tolees-21'
+descuento: '62.83'
+titulo: 'Derbystar Uni - Camiseta de equipación  '
 ---
 
 Ahora mismo tienes [Derbystar Uni - Camiseta de equipación  tamaño M  color amarillo/negro](https://www.amazon.es/dp/B007MLY55G/?tag=tolees-21) a 6.69 EUR (original: 18 EUR) (62.83 %  de descuento) en el siguiente enlace!

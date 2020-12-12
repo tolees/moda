@@ -3,6 +3,7 @@ layout: post
 title: 'The North Face T0A3X6 Chaqueta Sangro  M al 50.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31lbBJdLgyL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31lbBJdLgyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31lbBJdLgyL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 150 EUR
 inStock: true
 prodname: 'The North Face T0A3X6 Chaqueta Sangro  Mujer  Urban Navy Light Heather  S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BB3N3RZ/?tag=tolees-21'
+descuento: '50.00'
+titulo: 'The North Face T0A3X6 Chaqueta Sangro  M'
 ---
 
 Está [The North Face T0A3X6 Chaqueta Sangro  Mujer  Urban Navy Light Heather  S](https://www.amazon.es/dp/B07BB3N3RZ/?tag=tolees-21) con 50.00 de descuento por 75 EUR (original: 150 EUR) en el siguiente enlace!

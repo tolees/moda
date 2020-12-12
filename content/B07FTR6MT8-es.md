@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 87.68 % en Lee Scarlett Jeans Vaqueros Skinny  Azul'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/3169lorE19L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/3169lorE19L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/3169lorE19L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'Lee Scarlett Jeans Vaqueros Skinny  Azul  Flight Wj   31W/33L para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FTR6MT8/?tag=tolees-21'
+descuento: '87.68'
+titulo: 'Lee Scarlett Jeans Vaqueros Skinny  Azul'
 ---
 
 Tienes [Lee Scarlett Jeans Vaqueros Skinny  Azul  Flight Wj   31W/33L para Mujer](https://www.amazon.es/dp/B07FTR6MT8/?tag=tolees-21) con un 87.68 % de descuento con precio de oferta de 12.31 EUR (original: 99.95 EUR) en el siguiente enlace!

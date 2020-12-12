@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 55.17 % en XTI 32033  Zapatos con Tira de Tobillo p'
 date: 
 thumbnailImage: ''
+image: ''
 images: [ '' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 39.95 EUR
 inStock: true
 prodname: 'XTI 32033  Zapatos con Tira de Tobillo para Mujer  Rosa Nude  39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JLS65MS/?tag=tolees-21'
+descuento: '55.17'
+titulo: 'XTI 32033  Zapatos con Tira de Tobillo p'
 ---
 
 Tienes [XTI 32033  Zapatos con Tira de Tobillo para Mujer  Rosa Nude  39 EU](https://www.amazon.es/dp/B07JLS65MS/?tag=tolees-21) con un 55.17 % de descuento con precio de oferta de 17.91 EUR (original: 39.95 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield 4.2.Gym.MD.Perfecto Velvet C al 66.83 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Ay0L5pHuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Ay0L5pHuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Ay0L5pHuL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'Springfield 4.2.Gym.MD.Perfecto Velvet Chaqueta  Gama Azules 19   Tamaño del Fabricante:38  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DLLLC6H/?tag=tolees-21'
+descuento: '66.83'
+titulo: 'Springfield 4.2.Gym.MD.Perfecto Velvet C'
 ---
 
 Está [Springfield 4.2.Gym.MD.Perfecto Velvet Chaqueta  Gama Azules 19   Tamaño del Fabricante:38  para Mujer](https://www.amazon.es/dp/B07DLLLC6H/?tag=tolees-21) con 66.83 de descuento por 16.58 EUR (original: 49.99 EUR) en el siguiente enlace!

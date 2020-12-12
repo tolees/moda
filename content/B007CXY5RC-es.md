@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 51.45 % en Cressi Flash Swim Goggles Gafas de Natac'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Vg0I4WEnL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Vg0I4WEnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Vg0I4WEnL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 18.95 EUR
 inStock: true
 prodname: 'Cressi Flash Swim Goggles Gafas de Natación Premium para Adultos 100% Anti UV  Transparente/Blanco/Gris  Talla Única'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B007CXY5RC/?tag=tolees-21'
+descuento: '51.45'
+titulo: 'Cressi Flash Swim Goggles Gafas de Natac'
 ---
 
 Tienes [Cressi Flash Swim Goggles Gafas de Natación Premium para Adultos 100% Anti UV  Transparente/Blanco/Gris  Talla Única](https://www.amazon.es/dp/B007CXY5RC/?tag=tolees-21) con un 51.45 % de descuento con precio de oferta de 9.2 EUR (original: 18.95 EUR) en el siguiente enlace!

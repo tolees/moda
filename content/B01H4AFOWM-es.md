@@ -3,6 +3,7 @@ layout: post
 title: 'Wrangler Greensboro Straight Leg 1  Vaqu al 68.16 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419xxK56OQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/419xxK56OQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419xxK56OQL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 94.95 EUR
 inStock: true
 prodname: 'Wrangler Greensboro Straight Leg 1  Vaqueros para Hombre  Azul  Blown Away  31W / 34L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01H4AFOWM/?tag=tolees-21'
+descuento: '68.16'
+titulo: 'Wrangler Greensboro Straight Leg 1  Vaqu'
 ---
 
 Ahora mismo tienes [Wrangler Greensboro Straight Leg 1  Vaqueros para Hombre  Azul  Blown Away  31W / 34L](https://www.amazon.es/dp/B01H4AFOWM/?tag=tolees-21) a 30.23 EUR (original: 94.95 EUR) (68.16 %  de descuento) en el siguiente enlace!

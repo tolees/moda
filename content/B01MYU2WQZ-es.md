@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 64.67 % en Pepe Jeans Coates  Camisa para Hombre  A'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51CUgBkVgPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51CUgBkVgPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51CUgBkVgPL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 60 EUR
 inStock: true
 prodname: 'Pepe Jeans Coates  Camisa para Hombre  Azul  Naval Blue   45  Talla del Fabricante: X-Large '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MYU2WQZ/?tag=tolees-21'
+descuento: '64.67'
+titulo: 'Pepe Jeans Coates  Camisa para Hombre  A'
 ---
 
 Tienes [Pepe Jeans Coates  Camisa para Hombre  Azul  Naval Blue   45  Talla del Fabricante: X-Large ](https://www.amazon.es/dp/B01MYU2WQZ/?tag=tolees-21) con un 64.67 % de descuento con precio de oferta de 21.2 EUR (original: 60 EUR) en el siguiente enlace!

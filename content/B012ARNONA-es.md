@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 67.79 % en Pedro del Hierro Vestido Azul Tinta ES 4'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/312kLbJW7PL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/312kLbJW7PL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/312kLbJW7PL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 235 EUR
 inStock: true
 prodname: 'Pedro del Hierro Vestido Azul Tinta ES 44'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B012ARNONA/?tag=tolees-21'
+descuento: '67.79'
+titulo: 'Pedro del Hierro Vestido Azul Tinta ES 4'
 ---
 
 Tienes [Pedro del Hierro Vestido Azul Tinta ES 44](https://www.amazon.es/dp/B012ARNONA/?tag=tolees-21) con un 67.79 % de descuento con precio de oferta de 75.69 EUR (original: 235 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'RED WAGON Conjunto de Pijama de Pantalón al 69.99 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51GRpQ9bXkL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51GRpQ9bXkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51GRpQ9bXkL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 20.99 EUR
 inStock: true
 prodname: 'RED WAGON Conjunto de Pijama de Pantalón Corto para Niño  Blanco  White   4 años'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MU3L0H3/?tag=tolees-21'
+descuento: '69.99'
+titulo: 'RED WAGON Conjunto de Pijama de Pantalón'
 ---
 
 Está [RED WAGON Conjunto de Pijama de Pantalón Corto para Niño  Blanco  White   4 años](https://www.amazon.es/dp/B01MU3L0H3/?tag=tolees-21) con 69.99 de descuento por 6.3 EUR (original: 20.99 EUR) en el siguiente enlace!

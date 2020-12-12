@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 74.32 % en Conguitos Piel  Zapatos de Cordones Brog'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bQR9M5GdL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41bQR9M5GdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bQR9M5GdL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 53 EUR
 inStock: true
 prodname: 'Conguitos Piel  Zapatos de Cordones Brogue Unisex niño  Marrón  Visón 277   24 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CVG19W7/?tag=tolees-21'
+descuento: '74.32'
+titulo: 'Conguitos Piel  Zapatos de Cordones Brog'
 ---
 
 Tienes [Conguitos Piel  Zapatos de Cordones Brogue Unisex niño  Marrón  Visón 277   24 EU](https://www.amazon.es/dp/B07CVG19W7/?tag=tolees-21) con un 74.32 % de descuento con precio de oferta de 13.61 EUR (original: 53 EUR) en el siguiente enlace!

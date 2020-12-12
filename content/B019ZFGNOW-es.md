@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour Tech SSC-Twist Camiseta  Mu al 59.52 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QIEghKPPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41QIEghKPPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QIEghKPPL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 27.99 EUR
 inStock: true
 prodname: 'Under Armour Tech SSC-Twist Camiseta  Mujer  Negro  Black 001   M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B019ZFGNOW/?tag=tolees-21'
+descuento: '59.52'
+titulo: 'Under Armour Tech SSC-Twist Camiseta  Mu'
 ---
 
 Está [Under Armour Tech SSC-Twist Camiseta  Mujer  Negro  Black 001   M](https://www.amazon.es/dp/B019ZFGNOW/?tag=tolees-21) con 59.52 de descuento por 11.33 EUR (original: 27.99 EUR) en el siguiente enlace!

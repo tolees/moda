@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.00 % en Timberland Bradstreet 3 Eyeblack Iris Nu'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dhVRWkRCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41dhVRWkRCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dhVRWkRCL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 135 EUR
 inStock: true
 prodname: 'Timberland Bradstreet 3 Eyeblack Iris Nubuck  Náuticos Para Hombre  Azul  Black Iris Nubuck   44 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MXWE2FZ/?tag=tolees-21'
+descuento: '50.00'
+titulo: 'Timberland Bradstreet 3 Eyeblack Iris Nu'
 ---
 
 Tienes [Timberland Bradstreet 3 Eyeblack Iris Nubuck  Náuticos Para Hombre  Azul  Black Iris Nubuck   44 EU](https://www.amazon.es/dp/B01MXWE2FZ/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 67.5 EUR (original: 135 EUR) en el siguiente enlace!

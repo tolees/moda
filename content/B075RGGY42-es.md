@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 48.77 % en GORE WEAR C3 Pantalón corto para hombre '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Z7Xg9xEpL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Z7Xg9xEpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Z7Xg9xEpL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 89.95 EUR
 inStock: true
 prodname: 'GORE WEAR C3 Pantalón corto para hombre  M  negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075RGGY42/?tag=tolees-21'
+descuento: '48.77'
+titulo: 'GORE WEAR C3 Pantalón corto para hombre '
 ---
 
 Tienes [GORE WEAR C3 Pantalón corto para hombre  M  negro](https://www.amazon.es/dp/B075RGGY42/?tag=tolees-21) con un 48.77 % de descuento con precio de oferta de 46.08 EUR (original: 89.95 EUR) en el siguiente enlace!

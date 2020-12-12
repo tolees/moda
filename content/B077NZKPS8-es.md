@@ -3,6 +3,7 @@ layout: post
 title: 'Lee Elly Vaqueros Slim  Gris  Grey Yepg  al 74.45 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41A7%2BDoxoCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41A7%2BDoxoCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41A7%2BDoxoCL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 89.95 EUR
 inStock: true
 prodname: 'Lee Elly Vaqueros Slim  Gris  Grey Yepg   W27/L33  Talla del Fabricante: 27/33  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077NZKPS8/?tag=tolees-21'
+descuento: '74.45'
+titulo: 'Lee Elly Vaqueros Slim  Gris  Grey Yepg '
 ---
 
 Está [Lee Elly Vaqueros Slim  Gris  Grey Yepg   W27/L33  Talla del Fabricante: 27/33  para Mujer](https://www.amazon.es/dp/B077NZKPS8/?tag=tolees-21) con 74.45 de descuento por 22.98 EUR (original: 89.95 EUR) en el siguiente enlace!

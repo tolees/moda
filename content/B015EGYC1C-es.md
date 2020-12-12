@@ -3,6 +3,7 @@ layout: post
 title: 'GUESS GU6865-5801A  Gafas de Sol para Ho al 72.10 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31mM%2B9eMVzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31mM%2B9eMVzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31mM%2B9eMVzL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 119 EUR
 inStock: true
 prodname: 'GUESS GU6865-5801A  Gafas de Sol para Hombre  Negro  58'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B015EGYC1C/?tag=tolees-21'
+descuento: '72.10'
+titulo: 'GUESS GU6865-5801A  Gafas de Sol para Ho'
 ---
 
 Está [GUESS GU6865-5801A  Gafas de Sol para Hombre  Negro  58](https://www.amazon.es/dp/B015EGYC1C/?tag=tolees-21) con 72.10 de descuento por 33.2 EUR (original: 119 EUR) en el siguiente enlace!

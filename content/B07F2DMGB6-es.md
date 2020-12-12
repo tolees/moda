@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.08 % en Timberland Union Wharf  Zapatillas para '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31gBRfnvHZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31gBRfnvHZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31gBRfnvHZL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 65 EUR
 inStock: true
 prodname: 'Timberland Union Wharf  Zapatillas para Hombre  Azul  Vintage Indigo Cc4   46 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F2DMGB6/?tag=tolees-21'
+descuento: '50.08'
+titulo: 'Timberland Union Wharf  Zapatillas para '
 ---
 
 Tienes [Timberland Union Wharf  Zapatillas para Hombre  Azul  Vintage Indigo Cc4   46 EU](https://www.amazon.es/dp/B07F2DMGB6/?tag=tolees-21) con un 50.08 % de descuento con precio de oferta de 32.45 EUR (original: 65 EUR) en el siguiente enlace!

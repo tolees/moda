@@ -3,6 +3,7 @@ layout: post
 title: 'Pepe Jeans Tami  Parka para Mujer  Azul  al 60.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CxL%2BhDUjL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41CxL%2BhDUjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CxL%2BhDUjL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 110 EUR
 inStock: true
 prodname: 'Pepe Jeans Tami  Parka para Mujer  Azul  Dulwich 594  L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079RT7TY2/?tag=tolees-21'
+descuento: '60.00'
+titulo: 'Pepe Jeans Tami  Parka para Mujer  Azul '
 ---
 
 Está [Pepe Jeans Tami  Parka para Mujer  Azul  Dulwich 594  L](https://www.amazon.es/dp/B079RT7TY2/?tag=tolees-21) con 60.00 de descuento por 44 EUR (original: 110 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'The Rolling Stone EST 1962 Group Camiset al 33.87 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41oIF3v1QoL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41oIF3v1QoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41oIF3v1QoL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 26.6 EUR
 inStock: true
 prodname: 'The Rolling Stone EST 1962 Group Camiseta Manga Corta  Blanco  L para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00CYM8QK8/?tag=tolees-21'
+descuento: '33.87'
+titulo: 'The Rolling Stone EST 1962 Group Camiset'
 ---
 
 Está [The Rolling Stone EST 1962 Group Camiseta Manga Corta  Blanco  L para Hombre](https://www.amazon.es/dp/B00CYM8QK8/?tag=tolees-21) con 33.87 de descuento por 17.59 EUR (original: 26.6 EUR) en el siguiente enlace!

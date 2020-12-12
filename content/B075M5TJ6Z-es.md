@@ -3,6 +3,7 @@ layout: post
 title: 'Volcom Crisp Stone BSC SS Camiseta  Homb al 26.43 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HQ0wo9qSL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41HQ0wo9qSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HQ0wo9qSL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 30 EUR
 inStock: true
 prodname: 'Volcom Crisp Stone BSC SS Camiseta  Hombre  Light Peach  XS'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075M5TJ6Z/?tag=tolees-21'
+descuento: '26.43'
+titulo: 'Volcom Crisp Stone BSC SS Camiseta  Homb'
 ---
 
 Ahora mismo tienes [Volcom Crisp Stone BSC SS Camiseta  Hombre  Light Peach  XS](https://www.amazon.es/dp/B075M5TJ6Z/?tag=tolees-21) a 22.07 EUR (original: 30 EUR) (26.43 %  de descuento) en el siguiente enlace!

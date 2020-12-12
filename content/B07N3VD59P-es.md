@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.17 % en Gaatpot Unisex Niños Sandalias con Punta'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YhA12bGAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41YhA12bGAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YhA12bGAL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 30 EUR
 inStock: true
 prodname: 'Gaatpot Unisex Niños Sandalias con Punta Cerrada Niña Niño Zapatos Sandalias de Vestir en Cuero Zapatillas Verano Blanco 27 EU/27 CN'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07N3VD59P/?tag=tolees-21'
+descuento: '30.17'
+titulo: 'Gaatpot Unisex Niños Sandalias con Punta'
 ---
 
 Tienes [Gaatpot Unisex Niños Sandalias con Punta Cerrada Niña Niño Zapatos Sandalias de Vestir en Cuero Zapatillas Verano Blanco 27 EU/27 CN](https://www.amazon.es/dp/B07N3VD59P/?tag=tolees-21) con un 30.17 % de descuento con precio de oferta de 20.95 EUR (original: 30 EUR) en el siguiente enlace!

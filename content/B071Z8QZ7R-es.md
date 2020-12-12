@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour Wind Anorak Chaqueta  Hombr al 72.23 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41x4tGXmi4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41x4tGXmi4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41x4tGXmi4L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 60 EUR
 inStock: true
 prodname: 'Under Armour Wind Anorak Chaqueta  Hombre  Negro Black 001  XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071Z8QZ7R/?tag=tolees-21'
+descuento: '72.23'
+titulo: 'Under Armour Wind Anorak Chaqueta  Hombr'
 ---
 
 Ahora mismo tienes [Under Armour Wind Anorak Chaqueta  Hombre  Negro Black 001  XL](https://www.amazon.es/dp/B071Z8QZ7R/?tag=tolees-21) a 16.66 EUR (original: 60 EUR) (72.23 %  de descuento) en el siguiente enlace!

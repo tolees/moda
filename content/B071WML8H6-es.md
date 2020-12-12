@@ -3,6 +3,7 @@ layout: post
 title: 'Tommy Hilfiger CRESS Down JKT Chaqueta   al 65.43 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413UxRsWaaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/413UxRsWaaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413UxRsWaaL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 279 EUR
 inStock: true
 prodname: 'Tommy Hilfiger CRESS Down JKT Chaqueta  Azul  Midnight   10  Talla del Fabricante: Medium  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071WML8H6/?tag=tolees-21'
+descuento: '65.43'
+titulo: 'Tommy Hilfiger CRESS Down JKT Chaqueta  '
 ---
 
 Está [Tommy Hilfiger CRESS Down JKT Chaqueta  Azul  Midnight   10  Talla del Fabricante: Medium  para Mujer](https://www.amazon.es/dp/B071WML8H6/?tag=tolees-21) con 65.43 de descuento por 96.44 EUR (original: 279 EUR) en el siguiente enlace!

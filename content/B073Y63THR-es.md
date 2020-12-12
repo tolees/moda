@@ -3,6 +3,7 @@ layout: post
 title: 'Timberland Exeter River Basic Crew Sudad al 59.56 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tSO7s7j3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41tSO7s7j3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tSO7s7j3L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 79 EUR
 inStock: true
 prodname: 'Timberland Exeter River Basic Crew Sudadera  Gris  Medium Grey Heather 052   XX-Large para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073Y63THR/?tag=tolees-21'
+descuento: '59.56'
+titulo: 'Timberland Exeter River Basic Crew Sudad'
 ---
 
 Está [Timberland Exeter River Basic Crew Sudadera  Gris  Medium Grey Heather 052   XX-Large para Hombre](https://www.amazon.es/dp/B073Y63THR/?tag=tolees-21) con 59.56 de descuento por 31.95 EUR (original: 79 EUR) en el siguiente enlace!

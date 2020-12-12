@@ -3,6 +3,7 @@ layout: post
 title: 'Wrangler LS 2pkt Flap Shir Camisa  Rojo  al 78.36 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51chPS8duzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51chPS8duzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51chPS8duzL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 54.95 EUR
 inStock: true
 prodname: 'Wrangler LS 2pkt Flap Shir Camisa  Rojo  Scarlet Red Zuu   Small para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FYBX6J6/?tag=tolees-21'
+descuento: '78.36'
+titulo: 'Wrangler LS 2pkt Flap Shir Camisa  Rojo '
 ---
 
 Está [Wrangler LS 2pkt Flap Shir Camisa  Rojo  Scarlet Red Zuu   Small para Hombre](https://www.amazon.es/dp/B07FYBX6J6/?tag=tolees-21) con 78.36 de descuento por 11.89 EUR (original: 54.95 EUR) en el siguiente enlace!

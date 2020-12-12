@@ -3,6 +3,7 @@ layout: post
 title: 'Lower East Camiseta Manga Corta Hombre   al 29.98 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41khaifZgNL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41khaifZgNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41khaifZgNL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 27.95 EUR
 inStock: true
 prodname: 'Lower East Camiseta Manga Corta Hombre  Pack de 5  Hellgrau/Melange  XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00N3TGFV8/?tag=tolees-21'
+descuento: '29.98'
+titulo: 'Lower East Camiseta Manga Corta Hombre  '
 ---
 
 Ahora mismo tienes [Lower East Camiseta Manga Corta Hombre  Pack de 5  Hellgrau/Melange  XL](https://www.amazon.es/dp/B00N3TGFV8/?tag=tolees-21) a 19.57 EUR (original: 27.95 EUR) (29.98 %  de descuento) en el siguiente enlace!

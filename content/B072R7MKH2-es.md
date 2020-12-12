@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 81.10 % en Vero Moda Vmylda LS Boxy Blouse  suéter '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UMU72VZgL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41UMU72VZgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UMU72VZgL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 26.99 EUR
 inStock: true
 prodname: 'Vero Moda Vmylda LS Boxy Blouse  suéter Mujer  Azul  Navy Blazer Navy Blazer   36  Talla del Fabricante: Small '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072R7MKH2/?tag=tolees-21'
+descuento: '81.10'
+titulo: 'Vero Moda Vmylda LS Boxy Blouse  suéter '
 ---
 
 Tienes [Vero Moda Vmylda LS Boxy Blouse  suéter Mujer  Azul  Navy Blazer Navy Blazer   36  Talla del Fabricante: Small ](https://www.amazon.es/dp/B072R7MKH2/?tag=tolees-21) con un 81.10 % de descuento con precio de oferta de 5.1 EUR (original: 26.99 EUR) en el siguiente enlace!

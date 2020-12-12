@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield 690 Naming SPF Org Tricol Ca al 42.73 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Ppl6UbcrL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Ppl6UbcrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Ppl6UbcrL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 12.99 EUR
 inStock: true
 prodname: 'Springfield 690 Naming SPF Org Tricol Camiseta   Blanco 99   X-Large  Tamaño del Fabricante:XL  para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KYLWCQL/?tag=tolees-21'
+descuento: '42.73'
+titulo: 'Springfield 690 Naming SPF Org Tricol Ca'
 ---
 
 Está [Springfield 690 Naming SPF Org Tricol Camiseta   Blanco 99   X-Large  Tamaño del Fabricante:XL  para Hombre](https://www.amazon.es/dp/B07KYLWCQL/?tag=tolees-21) con 42.73 de descuento por 7.44 EUR (original: 12.99 EUR) en el siguiente enlace!

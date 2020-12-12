@@ -3,6 +3,7 @@ layout: post
 title: 'Napapijri Rainforest Winter  Chaqueta  A al 49.37 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415O-2DHZIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/415O-2DHZIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415O-2DHZIL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 129 EUR
 inStock: true
 prodname: 'Napapijri Rainforest Winter  Chaqueta  Azul  Plastic B56   116  Talla del Fabricante: 06  para Niños'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F8GM7GC/?tag=tolees-21'
+descuento: '49.37'
+titulo: 'Napapijri Rainforest Winter  Chaqueta  A'
 ---
 
 Está [Napapijri Rainforest Winter  Chaqueta  Azul  Plastic B56   116  Talla del Fabricante: 06  para Niños](https://www.amazon.es/dp/B07F8GM7GC/?tag=tolees-21) con 49.37 de descuento por 65.31 EUR (original: 129 EUR) en el siguiente enlace!

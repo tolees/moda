@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 52.46 % en Springfield 6792944 Camisa  Azul  Blue  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51fo%2Bbjq8tL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51fo%2Bbjq8tL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51fo%2Bbjq8tL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 24.99 EUR
 inStock: true
 prodname: 'Springfield 6792944 Camisa  Azul  Blue   Tamaño del Fabricante:40 para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0768GD3WL/?tag=tolees-21'
+descuento: '52.46'
+titulo: 'Springfield 6792944 Camisa  Azul  Blue  '
 ---
 
 Tienes [Springfield 6792944 Camisa  Azul  Blue   Tamaño del Fabricante:40 para Mujer](https://www.amazon.es/dp/B0768GD3WL/?tag=tolees-21) con un 52.46 % de descuento con precio de oferta de 11.88 EUR (original: 24.99 EUR) en el siguiente enlace!

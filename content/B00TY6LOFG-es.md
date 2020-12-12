@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 48.43 % en The North Face Horizon Convertible Panta'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rUi0td0tL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41rUi0td0tL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rUi0td0tL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 75 EUR
 inStock: true
 prodname: 'The North Face Horizon Convertible Pantalón  Mujer  Vanadis Grey  6'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00TY6LOFG/?tag=tolees-21'
+descuento: '48.43'
+titulo: 'The North Face Horizon Convertible Panta'
 ---
 
 Tienes [The North Face Horizon Convertible Pantalón  Mujer  Vanadis Grey  6](https://www.amazon.es/dp/B00TY6LOFG/?tag=tolees-21) con un 48.43 % de descuento con precio de oferta de 38.68 EUR (original: 75 EUR) en el siguiente enlace!

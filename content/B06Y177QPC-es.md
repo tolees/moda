@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 68.42 % en oodji Ultra Hombre Camiseta Estampada de'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Bpw2%2BGYlL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Bpw2%2BGYlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Bpw2%2BGYlL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 11.4 EUR
 inStock: true
 prodname: 'oodji Ultra Hombre Camiseta Estampada de Algodón  Verde  ES 58-60 / XXL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06Y177QPC/?tag=tolees-21'
+descuento: '68.42'
+titulo: 'oodji Ultra Hombre Camiseta Estampada de'
 ---
 
 Tienes [oodji Ultra Hombre Camiseta Estampada de Algodón  Verde  ES 58-60 / XXL](https://www.amazon.es/dp/B06Y177QPC/?tag=tolees-21) con un 68.42 % de descuento con precio de oferta de 3.6 EUR (original: 11.4 EUR) en el siguiente enlace!

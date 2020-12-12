@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 66.86 % en Lee One Pocket Shirt  Blusa para Mujer  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51K4vJveS0L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51K4vJveS0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51K4vJveS0L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'Lee One Pocket Shirt  Blusa para Mujer   Rust Bfdg   Small'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072KDSZ9B/?tag=tolees-21'
+descuento: '66.86'
+titulo: 'Lee One Pocket Shirt  Blusa para Mujer  '
 ---
 
 Tienes [Lee One Pocket Shirt  Blusa para Mujer   Rust Bfdg   Small](https://www.amazon.es/dp/B072KDSZ9B/?tag=tolees-21) con un 66.86 % de descuento con precio de oferta de 23.18 EUR (original: 69.95 EUR) en el siguiente enlace!

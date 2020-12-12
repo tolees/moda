@@ -3,6 +3,7 @@ layout: post
 title: 'Gucci gafas de sol GG0064SK AVANA-AVANA- al 71.79 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/314J6ZdA9fL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/314J6ZdA9fL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/314J6ZdA9fL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 308 EUR
 inStock: true
 prodname: 'Gucci gafas de sol GG0064SK AVANA-AVANA-BLUE  55'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XDB31JF/?tag=tolees-21'
+descuento: '71.79'
+titulo: 'Gucci gafas de sol GG0064SK AVANA-AVANA-'
 ---
 
 Está [Gucci gafas de sol GG0064SK AVANA-AVANA-BLUE  55](https://www.amazon.es/dp/B06XDB31JF/?tag=tolees-21) con 71.79 de descuento por 86.89 EUR (original: 308 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'MERAKI Vestido de Tirantes Slim Fit Muje al 28.80 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31CSkGMWP%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31CSkGMWP%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31CSkGMWP%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 12.05 EUR
 inStock: true
 prodname: 'MERAKI Vestido de Tirantes Slim Fit Mujer  Rojo  Red Tawny Port   Small'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075MLD92D/?tag=tolees-21'
+descuento: '28.80'
+titulo: 'MERAKI Vestido de Tirantes Slim Fit Muje'
 ---
 
 Ahora mismo tienes [MERAKI Vestido de Tirantes Slim Fit Mujer  Rojo  Red Tawny Port   Small](https://www.amazon.es/dp/B075MLD92D/?tag=tolees-21) a 8.58 EUR (original: 12.05 EUR) (28.80 %  de descuento) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Polaroid PLD 1023/S OZ 202 Gafas de Sol  al 48.54 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31%2B-dz-heBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31%2B-dz-heBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31%2B-dz-heBL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 61 EUR
 inStock: true
 prodname: 'Polaroid PLD 1023/S OZ 202 Gafas de Sol  Marrón  Brown Havana/Red Grey Speckled Pz   51 Unisex-Adulto'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XH2ZDC3/?tag=tolees-21'
+descuento: '48.54'
+titulo: 'Polaroid PLD 1023/S OZ 202 Gafas de Sol '
 ---
 
 Ahora mismo tienes [Polaroid PLD 1023/S OZ 202 Gafas de Sol  Marrón  Brown Havana/Red Grey Speckled Pz   51 Unisex-Adulto](https://www.amazon.es/dp/B06XH2ZDC3/?tag=tolees-21) a 31.39 EUR (original: 61 EUR) (48.54 %  de descuento) en el siguiente enlace!

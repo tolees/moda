@@ -3,6 +3,7 @@ layout: post
 title: 'REPLAY Rob  Vaqueros Relaxed para Hombre al 78.63 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41C2HShZK8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41C2HShZK8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41C2HShZK8L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 139 EUR
 inStock: true
 prodname: 'REPLAY Rob  Vaqueros Relaxed para Hombre  Azul  Mid Blue Denim 10  W30/L34'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CJGGC7M/?tag=tolees-21'
+descuento: '78.63'
+titulo: 'REPLAY Rob  Vaqueros Relaxed para Hombre'
 ---
 
 Ahora mismo tienes [REPLAY Rob  Vaqueros Relaxed para Hombre  Azul  Mid Blue Denim 10  W30/L34](https://www.amazon.es/dp/B07CJGGC7M/?tag=tolees-21) a 29.7 EUR (original: 139 EUR) (78.63 %  de descuento) en el siguiente enlace!

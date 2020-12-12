@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour Tech Big Logo Solid tee Cam al 59.98 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wAmPreMiL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41wAmPreMiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wAmPreMiL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'Under Armour Tech Big Logo Solid tee Camiseta  Niños  Azul  Royal/Black/Graphite 400   XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077XSSZST/?tag=tolees-21'
+descuento: '59.98'
+titulo: 'Under Armour Tech Big Logo Solid tee Cam'
 ---
 
 Ahora mismo tienes [Under Armour Tech Big Logo Solid tee Camiseta  Niños  Azul  Royal/Black/Graphite 400   XL](https://www.amazon.es/dp/B077XSSZST/?tag=tolees-21) a 8 EUR (original: 19.99 EUR) (59.98 %  de descuento) en el siguiente enlace!

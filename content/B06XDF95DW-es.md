@@ -3,6 +3,7 @@ layout: post
 title: 'SELECTED FEMME SFNEWSMILE SS Slit Dress  al 86.17 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/316Q1Fa4imL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/316Q1Fa4imL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/316Q1Fa4imL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 69.99 EUR
 inStock: true
 prodname: 'SELECTED FEMME SFNEWSMILE SS Slit Dress EX Vestido  Azul Dark Navy  34 para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XDF95DW/?tag=tolees-21'
+descuento: '86.17'
+titulo: 'SELECTED FEMME SFNEWSMILE SS Slit Dress '
 ---
 
 Ahora mismo tienes [SELECTED FEMME SFNEWSMILE SS Slit Dress EX Vestido  Azul Dark Navy  34 para Mujer](https://www.amazon.es/dp/B06XDF95DW/?tag=tolees-21) a 9.68 EUR (original: 69.99 EUR) (86.17 %  de descuento) en el siguiente enlace!

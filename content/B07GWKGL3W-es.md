@@ -3,6 +3,7 @@ layout: post
 title: 'Burton Menswear London Green Two Tone Li al 66.83 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419pUjmqDuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/419pUjmqDuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419pUjmqDuL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 74.08 EUR
 inStock: true
 prodname: 'Burton Menswear London Green Two Tone Lightweight Hooded Padded Jacket  Chaqueta para Hombre  Verde  XX-Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GWKGL3W/?tag=tolees-21'
+descuento: '66.83'
+titulo: 'Burton Menswear London Green Two Tone Li'
 ---
 
 Está [Burton Menswear London Green Two Tone Lightweight Hooded Padded Jacket  Chaqueta para Hombre  Verde  XX-Large](https://www.amazon.es/dp/B07GWKGL3W/?tag=tolees-21) con 66.83 de descuento por 24.57 EUR (original: 74.08 EUR) en el siguiente enlace!

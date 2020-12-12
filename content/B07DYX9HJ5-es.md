@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.53 % en Columbia Quantum Voyage II Hooded Jacket'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wLffsUokL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41wLffsUokL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wLffsUokL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 229.99 EUR
 inStock: true
 prodname: 'Columbia Quantum Voyage II Hooded Jacket Chaqueta con Capucha  Hombre  Dark Mountain/Bright Copper  Talla XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DYX9HJ5/?tag=tolees-21'
+descuento: '50.53'
+titulo: 'Columbia Quantum Voyage II Hooded Jacket'
 ---
 
 Tienes [Columbia Quantum Voyage II Hooded Jacket Chaqueta con Capucha  Hombre  Dark Mountain/Bright Copper  Talla XL](https://www.amazon.es/dp/B07DYX9HJ5/?tag=tolees-21) con un 50.53 % de descuento con precio de oferta de 113.77 EUR (original: 229.99 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'find. FP00947.2.1 vestido fiesta mujer   al 57.82 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4101KC4QsLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4101KC4QsLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4101KC4QsLL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 40 EUR
 inStock: true
 prodname: 'find. FP00947.2.1 vestido fiesta mujer  Rojo  Sports Red   46  Talla del Fabricante: XX-Large '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N4GTPIQ/?tag=tolees-21'
+descuento: '57.82'
+titulo: 'find. FP00947.2.1 vestido fiesta mujer  '
 ---
 
 Ahora mismo tienes [find. FP00947.2.1 vestido fiesta mujer  Rojo  Sports Red   46  Talla del Fabricante: XX-Large ](https://www.amazon.es/dp/B01N4GTPIQ/?tag=tolees-21) a 16.87 EUR (original: 40 EUR) (57.82 %  de descuento) en el siguiente enlace!

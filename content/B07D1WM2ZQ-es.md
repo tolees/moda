@@ -3,6 +3,7 @@ layout: post
 title: 'tuokener Bolsos de Mujer Nylon Hombro Bo al 35.52 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51DIMyLob7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51DIMyLob7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51DIMyLob7L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'tuokener Bolsos de Mujer Nylon Hombro Bolso Bolsa Impermeable para Mujer Viajar Crossbody Bag Nylon Waterproof  azul '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D1WM2ZQ/?tag=tolees-21'
+descuento: '35.52'
+titulo: 'tuokener Bolsos de Mujer Nylon Hombro Bo'
 ---
 
 Está [tuokener Bolsos de Mujer Nylon Hombro Bolso Bolsa Impermeable para Mujer Viajar Crossbody Bag Nylon Waterproof  azul ](https://www.amazon.es/dp/B07D1WM2ZQ/?tag=tolees-21) con 35.52 de descuento por 12.89 EUR (original: 19.99 EUR) en el siguiente enlace!

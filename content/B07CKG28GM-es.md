@@ -3,6 +3,7 @@ layout: post
 title: 'Inside 6sves21&  Vestido Mujer  Negro  B al 31.98 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41NGzno41FL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41NGzno41FL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41NGzno41FL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 22.39 EUR
 inStock: true
 prodname: 'Inside 6sves21&  Vestido Mujer  Negro  Black 1   Medium'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CKG28GM/?tag=tolees-21'
+descuento: '31.98'
+titulo: 'Inside 6sves21&  Vestido Mujer  Negro  B'
 ---
 
 Ahora mismo tienes [Inside 6sves21&  Vestido Mujer  Negro  Black 1   Medium](https://www.amazon.es/dp/B07CKG28GM/?tag=tolees-21) a 15.23 EUR (original: 22.39 EUR) (31.98 %  de descuento) en el siguiente enlace!

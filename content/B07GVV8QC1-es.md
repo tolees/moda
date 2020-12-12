@@ -3,6 +3,7 @@ layout: post
 title: 'New Look Maternity Parka Abrigo  Verde   al 51.39 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BhY3rQpQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41BhY3rQpQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BhY3rQpQL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 44.54 EUR
 inStock: true
 prodname: 'New Look Maternity Parka Abrigo  Verde  Dark Khaki   46  Talla del Fabricante: 18  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GVV8QC1/?tag=tolees-21'
+descuento: '51.39'
+titulo: 'New Look Maternity Parka Abrigo  Verde  '
 ---
 
 Está [New Look Maternity Parka Abrigo  Verde  Dark Khaki   46  Talla del Fabricante: 18  para Mujer](https://www.amazon.es/dp/B07GVV8QC1/?tag=tolees-21) con 51.39 de descuento por 21.65 EUR (original: 44.54 EUR) en el siguiente enlace!

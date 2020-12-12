@@ -3,6 +3,7 @@ layout: post
 title: 'Geox J Borealis Boy B  Sandalias Punta C al 45.55 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wJdhO%2BOJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41wJdhO%2BOJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wJdhO%2BOJL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 55 EUR
 inStock: true
 prodname: 'Geox J Borealis Boy B  Sandalias Punta Cerrada para Niños  Azul  Navy/Red C0735   26 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DK2J2L3/?tag=tolees-21'
+descuento: '45.55'
+titulo: 'Geox J Borealis Boy B  Sandalias Punta C'
 ---
 
 Ahora mismo tienes [Geox J Borealis Boy B  Sandalias Punta Cerrada para Niños  Azul  Navy/Red C0735   26 EU](https://www.amazon.es/dp/B07DK2J2L3/?tag=tolees-21) a 29.95 EUR (original: 55 EUR) (45.55 %  de descuento) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'G-STAR RAW 3301 Straight Vaqueros para H al 54.98 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41SWHPgJPFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41SWHPgJPFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41SWHPgJPFL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'G-STAR RAW 3301 Straight Vaqueros para Hombre  Blu  rinsed 7209-082   W28/L30 para'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BJHLZNR/?tag=tolees-21'
+descuento: '54.98'
+titulo: 'G-STAR RAW 3301 Straight Vaqueros para H'
 ---
 
 Está [G-STAR RAW 3301 Straight Vaqueros para Hombre  Blu  rinsed 7209-082   W28/L30 para](https://www.amazon.es/dp/B07BJHLZNR/?tag=tolees-21) con 54.98 de descuento por 45 EUR (original: 99.95 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Puma ESS Logo tee Camiseta  Mujer  Rosa  al 40.10 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31CeGrZhI7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31CeGrZhI7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31CeGrZhI7L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 19.95 EUR
 inStock: true
 prodname: 'Puma ESS Logo tee Camiseta  Mujer  Rosa  Pale Pink   XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JGD48LT/?tag=tolees-21'
+descuento: '40.10'
+titulo: 'Puma ESS Logo tee Camiseta  Mujer  Rosa '
 ---
 
 Está [Puma ESS Logo tee Camiseta  Mujer  Rosa  Pale Pink   XL](https://www.amazon.es/dp/B07JGD48LT/?tag=tolees-21) con 40.10 de descuento por 11.95 EUR (original: 19.95 EUR) en el siguiente enlace!

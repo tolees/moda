@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 72.38 % en Timberland Authentic 6” – Botas para Niñ'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41E4joVIlzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41E4joVIlzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41E4joVIlzL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 110 EUR
 inStock: true
 prodname: 'Timberland Authentic 6” – Botas para Niños  Marrón  Medium Brown Rust   30 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B000VIDZIK/?tag=tolees-21'
+descuento: '72.38'
+titulo: 'Timberland Authentic 6” – Botas para Niñ'
 ---
 
 Tienes [Timberland Authentic 6” – Botas para Niños  Marrón  Medium Brown Rust   30 EU](https://www.amazon.es/dp/B000VIDZIK/?tag=tolees-21) con un 72.38 % de descuento con precio de oferta de 30.38 EUR (original: 110 EUR) en el siguiente enlace!

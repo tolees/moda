@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 83.04 % en Summer Infant Izabel - Bolso cambiador  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/513VzoObhmL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/513VzoObhmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/513VzoObhmL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 40.27 EUR
 inStock: true
 prodname: 'Summer Infant Izabel - Bolso cambiador  color marrón'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00OEBJL0G/?tag=tolees-21'
+descuento: '83.04'
+titulo: 'Summer Infant Izabel - Bolso cambiador  '
 ---
 
 Tienes [Summer Infant Izabel - Bolso cambiador  color marrón](https://www.amazon.es/dp/B00OEBJL0G/?tag=tolees-21) con un 83.04 % de descuento con precio de oferta de 6.83 EUR (original: 40.27 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Lee Luke  Vaqueros Tapered para Hombre   al 82.77 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31jPKldV2NL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31jPKldV2NL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31jPKldV2NL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 89.95 EUR
 inStock: true
 prodname: 'Lee Luke  Vaqueros Tapered para Hombre  Azul  Dark Used Vq  W26/L32'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079PKS3HT/?tag=tolees-21'
+descuento: '82.77'
+titulo: 'Lee Luke  Vaqueros Tapered para Hombre  '
 ---
 
 Está [Lee Luke  Vaqueros Tapered para Hombre  Azul  Dark Used Vq  W26/L32](https://www.amazon.es/dp/B079PKS3HT/?tag=tolees-21) con 82.77 de descuento por 15.5 EUR (original: 89.95 EUR) en el siguiente enlace!

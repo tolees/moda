@@ -3,6 +3,7 @@ layout: post
 title: 'Refresh 64670  Botines para Mujer  Verde al 58.80 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RzG8hEtpL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41RzG8hEtpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RzG8hEtpL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: 'Refresh 64670  Botines para Mujer  Verde  Kaki   39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DD3G1X6/?tag=tolees-21'
+descuento: '58.80'
+titulo: 'Refresh 64670  Botines para Mujer  Verde'
 ---
 
 Ahora mismo tienes [Refresh 64670  Botines para Mujer  Verde  Kaki   39 EU](https://www.amazon.es/dp/B07DD3G1X6/?tag=tolees-21) a 20.58 EUR (original: 49.95 EUR) (58.80 %  de descuento) en el siguiente enlace!

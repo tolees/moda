@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour UA Tech Graphic SS tee Cami al 51.43 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415F3gKenLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/415F3gKenLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415F3gKenLL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 30 EUR
 inStock: true
 prodname: 'Under Armour UA Tech Graphic SS tee Camiseta de Manga Corta  Hombre  Azul  409   M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0728BPJV3/?tag=tolees-21'
+descuento: '51.43'
+titulo: 'Under Armour UA Tech Graphic SS tee Cami'
 ---
 
 Ahora mismo tienes [Under Armour UA Tech Graphic SS tee Camiseta de Manga Corta  Hombre  Azul  409   M](https://www.amazon.es/dp/B0728BPJV3/?tag=tolees-21) a 14.57 EUR (original: 30 EUR) (51.43 %  de descuento) en el siguiente enlace!

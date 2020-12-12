@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 70.60 % en Pour Moi? 36025-Tops de Bikini Mujer Neg'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41S4BmKdouL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41S4BmKdouL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41S4BmKdouL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 25.24 EUR
 inStock: true
 prodname: 'Pour Moi? 36025-Tops de Bikini Mujer Negro Negro  Black  100H'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MA4A07H/?tag=tolees-21'
+descuento: '70.60'
+titulo: 'Pour Moi? 36025-Tops de Bikini Mujer Neg'
 ---
 
 Tienes [Pour Moi? 36025-Tops de Bikini Mujer Negro Negro  Black  100H](https://www.amazon.es/dp/B01MA4A07H/?tag=tolees-21) con un 70.60 % de descuento con precio de oferta de 7.42 EUR (original: 25.24 EUR) en el siguiente enlace!

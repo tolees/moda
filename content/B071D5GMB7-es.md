@@ -3,6 +3,7 @@ layout: post
 title: 'Speedo Fastskin Prime Gafas de natación  al 42.96 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41R437XbMUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41R437XbMUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41R437XbMUL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 70 EUR
 inStock: true
 prodname: 'Speedo Fastskin Prime Gafas de natación  Unisex Adulto  Naranja/Menta/Humo  One Size'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071D5GMB7/?tag=tolees-21'
+descuento: '42.96'
+titulo: 'Speedo Fastskin Prime Gafas de natación '
 ---
 
 Ahora mismo tienes [Speedo Fastskin Prime Gafas de natación  Unisex Adulto  Naranja/Menta/Humo  One Size](https://www.amazon.es/dp/B071D5GMB7/?tag=tolees-21) a 39.93 EUR (original: 70 EUR) (42.96 %  de descuento) en el siguiente enlace!

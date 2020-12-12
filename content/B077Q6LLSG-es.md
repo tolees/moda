@@ -3,6 +3,7 @@ layout: post
 title: 'oodji Ultra Hombre Camisa Entallada de A al 53.45 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51GP0hqjeaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51GP0hqjeaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51GP0hqjeaL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 17.4 EUR
 inStock: true
 prodname: 'oodji Ultra Hombre Camisa Entallada de Algodón  Azul  38cm / ES 44 / XS'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077Q6LLSG/?tag=tolees-21'
+descuento: '53.45'
+titulo: 'oodji Ultra Hombre Camisa Entallada de A'
 ---
 
 Ahora mismo tienes [oodji Ultra Hombre Camisa Entallada de Algodón  Azul  38cm / ES 44 / XS](https://www.amazon.es/dp/B077Q6LLSG/?tag=tolees-21) a 8.1 EUR (original: 17.4 EUR) (53.45 %  de descuento) en el siguiente enlace!

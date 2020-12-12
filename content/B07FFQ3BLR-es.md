@@ -3,6 +3,7 @@ layout: post
 title: 'JACK & JONES Jjimike Jjoriginal Am 771 N al 48.41 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cRC8xgEKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41cRC8xgEKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41cRC8xgEKL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'JACK & JONES Jjimike Jjoriginal Am 771 Noos Vaqueros Relaxed  Azul Blue Denim  W32/L30 para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FFQ3BLR/?tag=tolees-21'
+descuento: '48.41'
+titulo: 'JACK & JONES Jjimike Jjoriginal Am 771 N'
 ---
 
 Está [JACK & JONES Jjimike Jjoriginal Am 771 Noos Vaqueros Relaxed  Azul Blue Denim  W32/L30 para Hombre](https://www.amazon.es/dp/B07FFQ3BLR/?tag=tolees-21) con 48.41 de descuento por 30.95 EUR (original: 59.99 EUR) en el siguiente enlace!

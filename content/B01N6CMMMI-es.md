@@ -3,6 +3,7 @@ layout: post
 title: 'Pepe Jeans Cash Journey  Vaqueros Para H al 79.20 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413fxPjHm1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/413fxPjHm1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413fxPjHm1L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 110 EUR
 inStock: true
 prodname: 'Pepe Jeans Cash Journey  Vaqueros Para Hombre  Azul  Denim- Long   W31  Talla fabricante: 31 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N6CMMMI/?tag=tolees-21'
+descuento: '79.20'
+titulo: 'Pepe Jeans Cash Journey  Vaqueros Para H'
 ---
 
 Está [Pepe Jeans Cash Journey  Vaqueros Para Hombre  Azul  Denim- Long   W31  Talla fabricante: 31 ](https://www.amazon.es/dp/B01N6CMMMI/?tag=tolees-21) con 79.20 de descuento por 22.88 EUR (original: 110 EUR) en el siguiente enlace!

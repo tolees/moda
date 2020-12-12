@@ -3,6 +3,7 @@ layout: post
 title: 'G-Star Tairi R T S/s  Camiseta para Homb al 60.14 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RrXWJZNUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41RrXWJZNUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RrXWJZNUL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 35 EUR
 inStock: true
 prodname: 'G-Star Tairi R T S/s  Camiseta para Hombre   Dark Black  Medium'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07B4SH3DK/?tag=tolees-21'
+descuento: '60.14'
+titulo: 'G-Star Tairi R T S/s  Camiseta para Homb'
 ---
 
 Ahora mismo tienes [G-Star Tairi R T S/s  Camiseta para Hombre   Dark Black  Medium](https://www.amazon.es/dp/B07B4SH3DK/?tag=tolees-21) a 13.95 EUR (original: 35 EUR) (60.14 %  de descuento) en el siguiente enlace!

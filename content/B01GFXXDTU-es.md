@@ -3,6 +3,7 @@ layout: post
 title: 'Geox Donna Euxo  Mocasines para Mujer  M al 68.81 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Pq0BKHCnL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Pq0BKHCnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Pq0BKHCnL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 99.9 EUR
 inStock: true
 prodname: 'Geox Donna Euxo  Mocasines para Mujer  Marrón  Chestnut C6004   36.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01GFXXDTU/?tag=tolees-21'
+descuento: '68.81'
+titulo: 'Geox Donna Euxo  Mocasines para Mujer  M'
 ---
 
 Está [Geox Donna Euxo  Mocasines para Mujer  Marrón  Chestnut C6004   36.5 EU](https://www.amazon.es/dp/B01GFXXDTU/?tag=tolees-21) con 68.81 de descuento por 31.16 EUR (original: 99.9 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Quiksilver Classic Revenge Camiseta  Hom al 46.59 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4184LaBZhwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4184LaBZhwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4184LaBZhwL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 25.99 EUR
 inStock: true
 prodname: 'Quiksilver Classic Revenge Camiseta  Hombre  Anthracite/Solid  M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078WXV4BG/?tag=tolees-21'
+descuento: '46.59'
+titulo: 'Quiksilver Classic Revenge Camiseta  Hom'
 ---
 
 Está [Quiksilver Classic Revenge Camiseta  Hombre  Anthracite/Solid  M](https://www.amazon.es/dp/B078WXV4BG/?tag=tolees-21) con 46.59 de descuento por 13.88 EUR (original: 25.99 EUR) en el siguiente enlace!

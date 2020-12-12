@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 45.80 % en JACK & JONES Jacthomas Trunks Noos Bóxer'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/519xVNPdO6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/519xVNPdO6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/519xVNPdO6L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 12.99 EUR
 inStock: true
 prodname: 'JACK & JONES Jacthomas Trunks Noos Bóxer  Grey Melange  Large para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FQ83D9D/?tag=tolees-21'
+descuento: '45.80'
+titulo: 'JACK & JONES Jacthomas Trunks Noos Bóxer'
 ---
 
 Tienes [JACK & JONES Jacthomas Trunks Noos Bóxer  Grey Melange  Large para Hombre](https://www.amazon.es/dp/B07FQ83D9D/?tag=tolees-21) con un 45.80 % de descuento con precio de oferta de 7.04 EUR (original: 12.99 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 66.53 % en HUGO Dewayne  Sudadera Hombre  Blanco  W'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31jWebuKmiL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31jWebuKmiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31jWebuKmiL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 89.95 EUR
 inStock: true
 prodname: 'HUGO Dewayne  Sudadera Hombre  Blanco  White 100   X-Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07G4GSXV1/?tag=tolees-21'
+descuento: '66.53'
+titulo: 'HUGO Dewayne  Sudadera Hombre  Blanco  W'
 ---
 
 Tienes [HUGO Dewayne  Sudadera Hombre  Blanco  White 100   X-Large](https://www.amazon.es/dp/B07G4GSXV1/?tag=tolees-21) con un 66.53 % de descuento con precio de oferta de 30.11 EUR (original: 89.95 EUR) en el siguiente enlace!

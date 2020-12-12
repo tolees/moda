@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield 3.T.MD.Bandolera Tachas T  B al 52.82 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YlGconTuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41YlGconTuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YlGconTuL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 24.99 EUR
 inStock: true
 prodname: 'Springfield 3.T.MD.Bandolera Tachas T  Bolso Bandolera para Mujer   Gamma Marron '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KYZX1ZK/?tag=tolees-21'
+descuento: '52.82'
+titulo: 'Springfield 3.T.MD.Bandolera Tachas T  B'
 ---
 
 Ahora mismo tienes [Springfield 3.T.MD.Bandolera Tachas T  Bolso Bandolera para Mujer   Gamma Marron ](https://www.amazon.es/dp/B07KYZX1ZK/?tag=tolees-21) a 11.79 EUR (original: 24.99 EUR) (52.82 %  de descuento) en el siguiente enlace!

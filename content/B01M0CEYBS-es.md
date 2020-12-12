@@ -3,6 +3,7 @@ layout: post
 title: 'VERO MODA VMSEBASTIN L/S BOMBER D2-1  Ch al 70.67 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41AZGbCuB2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41AZGbCuB2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41AZGbCuB2L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'VERO MODA VMSEBASTIN L/S BOMBER D2-1  Chaqueta Mujer  Rojo  Poppy Red   38  Talla del fabricante: Medium '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01M0CEYBS/?tag=tolees-21'
+descuento: '70.67'
+titulo: 'VERO MODA VMSEBASTIN L/S BOMBER D2-1  Ch'
 ---
 
 Está [VERO MODA VMSEBASTIN L/S BOMBER D2-1  Chaqueta Mujer  Rojo  Poppy Red   38  Talla del fabricante: Medium ](https://www.amazon.es/dp/B01M0CEYBS/?tag=tolees-21) con 70.67 de descuento por 11.73 EUR (original: 39.99 EUR) en el siguiente enlace!

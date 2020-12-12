@@ -3,6 +3,7 @@ layout: post
 title: 'New Look Check Puffer  Abrigo para Hombr al 67.45 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ky0QCZW6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ky0QCZW6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ky0QCZW6L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 56.09 EUR
 inStock: true
 prodname: 'New Look Check Puffer  Abrigo para Hombre  Azul  Navy  Medium  Talla del Fabricante: 52 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07H8VMR5N/?tag=tolees-21'
+descuento: '67.45'
+titulo: 'New Look Check Puffer  Abrigo para Hombr'
 ---
 
 Ahora mismo tienes [New Look Check Puffer  Abrigo para Hombre  Azul  Navy  Medium  Talla del Fabricante: 52 ](https://www.amazon.es/dp/B07H8VMR5N/?tag=tolees-21) a 18.26 EUR (original: 56.09 EUR) (67.45 %  de descuento) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield 490 C/Block Gg12 Jersey   Ga al 61.56 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pyZxefd9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41pyZxefd9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41pyZxefd9L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 25.99 EUR
 inStock: true
 prodname: 'Springfield 490 C/Block Gg12 Jersey   Gama Azules 11   Medium  Tamaño del Fabricante:M  para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KYQMKJK/?tag=tolees-21'
+descuento: '61.56'
+titulo: 'Springfield 490 C/Block Gg12 Jersey   Ga'
 ---
 
 Está [Springfield 490 C/Block Gg12 Jersey   Gama Azules 11   Medium  Tamaño del Fabricante:M  para Hombre](https://www.amazon.es/dp/B07KYQMKJK/?tag=tolees-21) con 61.56 de descuento por 9.99 EUR (original: 25.99 EUR) en el siguiente enlace!

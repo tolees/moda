@@ -3,6 +3,7 @@ layout: post
 title: 'Jack & Jones NOS Jjiglenn Jjfox Am 795 5 al 74.51 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41A7arBEHxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41A7arBEHxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41A7arBEHxL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'Jack & Jones NOS Jjiglenn Jjfox Am 795 50sps STS Vaqueros Slim  Azul Blue Denim  W28/L32  Talla del Fabricante: 28  para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JQB48CN/?tag=tolees-21'
+descuento: '74.51'
+titulo: 'Jack & Jones NOS Jjiglenn Jjfox Am 795 5'
 ---
 
 Está [Jack & Jones NOS Jjiglenn Jjfox Am 795 50sps STS Vaqueros Slim  Azul Blue Denim  W28/L32  Talla del Fabricante: 28  para Hombre](https://www.amazon.es/dp/B07JQB48CN/?tag=tolees-21) con 74.51 de descuento por 15.29 EUR (original: 59.99 EUR) en el siguiente enlace!

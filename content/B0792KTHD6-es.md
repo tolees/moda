@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 54.09 % en Geox J Arzach Boy C  Zapatillas para Niñ'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zFeiJ3K2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41zFeiJ3K2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zFeiJ3K2L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 59.9 EUR
 inStock: true
 prodname: 'Geox J Arzach Boy C  Zapatillas para Niños   Navy/Grey C0661   32 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0792KTHD6/?tag=tolees-21'
+descuento: '54.09'
+titulo: 'Geox J Arzach Boy C  Zapatillas para Niñ'
 ---
 
 Tienes [Geox J Arzach Boy C  Zapatillas para Niños   Navy/Grey C0661   32 EU](https://www.amazon.es/dp/B0792KTHD6/?tag=tolees-21) con un 54.09 % de descuento con precio de oferta de 27.5 EUR (original: 59.9 EUR) en el siguiente enlace!

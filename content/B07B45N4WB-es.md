@@ -3,6 +3,7 @@ layout: post
 title: 'JACK & JONES Jjitim Jjicon JJ 099 Noos   al 77.86 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YzjnrwmrL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41YzjnrwmrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YzjnrwmrL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 79.99 EUR
 inStock: true
 prodname: 'JACK & JONES Jjitim Jjicon JJ 099 Noos  Vaqueros Slim para Hombre  Azul Blue Denim  W29/L34'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07B45N4WB/?tag=tolees-21'
+descuento: '77.86'
+titulo: 'JACK & JONES Jjitim Jjicon JJ 099 Noos  '
 ---
 
 Ahora mismo tienes [JACK & JONES Jjitim Jjicon JJ 099 Noos  Vaqueros Slim para Hombre  Azul Blue Denim  W29/L34](https://www.amazon.es/dp/B07B45N4WB/?tag=tolees-21) a 17.71 EUR (original: 79.99 EUR) (77.86 %  de descuento) en el siguiente enlace!

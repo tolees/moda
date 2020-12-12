@@ -3,6 +3,7 @@ layout: post
 title: 'Vero Moda Vmsuper Easy 3 SL Short Dress  al 46.13 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31LnC3fDjNL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31LnC3fDjNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31LnC3fDjNL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 34.99 EUR
 inStock: true
 prodname: 'Vero Moda Vmsuper Easy 3 SL Short Dress Vestido  Azul Black Iris  42  Talla del Fabricante: X-Large  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0788C3KRM/?tag=tolees-21'
+descuento: '46.13'
+titulo: 'Vero Moda Vmsuper Easy 3 SL Short Dress '
 ---
 
 Ahora mismo tienes [Vero Moda Vmsuper Easy 3 SL Short Dress Vestido  Azul Black Iris  42  Talla del Fabricante: X-Large  para Mujer](https://www.amazon.es/dp/B0788C3KRM/?tag=tolees-21) a 18.85 EUR (original: 34.99 EUR) (46.13 %  de descuento) en el siguiente enlace!

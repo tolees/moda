@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.23 % en Roxy Viva Glitter IV  Zapatos de Playa y'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Mz9bIc9iL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Mz9bIc9iL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Mz9bIc9iL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'Roxy Viva Glitter IV  Zapatos de Playa y Piscina para Mujer  Rosa  Lt Peach Lpc   38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DYBD5LT/?tag=tolees-21'
+descuento: '50.23'
+titulo: 'Roxy Viva Glitter IV  Zapatos de Playa y'
 ---
 
 Tienes [Roxy Viva Glitter IV  Zapatos de Playa y Piscina para Mujer  Rosa  Lt Peach Lpc   38 EU](https://www.amazon.es/dp/B07DYBD5LT/?tag=tolees-21) con un 50.23 % de descuento con precio de oferta de 9.95 EUR (original: 19.99 EUR) en el siguiente enlace!

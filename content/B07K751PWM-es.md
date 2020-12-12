@@ -3,6 +3,7 @@ layout: post
 title: 'Levi s 510 Skinny Fit  Vaqueros para Hom al 57.32 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jAA4i%2BLlL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41jAA4i%2BLlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jAA4i%2BLlL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 110 EUR
 inStock: true
 prodname: 'Levi s 510 Skinny Fit  Vaqueros para Hombre  Azul  Wobbegong Warp Cool 0869   W33/L30'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K751PWM/?tag=tolees-21'
+descuento: '57.32'
+titulo: 'Levi s 510 Skinny Fit  Vaqueros para Hom'
 ---
 
 Ahora mismo tienes [Levi s 510 Skinny Fit  Vaqueros para Hombre  Azul  Wobbegong Warp Cool 0869   W33/L30](https://www.amazon.es/dp/B07K751PWM/?tag=tolees-21) a 46.95 EUR (original: 110 EUR) (57.32 %  de descuento) en el siguiente enlace!

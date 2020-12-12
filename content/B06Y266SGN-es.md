@@ -3,6 +3,7 @@ layout: post
 title: 'Geox J744FA00077  Zapatos de Cordones Un al 78.04 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tRlyB%2Br7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41tRlyB%2Br7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tRlyB%2Br7L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 69.9 EUR
 inStock: true
 prodname: 'Geox J744FA00077  Zapatos de Cordones Unisex Adulto  Gris  Forest   29 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06Y266SGN/?tag=tolees-21'
+descuento: '78.04'
+titulo: 'Geox J744FA00077  Zapatos de Cordones Un'
 ---
 
 Ahora mismo tienes [Geox J744FA00077  Zapatos de Cordones Unisex Adulto  Gris  Forest   29 EU](https://www.amazon.es/dp/B06Y266SGN/?tag=tolees-21) a 15.35 EUR (original: 69.9 EUR) (78.04 %  de descuento) en el siguiente enlace!

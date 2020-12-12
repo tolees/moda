@@ -3,6 +3,7 @@ layout: post
 title: 'Ultrasport Advanced Loke Chaqueta Inform al 67.02 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nmG3OQCfL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41nmG3OQCfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41nmG3OQCfL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 77.99 EUR
 inStock: true
 prodname: 'Ultrasport Advanced Loke Chaqueta Informal  Acolchada  para Todo el año  Hombre  Negro  S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078GYS6P7/?tag=tolees-21'
+descuento: '67.02'
+titulo: 'Ultrasport Advanced Loke Chaqueta Inform'
 ---
 
 Está [Ultrasport Advanced Loke Chaqueta Informal  Acolchada  para Todo el año  Hombre  Negro  S](https://www.amazon.es/dp/B078GYS6P7/?tag=tolees-21) con 67.02 de descuento por 25.72 EUR (original: 77.99 EUR) en el siguiente enlace!

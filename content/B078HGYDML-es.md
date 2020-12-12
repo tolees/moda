@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 60.74 % en Springfield 6793754 Camisa  Mujer  Azul '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51MYxAMVoHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51MYxAMVoHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51MYxAMVoHL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 24.99 EUR
 inStock: true
 prodname: 'Springfield 6793754 Camisa  Mujer  Azul  Gamma Azules   36  Tamaño del Fabricante:36 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078HGYDML/?tag=tolees-21'
+descuento: '60.74'
+titulo: 'Springfield 6793754 Camisa  Mujer  Azul '
 ---
 
 Tienes [Springfield 6793754 Camisa  Mujer  Azul  Gamma Azules   36  Tamaño del Fabricante:36 ](https://www.amazon.es/dp/B078HGYDML/?tag=tolees-21) con un 60.74 % de descuento con precio de oferta de 9.81 EUR (original: 24.99 EUR) en el siguiente enlace!

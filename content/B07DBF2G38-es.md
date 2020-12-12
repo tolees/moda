@@ -3,6 +3,7 @@ layout: post
 title: 'United Colors of Benetton Heavy Jacket   al 70.15 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-ISpHKanL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41-ISpHKanL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-ISpHKanL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'United Colors of Benetton Heavy Jacket  Chaqueta para Niños  Rojo  Red 015  92  Talla del Fabricante: 1y '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DBF2G38/?tag=tolees-21'
+descuento: '70.15'
+titulo: 'United Colors of Benetton Heavy Jacket  '
 ---
 
 Ahora mismo tienes [United Colors of Benetton Heavy Jacket  Chaqueta para Niños  Rojo  Red 015  92  Talla del Fabricante: 1y ](https://www.amazon.es/dp/B07DBF2G38/?tag=tolees-21) a 20.88 EUR (original: 69.95 EUR) (70.15 %  de descuento) en el siguiente enlace!

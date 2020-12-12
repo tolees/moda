@@ -3,6 +3,7 @@ layout: post
 title: 'Noisy May Nmlucy NW Power Shape Jeans Ba al 76.93 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ctI2rPqEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31ctI2rPqEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ctI2rPqEL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'Noisy May Nmlucy NW Power Shape Jeans Ba076 Noos  Vaqueros Slim Mujer  Negro  Black   W28/L34  Talla del Fabricante: 28 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078HCZ8RN/?tag=tolees-21'
+descuento: '76.93'
+titulo: 'Noisy May Nmlucy NW Power Shape Jeans Ba'
 ---
 
 Ahora mismo tienes [Noisy May Nmlucy NW Power Shape Jeans Ba076 Noos  Vaqueros Slim Mujer  Negro  Black   W28/L34  Talla del Fabricante: 28 ](https://www.amazon.es/dp/B078HCZ8RN/?tag=tolees-21) a 13.84 EUR (original: 59.99 EUR) (76.93 %  de descuento) en el siguiente enlace!

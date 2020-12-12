@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.00 % en HIKARO Sudadera con Print Hombre  Azul  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413te1vvo0L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/413te1vvo0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413te1vvo0L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 26.95 EUR
 inStock: true
 prodname: 'HIKARO Sudadera con Print Hombre  Azul  Navy   54  Talla del fabricante: X-Large '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077YDLL7J/?tag=tolees-21'
+descuento: '40.00'
+titulo: 'HIKARO Sudadera con Print Hombre  Azul  '
 ---
 
 Tienes [HIKARO Sudadera con Print Hombre  Azul  Navy   54  Talla del fabricante: X-Large ](https://www.amazon.es/dp/B077YDLL7J/?tag=tolees-21) con un 40.00 % de descuento con precio de oferta de 16.17 EUR (original: 26.95 EUR) en el siguiente enlace!

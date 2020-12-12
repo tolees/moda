@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 58.38 % en Under Armour Fly by Short Pantalón Corto'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31QoSJ5uglL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31QoSJ5uglL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31QoSJ5uglL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 26 EUR
 inStock: true
 prodname: 'Under Armour Fly by Short Pantalón Corto  Mujer  Naranja  Brilliance/White/Reflective 819   S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072BY3DLG/?tag=tolees-21'
+descuento: '58.38'
+titulo: 'Under Armour Fly by Short Pantalón Corto'
 ---
 
 Tienes [Under Armour Fly by Short Pantalón Corto  Mujer  Naranja  Brilliance/White/Reflective 819   S](https://www.amazon.es/dp/B072BY3DLG/?tag=tolees-21) con un 58.38 % de descuento con precio de oferta de 10.82 EUR (original: 26 EUR) en el siguiente enlace!

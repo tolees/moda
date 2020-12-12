@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 47.73 % en Helly Hansen Crew Chaqueta  Hombre  Grap'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41IFZa3VanL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41IFZa3VanL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41IFZa3VanL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 140 EUR
 inStock: true
 prodname: 'Helly Hansen Crew Chaqueta  Hombre  Graphite Blue  S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F2LXS33/?tag=tolees-21'
+descuento: '47.73'
+titulo: 'Helly Hansen Crew Chaqueta  Hombre  Grap'
 ---
 
 Tienes [Helly Hansen Crew Chaqueta  Hombre  Graphite Blue  S](https://www.amazon.es/dp/B07F2LXS33/?tag=tolees-21) con un 47.73 % de descuento con precio de oferta de 73.18 EUR (original: 140 EUR) en el siguiente enlace!

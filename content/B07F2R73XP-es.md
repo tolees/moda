@@ -3,6 +3,7 @@ layout: post
 title: 'DC Shoes Original Spectrum Chaqueta  Hom al 63.18 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cOX%2BUJwUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41cOX%2BUJwUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41cOX%2BUJwUL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 159.99 EUR
 inStock: true
 prodname: 'DC Shoes Original Spectrum Chaqueta  Hombre  Azul  Insignia Blue   S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F2R73XP/?tag=tolees-21'
+descuento: '63.18'
+titulo: 'DC Shoes Original Spectrum Chaqueta  Hom'
 ---
 
 Está [DC Shoes Original Spectrum Chaqueta  Hombre  Azul  Insignia Blue   S](https://www.amazon.es/dp/B07F2R73XP/?tag=tolees-21) con 63.18 de descuento por 58.91 EUR (original: 159.99 EUR) en el siguiente enlace!

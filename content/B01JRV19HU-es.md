@@ -3,6 +3,7 @@ layout: post
 title: 'Cressi Ninja Floating - Gafas de Sol Pre al 25.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ouWhS7pKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ouWhS7pKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ouWhS7pKL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'Cressi Ninja Floating - Gafas de Sol Premium'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01JRV19HU/?tag=tolees-21'
+descuento: '25.01'
+titulo: 'Cressi Ninja Floating - Gafas de Sol Pre'
 ---
 
 Ahora mismo tienes [Cressi Ninja Floating - Gafas de Sol Premium](https://www.amazon.es/dp/B01JRV19HU/?tag=tolees-21) a 14.99 EUR (original: 19.99 EUR) (25.01 %  de descuento) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Love Moschino Zipper Sleeveless Dress  V al 74.25 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/3123ZErjQPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/3123ZErjQPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/3123ZErjQPL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 284 EUR
 inStock: true
 prodname: 'Love Moschino Zipper Sleeveless Dress  Vestido para Mujer  Negro  Black C74  42  Talla del Fabricante: 44 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CFYRMYF/?tag=tolees-21'
+descuento: '74.25'
+titulo: 'Love Moschino Zipper Sleeveless Dress  V'
 ---
 
 Está [Love Moschino Zipper Sleeveless Dress  Vestido para Mujer  Negro  Black C74  42  Talla del Fabricante: 44 ](https://www.amazon.es/dp/B07CFYRMYF/?tag=tolees-21) con 74.25 de descuento por 73.12 EUR (original: 284 EUR) en el siguiente enlace!

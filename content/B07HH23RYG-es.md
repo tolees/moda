@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 52.95 % en Tommy Jeans Hombre  Scanton  Vaqueros sl'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YMVQvofXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41YMVQvofXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YMVQvofXL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 99.9 EUR
 inStock: true
 prodname: 'Tommy Jeans Hombre  Scanton  Vaqueros slim   Azul  Cobalt Light Bl St 911  W38/L34  Talla del fabricante: 3438 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HH23RYG/?tag=tolees-21'
+descuento: '52.95'
+titulo: 'Tommy Jeans Hombre  Scanton  Vaqueros sl'
 ---
 
 Tienes [Tommy Jeans Hombre  Scanton  Vaqueros slim   Azul  Cobalt Light Bl St 911  W38/L34  Talla del fabricante: 3438 ](https://www.amazon.es/dp/B07HH23RYG/?tag=tolees-21) con un 52.95 % de descuento con precio de oferta de 47 EUR (original: 99.9 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Fendi FF 0086/S 3U HK5  Gafas de sol par al 44.98 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31VBNFFBaML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31VBNFFBaML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31VBNFFBaML._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 297 EUR
 inStock: true
 prodname: 'Fendi FF 0086/S 3U HK5  Gafas de sol para Mujer  Azul  Spttdhv Bluette/Khaki Grey Speckled Blue  53'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00VXVT2SG/?tag=tolees-21'
+descuento: '44.98'
+titulo: 'Fendi FF 0086/S 3U HK5  Gafas de sol par'
 ---
 
 Ahora mismo tienes [Fendi FF 0086/S 3U HK5  Gafas de sol para Mujer  Azul  Spttdhv Bluette/Khaki Grey Speckled Blue  53](https://www.amazon.es/dp/B00VXVT2SG/?tag=tolees-21) a 163.41 EUR (original: 297 EUR) (44.98 %  de descuento) en el siguiente enlace!

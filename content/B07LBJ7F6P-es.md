@@ -3,6 +3,7 @@ layout: post
 title: 'Love Moschino - Borsa Soft Grain Pu  Bol al 63.17 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31TvfEWLe6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31TvfEWLe6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31TvfEWLe6L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 194.4 EUR
 inStock: true
 prodname: 'Love Moschino - Borsa Soft Grain Pu  Bolso de mano Mujer  Beige  Naturale   12x27x37 cm  W x H L '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07LBJ7F6P/?tag=tolees-21'
+descuento: '63.17'
+titulo: 'Love Moschino - Borsa Soft Grain Pu  Bol'
 ---
 
 Ahora mismo tienes [Love Moschino - Borsa Soft Grain Pu  Bolso de mano Mujer  Beige  Naturale   12x27x37 cm  W x H L ](https://www.amazon.es/dp/B07LBJ7F6P/?tag=tolees-21) a 71.6 EUR (original: 194.4 EUR) (63.17 %  de descuento) en el siguiente enlace!

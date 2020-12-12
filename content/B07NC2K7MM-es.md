@@ -3,6 +3,7 @@ layout: post
 title: 'Tous Clutch Carlata Plata-Rosa  Bolso de al 30.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PItKNqcML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41PItKNqcML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PItKNqcML._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 69 EUR
 inStock: true
 prodname: 'Tous Clutch Carlata Plata-Rosa  Bolso de Mano para Mujer  Plateado  29x19x1 cm  W x H x L '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07NC2K7MM/?tag=tolees-21'
+descuento: '30.00'
+titulo: 'Tous Clutch Carlata Plata-Rosa  Bolso de'
 ---
 
 Está [Tous Clutch Carlata Plata-Rosa  Bolso de Mano para Mujer  Plateado  29x19x1 cm  W x H x L ](https://www.amazon.es/dp/B07NC2K7MM/?tag=tolees-21) con 30.00 de descuento por 48.3 EUR (original: 69 EUR) en el siguiente enlace!

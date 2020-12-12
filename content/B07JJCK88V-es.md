@@ -3,6 +3,7 @@ layout: post
 title: 'Armani Exchange J01 Super Skinny Indigo  al 47.38 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41FnEPzt6JL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41FnEPzt6JL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41FnEPzt6JL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 115 EUR
 inStock: true
 prodname: 'Armani Exchange J01 Super Skinny Indigo Denim Vaqueros  Azul 1500  W24/L32  Talla del Fabricante: 24  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JJCK88V/?tag=tolees-21'
+descuento: '47.38'
+titulo: 'Armani Exchange J01 Super Skinny Indigo '
 ---
 
 Ahora mismo tienes [Armani Exchange J01 Super Skinny Indigo Denim Vaqueros  Azul 1500  W24/L32  Talla del Fabricante: 24  para Mujer](https://www.amazon.es/dp/B07JJCK88V/?tag=tolees-21) a 60.51 EUR (original: 115 EUR) (47.38 %  de descuento) en el siguiente enlace!

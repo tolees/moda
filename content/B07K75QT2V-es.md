@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 49.20 % en Levi s 511 Slim Fit  Vaqueros para Hombr'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41VU7ZZJf0L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41VU7ZZJf0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41VU7ZZJf0L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 110 EUR
 inStock: true
 prodname: 'Levi s 511 Slim Fit  Vaqueros para Hombre  Azul  Make Warp Cool 3298   36W / 32L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K75QT2V/?tag=tolees-21'
+descuento: '49.20'
+titulo: 'Levi s 511 Slim Fit  Vaqueros para Hombr'
 ---
 
 Tienes [Levi s 511 Slim Fit  Vaqueros para Hombre  Azul  Make Warp Cool 3298   36W / 32L](https://www.amazon.es/dp/B07K75QT2V/?tag=tolees-21) con un 49.20 % de descuento con precio de oferta de 55.88 EUR (original: 110 EUR) en el siguiente enlace!

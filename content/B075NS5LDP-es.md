@@ -3,6 +3,7 @@ layout: post
 title: 'Gore Wear C5 Pantalón Corto Tirantes  Mu al 40.85 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419Osf6uxML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/419Osf6uxML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419Osf6uxML._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 109.95 EUR
 inStock: true
 prodname: 'Gore Wear C5 Pantalón Corto Tirantes  Mujer  Negro  34'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075NS5LDP/?tag=tolees-21'
+descuento: '40.85'
+titulo: 'Gore Wear C5 Pantalón Corto Tirantes  Mu'
 ---
 
 Ahora mismo tienes [Gore Wear C5 Pantalón Corto Tirantes  Mujer  Negro  34](https://www.amazon.es/dp/B075NS5LDP/?tag=tolees-21) a 65.03 EUR (original: 109.95 EUR) (40.85 %  de descuento) en el siguiente enlace!

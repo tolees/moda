@@ -3,6 +3,7 @@ layout: post
 title: 'XTI 32032  Zapatos con Tira de Tobillo p al 49.81 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yaZ5a%2BGSL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41yaZ5a%2BGSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yaZ5a%2BGSL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 39.95 EUR
 inStock: true
 prodname: 'XTI 32032  Zapatos con Tira de Tobillo para Mujer  Marrón Taupe  38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JLS6BY1/?tag=tolees-21'
+descuento: '49.81'
+titulo: 'XTI 32032  Zapatos con Tira de Tobillo p'
 ---
 
 Ahora mismo tienes [XTI 32032  Zapatos con Tira de Tobillo para Mujer  Marrón Taupe  38 EU](https://www.amazon.es/dp/B07JLS6BY1/?tag=tolees-21) a 20.05 EUR (original: 39.95 EUR) (49.81 %  de descuento) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield 4.2.J.Ap.T.Studs Print Jerse al 60.62 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mFdMQPIHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41mFdMQPIHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mFdMQPIHL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 24.99 EUR
 inStock: true
 prodname: 'Springfield 4.2.J.Ap.T.Studs Print Jersey   Gris Oscuro 40   Medium  Tamaño del Fabricante:M  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DLLJWGS/?tag=tolees-21'
+descuento: '60.62'
+titulo: 'Springfield 4.2.J.Ap.T.Studs Print Jerse'
 ---
 
 Está [Springfield 4.2.J.Ap.T.Studs Print Jersey   Gris Oscuro 40   Medium  Tamaño del Fabricante:M  para Mujer](https://www.amazon.es/dp/B07DLLJWGS/?tag=tolees-21) con 60.62 de descuento por 9.84 EUR (original: 24.99 EUR) en el siguiente enlace!

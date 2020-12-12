@@ -3,6 +3,7 @@ layout: post
 title: 'Clarks Batcombe Wing  Zapatos de Cordone al 25.30 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MsQ8IDphL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41MsQ8IDphL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41MsQ8IDphL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 110 EUR
 inStock: true
 prodname: 'Clarks Batcombe Wing  Zapatos de Cordones Derby para Hombre  Marrón  Tan Leather-   39.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FRBX9B7/?tag=tolees-21'
+descuento: '25.30'
+titulo: 'Clarks Batcombe Wing  Zapatos de Cordone'
 ---
 
 Ahora mismo tienes [Clarks Batcombe Wing  Zapatos de Cordones Derby para Hombre  Marrón  Tan Leather-   39.5 EU](https://www.amazon.es/dp/B07FRBX9B7/?tag=tolees-21) a 82.17 EUR (original: 110 EUR) (25.30 %  de descuento) en el siguiente enlace!

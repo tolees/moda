@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 34.24 % en Tommy Hilfiger Badge Textile Beach Sanda'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tp06HeHbL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41tp06HeHbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tp06HeHbL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 34.9 EUR
 inStock: true
 prodname: 'Tommy Hilfiger Badge Textile Beach Sandal  Chanclas para Hombre  Negro  Black 990   40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07L36CPM5/?tag=tolees-21'
+descuento: '34.24'
+titulo: 'Tommy Hilfiger Badge Textile Beach Sanda'
 ---
 
 Tienes [Tommy Hilfiger Badge Textile Beach Sandal  Chanclas para Hombre  Negro  Black 990   40 EU](https://www.amazon.es/dp/B07L36CPM5/?tag=tolees-21) con un 34.24 % de descuento con precio de oferta de 22.95 EUR (original: 34.9 EUR) en el siguiente enlace!

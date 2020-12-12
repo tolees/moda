@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 60.98 % en Esprit 057ee1k045  Camiseta Mujer   Navy'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HTpuKq3qL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41HTpuKq3qL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HTpuKq3qL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'Esprit 057ee1k045  Camiseta Mujer   Navy   34  Talla del Fabricante: X-Small '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06VVMKKFM/?tag=tolees-21'
+descuento: '60.98'
+titulo: 'Esprit 057ee1k045  Camiseta Mujer   Navy'
 ---
 
 Tienes [Esprit 057ee1k045  Camiseta Mujer   Navy   34  Talla del Fabricante: X-Small ](https://www.amazon.es/dp/B06VVMKKFM/?tag=tolees-21) con un 60.98 % de descuento con precio de oferta de 7.8 EUR (original: 19.99 EUR) en el siguiente enlace!

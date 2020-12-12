@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 55.94 % en Cortefiel Rayas Camisa Casual  Gama Azul'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51C0tJmSKyL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51C0tJmSKyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51C0tJmSKyL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'Cortefiel Rayas Camisa Casual  Gama Azules 12  Medium  Tamaño del Fabricante:6  para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078WTJCXW/?tag=tolees-21'
+descuento: '55.94'
+titulo: 'Cortefiel Rayas Camisa Casual  Gama Azul'
 ---
 
 Tienes [Cortefiel Rayas Camisa Casual  Gama Azules 12  Medium  Tamaño del Fabricante:6  para Hombre](https://www.amazon.es/dp/B078WTJCXW/?tag=tolees-21) con un 55.94 % de descuento con precio de oferta de 26.43 EUR (original: 59.99 EUR) en el siguiente enlace!

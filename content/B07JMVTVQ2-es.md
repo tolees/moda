@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 35.78 % en Lacoste Ramc102  Bóxer Hombre  Azul  Nav'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Ul4ZeDYlL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Ul4ZeDYlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Ul4ZeDYlL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 45 EUR
 inStock: true
 prodname: 'Lacoste Ramc102  Bóxer Hombre  Azul  Navy/Bluecrl/Gy 465   Medium  pack de 3'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JMVTVQ2/?tag=tolees-21'
+descuento: '35.78'
+titulo: 'Lacoste Ramc102  Bóxer Hombre  Azul  Nav'
 ---
 
 Tienes [Lacoste Ramc102  Bóxer Hombre  Azul  Navy/Bluecrl/Gy 465   Medium  pack de 3](https://www.amazon.es/dp/B07JMVTVQ2/?tag=tolees-21) con un 35.78 % de descuento con precio de oferta de 28.9 EUR (original: 45 EUR) en el siguiente enlace!

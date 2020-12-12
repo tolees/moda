@@ -3,6 +3,7 @@ layout: post
 title: 'JACK & JONES PREMIUM Jprfred Arctic Park al 80.31 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418Jc%2BQugnL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/418Jc%2BQugnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418Jc%2BQugnL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 139.99 EUR
 inStock: true
 prodname: 'JACK & JONES PREMIUM Jprfred Arctic Parka STS  Hombre  Marrón  Fudge  XX-Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F928TFP/?tag=tolees-21'
+descuento: '80.31'
+titulo: 'JACK & JONES PREMIUM Jprfred Arctic Park'
 ---
 
 Ahora mismo tienes [JACK & JONES PREMIUM Jprfred Arctic Parka STS  Hombre  Marrón  Fudge  XX-Large](https://www.amazon.es/dp/B07F928TFP/?tag=tolees-21) a 27.57 EUR (original: 139.99 EUR) (80.31 %  de descuento) en el siguiente enlace!

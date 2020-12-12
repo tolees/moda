@@ -3,6 +3,7 @@ layout: post
 title: 'The North Face Wicker Graphic Camiseta   al 49.63 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ccKFbniUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ccKFbniUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ccKFbniUL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 40 EUR
 inStock: true
 prodname: 'The North Face Wicker Graphic Camiseta  Hombre  Azul  Urban Navy Heather/TNF White   S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07M59M8XF/?tag=tolees-21'
+descuento: '49.63'
+titulo: 'The North Face Wicker Graphic Camiseta  '
 ---
 
 Ahora mismo tienes [The North Face Wicker Graphic Camiseta  Hombre  Azul  Urban Navy Heather/TNF White   S](https://www.amazon.es/dp/B07M59M8XF/?tag=tolees-21) a 20.15 EUR (original: 40 EUR) (49.63 %  de descuento) en el siguiente enlace!

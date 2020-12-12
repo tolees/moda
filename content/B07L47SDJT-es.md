@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.00 % en AURIQUE Bal009 Camiseta Deportiva Mujer '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31qyMBXYPnL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31qyMBXYPnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31qyMBXYPnL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 18 EUR
 inStock: true
 prodname: 'AURIQUE Bal009 Camiseta Deportiva Mujer  Negro  Black/Rumba Red   40  Talla del fabricante: Medium '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07L47SDJT/?tag=tolees-21'
+descuento: '30.00'
+titulo: 'AURIQUE Bal009 Camiseta Deportiva Mujer '
 ---
 
 Tienes [AURIQUE Bal009 Camiseta Deportiva Mujer  Negro  Black/Rumba Red   40  Talla del fabricante: Medium ](https://www.amazon.es/dp/B07L47SDJT/?tag=tolees-21) con un 30.00 % de descuento con precio de oferta de 12.6 EUR (original: 18 EUR) en el siguiente enlace!

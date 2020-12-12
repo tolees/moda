@@ -3,6 +3,7 @@ layout: post
 title: 'Eastpak Buddy Bolso Bandolera  18 cm  0. al 53.96 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/5191l8digbL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/5191l8digbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/5191l8digbL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 25 EUR
 inStock: true
 prodname: 'Eastpak Buddy Bolso Bandolera  18 cm  0.5 Liters  Turquesa  Brize Surf '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DP3MC3J/?tag=tolees-21'
+descuento: '53.96'
+titulo: 'Eastpak Buddy Bolso Bandolera  18 cm  0.'
 ---
 
 Está [Eastpak Buddy Bolso Bandolera  18 cm  0.5 Liters  Turquesa  Brize Surf ](https://www.amazon.es/dp/B07DP3MC3J/?tag=tolees-21) con 53.96 de descuento por 11.51 EUR (original: 25 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Blend 20705324  Camiseta para Hombre  Az al 49.97 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41NoqL6xWTL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41NoqL6xWTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41NoqL6xWTL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 14.95 EUR
 inStock: true
 prodname: 'Blend 20705324  Camiseta para Hombre  Azul  Denim Blue   Large  Tamaño del Fabricante:L '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0752KZG8H/?tag=tolees-21'
+descuento: '49.97'
+titulo: 'Blend 20705324  Camiseta para Hombre  Az'
 ---
 
 Está [Blend 20705324  Camiseta para Hombre  Azul  Denim Blue   Large  Tamaño del Fabricante:L ](https://www.amazon.es/dp/B0752KZG8H/?tag=tolees-21) con 49.97 de descuento por 7.48 EUR (original: 14.95 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 69.50 % en Joma Crew Camiseta de Manga Corta  Hombr'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31dAm-QpXqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31dAm-QpXqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31dAm-QpXqL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 12.95 EUR
 inStock: true
 prodname: 'Joma Crew Camiseta de Manga Corta  Hombre  Verde  S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00VWYIC9E/?tag=tolees-21'
+descuento: '69.50'
+titulo: 'Joma Crew Camiseta de Manga Corta  Hombr'
 ---
 
 Tienes [Joma Crew Camiseta de Manga Corta  Hombre  Verde  S](https://www.amazon.es/dp/B00VWYIC9E/?tag=tolees-21) con un 69.50 % de descuento con precio de oferta de 3.95 EUR (original: 12.95 EUR) en el siguiente enlace!

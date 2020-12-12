@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 55.00 % en G-STAR Defend - Vaqueros para hombre  Ac'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41NOVv3bhjL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41NOVv3bhjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41NOVv3bhjL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'G-STAR Defend - Vaqueros para hombre  Accel Stretch In Medium Aged  W30/L32  talla fabricante: 30/32 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00MUJ3DJO/?tag=tolees-21'
+descuento: '55.00'
+titulo: 'G-STAR Defend - Vaqueros para hombre  Ac'
 ---
 
 Tienes [G-STAR Defend - Vaqueros para hombre  Accel Stretch In Medium Aged  W30/L32  talla fabricante: 30/32 ](https://www.amazon.es/dp/B00MUJ3DJO/?tag=tolees-21) con un 55.00 % de descuento con precio de oferta de 44.98 EUR (original: 99.95 EUR) en el siguiente enlace!

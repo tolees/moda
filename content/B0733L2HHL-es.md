@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 75.09 % en Puma Evotrg Vent Thermo-R Chaqueta  Homb'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416rzbTW2fL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/416rzbTW2fL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416rzbTW2fL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 89.95 EUR
 inStock: true
 prodname: 'Puma Evotrg Vent Thermo-R Chaqueta  Hombre  Negro  M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0733L2HHL/?tag=tolees-21'
+descuento: '75.09'
+titulo: 'Puma Evotrg Vent Thermo-R Chaqueta  Homb'
 ---
 
 Tienes [Puma Evotrg Vent Thermo-R Chaqueta  Hombre  Negro  M](https://www.amazon.es/dp/B0733L2HHL/?tag=tolees-21) con un 75.09 % de descuento con precio de oferta de 22.41 EUR (original: 89.95 EUR) en el siguiente enlace!

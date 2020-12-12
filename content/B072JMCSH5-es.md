@@ -3,6 +3,7 @@ layout: post
 title: 'FIND DC3375S vaqueros mujer cintura alta al 45.10 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41c5B0GnwgL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41c5B0GnwgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41c5B0GnwgL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 30 EUR
 inStock: true
 prodname: 'FIND DC3375S vaqueros mujer cintura alta   Azul  Mid Wash   W26/L32  Talla del Fabricante: 36 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072JMCSH5/?tag=tolees-21'
+descuento: '45.10'
+titulo: 'FIND DC3375S vaqueros mujer cintura alta'
 ---
 
 Ahora mismo tienes [FIND DC3375S vaqueros mujer cintura alta   Azul  Mid Wash   W26/L32  Talla del Fabricante: 36 ](https://www.amazon.es/dp/B072JMCSH5/?tag=tolees-21) a 16.47 EUR (original: 30 EUR) (45.10 %  de descuento) en el siguiente enlace!

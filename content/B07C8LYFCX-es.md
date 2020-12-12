@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 57.79 % en Arnette 0AN4227 01/22 57 Gafas de sol Ne'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31I5qehBmVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31I5qehBmVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31I5qehBmVL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 120 EUR
 inStock: true
 prodname: 'Arnette 0AN4227 01/22 57 Gafas de sol Negro  Matte Black/Polardarkgreymirrorwater   Unisex Adulto'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07C8LYFCX/?tag=tolees-21'
+descuento: '57.79'
+titulo: 'Arnette 0AN4227 01/22 57 Gafas de sol Ne'
 ---
 
 Tienes [Arnette 0AN4227 01/22 57 Gafas de sol Negro  Matte Black/Polardarkgreymirrorwater   Unisex Adulto](https://www.amazon.es/dp/B07C8LYFCX/?tag=tolees-21) con un 57.79 % de descuento con precio de oferta de 50.65 EUR (original: 120 EUR) en el siguiente enlace!

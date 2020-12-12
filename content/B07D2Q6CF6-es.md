@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 57.13 % en Gant G1. Banker Bow Blouse  Camisa Mujer'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Pda1jmrHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Pda1jmrHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Pda1jmrHL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 139 EUR
 inStock: true
 prodname: 'Gant G1. Banker Bow Blouse  Camisa Mujer  Rosa  California Pink   42  Talla del Fabricante: 40 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D2Q6CF6/?tag=tolees-21'
+descuento: '57.13'
+titulo: 'Gant G1. Banker Bow Blouse  Camisa Mujer'
 ---
 
 Tienes [Gant G1. Banker Bow Blouse  Camisa Mujer  Rosa  California Pink   42  Talla del Fabricante: 40 ](https://www.amazon.es/dp/B07D2Q6CF6/?tag=tolees-21) con un 57.13 % de descuento con precio de oferta de 59.59 EUR (original: 139 EUR) en el siguiente enlace!

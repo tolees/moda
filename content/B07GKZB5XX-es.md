@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 61.10 % en Levi s LS Waffle Crewneck  Sudadera para'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Eu8bOkpwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31Eu8bOkpwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Eu8bOkpwL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 50 EUR
 inStock: true
 prodname: 'Levi s LS Waffle Crewneck  Sudadera para Hombre  Gris  Medium Grey Heather 0000  Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GKZB5XX/?tag=tolees-21'
+descuento: '61.10'
+titulo: 'Levi s LS Waffle Crewneck  Sudadera para'
 ---
 
 Tienes [Levi s LS Waffle Crewneck  Sudadera para Hombre  Gris  Medium Grey Heather 0000  Large](https://www.amazon.es/dp/B07GKZB5XX/?tag=tolees-21) con un 61.10 % de descuento con precio de oferta de 19.45 EUR (original: 50 EUR) en el siguiente enlace!

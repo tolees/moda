@@ -3,6 +3,7 @@ layout: post
 title: 'JACK & JONES VINTAGE JJVSEBASTIAN LS GRA al 48.14 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YC2foC88L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41YC2foC88L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YC2foC88L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 24.95 EUR
 inStock: true
 prodname: 'JACK & JONES VINTAGE JJVSEBASTIAN LS GRANDDAD NOOS  Camisa Manga Larga Hombre  Verde  Capers   Medium'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MG4FYEE/?tag=tolees-21'
+descuento: '48.14'
+titulo: 'JACK & JONES VINTAGE JJVSEBASTIAN LS GRA'
 ---
 
 Ahora mismo tienes [JACK & JONES VINTAGE JJVSEBASTIAN LS GRANDDAD NOOS  Camisa Manga Larga Hombre  Verde  Capers   Medium](https://www.amazon.es/dp/B01MG4FYEE/?tag=tolees-21) a 12.94 EUR (original: 24.95 EUR) (48.14 %  de descuento) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'BOSS Biado R Camisa  Rojo  Dark Red 607  al 58.08 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415XB22DEVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/415XB22DEVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415XB22DEVL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'BOSS Biado R Camisa  Rojo  Dark Red 607   Medium para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CHWCSVH/?tag=tolees-21'
+descuento: '58.08'
+titulo: 'BOSS Biado R Camisa  Rojo  Dark Red 607 '
 ---
 
 Está [BOSS Biado R Camisa  Rojo  Dark Red 607   Medium para Hombre](https://www.amazon.es/dp/B07CHWCSVH/?tag=tolees-21) con 58.08 de descuento por 41.9 EUR (original: 99.95 EUR) en el siguiente enlace!

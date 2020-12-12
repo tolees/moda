@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 59.30 % en Trucco TT06BH1 Camiseta  Mujer  Verde  V'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BHC8udFcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41BHC8udFcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BHC8udFcL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 29.95 EUR
 inStock: true
 prodname: 'Trucco TT06BH1 Camiseta  Mujer  Verde  Verde Oscuro   Small  Tamaño del Fabricante:S '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078GNYNST/?tag=tolees-21'
+descuento: '59.30'
+titulo: 'Trucco TT06BH1 Camiseta  Mujer  Verde  V'
 ---
 
 Tienes [Trucco TT06BH1 Camiseta  Mujer  Verde  Verde Oscuro   Small  Tamaño del Fabricante:S ](https://www.amazon.es/dp/B078GNYNST/?tag=tolees-21) con un 59.30 % de descuento con precio de oferta de 12.19 EUR (original: 29.95 EUR) en el siguiente enlace!

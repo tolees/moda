@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 32.05 % en Umbro Freedom Chaqueta  Hombre  Rojo  XL'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41J1Eh6cV5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41J1Eh6cV5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41J1Eh6cV5L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 22 EUR
 inStock: true
 prodname: 'Umbro Freedom Chaqueta  Hombre  Rojo  XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N8XJLGJ/?tag=tolees-21'
+descuento: '32.05'
+titulo: 'Umbro Freedom Chaqueta  Hombre  Rojo  XL'
 ---
 
 Tienes [Umbro Freedom Chaqueta  Hombre  Rojo  XL](https://www.amazon.es/dp/B01N8XJLGJ/?tag=tolees-21) con un 32.05 % de descuento con precio de oferta de 14.95 EUR (original: 22 EUR) en el siguiente enlace!

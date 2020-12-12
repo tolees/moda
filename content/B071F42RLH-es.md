@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour HG Armour Mesh Back Tank Ca al 45.13 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41g6wWlYeKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41g6wWlYeKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41g6wWlYeKL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 30 EUR
 inStock: true
 prodname: 'Under Armour HG Armour Mesh Back Tank Camiseta sin Mangas  Mujer  Negro  001   M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071F42RLH/?tag=tolees-21'
+descuento: '45.13'
+titulo: 'Under Armour HG Armour Mesh Back Tank Ca'
 ---
 
 Ahora mismo tienes [Under Armour HG Armour Mesh Back Tank Camiseta sin Mangas  Mujer  Negro  001   M](https://www.amazon.es/dp/B071F42RLH/?tag=tolees-21) a 16.46 EUR (original: 30 EUR) (45.13 %  de descuento) en el siguiente enlace!

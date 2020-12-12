@@ -3,6 +3,7 @@ layout: post
 title: 'Superdry Vintage Logo Panel Stripe Crew  al 70.57 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419Z0GmInnL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/419Z0GmInnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419Z0GmInnL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 75 EUR
 inStock: true
 prodname: 'Superdry Vintage Logo Panel Stripe Crew  Sudadera para Hombre  Verde  Pitch Green 13e   X-Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FMXTWHY/?tag=tolees-21'
+descuento: '70.57'
+titulo: 'Superdry Vintage Logo Panel Stripe Crew '
 ---
 
 Está [Superdry Vintage Logo Panel Stripe Crew  Sudadera para Hombre  Verde  Pitch Green 13e   X-Large](https://www.amazon.es/dp/B07FMXTWHY/?tag=tolees-21) con 70.57 de descuento por 22.07 EUR (original: 75 EUR) en el siguiente enlace!

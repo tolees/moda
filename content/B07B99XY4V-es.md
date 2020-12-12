@@ -3,6 +3,7 @@ layout: post
 title: 'Clarks Komuter Spark  Zapatos de Cordone al 37.52 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41U7eFsO5YL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41U7eFsO5YL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41U7eFsO5YL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 79.95 EUR
 inStock: true
 prodname: 'Clarks Komuter Spark  Zapatos de Cordones Derby para Hombre  Gris  Dark Grey   41.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07B99XY4V/?tag=tolees-21'
+descuento: '37.52'
+titulo: 'Clarks Komuter Spark  Zapatos de Cordone'
 ---
 
 Ahora mismo tienes [Clarks Komuter Spark  Zapatos de Cordones Derby para Hombre  Gris  Dark Grey   41.5 EU](https://www.amazon.es/dp/B07B99XY4V/?tag=tolees-21) a 49.95 EUR (original: 79.95 EUR) (37.52 %  de descuento) en el siguiente enlace!

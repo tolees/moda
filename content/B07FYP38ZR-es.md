@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.00 % en Lee Western Shirt  Camisa para Hombre  M'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/514MCJAztML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/514MCJAztML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/514MCJAztML._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 65 EUR
 inStock: true
 prodname: 'Lee Western Shirt  Camisa para Hombre  Marfil  Bright Red EF  Small'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FYP38ZR/?tag=tolees-21'
+descuento: '50.00'
+titulo: 'Lee Western Shirt  Camisa para Hombre  M'
 ---
 
 Tienes [Lee Western Shirt  Camisa para Hombre  Marfil  Bright Red EF  Small](https://www.amazon.es/dp/B07FYP38ZR/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 32.5 EUR (original: 65 EUR) en el siguiente enlace!

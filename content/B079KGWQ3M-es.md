@@ -3,6 +3,7 @@ layout: post
 title: 'Lee Daren Zip Fly Vaqueros rectors Recto al 43.78 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41SkBWzdh1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41SkBWzdh1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41SkBWzdh1L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 79.95 EUR
 inStock: true
 prodname: 'Lee Daren Zip Fly Vaqueros rectors Rectos  Azul  Light Blue Worn Vp   34W/32L para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079KGWQ3M/?tag=tolees-21'
+descuento: '43.78'
+titulo: 'Lee Daren Zip Fly Vaqueros rectors Recto'
 ---
 
 Está [Lee Daren Zip Fly Vaqueros rectors Rectos  Azul  Light Blue Worn Vp   34W/32L para Hombre](https://www.amazon.es/dp/B079KGWQ3M/?tag=tolees-21) con 43.78 de descuento por 44.95 EUR (original: 79.95 EUR) en el siguiente enlace!

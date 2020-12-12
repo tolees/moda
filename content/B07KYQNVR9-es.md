@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield 6BA Mao Tira Oxford  Jersey  al 53.10 % de descuento'
 date: 
 thumbnailImage: ''
+image: ''
 images: [ '' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 25.99 EUR
 inStock: true
 prodname: 'Springfield 6BA Mao Tira Oxford  Jersey para Hombre   Blanco 99   X-Large  Tamaño del Fabricante:XL '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KYQNVR9/?tag=tolees-21'
+descuento: '53.10'
+titulo: 'Springfield 6BA Mao Tira Oxford  Jersey '
 ---
 
 Está [Springfield 6BA Mao Tira Oxford  Jersey para Hombre   Blanco 99   X-Large  Tamaño del Fabricante:XL ](https://www.amazon.es/dp/B07KYQNVR9/?tag=tolees-21) con 53.10 de descuento por 12.19 EUR (original: 25.99 EUR) en el siguiente enlace!

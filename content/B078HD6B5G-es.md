@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield 6793762  Camisa para Mujer   al 51.66 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51xkp%2BDOwgL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51xkp%2BDOwgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51xkp%2BDOwgL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 24.99 EUR
 inStock: true
 prodname: 'Springfield 6793762  Camisa para Mujer   Varios    Tamaño del Fabricante:36 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078HD6B5G/?tag=tolees-21'
+descuento: '51.66'
+titulo: 'Springfield 6793762  Camisa para Mujer  '
 ---
 
 Ahora mismo tienes [Springfield 6793762  Camisa para Mujer   Varios    Tamaño del Fabricante:36 ](https://www.amazon.es/dp/B078HD6B5G/?tag=tolees-21) a 12.08 EUR (original: 24.99 EUR) (51.66 %  de descuento) en el siguiente enlace!

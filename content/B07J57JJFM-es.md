@@ -3,6 +3,7 @@ layout: post
 title: 'IRIS & LILLY Kt106 bañadores  Negro  Bla al 30.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31sErhnecIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31sErhnecIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31sErhnecIL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 22.99 EUR
 inStock: true
 prodname: 'IRIS & LILLY Kt106 bañadores  Negro  Black   38  Talla del fabricante: Small '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07J57JJFM/?tag=tolees-21'
+descuento: '30.01'
+titulo: 'IRIS & LILLY Kt106 bañadores  Negro  Bla'
 ---
 
 Está [IRIS & LILLY Kt106 bañadores  Negro  Black   38  Talla del fabricante: Small ](https://www.amazon.es/dp/B07J57JJFM/?tag=tolees-21) con 30.01 de descuento por 16.09 EUR (original: 22.99 EUR) en el siguiente enlace!

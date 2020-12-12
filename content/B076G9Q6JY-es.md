@@ -3,6 +3,7 @@ layout: post
 title: 'Pepe Jeans Hatch  Vaqueros Slim para Hom al 60.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tlfRs-sZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41tlfRs-sZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tlfRs-sZL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 89.9 EUR
 inStock: true
 prodname: 'Pepe Jeans Hatch  Vaqueros Slim para Hombre  Azul  Denim Tru Blu Dark CE7   W31/L32'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076G9Q6JY/?tag=tolees-21'
+descuento: '60.00'
+titulo: 'Pepe Jeans Hatch  Vaqueros Slim para Hom'
 ---
 
 Está [Pepe Jeans Hatch  Vaqueros Slim para Hombre  Azul  Denim Tru Blu Dark CE7   W31/L32](https://www.amazon.es/dp/B076G9Q6JY/?tag=tolees-21) con 60.00 de descuento por 35.96 EUR (original: 89.9 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Lee Slim Western Blusa  Azul  Heather Bl al 49.97 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qVRVnC4gL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41qVRVnC4gL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qVRVnC4gL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 74.95 EUR
 inStock: true
 prodname: 'Lee Slim Western Blusa  Azul  Heather Blue LI   X-Small para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HH77K5H/?tag=tolees-21'
+descuento: '49.97'
+titulo: 'Lee Slim Western Blusa  Azul  Heather Bl'
 ---
 
 Ahora mismo tienes [Lee Slim Western Blusa  Azul  Heather Blue LI   X-Small para Mujer](https://www.amazon.es/dp/B07HH77K5H/?tag=tolees-21) a 37.5 EUR (original: 74.95 EUR) (49.97 %  de descuento) en el siguiente enlace!

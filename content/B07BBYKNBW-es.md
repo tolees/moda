@@ -3,6 +3,7 @@ layout: post
 title: 'ESPRIT Collection 078eo1i004 Chaqueta Pu al 75.45 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41eyJUmyL2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41eyJUmyL2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41eyJUmyL2L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'ESPRIT Collection 078eo1i004 Chaqueta Punto  Azul  Navy 400   Medium para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BBYKNBW/?tag=tolees-21'
+descuento: '75.45'
+titulo: 'ESPRIT Collection 078eo1i004 Chaqueta Pu'
 ---
 
 Está [ESPRIT Collection 078eo1i004 Chaqueta Punto  Azul  Navy 400   Medium para Mujer](https://www.amazon.es/dp/B07BBYKNBW/?tag=tolees-21) con 75.45 de descuento por 14.73 EUR (original: 59.99 EUR) en el siguiente enlace!

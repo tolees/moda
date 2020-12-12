@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 79.12 % en G-STAR RAW Lynn D-Mid Waist Super Skinny'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rdXo026bL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41rdXo026bL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rdXo026bL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 119.95 EUR
 inStock: true
 prodname: 'G-STAR RAW Lynn D-Mid Waist Super Skinny Vaqueros  Azul  medium aged restored 9136-5408   29W / 30L para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MGX8W6B/?tag=tolees-21'
+descuento: '79.12'
+titulo: 'G-STAR RAW Lynn D-Mid Waist Super Skinny'
 ---
 
 Tienes [G-STAR RAW Lynn D-Mid Waist Super Skinny Vaqueros  Azul  medium aged restored 9136-5408   29W / 30L para Mujer](https://www.amazon.es/dp/B07MGX8W6B/?tag=tolees-21) con un 79.12 % de descuento con precio de oferta de 25.04 EUR (original: 119.95 EUR) en el siguiente enlace!

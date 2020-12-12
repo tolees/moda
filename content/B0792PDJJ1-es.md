@@ -3,6 +3,7 @@ layout: post
 title: 'Geox D Seylise Mid A  Zapatos de Tacón p al 76.75 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31DpFapax%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31DpFapax%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31DpFapax%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 119.9 EUR
 inStock: true
 prodname: 'Geox D Seylise Mid A  Zapatos de Tacón para Mujer   Black C9999   41 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0792PDJJ1/?tag=tolees-21'
+descuento: '76.75'
+titulo: 'Geox D Seylise Mid A  Zapatos de Tacón p'
 ---
 
 Está [Geox D Seylise Mid A  Zapatos de Tacón para Mujer   Black C9999   41 EU](https://www.amazon.es/dp/B0792PDJJ1/?tag=tolees-21) con 76.75 de descuento por 27.88 EUR (original: 119.9 EUR) en el siguiente enlace!

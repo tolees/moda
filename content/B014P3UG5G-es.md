@@ -3,6 +3,7 @@ layout: post
 title: 'Pepe Jeans London Cash  Vaqueros para Ho al 33.36 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41JKl8FwwtL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41JKl8FwwtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41JKl8FwwtL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 56.95 EUR
 inStock: true
 prodname: 'Pepe Jeans London Cash  Vaqueros para Hombre  Azul  11Oz Streaky Stretch Med Z23   W32/L34'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B014P3UG5G/?tag=tolees-21'
+descuento: '33.36'
+titulo: 'Pepe Jeans London Cash  Vaqueros para Ho'
 ---
 
 Está [Pepe Jeans London Cash  Vaqueros para Hombre  Azul  11Oz Streaky Stretch Med Z23   W32/L34](https://www.amazon.es/dp/B014P3UG5G/?tag=tolees-21) con 33.36 de descuento por 37.95 EUR (original: 56.95 EUR) en el siguiente enlace!

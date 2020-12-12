@@ -3,6 +3,7 @@ layout: post
 title: 'Aleumdr Mujer Vestido de Playa Camisolas al 57.51 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Fp75VY0cL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Fp75VY0cL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Fp75VY0cL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Aleumdr Mujer Vestido de Playa Camisolas y Pareos Vestido Retro Bikini Cover up Amarillo Size S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07TXDXQT3/?tag=tolees-21'
+descuento: '57.51'
+titulo: 'Aleumdr Mujer Vestido de Playa Camisolas'
 ---
 
 Está [Aleumdr Mujer Vestido de Playa Camisolas y Pareos Vestido Retro Bikini Cover up Amarillo Size S](https://www.amazon.es/dp/B07TXDXQT3/?tag=tolees-21) con 57.51 de descuento por 16.99 EUR (original: 39.99 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield 6793665 Camisa  Mujer  Blanc al 65.59 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HRGz9ghuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41HRGz9ghuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HRGz9ghuL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 22.99 EUR
 inStock: true
 prodname: 'Springfield 6793665 Camisa  Mujer  Blanco  Blanco   42  Tamaño del Fabricante:42 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078HFRLZ7/?tag=tolees-21'
+descuento: '65.59'
+titulo: 'Springfield 6793665 Camisa  Mujer  Blanc'
 ---
 
 Está [Springfield 6793665 Camisa  Mujer  Blanco  Blanco   42  Tamaño del Fabricante:42 ](https://www.amazon.es/dp/B078HFRLZ7/?tag=tolees-21) con 65.59 de descuento por 7.91 EUR (original: 22.99 EUR) en el siguiente enlace!

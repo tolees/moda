@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 39.92 % en adidas PM Sudadera  Hombre  Negro  L'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DuO8Cd-eL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41DuO8Cd-eL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DuO8Cd-eL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 54.06 EUR
 inStock: true
 prodname: 'adidas PM Sudadera  Hombre  Negro  L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KN6S8PH/?tag=tolees-21'
+descuento: '39.92'
+titulo: 'adidas PM Sudadera  Hombre  Negro  L'
 ---
 
 Tienes [adidas PM Sudadera  Hombre  Negro  L](https://www.amazon.es/dp/B07KN6S8PH/?tag=tolees-21) con un 39.92 % de descuento con precio de oferta de 32.48 EUR (original: 54.06 EUR) en el siguiente enlace!

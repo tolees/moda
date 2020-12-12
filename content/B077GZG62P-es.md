@@ -3,6 +3,7 @@ layout: post
 title: 'Dickies Pensacola Vaqueros Relaxed  Homb al 78.75 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41VU27sh1fL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41VU27sh1fL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41VU27sh1fL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 69 EUR
 inStock: true
 prodname: 'Dickies Pensacola Vaqueros Relaxed  Hombre  Gris  Mid Gray MDG    Tamaño del Fabricante:32/34 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077GZG62P/?tag=tolees-21'
+descuento: '78.75'
+titulo: 'Dickies Pensacola Vaqueros Relaxed  Homb'
 ---
 
 Está [Dickies Pensacola Vaqueros Relaxed  Hombre  Gris  Mid Gray MDG    Tamaño del Fabricante:32/34 ](https://www.amazon.es/dp/B077GZG62P/?tag=tolees-21) con 78.75 de descuento por 14.66 EUR (original: 69 EUR) en el siguiente enlace!

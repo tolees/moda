@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 25.17 % en The North Face Equipment TNF Bolso Base '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41WPqRud5AL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41WPqRud5AL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41WPqRud5AL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 30 EUR
 inStock: true
 prodname: 'The North Face Equipment TNF Bolso Base Camp Travel Small  Unisex adulto  TNF Black  Talla única'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0059DTYL4/?tag=tolees-21'
+descuento: '25.17'
+titulo: 'The North Face Equipment TNF Bolso Base '
 ---
 
 Tienes [The North Face Equipment TNF Bolso Base Camp Travel Small  Unisex adulto  TNF Black  Talla única](https://www.amazon.es/dp/B0059DTYL4/?tag=tolees-21) con un 25.17 % de descuento con precio de oferta de 22.45 EUR (original: 30 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'find. Chaqueta de Terciopelo para Mujer  al 73.22 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41t089%2BiQSL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41t089%2BiQSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41t089%2BiQSL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 50 EUR
 inStock: true
 prodname: 'find. Chaqueta de Terciopelo para Mujer  Naranja  Orange   38  Talla del Fabricante: Small '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073SZ78KM/?tag=tolees-21'
+descuento: '73.22'
+titulo: 'find. Chaqueta de Terciopelo para Mujer '
 ---
 
 Está [find. Chaqueta de Terciopelo para Mujer  Naranja  Orange   38  Talla del Fabricante: Small ](https://www.amazon.es/dp/B073SZ78KM/?tag=tolees-21) con 73.22 de descuento por 13.39 EUR (original: 50 EUR) en el siguiente enlace!

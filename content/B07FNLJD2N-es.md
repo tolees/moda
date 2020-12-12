@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 75.06 % en JACK & JONES Jjitim Jjoriginal Jos 220 N'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31SF9acirKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31SF9acirKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31SF9acirKL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 79.99 EUR
 inStock: true
 prodname: 'JACK & JONES Jjitim Jjoriginal Jos 220 Noos  Vaqueros Slim para Hombre  Negro Black Denim  W32/L32'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FNLJD2N/?tag=tolees-21'
+descuento: '75.06'
+titulo: 'JACK & JONES Jjitim Jjoriginal Jos 220 N'
 ---
 
 Tienes [JACK & JONES Jjitim Jjoriginal Jos 220 Noos  Vaqueros Slim para Hombre  Negro Black Denim  W32/L32](https://www.amazon.es/dp/B07FNLJD2N/?tag=tolees-21) con un 75.06 % de descuento con precio de oferta de 19.95 EUR (original: 79.99 EUR) en el siguiente enlace!

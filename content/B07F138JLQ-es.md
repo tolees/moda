@@ -3,6 +3,7 @@ layout: post
 title: 'BILLABONG Balance Zip Jersey  Hombre  Az al 51.51 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41eTn5EsPTL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41eTn5EsPTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41eTn5EsPTL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 65 EUR
 inStock: true
 prodname: 'BILLABONG Balance Zip Jersey  Hombre  Azul  Midnight 23   Medium  Tamaño del Fabricante:M '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F138JLQ/?tag=tolees-21'
+descuento: '51.51'
+titulo: 'BILLABONG Balance Zip Jersey  Hombre  Az'
 ---
 
 Está [BILLABONG Balance Zip Jersey  Hombre  Azul  Midnight 23   Medium  Tamaño del Fabricante:M ](https://www.amazon.es/dp/B07F138JLQ/?tag=tolees-21) con 51.51 de descuento por 31.52 EUR (original: 65 EUR) en el siguiente enlace!

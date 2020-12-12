@@ -3,6 +3,7 @@ layout: post
 title: 'Reef Escape Lux Print Rose Shibori  Chan al 65.32 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51r7f3AKkUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51r7f3AKkUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51r7f3AKkUL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 28 EUR
 inStock: true
 prodname: 'Reef Escape Lux Print Rose Shibori  Chanclas para Mujer  41 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01M24UTEV/?tag=tolees-21'
+descuento: '65.32'
+titulo: 'Reef Escape Lux Print Rose Shibori  Chan'
 ---
 
 Está [Reef Escape Lux Print Rose Shibori  Chanclas para Mujer  41 EU](https://www.amazon.es/dp/B01M24UTEV/?tag=tolees-21) con 65.32 de descuento por 9.71 EUR (original: 28 EUR) en el siguiente enlace!

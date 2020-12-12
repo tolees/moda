@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour Lockdown 3  Zapatos de Balo al 53.37 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41avF58tTLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41avF58tTLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41avF58tTLL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 70 EUR
 inStock: true
 prodname: 'Under Armour Lockdown 3  Zapatos de Baloncesto para Hombre  Rojo  Red/Mod Gray/Black 600   45 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CTM3LBJ/?tag=tolees-21'
+descuento: '53.37'
+titulo: 'Under Armour Lockdown 3  Zapatos de Balo'
 ---
 
 Está [Under Armour Lockdown 3  Zapatos de Baloncesto para Hombre  Rojo  Red/Mod Gray/Black 600   45 EU](https://www.amazon.es/dp/B07CTM3LBJ/?tag=tolees-21) con 53.37 de descuento por 32.64 EUR (original: 70 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Ray-Ban 0RX7118  Monturas de Gafas Unise al 66.34 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31blHqBJhhL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31blHqBJhhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31blHqBJhhL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 168 EUR
 inStock: true
 prodname: 'Ray-Ban 0RX7118  Monturas de Gafas Unisex Adulto  Marrón  Havana   50'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XH7RV79/?tag=tolees-21'
+descuento: '66.34'
+titulo: 'Ray-Ban 0RX7118  Monturas de Gafas Unise'
 ---
 
 Ahora mismo tienes [Ray-Ban 0RX7118  Monturas de Gafas Unisex Adulto  Marrón  Havana   50](https://www.amazon.es/dp/B06XH7RV79/?tag=tolees-21) a 56.55 EUR (original: 168 EUR) (66.34 %  de descuento) en el siguiente enlace!

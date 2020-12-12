@@ -3,6 +3,7 @@ layout: post
 title: 'Brooks Brothers Dress Non-Iron Botton Do al 46.16 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GqQEkBsVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41GqQEkBsVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GqQEkBsVL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 129 EUR
 inStock: true
 prodname: 'Brooks Brothers Dress Non-Iron Botton Down Regent - Camisa para hombre  color rosa  light pink   talla 45  cuello in. 18 manga in. 36 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00YUJ289S/?tag=tolees-21'
+descuento: '46.16'
+titulo: 'Brooks Brothers Dress Non-Iron Botton Do'
 ---
 
 Está [Brooks Brothers Dress Non-Iron Botton Down Regent - Camisa para hombre  color rosa  light pink   talla 45  cuello in. 18 manga in. 36 ](https://www.amazon.es/dp/B00YUJ289S/?tag=tolees-21) con 46.16 de descuento por 69.46 EUR (original: 129 EUR) en el siguiente enlace!

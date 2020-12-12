@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 49.67 % en Timberland Bradsteet 3 Eye Sensorflex  M'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bEiC6N3QL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41bEiC6N3QL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bEiC6N3QL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 135 EUR
 inStock: true
 prodname: 'Timberland Bradsteet 3 Eye Sensorflex  Mocasines para Hombre  Marrón  Sahara Brando   43.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078SXBKGM/?tag=tolees-21'
+descuento: '49.67'
+titulo: 'Timberland Bradsteet 3 Eye Sensorflex  M'
 ---
 
 Tienes [Timberland Bradsteet 3 Eye Sensorflex  Mocasines para Hombre  Marrón  Sahara Brando   43.5 EU](https://www.amazon.es/dp/B078SXBKGM/?tag=tolees-21) con un 49.67 % de descuento con precio de oferta de 67.95 EUR (original: 135 EUR) en el siguiente enlace!

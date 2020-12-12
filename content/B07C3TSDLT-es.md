@@ -3,6 +3,7 @@ layout: post
 title: 'Pepe Jeans Cash  Vaqueros Estrechos para al 54.64 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KZcI7ycYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41KZcI7ycYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41KZcI7ycYL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 99 EUR
 inStock: true
 prodname: 'Pepe Jeans Cash  Vaqueros Estrechos para Hombre  Azul  Denim Gg4   W29/L32'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07C3TSDLT/?tag=tolees-21'
+descuento: '54.64'
+titulo: 'Pepe Jeans Cash  Vaqueros Estrechos para'
 ---
 
 Está [Pepe Jeans Cash  Vaqueros Estrechos para Hombre  Azul  Denim Gg4   W29/L32](https://www.amazon.es/dp/B07C3TSDLT/?tag=tolees-21) con 54.64 de descuento por 44.91 EUR (original: 99 EUR) en el siguiente enlace!

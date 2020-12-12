@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 82.97 % en Double Agent 87270 Sudadera  Gris Vigore'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TNo5exAKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41TNo5exAKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TNo5exAKL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 39 EUR
 inStock: true
 prodname: 'Double Agent 87270 Sudadera  Gris Vigore Medio    Tamaño del Fabricante:L  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075RGYZP3/?tag=tolees-21'
+descuento: '82.97'
+titulo: 'Double Agent 87270 Sudadera  Gris Vigore'
 ---
 
 Tienes [Double Agent 87270 Sudadera  Gris Vigore Medio    Tamaño del Fabricante:L  para Mujer](https://www.amazon.es/dp/B075RGYZP3/?tag=tolees-21) con un 82.97 % de descuento con precio de oferta de 6.64 EUR (original: 39 EUR) en el siguiente enlace!

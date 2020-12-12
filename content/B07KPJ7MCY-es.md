@@ -3,6 +3,7 @@ layout: post
 title: 'SELECTED FEMME Slfdamina 7/8 Dress Vesti al 83.44 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31LTCXwzjSL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31LTCXwzjSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31LTCXwzjSL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 79.99 EUR
 inStock: true
 prodname: 'SELECTED FEMME Slfdamina 7/8 Dress Vestido  Morado Clover  44  Talla del Fabricante: 42  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KPJ7MCY/?tag=tolees-21'
+descuento: '83.44'
+titulo: 'SELECTED FEMME Slfdamina 7/8 Dress Vesti'
 ---
 
 Ahora mismo tienes [SELECTED FEMME Slfdamina 7/8 Dress Vestido  Morado Clover  44  Talla del Fabricante: 42  para Mujer](https://www.amazon.es/dp/B07KPJ7MCY/?tag=tolees-21) a 13.25 EUR (original: 79.99 EUR) (83.44 %  de descuento) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour 1309661-448 - Sudadera de R al 73.03 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61s-rulqdlL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61s-rulqdlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61s-rulqdlL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 60 EUR
 inStock: true
 prodname: 'Under Armour 1309661-448 - Sudadera de Ropa Deportiva para Niñas  Color Venetian Blue/Deceit  Talla Extra Grande'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077XN45TJ/?tag=tolees-21'
+descuento: '73.03'
+titulo: 'Under Armour 1309661-448 - Sudadera de R'
 ---
 
 Ahora mismo tienes [Under Armour 1309661-448 - Sudadera de Ropa Deportiva para Niñas  Color Venetian Blue/Deceit  Talla Extra Grande](https://www.amazon.es/dp/B077XN45TJ/?tag=tolees-21) a 16.18 EUR (original: 60 EUR) (73.03 %  de descuento) en el siguiente enlace!

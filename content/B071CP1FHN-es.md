@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 54.62 % en REPLAY Anbass  Pantalones Vaqueros Delga'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41h-ZMyOJvL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41h-ZMyOJvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41h-ZMyOJvL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 149 EUR
 inStock: true
 prodname: 'REPLAY Anbass  Pantalones Vaqueros Delgados para Hombre  Gris  Grey Denim 9  W32/L30  Talla del Fabricante: 32 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071CP1FHN/?tag=tolees-21'
+descuento: '54.62'
+titulo: 'REPLAY Anbass  Pantalones Vaqueros Delga'
 ---
 
 Tienes [REPLAY Anbass  Pantalones Vaqueros Delgados para Hombre  Gris  Grey Denim 9  W32/L30  Talla del Fabricante: 32 ](https://www.amazon.es/dp/B071CP1FHN/?tag=tolees-21) con un 54.62 % de descuento con precio de oferta de 67.62 EUR (original: 149 EUR) en el siguiente enlace!

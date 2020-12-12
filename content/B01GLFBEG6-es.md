@@ -3,6 +3,7 @@ layout: post
 title: 'Carrera Junior CARRERINO 16 JI D28  Gafa al 80.89 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/313KFMDynwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/313KFMDynwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/313KFMDynwL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 149 EUR
 inStock: true
 prodname: 'Carrera Junior CARRERINO 16 JI D28  Gafas de sol Unisex-Niño  Negro  Shiny Black/Grey Silver Fl  49'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01GLFBEG6/?tag=tolees-21'
+descuento: '80.89'
+titulo: 'Carrera Junior CARRERINO 16 JI D28  Gafa'
 ---
 
 Está [Carrera Junior CARRERINO 16 JI D28  Gafas de sol Unisex-Niño  Negro  Shiny Black/Grey Silver Fl  49](https://www.amazon.es/dp/B01GLFBEG6/?tag=tolees-21) con 80.89 de descuento por 28.48 EUR (original: 149 EUR) en el siguiente enlace!

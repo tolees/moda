@@ -3,6 +3,7 @@ layout: post
 title: 'Levi s 501 Original Fit Vaqueros  Azul M al 44.86 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-hU%2BtvkUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41-hU%2BtvkUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-hU%2BtvkUL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 90 EUR
 inStock: true
 prodname: 'Levi s 501 Original Fit Vaqueros  Azul Marlon 0162   40W / 32L para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01JYVEHRM/?tag=tolees-21'
+descuento: '44.86'
+titulo: 'Levi s 501 Original Fit Vaqueros  Azul M'
 ---
 
 Está [Levi s 501 Original Fit Vaqueros  Azul Marlon 0162   40W / 32L para Hombre](https://www.amazon.es/dp/B01JYVEHRM/?tag=tolees-21) con 44.86 de descuento por 49.63 EUR (original: 90 EUR) en el siguiente enlace!

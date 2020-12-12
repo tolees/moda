@@ -3,6 +3,7 @@ layout: post
 title: 'Remonte R2671  Botines para Mujer  Negro al 83.32 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410zImeaWwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/410zImeaWwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410zImeaWwL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 115 EUR
 inStock: true
 prodname: 'Remonte R2671  Botines para Mujer  Negro  Schwarz 01   39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BZL8R1K/?tag=tolees-21'
+descuento: '83.32'
+titulo: 'Remonte R2671  Botines para Mujer  Negro'
 ---
 
 Está [Remonte R2671  Botines para Mujer  Negro  Schwarz 01   39 EU](https://www.amazon.es/dp/B07BZL8R1K/?tag=tolees-21) con 83.32 de descuento por 19.18 EUR (original: 115 EUR) en el siguiente enlace!

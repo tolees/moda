@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 52.27 % en Helly Hansen W Crew Hooded Midlayer Chaq'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413ERaQIIML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/413ERaQIIML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413ERaQIIML._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 170 EUR
 inStock: true
 prodname: 'Helly Hansen W Crew Hooded Midlayer Chaqueta  Mujer  Negro  Small'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01NAJ5ISO/?tag=tolees-21'
+descuento: '52.27'
+titulo: 'Helly Hansen W Crew Hooded Midlayer Chaq'
 ---
 
 Tienes [Helly Hansen W Crew Hooded Midlayer Chaqueta  Mujer  Negro  Small](https://www.amazon.es/dp/B01NAJ5ISO/?tag=tolees-21) con un 52.27 % de descuento con precio de oferta de 81.14 EUR (original: 170 EUR) en el siguiente enlace!

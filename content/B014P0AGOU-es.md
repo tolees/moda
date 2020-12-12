@@ -3,6 +3,7 @@ layout: post
 title: 'Pepe Jeans London Cash  Vaqueros para Ho al 30.62 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41d1TTMa%2BiL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41d1TTMa%2BiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41d1TTMa%2BiL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 72 EUR
 inStock: true
 prodname: 'Pepe Jeans London Cash  Vaqueros para Hombre  Azul  12Oz Clean Twill H05   W29/L32'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B014P0AGOU/?tag=tolees-21'
+descuento: '30.62'
+titulo: 'Pepe Jeans London Cash  Vaqueros para Ho'
 ---
 
 Ahora mismo tienes [Pepe Jeans London Cash  Vaqueros para Hombre  Azul  12Oz Clean Twill H05   W29/L32](https://www.amazon.es/dp/B014P0AGOU/?tag=tolees-21) a 49.95 EUR (original: 72 EUR) (30.62 %  de descuento) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Cheiw 47085 - Sandalias para niños Unise al 64.78 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41s2hHdCZHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41s2hHdCZHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41s2hHdCZHL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 29.13 EUR
 inStock: true
 prodname: 'Cheiw 47085 - Sandalias para niños Unisex  Color marrón  Talla 38'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01BXYW42I/?tag=tolees-21'
+descuento: '64.78'
+titulo: 'Cheiw 47085 - Sandalias para niños Unise'
 ---
 
 Está [Cheiw 47085 - Sandalias para niños Unisex  Color marrón  Talla 38](https://www.amazon.es/dp/B01BXYW42I/?tag=tolees-21) con 64.78 de descuento por 10.26 EUR (original: 29.13 EUR) en el siguiente enlace!

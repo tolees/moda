@@ -3,6 +3,7 @@ layout: post
 title: 'Armani Exchange 3D City Graphic Camiseta al 59.90 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uugBCMgUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41uugBCMgUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41uugBCMgUL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 60 EUR
 inStock: true
 prodname: 'Armani Exchange 3D City Graphic Camiseta  Azul  Navy 1510   Small para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FL22PFJ/?tag=tolees-21'
+descuento: '59.90'
+titulo: 'Armani Exchange 3D City Graphic Camiseta'
 ---
 
 Ahora mismo tienes [Armani Exchange 3D City Graphic Camiseta  Azul  Navy 1510   Small para Hombre](https://www.amazon.es/dp/B07FL22PFJ/?tag=tolees-21) a 24.06 EUR (original: 60 EUR) (59.90 %  de descuento) en el siguiente enlace!

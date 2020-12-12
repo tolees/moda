@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 33.21 % en Under Armour Vanish Woven Short Pantalón'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31GE%2B-6xh8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31GE%2B-6xh8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31GE%2B-6xh8L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 44.99 EUR
 inStock: true
 prodname: 'Under Armour Vanish Woven Short Pantalón Corto  Hombre  Azul  Dust/Batik 416   L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CZJGC44/?tag=tolees-21'
+descuento: '33.21'
+titulo: 'Under Armour Vanish Woven Short Pantalón'
 ---
 
 Tienes [Under Armour Vanish Woven Short Pantalón Corto  Hombre  Azul  Dust/Batik 416   L](https://www.amazon.es/dp/B07CZJGC44/?tag=tolees-21) con un 33.21 % de descuento con precio de oferta de 30.05 EUR (original: 44.99 EUR) en el siguiente enlace!

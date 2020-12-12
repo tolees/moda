@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 48.03 % en adidas W AOP HDY - Sudadera  Mujer  Rosa'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dtSNPWtTL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41dtSNPWtTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dtSNPWtTL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 52.88 EUR
 inStock: true
 prodname: 'adidas W AOP HDY - Sudadera  Mujer  Rosaut/Negro  L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07L9M7X1M/?tag=tolees-21'
+descuento: '48.03'
+titulo: 'adidas W AOP HDY - Sudadera  Mujer  Rosa'
 ---
 
 Tienes [adidas W AOP HDY - Sudadera  Mujer  Rosaut/Negro  L](https://www.amazon.es/dp/B07L9M7X1M/?tag=tolees-21) con un 48.03 % de descuento con precio de oferta de 27.48 EUR (original: 52.88 EUR) en el siguiente enlace!

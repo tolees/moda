@@ -3,6 +3,7 @@ layout: post
 title: 'REPLAY Jacksy  Vaqueros Straight Mujer   al 86.37 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OPvod%2B2IL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41OPvod%2B2IL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41OPvod%2B2IL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 149 EUR
 inStock: true
 prodname: 'REPLAY Jacksy  Vaqueros Straight Mujer  Azul  Light Blue Denim 10   W24/L30'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BSMP1PF/?tag=tolees-21'
+descuento: '86.37'
+titulo: 'REPLAY Jacksy  Vaqueros Straight Mujer  '
 ---
 
 Ahora mismo tienes [REPLAY Jacksy  Vaqueros Straight Mujer  Azul  Light Blue Denim 10   W24/L30](https://www.amazon.es/dp/B07BSMP1PF/?tag=tolees-21) a 20.31 EUR (original: 149 EUR) (86.37 %  de descuento) en el siguiente enlace!

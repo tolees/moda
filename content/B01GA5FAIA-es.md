@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 77.85 % en VERO MODA VMNORA LS TOP SWT  suéter Muje'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rsMlYzaWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41rsMlYzaWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rsMlYzaWL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 34.95 EUR
 inStock: true
 prodname: 'VERO MODA VMNORA LS TOP SWT  suéter Mujer  Gris  Dark Grey Melange   36  Talla del fabricante: Small '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01GA5FAIA/?tag=tolees-21'
+descuento: '77.85'
+titulo: 'VERO MODA VMNORA LS TOP SWT  suéter Muje'
 ---
 
 Tienes [VERO MODA VMNORA LS TOP SWT  suéter Mujer  Gris  Dark Grey Melange   36  Talla del fabricante: Small ](https://www.amazon.es/dp/B01GA5FAIA/?tag=tolees-21) con un 77.85 % de descuento con precio de oferta de 7.74 EUR (original: 34.95 EUR) en el siguiente enlace!

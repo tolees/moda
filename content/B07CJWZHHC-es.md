@@ -3,6 +3,7 @@ layout: post
 title: 'Munvot- Mujer Leggins y Mallas de Cintur al 31.80 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YEUEhjhTL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41YEUEhjhTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YEUEhjhTL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 21.98 EUR
 inStock: true
 prodname: 'Munvot- Mujer Leggins y Mallas de Cintura Alta para Yoga Pilates Fitness y Running S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CJWZHHC/?tag=tolees-21'
+descuento: '31.80'
+titulo: 'Munvot- Mujer Leggins y Mallas de Cintur'
 ---
 
 Está [Munvot- Mujer Leggins y Mallas de Cintura Alta para Yoga Pilates Fitness y Running S](https://www.amazon.es/dp/B07CJWZHHC/?tag=tolees-21) con 31.80 de descuento por 14.99 EUR (original: 21.98 EUR) en el siguiente enlace!

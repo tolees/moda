@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 51.99 % en Burton Vida Pantalón de Snowboard  Mujer'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31mmPS8PXcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31mmPS8PXcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31mmPS8PXcL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 180 EUR
 inStock: true
 prodname: 'Burton Vida Pantalón de Snowboard  Mujer  Negro  True   S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XCT6CBV/?tag=tolees-21'
+descuento: '51.99'
+titulo: 'Burton Vida Pantalón de Snowboard  Mujer'
 ---
 
 Tienes [Burton Vida Pantalón de Snowboard  Mujer  Negro  True   S](https://www.amazon.es/dp/B06XCT6CBV/?tag=tolees-21) con un 51.99 % de descuento con precio de oferta de 86.41 EUR (original: 180 EUR) en el siguiente enlace!

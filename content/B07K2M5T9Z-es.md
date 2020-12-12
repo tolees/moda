@@ -3,6 +3,7 @@ layout: post
 title: 'Love Moschino Logo Foil_Short Sleeve T-S al 47.96 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4123QYdCNvL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4123QYdCNvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4123QYdCNvL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 114 EUR
 inStock: true
 prodname: 'Love Moschino Logo Foil_Short Sleeve T-Shirt Camiseta  Blanco  Optical White A00   38  Talla del Fabricante: 40  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K2M5T9Z/?tag=tolees-21'
+descuento: '47.96'
+titulo: 'Love Moschino Logo Foil_Short Sleeve T-S'
 ---
 
 Ahora mismo tienes [Love Moschino Logo Foil_Short Sleeve T-Shirt Camiseta  Blanco  Optical White A00   38  Talla del Fabricante: 40  para Mujer](https://www.amazon.es/dp/B07K2M5T9Z/?tag=tolees-21) a 59.32 EUR (original: 114 EUR) (47.96 %  de descuento) en el siguiente enlace!

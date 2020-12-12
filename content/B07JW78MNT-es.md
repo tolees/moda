@@ -3,6 +3,7 @@ layout: post
 title: 'Marc O Polo Body & Beach Multipack M-Sho al 66.38 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ix7ibb9XL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31ix7ibb9XL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ix7ibb9XL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 39.95 EUR
 inStock: true
 prodname: 'Marc O Polo Body & Beach Multipack M-Shorts 3-Pack Bóxer  Azul  Aquarium 813   XX-Large  Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JW78MNT/?tag=tolees-21'
+descuento: '66.38'
+titulo: 'Marc O Polo Body & Beach Multipack M-Sho'
 ---
 
 Está [Marc O Polo Body & Beach Multipack M-Shorts 3-Pack Bóxer  Azul  Aquarium 813   XX-Large  Hombre](https://www.amazon.es/dp/B07JW78MNT/?tag=tolees-21) con 66.38 de descuento por 13.43 EUR (original: 39.95 EUR) en el siguiente enlace!

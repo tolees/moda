@@ -3,6 +3,7 @@ layout: post
 title: 'Botas de Seguridad para Hombres  LM-8612 al 90.02 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51lQyOvc0TL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51lQyOvc0TL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51lQyOvc0TL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 56.99 EUR
 inStock: true
 prodname: 'Botas de Seguridad para Hombres  LM-861202 S1P SRC Zapatos de Seguridad con Punta de Acero Ligero Antideslizante'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FXVHZQP/?tag=tolees-21'
+descuento: '90.02'
+titulo: 'Botas de Seguridad para Hombres  LM-8612'
 ---
 
 Está [Botas de Seguridad para Hombres  LM-861202 S1P SRC Zapatos de Seguridad con Punta de Acero Ligero Antideslizante](https://www.amazon.es/dp/B07FXVHZQP/?tag=tolees-21) con 90.02 de descuento por 5.69 EUR (original: 56.99 EUR) en el siguiente enlace!

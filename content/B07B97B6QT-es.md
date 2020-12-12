@@ -3,6 +3,7 @@ layout: post
 title: 'Clarks Vargo Plain  Zapatos de Cordones  al 35.58 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31rY%2ByEsaML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31rY%2ByEsaML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31rY%2ByEsaML._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 89.95 EUR
 inStock: true
 prodname: 'Clarks Vargo Plain  Zapatos de Cordones Derby para Hombre  Marrón  Dark Tan Leather   39.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07B97B6QT/?tag=tolees-21'
+descuento: '35.58'
+titulo: 'Clarks Vargo Plain  Zapatos de Cordones '
 ---
 
 Ahora mismo tienes [Clarks Vargo Plain  Zapatos de Cordones Derby para Hombre  Marrón  Dark Tan Leather   39.5 EU](https://www.amazon.es/dp/B07B97B6QT/?tag=tolees-21) a 57.95 EUR (original: 89.95 EUR) (35.58 %  de descuento) en el siguiente enlace!

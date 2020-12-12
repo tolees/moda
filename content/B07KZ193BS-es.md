@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield 4.Pc.Ap.Pv19. Plumeti Camise al 41.19 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Y26UlesbL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Y26UlesbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Y26UlesbL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 12.99 EUR
 inStock: true
 prodname: 'Springfield 4.Pc.Ap.Pv19. Plumeti Camiseta  Mujer   Varios 98   One Size  Tamaño del Fabricante:S '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KZ193BS/?tag=tolees-21'
+descuento: '41.19'
+titulo: 'Springfield 4.Pc.Ap.Pv19. Plumeti Camise'
 ---
 
 Ahora mismo tienes [Springfield 4.Pc.Ap.Pv19. Plumeti Camiseta  Mujer   Varios 98   One Size  Tamaño del Fabricante:S ](https://www.amazon.es/dp/B07KZ193BS/?tag=tolees-21) a 7.64 EUR (original: 12.99 EUR) (41.19 %  de descuento) en el siguiente enlace!

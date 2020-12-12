@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.97 % en Quiksilver Classic Quadro Glide Camiseta'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Llok06jWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Llok06jWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Llok06jWL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 17.99 EUR
 inStock: true
 prodname: 'Quiksilver Classic Quadro Glide Camiseta  Niños   Gris Claro   M/12'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077TSX8D8/?tag=tolees-21'
+descuento: '50.97'
+titulo: 'Quiksilver Classic Quadro Glide Camiseta'
 ---
 
 Tienes [Quiksilver Classic Quadro Glide Camiseta  Niños   Gris Claro   M/12](https://www.amazon.es/dp/B077TSX8D8/?tag=tolees-21) con un 50.97 % de descuento con precio de oferta de 8.82 EUR (original: 17.99 EUR) en el siguiente enlace!

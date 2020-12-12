@@ -3,6 +3,7 @@ layout: post
 title: 'Nike Training Bib Camiseta  Hombre  Rosa al 39.61 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41WAA0So8vL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41WAA0So8vL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41WAA0So8vL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 12.42 EUR
 inStock: true
 prodname: 'Nike Training Bib Camiseta  Hombre  Rosa/Negro  Vivid Pink/Black   S/M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01AC6IDO6/?tag=tolees-21'
+descuento: '39.61'
+titulo: 'Nike Training Bib Camiseta  Hombre  Rosa'
 ---
 
 Está [Nike Training Bib Camiseta  Hombre  Rosa/Negro  Vivid Pink/Black   S/M](https://www.amazon.es/dp/B01AC6IDO6/?tag=tolees-21) con 39.61 de descuento por 7.5 EUR (original: 12.42 EUR) en el siguiente enlace!

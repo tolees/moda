@@ -3,6 +3,7 @@ layout: post
 title: 'Wrangler Arizona Vaqueros  Negro  Black  al 39.67 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31diZlXmZ2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31diZlXmZ2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31diZlXmZ2L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 79.95 EUR
 inStock: true
 prodname: 'Wrangler Arizona Vaqueros  Negro  Black Valley 19A   W32/L32 para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CRLKCN6/?tag=tolees-21'
+descuento: '39.67'
+titulo: 'Wrangler Arizona Vaqueros  Negro  Black '
 ---
 
 Está [Wrangler Arizona Vaqueros  Negro  Black Valley 19A   W32/L32 para Hombre](https://www.amazon.es/dp/B07CRLKCN6/?tag=tolees-21) con 39.67 de descuento por 48.23 EUR (original: 79.95 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 56.57 % en VERO MODA Vmcandy Parka Ip  Parka para M'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uhLE4bC4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41uhLE4bC4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41uhLE4bC4L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'VERO MODA Vmcandy Parka Ip  Parka para Mujer  Azul  Navy Blazer   38  Talla del fabricante: Medium '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071GZ4GQW/?tag=tolees-21'
+descuento: '56.57'
+titulo: 'VERO MODA Vmcandy Parka Ip  Parka para M'
 ---
 
 Tienes [VERO MODA Vmcandy Parka Ip  Parka para Mujer  Azul  Navy Blazer   38  Talla del fabricante: Medium ](https://www.amazon.es/dp/B071GZ4GQW/?tag=tolees-21) con un 56.57 % de descuento con precio de oferta de 21.71 EUR (original: 49.99 EUR) en el siguiente enlace!

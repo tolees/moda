@@ -3,6 +3,7 @@ layout: post
 title: 'Helly Hansen W Hh Logo Hoodie  Sudadera  al 50.04 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/3134e7ZO76L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/3134e7ZO76L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/3134e7ZO76L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 70 EUR
 inStock: true
 prodname: 'Helly Hansen W Hh Logo Hoodie  Sudadera con capucha para Mujer  Blanco  Blanco 001   Medium'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F2Q64GD/?tag=tolees-21'
+descuento: '50.04'
+titulo: 'Helly Hansen W Hh Logo Hoodie  Sudadera '
 ---
 
 Está [Helly Hansen W Hh Logo Hoodie  Sudadera con capucha para Mujer  Blanco  Blanco 001   Medium](https://www.amazon.es/dp/B07F2Q64GD/?tag=tolees-21) con 50.04 de descuento por 34.97 EUR (original: 70 EUR) en el siguiente enlace!

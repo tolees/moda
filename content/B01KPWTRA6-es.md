@@ -3,6 +3,7 @@ layout: post
 title: 'ONLY onlTRUST L/S DRAPED PLAIN CARDIGAN  al 74.24 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Px3%2B66-lL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Px3%2B66-lL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Px3%2B66-lL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 44.99 EUR
 inStock: true
 prodname: 'ONLY onlTRUST L/S DRAPED PLAIN CARDIGAN KNT  chaqueta punto Mujer  Gris  Dark Grey Melange   36  Talla del fabricante: Small '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01KPWTRA6/?tag=tolees-21'
+descuento: '74.24'
+titulo: 'ONLY onlTRUST L/S DRAPED PLAIN CARDIGAN '
 ---
 
 Está [ONLY onlTRUST L/S DRAPED PLAIN CARDIGAN KNT  chaqueta punto Mujer  Gris  Dark Grey Melange   36  Talla del fabricante: Small ](https://www.amazon.es/dp/B01KPWTRA6/?tag=tolees-21) con 74.24 de descuento por 11.59 EUR (original: 44.99 EUR) en el siguiente enlace!

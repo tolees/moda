@@ -3,6 +3,7 @@ layout: post
 title: 'Nike Wmns Ebernon Mid  Zapatos de Balonc al 57.27 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41j9FhJHfAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41j9FhJHfAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41j9FhJHfAL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 71 EUR
 inStock: true
 prodname: 'Nike Wmns Ebernon Mid  Zapatos de Baloncesto para Mujer  Tint/Mtlc Pewter/Pure Platinum 002  40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DCMNWZX/?tag=tolees-21'
+descuento: '57.27'
+titulo: 'Nike Wmns Ebernon Mid  Zapatos de Balonc'
 ---
 
 Está [Nike Wmns Ebernon Mid  Zapatos de Baloncesto para Mujer  Tint/Mtlc Pewter/Pure Platinum 002  40 EU](https://www.amazon.es/dp/B07DCMNWZX/?tag=tolees-21) con 57.27 de descuento por 30.34 EUR (original: 71 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Tamaris 25122  Botines para Mujer  Negro al 77.61 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41d7sX36ynL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41d7sX36ynL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41d7sX36ynL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'Tamaris 25122  Botines para Mujer  Negro  Black 001   37 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01LXMA3MV/?tag=tolees-21'
+descuento: '77.61'
+titulo: 'Tamaris 25122  Botines para Mujer  Negro'
 ---
 
 Está [Tamaris 25122  Botines para Mujer  Negro  Black 001   37 EU](https://www.amazon.es/dp/B01LXMA3MV/?tag=tolees-21) con 77.61 de descuento por 13.42 EUR (original: 59.95 EUR) en el siguiente enlace!

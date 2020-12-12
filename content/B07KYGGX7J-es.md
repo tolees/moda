@@ -3,6 +3,7 @@ layout: post
 title: 'Esprit Accessoires - 019ea1o040  Bolso M al 48.42 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31hQuL3f3OL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31hQuL3f3OL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31hQuL3f3OL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 30.98 EUR
 inStock: true
 prodname: 'Esprit Accessoires - 019ea1o040  Bolso Mujer  Negro  Black   17x30.5x33 cm  B x H T '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KYGGX7J/?tag=tolees-21'
+descuento: '48.42'
+titulo: 'Esprit Accessoires - 019ea1o040  Bolso M'
 ---
 
 Ahora mismo tienes [Esprit Accessoires - 019ea1o040  Bolso Mujer  Negro  Black   17x30.5x33 cm  B x H T ](https://www.amazon.es/dp/B07KYGGX7J/?tag=tolees-21) a 15.98 EUR (original: 30.98 EUR) (48.42 %  de descuento) en el siguiente enlace!

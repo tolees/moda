@@ -3,6 +3,7 @@ layout: post
 title: 'Marco Tozzi Premio 23724  Zapatos de Cor al 82.99 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41O4ZqnA9VL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41O4ZqnA9VL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41O4ZqnA9VL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'Marco Tozzi Premio 23724  Zapatos de Cordones Oxford para Mujer  Negro  Black Comb 098   37 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01FWGN580/?tag=tolees-21'
+descuento: '82.99'
+titulo: 'Marco Tozzi Premio 23724  Zapatos de Cor'
 ---
 
 Ahora mismo tienes [Marco Tozzi Premio 23724  Zapatos de Cordones Oxford para Mujer  Negro  Black Comb 098   37 EU](https://www.amazon.es/dp/B01FWGN580/?tag=tolees-21) a 11.9 EUR (original: 69.95 EUR) (82.99 %  de descuento) en el siguiente enlace!

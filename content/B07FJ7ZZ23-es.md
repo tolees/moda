@@ -3,6 +3,7 @@ layout: post
 title: 'Burton Evergreen Synthetic Hooded Insula al 77.55 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41s-xxsagaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41s-xxsagaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41s-xxsagaL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 200 EUR
 inStock: true
 prodname: 'Burton Evergreen Synthetic Hooded Insulator Chaqueta Funcional  Hombre  Negro  True   XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FJ7ZZ23/?tag=tolees-21'
+descuento: '77.55'
+titulo: 'Burton Evergreen Synthetic Hooded Insula'
 ---
 
 Está [Burton Evergreen Synthetic Hooded Insulator Chaqueta Funcional  Hombre  Negro  True   XL](https://www.amazon.es/dp/B07FJ7ZZ23/?tag=tolees-21) con 77.55 de descuento por 44.9 EUR (original: 200 EUR) en el siguiente enlace!

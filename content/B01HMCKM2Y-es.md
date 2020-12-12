@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 80.18 % en VERO MODA VMBETSIE 3/4 JACKET  Abrigo Mu'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51-etOO0LgL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51-etOO0LgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51-etOO0LgL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 109.94 EUR
 inStock: true
 prodname: 'VERO MODA VMBETSIE 3/4 JACKET  Abrigo Mujer  Marrón  Kangaroo   36  Talla del fabricante: Small '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01HMCKM2Y/?tag=tolees-21'
+descuento: '80.18'
+titulo: 'VERO MODA VMBETSIE 3/4 JACKET  Abrigo Mu'
 ---
 
 Tienes [VERO MODA VMBETSIE 3/4 JACKET  Abrigo Mujer  Marrón  Kangaroo   36  Talla del fabricante: Small ](https://www.amazon.es/dp/B01HMCKM2Y/?tag=tolees-21) con un 80.18 % de descuento con precio de oferta de 21.79 EUR (original: 109.94 EUR) en el siguiente enlace!

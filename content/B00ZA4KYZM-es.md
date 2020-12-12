@@ -3,6 +3,7 @@ layout: post
 title: 'Helly Hansen W Crew Midlayer Jacket - Ch al 49.39 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4199buo2GHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4199buo2GHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4199buo2GHL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 150 EUR
 inStock: true
 prodname: 'Helly Hansen W Crew Midlayer Jacket - Chaqueta para Mujer  Negro  Black 990   M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00ZA4KYZM/?tag=tolees-21'
+descuento: '49.39'
+titulo: 'Helly Hansen W Crew Midlayer Jacket - Ch'
 ---
 
 Está [Helly Hansen W Crew Midlayer Jacket - Chaqueta para Mujer  Negro  Black 990   M](https://www.amazon.es/dp/B00ZA4KYZM/?tag=tolees-21) con 49.39 de descuento por 75.91 EUR (original: 150 EUR) en el siguiente enlace!

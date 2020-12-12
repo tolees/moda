@@ -3,6 +3,7 @@ layout: post
 title: 'BILLABONG Balance Po Jersey  Hombre  Neg al 53.38 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QG2oOnzCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41QG2oOnzCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QG2oOnzCL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 60 EUR
 inStock: true
 prodname: 'BILLABONG Balance Po Jersey  Hombre  Negro  Black 19   Small  Tamaño del Fabricante:S '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F11MZ4C/?tag=tolees-21'
+descuento: '53.38'
+titulo: 'BILLABONG Balance Po Jersey  Hombre  Neg'
 ---
 
 Está [BILLABONG Balance Po Jersey  Hombre  Negro  Black 19   Small  Tamaño del Fabricante:S ](https://www.amazon.es/dp/B07F11MZ4C/?tag=tolees-21) con 53.38 de descuento por 27.97 EUR (original: 60 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 75.39 % en Springfield INT.3.Plumas Light Chaqueta '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nc3e2ejpL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41nc3e2ejpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41nc3e2ejpL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Springfield INT.3.Plumas Light Chaqueta   Verde Oscuro 20   Small  Tamaño del Fabricante:S  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KYXV356/?tag=tolees-21'
+descuento: '75.39'
+titulo: 'Springfield INT.3.Plumas Light Chaqueta '
 ---
 
 Tienes [Springfield INT.3.Plumas Light Chaqueta   Verde Oscuro 20   Small  Tamaño del Fabricante:S  para Mujer](https://www.amazon.es/dp/B07KYXV356/?tag=tolees-21) con un 75.39 % de descuento con precio de oferta de 9.84 EUR (original: 39.99 EUR) en el siguiente enlace!

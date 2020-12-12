@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 68.30 % en Under Armour W s UA Horizon Stc  Zapatos'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zzHeauZlL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41zzHeauZlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zzHeauZlL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 90 EUR
 inStock: true
 prodname: 'Under Armour W s UA Horizon Stc  Zapatos de Low Rise Senderismo para Mujer  Negro  Black  38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01GPFE4V4/?tag=tolees-21'
+descuento: '68.30'
+titulo: 'Under Armour W s UA Horizon Stc  Zapatos'
 ---
 
 Tienes [Under Armour W s UA Horizon Stc  Zapatos de Low Rise Senderismo para Mujer  Negro  Black  38 EU](https://www.amazon.es/dp/B01GPFE4V4/?tag=tolees-21) con un 68.30 % de descuento con precio de oferta de 28.53 EUR (original: 90 EUR) en el siguiente enlace!

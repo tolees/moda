@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Active Logo tee Camiseta  Mujer  Ne al 36.07 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412kVAbGwdL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/412kVAbGwdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412kVAbGwdL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 24.95 EUR
 inStock: true
 prodname: 'Puma Active Logo tee Camiseta  Mujer  Negro  Cotton Black/Lilac Sachet Cat   XS'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JHX6X18/?tag=tolees-21'
+descuento: '36.07'
+titulo: 'Puma Active Logo tee Camiseta  Mujer  Ne'
 ---
 
 Está [Puma Active Logo tee Camiseta  Mujer  Negro  Cotton Black/Lilac Sachet Cat   XS](https://www.amazon.es/dp/B07JHX6X18/?tag=tolees-21) con 36.07 de descuento por 15.95 EUR (original: 24.95 EUR) en el siguiente enlace!

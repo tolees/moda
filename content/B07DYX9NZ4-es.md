@@ -3,6 +3,7 @@ layout: post
 title: 'Columbia Chaqueta Impermeable con Capuch al 45.33 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Plk0EuPwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Plk0EuPwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Plk0EuPwL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 149.99 EUR
 inStock: true
 prodname: 'Columbia Chaqueta Impermeable con Capucha para Hombre  Pike Lake Hooded Jacket  Rojo  Red Element/Bright Copper   Talla M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DYX9NZ4/?tag=tolees-21'
+descuento: '45.33'
+titulo: 'Columbia Chaqueta Impermeable con Capuch'
 ---
 
 Ahora mismo tienes [Columbia Chaqueta Impermeable con Capucha para Hombre  Pike Lake Hooded Jacket  Rojo  Red Element/Bright Copper   Talla M](https://www.amazon.es/dp/B07DYX9NZ4/?tag=tolees-21) a 82 EUR (original: 149.99 EUR) (45.33 %  de descuento) en el siguiente enlace!

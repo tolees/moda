@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 69.28 % en Jimmy Choo Lash/S  Gafas de Sol para Muj'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GuoP17VaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41GuoP17VaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GuoP17VaL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 583 EUR
 inStock: true
 prodname: 'Jimmy Choo Lash/S  Gafas de Sol para Mujer  Multicolor  Gdbk Mtlzed   53'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01M32MVTV/?tag=tolees-21'
+descuento: '69.28'
+titulo: 'Jimmy Choo Lash/S  Gafas de Sol para Muj'
 ---
 
 Tienes [Jimmy Choo Lash/S  Gafas de Sol para Mujer  Multicolor  Gdbk Mtlzed   53](https://www.amazon.es/dp/B01M32MVTV/?tag=tolees-21) con un 69.28 % de descuento con precio de oferta de 179.08 EUR (original: 583 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Berg Outdoor Fragas Chaqueta  Hombre  Az al 82.37 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tnvlfHrWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41tnvlfHrWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tnvlfHrWL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 129.95 EUR
 inStock: true
 prodname: 'Berg Outdoor Fragas Chaqueta  Hombre  Azul  Snorkel   XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GTTJ6FC/?tag=tolees-21'
+descuento: '82.37'
+titulo: 'Berg Outdoor Fragas Chaqueta  Hombre  Az'
 ---
 
 Está [Berg Outdoor Fragas Chaqueta  Hombre  Azul  Snorkel   XL](https://www.amazon.es/dp/B07GTTJ6FC/?tag=tolees-21) con 82.37 de descuento por 22.91 EUR (original: 129.95 EUR) en el siguiente enlace!

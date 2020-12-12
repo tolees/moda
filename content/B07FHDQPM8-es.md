@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 31.75 % en Helly Hansen Hh Logo Crew Sweat  Sudader'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LZ1ISn4zL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41LZ1ISn4zL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LZ1ISn4zL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 60 EUR
 inStock: true
 prodname: 'Helly Hansen Hh Logo Crew Sweat  Sudadera para Hombre  Verde  Verde 471   Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FHDQPM8/?tag=tolees-21'
+descuento: '31.75'
+titulo: 'Helly Hansen Hh Logo Crew Sweat  Sudader'
 ---
 
 Tienes [Helly Hansen Hh Logo Crew Sweat  Sudadera para Hombre  Verde  Verde 471   Large](https://www.amazon.es/dp/B07FHDQPM8/?tag=tolees-21) con un 31.75 % de descuento con precio de oferta de 40.95 EUR (original: 60 EUR) en el siguiente enlace!

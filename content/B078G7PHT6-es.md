@@ -3,6 +3,7 @@ layout: post
 title: 'Armani Exchange 6zya52  Vestido de Fiest al 61.07 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31c1ds5NCdL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31c1ds5NCdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31c1ds5NCdL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 160 EUR
 inStock: true
 prodname: 'Armani Exchange 6zya52  Vestido de Fiesta para Mujer  Negro  Black 1200  X-Small  Talla del Fabricante: 2 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078G7PHT6/?tag=tolees-21'
+descuento: '61.07'
+titulo: 'Armani Exchange 6zya52  Vestido de Fiest'
 ---
 
 Está [Armani Exchange 6zya52  Vestido de Fiesta para Mujer  Negro  Black 1200  X-Small  Talla del Fabricante: 2 ](https://www.amazon.es/dp/B078G7PHT6/?tag=tolees-21) con 61.07 de descuento por 62.29 EUR (original: 160 EUR) en el siguiente enlace!

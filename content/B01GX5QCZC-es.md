@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 51.47 % en Wrangler Regular Fit Straight Leg Vaquer'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UByBmOboL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41UByBmOboL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UByBmOboL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'Wrangler Regular Fit Straight Leg Vaqueros  Azul  Stonewash   35W / 32L para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01GX5QCZC/?tag=tolees-21'
+descuento: '51.47'
+titulo: 'Wrangler Regular Fit Straight Leg Vaquer'
 ---
 
 Tienes [Wrangler Regular Fit Straight Leg Vaqueros  Azul  Stonewash   35W / 32L para Hombre](https://www.amazon.es/dp/B01GX5QCZC/?tag=tolees-21) con un 51.47 % de descuento con precio de oferta de 33.95 EUR (original: 69.95 EUR) en el siguiente enlace!

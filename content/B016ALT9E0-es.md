@@ -3,6 +3,7 @@ layout: post
 title: 'Gant 3-Pack Trunk  Camiseta sin Mangas p al 45.44 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vGeg4bkeL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41vGeg4bkeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vGeg4bkeL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Gant 3-Pack Trunk  Camiseta sin Mangas para Hombre  105  XXX-Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B016ALT9E0/?tag=tolees-21'
+descuento: '45.44'
+titulo: 'Gant 3-Pack Trunk  Camiseta sin Mangas p'
 ---
 
 Está [Gant 3-Pack Trunk  Camiseta sin Mangas para Hombre  105  XXX-Large](https://www.amazon.es/dp/B016ALT9E0/?tag=tolees-21) con 45.44 de descuento por 21.82 EUR (original: 39.99 EUR) en el siguiente enlace!

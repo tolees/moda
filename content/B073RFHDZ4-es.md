@@ -3,6 +3,7 @@ layout: post
 title: 'Levi s 511 Slim Fit  Vaqueros para Hombr al 51.40 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KNkctfp5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41KNkctfp5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41KNkctfp5L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 110 EUR
 inStock: true
 prodname: 'Levi s 511 Slim Fit  Vaqueros para Hombre  Azul  Sooty Ember 2093   32W / 34L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073RFHDZ4/?tag=tolees-21'
+descuento: '51.40'
+titulo: 'Levi s 511 Slim Fit  Vaqueros para Hombr'
 ---
 
 Ahora mismo tienes [Levi s 511 Slim Fit  Vaqueros para Hombre  Azul  Sooty Ember 2093   32W / 34L](https://www.amazon.es/dp/B073RFHDZ4/?tag=tolees-21) a 53.46 EUR (original: 110 EUR) (51.40 %  de descuento) en el siguiente enlace!

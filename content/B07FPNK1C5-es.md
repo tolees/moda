@@ -3,6 +3,7 @@ layout: post
 title: 'JACK & JONES Jjitom Jjoriginal Jos 774 5 al 76.05 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419P9VZUc4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/419P9VZUc4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419P9VZUc4L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'JACK & JONES Jjitom Jjoriginal Jos 774 50sps Ltd  Vaqueros Skinny Hombre  Gris  Grey Denim Grey Denim   W36/L30'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FPNK1C5/?tag=tolees-21'
+descuento: '76.05'
+titulo: 'JACK & JONES Jjitom Jjoriginal Jos 774 5'
 ---
 
 Está [JACK & JONES Jjitom Jjoriginal Jos 774 50sps Ltd  Vaqueros Skinny Hombre  Gris  Grey Denim Grey Denim   W36/L30](https://www.amazon.es/dp/B07FPNK1C5/?tag=tolees-21) con 76.05 de descuento por 14.37 EUR (original: 59.99 EUR) en el siguiente enlace!

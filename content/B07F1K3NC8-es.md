@@ -3,6 +3,7 @@ layout: post
 title: 'Armani Exchange Semi Circle Cursive Slim al 61.15 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41M2%2BGtDZaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41M2%2BGtDZaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41M2%2BGtDZaL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 65 EUR
 inStock: true
 prodname: 'Armani Exchange Semi Circle Cursive Slim Fit Scoop Neck Camiseta  Rojo  Moulin Rouge 1408   Large para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F1K3NC8/?tag=tolees-21'
+descuento: '61.15'
+titulo: 'Armani Exchange Semi Circle Cursive Slim'
 ---
 
 Está [Armani Exchange Semi Circle Cursive Slim Fit Scoop Neck Camiseta  Rojo  Moulin Rouge 1408   Large para Mujer](https://www.amazon.es/dp/B07F1K3NC8/?tag=tolees-21) con 61.15 de descuento por 25.25 EUR (original: 65 EUR) en el siguiente enlace!

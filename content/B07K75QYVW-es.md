@@ -3,6 +3,7 @@ layout: post
 title: 'Levi s Ultimate Boyfriend Blusa  Blanco  al 77.91 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31FC3FzcQqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31FC3FzcQqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31FC3FzcQqL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 70 EUR
 inStock: true
 prodname: 'Levi s Ultimate Boyfriend Blusa  Blanco  Bright White 0003   Large para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K75QYVW/?tag=tolees-21'
+descuento: '77.91'
+titulo: 'Levi s Ultimate Boyfriend Blusa  Blanco '
 ---
 
 Está [Levi s Ultimate Boyfriend Blusa  Blanco  Bright White 0003   Large para Mujer](https://www.amazon.es/dp/B07K75QYVW/?tag=tolees-21) con 77.91 de descuento por 15.46 EUR (original: 70 EUR) en el siguiente enlace!

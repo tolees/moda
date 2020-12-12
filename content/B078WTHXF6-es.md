@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 51.37 % en Quiksilver Monkey Abyss  Zapatos de Play'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LScOp5SbL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41LScOp5SbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LScOp5SbL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 22.99 EUR
 inStock: true
 prodname: 'Quiksilver Monkey Abyss  Zapatos de Playa y Piscina para Hombre  Verde  Green/Brown/Black Xgck   43 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078WTHXF6/?tag=tolees-21'
+descuento: '51.37'
+titulo: 'Quiksilver Monkey Abyss  Zapatos de Play'
 ---
 
 Tienes [Quiksilver Monkey Abyss  Zapatos de Playa y Piscina para Hombre  Verde  Green/Brown/Black Xgck   43 EU](https://www.amazon.es/dp/B078WTHXF6/?tag=tolees-21) con un 51.37 % de descuento con precio de oferta de 11.18 EUR (original: 22.99 EUR) en el siguiente enlace!

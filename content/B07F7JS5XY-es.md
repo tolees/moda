@@ -3,6 +3,7 @@ layout: post
 title: 'Tommy Hilfiger Tommy Down Hooded Bomber  al 54.64 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416ThgnkUzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/416ThgnkUzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416ThgnkUzL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 299 EUR
 inStock: true
 prodname: 'Tommy Hilfiger Tommy Down Hooded Bomber  Chaqueta Hombre  Negro  Jet Black 083  XX-Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F7JS5XY/?tag=tolees-21'
+descuento: '54.64'
+titulo: 'Tommy Hilfiger Tommy Down Hooded Bomber '
 ---
 
 Está [Tommy Hilfiger Tommy Down Hooded Bomber  Chaqueta Hombre  Negro  Jet Black 083  XX-Large](https://www.amazon.es/dp/B07F7JS5XY/?tag=tolees-21) con 54.64 de descuento por 135.62 EUR (original: 299 EUR) en el siguiente enlace!

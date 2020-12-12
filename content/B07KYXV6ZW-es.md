@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield Frq.Falda Lisa Botones Falda al 74.06 % de descuento'
 date: 
 thumbnailImage: ''
+image: ''
 images: [ '' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'Springfield Frq.Falda Lisa Botones Falda  Mujer  Negro  Negro 1   42  Tamaño del Fabricante:42 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KYXV6ZW/?tag=tolees-21'
+descuento: '74.06'
+titulo: 'Springfield Frq.Falda Lisa Botones Falda'
 ---
 
 Está [Springfield Frq.Falda Lisa Botones Falda  Mujer  Negro  Negro 1   42  Tamaño del Fabricante:42 ](https://www.amazon.es/dp/B07KYXV6ZW/?tag=tolees-21) con 74.06 de descuento por 7.78 EUR (original: 29.99 EUR) en el siguiente enlace!

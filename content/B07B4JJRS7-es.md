@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 44.62 % en Timberland Bradstreet Perf Plain Toe Oxf'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BaW2UsKEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41BaW2UsKEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BaW2UsKEL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 130 EUR
 inStock: true
 prodname: 'Timberland Bradstreet Perf Plain Toe Oxford  Zapatillas para Hombre  Negro  Black Nubuck   43 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07B4JJRS7/?tag=tolees-21'
+descuento: '44.62'
+titulo: 'Timberland Bradstreet Perf Plain Toe Oxf'
 ---
 
 Tienes [Timberland Bradstreet Perf Plain Toe Oxford  Zapatillas para Hombre  Negro  Black Nubuck   43 EU](https://www.amazon.es/dp/B07B4JJRS7/?tag=tolees-21) con un 44.62 % de descuento con precio de oferta de 72 EUR (original: 130 EUR) en el siguiente enlace!

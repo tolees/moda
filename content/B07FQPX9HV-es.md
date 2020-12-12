@@ -3,6 +3,7 @@ layout: post
 title: 'JACK & JONES Jcokarl tee SS Crew Neck Ca al 39.93 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419As%2BNVW%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/419As%2BNVW%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419As%2BNVW%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 14.9 EUR
 inStock: true
 prodname: 'JACK & JONES Jcokarl tee SS Crew Neck Camiseta  Azul  Sky Captain Fit:Reg Melange - JJ Print   Medium para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FQPX9HV/?tag=tolees-21'
+descuento: '39.93'
+titulo: 'JACK & JONES Jcokarl tee SS Crew Neck Ca'
 ---
 
 Está [JACK & JONES Jcokarl tee SS Crew Neck Camiseta  Azul  Sky Captain Fit:Reg Melange - JJ Print   Medium para Hombre](https://www.amazon.es/dp/B07FQPX9HV/?tag=tolees-21) con 39.93 de descuento por 8.95 EUR (original: 14.9 EUR) en el siguiente enlace!

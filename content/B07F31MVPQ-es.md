@@ -3,6 +3,7 @@ layout: post
 title: 'Vans Colorblock tee  Camiseta para Hombr al 28.20 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31u5kE1zGcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31u5kE1zGcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31u5kE1zGcL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 25 EUR
 inStock: true
 prodname: 'Vans Colorblock tee  Camiseta para Hombre  Azul  Dress Blues-White Short  Medium'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F31MVPQ/?tag=tolees-21'
+descuento: '28.20'
+titulo: 'Vans Colorblock tee  Camiseta para Hombr'
 ---
 
 Ahora mismo tienes [Vans Colorblock tee  Camiseta para Hombre  Azul  Dress Blues-White Short  Medium](https://www.amazon.es/dp/B07F31MVPQ/?tag=tolees-21) a 17.95 EUR (original: 25 EUR) (28.20 %  de descuento) en el siguiente enlace!

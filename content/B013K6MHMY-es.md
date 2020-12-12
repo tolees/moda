@@ -3,6 +3,7 @@ layout: post
 title: 'Bellybutton Pauline - Kleid 1/2 Arm  Ves al 90.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31EYpQgUzNL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31EYpQgUzNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31EYpQgUzNL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 83.11 EUR
 inStock: true
 prodname: 'Bellybutton Pauline - Kleid 1/2 Arm  Vestido Mujer  Rojo  Tomato 2052   40'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B013K6MHMY/?tag=tolees-21'
+descuento: '90.01'
+titulo: 'Bellybutton Pauline - Kleid 1/2 Arm  Ves'
 ---
 
 Está [Bellybutton Pauline - Kleid 1/2 Arm  Vestido Mujer  Rojo  Tomato 2052   40](https://www.amazon.es/dp/B013K6MHMY/?tag=tolees-21) con 90.01 de descuento por 8.3 EUR (original: 83.11 EUR) en el siguiente enlace!

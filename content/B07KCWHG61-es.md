@@ -3,6 +3,7 @@ layout: post
 title: 'Hurley - Camiseta para hombre  Blanco  S al 62.83 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tC9DZvrgL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41tC9DZvrgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tC9DZvrgL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 30 EUR
 inStock: true
 prodname: 'Hurley - Camiseta para hombre  Blanco  S  High Bars Prm Tee Ss'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KCWHG61/?tag=tolees-21'
+descuento: '62.83'
+titulo: 'Hurley - Camiseta para hombre  Blanco  S'
 ---
 
 Ahora mismo tienes [Hurley - Camiseta para hombre  Blanco  S  High Bars Prm Tee Ss](https://www.amazon.es/dp/B07KCWHG61/?tag=tolees-21) a 11.15 EUR (original: 30 EUR) (62.83 %  de descuento) en el siguiente enlace!

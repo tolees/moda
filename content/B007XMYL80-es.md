@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 56.90 % en Havaianas Brasil Logo  Chanclas Al Dedo '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413TKU04TmL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/413TKU04TmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413TKU04TmL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 23.9 EUR
 inStock: true
 prodname: 'Havaianas Brasil Logo  Chanclas Al Dedo para Unisex Niños  Negro  31/32 EU  29/30 Brazilian '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B007XMYL80/?tag=tolees-21'
+descuento: '56.90'
+titulo: 'Havaianas Brasil Logo  Chanclas Al Dedo '
 ---
 
 Tienes [Havaianas Brasil Logo  Chanclas Al Dedo para Unisex Niños  Negro  31/32 EU  29/30 Brazilian ](https://www.amazon.es/dp/B007XMYL80/?tag=tolees-21) con un 56.90 % de descuento con precio de oferta de 10.3 EUR (original: 23.9 EUR) en el siguiente enlace!

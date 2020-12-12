@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield 6.T. Plumas C.Alto Chaqueta  al 57.14 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411LQoi6gEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/411LQoi6gEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411LQoi6gEL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 45.99 EUR
 inStock: true
 prodname: 'Springfield 6.T. Plumas C.Alto Chaqueta  Mujer  Negro  Negro 1   40  Tamaño del Fabricante:40 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DL8L22Q/?tag=tolees-21'
+descuento: '57.14'
+titulo: 'Springfield 6.T. Plumas C.Alto Chaqueta '
 ---
 
 Está [Springfield 6.T. Plumas C.Alto Chaqueta  Mujer  Negro  Negro 1   40  Tamaño del Fabricante:40 ](https://www.amazon.es/dp/B07DL8L22Q/?tag=tolees-21) con 57.14 de descuento por 19.71 EUR (original: 45.99 EUR) en el siguiente enlace!

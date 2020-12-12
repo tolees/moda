@@ -3,6 +3,7 @@ layout: post
 title: 'Volcom Ermont Chaqueta  Hombre  Burgundy al 53.72 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xD9z1XchL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41xD9z1XchL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xD9z1XchL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 90 EUR
 inStock: true
 prodname: 'Volcom Ermont Chaqueta  Hombre  Burgundy  S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KMTRG9T/?tag=tolees-21'
+descuento: '53.72'
+titulo: 'Volcom Ermont Chaqueta  Hombre  Burgundy'
 ---
 
 Está [Volcom Ermont Chaqueta  Hombre  Burgundy  S](https://www.amazon.es/dp/B07KMTRG9T/?tag=tolees-21) con 53.72 de descuento por 41.65 EUR (original: 90 EUR) en el siguiente enlace!

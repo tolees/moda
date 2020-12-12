@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 57.98 % en Blend Cirrus  Vaqueros para Hombre  Midd'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410n7FX%2BCiL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/410n7FX%2BCiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410n7FX%2BCiL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'Blend Cirrus  Vaqueros para Hombre  Middle Blue 76201 W33/L34  33 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00VGKVFWK/?tag=tolees-21'
+descuento: '57.98'
+titulo: 'Blend Cirrus  Vaqueros para Hombre  Midd'
 ---
 
 Tienes [Blend Cirrus  Vaqueros para Hombre  Middle Blue 76201 W33/L34  33 ](https://www.amazon.es/dp/B00VGKVFWK/?tag=tolees-21) con un 57.98 % de descuento con precio de oferta de 25.19 EUR (original: 59.95 EUR) en el siguiente enlace!

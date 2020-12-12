@@ -3,6 +3,7 @@ layout: post
 title: 'Lee Luke  Vaqueros para Hombre  Gris  Co al 72.22 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31sFWpf5yoL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31sFWpf5yoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31sFWpf5yoL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 79.95 EUR
 inStock: true
 prodname: 'Lee Luke  Vaqueros para Hombre  Gris  Concrete Grey Gc   W28/L32'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FTR74X1/?tag=tolees-21'
+descuento: '72.22'
+titulo: 'Lee Luke  Vaqueros para Hombre  Gris  Co'
 ---
 
 Está [Lee Luke  Vaqueros para Hombre  Gris  Concrete Grey Gc   W28/L32](https://www.amazon.es/dp/B07FTR74X1/?tag=tolees-21) con 72.22 de descuento por 22.21 EUR (original: 79.95 EUR) en el siguiente enlace!

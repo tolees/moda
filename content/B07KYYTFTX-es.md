@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield 3.T.Ap.Pv19.Tunica Blusa  Ga al 66.67 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31uctZ8lx8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31uctZ8lx8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31uctZ8lx8L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 15.99 EUR
 inStock: true
 prodname: 'Springfield 3.T.Ap.Pv19.Tunica Blusa  Gama Marrón 35  Large  Tamaño del Fabricante:L  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KYYTFTX/?tag=tolees-21'
+descuento: '66.67'
+titulo: 'Springfield 3.T.Ap.Pv19.Tunica Blusa  Ga'
 ---
 
 Está [Springfield 3.T.Ap.Pv19.Tunica Blusa  Gama Marrón 35  Large  Tamaño del Fabricante:L  para Mujer](https://www.amazon.es/dp/B07KYYTFTX/?tag=tolees-21) con 66.67 de descuento por 5.33 EUR (original: 15.99 EUR) en el siguiente enlace!

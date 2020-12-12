@@ -3,6 +3,7 @@ layout: post
 title: 'Napapijri K Rainforest S Op 1 Black Chaq al 64.66 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/3106iKL1tZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/3106iKL1tZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/3106iKL1tZL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 139 EUR
 inStock: true
 prodname: 'Napapijri K Rainforest S Op 1 Black Chaqueta  Negro 041  140  Talla del Fabricante: 10  para Niños'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07L9NYD18/?tag=tolees-21'
+descuento: '64.66'
+titulo: 'Napapijri K Rainforest S Op 1 Black Chaq'
 ---
 
 Está [Napapijri K Rainforest S Op 1 Black Chaqueta  Negro 041  140  Talla del Fabricante: 10  para Niños](https://www.amazon.es/dp/B07L9NYD18/?tag=tolees-21) con 64.66 de descuento por 49.12 EUR (original: 139 EUR) en el siguiente enlace!

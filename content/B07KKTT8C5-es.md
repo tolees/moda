@@ -3,6 +3,7 @@ layout: post
 title: 'Naf Naf Keng9 Chaqueta Punto  Negro  Noi al 62.07 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41WzOfe%2Bc2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41WzOfe%2Bc2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41WzOfe%2Bc2L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 30 EUR
 inStock: true
 prodname: 'Naf Naf Keng9 Chaqueta Punto  Negro  Noir 625   Large para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KKTT8C5/?tag=tolees-21'
+descuento: '62.07'
+titulo: 'Naf Naf Keng9 Chaqueta Punto  Negro  Noi'
 ---
 
 Ahora mismo tienes [Naf Naf Keng9 Chaqueta Punto  Negro  Noir 625   Large para Mujer](https://www.amazon.es/dp/B07KKTT8C5/?tag=tolees-21) a 11.38 EUR (original: 30 EUR) (62.07 %  de descuento) en el siguiente enlace!

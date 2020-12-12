@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.00 % en KRISP 6610-WINBLK-08  Vestido Corto Frun'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41FXM2EjwxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41FXM2EjwxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41FXM2EjwxL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 10.2 EUR
 inStock: true
 prodname: 'KRISP 6610-WINBLK-08  Vestido Corto Fruncido Busto  Granate  6610   36'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XYRDSM6/?tag=tolees-21'
+descuento: '50.00'
+titulo: 'KRISP 6610-WINBLK-08  Vestido Corto Frun'
 ---
 
 Tienes [KRISP 6610-WINBLK-08  Vestido Corto Fruncido Busto  Granate  6610   36](https://www.amazon.es/dp/B06XYRDSM6/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 5.1 EUR (original: 10.2 EUR) en el siguiente enlace!

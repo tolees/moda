@@ -3,6 +3,7 @@ layout: post
 title: 'Lee Basic Hoodie  sudadera Hombre  Azul  al 75.09 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ghjLU08RL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ghjLU08RL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ghjLU08RL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 75 EUR
 inStock: true
 prodname: 'Lee Basic Hoodie  sudadera Hombre  Azul  Dipped Blue La   XX-Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FTSFC1L/?tag=tolees-21'
+descuento: '75.09'
+titulo: 'Lee Basic Hoodie  sudadera Hombre  Azul '
 ---
 
 Ahora mismo tienes [Lee Basic Hoodie  sudadera Hombre  Azul  Dipped Blue La   XX-Large](https://www.amazon.es/dp/B07FTSFC1L/?tag=tolees-21) a 18.68 EUR (original: 75 EUR) (75.09 %  de descuento) en el siguiente enlace!

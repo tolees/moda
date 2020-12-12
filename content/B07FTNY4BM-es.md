@@ -3,6 +3,7 @@ layout: post
 title: 'Lee Scarlett High Skinny Vaqueros  Azul  al 75.03 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uC0nbNsxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41uC0nbNsxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41uC0nbNsxL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'Lee Scarlett High Skinny Vaqueros  Azul  Dark Used UE   26W / 33L para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FTNY4BM/?tag=tolees-21'
+descuento: '75.03'
+titulo: 'Lee Scarlett High Skinny Vaqueros  Azul '
 ---
 
 Ahora mismo tienes [Lee Scarlett High Skinny Vaqueros  Azul  Dark Used UE   26W / 33L para Mujer](https://www.amazon.es/dp/B07FTNY4BM/?tag=tolees-21) a 24.96 EUR (original: 99.95 EUR) (75.03 %  de descuento) en el siguiente enlace!

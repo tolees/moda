@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 55.51 % en Pikolinos Oviedo 08F  Zapatos de Cordone'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413MWpMgzUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/413MWpMgzUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413MWpMgzUL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 89 EUR
 inStock: true
 prodname: 'Pikolinos Oviedo 08F  Zapatos de Cordones Oxford para Hombre  Marrón Olmo  47 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00JGNZWDM/?tag=tolees-21'
+descuento: '55.51'
+titulo: 'Pikolinos Oviedo 08F  Zapatos de Cordone'
 ---
 
 Tienes [Pikolinos Oviedo 08F  Zapatos de Cordones Oxford para Hombre  Marrón Olmo  47 EU](https://www.amazon.es/dp/B00JGNZWDM/?tag=tolees-21) con un 55.51 % de descuento con precio de oferta de 39.6 EUR (original: 89 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 57.96 % en Timberland Wild Dunes Synthetic Chanclas'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4129yMY1fPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4129yMY1fPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4129yMY1fPL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 45 EUR
 inStock: true
 prodname: 'Timberland Wild Dunes Synthetic Chanclas Hombre  Verde  Grape Leaf A58   41.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078SXJWMW/?tag=tolees-21'
+descuento: '57.96'
+titulo: 'Timberland Wild Dunes Synthetic Chanclas'
 ---
 
 Tienes [Timberland Wild Dunes Synthetic Chanclas Hombre  Verde  Grape Leaf A58   41.5 EU](https://www.amazon.es/dp/B078SXJWMW/?tag=tolees-21) con un 57.96 % de descuento con precio de oferta de 18.92 EUR (original: 45 EUR) en el siguiente enlace!

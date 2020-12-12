@@ -3,6 +3,7 @@ layout: post
 title: 'Ray-Ban 3576n Gafas de sol  Gold Striped al 34.48 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31h0znat7WL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31h0znat7WL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31h0znat7WL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 179 EUR
 inStock: true
 prodname: 'Ray-Ban 3576n Gafas de sol  Gold Striped/Graygreen  47 Unisex-Adulto'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071VPNGJ3/?tag=tolees-21'
+descuento: '34.48'
+titulo: 'Ray-Ban 3576n Gafas de sol  Gold Striped'
 ---
 
 Ahora mismo tienes [Ray-Ban 3576n Gafas de sol  Gold Striped/Graygreen  47 Unisex-Adulto](https://www.amazon.es/dp/B071VPNGJ3/?tag=tolees-21) a 117.28 EUR (original: 179 EUR) (34.48 %  de descuento) en el siguiente enlace!

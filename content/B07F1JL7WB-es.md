@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 59.85 % en Armani Exchange Good Vibes Loose Fit Sco'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414XSWXra8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/414XSWXra8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414XSWXra8L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 60 EUR
 inStock: true
 prodname: 'Armani Exchange Good Vibes Loose Fit Scoop Neck Camiseta  Blanco  Optic White 1000   X-Large para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F1JL7WB/?tag=tolees-21'
+descuento: '59.85'
+titulo: 'Armani Exchange Good Vibes Loose Fit Sco'
 ---
 
 Tienes [Armani Exchange Good Vibes Loose Fit Scoop Neck Camiseta  Blanco  Optic White 1000   X-Large para Mujer](https://www.amazon.es/dp/B07F1JL7WB/?tag=tolees-21) con un 59.85 % de descuento con precio de oferta de 24.09 EUR (original: 60 EUR) en el siguiente enlace!

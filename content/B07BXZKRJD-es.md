@@ -3,6 +3,7 @@ layout: post
 title: 'Tommy Jeans Hombre AUTHENTIC NYC Camisa  al 55.74 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yA5HSAKhL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41yA5HSAKhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yA5HSAKhL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 35 EUR
 inStock: true
 prodname: 'Tommy Jeans Hombre AUTHENTIC NYC Camisa Manga Corta  Blanco  Classic White 100  X-Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BXZKRJD/?tag=tolees-21'
+descuento: '55.74'
+titulo: 'Tommy Jeans Hombre AUTHENTIC NYC Camisa '
 ---
 
 Está [Tommy Jeans Hombre AUTHENTIC NYC Camisa Manga Corta  Blanco  Classic White 100  X-Large](https://www.amazon.es/dp/B07BXZKRJD/?tag=tolees-21) con 55.74 de descuento por 15.49 EUR (original: 35 EUR) en el siguiente enlace!

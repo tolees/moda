@@ -3,6 +3,7 @@ layout: post
 title: 'Crocs Classic  Zuecos Unisex Adulto  Dor al 40.07 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31i7SSXyVNL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31i7SSXyVNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31i7SSXyVNL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 34.99 EUR
 inStock: true
 prodname: 'Crocs Classic  Zuecos Unisex Adulto  Dorado  Bronze 854   41/42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CN49HW5/?tag=tolees-21'
+descuento: '40.07'
+titulo: 'Crocs Classic  Zuecos Unisex Adulto  Dor'
 ---
 
 Está [Crocs Classic  Zuecos Unisex Adulto  Dorado  Bronze 854   41/42 EU](https://www.amazon.es/dp/B07CN49HW5/?tag=tolees-21) con 40.07 de descuento por 20.97 EUR (original: 34.99 EUR) en el siguiente enlace!

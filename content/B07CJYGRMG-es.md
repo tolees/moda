@@ -3,6 +3,7 @@ layout: post
 title: 'Pepe Jeans Ridleys I Camisa  Negro  Blac al 50.28 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rLacvv6YL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41rLacvv6YL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rLacvv6YL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 65 EUR
 inStock: true
 prodname: 'Pepe Jeans Ridleys I Camisa  Negro  Black 999   Large para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CJYGRMG/?tag=tolees-21'
+descuento: '50.28'
+titulo: 'Pepe Jeans Ridleys I Camisa  Negro  Blac'
 ---
 
 Está [Pepe Jeans Ridleys I Camisa  Negro  Black 999   Large para Hombre](https://www.amazon.es/dp/B07CJYGRMG/?tag=tolees-21) con 50.28 de descuento por 32.32 EUR (original: 65 EUR) en el siguiente enlace!

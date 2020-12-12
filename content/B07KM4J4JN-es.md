@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 39.47 % en fawova Classic Gafas Aviador Hombre y Mu'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/3183l9z5OxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/3183l9z5OxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/3183l9z5OxL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 38 EUR
 inStock: true
 prodname: 'fawova Classic Gafas Aviador Hombre y Mujer Polarizadas  2019 Gafas Sol Militares Unisex  100% UV400 Conducir Coche Antideslumbrante  oro rosa  marrón '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KM4J4JN/?tag=tolees-21'
+descuento: '39.47'
+titulo: 'fawova Classic Gafas Aviador Hombre y Mu'
 ---
 
 Tienes [fawova Classic Gafas Aviador Hombre y Mujer Polarizadas  2019 Gafas Sol Militares Unisex  100% UV400 Conducir Coche Antideslumbrante  oro rosa  marrón ](https://www.amazon.es/dp/B07KM4J4JN/?tag=tolees-21) con un 39.47 % de descuento con precio de oferta de 23 EUR (original: 38 EUR) en el siguiente enlace!

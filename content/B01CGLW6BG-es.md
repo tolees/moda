@@ -3,6 +3,7 @@ layout: post
 title: 'Timberland Reloj Analógico para Hombre d al 65.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Nob4J9MfL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Nob4J9MfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Nob4J9MfL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 129 EUR
 inStock: true
 prodname: 'Timberland Reloj Analógico para Hombre de Cuarzo con Correa en Caucho TBL.14478JSU-07P'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01CGLW6BG/?tag=tolees-21'
+descuento: '65.00'
+titulo: 'Timberland Reloj Analógico para Hombre d'
 ---
 
 Está [Timberland Reloj Analógico para Hombre de Cuarzo con Correa en Caucho TBL.14478JSU-07P](https://www.amazon.es/dp/B01CGLW6BG/?tag=tolees-21) con 65.00 de descuento por 45.15 EUR (original: 129 EUR) en el siguiente enlace!

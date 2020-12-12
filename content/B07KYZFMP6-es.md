@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield 2.T.Ap.Pv19.Tachas Bolita  C al 43.94 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YrTrcf42L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41YrTrcf42L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YrTrcf42L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 9.99 EUR
 inStock: true
 prodname: 'Springfield 2.T.Ap.Pv19.Tachas Bolita  Camiseta para Mujer   Gama Grises 45   X-Small  Tamaño del Fabricante:XS '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KYZFMP6/?tag=tolees-21'
+descuento: '43.94'
+titulo: 'Springfield 2.T.Ap.Pv19.Tachas Bolita  C'
 ---
 
 Está [Springfield 2.T.Ap.Pv19.Tachas Bolita  Camiseta para Mujer   Gama Grises 45   X-Small  Tamaño del Fabricante:XS ](https://www.amazon.es/dp/B07KYZFMP6/?tag=tolees-21) con 43.94 de descuento por 5.6 EUR (original: 9.99 EUR) en el siguiente enlace!

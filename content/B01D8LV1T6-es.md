@@ -3,6 +3,7 @@ layout: post
 title: 'The North Face Nimble H Sudadera  Hombre al 30.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vwhk5B0qL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41vwhk5B0qL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vwhk5B0qL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 100 EUR
 inStock: true
 prodname: 'The North Face Nimble H Sudadera  Hombre  Negro  TNF Black   M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01D8LV1T6/?tag=tolees-21'
+descuento: '30.00'
+titulo: 'The North Face Nimble H Sudadera  Hombre'
 ---
 
 Está [The North Face Nimble H Sudadera  Hombre  Negro  TNF Black   M](https://www.amazon.es/dp/B01D8LV1T6/?tag=tolees-21) con 30.00 de descuento por 70 EUR (original: 100 EUR) en el siguiente enlace!

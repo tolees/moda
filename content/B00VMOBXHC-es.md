@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 60.21 % en Jako Striker KA - Camiseta de fútbol  Un'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41oDXmH7S6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41oDXmH7S6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41oDXmH7S6L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 20.23 EUR
 inStock: true
 prodname: 'Jako Striker KA - Camiseta de fútbol  Unisex Adulto  Multicolor  White / Black   116  Talla del fabricante: S '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00VMOBXHC/?tag=tolees-21'
+descuento: '60.21'
+titulo: 'Jako Striker KA - Camiseta de fútbol  Un'
 ---
 
 Tienes [Jako Striker KA - Camiseta de fútbol  Unisex Adulto  Multicolor  White / Black   116  Talla del fabricante: S ](https://www.amazon.es/dp/B00VMOBXHC/?tag=tolees-21) con un 60.21 % de descuento con precio de oferta de 8.05 EUR (original: 20.23 EUR) en el siguiente enlace!

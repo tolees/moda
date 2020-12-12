@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 56.62 % en Timberland Retro Runner  Zapatos de Cord'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41FKo-2T78L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41FKo-2T78L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41FKo-2T78L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 140 EUR
 inStock: true
 prodname: 'Timberland Retro Runner  Zapatos de Cordones Oxford para Hombre  Marrón  Pure Cashmere Nubuck K51   41 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078SWXN9Y/?tag=tolees-21'
+descuento: '56.62'
+titulo: 'Timberland Retro Runner  Zapatos de Cord'
 ---
 
 Tienes [Timberland Retro Runner  Zapatos de Cordones Oxford para Hombre  Marrón  Pure Cashmere Nubuck K51   41 EU](https://www.amazon.es/dp/B078SWXN9Y/?tag=tolees-21) con un 56.62 % de descuento con precio de oferta de 60.73 EUR (original: 140 EUR) en el siguiente enlace!

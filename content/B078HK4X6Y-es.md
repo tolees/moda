@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield 6813720 Blusa  Mujer   Gama  al 49.22 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cRokEVyXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41cRokEVyXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41cRokEVyXL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 24.99 EUR
 inStock: true
 prodname: 'Springfield 6813720 Blusa  Mujer   Gama Rosa/Morado   34  Tamaño del Fabricante:34 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078HK4X6Y/?tag=tolees-21'
+descuento: '49.22'
+titulo: 'Springfield 6813720 Blusa  Mujer   Gama '
 ---
 
 Está [Springfield 6813720 Blusa  Mujer   Gama Rosa/Morado   34  Tamaño del Fabricante:34 ](https://www.amazon.es/dp/B078HK4X6Y/?tag=tolees-21) con 49.22 de descuento por 12.69 EUR (original: 24.99 EUR) en el siguiente enlace!

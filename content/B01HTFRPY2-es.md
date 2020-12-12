@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 42.71 % en Columbia Chaqueta Impermeable con Capuch'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414jEhGj3sL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/414jEhGj3sL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414jEhGj3sL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 129.99 EUR
 inStock: true
 prodname: 'Columbia Chaqueta Impermeable con Capucha para Mujer  Powder Lite Hooded  Negro  Black   M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01HTFRPY2/?tag=tolees-21'
+descuento: '42.71'
+titulo: 'Columbia Chaqueta Impermeable con Capuch'
 ---
 
 Tienes [Columbia Chaqueta Impermeable con Capucha para Mujer  Powder Lite Hooded  Negro  Black   M](https://www.amazon.es/dp/B01HTFRPY2/?tag=tolees-21) con un 42.71 % de descuento con precio de oferta de 74.47 EUR (original: 129.99 EUR) en el siguiente enlace!

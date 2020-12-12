@@ -3,6 +3,7 @@ layout: post
 title: 'Volcom FRCKN MDRN Strch SHT Pantalón Cor al 43.73 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Lyn5ZMyGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Lyn5ZMyGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Lyn5ZMyGL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 55 EUR
 inStock: true
 prodname: 'Volcom FRCKN MDRN Strch SHT Pantalón Corto  Hombre  Negro  33'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B013TGKDYY/?tag=tolees-21'
+descuento: '43.73'
+titulo: 'Volcom FRCKN MDRN Strch SHT Pantalón Cor'
 ---
 
 Está [Volcom FRCKN MDRN Strch SHT Pantalón Corto  Hombre  Negro  33](https://www.amazon.es/dp/B013TGKDYY/?tag=tolees-21) con 43.73 de descuento por 30.95 EUR (original: 55 EUR) en el siguiente enlace!

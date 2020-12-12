@@ -3,6 +3,7 @@ layout: post
 title: 'Refresh 063868  Botines para Mujer  Azul al 70.86 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ghEiZXPhL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51ghEiZXPhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ghEiZXPhL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 39.95 EUR
 inStock: true
 prodname: 'Refresh 063868  Botines para Mujer  Azul  Navy   39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071NDNWB2/?tag=tolees-21'
+descuento: '70.86'
+titulo: 'Refresh 063868  Botines para Mujer  Azul'
 ---
 
 Está [Refresh 063868  Botines para Mujer  Azul  Navy   39 EU](https://www.amazon.es/dp/B071NDNWB2/?tag=tolees-21) con 70.86 de descuento por 11.64 EUR (original: 39.95 EUR) en el siguiente enlace!

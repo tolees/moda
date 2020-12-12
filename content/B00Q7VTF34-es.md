@@ -3,6 +3,7 @@ layout: post
 title: 'Just Cavalli Sonnenbrille JC645S 5890L G al 70.31 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31UZoVsOxVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31UZoVsOxVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31UZoVsOxVL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 115 EUR
 inStock: true
 prodname: 'Just Cavalli Sonnenbrille JC645S 5890L Gafas de sol  Azul  Blau   58 Unisex Adulto'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00Q7VTF34/?tag=tolees-21'
+descuento: '70.31'
+titulo: 'Just Cavalli Sonnenbrille JC645S 5890L G'
 ---
 
 Ahora mismo tienes [Just Cavalli Sonnenbrille JC645S 5890L Gafas de sol  Azul  Blau   58 Unisex Adulto](https://www.amazon.es/dp/B00Q7VTF34/?tag=tolees-21) a 34.14 EUR (original: 115 EUR) (70.31 %  de descuento) en el siguiente enlace!

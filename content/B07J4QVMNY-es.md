@@ -3,6 +3,7 @@ layout: post
 title: 'IRIS & LILLY Kt118 Bikini  Rojo  Red/Whi al 30.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41WjIYadFML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41WjIYadFML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41WjIYadFML._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 27.99 EUR
 inStock: true
 prodname: 'IRIS & LILLY Kt118 Bikini  Rojo  Red/White Polka Dot   M  90B  75B '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07J4QVMNY/?tag=tolees-21'
+descuento: '30.01'
+titulo: 'IRIS & LILLY Kt118 Bikini  Rojo  Red/Whi'
 ---
 
 Ahora mismo tienes [IRIS & LILLY Kt118 Bikini  Rojo  Red/White Polka Dot   M  90B  75B ](https://www.amazon.es/dp/B07J4QVMNY/?tag=tolees-21) a 19.59 EUR (original: 27.99 EUR) (30.01 %  de descuento) en el siguiente enlace!

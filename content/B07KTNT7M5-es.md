@@ -3,6 +3,7 @@ layout: post
 title: 'United Colors of Benetton Sweater W/Hood al 72.72 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31KKyFYraoL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31KKyFYraoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31KKyFYraoL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 39.95 EUR
 inStock: true
 prodname: 'United Colors of Benetton Sweater W/Hood  Sudadera Deportiva para Hombre  Blanco  Bianco 101   única  Talla del Fabricante: EL '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KTNT7M5/?tag=tolees-21'
+descuento: '72.72'
+titulo: 'United Colors of Benetton Sweater W/Hood'
 ---
 
 Está [United Colors of Benetton Sweater W/Hood  Sudadera Deportiva para Hombre  Blanco  Bianco 101   única  Talla del Fabricante: EL ](https://www.amazon.es/dp/B07KTNT7M5/?tag=tolees-21) con 72.72 de descuento por 10.9 EUR (original: 39.95 EUR) en el siguiente enlace!

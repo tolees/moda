@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 70.93 % en Urban Classics Basic Down Jacket  Chaque'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ff28GKDVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ff28GKDVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ff28GKDVL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 51.42 EUR
 inStock: true
 prodname: 'Urban Classics Basic Down Jacket  Chaqueta para Hombre  Grau  Darkgrey 94   Small'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071G61TGR/?tag=tolees-21'
+descuento: '70.93'
+titulo: 'Urban Classics Basic Down Jacket  Chaque'
 ---
 
 Tienes [Urban Classics Basic Down Jacket  Chaqueta para Hombre  Grau  Darkgrey 94   Small](https://www.amazon.es/dp/B071G61TGR/?tag=tolees-21) con un 70.93 % de descuento con precio de oferta de 14.95 EUR (original: 51.42 EUR) en el siguiente enlace!

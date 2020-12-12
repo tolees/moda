@@ -3,6 +3,7 @@ layout: post
 title: 'G-STAR RAW Hombre Graphic 9 R T S\\s Cam al 50.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416pfHz0bpL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/416pfHz0bpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416pfHz0bpL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 35 EUR
 inStock: true
 prodname: 'G-STAR RAW Hombre Graphic 9 R T S\\s Camiseta Not Applicable  Azul  Sartho Blue 6067   Medium'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CZ882BD/?tag=tolees-21'
+descuento: '50.00'
+titulo: 'G-STAR RAW Hombre Graphic 9 R T S\\s Cam'
 ---
 
 Está [G-STAR RAW Hombre Graphic 9 R T S\\s Camiseta Not Applicable  Azul  Sartho Blue 6067   Medium](https://www.amazon.es/dp/B07CZ882BD/?tag=tolees-21) con 50.00 de descuento por 17.5 EUR (original: 35 EUR) en el siguiente enlace!

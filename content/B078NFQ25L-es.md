@@ -3,6 +3,7 @@ layout: post
 title: 'Columbia Lake 22 Down Jacket Chaqueta  H al 38.37 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZCv0sdU6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZCv0sdU6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZCv0sdU6L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 119.99 EUR
 inStock: true
 prodname: 'Columbia Lake 22 Down Jacket Chaqueta  Hombre  Mosstone  Talla M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078NFQ25L/?tag=tolees-21'
+descuento: '38.37'
+titulo: 'Columbia Lake 22 Down Jacket Chaqueta  H'
 ---
 
 Está [Columbia Lake 22 Down Jacket Chaqueta  Hombre  Mosstone  Talla M](https://www.amazon.es/dp/B078NFQ25L/?tag=tolees-21) con 38.37 de descuento por 73.95 EUR (original: 119.99 EUR) en el siguiente enlace!

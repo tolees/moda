@@ -3,6 +3,7 @@ layout: post
 title: 'Quiksilver Quik Pool Camiseta de Manga C al 45.22 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31-iWT33BLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31-iWT33BLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31-iWT33BLL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'Quiksilver Quik Pool Camiseta de Manga Corta  Hombre  Azul  Blue Nights   L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KJWQJXB/?tag=tolees-21'
+descuento: '45.22'
+titulo: 'Quiksilver Quik Pool Camiseta de Manga C'
 ---
 
 Está [Quiksilver Quik Pool Camiseta de Manga Corta  Hombre  Azul  Blue Nights   L](https://www.amazon.es/dp/B07KJWQJXB/?tag=tolees-21) con 45.22 de descuento por 10.95 EUR (original: 19.99 EUR) en el siguiente enlace!

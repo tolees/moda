@@ -3,6 +3,7 @@ layout: post
 title: 'MTNG Kiwi  Bolso de mano para Mujer  Bla al 55.89 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51EGYDc5F0L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51EGYDc5F0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51EGYDc5F0L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'MTNG Kiwi  Bolso de mano para Mujer  Blanco  Bimb Liso Blc Neg  20x25x41 cm  W x H x L '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07M9K9XTH/?tag=tolees-21'
+descuento: '55.89'
+titulo: 'MTNG Kiwi  Bolso de mano para Mujer  Bla'
 ---
 
 Está [MTNG Kiwi  Bolso de mano para Mujer  Blanco  Bimb Liso Blc Neg  20x25x41 cm  W x H x L ](https://www.amazon.es/dp/B07M9K9XTH/?tag=tolees-21) con 55.89 de descuento por 17.64 EUR (original: 39.99 EUR) en el siguiente enlace!

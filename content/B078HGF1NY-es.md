@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield 263818 Camiseta  Hombre  Azu al 47.97 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HxYEqIIcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41HxYEqIIcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HxYEqIIcL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 15.99 EUR
 inStock: true
 prodname: 'Springfield 263818 Camiseta  Hombre  Azul  Gama Azules   Small  Tamaño del Fabricante:S '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078HGF1NY/?tag=tolees-21'
+descuento: '47.97'
+titulo: 'Springfield 263818 Camiseta  Hombre  Azu'
 ---
 
 Está [Springfield 263818 Camiseta  Hombre  Azul  Gama Azules   Small  Tamaño del Fabricante:S ](https://www.amazon.es/dp/B078HGF1NY/?tag=tolees-21) con 47.97 de descuento por 8.32 EUR (original: 15.99 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Robluee - Perchero de Pared para Abrigo  al 82.45 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MnjeYD64L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41MnjeYD64L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41MnjeYD64L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 41.6 EUR
 inStock: true
 prodname: 'Robluee - Perchero de Pared para Abrigo de Acero Inoxidable para Abrigo de Sombrero'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07PNSTF6R/?tag=tolees-21'
+descuento: '82.45'
+titulo: 'Robluee - Perchero de Pared para Abrigo '
 ---
 
 Está [Robluee - Perchero de Pared para Abrigo de Acero Inoxidable para Abrigo de Sombrero](https://www.amazon.es/dp/B07PNSTF6R/?tag=tolees-21) con 82.45 de descuento por 7.3 EUR (original: 41.6 EUR) en el siguiente enlace!

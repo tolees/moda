@@ -3,6 +3,7 @@ layout: post
 title: 'Mayoral 4028  Camiseta de Manga Larga pa al 47.90 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cNrdsSPuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41cNrdsSPuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41cNrdsSPuL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 14.99 EUR
 inStock: true
 prodname: 'Mayoral 4028  Camiseta de Manga Larga para Niños   Damasco 85  6 años  Tamaño del Fabricante:6 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HPT4DFC/?tag=tolees-21'
+descuento: '47.90'
+titulo: 'Mayoral 4028  Camiseta de Manga Larga pa'
 ---
 
 Ahora mismo tienes [Mayoral 4028  Camiseta de Manga Larga para Niños   Damasco 85  6 años  Tamaño del Fabricante:6 ](https://www.amazon.es/dp/B07HPT4DFC/?tag=tolees-21) a 7.81 EUR (original: 14.99 EUR) (47.90 %  de descuento) en el siguiente enlace!

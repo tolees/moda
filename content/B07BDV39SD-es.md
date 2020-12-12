@@ -3,6 +3,7 @@ layout: post
 title: 'Agatha Ruiz de la Prada 181938  Botines  al 66.88 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41VjR6DBaOL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41VjR6DBaOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41VjR6DBaOL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 68.9 EUR
 inStock: true
 prodname: 'Agatha Ruiz de la Prada 181938  Botines para Niñas  Rosa  181938/B/Amz Fucsia  Sauvage   31 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BDV39SD/?tag=tolees-21'
+descuento: '66.88'
+titulo: 'Agatha Ruiz de la Prada 181938  Botines '
 ---
 
 Está [Agatha Ruiz de la Prada 181938  Botines para Niñas  Rosa  181938/B/Amz Fucsia  Sauvage   31 EU](https://www.amazon.es/dp/B07BDV39SD/?tag=tolees-21) con 66.88 de descuento por 22.82 EUR (original: 68.9 EUR) en el siguiente enlace!

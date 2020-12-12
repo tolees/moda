@@ -3,6 +3,7 @@ layout: post
 title: 'Disney Mickey Comic Bolso Bandolera  0.4 al 27.46 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61M8pFUrbtL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61M8pFUrbtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61M8pFUrbtL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'Disney Mickey Comic Bolso Bandolera  0.48 litros  Color'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01C2YD3G4/?tag=tolees-21'
+descuento: '27.46'
+titulo: 'Disney Mickey Comic Bolso Bandolera  0.4'
 ---
 
 Está [Disney Mickey Comic Bolso Bandolera  0.48 litros  Color](https://www.amazon.es/dp/B01C2YD3G4/?tag=tolees-21) con 27.46 de descuento por 14.5 EUR (original: 19.99 EUR) en el siguiente enlace!

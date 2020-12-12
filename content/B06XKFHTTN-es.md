@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 56.84 % en BOSS Hugo 0888/S IR 0T8 Gafas de Sol  Ne'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Us6KyLJKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Us6KyLJKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Us6KyLJKL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 180 EUR
 inStock: true
 prodname: 'BOSS Hugo 0888/S IR 0T8 Gafas de Sol  Negro  Bkivryhvn BK/Grey Blue   49 Unisex-Adulto'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XKFHTTN/?tag=tolees-21'
+descuento: '56.84'
+titulo: 'BOSS Hugo 0888/S IR 0T8 Gafas de Sol  Ne'
 ---
 
 Tienes [BOSS Hugo 0888/S IR 0T8 Gafas de Sol  Negro  Bkivryhvn BK/Grey Blue   49 Unisex-Adulto](https://www.amazon.es/dp/B06XKFHTTN/?tag=tolees-21) con un 56.84 % de descuento con precio de oferta de 77.69 EUR (original: 180 EUR) en el siguiente enlace!

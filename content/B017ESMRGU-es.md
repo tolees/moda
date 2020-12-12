@@ -3,6 +3,7 @@ layout: post
 title: 'Kiwi Saint Tropez Sujetador de Bikini Tr al 93.12 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41S1IqXykdL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41S1IqXykdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41S1IqXykdL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 52 EUR
 inStock: true
 prodname: 'Kiwi Saint Tropez Sujetador de Bikini Triangle Wendy Noeud Eole Rojo ES 40  FR 40 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B017ESMRGU/?tag=tolees-21'
+descuento: '93.12'
+titulo: 'Kiwi Saint Tropez Sujetador de Bikini Tr'
 ---
 
 Ahora mismo tienes [Kiwi Saint Tropez Sujetador de Bikini Triangle Wendy Noeud Eole Rojo ES 40  FR 40 ](https://www.amazon.es/dp/B017ESMRGU/?tag=tolees-21) a 3.58 EUR (original: 52 EUR) (93.12 %  de descuento) en el siguiente enlace!

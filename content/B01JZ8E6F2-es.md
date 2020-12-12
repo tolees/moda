@@ -3,6 +3,7 @@ layout: post
 title: 'Minnie Mouse Bolso Bajo con Asas Minnie  al 49.53 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418qtBiTMIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/418qtBiTMIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418qtBiTMIL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 15 EUR
 inStock: true
 prodname: 'Minnie Mouse Bolso Bajo con Asas Minnie  23x15x8'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01JZ8E6F2/?tag=tolees-21'
+descuento: '49.53'
+titulo: 'Minnie Mouse Bolso Bajo con Asas Minnie '
 ---
 
 Ahora mismo tienes [Minnie Mouse Bolso Bajo con Asas Minnie  23x15x8](https://www.amazon.es/dp/B01JZ8E6F2/?tag=tolees-21) a 7.57 EUR (original: 15 EUR) (49.53 %  de descuento) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 49.36 % en Speedo Atami II MAX  Chanclas para Mujer'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51rovbW%2BN3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51rovbW%2BN3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51rovbW%2BN3L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 22.67 EUR
 inStock: true
 prodname: 'Speedo Atami II MAX  Chanclas para Mujer   Azul Marino Blanco 7879   38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00QM9ZM0Q/?tag=tolees-21'
+descuento: '49.36'
+titulo: 'Speedo Atami II MAX  Chanclas para Mujer'
 ---
 
 Tienes [Speedo Atami II MAX  Chanclas para Mujer   Azul Marino Blanco 7879   38 EU](https://www.amazon.es/dp/B00QM9ZM0Q/?tag=tolees-21) con un 49.36 % de descuento con precio de oferta de 11.48 EUR (original: 22.67 EUR) en el siguiente enlace!

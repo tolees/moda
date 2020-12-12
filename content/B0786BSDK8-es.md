@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Ess Pique  Camiseta Polo Hombre  Az al 53.46 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41EMKyJ10lL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41EMKyJ10lL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41EMKyJ10lL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 29.95 EUR
 inStock: true
 prodname: 'Puma Ess Pique  Camiseta Polo Hombre  Azul  Turkish Sea   S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0786BSDK8/?tag=tolees-21'
+descuento: '53.46'
+titulo: 'Puma Ess Pique  Camiseta Polo Hombre  Az'
 ---
 
 Ahora mismo tienes [Puma Ess Pique  Camiseta Polo Hombre  Azul  Turkish Sea   S](https://www.amazon.es/dp/B0786BSDK8/?tag=tolees-21) a 13.94 EUR (original: 29.95 EUR) (53.46 %  de descuento) en el siguiente enlace!

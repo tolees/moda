@@ -3,6 +3,7 @@ layout: post
 title: 'Vero Moda Vmmalena LS Dress Exp Noos  Ve al 47.66 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31oxuKizmTL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31oxuKizmTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31oxuKizmTL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 20.48 EUR
 inStock: true
 prodname: 'Vero Moda Vmmalena LS Dress Exp Noos  Vestido Mujer  Gris  Light Grey Melange Light Melange   40  Talla del Fabricante: Medium '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CFRSRPJ/?tag=tolees-21'
+descuento: '47.66'
+titulo: 'Vero Moda Vmmalena LS Dress Exp Noos  Ve'
 ---
 
 Está [Vero Moda Vmmalena LS Dress Exp Noos  Vestido Mujer  Gris  Light Grey Melange Light Melange   40  Talla del Fabricante: Medium ](https://www.amazon.es/dp/B07CFRSRPJ/?tag=tolees-21) con 47.66 de descuento por 10.72 EUR (original: 20.48 EUR) en el siguiente enlace!

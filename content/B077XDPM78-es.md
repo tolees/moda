@@ -3,6 +3,7 @@ layout: post
 title: 'Tuc Tuc Crabs Pelele  Bebé-Niños   Único al 52.14 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/5112sfXPNBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/5112sfXPNBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/5112sfXPNBL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 25.95 EUR
 inStock: true
 prodname: 'Tuc Tuc Crabs Pelele  Bebé-Niños   Único   68  Tamaño del Fabricante:36 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077XDPM78/?tag=tolees-21'
+descuento: '52.14'
+titulo: 'Tuc Tuc Crabs Pelele  Bebé-Niños   Único'
 ---
 
 Ahora mismo tienes [Tuc Tuc Crabs Pelele  Bebé-Niños   Único   68  Tamaño del Fabricante:36 ](https://www.amazon.es/dp/B077XDPM78/?tag=tolees-21) a 12.42 EUR (original: 25.95 EUR) (52.14 %  de descuento) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield Pack 3 Tela Beers Bóxer  Hom al 47.76 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51aqNy7ep6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51aqNy7ep6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51aqNy7ep6L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 22.99 EUR
 inStock: true
 prodname: 'Springfield Pack 3 Tela Beers Bóxer  Hombre  Rojo  Rojo/Raya Diplomat 60   X-Large  Tamaño del Fabricante:XL '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DLJX6DZ/?tag=tolees-21'
+descuento: '47.76'
+titulo: 'Springfield Pack 3 Tela Beers Bóxer  Hom'
 ---
 
 Está [Springfield Pack 3 Tela Beers Bóxer  Hombre  Rojo  Rojo/Raya Diplomat 60   X-Large  Tamaño del Fabricante:XL ](https://www.amazon.es/dp/B07DLJX6DZ/?tag=tolees-21) con 47.76 de descuento por 12.01 EUR (original: 22.99 EUR) en el siguiente enlace!

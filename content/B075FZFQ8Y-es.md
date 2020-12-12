@@ -3,6 +3,7 @@ layout: post
 title: 'Clarks Unnature Plain  Zapatos de Cordon al 78.04 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QqHK9rJKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41QqHK9rJKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QqHK9rJKL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 140 EUR
 inStock: true
 prodname: 'Clarks Unnature Plain  Zapatos de Cordones Derby para Hombre  Azul  Navy Nubuck   41.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075FZFQ8Y/?tag=tolees-21'
+descuento: '78.04'
+titulo: 'Clarks Unnature Plain  Zapatos de Cordon'
 ---
 
 Ahora mismo tienes [Clarks Unnature Plain  Zapatos de Cordones Derby para Hombre  Azul  Navy Nubuck   41.5 EU](https://www.amazon.es/dp/B075FZFQ8Y/?tag=tolees-21) a 30.74 EUR (original: 140 EUR) (78.04 %  de descuento) en el siguiente enlace!

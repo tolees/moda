@@ -3,6 +3,7 @@ layout: post
 title: 'Tommy Jeans Hombre  Tapered Steve Vaquer al 56.25 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31JEgGmAu0L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31JEgGmAu0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31JEgGmAu0L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 95 EUR
 inStock: true
 prodname: 'Tommy Jeans Hombre  Tapered Steve Vaqueros slim   Azul  Berry Light Blue Comfort 911  W31/L34  Talla del fabricante: 3431 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07772LBXC/?tag=tolees-21'
+descuento: '56.25'
+titulo: 'Tommy Jeans Hombre  Tapered Steve Vaquer'
 ---
 
 Ahora mismo tienes [Tommy Jeans Hombre  Tapered Steve Vaqueros slim   Azul  Berry Light Blue Comfort 911  W31/L34  Talla del fabricante: 3431 ](https://www.amazon.es/dp/B07772LBXC/?tag=tolees-21) a 41.56 EUR (original: 95 EUR) (56.25 %  de descuento) en el siguiente enlace!

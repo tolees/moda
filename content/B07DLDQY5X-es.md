@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.00 % en AURIQUE GTQ3_05 Mallas de Entrenamiento '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Feb0VcuZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31Feb0VcuZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Feb0VcuZL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 26 EUR
 inStock: true
 prodname: 'AURIQUE GTQ3_05 Mallas de Entrenamiento Rojo Port Royale  36  Talla del Fabricante: X-Small '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DLDQY5X/?tag=tolees-21'
+descuento: '30.00'
+titulo: 'AURIQUE GTQ3_05 Mallas de Entrenamiento '
 ---
 
 Tienes [AURIQUE GTQ3_05 Mallas de Entrenamiento Rojo Port Royale  36  Talla del Fabricante: X-Small ](https://www.amazon.es/dp/B07DLDQY5X/?tag=tolees-21) con un 30.00 % de descuento con precio de oferta de 18.2 EUR (original: 26 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Diesel  Camiseta para Hombre  Schwarz  9 al 56.30 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ypnfPOMIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ypnfPOMIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ypnfPOMIL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 64 EUR
 inStock: true
 prodname: 'Diesel  Camiseta para Hombre  Schwarz  900 Black 0WAER   X-Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01F1YB0V2/?tag=tolees-21'
+descuento: '56.30'
+titulo: 'Diesel  Camiseta para Hombre  Schwarz  9'
 ---
 
 Está [Diesel  Camiseta para Hombre  Schwarz  900 Black 0WAER   X-Large](https://www.amazon.es/dp/B01F1YB0V2/?tag=tolees-21) con 56.30 de descuento por 27.97 EUR (original: 64 EUR) en el siguiente enlace!

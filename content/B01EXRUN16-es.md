@@ -3,6 +3,7 @@ layout: post
 title: 'Ray-Ban RB 3548n Gafas de sol  Gold  48  al 47.73 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21oF22JiWxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/21oF22JiWxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21oF22JiWxL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 179 EUR
 inStock: true
 prodname: 'Ray-Ban RB 3548n Gafas de sol  Gold  48 para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01EXRUN16/?tag=tolees-21'
+descuento: '47.73'
+titulo: 'Ray-Ban RB 3548n Gafas de sol  Gold  48 '
 ---
 
 Ahora mismo tienes [Ray-Ban RB 3548n Gafas de sol  Gold  48 para Hombre](https://www.amazon.es/dp/B01EXRUN16/?tag=tolees-21) a 93.56 EUR (original: 179 EUR) (47.73 %  de descuento) en el siguiente enlace!

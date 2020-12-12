@@ -3,6 +3,7 @@ layout: post
 title: 'TANTRA  Wild Tshirt - Camiseta para Muje al 85.47 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51YF7yPF1oL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51YF7yPF1oL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51YF7yPF1oL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 45 EUR
 inStock: true
 prodname: 'TANTRA  Wild Tshirt - Camiseta para Mujer  Color Black  Talla Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00Y35FOYA/?tag=tolees-21'
+descuento: '85.47'
+titulo: 'TANTRA  Wild Tshirt - Camiseta para Muje'
 ---
 
 Ahora mismo tienes [TANTRA  Wild Tshirt - Camiseta para Mujer  Color Black  Talla Large](https://www.amazon.es/dp/B00Y35FOYA/?tag=tolees-21) a 6.54 EUR (original: 45 EUR) (85.47 %  de descuento) en el siguiente enlace!

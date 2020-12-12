@@ -3,6 +3,7 @@ layout: post
 title: 'REPLAY Anbass Hyperflex Pantalones Vaque al 52.54 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ibKRfyFJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ibKRfyFJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ibKRfyFJL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 179 EUR
 inStock: true
 prodname: 'REPLAY Anbass Hyperflex Pantalones Vaqueros Delgados  Gris  Dark Grey Denim 9   W30/L30  Talla del Fabricante: 30  para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071CDJV5V/?tag=tolees-21'
+descuento: '52.54'
+titulo: 'REPLAY Anbass Hyperflex Pantalones Vaque'
 ---
 
 Está [REPLAY Anbass Hyperflex Pantalones Vaqueros Delgados  Gris  Dark Grey Denim 9   W30/L30  Talla del Fabricante: 30  para Hombre](https://www.amazon.es/dp/B071CDJV5V/?tag=tolees-21) con 52.54 de descuento por 84.96 EUR (original: 179 EUR) en el siguiente enlace!

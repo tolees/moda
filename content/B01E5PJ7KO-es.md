@@ -3,6 +3,7 @@ layout: post
 title: 'Miami Beach Swimwear Rosa  Bikini Mujer  al 60.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41aFpwypyiL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41aFpwypyiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41aFpwypyiL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 21.95 EUR
 inStock: true
 prodname: 'Miami Beach Swimwear Rosa  Bikini Mujer  Azul  aquarius   40'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01E5PJ7KO/?tag=tolees-21'
+descuento: '60.00'
+titulo: 'Miami Beach Swimwear Rosa  Bikini Mujer '
 ---
 
 Está [Miami Beach Swimwear Rosa  Bikini Mujer  Azul  aquarius   40](https://www.amazon.es/dp/B01E5PJ7KO/?tag=tolees-21) con 60.00 de descuento por 8.78 EUR (original: 21.95 EUR) en el siguiente enlace!

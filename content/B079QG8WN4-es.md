@@ -3,6 +3,7 @@ layout: post
 title: 'Hackett London Brushed TSHAL CHK Camisa  al 43.69 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41u90g9R%2BYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41u90g9R%2BYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41u90g9R%2BYL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 110.93 EUR
 inStock: true
 prodname: 'Hackett London Brushed TSHAL CHK Camisa   Multi Red 2aa   M para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079QG8WN4/?tag=tolees-21'
+descuento: '43.69'
+titulo: 'Hackett London Brushed TSHAL CHK Camisa '
 ---
 
 Está [Hackett London Brushed TSHAL CHK Camisa   Multi Red 2aa   M para Hombre](https://www.amazon.es/dp/B079QG8WN4/?tag=tolees-21) con 43.69 de descuento por 62.47 EUR (original: 110.93 EUR) en el siguiente enlace!

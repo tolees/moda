@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 49.93 % en Superdry Rookie Sherpa Multi Jacket  Abr'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417HZP233PL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/417HZP233PL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417HZP233PL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 149.9 EUR
 inStock: true
 prodname: 'Superdry Rookie Sherpa Multi Jacket  Abrigo para Mujer   Verde 03o   X-Small  Talla del Fabricante: 8.0 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FLCXW5G/?tag=tolees-21'
+descuento: '49.93'
+titulo: 'Superdry Rookie Sherpa Multi Jacket  Abr'
 ---
 
 Tienes [Superdry Rookie Sherpa Multi Jacket  Abrigo para Mujer   Verde 03o   X-Small  Talla del Fabricante: 8.0 ](https://www.amazon.es/dp/B07FLCXW5G/?tag=tolees-21) con un 49.93 % de descuento con precio de oferta de 75.06 EUR (original: 149.9 EUR) en el siguiente enlace!

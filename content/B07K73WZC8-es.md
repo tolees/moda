@@ -3,6 +3,7 @@ layout: post
 title: 'Levi s SS Set-in Sunset Pocket Camiseta  al 66.83 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41G0KZTSN1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41G0KZTSN1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41G0KZTSN1L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 30 EUR
 inStock: true
 prodname: 'Levi s SS Set-in Sunset Pocket Camiseta   Boink Stripe Dress Blues/Lychee 0077   XX-Large para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K73WZC8/?tag=tolees-21'
+descuento: '66.83'
+titulo: 'Levi s SS Set-in Sunset Pocket Camiseta '
 ---
 
 Está [Levi s SS Set-in Sunset Pocket Camiseta   Boink Stripe Dress Blues/Lychee 0077   XX-Large para Hombre](https://www.amazon.es/dp/B07K73WZC8/?tag=tolees-21) con 66.83 de descuento por 9.95 EUR (original: 30 EUR) en el siguiente enlace!

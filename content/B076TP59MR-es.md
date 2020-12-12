@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 27.98 % en Under Armour BGS Jet 2018 3020948-002  Z'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BeApbe8HL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41BeApbe8HL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BeApbe8HL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 62.48 EUR
 inStock: true
 prodname: 'Under Armour BGS Jet 2018 3020948-002  Zapatos de Baloncesto Unisex Niños  Negro  Black 3020948/002   35 1/2 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076TP59MR/?tag=tolees-21'
+descuento: '27.98'
+titulo: 'Under Armour BGS Jet 2018 3020948-002  Z'
 ---
 
 Tienes [Under Armour BGS Jet 2018 3020948-002  Zapatos de Baloncesto Unisex Niños  Negro  Black 3020948/002   35 1/2 EU](https://www.amazon.es/dp/B076TP59MR/?tag=tolees-21) con un 27.98 % de descuento con precio de oferta de 45 EUR (original: 62.48 EUR) en el siguiente enlace!

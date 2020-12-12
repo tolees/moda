@@ -3,6 +3,7 @@ layout: post
 title: 'Levi s The Jacket Chaqueta Vaquera  Negr al 50.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nygRZYFsL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41nygRZYFsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41nygRZYFsL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 110 EUR
 inStock: true
 prodname: 'Levi s The Jacket Chaqueta Vaquera  Negro  Berk Trucker 0306   Small para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F27SFVQ/?tag=tolees-21'
+descuento: '50.00'
+titulo: 'Levi s The Jacket Chaqueta Vaquera  Negr'
 ---
 
 Está [Levi s The Jacket Chaqueta Vaquera  Negro  Berk Trucker 0306   Small para Hombre](https://www.amazon.es/dp/B07F27SFVQ/?tag=tolees-21) con 50.00 de descuento por 55 EUR (original: 110 EUR) en el siguiente enlace!

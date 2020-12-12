@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 43.06 % en The North Face M Durango HD Chaqueta  Ho'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wHkrTSJVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41wHkrTSJVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wHkrTSJVL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 180 EUR
 inStock: true
 prodname: 'The North Face M Durango HD Chaqueta  Hombre  TNF Black  L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00DZLBJAG/?tag=tolees-21'
+descuento: '43.06'
+titulo: 'The North Face M Durango HD Chaqueta  Ho'
 ---
 
 Tienes [The North Face M Durango HD Chaqueta  Hombre  TNF Black  L](https://www.amazon.es/dp/B00DZLBJAG/?tag=tolees-21) con un 43.06 % de descuento con precio de oferta de 102.5 EUR (original: 180 EUR) en el siguiente enlace!

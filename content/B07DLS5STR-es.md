@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 62.59 % en Springfield 4Ca Slub Brochazo Wild AZ  S'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41o2cZzw0QL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41o2cZzw0QL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41o2cZzw0QL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 12.99 EUR
 inStock: true
 prodname: 'Springfield 4Ca Slub Brochazo Wild AZ  Sudadera para Hombre   Gama Azules 12   Medium  Tamaño del Fabricante:M '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DLS5STR/?tag=tolees-21'
+descuento: '62.59'
+titulo: 'Springfield 4Ca Slub Brochazo Wild AZ  S'
 ---
 
 Tienes [Springfield 4Ca Slub Brochazo Wild AZ  Sudadera para Hombre   Gama Azules 12   Medium  Tamaño del Fabricante:M ](https://www.amazon.es/dp/B07DLS5STR/?tag=tolees-21) con un 62.59 % de descuento con precio de oferta de 4.86 EUR (original: 12.99 EUR) en el siguiente enlace!

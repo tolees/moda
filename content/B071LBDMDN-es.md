@@ -3,6 +3,7 @@ layout: post
 title: 'FIND Vestido Asimétrico para Mujer   Azu al 57.14 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31DYy7llUSL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31DYy7llUSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31DYy7llUSL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 18.2 EUR
 inStock: true
 prodname: 'FIND Vestido Asimétrico para Mujer   Azul  Navy   42  Talla del Fabricante: Large '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071LBDMDN/?tag=tolees-21'
+descuento: '57.14'
+titulo: 'FIND Vestido Asimétrico para Mujer   Azu'
 ---
 
 Ahora mismo tienes [FIND Vestido Asimétrico para Mujer   Azul  Navy   42  Talla del Fabricante: Large ](https://www.amazon.es/dp/B071LBDMDN/?tag=tolees-21) a 7.8 EUR (original: 18.2 EUR) (57.14 %  de descuento) en el siguiente enlace!

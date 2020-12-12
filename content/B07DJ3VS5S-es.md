@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 69.29 % en Geox D Theragon C  Zapatillas para Mujer'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ubXouYhPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31ubXouYhPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ubXouYhPL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 115 EUR
 inStock: true
 prodname: 'Geox D Theragon C  Zapatillas para Mujer  Blue/Navy C4294  41 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DJ3VS5S/?tag=tolees-21'
+descuento: '69.29'
+titulo: 'Geox D Theragon C  Zapatillas para Mujer'
 ---
 
 Tienes [Geox D Theragon C  Zapatillas para Mujer  Blue/Navy C4294  41 EU](https://www.amazon.es/dp/B07DJ3VS5S/?tag=tolees-21) con un 69.29 % de descuento con precio de oferta de 35.32 EUR (original: 115 EUR) en el siguiente enlace!

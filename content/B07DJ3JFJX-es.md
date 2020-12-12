@@ -3,6 +3,7 @@ layout: post
 title: 'Geox D Tahina C  Zapatillas para Mujer   al 62.08 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/312wb2HZDFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/312wb2HZDFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/312wb2HZDFL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 99.9 EUR
 inStock: true
 prodname: 'Geox D Tahina C  Zapatillas para Mujer  Coral/White C7204  39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DJ3JFJX/?tag=tolees-21'
+descuento: '62.08'
+titulo: 'Geox D Tahina C  Zapatillas para Mujer  '
 ---
 
 Está [Geox D Tahina C  Zapatillas para Mujer  Coral/White C7204  39 EU](https://www.amazon.es/dp/B07DJ3JFJX/?tag=tolees-21) con 62.08 de descuento por 37.88 EUR (original: 99.9 EUR) en el siguiente enlace!

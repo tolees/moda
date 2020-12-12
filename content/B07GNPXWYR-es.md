@@ -3,6 +3,7 @@ layout: post
 title: 'JACK & JONES Jcoten Shirt LS One Pocket  al 54.98 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZPx%2BzJt3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZPx%2BzJt3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZPx%2BzJt3L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'JACK & JONES Jcoten Shirt LS One Pocket  Camisa para Hombre  Azul  X-Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GNPXWYR/?tag=tolees-21'
+descuento: '54.98'
+titulo: 'JACK & JONES Jcoten Shirt LS One Pocket '
 ---
 
 Está [JACK & JONES Jcoten Shirt LS One Pocket  Camisa para Hombre  Azul  X-Large](https://www.amazon.es/dp/B07GNPXWYR/?tag=tolees-21) con 54.98 de descuento por 13.5 EUR (original: 29.99 EUR) en el siguiente enlace!

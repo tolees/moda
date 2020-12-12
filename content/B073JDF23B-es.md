@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 53.63 % en Cortefiel C7CB Straight Lav. Oscuro Vaqu'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DlCF--XZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41DlCF--XZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DlCF--XZL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'Cortefiel C7CB Straight Lav. Oscuro Vaqueros straight  Hombre  Azul  Blue   Tamaño del fabricante:44 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073JDF23B/?tag=tolees-21'
+descuento: '53.63'
+titulo: 'Cortefiel C7CB Straight Lav. Oscuro Vaqu'
 ---
 
 Tienes [Cortefiel C7CB Straight Lav. Oscuro Vaqueros straight  Hombre  Azul  Blue   Tamaño del fabricante:44 ](https://www.amazon.es/dp/B073JDF23B/?tag=tolees-21) con un 53.63 % de descuento con precio de oferta de 23.18 EUR (original: 49.99 EUR) en el siguiente enlace!

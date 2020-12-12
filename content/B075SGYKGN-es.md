@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 77.55 % en Springfield 1082620 Sudadera  Negro  Bla'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51htoCDq-AL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51htoCDq-AL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51htoCDq-AL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 24.99 EUR
 inStock: true
 prodname: 'Springfield 1082620 Sudadera  Negro  Black   Medium  Tamaño del Fabricante:M  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075SGYKGN/?tag=tolees-21'
+descuento: '77.55'
+titulo: 'Springfield 1082620 Sudadera  Negro  Bla'
 ---
 
 Tienes [Springfield 1082620 Sudadera  Negro  Black   Medium  Tamaño del Fabricante:M  para Mujer](https://www.amazon.es/dp/B075SGYKGN/?tag=tolees-21) con un 77.55 % de descuento con precio de oferta de 5.61 EUR (original: 24.99 EUR) en el siguiente enlace!

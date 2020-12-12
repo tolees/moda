@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 68.26 % en Lovable 9l076c Pijama   Verde 009   Medi'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31n6TmD71uL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31n6TmD71uL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31n6TmD71uL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 49.9 EUR
 inStock: true
 prodname: 'Lovable 9l076c Pijama   Verde 009   Medium para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CL5KJMS/?tag=tolees-21'
+descuento: '68.26'
+titulo: 'Lovable 9l076c Pijama   Verde 009   Medi'
 ---
 
 Tienes [Lovable 9l076c Pijama   Verde 009   Medium para Mujer](https://www.amazon.es/dp/B07CL5KJMS/?tag=tolees-21) con un 68.26 % de descuento con precio de oferta de 15.84 EUR (original: 49.9 EUR) en el siguiente enlace!

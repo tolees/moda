@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 73.09 % en Portwest - Pantalón de trabajo  color ne'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31A2E43SloL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31A2E43SloL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31A2E43SloL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 29.95 EUR
 inStock: true
 prodname: 'Portwest - Pantalón de trabajo  color negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00BRBM6GM/?tag=tolees-21'
+descuento: '73.09'
+titulo: 'Portwest - Pantalón de trabajo  color ne'
 ---
 
 Tienes [Portwest - Pantalón de trabajo  color negro](https://www.amazon.es/dp/B00BRBM6GM/?tag=tolees-21) con un 73.09 % de descuento con precio de oferta de 8.06 EUR (original: 29.95 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'JACK & JONES Jcoslice Sweat Crew Neck  S al 48.84 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tIDVwL7hL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41tIDVwL7hL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tIDVwL7hL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 34.99 EUR
 inStock: true
 prodname: 'JACK & JONES Jcoslice Sweat Crew Neck  Sudadera para Hombre  Azul  Sky Captain Fit:Slim  Small'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073FS5DL5/?tag=tolees-21'
+descuento: '48.84'
+titulo: 'JACK & JONES Jcoslice Sweat Crew Neck  S'
 ---
 
 Ahora mismo tienes [JACK & JONES Jcoslice Sweat Crew Neck  Sudadera para Hombre  Azul  Sky Captain Fit:Slim  Small](https://www.amazon.es/dp/B073FS5DL5/?tag=tolees-21) a 17.9 EUR (original: 34.99 EUR) (48.84 %  de descuento) en el siguiente enlace!

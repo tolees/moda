@@ -3,6 +3,7 @@ layout: post
 title: 'The North Face Y S/S T Camiseta Box  Niñ al 50.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Kf47lnAHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Kf47lnAHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Kf47lnAHL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 30 EUR
 inStock: true
 prodname: 'The North Face Y S/S T Camiseta Box  Niños  Verde  New Taupe Green   S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BB57VV3/?tag=tolees-21'
+descuento: '50.00'
+titulo: 'The North Face Y S/S T Camiseta Box  Niñ'
 ---
 
 Está [The North Face Y S/S T Camiseta Box  Niños  Verde  New Taupe Green   S](https://www.amazon.es/dp/B07BB57VV3/?tag=tolees-21) con 50.00 de descuento por 15 EUR (original: 30 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Guantes de Invierno Cooolla Cálidos guan al 54.57 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51VJTLTC9mL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51VJTLTC9mL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51VJTLTC9mL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 21.99 EUR
 inStock: true
 prodname: 'Guantes de Invierno Cooolla Cálidos guantes de Moto al Aire Libre Guantes para Pantalla Táctil'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HFWDQXD/?tag=tolees-21'
+descuento: '54.57'
+titulo: 'Guantes de Invierno Cooolla Cálidos guan'
 ---
 
 Está [Guantes de Invierno Cooolla Cálidos guantes de Moto al Aire Libre Guantes para Pantalla Táctil](https://www.amazon.es/dp/B07HFWDQXD/?tag=tolees-21) con 54.57 de descuento por 9.99 EUR (original: 21.99 EUR) en el siguiente enlace!

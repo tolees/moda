@@ -3,6 +3,7 @@ layout: post
 title: 'G-STAR RAW 3301 Tapered Vaqueros para Ho al 75.77 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gT8GpK%2BaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41gT8GpK%2BaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gT8GpK%2BaL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'G-STAR RAW 3301 Tapered Vaqueros para Hombre  Azul  dk aged 6590-89   30W / 34L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01BGTJ40A/?tag=tolees-21'
+descuento: '75.77'
+titulo: 'G-STAR RAW 3301 Tapered Vaqueros para Ho'
 ---
 
 Ahora mismo tienes [G-STAR RAW 3301 Tapered Vaqueros para Hombre  Azul  dk aged 6590-89   30W / 34L](https://www.amazon.es/dp/B01BGTJ40A/?tag=tolees-21) a 24.22 EUR (original: 99.95 EUR) (75.77 %  de descuento) en el siguiente enlace!

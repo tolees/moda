@@ -3,6 +3,7 @@ layout: post
 title: 'New Balance MC NB Ice 2E Camiseta  Mujer al 61.98 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ldGoTDPXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ldGoTDPXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ldGoTDPXL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 40 EUR
 inStock: true
 prodname: 'New Balance MC NB Ice 2E Camiseta  Mujer  Rosa  Vivid Coral   XS'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0711HXC8N/?tag=tolees-21'
+descuento: '61.98'
+titulo: 'New Balance MC NB Ice 2E Camiseta  Mujer'
 ---
 
 Ahora mismo tienes [New Balance MC NB Ice 2E Camiseta  Mujer  Rosa  Vivid Coral   XS](https://www.amazon.es/dp/B0711HXC8N/?tag=tolees-21) a 15.21 EUR (original: 40 EUR) (61.98 %  de descuento) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'G-STAR RAW Midge Zip Low Waist Super Ski al 47.75 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31rtXZ49w%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31rtXZ49w%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31rtXZ49w%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 119.95 EUR
 inStock: true
 prodname: 'G-STAR RAW Midge Zip Low Waist Super Skinny Vaqueros  rinsed-82  31W / 32L para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00SF8JWC6/?tag=tolees-21'
+descuento: '47.75'
+titulo: 'G-STAR RAW Midge Zip Low Waist Super Ski'
 ---
 
 Ahora mismo tienes [G-STAR RAW Midge Zip Low Waist Super Skinny Vaqueros  rinsed-82  31W / 32L para Mujer](https://www.amazon.es/dp/B00SF8JWC6/?tag=tolees-21) a 62.67 EUR (original: 119.95 EUR) (47.75 %  de descuento) en el siguiente enlace!

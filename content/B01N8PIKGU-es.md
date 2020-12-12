@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 60.84 % en Kempa Fly High - Camiseta de Hombre  Tod'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HpzVe3GUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41HpzVe3GUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HpzVe3GUL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 25.41 EUR
 inStock: true
 prodname: 'Kempa Fly High - Camiseta de Hombre  Todo el año  Hombre  Color weiß/Grau Melange  tamaño XXXL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N8PIKGU/?tag=tolees-21'
+descuento: '60.84'
+titulo: 'Kempa Fly High - Camiseta de Hombre  Tod'
 ---
 
 Tienes [Kempa Fly High - Camiseta de Hombre  Todo el año  Hombre  Color weiß/Grau Melange  tamaño XXXL](https://www.amazon.es/dp/B01N8PIKGU/?tag=tolees-21) con un 60.84 % de descuento con precio de oferta de 9.95 EUR (original: 25.41 EUR) en el siguiente enlace!

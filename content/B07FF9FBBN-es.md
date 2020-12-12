@@ -3,6 +3,7 @@ layout: post
 title: 'JACK & JONES Jorgreenland Parka  Hombre  al 80.94 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/513T6ScQqVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/513T6ScQqVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/513T6ScQqVL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 149.99 EUR
 inStock: true
 prodname: 'JACK & JONES Jorgreenland Parka  Hombre  Verde Dusty Olive  Small'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FF9FBBN/?tag=tolees-21'
+descuento: '80.94'
+titulo: 'JACK & JONES Jorgreenland Parka  Hombre '
 ---
 
 Está [JACK & JONES Jorgreenland Parka  Hombre  Verde Dusty Olive  Small](https://www.amazon.es/dp/B07FF9FBBN/?tag=tolees-21) con 80.94 de descuento por 28.59 EUR (original: 149.99 EUR) en el siguiente enlace!

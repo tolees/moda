@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour UA Vanish SS T Camiseta de  al 35.85 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mGmxu-BBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41mGmxu-BBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mGmxu-BBL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 26 EUR
 inStock: true
 prodname: 'Under Armour UA Vanish SS T Camiseta de Manga Corta  Hombre  Blanco  100   L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077GTPCV8/?tag=tolees-21'
+descuento: '35.85'
+titulo: 'Under Armour UA Vanish SS T Camiseta de '
 ---
 
 Está [Under Armour UA Vanish SS T Camiseta de Manga Corta  Hombre  Blanco  100   L](https://www.amazon.es/dp/B077GTPCV8/?tag=tolees-21) con 35.85 de descuento por 16.68 EUR (original: 26 EUR) en el siguiente enlace!

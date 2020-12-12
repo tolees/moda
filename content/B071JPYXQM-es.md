@@ -3,6 +3,7 @@ layout: post
 title: 'Merrell Vapor Guante 3 Zapatilla De Corr al 44.45 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416BJL3x91L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/416BJL3x91L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416BJL3x91L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 105.29 EUR
 inStock: true
 prodname: 'Merrell Vapor Guante 3 Zapatilla De Correr para Tierra - 41.5'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071JPYXQM/?tag=tolees-21'
+descuento: '44.45'
+titulo: 'Merrell Vapor Guante 3 Zapatilla De Corr'
 ---
 
 Ahora mismo tienes [Merrell Vapor Guante 3 Zapatilla De Correr para Tierra - 41.5](https://www.amazon.es/dp/B071JPYXQM/?tag=tolees-21) a 58.49 EUR (original: 105.29 EUR) (44.45 %  de descuento) en el siguiente enlace!

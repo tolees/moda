@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 53.45 % en Esprit Kids T-Shirt LS Camisa Manga Larg'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Bn6a7mnaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Bn6a7mnaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Bn6a7mnaL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 9.99 EUR
 inStock: true
 prodname: 'Esprit Kids T-Shirt LS Camisa Manga Larga  Gris  Anthracite 290   Talla del Fabricante: 128+ para Niños'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KFHF8FD/?tag=tolees-21'
+descuento: '53.45'
+titulo: 'Esprit Kids T-Shirt LS Camisa Manga Larg'
 ---
 
 Tienes [Esprit Kids T-Shirt LS Camisa Manga Larga  Gris  Anthracite 290   Talla del Fabricante: 128+ para Niños](https://www.amazon.es/dp/B07KFHF8FD/?tag=tolees-21) con un 53.45 % de descuento con precio de oferta de 4.65 EUR (original: 9.99 EUR) en el siguiente enlace!

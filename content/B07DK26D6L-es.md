@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.00 % en Geox Jr Ciak Girl J  Zapatillas para Niñ'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KX211S4OL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41KX211S4OL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41KX211S4OL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 39.9 EUR
 inStock: true
 prodname: 'Geox Jr Ciak Girl J  Zapatillas para Niñas  Blanco  White/Red C0050   27 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DK26D6L/?tag=tolees-21'
+descuento: '50.00'
+titulo: 'Geox Jr Ciak Girl J  Zapatillas para Niñ'
 ---
 
 Tienes [Geox Jr Ciak Girl J  Zapatillas para Niñas  Blanco  White/Red C0050   27 EU](https://www.amazon.es/dp/B07DK26D6L/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 19.95 EUR (original: 39.9 EUR) en el siguiente enlace!

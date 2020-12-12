@@ -3,6 +3,7 @@ layout: post
 title: 'Women s Secret D1 Indigo Sello PJ FR Con al 53.88 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gm%2BY%2BPAHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41gm%2BY%2BPAHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gm%2BY%2BPAHL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 27.99 EUR
 inStock: true
 prodname: 'Women s Secret D1 Indigo Sello PJ FR Conjuntos de Pijama  Azul 12  Medium  Tamaño del Fabricante:M  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DLB55JR/?tag=tolees-21'
+descuento: '53.88'
+titulo: 'Women s Secret D1 Indigo Sello PJ FR Con'
 ---
 
 Ahora mismo tienes [Women s Secret D1 Indigo Sello PJ FR Conjuntos de Pijama  Azul 12  Medium  Tamaño del Fabricante:M  para Mujer](https://www.amazon.es/dp/B07DLB55JR/?tag=tolees-21) a 12.91 EUR (original: 27.99 EUR) (53.88 %  de descuento) en el siguiente enlace!

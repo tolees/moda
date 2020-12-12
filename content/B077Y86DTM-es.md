@@ -3,6 +3,7 @@ layout: post
 title: 'HIKARO Sudadera con Cuello Alto Mujer  N al 62.58 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wlCXy1gTL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41wlCXy1gTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wlCXy1gTL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 32.95 EUR
 inStock: true
 prodname: 'HIKARO Sudadera con Cuello Alto Mujer  Negro  Black   44  Talla del fabricante: X-Large '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077Y86DTM/?tag=tolees-21'
+descuento: '62.58'
+titulo: 'HIKARO Sudadera con Cuello Alto Mujer  N'
 ---
 
 Está [HIKARO Sudadera con Cuello Alto Mujer  Negro  Black   44  Talla del fabricante: X-Large ](https://www.amazon.es/dp/B077Y86DTM/?tag=tolees-21) con 62.58 de descuento por 12.33 EUR (original: 32.95 EUR) en el siguiente enlace!

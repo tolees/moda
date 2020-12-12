@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 65.18 % en New Look Chicago Parka  Gris  Light Grey'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vYrQ9CxbL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41vYrQ9CxbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vYrQ9CxbL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 56.69 EUR
 inStock: true
 prodname: 'New Look Chicago Parka  Gris  Light Grey   40  Talla del Fabricante: 12  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HPVV5HL/?tag=tolees-21'
+descuento: '65.18'
+titulo: 'New Look Chicago Parka  Gris  Light Grey'
 ---
 
 Tienes [New Look Chicago Parka  Gris  Light Grey   40  Talla del Fabricante: 12  para Mujer](https://www.amazon.es/dp/B07HPVV5HL/?tag=tolees-21) con un 65.18 % de descuento con precio de oferta de 19.74 EUR (original: 56.69 EUR) en el siguiente enlace!

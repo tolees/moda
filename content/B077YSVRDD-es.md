@@ -3,6 +3,7 @@ layout: post
 title: 'Adidas Response Tee M  Camiseta para Hom al 56.16 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zW5cWjsrL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41zW5cWjsrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zW5cWjsrL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 29.95 EUR
 inStock: true
 prodname: 'Adidas Response Tee M  Camiseta para Hombre  Multicolor  Rojo   L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077YSVRDD/?tag=tolees-21'
+descuento: '56.16'
+titulo: 'Adidas Response Tee M  Camiseta para Hom'
 ---
 
 Ahora mismo tienes [Adidas Response Tee M  Camiseta para Hombre  Multicolor  Rojo   L](https://www.amazon.es/dp/B077YSVRDD/?tag=tolees-21) a 13.13 EUR (original: 29.95 EUR) (56.16 %  de descuento) en el siguiente enlace!

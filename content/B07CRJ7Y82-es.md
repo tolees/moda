@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 73.06 % en Pepe Jeans Joris Camiseta    Off White 8'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31vnWQycWyL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31vnWQycWyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31vnWQycWyL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 35 EUR
 inStock: true
 prodname: 'Pepe Jeans Joris Camiseta    Off White 803   XX-Large para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CRJ7Y82/?tag=tolees-21'
+descuento: '73.06'
+titulo: 'Pepe Jeans Joris Camiseta    Off White 8'
 ---
 
 Tienes [Pepe Jeans Joris Camiseta    Off White 803   XX-Large para Hombre](https://www.amazon.es/dp/B07CRJ7Y82/?tag=tolees-21) con un 73.06 % de descuento con precio de oferta de 9.43 EUR (original: 35 EUR) en el siguiente enlace!

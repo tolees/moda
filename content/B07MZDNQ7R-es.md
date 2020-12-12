@@ -3,6 +3,7 @@ layout: post
 title: 'Superdry Vintage Logo Tropical INFILL E  al 47.21 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31dToqcE2aL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31dToqcE2aL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31dToqcE2aL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 34 EUR
 inStock: true
 prodname: 'Superdry Vintage Logo Tropical INFILL E Camiseta  Grigio  Ice Marl 54g   2XS tamaño Fabricante 6  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MZDNQ7R/?tag=tolees-21'
+descuento: '47.21'
+titulo: 'Superdry Vintage Logo Tropical INFILL E '
 ---
 
 Ahora mismo tienes [Superdry Vintage Logo Tropical INFILL E Camiseta  Grigio  Ice Marl 54g   2XS tamaño Fabricante 6  para Mujer](https://www.amazon.es/dp/B07MZDNQ7R/?tag=tolees-21) a 17.95 EUR (original: 34 EUR) (47.21 %  de descuento) en el siguiente enlace!

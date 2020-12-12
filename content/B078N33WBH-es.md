@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.99 % en Coofit Bolsos de Mujer Moda Tote Bag Neg'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41WBm-UtY7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41WBm-UtY7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41WBm-UtY7L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 50.99 EUR
 inStock: true
 prodname: 'Coofit Bolsos de Mujer Moda Tote Bag Negro Mother s Day Dia de la madre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078N33WBH/?tag=tolees-21'
+descuento: '50.99'
+titulo: 'Coofit Bolsos de Mujer Moda Tote Bag Neg'
 ---
 
 Tienes [Coofit Bolsos de Mujer Moda Tote Bag Negro Mother s Day Dia de la madre](https://www.amazon.es/dp/B078N33WBH/?tag=tolees-21) con un 50.99 % de descuento con precio de oferta de 24.99 EUR (original: 50.99 EUR) en el siguiente enlace!

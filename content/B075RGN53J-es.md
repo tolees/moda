@@ -3,6 +3,7 @@ layout: post
 title: 'Double Agent 87404 Sudadera  Gris  Azul  al 75.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51BbJOx-rUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51BbJOx-rUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51BbJOx-rUL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 46 EUR
 inStock: true
 prodname: 'Double Agent 87404 Sudadera  Gris  Azul Vigore     Tamaño del Fabricante:M  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075RGN53J/?tag=tolees-21'
+descuento: '75.00'
+titulo: 'Double Agent 87404 Sudadera  Gris  Azul '
 ---
 
 Ahora mismo tienes [Double Agent 87404 Sudadera  Gris  Azul Vigore     Tamaño del Fabricante:M  para Mujer](https://www.amazon.es/dp/B075RGN53J/?tag=tolees-21) a 11.5 EUR (original: 46 EUR) (75.00 %  de descuento) en el siguiente enlace!

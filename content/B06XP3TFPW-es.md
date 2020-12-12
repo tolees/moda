@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 53.57 % en Pepe Jeans Piccadilly PL200388  Pantalon'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41VgA68-raL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41VgA68-raL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41VgA68-raL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 110 EUR
 inStock: true
 prodname: 'Pepe Jeans Piccadilly PL200388  Pantalones Vaqueros Bootcut para Mujer  Azul  Broken Medium Destroy Ra0   27W / 32L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XP3TFPW/?tag=tolees-21'
+descuento: '53.57'
+titulo: 'Pepe Jeans Piccadilly PL200388  Pantalon'
 ---
 
 Tienes [Pepe Jeans Piccadilly PL200388  Pantalones Vaqueros Bootcut para Mujer  Azul  Broken Medium Destroy Ra0   27W / 32L](https://www.amazon.es/dp/B06XP3TFPW/?tag=tolees-21) con un 53.57 % de descuento con precio de oferta de 51.07 EUR (original: 110 EUR) en el siguiente enlace!

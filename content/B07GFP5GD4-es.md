@@ -3,6 +3,7 @@ layout: post
 title: 'CAMEL CROWN Calzado Deportivo Hombre Cor al 26.84 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41u3f4wNyOL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41u3f4wNyOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41u3f4wNyOL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 40.99 EUR
 inStock: true
 prodname: 'CAMEL CROWN Calzado Deportivo Hombre Correr Entrenadores atléticos Moda Ligera Casual para Gimnasio Jogging Fitness Compre 1 Talla más Grande'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GFP5GD4/?tag=tolees-21'
+descuento: '26.84'
+titulo: 'CAMEL CROWN Calzado Deportivo Hombre Cor'
 ---
 
 Está [CAMEL CROWN Calzado Deportivo Hombre Correr Entrenadores atléticos Moda Ligera Casual para Gimnasio Jogging Fitness Compre 1 Talla más Grande](https://www.amazon.es/dp/B07GFP5GD4/?tag=tolees-21) con 26.84 de descuento por 29.99 EUR (original: 40.99 EUR) en el siguiente enlace!

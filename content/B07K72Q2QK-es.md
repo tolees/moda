@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 49.57 % en Levi s 312 Shaping Slim Vaqueros  Azul  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31AVM-6qYKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31AVM-6qYKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31AVM-6qYKL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 90 EUR
 inStock: true
 prodname: 'Levi s 312 Shaping Slim Vaqueros  Azul  Date with Destiny 0091   W27/L32  Talla del Fabricante: 27 32  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K72Q2QK/?tag=tolees-21'
+descuento: '49.57'
+titulo: 'Levi s 312 Shaping Slim Vaqueros  Azul  '
 ---
 
 Tienes [Levi s 312 Shaping Slim Vaqueros  Azul  Date with Destiny 0091   W27/L32  Talla del Fabricante: 27 32  para Mujer](https://www.amazon.es/dp/B07K72Q2QK/?tag=tolees-21) con un 49.57 % de descuento con precio de oferta de 45.39 EUR (original: 90 EUR) en el siguiente enlace!

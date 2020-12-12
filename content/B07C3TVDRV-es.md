@@ -3,6 +3,7 @@ layout: post
 title: 'Pepe Jeans Zinc Vaqueros  Azul  Wiser Wa al 80.51 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BijoQ1oRL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41BijoQ1oRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BijoQ1oRL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 120 EUR
 inStock: true
 prodname: 'Pepe Jeans Zinc Vaqueros  Azul  Wiser Wash Denim WW6   29W / 32L para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07C3TVDRV/?tag=tolees-21'
+descuento: '80.51'
+titulo: 'Pepe Jeans Zinc Vaqueros  Azul  Wiser Wa'
 ---
 
 Está [Pepe Jeans Zinc Vaqueros  Azul  Wiser Wash Denim WW6   29W / 32L para Hombre](https://www.amazon.es/dp/B07C3TVDRV/?tag=tolees-21) con 80.51 de descuento por 23.39 EUR (original: 120 EUR) en el siguiente enlace!

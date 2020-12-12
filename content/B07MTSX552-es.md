@@ -3,6 +3,7 @@ layout: post
 title: 'Karen Millen Snake Print Collection Vest al 55.79 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51-8bdonvnL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51-8bdonvnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51-8bdonvnL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 178.96 EUR
 inStock: true
 prodname: 'Karen Millen Snake Print Collection Vestido   Yellow/Multi 83   42 ES ES para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MTSX552/?tag=tolees-21'
+descuento: '55.79'
+titulo: 'Karen Millen Snake Print Collection Vest'
 ---
 
 Está [Karen Millen Snake Print Collection Vestido   Yellow/Multi 83   42 ES ES para Mujer](https://www.amazon.es/dp/B07MTSX552/?tag=tolees-21) con 55.79 de descuento por 79.12 EUR (original: 178.96 EUR) en el siguiente enlace!

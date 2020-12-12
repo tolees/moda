@@ -3,6 +3,7 @@ layout: post
 title: 'Benetton 2KN553395  Chaqueta Mujer  Verd al 76.99 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Tn0X2zJfL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Tn0X2zJfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Tn0X2zJfL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 149 EUR
 inStock: true
 prodname: 'Benetton 2KN553395  Chaqueta Mujer  Verde  Khaki   44 UK '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01IP7Z2BQ/?tag=tolees-21'
+descuento: '76.99'
+titulo: 'Benetton 2KN553395  Chaqueta Mujer  Verd'
 ---
 
 Está [Benetton 2KN553395  Chaqueta Mujer  Verde  Khaki   44 UK ](https://www.amazon.es/dp/B01IP7Z2BQ/?tag=tolees-21) con 76.99 de descuento por 34.28 EUR (original: 149 EUR) en el siguiente enlace!

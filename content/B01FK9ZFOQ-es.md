@@ -3,6 +3,7 @@ layout: post
 title: 'oodji Ultra Mujer Bragas Bikini Estampad al 75.24 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51BOuL7KnzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51BOuL7KnzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51BOuL7KnzL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 10.5 EUR
 inStock: true
 prodname: 'oodji Ultra Mujer Bragas Bikini Estampado Veraniego  Morado  ES 36 / XS'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01FK9ZFOQ/?tag=tolees-21'
+descuento: '75.24'
+titulo: 'oodji Ultra Mujer Bragas Bikini Estampad'
 ---
 
 Está [oodji Ultra Mujer Bragas Bikini Estampado Veraniego  Morado  ES 36 / XS](https://www.amazon.es/dp/B01FK9ZFOQ/?tag=tolees-21) con 75.24 de descuento por 2.6 EUR (original: 10.5 EUR) en el siguiente enlace!

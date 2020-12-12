@@ -3,6 +3,7 @@ layout: post
 title: 'Emporio Armani Underwear 111210 Bóxer    al 38.56 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fhxbnnXLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41fhxbnnXLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fhxbnnXLL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 34 EUR
 inStock: true
 prodname: 'Emporio Armani Underwear 111210 Bóxer   Antracite/Cielo 04844   Small  Pack de 2 para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B074NDZ71R/?tag=tolees-21'
+descuento: '38.56'
+titulo: 'Emporio Armani Underwear 111210 Bóxer   '
 ---
 
 Está [Emporio Armani Underwear 111210 Bóxer   Antracite/Cielo 04844   Small  Pack de 2 para Hombre](https://www.amazon.es/dp/B074NDZ71R/?tag=tolees-21) con 38.56 de descuento por 20.89 EUR (original: 34 EUR) en el siguiente enlace!

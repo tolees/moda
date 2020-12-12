@@ -3,6 +3,7 @@ layout: post
 title: 'Esprit 067ee1k096  Camiseta Mujer   Ligh al 54.66 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41IvWMqkLGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41IvWMqkLGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41IvWMqkLGL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 15.99 EUR
 inStock: true
 prodname: 'Esprit 067ee1k096  Camiseta Mujer   Light Grey 5 044   Medium'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XSJ2VRV/?tag=tolees-21'
+descuento: '54.66'
+titulo: 'Esprit 067ee1k096  Camiseta Mujer   Ligh'
 ---
 
 Ahora mismo tienes [Esprit 067ee1k096  Camiseta Mujer   Light Grey 5 044   Medium](https://www.amazon.es/dp/B06XSJ2VRV/?tag=tolees-21) a 7.25 EUR (original: 15.99 EUR) (54.66 %  de descuento) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Tommy Jeans TJW Easy Pocket tee Camiseta al 31.43 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31KPYsZp4oL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31KPYsZp4oL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31KPYsZp4oL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 35 EUR
 inStock: true
 prodname: 'Tommy Jeans TJW Easy Pocket tee Camiseta  Blanco  Classic White 100   L para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07LBKTRJ7/?tag=tolees-21'
+descuento: '31.43'
+titulo: 'Tommy Jeans TJW Easy Pocket tee Camiseta'
 ---
 
 Ahora mismo tienes [Tommy Jeans TJW Easy Pocket tee Camiseta  Blanco  Classic White 100   L para Mujer](https://www.amazon.es/dp/B07LBKTRJ7/?tag=tolees-21) a 24 EUR (original: 35 EUR) (31.43 %  de descuento) en el siguiente enlace!

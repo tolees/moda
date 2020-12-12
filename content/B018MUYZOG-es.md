@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 47.92 % en New Look Falda Belted Ponte Aline Negro '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Yd07tnQfL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31Yd07tnQfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Yd07tnQfL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'New Look Falda Belted Ponte Aline Negro XS'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B018MUYZOG/?tag=tolees-21'
+descuento: '47.92'
+titulo: 'New Look Falda Belted Ponte Aline Negro '
 ---
 
 Tienes [New Look Falda Belted Ponte Aline Negro XS](https://www.amazon.es/dp/B018MUYZOG/?tag=tolees-21) con un 47.92 % de descuento con precio de oferta de 10.41 EUR (original: 19.99 EUR) en el siguiente enlace!

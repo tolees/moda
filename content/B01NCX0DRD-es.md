@@ -3,6 +3,7 @@ layout: post
 title: 'edc by Esprit 047cc1k015  Camiseta Mujer al 55.93 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41znHi3rMxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41znHi3rMxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41znHi3rMxL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'edc by Esprit 047cc1k015  Camiseta Mujer   Off White   36  Talla del Fabricante: Small '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01NCX0DRD/?tag=tolees-21'
+descuento: '55.93'
+titulo: 'edc by Esprit 047cc1k015  Camiseta Mujer'
 ---
 
 Está [edc by Esprit 047cc1k015  Camiseta Mujer   Off White   36  Talla del Fabricante: Small ](https://www.amazon.es/dp/B01NCX0DRD/?tag=tolees-21) con 55.93 de descuento por 8.81 EUR (original: 19.99 EUR) en el siguiente enlace!

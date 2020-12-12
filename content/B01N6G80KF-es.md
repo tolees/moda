@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 53.07 % en Reef Contour Cushion Le  Chanclas para H'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31bcdz03%2BTL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31bcdz03%2BTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31bcdz03%2BTL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 45 EUR
 inStock: true
 prodname: 'Reef Contour Cushion Le  Chanclas para Hombre  Marrón  Brown Bro   40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N6G80KF/?tag=tolees-21'
+descuento: '53.07'
+titulo: 'Reef Contour Cushion Le  Chanclas para H'
 ---
 
 Tienes [Reef Contour Cushion Le  Chanclas para Hombre  Marrón  Brown Bro   40 EU](https://www.amazon.es/dp/B01N6G80KF/?tag=tolees-21) con un 53.07 % de descuento con precio de oferta de 21.12 EUR (original: 45 EUR) en el siguiente enlace!

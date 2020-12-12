@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 57.95 % en Love Moschino Sabotd. Capri15 Nastro  Sa'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-nt93oiML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41-nt93oiML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-nt93oiML._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 97.2 EUR
 inStock: true
 prodname: 'Love Moschino Sabotd. Capri15 Nastro  Sandalias con Punta Abierta para Mujer  Blanco  Bianco/Verde 10a   35 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07LBFP59K/?tag=tolees-21'
+descuento: '57.95'
+titulo: 'Love Moschino Sabotd. Capri15 Nastro  Sa'
 ---
 
 Tienes [Love Moschino Sabotd. Capri15 Nastro  Sandalias con Punta Abierta para Mujer  Blanco  Bianco/Verde 10a   35 EU](https://www.amazon.es/dp/B07LBFP59K/?tag=tolees-21) con un 57.95 % de descuento con precio de oferta de 40.87 EUR (original: 97.2 EUR) en el siguiente enlace!

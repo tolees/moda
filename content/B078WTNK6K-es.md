@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 54.79 % en Cortefiel Falda Corta  Gama Verdes 21  X'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PaFqdpAFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41PaFqdpAFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PaFqdpAFL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'Cortefiel Falda Corta  Gama Verdes 21  XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078WTNK6K/?tag=tolees-21'
+descuento: '54.79'
+titulo: 'Cortefiel Falda Corta  Gama Verdes 21  X'
 ---
 
 Tienes [Cortefiel Falda Corta  Gama Verdes 21  XL](https://www.amazon.es/dp/B078WTNK6K/?tag=tolees-21) con un 54.79 % de descuento con precio de oferta de 22.6 EUR (original: 49.99 EUR) en el siguiente enlace!

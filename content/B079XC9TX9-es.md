@@ -3,6 +3,7 @@ layout: post
 title: 'Kappa Hamble Sudadera  Mujer  Rojo/Negro al 53.66 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41EwjMVPrwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41EwjMVPrwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41EwjMVPrwL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 50 EUR
 inStock: true
 prodname: 'Kappa Hamble Sudadera  Mujer  Rojo/Negro  L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079XC9TX9/?tag=tolees-21'
+descuento: '53.66'
+titulo: 'Kappa Hamble Sudadera  Mujer  Rojo/Negro'
 ---
 
 Está [Kappa Hamble Sudadera  Mujer  Rojo/Negro  L](https://www.amazon.es/dp/B079XC9TX9/?tag=tolees-21) con 53.66 de descuento por 23.17 EUR (original: 50 EUR) en el siguiente enlace!

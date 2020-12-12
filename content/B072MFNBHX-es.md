@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 32.95 % en Pepe Jeans Duetone Bolso Bandolera  25 c'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qQl9Zc19L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41qQl9Zc19L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qQl9Zc19L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 38 EUR
 inStock: true
 prodname: 'Pepe Jeans Duetone Bolso Bandolera  25 cm  3.25 Litros  Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072MFNBHX/?tag=tolees-21'
+descuento: '32.95'
+titulo: 'Pepe Jeans Duetone Bolso Bandolera  25 c'
 ---
 
 Tienes [Pepe Jeans Duetone Bolso Bandolera  25 cm  3.25 Litros  Negro](https://www.amazon.es/dp/B072MFNBHX/?tag=tolees-21) con un 32.95 % de descuento con precio de oferta de 25.48 EUR (original: 38 EUR) en el siguiente enlace!

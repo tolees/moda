@@ -3,6 +3,7 @@ layout: post
 title: 'Cheap Monday - Vaqueros Slim para Mujer  al 88.08 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31%2BeZENJpAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31%2BeZENJpAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31%2BeZENJpAL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 65 EUR
 inStock: true
 prodname: 'Cheap Monday - Vaqueros Slim para Mujer  Talla W28 / L32  ES 38   Color Azul  Congo '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00AAQX1YG/?tag=tolees-21'
+descuento: '88.08'
+titulo: 'Cheap Monday - Vaqueros Slim para Mujer '
 ---
 
 Está [Cheap Monday - Vaqueros Slim para Mujer  Talla W28 / L32  ES 38   Color Azul  Congo ](https://www.amazon.es/dp/B00AAQX1YG/?tag=tolees-21) con 88.08 de descuento por 7.75 EUR (original: 65 EUR) en el siguiente enlace!

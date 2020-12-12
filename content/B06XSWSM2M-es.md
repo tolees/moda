@@ -3,6 +3,7 @@ layout: post
 title: 'Only & Sons Onsloom Dark Blue 6972 Pa No al 53.97 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mSRFhSmPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41mSRFhSmPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mSRFhSmPL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'Only & Sons Onsloom Dark Blue 6972 Pa Noos  Pantalones Vaqueros Delgados Hombre  Azul  Dark Denim   W32/L32'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XSWSM2M/?tag=tolees-21'
+descuento: '53.97'
+titulo: 'Only & Sons Onsloom Dark Blue 6972 Pa No'
 ---
 
 Ahora mismo tienes [Only & Sons Onsloom Dark Blue 6972 Pa Noos  Pantalones Vaqueros Delgados Hombre  Azul  Dark Denim   W32/L32](https://www.amazon.es/dp/B06XSWSM2M/?tag=tolees-21) a 23.01 EUR (original: 49.99 EUR) (53.97 %  de descuento) en el siguiente enlace!

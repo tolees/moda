@@ -3,6 +3,7 @@ layout: post
 title: 'HIKARO Sudadera con Capucha y Logo Mujer al 40.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41q3qVViD2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41q3qVViD2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41q3qVViD2L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 29.95 EUR
 inStock: true
 prodname: 'HIKARO Sudadera con Capucha y Logo Mujer  Azul  Aqua   40  Talla del fabricante: Medium '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077YJCYXM/?tag=tolees-21'
+descuento: '40.00'
+titulo: 'HIKARO Sudadera con Capucha y Logo Mujer'
 ---
 
 Ahora mismo tienes [HIKARO Sudadera con Capucha y Logo Mujer  Azul  Aqua   40  Talla del fabricante: Medium ](https://www.amazon.es/dp/B077YJCYXM/?tag=tolees-21) a 17.97 EUR (original: 29.95 EUR) (40.00 %  de descuento) en el siguiente enlace!

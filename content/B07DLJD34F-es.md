@@ -3,6 +3,7 @@ layout: post
 title: 'Women s Secret TF Black Dots PJ  Conjunt al 48.25 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Jmd-HEm7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Jmd-HEm7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Jmd-HEm7L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'Women s Secret TF Black Dots PJ  Conjuntos de Pijama para Mujer   Varios 98  Small  Tamaño del Fabricante:S '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DLJD34F/?tag=tolees-21'
+descuento: '48.25'
+titulo: 'Women s Secret TF Black Dots PJ  Conjunt'
 ---
 
 Ahora mismo tienes [Women s Secret TF Black Dots PJ  Conjuntos de Pijama para Mujer   Varios 98  Small  Tamaño del Fabricante:S ](https://www.amazon.es/dp/B07DLJD34F/?tag=tolees-21) a 15.52 EUR (original: 29.99 EUR) (48.25 %  de descuento) en el siguiente enlace!

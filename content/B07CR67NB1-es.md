@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.00 % en AURIQUE Leggings de Deporte sin Costuras'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jdZ0U7zKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41jdZ0U7zKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jdZ0U7zKL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 24 EUR
 inStock: true
 prodname: 'AURIQUE Leggings de Deporte sin Costuras Mujer  Negro  Black   40  Talla del fabricante: M '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CR67NB1/?tag=tolees-21'
+descuento: '30.00'
+titulo: 'AURIQUE Leggings de Deporte sin Costuras'
 ---
 
 Tienes [AURIQUE Leggings de Deporte sin Costuras Mujer  Negro  Black   40  Talla del fabricante: M ](https://www.amazon.es/dp/B07CR67NB1/?tag=tolees-21) con un 30.00 % de descuento con precio de oferta de 16.8 EUR (original: 24 EUR) en el siguiente enlace!

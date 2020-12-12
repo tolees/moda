@@ -3,6 +3,7 @@ layout: post
 title: 'Quiksilver Get Bizzy Camiseta  Hombre  A al 36.62 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vt2Yz7xWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41vt2Yz7xWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vt2Yz7xWL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'Quiksilver Get Bizzy Camiseta  Hombre  Azul  Blue Nights   L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KJT9T3Y/?tag=tolees-21'
+descuento: '36.62'
+titulo: 'Quiksilver Get Bizzy Camiseta  Hombre  A'
 ---
 
 Está [Quiksilver Get Bizzy Camiseta  Hombre  Azul  Blue Nights   L](https://www.amazon.es/dp/B07KJT9T3Y/?tag=tolees-21) con 36.62 de descuento por 12.67 EUR (original: 19.99 EUR) en el siguiente enlace!

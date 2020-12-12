@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield 373710 Camisa Casual  Hombre al 65.83 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51WXvcE8iqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51WXvcE8iqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51WXvcE8iqL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 25.99 EUR
 inStock: true
 prodname: 'Springfield 373710 Camisa Casual  Hombre  Amarillo  Gama Amarillos   Small  Tamaño del Fabricante:S '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078HDR8XT/?tag=tolees-21'
+descuento: '65.83'
+titulo: 'Springfield 373710 Camisa Casual  Hombre'
 ---
 
 Ahora mismo tienes [Springfield 373710 Camisa Casual  Hombre  Amarillo  Gama Amarillos   Small  Tamaño del Fabricante:S ](https://www.amazon.es/dp/B078HDR8XT/?tag=tolees-21) a 8.88 EUR (original: 25.99 EUR) (65.83 %  de descuento) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Ray-Ban JUNIOR 0Rj9540S Gafas de sol  Gu al 50.27 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pTnxWcDmL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41pTnxWcDmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41pTnxWcDmL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 135 EUR
 inStock: true
 prodname: 'Ray-Ban JUNIOR 0Rj9540S Gafas de sol  Gunmetal Top Red  47 Unisex-Niño'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01KX48C7K/?tag=tolees-21'
+descuento: '50.27'
+titulo: 'Ray-Ban JUNIOR 0Rj9540S Gafas de sol  Gu'
 ---
 
 Ahora mismo tienes [Ray-Ban JUNIOR 0Rj9540S Gafas de sol  Gunmetal Top Red  47 Unisex-Niño](https://www.amazon.es/dp/B01KX48C7K/?tag=tolees-21) a 67.13 EUR (original: 135 EUR) (50.27 %  de descuento) en el siguiente enlace!

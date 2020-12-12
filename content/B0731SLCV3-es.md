@@ -3,6 +3,7 @@ layout: post
 title: 'FIND Bóxer Básico Hombre  Pack de 5  Bla al 36.43 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51c8u1xxEJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51c8u1xxEJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51c8u1xxEJL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 23 EUR
 inStock: true
 prodname: 'FIND Bóxer Básico Hombre  Pack de 5  Blau  Clemetis Blue   Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0731SLCV3/?tag=tolees-21'
+descuento: '36.43'
+titulo: 'FIND Bóxer Básico Hombre  Pack de 5  Bla'
 ---
 
 Ahora mismo tienes [FIND Bóxer Básico Hombre  Pack de 5  Blau  Clemetis Blue   Large](https://www.amazon.es/dp/B0731SLCV3/?tag=tolees-21) a 14.62 EUR (original: 23 EUR) (36.43 %  de descuento) en el siguiente enlace!

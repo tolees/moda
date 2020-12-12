@@ -3,6 +3,7 @@ layout: post
 title: 'Pedro del Hierro Sandalias de tacón Rosa al 62.34 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31-kgGKIfFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31-kgGKIfFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31-kgGKIfFL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 185 EUR
 inStock: true
 prodname: 'Pedro del Hierro Sandalias de tacón Rosa EU 39'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01BLKYW6K/?tag=tolees-21'
+descuento: '62.34'
+titulo: 'Pedro del Hierro Sandalias de tacón Rosa'
 ---
 
 Está [Pedro del Hierro Sandalias de tacón Rosa EU 39](https://www.amazon.es/dp/B01BLKYW6K/?tag=tolees-21) con 62.34 de descuento por 69.68 EUR (original: 185 EUR) en el siguiente enlace!

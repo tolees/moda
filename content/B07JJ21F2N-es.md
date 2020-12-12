@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 53.28 % en Armani Exchange Pima Round Neck Camiseta'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31hEu4p05hL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31hEu4p05hL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31hEu4p05hL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 43 EUR
 inStock: true
 prodname: 'Armani Exchange Pima Round Neck Camiseta  Blanco  White 1100   Medium para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JJ21F2N/?tag=tolees-21'
+descuento: '53.28'
+titulo: 'Armani Exchange Pima Round Neck Camiseta'
 ---
 
 Tienes [Armani Exchange Pima Round Neck Camiseta  Blanco  White 1100   Medium para Hombre](https://www.amazon.es/dp/B07JJ21F2N/?tag=tolees-21) con un 53.28 % de descuento con precio de oferta de 20.09 EUR (original: 43 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.01 % en IRIS & LILLY Sh191018 bañadores  Multico'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41NgWz0eRQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41NgWz0eRQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41NgWz0eRQL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 24.99 EUR
 inStock: true
 prodname: 'IRIS & LILLY Sh191018 bañadores  Multicolor  Palm Print   40  Talla del fabricante: Medium '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JFM89ND/?tag=tolees-21'
+descuento: '30.01'
+titulo: 'IRIS & LILLY Sh191018 bañadores  Multico'
 ---
 
 Tienes [IRIS & LILLY Sh191018 bañadores  Multicolor  Palm Print   40  Talla del fabricante: Medium ](https://www.amazon.es/dp/B07JFM89ND/?tag=tolees-21) con un 30.01 % de descuento con precio de oferta de 17.49 EUR (original: 24.99 EUR) en el siguiente enlace!

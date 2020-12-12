@@ -3,6 +3,7 @@ layout: post
 title: 'Urban Classics Hooded Puffer Jacket  Cha al 26.69 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41FkUsDgWiL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41FkUsDgWiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41FkUsDgWiL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 52.45 EUR
 inStock: true
 prodname: 'Urban Classics Hooded Puffer Jacket  Chaqueta para Hombre  Negro  Black 7  Small'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071JV8KQZ/?tag=tolees-21'
+descuento: '26.69'
+titulo: 'Urban Classics Hooded Puffer Jacket  Cha'
 ---
 
 Está [Urban Classics Hooded Puffer Jacket  Chaqueta para Hombre  Negro  Black 7  Small](https://www.amazon.es/dp/B071JV8KQZ/?tag=tolees-21) con 26.69 de descuento por 38.45 EUR (original: 52.45 EUR) en el siguiente enlace!

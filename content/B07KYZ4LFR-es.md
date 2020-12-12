@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield 0 5.G.MD.Bandolera Cadena  B al 42.34 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lHzNqa2gL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41lHzNqa2gL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41lHzNqa2gL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Springfield 0 5.G.MD.Bandolera Cadena  Bolso Bandolera para Mujer   Negro '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KYZ4LFR/?tag=tolees-21'
+descuento: '42.34'
+titulo: 'Springfield 0 5.G.MD.Bandolera Cadena  B'
 ---
 
 Ahora mismo tienes [Springfield 0 5.G.MD.Bandolera Cadena  Bolso Bandolera para Mujer   Negro ](https://www.amazon.es/dp/B07KYZ4LFR/?tag=tolees-21) a 23.06 EUR (original: 39.99 EUR) (42.34 %  de descuento) en el siguiente enlace!

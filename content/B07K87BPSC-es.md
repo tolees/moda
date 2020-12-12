@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Amplified Hoody TR Sudadera  Hombre al 59.22 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41oCIthRfNL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41oCIthRfNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41oCIthRfNL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'Puma Amplified Hoody TR Sudadera  Hombre  Gris  Medium Gray Heather   XXL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K87BPSC/?tag=tolees-21'
+descuento: '59.22'
+titulo: 'Puma Amplified Hoody TR Sudadera  Hombre'
 ---
 
 Está [Puma Amplified Hoody TR Sudadera  Hombre  Gris  Medium Gray Heather   XXL](https://www.amazon.es/dp/B07K87BPSC/?tag=tolees-21) con 59.22 de descuento por 24.45 EUR (original: 59.95 EUR) en el siguiente enlace!

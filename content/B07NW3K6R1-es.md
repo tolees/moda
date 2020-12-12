@@ -3,6 +3,7 @@ layout: post
 title: 'Avoalre® Anteojos Hombres Gafas de Sol D al 75.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nX%2BTdI99L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41nX%2BTdI99L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41nX%2BTdI99L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 99.99 EUR
 inStock: true
 prodname: 'Avoalre® Anteojos Hombres Gafas de Sol Deportivas Mujeres Unisex Conducto polarizado TR90 Super Light Protection UV400 CE Certified - Verde'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07NW3K6R1/?tag=tolees-21'
+descuento: '75.01'
+titulo: 'Avoalre® Anteojos Hombres Gafas de Sol D'
 ---
 
 Ahora mismo tienes [Avoalre® Anteojos Hombres Gafas de Sol Deportivas Mujeres Unisex Conducto polarizado TR90 Super Light Protection UV400 CE Certified - Verde](https://www.amazon.es/dp/B07NW3K6R1/?tag=tolees-21) a 24.99 EUR (original: 99.99 EUR) (75.01 %  de descuento) en el siguiente enlace!

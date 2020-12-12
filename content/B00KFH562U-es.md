@@ -3,6 +3,7 @@ layout: post
 title: 'Lee Scarlett Jeans Vaqueros  Grau  Chrom al 36.84 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MDAB7SKzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41MDAB7SKzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41MDAB7SKzL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 89.95 EUR
 inStock: true
 prodname: 'Lee Scarlett Jeans Vaqueros  Grau  Chrome Wash LK   W25/ L33 para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00KFH562U/?tag=tolees-21'
+descuento: '36.84'
+titulo: 'Lee Scarlett Jeans Vaqueros  Grau  Chrom'
 ---
 
 Está [Lee Scarlett Jeans Vaqueros  Grau  Chrome Wash LK   W25/ L33 para Mujer](https://www.amazon.es/dp/B00KFH562U/?tag=tolees-21) con 36.84 de descuento por 56.81 EUR (original: 89.95 EUR) en el siguiente enlace!

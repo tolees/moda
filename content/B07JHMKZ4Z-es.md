@@ -3,6 +3,7 @@ layout: post
 title: 'New Look Sadie Stripe Blusa  Blanco  Whi al 64.84 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mNH8pyflL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41mNH8pyflL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mNH8pyflL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 22.87 EUR
 inStock: true
 prodname: 'New Look Sadie Stripe Blusa  Blanco  White Pattern 19  38  Talla del Fabricante: 10  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JHMKZ4Z/?tag=tolees-21'
+descuento: '64.84'
+titulo: 'New Look Sadie Stripe Blusa  Blanco  Whi'
 ---
 
 Ahora mismo tienes [New Look Sadie Stripe Blusa  Blanco  White Pattern 19  38  Talla del Fabricante: 10  para Mujer](https://www.amazon.es/dp/B07JHMKZ4Z/?tag=tolees-21) a 8.04 EUR (original: 22.87 EUR) (64.84 %  de descuento) en el siguiente enlace!

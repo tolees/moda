@@ -3,6 +3,7 @@ layout: post
 title: 'Volcom Line Tone HTH SS Camiseta  Hombre al 54.43 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vWAEC9EtL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41vWAEC9EtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vWAEC9EtL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 35 EUR
 inStock: true
 prodname: 'Volcom Line Tone HTH SS Camiseta  Hombre  Azul  Arctic Blue   XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DQZCHYQ/?tag=tolees-21'
+descuento: '54.43'
+titulo: 'Volcom Line Tone HTH SS Camiseta  Hombre'
 ---
 
 Está [Volcom Line Tone HTH SS Camiseta  Hombre  Azul  Arctic Blue   XL](https://www.amazon.es/dp/B07DQZCHYQ/?tag=tolees-21) con 54.43 de descuento por 15.95 EUR (original: 35 EUR) en el siguiente enlace!

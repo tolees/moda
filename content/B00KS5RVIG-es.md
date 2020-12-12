@@ -3,6 +3,7 @@ layout: post
 title: 'JONAK 11211 088-11211CU/E3 - Zapatos de  al 70.46 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41FgKBvn51L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41FgKBvn51L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41FgKBvn51L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 85 EUR
 inStock: true
 prodname: 'JONAK 11211 088-11211CU/E3 - Zapatos de tacón para mujer  color negro  talla 36'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00KS5RVIG/?tag=tolees-21'
+descuento: '70.46'
+titulo: 'JONAK 11211 088-11211CU/E3 - Zapatos de '
 ---
 
 Ahora mismo tienes [JONAK 11211 088-11211CU/E3 - Zapatos de tacón para mujer  color negro  talla 36](https://www.amazon.es/dp/B00KS5RVIG/?tag=tolees-21) a 25.11 EUR (original: 85 EUR) (70.46 %  de descuento) en el siguiente enlace!

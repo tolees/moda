@@ -3,6 +3,7 @@ layout: post
 title: 'Tommy Jeans TJM Tommy Classics tee Camis al 41.34 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31kJFCKLvDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31kJFCKLvDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31kJFCKLvDL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 29 EUR
 inStock: true
 prodname: 'Tommy Jeans TJM Tommy Classics tee Camiseta  Verde  Acid Lime 300   S para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07LBKZ57L/?tag=tolees-21'
+descuento: '41.34'
+titulo: 'Tommy Jeans TJM Tommy Classics tee Camis'
 ---
 
 Está [Tommy Jeans TJM Tommy Classics tee Camiseta  Verde  Acid Lime 300   S para Hombre](https://www.amazon.es/dp/B07LBKZ57L/?tag=tolees-21) con 41.34 de descuento por 17.01 EUR (original: 29 EUR) en el siguiente enlace!

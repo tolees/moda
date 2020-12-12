@@ -3,6 +3,7 @@ layout: post
 title: 'Emporio Armani Underwear 111339  Pijama  al 49.04 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31jaCmgIxlL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31jaCmgIxlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31jaCmgIxlL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 75 EUR
 inStock: true
 prodname: 'Emporio Armani Underwear 111339  Pijama para Hombre   Scozzese Grigio 16041  X-Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076VXX4CB/?tag=tolees-21'
+descuento: '49.04'
+titulo: 'Emporio Armani Underwear 111339  Pijama '
 ---
 
 Ahora mismo tienes [Emporio Armani Underwear 111339  Pijama para Hombre   Scozzese Grigio 16041  X-Large](https://www.amazon.es/dp/B076VXX4CB/?tag=tolees-21) a 38.22 EUR (original: 75 EUR) (49.04 %  de descuento) en el siguiente enlace!

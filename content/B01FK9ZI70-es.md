@@ -3,6 +3,7 @@ layout: post
 title: 'oodji Ultra Mujer Sujetador Bikini Bande al 59.48 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ulmR5zXPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51ulmR5zXPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ulmR5zXPL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 11.6 EUR
 inStock: true
 prodname: 'oodji Ultra Mujer Sujetador Bikini Bandeau  sin Tirantes   Morado  70A / 32A'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01FK9ZI70/?tag=tolees-21'
+descuento: '59.48'
+titulo: 'oodji Ultra Mujer Sujetador Bikini Bande'
 ---
 
 Ahora mismo tienes [oodji Ultra Mujer Sujetador Bikini Bandeau  sin Tirantes   Morado  70A / 32A](https://www.amazon.es/dp/B01FK9ZI70/?tag=tolees-21) a 4.7 EUR (original: 11.6 EUR) (59.48 %  de descuento) en el siguiente enlace!

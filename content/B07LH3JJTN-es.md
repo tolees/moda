@@ -3,6 +3,7 @@ layout: post
 title: 'The North Face Jersey Polo de Punto con  al 48.24 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31nTeRiGxDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31nTeRiGxDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31nTeRiGxDL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 50 EUR
 inStock: true
 prodname: 'The North Face Jersey Polo de Punto con Manga raglán  Hombre  Garden Green  XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07LH3JJTN/?tag=tolees-21'
+descuento: '48.24'
+titulo: 'The North Face Jersey Polo de Punto con '
 ---
 
 Está [The North Face Jersey Polo de Punto con Manga raglán  Hombre  Garden Green  XL](https://www.amazon.es/dp/B07LH3JJTN/?tag=tolees-21) con 48.24 de descuento por 25.88 EUR (original: 50 EUR) en el siguiente enlace!

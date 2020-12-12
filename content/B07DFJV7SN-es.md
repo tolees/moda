@@ -3,6 +3,7 @@ layout: post
 title: 'Calvin Klein Trunk 2pk  Bóxer para Hombr al 57.37 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cjdw6crEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41cjdw6crEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41cjdw6crEL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 41 EUR
 inStock: true
 prodname: 'Calvin Klein Trunk 2pk  Bóxer para Hombre  Rojo  Manic Red/Black Gbe  Small Pack de 2'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DFJV7SN/?tag=tolees-21'
+descuento: '57.37'
+titulo: 'Calvin Klein Trunk 2pk  Bóxer para Hombr'
 ---
 
 Ahora mismo tienes [Calvin Klein Trunk 2pk  Bóxer para Hombre  Rojo  Manic Red/Black Gbe  Small Pack de 2](https://www.amazon.es/dp/B07DFJV7SN/?tag=tolees-21) a 17.48 EUR (original: 41 EUR) (57.37 %  de descuento) en el siguiente enlace!

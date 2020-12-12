@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.00 % en HIKARO Chaleco de Plumas con Capucha Muj'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bKM%2B6dYcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41bKM%2B6dYcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bKM%2B6dYcL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 45.95 EUR
 inStock: true
 prodname: 'HIKARO Chaleco de Plumas con Capucha Mujer  Beige  Stone   48  Talla del fabricante: XXX-Large '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077YDTT7T/?tag=tolees-21'
+descuento: '40.00'
+titulo: 'HIKARO Chaleco de Plumas con Capucha Muj'
 ---
 
 Tienes [HIKARO Chaleco de Plumas con Capucha Mujer  Beige  Stone   48  Talla del fabricante: XXX-Large ](https://www.amazon.es/dp/B077YDTT7T/?tag=tolees-21) con un 40.00 % de descuento con precio de oferta de 27.57 EUR (original: 45.95 EUR) en el siguiente enlace!

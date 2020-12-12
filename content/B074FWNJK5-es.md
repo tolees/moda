@@ -3,6 +3,7 @@ layout: post
 title: 'FIND Sudadera con Capucha y Detalle Bord al 70.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mGtYSxQ8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41mGtYSxQ8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mGtYSxQ8L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 30 EUR
 inStock: true
 prodname: 'FIND Sudadera con Capucha y Detalle Bordado para Hombre  Azul  Navy   Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B074FWNJK5/?tag=tolees-21'
+descuento: '70.00'
+titulo: 'FIND Sudadera con Capucha y Detalle Bord'
 ---
 
 Está [FIND Sudadera con Capucha y Detalle Bordado para Hombre  Azul  Navy   Large](https://www.amazon.es/dp/B074FWNJK5/?tag=tolees-21) con 70.00 de descuento por 9 EUR (original: 30 EUR) en el siguiente enlace!

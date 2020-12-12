@@ -3,6 +3,7 @@ layout: post
 title: 'New Balance 250  Zapatos de Playa y Pisc al 32.20 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mJM1ka8nL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41mJM1ka8nL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mJM1ka8nL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 50 EUR
 inStock: true
 prodname: 'New Balance 250  Zapatos de Playa y Piscina Unisex Adulto  Gris Castlerock Gr  45 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DJ21DYB/?tag=tolees-21'
+descuento: '32.20'
+titulo: 'New Balance 250  Zapatos de Playa y Pisc'
 ---
 
 Está [New Balance 250  Zapatos de Playa y Piscina Unisex Adulto  Gris Castlerock Gr  45 EU](https://www.amazon.es/dp/B07DJ21DYB/?tag=tolees-21) con 32.20 de descuento por 33.9 EUR (original: 50 EUR) en el siguiente enlace!

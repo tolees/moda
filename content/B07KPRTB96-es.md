@@ -3,6 +3,7 @@ layout: post
 title: 'Gant O2. Striped Flared Dress Vestido  A al 50.23 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HtH6r%2BV3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41HtH6r%2BV3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HtH6r%2BV3L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 139.99 EUR
 inStock: true
 prodname: 'Gant O2. Striped Flared Dress Vestido  Azul  Persian Blue 423   Large para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KPRTB96/?tag=tolees-21'
+descuento: '50.23'
+titulo: 'Gant O2. Striped Flared Dress Vestido  A'
 ---
 
 Está [Gant O2. Striped Flared Dress Vestido  Azul  Persian Blue 423   Large para Mujer](https://www.amazon.es/dp/B07KPRTB96/?tag=tolees-21) con 50.23 de descuento por 69.67 EUR (original: 139.99 EUR) en el siguiente enlace!

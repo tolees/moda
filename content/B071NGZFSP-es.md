@@ -3,6 +3,7 @@ layout: post
 title: 'Volcom Yorkstone Chaqueta  Hombre  Negro al 54.47 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41oqxTDE7NL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41oqxTDE7NL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41oqxTDE7NL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 125 EUR
 inStock: true
 prodname: 'Volcom Yorkstone Chaqueta  Hombre  Negro  M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071NGZFSP/?tag=tolees-21'
+descuento: '54.47'
+titulo: 'Volcom Yorkstone Chaqueta  Hombre  Negro'
 ---
 
 Ahora mismo tienes [Volcom Yorkstone Chaqueta  Hombre  Negro  M](https://www.amazon.es/dp/B071NGZFSP/?tag=tolees-21) a 56.91 EUR (original: 125 EUR) (54.47 %  de descuento) en el siguiente enlace!

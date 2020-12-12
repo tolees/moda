@@ -3,6 +3,7 @@ layout: post
 title: 'Gant O1. Heather Oxford Gingham Reg BD   al 54.58 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RhU2IhOVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41RhU2IhOVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RhU2IhOVL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 149 EUR
 inStock: true
 prodname: 'Gant O1. Heather Oxford Gingham Reg BD  Camiseta Deporte para Hombre  Rojo  Roasted Brown Walnut  Small'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D2RR7TL/?tag=tolees-21'
+descuento: '54.58'
+titulo: 'Gant O1. Heather Oxford Gingham Reg BD  '
 ---
 
 Está [Gant O1. Heather Oxford Gingham Reg BD  Camiseta Deporte para Hombre  Rojo  Roasted Brown Walnut  Small](https://www.amazon.es/dp/B07D2RR7TL/?tag=tolees-21) con 54.58 de descuento por 67.67 EUR (original: 149 EUR) en el siguiente enlace!

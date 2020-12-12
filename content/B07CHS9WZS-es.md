@@ -3,6 +3,7 @@ layout: post
 title: 'BOSS Athleisure tee 1  Camiseta Hombre   al 69.21 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41H5nGcVA1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41H5nGcVA1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41H5nGcVA1L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'BOSS Athleisure tee 1  Camiseta Hombre  Gris  Light/Pastel Grey 059   Medium'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CHS9WZS/?tag=tolees-21'
+descuento: '69.21'
+titulo: 'BOSS Athleisure tee 1  Camiseta Hombre  '
 ---
 
 Está [BOSS Athleisure tee 1  Camiseta Hombre  Gris  Light/Pastel Grey 059   Medium](https://www.amazon.es/dp/B07CHS9WZS/?tag=tolees-21) con 69.21 de descuento por 18.46 EUR (original: 59.95 EUR) en el siguiente enlace!

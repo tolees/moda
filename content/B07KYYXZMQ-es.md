@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield 3.T.Ap.Plana Frontal Print P al 44.47 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ZtayZTQhL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51ZtayZTQhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ZtayZTQhL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 17.99 EUR
 inStock: true
 prodname: 'Springfield 3.T.Ap.Plana Frontal Print Pañuelo Camiseta  Mujer  Azul  Gama Azules 19   X-Large  Tamaño del Fabricante:XL '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KYYXZMQ/?tag=tolees-21'
+descuento: '44.47'
+titulo: 'Springfield 3.T.Ap.Plana Frontal Print P'
 ---
 
 Está [Springfield 3.T.Ap.Plana Frontal Print Pañuelo Camiseta  Mujer  Azul  Gama Azules 19   X-Large  Tamaño del Fabricante:XL ](https://www.amazon.es/dp/B07KYYXZMQ/?tag=tolees-21) con 44.47 de descuento por 9.99 EUR (original: 17.99 EUR) en el siguiente enlace!

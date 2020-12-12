@@ -3,6 +3,7 @@ layout: post
 title: 'Geox B Kaytan B  Sandalias para Bebés  B al 55.81 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41c%2Bt5DMTML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41c%2Bt5DMTML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41c%2Bt5DMTML._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 49.9 EUR
 inStock: true
 prodname: 'Geox B Kaytan B  Sandalias para Bebés  Blanco  White/Navy C0899   20 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DK2P6Q5/?tag=tolees-21'
+descuento: '55.81'
+titulo: 'Geox B Kaytan B  Sandalias para Bebés  B'
 ---
 
 Ahora mismo tienes [Geox B Kaytan B  Sandalias para Bebés  Blanco  White/Navy C0899   20 EU](https://www.amazon.es/dp/B07DK2P6Q5/?tag=tolees-21) a 22.05 EUR (original: 49.9 EUR) (55.81 %  de descuento) en el siguiente enlace!

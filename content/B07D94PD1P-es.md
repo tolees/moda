@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 68.23 % en Marco Tozzi 25391-21  Botines para Mujer'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ujs%2BHc6RL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31ujs%2BHc6RL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ujs%2BHc6RL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: 'Marco Tozzi 25391-21  Botines para Mujer  Negro  Black 001   38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D94PD1P/?tag=tolees-21'
+descuento: '68.23'
+titulo: 'Marco Tozzi 25391-21  Botines para Mujer'
 ---
 
 Tienes [Marco Tozzi 25391-21  Botines para Mujer  Negro  Black 001   38 EU](https://www.amazon.es/dp/B07D94PD1P/?tag=tolees-21) con un 68.23 % de descuento con precio de oferta de 15.87 EUR (original: 49.95 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 74.93 % en Pepe Jeans Kingston Zip  Vaqueros Regula'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41VvFT1rEyL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41VvFT1rEyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41VvFT1rEyL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 95 EUR
 inStock: true
 prodname: 'Pepe Jeans Kingston Zip  Vaqueros Regular para Hombre  Azul  11Oz Vintage 8 Dip S55   W31/L36'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XCFM4V8/?tag=tolees-21'
+descuento: '74.93'
+titulo: 'Pepe Jeans Kingston Zip  Vaqueros Regula'
 ---
 
 Tienes [Pepe Jeans Kingston Zip  Vaqueros Regular para Hombre  Azul  11Oz Vintage 8 Dip S55   W31/L36](https://www.amazon.es/dp/B06XCFM4V8/?tag=tolees-21) con un 74.93 % de descuento con precio de oferta de 23.82 EUR (original: 95 EUR) en el siguiente enlace!

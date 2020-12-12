@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 65.92 % en Geox Jr Sofia C  Botas Estilo Motero par'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417D6OG5JKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/417D6OG5JKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417D6OG5JKL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 75 EUR
 inStock: true
 prodname: 'Geox Jr Sofia C  Botas Estilo Motero para Niñas  Marrón  Bronze   32 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06Y2LJ64V/?tag=tolees-21'
+descuento: '65.92'
+titulo: 'Geox Jr Sofia C  Botas Estilo Motero par'
 ---
 
 Tienes [Geox Jr Sofia C  Botas Estilo Motero para Niñas  Marrón  Bronze   32 EU](https://www.amazon.es/dp/B06Y2LJ64V/?tag=tolees-21) con un 65.92 % de descuento con precio de oferta de 25.56 EUR (original: 75 EUR) en el siguiente enlace!

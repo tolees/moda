@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield 8.T.Ap. Plumas BS con Gross  al 60.62 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ILm4sZpSL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ILm4sZpSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ILm4sZpSL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 45.99 EUR
 inStock: true
 prodname: 'Springfield 8.T.Ap. Plumas BS con Gross G Chaqueta  Gama Azules 19   Tamaño del Fabricante:40  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DLFZGRP/?tag=tolees-21'
+descuento: '60.62'
+titulo: 'Springfield 8.T.Ap. Plumas BS con Gross '
 ---
 
 Está [Springfield 8.T.Ap. Plumas BS con Gross G Chaqueta  Gama Azules 19   Tamaño del Fabricante:40  para Mujer](https://www.amazon.es/dp/B07DLFZGRP/?tag=tolees-21) con 60.62 de descuento por 18.11 EUR (original: 45.99 EUR) en el siguiente enlace!

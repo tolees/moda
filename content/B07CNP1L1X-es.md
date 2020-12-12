@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 46.09 % en Wrangler Greensboro Vaqueros  Azul  Indi'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41n9PsosQZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41n9PsosQZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41n9PsosQZL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 84.95 EUR
 inStock: true
 prodname: 'Wrangler Greensboro Vaqueros  Azul  Indigo Wit 25f   W38 / L30 para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CNP1L1X/?tag=tolees-21'
+descuento: '46.09'
+titulo: 'Wrangler Greensboro Vaqueros  Azul  Indi'
 ---
 
 Tienes [Wrangler Greensboro Vaqueros  Azul  Indigo Wit 25f   W38 / L30 para Hombre](https://www.amazon.es/dp/B07CNP1L1X/?tag=tolees-21) con un 46.09 % de descuento con precio de oferta de 45.8 EUR (original: 84.95 EUR) en el siguiente enlace!

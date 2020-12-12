@@ -3,6 +3,7 @@ layout: post
 title: 'Scott  Sudadera Hombre   Grey Marl 933  al 60.63 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41I3xr0mArL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41I3xr0mArL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41I3xr0mArL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 65 EUR
 inStock: true
 prodname: 'Scott  Sudadera Hombre   Grey Marl 933 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CS9W7L2/?tag=tolees-21'
+descuento: '60.63'
+titulo: 'Scott  Sudadera Hombre   Grey Marl 933 '
 ---
 
 Está [Scott  Sudadera Hombre   Grey Marl 933 ](https://www.amazon.es/dp/B07CS9W7L2/?tag=tolees-21) con 60.63 de descuento por 25.59 EUR (original: 65 EUR) en el siguiente enlace!

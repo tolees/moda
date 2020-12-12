@@ -3,6 +3,7 @@ layout: post
 title: 'Levi s Barstow Western Camisa Vaquera  A al 37.61 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2B-3rq2hRL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2B-3rq2hRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2B-3rq2hRL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 80 EUR
 inStock: true
 prodname: 'Levi s Barstow Western Camisa Vaquera  Azul  Shadow Tint Dark 0277   Small para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F27SQYK/?tag=tolees-21'
+descuento: '37.61'
+titulo: 'Levi s Barstow Western Camisa Vaquera  A'
 ---
 
 Está [Levi s Barstow Western Camisa Vaquera  Azul  Shadow Tint Dark 0277   Small para Hombre](https://www.amazon.es/dp/B07F27SQYK/?tag=tolees-21) con 37.61 de descuento por 49.91 EUR (original: 80 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'JACK & JONES Jorsteven Shirt LS  Camisa  al 58.82 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41AMXMyPdJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41AMXMyPdJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41AMXMyPdJL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'JACK & JONES Jorsteven Shirt LS  Camisa para Hombre   Forest Night Fit: Slim  Small'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FKKMDX4/?tag=tolees-21'
+descuento: '58.82'
+titulo: 'JACK & JONES Jorsteven Shirt LS  Camisa '
 ---
 
 Ahora mismo tienes [JACK & JONES Jorsteven Shirt LS  Camisa para Hombre   Forest Night Fit: Slim  Small](https://www.amazon.es/dp/B07FKKMDX4/?tag=tolees-21) a 12.35 EUR (original: 29.99 EUR) (58.82 %  de descuento) en el siguiente enlace!

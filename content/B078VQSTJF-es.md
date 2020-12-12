@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 49.72 % en Volcom Imprint Crew Sudadera  Hombre  Az'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Em3gQRrNL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Em3gQRrNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Em3gQRrNL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 60 EUR
 inStock: true
 prodname: 'Volcom Imprint Crew Sudadera  Hombre  Azul Oscuro  M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078VQSTJF/?tag=tolees-21'
+descuento: '49.72'
+titulo: 'Volcom Imprint Crew Sudadera  Hombre  Az'
 ---
 
 Tienes [Volcom Imprint Crew Sudadera  Hombre  Azul Oscuro  M](https://www.amazon.es/dp/B078VQSTJF/?tag=tolees-21) con un 49.72 % de descuento con precio de oferta de 30.17 EUR (original: 60 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Mayoral 4425  Sudadera con Capucha para  al 67.55 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ywcNFVhhL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ywcNFVhhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ywcNFVhhL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 31.99 EUR
 inStock: true
 prodname: 'Mayoral 4425  Sudadera con Capucha para Niñas   Rojo 94   2 años  Tamaño del Fabricante:2 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07J6YCTJM/?tag=tolees-21'
+descuento: '67.55'
+titulo: 'Mayoral 4425  Sudadera con Capucha para '
 ---
 
 Está [Mayoral 4425  Sudadera con Capucha para Niñas   Rojo 94   2 años  Tamaño del Fabricante:2 ](https://www.amazon.es/dp/B07J6YCTJM/?tag=tolees-21) con 67.55 de descuento por 10.38 EUR (original: 31.99 EUR) en el siguiente enlace!

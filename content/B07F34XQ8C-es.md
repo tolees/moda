@@ -3,6 +3,7 @@ layout: post
 title: 'BILLABONG All Day Crew Jersey  Hombre  V al 59.78 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mwelPkkML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41mwelPkkML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mwelPkkML._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 50 EUR
 inStock: true
 prodname: 'BILLABONG All Day Crew Jersey  Hombre  Verde  Military 176   X-Small  Tamaño del Fabricante:XS '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F34XQ8C/?tag=tolees-21'
+descuento: '59.78'
+titulo: 'BILLABONG All Day Crew Jersey  Hombre  V'
 ---
 
 Está [BILLABONG All Day Crew Jersey  Hombre  Verde  Military 176   X-Small  Tamaño del Fabricante:XS ](https://www.amazon.es/dp/B07F34XQ8C/?tag=tolees-21) con 59.78 de descuento por 20.11 EUR (original: 50 EUR) en el siguiente enlace!

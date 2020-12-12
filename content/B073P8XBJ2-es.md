@@ -3,6 +3,7 @@ layout: post
 title: 'Tiffosi Noel Chaqueta  Beige    Tamaño d al 60.47 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gcWR-Jh4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41gcWR-Jh4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gcWR-Jh4L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Tiffosi Noel Chaqueta  Beige    Tamaño del Fabricante:S  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073P8XBJ2/?tag=tolees-21'
+descuento: '60.47'
+titulo: 'Tiffosi Noel Chaqueta  Beige    Tamaño d'
 ---
 
 Ahora mismo tienes [Tiffosi Noel Chaqueta  Beige    Tamaño del Fabricante:S  para Mujer](https://www.amazon.es/dp/B073P8XBJ2/?tag=tolees-21) a 15.81 EUR (original: 39.99 EUR) (60.47 %  de descuento) en el siguiente enlace!

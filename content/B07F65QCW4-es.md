@@ -3,6 +3,7 @@ layout: post
 title: 'Geox J Kilwi Girl N  Zapatillas para Niñ al 72.60 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41FxsvExqyL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41FxsvExqyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41FxsvExqyL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 69.9 EUR
 inStock: true
 prodname: 'Geox J Kilwi Girl N  Zapatillas para Niñas  Beige C5000  30 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F65QCW4/?tag=tolees-21'
+descuento: '72.60'
+titulo: 'Geox J Kilwi Girl N  Zapatillas para Niñ'
 ---
 
 Está [Geox J Kilwi Girl N  Zapatillas para Niñas  Beige C5000  30 EU](https://www.amazon.es/dp/B07F65QCW4/?tag=tolees-21) con 72.60 de descuento por 19.15 EUR (original: 69.9 EUR) en el siguiente enlace!

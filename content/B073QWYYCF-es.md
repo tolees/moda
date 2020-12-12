@@ -3,6 +3,7 @@ layout: post
 title: 'Levi s 501 Vaqueros Tapered  Azul  Noten al 71.33 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41r9nWkDUAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41r9nWkDUAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41r9nWkDUAL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 100 EUR
 inStock: true
 prodname: 'Levi s 501 Vaqueros Tapered  Azul  Noten 45   W28/L34 para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073QWYYCF/?tag=tolees-21'
+descuento: '71.33'
+titulo: 'Levi s 501 Vaqueros Tapered  Azul  Noten'
 ---
 
 Está [Levi s 501 Vaqueros Tapered  Azul  Noten 45   W28/L34 para Hombre](https://www.amazon.es/dp/B073QWYYCF/?tag=tolees-21) con 71.33 de descuento por 28.67 EUR (original: 100 EUR) en el siguiente enlace!

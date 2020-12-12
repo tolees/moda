@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 64.20 % en JACK & JONES Jcomayfield tee SS Crew Nec'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41i4mayzbEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41i4mayzbEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41i4mayzbEL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 17.99 EUR
 inStock: true
 prodname: 'JACK & JONES Jcomayfield tee SS Crew Neck Camiseta  Azul  Sky Captain Fit: Slim   Medium para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JYYKZC5/?tag=tolees-21'
+descuento: '64.20'
+titulo: 'JACK & JONES Jcomayfield tee SS Crew Nec'
 ---
 
 Tienes [JACK & JONES Jcomayfield tee SS Crew Neck Camiseta  Azul  Sky Captain Fit: Slim   Medium para Hombre](https://www.amazon.es/dp/B07JYYKZC5/?tag=tolees-21) con un 64.20 % de descuento con precio de oferta de 6.44 EUR (original: 17.99 EUR) en el siguiente enlace!

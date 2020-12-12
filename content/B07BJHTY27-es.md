@@ -3,6 +3,7 @@ layout: post
 title: 'G-STAR RAW Lynn Mid-Waist Skinny Vaquero al 86.64 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41IgER6YihL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41IgER6YihL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41IgER6YihL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'G-STAR RAW Lynn Mid-Waist Skinny Vaqueros  Azul  dk Aged 6553-89   24W / 36L para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BJHTY27/?tag=tolees-21'
+descuento: '86.64'
+titulo: 'G-STAR RAW Lynn Mid-Waist Skinny Vaquero'
 ---
 
 Está [G-STAR RAW Lynn Mid-Waist Skinny Vaqueros  Azul  dk Aged 6553-89   24W / 36L para Mujer](https://www.amazon.es/dp/B07BJHTY27/?tag=tolees-21) con 86.64 de descuento por 13.35 EUR (original: 99.95 EUR) en el siguiente enlace!

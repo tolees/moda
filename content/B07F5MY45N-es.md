@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 54.20 % en JACK & JONES Jaccolorfull Small Stripe T'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51dhFEdxiIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51dhFEdxiIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51dhFEdxiIL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 12.99 EUR
 inStock: true
 prodname: 'JACK & JONES Jaccolorfull Small Stripe Trunks Noos Bóxer  Fiery Red  Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F5MY45N/?tag=tolees-21'
+descuento: '54.20'
+titulo: 'JACK & JONES Jaccolorfull Small Stripe T'
 ---
 
 Tienes [JACK & JONES Jaccolorfull Small Stripe Trunks Noos Bóxer  Fiery Red  Hombre](https://www.amazon.es/dp/B07F5MY45N/?tag=tolees-21) con un 54.20 % de descuento con precio de oferta de 5.95 EUR (original: 12.99 EUR) en el siguiente enlace!

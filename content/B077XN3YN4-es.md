@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 28.50 % en Under Armour Mk1 Inset - Pantalón Corto '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MmStxMNFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41MmStxMNFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41MmStxMNFL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 40 EUR
 inStock: true
 prodname: 'Under Armour Mk1 Inset - Pantalón Corto para Hombre  Hombre  1320823-001  Negro y Gris  2 X-Grande'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077XN3YN4/?tag=tolees-21'
+descuento: '28.50'
+titulo: 'Under Armour Mk1 Inset - Pantalón Corto '
 ---
 
 Tienes [Under Armour Mk1 Inset - Pantalón Corto para Hombre  Hombre  1320823-001  Negro y Gris  2 X-Grande](https://www.amazon.es/dp/B077XN3YN4/?tag=tolees-21) con un 28.50 % de descuento con precio de oferta de 28.6 EUR (original: 40 EUR) en el siguiente enlace!

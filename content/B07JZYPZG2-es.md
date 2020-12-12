@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 78.94 % en Warehouse Mujer Petrol Spot Camisa Not A'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4103P8eL7vL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4103P8eL7vL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4103P8eL7vL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 44.45 EUR
 inStock: true
 prodname: 'Warehouse Mujer Petrol Spot Camisa Not Applicable   Multi 99   34  Talla del Fabricante: 6 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JZYPZG2/?tag=tolees-21'
+descuento: '78.94'
+titulo: 'Warehouse Mujer Petrol Spot Camisa Not A'
 ---
 
 Tienes [Warehouse Mujer Petrol Spot Camisa Not Applicable   Multi 99   34  Talla del Fabricante: 6 ](https://www.amazon.es/dp/B07JZYPZG2/?tag=tolees-21) con un 78.94 % de descuento con precio de oferta de 9.36 EUR (original: 44.45 EUR) en el siguiente enlace!

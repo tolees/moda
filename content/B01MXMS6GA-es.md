@@ -3,6 +3,7 @@ layout: post
 title: 'Puma Popcat  Zapatos de Playa y Piscina  al 25.06 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DqInAEjnL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41DqInAEjnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DqInAEjnL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 19.95 EUR
 inStock: true
 prodname: 'Puma Popcat  Zapatos de Playa y Piscina Unisex Adulto  Negro Black-White 10  48.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MXMS6GA/?tag=tolees-21'
+descuento: '25.06'
+titulo: 'Puma Popcat  Zapatos de Playa y Piscina '
 ---
 
 Está [Puma Popcat  Zapatos de Playa y Piscina Unisex Adulto  Negro Black-White 10  48.5 EU](https://www.amazon.es/dp/B01MXMS6GA/?tag=tolees-21) con 25.06 de descuento por 14.95 EUR (original: 19.95 EUR) en el siguiente enlace!

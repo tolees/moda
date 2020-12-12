@@ -3,6 +3,7 @@ layout: post
 title: 'Columbia Chaqueta impermeable para mujer al 47.64 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xciX-kvlL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41xciX-kvlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xciX-kvlL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 249.99 EUR
 inStock: true
 prodname: 'Columbia Chaqueta impermeable para mujer  Snow Dream Jacket  Poliéster  Gris  Cirrus Grey Hthr/Cactus Pink   Talla S  1748341'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DYXGTLY/?tag=tolees-21'
+descuento: '47.64'
+titulo: 'Columbia Chaqueta impermeable para mujer'
 ---
 
 Está [Columbia Chaqueta impermeable para mujer  Snow Dream Jacket  Poliéster  Gris  Cirrus Grey Hthr/Cactus Pink   Talla S  1748341](https://www.amazon.es/dp/B07DYXGTLY/?tag=tolees-21) con 47.64 de descuento por 130.89 EUR (original: 249.99 EUR) en el siguiente enlace!

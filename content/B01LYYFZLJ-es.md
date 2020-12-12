@@ -3,6 +3,7 @@ layout: post
 title: 'Hombre Zapatos Casuales Amortiguadores Z al 29.44 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41V-c5la4dL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41V-c5la4dL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41V-c5la4dL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 34 EUR
 inStock: true
 prodname: 'Hombre Zapatos Casuales Amortiguadores Zapatilla Deportiva Ligero Caminar Gimnasio Corriendo Malla Ligero Deporte Entrenadores 44 EU 9 UK Negro '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01LYYFZLJ/?tag=tolees-21'
+descuento: '29.44'
+titulo: 'Hombre Zapatos Casuales Amortiguadores Z'
 ---
 
 Está [Hombre Zapatos Casuales Amortiguadores Zapatilla Deportiva Ligero Caminar Gimnasio Corriendo Malla Ligero Deporte Entrenadores 44 EU 9 UK Negro ](https://www.amazon.es/dp/B01LYYFZLJ/?tag=tolees-21) con 29.44 de descuento por 23.99 EUR (original: 34 EUR) en el siguiente enlace!

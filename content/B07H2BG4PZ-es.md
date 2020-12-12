@@ -3,6 +3,7 @@ layout: post
 title: 'Selighting Bolsa Alforja Trasera Bicicle al 40.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51tCgTW7ezL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51tCgTW7ezL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51tCgTW7ezL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Selighting Bolsa Alforja Trasera Bicicleta Impermeable Bolso de Viaje Portátil Extensible Bolsa de Hombro para Ciclismo al Aire Libre 10L-25L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07H2BG4PZ/?tag=tolees-21'
+descuento: '40.01'
+titulo: 'Selighting Bolsa Alforja Trasera Bicicle'
 ---
 
 Está [Selighting Bolsa Alforja Trasera Bicicleta Impermeable Bolso de Viaje Portátil Extensible Bolsa de Hombro para Ciclismo al Aire Libre 10L-25L](https://www.amazon.es/dp/B07H2BG4PZ/?tag=tolees-21) con 40.01 de descuento por 23.99 EUR (original: 39.99 EUR) en el siguiente enlace!

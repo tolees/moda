@@ -3,6 +3,7 @@ layout: post
 title: 'MAMALICIOUS Mlphie Nell 3/4 Jersey Top N al 59.55 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XHLj36vfL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41XHLj36vfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XHLj36vfL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'MAMALICIOUS Mlphie Nell 3/4 Jersey Top Nf A  Camiseta de Manga Larga premamá Mujer  Azul  Black Iris   38  Talla del Fabricante: Small '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077DXDGM8/?tag=tolees-21'
+descuento: '59.55'
+titulo: 'MAMALICIOUS Mlphie Nell 3/4 Jersey Top N'
 ---
 
 Está [MAMALICIOUS Mlphie Nell 3/4 Jersey Top Nf A  Camiseta de Manga Larga premamá Mujer  Azul  Black Iris   38  Talla del Fabricante: Small ](https://www.amazon.es/dp/B077DXDGM8/?tag=tolees-21) con 59.55 de descuento por 12.13 EUR (original: 29.99 EUR) en el siguiente enlace!

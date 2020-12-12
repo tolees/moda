@@ -3,6 +3,7 @@ layout: post
 title: 'Lee Daren Zip Fly  Vaqueros Rectos para  al 50.03 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31oaB37SkwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31oaB37SkwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31oaB37SkwL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 89.95 EUR
 inStock: true
 prodname: 'Lee Daren Zip Fly  Vaqueros Rectos para Hombre  Negro  Black Night Gz   W31/L30'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079K7GG5N/?tag=tolees-21'
+descuento: '50.03'
+titulo: 'Lee Daren Zip Fly  Vaqueros Rectos para '
 ---
 
 Está [Lee Daren Zip Fly  Vaqueros Rectos para Hombre  Negro  Black Night Gz   W31/L30](https://www.amazon.es/dp/B079K7GG5N/?tag=tolees-21) con 50.03 de descuento por 44.95 EUR (original: 89.95 EUR) en el siguiente enlace!

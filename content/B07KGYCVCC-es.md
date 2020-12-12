@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour Rival Logo Hoody Sudadera c al 55.21 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417D-DGxjRL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/417D-DGxjRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417D-DGxjRL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Under Armour Rival Logo Hoody Sudadera con Capucha  Niños  Marrón  Silt Brown/Onyx White 221   YMD'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KGYCVCC/?tag=tolees-21'
+descuento: '55.21'
+titulo: 'Under Armour Rival Logo Hoody Sudadera c'
 ---
 
 Está [Under Armour Rival Logo Hoody Sudadera con Capucha  Niños  Marrón  Silt Brown/Onyx White 221   YMD](https://www.amazon.es/dp/B07KGYCVCC/?tag=tolees-21) con 55.21 de descuento por 17.91 EUR (original: 39.99 EUR) en el siguiente enlace!

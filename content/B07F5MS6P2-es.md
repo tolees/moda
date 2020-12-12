@@ -3,6 +3,7 @@ layout: post
 title: 'JACK & JONES Jaccolorfull Small Stripe T al 61.89 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51gaLRNvTWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51gaLRNvTWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51gaLRNvTWL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 12.99 EUR
 inStock: true
 prodname: 'JACK & JONES Jaccolorfull Small Stripe Trunks Noos Bóxer  Sunflower  Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F5MS6P2/?tag=tolees-21'
+descuento: '61.89'
+titulo: 'JACK & JONES Jaccolorfull Small Stripe T'
 ---
 
 Ahora mismo tienes [JACK & JONES Jaccolorfull Small Stripe Trunks Noos Bóxer  Sunflower  Hombre](https://www.amazon.es/dp/B07F5MS6P2/?tag=tolees-21) a 4.95 EUR (original: 12.99 EUR) (61.89 %  de descuento) en el siguiente enlace!

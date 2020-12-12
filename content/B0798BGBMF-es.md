@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.77 % en Kempa Core 2.0 Camiseta de Oberbekleidun'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41K4Ep4bm8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41K4Ep4bm8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41K4Ep4bm8L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 27.32 EUR
 inStock: true
 prodname: 'Kempa Core 2.0 Camiseta de Oberbekleidung  Primavera/Verano  Unisex  Color weiß  tamaño XXXL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0798BGBMF/?tag=tolees-21'
+descuento: '50.77'
+titulo: 'Kempa Core 2.0 Camiseta de Oberbekleidun'
 ---
 
 Tienes [Kempa Core 2.0 Camiseta de Oberbekleidung  Primavera/Verano  Unisex  Color weiß  tamaño XXXL](https://www.amazon.es/dp/B0798BGBMF/?tag=tolees-21) con un 50.77 % de descuento con precio de oferta de 13.45 EUR (original: 27.32 EUR) en el siguiente enlace!

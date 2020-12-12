@@ -3,6 +3,7 @@ layout: post
 title: 'Eono Essentials - Chaqueta para mujer 3  al 25.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cblnwZ5nL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41cblnwZ5nL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41cblnwZ5nL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 52.19 EUR
 inStock: true
 prodname: 'Eono Essentials - Chaqueta para mujer 3 en 1 con capucha fija  gris oscuro  S |Chaqueta impermeable mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FK6F1H8/?tag=tolees-21'
+descuento: '25.00'
+titulo: 'Eono Essentials - Chaqueta para mujer 3 '
 ---
 
 Está [Eono Essentials - Chaqueta para mujer 3 en 1 con capucha fija  gris oscuro  S |Chaqueta impermeable mujer](https://www.amazon.es/dp/B07FK6F1H8/?tag=tolees-21) con 25.00 de descuento por 39.14 EUR (original: 52.19 EUR) en el siguiente enlace!

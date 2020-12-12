@@ -3,6 +3,7 @@ layout: post
 title: 'Pepe Jeans Hana Glitter S/s Camiseta  Gr al 45.47 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Y5WtHltlL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Y5WtHltlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Y5WtHltlL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 15 EUR
 inStock: true
 prodname: 'Pepe Jeans Hana Glitter S/s Camiseta  Gris  Grey Marl 933   4 años  Talla del Fabricante: 4  para Niñas'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07NC9PTBG/?tag=tolees-21'
+descuento: '45.47'
+titulo: 'Pepe Jeans Hana Glitter S/s Camiseta  Gr'
 ---
 
 Está [Pepe Jeans Hana Glitter S/s Camiseta  Gris  Grey Marl 933   4 años  Talla del Fabricante: 4  para Niñas](https://www.amazon.es/dp/B07NC9PTBG/?tag=tolees-21) con 45.47 de descuento por 8.18 EUR (original: 15 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Pepe Jeans Pixie PL200025  Vaqueros Skin al 50.58 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41od6lLcvoL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41od6lLcvoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41od6lLcvoL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 95 EUR
 inStock: true
 prodname: 'Pepe Jeans Pixie PL200025  Vaqueros Skinny para Mujer  Azul  10Oz Str 8Dip Royal Dk D45   W26/L30'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MT9XIJ0/?tag=tolees-21'
+descuento: '50.58'
+titulo: 'Pepe Jeans Pixie PL200025  Vaqueros Skin'
 ---
 
 Está [Pepe Jeans Pixie PL200025  Vaqueros Skinny para Mujer  Azul  10Oz Str 8Dip Royal Dk D45   W26/L30](https://www.amazon.es/dp/B01MT9XIJ0/?tag=tolees-21) con 50.58 de descuento por 46.95 EUR (original: 95 EUR) en el siguiente enlace!

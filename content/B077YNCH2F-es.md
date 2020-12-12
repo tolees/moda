@@ -3,6 +3,7 @@ layout: post
 title: 'Volcom Over Ride DD SS Camiseta  Hombre  al 56.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Xch0aGGRL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Xch0aGGRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Xch0aGGRL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 35 EUR
 inStock: true
 prodname: 'Volcom Over Ride DD SS Camiseta  Hombre  Azul  Cielo   L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077YNCH2F/?tag=tolees-21'
+descuento: '56.00'
+titulo: 'Volcom Over Ride DD SS Camiseta  Hombre '
 ---
 
 Está [Volcom Over Ride DD SS Camiseta  Hombre  Azul  Cielo   L](https://www.amazon.es/dp/B077YNCH2F/?tag=tolees-21) con 56.00 de descuento por 15.4 EUR (original: 35 EUR) en el siguiente enlace!

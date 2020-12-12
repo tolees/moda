@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 47.63 % en Birkenstock Arizona EVA  Sandalias de Pu'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/311cdxzqCvL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/311cdxzqCvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/311cdxzqCvL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 40 EUR
 inStock: true
 prodname: 'Birkenstock Arizona EVA  Sandalias de Punta Descubierta para Mujer  Rosa Coral  38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07LCSHGF8/?tag=tolees-21'
+descuento: '47.63'
+titulo: 'Birkenstock Arizona EVA  Sandalias de Pu'
 ---
 
 Tienes [Birkenstock Arizona EVA  Sandalias de Punta Descubierta para Mujer  Rosa Coral  38 EU](https://www.amazon.es/dp/B07LCSHGF8/?tag=tolees-21) con un 47.63 % de descuento con precio de oferta de 20.95 EUR (original: 40 EUR) en el siguiente enlace!

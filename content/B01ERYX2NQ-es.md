@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 58.46 % en Joma Elite V Camiseta  Unisex Adulto  Ro'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wTDFyBqEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41wTDFyBqEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wTDFyBqEL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 23.95 EUR
 inStock: true
 prodname: 'Joma Elite V Camiseta  Unisex Adulto  Rojo  L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01ERYX2NQ/?tag=tolees-21'
+descuento: '58.46'
+titulo: 'Joma Elite V Camiseta  Unisex Adulto  Ro'
 ---
 
 Tienes [Joma Elite V Camiseta  Unisex Adulto  Rojo  L](https://www.amazon.es/dp/B01ERYX2NQ/?tag=tolees-21) con un 58.46 % de descuento con precio de oferta de 9.95 EUR (original: 23.95 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Pepe Jeans New Berry  Chaqueta para Niña al 60.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51TyPYSWesL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51TyPYSWesL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51TyPYSWesL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 75 EUR
 inStock: true
 prodname: 'Pepe Jeans New Berry  Chaqueta para Niñas  Azul  12Oz Gymdigo Medium I62  6 años'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076DBJY6V/?tag=tolees-21'
+descuento: '60.00'
+titulo: 'Pepe Jeans New Berry  Chaqueta para Niña'
 ---
 
 Está [Pepe Jeans New Berry  Chaqueta para Niñas  Azul  12Oz Gymdigo Medium I62  6 años](https://www.amazon.es/dp/B076DBJY6V/?tag=tolees-21) con 60.00 de descuento por 30 EUR (original: 75 EUR) en el siguiente enlace!

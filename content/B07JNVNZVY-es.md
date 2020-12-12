@@ -3,6 +3,7 @@ layout: post
 title: 'ZADIG&VOLTAIRE Robe Vestido   Bleu ROI 8 al 81.89 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31kkw1Cy75L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31kkw1Cy75L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31kkw1Cy75L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 65 EUR
 inStock: true
 prodname: 'ZADIG&VOLTAIRE Robe Vestido   Bleu ROI 865   4 años  Talla del Fabricante: 04A  para Niñas'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JNVNZVY/?tag=tolees-21'
+descuento: '81.89'
+titulo: 'ZADIG&VOLTAIRE Robe Vestido   Bleu ROI 8'
 ---
 
 Está [ZADIG&VOLTAIRE Robe Vestido   Bleu ROI 865   4 años  Talla del Fabricante: 04A  para Niñas](https://www.amazon.es/dp/B07JNVNZVY/?tag=tolees-21) con 81.89 de descuento por 11.77 EUR (original: 65 EUR) en el siguiente enlace!

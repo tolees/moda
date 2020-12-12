@@ -3,6 +3,7 @@ layout: post
 title: 'Hombre s Zapatillas de Baloncesto Otoño  al 30.44 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PjCmWM%2B2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41PjCmWM%2B2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PjCmWM%2B2L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 45.99 EUR
 inStock: true
 prodname: 'Hombre s Zapatillas de Baloncesto Otoño Nuevo Entrenadores Moda al Aire Libre Sneaker'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B074BQW41W/?tag=tolees-21'
+descuento: '30.44'
+titulo: 'Hombre s Zapatillas de Baloncesto Otoño '
 ---
 
 Está [Hombre s Zapatillas de Baloncesto Otoño Nuevo Entrenadores Moda al Aire Libre Sneaker](https://www.amazon.es/dp/B074BQW41W/?tag=tolees-21) con 30.44 de descuento por 31.99 EUR (original: 45.99 EUR) en el siguiente enlace!

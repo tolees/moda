@@ -3,6 +3,7 @@ layout: post
 title: 'Tom Tailor Printed Sweatie Sudadera  Azu al 63.09 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51KLI49ZTTL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51KLI49ZTTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51KLI49ZTTL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Tom Tailor Printed Sweatie Sudadera  Azul  Real Navy Blue 6593   42  Talla del Fabricante: X-Large  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071R3HNLN/?tag=tolees-21'
+descuento: '63.09'
+titulo: 'Tom Tailor Printed Sweatie Sudadera  Azu'
 ---
 
 Ahora mismo tienes [Tom Tailor Printed Sweatie Sudadera  Azul  Real Navy Blue 6593   42  Talla del Fabricante: X-Large  para Mujer](https://www.amazon.es/dp/B071R3HNLN/?tag=tolees-21) a 14.76 EUR (original: 39.99 EUR) (63.09 %  de descuento) en el siguiente enlace!

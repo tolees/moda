@@ -3,6 +3,7 @@ layout: post
 title: 'FIND Sudadera Mensaje para Hombre  Negro al 70.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PNxKqzLPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41PNxKqzLPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PNxKqzLPL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 28 EUR
 inStock: true
 prodname: 'FIND Sudadera Mensaje para Hombre  Negro  Black 002   Medium'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073SCWDXH/?tag=tolees-21'
+descuento: '70.00'
+titulo: 'FIND Sudadera Mensaje para Hombre  Negro'
 ---
 
 Está [FIND Sudadera Mensaje para Hombre  Negro  Black 002   Medium](https://www.amazon.es/dp/B073SCWDXH/?tag=tolees-21) con 70.00 de descuento por 8.4 EUR (original: 28 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'The North Face Y S/S T Camiseta Simple D al 50.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31nLsy%2B5h-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31nLsy%2B5h-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31nLsy%2B5h-L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 20 EUR
 inStock: true
 prodname: 'The North Face Y S/S T Camiseta Simple Dome Hombre  Purdy Pink M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BB4HTYC/?tag=tolees-21'
+descuento: '50.00'
+titulo: 'The North Face Y S/S T Camiseta Simple D'
 ---
 
 Ahora mismo tienes [The North Face Y S/S T Camiseta Simple Dome Hombre  Purdy Pink M](https://www.amazon.es/dp/B07BB4HTYC/?tag=tolees-21) a 10 EUR (original: 20 EUR) (50.00 %  de descuento) en el siguiente enlace!

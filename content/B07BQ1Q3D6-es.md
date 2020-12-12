@@ -3,6 +3,7 @@ layout: post
 title: 'Lee Banner tee  Camiseta para Hombre  Bl al 42.99 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TjorvWsRL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41TjorvWsRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TjorvWsRL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 24.47 EUR
 inStock: true
 prodname: 'Lee Banner tee  Camiseta para Hombre  Blanco  White 12  Medium'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BQ1Q3D6/?tag=tolees-21'
+descuento: '42.99'
+titulo: 'Lee Banner tee  Camiseta para Hombre  Bl'
 ---
 
 Ahora mismo tienes [Lee Banner tee  Camiseta para Hombre  Blanco  White 12  Medium](https://www.amazon.es/dp/B07BQ1Q3D6/?tag=tolees-21) a 13.95 EUR (original: 24.47 EUR) (42.99 %  de descuento) en el siguiente enlace!

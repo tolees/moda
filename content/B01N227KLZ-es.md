@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 67.77 % en Double Agent Cheerleader Pleated  Falda '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LBXUIYK2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41LBXUIYK2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LBXUIYK2L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 22 EUR
 inStock: true
 prodname: 'Double Agent Cheerleader Pleated  Falda Casual para Mujer   Gris Medio   L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N227KLZ/?tag=tolees-21'
+descuento: '67.77'
+titulo: 'Double Agent Cheerleader Pleated  Falda '
 ---
 
 Tienes [Double Agent Cheerleader Pleated  Falda Casual para Mujer   Gris Medio   L](https://www.amazon.es/dp/B01N227KLZ/?tag=tolees-21) con un 67.77 % de descuento con precio de oferta de 7.09 EUR (original: 22 EUR) en el siguiente enlace!

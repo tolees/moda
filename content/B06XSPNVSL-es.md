@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 32.77 % en FIND DC1930L vaqueros mujer  Azul  Indig'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XvISqw8-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41XvISqw8-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XvISqw8-L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 22 EUR
 inStock: true
 prodname: 'FIND DC1930L vaqueros mujer  Azul  Indigo   W30/L32  Talla del Fabricante: Medium '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XSPNVSL/?tag=tolees-21'
+descuento: '32.77'
+titulo: 'FIND DC1930L vaqueros mujer  Azul  Indig'
 ---
 
 Tienes [FIND DC1930L vaqueros mujer  Azul  Indigo   W30/L32  Talla del Fabricante: Medium ](https://www.amazon.es/dp/B06XSPNVSL/?tag=tolees-21) con un 32.77 % de descuento con precio de oferta de 14.79 EUR (original: 22 EUR) en el siguiente enlace!

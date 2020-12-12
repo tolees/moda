@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 39.92 % en Marco Tozzi 2-2-24416-28 535  Zapatos De'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jCaXzPRjL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41jCaXzPRjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jCaXzPRjL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 39.95 EUR
 inStock: true
 prodname: 'Marco Tozzi 2-2-24416-28 535  Zapatos De Tacón Mujer  Marrón  Candy 535   39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N2JK45F/?tag=tolees-21'
+descuento: '39.92'
+titulo: 'Marco Tozzi 2-2-24416-28 535  Zapatos De'
 ---
 
 Tienes [Marco Tozzi 2-2-24416-28 535  Zapatos De Tacón Mujer  Marrón  Candy 535   39 EU](https://www.amazon.es/dp/B01N2JK45F/?tag=tolees-21) con un 39.92 % de descuento con precio de oferta de 24 EUR (original: 39.95 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 75.56 % en JACK & JONES Jorcolby Shirt LS Camisa   '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51QSCa2v95L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51QSCa2v95L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51QSCa2v95L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'JACK & JONES Jorcolby Shirt LS Camisa   Deep Teal Fit:Slim   Small para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07L13LXV1/?tag=tolees-21'
+descuento: '75.56'
+titulo: 'JACK & JONES Jorcolby Shirt LS Camisa   '
 ---
 
 Tienes [JACK & JONES Jorcolby Shirt LS Camisa   Deep Teal Fit:Slim   Small para Hombre](https://www.amazon.es/dp/B07L13LXV1/?tag=tolees-21) con un 75.56 % de descuento con precio de oferta de 7.33 EUR (original: 29.99 EUR) en el siguiente enlace!

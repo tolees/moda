@@ -3,6 +3,7 @@ layout: post
 title: 'The North Face S/S Red Box tee Camiseta  al 54.13 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BphYxwMDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BphYxwMDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2BphYxwMDL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 30 EUR
 inStock: true
 prodname: 'The North Face S/S Red Box tee Camiseta de Manga Corta  Hombre  Negro  TNF Black   XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01IFA0PUG/?tag=tolees-21'
+descuento: '54.13'
+titulo: 'The North Face S/S Red Box tee Camiseta '
 ---
 
 Está [The North Face S/S Red Box tee Camiseta de Manga Corta  Hombre  Negro  TNF Black   XL](https://www.amazon.es/dp/B01IFA0PUG/?tag=tolees-21) con 54.13 de descuento por 13.76 EUR (original: 30 EUR) en el siguiente enlace!

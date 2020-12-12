@@ -3,6 +3,7 @@ layout: post
 title: 'Lee Rider  Vaqueros Slim para Hombre  Az al 74.53 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-wail2zML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41-wail2zML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-wail2zML._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'Lee Rider  Vaqueros Slim para Hombre  Azul  Buddy Blue Ui   W29/L34'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FTTRZY3/?tag=tolees-21'
+descuento: '74.53'
+titulo: 'Lee Rider  Vaqueros Slim para Hombre  Az'
 ---
 
 Está [Lee Rider  Vaqueros Slim para Hombre  Azul  Buddy Blue Ui   W29/L34](https://www.amazon.es/dp/B07FTTRZY3/?tag=tolees-21) con 74.53 de descuento por 25.46 EUR (original: 99.95 EUR) en el siguiente enlace!

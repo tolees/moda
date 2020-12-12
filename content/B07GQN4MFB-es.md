@@ -3,6 +3,7 @@ layout: post
 title: 'Zapatillas Deporte Hombre Zapatos para C al 48.34 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51vxSCK8QzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51vxSCK8QzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51vxSCK8QzL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'Zapatillas Deporte Hombre Zapatos para Correr Athletic Cordones Air Cushion Running Sports Sneakers'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GQN4MFB/?tag=tolees-21'
+descuento: '48.34'
+titulo: 'Zapatillas Deporte Hombre Zapatos para C'
 ---
 
 Ahora mismo tienes [Zapatillas Deporte Hombre Zapatos para Correr Athletic Cordones Air Cushion Running Sports Sneakers](https://www.amazon.es/dp/B07GQN4MFB/?tag=tolees-21) a 30.99 EUR (original: 59.99 EUR) (48.34 %  de descuento) en el siguiente enlace!

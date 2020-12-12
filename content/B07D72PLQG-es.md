@@ -3,6 +3,7 @@ layout: post
 title: 'Versace Jeans Lady Dress  Vestido para M al 51.20 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41u%2BWOVb6nL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41u%2BWOVb6nL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41u%2BWOVb6nL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 205 EUR
 inStock: true
 prodname: 'Versace Jeans Lady Dress  Vestido para Mujer  Negro  Nero E899   Medium  Talla del Fabricante: 42 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D72PLQG/?tag=tolees-21'
+descuento: '51.20'
+titulo: 'Versace Jeans Lady Dress  Vestido para M'
 ---
 
 Está [Versace Jeans Lady Dress  Vestido para Mujer  Negro  Nero E899   Medium  Talla del Fabricante: 42 ](https://www.amazon.es/dp/B07D72PLQG/?tag=tolees-21) con 51.20 de descuento por 100.03 EUR (original: 205 EUR) en el siguiente enlace!

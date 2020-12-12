@@ -3,6 +3,7 @@ layout: post
 title: 'Timberland Adventure Seeker 2 Strap  San al 42.33 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414CzFOakoL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/414CzFOakoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414CzFOakoL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 45 EUR
 inStock: true
 prodname: 'Timberland Adventure Seeker 2 Strap  Sandalias de Punta Descubierta Unisex Niños  Azul  Black Iris   33 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01NAPQ99Z/?tag=tolees-21'
+descuento: '42.33'
+titulo: 'Timberland Adventure Seeker 2 Strap  San'
 ---
 
 Está [Timberland Adventure Seeker 2 Strap  Sandalias de Punta Descubierta Unisex Niños  Azul  Black Iris   33 EU](https://www.amazon.es/dp/B01NAPQ99Z/?tag=tolees-21) con 42.33 de descuento por 25.95 EUR (original: 45 EUR) en el siguiente enlace!

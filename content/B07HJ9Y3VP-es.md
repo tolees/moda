@@ -3,6 +3,7 @@ layout: post
 title: 'Tommy Hilfiger Big Scale Relaxed Fit tee al 52.88 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41617uDlCpL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41617uDlCpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41617uDlCpL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 39.9 EUR
 inStock: true
 prodname: 'Tommy Hilfiger Big Scale Relaxed Fit tee  Camiseta Hombre  Rojo  Haute Red 611   XX-Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HJ9Y3VP/?tag=tolees-21'
+descuento: '52.88'
+titulo: 'Tommy Hilfiger Big Scale Relaxed Fit tee'
 ---
 
 Está [Tommy Hilfiger Big Scale Relaxed Fit tee  Camiseta Hombre  Rojo  Haute Red 611   XX-Large](https://www.amazon.es/dp/B07HJ9Y3VP/?tag=tolees-21) con 52.88 de descuento por 18.8 EUR (original: 39.9 EUR) en el siguiente enlace!

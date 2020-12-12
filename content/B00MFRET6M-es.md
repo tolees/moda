@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 60.09 % en Lee MARION STRAIGHT ONE WASH - Vaqueros '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31kCmDvRF1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31kCmDvRF1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31kCmDvRF1L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 89.95 EUR
 inStock: true
 prodname: 'Lee MARION STRAIGHT ONE WASH - Vaqueros para mujer  Azul  ONE WASH 45   W29/L35'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00MFRET6M/?tag=tolees-21'
+descuento: '60.09'
+titulo: 'Lee MARION STRAIGHT ONE WASH - Vaqueros '
 ---
 
 Tienes [Lee MARION STRAIGHT ONE WASH - Vaqueros para mujer  Azul  ONE WASH 45   W29/L35](https://www.amazon.es/dp/B00MFRET6M/?tag=tolees-21) con un 60.09 % de descuento con precio de oferta de 35.9 EUR (original: 89.95 EUR) en el siguiente enlace!

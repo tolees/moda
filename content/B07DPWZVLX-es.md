@@ -3,6 +3,7 @@ layout: post
 title: 'Burton Covert Chaqueta de Snowboard  Hom al 48.55 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OYGSlSRFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41OYGSlSRFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41OYGSlSRFL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 200 EUR
 inStock: true
 prodname: 'Burton Covert Chaqueta de Snowboard  Hombre  Naranja  Golden Oak  / Azul  Denim   S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DPWZVLX/?tag=tolees-21'
+descuento: '48.55'
+titulo: 'Burton Covert Chaqueta de Snowboard  Hom'
 ---
 
 Está [Burton Covert Chaqueta de Snowboard  Hombre  Naranja  Golden Oak  / Azul  Denim   S](https://www.amazon.es/dp/B07DPWZVLX/?tag=tolees-21) con 48.55 de descuento por 102.91 EUR (original: 200 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 62.58 % en Charles Wilson Sudadera con Cremallera C'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41v2VS3kTjL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41v2VS3kTjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41v2VS3kTjL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 39.95 EUR
 inStock: true
 prodname: 'Charles Wilson Sudadera con Cremallera Completa con Capucha Peso Intermedio para Hombre  Small  Black '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07L5J5BF4/?tag=tolees-21'
+descuento: '62.58'
+titulo: 'Charles Wilson Sudadera con Cremallera C'
 ---
 
 Tienes [Charles Wilson Sudadera con Cremallera Completa con Capucha Peso Intermedio para Hombre  Small  Black ](https://www.amazon.es/dp/B07L5J5BF4/?tag=tolees-21) con un 62.58 % de descuento con precio de oferta de 14.95 EUR (original: 39.95 EUR) en el siguiente enlace!

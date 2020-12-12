@@ -3,6 +3,7 @@ layout: post
 title: 'GRACE KARIN Falda Plisada Estampada de A al 48.66 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51fMvTpsr1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51fMvTpsr1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51fMvTpsr1L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 36.99 EUR
 inStock: true
 prodname: 'GRACE KARIN Falda Plisada Estampada de Años 50 Falda Vintage Floral para Fiesta Cótel CL6294-31 2XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07NVLF9XX/?tag=tolees-21'
+descuento: '48.66'
+titulo: 'GRACE KARIN Falda Plisada Estampada de A'
 ---
 
 Está [GRACE KARIN Falda Plisada Estampada de Años 50 Falda Vintage Floral para Fiesta Cótel CL6294-31 2XL](https://www.amazon.es/dp/B07NVLF9XX/?tag=tolees-21) con 48.66 de descuento por 18.99 EUR (original: 36.99 EUR) en el siguiente enlace!

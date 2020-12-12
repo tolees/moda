@@ -3,6 +3,7 @@ layout: post
 title: 'Napapijri Bevora C Sudadera  Azul  BLU M al 55.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31GOci-8HkL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31GOci-8HkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31GOci-8HkL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 89 EUR
 inStock: true
 prodname: 'Napapijri Bevora C Sudadera  Azul  BLU Marine 176   X-Large para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07L7J3TMT/?tag=tolees-21'
+descuento: '55.00'
+titulo: 'Napapijri Bevora C Sudadera  Azul  BLU M'
 ---
 
 Ahora mismo tienes [Napapijri Bevora C Sudadera  Azul  BLU Marine 176   X-Large para Hombre](https://www.amazon.es/dp/B07L7J3TMT/?tag=tolees-21) a 40.05 EUR (original: 89 EUR) (55.00 %  de descuento) en el siguiente enlace!

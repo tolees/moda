@@ -3,6 +3,7 @@ layout: post
 title: 'HIKARO Chaqueta Ligera Estilo Parka con  al 40.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tLLVXNdVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41tLLVXNdVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tLLVXNdVL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 64.95 EUR
 inStock: true
 prodname: 'HIKARO Chaqueta Ligera Estilo Parka con Capucha Mujer  Verde  Khaki   40  Talla del fabricante: Medium '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077YDWYCT/?tag=tolees-21'
+descuento: '40.00'
+titulo: 'HIKARO Chaqueta Ligera Estilo Parka con '
 ---
 
 Ahora mismo tienes [HIKARO Chaqueta Ligera Estilo Parka con Capucha Mujer  Verde  Khaki   40  Talla del fabricante: Medium ](https://www.amazon.es/dp/B077YDWYCT/?tag=tolees-21) a 38.97 EUR (original: 64.95 EUR) (40.00 %  de descuento) en el siguiente enlace!

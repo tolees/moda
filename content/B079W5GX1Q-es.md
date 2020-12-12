@@ -3,6 +3,7 @@ layout: post
 title: 'Helly Hansen W Verglas Hooded Down Insul al 67.85 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QN6duLTEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41QN6duLTEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QN6duLTEL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 260 EUR
 inStock: true
 prodname: 'Helly Hansen W Verglas Hooded Down Insulato Chaqueta con capucha  Mujer  Rojo  grenadine   L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079W5GX1Q/?tag=tolees-21'
+descuento: '67.85'
+titulo: 'Helly Hansen W Verglas Hooded Down Insul'
 ---
 
 Está [Helly Hansen W Verglas Hooded Down Insulato Chaqueta con capucha  Mujer  Rojo  grenadine   L](https://www.amazon.es/dp/B079W5GX1Q/?tag=tolees-21) con 67.85 de descuento por 83.58 EUR (original: 260 EUR) en el siguiente enlace!

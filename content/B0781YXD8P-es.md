@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 71.17 % en Puma BND Tech SLVS tee Camiseta  Hombre '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41WzATc6jEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41WzATc6jEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41WzATc6jEL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 37.95 EUR
 inStock: true
 prodname: 'Puma BND Tech SLVS tee Camiseta  Hombre  Gris  Azul Brillante   M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0781YXD8P/?tag=tolees-21'
+descuento: '71.17'
+titulo: 'Puma BND Tech SLVS tee Camiseta  Hombre '
 ---
 
 Tienes [Puma BND Tech SLVS tee Camiseta  Hombre  Gris  Azul Brillante   M](https://www.amazon.es/dp/B0781YXD8P/?tag=tolees-21) con un 71.17 % de descuento con precio de oferta de 10.94 EUR (original: 37.95 EUR) en el siguiente enlace!

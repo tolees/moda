@@ -3,6 +3,7 @@ layout: post
 title: 'REPLAY Anbass Vaqueros Slim  Azul  Dark  al 82.20 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jfJpLiT2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41jfJpLiT2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jfJpLiT2L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 119 EUR
 inStock: true
 prodname: 'REPLAY Anbass Vaqueros Slim  Azul  Dark Blue 7   W28/L30  Talla del Fabricante: 28  para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KJPYQTP/?tag=tolees-21'
+descuento: '82.20'
+titulo: 'REPLAY Anbass Vaqueros Slim  Azul  Dark '
 ---
 
 Está [REPLAY Anbass Vaqueros Slim  Azul  Dark Blue 7   W28/L30  Talla del Fabricante: 28  para Hombre](https://www.amazon.es/dp/B07KJPYQTP/?tag=tolees-21) con 82.20 de descuento por 21.18 EUR (original: 119 EUR) en el siguiente enlace!

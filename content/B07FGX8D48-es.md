@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 65.10 % en Columbia Gate Racer Chaqueta Softshell p'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31aUiDycB8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31aUiDycB8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31aUiDycB8L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 139.99 EUR
 inStock: true
 prodname: 'Columbia Gate Racer Chaqueta Softshell para Hombre  Azul  Collegiate Navy   XXL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FGX8D48/?tag=tolees-21'
+descuento: '65.10'
+titulo: 'Columbia Gate Racer Chaqueta Softshell p'
 ---
 
 Tienes [Columbia Gate Racer Chaqueta Softshell para Hombre  Azul  Collegiate Navy   XXL](https://www.amazon.es/dp/B07FGX8D48/?tag=tolees-21) con un 65.10 % de descuento con precio de oferta de 48.86 EUR (original: 139.99 EUR) en el siguiente enlace!

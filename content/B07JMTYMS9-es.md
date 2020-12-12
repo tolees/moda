@@ -3,6 +3,7 @@ layout: post
 title: 'Guess SS Cn tee  Camiseta de Tirantes pa al 39.89 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41d2FaUh4aL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41d2FaUh4aL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41d2FaUh4aL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 44 EUR
 inStock: true
 prodname: 'Guess SS Cn tee  Camiseta de Tirantes para Mujer  Azul  Bel Air Blue G725  Medium'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JMTYMS9/?tag=tolees-21'
+descuento: '39.89'
+titulo: 'Guess SS Cn tee  Camiseta de Tirantes pa'
 ---
 
 Está [Guess SS Cn tee  Camiseta de Tirantes para Mujer  Azul  Bel Air Blue G725  Medium](https://www.amazon.es/dp/B07JMTYMS9/?tag=tolees-21) con 39.89 de descuento por 26.45 EUR (original: 44 EUR) en el siguiente enlace!

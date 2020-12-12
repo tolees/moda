@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 60.79 % en JACK & JONES Jcojonah Sweat Hood LS Noos'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41at-WgIzVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41at-WgIzVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41at-WgIzVL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'JACK & JONES Jcojonah Sweat Hood LS Noos  Sudadera para Hombre  Gris  Light Grey Melange Detail: JJ Print  Small'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07J2BD6YJ/?tag=tolees-21'
+descuento: '60.79'
+titulo: 'JACK & JONES Jcojonah Sweat Hood LS Noos'
 ---
 
 Tienes [JACK & JONES Jcojonah Sweat Hood LS Noos  Sudadera para Hombre  Gris  Light Grey Melange Detail: JJ Print  Small](https://www.amazon.es/dp/B07J2BD6YJ/?tag=tolees-21) con un 60.79 % de descuento con precio de oferta de 15.68 EUR (original: 39.99 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'LOHOTEK Guantes de Ciclismo Motocicleta  al 45.02 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51iSy2jAFaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51iSy2jAFaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51iSy2jAFaL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'LOHOTEK Guantes de Ciclismo Motocicleta Bicicleta Montaña-Acolchados Bicicleta de Carretera de Hombres Mujeres Antideslizante Pantalla Táctil  Amarillo  M '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07PRHNKLY/?tag=tolees-21'
+descuento: '45.02'
+titulo: 'LOHOTEK Guantes de Ciclismo Motocicleta '
 ---
 
 Está [LOHOTEK Guantes de Ciclismo Motocicleta Bicicleta Montaña-Acolchados Bicicleta de Carretera de Hombres Mujeres Antideslizante Pantalla Táctil  Amarillo  M ](https://www.amazon.es/dp/B07PRHNKLY/?tag=tolees-21) con 45.02 de descuento por 10.99 EUR (original: 19.99 EUR) en el siguiente enlace!

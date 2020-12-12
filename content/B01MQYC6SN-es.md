@@ -3,6 +3,7 @@ layout: post
 title: 'Guess Jalisa  Chanclas para Mujer  Naran al 68.76 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51fKc1HITrL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51fKc1HITrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51fKc1HITrL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 98.24 EUR
 inStock: true
 prodname: 'Guess Jalisa  Chanclas para Mujer  Naranja Orang  37 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MQYC6SN/?tag=tolees-21'
+descuento: '68.76'
+titulo: 'Guess Jalisa  Chanclas para Mujer  Naran'
 ---
 
 Está [Guess Jalisa  Chanclas para Mujer  Naranja Orang  37 EU](https://www.amazon.es/dp/B01MQYC6SN/?tag=tolees-21) con 68.76 de descuento por 30.69 EUR (original: 98.24 EUR) en el siguiente enlace!

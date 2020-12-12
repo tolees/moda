@@ -3,6 +3,7 @@ layout: post
 title: 'Iris & Lilly Tanga Estampado con Encaje  al 59.97 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41siEub4lrL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41siEub4lrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41siEub4lrL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 13.99 EUR
 inStock: true
 prodname: 'Iris & Lilly Tanga Estampado con Encaje para Mujer  Pack de 3  Multicolor  Print/ Veronica   Medium'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0744NZGM5/?tag=tolees-21'
+descuento: '59.97'
+titulo: 'Iris & Lilly Tanga Estampado con Encaje '
 ---
 
 Ahora mismo tienes [Iris & Lilly Tanga Estampado con Encaje para Mujer  Pack de 3  Multicolor  Print/ Veronica   Medium](https://www.amazon.es/dp/B0744NZGM5/?tag=tolees-21) a 5.6 EUR (original: 13.99 EUR) (59.97 %  de descuento) en el siguiente enlace!

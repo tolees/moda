@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 68.05 % en Cortefiel C1Bck Pico Torzal  Jersey para'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yZsrtqdmL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41yZsrtqdmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yZsrtqdmL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'Cortefiel C1Bck Pico Torzal  Jersey para Hombre  Blanco  Crudo 96   Small  Tamaño del Fabricante:S '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KYT1Z7N/?tag=tolees-21'
+descuento: '68.05'
+titulo: 'Cortefiel C1Bck Pico Torzal  Jersey para'
 ---
 
 Tienes [Cortefiel C1Bck Pico Torzal  Jersey para Hombre  Blanco  Crudo 96   Small  Tamaño del Fabricante:S ](https://www.amazon.es/dp/B07KYT1Z7N/?tag=tolees-21) con un 68.05 % de descuento con precio de oferta de 15.97 EUR (original: 49.99 EUR) en el siguiente enlace!

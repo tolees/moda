@@ -3,6 +3,7 @@ layout: post
 title: 'Timberland Doudoune  Chaqueta para Niños al 25.02 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ph%2BWSRSYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ph%2BWSRSYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ph%2BWSRSYL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 71.95 EUR
 inStock: true
 prodname: 'Timberland Doudoune  Chaqueta para Niños  Azul  Indigo Blue  6 años'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0794PMPYX/?tag=tolees-21'
+descuento: '25.02'
+titulo: 'Timberland Doudoune  Chaqueta para Niños'
 ---
 
 Ahora mismo tienes [Timberland Doudoune  Chaqueta para Niños  Azul  Indigo Blue  6 años](https://www.amazon.es/dp/B0794PMPYX/?tag=tolees-21) a 53.95 EUR (original: 71.95 EUR) (25.02 %  de descuento) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Volcom Supply Stone P/O Sudadera con Cap al 42.07 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51FrGkGyfML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51FrGkGyfML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51FrGkGyfML._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 70 EUR
 inStock: true
 prodname: 'Volcom Supply Stone P/O Sudadera con Capucha  Hombre  Azul  M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0713SN2XF/?tag=tolees-21'
+descuento: '42.07'
+titulo: 'Volcom Supply Stone P/O Sudadera con Cap'
 ---
 
 Está [Volcom Supply Stone P/O Sudadera con Capucha  Hombre  Azul  M](https://www.amazon.es/dp/B0713SN2XF/?tag=tolees-21) con 42.07 de descuento por 40.55 EUR (original: 70 EUR) en el siguiente enlace!

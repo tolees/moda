@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 58.66 % en Tom Tailor Floyd Summer Print Shirt  Cam'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KxgC9YpdL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41KxgC9YpdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41KxgC9YpdL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 29.95 EUR
 inStock: true
 prodname: 'Tom Tailor Floyd Summer Print Shirt  Camisa Hombre  Azul  Medium Deep Sky Blue 6993   Small'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N4KKV37/?tag=tolees-21'
+descuento: '58.66'
+titulo: 'Tom Tailor Floyd Summer Print Shirt  Cam'
 ---
 
 Tienes [Tom Tailor Floyd Summer Print Shirt  Camisa Hombre  Azul  Medium Deep Sky Blue 6993   Small](https://www.amazon.es/dp/B01N4KKV37/?tag=tolees-21) con un 58.66 % de descuento con precio de oferta de 12.38 EUR (original: 29.95 EUR) en el siguiente enlace!

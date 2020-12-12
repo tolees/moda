@@ -3,6 +3,7 @@ layout: post
 title: '2TWO Handi  Vestido para Mujer  Negro  3 al 84.17 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31xKnXPA%2B0L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31xKnXPA%2B0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31xKnXPA%2B0L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 99 EUR
 inStock: true
 prodname: '2TWO Handi  Vestido para Mujer  Negro  38'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00WW77VU6/?tag=tolees-21'
+descuento: '84.17'
+titulo: '2TWO Handi  Vestido para Mujer  Negro  3'
 ---
 
 Ahora mismo tienes [2TWO Handi  Vestido para Mujer  Negro  38](https://www.amazon.es/dp/B00WW77VU6/?tag=tolees-21) a 15.67 EUR (original: 99 EUR) (84.17 %  de descuento) en el siguiente enlace!

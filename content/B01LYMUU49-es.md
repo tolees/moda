@@ -3,6 +3,7 @@ layout: post
 title: 'oodji Collection Mujer Sudadera Estampad al 65.85 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/513ZDtQPiQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/513ZDtQPiQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/513ZDtQPiQL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 16.4 EUR
 inStock: true
 prodname: 'oodji Collection Mujer Sudadera Estampada de Manga Corta  46 / XXL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01LYMUU49/?tag=tolees-21'
+descuento: '65.85'
+titulo: 'oodji Collection Mujer Sudadera Estampad'
 ---
 
 Ahora mismo tienes [oodji Collection Mujer Sudadera Estampada de Manga Corta  46 / XXL](https://www.amazon.es/dp/B01LYMUU49/?tag=tolees-21) a 5.6 EUR (original: 16.4 EUR) (65.85 %  de descuento) en el siguiente enlace!

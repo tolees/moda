@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 74.19 % en Lee Morton Vaqueros Rectos  Negro  Black'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CBcxlWGBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41CBcxlWGBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CBcxlWGBL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 89.95 EUR
 inStock: true
 prodname: 'Lee Morton Vaqueros Rectos  Negro  Black Rinse YC47   W30/L30 para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071X3R4JJ/?tag=tolees-21'
+descuento: '74.19'
+titulo: 'Lee Morton Vaqueros Rectos  Negro  Black'
 ---
 
 Tienes [Lee Morton Vaqueros Rectos  Negro  Black Rinse YC47   W30/L30 para Hombre](https://www.amazon.es/dp/B071X3R4JJ/?tag=tolees-21) con un 74.19 % de descuento con precio de oferta de 23.22 EUR (original: 89.95 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Napapijri Sawy Camiseta  Verde  New Oliv al 46.28 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411xoz2Fx5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/411xoz2Fx5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411xoz2Fx5L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 39 EUR
 inStock: true
 prodname: 'Napapijri Sawy Camiseta  Verde  New Olive Green Gd6   Small para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07L9QMZHM/?tag=tolees-21'
+descuento: '46.28'
+titulo: 'Napapijri Sawy Camiseta  Verde  New Oliv'
 ---
 
 Está [Napapijri Sawy Camiseta  Verde  New Olive Green Gd6   Small para Hombre](https://www.amazon.es/dp/B07L9QMZHM/?tag=tolees-21) con 46.28 de descuento por 20.95 EUR (original: 39 EUR) en el siguiente enlace!

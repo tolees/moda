@@ -3,6 +3,7 @@ layout: post
 title: 'Timberland Amherst  Botas Chukka para Ho al 55.78 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31PUbIGLSaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31PUbIGLSaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31PUbIGLSaL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 136.67 EUR
 inStock: true
 prodname: 'Timberland Amherst  Botas Chukka para Hombre  Verde  Grape Leaf Nubuck A58   45.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DGNQ9YW/?tag=tolees-21'
+descuento: '55.78'
+titulo: 'Timberland Amherst  Botas Chukka para Ho'
 ---
 
 Está [Timberland Amherst  Botas Chukka para Hombre  Verde  Grape Leaf Nubuck A58   45.5 EU](https://www.amazon.es/dp/B07DGNQ9YW/?tag=tolees-21) con 55.78 de descuento por 60.44 EUR (original: 136.67 EUR) en el siguiente enlace!

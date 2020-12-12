@@ -3,6 +3,7 @@ layout: post
 title: 'Camper Morrys K100295-006 Zapatos de Ves al 61.34 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lxY0LmxKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41lxY0LmxKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41lxY0LmxKL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 140 EUR
 inStock: true
 prodname: 'Camper Morrys K100295-006 Zapatos de Vestir Hombre 45'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0794P3WGD/?tag=tolees-21'
+descuento: '61.34'
+titulo: 'Camper Morrys K100295-006 Zapatos de Ves'
 ---
 
 Ahora mismo tienes [Camper Morrys K100295-006 Zapatos de Vestir Hombre 45](https://www.amazon.es/dp/B0794P3WGD/?tag=tolees-21) a 54.12 EUR (original: 140 EUR) (61.34 %  de descuento) en el siguiente enlace!

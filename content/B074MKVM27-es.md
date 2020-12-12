@@ -3,6 +3,7 @@ layout: post
 title: 'Havaianas Urban Basic  Chanclas para Hom al 57.90 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ZwxSmStmL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51ZwxSmStmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ZwxSmStmL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 21.9 EUR
 inStock: true
 prodname: 'Havaianas Urban Basic  Chanclas para Hombre  Azul  Navy Blue/indigo Blue   41/42 EU  39/40 Brazilian '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B074MKVM27/?tag=tolees-21'
+descuento: '57.90'
+titulo: 'Havaianas Urban Basic  Chanclas para Hom'
 ---
 
 Ahora mismo tienes [Havaianas Urban Basic  Chanclas para Hombre  Azul  Navy Blue/indigo Blue   41/42 EU  39/40 Brazilian ](https://www.amazon.es/dp/B074MKVM27/?tag=tolees-21) a 9.22 EUR (original: 21.9 EUR) (57.90 %  de descuento) en el siguiente enlace!

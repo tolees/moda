@@ -3,6 +3,7 @@ layout: post
 title: 'RED WAGON Vestido de Manga Corta con Par al 59.98 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XoXDW67ZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41XoXDW67ZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XoXDW67ZL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 20.99 EUR
 inStock: true
 prodname: 'RED WAGON Vestido de Manga Corta con Parches para Niñas  Gris  Grey   4 años'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01NBNLBS1/?tag=tolees-21'
+descuento: '59.98'
+titulo: 'RED WAGON Vestido de Manga Corta con Par'
 ---
 
 Ahora mismo tienes [RED WAGON Vestido de Manga Corta con Parches para Niñas  Gris  Grey   4 años](https://www.amazon.es/dp/B01NBNLBS1/?tag=tolees-21) a 8.4 EUR (original: 20.99 EUR) (59.98 %  de descuento) en el siguiente enlace!

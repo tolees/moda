@@ -3,6 +3,7 @@ layout: post
 title: 'New Look Ryan Maxi Falda  Azul  Blue Pat al 42.17 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ir7vUwOVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ir7vUwOVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ir7vUwOVL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 22.48 EUR
 inStock: true
 prodname: 'New Look Ryan Maxi Falda  Azul  Blue Pattern 49   38  Talla del Fabricante: 10  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07SDSZGKT/?tag=tolees-21'
+descuento: '42.17'
+titulo: 'New Look Ryan Maxi Falda  Azul  Blue Pat'
 ---
 
 Está [New Look Ryan Maxi Falda  Azul  Blue Pattern 49   38  Talla del Fabricante: 10  para Mujer](https://www.amazon.es/dp/B07SDSZGKT/?tag=tolees-21) con 42.17 de descuento por 13 EUR (original: 22.48 EUR) en el siguiente enlace!

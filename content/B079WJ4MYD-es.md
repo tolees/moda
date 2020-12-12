@@ -3,6 +3,7 @@ layout: post
 title: 'Pepe Jeans Candy PL401524 Chaqueta  Azul al 48.69 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OOl0hlNxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41OOl0hlNxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41OOl0hlNxL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 95 EUR
 inStock: true
 prodname: 'Pepe Jeans Candy PL401524 Chaqueta  Azul  Dulwich 594   Large para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079WJ4MYD/?tag=tolees-21'
+descuento: '48.69'
+titulo: 'Pepe Jeans Candy PL401524 Chaqueta  Azul'
 ---
 
 Ahora mismo tienes [Pepe Jeans Candy PL401524 Chaqueta  Azul  Dulwich 594   Large para Mujer](https://www.amazon.es/dp/B079WJ4MYD/?tag=tolees-21) a 48.74 EUR (original: 95 EUR) (48.69 %  de descuento) en el siguiente enlace!

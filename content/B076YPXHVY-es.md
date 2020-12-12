@@ -3,6 +3,7 @@ layout: post
 title: 'Levi s Logo  Camiseta para Hombre  Gris  al 61.18 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413F8fB7iFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/413F8fB7iFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413F8fB7iFL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 45 EUR
 inStock: true
 prodname: 'Levi s Logo  Camiseta para Hombre  Gris  Breaker Polo/w Contrast Tipping Htr Body Chinese Red Collar / B30 Medium Grey Heather + Dress Blues Cuff 0002 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076YPXHVY/?tag=tolees-21'
+descuento: '61.18'
+titulo: 'Levi s Logo  Camiseta para Hombre  Gris '
 ---
 
 Está [Levi s Logo  Camiseta para Hombre  Gris  Breaker Polo/w Contrast Tipping Htr Body Chinese Red Collar / B30 Medium Grey Heather + Dress Blues Cuff 0002 ](https://www.amazon.es/dp/B076YPXHVY/?tag=tolees-21) con 61.18 de descuento por 17.47 EUR (original: 45 EUR) en el siguiente enlace!

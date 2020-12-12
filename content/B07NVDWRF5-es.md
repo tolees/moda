@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.01 % en ENKEEO Casco de Esquí Unisex Ajustable  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41aqUF-IDoL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41aqUF-IDoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41aqUF-IDoL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'ENKEEO Casco de Esquí Unisex Ajustable  14 Salidas de Ventilación  Compatible con Gafas de Esquí  Blanco/XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07NVDWRF5/?tag=tolees-21'
+descuento: '30.01'
+titulo: 'ENKEEO Casco de Esquí Unisex Ajustable  '
 ---
 
 Tienes [ENKEEO Casco de Esquí Unisex Ajustable  14 Salidas de Ventilación  Compatible con Gafas de Esquí  Blanco/XL](https://www.amazon.es/dp/B07NVDWRF5/?tag=tolees-21) con un 30.01 % de descuento con precio de oferta de 34.99 EUR (original: 49.99 EUR) en el siguiente enlace!

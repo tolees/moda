@@ -3,6 +3,7 @@ layout: post
 title: 'a40grados Sport & Style Caramelo Basic C al 66.45 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jkmyFhhEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41jkmyFhhEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jkmyFhhEL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 38 EUR
 inStock: true
 prodname: 'a40grados Sport & Style Caramelo Basic Camiseta de Tirantes  Mujer  Blanco  S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01NCM6TMW/?tag=tolees-21'
+descuento: '66.45'
+titulo: 'a40grados Sport & Style Caramelo Basic C'
 ---
 
 Está [a40grados Sport & Style Caramelo Basic Camiseta de Tirantes  Mujer  Blanco  S](https://www.amazon.es/dp/B01NCM6TMW/?tag=tolees-21) con 66.45 de descuento por 12.75 EUR (original: 38 EUR) en el siguiente enlace!

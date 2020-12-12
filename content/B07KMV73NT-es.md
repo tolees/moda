@@ -3,6 +3,7 @@ layout: post
 title: 'Volcom TIMESOFT Heather Zip Sudadera  Ho al 60.76 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YbEltgqzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41YbEltgqzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YbEltgqzL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 75 EUR
 inStock: true
 prodname: 'Volcom TIMESOFT Heather Zip Sudadera  Hombre  Army  M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KMV73NT/?tag=tolees-21'
+descuento: '60.76'
+titulo: 'Volcom TIMESOFT Heather Zip Sudadera  Ho'
 ---
 
 Ahora mismo tienes [Volcom TIMESOFT Heather Zip Sudadera  Hombre  Army  M](https://www.amazon.es/dp/B07KMV73NT/?tag=tolees-21) a 29.43 EUR (original: 75 EUR) (60.76 %  de descuento) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'The North Face Jacket Chaqueta Trevail   al 50.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-KfL9MYiL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41-KfL9MYiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-KfL9MYiL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 230 EUR
 inStock: true
 prodname: 'The North Face Jacket Chaqueta Trevail  Hombre  Negro  TNF Black   M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N694RMH/?tag=tolees-21'
+descuento: '50.00'
+titulo: 'The North Face Jacket Chaqueta Trevail  '
 ---
 
 Ahora mismo tienes [The North Face Jacket Chaqueta Trevail  Hombre  Negro  TNF Black   M](https://www.amazon.es/dp/B01N694RMH/?tag=tolees-21) a 114.99 EUR (original: 230 EUR) (50.00 %  de descuento) en el siguiente enlace!

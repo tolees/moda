@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 53.17 % en Tommy Jeans Hombre Circular  Camiseta Ma'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mw1wxpjWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41mw1wxpjWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mw1wxpjWL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 29 EUR
 inStock: true
 prodname: 'Tommy Jeans Hombre Circular  Camiseta Manga Corta  Azul  Brilliant Blue 423  Medium'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HH23TTT/?tag=tolees-21'
+descuento: '53.17'
+titulo: 'Tommy Jeans Hombre Circular  Camiseta Ma'
 ---
 
 Tienes [Tommy Jeans Hombre Circular  Camiseta Manga Corta  Azul  Brilliant Blue 423  Medium](https://www.amazon.es/dp/B07HH23TTT/?tag=tolees-21) con un 53.17 % de descuento con precio de oferta de 13.58 EUR (original: 29 EUR) en el siguiente enlace!

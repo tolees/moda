@@ -3,6 +3,7 @@ layout: post
 title: 'New Look Muscle Polka 5999685  Camisa Ho al 58.11 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51BNCELUpvL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51BNCELUpvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51BNCELUpvL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 22.87 EUR
 inStock: true
 prodname: 'New Look Muscle Polka 5999685  Camisa Hombre  Negro  Black 1   Small  Talla del Fabricante: 51 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07M9VDNFN/?tag=tolees-21'
+descuento: '58.11'
+titulo: 'New Look Muscle Polka 5999685  Camisa Ho'
 ---
 
 Está [New Look Muscle Polka 5999685  Camisa Hombre  Negro  Black 1   Small  Talla del Fabricante: 51 ](https://www.amazon.es/dp/B07M9VDNFN/?tag=tolees-21) con 58.11 de descuento por 9.58 EUR (original: 22.87 EUR) en el siguiente enlace!

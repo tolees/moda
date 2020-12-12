@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 32.46 % en Tous 995960262  Monedero para Mujer   Ma'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51nHBuYvyoL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51nHBuYvyoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51nHBuYvyoL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 59 EUR
 inStock: true
 prodname: 'Tous 995960262  Monedero para Mujer   Marrón   11x10x2.5 cm  W x H x L '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07NDNF8TM/?tag=tolees-21'
+descuento: '32.46'
+titulo: 'Tous 995960262  Monedero para Mujer   Ma'
 ---
 
 Tienes [Tous 995960262  Monedero para Mujer   Marrón   11x10x2.5 cm  W x H x L ](https://www.amazon.es/dp/B07NDNF8TM/?tag=tolees-21) con un 32.46 % de descuento con precio de oferta de 39.85 EUR (original: 59 EUR) en el siguiente enlace!

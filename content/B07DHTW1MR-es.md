@@ -3,6 +3,7 @@ layout: post
 title: 'DC Shoes Merchant Chaqueta  Hombre  Beig al 61.75 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41JHhb8%2BOaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41JHhb8%2BOaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41JHhb8%2BOaL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 169.99 EUR
 inStock: true
 prodname: 'DC Shoes Merchant Chaqueta  Hombre  Beige  Incense   XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DHTW1MR/?tag=tolees-21'
+descuento: '61.75'
+titulo: 'DC Shoes Merchant Chaqueta  Hombre  Beig'
 ---
 
 Ahora mismo tienes [DC Shoes Merchant Chaqueta  Hombre  Beige  Incense   XL](https://www.amazon.es/dp/B07DHTW1MR/?tag=tolees-21) a 65.02 EUR (original: 169.99 EUR) (61.75 %  de descuento) en el siguiente enlace!

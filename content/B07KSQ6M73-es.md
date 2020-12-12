@@ -3,6 +3,7 @@ layout: post
 title: 'Columbia Peak to Point Pantalón de Sende al 50.06 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31lb5ggMXnL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31lb5ggMXnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31lb5ggMXnL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 79.99 EUR
 inStock: true
 prodname: 'Columbia Peak to Point Pantalón de Senderismo  Poliéster  Mujer  Negro  Talla US: W6/R/  EU W38/R '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KSQ6M73/?tag=tolees-21'
+descuento: '50.06'
+titulo: 'Columbia Peak to Point Pantalón de Sende'
 ---
 
 Ahora mismo tienes [Columbia Peak to Point Pantalón de Senderismo  Poliéster  Mujer  Negro  Talla US: W6/R/  EU W38/R ](https://www.amazon.es/dp/B07KSQ6M73/?tag=tolees-21) a 39.95 EUR (original: 79.99 EUR) (50.06 %  de descuento) en el siguiente enlace!

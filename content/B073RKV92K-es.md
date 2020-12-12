@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 69.61 % en Only Onlriga 3/4 Sleeve Top AOP Wvn Blus'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51FtywseYKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51FtywseYKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51FtywseYKL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 23.99 EUR
 inStock: true
 prodname: 'Only Onlriga 3/4 Sleeve Top AOP Wvn Blusa   Sun-Dried Tomato AOP:Cosy Botanical Comb 3   38 para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073RKV92K/?tag=tolees-21'
+descuento: '69.61'
+titulo: 'Only Onlriga 3/4 Sleeve Top AOP Wvn Blus'
 ---
 
 Tienes [Only Onlriga 3/4 Sleeve Top AOP Wvn Blusa   Sun-Dried Tomato AOP:Cosy Botanical Comb 3   38 para Mujer](https://www.amazon.es/dp/B073RKV92K/?tag=tolees-21) con un 69.61 % de descuento con precio de oferta de 7.29 EUR (original: 23.99 EUR) en el siguiente enlace!

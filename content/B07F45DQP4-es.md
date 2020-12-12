@@ -3,6 +3,7 @@ layout: post
 title: 'JACK & JONES Jcovincents tee SS Crew Nec al 33.56 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41x78WGDVBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41x78WGDVBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41x78WGDVBL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 12.99 EUR
 inStock: true
 prodname: 'JACK & JONES Jcovincents tee SS Crew Neck-Camp Camiseta  Azul  Classic Blue Fit:Reg-JJ Print   Large para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F45DQP4/?tag=tolees-21'
+descuento: '33.56'
+titulo: 'JACK & JONES Jcovincents tee SS Crew Nec'
 ---
 
 Ahora mismo tienes [JACK & JONES Jcovincents tee SS Crew Neck-Camp Camiseta  Azul  Classic Blue Fit:Reg-JJ Print   Large para Hombre](https://www.amazon.es/dp/B07F45DQP4/?tag=tolees-21) a 8.63 EUR (original: 12.99 EUR) (33.56 %  de descuento) en el siguiente enlace!

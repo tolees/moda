@@ -3,6 +3,7 @@ layout: post
 title: 'Tommy Jeans TJM Circle Graphic tee Camis al 31.21 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41o6KC1Z3-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41o6KC1Z3-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41o6KC1Z3-L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 29 EUR
 inStock: true
 prodname: 'Tommy Jeans TJM Circle Graphic tee Camiseta  Gris  Lt Grey Htr 038   XL para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07LBMTTSS/?tag=tolees-21'
+descuento: '31.21'
+titulo: 'Tommy Jeans TJM Circle Graphic tee Camis'
 ---
 
 Está [Tommy Jeans TJM Circle Graphic tee Camiseta  Gris  Lt Grey Htr 038   XL para Hombre](https://www.amazon.es/dp/B07LBMTTSS/?tag=tolees-21) con 31.21 de descuento por 19.95 EUR (original: 29 EUR) en el siguiente enlace!

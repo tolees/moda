@@ -3,6 +3,7 @@ layout: post
 title: 'Cortefiel C7CC Tartan Verde/Rojo TBD Cam al 48.46 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51tkahVsrZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51tkahVsrZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51tkahVsrZL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Cortefiel C7CC Tartan Verde/Rojo TBD Camisa casual  Hombre  Rojo  Red   Tamaño del fabricante:M '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073JGLPX7/?tag=tolees-21'
+descuento: '48.46'
+titulo: 'Cortefiel C7CC Tartan Verde/Rojo TBD Cam'
 ---
 
 Ahora mismo tienes [Cortefiel C7CC Tartan Verde/Rojo TBD Camisa casual  Hombre  Rojo  Red   Tamaño del fabricante:M ](https://www.amazon.es/dp/B073JGLPX7/?tag=tolees-21) a 20.61 EUR (original: 39.99 EUR) (48.46 %  de descuento) en el siguiente enlace!

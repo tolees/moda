@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield 4.2.T.Ap. Biker PU  Chaqueta al 61.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TL9ekCgkL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41TL9ekCgkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TL9ekCgkL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 42.99 EUR
 inStock: true
 prodname: 'Springfield 4.2.T.Ap. Biker PU  Chaqueta para Mujer   Negro 1    Tamaño del Fabricante:38 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DL82MVJ/?tag=tolees-21'
+descuento: '61.01'
+titulo: 'Springfield 4.2.T.Ap. Biker PU  Chaqueta'
 ---
 
 Ahora mismo tienes [Springfield 4.2.T.Ap. Biker PU  Chaqueta para Mujer   Negro 1    Tamaño del Fabricante:38 ](https://www.amazon.es/dp/B07DL82MVJ/?tag=tolees-21) a 16.76 EUR (original: 42.99 EUR) (61.01 %  de descuento) en el siguiente enlace!

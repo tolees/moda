@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 73.83 % en Schiesser Mädchen Anzug Lang  Conjuntos '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41djlFZUkOL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41djlFZUkOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41djlFZUkOL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 42.68 EUR
 inStock: true
 prodname: 'Schiesser Mädchen Anzug Lang  Conjuntos de Pijama para Niñas  Braun  Havanna 305  10 años'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078YH9RTV/?tag=tolees-21'
+descuento: '73.83'
+titulo: 'Schiesser Mädchen Anzug Lang  Conjuntos '
 ---
 
 Tienes [Schiesser Mädchen Anzug Lang  Conjuntos de Pijama para Niñas  Braun  Havanna 305  10 años](https://www.amazon.es/dp/B078YH9RTV/?tag=tolees-21) con un 73.83 % de descuento con precio de oferta de 11.17 EUR (original: 42.68 EUR) en el siguiente enlace!

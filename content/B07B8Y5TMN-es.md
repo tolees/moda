@@ -3,6 +3,7 @@ layout: post
 title: 'Camper Neuman  Zapatos de cordones Oxfor al 53.40 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KhXAoE-pL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41KhXAoE-pL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41KhXAoE-pL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 150 EUR
 inStock: true
 prodname: 'Camper Neuman  Zapatos de cordones Oxford para Hombre  Marrón  Medium Brown 210   42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07B8Y5TMN/?tag=tolees-21'
+descuento: '53.40'
+titulo: 'Camper Neuman  Zapatos de cordones Oxfor'
 ---
 
 Ahora mismo tienes [Camper Neuman  Zapatos de cordones Oxford para Hombre  Marrón  Medium Brown 210   42 EU](https://www.amazon.es/dp/B07B8Y5TMN/?tag=tolees-21) a 69.9 EUR (original: 150 EUR) (53.40 %  de descuento) en el siguiente enlace!

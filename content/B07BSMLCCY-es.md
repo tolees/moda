@@ -3,6 +3,7 @@ layout: post
 title: 'REPLAY Luz  Vaqueros Skinny Mujer  Azul  al 75.10 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gk%2Br58L6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41gk%2Br58L6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gk%2Br58L6L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 119 EUR
 inStock: true
 prodname: 'REPLAY Luz  Vaqueros Skinny Mujer  Azul  Mid Blue Denim 9   W24/L34'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BSMLCCY/?tag=tolees-21'
+descuento: '75.10'
+titulo: 'REPLAY Luz  Vaqueros Skinny Mujer  Azul '
 ---
 
 Está [REPLAY Luz  Vaqueros Skinny Mujer  Azul  Mid Blue Denim 9   W24/L34](https://www.amazon.es/dp/B07BSMLCCY/?tag=tolees-21) con 75.10 de descuento por 29.63 EUR (original: 119 EUR) en el siguiente enlace!

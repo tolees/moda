@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 57.57 % en Cortefiel C6K Estruc Nat-Strch S-Ca Cami'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UZFcBpadL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41UZFcBpadL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UZFcBpadL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'Cortefiel C6K Estruc Nat-Strch S-Ca Camisa de Vestir   Azul Marino 10   Medium  Tamaño del Fabricante:M  para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KYW5QSK/?tag=tolees-21'
+descuento: '57.57'
+titulo: 'Cortefiel C6K Estruc Nat-Strch S-Ca Cami'
 ---
 
 Tienes [Cortefiel C6K Estruc Nat-Strch S-Ca Camisa de Vestir   Azul Marino 10   Medium  Tamaño del Fabricante:M  para Hombre](https://www.amazon.es/dp/B07KYW5QSK/?tag=tolees-21) con un 57.57 % de descuento con precio de oferta de 21.21 EUR (original: 49.99 EUR) en el siguiente enlace!

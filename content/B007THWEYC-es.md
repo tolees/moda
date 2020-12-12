@@ -3,6 +3,7 @@ layout: post
 title: 'Seac RAA Long EVO Camiseta para Snorkeli al 34.38 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41iz90M3SBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41iz90M3SBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41iz90M3SBL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 36.5 EUR
 inStock: true
 prodname: 'Seac RAA Long EVO Camiseta para Snorkeling y Natación con Protección UV  Unisex  Azul Claro  XXL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B007THWEYC/?tag=tolees-21'
+descuento: '34.38'
+titulo: 'Seac RAA Long EVO Camiseta para Snorkeli'
 ---
 
 Está [Seac RAA Long EVO Camiseta para Snorkeling y Natación con Protección UV  Unisex  Azul Claro  XXL](https://www.amazon.es/dp/B007THWEYC/?tag=tolees-21) con 34.38 de descuento por 23.95 EUR (original: 36.5 EUR) en el siguiente enlace!

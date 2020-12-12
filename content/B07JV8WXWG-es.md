@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 84.58 % en Mac Jeans Arne Pipe Vaqueros Straight  M'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31%2BD%2BAlpWoL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31%2BD%2BAlpWoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31%2BD%2BAlpWoL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'Mac Jeans Arne Pipe Vaqueros Straight  Marrón  Havanna 265   W30/L34  Talla del Fabricante: 30/34  para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JV8WXWG/?tag=tolees-21'
+descuento: '84.58'
+titulo: 'Mac Jeans Arne Pipe Vaqueros Straight  M'
 ---
 
 Tienes [Mac Jeans Arne Pipe Vaqueros Straight  Marrón  Havanna 265   W30/L34  Talla del Fabricante: 30/34  para Hombre](https://www.amazon.es/dp/B07JV8WXWG/?tag=tolees-21) con un 84.58 % de descuento con precio de oferta de 15.41 EUR (original: 99.95 EUR) en el siguiente enlace!

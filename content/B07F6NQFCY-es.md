@@ -3,6 +3,7 @@ layout: post
 title: 'Naliha Las Mujeres Blusa De Leopardo Imp al 40.08 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51jNa1B7MnL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51jNa1B7MnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51jNa1B7MnL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 9.98 EUR
 inStock: true
 prodname: 'Naliha Las Mujeres Blusa De Leopardo Impreso T - Shirt Tops Botón Slim Office Blusas Leopard L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F6NQFCY/?tag=tolees-21'
+descuento: '40.08'
+titulo: 'Naliha Las Mujeres Blusa De Leopardo Imp'
 ---
 
 Está [Naliha Las Mujeres Blusa De Leopardo Impreso T - Shirt Tops Botón Slim Office Blusas Leopard L](https://www.amazon.es/dp/B07F6NQFCY/?tag=tolees-21) con 40.08 de descuento por 5.98 EUR (original: 9.98 EUR) en el siguiente enlace!

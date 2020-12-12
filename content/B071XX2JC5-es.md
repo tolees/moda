@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 73.36 % en REYLEO Bolso de Gimnasio de Deporte Acam'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41SbpiwxOrL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41SbpiwxOrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41SbpiwxOrL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'REYLEO Bolso de Gimnasio de Deporte Acampada Excursión Viaje Senderismo - Azul y Naranja RT02'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071XX2JC5/?tag=tolees-21'
+descuento: '73.36'
+titulo: 'REYLEO Bolso de Gimnasio de Deporte Acam'
 ---
 
 Tienes [REYLEO Bolso de Gimnasio de Deporte Acampada Excursión Viaje Senderismo - Azul y Naranja RT02](https://www.amazon.es/dp/B071XX2JC5/?tag=tolees-21) con un 73.36 % de descuento con precio de oferta de 7.99 EUR (original: 29.99 EUR) en el siguiente enlace!

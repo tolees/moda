@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour - Camiseta de Tirantes para al 45.19 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Gwq05RKKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Gwq05RKKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Gwq05RKKL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 26 EUR
 inStock: true
 prodname: 'Under Armour - Camiseta de Tirantes para Mujer con Logotipo de WM  Mujer  1323449-001  Black/White/Metallic Silver  Medium'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077XNWYWL/?tag=tolees-21'
+descuento: '45.19'
+titulo: 'Under Armour - Camiseta de Tirantes para'
 ---
 
 Ahora mismo tienes [Under Armour - Camiseta de Tirantes para Mujer con Logotipo de WM  Mujer  1323449-001  Black/White/Metallic Silver  Medium](https://www.amazon.es/dp/B077XNWYWL/?tag=tolees-21) a 14.25 EUR (original: 26 EUR) (45.19 %  de descuento) en el siguiente enlace!

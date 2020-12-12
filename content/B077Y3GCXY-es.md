@@ -3,6 +3,7 @@ layout: post
 title: 'HIKARO Sudadera con Print Mujer  Verde   al 61.67 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Qijyhzb3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Qijyhzb3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Qijyhzb3L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 26.95 EUR
 inStock: true
 prodname: 'HIKARO Sudadera con Print Mujer  Verde  Khaki   38  Talla del fabricante: Small '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077Y3GCXY/?tag=tolees-21'
+descuento: '61.67'
+titulo: 'HIKARO Sudadera con Print Mujer  Verde  '
 ---
 
 Ahora mismo tienes [HIKARO Sudadera con Print Mujer  Verde  Khaki   38  Talla del fabricante: Small ](https://www.amazon.es/dp/B077Y3GCXY/?tag=tolees-21) a 10.33 EUR (original: 26.95 EUR) (61.67 %  de descuento) en el siguiente enlace!

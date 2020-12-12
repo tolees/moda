@@ -3,6 +3,7 @@ layout: post
 title: 'ESPRIT Collection 128eo1d004 Falda  Azul al 83.74 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41G08hUKy1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41G08hUKy1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41G08hUKy1L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 69.99 EUR
 inStock: true
 prodname: 'ESPRIT Collection 128eo1d004 Falda  Azul  Bright Blue 410   38  Talla del Fabricante: 36  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JQ4NWKH/?tag=tolees-21'
+descuento: '83.74'
+titulo: 'ESPRIT Collection 128eo1d004 Falda  Azul'
 ---
 
 Ahora mismo tienes [ESPRIT Collection 128eo1d004 Falda  Azul  Bright Blue 410   38  Talla del Fabricante: 36  para Mujer](https://www.amazon.es/dp/B07JQ4NWKH/?tag=tolees-21) a 11.38 EUR (original: 69.99 EUR) (83.74 %  de descuento) en el siguiente enlace!

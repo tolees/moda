@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 58.85 % en Spiderman 5973 Camiseta  Negro Noir  6 a'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DjweqhU9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41DjweqhU9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DjweqhU9L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 13.95 EUR
 inStock: true
 prodname: 'Spiderman 5973 Camiseta  Negro Noir  6 años para Niños'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FDMBKC2/?tag=tolees-21'
+descuento: '58.85'
+titulo: 'Spiderman 5973 Camiseta  Negro Noir  6 a'
 ---
 
 Tienes [Spiderman 5973 Camiseta  Negro Noir  6 años para Niños](https://www.amazon.es/dp/B07FDMBKC2/?tag=tolees-21) con un 58.85 % de descuento con precio de oferta de 5.74 EUR (original: 13.95 EUR) en el siguiente enlace!

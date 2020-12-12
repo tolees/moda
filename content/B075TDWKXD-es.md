@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 64.21 % en Trucco - Camiseta para mujer  color negr'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31t4tp6WWfL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31t4tp6WWfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31t4tp6WWfL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 29.95 EUR
 inStock: true
 prodname: 'Trucco - Camiseta para mujer  color negro  talla L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075TDWKXD/?tag=tolees-21'
+descuento: '64.21'
+titulo: 'Trucco - Camiseta para mujer  color negr'
 ---
 
 Tienes [Trucco - Camiseta para mujer  color negro  talla L](https://www.amazon.es/dp/B075TDWKXD/?tag=tolees-21) con un 64.21 % de descuento con precio de oferta de 10.72 EUR (original: 29.95 EUR) en el siguiente enlace!

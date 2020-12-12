@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour Fly by Short - Pantalón Cor al 70.77 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31pc23P-hlL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31pc23P-hlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31pc23P-hlL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 26 EUR
 inStock: true
 prodname: 'Under Armour Fly by Short - Pantalón Corto para Mujer  Mujer  1297125-906  Peach Horizon/White/Reflective  X-Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0785FPDB8/?tag=tolees-21'
+descuento: '70.77'
+titulo: 'Under Armour Fly by Short - Pantalón Cor'
 ---
 
 Está [Under Armour Fly by Short - Pantalón Corto para Mujer  Mujer  1297125-906  Peach Horizon/White/Reflective  X-Large](https://www.amazon.es/dp/B0785FPDB8/?tag=tolees-21) con 70.77 de descuento por 7.6 EUR (original: 26 EUR) en el siguiente enlace!

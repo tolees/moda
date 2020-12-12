@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 56.97 % en Hackett London Denim  Vaqueros Slim para'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-3uwm90QL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41-3uwm90QL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-3uwm90QL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 140 EUR
 inStock: true
 prodname: 'Hackett London Denim  Vaqueros Slim para Hombre  Gris  Grey 945  33W / 34L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B074C7BT6J/?tag=tolees-21'
+descuento: '56.97'
+titulo: 'Hackett London Denim  Vaqueros Slim para'
 ---
 
 Tienes [Hackett London Denim  Vaqueros Slim para Hombre  Gris  Grey 945  33W / 34L](https://www.amazon.es/dp/B074C7BT6J/?tag=tolees-21) con un 56.97 % de descuento con precio de oferta de 60.24 EUR (original: 140 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'FIND Sudadera con Capucha y Detalle Bord al 70.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZpJG0E-2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZpJG0E-2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZpJG0E-2L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 30 EUR
 inStock: true
 prodname: 'FIND Sudadera con Capucha y Detalle Bordado para Hombre  Verde  Dusty Olive   Medium'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B074FW6PF3/?tag=tolees-21'
+descuento: '70.00'
+titulo: 'FIND Sudadera con Capucha y Detalle Bord'
 ---
 
 Ahora mismo tienes [FIND Sudadera con Capucha y Detalle Bordado para Hombre  Verde  Dusty Olive   Medium](https://www.amazon.es/dp/B074FW6PF3/?tag=tolees-21) a 9 EUR (original: 30 EUR) (70.00 %  de descuento) en el siguiente enlace!

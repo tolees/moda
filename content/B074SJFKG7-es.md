@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 52.38 % en oodji Ultra Mujer Vestido de Silueta Aju'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416Fzh-Yg%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/416Fzh-Yg%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416Fzh-Yg%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 10.5 EUR
 inStock: true
 prodname: 'oodji Ultra Mujer Vestido de Silueta Ajustada con Escote Barco  Azul  ES 36 / XS'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B074SJFKG7/?tag=tolees-21'
+descuento: '52.38'
+titulo: 'oodji Ultra Mujer Vestido de Silueta Aju'
 ---
 
 Tienes [oodji Ultra Mujer Vestido de Silueta Ajustada con Escote Barco  Azul  ES 36 / XS](https://www.amazon.es/dp/B074SJFKG7/?tag=tolees-21) con un 52.38 % de descuento con precio de oferta de 5 EUR (original: 10.5 EUR) en el siguiente enlace!

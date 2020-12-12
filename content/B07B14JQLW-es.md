@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 67.51 % en find. Falda Plisada Mujer  Multicolor  M'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uukVP%2BsOL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41uukVP%2BsOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41uukVP%2BsOL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 39 EUR
 inStock: true
 prodname: 'find. Falda Plisada Mujer  Multicolor  Multicoloured   Small'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07B14JQLW/?tag=tolees-21'
+descuento: '67.51'
+titulo: 'find. Falda Plisada Mujer  Multicolor  M'
 ---
 
 Tienes [find. Falda Plisada Mujer  Multicolor  Multicoloured   Small](https://www.amazon.es/dp/B07B14JQLW/?tag=tolees-21) con un 67.51 % de descuento con precio de oferta de 12.67 EUR (original: 39 EUR) en el siguiente enlace!

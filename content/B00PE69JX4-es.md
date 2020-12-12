@@ -3,6 +3,7 @@ layout: post
 title: 'Meltin Pot Markus  Vaqueros para Hombre  al 64.15 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DDktpfp1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41DDktpfp1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DDktpfp1L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 85 EUR
 inStock: true
 prodname: 'Meltin Pot Markus  Vaqueros para Hombre  Blau  Bs15   W30/L34'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00PE69JX4/?tag=tolees-21'
+descuento: '64.15'
+titulo: 'Meltin Pot Markus  Vaqueros para Hombre '
 ---
 
 Está [Meltin Pot Markus  Vaqueros para Hombre  Blau  Bs15   W30/L34](https://www.amazon.es/dp/B00PE69JX4/?tag=tolees-21) con 64.15 de descuento por 30.47 EUR (original: 85 EUR) en el siguiente enlace!

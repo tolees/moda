@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 63.69 % en Levi s Kids Skinny Fit N92223B - Vaquero'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HTOZvZPzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41HTOZvZPzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HTOZvZPzL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 54.95 EUR
 inStock: true
 prodname: 'Levi s Kids Skinny Fit N92223B - Vaqueros para niños  Azul  INDIGO 46   12 años  152 cm '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00HJ5G22O/?tag=tolees-21'
+descuento: '63.69'
+titulo: 'Levi s Kids Skinny Fit N92223B - Vaquero'
 ---
 
 Tienes [Levi s Kids Skinny Fit N92223B - Vaqueros para niños  Azul  INDIGO 46   12 años  152 cm ](https://www.amazon.es/dp/B00HJ5G22O/?tag=tolees-21) con un 63.69 % de descuento con precio de oferta de 19.95 EUR (original: 54.95 EUR) en el siguiente enlace!

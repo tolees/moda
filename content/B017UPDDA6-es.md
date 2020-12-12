@@ -3,6 +3,7 @@ layout: post
 title: 'Tranemo 3525 – 28 – 07-c64 tamaño C64 "T al 89.40 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4168-3kaC6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4168-3kaC6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4168-3kaC6L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 79.18 EUR
 inStock: true
 prodname: 'Tranemo 3525 – 28 – 07-c64 tamaño C64 "T-more" work wear pantalones vaqueros – Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B017UPDDA6/?tag=tolees-21'
+descuento: '89.40'
+titulo: 'Tranemo 3525 – 28 – 07-c64 tamaño C64 "T'
 ---
 
 Ahora mismo tienes [Tranemo 3525 – 28 – 07-c64 tamaño C64 "T-more" work wear pantalones vaqueros – Negro](https://www.amazon.es/dp/B017UPDDA6/?tag=tolees-21) a 8.39 EUR (original: 79.18 EUR) (89.40 %  de descuento) en el siguiente enlace!

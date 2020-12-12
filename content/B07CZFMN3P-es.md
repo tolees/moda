@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour Unstoppable Move SS T Camis al 49.40 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31XiGOOy56L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31XiGOOy56L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31XiGOOy56L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 35 EUR
 inStock: true
 prodname: 'Under Armour Unstoppable Move SS T Camiseta  Hombre  Blanco  Summit White/Black 110   XXL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CZFMN3P/?tag=tolees-21'
+descuento: '49.40'
+titulo: 'Under Armour Unstoppable Move SS T Camis'
 ---
 
 Está [Under Armour Unstoppable Move SS T Camiseta  Hombre  Blanco  Summit White/Black 110   XXL](https://www.amazon.es/dp/B07CZFMN3P/?tag=tolees-21) con 49.40 de descuento por 17.71 EUR (original: 35 EUR) en el siguiente enlace!

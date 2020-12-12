@@ -3,6 +3,7 @@ layout: post
 title: 'erima Classic 5 Cubos Pantalón Corto  Un al 50.25 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cZB9TYZiL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41cZB9TYZiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41cZB9TYZiL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 25.99 EUR
 inStock: true
 prodname: 'erima Classic 5 Cubos Pantalón Corto  Unisex niños  New Royal/Blanco  XS'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00BBSX2ZU/?tag=tolees-21'
+descuento: '50.25'
+titulo: 'erima Classic 5 Cubos Pantalón Corto  Un'
 ---
 
 Ahora mismo tienes [erima Classic 5 Cubos Pantalón Corto  Unisex niños  New Royal/Blanco  XS](https://www.amazon.es/dp/B00BBSX2ZU/?tag=tolees-21) a 12.93 EUR (original: 25.99 EUR) (50.25 %  de descuento) en el siguiente enlace!

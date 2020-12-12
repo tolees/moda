@@ -3,6 +3,7 @@ layout: post
 title: 'G-STAR RAW Revend Straight  Vaqueros par al 41.08 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41IHjLA8rCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41IHjLA8rCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41IHjLA8rCL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 119.95 EUR
 inStock: true
 prodname: 'G-STAR RAW Revend Straight  Vaqueros para Hombre  Azul  Medium Aged   W30/L32'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01BGTKB0C/?tag=tolees-21'
+descuento: '41.08'
+titulo: 'G-STAR RAW Revend Straight  Vaqueros par'
 ---
 
 Está [G-STAR RAW Revend Straight  Vaqueros para Hombre  Azul  Medium Aged   W30/L32](https://www.amazon.es/dp/B01BGTKB0C/?tag=tolees-21) con 41.08 de descuento por 70.68 EUR (original: 119.95 EUR) en el siguiente enlace!

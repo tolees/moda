@@ -3,6 +3,7 @@ layout: post
 title: 'Vero Moda Vmsally S/s Top Box D2-3 Camis al 63.58 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/513lo37H26L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/513lo37H26L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/513lo37H26L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 14.99 EUR
 inStock: true
 prodname: 'Vero Moda Vmsally S/s Top Box D2-3 Camiseta  Blanco  Snow White   36  Talla del Fabricante: Small  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MXXCB40/?tag=tolees-21'
+descuento: '63.58'
+titulo: 'Vero Moda Vmsally S/s Top Box D2-3 Camis'
 ---
 
 Ahora mismo tienes [Vero Moda Vmsally S/s Top Box D2-3 Camiseta  Blanco  Snow White   36  Talla del Fabricante: Small  para Mujer](https://www.amazon.es/dp/B01MXXCB40/?tag=tolees-21) a 5.46 EUR (original: 14.99 EUR) (63.58 %  de descuento) en el siguiente enlace!

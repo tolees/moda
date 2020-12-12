@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 65.10 % en Volcom Lidward Parka Chaqueta  Hombre  B'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41P8HAwgtcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41P8HAwgtcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41P8HAwgtcL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 200 EUR
 inStock: true
 prodname: 'Volcom Lidward Parka Chaqueta  Hombre  Beige  Khaki   S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077JBG94T/?tag=tolees-21'
+descuento: '65.10'
+titulo: 'Volcom Lidward Parka Chaqueta  Hombre  B'
 ---
 
 Tienes [Volcom Lidward Parka Chaqueta  Hombre  Beige  Khaki   S](https://www.amazon.es/dp/B077JBG94T/?tag=tolees-21) con un 65.10 % de descuento con precio de oferta de 69.8 EUR (original: 200 EUR) en el siguiente enlace!

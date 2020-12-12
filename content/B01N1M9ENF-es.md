@@ -3,6 +3,7 @@ layout: post
 title: 'Mujeres Moda Pendientes Collar Circonita al 72.59 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CFrgN4wtL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41CFrgN4wtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CFrgN4wtL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 68.88 EUR
 inStock: true
 prodname: 'Mujeres Moda Pendientes Collar Circonita Cúbica Talla Redonda Stud Cuelgan aretes Collar Sistema de la Joyería'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N1M9ENF/?tag=tolees-21'
+descuento: '72.59'
+titulo: 'Mujeres Moda Pendientes Collar Circonita'
 ---
 
 Ahora mismo tienes [Mujeres Moda Pendientes Collar Circonita Cúbica Talla Redonda Stud Cuelgan aretes Collar Sistema de la Joyería](https://www.amazon.es/dp/B01N1M9ENF/?tag=tolees-21) a 18.88 EUR (original: 68.88 EUR) (72.59 %  de descuento) en el siguiente enlace!

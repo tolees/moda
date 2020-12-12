@@ -3,6 +3,7 @@ layout: post
 title: 'Esprit 118ee1k025  Camisa Manga Larga pa al 56.29 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Aet%2BWBgsL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Aet%2BWBgsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Aet%2BWBgsL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 15.99 EUR
 inStock: true
 prodname: 'Esprit 118ee1k025  Camisa Manga Larga para Mujer  Azul  Navy 400  Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HFMSC6B/?tag=tolees-21'
+descuento: '56.29'
+titulo: 'Esprit 118ee1k025  Camisa Manga Larga pa'
 ---
 
 Está [Esprit 118ee1k025  Camisa Manga Larga para Mujer  Azul  Navy 400  Large](https://www.amazon.es/dp/B07HFMSC6B/?tag=tolees-21) con 56.29 de descuento por 6.99 EUR (original: 15.99 EUR) en el siguiente enlace!

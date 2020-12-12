@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 25.01 % en GORE BIKE WEAR Guantes de Hombre  Ciclis'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XbtpuYiAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41XbtpuYiAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XbtpuYiAL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 45.95 EUR
 inStock: true
 prodname: 'GORE BIKE WEAR Guantes de Hombre  Ciclismo en carretera  Dedos cortos  Transpirable  GORE Selected Fabrics  OXYGEN Gloves  Talla 9  Negro  GOXYGE990007'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B003QMZSHE/?tag=tolees-21'
+descuento: '25.01'
+titulo: 'GORE BIKE WEAR Guantes de Hombre  Ciclis'
 ---
 
 Tienes [GORE BIKE WEAR Guantes de Hombre  Ciclismo en carretera  Dedos cortos  Transpirable  GORE Selected Fabrics  OXYGEN Gloves  Talla 9  Negro  GOXYGE990007](https://www.amazon.es/dp/B003QMZSHE/?tag=tolees-21) con un 25.01 % de descuento con precio de oferta de 34.46 EUR (original: 45.95 EUR) en el siguiente enlace!

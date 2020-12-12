@@ -3,6 +3,7 @@ layout: post
 title: 'BOSS Trunk One Design Bóxer   Open Misce al 43.80 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ZlnATqmLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51ZlnATqmLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ZlnATqmLL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 44.95 EUR
 inStock: true
 prodname: 'BOSS Trunk One Design Bóxer   Open Miscellaneous 972   XX-Large  Pack de 3 para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CZX1SVN/?tag=tolees-21'
+descuento: '43.80'
+titulo: 'BOSS Trunk One Design Bóxer   Open Misce'
 ---
 
 Ahora mismo tienes [BOSS Trunk One Design Bóxer   Open Miscellaneous 972   XX-Large  Pack de 3 para Hombre](https://www.amazon.es/dp/B07CZX1SVN/?tag=tolees-21) a 25.26 EUR (original: 44.95 EUR) (43.80 %  de descuento) en el siguiente enlace!

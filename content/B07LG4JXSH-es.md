@@ -3,6 +3,7 @@ layout: post
 title: 'X-TIGER Hombres Ropa Interior de Bicicle al 46.74 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mlt%2Bn6f%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41mlt%2Bn6f%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mlt%2Bn6f%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 23.45 EUR
 inStock: true
 prodname: 'X-TIGER Hombres Ropa Interior de Bicicleta con 5D Gel Acolchado MTB Boxer Ciclismo Pantalones Cortos  XXL Negro '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07LG4JXSH/?tag=tolees-21'
+descuento: '46.74'
+titulo: 'X-TIGER Hombres Ropa Interior de Bicicle'
 ---
 
 Ahora mismo tienes [X-TIGER Hombres Ropa Interior de Bicicleta con 5D Gel Acolchado MTB Boxer Ciclismo Pantalones Cortos  XXL Negro ](https://www.amazon.es/dp/B07LG4JXSH/?tag=tolees-21) a 12.49 EUR (original: 23.45 EUR) (46.74 %  de descuento) en el siguiente enlace!

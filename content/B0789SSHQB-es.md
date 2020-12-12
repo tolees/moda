@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 45.39 % en Nike Air Versitile III  Zapatos de Balon'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31cOlt80qPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31cOlt80qPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31cOlt80qPL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 74.99 EUR
 inStock: true
 prodname: 'Nike Air Versitile III  Zapatos de Baloncesto Unisex Adulto  Negro Black/Anthracite 002  45 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0789SSHQB/?tag=tolees-21'
+descuento: '45.39'
+titulo: 'Nike Air Versitile III  Zapatos de Balon'
 ---
 
 Tienes [Nike Air Versitile III  Zapatos de Baloncesto Unisex Adulto  Negro Black/Anthracite 002  45 EU](https://www.amazon.es/dp/B0789SSHQB/?tag=tolees-21) con un 45.39 % de descuento con precio de oferta de 40.95 EUR (original: 74.99 EUR) en el siguiente enlace!

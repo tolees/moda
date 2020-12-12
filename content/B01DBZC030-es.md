@@ -3,6 +3,7 @@ layout: post
 title: 'Izas Rud Camisa  Hombre  Arena  XL al 47.84 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31KDPoVcQDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31KDPoVcQDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31KDPoVcQDL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 41.95 EUR
 inStock: true
 prodname: 'Izas Rud Camisa  Hombre  Arena  XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01DBZC030/?tag=tolees-21'
+descuento: '47.84'
+titulo: 'Izas Rud Camisa  Hombre  Arena  XL'
 ---
 
 Está [Izas Rud Camisa  Hombre  Arena  XL](https://www.amazon.es/dp/B01DBZC030/?tag=tolees-21) con 47.84 de descuento por 21.88 EUR (original: 41.95 EUR) en el siguiente enlace!

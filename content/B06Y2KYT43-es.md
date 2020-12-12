@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 70.76 % en Geox Jr Sofia H  Botas para Niñas  Negro'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BE08Rd87L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BE08Rd87L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2BE08Rd87L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 75 EUR
 inStock: true
 prodname: 'Geox Jr Sofia H  Botas para Niñas  Negro  Black   40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06Y2KYT43/?tag=tolees-21'
+descuento: '70.76'
+titulo: 'Geox Jr Sofia H  Botas para Niñas  Negro'
 ---
 
 Tienes [Geox Jr Sofia H  Botas para Niñas  Negro  Black   40 EU](https://www.amazon.es/dp/B06Y2KYT43/?tag=tolees-21) con un 70.76 % de descuento con precio de oferta de 21.93 EUR (original: 75 EUR) en el siguiente enlace!

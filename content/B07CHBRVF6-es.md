@@ -3,6 +3,7 @@ layout: post
 title: 'AX BOXING Zapatillas Hombres Deporte Run al 50.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Nt7qQC6KL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Nt7qQC6KL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Nt7qQC6KL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'AX BOXING Zapatillas Hombres Deporte Running Sneakers Zapatos para Correr Gimnasio Deportivas Padel Transpirables Casual 40-46  43 EU  A8178-Azul '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CHBRVF6/?tag=tolees-21'
+descuento: '50.01'
+titulo: 'AX BOXING Zapatillas Hombres Deporte Run'
 ---
 
 Está [AX BOXING Zapatillas Hombres Deporte Running Sneakers Zapatos para Correr Gimnasio Deportivas Padel Transpirables Casual 40-46  43 EU  A8178-Azul ](https://www.amazon.es/dp/B07CHBRVF6/?tag=tolees-21) con 50.01 de descuento por 19.99 EUR (original: 39.99 EUR) en el siguiente enlace!

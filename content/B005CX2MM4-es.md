@@ -3,6 +3,7 @@ layout: post
 title: 'Urban Classics Chaleco Negro/Verde XS al 69.50 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TsafNxpPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41TsafNxpPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TsafNxpPL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 49.9 EUR
 inStock: true
 prodname: 'Urban Classics Chaleco Negro/Verde XS'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B005CX2MM4/?tag=tolees-21'
+descuento: '69.50'
+titulo: 'Urban Classics Chaleco Negro/Verde XS'
 ---
 
 Ahora mismo tienes [Urban Classics Chaleco Negro/Verde XS](https://www.amazon.es/dp/B005CX2MM4/?tag=tolees-21) a 15.22 EUR (original: 49.9 EUR) (69.50 %  de descuento) en el siguiente enlace!

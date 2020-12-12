@@ -3,6 +3,7 @@ layout: post
 title: 'Vila Clothes Vimaddie Bomber Jacket-Noos al 72.10 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Y6wyY5F4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Y6wyY5F4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Y6wyY5F4L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 41.19 EUR
 inStock: true
 prodname: 'Vila Clothes Vimaddie Bomber Jacket-Noos  Chaqueta para Mujer  Rosa  Rose Dust  X-Small'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MRSX6IU/?tag=tolees-21'
+descuento: '72.10'
+titulo: 'Vila Clothes Vimaddie Bomber Jacket-Noos'
 ---
 
 Está [Vila Clothes Vimaddie Bomber Jacket-Noos  Chaqueta para Mujer  Rosa  Rose Dust  X-Small](https://www.amazon.es/dp/B01MRSX6IU/?tag=tolees-21) con 72.10 de descuento por 11.49 EUR (original: 41.19 EUR) en el siguiente enlace!

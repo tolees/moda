@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.32 % en HUGO Men Evory  Camisa Hombre  Blanco  O'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jIMLNrd1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41jIMLNrd1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jIMLNrd1L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 99 EUR
 inStock: true
 prodname: 'HUGO Men Evory  Camisa Hombre  Blanco  Open White 199   X-Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077Z52VQF/?tag=tolees-21'
+descuento: '50.32'
+titulo: 'HUGO Men Evory  Camisa Hombre  Blanco  O'
 ---
 
 Tienes [HUGO Men Evory  Camisa Hombre  Blanco  Open White 199   X-Large](https://www.amazon.es/dp/B077Z52VQF/?tag=tolees-21) con un 50.32 % de descuento con precio de oferta de 49.18 EUR (original: 99 EUR) en el siguiente enlace!

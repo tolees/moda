@@ -3,6 +3,7 @@ layout: post
 title: 'Disney Mickey 4809 Pijama  Blanc  5 años al 47.52 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31WW3QV-I%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31WW3QV-I%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31WW3QV-I%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 17.95 EUR
 inStock: true
 prodname: 'Disney Mickey 4809 Pijama  Blanc  5 años para Niños'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FDFWD6G/?tag=tolees-21'
+descuento: '47.52'
+titulo: 'Disney Mickey 4809 Pijama  Blanc  5 años'
 ---
 
 Está [Disney Mickey 4809 Pijama  Blanc  5 años para Niños](https://www.amazon.es/dp/B07FDFWD6G/?tag=tolees-21) con 47.52 de descuento por 9.42 EUR (original: 17.95 EUR) en el siguiente enlace!

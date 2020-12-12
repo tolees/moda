@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 75.38 % en Pepe Jeans Amadea Sudadera    Deep Sea 5'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pp0J04uIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41pp0J04uIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41pp0J04uIL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 55 EUR
 inStock: true
 prodname: 'Pepe Jeans Amadea Sudadera    Deep Sea 597   4 años para Niñas'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CRD8W9F/?tag=tolees-21'
+descuento: '75.38'
+titulo: 'Pepe Jeans Amadea Sudadera    Deep Sea 5'
 ---
 
 Tienes [Pepe Jeans Amadea Sudadera    Deep Sea 597   4 años para Niñas](https://www.amazon.es/dp/B07CRD8W9F/?tag=tolees-21) con un 75.38 % de descuento con precio de oferta de 13.54 EUR (original: 55 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Lee Daren  Vaqueros Straight para Hombre al 55.03 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RceXY4OfL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41RceXY4OfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RceXY4OfL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'Lee Daren  Vaqueros Straight para Hombre  Azul  Banshee Worn Dxag  W34/L30'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076N1QWBT/?tag=tolees-21'
+descuento: '55.03'
+titulo: 'Lee Daren  Vaqueros Straight para Hombre'
 ---
 
 Ahora mismo tienes [Lee Daren  Vaqueros Straight para Hombre  Azul  Banshee Worn Dxag  W34/L30](https://www.amazon.es/dp/B076N1QWBT/?tag=tolees-21) a 44.95 EUR (original: 99.95 EUR) (55.03 %  de descuento) en el siguiente enlace!

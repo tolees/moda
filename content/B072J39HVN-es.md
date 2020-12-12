@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 70.03 % en Under Armour Storm Woven FZ Chaqueta  Mu'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LTqh4F5dL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41LTqh4F5dL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LTqh4F5dL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 80 EUR
 inStock: true
 prodname: 'Under Armour Storm Woven FZ Chaqueta  Mujer  Verde  716   Extra-Small'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072J39HVN/?tag=tolees-21'
+descuento: '70.03'
+titulo: 'Under Armour Storm Woven FZ Chaqueta  Mu'
 ---
 
 Tienes [Under Armour Storm Woven FZ Chaqueta  Mujer  Verde  716   Extra-Small](https://www.amazon.es/dp/B072J39HVN/?tag=tolees-21) con un 70.03 % de descuento con precio de oferta de 23.98 EUR (original: 80 EUR) en el siguiente enlace!

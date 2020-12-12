@@ -3,6 +3,7 @@ layout: post
 title: 'Clarks Dinah Keer  Zapatos de Tacón para al 68.53 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ApgG2TqtL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51ApgG2TqtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ApgG2TqtL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'Clarks Dinah Keer  Zapatos de Tacón para Mujer  Beige  Pewter Metallic   41.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XC37BBP/?tag=tolees-21'
+descuento: '68.53'
+titulo: 'Clarks Dinah Keer  Zapatos de Tacón para'
 ---
 
 Está [Clarks Dinah Keer  Zapatos de Tacón para Mujer  Beige  Pewter Metallic   41.5 EU](https://www.amazon.es/dp/B06XC37BBP/?tag=tolees-21) con 68.53 de descuento por 31.45 EUR (original: 99.95 EUR) en el siguiente enlace!

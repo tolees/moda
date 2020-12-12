@@ -3,6 +3,7 @@ layout: post
 title: 'Disney Pijama Manga Corta Dumbo para Muj al 25.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416HnkThAjL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/416HnkThAjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416HnkThAjL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 31 EUR
 inStock: true
 prodname: 'Disney Pijama Manga Corta Dumbo para Mujer  Color Azul  Talla XS'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07NWRB7MJ/?tag=tolees-21'
+descuento: '25.00'
+titulo: 'Disney Pijama Manga Corta Dumbo para Muj'
 ---
 
 Ahora mismo tienes [Disney Pijama Manga Corta Dumbo para Mujer  Color Azul  Talla XS](https://www.amazon.es/dp/B07NWRB7MJ/?tag=tolees-21) a 23.25 EUR (original: 31 EUR) (25.00 %  de descuento) en el siguiente enlace!

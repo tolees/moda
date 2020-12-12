@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 63.10 % en adidas Pro Adversary Low 2019  Zapatos d'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41L-EMTVqjL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41L-EMTVqjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41L-EMTVqjL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 74.95 EUR
 inStock: true
 prodname: 'adidas Pro Adversary Low 2019  Zapatos de Baloncesto para Hombre  Negro Core Black/Grey Four F17/Ftwr White  44 2/3 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JZ53KTS/?tag=tolees-21'
+descuento: '63.10'
+titulo: 'adidas Pro Adversary Low 2019  Zapatos d'
 ---
 
 Tienes [adidas Pro Adversary Low 2019  Zapatos de Baloncesto para Hombre  Negro Core Black/Grey Four F17/Ftwr White  44 2/3 EU](https://www.amazon.es/dp/B07JZ53KTS/?tag=tolees-21) con un 63.10 % de descuento con precio de oferta de 27.66 EUR (original: 74.95 EUR) en el siguiente enlace!

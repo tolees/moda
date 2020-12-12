@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 66.44 % en G-STAR RAW Revend Skinny  Vaqueros Skinn'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41sh5A7HQPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41sh5A7HQPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41sh5A7HQPL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'G-STAR RAW Revend Skinny  Vaqueros Skinny Hombre  Negro  Rinsed 082   W27/L32'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BJHZTX8/?tag=tolees-21'
+descuento: '66.44'
+titulo: 'G-STAR RAW Revend Skinny  Vaqueros Skinn'
 ---
 
 Tienes [G-STAR RAW Revend Skinny  Vaqueros Skinny Hombre  Negro  Rinsed 082   W27/L32](https://www.amazon.es/dp/B07BJHZTX8/?tag=tolees-21) con un 66.44 % de descuento con precio de oferta de 33.54 EUR (original: 99.95 EUR) en el siguiente enlace!

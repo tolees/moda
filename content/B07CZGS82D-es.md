@@ -3,6 +3,7 @@ layout: post
 title: 'Asics Upcourt 3 Gs Zapatos de Squash Uni al 58.24 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41y4cSC%2BgwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41y4cSC%2BgwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41y4cSC%2BgwL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 59.75 EUR
 inStock: true
 prodname: 'Asics Upcourt 3 Gs Zapatos de Squash Unisex Niños  Rosa  Diva Pink/Carbon 700   40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CZGS82D/?tag=tolees-21'
+descuento: '58.24'
+titulo: 'Asics Upcourt 3 Gs Zapatos de Squash Uni'
 ---
 
 Ahora mismo tienes [Asics Upcourt 3 Gs Zapatos de Squash Unisex Niños  Rosa  Diva Pink/Carbon 700   40 EU](https://www.amazon.es/dp/B07CZGS82D/?tag=tolees-21) a 24.95 EUR (original: 59.75 EUR) (58.24 %  de descuento) en el siguiente enlace!

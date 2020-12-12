@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield 2Ba Basic Polo  Sudadera par al 32.32 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/318DhW1%2BgDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/318DhW1%2BgDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/318DhW1%2BgDL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'Springfield 2Ba Basic Polo  Sudadera para Hombre   Gama Azules 15   Large  Tamaño del Fabricante:L '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DLFVKXC/?tag=tolees-21'
+descuento: '32.32'
+titulo: 'Springfield 2Ba Basic Polo  Sudadera par'
 ---
 
 Está [Springfield 2Ba Basic Polo  Sudadera para Hombre   Gama Azules 15   Large  Tamaño del Fabricante:L ](https://www.amazon.es/dp/B07DLFVKXC/?tag=tolees-21) con 32.32 de descuento por 13.53 EUR (original: 19.99 EUR) en el siguiente enlace!

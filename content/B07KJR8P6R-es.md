@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 83.19 % en REPLAY Luz Vaqueros Skinny  Azul  Dark B'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YJFexernL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41YJFexernL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YJFexernL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 159 EUR
 inStock: true
 prodname: 'REPLAY Luz Vaqueros Skinny  Azul  Dark Blue 7   W32/L28  Talla del Fabricante: 32  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KJR8P6R/?tag=tolees-21'
+descuento: '83.19'
+titulo: 'REPLAY Luz Vaqueros Skinny  Azul  Dark B'
 ---
 
 Tienes [REPLAY Luz Vaqueros Skinny  Azul  Dark Blue 7   W32/L28  Talla del Fabricante: 32  para Mujer](https://www.amazon.es/dp/B07KJR8P6R/?tag=tolees-21) con un 83.19 % de descuento con precio de oferta de 26.73 EUR (original: 159 EUR) en el siguiente enlace!

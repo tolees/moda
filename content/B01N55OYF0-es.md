@@ -3,6 +3,7 @@ layout: post
 title: 'Geox Jr Sandal Kraze D  Sandalias Punta  al 49.39 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51pfynbxW0L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51pfynbxW0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51pfynbxW0L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'Geox Jr Sandal Kraze D  Sandalias Punta Cerrada para Niños  Azul  Navy/avioc0700   33 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N55OYF0/?tag=tolees-21'
+descuento: '49.39'
+titulo: 'Geox Jr Sandal Kraze D  Sandalias Punta '
 ---
 
 Ahora mismo tienes [Geox Jr Sandal Kraze D  Sandalias Punta Cerrada para Niños  Azul  Navy/avioc0700   33 EU](https://www.amazon.es/dp/B01N55OYF0/?tag=tolees-21) a 35.4 EUR (original: 69.95 EUR) (49.39 %  de descuento) en el siguiente enlace!

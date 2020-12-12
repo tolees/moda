@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 62.62 % en Gant The Rough Weather Slicker  Chaqueta'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4190sQQ1ApL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4190sQQ1ApL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4190sQQ1ApL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 599.99 EUR
 inStock: true
 prodname: 'Gant The Rough Weather Slicker  Chaqueta Hombre  Azul  Navy   Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078SWFJWZ/?tag=tolees-21'
+descuento: '62.62'
+titulo: 'Gant The Rough Weather Slicker  Chaqueta'
 ---
 
 Tienes [Gant The Rough Weather Slicker  Chaqueta Hombre  Azul  Navy   Large](https://www.amazon.es/dp/B078SWFJWZ/?tag=tolees-21) con un 62.62 % de descuento con precio de oferta de 224.29 EUR (original: 599.99 EUR) en el siguiente enlace!

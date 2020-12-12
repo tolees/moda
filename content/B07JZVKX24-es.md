@@ -3,6 +3,7 @@ layout: post
 title: 'JACK & JONES Jormetallica tee LS Crew Ne al 53.23 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410NMyw6F6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/410NMyw6F6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410NMyw6F6L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 27.99 EUR
 inStock: true
 prodname: 'JACK & JONES Jormetallica tee LS Crew Neck  Camisa Manga Larga para Hombre  Blanco  White Reg Box Fit   Medium'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JZVKX24/?tag=tolees-21'
+descuento: '53.23'
+titulo: 'JACK & JONES Jormetallica tee LS Crew Ne'
 ---
 
 Está [JACK & JONES Jormetallica tee LS Crew Neck  Camisa Manga Larga para Hombre  Blanco  White Reg Box Fit   Medium](https://www.amazon.es/dp/B07JZVKX24/?tag=tolees-21) con 53.23 de descuento por 13.09 EUR (original: 27.99 EUR) en el siguiente enlace!

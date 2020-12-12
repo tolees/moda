@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield 6.T.Ap.Abrigo Ligero Abrigo  al 68.31 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31e3NDHdaCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31e3NDHdaCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31e3NDHdaCL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'Springfield 6.T.Ap.Abrigo Ligero Abrigo  Mujer  Azul  Azul Marino 10   40  Tamaño del Fabricante:40 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DLLLC9G/?tag=tolees-21'
+descuento: '68.31'
+titulo: 'Springfield 6.T.Ap.Abrigo Ligero Abrigo '
 ---
 
 Está [Springfield 6.T.Ap.Abrigo Ligero Abrigo  Mujer  Azul  Azul Marino 10   40  Tamaño del Fabricante:40 ](https://www.amazon.es/dp/B07DLLLC9G/?tag=tolees-21) con 68.31 de descuento por 15.84 EUR (original: 49.99 EUR) en el siguiente enlace!

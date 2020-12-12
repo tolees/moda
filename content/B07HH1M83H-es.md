@@ -3,6 +3,7 @@ layout: post
 title: 'Tommy Jeans Hombre Essential Split Box   al 39.83 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41v8aozPeFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41v8aozPeFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41v8aozPeFL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 29 EUR
 inStock: true
 prodname: 'Tommy Jeans Hombre Essential Split Box  Camiseta Manga Corta  Blanco  Classic White 100  Medium'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HH1M83H/?tag=tolees-21'
+descuento: '39.83'
+titulo: 'Tommy Jeans Hombre Essential Split Box  '
 ---
 
 Está [Tommy Jeans Hombre Essential Split Box  Camiseta Manga Corta  Blanco  Classic White 100  Medium](https://www.amazon.es/dp/B07HH1M83H/?tag=tolees-21) con 39.83 de descuento por 17.45 EUR (original: 29 EUR) en el siguiente enlace!

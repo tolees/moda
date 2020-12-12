@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield Sudadera Cuello Camionero  R al 71.37 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41p5gl21J-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41p5gl21J-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41p5gl21J-L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 25.99 EUR
 inStock: true
 prodname: 'Springfield Sudadera Cuello Camionero  Rojo  Red   Medium  Tamaño del Fabricante:M  para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07573CWGD/?tag=tolees-21'
+descuento: '71.37'
+titulo: 'Springfield Sudadera Cuello Camionero  R'
 ---
 
 Está [Springfield Sudadera Cuello Camionero  Rojo  Red   Medium  Tamaño del Fabricante:M  para Hombre](https://www.amazon.es/dp/B07573CWGD/?tag=tolees-21) con 71.37 de descuento por 7.44 EUR (original: 25.99 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Lee Boxed Logo tee  Camiseta para Mujer  al 71.29 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DnRG1eYiL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41DnRG1eYiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DnRG1eYiL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 29.95 EUR
 inStock: true
 prodname: 'Lee Boxed Logo tee  Camiseta para Mujer  Blanco  White 12  X-Small'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FK19XGX/?tag=tolees-21'
+descuento: '71.29'
+titulo: 'Lee Boxed Logo tee  Camiseta para Mujer '
 ---
 
 Ahora mismo tienes [Lee Boxed Logo tee  Camiseta para Mujer  Blanco  White 12  X-Small](https://www.amazon.es/dp/B07FK19XGX/?tag=tolees-21) a 8.6 EUR (original: 29.95 EUR) (71.29 %  de descuento) en el siguiente enlace!

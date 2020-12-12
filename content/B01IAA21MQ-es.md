@@ -3,6 +3,7 @@ layout: post
 title: 'Volcom Thrills Zehentrenner  Chanclas pa al 63.59 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Uz1Ug884L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31Uz1Ug884L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Uz1Ug884L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 38.31 EUR
 inStock: true
 prodname: 'Volcom Thrills Zehentrenner  Chanclas para Mujer   Gold   38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01IAA21MQ/?tag=tolees-21'
+descuento: '63.59'
+titulo: 'Volcom Thrills Zehentrenner  Chanclas pa'
 ---
 
 Está [Volcom Thrills Zehentrenner  Chanclas para Mujer   Gold   38 EU](https://www.amazon.es/dp/B01IAA21MQ/?tag=tolees-21) con 63.59 de descuento por 13.95 EUR (original: 38.31 EUR) en el siguiente enlace!

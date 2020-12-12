@@ -3,6 +3,7 @@ layout: post
 title: 'ONLY 15118626  Chaqueta Punto Para Mujer al 70.47 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41t2-CxPdyL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41t2-CxPdyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41t2-CxPdyL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 34.95 EUR
 inStock: true
 prodname: 'ONLY 15118626  Chaqueta Punto Para Mujer  Amarillo  Harvest Gold Harvest Gold   Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01IBPLXWO/?tag=tolees-21'
+descuento: '70.47'
+titulo: 'ONLY 15118626  Chaqueta Punto Para Mujer'
 ---
 
 Está [ONLY 15118626  Chaqueta Punto Para Mujer  Amarillo  Harvest Gold Harvest Gold   Large](https://www.amazon.es/dp/B01IBPLXWO/?tag=tolees-21) con 70.47 de descuento por 10.32 EUR (original: 34.95 EUR) en el siguiente enlace!

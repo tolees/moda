@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield UA Gingham Melange Camisa Ca al 47.13 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zm5l-wtaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41zm5l-wtaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zm5l-wtaL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 25.99 EUR
 inStock: true
 prodname: 'Springfield UA Gingham Melange Camisa Casual   Gama Azules 12   Small  Tamaño del Fabricante:S  para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DLJXF4T/?tag=tolees-21'
+descuento: '47.13'
+titulo: 'Springfield UA Gingham Melange Camisa Ca'
 ---
 
 Ahora mismo tienes [Springfield UA Gingham Melange Camisa Casual   Gama Azules 12   Small  Tamaño del Fabricante:S  para Hombre](https://www.amazon.es/dp/B07DLJXF4T/?tag=tolees-21) a 13.74 EUR (original: 25.99 EUR) (47.13 %  de descuento) en el siguiente enlace!

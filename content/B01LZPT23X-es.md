@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 48.87 % en Ho soccer 0505533 Pantalón de Portero Co'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41IkLNqGJeL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41IkLNqGJeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41IkLNqGJeL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 51.5 EUR
 inStock: true
 prodname: 'Ho soccer 0505533 Pantalón de Portero Corto  Hombre  Negro  L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01LZPT23X/?tag=tolees-21'
+descuento: '48.87'
+titulo: 'Ho soccer 0505533 Pantalón de Portero Co'
 ---
 
 Tienes [Ho soccer 0505533 Pantalón de Portero Corto  Hombre  Negro  L](https://www.amazon.es/dp/B01LZPT23X/?tag=tolees-21) con un 48.87 % de descuento con precio de oferta de 26.33 EUR (original: 51.5 EUR) en el siguiente enlace!

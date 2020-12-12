@@ -3,6 +3,7 @@ layout: post
 title: 'JACK & JONES Jcosneak Light Jacket Chaqu al 33.23 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lY8ZmpPDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41lY8ZmpPDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41lY8ZmpPDL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'JACK & JONES Jcosneak Light Jacket Chaqueta Sky Captain  Large para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07NBX1YBG/?tag=tolees-21'
+descuento: '33.23'
+titulo: 'JACK & JONES Jcosneak Light Jacket Chaqu'
 ---
 
 Ahora mismo tienes [JACK & JONES Jcosneak Light Jacket Chaqueta Sky Captain  Large para Hombre](https://www.amazon.es/dp/B07NBX1YBG/?tag=tolees-21) a 33.38 EUR (original: 49.99 EUR) (33.23 %  de descuento) en el siguiente enlace!

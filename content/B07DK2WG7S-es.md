@@ -3,6 +3,7 @@ layout: post
 title: 'Geox Jr Plie  D  Bailarinas para Niñas   al 50.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31aEeNtKtHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31aEeNtKtHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31aEeNtKtHL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 45 EUR
 inStock: true
 prodname: 'Geox Jr Plie  D  Bailarinas para Niñas  Navy C4002  30 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DK2WG7S/?tag=tolees-21'
+descuento: '50.00'
+titulo: 'Geox Jr Plie  D  Bailarinas para Niñas  '
 ---
 
 Está [Geox Jr Plie  D  Bailarinas para Niñas  Navy C4002  30 EU](https://www.amazon.es/dp/B07DK2WG7S/?tag=tolees-21) con 50.00 de descuento por 22.5 EUR (original: 45 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Carrera 5029NS 9A RFE Gafas de sol  Marr al 35.75 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BOLCte9sL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41BOLCte9sL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BOLCte9sL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 109 EUR
 inStock: true
 prodname: 'Carrera 5029NS 9A RFE Gafas de sol  Marrón  Light Havana/Blue   49 Unisex-Adulto'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01BGR4RI6/?tag=tolees-21'
+descuento: '35.75'
+titulo: 'Carrera 5029NS 9A RFE Gafas de sol  Marr'
 ---
 
 Ahora mismo tienes [Carrera 5029NS 9A RFE Gafas de sol  Marrón  Light Havana/Blue   49 Unisex-Adulto](https://www.amazon.es/dp/B01BGR4RI6/?tag=tolees-21) a 70.03 EUR (original: 109 EUR) (35.75 %  de descuento) en el siguiente enlace!

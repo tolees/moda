@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 62.58 % en HIKARO Sudadera con Cuello Alto Mujer  A'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41COO1sjk1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41COO1sjk1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41COO1sjk1L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 32.95 EUR
 inStock: true
 prodname: 'HIKARO Sudadera con Cuello Alto Mujer  Azul  Aqua   46  Talla del fabricante: XX-Large '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077Y6VVN1/?tag=tolees-21'
+descuento: '62.58'
+titulo: 'HIKARO Sudadera con Cuello Alto Mujer  A'
 ---
 
 Tienes [HIKARO Sudadera con Cuello Alto Mujer  Azul  Aqua   46  Talla del fabricante: XX-Large ](https://www.amazon.es/dp/B077Y6VVN1/?tag=tolees-21) con un 62.58 % de descuento con precio de oferta de 12.33 EUR (original: 32.95 EUR) en el siguiente enlace!

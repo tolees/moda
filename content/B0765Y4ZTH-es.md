@@ -3,6 +3,7 @@ layout: post
 title: 'JACK & JONES Jjiclark Jjoriginal Jos 317 al 43.63 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417nO2ySuWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/417nO2ySuWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417nO2ySuWL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 69.99 EUR
 inStock: true
 prodname: 'JACK & JONES Jjiclark Jjoriginal Jos 317 Noos Vaqueros Straight  Azul  Blue Denim   W38/L34 para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0765Y4ZTH/?tag=tolees-21'
+descuento: '43.63'
+titulo: 'JACK & JONES Jjiclark Jjoriginal Jos 317'
 ---
 
 Está [JACK & JONES Jjiclark Jjoriginal Jos 317 Noos Vaqueros Straight  Azul  Blue Denim   W38/L34 para Hombre](https://www.amazon.es/dp/B0765Y4ZTH/?tag=tolees-21) con 43.63 de descuento por 39.45 EUR (original: 69.99 EUR) en el siguiente enlace!

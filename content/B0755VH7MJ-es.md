@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 29.91 % en Skechers Rumbler Wave-New Lassie  Sandal'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XmeMqtULL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41XmeMqtULL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XmeMqtULL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 39.95 EUR
 inStock: true
 prodname: 'Skechers Rumbler Wave-New Lassie  Sandalias de Punta Descubierta para Mujer  Rosa  Rose Gold   38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0755VH7MJ/?tag=tolees-21'
+descuento: '29.91'
+titulo: 'Skechers Rumbler Wave-New Lassie  Sandal'
 ---
 
 Tienes [Skechers Rumbler Wave-New Lassie  Sandalias de Punta Descubierta para Mujer  Rosa  Rose Gold   38 EU](https://www.amazon.es/dp/B0755VH7MJ/?tag=tolees-21) con un 29.91 % de descuento con precio de oferta de 28 EUR (original: 39.95 EUR) en el siguiente enlace!

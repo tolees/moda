@@ -3,6 +3,7 @@ layout: post
 title: 'Timberland Boltero  Zapatos de Cordones  al 67.84 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-NPyKr%2BNL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41-NPyKr%2BNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-NPyKr%2BNL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 100 EUR
 inStock: true
 prodname: 'Timberland Boltero  Zapatos de Cordones Oxford para Mujer  Negro  Black Front 001   37 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078SZ1YFJ/?tag=tolees-21'
+descuento: '67.84'
+titulo: 'Timberland Boltero  Zapatos de Cordones '
 ---
 
 Está [Timberland Boltero  Zapatos de Cordones Oxford para Mujer  Negro  Black Front 001   37 EU](https://www.amazon.es/dp/B078SZ1YFJ/?tag=tolees-21) con 67.84 de descuento por 32.16 EUR (original: 100 EUR) en el siguiente enlace!

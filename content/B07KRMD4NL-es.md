@@ -3,6 +3,7 @@ layout: post
 title: 'Columbia Mujer Camiseta  ZERO RULES SHOR al 46.18 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OWfozxg4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41OWfozxg4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41OWfozxg4L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 34.99 EUR
 inStock: true
 prodname: 'Columbia Mujer Camiseta  ZERO RULES SHORT SLEEVE SHIRT  Poliéster  Rojo  Coral Bloom Heather   Talla: M  1533571'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KRMD4NL/?tag=tolees-21'
+descuento: '46.18'
+titulo: 'Columbia Mujer Camiseta  ZERO RULES SHOR'
 ---
 
 Ahora mismo tienes [Columbia Mujer Camiseta  ZERO RULES SHORT SLEEVE SHIRT  Poliéster  Rojo  Coral Bloom Heather   Talla: M  1533571](https://www.amazon.es/dp/B07KRMD4NL/?tag=tolees-21) a 18.83 EUR (original: 34.99 EUR) (46.18 %  de descuento) en el siguiente enlace!

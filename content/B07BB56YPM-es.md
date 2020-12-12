@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.02 % en Iris & Lilly Sujetador de Triángulo con '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31rMIJ4trOL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31rMIJ4trOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31rMIJ4trOL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 14.99 EUR
 inStock: true
 prodname: 'Iris & Lilly Sujetador de Triángulo con Encaje Mujer  Pack de 2  Negro  Black Beauty   L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BB56YPM/?tag=tolees-21'
+descuento: '30.02'
+titulo: 'Iris & Lilly Sujetador de Triángulo con '
 ---
 
 Tienes [Iris & Lilly Sujetador de Triángulo con Encaje Mujer  Pack de 2  Negro  Black Beauty   L](https://www.amazon.es/dp/B07BB56YPM/?tag=tolees-21) con un 30.02 % de descuento con precio de oferta de 10.49 EUR (original: 14.99 EUR) en el siguiente enlace!

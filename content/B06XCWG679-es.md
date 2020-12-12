@@ -3,6 +3,7 @@ layout: post
 title: 'Cortefiel 1957341  Pantalón para Hombre  al 63.93 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-6CKBjPEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41-6CKBjPEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-6CKBjPEL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'Cortefiel 1957341  Pantalón para Hombre  Beige  ES 46'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XCWG679/?tag=tolees-21'
+descuento: '63.93'
+titulo: 'Cortefiel 1957341  Pantalón para Hombre '
 ---
 
 Está [Cortefiel 1957341  Pantalón para Hombre  Beige  ES 46](https://www.amazon.es/dp/B06XCWG679/?tag=tolees-21) con 63.93 de descuento por 18.03 EUR (original: 49.99 EUR) en el siguiente enlace!

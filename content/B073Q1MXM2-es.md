@@ -3,6 +3,7 @@ layout: post
 title: 'Only Onlleonora Long Leo Parka Otw  Negr al 84.19 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rSHZrWL6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41rSHZrWL6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rSHZrWL6L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 99.99 EUR
 inStock: true
 prodname: 'Only Onlleonora Long Leo Parka Otw  Negro Black  36  Talla del Fabricante: Small  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073Q1MXM2/?tag=tolees-21'
+descuento: '84.19'
+titulo: 'Only Onlleonora Long Leo Parka Otw  Negr'
 ---
 
 Está [Only Onlleonora Long Leo Parka Otw  Negro Black  36  Talla del Fabricante: Small  para Mujer](https://www.amazon.es/dp/B073Q1MXM2/?tag=tolees-21) con 84.19 de descuento por 15.81 EUR (original: 99.99 EUR) en el siguiente enlace!

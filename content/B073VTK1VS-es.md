@@ -3,6 +3,7 @@ layout: post
 title: 'find. Vestido Mini Estilo Sudadera para  al 54.30 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dXWodKMQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41dXWodKMQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dXWodKMQL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 30 EUR
 inStock: true
 prodname: 'find. Vestido Mini Estilo Sudadera para Mujer  Gris  44'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073VTK1VS/?tag=tolees-21'
+descuento: '54.30'
+titulo: 'find. Vestido Mini Estilo Sudadera para '
 ---
 
 Ahora mismo tienes [find. Vestido Mini Estilo Sudadera para Mujer  Gris  44](https://www.amazon.es/dp/B073VTK1VS/?tag=tolees-21) a 13.71 EUR (original: 30 EUR) (54.30 %  de descuento) en el siguiente enlace!

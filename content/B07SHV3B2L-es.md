@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 46.33 % en HuaMore Chanclas Mujer Piscina  Resbalón'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Ujb5I3bbL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31Ujb5I3bbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Ujb5I3bbL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 2.59 EUR
 inStock: true
 prodname: 'HuaMore Chanclas Mujer Piscina  Resbalón de Verano Comodos Bohemio Chanclas TacóN Alto Tirón Playa'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07SHV3B2L/?tag=tolees-21'
+descuento: '46.33'
+titulo: 'HuaMore Chanclas Mujer Piscina  Resbalón'
 ---
 
 Tienes [HuaMore Chanclas Mujer Piscina  Resbalón de Verano Comodos Bohemio Chanclas TacóN Alto Tirón Playa](https://www.amazon.es/dp/B07SHV3B2L/?tag=tolees-21) con un 46.33 % de descuento con precio de oferta de 1.39 EUR (original: 2.59 EUR) en el siguiente enlace!

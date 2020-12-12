@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield 490 Raya Kodak Gg12 Jersey   al 75.34 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vi3Rkaf3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41vi3Rkaf3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vi3Rkaf3L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 25.99 EUR
 inStock: true
 prodname: 'Springfield 490 Raya Kodak Gg12 Jersey   Gama Azules 15   Small  Tamaño del Fabricante:S  para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KZ1JRWT/?tag=tolees-21'
+descuento: '75.34'
+titulo: 'Springfield 490 Raya Kodak Gg12 Jersey  '
 ---
 
 Ahora mismo tienes [Springfield 490 Raya Kodak Gg12 Jersey   Gama Azules 15   Small  Tamaño del Fabricante:S  para Hombre](https://www.amazon.es/dp/B07KZ1JRWT/?tag=tolees-21) a 6.41 EUR (original: 25.99 EUR) (75.34 %  de descuento) en el siguiente enlace!

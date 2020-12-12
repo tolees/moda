@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 49.56 % en Only Onllina Nylon Parka Jacket Otw  Muj'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XJLSHjwJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41XJLSHjwJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XJLSHjwJL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Only Onllina Nylon Parka Jacket Otw  Mujer  Negro Black  42  Talla del Fabricante: Large '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0783RMN6B/?tag=tolees-21'
+descuento: '49.56'
+titulo: 'Only Onllina Nylon Parka Jacket Otw  Muj'
 ---
 
 Tienes [Only Onllina Nylon Parka Jacket Otw  Mujer  Negro Black  42  Talla del Fabricante: Large ](https://www.amazon.es/dp/B0783RMN6B/?tag=tolees-21) con un 49.56 % de descuento con precio de oferta de 20.17 EUR (original: 39.99 EUR) en el siguiente enlace!

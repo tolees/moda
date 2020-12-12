@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour Woven Graphic Wordmark Shor al 60.03 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41e7IX%2Bu4%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41e7IX%2Bu4%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41e7IX%2Bu4%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 30 EUR
 inStock: true
 prodname: 'Under Armour Woven Graphic Wordmark Short Pantalón Corto  Hombre  Gris  Zinc Gray/Black 513   S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0725QTHDW/?tag=tolees-21'
+descuento: '60.03'
+titulo: 'Under Armour Woven Graphic Wordmark Shor'
 ---
 
 Ahora mismo tienes [Under Armour Woven Graphic Wordmark Short Pantalón Corto  Hombre  Gris  Zinc Gray/Black 513   S](https://www.amazon.es/dp/B0725QTHDW/?tag=tolees-21) a 11.99 EUR (original: 30 EUR) (60.03 %  de descuento) en el siguiente enlace!

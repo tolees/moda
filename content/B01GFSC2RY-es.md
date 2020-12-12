@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 39.81 % en Diadora B.Elite  Sandalias con Plataform'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41az6mtNeZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41az6mtNeZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41az6mtNeZL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 80 EUR
 inStock: true
 prodname: 'Diadora B.Elite  Sandalias con Plataforma Unisex Adulto  Bianco  Bianco/Blu Profondo/Blu Profon   45.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01GFSC2RY/?tag=tolees-21'
+descuento: '39.81'
+titulo: 'Diadora B.Elite  Sandalias con Plataform'
 ---
 
 Tienes [Diadora B.Elite  Sandalias con Plataforma Unisex Adulto  Bianco  Bianco/Blu Profondo/Blu Profon   45.5 EU](https://www.amazon.es/dp/B01GFSC2RY/?tag=tolees-21) con un 39.81 % de descuento con precio de oferta de 48.15 EUR (original: 80 EUR) en el siguiente enlace!

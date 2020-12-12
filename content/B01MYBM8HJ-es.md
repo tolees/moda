@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 75.94 % en edc by Esprit 037cc1k014  Camisa Manga L'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yHnL0BV1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41yHnL0BV1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yHnL0BV1L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 29.55 EUR
 inStock: true
 prodname: 'edc by Esprit 037cc1k014  Camisa Manga Larga Mujer  Azul  Dark Blue   36  Talla del Fabricante: Small '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MYBM8HJ/?tag=tolees-21'
+descuento: '75.94'
+titulo: 'edc by Esprit 037cc1k014  Camisa Manga L'
 ---
 
 Tienes [edc by Esprit 037cc1k014  Camisa Manga Larga Mujer  Azul  Dark Blue   36  Talla del Fabricante: Small ](https://www.amazon.es/dp/B01MYBM8HJ/?tag=tolees-21) con un 75.94 % de descuento con precio de oferta de 7.11 EUR (original: 29.55 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.10 % en adidas Core 18 T Camiseta  Hombre  Blanc'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zKkJnoZUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41zKkJnoZUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zKkJnoZUL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 19.95 EUR
 inStock: true
 prodname: 'adidas Core 18 T Camiseta  Hombre  Blanco  White/Black   XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076HQZ7B1/?tag=tolees-21'
+descuento: '40.10'
+titulo: 'adidas Core 18 T Camiseta  Hombre  Blanc'
 ---
 
 Tienes [adidas Core 18 T Camiseta  Hombre  Blanco  White/Black   XL](https://www.amazon.es/dp/B076HQZ7B1/?tag=tolees-21) con un 40.10 % de descuento con precio de oferta de 11.95 EUR (original: 19.95 EUR) en el siguiente enlace!

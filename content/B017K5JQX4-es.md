@@ -3,6 +3,7 @@ layout: post
 title: 'Elisa Menuts Vestido Rosa/Beige 12 Meses al 67.34 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51SGbayXMjL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51SGbayXMjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51SGbayXMjL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 48.25 EUR
 inStock: true
 prodname: 'Elisa Menuts Vestido Rosa/Beige 12 Meses  80 cm '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B017K5JQX4/?tag=tolees-21'
+descuento: '67.34'
+titulo: 'Elisa Menuts Vestido Rosa/Beige 12 Meses'
 ---
 
 Ahora mismo tienes [Elisa Menuts Vestido Rosa/Beige 12 Meses  80 cm ](https://www.amazon.es/dp/B017K5JQX4/?tag=tolees-21) a 15.76 EUR (original: 48.25 EUR) (67.34 %  de descuento) en el siguiente enlace!

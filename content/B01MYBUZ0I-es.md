@@ -3,6 +3,7 @@ layout: post
 title: 'Polaroid PLD 6025/S LB VK6 99 Gafas de S al 72.21 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31YMAI4vecL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31YMAI4vecL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31YMAI4vecL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 66 EUR
 inStock: true
 prodname: 'Polaroid PLD 6025/S LB VK6 99 Gafas de Sol  Blanco  White/Green SF Pz   Unisex-Adulto'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MYBUZ0I/?tag=tolees-21'
+descuento: '72.21'
+titulo: 'Polaroid PLD 6025/S LB VK6 99 Gafas de S'
 ---
 
 Está [Polaroid PLD 6025/S LB VK6 99 Gafas de Sol  Blanco  White/Green SF Pz   Unisex-Adulto](https://www.amazon.es/dp/B01MYBUZ0I/?tag=tolees-21) con 72.21 de descuento por 18.34 EUR (original: 66 EUR) en el siguiente enlace!

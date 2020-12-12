@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 43.36 % en Superdry Vntge Logo Star AOP Entry Hood '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51k61uPTGfL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51k61uPTGfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51k61uPTGfL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 85 EUR
 inStock: true
 prodname: 'Superdry Vntge Logo Star AOP Entry Hood  Sudadera para Mujer  Azul  Rinse Navy Rugged Xv6  Large  Talla del Fabricante: 14.0 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FL5KWZN/?tag=tolees-21'
+descuento: '43.36'
+titulo: 'Superdry Vntge Logo Star AOP Entry Hood '
 ---
 
 Tienes [Superdry Vntge Logo Star AOP Entry Hood  Sudadera para Mujer  Azul  Rinse Navy Rugged Xv6  Large  Talla del Fabricante: 14.0 ](https://www.amazon.es/dp/B07FL5KWZN/?tag=tolees-21) con un 43.36 % de descuento con precio de oferta de 48.14 EUR (original: 85 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Reef Smoothy - Chanclas para hombre  Neg al 30.19 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31VlbW7ycOL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31VlbW7ycOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31VlbW7ycOL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 26 EUR
 inStock: true
 prodname: 'Reef Smoothy - Chanclas para hombre  Negro  45 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B001Q3KIKW/?tag=tolees-21'
+descuento: '30.19'
+titulo: 'Reef Smoothy - Chanclas para hombre  Neg'
 ---
 
 Está [Reef Smoothy - Chanclas para hombre  Negro  45 EU](https://www.amazon.es/dp/B001Q3KIKW/?tag=tolees-21) con 30.19 de descuento por 18.15 EUR (original: 26 EUR) en el siguiente enlace!

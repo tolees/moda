@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour - Pantalón Corto para niña  al 70.85 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51lBNQnhqAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51lBNQnhqAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51lBNQnhqAL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 26 EUR
 inStock: true
 prodname: 'Under Armour - Pantalón Corto para niña  niña  1291712-501  Purple/Green Malachite/Typhoon  Junior L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0781XWNRG/?tag=tolees-21'
+descuento: '70.85'
+titulo: 'Under Armour - Pantalón Corto para niña '
 ---
 
 Está [Under Armour - Pantalón Corto para niña  niña  1291712-501  Purple/Green Malachite/Typhoon  Junior L](https://www.amazon.es/dp/B0781XWNRG/?tag=tolees-21) con 70.85 de descuento por 7.58 EUR (original: 26 EUR) en el siguiente enlace!

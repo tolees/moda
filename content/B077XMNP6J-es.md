@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour UA Pantalón Corto  Hombre   al 58.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412SxWAbpGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/412SxWAbpGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412SxWAbpGL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 28 EUR
 inStock: true
 prodname: 'Under Armour UA Pantalón Corto  Hombre  Ropa Deportiva con Logotipo  Ligera y Transpirable  Steel/Black  035   XXL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077XMNP6J/?tag=tolees-21'
+descuento: '58.00'
+titulo: 'Under Armour UA Pantalón Corto  Hombre  '
 ---
 
 Ahora mismo tienes [Under Armour UA Pantalón Corto  Hombre  Ropa Deportiva con Logotipo  Ligera y Transpirable  Steel/Black  035   XXL](https://www.amazon.es/dp/B077XMNP6J/?tag=tolees-21) a 11.76 EUR (original: 28 EUR) (58.00 %  de descuento) en el siguiente enlace!

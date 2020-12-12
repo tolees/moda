@@ -3,6 +3,7 @@ layout: post
 title: 'Black Crevice Chaqueta Azul ES 52 al 53.96 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51n0JFXXCrL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51n0JFXXCrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51n0JFXXCrL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 79.99 EUR
 inStock: true
 prodname: 'Black Crevice Chaqueta Azul ES 52'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01GED921E/?tag=tolees-21'
+descuento: '53.96'
+titulo: 'Black Crevice Chaqueta Azul ES 52'
 ---
 
 Está [Black Crevice Chaqueta Azul ES 52](https://www.amazon.es/dp/B01GED921E/?tag=tolees-21) con 53.96 de descuento por 36.83 EUR (original: 79.99 EUR) en el siguiente enlace!

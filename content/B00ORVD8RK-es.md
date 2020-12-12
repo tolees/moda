@@ -3,6 +3,7 @@ layout: post
 title: 'Joma Street - Pantalón para Mujer  Color al 48.10 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31cqvUdLEXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31cqvUdLEXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31cqvUdLEXL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 24.95 EUR
 inStock: true
 prodname: 'Joma Street - Pantalón para Mujer  Color Azul Marino  Talla S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00ORVD8RK/?tag=tolees-21'
+descuento: '48.10'
+titulo: 'Joma Street - Pantalón para Mujer  Color'
 ---
 
 Ahora mismo tienes [Joma Street - Pantalón para Mujer  Color Azul Marino  Talla S](https://www.amazon.es/dp/B00ORVD8RK/?tag=tolees-21) a 12.95 EUR (original: 24.95 EUR) (48.10 %  de descuento) en el siguiente enlace!

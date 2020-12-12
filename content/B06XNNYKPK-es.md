@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.01 % en Desigual Vest_olaya  Vestido Bebé-para N'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51q-okvxC5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51q-okvxC5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51q-okvxC5L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 36.95 EUR
 inStock: true
 prodname: 'Desigual Vest_olaya  Vestido Bebé-para Niñas  Rosa  Fucsia 3002  68  Talla del Fabricante: 12 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XNNYKPK/?tag=tolees-21'
+descuento: '50.01'
+titulo: 'Desigual Vest_olaya  Vestido Bebé-para N'
 ---
 
 Tienes [Desigual Vest_olaya  Vestido Bebé-para Niñas  Rosa  Fucsia 3002  68  Talla del Fabricante: 12 ](https://www.amazon.es/dp/B06XNNYKPK/?tag=tolees-21) con un 50.01 % de descuento con precio de oferta de 18.47 EUR (original: 36.95 EUR) en el siguiente enlace!

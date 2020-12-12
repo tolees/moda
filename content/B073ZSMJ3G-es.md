@@ -3,6 +3,7 @@ layout: post
 title: 'Gant The Oxford Shirt Reg BD Camisa  Roj al 57.74 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41t2pV8s87L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41t2pV8s87L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41t2pV8s87L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 89.99 EUR
 inStock: true
 prodname: 'Gant The Oxford Shirt Reg BD Camisa  Rojo  Light Pink 662   XXX-Large para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073ZSMJ3G/?tag=tolees-21'
+descuento: '57.74'
+titulo: 'Gant The Oxford Shirt Reg BD Camisa  Roj'
 ---
 
 Está [Gant The Oxford Shirt Reg BD Camisa  Rojo  Light Pink 662   XXX-Large para Hombre](https://www.amazon.es/dp/B073ZSMJ3G/?tag=tolees-21) con 57.74 de descuento por 38.03 EUR (original: 89.99 EUR) en el siguiente enlace!

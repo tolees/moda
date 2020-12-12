@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 84.79 % en REPLAY Luz Coin Zip Vaqueros Skinny  Azu'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31oEBQ0fXoL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31oEBQ0fXoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31oEBQ0fXoL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 139 EUR
 inStock: true
 prodname: 'REPLAY Luz Coin Zip Vaqueros Skinny  Azul  Light Blue 10   W23/L32  Talla del Fabricante: 23  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KJT8JLR/?tag=tolees-21'
+descuento: '84.79'
+titulo: 'REPLAY Luz Coin Zip Vaqueros Skinny  Azu'
 ---
 
 Tienes [REPLAY Luz Coin Zip Vaqueros Skinny  Azul  Light Blue 10   W23/L32  Talla del Fabricante: 23  para Mujer](https://www.amazon.es/dp/B07KJT8JLR/?tag=tolees-21) con un 84.79 % de descuento con precio de oferta de 21.14 EUR (original: 139 EUR) en el siguiente enlace!

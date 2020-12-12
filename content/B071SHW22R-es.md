@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 79.08 % en Pepaloves Aina Dress Print/Rust  Vestido'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XdnY0qa6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41XdnY0qa6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XdnY0qa6L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 78 EUR
 inStock: true
 prodname: 'Pepaloves Aina Dress Print/Rust  Vestido Casual para Mujer  Marrón  Print/Rust   40  Tamaño del fabricante:M '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071SHW22R/?tag=tolees-21'
+descuento: '79.08'
+titulo: 'Pepaloves Aina Dress Print/Rust  Vestido'
 ---
 
 Tienes [Pepaloves Aina Dress Print/Rust  Vestido Casual para Mujer  Marrón  Print/Rust   40  Tamaño del fabricante:M ](https://www.amazon.es/dp/B071SHW22R/?tag=tolees-21) con un 79.08 % de descuento con precio de oferta de 16.32 EUR (original: 78 EUR) en el siguiente enlace!

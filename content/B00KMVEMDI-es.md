@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.06 % en Columbia Chaqueta Cortavientos para Homb'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41aK9qg9o5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41aK9qg9o5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41aK9qg9o5L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 99.99 EUR
 inStock: true
 prodname: 'Columbia Chaqueta Cortavientos para Hombre  Cascade Ridge II Softshell  Negro  Black   M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00KMVEMDI/?tag=tolees-21'
+descuento: '40.06'
+titulo: 'Columbia Chaqueta Cortavientos para Homb'
 ---
 
 Tienes [Columbia Chaqueta Cortavientos para Hombre  Cascade Ridge II Softshell  Negro  Black   M](https://www.amazon.es/dp/B00KMVEMDI/?tag=tolees-21) con un 40.06 % de descuento con precio de oferta de 59.93 EUR (original: 99.99 EUR) en el siguiente enlace!

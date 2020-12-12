@@ -3,6 +3,7 @@ layout: post
 title: 'Pepe Jeans Mack Camiseta    Grey Marl 93 al 39.97 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QEir05OML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41QEir05OML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QEir05OML._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 29.9 EUR
 inStock: true
 prodname: 'Pepe Jeans Mack Camiseta    Grey Marl 933   Large para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CRJ84B3/?tag=tolees-21'
+descuento: '39.97'
+titulo: 'Pepe Jeans Mack Camiseta    Grey Marl 93'
 ---
 
 Está [Pepe Jeans Mack Camiseta    Grey Marl 933   Large para Hombre](https://www.amazon.es/dp/B07CRJ84B3/?tag=tolees-21) con 39.97 de descuento por 17.95 EUR (original: 29.9 EUR) en el siguiente enlace!

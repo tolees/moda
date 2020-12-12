@@ -3,6 +3,7 @@ layout: post
 title: 'FIND Jersey con Cuello de Pico para Homb al 47.10 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GbEEnhOFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41GbEEnhOFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GbEEnhOFL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 30 EUR
 inStock: true
 prodname: 'FIND Jersey con Cuello de Pico para Hombre  Naranja  Furnace   Small'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073QQNCS1/?tag=tolees-21'
+descuento: '47.10'
+titulo: 'FIND Jersey con Cuello de Pico para Homb'
 ---
 
 Ahora mismo tienes [FIND Jersey con Cuello de Pico para Hombre  Naranja  Furnace   Small](https://www.amazon.es/dp/B073QQNCS1/?tag=tolees-21) a 15.87 EUR (original: 30 EUR) (47.10 %  de descuento) en el siguiente enlace!

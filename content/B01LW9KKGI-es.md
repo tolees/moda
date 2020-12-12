@@ -3,6 +3,7 @@ layout: post
 title: 'Mick Morrison Vinko  sudadera Hombre  Ne al 69.97 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hLn%2Brf0BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41hLn%2Brf0BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41hLn%2Brf0BL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 15.95 EUR
 inStock: true
 prodname: 'Mick Morrison Vinko  sudadera Hombre  Negro  Schwarz   Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01LW9KKGI/?tag=tolees-21'
+descuento: '69.97'
+titulo: 'Mick Morrison Vinko  sudadera Hombre  Ne'
 ---
 
 Está [Mick Morrison Vinko  sudadera Hombre  Negro  Schwarz   Large](https://www.amazon.es/dp/B01LW9KKGI/?tag=tolees-21) con 69.97 de descuento por 4.79 EUR (original: 15.95 EUR) en el siguiente enlace!

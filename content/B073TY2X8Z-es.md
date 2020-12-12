@@ -3,6 +3,7 @@ layout: post
 title: 'Adidas Duramo Slide  Chanclas Unisex Adu al 57.74 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31X3Y0GoXIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31X3Y0GoXIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31X3Y0GoXIL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 19.95 EUR
 inStock: true
 prodname: 'Adidas Duramo Slide  Chanclas Unisex Adulto  Rojo White/Collegiate Red  54 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073TY2X8Z/?tag=tolees-21'
+descuento: '57.74'
+titulo: 'Adidas Duramo Slide  Chanclas Unisex Adu'
 ---
 
 Ahora mismo tienes [Adidas Duramo Slide  Chanclas Unisex Adulto  Rojo White/Collegiate Red  54 EU](https://www.amazon.es/dp/B073TY2X8Z/?tag=tolees-21) a 8.43 EUR (original: 19.95 EUR) (57.74 %  de descuento) en el siguiente enlace!

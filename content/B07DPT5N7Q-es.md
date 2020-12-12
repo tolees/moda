@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour Kids 191480583463 FC St. Pa al 73.74 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GHVDJb4WL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41GHVDJb4WL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GHVDJb4WL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 65 EUR
 inStock: true
 prodname: 'Under Armour Kids 191480583463 FC St. Pauli - Camiseta réplica para niños  Color Negro  003   tamaño Mediano'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DPT5N7Q/?tag=tolees-21'
+descuento: '73.74'
+titulo: 'Under Armour Kids 191480583463 FC St. Pa'
 ---
 
 Está [Under Armour Kids 191480583463 FC St. Pauli - Camiseta réplica para niños  Color Negro  003   tamaño Mediano](https://www.amazon.es/dp/B07DPT5N7Q/?tag=tolees-21) con 73.74 de descuento por 17.07 EUR (original: 65 EUR) en el siguiente enlace!

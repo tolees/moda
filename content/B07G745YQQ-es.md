@@ -3,6 +3,7 @@ layout: post
 title: 'Glamorous Ladies Dress  Vestido para Muj al 66.86 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31B1iFmFGxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31B1iFmFGxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31B1iFmFGxL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 38.8 EUR
 inStock: true
 prodname: 'Glamorous Ladies Dress  Vestido para Mujer  Azul  Royal Blue AG  36  Talla del Fabricante: X-Small '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07G745YQQ/?tag=tolees-21'
+descuento: '66.86'
+titulo: 'Glamorous Ladies Dress  Vestido para Muj'
 ---
 
 Ahora mismo tienes [Glamorous Ladies Dress  Vestido para Mujer  Azul  Royal Blue AG  36  Talla del Fabricante: X-Small ](https://www.amazon.es/dp/B07G745YQQ/?tag=tolees-21) a 12.86 EUR (original: 38.8 EUR) (66.86 %  de descuento) en el siguiente enlace!

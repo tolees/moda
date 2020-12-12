@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 69.12 % en Le Coq Sportif Louisa Mid - Zapatilla al'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41u1YqLiwsL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41u1YqLiwsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41u1YqLiwsL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'Le Coq Sportif Louisa Mid - Zapatilla alta Mujer  Braun  Tortoise Shell   EU 41'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B015Y0LURC/?tag=tolees-21'
+descuento: '69.12'
+titulo: 'Le Coq Sportif Louisa Mid - Zapatilla al'
 ---
 
 Tienes [Le Coq Sportif Louisa Mid - Zapatilla alta Mujer  Braun  Tortoise Shell   EU 41](https://www.amazon.es/dp/B015Y0LURC/?tag=tolees-21) con un 69.12 % de descuento con precio de oferta de 21.6 EUR (original: 69.95 EUR) en el siguiente enlace!

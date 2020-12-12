@@ -3,6 +3,7 @@ layout: post
 title: 'HIKARO Sudadera con Capucha Hombre  Azul al 40.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PcXbVq%2BpL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41PcXbVq%2BpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PcXbVq%2BpL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 32.95 EUR
 inStock: true
 prodname: 'HIKARO Sudadera con Capucha Hombre  Azul  Aqua   50  Talla del fabricante: Medium '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077Y6H5VT/?tag=tolees-21'
+descuento: '40.00'
+titulo: 'HIKARO Sudadera con Capucha Hombre  Azul'
 ---
 
 Está [HIKARO Sudadera con Capucha Hombre  Azul  Aqua   50  Talla del fabricante: Medium ](https://www.amazon.es/dp/B077Y6H5VT/?tag=tolees-21) con 40.00 de descuento por 19.77 EUR (original: 32.95 EUR) en el siguiente enlace!

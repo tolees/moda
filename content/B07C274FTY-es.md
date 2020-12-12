@@ -3,6 +3,7 @@ layout: post
 title: 'JACK & JONES Jjiglenn Jjcharlie Am 736 L al 79.88 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41SLDvoMwCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41SLDvoMwCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41SLDvoMwCL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'JACK & JONES Jjiglenn Jjcharlie Am 736 Ltd  Vaqueros Slim Hombre  Negro  Black Denim Black Denim   W31/L34'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07C274FTY/?tag=tolees-21'
+descuento: '79.88'
+titulo: 'JACK & JONES Jjiglenn Jjcharlie Am 736 L'
 ---
 
 Ahora mismo tienes [JACK & JONES Jjiglenn Jjcharlie Am 736 Ltd  Vaqueros Slim Hombre  Negro  Black Denim Black Denim   W31/L34](https://www.amazon.es/dp/B07C274FTY/?tag=tolees-21) a 12.07 EUR (original: 59.99 EUR) (79.88 %  de descuento) en el siguiente enlace!

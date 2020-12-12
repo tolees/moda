@@ -3,6 +3,7 @@ layout: post
 title: 'The North Face Y Snow Quest FZ Chaqueta  al 50.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4135NbGF84L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4135NbGF84L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4135NbGF84L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 40 EUR
 inStock: true
 prodname: 'The North Face Y Snow Quest FZ Chaqueta con Cremallera Integral Snowquest  Unisex niños  Rocket Red  M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FQBMCQ9/?tag=tolees-21'
+descuento: '50.00'
+titulo: 'The North Face Y Snow Quest FZ Chaqueta '
 ---
 
 Está [The North Face Y Snow Quest FZ Chaqueta con Cremallera Integral Snowquest  Unisex niños  Rocket Red  M](https://www.amazon.es/dp/B07FQBMCQ9/?tag=tolees-21) con 50.00 de descuento por 20 EUR (original: 40 EUR) en el siguiente enlace!

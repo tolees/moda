@@ -3,6 +3,7 @@ layout: post
 title: 'Coast Jenn Vestido  Negro  Black   38  T al 83.75 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31rq%2BoczLKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31rq%2BoczLKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31rq%2BoczLKL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 89 EUR
 inStock: true
 prodname: 'Coast Jenn Vestido  Negro  Black   38  Talla del Fabricante: 10  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01LSSEKD0/?tag=tolees-21'
+descuento: '83.75'
+titulo: 'Coast Jenn Vestido  Negro  Black   38  T'
 ---
 
 Está [Coast Jenn Vestido  Negro  Black   38  Talla del Fabricante: 10  para Mujer](https://www.amazon.es/dp/B01LSSEKD0/?tag=tolees-21) con 83.75 de descuento por 14.46 EUR (original: 89 EUR) en el siguiente enlace!

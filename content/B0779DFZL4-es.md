@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 73.89 % en El Naturalista N5016  Zapatos de tacón c'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41a6Qy72mDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41a6Qy72mDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41a6Qy72mDL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 99.9 EUR
 inStock: true
 prodname: 'El Naturalista N5016  Zapatos de tacón con Punta Abierta para Mujer  Marrón  Nude   39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0779DFZL4/?tag=tolees-21'
+descuento: '73.89'
+titulo: 'El Naturalista N5016  Zapatos de tacón c'
 ---
 
 Tienes [El Naturalista N5016  Zapatos de tacón con Punta Abierta para Mujer  Marrón  Nude   39 EU](https://www.amazon.es/dp/B0779DFZL4/?tag=tolees-21) con un 73.89 % de descuento con precio de oferta de 26.08 EUR (original: 99.9 EUR) en el siguiente enlace!

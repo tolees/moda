@@ -3,6 +3,7 @@ layout: post
 title: 'Tommy Hilfiger Alana Down Parka  Mujer   al 50.18 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41AWr-iC%2BhL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41AWr-iC%2BhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41AWr-iC%2BhL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 279 EUR
 inStock: true
 prodname: 'Tommy Hilfiger Alana Down Parka  Mujer  Verde  Olive Night 302  X-Small'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FJCBCGW/?tag=tolees-21'
+descuento: '50.18'
+titulo: 'Tommy Hilfiger Alana Down Parka  Mujer  '
 ---
 
 Está [Tommy Hilfiger Alana Down Parka  Mujer  Verde  Olive Night 302  X-Small](https://www.amazon.es/dp/B07FJCBCGW/?tag=tolees-21) con 50.18 de descuento por 139 EUR (original: 279 EUR) en el siguiente enlace!

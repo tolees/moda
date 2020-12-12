@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.01 % en Timberland Milan Flavor Sneaker  Zapatos'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411PYAu3dUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/411PYAu3dUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411PYAu3dUL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 90 EUR
 inStock: true
 prodname: 'Timberland Milan Flavor Sneaker  Zapatos de Cordones Oxford para Mujer  Marrón  Simply Taupe L47   37.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078SXDKJG/?tag=tolees-21'
+descuento: '40.01'
+titulo: 'Timberland Milan Flavor Sneaker  Zapatos'
 ---
 
 Tienes [Timberland Milan Flavor Sneaker  Zapatos de Cordones Oxford para Mujer  Marrón  Simply Taupe L47   37.5 EU](https://www.amazon.es/dp/B078SXDKJG/?tag=tolees-21) con un 40.01 % de descuento con precio de oferta de 53.99 EUR (original: 90 EUR) en el siguiente enlace!

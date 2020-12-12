@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 69.82 % en Izas Fara Camisa  Mujer  Morado  Purple '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41h1NxcwlCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41h1NxcwlCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41h1NxcwlCL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 41.95 EUR
 inStock: true
 prodname: 'Izas Fara Camisa  Mujer  Morado  Purple   XS'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01DAL0M2G/?tag=tolees-21'
+descuento: '69.82'
+titulo: 'Izas Fara Camisa  Mujer  Morado  Purple '
 ---
 
 Tienes [Izas Fara Camisa  Mujer  Morado  Purple   XS](https://www.amazon.es/dp/B01DAL0M2G/?tag=tolees-21) con un 69.82 % de descuento con precio de oferta de 12.66 EUR (original: 41.95 EUR) en el siguiente enlace!

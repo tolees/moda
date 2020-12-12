@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 76.92 % en Tom Tailor 5870503  Botines para Niñas  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417f5iYQDqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/417f5iYQDqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417f5iYQDqL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 39.95 EUR
 inStock: true
 prodname: 'Tom Tailor 5870503  Botines para Niñas  Verde  Khaki 00007   27 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079HX35TC/?tag=tolees-21'
+descuento: '76.92'
+titulo: 'Tom Tailor 5870503  Botines para Niñas  '
 ---
 
 Tienes [Tom Tailor 5870503  Botines para Niñas  Verde  Khaki 00007   27 EU](https://www.amazon.es/dp/B079HX35TC/?tag=tolees-21) con un 76.92 % de descuento con precio de oferta de 9.22 EUR (original: 39.95 EUR) en el siguiente enlace!

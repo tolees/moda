@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 61.70 % en Timberland AF NELLIE DBLE WHEAT NBK - Bo'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LYMsWLeUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41LYMsWLeUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LYMsWLeUL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 150 EUR
 inStock: true
 prodname: 'Timberland AF NELLIE DBLE WHEAT NBK - Botas de aventura para mujer  color amarillo   Wheat yellow   talla 38'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B005JQS5O8/?tag=tolees-21'
+descuento: '61.70'
+titulo: 'Timberland AF NELLIE DBLE WHEAT NBK - Bo'
 ---
 
 Tienes [Timberland AF NELLIE DBLE WHEAT NBK - Botas de aventura para mujer  color amarillo   Wheat yellow   talla 38](https://www.amazon.es/dp/B005JQS5O8/?tag=tolees-21) con un 61.70 % de descuento con precio de oferta de 57.45 EUR (original: 150 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'G-STAR RAW 3301 Straight  Vaqueros strai al 57.92 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31PL-vldtpL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31PL-vldtpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31PL-vldtpL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'G-STAR RAW 3301 Straight  Vaqueros straight Hombre  Negro  rinsed 8970-082   W33/L34  Talla del fabricante: 33W / 34L '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CZHQCTP/?tag=tolees-21'
+descuento: '57.92'
+titulo: 'G-STAR RAW 3301 Straight  Vaqueros strai'
 ---
 
 Está [G-STAR RAW 3301 Straight  Vaqueros straight Hombre  Negro  rinsed 8970-082   W33/L34  Talla del fabricante: 33W / 34L ](https://www.amazon.es/dp/B07CZHQCTP/?tag=tolees-21) con 57.92 de descuento por 42.06 EUR (original: 99.95 EUR) en el siguiente enlace!

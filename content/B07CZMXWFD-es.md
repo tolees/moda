@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour UA Qualifier Speedpocket 5  al 56.67 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31yr844CzTL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31yr844CzTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31yr844CzTL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'Under Armour UA Qualifier Speedpocket 5   Short Pantalón Corto  Hombre  Gris  Pitch Gray/Black/Reflective 012   L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CZMXWFD/?tag=tolees-21'
+descuento: '56.67'
+titulo: 'Under Armour UA Qualifier Speedpocket 5 '
 ---
 
 Está [Under Armour UA Qualifier Speedpocket 5   Short Pantalón Corto  Hombre  Gris  Pitch Gray/Black/Reflective 012   L](https://www.amazon.es/dp/B07CZMXWFD/?tag=tolees-21) con 56.67 de descuento por 21.66 EUR (original: 49.99 EUR) en el siguiente enlace!

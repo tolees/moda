@@ -3,6 +3,7 @@ layout: post
 title: 'JACK & JONES Hombre Jjiglenn Jjicon JJ 3 al 49.99 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41NiRrQ2nkL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41NiRrQ2nkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41NiRrQ2nkL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 79.99 EUR
 inStock: true
 prodname: 'JACK & JONES Hombre Jjiglenn Jjicon JJ 357 50sps Noos Vaqueros Slim Not Applicable  Azul  Blue Denim Blue Denim   W30/L30'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HQYQ5L7/?tag=tolees-21'
+descuento: '49.99'
+titulo: 'JACK & JONES Hombre Jjiglenn Jjicon JJ 3'
 ---
 
 Está [JACK & JONES Hombre Jjiglenn Jjicon JJ 357 50sps Noos Vaqueros Slim Not Applicable  Azul  Blue Denim Blue Denim   W30/L30](https://www.amazon.es/dp/B07HQYQ5L7/?tag=tolees-21) con 49.99 de descuento por 40 EUR (original: 79.99 EUR) en el siguiente enlace!

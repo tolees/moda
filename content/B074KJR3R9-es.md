@@ -3,6 +3,7 @@ layout: post
 title: 'KRISP Vestido Moda Mujer Fruncido  Grana al 33.36 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HTQDWPQVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41HTQDWPQVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HTQDWPQVL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 11.99 EUR
 inStock: true
 prodname: 'KRISP Vestido Moda Mujer Fruncido  Granate  6678   46  6678-WIN-18'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B074KJR3R9/?tag=tolees-21'
+descuento: '33.36'
+titulo: 'KRISP Vestido Moda Mujer Fruncido  Grana'
 ---
 
 Ahora mismo tienes [KRISP Vestido Moda Mujer Fruncido  Granate  6678   46  6678-WIN-18](https://www.amazon.es/dp/B074KJR3R9/?tag=tolees-21) a 7.99 EUR (original: 11.99 EUR) (33.36 %  de descuento) en el siguiente enlace!

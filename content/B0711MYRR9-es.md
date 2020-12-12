@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 51.00 % en FIND Vestido con Cintura Anudada para Mu'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZoK1FWoFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZoK1FWoFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZoK1FWoFL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 30 EUR
 inStock: true
 prodname: 'FIND Vestido con Cintura Anudada para Mujer   Negro  Schwarz   38  Talla del Fabricante: Small '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0711MYRR9/?tag=tolees-21'
+descuento: '51.00'
+titulo: 'FIND Vestido con Cintura Anudada para Mu'
 ---
 
 Tienes [FIND Vestido con Cintura Anudada para Mujer   Negro  Schwarz   38  Talla del Fabricante: Small ](https://www.amazon.es/dp/B0711MYRR9/?tag=tolees-21) con un 51.00 % de descuento con precio de oferta de 14.7 EUR (original: 30 EUR) en el siguiente enlace!

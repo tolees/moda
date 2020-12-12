@@ -3,6 +3,7 @@ layout: post
 title: 'Superdry Low Roller tee Camiseta  Amaril al 57.26 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ImbsxRSdL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31ImbsxRSdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ImbsxRSdL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 39.75 EUR
 inStock: true
 prodname: 'Superdry Low Roller tee Camiseta  Amarillo  Fluro Yellow 23K   XS para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MZKJB1N/?tag=tolees-21'
+descuento: '57.26'
+titulo: 'Superdry Low Roller tee Camiseta  Amaril'
 ---
 
 Ahora mismo tienes [Superdry Low Roller tee Camiseta  Amarillo  Fluro Yellow 23K   XS para Hombre](https://www.amazon.es/dp/B07MZKJB1N/?tag=tolees-21) a 16.99 EUR (original: 39.75 EUR) (57.26 %  de descuento) en el siguiente enlace!

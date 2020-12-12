@@ -3,6 +3,7 @@ layout: post
 title: 'Everlife Shop CS Caza Airsoft Paintball  al 42.11 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xcORU1dHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41xcORU1dHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xcORU1dHL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 56.99 EUR
 inStock: true
 prodname: 'Everlife Shop CS Caza Airsoft Paintball Chaleco de Poliéster Exterior Premium Ejército Wargame de Plena Protección con Accesorio Negro Chaleco Tactico Molle  Khaki '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B019H9EAPK/?tag=tolees-21'
+descuento: '42.11'
+titulo: 'Everlife Shop CS Caza Airsoft Paintball '
 ---
 
 Está [Everlife Shop CS Caza Airsoft Paintball Chaleco de Poliéster Exterior Premium Ejército Wargame de Plena Protección con Accesorio Negro Chaleco Tactico Molle  Khaki ](https://www.amazon.es/dp/B019H9EAPK/?tag=tolees-21) con 42.11 de descuento por 32.99 EUR (original: 56.99 EUR) en el siguiente enlace!

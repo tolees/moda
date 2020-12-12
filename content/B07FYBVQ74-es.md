@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 69.81 % en Wrangler LS 1pkt Shirt Camisa  Azul  Nav'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417M5y1gOLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/417M5y1gOLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417M5y1gOLL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 54.95 EUR
 inStock: true
 prodname: 'Wrangler LS 1pkt Shirt Camisa  Azul  Navy N35   Medium para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FYBVQ74/?tag=tolees-21'
+descuento: '69.81'
+titulo: 'Wrangler LS 1pkt Shirt Camisa  Azul  Nav'
 ---
 
 Tienes [Wrangler LS 1pkt Shirt Camisa  Azul  Navy N35   Medium para Hombre](https://www.amazon.es/dp/B07FYBVQ74/?tag=tolees-21) con un 69.81 % de descuento con precio de oferta de 16.59 EUR (original: 54.95 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Only Onllive Love Peplum 3/4 Top  Camisa al 53.43 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vDb96Qo6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41vDb96Qo6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vDb96Qo6L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'Only Onllive Love Peplum 3/4 Top  Camisa Manga Larga Mujer  Azul  Dazzling Blue Dazzling Blue   40  Talla del Fabricante: Large '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071ZPQR9V/?tag=tolees-21'
+descuento: '53.43'
+titulo: 'Only Onllive Love Peplum 3/4 Top  Camisa'
 ---
 
 Ahora mismo tienes [Only Onllive Love Peplum 3/4 Top  Camisa Manga Larga Mujer  Azul  Dazzling Blue Dazzling Blue   40  Talla del Fabricante: Large ](https://www.amazon.es/dp/B071ZPQR9V/?tag=tolees-21) a 9.31 EUR (original: 19.99 EUR) (53.43 %  de descuento) en el siguiente enlace!

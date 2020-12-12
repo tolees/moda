@@ -3,6 +3,7 @@ layout: post
 title: 'edc by Esprit 047cc1k002  Camiseta Mujer al 34.03 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41sWdCHuF4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41sWdCHuF4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41sWdCHuF4L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 12.99 EUR
 inStock: true
 prodname: 'edc by Esprit 047cc1k002  Camiseta Mujer  Blanco  White   38  Talla del Fabricante: Medium '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N35HMM2/?tag=tolees-21'
+descuento: '34.03'
+titulo: 'edc by Esprit 047cc1k002  Camiseta Mujer'
 ---
 
 Ahora mismo tienes [edc by Esprit 047cc1k002  Camiseta Mujer  Blanco  White   38  Talla del Fabricante: Medium ](https://www.amazon.es/dp/B01N35HMM2/?tag=tolees-21) a 8.57 EUR (original: 12.99 EUR) (34.03 %  de descuento) en el siguiente enlace!

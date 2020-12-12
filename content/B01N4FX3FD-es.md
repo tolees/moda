@@ -3,6 +3,7 @@ layout: post
 title: 'Timberland Reloj Analógico para Hombre d al 49.71 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51FhJi3F7SL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51FhJi3F7SL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51FhJi3F7SL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 119 EUR
 inStock: true
 prodname: 'Timberland Reloj Analógico para Hombre de Cuarzo con Correa en Cuero TBL15025JS.03'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N4FX3FD/?tag=tolees-21'
+descuento: '49.71'
+titulo: 'Timberland Reloj Analógico para Hombre d'
 ---
 
 Ahora mismo tienes [Timberland Reloj Analógico para Hombre de Cuarzo con Correa en Cuero TBL15025JS.03](https://www.amazon.es/dp/B01N4FX3FD/?tag=tolees-21) a 59.84 EUR (original: 119 EUR) (49.71 %  de descuento) en el siguiente enlace!

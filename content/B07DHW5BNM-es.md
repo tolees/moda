@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 67.38 % en United Colors of Benetton Jacket  Chaque'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410zzksZ7oL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/410zzksZ7oL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410zzksZ7oL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'United Colors of Benetton Jacket  Chaqueta para Hombre   Beige 04b   Medium  Talla del Fabricante: 48 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DHW5BNM/?tag=tolees-21'
+descuento: '67.38'
+titulo: 'United Colors of Benetton Jacket  Chaque'
 ---
 
 Tienes [United Colors of Benetton Jacket  Chaqueta para Hombre   Beige 04b   Medium  Talla del Fabricante: 48 ](https://www.amazon.es/dp/B07DHW5BNM/?tag=tolees-21) con un 67.38 % de descuento con precio de oferta de 22.82 EUR (original: 69.95 EUR) en el siguiente enlace!

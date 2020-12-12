@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour 1320610 UA Slim Leg Crop -  al 57.80 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pYVWCGeeL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41pYVWCGeeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41pYVWCGeeL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 50 EUR
 inStock: true
 prodname: 'Under Armour 1320610 UA Slim Leg Crop - Pantalón de felpa para mujer  Negro  001   S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077HXM3NB/?tag=tolees-21'
+descuento: '57.80'
+titulo: 'Under Armour 1320610 UA Slim Leg Crop - '
 ---
 
 Ahora mismo tienes [Under Armour 1320610 UA Slim Leg Crop - Pantalón de felpa para mujer  Negro  001   S](https://www.amazon.es/dp/B077HXM3NB/?tag=tolees-21) a 21.1 EUR (original: 50 EUR) (57.80 %  de descuento) en el siguiente enlace!

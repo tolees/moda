@@ -3,6 +3,7 @@ layout: post
 title: 'XTI 48454  Botines para Mujer  Negro  Bl al 73.19 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UfY2EE3jL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41UfY2EE3jL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UfY2EE3jL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: 'XTI 48454  Botines para Mujer  Negro  Black   40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D9C3PQW/?tag=tolees-21'
+descuento: '73.19'
+titulo: 'XTI 48454  Botines para Mujer  Negro  Bl'
 ---
 
 Está [XTI 48454  Botines para Mujer  Negro  Black   40 EU](https://www.amazon.es/dp/B07D9C3PQW/?tag=tolees-21) con 73.19 de descuento por 13.39 EUR (original: 49.95 EUR) en el siguiente enlace!

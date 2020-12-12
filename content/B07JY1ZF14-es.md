@@ -3,6 +3,7 @@ layout: post
 title: 'ESPRIT Collection 998eo2f801 Camisa  Azu al 79.62 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31L74Au1sZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31L74Au1sZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31L74Au1sZL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'ESPRIT Collection 998eo2f801 Camisa  Azul  Navy 400     Talla del Fabricante: 35-36  para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JY1ZF14/?tag=tolees-21'
+descuento: '79.62'
+titulo: 'ESPRIT Collection 998eo2f801 Camisa  Azu'
 ---
 
 Está [ESPRIT Collection 998eo2f801 Camisa  Azul  Navy 400     Talla del Fabricante: 35-36  para Hombre](https://www.amazon.es/dp/B07JY1ZF14/?tag=tolees-21) con 79.62 de descuento por 8.15 EUR (original: 39.99 EUR) en el siguiente enlace!

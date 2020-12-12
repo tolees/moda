@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 79.66 % en Crocs Fun Lab Lights Clog Kids  Zuecos U'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51et4feq0jL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51et4feq0jL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51et4feq0jL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 49.9 EUR
 inStock: true
 prodname: 'Crocs Fun Lab Lights Clog Kids  Zuecos Unisex para Niños  Azul  Shark/Navy   19/20 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01HJ4FG4O/?tag=tolees-21'
+descuento: '79.66'
+titulo: 'Crocs Fun Lab Lights Clog Kids  Zuecos U'
 ---
 
 Tienes [Crocs Fun Lab Lights Clog Kids  Zuecos Unisex para Niños  Azul  Shark/Navy   19/20 EU](https://www.amazon.es/dp/B01HJ4FG4O/?tag=tolees-21) con un 79.66 % de descuento con precio de oferta de 10.15 EUR (original: 49.9 EUR) en el siguiente enlace!

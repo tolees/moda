@@ -3,6 +3,7 @@ layout: post
 title: 'Lee Scarlett  Vaqueros Skinny para Mujer al 81.42 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gukNeX%2B8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41gukNeX%2B8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gukNeX%2B8L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'Lee Scarlett  Vaqueros Skinny para Mujer  Gris  Grey Raw WH   W29/L31'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079QFHVBM/?tag=tolees-21'
+descuento: '81.42'
+titulo: 'Lee Scarlett  Vaqueros Skinny para Mujer'
 ---
 
 Está [Lee Scarlett  Vaqueros Skinny para Mujer  Gris  Grey Raw WH   W29/L31](https://www.amazon.es/dp/B079QFHVBM/?tag=tolees-21) con 81.42 de descuento por 18.57 EUR (original: 99.95 EUR) en el siguiente enlace!

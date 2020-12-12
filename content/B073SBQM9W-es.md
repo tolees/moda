@@ -3,6 +3,7 @@ layout: post
 title: 'Trucco - Camiseta para mujer  color nara al 77.63 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/515YLn9AQ8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/515YLn9AQ8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/515YLn9AQ8L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 29.95 EUR
 inStock: true
 prodname: 'Trucco - Camiseta para mujer  color naranja medio  talla M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073SBQM9W/?tag=tolees-21'
+descuento: '77.63'
+titulo: 'Trucco - Camiseta para mujer  color nara'
 ---
 
 Está [Trucco - Camiseta para mujer  color naranja medio  talla M](https://www.amazon.es/dp/B073SBQM9W/?tag=tolees-21) con 77.63 de descuento por 6.7 EUR (original: 29.95 EUR) en el siguiente enlace!

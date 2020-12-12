@@ -3,6 +3,7 @@ layout: post
 title: 'JACK & JONES Jcocarlo Sweat Zip Hood Noo al 62.62 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ko9TRpNeL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ko9TRpNeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ko9TRpNeL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'JACK & JONES Jcocarlo Sweat Zip Hood Noos  Sudadera para Hombre  Gris Light Grey Melange  Small'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F15GDBJ/?tag=tolees-21'
+descuento: '62.62'
+titulo: 'JACK & JONES Jcocarlo Sweat Zip Hood Noo'
 ---
 
 Está [JACK & JONES Jcocarlo Sweat Zip Hood Noos  Sudadera para Hombre  Gris Light Grey Melange  Small](https://www.amazon.es/dp/B07F15GDBJ/?tag=tolees-21) con 62.62 de descuento por 14.95 EUR (original: 39.99 EUR) en el siguiente enlace!

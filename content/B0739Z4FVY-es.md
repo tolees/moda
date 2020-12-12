@@ -3,6 +3,7 @@ layout: post
 title: 'Double Agent 87219  Camiseta para Mujer  al 72.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cULGqcAhL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41cULGqcAhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41cULGqcAhL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 17 EUR
 inStock: true
 prodname: 'Double Agent 87219  Camiseta para Mujer   Gris Vigore Medio   Small  Tamaño del Fabricante:S '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0739Z4FVY/?tag=tolees-21'
+descuento: '72.00'
+titulo: 'Double Agent 87219  Camiseta para Mujer '
 ---
 
 Ahora mismo tienes [Double Agent 87219  Camiseta para Mujer   Gris Vigore Medio   Small  Tamaño del Fabricante:S ](https://www.amazon.es/dp/B0739Z4FVY/?tag=tolees-21) a 4.76 EUR (original: 17 EUR) (72.00 %  de descuento) en el siguiente enlace!

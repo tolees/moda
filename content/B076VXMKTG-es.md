@@ -3,6 +3,7 @@ layout: post
 title: 'G-STAR RAW 5622 3D High Waist Boyfriend  al 89.66 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zA0MC4RWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41zA0MC4RWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zA0MC4RWL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 149.95 EUR
 inStock: true
 prodname: 'G-STAR RAW 5622 3D High Waist Boyfriend 7/8-Length Vaqueros  Azul  Medium Aged 9436-071   31W / 30L para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076VXMKTG/?tag=tolees-21'
+descuento: '89.66'
+titulo: 'G-STAR RAW 5622 3D High Waist Boyfriend '
 ---
 
 Está [G-STAR RAW 5622 3D High Waist Boyfriend 7/8-Length Vaqueros  Azul  Medium Aged 9436-071   31W / 30L para Mujer](https://www.amazon.es/dp/B076VXMKTG/?tag=tolees-21) con 89.66 de descuento por 15.5 EUR (original: 149.95 EUR) en el siguiente enlace!

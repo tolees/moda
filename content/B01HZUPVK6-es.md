@@ -3,6 +3,7 @@ layout: post
 title: 'G-STAR RAW – Pantalón Vaquero para Hombr al 65.28 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KkRYVixYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41KkRYVixYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41KkRYVixYL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 129.95 EUR
 inStock: true
 prodname: 'G-STAR RAW – Pantalón Vaquero para Hombre Revend Super Slim Lt Aged 424 24W x 28L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01HZUPVK6/?tag=tolees-21'
+descuento: '65.28'
+titulo: 'G-STAR RAW – Pantalón Vaquero para Hombr'
 ---
 
 Está [G-STAR RAW – Pantalón Vaquero para Hombre Revend Super Slim Lt Aged 424 24W x 28L](https://www.amazon.es/dp/B01HZUPVK6/?tag=tolees-21) con 65.28 de descuento por 45.12 EUR (original: 129.95 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Petrol Industries M-FW18-JAC104  Chaquet al 82.06 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41VGsZmPPAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41VGsZmPPAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41VGsZmPPAL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 109.95 EUR
 inStock: true
 prodname: 'Petrol Industries M-FW18-JAC104  Chaqueta para Hombre  Negro  Black 9999   Tamaño del Fabricante:M '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07B7XRTK8/?tag=tolees-21'
+descuento: '82.06'
+titulo: 'Petrol Industries M-FW18-JAC104  Chaquet'
 ---
 
 Está [Petrol Industries M-FW18-JAC104  Chaqueta para Hombre  Negro  Black 9999   Tamaño del Fabricante:M ](https://www.amazon.es/dp/B07B7XRTK8/?tag=tolees-21) con 82.06 de descuento por 19.72 EUR (original: 109.95 EUR) en el siguiente enlace!

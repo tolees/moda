@@ -3,6 +3,7 @@ layout: post
 title: 'Aqua Shoes Escarpines Hombres Mujer Niño al 52.94 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51vSmFzcAHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51vSmFzcAHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51vSmFzcAHL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 29.73 EUR
 inStock: true
 prodname: 'Aqua Shoes Escarpines Hombres Mujer Niños Zapatos de Agua Zapatillas Ligeros de Secado Rápido para Swim Beach Surf Yoga'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07C6RCWTQ/?tag=tolees-21'
+descuento: '52.94'
+titulo: 'Aqua Shoes Escarpines Hombres Mujer Niño'
 ---
 
 Está [Aqua Shoes Escarpines Hombres Mujer Niños Zapatos de Agua Zapatillas Ligeros de Secado Rápido para Swim Beach Surf Yoga](https://www.amazon.es/dp/B07C6RCWTQ/?tag=tolees-21) con 52.94 de descuento por 13.99 EUR (original: 29.73 EUR) en el siguiente enlace!

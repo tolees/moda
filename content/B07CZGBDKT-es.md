@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour Fly by Short Pantalón Corto al 31.13 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41izVeZONcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41izVeZONcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41izVeZONcL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 25.99 EUR
 inStock: true
 prodname: 'Under Armour Fly by Short Pantalón Corto  Mujer  Rosa  Mojo Pink/Purple Ace/Reflective 641   L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CZGBDKT/?tag=tolees-21'
+descuento: '31.13'
+titulo: 'Under Armour Fly by Short Pantalón Corto'
 ---
 
 Está [Under Armour Fly by Short Pantalón Corto  Mujer  Rosa  Mojo Pink/Purple Ace/Reflective 641   L](https://www.amazon.es/dp/B07CZGBDKT/?tag=tolees-21) con 31.13 de descuento por 17.9 EUR (original: 25.99 EUR) en el siguiente enlace!

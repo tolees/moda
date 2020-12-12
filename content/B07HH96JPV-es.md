@@ -3,6 +3,7 @@ layout: post
 title: 'Lee Rider Vaqueros Slim  Azul  Blue Time al 83.21 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yt0iHc7kL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41yt0iHc7kL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yt0iHc7kL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'Lee Rider Vaqueros Slim  Azul  Blue Time CH   W28/L34  Talla del Fabricante: 34/28  para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HH96JPV/?tag=tolees-21'
+descuento: '83.21'
+titulo: 'Lee Rider Vaqueros Slim  Azul  Blue Time'
 ---
 
 Está [Lee Rider Vaqueros Slim  Azul  Blue Time CH   W28/L34  Talla del Fabricante: 34/28  para Hombre](https://www.amazon.es/dp/B07HH96JPV/?tag=tolees-21) con 83.21 de descuento por 16.78 EUR (original: 99.95 EUR) en el siguiente enlace!

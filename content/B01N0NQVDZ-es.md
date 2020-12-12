@@ -3,6 +3,7 @@ layout: post
 title: 'Lee Button Down  Camisa para Hombre  Azu al 65.09 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41W6L6krixL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41W6L6krixL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41W6L6krixL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'Lee Button Down  Camisa para Hombre  Azul  Deep Indigo Jqps   X-Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N0NQVDZ/?tag=tolees-21'
+descuento: '65.09'
+titulo: 'Lee Button Down  Camisa para Hombre  Azu'
 ---
 
 Está [Lee Button Down  Camisa para Hombre  Azul  Deep Indigo Jqps   X-Large](https://www.amazon.es/dp/B01N0NQVDZ/?tag=tolees-21) con 65.09 de descuento por 20.93 EUR (original: 59.95 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Fazitrip guantes de pantalla táctil anti al 60.62 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41sNY978aZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41sNY978aZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41sNY978aZL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 32.99 EUR
 inStock: true
 prodname: 'Fazitrip guantes de pantalla táctil antideslizante guantes de moto para otoño e invierno para deportes al aire libre como senderismo  correr  ciclismo  escalada y más. antideslizante guantes L '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FSP4JZN/?tag=tolees-21'
+descuento: '60.62'
+titulo: 'Fazitrip guantes de pantalla táctil anti'
 ---
 
 Ahora mismo tienes [Fazitrip guantes de pantalla táctil antideslizante guantes de moto para otoño e invierno para deportes al aire libre como senderismo  correr  ciclismo  escalada y más. antideslizante guantes L ](https://www.amazon.es/dp/B07FSP4JZN/?tag=tolees-21) a 12.99 EUR (original: 32.99 EUR) (60.62 %  de descuento) en el siguiente enlace!

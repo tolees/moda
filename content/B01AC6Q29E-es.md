@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 38.33 % en Nike Park VI Camiseta de Manga Corta par'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419EEY6VKJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/419EEY6VKJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419EEY6VKJL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 21 EUR
 inStock: true
 prodname: 'Nike Park VI Camiseta de Manga Corta para hombre  Dorado  University Dorado/Black   XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01AC6Q29E/?tag=tolees-21'
+descuento: '38.33'
+titulo: 'Nike Park VI Camiseta de Manga Corta par'
 ---
 
 Tienes [Nike Park VI Camiseta de Manga Corta para hombre  Dorado  University Dorado/Black   XL](https://www.amazon.es/dp/B01AC6Q29E/?tag=tolees-21) con un 38.33 % de descuento con precio de oferta de 12.95 EUR (original: 21 EUR) en el siguiente enlace!

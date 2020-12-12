@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield INT.Real Down Teddy Abrigo   al 76.73 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41E7UHufeUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41E7UHufeUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41E7UHufeUL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 89.99 EUR
 inStock: true
 prodname: 'Springfield INT.Real Down Teddy Abrigo  Gama Azules 19   Tamaño del Fabricante:38  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DLLJ3GB/?tag=tolees-21'
+descuento: '76.73'
+titulo: 'Springfield INT.Real Down Teddy Abrigo  '
 ---
 
 Está [Springfield INT.Real Down Teddy Abrigo  Gama Azules 19   Tamaño del Fabricante:38  para Mujer](https://www.amazon.es/dp/B07DLLJ3GB/?tag=tolees-21) con 76.73 de descuento por 20.94 EUR (original: 89.99 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Goodthreads Camisa Oxford de Manga Larga al 58.04 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51fmdEat2rL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51fmdEat2rL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51fmdEat2rL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 28 EUR
 inStock: true
 prodname: 'Goodthreads Camisa Oxford de Manga Larga Estampado Tartán Standard Fit Hombre  Azul  green navy tartan   Medium'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BKQQDXL/?tag=tolees-21'
+descuento: '58.04'
+titulo: 'Goodthreads Camisa Oxford de Manga Larga'
 ---
 
 Está [Goodthreads Camisa Oxford de Manga Larga Estampado Tartán Standard Fit Hombre  Azul  green navy tartan   Medium](https://www.amazon.es/dp/B07BKQQDXL/?tag=tolees-21) con 58.04 de descuento por 11.75 EUR (original: 28 EUR) en el siguiente enlace!

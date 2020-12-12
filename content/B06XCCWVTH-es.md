@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 61.03 % en find. Gingham Embroidered Sudadera para '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Gs6S6H7-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Gs6S6H7-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Gs6S6H7-L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 35 EUR
 inStock: true
 prodname: 'find. Gingham Embroidered Sudadera para Mujer  Multicolor  Black/white Check   40  Talla del Fabricante: Medium '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XCCWVTH/?tag=tolees-21'
+descuento: '61.03'
+titulo: 'find. Gingham Embroidered Sudadera para '
 ---
 
 Tienes [find. Gingham Embroidered Sudadera para Mujer  Multicolor  Black/white Check   40  Talla del Fabricante: Medium ](https://www.amazon.es/dp/B06XCCWVTH/?tag=tolees-21) con un 61.03 % de descuento con precio de oferta de 13.64 EUR (original: 35 EUR) en el siguiente enlace!

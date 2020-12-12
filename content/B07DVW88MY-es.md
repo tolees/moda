@@ -3,6 +3,7 @@ layout: post
 title: 'hummel hmlf Inlay Jacket Chaqueta  Hombr al 54.14 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41sVmrYLUTL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41sVmrYLUTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41sVmrYLUTL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 132.99 EUR
 inStock: true
 prodname: 'hummel hmlf Inlay Jacket Chaqueta  Hombre  200791-2800  Medium Melange  Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DVW88MY/?tag=tolees-21'
+descuento: '54.14'
+titulo: 'hummel hmlf Inlay Jacket Chaqueta  Hombr'
 ---
 
 Ahora mismo tienes [hummel hmlf Inlay Jacket Chaqueta  Hombre  200791-2800  Medium Melange  Large](https://www.amazon.es/dp/B07DVW88MY/?tag=tolees-21) a 60.99 EUR (original: 132.99 EUR) (54.14 %  de descuento) en el siguiente enlace!

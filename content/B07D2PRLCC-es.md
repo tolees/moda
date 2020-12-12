@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 43.56 % en Gant TG. Logo Full Zip Hoodie  Vestido N'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LbGDQjWWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41LbGDQjWWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LbGDQjWWL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 85 EUR
 inStock: true
 prodname: 'Gant TG. Logo Full Zip Hoodie  Vestido Niñas  Rosa  Light Pink Melange   15 años  Talla del Fabricante: 170 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D2PRLCC/?tag=tolees-21'
+descuento: '43.56'
+titulo: 'Gant TG. Logo Full Zip Hoodie  Vestido N'
 ---
 
 Tienes [Gant TG. Logo Full Zip Hoodie  Vestido Niñas  Rosa  Light Pink Melange   15 años  Talla del Fabricante: 170 ](https://www.amazon.es/dp/B07D2PRLCC/?tag=tolees-21) con un 43.56 % de descuento con precio de oferta de 47.97 EUR (original: 85 EUR) en el siguiente enlace!

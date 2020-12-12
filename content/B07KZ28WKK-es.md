@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield 490-Bomber Basica Chaqueta B al 50.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41VwR-BjG0L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41VwR-BjG0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41VwR-BjG0L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Springfield 490-Bomber Basica Chaqueta Bomber  Gama Verdes 26  Large  Tamaño del Fabricante:L  para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KZ28WKK/?tag=tolees-21'
+descuento: '50.01'
+titulo: 'Springfield 490-Bomber Basica Chaqueta B'
 ---
 
 Ahora mismo tienes [Springfield 490-Bomber Basica Chaqueta Bomber  Gama Verdes 26  Large  Tamaño del Fabricante:L  para Hombre](https://www.amazon.es/dp/B07KZ28WKK/?tag=tolees-21) a 19.99 EUR (original: 39.99 EUR) (50.01 %  de descuento) en el siguiente enlace!

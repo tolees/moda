@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.20 % en Pepe Jeans Dion  Camiseta para Hombre  M'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41A8hBEJ%2B7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41A8hBEJ%2B7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41A8hBEJ%2B7L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 25 EUR
 inStock: true
 prodname: 'Pepe Jeans Dion  Camiseta para Hombre  Marfil  Off White 803  Small'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CC737SV/?tag=tolees-21'
+descuento: '50.20'
+titulo: 'Pepe Jeans Dion  Camiseta para Hombre  M'
 ---
 
 Tienes [Pepe Jeans Dion  Camiseta para Hombre  Marfil  Off White 803  Small](https://www.amazon.es/dp/B07CC737SV/?tag=tolees-21) con un 50.20 % de descuento con precio de oferta de 12.45 EUR (original: 25 EUR) en el siguiente enlace!

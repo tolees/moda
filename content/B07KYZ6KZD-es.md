@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield 3.T.Ap.Pv19.Bimat Plumas Cam al 40.80 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HNQ9GVVSL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41HNQ9GVVSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HNQ9GVVSL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 12.99 EUR
 inStock: true
 prodname: 'Springfield 3.T.Ap.Pv19.Bimat Plumas Camiseta  Mujer  Azul  Gama Azules 19   One Size  Tamaño del Fabricante:S '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KYZ6KZD/?tag=tolees-21'
+descuento: '40.80'
+titulo: 'Springfield 3.T.Ap.Pv19.Bimat Plumas Cam'
 ---
 
 Está [Springfield 3.T.Ap.Pv19.Bimat Plumas Camiseta  Mujer  Azul  Gama Azules 19   One Size  Tamaño del Fabricante:S ](https://www.amazon.es/dp/B07KYZ6KZD/?tag=tolees-21) con 40.80 de descuento por 7.69 EUR (original: 12.99 EUR) en el siguiente enlace!

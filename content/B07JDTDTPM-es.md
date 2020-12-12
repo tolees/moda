@@ -3,6 +3,7 @@ layout: post
 title: 'Lacoste Ch4872 Camisa  Rojo  Salvia/Encr al 34.83 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51w8aEFxdFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51w8aEFxdFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51w8aEFxdFL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 109 EUR
 inStock: true
 prodname: 'Lacoste Ch4872 Camisa  Rojo  Salvia/Encrier 98v   X-Large  Talla del Fabricante: 43  para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JDTDTPM/?tag=tolees-21'
+descuento: '34.83'
+titulo: 'Lacoste Ch4872 Camisa  Rojo  Salvia/Encr'
 ---
 
 Está [Lacoste Ch4872 Camisa  Rojo  Salvia/Encrier 98v   X-Large  Talla del Fabricante: 43  para Hombre](https://www.amazon.es/dp/B07JDTDTPM/?tag=tolees-21) con 34.83 de descuento por 71.03 EUR (original: 109 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Pepe Jeans 45th 03l Camiseta  Marfil  Of al 50.64 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410oH-WJJ2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/410oH-WJJ2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410oH-WJJ2L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 29.9 EUR
 inStock: true
 prodname: 'Pepe Jeans 45th 03l Camiseta  Marfil  Off White 803   X-Small para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07NC9VBFW/?tag=tolees-21'
+descuento: '50.64'
+titulo: 'Pepe Jeans 45th 03l Camiseta  Marfil  Of'
 ---
 
 Está [Pepe Jeans 45th 03l Camiseta  Marfil  Off White 803   X-Small para Mujer](https://www.amazon.es/dp/B07NC9VBFW/?tag=tolees-21) con 50.64 de descuento por 14.76 EUR (original: 29.9 EUR) en el siguiente enlace!

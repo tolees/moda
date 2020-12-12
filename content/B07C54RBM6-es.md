@@ -3,6 +3,7 @@ layout: post
 title: 'Diesel 00SH0I Camiseta  Negro 900  Small al 37.37 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nQwsAcl3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41nQwsAcl3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41nQwsAcl3L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 59 EUR
 inStock: true
 prodname: 'Diesel 00SH0I Camiseta  Negro 900  Small  Tamaño del Fabricante:S  para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07C54RBM6/?tag=tolees-21'
+descuento: '37.37'
+titulo: 'Diesel 00SH0I Camiseta  Negro 900  Small'
 ---
 
 Está [Diesel 00SH0I Camiseta  Negro 900  Small  Tamaño del Fabricante:S  para Hombre](https://www.amazon.es/dp/B07C54RBM6/?tag=tolees-21) con 37.37 de descuento por 36.95 EUR (original: 59 EUR) en el siguiente enlace!

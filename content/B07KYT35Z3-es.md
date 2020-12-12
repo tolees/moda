@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 41.89 % en Cortefiel SP Frq Camiseta Foto Play  Bla'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4102FYPt6qL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4102FYPt6qL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4102FYPt6qL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 22.99 EUR
 inStock: true
 prodname: 'Cortefiel SP Frq Camiseta Foto Play  Blanco 99   X-Large  Tamaño del Fabricante:XL  para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KYT35Z3/?tag=tolees-21'
+descuento: '41.89'
+titulo: 'Cortefiel SP Frq Camiseta Foto Play  Bla'
 ---
 
 Tienes [Cortefiel SP Frq Camiseta Foto Play  Blanco 99   X-Large  Tamaño del Fabricante:XL  para Hombre](https://www.amazon.es/dp/B07KYT35Z3/?tag=tolees-21) con un 41.89 % de descuento con precio de oferta de 13.36 EUR (original: 22.99 EUR) en el siguiente enlace!

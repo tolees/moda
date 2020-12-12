@@ -3,6 +3,7 @@ layout: post
 title: 'Izas Clot Camiseta de Tirantes  Mujer  R al 59.37 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412SvGbRAAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/412SvGbRAAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412SvGbRAAL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 26.95 EUR
 inStock: true
 prodname: 'Izas Clot Camiseta de Tirantes  Mujer  Rosa  Fuxia   XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XT29Q5V/?tag=tolees-21'
+descuento: '59.37'
+titulo: 'Izas Clot Camiseta de Tirantes  Mujer  R'
 ---
 
 Está [Izas Clot Camiseta de Tirantes  Mujer  Rosa  Fuxia   XL](https://www.amazon.es/dp/B06XT29Q5V/?tag=tolees-21) con 59.37 de descuento por 10.95 EUR (original: 26.95 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 38.81 % en The North Face Light Drew Peak Sudadera '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/319oco7QPiL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/319oco7QPiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/319oco7QPiL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 80 EUR
 inStock: true
 prodname: 'The North Face Light Drew Peak Sudadera  Hombre  New Taupe Green  M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07M9B4XN7/?tag=tolees-21'
+descuento: '38.81'
+titulo: 'The North Face Light Drew Peak Sudadera '
 ---
 
 Tienes [The North Face Light Drew Peak Sudadera  Hombre  New Taupe Green  M](https://www.amazon.es/dp/B07M9B4XN7/?tag=tolees-21) con un 38.81 % de descuento con precio de oferta de 48.95 EUR (original: 80 EUR) en el siguiente enlace!

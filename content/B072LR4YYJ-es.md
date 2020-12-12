@@ -3,6 +3,7 @@ layout: post
 title: 'edc by Esprit 097cc1k058  Camisa Manga L al 53.13 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51RrbfUz-NL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51RrbfUz-NL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51RrbfUz-NL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'edc by Esprit 097cc1k058  Camisa Manga Larga Mujer  Gris  Light Grey 5 044   Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072LR4YYJ/?tag=tolees-21'
+descuento: '53.13'
+titulo: 'edc by Esprit 097cc1k058  Camisa Manga L'
 ---
 
 Está [edc by Esprit 097cc1k058  Camisa Manga Larga Mujer  Gris  Light Grey 5 044   Large](https://www.amazon.es/dp/B072LR4YYJ/?tag=tolees-21) con 53.13 de descuento por 9.37 EUR (original: 19.99 EUR) en el siguiente enlace!

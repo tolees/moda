@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 47.04 % en Springfield 5 Pack Negros Bóxer  Hombre '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51MlrZD%2BYXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51MlrZD%2BYXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51MlrZD%2BYXL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 34.99 EUR
 inStock: true
 prodname: 'Springfield 5 Pack Negros Bóxer  Hombre  Negro  Negro 1   Large  Tamaño del Fabricante:L '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KZ1V1VK/?tag=tolees-21'
+descuento: '47.04'
+titulo: 'Springfield 5 Pack Negros Bóxer  Hombre '
 ---
 
 Tienes [Springfield 5 Pack Negros Bóxer  Hombre  Negro  Negro 1   Large  Tamaño del Fabricante:L ](https://www.amazon.es/dp/B07KZ1V1VK/?tag=tolees-21) con un 47.04 % de descuento con precio de oferta de 18.53 EUR (original: 34.99 EUR) en el siguiente enlace!

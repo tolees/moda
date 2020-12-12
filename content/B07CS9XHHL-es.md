@@ -3,6 +3,7 @@ layout: post
 title: 'Pepe Jeans Mack  Camiseta para Hombre    al 58.66 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414XlVarTcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/414XlVarTcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414XlVarTcL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 29.9 EUR
 inStock: true
 prodname: 'Pepe Jeans Mack  Camiseta para Hombre   White 800   Small'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CS9XHHL/?tag=tolees-21'
+descuento: '58.66'
+titulo: 'Pepe Jeans Mack  Camiseta para Hombre   '
 ---
 
 Está [Pepe Jeans Mack  Camiseta para Hombre   White 800   Small](https://www.amazon.es/dp/B07CS9XHHL/?tag=tolees-21) con 58.66 de descuento por 12.36 EUR (original: 29.9 EUR) en el siguiente enlace!

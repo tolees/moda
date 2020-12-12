@@ -3,6 +3,7 @@ layout: post
 title: 'HHG Vestido Verde S al 77.10 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51nopnflKwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51nopnflKwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51nopnflKwL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 38.25 EUR
 inStock: true
 prodname: 'HHG Vestido Verde S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01BFAXLUY/?tag=tolees-21'
+descuento: '77.10'
+titulo: 'HHG Vestido Verde S'
 ---
 
 Está [HHG Vestido Verde S](https://www.amazon.es/dp/B01BFAXLUY/?tag=tolees-21) con 77.10 de descuento por 8.76 EUR (original: 38.25 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield Parka Larga Capucha Pluma Wa al 65.07 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fMN-R7ZVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41fMN-R7ZVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fMN-R7ZVL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 99.99 EUR
 inStock: true
 prodname: 'Springfield Parka Larga Capucha Pluma Water Repellent Abrigo  Negro  Black   Large  Tamaño del Fabricante:L  para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07576HHJS/?tag=tolees-21'
+descuento: '65.07'
+titulo: 'Springfield Parka Larga Capucha Pluma Wa'
 ---
 
 Está [Springfield Parka Larga Capucha Pluma Water Repellent Abrigo  Negro  Black   Large  Tamaño del Fabricante:L  para Hombre](https://www.amazon.es/dp/B07576HHJS/?tag=tolees-21) con 65.07 de descuento por 34.93 EUR (original: 99.99 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 65.90 % en DKNY 0Dy4675  Monturas de Gafas para Muj'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/3123Cn4aHHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/3123Cn4aHHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/3123Cn4aHHL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 135.46 EUR
 inStock: true
 prodname: 'DKNY 0Dy4675  Monturas de Gafas para Mujer  Negro  Matte Black   53'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06Y5PTDB4/?tag=tolees-21'
+descuento: '65.90'
+titulo: 'DKNY 0Dy4675  Monturas de Gafas para Muj'
 ---
 
 Tienes [DKNY 0Dy4675  Monturas de Gafas para Mujer  Negro  Matte Black   53](https://www.amazon.es/dp/B06Y5PTDB4/?tag=tolees-21) con un 65.90 % de descuento con precio de oferta de 46.19 EUR (original: 135.46 EUR) en el siguiente enlace!

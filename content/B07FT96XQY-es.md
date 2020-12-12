@@ -3,6 +3,7 @@ layout: post
 title: 'Lee Scarlett  Vaqueros skinny para Mujer al 83.61 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31FzRM44E9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31FzRM44E9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31FzRM44E9L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 79.95 EUR
 inStock: true
 prodname: 'Lee Scarlett  Vaqueros skinny para MujerAzul  Blueberry '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FT96XQY/?tag=tolees-21'
+descuento: '83.61'
+titulo: 'Lee Scarlett  Vaqueros skinny para Mujer'
 ---
 
 Está [Lee Scarlett  Vaqueros skinny para MujerAzul  Blueberry ](https://www.amazon.es/dp/B07FT96XQY/?tag=tolees-21) con 83.61 de descuento por 13.1 EUR (original: 79.95 EUR) en el siguiente enlace!

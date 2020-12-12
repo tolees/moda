@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour UA Tech Mesh Short Pantalón al 30.10 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/316NqFN201L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/316NqFN201L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/316NqFN201L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 30 EUR
 inStock: true
 prodname: 'Under Armour UA Tech Mesh Short Pantalón Corto  Hombre  Negro  003   L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00YQLVFO4/?tag=tolees-21'
+descuento: '30.10'
+titulo: 'Under Armour UA Tech Mesh Short Pantalón'
 ---
 
 Está [Under Armour UA Tech Mesh Short Pantalón Corto  Hombre  Negro  003   L](https://www.amazon.es/dp/B00YQLVFO4/?tag=tolees-21) con 30.10 de descuento por 20.97 EUR (original: 30 EUR) en el siguiente enlace!

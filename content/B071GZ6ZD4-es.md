@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 33.76 % en Jack & Jones Jprnon Iron Shirt L/s Noos '
 date: 2020-12-11 22:58:48
 thumbnailImage: 'https://m.media-amazon.com/images/I/31MYEP6Yl4L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31MYEP6Yl4L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31MYEP6Yl4L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Jack & Jones Jprnon Iron Shirt L/s Noos Camisa  Blanco  White Fit:Slim Fit   X-Large para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071GZ6ZD4/?tag=tolees-21'
+descuento: '33.76'
+titulo: 'Jack & Jones Jprnon Iron Shirt L/s Noos '
 ---
 
 Tienes [Jack & Jones Jprnon Iron Shirt L/s Noos Camisa  Blanco  White Fit:Slim Fit   X-Large para Hombre](https://www.amazon.es/dp/B071GZ6ZD4/?tag=tolees-21) con un 33.76 % de descuento con precio de oferta de 26.49 EUR (original: 39.99 EUR) en el siguiente enlace!
@@ -24,9 +28,9 @@ Tienes [Jack & Jones Jprnon Iron Shirt L/s Noos Camisa  Blanco  White Fit:Slim F
 
 Características principales:
 
-- Camisa de manga larga de color blanco. Cierre con botones. Corte slim fit.
-- Modelo: 12125792 JPRNON IRON SHIRT L/S NOOS WHITE/SLIM FIT
 - Marca: Jack&Jones
+- Modelo: 12125792 JPRNON IRON SHIRT L/S NOOS WHITE/SLIM FIT
+- Camisa de manga larga de color blanco. Cierre con botones. Corte slim fit.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B071GZ6ZD4/?tag=tolees-21)
 

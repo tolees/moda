@@ -3,6 +3,7 @@ layout: post
 title: 'Women s Secret SF Satin Soft Robe Vestid al 64.95 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Kc78cL5uL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31Kc78cL5uL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Kc78cL5uL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'Women s Secret SF Satin Soft Robe Vestido  Mujer  Gris  Gris 44   Large  Tamaño del Fabricante:L '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DLGNKPM/?tag=tolees-21'
+descuento: '64.95'
+titulo: 'Women s Secret SF Satin Soft Robe Vestid'
 ---
 
 Está [Women s Secret SF Satin Soft Robe Vestido  Mujer  Gris  Gris 44   Large  Tamaño del Fabricante:L ](https://www.amazon.es/dp/B07DLGNKPM/?tag=tolees-21) con 64.95 de descuento por 10.51 EUR (original: 29.99 EUR) en el siguiente enlace!

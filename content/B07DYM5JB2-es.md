@@ -3,6 +3,7 @@ layout: post
 title: 'Roxy Tahiti Vi  Zapatos de Playa y Pisci al 50.23 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413Dk06iQLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/413Dk06iQLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413Dk06iQLL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'Roxy Tahiti Vi  Zapatos de Playa y Piscina para Mujer  Azul  Navy/Blue/White Nav   38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DYM5JB2/?tag=tolees-21'
+descuento: '50.23'
+titulo: 'Roxy Tahiti Vi  Zapatos de Playa y Pisci'
 ---
 
 Ahora mismo tienes [Roxy Tahiti Vi  Zapatos de Playa y Piscina para Mujer  Azul  Navy/Blue/White Nav   38 EU](https://www.amazon.es/dp/B07DYM5JB2/?tag=tolees-21) a 9.95 EUR (original: 19.99 EUR) (50.23 %  de descuento) en el siguiente enlace!

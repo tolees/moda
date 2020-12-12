@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 43.50 % en Nike W Np Top Ss All Over Mesh  Camiseta'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DZkC6vcwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41DZkC6vcwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DZkC6vcwL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 30 EUR
 inStock: true
 prodname: 'Nike W Np Top Ss All Over Mesh  Camiseta para Mujer  negro  Talla S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071RS4JKB/?tag=tolees-21'
+descuento: '43.50'
+titulo: 'Nike W Np Top Ss All Over Mesh  Camiseta'
 ---
 
 Tienes [Nike W Np Top Ss All Over Mesh  Camiseta para Mujer  negro  Talla S](https://www.amazon.es/dp/B071RS4JKB/?tag=tolees-21) con un 43.50 % de descuento con precio de oferta de 16.95 EUR (original: 30 EUR) en el siguiente enlace!

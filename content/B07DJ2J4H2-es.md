@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 69.04 % en New Balance 230  Zapatos de Playa y Pisc'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31x0czqvsGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31x0czqvsGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31x0czqvsGL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 25 EUR
 inStock: true
 prodname: 'New Balance 230  Zapatos de Playa y Piscina Unisex Adulto  Rosa  Confetti/White Pink   40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DJ2J4H2/?tag=tolees-21'
+descuento: '69.04'
+titulo: 'New Balance 230  Zapatos de Playa y Pisc'
 ---
 
 Tienes [New Balance 230  Zapatos de Playa y Piscina Unisex Adulto  Rosa  Confetti/White Pink   40 EU](https://www.amazon.es/dp/B07DJ2J4H2/?tag=tolees-21) con un 69.04 % de descuento con precio de oferta de 7.74 EUR (original: 25 EUR) en el siguiente enlace!

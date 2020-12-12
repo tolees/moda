@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 58.08 % en Superdry Arctic Hooded Pop Zip Windchea '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414nTTm-MUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/414nTTm-MUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414nTTm-MUL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 129.9 EUR
 inStock: true
 prodname: 'Superdry Arctic Hooded Pop Zip Windchea Chaqueta Deportiva  Azul  New Navy Marl/Ecru Un4   Large para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FLD923B/?tag=tolees-21'
+descuento: '58.08'
+titulo: 'Superdry Arctic Hooded Pop Zip Windchea '
 ---
 
 Tienes [Superdry Arctic Hooded Pop Zip Windchea Chaqueta Deportiva  Azul  New Navy Marl/Ecru Un4   Large para Hombre](https://www.amazon.es/dp/B07FLD923B/?tag=tolees-21) con un 58.08 % de descuento con precio de oferta de 54.46 EUR (original: 129.9 EUR) en el siguiente enlace!

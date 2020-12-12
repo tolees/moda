@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 33.48 % en Crocs Sexi Flip Women  Sandalias para Mu'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31UOLoUKU%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31UOLoUKU%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31UOLoUKU%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'Crocs Sexi Flip Women  Sandalias para Mujer  Marrón Espresso  41/42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00HDD6SYY/?tag=tolees-21'
+descuento: '33.48'
+titulo: 'Crocs Sexi Flip Women  Sandalias para Mu'
 ---
 
 Tienes [Crocs Sexi Flip Women  Sandalias para Mujer  Marrón Espresso  41/42 EU](https://www.amazon.es/dp/B00HDD6SYY/?tag=tolees-21) con un 33.48 % de descuento con precio de oferta de 19.95 EUR (original: 29.99 EUR) en el siguiente enlace!

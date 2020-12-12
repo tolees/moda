@@ -3,6 +3,7 @@ layout: post
 title: 'The North Face Ambition 1/4 Zip Midlayer al 61.08 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41sgH80vZML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41sgH80vZML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41sgH80vZML._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 75 EUR
 inStock: true
 prodname: 'The North Face Ambition 1/4 Zip Midlayer Camiseta con Cremallera para Hombre  Bomber Blue  M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07LH8W7KZ/?tag=tolees-21'
+descuento: '61.08'
+titulo: 'The North Face Ambition 1/4 Zip Midlayer'
 ---
 
 Está [The North Face Ambition 1/4 Zip Midlayer Camiseta con Cremallera para Hombre  Bomber Blue  M](https://www.amazon.es/dp/B07LH8W7KZ/?tag=tolees-21) con 61.08 de descuento por 29.19 EUR (original: 75 EUR) en el siguiente enlace!

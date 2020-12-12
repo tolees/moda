@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 51.40 % en Tommy Jeans Hombre Dobby  Camisa Manga L'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MaluPSq9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41MaluPSq9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41MaluPSq9L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 75 EUR
 inStock: true
 prodname: 'Tommy Jeans Hombre Dobby  Camisa Manga Larga Normal Blanco  Classic White 100  Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HH5GPCL/?tag=tolees-21'
+descuento: '51.40'
+titulo: 'Tommy Jeans Hombre Dobby  Camisa Manga L'
 ---
 
 Tienes [Tommy Jeans Hombre Dobby  Camisa Manga Larga Normal Blanco  Classic White 100  Large](https://www.amazon.es/dp/B07HH5GPCL/?tag=tolees-21) con un 51.40 % de descuento con precio de oferta de 36.45 EUR (original: 75 EUR) en el siguiente enlace!

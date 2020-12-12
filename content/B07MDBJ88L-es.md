@@ -3,6 +3,7 @@ layout: post
 title: 'G-STAR RAW Civita Slim T-Shirt Camiseta  al 65.08 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ac4j4wKqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ac4j4wKqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ac4j4wKqL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 29.95 EUR
 inStock: true
 prodname: 'G-STAR RAW Civita Slim T-Shirt Camiseta  Rosa  pyg 7176   X-Small para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MDBJ88L/?tag=tolees-21'
+descuento: '65.08'
+titulo: 'G-STAR RAW Civita Slim T-Shirt Camiseta '
 ---
 
 Ahora mismo tienes [G-STAR RAW Civita Slim T-Shirt Camiseta  Rosa  pyg 7176   X-Small para Mujer](https://www.amazon.es/dp/B07MDBJ88L/?tag=tolees-21) a 10.46 EUR (original: 29.95 EUR) (65.08 %  de descuento) en el siguiente enlace!

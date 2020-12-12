@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour Vanish Seamless LS Novelty  al 52.74 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qaQThqKZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41qaQThqKZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qaQThqKZL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 54.99 EUR
 inStock: true
 prodname: 'Under Armour Vanish Seamless LS Novelty Camiseta de Manga Larga  Hombre  Gris  Mod Gray/Black 011   M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KGYLTGX/?tag=tolees-21'
+descuento: '52.74'
+titulo: 'Under Armour Vanish Seamless LS Novelty '
 ---
 
 Está [Under Armour Vanish Seamless LS Novelty Camiseta de Manga Larga  Hombre  Gris  Mod Gray/Black 011   M](https://www.amazon.es/dp/B07KGYLTGX/?tag=tolees-21) con 52.74 de descuento por 25.99 EUR (original: 54.99 EUR) en el siguiente enlace!

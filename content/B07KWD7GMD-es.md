@@ -3,6 +3,7 @@ layout: post
 title: 'adidas TT Chaqueta  Mujer  Negro  34 al 37.17 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51j86ha-HfL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51j86ha-HfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51j86ha-HfL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'adidas TT Chaqueta  Mujer  Negro  34'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KWD7GMD/?tag=tolees-21'
+descuento: '37.17'
+titulo: 'adidas TT Chaqueta  Mujer  Negro  34'
 ---
 
 Ahora mismo tienes [adidas TT Chaqueta  Mujer  Negro  34](https://www.amazon.es/dp/B07KWD7GMD/?tag=tolees-21) a 43.95 EUR (original: 69.95 EUR) (37.17 %  de descuento) en el siguiente enlace!

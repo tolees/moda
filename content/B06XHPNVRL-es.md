@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 63.72 % en Geox Jr Sofia J  Zapatos de Cordones Der'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YJ7JE1MjL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41YJ7JE1MjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YJ7JE1MjL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 65 EUR
 inStock: true
 prodname: 'Geox Jr Sofia J  Zapatos de Cordones Derby para Niñas  Negro  Black   32 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XHPNVRL/?tag=tolees-21'
+descuento: '63.72'
+titulo: 'Geox Jr Sofia J  Zapatos de Cordones Der'
 ---
 
 Tienes [Geox Jr Sofia J  Zapatos de Cordones Derby para Niñas  Negro  Black   32 EU](https://www.amazon.es/dp/B06XHPNVRL/?tag=tolees-21) con un 63.72 % de descuento con precio de oferta de 23.58 EUR (original: 65 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Nike FCB Y Nk BRT Stad JSY SS Hm Camiset al 47.16 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TTTKzGJuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41TTTKzGJuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TTTKzGJuL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 70 EUR
 inStock: true
 prodname: 'Nike FCB Y Nk BRT Stad JSY SS Hm Camiseta  Unisex niños  Azul  Deep Royal Blue/University Gold   XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D9BGZDW/?tag=tolees-21'
+descuento: '47.16'
+titulo: 'Nike FCB Y Nk BRT Stad JSY SS Hm Camiset'
 ---
 
 Está [Nike FCB Y Nk BRT Stad JSY SS Hm Camiseta  Unisex niños  Azul  Deep Royal Blue/University Gold   XL](https://www.amazon.es/dp/B07D9BGZDW/?tag=tolees-21) con 47.16 de descuento por 36.99 EUR (original: 70 EUR) en el siguiente enlace!

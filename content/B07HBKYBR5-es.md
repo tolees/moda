@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.20 % en Spiderman Marvel Red Web\  Camiseta para'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51UbxSCDJxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51UbxSCDJxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51UbxSCDJxL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 12.37 EUR
 inStock: true
 prodname: 'Spiderman Marvel Red Web\  Camiseta para Niños  Negro  Black  6-7 años'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HBKYBR5/?tag=tolees-21'
+descuento: '50.20'
+titulo: 'Spiderman Marvel Red Web\  Camiseta para'
 ---
 
 Tienes [Spiderman Marvel Red Web\  Camiseta para Niños  Negro  Black  6-7 años](https://www.amazon.es/dp/B07HBKYBR5/?tag=tolees-21) con un 50.20 % de descuento con precio de oferta de 6.16 EUR (original: 12.37 EUR) en el siguiente enlace!

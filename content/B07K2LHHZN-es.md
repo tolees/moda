@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 65.79 % en Love Moschino \" Give Me Love\ Embroider'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31pvc36Sq0L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31pvc36Sq0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31pvc36Sq0L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 268 EUR
 inStock: true
 prodname: 'Love Moschino \" Give Me Love\ Embroidery_Short Sleeve Knitted Dress Vestido  Negro  Black C74   44  Talla del Fabricante: 46  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K2LHHZN/?tag=tolees-21'
+descuento: '65.79'
+titulo: 'Love Moschino \" Give Me Love\ Embroider'
 ---
 
 Tienes [Love Moschino \" Give Me Love\ Embroidery_Short Sleeve Knitted Dress Vestido  Negro  Black C74   44  Talla del Fabricante: 46  para Mujer](https://www.amazon.es/dp/B07K2LHHZN/?tag=tolees-21) con un 65.79 % de descuento con precio de oferta de 91.67 EUR (original: 268 EUR) en el siguiente enlace!

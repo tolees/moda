@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.27 % en Levi s Sweat Nos Batwi  Sudadera para Ni'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41aseAM-TQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41aseAM-TQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41aseAM-TQL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 42.95 EUR
 inStock: true
 prodname: 'Levi s Sweat Nos Batwi  Sudadera para Niños  Azul  Marine   14 años'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06Y2D7BXT/?tag=tolees-21'
+descuento: '30.27'
+titulo: 'Levi s Sweat Nos Batwi  Sudadera para Ni'
 ---
 
 Tienes [Levi s Sweat Nos Batwi  Sudadera para Niños  Azul  Marine   14 años](https://www.amazon.es/dp/B06Y2D7BXT/?tag=tolees-21) con un 30.27 % de descuento con precio de oferta de 29.95 EUR (original: 42.95 EUR) en el siguiente enlace!

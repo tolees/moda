@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 84.88 % en G-STAR RAW Shape High Waist Super Skinny'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31c2SaXqHuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31c2SaXqHuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31c2SaXqHuL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 129.95 EUR
 inStock: true
 prodname: 'G-STAR RAW Shape High Waist Super Skinny Vaqueros  Azul  Rinsed 9425-082   23W / 30L para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BMJJ5TH/?tag=tolees-21'
+descuento: '84.88'
+titulo: 'G-STAR RAW Shape High Waist Super Skinny'
 ---
 
 Tienes [G-STAR RAW Shape High Waist Super Skinny Vaqueros  Azul  Rinsed 9425-082   23W / 30L para Mujer](https://www.amazon.es/dp/B07BMJJ5TH/?tag=tolees-21) con un 84.88 % de descuento con precio de oferta de 19.65 EUR (original: 129.95 EUR) en el siguiente enlace!

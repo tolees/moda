@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour UA Pursuit Full Zip Hoody S al 59.28 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51JyVsJHSQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51JyVsJHSQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51JyVsJHSQL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 90 EUR
 inStock: true
 prodname: 'Under Armour UA Pursuit Full Zip Hoody Sudadera  Hombre  Negro  002   XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071FBSZ96/?tag=tolees-21'
+descuento: '59.28'
+titulo: 'Under Armour UA Pursuit Full Zip Hoody S'
 ---
 
 Ahora mismo tienes [Under Armour UA Pursuit Full Zip Hoody Sudadera  Hombre  Negro  002   XL](https://www.amazon.es/dp/B071FBSZ96/?tag=tolees-21) a 36.65 EUR (original: 90 EUR) (59.28 %  de descuento) en el siguiente enlace!

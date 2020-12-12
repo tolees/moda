@@ -3,6 +3,7 @@ layout: post
 title: 'BILLABONG Balance Crew - Sudadera para H al 28.73 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41adnfTvkLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41adnfTvkLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41adnfTvkLL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 42.91 EUR
 inStock: true
 prodname: 'BILLABONG Balance Crew - Sudadera para Hombre  Hombre  Balance Crew  Red Clay  Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MTUCWZZ/?tag=tolees-21'
+descuento: '28.73'
+titulo: 'BILLABONG Balance Crew - Sudadera para H'
 ---
 
 Está [BILLABONG Balance Crew - Sudadera para Hombre  Hombre  Balance Crew  Red Clay  Large](https://www.amazon.es/dp/B01MTUCWZZ/?tag=tolees-21) con 28.73 de descuento por 30.58 EUR (original: 42.91 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 73.35 % en find. Abrigo Midi de Corte Recto en Tela'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31okwS0Lw0L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31okwS0Lw0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31okwS0Lw0L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 65 EUR
 inStock: true
 prodname: 'find. Abrigo Midi de Corte Recto en Tela Ligera Mujer  Negro  Black   42  Talla del Fabricante: Large '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072RDCFKV/?tag=tolees-21'
+descuento: '73.35'
+titulo: 'find. Abrigo Midi de Corte Recto en Tela'
 ---
 
 Tienes [find. Abrigo Midi de Corte Recto en Tela Ligera Mujer  Negro  Black   42  Talla del Fabricante: Large ](https://www.amazon.es/dp/B072RDCFKV/?tag=tolees-21) con un 73.35 % de descuento con precio de oferta de 17.32 EUR (original: 65 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour London Big Logo SS T Camise al 47.96 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415kv-dd6mL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/415kv-dd6mL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415kv-dd6mL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 26 EUR
 inStock: true
 prodname: 'Under Armour London Big Logo SS T Camiseta de Manga Corta  Hombre  Blanco  100   XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077GYNXLX/?tag=tolees-21'
+descuento: '47.96'
+titulo: 'Under Armour London Big Logo SS T Camise'
 ---
 
 Ahora mismo tienes [Under Armour London Big Logo SS T Camiseta de Manga Corta  Hombre  Blanco  100   XL](https://www.amazon.es/dp/B077GYNXLX/?tag=tolees-21) a 13.53 EUR (original: 26 EUR) (47.96 %  de descuento) en el siguiente enlace!

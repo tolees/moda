@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 84.11 % en Pepe Jeans Jeanius  Vaqueros relaxed par'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41AcrJPVs8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41AcrJPVs8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41AcrJPVs8L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 90 EUR
 inStock: true
 prodname: 'Pepe Jeans Jeanius  Vaqueros relaxed para Hombre  Azul  11Oz Sanfore Twist N56   W29/L34'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B014NMK1PO/?tag=tolees-21'
+descuento: '84.11'
+titulo: 'Pepe Jeans Jeanius  Vaqueros relaxed par'
 ---
 
 Tienes [Pepe Jeans Jeanius  Vaqueros relaxed para Hombre  Azul  11Oz Sanfore Twist N56   W29/L34](https://www.amazon.es/dp/B014NMK1PO/?tag=tolees-21) con un 84.11 % de descuento con precio de oferta de 14.3 EUR (original: 90 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Ventilador USB de Mano Mini collar Portá al 42.94 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51fWdvzxkPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51fWdvzxkPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51fWdvzxkPL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 27.99 EUR
 inStock: true
 prodname: 'Ventilador USB de Mano Mini collar Portátiles de Escritorio Recargable con 3 de Velocidad 4-8H Horas de Trabajo Ajuste Giratorio de 180 ° Tamaño de la Palma de la Para Viajes de Oficina en el Exterior'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07R6Q15DT/?tag=tolees-21'
+descuento: '42.94'
+titulo: 'Ventilador USB de Mano Mini collar Portá'
 ---
 
 Está [Ventilador USB de Mano Mini collar Portátiles de Escritorio Recargable con 3 de Velocidad 4-8H Horas de Trabajo Ajuste Giratorio de 180 ° Tamaño de la Palma de la Para Viajes de Oficina en el Exterior](https://www.amazon.es/dp/B07R6Q15DT/?tag=tolees-21) con 42.94 de descuento por 15.97 EUR (original: 27.99 EUR) en el siguiente enlace!

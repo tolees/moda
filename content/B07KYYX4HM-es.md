@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield 3.T.Ap.Blazer Circular Chaqu al 70.63 % de descuento'
 date: 
 thumbnailImage: ''
+image: ''
 images: [ '' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 35.99 EUR
 inStock: true
 prodname: 'Springfield 3.T.Ap.Blazer Circular Chaqueta  Dorado  Tostado 50   Medium  Tamaño del Fabricante:M  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KYYX4HM/?tag=tolees-21'
+descuento: '70.63'
+titulo: 'Springfield 3.T.Ap.Blazer Circular Chaqu'
 ---
 
 Ahora mismo tienes [Springfield 3.T.Ap.Blazer Circular Chaqueta  Dorado  Tostado 50   Medium  Tamaño del Fabricante:M  para Mujer](https://www.amazon.es/dp/B07KYYX4HM/?tag=tolees-21) a 10.57 EUR (original: 35.99 EUR) (70.63 %  de descuento) en el siguiente enlace!

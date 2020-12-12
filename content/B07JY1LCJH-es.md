@@ -3,6 +3,7 @@ layout: post
 title: 'JACK & JONES Jcotour Shirt LS Worker Cam al 69.87 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41550i4kcML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41550i4kcML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41550i4kcML._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'JACK & JONES Jcotour Shirt LS Worker Camisa  Tango Red Fit:/Slim  Small para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JY1LCJH/?tag=tolees-21'
+descuento: '69.87'
+titulo: 'JACK & JONES Jcotour Shirt LS Worker Cam'
 ---
 
 Ahora mismo tienes [JACK & JONES Jcotour Shirt LS Worker Camisa  Tango Red Fit:/Slim  Small para Hombre](https://www.amazon.es/dp/B07JY1LCJH/?tag=tolees-21) a 12.05 EUR (original: 39.99 EUR) (69.87 %  de descuento) en el siguiente enlace!

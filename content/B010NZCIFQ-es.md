@@ -3,6 +3,7 @@ layout: post
 title: 'Columbia Silver Ridge C Pantalón Corto c al 50.72 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419i0y7VKuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/419i0y7VKuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419i0y7VKuL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 54.95 EUR
 inStock: true
 prodname: 'Columbia Silver Ridge C Pantalón Corto con Protección Solar 50  Hombre  Gris  Grey Ash   32'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B010NZCIFQ/?tag=tolees-21'
+descuento: '50.72'
+titulo: 'Columbia Silver Ridge C Pantalón Corto c'
 ---
 
 Está [Columbia Silver Ridge C Pantalón Corto con Protección Solar 50  Hombre  Gris  Grey Ash   32](https://www.amazon.es/dp/B010NZCIFQ/?tag=tolees-21) con 50.72 de descuento por 27.08 EUR (original: 54.95 EUR) en el siguiente enlace!

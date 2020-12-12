@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 41.08 % en The North Face Horizon Peak Pantalón Cor'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410WLLtqyrL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/410WLLtqyrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410WLLtqyrL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 50 EUR
 inStock: true
 prodname: 'The North Face Horizon Peak Pantalón Corto  Hombre  Gris  Asphalt Grey   36 REG'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078HTS8J7/?tag=tolees-21'
+descuento: '41.08'
+titulo: 'The North Face Horizon Peak Pantalón Cor'
 ---
 
 Tienes [The North Face Horizon Peak Pantalón Corto  Hombre  Gris  Asphalt Grey   36 REG](https://www.amazon.es/dp/B078HTS8J7/?tag=tolees-21) con un 41.08 % de descuento con precio de oferta de 29.46 EUR (original: 50 EUR) en el siguiente enlace!

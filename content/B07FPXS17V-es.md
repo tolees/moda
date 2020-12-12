@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 67.78 % en JACK & JONES Jorxmaspocket tee SS Crew N'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41VknlkP5JL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41VknlkP5JL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41VknlkP5JL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 14.99 EUR
 inStock: true
 prodname: 'JACK & JONES Jorxmaspocket tee SS Crew Neck  Camiseta para Hombre  Deep Teal  Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FPXS17V/?tag=tolees-21'
+descuento: '67.78'
+titulo: 'JACK & JONES Jorxmaspocket tee SS Crew N'
 ---
 
 Tienes [JACK & JONES Jorxmaspocket tee SS Crew Neck  Camiseta para Hombre  Deep Teal  Large](https://www.amazon.es/dp/B07FPXS17V/?tag=tolees-21) con un 67.78 % de descuento con precio de oferta de 4.83 EUR (original: 14.99 EUR) en el siguiente enlace!

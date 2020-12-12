@@ -3,6 +3,7 @@ layout: post
 title: 'Lacoste Sport Sh3542 Sudadera   Marine F al 50.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41joGXmDJWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41joGXmDJWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41joGXmDJWL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 120 EUR
 inStock: true
 prodname: 'Lacoste Sport Sh3542 Sudadera   Marine Forest-Blanc 847   Medium  Talla del Fabricante: 4  para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JDTF39D/?tag=tolees-21'
+descuento: '50.00'
+titulo: 'Lacoste Sport Sh3542 Sudadera   Marine F'
 ---
 
 Está [Lacoste Sport Sh3542 Sudadera   Marine Forest-Blanc 847   Medium  Talla del Fabricante: 4  para Hombre](https://www.amazon.es/dp/B07JDTF39D/?tag=tolees-21) con 50.00 de descuento por 60 EUR (original: 120 EUR) en el siguiente enlace!

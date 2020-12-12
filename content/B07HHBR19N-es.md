@@ -3,6 +3,7 @@ layout: post
 title: 'Tommy Hilfiger Holli C-nk tee SS  Camise al 57.83 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31nUm6RSLjL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31nUm6RSLjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31nUm6RSLjL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 29.9 EUR
 inStock: true
 prodname: 'Tommy Hilfiger Holli C-nk tee SS  Camiseta para Mujer  Blanco  Classic White / Silver Foil 905   X-Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HHBR19N/?tag=tolees-21'
+descuento: '57.83'
+titulo: 'Tommy Hilfiger Holli C-nk tee SS  Camise'
 ---
 
 Ahora mismo tienes [Tommy Hilfiger Holli C-nk tee SS  Camiseta para Mujer  Blanco  Classic White / Silver Foil 905   X-Large](https://www.amazon.es/dp/B07HHBR19N/?tag=tolees-21) a 12.61 EUR (original: 29.9 EUR) (57.83 %  de descuento) en el siguiente enlace!

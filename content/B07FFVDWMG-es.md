@@ -3,6 +3,7 @@ layout: post
 title: 'Lee Boxed Logo tee  Camiseta para Hombre al 73.19 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31%2BvR4greTL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31%2BvR4greTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31%2BvR4greTL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 29.95 EUR
 inStock: true
 prodname: 'Lee Boxed Logo tee  Camiseta para Hombre  Blanco  White 12   Small'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FFVDWMG/?tag=tolees-21'
+descuento: '73.19'
+titulo: 'Lee Boxed Logo tee  Camiseta para Hombre'
 ---
 
 Está [Lee Boxed Logo tee  Camiseta para Hombre  Blanco  White 12   Small](https://www.amazon.es/dp/B07FFVDWMG/?tag=tolees-21) con 73.19 de descuento por 8.03 EUR (original: 29.95 EUR) en el siguiente enlace!

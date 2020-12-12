@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 71.08 % en Gant O1. TP Royal OXF Reg BD Camisa  Azu'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31qZQpMCYjL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31qZQpMCYjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31qZQpMCYjL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 99.99 EUR
 inStock: true
 prodname: 'Gant O1. TP Royal OXF Reg BD Camisa  Azul  Blue Lagoon 441   XXX-Large para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KPPZ5RR/?tag=tolees-21'
+descuento: '71.08'
+titulo: 'Gant O1. TP Royal OXF Reg BD Camisa  Azu'
 ---
 
 Tienes [Gant O1. TP Royal OXF Reg BD Camisa  Azul  Blue Lagoon 441   XXX-Large para Hombre](https://www.amazon.es/dp/B07KPPZ5RR/?tag=tolees-21) con un 71.08 % de descuento con precio de oferta de 28.92 EUR (original: 99.99 EUR) en el siguiente enlace!

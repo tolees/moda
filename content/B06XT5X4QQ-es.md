@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.02 % en Iris & Lilly Sujetador Reductor con Aros'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41sL1nHEgaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41sL1nHEgaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41sL1nHEgaL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 17.99 EUR
 inStock: true
 prodname: 'Iris & Lilly Sujetador Reductor con Aros para Mujer  Blanco  White   90D  Talla del fabricante: 34D '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XT5X4QQ/?tag=tolees-21'
+descuento: '30.02'
+titulo: 'Iris & Lilly Sujetador Reductor con Aros'
 ---
 
 Tienes [Iris & Lilly Sujetador Reductor con Aros para Mujer  Blanco  White   90D  Talla del fabricante: 34D ](https://www.amazon.es/dp/B06XT5X4QQ/?tag=tolees-21) con un 30.02 % de descuento con precio de oferta de 12.59 EUR (original: 17.99 EUR) en el siguiente enlace!

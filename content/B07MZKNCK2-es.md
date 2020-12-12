@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 37.46 % en adidas 3 Stripes Vestido de Tenis  Mujer'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31fjResGG2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31fjResGG2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31fjResGG2L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 31.95 EUR
 inStock: true
 prodname: 'adidas 3 Stripes Vestido de Tenis  Mujer  azuosc  36'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MZKNCK2/?tag=tolees-21'
+descuento: '37.46'
+titulo: 'adidas 3 Stripes Vestido de Tenis  Mujer'
 ---
 
 Tienes [adidas 3 Stripes Vestido de Tenis  Mujer  azuosc  36](https://www.amazon.es/dp/B07MZKNCK2/?tag=tolees-21) con un 37.46 % de descuento con precio de oferta de 19.98 EUR (original: 31.95 EUR) en el siguiente enlace!

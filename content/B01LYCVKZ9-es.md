@@ -3,6 +3,7 @@ layout: post
 title: 'Geographical Norway Chaqueta Negro ES 40 al 86.02 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KmCSrNlYL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41KmCSrNlYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41KmCSrNlYL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 129 EUR
 inStock: true
 prodname: 'Geographical Norway Chaqueta Negro ES 40  DE 38 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01LYCVKZ9/?tag=tolees-21'
+descuento: '86.02'
+titulo: 'Geographical Norway Chaqueta Negro ES 40'
 ---
 
 Está [Geographical Norway Chaqueta Negro ES 40  DE 38 ](https://www.amazon.es/dp/B01LYCVKZ9/?tag=tolees-21) con 86.02 de descuento por 18.03 EUR (original: 129 EUR) en el siguiente enlace!

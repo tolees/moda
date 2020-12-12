@@ -3,6 +3,7 @@ layout: post
 title: 'Celio Modestaire  Vaqueros Slim para Hom al 52.42 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ghNIG6IaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ghNIG6IaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ghNIG6IaL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'Celio Modestaire  Vaqueros Slim para Hombre  Negro Blue Black  W34/L34  Talla del Fabricante: 44 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F1RYHWN/?tag=tolees-21'
+descuento: '52.42'
+titulo: 'Celio Modestaire  Vaqueros Slim para Hom'
 ---
 
 Ahora mismo tienes [Celio Modestaire  Vaqueros Slim para Hombre  Negro Blue Black  W34/L34  Talla del Fabricante: 44 ](https://www.amazon.es/dp/B07F1RYHWN/?tag=tolees-21) a 14.27 EUR (original: 29.99 EUR) (52.42 %  de descuento) en el siguiente enlace!

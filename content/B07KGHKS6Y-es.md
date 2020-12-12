@@ -3,6 +3,7 @@ layout: post
 title: 'BOSS Twell Camiseta  Blanco  White 100   al 71.71 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31RP-A7IPuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31RP-A7IPuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31RP-A7IPuL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'BOSS Twell Camiseta  Blanco  White 100   X-Large para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KGHKS6Y/?tag=tolees-21'
+descuento: '71.71'
+titulo: 'BOSS Twell Camiseta  Blanco  White 100  '
 ---
 
 Está [BOSS Twell Camiseta  Blanco  White 100   X-Large para Hombre](https://www.amazon.es/dp/B07KGHKS6Y/?tag=tolees-21) con 71.71 de descuento por 19.79 EUR (original: 69.95 EUR) en el siguiente enlace!

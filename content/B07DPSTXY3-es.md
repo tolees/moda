@@ -3,6 +3,7 @@ layout: post
 title: 'Levi s 502 Regular Taper  Vaqueros Taper al 59.22 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OG0X2eN-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41OG0X2eN-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41OG0X2eN-L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 100 EUR
 inStock: true
 prodname: 'Levi s 502 Regular Taper  Vaqueros Tapered para Hombre  Azul  Quickstep T2 0281   W29/L32  Talla del fabricante: 29/32 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DPSTXY3/?tag=tolees-21'
+descuento: '59.22'
+titulo: 'Levi s 502 Regular Taper  Vaqueros Taper'
 ---
 
 Está [Levi s 502 Regular Taper  Vaqueros Tapered para Hombre  Azul  Quickstep T2 0281   W29/L32  Talla del fabricante: 29/32 ](https://www.amazon.es/dp/B07DPSTXY3/?tag=tolees-21) con 59.22 de descuento por 40.78 EUR (original: 100 EUR) en el siguiente enlace!

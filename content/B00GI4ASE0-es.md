@@ -3,6 +3,7 @@ layout: post
 title: 'I-D-C CID Vd-pe10759t Camiseta de Tirant al 58.91 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OsDeDvI7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41OsDeDvI7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41OsDeDvI7L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 13.63 EUR
 inStock: true
 prodname: 'I-D-C CID Vd-pe10759t Camiseta de Tirantes  Azul  Blue   X-Large para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00GI4ASE0/?tag=tolees-21'
+descuento: '58.91'
+titulo: 'I-D-C CID Vd-pe10759t Camiseta de Tirant'
 ---
 
 Está [I-D-C CID Vd-pe10759t Camiseta de Tirantes  Azul  Blue   X-Large para Hombre](https://www.amazon.es/dp/B00GI4ASE0/?tag=tolees-21) con 58.91 de descuento por 5.6 EUR (original: 13.63 EUR) en el siguiente enlace!

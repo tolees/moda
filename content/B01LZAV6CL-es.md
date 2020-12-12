@@ -3,6 +3,7 @@ layout: post
 title: 'ESPRIT Collection 106EO1E003 - Regular F al 87.33 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bO-Iw-eUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41bO-Iw-eUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bO-Iw-eUL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 69.99 EUR
 inStock: true
 prodname: 'ESPRIT Collection 106EO1E003 - Regular Fit  vestido Mujer  Marrón  Taupe 5   42  Talla del fabricante: X-Large '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01LZAV6CL/?tag=tolees-21'
+descuento: '87.33'
+titulo: 'ESPRIT Collection 106EO1E003 - Regular F'
 ---
 
 Está [ESPRIT Collection 106EO1E003 - Regular Fit  vestido Mujer  Marrón  Taupe 5   42  Talla del fabricante: X-Large ](https://www.amazon.es/dp/B01LZAV6CL/?tag=tolees-21) con 87.33 de descuento por 8.87 EUR (original: 69.99 EUR) en el siguiente enlace!

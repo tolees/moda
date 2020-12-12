@@ -3,6 +3,7 @@ layout: post
 title: 'New Look Ursula Blusa  Negro  Black Patt al 46.97 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HwHY2kKxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41HwHY2kKxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HwHY2kKxL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 19.97 EUR
 inStock: true
 prodname: 'New Look Ursula Blusa  Negro  Black Pattern   40  Talla del Fabricante: 12  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GRDG426/?tag=tolees-21'
+descuento: '46.97'
+titulo: 'New Look Ursula Blusa  Negro  Black Patt'
 ---
 
 Está [New Look Ursula Blusa  Negro  Black Pattern   40  Talla del Fabricante: 12  para Mujer](https://www.amazon.es/dp/B07GRDG426/?tag=tolees-21) con 46.97 de descuento por 10.59 EUR (original: 19.97 EUR) en el siguiente enlace!

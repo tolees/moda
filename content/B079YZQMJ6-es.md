@@ -3,6 +3,7 @@ layout: post
 title: 'Timberland Perkins Row 2-Strap  Sandalia al 28.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wggPNE4YL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41wggPNE4YL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wggPNE4YL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 50 EUR
 inStock: true
 prodname: 'Timberland Perkins Row 2-Strap  Sandalias de Punta Descubierta Unisex niños  Gris  Brindle   38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079YZQMJ6/?tag=tolees-21'
+descuento: '28.00'
+titulo: 'Timberland Perkins Row 2-Strap  Sandalia'
 ---
 
 Está [Timberland Perkins Row 2-Strap  Sandalias de Punta Descubierta Unisex niños  Gris  Brindle   38 EU](https://www.amazon.es/dp/B079YZQMJ6/?tag=tolees-21) con 28.00 de descuento por 36 EUR (original: 50 EUR) en el siguiente enlace!

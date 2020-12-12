@@ -3,6 +3,7 @@ layout: post
 title: 'Superdry Field Retro tee  Camiseta de Ti al 77.18 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kjFp5NrHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41kjFp5NrHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kjFp5NrHL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 45 EUR
 inStock: true
 prodname: 'Superdry Field Retro tee  Camiseta de Tirantes para Hombre  Azul  Pitch Navy Upu  Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FL5BY7P/?tag=tolees-21'
+descuento: '77.18'
+titulo: 'Superdry Field Retro tee  Camiseta de Ti'
 ---
 
 Está [Superdry Field Retro tee  Camiseta de Tirantes para Hombre  Azul  Pitch Navy Upu  Large](https://www.amazon.es/dp/B07FL5BY7P/?tag=tolees-21) con 77.18 de descuento por 10.27 EUR (original: 45 EUR) en el siguiente enlace!

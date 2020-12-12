@@ -3,6 +3,7 @@ layout: post
 title: 'Quiksilver LYA Base Camiseta  Niños  Gri al 68.53 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kVGI9JXEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41kVGI9JXEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kVGI9JXEL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 25.99 EUR
 inStock: true
 prodname: 'Quiksilver LYA Base Camiseta  Niños  Gris  Light Grey Heather SJSH    Tamaño del Fabricante:S/10 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DHV1ZV9/?tag=tolees-21'
+descuento: '68.53'
+titulo: 'Quiksilver LYA Base Camiseta  Niños  Gri'
 ---
 
 Ahora mismo tienes [Quiksilver LYA Base Camiseta  Niños  Gris  Light Grey Heather SJSH    Tamaño del Fabricante:S/10 ](https://www.amazon.es/dp/B07DHV1ZV9/?tag=tolees-21) a 8.18 EUR (original: 25.99 EUR) (68.53 %  de descuento) en el siguiente enlace!

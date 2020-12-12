@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 73.34 % en The North Face W Kayenta Chaqueta  Mujer'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wdOSUhfsL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41wdOSUhfsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wdOSUhfsL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 190 EUR
 inStock: true
 prodname: 'The North Face W Kayenta Chaqueta  Mujer  Verde  Trellis Green   M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N9X3I5H/?tag=tolees-21'
+descuento: '73.34'
+titulo: 'The North Face W Kayenta Chaqueta  Mujer'
 ---
 
 Tienes [The North Face W Kayenta Chaqueta  Mujer  Verde  Trellis Green   M](https://www.amazon.es/dp/B01N9X3I5H/?tag=tolees-21) con un 73.34 % de descuento con precio de oferta de 50.65 EUR (original: 190 EUR) en el siguiente enlace!

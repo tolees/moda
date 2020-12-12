@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 25.03 % en Levi s Sweater Sudadera con Capucha  Bla'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ebtQAj1NL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51ebtQAj1NL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ebtQAj1NL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 44.95 EUR
 inStock: true
 prodname: 'Levi s Sweater Sudadera con Capucha  Blau  Navy 04   104  Herstellergröße: 4A  para Niños'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00LB5YC34/?tag=tolees-21'
+descuento: '25.03'
+titulo: 'Levi s Sweater Sudadera con Capucha  Bla'
 ---
 
 Tienes [Levi s Sweater Sudadera con Capucha  Blau  Navy 04   104  Herstellergröße: 4A  para Niños](https://www.amazon.es/dp/B00LB5YC34/?tag=tolees-21) con un 25.03 % de descuento con precio de oferta de 33.7 EUR (original: 44.95 EUR) en el siguiente enlace!

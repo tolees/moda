@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 39.73 % en Refresh 69769  Sandalias con Punta Cerra'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41slAoLB8pL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41slAoLB8pL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41slAoLB8pL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 29.95 EUR
 inStock: true
 prodname: 'Refresh 69769  Sandalias con Punta Cerrada para Mujer  Amarillo  40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JKKHL2Y/?tag=tolees-21'
+descuento: '39.73'
+titulo: 'Refresh 69769  Sandalias con Punta Cerra'
 ---
 
 Tienes [Refresh 69769  Sandalias con Punta Cerrada para Mujer  Amarillo  40 EU](https://www.amazon.es/dp/B07JKKHL2Y/?tag=tolees-21) con un 39.73 % de descuento con precio de oferta de 18.05 EUR (original: 29.95 EUR) en el siguiente enlace!

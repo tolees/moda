@@ -3,6 +3,7 @@ layout: post
 title: 'JACK & JONES Jortokyo Peacoat Chaqueta   al 50.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TOyHRkh7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41TOyHRkh7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TOyHRkh7L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 119.9 EUR
 inStock: true
 prodname: 'JACK & JONES Jortokyo Peacoat Chaqueta  Azul  Total Eclipse   Medium para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073SB7J3B/?tag=tolees-21'
+descuento: '50.00'
+titulo: 'JACK & JONES Jortokyo Peacoat Chaqueta  '
 ---
 
 Ahora mismo tienes [JACK & JONES Jortokyo Peacoat Chaqueta  Azul  Total Eclipse   Medium para Hombre](https://www.amazon.es/dp/B073SB7J3B/?tag=tolees-21) a 59.95 EUR (original: 119.9 EUR) (50.00 %  de descuento) en el siguiente enlace!

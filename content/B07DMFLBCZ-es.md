@@ -3,6 +3,7 @@ layout: post
 title: 'KENNETH COLE Rylan Bootie  Botines para  al 74.51 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31DR4e%2BU8uL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31DR4e%2BU8uL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31DR4e%2BU8uL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 150 EUR
 inStock: true
 prodname: 'KENNETH COLE Rylan Bootie  Botines para Mujer  Negro  Black 001   39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DMFLBCZ/?tag=tolees-21'
+descuento: '74.51'
+titulo: 'KENNETH COLE Rylan Bootie  Botines para '
 ---
 
 Está [KENNETH COLE Rylan Bootie  Botines para Mujer  Negro  Black 001   39 EU](https://www.amazon.es/dp/B07DMFLBCZ/?tag=tolees-21) con 74.51 de descuento por 38.24 EUR (original: 150 EUR) en el siguiente enlace!

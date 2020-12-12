@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.00 % en The North Face T93L6M Camiseta De Manga '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PkX%2BnvYiL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41PkX%2BnvYiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PkX%2BnvYiL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 30 EUR
 inStock: true
 prodname: 'The North Face T93L6M Camiseta De Manga Corta  Unisex niños  Blue Wing Teal  XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BB4J4Z9/?tag=tolees-21'
+descuento: '50.00'
+titulo: 'The North Face T93L6M Camiseta De Manga '
 ---
 
 Tienes [The North Face T93L6M Camiseta De Manga Corta  Unisex niños  Blue Wing Teal  XL](https://www.amazon.es/dp/B07BB4J4Z9/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 15 EUR (original: 30 EUR) en el siguiente enlace!

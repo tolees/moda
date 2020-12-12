@@ -3,6 +3,7 @@ layout: post
 title: 'Naf Naf Jhnr91d Vestido   Noir/Ecru Z267 al 43.71 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31EG6PxUIzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31EG6PxUIzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31EG6PxUIzL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'Naf Naf Jhnr91d Vestido   Noir/Ecru Z267   42 para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FQZD151/?tag=tolees-21'
+descuento: '43.71'
+titulo: 'Naf Naf Jhnr91d Vestido   Noir/Ecru Z267'
 ---
 
 Ahora mismo tienes [Naf Naf Jhnr91d Vestido   Noir/Ecru Z267   42 para Mujer](https://www.amazon.es/dp/B07FQZD151/?tag=tolees-21) a 33.77 EUR (original: 59.99 EUR) (43.71 %  de descuento) en el siguiente enlace!

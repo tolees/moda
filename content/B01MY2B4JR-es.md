@@ -3,6 +3,7 @@ layout: post
 title: 'Nike W NSW TCH FLC Hoodie FZ Sudadera  M al 38.42 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51nWH8js7BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51nWH8js7BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51nWH8js7BL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 119.09 EUR
 inStock: true
 prodname: 'Nike W NSW TCH FLC Hoodie FZ Sudadera  Mujer  Gris  Carbon Heather/Htr/Black   S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MY2B4JR/?tag=tolees-21'
+descuento: '38.42'
+titulo: 'Nike W NSW TCH FLC Hoodie FZ Sudadera  M'
 ---
 
 Está [Nike W NSW TCH FLC Hoodie FZ Sudadera  Mujer  Gris  Carbon Heather/Htr/Black   S](https://www.amazon.es/dp/B01MY2B4JR/?tag=tolees-21) con 38.42 de descuento por 73.34 EUR (original: 119.09 EUR) en el siguiente enlace!

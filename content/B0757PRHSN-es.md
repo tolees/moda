@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield Sudadera Caja Turn Pain Into al 72.86 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RvmqCPZaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41RvmqCPZaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RvmqCPZaL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 22.99 EUR
 inStock: true
 prodname: 'Springfield Sudadera Caja Turn Pain Into Power Sudadera  Hombre  Gris  Grey   X-Large  Tamaño del Fabricante:XL '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0757PRHSN/?tag=tolees-21'
+descuento: '72.86'
+titulo: 'Springfield Sudadera Caja Turn Pain Into'
 ---
 
 Está [Springfield Sudadera Caja Turn Pain Into Power Sudadera  Hombre  Gris  Grey   X-Large  Tamaño del Fabricante:XL ](https://www.amazon.es/dp/B0757PRHSN/?tag=tolees-21) con 72.86 de descuento por 6.24 EUR (original: 22.99 EUR) en el siguiente enlace!

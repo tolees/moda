@@ -3,6 +3,7 @@ layout: post
 title: 'Mexx Women Jacket  Chaqueta para Mujer   al 76.02 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41FiDsV2nIL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41FiDsV2nIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41FiDsV2nIL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 79.99 EUR
 inStock: true
 prodname: 'Mexx Women Jacket  Chaqueta para Mujer  Schwarz  Black 001  L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01LF3GIIS/?tag=tolees-21'
+descuento: '76.02'
+titulo: 'Mexx Women Jacket  Chaqueta para Mujer  '
 ---
 
 Está [Mexx Women Jacket  Chaqueta para Mujer  Schwarz  Black 001  L](https://www.amazon.es/dp/B01LF3GIIS/?tag=tolees-21) con 76.02 de descuento por 19.18 EUR (original: 79.99 EUR) en el siguiente enlace!

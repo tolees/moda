@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour Mk1 LS Graphic Camiseta de  al 46.11 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414KYcHCjXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/414KYcHCjXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414KYcHCjXL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Under Armour Mk1 LS Graphic Camiseta de Manga Larga  Hombre  Azul  Petrol Blue/Thunder 437   L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CZJS7X5/?tag=tolees-21'
+descuento: '46.11'
+titulo: 'Under Armour Mk1 LS Graphic Camiseta de '
 ---
 
 Está [Under Armour Mk1 LS Graphic Camiseta de Manga Larga  Hombre  Azul  Petrol Blue/Thunder 437   L](https://www.amazon.es/dp/B07CZJS7X5/?tag=tolees-21) con 46.11 de descuento por 21.55 EUR (original: 39.99 EUR) en el siguiente enlace!

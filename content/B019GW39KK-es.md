@@ -3,6 +3,7 @@ layout: post
 title: 'Levi s N91005H  Camiseta para Niños  Azu al 39.22 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41WK9kLbaaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41WK9kLbaaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41WK9kLbaaL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 22.95 EUR
 inStock: true
 prodname: 'Levi s N91005H  Camiseta para Niños  Azul  Encre   10 años'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B019GW39KK/?tag=tolees-21'
+descuento: '39.22'
+titulo: 'Levi s N91005H  Camiseta para Niños  Azu'
 ---
 
 Está [Levi s N91005H  Camiseta para Niños  Azul  Encre   10 años](https://www.amazon.es/dp/B019GW39KK/?tag=tolees-21) con 39.22 de descuento por 13.95 EUR (original: 22.95 EUR) en el siguiente enlace!

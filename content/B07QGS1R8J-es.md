@@ -3,6 +3,7 @@ layout: post
 title: 'Sandalias para niño Sandalias Deportivas al 60.01 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51gIKq-efBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51gIKq-efBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51gIKq-efBL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'Sandalias para niño Sandalias Deportivas Zapatillas de Trekking y SenderismoUnisex Niños'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07QGS1R8J/?tag=tolees-21'
+descuento: '60.01'
+titulo: 'Sandalias para niño Sandalias Deportivas'
 ---
 
 Está [Sandalias para niño Sandalias Deportivas Zapatillas de Trekking y SenderismoUnisex Niños](https://www.amazon.es/dp/B07QGS1R8J/?tag=tolees-21) con 60.01 de descuento por 19.99 EUR (original: 49.99 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Columbia Canyon Point Mid Waterproof  Za al 39.99 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51afixMbIwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51afixMbIwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51afixMbIwL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 99.99 EUR
 inStock: true
 prodname: 'Columbia Canyon Point Mid Waterproof  Zapatos de High Rise Senderismo para Hombre  Negro  Black  Gypsy 010   43.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07733LLRX/?tag=tolees-21'
+descuento: '39.99'
+titulo: 'Columbia Canyon Point Mid Waterproof  Za'
 ---
 
 Ahora mismo tienes [Columbia Canyon Point Mid Waterproof  Zapatos de High Rise Senderismo para Hombre  Negro  Black  Gypsy 010   43.5 EU](https://www.amazon.es/dp/B07733LLRX/?tag=tolees-21) a 60 EUR (original: 99.99 EUR) (39.99 %  de descuento) en el siguiente enlace!

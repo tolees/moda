@@ -3,6 +3,7 @@ layout: post
 title: 'G-STAR RAW Whistler Quilted HDD Bomber   al 47.74 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413CwyFtArL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/413CwyFtArL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413CwyFtArL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 199.95 EUR
 inStock: true
 prodname: 'G-STAR RAW Whistler Quilted HDD Bomber  Chaqueta Hombre  Negro  Dk Black 6484  X-Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BJHFPKM/?tag=tolees-21'
+descuento: '47.74'
+titulo: 'G-STAR RAW Whistler Quilted HDD Bomber  '
 ---
 
 Está [G-STAR RAW Whistler Quilted HDD Bomber  Chaqueta Hombre  Negro  Dk Black 6484  X-Large](https://www.amazon.es/dp/B07BJHFPKM/?tag=tolees-21) con 47.74 de descuento por 104.49 EUR (original: 199.95 EUR) en el siguiente enlace!

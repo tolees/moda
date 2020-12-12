@@ -3,6 +3,7 @@ layout: post
 title: 'Fossil Collar con colgante Mujer acero i al 33.92 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ihwrZ2MdL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31ihwrZ2MdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ihwrZ2MdL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 42.63 EUR
 inStock: true
 prodname: 'Fossil Collar con colgante Mujer acero inoxidable - JF02819040'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075DXMX4N/?tag=tolees-21'
+descuento: '33.92'
+titulo: 'Fossil Collar con colgante Mujer acero i'
 ---
 
 Está [Fossil Collar con colgante Mujer acero inoxidable - JF02819040](https://www.amazon.es/dp/B075DXMX4N/?tag=tolees-21) con 33.92 de descuento por 28.17 EUR (original: 42.63 EUR) en el siguiente enlace!

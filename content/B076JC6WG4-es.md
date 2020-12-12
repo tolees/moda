@@ -3,6 +3,7 @@ layout: post
 title: 'Puma FIGC Italia Women Home Shirt Replic al 76.15 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419fyCXMFEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/419fyCXMFEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419fyCXMFEL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'Puma FIGC Italia Women Home Shirt Replica SS Camiseta  Mujer  Rojo Chili/Royal  XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076JC6WG4/?tag=tolees-21'
+descuento: '76.15'
+titulo: 'Puma FIGC Italia Women Home Shirt Replic'
 ---
 
 Ahora mismo tienes [Puma FIGC Italia Women Home Shirt Replica SS Camiseta  Mujer  Rojo Chili/Royal  XL](https://www.amazon.es/dp/B076JC6WG4/?tag=tolees-21) a 16.68 EUR (original: 69.95 EUR) (76.15 %  de descuento) en el siguiente enlace!

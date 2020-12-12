@@ -3,6 +3,7 @@ layout: post
 title: 'find. Lace Trim Shoulder Blusa para Muje al 63.43 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41v%2Blkhko-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41v%2Blkhko-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41v%2Blkhko-L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 35 EUR
 inStock: true
 prodname: 'find. Lace Trim Shoulder Blusa para Mujer  Rosa  Old Rose   42  Talla del Fabricante: Large '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MSZD91C/?tag=tolees-21'
+descuento: '63.43'
+titulo: 'find. Lace Trim Shoulder Blusa para Muje'
 ---
 
 Ahora mismo tienes [find. Lace Trim Shoulder Blusa para Mujer  Rosa  Old Rose   42  Talla del Fabricante: Large ](https://www.amazon.es/dp/B01MSZD91C/?tag=tolees-21) a 12.8 EUR (original: 35 EUR) (63.43 %  de descuento) en el siguiente enlace!

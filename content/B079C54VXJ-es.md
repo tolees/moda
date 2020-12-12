@@ -3,6 +3,7 @@ layout: post
 title: 'JACK & JONES Jjepocket tee SS O-Neck Noo al 54.20 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ij89UThfL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ij89UThfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ij89UThfL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 12.99 EUR
 inStock: true
 prodname: 'JACK & JONES Jjepocket tee SS O-Neck Noos Camiseta  Verde  Olive Night Detail: Slim Fit   Large para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079C54VXJ/?tag=tolees-21'
+descuento: '54.20'
+titulo: 'JACK & JONES Jjepocket tee SS O-Neck Noo'
 ---
 
 Está [JACK & JONES Jjepocket tee SS O-Neck Noos Camiseta  Verde  Olive Night Detail: Slim Fit   Large para Hombre](https://www.amazon.es/dp/B079C54VXJ/?tag=tolees-21) con 54.20 de descuento por 5.95 EUR (original: 12.99 EUR) en el siguiente enlace!

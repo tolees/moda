@@ -3,6 +3,7 @@ layout: post
 title: 'Only Onlsiff L/s Long Cardigan CC Knt  C al 62.28 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410YYlgjTlL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/410YYlgjTlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410YYlgjTlL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 26.99 EUR
 inStock: true
 prodname: 'Only Onlsiff L/s Long Cardigan CC Knt  Chaqueta Punto para Mujer  Azul Night Sky  42  Talla del Fabricante: Large '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077MGRFWK/?tag=tolees-21'
+descuento: '62.28'
+titulo: 'Only Onlsiff L/s Long Cardigan CC Knt  C'
 ---
 
 Ahora mismo tienes [Only Onlsiff L/s Long Cardigan CC Knt  Chaqueta Punto para Mujer  Azul Night Sky  42  Talla del Fabricante: Large ](https://www.amazon.es/dp/B077MGRFWK/?tag=tolees-21) a 10.18 EUR (original: 26.99 EUR) (62.28 %  de descuento) en el siguiente enlace!

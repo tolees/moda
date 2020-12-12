@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 28.54 % en adidas Farm tee Camiseta  Mujer   multco'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41aQ-1HidSL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41aQ-1HidSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41aQ-1HidSL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 31.46 EUR
 inStock: true
 prodname: 'adidas Farm tee Camiseta  Mujer   multco   36'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07929GDLW/?tag=tolees-21'
+descuento: '28.54'
+titulo: 'adidas Farm tee Camiseta  Mujer   multco'
 ---
 
 Tienes [adidas Farm tee Camiseta  Mujer   multco   36](https://www.amazon.es/dp/B07929GDLW/?tag=tolees-21) con un 28.54 % de descuento con precio de oferta de 22.48 EUR (original: 31.46 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Pepe Jeans Cane  Vaqueros Slim para Homb al 55.84 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41NHN9b12pL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41NHN9b12pL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41NHN9b12pL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 95 EUR
 inStock: true
 prodname: 'Pepe Jeans Cane  Vaqueros Slim para Hombre  Azul  Dark Used Cb5   W31/L32'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XP7FQ9M/?tag=tolees-21'
+descuento: '55.84'
+titulo: 'Pepe Jeans Cane  Vaqueros Slim para Homb'
 ---
 
 Está [Pepe Jeans Cane  Vaqueros Slim para Hombre  Azul  Dark Used Cb5   W31/L32](https://www.amazon.es/dp/B06XP7FQ9M/?tag=tolees-21) con 55.84 de descuento por 41.95 EUR (original: 95 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Timberland Dausette Leather  Zapatillas  al 48.07 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31X5WohAo3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31X5WohAo3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31X5WohAo3L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 90 EUR
 inStock: true
 prodname: 'Timberland Dausette Leather  Zapatillas para Mujer  Blanco  Hushed Violet 92s   36 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F2BB86R/?tag=tolees-21'
+descuento: '48.07'
+titulo: 'Timberland Dausette Leather  Zapatillas '
 ---
 
 Ahora mismo tienes [Timberland Dausette Leather  Zapatillas para Mujer  Blanco  Hushed Violet 92s   36 EU](https://www.amazon.es/dp/B07F2BB86R/?tag=tolees-21) a 46.74 EUR (original: 90 EUR) (48.07 %  de descuento) en el siguiente enlace!

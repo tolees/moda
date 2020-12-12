@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 44.49 % en Helly Hansen HH Logo Hoodie Sudadera con'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Q8Tk0cgiL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Q8Tk0cgiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Q8Tk0cgiL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 70 EUR
 inStock: true
 prodname: 'Helly Hansen HH Logo Hoodie Sudadera con Capucha  Hombre  Azul  Olympian Blue   M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073RPMZ2V/?tag=tolees-21'
+descuento: '44.49'
+titulo: 'Helly Hansen HH Logo Hoodie Sudadera con'
 ---
 
 Tienes [Helly Hansen HH Logo Hoodie Sudadera con Capucha  Hombre  Azul  Olympian Blue   M](https://www.amazon.es/dp/B073RPMZ2V/?tag=tolees-21) con un 44.49 % de descuento con precio de oferta de 38.86 EUR (original: 70 EUR) en el siguiente enlace!

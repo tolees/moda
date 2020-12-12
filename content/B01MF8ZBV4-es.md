@@ -3,6 +3,7 @@ layout: post
 title: 'Polaroid PLD 6018/S JY TNY  Gafas de sol al 72.59 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/319gYQjvNaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/319gYQjvNaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/319gYQjvNaL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 66 EUR
 inStock: true
 prodname: 'Polaroid PLD 6018/S JY TNY  Gafas de sol Unisex Adulto  Gris  Cry Ruthen/Greyblmirror Pz  55'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MF8ZBV4/?tag=tolees-21'
+descuento: '72.59'
+titulo: 'Polaroid PLD 6018/S JY TNY  Gafas de sol'
 ---
 
 Está [Polaroid PLD 6018/S JY TNY  Gafas de sol Unisex Adulto  Gris  Cry Ruthen/Greyblmirror Pz  55](https://www.amazon.es/dp/B01MF8ZBV4/?tag=tolees-21) con 72.59 de descuento por 18.09 EUR (original: 66 EUR) en el siguiente enlace!

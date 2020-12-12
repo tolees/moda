@@ -3,6 +3,7 @@ layout: post
 title: 'Simply Be Novelty Sequin Flamingo Xmas T al 77.90 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UK49Wz2iL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41UK49Wz2iL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UK49Wz2iL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 22.49 EUR
 inStock: true
 prodname: 'Simply Be Novelty Sequin Flamingo Xmas Tshirt Camiseta  Gris  Grey Marl   52  Talla del Fabricante: 24  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HFPH36R/?tag=tolees-21'
+descuento: '77.90'
+titulo: 'Simply Be Novelty Sequin Flamingo Xmas T'
 ---
 
 Está [Simply Be Novelty Sequin Flamingo Xmas Tshirt Camiseta  Gris  Grey Marl   52  Talla del Fabricante: 24  para Mujer](https://www.amazon.es/dp/B07HFPH36R/?tag=tolees-21) con 77.90 de descuento por 4.97 EUR (original: 22.49 EUR) en el siguiente enlace!

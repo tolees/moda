@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 82.97 % en Smiffys Disfraz Deluxe de Cazadora Zombi'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41T3CdnHCGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41T3CdnHCGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41T3CdnHCGL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 42.99 EUR
 inStock: true
 prodname: 'Smiffys Disfraz Deluxe de Cazadora Zombi  Marrón  con Vestido  Chaleco Impreso  Parte de'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06WWN1VH2/?tag=tolees-21'
+descuento: '82.97'
+titulo: 'Smiffys Disfraz Deluxe de Cazadora Zombi'
 ---
 
 Tienes [Smiffys Disfraz Deluxe de Cazadora Zombi  Marrón  con Vestido  Chaleco Impreso  Parte de](https://www.amazon.es/dp/B06WWN1VH2/?tag=tolees-21) con un 82.97 % de descuento con precio de oferta de 7.32 EUR (original: 42.99 EUR) en el siguiente enlace!

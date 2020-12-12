@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 59.43 % en G-STAR RAW Danarius Slim V T Wmn S/s  Ca'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41VvUYpakAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41VvUYpakAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41VvUYpakAL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 29.95 EUR
 inStock: true
 prodname: 'G-STAR RAW Danarius Slim V T Wmn S/s  Camiseta Mujer  Negro  Black 990   Medium  Talla del Fabricante: Small '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072BH3XK3/?tag=tolees-21'
+descuento: '59.43'
+titulo: 'G-STAR RAW Danarius Slim V T Wmn S/s  Ca'
 ---
 
 Tienes [G-STAR RAW Danarius Slim V T Wmn S/s  Camiseta Mujer  Negro  Black 990   Medium  Talla del Fabricante: Small ](https://www.amazon.es/dp/B072BH3XK3/?tag=tolees-21) con un 59.43 % de descuento con precio de oferta de 12.15 EUR (original: 29.95 EUR) en el siguiente enlace!

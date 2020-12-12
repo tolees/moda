@@ -3,6 +3,7 @@ layout: post
 title: 'FIND Vaqueros Estrechos Hombre  Gris  W3 al 48.09 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rdKVWpg8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41rdKVWpg8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rdKVWpg8L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 34 EUR
 inStock: true
 prodname: 'FIND Vaqueros Estrechos Hombre  Gris  W32/L32'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0757Z9XLS/?tag=tolees-21'
+descuento: '48.09'
+titulo: 'FIND Vaqueros Estrechos Hombre  Gris  W3'
 ---
 
 Está [FIND Vaqueros Estrechos Hombre  Gris  W32/L32](https://www.amazon.es/dp/B0757Z9XLS/?tag=tolees-21) con 48.09 de descuento por 17.65 EUR (original: 34 EUR) en el siguiente enlace!

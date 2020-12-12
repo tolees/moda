@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 43.60 % en Carrera 141/S 70 J5G  Gafas de Sol Unise'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31RGbRnEX0L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31RGbRnEX0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31RGbRnEX0L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 164 EUR
 inStock: true
 prodname: 'Carrera 141/S 70 J5G  Gafas de Sol Unisex-Adulto  Dorado  Gold/Brown   51'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06WRVTDYV/?tag=tolees-21'
+descuento: '43.60'
+titulo: 'Carrera 141/S 70 J5G  Gafas de Sol Unise'
 ---
 
 Tienes [Carrera 141/S 70 J5G  Gafas de Sol Unisex-Adulto  Dorado  Gold/Brown   51](https://www.amazon.es/dp/B06WRVTDYV/?tag=tolees-21) con un 43.60 % de descuento con precio de oferta de 92.49 EUR (original: 164 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'The North Face Reaxion Amp Camiseta de C al 52.40 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GWFsHyZ8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41GWFsHyZ8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GWFsHyZ8L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 30 EUR
 inStock: true
 prodname: 'The North Face Reaxion Amp Camiseta de Cuello Redondo  Hombre  Verde  Crystal Teal Heather   L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07LH71DF4/?tag=tolees-21'
+descuento: '52.40'
+titulo: 'The North Face Reaxion Amp Camiseta de C'
 ---
 
 Está [The North Face Reaxion Amp Camiseta de Cuello Redondo  Hombre  Verde  Crystal Teal Heather   L](https://www.amazon.es/dp/B07LH71DF4/?tag=tolees-21) con 52.40 de descuento por 14.28 EUR (original: 30 EUR) en el siguiente enlace!

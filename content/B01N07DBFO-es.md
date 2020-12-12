@@ -3,6 +3,7 @@ layout: post
 title: 'Umbro Torch Pantalón Corto  Hombre  Azul al 33.61 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MOQ-fbW8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41MOQ-fbW8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41MOQ-fbW8L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 18 EUR
 inStock: true
 prodname: 'Umbro Torch Pantalón Corto  Hombre  Azul Marino Oscuro  L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N07DBFO/?tag=tolees-21'
+descuento: '33.61'
+titulo: 'Umbro Torch Pantalón Corto  Hombre  Azul'
 ---
 
 Ahora mismo tienes [Umbro Torch Pantalón Corto  Hombre  Azul Marino Oscuro  L](https://www.amazon.es/dp/B01N07DBFO/?tag=tolees-21) a 11.95 EUR (original: 18 EUR) (33.61 %  de descuento) en el siguiente enlace!

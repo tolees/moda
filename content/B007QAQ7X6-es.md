@@ -3,6 +3,7 @@ layout: post
 title: 'Cressi Bahamas - Chanclas Flip Flop para al 38.93 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51bAPT4mzaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51bAPT4mzaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51bAPT4mzaL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 11.38 EUR
 inStock: true
 prodname: 'Cressi Bahamas - Chanclas Flip Flop para Playa y Piscina'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B007QAQ7X6/?tag=tolees-21'
+descuento: '38.93'
+titulo: 'Cressi Bahamas - Chanclas Flip Flop para'
 ---
 
 Ahora mismo tienes [Cressi Bahamas - Chanclas Flip Flop para Playa y Piscina](https://www.amazon.es/dp/B007QAQ7X6/?tag=tolees-21) a 6.95 EUR (original: 11.38 EUR) (38.93 %  de descuento) en el siguiente enlace!

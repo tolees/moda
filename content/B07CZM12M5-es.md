@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 61.71 % en Under Armour Accelerate Terrace Jacket C'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41F7yn-t63L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41F7yn-t63L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41F7yn-t63L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 119.99 EUR
 inStock: true
 prodname: 'Under Armour Accelerate Terrace Jacket Chaqueta  Hombre  Gris  Pitch Gray/Onyx White 012   XXL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CZM12M5/?tag=tolees-21'
+descuento: '61.71'
+titulo: 'Under Armour Accelerate Terrace Jacket C'
 ---
 
 Tienes [Under Armour Accelerate Terrace Jacket Chaqueta  Hombre  Gris  Pitch Gray/Onyx White 012   XXL](https://www.amazon.es/dp/B07CZM12M5/?tag=tolees-21) con un 61.71 % de descuento con precio de oferta de 45.95 EUR (original: 119.99 EUR) en el siguiente enlace!

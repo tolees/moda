@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 79.97 % en BOSS Cattitude  Camisa para Hombre  Blan'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YkvxFa8FL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41YkvxFa8FL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YkvxFa8FL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 119 EUR
 inStock: true
 prodname: 'BOSS Cattitude  Camisa para Hombre  Blanco  White 100  XX-Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078GKXHNX/?tag=tolees-21'
+descuento: '79.97'
+titulo: 'BOSS Cattitude  Camisa para Hombre  Blan'
 ---
 
 Tienes [BOSS Cattitude  Camisa para Hombre  Blanco  White 100  XX-Large](https://www.amazon.es/dp/B078GKXHNX/?tag=tolees-21) con un 79.97 % de descuento con precio de oferta de 23.83 EUR (original: 119 EUR) en el siguiente enlace!

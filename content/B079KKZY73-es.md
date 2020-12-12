@@ -3,6 +3,7 @@ layout: post
 title: 'O Neill LM Filler Camiseta  Hombre  Gris al 47.63 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51QPeKCjrDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51QPeKCjrDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51QPeKCjrDL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 25.99 EUR
 inStock: true
 prodname: 'O Neill LM Filler Camiseta  Hombre  Gris  Asphalt 8026   Small  Tamaño del Fabricante:S '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079KKZY73/?tag=tolees-21'
+descuento: '47.63'
+titulo: 'O Neill LM Filler Camiseta  Hombre  Gris'
 ---
 
 Ahora mismo tienes [O Neill LM Filler Camiseta  Hombre  Gris  Asphalt 8026   Small  Tamaño del Fabricante:S ](https://www.amazon.es/dp/B079KKZY73/?tag=tolees-21) a 13.61 EUR (original: 25.99 EUR) (47.63 %  de descuento) en el siguiente enlace!

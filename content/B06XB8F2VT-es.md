@@ -3,6 +3,7 @@ layout: post
 title: 'Jimmy Choo Rosy/S  Gafas de Sol para Muj al 68.90 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31V6V7uMUXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31V6V7uMUXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31V6V7uMUXL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 385 EUR
 inStock: true
 prodname: 'Jimmy Choo Rosy/S  Gafas de Sol para Mujer  Multicolor  Mtblackpalla Ixa   51'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XB8F2VT/?tag=tolees-21'
+descuento: '68.90'
+titulo: 'Jimmy Choo Rosy/S  Gafas de Sol para Muj'
 ---
 
 Está [Jimmy Choo Rosy/S  Gafas de Sol para Mujer  Multicolor  Mtblackpalla Ixa   51](https://www.amazon.es/dp/B06XB8F2VT/?tag=tolees-21) con 68.90 de descuento por 119.73 EUR (original: 385 EUR) en el siguiente enlace!

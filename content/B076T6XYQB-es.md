@@ -3,6 +3,7 @@ layout: post
 title: 'MERAKI Camiseta Mujer de Tirantes  Pack  al 29.41 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31QHuVxy5sL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31QHuVxy5sL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31QHuVxy5sL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 17 EUR
 inStock: true
 prodname: 'MERAKI Camiseta Mujer de Tirantes  Pack de 2  Azul  Cashmere Blue/white   Medium'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076T6XYQB/?tag=tolees-21'
+descuento: '29.41'
+titulo: 'MERAKI Camiseta Mujer de Tirantes  Pack '
 ---
 
 Está [MERAKI Camiseta Mujer de Tirantes  Pack de 2  Azul  Cashmere Blue/white   Medium](https://www.amazon.es/dp/B076T6XYQB/?tag=tolees-21) con 29.41 de descuento por 12 EUR (original: 17 EUR) en el siguiente enlace!

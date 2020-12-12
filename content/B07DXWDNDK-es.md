@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour Storm - Camiseta de Calenta al 79.43 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Y%2BWC1vPEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Y%2BWC1vPEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Y%2BWC1vPEL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 65 EUR
 inStock: true
 prodname: 'Under Armour Storm - Camiseta de Calentamiento para Mujer  Tejido Iridiscente  diseño gráfico FZ  Mujer  1325529-020  Charcoal/White  Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DXWDNDK/?tag=tolees-21'
+descuento: '79.43'
+titulo: 'Under Armour Storm - Camiseta de Calenta'
 ---
 
 Está [Under Armour Storm - Camiseta de Calentamiento para Mujer  Tejido Iridiscente  diseño gráfico FZ  Mujer  1325529-020  Charcoal/White  Large](https://www.amazon.es/dp/B07DXWDNDK/?tag=tolees-21) con 79.43 de descuento por 13.37 EUR (original: 65 EUR) en el siguiente enlace!

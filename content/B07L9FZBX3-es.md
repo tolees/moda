@@ -3,6 +3,7 @@ layout: post
 title: 'Napapijri K Bonthe C Sudadera  Azul  Dar al 41.76 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31TVcmfaPHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31TVcmfaPHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31TVcmfaPHL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 54 EUR
 inStock: true
 prodname: 'Napapijri K Bonthe C Sudadera  Azul  Dark Denim Bd1   140  Talla del Fabricante: 10  para Niños'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07L9FZBX3/?tag=tolees-21'
+descuento: '41.76'
+titulo: 'Napapijri K Bonthe C Sudadera  Azul  Dar'
 ---
 
 Está [Napapijri K Bonthe C Sudadera  Azul  Dark Denim Bd1   140  Talla del Fabricante: 10  para Niños](https://www.amazon.es/dp/B07L9FZBX3/?tag=tolees-21) con 41.76 de descuento por 31.45 EUR (original: 54 EUR) en el siguiente enlace!

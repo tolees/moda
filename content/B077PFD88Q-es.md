@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 36.73 % en Puma Leadcat EP Wns Q2  Zapatos de Playa'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jQm016hoL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41jQm016hoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jQm016hoL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 29.95 EUR
 inStock: true
 prodname: 'Puma Leadcat EP Wns Q2  Zapatos de Playa y Piscina para Mujer  Gris  Rock Ridge-Bungee Cord   39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077PFD88Q/?tag=tolees-21'
+descuento: '36.73'
+titulo: 'Puma Leadcat EP Wns Q2  Zapatos de Playa'
 ---
 
 Tienes [Puma Leadcat EP Wns Q2  Zapatos de Playa y Piscina para Mujer  Gris  Rock Ridge-Bungee Cord   39 EU](https://www.amazon.es/dp/B077PFD88Q/?tag=tolees-21) con un 36.73 % de descuento con precio de oferta de 18.95 EUR (original: 29.95 EUR) en el siguiente enlace!

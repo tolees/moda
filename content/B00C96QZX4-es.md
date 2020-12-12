@@ -3,6 +3,7 @@ layout: post
 title: 'Samsonite 54788/1251 Attack SLG Monedero al 43.69 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/514l2MEJU3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/514l2MEJU3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/514l2MEJU3L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 35 EUR
 inStock: true
 prodname: 'Samsonite 54788/1251 Attack SLG Monedero  Color Marrón'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00C96QZX4/?tag=tolees-21'
+descuento: '43.69'
+titulo: 'Samsonite 54788/1251 Attack SLG Monedero'
 ---
 
 Está [Samsonite 54788/1251 Attack SLG Monedero  Color Marrón](https://www.amazon.es/dp/B00C96QZX4/?tag=tolees-21) con 43.69 de descuento por 19.71 EUR (original: 35 EUR) en el siguiente enlace!

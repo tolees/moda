@@ -3,6 +3,7 @@ layout: post
 title: 'Tommy Jeans Hombre Check  Camisa Manga L al 41.69 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/5198IOj5N3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/5198IOj5N3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/5198IOj5N3L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 65 EUR
 inStock: true
 prodname: 'Tommy Jeans Hombre Check  Camisa Manga Larga  Azul  Black Iris / Green Blue State 901  Small'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CBCWPM3/?tag=tolees-21'
+descuento: '41.69'
+titulo: 'Tommy Jeans Hombre Check  Camisa Manga L'
 ---
 
 Está [Tommy Jeans Hombre Check  Camisa Manga Larga  Azul  Black Iris / Green Blue State 901  Small](https://www.amazon.es/dp/B07CBCWPM3/?tag=tolees-21) con 41.69 de descuento por 37.9 EUR (original: 65 EUR) en el siguiente enlace!

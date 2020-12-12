@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.29 % en Gant TB. C-Neck Sweat  Sudadera Niños  R'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41F8lNy27zL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41F8lNy27zL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41F8lNy27zL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 75 EUR
 inStock: true
 prodname: 'Gant TB. C-Neck Sweat  Sudadera Niños  Rojo  Port Red   7-8 años  Talla del Fabricante: 122/128 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D2PZMKJ/?tag=tolees-21'
+descuento: '40.29'
+titulo: 'Gant TB. C-Neck Sweat  Sudadera Niños  R'
 ---
 
 Tienes [Gant TB. C-Neck Sweat  Sudadera Niños  Rojo  Port Red   7-8 años  Talla del Fabricante: 122/128 ](https://www.amazon.es/dp/B07D2PZMKJ/?tag=tolees-21) con un 40.29 % de descuento con precio de oferta de 44.78 EUR (original: 75 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'New Look Rain Coat  Abrigo Impermeable p al 56.52 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bRPVEkNnL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41bRPVEkNnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bRPVEkNnL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 23 EUR
 inStock: true
 prodname: 'New Look Rain Coat  Abrigo Impermeable para Hombre  Red  Dark Burgundy  Medium'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0773SJPNQ/?tag=tolees-21'
+descuento: '56.52'
+titulo: 'New Look Rain Coat  Abrigo Impermeable p'
 ---
 
 Ahora mismo tienes [New Look Rain Coat  Abrigo Impermeable para Hombre  Red  Dark Burgundy  Medium](https://www.amazon.es/dp/B0773SJPNQ/?tag=tolees-21) a 10 EUR (original: 23 EUR) (56.52 %  de descuento) en el siguiente enlace!

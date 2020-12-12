@@ -3,6 +3,7 @@ layout: post
 title: 'Tommy Jeans Mujer MID RISE BOOT SANDY SP al 79.54 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41aM3yKBmfL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41aM3yKBmfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41aM3yKBmfL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 119.9 EUR
 inStock: true
 prodname: 'Tommy Jeans Mujer MID RISE BOOT SANDY SPBL Vaqueros  Pantalones Boot Cut Negro  Splash Black  W26/L30  Talla del fabricante: 3026 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N7HTXPV/?tag=tolees-21'
+descuento: '79.54'
+titulo: 'Tommy Jeans Mujer MID RISE BOOT SANDY SP'
 ---
 
 Ahora mismo tienes [Tommy Jeans Mujer MID RISE BOOT SANDY SPBL Vaqueros  Pantalones Boot Cut Negro  Splash Black  W26/L30  Talla del fabricante: 3026 ](https://www.amazon.es/dp/B01N7HTXPV/?tag=tolees-21) a 24.53 EUR (original: 119.9 EUR) (79.54 %  de descuento) en el siguiente enlace!

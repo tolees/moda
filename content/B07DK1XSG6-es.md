@@ -3,6 +3,7 @@ layout: post
 title: 'Geox Jr Sandal Roxanne B  Sandalias Punt al 63.15 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41U-H8ZwQaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41U-H8ZwQaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41U-H8ZwQaL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 65 EUR
 inStock: true
 prodname: 'Geox Jr Sandal Roxanne B  Sandalias Punta Cerrada para Niñas  Rosa  Dk Raspberry/Pink Cp8e8   36 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DK1XSG6/?tag=tolees-21'
+descuento: '63.15'
+titulo: 'Geox Jr Sandal Roxanne B  Sandalias Punt'
 ---
 
 Ahora mismo tienes [Geox Jr Sandal Roxanne B  Sandalias Punta Cerrada para Niñas  Rosa  Dk Raspberry/Pink Cp8e8   36 EU](https://www.amazon.es/dp/B07DK1XSG6/?tag=tolees-21) a 23.95 EUR (original: 65 EUR) (63.15 %  de descuento) en el siguiente enlace!

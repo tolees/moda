@@ -3,6 +3,7 @@ layout: post
 title: 'Pepaloves Tabata  Vestido Casual para Mu al 84.64 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LGdfV7GgL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41LGdfV7GgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LGdfV7GgL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 67 EUR
 inStock: true
 prodname: 'Pepaloves Tabata  Vestido Casual para Mujer  Marrón  Fruit   40  Tamaño del fabricante:M '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072FVBLV2/?tag=tolees-21'
+descuento: '84.64'
+titulo: 'Pepaloves Tabata  Vestido Casual para Mu'
 ---
 
 Ahora mismo tienes [Pepaloves Tabata  Vestido Casual para Mujer  Marrón  Fruit   40  Tamaño del fabricante:M ](https://www.amazon.es/dp/B072FVBLV2/?tag=tolees-21) a 10.29 EUR (original: 67 EUR) (84.64 %  de descuento) en el siguiente enlace!

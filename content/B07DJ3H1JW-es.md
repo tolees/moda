@@ -3,6 +3,7 @@ layout: post
 title: 'Geox U Nebula 4 X 4 B ABX a  Botas Chukk al 66.10 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41iBPEAsGcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41iBPEAsGcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41iBPEAsGcL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 149.9 EUR
 inStock: true
 prodname: 'Geox U Nebula 4 X 4 B ABX a  Botas Chukka para Hombre  Navy C4002  45 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DJ3H1JW/?tag=tolees-21'
+descuento: '66.10'
+titulo: 'Geox U Nebula 4 X 4 B ABX a  Botas Chukk'
 ---
 
 Ahora mismo tienes [Geox U Nebula 4 X 4 B ABX a  Botas Chukka para Hombre  Navy C4002  45 EU](https://www.amazon.es/dp/B07DJ3H1JW/?tag=tolees-21) a 50.81 EUR (original: 149.9 EUR) (66.10 %  de descuento) en el siguiente enlace!

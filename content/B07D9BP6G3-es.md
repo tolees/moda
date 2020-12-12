@@ -3,6 +3,7 @@ layout: post
 title: 'XTI 30910  Botines para Mujer  Negro  Bl al 75.12 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415VkL2VaXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/415VkL2VaXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415VkL2VaXL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: 'XTI 30910  Botines para Mujer  Negro  Black   39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D9BP6G3/?tag=tolees-21'
+descuento: '75.12'
+titulo: 'XTI 30910  Botines para Mujer  Negro  Bl'
 ---
 
 Está [XTI 30910  Botines para Mujer  Negro  Black   39 EU](https://www.amazon.es/dp/B07D9BP6G3/?tag=tolees-21) con 75.12 de descuento por 12.43 EUR (original: 49.95 EUR) en el siguiente enlace!

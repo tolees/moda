@@ -3,6 +3,7 @@ layout: post
 title: 'Napapijri Sonthe Camiseta  Azul  BLU Mar al 44.56 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41X9uJgjShL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41X9uJgjShL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41X9uJgjShL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 39 EUR
 inStock: true
 prodname: 'Napapijri Sonthe Camiseta  Azul  BLU Marine 176   Small para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07L9JQFWN/?tag=tolees-21'
+descuento: '44.56'
+titulo: 'Napapijri Sonthe Camiseta  Azul  BLU Mar'
 ---
 
 Está [Napapijri Sonthe Camiseta  Azul  BLU Marine 176   Small para Hombre](https://www.amazon.es/dp/B07L9JQFWN/?tag=tolees-21) con 44.56 de descuento por 21.62 EUR (original: 39 EUR) en el siguiente enlace!

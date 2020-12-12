@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 56.44 % en FIND Jersey sin Mangas Mujer  Gris  Grey'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bScBPiRyL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41bScBPiRyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bScBPiRyL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 18 EUR
 inStock: true
 prodname: 'FIND Jersey sin Mangas Mujer  Gris  Grey   40  Talla del Fabricante: Medium '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B074N1TWFR/?tag=tolees-21'
+descuento: '56.44'
+titulo: 'FIND Jersey sin Mangas Mujer  Gris  Grey'
 ---
 
 Tienes [FIND Jersey sin Mangas Mujer  Gris  Grey   40  Talla del Fabricante: Medium ](https://www.amazon.es/dp/B074N1TWFR/?tag=tolees-21) con un 56.44 % de descuento con precio de oferta de 7.84 EUR (original: 18 EUR) en el siguiente enlace!

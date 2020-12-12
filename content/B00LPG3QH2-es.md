@@ -3,6 +3,7 @@ layout: post
 title: 'Levi s 504 Regular Straight Fit  Vaquero al 62.05 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41L20x8ONuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41L20x8ONuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41L20x8ONuL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 94.95 EUR
 inStock: true
 prodname: 'Levi s 504 Regular Straight Fit  Vaqueros para Hombre  Azul  O8589 The Rich 425   W29/L34'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00LPG3QH2/?tag=tolees-21'
+descuento: '62.05'
+titulo: 'Levi s 504 Regular Straight Fit  Vaquero'
 ---
 
 Ahora mismo tienes [Levi s 504 Regular Straight Fit  Vaqueros para Hombre  Azul  O8589 The Rich 425   W29/L34](https://www.amazon.es/dp/B00LPG3QH2/?tag=tolees-21) a 36.03 EUR (original: 94.95 EUR) (62.05 %  de descuento) en el siguiente enlace!

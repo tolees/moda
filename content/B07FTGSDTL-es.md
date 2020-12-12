@@ -3,6 +3,7 @@ layout: post
 title: 'Lee Button Down  Camisa para Hombre  Mar al 50.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MNUOFjsGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41MNUOFjsGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41MNUOFjsGL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 75 EUR
 inStock: true
 prodname: 'Lee Button Down  Camisa para Hombre  Marfil  Asphalt Fz   Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FTGSDTL/?tag=tolees-21'
+descuento: '50.00'
+titulo: 'Lee Button Down  Camisa para Hombre  Mar'
 ---
 
 Está [Lee Button Down  Camisa para Hombre  Marfil  Asphalt Fz   Large](https://www.amazon.es/dp/B07FTGSDTL/?tag=tolees-21) con 50.00 de descuento por 37.5 EUR (original: 75 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 69.54 % en JACK & JONES Jcomayfield tee SS Crew Nec'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41f6O9RMlDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41f6O9RMlDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41f6O9RMlDL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 17.99 EUR
 inStock: true
 prodname: 'JACK & JONES Jcomayfield tee SS Crew Neck  Camiseta para Hombre  Blanco  White Fit: Slim   Medium'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K5F3WWD/?tag=tolees-21'
+descuento: '69.54'
+titulo: 'JACK & JONES Jcomayfield tee SS Crew Nec'
 ---
 
 Tienes [JACK & JONES Jcomayfield tee SS Crew Neck  Camiseta para Hombre  Blanco  White Fit: Slim   Medium](https://www.amazon.es/dp/B07K5F3WWD/?tag=tolees-21) con un 69.54 % de descuento con precio de oferta de 5.48 EUR (original: 17.99 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Naf Naf Kenu42 Camiseta de Manga Larga   al 53.03 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yNoDFYpcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41yNoDFYpcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yNoDFYpcL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 35 EUR
 inStock: true
 prodname: 'Naf Naf Kenu42 Camiseta de Manga Larga  Negro  Noir 625   Large para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KKHYZ1H/?tag=tolees-21'
+descuento: '53.03'
+titulo: 'Naf Naf Kenu42 Camiseta de Manga Larga  '
 ---
 
 Ahora mismo tienes [Naf Naf Kenu42 Camiseta de Manga Larga  Negro  Noir 625   Large para Mujer](https://www.amazon.es/dp/B07KKHYZ1H/?tag=tolees-21) a 16.44 EUR (original: 35 EUR) (53.03 %  de descuento) en el siguiente enlace!

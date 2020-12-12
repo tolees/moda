@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 62.55 % en Hummel Hmlannieshirt Sudadera  Unisex ni'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41NscFlEaLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41NscFlEaLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41NscFlEaLL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 34.95 EUR
 inStock: true
 prodname: 'Hummel Hmlannieshirt Sudadera  Unisex niños  Rojo  Rumba   110'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DVVR95C/?tag=tolees-21'
+descuento: '62.55'
+titulo: 'Hummel Hmlannieshirt Sudadera  Unisex ni'
 ---
 
 Tienes [Hummel Hmlannieshirt Sudadera  Unisex niños  Rojo  Rumba   110](https://www.amazon.es/dp/B07DVVR95C/?tag=tolees-21) con un 62.55 % de descuento con precio de oferta de 13.09 EUR (original: 34.95 EUR) en el siguiente enlace!

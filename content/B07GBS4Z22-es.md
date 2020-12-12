@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 47.83 % en New Look Drop Shoulder Crew Sudadera  Ro'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31byI0RqWEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31byI0RqWEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31byI0RqWEL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 16.79 EUR
 inStock: true
 prodname: 'New Look Drop Shoulder Crew Sudadera  Rojo  Red NIU 62   Small  Talla del Fabricante: 51  para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GBS4Z22/?tag=tolees-21'
+descuento: '47.83'
+titulo: 'New Look Drop Shoulder Crew Sudadera  Ro'
 ---
 
 Tienes [New Look Drop Shoulder Crew Sudadera  Rojo  Red NIU 62   Small  Talla del Fabricante: 51  para Hombre](https://www.amazon.es/dp/B07GBS4Z22/?tag=tolees-21) con un 47.83 % de descuento con precio de oferta de 8.76 EUR (original: 16.79 EUR) en el siguiente enlace!

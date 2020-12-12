@@ -3,6 +3,7 @@ layout: post
 title: 'Diesel Larkee-beex SP  Vaqueros Straight al 76.23 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LOglbJ8PL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41LOglbJ8PL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LOglbJ8PL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 265 EUR
 inStock: true
 prodname: 'Diesel Larkee-beex SP  Vaqueros Straight para Hombre  Azul  01 Blue Denim 084xb   W38/L32'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DHX9BV9/?tag=tolees-21'
+descuento: '76.23'
+titulo: 'Diesel Larkee-beex SP  Vaqueros Straight'
 ---
 
 Está [Diesel Larkee-beex SP  Vaqueros Straight para Hombre  Azul  01 Blue Denim 084xb   W38/L32](https://www.amazon.es/dp/B07DHX9BV9/?tag=tolees-21) con 76.23 de descuento por 63 EUR (original: 265 EUR) en el siguiente enlace!

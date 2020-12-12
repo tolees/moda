@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 72.81 % en Geox D Myria C  Zapatillas Altas para Mu'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZN9d7e45L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZN9d7e45L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZN9d7e45L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 109.9 EUR
 inStock: true
 prodname: 'Geox D Myria C  Zapatillas Altas para Mujer  Rojo  Dk Burgundy   36 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06Y2TR4CM/?tag=tolees-21'
+descuento: '72.81'
+titulo: 'Geox D Myria C  Zapatillas Altas para Mu'
 ---
 
 Tienes [Geox D Myria C  Zapatillas Altas para Mujer  Rojo  Dk Burgundy   36 EU](https://www.amazon.es/dp/B06Y2TR4CM/?tag=tolees-21) con un 72.81 % de descuento con precio de oferta de 29.88 EUR (original: 109.9 EUR) en el siguiente enlace!

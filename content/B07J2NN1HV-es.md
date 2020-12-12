@@ -3,6 +3,7 @@ layout: post
 title: 'Boss Boxer Brief 24 Logo  Hombre  Azul   al 65.93 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Xvzd0u9EL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Xvzd0u9EL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Xvzd0u9EL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 24.95 EUR
 inStock: true
 prodname: 'Boss Boxer Brief 24 Logo  Hombre  Azul  Bright Blue 430   Small'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07J2NN1HV/?tag=tolees-21'
+descuento: '65.93'
+titulo: 'Boss Boxer Brief 24 Logo  Hombre  Azul  '
 ---
 
 Está [Boss Boxer Brief 24 Logo  Hombre  Azul  Bright Blue 430   Small](https://www.amazon.es/dp/B07J2NN1HV/?tag=tolees-21) con 65.93 de descuento por 8.5 EUR (original: 24.95 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Columbia Chaqueta Impermeable con Capuch al 62.17 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mijOdKAUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41mijOdKAUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mijOdKAUL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 129.99 EUR
 inStock: true
 prodname: 'Columbia Chaqueta Impermeable con Capucha para Mujer  Powder Lite Hooded  Azul  Atoll   XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DYX9P4C/?tag=tolees-21'
+descuento: '62.17'
+titulo: 'Columbia Chaqueta Impermeable con Capuch'
 ---
 
 Ahora mismo tienes [Columbia Chaqueta Impermeable con Capucha para Mujer  Powder Lite Hooded  Azul  Atoll   XL](https://www.amazon.es/dp/B07DYX9P4C/?tag=tolees-21) a 49.18 EUR (original: 129.99 EUR) (62.17 %  de descuento) en el siguiente enlace!

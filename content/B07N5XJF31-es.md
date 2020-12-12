@@ -3,6 +3,7 @@ layout: post
 title: 'flintronic Cartera Hombre  Slim Billeter al 34.55 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41SqhJ2yQnL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41SqhJ2yQnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41SqhJ2yQnL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 18.32 EUR
 inStock: true
 prodname: 'flintronic Cartera Hombre  Slim Billetera de Piel Auténtica para Tarjetas de Crédito  Monedero con Pinza y Protección RFID  con Llavero y Caja de Regalo'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07N5XJF31/?tag=tolees-21'
+descuento: '34.55'
+titulo: 'flintronic Cartera Hombre  Slim Billeter'
 ---
 
 Está [flintronic Cartera Hombre  Slim Billetera de Piel Auténtica para Tarjetas de Crédito  Monedero con Pinza y Protección RFID  con Llavero y Caja de Regalo](https://www.amazon.es/dp/B07N5XJF31/?tag=tolees-21) con 34.55 de descuento por 11.99 EUR (original: 18.32 EUR) en el siguiente enlace!

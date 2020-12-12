@@ -3,6 +3,7 @@ layout: post
 title: 'Levi s 501 Original Fit Vaqueros  Gris   al 29.70 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RN69puwdL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41RN69puwdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RN69puwdL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 100 EUR
 inStock: true
 prodname: 'Levi s 501 Original Fit Vaqueros  Gris  Mlk Warp 2649   W34/L36 para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D2GV2QG/?tag=tolees-21'
+descuento: '29.70'
+titulo: 'Levi s 501 Original Fit Vaqueros  Gris  '
 ---
 
 Ahora mismo tienes [Levi s 501 Original Fit Vaqueros  Gris  Mlk Warp 2649   W34/L36 para Hombre](https://www.amazon.es/dp/B07D2GV2QG/?tag=tolees-21) a 70.3 EUR (original: 100 EUR) (29.70 %  de descuento) en el siguiente enlace!

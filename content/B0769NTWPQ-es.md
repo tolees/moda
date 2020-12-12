@@ -3,6 +3,7 @@ layout: post
 title: 'Only onlFIRST LS Pocket Shirt Noos WVN   al 37.24 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51-WsDg6peL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51-WsDg6peL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51-WsDg6peL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 21.99 EUR
 inStock: true
 prodname: 'Only onlFIRST LS Pocket Shirt Noos WVN  Blusa para Mujer   Cloud Dancer AOP: Small Black Dots  40'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0769NTWPQ/?tag=tolees-21'
+descuento: '37.24'
+titulo: 'Only onlFIRST LS Pocket Shirt Noos WVN  '
 ---
 
 Está [Only onlFIRST LS Pocket Shirt Noos WVN  Blusa para Mujer   Cloud Dancer AOP: Small Black Dots  40](https://www.amazon.es/dp/B0769NTWPQ/?tag=tolees-21) con 37.24 de descuento por 13.8 EUR (original: 21.99 EUR) en el siguiente enlace!

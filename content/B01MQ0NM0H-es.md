@@ -3,6 +3,7 @@ layout: post
 title: 'SELECTED FEMME SFDYNELLA LS SHIRT  Blusa al 84.34 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XTHAyDgpL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41XTHAyDgpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XTHAyDgpL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'SELECTED FEMME SFDYNELLA LS SHIRT  Blusa Mujer  Azul  Ombre Blue   38'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MQ0NM0H/?tag=tolees-21'
+descuento: '84.34'
+titulo: 'SELECTED FEMME SFDYNELLA LS SHIRT  Blusa'
 ---
 
 Está [SELECTED FEMME SFDYNELLA LS SHIRT  Blusa Mujer  Azul  Ombre Blue   38](https://www.amazon.es/dp/B01MQ0NM0H/?tag=tolees-21) con 84.34 de descuento por 7.83 EUR (original: 49.99 EUR) en el siguiente enlace!

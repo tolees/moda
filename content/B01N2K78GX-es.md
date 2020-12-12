@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 69.61 % en edc by Esprit 027cc2f005  Camisa Hombre '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/516%2BWf8Y8GL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/516%2BWf8Y8GL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/516%2BWf8Y8GL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 36.06 EUR
 inStock: true
 prodname: 'edc by Esprit 027cc2f005  Camisa Hombre  Rojo  Berry Red   Small'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N2K78GX/?tag=tolees-21'
+descuento: '69.61'
+titulo: 'edc by Esprit 027cc2f005  Camisa Hombre '
 ---
 
 Tienes [edc by Esprit 027cc2f005  Camisa Hombre  Rojo  Berry Red   Small](https://www.amazon.es/dp/B01N2K78GX/?tag=tolees-21) con un 69.61 % de descuento con precio de oferta de 10.96 EUR (original: 36.06 EUR) en el siguiente enlace!

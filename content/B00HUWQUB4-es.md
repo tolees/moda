@@ -3,6 +3,7 @@ layout: post
 title: 'Fendi Brillengestelle FF 0011 7SR/17-53- al 56.89 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31jeELu2K1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31jeELu2K1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31jeELu2K1L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 310 EUR
 inStock: true
 prodname: 'Fendi Brillengestelle FF 0011 7SR/17-53-17-135 Monturas de gafas  Marrón  Braun   53.0 para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00HUWQUB4/?tag=tolees-21'
+descuento: '56.89'
+titulo: 'Fendi Brillengestelle FF 0011 7SR/17-53-'
 ---
 
 Está [Fendi Brillengestelle FF 0011 7SR/17-53-17-135 Monturas de gafas  Marrón  Braun   53.0 para Mujer](https://www.amazon.es/dp/B00HUWQUB4/?tag=tolees-21) con 56.89 de descuento por 133.65 EUR (original: 310 EUR) en el siguiente enlace!

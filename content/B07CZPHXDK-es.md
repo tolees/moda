@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour Sportstyle Logo Tank Camise al 42.32 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41q-64yFe%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41q-64yFe%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41q-64yFe%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 25.99 EUR
 inStock: true
 prodname: 'Under Armour Sportstyle Logo Tank Camiseta sin Mangas  Hombre  Azul Academy/White 408  XXL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CZPHXDK/?tag=tolees-21'
+descuento: '42.32'
+titulo: 'Under Armour Sportstyle Logo Tank Camise'
 ---
 
 Está [Under Armour Sportstyle Logo Tank Camiseta sin Mangas  Hombre  Azul Academy/White 408  XXL](https://www.amazon.es/dp/B07CZPHXDK/?tag=tolees-21) con 42.32 de descuento por 14.99 EUR (original: 25.99 EUR) en el siguiente enlace!

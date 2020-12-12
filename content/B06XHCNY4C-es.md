@@ -3,6 +3,7 @@ layout: post
 title: 'Helly Hansen HH LIFA Crew Camiseta Técni al 38.96 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gtj7pxfyL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41gtj7pxfyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gtj7pxfyL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 80 EUR
 inStock: true
 prodname: 'Helly Hansen HH LIFA Crew Camiseta Técnica Lana Merino  Hombre  Azul  Evening Blue   M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XHCNY4C/?tag=tolees-21'
+descuento: '38.96'
+titulo: 'Helly Hansen HH LIFA Crew Camiseta Técni'
 ---
 
 Está [Helly Hansen HH LIFA Crew Camiseta Técnica Lana Merino  Hombre  Azul  Evening Blue   M](https://www.amazon.es/dp/B06XHCNY4C/?tag=tolees-21) con 38.96 de descuento por 48.83 EUR (original: 80 EUR) en el siguiente enlace!

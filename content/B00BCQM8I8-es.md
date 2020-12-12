@@ -3,6 +3,7 @@ layout: post
 title: 'Geox D MARIEC.MID B - Plataforma de cuer al 50.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ACaMsw1HL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ACaMsw1HL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ACaMsw1HL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 109.9 EUR
 inStock: true
 prodname: 'Geox D MARIEC.MID B - Plataforma de cuero mujer  Negro  Nero  Schwarz  BLACK C9999     37.5 EU  4.5 UK '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00BCQM8I8/?tag=tolees-21'
+descuento: '50.00'
+titulo: 'Geox D MARIEC.MID B - Plataforma de cuer'
 ---
 
 Está [Geox D MARIEC.MID B - Plataforma de cuero mujer  Negro  Nero  Schwarz  BLACK C9999     37.5 EU  4.5 UK ](https://www.amazon.es/dp/B00BCQM8I8/?tag=tolees-21) con 50.00 de descuento por 54.95 EUR (original: 109.9 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Crocs Swiftwater Wave M  Zapatos de Agua al 30.11 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZdltYrS-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZdltYrS-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZdltYrS-L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Crocs Swiftwater Wave M  Zapatos de Agua para Hombre  Negro  Black/Pearl White 069   45/46 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01H6NY0IG/?tag=tolees-21'
+descuento: '30.11'
+titulo: 'Crocs Swiftwater Wave M  Zapatos de Agua'
 ---
 
 Está [Crocs Swiftwater Wave M  Zapatos de Agua para Hombre  Negro  Black/Pearl White 069   45/46 EU](https://www.amazon.es/dp/B01H6NY0IG/?tag=tolees-21) con 30.11 de descuento por 27.95 EUR (original: 39.99 EUR) en el siguiente enlace!

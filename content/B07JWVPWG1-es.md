@@ -3,6 +3,7 @@ layout: post
 title: 'PUMA Modern Sports FoldUp Leggins  Mujer al 57.82 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31LCj4%2B5GbL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31LCj4%2B5GbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31LCj4%2B5GbL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 44.95 EUR
 inStock: true
 prodname: 'PUMA Modern Sports FoldUp Leggins  Mujer  Negro Black/Fair Aqua Silver  M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JWVPWG1/?tag=tolees-21'
+descuento: '57.82'
+titulo: 'PUMA Modern Sports FoldUp Leggins  Mujer'
 ---
 
 Ahora mismo tienes [PUMA Modern Sports FoldUp Leggins  Mujer  Negro Black/Fair Aqua Silver  M](https://www.amazon.es/dp/B07JWVPWG1/?tag=tolees-21) a 18.96 EUR (original: 44.95 EUR) (57.82 %  de descuento) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Volcom Crisp BSC SS Camiseta Manga Corta al 53.17 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TbXOuDL-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41TbXOuDL-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TbXOuDL-L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 25.52 EUR
 inStock: true
 prodname: 'Volcom Crisp BSC SS Camiseta Manga Corta  Hombre  Blanco  L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078VS8BJW/?tag=tolees-21'
+descuento: '53.17'
+titulo: 'Volcom Crisp BSC SS Camiseta Manga Corta'
 ---
 
 Ahora mismo tienes [Volcom Crisp BSC SS Camiseta Manga Corta  Hombre  Blanco  L](https://www.amazon.es/dp/B078VS8BJW/?tag=tolees-21) a 11.95 EUR (original: 25.52 EUR) (53.17 %  de descuento) en el siguiente enlace!

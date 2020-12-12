@@ -3,6 +3,7 @@ layout: post
 title: 'Armani Exchange Quilted Chaqueta Bomber  al 76.40 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41USSVMjZqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41USSVMjZqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41USSVMjZqL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 200 EUR
 inStock: true
 prodname: 'Armani Exchange Quilted Chaqueta Bomber  Azul  Blue Moon 1567   Large para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F1K6MJ3/?tag=tolees-21'
+descuento: '76.40'
+titulo: 'Armani Exchange Quilted Chaqueta Bomber '
 ---
 
 Ahora mismo tienes [Armani Exchange Quilted Chaqueta Bomber  Azul  Blue Moon 1567   Large para Mujer](https://www.amazon.es/dp/B07F1K6MJ3/?tag=tolees-21) a 47.2 EUR (original: 200 EUR) (76.40 %  de descuento) en el siguiente enlace!

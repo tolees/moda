@@ -3,6 +3,7 @@ layout: post
 title: 'FIND Sudadera de Tercipelo de Manga Larg al 57.23 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZkuWel3qL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZkuWel3qL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZkuWel3qL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 26 EUR
 inStock: true
 prodname: 'FIND Sudadera de Tercipelo de Manga Larga para Mujer   Amarillo  Ochre   46  Talla del Fabricante: XX-Large '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07145NYYY/?tag=tolees-21'
+descuento: '57.23'
+titulo: 'FIND Sudadera de Tercipelo de Manga Larg'
 ---
 
 Ahora mismo tienes [FIND Sudadera de Tercipelo de Manga Larga para Mujer   Amarillo  Ochre   46  Talla del Fabricante: XX-Large ](https://www.amazon.es/dp/B07145NYYY/?tag=tolees-21) a 11.12 EUR (original: 26 EUR) (57.23 %  de descuento) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 59.98 % en IRIS & LILLY Bañador con Espalda Escotad'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KttShwz1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41KttShwz1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41KttShwz1L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'IRIS & LILLY Bañador con Espalda Escotada para Mujer  Multicolor  Animal Print/fuchsia/turquoise Strap   12  Talla del fabricante: Medium '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XPM549Z/?tag=tolees-21'
+descuento: '59.98'
+titulo: 'IRIS & LILLY Bañador con Espalda Escotad'
 ---
 
 Tienes [IRIS & LILLY Bañador con Espalda Escotada para Mujer  Multicolor  Animal Print/fuchsia/turquoise Strap   12  Talla del fabricante: Medium ](https://www.amazon.es/dp/B06XPM549Z/?tag=tolees-21) con un 59.98 % de descuento con precio de oferta de 8 EUR (original: 19.99 EUR) en el siguiente enlace!

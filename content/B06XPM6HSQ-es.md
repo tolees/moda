@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 91.59 % en Lindbergh Men s Waistcoat For Suit  Chaq'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41eELoUFVLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41eELoUFVLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41eELoUFVLL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 71.12 EUR
 inStock: true
 prodname: 'Lindbergh Men s Waistcoat For Suit  Chaqueta de Traje para Hombre  Gris  Lt Grey   48'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XPM6HSQ/?tag=tolees-21'
+descuento: '91.59'
+titulo: 'Lindbergh Men s Waistcoat For Suit  Chaq'
 ---
 
 Tienes [Lindbergh Men s Waistcoat For Suit  Chaqueta de Traje para Hombre  Gris  Lt Grey   48](https://www.amazon.es/dp/B06XPM6HSQ/?tag=tolees-21) con un 91.59 % de descuento con precio de oferta de 5.98 EUR (original: 71.12 EUR) en el siguiente enlace!

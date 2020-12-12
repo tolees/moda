@@ -3,6 +3,7 @@ layout: post
 title: 'Trucco - Vestido Estampado Falda Cruzada al 51.51 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41J4cQwZvlL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41J4cQwZvlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41J4cQwZvlL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'Trucco - Vestido Estampado Falda Cruzada  Mujer  Rosa  Rosa Claro   42  Tamaño del fabricante:42 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073SBV3WF/?tag=tolees-21'
+descuento: '51.51'
+titulo: 'Trucco - Vestido Estampado Falda Cruzada'
 ---
 
 Está [Trucco - Vestido Estampado Falda Cruzada  Mujer  Rosa  Rosa Claro   42  Tamaño del fabricante:42 ](https://www.amazon.es/dp/B073SBV3WF/?tag=tolees-21) con 51.51 de descuento por 29.07 EUR (original: 59.95 EUR) en el siguiente enlace!

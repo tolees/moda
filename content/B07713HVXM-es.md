@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.00 % en G-STAR RAW Drillon R T S/s Camiseta  Azu'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41IgRqIrcRL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41IgRqIrcRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41IgRqIrcRL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 35 EUR
 inStock: true
 prodname: 'G-STAR RAW Drillon R T S/s Camiseta  Azul  Sartho Blue Htr 6370   X-Large para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07713HVXM/?tag=tolees-21'
+descuento: '40.00'
+titulo: 'G-STAR RAW Drillon R T S/s Camiseta  Azu'
 ---
 
 Tienes [G-STAR RAW Drillon R T S/s Camiseta  Azul  Sartho Blue Htr 6370   X-Large para Hombre](https://www.amazon.es/dp/B07713HVXM/?tag=tolees-21) con un 40.00 % de descuento con precio de oferta de 21 EUR (original: 35 EUR) en el siguiente enlace!

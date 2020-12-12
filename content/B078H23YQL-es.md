@@ -3,6 +3,7 @@ layout: post
 title: 'Ultrasport Advanced Chaqueta de plumas d al 28.02 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41W2oaaaWJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41W2oaaaWJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41W2oaaaWJL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 69.99 EUR
 inStock: true
 prodname: 'Ultrasport Advanced Chaqueta de plumas de montaña/deportes de invierno para hombre Mylo  chaqueta de esquí  chaqueta de snowboard  chaqueta acolchada  chaqueta de invierno  chaqueta de nieve  Gris Oscuro/Neon Amarillo  XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078H23YQL/?tag=tolees-21'
+descuento: '28.02'
+titulo: 'Ultrasport Advanced Chaqueta de plumas d'
 ---
 
 Ahora mismo tienes [Ultrasport Advanced Chaqueta de plumas de montaña/deportes de invierno para hombre Mylo  chaqueta de esquí  chaqueta de snowboard  chaqueta acolchada  chaqueta de invierno  chaqueta de nieve  Gris Oscuro/Neon Amarillo  XL](https://www.amazon.es/dp/B078H23YQL/?tag=tolees-21) a 50.38 EUR (original: 69.99 EUR) (28.02 %  de descuento) en el siguiente enlace!

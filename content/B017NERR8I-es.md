@@ -3,6 +3,7 @@ layout: post
 title: 'Tom Ford FT5388  Monturas de gafas para  al 27.60 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31fKspDzeUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31fKspDzeUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31fKspDzeUL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 200 EUR
 inStock: true
 prodname: 'Tom Ford FT5388  Monturas de gafas para Mujer   Negro Lucido   52.0'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B017NERR8I/?tag=tolees-21'
+descuento: '27.60'
+titulo: 'Tom Ford FT5388  Monturas de gafas para '
 ---
 
 Está [Tom Ford FT5388  Monturas de gafas para Mujer   Negro Lucido   52.0](https://www.amazon.es/dp/B017NERR8I/?tag=tolees-21) con 27.60 de descuento por 144.8 EUR (original: 200 EUR) en el siguiente enlace!

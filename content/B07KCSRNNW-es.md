@@ -3,6 +3,7 @@ layout: post
 title: 'Love Moschino Tess.Jacquard NATU+PU  bol al 40.97 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51TFtnpNGXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51TFtnpNGXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51TFtnpNGXL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 124.2 EUR
 inStock: true
 prodname: 'Love Moschino Tess.Jacquard NATU+PU  bolso bandolera para Mujer  Multicolor  Naturale  15x10x15 centimeters  W x H x L '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KCSRNNW/?tag=tolees-21'
+descuento: '40.97'
+titulo: 'Love Moschino Tess.Jacquard NATU+PU  bol'
 ---
 
 Está [Love Moschino Tess.Jacquard NATU+PU  bolso bandolera para Mujer  Multicolor  Naturale  15x10x15 centimeters  W x H x L ](https://www.amazon.es/dp/B07KCSRNNW/?tag=tolees-21) con 40.97 de descuento por 73.32 EUR (original: 124.2 EUR) en el siguiente enlace!

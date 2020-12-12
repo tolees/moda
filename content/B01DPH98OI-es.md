@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 85.96 % en Solo Capri Abito A Tubino con Volant Ves'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31tuQ9MiTnL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31tuQ9MiTnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31tuQ9MiTnL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 75 EUR
 inStock: true
 prodname: 'Solo Capri Abito A Tubino con Volant Vestido   Bianco_ BLU   M para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01DPH98OI/?tag=tolees-21'
+descuento: '85.96'
+titulo: 'Solo Capri Abito A Tubino con Volant Ves'
 ---
 
 Tienes [Solo Capri Abito A Tubino con Volant Vestido   Bianco_ BLU   M para Mujer](https://www.amazon.es/dp/B01DPH98OI/?tag=tolees-21) con un 85.96 % de descuento con precio de oferta de 10.53 EUR (original: 75 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Napapijri Rainforest Winter  Chaqueta  M al 39.72 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LBTNiH6aL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41LBTNiH6aL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LBTNiH6aL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 199 EUR
 inStock: true
 prodname: 'Napapijri Rainforest Winter  Chaqueta  Mujer  Rojo  Pop Red R41  Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079JWN6XG/?tag=tolees-21'
+descuento: '39.72'
+titulo: 'Napapijri Rainforest Winter  Chaqueta  M'
 ---
 
 Está [Napapijri Rainforest Winter  Chaqueta  Mujer  Rojo  Pop Red R41  Large](https://www.amazon.es/dp/B079JWN6XG/?tag=tolees-21) con 39.72 de descuento por 119.95 EUR (original: 199 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour Play Up Short 2.0 Pantalón  al 40.51 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41oTP3g9eLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41oTP3g9eLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41oTP3g9eLL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 27.99 EUR
 inStock: true
 prodname: 'Under Armour Play Up Short 2.0 Pantalón Corto  Mujer  Azul  Coded Blue/Pitch Grey 451   M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CZPRDXS/?tag=tolees-21'
+descuento: '40.51'
+titulo: 'Under Armour Play Up Short 2.0 Pantalón '
 ---
 
 Está [Under Armour Play Up Short 2.0 Pantalón Corto  Mujer  Azul  Coded Blue/Pitch Grey 451   M](https://www.amazon.es/dp/B07CZPRDXS/?tag=tolees-21) con 40.51 de descuento por 16.65 EUR (original: 27.99 EUR) en el siguiente enlace!

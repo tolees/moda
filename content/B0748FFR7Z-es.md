@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield 4.J.Ap.T.Pink Stripes Jersey al 53.38 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/5133Kf6eirL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/5133Kf6eirL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/5133Kf6eirL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 24.99 EUR
 inStock: true
 prodname: 'Springfield 4.J.Ap.T.Pink Stripes Jersey  Rosa  Pinks   Small  Tamaño del Fabricante:S  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0748FFR7Z/?tag=tolees-21'
+descuento: '53.38'
+titulo: 'Springfield 4.J.Ap.T.Pink Stripes Jersey'
 ---
 
 Ahora mismo tienes [Springfield 4.J.Ap.T.Pink Stripes Jersey  Rosa  Pinks   Small  Tamaño del Fabricante:S  para Mujer](https://www.amazon.es/dp/B0748FFR7Z/?tag=tolees-21) a 11.65 EUR (original: 24.99 EUR) (53.38 %  de descuento) en el siguiente enlace!

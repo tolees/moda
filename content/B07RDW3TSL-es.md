@@ -3,6 +3,7 @@ layout: post
 title: 'AIni Mujer Verano De Playa Vestido De Li al 87.96 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/313gsqLH8ZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/313gsqLH8ZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/313gsqLH8ZL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 12.29 EUR
 inStock: true
 prodname: 'AIni Mujer Verano De Playa Vestido De Lino De Verano Vestido Mujer Mujer Camiseta AlgodóN Casual Tallas Grandes Vestido De SeñOras Tallas Grandes Vestidos De Playa'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07RDW3TSL/?tag=tolees-21'
+descuento: '87.96'
+titulo: 'AIni Mujer Verano De Playa Vestido De Li'
 ---
 
 Está [AIni Mujer Verano De Playa Vestido De Lino De Verano Vestido Mujer Mujer Camiseta AlgodóN Casual Tallas Grandes Vestido De SeñOras Tallas Grandes Vestidos De Playa](https://www.amazon.es/dp/B07RDW3TSL/?tag=tolees-21) con 87.96 de descuento por 1.48 EUR (original: 12.29 EUR) en el siguiente enlace!

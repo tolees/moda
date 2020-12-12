@@ -3,6 +3,7 @@ layout: post
 title: 'Burton Jet Set Chaqueta de Snowboard  Mu al 55.30 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wnaECgijL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41wnaECgijL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wnaECgijL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 200 EUR
 inStock: true
 prodname: 'Burton Jet Set Chaqueta de Snowboard  Mujer  Azul  Mood Indigo   L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07B6SZ78X/?tag=tolees-21'
+descuento: '55.30'
+titulo: 'Burton Jet Set Chaqueta de Snowboard  Mu'
 ---
 
 Está [Burton Jet Set Chaqueta de Snowboard  Mujer  Azul  Mood Indigo   L](https://www.amazon.es/dp/B07B6SZ78X/?tag=tolees-21) con 55.30 de descuento por 89.41 EUR (original: 200 EUR) en el siguiente enlace!

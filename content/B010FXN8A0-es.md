@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 54.23 % en Joma Katy Camiseta de tirantes  Mujer  A'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZuZEiQ62L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZuZEiQ62L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZuZEiQ62L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 13 EUR
 inStock: true
 prodname: 'Joma Katy Camiseta de tirantes  Mujer  Amarillo  S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B010FXN8A0/?tag=tolees-21'
+descuento: '54.23'
+titulo: 'Joma Katy Camiseta de tirantes  Mujer  A'
 ---
 
 Tienes [Joma Katy Camiseta de tirantes  Mujer  Amarillo  S](https://www.amazon.es/dp/B010FXN8A0/?tag=tolees-21) con un 54.23 % de descuento con precio de oferta de 5.95 EUR (original: 13 EUR) en el siguiente enlace!

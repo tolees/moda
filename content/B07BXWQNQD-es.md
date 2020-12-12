@@ -3,6 +3,7 @@ layout: post
 title: 'Urban GoCo Camisas Manga Corta de Camise al 25.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/516weBJv0vL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/516weBJv0vL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/516weBJv0vL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 13.88 EUR
 inStock: true
 prodname: 'Urban GoCo Camisas Manga Corta de Camiseta de Floral Impreso de Blusa del Hombro Fuera de Las Mujeres Tops  Medium  6 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BXWQNQD/?tag=tolees-21'
+descuento: '25.00'
+titulo: 'Urban GoCo Camisas Manga Corta de Camise'
 ---
 
 Está [Urban GoCo Camisas Manga Corta de Camiseta de Floral Impreso de Blusa del Hombro Fuera de Las Mujeres Tops  Medium  6 ](https://www.amazon.es/dp/B07BXWQNQD/?tag=tolees-21) con 25.00 de descuento por 10.41 EUR (original: 13.88 EUR) en el siguiente enlace!

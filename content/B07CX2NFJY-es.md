@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 61.64 % en Superdry Classic Standard Hood  Sudadera'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51f1Yo8s%2BSL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51f1Yo8s%2BSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51f1Yo8s%2BSL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 79.95 EUR
 inStock: true
 prodname: 'Superdry Classic Standard Hood  Sudadera para Hombre  Azul  Bright Navy Mega Grit Rq4  Small'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CX2NFJY/?tag=tolees-21'
+descuento: '61.64'
+titulo: 'Superdry Classic Standard Hood  Sudadera'
 ---
 
 Tienes [Superdry Classic Standard Hood  Sudadera para Hombre  Azul  Bright Navy Mega Grit Rq4  Small](https://www.amazon.es/dp/B07CX2NFJY/?tag=tolees-21) con un 61.64 % de descuento con precio de oferta de 30.67 EUR (original: 79.95 EUR) en el siguiente enlace!

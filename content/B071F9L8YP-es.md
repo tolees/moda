@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour Performance Polo Novelty Ca al 56.77 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TFuJ4muPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41TFuJ4muPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TFuJ4muPL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 35 EUR
 inStock: true
 prodname: 'Under Armour Performance Polo Novelty Camiseta de Manga Corta  Niños  Azul  487   XS'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071F9L8YP/?tag=tolees-21'
+descuento: '56.77'
+titulo: 'Under Armour Performance Polo Novelty Ca'
 ---
 
 Está [Under Armour Performance Polo Novelty Camiseta de Manga Corta  Niños  Azul  487   XS](https://www.amazon.es/dp/B071F9L8YP/?tag=tolees-21) con 56.77 de descuento por 15.13 EUR (original: 35 EUR) en el siguiente enlace!

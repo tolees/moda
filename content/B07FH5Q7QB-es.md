@@ -3,6 +3,7 @@ layout: post
 title: 'Havaianas Top Mix  Chanclas para Unisex  al 34.87 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31s%2BNl4HlsL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31s%2BNl4HlsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31s%2BNl4HlsL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 19.9 EUR
 inStock: true
 prodname: 'Havaianas Top Mix  Chanclas para Unisex Adulto  Multicolor  Graphite/Grey   35/36 EU [33/34 BR]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FH5Q7QB/?tag=tolees-21'
+descuento: '34.87'
+titulo: 'Havaianas Top Mix  Chanclas para Unisex '
 ---
 
 Está [Havaianas Top Mix  Chanclas para Unisex Adulto  Multicolor  Graphite/Grey   35/36 EU [33/34 BR]](https://www.amazon.es/dp/B07FH5Q7QB/?tag=tolees-21) con 34.87 de descuento por 12.96 EUR (original: 19.9 EUR) en el siguiente enlace!

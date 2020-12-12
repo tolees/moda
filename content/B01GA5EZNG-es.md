@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 81.20 % en VERO MODA VMNORA LS HIGHNECK TOP SWT V  '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RHCYXnPUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41RHCYXnPUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RHCYXnPUL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 44.95 EUR
 inStock: true
 prodname: 'VERO MODA VMNORA LS HIGHNECK TOP SWT V  suéter Mujer  Gris  Dark Grey Melange   38  Talla del fabricante: Medium '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01GA5EZNG/?tag=tolees-21'
+descuento: '81.20'
+titulo: 'VERO MODA VMNORA LS HIGHNECK TOP SWT V  '
 ---
 
 Tienes [VERO MODA VMNORA LS HIGHNECK TOP SWT V  suéter Mujer  Gris  Dark Grey Melange   38  Talla del fabricante: Medium ](https://www.amazon.es/dp/B01GA5EZNG/?tag=tolees-21) con un 81.20 % de descuento con precio de oferta de 8.45 EUR (original: 44.95 EUR) en el siguiente enlace!

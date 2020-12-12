@@ -3,6 +3,7 @@ layout: post
 title: 'Levi s Type 3 Sherpa Trucker Chaqueta  B al 50.94 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jzzhE%2BdFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41jzzhE%2BdFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jzzhE%2BdFL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 130 EUR
 inStock: true
 prodname: 'Levi s Type 3 Sherpa Trucker Chaqueta  Beige  True Chino Cord Better 0066   X-Large para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D6ZTDL4/?tag=tolees-21'
+descuento: '50.94'
+titulo: 'Levi s Type 3 Sherpa Trucker Chaqueta  B'
 ---
 
 Ahora mismo tienes [Levi s Type 3 Sherpa Trucker Chaqueta  Beige  True Chino Cord Better 0066   X-Large para Hombre](https://www.amazon.es/dp/B07D6ZTDL4/?tag=tolees-21) a 63.78 EUR (original: 130 EUR) (50.94 %  de descuento) en el siguiente enlace!

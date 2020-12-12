@@ -3,6 +3,7 @@ layout: post
 title: 'Joma Champion IV M/C Camiseta Equipamien al 61.26 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410oOyE5v8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/410oOyE5v8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410oOyE5v8L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 13.5 EUR
 inStock: true
 prodname: 'Joma Champion IV M/C Camiseta Equipamiento  Hombre  Rosa/Negro  4XS-3XS'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XDT8ZD2/?tag=tolees-21'
+descuento: '61.26'
+titulo: 'Joma Champion IV M/C Camiseta Equipamien'
 ---
 
 Está [Joma Champion IV M/C Camiseta Equipamiento  Hombre  Rosa/Negro  4XS-3XS](https://www.amazon.es/dp/B06XDT8ZD2/?tag=tolees-21) con 61.26 de descuento por 5.23 EUR (original: 13.5 EUR) en el siguiente enlace!

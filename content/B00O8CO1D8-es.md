@@ -3,6 +3,7 @@ layout: post
 title: 'Joma Brama Classic - Camiseta térmica de al 54.87 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PghLLATtL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41PghLLATtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PghLLATtL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 24.95 EUR
 inStock: true
 prodname: 'Joma Brama Classic - Camiseta térmica de manga larga para niños  color azul royal  talla 8-10 años'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00O8CO1D8/?tag=tolees-21'
+descuento: '54.87'
+titulo: 'Joma Brama Classic - Camiseta térmica de'
 ---
 
 Ahora mismo tienes [Joma Brama Classic - Camiseta térmica de manga larga para niños  color azul royal  talla 8-10 años](https://www.amazon.es/dp/B00O8CO1D8/?tag=tolees-21) a 11.26 EUR (original: 24.95 EUR) (54.87 %  de descuento) en el siguiente enlace!

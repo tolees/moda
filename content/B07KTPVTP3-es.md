@@ -3,6 +3,7 @@ layout: post
 title: 'United Colors of Benetton Hombre Sweater al 79.97 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41J176gLa8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41J176gLa8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41J176gLa8L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 35.95 EUR
 inStock: true
 prodname: 'United Colors of Benetton Hombre Sweater L/s Jersey Not Applicable   Righe Grigie/Nere 914   Talla única  Talla del Fabricante: X-Small '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KTPVTP3/?tag=tolees-21'
+descuento: '79.97'
+titulo: 'United Colors of Benetton Hombre Sweater'
 ---
 
 Está [United Colors of Benetton Hombre Sweater L/s Jersey Not Applicable   Righe Grigie/Nere 914   Talla única  Talla del Fabricante: X-Small ](https://www.amazon.es/dp/B07KTPVTP3/?tag=tolees-21) con 79.97 de descuento por 7.2 EUR (original: 35.95 EUR) en el siguiente enlace!

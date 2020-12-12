@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 44.66 % en Superdry Dry Originals S/S Pocket tee Ca'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hSyzPHDJL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41hSyzPHDJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41hSyzPHDJL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 35 EUR
 inStock: true
 prodname: 'Superdry Dry Originals S/S Pocket tee Camiseta  Rosa  Florida Pink Space Dye Z2H   S para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MZJ5CCZ/?tag=tolees-21'
+descuento: '44.66'
+titulo: 'Superdry Dry Originals S/S Pocket tee Ca'
 ---
 
 Tienes [Superdry Dry Originals S/S Pocket tee Camiseta  Rosa  Florida Pink Space Dye Z2H   S para Hombre](https://www.amazon.es/dp/B07MZJ5CCZ/?tag=tolees-21) con un 44.66 % de descuento con precio de oferta de 19.37 EUR (original: 35 EUR) en el siguiente enlace!

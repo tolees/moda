@@ -3,6 +3,7 @@ layout: post
 title: 'Columbia Pouring Adventure II - Chaqueta al 40.05 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41iUwk%2BJPqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41iUwk%2BJPqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41iUwk%2BJPqL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 89.99 EUR
 inStock: true
 prodname: 'Columbia Pouring Adventure II - Chaqueta Impermeable  Mujer  Verde  Pond  M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KSNPBRM/?tag=tolees-21'
+descuento: '40.05'
+titulo: 'Columbia Pouring Adventure II - Chaqueta'
 ---
 
 Está [Columbia Pouring Adventure II - Chaqueta Impermeable  Mujer  Verde  Pond  M](https://www.amazon.es/dp/B07KSNPBRM/?tag=tolees-21) con 40.05 de descuento por 53.95 EUR (original: 89.99 EUR) en el siguiente enlace!

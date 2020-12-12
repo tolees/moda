@@ -3,6 +3,7 @@ layout: post
 title: 'Lee Rider Jeans Vaqueros Slim  Azul  Kic al 70.17 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kpxb%2B1G9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41kpxb%2B1G9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kpxb%2B1G9L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'Lee Rider Jeans Vaqueros Slim  Azul  Kick It Cdpf   28W / 32L para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077NL5GFS/?tag=tolees-21'
+descuento: '70.17'
+titulo: 'Lee Rider Jeans Vaqueros Slim  Azul  Kic'
 ---
 
 Está [Lee Rider Jeans Vaqueros Slim  Azul  Kick It Cdpf   28W / 32L para Hombre](https://www.amazon.es/dp/B077NL5GFS/?tag=tolees-21) con 70.17 de descuento por 29.82 EUR (original: 99.95 EUR) en el siguiente enlace!

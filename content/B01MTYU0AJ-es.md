@@ -3,6 +3,7 @@ layout: post
 title: 'Timberland Adventure 2.0 Cupsole  Botas  al 30.04 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415sn0ZosTL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/415sn0ZosTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415sn0ZosTL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 140 EUR
 inStock: true
 prodname: 'Timberland Adventure 2.0 Cupsole  Botas Chukka para Hombre  Amarillo  Wheat Nubuck   41.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MTYU0AJ/?tag=tolees-21'
+descuento: '30.04'
+titulo: 'Timberland Adventure 2.0 Cupsole  Botas '
 ---
 
 Está [Timberland Adventure 2.0 Cupsole  Botas Chukka para Hombre  Amarillo  Wheat Nubuck   41.5 EU](https://www.amazon.es/dp/B01MTYU0AJ/?tag=tolees-21) con 30.04 de descuento por 97.95 EUR (original: 140 EUR) en el siguiente enlace!

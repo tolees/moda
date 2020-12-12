@@ -3,6 +3,7 @@ layout: post
 title: 'JACK & JONES Jcojans Sweat Zip Hood  Sud al 43.37 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CMaXU-ToL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41CMaXU-ToL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CMaXU-ToL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'JACK & JONES Jcojans Sweat Zip Hood  Sudadera para Hombre  Gris  Light Grey Melange    Talla del Fabricante: Medium Herstellergr M '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GWK8KM4/?tag=tolees-21'
+descuento: '43.37'
+titulo: 'JACK & JONES Jcojans Sweat Zip Hood  Sud'
 ---
 
 Está [JACK & JONES Jcojans Sweat Zip Hood  Sudadera para Hombre  Gris  Light Grey Melange    Talla del Fabricante: Medium Herstellergr M ](https://www.amazon.es/dp/B07GWK8KM4/?tag=tolees-21) con 43.37 de descuento por 28.31 EUR (original: 49.99 EUR) en el siguiente enlace!

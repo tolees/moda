@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 38.02 % en Bridesmay Vestido de Cóctel Fiesta Mujer'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-ufzbDyAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41-ufzbDyAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-ufzbDyAL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 50 EUR
 inStock: true
 prodname: 'Bridesmay Vestido de Cóctel Fiesta Mujer Verano Años 50 Vintage Rockabilly Sin Mangas Pin Up Small Cherry M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07LH2MJFY/?tag=tolees-21'
+descuento: '38.02'
+titulo: 'Bridesmay Vestido de Cóctel Fiesta Mujer'
 ---
 
 Tienes [Bridesmay Vestido de Cóctel Fiesta Mujer Verano Años 50 Vintage Rockabilly Sin Mangas Pin Up Small Cherry M](https://www.amazon.es/dp/B07LH2MJFY/?tag=tolees-21) con un 38.02 % de descuento con precio de oferta de 30.99 EUR (original: 50 EUR) en el siguiente enlace!

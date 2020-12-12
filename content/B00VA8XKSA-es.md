@@ -3,6 +3,7 @@ layout: post
 title: 'Joma Nobel Pantalón de equipación  Burde al 40.40 % de descuento'
 date: 
 thumbnailImage: ''
+image: ''
 images: [ '' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 4.95 EUR
 inStock: true
 prodname: 'Joma Nobel Pantalón de equipación  Burdeos  6XS-5XS'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00VA8XKSA/?tag=tolees-21'
+descuento: '40.40'
+titulo: 'Joma Nobel Pantalón de equipación  Burde'
 ---
 
 Ahora mismo tienes [Joma Nobel Pantalón de equipación  Burdeos  6XS-5XS](https://www.amazon.es/dp/B00VA8XKSA/?tag=tolees-21) a 2.95 EUR (original: 4.95 EUR) (40.40 %  de descuento) en el siguiente enlace!

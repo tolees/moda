@@ -3,6 +3,7 @@ layout: post
 title: 'ESPRIT Collection 998eo1k806 Camisa Mang al 61.87 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51syRqPHhqL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51syRqPHhqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51syRqPHhqL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'ESPRIT Collection 998eo1k806 Camisa Manga Larga  Azul  Navy 400   Large para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BC12CXH/?tag=tolees-21'
+descuento: '61.87'
+titulo: 'ESPRIT Collection 998eo1k806 Camisa Mang'
 ---
 
 Está [ESPRIT Collection 998eo1k806 Camisa Manga Larga  Azul  Navy 400   Large para Mujer](https://www.amazon.es/dp/B07BC12CXH/?tag=tolees-21) con 61.87 de descuento por 15.25 EUR (original: 39.99 EUR) en el siguiente enlace!

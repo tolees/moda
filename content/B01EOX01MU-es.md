@@ -3,6 +3,7 @@ layout: post
 title: 'Helly Hansen COASTAL 2 Parka - Parka aco al 53.98 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41A9BJnIp1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41A9BJnIp1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41A9BJnIp1L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 270 EUR
 inStock: true
 prodname: 'Helly Hansen COASTAL 2 Parka - Parka acolchada impermeable para hombre  color negro  talla L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01EOX01MU/?tag=tolees-21'
+descuento: '53.98'
+titulo: 'Helly Hansen COASTAL 2 Parka - Parka aco'
 ---
 
 Ahora mismo tienes [Helly Hansen COASTAL 2 Parka - Parka acolchada impermeable para hombre  color negro  talla L](https://www.amazon.es/dp/B01EOX01MU/?tag=tolees-21) a 124.26 EUR (original: 270 EUR) (53.98 %  de descuento) en el siguiente enlace!

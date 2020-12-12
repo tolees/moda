@@ -3,6 +3,7 @@ layout: post
 title: 'Rieker Y9020  Botines para Mujer  Gris   al 55.25 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414jlDIZ-2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/414jlDIZ-2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414jlDIZ-2L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 49.94 EUR
 inStock: true
 prodname: 'Rieker Y9020  Botines para Mujer  Gris  Rauch / 45   38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01F3KGSUW/?tag=tolees-21'
+descuento: '55.25'
+titulo: 'Rieker Y9020  Botines para Mujer  Gris  '
 ---
 
 Está [Rieker Y9020  Botines para Mujer  Gris  Rauch / 45   38 EU](https://www.amazon.es/dp/B01F3KGSUW/?tag=tolees-21) con 55.25 de descuento por 22.35 EUR (original: 49.94 EUR) en el siguiente enlace!

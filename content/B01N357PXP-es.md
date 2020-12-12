@@ -3,6 +3,7 @@ layout: post
 title: 'JACK & JONES Jordaneel Shirt SS  Camisa  al 70.53 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ezv92d8xL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51ezv92d8xL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ezv92d8xL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 20.43 EUR
 inStock: true
 prodname: 'JACK & JONES Jordaneel Shirt SS  Camisa para Hombre   Stone Blue Fit:Slim  Medium'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N357PXP/?tag=tolees-21'
+descuento: '70.53'
+titulo: 'JACK & JONES Jordaneel Shirt SS  Camisa '
 ---
 
 Está [JACK & JONES Jordaneel Shirt SS  Camisa para Hombre   Stone Blue Fit:Slim  Medium](https://www.amazon.es/dp/B01N357PXP/?tag=tolees-21) con 70.53 de descuento por 6.02 EUR (original: 20.43 EUR) en el siguiente enlace!

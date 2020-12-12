@@ -3,6 +3,7 @@ layout: post
 title: 'Tommy Hilfiger Corporate Stripe Beach Sa al 32.46 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416k3AAGJuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/416k3AAGJuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416k3AAGJuL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 39.9 EUR
 inStock: true
 prodname: 'Tommy Hilfiger Corporate Stripe Beach Sandal  Chanclas para Hombre  Azul  Midnight 403   46 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07L3FWKKR/?tag=tolees-21'
+descuento: '32.46'
+titulo: 'Tommy Hilfiger Corporate Stripe Beach Sa'
 ---
 
 Está [Tommy Hilfiger Corporate Stripe Beach Sandal  Chanclas para Hombre  Azul  Midnight 403   46 EU](https://www.amazon.es/dp/B07L3FWKKR/?tag=tolees-21) con 32.46 de descuento por 26.95 EUR (original: 39.9 EUR) en el siguiente enlace!

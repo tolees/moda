@@ -3,6 +3,7 @@ layout: post
 title: 'The North Face McMurdo - Chaqueta Imperm al 46.42 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412NPgkPAcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/412NPgkPAcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412NPgkPAcL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 430 EUR
 inStock: true
 prodname: 'The North Face McMurdo - Chaqueta Impermeable con relleno de plumón de ganso para Hombre  Marrón  Bracken Brown   M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FQDQQB1/?tag=tolees-21'
+descuento: '46.42'
+titulo: 'The North Face McMurdo - Chaqueta Imperm'
 ---
 
 Ahora mismo tienes [The North Face McMurdo - Chaqueta Impermeable con relleno de plumón de ganso para Hombre  Marrón  Bracken Brown   M](https://www.amazon.es/dp/B07FQDQQB1/?tag=tolees-21) a 230.39 EUR (original: 430 EUR) (46.42 %  de descuento) en el siguiente enlace!

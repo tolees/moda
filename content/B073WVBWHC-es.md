@@ -3,6 +3,7 @@ layout: post
 title: 'Volcom Radical Daze tee Camiseta  Mujer  al 47.16 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kqmhm8BGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41kqmhm8BGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kqmhm8BGL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 29.24 EUR
 inStock: true
 prodname: 'Volcom Radical Daze tee Camiseta  Mujer  Blanco  Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073WVBWHC/?tag=tolees-21'
+descuento: '47.16'
+titulo: 'Volcom Radical Daze tee Camiseta  Mujer '
 ---
 
 Está [Volcom Radical Daze tee Camiseta  Mujer  Blanco  Large](https://www.amazon.es/dp/B073WVBWHC/?tag=tolees-21) con 47.16 de descuento por 15.45 EUR (original: 29.24 EUR) en el siguiente enlace!

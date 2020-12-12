@@ -3,6 +3,7 @@ layout: post
 title: 'Tous BILLETERA M. K UNIQUE MARINO-MULTI al 50.63 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OVLygOdUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41OVLygOdUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41OVLygOdUL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 79 EUR
 inStock: true
 prodname: 'Tous BILLETERA M. K UNIQUE MARINO-MULTI'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07NYB36CR/?tag=tolees-21'
+descuento: '50.63'
+titulo: 'Tous BILLETERA M. K UNIQUE MARINO-MULTI'
 ---
 
 Está [Tous BILLETERA M. K UNIQUE MARINO-MULTI](https://www.amazon.es/dp/B07NYB36CR/?tag=tolees-21) con 50.63 de descuento por 39 EUR (original: 79 EUR) en el siguiente enlace!

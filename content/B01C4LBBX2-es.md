@@ -3,6 +3,7 @@ layout: post
 title: 'Double Agent Falda Crepe Tintada En Pren al 85.17 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414O6q9rljL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/414O6q9rljL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414O6q9rljL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 23 EUR
 inStock: true
 prodname: 'Double Agent Falda Crepe Tintada En Prenda  Mujer  Azul Noche M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01C4LBBX2/?tag=tolees-21'
+descuento: '85.17'
+titulo: 'Double Agent Falda Crepe Tintada En Pren'
 ---
 
 Está [Double Agent Falda Crepe Tintada En Prenda  Mujer  Azul Noche M](https://www.amazon.es/dp/B01C4LBBX2/?tag=tolees-21) con 85.17 de descuento por 3.41 EUR (original: 23 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 80.27 % en Mr.Van LED Plegable Espejo  Espejo Portá'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cKdSObrPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41cKdSObrPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41cKdSObrPL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 40.5 EUR
 inStock: true
 prodname: 'Mr.Van LED Plegable Espejo  Espejo Portátil de Viaje con 3 Pliegues/Espejo de Maquillaje con 8 Leds/Foldable Espejo del Bolso con Luces'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CK48ND5/?tag=tolees-21'
+descuento: '80.27'
+titulo: 'Mr.Van LED Plegable Espejo  Espejo Portá'
 ---
 
 Tienes [Mr.Van LED Plegable Espejo  Espejo Portátil de Viaje con 3 Pliegues/Espejo de Maquillaje con 8 Leds/Foldable Espejo del Bolso con Luces](https://www.amazon.es/dp/B07CK48ND5/?tag=tolees-21) con un 80.27 % de descuento con precio de oferta de 7.99 EUR (original: 40.5 EUR) en el siguiente enlace!

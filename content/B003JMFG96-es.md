@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 43.74 % en Geox Jr Savage  - Zapatillas de deporte '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31WAJ0V5hBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31WAJ0V5hBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31WAJ0V5hBL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 59.9 EUR
 inStock: true
 prodname: 'Geox Jr Savage  - Zapatillas de deporte para niño  color negro  talla 34'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B003JMFG96/?tag=tolees-21'
+descuento: '43.74'
+titulo: 'Geox Jr Savage  - Zapatillas de deporte '
 ---
 
 Tienes [Geox Jr Savage  - Zapatillas de deporte para niño  color negro  talla 34](https://www.amazon.es/dp/B003JMFG96/?tag=tolees-21) con un 43.74 % de descuento con precio de oferta de 33.7 EUR (original: 59.9 EUR) en el siguiente enlace!

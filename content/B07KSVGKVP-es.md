@@ -3,6 +3,7 @@ layout: post
 title: 'Emporio Armani Underwear 9p300 Parte de  al 56.61 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51V0Zg-dqyL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51V0Zg-dqyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51V0Zg-dqyL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 75 EUR
 inStock: true
 prodname: 'Emporio Armani Underwear 9p300 Parte de Arriba de Bikini   Stampa Hawaii 06051   M  Talla del Fabricante: 90B  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KSVGKVP/?tag=tolees-21'
+descuento: '56.61'
+titulo: 'Emporio Armani Underwear 9p300 Parte de '
 ---
 
 Está [Emporio Armani Underwear 9p300 Parte de Arriba de Bikini   Stampa Hawaii 06051   M  Talla del Fabricante: 90B  para Mujer](https://www.amazon.es/dp/B07KSVGKVP/?tag=tolees-21) con 56.61 de descuento por 32.54 EUR (original: 75 EUR) en el siguiente enlace!

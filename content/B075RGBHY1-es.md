@@ -3,6 +3,7 @@ layout: post
 title: 'Double Agent 87229  Camiseta para Mujer  al 70.44 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-CGwIqqCL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41-CGwIqqCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-CGwIqqCL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 27 EUR
 inStock: true
 prodname: 'Double Agent 87229  Camiseta para Mujer   Gris Malva     Tamaño del Fabricante:S '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075RGBHY1/?tag=tolees-21'
+descuento: '70.44'
+titulo: 'Double Agent 87229  Camiseta para Mujer '
 ---
 
 Está [Double Agent 87229  Camiseta para Mujer   Gris Malva     Tamaño del Fabricante:S ](https://www.amazon.es/dp/B075RGBHY1/?tag=tolees-21) con 70.44 de descuento por 7.98 EUR (original: 27 EUR) en el siguiente enlace!

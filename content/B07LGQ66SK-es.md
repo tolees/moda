@@ -3,6 +3,7 @@ layout: post
 title: 'Dolores Promesas PV19 1017  Sudadera par al 60.50 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41V-Jk4BVcL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41V-Jk4BVcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41V-Jk4BVcL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 49.9 EUR
 inStock: true
 prodname: 'Dolores Promesas PV19 1017  Sudadera para Mujer  Gris  Gris 001   Small  Tamaño del Fabricante:S '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07LGQ66SK/?tag=tolees-21'
+descuento: '60.50'
+titulo: 'Dolores Promesas PV19 1017  Sudadera par'
 ---
 
 Está [Dolores Promesas PV19 1017  Sudadera para Mujer  Gris  Gris 001   Small  Tamaño del Fabricante:S ](https://www.amazon.es/dp/B07LGQ66SK/?tag=tolees-21) con 60.50 de descuento por 19.71 EUR (original: 49.9 EUR) en el siguiente enlace!

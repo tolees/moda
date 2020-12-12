@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour UA Torch  Zapatos de Balonc al 48.81 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31eDxzhXuKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31eDxzhXuKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31eDxzhXuKL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 90 EUR
 inStock: true
 prodname: 'Under Armour UA Torch  Zapatos de Baloncesto para Hombre  Negro  Black/Ghost Gray/Alpine   45 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076SF4QXP/?tag=tolees-21'
+descuento: '48.81'
+titulo: 'Under Armour UA Torch  Zapatos de Balonc'
 ---
 
 Ahora mismo tienes [Under Armour UA Torch  Zapatos de Baloncesto para Hombre  Negro  Black/Ghost Gray/Alpine   45 EU](https://www.amazon.es/dp/B076SF4QXP/?tag=tolees-21) a 46.07 EUR (original: 90 EUR) (48.81 %  de descuento) en el siguiente enlace!

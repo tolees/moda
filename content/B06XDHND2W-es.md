@@ -3,6 +3,7 @@ layout: post
 title: 'Wrangler Western Shirt  Camisa para Homb al 67.56 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41sQAen1QEL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41sQAen1QEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41sQAen1QEL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 72 EUR
 inStock: true
 prodname: 'Wrangler Western Shirt  Camisa para Hombre  Azul  Heritage Blue T3   Medium'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XDHND2W/?tag=tolees-21'
+descuento: '67.56'
+titulo: 'Wrangler Western Shirt  Camisa para Homb'
 ---
 
 Ahora mismo tienes [Wrangler Western Shirt  Camisa para Hombre  Azul  Heritage Blue T3   Medium](https://www.amazon.es/dp/B06XDHND2W/?tag=tolees-21) a 23.36 EUR (original: 72 EUR) (67.56 %  de descuento) en el siguiente enlace!

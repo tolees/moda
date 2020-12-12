@@ -3,6 +3,7 @@ layout: post
 title: 'Crocs Serena Slide Women  Sandalias de P al 35.95 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21xKm7hSoXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/21xKm7hSoXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21xKm7hSoXL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'Crocs Serena Slide Women  Sandalias de Punta Descubierta para Mujer  Blanco Oyster 12u  37/38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CMZSLNK/?tag=tolees-21'
+descuento: '35.95'
+titulo: 'Crocs Serena Slide Women  Sandalias de P'
 ---
 
 Está [Crocs Serena Slide Women  Sandalias de Punta Descubierta para Mujer  Blanco Oyster 12u  37/38 EU](https://www.amazon.es/dp/B07CMZSLNK/?tag=tolees-21) con 35.95 de descuento por 19.21 EUR (original: 29.99 EUR) en el siguiente enlace!

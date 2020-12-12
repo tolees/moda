@@ -3,6 +3,7 @@ layout: post
 title: 'Love Moschino T-Shirts Camiseta  Gris  M al 60.59 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41K95nP1-%2BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41K95nP1-%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41K95nP1-%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 108 EUR
 inStock: true
 prodname: 'Love Moschino T-Shirts Camiseta  Gris  Mel.Dark Gray B922   40  Talla del Fabricante: 42  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DG46WFN/?tag=tolees-21'
+descuento: '60.59'
+titulo: 'Love Moschino T-Shirts Camiseta  Gris  M'
 ---
 
 Ahora mismo tienes [Love Moschino T-Shirts Camiseta  Gris  Mel.Dark Gray B922   40  Talla del Fabricante: 42  para Mujer](https://www.amazon.es/dp/B07DG46WFN/?tag=tolees-21) a 42.56 EUR (original: 108 EUR) (60.59 %  de descuento) en el siguiente enlace!

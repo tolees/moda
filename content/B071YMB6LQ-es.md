@@ -3,6 +3,7 @@ layout: post
 title: 'COOLWAY Luly  Botines para Mujer  Negro  al 68.13 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/3181cyV0euL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/3181cyV0euL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/3181cyV0euL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'COOLWAY Luly  Botines para Mujer  Negro  Pnt   38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071YMB6LQ/?tag=tolees-21'
+descuento: '68.13'
+titulo: 'COOLWAY Luly  Botines para Mujer  Negro '
 ---
 
 Ahora mismo tienes [COOLWAY Luly  Botines para Mujer  Negro  Pnt   38 EU](https://www.amazon.es/dp/B071YMB6LQ/?tag=tolees-21) a 15.93 EUR (original: 49.99 EUR) (68.13 %  de descuento) en el siguiente enlace!

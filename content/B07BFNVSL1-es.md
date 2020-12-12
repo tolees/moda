@@ -3,6 +3,7 @@ layout: post
 title: 'SELECTED HOMME Slhslimmoonie Shirt LS W  al 73.32 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ncQ6mI-dL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51ncQ6mI-dL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ncQ6mI-dL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'SELECTED HOMME Slhslimmoonie Shirt LS W Noos  Camisa para Hombre  Azul  Skyway AOP  Medium'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BFNVSL1/?tag=tolees-21'
+descuento: '73.32'
+titulo: 'SELECTED HOMME Slhslimmoonie Shirt LS W '
 ---
 
 Ahora mismo tienes [SELECTED HOMME Slhslimmoonie Shirt LS W Noos  Camisa para Hombre  Azul  Skyway AOP  Medium](https://www.amazon.es/dp/B07BFNVSL1/?tag=tolees-21) a 10.67 EUR (original: 39.99 EUR) (73.32 %  de descuento) en el siguiente enlace!

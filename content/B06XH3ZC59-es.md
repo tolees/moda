@@ -3,6 +3,7 @@ layout: post
 title: 'find. Sandalias de Piel Abiertas para Mu al 66.47 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31XjvkMu62L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31XjvkMu62L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31XjvkMu62L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 70 EUR
 inStock: true
 prodname: 'find. Sandalias de Piel Abiertas para Mujer  Negro  Black   36 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XH3ZC59/?tag=tolees-21'
+descuento: '66.47'
+titulo: 'find. Sandalias de Piel Abiertas para Mu'
 ---
 
 Ahora mismo tienes [find. Sandalias de Piel Abiertas para Mujer  Negro  Black   36 EU](https://www.amazon.es/dp/B06XH3ZC59/?tag=tolees-21) a 23.47 EUR (original: 70 EUR) (66.47 %  de descuento) en el siguiente enlace!

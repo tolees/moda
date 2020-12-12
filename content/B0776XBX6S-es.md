@@ -3,6 +3,7 @@ layout: post
 title: 'Tommy Jeans Hombre  Scanton Vaqueros sli al 44.22 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41IcxujSdhL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41IcxujSdhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41IcxujSdhL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 95 EUR
 inStock: true
 prodname: 'Tommy Jeans Hombre  Scanton Vaqueros slim  Ajustada Azul  Dark Comfort 933  W36/L36  Talla del fabricante: 3636 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0776XBX6S/?tag=tolees-21'
+descuento: '44.22'
+titulo: 'Tommy Jeans Hombre  Scanton Vaqueros sli'
 ---
 
 Ahora mismo tienes [Tommy Jeans Hombre  Scanton Vaqueros slim  Ajustada Azul  Dark Comfort 933  W36/L36  Talla del fabricante: 3636 ](https://www.amazon.es/dp/B0776XBX6S/?tag=tolees-21) a 52.99 EUR (original: 95 EUR) (44.22 %  de descuento) en el siguiente enlace!

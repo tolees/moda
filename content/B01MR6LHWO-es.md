@@ -3,6 +3,7 @@ layout: post
 title: 'Gola Shingle 3  Sandalias Atléticas  Hom al 28.04 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KEyK6-lrL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41KEyK6-lrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41KEyK6-lrL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 31.6 EUR
 inStock: true
 prodname: 'Gola Shingle 3  Sandalias Atléticas  Hombre  Gris  Grey/black/blue   43 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MR6LHWO/?tag=tolees-21'
+descuento: '28.04'
+titulo: 'Gola Shingle 3  Sandalias Atléticas  Hom'
 ---
 
 Está [Gola Shingle 3  Sandalias Atléticas  Hombre  Gris  Grey/black/blue   43 EU](https://www.amazon.es/dp/B01MR6LHWO/?tag=tolees-21) con 28.04 de descuento por 22.74 EUR (original: 31.6 EUR) en el siguiente enlace!

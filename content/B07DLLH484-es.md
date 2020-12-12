@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield 4.2.Gym.MD. Daily Lace Cruda al 61.59 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41aBIN5DOwL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41aBIN5DOwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41aBIN5DOwL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 17.99 EUR
 inStock: true
 prodname: 'Springfield 4.2.Gym.MD. Daily Lace Cruda Camiseta de Manga Larga   Varios 98   X-Small  Tamaño del Fabricante:XS  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DLLH484/?tag=tolees-21'
+descuento: '61.59'
+titulo: 'Springfield 4.2.Gym.MD. Daily Lace Cruda'
 ---
 
 Ahora mismo tienes [Springfield 4.2.Gym.MD. Daily Lace Cruda Camiseta de Manga Larga   Varios 98   X-Small  Tamaño del Fabricante:XS  para Mujer](https://www.amazon.es/dp/B07DLLH484/?tag=tolees-21) a 6.91 EUR (original: 17.99 EUR) (61.59 %  de descuento) en el siguiente enlace!

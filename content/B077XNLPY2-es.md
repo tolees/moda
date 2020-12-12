@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour - Camiseta de Manga Corta p al 68.25 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31VdOs1YQfL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31VdOs1YQfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31VdOs1YQfL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 40 EUR
 inStock: true
 prodname: 'Under Armour - Camiseta de Manga Corta para Hombre  Estilo Deportivo  Hombre  1320715-890  Radio Red/Black  Small'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077XNLPY2/?tag=tolees-21'
+descuento: '68.25'
+titulo: 'Under Armour - Camiseta de Manga Corta p'
 ---
 
 Está [Under Armour - Camiseta de Manga Corta para Hombre  Estilo Deportivo  Hombre  1320715-890  Radio Red/Black  Small](https://www.amazon.es/dp/B077XNLPY2/?tag=tolees-21) con 68.25 de descuento por 12.7 EUR (original: 40 EUR) en el siguiente enlace!

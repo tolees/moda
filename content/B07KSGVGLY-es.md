@@ -3,6 +3,7 @@ layout: post
 title: 'Columbia 1832222 Powder Pass Vest Chalec al 49.96 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jfZfmTjxL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41jfZfmTjxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jfZfmTjxL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 79.99 EUR
 inStock: true
 prodname: 'Columbia 1832222 Powder Pass Vest Chaleco  Nylon  Hombre  Rojo  Mountain Red  Graphite   XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KSGVGLY/?tag=tolees-21'
+descuento: '49.96'
+titulo: 'Columbia 1832222 Powder Pass Vest Chalec'
 ---
 
 Está [Columbia 1832222 Powder Pass Vest Chaleco  Nylon  Hombre  Rojo  Mountain Red  Graphite   XL](https://www.amazon.es/dp/B07KSGVGLY/?tag=tolees-21) con 49.96 de descuento por 40.03 EUR (original: 79.99 EUR) en el siguiente enlace!

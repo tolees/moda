@@ -3,6 +3,7 @@ layout: post
 title: 'Diesel K-ker-a Cardigan Chaqueta Punto   al 43.47 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418Wd55-%2BeL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/418Wd55-%2BeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418Wd55-%2BeL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 160 EUR
 inStock: true
 prodname: 'Diesel K-ker-a Cardigan Chaqueta Punto  Negro  Black 900   Small para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07J5WW71X/?tag=tolees-21'
+descuento: '43.47'
+titulo: 'Diesel K-ker-a Cardigan Chaqueta Punto  '
 ---
 
 Ahora mismo tienes [Diesel K-ker-a Cardigan Chaqueta Punto  Negro  Black 900   Small para Hombre](https://www.amazon.es/dp/B07J5WW71X/?tag=tolees-21) a 90.45 EUR (original: 160 EUR) (43.47 %  de descuento) en el siguiente enlace!

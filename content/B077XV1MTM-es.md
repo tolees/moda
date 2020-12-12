@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 51.96 % en Under Armour Tech Twist Short-Sleeve Cam'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41JN8GxZFzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41JN8GxZFzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41JN8GxZFzL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 28 EUR
 inStock: true
 prodname: 'Under Armour Tech Twist Short-Sleeve Camiseta  Mujer  Peach Horizon/Metallic Silver  906   Medium'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077XV1MTM/?tag=tolees-21'
+descuento: '51.96'
+titulo: 'Under Armour Tech Twist Short-Sleeve Cam'
 ---
 
 Tienes [Under Armour Tech Twist Short-Sleeve Camiseta  Mujer  Peach Horizon/Metallic Silver  906   Medium](https://www.amazon.es/dp/B077XV1MTM/?tag=tolees-21) con un 51.96 % de descuento con precio de oferta de 13.45 EUR (original: 28 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Burton Barnstorm Pantalón de Snowboard   al 79.50 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31PqhQDQk4L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31PqhQDQk4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31PqhQDQk4L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 100 EUR
 inStock: true
 prodname: 'Burton Barnstorm Pantalón de Snowboard  Niños  Verde  Olive Branch   L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DPY7L3W/?tag=tolees-21'
+descuento: '79.50'
+titulo: 'Burton Barnstorm Pantalón de Snowboard  '
 ---
 
 Ahora mismo tienes [Burton Barnstorm Pantalón de Snowboard  Niños  Verde  Olive Branch   L](https://www.amazon.es/dp/B07DPY7L3W/?tag=tolees-21) a 20.5 EUR (original: 100 EUR) (79.50 %  de descuento) en el siguiente enlace!

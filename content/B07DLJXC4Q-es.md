@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield 6Fo-Biker Antelina  Chaqueta al 72.87 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41serSUzZKL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41serSUzZKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41serSUzZKL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'Springfield 6Fo-Biker Antelina  Chaqueta para Hombre   Azul Marino 10   Small  Tamaño del Fabricante:S '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DLJXC4Q/?tag=tolees-21'
+descuento: '72.87'
+titulo: 'Springfield 6Fo-Biker Antelina  Chaqueta'
 ---
 
 Ahora mismo tienes [Springfield 6Fo-Biker Antelina  Chaqueta para Hombre   Azul Marino 10   Small  Tamaño del Fabricante:S ](https://www.amazon.es/dp/B07DLJXC4Q/?tag=tolees-21) a 13.56 EUR (original: 49.99 EUR) (72.87 %  de descuento) en el siguiente enlace!

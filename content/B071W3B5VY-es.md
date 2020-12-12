@@ -3,6 +3,7 @@ layout: post
 title: 'Pepa Loves UMA Dress Print Vestido Casua al 74.07 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Mi2Ir9i5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Mi2Ir9i5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Mi2Ir9i5L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 59 EUR
 inStock: true
 prodname: 'Pepa Loves UMA Dress Print Vestido Casual  Mujer   Print   40  Tamaño del Fabricante:M '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071W3B5VY/?tag=tolees-21'
+descuento: '74.07'
+titulo: 'Pepa Loves UMA Dress Print Vestido Casua'
 ---
 
 Está [Pepa Loves UMA Dress Print Vestido Casual  Mujer   Print   40  Tamaño del Fabricante:M ](https://www.amazon.es/dp/B071W3B5VY/?tag=tolees-21) con 74.07 de descuento por 15.3 EUR (original: 59 EUR) en el siguiente enlace!

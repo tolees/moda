@@ -3,6 +3,7 @@ layout: post
 title: 'JACK & JONES Jjeoxford Shirt L/s Noos Ca al 41.50 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ZOY0wy68L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31ZOY0wy68L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ZOY0wy68L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 34.99 EUR
 inStock: true
 prodname: 'JACK & JONES Jjeoxford Shirt L/s Noos Camisa  Verde  Deep DepthsDeep Depths   Large para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F7D3ZWZ/?tag=tolees-21'
+descuento: '41.50'
+titulo: 'JACK & JONES Jjeoxford Shirt L/s Noos Ca'
 ---
 
 Ahora mismo tienes [JACK & JONES Jjeoxford Shirt L/s Noos Camisa  Verde  Deep DepthsDeep Depths   Large para Hombre](https://www.amazon.es/dp/B07F7D3ZWZ/?tag=tolees-21) a 20.47 EUR (original: 34.99 EUR) (41.50 %  de descuento) en el siguiente enlace!

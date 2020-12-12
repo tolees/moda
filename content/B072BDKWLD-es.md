@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 68.65 % en TOM TAILOR Denim 35550120071  Chaqueta P'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416R9tbWDyL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/416R9tbWDyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416R9tbWDyL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 69.99 EUR
 inStock: true
 prodname: 'TOM TAILOR Denim 35550120071  Chaqueta Para Mujer  Negro  Black 2999   X-Large'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072BDKWLD/?tag=tolees-21'
+descuento: '68.65'
+titulo: 'TOM TAILOR Denim 35550120071  Chaqueta P'
 ---
 
 Tienes [TOM TAILOR Denim 35550120071  Chaqueta Para Mujer  Negro  Black 2999   X-Large](https://www.amazon.es/dp/B072BDKWLD/?tag=tolees-21) con un 68.65 % de descuento con precio de oferta de 21.94 EUR (original: 69.99 EUR) en el siguiente enlace!

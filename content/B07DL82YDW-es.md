@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield 4.Pa.Falda Midi Pencil Falda al 68.40 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31A0i1osFaL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31A0i1osFaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31A0i1osFaL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 26.99 EUR
 inStock: true
 prodname: 'Springfield 4.Pa.Falda Midi Pencil Falda  Mujer  Negro  Negro 1   44  Tamaño del Fabricante:44 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DL82YDW/?tag=tolees-21'
+descuento: '68.40'
+titulo: 'Springfield 4.Pa.Falda Midi Pencil Falda'
 ---
 
 Ahora mismo tienes [Springfield 4.Pa.Falda Midi Pencil Falda  Mujer  Negro  Negro 1   44  Tamaño del Fabricante:44 ](https://www.amazon.es/dp/B07DL82YDW/?tag=tolees-21) a 8.53 EUR (original: 26.99 EUR) (68.40 %  de descuento) en el siguiente enlace!

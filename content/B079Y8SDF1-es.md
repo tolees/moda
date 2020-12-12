@@ -3,6 +3,7 @@ layout: post
 title: 'BOSS Business Hannover_oxfr_buwt  Zapato al 49.03 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31P-L5AWsWL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31P-L5AWsWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31P-L5AWsWL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 230 EUR
 inStock: true
 prodname: 'BOSS Business Hannover_oxfr_buwt  Zapatos de Cordones Oxford para Hombre  Negro  Black 001   44 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079Y8SDF1/?tag=tolees-21'
+descuento: '49.03'
+titulo: 'BOSS Business Hannover_oxfr_buwt  Zapato'
 ---
 
 Está [BOSS Business Hannover_oxfr_buwt  Zapatos de Cordones Oxford para Hombre  Negro  Black 001   44 EU](https://www.amazon.es/dp/B079Y8SDF1/?tag=tolees-21) con 49.03 de descuento por 117.22 EUR (original: 230 EUR) en el siguiente enlace!

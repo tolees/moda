@@ -3,6 +3,7 @@ layout: post
 title: 'Eastpak The One Bolso Bandolera  21 cm   al 40.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZX76yaXUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZX76yaXUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZX76yaXUL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 30 EUR
 inStock: true
 prodname: 'Eastpak The One Bolso Bandolera  21 cm  2.5 Liters  Gris  Concrete Grey '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DP12N7R/?tag=tolees-21'
+descuento: '40.00'
+titulo: 'Eastpak The One Bolso Bandolera  21 cm  '
 ---
 
 Ahora mismo tienes [Eastpak The One Bolso Bandolera  21 cm  2.5 Liters  Gris  Concrete Grey ](https://www.amazon.es/dp/B07DP12N7R/?tag=tolees-21) a 18 EUR (original: 30 EUR) (40.00 %  de descuento) en el siguiente enlace!

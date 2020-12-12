@@ -3,6 +3,7 @@ layout: post
 title: 'Cressi Rocker Gafas de Sol  Unisex Adult al 38.62 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41flKE7p9gL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41flKE7p9gL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41flKE7p9gL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 24.99 EUR
 inStock: true
 prodname: 'Cressi Rocker Gafas de Sol  Unisex Adulto  Negro/Lentes Reflejado Gris  Talla Única'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01JRV1S26/?tag=tolees-21'
+descuento: '38.62'
+titulo: 'Cressi Rocker Gafas de Sol  Unisex Adult'
 ---
 
 Está [Cressi Rocker Gafas de Sol  Unisex Adulto  Negro/Lentes Reflejado Gris  Talla Única](https://www.amazon.es/dp/B01JRV1S26/?tag=tolees-21) con 38.62 de descuento por 15.34 EUR (original: 24.99 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 68.89 % en Tamaris - Mirela Handbag  Bolso Mujer  B'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fDeJYJkrL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41fDeJYJkrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fDeJYJkrL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'Tamaris - Mirela Handbag  Bolso Mujer  Beige  Pepper   13x22x27 cm  W x H L '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HB66V8Q/?tag=tolees-21'
+descuento: '68.89'
+titulo: 'Tamaris - Mirela Handbag  Bolso Mujer  B'
 ---
 
 Tienes [Tamaris - Mirela Handbag  Bolso Mujer  Beige  Pepper   13x22x27 cm  W x H L ](https://www.amazon.es/dp/B07HB66V8Q/?tag=tolees-21) con un 68.89 % de descuento con precio de oferta de 21.76 EUR (original: 69.95 EUR) en el siguiente enlace!
