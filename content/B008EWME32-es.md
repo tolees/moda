@@ -3,6 +3,7 @@ layout: post
 title: 'Timberland 6 Inch Premium Waterproof  Bo al 50.01 % de descuento'
 date: 2020-11-27 17:38:00
 thumbnailImage: 'https://m.media-amazon.com/images/I/411VqEFNLnL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/411VqEFNLnL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/411VqEFNLnL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 210.0 EUR
 inStock: true
 prodname: 'Timberland 6 Inch Premium Waterproof  Botas Chukka Mujer  Amarillo Wheat Nubuck  40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B008EWME32/?tag=tolees-21'
+descuento: '50.01'
+titulo: 'Timberland 6 Inch Premium Waterproof  Bo'
 ---
 
 Está [Timberland 6 Inch Premium Waterproof  Botas Chukka Mujer  Amarillo Wheat Nubuck  40 EU](https://www.amazon.es/dp/B008EWME32/?tag=tolees-21) con 50.01 de descuento por 104.97 EUR (original: 210.0 EUR) en el siguiente enlace!
 
 [![Timberland 6 Inch Premium Waterproof  Bo](https://m.media-amazon.com/images/I/411VqEFNLnL._SL200_.jpg)](https://www.amazon.es/dp/B008EWME32/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B008EWME32/?tag=tolees-21)
 

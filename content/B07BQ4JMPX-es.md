@@ -3,6 +3,7 @@ layout: post
 title: 'Lee Rider Jeans Vaqueros  Blue Drop  33W al 32.48 % de descuento'
 date: 2020-12-11 06:04:47
 thumbnailImage: 'https://m.media-amazon.com/images/I/41DahiZ-vVL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41DahiZ-vVL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41DahiZ-vVL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'Lee Rider Jeans Vaqueros  Blue Drop  33W / 30L para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BQ4JMPX/?tag=tolees-21'
+descuento: '32.48'
+titulo: 'Lee Rider Jeans Vaqueros  Blue Drop  33W'
 ---
 
 Ahora mismo tienes [Lee Rider Jeans Vaqueros  Blue Drop  33W / 30L para Hombre](https://www.amazon.es/dp/B07BQ4JMPX/?tag=tolees-21) a 67.49 EUR (original: 99.95 EUR) (32.48 %  de descuento) en el siguiente enlace!
@@ -24,8 +28,8 @@ Ahora mismo tienes [Lee Rider Jeans Vaqueros  Blue Drop  33W / 30L para Hombre](
 
 Características:
 
-- Estilo 5 bolsillos
 - Vaqueros para hombre
+- Estilo 5 bolsillos
 - Tienen un parche de piel en la parte trasera con la marca Lee
 
 [Visítala!!!](https://www.amazon.es/dp/B07BQ4JMPX/?tag=tolees-21)

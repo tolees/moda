@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 35.00 % en Geox D CATRIA E  Botín Mujer  Marrón  38'
 date: 2020-11-17 10:03:44
 thumbnailImage: 'https://m.media-amazon.com/images/I/41MUiAWsb9L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41MUiAWsb9L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41MUiAWsb9L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 97.2 EUR
 inStock: true
 prodname: 'Geox D CATRIA E  Botín Mujer  Marrón  38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0825S3CPG/?tag=tolees-21'
+descuento: '35.00'
+titulo: 'Geox D CATRIA E  Botín Mujer  Marrón  38'
 ---
 
 Tienes [Geox D CATRIA E  Botín Mujer  Marrón  38 EU](https://www.amazon.es/dp/B0825S3CPG/?tag=tolees-21) con un 35.00 % de descuento con precio de oferta de 63.18 EUR (original: 97.2 EUR) en el siguiente enlace!
 
 [![Geox D CATRIA E  Botín Mujer  Marrón  38](https://m.media-amazon.com/images/I/41MUiAWsb9L._SL200_.jpg)](https://www.amazon.es/dp/B0825S3CPG/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B0825S3CPG/?tag=tolees-21)
 

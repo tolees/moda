@@ -3,6 +3,7 @@ layout: post
 title: 'Superdry Harpa Waterproof Chaqueta  Verd al 37.53 % de descuento'
 date: 2020-11-20 13:36:10
 thumbnailImage: 'https://m.media-amazon.com/images/I/41kjW3wHLqL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41kjW3wHLqL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41kjW3wHLqL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 35.44 EUR
 inStock: true
 prodname: 'Superdry Harpa Waterproof Chaqueta  Verde  Green Lake J6q   S  Talla del Fabricante:10  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07Q741GSH/?tag=tolees-21'
+descuento: '37.53'
+titulo: 'Superdry Harpa Waterproof Chaqueta  Verd'
 ---
 
 Está [Superdry Harpa Waterproof Chaqueta  Verde  Green Lake J6q   S  Talla del Fabricante:10  para Mujer](https://www.amazon.es/dp/B07Q741GSH/?tag=tolees-21) con 37.53 de descuento por 22.14 EUR (original: 35.44 EUR) en el siguiente enlace!
 
 [![Superdry Harpa Waterproof Chaqueta  Verd](https://m.media-amazon.com/images/I/41kjW3wHLqL._SL200_.jpg)](https://www.amazon.es/dp/B07Q741GSH/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07Q741GSH/?tag=tolees-21)
 

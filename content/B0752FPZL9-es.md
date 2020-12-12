@@ -3,6 +3,7 @@ layout: post
 title: 'Marca Amazon - find. Cazadora Estilo Bom al 59.58 % de descuento'
 date: 2020-11-12 15:14:38
 thumbnailImage: 'https://m.media-amazon.com/images/I/41W-6bxLjbL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41W-6bxLjbL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41W-6bxLjbL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 34.12 EUR
 inStock: true
 prodname: 'Marca Amazon - find. Cazadora Estilo Bomber para Hombre  Azul  Navy   M  Label: M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0752FPZL9/?tag=tolees-21'
+descuento: '59.58'
+titulo: 'Marca Amazon - find. Cazadora Estilo Bom'
 ---
 
 Ahora mismo tienes [Marca Amazon - find. Cazadora Estilo Bomber para Hombre  Azul  Navy   M  Label: M](https://www.amazon.es/dp/B0752FPZL9/?tag=tolees-21) a 13.79 EUR (original: 34.12 EUR) (59.58 %  de descuento) en el siguiente enlace!
 
 [![Marca Amazon - find. Cazadora Estilo Bom](https://m.media-amazon.com/images/I/41W-6bxLjbL._SL200_.jpg)](https://www.amazon.es/dp/B0752FPZL9/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B0752FPZL9/?tag=tolees-21)
 

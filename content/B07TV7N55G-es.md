@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.04 % en Levi s tee Camiseta  Pink  Peach Blush 0'
 date: 2020-11-21 12:23:37
 thumbnailImage: 'https://m.media-amazon.com/images/I/410hEPuSaCL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/410hEPuSaCL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/410hEPuSaCL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 25.0 EUR
 inStock: true
 prodname: 'Levi s tee Camiseta  Pink  Peach Blush 0076   XX-Small para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07TV7N55G/?tag=tolees-21'
+descuento: '50.04'
+titulo: 'Levi s tee Camiseta  Pink  Peach Blush 0'
 ---
 
 Tienes [Levi s tee Camiseta  Pink  Peach Blush 0076   XX-Small para Mujer](https://www.amazon.es/dp/B07TV7N55G/?tag=tolees-21) con un 50.04 % de descuento con precio de oferta de 12.49 EUR (original: 25.0 EUR) en el siguiente enlace!
 
 [![Levi s tee Camiseta  Pink  Peach Blush 0](https://m.media-amazon.com/images/I/410hEPuSaCL._SL200_.jpg)](https://www.amazon.es/dp/B07TV7N55G/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07TV7N55G/?tag=tolees-21)
 

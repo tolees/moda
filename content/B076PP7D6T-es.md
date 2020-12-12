@@ -3,6 +3,7 @@ layout: post
 title: 'Marca Amazon - MERAKI Chaqueta de Plumas al 44.11 % de descuento'
 date: 2020-11-09 10:15:41
 thumbnailImage: 'https://m.media-amazon.com/images/I/31ssqZamcmL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31ssqZamcmL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31ssqZamcmL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 17.75 EUR
 inStock: true
 prodname: 'Marca Amazon - MERAKI Chaqueta de Plumas Cuello Alto Mujer  Plateado  Silver   38  Label: S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076PP7D6T/?tag=tolees-21'
+descuento: '44.11'
+titulo: 'Marca Amazon - MERAKI Chaqueta de Plumas'
 ---
 
 Ahora mismo tienes [Marca Amazon - MERAKI Chaqueta de Plumas Cuello Alto Mujer  Plateado  Silver   38  Label: S](https://www.amazon.es/dp/B076PP7D6T/?tag=tolees-21) a 9.92 EUR (original: 17.75 EUR) (44.11 %  de descuento) en el siguiente enlace!
 
 [![Marca Amazon - MERAKI Chaqueta de Plumas](https://m.media-amazon.com/images/I/31ssqZamcmL._SL200_.jpg)](https://www.amazon.es/dp/B076PP7D6T/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B076PP7D6T/?tag=tolees-21)
 

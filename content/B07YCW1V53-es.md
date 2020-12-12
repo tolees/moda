@@ -3,6 +3,7 @@ layout: post
 title: 'Geographical Norway Parka BOOMERANG homb al 29.39 % de descuento'
 date: 2020-12-10 10:34:03
 thumbnailImage: 'https://m.media-amazon.com/images/I/31gNI7xnEBL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31gNI7xnEBL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31gNI7xnEBL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 99.0 EUR
 inStock: true
 prodname: 'Geographical Norway Parka BOOMERANG hombre NEGRO talla S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07YCW1V53/?tag=tolees-21'
+descuento: '29.39'
+titulo: 'Geographical Norway Parka BOOMERANG homb'
 ---
 
 Está [Geographical Norway Parka BOOMERANG hombre NEGRO talla S](https://www.amazon.es/dp/B07YCW1V53/?tag=tolees-21) con 29.39 de descuento por 69.9 EUR (original: 99.0 EUR) en el siguiente enlace!
 
 [![Geographical Norway Parka BOOMERANG homb](https://m.media-amazon.com/images/I/31gNI7xnEBL._SL200_.jpg)](https://www.amazon.es/dp/B07YCW1V53/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07YCW1V53/?tag=tolees-21)
 

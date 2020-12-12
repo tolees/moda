@@ -3,6 +3,7 @@ layout: post
 title: 'Havaianas Slide Brasil  Sandalias con Pu al 32.08 % de descuento'
 date: 2020-11-10 13:38:20
 thumbnailImage: 'https://m.media-amazon.com/images/I/41qu1CtWfWL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41qu1CtWfWL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41qu1CtWfWL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 27.9 EUR
 inStock: true
 prodname: 'Havaianas Slide Brasil  Sandalias con Punta Abierta Unisex Adulto  Negro  White/Black   39/40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F14LC4B/?tag=tolees-21'
+descuento: '32.08'
+titulo: 'Havaianas Slide Brasil  Sandalias con Pu'
 ---
 
 Está [Havaianas Slide Brasil  Sandalias con Punta Abierta Unisex Adulto  Negro  White/Black   39/40 EU](https://www.amazon.es/dp/B07F14LC4B/?tag=tolees-21) con 32.08 de descuento por 18.95 EUR (original: 27.9 EUR) en el siguiente enlace!
 
 [![Havaianas Slide Brasil  Sandalias con Pu](https://m.media-amazon.com/images/I/41qu1CtWfWL._SL200_.jpg)](https://www.amazon.es/dp/B07F14LC4B/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07F14LC4B/?tag=tolees-21)
 

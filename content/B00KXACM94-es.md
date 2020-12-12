@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour Raid Camiseta Masculina  Ca al 50.00 % de descuento'
 date: 2020-11-28 09:09:11
 thumbnailImage: 'https://m.media-amazon.com/images/I/313pMwV91mL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/313pMwV91mL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/313pMwV91mL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 33.0 EUR
 inStock: true
 prodname: 'Under Armour Raid Camiseta Masculina  Camiseta Transpirable  Ajustada Camiseta Deportiva de Manga Corta y de Secado rápido  Midnight Navy/Midnight Navy/Steel  410   MD'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00KXACM94/?tag=tolees-21'
+descuento: '50.00'
+titulo: 'Under Armour Raid Camiseta Masculina  Ca'
 ---
 
 Está [Under Armour Raid Camiseta Masculina  Camiseta Transpirable  Ajustada Camiseta Deportiva de Manga Corta y de Secado rápido  Midnight Navy/Midnight Navy/Steel  410   MD](https://www.amazon.es/dp/B00KXACM94/?tag=tolees-21) con 50.00 de descuento por 16.5 EUR (original: 33.0 EUR) en el siguiente enlace!
 
 [![Under Armour Raid Camiseta Masculina  Ca](https://m.media-amazon.com/images/I/313pMwV91mL._SL200_.jpg)](https://www.amazon.es/dp/B00KXACM94/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00KXACM94/?tag=tolees-21)
 

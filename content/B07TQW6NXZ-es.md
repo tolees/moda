@@ -3,6 +3,7 @@ layout: post
 title: 'Clarks Hero  Zapatos de Cordones Brogue  al 63.21 % de descuento'
 date: 2020-10-30 07:27:08
 thumbnailImage: 'https://m.media-amazon.com/images/I/31V-Bg41vLL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31V-Bg41vLL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31V-Bg41vLL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'Clarks Hero  Zapatos de Cordones Brogue Mujer  Marrón  Tan Leather Tan Leather   37 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07TQW6NXZ/?tag=tolees-21'
+descuento: '63.21'
+titulo: 'Clarks Hero  Zapatos de Cordones Brogue '
 ---
 
 Está [Clarks Hero  Zapatos de Cordones Brogue Mujer  Marrón  Tan Leather Tan Leather   37 EU](https://www.amazon.es/dp/B07TQW6NXZ/?tag=tolees-21) con 63.21 de descuento por 36.77 EUR (original: 99.95 EUR) en el siguiente enlace!
 
 [![Clarks Hero  Zapatos de Cordones Brogue ](https://m.media-amazon.com/images/I/31V-Bg41vLL._SL200_.jpg)](https://www.amazon.es/dp/B07TQW6NXZ/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07TQW6NXZ/?tag=tolees-21)
 

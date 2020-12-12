@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 31.33 % en RFEF Camiseta oficial conmemorativa fina'
 date: 2020-12-08 14:46:28
 thumbnailImage: 'https://m.media-amazon.com/images/I/41HxwOXB3zL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41HxwOXB3zL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41HxwOXB3zL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: 'RFEF Camiseta oficial conmemorativa final Mundial Sudáfrica 2010  Navy  M  20CM1835 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B089HJQWG1/?tag=tolees-21'
+descuento: '31.33'
+titulo: 'RFEF Camiseta oficial conmemorativa fina'
 ---
 
 Tienes [RFEF Camiseta oficial conmemorativa final Mundial Sudáfrica 2010  Navy  M  20CM1835 ](https://www.amazon.es/dp/B089HJQWG1/?tag=tolees-21) con un 31.33 % de descuento con precio de oferta de 34.3 EUR (original: 49.95 EUR) en el siguiente enlace!
 
 [![RFEF Camiseta oficial conmemorativa fina](https://m.media-amazon.com/images/I/41HxwOXB3zL._SL200_.jpg)](https://www.amazon.es/dp/B089HJQWG1/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B089HJQWG1/?tag=tolees-21)
 

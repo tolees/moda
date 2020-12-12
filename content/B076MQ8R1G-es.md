@@ -3,6 +3,7 @@ layout: post
 title: 'jiamiaoi Collar de gato Collar de perlas al 45.66 % de descuento'
 date: 2020-10-28 08:32:09
 thumbnailImage: 'https://m.media-amazon.com/images/I/31LSwEh27UL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31LSwEh27UL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31LSwEh27UL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 45.99 EUR
 inStock: true
 prodname: 'jiamiaoi Collar de gato Collar de perlas de plata Colgante Collar de cadena de gato femenino Chica Collar de perlas de plata 925 Collar de gato lindo Joyas de gato de plata Collar de niñas 10mm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076MQ8R1G/?tag=tolees-21'
+descuento: '45.66'
+titulo: 'jiamiaoi Collar de gato Collar de perlas'
 ---
 
 Está [jiamiaoi Collar de gato Collar de perlas de plata Colgante Collar de cadena de gato femenino Chica Collar de perlas de plata 925 Collar de gato lindo Joyas de gato de plata Collar de niñas 10mm](https://www.amazon.es/dp/B076MQ8R1G/?tag=tolees-21) con 45.66 de descuento por 24.99 EUR (original: 45.99 EUR) en el siguiente enlace!
 
 [![jiamiaoi Collar de gato Collar de perlas](https://m.media-amazon.com/images/I/31LSwEh27UL._SL200_.jpg)](https://www.amazon.es/dp/B076MQ8R1G/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B076MQ8R1G/?tag=tolees-21)
 

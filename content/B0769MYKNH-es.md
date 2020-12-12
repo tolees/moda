@@ -3,6 +3,7 @@ layout: post
 title: 'Only Onlgemma Faux Leather Biker Otw Noo al 40.01 % de descuento'
 date: 2020-11-15 02:35:29
 thumbnailImage: 'https://m.media-amazon.com/images/I/417uCWoeMDL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/417uCWoeMDL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/417uCWoeMDL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'Only Onlgemma Faux Leather Biker Otw Noos Chaqueta  Negro  Black Black   Medium  Talla del Fabricante: 38  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0769MYKNH/?tag=tolees-21'
+descuento: '40.01'
+titulo: 'Only Onlgemma Faux Leather Biker Otw Noo'
 ---
 
 Está [Only Onlgemma Faux Leather Biker Otw Noos Chaqueta  Negro  Black Black   Medium  Talla del Fabricante: 38  para Mujer](https://www.amazon.es/dp/B0769MYKNH/?tag=tolees-21) con 40.01 de descuento por 29.99 EUR (original: 49.99 EUR) en el siguiente enlace!
 
 [![Only Onlgemma Faux Leather Biker Otw Noo](https://m.media-amazon.com/images/I/417uCWoeMDL._SL200_.jpg)](https://www.amazon.es/dp/B0769MYKNH/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B0769MYKNH/?tag=tolees-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'Marca Amazon - find. Vaqueros Ceñidos de al 54.88 % de descuento'
 date: 2020-11-09 13:51:58
 thumbnailImage: 'https://m.media-amazon.com/images/I/41TLfaXkmsL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41TLfaXkmsL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41TLfaXkmsL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 32.0 EUR
 inStock: true
 prodname: 'Marca Amazon - find. Vaqueros Ceñidos de Tiro Medio Mujer  Azul  Denim   28W / 32L  Label: 28W / 32L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XSY7SV3/?tag=tolees-21'
+descuento: '54.88'
+titulo: 'Marca Amazon - find. Vaqueros Ceñidos de'
 ---
 
 Está [Marca Amazon - find. Vaqueros Ceñidos de Tiro Medio Mujer  Azul  Denim   28W / 32L  Label: 28W / 32L](https://www.amazon.es/dp/B06XSY7SV3/?tag=tolees-21) con 54.88 de descuento por 14.44 EUR (original: 32.0 EUR) en el siguiente enlace!
 
 [![Marca Amazon - find. Vaqueros Ceñidos de](https://m.media-amazon.com/images/I/41TLfaXkmsL._SL200_.jpg)](https://www.amazon.es/dp/B06XSY7SV3/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B06XSY7SV3/?tag=tolees-21)
 

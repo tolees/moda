@@ -3,6 +3,7 @@ layout: post
 title: 'Jack & Jones Basic O-Neck tee L/S Noos C al 29.83 % de descuento'
 date: 2020-11-11 18:34:40
 thumbnailImage: 'https://m.media-amazon.com/images/I/41HtelCQreL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41HtelCQreL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41HtelCQreL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 14.95 EUR
 inStock: true
 prodname: 'Jack & Jones Basic O-Neck tee L/S Noos Camiseta  Azul  Navy Blue   S para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0085SG0HQ/?tag=tolees-21'
+descuento: '29.83'
+titulo: 'Jack & Jones Basic O-Neck tee L/S Noos C'
 ---
 
 Está [Jack & Jones Basic O-Neck tee L/S Noos Camiseta  Azul  Navy Blue   S para Hombre](https://www.amazon.es/dp/B0085SG0HQ/?tag=tolees-21) con 29.83 de descuento por 10.49 EUR (original: 14.95 EUR) en el siguiente enlace!
 
 [![Jack & Jones Basic O-Neck tee L/S Noos C](https://m.media-amazon.com/images/I/41HtelCQreL._SL200_.jpg)](https://www.amazon.es/dp/B0085SG0HQ/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B0085SG0HQ/?tag=tolees-21)
 

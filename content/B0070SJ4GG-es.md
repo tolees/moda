@@ -3,6 +3,7 @@ layout: post
 title: 'Timberland Stormbucks Plain Toe  Zapatos al 35.72 % de descuento'
 date: 2020-12-10 10:33:46
 thumbnailImage: 'https://m.media-amazon.com/images/I/31imCwg0pOL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31imCwg0pOL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31imCwg0pOL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 140.0 EUR
 inStock: true
 prodname: 'Timberland Stormbucks Plain Toe  Zapatos de Cordones Oxford Hombre  Marrón Dark Brown Nubuck  40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0070SJ4GG/?tag=tolees-21'
+descuento: '35.72'
+titulo: 'Timberland Stormbucks Plain Toe  Zapatos'
 ---
 
 Ahora mismo tienes [Timberland Stormbucks Plain Toe  Zapatos de Cordones Oxford Hombre  Marrón Dark Brown Nubuck  40 EU](https://www.amazon.es/dp/B0070SJ4GG/?tag=tolees-21) a 89.99 EUR (original: 140.0 EUR) (35.72 %  de descuento) en el siguiente enlace!
 
 [![Timberland Stormbucks Plain Toe  Zapatos](https://m.media-amazon.com/images/I/31imCwg0pOL._SL200_.jpg)](https://www.amazon.es/dp/B0070SJ4GG/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B0070SJ4GG/?tag=tolees-21)
 

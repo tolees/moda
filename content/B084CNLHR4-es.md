@@ -3,6 +3,7 @@ layout: post
 title: 'HAWKERS · KARAT CLEAR BLUE LAX · Karat · al 41.06 % de descuento'
 date: 2020-11-22 13:03:52
 thumbnailImage: 'https://m.media-amazon.com/images/I/31SSk2QlrpL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31SSk2QlrpL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31SSk2QlrpL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'HAWKERS · KARAT CLEAR BLUE LAX · Karat · Clear blue · Gafas de sol para hombre y mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B084CNLHR4/?tag=tolees-21'
+descuento: '41.06'
+titulo: 'HAWKERS · KARAT CLEAR BLUE LAX · Karat ·'
 ---
 
 Está [HAWKERS · KARAT CLEAR BLUE LAX · Karat · Clear blue · Gafas de sol para hombre y mujer](https://www.amazon.es/dp/B084CNLHR4/?tag=tolees-21) con 41.06 de descuento por 23.57 EUR (original: 39.99 EUR) en el siguiente enlace!
 
 [![HAWKERS · KARAT CLEAR BLUE LAX · Karat ·](https://m.media-amazon.com/images/I/31SSk2QlrpL._SL200_.jpg)](https://www.amazon.es/dp/B084CNLHR4/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B084CNLHR4/?tag=tolees-21)
 

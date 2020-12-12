@@ -3,6 +3,7 @@ layout: post
 title: 'Tommy Hilfiger Brooklyn Short Light Twil al 61.26 % de descuento'
 date: 2020-10-18 14:34:40
 thumbnailImage: 'https://m.media-amazon.com/images/I/41vnN7Eb5KL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41vnN7Eb5KL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41vnN7Eb5KL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 76.66 EUR
 inStock: true
 prodname: 'Tommy Hilfiger Brooklyn Short Light Twill Vaqueros  Primary Red  30W / 30L para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07WLPWW3Q/?tag=tolees-21'
+descuento: '61.26'
+titulo: 'Tommy Hilfiger Brooklyn Short Light Twil'
 ---
 
 Está [Tommy Hilfiger Brooklyn Short Light Twill Vaqueros  Primary Red  30W / 30L para Hombre](https://www.amazon.es/dp/B07WLPWW3Q/?tag=tolees-21) con 61.26 de descuento por 29.7 EUR (original: 76.66 EUR) en el siguiente enlace!
 
 [![Tommy Hilfiger Brooklyn Short Light Twil](https://m.media-amazon.com/images/I/41vnN7Eb5KL._SL200_.jpg)](https://www.amazon.es/dp/B07WLPWW3Q/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07WLPWW3Q/?tag=tolees-21)
 

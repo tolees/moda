@@ -3,6 +3,7 @@ layout: post
 title: 'HAWKERS X Paula ECHEVARRIA · Milady Gafa al 49.97 % de descuento'
 date: 2020-11-26 19:02:03
 thumbnailImage: 'https://m.media-amazon.com/images/I/31726Hwe4dL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31726Hwe4dL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31726Hwe4dL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 44.99 EUR
 inStock: true
 prodname: 'HAWKERS X Paula ECHEVARRIA · Milady Gafas de sol  Pink · Lilac  One Size Womens'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07W8NJL1M/?tag=tolees-21'
+descuento: '49.97'
+titulo: 'HAWKERS X Paula ECHEVARRIA · Milady Gafa'
 ---
 
 Está [HAWKERS X Paula ECHEVARRIA · Milady Gafas de sol  Pink · Lilac  One Size Womens](https://www.amazon.es/dp/B07W8NJL1M/?tag=tolees-21) con 49.97 de descuento por 22.51 EUR (original: 44.99 EUR) en el siguiente enlace!
 
 [![HAWKERS X Paula ECHEVARRIA · Milady Gafa](https://m.media-amazon.com/images/I/31726Hwe4dL._SL200_.jpg)](https://www.amazon.es/dp/B07W8NJL1M/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07W8NJL1M/?tag=tolees-21)
 

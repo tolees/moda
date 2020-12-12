@@ -3,6 +3,7 @@ layout: post
 title: 'NIKE M NP BRT Top SS Aoj Camiseta de Man al 30.08 % de descuento'
 date: 2020-10-15 19:54:58
 thumbnailImage: 'https://m.media-amazon.com/images/I/41MVMR9WKwL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41MVMR9WKwL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41MVMR9WKwL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 14.66 EUR
 inStock: true
 prodname: 'NIKE M NP BRT Top SS Aoj Camiseta de Manga Corta  Hombre  Iron Grey/Iron Grey/Black  S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07S14YHG1/?tag=tolees-21'
+descuento: '30.08'
+titulo: 'NIKE M NP BRT Top SS Aoj Camiseta de Man'
 ---
 
 Está [NIKE M NP BRT Top SS Aoj Camiseta de Manga Corta  Hombre  Iron Grey/Iron Grey/Black  S](https://www.amazon.es/dp/B07S14YHG1/?tag=tolees-21) con 30.08 de descuento por 10.25 EUR (original: 14.66 EUR) en el siguiente enlace!
 
 [![NIKE M NP BRT Top SS Aoj Camiseta de Man](https://m.media-amazon.com/images/I/41MVMR9WKwL._SL200_.jpg)](https://www.amazon.es/dp/B07S14YHG1/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07S14YHG1/?tag=tolees-21)
 

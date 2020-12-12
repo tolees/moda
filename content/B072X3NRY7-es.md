@@ -3,6 +3,7 @@ layout: post
 title: 'Columbia Pike Lake Chaqueta con Capucha  al 30.03 % de descuento'
 date: 2020-11-09 11:10:58
 thumbnailImage: 'https://m.media-amazon.com/images/I/4116XCO6vCL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/4116XCO6vCL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/4116XCO6vCL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 149.99 EUR
 inStock: true
 prodname: 'Columbia Pike Lake Chaqueta con Capucha  Hombre  Negro  XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072X3NRY7/?tag=tolees-21'
+descuento: '30.03'
+titulo: 'Columbia Pike Lake Chaqueta con Capucha '
 ---
 
 Está [Columbia Pike Lake Chaqueta con Capucha  Hombre  Negro  XL](https://www.amazon.es/dp/B072X3NRY7/?tag=tolees-21) con 30.03 de descuento por 104.95 EUR (original: 149.99 EUR) en el siguiente enlace!
 
 [![Columbia Pike Lake Chaqueta con Capucha ](https://m.media-amazon.com/images/I/4116XCO6vCL._SL200_.jpg)](https://www.amazon.es/dp/B072X3NRY7/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B072X3NRY7/?tag=tolees-21)
 

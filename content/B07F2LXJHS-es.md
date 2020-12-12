@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.34 % en Helly-Hansen W Crew Midlayer Jacket Chaq'
 date: 2020-11-23 17:14:58
 thumbnailImage: 'https://m.media-amazon.com/images/I/41JMvZbNh-L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41JMvZbNh-L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41JMvZbNh-L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 150.0 EUR
 inStock: true
 prodname: 'Helly-Hansen W Crew Midlayer Jacket Chaqueta Impermeable  Mujer  Grey Fog  XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F2LXJHS/?tag=tolees-21'
+descuento: '50.34'
+titulo: 'Helly-Hansen W Crew Midlayer Jacket Chaq'
 ---
 
 Tienes [Helly-Hansen W Crew Midlayer Jacket Chaqueta Impermeable  Mujer  Grey Fog  XL](https://www.amazon.es/dp/B07F2LXJHS/?tag=tolees-21) con un 50.34 % de descuento con precio de oferta de 74.49 EUR (original: 150.0 EUR) en el siguiente enlace!
 
 [![Helly-Hansen W Crew Midlayer Jacket Chaq](https://m.media-amazon.com/images/I/41JMvZbNh-L._SL200_.jpg)](https://www.amazon.es/dp/B07F2LXJHS/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07F2LXJHS/?tag=tolees-21)
 

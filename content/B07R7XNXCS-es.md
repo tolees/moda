@@ -3,6 +3,7 @@ layout: post
 title: 'Columbia Lake 22  Chaqueta de plumas con al 33.17 % de descuento'
 date: 2020-11-23 21:02:32
 thumbnailImage: 'https://m.media-amazon.com/images/I/41i+t+slHpL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41i+t+slHpL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41i+t+slHpL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 139.99 EUR
 inStock: true
 prodname: 'Columbia Lake 22  Chaqueta de plumas con capucha  Hombre  Negro  Black   Talla XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07R7XNXCS/?tag=tolees-21'
+descuento: '33.17'
+titulo: 'Columbia Lake 22  Chaqueta de plumas con'
 ---
 
 Ahora mismo tienes [Columbia Lake 22  Chaqueta de plumas con capucha  Hombre  Negro  Black   Talla XL](https://www.amazon.es/dp/B07R7XNXCS/?tag=tolees-21) a 93.56 EUR (original: 139.99 EUR) (33.17 %  de descuento) en el siguiente enlace!
 
 [![Columbia Lake 22  Chaqueta de plumas con](https://m.media-amazon.com/images/I/41i+t+slHpL._SL200_.jpg)](https://www.amazon.es/dp/B07R7XNXCS/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B07R7XNXCS/?tag=tolees-21)
 

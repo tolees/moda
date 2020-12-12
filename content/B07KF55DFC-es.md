@@ -3,6 +3,7 @@ layout: post
 title: 'Levi s 501 Crop Vaqueros Boyfriend  Blac al 55.55 % de descuento'
 date: 2020-11-22 22:19:22
 thumbnailImage: 'https://m.media-amazon.com/images/I/31G1PNRHGGL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31G1PNRHGGL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31G1PNRHGGL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 110.0 EUR
 inStock: true
 prodname: 'Levi s 501 Crop Vaqueros Boyfriend  Black Heart  25W / 28L para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KF55DFC/?tag=tolees-21'
+descuento: '55.55'
+titulo: 'Levi s 501 Crop Vaqueros Boyfriend  Blac'
 ---
 
 Ahora mismo tienes [Levi s 501 Crop Vaqueros Boyfriend  Black Heart  25W / 28L para Mujer](https://www.amazon.es/dp/B07KF55DFC/?tag=tolees-21) a 48.9 EUR (original: 110.0 EUR) (55.55 %  de descuento) en el siguiente enlace!
 
 [![Levi s 501 Crop Vaqueros Boyfriend  Blac](https://m.media-amazon.com/images/I/31G1PNRHGGL._SL200_.jpg)](https://www.amazon.es/dp/B07KF55DFC/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B07KF55DFC/?tag=tolees-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'Pepe Jeans Spike Vaqueros  Azul  Streaky al 64.64 % de descuento'
 date: 2020-10-27 15:27:26
 thumbnailImage: 'https://m.media-amazon.com/images/I/31uNV7RgpsL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31uNV7RgpsL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31uNV7RgpsL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 85.0 EUR
 inStock: true
 prodname: 'Pepe Jeans Spike Vaqueros  Azul  Streaky Stretch Dk 000   28W/34L para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00VURW3Z2/?tag=tolees-21'
+descuento: '64.64'
+titulo: 'Pepe Jeans Spike Vaqueros  Azul  Streaky'
 ---
 
 Ahora mismo tienes [Pepe Jeans Spike Vaqueros  Azul  Streaky Stretch Dk 000   28W/34L para Hombre](https://www.amazon.es/dp/B00VURW3Z2/?tag=tolees-21) a 30.06 EUR (original: 85.0 EUR) (64.64 %  de descuento) en el siguiente enlace!
 
 [![Pepe Jeans Spike Vaqueros  Azul  Streaky](https://m.media-amazon.com/images/I/31uNV7RgpsL._SL200_.jpg)](https://www.amazon.es/dp/B00VURW3Z2/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B00VURW3Z2/?tag=tolees-21)
 

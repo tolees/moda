@@ -3,6 +3,7 @@ layout: post
 title: 'find. Leather Hurrache Sandalias Punta C al 40.25 % de descuento'
 date: 2020-11-04 02:44:44
 thumbnailImage: 'https://m.media-amazon.com/images/I/310sJPuIVHL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/310sJPuIVHL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/310sJPuIVHL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 43.9 EUR
 inStock: true
 prodname: 'find. Leather Hurrache Sandalias Punta Cerrada  Negro Black   39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HZSTK3P/?tag=tolees-21'
+descuento: '40.25'
+titulo: 'find. Leather Hurrache Sandalias Punta C'
 ---
 
 Está [find. Leather Hurrache Sandalias Punta Cerrada  Negro Black   39 EU](https://www.amazon.es/dp/B07HZSTK3P/?tag=tolees-21) con 40.25 de descuento por 26.23 EUR (original: 43.9 EUR) en el siguiente enlace!
 
 [![find. Leather Hurrache Sandalias Punta C](https://m.media-amazon.com/images/I/310sJPuIVHL._SL200_.jpg)](https://www.amazon.es/dp/B07HZSTK3P/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07HZSTK3P/?tag=tolees-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'Tommy Hilfiger Heritage Slim Polo Dress  al 50.00 % de descuento'
 date: 2020-10-31 11:30:20
 thumbnailImage: 'https://m.media-amazon.com/images/I/31vEecq-zBL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31vEecq-zBL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31vEecq-zBL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 99.9 EUR
 inStock: true
 prodname: 'Tommy Hilfiger Heritage Slim Polo Dress Vestido  Azul  Midnight 403   Medium para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07P8N35TF/?tag=tolees-21'
+descuento: '50.00'
+titulo: 'Tommy Hilfiger Heritage Slim Polo Dress '
 ---
 
 Ahora mismo tienes [Tommy Hilfiger Heritage Slim Polo Dress Vestido  Azul  Midnight 403   Medium para Mujer](https://www.amazon.es/dp/B07P8N35TF/?tag=tolees-21) a 49.95 EUR (original: 99.9 EUR) (50.00 %  de descuento) en el siguiente enlace!
 
 [![Tommy Hilfiger Heritage Slim Polo Dress ](https://m.media-amazon.com/images/I/31vEecq-zBL._SL200_.jpg)](https://www.amazon.es/dp/B07P8N35TF/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B07P8N35TF/?tag=tolees-21)
 

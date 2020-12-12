@@ -3,6 +3,7 @@ layout: post
 title: 'Geographical Norway Parka DE Mujer BUTCH al 29.39 % de descuento'
 date: 2020-11-20 15:43:33
 thumbnailImage: 'https://m.media-amazon.com/images/I/418Cwwl5kDL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/418Cwwl5kDL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/418Cwwl5kDL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 99.0 EUR
 inStock: true
 prodname: 'Geographical Norway Parka DE Mujer BUTCHETA Negro 01'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B08B3Y3GQ9/?tag=tolees-21'
+descuento: '29.39'
+titulo: 'Geographical Norway Parka DE Mujer BUTCH'
 ---
 
 Ahora mismo tienes [Geographical Norway Parka DE Mujer BUTCHETA Negro 01](https://www.amazon.es/dp/B08B3Y3GQ9/?tag=tolees-21) a 69.9 EUR (original: 99.0 EUR) (29.39 %  de descuento) en el siguiente enlace!
 
 [![Geographical Norway Parka DE Mujer BUTCH](https://m.media-amazon.com/images/I/418Cwwl5kDL._SL200_.jpg)](https://www.amazon.es/dp/B08B3Y3GQ9/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B08B3Y3GQ9/?tag=tolees-21)
 

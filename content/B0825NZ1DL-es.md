@@ -3,6 +3,7 @@ layout: post
 title: 'Geox U Damiano C  Zapatillas Hombre  Ant al 34.39 % de descuento'
 date: 2020-11-17 22:02:28
 thumbnailImage: 'https://m.media-amazon.com/images/I/31CNU3GQBgL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31CNU3GQBgL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31CNU3GQBgL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 72.46 EUR
 inStock: true
 prodname: 'Geox U Damiano C  Zapatillas Hombre  Antracita  40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0825NZ1DL/?tag=tolees-21'
+descuento: '34.39'
+titulo: 'Geox U Damiano C  Zapatillas Hombre  Ant'
 ---
 
 Está [Geox U Damiano C  Zapatillas Hombre  Antracita  40 EU](https://www.amazon.es/dp/B0825NZ1DL/?tag=tolees-21) con 34.39 de descuento por 47.54 EUR (original: 72.46 EUR) en el siguiente enlace!
 
 [![Geox U Damiano C  Zapatillas Hombre  Ant](https://m.media-amazon.com/images/I/31CNU3GQBgL._SL200_.jpg)](https://www.amazon.es/dp/B0825NZ1DL/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B0825NZ1DL/?tag=tolees-21)
 

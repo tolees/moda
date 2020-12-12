@@ -3,6 +3,7 @@ layout: post
 title: 'HKT by Hackett Hkt Super Ox Camisa  Blan al 51.46 % de descuento'
 date: 2020-11-08 22:22:01
 thumbnailImage: 'https://m.media-amazon.com/images/I/31ZXlfamr+L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31ZXlfamr+L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31ZXlfamr+L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 69.0 EUR
 inStock: true
 prodname: 'HKT by Hackett Hkt Super Ox Camisa  Blanco  800white 800   40  Talla del Fabricante: Small  para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07VM1TGFJ/?tag=tolees-21'
+descuento: '51.46'
+titulo: 'HKT by Hackett Hkt Super Ox Camisa  Blan'
 ---
 
 Ahora mismo tienes [HKT by Hackett Hkt Super Ox Camisa  Blanco  800white 800   40  Talla del Fabricante: Small  para Hombre](https://www.amazon.es/dp/B07VM1TGFJ/?tag=tolees-21) a 33.49 EUR (original: 69.0 EUR) (51.46 %  de descuento) en el siguiente enlace!
 
 [![HKT by Hackett Hkt Super Ox Camisa  Blan](https://m.media-amazon.com/images/I/31ZXlfamr+L._SL200_.jpg)](https://www.amazon.es/dp/B07VM1TGFJ/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B07VM1TGFJ/?tag=tolees-21)
 

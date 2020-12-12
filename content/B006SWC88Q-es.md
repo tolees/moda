@@ -3,6 +3,7 @@ layout: post
 title: 'Helly Hansen Seven J Jacket Chaqueta Imp al 56.83 % de descuento'
 date: 2020-11-29 15:55:00
 thumbnailImage: 'https://m.media-amazon.com/images/I/41lRxrFVPLL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41lRxrFVPLL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41lRxrFVPLL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 110.0 EUR
 inStock: true
 prodname: 'Helly Hansen Seven J Jacket Chaqueta Impermeable con Forro de Secado rápido  Cortaviento y Transpirable para Hombre y para Uso Diario  Negro  3XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B006SWC88Q/?tag=tolees-21'
+descuento: '56.83'
+titulo: 'Helly Hansen Seven J Jacket Chaqueta Imp'
 ---
 
 Está [Helly Hansen Seven J Jacket Chaqueta Impermeable con Forro de Secado rápido  Cortaviento y Transpirable para Hombre y para Uso Diario  Negro  3XL](https://www.amazon.es/dp/B006SWC88Q/?tag=tolees-21) con 56.83 de descuento por 47.49 EUR (original: 110.0 EUR) en el siguiente enlace!
 
 [![Helly Hansen Seven J Jacket Chaqueta Imp](https://m.media-amazon.com/images/I/41lRxrFVPLL._SL200_.jpg)](https://www.amazon.es/dp/B006SWC88Q/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B006SWC88Q/?tag=tolees-21)
 

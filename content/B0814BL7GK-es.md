@@ -3,6 +3,7 @@ layout: post
 title: 'Columbia Abbott Peak Insulated Chaqueta  al 59.09 % de descuento'
 date: 2020-11-22 04:37:28
 thumbnailImage: 'https://m.media-amazon.com/images/I/41u8zZXrRRL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41u8zZXrRRL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41u8zZXrRRL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 219.99 EUR
 inStock: true
 prodname: 'Columbia Abbott Peak Insulated Chaqueta De Esquí con Capucha  Mujer  Gris  Blanco  Grey Ash/White/Cirrus Grey   M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0814BL7GK/?tag=tolees-21'
+descuento: '59.09'
+titulo: 'Columbia Abbott Peak Insulated Chaqueta '
 ---
 
 Ahora mismo tienes [Columbia Abbott Peak Insulated Chaqueta De Esquí con Capucha  Mujer  Gris  Blanco  Grey Ash/White/Cirrus Grey   M](https://www.amazon.es/dp/B0814BL7GK/?tag=tolees-21) a 89.99 EUR (original: 219.99 EUR) (59.09 %  de descuento) en el siguiente enlace!
 
 [![Columbia Abbott Peak Insulated Chaqueta ](https://m.media-amazon.com/images/I/41u8zZXrRRL._SL200_.jpg)](https://www.amazon.es/dp/B0814BL7GK/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B0814BL7GK/?tag=tolees-21)
 

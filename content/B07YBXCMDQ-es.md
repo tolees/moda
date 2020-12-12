@@ -3,6 +3,7 @@ layout: post
 title: 'ABRAVO Mujer Sudadera con Capucha Manga  al 31.83 % de descuento'
 date: 2020-11-14 13:07:02
 thumbnailImage: 'https://m.media-amazon.com/images/I/51wzEHCS8qL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51wzEHCS8qL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51wzEHCS8qL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 21.99 EUR
 inStock: true
 prodname: 'ABRAVO Mujer Sudadera con Capucha Manga Larga Jerséis Sueltos Sudadera con Estampado la Camiseta Otoño Invierno Mujer Chándal  L  Rayado Blanco '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07YBXCMDQ/?tag=tolees-21'
+descuento: '31.83'
+titulo: 'ABRAVO Mujer Sudadera con Capucha Manga '
 ---
 
 Está [ABRAVO Mujer Sudadera con Capucha Manga Larga Jerséis Sueltos Sudadera con Estampado la Camiseta Otoño Invierno Mujer Chándal  L  Rayado Blanco ](https://www.amazon.es/dp/B07YBXCMDQ/?tag=tolees-21) con 31.83 de descuento por 14.99 EUR (original: 21.99 EUR) en el siguiente enlace!
 
 [![ABRAVO Mujer Sudadera con Capucha Manga ](https://m.media-amazon.com/images/I/51wzEHCS8qL._SL200_.jpg)](https://www.amazon.es/dp/B07YBXCMDQ/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07YBXCMDQ/?tag=tolees-21)
 

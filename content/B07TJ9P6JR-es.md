@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour UA Tech Pant Chándal  Panta al 76.71 % de descuento'
 date: 2020-12-04 18:55:36
 thumbnailImage: 'https://m.media-amazon.com/images/I/31ugAy3Yf5L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31ugAy3Yf5L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31ugAy3Yf5L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 65.0 EUR
 inStock: true
 prodname: 'Under Armour UA Tech Pant Chándal  Pantalón De Deporte  Hombre   Black/Black/Black  001   38/32'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07TJ9P6JR/?tag=tolees-21'
+descuento: '76.71'
+titulo: 'Under Armour UA Tech Pant Chándal  Panta'
 ---
 
 Está [Under Armour UA Tech Pant Chándal  Pantalón De Deporte  Hombre   Black/Black/Black  001   38/32](https://www.amazon.es/dp/B07TJ9P6JR/?tag=tolees-21) con 76.71 de descuento por 15.14 EUR (original: 65.0 EUR) en el siguiente enlace!
 
 [![Under Armour UA Tech Pant Chándal  Panta](https://m.media-amazon.com/images/I/31ugAy3Yf5L._SL200_.jpg)](https://www.amazon.es/dp/B07TJ9P6JR/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07TJ9P6JR/?tag=tolees-21)
 

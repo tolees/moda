@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 57.94 % en G-STAR RAW 3301 Slim Fit Vaqueros  Antic'
 date: 2020-12-07 19:10:09
 thumbnailImage: 'https://m.media-amazon.com/images/I/41omqBhCSjL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41omqBhCSjL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41omqBhCSjL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 119.95 EUR
 inStock: true
 prodname: 'G-STAR RAW 3301 Slim Fit Vaqueros  Antic Charcoal  27W / 32L para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07N14WHHS/?tag=tolees-21'
+descuento: '57.94'
+titulo: 'G-STAR RAW 3301 Slim Fit Vaqueros  Antic'
 ---
 
 Tienes [G-STAR RAW 3301 Slim Fit Vaqueros  Antic Charcoal  27W / 32L para Hombre](https://www.amazon.es/dp/B07N14WHHS/?tag=tolees-21) con un 57.94 % de descuento con precio de oferta de 50.45 EUR (original: 119.95 EUR) en el siguiente enlace!
 
 [![G-STAR RAW 3301 Slim Fit Vaqueros  Antic](https://m.media-amazon.com/images/I/41omqBhCSjL._SL200_.jpg)](https://www.amazon.es/dp/B07N14WHHS/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07N14WHHS/?tag=tolees-21)
 

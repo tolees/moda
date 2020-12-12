@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 36.49 % en Havaianas You Metallic  Sandalias para M'
 date: 2020-11-17 04:35:45
 thumbnailImage: 'https://m.media-amazon.com/images/I/41xLkOhUtmL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41xLkOhUtmL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41xLkOhUtmL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 29.9 EUR
 inStock: true
 prodname: 'Havaianas You Metallic  Sandalias para Mujer  Dorado  Sand Grey/Light Golden   35/36 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B015SGHCHO/?tag=tolees-21'
+descuento: '36.49'
+titulo: 'Havaianas You Metallic  Sandalias para M'
 ---
 
 Tienes [Havaianas You Metallic  Sandalias para Mujer  Dorado  Sand Grey/Light Golden   35/36 EU](https://www.amazon.es/dp/B015SGHCHO/?tag=tolees-21) con un 36.49 % de descuento con precio de oferta de 18.99 EUR (original: 29.9 EUR) en el siguiente enlace!
 
 [![Havaianas You Metallic  Sandalias para M](https://m.media-amazon.com/images/I/41xLkOhUtmL._SL200_.jpg)](https://www.amazon.es/dp/B015SGHCHO/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B015SGHCHO/?tag=tolees-21)
 

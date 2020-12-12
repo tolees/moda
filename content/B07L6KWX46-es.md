@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour Tactical All Season Jacket  al 50.00 % de descuento'
 date: 2020-11-28 16:31:03
 thumbnailImage: 'https://m.media-amazon.com/images/I/41nE3SW0cOL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41nE3SW0cOL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41nE3SW0cOL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 100.0 EUR
 inStock: true
 prodname: 'Under Armour Tactical All Season Jacket Chaqueta  Hombre  Negro  SM'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07L6KWX46/?tag=tolees-21'
+descuento: '50.00'
+titulo: 'Under Armour Tactical All Season Jacket '
 ---
 
 Ahora mismo tienes [Under Armour Tactical All Season Jacket Chaqueta  Hombre  Negro  SM](https://www.amazon.es/dp/B07L6KWX46/?tag=tolees-21) a 50.0 EUR (original: 100.0 EUR) (50.00 %  de descuento) en el siguiente enlace!
 
 [![Under Armour Tactical All Season Jacket ](https://m.media-amazon.com/images/I/41nE3SW0cOL._SL200_.jpg)](https://www.amazon.es/dp/B07L6KWX46/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B07L6KWX46/?tag=tolees-21)
 

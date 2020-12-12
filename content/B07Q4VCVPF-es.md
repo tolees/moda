@@ -3,6 +3,7 @@ layout: post
 title: 'Superdry Parker Skirt Falda  Marrón  Bro al 63.49 % de descuento'
 date: 2020-11-14 12:54:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/415ozq8zBKL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/415ozq8zBKL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/415ozq8zBKL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 74.99 EUR
 inStock: true
 prodname: 'Superdry Parker Skirt Falda  Marrón  Brown Check Q21   XS  Talla del Fabricante:8  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07Q4VCVPF/?tag=tolees-21'
+descuento: '63.49'
+titulo: 'Superdry Parker Skirt Falda  Marrón  Bro'
 ---
 
 Ahora mismo tienes [Superdry Parker Skirt Falda  Marrón  Brown Check Q21   XS  Talla del Fabricante:8  para Mujer](https://www.amazon.es/dp/B07Q4VCVPF/?tag=tolees-21) a 27.38 EUR (original: 74.99 EUR) (63.49 %  de descuento) en el siguiente enlace!
 
 [![Superdry Parker Skirt Falda  Marrón  Bro](https://m.media-amazon.com/images/I/415ozq8zBKL._SL200_.jpg)](https://www.amazon.es/dp/B07Q4VCVPF/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B07Q4VCVPF/?tag=tolees-21)
 

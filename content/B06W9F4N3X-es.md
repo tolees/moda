@@ -3,6 +3,7 @@ layout: post
 title: 'Tommy Hilfiger 3p Trunk Bóxer  Multicolo al 34.85 % de descuento'
 date: 2020-12-08 20:40:01
 thumbnailImage: 'https://m.media-amazon.com/images/I/41VhT4NGGZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41VhT4NGGZL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41VhT4NGGZL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 42.9 EUR
 inStock: true
 prodname: 'Tommy Hilfiger 3p Trunk Bóxer  Multicolor  Multi/Peacoat 904   Large  Pack de 3  para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06W9F4N3X/?tag=tolees-21'
+descuento: '34.85'
+titulo: 'Tommy Hilfiger 3p Trunk Bóxer  Multicolo'
 ---
 
 Está [Tommy Hilfiger 3p Trunk Bóxer  Multicolor  Multi/Peacoat 904   Large  Pack de 3  para Hombre](https://www.amazon.es/dp/B06W9F4N3X/?tag=tolees-21) con 34.85 de descuento por 27.95 EUR (original: 42.9 EUR) en el siguiente enlace!
 
 [![Tommy Hilfiger 3p Trunk Bóxer  Multicolo](https://m.media-amazon.com/images/I/41VhT4NGGZL._SL200_.jpg)](https://www.amazon.es/dp/B06W9F4N3X/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B06W9F4N3X/?tag=tolees-21)
 

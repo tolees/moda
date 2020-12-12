@@ -3,6 +3,7 @@ layout: post
 title: 'G-STAR RAW 3301 High Waist Skinny Ankle  al 83.83 % de descuento'
 date: 2020-11-05 22:37:25
 thumbnailImage: 'https://m.media-amazon.com/images/I/41UVarwV02L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41UVarwV02L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41UVarwV02L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 129.95 EUR
 inStock: true
 prodname: 'G-STAR RAW 3301 High Waist Skinny Ankle Vaqueros  Azul  Vintage Ripped Sky 8968-B173   W24/L28  Talla del Fabricante: 24W / 28L  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07VPQFJPY/?tag=tolees-21'
+descuento: '83.83'
+titulo: 'G-STAR RAW 3301 High Waist Skinny Ankle '
 ---
 
 Está [G-STAR RAW 3301 High Waist Skinny Ankle Vaqueros  Azul  Vintage Ripped Sky 8968-B173   W24/L28  Talla del Fabricante: 24W / 28L  para Mujer](https://www.amazon.es/dp/B07VPQFJPY/?tag=tolees-21) con 83.83 de descuento por 21.01 EUR (original: 129.95 EUR) en el siguiente enlace!
 
 [![G-STAR RAW 3301 High Waist Skinny Ankle ](https://m.media-amazon.com/images/I/41UVarwV02L._SL200_.jpg)](https://www.amazon.es/dp/B07VPQFJPY/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07VPQFJPY/?tag=tolees-21)
 

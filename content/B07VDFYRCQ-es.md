@@ -3,6 +3,7 @@ layout: post
 title: 'Desigual TS Julia Camiseta  Negro  Negro al 55.82 % de descuento'
 date: 2020-11-13 21:39:02
 thumbnailImage: 'https://m.media-amazon.com/images/I/41IKjkEb5VL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41IKjkEb5VL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41IKjkEb5VL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 39.95 EUR
 inStock: true
 prodname: 'Desigual TS Julia Camiseta  Negro  Negro 2000   Large para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07VDFYRCQ/?tag=tolees-21'
+descuento: '55.82'
+titulo: 'Desigual TS Julia Camiseta  Negro  Negro'
 ---
 
 Está [Desigual TS Julia Camiseta  Negro  Negro 2000   Large para Mujer](https://www.amazon.es/dp/B07VDFYRCQ/?tag=tolees-21) con 55.82 de descuento por 17.65 EUR (original: 39.95 EUR) en el siguiente enlace!
 
 [![Desigual TS Julia Camiseta  Negro  Negro](https://m.media-amazon.com/images/I/41IKjkEb5VL._SL200_.jpg)](https://www.amazon.es/dp/B07VDFYRCQ/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07VDFYRCQ/?tag=tolees-21)
 

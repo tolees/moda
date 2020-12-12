@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 55.74 % en Tiempos de saldos - Afeitadora eléctrica'
 date: 2020-11-10 21:12:40
 thumbnailImage: 'https://m.media-amazon.com/images/I/41SYXNPtUrL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41SYXNPtUrL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41SYXNPtUrL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 12.2 EUR
 inStock: true
 prodname: 'Tiempos de saldos - Afeitadora eléctrica para la cara y las axilas de bikini con precisión y acabado de cejas'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D2JP8T7/?tag=tolees-21'
+descuento: '55.74'
+titulo: 'Tiempos de saldos - Afeitadora eléctrica'
 ---
 
 Tienes [Tiempos de saldos - Afeitadora eléctrica para la cara y las axilas de bikini con precisión y acabado de cejas](https://www.amazon.es/dp/B07D2JP8T7/?tag=tolees-21) con un 55.74 % de descuento con precio de oferta de 5.4 EUR (original: 12.2 EUR) en el siguiente enlace!
 
 [![Tiempos de saldos - Afeitadora eléctrica](https://m.media-amazon.com/images/I/41SYXNPtUrL._SL200_.jpg)](https://www.amazon.es/dp/B07D2JP8T7/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07D2JP8T7/?tag=tolees-21)
 

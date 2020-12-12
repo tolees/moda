@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.00 % en Levi s The Original Camiseta  Grey  Hm P'
 date: 2020-12-06 05:35:47
 thumbnailImage: 'https://m.media-amazon.com/images/I/41MdghJMm9L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41MdghJMm9L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41MdghJMm9L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 25.0 EUR
 inStock: true
 prodname: 'Levi s The Original Camiseta  Grey  Hm Patch OG tee Forged Iron 0004   Small para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07RZLH557/?tag=tolees-21'
+descuento: '40.00'
+titulo: 'Levi s The Original Camiseta  Grey  Hm P'
 ---
 
 Tienes [Levi s The Original Camiseta  Grey  Hm Patch OG tee Forged Iron 0004   Small para Hombre](https://www.amazon.es/dp/B07RZLH557/?tag=tolees-21) con un 40.00 % de descuento con precio de oferta de 15.0 EUR (original: 25.0 EUR) en el siguiente enlace!
 
 [![Levi s The Original Camiseta  Grey  Hm P](https://m.media-amazon.com/images/I/41MdghJMm9L._SL200_.jpg)](https://www.amazon.es/dp/B07RZLH557/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07RZLH557/?tag=tolees-21)
 

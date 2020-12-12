@@ -3,6 +3,7 @@ layout: post
 title: 'Adidas Real Madrid Temporada 2020/21 Cam al 33.91 % de descuento'
 date: 2020-12-11 10:37:41
 thumbnailImage: 'https://m.media-amazon.com/images/I/41GPsMAL1wL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41GPsMAL1wL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41GPsMAL1wL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 89.95 EUR
 inStock: true
 prodname: 'Adidas Real Madrid Temporada 2020/21 Camiseta Segunda Equipación Oficial  Unisex  Rosa  S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B08BG6GDY8/?tag=tolees-21'
+descuento: '33.91'
+titulo: 'Adidas Real Madrid Temporada 2020/21 Cam'
 ---
 
 Está [Adidas Real Madrid Temporada 2020/21 Camiseta Segunda Equipación Oficial  Unisex  Rosa  S](https://www.amazon.es/dp/B08BG6GDY8/?tag=tolees-21) con 33.91 de descuento por 59.45 EUR (original: 89.95 EUR) en el siguiente enlace!
@@ -25,10 +29,10 @@ Está [Adidas Real Madrid Temporada 2020/21 Camiseta Segunda Equipación Oficial
 Principales características:
 
 - Tejido tricot 100 % poliéster reciclado
+- Cuello en V acanalado
+- ecnología de absorción de humedad AEROREADY
 - Una camiseta de visitante con un llamativo diseño
 - Corte clásico
-- ecnología de absorción de humedad AEROREADY
-- Cuello en V acanalado
 
 [Ver la oferta!!](https://www.amazon.es/dp/B08BG6GDY8/?tag=tolees-21)
 

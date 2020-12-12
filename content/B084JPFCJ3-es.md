@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 27.67 % en Columbia Silver Ridge 2.0 Camisa de Mang'
 date: 2020-11-14 05:49:53
 thumbnailImage: 'https://m.media-amazon.com/images/I/31V3Zoyzl1L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31V3Zoyzl1L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31V3Zoyzl1L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 64.99 EUR
 inStock: true
 prodname: 'Columbia Silver Ridge 2.0 Camisa de Manga Larga  Hombre  Beige  Fossil   L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B084JPFCJ3/?tag=tolees-21'
+descuento: '27.67'
+titulo: 'Columbia Silver Ridge 2.0 Camisa de Mang'
 ---
 
 Tienes [Columbia Silver Ridge 2.0 Camisa de Manga Larga  Hombre  Beige  Fossil   L](https://www.amazon.es/dp/B084JPFCJ3/?tag=tolees-21) con un 27.67 % de descuento con precio de oferta de 47.01 EUR (original: 64.99 EUR) en el siguiente enlace!
 
 [![Columbia Silver Ridge 2.0 Camisa de Mang](https://m.media-amazon.com/images/I/31V3Zoyzl1L._SL200_.jpg)](https://www.amazon.es/dp/B084JPFCJ3/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B084JPFCJ3/?tag=tolees-21)
 

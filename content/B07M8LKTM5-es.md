@@ -3,6 +3,7 @@ layout: post
 title: 'Wrangler Logo tee Camiseta  Azul  Navy 1 al 34.89 % de descuento'
 date: 2020-10-25 15:49:56
 thumbnailImage: 'https://m.media-amazon.com/images/I/31M-0UXl79L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31M-0UXl79L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31M-0UXl79L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 19.95 EUR
 inStock: true
 prodname: 'Wrangler Logo tee Camiseta  Azul  Navy 114   Small para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07M8LKTM5/?tag=tolees-21'
+descuento: '34.89'
+titulo: 'Wrangler Logo tee Camiseta  Azul  Navy 1'
 ---
 
 Ahora mismo tienes [Wrangler Logo tee Camiseta  Azul  Navy 114   Small para Hombre](https://www.amazon.es/dp/B07M8LKTM5/?tag=tolees-21) a 12.99 EUR (original: 19.95 EUR) (34.89 %  de descuento) en el siguiente enlace!
 
 [![Wrangler Logo tee Camiseta  Azul  Navy 1](https://m.media-amazon.com/images/I/31M-0UXl79L._SL200_.jpg)](https://www.amazon.es/dp/B07M8LKTM5/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B07M8LKTM5/?tag=tolees-21)
 

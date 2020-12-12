@@ -3,6 +3,7 @@ layout: post
 title: 'Lee Slim Rider Chaqueta de Mezclilla  Az al 68.30 % de descuento'
 date: 2020-10-30 21:39:38
 thumbnailImage: 'https://m.media-amazon.com/images/I/41gcc7SFVQL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41gcc7SFVQL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41gcc7SFVQL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'Lee Slim Rider Chaqueta de Mezclilla  Azul  Flick Dark Ka   Small para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FTW8D8J/?tag=tolees-21'
+descuento: '68.30'
+titulo: 'Lee Slim Rider Chaqueta de Mezclilla  Az'
 ---
 
 Ahora mismo tienes [Lee Slim Rider Chaqueta de Mezclilla  Azul  Flick Dark Ka   Small para Hombre](https://www.amazon.es/dp/B07FTW8D8J/?tag=tolees-21) a 31.68 EUR (original: 99.95 EUR) (68.30 %  de descuento) en el siguiente enlace!
 
 [![Lee Slim Rider Chaqueta de Mezclilla  Az](https://m.media-amazon.com/images/I/41gcc7SFVQL._SL200_.jpg)](https://www.amazon.es/dp/B07FTW8D8J/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B07FTW8D8J/?tag=tolees-21)
 

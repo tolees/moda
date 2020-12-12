@@ -3,6 +3,7 @@ layout: post
 title: 'Fila - boxer - para hombre al 38.09 % de descuento'
 date: 2020-10-14 12:49:00
 thumbnailImage: 'https://m.media-amazon.com/images/I/31VFqZF5GKL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31VFqZF5GKL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31VFqZF5GKL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 15.99 EUR
 inStock: true
 prodname: 'Fila - boxer - para hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075ZX3X1X/?tag=tolees-21'
+descuento: '38.09'
+titulo: 'Fila - boxer - para hombre'
 ---
 
 Está [Fila - boxer - para hombre](https://www.amazon.es/dp/B075ZX3X1X/?tag=tolees-21) con 38.09 de descuento por 9.9 EUR (original: 15.99 EUR) en el siguiente enlace!
 
 [![Fila - boxer - para hombre](https://m.media-amazon.com/images/I/31VFqZF5GKL._SL200_.jpg)](https://www.amazon.es/dp/B075ZX3X1X/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B075ZX3X1X/?tag=tolees-21)
 

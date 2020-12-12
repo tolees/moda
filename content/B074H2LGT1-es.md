@@ -3,6 +3,7 @@ layout: post
 title: 'Marca Amazon - find. Vestido Corto de Fl al 84.23 % de descuento'
 date: 2020-10-27 13:28:36
 thumbnailImage: 'https://m.media-amazon.com/images/I/41reP0qMCHL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41reP0qMCHL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41reP0qMCHL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 41.86 EUR
 inStock: true
 prodname: 'Marca Amazon - find. Vestido Corto de Flores Mujer  Verde  Khaki   36  Label: XS'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B074H2LGT1/?tag=tolees-21'
+descuento: '84.23'
+titulo: 'Marca Amazon - find. Vestido Corto de Fl'
 ---
 
 Ahora mismo tienes [Marca Amazon - find. Vestido Corto de Flores Mujer  Verde  Khaki   36  Label: XS](https://www.amazon.es/dp/B074H2LGT1/?tag=tolees-21) a 6.6 EUR (original: 41.86 EUR) (84.23 %  de descuento) en el siguiente enlace!
 
 [![Marca Amazon - find. Vestido Corto de Fl](https://m.media-amazon.com/images/I/41reP0qMCHL._SL200_.jpg)](https://www.amazon.es/dp/B074H2LGT1/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B074H2LGT1/?tag=tolees-21)
 

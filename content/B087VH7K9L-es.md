@@ -3,6 +3,7 @@ layout: post
 title: 'Columbia Evolution Valley Chaqueta  Homb al 59.00 % de descuento'
 date: 2020-11-20 14:26:34
 thumbnailImage: 'https://m.media-amazon.com/images/I/41AwkNdnYFL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41AwkNdnYFL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41AwkNdnYFL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 149.99 EUR
 inStock: true
 prodname: 'Columbia Evolution Valley Chaqueta  Hombre  Azul  Bright Indigo  Collegiate Navy   M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B087VH7K9L/?tag=tolees-21'
+descuento: '59.00'
+titulo: 'Columbia Evolution Valley Chaqueta  Homb'
 ---
 
 Está [Columbia Evolution Valley Chaqueta  Hombre  Azul  Bright Indigo  Collegiate Navy   M](https://www.amazon.es/dp/B087VH7K9L/?tag=tolees-21) con 59.00 de descuento por 61.49 EUR (original: 149.99 EUR) en el siguiente enlace!
 
 [![Columbia Evolution Valley Chaqueta  Homb](https://m.media-amazon.com/images/I/41AwkNdnYFL._SL200_.jpg)](https://www.amazon.es/dp/B087VH7K9L/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B087VH7K9L/?tag=tolees-21)
 

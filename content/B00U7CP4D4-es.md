@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 52.35 % en Geox U Brayden 2FIT ABX D  Botas Desert '
 date: 2020-11-22 18:43:39
 thumbnailImage: 'https://m.media-amazon.com/images/I/416-HywK1aL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/416-HywK1aL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/416-HywK1aL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 145.0 EUR
 inStock: true
 prodname: 'Geox U Brayden 2FIT ABX D  Botas Desert Hombre  Schwarz  BLACKC9999   46 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00U7CP4D4/?tag=tolees-21'
+descuento: '52.35'
+titulo: 'Geox U Brayden 2FIT ABX D  Botas Desert '
 ---
 
 Tienes [Geox U Brayden 2FIT ABX D  Botas Desert Hombre  Schwarz  BLACKC9999   46 EU](https://www.amazon.es/dp/B00U7CP4D4/?tag=tolees-21) con un 52.35 % de descuento con precio de oferta de 69.09 EUR (original: 145.0 EUR) en el siguiente enlace!
 
 [![Geox U Brayden 2FIT ABX D  Botas Desert ](https://m.media-amazon.com/images/I/416-HywK1aL._SL200_.jpg)](https://www.amazon.es/dp/B00U7CP4D4/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00U7CP4D4/?tag=tolees-21)
 

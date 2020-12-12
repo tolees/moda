@@ -3,6 +3,7 @@ layout: post
 title: 'Marca Amazon - find. Camisa Hombre  Rosa al 74.62 % de descuento'
 date: 2020-10-30 17:19:59
 thumbnailImage: 'https://m.media-amazon.com/images/I/51rmBj0bMtL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51rmBj0bMtL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51rmBj0bMtL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 21.99 EUR
 inStock: true
 prodname: 'Marca Amazon - find. Camisa Hombre  Rosa  Dusty Pink   M  Label: M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071DVB62Q/?tag=tolees-21'
+descuento: '74.62'
+titulo: 'Marca Amazon - find. Camisa Hombre  Rosa'
 ---
 
 Está [Marca Amazon - find. Camisa Hombre  Rosa  Dusty Pink   M  Label: M](https://www.amazon.es/dp/B071DVB62Q/?tag=tolees-21) con 74.62 de descuento por 5.58 EUR (original: 21.99 EUR) en el siguiente enlace!
 
 [![Marca Amazon - find. Camisa Hombre  Rosa](https://m.media-amazon.com/images/I/51rmBj0bMtL._SL200_.jpg)](https://www.amazon.es/dp/B071DVB62Q/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B071DVB62Q/?tag=tolees-21)
 

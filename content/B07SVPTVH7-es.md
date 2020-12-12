@@ -3,6 +3,7 @@ layout: post
 title: 'Geox D Vega A  Zapatillas Mujer  Blanco  al 67.21 % de descuento'
 date: 2020-11-14 11:01:08
 thumbnailImage: 'https://m.media-amazon.com/images/I/31SMWkxNL1L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31SMWkxNL1L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31SMWkxNL1L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 119.9 EUR
 inStock: true
 prodname: 'Geox D Vega A  Zapatillas Mujer  Blanco  Off White and White C1209   38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07SVPTVH7/?tag=tolees-21'
+descuento: '67.21'
+titulo: 'Geox D Vega A  Zapatillas Mujer  Blanco '
 ---
 
 Ahora mismo tienes [Geox D Vega A  Zapatillas Mujer  Blanco  Off White and White C1209   38 EU](https://www.amazon.es/dp/B07SVPTVH7/?tag=tolees-21) a 39.31 EUR (original: 119.9 EUR) (67.21 %  de descuento) en el siguiente enlace!
 
 [![Geox D Vega A  Zapatillas Mujer  Blanco ](https://m.media-amazon.com/images/I/31SMWkxNL1L._SL200_.jpg)](https://www.amazon.es/dp/B07SVPTVH7/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B07SVPTVH7/?tag=tolees-21)
 

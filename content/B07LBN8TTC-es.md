@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 56.67 % en Helly Hansen Moss Aislado 3-In-1 Forro P'
 date: 2020-11-24 05:01:16
 thumbnailImage: 'https://m.media-amazon.com/images/I/31AVqUjEXUL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31AVqUjEXUL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31AVqUjEXUL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 180.0 EUR
 inStock: true
 prodname: 'Helly Hansen Moss Aislado 3-In-1 Forro Polar Interior Chaqueta Impermeable  Hombre  Navy  M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07LBN8TTC/?tag=tolees-21'
+descuento: '56.67'
+titulo: 'Helly Hansen Moss Aislado 3-In-1 Forro P'
 ---
 
 Tienes [Helly Hansen Moss Aislado 3-In-1 Forro Polar Interior Chaqueta Impermeable  Hombre  Navy  M](https://www.amazon.es/dp/B07LBN8TTC/?tag=tolees-21) con un 56.67 % de descuento con precio de oferta de 77.99 EUR (original: 180.0 EUR) en el siguiente enlace!
 
 [![Helly Hansen Moss Aislado 3-In-1 Forro P](https://m.media-amazon.com/images/I/31AVqUjEXUL._SL200_.jpg)](https://www.amazon.es/dp/B07LBN8TTC/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07LBN8TTC/?tag=tolees-21)
 

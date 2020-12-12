@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield bimater Entredos-c/65 Camise al 32.61 % de descuento'
 date: 2020-10-26 23:54:38
 thumbnailImage: 'https://m.media-amazon.com/images/I/41W5mntxzTL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41W5mntxzTL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41W5mntxzTL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 4.14 EUR
 inStock: true
 prodname: 'Springfield bimater Entredos-c/65 Camiseta  Naranja  Orange 65   XS  Tamaño del Fabricante: XS  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07W85V8BX/?tag=tolees-21'
+descuento: '32.61'
+titulo: 'Springfield bimater Entredos-c/65 Camise'
 ---
 
 Está [Springfield bimater Entredos-c/65 Camiseta  Naranja  Orange 65   XS  Tamaño del Fabricante: XS  para Mujer](https://www.amazon.es/dp/B07W85V8BX/?tag=tolees-21) con 32.61 de descuento por 2.79 EUR (original: 4.14 EUR) en el siguiente enlace!
 
 [![Springfield bimater Entredos-c/65 Camise](https://m.media-amazon.com/images/I/41W5mntxzTL._SL200_.jpg)](https://www.amazon.es/dp/B07W85V8BX/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07W85V8BX/?tag=tolees-21)
 

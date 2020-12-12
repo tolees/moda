@@ -3,6 +3,7 @@ layout: post
 title: 'find. Botines Chelsea Hombre  Marrón  Br al 53.64 % de descuento'
 date: 2020-10-22 15:42:09
 thumbnailImage: 'https://m.media-amazon.com/images/I/31rOetiQIDL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31rOetiQIDL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31rOetiQIDL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 40.29 EUR
 inStock: true
 prodname: 'find. Botines Chelsea Hombre  Marrón  Brown Brown   40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FGKRXMV/?tag=tolees-21'
+descuento: '53.64'
+titulo: 'find. Botines Chelsea Hombre  Marrón  Br'
 ---
 
 Está [find. Botines Chelsea Hombre  Marrón  Brown Brown   40 EU](https://www.amazon.es/dp/B07FGKRXMV/?tag=tolees-21) con 53.64 de descuento por 18.68 EUR (original: 40.29 EUR) en el siguiente enlace!
 
 [![find. Botines Chelsea Hombre  Marrón  Br](https://m.media-amazon.com/images/I/31rOetiQIDL._SL200_.jpg)](https://www.amazon.es/dp/B07FGKRXMV/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07FGKRXMV/?tag=tolees-21)
 

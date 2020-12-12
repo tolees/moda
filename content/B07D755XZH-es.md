@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 57.25 % en PUMA Essentials Logo HDY TR W Sudadera c'
 date: 2020-11-24 22:28:05
 thumbnailImage: 'https://m.media-amazon.com/images/I/31M12UbdUrL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31M12UbdUrL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31M12UbdUrL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 54.95 EUR
 inStock: true
 prodname: 'PUMA Essentials Logo HDY TR W Sudadera con Capucha  Mujer  Negro  Cotton Black   XS'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D755XZH/?tag=tolees-21'
+descuento: '57.25'
+titulo: 'PUMA Essentials Logo HDY TR W Sudadera c'
 ---
 
 Tienes [PUMA Essentials Logo HDY TR W Sudadera con Capucha  Mujer  Negro  Cotton Black   XS](https://www.amazon.es/dp/B07D755XZH/?tag=tolees-21) con un 57.25 % de descuento con precio de oferta de 23.49 EUR (original: 54.95 EUR) en el siguiente enlace!
 
 [![PUMA Essentials Logo HDY TR W Sudadera c](https://m.media-amazon.com/images/I/31M12UbdUrL._SL200_.jpg)](https://www.amazon.es/dp/B07D755XZH/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07D755XZH/?tag=tolees-21)
 

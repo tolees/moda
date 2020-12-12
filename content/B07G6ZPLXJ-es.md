@@ -3,6 +3,7 @@ layout: post
 title: 'Marca Amazon - MERAKI Rib Crew Neck - su al 60.01 % de descuento'
 date: 2020-11-10 09:58:51
 thumbnailImage: 'https://m.media-amazon.com/images/I/41AysEGAAHL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41AysEGAAHL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41AysEGAAHL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 23.88 EUR
 inStock: true
 prodname: 'Marca Amazon - MERAKI Rib Crew Neck - suéter Mujer  Negro  Black Black   36  Label: XS'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07G6ZPLXJ/?tag=tolees-21'
+descuento: '60.01'
+titulo: 'Marca Amazon - MERAKI Rib Crew Neck - su'
 ---
 
 Está [Marca Amazon - MERAKI Rib Crew Neck - suéter Mujer  Negro  Black Black   36  Label: XS](https://www.amazon.es/dp/B07G6ZPLXJ/?tag=tolees-21) con 60.01 de descuento por 9.55 EUR (original: 23.88 EUR) en el siguiente enlace!
 
 [![Marca Amazon - MERAKI Rib Crew Neck - su](https://m.media-amazon.com/images/I/41AysEGAAHL._SL200_.jpg)](https://www.amazon.es/dp/B07G6ZPLXJ/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07G6ZPLXJ/?tag=tolees-21)
 

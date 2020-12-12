@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour HeatGear ARMOUR 2.0 COMP Sh al 50.00 % de descuento'
 date: 2020-11-28 08:53:53
 thumbnailImage: 'https://m.media-amazon.com/images/I/41PsMDUnJLL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41PsMDUnJLL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41PsMDUnJLL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 28.0 EUR
 inStock: true
 prodname: 'Under Armour HeatGear ARMOUR 2.0 COMP Shorts  Pantalón Corto Hombre  Azul  Royal/Academy 401   S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077XLYZ5J/?tag=tolees-21'
+descuento: '50.00'
+titulo: 'Under Armour HeatGear ARMOUR 2.0 COMP Sh'
 ---
 
 Está [Under Armour HeatGear ARMOUR 2.0 COMP Shorts  Pantalón Corto Hombre  Azul  Royal/Academy 401   S](https://www.amazon.es/dp/B077XLYZ5J/?tag=tolees-21) con 50.00 de descuento por 14.0 EUR (original: 28.0 EUR) en el siguiente enlace!
 
 [![Under Armour HeatGear ARMOUR 2.0 COMP Sh](https://m.media-amazon.com/images/I/41PsMDUnJLL._SL200_.jpg)](https://www.amazon.es/dp/B077XLYZ5J/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B077XLYZ5J/?tag=tolees-21)
 

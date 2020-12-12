@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 61.95 % en adidas T19 Tank W Camiseta sin Mangas  M'
 date: 2020-10-30 20:14:16
 thumbnailImage: 'https://m.media-amazon.com/images/I/31T9poP2zfL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31T9poP2zfL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31T9poP2zfL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 39.95 EUR
 inStock: true
 prodname: 'adidas T19 Tank W Camiseta sin Mangas  Mujer  White  XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KCYW8NH/?tag=tolees-21'
+descuento: '61.95'
+titulo: 'adidas T19 Tank W Camiseta sin Mangas  M'
 ---
 
 Tienes [adidas T19 Tank W Camiseta sin Mangas  Mujer  White  XL](https://www.amazon.es/dp/B07KCYW8NH/?tag=tolees-21) con un 61.95 % de descuento con precio de oferta de 15.2 EUR (original: 39.95 EUR) en el siguiente enlace!
 
 [![adidas T19 Tank W Camiseta sin Mangas  M](https://m.media-amazon.com/images/I/31T9poP2zfL._SL200_.jpg)](https://www.amazon.es/dp/B07KCYW8NH/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07KCYW8NH/?tag=tolees-21)
 

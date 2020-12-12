@@ -3,6 +3,7 @@ layout: post
 title: 'OBEEII Niñas Princesa Anna Disfraz Froze al 50.00 % de descuento'
 date: 2020-10-23 04:29:20
 thumbnailImage: 'https://m.media-amazon.com/images/I/51OQ3X4GMjL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51OQ3X4GMjL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51OQ3X4GMjL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 25.72 EUR
 inStock: true
 prodname: 'OBEEII Niñas Princesa Anna Disfraz Frozen 2 Carnaval Fiesta de Cosplay Vestido Fancy Dress Up Costume Anna03 3-4 Años'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B08GWWGQNG/?tag=tolees-21'
+descuento: '50.00'
+titulo: 'OBEEII Niñas Princesa Anna Disfraz Froze'
 ---
 
 Ahora mismo tienes [OBEEII Niñas Princesa Anna Disfraz Frozen 2 Carnaval Fiesta de Cosplay Vestido Fancy Dress Up Costume Anna03 3-4 Años](https://www.amazon.es/dp/B08GWWGQNG/?tag=tolees-21) a 12.86 EUR (original: 25.72 EUR) (50.00 %  de descuento) en el siguiente enlace!
 
 [![OBEEII Niñas Princesa Anna Disfraz Froze](https://m.media-amazon.com/images/I/51OQ3X4GMjL._SL200_.jpg)](https://www.amazon.es/dp/B08GWWGQNG/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B08GWWGQNG/?tag=tolees-21)
 

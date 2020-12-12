@@ -3,6 +3,7 @@ layout: post
 title: 'JACK & JONES JJELOGO Blocking Sweat Hood al 28.76 % de descuento'
 date: 2020-11-28 23:01:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/41bseuJUE2L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41bseuJUE2L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41bseuJUE2L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'JACK & JONES JJELOGO Blocking Sweat Hood STS Sudadera con capucha  Azul  China Blue   M para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B08BPDJMTX/?tag=tolees-21'
+descuento: '28.76'
+titulo: 'JACK & JONES JJELOGO Blocking Sweat Hood'
 ---
 
 Ahora mismo tienes [JACK & JONES JJELOGO Blocking Sweat Hood STS Sudadera con capucha  Azul  China Blue   M para Hombre](https://www.amazon.es/dp/B08BPDJMTX/?tag=tolees-21) a 28.49 EUR (original: 39.99 EUR) (28.76 %  de descuento) en el siguiente enlace!
 
 [![JACK & JONES JJELOGO Blocking Sweat Hood](https://m.media-amazon.com/images/I/41bseuJUE2L._SL200_.jpg)](https://www.amazon.es/dp/B08BPDJMTX/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B08BPDJMTX/?tag=tolees-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour Vanish Woven Short Pantalón al 50.00 % de descuento'
 date: 2020-11-30 15:55:58
 thumbnailImage: 'https://m.media-amazon.com/images/I/41CYHsP+WfL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41CYHsP+WfL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41CYHsP+WfL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 45.0 EUR
 inStock: true
 prodname: 'Under Armour Vanish Woven Short Pantalón Corto  Hombre  Negro  Black/Jet Gray 001   M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CZ8X4FV/?tag=tolees-21'
+descuento: '50.00'
+titulo: 'Under Armour Vanish Woven Short Pantalón'
 ---
 
 Está [Under Armour Vanish Woven Short Pantalón Corto  Hombre  Negro  Black/Jet Gray 001   M](https://www.amazon.es/dp/B07CZ8X4FV/?tag=tolees-21) con 50.00 de descuento por 22.5 EUR (original: 45.0 EUR) en el siguiente enlace!
 
 [![Under Armour Vanish Woven Short Pantalón](https://m.media-amazon.com/images/I/41CYHsP+WfL._SL200_.jpg)](https://www.amazon.es/dp/B07CZ8X4FV/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07CZ8X4FV/?tag=tolees-21)
 

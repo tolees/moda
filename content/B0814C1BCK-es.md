@@ -3,6 +3,7 @@ layout: post
 title: 'Columbia AVA Alpine Insulated Chaqueta D al 59.00 % de descuento'
 date: 2020-11-22 14:17:04
 thumbnailImage: 'https://m.media-amazon.com/images/I/414oGfLWnuL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/414oGfLWnuL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/414oGfLWnuL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 199.99 EUR
 inStock: true
 prodname: 'Columbia AVA Alpine Insulated Chaqueta De Esquí con Capucha  Mujer  Negro  L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0814C1BCK/?tag=tolees-21'
+descuento: '59.00'
+titulo: 'Columbia AVA Alpine Insulated Chaqueta D'
 ---
 
 Ahora mismo tienes [Columbia AVA Alpine Insulated Chaqueta De Esquí con Capucha  Mujer  Negro  L](https://www.amazon.es/dp/B0814C1BCK/?tag=tolees-21) a 81.99 EUR (original: 199.99 EUR) (59.00 %  de descuento) en el siguiente enlace!
 
 [![Columbia AVA Alpine Insulated Chaqueta D](https://m.media-amazon.com/images/I/414oGfLWnuL._SL200_.jpg)](https://www.amazon.es/dp/B0814C1BCK/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B0814C1BCK/?tag=tolees-21)
 

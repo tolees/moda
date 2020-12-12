@@ -3,6 +3,7 @@ layout: post
 title: 'Marca Amazon - find. Phkn0239 - chaqueta al 63.02 % de descuento'
 date: 2020-11-10 09:09:20
 thumbnailImage: 'https://m.media-amazon.com/images/I/41qLgRbg6yL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41qLgRbg6yL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41qLgRbg6yL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 12.79 EUR
 inStock: true
 prodname: 'Marca Amazon - find. Phkn0239 - chaqueta premama Mujer  Azul  Blue   42  Label: L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07PWHHCQD/?tag=tolees-21'
+descuento: '63.02'
+titulo: 'Marca Amazon - find. Phkn0239 - chaqueta'
 ---
 
 Está [Marca Amazon - find. Phkn0239 - chaqueta premama Mujer  Azul  Blue   42  Label: L](https://www.amazon.es/dp/B07PWHHCQD/?tag=tolees-21) con 63.02 de descuento por 4.73 EUR (original: 12.79 EUR) en el siguiente enlace!
 
 [![Marca Amazon - find. Phkn0239 - chaqueta](https://m.media-amazon.com/images/I/41qLgRbg6yL._SL200_.jpg)](https://www.amazon.es/dp/B07PWHHCQD/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07PWHHCQD/?tag=tolees-21)
 

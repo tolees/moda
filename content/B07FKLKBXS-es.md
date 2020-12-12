@@ -3,6 +3,7 @@ layout: post
 title: 'Superdry Vintage Logo Tri tee Camiseta d al 50.01 % de descuento'
 date: 2020-12-11 14:33:27
 thumbnailImage: 'https://m.media-amazon.com/images/I/41HNZ35idrL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41HNZ35idrL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41HNZ35idrL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 34.99 EUR
 inStock: true
 prodname: 'Superdry Vintage Logo Tri tee Camiseta de Tirantes  Azul  Eclipse Navy 98t   S para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FKLKBXS/?tag=tolees-21'
+descuento: '50.01'
+titulo: 'Superdry Vintage Logo Tri tee Camiseta d'
 ---
 
 Está [Superdry Vintage Logo Tri tee Camiseta de Tirantes  Azul  Eclipse Navy 98t   S para Hombre](https://www.amazon.es/dp/B07FKLKBXS/?tag=tolees-21) con 50.01 de descuento por 17.49 EUR (original: 34.99 EUR) en el siguiente enlace!

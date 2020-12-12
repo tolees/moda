@@ -3,6 +3,7 @@ layout: post
 title: 'Havaianas Top  Chanclas Unisex Adulto  B al 29.61 % de descuento'
 date: 2020-11-26 00:31:39
 thumbnailImage: 'https://m.media-amazon.com/images/I/31K4BLnNpYL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31K4BLnNpYL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31K4BLnNpYL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 17.9 EUR
 inStock: true
 prodname: 'Havaianas Top  Chanclas Unisex Adulto  Blanco  White   37/38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B000YKO38Q/?tag=tolees-21'
+descuento: '29.61'
+titulo: 'Havaianas Top  Chanclas Unisex Adulto  B'
 ---
 
 Ahora mismo tienes [Havaianas Top  Chanclas Unisex Adulto  Blanco  White   37/38 EU](https://www.amazon.es/dp/B000YKO38Q/?tag=tolees-21) a 12.6 EUR (original: 17.9 EUR) (29.61 %  de descuento) en el siguiente enlace!
 
 [![Havaianas Top  Chanclas Unisex Adulto  B](https://m.media-amazon.com/images/I/31K4BLnNpYL._SL200_.jpg)](https://www.amazon.es/dp/B000YKO38Q/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B000YKO38Q/?tag=tolees-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'Clarks Sharon Crystal  Zapatos de Cordon al 78.41 % de descuento'
 date: 2020-11-14 19:45:57
 thumbnailImage: 'https://m.media-amazon.com/images/I/41DrQFZzu1L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41DrQFZzu1L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41DrQFZzu1L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 89.95 EUR
 inStock: true
 prodname: 'Clarks Sharon Crystal  Zapatos de Cordones Derby  Beige  Pewter-   35.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FSK9QFY/?tag=tolees-21'
+descuento: '78.41'
+titulo: 'Clarks Sharon Crystal  Zapatos de Cordon'
 ---
 
 Está [Clarks Sharon Crystal  Zapatos de Cordones Derby  Beige  Pewter-   35.5 EU](https://www.amazon.es/dp/B07FSK9QFY/?tag=tolees-21) con 78.41 de descuento por 19.42 EUR (original: 89.95 EUR) en el siguiente enlace!
 
 [![Clarks Sharon Crystal  Zapatos de Cordon](https://m.media-amazon.com/images/I/41DrQFZzu1L._SL200_.jpg)](https://www.amazon.es/dp/B07FSK9QFY/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07FSK9QFY/?tag=tolees-21)
 

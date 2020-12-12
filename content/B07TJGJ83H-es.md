@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 57.16 % en Superdry Core Logo Stripe tee Camiseta  '
 date: 2020-11-28 15:33:10
 thumbnailImage: 'https://m.media-amazon.com/images/I/4113z4+awXL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/4113z4+awXL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/4113z4+awXL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 34.99 EUR
 inStock: true
 prodname: 'Superdry Core Logo Stripe tee Camiseta  Gris  Academy Grey Twill V9v   M para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07TJGJ83H/?tag=tolees-21'
+descuento: '57.16'
+titulo: 'Superdry Core Logo Stripe tee Camiseta  '
 ---
 
 Tienes [Superdry Core Logo Stripe tee Camiseta  Gris  Academy Grey Twill V9v   M para Hombre](https://www.amazon.es/dp/B07TJGJ83H/?tag=tolees-21) con un 57.16 % de descuento con precio de oferta de 14.99 EUR (original: 34.99 EUR) en el siguiente enlace!
 
 [![Superdry Core Logo Stripe tee Camiseta  ](https://m.media-amazon.com/images/I/4113z4+awXL._SL200_.jpg)](https://www.amazon.es/dp/B07TJGJ83H/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07TJGJ83H/?tag=tolees-21)
 

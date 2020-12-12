@@ -30,8 +30,8 @@ Características:
 
 - URFEDA Design Funda Libro de Cuero Vistoso Especialmente Compatible con Sony Xperia 10 / Xperia XA3
 - [MEJOR PROTECCIÓN:] Proveyendo protección cada día contra impactos, raspaduras, suciedad, polvo, y peligros cotidianos.Compatible con Sony Xperia 10 / Xperia XA3 Funda.
-- [ Multifunción:] Múltiples ranuras para dinero en efectivo y tarjetas en esta compatible con Sony Xperia 10 / Xperia XA3 te permiten llevar tu ID, tarjetas de crédito, tarjetas de débito y dinero con usted en todo momento.Funda Compatible con Sony Xperia 10 / Xperia XA3 Funda.
 - [Instalación fácil:] Los puertos de acceso con corte de precisión están integrados en el cuerpo de la funda, lo que permite el uso de todas las características de tu dispositivo incluso mientras la funda está equipada; esto incluye el botón de encendido, micrófono, cámara y puerto de carga. Función de soporte integrado permite que la parte posterior de la cubierta se duplique como un soporte plegable para una visualización rápida y fácil, manos libres de medios de visualización.
+- [ Multifunción:] Múltiples ranuras para dinero en efectivo y tarjetas en esta compatible con Sony Xperia 10 / Xperia XA3 te permiten llevar tu ID, tarjetas de crédito, tarjetas de débito y dinero con usted en todo momento.Funda Compatible con Sony Xperia 10 / Xperia XA3 Funda.
 - [Warranty]:URFEDA se compromete con la calidad del producto y la satisfacción del cliente. No dude en contactarnos si tiene alguna pregunta. Estamos comprometidos, seremos serios y resolveremos todos sus problemas.Compatible con Sony Xperia 10 / Xperia XA3 Funda.
 
 [Visítala!!!](https://www.amazon.es/dp/B089XZ9W9V/?tag=tolees-21)

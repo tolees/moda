@@ -3,6 +3,7 @@ layout: post
 title: 'Calvin Klein Jeans Ckj 011 Mid Rise Skin al 63.91 % de descuento'
 date: 2020-10-17 09:50:12
 thumbnailImage: 'https://m.media-amazon.com/images/I/41PgE7TcV+L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41PgE7TcV+L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41PgE7TcV+L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 99.0 EUR
 inStock: true
 prodname: 'Calvin Klein Jeans Ckj 011 Mid Rise Skinny  Vaqueros skinny Mujer  Azul  Amsterdam Blue Mid 911   27W/34L  Talla fabricante: 27W/34L '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07PZT24Z4/?tag=tolees-21'
+descuento: '63.91'
+titulo: 'Calvin Klein Jeans Ckj 011 Mid Rise Skin'
 ---
 
 Ahora mismo tienes [Calvin Klein Jeans Ckj 011 Mid Rise Skinny  Vaqueros skinny Mujer  Azul  Amsterdam Blue Mid 911   27W/34L  Talla fabricante: 27W/34L ](https://www.amazon.es/dp/B07PZT24Z4/?tag=tolees-21) a 35.73 EUR (original: 99.0 EUR) (63.91 %  de descuento) en el siguiente enlace!
 
 [![Calvin Klein Jeans Ckj 011 Mid Rise Skin](https://m.media-amazon.com/images/I/41PgE7TcV+L._SL200_.jpg)](https://www.amazon.es/dp/B07PZT24Z4/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B07PZT24Z4/?tag=tolees-21)
 

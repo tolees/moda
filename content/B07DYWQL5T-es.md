@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 59.00 % en Columbia Pike Lake  Chaqueta forrada con'
 date: 2020-11-20 13:41:34
 thumbnailImage: 'https://m.media-amazon.com/images/I/41agXZzUWNL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41agXZzUWNL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41agXZzUWNL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 149.99 EUR
 inStock: true
 prodname: 'Columbia Pike Lake  Chaqueta forrada con capucha  Hombre  Verde  Olive Green   Talla M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DYWQL5T/?tag=tolees-21'
+descuento: '59.00'
+titulo: 'Columbia Pike Lake  Chaqueta forrada con'
 ---
 
 Tienes [Columbia Pike Lake  Chaqueta forrada con capucha  Hombre  Verde  Olive Green   Talla M](https://www.amazon.es/dp/B07DYWQL5T/?tag=tolees-21) con un 59.00 % de descuento con precio de oferta de 61.49 EUR (original: 149.99 EUR) en el siguiente enlace!
 
 [![Columbia Pike Lake  Chaqueta forrada con](https://m.media-amazon.com/images/I/41agXZzUWNL._SL200_.jpg)](https://www.amazon.es/dp/B07DYWQL5T/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07DYWQL5T/?tag=tolees-21)
 

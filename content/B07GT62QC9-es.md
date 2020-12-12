@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 25.22 % en Napapijri Skidoo WOM EF 2 Chaqueta  Negr'
 date: 2020-12-09 16:51:12
 thumbnailImage: 'https://m.media-amazon.com/images/I/4138jukK1GL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/4138jukK1GL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/4138jukK1GL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 247.35 EUR
 inStock: true
 prodname: 'Napapijri Skidoo WOM EF 2 Chaqueta  Negro  Black 041   M para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GT62QC9/?tag=tolees-21'
+descuento: '25.22'
+titulo: 'Napapijri Skidoo WOM EF 2 Chaqueta  Negr'
 ---
 
 Tienes [Napapijri Skidoo WOM EF 2 Chaqueta  Negro  Black 041   M para Mujer](https://www.amazon.es/dp/B07GT62QC9/?tag=tolees-21) con un 25.22 % de descuento con precio de oferta de 184.98 EUR (original: 247.35 EUR) en el siguiente enlace!
 
 [![Napapijri Skidoo WOM EF 2 Chaqueta  Negr](https://m.media-amazon.com/images/I/4138jukK1GL._SL200_.jpg)](https://www.amazon.es/dp/B07GT62QC9/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07GT62QC9/?tag=tolees-21)
 

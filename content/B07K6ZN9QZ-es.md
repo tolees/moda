@@ -3,6 +3,7 @@ layout: post
 title: 'Columbia Puffect Chaqueta para Mujer  Ne al 58.85 % de descuento'
 date: 2020-11-20 17:41:18
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Sm4SFGSUL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Sm4SFGSUL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Sm4SFGSUL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 129.99 EUR
 inStock: true
 prodname: 'Columbia Puffect Chaqueta para Mujer  Negro  XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K6ZN9QZ/?tag=tolees-21'
+descuento: '58.85'
+titulo: 'Columbia Puffect Chaqueta para Mujer  Ne'
 ---
 
 Está [Columbia Puffect Chaqueta para Mujer  Negro  XL](https://www.amazon.es/dp/B07K6ZN9QZ/?tag=tolees-21) con 58.85 de descuento por 53.49 EUR (original: 129.99 EUR) en el siguiente enlace!
 
 [![Columbia Puffect Chaqueta para Mujer  Ne](https://m.media-amazon.com/images/I/41Sm4SFGSUL._SL200_.jpg)](https://www.amazon.es/dp/B07K6ZN9QZ/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07K6ZN9QZ/?tag=tolees-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'Marca Amazon - MERAKI Jersey de Merino H al 30.03 % de descuento'
 date: 2020-10-13 19:19:22
 thumbnailImage: 'https://m.media-amazon.com/images/I/41MXVvaHCwL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41MXVvaHCwL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41MXVvaHCwL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 31.9 EUR
 inStock: true
 prodname: 'Marca Amazon - MERAKI Jersey de Merino Hombre Cuello Redondo  Gris  Grey Marl   XL  Label: XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B074WHM57P/?tag=tolees-21'
+descuento: '30.03'
+titulo: 'Marca Amazon - MERAKI Jersey de Merino H'
 ---
 
 Ahora mismo tienes [Marca Amazon - MERAKI Jersey de Merino Hombre Cuello Redondo  Gris  Grey Marl   XL  Label: XL](https://www.amazon.es/dp/B074WHM57P/?tag=tolees-21) a 22.32 EUR (original: 31.9 EUR) (30.03 %  de descuento) en el siguiente enlace!
 
 [![Marca Amazon - MERAKI Jersey de Merino H](https://m.media-amazon.com/images/I/41MXVvaHCwL._SL200_.jpg)](https://www.amazon.es/dp/B074WHM57P/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B074WHM57P/?tag=tolees-21)
 

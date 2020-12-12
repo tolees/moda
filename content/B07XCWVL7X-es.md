@@ -3,6 +3,7 @@ layout: post
 title: 'PUMA Metal Splash Deep V tee Camiseta  M al 54.88 % de descuento'
 date: 2020-12-04 09:25:52
 thumbnailImage: 'https://m.media-amazon.com/images/I/41bJDxD7llL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41bJDxD7llL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41bJDxD7llL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 34.95 EUR
 inStock: true
 prodname: 'PUMA Metal Splash Deep V tee Camiseta  Mujer  White  L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07XCWVL7X/?tag=tolees-21'
+descuento: '54.88'
+titulo: 'PUMA Metal Splash Deep V tee Camiseta  M'
 ---
 
 Ahora mismo tienes [PUMA Metal Splash Deep V tee Camiseta  Mujer  White  L](https://www.amazon.es/dp/B07XCWVL7X/?tag=tolees-21) a 15.77 EUR (original: 34.95 EUR) (54.88 %  de descuento) en el siguiente enlace!
 
 [![PUMA Metal Splash Deep V tee Camiseta  M](https://m.media-amazon.com/images/I/41bJDxD7llL._SL200_.jpg)](https://www.amazon.es/dp/B07XCWVL7X/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B07XCWVL7X/?tag=tolees-21)
 

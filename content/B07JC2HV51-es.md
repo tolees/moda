@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.80 % en Columbia Powder Lite  Chaqueta con capuc'
 date: 2020-12-01 14:27:30
 thumbnailImage: 'https://m.media-amazon.com/images/I/41EcQATzOVL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41EcQATzOVL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41EcQATzOVL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 129.99 EUR
 inStock: true
 prodname: 'Columbia Powder Lite  Chaqueta con capucha  Mujer  Negro  Black  Talla XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JC2HV51/?tag=tolees-21'
+descuento: '30.80'
+titulo: 'Columbia Powder Lite  Chaqueta con capuc'
 ---
 
 Tienes [Columbia Powder Lite  Chaqueta con capucha  Mujer  Negro  Black  Talla XL](https://www.amazon.es/dp/B07JC2HV51/?tag=tolees-21) con un 30.80 % de descuento con precio de oferta de 89.95 EUR (original: 129.99 EUR) en el siguiente enlace!
 
 [![Columbia Powder Lite  Chaqueta con capuc](https://m.media-amazon.com/images/I/41EcQATzOVL._SL200_.jpg)](https://www.amazon.es/dp/B07JC2HV51/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07JC2HV51/?tag=tolees-21)
 

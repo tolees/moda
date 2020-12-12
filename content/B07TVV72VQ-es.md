@@ -3,6 +3,7 @@ layout: post
 title: 'Lee Elly Vaqueros  Negro  Black Rinse 47 al 82.42 % de descuento'
 date: 2020-10-26 06:53:43
 thumbnailImage: 'https://m.media-amazon.com/images/I/313cgO-T6JL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/313cgO-T6JL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/313cgO-T6JL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 89.95 EUR
 inStock: true
 prodname: 'Lee Elly Vaqueros  Negro  Black Rinse 47   W30/L33 para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07TVV72VQ/?tag=tolees-21'
+descuento: '82.42'
+titulo: 'Lee Elly Vaqueros  Negro  Black Rinse 47'
 ---
 
 Está [Lee Elly Vaqueros  Negro  Black Rinse 47   W30/L33 para Mujer](https://www.amazon.es/dp/B07TVV72VQ/?tag=tolees-21) con 82.42 de descuento por 15.81 EUR (original: 89.95 EUR) en el siguiente enlace!
 
 [![Lee Elly Vaqueros  Negro  Black Rinse 47](https://m.media-amazon.com/images/I/313cgO-T6JL._SL200_.jpg)](https://www.amazon.es/dp/B07TVV72VQ/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07TVV72VQ/?tag=tolees-21)
 

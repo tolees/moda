@@ -3,6 +3,7 @@ layout: post
 title: 'Lacoste CH4976 Camisa  Azul  Hemisphere  al 35.01 % de descuento'
 date: 2020-10-16 14:11:40
 thumbnailImage: 'https://m.media-amazon.com/images/I/31wQh92pnLL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31wQh92pnLL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31wQh92pnLL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 100.0 EUR
 inStock: true
 prodname: 'Lacoste CH4976 Camisa  Azul  Hemisphere   Large  Talla del Fabricante: 41  para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07952GHYR/?tag=tolees-21'
+descuento: '35.01'
+titulo: 'Lacoste CH4976 Camisa  Azul  Hemisphere '
 ---
 
 Ahora mismo tienes [Lacoste CH4976 Camisa  Azul  Hemisphere   Large  Talla del Fabricante: 41  para Hombre](https://www.amazon.es/dp/B07952GHYR/?tag=tolees-21) a 64.99 EUR (original: 100.0 EUR) (35.01 %  de descuento) en el siguiente enlace!
 
 [![Lacoste CH4976 Camisa  Azul  Hemisphere ](https://m.media-amazon.com/images/I/31wQh92pnLL._SL200_.jpg)](https://www.amazon.es/dp/B07952GHYR/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B07952GHYR/?tag=tolees-21)
 

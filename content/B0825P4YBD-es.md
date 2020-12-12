@@ -3,6 +3,7 @@ layout: post
 title: 'Geox D LEELU  G  Zapatillas Mujer  Blanc al 52.59 % de descuento'
 date: 2020-12-02 09:58:31
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Y1hG+CjUL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Y1hG+CjUL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Y1hG+CjUL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 119.9 EUR
 inStock: true
 prodname: 'Geox D LEELU  G  Zapatillas Mujer  Blanco  39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0825P4YBD/?tag=tolees-21'
+descuento: '52.59'
+titulo: 'Geox D LEELU  G  Zapatillas Mujer  Blanc'
 ---
 
 Está [Geox D LEELU  G  Zapatillas Mujer  Blanco  39 EU](https://www.amazon.es/dp/B0825P4YBD/?tag=tolees-21) con 52.59 de descuento por 56.84 EUR (original: 119.9 EUR) en el siguiente enlace!
 
 [![Geox D LEELU  G  Zapatillas Mujer  Blanc](https://m.media-amazon.com/images/I/41Y1hG+CjUL._SL200_.jpg)](https://www.amazon.es/dp/B0825P4YBD/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B0825P4YBD/?tag=tolees-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'PUMA Liga LS Jersey  Hombre  Azul  Peaco al 47.06 % de descuento'
 date: 2020-10-27 17:59:06
 thumbnailImage: 'https://m.media-amazon.com/images/I/41K2mqKLVrL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41K2mqKLVrL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41K2mqKLVrL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 22.95 EUR
 inStock: true
 prodname: 'PUMA Liga LS Jersey  Hombre  Azul  Peacoat/Team Power Blue   S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077SHQVV3/?tag=tolees-21'
+descuento: '47.06'
+titulo: 'PUMA Liga LS Jersey  Hombre  Azul  Peaco'
 ---
 
 Ahora mismo tienes [PUMA Liga LS Jersey  Hombre  Azul  Peacoat/Team Power Blue   S](https://www.amazon.es/dp/B077SHQVV3/?tag=tolees-21) a 12.15 EUR (original: 22.95 EUR) (47.06 %  de descuento) en el siguiente enlace!
 
 [![PUMA Liga LS Jersey  Hombre  Azul  Peaco](https://m.media-amazon.com/images/I/41K2mqKLVrL._SL200_.jpg)](https://www.amazon.es/dp/B077SHQVV3/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B077SHQVV3/?tag=tolees-21)
 

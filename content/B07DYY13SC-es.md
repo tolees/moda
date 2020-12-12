@@ -3,6 +3,7 @@ layout: post
 title: 'Columbia Element Blocker II Interchange  al 58.89 % de descuento'
 date: 2020-11-21 21:35:18
 thumbnailImage: 'https://m.media-amazon.com/images/I/41GFZAzpGRL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41GFZAzpGRL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41GFZAzpGRL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 179.99 EUR
 inStock: true
 prodname: 'Columbia Element Blocker II Interchange 3 en 1 Chaqueta  Hombre  Negro  XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DYY13SC/?tag=tolees-21'
+descuento: '58.89'
+titulo: 'Columbia Element Blocker II Interchange '
 ---
 
 Ahora mismo tienes [Columbia Element Blocker II Interchange 3 en 1 Chaqueta  Hombre  Negro  XL](https://www.amazon.es/dp/B07DYY13SC/?tag=tolees-21) a 73.99 EUR (original: 179.99 EUR) (58.89 %  de descuento) en el siguiente enlace!
 
 [![Columbia Element Blocker II Interchange ](https://m.media-amazon.com/images/I/41GFZAzpGRL._SL200_.jpg)](https://www.amazon.es/dp/B07DYY13SC/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B07DYY13SC/?tag=tolees-21)
 

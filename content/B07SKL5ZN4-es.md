@@ -3,6 +3,7 @@ layout: post
 title: 'Burton Brtn Camiseta  Hombre  True Black al 58.69 % de descuento'
 date: 2020-11-09 10:08:33
 thumbnailImage: 'https://m.media-amazon.com/images/I/31L+E5FR6sL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31L+E5FR6sL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31L+E5FR6sL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 35.0 EUR
 inStock: true
 prodname: 'Burton Brtn Camiseta  Hombre  True Black  M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07SKL5ZN4/?tag=tolees-21'
+descuento: '58.69'
+titulo: 'Burton Brtn Camiseta  Hombre  True Black'
 ---
 
 Está [Burton Brtn Camiseta  Hombre  True Black  M](https://www.amazon.es/dp/B07SKL5ZN4/?tag=tolees-21) con 58.69 de descuento por 14.46 EUR (original: 35.0 EUR) en el siguiente enlace!
 
 [![Burton Brtn Camiseta  Hombre  True Black](https://m.media-amazon.com/images/I/31L+E5FR6sL._SL200_.jpg)](https://www.amazon.es/dp/B07SKL5ZN4/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07SKL5ZN4/?tag=tolees-21)
 

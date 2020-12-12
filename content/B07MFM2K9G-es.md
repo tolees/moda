@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 60.04 % en Clarks Grandin Plain  Zapatos de Cordone'
 date: 2020-11-23 13:28:47
 thumbnailImage: 'https://m.media-amazon.com/images/I/31IJm025cVL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31IJm025cVL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31IJm025cVL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 79.95 EUR
 inStock: true
 prodname: 'Clarks Grandin Plain  Zapatos de Cordones Derby Hombre  Piel marrón  44 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MFM2K9G/?tag=tolees-21'
+descuento: '60.04'
+titulo: 'Clarks Grandin Plain  Zapatos de Cordone'
 ---
 
 Tienes [Clarks Grandin Plain  Zapatos de Cordones Derby Hombre  Piel marrón  44 EU](https://www.amazon.es/dp/B07MFM2K9G/?tag=tolees-21) con un 60.04 % de descuento con precio de oferta de 31.95 EUR (original: 79.95 EUR) en el siguiente enlace!
 
 [![Clarks Grandin Plain  Zapatos de Cordone](https://m.media-amazon.com/images/I/31IJm025cVL._SL200_.jpg)](https://www.amazon.es/dp/B07MFM2K9G/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07MFM2K9G/?tag=tolees-21)
 

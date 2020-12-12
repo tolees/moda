@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 56.68 % en Helly Hansen HH Logo Crew Sudadera  Homb'
 date: 2020-11-21 22:38:42
 thumbnailImage: 'https://m.media-amazon.com/images/I/41ni0CcqKpL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ni0CcqKpL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41ni0CcqKpL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 60.0 EUR
 inStock: true
 prodname: 'Helly Hansen HH Logo Crew Sudadera  Hombre  Azul Navy  XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0789BRLXK/?tag=tolees-21'
+descuento: '56.68'
+titulo: 'Helly Hansen HH Logo Crew Sudadera  Homb'
 ---
 
 Tienes [Helly Hansen HH Logo Crew Sudadera  Hombre  Azul Navy  XL](https://www.amazon.es/dp/B0789BRLXK/?tag=tolees-21) con un 56.68 % de descuento con precio de oferta de 25.99 EUR (original: 60.0 EUR) en el siguiente enlace!
 
 [![Helly Hansen HH Logo Crew Sudadera  Homb](https://m.media-amazon.com/images/I/41ni0CcqKpL._SL200_.jpg)](https://www.amazon.es/dp/B0789BRLXK/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B0789BRLXK/?tag=tolees-21)
 

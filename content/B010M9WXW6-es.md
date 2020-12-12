@@ -3,6 +3,7 @@ layout: post
 title: 'Timberland Euro Sprint Hiker  Botas Homb al 30.00 % de descuento'
 date: 2020-11-20 08:56:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/41R6czvZd5L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41R6czvZd5L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41R6czvZd5L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 95.99 EUR
 inStock: true
 prodname: 'Timberland Euro Sprint Hiker  Botas Hombre  Amarillo Wheat  43 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B010M9WXW6/?tag=tolees-21'
+descuento: '30.00'
+titulo: 'Timberland Euro Sprint Hiker  Botas Homb'
 ---
 
 Está [Timberland Euro Sprint Hiker  Botas Hombre  Amarillo Wheat  43 EU](https://www.amazon.es/dp/B010M9WXW6/?tag=tolees-21) con 30.00 de descuento por 67.19 EUR (original: 95.99 EUR) en el siguiente enlace!
 
 [![Timberland Euro Sprint Hiker  Botas Homb](https://m.media-amazon.com/images/I/41R6czvZd5L._SL200_.jpg)](https://www.amazon.es/dp/B010M9WXW6/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B010M9WXW6/?tag=tolees-21)
 

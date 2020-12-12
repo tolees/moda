@@ -3,6 +3,7 @@ layout: post
 title: 'CLUB CUBANA Camisa Hawaiana Florar Casua al 42.02 % de descuento'
 date: 2020-11-21 18:30:35
 thumbnailImage: 'https://m.media-amazon.com/images/I/51hdZUccshL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51hdZUccshL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51hdZUccshL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 24.99 EUR
 inStock: true
 prodname: 'CLUB CUBANA Camisa Hawaiana Florar Casual Manga Corta Ajuste Regular para Hombre S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07H5FLTL7/?tag=tolees-21'
+descuento: '42.02'
+titulo: 'CLUB CUBANA Camisa Hawaiana Florar Casua'
 ---
 
 Está [CLUB CUBANA Camisa Hawaiana Florar Casual Manga Corta Ajuste Regular para Hombre S](https://www.amazon.es/dp/B07H5FLTL7/?tag=tolees-21) con 42.02 de descuento por 14.49 EUR (original: 24.99 EUR) en el siguiente enlace!
 
 [![CLUB CUBANA Camisa Hawaiana Florar Casua](https://m.media-amazon.com/images/I/51hdZUccshL._SL200_.jpg)](https://www.amazon.es/dp/B07H5FLTL7/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07H5FLTL7/?tag=tolees-21)
 

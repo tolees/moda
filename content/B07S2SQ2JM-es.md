@@ -3,6 +3,7 @@ layout: post
 title: 'Levi s 511 Slim Fit Vaqueros  Biologia A al 34.78 % de descuento'
 date: 2020-10-23 22:36:05
 thumbnailImage: 'https://m.media-amazon.com/images/I/41dp9oOflML._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41dp9oOflML._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41dp9oOflML._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 115.0 EUR
 inStock: true
 prodname: 'Levi s 511 Slim Fit Vaqueros  Biologia Adv 4102  26W / 30L para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07S2SQ2JM/?tag=tolees-21'
+descuento: '34.78'
+titulo: 'Levi s 511 Slim Fit Vaqueros  Biologia A'
 ---
 
 Ahora mismo tienes [Levi s 511 Slim Fit Vaqueros  Biologia Adv 4102  26W / 30L para Hombre](https://www.amazon.es/dp/B07S2SQ2JM/?tag=tolees-21) a 75.0 EUR (original: 115.0 EUR) (34.78 %  de descuento) en el siguiente enlace!
 
 [![Levi s 511 Slim Fit Vaqueros  Biologia A](https://m.media-amazon.com/images/I/41dp9oOflML._SL200_.jpg)](https://www.amazon.es/dp/B07S2SQ2JM/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B07S2SQ2JM/?tag=tolees-21)
 

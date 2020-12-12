@@ -3,6 +3,7 @@ layout: post
 title: 'Napapijri Acalmar W Vest 2 Chaqueta  Ros al 68.56 % de descuento'
 date: 2020-11-29 12:44:49
 thumbnailImage: 'https://m.media-amazon.com/images/I/41CSF2lo8ML._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41CSF2lo8ML._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41CSF2lo8ML._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 149.0 EUR
 inStock: true
 prodname: 'Napapijri Acalmar W Vest 2 Chaqueta  Rosa  Petal Pink P841   X-Small para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07VGKSCH1/?tag=tolees-21'
+descuento: '68.56'
+titulo: 'Napapijri Acalmar W Vest 2 Chaqueta  Ros'
 ---
 
 Ahora mismo tienes [Napapijri Acalmar W Vest 2 Chaqueta  Rosa  Petal Pink P841   X-Small para Mujer](https://www.amazon.es/dp/B07VGKSCH1/?tag=tolees-21) a 46.84 EUR (original: 149.0 EUR) (68.56 %  de descuento) en el siguiente enlace!
 
 [![Napapijri Acalmar W Vest 2 Chaqueta  Ros](https://m.media-amazon.com/images/I/41CSF2lo8ML._SL200_.jpg)](https://www.amazon.es/dp/B07VGKSCH1/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B07VGKSCH1/?tag=tolees-21)
 

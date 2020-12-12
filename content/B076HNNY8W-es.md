@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.53 % en adidas CORE18 tee Camiseta de Manga Cort'
 date: 2020-12-11 06:13:54
 thumbnailImage: 'https://m.media-amazon.com/images/I/31RTeT4obyL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31RTeT4obyL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31RTeT4obyL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 19.95 EUR
 inStock: true
 prodname: 'adidas CORE18 tee Camiseta de Manga Corta  Hombre  Dark Blue/White  XS'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076HNNY8W/?tag=tolees-21'
+descuento: '30.53'
+titulo: 'adidas CORE18 tee Camiseta de Manga Cort'
 ---
 
 Tienes [adidas CORE18 tee Camiseta de Manga Corta  Hombre  Dark Blue/White  XS](https://www.amazon.es/dp/B076HNNY8W/?tag=tolees-21) con un 30.53 % de descuento con precio de oferta de 13.86 EUR (original: 19.95 EUR) en el siguiente enlace!
@@ -24,9 +28,9 @@ Tienes [adidas CORE18 tee Camiseta de Manga Corta  Hombre  Dark Blue/White  XS](
 
 Características principales:
 
-- Adidas logo on the front
 - Climalite anti-humidity fabric
 - Regular fit
+- Adidas logo on the front
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B076HNNY8W/?tag=tolees-21)
 

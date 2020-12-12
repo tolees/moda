@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 52.53 % en G-STAR RAW Lynn Mid Waist Super Skinny V'
 date: 2020-11-17 19:13:20
 thumbnailImage: 'https://m.media-amazon.com/images/I/31IkmbNAcKL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31IkmbNAcKL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31IkmbNAcKL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'G-STAR RAW Lynn Mid Waist Super Skinny Vaqueros  Azul  Worn In Naval 9136-A962   W32/L36  Talla del Fabricante: 32W/ 36L  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07RJ5Y63M/?tag=tolees-21'
+descuento: '52.53'
+titulo: 'G-STAR RAW Lynn Mid Waist Super Skinny V'
 ---
 
 Tienes [G-STAR RAW Lynn Mid Waist Super Skinny Vaqueros  Azul  Worn In Naval 9136-A962   W32/L36  Talla del Fabricante: 32W/ 36L  para Mujer](https://www.amazon.es/dp/B07RJ5Y63M/?tag=tolees-21) con un 52.53 % de descuento con precio de oferta de 47.45 EUR (original: 99.95 EUR) en el siguiente enlace!
 
 [![G-STAR RAW Lynn Mid Waist Super Skinny V](https://m.media-amazon.com/images/I/31IkmbNAcKL._SL200_.jpg)](https://www.amazon.es/dp/B07RJ5Y63M/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07RJ5Y63M/?tag=tolees-21)
 

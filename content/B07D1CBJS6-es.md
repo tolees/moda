@@ -3,6 +3,7 @@ layout: post
 title: 'Marca Amazon - find. Sudadera Súper Suav al 34.96 % de descuento'
 date: 2020-12-11 01:08:33
 thumbnailImage: 'https://m.media-amazon.com/images/I/31ZHuJCw7yL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31ZHuJCw7yL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31ZHuJCw7yL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 6.75 EUR
 inStock: true
 prodname: 'Marca Amazon - find. Sudadera Súper Suave Mujer  Rosa  Pink   44  Label: XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D1CBJS6/?tag=tolees-21'
+descuento: '34.96'
+titulo: 'Marca Amazon - find. Sudadera Súper Suav'
 ---
 
 Ahora mismo tienes [Marca Amazon - find. Sudadera Súper Suave Mujer  Rosa  Pink   44  Label: XL](https://www.amazon.es/dp/B07D1CBJS6/?tag=tolees-21) a 4.39 EUR (original: 6.75 EUR) (34.96 %  de descuento) en el siguiente enlace!

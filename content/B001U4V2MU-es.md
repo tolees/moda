@@ -3,6 +3,7 @@ layout: post
 title: 'adidas Originals Adilette  Chanclas Homb al 37.58 % de descuento'
 date: 2020-11-15 02:08:36
 thumbnailImage: 'https://m.media-amazon.com/images/I/41kK47dnmCL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41kK47dnmCL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41kK47dnmCL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 37.49 EUR
 inStock: true
 prodname: 'adidas Originals Adilette  Chanclas Hombre  Negro  Black/White/Black   40.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B001U4V2MU/?tag=tolees-21'
+descuento: '37.58'
+titulo: 'adidas Originals Adilette  Chanclas Homb'
 ---
 
 Está [adidas Originals Adilette  Chanclas Hombre  Negro  Black/White/Black   40.5 EU](https://www.amazon.es/dp/B001U4V2MU/?tag=tolees-21) con 37.58 de descuento por 23.4 EUR (original: 37.49 EUR) en el siguiente enlace!
 
 [![adidas Originals Adilette  Chanclas Homb](https://m.media-amazon.com/images/I/41kK47dnmCL._SL200_.jpg)](https://www.amazon.es/dp/B001U4V2MU/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B001U4V2MU/?tag=tolees-21)
 

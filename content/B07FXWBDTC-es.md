@@ -3,6 +3,7 @@ layout: post
 title: 'Marca Amazon - find. Puffer - Chaqueta H al 60.03 % de descuento'
 date: 2020-11-22 14:01:35
 thumbnailImage: 'https://m.media-amazon.com/images/I/412--Ly3GBL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/412--Ly3GBL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/412--Ly3GBL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 37.53 EUR
 inStock: true
 prodname: 'Marca Amazon - find. Puffer - Chaqueta Hombre  Azul  S  Label: S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FXWBDTC/?tag=tolees-21'
+descuento: '60.03'
+titulo: 'Marca Amazon - find. Puffer - Chaqueta H'
 ---
 
 Está [Marca Amazon - find. Puffer - Chaqueta Hombre  Azul  S  Label: S](https://www.amazon.es/dp/B07FXWBDTC/?tag=tolees-21) con 60.03 de descuento por 15.0 EUR (original: 37.53 EUR) en el siguiente enlace!
 
 [![Marca Amazon - find. Puffer - Chaqueta H](https://m.media-amazon.com/images/I/412--Ly3GBL._SL200_.jpg)](https://www.amazon.es/dp/B07FXWBDTC/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07FXWBDTC/?tag=tolees-21)
 

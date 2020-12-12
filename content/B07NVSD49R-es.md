@@ -3,6 +3,7 @@ layout: post
 title: 'G-STAR RAW Graphic Logo 4 Camiseta  Blan al 34.92 % de descuento'
 date: 2020-10-25 21:39:43
 thumbnailImage: 'https://m.media-amazon.com/images/I/31DLL37nTdL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31DLL37nTdL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31DLL37nTdL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 29.95 EUR
 inStock: true
 prodname: 'G-STAR RAW Graphic Logo 4 Camiseta  Blanco  X-Large  Talla del Fabricante:  para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07NVSD49R/?tag=tolees-21'
+descuento: '34.92'
+titulo: 'G-STAR RAW Graphic Logo 4 Camiseta  Blan'
 ---
 
 Ahora mismo tienes [G-STAR RAW Graphic Logo 4 Camiseta  Blanco  X-Large  Talla del Fabricante:  para Hombre](https://www.amazon.es/dp/B07NVSD49R/?tag=tolees-21) a 19.49 EUR (original: 29.95 EUR) (34.92 %  de descuento) en el siguiente enlace!
 
 [![G-STAR RAW Graphic Logo 4 Camiseta  Blan](https://m.media-amazon.com/images/I/31DLL37nTdL._SL200_.jpg)](https://www.amazon.es/dp/B07NVSD49R/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B07NVSD49R/?tag=tolees-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 64.37 % en Under Armour Tech Pantalón  Hombre  Azul'
 date: 2020-10-27 08:51:58
 thumbnailImage: 'https://m.media-amazon.com/images/I/31UYCMnXpHL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31UYCMnXpHL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31UYCMnXpHL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 65.0 EUR
 inStock: true
 prodname: 'Under Armour Tech Pantalón  Hombre  Azul  3832'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0814S2YFK/?tag=tolees-21'
+descuento: '64.37'
+titulo: 'Under Armour Tech Pantalón  Hombre  Azul'
 ---
 
 Tienes [Under Armour Tech Pantalón  Hombre  Azul  3832](https://www.amazon.es/dp/B0814S2YFK/?tag=tolees-21) con un 64.37 % de descuento con precio de oferta de 23.16 EUR (original: 65.0 EUR) en el siguiente enlace!
 
 [![Under Armour Tech Pantalón  Hombre  Azul](https://m.media-amazon.com/images/I/31UYCMnXpHL._SL200_.jpg)](https://www.amazon.es/dp/B0814S2YFK/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B0814S2YFK/?tag=tolees-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'Jack & Jones Jones - Camiseta de manga c al 46.02 % de descuento'
 date: 2020-11-03 10:09:22
 thumbnailImage: 'https://m.media-amazon.com/images/I/41XM2kj8irL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41XM2kj8irL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41XM2kj8irL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 12.95 EUR
 inStock: true
 prodname: 'Jack & Jones Jones - Camiseta de manga corta con cuello pico para hombre  Grau  LIGHT GREY MELANGE JJ LIGHT GREY MELANGE   54'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0085SFZ9K/?tag=tolees-21'
+descuento: '46.02'
+titulo: 'Jack & Jones Jones - Camiseta de manga c'
 ---
 
 Está [Jack & Jones Jones - Camiseta de manga corta con cuello pico para hombre  Grau  LIGHT GREY MELANGE JJ LIGHT GREY MELANGE   54](https://www.amazon.es/dp/B0085SFZ9K/?tag=tolees-21) con 46.02 de descuento por 6.99 EUR (original: 12.95 EUR) en el siguiente enlace!
 
 [![Jack & Jones Jones - Camiseta de manga c](https://m.media-amazon.com/images/I/41XM2kj8irL._SL200_.jpg)](https://www.amazon.es/dp/B0085SFZ9K/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B0085SFZ9K/?tag=tolees-21)
 

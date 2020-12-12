@@ -3,6 +3,7 @@ layout: post
 title: 'Tommy Hilfiger Logo T-Shirt Camiseta Inf al 29.95 % de descuento'
 date: 2020-12-05 07:35:35
 thumbnailImage: 'https://m.media-amazon.com/images/I/41hOZf2ggsL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41hOZf2ggsL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41hOZf2ggsL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 39.9 EUR
 inStock: true
 prodname: 'Tommy Hilfiger Logo T-Shirt Camiseta Informal  Gris  Cloud Htr 501   Large para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JYFQZRY/?tag=tolees-21'
+descuento: '29.95'
+titulo: 'Tommy Hilfiger Logo T-Shirt Camiseta Inf'
 ---
 
 Está [Tommy Hilfiger Logo T-Shirt Camiseta Informal  Gris  Cloud Htr 501   Large para Hombre](https://www.amazon.es/dp/B07JYFQZRY/?tag=tolees-21) con 29.95 de descuento por 27.95 EUR (original: 39.9 EUR) en el siguiente enlace!
 
 [![Tommy Hilfiger Logo T-Shirt Camiseta Inf](https://m.media-amazon.com/images/I/41hOZf2ggsL._SL200_.jpg)](https://www.amazon.es/dp/B07JYFQZRY/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07JYFQZRY/?tag=tolees-21)
 

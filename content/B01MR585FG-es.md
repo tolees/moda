@@ -3,6 +3,7 @@ layout: post
 title: 'Vans - Drop Bifold - Monedero - Dark Bro al 35.88 % de descuento'
 date: 2020-11-08 17:37:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/514zO0ht1YL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/514zO0ht1YL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/514zO0ht1YL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 33.0 EUR
 inStock: true
 prodname: 'Vans - Drop Bifold - Monedero - Dark Brown'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MR585FG/?tag=tolees-21'
+descuento: '35.88'
+titulo: 'Vans - Drop Bifold - Monedero - Dark Bro'
 ---
 
 Está [Vans - Drop Bifold - Monedero - Dark Brown](https://www.amazon.es/dp/B01MR585FG/?tag=tolees-21) con 35.88 de descuento por 21.16 EUR (original: 33.0 EUR) en el siguiente enlace!
 
 [![Vans - Drop Bifold - Monedero - Dark Bro](https://m.media-amazon.com/images/I/514zO0ht1YL._SL200_.jpg)](https://www.amazon.es/dp/B01MR585FG/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01MR585FG/?tag=tolees-21)
 

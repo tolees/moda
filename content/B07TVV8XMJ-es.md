@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 82.03 % en Lee Elly Vaqueros  Azul  Washed Camden J'
 date: 2020-11-20 09:25:40
 thumbnailImage: 'https://m.media-amazon.com/images/I/418PwhqDzQL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/418PwhqDzQL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/418PwhqDzQL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'Lee Elly Vaqueros  Azul  Washed Camden JS   W25/L31 para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07TVV8XMJ/?tag=tolees-21'
+descuento: '82.03'
+titulo: 'Lee Elly Vaqueros  Azul  Washed Camden J'
 ---
 
 Tienes [Lee Elly Vaqueros  Azul  Washed Camden JS   W25/L31 para Mujer](https://www.amazon.es/dp/B07TVV8XMJ/?tag=tolees-21) con un 82.03 % de descuento con precio de oferta de 17.96 EUR (original: 99.95 EUR) en el siguiente enlace!
 
 [![Lee Elly Vaqueros  Azul  Washed Camden J](https://m.media-amazon.com/images/I/418PwhqDzQL._SL200_.jpg)](https://www.amazon.es/dp/B07TVV8XMJ/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07TVV8XMJ/?tag=tolees-21)
 

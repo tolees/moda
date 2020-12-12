@@ -3,6 +3,7 @@ layout: post
 title: 'Geox D Genova C  Bailarinas Mujer  Negro al 26.53 % de descuento'
 date: 2020-11-08 15:46:58
 thumbnailImage: 'https://m.media-amazon.com/images/I/31jnrZG3X4L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31jnrZG3X4L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31jnrZG3X4L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 19.98 EUR
 inStock: true
 prodname: 'Geox D Genova C  Bailarinas Mujer  Negro  Black C9999   38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07STV1LTV/?tag=tolees-21'
+descuento: '26.53'
+titulo: 'Geox D Genova C  Bailarinas Mujer  Negro'
 ---
 
 Ahora mismo tienes [Geox D Genova C  Bailarinas Mujer  Negro  Black C9999   38 EU](https://www.amazon.es/dp/B07STV1LTV/?tag=tolees-21) a 14.68 EUR (original: 19.98 EUR) (26.53 %  de descuento) en el siguiente enlace!
 
 [![Geox D Genova C  Bailarinas Mujer  Negro](https://m.media-amazon.com/images/I/31jnrZG3X4L._SL200_.jpg)](https://www.amazon.es/dp/B07STV1LTV/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B07STV1LTV/?tag=tolees-21)
 

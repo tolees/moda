@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 49.15 % en Marca Amazon - find. Chaqueta Estilo Gue'
 date: 2020-11-05 07:15:28
 thumbnailImage: 'https://m.media-amazon.com/images/I/410rX1IsvkL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/410rX1IsvkL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/410rX1IsvkL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 27.53 EUR
 inStock: true
 prodname: 'Marca Amazon - find. Chaqueta Estilo Guerrera para Mujer  Verde  Khaki   38  Label: S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MR5FJGM/?tag=tolees-21'
+descuento: '49.15'
+titulo: 'Marca Amazon - find. Chaqueta Estilo Gue'
 ---
 
 Tienes [Marca Amazon - find. Chaqueta Estilo Guerrera para Mujer  Verde  Khaki   38  Label: S](https://www.amazon.es/dp/B01MR5FJGM/?tag=tolees-21) con un 49.15 % de descuento con precio de oferta de 14.0 EUR (original: 27.53 EUR) en el siguiente enlace!
 
 [![Marca Amazon - find. Chaqueta Estilo Gue](https://m.media-amazon.com/images/I/410rX1IsvkL._SL200_.jpg)](https://www.amazon.es/dp/B01MR5FJGM/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01MR5FJGM/?tag=tolees-21)
 

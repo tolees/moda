@@ -3,6 +3,7 @@ layout: post
 title: 'Levi s Graphic Camiseta  Blanco  84 Spor al 30.20 % de descuento'
 date: 2020-11-28 06:51:58
 thumbnailImage: 'https://m.media-amazon.com/images/I/41xr+7quJ0L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41xr+7quJ0L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41xr+7quJ0L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 25.0 EUR
 inStock: true
 prodname: 'Levi s Graphic Camiseta  Blanco  84 Sportswear Logo White 0000   XX-Small para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CXR85GZ/?tag=tolees-21'
+descuento: '30.20'
+titulo: 'Levi s Graphic Camiseta  Blanco  84 Spor'
 ---
 
 Ahora mismo tienes [Levi s Graphic Camiseta  Blanco  84 Sportswear Logo White 0000   XX-Small para Hombre](https://www.amazon.es/dp/B07CXR85GZ/?tag=tolees-21) a 17.45 EUR (original: 25.0 EUR) (30.20 %  de descuento) en el siguiente enlace!
 
 [![Levi s Graphic Camiseta  Blanco  84 Spor](https://m.media-amazon.com/images/I/41xr+7quJ0L._SL200_.jpg)](https://www.amazon.es/dp/B07CXR85GZ/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B07CXR85GZ/?tag=tolees-21)
 

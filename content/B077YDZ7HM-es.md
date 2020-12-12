@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 46.31 % en HIKARO Sudadera con Capucha Hombre  Gris'
 date: 2020-10-19 16:29:58
 thumbnailImage: 'https://m.media-amazon.com/images/I/41ra8abK-6L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ra8abK-6L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41ra8abK-6L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 32.95 EUR
 inStock: true
 prodname: 'HIKARO Sudadera con Capucha Hombre  Gris  Light Grey   50  Talla del fabricante: Medium '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077YDZ7HM/?tag=tolees-21'
+descuento: '46.31'
+titulo: 'HIKARO Sudadera con Capucha Hombre  Gris'
 ---
 
 Tienes [HIKARO Sudadera con Capucha Hombre  Gris  Light Grey   50  Talla del fabricante: Medium ](https://www.amazon.es/dp/B077YDZ7HM/?tag=tolees-21) con un 46.31 % de descuento con precio de oferta de 17.69 EUR (original: 32.95 EUR) en el siguiente enlace!
 
 [![HIKARO Sudadera con Capucha Hombre  Gris](https://m.media-amazon.com/images/I/41ra8abK-6L._SL200_.jpg)](https://www.amazon.es/dp/B077YDZ7HM/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B077YDZ7HM/?tag=tolees-21)
 

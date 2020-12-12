@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 78.47 % en LIGE Relojes para Hombre Impermeable Ace'
 date: 2020-11-07 19:23:17
 thumbnailImage: 'https://m.media-amazon.com/images/I/51xNBta1ITL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51xNBta1ITL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51xNBta1ITL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 129.99 EUR
 inStock: true
 prodname: 'LIGE Relojes para Hombre Impermeable Acero Inoxidable Cuarzo Analógico Reloj Hombres Simple Vestido Negocios Negro Reloj de Pulsera'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07XBT347J/?tag=tolees-21'
+descuento: '78.47'
+titulo: 'LIGE Relojes para Hombre Impermeable Ace'
 ---
 
 Tienes [LIGE Relojes para Hombre Impermeable Acero Inoxidable Cuarzo Analógico Reloj Hombres Simple Vestido Negocios Negro Reloj de Pulsera](https://www.amazon.es/dp/B07XBT347J/?tag=tolees-21) con un 78.47 % de descuento con precio de oferta de 27.99 EUR (original: 129.99 EUR) en el siguiente enlace!
 
 [![LIGE Relojes para Hombre Impermeable Ace](https://m.media-amazon.com/images/I/51xNBta1ITL._SL200_.jpg)](https://www.amazon.es/dp/B07XBT347J/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07XBT347J/?tag=tolees-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'Spiuk Rocca MTB Zapatilla  Unisex Adulto al 34.93 % de descuento'
 date: 2020-11-21 08:16:58
 thumbnailImage: 'https://m.media-amazon.com/images/I/41CKz+kLIUL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41CKz+kLIUL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41CKz+kLIUL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 79.9 EUR
 inStock: true
 prodname: 'Spiuk Rocca MTB Zapatilla  Unisex Adulto  Amarillo AV  41'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07798FWLR/?tag=tolees-21'
+descuento: '34.93'
+titulo: 'Spiuk Rocca MTB Zapatilla  Unisex Adulto'
 ---
 
 Está [Spiuk Rocca MTB Zapatilla  Unisex Adulto  Amarillo AV  41](https://www.amazon.es/dp/B07798FWLR/?tag=tolees-21) con 34.93 de descuento por 51.99 EUR (original: 79.9 EUR) en el siguiente enlace!
 
 [![Spiuk Rocca MTB Zapatilla  Unisex Adulto](https://m.media-amazon.com/images/I/41CKz+kLIUL._SL200_.jpg)](https://www.amazon.es/dp/B07798FWLR/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07798FWLR/?tag=tolees-21)
 

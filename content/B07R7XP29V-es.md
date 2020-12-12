@@ -3,6 +3,7 @@ layout: post
 title: 'Columbia Element Blocker II Chaqueta Int al 36.75 % de descuento'
 date: 2020-11-20 18:55:52
 thumbnailImage: 'https://m.media-amazon.com/images/I/31kBjbKf90L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31kBjbKf90L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31kBjbKf90L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 116.98 EUR
 inStock: true
 prodname: 'Columbia Element Blocker II Chaqueta Interchange  Hombre  Verde  Olive Green   M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07R7XP29V/?tag=tolees-21'
+descuento: '36.75'
+titulo: 'Columbia Element Blocker II Chaqueta Int'
 ---
 
 Está [Columbia Element Blocker II Chaqueta Interchange  Hombre  Verde  Olive Green   M](https://www.amazon.es/dp/B07R7XP29V/?tag=tolees-21) con 36.75 de descuento por 73.99 EUR (original: 116.98 EUR) en el siguiente enlace!
 
 [![Columbia Element Blocker II Chaqueta Int](https://m.media-amazon.com/images/I/31kBjbKf90L._SL200_.jpg)](https://www.amazon.es/dp/B07R7XP29V/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07R7XP29V/?tag=tolees-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 43.49 % en Wrangler Icons Chaqueta de mezclilla  Az'
 date: 2020-12-11 00:09:48
 thumbnailImage: 'https://m.media-amazon.com/images/I/41kULv3lyHL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41kULv3lyHL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41kULv3lyHL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'Wrangler Icons Chaqueta de mezclilla  Azul  6 MONTHS 923   Medium para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07W32YBP9/?tag=tolees-21'
+descuento: '43.49'
+titulo: 'Wrangler Icons Chaqueta de mezclilla  Az'
 ---
 
 Tienes [Wrangler Icons Chaqueta de mezclilla  Azul  6 MONTHS 923   Medium para Hombre](https://www.amazon.es/dp/B07W32YBP9/?tag=tolees-21) con un 43.49 % de descuento con precio de oferta de 56.48 EUR (original: 99.95 EUR) en el siguiente enlace!

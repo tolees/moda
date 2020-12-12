@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.05 % en Pepe Jeans Hatch Vaqueros Slim  Azul  Wi'
 date: 2020-10-31 19:07:13
 thumbnailImage: 'https://m.media-amazon.com/images/I/41x3f2hX-WL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41x3f2hX-WL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41x3f2hX-WL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 95.0 EUR
 inStock: true
 prodname: 'Pepe Jeans Hatch Vaqueros Slim  Azul  Wiser Wash Dark Used Denim 000   W38/L32 para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MZQ47Y9/?tag=tolees-21'
+descuento: '50.05'
+titulo: 'Pepe Jeans Hatch Vaqueros Slim  Azul  Wi'
 ---
 
 Tienes [Pepe Jeans Hatch Vaqueros Slim  Azul  Wiser Wash Dark Used Denim 000   W38/L32 para Hombre](https://www.amazon.es/dp/B07MZQ47Y9/?tag=tolees-21) con un 50.05 % de descuento con precio de oferta de 47.45 EUR (original: 95.0 EUR) en el siguiente enlace!
 
 [![Pepe Jeans Hatch Vaqueros Slim  Azul  Wi](https://m.media-amazon.com/images/I/41x3f2hX-WL._SL200_.jpg)](https://www.amazon.es/dp/B07MZQ47Y9/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07MZQ47Y9/?tag=tolees-21)
 

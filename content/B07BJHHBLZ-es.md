@@ -3,6 +3,7 @@ layout: post
 title: 'G-STAR RAW Midge Saddle Mid-Waist Straig al 65.23 % de descuento'
 date: 2020-12-10 21:57:20
 thumbnailImage: 'https://m.media-amazon.com/images/I/31+X4kPgCWL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31+X4kPgCWL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31+X4kPgCWL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'G-STAR RAW Midge Saddle Mid-Waist Straight Vaqueros  Azul  dk Aged 7209-89   26W / 36L para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BJHHBLZ/?tag=tolees-21'
+descuento: '65.23'
+titulo: 'G-STAR RAW Midge Saddle Mid-Waist Straig'
 ---
 
 Está [G-STAR RAW Midge Saddle Mid-Waist Straight Vaqueros  Azul  dk Aged 7209-89   26W / 36L para Mujer](https://www.amazon.es/dp/B07BJHHBLZ/?tag=tolees-21) con 65.23 de descuento por 34.75 EUR (original: 99.95 EUR) en el siguiente enlace!
@@ -24,11 +28,11 @@ Está [G-STAR RAW Midge Saddle Mid-Waist Straight Vaqueros  Azul  dk Aged 7209-8
 
 Principales características:
 
-- Lavar a máquina - caliente (mayor de 30 °)
+- Usado
 - Skinny
+- Lavar a máquina - caliente (mayor de 30 °)
 - Cierre: Boton y cierre
 - 35% Algodón, 35% Lyocell, 28% Poliéster, 2% Elastano
-- Usado
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07BJHHBLZ/?tag=tolees-21)
 

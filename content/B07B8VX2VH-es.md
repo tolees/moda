@@ -3,6 +3,7 @@ layout: post
 title: 'Clarks Un Aldric Walk  Zapatos de Cordon al 54.97 % de descuento'
 date: 2020-10-31 06:52:58
 thumbnailImage: 'https://m.media-amazon.com/images/I/41ke87iBnTL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ke87iBnTL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41ke87iBnTL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 110.0 EUR
 inStock: true
 prodname: 'Clarks Un Aldric Walk  Zapatos de Cordones Derby Hombre  Negro  Black Leather   48 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07B8VX2VH/?tag=tolees-21'
+descuento: '54.97'
+titulo: 'Clarks Un Aldric Walk  Zapatos de Cordon'
 ---
 
 Ahora mismo tienes [Clarks Un Aldric Walk  Zapatos de Cordones Derby Hombre  Negro  Black Leather   48 EU](https://www.amazon.es/dp/B07B8VX2VH/?tag=tolees-21) a 49.53 EUR (original: 110.0 EUR) (54.97 %  de descuento) en el siguiente enlace!
 
 [![Clarks Un Aldric Walk  Zapatos de Cordon](https://m.media-amazon.com/images/I/41ke87iBnTL._SL200_.jpg)](https://www.amazon.es/dp/B07B8VX2VH/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B07B8VX2VH/?tag=tolees-21)
 

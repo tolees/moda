@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 33.02 % en Marca Amazon - find. Impermeable Hombre '
 date: 2020-10-25 20:18:35
 thumbnailImage: 'https://m.media-amazon.com/images/I/31SN+79TRHL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31SN+79TRHL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31SN+79TRHL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 19.23 EUR
 inStock: true
 prodname: 'Marca Amazon - find. Impermeable Hombre  azul  marino   S  Label: S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07M7C4HXQ/?tag=tolees-21'
+descuento: '33.02'
+titulo: 'Marca Amazon - find. Impermeable Hombre '
 ---
 
 Tienes [Marca Amazon - find. Impermeable Hombre  azul  marino   S  Label: S](https://www.amazon.es/dp/B07M7C4HXQ/?tag=tolees-21) con un 33.02 % de descuento con precio de oferta de 12.88 EUR (original: 19.23 EUR) en el siguiente enlace!
 
 [![Marca Amazon - find. Impermeable Hombre ](https://m.media-amazon.com/images/I/31SN+79TRHL._SL200_.jpg)](https://www.amazon.es/dp/B07M7C4HXQ/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07M7C4HXQ/?tag=tolees-21)
 

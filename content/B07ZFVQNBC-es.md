@@ -3,6 +3,7 @@ layout: post
 title: 'TOMSHOO - Chaleco térmico de invierno co al 73.11 % de descuento'
 date: 2020-10-15 13:42:52
 thumbnailImage: 'https://m.media-amazon.com/images/I/41poIPC1sbL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41poIPC1sbL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41poIPC1sbL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 25.99 EUR
 inStock: true
 prodname: 'TOMSHOO - Chaleco térmico de invierno con calefacción por infrarrojos lejanos  calentado  cálido  para pesca  exploración de motos de nieve  chaqueta de motociclismo para mujeres y hombres  S-M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07ZFVQNBC/?tag=tolees-21'
+descuento: '73.11'
+titulo: 'TOMSHOO - Chaleco térmico de invierno co'
 ---
 
 Está [TOMSHOO - Chaleco térmico de invierno con calefacción por infrarrojos lejanos  calentado  cálido  para pesca  exploración de motos de nieve  chaqueta de motociclismo para mujeres y hombres  S-M](https://www.amazon.es/dp/B07ZFVQNBC/?tag=tolees-21) con 73.11 de descuento por 6.99 EUR (original: 25.99 EUR) en el siguiente enlace!
 
 [![TOMSHOO - Chaleco térmico de invierno co](https://m.media-amazon.com/images/I/41poIPC1sbL._SL200_.jpg)](https://www.amazon.es/dp/B07ZFVQNBC/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07ZFVQNBC/?tag=tolees-21)
 

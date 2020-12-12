@@ -3,6 +3,7 @@ layout: post
 title: 'Diesel Collar para Hombre DX1169040 al 58.72 % de descuento'
 date: 2020-10-26 10:00:50
 thumbnailImage: 'https://m.media-amazon.com/images/I/41ZkcHrsbgL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ZkcHrsbgL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41ZkcHrsbgL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 109.0 EUR
 inStock: true
 prodname: 'Diesel Collar para Hombre DX1169040'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07N7JTV5Z/?tag=tolees-21'
+descuento: '58.72'
+titulo: 'Diesel Collar para Hombre DX1169040'
 ---
 
 Está [Diesel Collar para Hombre DX1169040](https://www.amazon.es/dp/B07N7JTV5Z/?tag=tolees-21) con 58.72 de descuento por 45.0 EUR (original: 109.0 EUR) en el siguiente enlace!
 
 [![Diesel Collar para Hombre DX1169040](https://m.media-amazon.com/images/I/41ZkcHrsbgL._SL200_.jpg)](https://www.amazon.es/dp/B07N7JTV5Z/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07N7JTV5Z/?tag=tolees-21)
 

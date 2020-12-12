@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 55.92 % en Lee Rider Vaqueros Slim  Azul  Dark Ston'
 date: 2020-10-28 17:12:09
 thumbnailImage: 'https://m.media-amazon.com/images/I/416vCmTQVWL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/416vCmTQVWL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/416vCmTQVWL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 85.0 EUR
 inStock: true
 prodname: 'Lee Rider Vaqueros Slim  Azul  Dark Stonewash 46   29W / 32L para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07VPXGW8F/?tag=tolees-21'
+descuento: '55.92'
+titulo: 'Lee Rider Vaqueros Slim  Azul  Dark Ston'
 ---
 
 Tienes [Lee Rider Vaqueros Slim  Azul  Dark Stonewash 46   29W / 32L para Hombre](https://www.amazon.es/dp/B07VPXGW8F/?tag=tolees-21) con un 55.92 % de descuento con precio de oferta de 37.47 EUR (original: 85.0 EUR) en el siguiente enlace!
 
 [![Lee Rider Vaqueros Slim  Azul  Dark Ston](https://m.media-amazon.com/images/I/416vCmTQVWL._SL200_.jpg)](https://www.amazon.es/dp/B07VPXGW8F/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07VPXGW8F/?tag=tolees-21)
 

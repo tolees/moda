@@ -3,6 +3,7 @@ layout: post
 title: 'find. Mini Heel Leather Ballet Zapatos d al 48.04 % de descuento'
 date: 2020-10-27 17:28:43
 thumbnailImage: 'https://m.media-amazon.com/images/I/41t1XPQ+xaL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41t1XPQ+xaL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41t1XPQ+xaL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 25.5 EUR
 inStock: true
 prodname: 'find. Mini Heel Leather Ballet Zapatos de Tacón  Negro Black Patent  39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07R9L3PR4/?tag=tolees-21'
+descuento: '48.04'
+titulo: 'find. Mini Heel Leather Ballet Zapatos d'
 ---
 
 Ahora mismo tienes [find. Mini Heel Leather Ballet Zapatos de Tacón  Negro Black Patent  39 EU](https://www.amazon.es/dp/B07R9L3PR4/?tag=tolees-21) a 13.25 EUR (original: 25.5 EUR) (48.04 %  de descuento) en el siguiente enlace!
 
 [![find. Mini Heel Leather Ballet Zapatos d](https://m.media-amazon.com/images/I/41t1XPQ+xaL._SL200_.jpg)](https://www.amazon.es/dp/B07R9L3PR4/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B07R9L3PR4/?tag=tolees-21)
 

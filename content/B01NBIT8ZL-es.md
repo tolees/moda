@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 62.86 % en Timberland Adventure 2.0 Cupsole Chukka '
 date: 2020-11-11 17:37:45
 thumbnailImage: 'https://m.media-amazon.com/images/I/31rQulFBokL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31rQulFBokL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31rQulFBokL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 140.0 EUR
 inStock: true
 prodname: 'Timberland Adventure 2.0 Cupsole Chukka  Zapatillas para Hombre  Verde Dark Olive  45 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01NBIT8ZL/?tag=tolees-21'
+descuento: '62.86'
+titulo: 'Timberland Adventure 2.0 Cupsole Chukka '
 ---
 
 Tienes [Timberland Adventure 2.0 Cupsole Chukka  Zapatillas para Hombre  Verde Dark Olive  45 EU](https://www.amazon.es/dp/B01NBIT8ZL/?tag=tolees-21) con un 62.86 % de descuento con precio de oferta de 52.0 EUR (original: 140.0 EUR) en el siguiente enlace!
 
 [![Timberland Adventure 2.0 Cupsole Chukka ](https://m.media-amazon.com/images/I/31rQulFBokL._SL200_.jpg)](https://www.amazon.es/dp/B01NBIT8ZL/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01NBIT8ZL/?tag=tolees-21)
 

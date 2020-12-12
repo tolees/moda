@@ -3,6 +3,7 @@ layout: post
 title: 'Kempa Poly Camiseta de Entrenamiento  Ho al 30.26 % de descuento'
 date: 2020-11-14 19:21:43
 thumbnailImage: 'https://m.media-amazon.com/images/I/416k+Zi-kJL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/416k+Zi-kJL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/416k+Zi-kJL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 20.49 EUR
 inStock: true
 prodname: 'Kempa Poly Camiseta de Entrenamiento  Hombre  Azul  L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06VV67WGP/?tag=tolees-21'
+descuento: '30.26'
+titulo: 'Kempa Poly Camiseta de Entrenamiento  Ho'
 ---
 
 Está [Kempa Poly Camiseta de Entrenamiento  Hombre  Azul  L](https://www.amazon.es/dp/B06VV67WGP/?tag=tolees-21) con 30.26 de descuento por 14.29 EUR (original: 20.49 EUR) en el siguiente enlace!
 
 [![Kempa Poly Camiseta de Entrenamiento  Ho](https://m.media-amazon.com/images/I/416k+Zi-kJL._SL200_.jpg)](https://www.amazon.es/dp/B06VV67WGP/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B06VV67WGP/?tag=tolees-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'Superdry O L Vintage Embroidery L/s tee  al 41.26 % de descuento'
 date: 2020-11-13 02:43:45
 thumbnailImage: 'https://m.media-amazon.com/images/I/315Ph7VQmFL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/315Ph7VQmFL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/315Ph7VQmFL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Superdry O L Vintage Embroidery L/s tee Camiseta de Tirantes  Blanco  Optic White 26c   XS para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FN2MWN8/?tag=tolees-21'
+descuento: '41.26'
+titulo: 'Superdry O L Vintage Embroidery L/s tee '
 ---
 
 Ahora mismo tienes [Superdry O L Vintage Embroidery L/s tee Camiseta de Tirantes  Blanco  Optic White 26c   XS para Hombre](https://www.amazon.es/dp/B07FN2MWN8/?tag=tolees-21) a 23.49 EUR (original: 39.99 EUR) (41.26 %  de descuento) en el siguiente enlace!
 
 [![Superdry O L Vintage Embroidery L/s tee ](https://m.media-amazon.com/images/I/315Ph7VQmFL._SL200_.jpg)](https://www.amazon.es/dp/B07FN2MWN8/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B07FN2MWN8/?tag=tolees-21)
 

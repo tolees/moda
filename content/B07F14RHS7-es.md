@@ -3,6 +3,7 @@ layout: post
 title: 'Havaianas Brasil Chanclas Unisex Adulto  al 50.55 % de descuento'
 date: 2020-10-19 07:19:28
 thumbnailImage: 'https://m.media-amazon.com/images/I/41kJWr1lucL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41kJWr1lucL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41kJWr1lucL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 21.9 EUR
 inStock: true
 prodname: 'Havaianas Brasil Chanclas Unisex Adulto  Beige  Sand Grey/Dark Brown   35/36 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F14RHS7/?tag=tolees-21'
+descuento: '50.55'
+titulo: 'Havaianas Brasil Chanclas Unisex Adulto '
 ---
 
 Está [Havaianas Brasil Chanclas Unisex Adulto  Beige  Sand Grey/Dark Brown   35/36 EU](https://www.amazon.es/dp/B07F14RHS7/?tag=tolees-21) con 50.55 de descuento por 10.83 EUR (original: 21.9 EUR) en el siguiente enlace!
 
 [![Havaianas Brasil Chanclas Unisex Adulto ](https://m.media-amazon.com/images/I/41kJWr1lucL._SL200_.jpg)](https://www.amazon.es/dp/B07F14RHS7/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07F14RHS7/?tag=tolees-21)
 

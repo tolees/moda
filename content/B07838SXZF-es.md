@@ -3,6 +3,7 @@ layout: post
 title: 'Helly Hansen Lifaloft Ligera Chaqueta Ai al 65.57 % de descuento'
 date: 2020-11-17 16:41:59
 thumbnailImage: 'https://m.media-amazon.com/images/I/51YV08QnrBL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51YV08QnrBL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51YV08QnrBL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 200.0 EUR
 inStock: true
 prodname: 'Helly Hansen Lifaloft Ligera Chaqueta Aislante  Mujer  Black  M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07838SXZF/?tag=tolees-21'
+descuento: '65.57'
+titulo: 'Helly Hansen Lifaloft Ligera Chaqueta Ai'
 ---
 
 Ahora mismo tienes [Helly Hansen Lifaloft Ligera Chaqueta Aislante  Mujer  Black  M](https://www.amazon.es/dp/B07838SXZF/?tag=tolees-21) a 68.86 EUR (original: 200.0 EUR) (65.57 %  de descuento) en el siguiente enlace!
 
 [![Helly Hansen Lifaloft Ligera Chaqueta Ai](https://m.media-amazon.com/images/I/51YV08QnrBL._SL200_.jpg)](https://www.amazon.es/dp/B07838SXZF/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B07838SXZF/?tag=tolees-21)
 

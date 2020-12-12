@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 57.20 % en Marca Amazon - MERAKI Anorak Largo Mujer'
 date: 2020-10-19 18:17:17
 thumbnailImage: 'https://m.media-amazon.com/images/I/41wkbSRlLLL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41wkbSRlLLL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41wkbSRlLLL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 53.86 EUR
 inStock: true
 prodname: 'Marca Amazon - MERAKI Anorak Largo Mujer con Capucha  Azul  Blue   40  Label: M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076PND2PZ/?tag=tolees-21'
+descuento: '57.20'
+titulo: 'Marca Amazon - MERAKI Anorak Largo Mujer'
 ---
 
 Tienes [Marca Amazon - MERAKI Anorak Largo Mujer con Capucha  Azul  Blue   40  Label: M](https://www.amazon.es/dp/B076PND2PZ/?tag=tolees-21) con un 57.20 % de descuento con precio de oferta de 23.05 EUR (original: 53.86 EUR) en el siguiente enlace!
 
 [![Marca Amazon - MERAKI Anorak Largo Mujer](https://m.media-amazon.com/images/I/41wkbSRlLLL._SL200_.jpg)](https://www.amazon.es/dp/B076PND2PZ/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B076PND2PZ/?tag=tolees-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'Levi s Selma Dress Vestido  Blanco  Fain al 52.16 % de descuento'
 date: 2020-11-01 10:40:19
 thumbnailImage: 'https://m.media-amazon.com/images/I/31tBrkKoFvL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31tBrkKoFvL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31tBrkKoFvL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 110.0 EUR
 inStock: true
 prodname: 'Levi s Selma Dress Vestido  Blanco  Faint Heart  2  0001   X-Small para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07TT6Z25N/?tag=tolees-21'
+descuento: '52.16'
+titulo: 'Levi s Selma Dress Vestido  Blanco  Fain'
 ---
 
 Ahora mismo tienes [Levi s Selma Dress Vestido  Blanco  Faint Heart  2  0001   X-Small para Mujer](https://www.amazon.es/dp/B07TT6Z25N/?tag=tolees-21) a 52.62 EUR (original: 110.0 EUR) (52.16 %  de descuento) en el siguiente enlace!
 
 [![Levi s Selma Dress Vestido  Blanco  Fain](https://m.media-amazon.com/images/I/31tBrkKoFvL._SL200_.jpg)](https://www.amazon.es/dp/B07TT6Z25N/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B07TT6Z25N/?tag=tolees-21)
 

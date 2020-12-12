@@ -3,6 +3,7 @@ layout: post
 title: 'Havaianas You Metallic  Chanclas para Mu al 50.00 % de descuento'
 date: 2020-11-01 22:20:48
 thumbnailImage: 'https://m.media-amazon.com/images/I/41YDS1x9jTL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41YDS1x9jTL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41YDS1x9jTL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 29.9 EUR
 inStock: true
 prodname: 'Havaianas You Metallic  Chanclas para Mujer  Rosa  Rose Nude 7939   35/36 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F1GXDY8/?tag=tolees-21'
+descuento: '50.00'
+titulo: 'Havaianas You Metallic  Chanclas para Mu'
 ---
 
 Está [Havaianas You Metallic  Chanclas para Mujer  Rosa  Rose Nude 7939   35/36 EU](https://www.amazon.es/dp/B07F1GXDY8/?tag=tolees-21) con 50.00 de descuento por 14.95 EUR (original: 29.9 EUR) en el siguiente enlace!
 
 [![Havaianas You Metallic  Chanclas para Mu](https://m.media-amazon.com/images/I/41YDS1x9jTL._SL200_.jpg)](https://www.amazon.es/dp/B07F1GXDY8/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07F1GXDY8/?tag=tolees-21)
 

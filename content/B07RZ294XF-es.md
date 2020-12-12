@@ -3,6 +3,7 @@ layout: post
 title: 'BILLABONG Facil Iti Chaqueta  Negro  Bla al 51.13 % de descuento'
 date: 2020-10-28 09:09:03
 thumbnailImage: 'https://m.media-amazon.com/images/I/41zWFj-zOeL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41zWFj-zOeL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41zWFj-zOeL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 135.0 EUR
 inStock: true
 prodname: 'BILLABONG Facil Iti Chaqueta  Negro  Black 19   One Size  Tamaño del fabricante: XS  para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07RZ294XF/?tag=tolees-21'
+descuento: '51.13'
+titulo: 'BILLABONG Facil Iti Chaqueta  Negro  Bla'
 ---
 
 Está [BILLABONG Facil Iti Chaqueta  Negro  Black 19   One Size  Tamaño del fabricante: XS  para Mujer](https://www.amazon.es/dp/B07RZ294XF/?tag=tolees-21) con 51.13 de descuento por 65.97 EUR (original: 135.0 EUR) en el siguiente enlace!
 
 [![BILLABONG Facil Iti Chaqueta  Negro  Bla](https://m.media-amazon.com/images/I/41zWFj-zOeL._SL200_.jpg)](https://www.amazon.es/dp/B07RZ294XF/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07RZ294XF/?tag=tolees-21)
 

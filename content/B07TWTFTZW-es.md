@@ -3,6 +3,7 @@ layout: post
 title: 'Wrangler SS tee Camiseta  Azul  Navy 114 al 51.94 % de descuento'
 date: 2020-11-08 23:42:46
 thumbnailImage: 'https://m.media-amazon.com/images/I/41QED8uVzeL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41QED8uVzeL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41QED8uVzeL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 24.95 EUR
 inStock: true
 prodname: 'Wrangler SS tee Camiseta  Azul  Navy 114   XX-Large para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07TWTFTZW/?tag=tolees-21'
+descuento: '51.94'
+titulo: 'Wrangler SS tee Camiseta  Azul  Navy 114'
 ---
 
 Está [Wrangler SS tee Camiseta  Azul  Navy 114   XX-Large para Hombre](https://www.amazon.es/dp/B07TWTFTZW/?tag=tolees-21) con 51.94 de descuento por 11.99 EUR (original: 24.95 EUR) en el siguiente enlace!
 
 [![Wrangler SS tee Camiseta  Azul  Navy 114](https://m.media-amazon.com/images/I/41QED8uVzeL._SL200_.jpg)](https://www.amazon.es/dp/B07TWTFTZW/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07TWTFTZW/?tag=tolees-21)
 

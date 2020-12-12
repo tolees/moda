@@ -3,6 +3,7 @@ layout: post
 title: 'Timberland Berlin Park Oxford   Zapatill al 32.70 % de descuento'
 date: 2020-11-20 15:39:49
 thumbnailImage: 'https://m.media-amazon.com/images/I/31Q-vgC+R9L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31Q-vgC+R9L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31Q-vgC+R9L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 81.55 EUR
 inStock: true
 prodname: 'Timberland Berlin Park Oxford   Zapatillas Bajas Mujer  Verde Olive Nubuck  38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BQZH79Q/?tag=tolees-21'
+descuento: '32.70'
+titulo: 'Timberland Berlin Park Oxford   Zapatill'
 ---
 
 Ahora mismo tienes [Timberland Berlin Park Oxford   Zapatillas Bajas Mujer  Verde Olive Nubuck  38 EU](https://www.amazon.es/dp/B07BQZH79Q/?tag=tolees-21) a 54.88 EUR (original: 81.55 EUR) (32.70 %  de descuento) en el siguiente enlace!
 
 [![Timberland Berlin Park Oxford   Zapatill](https://m.media-amazon.com/images/I/31Q-vgC+R9L._SL200_.jpg)](https://www.amazon.es/dp/B07BQZH79Q/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B07BQZH79Q/?tag=tolees-21)
 

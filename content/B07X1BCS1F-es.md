@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 63.08 % en Tommy Hilfiger Tjw Dungaree Dress vestid'
 date: 2020-11-07 17:28:09
 thumbnailImage: 'https://m.media-amazon.com/images/I/41t8x7mWQpL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41t8x7mWQpL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41t8x7mWQpL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 99.9 EUR
 inStock: true
 prodname: 'Tommy Hilfiger Tjw Dungaree Dress vestido  Azul  TJ Denim Colorblock 1A4   Large para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07X1BCS1F/?tag=tolees-21'
+descuento: '63.08'
+titulo: 'Tommy Hilfiger Tjw Dungaree Dress vestid'
 ---
 
 Tienes [Tommy Hilfiger Tjw Dungaree Dress vestido  Azul  TJ Denim Colorblock 1A4   Large para Mujer](https://www.amazon.es/dp/B07X1BCS1F/?tag=tolees-21) con un 63.08 % de descuento con precio de oferta de 36.88 EUR (original: 99.9 EUR) en el siguiente enlace!
 
 [![Tommy Hilfiger Tjw Dungaree Dress vestid](https://m.media-amazon.com/images/I/41t8x7mWQpL._SL200_.jpg)](https://www.amazon.es/dp/B07X1BCS1F/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07X1BCS1F/?tag=tolees-21)
 

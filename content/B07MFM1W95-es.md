@@ -3,6 +3,7 @@ layout: post
 title: 'Clarks Un Costa Lace  Zapatos de Cordone al 50.03 % de descuento'
 date: 2020-11-28 12:31:35
 thumbnailImage: 'https://m.media-amazon.com/images/I/31ZlS09LevL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31ZlS09LevL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31ZlS09LevL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'Clarks Un Costa Lace  Zapatos de Cordones Derby Botines Chukka  Negro  Black Black   44.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MFM1W95/?tag=tolees-21'
+descuento: '50.03'
+titulo: 'Clarks Un Costa Lace  Zapatos de Cordone'
 ---
 
 Está [Clarks Un Costa Lace  Zapatos de Cordones Derby Botines Chukka  Negro  Black Black   44.5 EU](https://www.amazon.es/dp/B07MFM1W95/?tag=tolees-21) con 50.03 de descuento por 49.95 EUR (original: 99.95 EUR) en el siguiente enlace!
 
 [![Clarks Un Costa Lace  Zapatos de Cordone](https://m.media-amazon.com/images/I/31ZlS09LevL._SL200_.jpg)](https://www.amazon.es/dp/B07MFM1W95/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07MFM1W95/?tag=tolees-21)
 

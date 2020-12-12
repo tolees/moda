@@ -3,6 +3,7 @@ layout: post
 title: 'Crocs Classic II Flip  Chanclas Unisex A al 50.03 % de descuento'
 date: 2020-11-18 15:35:56
 thumbnailImage: 'https://m.media-amazon.com/images/I/317SN0jkrrL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/317SN0jkrrL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/317SN0jkrrL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'Crocs Classic II Flip  Chanclas Unisex Adulto  Azul  Navy 410   42/43 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07SCFXZSC/?tag=tolees-21'
+descuento: '50.03'
+titulo: 'Crocs Classic II Flip  Chanclas Unisex A'
 ---
 
 Está [Crocs Classic II Flip  Chanclas Unisex Adulto  Azul  Navy 410   42/43 EU](https://www.amazon.es/dp/B07SCFXZSC/?tag=tolees-21) con 50.03 de descuento por 9.99 EUR (original: 19.99 EUR) en el siguiente enlace!
 
 [![Crocs Classic II Flip  Chanclas Unisex A](https://m.media-amazon.com/images/I/317SN0jkrrL._SL200_.jpg)](https://www.amazon.es/dp/B07SCFXZSC/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07SCFXZSC/?tag=tolees-21)
 

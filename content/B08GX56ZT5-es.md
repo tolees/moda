@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.00 % en OBEEII Disfraz Anna Frozen Niñas con Cap'
 date: 2020-10-23 04:32:19
 thumbnailImage: 'https://m.media-amazon.com/images/I/51TyCk93uPL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51TyCk93uPL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51TyCk93uPL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 18.84 EUR
 inStock: true
 prodname: 'OBEEII Disfraz Anna Frozen Niñas con Capa Princesa Ana Vestido Traje Princesa Anna para Halloween Cosplay Fiesta Anna05 3-4 Años'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B08GX56ZT5/?tag=tolees-21'
+descuento: '50.00'
+titulo: 'OBEEII Disfraz Anna Frozen Niñas con Cap'
 ---
 
 Tienes [OBEEII Disfraz Anna Frozen Niñas con Capa Princesa Ana Vestido Traje Princesa Anna para Halloween Cosplay Fiesta Anna05 3-4 Años](https://www.amazon.es/dp/B08GX56ZT5/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 9.42 EUR (original: 18.84 EUR) en el siguiente enlace!
 
 [![OBEEII Disfraz Anna Frozen Niñas con Cap](https://m.media-amazon.com/images/I/51TyCk93uPL._SL200_.jpg)](https://www.amazon.es/dp/B08GX56ZT5/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B08GX56ZT5/?tag=tolees-21)
 
