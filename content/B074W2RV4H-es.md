@@ -2,33 +2,27 @@
 layout: post
 title: 'Star Wars - Camiseta para mujer - Star W al 52.77 % de descuento'
 date: 
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Dy66xnAYL._SL200_.jpg'
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51Dy66xnAYL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Dy66xnAYL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: 'B074W2RV4H-es'
-description:
 actualPrice: 8.95 EUR
 currency: EUR
 price: 8.95
 comparePrice: 18.95 EUR
-inStock: true
 prodname: 'Star Wars - Camiseta para mujer - Star Wars - Small'
 country: 'es'
+flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074W2RV4H/?tag=tolees-21'
 descuento: '52.77'
-titulo: 'Star Wars - Camiseta para mujer - Star W'
 ---
 
 Ahora mismo tienes [Star Wars - Camiseta para mujer - Star Wars - Small](https://www.amazon.es/dp/B074W2RV4H/?tag=tolees-21) a 8.95 EUR (original: 18.95 EUR) (52.77 %  de descuento) en el siguiente enlace!
 
 [![Star Wars - Camiseta para mujer - Star W](https://images-eu.ssl-images-amazon.com/images/I/51Dy66xnAYL._SL200_.jpg)](https://www.amazon.es/dp/B074W2RV4H/?tag=tolees-21)
 
-Características:
+ℹ️:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B074W2RV4H/?tag=tolees-21)
-
-Links participate in Amazon Associate program and might generate a comission on qualifying sales

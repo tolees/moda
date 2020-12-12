@@ -2,33 +2,27 @@
 layout: post
 title: 'Lacoste L1212 Camiseta Polo  Rojo  Borde al 47.81 % de descuento'
 date: 2020-10-31 10:13:15
-thumbnailImage: 'https://m.media-amazon.com/images/I/31ZZLyAA-AL._SL200_.jpg'
 image: 'https://m.media-amazon.com/images/I/31ZZLyAA-AL._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/31ZZLyAA-AL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: 'B002LU5DP4-es'
-description:
 actualPrice: 46.45 EUR
 currency: EUR
 price: 46.45
 comparePrice: 89.0 EUR
-inStock: true
 prodname: 'Lacoste L1212 Camiseta Polo  Rojo  Bordeaux   L para Hombre'
 country: 'es'
+flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B002LU5DP4/?tag=tolees-21'
 descuento: '47.81'
-titulo: 'Lacoste L1212 Camiseta Polo  Rojo  Borde'
 ---
 
 Ahora mismo tienes [Lacoste L1212 Camiseta Polo  Rojo  Bordeaux   L para Hombre](https://www.amazon.es/dp/B002LU5DP4/?tag=tolees-21) a 46.45 EUR (original: 89.0 EUR) (47.81 %  de descuento) en el siguiente enlace!
 
 [![Lacoste L1212 Camiseta Polo  Rojo  Borde](https://m.media-amazon.com/images/I/31ZZLyAA-AL._SL200_.jpg)](https://www.amazon.es/dp/B002LU5DP4/?tag=tolees-21)
 
-Características:
+ℹ️:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B002LU5DP4/?tag=tolees-21)
-
-Links participate in Amazon Associate program and might generate a comission on qualifying sales

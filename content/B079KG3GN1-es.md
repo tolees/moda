@@ -2,33 +2,27 @@
 layout: post
 title: 'Lee Elly  Vaqueros Slim  Mujer  Negro  B al 80.93 % de descuento'
 date: 
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31PlFZ9JvcL._SL200_.jpg'
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31PlFZ9JvcL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31PlFZ9JvcL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: 'B079KG3GN1-es'
-description:
 actualPrice: 17.15 EUR
 currency: EUR
 price: 17.15
 comparePrice: 89.95 EUR
-inStock: true
 prodname: 'Lee Elly  Vaqueros Slim  Mujer  Negro  Black Rinse 47   W28/L33'
 country: 'es'
+flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079KG3GN1/?tag=tolees-21'
 descuento: '80.93'
-titulo: 'Lee Elly  Vaqueros Slim  Mujer  Negro  B'
 ---
 
 Ahora mismo tienes [Lee Elly  Vaqueros Slim  Mujer  Negro  Black Rinse 47   W28/L33](https://www.amazon.es/dp/B079KG3GN1/?tag=tolees-21) a 17.15 EUR (original: 89.95 EUR) (80.93 %  de descuento) en el siguiente enlace!
 
 [![Lee Elly  Vaqueros Slim  Mujer  Negro  B](https://images-eu.ssl-images-amazon.com/images/I/31PlFZ9JvcL._SL200_.jpg)](https://www.amazon.es/dp/B079KG3GN1/?tag=tolees-21)
 
-Características:
+ℹ️:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B079KG3GN1/?tag=tolees-21)
-
-Links participate in Amazon Associate program and might generate a comission on qualifying sales

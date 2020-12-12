@@ -2,33 +2,27 @@
 layout: post
 title: 'KENNETH COLE Levin Monk  Zapatos de Cord al 76.84 % de descuento'
 date: 
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31QZ4WmFNwL._SL200_.jpg'
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31QZ4WmFNwL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31QZ4WmFNwL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: 'B079XC79FZ-es'
-description:
 actualPrice: 38.22 EUR
 currency: EUR
 price: 38.22
 comparePrice: 165 EUR
-inStock: true
 prodname: 'KENNETH COLE Levin Monk  Zapatos de Cordones Oxford para Hombre  Negro  Black 001   45 EU'
 country: 'es'
+flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079XC79FZ/?tag=tolees-21'
 descuento: '76.84'
-titulo: 'KENNETH COLE Levin Monk  Zapatos de Cord'
 ---
 
 Ahora mismo tienes [KENNETH COLE Levin Monk  Zapatos de Cordones Oxford para Hombre  Negro  Black 001   45 EU](https://www.amazon.es/dp/B079XC79FZ/?tag=tolees-21) a 38.22 EUR (original: 165 EUR) (76.84 %  de descuento) en el siguiente enlace!
 
 [![KENNETH COLE Levin Monk  Zapatos de Cord](https://images-eu.ssl-images-amazon.com/images/I/31QZ4WmFNwL._SL200_.jpg)](https://www.amazon.es/dp/B079XC79FZ/?tag=tolees-21)
 
-Características:
+ℹ️:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B079XC79FZ/?tag=tolees-21)
-
-Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -2,35 +2,27 @@
 layout: post
 title: 'BOSS Salbo Sudadera  Negro  Black 001    al 48.88 % de descuento'
 date: 
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41aBPK18BJL._SL200_.jpg'
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41aBPK18BJL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41aBPK18BJL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: 'B07B132NNT-es'
-description:
 actualPrice: 65.94 EUR
 currency: EUR
 price: 65.94
 comparePrice: 129 EUR
-inStock: true
 prodname: 'BOSS Salbo Sudadera  Negro  Black 001   Large para Hombre'
 country: 'es'
+flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07B132NNT/?tag=tolees-21'
 descuento: '48.88'
-titulo: 'BOSS Salbo Sudadera  Negro  Black 001   '
 ---
 
 Está [BOSS Salbo Sudadera  Negro  Black 001   Large para Hombre](https://www.amazon.es/dp/B07B132NNT/?tag=tolees-21) con 48.88 de descuento por 65.94 EUR (original: 129 EUR) en el siguiente enlace!
 
 [![BOSS Salbo Sudadera  Negro  Black 001   ](https://images-eu.ssl-images-amazon.com/images/I/41aBPK18BJL._SL200_.jpg)](https://www.amazon.es/dp/B07B132NNT/?tag=tolees-21)
 
-Principales características:
+ℹ️:
 
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07B132NNT/?tag=tolees-21)
-
-Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

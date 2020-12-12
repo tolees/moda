@@ -2,35 +2,27 @@
 layout: post
 title: 'Cortefiel C7Cc Denim Slim Verdoso  Vaque al 80.16 % de descuento'
 date: 
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QV4rGVZ7L._SL200_.jpg'
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41QV4rGVZ7L._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QV4rGVZ7L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: 'B07KYS366G-es'
-description:
 actualPrice: 9.92 EUR
 currency: EUR
 price: 9.92
 comparePrice: 49.99 EUR
-inStock: true
 prodname: 'Cortefiel C7Cc Denim Slim Verdoso  Vaqueros Tapered para Hombre   Gama Azules 13    Tamaño del Fabricante:46 '
 country: 'es'
+flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KYS366G/?tag=tolees-21'
 descuento: '80.16'
-titulo: 'Cortefiel C7Cc Denim Slim Verdoso  Vaque'
 ---
 
 Está [Cortefiel C7Cc Denim Slim Verdoso  Vaqueros Tapered para Hombre   Gama Azules 13    Tamaño del Fabricante:46 ](https://www.amazon.es/dp/B07KYS366G/?tag=tolees-21) con 80.16 de descuento por 9.92 EUR (original: 49.99 EUR) en el siguiente enlace!
 
 [![Cortefiel C7Cc Denim Slim Verdoso  Vaque](https://images-eu.ssl-images-amazon.com/images/I/41QV4rGVZ7L._SL200_.jpg)](https://www.amazon.es/dp/B07KYS366G/?tag=tolees-21)
 
-Principales características:
+ℹ️:
 
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07KYS366G/?tag=tolees-21)
-
-Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

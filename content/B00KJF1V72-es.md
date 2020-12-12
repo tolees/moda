@@ -2,35 +2,27 @@
 layout: post
 title: 'Carrera Unisex adulto 5034/S 70 KKL Gafa al 54.58 % de descuento'
 date: 
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31-4sbNKUXL._SL200_.jpg'
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31-4sbNKUXL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31-4sbNKUXL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: 'B00KJF1V72-es'
-description:
 actualPrice: 54.5 EUR
 currency: EUR
 price: 54.5
 comparePrice: 120 EUR
-inStock: true
 prodname: 'Carrera Unisex adulto 5034/S 70 KKL Gafas de sol  Negro  Black Dkruth/Brown   52'
 country: 'es'
+flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00KJF1V72/?tag=tolees-21'
 descuento: '54.58'
-titulo: 'Carrera Unisex adulto 5034/S 70 KKL Gafa'
 ---
 
 Está [Carrera Unisex adulto 5034/S 70 KKL Gafas de sol  Negro  Black Dkruth/Brown   52](https://www.amazon.es/dp/B00KJF1V72/?tag=tolees-21) con 54.58 de descuento por 54.5 EUR (original: 120 EUR) en el siguiente enlace!
 
 [![Carrera Unisex adulto 5034/S 70 KKL Gafa](https://images-eu.ssl-images-amazon.com/images/I/31-4sbNKUXL._SL200_.jpg)](https://www.amazon.es/dp/B00KJF1V72/?tag=tolees-21)
 
-Principales características:
+ℹ️:
 
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00KJF1V72/?tag=tolees-21)
-
-Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

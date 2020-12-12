@@ -2,35 +2,27 @@
 layout: post
 title: 'Burton Breach Chaqueta de Snowboard  Hom al 64.63 % de descuento'
 date: 
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41r7s4Kq4jL._SL200_.jpg'
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41r7s4Kq4jL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41r7s4Kq4jL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: 'B07F7K98ZC-es'
-description:
 actualPrice: 81.35 EUR
 currency: EUR
 price: 81.35
 comparePrice: 230 EUR
-inStock: true
 prodname: 'Burton Breach Chaqueta de Snowboard  Hombre  Rojo  Bitters/Chestnut Waxed   M'
 country: 'es'
+flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F7K98ZC/?tag=tolees-21'
 descuento: '64.63'
-titulo: 'Burton Breach Chaqueta de Snowboard  Hom'
 ---
 
 Está [Burton Breach Chaqueta de Snowboard  Hombre  Rojo  Bitters/Chestnut Waxed   M](https://www.amazon.es/dp/B07F7K98ZC/?tag=tolees-21) con 64.63 de descuento por 81.35 EUR (original: 230 EUR) en el siguiente enlace!
 
 [![Burton Breach Chaqueta de Snowboard  Hom](https://images-eu.ssl-images-amazon.com/images/I/41r7s4Kq4jL._SL200_.jpg)](https://www.amazon.es/dp/B07F7K98ZC/?tag=tolees-21)
 
-Principales características:
+ℹ️:
 
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07F7K98ZC/?tag=tolees-21)
-
-Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

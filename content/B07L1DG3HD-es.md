@@ -2,33 +2,27 @@
 layout: post
 title: 'JACK & JONES Jorknox Shirt LS Camisa   R al 75.94 % de descuento'
 date: 
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dK3L4VkqL._SL200_.jpg'
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41dK3L4VkqL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dK3L4VkqL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: 'B07L1DG3HD-es'
-description:
 actualPrice: 9.62 EUR
 currency: EUR
 price: 9.62
 comparePrice: 39.99 EUR
-inStock: true
 prodname: 'JACK & JONES Jorknox Shirt LS Camisa   Rosette Fit:Slim   Medium para Hombre'
 country: 'es'
+flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07L1DG3HD/?tag=tolees-21'
 descuento: '75.94'
-titulo: 'JACK & JONES Jorknox Shirt LS Camisa   R'
 ---
 
 Ahora mismo tienes [JACK & JONES Jorknox Shirt LS Camisa   Rosette Fit:Slim   Medium para Hombre](https://www.amazon.es/dp/B07L1DG3HD/?tag=tolees-21) a 9.62 EUR (original: 39.99 EUR) (75.94 %  de descuento) en el siguiente enlace!
 
 [![JACK & JONES Jorknox Shirt LS Camisa   R](https://images-eu.ssl-images-amazon.com/images/I/41dK3L4VkqL._SL200_.jpg)](https://www.amazon.es/dp/B07L1DG3HD/?tag=tolees-21)
 
-Características:
+ℹ️:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07L1DG3HD/?tag=tolees-21)
-
-Links participate in Amazon Associate program and might generate a comission on qualifying sales

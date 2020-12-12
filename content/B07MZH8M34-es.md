@@ -2,35 +2,27 @@
 layout: post
 title: 'Superdry Super 23 Hawaii Entry tee Camis al 47.30 % de descuento'
 date: 
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/310Kqq34utL._SL200_.jpg'
 image: 'https://images-eu.ssl-images-amazon.com/images/I/310Kqq34utL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/310Kqq34utL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: 'B07MZH8M34-es'
-description:
 actualPrice: 20.95 EUR
 currency: EUR
 price: 20.95
 comparePrice: 39.75 EUR
-inStock: true
 prodname: 'Superdry Super 23 Hawaii Entry tee Camiseta  Blanco  Rodeo White Snowy Xq6   S tamaño Fabricante 10  para Mujer'
 country: 'es'
+flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MZH8M34/?tag=tolees-21'
 descuento: '47.30'
-titulo: 'Superdry Super 23 Hawaii Entry tee Camis'
 ---
 
 Está [Superdry Super 23 Hawaii Entry tee Camiseta  Blanco  Rodeo White Snowy Xq6   S tamaño Fabricante 10  para Mujer](https://www.amazon.es/dp/B07MZH8M34/?tag=tolees-21) con 47.30 de descuento por 20.95 EUR (original: 39.75 EUR) en el siguiente enlace!
 
 [![Superdry Super 23 Hawaii Entry tee Camis](https://images-eu.ssl-images-amazon.com/images/I/310Kqq34utL._SL200_.jpg)](https://www.amazon.es/dp/B07MZH8M34/?tag=tolees-21)
 
-Principales características:
+ℹ️:
 
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07MZH8M34/?tag=tolees-21)
-
-Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

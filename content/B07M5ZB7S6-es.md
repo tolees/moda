@@ -2,35 +2,27 @@
 layout: post
 title: 'G-STAR RAW Tacoma Straight Flare Shirt D al 30.00 % de descuento'
 date: 
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uT5HzOSLL._SL200_.jpg'
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41uT5HzOSLL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41uT5HzOSLL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: 'B07M5ZB7S6-es'
-description:
 actualPrice: 90.97 EUR
 currency: EUR
 price: 90.97
 comparePrice: 129.95 EUR
-inStock: true
 prodname: 'G-STAR RAW Tacoma Straight Flare Shirt Dress  Vestido Mujer  Negro  Rinsed 082   Medium'
 country: 'es'
+flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07M5ZB7S6/?tag=tolees-21'
 descuento: '30.00'
-titulo: 'G-STAR RAW Tacoma Straight Flare Shirt D'
 ---
 
 Está [G-STAR RAW Tacoma Straight Flare Shirt Dress  Vestido Mujer  Negro  Rinsed 082   Medium](https://www.amazon.es/dp/B07M5ZB7S6/?tag=tolees-21) con 30.00 de descuento por 90.97 EUR (original: 129.95 EUR) en el siguiente enlace!
 
 [![G-STAR RAW Tacoma Straight Flare Shirt D](https://images-eu.ssl-images-amazon.com/images/I/41uT5HzOSLL._SL200_.jpg)](https://www.amazon.es/dp/B07M5ZB7S6/?tag=tolees-21)
 
-Principales características:
+ℹ️:
 
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07M5ZB7S6/?tag=tolees-21)
-
-Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

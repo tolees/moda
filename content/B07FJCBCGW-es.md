@@ -2,35 +2,27 @@
 layout: post
 title: 'Tommy Hilfiger Alana Down Parka  Mujer   al 50.18 % de descuento'
 date: 
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41AWr-iC%2BhL._SL200_.jpg'
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41AWr-iC%2BhL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41AWr-iC%2BhL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: 'B07FJCBCGW-es'
-description:
 actualPrice: 139 EUR
 currency: EUR
 price: 139
 comparePrice: 279 EUR
-inStock: true
 prodname: 'Tommy Hilfiger Alana Down Parka  Mujer  Verde  Olive Night 302  X-Small'
 country: 'es'
+flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FJCBCGW/?tag=tolees-21'
 descuento: '50.18'
-titulo: 'Tommy Hilfiger Alana Down Parka  Mujer  '
 ---
 
 Está [Tommy Hilfiger Alana Down Parka  Mujer  Verde  Olive Night 302  X-Small](https://www.amazon.es/dp/B07FJCBCGW/?tag=tolees-21) con 50.18 de descuento por 139 EUR (original: 279 EUR) en el siguiente enlace!
 
 [![Tommy Hilfiger Alana Down Parka  Mujer  ](https://images-eu.ssl-images-amazon.com/images/I/41AWr-iC%2BhL._SL200_.jpg)](https://www.amazon.es/dp/B07FJCBCGW/?tag=tolees-21)
 
-Principales características:
+ℹ️:
 
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07FJCBCGW/?tag=tolees-21)
-
-Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-
