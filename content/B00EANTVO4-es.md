@@ -25,8 +25,8 @@ Está [Pepe Jeans Eggo PM500465 Camiseta  Azul  Navy 595   Medium para Hombre](h
 ℹ️:
 
 - Fabricada en tejido suave
-- Manga corta
 - Camiseta básica para hombre
 - Logo estampado en el pecho
+- Manga corta
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00EANTVO4/?tag=tolees-21)

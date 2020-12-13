@@ -24,8 +24,8 @@ Ahora mismo tienes [Pepe Jeans Flag Logo Camiseta  Gris  Grey Marl 933   XX-Larg
 
 🔎:
 
-- Fabricada en tejido ligero que ofrece comodidad
 - Tiene estampado en el pecho la marca Pepe Jeans
+- Fabricada en tejido ligero que ofrece comodidad
 - Camiseta para hombre
 
 [Visítala!!!](https://www.amazon.es/dp/B07N9BGW7S/?tag=tolees-21)
