@@ -24,11 +24,11 @@ Ahora mismo tienes [Hurley M Blocked Pullover Fleece Sudadera Ash Green  XL](htt
 
 🔎:
 
+- Corte regular
+- Casual
 - Lavar a máquina
 - Serigrafiado o&o
 - Cierre: Pull On
-- Corte regular
-- Casual
 - Tipo de fábrica: 60% Algodón, 40% Poliéster
 
 [Visítala!!!](https://www.amazon.es/dp/B08DMMZLNQ/?tag=tolees-21)
