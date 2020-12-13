@@ -24,9 +24,9 @@ Tienes [Levi s Type 3 Chaqueta Vaquera  Berk Sherpa Trucker  XS para Hombre](htt
 
 ℹ️:
 
-- Parte frontal típica de 2 bolsillos
-- Trucker tipo 3 Sherpa
 - La chaqueta tipo 3 Sherpa Trucker es una buena figura en los viajes de compra: clásico en este modelo de 84% algodón son la parte frontal típica de 2 bolsillos, las costuras decorativas dobles y las legendarias botones de camión
 - Forro de las mangas: 100% poliamida
+- Parte frontal típica de 2 bolsillos
+- Trucker tipo 3 Sherpa
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07KF4XL4V/?tag=tolees-21)
