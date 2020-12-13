@@ -25,8 +25,8 @@ Tienes [BONNY BILLY Sudadera Niña Manga Larga Camiseta Top Estampado Algodón O
 ℹ️:
 
 - Buena calidad, suave y confortable.
-- Perfecto para casual.
-- Sudadera con manga larga y estampado.
 - Tallas para 5-12 años, por favor, consulte nuestra tabla de tallas antes de ordenar.
+- Sudadera con manga larga y estampado.
+- Perfecto para casual.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B08MLD7FG9/?tag=tolees-21)
