@@ -24,10 +24,10 @@ Está [HAWKERS Gafas de Sol Deportivas Faster  para Hombre y Mujer  con Montura 
 
 ℹ️:
 
-- Lente cromada en verde y morado con efecto espejo, fabricada en TR18, con reducción de brillos y con gran equilibrio entre claridad y protección; lente de categoría 3 con protección UV400
 - Montura fabricada en TR90 que dota a las gafas de gran ligereza, flexibilidad y resistencia; muy resistente a altas y bajas temperaturas
-- Medidas: Frente: 14,2 cm, Altura: 4,9 cm, Diámetro de la lente: 5,75 cm; Puente: 2,5 cm; Varillas: 14 cm
 - Gafas de Sol Faster, Unisex, diseño deportivo rectangular curvado con montura negro mate y con lente verde y morado con efecto espejo
 - Producto original Hawkers; la caja incluye funda de microfibra, caja y set de pegatinas decorativas
+- Lente cromada en verde y morado con efecto espejo, fabricada en TR18, con reducción de brillos y con gran equilibrio entre claridad y protección; lente de categoría 3 con protección UV400
+- Medidas: Frente: 14,2 cm, Altura: 4,9 cm, Diámetro de la lente: 5,75 cm; Puente: 2,5 cm; Varillas: 14 cm
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07TMQ9C3Z/?tag=tolees-21)

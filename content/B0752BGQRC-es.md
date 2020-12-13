@@ -24,7 +24,7 @@ Ahora mismo tienes [G-STAR RAW Midge Zip Mid Waist Skinny Vaqueros  Dark Aged D0
 
 🔎:
 
-- Denim de peso medio de 10,2 oz.
 - Elástico y estable.
+- Denim de peso medio de 10,2 oz.
 
 [Visítala!!!](https://www.amazon.es/dp/B0752BGQRC/?tag=tolees-21)

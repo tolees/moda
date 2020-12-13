@@ -24,9 +24,9 @@ Ahora mismo tienes [Diesel Collar de Hombre con Acero Inoxidable](https://www.am
 
 🔎:
 
-- Color: Tono plateado
-- Con el grabado intrincado del emblemático logotipo de Diesel, estas chapas de identificación destacan del resto. El acabado en dos tonos, con chapado ionizado en negro, le aporta el grado de contraste perfecto.
 - Se presenta en caja de regalo Diesel
+- Con el grabado intrincado del emblemático logotipo de Diesel, estas chapas de identificación destacan del resto. El acabado en dos tonos, con chapado ionizado en negro, le aporta el grado de contraste perfecto.
+- Color: Tono plateado
 - Material: Acero inoxidable
 
 [Visítala!!!](https://www.amazon.es/dp/B001E8FF5C/?tag=tolees-21)

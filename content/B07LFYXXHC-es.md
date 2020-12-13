@@ -24,12 +24,12 @@ Está [Geox J Android Boy C  Zapatillas Niños  Azul Navy Lime C0749  34 EU](htt
 
 ℹ️:
 
+- Tipo de talla: Los zapatos Geox son holgados
 - Material exterior: Cuero sintético
-- Altura del tacón: 3 centímetros
 - Revestimiento: Malla
+- Altura del tacón: 3 centímetros
 - Tipo de tacón: Plano
 - Cierre: Velcro
-- Tipo de talla: Los zapatos Geox son holgados
 - Material de la suela: Cuero sintético
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07LFYXXHC/?tag=tolees-21)
