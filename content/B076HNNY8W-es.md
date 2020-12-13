@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 30.53 % en adidas CORE18 tee Camiseta de Manga Cort'
-date: 2020-12-11 06:13:54
+date: 2020-12-13 06:57:15
 image: 'https://m.media-amazon.com/images/I/31RTeT4obyL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -24,8 +24,8 @@ Tienes [adidas CORE18 tee Camiseta de Manga Corta  Hombre  Dark Blue/White  XS](
 
 ℹ️:
 
-- Regular fit
 - Climalite anti-humidity fabric
 - Adidas logo on the front
+- Regular fit
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B076HNNY8W/?tag=tolees-21)

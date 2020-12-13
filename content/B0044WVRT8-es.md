@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Crocs Crocband U  Zuecos Unisex Adulto   al 28.90 % de descuento'
-date: 2020-12-10 23:52:05
+date: 2020-12-13 06:53:41
 image: 'https://m.media-amazon.com/images/I/41rNCmP4eZL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -24,10 +24,10 @@ Está [Crocs Crocband U  Zuecos Unisex Adulto  Marrón  Espresso-Khaki   38-39 E
 
 ℹ️:
 
+- Material exterior: Espuma
 - Altura del tacón: 1.5 pulgadas
+- Revestimiento: Sintético
 - Material de la suela: Goma
 - Cierre: Sin cordones
-- Revestimiento: Sintético
-- Material exterior: Espuma
 
 [Ver la oferta!!](https://www.amazon.es/dp/B0044WVRT8/?tag=tolees-21)
