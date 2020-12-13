@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 56.14 % en Marca Amazon - find. Regular Oxford - Ca'
-date: 2020-12-10 08:47:52
+date: 2020-12-12 22:43:51
 image: 'https://m.media-amazon.com/images/I/41Ydd7Vy70L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -24,5 +24,10 @@ Tienes [Marca Amazon - find. Regular Oxford - Camisa Hombre  Oro  óxido   L  La
 
 ℹ️:
 
+- Cuello abotonado.
+- Cuello y puños forrados estampados.
+- Detalle de bolsillo frontal.
+- Algodón tejido.
+- Mangas largas.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07N4B7CLP/?tag=tolees-21)

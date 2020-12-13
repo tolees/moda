@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 62.53 % en Superdry VL O tee Camisa  Verde  Pine Gr'
-date: 2020-11-22 10:36:13
+date: 2020-12-12 23:22:28
 image: 'https://m.media-amazon.com/images/I/418WS1DCyaL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -24,5 +24,6 @@ Tienes [Superdry VL O tee Camisa  Verde  Pine Green Gci   S para Hombre](https:/
 
 ℹ️:
 
+- Las prendas de Superdry son fabricadas con un adecuado balance entre estilo y confort; recomendamos una talla superior a la que emplea habitualmente para una auténtica experiencia Superdry
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07YLY5ZG9/?tag=tolees-21)
