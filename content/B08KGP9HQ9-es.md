@@ -24,10 +24,10 @@ Ahora mismo tienes [Charles Wilson Pantalón De Chándal De Felpa con Dobladillo
 
 🔎:
 
+- Apertura relajada de piernas
+- Cintura elástica
+- Joggers de felpa de mezcla de algodón
 - Adecuado para descansar o hacer ejercicio
 - Cordones blancos
-- Joggers de felpa de mezcla de algodón
-- Cintura elástica
-- Apertura relajada de piernas
 
 [Visítala!!!](https://www.amazon.es/dp/B08KGP9HQ9/?tag=tolees-21)

@@ -24,10 +24,10 @@ Tienes [Marca Amazon - find. Regular Oxford - Camisa Hombre  Oro  óxido   L  La
 
 ℹ️:
 
+- Mangas largas.
 - Cuello abotonado.
 - Cuello y puños forrados estampados.
 - Detalle de bolsillo frontal.
 - Algodón tejido.
-- Mangas largas.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07N4B7CLP/?tag=tolees-21)
