@@ -24,7 +24,7 @@ Está [Superdry Everest Bomber Parka  negro  XXL para Hombre](https://www.amazon
 
 ℹ️:
 
-- Casual y vintage
 - Las prendas de Superdry son fabricadas con un adecuado balance entre estilo y confort; recomendamos una talla superior a la que emplea habitualmente para una auténtica experiencia Superdry
+- Casual y vintage
 
 [Ver la oferta!!](https://www.amazon.es/dp/B082YRGZZH/?tag=tolees-21)

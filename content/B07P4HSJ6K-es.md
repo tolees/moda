@@ -24,7 +24,7 @@ Ahora mismo tienes [Superdry Everest Bomber Chaqueta  Azul  Nautical Navy 09s   
 
 🔎:
 
-- Casual y vintage
 - Las prendas de Superdry son fabricadas con un adecuado balance entre estilo y confort; recomendamos una talla superior a la que emplea habitualmente para una auténtica experiencia Superdry
+- Casual y vintage
 
 [Visítala!!!](https://www.amazon.es/dp/B07P4HSJ6K/?tag=tolees-21)
