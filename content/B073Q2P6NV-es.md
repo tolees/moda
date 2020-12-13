@@ -25,8 +25,8 @@ Tienes [JACK & JONES JACWAISTBAND TRUNKS 3 PACK NOOS Bóxer  Gris  Asphalt Detai
 ℹ️:
 
 - Paquete Triple
+- Pretina Ancha
 - Conjunto De Calzoncillos Boxer
 - Estiramiento
-- Pretina Ancha
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B073Q2P6NV/?tag=tolees-21)
