@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 34.13 % en Tommy Hilfiger Original Stretch Camisa  '
-date: 2020-12-12 10:59:47
+date: 2020-12-13 16:41:00
 image: 'https://m.media-amazon.com/images/I/41LjaX7UzDL._SL200_.jpg'
 comments: true
 category: ofertas
