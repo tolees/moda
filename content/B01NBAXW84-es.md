@@ -24,8 +24,8 @@ Está [Vero Moda Vmseven NW SS Smooth Coated Pants Noos Pantalones  Negro  Black
 
 ℹ️:
 
-- Marca: Vero Moda
-- Pantalón de color negro. Cierre con cremallera y botón. Corte slim fit. Cinco bolsillos. Detalle bordado.
 - Modelo: 10138972 VMSEVEN NW SS SMOOTH COATED PANTS NOOS BLACK
+- Pantalón de color negro. Cierre con cremallera y botón. Corte slim fit. Cinco bolsillos. Detalle bordado.
+- Marca: Vero Moda
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01NBAXW84/?tag=tolees-21)

@@ -24,10 +24,10 @@ Ahora mismo tienes [IEFIEL Ropa Niña Traje de Deportiva Conjunto Pantalones Cor
 
 🔎:
 
+- Conjunto ropa verano de niña.
+- Suave y la tela suave, cómoda y transpirable para llevar.
+- Manga corta, cuello elástico.
 - Adecuado para la clase de danza, gimnasia, escenario, etc
 - Pantalón con cintura elástica.
-- Suave y la tela suave, cómoda y transpirable para llevar.
-- Conjunto ropa verano de niña.
-- Manga corta, cuello elástico.
 
 [Visítala!!!](https://www.amazon.es/dp/B07GGRCN1B/?tag=tolees-21)
