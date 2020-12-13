@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 48.89 % en Only Onlsedona Boucle Wool Coat Otw Noos'
-date: 2020-12-12 08:10:03
+date: 2020-12-13 13:07:48
 image: 'https://m.media-amazon.com/images/I/41AKoYBXTbL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -24,7 +24,7 @@ Tienes [Only Onlsedona Boucle Wool Coat Otw Noos Abrigo  Gris  Light Grey Melang
 
 ℹ️:
 
-- Boucle - Abrigo de lana
 - Con capucha.
+- Boucle - Abrigo de lana
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07DFN8ZRF/?tag=tolees-21)

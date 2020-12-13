@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'G-STAR RAW Midge Zip Mid Waist Skinny Va al 35.37 % de descuento'
-date: 2020-12-12 08:09:51
+date: 2020-12-13 13:06:51
 image: 'https://m.media-amazon.com/images/I/41RKPzc7jJL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -22,7 +22,7 @@ Ahora mismo tienes [G-STAR RAW Midge Zip Mid Waist Skinny Vaqueros  Dark Aged D0
 
 [![G-STAR RAW Midge Zip Mid Waist Skinny Va](https://m.media-amazon.com/images/I/41RKPzc7jJL._SL200_.jpg)](https://www.amazon.es/dp/B0752BGQRC/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 - Elástico y estable.
 - Denim de peso medio de 10,2 oz.
