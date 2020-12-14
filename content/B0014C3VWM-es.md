@@ -25,11 +25,11 @@ Ahora mismo tienes [Crocs Classic Clog  Zuecos Unisex Adulto  Marrón  Khaki 260
 
 🔎:
 
-- Material exterior: Espuma
 - Composición: Sintético
-- Revestimiento: Sin forro
 - Tipo de tacón: Plano
+- Revestimiento: Sin forro
 - Material de la suela: Sintético
 - Cierre: Tira de tobillo
+- Material exterior: Espuma
 
 [Visítala!!!](https://www.amazon.es/dp/B0014C3VWM/?tag=tolees-21)
