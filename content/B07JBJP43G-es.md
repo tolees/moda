@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JBJP43G/?tag=tolees-21'
 descuento: '45.47'
+average: '24.51'
 ---
 
 Ahora mismo tienes [Skechers Go Run 600-Sunrise  Sandalias de Punta Descubierta para Mujer  Naranja  Orange Org   36 EU](https://www.amazon.es/dp/B07JBJP43G/?tag=tolees-21) a 24.51 EUR (original: 44.95 EUR) (45.47 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GCHG9M5/?tag=tolees-21'
 descuento: '59.75'
+average: '23.75'
 ---
 
 Tienes [El Ganso Big Checks Cuello Botón Camisa Casual  Hombre   Verde/Blanco 11   Large  Tamaño del Fabricante:L ](https://www.amazon.es/dp/B07GCHG9M5/?tag=tolees-21) con un 59.75 % de descuento con precio de oferta de 23.75 EUR (original: 59 EUR) en el siguiente enlace!

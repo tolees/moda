@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073RKPBMH/?tag=tolees-21'
 descuento: '71.03'
+average: '7.24'
 ---
 
 Está [Only Onlriga Utility Shirt Solid Wvn  Blusa Mujer  Azul  Night Sky   38](https://www.amazon.es/dp/B073RKPBMH/?tag=tolees-21) con 71.03 de descuento por 7.24 EUR (original: 24.99 EUR) en el siguiente enlace!

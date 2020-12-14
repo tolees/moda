@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BSLPC5R/?tag=tolees-21'
 descuento: '63.62'
+average: '28.74'
 ---
 
 Tienes [REPLAY M3666 .000.21842 Sudadera  Azul  Blue 85   Medium para Hombre](https://www.amazon.es/dp/B07BSLPC5R/?tag=tolees-21) con un 63.62 % de descuento con precio de oferta de 28.74 EUR (original: 79 EUR) en el siguiente enlace!

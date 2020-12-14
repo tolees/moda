@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00K5ORULS/?tag=tolees-21'
 descuento: '75.45'
+average: '46.4'
 ---
 
 Ahora mismo tienes [Nebulus Chaqueta Terry Azul Oscuro 2XL](https://www.amazon.es/dp/B00K5ORULS/?tag=tolees-21) a 46.4 EUR (original: 189 EUR) (75.45 %  de descuento) en el siguiente enlace!

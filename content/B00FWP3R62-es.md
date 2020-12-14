@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00FWP3R62/?tag=tolees-21'
 descuento: '61.08'
+average: '23.33'
 ---
 
 Ahora mismo tienes [Cross - Vaqueros Skinny fit para Mujer  Talla W29 / L32  ES 40   Color Blanco](https://www.amazon.es/dp/B00FWP3R62/?tag=tolees-21) a 23.33 EUR (original: 59.95 EUR) (61.08 %  de descuento) en el siguiente enlace!

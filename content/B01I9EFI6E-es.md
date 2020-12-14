@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01I9EFI6E/?tag=tolees-21'
 descuento: '40.25'
+average: '11.95'
 ---
 
 Está [Nike M Nsw Tee Club Embrd Ftra  Camiseta de Manga Corta para Hombre  Blanco  White / Black   L](https://www.amazon.es/dp/B01I9EFI6E/?tag=tolees-21) con 40.25 de descuento por 11.95 EUR (original: 20 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0728CNYD5/?tag=tolees-21'
 descuento: '39.98'
+average: '18'
 ---
 
 Está [Crocs Crocband II Sandal PS K  Sandalias Unisex Niños  Rojo  Pepper/Blue Jean   19/20 EU](https://www.amazon.es/dp/B0728CNYD5/?tag=tolees-21) con 39.98 de descuento por 18 EUR (original: 29.99 EUR) en el siguiente enlace!

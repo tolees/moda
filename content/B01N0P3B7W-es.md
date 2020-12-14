@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N0P3B7W/?tag=tolees-21'
 descuento: '61.91'
+average: '12.19'
 ---
 
 Ahora mismo tienes [FIND Sudadera Oversized con Volantes para Mujer   Rosa  Old Rose   44  Talla del Fabricante: X-Large ](https://www.amazon.es/dp/B01N0P3B7W/?tag=tolees-21) a 12.19 EUR (original: 32 EUR) (61.91 %  de descuento) en el siguiente enlace!

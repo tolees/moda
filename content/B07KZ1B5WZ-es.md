@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KZ1B5WZ/?tag=tolees-21'
 descuento: '36.81'
+average: '18.95'
 ---
 
 Está [Springfield 8.Gym.Vestido Corto Borda Vestido   Varios 98   Tamaño del Fabricante:36 para Mujer](https://www.amazon.es/dp/B07KZ1B5WZ/?tag=tolees-21) con 36.81 de descuento por 18.95 EUR (original: 29.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MRK938J/?tag=tolees-21'
 descuento: '30.66'
+average: '9.7'
 ---
 
 Tienes [Iris & Lilly Camiseta de Tirantes Body Natural para Mujer  Pack de 2  1 x Blanco & 1 x Azul Vaquero  X-Large](https://www.amazon.es/dp/B01MRK938J/?tag=tolees-21) con un 30.66 % de descuento con precio de oferta de 9.7 EUR (original: 13.99 EUR) en el siguiente enlace!

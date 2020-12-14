@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KGD6WFS/?tag=tolees-21'
 descuento: '69.11'
+average: '18.52'
 ---
 
 Está [BOSS tee 7 Camiseta  Negro  Black 101   XX-Large para Hombre](https://www.amazon.es/dp/B07KGD6WFS/?tag=tolees-21) con 69.11 de descuento por 18.52 EUR (original: 59.95 EUR) en el siguiente enlace!

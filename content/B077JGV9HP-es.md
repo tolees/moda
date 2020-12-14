@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077JGV9HP/?tag=tolees-21'
 descuento: '54.08'
+average: '29.85'
 ---
 
 Ahora mismo tienes [Volcom Sngl STN P/O Sudadera  Hombre  Gris  Storm   L](https://www.amazon.es/dp/B077JGV9HP/?tag=tolees-21) a 29.85 EUR (original: 65 EUR) (54.08 %  de descuento) en el siguiente enlace!

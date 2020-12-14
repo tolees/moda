@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B018XRILWU/?tag=tolees-21'
 descuento: '31.59'
+average: '34.2'
 ---
 
 Tienes [Columbia St. Anthony Women s Glove Guantes  Mujer  Crossdye/Black Melange  Talla S](https://www.amazon.es/dp/B018XRILWU/?tag=tolees-21) con un 31.59 % de descuento con precio de oferta de 34.2 EUR (original: 49.99 EUR) en el siguiente enlace!

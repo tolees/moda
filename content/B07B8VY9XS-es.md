@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07B8VY9XS/?tag=tolees-21'
 descuento: '77.52'
+average: '33.72'
 ---
 
 Tienes [Clarks Un Atlas Logtx  Zapatos de Cordones Derby para Hombre  Negro  Black Nubuck   41 EU](https://www.amazon.es/dp/B07B8VY9XS/?tag=tolees-21) con un 77.52 % de descuento con precio de oferta de 33.72 EUR (original: 150 EUR) en el siguiente enlace!

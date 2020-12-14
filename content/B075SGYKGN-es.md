@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075SGYKGN/?tag=tolees-21'
 descuento: '77.55'
+average: '5.61'
 ---
 
 Tienes [Springfield 1082620 Sudadera  Negro  Black   Medium  Tamaño del Fabricante:M  para Mujer](https://www.amazon.es/dp/B075SGYKGN/?tag=tolees-21) con un 77.55 % de descuento con precio de oferta de 5.61 EUR (original: 24.99 EUR) en el siguiente enlace!

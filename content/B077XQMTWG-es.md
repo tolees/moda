@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077XQMTWG/?tag=tolees-21'
 descuento: '45.00'
+average: '33'
 ---
 
 Ahora mismo tienes [Under Armour Spectrum Po - Sudadera con capucha para hombre  Azul  Academy/Royal   L](https://www.amazon.es/dp/B077XQMTWG/?tag=tolees-21) a 33 EUR (original: 60 EUR) (45.00 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00OKUJ714/?tag=tolees-21'
 descuento: '42.68'
+average: '108.9'
 ---
 
 Tienes [SERENGETI 8214 Gafas  Unisex Adulto  Gris  Satin Dark Grey   M/L](https://www.amazon.es/dp/B00OKUJ714/?tag=tolees-21) con un 42.68 % de descuento con precio de oferta de 108.9 EUR (original: 189.99 EUR) en el siguiente enlace!

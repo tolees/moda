@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071VNCHP2/?tag=tolees-21'
 descuento: '58.73'
+average: '6.19'
 ---
 
 Está [FIND Camiseta Estampada para Hombre  Blanco  White   Small](https://www.amazon.es/dp/B071VNCHP2/?tag=tolees-21) con 58.73 de descuento por 6.19 EUR (original: 15 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KJPYQX7/?tag=tolees-21'
 descuento: '78.68'
+average: '25.37'
 ---
 
 Ahora mismo tienes [REPLAY Zackie  Vaqueros Skinny para Mujer  Negro  Black 7  W23/L28  Talla del Fabricante: 23 ](https://www.amazon.es/dp/B07KJPYQX7/?tag=tolees-21) a 25.37 EUR (original: 119 EUR) (78.68 %  de descuento) en el siguiente enlace!

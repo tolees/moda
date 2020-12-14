@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FJYHYPW/?tag=tolees-21'
 descuento: '44.60'
+average: '25.2'
 ---
 
 Está [Ipanema Charm Vi Sand Fem  Sandalias con Tira Vertical para Mujer   Light Pink 8673   35/36 EU](https://www.amazon.es/dp/B07FJYHYPW/?tag=tolees-21) con 44.60 de descuento por 25.2 EUR (original: 45.49 EUR) en el siguiente enlace!

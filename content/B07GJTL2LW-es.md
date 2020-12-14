@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GJTL2LW/?tag=tolees-21'
 descuento: '46.56'
+average: '29.34'
 ---
 
 Tienes [Carrera Boxer Nbx  Zapatillas de Cross para Hombre  Verde  Catfish 02   44 EU](https://www.amazon.es/dp/B07GJTL2LW/?tag=tolees-21) con un 46.56 % de descuento con precio de oferta de 29.34 EUR (original: 54.9 EUR) en el siguiente enlace!

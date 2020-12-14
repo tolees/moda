@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DBK7BYW/?tag=tolees-21'
 descuento: '72.64'
+average: '10.93'
 ---
 
 Ahora mismo tienes [United Colors of Benetton Jacket  Chaqueta para Niños  Gris  Grey 63z  92  Talla del Fabricante: 1y ](https://www.amazon.es/dp/B07DBK7BYW/?tag=tolees-21) a 10.93 EUR (original: 39.95 EUR) (72.64 %  de descuento) en el siguiente enlace!

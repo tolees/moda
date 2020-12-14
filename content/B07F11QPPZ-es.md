@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F11QPPZ/?tag=tolees-21'
 descuento: '82.56'
+average: '23.54'
 ---
 
 Tienes [BILLABONG Barlow Trucker Chaqueta  Hombre  Marrón  Tobacco 2845   Medium  Tamaño del Fabricante:M ](https://www.amazon.es/dp/B07F11QPPZ/?tag=tolees-21) con un 82.56 % de descuento con precio de oferta de 23.54 EUR (original: 135 EUR) en el siguiente enlace!

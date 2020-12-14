@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D1WYJ5Y/?tag=tolees-21'
 descuento: '56.42'
+average: '23.97'
 ---
 
 Está [Armani Exchange 8nyt83  Camiseta para Mujer  Naranja  Spritz 1640  X-Small](https://www.amazon.es/dp/B07D1WYJ5Y/?tag=tolees-21) con 56.42 de descuento por 23.97 EUR (original: 55 EUR) en el siguiente enlace!

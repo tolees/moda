@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07612CXFB/?tag=tolees-21'
 descuento: '47.72'
+average: '10.45'
 ---
 
 Está [JACK & JONES Jacbasic V-Neck tee SS 2 Pack Camiseta  Negro Black  XX-Large  Hombre](https://www.amazon.es/dp/B07612CXFB/?tag=tolees-21) con 47.72 de descuento por 10.45 EUR (original: 19.99 EUR) en el siguiente enlace!

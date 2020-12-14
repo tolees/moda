@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B019RQMG68/?tag=tolees-21'
 descuento: '53.73'
+average: '9.81'
 ---
 
 Tienes [New Look Falda Negro ES 36  UK 8 ](https://www.amazon.es/dp/B019RQMG68/?tag=tolees-21) con un 53.73 % de descuento con precio de oferta de 9.81 EUR (original: 21.2 EUR) en el siguiente enlace!

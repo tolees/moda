@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B007WQ5NVG/?tag=tolees-21'
 descuento: '47.92'
+average: '23.99'
 ---
 
 Tienes [Ellesse - Chaqueta para Hombre  tamaño L  Color Azul](https://www.amazon.es/dp/B007WQ5NVG/?tag=tolees-21) con un 47.92 % de descuento con precio de oferta de 23.99 EUR (original: 46.06 EUR) en el siguiente enlace!

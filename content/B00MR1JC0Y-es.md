@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00MR1JC0Y/?tag=tolees-21'
 descuento: '82.00'
+average: '12.45'
 ---
 
 Está [STEVE MADDEN DONDDI - Sandalias clásicas para Mujer  Color Black/White  Talla 38](https://www.amazon.es/dp/B00MR1JC0Y/?tag=tolees-21) con 82.00 de descuento por 12.45 EUR (original: 69.16 EUR) en el siguiente enlace!

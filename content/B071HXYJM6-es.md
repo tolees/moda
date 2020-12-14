@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071HXYJM6/?tag=tolees-21'
 descuento: '58.75'
+average: '12.37'
 ---
 
 Ahora mismo tienes [edc by Esprit 097cc1k047  Camisa Manga Larga Mujer  Morado  Aubergine 3 517   X-Small](https://www.amazon.es/dp/B071HXYJM6/?tag=tolees-21) a 12.37 EUR (original: 29.99 EUR) (58.75 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01LW2L9V2/?tag=tolees-21'
 descuento: '40.01'
+average: '35.99'
 ---
 
 Ahora mismo tienes [LANGRIA Armario Modular  Estantería por Módulos  Armario de Almacenaje  Para Ropa  Zapatos  Juguetes y Libros  Panel Repujado  16 Cubos con Puertas](https://www.amazon.es/dp/B01LW2L9V2/?tag=tolees-21) a 35.99 EUR (original: 59.99 EUR) (40.01 %  de descuento) en el siguiente enlace!

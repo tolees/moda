@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DL3HQTL/?tag=tolees-21'
 descuento: '50.10'
+average: '24.95'
 ---
 
 Está [Nike G NSW Hoodie FZ PE Chaqueta  Azul Void/htr/Blue Chill  M para Niñas](https://www.amazon.es/dp/B07DL3HQTL/?tag=tolees-21) con 50.10 de descuento por 24.95 EUR (original: 50 EUR) en el siguiente enlace!

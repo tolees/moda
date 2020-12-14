@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DYXW3V5/?tag=tolees-21'
 descuento: '42.04'
+average: '57.95'
 ---
 
 Tienes [Columbia Powder Lite - Chaqueta  Hombre  Azul  Dark Mountain   Talla XL](https://www.amazon.es/dp/B07DYXW3V5/?tag=tolees-21) con un 42.04 % de descuento con precio de oferta de 57.95 EUR (original: 99.99 EUR) en el siguiente enlace!

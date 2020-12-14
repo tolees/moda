@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077Z52VQF/?tag=tolees-21'
 descuento: '50.32'
+average: '49.18'
 ---
 
 Tienes [HUGO Men Evory  Camisa Hombre  Blanco  Open White 199   X-Large](https://www.amazon.es/dp/B077Z52VQF/?tag=tolees-21) con un 50.32 % de descuento con precio de oferta de 49.18 EUR (original: 99 EUR) en el siguiente enlace!

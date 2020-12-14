@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07B4JJRS7/?tag=tolees-21'
 descuento: '44.62'
+average: '72'
 ---
 
 Tienes [Timberland Bradstreet Perf Plain Toe Oxford  Zapatillas para Hombre  Negro  Black Nubuck   43 EU](https://www.amazon.es/dp/B07B4JJRS7/?tag=tolees-21) con un 44.62 % de descuento con precio de oferta de 72 EUR (original: 130 EUR) en el siguiente enlace!

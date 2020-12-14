@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0781VYS4S/?tag=tolees-21'
 descuento: '63.33'
+average: '20.17'
 ---
 
 Ahora mismo tienes [Under Armour Sc30 - Sudadera con Capucha y Forro Polar para niños  Infantil  Color Negro/Gris  tamaño Youth Medium](https://www.amazon.es/dp/B0781VYS4S/?tag=tolees-21) a 20.17 EUR (original: 55 EUR) (63.33 %  de descuento) en el siguiente enlace!

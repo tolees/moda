@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00VWYIC9E/?tag=tolees-21'
 descuento: '69.50'
+average: '3.95'
 ---
 
 Tienes [Joma Crew Camiseta de Manga Corta  Hombre  Verde  S](https://www.amazon.es/dp/B00VWYIC9E/?tag=tolees-21) con un 69.50 % de descuento con precio de oferta de 3.95 EUR (original: 12.95 EUR) en el siguiente enlace!

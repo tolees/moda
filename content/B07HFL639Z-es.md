@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HFL639Z/?tag=tolees-21'
 descuento: '38.83'
+average: '12.84'
 ---
 
 Está [Levi s Levis 200sf Denim Brief 2p Bóxer  Negro  Caviar 703   Small  Pack de 2 para Hombre](https://www.amazon.es/dp/B07HFL639Z/?tag=tolees-21) con 38.83 de descuento por 12.84 EUR (original: 20.99 EUR) en el siguiente enlace!

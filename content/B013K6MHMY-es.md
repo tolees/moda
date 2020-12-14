@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B013K6MHMY/?tag=tolees-21'
 descuento: '90.01'
+average: '8.3'
 ---
 
 Está [Bellybutton Pauline - Kleid 1/2 Arm  Vestido Mujer  Rojo  Tomato 2052   40](https://www.amazon.es/dp/B013K6MHMY/?tag=tolees-21) con 90.01 de descuento por 8.3 EUR (original: 83.11 EUR) en el siguiente enlace!

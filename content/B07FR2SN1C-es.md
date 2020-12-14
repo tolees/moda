@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FR2SN1C/?tag=tolees-21'
 descuento: '46.94'
+average: '31.83'
 ---
 
 Está [Naf Naf Jhnr79d Vestido  Negro  Noir 625   42 para Mujer](https://www.amazon.es/dp/B07FR2SN1C/?tag=tolees-21) con 46.94 de descuento por 31.83 EUR (original: 59.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MXXLKMV/?tag=tolees-21'
 descuento: '49.43'
+average: '20.1'
 ---
 
 Está [Superdry Vintage Logo Monochrome tee Camiseta  Blanco  Optic 01c   X-Large para Hombre](https://www.amazon.es/dp/B07MXXLKMV/?tag=tolees-21) con 49.43 de descuento por 20.1 EUR (original: 39.75 EUR) en el siguiente enlace!

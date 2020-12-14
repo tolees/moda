@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DJ2P54C/?tag=tolees-21'
 descuento: '80.39'
+average: '6.63'
 ---
 
 Tienes [United Colors of Benetton Dress  Vestido para Niñas  Gris  Melange Dark Gray 507   90  Talla del fabricante: 2Y ](https://www.amazon.es/dp/B07DJ2P54C/?tag=tolees-21) con un 80.39 % de descuento con precio de oferta de 6.63 EUR (original: 33.81 EUR) en el siguiente enlace!

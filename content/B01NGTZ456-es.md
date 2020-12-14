@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01NGTZ456/?tag=tolees-21'
 descuento: '50.00'
+average: '67.5'
 ---
 
 Está [Timberland Bradstreet 3 Eyeblack Iris Nubuck  Náuticos Para Hombre  Azul  Black Iris Nubuck   45.5 EU](https://www.amazon.es/dp/B01NGTZ456/?tag=tolees-21) con 50.00 de descuento por 67.5 EUR (original: 135 EUR) en el siguiente enlace!

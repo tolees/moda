@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KTH5TK1/?tag=tolees-21'
 descuento: '78.67'
+average: '29.65'
 ---
 
 Está [United Colors of Benetton Hombre Heavy Jacket Parka Not Applicable  Azul  BLU Scuro 016   Talla única  Talla del Fabricante: 52 ](https://www.amazon.es/dp/B07KTH5TK1/?tag=tolees-21) con 78.67 de descuento por 29.65 EUR (original: 139 EUR) en el siguiente enlace!

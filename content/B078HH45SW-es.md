@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078HH45SW/?tag=tolees-21'
 descuento: '69.41'
+average: '7.95'
 ---
 
 Tienes [Springfield Camisa Manga Corta Camisa Casual  Hombre  Rojo  Gama Rojos   Medium  Tamaño del Fabricante:M ](https://www.amazon.es/dp/B078HH45SW/?tag=tolees-21) con un 69.41 % de descuento con precio de oferta de 7.95 EUR (original: 25.99 EUR) en el siguiente enlace!

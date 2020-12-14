@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07K4WH36H/?tag=tolees-21'
 descuento: '51.88'
+average: '9.62'
 ---
 
 Ahora mismo tienes [JACK & JONES Jcoscales Polo SS Camiseta  Azul  Hawaiian Ocean Fit: Slim Melange   Small para Hombre](https://www.amazon.es/dp/B07K4WH36H/?tag=tolees-21) a 9.62 EUR (original: 19.99 EUR) (51.88 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KYT35Z3/?tag=tolees-21'
 descuento: '41.89'
+average: '13.36'
 ---
 
 Tienes [Cortefiel SP Frq Camiseta Foto Play  Blanco 99   X-Large  Tamaño del Fabricante:XL  para Hombre](https://www.amazon.es/dp/B07KYT35Z3/?tag=tolees-21) con un 41.89 % de descuento con precio de oferta de 13.36 EUR (original: 22.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072MFNBHX/?tag=tolees-21'
 descuento: '32.95'
+average: '25.48'
 ---
 
 Tienes [Pepe Jeans Duetone Bolso Bandolera  25 cm  3.25 Litros  Negro](https://www.amazon.es/dp/B072MFNBHX/?tag=tolees-21) con un 32.95 % de descuento con precio de oferta de 25.48 EUR (original: 38 EUR) en el siguiente enlace!

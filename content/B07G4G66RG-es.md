@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07G4G66RG/?tag=tolees-21'
 descuento: '49.94'
+average: '22.5'
 ---
 
 Ahora mismo tienes [BOSS Mix&Match LS Shirt R  Camiseta de Manga Larga para Hombre  Azul  Open Blue 480  Large](https://www.amazon.es/dp/B07G4G66RG/?tag=tolees-21) a 22.5 EUR (original: 44.95 EUR) (49.94 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JGD7JHK/?tag=tolees-21'
 descuento: '45.95'
+average: '37.81'
 ---
 
 Ahora mismo tienes [PUMA Cosmic Jacket TZ Chaqueta De Entrenamiento  Mujer  Negro Black  XL](https://www.amazon.es/dp/B07JGD7JHK/?tag=tolees-21) a 37.81 EUR (original: 69.95 EUR) (45.95 %  de descuento) en el siguiente enlace!

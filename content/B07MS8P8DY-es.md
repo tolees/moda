@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MS8P8DY/?tag=tolees-21'
 descuento: '53.99'
+average: '13.2'
 ---
 
 Ahora mismo tienes [Eono Essentials - Chaqueta de senderismo de entretiempo para mujer  XL  aura astral ](https://www.amazon.es/dp/B07MS8P8DY/?tag=tolees-21) a 13.2 EUR (original: 28.69 EUR) (53.99 %  de descuento) en el siguiente enlace!

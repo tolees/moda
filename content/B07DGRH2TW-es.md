@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DGRH2TW/?tag=tolees-21'
 descuento: '42.99'
+average: '107.13'
 ---
 
 Tienes [Timberland Heritage Lite  Botas para Mujer  Beige  Wheat Nubuck Monochromatic 231   37 EU](https://www.amazon.es/dp/B07DGRH2TW/?tag=tolees-21) con un 42.99 % de descuento con precio de oferta de 107.13 EUR (original: 187.93 EUR) en el siguiente enlace!

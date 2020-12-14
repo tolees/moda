@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B011PMD3GE/?tag=tolees-21'
 descuento: '49.30'
+average: '45.63'
 ---
 
 Ahora mismo tienes [Marmot 83900-001-5 Chaqueta  Hombre  Negro  L](https://www.amazon.es/dp/B011PMD3GE/?tag=tolees-21) a 45.63 EUR (original: 90 EUR) (49.30 %  de descuento) en el siguiente enlace!

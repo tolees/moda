@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FSQG5SP/?tag=tolees-21'
 descuento: '85.32'
+average: '8.8'
 ---
 
 Tienes [Lee Relaxed Western Blusa  Marfil  Faded Green LF   38  Talla del Fabricante: X-Small  para Mujer](https://www.amazon.es/dp/B07FSQG5SP/?tag=tolees-21) con un 85.32 % de descuento con precio de oferta de 8.8 EUR (original: 59.95 EUR) en el siguiente enlace!

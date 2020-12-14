@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07173XJTY/?tag=tolees-21'
 descuento: '74.28'
+average: '17.99'
 ---
 
 Tienes [Tamaris - Bimba Shopping Bag  Bolso Mujer  Grau  Graphite Comb.   12x32x34 cm  B x H T ](https://www.amazon.es/dp/B07173XJTY/?tag=tolees-21) con un 74.28 % de descuento con precio de oferta de 17.99 EUR (original: 69.95 EUR) en el siguiente enlace!

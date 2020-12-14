@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01NAL4QPJ/?tag=tolees-21'
 descuento: '47.91'
+average: '36.44'
 ---
 
 Ahora mismo tienes [BOSS Orange 50369465  Camiseta Para Hombre  Gris  Open White 120   Large](https://www.amazon.es/dp/B01NAL4QPJ/?tag=tolees-21) a 36.44 EUR (original: 69.95 EUR) (47.91 %  de descuento) en el siguiente enlace!

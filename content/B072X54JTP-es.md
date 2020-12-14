@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072X54JTP/?tag=tolees-21'
 descuento: '47.37'
+average: '36.79'
 ---
 
 Tienes [Calvin Klein K30K300747543002  Camisa Para Hombre  Azul  Denim   42](https://www.amazon.es/dp/B072X54JTP/?tag=tolees-21) con un 47.37 % de descuento con precio de oferta de 36.79 EUR (original: 69.9 EUR) en el siguiente enlace!

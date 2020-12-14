@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00T7YOXQC/?tag=tolees-21'
 descuento: '25.31'
+average: '11.95'
 ---
 
 Está [adidas Estro 15 JSY - Camiseta para hombre  color azul oscuro/blanco  talla L](https://www.amazon.es/dp/B00T7YOXQC/?tag=tolees-21) con 25.31 de descuento por 11.95 EUR (original: 16 EUR) en el siguiente enlace!

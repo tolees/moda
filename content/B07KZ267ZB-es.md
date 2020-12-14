@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KZ267ZB/?tag=tolees-21'
 descuento: '52.11'
+average: '11.49'
 ---
 
 Está [Springfield 3 Pack Granates Gaviotas Bóxer   Gama Rojo 68   Medium  Tamaño del Fabricante:M  para Hombre](https://www.amazon.es/dp/B07KZ267ZB/?tag=tolees-21) con 52.11 de descuento por 11.49 EUR (original: 23.99 EUR) en el siguiente enlace!

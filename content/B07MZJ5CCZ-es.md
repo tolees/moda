@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MZJ5CCZ/?tag=tolees-21'
 descuento: '44.66'
+average: '19.37'
 ---
 
 Tienes [Superdry Dry Originals S/S Pocket tee Camiseta  Rosa  Florida Pink Space Dye Z2H   S para Hombre](https://www.amazon.es/dp/B07MZJ5CCZ/?tag=tolees-21) con un 44.66 % de descuento con precio de oferta de 19.37 EUR (original: 35 EUR) en el siguiente enlace!

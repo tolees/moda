@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071WLR23G/?tag=tolees-21'
 descuento: '36.87'
+average: '31.5'
 ---
 
 Está [Crocs Crocband U  Zuecos Unisex Adulto  Amarillo  Tennis Ball Green-Ocean   38-39 EU](https://www.amazon.es/dp/B071WLR23G/?tag=tolees-21) con 36.87 de descuento por 31.5 EUR (original: 49.9 EUR) en el siguiente enlace!

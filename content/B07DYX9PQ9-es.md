@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DYX9PQ9/?tag=tolees-21'
 descuento: '54.45'
+average: '59.21'
 ---
 
 Está [Columbia Chaqueta Impermeable con Capucha para Hombre  Powder Lite Hooded Jacket  Rojo  Red Element   Talla L](https://www.amazon.es/dp/B07DYX9PQ9/?tag=tolees-21) con 54.45 de descuento por 59.21 EUR (original: 129.99 EUR) en el siguiente enlace!

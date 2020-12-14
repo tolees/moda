@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0725RJHB4/?tag=tolees-21'
 descuento: '43.92'
+average: '62.23'
 ---
 
 Tienes [Love Moschino Short Sleeve T-Shirt with Love Embossing Print  Camiseta Mujer  Rosa  Fuxia O49   40  Talla del Fabricante: 44 ](https://www.amazon.es/dp/B0725RJHB4/?tag=tolees-21) con un 43.92 % de descuento con precio de oferta de 62.23 EUR (original: 110.96 EUR) en el siguiente enlace!

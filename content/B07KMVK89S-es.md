@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KMVK89S/?tag=tolees-21'
 descuento: '50.03'
+average: '14.99'
 ---
 
 Tienes [Volcom Halfer BSC SS Camiseta  Hombre  Black  XS](https://www.amazon.es/dp/B07KMVK89S/?tag=tolees-21) con un 50.03 % de descuento con precio de oferta de 14.99 EUR (original: 30 EUR) en el siguiente enlace!

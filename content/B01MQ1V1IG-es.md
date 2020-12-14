@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MQ1V1IG/?tag=tolees-21'
 descuento: '30.35'
+average: '69.65'
 ---
 
 Tienes [Lacoste Sport SH2128  Sudadera para Hombre  Multicolor  Argent Chine/Marine  Medium  Talla del fabricante: 4 ](https://www.amazon.es/dp/B01MQ1V1IG/?tag=tolees-21) con un 30.35 % de descuento con precio de oferta de 69.65 EUR (original: 100 EUR) en el siguiente enlace!

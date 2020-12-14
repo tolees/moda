@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FDCYVDX/?tag=tolees-21'
 descuento: '32.65'
+average: '12.09'
 ---
 
 Está [Disney Mickey 4809  Pijama para Niños  Azul Bleu  6 años](https://www.amazon.es/dp/B07FDCYVDX/?tag=tolees-21) con 32.65 de descuento por 12.09 EUR (original: 17.95 EUR) en el siguiente enlace!

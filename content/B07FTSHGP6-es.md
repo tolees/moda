@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FTSHGP6/?tag=tolees-21'
 descuento: '67.79'
+average: '32.19'
 ---
 
 Está [Lee Slim Rider Chaqueta Vaquera  Azul  Flick Dark Ka   X-Large para Hombre](https://www.amazon.es/dp/B07FTSHGP6/?tag=tolees-21) con 67.79 de descuento por 32.19 EUR (original: 99.95 EUR) en el siguiente enlace!

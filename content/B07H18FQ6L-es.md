@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07H18FQ6L/?tag=tolees-21'
 descuento: '36.60'
+average: '62.77'
 ---
 
 Está [Gant The Original Heavy Rugger  Camisa Manga Larga para Hombre  Azul  Marine Melange 487  Medium](https://www.amazon.es/dp/B07H18FQ6L/?tag=tolees-21) con 36.60 de descuento por 62.77 EUR (original: 99 EUR) en el siguiente enlace!

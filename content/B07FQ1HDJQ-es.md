@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FQ1HDJQ/?tag=tolees-21'
 descuento: '36.99'
+average: '63'
 ---
 
 Ahora mismo tienes [RIP CURL High Seas Jacket Chaqueta  Mujer  Black  M](https://www.amazon.es/dp/B07FQ1HDJQ/?tag=tolees-21) a 63 EUR (original: 99.99 EUR) (36.99 %  de descuento) en el siguiente enlace!

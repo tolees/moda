@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079C54VXJ/?tag=tolees-21'
 descuento: '54.20'
+average: '5.95'
 ---
 
 Está [JACK & JONES Jjepocket tee SS O-Neck Noos Camiseta  Verde  Olive Night Detail: Slim Fit   Large para Hombre](https://www.amazon.es/dp/B079C54VXJ/?tag=tolees-21) con 54.20 de descuento por 5.95 EUR (original: 12.99 EUR) en el siguiente enlace!

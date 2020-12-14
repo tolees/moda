@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07B94NK9V/?tag=tolees-21'
 descuento: '57.43'
+average: '46.83'
 ---
 
 Ahora mismo tienes [Clarks Atticus Lace  Zapatos de Cordones Derby para Hombre  Negro  Black Leather   41.5 EU](https://www.amazon.es/dp/B07B94NK9V/?tag=tolees-21) a 46.83 EUR (original: 110 EUR) (57.43 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MZJWD92/?tag=tolees-21'
 descuento: '28.06'
+average: '17.95'
 ---
 
 Tienes [Superdry Premium Goods Duo Lite tee Camiseta  Azul  Nut Navy A7p   XS para Hombre](https://www.amazon.es/dp/B07MZJWD92/?tag=tolees-21) con un 28.06 % de descuento con precio de oferta de 17.95 EUR (original: 24.95 EUR) en el siguiente enlace!

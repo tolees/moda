@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079VWC37R/?tag=tolees-21'
 descuento: '45.82'
+average: '46.03'
 ---
 
 Ahora mismo tienes [Wrangler ARIZONA-W12OHY32D Vaqueros  Azul  Broke Blue 32D   34W / 30L para Hombre](https://www.amazon.es/dp/B079VWC37R/?tag=tolees-21) a 46.03 EUR (original: 84.95 EUR) (45.82 %  de descuento) en el siguiente enlace!

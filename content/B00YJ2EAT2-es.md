@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00YJ2EAT2/?tag=tolees-21'
 descuento: '53.22'
+average: '135.65'
 ---
 
 Está [Brooks Brothers Gilet Trapuntato - Chaleco Guateado para hombre  color verde  dark green 77   talla 52/L](https://www.amazon.es/dp/B00YJ2EAT2/?tag=tolees-21) con 53.22 de descuento por 135.65 EUR (original: 290 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075FZFQ8Y/?tag=tolees-21'
 descuento: '78.04'
+average: '30.74'
 ---
 
 Ahora mismo tienes [Clarks Unnature Plain  Zapatos de Cordones Derby para Hombre  Azul  Navy Nubuck   41.5 EU](https://www.amazon.es/dp/B075FZFQ8Y/?tag=tolees-21) a 30.74 EUR (original: 140 EUR) (78.04 %  de descuento) en el siguiente enlace!

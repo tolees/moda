@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00P7AV8FE/?tag=tolees-21'
 descuento: '60.60'
+average: '33.49'
 ---
 
 Tienes [Burton Support Guantes de Snowboard  Hombre  Negro  True   XS](https://www.amazon.es/dp/B00P7AV8FE/?tag=tolees-21) con un 60.60 % de descuento con precio de oferta de 33.49 EUR (original: 85 EUR) en el siguiente enlace!

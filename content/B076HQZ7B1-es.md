@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076HQZ7B1/?tag=tolees-21'
 descuento: '40.10'
+average: '11.95'
 ---
 
 Tienes [adidas Core 18 T Camiseta  Hombre  Blanco  White/Black   XL](https://www.amazon.es/dp/B076HQZ7B1/?tag=tolees-21) con un 40.10 % de descuento con precio de oferta de 11.95 EUR (original: 19.95 EUR) en el siguiente enlace!

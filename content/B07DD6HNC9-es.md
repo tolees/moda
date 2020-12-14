@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DD6HNC9/?tag=tolees-21'
 descuento: '65.43'
+average: '17.27'
 ---
 
 Está [Refresh 64760  Botines para Mujer  Marrón 38 EU](https://www.amazon.es/dp/B07DD6HNC9/?tag=tolees-21) con 65.43 de descuento por 17.27 EUR (original: 49.95 EUR) en el siguiente enlace!

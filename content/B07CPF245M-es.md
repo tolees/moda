@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CPF245M/?tag=tolees-21'
 descuento: '40.11'
+average: '23.95'
 ---
 
 Tienes [Crocs Sanrah Strappy Wedge  Zuecos para Mujer  Blanco  Silver/Pearl White 0l2   34/35 EU](https://www.amazon.es/dp/B07CPF245M/?tag=tolees-21) con un 40.11 % de descuento con precio de oferta de 23.95 EUR (original: 39.99 EUR) en el siguiente enlace!

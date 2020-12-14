@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0792TCWC8/?tag=tolees-21'
 descuento: '57.15'
+average: '29.95'
 ---
 
 Ahora mismo tienes [Geox J Kalispera Girl D  Zapatillas Altas para Niñas   Navy C4002   39 EU](https://www.amazon.es/dp/B0792TCWC8/?tag=tolees-21) a 29.95 EUR (original: 69.9 EUR) (57.15 %  de descuento) en el siguiente enlace!

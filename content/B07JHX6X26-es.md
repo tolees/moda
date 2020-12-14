@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JHX6X26/?tag=tolees-21'
 descuento: '43.41'
+average: '16.95'
 ---
 
 Tienes [Puma ESS Logo Leggins  Mujer  Cotton Black/Silver Metallic  L](https://www.amazon.es/dp/B07JHX6X26/?tag=tolees-21) con un 43.41 % de descuento con precio de oferta de 16.95 EUR (original: 29.95 EUR) en el siguiente enlace!

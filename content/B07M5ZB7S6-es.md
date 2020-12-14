@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07M5ZB7S6/?tag=tolees-21'
 descuento: '30.00'
+average: '90.97'
 ---
 
 Está [G-STAR RAW Tacoma Straight Flare Shirt Dress  Vestido Mujer  Negro  Rinsed 082   Medium](https://www.amazon.es/dp/B07M5ZB7S6/?tag=tolees-21) con 30.00 de descuento por 90.97 EUR (original: 129.95 EUR) en el siguiente enlace!

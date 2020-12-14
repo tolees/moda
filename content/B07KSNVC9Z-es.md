@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KSNVC9Z/?tag=tolees-21'
 descuento: '47.62'
+average: '13.09'
 ---
 
 Está [Columbia Hombre Camiseta  CSC Basic Logo  Algodón  Rosa  Rosewater   Talla: XL  1680051](https://www.amazon.es/dp/B07KSNVC9Z/?tag=tolees-21) con 47.62 de descuento por 13.09 EUR (original: 24.99 EUR) en el siguiente enlace!

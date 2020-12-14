@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FK6GJDK/?tag=tolees-21'
 descuento: '61.68'
+average: '7.66'
 ---
 
 Está [Esprit Kids RM1023509  Camiseta para Niñas  Gris  Dark Heather Grey 201   170  Talla del Fabricante: X-Large ](https://www.amazon.es/dp/B07FK6GJDK/?tag=tolees-21) con 61.68 de descuento por 7.66 EUR (original: 19.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072N5LGWJ/?tag=tolees-21'
 descuento: '54.19'
+average: '54.97'
 ---
 
 Ahora mismo tienes [Tommy Hilfiger TH 1493/S IR Gafas de sol  Havana Brown  53 Unisex-Adulto](https://www.amazon.es/dp/B072N5LGWJ/?tag=tolees-21) a 54.97 EUR (original: 120 EUR) (54.19 %  de descuento) en el siguiente enlace!

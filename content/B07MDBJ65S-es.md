@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MDBJ65S/?tag=tolees-21'
 descuento: '60.06'
+average: '13.98'
 ---
 
 Tienes [G-STAR RAW Tairi T-Shirt Camiseta  Negro  dk Shamrock 7159   X-Large para Hombre](https://www.amazon.es/dp/B07MDBJ65S/?tag=tolees-21) con un 60.06 % de descuento con precio de oferta de 13.98 EUR (original: 35 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CRJ7R6B/?tag=tolees-21'
 descuento: '79.55'
+average: '13.29'
 ---
 
 Ahora mismo tienes [Pepe Jeans Scott Sudadera    Grey Marl 933   XX-Large para Hombre](https://www.amazon.es/dp/B07CRJ7R6B/?tag=tolees-21) a 13.29 EUR (original: 65 EUR) (79.55 %  de descuento) en el siguiente enlace!

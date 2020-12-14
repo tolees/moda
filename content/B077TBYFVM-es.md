@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077TBYFVM/?tag=tolees-21'
 descuento: '59.32'
+average: '16.25'
 ---
 
 Ahora mismo tienes [Refresh 64404  Sandalias con Punta Abierta para Mujer  Negro  Black   39 EU](https://www.amazon.es/dp/B077TBYFVM/?tag=tolees-21) a 16.25 EUR (original: 39.95 EUR) (59.32 %  de descuento) en el siguiente enlace!

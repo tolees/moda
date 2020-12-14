@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00YNN14XW/?tag=tolees-21'
 descuento: '58.04'
+average: '11.75'
 ---
 
 Ahora mismo tienes [Under Armour UA HG Armour Racer Tank  Camiseta sin mangas Mujer  Negro  001   M  Talla del fabricante: MD ](https://www.amazon.es/dp/B00YNN14XW/?tag=tolees-21) a 11.75 EUR (original: 28 EUR) (58.04 %  de descuento) en el siguiente enlace!

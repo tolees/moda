@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01GEDABOQ/?tag=tolees-21'
 descuento: '85.65'
+average: '20.09'
 ---
 
 Está [Black Crevice Abrigo Corto Taupe ES 46  DE 44 ](https://www.amazon.es/dp/B01GEDABOQ/?tag=tolees-21) con 85.65 de descuento por 20.09 EUR (original: 139.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FR9V3XN/?tag=tolees-21'
 descuento: '74.93'
+average: '22.55'
 ---
 
 Está [Clarks Sharon Crystal  Zapatos de Cordones Derby para Mujer  Negro  Black-   39 EU](https://www.amazon.es/dp/B07FR9V3XN/?tag=tolees-21) con 74.93 de descuento por 22.55 EUR (original: 89.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06ZYSVYXD/?tag=tolees-21'
 descuento: '45.12'
+average: '18.66'
 ---
 
 Tienes [Emporio Armani Underwear 1112107a717  Bóxer para Hombre   Nero/BLU Elettrico 39920  Medium](https://www.amazon.es/dp/B06ZYSVYXD/?tag=tolees-21) con un 45.12 % de descuento con precio de oferta de 18.66 EUR (original: 34 EUR) en el siguiente enlace!

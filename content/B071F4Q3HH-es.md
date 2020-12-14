@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071F4Q3HH/?tag=tolees-21'
 descuento: '70.00'
+average: '7.8'
 ---
 
 Tienes [FIND Vestido Ajustable para Mujer   Gris  Grau   46  Talla del Fabricante: XX-Large ](https://www.amazon.es/dp/B071F4Q3HH/?tag=tolees-21) con un 70.00 % de descuento con precio de oferta de 7.8 EUR (original: 26 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075MD6HTS/?tag=tolees-21'
 descuento: '65.69'
+average: '37.4'
 ---
 
 Tienes [Ralph Lauren RALPH BY 0Ra5239 Gafas de sol  Yellow Tortoise  54 para Mujer](https://www.amazon.es/dp/B075MD6HTS/?tag=tolees-21) con un 65.69 % de descuento con precio de oferta de 37.4 EUR (original: 109 EUR) en el siguiente enlace!

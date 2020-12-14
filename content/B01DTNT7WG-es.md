@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01DTNT7WG/?tag=tolees-21'
 descuento: '30.05'
+average: '68.94'
 ---
 
 Ahora mismo tienes [Tommy Hilfiger TH 1380 QEE 48 Gafas de Sol  Rosa  Pink Gold   Mujer](https://www.amazon.es/dp/B01DTNT7WG/?tag=tolees-21) a 68.94 EUR (original: 98.56 EUR) (30.05 %  de descuento) en el siguiente enlace!

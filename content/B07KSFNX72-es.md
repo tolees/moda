@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KSFNX72/?tag=tolees-21'
 descuento: '41.31'
+average: '46.95'
 ---
 
 Está [Columbia 1832222 Powder Pass Vest Chaleco  Nylon  Hombre  Rojo  Mountain Red  Graphite   XXL](https://www.amazon.es/dp/B07KSFNX72/?tag=tolees-21) con 41.31 de descuento por 46.95 EUR (original: 79.99 EUR) en el siguiente enlace!

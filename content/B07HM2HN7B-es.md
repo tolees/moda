@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HM2HN7B/?tag=tolees-21'
 descuento: '68.54'
+average: '9.12'
 ---
 
 Está [Mayoral 4462  Sudadera con Capucha para Niñas   Rojo 82   6 años  Tamaño del Fabricante:6 ](https://www.amazon.es/dp/B07HM2HN7B/?tag=tolees-21) con 68.54 de descuento por 9.12 EUR (original: 28.99 EUR) en el siguiente enlace!

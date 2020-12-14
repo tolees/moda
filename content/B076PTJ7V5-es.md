@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076PTJ7V5/?tag=tolees-21'
 descuento: '26.09'
+average: '33.99'
 ---
 
 Está [Lixada Chaqueta de Ciclismode Manga Larga+Pantalones de Acolchado 3D para Hombres de Invierno Conjunto de Ropa de Ciclismo de Lana Térmica](https://www.amazon.es/dp/B076PTJ7V5/?tag=tolees-21) con 26.09 de descuento por 33.99 EUR (original: 45.99 EUR) en el siguiente enlace!

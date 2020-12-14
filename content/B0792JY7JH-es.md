@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0792JY7JH/?tag=tolees-21'
 descuento: '50.00'
+average: '34.95'
 ---
 
 Está [Geox J Perth Boy C  Zapatillas Altas para Niños   Black C9999   32 EU](https://www.amazon.es/dp/B0792JY7JH/?tag=tolees-21) con 50.00 de descuento por 34.95 EUR (original: 69.9 EUR) en el siguiente enlace!

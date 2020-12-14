@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07M5BRV67/?tag=tolees-21'
 descuento: '45.53'
+average: '13.59'
 ---
 
 Está [adidas DT4823  Bolso bandolera Unisex Adultos  Multicolor Negro/Blanco  23x3.5x20 cm  W x H x L ](https://www.amazon.es/dp/B07M5BRV67/?tag=tolees-21) con 45.53 de descuento por 13.59 EUR (original: 24.95 EUR) en el siguiente enlace!

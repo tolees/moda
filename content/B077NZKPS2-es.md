@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077NZKPS2/?tag=tolees-21'
 descuento: '80.12'
+average: '19.87'
 ---
 
 Está [Lee Elly Vaqueros Slim  Azul  Unplugged Auvk   27W / 31L para Mujer](https://www.amazon.es/dp/B077NZKPS2/?tag=tolees-21) con 80.12 de descuento por 19.87 EUR (original: 99.95 EUR) en el siguiente enlace!

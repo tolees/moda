@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N7T32IN/?tag=tolees-21'
 descuento: '40.05'
+average: '56.95'
 ---
 
 Está [Pepe Jeans London Cash  Vaqueros para Hombre  Azul  11Oz Streaky Vintage Used M84   W34/L32](https://www.amazon.es/dp/B01N7T32IN/?tag=tolees-21) con 40.05 de descuento por 56.95 EUR (original: 95 EUR) en el siguiente enlace!

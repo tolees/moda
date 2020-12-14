@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FLKVLSS/?tag=tolees-21'
 descuento: '36.99'
+average: '69.25'
 ---
 
 Está [Superdry Arctic Hooded Pop Zip Windchea  Chaqueta Deportiva para Mujer  Azul  Toucan Blue/Fluro Candy Pink Ru5   Large  Talla del Fabricante: 14.0 ](https://www.amazon.es/dp/B07FLKVLSS/?tag=tolees-21) con 36.99 de descuento por 69.25 EUR (original: 109.9 EUR) en el siguiente enlace!

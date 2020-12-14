@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F2JFHFJ/?tag=tolees-21'
 descuento: '55.01'
+average: '49.49'
 ---
 
 Tienes [Levi s The Jacket Chaqueta Vaquera  Azul  Common Blue Cord Trucker 0318   Large para Hombre](https://www.amazon.es/dp/B07F2JFHFJ/?tag=tolees-21) con un 55.01 % de descuento con precio de oferta de 49.49 EUR (original: 110 EUR) en el siguiente enlace!

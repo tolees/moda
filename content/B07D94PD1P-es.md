@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D94PD1P/?tag=tolees-21'
 descuento: '68.23'
+average: '15.87'
 ---
 
 Tienes [Marco Tozzi 25391-21  Botines para Mujer  Negro  Black 001   38 EU](https://www.amazon.es/dp/B07D94PD1P/?tag=tolees-21) con un 68.23 % de descuento con precio de oferta de 15.87 EUR (original: 49.95 EUR) en el siguiente enlace!

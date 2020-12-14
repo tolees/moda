@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079YZQMJ6/?tag=tolees-21'
 descuento: '28.00'
+average: '36'
 ---
 
 Está [Timberland Perkins Row 2-Strap  Sandalias de Punta Descubierta Unisex niños  Gris  Brindle   38 EU](https://www.amazon.es/dp/B079YZQMJ6/?tag=tolees-21) con 28.00 de descuento por 36 EUR (original: 50 EUR) en el siguiente enlace!

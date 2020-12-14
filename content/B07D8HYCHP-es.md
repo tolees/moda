@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D8HYCHP/?tag=tolees-21'
 descuento: '60.06'
+average: '19.95'
 ---
 
 Tienes [BOSS Tedecent Camiseta  Azul  Dark Blue 408   Medium para Mujer](https://www.amazon.es/dp/B07D8HYCHP/?tag=tolees-21) con un 60.06 % de descuento con precio de oferta de 19.95 EUR (original: 49.95 EUR) en el siguiente enlace!

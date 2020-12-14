@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XKY2J48/?tag=tolees-21'
 descuento: '56.00'
+average: '43.98'
 ---
 
 Ahora mismo tienes [Desigual Vest_achille  vestido Mujer  Negro  Black Denim 5009   34  Talla fabricante: 36 ](https://www.amazon.es/dp/B06XKY2J48/?tag=tolees-21) a 43.98 EUR (original: 99.95 EUR) (56.00 %  de descuento) en el siguiente enlace!

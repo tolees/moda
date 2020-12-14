@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079WJ4MYD/?tag=tolees-21'
 descuento: '48.69'
+average: '48.74'
 ---
 
 Ahora mismo tienes [Pepe Jeans Candy PL401524 Chaqueta  Azul  Dulwich 594   Large para Mujer](https://www.amazon.es/dp/B079WJ4MYD/?tag=tolees-21) a 48.74 EUR (original: 95 EUR) (48.69 %  de descuento) en el siguiente enlace!

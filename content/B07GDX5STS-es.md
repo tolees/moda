@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GDX5STS/?tag=tolees-21'
 descuento: '56.67'
+average: '32.5'
 ---
 
 Tienes [Birkenstock Arizona Birko-Flor  Sandalias de Punta Descubierta para Mujer  Plateado Silver  41 EU](https://www.amazon.es/dp/B07GDX5STS/?tag=tolees-21) con un 56.67 % de descuento con precio de oferta de 32.5 EUR (original: 75 EUR) en el siguiente enlace!

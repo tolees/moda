@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0064CIJRE/?tag=tolees-21'
 descuento: '64.79'
+average: '6.32'
 ---
 
 Está [James&Nicholson Running Tank Camiseta Transpirable sin Mangas  Hombre  Menta/Blanco  XXL](https://www.amazon.es/dp/B0064CIJRE/?tag=tolees-21) con 64.79 de descuento por 6.32 EUR (original: 17.95 EUR) en el siguiente enlace!

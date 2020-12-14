@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071Z8QZ7R/?tag=tolees-21'
 descuento: '72.23'
+average: '16.66'
 ---
 
 Ahora mismo tienes [Under Armour Wind Anorak Chaqueta  Hombre  Negro Black 001  XL](https://www.amazon.es/dp/B071Z8QZ7R/?tag=tolees-21) a 16.66 EUR (original: 60 EUR) (72.23 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KKSQXYM/?tag=tolees-21'
 descuento: '70.48'
+average: '29.51'
 ---
 
 Está [HUGO Eddison-w Camisa  Marrón  Medium Brown 217   X-Small para Hombre](https://www.amazon.es/dp/B07KKSQXYM/?tag=tolees-21) con 70.48 de descuento por 29.51 EUR (original: 99.95 EUR) en el siguiente enlace!

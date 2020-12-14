@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079SGPBFZ/?tag=tolees-21'
 descuento: '68.31'
+average: '53.85'
 ---
 
 Está [Desigual Padded_maca  Abrigo Mujer   Negro 2000   38  Talla fabricante: 40 ](https://www.amazon.es/dp/B079SGPBFZ/?tag=tolees-21) con 68.31 de descuento por 53.85 EUR (original: 169.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JNVHJN7/?tag=tolees-21'
 descuento: '63.73'
+average: '7.25'
 ---
 
 Ahora mismo tienes [JACK & JONES Jcoscales Polo SS Camiseta  Blanco  White Fit: Slim   Small para Hombre](https://www.amazon.es/dp/B07JNVHJN7/?tag=tolees-21) a 7.25 EUR (original: 19.99 EUR) (63.73 %  de descuento) en el siguiente enlace!

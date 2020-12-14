@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F6KWQZB/?tag=tolees-21'
 descuento: '67.33'
+average: '39.2'
 ---
 
 Está [Armani Exchange Sandal Nylon Webbing  Sandalias con Punta Abierta para Mujer  Negro  Black 00002   36 EU](https://www.amazon.es/dp/B07F6KWQZB/?tag=tolees-21) con 67.33 de descuento por 39.2 EUR (original: 120 EUR) en el siguiente enlace!

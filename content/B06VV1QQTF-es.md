@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06VV1QQTF/?tag=tolees-21'
 descuento: '70.37'
+average: '13.33'
 ---
 
 Está [MAMALICIOUS Mlnicki 3/4 Tencel Above Knee Dress A  Vestido para Mujer  Azul Light Blue Denim  38  Talla del Fabricante: Medium ](https://www.amazon.es/dp/B06VV1QQTF/?tag=tolees-21) con 70.37 de descuento por 13.33 EUR (original: 44.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B001NPCYT6/?tag=tolees-21'
 descuento: '82.49'
+average: '17.49'
 ---
 
 Está [Diavolezza - Zapatos de Ante para Mujer  Color Verde  Talla 38](https://www.amazon.es/dp/B001NPCYT6/?tag=tolees-21) con 82.49 de descuento por 17.49 EUR (original: 99.9 EUR) en el siguiente enlace!

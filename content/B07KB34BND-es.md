@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KB34BND/?tag=tolees-21'
 descuento: '46.52'
+average: '53.45'
 ---
 
 Ahora mismo tienes [G-STAR RAW ARC 3D Mid Skinny Wmn Vaqueros  Azul  Medium Aged 8968-071   W31/L36  Talla del Fabricante: 31W / 36L  para Mujer](https://www.amazon.es/dp/B07KB34BND/?tag=tolees-21) a 53.45 EUR (original: 99.95 EUR) (46.52 %  de descuento) en el siguiente enlace!

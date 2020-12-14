@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078GMZMC8/?tag=tolees-21'
 descuento: '59.16'
+average: '110.28'
 ---
 
 Ahora mismo tienes [Armani Exchange 6zzb09  Chaqueta Bomber para Hombre  Azul  Navy 1510  X-Large](https://www.amazon.es/dp/B078GMZMC8/?tag=tolees-21) a 110.28 EUR (original: 270 EUR) (59.16 %  de descuento) en el siguiente enlace!

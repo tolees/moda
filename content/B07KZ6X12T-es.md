@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KZ6X12T/?tag=tolees-21'
 descuento: '67.51'
+average: '16.24'
 ---
 
 Está [Cortefiel C1Bcc Print Flor Navy T-S Camisa Casual  Hombre  Azul  Azul Marino 10   XX-Large  Tamaño del Fabricante:XXL ](https://www.amazon.es/dp/B07KZ6X12T/?tag=tolees-21) con 67.51 de descuento por 16.24 EUR (original: 49.99 EUR) en el siguiente enlace!

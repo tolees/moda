@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MCY8FFQ/?tag=tolees-21'
 descuento: '46.93'
+average: '15.92'
 ---
 
 Tienes [The North Face S/S Peak tee Camiseta de Manga Corta  Hombre  Negro  TNF Black   M](https://www.amazon.es/dp/B07MCY8FFQ/?tag=tolees-21) con un 46.93 % de descuento con precio de oferta de 15.92 EUR (original: 30 EUR) en el siguiente enlace!

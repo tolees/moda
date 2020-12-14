@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07773YPSP/?tag=tolees-21'
 descuento: '78.84'
+average: '20.1'
 ---
 
 Tienes [Tommy Jeans Hombre  Tapered Steve  Vaqueros slim  Ajustada Azul  Berry Mid Blue Comfort 911  W27/L30](https://www.amazon.es/dp/B07773YPSP/?tag=tolees-21) con un 78.84 % de descuento con precio de oferta de 20.1 EUR (original: 95 EUR) en el siguiente enlace!

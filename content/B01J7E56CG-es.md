@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01J7E56CG/?tag=tolees-21'
 descuento: '62.53'
+average: '29.96'
 ---
 
 Está [Rieker 13405  Zapatos de Cordones Derby para Hombre  Marrón  Mandel/Sherry/Ozean / 24   42 EU](https://www.amazon.es/dp/B01J7E56CG/?tag=tolees-21) con 62.53 de descuento por 29.96 EUR (original: 79.95 EUR) en el siguiente enlace!

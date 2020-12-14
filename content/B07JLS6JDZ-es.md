@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JLS6JDZ/?tag=tolees-21'
 descuento: '66.41'
+average: '13.42'
 ---
 
 Está [XTI 32033  Zapatos con Tira de Tobillo para Mujer  Rojo  40 EU](https://www.amazon.es/dp/B07JLS6JDZ/?tag=tolees-21) con 66.41 de descuento por 13.42 EUR (original: 39.95 EUR) en el siguiente enlace!

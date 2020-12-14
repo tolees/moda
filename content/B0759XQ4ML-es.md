@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0759XQ4ML/?tag=tolees-21'
 descuento: '40.00'
+average: '16.77'
 ---
 
 Está [Angkorly - Zapatillas Moda Deportivos Tennis Mujer Flores Joyas Talón tacón Plano 2.5 CM - Blanco PQ-12 T 38](https://www.amazon.es/dp/B0759XQ4ML/?tag=tolees-21) con 40.00 de descuento por 16.77 EUR (original: 27.95 EUR) en el siguiente enlace!

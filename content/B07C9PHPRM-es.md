@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07C9PHPRM/?tag=tolees-21'
 descuento: '80.32'
+average: '27.36'
 ---
 
 Está [REPLAY Luz  Vaqueros Skinny Mujer  Gris  Light Grey Denim 10   W32/L30](https://www.amazon.es/dp/B07C9PHPRM/?tag=tolees-21) con 80.32 de descuento por 27.36 EUR (original: 139 EUR) en el siguiente enlace!

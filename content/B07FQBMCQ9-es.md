@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FQBMCQ9/?tag=tolees-21'
 descuento: '50.00'
+average: '20'
 ---
 
 Está [The North Face Y Snow Quest FZ Chaqueta con Cremallera Integral Snowquest  Unisex niños  Rocket Red  M](https://www.amazon.es/dp/B07FQBMCQ9/?tag=tolees-21) con 50.00 de descuento por 20 EUR (original: 40 EUR) en el siguiente enlace!

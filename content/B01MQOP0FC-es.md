@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MQOP0FC/?tag=tolees-21'
 descuento: '31.44'
+average: '64.45'
 ---
 
 Está [Lacoste L1212 Camiseta Polo  Rojo  Rouge 240   5XL  Talla del fabricante: 10  para Hombre](https://www.amazon.es/dp/B01MQOP0FC/?tag=tolees-21) con 31.44 de descuento por 64.45 EUR (original: 94 EUR) en el siguiente enlace!

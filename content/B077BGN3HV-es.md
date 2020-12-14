@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077BGN3HV/?tag=tolees-21'
 descuento: '56.37'
+average: '32.7'
 ---
 
 Ahora mismo tienes [Gioseppo 43598  Zapatos de Cordones Derby para Hombre  Marrón  Camel   44 EU](https://www.amazon.es/dp/B077BGN3HV/?tag=tolees-21) a 32.7 EUR (original: 74.95 EUR) (56.37 %  de descuento) en el siguiente enlace!

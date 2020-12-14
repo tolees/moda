@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01KX48C7K/?tag=tolees-21'
 descuento: '50.27'
+average: '67.13'
 ---
 
 Ahora mismo tienes [Ray-Ban JUNIOR 0Rj9540S Gafas de sol  Gunmetal Top Red  47 Unisex-Niño](https://www.amazon.es/dp/B01KX48C7K/?tag=tolees-21) a 67.13 EUR (original: 135 EUR) (50.27 %  de descuento) en el siguiente enlace!

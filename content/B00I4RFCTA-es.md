@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00I4RFCTA/?tag=tolees-21'
 descuento: '62.05'
+average: '64.48'
 ---
 
 Está [Geox Donna Meldi Stivali  Botas Camperas para Mujer  Marrón  Coffee C6009   36.5 EU](https://www.amazon.es/dp/B00I4RFCTA/?tag=tolees-21) con 62.05 de descuento por 64.48 EUR (original: 169.9 EUR) en el siguiente enlace!

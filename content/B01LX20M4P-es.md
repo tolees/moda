@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01LX20M4P/?tag=tolees-21'
 descuento: '83.11'
+average: '21.79'
 ---
 
 Está [Geographical Norway TECLIPSE Lady ASSORT B  Sudadera para Mujer  Cielo ES 44  DE 42 ](https://www.amazon.es/dp/B01LX20M4P/?tag=tolees-21) con 83.11 de descuento por 21.79 EUR (original: 129 EUR) en el siguiente enlace!

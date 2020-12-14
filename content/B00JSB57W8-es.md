@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00JSB57W8/?tag=tolees-21'
 descuento: '47.90'
+average: '9.18'
 ---
 
 Ahora mismo tienes [Goodyear applicabile corsé a Parka y Chaleco Hi Vis](https://www.amazon.es/dp/B00JSB57W8/?tag=tolees-21) a 9.18 EUR (original: 17.62 EUR) (47.90 %  de descuento) en el siguiente enlace!

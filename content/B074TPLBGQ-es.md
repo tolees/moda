@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074TPLBGQ/?tag=tolees-21'
 descuento: '63.86'
+average: '5.2'
 ---
 
 Ahora mismo tienes [Schiesser Niñas Eco Surf T-Shirt Rundhals Camiseta Not Applicable  Blanco  Weiss 100   116](https://www.amazon.es/dp/B074TPLBGQ/?tag=tolees-21) a 5.2 EUR (original: 14.39 EUR) (63.86 %  de descuento) en el siguiente enlace!

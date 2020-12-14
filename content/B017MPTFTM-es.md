@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B017MPTFTM/?tag=tolees-21'
 descuento: '34.05'
+average: '32.94'
 ---
 
 Ahora mismo tienes [Rieker 21083  Sandalias de Punta Descubierta para Hombre  Azul  Ozean/Denim/Schwarz   41 EU](https://www.amazon.es/dp/B017MPTFTM/?tag=tolees-21) a 32.94 EUR (original: 49.95 EUR) (34.05 %  de descuento) en el siguiente enlace!

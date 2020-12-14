@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KSQ9V1C/?tag=tolees-21'
 descuento: '44.56'
+average: '33.26'
 ---
 
 Ahora mismo tienes [Columbia Triple Canyon Pantalón Corto de Senderismo  Poliéster  Hombre  Azul  Carbon Heather Print   Talla US: W32/L12/  EU W42/L12 ](https://www.amazon.es/dp/B07KSQ9V1C/?tag=tolees-21) a 33.26 EUR (original: 59.99 EUR) (44.56 %  de descuento) en el siguiente enlace!

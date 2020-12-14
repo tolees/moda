@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076BVHT3T/?tag=tolees-21'
 descuento: '55.98'
+average: '11.88'
 ---
 
 Está [Vero Moda Vmnicky L/s Tie Top D2-1  Blusa Mujer   Night Sky AOP: Dots   36  Talla del Fabricante: Small ](https://www.amazon.es/dp/B076BVHT3T/?tag=tolees-21) con 55.98 de descuento por 11.88 EUR (original: 26.99 EUR) en el siguiente enlace!

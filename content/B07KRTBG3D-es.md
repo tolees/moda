@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KRTBG3D/?tag=tolees-21'
 descuento: '84.06'
+average: '25.35'
 ---
 
 Está [REPLAY Luz Vaqueros Skinny  Negro  Striped Black 130   W26/L32  Talla del Fabricante: 26  para Mujer](https://www.amazon.es/dp/B07KRTBG3D/?tag=tolees-21) con 84.06 de descuento por 25.35 EUR (original: 159 EUR) en el siguiente enlace!

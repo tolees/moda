@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DLFVKYS/?tag=tolees-21'
 descuento: '71.84'
+average: '7.32'
 ---
 
 Está [Springfield 4Wo M/Ranglan Block Gg12 Jersey  Gama Azules 11  Large  Tamaño del Fabricante:L  para Hombre](https://www.amazon.es/dp/B07DLFVKYS/?tag=tolees-21) con 71.84 de descuento por 7.32 EUR (original: 25.99 EUR) en el siguiente enlace!

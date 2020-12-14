@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079WRKYKZ/?tag=tolees-21'
 descuento: '64.86'
+average: '33.38'
 ---
 
 Está [Pepe Jeans Gen  Vaqueros Rectos para Mujer  Azul  Denim CH4   W25/L32](https://www.amazon.es/dp/B079WRKYKZ/?tag=tolees-21) con 64.86 de descuento por 33.38 EUR (original: 95 EUR) en el siguiente enlace!

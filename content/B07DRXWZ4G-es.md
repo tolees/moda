@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DRXWZ4G/?tag=tolees-21'
 descuento: '57.18'
+average: '29.95'
 ---
 
 Ahora mismo tienes [Levi s kids Sweat Shirt  Sudadera Niños  Gris  China Grey 20   4 años  Talla del Fabricante: 4A ](https://www.amazon.es/dp/B07DRXWZ4G/?tag=tolees-21) a 29.95 EUR (original: 69.95 EUR) (57.18 %  de descuento) en el siguiente enlace!

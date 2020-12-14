@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07NW3HF3P/?tag=tolees-21'
 descuento: '77.79'
+average: '19.99'
 ---
 
 Está [Avoalre® para Hombre Gafas de Sol Deportivas Gafas Hembra Unisex Conducto no polarizado TR90 Super Light UV400 Protección Certificado CE - Rojo](https://www.amazon.es/dp/B07NW3HF3P/?tag=tolees-21) con 77.79 de descuento por 19.99 EUR (original: 89.99 EUR) en el siguiente enlace!

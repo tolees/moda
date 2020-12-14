@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0785FPDB8/?tag=tolees-21'
 descuento: '70.77'
+average: '7.6'
 ---
 
 Está [Under Armour Fly by Short - Pantalón Corto para Mujer  Mujer  1297125-906  Peach Horizon/White/Reflective  X-Large](https://www.amazon.es/dp/B0785FPDB8/?tag=tolees-21) con 70.77 de descuento por 7.6 EUR (original: 26 EUR) en el siguiente enlace!

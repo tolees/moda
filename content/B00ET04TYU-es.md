@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00ET04TYU/?tag=tolees-21'
 descuento: '52.07'
+average: '33.53'
 ---
 
 Está [Blend - Vaqueros Straight para Hombre  Color Bleu - Blau  76021-l32   Talla w32/l32](https://www.amazon.es/dp/B00ET04TYU/?tag=tolees-21) con 52.07 de descuento por 33.53 EUR (original: 69.95 EUR) en el siguiente enlace!

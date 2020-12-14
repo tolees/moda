@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JJ21DMB/?tag=tolees-21'
 descuento: '59.64'
+average: '64.58'
 ---
 
 Está [Armani Exchange Poly Crepe  vestido Mujer  Rosa  Pink Flamingos 1454   4](https://www.amazon.es/dp/B07JJ21DMB/?tag=tolees-21) con 59.64 de descuento por 64.58 EUR (original: 160 EUR) en el siguiente enlace!

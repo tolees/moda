@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072QR4WRN/?tag=tolees-21'
 descuento: '62.69'
+average: '16.77'
 ---
 
 Está [Skechers You Define  Chanclas para Mujer  Negro  Black/White BKW   37 EU](https://www.amazon.es/dp/B072QR4WRN/?tag=tolees-21) con 62.69 de descuento por 16.77 EUR (original: 44.95 EUR) en el siguiente enlace!

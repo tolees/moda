@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N4DLIR5/?tag=tolees-21'
 descuento: '46.62'
+average: '15.96'
 ---
 
 Está [Tommy Jeans Mujer Basic Camiseta de tirantes Manga Corta  Blanco  Bright White 113  Large](https://www.amazon.es/dp/B01N4DLIR5/?tag=tolees-21) con 46.62 de descuento por 15.96 EUR (original: 29.9 EUR) en el siguiente enlace!

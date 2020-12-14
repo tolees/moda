@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01ESVH2W0/?tag=tolees-21'
 descuento: '83.72'
+average: '26.05'
 ---
 
 Tienes [SHOE THE BEAR Asta  Botines para Mujer  Beige  Sand   37 EU](https://www.amazon.es/dp/B01ESVH2W0/?tag=tolees-21) con un 83.72 % de descuento con precio de oferta de 26.05 EUR (original: 160 EUR) en el siguiente enlace!

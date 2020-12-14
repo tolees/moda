@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BB3N3SG/?tag=tolees-21'
 descuento: '46.59'
+average: '85.45'
 ---
 
 Está [The North Face M Jacket Chaqueta Stratos  Hombre  Verde  Primary Green/l   S](https://www.amazon.es/dp/B07BB3N3SG/?tag=tolees-21) con 46.59 de descuento por 85.45 EUR (original: 160 EUR) en el siguiente enlace!

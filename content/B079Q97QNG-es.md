@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079Q97QNG/?tag=tolees-21'
 descuento: '84.63'
+average: '15.36'
 ---
 
 Ahora mismo tienes [Lee Scarlett  Vaqueros Skinny para Mujer  Gris  Grey Raw WH   W30/L31](https://www.amazon.es/dp/B079Q97QNG/?tag=tolees-21) a 15.36 EUR (original: 99.95 EUR) (84.63 %  de descuento) en el siguiente enlace!

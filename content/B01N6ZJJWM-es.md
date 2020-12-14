@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N6ZJJWM/?tag=tolees-21'
 descuento: '55.16'
+average: '12.42'
 ---
 
 Está [Morgan Top  Camiseta para Mujer  Gris Acier/Noir  M](https://www.amazon.es/dp/B01N6ZJJWM/?tag=tolees-21) con 55.16 de descuento por 12.42 EUR (original: 27.7 EUR) en el siguiente enlace!

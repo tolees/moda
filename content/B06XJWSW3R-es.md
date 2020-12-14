@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XJWSW3R/?tag=tolees-21'
 descuento: '39.05'
+average: '57.9'
 ---
 
 Tienes [Pepe Jeans Finsbury  Vaqueros para Hombre  Negro  Black Used Wa5  30W / 32L](https://www.amazon.es/dp/B06XJWSW3R/?tag=tolees-21) con un 39.05 % de descuento con precio de oferta de 57.9 EUR (original: 95 EUR) en el siguiente enlace!

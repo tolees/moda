@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FGX8D48/?tag=tolees-21'
 descuento: '65.10'
+average: '48.86'
 ---
 
 Tienes [Columbia Gate Racer Chaqueta Softshell para Hombre  Azul  Collegiate Navy   XXL](https://www.amazon.es/dp/B07FGX8D48/?tag=tolees-21) con un 65.10 % de descuento con precio de oferta de 48.86 EUR (original: 139.99 EUR) en el siguiente enlace!

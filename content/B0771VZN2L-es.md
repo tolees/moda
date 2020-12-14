@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0771VZN2L/?tag=tolees-21'
 descuento: '41.90'
+average: '31.95'
 ---
 
 Ahora mismo tienes [Columbia Silver Ridge II Camisa de Senderismo Manga Corta  Hombre  Azul  Carbon   M](https://www.amazon.es/dp/B0771VZN2L/?tag=tolees-21) a 31.95 EUR (original: 54.99 EUR) (41.90 %  de descuento) en el siguiente enlace!

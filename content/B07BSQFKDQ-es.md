@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BSQFKDQ/?tag=tolees-21'
 descuento: '44.49'
+average: '49.9'
 ---
 
 Está [Tommy Hilfiger Colored Check Shirt  Camisa para Hombre   Parisian Blue/Forest Biome/Multi 902  Small](https://www.amazon.es/dp/B07BSQFKDQ/?tag=tolees-21) con 44.49 de descuento por 49.9 EUR (original: 89.9 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079C4LJ6R/?tag=tolees-21'
 descuento: '50.77'
+average: '32'
 ---
 
 Ahora mismo tienes [Tommy Jeans Mujer Tommy Classics  Blusa Manga Larga  Blanco  Classic White 100  Medium](https://www.amazon.es/dp/B079C4LJ6R/?tag=tolees-21) a 32 EUR (original: 65 EUR) (50.77 %  de descuento) en el siguiente enlace!

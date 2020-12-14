@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0792GX7XC/?tag=tolees-21'
 descuento: '62.41'
+average: '37.55'
 ---
 
 Está [Geox U Leitan A  Mocasines para Hombre   Dk Coffee C6024   44 EU](https://www.amazon.es/dp/B0792GX7XC/?tag=tolees-21) con 62.41 de descuento por 37.55 EUR (original: 99.9 EUR) en el siguiente enlace!

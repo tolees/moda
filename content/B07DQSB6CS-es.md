@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DQSB6CS/?tag=tolees-21'
 descuento: '55.17'
+average: '13.45'
 ---
 
 Está [Volcom Stence BSC SS Camiseta  Hombre  Rojo  Engine Red   S](https://www.amazon.es/dp/B07DQSB6CS/?tag=tolees-21) con 55.17 de descuento por 13.45 EUR (original: 30 EUR) en el siguiente enlace!

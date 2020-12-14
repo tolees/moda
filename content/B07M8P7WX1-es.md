@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07M8P7WX1/?tag=tolees-21'
 descuento: '53.16'
+average: '37.47'
 ---
 
 Ahora mismo tienes [The North Face Drew Peak Sudadera  Hombre  Azul  Bomber Blue/TNF Black   M](https://www.amazon.es/dp/B07M8P7WX1/?tag=tolees-21) a 37.47 EUR (original: 80 EUR) (53.16 %  de descuento) en el siguiente enlace!

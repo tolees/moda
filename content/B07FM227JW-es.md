@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FM227JW/?tag=tolees-21'
 descuento: '44.19'
+average: '7.25'
 ---
 
 Tienes [Jack & Jones NOS Jacwally Trunks Noos  Bóxer para Hombre  Cyber Yellow  Small](https://www.amazon.es/dp/B07FM227JW/?tag=tolees-21) con un 44.19 % de descuento con precio de oferta de 7.25 EUR (original: 12.99 EUR) en el siguiente enlace!

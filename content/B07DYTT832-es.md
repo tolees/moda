@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DYTT832/?tag=tolees-21'
 descuento: '61.78'
+average: '38.22'
 ---
 
 Ahora mismo tienes [Columbia Chaqueta Cortavientos para Hombre  Cascade Ridge II Softshell  Marrón  Peatmoss Heather   XXL](https://www.amazon.es/dp/B07DYTT832/?tag=tolees-21) a 38.22 EUR (original: 99.99 EUR) (61.78 %  de descuento) en el siguiente enlace!

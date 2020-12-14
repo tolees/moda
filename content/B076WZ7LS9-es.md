@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076WZ7LS9/?tag=tolees-21'
 descuento: '58.00'
+average: '41.98'
 ---
 
 Ahora mismo tienes [G-STAR RAW Lynn Mid Skinny Wmn New  Vaqueros Mujer  Azul  Lt Aged 424   W27/L34](https://www.amazon.es/dp/B076WZ7LS9/?tag=tolees-21) a 41.98 EUR (original: 99.95 EUR) (58.00 %  de descuento) en el siguiente enlace!

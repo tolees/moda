@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MQ67DKX/?tag=tolees-21'
 descuento: '40.05'
+average: '56.95'
 ---
 
 Ahora mismo tienes [Pepe Jeans Kingston Zip  Vaqueros Regular para Hombre  Azul  11Oz Vintage 8 Dip S55   W32/L32](https://www.amazon.es/dp/B01MQ67DKX/?tag=tolees-21) a 56.95 EUR (original: 95 EUR) (40.05 %  de descuento) en el siguiente enlace!

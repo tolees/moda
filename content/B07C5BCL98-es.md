@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07C5BCL98/?tag=tolees-21'
 descuento: '51.74'
+average: '104.25'
 ---
 
 Ahora mismo tienes [Love Moschino Crew Collar Long Sleeve Sweater with Logo Embroidery  Camisa Manga Larga para Mujer  Rojo  Red O81   38  Talla del Fabricante: 40 ](https://www.amazon.es/dp/B07C5BCL98/?tag=tolees-21) a 104.25 EUR (original: 216 EUR) (51.74 %  de descuento) en el siguiente enlace!

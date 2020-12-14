@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06Y266SGN/?tag=tolees-21'
 descuento: '78.04'
+average: '15.35'
 ---
 
 Ahora mismo tienes [Geox J744FA00077  Zapatos de Cordones Unisex Adulto  Gris  Forest   29 EU](https://www.amazon.es/dp/B06Y266SGN/?tag=tolees-21) a 15.35 EUR (original: 69.9 EUR) (78.04 %  de descuento) en el siguiente enlace!

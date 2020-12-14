@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00EWJT84O/?tag=tolees-21'
 descuento: '35.81'
+average: '32.03'
 ---
 
 Tienes [Crocs Swiftwater Sandal Men  Zapatos de Agua para Hombre  Marrón Espresso  39/40 EU](https://www.amazon.es/dp/B00EWJT84O/?tag=tolees-21) con un 35.81 % de descuento con precio de oferta de 32.03 EUR (original: 49.9 EUR) en el siguiente enlace!

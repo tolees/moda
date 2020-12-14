@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D7J31KW/?tag=tolees-21'
 descuento: '86.99'
+average: '32.52'
 ---
 
 Tienes [Dolores Promesas 107353 Chaqueta de Traje  Mujer  Azul  Azul Azul   38  Tamaño del Fabricante:38 ](https://www.amazon.es/dp/B07D7J31KW/?tag=tolees-21) con un 86.99 % de descuento con precio de oferta de 32.52 EUR (original: 249.9 EUR) en el siguiente enlace!

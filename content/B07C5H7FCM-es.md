@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07C5H7FCM/?tag=tolees-21'
 descuento: '65.05'
+average: '24.45'
 ---
 
 Está [Rieker Y2550  Botines para Mujer  Negro Schwarz 00  36 EU](https://www.amazon.es/dp/B07C5H7FCM/?tag=tolees-21) con 65.05 de descuento por 24.45 EUR (original: 69.95 EUR) en el siguiente enlace!

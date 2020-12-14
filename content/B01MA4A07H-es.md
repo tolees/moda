@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MA4A07H/?tag=tolees-21'
 descuento: '70.60'
+average: '7.42'
 ---
 
 Tienes [Pour Moi? 36025-Tops de Bikini Mujer Negro Negro  Black  100H](https://www.amazon.es/dp/B01MA4A07H/?tag=tolees-21) con un 70.60 % de descuento con precio de oferta de 7.42 EUR (original: 25.24 EUR) en el siguiente enlace!

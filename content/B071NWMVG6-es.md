@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071NWMVG6/?tag=tolees-21'
 descuento: '75.28'
+average: '12.35'
 ---
 
 Ahora mismo tienes [Marco Tozzi 23735  Zapatos de Vestir para Mujer  Negro  Black Antic   37 EU](https://www.amazon.es/dp/B071NWMVG6/?tag=tolees-21) a 12.35 EUR (original: 49.95 EUR) (75.28 %  de descuento) en el siguiente enlace!

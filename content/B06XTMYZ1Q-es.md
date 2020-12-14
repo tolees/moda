@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XTMYZ1Q/?tag=tolees-21'
 descuento: '66.74'
+average: '29.93'
 ---
 
 Está [Pepe Jeans Zinc PM202394  Pantalones Vaqueros para Hombre  Azul  Urban Blue 000   32W / 34L](https://www.amazon.es/dp/B06XTMYZ1Q/?tag=tolees-21) con 66.74 de descuento por 29.93 EUR (original: 90 EUR) en el siguiente enlace!

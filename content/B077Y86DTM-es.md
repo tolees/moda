@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077Y86DTM/?tag=tolees-21'
 descuento: '62.58'
+average: '12.33'
 ---
 
 Está [HIKARO Sudadera con Cuello Alto Mujer  Negro  Black   44  Talla del fabricante: X-Large ](https://www.amazon.es/dp/B077Y86DTM/?tag=tolees-21) con 62.58 de descuento por 12.33 EUR (original: 32.95 EUR) en el siguiente enlace!

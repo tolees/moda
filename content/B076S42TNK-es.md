@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076S42TNK/?tag=tolees-21'
 descuento: '46.25'
+average: '43'
 ---
 
 Está [Under Armour UA Jet Mid  Zapatos de Baloncesto para Hombre  Rojo  Red White 600   40.5 EU](https://www.amazon.es/dp/B076S42TNK/?tag=tolees-21) con 46.25 de descuento por 43 EUR (original: 80 EUR) en el siguiente enlace!

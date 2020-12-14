@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CRJ27XK/?tag=tolees-21'
 descuento: '39.83'
+average: '17.99'
 ---
 
 Está [Pepe Jeans West Sir  Camiseta para Hombre    Steel Blue 563  Large](https://www.amazon.es/dp/B07CRJ27XK/?tag=tolees-21) con 39.83 de descuento por 17.99 EUR (original: 29.9 EUR) en el siguiente enlace!

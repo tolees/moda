@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DLJCHFN/?tag=tolees-21'
 descuento: '48.12'
+average: '15.56'
 ---
 
 Está [Springfield Frq Gingham Melange Camisa Casual   Gama Azules 12   Large  Tamaño del Fabricante:L  para Hombre](https://www.amazon.es/dp/B07DLJCHFN/?tag=tolees-21) con 48.12 de descuento por 15.56 EUR (original: 29.99 EUR) en el siguiente enlace!

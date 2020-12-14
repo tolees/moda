@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071VPNGJ3/?tag=tolees-21'
 descuento: '34.48'
+average: '117.28'
 ---
 
 Ahora mismo tienes [Ray-Ban 3576n Gafas de sol  Gold Striped/Graygreen  47 Unisex-Adulto](https://www.amazon.es/dp/B071VPNGJ3/?tag=tolees-21) a 117.28 EUR (original: 179 EUR) (34.48 %  de descuento) en el siguiente enlace!

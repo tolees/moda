@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01C2YD3G4/?tag=tolees-21'
 descuento: '27.46'
+average: '14.5'
 ---
 
 Está [Disney Mickey Comic Bolso Bandolera  0.48 litros  Color](https://www.amazon.es/dp/B01C2YD3G4/?tag=tolees-21) con 27.46 de descuento por 14.5 EUR (original: 19.99 EUR) en el siguiente enlace!

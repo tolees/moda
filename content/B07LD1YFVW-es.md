@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07LD1YFVW/?tag=tolees-21'
 descuento: '68.56'
+average: '27.45'
 ---
 
 Ahora mismo tienes [Warehouse Knitback Abrigo   Green 20   38 ES ES para Mujer](https://www.amazon.es/dp/B07LD1YFVW/?tag=tolees-21) a 27.45 EUR (original: 87.32 EUR) (68.56 %  de descuento) en el siguiente enlace!

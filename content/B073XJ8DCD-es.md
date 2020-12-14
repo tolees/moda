@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073XJ8DCD/?tag=tolees-21'
 descuento: '52.60'
+average: '54.65'
 ---
 
 Tienes [Timberland Kenetic  Botas Chukka para Hombre  Negro  Black   44 EU](https://www.amazon.es/dp/B073XJ8DCD/?tag=tolees-21) con un 52.60 % de descuento con precio de oferta de 54.65 EUR (original: 115.29 EUR) en el siguiente enlace!

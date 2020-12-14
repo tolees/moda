@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071JRZXK8/?tag=tolees-21'
 descuento: '70.68'
+average: '14.95'
 ---
 
 Está [Urban Classics Basic Down Jacket  Chaqueta para Hombre  Grau  Darkgrey 94  Large](https://www.amazon.es/dp/B071JRZXK8/?tag=tolees-21) con 70.68 de descuento por 14.95 EUR (original: 50.99 EUR) en el siguiente enlace!

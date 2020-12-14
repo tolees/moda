@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DG2C6TZ/?tag=tolees-21'
 descuento: '56.02'
+average: '21.97'
 ---
 
 Tienes [Puma ESS Track FL Sudadera  Mujer  Gris  Light Gray Heather   XS](https://www.amazon.es/dp/B07DG2C6TZ/?tag=tolees-21) con un 56.02 % de descuento con precio de oferta de 21.97 EUR (original: 49.95 EUR) en el siguiente enlace!

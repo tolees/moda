@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CN8YL5X/?tag=tolees-21'
 descuento: '63.81'
+average: '10.82'
 ---
 
 Ahora mismo tienes [Crocs Crocband Flip  Zapatos de Playa y Piscina Unisex Adulto  Verde  Army Green/White 37p   46/47 EU](https://www.amazon.es/dp/B07CN8YL5X/?tag=tolees-21) a 10.82 EUR (original: 29.9 EUR) (63.81 %  de descuento) en el siguiente enlace!

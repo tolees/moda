@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DK2CM26/?tag=tolees-21'
 descuento: '50.00'
+average: '21.45'
 ---
 
 Ahora mismo tienes [Geox B Kilwi Girl J  Bailarinas para Bebés  White/Pink C0406  21 EU](https://www.amazon.es/dp/B07DK2CM26/?tag=tolees-21) a 21.45 EUR (original: 42.9 EUR) (50.00 %  de descuento) en el siguiente enlace!

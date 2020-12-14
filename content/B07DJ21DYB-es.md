@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DJ21DYB/?tag=tolees-21'
 descuento: '32.20'
+average: '33.9'
 ---
 
 Está [New Balance 250  Zapatos de Playa y Piscina Unisex Adulto  Gris Castlerock Gr  45 EU](https://www.amazon.es/dp/B07DJ21DYB/?tag=tolees-21) con 32.20 de descuento por 33.9 EUR (original: 50 EUR) en el siguiente enlace!

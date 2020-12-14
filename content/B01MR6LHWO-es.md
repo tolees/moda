@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MR6LHWO/?tag=tolees-21'
 descuento: '28.04'
+average: '22.74'
 ---
 
 Está [Gola Shingle 3  Sandalias Atléticas  Hombre  Gris  Grey/black/blue   43 EU](https://www.amazon.es/dp/B01MR6LHWO/?tag=tolees-21) con 28.04 de descuento por 22.74 EUR (original: 31.6 EUR) en el siguiente enlace!

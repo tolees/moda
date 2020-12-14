@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DXC3LCY/?tag=tolees-21'
 descuento: '56.38'
+average: '7.83'
 ---
 
 Está [3 Pommes tee-Shirt  Camiseta Niñas  Azul  Navy Blue 49   3-4 años  Talla del Fabricante: 3Y/4Y ](https://www.amazon.es/dp/B07DXC3LCY/?tag=tolees-21) con 56.38 de descuento por 7.83 EUR (original: 17.95 EUR) en el siguiente enlace!

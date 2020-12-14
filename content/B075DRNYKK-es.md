@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075DRNYKK/?tag=tolees-21'
 descuento: '28.57'
+average: '35'
 ---
 
 Tienes [Desigual Vest_dsgl-Original Vestido  Negro  Black 2000   Small para Mujer](https://www.amazon.es/dp/B075DRNYKK/?tag=tolees-21) con un 28.57 % de descuento con precio de oferta de 35 EUR (original: 49 EUR) en el siguiente enlace!

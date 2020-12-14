@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B006D5TRKU/?tag=tolees-21'
 descuento: '81.00'
+average: '5.31'
 ---
 
 Ahora mismo tienes [James & Nicholson Sweatshirt Round Heavy Sudadera  Gris  greyheather     Talla del Fabricante: XS  98/104  Infantil](https://www.amazon.es/dp/B006D5TRKU/?tag=tolees-21) a 5.31 EUR (original: 27.95 EUR) (81.00 %  de descuento) en el siguiente enlace!

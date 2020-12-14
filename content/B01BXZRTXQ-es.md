@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01BXZRTXQ/?tag=tolees-21'
 descuento: '82.33'
+average: '7.05'
 ---
 
 Está [Maria Mare 66329 - Zapatos de Vestir para Mujer  Color suedi Maquillaje  Talla 39](https://www.amazon.es/dp/B01BXZRTXQ/?tag=tolees-21) con 82.33 de descuento por 7.05 EUR (original: 39.9 EUR) en el siguiente enlace!

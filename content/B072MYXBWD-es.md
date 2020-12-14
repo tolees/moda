@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072MYXBWD/?tag=tolees-21'
 descuento: '50.49'
+average: '49.49'
 ---
 
 Tienes [Lee Luke  Vaqueros Tapered para Hombre  Azul  Chelsea Aged Apnp   W34/L34](https://www.amazon.es/dp/B072MYXBWD/?tag=tolees-21) con un 50.49 % de descuento con precio de oferta de 49.49 EUR (original: 99.95 EUR) en el siguiente enlace!

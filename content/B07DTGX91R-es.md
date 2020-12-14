@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DTGX91R/?tag=tolees-21'
 descuento: '49.06'
+average: '20.35'
 ---
 
 Ahora mismo tienes [Puma Active Hoody Sudadera  Mujer  Negro  Black   XS](https://www.amazon.es/dp/B07DTGX91R/?tag=tolees-21) a 20.35 EUR (original: 39.95 EUR) (49.06 %  de descuento) en el siguiente enlace!

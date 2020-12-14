@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0725LF6JX/?tag=tolees-21'
 descuento: '71.71'
+average: '14.13'
 ---
 
 Ahora mismo tienes [Bench Sweat Skirt Asymetrical Zip Front  Falda Mujer  Negro  Black Beauty Bk11179   Small](https://www.amazon.es/dp/B0725LF6JX/?tag=tolees-21) a 14.13 EUR (original: 49.95 EUR) (71.71 %  de descuento) en el siguiente enlace!

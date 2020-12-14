@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CZF81K6/?tag=tolees-21'
 descuento: '46.68'
+average: '23.99'
 ---
 
 Está [Under Armour UA Qualifier Shortsleeve Camiseta  Hombre  Negro Black/Reflective 001  XXL](https://www.amazon.es/dp/B07CZF81K6/?tag=tolees-21) con 46.68 de descuento por 23.99 EUR (original: 44.99 EUR) en el siguiente enlace!

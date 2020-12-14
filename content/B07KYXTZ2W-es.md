@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KYXTZ2W/?tag=tolees-21'
 descuento: '62.09'
+average: '6.82'
 ---
 
 Tienes [Springfield 5.Pa.Falda Larga Lisa Circular Falda  Mujer  Azul  Azul Marino 10   One Size  Tamaño del Fabricante:L ](https://www.amazon.es/dp/B07KYXTZ2W/?tag=tolees-21) con un 62.09 % de descuento con precio de oferta de 6.82 EUR (original: 17.99 EUR) en el siguiente enlace!

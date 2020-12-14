@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F123GDQ/?tag=tolees-21'
 descuento: '60.02'
+average: '79.95'
 ---
 
 Está [Levi s Down Barstow Puffer  Chaqueta para Hombre  Negro  Black 0000   Small](https://www.amazon.es/dp/B07F123GDQ/?tag=tolees-21) con 60.02 de descuento por 79.95 EUR (original: 200 EUR) en el siguiente enlace!

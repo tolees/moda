@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XHCWDLN/?tag=tolees-21'
 descuento: '53.32'
+average: '39.68'
 ---
 
 Tienes [Helly Hansen HH LIFA MAX 1/2 Zip Camiseta Técnica Lana Merino  Hombre  Negro  Black   S](https://www.amazon.es/dp/B06XHCWDLN/?tag=tolees-21) con un 53.32 % de descuento con precio de oferta de 39.68 EUR (original: 85 EUR) en el siguiente enlace!

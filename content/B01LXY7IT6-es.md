@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01LXY7IT6/?tag=tolees-21'
 descuento: '86.47'
+average: '12.77'
 ---
 
 Ahora mismo tienes [Kiliwatch Jagger  Vaqueros para Hombre  Azul  Blue  28W](https://www.amazon.es/dp/B01LXY7IT6/?tag=tolees-21) a 12.77 EUR (original: 94.38 EUR) (86.47 %  de descuento) en el siguiente enlace!

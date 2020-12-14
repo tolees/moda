@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00IW8UFJ8/?tag=tolees-21'
 descuento: '48.15'
+average: '25.9'
 ---
 
 Está [Hugo Boss Green Camiseta de cuello redondo Gris Claro  Azul  Navy 410   Large](https://www.amazon.es/dp/B00IW8UFJ8/?tag=tolees-21) con 48.15 de descuento por 25.9 EUR (original: 49.95 EUR) en el siguiente enlace!

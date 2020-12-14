@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FTNQ48W/?tag=tolees-21'
 descuento: '71.42'
+average: '8.56'
 ---
 
 Está [Lee Ringer tee Camiseta  Marfil  Indigo Flash Ed   X-Large para Hombre](https://www.amazon.es/dp/B07FTNQ48W/?tag=tolees-21) con 71.42 de descuento por 8.56 EUR (original: 29.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07B94NKT1/?tag=tolees-21'
 descuento: '50.00'
+average: '55'
 ---
 
 Tienes [Clarks Un Geo Lace  Zapatos de Cordones Derby para Hombre  Marrón  Dark Brown Nubuck   41 EU](https://www.amazon.es/dp/B07B94NKT1/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 55 EUR (original: 110 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CGVDLZQ/?tag=tolees-21'
 descuento: '55.17'
+average: '39.89'
 ---
 
 Está [GNEDIAE para Hombre Botas de Senderismo Impermeables de Ocio al Aire Libre Zapatos de Deporte Zapatillas de Senderismo Cordones Trainer Botas 39-46](https://www.amazon.es/dp/B07CGVDLZQ/?tag=tolees-21) con 55.17 de descuento por 39.89 EUR (original: 88.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DXVQ62K/?tag=tolees-21'
 descuento: '45.65'
+average: '14.13'
 ---
 
 Tienes [Under Armour GL Foundation T - Camiseta de Manga Corta para Hombre  Hombre  1326849-299  City Khaki/Downtown Green/Black  Large](https://www.amazon.es/dp/B07DXVQ62K/?tag=tolees-21) con un 45.65 % de descuento con precio de oferta de 14.13 EUR (original: 26 EUR) en el siguiente enlace!

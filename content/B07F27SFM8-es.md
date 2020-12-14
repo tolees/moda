@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F27SFM8/?tag=tolees-21'
 descuento: '66.36'
+average: '31.96'
 ---
 
 Tienes [Levi s Plus Size 310 Pl Shping SPR Skinny  Vaqueros Mujer  Azul  Chelsea Devils Plus 0022  22 M](https://www.amazon.es/dp/B07F27SFM8/?tag=tolees-21) con un 66.36 % de descuento con precio de oferta de 31.96 EUR (original: 95 EUR) en el siguiente enlace!

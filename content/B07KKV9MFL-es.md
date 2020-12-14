@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KKV9MFL/?tag=tolees-21'
 descuento: '48.89'
+average: '17.89'
 ---
 
 Está [Naf Naf Kenc20 Blusa  Rosa  Rose Pivoine 1304   40 para Mujer](https://www.amazon.es/dp/B07KKV9MFL/?tag=tolees-21) con 48.89 de descuento por 17.89 EUR (original: 35 EUR) en el siguiente enlace!

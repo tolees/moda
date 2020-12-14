@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JM9Z6TY/?tag=tolees-21'
 descuento: '58.77'
+average: '16.45'
 ---
 
 Está [Superdry Shirt Shop tee Camiseta de Tirantes  Rojo  Red Feeder Grit Zk3   Large para Hombre](https://www.amazon.es/dp/B07JM9Z6TY/?tag=tolees-21) con 58.77 de descuento por 16.45 EUR (original: 39.9 EUR) en el siguiente enlace!

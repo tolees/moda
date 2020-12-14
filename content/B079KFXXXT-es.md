@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079KFXXXT/?tag=tolees-21'
 descuento: '76.51'
+average: '12.92'
 ---
 
 Está [Under Armour Fitted CG Hoodie Sudadera con Capucha  Hombre  Negro/Gris  XXL](https://www.amazon.es/dp/B079KFXXXT/?tag=tolees-21) con 76.51 de descuento por 12.92 EUR (original: 55 EUR) en el siguiente enlace!

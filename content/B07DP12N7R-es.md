@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DP12N7R/?tag=tolees-21'
 descuento: '40.00'
+average: '18'
 ---
 
 Ahora mismo tienes [Eastpak The One Bolso Bandolera  21 cm  2.5 Liters  Gris  Concrete Grey ](https://www.amazon.es/dp/B07DP12N7R/?tag=tolees-21) a 18 EUR (original: 30 EUR) (40.00 %  de descuento) en el siguiente enlace!

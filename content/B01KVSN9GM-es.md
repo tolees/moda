@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01KVSN9GM/?tag=tolees-21'
 descuento: '27.24'
+average: '90.95'
 ---
 
 Está [Timberland Adventure 2.0 Cupsole Alpine Zapatillas Hombre  Negro  Black Nubuck 001   44.5 EU  10 UK ](https://www.amazon.es/dp/B01KVSN9GM/?tag=tolees-21) con 27.24 de descuento por 90.95 EUR (original: 125 EUR) en el siguiente enlace!

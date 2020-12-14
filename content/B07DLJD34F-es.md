@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DLJD34F/?tag=tolees-21'
 descuento: '48.25'
+average: '15.52'
 ---
 
 Ahora mismo tienes [Women s Secret TF Black Dots PJ  Conjuntos de Pijama para Mujer   Varios 98  Small  Tamaño del Fabricante:S ](https://www.amazon.es/dp/B07DLJD34F/?tag=tolees-21) a 15.52 EUR (original: 29.99 EUR) (48.25 %  de descuento) en el siguiente enlace!

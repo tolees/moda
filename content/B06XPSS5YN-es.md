@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XPSS5YN/?tag=tolees-21'
 descuento: '57.50'
+average: '12.73'
 ---
 
 Ahora mismo tienes [Desigual TS_Simba Camiseta  Rojo  Borgoña 3007   X-Large para Mujer](https://www.amazon.es/dp/B06XPSS5YN/?tag=tolees-21) a 12.73 EUR (original: 29.95 EUR) (57.50 %  de descuento) en el siguiente enlace!

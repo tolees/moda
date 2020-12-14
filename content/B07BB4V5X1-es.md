@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BB4V5X1/?tag=tolees-21'
 descuento: '39.93'
+average: '42.05'
 ---
 
 Ahora mismo tienes [The North Face Hoodie Sudadera con Capucha Surgent Halfdome  Hombre  Error:#  M](https://www.amazon.es/dp/B07BB4V5X1/?tag=tolees-21) a 42.05 EUR (original: 70 EUR) (39.93 %  de descuento) en el siguiente enlace!

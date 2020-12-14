@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077XN45TJ/?tag=tolees-21'
 descuento: '73.03'
+average: '16.18'
 ---
 
 Ahora mismo tienes [Under Armour 1309661-448 - Sudadera de Ropa Deportiva para Niñas  Color Venetian Blue/Deceit  Talla Extra Grande](https://www.amazon.es/dp/B077XN45TJ/?tag=tolees-21) a 16.18 EUR (original: 60 EUR) (73.03 %  de descuento) en el siguiente enlace!

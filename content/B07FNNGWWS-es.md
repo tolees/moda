@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FNNGWWS/?tag=tolees-21'
 descuento: '27.02'
+average: '58.38'
 ---
 
 Está [JACK & JONES Jjitim Jjoriginal Jos 220 Noos  Vaqueros Slim para Hombre  Negro Black Denim  W32/L34](https://www.amazon.es/dp/B07FNNGWWS/?tag=tolees-21) con 27.02 de descuento por 58.38 EUR (original: 79.99 EUR) en el siguiente enlace!

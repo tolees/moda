@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MXM1H9C/?tag=tolees-21'
 descuento: '91.30'
+average: '10.96'
 ---
 
 Ahora mismo tienes [APART Fashion Glamour: Nightblue-Lagoon Blue  Vestido de Fiesta para Mujer  Azul Marine  40](https://www.amazon.es/dp/B01MXM1H9C/?tag=tolees-21) a 10.96 EUR (original: 126.01 EUR) (91.30 %  de descuento) en el siguiente enlace!

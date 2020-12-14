@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FSQYF5D/?tag=tolees-21'
 descuento: '64.09'
+average: '14.36'
 ---
 
 Tienes [JACK & JONES PREMIUM Jprbruxelles Print Shirt L/s Camisa   Tradewinds Slim Fit   Large para Hombre](https://www.amazon.es/dp/B07FSQYF5D/?tag=tolees-21) con un 64.09 % de descuento con precio de oferta de 14.36 EUR (original: 39.99 EUR) en el siguiente enlace!

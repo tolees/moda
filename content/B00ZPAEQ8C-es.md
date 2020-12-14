@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00ZPAEQ8C/?tag=tolees-21'
 descuento: '37.08'
+average: '82.42'
 ---
 
 Ahora mismo tienes [Carrera 5003/ST XT KRW Gafas de sol  Azul  Bluette/Blue Sky Grey Speckled   57 Unisex-Adulto](https://www.amazon.es/dp/B00ZPAEQ8C/?tag=tolees-21) a 82.42 EUR (original: 131 EUR) (37.08 %  de descuento) en el siguiente enlace!

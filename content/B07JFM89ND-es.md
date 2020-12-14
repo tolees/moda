@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JFM89ND/?tag=tolees-21'
 descuento: '30.01'
+average: '17.49'
 ---
 
 Tienes [IRIS & LILLY Sh191018 bañadores  Multicolor  Palm Print   40  Talla del fabricante: Medium ](https://www.amazon.es/dp/B07JFM89ND/?tag=tolees-21) con un 30.01 % de descuento con precio de oferta de 17.49 EUR (original: 24.99 EUR) en el siguiente enlace!

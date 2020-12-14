@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DV811VW/?tag=tolees-21'
 descuento: '55.08'
+average: '26.95'
 ---
 
 Ahora mismo tienes [Volcom Sngl STN DIV Crew Sudadera  Hombre  Negro  Sulfur Black   L](https://www.amazon.es/dp/B07DV811VW/?tag=tolees-21) a 26.95 EUR (original: 60 EUR) (55.08 %  de descuento) en el siguiente enlace!

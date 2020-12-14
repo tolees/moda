@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07H93GY8Y/?tag=tolees-21'
 descuento: '58.69'
+average: '7.49'
 ---
 
 Tienes [New Look Fluffy 59515  Camiseta Mujer  Rojo  Dark Burgundy    42  Talla fabricante: 14 ](https://www.amazon.es/dp/B07H93GY8Y/?tag=tolees-21) con un 58.69 % de descuento con precio de oferta de 7.49 EUR (original: 18.13 EUR) en el siguiente enlace!

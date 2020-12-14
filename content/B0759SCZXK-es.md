@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0759SCZXK/?tag=tolees-21'
 descuento: '29.46'
+average: '53.9'
 ---
 
 Tienes [Clarks Tri Chloe  Sandalias de Talón Abierto para Mujer  Plateado  Metallic   41 EU](https://www.amazon.es/dp/B0759SCZXK/?tag=tolees-21) con un 29.46 % de descuento con precio de oferta de 53.9 EUR (original: 76.41 EUR) en el siguiente enlace!

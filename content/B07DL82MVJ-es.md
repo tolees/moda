@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DL82MVJ/?tag=tolees-21'
 descuento: '61.01'
+average: '16.76'
 ---
 
 Ahora mismo tienes [Springfield 4.2.T.Ap. Biker PU  Chaqueta para Mujer   Negro 1    Tamaño del Fabricante:38 ](https://www.amazon.es/dp/B07DL82MVJ/?tag=tolees-21) a 16.76 EUR (original: 42.99 EUR) (61.01 %  de descuento) en el siguiente enlace!

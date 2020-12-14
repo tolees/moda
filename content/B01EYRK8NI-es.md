@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01EYRK8NI/?tag=tolees-21'
 descuento: '38.31'
+average: '10.92'
 ---
 
 Tienes [oodji Ultra Mujer Vestido de Punto Estampado Gráfico  Naranja  ES 36 / XS](https://www.amazon.es/dp/B01EYRK8NI/?tag=tolees-21) con un 38.31 % de descuento con precio de oferta de 10.92 EUR (original: 17.7 EUR) en el siguiente enlace!

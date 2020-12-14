@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01D8LV1T6/?tag=tolees-21'
 descuento: '30.00'
+average: '70'
 ---
 
 Está [The North Face Nimble H Sudadera  Hombre  Negro  TNF Black   M](https://www.amazon.es/dp/B01D8LV1T6/?tag=tolees-21) con 30.00 de descuento por 70 EUR (original: 100 EUR) en el siguiente enlace!

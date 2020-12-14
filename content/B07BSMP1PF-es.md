@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BSMP1PF/?tag=tolees-21'
 descuento: '86.37'
+average: '20.31'
 ---
 
 Ahora mismo tienes [REPLAY Jacksy  Vaqueros Straight Mujer  Azul  Light Blue Denim 10   W24/L30](https://www.amazon.es/dp/B07BSMP1PF/?tag=tolees-21) a 20.31 EUR (original: 149 EUR) (86.37 %  de descuento) en el siguiente enlace!

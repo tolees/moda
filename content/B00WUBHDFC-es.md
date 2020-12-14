@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00WUBHDFC/?tag=tolees-21'
 descuento: '60.35'
+average: '15.84'
 ---
 
 Tienes [CASUAL FRIDAY 500924  Camisa para Hombre  50105 Bright White  L](https://www.amazon.es/dp/B00WUBHDFC/?tag=tolees-21) con un 60.35 % de descuento con precio de oferta de 15.84 EUR (original: 39.95 EUR) en el siguiente enlace!

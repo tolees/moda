@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079SGPBHM/?tag=tolees-21'
 descuento: '50.03'
+average: '44.95'
 ---
 
 Está [Desigual Vest_Julianne  Vestido para Mujer   Verde Botella 4009   Medium](https://www.amazon.es/dp/B079SGPBHM/?tag=tolees-21) con 50.03 de descuento por 44.95 EUR (original: 89.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0744PRH6V/?tag=tolees-21'
 descuento: '71.13'
+average: '23.09'
 ---
 
 Tienes [ONLY Onldana Nylon Coat Otw  Abrigo Mujer  Verde  Peat Detail:Melange   36  Talla del fabricante: Small ](https://www.amazon.es/dp/B0744PRH6V/?tag=tolees-21) con un 71.13 % de descuento con precio de oferta de 23.09 EUR (original: 79.99 EUR) en el siguiente enlace!

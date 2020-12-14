@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01HGQZGCM/?tag=tolees-21'
 descuento: '40.00'
+average: '23.4'
 ---
 
 Está [Nike M NSW Short JSY Club Pantalón Corto  Sin género  Gris Oscuro/Blanco  S](https://www.amazon.es/dp/B01HGQZGCM/?tag=tolees-21) con 40.00 de descuento por 23.4 EUR (original: 39 EUR) en el siguiente enlace!

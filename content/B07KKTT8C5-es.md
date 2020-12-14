@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KKTT8C5/?tag=tolees-21'
 descuento: '62.07'
+average: '11.38'
 ---
 
 Ahora mismo tienes [Naf Naf Keng9 Chaqueta Punto  Negro  Noir 625   Large para Mujer](https://www.amazon.es/dp/B07KKTT8C5/?tag=tolees-21) a 11.38 EUR (original: 30 EUR) (62.07 %  de descuento) en el siguiente enlace!

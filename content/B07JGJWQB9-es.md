@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JGJWQB9/?tag=tolees-21'
 descuento: '30.02'
+average: '10.49'
 ---
 
 Está [IRIS & LILLY Sh191278 Braguita de Bikini  Multicolor  Midori   36  Talla del fabricante: X-Small ](https://www.amazon.es/dp/B07JGJWQB9/?tag=tolees-21) con 30.02 de descuento por 10.49 EUR (original: 14.99 EUR) en el siguiente enlace!

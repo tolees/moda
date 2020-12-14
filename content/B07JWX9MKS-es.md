@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JWX9MKS/?tag=tolees-21'
 descuento: '35.00'
+average: '25.35'
 ---
 
 Está [Lacoste Sport Th7618  Camiseta para Hombre  Azul  Pratensis Adb  Small  Talla del Fabricante: 3 ](https://www.amazon.es/dp/B07JWX9MKS/?tag=tolees-21) con 35.00 de descuento por 25.35 EUR (original: 39 EUR) en el siguiente enlace!

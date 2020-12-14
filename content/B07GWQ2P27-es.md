@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GWQ2P27/?tag=tolees-21'
 descuento: '50.03'
+average: '9.99'
 ---
 
 Tienes [L-RUN Hombres Zapatos de Senderismo Zapatillas de Deporte al Aire Libre Transpirable Verde 43](https://www.amazon.es/dp/B07GWQ2P27/?tag=tolees-21) con un 50.03 % de descuento con precio de oferta de 9.99 EUR (original: 19.99 EUR) en el siguiente enlace!

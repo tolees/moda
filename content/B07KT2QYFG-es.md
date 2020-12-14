@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KT2QYFG/?tag=tolees-21'
 descuento: '47.79'
+average: '14.62'
 ---
 
 Tienes [Salomon Coton Logo SS tee Camiseta  Hombre  Gris  Vapor   M](https://www.amazon.es/dp/B07KT2QYFG/?tag=tolees-21) con un 47.79 % de descuento con precio de oferta de 14.62 EUR (original: 28 EUR) en el siguiente enlace!

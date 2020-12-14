@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01CSTFEJ2/?tag=tolees-21'
 descuento: '34.34'
+average: '6.5'
 ---
 
 Tienes [Joma 900248.700 - Camiseta para Mujer  Color Azul Royal  Talla M](https://www.amazon.es/dp/B01CSTFEJ2/?tag=tolees-21) con un 34.34 % de descuento con precio de oferta de 6.5 EUR (original: 9.9 EUR) en el siguiente enlace!

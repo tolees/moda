@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D7QT5WF/?tag=tolees-21'
 descuento: '66.59'
+average: '23.37'
 ---
 
 Está [BOSS Casual Tyger  Camiseta Hombre  Azul  Dark Blue 404   Medium](https://www.amazon.es/dp/B07D7QT5WF/?tag=tolees-21) con 66.59 de descuento por 23.37 EUR (original: 69.95 EUR) en el siguiente enlace!

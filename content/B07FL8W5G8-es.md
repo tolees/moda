@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FL8W5G8/?tag=tolees-21'
 descuento: '64.55'
+average: '38.96'
 ---
 
 Está [Superdry Technical Hooded Pop Zip Windc  Chaqueta Deportiva para Mujer  Negro  Black Marl/Geo Print Mesh Xd7   X-Small  Talla del Fabricante: 8.0 ](https://www.amazon.es/dp/B07FL8W5G8/?tag=tolees-21) con 64.55 de descuento por 38.96 EUR (original: 109.9 EUR) en el siguiente enlace!

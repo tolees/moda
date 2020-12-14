@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JG5GCHQ/?tag=tolees-21'
 descuento: '73.35'
+average: '15.99'
 ---
 
 Tienes [Lifewit Bolsa Térmica con Doble Compartimentos Aislamiento Multiuso Caja De Almuerzo para Hombres Mujeres Niños Bebé Bolso Térmico para Camping Excursión Playa Refrescos 7L  Rojo ](https://www.amazon.es/dp/B07JG5GCHQ/?tag=tolees-21) con un 73.35 % de descuento con precio de oferta de 15.99 EUR (original: 59.99 EUR) en el siguiente enlace!

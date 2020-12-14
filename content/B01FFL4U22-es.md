@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01FFL4U22/?tag=tolees-21'
 descuento: '33.37'
+average: '19.99'
 ---
 
 Tienes [Under Armour HG Armour 2.0 Long Short Pantalón Corto  Hombre  Blanco  White/Graphite 100   XS](https://www.amazon.es/dp/B01FFL4U22/?tag=tolees-21) con un 33.37 % de descuento con precio de oferta de 19.99 EUR (original: 30 EUR) en el siguiente enlace!

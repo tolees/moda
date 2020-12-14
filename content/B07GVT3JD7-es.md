@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GVT3JD7/?tag=tolees-21'
 descuento: '68.93'
+average: '15.53'
 ---
 
 Ahora mismo tienes [JACK & JONES Jcojans Sweat Zip Hood  Sudadera para Hombre  Gris  Light Grey Melange   Talla del Fabricante: Large Herstellergr L](https://www.amazon.es/dp/B07GVT3JD7/?tag=tolees-21) a 15.53 EUR (original: 49.99 EUR) (68.93 %  de descuento) en el siguiente enlace!

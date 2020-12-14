@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DLFTXPH/?tag=tolees-21'
 descuento: '67.22'
+average: '8.52'
 ---
 
 Está [Springfield 4Ba Abiert Capu Pique Gr Sudadera  Hombre  Rojo  Gama Rojos 68   Large  Tamaño del Fabricante:L ](https://www.amazon.es/dp/B07DLFTXPH/?tag=tolees-21) con 67.22 de descuento por 8.52 EUR (original: 25.99 EUR) en el siguiente enlace!

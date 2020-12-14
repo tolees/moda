@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078B1LQXV/?tag=tolees-21'
 descuento: '44.43'
+average: '41.68'
 ---
 
 Está [Nike Air Versitile III  Zapatos de Baloncesto Unisex Adulto   White/Black/Dark Grey 100   45.5 EU](https://www.amazon.es/dp/B078B1LQXV/?tag=tolees-21) con 44.43 de descuento por 41.68 EUR (original: 75 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075RGBHY1/?tag=tolees-21'
 descuento: '70.44'
+average: '7.98'
 ---
 
 Está [Double Agent 87229  Camiseta para Mujer   Gris Malva     Tamaño del Fabricante:S ](https://www.amazon.es/dp/B075RGBHY1/?tag=tolees-21) con 70.44 de descuento por 7.98 EUR (original: 27 EUR) en el siguiente enlace!

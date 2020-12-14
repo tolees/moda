@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07QZSJF1F/?tag=tolees-21'
 descuento: '50.13'
+average: '1.99'
 ---
 
 Ahora mismo tienes [Sandalias Mujer Verano 2019 SHOBDW Rebajas Zapatos Tangas Chanclas para Mujer Slim Zapatillas Cuña Mujer Plataforma Zapatos de Playa Boho Rosa 37 EU ](https://www.amazon.es/dp/B07QZSJF1F/?tag=tolees-21) a 1.99 EUR (original: 3.99 EUR) (50.13 %  de descuento) en el siguiente enlace!

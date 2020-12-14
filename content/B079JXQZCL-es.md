@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079JXQZCL/?tag=tolees-21'
 descuento: '59.18'
+average: '20'
 ---
 
 Está [Napapijri Solin LS  Camiseta  Hombre  Verde  Green Musk Gd3   X-Large](https://www.amazon.es/dp/B079JXQZCL/?tag=tolees-21) con 59.18 de descuento por 20 EUR (original: 49 EUR) en el siguiente enlace!

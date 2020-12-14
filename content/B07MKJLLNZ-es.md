@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MKJLLNZ/?tag=tolees-21'
 descuento: '73.72'
+average: '26.27'
 ---
 
 Está [G-STAR RAW Lynn Mid-Waist Skinny Vaqueros  Azul  Medium Indigo Aged 8968-6028   25W / 34L para Mujer](https://www.amazon.es/dp/B07MKJLLNZ/?tag=tolees-21) con 73.72 de descuento por 26.27 EUR (original: 99.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07K51TSCG/?tag=tolees-21'
 descuento: '49.78'
+average: '12.53'
 ---
 
 Está [Levi s kids Nn10227 11 Short Sleeve tee-Shirt Camiseta  Marfil  Écru   3 años  Talla del Fabricante: 3Y  para Niños](https://www.amazon.es/dp/B07K51TSCG/?tag=tolees-21) con 49.78 de descuento por 12.53 EUR (original: 24.95 EUR) en el siguiente enlace!

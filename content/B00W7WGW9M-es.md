@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00W7WGW9M/?tag=tolees-21'
 descuento: '83.24'
+average: '11.07'
 ---
 
 Está [eleMar Tankini Bikini  Mujer  Negro  Schwarz-Nelke-Weiß/Schwarz   42D](https://www.amazon.es/dp/B00W7WGW9M/?tag=tolees-21) con 83.24 de descuento por 11.07 EUR (original: 66.04 EUR) en el siguiente enlace!

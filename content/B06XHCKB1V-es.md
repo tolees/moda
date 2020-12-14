@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XHCKB1V/?tag=tolees-21'
 descuento: '66.38'
+average: '26.9'
 ---
 
 Está [Helly Hansen Hh Lifa Merino Crew  Camiseta de Manga Larga para Hombre  Azul  Olympian Azul   XX-Large  Tamaño del fabricante:2XL ](https://www.amazon.es/dp/B06XHCKB1V/?tag=tolees-21) con 66.38 de descuento por 26.9 EUR (original: 80 EUR) en el siguiente enlace!

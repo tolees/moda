@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CCDBXP8/?tag=tolees-21'
 descuento: '50.09'
+average: '24.95'
 ---
 
 Tienes [JACK & JONES Jorriver Jacket Chaqueta  Azul Total Eclipse  Medium para Hombre](https://www.amazon.es/dp/B07CCDBXP8/?tag=tolees-21) con un 50.09 % de descuento con precio de oferta de 24.95 EUR (original: 49.99 EUR) en el siguiente enlace!

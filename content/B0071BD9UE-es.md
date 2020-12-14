@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0071BD9UE/?tag=tolees-21'
 descuento: '71.14'
+average: '18.76'
 ---
 
 Ahora mismo tienes [Timberland Timber Tykes Hook and Loop  Botas para Niños  Amarillo  Wheat   20.5 EU](https://www.amazon.es/dp/B0071BD9UE/?tag=tolees-21) a 18.76 EUR (original: 65 EUR) (71.14 %  de descuento) en el siguiente enlace!

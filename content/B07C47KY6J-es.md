@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07C47KY6J/?tag=tolees-21'
 descuento: '61.62'
+average: '38'
 ---
 
 Tienes [Pepe Jeans Track  Vaqueros para Hombre  Negro  Denim WC5  30W / 32L](https://www.amazon.es/dp/B07C47KY6J/?tag=tolees-21) con un 61.62 % de descuento con precio de oferta de 38 EUR (original: 99 EUR) en el siguiente enlace!

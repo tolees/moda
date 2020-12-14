@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KKRKY6S/?tag=tolees-21'
 descuento: '61.47'
+average: '26.97'
 ---
 
 Está [Naf Naf Kenr49d  Vestido Mujer  Rosa  Framboise 391   38](https://www.amazon.es/dp/B07KKRKY6S/?tag=tolees-21) con 61.47 de descuento por 26.97 EUR (original: 70 EUR) en el siguiente enlace!

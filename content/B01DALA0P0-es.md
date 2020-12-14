@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01DALA0P0/?tag=tolees-21'
 descuento: '40.08'
+average: '2.99'
 ---
 
 Está [Izas Mijares Camiseta  Mujer  Fucsia  S](https://www.amazon.es/dp/B01DALA0P0/?tag=tolees-21) con 40.08 de descuento por 2.99 EUR (original: 4.99 EUR) en el siguiente enlace!

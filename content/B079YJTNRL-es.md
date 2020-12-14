@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079YJTNRL/?tag=tolees-21'
 descuento: '70.00'
+average: '12'
 ---
 
 Está [FIND AMZ090101 vaqueros mujer  Azul  Blue   W26/L32](https://www.amazon.es/dp/B079YJTNRL/?tag=tolees-21) con 70.00 de descuento por 12 EUR (original: 40 EUR) en el siguiente enlace!

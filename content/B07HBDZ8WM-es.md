@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HBDZ8WM/?tag=tolees-21'
 descuento: '47.94'
+average: '9.37'
 ---
 
 Tienes [Disney Minnie Mouse Minnie Mouse Flower Hat  Sudadera para Niñas  Gris  Grey Marl  6-7 años](https://www.amazon.es/dp/B07HBDZ8WM/?tag=tolees-21) con un 47.94 % de descuento con precio de oferta de 9.37 EUR (original: 18 EUR) en el siguiente enlace!

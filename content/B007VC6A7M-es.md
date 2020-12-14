@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B007VC6A7M/?tag=tolees-21'
 descuento: '41.77'
+average: '81.52'
 ---
 
 Ahora mismo tienes [Timberland Classic 2-Eye  Náuticos para Hombre  Marrón  Brown 452   45.5 EU](https://www.amazon.es/dp/B007VC6A7M/?tag=tolees-21) a 81.52 EUR (original: 140 EUR) (41.77 %  de descuento) en el siguiente enlace!

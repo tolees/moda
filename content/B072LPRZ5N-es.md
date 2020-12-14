@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072LPRZ5N/?tag=tolees-21'
 descuento: '65.78'
+average: '10.25'
 ---
 
 Ahora mismo tienes [Puma Evostripe Basic tee Camiseta  Hombre  Verde  S](https://www.amazon.es/dp/B072LPRZ5N/?tag=tolees-21) a 10.25 EUR (original: 29.95 EUR) (65.78 %  de descuento) en el siguiente enlace!

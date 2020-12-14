@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MNRKXDB/?tag=tolees-21'
 descuento: '45.06'
+average: '21.95'
 ---
 
 Está [G-STAR RAW Swando Graphic Relaxed Longsleeve Camiseta  Blanco  White 110   Small para Hombre](https://www.amazon.es/dp/B07MNRKXDB/?tag=tolees-21) con 45.06 de descuento por 21.95 EUR (original: 39.95 EUR) en el siguiente enlace!

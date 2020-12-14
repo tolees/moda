@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F46KDXN/?tag=tolees-21'
 descuento: '50.43'
+average: '9.89'
 ---
 
 Ahora mismo tienes [Puma Active Camiseta  Mujer  Beetroot Purple  XS](https://www.amazon.es/dp/B07F46KDXN/?tag=tolees-21) a 9.89 EUR (original: 19.95 EUR) (50.43 %  de descuento) en el siguiente enlace!

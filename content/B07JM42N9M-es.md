@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JM42N9M/?tag=tolees-21'
 descuento: '49.14'
+average: '20.32'
 ---
 
 Está [XTI 48920  Sandalias con Plataforma para Mujer  Negro  37 EU](https://www.amazon.es/dp/B07JM42N9M/?tag=tolees-21) con 49.14 de descuento por 20.32 EUR (original: 39.95 EUR) en el siguiente enlace!

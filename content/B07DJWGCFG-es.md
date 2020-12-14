@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DJWGCFG/?tag=tolees-21'
 descuento: '50.09'
+average: '24.95'
 ---
 
 Está [Only Onlnew Skylar Fur Parka CC Otw  Chaqueta para Mujer  Rosa Misty Rose  42  Talla del Fabricante: X-Large ](https://www.amazon.es/dp/B07DJWGCFG/?tag=tolees-21) con 50.09 de descuento por 24.95 EUR (original: 49.99 EUR) en el siguiente enlace!

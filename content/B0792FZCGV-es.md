@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0792FZCGV/?tag=tolees-21'
 descuento: '73.95'
+average: '33.84'
 ---
 
 Tienes [Geox U Norwolk  Botas Chukka para Hombre  Beige  Biscuit C5046   45 EU](https://www.amazon.es/dp/B0792FZCGV/?tag=tolees-21) con un 73.95 % de descuento con precio de oferta de 33.84 EUR (original: 129.9 EUR) en el siguiente enlace!

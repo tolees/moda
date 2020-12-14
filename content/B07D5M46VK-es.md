@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D5M46VK/?tag=tolees-21'
 descuento: '72.83'
+average: '24.18'
 ---
 
 Está [Nautica French Terry Sudadera  Azul  Navy 4nv   Medium  Tamaño del Fabricante:M  para Hombre](https://www.amazon.es/dp/B07D5M46VK/?tag=tolees-21) con 72.83 de descuento por 24.18 EUR (original: 89 EUR) en el siguiente enlace!

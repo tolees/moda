@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CK48ND5/?tag=tolees-21'
 descuento: '80.27'
+average: '7.99'
 ---
 
 Tienes [Mr.Van LED Plegable Espejo  Espejo Portátil de Viaje con 3 Pliegues/Espejo de Maquillaje con 8 Leds/Foldable Espejo del Bolso con Luces](https://www.amazon.es/dp/B07CK48ND5/?tag=tolees-21) con un 80.27 % de descuento con precio de oferta de 7.99 EUR (original: 40.5 EUR) en el siguiente enlace!

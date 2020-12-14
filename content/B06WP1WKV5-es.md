@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06WP1WKV5/?tag=tolees-21'
 descuento: '62.88'
+average: '14.07'
 ---
 
 Tienes [boboli 424123 Vestido  Niñas  Azul  Atlantic   152  Tamaño del Fabricante:152cm ](https://www.amazon.es/dp/B06WP1WKV5/?tag=tolees-21) con un 62.88 % de descuento con precio de oferta de 14.07 EUR (original: 37.9 EUR) en el siguiente enlace!

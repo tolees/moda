@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MZJ7BW1/?tag=tolees-21'
 descuento: '47.30'
+average: '20.95'
 ---
 
 Tienes [Superdry Premium Goods Racer Stripe tee Camiseta  Negro  Vintage Black Grit PC4   S para Hombre](https://www.amazon.es/dp/B07MZJ7BW1/?tag=tolees-21) con un 47.30 % de descuento con precio de oferta de 20.95 EUR (original: 39.75 EUR) en el siguiente enlace!

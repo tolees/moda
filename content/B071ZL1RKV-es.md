@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071ZL1RKV/?tag=tolees-21'
 descuento: '65.18'
+average: '10.43'
 ---
 
 Tienes [Blend 20705146  Camisa Para Hombre  Multicolor  White   XL](https://www.amazon.es/dp/B071ZL1RKV/?tag=tolees-21) con un 65.18 % de descuento con precio de oferta de 10.43 EUR (original: 29.95 EUR) en el siguiente enlace!

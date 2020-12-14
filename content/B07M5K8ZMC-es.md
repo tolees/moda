@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07M5K8ZMC/?tag=tolees-21'
 descuento: '33.10'
+average: '53.52'
 ---
 
 Ahora mismo tienes [The North Face Drew Peak Sudadera  Hombre  Verde  Garden Green   XS](https://www.amazon.es/dp/B07M5K8ZMC/?tag=tolees-21) a 53.52 EUR (original: 80 EUR) (33.10 %  de descuento) en el siguiente enlace!

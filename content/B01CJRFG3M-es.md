@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01CJRFG3M/?tag=tolees-21'
 descuento: '69.88'
+average: '14.91'
 ---
 
 Está [PEACE&LOVE BY CALAO Vestido Marrón S](https://www.amazon.es/dp/B01CJRFG3M/?tag=tolees-21) con 69.88 de descuento por 14.91 EUR (original: 49.5 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KPS7TRX/?tag=tolees-21'
 descuento: '53.62'
+average: '46.38'
 ---
 
 Ahora mismo tienes [Gant O1. Micro Floral Shirt Blusa  Blanco  White 110   38  Talla del Fabricante: 36  para Mujer](https://www.amazon.es/dp/B07KPS7TRX/?tag=tolees-21) a 46.38 EUR (original: 99.99 EUR) (53.62 %  de descuento) en el siguiente enlace!

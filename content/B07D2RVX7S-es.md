@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D2RVX7S/?tag=tolees-21'
 descuento: '46.98'
+average: '25.98'
 ---
 
 Está [Gant Henley  Top de Pijama Hombre  Azul  Navy   XX-Large](https://www.amazon.es/dp/B07D2RVX7S/?tag=tolees-21) con 46.98 de descuento por 25.98 EUR (original: 49 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076DHCNT7/?tag=tolees-21'
 descuento: '45.84'
+average: '26.54'
 ---
 
 Ahora mismo tienes [Pepe Jeans Simone JR PB580773  Sudadera para Niños  Verde  Stone Green 726  10 años](https://www.amazon.es/dp/B076DHCNT7/?tag=tolees-21) a 26.54 EUR (original: 49 EUR) (45.84 %  de descuento) en el siguiente enlace!

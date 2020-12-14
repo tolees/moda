@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07NC7ZFPJ/?tag=tolees-21'
 descuento: '70.45'
+average: '28.07'
 ---
 
 Ahora mismo tienes [Pepe Jeans Hatch Vaqueros Hombre Ajustados  Negro  Black Used Denim Wd2   W31/L32 para](https://www.amazon.es/dp/B07NC7ZFPJ/?tag=tolees-21) a 28.07 EUR (original: 95 EUR) (70.45 %  de descuento) en el siguiente enlace!

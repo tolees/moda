@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FPJBSNK/?tag=tolees-21'
 descuento: '59.19'
+average: '18.36'
 ---
 
 Está [MAMALICIOUS Mlzoe L/s Knit Top A  Jersey premamá Mujer  Gris  Light Grey Melange   42  Talla del Fabricante: Large ](https://www.amazon.es/dp/B07FPJBSNK/?tag=tolees-21) con 59.19 de descuento por 18.36 EUR (original: 44.99 EUR) en el siguiente enlace!

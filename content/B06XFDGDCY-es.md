@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XFDGDCY/?tag=tolees-21'
 descuento: '90.46'
+average: '5.34'
 ---
 
 Tienes [Juana Barranco Tesa Falda Casual  Mujer  Negro  46  Tamaño del Fabricante:L ](https://www.amazon.es/dp/B06XFDGDCY/?tag=tolees-21) con un 90.46 % de descuento con precio de oferta de 5.34 EUR (original: 56 EUR) en el siguiente enlace!

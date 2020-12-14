@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FGYRJXQ/?tag=tolees-21'
 descuento: '44.10'
+average: '55.89'
 ---
 
 Está [Columbia Northern Comfort II Hoodie Sudadera  Hombre  Negro  Talla XXL](https://www.amazon.es/dp/B07FGYRJXQ/?tag=tolees-21) con 44.10 de descuento por 55.89 EUR (original: 99.99 EUR) en el siguiente enlace!

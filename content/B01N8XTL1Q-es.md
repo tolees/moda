@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N8XTL1Q/?tag=tolees-21'
 descuento: '32.05'
+average: '14.95'
 ---
 
 Está [Umbro Freedom Chaqueta  Hombre  Azul Royal  L](https://www.amazon.es/dp/B01N8XTL1Q/?tag=tolees-21) con 32.05 de descuento por 14.95 EUR (original: 22 EUR) en el siguiente enlace!

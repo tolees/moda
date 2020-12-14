@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DLLKN1Y/?tag=tolees-21'
 descuento: '59.49'
+average: '22.68'
 ---
 
 Ahora mismo tienes [Springfield Abrigo Franq Paño  Negro 1    Tamaño del Fabricante:40  para Mujer](https://www.amazon.es/dp/B07DLLKN1Y/?tag=tolees-21) a 22.68 EUR (original: 55.99 EUR) (59.49 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MZKJ9MX/?tag=tolees-21'
 descuento: '43.11'
+average: '51.14'
 ---
 
 Está [Superdry Heritage Classic Lite Hood Sudadera  Rojo  Eagle Red A7Z   XXL para Hombre](https://www.amazon.es/dp/B07MZKJ9MX/?tag=tolees-21) con 43.11 de descuento por 51.14 EUR (original: 89.9 EUR) en el siguiente enlace!

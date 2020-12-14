@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07LGZR8K5/?tag=tolees-21'
 descuento: '42.33'
+average: '17.3'
 ---
 
 Ahora mismo tienes [The North Face S/S tee Camiseta Celebration Easy  Hombre  TNFwhit  M](https://www.amazon.es/dp/B07LGZR8K5/?tag=tolees-21) a 17.3 EUR (original: 30 EUR) (42.33 %  de descuento) en el siguiente enlace!

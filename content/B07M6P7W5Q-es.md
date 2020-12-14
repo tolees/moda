@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07M6P7W5Q/?tag=tolees-21'
 descuento: '66.69'
+average: '9.99'
 ---
 
 Está [Cartera de Pasaporte Viaje Parta Pasaporte Documentos Familiar RFID Organizador de Documentos Pasaportes  Billetera de Viaje  Tarjeta de Crédito  Carnet de Identidad  Adecuado para Hombres Mujeres](https://www.amazon.es/dp/B07M6P7W5Q/?tag=tolees-21) con 66.69 de descuento por 9.99 EUR (original: 29.99 EUR) en el siguiente enlace!

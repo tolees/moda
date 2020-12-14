@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01BJVNZSW/?tag=tolees-21'
 descuento: '73.04'
+average: '8.93'
 ---
 
 Está [Jako Chaqueta De Presentación de Striker  Infantil  Präsentationsjacke Striker  Nightblue/Flame](https://www.amazon.es/dp/B01BJVNZSW/?tag=tolees-21) con 73.04 de descuento por 8.93 EUR (original: 33.12 EUR) en el siguiente enlace!

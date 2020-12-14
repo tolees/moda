@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CL5KJMS/?tag=tolees-21'
 descuento: '68.26'
+average: '15.84'
 ---
 
 Tienes [Lovable 9l076c Pijama   Verde 009   Medium para Mujer](https://www.amazon.es/dp/B07CL5KJMS/?tag=tolees-21) con un 68.26 % de descuento con precio de oferta de 15.84 EUR (original: 49.9 EUR) en el siguiente enlace!

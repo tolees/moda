@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KSQ71YN/?tag=tolees-21'
 descuento: '38.07'
+average: '61.92'
 ---
 
 Tienes [Columbia Hombre Chaqueta impermeable  Inner Limits Jacket  Poliéster  Negro/Azul  Cool Grey Heather/Collegiate Blue   Talla: M  1714181](https://www.amazon.es/dp/B07KSQ71YN/?tag=tolees-21) con un 38.07 % de descuento con precio de oferta de 61.92 EUR (original: 99.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CSBKYRG/?tag=tolees-21'
 descuento: '82.74'
+average: '15.52'
 ---
 
 Está [Pepe Jeans New Brooke Vaqueros  Azul  Denim Cn8   24W / 30L para Mujer](https://www.amazon.es/dp/B07CSBKYRG/?tag=tolees-21) con 82.74 de descuento por 15.52 EUR (original: 89.9 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079K5BH3P/?tag=tolees-21'
 descuento: '71.27'
+average: '22.97'
 ---
 
 Tienes [Lee Daren Zip Fly Vaqueros rectors Rectos  Azul  Light Blue Worn Vp   28W/32L para Hombre](https://www.amazon.es/dp/B079K5BH3P/?tag=tolees-21) con un 71.27 % de descuento con precio de oferta de 22.97 EUR (original: 79.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CB6B8QV/?tag=tolees-21'
 descuento: '55.06'
+average: '19.32'
 ---
 
 Tienes [Eferri 0JV5919  Bolso bandolera para Mujer  Marrón  Camel   16x5.5x20.5 cm  W x H x L ](https://www.amazon.es/dp/B07CB6B8QV/?tag=tolees-21) con un 55.06 % de descuento con precio de oferta de 19.32 EUR (original: 42.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JMLY7L1/?tag=tolees-21'
 descuento: '47.36'
+average: '21.03'
 ---
 
 Tienes [XTI 35030  Zapatos de tacón con Punta Cerrada para Mujer  Rosa Nude  39 EU](https://www.amazon.es/dp/B07JMLY7L1/?tag=tolees-21) con un 47.36 % de descuento con precio de oferta de 21.03 EUR (original: 39.95 EUR) en el siguiente enlace!

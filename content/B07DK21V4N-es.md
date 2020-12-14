@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DK21V4N/?tag=tolees-21'
 descuento: '50.00'
+average: '23.95'
 ---
 
 Ahora mismo tienes [Geox B Tutim a  Zapatillas para Bebés  Navy/White C4211  22 EU](https://www.amazon.es/dp/B07DK21V4N/?tag=tolees-21) a 23.95 EUR (original: 47.9 EUR) (50.00 %  de descuento) en el siguiente enlace!

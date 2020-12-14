@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074BZLKD3/?tag=tolees-21'
 descuento: '50.56'
+average: '37.08'
 ---
 
 Ahora mismo tienes [Pepe Jeans New Brooke Pl200019 Vaqueros  Negro  10Oz Washed Black S98   26W / 32L para Mujer](https://www.amazon.es/dp/B074BZLKD3/?tag=tolees-21) a 37.08 EUR (original: 75 EUR) (50.56 %  de descuento) en el siguiente enlace!

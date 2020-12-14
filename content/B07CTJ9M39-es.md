@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CTJ9M39/?tag=tolees-21'
 descuento: '25.01'
+average: '14.99'
 ---
 
 Está [Iris & Lilly Longline Lace Sujetador Negro Black/Nude  95D  Talla del Fabricante: X-Large ](https://www.amazon.es/dp/B07CTJ9M39/?tag=tolees-21) con 25.01 de descuento por 14.99 EUR (original: 19.99 EUR) en el siguiente enlace!

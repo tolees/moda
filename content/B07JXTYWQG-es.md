@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JXTYWQG/?tag=tolees-21'
 descuento: '80.31'
+average: '19.3'
 ---
 
 Está [Guess Bleached Shirt Camisa Casual  Naranja  Orange Check Bleach Le32   Large para Hombre](https://www.amazon.es/dp/B07JXTYWQG/?tag=tolees-21) con 80.31 de descuento por 19.3 EUR (original: 98 EUR) en el siguiente enlace!

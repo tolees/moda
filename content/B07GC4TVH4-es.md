@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GC4TVH4/?tag=tolees-21'
 descuento: '78.89'
+average: '21.11'
 ---
 
 Tienes [Ulla Popken Longjacke Mit Kapuze Chaqueta  Negro  Schwarz 10   44  Talla del Fabricante: 42  para Mujer](https://www.amazon.es/dp/B07GC4TVH4/?tag=tolees-21) con un 78.89 % de descuento con precio de oferta de 21.11 EUR (original: 99.99 EUR) en el siguiente enlace!

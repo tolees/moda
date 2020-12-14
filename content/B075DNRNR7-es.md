@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075DNRNR7/?tag=tolees-21'
 descuento: '38.37'
+average: '36.95'
 ---
 
 Está [Desigual Vest_Elena  Vestido para Mujer  Rojo  Poppy Red 3213   Large](https://www.amazon.es/dp/B075DNRNR7/?tag=tolees-21) con 38.37 de descuento por 36.95 EUR (original: 59.95 EUR) en el siguiente enlace!

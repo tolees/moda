@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KZ69CJX/?tag=tolees-21'
 descuento: '53.74'
+average: '18.5'
 ---
 
 Está [Cortefiel C6K Popelin Blanco S-Gi Camisa de Vestir  Hombre  Blanco  Blanco 99   Small  Tamaño del Fabricante:S ](https://www.amazon.es/dp/B07KZ69CJX/?tag=tolees-21) con 53.74 de descuento por 18.5 EUR (original: 39.99 EUR) en el siguiente enlace!

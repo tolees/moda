@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MNRJ7XV/?tag=tolees-21'
 descuento: '75.16'
+average: '24.83'
 ---
 
 Ahora mismo tienes [G-STAR RAW Revend Vaqueros skinny para Hombre para Hombre  Negro  lt indigo aged 8968-8436   W36/L34](https://www.amazon.es/dp/B07MNRJ7XV/?tag=tolees-21) a 24.83 EUR (original: 99.95 EUR) (75.16 %  de descuento) en el siguiente enlace!

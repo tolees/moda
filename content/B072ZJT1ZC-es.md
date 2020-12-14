@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072ZJT1ZC/?tag=tolees-21'
 descuento: '71.43'
+average: '7.71'
 ---
 
 Está [Vero Moda Vmjennie LS Top  Camisa Manga Larga Mujer  Verde  Green Gables Green Gables   40  Talla del Fabricante: Large ](https://www.amazon.es/dp/B072ZJT1ZC/?tag=tolees-21) con 71.43 de descuento por 7.71 EUR (original: 26.99 EUR) en el siguiente enlace!

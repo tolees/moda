@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B001KUNFNS/?tag=tolees-21'
 descuento: '40.14'
+average: '12.57'
 ---
 
 Está [Nike Park VI Camiseta de Manga Corta para hombre  Dorado  Jersey Dorado/Black   S](https://www.amazon.es/dp/B001KUNFNS/?tag=tolees-21) con 40.14 de descuento por 12.57 EUR (original: 21 EUR) en el siguiente enlace!

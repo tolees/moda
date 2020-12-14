@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CL6PY89/?tag=tolees-21'
 descuento: '69.75'
+average: '15.12'
 ---
 
 Tienes [Only Onlsui Reg Slim ANK Dnm Jeans Rea4495  Vaqueros Mujer  Negro  Black Denim Black Denim   W29/L32](https://www.amazon.es/dp/B07CL6PY89/?tag=tolees-21) con un 69.75 % de descuento con precio de oferta de 15.12 EUR (original: 49.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0723DF5SP/?tag=tolees-21'
 descuento: '33.93'
+average: '16.51'
 ---
 
 Ahora mismo tienes [PIECES Pckaysa Slip Top Noos  Camiseta sin Mangas Mujer  Rosa  Evening Sand   40  Talla del Fabricante: Medium ](https://www.amazon.es/dp/B0723DF5SP/?tag=tolees-21) a 16.51 EUR (original: 24.99 EUR) (33.93 %  de descuento) en el siguiente enlace!

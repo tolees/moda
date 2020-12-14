@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HH96JPV/?tag=tolees-21'
 descuento: '83.21'
+average: '16.78'
 ---
 
 Está [Lee Rider Vaqueros Slim  Azul  Blue Time CH   W28/L34  Talla del Fabricante: 34/28  para Hombre](https://www.amazon.es/dp/B07HH96JPV/?tag=tolees-21) con 83.21 de descuento por 16.78 EUR (original: 99.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DFVM4V1/?tag=tolees-21'
 descuento: '51.73'
+average: '8.39'
 ---
 
 Tienes [MAMALICIOUS Mlintarsia L/s Knit Blouse A  Jersey premamá Mujer  Marfil  Oatmeal Pattern:Winteasting/Grey Intarsia   40  Talla del Fabricante: Medium ](https://www.amazon.es/dp/B07DFVM4V1/?tag=tolees-21) con un 51.73 % de descuento con precio de oferta de 8.39 EUR (original: 17.38 EUR) en el siguiente enlace!

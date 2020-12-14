@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JZNJ7VY/?tag=tolees-21'
 descuento: '27.32'
+average: '79.95'
 ---
 
 Ahora mismo tienes [Levi s 511 Slim Fit  Vaqueros para Hombre  Azul  Limerick Adv 3309   31W / 30L](https://www.amazon.es/dp/B07JZNJ7VY/?tag=tolees-21) a 79.95 EUR (original: 110 EUR) (27.32 %  de descuento) en el siguiente enlace!

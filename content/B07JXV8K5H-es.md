@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JXV8K5H/?tag=tolees-21'
 descuento: '58.87'
+average: '33.73'
 ---
 
 Ahora mismo tienes [Guess LS Cn Jaguars Swtr  Jersey para Hombre  Negro  Jet Black A996 Jblk  Large](https://www.amazon.es/dp/B07JXV8K5H/?tag=tolees-21) a 33.73 EUR (original: 82 EUR) (58.87 %  de descuento) en el siguiente enlace!

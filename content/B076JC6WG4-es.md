@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076JC6WG4/?tag=tolees-21'
 descuento: '76.15'
+average: '16.68'
 ---
 
 Ahora mismo tienes [Puma FIGC Italia Women Home Shirt Replica SS Camiseta  Mujer  Rojo Chili/Royal  XL](https://www.amazon.es/dp/B076JC6WG4/?tag=tolees-21) a 16.68 EUR (original: 69.95 EUR) (76.15 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DZ8CG34/?tag=tolees-21'
 descuento: '51.76'
+average: '48.24'
 ---
 
 Está [Columbia 1516251_S Chaqueta Cortavientos para Hombre  Cascade Ridge II Softshell  Negro  Black  Azul   S](https://www.amazon.es/dp/B07DZ8CG34/?tag=tolees-21) con 51.76 de descuento por 48.24 EUR (original: 99.99 EUR) en el siguiente enlace!

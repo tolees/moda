@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B014CWNVNO/?tag=tolees-21'
 descuento: '56.09'
+average: '70.25'
 ---
 
 Ahora mismo tienes [Timberland Splitrock 2  Botas Chukka para Hombre  Beige  Wheat   40 EU](https://www.amazon.es/dp/B014CWNVNO/?tag=tolees-21) a 70.25 EUR (original: 160 EUR) (56.09 %  de descuento) en el siguiente enlace!

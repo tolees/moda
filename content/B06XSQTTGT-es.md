@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XSQTTGT/?tag=tolees-21'
 descuento: '69.03'
+average: '21.68'
 ---
 
 Tienes [Pepe Jeans Kenzy AL580037  Sudadera para Mujer  Gris  Grey Marl 933  Large](https://www.amazon.es/dp/B06XSQTTGT/?tag=tolees-21) con un 69.03 % de descuento con precio de oferta de 21.68 EUR (original: 70 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JFJGWPG/?tag=tolees-21'
 descuento: '51.03'
+average: '14.2'
 ---
 
 Está [Timberland tee-Shirt Manches Courtes Camiseta  Blanc 10b  4 años  Talla del Fabricante: 04A  para Niños](https://www.amazon.es/dp/B07JFJGWPG/?tag=tolees-21) con 51.03 de descuento por 14.2 EUR (original: 29 EUR) en el siguiente enlace!

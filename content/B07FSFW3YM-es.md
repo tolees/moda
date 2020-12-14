@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FSFW3YM/?tag=tolees-21'
 descuento: '41.22'
+average: '35.26'
 ---
 
 Está [Naf Naf Jhnr66d  Vestido para Mujer  Azul  Bleu Marine 567  38](https://www.amazon.es/dp/B07FSFW3YM/?tag=tolees-21) con 41.22 de descuento por 35.26 EUR (original: 59.99 EUR) en el siguiente enlace!

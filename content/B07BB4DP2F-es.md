@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BB4DP2F/?tag=tolees-21'
 descuento: '50.00'
+average: '15'
 ---
 
 Está [The North Face T93L6M Camiseta De Manga Corta  Unisex niños  Cosmic Blue  L](https://www.amazon.es/dp/B07BB4DP2F/?tag=tolees-21) con 50.00 de descuento por 15 EUR (original: 30 EUR) en el siguiente enlace!

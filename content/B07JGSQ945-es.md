@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JGSQ945/?tag=tolees-21'
 descuento: '30.01'
+average: '19.59'
 ---
 
 Está [IRIS & LILLY Sh191020 bañadores  Negro  Nero   38  Talla del fabricante: Small ](https://www.amazon.es/dp/B07JGSQ945/?tag=tolees-21) con 30.01 de descuento por 19.59 EUR (original: 27.99 EUR) en el siguiente enlace!

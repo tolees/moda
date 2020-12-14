@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07M59M8XF/?tag=tolees-21'
 descuento: '49.63'
+average: '20.15'
 ---
 
 Ahora mismo tienes [The North Face Wicker Graphic Camiseta  Hombre  Azul  Urban Navy Heather/TNF White   S](https://www.amazon.es/dp/B07M59M8XF/?tag=tolees-21) a 20.15 EUR (original: 40 EUR) (49.63 %  de descuento) en el siguiente enlace!

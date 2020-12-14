@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07H7F85YT/?tag=tolees-21'
 descuento: '46.17'
+average: '13.99'
 ---
 
 Tienes [Portadocumentos para Viajes - IntiPal Billetera Bloqueadora de RFID  Sostenedor Familiar Multiusos para Pasaportes  Organizador de Documentos de Viaje  Conveniente Bolsillo Exterior y Correa Extraible](https://www.amazon.es/dp/B07H7F85YT/?tag=tolees-21) con un 46.17 % de descuento con precio de oferta de 13.99 EUR (original: 25.99 EUR) en el siguiente enlace!

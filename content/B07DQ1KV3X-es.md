@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DQ1KV3X/?tag=tolees-21'
 descuento: '43.56'
+average: '34.95'
 ---
 
 Ahora mismo tienes [Urban Classics Hooded 2-Tone Puffer Jacket  Chaqueta para Hombre  Rot  Firered/Blk 01440   Small](https://www.amazon.es/dp/B07DQ1KV3X/?tag=tolees-21) a 34.95 EUR (original: 61.92 EUR) (43.56 %  de descuento) en el siguiente enlace!

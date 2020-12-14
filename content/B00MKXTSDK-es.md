@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00MKXTSDK/?tag=tolees-21'
 descuento: '50.00'
+average: '80'
 ---
 
 Tienes [The North Face T0CMH9 Chaqueta Stratos  Hombre  TNF Negro  M](https://www.amazon.es/dp/B00MKXTSDK/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 80 EUR (original: 160 EUR) en el siguiente enlace!

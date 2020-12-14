@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F5MS6P2/?tag=tolees-21'
 descuento: '61.89'
+average: '4.95'
 ---
 
 Ahora mismo tienes [JACK & JONES Jaccolorfull Small Stripe Trunks Noos Bóxer  Sunflower  Hombre](https://www.amazon.es/dp/B07F5MS6P2/?tag=tolees-21) a 4.95 EUR (original: 12.99 EUR) (61.89 %  de descuento) en el siguiente enlace!

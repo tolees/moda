@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01FFL5H10/?tag=tolees-21'
 descuento: '61.92'
+average: '11.42'
 ---
 
 Está [Under Armour HG Armour 2.0 Long Short Pantalón Corto  Hombre  Gris  Carbon Heather/Black 090   S](https://www.amazon.es/dp/B01FFL5H10/?tag=tolees-21) con 61.92 de descuento por 11.42 EUR (original: 29.99 EUR) en el siguiente enlace!

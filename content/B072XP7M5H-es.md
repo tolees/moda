@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072XP7M5H/?tag=tolees-21'
 descuento: '69.84'
+average: '8.14'
 ---
 
 Tienes [Vero Moda Vmhappy LS V-Neck Blouse Boo  suéter Mujer  Rosa  Azalea Pink   36  Talla del Fabricante: Small ](https://www.amazon.es/dp/B072XP7M5H/?tag=tolees-21) con un 69.84 % de descuento con precio de oferta de 8.14 EUR (original: 26.99 EUR) en el siguiente enlace!

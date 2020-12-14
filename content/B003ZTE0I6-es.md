@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B003ZTE0I6/?tag=tolees-21'
 descuento: '42.54'
+average: '42.95'
 ---
 
 Tienes [Nike Air Precision II Aa7069-001  Zapatos de Baloncesto para Hombre  Negro  Black Aa7069/001   46 EU](https://www.amazon.es/dp/B003ZTE0I6/?tag=tolees-21) con un 42.54 % de descuento con precio de oferta de 42.95 EUR (original: 74.75 EUR) en el siguiente enlace!

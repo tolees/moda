@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MZJMLBY/?tag=tolees-21'
 descuento: '46.04'
+average: '21.45'
 ---
 
 Está [Superdry Vintage Authentic Pastel tee Camiseta de Tirantes  Rosa Pink Marl Mrq  X-Small para Hombre](https://www.amazon.es/dp/B07MZJMLBY/?tag=tolees-21) con 46.04 de descuento por 21.45 EUR (original: 39.75 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GCY822C/?tag=tolees-21'
 descuento: '61.77'
+average: '9.76'
 ---
 
 Está [New Look Elsa Melange  Camisa para Mujer  Gris  Grey Pattern  42  Talla del Fabricante: 14 ](https://www.amazon.es/dp/B07GCY822C/?tag=tolees-21) con 61.77 de descuento por 9.76 EUR (original: 25.53 EUR) en el siguiente enlace!

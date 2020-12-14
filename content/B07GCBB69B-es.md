@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GCBB69B/?tag=tolees-21'
 descuento: '61.00'
+average: '23.01'
 ---
 
 Está [El Ganso Oxford Bandera Camisa Casual  Blanco  X-Large  Tamaño del Fabricante:XL  para Hombre](https://www.amazon.es/dp/B07GCBB69B/?tag=tolees-21) con 61.00 de descuento por 23.01 EUR (original: 59 EUR) en el siguiente enlace!

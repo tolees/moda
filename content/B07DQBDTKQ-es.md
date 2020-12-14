@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DQBDTKQ/?tag=tolees-21'
 descuento: '58.81'
+average: '16.47'
 ---
 
 Está [MTNG Collection BERNINA  Bolso totes para Mujer  Marrón  Karma Cuero   7.5 x 31 x 28 cm](https://www.amazon.es/dp/B07DQBDTKQ/?tag=tolees-21) con 58.81 de descuento por 16.47 EUR (original: 39.99 EUR) en el siguiente enlace!

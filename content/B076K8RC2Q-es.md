@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076K8RC2Q/?tag=tolees-21'
 descuento: '59.76'
+average: '10.22'
 ---
 
 Ahora mismo tienes [STAR WARS 8 The Last Jedi-Captain Phasma Art Camiseta  Sports Grey  Small para Hombre](https://www.amazon.es/dp/B076K8RC2Q/?tag=tolees-21) a 10.22 EUR (original: 25.4 EUR) (59.76 %  de descuento) en el siguiente enlace!

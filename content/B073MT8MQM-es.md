@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073MT8MQM/?tag=tolees-21'
 descuento: '69.01'
+average: '18.59'
 ---
 
 Tienes [Only Onlrelax Dnm Jeans Rim13350 Vaqueros Boyfriend  Azul  Medium Blue Denim   W27/L32  Talla del Fabricante: 27  para Mujer](https://www.amazon.es/dp/B073MT8MQM/?tag=tolees-21) con un 69.01 % de descuento con precio de oferta de 18.59 EUR (original: 59.99 EUR) en el siguiente enlace!

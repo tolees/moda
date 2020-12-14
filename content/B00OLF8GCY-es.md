@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00OLF8GCY/?tag=tolees-21'
 descuento: '46.78'
+average: '21.26'
 ---
 
 Ahora mismo tienes [KangaROOS K-Vulca 5054 - zapatilla deportiva de material sintético mujer  Negro - negro  negro 500   38](https://www.amazon.es/dp/B00OLF8GCY/?tag=tolees-21) a 21.26 EUR (original: 39.95 EUR) (46.78 %  de descuento) en el siguiente enlace!

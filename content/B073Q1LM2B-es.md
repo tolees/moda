@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073Q1LM2B/?tag=tolees-21'
 descuento: '67.09'
+average: '19.74'
 ---
 
 Está [Only Onlbrooke Nylon Coat Otw Abrigo  Negro Black  36  Talla del Fabricante: Small  para Mujer](https://www.amazon.es/dp/B073Q1LM2B/?tag=tolees-21) con 67.09 de descuento por 19.74 EUR (original: 59.99 EUR) en el siguiente enlace!

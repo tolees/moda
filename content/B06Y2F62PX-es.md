@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06Y2F62PX/?tag=tolees-21'
 descuento: '74.47'
+average: '15.29'
 ---
 
 Está [Geox Jr Sofia J  Zapatos de Cordones Derby para Niñas  Negro  Black   32 EU](https://www.amazon.es/dp/B06Y2F62PX/?tag=tolees-21) con 74.47 de descuento por 15.29 EUR (original: 59.9 EUR) en el siguiente enlace!

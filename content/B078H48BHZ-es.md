@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078H48BHZ/?tag=tolees-21'
 descuento: '74.23'
+average: '20.61'
 ---
 
 Tienes [ESPRIT Collection 038eo1e031  Vestido de Fiesta para Mujer  Rosa  Pink Fuchsia 660   38  Talla del Fabricante: 36 ](https://www.amazon.es/dp/B078H48BHZ/?tag=tolees-21) con un 74.23 % de descuento con precio de oferta de 20.61 EUR (original: 79.99 EUR) en el siguiente enlace!

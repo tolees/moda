@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07B3WYQK7/?tag=tolees-21'
 descuento: '40.49'
+average: '7.73'
 ---
 
 Ahora mismo tienes [JACK & JONES Jacpertro Trunks Noos  Bóxer Hombre   Persimmon Orange Persimmon Orange   Large](https://www.amazon.es/dp/B07B3WYQK7/?tag=tolees-21) a 7.73 EUR (original: 12.99 EUR) (40.49 %  de descuento) en el siguiente enlace!

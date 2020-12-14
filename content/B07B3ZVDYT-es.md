@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07B3ZVDYT/?tag=tolees-21'
 descuento: '67.60'
+average: '25.92'
 ---
 
 Está [JACK & JONES Jjitim Jjicon JJ 099 Noos  Vaqueros Slim para Hombre  Azul Blue Denim  W33/L32](https://www.amazon.es/dp/B07B3ZVDYT/?tag=tolees-21) con 67.60 de descuento por 25.92 EUR (original: 79.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075RG48WK/?tag=tolees-21'
 descuento: '42.36'
+average: '40.32'
 ---
 
 Tienes [GORE Wear  Mujer  Camiseta transpirable de manga larga para correr  GORE R5 Women Long Sleeve Shirt  Talla: 38  Color: Gris topo/Gris oscuro  100253](https://www.amazon.es/dp/B075RG48WK/?tag=tolees-21) con un 42.36 % de descuento con precio de oferta de 40.32 EUR (original: 69.95 EUR) en el siguiente enlace!

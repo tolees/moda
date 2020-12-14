@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078HFZFR6/?tag=tolees-21'
 descuento: '51.04'
+average: '17.62'
 ---
 
 Tienes [Springfield Blazer Flor Hombro Chaqueta de Traje   Varios   40  Tamaño del Fabricante:L  para Mujer](https://www.amazon.es/dp/B078HFZFR6/?tag=tolees-21) con un 51.04 % de descuento con precio de oferta de 17.62 EUR (original: 35.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06Y2KYT43/?tag=tolees-21'
 descuento: '70.76'
+average: '21.93'
 ---
 
 Tienes [Geox Jr Sofia H  Botas para Niñas  Negro  Black   40 EU](https://www.amazon.es/dp/B06Y2KYT43/?tag=tolees-21) con un 70.76 % de descuento con precio de oferta de 21.93 EUR (original: 75 EUR) en el siguiente enlace!

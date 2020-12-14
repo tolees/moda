@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FMYNCQC/?tag=tolees-21'
 descuento: '61.67'
+average: '17.63'
 ---
 
 Está [Roxy Jetty Guantes  Mujer   Bright Blanco   XL](https://www.amazon.es/dp/B07FMYNCQC/?tag=tolees-21) con 61.67 de descuento por 17.63 EUR (original: 45.99 EUR) en el siguiente enlace!

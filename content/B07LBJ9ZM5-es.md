@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07LBJ9ZM5/?tag=tolees-21'
 descuento: '41.83'
+average: '53.4'
 ---
 
 Tienes [Love Moschino - Borsa Denim  Bolso de mano Mujer  Negro  Nero   13x36x53 cm  W x H L ](https://www.amazon.es/dp/B07LBJ9ZM5/?tag=tolees-21) con un 41.83 % de descuento con precio de oferta de 53.4 EUR (original: 91.8 EUR) en el siguiente enlace!

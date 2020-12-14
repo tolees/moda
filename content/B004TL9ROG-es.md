@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B004TL9ROG/?tag=tolees-21'
 descuento: '62.44'
+average: '8.45'
 ---
 
 Está [Spalding Logo 2.0 Tank Top - Camiseta de Baloncesto para Hombre  Color Blanco/Negro  Talla XL](https://www.amazon.es/dp/B004TL9ROG/?tag=tolees-21) con 62.44 de descuento por 8.45 EUR (original: 22.5 EUR) en el siguiente enlace!

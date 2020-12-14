@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B004QS91BG/?tag=tolees-21'
 descuento: '86.20'
+average: '9.64'
 ---
 
 Ahora mismo tienes [Cross Jeans Pantalón Vaquero Adriana Skinny W26/L34 Azul](https://www.amazon.es/dp/B004QS91BG/?tag=tolees-21) a 9.64 EUR (original: 69.87 EUR) (86.20 %  de descuento) en el siguiente enlace!

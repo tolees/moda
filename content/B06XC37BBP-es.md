@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XC37BBP/?tag=tolees-21'
 descuento: '68.53'
+average: '31.45'
 ---
 
 Está [Clarks Dinah Keer  Zapatos de Tacón para Mujer  Beige  Pewter Metallic   41.5 EU](https://www.amazon.es/dp/B06XC37BBP/?tag=tolees-21) con 68.53 de descuento por 31.45 EUR (original: 99.95 EUR) en el siguiente enlace!

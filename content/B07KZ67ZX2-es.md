@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KZ67ZX2/?tag=tolees-21'
 descuento: '42.52'
+average: '45.98'
 ---
 
 Está [Cortefiel C1Bcc Caz. Bomber Ultrali Chaqueta  Azul Marino 10   Large  Tamaño del Fabricante:L  para Hombre](https://www.amazon.es/dp/B07KZ67ZX2/?tag=tolees-21) con 42.52 de descuento por 45.98 EUR (original: 79.99 EUR) en el siguiente enlace!

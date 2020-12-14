@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01J65S0NI/?tag=tolees-21'
 descuento: '78.56'
+average: '53.87'
 ---
 
 Tienes [Etxart & Panno Strada Dress Vestido  102CRUDO/ECRU  M40 para Mujer](https://www.amazon.es/dp/B01J65S0NI/?tag=tolees-21) con un 78.56 % de descuento con precio de oferta de 53.87 EUR (original: 251.26 EUR) en el siguiente enlace!

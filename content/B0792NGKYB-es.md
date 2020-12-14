@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0792NGKYB/?tag=tolees-21'
 descuento: '45.55'
+average: '29.95'
 ---
 
 Tienes [Geox J Pavel A  Zapatillas para Niños   Dk Burgundy/Sky C7jm4   32 EU](https://www.amazon.es/dp/B0792NGKYB/?tag=tolees-21) con un 45.55 % de descuento con precio de oferta de 29.95 EUR (original: 55 EUR) en el siguiente enlace!

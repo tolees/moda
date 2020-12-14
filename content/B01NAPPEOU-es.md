@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01NAPPEOU/?tag=tolees-21'
 descuento: '82.06'
+average: '8.95'
 ---
 
 Está [Tommy Hilfiger WW0WW17638  Camiseta sin Mangas Para Mujer  Multicolor  Snow White/lemon Meringue   X-Small](https://www.amazon.es/dp/B01NAPPEOU/?tag=tolees-21) con 82.06 de descuento por 8.95 EUR (original: 49.9 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DVX358F/?tag=tolees-21'
 descuento: '52.84'
+average: '7.05'
 ---
 
 Ahora mismo tienes [Hummel Hmlkevyna S/S Camiseta  Unisex niños  Rojo  Rumba   110](https://www.amazon.es/dp/B07DVX358F/?tag=tolees-21) a 7.05 EUR (original: 14.95 EUR) (52.84 %  de descuento) en el siguiente enlace!

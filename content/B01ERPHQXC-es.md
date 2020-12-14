@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01ERPHQXC/?tag=tolees-21'
 descuento: '40.71'
+average: '12.45'
 ---
 
 Está [Joma SHT.S0M01 - Falda de tenis para mujer  color Azul  Royal   talla X-Large](https://www.amazon.es/dp/B01ERPHQXC/?tag=tolees-21) con 40.71 de descuento por 12.45 EUR (original: 21 EUR) en el siguiente enlace!

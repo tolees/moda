@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DVYV8KB/?tag=tolees-21'
 descuento: '53.81'
+average: '23.09'
 ---
 
 Tienes [Columbia Techsun Wave  Sandalias Unisex Niños  Azul  Cousteau  Deep Yellow   31 EU](https://www.amazon.es/dp/B07DVYV8KB/?tag=tolees-21) con un 53.81 % de descuento con precio de oferta de 23.09 EUR (original: 49.99 EUR) en el siguiente enlace!

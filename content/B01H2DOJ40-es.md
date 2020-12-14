@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01H2DOJ40/?tag=tolees-21'
 descuento: '42.92'
+average: '79.88'
 ---
 
 Está [Desires Chaqueta Negro XS](https://www.amazon.es/dp/B01H2DOJ40/?tag=tolees-21) con 42.92 de descuento por 79.88 EUR (original: 139.95 EUR) en el siguiente enlace!

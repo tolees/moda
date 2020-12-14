@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FL22PFJ/?tag=tolees-21'
 descuento: '59.90'
+average: '24.06'
 ---
 
 Ahora mismo tienes [Armani Exchange 3D City Graphic Camiseta  Azul  Navy 1510   Small para Hombre](https://www.amazon.es/dp/B07FL22PFJ/?tag=tolees-21) a 24.06 EUR (original: 60 EUR) (59.90 %  de descuento) en el siguiente enlace!

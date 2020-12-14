@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DFJV7SN/?tag=tolees-21'
 descuento: '57.37'
+average: '17.48'
 ---
 
 Ahora mismo tienes [Calvin Klein Trunk 2pk  Bóxer para Hombre  Rojo  Manic Red/Black Gbe  Small Pack de 2](https://www.amazon.es/dp/B07DFJV7SN/?tag=tolees-21) a 17.48 EUR (original: 41 EUR) (57.37 %  de descuento) en el siguiente enlace!

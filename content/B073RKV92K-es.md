@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073RKV92K/?tag=tolees-21'
 descuento: '69.61'
+average: '7.29'
 ---
 
 Tienes [Only Onlriga 3/4 Sleeve Top AOP Wvn Blusa   Sun-Dried Tomato AOP:Cosy Botanical Comb 3   38 para Mujer](https://www.amazon.es/dp/B073RKV92K/?tag=tolees-21) con un 69.61 % de descuento con precio de oferta de 7.29 EUR (original: 23.99 EUR) en el siguiente enlace!

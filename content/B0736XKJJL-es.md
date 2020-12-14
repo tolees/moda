@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0736XKJJL/?tag=tolees-21'
 descuento: '73.22'
+average: '9.37'
 ---
 
 Está [Vero Moda Vmlinber LS V-Neck Wave Blouse LCS  suéter Mujer  Gris  Dark Grey Melange   34  Talla del Fabricante: X-Small ](https://www.amazon.es/dp/B0736XKJJL/?tag=tolees-21) con 73.22 de descuento por 9.37 EUR (original: 34.99 EUR) en el siguiente enlace!

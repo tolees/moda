@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FYBQ49Y/?tag=tolees-21'
 descuento: '64.14'
+average: '10.74'
 ---
 
 Ahora mismo tienes [Wrangler Kabel tee Camiseta  Rojo  Scarlet Red 3uu   Small para Hombre](https://www.amazon.es/dp/B07FYBQ49Y/?tag=tolees-21) a 10.74 EUR (original: 29.95 EUR) (64.14 %  de descuento) en el siguiente enlace!

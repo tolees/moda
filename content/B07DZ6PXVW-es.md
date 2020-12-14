@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DZ6PXVW/?tag=tolees-21'
 descuento: '74.16'
+average: '25.84'
 ---
 
 Está [Columbia Boubioz Hooded Full Zip Chaqueta Polar con Cremallera Completa  Poliéster  Amarillo/Rojo  Canyon Gold/Red Element   Talla: XXL](https://www.amazon.es/dp/B07DZ6PXVW/?tag=tolees-21) con 74.16 de descuento por 25.84 EUR (original: 99.99 EUR) en el siguiente enlace!

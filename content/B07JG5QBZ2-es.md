@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JG5QBZ2/?tag=tolees-21'
 descuento: '54.50'
+average: '19.56'
 ---
 
 Ahora mismo tienes [Timberland Bermuda Bañador  Naranja  Papaye 42b   2 años  Talla del Fabricante: 02A  para Niños](https://www.amazon.es/dp/B07JG5QBZ2/?tag=tolees-21) a 19.56 EUR (original: 42.99 EUR) (54.50 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07QK2GHGX/?tag=tolees-21'
 descuento: '43.70'
+average: '13'
 ---
 
 Tienes [New Look Jane Twill Falda  Negro  Black 1   40  Talla del Fabricante: 12  para Mujer](https://www.amazon.es/dp/B07QK2GHGX/?tag=tolees-21) con un 43.70 % de descuento con precio de oferta de 13 EUR (original: 23.09 EUR) en el siguiente enlace!

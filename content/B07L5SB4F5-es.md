@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07L5SB4F5/?tag=tolees-21'
 descuento: '60.09'
+average: '13.95'
 ---
 
 Tienes [Charles Wilson Sudadera con Capucha Peso Intermedio para Hombre  XX-Large  Black ](https://www.amazon.es/dp/B07L5SB4F5/?tag=tolees-21) con un 60.09 % de descuento con precio de oferta de 13.95 EUR (original: 34.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07K1Z78LJ/?tag=tolees-21'
 descuento: '52.65'
+average: '8.5'
 ---
 
 Ahora mismo tienes [Blend tee  Camiseta para Hombre  Gris  Stone Mix 70813  X-Large](https://www.amazon.es/dp/B07K1Z78LJ/?tag=tolees-21) a 8.5 EUR (original: 17.95 EUR) (52.65 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DLLJLH1/?tag=tolees-21'
 descuento: '71.83'
+average: '25.35'
 ---
 
 Ahora mismo tienes [Springfield INT. Plumas Largo  Abrigo para Mujer  Dorado  Tostado 50    Tamaño del Fabricante:42 ](https://www.amazon.es/dp/B07DLLJLH1/?tag=tolees-21) a 25.35 EUR (original: 89.99 EUR) (71.83 %  de descuento) en el siguiente enlace!

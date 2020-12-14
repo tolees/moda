@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DWGS3YJ/?tag=tolees-21'
 descuento: '51.65'
+average: '12.57'
 ---
 
 Está [Under Armour Challenger II Knit Short Pantalón Corto  Hombre  Azul  Blue Circuit/Academy/Steel 436   XL](https://www.amazon.es/dp/B07DWGS3YJ/?tag=tolees-21) con 51.65 de descuento por 12.57 EUR (original: 26 EUR) en el siguiente enlace!

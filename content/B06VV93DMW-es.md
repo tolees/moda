@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06VV93DMW/?tag=tolees-21'
 descuento: '38.22'
+average: '15.44'
 ---
 
 Tienes [Cressi Ipanema Sunglasses Gafas de Sol  Unisex Adulto  Gris/Lentes Naranja Espejo  Talla única](https://www.amazon.es/dp/B06VV93DMW/?tag=tolees-21) con un 38.22 % de descuento con precio de oferta de 15.44 EUR (original: 24.99 EUR) en el siguiente enlace!

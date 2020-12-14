@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01HMIGYX4/?tag=tolees-21'
 descuento: '46.79'
+average: '90.45'
 ---
 
 Ahora mismo tienes [The North Face M Quest Insulated Jacket - Chaqueta para hombre  Azul  Urban Navy   M](https://www.amazon.es/dp/B01HMIGYX4/?tag=tolees-21) a 90.45 EUR (original: 170 EUR) (46.79 %  de descuento) en el siguiente enlace!

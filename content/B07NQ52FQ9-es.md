@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07NQ52FQ9/?tag=tolees-21'
 descuento: '35.02'
+average: '12.99'
 ---
 
 Ahora mismo tienes [MaYee Power Guantes Gimnasia Hombre Mujer Transpirable Antideslizante Medio Dedo Respirable del Levantamiento de Pesas Gimnasio Entrenamiento](https://www.amazon.es/dp/B07NQ52FQ9/?tag=tolees-21) a 12.99 EUR (original: 19.99 EUR) (35.02 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0792Q4LLL/?tag=tolees-21'
 descuento: '27.20'
+average: '18.2'
 ---
 
 Está [MERAKI Camisa de Vestir Regular Fit Estilo Óxford Hombre  Gris  Grey   Large](https://www.amazon.es/dp/B0792Q4LLL/?tag=tolees-21) con 27.20 de descuento por 18.2 EUR (original: 25 EUR) en el siguiente enlace!

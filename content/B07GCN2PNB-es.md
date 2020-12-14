@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GCN2PNB/?tag=tolees-21'
 descuento: '47.30'
+average: '14.72'
 ---
 
 Tienes [New Look Hennie Flat  Vaqueros Slim para Hombre  Azul  Bright Blue  W36/L32  Talla del Fabricante: 36R ](https://www.amazon.es/dp/B07GCN2PNB/?tag=tolees-21) con un 47.30 % de descuento con precio de oferta de 14.72 EUR (original: 27.93 EUR) en el siguiente enlace!

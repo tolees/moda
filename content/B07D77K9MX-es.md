@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D77K9MX/?tag=tolees-21'
 descuento: '30.05'
+average: '69.95'
 ---
 
 Tienes [Levi s 501 Original Vaqueros  Azul  Blue 2733   W34/L36 para Hombre](https://www.amazon.es/dp/B07D77K9MX/?tag=tolees-21) con un 30.05 % de descuento con precio de oferta de 69.95 EUR (original: 100 EUR) en el siguiente enlace!

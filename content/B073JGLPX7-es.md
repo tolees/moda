@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073JGLPX7/?tag=tolees-21'
 descuento: '48.46'
+average: '20.61'
 ---
 
 Ahora mismo tienes [Cortefiel C7CC Tartan Verde/Rojo TBD Camisa casual  Hombre  Rojo  Red   Tamaño del fabricante:M ](https://www.amazon.es/dp/B073JGLPX7/?tag=tolees-21) a 20.61 EUR (original: 39.99 EUR) (48.46 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00LB5YC34/?tag=tolees-21'
 descuento: '25.03'
+average: '33.7'
 ---
 
 Tienes [Levi s Sweater Sudadera con Capucha  Blau  Navy 04   104  Herstellergröße: 4A  para Niños](https://www.amazon.es/dp/B00LB5YC34/?tag=tolees-21) con un 25.03 % de descuento con precio de oferta de 33.7 EUR (original: 44.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F68PDPK/?tag=tolees-21'
 descuento: '64.25'
+average: '6.9'
 ---
 
 Tienes [oodji Ultra Mujer Vestido Ajustado con Cremallera  Verde  ES 40 / M](https://www.amazon.es/dp/B07F68PDPK/?tag=tolees-21) con un 64.25 % de descuento con precio de oferta de 6.9 EUR (original: 19.3 EUR) en el siguiente enlace!

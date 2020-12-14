@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01GFSC2RY/?tag=tolees-21'
 descuento: '39.81'
+average: '48.15'
 ---
 
 Tienes [Diadora B.Elite  Sandalias con Plataforma Unisex Adulto  Bianco  Bianco/Blu Profondo/Blu Profon   45.5 EU](https://www.amazon.es/dp/B01GFSC2RY/?tag=tolees-21) con un 39.81 % de descuento con precio de oferta de 48.15 EUR (original: 80 EUR) en el siguiente enlace!

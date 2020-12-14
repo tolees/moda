@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077HMSDJL/?tag=tolees-21'
 descuento: '25.01'
+average: '16.49'
 ---
 
 Ahora mismo tienes [FM London Tagless  Bóxer para Hombre   Assorted   XX-Large Pack de 5](https://www.amazon.es/dp/B077HMSDJL/?tag=tolees-21) a 16.49 EUR (original: 21.99 EUR) (25.01 %  de descuento) en el siguiente enlace!

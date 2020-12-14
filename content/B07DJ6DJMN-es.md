@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DJ6DJMN/?tag=tolees-21'
 descuento: '61.99'
+average: '37.97'
 ---
 
 Está [Geox Uomo Carnaby B  Zapatos de Cordones Brogue para Hombre  Azul  Navy C4002   44 EU](https://www.amazon.es/dp/B07DJ6DJMN/?tag=tolees-21) con 61.99 de descuento por 37.97 EUR (original: 99.9 EUR) en el siguiente enlace!

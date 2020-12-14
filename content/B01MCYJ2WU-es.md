@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MCYJ2WU/?tag=tolees-21'
 descuento: '86.77'
+average: '7.93'
 ---
 
 Tienes [MAMALICIOUS Mlmadelyn LS Knit Dress  Vestido Mujer  Gris  Medium Grey Melange   40  Talla del Fabricante: Large ](https://www.amazon.es/dp/B01MCYJ2WU/?tag=tolees-21) con un 86.77 % de descuento con precio de oferta de 7.93 EUR (original: 59.95 EUR) en el siguiente enlace!

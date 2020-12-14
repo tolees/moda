@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01J80F7WS/?tag=tolees-21'
 descuento: '60.04'
+average: '15.98'
 ---
 
 Está [Columbia Fast Trek Full Zip Fleece Jacket Chaqueta Polar  Unisex Niños  Rojo  Talla XXS](https://www.amazon.es/dp/B01J80F7WS/?tag=tolees-21) con 60.04 de descuento por 15.98 EUR (original: 39.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CZJ9CRX/?tag=tolees-21'
 descuento: '30.86'
+average: '17.97'
 ---
 
 Está [Under Armour UA Team Issue Wordmark SS Camiseta  Hombre  Negro  Black/Barn 002   M](https://www.amazon.es/dp/B07CZJ9CRX/?tag=tolees-21) con 30.86 de descuento por 17.97 EUR (original: 25.99 EUR) en el siguiente enlace!

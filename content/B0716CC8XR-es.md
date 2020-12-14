@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0716CC8XR/?tag=tolees-21'
 descuento: '53.74'
+average: '11.56'
 ---
 
 Está [Vero Moda Vmsofia LS Boatneck Blouse Noos  suéter Mujer  Gris  Dark Grey Melange   40  Talla del Fabricante: Large ](https://www.amazon.es/dp/B0716CC8XR/?tag=tolees-21) con 53.74 de descuento por 11.56 EUR (original: 24.99 EUR) en el siguiente enlace!

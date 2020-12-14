@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DK1P6ZX/?tag=tolees-21'
 descuento: '61.83'
+average: '24.81'
 ---
 
 Ahora mismo tienes [Geox J Kilwi Girl E  Zapatillas para Niñas  Beige C5000  34 EU](https://www.amazon.es/dp/B07DK1P6ZX/?tag=tolees-21) a 24.81 EUR (original: 65 EUR) (61.83 %  de descuento) en el siguiente enlace!

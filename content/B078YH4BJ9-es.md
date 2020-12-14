@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078YH4BJ9/?tag=tolees-21'
 descuento: '46.21'
+average: '13.98'
 ---
 
 Está [Quiksilver Classic Salina Stars Camiseta  Hombre  Negro  M](https://www.amazon.es/dp/B078YH4BJ9/?tag=tolees-21) con 46.21 de descuento por 13.98 EUR (original: 25.99 EUR) en el siguiente enlace!

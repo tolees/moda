@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FGSXP8X/?tag=tolees-21'
 descuento: '33.69'
+average: '17.24'
 ---
 
 Tienes [Under Armour GL Foundation T - Camiseta de Manga Corta para Hombre  Hombre  1326849-600  Red/Magma Orange/Black  Large](https://www.amazon.es/dp/B07FGSXP8X/?tag=tolees-21) con un 33.69 % de descuento con precio de oferta de 17.24 EUR (original: 26 EUR) en el siguiente enlace!

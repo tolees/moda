@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DGLRSPX/?tag=tolees-21'
 descuento: '63.61'
+average: '49.73'
 ---
 
 Está [Timberland Amherst  Botas Chukka para Hombre  Negro  Black Nubuck 1   44 EU](https://www.amazon.es/dp/B07DGLRSPX/?tag=tolees-21) con 63.61 de descuento por 49.73 EUR (original: 136.67 EUR) en el siguiente enlace!

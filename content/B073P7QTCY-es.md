@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073P7QTCY/?tag=tolees-21'
 descuento: '47.71'
+average: '10.95'
 ---
 
 Ahora mismo tienes [Lotto Jersey Delta Camiseta de Fútbol  Hombre  Azul  nvy/Wht   L](https://www.amazon.es/dp/B073P7QTCY/?tag=tolees-21) a 10.95 EUR (original: 20.94 EUR) (47.71 %  de descuento) en el siguiente enlace!

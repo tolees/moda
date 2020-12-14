@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078HGXBG7/?tag=tolees-21'
 descuento: '47.75'
+average: '13.58'
 ---
 
 Está [Springfield Camisa Manga Corta Camisa Casual  Hombre  Azul  Gama Azules   Large  Tamaño del Fabricante:L ](https://www.amazon.es/dp/B078HGXBG7/?tag=tolees-21) con 47.75 de descuento por 13.58 EUR (original: 25.99 EUR) en el siguiente enlace!

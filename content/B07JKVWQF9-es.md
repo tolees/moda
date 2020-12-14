@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JKVWQF9/?tag=tolees-21'
 descuento: '47.71'
+average: '26.12'
 ---
 
 Está [XTI 86070  Bolso de mano para Mujer   Negro   22x22x3 cm  W x H x L ](https://www.amazon.es/dp/B07JKVWQF9/?tag=tolees-21) con 47.71 de descuento por 26.12 EUR (original: 49.95 EUR) en el siguiente enlace!

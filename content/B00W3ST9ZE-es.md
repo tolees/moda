@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00W3ST9ZE/?tag=tolees-21'
 descuento: '71.45'
+average: '9.99'
 ---
 
 Tienes [SMILODOX - Sandalias para Hombre  Color Gris  Talla 44](https://www.amazon.es/dp/B00W3ST9ZE/?tag=tolees-21) con un 71.45 % de descuento con precio de oferta de 9.99 EUR (original: 34.99 EUR) en el siguiente enlace!

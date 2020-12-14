@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0733DVY9S/?tag=tolees-21'
 descuento: '74.54'
+average: '38.19'
 ---
 
 Está [ESPRIT 087ee1g011  Chaqueta para Mujer  Morado  Mauve 550   M](https://www.amazon.es/dp/B0733DVY9S/?tag=tolees-21) con 74.54 de descuento por 38.19 EUR (original: 149.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0757PRHSN/?tag=tolees-21'
 descuento: '72.86'
+average: '6.24'
 ---
 
 Está [Springfield Sudadera Caja Turn Pain Into Power Sudadera  Hombre  Gris  Grey   X-Large  Tamaño del Fabricante:XL ](https://www.amazon.es/dp/B0757PRHSN/?tag=tolees-21) con 72.86 de descuento por 6.24 EUR (original: 22.99 EUR) en el siguiente enlace!

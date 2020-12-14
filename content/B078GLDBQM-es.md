@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078GLDBQM/?tag=tolees-21'
 descuento: '26.71'
+average: '76.95'
 ---
 
 Tienes [Armani Exchange 1st To Be Noticed Sweat Sudadera  Gris  B09B Heather Grey 3929   Medium para Hombre](https://www.amazon.es/dp/B078GLDBQM/?tag=tolees-21) con un 26.71 % de descuento con precio de oferta de 76.95 EUR (original: 105 EUR) en el siguiente enlace!

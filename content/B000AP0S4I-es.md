@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000AP0S4I/?tag=tolees-21'
 descuento: '41.22'
+average: '41'
 ---
 
 Está [Reebok Classic Nylon Zapatilla de Running Hombre  Azul  Team Navy / Platinum   44](https://www.amazon.es/dp/B000AP0S4I/?tag=tolees-21) con 41.22 de descuento por 41 EUR (original: 69.75 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07K1GFBMB/?tag=tolees-21'
 descuento: '56.90'
+average: '21.12'
 ---
 
 Ahora mismo tienes [Emporio Armani Underwear 9p400 Bóxer  Negro 00020  Small  Talla del Fabricante: 48  para Hombre](https://www.amazon.es/dp/B07K1GFBMB/?tag=tolees-21) a 21.12 EUR (original: 49 EUR) (56.90 %  de descuento) en el siguiente enlace!

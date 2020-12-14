@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00SF96C9G/?tag=tolees-21'
 descuento: '46.55'
+average: '53.42'
 ---
 
 Tienes [G-Star Raw Defend Super Slim - Vaqueros para hombre  color gris  lt aged destroy 1243   talla W30/L34](https://www.amazon.es/dp/B00SF96C9G/?tag=tolees-21) con un 46.55 % de descuento con precio de oferta de 53.42 EUR (original: 99.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XHKM3C4/?tag=tolees-21'
 descuento: '40.74'
+average: '14.81'
 ---
 
 Está [Luanvi Olimpia Chaqueta de Chándal  Hombre  Rojo  2XL  68-77cm ](https://www.amazon.es/dp/B06XHKM3C4/?tag=tolees-21) con 40.74 de descuento por 14.81 EUR (original: 24.99 EUR) en el siguiente enlace!

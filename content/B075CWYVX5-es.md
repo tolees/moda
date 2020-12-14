@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075CWYVX5/?tag=tolees-21'
 descuento: '30.01'
+average: '34.99'
 ---
 
 Ahora mismo tienes [Trust Urban Exora - Gafas de Realidad Virtual y Auriculares para Smartphone  Color Negro](https://www.amazon.es/dp/B075CWYVX5/?tag=tolees-21) a 34.99 EUR (original: 49.99 EUR) (30.01 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JMVV56Q/?tag=tolees-21'
 descuento: '37.56'
+average: '28.1'
 ---
 
 Tienes [Lacoste Ramc102  Bóxer Hombre  Negro  Blk/Grey/White 999   X-Large  pack de 3](https://www.amazon.es/dp/B07JMVV56Q/?tag=tolees-21) con un 37.56 % de descuento con precio de oferta de 28.1 EUR (original: 45 EUR) en el siguiente enlace!

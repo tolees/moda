@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0768GK1HB/?tag=tolees-21'
 descuento: '65.39'
+average: '10.38'
 ---
 
 Está [Springfield Lambswool Fantasía  Sudadera para Hombre  Rojo  Red   Medium  Tamaño del Fabricante:M ](https://www.amazon.es/dp/B0768GK1HB/?tag=tolees-21) con 65.39 de descuento por 10.38 EUR (original: 29.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HKHJ2QH/?tag=tolees-21'
 descuento: '53.34'
+average: '41.99'
 ---
 
 Tienes [Collar de adiestramiento para Perros con Control a Distancia 300 Metros](https://www.amazon.es/dp/B07HKHJ2QH/?tag=tolees-21) con un 53.34 % de descuento con precio de oferta de 41.99 EUR (original: 89.99 EUR) en el siguiente enlace!

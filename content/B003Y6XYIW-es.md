@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B003Y6XYIW/?tag=tolees-21'
 descuento: '73.48'
+average: '29.17'
 ---
 
 Tienes [Bugatti K315483  Botines para Hombre  Marrón  Dunkelbraun 610dunkelbraun 610   43 EU](https://www.amazon.es/dp/B003Y6XYIW/?tag=tolees-21) con un 73.48 % de descuento con precio de oferta de 29.17 EUR (original: 110 EUR) en el siguiente enlace!

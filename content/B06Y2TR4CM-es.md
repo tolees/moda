@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06Y2TR4CM/?tag=tolees-21'
 descuento: '72.81'
+average: '29.88'
 ---
 
 Tienes [Geox D Myria C  Zapatillas Altas para Mujer  Rojo  Dk Burgundy   36 EU](https://www.amazon.es/dp/B06Y2TR4CM/?tag=tolees-21) con un 72.81 % de descuento con precio de oferta de 29.88 EUR (original: 109.9 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B002YE5OUQ/?tag=tolees-21'
 descuento: '61.65'
+average: '88.21'
 ---
 
 Está [Timberland 6 In Premium Waterproof  Botas impermeables  Marrón  Brown Burnished Full Grain   41 EU](https://www.amazon.es/dp/B002YE5OUQ/?tag=tolees-21) con 61.65 de descuento por 88.21 EUR (original: 230 EUR) en el siguiente enlace!

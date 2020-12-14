@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DLBBPBX/?tag=tolees-21'
 descuento: '63.45'
+average: '18.27'
 ---
 
 Está [Springfield 6.T.Ap.Parka Polar Navy P Parka  Gama Azules 19   Tamaño del Fabricante:36  para Mujer](https://www.amazon.es/dp/B07DLBBPBX/?tag=tolees-21) con 63.45 de descuento por 18.27 EUR (original: 49.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077MKFZ7Z/?tag=tolees-21'
 descuento: '48.84'
+average: '20.46'
 ---
 
 Tienes [Only Onlterra 3/4 Kimono Wvn  Chaqueta Mujer   Night Sky AOP: Flower Print   40  Talla del Fabricante: 38 ](https://www.amazon.es/dp/B077MKFZ7Z/?tag=tolees-21) con un 48.84 % de descuento con precio de oferta de 20.46 EUR (original: 39.99 EUR) en el siguiente enlace!

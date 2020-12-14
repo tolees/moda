@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JMM7HZD/?tag=tolees-21'
 descuento: '71.55'
+average: '14.21'
 ---
 
 Ahora mismo tienes [XTI 32055  Zapatos con Tira de Tobillo para Mujer  Marrón Taupe  36 EU](https://www.amazon.es/dp/B07JMM7HZD/?tag=tolees-21) a 14.21 EUR (original: 49.95 EUR) (71.55 %  de descuento) en el siguiente enlace!

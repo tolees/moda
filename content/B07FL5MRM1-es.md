@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FL5MRM1/?tag=tolees-21'
 descuento: '67.20'
+average: '36.05'
 ---
 
 Está [Superdry Windcheater  Chaqueta Deportiva para Mujer  Azul  Elite Cobalt Xf7  Medium  Talla del Fabricante: 12.0 ](https://www.amazon.es/dp/B07FL5MRM1/?tag=tolees-21) con 67.20 de descuento por 36.05 EUR (original: 109.9 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DHVWQ2J/?tag=tolees-21'
 descuento: '67.45'
+average: '61.84'
 ---
 
 Tienes [Quiksilver Mission Chaqueta de Nieve  Hombre  Negro  Stellar   XXL](https://www.amazon.es/dp/B07DHVWQ2J/?tag=tolees-21) con un 67.45 % de descuento con precio de oferta de 61.84 EUR (original: 189.99 EUR) en el siguiente enlace!

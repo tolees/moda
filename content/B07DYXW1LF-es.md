@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DYXW1LF/?tag=tolees-21'
 descuento: '36.53'
+average: '107.89'
 ---
 
 Ahora mismo tienes [Columbia Chaqueta de esquí Impermeable para Hombre  Ride On Ski Jacket  Rojo  Red Spark   Talla M](https://www.amazon.es/dp/B07DYXW1LF/?tag=tolees-21) a 107.89 EUR (original: 169.99 EUR) (36.53 %  de descuento) en el siguiente enlace!

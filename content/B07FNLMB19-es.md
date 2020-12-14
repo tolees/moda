@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FNLMB19/?tag=tolees-21'
 descuento: '63.08'
+average: '12.92'
 ---
 
 Ahora mismo tienes [JACK & JONES Jjeoxford Shirt L/s Noos  Camisa para Hombre   Cashmere Blue Stripes: Slim Fit   Medium](https://www.amazon.es/dp/B07FNLMB19/?tag=tolees-21) a 12.92 EUR (original: 34.99 EUR) (63.08 %  de descuento) en el siguiente enlace!

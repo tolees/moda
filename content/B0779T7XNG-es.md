@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0779T7XNG/?tag=tolees-21'
 descuento: '47.07'
+average: '7.94'
 ---
 
 Tienes [AURIQUE Camiseta Deportiva Mujer  Azul  Imperial Blue   Large](https://www.amazon.es/dp/B0779T7XNG/?tag=tolees-21) con un 47.07 % de descuento con precio de oferta de 7.94 EUR (original: 15 EUR) en el siguiente enlace!

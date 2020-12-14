@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06ZXRP4ZK/?tag=tolees-21'
 descuento: '70.01'
+average: '14.99'
 ---
 
 Está [Winline Gafas de Natación Profesional - Anti Niebla - Hermético - Ajustable - Gafas de Natación para Adultos - para Hombres  Mujeres  Niños Y Jóvenes de Mas de 10 Años  Black  Clear Lens ](https://www.amazon.es/dp/B06ZXRP4ZK/?tag=tolees-21) con 70.01 de descuento por 14.99 EUR (original: 49.99 EUR) en el siguiente enlace!

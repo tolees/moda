@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079JY47BG/?tag=tolees-21'
 descuento: '56.56'
+average: '86.45'
 ---
 
 Tienes [Napapijri Rainforest Winter  Chaqueta para Hombre  Rojo  Orange Red A60   X-Small](https://www.amazon.es/dp/B079JY47BG/?tag=tolees-21) con un 56.56 % de descuento con precio de oferta de 86.45 EUR (original: 199 EUR) en el siguiente enlace!

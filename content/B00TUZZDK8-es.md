@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00TUZZDK8/?tag=tolees-21'
 descuento: '52.52'
+average: '56.95'
 ---
 
 Ahora mismo tienes [G-Star 3301 Loose - Pantalones Vaqueros Hombre  Color Azul  Talla W31 / L36](https://www.amazon.es/dp/B00TUZZDK8/?tag=tolees-21) a 56.95 EUR (original: 119.95 EUR) (52.52 %  de descuento) en el siguiente enlace!

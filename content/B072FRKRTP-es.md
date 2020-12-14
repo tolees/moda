@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072FRKRTP/?tag=tolees-21'
 descuento: '53.45'
+average: '25.6'
 ---
 
 Tienes [JACK & JONES 12134002 Bóxer   Black Detail:Black & White   XX-Large  Pack de 7 para Hombre](https://www.amazon.es/dp/B072FRKRTP/?tag=tolees-21) con un 53.45 % de descuento con precio de oferta de 25.6 EUR (original: 54.99 EUR) en el siguiente enlace!

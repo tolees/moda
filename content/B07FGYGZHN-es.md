@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FGYGZHN/?tag=tolees-21'
 descuento: '46.54'
+average: '53.45'
 ---
 
 Está [Columbia Pantalón de esquí impermeable para hombre  Ride On Pant  Nailon  Azul  Dark Mountain   Talla XL  1748081](https://www.amazon.es/dp/B07FGYGZHN/?tag=tolees-21) con 46.54 de descuento por 53.45 EUR (original: 99.99 EUR) en el siguiente enlace!

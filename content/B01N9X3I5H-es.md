@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N9X3I5H/?tag=tolees-21'
 descuento: '73.34'
+average: '50.65'
 ---
 
 Tienes [The North Face W Kayenta Chaqueta  Mujer  Verde  Trellis Green   M](https://www.amazon.es/dp/B01N9X3I5H/?tag=tolees-21) con un 73.34 % de descuento con precio de oferta de 50.65 EUR (original: 190 EUR) en el siguiente enlace!

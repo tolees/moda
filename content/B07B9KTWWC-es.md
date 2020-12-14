@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07B9KTWWC/?tag=tolees-21'
 descuento: '30.09'
+average: '48.9'
 ---
 
 Está [Skechers Delson-Clenton  Zapatos de Cordones Oxford para Hombre  Negro Black  41.5 EU](https://www.amazon.es/dp/B07B9KTWWC/?tag=tolees-21) con 30.09 de descuento por 48.9 EUR (original: 69.95 EUR) en el siguiente enlace!

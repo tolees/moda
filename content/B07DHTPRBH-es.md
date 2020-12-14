@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DHTPRBH/?tag=tolees-21'
 descuento: '53.94'
+average: '87.5'
 ---
 
 Está [Roxy Jetty Chaqueta  Mujer   Bright Blanco_freespace Girl   L](https://www.amazon.es/dp/B07DHTPRBH/?tag=tolees-21) con 53.94 de descuento por 87.5 EUR (original: 189.99 EUR) en el siguiente enlace!

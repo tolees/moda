@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KJT9T3Y/?tag=tolees-21'
 descuento: '36.62'
+average: '12.67'
 ---
 
 Está [Quiksilver Get Bizzy Camiseta  Hombre  Azul  Blue Nights   L](https://www.amazon.es/dp/B07KJT9T3Y/?tag=tolees-21) con 36.62 de descuento por 12.67 EUR (original: 19.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DJ6SS4M/?tag=tolees-21'
 descuento: '62.22'
+average: '37.74'
 ---
 
 Ahora mismo tienes [Geox U Renan C  Zapatillas para Hombre  Azul  Navy C4002   44 EU](https://www.amazon.es/dp/B07DJ6SS4M/?tag=tolees-21) a 37.74 EUR (original: 99.9 EUR) (62.22 %  de descuento) en el siguiente enlace!

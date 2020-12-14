@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FNWMFR5/?tag=tolees-21'
 descuento: '49.41'
+average: '43'
 ---
 
 Tienes [The North Face M Jacket Chaqueta Ambition  Hombre  TNF Dark Grey Heather  L](https://www.amazon.es/dp/B07FNWMFR5/?tag=tolees-21) con un 49.41 % de descuento con precio de oferta de 43 EUR (original: 85 EUR) en el siguiente enlace!

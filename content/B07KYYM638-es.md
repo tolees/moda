@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KYYM638/?tag=tolees-21'
 descuento: '71.64'
+average: '13.6'
 ---
 
 Tienes [3 Pommes 3n31134 Dress  Vestido para Niñas  Blanco  Broken White 19   5-6 años  Talla del Fabricante: 5A/6A ](https://www.amazon.es/dp/B07KYYM638/?tag=tolees-21) con un 71.64 % de descuento con precio de oferta de 13.6 EUR (original: 47.95 EUR) en el siguiente enlace!

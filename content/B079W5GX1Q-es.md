@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079W5GX1Q/?tag=tolees-21'
 descuento: '67.85'
+average: '83.58'
 ---
 
 Está [Helly Hansen W Verglas Hooded Down Insulato Chaqueta con capucha  Mujer  Rojo  grenadine   L](https://www.amazon.es/dp/B079W5GX1Q/?tag=tolees-21) con 67.85 de descuento por 83.58 EUR (original: 260 EUR) en el siguiente enlace!

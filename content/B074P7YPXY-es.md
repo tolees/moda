@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074P7YPXY/?tag=tolees-21'
 descuento: '69.07'
+average: '26.29'
 ---
 
 Tienes [Levi s Modern Western  Blusa para Mujer  Rojo  Cottonwood Merlot 0022   36  Talla del fabricante: Medium ](https://www.amazon.es/dp/B074P7YPXY/?tag=tolees-21) con un 69.07 % de descuento con precio de oferta de 26.29 EUR (original: 85 EUR) en el siguiente enlace!

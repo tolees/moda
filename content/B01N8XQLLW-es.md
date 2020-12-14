@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N8XQLLW/?tag=tolees-21'
 descuento: '66.52'
+average: '8.37'
 ---
 
 Tienes [Umbro RCD Mallorca Training Pantalón de fútbol  Hombre  Negro  Black/Flame Scarlet   XXL](https://www.amazon.es/dp/B01N8XQLLW/?tag=tolees-21) con un 66.52 % de descuento con precio de oferta de 8.37 EUR (original: 25 EUR) en el siguiente enlace!

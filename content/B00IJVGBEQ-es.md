@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00IJVGBEQ/?tag=tolees-21'
 descuento: '54.07'
+average: '11.46'
 ---
 
 Tienes [BOSS Hugo Boxer BM  Bóxer Hombre  Blanco  White 100   Small](https://www.amazon.es/dp/B00IJVGBEQ/?tag=tolees-21) con un 54.07 % de descuento con precio de oferta de 11.46 EUR (original: 24.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KMTP9GX/?tag=tolees-21'
 descuento: '60.80'
+average: '23.52'
 ---
 
 Está [Volcom FORZEE Crew Sudadera  Hombre  Navy  XL](https://www.amazon.es/dp/B07KMTP9GX/?tag=tolees-21) con 60.80 de descuento por 23.52 EUR (original: 60 EUR) en el siguiente enlace!

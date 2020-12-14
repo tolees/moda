@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07C9PH73Z/?tag=tolees-21'
 descuento: '82.45'
+average: '22.64'
 ---
 
 Ahora mismo tienes [REPLAY Waitom Vaqueros Slim  Azul  Blue Denim 9   W30/L34 para Hombre](https://www.amazon.es/dp/B07C9PH73Z/?tag=tolees-21) a 22.64 EUR (original: 129 EUR) (82.45 %  de descuento) en el siguiente enlace!

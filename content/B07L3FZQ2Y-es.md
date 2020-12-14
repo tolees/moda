@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07L3FZQ2Y/?tag=tolees-21'
 descuento: '51.12'
+average: '29.28'
 ---
 
 Tienes [Hilfiger Denim Tommy Jeans Stripe Summer Shoe  Zapatos de Cordones Oxford para Hombre  Bleu  45 EU](https://www.amazon.es/dp/B07L3FZQ2Y/?tag=tolees-21) con un 51.12 % de descuento con precio de oferta de 29.28 EUR (original: 59.9 EUR) en el siguiente enlace!

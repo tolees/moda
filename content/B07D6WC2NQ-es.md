@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D6WC2NQ/?tag=tolees-21'
 descuento: '50.15'
+average: '14.95'
 ---
 
 Tienes [Tom Tailor Sweathoody Mit Kaputze Und Druck  Sudadera para Hombre  Gris  Black Grey Melange 2572   X-Large](https://www.amazon.es/dp/B07D6WC2NQ/?tag=tolees-21) con un 50.15 % de descuento con precio de oferta de 14.95 EUR (original: 29.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0739ZQJ4N/?tag=tolees-21'
 descuento: '55.68'
+average: '9.75'
 ---
 
 Ahora mismo tienes [Double Agent 87227 Camiseta  Gris Vigore Claro  Medium  Tamaño del Fabricante:M  para Mujer](https://www.amazon.es/dp/B0739ZQJ4N/?tag=tolees-21) a 9.75 EUR (original: 22 EUR) (55.68 %  de descuento) en el siguiente enlace!

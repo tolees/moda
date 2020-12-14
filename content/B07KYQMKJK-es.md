@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KYQMKJK/?tag=tolees-21'
 descuento: '61.56'
+average: '9.99'
 ---
 
 Está [Springfield 490 C/Block Gg12 Jersey   Gama Azules 11   Medium  Tamaño del Fabricante:M  para Hombre](https://www.amazon.es/dp/B07KYQMKJK/?tag=tolees-21) con 61.56 de descuento por 9.99 EUR (original: 25.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DL8C1VG/?tag=tolees-21'
 descuento: '54.88'
+average: '29.33'
 ---
 
 Está [Burton Oak Sudadera  Hombre  Negro  True Heather   S](https://www.amazon.es/dp/B07DL8C1VG/?tag=tolees-21) con 54.88 de descuento por 29.33 EUR (original: 65 EUR) en el siguiente enlace!

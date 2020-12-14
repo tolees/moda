@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06WP2Z3W3/?tag=tolees-21'
 descuento: '68.22'
+average: '104.57'
 ---
 
 Ahora mismo tienes [Liujo C16068T1710  Vestido para Mujer  Negro / Marrón  ES 38  IT 42 ](https://www.amazon.es/dp/B06WP2Z3W3/?tag=tolees-21) a 104.57 EUR (original: 329 EUR) (68.22 %  de descuento) en el siguiente enlace!

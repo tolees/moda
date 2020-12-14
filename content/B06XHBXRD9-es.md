@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XHBXRD9/?tag=tolees-21'
 descuento: '57.15'
+average: '29.95'
 ---
 
 Tienes [Geox J Kommodor B  Zapatillas para Niños  Azul  Navy/Lime   38 EU](https://www.amazon.es/dp/B06XHBXRD9/?tag=tolees-21) con un 57.15 % de descuento con precio de oferta de 29.95 EUR (original: 69.9 EUR) en el siguiente enlace!

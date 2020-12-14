@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079K3HCPR/?tag=tolees-21'
 descuento: '43.99'
+average: '111.45'
 ---
 
 Está [Napapijri Rainforest Winter  Chaqueta para Hombre  Amarillo  Spark Yellow Y36   X-Small](https://www.amazon.es/dp/B079K3HCPR/?tag=tolees-21) con 43.99 de descuento por 111.45 EUR (original: 199 EUR) en el siguiente enlace!

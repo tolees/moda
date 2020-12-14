@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D7MXXRL/?tag=tolees-21'
 descuento: '62.57'
+average: '74.82'
 ---
 
 Ahora mismo tienes [Dolores Promesas 107372  Vestido para Mujer  Marrón Leopa   Tamaño del Fabricante:42 ](https://www.amazon.es/dp/B07D7MXXRL/?tag=tolees-21) a 74.82 EUR (original: 199.9 EUR) (62.57 %  de descuento) en el siguiente enlace!

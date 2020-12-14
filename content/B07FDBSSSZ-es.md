@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FDBSSSZ/?tag=tolees-21'
 descuento: '38.16'
+average: '64.93'
 ---
 
 Está [Armani Exchange J15 Straight Vaqueros  Azul  Denim Indaco 1500   W38/L34  Talla del Fabricante: 38  para Hombre](https://www.amazon.es/dp/B07FDBSSSZ/?tag=tolees-21) con 38.16 de descuento por 64.93 EUR (original: 105 EUR) en el siguiente enlace!

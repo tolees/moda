@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XT29Q5V/?tag=tolees-21'
 descuento: '59.37'
+average: '10.95'
 ---
 
 Está [Izas Clot Camiseta de Tirantes  Mujer  Rosa  Fuxia   XL](https://www.amazon.es/dp/B06XT29Q5V/?tag=tolees-21) con 59.37 de descuento por 10.95 EUR (original: 26.95 EUR) en el siguiente enlace!

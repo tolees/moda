@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0733M3YGN/?tag=tolees-21'
 descuento: '52.10'
+average: '16.74'
 ---
 
 Está [Puma Heather Cat tee Camiseta  Mujer  Naranja  M](https://www.amazon.es/dp/B0733M3YGN/?tag=tolees-21) con 52.10 de descuento por 16.74 EUR (original: 34.95 EUR) en el siguiente enlace!

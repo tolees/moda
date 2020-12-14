@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074MST4FZ/?tag=tolees-21'
 descuento: '52.36'
+average: '13.34'
 ---
 
 Tienes [find. Jersey Largo de Punto Mujer  Negro  Black   42  Talla del Fabricante: Large ](https://www.amazon.es/dp/B074MST4FZ/?tag=tolees-21) con un 52.36 % de descuento con precio de oferta de 13.34 EUR (original: 28 EUR) en el siguiente enlace!

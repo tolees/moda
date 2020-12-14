@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073SD2NB2/?tag=tolees-21'
 descuento: '70.00'
+average: '8.4'
 ---
 
 Ahora mismo tienes [FIND Sudadera Mensaje para Hombre  Rojo  Tawny Port 003   Small](https://www.amazon.es/dp/B073SD2NB2/?tag=tolees-21) a 8.4 EUR (original: 28 EUR) (70.00 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073QWRLBR/?tag=tolees-21'
 descuento: '53.28'
+average: '46.72'
 ---
 
 Está [Levi s 501 Original Vaqueros  Azul  Subway Station 2463   W29/L34 para Hombre](https://www.amazon.es/dp/B073QWRLBR/?tag=tolees-21) con 53.28 de descuento por 46.72 EUR (original: 100 EUR) en el siguiente enlace!

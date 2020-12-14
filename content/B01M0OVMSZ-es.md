@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01M0OVMSZ/?tag=tolees-21'
 descuento: '58.40'
+average: '22.88'
 ---
 
 Está [Samsonite Sideways Laptop Sleeve 15.6" Bolso Bandolera  8.9 litros  Color Azul/Naranja](https://www.amazon.es/dp/B01M0OVMSZ/?tag=tolees-21) con 58.40 de descuento por 22.88 EUR (original: 55 EUR) en el siguiente enlace!

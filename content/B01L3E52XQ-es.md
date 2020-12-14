@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01L3E52XQ/?tag=tolees-21'
 descuento: '77.34'
+average: '29.23'
 ---
 
 Ahora mismo tienes [Geographical Norway Tansa Lady  Chaqueta Para Mujer  Morado  PURPLE   Medium](https://www.amazon.es/dp/B01L3E52XQ/?tag=tolees-21) a 29.23 EUR (original: 129 EUR) (77.34 %  de descuento) en el siguiente enlace!

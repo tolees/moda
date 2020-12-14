@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DCS5TV9/?tag=tolees-21'
 descuento: '42.32'
+average: '25.9'
 ---
 
 Tienes [Tommy Hilfiger 3p Boxer Brief  Hombre  Rosa  Grey Heather 004  X-Large](https://www.amazon.es/dp/B07DCS5TV9/?tag=tolees-21) con un 42.32 % de descuento con precio de oferta de 25.9 EUR (original: 44.9 EUR) en el siguiente enlace!

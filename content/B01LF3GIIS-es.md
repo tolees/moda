@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01LF3GIIS/?tag=tolees-21'
 descuento: '76.02'
+average: '19.18'
 ---
 
 Está [Mexx Women Jacket  Chaqueta para Mujer  Schwarz  Black 001  L](https://www.amazon.es/dp/B01LF3GIIS/?tag=tolees-21) con 76.02 de descuento por 19.18 EUR (original: 79.99 EUR) en el siguiente enlace!

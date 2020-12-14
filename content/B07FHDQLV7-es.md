@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FHDQLV7/?tag=tolees-21'
 descuento: '52.00'
+average: '72'
 ---
 
 Ahora mismo tienes [Helly Hansen W Crew Midlayer Jacket - Chaqueta para Mujer  Negro  S](https://www.amazon.es/dp/B07FHDQLV7/?tag=tolees-21) a 72 EUR (original: 150 EUR) (52.00 %  de descuento) en el siguiente enlace!

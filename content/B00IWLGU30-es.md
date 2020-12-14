@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00IWLGU30/?tag=tolees-21'
 descuento: '71.71'
+average: '19.79'
 ---
 
 Tienes [LTB - Vaqueros straight para hombre  - vulcano  1332   W38/L30  38 ](https://www.amazon.es/dp/B00IWLGU30/?tag=tolees-21) con un 71.71 % de descuento con precio de oferta de 19.79 EUR (original: 69.95 EUR) en el siguiente enlace!

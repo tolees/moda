@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079RQTBJH/?tag=tolees-21'
 descuento: '60.73'
+average: '35.3'
 ---
 
 Está [Pepe Jeans Tobias JR  Chaqueta para Niños  Negro  Black 999   4 años](https://www.amazon.es/dp/B079RQTBJH/?tag=tolees-21) con 60.73 de descuento por 35.3 EUR (original: 89.9 EUR) en el siguiente enlace!

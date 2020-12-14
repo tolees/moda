@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076ZXVRM2/?tag=tolees-21'
 descuento: '57.14'
+average: '30'
 ---
 
 Tienes [DEPHINI - Collar plata corazon - colgante corazon Plata de ley 925 con circón - colgantes mujer regalo mujer cumpleaños originales - regalo amor para mujer - cadena de plata con rodio de platino](https://www.amazon.es/dp/B076ZXVRM2/?tag=tolees-21) con un 57.14 % de descuento con precio de oferta de 30 EUR (original: 70 EUR) en el siguiente enlace!

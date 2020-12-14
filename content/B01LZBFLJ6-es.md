@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01LZBFLJ6/?tag=tolees-21'
 descuento: '69.07'
+average: '119.07'
 ---
 
 Está [Christian Dior DIORREFLECTED 3J XX8  Gafas de Sol para Mujer  Rosa  Rosegold Khaki/Azure Grey Speckled   52](https://www.amazon.es/dp/B01LZBFLJ6/?tag=tolees-21) con 69.07 de descuento por 119.07 EUR (original: 385 EUR) en el siguiente enlace!

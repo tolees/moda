@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07NWRB7MJ/?tag=tolees-21'
 descuento: '25.00'
+average: '23.25'
 ---
 
 Ahora mismo tienes [Disney Pijama Manga Corta Dumbo para Mujer  Color Azul  Talla XS](https://www.amazon.es/dp/B07NWRB7MJ/?tag=tolees-21) a 23.25 EUR (original: 31 EUR) (25.00 %  de descuento) en el siguiente enlace!

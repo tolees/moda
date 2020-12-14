@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071YMB6LQ/?tag=tolees-21'
 descuento: '68.13'
+average: '15.93'
 ---
 
 Ahora mismo tienes [COOLWAY Luly  Botines para Mujer  Negro  Pnt   38 EU](https://www.amazon.es/dp/B071YMB6LQ/?tag=tolees-21) a 15.93 EUR (original: 49.99 EUR) (68.13 %  de descuento) en el siguiente enlace!

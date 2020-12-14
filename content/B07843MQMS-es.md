@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07843MQMS/?tag=tolees-21'
 descuento: '72.28'
+average: '44.08'
 ---
 
 Está [Nautica Water Resist Carcoat  Abrigo Impermeable para Hombre  Azul  Navy 4nv  Large  Tamaño del Fabricante:L ](https://www.amazon.es/dp/B07843MQMS/?tag=tolees-21) con 72.28 de descuento por 44.08 EUR (original: 159 EUR) en el siguiente enlace!

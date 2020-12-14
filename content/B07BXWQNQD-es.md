@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BXWQNQD/?tag=tolees-21'
 descuento: '25.00'
+average: '10.41'
 ---
 
 Está [Urban GoCo Camisas Manga Corta de Camiseta de Floral Impreso de Blusa del Hombro Fuera de Las Mujeres Tops  Medium  6 ](https://www.amazon.es/dp/B07BXWQNQD/?tag=tolees-21) con 25.00 de descuento por 10.41 EUR (original: 13.88 EUR) en el siguiente enlace!

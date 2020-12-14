@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KZ16D2S/?tag=tolees-21'
 descuento: '71.44'
+average: '11.42'
 ---
 
 Está [Springfield Jeans SL Prem Bi-S Med-Os Vaqueros Relaxed  Hombre  Azul  Gama Azules 11    Tamaño del Fabricante:32 ](https://www.amazon.es/dp/B07KZ16D2S/?tag=tolees-21) con 71.44 de descuento por 11.42 EUR (original: 39.99 EUR) en el siguiente enlace!

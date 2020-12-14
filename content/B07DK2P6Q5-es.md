@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DK2P6Q5/?tag=tolees-21'
 descuento: '55.81'
+average: '22.05'
 ---
 
 Ahora mismo tienes [Geox B Kaytan B  Sandalias para Bebés  Blanco  White/Navy C0899   20 EU](https://www.amazon.es/dp/B07DK2P6Q5/?tag=tolees-21) a 22.05 EUR (original: 49.9 EUR) (55.81 %  de descuento) en el siguiente enlace!

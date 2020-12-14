@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079WQ3F2N/?tag=tolees-21'
 descuento: '73.56'
+average: '26.43'
 ---
 
 Tienes [adidas Indoor Super  Zapatos de Squash para Hombre  Amarillo  Amatac/Negbas/Cartra 000   38 EU](https://www.amazon.es/dp/B079WQ3F2N/?tag=tolees-21) con un 73.56 % de descuento con precio de oferta de 26.43 EUR (original: 99.95 EUR) en el siguiente enlace!

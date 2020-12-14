@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01IOSHEDU/?tag=tolees-21'
 descuento: '75.84'
+average: '6.28'
 ---
 
 Está [edc by ESPRIT 096CC1K061  Camiseta Mujer  Rojo  BORDEAUX RED   36  Talla del fabricante: Small ](https://www.amazon.es/dp/B01IOSHEDU/?tag=tolees-21) con 75.84 de descuento por 6.28 EUR (original: 25.99 EUR) en el siguiente enlace!

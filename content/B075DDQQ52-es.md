@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075DDQQ52/?tag=tolees-21'
 descuento: '61.84'
+average: '28.99'
 ---
 
 Está [Zapatos de cuero casual de los hombres Zapatos Planos con Cordones hombre Oxford vestido mocasines zapatos de negocios hechos a mano mocasines de conducción de zapatos Caqui 43EU](https://www.amazon.es/dp/B075DDQQ52/?tag=tolees-21) con 61.84 de descuento por 28.99 EUR (original: 75.97 EUR) en el siguiente enlace!

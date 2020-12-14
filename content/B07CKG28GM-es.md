@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CKG28GM/?tag=tolees-21'
 descuento: '31.98'
+average: '15.23'
 ---
 
 Ahora mismo tienes [Inside 6sves21&  Vestido Mujer  Negro  Black 1   Medium](https://www.amazon.es/dp/B07CKG28GM/?tag=tolees-21) a 15.23 EUR (original: 22.39 EUR) (31.98 %  de descuento) en el siguiente enlace!

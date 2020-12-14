@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078GNYNT2/?tag=tolees-21'
 descuento: '40.90'
+average: '23.61'
 ---
 
 Ahora mismo tienes [Trucco TT16AQ1  Jersey para Mujer   Blanco Crudo   Medium  Tamaño del Fabricante:M ](https://www.amazon.es/dp/B078GNYNT2/?tag=tolees-21) a 23.61 EUR (original: 39.95 EUR) (40.90 %  de descuento) en el siguiente enlace!

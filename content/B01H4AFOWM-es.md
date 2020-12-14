@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01H4AFOWM/?tag=tolees-21'
 descuento: '68.16'
+average: '30.23'
 ---
 
 Ahora mismo tienes [Wrangler Greensboro Straight Leg 1  Vaqueros para Hombre  Azul  Blown Away  31W / 34L](https://www.amazon.es/dp/B01H4AFOWM/?tag=tolees-21) a 30.23 EUR (original: 94.95 EUR) (68.16 %  de descuento) en el siguiente enlace!

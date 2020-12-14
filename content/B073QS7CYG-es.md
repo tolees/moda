@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073QS7CYG/?tag=tolees-21'
 descuento: '30.00'
+average: '55.3'
 ---
 
 Ahora mismo tienes [FIND Botines de Puntera con Cordones para Mujer  Negro  Black   39 EU](https://www.amazon.es/dp/B073QS7CYG/?tag=tolees-21) a 55.3 EUR (original: 79 EUR) (30.00 %  de descuento) en el siguiente enlace!

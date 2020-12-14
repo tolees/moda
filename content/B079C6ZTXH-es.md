@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079C6ZTXH/?tag=tolees-21'
 descuento: '53.64'
+average: '6.95'
 ---
 
 Está [JACK & JONES Jjebas tee SS U-Neck Noos Camiseta  Rosa  Misty Rose Detail: Reg Fit   Medium para Hombre](https://www.amazon.es/dp/B079C6ZTXH/?tag=tolees-21) con 53.64 de descuento por 6.95 EUR (original: 14.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01LWQBAZ0/?tag=tolees-21'
 descuento: '74.72'
+average: '17.69'
 ---
 
 Está [Betty & Co 0150/0837  Vestido Casual para Mujer  Negro/Gris ES 40  DE 38 ](https://www.amazon.es/dp/B01LWQBAZ0/?tag=tolees-21) con 74.72 de descuento por 17.69 EUR (original: 69.99 EUR) en el siguiente enlace!

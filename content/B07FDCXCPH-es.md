@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FDCXCPH/?tag=tolees-21'
 descuento: '74.70'
+average: '3.53'
 ---
 
 Está [Star Wars 2012  Camiseta para Niños  Azul Bleu  12 años](https://www.amazon.es/dp/B07FDCXCPH/?tag=tolees-21) con 74.70 de descuento por 3.53 EUR (original: 13.95 EUR) en el siguiente enlace!

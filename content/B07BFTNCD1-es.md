@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BFTNCD1/?tag=tolees-21'
 descuento: '52.16'
+average: '10.52'
 ---
 
 Ahora mismo tienes [Vero Moda Vmlou LS Top A  Blusa Mujer  Blanco  Snow White Snow White   38  Talla del Fabricante: Small ](https://www.amazon.es/dp/B07BFTNCD1/?tag=tolees-21) a 10.52 EUR (original: 21.99 EUR) (52.16 %  de descuento) en el siguiente enlace!

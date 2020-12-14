@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01F76EM8M/?tag=tolees-21'
 descuento: '82.00'
+average: '15.47'
 ---
 
 Está [s.Oliver 25344  Botines para Mujer  Negro  Black 1   37 EU](https://www.amazon.es/dp/B01F76EM8M/?tag=tolees-21) con 82.00 de descuento por 15.47 EUR (original: 85.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077GTWXGQ/?tag=tolees-21'
 descuento: '70.93'
+average: '14.52'
 ---
 
 Ahora mismo tienes [Desires 9189100 Chaqueta Deportiva  Azul  Peacoat   Medium  Tamaño del Fabricante:M  para Mujer](https://www.amazon.es/dp/B077GTWXGQ/?tag=tolees-21) a 14.52 EUR (original: 49.95 EUR) (70.93 %  de descuento) en el siguiente enlace!

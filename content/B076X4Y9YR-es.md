@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076X4Y9YR/?tag=tolees-21'
 descuento: '60.61'
+average: '12.21'
 ---
 
 Ahora mismo tienes [find. Sudadera con Mensaje Mujer  Rosa  X-Small](https://www.amazon.es/dp/B076X4Y9YR/?tag=tolees-21) a 12.21 EUR (original: 31 EUR) (60.61 %  de descuento) en el siguiente enlace!

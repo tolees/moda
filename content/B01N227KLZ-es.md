@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N227KLZ/?tag=tolees-21'
 descuento: '67.77'
+average: '7.09'
 ---
 
 Tienes [Double Agent Cheerleader Pleated  Falda Casual para Mujer   Gris Medio   L](https://www.amazon.es/dp/B01N227KLZ/?tag=tolees-21) con un 67.77 % de descuento con precio de oferta de 7.09 EUR (original: 22 EUR) en el siguiente enlace!

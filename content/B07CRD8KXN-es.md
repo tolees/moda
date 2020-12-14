@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CRD8KXN/?tag=tolees-21'
 descuento: '60.77'
+average: '37.27'
 ---
 
 Tienes [Pepe Jeans Venus Vaqueros Straight    Denim Wz2   W33/L34 Taille Fabricant 33/34 para Mujer](https://www.amazon.es/dp/B07CRD8KXN/?tag=tolees-21) con un 60.77 % de descuento con precio de oferta de 37.27 EUR (original: 95 EUR) en el siguiente enlace!

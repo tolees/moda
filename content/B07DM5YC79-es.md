@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DM5YC79/?tag=tolees-21'
 descuento: '46.15'
+average: '16.14'
 ---
 
 Está [Emporio Armani Underwear 9p729 Bóxer  Azul  Marine 00135   X-Large para Hombre](https://www.amazon.es/dp/B07DM5YC79/?tag=tolees-21) con 46.15 de descuento por 16.14 EUR (original: 29.97 EUR) en el siguiente enlace!

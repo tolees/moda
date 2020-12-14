@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01HTGB556/?tag=tolees-21'
 descuento: '53.88'
+average: '59.95'
 ---
 
 Ahora mismo tienes [Columbia Chaqueta Impermeable con Capucha para Hombre  Powder Lite Hooded Jacket  Negro  Black   Talla M](https://www.amazon.es/dp/B01HTGB556/?tag=tolees-21) a 59.95 EUR (original: 129.99 EUR) (53.88 %  de descuento) en el siguiente enlace!

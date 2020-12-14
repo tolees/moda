@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BKJBFCJ/?tag=tolees-21'
 descuento: '79.50'
+average: '16.38'
 ---
 
 Está [Redskins Junior Cardiff  Chaqueta para Niños  Negro Black  años  Talla del Fabricante: 16 ](https://www.amazon.es/dp/B07BKJBFCJ/?tag=tolees-21) con 79.50 de descuento por 16.38 EUR (original: 79.9 EUR) en el siguiente enlace!

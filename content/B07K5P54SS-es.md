@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07K5P54SS/?tag=tolees-21'
 descuento: '73.17'
+average: '12.89'
 ---
 
 Tienes [Glamorous Ladies Floral Party Dress  Vestido para Mujer   Black Small Flower BS  36  Talla del Fabricante: 8 ](https://www.amazon.es/dp/B07K5P54SS/?tag=tolees-21) con un 73.17 % de descuento con precio de oferta de 12.89 EUR (original: 48.04 EUR) en el siguiente enlace!

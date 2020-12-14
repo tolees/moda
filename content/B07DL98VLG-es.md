@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DL98VLG/?tag=tolees-21'
 descuento: '72.93'
+average: '16.24'
 ---
 
 Tienes [Springfield 6Fo-Denim Truckier Borr W Chaqueta  Hombre  Azul  Azul Marino 10   Large  Tamaño del Fabricante:L ](https://www.amazon.es/dp/B07DL98VLG/?tag=tolees-21) con un 72.93 % de descuento con precio de oferta de 16.24 EUR (original: 59.99 EUR) en el siguiente enlace!

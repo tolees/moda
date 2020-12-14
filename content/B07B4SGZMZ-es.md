@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07B4SGZMZ/?tag=tolees-21'
 descuento: '90.05'
+average: '6.25'
 ---
 
 Ahora mismo tienes [Chantelle DE DE DE Le Marais  Sujetador para Camiseta para Mujer  Marrón  Cappuccino OL  90F  Talla del Fabricante: 75F ](https://www.amazon.es/dp/B07B4SGZMZ/?tag=tolees-21) a 6.25 EUR (original: 62.8 EUR) (90.05 %  de descuento) en el siguiente enlace!

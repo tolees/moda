@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078WG38GC/?tag=tolees-21'
 descuento: '76.86'
+average: '14.92'
 ---
 
 Ahora mismo tienes [Ultrasport Advanced Chaqueta Lorma para mujer  chaqueta para todo el año  Negro/Púrpura  2XL](https://www.amazon.es/dp/B078WG38GC/?tag=tolees-21) a 14.92 EUR (original: 64.49 EUR) (76.86 %  de descuento) en el siguiente enlace!

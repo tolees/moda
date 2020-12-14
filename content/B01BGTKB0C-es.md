@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01BGTKB0C/?tag=tolees-21'
 descuento: '41.08'
+average: '70.68'
 ---
 
 Está [G-STAR RAW Revend Straight  Vaqueros para Hombre  Azul  Medium Aged   W30/L32](https://www.amazon.es/dp/B01BGTKB0C/?tag=tolees-21) con 41.08 de descuento por 70.68 EUR (original: 119.95 EUR) en el siguiente enlace!

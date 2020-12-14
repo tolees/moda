@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KMQ8PVX/?tag=tolees-21'
 descuento: '52.31'
+average: '19.03'
 ---
 
 Tienes [Superdry Vintage Logo CNY tee Camiseta de Tirantes  Blanco  Optic 01C   Small para Hombre](https://www.amazon.es/dp/B07KMQ8PVX/?tag=tolees-21) con un 52.31 % de descuento con precio de oferta de 19.03 EUR (original: 39.9 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FDFWD6G/?tag=tolees-21'
 descuento: '47.52'
+average: '9.42'
 ---
 
 Está [Disney Mickey 4809 Pijama  Blanc  5 años para Niños](https://www.amazon.es/dp/B07FDFWD6G/?tag=tolees-21) con 47.52 de descuento por 9.42 EUR (original: 17.95 EUR) en el siguiente enlace!

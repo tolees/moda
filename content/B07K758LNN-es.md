@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07K758LNN/?tag=tolees-21'
 descuento: '77.94'
+average: '14.34'
 ---
 
 Tienes [Levi s Graphic Gym Sudadera  Gris  Box Tab Crew Smokestack Htr 0004   Small para Mujer](https://www.amazon.es/dp/B07K758LNN/?tag=tolees-21) con un 77.94 % de descuento con precio de oferta de 14.34 EUR (original: 65 EUR) en el siguiente enlace!

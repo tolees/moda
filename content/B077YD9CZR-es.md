@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077YD9CZR/?tag=tolees-21'
 descuento: '63.60'
+average: '9.81'
 ---
 
 Ahora mismo tienes [HIKARO Sudadera con Print Mujer  Gris  Charcoal   46  Talla del fabricante: XX-Large ](https://www.amazon.es/dp/B077YD9CZR/?tag=tolees-21) a 9.81 EUR (original: 26.95 EUR) (63.60 %  de descuento) en el siguiente enlace!

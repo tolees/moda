@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077GYK6X8/?tag=tolees-21'
 descuento: '85.81'
+average: '7.09'
 ---
 
 Está [Desires 9189100  Chaqueta Deportiva para Mujer  Rosa  Wash. Rose  Small  Tamaño del Fabricante:S ](https://www.amazon.es/dp/B077GYK6X8/?tag=tolees-21) con 85.81 de descuento por 7.09 EUR (original: 49.95 EUR) en el siguiente enlace!

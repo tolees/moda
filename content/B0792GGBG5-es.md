@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0792GGBG5/?tag=tolees-21'
 descuento: '70.16'
+average: '29.81'
 ---
 
 Ahora mismo tienes [Geox D Annytah Moc C  Mocasines para Mujer   Brown C0013   36 EU](https://www.amazon.es/dp/B0792GGBG5/?tag=tolees-21) a 29.81 EUR (original: 99.9 EUR) (70.16 %  de descuento) en el siguiente enlace!

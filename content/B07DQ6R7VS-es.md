@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DQ6R7VS/?tag=tolees-21'
 descuento: '56.98'
+average: '98.94'
 ---
 
 Ahora mismo tienes [Quiksilver TR Ambition Chaqueta de Nieve  Hombre  Azul  Daphne  / Negro  Stellar   M](https://www.amazon.es/dp/B07DQ6R7VS/?tag=tolees-21) a 98.94 EUR (original: 229.99 EUR) (56.98 %  de descuento) en el siguiente enlace!

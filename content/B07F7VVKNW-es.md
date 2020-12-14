@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F7VVKNW/?tag=tolees-21'
 descuento: '66.38'
+average: '67.24'
 ---
 
 Ahora mismo tienes [Burton Covert Chaqueta de Snowboard  Hombre  Verde  Mosstone/Clover   XL](https://www.amazon.es/dp/B07F7VVKNW/?tag=tolees-21) a 67.24 EUR (original: 200 EUR) (66.38 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078QSP5PR/?tag=tolees-21'
 descuento: '48.75'
+average: '112.74'
 ---
 
 Ahora mismo tienes [The North Face Arctic Swirl - Chaqueta de plumón para Niñas  Verde  New Taupe Green   XL](https://www.amazon.es/dp/B078QSP5PR/?tag=tolees-21) a 112.74 EUR (original: 220 EUR) (48.75 %  de descuento) en el siguiente enlace!

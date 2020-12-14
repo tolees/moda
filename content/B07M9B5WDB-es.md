@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07M9B5WDB/?tag=tolees-21'
 descuento: '53.10'
+average: '37.52'
 ---
 
 Tienes [The North Face Drew Peak Sudadera  Hombre  Azul  Storm Blue   L](https://www.amazon.es/dp/B07M9B5WDB/?tag=tolees-21) con un 53.10 % de descuento con precio de oferta de 37.52 EUR (original: 80 EUR) en el siguiente enlace!

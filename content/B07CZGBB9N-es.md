@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CZGBB9N/?tag=tolees-21'
 descuento: '49.21'
+average: '32.45'
 ---
 
 Está [Under Armour Rival Fleece Po Hoodie Sudadera con Capucha  Hombre  Gris  Steel Light Heather/Black 036   XLT](https://www.amazon.es/dp/B07CZGBB9N/?tag=tolees-21) con 49.21 de descuento por 32.45 EUR (original: 63.89 EUR) en el siguiente enlace!

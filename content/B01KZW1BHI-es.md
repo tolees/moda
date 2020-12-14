@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01KZW1BHI/?tag=tolees-21'
 descuento: '41.17'
+average: '52.92'
 ---
 
 Ahora mismo tienes [Clarks Trisand Bay  Sandalias de Talón Abierto para Hombre  Negro  Black Leather   44 EU](https://www.amazon.es/dp/B01KZW1BHI/?tag=tolees-21) a 52.92 EUR (original: 89.95 EUR) (41.17 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FK7N88M/?tag=tolees-21'
 descuento: '67.19'
+average: '19.68'
 ---
 
 Tienes [Only Onlpeyton AW Short Fur Jacket CC Otw Chaqueta  Verde Tarmac  42  Talla del Fabricante: Large  para Mujer](https://www.amazon.es/dp/B07FK7N88M/?tag=tolees-21) con un 67.19 % de descuento con precio de oferta de 19.68 EUR (original: 59.99 EUR) en el siguiente enlace!

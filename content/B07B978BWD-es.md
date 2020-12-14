@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07B978BWD/?tag=tolees-21'
 descuento: '49.57'
+average: '50.4'
 ---
 
 Está [Clarks Vargo Mid  Zapatos de Cordones Derby para Hombre  Marrón  Dark Tan Leather   48 EU](https://www.amazon.es/dp/B07B978BWD/?tag=tolees-21) con 49.57 de descuento por 50.4 EUR (original: 99.95 EUR) en el siguiente enlace!

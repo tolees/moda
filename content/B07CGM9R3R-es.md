@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CGM9R3R/?tag=tolees-21'
 descuento: '64.72'
+average: '14.11'
 ---
 
 Está [JACK & JONES PREMIUM Jprblackpool Shirt L/s Au18 STS  Camisa para Hombre   Winetasting AOP: Slim Fit  Small](https://www.amazon.es/dp/B07CGM9R3R/?tag=tolees-21) con 64.72 de descuento por 14.11 EUR (original: 39.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07QRKPTP3/?tag=tolees-21'
 descuento: '36.37'
+average: '25.39'
 ---
 
 Está [Superdry Vintage Logo AOP Mid tee Camiseta de Tirantes  Blanco  Optic 01c   Medium para Hombre](https://www.amazon.es/dp/B07QRKPTP3/?tag=tolees-21) con 36.37 de descuento por 25.39 EUR (original: 39.9 EUR) en el siguiente enlace!

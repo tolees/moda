@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01GGHN4BW/?tag=tolees-21'
 descuento: '67.57'
+average: '26.59'
 ---
 
 Ahora mismo tienes [Ocean Eye Gafas de Sol  Unisex Adulto   Marrone   52](https://www.amazon.es/dp/B01GGHN4BW/?tag=tolees-21) a 26.59 EUR (original: 82 EUR) (67.57 %  de descuento) en el siguiente enlace!

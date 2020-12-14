@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MYU2WQZ/?tag=tolees-21'
 descuento: '64.67'
+average: '21.2'
 ---
 
 Tienes [Pepe Jeans Coates  Camisa para Hombre  Azul  Naval Blue   45  Talla del Fabricante: X-Large ](https://www.amazon.es/dp/B01MYU2WQZ/?tag=tolees-21) con un 64.67 % de descuento con precio de oferta de 21.2 EUR (original: 60 EUR) en el siguiente enlace!

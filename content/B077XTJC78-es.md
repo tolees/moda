@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077XTJC78/?tag=tolees-21'
 descuento: '69.42'
+average: '7.95'
 ---
 
 Ahora mismo tienes [Under Armour Fly by Short Pantalón Corto  Mujer  Verde  Artillery/Typhoon Green/Reflective 357   XL](https://www.amazon.es/dp/B077XTJC78/?tag=tolees-21) a 7.95 EUR (original: 26 EUR) (69.42 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07N8KVHW8/?tag=tolees-21'
 descuento: '53.18'
+average: '16.95'
 ---
 
 Ahora mismo tienes [Vero Moda NOS Vmhot Seven NW Dnm Fold Shorts Mix Noos Pantalones Cortos  Azul Light Blue Denim  38  Talla del Fabricante: Small  para Mujer](https://www.amazon.es/dp/B07N8KVHW8/?tag=tolees-21) a 16.95 EUR (original: 36.2 EUR) (53.18 %  de descuento) en el siguiente enlace!

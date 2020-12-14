@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076HPSPQ9/?tag=tolees-21'
 descuento: '38.42'
+average: '15.95'
 ---
 
 Está [adidas Core18 PES Jkt Chaqueta  Hombre  Negro  Black/White   3XL](https://www.amazon.es/dp/B076HPSPQ9/?tag=tolees-21) con 38.42 de descuento por 15.95 EUR (original: 25.9 EUR) en el siguiente enlace!

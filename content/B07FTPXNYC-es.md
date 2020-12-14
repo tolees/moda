@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FTPXNYC/?tag=tolees-21'
 descuento: '77.27'
+average: '18.17'
 ---
 
 Está [Lee Scarlett  Vaqueros skinny para MujerAzul  Blueberry ](https://www.amazon.es/dp/B07FTPXNYC/?tag=tolees-21) con 77.27 de descuento por 18.17 EUR (original: 79.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079QMW28W/?tag=tolees-21'
 descuento: '75.72'
+average: '8.74'
 ---
 
 Ahora mismo tienes [edc by Esprit 048cc1f024 Blusa   Pink 670   Medium para Mujer](https://www.amazon.es/dp/B079QMW28W/?tag=tolees-21) a 8.74 EUR (original: 35.99 EUR) (75.72 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DV2XKLZ/?tag=tolees-21'
 descuento: '52.01'
+average: '28.79'
 ---
 
 Tienes [Columbia Wave Train  Sandalias para Mujer  Violeta  Eve  Soft Violet   42 EU](https://www.amazon.es/dp/B07DV2XKLZ/?tag=tolees-21) con un 52.01 % de descuento con precio de oferta de 28.79 EUR (original: 59.99 EUR) en el siguiente enlace!

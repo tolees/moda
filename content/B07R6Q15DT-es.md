@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07R6Q15DT/?tag=tolees-21'
 descuento: '42.94'
+average: '15.97'
 ---
 
 Está [Ventilador USB de Mano Mini collar Portátiles de Escritorio Recargable con 3 de Velocidad 4-8H Horas de Trabajo Ajuste Giratorio de 180 ° Tamaño de la Palma de la Para Viajes de Oficina en el Exterior](https://www.amazon.es/dp/B07R6Q15DT/?tag=tolees-21) con 42.94 de descuento por 15.97 EUR (original: 27.99 EUR) en el siguiente enlace!

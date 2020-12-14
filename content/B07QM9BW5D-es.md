@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07QM9BW5D/?tag=tolees-21'
 descuento: '36.69'
+average: '19'
 ---
 
 Tienes [New Look Sprite Tea Vestido  Azul  Light Blue 45   40  Talla del Fabricante: 12  para Mujer](https://www.amazon.es/dp/B07QM9BW5D/?tag=tolees-21) con un 36.69 % de descuento con precio de oferta de 19 EUR (original: 30.01 EUR) en el siguiente enlace!

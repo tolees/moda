@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KJY7HX2/?tag=tolees-21'
 descuento: '34.78'
+average: '16.95'
 ---
 
 Está [Quiksilver Get Bizzy Camiseta  Hombre  Rojo  Brick Red   XL](https://www.amazon.es/dp/B07KJY7HX2/?tag=tolees-21) con 34.78 de descuento por 16.95 EUR (original: 25.99 EUR) en el siguiente enlace!

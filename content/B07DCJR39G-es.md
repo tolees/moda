@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DCJR39G/?tag=tolees-21'
 descuento: '37.17'
+average: '21.99'
 ---
 
 Está [Anyoo Hamaca de Algodón para Jardin al Aire Libre de Campaña Portatil Lona Cama Cuerdas Columpio Capacidad 201Kg Peso Ligero con Bolso para Jardín Patio Playa Mochilero Excursionismo …](https://www.amazon.es/dp/B07DCJR39G/?tag=tolees-21) con 37.17 de descuento por 21.99 EUR (original: 35 EUR) en el siguiente enlace!

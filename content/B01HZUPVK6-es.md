@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01HZUPVK6/?tag=tolees-21'
 descuento: '65.28'
+average: '45.12'
 ---
 
 Está [G-STAR RAW – Pantalón Vaquero para Hombre Revend Super Slim Lt Aged 424 24W x 28L](https://www.amazon.es/dp/B01HZUPVK6/?tag=tolees-21) con 65.28 de descuento por 45.12 EUR (original: 129.95 EUR) en el siguiente enlace!

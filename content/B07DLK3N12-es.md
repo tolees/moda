@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DLK3N12/?tag=tolees-21'
 descuento: '63.47'
+average: '9.86'
 ---
 
 Está [Springfield 6.J.Ap.T.Studs All Granat Jersey  Mujer  Rojo  Gama Rojos 67   Medium  Tamaño del Fabricante:M ](https://www.amazon.es/dp/B07DLK3N12/?tag=tolees-21) con 63.47 de descuento por 9.86 EUR (original: 26.99 EUR) en el siguiente enlace!

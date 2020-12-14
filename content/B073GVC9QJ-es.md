@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073GVC9QJ/?tag=tolees-21'
 descuento: '64.28'
+average: '7.14'
 ---
 
 Está [Esprit 097ee1k008  Camiseta Mujer   Light Aqua Green 390   Small](https://www.amazon.es/dp/B073GVC9QJ/?tag=tolees-21) con 64.28 de descuento por 7.14 EUR (original: 19.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DQ13P7K/?tag=tolees-21'
 descuento: '54.96'
+average: '45.04'
 ---
 
 Tienes [Burton Barnstorm Pantalón de Snowboard  Niños  Verde  Olive Branch   M](https://www.amazon.es/dp/B07DQ13P7K/?tag=tolees-21) con un 54.96 % de descuento con precio de oferta de 45.04 EUR (original: 100 EUR) en el siguiente enlace!

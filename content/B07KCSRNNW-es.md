@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KCSRNNW/?tag=tolees-21'
 descuento: '40.97'
+average: '73.32'
 ---
 
 Está [Love Moschino Tess.Jacquard NATU+PU  bolso bandolera para Mujer  Multicolor  Naturale  15x10x15 centimeters  W x H x L ](https://www.amazon.es/dp/B07KCSRNNW/?tag=tolees-21) con 40.97 de descuento por 73.32 EUR (original: 124.2 EUR) en el siguiente enlace!

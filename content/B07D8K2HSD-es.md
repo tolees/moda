@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D8K2HSD/?tag=tolees-21'
 descuento: '57.67'
+average: '42.31'
 ---
 
 Ahora mismo tienes [BOSS Athleisure Brod_s  Camisa Hombre  Azul  Open Blue 480   Large](https://www.amazon.es/dp/B07D8K2HSD/?tag=tolees-21) a 42.31 EUR (original: 99.95 EUR) (57.67 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HYYT843/?tag=tolees-21'
 descuento: '52.68'
+average: '28.39'
 ---
 
 Está [Nike EBERNON Low  Zapatos de Baloncesto para Hombre   Blue Void/White 401   46 EU](https://www.amazon.es/dp/B07HYYT843/?tag=tolees-21) con 52.68 de descuento por 28.39 EUR (original: 60 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CRF1H7K/?tag=tolees-21'
 descuento: '58.40'
+average: '10.4'
 ---
 
 Tienes [Pepe Jeans Andrea  Camiseta para Mujer    Deep Sea 597  Medium](https://www.amazon.es/dp/B07CRF1H7K/?tag=tolees-21) con un 58.40 % de descuento con precio de oferta de 10.4 EUR (original: 25 EUR) en el siguiente enlace!

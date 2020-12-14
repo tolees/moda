@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F3FQLT2/?tag=tolees-21'
 descuento: '60.09'
+average: '13.97'
 ---
 
 Tienes [Vans Classic Camiseta  Azul Claro  Heather-White HTB   Large para Hombre](https://www.amazon.es/dp/B07F3FQLT2/?tag=tolees-21) con un 60.09 % de descuento con precio de oferta de 13.97 EUR (original: 35 EUR) en el siguiente enlace!

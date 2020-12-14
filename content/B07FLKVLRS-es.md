@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FLKVLRS/?tag=tolees-21'
 descuento: '50.05'
+average: '19.93'
 ---
 
 Está [Superdry 34th St tee Camiseta de Tirantes  Gris  Alaska Grey Grit Vm2   Medium para Hombre](https://www.amazon.es/dp/B07FLKVLRS/?tag=tolees-21) con 50.05 de descuento por 19.93 EUR (original: 39.9 EUR) en el siguiente enlace!

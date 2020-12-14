@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XKZC7VM/?tag=tolees-21'
 descuento: '72.67'
+average: '27.3'
 ---
 
 Está [Geox D Ophira A  Zapatillas para Mujer  Marrón  Taupe   41 EU](https://www.amazon.es/dp/B06XKZC7VM/?tag=tolees-21) con 72.67 de descuento por 27.3 EUR (original: 99.9 EUR) en el siguiente enlace!

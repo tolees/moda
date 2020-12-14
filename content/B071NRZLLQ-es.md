@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071NRZLLQ/?tag=tolees-21'
 descuento: '41.38'
+average: '23.45'
 ---
 
 Ahora mismo tienes [New Balance MC NB Ice 2E Camiseta  Mujer  Rosa  Vivid Coral   M](https://www.amazon.es/dp/B071NRZLLQ/?tag=tolees-21) a 23.45 EUR (original: 40 EUR) (41.38 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079SH5FDR/?tag=tolees-21'
 descuento: '49.99'
+average: '17.98'
 ---
 
 Tienes [Desigual TS_guim  Camiseta para Niños    Rojo 3092  104  Talla del Fabricante: 3/4 ](https://www.amazon.es/dp/B079SH5FDR/?tag=tolees-21) con un 49.99 % de descuento con precio de oferta de 17.98 EUR (original: 35.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B013R4OD3A/?tag=tolees-21'
 descuento: '84.09'
+average: '11.13'
 ---
 
 Ahora mismo tienes [Cream Carola Dress Vestido  Negro  Pitch 61907   X-Small para Mujer](https://www.amazon.es/dp/B013R4OD3A/?tag=tolees-21) a 11.13 EUR (original: 69.95 EUR) (84.09 %  de descuento) en el siguiente enlace!

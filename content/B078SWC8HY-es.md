@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078SWC8HY/?tag=tolees-21'
 descuento: '56.95'
+average: '12.91'
 ---
 
 Ahora mismo tienes [Women’secret Pijama Largo Pijama de una Pieza  Mujer  Rojo  Red 69   Small  Tamaño del Fabricante:S ](https://www.amazon.es/dp/B078SWC8HY/?tag=tolees-21) a 12.91 EUR (original: 29.99 EUR) (56.95 %  de descuento) en el siguiente enlace!

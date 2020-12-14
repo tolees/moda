@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KMVH2VC/?tag=tolees-21'
 descuento: '66.30'
+average: '10.11'
 ---
 
 Tienes [Volcom Crisp Euro BSC SS Camiseta  Hombre  Black  XL](https://www.amazon.es/dp/B07KMVH2VC/?tag=tolees-21) con un 66.30 % de descuento con precio de oferta de 10.11 EUR (original: 30 EUR) en el siguiente enlace!

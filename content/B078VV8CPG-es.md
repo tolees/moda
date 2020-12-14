@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078VV8CPG/?tag=tolees-21'
 descuento: '56.18'
+average: '26.29'
 ---
 
 Ahora mismo tienes [Volcom Stone Crew Sudadera  Hombre  Gris  M](https://www.amazon.es/dp/B078VV8CPG/?tag=tolees-21) a 26.29 EUR (original: 60 EUR) (56.18 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077MKSJGV/?tag=tolees-21'
 descuento: '50.13'
+average: '39.4'
 ---
 
 Ahora mismo tienes [Fossil Unisex adulto FOS 3069/S Gafas de sol  Marrón  GOLD HAVN   51](https://www.amazon.es/dp/B077MKSJGV/?tag=tolees-21) a 39.4 EUR (original: 79 EUR) (50.13 %  de descuento) en el siguiente enlace!

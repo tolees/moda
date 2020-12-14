@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078SVZWTD/?tag=tolees-21'
 descuento: '61.45'
+average: '49.73'
 ---
 
 Tienes [Gant A-Line Twill Midi-Skirt  Falda Mujer  Blanco  White   40  Talla del Fabricante: 38 ](https://www.amazon.es/dp/B078SVZWTD/?tag=tolees-21) con un 61.45 % de descuento con precio de oferta de 49.73 EUR (original: 129 EUR) en el siguiente enlace!

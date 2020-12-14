@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00IWNBI5I/?tag=tolees-21'
 descuento: '44.97'
+average: '43.99'
 ---
 
 Ahora mismo tienes [Jack & Jones Tim Original - Vaqueros slim para hombre  Azul  W30/L30  30/30 ](https://www.amazon.es/dp/B00IWNBI5I/?tag=tolees-21) a 43.99 EUR (original: 79.94 EUR) (44.97 %  de descuento) en el siguiente enlace!

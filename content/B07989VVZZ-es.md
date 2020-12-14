@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07989VVZZ/?tag=tolees-21'
 descuento: '66.48'
+average: '12.4'
 ---
 
 Tienes [Only Onlmarna 3/4 Kimono Jrs Chaqueta Punto  Marfil  Oatmeal Detail: Melange   42  Talla del Fabricante: Large  para Mujer](https://www.amazon.es/dp/B07989VVZZ/?tag=tolees-21) con un 66.48 % de descuento con precio de oferta de 12.4 EUR (original: 36.99 EUR) en el siguiente enlace!

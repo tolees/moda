@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FNNGXKP/?tag=tolees-21'
 descuento: '35.87'
+average: '8.33'
 ---
 
 Está [JACK & JONES Jacpeter Trunks Noos. Bóxer  Negro Black  Large para Hombre](https://www.amazon.es/dp/B07FNNGXKP/?tag=tolees-21) con 35.87 de descuento por 8.33 EUR (original: 12.99 EUR) en el siguiente enlace!

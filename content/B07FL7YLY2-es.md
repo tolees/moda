@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FL7YLY2/?tag=tolees-21'
 descuento: '54.02'
+average: '85.06'
 ---
 
 Está [Superdry Core Down Hooded Jacket  Chaqueta Deportiva para Hombre  Azul  Cobalt Fdg   X-Small](https://www.amazon.es/dp/B07FL7YLY2/?tag=tolees-21) con 54.02 de descuento por 85.06 EUR (original: 185 EUR) en el siguiente enlace!

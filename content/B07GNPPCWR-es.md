@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GNPPCWR/?tag=tolees-21'
 descuento: '37.00'
+average: '31.5'
 ---
 
 Está [find. Rib Cardigan Chaqueta Punto Gris Grey  48  Talla del Fabricante: XXX-Large ](https://www.amazon.es/dp/B07GNPPCWR/?tag=tolees-21) con 37.00 de descuento por 31.5 EUR (original: 50 EUR) en el siguiente enlace!

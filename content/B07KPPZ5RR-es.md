@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KPPZ5RR/?tag=tolees-21'
 descuento: '71.08'
+average: '28.92'
 ---
 
 Tienes [Gant O1. TP Royal OXF Reg BD Camisa  Azul  Blue Lagoon 441   XXX-Large para Hombre](https://www.amazon.es/dp/B07KPPZ5RR/?tag=tolees-21) con un 71.08 % de descuento con precio de oferta de 28.92 EUR (original: 99.99 EUR) en el siguiente enlace!

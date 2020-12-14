@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N35HMM2/?tag=tolees-21'
 descuento: '34.03'
+average: '8.57'
 ---
 
 Ahora mismo tienes [edc by Esprit 047cc1k002  Camiseta Mujer  Blanco  White   38  Talla del Fabricante: Medium ](https://www.amazon.es/dp/B01N35HMM2/?tag=tolees-21) a 8.57 EUR (original: 12.99 EUR) (34.03 %  de descuento) en el siguiente enlace!

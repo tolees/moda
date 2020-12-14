@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07LBM1PNH/?tag=tolees-21'
 descuento: '29.34'
+average: '20.49'
 ---
 
 Ahora mismo tienes [Tommy Jeans TJM Essential Box Logo tee Camiseta  Gris  LT Grey HTR 038   L para Hombre](https://www.amazon.es/dp/B07LBM1PNH/?tag=tolees-21) a 20.49 EUR (original: 29 EUR) (29.34 %  de descuento) en el siguiente enlace!

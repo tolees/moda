@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B005CTTO1U/?tag=tolees-21'
 descuento: '69.69'
+average: '75.47'
 ---
 
 Tienes [Schott NYC 210-Vint Chaqueta  Verde  Sage Green   M para Hombre](https://www.amazon.es/dp/B005CTTO1U/?tag=tolees-21) con un 69.69 % de descuento con precio de oferta de 75.47 EUR (original: 249 EUR) en el siguiente enlace!

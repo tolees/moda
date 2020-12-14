@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GNVV5JQ/?tag=tolees-21'
 descuento: '60.15'
+average: '11.95'
 ---
 
 Tienes [JACK & JONES Jcoten Shirt Ls One Pocket  Camisa Hombre  Blanco  Medium](https://www.amazon.es/dp/B07GNVV5JQ/?tag=tolees-21) con un 60.15 % de descuento con precio de oferta de 11.95 EUR (original: 29.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00NMVRDEA/?tag=tolees-21'
 descuento: '55.49'
+average: '31.6'
 ---
 
 Tienes [Nike Ebernon Mid  Zapatos de Baloncesto para Mujer  Negro  Black/White 001   36 EU](https://www.amazon.es/dp/B00NMVRDEA/?tag=tolees-21) con un 55.49 % de descuento con precio de oferta de 31.6 EUR (original: 71 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076HS1YKC/?tag=tolees-21'
 descuento: '34.14'
+average: '65.79'
 ---
 
 Ahora mismo tienes [Geox U Mansel A  Zapatilla Baja para Hombre  Beige  Sand   43 EU](https://www.amazon.es/dp/B076HS1YKC/?tag=tolees-21) a 65.79 EUR (original: 99.9 EUR) (34.14 %  de descuento) en el siguiente enlace!

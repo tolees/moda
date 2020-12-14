@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XSPNVSL/?tag=tolees-21'
 descuento: '32.77'
+average: '14.79'
 ---
 
 Tienes [FIND DC1930L vaqueros mujer  Azul  Indigo   W30/L32  Talla del Fabricante: Medium ](https://www.amazon.es/dp/B06XSPNVSL/?tag=tolees-21) con un 32.77 % de descuento con precio de oferta de 14.79 EUR (original: 22 EUR) en el siguiente enlace!

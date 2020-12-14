@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01ERS3I3G/?tag=tolees-21'
 descuento: '58.58'
+average: '8.95'
 ---
 
 Está [Joma - Chaqueta Capucha Combi Amarillo Fluor](https://www.amazon.es/dp/B01ERS3I3G/?tag=tolees-21) con 58.58 de descuento por 8.95 EUR (original: 21.61 EUR) en el siguiente enlace!

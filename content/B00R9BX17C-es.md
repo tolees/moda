@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00R9BX17C/?tag=tolees-21'
 descuento: '40.07'
+average: '44.95'
 ---
 
 Ahora mismo tienes [Timberland Pokey Pine 6In Boot with Side Zip  Botas Unisex-Niño  Amarillo  Wheat   23 EU](https://www.amazon.es/dp/B00R9BX17C/?tag=tolees-21) a 44.95 EUR (original: 75 EUR) (40.07 %  de descuento) en el siguiente enlace!

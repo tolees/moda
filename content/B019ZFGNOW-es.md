@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B019ZFGNOW/?tag=tolees-21'
 descuento: '59.52'
+average: '11.33'
 ---
 
 Está [Under Armour Tech SSC-Twist Camiseta  Mujer  Negro  Black 001   M](https://www.amazon.es/dp/B019ZFGNOW/?tag=tolees-21) con 59.52 de descuento por 11.33 EUR (original: 27.99 EUR) en el siguiente enlace!

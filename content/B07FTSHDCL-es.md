@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FTSHDCL/?tag=tolees-21'
 descuento: '83.12'
+average: '16.87'
 ---
 
 Está [Lee Luke Vaqueros Tapered  Azul  Light Daze ZX   W26/L32 para Hombre](https://www.amazon.es/dp/B07FTSHDCL/?tag=tolees-21) con 83.12 de descuento por 16.87 EUR (original: 99.95 EUR) en el siguiente enlace!

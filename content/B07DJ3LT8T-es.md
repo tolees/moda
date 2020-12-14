@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DJ3LT8T/?tag=tolees-21'
 descuento: '50.00'
+average: '47.5'
 ---
 
 Tienes [Geox D Jaysen a  Zapatillas para Mujer  Plateado  Silver C1007   37 EU](https://www.amazon.es/dp/B07DJ3LT8T/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 47.5 EUR (original: 95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KZ6KH12/?tag=tolees-21'
 descuento: '54.47'
+average: '22.76'
 ---
 
 Está [Cortefiel C6K Estruc Nat-Strch S-Ca Camisa de Vestir   Blanco 99   Small  Tamaño del Fabricante:S  para Hombre](https://www.amazon.es/dp/B07KZ6KH12/?tag=tolees-21) con 54.47 de descuento por 22.76 EUR (original: 49.99 EUR) en el siguiente enlace!

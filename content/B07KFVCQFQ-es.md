@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KFVCQFQ/?tag=tolees-21'
 descuento: '73.99'
+average: '7.8'
 ---
 
 Está [edc by Esprit Mujer 019cc1k007 Camisa Manga Larga Not Applicable  Rojo  Dark Red 610   Small](https://www.amazon.es/dp/B07KFVCQFQ/?tag=tolees-21) con 73.99 de descuento por 7.8 EUR (original: 29.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072N5ZW4L/?tag=tolees-21'
 descuento: '77.44'
+average: '6.09'
 ---
 
 Tienes [Vero Moda Vmjennie LS Top  Camisa Manga Larga Mujer  Azul  Navy Blazer Navy Blazer   36  Talla del Fabricante: Small ](https://www.amazon.es/dp/B072N5ZW4L/?tag=tolees-21) con un 77.44 % de descuento con precio de oferta de 6.09 EUR (original: 26.99 EUR) en el siguiente enlace!

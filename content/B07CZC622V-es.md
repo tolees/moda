@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CZC622V/?tag=tolees-21'
 descuento: '42.58'
+average: '17.22'
 ---
 
 Ahora mismo tienes [Under Armour UA Speed Stride 7   Woven Short Pantalón Corto  Hombre  Gris Mod Gray/Reflective 011  L](https://www.amazon.es/dp/B07CZC622V/?tag=tolees-21) a 17.22 EUR (original: 29.99 EUR) (42.58 %  de descuento) en el siguiente enlace!

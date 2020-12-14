@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071PB2XKR/?tag=tolees-21'
 descuento: '65.24'
+average: '13.9'
 ---
 
 Está [Only Onladah L/s Blazer Jrs Chaqueta de Traje   Cloud Dancer Detail:Melange   38  Talla del Fabricante: Medium  para Mujer](https://www.amazon.es/dp/B071PB2XKR/?tag=tolees-21) con 65.24 de descuento por 13.9 EUR (original: 39.99 EUR) en el siguiente enlace!

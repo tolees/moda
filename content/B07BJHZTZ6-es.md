@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BJHZTZ6/?tag=tolees-21'
 descuento: '43.71'
+average: '56.26'
 ---
 
 Está [G-STAR RAW 3301 Slim  Vaqueros slim Hombre  Azul  Rinsed 082   W35/L28](https://www.amazon.es/dp/B07BJHZTZ6/?tag=tolees-21) con 43.71 de descuento por 56.26 EUR (original: 99.95 EUR) en el siguiente enlace!

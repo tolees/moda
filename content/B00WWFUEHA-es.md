@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00WWFUEHA/?tag=tolees-21'
 descuento: '39.97'
+average: '60'
 ---
 
 Tienes [G-Star Raw  3301 tapered - Vaqueros para hombre  Azul  Dark Aged 7209   W33/L34](https://www.amazon.es/dp/B00WWFUEHA/?tag=tolees-21) con un 39.97 % de descuento con precio de oferta de 60 EUR (original: 99.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JH2ZL41/?tag=tolees-21'
 descuento: '59.75'
+average: '16.08'
 ---
 
 Ahora mismo tienes [PUMA Evostripe Evoknit tee Camiseta  Hombre  Negro Black  L](https://www.amazon.es/dp/B07JH2ZL41/?tag=tolees-21) a 16.08 EUR (original: 39.95 EUR) (59.75 %  de descuento) en el siguiente enlace!

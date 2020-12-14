@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GDWX3H6/?tag=tolees-21'
 descuento: '52.34'
+average: '90.55'
 ---
 
 Está [RIP CURL Enigma PTD JKT Chaqueta  Hombre  Cypress  M](https://www.amazon.es/dp/B07GDWX3H6/?tag=tolees-21) con 52.34 de descuento por 90.55 EUR (original: 189.99 EUR) en el siguiente enlace!

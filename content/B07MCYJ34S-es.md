@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MCYJ34S/?tag=tolees-21'
 descuento: '52.38'
+average: '23.81'
 ---
 
 Ahora mismo tienes [The North Face L/S Stripes tee Camiseta a Rayas de Manga Larga  Hombre  Urban Navy  M](https://www.amazon.es/dp/B07MCYJ34S/?tag=tolees-21) a 23.81 EUR (original: 50 EUR) (52.38 %  de descuento) en el siguiente enlace!

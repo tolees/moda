@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01BJ9WQU2/?tag=tolees-21'
 descuento: '50.03'
+average: '9.99'
 ---
 
 Tienes [Boolavard 26" Retro de los años 50 Underskirt Swing Vintage lujo neto falda de la enagua](https://www.amazon.es/dp/B01BJ9WQU2/?tag=tolees-21) con un 50.03 % de descuento con precio de oferta de 9.99 EUR (original: 19.99 EUR) en el siguiente enlace!

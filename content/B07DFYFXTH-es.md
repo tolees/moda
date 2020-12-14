@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DFYFXTH/?tag=tolees-21'
 descuento: '44.43'
+average: '21.95'
 ---
 
 Está [Calvin Klein Hip Brief 3pk  Bóxer para Hombre  Verde  B-Forest Dark Ngt/S Orange WB Qxc   Large Pack de 3 ](https://www.amazon.es/dp/B07DFYFXTH/?tag=tolees-21) con 44.43 de descuento por 21.95 EUR (original: 39.5 EUR) en el siguiente enlace!

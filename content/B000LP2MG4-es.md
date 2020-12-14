@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000LP2MG4/?tag=tolees-21'
 descuento: '64.35'
+average: '39.22'
 ---
 
 Tienes [Merrell MOAB Vent  Zapatos de Low Rise Senderismo para Hombre  Marrón  Walnut   40 EU](https://www.amazon.es/dp/B000LP2MG4/?tag=tolees-21) con un 64.35 % de descuento con precio de oferta de 39.22 EUR (original: 110 EUR) en el siguiente enlace!

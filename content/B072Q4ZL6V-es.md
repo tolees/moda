@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072Q4ZL6V/?tag=tolees-21'
 descuento: '45.10'
+average: '16.47'
 ---
 
 Está [FIND DC3375S vaqueros mujer cintura alta   Azul  Indigo   W26/L32  Talla del Fabricante: 36 ](https://www.amazon.es/dp/B072Q4ZL6V/?tag=tolees-21) con 45.10 de descuento por 16.47 EUR (original: 30 EUR) en el siguiente enlace!

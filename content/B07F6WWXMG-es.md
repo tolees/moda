@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F6WWXMG/?tag=tolees-21'
 descuento: '40.20'
+average: '14.95'
 ---
 
 Está [Nike M NK Dry Leg Camo SWSH Camiseta  Hombre  Gris  dk Grey Heather/Neutral Olive   XL](https://www.amazon.es/dp/B07F6WWXMG/?tag=tolees-21) con 40.20 de descuento por 14.95 EUR (original: 25 EUR) en el siguiente enlace!

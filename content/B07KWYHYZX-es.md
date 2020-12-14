@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KWYHYZX/?tag=tolees-21'
 descuento: '63.94'
+average: '123.68'
 ---
 
 Está [Love Moschino Multicolored Flowers and Logo_Knitted T-Shirt Camiseta  Blanco  Optical White A00   42  Talla del Fabricante: 44  para Mujer](https://www.amazon.es/dp/B07KWYHYZX/?tag=tolees-21) con 63.94 de descuento por 123.68 EUR (original: 343 EUR) en el siguiente enlace!

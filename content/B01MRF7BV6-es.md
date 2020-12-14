@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MRF7BV6/?tag=tolees-21'
 descuento: '63.54'
+average: '10.92'
 ---
 
 Ahora mismo tienes [MAMALICIOUS Mlaine L/s Jersey Top Mix  Camiseta de manchas largas premamá para Mujer  Gris  Medium Grey Melange   38  Talla fabricante:Medium ](https://www.amazon.es/dp/B01MRF7BV6/?tag=tolees-21) a 10.92 EUR (original: 29.95 EUR) (63.54 %  de descuento) en el siguiente enlace!

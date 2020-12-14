@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079SSNXBV/?tag=tolees-21'
 descuento: '28.13'
+average: '35.9'
 ---
 
 Está [Desigual TS_Aleia  Camiseta Mujer   Negro 2000 ](https://www.amazon.es/dp/B079SSNXBV/?tag=tolees-21) con 28.13 de descuento por 35.9 EUR (original: 49.95 EUR) en el siguiente enlace!

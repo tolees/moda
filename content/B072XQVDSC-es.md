@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072XQVDSC/?tag=tolees-21'
 descuento: '59.33'
+average: '14.23'
 ---
 
 Tienes [VERO MODA 10182070  Jersey Para Mujer  Negro  Dark Black Melange   38  Talla del fabricante: Medium ](https://www.amazon.es/dp/B072XQVDSC/?tag=tolees-21) con un 59.33 % de descuento con precio de oferta de 14.23 EUR (original: 34.99 EUR) en el siguiente enlace!

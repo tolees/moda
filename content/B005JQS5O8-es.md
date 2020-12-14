@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B005JQS5O8/?tag=tolees-21'
 descuento: '61.70'
+average: '57.45'
 ---
 
 Tienes [Timberland AF NELLIE DBLE WHEAT NBK - Botas de aventura para mujer  color amarillo   Wheat yellow   talla 38](https://www.amazon.es/dp/B005JQS5O8/?tag=tolees-21) con un 61.70 % de descuento con precio de oferta de 57.45 EUR (original: 150 EUR) en el siguiente enlace!

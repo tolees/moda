@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HH88GJH/?tag=tolees-21'
 descuento: '61.19'
+average: '29.11'
 ---
 
 Ahora mismo tienes [Tommy Jeans Hombre Circular Crew sudadera Manga Larga  Azul  Black Iris 002  Large](https://www.amazon.es/dp/B07HH88GJH/?tag=tolees-21) a 29.11 EUR (original: 75 EUR) (61.19 %  de descuento) en el siguiente enlace!

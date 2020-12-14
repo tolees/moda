@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07H7MNFCK/?tag=tolees-21'
 descuento: '69.93'
+average: '6.9'
 ---
 
 Ahora mismo tienes [Desigual Girl Knit T-Shirt Short Sleeve  TS_Sacramento   Camiseta Niñas  Blanco  White 1000   140  Talla del Fabricante: 9/10 ](https://www.amazon.es/dp/B07H7MNFCK/?tag=tolees-21) a 6.9 EUR (original: 22.95 EUR) (69.93 %  de descuento) en el siguiente enlace!

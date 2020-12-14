@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0794GKWJB/?tag=tolees-21'
 descuento: '50.03'
+average: '9.99'
 ---
 
 Ahora mismo tienes [TL - Guantes Manopla Peinador de Mascotas - Guante Suave para Cepillado y Eliminación de Pelo - Guantes Eficientes para la Eliminación de Pelo - Manoplas Masajeadoras con Diseño Mejorado -](https://www.amazon.es/dp/B0794GKWJB/?tag=tolees-21) a 9.99 EUR (original: 19.99 EUR) (50.03 %  de descuento) en el siguiente enlace!

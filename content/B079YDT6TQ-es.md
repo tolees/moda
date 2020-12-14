@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079YDT6TQ/?tag=tolees-21'
 descuento: '69.98'
+average: '21'
 ---
 
 Está [s.Oliver 5-5-25320-21  Botines para Mujer  Gris  Anthracite 214   38 EU](https://www.amazon.es/dp/B079YDT6TQ/?tag=tolees-21) con 69.98 de descuento por 21 EUR (original: 69.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01BLKYW6K/?tag=tolees-21'
 descuento: '62.34'
+average: '69.68'
 ---
 
 Está [Pedro del Hierro Sandalias de tacón Rosa EU 39](https://www.amazon.es/dp/B01BLKYW6K/?tag=tolees-21) con 62.34 de descuento por 69.68 EUR (original: 185 EUR) en el siguiente enlace!

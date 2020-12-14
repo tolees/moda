@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DY53G8P/?tag=tolees-21'
 descuento: '48.57'
+average: '18'
 ---
 
 Ahora mismo tienes [Under Armour Baseline Word Mark tee - Camiseta de Manga Corta para Hombre  Hombre  Color Red/Taxi/Black  tamaño Medium](https://www.amazon.es/dp/B07DY53G8P/?tag=tolees-21) a 18 EUR (original: 35 EUR) (48.57 %  de descuento) en el siguiente enlace!

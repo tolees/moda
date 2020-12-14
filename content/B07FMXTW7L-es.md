@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FMXTW7L/?tag=tolees-21'
 descuento: '68.66'
+average: '43.85'
 ---
 
 Ahora mismo tienes [Superdry Padded Elite Windcheater  Chaqueta Deportiva para Hombre  Azul  Electric Blue 89g   Medium](https://www.amazon.es/dp/B07FMXTW7L/?tag=tolees-21) a 43.85 EUR (original: 139.9 EUR) (68.66 %  de descuento) en el siguiente enlace!

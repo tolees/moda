@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01ETA6GZE/?tag=tolees-21'
 descuento: '78.90'
+average: '21.09'
 ---
 
 Está [Bugatti V71301  Botines para Mujer  Negro  36 EU](https://www.amazon.es/dp/B01ETA6GZE/?tag=tolees-21) con 78.90 de descuento por 21.09 EUR (original: 99.95 EUR) en el siguiente enlace!

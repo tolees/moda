@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00DY2SFW6/?tag=tolees-21'
 descuento: '37.79'
+average: '62.15'
 ---
 
 Ahora mismo tienes [Geox Snake K  Zapatillas para Hombre  Gris  Dark Grey/Off White C1300   44 EU](https://www.amazon.es/dp/B00DY2SFW6/?tag=tolees-21) a 62.15 EUR (original: 99.9 EUR) (37.79 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072BH3BMN/?tag=tolees-21'
 descuento: '40.14'
+average: '20.95'
 ---
 
 Tienes [G-STAR RAW Base Htr R T S/s 2-Pack Camiseta  Negro  Solid Black 2019   XX-Large para Hombre](https://www.amazon.es/dp/B072BH3BMN/?tag=tolees-21) con un 40.14 % de descuento con precio de oferta de 20.95 EUR (original: 35 EUR) en el siguiente enlace!

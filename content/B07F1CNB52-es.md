@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F1CNB52/?tag=tolees-21'
 descuento: '51.06'
+average: '17.13'
 ---
 
 Tienes [BILLABONG Eye Sea Sky Camiseta de Manga Larga  Mujer  Negro  Black 19   Medium  Tamaño del Fabricante:M ](https://www.amazon.es/dp/B07F1CNB52/?tag=tolees-21) con un 51.06 % de descuento con precio de oferta de 17.13 EUR (original: 35 EUR) en el siguiente enlace!

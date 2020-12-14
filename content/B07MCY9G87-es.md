@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MCY9G87/?tag=tolees-21'
 descuento: '58.18'
+average: '25.09'
 ---
 
 Está [The North Face Quest Pantalón  Mujer  TNF Black  SHT10](https://www.amazon.es/dp/B07MCY9G87/?tag=tolees-21) con 58.18 de descuento por 25.09 EUR (original: 60 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CKVZ4CV/?tag=tolees-21'
 descuento: '45.86'
+average: '19.49'
 ---
 
 Ahora mismo tienes [NNJXD Vestido Unicornio de Flor Volantes de Boda y Fiesta Princesa Muchacha Talla  110  4-5 Años Púrpura](https://www.amazon.es/dp/B07CKVZ4CV/?tag=tolees-21) a 19.49 EUR (original: 36 EUR) (45.86 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079QC6YVQ/?tag=tolees-21'
 descuento: '56.60'
+average: '23.87'
 ---
 
 Está [Converse Star Chevron Graphic Crew  Sudadera para Hombre  Gris  Vintage Grey Heather 035  Large](https://www.amazon.es/dp/B079QC6YVQ/?tag=tolees-21) con 56.60 de descuento por 23.87 EUR (original: 55 EUR) en el siguiente enlace!

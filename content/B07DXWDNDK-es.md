@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DXWDNDK/?tag=tolees-21'
 descuento: '79.43'
+average: '13.37'
 ---
 
 Está [Under Armour Storm - Camiseta de Calentamiento para Mujer  Tejido Iridiscente  diseño gráfico FZ  Mujer  1325529-020  Charcoal/White  Large](https://www.amazon.es/dp/B07DXWDNDK/?tag=tolees-21) con 79.43 de descuento por 13.37 EUR (original: 65 EUR) en el siguiente enlace!

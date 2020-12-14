@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071W1CX4K/?tag=tolees-21'
 descuento: '66.75'
+average: '12.62'
 ---
 
 Está [LEGO Saxton 750 Sudadera  Niños  Gris  Grey Melange   104  Tamaño del Fabricante:104 ](https://www.amazon.es/dp/B071W1CX4K/?tag=tolees-21) con 66.75 de descuento por 12.62 EUR (original: 37.95 EUR) en el siguiente enlace!

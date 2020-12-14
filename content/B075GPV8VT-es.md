@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075GPV8VT/?tag=tolees-21'
 descuento: '66.89'
+average: '9.93'
 ---
 
 Ahora mismo tienes [Only Onlnew Amour Sound L/s O-Neck Snap Swt  Sudadera para Mujer  Rojo  Aurora Red   38  Talla del Fabricante: Medium ](https://www.amazon.es/dp/B075GPV8VT/?tag=tolees-21) a 9.93 EUR (original: 29.99 EUR) (66.89 %  de descuento) en el siguiente enlace!

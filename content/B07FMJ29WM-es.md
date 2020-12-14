@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FMJ29WM/?tag=tolees-21'
 descuento: '63.49'
+average: '14.6'
 ---
 
 Tienes [Quiksilver Mission Guantes  Niños  Negro  Construct   M](https://www.amazon.es/dp/B07FMJ29WM/?tag=tolees-21) con un 63.49 % de descuento con precio de oferta de 14.6 EUR (original: 39.99 EUR) en el siguiente enlace!

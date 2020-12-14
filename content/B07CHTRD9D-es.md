@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CHTRD9D/?tag=tolees-21'
 descuento: '66.67'
+average: '108.99'
 ---
 
 Está [BOSS Ustin  Chaqueta de Traje para Hombre  Azul  Dark Blue 404   52](https://www.amazon.es/dp/B07CHTRD9D/?tag=tolees-21) con 66.67 de descuento por 108.99 EUR (original: 327.05 EUR) en el siguiente enlace!

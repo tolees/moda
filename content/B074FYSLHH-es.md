@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074FYSLHH/?tag=tolees-21'
 descuento: '68.03'
+average: '9.59'
 ---
 
 Ahora mismo tienes [find. Jersey de Punto para Mujer  Rosa  Bright Pink   38  Talla del Fabricante: Small ](https://www.amazon.es/dp/B074FYSLHH/?tag=tolees-21) a 9.59 EUR (original: 30 EUR) (68.03 %  de descuento) en el siguiente enlace!

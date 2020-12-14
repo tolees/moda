@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07B132NNT/?tag=tolees-21'
 descuento: '48.88'
+average: '65.94'
 ---
 
 Está [BOSS Salbo Sudadera  Negro  Black 001   Large para Hombre](https://www.amazon.es/dp/B07B132NNT/?tag=tolees-21) con 48.88 de descuento por 65.94 EUR (original: 129 EUR) en el siguiente enlace!

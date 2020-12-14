@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FKD3BZT/?tag=tolees-21'
 descuento: '60.56'
+average: '23.66'
 ---
 
 Está [Only Onlpeyton AW Short Fur Jacket CC Otw  Chaqueta Mujer  Rosa  Cameo Rose Cameo Rose   44  Talla del Fabricante: X-Large ](https://www.amazon.es/dp/B07FKD3BZT/?tag=tolees-21) con 60.56 de descuento por 23.66 EUR (original: 59.99 EUR) en el siguiente enlace!

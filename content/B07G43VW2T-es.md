@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07G43VW2T/?tag=tolees-21'
 descuento: '32.71'
+average: '28.23'
 ---
 
 Está [BOSS Boxer Brief 2p Print  Hombre  Rojo  Bright Red 620  Small Pack de 2](https://www.amazon.es/dp/B07G43VW2T/?tag=tolees-21) con 32.71 de descuento por 28.23 EUR (original: 41.95 EUR) en el siguiente enlace!

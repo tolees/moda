@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071FD43ZK/?tag=tolees-21'
 descuento: '59.99'
+average: '16'
 ---
 
 Tienes [Only onlULTIMATE RG SK Zip Soft Black A Jeans Vaqueros Skinny  Negro  40 /L32  Talla del Fabricante: 40/L32  para Mujer](https://www.amazon.es/dp/B071FD43ZK/?tag=tolees-21) con un 59.99 % de descuento con precio de oferta de 16 EUR (original: 39.99 EUR) en el siguiente enlace!

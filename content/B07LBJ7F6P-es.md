@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07LBJ7F6P/?tag=tolees-21'
 descuento: '63.17'
+average: '71.6'
 ---
 
 Ahora mismo tienes [Love Moschino - Borsa Soft Grain Pu  Bolso de mano Mujer  Beige  Naturale   12x27x37 cm  W x H L ](https://www.amazon.es/dp/B07LBJ7F6P/?tag=tolees-21) a 71.6 EUR (original: 194.4 EUR) (63.17 %  de descuento) en el siguiente enlace!

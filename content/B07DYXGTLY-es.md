@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DYXGTLY/?tag=tolees-21'
 descuento: '47.64'
+average: '130.89'
 ---
 
 Está [Columbia Chaqueta impermeable para mujer  Snow Dream Jacket  Poliéster  Gris  Cirrus Grey Hthr/Cactus Pink   Talla S  1748341](https://www.amazon.es/dp/B07DYXGTLY/?tag=tolees-21) con 47.64 de descuento por 130.89 EUR (original: 249.99 EUR) en el siguiente enlace!

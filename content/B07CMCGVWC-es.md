@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CMCGVWC/?tag=tolees-21'
 descuento: '73.84'
+average: '28.76'
 ---
 
 Está [Scotch & Soda R´Belle Padded Bomber Jacket with Colour Block & Placed Artworks  Chaqueta para Niñas   Combo Y 604  152  Talla del Fabricante: 12 ](https://www.amazon.es/dp/B07CMCGVWC/?tag=tolees-21) con 73.84 de descuento por 28.76 EUR (original: 109.95 EUR) en el siguiente enlace!

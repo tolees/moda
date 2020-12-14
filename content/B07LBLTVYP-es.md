@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07LBLTVYP/?tag=tolees-21'
 descuento: '54.38'
+average: '17.79'
 ---
 
 Está [Tommy Jeans TJW 1985 Embroidery tee Camiseta  Azul  Canal Blue 407   XS para Mujer](https://www.amazon.es/dp/B07LBLTVYP/?tag=tolees-21) con 54.38 de descuento por 17.79 EUR (original: 39 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00NQUSD14/?tag=tolees-21'
 descuento: '78.24'
+average: '15.22'
 ---
 
 Ahora mismo tienes [LTB Jeans Valerie  Vaqueros Corte de Bota para Mujer  Azul  Blue Lapis Wash 3923   W24/L36](https://www.amazon.es/dp/B00NQUSD14/?tag=tolees-21) a 15.22 EUR (original: 69.95 EUR) (78.24 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073SCHNMB/?tag=tolees-21'
 descuento: '58.33'
+average: '5'
 ---
 
 Está [FIND Camiseta Bronx para Hombre  Gris  Grey Marl 003   X-Large](https://www.amazon.es/dp/B073SCHNMB/?tag=tolees-21) con 58.33 de descuento por 5 EUR (original: 12 EUR) en el siguiente enlace!

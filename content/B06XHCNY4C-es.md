@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XHCNY4C/?tag=tolees-21'
 descuento: '38.96'
+average: '48.83'
 ---
 
 Está [Helly Hansen HH LIFA Crew Camiseta Técnica Lana Merino  Hombre  Azul  Evening Blue   M](https://www.amazon.es/dp/B06XHCNY4C/?tag=tolees-21) con 38.96 de descuento por 48.83 EUR (original: 80 EUR) en el siguiente enlace!

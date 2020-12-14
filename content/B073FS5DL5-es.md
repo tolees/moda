@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073FS5DL5/?tag=tolees-21'
 descuento: '48.84'
+average: '17.9'
 ---
 
 Ahora mismo tienes [JACK & JONES Jcoslice Sweat Crew Neck  Sudadera para Hombre  Azul  Sky Captain Fit:Slim  Small](https://www.amazon.es/dp/B073FS5DL5/?tag=tolees-21) a 17.9 EUR (original: 34.99 EUR) (48.84 %  de descuento) en el siguiente enlace!

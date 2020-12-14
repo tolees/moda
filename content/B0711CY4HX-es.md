@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0711CY4HX/?tag=tolees-21'
 descuento: '80.14'
+average: '25.62'
 ---
 
 Está [Dickies Curtis  Parka para Hombre  Multicolor  Camouflage   X-Large](https://www.amazon.es/dp/B0711CY4HX/?tag=tolees-21) con 80.14 de descuento por 25.62 EUR (original: 129 EUR) en el siguiente enlace!

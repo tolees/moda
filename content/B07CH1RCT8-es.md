@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CH1RCT8/?tag=tolees-21'
 descuento: '67.39'
+average: '19.55'
 ---
 
 Está [CMP Forro Knit Tech 38H2227 Chaqueta  Hombre  Azul  maiolica   58](https://www.amazon.es/dp/B07CH1RCT8/?tag=tolees-21) con 67.39 de descuento por 19.55 EUR (original: 59.95 EUR) en el siguiente enlace!

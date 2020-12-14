@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B007THWEYC/?tag=tolees-21'
 descuento: '34.38'
+average: '23.95'
 ---
 
 Está [Seac RAA Long EVO Camiseta para Snorkeling y Natación con Protección UV  Unisex  Azul Claro  XXL](https://www.amazon.es/dp/B007THWEYC/?tag=tolees-21) con 34.38 de descuento por 23.95 EUR (original: 36.5 EUR) en el siguiente enlace!

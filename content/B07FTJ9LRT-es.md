@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FTJ9LRT/?tag=tolees-21'
 descuento: '85.78'
+average: '14.21'
 ---
 
 Está [Lee Scarlett  Vaqueros Skinny para Mujer  Negro  Raw Pitch Wx   W24/L31](https://www.amazon.es/dp/B07FTJ9LRT/?tag=tolees-21) con 85.78 de descuento por 14.21 EUR (original: 99.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00JBS9PNU/?tag=tolees-21'
 descuento: '50.03'
+average: '7.49'
 ---
 
 Tienes [Kempa T-Shirt Core Trainings - Camiseta de equipación de Balonmano para Hombre  Color Rojo  Talla DE: XXS/XS](https://www.amazon.es/dp/B00JBS9PNU/?tag=tolees-21) con un 50.03 % de descuento con precio de oferta de 7.49 EUR (original: 14.99 EUR) en el siguiente enlace!

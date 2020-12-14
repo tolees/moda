@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01M076RTN/?tag=tolees-21'
 descuento: '80.88'
+average: '24.67'
 ---
 
 Ahora mismo tienes [Nebulus Jersey Cuello Alto Himal Azul Marino/Blanco L](https://www.amazon.es/dp/B01M076RTN/?tag=tolees-21) a 24.67 EUR (original: 129 EUR) (80.88 %  de descuento) en el siguiente enlace!

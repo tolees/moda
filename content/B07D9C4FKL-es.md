@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D9C4FKL/?tag=tolees-21'
 descuento: '72.65'
+average: '13.66'
 ---
 
 Ahora mismo tienes [XTI 48398  Botines para Mujer  Marrón Taupe  40 EU](https://www.amazon.es/dp/B07D9C4FKL/?tag=tolees-21) a 13.66 EUR (original: 49.95 EUR) (72.65 %  de descuento) en el siguiente enlace!

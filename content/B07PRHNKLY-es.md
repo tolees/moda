@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07PRHNKLY/?tag=tolees-21'
 descuento: '45.02'
+average: '10.99'
 ---
 
 Está [LOHOTEK Guantes de Ciclismo Motocicleta Bicicleta Montaña-Acolchados Bicicleta de Carretera de Hombres Mujeres Antideslizante Pantalla Táctil  Amarillo  M ](https://www.amazon.es/dp/B07PRHNKLY/?tag=tolees-21) con 45.02 de descuento por 10.99 EUR (original: 19.99 EUR) en el siguiente enlace!

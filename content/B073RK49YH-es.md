@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073RK49YH/?tag=tolees-21'
 descuento: '67.58'
+average: '25.93'
 ---
 
 Ahora mismo tienes [ONLY Onlleeona Aw Canvas Parka Jacket Cc Otw  Parka para Mujer  Azul  Sky Captain   42  Talla del fabricante: X-Large ](https://www.amazon.es/dp/B073RK49YH/?tag=tolees-21) a 25.93 EUR (original: 79.99 EUR) (67.58 %  de descuento) en el siguiente enlace!

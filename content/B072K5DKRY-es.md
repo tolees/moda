@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072K5DKRY/?tag=tolees-21'
 descuento: '62.07'
+average: '21.24'
 ---
 
 Ahora mismo tienes [FIND Zapatos de Tacón con Empeine Alto para Mujer  Plateado  Silver   39 EU](https://www.amazon.es/dp/B072K5DKRY/?tag=tolees-21) a 21.24 EUR (original: 56 EUR) (62.07 %  de descuento) en el siguiente enlace!

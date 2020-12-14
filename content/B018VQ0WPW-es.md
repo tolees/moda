@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B018VQ0WPW/?tag=tolees-21'
 descuento: '48.10'
+average: '12.95'
 ---
 
 Tienes [Puma Leadcat  Chanclas Unisex Adulto  Verde Olivine 18  49.5 EU](https://www.amazon.es/dp/B018VQ0WPW/?tag=tolees-21) con un 48.10 % de descuento con precio de oferta de 12.95 EUR (original: 24.95 EUR) en el siguiente enlace!

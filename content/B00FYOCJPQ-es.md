@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00FYOCJPQ/?tag=tolees-21'
 descuento: '65.62'
+average: '13.59'
 ---
 
 Tienes [IJP Design - Ian Poulter - Pantalón Tech Mujer  Blanco  12  WT4-02-12-29](https://www.amazon.es/dp/B00FYOCJPQ/?tag=tolees-21) con un 65.62 % de descuento con precio de oferta de 13.59 EUR (original: 39.53 EUR) en el siguiente enlace!

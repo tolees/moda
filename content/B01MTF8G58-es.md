@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MTF8G58/?tag=tolees-21'
 descuento: '70.95'
+average: '8.12'
 ---
 
 Está [LEGO TEO 613 - T-Shirt S/S Camiseta  Niños  Azul  Blue   152  Tamaño del Fabricante:152 ](https://www.amazon.es/dp/B01MTF8G58/?tag=tolees-21) con 70.95 de descuento por 8.12 EUR (original: 27.95 EUR) en el siguiente enlace!

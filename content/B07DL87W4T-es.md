@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DL87W4T/?tag=tolees-21'
 descuento: '32.45'
+average: '40.53'
 ---
 
 Ahora mismo tienes [Burton Oak Crew Sudadera  Hombre  Azul  Mood Indigo Heather   L](https://www.amazon.es/dp/B07DL87W4T/?tag=tolees-21) a 40.53 EUR (original: 60 EUR) (32.45 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CX2NFJY/?tag=tolees-21'
 descuento: '61.64'
+average: '30.67'
 ---
 
 Tienes [Superdry Classic Standard Hood  Sudadera para Hombre  Azul  Bright Navy Mega Grit Rq4  Small](https://www.amazon.es/dp/B07CX2NFJY/?tag=tolees-21) con un 61.64 % de descuento con precio de oferta de 30.67 EUR (original: 79.95 EUR) en el siguiente enlace!

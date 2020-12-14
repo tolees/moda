@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F9ZR45B/?tag=tolees-21'
 descuento: '45.81'
+average: '26.5'
 ---
 
 Está [Collar corto para mujer. Gargantilla con bolas de resina y cadena de aluminio. Color Rojo.Regalo san valentin mujer](https://www.amazon.es/dp/B07F9ZR45B/?tag=tolees-21) con 45.81 de descuento por 26.5 EUR (original: 48.9 EUR) en el siguiente enlace!

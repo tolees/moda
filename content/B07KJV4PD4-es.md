@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KJV4PD4/?tag=tolees-21'
 descuento: '45.22'
+average: '10.95'
 ---
 
 Tienes [Quiksilver Quik Pool Camiseta de Manga Corta  Hombre  Negro  Black   XL](https://www.amazon.es/dp/B07KJV4PD4/?tag=tolees-21) con un 45.22 % de descuento con precio de oferta de 10.95 EUR (original: 19.99 EUR) en el siguiente enlace!

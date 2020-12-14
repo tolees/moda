@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HS5R9VX/?tag=tolees-21'
 descuento: '81.72'
+average: '9.14'
 ---
 
 Tienes [SELECTED HOMME Slhregcollect Shirt LS W Noos Camisa  Rosa Bubblegum  X-Large para Hombre](https://www.amazon.es/dp/B07HS5R9VX/?tag=tolees-21) con un 81.72 % de descuento con precio de oferta de 9.14 EUR (original: 49.99 EUR) en el siguiente enlace!

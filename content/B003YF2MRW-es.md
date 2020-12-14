@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B003YF2MRW/?tag=tolees-21'
 descuento: '55.68'
+average: '101.93'
 ---
 
 Ahora mismo tienes [Timberland Heritage 6" Premium Waterproof  Wide fit   Botas Clasicas para Hombre  Marrón  Brown Burnished Full Grain   39.5 EU](https://www.amazon.es/dp/B003YF2MRW/?tag=tolees-21) a 101.93 EUR (original: 230 EUR) (55.68 %  de descuento) en el siguiente enlace!

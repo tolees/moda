@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07QQY4TV4/?tag=tolees-21'
 descuento: '40.01'
+average: '29.99'
 ---
 
 Tienes [FUSHITON Zapatos de Agua para Buceo Snorkel Surf Piscina Playa Aqua Cycling Deportes Acuáticos Calzado de Natación Escarpines para Hombre Mujer Yoga](https://www.amazon.es/dp/B07QQY4TV4/?tag=tolees-21) con un 40.01 % de descuento con precio de oferta de 29.99 EUR (original: 49.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D9FZJ18/?tag=tolees-21'
 descuento: '65.75'
+average: '17.11'
 ---
 
 Está [XTI 48608  Botines para Mujer  Negro Plomo  40 EU](https://www.amazon.es/dp/B07D9FZJ18/?tag=tolees-21) con 65.75 de descuento por 17.11 EUR (original: 49.95 EUR) en el siguiente enlace!

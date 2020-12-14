@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00TIM9MDC/?tag=tolees-21'
 descuento: '40.13'
+average: '20.95'
 ---
 
 Tienes [Columbia Zero Rules Camiseta de Manga Corta  Mujer   Gris Heather   XS](https://www.amazon.es/dp/B00TIM9MDC/?tag=tolees-21) con un 40.13 % de descuento con precio de oferta de 20.95 EUR (original: 34.99 EUR) en el siguiente enlace!

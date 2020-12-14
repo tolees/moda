@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076S56HFR/?tag=tolees-21'
 descuento: '58.62'
+average: '37.24'
 ---
 
 Tienes [Under Armour UA Torch  Zapatos de Baloncesto para Hombre  Negro  Black/Ghost Gray/Alpine   41 EU](https://www.amazon.es/dp/B076S56HFR/?tag=tolees-21) con un 58.62 % de descuento con precio de oferta de 37.24 EUR (original: 90 EUR) en el siguiente enlace!

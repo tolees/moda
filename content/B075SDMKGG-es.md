@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075SDMKGG/?tag=tolees-21'
 descuento: '81.43'
+average: '5.57'
 ---
 
 Tienes [Springfield 1402773 Jersey  Gris  Grey   Small  Tamaño del Fabricante:S  para Hombre](https://www.amazon.es/dp/B075SDMKGG/?tag=tolees-21) con un 81.43 % de descuento con precio de oferta de 5.57 EUR (original: 29.99 EUR) en el siguiente enlace!

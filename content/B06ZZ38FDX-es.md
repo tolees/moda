@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06ZZ38FDX/?tag=tolees-21'
 descuento: '50.03'
+average: '9.99'
 ---
 
 Ahora mismo tienes [Apliques de Pared Moderna Lámpara de Pared Lámpara en Moda Agradable Luz de Ambiente Lámpara exteriores interiores de Decoración para Dormitorio  Studio  Hogar Decoración  Porche  Viene con Led Bombilla  Blanco cálido [Clase de eficiencia energética A+]](https://www.amazon.es/dp/B06ZZ38FDX/?tag=tolees-21) a 9.99 EUR (original: 19.99 EUR) (50.03 %  de descuento) en el siguiente enlace!

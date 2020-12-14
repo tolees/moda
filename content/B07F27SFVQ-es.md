@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F27SFVQ/?tag=tolees-21'
 descuento: '50.00'
+average: '55'
 ---
 
 Está [Levi s The Jacket Chaqueta Vaquera  Negro  Berk Trucker 0306   Small para Hombre](https://www.amazon.es/dp/B07F27SFVQ/?tag=tolees-21) con 50.00 de descuento por 55 EUR (original: 110 EUR) en el siguiente enlace!

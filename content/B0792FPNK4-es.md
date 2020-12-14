@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0792FPNK4/?tag=tolees-21'
 descuento: '72.73'
+average: '35.43'
 ---
 
 Está [Geox D Tabelya A  Zapatillas para Mujer   Bordeaux/Dk Burgundy C7b7j   38 EU](https://www.amazon.es/dp/B0792FPNK4/?tag=tolees-21) con 72.73 de descuento por 35.43 EUR (original: 129.9 EUR) en el siguiente enlace!

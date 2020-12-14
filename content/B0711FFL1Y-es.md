@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0711FFL1Y/?tag=tolees-21'
 descuento: '55.47'
+average: '7.57'
 ---
 
 Está [Inside @ STCN35 Jersey  Morado  Burdeos   Medium  Tamaño del Fabricante:M  para Mujer](https://www.amazon.es/dp/B0711FFL1Y/?tag=tolees-21) con 55.47 de descuento por 7.57 EUR (original: 17 EUR) en el siguiente enlace!

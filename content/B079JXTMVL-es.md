@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079JXTMVL/?tag=tolees-21'
 descuento: '57.31'
+average: '170.32'
 ---
 
 Está [Napapijri Articage  Chaqueta  Azul  Medium Blue Bc4   Mujer](https://www.amazon.es/dp/B079JXTMVL/?tag=tolees-21) con 57.31 de descuento por 170.32 EUR (original: 399 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077Y8N9QY/?tag=tolees-21'
 descuento: '40.00'
+average: '17.97'
 ---
 
 Está [HIKARO Sudadera con Capucha Hombre  Naranja  Orange   52  Talla del fabricante: Large ](https://www.amazon.es/dp/B077Y8N9QY/?tag=tolees-21) con 40.00 de descuento por 17.97 EUR (original: 29.95 EUR) en el siguiente enlace!

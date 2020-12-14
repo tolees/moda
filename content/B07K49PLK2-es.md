@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07K49PLK2/?tag=tolees-21'
 descuento: '44.29'
+average: '38.99'
 ---
 
 Está [Zapatos de Seguridad para Hombre Zapatillas de Seguridad Trabajo Industrial y Deportiva con Puntera de Acero  Gris Negro  39 EU ](https://www.amazon.es/dp/B07K49PLK2/?tag=tolees-21) con 44.29 de descuento por 38.99 EUR (original: 69.99 EUR) en el siguiente enlace!

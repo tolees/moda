@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0776QV6DL/?tag=tolees-21'
 descuento: '65.00'
+average: '11.99'
 ---
 
 Ahora mismo tienes [PROSTEEL Collar Hombre Cuba Curb Chain](https://www.amazon.es/dp/B0776QV6DL/?tag=tolees-21) a 11.99 EUR (original: 34.26 EUR) (65.00 %  de descuento) en el siguiente enlace!

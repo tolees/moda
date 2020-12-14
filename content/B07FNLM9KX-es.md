@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FNLM9KX/?tag=tolees-21'
 descuento: '64.01'
+average: '28.79'
 ---
 
 Está [JACK & JONES Jjiliam Jjoriginal JJ 104 50sps Noos  Vaqueros Skinny Hombre  Azul  Blue Denim Blue Denim   W32/L30](https://www.amazon.es/dp/B07FNLM9KX/?tag=tolees-21) con 64.01 de descuento por 28.79 EUR (original: 79.99 EUR) en el siguiente enlace!

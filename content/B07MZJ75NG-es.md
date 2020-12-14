@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MZJ75NG/?tag=tolees-21'
 descuento: '47.30'
+average: '20.95'
 ---
 
 Está [Superdry Shirt Shop tee Camiseta  Blanco  Optic 01c   XL para Hombre](https://www.amazon.es/dp/B07MZJ75NG/?tag=tolees-21) con 47.30 de descuento por 20.95 EUR (original: 39.75 EUR) en el siguiente enlace!

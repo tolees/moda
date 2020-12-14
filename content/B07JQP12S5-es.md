@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JQP12S5/?tag=tolees-21'
 descuento: '60.38'
+average: '17.83'
 ---
 
 Tienes [Lacoste Bóxer para Hombre  Multicolor  Black/Grey   X-Large  Talla del fabricante:XL   paquete de 2](https://www.amazon.es/dp/B07JQP12S5/?tag=tolees-21) con un 60.38 % de descuento con precio de oferta de 17.83 EUR (original: 45 EUR) en el siguiente enlace!

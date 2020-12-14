@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01FIFKH5E/?tag=tolees-21'
 descuento: '61.36'
+average: '11.95'
 ---
 
 Tienes [VERO MODA Vmseven Nw Ss Smooth Jeans Dk Grey Noos  Mujer  Gris  Dark Denim   32 /L34  Talla del fabricante: XX-Small ](https://www.amazon.es/dp/B01FIFKH5E/?tag=tolees-21) con un 61.36 % de descuento con precio de oferta de 11.95 EUR (original: 30.93 EUR) en el siguiente enlace!

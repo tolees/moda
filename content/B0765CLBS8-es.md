@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0765CLBS8/?tag=tolees-21'
 descuento: '66.33'
+average: '20.2'
 ---
 
 Ahora mismo tienes [Esprit 018ee1b009  Vaqueros Straight Mujer  Azul  Blue Medium Wash 902   W26/L32](https://www.amazon.es/dp/B0765CLBS8/?tag=tolees-21) a 20.2 EUR (original: 59.99 EUR) (66.33 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073QLGL9Y/?tag=tolees-21'
 descuento: '42.31'
+average: '9.23'
 ---
 
 Está [Activewear Camiseta de Manga Larga Hombre  Gris  Grey Marl   Small](https://www.amazon.es/dp/B073QLGL9Y/?tag=tolees-21) con 42.31 de descuento por 9.23 EUR (original: 16 EUR) en el siguiente enlace!

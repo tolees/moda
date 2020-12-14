@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DJ3ZXZN/?tag=tolees-21'
 descuento: '76.38'
+average: '23.6'
 ---
 
 Está [Geox D Jearl D  Zapatillas para Mujer  Beige  Cream C5002   39 EU](https://www.amazon.es/dp/B07DJ3ZXZN/?tag=tolees-21) con 76.38 de descuento por 23.6 EUR (original: 99.9 EUR) en el siguiente enlace!

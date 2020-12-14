@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078T6GP8W/?tag=tolees-21'
 descuento: '40.97'
+average: '20.6'
 ---
 
 Ahora mismo tienes [Tommy Hilfiger Essential TH Beach Sandal  Chanclas para Hombre  Azul  Midnight 403   41 EU](https://www.amazon.es/dp/B078T6GP8W/?tag=tolees-21) a 20.6 EUR (original: 34.9 EUR) (40.97 %  de descuento) en el siguiente enlace!

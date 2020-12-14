@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07J68BVCQ/?tag=tolees-21'
 descuento: '82.01'
+average: '17.99'
 ---
 
 Tienes [ENGSWA Collar Mujer Grabado Colgante con Cristal Asimétrico Regalo Abuela](https://www.amazon.es/dp/B07J68BVCQ/?tag=tolees-21) con un 82.01 % de descuento con precio de oferta de 17.99 EUR (original: 99.99 EUR) en el siguiente enlace!

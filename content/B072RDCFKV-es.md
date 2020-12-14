@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072RDCFKV/?tag=tolees-21'
 descuento: '73.35'
+average: '17.32'
 ---
 
 Tienes [find. Abrigo Midi de Corte Recto en Tela Ligera Mujer  Negro  Black   42  Talla del Fabricante: Large ](https://www.amazon.es/dp/B072RDCFKV/?tag=tolees-21) con un 73.35 % de descuento con precio de oferta de 17.32 EUR (original: 65 EUR) en el siguiente enlace!

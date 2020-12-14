@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078HJFY2W/?tag=tolees-21'
 descuento: '46.96'
+average: '68.95'
 ---
 
 Ahora mismo tienes [Diesel Buster L.32 Vaqueros Straight  Azul 01  W32/L32  Talla del Fabricante: 32  para Hombre](https://www.amazon.es/dp/B078HJFY2W/?tag=tolees-21) a 68.95 EUR (original: 130 EUR) (46.96 %  de descuento) en el siguiente enlace!

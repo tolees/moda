@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JHL9SRY/?tag=tolees-21'
 descuento: '43.41'
+average: '16.95'
 ---
 
 Está [Puma ESS Logo Leggins  Mujer  Ponderosa Pine  M](https://www.amazon.es/dp/B07JHL9SRY/?tag=tolees-21) con 43.41 de descuento por 16.95 EUR (original: 29.95 EUR) en el siguiente enlace!

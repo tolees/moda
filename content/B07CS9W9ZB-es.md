@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CS9W9ZB/?tag=tolees-21'
 descuento: '75.66'
+average: '21.88'
 ---
 
 Está [Pepe Jeans Kingston Zip Vaqueros Straight    Denim Gris Gm2   W30/L34 Taille Fabricant 30/34 para Hombre](https://www.amazon.es/dp/B07CS9W9ZB/?tag=tolees-21) con 75.66 de descuento por 21.88 EUR (original: 89.9 EUR) en el siguiente enlace!

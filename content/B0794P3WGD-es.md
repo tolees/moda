@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0794P3WGD/?tag=tolees-21'
 descuento: '61.34'
+average: '54.12'
 ---
 
 Ahora mismo tienes [Camper Morrys K100295-006 Zapatos de Vestir Hombre 45](https://www.amazon.es/dp/B0794P3WGD/?tag=tolees-21) a 54.12 EUR (original: 140 EUR) (61.34 %  de descuento) en el siguiente enlace!

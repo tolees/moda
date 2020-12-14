@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079SH5F6J/?tag=tolees-21'
 descuento: '30.03'
+average: '34.95'
 ---
 
 Tienes [Desigual Sweat_Cintia  Sudadera para Niñas   Navy 5000   140  Talla del Fabricante: 9/10 ](https://www.amazon.es/dp/B079SH5F6J/?tag=tolees-21) con un 30.03 % de descuento con precio de oferta de 34.95 EUR (original: 49.95 EUR) en el siguiente enlace!

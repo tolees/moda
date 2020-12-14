@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000CRF92U/?tag=tolees-21'
 descuento: '30.00'
+average: '42'
 ---
 
 Ahora mismo tienes [Eastpak Delegate Bolso bandolera  20 L  38.5 cm  Azul  Midnight ](https://www.amazon.es/dp/B000CRF92U/?tag=tolees-21) a 42 EUR (original: 60 EUR) (30.00 %  de descuento) en el siguiente enlace!

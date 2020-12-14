@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N7WYN7R/?tag=tolees-21'
 descuento: '50.15'
+average: '49.83'
 ---
 
 Tienes [G-STAR RAW 3301 Deconstructed Mid Waist Straight Vaqueros  Azul  lt Aged 8809-424   29W / 34L para Mujer](https://www.amazon.es/dp/B01N7WYN7R/?tag=tolees-21) con un 50.15 % de descuento con precio de oferta de 49.83 EUR (original: 99.95 EUR) en el siguiente enlace!

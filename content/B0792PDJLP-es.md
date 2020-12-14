@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0792PDJLP/?tag=tolees-21'
 descuento: '65.03'
+average: '38.43'
 ---
 
 Tienes [Geox D Theragon C  Zapatillas para Mujer   Dk Navy C4078   40 EU](https://www.amazon.es/dp/B0792PDJLP/?tag=tolees-21) con un 65.03 % de descuento con precio de oferta de 38.43 EUR (original: 109.9 EUR) en el siguiente enlace!

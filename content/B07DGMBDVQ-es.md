@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DGMBDVQ/?tag=tolees-21'
 descuento: '42.99'
+average: '107.13'
 ---
 
 Está [Timberland Heritage Lite  Botas para Mujer  Rojo  Pomegranate Nubuck Monochromatic M49   36 EU](https://www.amazon.es/dp/B07DGMBDVQ/?tag=tolees-21) con 42.99 de descuento por 107.13 EUR (original: 187.93 EUR) en el siguiente enlace!

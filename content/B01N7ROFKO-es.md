@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N7ROFKO/?tag=tolees-21'
 descuento: '59.73'
+average: '16.11'
 ---
 
 Ahora mismo tienes [Double Agent Elastic Denim Vaqueros Skinny  Azul  Jeans   38 para Mujer](https://www.amazon.es/dp/B01N7ROFKO/?tag=tolees-21) a 16.11 EUR (original: 40 EUR) (59.73 %  de descuento) en el siguiente enlace!

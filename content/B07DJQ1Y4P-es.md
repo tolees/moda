@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DJQ1Y4P/?tag=tolees-21'
 descuento: '60.47'
+average: '19.76'
 ---
 
 Tienes [Only Onlnew Skylar Fur Parka CC Otw Chaqueta   Desert Taupe AOP: Camo   38  Talla del Fabricante: Small  para Mujer](https://www.amazon.es/dp/B07DJQ1Y4P/?tag=tolees-21) con un 60.47 % de descuento con precio de oferta de 19.76 EUR (original: 49.99 EUR) en el siguiente enlace!

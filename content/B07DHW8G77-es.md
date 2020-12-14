@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DHW8G77/?tag=tolees-21'
 descuento: '62.24'
+average: '75.5'
 ---
 
 Ahora mismo tienes [CMP 38W0637_U901_50 Chaqueta  Hombre  Negro  L](https://www.amazon.es/dp/B07DHW8G77/?tag=tolees-21) a 75.5 EUR (original: 199.95 EUR) (62.24 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0725XM3SK/?tag=tolees-21'
 descuento: '55.22'
+average: '17.89'
 ---
 
 Ahora mismo tienes [LEGO Saxton 751 Sudadera  Rojo  Red   Tamaño del Fabricante:104 para Niños](https://www.amazon.es/dp/B0725XM3SK/?tag=tolees-21) a 17.89 EUR (original: 39.95 EUR) (55.22 %  de descuento) en el siguiente enlace!

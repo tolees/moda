@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HFD5CSN/?tag=tolees-21'
 descuento: '46.94'
+average: '13.26'
 ---
 
 Tienes [Levi s Levis Frankenstein Boxer Brief 2p  Bóxer Hombre   Red 072   Large](https://www.amazon.es/dp/B07HFD5CSN/?tag=tolees-21) con un 46.94 % de descuento con precio de oferta de 13.26 EUR (original: 24.99 EUR) en el siguiente enlace!

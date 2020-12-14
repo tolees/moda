@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N8X1KK3/?tag=tolees-21'
 descuento: '36.59'
+average: '13.95'
 ---
 
 Está [Umbro Freedom Chaqueta  Hombre  Azul Marino Oscuro  XL](https://www.amazon.es/dp/B01N8X1KK3/?tag=tolees-21) con 36.59 de descuento por 13.95 EUR (original: 22 EUR) en el siguiente enlace!

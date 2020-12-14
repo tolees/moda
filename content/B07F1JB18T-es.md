@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F1JB18T/?tag=tolees-21'
 descuento: '40.67'
+average: '11.86'
 ---
 
 Ahora mismo tienes [PIMKIE Phw18 Meky Denim  Blusa para Mujer  Azul  Jean Brut 681a06  34](https://www.amazon.es/dp/B07F1JB18T/?tag=tolees-21) a 11.86 EUR (original: 19.99 EUR) (40.67 %  de descuento) en el siguiente enlace!

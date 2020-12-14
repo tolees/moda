@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076CKPP1D/?tag=tolees-21'
 descuento: '56.32'
+average: '7.84'
 ---
 
 Ahora mismo tienes [Blend 20706079  Camiseta para Hombre  Amarillo  Yellow Sun   Large  Tamaño del Fabricante:L ](https://www.amazon.es/dp/B076CKPP1D/?tag=tolees-21) a 7.84 EUR (original: 17.95 EUR) (56.32 %  de descuento) en el siguiente enlace!

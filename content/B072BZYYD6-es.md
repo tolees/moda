@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072BZYYD6/?tag=tolees-21'
 descuento: '80.96'
+average: '9.52'
 ---
 
 Tienes [Vila Clothes Vidisa L/s Cowlneck Knit Top  Camiseta Cuello Alto Mujer  Marrón  Tortoise Shell   Small](https://www.amazon.es/dp/B072BZYYD6/?tag=tolees-21) con un 80.96 % de descuento con precio de oferta de 9.52 EUR (original: 49.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DGPXFMZ/?tag=tolees-21'
 descuento: '40.46'
+average: '15.48'
 ---
 
 Está [Under Armour UA Tech Graphic Short Pantalón Corto  Hombre  Rojo  Dark Maroon/Radio Red 600   M](https://www.amazon.es/dp/B07DGPXFMZ/?tag=tolees-21) con 40.46 de descuento por 15.48 EUR (original: 26 EUR) en el siguiente enlace!

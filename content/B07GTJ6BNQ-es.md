@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GTJ6BNQ/?tag=tolees-21'
 descuento: '31.98'
+average: '4.51'
 ---
 
 Está [Gafas de soldadura portátiles de las gafas de las ofertas estupendas con los vidrios de pulido del corte protector de seguridad de la vuelta para arriba](https://www.amazon.es/dp/B07GTJ6BNQ/?tag=tolees-21) con 31.98 de descuento por 4.51 EUR (original: 6.63 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GBKP61R/?tag=tolees-21'
 descuento: '70.54'
+average: '7.95'
 ---
 
 Ahora mismo tienes [Charanga JORENORE  Sudadera para Bebés  Marfil Crudo 10  62  Tamaño del Fabricante:3-6 ](https://www.amazon.es/dp/B07GBKP61R/?tag=tolees-21) a 7.95 EUR (original: 26.99 EUR) (70.54 %  de descuento) en el siguiente enlace!

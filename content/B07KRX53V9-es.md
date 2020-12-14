@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KRX53V9/?tag=tolees-21'
 descuento: '42.09'
+average: '28.95'
 ---
 
 Tienes [Columbia Silver Ridge II Short Pantalón Corto  Nailon  Hombre  Rojo  Mountain Red   Talla US: W34/L6/  EU W44/L6 ](https://www.amazon.es/dp/B07KRX53V9/?tag=tolees-21) con un 42.09 % de descuento con precio de oferta de 28.95 EUR (original: 49.99 EUR) en el siguiente enlace!

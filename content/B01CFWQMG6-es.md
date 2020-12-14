@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01CFWQMG6/?tag=tolees-21'
 descuento: '78.41'
+average: '12.74'
 ---
 
 Está [Pepe Jeans Pixlette Pg200242 Vaqueros  Negro  8Oz Super Str Blk Jegging V98   16 años para Niñas](https://www.amazon.es/dp/B01CFWQMG6/?tag=tolees-21) con 78.41 de descuento por 12.74 EUR (original: 59 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01EWFU1EI/?tag=tolees-21'
 descuento: '44.14'
+average: '78.2'
 ---
 
 Ahora mismo tienes [Pepe Jeans London Melting W Zipper  Botines para Mujer  Marrón  Tobacco 859   40 EU](https://www.amazon.es/dp/B01EWFU1EI/?tag=tolees-21) a 78.2 EUR (original: 140 EUR) (44.14 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B007MAM0XQ/?tag=tolees-21'
 descuento: '60.17'
+average: '11.95'
 ---
 
 Está [Dickies T - Camiseta para hombre  Gris  XL  pack de 3](https://www.amazon.es/dp/B007MAM0XQ/?tag=tolees-21) con 60.17 de descuento por 11.95 EUR (original: 30 EUR) en el siguiente enlace!

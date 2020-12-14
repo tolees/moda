@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01NCMQUX7/?tag=tolees-21'
 descuento: '41.28'
+average: '46.95'
 ---
 
 Ahora mismo tienes [Columbia Triple Canyon Pantalón Largo  Hombre  Gris  Grill  Black   W32/L32](https://www.amazon.es/dp/B01NCMQUX7/?tag=tolees-21) a 46.95 EUR (original: 79.95 EUR) (41.28 %  de descuento) en el siguiente enlace!

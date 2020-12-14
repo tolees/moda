@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DD5V31Q/?tag=tolees-21'
 descuento: '58.40'
+average: '20.78'
 ---
 
 Está [Refresh 64783  Botines para Mujer  Marrón  Camel   41 EU](https://www.amazon.es/dp/B07DD5V31Q/?tag=tolees-21) con 58.40 de descuento por 20.78 EUR (original: 49.95 EUR) en el siguiente enlace!

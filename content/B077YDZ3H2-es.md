@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077YDZ3H2/?tag=tolees-21'
 descuento: '38.32'
+average: '6.92'
 ---
 
 Está [Inside 5SFD13 Camiseta  Mujer  Blanco  Medium  Tamaño del Fabricante:M ](https://www.amazon.es/dp/B077YDZ3H2/?tag=tolees-21) con 38.32 de descuento por 6.92 EUR (original: 11.22 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075SDMKZC/?tag=tolees-21'
 descuento: '69.62'
+average: '9.11'
 ---
 
 Tienes [Springfield Camisa Oxford Stretch Camisa Casual  Hombre  Azul  Blue   Medium  Tamaño del Fabricante:M ](https://www.amazon.es/dp/B075SDMKZC/?tag=tolees-21) con un 69.62 % de descuento con precio de oferta de 9.11 EUR (original: 29.99 EUR) en el siguiente enlace!

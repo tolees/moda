@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01HJ4FG4O/?tag=tolees-21'
 descuento: '79.66'
+average: '10.15'
 ---
 
 Tienes [Crocs Fun Lab Lights Clog Kids  Zuecos Unisex para Niños  Azul  Shark/Navy   19/20 EU](https://www.amazon.es/dp/B01HJ4FG4O/?tag=tolees-21) con un 79.66 % de descuento con precio de oferta de 10.15 EUR (original: 49.9 EUR) en el siguiente enlace!

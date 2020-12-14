@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GTP4KBC/?tag=tolees-21'
 descuento: '84.31'
+average: '15.69'
 ---
 
 Ahora mismo tienes [ESPRIT Collection 118eo1e025 Vestido  Rojo  Bordeaux Red 600   42  Talla del Fabricante: 40  para Mujer](https://www.amazon.es/dp/B07GTP4KBC/?tag=tolees-21) a 15.69 EUR (original: 99.99 EUR) (84.31 %  de descuento) en el siguiente enlace!

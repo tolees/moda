@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D9DZ5VT/?tag=tolees-21'
 descuento: '68.83'
+average: '15.57'
 ---
 
 Tienes [XTI 48454  Botines para Mujer  Gris  Grey   37 EU](https://www.amazon.es/dp/B07D9DZ5VT/?tag=tolees-21) con un 68.83 % de descuento con precio de oferta de 15.57 EUR (original: 49.95 EUR) en el siguiente enlace!

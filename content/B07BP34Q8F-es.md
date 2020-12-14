@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BP34Q8F/?tag=tolees-21'
 descuento: '59.08'
+average: '36.82'
 ---
 
 Está [Gant The Broadcloth Banker Reg BD Camisa  Azul  Capri Blue 468   Small para Hombre](https://www.amazon.es/dp/B07BP34Q8F/?tag=tolees-21) con 59.08 de descuento por 36.82 EUR (original: 89.99 EUR) en el siguiente enlace!

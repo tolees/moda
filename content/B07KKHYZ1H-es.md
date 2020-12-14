@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KKHYZ1H/?tag=tolees-21'
 descuento: '53.03'
+average: '16.44'
 ---
 
 Ahora mismo tienes [Naf Naf Kenu42 Camiseta de Manga Larga  Negro  Noir 625   Large para Mujer](https://www.amazon.es/dp/B07KKHYZ1H/?tag=tolees-21) a 16.44 EUR (original: 35 EUR) (53.03 %  de descuento) en el siguiente enlace!

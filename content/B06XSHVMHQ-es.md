@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XSHVMHQ/?tag=tolees-21'
 descuento: '55.53'
+average: '8.89'
 ---
 
 Tienes [Esprit 067ee1k034  Camiseta sin Mangas Mujer   Light Pink 690   Small](https://www.amazon.es/dp/B06XSHVMHQ/?tag=tolees-21) con un 55.53 % de descuento con precio de oferta de 8.89 EUR (original: 19.99 EUR) en el siguiente enlace!

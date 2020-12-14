@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DG2HCV4/?tag=tolees-21'
 descuento: '42.56'
+average: '11.46'
 ---
 
 Está [Puma Amplified tee Camiseta  Hombre  Verde  Pino Ponderosa   M](https://www.amazon.es/dp/B07DG2HCV4/?tag=tolees-21) con 42.56 de descuento por 11.46 EUR (original: 19.95 EUR) en el siguiente enlace!

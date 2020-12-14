@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0792FKCVX/?tag=tolees-21'
 descuento: '50.00'
+average: '49.95'
 ---
 
 Tienes [Geox D Sukie B  Zapatillas para Mujer   Navy C4002   36 EU](https://www.amazon.es/dp/B0792FKCVX/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 49.95 EUR (original: 99.9 EUR) en el siguiente enlace!

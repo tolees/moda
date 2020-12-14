@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JJ21F2N/?tag=tolees-21'
 descuento: '53.28'
+average: '20.09'
 ---
 
 Tienes [Armani Exchange Pima Round Neck Camiseta  Blanco  White 1100   Medium para Hombre](https://www.amazon.es/dp/B07JJ21F2N/?tag=tolees-21) con un 53.28 % de descuento con precio de oferta de 20.09 EUR (original: 43 EUR) en el siguiente enlace!

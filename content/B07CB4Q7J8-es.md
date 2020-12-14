@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CB4Q7J8/?tag=tolees-21'
 descuento: '44.59'
+average: '19.88'
 ---
 
 Ahora mismo tienes [Mocasines Negros Planos para Mujer Invierno - Zapatos Comodos Plataforma Cuña  Adecuado para Oficina y Uso Diario SH001-BEIGE-38](https://www.amazon.es/dp/B07CB4Q7J8/?tag=tolees-21) a 19.88 EUR (original: 35.88 EUR) (44.59 %  de descuento) en el siguiente enlace!

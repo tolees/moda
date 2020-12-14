@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0733JDPTQ/?tag=tolees-21'
 descuento: '82.20'
+average: '8.89'
 ---
 
 Está [Desires Lola Hybrid Vaqueros Slim  Mujer  Azul  Light Used   WNA/L34  Tamaño del Fabricante:31 ](https://www.amazon.es/dp/B0733JDPTQ/?tag=tolees-21) con 82.20 de descuento por 8.89 EUR (original: 49.95 EUR) en el siguiente enlace!

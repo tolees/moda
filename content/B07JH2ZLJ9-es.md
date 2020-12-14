@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JH2ZLJ9/?tag=tolees-21'
 descuento: '45.84'
+average: '18.93'
 ---
 
 Tienes [PUMA Modern Sports Leggings G Leggins  Mädchen  Black  5  Tamaño del Fabricante: XXS ](https://www.amazon.es/dp/B07JH2ZLJ9/?tag=tolees-21) con un 45.84 % de descuento con precio de oferta de 18.93 EUR (original: 34.95 EUR) en el siguiente enlace!

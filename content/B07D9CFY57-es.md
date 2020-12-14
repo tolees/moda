@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D9CFY57/?tag=tolees-21'
 descuento: '75.44'
+average: '9.81'
 ---
 
 Está [XTI 30953  Zapatos de tacón con Punta Cerrada para Mujer  Gris  Grey   37 EU](https://www.amazon.es/dp/B07D9CFY57/?tag=tolees-21) con 75.44 de descuento por 9.81 EUR (original: 39.95 EUR) en el siguiente enlace!

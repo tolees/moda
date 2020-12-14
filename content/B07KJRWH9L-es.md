@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KJRWH9L/?tag=tolees-21'
 descuento: '76.65'
+average: '20.78'
 ---
 
 Está [REPLAY M4953p.000.71670 Camisa   White/Lt Blue Microflowers 10   Small para Hombre](https://www.amazon.es/dp/B07KJRWH9L/?tag=tolees-21) con 76.65 de descuento por 20.78 EUR (original: 89 EUR) en el siguiente enlace!

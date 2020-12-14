@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01DWF2LB0/?tag=tolees-21'
 descuento: '66.73'
+average: '19.96'
 ---
 
 Tienes [ONLY onlKATE SHORT CANVAS PARKA OTW  Chaqueta Mujer  Azul  Blue Graphite   34  Talla del fabricante: X-Small ](https://www.amazon.es/dp/B01DWF2LB0/?tag=tolees-21) con un 66.73 % de descuento con precio de oferta de 19.96 EUR (original: 59.99 EUR) en el siguiente enlace!

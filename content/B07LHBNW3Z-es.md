@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07LHBNW3Z/?tag=tolees-21'
 descuento: '38.50'
+average: '18.45'
 ---
 
 Está [The North Face Reaxion Amp Camiseta de Cuello Redondo  Hombre  Rojo  TNF Red Heather   M](https://www.amazon.es/dp/B07LHBNW3Z/?tag=tolees-21) con 38.50 de descuento por 18.45 EUR (original: 30 EUR) en el siguiente enlace!

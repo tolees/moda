@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GF51V3R/?tag=tolees-21'
 descuento: '46.77'
+average: '15.5'
 ---
 
 Está [New Look Wide Foot Deena  Botines para Mujer  Beige  Tan 18   38 EU](https://www.amazon.es/dp/B07GF51V3R/?tag=tolees-21) con 46.77 de descuento por 15.5 EUR (original: 29.12 EUR) en el siguiente enlace!

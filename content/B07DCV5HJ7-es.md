@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DCV5HJ7/?tag=tolees-21'
 descuento: '68.66'
+average: '9.4'
 ---
 
 Está [JACK & JONES Jornevada Sweat Crew Neck  Sudadera para Hombre  Azul  Total Eclipse Fit:Slim  Medium](https://www.amazon.es/dp/B07DCV5HJ7/?tag=tolees-21) con 68.66 de descuento por 9.4 EUR (original: 29.99 EUR) en el siguiente enlace!

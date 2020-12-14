@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BR1PM7Z/?tag=tolees-21'
 descuento: '28.88'
+average: '49.75'
 ---
 
 Tienes [Skechers Delson-Antigo  Zapatos de Cordones Oxford para Hombre  Negro Black  45 EU](https://www.amazon.es/dp/B07BR1PM7Z/?tag=tolees-21) con un 28.88 % de descuento con precio de oferta de 49.75 EUR (original: 69.95 EUR) en el siguiente enlace!

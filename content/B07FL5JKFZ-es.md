@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FL5JKFZ/?tag=tolees-21'
 descuento: '25.08'
+average: '29.88'
 ---
 
 Tienes [Hombre Zapatillas Deporte Zapatos para Correr Athletic Cordones Running Sports Sneakers Negro Blanco Rojo Gris Marrón Brown 38 EU](https://www.amazon.es/dp/B07FL5JKFZ/?tag=tolees-21) con un 25.08 % de descuento con precio de oferta de 29.88 EUR (original: 39.88 EUR) en el siguiente enlace!

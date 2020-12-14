@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075TFCCW1/?tag=tolees-21'
 descuento: '61.92'
+average: '22.83'
 ---
 
 Está [Trucco - Vestido casual para mujer  color azul oscuro  talla 42](https://www.amazon.es/dp/B075TFCCW1/?tag=tolees-21) con 61.92 de descuento por 22.83 EUR (original: 59.95 EUR) en el siguiente enlace!

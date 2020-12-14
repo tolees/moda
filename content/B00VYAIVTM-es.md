@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00VYAIVTM/?tag=tolees-21'
 descuento: '69.64'
+average: '24.59'
 ---
 
 Tienes [Ultrasport Salt and Pepper Chaqueta Softshell  Hombre  Gris/Azul  XL](https://www.amazon.es/dp/B00VYAIVTM/?tag=tolees-21) con un 69.64 % de descuento con precio de oferta de 24.59 EUR (original: 80.99 EUR) en el siguiente enlace!

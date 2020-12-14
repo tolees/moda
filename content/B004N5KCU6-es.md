@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B004N5KCU6/?tag=tolees-21'
 descuento: '52.20'
+average: '14.34'
 ---
 
 Tienes [Dickies - Camiseta de running para hombre  Multicolor  Assorted Colour   Small  Talla del fabricante: Small ](https://www.amazon.es/dp/B004N5KCU6/?tag=tolees-21) con un 52.20 % de descuento con precio de oferta de 14.34 EUR (original: 30 EUR) en el siguiente enlace!

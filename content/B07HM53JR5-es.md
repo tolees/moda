@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HM53JR5/?tag=tolees-21'
 descuento: '30.01'
+average: '18.19'
 ---
 
 Ahora mismo tienes [XAED - Camiseta térmica de esquí para mujer  gris/azul claro  mediana ](https://www.amazon.es/dp/B07HM53JR5/?tag=tolees-21) a 18.19 EUR (original: 25.99 EUR) (30.01 %  de descuento) en el siguiente enlace!

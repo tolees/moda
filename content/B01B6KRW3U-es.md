@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01B6KRW3U/?tag=tolees-21'
 descuento: '62.74'
+average: '24.22'
 ---
 
 Está [Puma Speed 600 Ignite Wn  Zapatilla para Mujer  Rojo  Red Blast-Royal Blue-White 05   38 EU](https://www.amazon.es/dp/B01B6KRW3U/?tag=tolees-21) con 62.74 de descuento por 24.22 EUR (original: 65 EUR) en el siguiente enlace!

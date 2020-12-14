@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XTGV174/?tag=tolees-21'
 descuento: '69.97'
+average: '18.02'
 ---
 
 Tienes [Pepe Jeans Danna PL302174  Blusa para Mujer  Marfil  Candle 806  Medium](https://www.amazon.es/dp/B06XTGV174/?tag=tolees-21) con un 69.97 % de descuento con precio de oferta de 18.02 EUR (original: 60 EUR) en el siguiente enlace!

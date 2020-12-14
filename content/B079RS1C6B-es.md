@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079RS1C6B/?tag=tolees-21'
 descuento: '34.55'
+average: '19.57'
 ---
 
 Ahora mismo tienes [Pepe Jeans Groot PM505962 Camiseta  Azul  Chatham Blue 586   Medium para Hombre](https://www.amazon.es/dp/B079RS1C6B/?tag=tolees-21) a 19.57 EUR (original: 29.9 EUR) (34.55 %  de descuento) en el siguiente enlace!

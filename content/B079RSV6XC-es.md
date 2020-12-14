@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079RSV6XC/?tag=tolees-21'
 descuento: '63.35'
+average: '32.95'
 ---
 
 Está [Pepe Jeans Margot JR  Chaqueta para Niñas  Rosa  Dusty Pink 372   6 años](https://www.amazon.es/dp/B079RSV6XC/?tag=tolees-21) con 63.35 de descuento por 32.95 EUR (original: 89.9 EUR) en el siguiente enlace!

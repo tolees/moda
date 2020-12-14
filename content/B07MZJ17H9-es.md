@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MZJ17H9/?tag=tolees-21'
 descuento: '47.52'
+average: '52.45'
 ---
 
 Tienes [Superdry Crop Makai Jacket Abrigo  Azul  Super Dark Navy JVH   S tamaño Fabricante 10  para Mujer](https://www.amazon.es/dp/B07MZJ17H9/?tag=tolees-21) con un 47.52 % de descuento con precio de oferta de 52.45 EUR (original: 99.95 EUR) en el siguiente enlace!

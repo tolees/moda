@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XT5X4QQ/?tag=tolees-21'
 descuento: '30.02'
+average: '12.59'
 ---
 
 Tienes [Iris & Lilly Sujetador Reductor con Aros para Mujer  Blanco  White   90D  Talla del fabricante: 34D ](https://www.amazon.es/dp/B06XT5X4QQ/?tag=tolees-21) con un 30.02 % de descuento con precio de oferta de 12.59 EUR (original: 17.99 EUR) en el siguiente enlace!

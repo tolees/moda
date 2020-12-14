@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073RJK6JX/?tag=tolees-21'
 descuento: '51.03'
+average: '9.79'
 ---
 
 Está [Only Onlprince S/s Habit/Victorious Box ESS  Camiseta para Mujer  Blanco  Cloud Dancer Print:Victorious/Black Lace   38  Talla del Fabricante: Medium ](https://www.amazon.es/dp/B073RJK6JX/?tag=tolees-21) con 51.03 de descuento por 9.79 EUR (original: 19.99 EUR) en el siguiente enlace!

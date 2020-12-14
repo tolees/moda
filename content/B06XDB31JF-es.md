@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XDB31JF/?tag=tolees-21'
 descuento: '71.79'
+average: '86.89'
 ---
 
 Está [Gucci gafas de sol GG0064SK AVANA-AVANA-BLUE  55](https://www.amazon.es/dp/B06XDB31JF/?tag=tolees-21) con 71.79 de descuento por 86.89 EUR (original: 308 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CL75WGC/?tag=tolees-21'
 descuento: '83.49'
+average: '22.95'
 ---
 
 Está [REPLAY Luz Coin Zip  Vaqueros Skinny Mujer  Rojo  Charcoal 40   W26/L32](https://www.amazon.es/dp/B07CL75WGC/?tag=tolees-21) con 83.49 de descuento por 22.95 EUR (original: 139 EUR) en el siguiente enlace!

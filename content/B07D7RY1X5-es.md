@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D7RY1X5/?tag=tolees-21'
 descuento: '71.55'
+average: '19.63'
 ---
 
 Ahora mismo tienes [Diesel 00SJ2Y  Camiseta para Hombre   Negro 900   X-Small  Tamaño del Fabricante:XS ](https://www.amazon.es/dp/B07D7RY1X5/?tag=tolees-21) a 19.63 EUR (original: 69 EUR) (71.55 %  de descuento) en el siguiente enlace!

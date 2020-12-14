@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DWGPY67/?tag=tolees-21'
 descuento: '62.54'
+average: '13.11'
 ---
 
 Ahora mismo tienes [Under Armour Sportstyle Cotton Graphic Short Pantalón Corto  Hombre  Dark Maroon/Black  L](https://www.amazon.es/dp/B07DWGPY67/?tag=tolees-21) a 13.11 EUR (original: 35 EUR) (62.54 %  de descuento) en el siguiente enlace!

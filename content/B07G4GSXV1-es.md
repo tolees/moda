@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07G4GSXV1/?tag=tolees-21'
 descuento: '66.53'
+average: '30.11'
 ---
 
 Tienes [HUGO Dewayne  Sudadera Hombre  Blanco  White 100   X-Large](https://www.amazon.es/dp/B07G4GSXV1/?tag=tolees-21) con un 66.53 % de descuento con precio de oferta de 30.11 EUR (original: 89.95 EUR) en el siguiente enlace!

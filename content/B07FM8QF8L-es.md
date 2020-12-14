@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FM8QF8L/?tag=tolees-21'
 descuento: '25.00'
+average: '39.14'
 ---
 
 Ahora mismo tienes [Eono Essentials - Chaqueta para mujer 3 en 1 con capucha fija  rojo oscuro  S |Chaqueta impermeable mujer](https://www.amazon.es/dp/B07FM8QF8L/?tag=tolees-21) a 39.14 EUR (original: 52.19 EUR) (25.00 %  de descuento) en el siguiente enlace!

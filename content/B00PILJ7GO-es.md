@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00PILJ7GO/?tag=tolees-21'
 descuento: '78.84'
+average: '14.6'
 ---
 
 Está [Solo Capri - Abito Scampanato  Pack  Vestido Mujer  Blanco  S](https://www.amazon.es/dp/B00PILJ7GO/?tag=tolees-21) con 78.84 de descuento por 14.6 EUR (original: 69 EUR) en el siguiente enlace!

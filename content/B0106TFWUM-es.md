@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0106TFWUM/?tag=tolees-21'
 descuento: '39.78'
+average: '13.61'
 ---
 
 Está [Fruit of the Loom Ss126m  Sudadera para Hombre  Negro  Medium](https://www.amazon.es/dp/B0106TFWUM/?tag=tolees-21) con 39.78 de descuento por 13.61 EUR (original: 22.6 EUR) en el siguiente enlace!

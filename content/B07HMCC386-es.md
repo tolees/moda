@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HMCC386/?tag=tolees-21'
 descuento: '54.59'
+average: '19.52'
 ---
 
 Tienes [Mayoral 4818-56-2 Chaqueta Deportiva  Niñas  Negro  Negro 56   2 años  Tamaño del Fabricante:2 ](https://www.amazon.es/dp/B07HMCC386/?tag=tolees-21) con un 54.59 % de descuento con precio de oferta de 19.52 EUR (original: 42.99 EUR) en el siguiente enlace!

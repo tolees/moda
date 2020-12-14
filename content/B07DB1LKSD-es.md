@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DB1LKSD/?tag=tolees-21'
 descuento: '72.38'
+average: '19.32'
 ---
 
 Ahora mismo tienes [Mustang Schnür-Stiefelette  Botines para Mujer  Marrón  Kastanie 301   37 EU](https://www.amazon.es/dp/B07DB1LKSD/?tag=tolees-21) a 19.32 EUR (original: 69.95 EUR) (72.38 %  de descuento) en el siguiente enlace!

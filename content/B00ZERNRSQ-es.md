@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00ZERNRSQ/?tag=tolees-21'
 descuento: '66.01'
+average: '33.65'
 ---
 
 Tienes [Superga 2790-suew  Sandalias con Plataforma para Mujer  Negro  Grey Stone F28   37 EU](https://www.amazon.es/dp/B00ZERNRSQ/?tag=tolees-21) con un 66.01 % de descuento con precio de oferta de 33.65 EUR (original: 99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07G9TRHRX/?tag=tolees-21'
 descuento: '60.00'
+average: '6.38'
 ---
 
 Está [Tuc Tuc Prenda Volantes Kitties  Camiseta para Niñas   Blanco 05   5 años  Tamaño del Fabricante:5A ](https://www.amazon.es/dp/B07G9TRHRX/?tag=tolees-21) con 60.00 de descuento por 6.38 EUR (original: 15.95 EUR) en el siguiente enlace!

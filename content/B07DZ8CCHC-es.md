@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DZ8CCHC/?tag=tolees-21'
 descuento: '46.54'
+average: '96.22'
 ---
 
 Tienes [Columbia Chaqueta con Capucha para Mujer  Windgates Hooded Insulated Jacket  Azul  Astral Heather   Talla S](https://www.amazon.es/dp/B07DZ8CCHC/?tag=tolees-21) con un 46.54 % de descuento con precio de oferta de 96.22 EUR (original: 179.99 EUR) en el siguiente enlace!

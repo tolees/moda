@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F15XMCQ/?tag=tolees-21'
 descuento: '69.25'
+average: '30.75'
 ---
 
 Está [BILLABONG Essential Jkt Chaqueta  Mujer  Rosa  Nude 4443   X-Small  Tamaño del Fabricante:XS ](https://www.amazon.es/dp/B07F15XMCQ/?tag=tolees-21) con 69.25 de descuento por 30.75 EUR (original: 100 EUR) en el siguiente enlace!

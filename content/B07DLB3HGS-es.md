@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DLB3HGS/?tag=tolees-21'
 descuento: '51.50'
+average: '11.15'
 ---
 
 Está [Springfield 4.2.T.Ap.Daily. Falso Tricot Joya Camiseta de Manga Larga  Mujer  Azul  Azul Marino 10   Small  Tamaño del Fabricante:S ](https://www.amazon.es/dp/B07DLB3HGS/?tag=tolees-21) con 51.50 de descuento por 11.15 EUR (original: 22.99 EUR) en el siguiente enlace!

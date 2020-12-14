@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KYZFKFS/?tag=tolees-21'
 descuento: '44.57'
+average: '7.2'
 ---
 
 Está [Springfield 5.T.Ap.Pv19.Panadera FK Blusa   Varios 98   Medium  Tamaño del Fabricante:M  para Mujer](https://www.amazon.es/dp/B07KYZFKFS/?tag=tolees-21) con 44.57 de descuento por 7.2 EUR (original: 12.99 EUR) en el siguiente enlace!

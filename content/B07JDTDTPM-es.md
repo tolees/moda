@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JDTDTPM/?tag=tolees-21'
 descuento: '34.83'
+average: '71.03'
 ---
 
 Está [Lacoste Ch4872 Camisa  Rojo  Salvia/Encrier 98v   X-Large  Talla del Fabricante: 43  para Hombre](https://www.amazon.es/dp/B07JDTDTPM/?tag=tolees-21) con 34.83 de descuento por 71.03 EUR (original: 109 EUR) en el siguiente enlace!

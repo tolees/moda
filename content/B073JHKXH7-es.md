@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073JHKXH7/?tag=tolees-21'
 descuento: '68.17'
+average: '12.73'
 ---
 
 Ahora mismo tienes [Cortefiel C5BCB Oxford Liso TBD  Camisa Casual para Hombre  Blanco  White   S  Tamaño del fabricante:S ](https://www.amazon.es/dp/B073JHKXH7/?tag=tolees-21) a 12.73 EUR (original: 39.99 EUR) (68.17 %  de descuento) en el siguiente enlace!

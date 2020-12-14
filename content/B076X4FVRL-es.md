@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076X4FVRL/?tag=tolees-21'
 descuento: '65.00'
+average: '34.98'
 ---
 
 Ahora mismo tienes [G-STAR RAW 3301 Deconst Low Skinny Wmn  Vaqueros Mujer  Azul  Dk Aged 89   W30/L32](https://www.amazon.es/dp/B076X4FVRL/?tag=tolees-21) a 34.98 EUR (original: 99.95 EUR) (65.00 %  de descuento) en el siguiente enlace!

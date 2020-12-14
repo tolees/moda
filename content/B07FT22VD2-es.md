@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FT22VD2/?tag=tolees-21'
 descuento: '61.16'
+average: '9.71'
 ---
 
 Está [Lee Logo tee  Camiseta para Mujer  Rojo  Bright Red EF  Small](https://www.amazon.es/dp/B07FT22VD2/?tag=tolees-21) con 61.16 de descuento por 9.71 EUR (original: 25 EUR) en el siguiente enlace!

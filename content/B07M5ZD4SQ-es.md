@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07M5ZD4SQ/?tag=tolees-21'
 descuento: '73.75'
+average: '31.49'
 ---
 
 Está [G-STAR RAW 3301 Deconstructed Skinny Vaqueros  Negro  New Medium Aged Destroy 9136-A485   32W / 34L para Hombre](https://www.amazon.es/dp/B07M5ZD4SQ/?tag=tolees-21) con 73.75 de descuento por 31.49 EUR (original: 119.95 EUR) en el siguiente enlace!

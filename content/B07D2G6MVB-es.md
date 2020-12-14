@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D2G6MVB/?tag=tolees-21'
 descuento: '40.60'
+average: '59.4'
 ---
 
 Tienes [Levi s 6353 Original Fit Vaqueros  Gris  Mlk Warp 2649   33W / 32L para Hombre](https://www.amazon.es/dp/B07D2G6MVB/?tag=tolees-21) con un 40.60 % de descuento con precio de oferta de 59.4 EUR (original: 100 EUR) en el siguiente enlace!

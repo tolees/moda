@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MZ0HMKL/?tag=tolees-21'
 descuento: '67.64'
+average: '16.15'
 ---
 
 Está [Break and Walk HV217321  Sandalias con Correa de Tobillo para Mujer   Beig   40 EU](https://www.amazon.es/dp/B01MZ0HMKL/?tag=tolees-21) con 67.64 de descuento por 16.15 EUR (original: 49.9 EUR) en el siguiente enlace!

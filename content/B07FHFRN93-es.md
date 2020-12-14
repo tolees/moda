@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FHFRN93/?tag=tolees-21'
 descuento: '86.74'
+average: '2.65'
 ---
 
 Está [PIECES Pcminna 3/4 Lurex Top Noos Camisa Manga Larga  Rojo Detail:Lurex Winetasting  40  Talla del Fabricante: Medium  para Mujer](https://www.amazon.es/dp/B07FHFRN93/?tag=tolees-21) con 86.74 de descuento por 2.65 EUR (original: 19.99 EUR) en el siguiente enlace!

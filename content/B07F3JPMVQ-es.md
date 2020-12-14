@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F3JPMVQ/?tag=tolees-21'
 descuento: '77.50'
+average: '20.23'
 ---
 
 Está [Stonefly Stella 3 Velour  Zapatos de Cordones Derby para Mujer  Gris  Magnet Gray 08W   36 EU](https://www.amazon.es/dp/B07F3JPMVQ/?tag=tolees-21) con 77.50 de descuento por 20.23 EUR (original: 89.9 EUR) en el siguiente enlace!

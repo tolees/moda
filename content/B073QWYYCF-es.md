@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073QWYYCF/?tag=tolees-21'
 descuento: '71.33'
+average: '28.67'
 ---
 
 Está [Levi s 501 Vaqueros Tapered  Azul  Noten 45   W28/L34 para Hombre](https://www.amazon.es/dp/B073QWYYCF/?tag=tolees-21) con 71.33 de descuento por 28.67 EUR (original: 100 EUR) en el siguiente enlace!

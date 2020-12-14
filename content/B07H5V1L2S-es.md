@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07H5V1L2S/?tag=tolees-21'
 descuento: '81.10'
+average: '30.23'
 ---
 
 Tienes [G-STAR RAW 5620 Elwood Custom Mid Waist Skinny Vaqueros  Azul  dk Aged 6131-89   28W / 34L para Mujer](https://www.amazon.es/dp/B07H5V1L2S/?tag=tolees-21) con un 81.10 % de descuento con precio de oferta de 30.23 EUR (original: 159.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DCK9JW5/?tag=tolees-21'
 descuento: '49.90'
+average: '224.95'
 ---
 
 Tienes [BOSS Ohire  Parka para Mujer  Negro  Black 001  42  Talla del Fabricante: 40 ](https://www.amazon.es/dp/B07DCK9JW5/?tag=tolees-21) con un 49.90 % de descuento con precio de oferta de 224.95 EUR (original: 449 EUR) en el siguiente enlace!

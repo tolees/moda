@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071LJR3NM/?tag=tolees-21'
 descuento: '62.53'
+average: '14.95'
 ---
 
 Ahora mismo tienes [L. Bo Apparel - Camisa Formal - Clásico - Manga Larga - para Hombre Azul XX-Large](https://www.amazon.es/dp/B071LJR3NM/?tag=tolees-21) a 14.95 EUR (original: 39.9 EUR) (62.53 %  de descuento) en el siguiente enlace!

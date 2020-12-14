@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KSQ6H3V/?tag=tolees-21'
 descuento: '53.70'
+average: '16.2'
 ---
 
 Está [Columbia Mujer Camiseta  Firwood Camp Tee  Poliéster  Violeta  Antique Mauve   Talla: M  1840491](https://www.amazon.es/dp/B07KSQ6H3V/?tag=tolees-21) con 53.70 de descuento por 16.2 EUR (original: 34.99 EUR) en el siguiente enlace!

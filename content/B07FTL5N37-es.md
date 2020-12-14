@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FTL5N37/?tag=tolees-21'
 descuento: '79.02'
+average: '20.97'
 ---
 
 Está [Lee Scarlett  Vaqueros skinny para MujerAzul  Dark Eve Wan ](https://www.amazon.es/dp/B07FTL5N37/?tag=tolees-21) con 79.02 de descuento por 20.97 EUR (original: 99.95 EUR) en el siguiente enlace!

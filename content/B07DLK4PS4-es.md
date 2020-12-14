@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DLK4PS4/?tag=tolees-21'
 descuento: '81.69'
+average: '16.48'
 ---
 
 Tienes [Springfield INT. Real Down 3/4 Abrigo  Negro 1   Tamaño del Fabricante:38  para Mujer](https://www.amazon.es/dp/B07DLK4PS4/?tag=tolees-21) con un 81.69 % de descuento con precio de oferta de 16.48 EUR (original: 89.99 EUR) en el siguiente enlace!

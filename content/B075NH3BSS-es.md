@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075NH3BSS/?tag=tolees-21'
 descuento: '77.29'
+average: '9.08'
 ---
 
 Tienes [Tom Tailor Trendy Cosy Sweatshirt  Sudadera para Mujer  Azul  Real Navy Blue 6593   36  Talla del Fabricante: Small ](https://www.amazon.es/dp/B075NH3BSS/?tag=tolees-21) con un 77.29 % de descuento con precio de oferta de 9.08 EUR (original: 39.99 EUR) en el siguiente enlace!

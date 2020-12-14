@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FSDVSKX/?tag=tolees-21'
 descuento: '76.90'
+average: '23.09'
 ---
 
 Está [Clarks Funny Dream  Zapatos de Cordones Derby para Mujer  Rojo  Raspberry   35.5](https://www.amazon.es/dp/B07FSDVSKX/?tag=tolees-21) con 76.90 de descuento por 23.09 EUR (original: 99.95 EUR) en el siguiente enlace!

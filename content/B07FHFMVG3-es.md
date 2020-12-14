@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FHFMVG3/?tag=tolees-21'
 descuento: '56.76'
+average: '73.5'
 ---
 
 Está [SELECTED HOMME Slhbrove Wool Coat B Noos  Abrigo Hombre  Negro  Black Detail:Twill   Large](https://www.amazon.es/dp/B07FHFMVG3/?tag=tolees-21) con 56.76 de descuento por 73.5 EUR (original: 169.99 EUR) en el siguiente enlace!

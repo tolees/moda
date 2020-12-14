@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0757Z8VPF/?tag=tolees-21'
 descuento: '48.09'
+average: '17.65'
 ---
 
 Tienes [FIND Pantalón Vaquero Skinny Hombre  Azul  Blue Black   W31/L30](https://www.amazon.es/dp/B0757Z8VPF/?tag=tolees-21) con un 48.09 % de descuento con precio de oferta de 17.65 EUR (original: 34 EUR) en el siguiente enlace!

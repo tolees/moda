@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01K99M0YU/?tag=tolees-21'
 descuento: '63.27'
+average: '44.07'
 ---
 
 Está [Tommy Hilfiger TH 1449/S NR Gafas de Sol  Black Grey  54 Unisex-Adulto](https://www.amazon.es/dp/B01K99M0YU/?tag=tolees-21) con 63.27 de descuento por 44.07 EUR (original: 120 EUR) en el siguiente enlace!

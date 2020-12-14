@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DQT2BCV/?tag=tolees-21'
 descuento: '42.00'
+average: '17.4'
 ---
 
 Tienes [Volcom Pinline Stone HTH SS Camiseta  Hombre  Negro  Heather Black   M](https://www.amazon.es/dp/B07DQT2BCV/?tag=tolees-21) con un 42.00 % de descuento con precio de oferta de 17.4 EUR (original: 30 EUR) en el siguiente enlace!

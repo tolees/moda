@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DRJC6Q9/?tag=tolees-21'
 descuento: '40.00'
+average: '83.4'
 ---
 
 Está [Kipling TEAGAN S Organizador de bolso  54 cm  39 liters  Multicolor  Scribble lines ](https://www.amazon.es/dp/B07DRJC6Q9/?tag=tolees-21) con 40.00 de descuento por 83.4 EUR (original: 139 EUR) en el siguiente enlace!

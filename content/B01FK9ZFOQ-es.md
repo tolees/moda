@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01FK9ZFOQ/?tag=tolees-21'
 descuento: '75.24'
+average: '2.6'
 ---
 
 Está [oodji Ultra Mujer Bragas Bikini Estampado Veraniego  Morado  ES 36 / XS](https://www.amazon.es/dp/B01FK9ZFOQ/?tag=tolees-21) con 75.24 de descuento por 2.6 EUR (original: 10.5 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KXVT91B/?tag=tolees-21'
 descuento: '86.93'
+average: '9.15'
 ---
 
 Ahora mismo tienes [Mexx Falda   Plisee Printed 318187   40  Talla del Fabricante: 38  para Mujer](https://www.amazon.es/dp/B07KXVT91B/?tag=tolees-21) a 9.15 EUR (original: 70 EUR) (86.93 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0736WVNXL/?tag=tolees-21'
 descuento: '47.91'
+average: '26.04'
 ---
 
 Está [VERO MODA Vmtrack Expedition 3/4  Parka para Mujer  Verde  Dark Olive Dark Olive   34  Talla del fabricante: X-Small ](https://www.amazon.es/dp/B0736WVNXL/?tag=tolees-21) con 47.91 de descuento por 26.04 EUR (original: 49.99 EUR) en el siguiente enlace!

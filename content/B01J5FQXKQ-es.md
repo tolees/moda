@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01J5FQXKQ/?tag=tolees-21'
 descuento: '64.10'
+average: '4.2'
 ---
 
 Tienes [oodji Ultra Hombre Camiseta con Estampado  Blanco  ES 52-54 / L](https://www.amazon.es/dp/B01J5FQXKQ/?tag=tolees-21) con un 64.10 % de descuento con precio de oferta de 4.2 EUR (original: 11.7 EUR) en el siguiente enlace!

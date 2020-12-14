@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01FU9MIZA/?tag=tolees-21'
 descuento: '83.95'
+average: '39.97'
 ---
 
 Está [Liebeskind Berlin LS0120 Grain  Botines para Mujer  Gris  36 EU](https://www.amazon.es/dp/B01FU9MIZA/?tag=tolees-21) con 83.95 de descuento por 39.97 EUR (original: 249 EUR) en el siguiente enlace!

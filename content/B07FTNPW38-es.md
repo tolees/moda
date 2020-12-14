@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FTNPW38/?tag=tolees-21'
 descuento: '72.73'
+average: '27.26'
 ---
 
 Tienes [Lee Rider  Vaqueros Slim para Hombre  Azul  Buddy Blue Ui   W33/L30](https://www.amazon.es/dp/B07FTNPW38/?tag=tolees-21) con un 72.73 % de descuento con precio de oferta de 27.26 EUR (original: 99.95 EUR) en el siguiente enlace!

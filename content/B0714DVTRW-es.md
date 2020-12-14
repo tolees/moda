@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0714DVTRW/?tag=tolees-21'
 descuento: '57.74'
+average: '38.01'
 ---
 
 Tienes [Wrangler Ton  Vaqueros Straight para Hombre  Azul  Stoned 8j   W31/L34](https://www.amazon.es/dp/B0714DVTRW/?tag=tolees-21) con un 57.74 % de descuento con precio de oferta de 38.01 EUR (original: 89.95 EUR) en el siguiente enlace!

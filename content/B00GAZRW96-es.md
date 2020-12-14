@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00GAZRW96/?tag=tolees-21'
 descuento: '56.23'
+average: '26.26'
 ---
 
 Tienes [Pepe Jeans PM540411 - Vaqueros  con Manga Corta  con Cuello Redondo para Hombre  Color Blanco  Talla L](https://www.amazon.es/dp/B00GAZRW96/?tag=tolees-21) con un 56.23 % de descuento con precio de oferta de 26.26 EUR (original: 60 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06WWJ7D7V/?tag=tolees-21'
 descuento: '63.31'
+average: '14.31'
 ---
 
 Ahora mismo tienes [Guess U77G43  Bóxer para Hombre  F017  XX-Large  Tamaño del Fabricante:XXL ](https://www.amazon.es/dp/B06WWJ7D7V/?tag=tolees-21) a 14.31 EUR (original: 39 EUR) (63.31 %  de descuento) en el siguiente enlace!

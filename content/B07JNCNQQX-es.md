@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JNCNQQX/?tag=tolees-21'
 descuento: '31.65'
+average: '17.77'
 ---
 
 Está [Lacoste Ramm211 Bóxer  Azul  Mood Indigo 405   Medium para Hombre](https://www.amazon.es/dp/B07JNCNQQX/?tag=tolees-21) con 31.65 de descuento por 17.77 EUR (original: 26 EUR) en el siguiente enlace!

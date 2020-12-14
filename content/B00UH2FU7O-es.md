@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00UH2FU7O/?tag=tolees-21'
 descuento: '50.00'
+average: '45'
 ---
 
 Tienes [Timberland Seabury Classic 2 Eye  Náuticos Unisex Niños  Marrón  Dark Brown 8a2   40 EU](https://www.amazon.es/dp/B00UH2FU7O/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 45 EUR (original: 90 EUR) en el siguiente enlace!

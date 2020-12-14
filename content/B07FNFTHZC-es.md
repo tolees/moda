@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FNFTHZC/?tag=tolees-21'
 descuento: '64.20'
+average: '25.04'
 ---
 
 Está [Clarks Scape Street K  Zapatos de Cordones Brogue para Niños  Negro  Black Leather-   32 EU](https://www.amazon.es/dp/B07FNFTHZC/?tag=tolees-21) con 64.20 de descuento por 25.04 EUR (original: 69.95 EUR) en el siguiente enlace!

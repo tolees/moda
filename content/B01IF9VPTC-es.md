@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01IF9VPTC/?tag=tolees-21'
 descuento: '42.43'
+average: '40.3'
 ---
 
 Está [The North Face M Glacier Delta 1/4 Zip Jersey  Hombre  Negro  Tnf Black   L](https://www.amazon.es/dp/B01IF9VPTC/?tag=tolees-21) con 42.43 de descuento por 40.3 EUR (original: 70 EUR) en el siguiente enlace!

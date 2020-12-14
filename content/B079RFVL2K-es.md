@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079RFVL2K/?tag=tolees-21'
 descuento: '63.59'
+average: '32.73'
 ---
 
 Tienes [Pepe Jeans London Hyke W Camu  Botines para Mujer  Negro  Black 999   37 EU](https://www.amazon.es/dp/B079RFVL2K/?tag=tolees-21) con un 63.59 % de descuento con precio de oferta de 32.73 EUR (original: 89.9 EUR) en el siguiente enlace!

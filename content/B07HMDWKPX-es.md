@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HMDWKPX/?tag=tolees-21'
 descuento: '30.01'
+average: '14.69'
 ---
 
 Está [XAED - Pantalón corto de fitness para mujer  negro/fucsia  mediano ](https://www.amazon.es/dp/B07HMDWKPX/?tag=tolees-21) con 30.01 de descuento por 14.69 EUR (original: 20.99 EUR) en el siguiente enlace!

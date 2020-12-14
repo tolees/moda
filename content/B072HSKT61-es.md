@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072HSKT61/?tag=tolees-21'
 descuento: '71.83'
+average: '32.4'
 ---
 
 Está [Tommy Jeans Hombre Text Cn Sweater 32 sudadera Manga Larga Normal Azul  Black Iris 002  X-Large](https://www.amazon.es/dp/B072HSKT61/?tag=tolees-21) con 71.83 de descuento por 32.4 EUR (original: 115 EUR) en el siguiente enlace!

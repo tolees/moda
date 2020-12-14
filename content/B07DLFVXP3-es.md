@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DLFVXP3/?tag=tolees-21'
 descuento: '38.51'
+average: '15.98'
 ---
 
 Está [Springfield 5Ba Turtle Gg12 Cotton  Jersey para Hombre   Gama Grises 43   Large  Tamaño del Fabricante:L ](https://www.amazon.es/dp/B07DLFVXP3/?tag=tolees-21) con 38.51 de descuento por 15.98 EUR (original: 25.99 EUR) en el siguiente enlace!

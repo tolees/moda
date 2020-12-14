@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079K9Q9XG/?tag=tolees-21'
 descuento: '84.92'
+average: '13.56'
 ---
 
 Está [Lee Elly  Vaqueros Slim  Mujer  Negro  Black Rinse 47   W26/L33](https://www.amazon.es/dp/B079K9Q9XG/?tag=tolees-21) con 84.92 de descuento por 13.56 EUR (original: 89.95 EUR) en el siguiente enlace!

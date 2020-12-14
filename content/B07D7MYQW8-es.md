@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D7MYQW8/?tag=tolees-21'
 descuento: '61.95'
+average: '31.2'
 ---
 
 Está [Guess M83q05k7cl0  Sudadera para Hombre  Gris  Garage Grey C.D. F9U4  X-Large](https://www.amazon.es/dp/B07D7MYQW8/?tag=tolees-21) con 61.95 de descuento por 31.2 EUR (original: 82 EUR) en el siguiente enlace!

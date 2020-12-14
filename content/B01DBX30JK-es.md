@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01DBX30JK/?tag=tolees-21'
 descuento: '50.98'
+average: '100.01'
 ---
 
 Está [Michael Kors Abela III  Gafas de sol Unisex-Adulto  Black/White 312911 55](https://www.amazon.es/dp/B01DBX30JK/?tag=tolees-21) con 50.98 de descuento por 100.01 EUR (original: 204 EUR) en el siguiente enlace!

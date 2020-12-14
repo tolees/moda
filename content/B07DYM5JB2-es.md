@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DYM5JB2/?tag=tolees-21'
 descuento: '50.23'
+average: '9.95'
 ---
 
 Ahora mismo tienes [Roxy Tahiti Vi  Zapatos de Playa y Piscina para Mujer  Azul  Navy/Blue/White Nav   38 EU](https://www.amazon.es/dp/B07DYM5JB2/?tag=tolees-21) a 9.95 EUR (original: 19.99 EUR) (50.23 %  de descuento) en el siguiente enlace!

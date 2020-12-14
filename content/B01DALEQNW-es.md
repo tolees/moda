@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01DALEQNW/?tag=tolees-21'
 descuento: '63.08'
+average: '9.95'
 ---
 
 Está [Izas Valira Camiseta de Manga Corta  Mujer  Blanco/Rojo  2XL](https://www.amazon.es/dp/B01DALEQNW/?tag=tolees-21) con 63.08 de descuento por 9.95 EUR (original: 26.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00OBKQSYM/?tag=tolees-21'
 descuento: '38.10'
+average: '38.99'
 ---
 
 Tienes [Ultrasport Everest  Chaqueta Softshell para hombre  Azul  Viktoria Blau/Shamrock   M](https://www.amazon.es/dp/B00OBKQSYM/?tag=tolees-21) con un 38.10 % de descuento con precio de oferta de 38.99 EUR (original: 62.99 EUR) en el siguiente enlace!

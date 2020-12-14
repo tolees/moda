@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KJWVPH9/?tag=tolees-21'
 descuento: '46.17'
+average: '10.76'
 ---
 
 Está [Quiksilver In Drop out Camiseta  Hombre  Rojo  Brick Red   S](https://www.amazon.es/dp/B07KJWVPH9/?tag=tolees-21) con 46.17 de descuento por 10.76 EUR (original: 19.99 EUR) en el siguiente enlace!

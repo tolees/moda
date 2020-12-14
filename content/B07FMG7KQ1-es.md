@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FMG7KQ1/?tag=tolees-21'
 descuento: '63.35'
+average: '9.16'
 ---
 
 Tienes [Only Nos NOS Onlmila Lacy L/s Pullover Knt Noos  Camisa Manga Larga Mujer  Rojo  Sun-Dried Tomato Detail:Melange   36  Talla del Fabricante: X-Small ](https://www.amazon.es/dp/B07FMG7KQ1/?tag=tolees-21) con un 63.35 % de descuento con precio de oferta de 9.16 EUR (original: 24.99 EUR) en el siguiente enlace!

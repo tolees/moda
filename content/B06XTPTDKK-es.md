@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XTPTDKK/?tag=tolees-21'
 descuento: '60.00'
+average: '18'
 ---
 
 Tienes [Pepe Jeans Jamison  Vaqueros Slim para Niños  Azul  10Oz Comf Str Dk Used P46   2 años](https://www.amazon.es/dp/B06XTPTDKK/?tag=tolees-21) con un 60.00 % de descuento con precio de oferta de 18 EUR (original: 45 EUR) en el siguiente enlace!

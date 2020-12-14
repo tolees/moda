@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FQT6NCL/?tag=tolees-21'
 descuento: '68.02'
+average: '12.79'
 ---
 
 Está [JACK & JONES Jorauto Sweat High Neck STS  Sudadera para Hombre  Gris Detail: Tap Shoe-White Stripe  Large](https://www.amazon.es/dp/B07FQT6NCL/?tag=tolees-21) con 68.02 de descuento por 12.79 EUR (original: 39.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01HMCSQ04/?tag=tolees-21'
 descuento: '61.28'
+average: '7.72'
 ---
 
 Ahora mismo tienes [VERO MODA VMNORAH LS BLOUSE DNM T  Jersey premamá Mujer  Negro  Black   36  Talla del fabricante: Small ](https://www.amazon.es/dp/B01HMCSQ04/?tag=tolees-21) a 7.72 EUR (original: 19.94 EUR) (61.28 %  de descuento) en el siguiente enlace!

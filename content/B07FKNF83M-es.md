@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FKNF83M/?tag=tolees-21'
 descuento: '37.70'
+average: '36.63'
 ---
 
 Tienes [Trangoworld Yosa Camiseta Interior  Hombre  Negro  L](https://www.amazon.es/dp/B07FKNF83M/?tag=tolees-21) con un 37.70 % de descuento con precio de oferta de 36.63 EUR (original: 58.8 EUR) en el siguiente enlace!

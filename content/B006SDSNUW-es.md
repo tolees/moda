@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B006SDSNUW/?tag=tolees-21'
 descuento: '75.55'
+average: '12.21'
 ---
 
 Tienes [Eddie Bauer - Vaqueros straight para hombre  Azul  Stonewashed   W31 / L32  ES 42 ](https://www.amazon.es/dp/B006SDSNUW/?tag=tolees-21) con un 75.55 % de descuento con precio de oferta de 12.21 EUR (original: 49.94 EUR) en el siguiente enlace!

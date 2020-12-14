@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JL5YCC4/?tag=tolees-21'
 descuento: '57.47'
+average: '16.99'
 ---
 
 Está [Refresh 69724  Sandalias con Plataforma para Mujer  Rosa Nude  39 EU](https://www.amazon.es/dp/B07JL5YCC4/?tag=tolees-21) con 57.47 de descuento por 16.99 EUR (original: 39.95 EUR) en el siguiente enlace!

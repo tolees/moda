@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00TY8OJKQ/?tag=tolees-21'
 descuento: '46.60'
+average: '40.05'
 ---
 
 Ahora mismo tienes [The North Face Horizon Plus Pantalón Convertible  Mujer  Marron  10](https://www.amazon.es/dp/B00TY8OJKQ/?tag=tolees-21) a 40.05 EUR (original: 75 EUR) (46.60 %  de descuento) en el siguiente enlace!

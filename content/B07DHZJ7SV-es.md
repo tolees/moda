@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DHZJ7SV/?tag=tolees-21'
 descuento: '75.74'
+average: '21.82'
 ---
 
 Ahora mismo tienes [United Colors of Benetton Coat  Chaqueta de Traje para Mujer  Gris  Light Grey Melange 9d9   única  Talla del Fabricante: OS ](https://www.amazon.es/dp/B07DHZJ7SV/?tag=tolees-21) a 21.82 EUR (original: 89.95 EUR) (75.74 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0798JLFXD/?tag=tolees-21'
 descuento: '58.60'
+average: '10.35'
 ---
 
 Tienes [BILLABONG Craftman SS Camiseta  Hombre  Verde  Military 176   Small  Tamaño del Fabricante:S ](https://www.amazon.es/dp/B0798JLFXD/?tag=tolees-21) con un 58.60 % de descuento con precio de oferta de 10.35 EUR (original: 25 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077XRNV6S/?tag=tolees-21'
 descuento: '66.96'
+average: '8.59'
 ---
 
 Ahora mismo tienes [Under Armour UA Stunt - Pantalón Corto para niño  Niños  1299989-489  Techno Teal/Deceit/Magma Orange  para jóvenes XL](https://www.amazon.es/dp/B077XRNV6S/?tag=tolees-21) a 8.59 EUR (original: 26 EUR) (66.96 %  de descuento) en el siguiente enlace!

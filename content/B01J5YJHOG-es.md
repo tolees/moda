@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01J5YJHOG/?tag=tolees-21'
 descuento: '53.98'
+average: '46.02'
 ---
 
 Tienes [Helly Hansen Loke Chaqueta  Hombre  Verde  S](https://www.amazon.es/dp/B01J5YJHOG/?tag=tolees-21) con un 53.98 % de descuento con precio de oferta de 46.02 EUR (original: 100 EUR) en el siguiente enlace!

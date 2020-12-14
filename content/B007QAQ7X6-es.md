@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B007QAQ7X6/?tag=tolees-21'
 descuento: '38.93'
+average: '6.95'
 ---
 
 Ahora mismo tienes [Cressi Bahamas - Chanclas Flip Flop para Playa y Piscina](https://www.amazon.es/dp/B007QAQ7X6/?tag=tolees-21) a 6.95 EUR (original: 11.38 EUR) (38.93 %  de descuento) en el siguiente enlace!

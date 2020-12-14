@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HFN78JQ/?tag=tolees-21'
 descuento: '52.58'
+average: '18.92'
 ---
 
 Está [Tommy Hilfiger T-Script Logo tee  Camiseta Hombre  Azul  Surf The Web 432   Medium](https://www.amazon.es/dp/B07HFN78JQ/?tag=tolees-21) con 52.58 de descuento por 18.92 EUR (original: 39.9 EUR) en el siguiente enlace!

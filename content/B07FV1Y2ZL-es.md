@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FV1Y2ZL/?tag=tolees-21'
 descuento: '84.14'
+average: '15.86'
 ---
 
 Está [JACK & JONES Jjiglenn Jjfox Bl 840 FFL STS Vaqueros Slim  Azul Blue Denim  W29/L32 para Hombre](https://www.amazon.es/dp/B07FV1Y2ZL/?tag=tolees-21) con 84.14 de descuento por 15.86 EUR (original: 99.99 EUR) en el siguiente enlace!

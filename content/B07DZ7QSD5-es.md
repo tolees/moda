@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DZ7QSD5/?tag=tolees-21'
 descuento: '43.37'
+average: '33.97'
 ---
 
 Está [Columbia Powder Lite Chaqueta térmica para niños  Poliéster  Azul  Collegiate Navy   Talla: L](https://www.amazon.es/dp/B07DZ7QSD5/?tag=tolees-21) con 43.37 de descuento por 33.97 EUR (original: 59.99 EUR) en el siguiente enlace!

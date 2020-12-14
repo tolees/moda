@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0043RU7IG/?tag=tolees-21'
 descuento: '66.22'
+average: '9.13'
 ---
 
 Ahora mismo tienes [Derbystar Primera - Chaqueta infantil  tamaño 10-11 años  140 cm   color rojo](https://www.amazon.es/dp/B0043RU7IG/?tag=tolees-21) a 9.13 EUR (original: 27.03 EUR) (66.22 %  de descuento) en el siguiente enlace!

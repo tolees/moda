@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KH2Q6Q6/?tag=tolees-21'
 descuento: '52.75'
+average: '25.99'
 ---
 
 Tienes [Under Armour Rival Fitted Full Zip Sudadera  Hombre  Marrón  Silt Brown/Black 221   XXL](https://www.amazon.es/dp/B07KH2Q6Q6/?tag=tolees-21) con un 52.75 % de descuento con precio de oferta de 25.99 EUR (original: 55 EUR) en el siguiente enlace!

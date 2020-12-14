@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075Z6FR8R/?tag=tolees-21'
 descuento: '50.02'
+average: '14.99'
 ---
 
 Ahora mismo tienes [Regalos Cumpleaños Niños 3-12 años  DMbaby Guantes LEDS Colores - Regalos Cumpleaños Niñas G05](https://www.amazon.es/dp/B075Z6FR8R/?tag=tolees-21) a 14.99 EUR (original: 29.99 EUR) (50.02 %  de descuento) en el siguiente enlace!

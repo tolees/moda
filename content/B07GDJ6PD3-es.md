@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GDJ6PD3/?tag=tolees-21'
 descuento: '36.20'
+average: '15.95'
 ---
 
 Está [Levi s Graphic Set-in Neck  Camiseta para Hombre  Azul  Ssnl Boxtab Norse Blue 0522   XL](https://www.amazon.es/dp/B07GDJ6PD3/?tag=tolees-21) con 36.20 de descuento por 15.95 EUR (original: 25 EUR) en el siguiente enlace!

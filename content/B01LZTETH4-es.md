@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01LZTETH4/?tag=tolees-21'
 descuento: '68.00'
+average: '5.44'
 ---
 
 Ahora mismo tienes [Double Agent  Basic Print Top - Camiseta para Mujer  Color 002 Blanco Roto  Talla XS](https://www.amazon.es/dp/B01LZTETH4/?tag=tolees-21) a 5.44 EUR (original: 17 EUR) (68.00 %  de descuento) en el siguiente enlace!

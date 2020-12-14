@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07B6SVTLZ/?tag=tolees-21'
 descuento: '56.11'
+average: '24.14'
 ---
 
 Está [Burton Midweight Crew Camiseta Térmica  Hombre  Verde  Seersucker Camo   XL](https://www.amazon.es/dp/B07B6SVTLZ/?tag=tolees-21) con 56.11 de descuento por 24.14 EUR (original: 55 EUR) en el siguiente enlace!

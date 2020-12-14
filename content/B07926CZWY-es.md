@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07926CZWY/?tag=tolees-21'
 descuento: '61.48'
+average: '63.55'
 ---
 
 Tienes [Geox D Asheely NP ABX C  Botas Estilo Motero para Mujer   Biscuit C5046   40 EU](https://www.amazon.es/dp/B07926CZWY/?tag=tolees-21) con un 61.48 % de descuento con precio de oferta de 63.55 EUR (original: 165 EUR) en el siguiente enlace!

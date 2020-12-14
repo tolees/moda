@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KYTM95G/?tag=tolees-21'
 descuento: '67.71'
+average: '4.84'
 ---
 
 Tienes [JACK & JONES Jorsuburban tee SS Crew Neck  Camiseta Hombre  Blanco  Cloud Dancer Fit:Slim   Medium](https://www.amazon.es/dp/B07KYTM95G/?tag=tolees-21) con un 67.71 % de descuento con precio de oferta de 4.84 EUR (original: 14.99 EUR) en el siguiente enlace!

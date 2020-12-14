@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079DNJBPY/?tag=tolees-21'
 descuento: '81.84'
+average: '5.99'
 ---
 
 Está [Dafunna Mujer Traje de baño Bikini Conjuntos Push Up Cintura Alta Ruffles Top 2018 Bañador](https://www.amazon.es/dp/B079DNJBPY/?tag=tolees-21) con 81.84 de descuento por 5.99 EUR (original: 32.99 EUR) en el siguiente enlace!

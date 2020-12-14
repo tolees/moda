@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01NAWIX0S/?tag=tolees-21'
 descuento: '44.15'
+average: '32.95'
 ---
 
 Está [Timberland Millers River  Camiseta cuello alto Hombre  Azul  Dark Sapphire 433   Large](https://www.amazon.es/dp/B01NAWIX0S/?tag=tolees-21) con 44.15 de descuento por 32.95 EUR (original: 59 EUR) en el siguiente enlace!

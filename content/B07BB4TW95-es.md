@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BB4TW95/?tag=tolees-21'
 descuento: '50.00'
+average: '15'
 ---
 
 Está [The North Face M S/S Flash tee Camiseta  Hombre  Verde  Four Leaf clovr   S](https://www.amazon.es/dp/B07BB4TW95/?tag=tolees-21) con 50.00 de descuento por 15 EUR (original: 30 EUR) en el siguiente enlace!

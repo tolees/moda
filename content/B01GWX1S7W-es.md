@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01GWX1S7W/?tag=tolees-21'
 descuento: '38.01'
+average: '68.13'
 ---
 
 Tienes [Geox U NEW Damon a  Mocasines para Hombre  Marrón  DK BROWNC6006   43 EU](https://www.amazon.es/dp/B01GWX1S7W/?tag=tolees-21) con un 38.01 % de descuento con precio de oferta de 68.13 EUR (original: 109.9 EUR) en el siguiente enlace!

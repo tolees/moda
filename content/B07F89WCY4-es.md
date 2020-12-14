@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F89WCY4/?tag=tolees-21'
 descuento: '73.62'
+average: '47.48'
 ---
 
 Está [Burton Evergreen Synthetic Insulator Chaqueta Funcional  Hombre  Rojo  Sparrow  / Azul  Mood Indigo   L](https://www.amazon.es/dp/B07F89WCY4/?tag=tolees-21) con 73.62 de descuento por 47.48 EUR (original: 180 EUR) en el siguiente enlace!

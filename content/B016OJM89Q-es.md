@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B016OJM89Q/?tag=tolees-21'
 descuento: '85.61'
+average: '14.38'
 ---
 
 Tienes [NAOKO Vestido At21 Violeta S](https://www.amazon.es/dp/B016OJM89Q/?tag=tolees-21) con un 85.61 % de descuento con precio de oferta de 14.38 EUR (original: 99.95 EUR) en el siguiente enlace!

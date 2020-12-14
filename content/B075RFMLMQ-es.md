@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075RFMLMQ/?tag=tolees-21'
 descuento: '54.28'
+average: '17.83'
 ---
 
 Tienes [Double Agent 86884  Jersey para Mujer   Gris Vigore Claro     Tamaño del Fabricante:M ](https://www.amazon.es/dp/B075RFMLMQ/?tag=tolees-21) con un 54.28 % de descuento con precio de oferta de 17.83 EUR (original: 39 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F87ZC9V/?tag=tolees-21'
 descuento: '55.51'
+average: '24.47'
 ---
 
 Está [New Balance WT83563 Sudadera con Capucha  Mujer  Gris  Athletic Grey AG   Large  Tamaño del Fabricante:L ](https://www.amazon.es/dp/B07F87ZC9V/?tag=tolees-21) con 55.51 de descuento por 24.47 EUR (original: 55 EUR) en el siguiente enlace!

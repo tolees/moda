@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D97DXX9/?tag=tolees-21'
 descuento: '60.10'
+average: '19.93'
 ---
 
 Ahora mismo tienes [XTI 48606  Botines para Mujer  Verde Kaki  39 EU](https://www.amazon.es/dp/B07D97DXX9/?tag=tolees-21) a 19.93 EUR (original: 49.95 EUR) (60.10 %  de descuento) en el siguiente enlace!

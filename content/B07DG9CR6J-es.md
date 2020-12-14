@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DG9CR6J/?tag=tolees-21'
 descuento: '55.79'
+average: '226.78'
 ---
 
 Está [Love Moschino Coats  Abrigo Mujer   Bl/Red/Beig/WH 4062   40  Talla del Fabricante: 42 ](https://www.amazon.es/dp/B07DG9CR6J/?tag=tolees-21) con 55.79 de descuento por 226.78 EUR (original: 513 EUR) en el siguiente enlace!

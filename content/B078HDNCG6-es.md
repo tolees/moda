@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078HDNCG6/?tag=tolees-21'
 descuento: '50.88'
+average: '14.73'
 ---
 
 Tienes [Springfield Vestido Bodycon Escote Cruzado Vestido  Mujer   Varios   Medium  Tamaño del Fabricante:M ](https://www.amazon.es/dp/B078HDNCG6/?tag=tolees-21) con un 50.88 % de descuento con precio de oferta de 14.73 EUR (original: 29.99 EUR) en el siguiente enlace!

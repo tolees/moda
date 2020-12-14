@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071S5PCZZ/?tag=tolees-21'
 descuento: '46.48'
+average: '80.27'
 ---
 
 Está [Columbia Chaqueta Impermeable para Mujer  Largo Medio  Powder Lite Mid Jacket  Negro  Black   Talla L](https://www.amazon.es/dp/B071S5PCZZ/?tag=tolees-21) con 46.48 de descuento por 80.27 EUR (original: 149.99 EUR) en el siguiente enlace!

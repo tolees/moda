@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CZNLZ8J/?tag=tolees-21'
 descuento: '56.99'
+average: '15.05'
 ---
 
 Tienes [Under Armour Unstoppable Move SS T Camiseta  Hombre  Negro  Black/Onyx White 001   M](https://www.amazon.es/dp/B07CZNLZ8J/?tag=tolees-21) con un 56.99 % de descuento con precio de oferta de 15.05 EUR (original: 34.99 EUR) en el siguiente enlace!

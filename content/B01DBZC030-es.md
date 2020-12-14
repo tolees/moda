@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01DBZC030/?tag=tolees-21'
 descuento: '47.84'
+average: '21.88'
 ---
 
 Está [Izas Rud Camisa  Hombre  Arena  XL](https://www.amazon.es/dp/B01DBZC030/?tag=tolees-21) con 47.84 de descuento por 21.88 EUR (original: 41.95 EUR) en el siguiente enlace!

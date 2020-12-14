@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KYW56M8/?tag=tolees-21'
 descuento: '65.99'
+average: '17'
 ---
 
 Ahora mismo tienes [Cortefiel C1Bcc Caja Mallas Cargada  Jersey para Hombre   Gama Rojo 65   Medium  Tamaño del Fabricante:M ](https://www.amazon.es/dp/B07KYW56M8/?tag=tolees-21) a 17 EUR (original: 49.99 EUR) (65.99 %  de descuento) en el siguiente enlace!

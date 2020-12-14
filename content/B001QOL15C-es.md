@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B001QOL15C/?tag=tolees-21'
 descuento: '53.24'
+average: '46.29'
 ---
 
 Está [Levi s 501 Original Vaqueros  Negro  Black 0660   W33/L34 para Hombre](https://www.amazon.es/dp/B001QOL15C/?tag=tolees-21) con 53.24 de descuento por 46.29 EUR (original: 99 EUR) en el siguiente enlace!

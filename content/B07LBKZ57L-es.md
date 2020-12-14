@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07LBKZ57L/?tag=tolees-21'
 descuento: '41.34'
+average: '17.01'
 ---
 
 Está [Tommy Jeans TJM Tommy Classics tee Camiseta  Verde  Acid Lime 300   S para Hombre](https://www.amazon.es/dp/B07LBKZ57L/?tag=tolees-21) con 41.34 de descuento por 17.01 EUR (original: 29 EUR) en el siguiente enlace!

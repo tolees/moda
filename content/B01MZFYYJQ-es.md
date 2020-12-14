@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MZFYYJQ/?tag=tolees-21'
 descuento: '71.62'
+average: '7.08'
 ---
 
 Está [LEGO Teo 625 Camiseta de Manga Larga  Gris  Grey Melange   Tamaño del Fabricante:152 para Niños](https://www.amazon.es/dp/B01MZFYYJQ/?tag=tolees-21) con 71.62 de descuento por 7.08 EUR (original: 24.95 EUR) en el siguiente enlace!

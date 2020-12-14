@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D97HMV2/?tag=tolees-21'
 descuento: '47.14'
+average: '13.69'
 ---
 
 Está [Havaianas Disney Stylish  Chanclas para Unisex Adulto  Multicolor  Ice Grey   35/36 EU  33/34 Brazilian ](https://www.amazon.es/dp/B07D97HMV2/?tag=tolees-21) con 47.14 de descuento por 13.69 EUR (original: 25.9 EUR) en el siguiente enlace!

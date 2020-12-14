@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078WTJCXW/?tag=tolees-21'
 descuento: '55.94'
+average: '26.43'
 ---
 
 Tienes [Cortefiel Rayas Camisa Casual  Gama Azules 12  Medium  Tamaño del Fabricante:6  para Hombre](https://www.amazon.es/dp/B078WTJCXW/?tag=tolees-21) con un 55.94 % de descuento con precio de oferta de 26.43 EUR (original: 59.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N3CP7Z1/?tag=tolees-21'
 descuento: '53.45'
+average: '88.45'
 ---
 
 Tienes [Camper Peu K400048-005 Botines Mujer 38](https://www.amazon.es/dp/B01N3CP7Z1/?tag=tolees-21) con un 53.45 % de descuento con precio de oferta de 88.45 EUR (original: 190 EUR) en el siguiente enlace!

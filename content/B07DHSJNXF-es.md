@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DHSJNXF/?tag=tolees-21'
 descuento: '59.74'
+average: '40.26'
 ---
 
 Está [Quiksilver Keller Sudadera con Capucha  Hombre  Azul  Navy Blazer Heather BYJH   Small  Tamaño del Fabricante:S ](https://www.amazon.es/dp/B07DHSJNXF/?tag=tolees-21) con 59.74 de descuento por 40.26 EUR (original: 99.99 EUR) en el siguiente enlace!

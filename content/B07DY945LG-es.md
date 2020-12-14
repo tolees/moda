@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DY945LG/?tag=tolees-21'
 descuento: '44.97'
+average: '11'
 ---
 
 Está [Roxy Viva Glitter IV  Zapatos de Playa y Piscina para Mujer  Negro  Black/Rust Lrt   38 EU](https://www.amazon.es/dp/B07DY945LG/?tag=tolees-21) con 44.97 de descuento por 11 EUR (original: 19.99 EUR) en el siguiente enlace!

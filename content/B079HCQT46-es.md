@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079HCQT46/?tag=tolees-21'
 descuento: '76.60'
+average: '14.03'
 ---
 
 Ahora mismo tienes [Tom Tailor 5890101  Botines para Mujer  Turquesa  Ice 00169   36 EU](https://www.amazon.es/dp/B079HCQT46/?tag=tolees-21) a 14.03 EUR (original: 59.95 EUR) (76.60 %  de descuento) en el siguiente enlace!

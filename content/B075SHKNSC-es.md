@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075SHKNSC/?tag=tolees-21'
 descuento: '75.64'
+average: '5.6'
 ---
 
 Tienes [Springfield 6792731 Blusa  Azul  Blue   Tamaño del Fabricante:36 para Mujer](https://www.amazon.es/dp/B075SHKNSC/?tag=tolees-21) con un 75.64 % de descuento con precio de oferta de 5.6 EUR (original: 22.99 EUR) en el siguiente enlace!

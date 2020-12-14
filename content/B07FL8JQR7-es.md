@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FL8JQR7/?tag=tolees-21'
 descuento: '40.54'
+average: '83.19'
 ---
 
 Está [Superdry Padded Elite Windcheater  Chaqueta Deportiva para Hombre  Negro  Black 02a  X-Small](https://www.amazon.es/dp/B07FL8JQR7/?tag=tolees-21) con 40.54 de descuento por 83.19 EUR (original: 139.9 EUR) en el siguiente enlace!

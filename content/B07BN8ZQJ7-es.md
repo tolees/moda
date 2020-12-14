@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BN8ZQJ7/?tag=tolees-21'
 descuento: '57.71'
+average: '10.99'
 ---
 
 Está [JIM HALO Gafas de Sol Aviador Redondas Clásico Lente de Cristal de Alta Calidad Plano Metal Anteojos Hombre Mujer Dorado/Verde ](https://www.amazon.es/dp/B07BN8ZQJ7/?tag=tolees-21) con 57.71 de descuento por 10.99 EUR (original: 25.99 EUR) en el siguiente enlace!

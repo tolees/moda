@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073SCWDXH/?tag=tolees-21'
 descuento: '70.00'
+average: '8.4'
 ---
 
 Está [FIND Sudadera Mensaje para Hombre  Negro  Black 002   Medium](https://www.amazon.es/dp/B073SCWDXH/?tag=tolees-21) con 70.00 de descuento por 8.4 EUR (original: 28 EUR) en el siguiente enlace!

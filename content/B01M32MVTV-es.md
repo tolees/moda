@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01M32MVTV/?tag=tolees-21'
 descuento: '69.28'
+average: '179.08'
 ---
 
 Tienes [Jimmy Choo Lash/S  Gafas de Sol para Mujer  Multicolor  Gdbk Mtlzed   53](https://www.amazon.es/dp/B01M32MVTV/?tag=tolees-21) con un 69.28 % de descuento con precio de oferta de 179.08 EUR (original: 583 EUR) en el siguiente enlace!

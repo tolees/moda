@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MCVJC7K/?tag=tolees-21'
 descuento: '31.77'
+average: '4.08'
 ---
 
 Ahora mismo tienes [Distinct® Elástica de látex de Caucho para Lavar vajilla Guantes Largos Guantes de Cocina de Limpieza Las tareas del hogar](https://www.amazon.es/dp/B01MCVJC7K/?tag=tolees-21) a 4.08 EUR (original: 5.98 EUR) (31.77 %  de descuento) en el siguiente enlace!

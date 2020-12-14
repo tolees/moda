@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JKKL5P5/?tag=tolees-21'
 descuento: '57.47'
+average: '16.99'
 ---
 
 Ahora mismo tienes [Refresh 69724  Sandalias con Plataforma para Mujer  Negro  38 EU](https://www.amazon.es/dp/B07JKKL5P5/?tag=tolees-21) a 16.99 EUR (original: 39.95 EUR) (57.47 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BP1QLLN/?tag=tolees-21'
 descuento: '30.84'
+average: '5.63'
 ---
 
 Ahora mismo tienes [Chaleco de seguridad reflectante con múltiples bolsillos para correr  ciclismo  paseo  deportes  etc.](https://www.amazon.es/dp/B07BP1QLLN/?tag=tolees-21) a 5.63 EUR (original: 8.14 EUR) (30.84 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00JPFV4MO/?tag=tolees-21'
 descuento: '78.14'
+average: '6.37'
 ---
 
 Está [James & Nicholson Polo Ladies Workwear - Camiseta / Camisa deportivas  rojo  XL](https://www.amazon.es/dp/B00JPFV4MO/?tag=tolees-21) con 78.14 de descuento por 6.37 EUR (original: 29.14 EUR) en el siguiente enlace!

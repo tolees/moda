@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BB5ZGGV/?tag=tolees-21'
 descuento: '47.21'
+average: '36.95'
 ---
 
 Tienes [The North Face Drew Peak J Jersey  Hombre  Blanco  TNF White   S](https://www.amazon.es/dp/B07BB5ZGGV/?tag=tolees-21) con un 47.21 % de descuento con precio de oferta de 36.95 EUR (original: 70 EUR) en el siguiente enlace!

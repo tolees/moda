@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01GVNDYAC/?tag=tolees-21'
 descuento: '64.93'
+average: '13.24'
 ---
 
 Está [Rockoff Trade Avengers Montage Pocket Logo Sublimation  Camiseta para Hombre   Multicoloured  XX-Large](https://www.amazon.es/dp/B01GVNDYAC/?tag=tolees-21) con 64.93 de descuento por 13.24 EUR (original: 37.75 EUR) en el siguiente enlace!

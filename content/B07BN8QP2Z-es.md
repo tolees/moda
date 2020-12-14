@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BN8QP2Z/?tag=tolees-21'
 descuento: '76.62'
+average: '10.51'
 ---
 
 Ahora mismo tienes [Seafolly Mujer Active Multi Strap Hipster Braguita de Bikini Not Applicable  Amarillo  Buttercup Buttercup   36  Talla del Fabricante: 8 ](https://www.amazon.es/dp/B07BN8QP2Z/?tag=tolees-21) a 10.51 EUR (original: 44.95 EUR) (76.62 %  de descuento) en el siguiente enlace!

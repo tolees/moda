@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01IHIDRQU/?tag=tolees-21'
 descuento: '70.75'
+average: '14.62'
 ---
 
 Está [Cortefiel 1236628  Pantalón Chino para Hombre  Beige  ES 46](https://www.amazon.es/dp/B01IHIDRQU/?tag=tolees-21) con 70.75 de descuento por 14.62 EUR (original: 49.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DFJPSGC/?tag=tolees-21'
 descuento: '36.59'
+average: '26.95'
 ---
 
 Está [Calvin Klein Low Rise Trunk 3pk Bóxer  Negro  B - Silver L/Monument/Pheobe Ypv   Small  Pack de 3 para Hombre](https://www.amazon.es/dp/B07DFJPSGC/?tag=tolees-21) con 36.59 de descuento por 26.95 EUR (original: 42.5 EUR) en el siguiente enlace!

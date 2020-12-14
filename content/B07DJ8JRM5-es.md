@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DJ8JRM5/?tag=tolees-21'
 descuento: '63.99'
+average: '95.43'
 ---
 
 Ahora mismo tienes [Diesel Larkee-beex SP  Vaqueros Straight para Hombre  Azul  01 Blue Denim 084xb  W30/L30](https://www.amazon.es/dp/B07DJ8JRM5/?tag=tolees-21) a 95.43 EUR (original: 265 EUR) (63.99 %  de descuento) en el siguiente enlace!

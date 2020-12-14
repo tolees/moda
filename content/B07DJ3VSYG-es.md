@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DJ3VSYG/?tag=tolees-21'
 descuento: '50.00'
+average: '39.95'
 ---
 
 Está [Geox D Annytah a  Bailarinas para Mujer  Silver/White C0434  38 EU](https://www.amazon.es/dp/B07DJ3VSYG/?tag=tolees-21) con 50.00 de descuento por 39.95 EUR (original: 79.9 EUR) en el siguiente enlace!

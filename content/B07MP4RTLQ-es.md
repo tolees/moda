@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MP4RTLQ/?tag=tolees-21'
 descuento: '42.01'
+average: '28.99'
 ---
 
 Ahora mismo tienes [Zapatos de Baloncesto para niños Alto para Ayudar a los Zapatos Deportivos Zapatillas para Niños](https://www.amazon.es/dp/B07MP4RTLQ/?tag=tolees-21) a 28.99 EUR (original: 49.99 EUR) (42.01 %  de descuento) en el siguiente enlace!

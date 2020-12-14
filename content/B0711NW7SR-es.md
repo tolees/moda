@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0711NW7SR/?tag=tolees-21'
 descuento: '83.11'
+average: '26.17'
 ---
 
 Está [Bench Rich Look Bomber Chaqueta  Verde  Dark Green Gr163   Large para Mujer](https://www.amazon.es/dp/B0711NW7SR/?tag=tolees-21) con 83.11 de descuento por 26.17 EUR (original: 154.95 EUR) en el siguiente enlace!

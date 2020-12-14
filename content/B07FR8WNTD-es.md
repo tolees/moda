@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FR8WNTD/?tag=tolees-21'
 descuento: '51.09'
+average: '34.21'
 ---
 
 Tienes [Clarks Rufus Edge Bl  Zapatos de Cordones Bebés  Negro  Black Leather   43 EU](https://www.amazon.es/dp/B07FR8WNTD/?tag=tolees-21) con un 51.09 % de descuento con precio de oferta de 34.21 EUR (original: 69.95 EUR) en el siguiente enlace!

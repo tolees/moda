@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F2M1N8F/?tag=tolees-21'
 descuento: '52.37'
+average: '28.58'
 ---
 
 Tienes [Helly Hansen Daybreaker 1/2 Zip Chaqueta  Hombre  Alert Red  S](https://www.amazon.es/dp/B07F2M1N8F/?tag=tolees-21) con un 52.37 % de descuento con precio de oferta de 28.58 EUR (original: 60 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073RPMZ2V/?tag=tolees-21'
 descuento: '44.49'
+average: '38.86'
 ---
 
 Tienes [Helly Hansen HH Logo Hoodie Sudadera con Capucha  Hombre  Azul  Olympian Blue   M](https://www.amazon.es/dp/B073RPMZ2V/?tag=tolees-21) con un 44.49 % de descuento con precio de oferta de 38.86 EUR (original: 70 EUR) en el siguiente enlace!

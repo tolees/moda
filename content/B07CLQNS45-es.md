@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CLQNS45/?tag=tolees-21'
 descuento: '31.80'
+average: '14.99'
 ---
 
 Está [Munvot- Mujer Leggins y Mallas de Cintura Alta para Yoga  Pilates  Fitness y Running M.](https://www.amazon.es/dp/B07CLQNS45/?tag=tolees-21) con 31.80 de descuento por 14.99 EUR (original: 21.98 EUR) en el siguiente enlace!

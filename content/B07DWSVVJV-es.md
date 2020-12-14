@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DWSVVJV/?tag=tolees-21'
 descuento: '73.71'
+average: '22.35'
 ---
 
 Está [Under Armour UA Storm out&Back PRT Chaqueta  Hombre  Black/Green Typhoon/Reflective  2XL](https://www.amazon.es/dp/B07DWSVVJV/?tag=tolees-21) con 73.71 de descuento por 22.35 EUR (original: 85 EUR) en el siguiente enlace!

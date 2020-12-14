@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F8RLP7X/?tag=tolees-21'
 descuento: '36.99'
+average: '44.1'
 ---
 
 Está [JACK & JONES Jjitim Jjleon GE 189 I.k. Noos  Vaqueros Slim para Hombre  Azul Blue Denim  W38/L32](https://www.amazon.es/dp/B07F8RLP7X/?tag=tolees-21) con 36.99 de descuento por 44.1 EUR (original: 69.99 EUR) en el siguiente enlace!

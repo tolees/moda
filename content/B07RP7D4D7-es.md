@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07RP7D4D7/?tag=tolees-21'
 descuento: '35.73'
+average: '17.99'
 ---
 
 Está [Sandalias Mujer Plataformas Verano Planas Cuña 3 CM Tacon Bajos Piel Punta Abierta Alpargatas Tobillo Hebilla Zapato De Playa Moda Fiesta Elegantes Leopardo 41](https://www.amazon.es/dp/B07RP7D4D7/?tag=tolees-21) con 35.73 de descuento por 17.99 EUR (original: 27.99 EUR) en el siguiente enlace!

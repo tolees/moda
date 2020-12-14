@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N3P61XS/?tag=tolees-21'
 descuento: '30.22'
+average: '13.95'
 ---
 
 Ahora mismo tienes [adidas Squad 17 Sho Pantalón Corto  Hombre  Azul  Azufue / Blanco   M](https://www.amazon.es/dp/B01N3P61XS/?tag=tolees-21) a 13.95 EUR (original: 19.99 EUR) (30.22 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071CDGG3K/?tag=tolees-21'
 descuento: '90.36'
+average: '12.44'
 ---
 
 Ahora mismo tienes [REPLAY Katewin  Pantalones Vaqueros Delgados para Mujer  Rojo  Bordeaux 10  W32/L30  Talla del Fabricante: 32 ](https://www.amazon.es/dp/B071CDGG3K/?tag=tolees-21) a 12.44 EUR (original: 129 EUR) (90.36 %  de descuento) en el siguiente enlace!

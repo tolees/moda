@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00UFP01M2/?tag=tolees-21'
 descuento: '53.00'
+average: '23.47'
 ---
 
 Tienes [Blend 703119 Vaqueros  Schwarz  Denim Black 76204   W31 / L32  ES 42  para Hombre](https://www.amazon.es/dp/B00UFP01M2/?tag=tolees-21) con un 53.00 % de descuento con precio de oferta de 23.47 EUR (original: 49.94 EUR) en el siguiente enlace!

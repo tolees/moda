@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07B8Y5TMN/?tag=tolees-21'
 descuento: '53.40'
+average: '69.9'
 ---
 
 Ahora mismo tienes [Camper Neuman  Zapatos de cordones Oxford para Hombre  Marrón  Medium Brown 210   42 EU](https://www.amazon.es/dp/B07B8Y5TMN/?tag=tolees-21) a 69.9 EUR (original: 150 EUR) (53.40 %  de descuento) en el siguiente enlace!

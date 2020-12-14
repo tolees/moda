@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JVPR76F/?tag=tolees-21'
 descuento: '25.01'
+average: '18.74'
 ---
 
 Ahora mismo tienes [Iris & Lilly Kt120 Bikini  Tropical Flower   42  Talla del Fabricante: Large ](https://www.amazon.es/dp/B07JVPR76F/?tag=tolees-21) a 18.74 EUR (original: 24.99 EUR) (25.01 %  de descuento) en el siguiente enlace!

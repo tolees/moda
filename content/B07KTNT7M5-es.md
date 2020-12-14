@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KTNT7M5/?tag=tolees-21'
 descuento: '72.72'
+average: '10.9'
 ---
 
 Está [United Colors of Benetton Sweater W/Hood  Sudadera Deportiva para Hombre  Blanco  Bianco 101   única  Talla del Fabricante: EL ](https://www.amazon.es/dp/B07KTNT7M5/?tag=tolees-21) con 72.72 de descuento por 10.9 EUR (original: 39.95 EUR) en el siguiente enlace!

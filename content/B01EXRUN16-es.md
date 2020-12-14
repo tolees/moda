@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01EXRUN16/?tag=tolees-21'
 descuento: '47.73'
+average: '93.56'
 ---
 
 Ahora mismo tienes [Ray-Ban RB 3548n Gafas de sol  Gold  48 para Hombre](https://www.amazon.es/dp/B01EXRUN16/?tag=tolees-21) a 93.56 EUR (original: 179 EUR) (47.73 %  de descuento) en el siguiente enlace!

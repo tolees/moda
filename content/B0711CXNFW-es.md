@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0711CXNFW/?tag=tolees-21'
 descuento: '63.51'
+average: '43.78'
 ---
 
 Tienes [Quiksilver Mission Printed Youth Jk Chaqueta para Nieve  Ninos  Negro  ARKAID BLACK & WHITE   talla del fabricante: 12/L](https://www.amazon.es/dp/B0711CXNFW/?tag=tolees-21) con un 63.51 % de descuento con precio de oferta de 43.78 EUR (original: 119.99 EUR) en el siguiente enlace!

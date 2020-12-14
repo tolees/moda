@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KW4NB66/?tag=tolees-21'
 descuento: '53.15'
+average: '51.53'
 ---
 
 Ahora mismo tienes [New Balance MS X90 TBG de la Zapatilla de deporte para hombres gris amarillo  45 EU](https://www.amazon.es/dp/B07KW4NB66/?tag=tolees-21) a 51.53 EUR (original: 110 EUR) (53.15 %  de descuento) en el siguiente enlace!

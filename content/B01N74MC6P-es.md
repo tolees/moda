@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N74MC6P/?tag=tolees-21'
 descuento: '79.52'
+average: '8.19'
 ---
 
 Tienes [Esprit 017ee1f025  Blusa para Mujer   Navy   34](https://www.amazon.es/dp/B01N74MC6P/?tag=tolees-21) con un 79.52 % de descuento con precio de oferta de 8.19 EUR (original: 39.99 EUR) en el siguiente enlace!

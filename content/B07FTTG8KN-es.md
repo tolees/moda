@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FTTG8KN/?tag=tolees-21'
 descuento: '77.50'
+average: '22.49'
 ---
 
 Tienes [Lee Scarlett  Vaqueros Skinny para Mujer  Rosa  Flamingo Wd   W32/L31](https://www.amazon.es/dp/B07FTTG8KN/?tag=tolees-21) con un 77.50 % de descuento con precio de oferta de 22.49 EUR (original: 99.95 EUR) en el siguiente enlace!

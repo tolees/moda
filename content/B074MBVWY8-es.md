@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074MBVWY8/?tag=tolees-21'
 descuento: '71.21'
+average: '14.39'
 ---
 
 Está [PIECES Pcfive Dellydelux B220 MW Skn Ankjns Blk  Vaqueros Skinny Mujer  Negro  Black Black   36  Talla del Fabricante: Small ](https://www.amazon.es/dp/B074MBVWY8/?tag=tolees-21) con 71.21 de descuento por 14.39 EUR (original: 49.99 EUR) en el siguiente enlace!

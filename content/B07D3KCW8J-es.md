@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D3KCW8J/?tag=tolees-21'
 descuento: '48.16'
+average: '79.95'
 ---
 
 Tienes [Steve Madden Geneva Ankleboot  Botines para Mujer   Black Leather 017   38 EU](https://www.amazon.es/dp/B07D3KCW8J/?tag=tolees-21) con un 48.16 % de descuento con precio de oferta de 79.95 EUR (original: 154.23 EUR) en el siguiente enlace!

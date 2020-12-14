@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KGF124H/?tag=tolees-21'
 descuento: '40.03'
+average: '35.95'
 ---
 
 Ahora mismo tienes [BOSS tee 13  Camiseta para Hombre  Azul  Navy  X-Large](https://www.amazon.es/dp/B07KGF124H/?tag=tolees-21) a 35.95 EUR (original: 59.95 EUR) (40.03 %  de descuento) en el siguiente enlace!

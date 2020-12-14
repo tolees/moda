@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KZ6KCM8/?tag=tolees-21'
 descuento: '66.99'
+average: '16.5'
 ---
 
 Tienes [Cortefiel C1Bck Pico Torzal Jersey para Hombre  Rosa  Gama Rosas/Morados 74  Medium  Tamaño del Fabricante:M ](https://www.amazon.es/dp/B07KZ6KCM8/?tag=tolees-21) con un 66.99 % de descuento con precio de oferta de 16.5 EUR (original: 49.99 EUR) en el siguiente enlace!

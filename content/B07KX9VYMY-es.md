@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KX9VYMY/?tag=tolees-21'
 descuento: '73.56'
+average: '42.84'
 ---
 
 Está [Love Moschino Heart Shaped Buttons_Sleeveless Blouse Blusa  Blanco  Optical White A00   44  Talla del Fabricante: 46  para Mujer](https://www.amazon.es/dp/B07KX9VYMY/?tag=tolees-21) con 73.56 de descuento por 42.84 EUR (original: 162 EUR) en el siguiente enlace!

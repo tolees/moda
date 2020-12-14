@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BZPRVYC/?tag=tolees-21'
 descuento: '83.60'
+average: '16.39'
 ---
 
 Está [Remonte R2672  Botines para Mujer  Negro  Schwarz/Antracite 02   40 EU](https://www.amazon.es/dp/B07BZPRVYC/?tag=tolees-21) con 83.60 de descuento por 16.39 EUR (original: 99.95 EUR) en el siguiente enlace!

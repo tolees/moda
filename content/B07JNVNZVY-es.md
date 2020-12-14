@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JNVNZVY/?tag=tolees-21'
 descuento: '81.89'
+average: '11.77'
 ---
 
 Está [ZADIG&VOLTAIRE Robe Vestido   Bleu ROI 865   4 años  Talla del Fabricante: 04A  para Niñas](https://www.amazon.es/dp/B07JNVNZVY/?tag=tolees-21) con 81.89 de descuento por 11.77 EUR (original: 65 EUR) en el siguiente enlace!

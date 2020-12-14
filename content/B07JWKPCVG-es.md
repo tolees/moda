@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JWKPCVG/?tag=tolees-21'
 descuento: '47.60'
+average: '26.2'
 ---
 
 Está [Lacoste Th6386 Camiseta  Negro  Noir 031   Large  Talla del Fabricante: 5  para Hombre](https://www.amazon.es/dp/B07JWKPCVG/?tag=tolees-21) con 47.60 de descuento por 26.2 EUR (original: 50 EUR) en el siguiente enlace!

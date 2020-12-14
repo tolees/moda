@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07M9QJX17/?tag=tolees-21'
 descuento: '73.95'
+average: '26.04'
 ---
 
 Tienes [G-STAR RAW Lynn Mid-Waist Skinny Vaqueros  Negro  lt Aged 6553-424   28W / 32L para Mujer](https://www.amazon.es/dp/B07M9QJX17/?tag=tolees-21) con un 73.95 % de descuento con precio de oferta de 26.04 EUR (original: 99.95 EUR) en el siguiente enlace!

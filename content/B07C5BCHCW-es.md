@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07C5BCHCW/?tag=tolees-21'
 descuento: '51.07'
+average: '48.93'
 ---
 
 Tienes [Love Moschino Short Sleeve T-Shirt with Hearth Print  Camiseta para Mujer  Gris  Mel.Dark Gray B922  40  Talla del Fabricante: 42 ](https://www.amazon.es/dp/B07C5BCHCW/?tag=tolees-21) con un 51.07 % de descuento con precio de oferta de 48.93 EUR (original: 100 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06Y4VB4V8/?tag=tolees-21'
 descuento: '33.15'
+average: '66.82'
 ---
 
 Está [Desigual Jers_Call Chaqueta Punto  Negro 2000  Small para Mujer](https://www.amazon.es/dp/B06Y4VB4V8/?tag=tolees-21) con 33.15 de descuento por 66.82 EUR (original: 99.95 EUR) en el siguiente enlace!

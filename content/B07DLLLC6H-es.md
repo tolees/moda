@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DLLLC6H/?tag=tolees-21'
 descuento: '66.83'
+average: '16.58'
 ---
 
 Está [Springfield 4.2.Gym.MD.Perfecto Velvet Chaqueta  Gama Azules 19   Tamaño del Fabricante:38  para Mujer](https://www.amazon.es/dp/B07DLLLC6H/?tag=tolees-21) con 66.83 de descuento por 16.58 EUR (original: 49.99 EUR) en el siguiente enlace!

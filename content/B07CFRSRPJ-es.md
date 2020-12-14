@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CFRSRPJ/?tag=tolees-21'
 descuento: '47.66'
+average: '10.72'
 ---
 
 Está [Vero Moda Vmmalena LS Dress Exp Noos  Vestido Mujer  Gris  Light Grey Melange Light Melange   40  Talla del Fabricante: Medium ](https://www.amazon.es/dp/B07CFRSRPJ/?tag=tolees-21) con 47.66 de descuento por 10.72 EUR (original: 20.48 EUR) en el siguiente enlace!

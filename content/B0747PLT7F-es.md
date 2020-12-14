@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0747PLT7F/?tag=tolees-21'
 descuento: '59.19'
+average: '10.61'
 ---
 
 Está [FIND Vestido por Media Pierna para Mujer  Gris  Grey   40  Talla del Fabricante: Medium ](https://www.amazon.es/dp/B0747PLT7F/?tag=tolees-21) con 59.19 de descuento por 10.61 EUR (original: 26 EUR) en el siguiente enlace!

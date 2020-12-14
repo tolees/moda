@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072J2VFVL/?tag=tolees-21'
 descuento: '50.35'
+average: '12.91'
 ---
 
 Ahora mismo tienes [Under Armour UA Never out Worked SS Camiseta de Manga Corta  Hombre  Rojo  600   L](https://www.amazon.es/dp/B072J2VFVL/?tag=tolees-21) a 12.91 EUR (original: 26 EUR) (50.35 %  de descuento) en el siguiente enlace!

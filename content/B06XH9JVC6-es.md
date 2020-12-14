@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XH9JVC6/?tag=tolees-21'
 descuento: '59.44'
+average: '20.28'
 ---
 
 Tienes [Helly Hansen HH LIFA Active Crew Camiseta Deporte  Hombre  Negro  XX-Large  Tamaño del Fabricante:2XL ](https://www.amazon.es/dp/B06XH9JVC6/?tag=tolees-21) con un 59.44 % de descuento con precio de oferta de 20.28 EUR (original: 50 EUR) en el siguiente enlace!

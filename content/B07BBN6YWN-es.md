@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BBN6YWN/?tag=tolees-21'
 descuento: '56.85'
+average: '12.94'
 ---
 
 Está [CLUB CUBANA Camisa Hawaiana Floral Manga Corta Casual Ajuste Regular para Hombres M](https://www.amazon.es/dp/B07BBN6YWN/?tag=tolees-21) con 56.85 de descuento por 12.94 EUR (original: 29.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00G35EWPU/?tag=tolees-21'
 descuento: '29.00'
+average: '38.71'
 ---
 
 Ahora mismo tienes [Swiss Eye Drive - Gafas de deporte  talla única  color rojo](https://www.amazon.es/dp/B00G35EWPU/?tag=tolees-21) a 38.71 EUR (original: 54.52 EUR) (29.00 %  de descuento) en el siguiente enlace!

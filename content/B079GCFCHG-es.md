@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079GCFCHG/?tag=tolees-21'
 descuento: '65.51'
+average: '18.97'
 ---
 
 Está [BILLABONG Lennox Shirt SS Camiseta Deporte  Hombre  Verde Khaki  Large](https://www.amazon.es/dp/B079GCFCHG/?tag=tolees-21) con 65.51 de descuento por 18.97 EUR (original: 55 EUR) en el siguiente enlace!

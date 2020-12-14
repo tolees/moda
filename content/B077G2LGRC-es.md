@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077G2LGRC/?tag=tolees-21'
 descuento: '40.00'
+average: '42'
 ---
 
 Está [TRUTH & FABLE ACB042 vestido dama de honor mujer  Multicolor  Red   40  Talla del fabricante: Medium ](https://www.amazon.es/dp/B077G2LGRC/?tag=tolees-21) con 40.00 de descuento por 42 EUR (original: 70 EUR) en el siguiente enlace!

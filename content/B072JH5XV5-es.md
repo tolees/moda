@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072JH5XV5/?tag=tolees-21'
 descuento: '44.29'
+average: '15.6'
 ---
 
 Está [Under Armour Speed Stride Tank Camiseta de Tirantes  Mujer  Negro  002   XS](https://www.amazon.es/dp/B072JH5XV5/?tag=tolees-21) con 44.29 de descuento por 15.6 EUR (original: 28 EUR) en el siguiente enlace!

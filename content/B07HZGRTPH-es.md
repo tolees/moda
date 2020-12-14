@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HZGRTPH/?tag=tolees-21'
 descuento: '43.98'
+average: '27.45'
 ---
 
 Está [Dickies Harrison Sudadera  Amarillo  Custard Cus   X-Large  Talla del Fabricante: XLrge  para Hombre](https://www.amazon.es/dp/B07HZGRTPH/?tag=tolees-21) con 43.98 de descuento por 27.45 EUR (original: 49 EUR) en el siguiente enlace!

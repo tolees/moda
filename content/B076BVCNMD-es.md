@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076BVCNMD/?tag=tolees-21'
 descuento: '57.78'
+average: '8.44'
 ---
 
 Está [Vero Moda Vmjenny S/s T-Shirt D2-2  Camiseta Mujer  Negro  Black Print: Azalea - Heart Breaker   38  Talla del Fabricante: Medium ](https://www.amazon.es/dp/B076BVCNMD/?tag=tolees-21) con 57.78 de descuento por 8.44 EUR (original: 19.99 EUR) en el siguiente enlace!

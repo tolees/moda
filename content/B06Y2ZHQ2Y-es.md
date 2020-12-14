@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06Y2ZHQ2Y/?tag=tolees-21'
 descuento: '73.29'
+average: '6.13'
 ---
 
 Está [Joma Olimpia Camiseta  Hombre  Blanco/Amarillo  S](https://www.amazon.es/dp/B06Y2ZHQ2Y/?tag=tolees-21) con 73.29 de descuento por 6.13 EUR (original: 22.95 EUR) en el siguiente enlace!

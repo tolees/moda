@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00F61U2RY/?tag=tolees-21'
 descuento: '49.85'
+average: '32.59'
 ---
 
 Tienes [RIP CURL Surf Algodón. Hooded Zip Through FL Sudadera  Hombre  Midnight Navy  L](https://www.amazon.es/dp/B00F61U2RY/?tag=tolees-21) con un 49.85 % de descuento con precio de oferta de 32.59 EUR (original: 64.99 EUR) en el siguiente enlace!

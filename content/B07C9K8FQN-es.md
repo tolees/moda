@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07C9K8FQN/?tag=tolees-21'
 descuento: '53.30'
+average: '55.57'
 ---
 
 Tienes [BOSS Hombre Taber BC-p Vaqueros Tapered Not Applicable  Negro  Black 008   W32/L30  Talla del Fabricante: 3230 ](https://www.amazon.es/dp/B07C9K8FQN/?tag=tolees-21) con un 53.30 % de descuento con precio de oferta de 55.57 EUR (original: 119 EUR) en el siguiente enlace!

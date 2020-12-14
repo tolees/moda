@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00X2KZP2S/?tag=tolees-21'
 descuento: '63.29'
+average: '10.26'
 ---
 
 Está [DC Shoes Numbers Camiseta  Hombre  Blanco  L](https://www.amazon.es/dp/B00X2KZP2S/?tag=tolees-21) con 63.29 de descuento por 10.26 EUR (original: 27.95 EUR) en el siguiente enlace!

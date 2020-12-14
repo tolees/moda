@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077GXD4MQ/?tag=tolees-21'
 descuento: '54.96'
+average: '11.71'
 ---
 
 Tienes [Under Armour UA Game Face SS T Camiseta de Manga Corta  Hombre  Blanco  100   XL](https://www.amazon.es/dp/B077GXD4MQ/?tag=tolees-21) con un 54.96 % de descuento con precio de oferta de 11.71 EUR (original: 26 EUR) en el siguiente enlace!

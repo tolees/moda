@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076T6XYQB/?tag=tolees-21'
 descuento: '29.41'
+average: '12'
 ---
 
 Está [MERAKI Camiseta Mujer de Tirantes  Pack de 2  Azul  Cashmere Blue/white   Medium](https://www.amazon.es/dp/B076T6XYQB/?tag=tolees-21) con 29.41 de descuento por 12 EUR (original: 17 EUR) en el siguiente enlace!

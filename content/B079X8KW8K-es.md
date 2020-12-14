@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079X8KW8K/?tag=tolees-21'
 descuento: '45.72'
+average: '21.71'
 ---
 
 Ahora mismo tienes [BOSS Athleisure Wave_thng_Digital  Chanclas para Hombre  Azul  Dark Blue 401   39/40 EU](https://www.amazon.es/dp/B079X8KW8K/?tag=tolees-21) a 21.71 EUR (original: 40 EUR) (45.72 %  de descuento) en el siguiente enlace!

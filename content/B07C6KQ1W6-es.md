@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07C6KQ1W6/?tag=tolees-21'
 descuento: '30.01'
+average: '14.69'
 ---
 
 Ahora mismo tienes [IRIS & LILLY Top de Bikini Estilo Boho Mujer  Negro  Nero   Large](https://www.amazon.es/dp/B07C6KQ1W6/?tag=tolees-21) a 14.69 EUR (original: 20.99 EUR) (30.01 %  de descuento) en el siguiente enlace!

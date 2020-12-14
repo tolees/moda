@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HFKFGLF/?tag=tolees-21'
 descuento: '40.06'
+average: '14.98'
 ---
 
 Está [Levi s Levis Frankenstein Boxer Brief 2p  Bóxer Hombre  Negro  Caviar 703   X-Large](https://www.amazon.es/dp/B07HFKFGLF/?tag=tolees-21) con 40.06 de descuento por 14.98 EUR (original: 24.99 EUR) en el siguiente enlace!

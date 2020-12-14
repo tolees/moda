@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FTS9F15/?tag=tolees-21'
 descuento: '77.02'
+average: '22.97'
 ---
 
 Está [Lee Morton Vaqueros Rectos  Azul  Spritz Is   W32/L36 para Hombre](https://www.amazon.es/dp/B07FTS9F15/?tag=tolees-21) con 77.02 de descuento por 22.97 EUR (original: 99.95 EUR) en el siguiente enlace!

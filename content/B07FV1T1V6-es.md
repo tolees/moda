@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FV1T1V6/?tag=tolees-21'
 descuento: '83.60'
+average: '14.75'
 ---
 
 Tienes [Lee Marion Vaqueros Straight  Azul  Rinse 36   W30/L33 para Mujer](https://www.amazon.es/dp/B07FV1T1V6/?tag=tolees-21) con un 83.60 % de descuento con precio de oferta de 14.75 EUR (original: 89.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07L1DHKCZ/?tag=tolees-21'
 descuento: '75.93'
+average: '7.22'
 ---
 
 Ahora mismo tienes [JACK & JONES Jorcolby Shirt LS Camisa   Cloud Dancer Fit:Slim   Small para Hombre](https://www.amazon.es/dp/B07L1DHKCZ/?tag=tolees-21) a 7.22 EUR (original: 29.99 EUR) (75.93 %  de descuento) en el siguiente enlace!

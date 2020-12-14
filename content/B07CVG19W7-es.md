@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CVG19W7/?tag=tolees-21'
 descuento: '74.32'
+average: '13.61'
 ---
 
 Tienes [Conguitos Piel  Zapatos de Cordones Brogue Unisex niño  Marrón  Visón 277   24 EU](https://www.amazon.es/dp/B07CVG19W7/?tag=tolees-21) con un 74.32 % de descuento con precio de oferta de 13.61 EUR (original: 53 EUR) en el siguiente enlace!

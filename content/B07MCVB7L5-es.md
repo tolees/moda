@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MCVB7L5/?tag=tolees-21'
 descuento: '38.18'
+average: '15.45'
 ---
 
 Está [Levi s Levis 200SF CALEIDOSCOPE Boxer Brief 2P  Culotte para Hombre  Bleu  Blue 056   Large Pack de 2](https://www.amazon.es/dp/B07MCVB7L5/?tag=tolees-21) con 38.18 de descuento por 15.45 EUR (original: 24.99 EUR) en el siguiente enlace!

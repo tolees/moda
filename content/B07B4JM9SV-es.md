@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07B4JM9SV/?tag=tolees-21'
 descuento: '34.99'
+average: '19.47'
 ---
 
 Ahora mismo tienes [G-Star 07 R T S/s  Camiseta para Hombre  Azul  Sartho Blue 6067  Small](https://www.amazon.es/dp/B07B4JM9SV/?tag=tolees-21) a 19.47 EUR (original: 29.95 EUR) (34.99 %  de descuento) en el siguiente enlace!

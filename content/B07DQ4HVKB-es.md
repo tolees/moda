@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DQ4HVKB/?tag=tolees-21'
 descuento: '62.79'
+average: '37.21'
 ---
 
 Ahora mismo tienes [Burton Elodie Chaqueta de Snowboard  Niñas   Flowers   L](https://www.amazon.es/dp/B07DQ4HVKB/?tag=tolees-21) a 37.21 EUR (original: 100 EUR) (62.79 %  de descuento) en el siguiente enlace!

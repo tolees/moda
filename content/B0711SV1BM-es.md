@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0711SV1BM/?tag=tolees-21'
 descuento: '26.23'
+average: '66.39'
 ---
 
 Está [Under Armour Men s Rocket 3 Basketball Shoes  Zapatos de Baloncesto para Hombre  Negro  Black 005   42.5 EU](https://www.amazon.es/dp/B0711SV1BM/?tag=tolees-21) con 26.23 de descuento por 66.39 EUR (original: 90 EUR) en el siguiente enlace!

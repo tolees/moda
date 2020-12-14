@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077VXM67T/?tag=tolees-21'
 descuento: '44.76'
+average: '46.95'
 ---
 
 Tienes [Nike Fútbol Club Barcelona Camiseta  Hombre  Azul/Rojo  L](https://www.amazon.es/dp/B077VXM67T/?tag=tolees-21) con un 44.76 % de descuento con precio de oferta de 46.95 EUR (original: 85 EUR) en el siguiente enlace!

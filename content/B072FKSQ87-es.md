@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072FKSQ87/?tag=tolees-21'
 descuento: '53.53'
+average: '13.94'
 ---
 
 Tienes [Levi s Graphic Set-in Neck  Camiseta para Hombre  Azul  Bi Sporty Levis Dark Blue Tri Blend 324   XL](https://www.amazon.es/dp/B072FKSQ87/?tag=tolees-21) con un 53.53 % de descuento con precio de oferta de 13.94 EUR (original: 30 EUR) en el siguiente enlace!

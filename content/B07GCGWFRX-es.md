@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GCGWFRX/?tag=tolees-21'
 descuento: '73.54'
+average: '15.61'
 ---
 
 Está [El Ganso Crinche Flannel Camisa Casual  Hombre   Marino/Azul 1   Small  Tamaño del Fabricante:S ](https://www.amazon.es/dp/B07GCGWFRX/?tag=tolees-21) con 73.54 de descuento por 15.61 EUR (original: 59 EUR) en el siguiente enlace!

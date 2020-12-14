@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KKX15F7/?tag=tolees-21'
 descuento: '46.80'
+average: '13.3'
 ---
 
 Ahora mismo tienes [Nike M Breathe Academy SS Gx2 Camiseta  Hombre  Rojo  Ember Glow/Black   S](https://www.amazon.es/dp/B07KKX15F7/?tag=tolees-21) a 13.3 EUR (original: 25 EUR) (46.80 %  de descuento) en el siguiente enlace!

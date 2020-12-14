@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KPRTGGB/?tag=tolees-21'
 descuento: '79.73'
+average: '16.62'
 ---
 
 Está [Lili Gaufrette Gn30052 302 Dress  Vestido para Niñas  Rosa  Blush   5 años  Talla del Fabricante: 5A ](https://www.amazon.es/dp/B07KPRTGGB/?tag=tolees-21) con 79.73 de descuento por 16.62 EUR (original: 82 EUR) en el siguiente enlace!

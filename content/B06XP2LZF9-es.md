@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XP2LZF9/?tag=tolees-21'
 descuento: '53.01'
+average: '3.9'
 ---
 
 Ahora mismo tienes [oodji Ultra Mujer Camiseta Ancha de Algodón  Verde  ES 34 / XXS](https://www.amazon.es/dp/B06XP2LZF9/?tag=tolees-21) a 3.9 EUR (original: 8.3 EUR) (53.01 %  de descuento) en el siguiente enlace!

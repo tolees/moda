@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075V7DY7B/?tag=tolees-21'
 descuento: '59.64'
+average: '5.65'
 ---
 
 Ahora mismo tienes [Activewear Camiseta de Deporte Mujer  Azul  Navy   38  Talla del Fabricante: Small ](https://www.amazon.es/dp/B075V7DY7B/?tag=tolees-21) a 5.65 EUR (original: 14 EUR) (59.64 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074NB8L6H/?tag=tolees-21'
 descuento: '60.38'
+average: '23.77'
 ---
 
 Está [edc by Esprit 107cc1b008  Vaqueros Skinny Mujer  Gris  Grey Dark Wash 921   W28/L32](https://www.amazon.es/dp/B074NB8L6H/?tag=tolees-21) con 60.38 de descuento por 23.77 EUR (original: 59.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07LBLLP5N/?tag=tolees-21'
 descuento: '31.21'
+average: '19.95'
 ---
 
 Tienes [Tommy Jeans TJM Circle Graphic tee Camiseta  Gris  Lt Grey Htr 038   L para Hombre](https://www.amazon.es/dp/B07LBLLP5N/?tag=tolees-21) con un 31.21 % de descuento con precio de oferta de 19.95 EUR (original: 29 EUR) en el siguiente enlace!

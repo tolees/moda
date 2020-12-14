@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HFNJBMS/?tag=tolees-21'
 descuento: '36.11'
+average: '51.05'
 ---
 
 Está [Tommy Hilfiger Solid Texture Badge LS Reg Polo  Camisa Manga Larga Hombre  Blanco  Bright White 100   Small](https://www.amazon.es/dp/B07HFNJBMS/?tag=tolees-21) con 36.11 de descuento por 51.05 EUR (original: 79.9 EUR) en el siguiente enlace!

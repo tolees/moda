@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D9BZMBW/?tag=tolees-21'
 descuento: '60.36'
+average: '19.8'
 ---
 
 Está [XTI 48495  Botines para Mujer  Negro  Black   40 EU](https://www.amazon.es/dp/B07D9BZMBW/?tag=tolees-21) con 60.36 de descuento por 19.8 EUR (original: 49.95 EUR) en el siguiente enlace!

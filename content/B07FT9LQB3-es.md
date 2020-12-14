@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FT9LQB3/?tag=tolees-21'
 descuento: '69.67'
+average: '18.18'
 ---
 
 Está [Lee Button Down Camisa  Marfil  Bright Red EF   X-Large para Hombre](https://www.amazon.es/dp/B07FT9LQB3/?tag=tolees-21) con 69.67 de descuento por 18.18 EUR (original: 59.95 EUR) en el siguiente enlace!

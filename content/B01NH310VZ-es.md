@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01NH310VZ/?tag=tolees-21'
 descuento: '46.03'
+average: '32.38'
 ---
 
 Ahora mismo tienes [Under Armour AF Graphic Po Sudadera  Hombre  Azul  2XL](https://www.amazon.es/dp/B01NH310VZ/?tag=tolees-21) a 32.38 EUR (original: 60 EUR) (46.03 %  de descuento) en el siguiente enlace!

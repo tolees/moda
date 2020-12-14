@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07B4SH3DK/?tag=tolees-21'
 descuento: '60.14'
+average: '13.95'
 ---
 
 Ahora mismo tienes [G-Star Tairi R T S/s  Camiseta para Hombre   Dark Black  Medium](https://www.amazon.es/dp/B07B4SH3DK/?tag=tolees-21) a 13.95 EUR (original: 35 EUR) (60.14 %  de descuento) en el siguiente enlace!

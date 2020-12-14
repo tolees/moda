@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078GPSXZD/?tag=tolees-21'
 descuento: '71.38'
+average: '28.33'
 ---
 
 Tienes [HUGO Men Eynold  Camisa Hombre  Blanco  Open White 199   X-Large](https://www.amazon.es/dp/B078GPSXZD/?tag=tolees-21) con un 71.38 % de descuento con precio de oferta de 28.33 EUR (original: 99 EUR) en el siguiente enlace!

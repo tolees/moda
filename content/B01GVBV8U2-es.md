@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01GVBV8U2/?tag=tolees-21'
 descuento: '77.69'
+average: '2.7'
 ---
 
 Ahora mismo tienes [oodji Ultra Mujer Sujetador Bikini con Lazo  Turquesa  80B / 36B](https://www.amazon.es/dp/B01GVBV8U2/?tag=tolees-21) a 2.7 EUR (original: 12.1 EUR) (77.69 %  de descuento) en el siguiente enlace!

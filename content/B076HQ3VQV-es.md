@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076HQ3VQV/?tag=tolees-21'
 descuento: '28.55'
+average: '24.98'
 ---
 
 Está [adidas BQ6515 Chaqueta  Hombre  Blanco/Negro  S](https://www.amazon.es/dp/B076HQ3VQV/?tag=tolees-21) con 28.55 de descuento por 24.98 EUR (original: 34.96 EUR) en el siguiente enlace!

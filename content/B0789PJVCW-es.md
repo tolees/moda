@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0789PJVCW/?tag=tolees-21'
 descuento: '47.30'
+average: '18.96'
 ---
 
 Tienes [NOVECASA Chaleco Sauna con Cremallera Hombre Sauna Vest Zipper Compresion de Neopreno Modelador Camiseta Reductora para Adelgazante Sudoración Musculación  4XL Cintura 112-121CM   Chaleco Negro ](https://www.amazon.es/dp/B0789PJVCW/?tag=tolees-21) con un 47.30 % de descuento con precio de oferta de 18.96 EUR (original: 35.98 EUR) en el siguiente enlace!

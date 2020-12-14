@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KSQ9SCZ/?tag=tolees-21'
 descuento: '44.67'
+average: '35.96'
 ---
 
 Está [Columbia Silver Ridge II Camisa de Manga Larga  Hombre  Verde  Cypress   L](https://www.amazon.es/dp/B07KSQ9SCZ/?tag=tolees-21) con 44.67 de descuento por 35.96 EUR (original: 64.99 EUR) en el siguiente enlace!

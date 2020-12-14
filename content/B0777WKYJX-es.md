@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0777WKYJX/?tag=tolees-21'
 descuento: '45.73'
+average: '7.05'
 ---
 
 Tienes [JACK & JONES Jacgraffiti Trunks Noos Bóxer  Black  Small para Hombre](https://www.amazon.es/dp/B0777WKYJX/?tag=tolees-21) con un 45.73 % de descuento con precio de oferta de 7.05 EUR (original: 12.99 EUR) en el siguiente enlace!

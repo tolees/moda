@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075DGBNPG/?tag=tolees-21'
 descuento: '62.04'
+average: '60.74'
 ---
 
 Tienes [Burton Sadie Chaqueta  Mujer  Negro  True   XL](https://www.amazon.es/dp/B075DGBNPG/?tag=tolees-21) con un 62.04 % de descuento con precio de oferta de 60.74 EUR (original: 160 EUR) en el siguiente enlace!

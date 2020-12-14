@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0077YEZTO/?tag=tolees-21'
 descuento: '62.53'
+average: '24.35'
 ---
 
 Ahora mismo tienes [Columbia Silver Ridge Pant Pantalón de Senderismo para Mujer  Gris  Grill   W42/S](https://www.amazon.es/dp/B0077YEZTO/?tag=tolees-21) a 24.35 EUR (original: 64.99 EUR) (62.53 %  de descuento) en el siguiente enlace!

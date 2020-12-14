@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XWVCX9H/?tag=tolees-21'
 descuento: '56.91'
+average: '38.35'
 ---
 
 Tienes [Calvin Klein Habas Cn Hknit L/s  Sudadera para Hombre  Gris  Mid Grey Heather  XX-Large](https://www.amazon.es/dp/B06XWVCX9H/?tag=tolees-21) con un 56.91 % de descuento con precio de oferta de 38.35 EUR (original: 89 EUR) en el siguiente enlace!

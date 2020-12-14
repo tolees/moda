@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00U0UNG0Q/?tag=tolees-21'
 descuento: '42.23'
+average: '43.33'
 ---
 
 Tienes [The North Face Horizon Convertible Pantalón  Hombre  Weimaraner Brown  Regular 32](https://www.amazon.es/dp/B00U0UNG0Q/?tag=tolees-21) con un 42.23 % de descuento con precio de oferta de 43.33 EUR (original: 75 EUR) en el siguiente enlace!

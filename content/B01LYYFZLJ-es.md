@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01LYYFZLJ/?tag=tolees-21'
 descuento: '29.44'
+average: '23.99'
 ---
 
 Está [Hombre Zapatos Casuales Amortiguadores Zapatilla Deportiva Ligero Caminar Gimnasio Corriendo Malla Ligero Deporte Entrenadores 44 EU 9 UK Negro ](https://www.amazon.es/dp/B01LYYFZLJ/?tag=tolees-21) con 29.44 de descuento por 23.99 EUR (original: 34 EUR) en el siguiente enlace!

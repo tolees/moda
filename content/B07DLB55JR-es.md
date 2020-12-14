@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DLB55JR/?tag=tolees-21'
 descuento: '53.88'
+average: '12.91'
 ---
 
 Ahora mismo tienes [Women s Secret D1 Indigo Sello PJ FR Conjuntos de Pijama  Azul 12  Medium  Tamaño del Fabricante:M  para Mujer](https://www.amazon.es/dp/B07DLB55JR/?tag=tolees-21) a 12.91 EUR (original: 27.99 EUR) (53.88 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00LMI4WQW/?tag=tolees-21'
 descuento: '42.84'
+average: '13.14'
 ---
 
 Está [Quiksilver - Sandalias - Hombre - EU 47 - Negro](https://www.amazon.es/dp/B00LMI4WQW/?tag=tolees-21) con 42.84 de descuento por 13.14 EUR (original: 22.99 EUR) en el siguiente enlace!

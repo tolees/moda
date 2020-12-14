@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DLLJ5R9/?tag=tolees-21'
 descuento: '59.39'
+average: '28.43'
 ---
 
 Tienes [Burton Oak Full-Zip Sudadera  Hombre  Negro  True Heather   XS](https://www.amazon.es/dp/B07DLLJ5R9/?tag=tolees-21) con un 59.39 % de descuento con precio de oferta de 28.43 EUR (original: 70 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00N3TGY6O/?tag=tolees-21'
 descuento: '29.98'
+average: '19.57'
 ---
 
 Tienes [Lower East Camiseta Manga Corta Hombre  Pack de 5  Azul oscuro  M](https://www.amazon.es/dp/B00N3TGY6O/?tag=tolees-21) con un 29.98 % de descuento con precio de oferta de 19.57 EUR (original: 27.95 EUR) en el siguiente enlace!

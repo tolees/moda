@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073RGL4YR/?tag=tolees-21'
 descuento: '80.35'
+average: '7.86'
 ---
 
 Ahora mismo tienes [Only Onlmeredith Highneck L/s Dress Knt Noos  Vestido Mujer  Blanco  White Detail:w. Melange   40  Talla del Fabricante: Large ](https://www.amazon.es/dp/B073RGL4YR/?tag=tolees-21) a 7.86 EUR (original: 39.99 EUR) (80.35 %  de descuento) en el siguiente enlace!

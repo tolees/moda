@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F2M1LBZ/?tag=tolees-21'
 descuento: '26.80'
+average: '51.24'
 ---
 
 Está [Helly Hansen Hh Logo Hoodie  Sudadera para Hombre  Verde  Verde 471   X-Large](https://www.amazon.es/dp/B07F2M1LBZ/?tag=tolees-21) con 26.80 de descuento por 51.24 EUR (original: 70 EUR) en el siguiente enlace!

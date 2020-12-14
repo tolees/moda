@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078SY3GJ4/?tag=tolees-21'
 descuento: '65.42'
+average: '22.48'
 ---
 
 Está [Timberland Newport Bay  Zapatos de Cordones Oxford para Hombre  Azul  Nebulas Blue Canvas J45   41.5 EU](https://www.amazon.es/dp/B078SY3GJ4/?tag=tolees-21) con 65.42 de descuento por 22.48 EUR (original: 65 EUR) en el siguiente enlace!

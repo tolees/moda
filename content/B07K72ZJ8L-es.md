@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07K72ZJ8L/?tag=tolees-21'
 descuento: '57.94'
+average: '46.27'
 ---
 
 Tienes [Levi s 511 Slim Fit  Vaqueros para Hombre  Azul  Dublin Adv 3311  W33/L32](https://www.amazon.es/dp/B07K72ZJ8L/?tag=tolees-21) con un 57.94 % de descuento con precio de oferta de 46.27 EUR (original: 110 EUR) en el siguiente enlace!

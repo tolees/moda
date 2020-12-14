@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00KW48AWE/?tag=tolees-21'
 descuento: '44.05'
+average: '258.49'
 ---
 
 Tienes [Fendi FF 0041/S VQ 9F6 Gafas de Sol  Rosa  Trpch PLD Pink Multilayer   52 para Mujer](https://www.amazon.es/dp/B00KW48AWE/?tag=tolees-21) con un 44.05 % de descuento con precio de oferta de 258.49 EUR (original: 462 EUR) en el siguiente enlace!

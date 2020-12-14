@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079C7C8LC/?tag=tolees-21'
 descuento: '46.96'
+average: '7.95'
 ---
 
 Está [Jack & Jones  Jjebasic Polo SS Noos - Camiseta para Hombre  Rosa  Misty Rose   Talla XL](https://www.amazon.es/dp/B079C7C8LC/?tag=tolees-21) con 46.96 de descuento por 7.95 EUR (original: 14.99 EUR) en el siguiente enlace!

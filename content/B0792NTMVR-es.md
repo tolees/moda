@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0792NTMVR/?tag=tolees-21'
 descuento: '50.00'
+average: '92.5'
 ---
 
 Tienes [Geox D Felicity C  Botas Altas para Mujer  Marrón  Brown C0013   40 EU](https://www.amazon.es/dp/B0792NTMVR/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 92.5 EUR (original: 185 EUR) en el siguiente enlace!

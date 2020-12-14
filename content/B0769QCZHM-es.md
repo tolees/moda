@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0769QCZHM/?tag=tolees-21'
 descuento: '61.82'
+average: '3.78'
 ---
 
 Está [Speedo Jet Junior Gafas de natación  Unisex niños  Turquesa/Rojo Lava  One Size](https://www.amazon.es/dp/B0769QCZHM/?tag=tolees-21) con 61.82 de descuento por 3.78 EUR (original: 9.9 EUR) en el siguiente enlace!

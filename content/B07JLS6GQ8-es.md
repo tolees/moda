@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JLS6GQ8/?tag=tolees-21'
 descuento: '63.73'
+average: '14.49'
 ---
 
 Tienes [XTI 32032  Zapatos con Tira de Tobillo para Mujer  Rosa Nude  39 EU](https://www.amazon.es/dp/B07JLS6GQ8/?tag=tolees-21) con un 63.73 % de descuento con precio de oferta de 14.49 EUR (original: 39.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F7N9CV2/?tag=tolees-21'
 descuento: '74.29'
+average: '115.46'
 ---
 
 Está [Tommy Hilfiger Wool Jersey Duffle  Abrigo para Hombre  Azul  Sky Captain 403   Small](https://www.amazon.es/dp/B07F7N9CV2/?tag=tolees-21) con 74.29 de descuento por 115.46 EUR (original: 449 EUR) en el siguiente enlace!

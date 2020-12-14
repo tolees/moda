@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XPG63PC/?tag=tolees-21'
 descuento: '44.71'
+average: '20.43'
 ---
 
 Tienes [Desigual Vest_olaya  Vestido para Bebés  Rosa  Fucsia 3002  56  Talla del Fabricante: 3 ](https://www.amazon.es/dp/B06XPG63PC/?tag=tolees-21) con un 44.71 % de descuento con precio de oferta de 20.43 EUR (original: 36.95 EUR) en el siguiente enlace!

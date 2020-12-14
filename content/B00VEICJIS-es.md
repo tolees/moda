@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00VEICJIS/?tag=tolees-21'
 descuento: '40.00'
+average: '87'
 ---
 
 Tienes [Camper Pelotas 29164-065 Zapatos Planos Mujer 36](https://www.amazon.es/dp/B00VEICJIS/?tag=tolees-21) con un 40.00 % de descuento con precio de oferta de 87 EUR (original: 145 EUR) en el siguiente enlace!

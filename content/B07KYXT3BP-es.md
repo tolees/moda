@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KYXT3BP/?tag=tolees-21'
 descuento: '55.59'
+average: '7.99'
 ---
 
 Está [Springfield 3.T.Ap.Plana Frontal Print Pañuelo Camiseta   Gama Azules 19   Large  Tamaño del Fabricante:L  para Mujer](https://www.amazon.es/dp/B07KYXT3BP/?tag=tolees-21) con 55.59 de descuento por 7.99 EUR (original: 17.99 EUR) en el siguiente enlace!

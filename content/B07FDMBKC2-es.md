@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FDMBKC2/?tag=tolees-21'
 descuento: '58.85'
+average: '5.74'
 ---
 
 Tienes [Spiderman 5973 Camiseta  Negro Noir  6 años para Niños](https://www.amazon.es/dp/B07FDMBKC2/?tag=tolees-21) con un 58.85 % de descuento con precio de oferta de 5.74 EUR (original: 13.95 EUR) en el siguiente enlace!

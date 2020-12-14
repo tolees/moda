@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0768GFQJ1/?tag=tolees-21'
 descuento: '74.59'
+average: '7.62'
 ---
 
 Está [Springfield Jersey Jacquard Chenilla  Rosa  Pink   Small  Tamaño del Fabricante:S  para Mujer](https://www.amazon.es/dp/B0768GFQJ1/?tag=tolees-21) con 74.59 de descuento por 7.62 EUR (original: 29.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075YDGKKB/?tag=tolees-21'
 descuento: '54.12'
+average: '71.11'
 ---
 
 Tienes [Liu Jo Lj684S 218 55  Gafas de sol para Mujer  Blonde Tortoise](https://www.amazon.es/dp/B075YDGKKB/?tag=tolees-21) con un 54.12 % de descuento con precio de oferta de 71.11 EUR (original: 155 EUR) en el siguiente enlace!

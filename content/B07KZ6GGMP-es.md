@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KZ6GGMP/?tag=tolees-21'
 descuento: '69.91'
+average: '15.04'
 ---
 
 Está [Cortefiel C7Ck Popelin Peach Vichy  Camisa Casual para Hombre   Azul Marino 10   XX-Large  Tamaño del Fabricante:XXL ](https://www.amazon.es/dp/B07KZ6GGMP/?tag=tolees-21) con 69.91 de descuento por 15.04 EUR (original: 49.99 EUR) en el siguiente enlace!

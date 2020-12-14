@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078WJ7GCF/?tag=tolees-21'
 descuento: '63.60'
+average: '23.66'
 ---
 
 Está [BILLABONG Essential Zh Sudadera con Capucha  Mujer   Mineral Verde 2897   X/Small](https://www.amazon.es/dp/B078WJ7GCF/?tag=tolees-21) con 63.60 de descuento por 23.66 EUR (original: 65 EUR) en el siguiente enlace!

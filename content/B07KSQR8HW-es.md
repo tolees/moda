@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KSQR8HW/?tag=tolees-21'
 descuento: '48.97'
+average: '45.92'
 ---
 
 Tienes [Columbia Triple Canyon Pantalón Convertible  Poliéster  Hombre  Verde  Cypress   Talla US: W34/L32/  EU W44/L32 ](https://www.amazon.es/dp/B07KSQR8HW/?tag=tolees-21) con un 48.97 % de descuento con precio de oferta de 45.92 EUR (original: 89.99 EUR) en el siguiente enlace!

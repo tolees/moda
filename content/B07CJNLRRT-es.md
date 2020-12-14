@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CJNLRRT/?tag=tolees-21'
 descuento: '74.31'
+average: '22.86'
 ---
 
 Está [REPLAY M4972b.000.52044  Camisa para Hombre   White/Light Blue Stripe 10  Small](https://www.amazon.es/dp/B07CJNLRRT/?tag=tolees-21) con 74.31 de descuento por 22.86 EUR (original: 89 EUR) en el siguiente enlace!

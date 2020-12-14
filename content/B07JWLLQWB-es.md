@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JWLLQWB/?tag=tolees-21'
 descuento: '44.56'
+average: '38.81'
 ---
 
 Está [Lacoste Sport Sj2903 Sudadera con Capucha  Gris  Bitume/Marine 5ny   4 años  Talla del Fabricante: 4A  para Niños](https://www.amazon.es/dp/B07JWLLQWB/?tag=tolees-21) con 44.56 de descuento por 38.81 EUR (original: 70 EUR) en el siguiente enlace!

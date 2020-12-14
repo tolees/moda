@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078H6JTCD/?tag=tolees-21'
 descuento: '69.71'
+average: '7.86'
 ---
 
 Tienes [Trucco TT15AP1 Camiseta  Mujer  Verde  Verde Oscuro   Small  Tamaño del Fabricante:S ](https://www.amazon.es/dp/B078H6JTCD/?tag=tolees-21) con un 69.71 % de descuento con precio de oferta de 7.86 EUR (original: 25.95 EUR) en el siguiente enlace!

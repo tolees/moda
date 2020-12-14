@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JNR3TFT/?tag=tolees-21'
 descuento: '75.73'
+average: '14.56'
 ---
 
 Está [Guess SS Cn Sally tee  Camiseta de Tirantes para Mujer  Rojo  Rhubarb G501   Medium](https://www.amazon.es/dp/B07JNR3TFT/?tag=tolees-21) con 75.73 de descuento por 14.56 EUR (original: 60 EUR) en el siguiente enlace!

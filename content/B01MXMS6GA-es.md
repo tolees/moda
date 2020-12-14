@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MXMS6GA/?tag=tolees-21'
 descuento: '25.06'
+average: '14.95'
 ---
 
 Está [Puma Popcat  Zapatos de Playa y Piscina Unisex Adulto  Negro Black-White 10  48.5 EU](https://www.amazon.es/dp/B01MXMS6GA/?tag=tolees-21) con 25.06 de descuento por 14.95 EUR (original: 19.95 EUR) en el siguiente enlace!

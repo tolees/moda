@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D969ZKW/?tag=tolees-21'
 descuento: '63.78'
+average: '18.09'
 ---
 
 Está [XTI 30956  Zapatos de tacón con Punta Cerrada para Mujer  Negro  Black   39 EU](https://www.amazon.es/dp/B07D969ZKW/?tag=tolees-21) con 63.78 de descuento por 18.09 EUR (original: 49.95 EUR) en el siguiente enlace!

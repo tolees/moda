@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00ZCK475M/?tag=tolees-21'
 descuento: '87.90'
+average: '18.61'
 ---
 
 Está [Hot Squash Sequin  Vestido Mujer  Oro  Gold   40  Talla fabricante: 12 ](https://www.amazon.es/dp/B00ZCK475M/?tag=tolees-21) con 87.90 de descuento por 18.61 EUR (original: 153.77 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01FIK4F7U/?tag=tolees-21'
 descuento: '76.70'
+average: '13.97'
 ---
 
 Tienes [ICHI Vestido Negro M](https://www.amazon.es/dp/B01FIK4F7U/?tag=tolees-21) con un 76.70 % de descuento con precio de oferta de 13.97 EUR (original: 59.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01KPWP980/?tag=tolees-21'
 descuento: '83.77'
+average: '19.48'
 ---
 
 Tienes [ONLY onlBARBARA PARKA JACKET OTW  Chaqueta Mujer  Gris  Peat   38  Talla del fabricante: Medium ](https://www.amazon.es/dp/B01KPWP980/?tag=tolees-21) con un 83.77 % de descuento con precio de oferta de 19.48 EUR (original: 119.99 EUR) en el siguiente enlace!

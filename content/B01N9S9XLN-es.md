@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N9S9XLN/?tag=tolees-21'
 descuento: '44.77'
+average: '20'
 ---
 
 Está [Urban Classics Light Jacket  Chaqueta Bomber para Hombre  Gris  Darkgrey 94   XXL](https://www.amazon.es/dp/B01N9S9XLN/?tag=tolees-21) con 44.77 de descuento por 20 EUR (original: 36.21 EUR) en el siguiente enlace!

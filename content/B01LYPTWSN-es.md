@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01LYPTWSN/?tag=tolees-21'
 descuento: '79.94'
+average: '8.02'
 ---
 
 Está [VERO MODA VMGLORY MAYWOOD LS BLOUSE  suéter Mujer  Multicolor  Light Grey Melange   38  Talla del fabricante: Medium ](https://www.amazon.es/dp/B01LYPTWSN/?tag=tolees-21) con 79.94 de descuento por 8.02 EUR (original: 39.99 EUR) en el siguiente enlace!

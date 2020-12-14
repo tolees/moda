@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KYQPMWC/?tag=tolees-21'
 descuento: '52.66'
+average: '6.15'
 ---
 
 Está [Springfield 690 Naming SPF Org Tricol Camiseta   Gama Azules 12   Medium  Tamaño del Fabricante:M  para Hombre](https://www.amazon.es/dp/B07KYQPMWC/?tag=tolees-21) con 52.66 de descuento por 6.15 EUR (original: 12.99 EUR) en el siguiente enlace!

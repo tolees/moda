@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KYQTVS6/?tag=tolees-21'
 descuento: '43.21'
+average: '14.76'
 ---
 
 Está [Springfield 4 90 Gingham Check Mel Camisa Casual  Gama Azules 11  Medium  Tamaño del Fabricante:M  para Hombre](https://www.amazon.es/dp/B07KYQTVS6/?tag=tolees-21) con 43.21 de descuento por 14.76 EUR (original: 25.99 EUR) en el siguiente enlace!

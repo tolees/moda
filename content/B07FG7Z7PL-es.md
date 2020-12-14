@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FG7Z7PL/?tag=tolees-21'
 descuento: '30.08'
+average: '13.95'
 ---
 
 Tienes [Ipanema Anat Temas VIII Fem  Chanclas para Mujer  Black/Pink 8647  35/36 EU](https://www.amazon.es/dp/B07FG7Z7PL/?tag=tolees-21) con un 30.08 % de descuento con precio de oferta de 13.95 EUR (original: 19.95 EUR) en el siguiente enlace!

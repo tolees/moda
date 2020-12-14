@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076S6LNVS/?tag=tolees-21'
 descuento: '71.82'
+average: '8.45'
 ---
 
 Está [Springfield Camisa Cuadros Camisa Casual  Hombre  Verde  Greens   X-Large  Tamaño del Fabricante:XL ](https://www.amazon.es/dp/B076S6LNVS/?tag=tolees-21) con 71.82 de descuento por 8.45 EUR (original: 29.99 EUR) en el siguiente enlace!

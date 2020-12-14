@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JC35T6X/?tag=tolees-21'
 descuento: '40.00'
+average: '17.97'
 ---
 
 Tienes [G-STAR RAW Graphic 2 Camiseta  Verde  lt Aquamarine htr A293   X-Small para Hombre](https://www.amazon.es/dp/B07JC35T6X/?tag=tolees-21) con un 40.00 % de descuento con precio de oferta de 17.97 EUR (original: 29.95 EUR) en el siguiente enlace!

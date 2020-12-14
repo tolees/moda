@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BNJCPVW/?tag=tolees-21'
 descuento: '63.11'
+average: '26.67'
 ---
 
 Está [ASICS - Camiseta sin Costuras para Mujer  Mujer  Color Performance Black Heather  tamaño XS](https://www.amazon.es/dp/B07BNJCPVW/?tag=tolees-21) con 63.11 de descuento por 26.67 EUR (original: 72.3 EUR) en el siguiente enlace!

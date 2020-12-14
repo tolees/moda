@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07H65TJYM/?tag=tolees-21'
 descuento: '36.92'
+average: '25.2'
 ---
 
 Tienes [Skechers Vinyasa-Glass Star  Sandalias de Punta Descubierta para Mujer  Beige  Taupe TPE   37 EU](https://www.amazon.es/dp/B07H65TJYM/?tag=tolees-21) con un 36.92 % de descuento con precio de oferta de 25.2 EUR (original: 39.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XWBRRRN/?tag=tolees-21'
 descuento: '74.83'
+average: '15.1'
 ---
 
 Tienes [Pepe Jeans Ryan PM581118  Sudadera para Hombre  Morado  Odissey Grey 973  Medium](https://www.amazon.es/dp/B06XWBRRRN/?tag=tolees-21) con un 74.83 % de descuento con precio de oferta de 15.1 EUR (original: 60 EUR) en el siguiente enlace!

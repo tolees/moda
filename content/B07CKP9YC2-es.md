@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CKP9YC2/?tag=tolees-21'
 descuento: '47.47'
+average: '57.78'
 ---
 
 Tienes [Levi s 511 Slim Fit  Vaqueros para Hombre  Azul  Sun Fade 2153   32W / 32L](https://www.amazon.es/dp/B07CKP9YC2/?tag=tolees-21) con un 47.47 % de descuento con precio de oferta de 57.78 EUR (original: 110 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07T14LVS7/?tag=tolees-21'
 descuento: '50.13'
+average: '1.99'
 ---
 
 Está [Sandalias Mujer Verano 2019 SHOBDW Zapatillas En Oferta Chanclas Mujer Sandalias con Chanclas Sexy para El Verano Bohemian Muffin Slope con Sandalias Oro EU38 ](https://www.amazon.es/dp/B07T14LVS7/?tag=tolees-21) con 50.13 de descuento por 1.99 EUR (original: 3.99 EUR) en el siguiente enlace!

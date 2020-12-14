@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071G3GDF3/?tag=tolees-21'
 descuento: '82.58'
+average: '20.03'
 ---
 
 Ahora mismo tienes [Steve Madden Gaze  Botines para Mujer  Verde  Green 001   37 EU](https://www.amazon.es/dp/B071G3GDF3/?tag=tolees-21) a 20.03 EUR (original: 115 EUR) (82.58 %  de descuento) en el siguiente enlace!

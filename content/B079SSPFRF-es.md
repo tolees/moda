@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079SSPFRF/?tag=tolees-21'
 descuento: '60.75'
+average: '14.11'
 ---
 
 Está [Desigual TS_Joana  Camiseta para Niños    Rojo Sangre 3005  104  Talla del Fabricante: 3/4 ](https://www.amazon.es/dp/B079SSPFRF/?tag=tolees-21) con 60.75 de descuento por 14.11 EUR (original: 35.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B007ZY4UBY/?tag=tolees-21'
 descuento: '51.40'
+average: '53.46'
 ---
 
 Ahora mismo tienes [Levi s 511 Slim Fit  Vaqueros para Hombre  Azul  Rain Shower 0709   31W / 32L](https://www.amazon.es/dp/B007ZY4UBY/?tag=tolees-21) a 53.46 EUR (original: 110 EUR) (51.40 %  de descuento) en el siguiente enlace!

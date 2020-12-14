@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0754NMTV1/?tag=tolees-21'
 descuento: '48.48'
+average: '25.76'
 ---
 
 Ahora mismo tienes [Salomon Agile Falda  Mujer  Negro  S](https://www.amazon.es/dp/B0754NMTV1/?tag=tolees-21) a 25.76 EUR (original: 50 EUR) (48.48 %  de descuento) en el siguiente enlace!

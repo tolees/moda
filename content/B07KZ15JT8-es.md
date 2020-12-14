@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KZ15JT8/?tag=tolees-21'
 descuento: '72.02'
+average: '8.39'
 ---
 
 Tienes [Springfield 3Yl Classic Denim Pocket Camisa Casual  Hombre  Azul  Gama Azules 11   Small  Tamaño del Fabricante:S ](https://www.amazon.es/dp/B07KZ15JT8/?tag=tolees-21) con un 72.02 % de descuento con precio de oferta de 8.39 EUR (original: 29.99 EUR) en el siguiente enlace!

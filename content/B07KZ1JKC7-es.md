@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KZ1JKC7/?tag=tolees-21'
 descuento: '70.29'
+average: '6.83'
 ---
 
 Tienes [Springfield 6BA C S Diagonal Jersey   Gama Azules 11   Medium  Tamaño del Fabricante:M  para Hombre](https://www.amazon.es/dp/B07KZ1JKC7/?tag=tolees-21) con un 70.29 % de descuento con precio de oferta de 6.83 EUR (original: 22.99 EUR) en el siguiente enlace!

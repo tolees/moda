@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01H46RV9K/?tag=tolees-21'
 descuento: '86.66'
+average: '12.31'
 ---
 
 Ahora mismo tienes [Adrianna Papell Vestido Negro ES 38  UK 8 ](https://www.amazon.es/dp/B01H46RV9K/?tag=tolees-21) a 12.31 EUR (original: 92.31 EUR) (86.66 %  de descuento) en el siguiente enlace!

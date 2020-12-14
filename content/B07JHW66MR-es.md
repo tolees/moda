@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JHW66MR/?tag=tolees-21'
 descuento: '50.46'
+average: '22.66'
 ---
 
 Está [New Look Rizzo Colourblock  Chaqueta para Mujer  Rojo  Dark Burgundy 67  42  Talla del Fabricante: 14 ](https://www.amazon.es/dp/B07JHW66MR/?tag=tolees-21) con 50.46 de descuento por 22.66 EUR (original: 45.74 EUR) en el siguiente enlace!

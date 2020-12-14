@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071WCBDYK/?tag=tolees-21'
 descuento: '49.24'
+average: '30.45'
 ---
 
 Ahora mismo tienes [JACK & JONES Jjiliam Jjoriginal Am 502 Lid STS Vaqueros Skinny  Negro  Black Denim   W34/L32  Talla del Fabricante: 34  para Hombre](https://www.amazon.es/dp/B071WCBDYK/?tag=tolees-21) a 30.45 EUR (original: 59.99 EUR) (49.24 %  de descuento) en el siguiente enlace!

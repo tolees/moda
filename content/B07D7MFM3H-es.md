@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D7MFM3H/?tag=tolees-21'
 descuento: '52.66'
+average: '8.99'
 ---
 
 Ahora mismo tienes [FM London Racer Back  Camiseta Deportiva de Tirantes para Mujer  Negro  Black   36  Talla del Fabricante: X-Small   Pack de 2](https://www.amazon.es/dp/B07D7MFM3H/?tag=tolees-21) a 8.99 EUR (original: 18.99 EUR) (52.66 %  de descuento) en el siguiente enlace!

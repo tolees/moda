@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HH5GP9Y/?tag=tolees-21'
 descuento: '57.73'
+average: '59.14'
 ---
 
 Tienes [Tommy Jeans Mujer Regular Trucker Chaqueta vaquera Manga Larga Denim Azul  Us Idol 2 Md Bl Rg D 911  X-Small](https://www.amazon.es/dp/B07HH5GP9Y/?tag=tolees-21) con un 57.73 % de descuento con precio de oferta de 59.14 EUR (original: 139.9 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N7IS7KU/?tag=tolees-21'
 descuento: '40.37'
+average: '59.63'
 ---
 
 Tienes [The North Face Chaqueta Quest  Hombre  Urban Navy  S](https://www.amazon.es/dp/B01N7IS7KU/?tag=tolees-21) con un 40.37 % de descuento con precio de oferta de 59.63 EUR (original: 100 EUR) en el siguiente enlace!

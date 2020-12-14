@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CD9P1MH/?tag=tolees-21'
 descuento: '69.82'
+average: '41.95'
 ---
 
 Ahora mismo tienes [Replay Jondrill  Vaqueros Skinny para Hombre  Azul  Dark Blue Denim 10   W32/L30](https://www.amazon.es/dp/B07CD9P1MH/?tag=tolees-21) a 41.95 EUR (original: 139 EUR) (69.82 %  de descuento) en el siguiente enlace!

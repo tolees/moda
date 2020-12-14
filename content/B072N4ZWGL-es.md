@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072N4ZWGL/?tag=tolees-21'
 descuento: '45.26'
+average: '19.13'
 ---
 
 Está [BOSS Brief Signature Bóxer  Blanco  White 100   Medium para Hombre](https://www.amazon.es/dp/B072N4ZWGL/?tag=tolees-21) con 45.26 de descuento por 19.13 EUR (original: 34.95 EUR) en el siguiente enlace!

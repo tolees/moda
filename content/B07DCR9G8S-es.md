@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DCR9G8S/?tag=tolees-21'
 descuento: '60.02'
+average: '19.99'
 ---
 
 Tienes [LOSMILE Mujer Bolso de Mano Lona Bolso de Bandolera Bolsas de Playa Bolsa de Tela Bolsa de Hombro Bolsos Totes. Negro ](https://www.amazon.es/dp/B07DCR9G8S/?tag=tolees-21) con un 60.02 % de descuento con precio de oferta de 19.99 EUR (original: 50 EUR) en el siguiente enlace!

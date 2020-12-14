@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072LYCD77/?tag=tolees-21'
 descuento: '67.28'
+average: '15.38'
 ---
 
 Ahora mismo tienes [Pepa Loves Fruits Front Print Sweatshirt Brown Sudadera  Marrón  38  Tamaño del Fabricante:S  para Mujer](https://www.amazon.es/dp/B072LYCD77/?tag=tolees-21) a 15.38 EUR (original: 47 EUR) (67.28 %  de descuento) en el siguiente enlace!

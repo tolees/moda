@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07LD5Z2HJ/?tag=tolees-21'
 descuento: '62.98'
+average: '7.36'
 ---
 
 Ahora mismo tienes [New Look Burgundy Tile Print 6053063  Camisa para Hombre  Rojo  Dark 67   X-Large  Talla del Fabricante: 54 ](https://www.amazon.es/dp/B07LD5Z2HJ/?tag=tolees-21) a 7.36 EUR (original: 19.88 EUR) (62.98 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FP5NVXF/?tag=tolees-21'
 descuento: '53.07'
+average: '35.19'
 ---
 
 Tienes [Zapatos de Seguridad con Punta de Acero  Ligeros y Transpirables Zapatos de Entrenamiento prevención de pinchazos LM-112 （43 EU，Blanco y Negro）](https://www.amazon.es/dp/B07FP5NVXF/?tag=tolees-21) con un 53.07 % de descuento con precio de oferta de 35.19 EUR (original: 74.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075SGWMKL/?tag=tolees-21'
 descuento: '74.54'
+average: '14'
 ---
 
 Tienes [Springfield 8232482 Parka  Verde  Green   Tamaño del Fabricante:40 para Mujer](https://www.amazon.es/dp/B075SGWMKL/?tag=tolees-21) con un 74.54 % de descuento con precio de oferta de 14 EUR (original: 54.99 EUR) en el siguiente enlace!

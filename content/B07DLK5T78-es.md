@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DLK5T78/?tag=tolees-21'
 descuento: '61.21'
+average: '10.47'
 ---
 
 Tienes [Springfield 4.2.T.MD.Falda Botonadura Falda  Mujer  Negro  Negro 1   38  Tamaño del Fabricante:38 ](https://www.amazon.es/dp/B07DLK5T78/?tag=tolees-21) con un 61.21 % de descuento con precio de oferta de 10.47 EUR (original: 26.99 EUR) en el siguiente enlace!

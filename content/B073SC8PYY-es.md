@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073SC8PYY/?tag=tolees-21'
 descuento: '70.00'
+average: '6.6'
 ---
 
 Tienes [T-Shirts Camisa de Rayas Entallada con Cuello Óxford para Hombre  Azul  Chambray 204   X-Large](https://www.amazon.es/dp/B073SC8PYY/?tag=tolees-21) con un 70.00 % de descuento con precio de oferta de 6.6 EUR (original: 22 EUR) en el siguiente enlace!

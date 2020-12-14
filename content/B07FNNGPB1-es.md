@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FNNGPB1/?tag=tolees-21'
 descuento: '45.80'
+average: '7.04'
 ---
 
 Ahora mismo tienes [JACK & JONES Jacmix Solid Trunks Noos Bóxer  Negro Black  X-Large para Hombre](https://www.amazon.es/dp/B07FNNGPB1/?tag=tolees-21) a 7.04 EUR (original: 12.99 EUR) (45.80 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00C7B5K1O/?tag=tolees-21'
 descuento: '59.50'
+average: '6.46'
 ---
 
 Está [adidas Spiro - Camiseta de Entrenamiento para Mujer  Mujer  S176FBKRDXL  Negro/Rojo  X-Large](https://www.amazon.es/dp/B00C7B5K1O/?tag=tolees-21) con 59.50 de descuento por 6.46 EUR (original: 15.95 EUR) en el siguiente enlace!

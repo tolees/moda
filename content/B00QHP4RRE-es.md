@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00QHP4RRE/?tag=tolees-21'
 descuento: '55.59'
+average: '7.95'
 ---
 
 Está [Joma Victory Chaqueta Chándal  Niños  Multicolor  Azul Marino/Rojo   4 años](https://www.amazon.es/dp/B00QHP4RRE/?tag=tolees-21) con 55.59 de descuento por 7.95 EUR (original: 17.9 EUR) en el siguiente enlace!

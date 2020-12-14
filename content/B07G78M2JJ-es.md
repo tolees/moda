@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07G78M2JJ/?tag=tolees-21'
 descuento: '33.34'
+average: '19.99'
 ---
 
 Tienes [CRAZYCHIC - Bolso Bandolera Lentejuelas Mujer - Cartera de Mano Cuero PU Rayas - Bolsos de Fiesta Noche Embrague Pochette Clutch - Bolsos Hombro Crossbody Mensajero Moda - Camel](https://www.amazon.es/dp/B07G78M2JJ/?tag=tolees-21) con un 33.34 % de descuento con precio de oferta de 19.99 EUR (original: 29.99 EUR) en el siguiente enlace!

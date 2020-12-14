@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00ILWGZ8K/?tag=tolees-21'
 descuento: '48.58'
+average: '25.71'
 ---
 
 Ahora mismo tienes [The North Face Horizon Sunnyside Pantalón Corto  Mujer  Vanadis Grey  10](https://www.amazon.es/dp/B00ILWGZ8K/?tag=tolees-21) a 25.71 EUR (original: 50 EUR) (48.58 %  de descuento) en el siguiente enlace!

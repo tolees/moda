@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F1TKC3V/?tag=tolees-21'
 descuento: '46.22'
+average: '48.4'
 ---
 
 Ahora mismo tienes [Levi s 511 Fit  Vaqueros Slim para Hombre  Negro  Mineral Black 14W Warp Str Cord B WT 2 3257  34W / 34L](https://www.amazon.es/dp/B07F1TKC3V/?tag=tolees-21) a 48.4 EUR (original: 90 EUR) (46.22 %  de descuento) en el siguiente enlace!

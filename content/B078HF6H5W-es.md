@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078HF6H5W/?tag=tolees-21'
 descuento: '78.55'
+average: '5.79'
 ---
 
 Ahora mismo tienes [Springfield 8953600 Vestido  Mujer   Varios   Small  Tamaño del Fabricante:S ](https://www.amazon.es/dp/B078HF6H5W/?tag=tolees-21) a 5.79 EUR (original: 26.99 EUR) (78.55 %  de descuento) en el siguiente enlace!

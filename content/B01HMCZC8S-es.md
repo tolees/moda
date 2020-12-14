@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01HMCZC8S/?tag=tolees-21'
 descuento: '49.90'
+average: '17.51'
 ---
 
 Tienes [VERO MODA VMTENNA 3/4 OPEN CARDIGAN  chaqueta punto Mujer  Azul  Reflecting Pond   36  Talla del fabricante: Small ](https://www.amazon.es/dp/B01HMCZC8S/?tag=tolees-21) con un 49.90 % de descuento con precio de oferta de 17.51 EUR (original: 34.95 EUR) en el siguiente enlace!

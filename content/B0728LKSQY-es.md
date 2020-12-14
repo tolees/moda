@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0728LKSQY/?tag=tolees-21'
 descuento: '46.51'
+average: '69'
 ---
 
 Ahora mismo tienes [Carrera Hombre 1007/S 9O 807 Gafas de sol  Negro  BLACK/DARK GREY SF   62](https://www.amazon.es/dp/B0728LKSQY/?tag=tolees-21) a 69 EUR (original: 129 EUR) (46.51 %  de descuento) en el siguiente enlace!

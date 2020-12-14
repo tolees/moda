@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DK1YGN5/?tag=tolees-21'
 descuento: '52.81'
+average: '23.57'
 ---
 
 Está [Tamaris 23712-21  Zapatos de Cordones Derby para Mujer  Negro  Black Struct. 6   37 EU](https://www.amazon.es/dp/B07DK1YGN5/?tag=tolees-21) con 52.81 de descuento por 23.57 EUR (original: 49.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FQ83D9D/?tag=tolees-21'
 descuento: '45.80'
+average: '7.04'
 ---
 
 Tienes [JACK & JONES Jacthomas Trunks Noos Bóxer  Grey Melange  Large para Hombre](https://www.amazon.es/dp/B07FQ83D9D/?tag=tolees-21) con un 45.80 % de descuento con precio de oferta de 7.04 EUR (original: 12.99 EUR) en el siguiente enlace!

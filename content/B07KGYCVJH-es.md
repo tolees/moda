@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KGYCVJH/?tag=tolees-21'
 descuento: '35.91'
+average: '17.94'
 ---
 
 Está [Under Armour UA Pantalón Corto  Hombre  Ropa Deportiva con Logotipo  Ligera y Transpirable  Petrol Blue/Thunder  437   LG](https://www.amazon.es/dp/B07KGYCVJH/?tag=tolees-21) con 35.91 de descuento por 17.94 EUR (original: 27.99 EUR) en el siguiente enlace!

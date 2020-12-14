@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D9SPFH7/?tag=tolees-21'
 descuento: '66.40'
+average: '50.07'
 ---
 
 Ahora mismo tienes [Carrera 113-S-003-HD  Gafas de sol Unisex  Black 57](https://www.amazon.es/dp/B07D9SPFH7/?tag=tolees-21) a 50.07 EUR (original: 149 EUR) (66.40 %  de descuento) en el siguiente enlace!

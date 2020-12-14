@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01ESVET62/?tag=tolees-21'
 descuento: '82.66'
+average: '24.28'
 ---
 
 Tienes [SHOE THE BEAR Alberte S  Sandalias con Plataforma para Mujer  Negro  Black   37 EU](https://www.amazon.es/dp/B01ESVET62/?tag=tolees-21) con un 82.66 % de descuento con precio de oferta de 24.28 EUR (original: 140 EUR) en el siguiente enlace!

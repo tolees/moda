@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CGX16KG/?tag=tolees-21'
 descuento: '81.79'
+average: '25.31'
 ---
 
 Ahora mismo tienes [REPLAY MA955 Newbill  Vaqueros Straight para Hombre  Gris  Dark Grey Denim 9  W30/L36](https://www.amazon.es/dp/B07CGX16KG/?tag=tolees-21) a 25.31 EUR (original: 139 EUR) (81.79 %  de descuento) en el siguiente enlace!

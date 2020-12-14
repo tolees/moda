@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01HIIFU24/?tag=tolees-21'
 descuento: '93.35'
+average: '4.65'
 ---
 
 Está [Shinecon WEIVR3D - Gafas 3D](https://www.amazon.es/dp/B01HIIFU24/?tag=tolees-21) con 93.35 de descuento por 4.65 EUR (original: 69.9 EUR) en el siguiente enlace!

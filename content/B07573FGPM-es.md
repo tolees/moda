@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07573FGPM/?tag=tolees-21'
 descuento: '71.23'
+average: '7.19'
 ---
 
 Está [Springfield Falda Cuadros Volante  Casual para Mujer  Gris  Grey    Tamaño del Fabricante:40 ](https://www.amazon.es/dp/B07573FGPM/?tag=tolees-21) con 71.23 de descuento por 7.19 EUR (original: 24.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DLFC68J/?tag=tolees-21'
 descuento: '27.61'
+average: '21.71'
 ---
 
 Tienes [Women s Secret TF Black Dots PJ Conjuntos de Pijama  Mujer   Varios 98   Medium  Tamaño del Fabricante:M ](https://www.amazon.es/dp/B07DLFC68J/?tag=tolees-21) con un 27.61 % de descuento con precio de oferta de 21.71 EUR (original: 29.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07G99MGDB/?tag=tolees-21'
 descuento: '48.35'
+average: '17.25'
 ---
 
 Está [New Look Sequin Disc Loopy  Chaqueta Punto para Mujer  Blanco  White  40  Talla del Fabricante: 52 ](https://www.amazon.es/dp/B07G99MGDB/?tag=tolees-21) con 48.35 de descuento por 17.25 EUR (original: 33.4 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07L1DNJXT/?tag=tolees-21'
 descuento: '74.16'
+average: '20.67'
 ---
 
 Ahora mismo tienes [JACK & JONES PREMIUM Jprtactical Field Jacket Parka  Verde Sedona Sage  M para Hombre](https://www.amazon.es/dp/B07L1DNJXT/?tag=tolees-21) a 20.67 EUR (original: 79.99 EUR) (74.16 %  de descuento) en el siguiente enlace!

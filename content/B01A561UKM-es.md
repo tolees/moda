@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01A561UKM/?tag=tolees-21'
 descuento: '72.77'
+average: '16.31'
 ---
 
 Está [Crocs CitiLane Slip-on Sneaker Men  Hombre Zapatilla  Azul  Navy/White   39-40 EU](https://www.amazon.es/dp/B01A561UKM/?tag=tolees-21) con 72.77 de descuento por 16.31 EUR (original: 59.9 EUR) en el siguiente enlace!

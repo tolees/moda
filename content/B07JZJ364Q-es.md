@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JZJ364Q/?tag=tolees-21'
 descuento: '60.69'
+average: '11.79'
 ---
 
 Ahora mismo tienes [JACK & JONES Jornico Shirt Org  Camisa para Hombre   Fiery Red Fit: Slim   X-Large](https://www.amazon.es/dp/B07JZJ364Q/?tag=tolees-21) a 11.79 EUR (original: 29.99 EUR) (60.69 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00JKP2S5G/?tag=tolees-21'
 descuento: '41.10'
+average: '12.9'
 ---
 
 Está [Lonsdale T-Shirt Trägerhemd Walkey - Camiseta Hombre  Negro  Schwarz   X-Large  Talla del Fabricante: XL ](https://www.amazon.es/dp/B00JKP2S5G/?tag=tolees-21) con 41.10 de descuento por 12.9 EUR (original: 21.9 EUR) en el siguiente enlace!

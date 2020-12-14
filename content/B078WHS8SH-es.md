@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078WHS8SH/?tag=tolees-21'
 descuento: '71.15'
+average: '15.87'
 ---
 
 Ahora mismo tienes [BILLABONG Labrea Crew Jersey  Hombre  Gris  Grey Heather 9   Small  Tamaño del Fabricante:S ](https://www.amazon.es/dp/B078WHS8SH/?tag=tolees-21) a 15.87 EUR (original: 55 EUR) (71.15 %  de descuento) en el siguiente enlace!

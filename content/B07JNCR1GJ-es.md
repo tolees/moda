@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JNCR1GJ/?tag=tolees-21'
 descuento: '57.52'
+average: '12.74'
 ---
 
 Ahora mismo tienes [Cressi Aqua Shoes - Zapatos Deportivos para Uso Acuático  Negro/Azul  38](https://www.amazon.es/dp/B07JNCR1GJ/?tag=tolees-21) a 12.74 EUR (original: 29.99 EUR) (57.52 %  de descuento) en el siguiente enlace!

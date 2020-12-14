@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KYL2CHG/?tag=tolees-21'
 descuento: '66.15'
+average: '6.09'
 ---
 
 Tienes [Springfield 4.Pc.Top Crochet Camiseta  Gama Rojo 64  Medium  Tamaño del Fabricante:M  para Mujer](https://www.amazon.es/dp/B07KYL2CHG/?tag=tolees-21) con un 66.15 % de descuento con precio de oferta de 6.09 EUR (original: 17.99 EUR) en el siguiente enlace!

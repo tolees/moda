@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01JL04IEI/?tag=tolees-21'
 descuento: '38.91'
+average: '27.49'
 ---
 
 Ahora mismo tienes [Nike M Nkct Dry Polo Solid Pq Camiseta de Manga Corta de Tenis  Hombre  Blanco  White/Black   L](https://www.amazon.es/dp/B01JL04IEI/?tag=tolees-21) a 27.49 EUR (original: 45 EUR) (38.91 %  de descuento) en el siguiente enlace!

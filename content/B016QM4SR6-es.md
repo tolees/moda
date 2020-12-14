@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B016QM4SR6/?tag=tolees-21'
 descuento: '43.98'
+average: '50.36'
 ---
 
 Ahora mismo tienes [Tommy Hilfiger Core Stretch Slim Poplin Shirt  Camisa para Hombre  Negro  Flag Black 083  Large](https://www.amazon.es/dp/B016QM4SR6/?tag=tolees-21) a 50.36 EUR (original: 89.9 EUR) (43.98 %  de descuento) en el siguiente enlace!

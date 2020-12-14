@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0772KMFMD/?tag=tolees-21'
 descuento: '50.00'
+average: '15'
 ---
 
 Está [MERAKI Pantalones Cargo Rectos Hombre  Azul  Navy   W30/L32](https://www.amazon.es/dp/B0772KMFMD/?tag=tolees-21) con 50.00 de descuento por 15 EUR (original: 30 EUR) en el siguiente enlace!

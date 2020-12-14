@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0792TFZ4R/?tag=tolees-21'
 descuento: '53.92'
+average: '29.95'
 ---
 
 Está [Geox Jr Gregg B  Zapatillas Altas para Niños   Navy/Yellow C4054   33 EU](https://www.amazon.es/dp/B0792TFZ4R/?tag=tolees-21) con 53.92 de descuento por 29.95 EUR (original: 65 EUR) en el siguiente enlace!

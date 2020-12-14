@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079QBZQDJ/?tag=tolees-21'
 descuento: '44.35'
+average: '83.48'
 ---
 
 Está [Hackett London POWERFLEX  Vaqueros Straight para Hombre  Gris  Grey 945  35W / 32L](https://www.amazon.es/dp/B079QBZQDJ/?tag=tolees-21) con 44.35 de descuento por 83.48 EUR (original: 150 EUR) en el siguiente enlace!

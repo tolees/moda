@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0792KNLDR/?tag=tolees-21'
 descuento: '54.47'
+average: '63.74'
 ---
 
 Tienes [Quiksilver - Chaqueta Softshell Impermeable - Hombre - L - Negro](https://www.amazon.es/dp/B0792KNLDR/?tag=tolees-21) con un 54.47 % de descuento con precio de oferta de 63.74 EUR (original: 139.99 EUR) en el siguiente enlace!

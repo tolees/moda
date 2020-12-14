@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0792TCTSM/?tag=tolees-21'
 descuento: '51.86'
+average: '60.18'
 ---
 
 Tienes [Geox U Ariam B  Botas Chelsea para Hombre   Black C9999   42 EU](https://www.amazon.es/dp/B0792TCTSM/?tag=tolees-21) con un 51.86 % de descuento con precio de oferta de 60.18 EUR (original: 125 EUR) en el siguiente enlace!

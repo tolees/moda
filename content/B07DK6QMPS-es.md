@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DK6QMPS/?tag=tolees-21'
 descuento: '54.64'
+average: '24.95'
 ---
 
 Está [Geox J Alonisso Boy B  Zapatillas para Niños  Gris  Grey/Fluo Orange C1040   31 EU](https://www.amazon.es/dp/B07DK6QMPS/?tag=tolees-21) con 54.64 de descuento por 24.95 EUR (original: 55 EUR) en el siguiente enlace!

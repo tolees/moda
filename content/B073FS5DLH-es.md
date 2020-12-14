@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073FS5DLH/?tag=tolees-21'
 descuento: '72.39'
+average: '9.66'
 ---
 
 Tienes [JACK & JONES Jcoslice Sweat Crew Neck  Sudadera para Hombre  Gris  Light Grey Melange Fit:Slim  Small](https://www.amazon.es/dp/B073FS5DLH/?tag=tolees-21) con un 72.39 % de descuento con precio de oferta de 9.66 EUR (original: 34.99 EUR) en el siguiente enlace!

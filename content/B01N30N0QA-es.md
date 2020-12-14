@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N30N0QA/?tag=tolees-21'
 descuento: '58.17'
+average: '25.1'
 ---
 
 Está [Under Armour AF Graphic Po Sudadera  Hombre  Gris  L](https://www.amazon.es/dp/B01N30N0QA/?tag=tolees-21) con 58.17 de descuento por 25.1 EUR (original: 60 EUR) en el siguiente enlace!

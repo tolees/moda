@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0792P6RQG/?tag=tolees-21'
 descuento: '33.56'
+average: '29.9'
 ---
 
 Tienes [Geox B Rishon Boy B  Zapatillas para Bebés   Navy/Dk Red C4244   25 EU](https://www.amazon.es/dp/B0792P6RQG/?tag=tolees-21) con un 33.56 % de descuento con precio de oferta de 29.9 EUR (original: 45 EUR) en el siguiente enlace!

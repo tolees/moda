@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078HDKKKM/?tag=tolees-21'
 descuento: '40.34'
+average: '5.96'
 ---
 
 Tienes [Springfield 1683632  Bolso maletín para Mujer   Gamma Azules ](https://www.amazon.es/dp/B078HDKKKM/?tag=tolees-21) con un 40.34 % de descuento con precio de oferta de 5.96 EUR (original: 9.99 EUR) en el siguiente enlace!

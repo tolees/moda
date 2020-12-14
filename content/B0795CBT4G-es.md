@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0795CBT4G/?tag=tolees-21'
 descuento: '27.82'
+average: '14.4'
 ---
 
 Está [Puma Liga Jersey T-Shirt  Hombre  Cyber Yellow/Black  XL](https://www.amazon.es/dp/B0795CBT4G/?tag=tolees-21) con 27.82 de descuento por 14.4 EUR (original: 19.95 EUR) en el siguiente enlace!

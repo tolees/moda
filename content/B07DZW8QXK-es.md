@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DZW8QXK/?tag=tolees-21'
 descuento: '37.00'
+average: '12.6'
 ---
 
 Tienes [Levis Footwear and Accessories Dodge Sportswear  Chanclas para Hombre  Rojo  Regular Red 87   XL](https://www.amazon.es/dp/B07DZW8QXK/?tag=tolees-21) con un 37.00 % de descuento con precio de oferta de 12.6 EUR (original: 20 EUR) en el siguiente enlace!

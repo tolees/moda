@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01LWI8X1C/?tag=tolees-21'
 descuento: '86.27'
+average: '6.86'
 ---
 
 Está [VERO MODA VMORCHIDA 3/4 SHORT BLOUSE LOC  suéter Mujer  Rojo  Decadent Chocolate   34  Talla del fabricante: X-Small ](https://www.amazon.es/dp/B01LWI8X1C/?tag=tolees-21) con 86.27 de descuento por 6.86 EUR (original: 49.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00BP3TYYE/?tag=tolees-21'
 descuento: '78.26'
+average: '13.04'
 ---
 
 Tienes [WOCK Everlite  Zuecos Unisex Adulto  Blanco  Weiss 4540020-46   46 EU](https://www.amazon.es/dp/B00BP3TYYE/?tag=tolees-21) con un 78.26 % de descuento con precio de oferta de 13.04 EUR (original: 59.98 EUR) en el siguiente enlace!

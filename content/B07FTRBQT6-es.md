@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FTRBQT6/?tag=tolees-21'
 descuento: '48.75'
+average: '38.44'
 ---
 
 Está [Lee Brooklyn Comfort Vaqueros Straight  Negro  Black Rinse 47   40W / 34L para Hombre](https://www.amazon.es/dp/B07FTRBQT6/?tag=tolees-21) con 48.75 de descuento por 38.44 EUR (original: 75 EUR) en el siguiente enlace!

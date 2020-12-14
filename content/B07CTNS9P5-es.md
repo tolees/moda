@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CTNS9P5/?tag=tolees-21'
 descuento: '64.56'
+average: '31.88'
 ---
 
 Tienes [HUGO Elisha01 Camisa  Rojo  Bright Red 622   X-Large  Talla del Fabricante: 44  para Hombre](https://www.amazon.es/dp/B07CTNS9P5/?tag=tolees-21) con un 64.56 % de descuento con precio de oferta de 31.88 EUR (original: 89.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0722PZ3SJ/?tag=tolees-21'
 descuento: '64.41'
+average: '21.35'
 ---
 
 Ahora mismo tienes [Roxy Share New Words Sudadera con Capucha y Cremallera  Niñas  Negro  Anthracite Solid   12/L](https://www.amazon.es/dp/B0722PZ3SJ/?tag=tolees-21) a 21.35 EUR (original: 59.99 EUR) (64.41 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B010NLLTVO/?tag=tolees-21'
 descuento: '58.07'
+average: '54.49'
 ---
 
 Está [Columbia Good Ways Jacket Chaqueta Impermeable  Aislamiento térmico sintético Hi-Loft  Hombre  Black  S](https://www.amazon.es/dp/B010NLLTVO/?tag=tolees-21) con 58.07 de descuento por 54.49 EUR (original: 129.95 EUR) en el siguiente enlace!

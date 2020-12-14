@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MYXJ6VW/?tag=tolees-21'
 descuento: '54.05'
+average: '5.95'
 ---
 
 Está [Minecraft Niño Camiseta  3-4 Años ](https://www.amazon.es/dp/B01MYXJ6VW/?tag=tolees-21) con 54.05 de descuento por 5.95 EUR (original: 12.95 EUR) en el siguiente enlace!

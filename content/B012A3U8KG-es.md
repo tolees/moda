@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B012A3U8KG/?tag=tolees-21'
 descuento: '60.00'
+average: '50'
 ---
 
 Ahora mismo tienes [Geox D Nebula C  Zapatillas para Mujer  Grau  LT GREYC1010   40 EU](https://www.amazon.es/dp/B012A3U8KG/?tag=tolees-21) a 50 EUR (original: 125 EUR) (60.00 %  de descuento) en el siguiente enlace!

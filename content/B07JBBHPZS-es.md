@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JBBHPZS/?tag=tolees-21'
 descuento: '90.00'
+average: '3'
 ---
 
 Está [NACATIN Guantes de Esquí  Guantes de Invierno Resistente al Agua para Hombres y Mujeres Anti-Viento  Adecuado para Skateboard  Esquí  Ciclismo  Escalada  Motociclismo  Caza  Pesca  M ](https://www.amazon.es/dp/B07JBBHPZS/?tag=tolees-21) con 90.00 de descuento por 3 EUR (original: 29.99 EUR) en el siguiente enlace!

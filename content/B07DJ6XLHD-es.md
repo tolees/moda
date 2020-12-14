@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DJ6XLHD/?tag=tolees-21'
 descuento: '46.09'
+average: '37.68'
 ---
 
 Está [Geox Uomo Sandal Strada a  Sandalias con Punta Abierta para Hombre  Brown  Coffee C6009   46 EU](https://www.amazon.es/dp/B07DJ6XLHD/?tag=tolees-21) con 46.09 de descuento por 37.68 EUR (original: 69.9 EUR) en el siguiente enlace!

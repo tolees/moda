@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078GZ1JYV/?tag=tolees-21'
 descuento: '58.35'
+average: '5.41'
 ---
 
 Está [Springfield 3283208  Camiseta para Hombre  Azul  Azul Marino   X-Large  Tamaño del fabricante:XL ](https://www.amazon.es/dp/B078GZ1JYV/?tag=tolees-21) con 58.35 de descuento por 5.41 EUR (original: 12.99 EUR) en el siguiente enlace!

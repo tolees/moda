@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077SJ8YBZ/?tag=tolees-21'
 descuento: '60.38'
+average: '15.83'
 ---
 
 Está [Puma Evostripe Sweat tee Camiseta  Mujer  Rosa  Pearl   S](https://www.amazon.es/dp/B077SJ8YBZ/?tag=tolees-21) con 60.38 de descuento por 15.83 EUR (original: 39.95 EUR) en el siguiente enlace!

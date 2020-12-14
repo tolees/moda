@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01JH3S25K/?tag=tolees-21'
 descuento: '45.88'
+average: '16.23'
 ---
 
 Ahora mismo tienes [crocs Swiftwater Wave K  Zuecos Unisex niño  Rosa  Neon Magenta 6l0   33/34 EU](https://www.amazon.es/dp/B01JH3S25K/?tag=tolees-21) a 16.23 EUR (original: 29.99 EUR) (45.88 %  de descuento) en el siguiente enlace!

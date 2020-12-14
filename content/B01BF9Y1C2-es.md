@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01BF9Y1C2/?tag=tolees-21'
 descuento: '61.29'
+average: '12.02'
 ---
 
 Está [HHG Falda Morado/Blanco S](https://www.amazon.es/dp/B01BF9Y1C2/?tag=tolees-21) con 61.29 de descuento por 12.02 EUR (original: 31.05 EUR) en el siguiente enlace!

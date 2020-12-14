@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07B4RYWN8/?tag=tolees-21'
 descuento: '50.00'
+average: '17.5'
 ---
 
 Está [G-Star Tairi R T S/s  Camiseta para Hombre  Blanco  White  X-Large](https://www.amazon.es/dp/B07B4RYWN8/?tag=tolees-21) con 50.00 de descuento por 17.5 EUR (original: 35 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F2M57HF/?tag=tolees-21'
 descuento: '50.04'
+average: '64.95'
 ---
 
 Tienes [Levi s Original Sherpa Trucker  Chaqueta para Mujer  Negro  Forever Black 0012   Medium](https://www.amazon.es/dp/B07F2M57HF/?tag=tolees-21) con un 50.04 % de descuento con precio de oferta de 64.95 EUR (original: 130 EUR) en el siguiente enlace!

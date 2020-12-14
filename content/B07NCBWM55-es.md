@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07NCBWM55/?tag=tolees-21'
 descuento: '74.12'
+average: '24.59'
 ---
 
 Ahora mismo tienes [Pepe Jeans Saturn Vaqueros Straight  Azul  Medium Used Wiser Wash Denim Wz3   W24/L34 para Mujer](https://www.amazon.es/dp/B07NCBWM55/?tag=tolees-21) a 24.59 EUR (original: 95 EUR) (74.12 %  de descuento) en el siguiente enlace!

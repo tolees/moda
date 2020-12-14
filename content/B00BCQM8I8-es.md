@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00BCQM8I8/?tag=tolees-21'
 descuento: '50.00'
+average: '54.95'
 ---
 
 Está [Geox D MARIEC.MID B - Plataforma de cuero mujer  Negro  Nero  Schwarz  BLACK C9999     37.5 EU  4.5 UK ](https://www.amazon.es/dp/B00BCQM8I8/?tag=tolees-21) con 50.00 de descuento por 54.95 EUR (original: 109.9 EUR) en el siguiente enlace!

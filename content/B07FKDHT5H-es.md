@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FKDHT5H/?tag=tolees-21'
 descuento: '40.00'
+average: '27'
 ---
 
 Tienes [The North Face Berkeley Satchel - Bolso  Unisex Adulto  Kelp Tan Dark Heather  OS](https://www.amazon.es/dp/B07FKDHT5H/?tag=tolees-21) con un 40.00 % de descuento con precio de oferta de 27 EUR (original: 45 EUR) en el siguiente enlace!

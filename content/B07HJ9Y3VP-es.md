@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HJ9Y3VP/?tag=tolees-21'
 descuento: '52.88'
+average: '18.8'
 ---
 
 Está [Tommy Hilfiger Big Scale Relaxed Fit tee  Camiseta Hombre  Rojo  Haute Red 611   XX-Large](https://www.amazon.es/dp/B07HJ9Y3VP/?tag=tolees-21) con 52.88 de descuento por 18.8 EUR (original: 39.9 EUR) en el siguiente enlace!

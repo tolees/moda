@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078HQCT55/?tag=tolees-21'
 descuento: '46.22'
+average: '32.27'
 ---
 
 Está [Nike Wmns EBERNON Low  Zapatos de Baloncesto para Mujer  Black/White 001  38 EU](https://www.amazon.es/dp/B078HQCT55/?tag=tolees-21) con 46.22 de descuento por 32.27 EUR (original: 60 EUR) en el siguiente enlace!

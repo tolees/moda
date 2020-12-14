@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073QXMSFJ/?tag=tolees-21'
 descuento: '69.54'
+average: '24.37'
 ---
 
 Está [Levi s Barstow Western Camisa  Gris  Wintercress Dark Heather Gray 246   Small para Hombre](https://www.amazon.es/dp/B073QXMSFJ/?tag=tolees-21) con 69.54 de descuento por 24.37 EUR (original: 80 EUR) en el siguiente enlace!

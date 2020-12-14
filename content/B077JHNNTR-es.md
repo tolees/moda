@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077JHNNTR/?tag=tolees-21'
 descuento: '32.78'
+average: '43.69'
 ---
 
 Ahora mismo tienes [Volcom Stone P/O Sudadera  Hombre  Azul  Matured Blue   L](https://www.amazon.es/dp/B077JHNNTR/?tag=tolees-21) a 43.69 EUR (original: 65 EUR) (32.78 %  de descuento) en el siguiente enlace!

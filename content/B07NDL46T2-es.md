@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07NDL46T2/?tag=tolees-21'
 descuento: '73.43'
+average: '23.89'
 ---
 
 Está [Pepe Jeans Regent Vaqueros Pitillo Hombre  Azul  Light Used Denim Md9   W32/L30 para Mujer](https://www.amazon.es/dp/B07NDL46T2/?tag=tolees-21) con 73.43 de descuento por 23.89 EUR (original: 89.9 EUR) en el siguiente enlace!

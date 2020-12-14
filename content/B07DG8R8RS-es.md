@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DG8R8RS/?tag=tolees-21'
 descuento: '70.87'
+average: '66.13'
 ---
 
 Ahora mismo tienes [Love Moschino Sweatshirts Sudadera  Verde  Green T29   38  Talla del Fabricante: 40  para Mujer](https://www.amazon.es/dp/B07DG8R8RS/?tag=tolees-21) a 66.13 EUR (original: 227 EUR) (70.87 %  de descuento) en el siguiente enlace!

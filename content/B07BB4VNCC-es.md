@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BB4VNCC/?tag=tolees-21'
 descuento: '50.00'
+average: '20'
 ---
 
 Ahora mismo tienes [The North Face M L/S tee Camiseta Ones para Hombre  Blanco  TNF White   M](https://www.amazon.es/dp/B07BB4VNCC/?tag=tolees-21) a 20 EUR (original: 40 EUR) (50.00 %  de descuento) en el siguiente enlace!

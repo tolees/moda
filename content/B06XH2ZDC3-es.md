@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XH2ZDC3/?tag=tolees-21'
 descuento: '48.54'
+average: '31.39'
 ---
 
 Ahora mismo tienes [Polaroid PLD 1023/S OZ 202 Gafas de Sol  Marrón  Brown Havana/Red Grey Speckled Pz   51 Unisex-Adulto](https://www.amazon.es/dp/B06XH2ZDC3/?tag=tolees-21) a 31.39 EUR (original: 61 EUR) (48.54 %  de descuento) en el siguiente enlace!

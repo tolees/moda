@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073QRT9W1/?tag=tolees-21'
 descuento: '66.38'
+average: '20.17'
 ---
 
 Ahora mismo tienes [find. Zapatos Tacón Bajo Mujer  Amarillo  Yellow   36 EU](https://www.amazon.es/dp/B073QRT9W1/?tag=tolees-21) a 20.17 EUR (original: 60 EUR) (66.38 %  de descuento) en el siguiente enlace!

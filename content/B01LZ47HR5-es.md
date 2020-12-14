@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01LZ47HR5/?tag=tolees-21'
 descuento: '75.63'
+average: '11.45'
 ---
 
 Ahora mismo tienes [Saint Tropez Blusa Hielo L](https://www.amazon.es/dp/B01LZ47HR5/?tag=tolees-21) a 11.45 EUR (original: 46.98 EUR) (75.63 %  de descuento) en el siguiente enlace!

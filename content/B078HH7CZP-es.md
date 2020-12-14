@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078HH7CZP/?tag=tolees-21'
 descuento: '68.17'
+average: '8.59'
 ---
 
 Está [Springfield Jersey Rayas Flor Jersey  Mujer  Gris  Gama Grises   Medium  Tamaño del Fabricante:M ](https://www.amazon.es/dp/B078HH7CZP/?tag=tolees-21) con 68.17 de descuento por 8.59 EUR (original: 26.99 EUR) en el siguiente enlace!

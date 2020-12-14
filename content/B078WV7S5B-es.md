@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078WV7S5B/?tag=tolees-21'
 descuento: '58.79'
+average: '16.07'
 ---
 
 Tienes [Calvin Klein Trunk 2pk Bóxer   Affection/Ashford Grey Jxg   Large  Pack de 2 para Hombre](https://www.amazon.es/dp/B078WV7S5B/?tag=tolees-21) con un 58.79 % de descuento con precio de oferta de 16.07 EUR (original: 39 EUR) en el siguiente enlace!

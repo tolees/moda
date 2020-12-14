@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077TTZMN3/?tag=tolees-21'
 descuento: '41.85'
+average: '9.88'
 ---
 
 Ahora mismo tienes [Vero Moda Vmnew Elva LS O-Neck Blouse Boo  suéter para Mujer  Marfil  Oatmeal Detail: Melange   40  Talla del Fabricante: Medium ](https://www.amazon.es/dp/B077TTZMN3/?tag=tolees-21) a 9.88 EUR (original: 16.99 EUR) (41.85 %  de descuento) en el siguiente enlace!

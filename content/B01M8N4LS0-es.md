@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01M8N4LS0/?tag=tolees-21'
 descuento: '49.05'
+average: '79.99'
 ---
 
 Está [Ray-Ban RB 3557 Gafas de sol  Gold  51 para Hombre](https://www.amazon.es/dp/B01M8N4LS0/?tag=tolees-21) con 49.05 de descuento por 79.99 EUR (original: 157 EUR) en el siguiente enlace!

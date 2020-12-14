@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077XS24MF/?tag=tolees-21'
 descuento: '69.12'
+average: '8.03'
 ---
 
 Ahora mismo tienes [Under Armour Raid SL - Camiseta para niño  Niños  1306061-035  Gris  para jóvenes XL](https://www.amazon.es/dp/B077XS24MF/?tag=tolees-21) a 8.03 EUR (original: 26 EUR) (69.12 %  de descuento) en el siguiente enlace!

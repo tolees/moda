@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DJ3KRDJ/?tag=tolees-21'
 descuento: '61.04'
+average: '38.92'
 ---
 
 Está [Geox U Nebula L B  Sandalias con Punta Abierta para Hombre  Black/Dk Royal C0242  43 EU](https://www.amazon.es/dp/B07DJ3KRDJ/?tag=tolees-21) con 61.04 de descuento por 38.92 EUR (original: 99.9 EUR) en el siguiente enlace!

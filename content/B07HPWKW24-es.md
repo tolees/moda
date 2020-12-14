@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HPWKW24/?tag=tolees-21'
 descuento: '30.00'
+average: '22.4'
 ---
 
 Está [FIND Block Heel Mule Sandalias con Punta Abierta  Negro Black/Tortoise  39 EU](https://www.amazon.es/dp/B07HPWKW24/?tag=tolees-21) con 30.00 de descuento por 22.4 EUR (original: 32 EUR) en el siguiente enlace!

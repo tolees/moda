@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DFGXWLC/?tag=tolees-21'
 descuento: '50.17'
+average: '7.45'
 ---
 
 Está [adidas Cy5615 Monedero  15 cm  Ónitéc / Blabas](https://www.amazon.es/dp/B07DFGXWLC/?tag=tolees-21) con 50.17 de descuento por 7.45 EUR (original: 14.95 EUR) en el siguiente enlace!

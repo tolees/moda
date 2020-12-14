@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078SXBKGM/?tag=tolees-21'
 descuento: '49.67'
+average: '67.95'
 ---
 
 Tienes [Timberland Bradsteet 3 Eye Sensorflex  Mocasines para Hombre  Marrón  Sahara Brando   43.5 EU](https://www.amazon.es/dp/B078SXBKGM/?tag=tolees-21) con un 49.67 % de descuento con precio de oferta de 67.95 EUR (original: 135 EUR) en el siguiente enlace!

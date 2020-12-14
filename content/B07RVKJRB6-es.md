@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07RVKJRB6/?tag=tolees-21'
 descuento: '50.08'
+average: '16'
 ---
 
 Está [New Look 915 Jamie Oriental Vestido  Verde  Green Pattern 39   40  Talla del Fabricante: 12  para Mujer](https://www.amazon.es/dp/B07RVKJRB6/?tag=tolees-21) con 50.08 de descuento por 16 EUR (original: 32.05 EUR) en el siguiente enlace!

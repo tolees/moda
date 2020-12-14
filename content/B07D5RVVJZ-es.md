@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D5RVVJZ/?tag=tolees-21'
 descuento: '53.48'
+average: '32.54'
 ---
 
 Tienes [Puma Evostripe Sudadera  Hombre  Verde  Quiet Shade   XL](https://www.amazon.es/dp/B07D5RVVJZ/?tag=tolees-21) con un 53.48 % de descuento con precio de oferta de 32.54 EUR (original: 69.95 EUR) en el siguiente enlace!

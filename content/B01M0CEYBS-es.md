@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01M0CEYBS/?tag=tolees-21'
 descuento: '70.67'
+average: '11.73'
 ---
 
 Está [VERO MODA VMSEBASTIN L/S BOMBER D2-1  Chaqueta Mujer  Rojo  Poppy Red   38  Talla del fabricante: Medium ](https://www.amazon.es/dp/B01M0CEYBS/?tag=tolees-21) con 70.67 de descuento por 11.73 EUR (original: 39.99 EUR) en el siguiente enlace!

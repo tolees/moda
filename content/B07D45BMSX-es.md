@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D45BMSX/?tag=tolees-21'
 descuento: '66.70'
+average: '19.98'
 ---
 
 Está [FIND Suede Zapatos de Cordones Derby  Azul Blue  47 EU](https://www.amazon.es/dp/B07D45BMSX/?tag=tolees-21) con 66.70 de descuento por 19.98 EUR (original: 60 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076BT7XTN/?tag=tolees-21'
 descuento: '30.00'
+average: '12.6'
 ---
 
 Ahora mismo tienes [AURIQUE Camiseta Deportiva Mujer  Negro  Black/red/white   Medium](https://www.amazon.es/dp/B076BT7XTN/?tag=tolees-21) a 12.6 EUR (original: 18 EUR) (30.00 %  de descuento) en el siguiente enlace!

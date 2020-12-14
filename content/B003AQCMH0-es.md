@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B003AQCMH0/?tag=tolees-21'
 descuento: '43.19'
+average: '45.45'
 ---
 
 Tienes [Birkenstock Milano  Sandalias con Correa de Tobillo Unisex  Marrn  42 EU](https://www.amazon.es/dp/B003AQCMH0/?tag=tolees-21) con un 43.19 % de descuento con precio de oferta de 45.45 EUR (original: 80 EUR) en el siguiente enlace!

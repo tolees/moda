@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072R1QZB3/?tag=tolees-21'
 descuento: '45.49'
+average: '43.6'
 ---
 
 Está [Columbia Powder Lite Chaqueta sin Mangas  Hombre  Negro  Black   L](https://www.amazon.es/dp/B072R1QZB3/?tag=tolees-21) con 45.49 de descuento por 43.6 EUR (original: 79.99 EUR) en el siguiente enlace!

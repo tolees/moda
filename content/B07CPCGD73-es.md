@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CPCGD73/?tag=tolees-21'
 descuento: '63.63'
+average: '18.15'
 ---
 
 Ahora mismo tienes [Crocs Crocband U  Zuecos Unisex Adulto  Verde  Citrus-Grey 725   48-49 EU](https://www.amazon.es/dp/B07CPCGD73/?tag=tolees-21) a 18.15 EUR (original: 49.9 EUR) (63.63 %  de descuento) en el siguiente enlace!

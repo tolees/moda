@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D5HJ4ZW/?tag=tolees-21'
 descuento: '33.22'
+average: '23.34'
 ---
 
 Está [LoveBoxxx - Conjunto BDSM Set Rojo - Cuerda de esclavitud- Mordaza de bola- Juego de esposas- Puños de tobillo- Máscara- Collar con cinturón](https://www.amazon.es/dp/B07D5HJ4ZW/?tag=tolees-21) con 33.22 de descuento por 23.34 EUR (original: 34.95 EUR) en el siguiente enlace!

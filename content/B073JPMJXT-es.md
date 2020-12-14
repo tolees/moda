@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073JPMJXT/?tag=tolees-21'
 descuento: '70.00'
+average: '11.1'
 ---
 
 Está [FIND Vestido Sudadera para Mujer   Gris  Grau   44  Talla del Fabricante: X-Large ](https://www.amazon.es/dp/B073JPMJXT/?tag=tolees-21) con 70.00 de descuento por 11.1 EUR (original: 37 EUR) en el siguiente enlace!

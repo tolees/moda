@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CZ3HYKF/?tag=tolees-21'
 descuento: '54.24'
+average: '9.13'
 ---
 
 Está [Puma Epic Flip V2  Chanclas Unisex Adulto  Rosa  Winsome Orchid White 26   49.5 EU](https://www.amazon.es/dp/B07CZ3HYKF/?tag=tolees-21) con 54.24 de descuento por 9.13 EUR (original: 19.95 EUR) en el siguiente enlace!

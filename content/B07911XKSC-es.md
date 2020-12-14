@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07911XKSC/?tag=tolees-21'
 descuento: '69.46'
+average: '9.16'
 ---
 
 Tienes [Vero Moda Vmasta Milo SS Suki Dress  Vestido Mujer  Rosa  Zephyr Zephyr   36  Talla del Fabricante: X-Small ](https://www.amazon.es/dp/B07911XKSC/?tag=tolees-21) con un 69.46 % de descuento con precio de oferta de 9.16 EUR (original: 29.99 EUR) en el siguiente enlace!

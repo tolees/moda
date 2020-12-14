@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077TSX8D8/?tag=tolees-21'
 descuento: '50.97'
+average: '8.82'
 ---
 
 Tienes [Quiksilver Classic Quadro Glide Camiseta  Niños   Gris Claro   M/12](https://www.amazon.es/dp/B077TSX8D8/?tag=tolees-21) con un 50.97 % de descuento con precio de oferta de 8.82 EUR (original: 17.99 EUR) en el siguiente enlace!

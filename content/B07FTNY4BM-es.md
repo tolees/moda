@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FTNY4BM/?tag=tolees-21'
 descuento: '75.03'
+average: '24.96'
 ---
 
 Ahora mismo tienes [Lee Scarlett High Skinny Vaqueros  Azul  Dark Used UE   26W / 33L para Mujer](https://www.amazon.es/dp/B07FTNY4BM/?tag=tolees-21) a 24.96 EUR (original: 99.95 EUR) (75.03 %  de descuento) en el siguiente enlace!

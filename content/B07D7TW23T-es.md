@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D7TW23T/?tag=tolees-21'
 descuento: '61.32'
+average: '53.76'
 ---
 
 Está [BOSS Weave  Sudadera para Hombre  Azul  Light/Pastel Blue 455   Small](https://www.amazon.es/dp/B07D7TW23T/?tag=tolees-21) con 61.32 de descuento por 53.76 EUR (original: 139 EUR) en el siguiente enlace!

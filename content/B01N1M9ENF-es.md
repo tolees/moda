@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N1M9ENF/?tag=tolees-21'
 descuento: '72.59'
+average: '18.88'
 ---
 
 Ahora mismo tienes [Mujeres Moda Pendientes Collar Circonita Cúbica Talla Redonda Stud Cuelgan aretes Collar Sistema de la Joyería](https://www.amazon.es/dp/B01N1M9ENF/?tag=tolees-21) a 18.88 EUR (original: 68.88 EUR) (72.59 %  de descuento) en el siguiente enlace!

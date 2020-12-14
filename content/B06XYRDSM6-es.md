@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XYRDSM6/?tag=tolees-21'
 descuento: '50.00'
+average: '5.1'
 ---
 
 Tienes [KRISP 6610-WINBLK-08  Vestido Corto Fruncido Busto  Granate  6610   36](https://www.amazon.es/dp/B06XYRDSM6/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 5.1 EUR (original: 10.2 EUR) en el siguiente enlace!

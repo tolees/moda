@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079RT2QVZ/?tag=tolees-21'
 descuento: '48.77'
+average: '107.59'
 ---
 
 Tienes [Pepe Jeans Fulham Chaqueta  Marrón  Truffle 886   S para Hombre](https://www.amazon.es/dp/B079RT2QVZ/?tag=tolees-21) con un 48.77 % de descuento con precio de oferta de 107.59 EUR (original: 210 EUR) en el siguiente enlace!

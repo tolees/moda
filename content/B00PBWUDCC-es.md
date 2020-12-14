@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00PBWUDCC/?tag=tolees-21'
 descuento: '65.52'
+average: '17.24'
 ---
 
 Tienes [Dockers by Gerli 36BR001-120100  Zuecos Unisex  Negro  43 EU](https://www.amazon.es/dp/B00PBWUDCC/?tag=tolees-21) con un 65.52 % de descuento con precio de oferta de 17.24 EUR (original: 50 EUR) en el siguiente enlace!

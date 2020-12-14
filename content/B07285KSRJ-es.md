@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07285KSRJ/?tag=tolees-21'
 descuento: '60.54'
+average: '43.39'
 ---
 
 Está [Bench Bomber with Nylon Hood  Chaqueta para Hombre  Negro  Black Beauty Bk11179   Large](https://www.amazon.es/dp/B07285KSRJ/?tag=tolees-21) con 60.54 de descuento por 43.39 EUR (original: 109.95 EUR) en el siguiente enlace!

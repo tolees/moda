@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078WTNK6K/?tag=tolees-21'
 descuento: '54.79'
+average: '22.6'
 ---
 
 Tienes [Cortefiel Falda Corta  Gama Verdes 21  XL](https://www.amazon.es/dp/B078WTNK6K/?tag=tolees-21) con un 54.79 % de descuento con precio de oferta de 22.6 EUR (original: 49.99 EUR) en el siguiente enlace!

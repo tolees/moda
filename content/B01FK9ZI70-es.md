@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01FK9ZI70/?tag=tolees-21'
 descuento: '59.48'
+average: '4.7'
 ---
 
 Ahora mismo tienes [oodji Ultra Mujer Sujetador Bikini Bandeau  sin Tirantes   Morado  70A / 32A](https://www.amazon.es/dp/B01FK9ZI70/?tag=tolees-21) a 4.7 EUR (original: 11.6 EUR) (59.48 %  de descuento) en el siguiente enlace!

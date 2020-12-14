@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01GED8R42/?tag=tolees-21'
 descuento: '85.86'
+average: '11.31'
 ---
 
 Tienes [Black Crevice Chaqueta Azul Marino ES 58](https://www.amazon.es/dp/B01GED8R42/?tag=tolees-21) con un 85.86 % de descuento con precio de oferta de 11.31 EUR (original: 79.99 EUR) en el siguiente enlace!

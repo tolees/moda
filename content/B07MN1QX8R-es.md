@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MN1QX8R/?tag=tolees-21'
 descuento: '45.65'
+average: '10.87'
 ---
 
 Está [The North Face Y S/S Easy tee Camiseta  Niños  Black/TNF White  S](https://www.amazon.es/dp/B07MN1QX8R/?tag=tolees-21) con 45.65 de descuento por 10.87 EUR (original: 20 EUR) en el siguiente enlace!

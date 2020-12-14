@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FLD923B/?tag=tolees-21'
 descuento: '58.08'
+average: '54.46'
 ---
 
 Tienes [Superdry Arctic Hooded Pop Zip Windchea Chaqueta Deportiva  Azul  New Navy Marl/Ecru Un4   Large para Hombre](https://www.amazon.es/dp/B07FLD923B/?tag=tolees-21) con un 58.08 % de descuento con precio de oferta de 54.46 EUR (original: 129.9 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DTZJMP4/?tag=tolees-21'
 descuento: '73.79'
+average: '7.86'
 ---
 
 Ahora mismo tienes [Tom Tailor Denim Tube Rock Mit Modischer Rib Optik Und Midi Länge  Falda para Mujer  Gris  Light Silver Grey Mé 10367  Medium](https://www.amazon.es/dp/B07DTZJMP4/?tag=tolees-21) a 7.86 EUR (original: 29.99 EUR) (73.79 %  de descuento) en el siguiente enlace!

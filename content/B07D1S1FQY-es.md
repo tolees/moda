@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D1S1FQY/?tag=tolees-21'
 descuento: '47.89'
+average: '83.37'
 ---
 
 Tienes [Armani Exchange 6zya06  Vestido Mujer  Negro  Black 1200   X-Small  Talla del Fabricante: 2 ](https://www.amazon.es/dp/B07D1S1FQY/?tag=tolees-21) con un 47.89 % de descuento con precio de oferta de 83.37 EUR (original: 160 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079TYB4DQ/?tag=tolees-21'
 descuento: '56.69'
+average: '47.64'
 ---
 
 Ahora mismo tienes [Clarks Un Cruise Lace  Zapatos de Cordones Derby para Mujer  Negro  Black Leather   41 EU](https://www.amazon.es/dp/B079TYB4DQ/?tag=tolees-21) a 47.64 EUR (original: 110 EUR) (56.69 %  de descuento) en el siguiente enlace!

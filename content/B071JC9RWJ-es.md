@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071JC9RWJ/?tag=tolees-21'
 descuento: '59.14'
+average: '8.58'
 ---
 
 Ahora mismo tienes [find. Falda Asimétrica para Mujer   Gris  Grey   48  Talla del Fabricante: 3X-Large ](https://www.amazon.es/dp/B071JC9RWJ/?tag=tolees-21) a 8.58 EUR (original: 21 EUR) (59.14 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JFM53MC/?tag=tolees-21'
 descuento: '30.02'
+average: '11.89'
 ---
 
 Tienes [IRIS & LILLY Sh190848 Parte de Arriba Bikini  Multicolor  Midori   40  Talla del fabricante: Medium ](https://www.amazon.es/dp/B07JFM53MC/?tag=tolees-21) con un 30.02 % de descuento con precio de oferta de 11.89 EUR (original: 16.99 EUR) en el siguiente enlace!

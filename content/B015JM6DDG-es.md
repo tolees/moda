@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B015JM6DDG/?tag=tolees-21'
 descuento: '69.35'
+average: '55.17'
 ---
 
 Tienes [Hackett London Pantalón Burdeos ES 31](https://www.amazon.es/dp/B015JM6DDG/?tag=tolees-21) con un 69.35 % de descuento con precio de oferta de 55.17 EUR (original: 180 EUR) en el siguiente enlace!

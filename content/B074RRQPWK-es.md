@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074RRQPWK/?tag=tolees-21'
 descuento: '68.02'
+average: '28.77'
 ---
 
 Ahora mismo tienes [Lee Scarlett High Vaqueros Skinny  Azul  Blue Indigo Hael   26W / 31L para Mujer](https://www.amazon.es/dp/B074RRQPWK/?tag=tolees-21) a 28.77 EUR (original: 89.95 EUR) (68.02 %  de descuento) en el siguiente enlace!

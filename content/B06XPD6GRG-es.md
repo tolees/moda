@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XPD6GRG/?tag=tolees-21'
 descuento: '46.80'
+average: '21.28'
 ---
 
 Tienes [find. Vaqueros Ajustados para Hombre  Azul  Medium Wash   W34/L30  Talla del fabricante: 34 ](https://www.amazon.es/dp/B06XPD6GRG/?tag=tolees-21) con un 46.80 % de descuento con precio de oferta de 21.28 EUR (original: 40 EUR) en el siguiente enlace!

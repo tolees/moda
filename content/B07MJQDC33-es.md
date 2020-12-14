@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MJQDC33/?tag=tolees-21'
 descuento: '25.65'
+average: '28.99'
 ---
 
 Está [Aleumdr Mujer Pantalones Rectos Jeans Cintura Alta Vaqueros Push up para Mujer Azul Size M](https://www.amazon.es/dp/B07MJQDC33/?tag=tolees-21) con 25.65 de descuento por 28.99 EUR (original: 38.99 EUR) en el siguiente enlace!

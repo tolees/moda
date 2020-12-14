@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D2GGKCW/?tag=tolees-21'
 descuento: '64.79'
+average: '38.73'
 ---
 
 Tienes [Levi s 502 Regular Taper Vaqueros Tapered  Negro  Headed South 0279   29W / 32L para Hombre](https://www.amazon.es/dp/B07D2GGKCW/?tag=tolees-21) con un 64.79 % de descuento con precio de oferta de 38.73 EUR (original: 110 EUR) en el siguiente enlace!

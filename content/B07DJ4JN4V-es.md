@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DJ4JN4V/?tag=tolees-21'
 descuento: '67.33'
+average: '22.85'
 ---
 
 Tienes [United Colors of Benetton Jacket  Chaqueta para Hombre  Marrón  Camel 3c7  Small  Talla del Fabricante: 42 ](https://www.amazon.es/dp/B07DJ4JN4V/?tag=tolees-21) con un 67.33 % de descuento con precio de oferta de 22.85 EUR (original: 69.95 EUR) en el siguiente enlace!

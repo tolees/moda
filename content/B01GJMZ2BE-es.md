@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01GJMZ2BE/?tag=tolees-21'
 descuento: '64.24'
+average: '6.44'
 ---
 
 Tienes [PIECES PCRAYA ROUND NECK BLOUSE NOOS  Camisa Manga Larga Mujer  Multicolor  Navy Blazer   38  Talla del fabricante: Medium ](https://www.amazon.es/dp/B01GJMZ2BE/?tag=tolees-21) con un 64.24 % de descuento con precio de oferta de 6.44 EUR (original: 18.01 EUR) en el siguiente enlace!

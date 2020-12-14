@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FQYQ4J1/?tag=tolees-21'
 descuento: '30.09'
+average: '48.9'
 ---
 
 Tienes [Clarks Lynette Deb  Sandalias con Plataforma Plana para Mujer  Marrón  Mahogany Leather-   36 EU](https://www.amazon.es/dp/B07FQYQ4J1/?tag=tolees-21) con un 30.09 % de descuento con precio de oferta de 48.9 EUR (original: 69.95 EUR) en el siguiente enlace!

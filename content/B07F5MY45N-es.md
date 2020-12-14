@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F5MY45N/?tag=tolees-21'
 descuento: '54.20'
+average: '5.95'
 ---
 
 Tienes [JACK & JONES Jaccolorfull Small Stripe Trunks Noos Bóxer  Fiery Red  Hombre](https://www.amazon.es/dp/B07F5MY45N/?tag=tolees-21) con un 54.20 % de descuento con precio de oferta de 5.95 EUR (original: 12.99 EUR) en el siguiente enlace!

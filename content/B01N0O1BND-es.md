@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N0O1BND/?tag=tolees-21'
 descuento: '40.00'
+average: '21'
 ---
 
 Ahora mismo tienes [New Balance MT73581 Camiseta  Hombre  Blanco  White WT   Medium  Tamaño del Fabricante:M ](https://www.amazon.es/dp/B01N0O1BND/?tag=tolees-21) a 21 EUR (original: 35 EUR) (40.00 %  de descuento) en el siguiente enlace!

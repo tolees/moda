@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075SDZL35/?tag=tolees-21'
 descuento: '45.79'
+average: '21.68'
 ---
 
 Ahora mismo tienes [Springfield 1332171  Jersey para Mujer  Rosa  Pink   Medium  Tamaño del Fabricante:M ](https://www.amazon.es/dp/B075SDZL35/?tag=tolees-21) a 21.68 EUR (original: 39.99 EUR) (45.79 %  de descuento) en el siguiente enlace!

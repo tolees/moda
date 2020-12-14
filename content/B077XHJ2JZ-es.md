@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077XHJ2JZ/?tag=tolees-21'
 descuento: '64.78'
+average: '9.14'
 ---
 
 Está [Tuc Tuc Bird Tropic Chaqueta  Bebé-Niñas  Rosa  Fucsia   68  Tamaño del Fabricante:69 ](https://www.amazon.es/dp/B077XHJ2JZ/?tag=tolees-21) con 64.78 de descuento por 9.14 EUR (original: 25.95 EUR) en el siguiente enlace!

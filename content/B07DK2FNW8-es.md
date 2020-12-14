@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DK2FNW8/?tag=tolees-21'
 descuento: '41.74'
+average: '34.9'
 ---
 
 Ahora mismo tienes [Geox Jr Wader  Sandalias Punta Cerrada para Niños  Rojo  Black/Red C0048   36 EU](https://www.amazon.es/dp/B07DK2FNW8/?tag=tolees-21) a 34.9 EUR (original: 59.9 EUR) (41.74 %  de descuento) en el siguiente enlace!

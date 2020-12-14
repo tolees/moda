@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07LBKVYJC/?tag=tolees-21'
 descuento: '43.89'
+average: '28'
 ---
 
 Está [Tommy Hilfiger 3p Trunk Print Bóxer   Navy Blazer/White/Tango Red 056   Large  Talla del Fabricante: LG  para Hombre](https://www.amazon.es/dp/B07LBKVYJC/?tag=tolees-21) con 43.89 de descuento por 28 EUR (original: 49.9 EUR) en el siguiente enlace!

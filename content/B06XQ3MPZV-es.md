@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XQ3MPZV/?tag=tolees-21'
 descuento: '66.11'
+average: '16.93'
 ---
 
 Tienes [Desigual TS_Magdalena  Camiseta para Mujer   Gris Vigore Claro 2042   Small](https://www.amazon.es/dp/B06XQ3MPZV/?tag=tolees-21) con un 66.11 % de descuento con precio de oferta de 16.93 EUR (original: 49.95 EUR) en el siguiente enlace!

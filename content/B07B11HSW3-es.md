@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07B11HSW3/?tag=tolees-21'
 descuento: '53.42'
+average: '23.29'
 ---
 
 Tienes [Kappa Zemin Auth Sudadera  Hombre  Gris  S](https://www.amazon.es/dp/B07B11HSW3/?tag=tolees-21) con un 53.42 % de descuento con precio de oferta de 23.29 EUR (original: 50 EUR) en el siguiente enlace!

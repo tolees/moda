@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0786BSDK8/?tag=tolees-21'
 descuento: '53.46'
+average: '13.94'
 ---
 
 Ahora mismo tienes [Puma Ess Pique  Camiseta Polo Hombre  Azul  Turkish Sea   S](https://www.amazon.es/dp/B0786BSDK8/?tag=tolees-21) a 13.94 EUR (original: 29.95 EUR) (53.46 %  de descuento) en el siguiente enlace!

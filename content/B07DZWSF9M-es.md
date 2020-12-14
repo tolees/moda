@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DZWSF9M/?tag=tolees-21'
 descuento: '27.15'
+average: '24.77'
 ---
 
 Está [Goodthreads Camisa Slim Fit Manga Larga de Tela Labrada Hombre ](https://www.amazon.es/dp/B07DZWSF9M/?tag=tolees-21) con 27.15 de descuento por 24.77 EUR (original: 34 EUR) en el siguiente enlace!

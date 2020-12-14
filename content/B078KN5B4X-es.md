@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078KN5B4X/?tag=tolees-21'
 descuento: '27.77'
+average: '13.45'
 ---
 
 Tienes [Awdis - Sudadera lisa con cuello redondo Unisex  XS /Rosa Grisáceo ](https://www.amazon.es/dp/B078KN5B4X/?tag=tolees-21) con un 27.77 % de descuento con precio de oferta de 13.45 EUR (original: 18.62 EUR) en el siguiente enlace!

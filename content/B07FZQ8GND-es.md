@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FZQ8GND/?tag=tolees-21'
 descuento: '25.52'
+average: '31.64'
 ---
 
 Tienes [Atlético de Madrid Bolsa Deporte Bolso de Viaje 50 cm.](https://www.amazon.es/dp/B07FZQ8GND/?tag=tolees-21) con un 25.52 % de descuento con precio de oferta de 31.64 EUR (original: 42.48 EUR) en el siguiente enlace!

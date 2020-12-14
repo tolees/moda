@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07K2PZYGS/?tag=tolees-21'
 descuento: '57.24'
+average: '121.45'
 ---
 
 Tienes [Love Moschino Heart Logo_Short Sleeve Hooded Fleece Dress Vestido  Gris  Mel.Light Gray A688   38  Talla del Fabricante: 40  para Mujer](https://www.amazon.es/dp/B07K2PZYGS/?tag=tolees-21) con un 57.24 % de descuento con precio de oferta de 121.45 EUR (original: 284 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GVV8QC1/?tag=tolees-21'
 descuento: '51.39'
+average: '21.65'
 ---
 
 Está [New Look Maternity Parka Abrigo  Verde  Dark Khaki   46  Talla del Fabricante: 18  para Mujer](https://www.amazon.es/dp/B07GVV8QC1/?tag=tolees-21) con 51.39 de descuento por 21.65 EUR (original: 44.54 EUR) en el siguiente enlace!

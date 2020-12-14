@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071XJ8K3P/?tag=tolees-21'
 descuento: '75.11'
+average: '8.71'
 ---
 
 Está [VERO MODA Vmantioch 3/4 Cardigan  Chaqueta punto para Mujer  Negro  Black Beauty   34  Talla del fabricante: X-Small ](https://www.amazon.es/dp/B071XJ8K3P/?tag=tolees-21) con 75.11 de descuento por 8.71 EUR (original: 34.99 EUR) en el siguiente enlace!

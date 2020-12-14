@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07H9M1YX9/?tag=tolees-21'
 descuento: '65.28'
+average: '16.66'
 ---
 
 Ahora mismo tienes [Disfraz Conejo Bebe Bebé Disfraces Halloween Carnaval Traje Animales Ropa Pelele Cosplay 3PC](https://www.amazon.es/dp/B07H9M1YX9/?tag=tolees-21) a 16.66 EUR (original: 47.99 EUR) (65.28 %  de descuento) en el siguiente enlace!

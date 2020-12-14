@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01AC6IDO6/?tag=tolees-21'
 descuento: '39.61'
+average: '7.5'
 ---
 
 Está [Nike Training Bib Camiseta  Hombre  Rosa/Negro  Vivid Pink/Black   S/M](https://www.amazon.es/dp/B01AC6IDO6/?tag=tolees-21) con 39.61 de descuento por 7.5 EUR (original: 12.42 EUR) en el siguiente enlace!

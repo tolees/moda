@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01M6B50CI/?tag=tolees-21'
 descuento: '64.45'
+average: '9.29'
 ---
 
 Tienes [adidas Gr Tee B Y Camiseta Real Madrid Fc  Hombre  Blanco  Blanco / Vioray   140](https://www.amazon.es/dp/B01M6B50CI/?tag=tolees-21) con un 64.45 % de descuento con precio de oferta de 9.29 EUR (original: 26.13 EUR) en el siguiente enlace!

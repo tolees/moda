@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KGQRSPX/?tag=tolees-21'
 descuento: '65.04'
+average: '20.96'
 ---
 
 Está [BOSS tee 7 Camiseta  Azul  Navy 121   XX-Large para Hombre](https://www.amazon.es/dp/B07KGQRSPX/?tag=tolees-21) con 65.04 de descuento por 20.96 EUR (original: 59.95 EUR) en el siguiente enlace!

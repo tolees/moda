@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077BZX9CR/?tag=tolees-21'
 descuento: '75.86'
+average: '7.23'
 ---
 
 Ahora mismo tienes [Bench Corp Logo tee Camiseta  Rosa  Cabaret Pk11397   Small para Mujer](https://www.amazon.es/dp/B077BZX9CR/?tag=tolees-21) a 7.23 EUR (original: 29.95 EUR) (75.86 %  de descuento) en el siguiente enlace!

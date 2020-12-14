@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KKJ57GV/?tag=tolees-21'
 descuento: '71.13'
+average: '8.66'
 ---
 
 Está [Naf Naf Keng9 Chaqueta Punto  Beige  Creme 271   X-Large para Mujer](https://www.amazon.es/dp/B07KKJ57GV/?tag=tolees-21) con 71.13 de descuento por 8.66 EUR (original: 30 EUR) en el siguiente enlace!

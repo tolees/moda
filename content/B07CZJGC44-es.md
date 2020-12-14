@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CZJGC44/?tag=tolees-21'
 descuento: '33.21'
+average: '30.05'
 ---
 
 Tienes [Under Armour Vanish Woven Short Pantalón Corto  Hombre  Azul  Dust/Batik 416   L](https://www.amazon.es/dp/B07CZJGC44/?tag=tolees-21) con un 33.21 % de descuento con precio de oferta de 30.05 EUR (original: 44.99 EUR) en el siguiente enlace!

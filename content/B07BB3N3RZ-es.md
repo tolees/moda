@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BB3N3RZ/?tag=tolees-21'
 descuento: '50.00'
+average: '75'
 ---
 
 Está [The North Face T0A3X6 Chaqueta Sangro  Mujer  Urban Navy Light Heather  S](https://www.amazon.es/dp/B07BB3N3RZ/?tag=tolees-21) con 50.00 de descuento por 75 EUR (original: 150 EUR) en el siguiente enlace!

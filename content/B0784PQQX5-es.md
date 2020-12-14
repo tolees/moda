@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0784PQQX5/?tag=tolees-21'
 descuento: '52.08'
+average: '11.98'
 ---
 
 Tienes [Billabong T Street Ss  Camiseta para Hombre  Negro  Black 19   Small](https://www.amazon.es/dp/B0784PQQX5/?tag=tolees-21) con un 52.08 % de descuento con precio de oferta de 11.98 EUR (original: 25 EUR) en el siguiente enlace!

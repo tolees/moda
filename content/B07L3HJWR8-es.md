@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07L3HJWR8/?tag=tolees-21'
 descuento: '29.95'
+average: '27.95'
 ---
 
 Tienes [Tommy Hilfiger Corp Flag tee Camiseta Rojo  Haute Red 611  Medium para Hombre](https://www.amazon.es/dp/B07L3HJWR8/?tag=tolees-21) con un 29.95 % de descuento con precio de oferta de 27.95 EUR (original: 39.9 EUR) en el siguiente enlace!

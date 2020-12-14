@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DLSGVXF/?tag=tolees-21'
 descuento: '29.71'
+average: '14.05'
 ---
 
 Está [Springfield 4.Pa. Detalle Cintas Esco Camiseta de Manga Larga  Mujer  Rosa  Gama Rosas/morados 79   X-Large  Tamaño del Fabricante:XL ](https://www.amazon.es/dp/B07DLSGVXF/?tag=tolees-21) con 29.71 de descuento por 14.05 EUR (original: 19.99 EUR) en el siguiente enlace!

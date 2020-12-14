@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FGNGTX2/?tag=tolees-21'
 descuento: '63.93'
+average: '30.66'
 ---
 
 Tienes [Emporio Armani Underwear Men s Pyjamas  Pantalones de Pijama para Hombre   Rombo Smeraldo/Marin 13685  X-Large](https://www.amazon.es/dp/B07FGNGTX2/?tag=tolees-21) con un 63.93 % de descuento con precio de oferta de 30.66 EUR (original: 85 EUR) en el siguiente enlace!

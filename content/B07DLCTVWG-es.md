@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DLCTVWG/?tag=tolees-21'
 descuento: '60.95'
+average: '11.71'
 ---
 
 Está [Women s Secret Se2 Jacquar PJ Black Conjuntos de Pijama  Mujer  Negro  Negro 1   Large  Tamaño del Fabricante:L ](https://www.amazon.es/dp/B07DLCTVWG/?tag=tolees-21) con 60.95 de descuento por 11.71 EUR (original: 29.99 EUR) en el siguiente enlace!

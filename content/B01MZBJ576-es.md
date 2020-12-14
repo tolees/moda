@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MZBJ576/?tag=tolees-21'
 descuento: '74.47'
+average: '9.19'
 ---
 
 Está [edc by Esprit 057cc1d013  Falda Mujer  Blanco  Off White   34  Talla del Fabricante: X-Small ](https://www.amazon.es/dp/B01MZBJ576/?tag=tolees-21) con 74.47 de descuento por 9.19 EUR (original: 35.99 EUR) en el siguiente enlace!

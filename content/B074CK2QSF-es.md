@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074CK2QSF/?tag=tolees-21'
 descuento: '83.86'
+average: '8.06'
 ---
 
 Está [Blend 20704817 Vaqueros Skinny  Azul  Mood Indigo Blue     Tamaño del Fabricante:28  para Hombre](https://www.amazon.es/dp/B074CK2QSF/?tag=tolees-21) con 83.86 de descuento por 8.06 EUR (original: 49.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076M3YK5H/?tag=tolees-21'
 descuento: '30.01'
+average: '18.19'
 ---
 
 Tienes [Iris & Lilly AM8525 sujetadores push up  Negro  Black   90C  Talla del fabricante: 34C   Pack de 2](https://www.amazon.es/dp/B076M3YK5H/?tag=tolees-21) con un 30.01 % de descuento con precio de oferta de 18.19 EUR (original: 25.99 EUR) en el siguiente enlace!

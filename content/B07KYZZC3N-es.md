@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KYZZC3N/?tag=tolees-21'
 descuento: '71.29'
+average: '5.74'
 ---
 
 Está [Springfield 6Lc NASA Spaceship  Camiseta para Hombre   Gama Azules 12   X-Small  Tamaño del Fabricante:XS ](https://www.amazon.es/dp/B07KYZZC3N/?tag=tolees-21) con 71.29 de descuento por 5.74 EUR (original: 19.99 EUR) en el siguiente enlace!

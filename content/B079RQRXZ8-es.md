@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079RQRXZ8/?tag=tolees-21'
 descuento: '70.13'
+average: '11.92'
 ---
 
 Tienes [Pepe Jeans Luna PL503893  Camiseta para Mujer  Gris  Grey Marl 933  Large](https://www.amazon.es/dp/B079RQRXZ8/?tag=tolees-21) con un 70.13 % de descuento con precio de oferta de 11.92 EUR (original: 39.9 EUR) en el siguiente enlace!

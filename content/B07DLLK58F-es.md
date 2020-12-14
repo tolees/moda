@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DLLK58F/?tag=tolees-21'
 descuento: '40.68'
+average: '27.28'
 ---
 
 Ahora mismo tienes [Springfield 8.T.Ap. Plumas BS con Gross G, Chaqueta para Mujer, (Gama Azules 19), (Tamaño del Fabricante:42)](https://www.amazon.es/dp/B07DLLK58F/?tag=tolees-21) a 27.28 EUR (original: 45.99 EUR) (40.68 %  de descuento) en el siguiente enlace!

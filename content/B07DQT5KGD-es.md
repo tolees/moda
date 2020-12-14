@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DQT5KGD/?tag=tolees-21'
 descuento: '48.50'
+average: '15.45'
 ---
 
 Tienes [Volcom Cresticle BSC SS Camiseta  Hombre  Blanco  XL](https://www.amazon.es/dp/B07DQT5KGD/?tag=tolees-21) con un 48.50 % de descuento con precio de oferta de 15.45 EUR (original: 30 EUR) en el siguiente enlace!

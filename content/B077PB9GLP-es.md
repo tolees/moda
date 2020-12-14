@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077PB9GLP/?tag=tolees-21'
 descuento: '61.75'
+average: '19.12'
 ---
 
 Ahora mismo tienes [Quiksilver Pantalón de Chándal  Hombre  Dark Grey Heather  M](https://www.amazon.es/dp/B077PB9GLP/?tag=tolees-21) a 19.12 EUR (original: 49.99 EUR) (61.75 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KZ28WKK/?tag=tolees-21'
 descuento: '50.01'
+average: '19.99'
 ---
 
 Ahora mismo tienes [Springfield 490-Bomber Basica Chaqueta Bomber  Gama Verdes 26  Large  Tamaño del Fabricante:L  para Hombre](https://www.amazon.es/dp/B07KZ28WKK/?tag=tolees-21) a 19.99 EUR (original: 39.99 EUR) (50.01 %  de descuento) en el siguiente enlace!

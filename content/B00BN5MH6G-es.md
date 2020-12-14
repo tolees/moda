@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00BN5MH6G/?tag=tolees-21'
 descuento: '26.96'
+average: '21.84'
 ---
 
 Ahora mismo tienes [Pepe Jeans Flag Logo LS Pm501326  Camiseta Hombre  Gris  Grey Marl 933   Large](https://www.amazon.es/dp/B00BN5MH6G/?tag=tolees-21) a 21.84 EUR (original: 29.9 EUR) (26.96 %  de descuento) en el siguiente enlace!

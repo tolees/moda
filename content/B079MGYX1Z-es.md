@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079MGYX1Z/?tag=tolees-21'
 descuento: '54.48'
+average: '13.65'
 ---
 
 Ahora mismo tienes [JACK & JONES Jorsheridan Shirt SS Western Noos  Camisa para Hombre  Gris  Light Grey Denim  Medium](https://www.amazon.es/dp/B079MGYX1Z/?tag=tolees-21) a 13.65 EUR (original: 29.99 EUR) (54.48 %  de descuento) en el siguiente enlace!

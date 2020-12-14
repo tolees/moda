@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DBF2G38/?tag=tolees-21'
 descuento: '70.15'
+average: '20.88'
 ---
 
 Ahora mismo tienes [United Colors of Benetton Heavy Jacket  Chaqueta para Niños  Rojo  Red 015  92  Talla del Fabricante: 1y ](https://www.amazon.es/dp/B07DBF2G38/?tag=tolees-21) a 20.88 EUR (original: 69.95 EUR) (70.15 %  de descuento) en el siguiente enlace!

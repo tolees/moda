@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F1RYHWN/?tag=tolees-21'
 descuento: '52.42'
+average: '14.27'
 ---
 
 Ahora mismo tienes [Celio Modestaire  Vaqueros Slim para Hombre  Negro Blue Black  W34/L34  Talla del Fabricante: 44 ](https://www.amazon.es/dp/B07F1RYHWN/?tag=tolees-21) a 14.27 EUR (original: 29.99 EUR) (52.42 %  de descuento) en el siguiente enlace!

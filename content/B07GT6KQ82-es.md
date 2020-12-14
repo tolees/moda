@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GT6KQ82/?tag=tolees-21'
 descuento: '25.03'
+average: '29.95'
 ---
 
 Ahora mismo tienes [Vero Moda OuterwearVero Moda Pamela Chaqueta Acolchada de Plumas Chaqueta De Entretiempo para Mujer con Capucha  tamaño:M  Color:Chili Pepper](https://www.amazon.es/dp/B07GT6KQ82/?tag=tolees-21) a 29.95 EUR (original: 39.95 EUR) (25.03 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B011BQHWFC/?tag=tolees-21'
 descuento: '41.34'
+average: '19.58'
 ---
 
 Ahora mismo tienes [Zapatos de trabajo de seguridad Alto de piel negro S3](https://www.amazon.es/dp/B011BQHWFC/?tag=tolees-21) a 19.58 EUR (original: 33.38 EUR) (41.34 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01F3KGSUW/?tag=tolees-21'
 descuento: '55.25'
+average: '22.35'
 ---
 
 Está [Rieker Y9020  Botines para Mujer  Gris  Rauch / 45   38 EU](https://www.amazon.es/dp/B01F3KGSUW/?tag=tolees-21) con 55.25 de descuento por 22.35 EUR (original: 49.94 EUR) en el siguiente enlace!

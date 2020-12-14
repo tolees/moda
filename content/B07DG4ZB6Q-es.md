@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DG4ZB6Q/?tag=tolees-21'
 descuento: '59.64'
+average: '20.95'
 ---
 
 Ahora mismo tienes [Puma Amplified Big Logo tee Camiseta  Hombre  Verde  Olivine   XL](https://www.amazon.es/dp/B07DG4ZB6Q/?tag=tolees-21) a 20.95 EUR (original: 51.91 EUR) (59.64 %  de descuento) en el siguiente enlace!

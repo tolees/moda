@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072LD9KZ6/?tag=tolees-21'
 descuento: '59.29'
+average: '65.11'
 ---
 
 Tienes [Neosens S062 Restored Skin  Botines para Mujer  Marrón  Cuero   37 EU](https://www.amazon.es/dp/B072LD9KZ6/?tag=tolees-21) con un 59.29 % de descuento con precio de oferta de 65.11 EUR (original: 159.95 EUR) en el siguiente enlace!

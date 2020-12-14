@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072C6Y4RL/?tag=tolees-21'
 descuento: '65.01'
+average: '62.64'
 ---
 
 Está [Ray-Ban 4360 Gafas de sol  Top Havana on Light Brown  54 para Mujer](https://www.amazon.es/dp/B072C6Y4RL/?tag=tolees-21) con 65.01 de descuento por 62.64 EUR (original: 179 EUR) en el siguiente enlace!

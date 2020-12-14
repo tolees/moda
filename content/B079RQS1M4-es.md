@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079RQS1M4/?tag=tolees-21'
 descuento: '69.13'
+average: '26.24'
 ---
 
 Tienes [Pepe Jeans LUPPE PL952408  Vestido para Mujer  Negro  Black 999   Large](https://www.amazon.es/dp/B079RQS1M4/?tag=tolees-21) con un 69.13 % de descuento con precio de oferta de 26.24 EUR (original: 85 EUR) en el siguiente enlace!

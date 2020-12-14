@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F95HM6M/?tag=tolees-21'
 descuento: '42.24'
+average: '46.2'
 ---
 
 Tienes [JACK & JONES Jorlatte Parka Jacket  Verde Forest Night  Small para Hombre](https://www.amazon.es/dp/B07F95HM6M/?tag=tolees-21) con un 42.24 % de descuento con precio de oferta de 46.2 EUR (original: 79.99 EUR) en el siguiente enlace!

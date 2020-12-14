@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07L9SH4LC/?tag=tolees-21'
 descuento: '62.80'
+average: '66.58'
 ---
 
 Ahora mismo tienes [Napapijri Rainforest M Sum 1 Rhubarb Red Chaqueta  Rojo R85  Large para Hombre](https://www.amazon.es/dp/B07L9SH4LC/?tag=tolees-21) a 66.58 EUR (original: 179 EUR) (62.80 %  de descuento) en el siguiente enlace!

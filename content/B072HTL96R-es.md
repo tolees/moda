@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072HTL96R/?tag=tolees-21'
 descuento: '45.82'
+average: '37.92'
 ---
 
 Tienes [JACK & JONES Jjiglenn Jjoriginal Am 431 SPS Noos Pantalones Vaqueros Delgados  Azul  Blue Denim   W28/L30  Talla del Fabricante: 28  para Hombre](https://www.amazon.es/dp/B072HTL96R/?tag=tolees-21) con un 45.82 % de descuento con precio de oferta de 37.92 EUR (original: 69.99 EUR) en el siguiente enlace!

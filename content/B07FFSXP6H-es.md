@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FFSXP6H/?tag=tolees-21'
 descuento: '60.65'
+average: '22.03'
 ---
 
 Está [Jennyfer 00laba  Abrigo para Mujer  Gris  Chine Grey 76.0  Small](https://www.amazon.es/dp/B07FFSXP6H/?tag=tolees-21) con 60.65 de descuento por 22.03 EUR (original: 55.99 EUR) en el siguiente enlace!

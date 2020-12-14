@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0757KW1RJ/?tag=tolees-21'
 descuento: '51.74'
+average: '8.2'
 ---
 
 Ahora mismo tienes [Iris & Lilly Sudadera con Capucha con Orejas para Mujer  Rojo  Hoodie Red   Medium](https://www.amazon.es/dp/B0757KW1RJ/?tag=tolees-21) a 8.2 EUR (original: 16.99 EUR) (51.74 %  de descuento) en el siguiente enlace!

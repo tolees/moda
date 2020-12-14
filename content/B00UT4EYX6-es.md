@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00UT4EYX6/?tag=tolees-21'
 descuento: '42.77'
+average: '129.91'
 ---
 
 Está [OAKLEY Jawbreaker OO9290 Gafas de sol para Unisex  Blanco Brillo](https://www.amazon.es/dp/B00UT4EYX6/?tag=tolees-21) con 42.77 de descuento por 129.91 EUR (original: 227 EUR) en el siguiente enlace!

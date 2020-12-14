@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00MY3IA80/?tag=tolees-21'
 descuento: '58.14'
+average: '41.84'
 ---
 
 Ahora mismo tienes [Clarks Raspin Plan - Zapatos con Cordones de Cuero Hombre  Color marrón  Talla 45](https://www.amazon.es/dp/B00MY3IA80/?tag=tolees-21) a 41.84 EUR (original: 99.95 EUR) (58.14 %  de descuento) en el siguiente enlace!

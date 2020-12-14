@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FPXF48D/?tag=tolees-21'
 descuento: '30.09'
+average: '34.95'
 ---
 
 Está [JACK & JONES Jjitim Jjoriginal Am 781 50sps Noos  Vaqueros Slim para Hombre  Azul Blue Denim  W30/L36](https://www.amazon.es/dp/B07FPXF48D/?tag=tolees-21) con 30.09 de descuento por 34.95 EUR (original: 49.99 EUR) en el siguiente enlace!

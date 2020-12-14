@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DLTZTGF/?tag=tolees-21'
 descuento: '75.43'
+average: '11.3'
 ---
 
 Está [Springfield 6.T.Ap. Plumas C.Alto Chaqueta  Gama Verdes 29   Tamaño del Fabricante:42  para Mujer](https://www.amazon.es/dp/B07DLTZTGF/?tag=tolees-21) con 75.43 de descuento por 11.3 EUR (original: 45.99 EUR) en el siguiente enlace!

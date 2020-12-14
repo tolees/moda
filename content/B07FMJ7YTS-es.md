@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FMJ7YTS/?tag=tolees-21'
 descuento: '52.53'
+average: '14.24'
 ---
 
 Ahora mismo tienes [Nike M Nk BRT Top SS Dry  Camiseta de Tirantes para Hombre  Verde Flak/Olive Canvas/Black 399  Small](https://www.amazon.es/dp/B07FMJ7YTS/?tag=tolees-21) a 14.24 EUR (original: 30 EUR) (52.53 %  de descuento) en el siguiente enlace!

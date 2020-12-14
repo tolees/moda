@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MYSBWXP/?tag=tolees-21'
 descuento: '66.37'
+average: '18.48'
 ---
 
 Está [MAMALICIOUS MLMARIA L/S KNIT DRESS  Vestido Mujer  Gris  Dark Grey Melange   38  Talla del fabricante: Medium ](https://www.amazon.es/dp/B01MYSBWXP/?tag=tolees-21) con 66.37 de descuento por 18.48 EUR (original: 54.95 EUR) en el siguiente enlace!

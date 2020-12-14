@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D94PN5P/?tag=tolees-21'
 descuento: '60.93'
+average: '21.86'
 ---
 
 Está [Marco Tozzi 25331-21  Botines para Mujer  Marrón  Cognac Ant.Com 372   39 EU](https://www.amazon.es/dp/B07D94PN5P/?tag=tolees-21) con 60.93 de descuento por 21.86 EUR (original: 55.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KMTRG9T/?tag=tolees-21'
 descuento: '53.72'
+average: '41.65'
 ---
 
 Está [Volcom Ermont Chaqueta  Hombre  Burgundy  S](https://www.amazon.es/dp/B07KMTRG9T/?tag=tolees-21) con 53.72 de descuento por 41.65 EUR (original: 90 EUR) en el siguiente enlace!

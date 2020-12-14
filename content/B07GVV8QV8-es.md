@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GVV8QV8/?tag=tolees-21'
 descuento: '73.45'
+average: '19.67'
 ---
 
 Ahora mismo tienes [Burton Menswear London Green Two Tone Lightweight Hooded Padded Jacket  Chaqueta para Hombre  Verde  X-Large](https://www.amazon.es/dp/B07GVV8QV8/?tag=tolees-21) a 19.67 EUR (original: 74.08 EUR) (73.45 %  de descuento) en el siguiente enlace!

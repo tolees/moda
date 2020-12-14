@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07J6XGS1J/?tag=tolees-21'
 descuento: '54.36'
+average: '8.21'
 ---
 
 Ahora mismo tienes [Mayoral 791429  Camiseta de Manga Larga para Niñas  Azul  Marino 11  8 años  Tamaño del Fabricante:8 ](https://www.amazon.es/dp/B07J6XGS1J/?tag=tolees-21) a 8.21 EUR (original: 17.99 EUR) (54.36 %  de descuento) en el siguiente enlace!

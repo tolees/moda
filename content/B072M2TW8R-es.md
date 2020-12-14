@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072M2TW8R/?tag=tolees-21'
 descuento: '30.02'
+average: '9.09'
 ---
 
 Está [RED WAGON Falda Skater Niñas  Pack de 2  Gris  Grey Marl/ Tbc   4 años](https://www.amazon.es/dp/B072M2TW8R/?tag=tolees-21) con 30.02 de descuento por 9.09 EUR (original: 12.99 EUR) en el siguiente enlace!

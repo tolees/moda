@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079XC79FZ/?tag=tolees-21'
 descuento: '76.84'
+average: '38.22'
 ---
 
 Ahora mismo tienes [KENNETH COLE Levin Monk  Zapatos de Cordones Oxford para Hombre  Negro  Black 001   45 EU](https://www.amazon.es/dp/B079XC79FZ/?tag=tolees-21) a 38.22 EUR (original: 165 EUR) (76.84 %  de descuento) en el siguiente enlace!

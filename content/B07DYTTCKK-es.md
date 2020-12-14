@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DYTTCKK/?tag=tolees-21'
 descuento: '52.74'
+average: '47.26'
 ---
 
 Está [Columbia 1562212_S Conjunto de Nieve con Chaqueta para niños  Buga  Azul  Dark Mountain Arrow Print   Talla 2T](https://www.amazon.es/dp/B07DYTTCKK/?tag=tolees-21) con 52.74 de descuento por 47.26 EUR (original: 99.99 EUR) en el siguiente enlace!

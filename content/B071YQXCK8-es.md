@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071YQXCK8/?tag=tolees-21'
 descuento: '74.77'
+average: '22.7'
 ---
 
 Está [Tom Tailor Denim Cotton Parka with Fur Collar  Chaqueta para Mujer  Negro  Black Olive 7074  Medium](https://www.amazon.es/dp/B071YQXCK8/?tag=tolees-21) con 74.77 de descuento por 22.7 EUR (original: 89.99 EUR) en el siguiente enlace!

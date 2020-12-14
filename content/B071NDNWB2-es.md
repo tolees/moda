@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071NDNWB2/?tag=tolees-21'
 descuento: '70.86'
+average: '11.64'
 ---
 
 Está [Refresh 063868  Botines para Mujer  Azul  Navy   39 EU](https://www.amazon.es/dp/B071NDNWB2/?tag=tolees-21) con 70.86 de descuento por 11.64 EUR (original: 39.95 EUR) en el siguiente enlace!

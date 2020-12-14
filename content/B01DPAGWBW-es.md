@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01DPAGWBW/?tag=tolees-21'
 descuento: '52.50'
+average: '71.23'
 ---
 
 Está [Dainese-CARBON D1 LONG LADY Guantes  Negro/Negro/Negro  Talla L](https://www.amazon.es/dp/B01DPAGWBW/?tag=tolees-21) con 52.50 de descuento por 71.23 EUR (original: 149.95 EUR) en el siguiente enlace!

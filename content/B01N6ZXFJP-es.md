@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N6ZXFJP/?tag=tolees-21'
 descuento: '33.10'
+average: '33.45'
 ---
 
 Está [Lacoste TH6709  Camiseta para Hombre  Azul  Marine   XL  Talla del fabricante: 6 ](https://www.amazon.es/dp/B01N6ZXFJP/?tag=tolees-21) con 33.10 de descuento por 33.45 EUR (original: 50 EUR) en el siguiente enlace!

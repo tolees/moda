@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07994PMJG/?tag=tolees-21'
 descuento: '30.58'
+average: '65.95'
 ---
 
 Ahora mismo tienes [Tommy Jeans Hombre  Scanton Vaqueros   Azul  Wilson Mid Blue Stretch 911  W32/L32](https://www.amazon.es/dp/B07994PMJG/?tag=tolees-21) a 65.95 EUR (original: 95 EUR) (30.58 %  de descuento) en el siguiente enlace!

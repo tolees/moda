@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KGHKS6Y/?tag=tolees-21'
 descuento: '71.71'
+average: '19.79'
 ---
 
 Está [BOSS Twell Camiseta  Blanco  White 100   X-Large para Hombre](https://www.amazon.es/dp/B07KGHKS6Y/?tag=tolees-21) con 71.71 de descuento por 19.79 EUR (original: 69.95 EUR) en el siguiente enlace!

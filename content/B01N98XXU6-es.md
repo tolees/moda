@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N98XXU6/?tag=tolees-21'
 descuento: '78.20'
+average: '5.45'
 ---
 
 Tienes [Camiseta Nox Granate-M](https://www.amazon.es/dp/B01N98XXU6/?tag=tolees-21) con un 78.20 % de descuento con precio de oferta de 5.45 EUR (original: 25 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071P2LW8S/?tag=tolees-21'
 descuento: '62.14'
+average: '30.29'
 ---
 
 Tienes [Under Armour Playoff FZ Sudadera  Hombre  Azul  408   XL](https://www.amazon.es/dp/B071P2LW8S/?tag=tolees-21) con un 62.14 % de descuento con precio de oferta de 30.29 EUR (original: 80 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077GG3N5Y/?tag=tolees-21'
 descuento: '50.87'
+average: '14.69'
 ---
 
 Está [Pepe Jeans Grace PL503793  Camiseta para Mujer  Azul  Frost Blue 503  X-Large](https://www.amazon.es/dp/B077GG3N5Y/?tag=tolees-21) con 50.87 de descuento por 14.69 EUR (original: 29.9 EUR) en el siguiente enlace!

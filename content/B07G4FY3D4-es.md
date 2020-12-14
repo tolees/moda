@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07G4FY3D4/?tag=tolees-21'
 descuento: '30.24'
+average: '27.87'
 ---
 
 Tienes [BOSS T-Shirt RN 3p Co Camiseta  Azul  Open Blue 480   Small  Pack de 3 para Hombre](https://www.amazon.es/dp/B07G4FY3D4/?tag=tolees-21) con un 30.24 % de descuento con precio de oferta de 27.87 EUR (original: 39.95 EUR) en el siguiente enlace!

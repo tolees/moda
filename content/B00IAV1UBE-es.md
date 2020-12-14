@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00IAV1UBE/?tag=tolees-21'
 descuento: '65.76'
+average: '13.66'
 ---
 
 Está [Urban Dance Pantalón Deporte Negro/Rosa S](https://www.amazon.es/dp/B00IAV1UBE/?tag=tolees-21) con 65.76 de descuento por 13.66 EUR (original: 39.9 EUR) en el siguiente enlace!

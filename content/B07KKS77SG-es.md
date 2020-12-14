@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KKS77SG/?tag=tolees-21'
 descuento: '68.37'
+average: '18.96'
 ---
 
 Tienes [HUGO Dicagolino Sudadera  Amarillo  Bright Yellow 730   Small para Hombre](https://www.amazon.es/dp/B07KKS77SG/?tag=tolees-21) con un 68.37 % de descuento con precio de oferta de 18.96 EUR (original: 59.95 EUR) en el siguiente enlace!

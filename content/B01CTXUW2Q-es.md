@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01CTXUW2Q/?tag=tolees-21'
 descuento: '69.58'
+average: '16.29'
 ---
 
 Tienes [Won Hundred Camiseta Manga Corta Marrón S](https://www.amazon.es/dp/B01CTXUW2Q/?tag=tolees-21) con un 69.58 % de descuento con precio de oferta de 16.29 EUR (original: 53.55 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075GYL6LK/?tag=tolees-21'
 descuento: '28.11'
+average: '21.53'
 ---
 
 Tienes [Desigual TS_Sydney  Camiseta para Niñas   Rosa Palido 3025   116  Talla del Fabricante: 5/6 ](https://www.amazon.es/dp/B075GYL6LK/?tag=tolees-21) con un 28.11 % de descuento con precio de oferta de 21.53 EUR (original: 29.95 EUR) en el siguiente enlace!

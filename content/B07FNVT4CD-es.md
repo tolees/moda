@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FNVT4CD/?tag=tolees-21'
 descuento: '78.26'
+average: '30.43'
 ---
 
 Ahora mismo tienes [edc by Esprit 108cc2g016  Chaqueta para Hombre  Negro  Black 001  XX-Large](https://www.amazon.es/dp/B07FNVT4CD/?tag=tolees-21) a 30.43 EUR (original: 139.99 EUR) (78.26 %  de descuento) en el siguiente enlace!

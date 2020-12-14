@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DYTTLLR/?tag=tolees-21'
 descuento: '44.71'
+average: '93.98'
 ---
 
 Está [Columbia Chaqueta de esquí Impermeable para Hombre  Ride On Ski Jacket  Negro  Talla XXL](https://www.amazon.es/dp/B07DYTTLLR/?tag=tolees-21) con 44.71 de descuento por 93.98 EUR (original: 169.99 EUR) en el siguiente enlace!

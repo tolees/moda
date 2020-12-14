@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DK5L12J/?tag=tolees-21'
 descuento: '50.00'
+average: '29.95'
 ---
 
 Tienes [Geox J Flexyper Boy D  Zapatillas para Niños  Gris  Grey/Lime Green C1172   29 EU](https://www.amazon.es/dp/B07DK5L12J/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 29.95 EUR (original: 59.9 EUR) en el siguiente enlace!

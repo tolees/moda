@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N5TAV55/?tag=tolees-21'
 descuento: '55.89'
+average: '13.21'
 ---
 
 Está [Head Vision Corpo Camiseta Deporte  Hombre  Navy  S](https://www.amazon.es/dp/B01N5TAV55/?tag=tolees-21) con 55.89 de descuento por 13.21 EUR (original: 29.95 EUR) en el siguiente enlace!

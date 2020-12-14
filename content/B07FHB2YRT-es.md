@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FHB2YRT/?tag=tolees-21'
 descuento: '61.71'
+average: '36.38'
 ---
 
 Tienes [Levi s Plus Size 310 Pl Shping SPR Skinny Vaqueros  Azul  Affinity Plus 0021   22S para Mujer](https://www.amazon.es/dp/B07FHB2YRT/?tag=tolees-21) con un 61.71 % de descuento con precio de oferta de 36.38 EUR (original: 95 EUR) en el siguiente enlace!

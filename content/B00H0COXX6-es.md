@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00H0COXX6/?tag=tolees-21'
 descuento: '78.25'
+average: '18.49'
 ---
 
 Tienes [Nike Tournament Knit Falda  Mujer  Blanco  M](https://www.amazon.es/dp/B00H0COXX6/?tag=tolees-21) con un 78.25 % de descuento con precio de oferta de 18.49 EUR (original: 85 EUR) en el siguiente enlace!

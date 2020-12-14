@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078WTB57G/?tag=tolees-21'
 descuento: '70.55'
+average: '14.72'
 ---
 
 Tienes [Cortefiel Blusa  Beige  Crudo 96   L para Mujer](https://www.amazon.es/dp/B078WTB57G/?tag=tolees-21) con un 70.55 % de descuento con precio de oferta de 14.72 EUR (original: 49.99 EUR) en el siguiente enlace!

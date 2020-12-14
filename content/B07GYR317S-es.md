@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GYR317S/?tag=tolees-21'
 descuento: '38.48'
+average: '15.99'
 ---
 
 Tienes [L-RUN Trabajo Impermeable Botas de Nieve Antideslizante Zapatos de Invierno al Aire Libre Negro 8 UK/EU 42](https://www.amazon.es/dp/B07GYR317S/?tag=tolees-21) con un 38.48 % de descuento con precio de oferta de 15.99 EUR (original: 25.99 EUR) en el siguiente enlace!

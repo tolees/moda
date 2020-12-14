@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FQYVLGF/?tag=tolees-21'
 descuento: '58.51'
+average: '37.32'
 ---
 
 Está [Clarks Sharon Crystal  Zapatos de Cordones Derby para Mujer  Beige  Nude-   39 EU](https://www.amazon.es/dp/B07FQYVLGF/?tag=tolees-21) con 58.51 de descuento por 37.32 EUR (original: 89.95 EUR) en el siguiente enlace!

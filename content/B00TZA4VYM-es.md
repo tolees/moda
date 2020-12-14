@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00TZA4VYM/?tag=tolees-21'
 descuento: '58.33'
+average: '6.95'
 ---
 
 Está [Kempa - Camiseta Manga Corta Promo T-Shirt  Talla XXS  Color Negro](https://www.amazon.es/dp/B00TZA4VYM/?tag=tolees-21) con 58.33 de descuento por 6.95 EUR (original: 16.68 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DGNQ9YW/?tag=tolees-21'
 descuento: '55.78'
+average: '60.44'
 ---
 
 Está [Timberland Amherst  Botas Chukka para Hombre  Verde  Grape Leaf Nubuck A58   45.5 EU](https://www.amazon.es/dp/B07DGNQ9YW/?tag=tolees-21) con 55.78 de descuento por 60.44 EUR (original: 136.67 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KJT8JLR/?tag=tolees-21'
 descuento: '84.79'
+average: '21.14'
 ---
 
 Tienes [REPLAY Luz Coin Zip Vaqueros Skinny  Azul  Light Blue 10   W23/L32  Talla del Fabricante: 23  para Mujer](https://www.amazon.es/dp/B07KJT8JLR/?tag=tolees-21) con un 84.79 % de descuento con precio de oferta de 21.14 EUR (original: 139 EUR) en el siguiente enlace!

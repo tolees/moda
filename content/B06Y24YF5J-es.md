@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06Y24YF5J/?tag=tolees-21'
 descuento: '50.00'
+average: '34.95'
 ---
 
 Ahora mismo tienes [Geox J Casey M  Zapatos de Cordones Derby para Niñas  Negro  Black   36 EU](https://www.amazon.es/dp/B06Y24YF5J/?tag=tolees-21) a 34.95 EUR (original: 69.9 EUR) (50.00 %  de descuento) en el siguiente enlace!

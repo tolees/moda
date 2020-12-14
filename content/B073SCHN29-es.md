@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073SCHN29/?tag=tolees-21'
 descuento: '70.00'
+average: '5.4'
 ---
 
 Tienes [FIND Camiseta Mensaje para Hombre  Blanco  White 001   Large](https://www.amazon.es/dp/B073SCHN29/?tag=tolees-21) con un 70.00 % de descuento con precio de oferta de 5.4 EUR (original: 18 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JL54TND/?tag=tolees-21'
 descuento: '57.27'
+average: '17.07'
 ---
 
 Está [XTI 86056  Bolso maletín para Mujer  Rosa  Nude   35x22x14 cm  W x H x L ](https://www.amazon.es/dp/B07JL54TND/?tag=tolees-21) con 57.27 de descuento por 17.07 EUR (original: 39.95 EUR) en el siguiente enlace!

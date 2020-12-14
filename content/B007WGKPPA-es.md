@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B007WGKPPA/?tag=tolees-21'
 descuento: '50.12'
+average: '12.97'
 ---
 
 Está [Nike Pico 4  Tdv   Zapatos de Primeros Pasos para Bebés  Negro  Negro 454501 001   25 EU](https://www.amazon.es/dp/B007WGKPPA/?tag=tolees-21) con 50.12 de descuento por 12.97 EUR (original: 26 EUR) en el siguiente enlace!

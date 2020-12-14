@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B012ARNONA/?tag=tolees-21'
 descuento: '67.79'
+average: '75.69'
 ---
 
 Tienes [Pedro del Hierro Vestido Azul Tinta ES 44](https://www.amazon.es/dp/B012ARNONA/?tag=tolees-21) con un 67.79 % de descuento con precio de oferta de 75.69 EUR (original: 235 EUR) en el siguiente enlace!

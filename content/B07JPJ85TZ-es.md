@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JPJ85TZ/?tag=tolees-21'
 descuento: '45.37'
+average: '54.08'
 ---
 
 Ahora mismo tienes [Pepe Jeans Core Jacket Chaqueta Vaquera  Azul  Wiser Wash Medium Used Denim Wx6   Mujer](https://www.amazon.es/dp/B07JPJ85TZ/?tag=tolees-21) a 54.08 EUR (original: 99 EUR) (45.37 %  de descuento) en el siguiente enlace!

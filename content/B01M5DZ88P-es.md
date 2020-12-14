@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01M5DZ88P/?tag=tolees-21'
 descuento: '62.47'
+average: '11.26'
 ---
 
 Está [Under Armour Tech 2.0 Pantalón Corto  Mujer  Gris  L](https://www.amazon.es/dp/B01M5DZ88P/?tag=tolees-21) con 62.47 de descuento por 11.26 EUR (original: 30 EUR) en el siguiente enlace!

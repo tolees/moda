@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07PDRNN4L/?tag=tolees-21'
 descuento: '35.02'
+average: '12.99'
 ---
 
 Ahora mismo tienes [Laiwodun Bikini de Dos Piezas para Mujer Conjunto de Bikini con Espalda Cruzada Traje de baño de impresión sin Espalda Traje de baño Rojo M](https://www.amazon.es/dp/B07PDRNN4L/?tag=tolees-21) a 12.99 EUR (original: 19.99 EUR) (35.02 %  de descuento) en el siguiente enlace!

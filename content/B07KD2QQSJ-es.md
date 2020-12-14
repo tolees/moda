@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KD2QQSJ/?tag=tolees-21'
 descuento: '46.70'
+average: '15.99'
 ---
 
 Tienes [Hurley - Camiseta para hombre  Azul clarito  XXL  High Bars Prm Tee Ss](https://www.amazon.es/dp/B07KD2QQSJ/?tag=tolees-21) con un 46.70 % de descuento con precio de oferta de 15.99 EUR (original: 30 EUR) en el siguiente enlace!

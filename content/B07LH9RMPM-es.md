@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07LH9RMPM/?tag=tolees-21'
 descuento: '41.27'
+average: '17.62'
 ---
 
 Está [The North Face S/S Celebration Easy tee Camiseta  Hombre  Asphalt Grey  M](https://www.amazon.es/dp/B07LH9RMPM/?tag=tolees-21) con 41.27 de descuento por 17.62 EUR (original: 30 EUR) en el siguiente enlace!

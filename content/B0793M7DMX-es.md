@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0793M7DMX/?tag=tolees-21'
 descuento: '31.94'
+average: '54.44'
 ---
 
 Ahora mismo tienes [adidas Spain Away Replica Jersey Camiseta  Hombre  Azul  azuhal/rojbri   S](https://www.amazon.es/dp/B0793M7DMX/?tag=tolees-21) a 54.44 EUR (original: 79.99 EUR) (31.94 %  de descuento) en el siguiente enlace!

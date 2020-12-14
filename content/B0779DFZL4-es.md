@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0779DFZL4/?tag=tolees-21'
 descuento: '73.89'
+average: '26.08'
 ---
 
 Tienes [El Naturalista N5016  Zapatos de tacón con Punta Abierta para Mujer  Marrón  Nude   39 EU](https://www.amazon.es/dp/B0779DFZL4/?tag=tolees-21) con un 73.89 % de descuento con precio de oferta de 26.08 EUR (original: 99.9 EUR) en el siguiente enlace!

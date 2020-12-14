@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CR67NB1/?tag=tolees-21'
 descuento: '30.00'
+average: '16.8'
 ---
 
 Tienes [AURIQUE Leggings de Deporte sin Costuras Mujer  Negro  Black   40  Talla del fabricante: M ](https://www.amazon.es/dp/B07CR67NB1/?tag=tolees-21) con un 30.00 % de descuento con precio de oferta de 16.8 EUR (original: 24 EUR) en el siguiente enlace!

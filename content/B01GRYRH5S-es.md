@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01GRYRH5S/?tag=tolees-21'
 descuento: '71.20'
+average: '28.77'
 ---
 
 Tienes [Geox D Myria A  Zapatillas Bajas para Mujer  Marrón  Chestnut/GUNC6J1G   35 EU](https://www.amazon.es/dp/B01GRYRH5S/?tag=tolees-21) con un 71.20 % de descuento con precio de oferta de 28.77 EUR (original: 99.9 EUR) en el siguiente enlace!

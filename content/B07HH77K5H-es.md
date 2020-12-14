@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HH77K5H/?tag=tolees-21'
 descuento: '49.97'
+average: '37.5'
 ---
 
 Ahora mismo tienes [Lee Slim Western Blusa  Azul  Heather Blue LI   X-Small para Mujer](https://www.amazon.es/dp/B07HH77K5H/?tag=tolees-21) a 37.5 EUR (original: 74.95 EUR) (49.97 %  de descuento) en el siguiente enlace!

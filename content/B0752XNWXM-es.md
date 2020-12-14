@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0752XNWXM/?tag=tolees-21'
 descuento: '60.02'
+average: '55.95'
 ---
 
 Ahora mismo tienes [G-STAR RAW Shape High Waist Super Skinny Vaqueros  Azul  Medium Aged 9425-071   29W / 30L para Mujer](https://www.amazon.es/dp/B0752XNWXM/?tag=tolees-21) a 55.95 EUR (original: 139.95 EUR) (60.02 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071HW6X7Y/?tag=tolees-21'
 descuento: '56.69'
+average: '12.99'
 ---
 
 Tienes [DoGeek Respirable Net Mules Unisex Playa Sandalias del Malla Zapatillas Ligeros Verano Ahueca hacia Fuera Las Sandalias del Acoplamiento Zapatos de Jardín](https://www.amazon.es/dp/B071HW6X7Y/?tag=tolees-21) con un 56.69 % de descuento con precio de oferta de 12.99 EUR (original: 29.99 EUR) en el siguiente enlace!

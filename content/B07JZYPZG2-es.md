@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JZYPZG2/?tag=tolees-21'
 descuento: '78.94'
+average: '9.36'
 ---
 
 Tienes [Warehouse Mujer Petrol Spot Camisa Not Applicable   Multi 99   34  Talla del Fabricante: 6 ](https://www.amazon.es/dp/B07JZYPZG2/?tag=tolees-21) con un 78.94 % de descuento con precio de oferta de 9.36 EUR (original: 44.45 EUR) en el siguiente enlace!

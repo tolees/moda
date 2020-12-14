@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F1LL1Q6/?tag=tolees-21'
 descuento: '47.27'
+average: '18.03'
 ---
 
 Tienes [Burton Menswear London Used Black Tyler Skinny Fit Jeans Vaqueros  Negro  W36/L32  Talla del Fabricante: 36R  para Hombre](https://www.amazon.es/dp/B07F1LL1Q6/?tag=tolees-21) con un 47.27 % de descuento con precio de oferta de 18.03 EUR (original: 34.19 EUR) en el siguiente enlace!

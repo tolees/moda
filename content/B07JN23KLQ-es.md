@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JN23KLQ/?tag=tolees-21'
 descuento: '57.80'
+average: '29.54'
 ---
 
 Tienes [Morgan 191-reine.n  Vestido Fiesta Mujer  Rojo Lipstick  38  Talla del Fabricante: T38 ](https://www.amazon.es/dp/B07JN23KLQ/?tag=tolees-21) con un 57.80 % de descuento con precio de oferta de 29.54 EUR (original: 70 EUR) en el siguiente enlace!

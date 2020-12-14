@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07LBKMTLG/?tag=tolees-21'
 descuento: '50.50'
+average: '34.6'
 ---
 
 Está [Tommy Hilfiger Elfie Lace Open-nk Top 1/2 Slv Camiseta  Blanco  Classic White 100   X-Small para Mujer](https://www.amazon.es/dp/B07LBKMTLG/?tag=tolees-21) con 50.50 de descuento por 34.6 EUR (original: 69.9 EUR) en el siguiente enlace!

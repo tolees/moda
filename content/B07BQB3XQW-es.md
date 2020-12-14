@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BQB3XQW/?tag=tolees-21'
 descuento: '42.48'
+average: '69.02'
 ---
 
 Está [Dr. Martens Calamuslos1p  Zapatos de Seguridad Unisex Adulto  Rojo  Industrial Oxblood 631   39 EU](https://www.amazon.es/dp/B07BQB3XQW/?tag=tolees-21) con 42.48 de descuento por 69.02 EUR (original: 120 EUR) en el siguiente enlace!

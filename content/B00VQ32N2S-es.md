@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00VQ32N2S/?tag=tolees-21'
 descuento: '32.30'
+average: '10.92'
 ---
 
 Está [Camiseta Abanderado Imperio  300 Pack 2   Ref 2300 ](https://www.amazon.es/dp/B00VQ32N2S/?tag=tolees-21) con 32.30 de descuento por 10.92 EUR (original: 16.13 EUR) en el siguiente enlace!

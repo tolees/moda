@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DLJW6W2/?tag=tolees-21'
 descuento: '62.52'
+average: '11.24'
 ---
 
 Tienes [Springfield 4Wo Abierta Hacker Team Sudadera  Hombre  Gris  Gama Grises 43   Large  Tamaño del Fabricante:L ](https://www.amazon.es/dp/B07DLJW6W2/?tag=tolees-21) con un 62.52 % de descuento con precio de oferta de 11.24 EUR (original: 29.99 EUR) en el siguiente enlace!

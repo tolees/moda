@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07H3D4SZ3/?tag=tolees-21'
 descuento: '79.13'
+average: '8.14'
 ---
 
 Ahora mismo tienes [Eminence Faire Des Vagues Pijama  Rosa  Rose 8284   Small  Talla del Fabricante: 2  para Hombre](https://www.amazon.es/dp/B07H3D4SZ3/?tag=tolees-21) a 8.14 EUR (original: 39 EUR) (79.13 %  de descuento) en el siguiente enlace!

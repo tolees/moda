@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00W8K2N1O/?tag=tolees-21'
 descuento: '30.62'
+average: '49.95'
 ---
 
 Ahora mismo tienes [Pepe Jeans London Cash  Vaqueros para Hombre  Azul  12Oz Clean Twill H05   W31/L32](https://www.amazon.es/dp/B00W8K2N1O/?tag=tolees-21) a 49.95 EUR (original: 72 EUR) (30.62 %  de descuento) en el siguiente enlace!

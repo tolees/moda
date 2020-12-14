@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MXL5J6Z/?tag=tolees-21'
 descuento: '47.75'
+average: '14.63'
 ---
 
 Tienes [Salomon Coton Logo SS tee Camiseta  Hombre  Blanco  XXL](https://www.amazon.es/dp/B07MXL5J6Z/?tag=tolees-21) con un 47.75 % de descuento con precio de oferta de 14.63 EUR (original: 28 EUR) en el siguiente enlace!

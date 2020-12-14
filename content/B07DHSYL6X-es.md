@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DHSYL6X/?tag=tolees-21'
 descuento: '72.40'
+average: '55.19'
 ---
 
 Está [Quiksilver Sierra Chaqueta de Nieve  Hombre  Rojo  Flame   XXL](https://www.amazon.es/dp/B07DHSYL6X/?tag=tolees-21) con 72.40 de descuento por 55.19 EUR (original: 199.99 EUR) en el siguiente enlace!

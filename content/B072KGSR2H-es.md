@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072KGSR2H/?tag=tolees-21'
 descuento: '54.60'
+average: '27.24'
 ---
 
 Ahora mismo tienes [Levi s Graphic Crew B Sudadera  Gris  Hm Fleece Midtone Grey Htr 30   X-Large para Hombre](https://www.amazon.es/dp/B072KGSR2H/?tag=tolees-21) a 27.24 EUR (original: 60 EUR) (54.60 %  de descuento) en el siguiente enlace!

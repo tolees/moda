@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MZAOL8D/?tag=tolees-21'
 descuento: '69.95'
+average: '28.55'
 ---
 
 Tienes [Pepe Jeans Kingston Zip  Vaqueros Regular para Hombre  Azul  11Oz Streaky Vintage Used M84   W40/L32](https://www.amazon.es/dp/B01MZAOL8D/?tag=tolees-21) con un 69.95 % de descuento con precio de oferta de 28.55 EUR (original: 95 EUR) en el siguiente enlace!

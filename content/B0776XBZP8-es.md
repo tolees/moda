@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0776XBZP8/?tag=tolees-21'
 descuento: '45.26'
+average: '62.95'
 ---
 
 Está [Tommy Jeans Hombre Ryan Original  Vaqueros straight  recta Azul  Penrose Blue 459  W33/L30  Talla del fabricante: 3033 ](https://www.amazon.es/dp/B0776XBZP8/?tag=tolees-21) con 45.26 de descuento por 62.95 EUR (original: 115 EUR) en el siguiente enlace!

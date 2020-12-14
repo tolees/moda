@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JV8WXWG/?tag=tolees-21'
 descuento: '84.58'
+average: '15.41'
 ---
 
 Tienes [Mac Jeans Arne Pipe Vaqueros Straight  Marrón  Havanna 265   W30/L34  Talla del Fabricante: 30/34  para Hombre](https://www.amazon.es/dp/B07JV8WXWG/?tag=tolees-21) con un 84.58 % de descuento con precio de oferta de 15.41 EUR (original: 99.95 EUR) en el siguiente enlace!

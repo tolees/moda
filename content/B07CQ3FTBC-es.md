@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CQ3FTBC/?tag=tolees-21'
 descuento: '74.94'
+average: '25.05'
 ---
 
 Está [Lee Daren Zip Fly Vaqueros Rectos  Azul  Time out Dn   W28/L34 para Hombre](https://www.amazon.es/dp/B07CQ3FTBC/?tag=tolees-21) con 74.94 de descuento por 25.05 EUR (original: 99.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01LSDI7JI/?tag=tolees-21'
 descuento: '74.58'
+average: '15.25'
 ---
 
 Ahora mismo tienes [Big Star Colton  Vaqueros Tapered para Hombre  Azul W32L34](https://www.amazon.es/dp/B01LSDI7JI/?tag=tolees-21) a 15.25 EUR (original: 59.99 EUR) (74.58 %  de descuento) en el siguiente enlace!

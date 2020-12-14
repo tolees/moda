@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DX72GGW/?tag=tolees-21'
 descuento: '52.59'
+average: '11.83'
 ---
 
 Está [Puma ESS tee Camiseta  Hombre  Verde  Laurel Wreath Heather   L](https://www.amazon.es/dp/B07DX72GGW/?tag=tolees-21) con 52.59 de descuento por 11.83 EUR (original: 24.95 EUR) en el siguiente enlace!

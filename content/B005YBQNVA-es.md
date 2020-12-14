@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B005YBQNVA/?tag=tolees-21'
 descuento: '34.18'
+average: '55.95'
 ---
 
 Ahora mismo tienes [Lee Brooklyn Straight  Vaqueros para Hombre  Azul  Mid Stonewash   W34/L34](https://www.amazon.es/dp/B005YBQNVA/?tag=tolees-21) a 55.95 EUR (original: 85 EUR) (34.18 %  de descuento) en el siguiente enlace!

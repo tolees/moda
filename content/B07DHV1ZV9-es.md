@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DHV1ZV9/?tag=tolees-21'
 descuento: '68.53'
+average: '8.18'
 ---
 
 Ahora mismo tienes [Quiksilver LYA Base Camiseta  Niños  Gris  Light Grey Heather SJSH    Tamaño del Fabricante:S/10 ](https://www.amazon.es/dp/B07DHV1ZV9/?tag=tolees-21) a 8.18 EUR (original: 25.99 EUR) (68.53 %  de descuento) en el siguiente enlace!

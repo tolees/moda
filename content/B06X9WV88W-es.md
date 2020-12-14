@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06X9WV88W/?tag=tolees-21'
 descuento: '66.38'
+average: '20.17'
 ---
 
 Está [find. Zapatos Brogues Mujer  Dorado  40 EU](https://www.amazon.es/dp/B06X9WV88W/?tag=tolees-21) con 66.38 de descuento por 20.17 EUR (original: 60 EUR) en el siguiente enlace!

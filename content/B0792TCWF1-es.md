@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0792TCWF1/?tag=tolees-21'
 descuento: '56.59'
+average: '26'
 ---
 
 Está [Geox J Shuttle Girl A  Zapatillas para Niñas   Grey/Pink C0502   32 EU](https://www.amazon.es/dp/B0792TCWF1/?tag=tolees-21) con 56.59 de descuento por 26 EUR (original: 59.9 EUR) en el siguiente enlace!

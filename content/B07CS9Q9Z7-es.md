@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CS9Q9Z7/?tag=tolees-21'
 descuento: '44.25'
+average: '16.67'
 ---
 
 Ahora mismo tienes [Pepe Jeans Pepa  Camiseta para Mujer    Lt Peach 108  X-Large](https://www.amazon.es/dp/B07CS9Q9Z7/?tag=tolees-21) a 16.67 EUR (original: 29.9 EUR) (44.25 %  de descuento) en el siguiente enlace!

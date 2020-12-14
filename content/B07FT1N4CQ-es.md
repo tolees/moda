@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FT1N4CQ/?tag=tolees-21'
 descuento: '56.12'
+average: '10.97'
 ---
 
 Tienes [Lee Logo tee Camiseta  Marfil  Bright White LJ   46  Talla del Fabricante: X-Large  para Mujer](https://www.amazon.es/dp/B07FT1N4CQ/?tag=tolees-21) con un 56.12 % de descuento con precio de oferta de 10.97 EUR (original: 25 EUR) en el siguiente enlace!

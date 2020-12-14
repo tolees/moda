@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00J3QRP6Y/?tag=tolees-21'
 descuento: '60.50'
+average: '9.95'
 ---
 
 Tienes [Uhlsport Match Veste Classic Femme - Chaqueta técnica para Mujer  Color Azul  Talla L](https://www.amazon.es/dp/B00J3QRP6Y/?tag=tolees-21) con un 60.50 % de descuento con precio de oferta de 9.95 EUR (original: 25.19 EUR) en el siguiente enlace!

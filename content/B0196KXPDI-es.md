@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0196KXPDI/?tag=tolees-21'
 descuento: '76.04'
+average: '16.76'
 ---
 
 Está [JACK & JONES Abrigo Azul Oscuro L](https://www.amazon.es/dp/B0196KXPDI/?tag=tolees-21) con 76.04 de descuento por 16.76 EUR (original: 69.95 EUR) en el siguiente enlace!

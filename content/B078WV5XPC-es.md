@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078WV5XPC/?tag=tolees-21'
 descuento: '75.43'
+average: '22.09'
 ---
 
 Ahora mismo tienes [Pedro del Hierro 3123065  Jersey Para Hombre  Azul  Navy Blu   XX-Large](https://www.amazon.es/dp/B078WV5XPC/?tag=tolees-21) a 22.09 EUR (original: 89.9 EUR) (75.43 %  de descuento) en el siguiente enlace!

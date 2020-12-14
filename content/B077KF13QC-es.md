@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077KF13QC/?tag=tolees-21'
 descuento: '65.99'
+average: '8.5'
 ---
 
 Tienes [Columbia W Thermarator Glove Guantes  Mujer  Eve  tall XL](https://www.amazon.es/dp/B077KF13QC/?tag=tolees-21) con un 65.99 % de descuento con precio de oferta de 8.5 EUR (original: 24.99 EUR) en el siguiente enlace!

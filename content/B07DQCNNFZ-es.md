@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DQCNNFZ/?tag=tolees-21'
 descuento: '58.44'
+average: '33.25'
 ---
 
 Está [Burton Brtn Crew Sudadera  Hombre  Negro  True   S](https://www.amazon.es/dp/B07DQCNNFZ/?tag=tolees-21) con 58.44 de descuento por 33.25 EUR (original: 80 EUR) en el siguiente enlace!

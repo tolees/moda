@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XXMVLF7/?tag=tolees-21'
 descuento: '79.07'
+average: '2.7'
 ---
 
 Está [oodji Ultra Mujer Camiseta con Inscripción y Dobladillos en Las Mangas  Morado  ES 40/M](https://www.amazon.es/dp/B06XXMVLF7/?tag=tolees-21) con 79.07 de descuento por 2.7 EUR (original: 12.9 EUR) en el siguiente enlace!

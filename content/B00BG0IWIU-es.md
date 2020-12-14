@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00BG0IWIU/?tag=tolees-21'
 descuento: '41.21'
+average: '16.46'
 ---
 
 Tienes [Nike Benassi Jdi  Chanclas Unisex Adulto  Azul  Midnight Navy/Windchill   40 EU](https://www.amazon.es/dp/B00BG0IWIU/?tag=tolees-21) con un 41.21 % de descuento con precio de oferta de 16.46 EUR (original: 28 EUR) en el siguiente enlace!

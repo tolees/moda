@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XRXF4J7/?tag=tolees-21'
 descuento: '59.03'
+average: '8.19'
 ---
 
 Ahora mismo tienes [Esprit 067ee1k035 Camiseta   Red 630   Small para Mujer](https://www.amazon.es/dp/B06XRXF4J7/?tag=tolees-21) a 8.19 EUR (original: 19.99 EUR) (59.03 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JWYZLP7/?tag=tolees-21'
 descuento: '64.06'
+average: '37.74'
 ---
 
 Ahora mismo tienes [Armani Exchange Beads Embossed Logo Sudadera  Rojo  Moulin Rouge 1408   X-Large para Mujer](https://www.amazon.es/dp/B07JWYZLP7/?tag=tolees-21) a 37.74 EUR (original: 105 EUR) (64.06 %  de descuento) en el siguiente enlace!

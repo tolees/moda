@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079VW95DQ/?tag=tolees-21'
 descuento: '80.66'
+average: '27.07'
 ---
 
 Tienes [Wrangler Puffer Jacket  Chaqueta para Mujer   Clay Beige 4Wm   X-Small](https://www.amazon.es/dp/B079VW95DQ/?tag=tolees-21) con un 80.66 % de descuento con precio de oferta de 27.07 EUR (original: 139.95 EUR) en el siguiente enlace!

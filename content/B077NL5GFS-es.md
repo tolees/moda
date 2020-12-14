@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077NL5GFS/?tag=tolees-21'
 descuento: '70.17'
+average: '29.82'
 ---
 
 Está [Lee Rider Jeans Vaqueros Slim  Azul  Kick It Cdpf   28W / 32L para Hombre](https://www.amazon.es/dp/B077NL5GFS/?tag=tolees-21) con 70.17 de descuento por 29.82 EUR (original: 99.95 EUR) en el siguiente enlace!

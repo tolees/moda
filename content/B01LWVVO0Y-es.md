@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01LWVVO0Y/?tag=tolees-21'
 descuento: '69.33'
+average: '7.36'
 ---
 
 Está [Double Agent Melange Stripe T-Shirt Camiseta  820 Gris Vigore Oscuro  S para Mujer](https://www.amazon.es/dp/B01LWVVO0Y/?tag=tolees-21) con 69.33 de descuento por 7.36 EUR (original: 24 EUR) en el siguiente enlace!

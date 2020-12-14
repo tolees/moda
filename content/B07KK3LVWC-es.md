@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KK3LVWC/?tag=tolees-21'
 descuento: '29.61'
+average: '28.12'
 ---
 
 Está [BOSS Identity Shorts Pantalones de Pijama  Azul  Bright Blue 438   Medium para Hombre](https://www.amazon.es/dp/B07KK3LVWC/?tag=tolees-21) con 29.61 de descuento por 28.12 EUR (original: 39.95 EUR) en el siguiente enlace!

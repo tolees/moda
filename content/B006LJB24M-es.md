@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B006LJB24M/?tag=tolees-21'
 descuento: '81.21'
+average: '13.3'
 ---
 
 Tienes [Okiedog 24212 Samurai - Bolso para pañales y cambiador  color gris y negro](https://www.amazon.es/dp/B006LJB24M/?tag=tolees-21) con un 81.21 % de descuento con precio de oferta de 13.3 EUR (original: 70.77 EUR) en el siguiente enlace!

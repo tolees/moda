@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DYX9NSM/?tag=tolees-21'
 descuento: '35.19'
+average: '64.8'
 ---
 
 Está [Columbia Powder Lite - Chaqueta  Hombre  Azul  Collegiate Navy/Azul   Talla S](https://www.amazon.es/dp/B07DYX9NSM/?tag=tolees-21) con 35.19 de descuento por 64.8 EUR (original: 99.99 EUR) en el siguiente enlace!

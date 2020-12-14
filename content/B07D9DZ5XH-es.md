@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D9DZ5XH/?tag=tolees-21'
 descuento: '52.87'
+average: '23.54'
 ---
 
 Tienes [XTI 48396  Botines para Mujer  Morado Burdeos  41 EU](https://www.amazon.es/dp/B07D9DZ5XH/?tag=tolees-21) con un 52.87 % de descuento con precio de oferta de 23.54 EUR (original: 49.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BGV6Q8L/?tag=tolees-21'
 descuento: '45.47'
+average: '17.99'
 ---
 
 Tienes [BOODUN Guantes de Gimnasia para Mujeres con Envoltura para muñeca Larga de 18"para Soporte Levantamiento de Pesas  Entrenamiento Cruzado  Entrenamiento  acondicionamiento físico Rosa  un par L](https://www.amazon.es/dp/B07BGV6Q8L/?tag=tolees-21) con un 45.47 % de descuento con precio de oferta de 17.99 EUR (original: 32.99 EUR) en el siguiente enlace!

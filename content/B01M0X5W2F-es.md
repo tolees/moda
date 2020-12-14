@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01M0X5W2F/?tag=tolees-21'
 descuento: '60.44'
+average: '18.18'
 ---
 
 Ahora mismo tienes [Desigual TS_Martine - Camiseta Mujer  Negro  Negro 2000   X-Small](https://www.amazon.es/dp/B01M0X5W2F/?tag=tolees-21) a 18.18 EUR (original: 45.95 EUR) (60.44 %  de descuento) en el siguiente enlace!

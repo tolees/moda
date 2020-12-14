@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01IF9XRIY/?tag=tolees-21'
 descuento: '38.20'
+average: '15.45'
 ---
 
 Está [The North Face S/S Camiseta De Manga Corta Simple Dome  Hombre  TNF White  L](https://www.amazon.es/dp/B01IF9XRIY/?tag=tolees-21) con 38.20 de descuento por 15.45 EUR (original: 25 EUR) en el siguiente enlace!

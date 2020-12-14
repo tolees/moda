@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KGHGPWR/?tag=tolees-21'
 descuento: '60.34'
+average: '39.64'
 ---
 
 Está [BOSS Relegant_1 Camisa  Morado  Bright Purple 521   Large para Hombre](https://www.amazon.es/dp/B07KGHGPWR/?tag=tolees-21) con 60.34 de descuento por 39.64 EUR (original: 99.95 EUR) en el siguiente enlace!

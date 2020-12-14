@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07C47ZPYQ/?tag=tolees-21'
 descuento: '43.88'
+average: '72.95'
 ---
 
 Tienes [Pepe Jeans Olga  Chaqueta para Mujer  Negro L](https://www.amazon.es/dp/B07C47ZPYQ/?tag=tolees-21) con un 43.88 % de descuento con precio de oferta de 72.95 EUR (original: 130 EUR) en el siguiente enlace!

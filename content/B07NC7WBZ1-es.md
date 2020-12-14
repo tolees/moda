@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07NC7WBZ1/?tag=tolees-21'
 descuento: '25.28'
+average: '13.45'
 ---
 
 Tienes [Pepe Jeans Raury  Camiseta para Niños  Rojo  Red 255   4 años  Talla del Fabricante: 4 ](https://www.amazon.es/dp/B07NC7WBZ1/?tag=tolees-21) con un 25.28 % de descuento con precio de oferta de 13.45 EUR (original: 18 EUR) en el siguiente enlace!

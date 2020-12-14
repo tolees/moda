@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0781VZZJM/?tag=tolees-21'
 descuento: '33.67'
+average: '19.9'
 ---
 
 Está [Wilson Falda de tenis  W Team 12.5 Skirt  Poliéster/licra  Negro  Talla: M  WRA766202](https://www.amazon.es/dp/B0781VZZJM/?tag=tolees-21) con 33.67 de descuento por 19.9 EUR (original: 30 EUR) en el siguiente enlace!

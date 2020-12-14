@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00KZ2W2KE/?tag=tolees-21'
 descuento: '84.23'
+average: '6.3'
 ---
 
 Está [Columbia Toddler Techsun Vent - Zapatos de Multideporte Infantil  color Negro  010   22 EU](https://www.amazon.es/dp/B00KZ2W2KE/?tag=tolees-21) con 84.23 de descuento por 6.3 EUR (original: 39.95 EUR) en el siguiente enlace!

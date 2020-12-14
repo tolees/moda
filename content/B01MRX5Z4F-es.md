@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MRX5Z4F/?tag=tolees-21'
 descuento: '42.47'
+average: '31.64'
 ---
 
 Está [Under Armour UA CG Armour Mock Camiseta de Manga Larga  Hombre  Negro  Black 002   XL](https://www.amazon.es/dp/B01MRX5Z4F/?tag=tolees-21) con 42.47 de descuento por 31.64 EUR (original: 55 EUR) en el siguiente enlace!

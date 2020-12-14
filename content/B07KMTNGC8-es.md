@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KMTNGC8/?tag=tolees-21'
 descuento: '58.22'
+average: '25.07'
 ---
 
 Tienes [Volcom IMPRINTZ Crew Sudadera  Hombre  Sulfur Black  S](https://www.amazon.es/dp/B07KMTNGC8/?tag=tolees-21) con un 58.22 % de descuento con precio de oferta de 25.07 EUR (original: 60 EUR) en el siguiente enlace!

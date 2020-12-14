@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07L3FY1J9/?tag=tolees-21'
 descuento: '34.95'
+average: '19.45'
 ---
 
 Ahora mismo tienes [Tommy Hilfiger Hilfiger Print Beach Sandal  Chanclas para Hombre  Negro  Black 990   45 EU](https://www.amazon.es/dp/B07L3FY1J9/?tag=tolees-21) a 19.45 EUR (original: 29.9 EUR) (34.95 %  de descuento) en el siguiente enlace!

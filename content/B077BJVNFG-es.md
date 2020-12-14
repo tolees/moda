@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077BJVNFG/?tag=tolees-21'
 descuento: '30.00'
+average: '15.4'
 ---
 
 Ahora mismo tienes [AURIQUE Leggings de Deporte Mujer  Negro  Black   38  Talla del fabricante: Small ](https://www.amazon.es/dp/B077BJVNFG/?tag=tolees-21) a 15.4 EUR (original: 22 EUR) (30.00 %  de descuento) en el siguiente enlace!

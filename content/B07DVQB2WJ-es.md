@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DVQB2WJ/?tag=tolees-21'
 descuento: '51.98'
+average: '13.45'
 ---
 
 Tienes [Volcom stence BSC SS - Camiseta  Hombre  A3531863  Engine Red  Extra-Small](https://www.amazon.es/dp/B07DVQB2WJ/?tag=tolees-21) con un 51.98 % de descuento con precio de oferta de 13.45 EUR (original: 28.01 EUR) en el siguiente enlace!

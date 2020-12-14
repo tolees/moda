@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XYSNYZZ/?tag=tolees-21'
 descuento: '53.85'
+average: '29.95'
 ---
 
 Tienes [Suecos Bil  Zapatos Confort con Tecnología Health Teach  Unisex Adulto  Negro  Black   43 EU  8.5 UK ](https://www.amazon.es/dp/B06XYSNYZZ/?tag=tolees-21) con un 53.85 % de descuento con precio de oferta de 29.95 EUR (original: 64.9 EUR) en el siguiente enlace!

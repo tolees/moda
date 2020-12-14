@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DZ2KPTL/?tag=tolees-21'
 descuento: '63.31'
+average: '80.72'
 ---
 
 Tienes [Burton Hazelton Chaqueta  Mujer  Azul  Mood Indigo   L](https://www.amazon.es/dp/B07DZ2KPTL/?tag=tolees-21) con un 63.31 % de descuento con precio de oferta de 80.72 EUR (original: 220 EUR) en el siguiente enlace!

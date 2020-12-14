@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CC7FRYW/?tag=tolees-21'
 descuento: '49.83'
+average: '37.48'
 ---
 
 Ahora mismo tienes [Pepe Jeans Windham  Camisa para Hombre  Azul  Indigo 561  Medium](https://www.amazon.es/dp/B07CC7FRYW/?tag=tolees-21) a 37.48 EUR (original: 74.71 EUR) (49.83 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01EZZB4JG/?tag=tolees-21'
 descuento: '68.48'
+average: '20.49'
 ---
 
 Ahora mismo tienes [Rocket Dog DANNIS  Botines para Mujer  Marrón  41 EU](https://www.amazon.es/dp/B01EZZB4JG/?tag=tolees-21) a 20.49 EUR (original: 65 EUR) (68.48 %  de descuento) en el siguiente enlace!

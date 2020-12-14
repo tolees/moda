@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074WJ4MDY/?tag=tolees-21'
 descuento: '25.00'
+average: '15'
 ---
 
 Tienes [MERAKI Jersey de Algodón Hombre Cuello Pico  Verde  Khaki   Large](https://www.amazon.es/dp/B074WJ4MDY/?tag=tolees-21) con un 25.00 % de descuento con precio de oferta de 15 EUR (original: 20 EUR) en el siguiente enlace!

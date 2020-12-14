@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JJCJYFT/?tag=tolees-21'
 descuento: '48.83'
+average: '58.85'
 ---
 
 Está [Armani Exchange J01 Super Skinny Indigo Denim Vaqueros  Azul 1500  W26/L32  Talla del Fabricante: 26  para Mujer](https://www.amazon.es/dp/B07JJCJYFT/?tag=tolees-21) con 48.83 de descuento por 58.85 EUR (original: 115 EUR) en el siguiente enlace!

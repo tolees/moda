@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072FRP44R/?tag=tolees-21'
 descuento: '59.40'
+average: '22.73'
 ---
 
 Ahora mismo tienes [DC Shoes Headphase Ph Raglan Boy Sudadera  niños  Gris  Pirate Black Heather   12/M](https://www.amazon.es/dp/B072FRP44R/?tag=tolees-21) a 22.73 EUR (original: 55.99 EUR) (59.40 %  de descuento) en el siguiente enlace!

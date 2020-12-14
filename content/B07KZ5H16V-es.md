@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KZ5H16V/?tag=tolees-21'
 descuento: '34.62'
+average: '9.8'
 ---
 
 Está [JACK & JONES Jorsuburban tee SS Crew Neck Camiseta  Negro  Black Fit:Slim   X-Large para Hombre](https://www.amazon.es/dp/B07KZ5H16V/?tag=tolees-21) con 34.62 de descuento por 9.8 EUR (original: 14.99 EUR) en el siguiente enlace!

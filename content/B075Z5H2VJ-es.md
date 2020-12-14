@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075Z5H2VJ/?tag=tolees-21'
 descuento: '32.92'
+average: '13.41'
 ---
 
 Está [Vero Moda Vmhot Nine HW Dnm Pencil Skirt Mix Noos Falda  Negro Black  34  Talla del Fabricante: X-Small  para Mujer](https://www.amazon.es/dp/B075Z5H2VJ/?tag=tolees-21) con 32.92 de descuento por 13.41 EUR (original: 19.99 EUR) en el siguiente enlace!

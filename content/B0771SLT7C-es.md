@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0771SLT7C/?tag=tolees-21'
 descuento: '68.57'
+average: '34.57'
 ---
 
 Está [Levi s 511 Slim Fit  Vaqueros para Hombre  Negro  Rock Cod 1786   40W / 34L](https://www.amazon.es/dp/B0771SLT7C/?tag=tolees-21) con 68.57 de descuento por 34.57 EUR (original: 110 EUR) en el siguiente enlace!

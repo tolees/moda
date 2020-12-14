@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JHX6TBV/?tag=tolees-21'
 descuento: '54.85'
+average: '27.07'
 ---
 
 Está [Puma Rebel Hoody TR Sudadera  Hombre  Negro  Cotton Black   L](https://www.amazon.es/dp/B07JHX6TBV/?tag=tolees-21) con 54.85 de descuento por 27.07 EUR (original: 59.95 EUR) en el siguiente enlace!

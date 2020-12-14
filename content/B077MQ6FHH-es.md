@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077MQ6FHH/?tag=tolees-21'
 descuento: '47.51'
+average: '20.97'
 ---
 
 Ahora mismo tienes [Puma Leadcat Suede  Zapatos de Playa y Piscina Unisex Adulto  Negro Black Team Gold  35.5 EU](https://www.amazon.es/dp/B077MQ6FHH/?tag=tolees-21) a 20.97 EUR (original: 39.95 EUR) (47.51 %  de descuento) en el siguiente enlace!

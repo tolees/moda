@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01FX1IPOI/?tag=tolees-21'
 descuento: '35.10'
+average: '32.45'
 ---
 
 Ahora mismo tienes [Under Armour UA Tech Short Pantalón Corto  Hombre  Beige  Canvas   Talla Fabricante: 36](https://www.amazon.es/dp/B01FX1IPOI/?tag=tolees-21) a 32.45 EUR (original: 50 EUR) (35.10 %  de descuento) en el siguiente enlace!

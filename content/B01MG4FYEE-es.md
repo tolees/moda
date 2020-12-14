@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MG4FYEE/?tag=tolees-21'
 descuento: '48.14'
+average: '12.94'
 ---
 
 Ahora mismo tienes [JACK & JONES VINTAGE JJVSEBASTIAN LS GRANDDAD NOOS  Camisa Manga Larga Hombre  Verde  Capers   Medium](https://www.amazon.es/dp/B01MG4FYEE/?tag=tolees-21) a 12.94 EUR (original: 24.95 EUR) (48.14 %  de descuento) en el siguiente enlace!

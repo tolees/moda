@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CVC91FH/?tag=tolees-21'
 descuento: '27.26'
+average: '60'
 ---
 
 Ahora mismo tienes [Under Armour Jet Mid 3020623-003  Zapatos de Baloncesto para Hombre  Negro  Black 3020623/003   43 EU](https://www.amazon.es/dp/B07CVC91FH/?tag=tolees-21) a 60 EUR (original: 82.49 EUR) (27.26 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XCN9CJ5/?tag=tolees-21'
 descuento: '65.76'
+average: '8.9'
 ---
 
 Ahora mismo tienes [Cortefiel 6327095  Camiseta Manga Corta para Mujer  Blanco  M](https://www.amazon.es/dp/B06XCN9CJ5/?tag=tolees-21) a 8.9 EUR (original: 25.99 EUR) (65.76 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DD7JC9K/?tag=tolees-21'
 descuento: '64.70'
+average: '17.63'
 ---
 
 Ahora mismo tienes [Refresh 64669  Botines para Mujer  Verde  Kaki   36 EU](https://www.amazon.es/dp/B07DD7JC9K/?tag=tolees-21) a 17.63 EUR (original: 49.95 EUR) (64.70 %  de descuento) en el siguiente enlace!

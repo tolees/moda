@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N9BRMMI/?tag=tolees-21'
 descuento: '68.59'
+average: '6.97'
 ---
 
 Está [Only Onlamina Ls Oneck Print Box Swt - Sudadera para Mujer  Multicolor  Cloud Dancer Print:I Dont Give A Ship   S](https://www.amazon.es/dp/B01N9BRMMI/?tag=tolees-21) con 68.59 de descuento por 6.97 EUR (original: 22.19 EUR) en el siguiente enlace!

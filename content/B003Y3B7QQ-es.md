@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B003Y3B7QQ/?tag=tolees-21'
 descuento: '68.54'
+average: '12.74'
 ---
 
 Está [Toughees Shoes Zapatos  Niño  Negro  19](https://www.amazon.es/dp/B003Y3B7QQ/?tag=tolees-21) con 68.54 de descuento por 12.74 EUR (original: 40.5 EUR) en el siguiente enlace!

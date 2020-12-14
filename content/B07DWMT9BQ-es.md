@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DWMT9BQ/?tag=tolees-21'
 descuento: '74.11'
+average: '41.42'
 ---
 
 Está [Quiksilver Hana Go Chaqueta  Hombre  Negro  Black KVJ2    Tamaño del Fabricante:XL ](https://www.amazon.es/dp/B07DWMT9BQ/?tag=tolees-21) con 74.11 de descuento por 41.42 EUR (original: 159.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CHBRVF6/?tag=tolees-21'
 descuento: '50.01'
+average: '19.99'
 ---
 
 Está [AX BOXING Zapatillas Hombres Deporte Running Sneakers Zapatos para Correr Gimnasio Deportivas Padel Transpirables Casual 40-46  43 EU  A8178-Azul ](https://www.amazon.es/dp/B07CHBRVF6/?tag=tolees-21) con 50.01 de descuento por 19.99 EUR (original: 39.99 EUR) en el siguiente enlace!

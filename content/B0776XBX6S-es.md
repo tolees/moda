@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0776XBX6S/?tag=tolees-21'
 descuento: '44.22'
+average: '52.99'
 ---
 
 Ahora mismo tienes [Tommy Jeans Hombre  Scanton Vaqueros slim  Ajustada Azul  Dark Comfort 933  W36/L36  Talla del fabricante: 3636 ](https://www.amazon.es/dp/B0776XBX6S/?tag=tolees-21) a 52.99 EUR (original: 95 EUR) (44.22 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JHWMYLF/?tag=tolees-21'
 descuento: '50.54'
+average: '12.34'
 ---
 
 Está [Puma Rebel Basic tee Camiseta  Hombre  Negro  Cotton Black   L](https://www.amazon.es/dp/B07JHWMYLF/?tag=tolees-21) con 50.54 de descuento por 12.34 EUR (original: 24.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0733DPX8T/?tag=tolees-21'
 descuento: '63.40'
+average: '58.56'
 ---
 
 Tienes [DC Shoes Canongate Chaqueta Parka  Hombre  Marrón  Sudan Brown Solid   XL](https://www.amazon.es/dp/B0733DPX8T/?tag=tolees-21) con un 63.40 % de descuento con precio de oferta de 58.56 EUR (original: 159.99 EUR) en el siguiente enlace!

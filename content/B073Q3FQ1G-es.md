@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073Q3FQ1G/?tag=tolees-21'
 descuento: '48.45'
+average: '15.44'
 ---
 
 Ahora mismo tienes [Puma Core-Run S/S tee Camiseta  Hombre  Gris  M](https://www.amazon.es/dp/B073Q3FQ1G/?tag=tolees-21) a 15.44 EUR (original: 29.95 EUR) (48.45 %  de descuento) en el siguiente enlace!

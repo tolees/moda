@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MZNS4FS/?tag=tolees-21'
 descuento: '43.96'
+average: '11.18'
 ---
 
 Ahora mismo tienes [Tuc Tuc Vestido Punto M/C NIÑA BAHÍA  Blanco 5   5 años  Tamaño del Fabricante:5A  para Niñas](https://www.amazon.es/dp/B07MZNS4FS/?tag=tolees-21) a 11.18 EUR (original: 19.95 EUR) (43.96 %  de descuento) en el siguiente enlace!

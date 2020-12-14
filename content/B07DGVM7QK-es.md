@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DGVM7QK/?tag=tolees-21'
 descuento: '50.00'
+average: '29.95'
 ---
 
 Ahora mismo tienes [Champion Hooded Sweatshirt Sudadera con Capucha  Verde  Pag/Nbk Gs513   X-Large para Hombre](https://www.amazon.es/dp/B07DGVM7QK/?tag=tolees-21) a 29.95 EUR (original: 59.9 EUR) (50.00 %  de descuento) en el siguiente enlace!

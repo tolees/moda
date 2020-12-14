@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077PFD88Q/?tag=tolees-21'
 descuento: '36.73'
+average: '18.95'
 ---
 
 Tienes [Puma Leadcat EP Wns Q2  Zapatos de Playa y Piscina para Mujer  Gris  Rock Ridge-Bungee Cord   39 EU](https://www.amazon.es/dp/B077PFD88Q/?tag=tolees-21) con un 36.73 % de descuento con precio de oferta de 18.95 EUR (original: 29.95 EUR) en el siguiente enlace!

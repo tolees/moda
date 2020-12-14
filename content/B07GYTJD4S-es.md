@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GYTJD4S/?tag=tolees-21'
 descuento: '80.02'
+average: '9.99'
 ---
 
 Ahora mismo tienes [LOVORDS Collar Mujer Grabado Plata de Ley 925 Colgante Perla Cultivada Blanca de Agua Dulce 10mm Regalo Madre Mamá](https://www.amazon.es/dp/B07GYTJD4S/?tag=tolees-21) a 9.99 EUR (original: 49.99 EUR) (80.02 %  de descuento) en el siguiente enlace!

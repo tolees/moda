@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DC7FZGJ/?tag=tolees-21'
 descuento: '50.16'
+average: '29.9'
 ---
 
 Ahora mismo tienes [JACK & JONES Jcobarkley Jacket  Chaqueta para Hombre  Azul Sky Captain  Medium](https://www.amazon.es/dp/B07DC7FZGJ/?tag=tolees-21) a 29.9 EUR (original: 59.99 EUR) (50.16 %  de descuento) en el siguiente enlace!

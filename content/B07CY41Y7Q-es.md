@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CY41Y7Q/?tag=tolees-21'
 descuento: '41.85'
+average: '49.4'
 ---
 
 Está [Puma BVB Home Shirt Replica Evonik with Opel Logo Jersey  Hombre  Cyber Yellow  M](https://www.amazon.es/dp/B07CY41Y7Q/?tag=tolees-21) con 41.85 de descuento por 49.4 EUR (original: 84.95 EUR) en el siguiente enlace!

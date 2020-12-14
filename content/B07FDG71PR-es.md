@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FDG71PR/?tag=tolees-21'
 descuento: '68.55'
+average: '5.18'
 ---
 
 Tienes [Tiffosi Austin Sudadera  Hombre  Verde  Green 872   Large  Tamaño del Fabricante:L ](https://www.amazon.es/dp/B07FDG71PR/?tag=tolees-21) con un 68.55 % de descuento con precio de oferta de 5.18 EUR (original: 16.47 EUR) en el siguiente enlace!

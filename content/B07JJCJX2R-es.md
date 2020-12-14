@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JJCJX2R/?tag=tolees-21'
 descuento: '75.33'
+average: '32.07'
 ---
 
 Tienes [Armani Exchange J10 Super Skinny Cropped Denim Vaqueros Boyfriend  Azul  Indigo 1500   W29/L32  Talla del Fabricante: 29  para Mujer](https://www.amazon.es/dp/B07JJCJX2R/?tag=tolees-21) con un 75.33 % de descuento con precio de oferta de 32.07 EUR (original: 130 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073V6FYKX/?tag=tolees-21'
 descuento: '46.37'
+average: '27.89'
 ---
 
 Está [Canterbury Cuffed Stadium Pantalón con Dobladillo  Uomo  Negro  12](https://www.amazon.es/dp/B073V6FYKX/?tag=tolees-21) con 46.37 de descuento por 27.89 EUR (original: 52 EUR) en el siguiente enlace!

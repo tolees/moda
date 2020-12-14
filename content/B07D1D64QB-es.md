@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D1D64QB/?tag=tolees-21'
 descuento: '46.23'
+average: '18.82'
 ---
 
 Tienes [FIND Vestido Estampado con Cinturón Anudado Mujer  Negro  Black   44  Talla del fabricante: XX-Large ](https://www.amazon.es/dp/B07D1D64QB/?tag=tolees-21) con un 46.23 % de descuento con precio de oferta de 18.82 EUR (original: 35 EUR) en el siguiente enlace!

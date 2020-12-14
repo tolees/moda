@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FSZC38K/?tag=tolees-21'
 descuento: '57.29'
+average: '27.74'
 ---
 
 Tienes [adidas Hoops 2.0 Mid  Zapatos de Baloncesto para Mujer  Negro Core Black/Carbon  36 EU](https://www.amazon.es/dp/B07FSZC38K/?tag=tolees-21) con un 57.29 % de descuento con precio de oferta de 27.74 EUR (original: 64.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00TZAAA0G/?tag=tolees-21'
 descuento: '72.47'
+average: '6.45'
 ---
 
 Tienes [Uhlsport 100323720  Camiseta para Hombre  Morado  Morado/Blanco   S](https://www.amazon.es/dp/B00TZAAA0G/?tag=tolees-21) con un 72.47 % de descuento con precio de oferta de 6.45 EUR (original: 23.43 EUR) en el siguiente enlace!

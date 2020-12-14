@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00RD0AUIM/?tag=tolees-21'
 descuento: '88.48'
+average: '8.06'
 ---
 
 Tienes [Saint Tropez M1835 - Blusa para Mujer  Color Blau  p.Blue 9270   Talla 40/L](https://www.amazon.es/dp/B00RD0AUIM/?tag=tolees-21) con un 88.48 % de descuento con precio de oferta de 8.06 EUR (original: 69.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CS9SB6D/?tag=tolees-21'
 descuento: '76.17'
+average: '17.87'
 ---
 
 Está [Pepe Jeans Gracy Sudadera  Marfil  Mousse   Small para Mujer](https://www.amazon.es/dp/B07CS9SB6D/?tag=tolees-21) con 76.17 de descuento por 17.87 EUR (original: 75 EUR) en el siguiente enlace!

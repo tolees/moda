@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HBG9T6B/?tag=tolees-21'
 descuento: '69.26'
+average: '53.57'
 ---
 
 Está [KAREN MILLEN Fashions Limited Textured Leather Court Shoes  Zapatos de tacón con Punta Cerrada para Mujer  Rojo  Red 72   38 EU](https://www.amazon.es/dp/B07HBG9T6B/?tag=tolees-21) con 69.26 de descuento por 53.57 EUR (original: 174.28 EUR) en el siguiente enlace!

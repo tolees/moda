@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DK3QNGJ/?tag=tolees-21'
 descuento: '30.00'
+average: '31.5'
 ---
 
 Está [Geox Jr Ciak Girl J  Zapatillas para Niñas  Avio/Silver C4138  34 EU](https://www.amazon.es/dp/B07DK3QNGJ/?tag=tolees-21) con 30.00 de descuento por 31.5 EUR (original: 45 EUR) en el siguiente enlace!

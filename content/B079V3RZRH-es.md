@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079V3RZRH/?tag=tolees-21'
 descuento: '40.18'
+average: '14.95'
 ---
 
 Está [Only Onlsally S/l Top Wvn  Camiseta sin Mangas Mujer  Azul  Night Sky Detail: Embroidery White   38  Talla del Fabricante: 36 ](https://www.amazon.es/dp/B079V3RZRH/?tag=tolees-21) con 40.18 de descuento por 14.95 EUR (original: 24.99 EUR) en el siguiente enlace!

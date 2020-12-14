@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075SG5BS2/?tag=tolees-21'
 descuento: '71.99'
+average: '8.4'
 ---
 
 Está [Springfield 1402773  Jersey para Hombre  Azul  Blue   Medium  Tamaño del Fabricante:M ](https://www.amazon.es/dp/B075SG5BS2/?tag=tolees-21) con 71.99 de descuento por 8.4 EUR (original: 29.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CFSDYW2/?tag=tolees-21'
 descuento: '40.20'
+average: '14.95'
 ---
 
 Tienes [Pepe Jeans Dion  Camiseta para Hombre  Azul  Dk Blue 581  Large](https://www.amazon.es/dp/B07CFSDYW2/?tag=tolees-21) con un 40.20 % de descuento con precio de oferta de 14.95 EUR (original: 25 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074FRLWVF/?tag=tolees-21'
 descuento: '68.98'
+average: '17.99'
 ---
 
 Ahora mismo tienes [Eshow Bolso Bandolera Hombre a Hombro de Tela de Lona para Hombres  Negro ](https://www.amazon.es/dp/B074FRLWVF/?tag=tolees-21) a 17.99 EUR (original: 57.99 EUR) (68.98 %  de descuento) en el siguiente enlace!

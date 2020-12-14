@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MXM90QP/?tag=tolees-21'
 descuento: '44.81'
+average: '88.3'
 ---
 
 Está [Columbia Chaqueta repelente al agua para hombre  Ramble Down Hybrid Hooded Jacket  Nailon  Negro  Talla M  1737901](https://www.amazon.es/dp/B01MXM90QP/?tag=tolees-21) con 44.81 de descuento por 88.3 EUR (original: 159.99 EUR) en el siguiente enlace!

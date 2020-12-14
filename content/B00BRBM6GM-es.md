@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00BRBM6GM/?tag=tolees-21'
 descuento: '73.09'
+average: '8.06'
 ---
 
 Tienes [Portwest - Pantalón de trabajo  color negro](https://www.amazon.es/dp/B00BRBM6GM/?tag=tolees-21) con un 73.09 % de descuento con precio de oferta de 8.06 EUR (original: 29.95 EUR) en el siguiente enlace!

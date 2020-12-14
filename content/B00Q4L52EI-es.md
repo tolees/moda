@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00Q4L52EI/?tag=tolees-21'
 descuento: '25.14'
+average: '26.2'
 ---
 
 Ahora mismo tienes [Lacoste TH7618  Camiseta para Hombre  Blanco  Blanc   Large  Talla del fabricante: 5 ](https://www.amazon.es/dp/B00Q4L52EI/?tag=tolees-21) a 26.2 EUR (original: 35 EUR) (25.14 %  de descuento) en el siguiente enlace!

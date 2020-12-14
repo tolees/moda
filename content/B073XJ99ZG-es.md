@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073XJ99ZG/?tag=tolees-21'
 descuento: '73.72'
+average: '4.99'
 ---
 
 Está [Lifewit 7L Bolsa Porta Alimentos para Niños Doble Compartimentos Aislamiento Bolsa de Almuerzo Bolso Térmico para Niños Camping Excursión Playa Refrescos  Azul rayas ](https://www.amazon.es/dp/B073XJ99ZG/?tag=tolees-21) con 73.72 de descuento por 4.99 EUR (original: 18.99 EUR) en el siguiente enlace!

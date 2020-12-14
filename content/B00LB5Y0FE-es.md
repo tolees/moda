@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00LB5Y0FE/?tag=tolees-21'
 descuento: '36.82'
+average: '28.4'
 ---
 
 Ahora mismo tienes [Levi s Sweater  Sudadera con capucha para Niños  negro  black 02  116  Herstellergröße: 6A ](https://www.amazon.es/dp/B00LB5Y0FE/?tag=tolees-21) a 28.4 EUR (original: 44.95 EUR) (36.82 %  de descuento) en el siguiente enlace!

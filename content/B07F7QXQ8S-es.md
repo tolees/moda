@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F7QXQ8S/?tag=tolees-21'
 descuento: '85.69'
+average: '7.15'
 ---
 
 Está [Hajo Shirt  Camisa Manga Larga para Mujer  Rojo  Granatrot 326  50  Talla del Fabricante: 48 ](https://www.amazon.es/dp/B07F7QXQ8S/?tag=tolees-21) con 85.69 de descuento por 7.15 EUR (original: 49.95 EUR) en el siguiente enlace!

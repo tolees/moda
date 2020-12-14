@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B016ALTFLW/?tag=tolees-21'
 descuento: '38.01'
+average: '24.79'
 ---
 
 Está [Gant 3-Pack Trunk  Camiseta sin Mangas para Hombre  Gris  Grey Melange 93  Medium](https://www.amazon.es/dp/B016ALTFLW/?tag=tolees-21) con 38.01 de descuento por 24.79 EUR (original: 39.99 EUR) en el siguiente enlace!

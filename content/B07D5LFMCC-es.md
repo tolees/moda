@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D5LFMCC/?tag=tolees-21'
 descuento: '82.43'
+average: '17.57'
 ---
 
 Tienes [Only & Sons Onssigurd Parka Jacket Noos  Hombre  Negro  Black Black   Medium](https://www.amazon.es/dp/B07D5LFMCC/?tag=tolees-21) con un 82.43 % de descuento con precio de oferta de 17.57 EUR (original: 99.99 EUR) en el siguiente enlace!

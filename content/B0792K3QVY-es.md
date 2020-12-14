@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0792K3QVY/?tag=tolees-21'
 descuento: '45.87'
+average: '10.82'
 ---
 
 Tienes [Quiksilver - Camiseta - Niños 8-16 - Blanco](https://www.amazon.es/dp/B0792K3QVY/?tag=tolees-21) con un 45.87 % de descuento con precio de oferta de 10.82 EUR (original: 19.99 EUR) en el siguiente enlace!

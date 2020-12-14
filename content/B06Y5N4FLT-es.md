@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06Y5N4FLT/?tag=tolees-21'
 descuento: '52.76'
+average: '150.68'
 ---
 
 Tienes [Fendi FF 0229/S 81 VK6  Gafas de sol para Mujer  Blanco  White/Brown Grey DS   55](https://www.amazon.es/dp/B06Y5N4FLT/?tag=tolees-21) con un 52.76 % de descuento con precio de oferta de 150.68 EUR (original: 319 EUR) en el siguiente enlace!

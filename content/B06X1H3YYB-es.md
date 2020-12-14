@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06X1H3YYB/?tag=tolees-21'
 descuento: '50.01'
+average: '24.99'
 ---
 
 Está [Sandalias con Velcro para Niños](https://www.amazon.es/dp/B06X1H3YYB/?tag=tolees-21) con 50.01 de descuento por 24.99 EUR (original: 49.99 EUR) en el siguiente enlace!

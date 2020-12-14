@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XTHHNH7/?tag=tolees-21'
 descuento: '43.04'
+average: '15.95'
 ---
 
 Está [Pepe Jeans Charing PM503215 Camiseta  Gris  Grey Marl 933   Large para Hombre](https://www.amazon.es/dp/B06XTHHNH7/?tag=tolees-21) con 43.04 de descuento por 15.95 EUR (original: 28 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FFBMZJW/?tag=tolees-21'
 descuento: '26.63'
+average: '48.42'
 ---
 
 Está [Quiksilver Scaly Chaqueta  Niños  Negro  Black KVJ0    Tamaño del Fabricante:M/12 ](https://www.amazon.es/dp/B07FFBMZJW/?tag=tolees-21) con 26.63 de descuento por 48.42 EUR (original: 65.99 EUR) en el siguiente enlace!

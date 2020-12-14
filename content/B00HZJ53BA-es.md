@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00HZJ53BA/?tag=tolees-21'
 descuento: '45.70'
+average: '97.2'
 ---
 
 Ahora mismo tienes [Ray-Ban Clubmaster - Gafas de sol para hombre  Marrón  Marco: Havana  Vidrio: Azul Flash 114517   51 milímetros](https://www.amazon.es/dp/B00HZJ53BA/?tag=tolees-21) a 97.2 EUR (original: 179 EUR) (45.70 %  de descuento) en el siguiente enlace!

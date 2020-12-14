@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073P73QJR/?tag=tolees-21'
 descuento: '54.02'
+average: '12.99'
 ---
 
 Ahora mismo tienes [Cache Cache TUTOBBY Blusa  Blanco  Cloud Dancer 277   Talla del Fabricante: 38 para Mujer](https://www.amazon.es/dp/B073P73QJR/?tag=tolees-21) a 12.99 EUR (original: 28.25 EUR) (54.02 %  de descuento) en el siguiente enlace!

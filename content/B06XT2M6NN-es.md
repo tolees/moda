@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XT2M6NN/?tag=tolees-21'
 descuento: '60.00'
+average: '32'
 ---
 
 Ahora mismo tienes [Pepe Jeans Teresa PL580535  Sudadera para Mujer  Azul  Dulwich 594  X-Small](https://www.amazon.es/dp/B06XT2M6NN/?tag=tolees-21) a 32 EUR (original: 80 EUR) (60.00 %  de descuento) en el siguiente enlace!

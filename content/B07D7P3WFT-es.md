@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D7P3WFT/?tag=tolees-21'
 descuento: '48.08'
+average: '67.45'
 ---
 
 Ahora mismo tienes [Dolores Promesas 107374 Camisa  Blanc    Tamaño del Fabricante:36  para Mujer](https://www.amazon.es/dp/B07D7P3WFT/?tag=tolees-21) a 67.45 EUR (original: 129.9 EUR) (48.08 %  de descuento) en el siguiente enlace!

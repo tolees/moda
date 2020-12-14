@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07M86G5WV/?tag=tolees-21'
 descuento: '52.40'
+average: '23.8'
 ---
 
 Ahora mismo tienes [The North Face Jersey Polo de Punto con Manga raglán  Hombre  Garden Green  S](https://www.amazon.es/dp/B07M86G5WV/?tag=tolees-21) a 23.8 EUR (original: 50 EUR) (52.40 %  de descuento) en el siguiente enlace!

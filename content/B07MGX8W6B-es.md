@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MGX8W6B/?tag=tolees-21'
 descuento: '79.12'
+average: '25.04'
 ---
 
 Tienes [G-STAR RAW Lynn D-Mid Waist Super Skinny Vaqueros  Azul  medium aged restored 9136-5408   29W / 30L para Mujer](https://www.amazon.es/dp/B07MGX8W6B/?tag=tolees-21) con un 79.12 % de descuento con precio de oferta de 25.04 EUR (original: 119.95 EUR) en el siguiente enlace!

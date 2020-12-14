@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DWGPWV7/?tag=tolees-21'
 descuento: '45.67'
+average: '24.45'
 ---
 
 Ahora mismo tienes [Under Armour - Sudadera de algodón con cremallera  Niños  Granate   XL](https://www.amazon.es/dp/B07DWGPWV7/?tag=tolees-21) a 24.45 EUR (original: 45 EUR) (45.67 %  de descuento) en el siguiente enlace!

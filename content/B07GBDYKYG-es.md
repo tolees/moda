@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GBDYKYG/?tag=tolees-21'
 descuento: '50.03'
+average: '9.97'
 ---
 
 Está [adidas Adilette Aqua  Zapatos de Playa y Piscina Unisex Adulto  Rosa Aero s18/aero Pink s18  44.5 EU](https://www.amazon.es/dp/B07GBDYKYG/?tag=tolees-21) con 50.03 de descuento por 9.97 EUR (original: 19.95 EUR) en el siguiente enlace!

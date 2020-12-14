@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N2K5G5D/?tag=tolees-21'
 descuento: '69.39'
+average: '33.66'
 ---
 
 Está [Geox D Arrow C  Zapatillas para Mujer  Negro  Blackc9999   36 EU](https://www.amazon.es/dp/B01N2K5G5D/?tag=tolees-21) con 69.39 de descuento por 33.66 EUR (original: 109.95 EUR) en el siguiente enlace!

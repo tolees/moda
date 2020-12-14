@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CHQ2S8M/?tag=tolees-21'
 descuento: '51.21'
+average: '82.95'
 ---
 
 Ahora mismo tienes [Fly London Site360fly  Botines para Mujer  Verde  Petrol 005   37 EU](https://www.amazon.es/dp/B07CHQ2S8M/?tag=tolees-21) a 82.95 EUR (original: 170 EUR) (51.21 %  de descuento) en el siguiente enlace!

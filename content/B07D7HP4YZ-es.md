@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D7HP4YZ/?tag=tolees-21'
 descuento: '82.49'
+average: '22.74'
 ---
 
 Tienes [Dolores Promesas 107393 Blusa  Mujer  Marrón  Leopa Leopa   40  Tamaño del Fabricante:40 ](https://www.amazon.es/dp/B07D7HP4YZ/?tag=tolees-21) con un 82.49 % de descuento con precio de oferta de 22.74 EUR (original: 129.9 EUR) en el siguiente enlace!

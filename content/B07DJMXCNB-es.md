@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DJMXCNB/?tag=tolees-21'
 descuento: '50.00'
+average: '44.95'
 ---
 
 Está [Geox D Vega Moc A  Mocasines para Mujer  Verde  Lt Green C3001   38 EU](https://www.amazon.es/dp/B07DJMXCNB/?tag=tolees-21) con 50.00 de descuento por 44.95 EUR (original: 89.9 EUR) en el siguiente enlace!

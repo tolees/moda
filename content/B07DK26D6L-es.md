@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DK26D6L/?tag=tolees-21'
 descuento: '50.00'
+average: '19.95'
 ---
 
 Tienes [Geox Jr Ciak Girl J  Zapatillas para Niñas  Blanco  White/Red C0050   27 EU](https://www.amazon.es/dp/B07DK26D6L/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 19.95 EUR (original: 39.9 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B004H4Y4YS/?tag=tolees-21'
 descuento: '53.70'
+average: '69.45'
 ---
 
 Tienes [Helly Hansen Crew Midlayer  Chaqueta Impermeable para Hombre  Color Rojo  Red   Talla L](https://www.amazon.es/dp/B004H4Y4YS/?tag=tolees-21) con un 53.70 % de descuento con precio de oferta de 69.45 EUR (original: 150 EUR) en el siguiente enlace!

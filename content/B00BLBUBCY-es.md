@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00BLBUBCY/?tag=tolees-21'
 descuento: '35.27'
+average: '13.56'
 ---
 
 Tienes [arena Hydrofit Man Hook Zapatos de Playa y Piscina  Hombre  Negro Black 056  43 EU](https://www.amazon.es/dp/B00BLBUBCY/?tag=tolees-21) con un 35.27 % de descuento con precio de oferta de 13.56 EUR (original: 20.95 EUR) en el siguiente enlace!

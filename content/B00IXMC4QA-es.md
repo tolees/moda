@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00IXMC4QA/?tag=tolees-21'
 descuento: '26.27'
+average: '5.95'
 ---
 
 Está [Joma Nobel Pantalón de equipación  Blanco  S](https://www.amazon.es/dp/B00IXMC4QA/?tag=tolees-21) con 26.27 de descuento por 5.95 EUR (original: 8.07 EUR) en el siguiente enlace!

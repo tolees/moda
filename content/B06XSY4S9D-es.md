@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XSY4S9D/?tag=tolees-21'
 descuento: '32.77'
+average: '14.79'
 ---
 
 Está [FIND DC1930L vaqueros mujer  Gris  Grey   W28/L32  Talla del Fabricante: Small ](https://www.amazon.es/dp/B06XSY4S9D/?tag=tolees-21) con 32.77 de descuento por 14.79 EUR (original: 22 EUR) en el siguiente enlace!

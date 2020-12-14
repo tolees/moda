@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07G4H96BD/?tag=tolees-21'
 descuento: '77.18'
+average: '22.81'
 ---
 
 Ahora mismo tienes [HUGO Eurin  Camisa Hombre  Negro  Black 001   Large](https://www.amazon.es/dp/B07G4H96BD/?tag=tolees-21) a 22.81 EUR (original: 99.95 EUR) (77.18 %  de descuento) en el siguiente enlace!

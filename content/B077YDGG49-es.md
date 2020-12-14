@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077YDGG49/?tag=tolees-21'
 descuento: '40.00'
+average: '27.57'
 ---
 
 Tienes [HIKARO Chaleco de Plumas con Capucha Hombre  Verde  Khaki   52  Talla del fabricante: Large ](https://www.amazon.es/dp/B077YDGG49/?tag=tolees-21) con un 40.00 % de descuento con precio de oferta de 27.57 EUR (original: 45.95 EUR) en el siguiente enlace!

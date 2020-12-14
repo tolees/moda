@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N382KDN/?tag=tolees-21'
 descuento: '57.82'
+average: '7.15'
 ---
 
 Ahora mismo tienes [Abanderado Termal Termaltech Boxer  Blanco 001  XX-Large  Tamaño del Fabricante:60  para Hombre](https://www.amazon.es/dp/B01N382KDN/?tag=tolees-21) a 7.15 EUR (original: 16.95 EUR) (57.82 %  de descuento) en el siguiente enlace!

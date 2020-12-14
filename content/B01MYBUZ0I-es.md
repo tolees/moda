@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MYBUZ0I/?tag=tolees-21'
 descuento: '72.21'
+average: '18.34'
 ---
 
 Está [Polaroid PLD 6025/S LB VK6 99 Gafas de Sol  Blanco  White/Green SF Pz   Unisex-Adulto](https://www.amazon.es/dp/B01MYBUZ0I/?tag=tolees-21) con 72.21 de descuento por 18.34 EUR (original: 66 EUR) en el siguiente enlace!

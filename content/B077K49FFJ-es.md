@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077K49FFJ/?tag=tolees-21'
 descuento: '69.71'
+average: '29.99'
 ---
 
 Tienes [REPLAY Jacksy  Vaqueros Skinny para Mujer  Azul  Dark Blue 7   W28/L32  Talla del Fabricante: 28 ](https://www.amazon.es/dp/B077K49FFJ/?tag=tolees-21) con un 69.71 % de descuento con precio de oferta de 29.99 EUR (original: 99 EUR) en el siguiente enlace!

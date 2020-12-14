@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BB5JVSW/?tag=tolees-21'
 descuento: '50.00'
+average: '25'
 ---
 
 Tienes [The North Face Y Po HD Sudadera Juvenil Drew Peak  Unisex niños  Cosmic Blue/High Rise Grey  M](https://www.amazon.es/dp/B07BB5JVSW/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 25 EUR (original: 50 EUR) en el siguiente enlace!

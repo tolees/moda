@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HHBL985/?tag=tolees-21'
 descuento: '81.56'
+average: '55.15'
 ---
 
 Ahora mismo tienes [Tommy Hilfiger Bardot LW Down Puffer Jkt Chaqueta  Azul  Midnight/Ponderosa Pine/Silver 901   Medium para Mujer](https://www.amazon.es/dp/B07HHBL985/?tag=tolees-21) a 55.15 EUR (original: 299 EUR) (81.56 %  de descuento) en el siguiente enlace!

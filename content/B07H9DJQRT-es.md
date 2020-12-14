@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07H9DJQRT/?tag=tolees-21'
 descuento: '45.94'
+average: '39.51'
 ---
 
 Está [Rockport Slayter Bike Toe Black  Zapatos de Cordones Derby para Hombre  Negro  40.5 EU](https://www.amazon.es/dp/B07H9DJQRT/?tag=tolees-21) con 45.94 de descuento por 39.51 EUR (original: 73.08 EUR) en el siguiente enlace!

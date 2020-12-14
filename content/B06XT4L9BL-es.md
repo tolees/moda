@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XT4L9BL/?tag=tolees-21'
 descuento: '63.50'
+average: '21.88'
 ---
 
 Está [Izas Sagra Chaqueta Poncho  Mujer  Rosa  Fuxia   XXL](https://www.amazon.es/dp/B06XT4L9BL/?tag=tolees-21) con 63.50 de descuento por 21.88 EUR (original: 59.95 EUR) en el siguiente enlace!

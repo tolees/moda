@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071VTF3YL/?tag=tolees-21'
 descuento: '53.92'
+average: '29.95'
 ---
 
 Ahora mismo tienes [Under Armour Challenger II Track Jacket Chaqueta  Hombre  Negro  Black/Graphite 001   L](https://www.amazon.es/dp/B071VTF3YL/?tag=tolees-21) a 29.95 EUR (original: 64.99 EUR) (53.92 %  de descuento) en el siguiente enlace!

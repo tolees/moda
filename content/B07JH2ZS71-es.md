@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JH2ZS71/?tag=tolees-21'
 descuento: '30.08'
+average: '13.95'
 ---
 
 Ahora mismo tienes [Puma ESS+ Cut Off Tank Camiseta De Tirantes  Mujer  Blanco White  S](https://www.amazon.es/dp/B07JH2ZS71/?tag=tolees-21) a 13.95 EUR (original: 19.95 EUR) (30.08 %  de descuento) en el siguiente enlace!

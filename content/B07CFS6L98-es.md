@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CFS6L98/?tag=tolees-21'
 descuento: '51.44'
+average: '19.4'
 ---
 
 Tienes [Marco Tozzi 2-2-22417-31  Zapatos de Tacón para Mujer  Marrón  Pepper 324   36 EU](https://www.amazon.es/dp/B07CFS6L98/?tag=tolees-21) con un 51.44 % de descuento con precio de oferta de 19.4 EUR (original: 39.95 EUR) en el siguiente enlace!

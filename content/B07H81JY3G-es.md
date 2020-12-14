@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07H81JY3G/?tag=tolees-21'
 descuento: '91.79'
+average: '1.99'
 ---
 
 Está [firesara Gafas de natación para niños protección UV  antiniebla y sin Fugas](https://www.amazon.es/dp/B07H81JY3G/?tag=tolees-21) con 91.79 de descuento por 1.99 EUR (original: 24.24 EUR) en el siguiente enlace!

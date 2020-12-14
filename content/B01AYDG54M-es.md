@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01AYDG54M/?tag=tolees-21'
 descuento: '48.84'
+average: '44'
 ---
 
 Está [Puma Borussia Dortmund Home Replica Shirt Camiseta equipación  Hombre  Amarillo  XXL](https://www.amazon.es/dp/B01AYDG54M/?tag=tolees-21) con 48.84 de descuento por 44 EUR (original: 86 EUR) en el siguiente enlace!

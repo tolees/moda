@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DLV4GV8/?tag=tolees-21'
 descuento: '53.89'
+average: '5.99'
 ---
 
 Está [Springfield 1.T.Ap.Texto Bordado Flores Print Camiseta  Mujer  Azul  Azul Marino 10   Medium  Tamaño del Fabricante:M ](https://www.amazon.es/dp/B07DLV4GV8/?tag=tolees-21) con 53.89 de descuento por 5.99 EUR (original: 12.99 EUR) en el siguiente enlace!

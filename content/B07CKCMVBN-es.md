@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CKCMVBN/?tag=tolees-21'
 descuento: '43.95'
+average: '12.55'
 ---
 
 Está [Inside 6sves21&  Vestido para Mujer  Negro  Black 1  X-Large](https://www.amazon.es/dp/B07CKCMVBN/?tag=tolees-21) con 43.95 de descuento por 12.55 EUR (original: 22.39 EUR) en el siguiente enlace!

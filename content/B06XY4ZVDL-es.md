@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XY4ZVDL/?tag=tolees-21'
 descuento: '50.01'
+average: '129.97'
 ---
 
 Está [Oakley Flak Draft Gafas de Sol  Navy  67 para Hombre](https://www.amazon.es/dp/B06XY4ZVDL/?tag=tolees-21) con 50.01 de descuento por 129.97 EUR (original: 260 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01HPODJYC/?tag=tolees-21'
 descuento: '73.37'
+average: '18.63'
 ---
 
 Está [Tom Tailor 8599903  Botines para Mujer  Marrón  37 EU](https://www.amazon.es/dp/B01HPODJYC/?tag=tolees-21) con 73.37 de descuento por 18.63 EUR (original: 69.95 EUR) en el siguiente enlace!

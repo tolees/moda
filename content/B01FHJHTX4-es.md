@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01FHJHTX4/?tag=tolees-21'
 descuento: '49.07'
+average: '15.28'
 ---
 
 Ahora mismo tienes [Under Armour UA Woven Graphic Short Pantalón Corto  Hombre  Gris  035   S](https://www.amazon.es/dp/B01FHJHTX4/?tag=tolees-21) a 15.28 EUR (original: 30 EUR) (49.07 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077XK3DSJ/?tag=tolees-21'
 descuento: '44.47'
+average: '22.21'
 ---
 
 Ahora mismo tienes [Under Armour Charged Cotton 6in  Bóxer para Hombre  Gris  Steel/Steel 039   Large  Pack de 3](https://www.amazon.es/dp/B077XK3DSJ/?tag=tolees-21) a 22.21 EUR (original: 40 EUR) (44.47 %  de descuento) en el siguiente enlace!

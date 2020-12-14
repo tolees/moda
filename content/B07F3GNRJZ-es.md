@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F3GNRJZ/?tag=tolees-21'
 descuento: '43.54'
+average: '70.57'
 ---
 
 Está [Geox U Nebula B  Zapatillas para Hombre  Gris  Papyrus C1122   41 EU](https://www.amazon.es/dp/B07F3GNRJZ/?tag=tolees-21) con 43.54 de descuento por 70.57 EUR (original: 125 EUR) en el siguiente enlace!

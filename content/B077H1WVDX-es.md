@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077H1WVDX/?tag=tolees-21'
 descuento: '65.81'
+average: '13.66'
 ---
 
 Tienes [!Solid Knit - Madden Jersey  Hombre  Verde  Aloe   Large  Tamaño del Fabricante:L ](https://www.amazon.es/dp/B077H1WVDX/?tag=tolees-21) con un 65.81 % de descuento con precio de oferta de 13.66 EUR (original: 39.95 EUR) en el siguiente enlace!

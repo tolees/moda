@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07C3TVM5R/?tag=tolees-21'
 descuento: '80.03'
+average: '19.77'
 ---
 
 Tienes [Pepe Jeans Saturn Vaqueros  Azul  Denim MC5   24W / 34L para Mujer](https://www.amazon.es/dp/B07C3TVM5R/?tag=tolees-21) con un 80.03 % de descuento con precio de oferta de 19.77 EUR (original: 99 EUR) en el siguiente enlace!

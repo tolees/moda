@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073XJXWLN/?tag=tolees-21'
 descuento: '51.89'
+average: '72.17'
 ---
 
 Está [Timberland Naples Trail  Oxford para Hombre  Negro  Black   44.5 EU](https://www.amazon.es/dp/B073XJXWLN/?tag=tolees-21) con 51.89 de descuento por 72.17 EUR (original: 150 EUR) en el siguiente enlace!

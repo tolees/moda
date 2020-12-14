@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MN884PQ/?tag=tolees-21'
 descuento: '36.83'
+average: '18.95'
 ---
 
 Tienes [The North Face Easy Camiseta  Hombre  Azul  Urban Navy/Fiery Red   M](https://www.amazon.es/dp/B07MN884PQ/?tag=tolees-21) con un 36.83 % de descuento con precio de oferta de 18.95 EUR (original: 30 EUR) en el siguiente enlace!

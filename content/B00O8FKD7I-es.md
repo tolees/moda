@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00O8FKD7I/?tag=tolees-21'
 descuento: '53.61'
+average: '64.95'
 ---
 
 Tienes [ECCO Howell - Zapatos casuales de cuero para hombre   Negro  BLACK2001    42 EU](https://www.amazon.es/dp/B00O8FKD7I/?tag=tolees-21) con un 53.61 % de descuento con precio de oferta de 64.95 EUR (original: 140 EUR) en el siguiente enlace!

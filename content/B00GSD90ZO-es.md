@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00GSD90ZO/?tag=tolees-21'
 descuento: '46.84'
+average: '101'
 ---
 
 Tienes [Columbia Alpine Action Oh Chaqueta de Esquí  Negro  Talla XS](https://www.amazon.es/dp/B00GSD90ZO/?tag=tolees-21) con un 46.84 % de descuento con precio de oferta de 101 EUR (original: 189.99 EUR) en el siguiente enlace!

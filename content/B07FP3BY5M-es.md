@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FP3BY5M/?tag=tolees-21'
 descuento: '69.35'
+average: '7.66'
 ---
 
 Tienes [Only Nos Onlmila Lacy L/S Knt Noos  Jersey para Mujer  Azul Surf The Web  M](https://www.amazon.es/dp/B07FP3BY5M/?tag=tolees-21) con un 69.35 % de descuento con precio de oferta de 7.66 EUR (original: 24.99 EUR) en el siguiente enlace!

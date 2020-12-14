@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078GGNC8T/?tag=tolees-21'
 descuento: '34.67'
+average: '26.1'
 ---
 
 Ahora mismo tienes [BOSS Typer Camiseta  Rosa  Light/Pastel Pink 681   XX-Large para Hombre](https://www.amazon.es/dp/B078GGNC8T/?tag=tolees-21) a 26.1 EUR (original: 39.95 EUR) (34.67 %  de descuento) en el siguiente enlace!

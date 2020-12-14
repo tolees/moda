@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075TDQ96M/?tag=tolees-21'
 descuento: '79.25'
+average: '8.29'
 ---
 
 Tienes [Trucco - Jersey para mujer  color gris claro  talla L](https://www.amazon.es/dp/B075TDQ96M/?tag=tolees-21) con un 79.25 % de descuento con precio de oferta de 8.29 EUR (original: 39.95 EUR) en el siguiente enlace!

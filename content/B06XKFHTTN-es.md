@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XKFHTTN/?tag=tolees-21'
 descuento: '56.84'
+average: '77.69'
 ---
 
 Tienes [BOSS Hugo 0888/S IR 0T8 Gafas de Sol  Negro  Bkivryhvn BK/Grey Blue   49 Unisex-Adulto](https://www.amazon.es/dp/B06XKFHTTN/?tag=tolees-21) con un 56.84 % de descuento con precio de oferta de 77.69 EUR (original: 180 EUR) en el siguiente enlace!

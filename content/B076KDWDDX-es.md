@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076KDWDDX/?tag=tolees-21'
 descuento: '35.09'
+average: '16.22'
 ---
 
 Está [JACK & JONES Jacnew Camo Trunks 3 Pack Bóxer  Negro  Black Detail:Black   Large  Hombre](https://www.amazon.es/dp/B076KDWDDX/?tag=tolees-21) con 35.09 de descuento por 16.22 EUR (original: 24.99 EUR) en el siguiente enlace!

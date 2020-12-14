@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KTXGLZD/?tag=tolees-21'
 descuento: '49.99'
+average: '24.98'
 ---
 
 Está [adidas W E Lin FZ HD Sudadera  Mujer  brgros/rosaut  2XS](https://www.amazon.es/dp/B07KTXGLZD/?tag=tolees-21) con 49.99 de descuento por 24.98 EUR (original: 49.95 EUR) en el siguiente enlace!

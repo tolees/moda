@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B001UQ71JG/?tag=tolees-21'
 descuento: '31.66'
+average: '99.78'
 ---
 
 Tienes [Ray-Ban 0RB3183  Gafas de sol  Negro  Marco: negro  color de la lente: verde clásico 006/71   63 cm](https://www.amazon.es/dp/B001UQ71JG/?tag=tolees-21) con un 31.66 % de descuento con precio de oferta de 99.78 EUR (original: 146 EUR) en el siguiente enlace!

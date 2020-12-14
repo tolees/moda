@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FXM3M6R/?tag=tolees-21'
 descuento: '53.87'
+average: '11.51'
 ---
 
 Está [Wrangler Sign Off tee Camiseta  Blanco  White 312   XXXX-Large para Hombre](https://www.amazon.es/dp/B07FXM3M6R/?tag=tolees-21) con 53.87 de descuento por 11.51 EUR (original: 24.95 EUR) en el siguiente enlace!

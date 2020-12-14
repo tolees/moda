@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073MT5B7L/?tag=tolees-21'
 descuento: '52.54'
+average: '12.81'
 ---
 
 Está [Only Onlbette Logo LS Swt  Sudadera para Mujer  Gris  Light Grey Melange Print:Withered Rose   38  Talla del Fabricante: Medium ](https://www.amazon.es/dp/B073MT5B7L/?tag=tolees-21) con 52.54 de descuento por 12.81 EUR (original: 26.99 EUR) en el siguiente enlace!

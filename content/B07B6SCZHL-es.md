@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07B6SCZHL/?tag=tolees-21'
 descuento: '64.66'
+average: '70.69'
 ---
 
 Está [Burton Covert Chaqueta de Snowboard  Hombre   Pelican Tusk Stripe/Denim   XL](https://www.amazon.es/dp/B07B6SCZHL/?tag=tolees-21) con 64.66 de descuento por 70.69 EUR (original: 200 EUR) en el siguiente enlace!

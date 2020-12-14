@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07QK5ZJ56/?tag=tolees-21'
 descuento: '52.66'
+average: '8.99'
 ---
 
 Ahora mismo tienes [Almohadillas de Talón  Gel Almohadillas para Tacón con Fuerte Adhesivo  Protectores de Talón  Agarre de Talón para Zapatos Tacón Alto  T-forma Plantilla de Talón para Zapatillas  Bailarinas  2 Pares](https://www.amazon.es/dp/B07QK5ZJ56/?tag=tolees-21) a 8.99 EUR (original: 18.99 EUR) (52.66 %  de descuento) en el siguiente enlace!

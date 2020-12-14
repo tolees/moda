@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078WHH1GT/?tag=tolees-21'
 descuento: '30.64'
+average: '10.89'
 ---
 
 Está [Inside 5SCN68& Camiseta  Marfil  Crudo 95   Medium  Tamaño del Fabricante:M  para Mujer](https://www.amazon.es/dp/B078WHH1GT/?tag=tolees-21) con 30.64 de descuento por 10.89 EUR (original: 15.7 EUR) en el siguiente enlace!

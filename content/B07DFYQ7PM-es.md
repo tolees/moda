@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DFYQ7PM/?tag=tolees-21'
 descuento: '57.08'
+average: '8.58'
 ---
 
 Ahora mismo tienes [Under Armour Box Logo SS Camiseta  Niños  Gris  Mod Gray Light Heather/Ether Blue 011   XL](https://www.amazon.es/dp/B07DFYQ7PM/?tag=tolees-21) a 8.58 EUR (original: 19.99 EUR) (57.08 %  de descuento) en el siguiente enlace!

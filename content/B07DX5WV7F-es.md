@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DX5WV7F/?tag=tolees-21'
 descuento: '73.51'
+average: '13.24'
 ---
 
 Está [Only & Sons Onsloom Blue Washed LD PK 0897 Noos  Vaqueros Slim Hombre  Azul  Blue Denim   W31/L34](https://www.amazon.es/dp/B07DX5WV7F/?tag=tolees-21) con 73.51 de descuento por 13.24 EUR (original: 49.99 EUR) en el siguiente enlace!

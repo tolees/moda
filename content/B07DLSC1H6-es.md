@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DLSC1H6/?tag=tolees-21'
 descuento: '69.76'
+average: '16.63'
 ---
 
 Ahora mismo tienes [NAME IT Nkfmela Down Jacket Camp  Chaqueta para Niñas  Negro Detail: with Black Color Fur  164](https://www.amazon.es/dp/B07DLSC1H6/?tag=tolees-21) a 16.63 EUR (original: 54.99 EUR) (69.76 %  de descuento) en el siguiente enlace!

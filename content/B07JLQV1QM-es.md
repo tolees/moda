@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JLQV1QM/?tag=tolees-21'
 descuento: '60.47'
+average: '31.38'
 ---
 
 Ahora mismo tienes [New Look Puppy Tooth 5976204  Abrigo para Hombre  Negro  Black Pattern 9  X-Small  Talla del Fabricante: 50 ](https://www.amazon.es/dp/B07JLQV1QM/?tag=tolees-21) a 31.38 EUR (original: 79.38 EUR) (60.47 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MTSX552/?tag=tolees-21'
 descuento: '55.79'
+average: '79.12'
 ---
 
 Está [Karen Millen Snake Print Collection Vestido   Yellow/Multi 83   42 ES ES para Mujer](https://www.amazon.es/dp/B07MTSX552/?tag=tolees-21) con 55.79 de descuento por 79.12 EUR (original: 178.96 EUR) en el siguiente enlace!

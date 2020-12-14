@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076WYDN6P/?tag=tolees-21'
 descuento: '65.00'
+average: '34.98'
 ---
 
 Está [G-STAR RAW 3301 Straight  Vaqueros Straight Hombre  Azul  Medium Aged 071   W32/L34](https://www.amazon.es/dp/B076WYDN6P/?tag=tolees-21) con 65.00 de descuento por 34.98 EUR (original: 99.95 EUR) en el siguiente enlace!

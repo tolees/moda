@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073RK42NQ/?tag=tolees-21'
 descuento: '74.63'
+average: '20.29'
 ---
 
 Está [Only Onlnova Fur Long Parka Otw  Gris  Pumice Stone   36  Talla del Fabricante: Small  para Mujer](https://www.amazon.es/dp/B073RK42NQ/?tag=tolees-21) con 74.63 de descuento por 20.29 EUR (original: 79.99 EUR) en el siguiente enlace!

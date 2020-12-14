@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BZ4LXQ4/?tag=tolees-21'
 descuento: '56.25'
+average: '52.06'
 ---
 
 Tienes [Tommy Hilfiger Francesca C-nk Sweatshirt LS  Sudadera Mujer  Gris  Light Grey Htr 039   42  Talla del Fabricante: 40 L ](https://www.amazon.es/dp/B07BZ4LXQ4/?tag=tolees-21) con un 56.25 % de descuento con precio de oferta de 52.06 EUR (original: 119 EUR) en el siguiente enlace!

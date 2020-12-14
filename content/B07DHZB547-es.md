@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DHZB547/?tag=tolees-21'
 descuento: '59.77'
+average: '40.21'
 ---
 
 Ahora mismo tienes [United Colors of Benetton Heavy Jacket  Chaqueta para Mujer   Beige 1k3   42](https://www.amazon.es/dp/B07DHZB547/?tag=tolees-21) a 40.21 EUR (original: 99.95 EUR) (59.77 %  de descuento) en el siguiente enlace!

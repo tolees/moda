@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072FBY9JC/?tag=tolees-21'
 descuento: '70.16'
+average: '5.07'
 ---
 
 Tienes [Vero Moda Vmmilan Nille 3/4 Deep V-Neck Blouse suéter  Azul  Navy Blazer   Small para Mujer](https://www.amazon.es/dp/B072FBY9JC/?tag=tolees-21) con un 70.16 % de descuento con precio de oferta de 5.07 EUR (original: 16.99 EUR) en el siguiente enlace!

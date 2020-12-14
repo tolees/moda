@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JY1LCJH/?tag=tolees-21'
 descuento: '69.87'
+average: '12.05'
 ---
 
 Ahora mismo tienes [JACK & JONES Jcotour Shirt LS Worker Camisa  Tango Red Fit:/Slim  Small para Hombre](https://www.amazon.es/dp/B07JY1LCJH/?tag=tolees-21) a 12.05 EUR (original: 39.99 EUR) (69.87 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07L9G3DF2/?tag=tolees-21'
 descuento: '46.28'
+average: '20.95'
 ---
 
 Tienes [Napapijri Sevora Camiseta  Blanco  Bright White 002   X-Large para Hombre](https://www.amazon.es/dp/B07L9G3DF2/?tag=tolees-21) con un 46.28 % de descuento con precio de oferta de 20.95 EUR (original: 39 EUR) en el siguiente enlace!

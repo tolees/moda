@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JQNBY6H/?tag=tolees-21'
 descuento: '55.88'
+average: '28.68'
 ---
 
 Está [Morgan 191-ponti.p  Vaqueros Hombre Ajustados para Mujer  Azul Jean Brut  W34  Talla del Fabricante: T34 ](https://www.amazon.es/dp/B07JQNBY6H/?tag=tolees-21) con 55.88 de descuento por 28.68 EUR (original: 65 EUR) en el siguiente enlace!

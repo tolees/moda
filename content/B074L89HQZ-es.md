@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074L89HQZ/?tag=tolees-21'
 descuento: '58.38'
+average: '10.4'
 ---
 
 Está [Only Onlmesa AOP Wide Sleeve Top Wvn  Blusa Mujer   Black AOP:sanchi Flora Comb 1   Medium  Talla del Fabricante: 38 ](https://www.amazon.es/dp/B074L89HQZ/?tag=tolees-21) con 58.38 de descuento por 10.4 EUR (original: 24.99 EUR) en el siguiente enlace!

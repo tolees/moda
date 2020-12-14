@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073WRDP6D/?tag=tolees-21'
 descuento: '65.22'
+average: '8.92'
 ---
 
 Está [I-D-C CID Valerian Helmet Camiseta  Negro Black  X-Large para Hombre](https://www.amazon.es/dp/B073WRDP6D/?tag=tolees-21) con 65.22 de descuento por 8.92 EUR (original: 25.65 EUR) en el siguiente enlace!

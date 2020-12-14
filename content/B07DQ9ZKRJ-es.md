@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DQ9ZKRJ/?tag=tolees-21'
 descuento: '67.38'
+average: '71.76'
 ---
 
 Está [Burton Lelah Chaqueta de Snowboard  Mujer  Blanco  Canvas Birds/Pebble   XL](https://www.amazon.es/dp/B07DQ9ZKRJ/?tag=tolees-21) con 67.38 de descuento por 71.76 EUR (original: 220 EUR) en el siguiente enlace!

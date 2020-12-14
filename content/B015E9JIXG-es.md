@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B015E9JIXG/?tag=tolees-21'
 descuento: '35.25'
+average: '54.39'
 ---
 
 Tienes [Guess GU7411-5752F  Gafas de sol para Mujer  Marrón 57](https://www.amazon.es/dp/B015E9JIXG/?tag=tolees-21) con un 35.25 % de descuento con precio de oferta de 54.39 EUR (original: 84 EUR) en el siguiente enlace!

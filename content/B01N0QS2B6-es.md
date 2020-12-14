@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N0QS2B6/?tag=tolees-21'
 descuento: '72.64'
+average: '10.94'
 ---
 
 Tienes [Esprit 037ee1j010  Sudadera Mujer   Navy   34  Talla del Fabricante: X-Small ](https://www.amazon.es/dp/B01N0QS2B6/?tag=tolees-21) con un 72.64 % de descuento con precio de oferta de 10.94 EUR (original: 39.99 EUR) en el siguiente enlace!

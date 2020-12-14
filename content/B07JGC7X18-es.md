@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JGC7X18/?tag=tolees-21'
 descuento: '43.94'
+average: '139.6'
 ---
 
 Ahora mismo tienes [Lacoste Bh3330 Chaqueta  Rojo Rouge-Marine 5tv  X-Small  Talla del Fabricante: 46  para Hombre](https://www.amazon.es/dp/B07JGC7X18/?tag=tolees-21) a 139.6 EUR (original: 249 EUR) (43.94 %  de descuento) en el siguiente enlace!

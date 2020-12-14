@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07L1PCZNT/?tag=tolees-21'
 descuento: '57.85'
+average: '6.74'
 ---
 
 Ahora mismo tienes [PIMKIE Phs19 Nino Twist Blusa  Negro  Noir 899b09   40 para Mujer](https://www.amazon.es/dp/B07L1PCZNT/?tag=tolees-21) a 6.74 EUR (original: 15.99 EUR) (57.85 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073S9XV9K/?tag=tolees-21'
 descuento: '70.93'
+average: '26.16'
 ---
 
 Está [JACK & JONES Jcocarter Jacket Chaqueta  Azul  Sky Captain Fit:One   X-Large para Hombre](https://www.amazon.es/dp/B073S9XV9K/?tag=tolees-21) con 70.93 de descuento por 26.16 EUR (original: 89.99 EUR) en el siguiente enlace!

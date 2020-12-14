@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MT5KGEB/?tag=tolees-21'
 descuento: '43.37'
+average: '16.99'
 ---
 
 Tienes [CGID E01 Pequeño Estilo Vintage Retro Lennon inspirado círculo metálico redondo gafas de sol polarizadas para hombres y mujeres](https://www.amazon.es/dp/B01MT5KGEB/?tag=tolees-21) con un 43.37 % de descuento con precio de oferta de 16.99 EUR (original: 30 EUR) en el siguiente enlace!

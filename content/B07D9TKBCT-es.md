@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D9TKBCT/?tag=tolees-21'
 descuento: '50.77'
+average: '32'
 ---
 
 Está [Tommy Jeans Mujer Slim Fit Poplin  Blusa Manga Larga  Negro  Tommy Black 078  Medium](https://www.amazon.es/dp/B07D9TKBCT/?tag=tolees-21) con 50.77 de descuento por 32 EUR (original: 65 EUR) en el siguiente enlace!

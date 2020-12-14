@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07116YZQN/?tag=tolees-21'
 descuento: '49.34'
+average: '35.46'
 ---
 
 Tienes [Burton Oak Full-Zip Sudadera  Hombre  Mountaineer True Black Heather  S](https://www.amazon.es/dp/B07116YZQN/?tag=tolees-21) con un 49.34 % de descuento con precio de oferta de 35.46 EUR (original: 70 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XCBND77/?tag=tolees-21'
 descuento: '45.32'
+average: '43.72'
 ---
 
 Ahora mismo tienes [Clarks Glement Over  Zapatos de Cordones Derby para Hombre  Negro  Black Leather   44 EU](https://www.amazon.es/dp/B06XCBND77/?tag=tolees-21) a 43.72 EUR (original: 79.95 EUR) (45.32 %  de descuento) en el siguiente enlace!

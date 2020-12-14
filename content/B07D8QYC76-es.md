@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D8QYC76/?tag=tolees-21'
 descuento: '50.00'
+average: '2.8'
 ---
 
 Está [oodji Ultra Hombre Camiseta de Algodón sin Etiqueta con Estampado de Fútbol  Azul  ES 44 / XS](https://www.amazon.es/dp/B07D8QYC76/?tag=tolees-21) con 50.00 de descuento por 2.8 EUR (original: 5.6 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07C56V9TX/?tag=tolees-21'
 descuento: '51.63'
+average: '104.48'
 ---
 
 Tienes [Love Moschino Crew Collar Long Sleeve Sweater with Logo Embroidery  Camisa Manga Larga para Mujer  Rosa  Pink L75  36  Talla del Fabricante: 38 ](https://www.amazon.es/dp/B07C56V9TX/?tag=tolees-21) con un 51.63 % de descuento con precio de oferta de 104.48 EUR (original: 216 EUR) en el siguiente enlace!

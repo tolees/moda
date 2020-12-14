@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07QRZ1JRV/?tag=tolees-21'
 descuento: '56.69'
+average: '12.99'
 ---
 
 Ahora mismo tienes [Ogeenier Hombre Deporte Camiseta sin Mangas de Secado Rápido para Running Fitness Ejercicio](https://www.amazon.es/dp/B07QRZ1JRV/?tag=tolees-21) a 12.99 EUR (original: 29.99 EUR) (56.69 %  de descuento) en el siguiente enlace!

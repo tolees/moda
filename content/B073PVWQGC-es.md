@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073PVWQGC/?tag=tolees-21'
 descuento: '53.37'
+average: '6.99'
 ---
 
 Está [Aroncent Gafas de Sol Polarizada de Moda contra UV400 Sunglasses Lente Clásica Protección de Ojos para Viaje  Golf  Conducción  Ciclismo y Actividades Exteriores para Hombre Mujer Unisex  Azul ](https://www.amazon.es/dp/B073PVWQGC/?tag=tolees-21) con 53.37 de descuento por 6.99 EUR (original: 14.99 EUR) en el siguiente enlace!

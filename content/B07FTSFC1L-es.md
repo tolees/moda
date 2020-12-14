@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FTSFC1L/?tag=tolees-21'
 descuento: '75.09'
+average: '18.68'
 ---
 
 Ahora mismo tienes [Lee Basic Hoodie  sudadera Hombre  Azul  Dipped Blue La   XX-Large](https://www.amazon.es/dp/B07FTSFC1L/?tag=tolees-21) a 18.68 EUR (original: 75 EUR) (75.09 %  de descuento) en el siguiente enlace!

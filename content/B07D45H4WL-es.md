@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D45H4WL/?tag=tolees-21'
 descuento: '56.22'
+average: '15.76'
 ---
 
 Ahora mismo tienes [FIND Court Zapatos de Tacón  Negro Black  38 EU](https://www.amazon.es/dp/B07D45H4WL/?tag=tolees-21) a 15.76 EUR (original: 36 EUR) (56.22 %  de descuento) en el siguiente enlace!

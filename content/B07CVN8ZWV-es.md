@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CVN8ZWV/?tag=tolees-21'
 descuento: '64.09'
+average: '17.95'
 ---
 
 Tienes [Only & Sons Onsloom Dk Blue Dcc 0442 Noos  Vaqueros Slim para Hombre  Azul Denim  W32/L34](https://www.amazon.es/dp/B07CVN8ZWV/?tag=tolees-21) con un 64.09 % de descuento con precio de oferta de 17.95 EUR (original: 49.99 EUR) en el siguiente enlace!

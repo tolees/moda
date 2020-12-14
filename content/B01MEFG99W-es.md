@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MEFG99W/?tag=tolees-21'
 descuento: '50.01'
+average: '21.99'
 ---
 
 Está [Bring Me The Horizon So Take My Hand Jersey con Capucha Mujer Negro M](https://www.amazon.es/dp/B01MEFG99W/?tag=tolees-21) con 50.01 de descuento por 21.99 EUR (original: 43.99 EUR) en el siguiente enlace!

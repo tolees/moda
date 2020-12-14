@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XK6ZGBR/?tag=tolees-21'
 descuento: '79.48'
+average: '38.99'
 ---
 
 Tienes [Collar para adiestramiento canino on modo vibració](https://www.amazon.es/dp/B06XK6ZGBR/?tag=tolees-21) con un 79.48 % de descuento con precio de oferta de 38.99 EUR (original: 189.99 EUR) en el siguiente enlace!

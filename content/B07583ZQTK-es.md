@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07583ZQTK/?tag=tolees-21'
 descuento: '58.40'
+average: '16.64'
 ---
 
 Ahora mismo tienes [find. vaqueros pitillo hombre  Azul  Blue Black   W31/L30](https://www.amazon.es/dp/B07583ZQTK/?tag=tolees-21) a 16.64 EUR (original: 40 EUR) (58.40 %  de descuento) en el siguiente enlace!

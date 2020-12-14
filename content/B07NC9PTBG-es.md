@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07NC9PTBG/?tag=tolees-21'
 descuento: '45.47'
+average: '8.18'
 ---
 
 Está [Pepe Jeans Hana Glitter S/s Camiseta  Gris  Grey Marl 933   4 años  Talla del Fabricante: 4  para Niñas](https://www.amazon.es/dp/B07NC9PTBG/?tag=tolees-21) con 45.47 de descuento por 8.18 EUR (original: 15 EUR) en el siguiente enlace!

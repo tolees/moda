@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00UBOL9V4/?tag=tolees-21'
 descuento: '34.85'
+average: '27.95'
 ---
 
 Está [Tommy Hilfiger 3p Lr Trunk  Bóxer Shorts para Hombre  Negro  Black/White/Grey Heather   XL   Pack de 3 ](https://www.amazon.es/dp/B00UBOL9V4/?tag=tolees-21) con 34.85 de descuento por 27.95 EUR (original: 42.9 EUR) en el siguiente enlace!

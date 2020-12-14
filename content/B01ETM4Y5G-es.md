@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01ETM4Y5G/?tag=tolees-21'
 descuento: '74.18'
+average: '25.79'
 ---
 
 Está [MENBUR Yedra  Zapatos de tacón con Punta Cerrada para Mujer  Gris  38 EU](https://www.amazon.es/dp/B01ETM4Y5G/?tag=tolees-21) con 74.18 de descuento por 25.79 EUR (original: 99.9 EUR) en el siguiente enlace!

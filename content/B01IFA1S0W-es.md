@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01IFA1S0W/?tag=tolees-21'
 descuento: '40.00'
+average: '18'
 ---
 
 Ahora mismo tienes [The North Face S/S tee Camiseta Red Box  Hombre  TNF White  XXL](https://www.amazon.es/dp/B01IFA1S0W/?tag=tolees-21) a 18 EUR (original: 30 EUR) (40.00 %  de descuento) en el siguiente enlace!

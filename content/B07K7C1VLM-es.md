@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07K7C1VLM/?tag=tolees-21'
 descuento: '46.52'
+average: '13.37'
 ---
 
 Tienes [Levi s Graphic Set-in Neck  Camiseta para Hombre  Azul  Varsity Athl Dress Blue 0499   S](https://www.amazon.es/dp/B07K7C1VLM/?tag=tolees-21) con un 46.52 % de descuento con precio de oferta de 13.37 EUR (original: 25 EUR) en el siguiente enlace!

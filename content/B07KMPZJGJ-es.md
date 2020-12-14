@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KMPZJGJ/?tag=tolees-21'
 descuento: '47.49'
+average: '20.95'
 ---
 
 Está [Superdry Vintage Logo Camo Infill tee Camiseta de Tirantes  Negro  Black 02A   Large para Hombre](https://www.amazon.es/dp/B07KMPZJGJ/?tag=tolees-21) con 47.49 de descuento por 20.95 EUR (original: 39.9 EUR) en el siguiente enlace!

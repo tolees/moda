@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07M5LYJ45/?tag=tolees-21'
 descuento: '46.58'
+average: '90.82'
 ---
 
 Tienes [The North Face Thermoball Hybrid Chaleco  Hombre  Black/TNF White  S](https://www.amazon.es/dp/B07M5LYJ45/?tag=tolees-21) con un 46.58 % de descuento con precio de oferta de 90.82 EUR (original: 170 EUR) en el siguiente enlace!

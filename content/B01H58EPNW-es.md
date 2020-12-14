@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01H58EPNW/?tag=tolees-21'
 descuento: '74.24'
+average: '11.11'
 ---
 
 Ahora mismo tienes [Blend 20701278  Jersey para Hombre  Black/ 70155 L](https://www.amazon.es/dp/B01H58EPNW/?tag=tolees-21) a 11.11 EUR (original: 43.13 EUR) (74.24 %  de descuento) en el siguiente enlace!

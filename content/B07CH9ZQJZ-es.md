@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CH9ZQJZ/?tag=tolees-21'
 descuento: '63.40'
+average: '7.32'
 ---
 
 Está [Under Armour UA Tech SS - Camiseta de Manga Corta para niño  Niños  1323891-019  Charcoal Light Heather/Black  Youth Medium](https://www.amazon.es/dp/B07CH9ZQJZ/?tag=tolees-21) con 63.40 de descuento por 7.32 EUR (original: 20 EUR) en el siguiente enlace!

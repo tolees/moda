@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DJ3KWHD/?tag=tolees-21'
 descuento: '59.32'
+average: '36.57'
 ---
 
 Está [Geox U Damian a  Zapatillas para Hombre  Gris  Anthracite C9004   45 EU](https://www.amazon.es/dp/B07DJ3KWHD/?tag=tolees-21) con 59.32 de descuento por 36.57 EUR (original: 89.9 EUR) en el siguiente enlace!

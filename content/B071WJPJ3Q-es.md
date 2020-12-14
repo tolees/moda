@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071WJPJ3Q/?tag=tolees-21'
 descuento: '72.34'
+average: '33.19'
 ---
 
 Ahora mismo tienes [Helly Hansen Jr Legendary Pant Abrigo  Niños  Negro  años  Tamaño del Fabricante:10 ](https://www.amazon.es/dp/B071WJPJ3Q/?tag=tolees-21) a 33.19 EUR (original: 120 EUR) (72.34 %  de descuento) en el siguiente enlace!

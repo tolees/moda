@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0721DQ3NP/?tag=tolees-21'
 descuento: '83.23'
+average: '16.76'
 ---
 
 Está [Lee Elly Vaqueros Slim  Azul  Crosby Blue Hald   W24/L31 para Mujer](https://www.amazon.es/dp/B0721DQ3NP/?tag=tolees-21) con 83.23 de descuento por 16.76 EUR (original: 99.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DHSPXB1/?tag=tolees-21'
 descuento: '57.48'
+average: '29.76'
 ---
 
 Ahora mismo tienes [DC Shoes Star Sudadera  Hombre  Negro  Black Kvj0   Medium  Tamaño del Fabricante:M ](https://www.amazon.es/dp/B07DHSPXB1/?tag=tolees-21) a 29.76 EUR (original: 69.99 EUR) (57.48 %  de descuento) en el siguiente enlace!

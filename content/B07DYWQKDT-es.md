@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DYWQKDT/?tag=tolees-21'
 descuento: '48.31'
+average: '87.87'
 ---
 
 Está [Columbia Chaqueta de esquí Impermeable para Hombre  Ride On Ski Jacket  Naranja  Backcountry Orange   Talla S](https://www.amazon.es/dp/B07DYWQKDT/?tag=tolees-21) con 48.31 de descuento por 87.87 EUR (original: 169.99 EUR) en el siguiente enlace!

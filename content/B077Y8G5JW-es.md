@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077Y8G5JW/?tag=tolees-21'
 descuento: '74.05'
+average: '20.76'
 ---
 
 Tienes [Asics Bl Sweat Crew  Sudadera para Hombre  Negro  Performance Black 001   Medium](https://www.amazon.es/dp/B077Y8G5JW/?tag=tolees-21) con un 74.05 % de descuento con precio de oferta de 20.76 EUR (original: 80 EUR) en el siguiente enlace!

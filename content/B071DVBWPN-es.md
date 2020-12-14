@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071DVBWPN/?tag=tolees-21'
 descuento: '78.23'
+average: '50.05'
 ---
 
 Ahora mismo tienes [G-STAR RAW Alaska Down Slim Hedley Wmn Chaqueta  Negro  Black 990   Medium para Mujer](https://www.amazon.es/dp/B071DVBWPN/?tag=tolees-21) a 50.05 EUR (original: 229.95 EUR) (78.23 %  de descuento) en el siguiente enlace!

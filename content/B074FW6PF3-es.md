@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074FW6PF3/?tag=tolees-21'
 descuento: '70.00'
+average: '9'
 ---
 
 Ahora mismo tienes [FIND Sudadera con Capucha y Detalle Bordado para Hombre  Verde  Dusty Olive   Medium](https://www.amazon.es/dp/B074FW6PF3/?tag=tolees-21) a 9 EUR (original: 30 EUR) (70.00 %  de descuento) en el siguiente enlace!

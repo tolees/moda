@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BD1LRNM/?tag=tolees-21'
 descuento: '55.75'
+average: '33.18'
 ---
 
 Ahora mismo tienes [Columbia Silver Ridge II Convertible Pantalón de Senderismo  Nailon  Hombre  Gris  Grill   Talla US: W28/L34/  EU W38/L34 ](https://www.amazon.es/dp/B07BD1LRNM/?tag=tolees-21) a 33.18 EUR (original: 74.99 EUR) (55.75 %  de descuento) en el siguiente enlace!

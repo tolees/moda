@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DLSCWRB/?tag=tolees-21'
 descuento: '69.95'
+average: '15.02'
 ---
 
 Está [Springfield 4.2.T.Ap.Perfecto Antelina  Chaqueta para Mujer   Gama Verdes 29    Tamaño del Fabricante:40 ](https://www.amazon.es/dp/B07DLSCWRB/?tag=tolees-21) con 69.95 de descuento por 15.02 EUR (original: 49.99 EUR) en el siguiente enlace!

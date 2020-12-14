@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KYYTFTX/?tag=tolees-21'
 descuento: '66.67'
+average: '5.33'
 ---
 
 Está [Springfield 3.T.Ap.Pv19.Tunica Blusa  Gama Marrón 35  Large  Tamaño del Fabricante:L  para Mujer](https://www.amazon.es/dp/B07KYYTFTX/?tag=tolees-21) con 66.67 de descuento por 5.33 EUR (original: 15.99 EUR) en el siguiente enlace!

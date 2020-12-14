@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07J2BD6YJ/?tag=tolees-21'
 descuento: '60.79'
+average: '15.68'
 ---
 
 Tienes [JACK & JONES Jcojonah Sweat Hood LS Noos  Sudadera para Hombre  Gris  Light Grey Melange Detail: JJ Print  Small](https://www.amazon.es/dp/B07J2BD6YJ/?tag=tolees-21) con un 60.79 % de descuento con precio de oferta de 15.68 EUR (original: 39.99 EUR) en el siguiente enlace!

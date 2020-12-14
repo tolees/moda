@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07L9NYD18/?tag=tolees-21'
 descuento: '64.66'
+average: '49.12'
 ---
 
 Está [Napapijri K Rainforest S Op 1 Black Chaqueta  Negro 041  140  Talla del Fabricante: 10  para Niños](https://www.amazon.es/dp/B07L9NYD18/?tag=tolees-21) con 64.66 de descuento por 49.12 EUR (original: 139 EUR) en el siguiente enlace!

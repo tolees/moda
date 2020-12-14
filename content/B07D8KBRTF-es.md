@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D8KBRTF/?tag=tolees-21'
 descuento: '40.04'
+average: '29.95'
 ---
 
 Tienes [BOSS Tedecent Camiseta  Blanco  White 100   Large para Mujer](https://www.amazon.es/dp/B07D8KBRTF/?tag=tolees-21) con un 40.04 % de descuento con precio de oferta de 29.95 EUR (original: 49.95 EUR) en el siguiente enlace!

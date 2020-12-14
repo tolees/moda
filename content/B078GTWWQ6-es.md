@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078GTWWQ6/?tag=tolees-21'
 descuento: '54.52'
+average: '13.64'
 ---
 
 Tienes [Springfield Chaqueta Parka Corta Parka  Mujer  Azul  Azul   40  Tamaño del Fabricante:40 ](https://www.amazon.es/dp/B078GTWWQ6/?tag=tolees-21) con un 54.52 % de descuento con precio de oferta de 13.64 EUR (original: 29.99 EUR) en el siguiente enlace!

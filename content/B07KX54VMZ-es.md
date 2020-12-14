@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KX54VMZ/?tag=tolees-21'
 descuento: '67.57'
+average: '38.91'
 ---
 
 Está [ESPRIT Collection 029eo1g014 Abrigo  Azul  Navy 400   44  Talla del Fabricante: 42  para Mujer](https://www.amazon.es/dp/B07KX54VMZ/?tag=tolees-21) con 67.57 de descuento por 38.91 EUR (original: 119.99 EUR) en el siguiente enlace!

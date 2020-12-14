@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077XV1MTM/?tag=tolees-21'
 descuento: '51.96'
+average: '13.45'
 ---
 
 Tienes [Under Armour Tech Twist Short-Sleeve Camiseta  Mujer  Peach Horizon/Metallic Silver  906   Medium](https://www.amazon.es/dp/B077XV1MTM/?tag=tolees-21) con un 51.96 % de descuento con precio de oferta de 13.45 EUR (original: 28 EUR) en el siguiente enlace!

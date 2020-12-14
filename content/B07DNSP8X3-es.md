@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DNSP8X3/?tag=tolees-21'
 descuento: '43.59'
+average: '31'
 ---
 
 Tienes [adidas ESS Allcap Oh H Sudadera  Negro  M para Mujer](https://www.amazon.es/dp/B07DNSP8X3/?tag=tolees-21) con un 43.59 % de descuento con precio de oferta de 31 EUR (original: 54.95 EUR) en el siguiente enlace!

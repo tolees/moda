@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07K73WZC8/?tag=tolees-21'
 descuento: '66.83'
+average: '9.95'
 ---
 
 Está [Levi s SS Set-in Sunset Pocket Camiseta   Boink Stripe Dress Blues/Lychee 0077   XX-Large para Hombre](https://www.amazon.es/dp/B07K73WZC8/?tag=tolees-21) con 66.83 de descuento por 9.95 EUR (original: 30 EUR) en el siguiente enlace!

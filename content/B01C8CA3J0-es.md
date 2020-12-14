@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01C8CA3J0/?tag=tolees-21'
 descuento: '60.00'
+average: '9.98'
 ---
 
 Tienes [Miami Beach Swimwear Demi Bikini  Rosa  Intense Coral 400   40](https://www.amazon.es/dp/B01C8CA3J0/?tag=tolees-21) con un 60.00 % de descuento con precio de oferta de 9.98 EUR (original: 24.95 EUR) en el siguiente enlace!

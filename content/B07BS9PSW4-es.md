@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BS9PSW4/?tag=tolees-21'
 descuento: '64.18'
+average: '28.3'
 ---
 
 Ahora mismo tienes [REPLAY Hombre M3666 .000.21842 Sudadera Not Applicable  Azul  Midnight Blue 85   XXX-Large](https://www.amazon.es/dp/B07BS9PSW4/?tag=tolees-21) a 28.3 EUR (original: 79 EUR) (64.18 %  de descuento) en el siguiente enlace!

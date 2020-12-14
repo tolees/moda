@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XCYKJPJ/?tag=tolees-21'
 descuento: '51.21'
+average: '46.35'
 ---
 
 Tienes [Pepe Jeans Saturn Pl201660 Vaqueros  Azul  10Oz Str 8Dip Royal Dk D45   25W / 30L para Mujer](https://www.amazon.es/dp/B06XCYKJPJ/?tag=tolees-21) con un 51.21 % de descuento con precio de oferta de 46.35 EUR (original: 95 EUR) en el siguiente enlace!

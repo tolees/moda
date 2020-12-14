@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KMHCQC6/?tag=tolees-21'
 descuento: '46.24'
+average: '21.45'
 ---
 
 Está [Superdry Trophy Micro AOP tee Camiseta de Tirantes  Negro  Black 02A   X-Small para Hombre](https://www.amazon.es/dp/B07KMHCQC6/?tag=tolees-21) con 46.24 de descuento por 21.45 EUR (original: 39.9 EUR) en el siguiente enlace!

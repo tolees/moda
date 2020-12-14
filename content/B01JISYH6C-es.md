@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01JISYH6C/?tag=tolees-21'
 descuento: '84.14'
+average: '14.27'
 ---
 
 Está [ONLY onlYATTA WOOL JACKET OTW  Chaqueta Mujer  Negro  Black   38  Talla del fabricante: Medium ](https://www.amazon.es/dp/B01JISYH6C/?tag=tolees-21) con 84.14 de descuento por 14.27 EUR (original: 89.99 EUR) en el siguiente enlace!

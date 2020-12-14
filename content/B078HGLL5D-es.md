@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078HGLL5D/?tag=tolees-21'
 descuento: '25.82'
+average: '11.12'
 ---
 
 Ahora mismo tienes [Iris & Lilly Braguita Estilo Bikini Body Smooth Mujer  Pack de 5  Multicolor  White/fiery Red/spanish Villa/maritime Blue    Talla del fabricante: Medium ](https://www.amazon.es/dp/B078HGLL5D/?tag=tolees-21) a 11.12 EUR (original: 14.99 EUR) (25.82 %  de descuento) en el siguiente enlace!

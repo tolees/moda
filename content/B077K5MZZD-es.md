@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077K5MZZD/?tag=tolees-21'
 descuento: '82.19'
+average: '21.19'
 ---
 
 Está [Replay Joi Vaqueros Skinny  Azul  Dark Blue 7   W24/L30  Talla del Fabricante: 24  para Mujer](https://www.amazon.es/dp/B077K5MZZD/?tag=tolees-21) con 82.19 de descuento por 21.19 EUR (original: 119 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B014YUDYJK/?tag=tolees-21'
 descuento: '54.36'
+average: '31.49'
 ---
 
 Ahora mismo tienes [Pepe Jeans Soho  Vaqueros para Mujer  Azul  10Oz Rinse Plus M15   25W / 30L](https://www.amazon.es/dp/B014YUDYJK/?tag=tolees-21) a 31.49 EUR (original: 69 EUR) (54.36 %  de descuento) en el siguiente enlace!

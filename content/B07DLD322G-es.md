@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DLD322G/?tag=tolees-21'
 descuento: '47.89'
+average: '11.98'
 ---
 
 Ahora mismo tienes [Springfield Fq.Gym.Blusa Nudo  Blusa para Mujer  Blanco  Marfil 97    Tamaño del Fabricante:38 ](https://www.amazon.es/dp/B07DLD322G/?tag=tolees-21) a 11.98 EUR (original: 22.99 EUR) (47.89 %  de descuento) en el siguiente enlace!

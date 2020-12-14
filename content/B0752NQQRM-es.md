@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0752NQQRM/?tag=tolees-21'
 descuento: '35.40'
+average: '83.95'
 ---
 
 Ahora mismo tienes [G-STAR RAW D-staq 3d Skinny  Vaqueros skinny Hombre  Azul  Dark Aged   W31/L30  Talla del fabricante: 31/30 ](https://www.amazon.es/dp/B0752NQQRM/?tag=tolees-21) a 83.95 EUR (original: 129.95 EUR) (35.40 %  de descuento) en el siguiente enlace!

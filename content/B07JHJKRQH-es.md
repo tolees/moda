@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JHJKRQH/?tag=tolees-21'
 descuento: '71.05'
+average: '37.63'
 ---
 
 Está [Armani Exchange J17 Slim Vaqueros  Gris  Grey Denim 0904   W29/L32  Talla del Fabricante: 29  para Hombre](https://www.amazon.es/dp/B07JHJKRQH/?tag=tolees-21) con 71.05 de descuento por 37.63 EUR (original: 130 EUR) en el siguiente enlace!

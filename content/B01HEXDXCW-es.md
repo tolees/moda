@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01HEXDXCW/?tag=tolees-21'
 descuento: '66.02'
+average: '13.56'
 ---
 
 Está [Crocs Crocband  Zuecos Unisex Niños  Rojo  Pepper/Graphite   19/20 EU](https://www.amazon.es/dp/B01HEXDXCW/?tag=tolees-21) con 66.02 de descuento por 13.56 EUR (original: 39.9 EUR) en el siguiente enlace!

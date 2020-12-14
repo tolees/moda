@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01ITM3IHM/?tag=tolees-21'
 descuento: '38.49'
+average: '21.53'
 ---
 
 Está [DC Comics Batman Badge - Sudadera Niñas  Gris  Sports Grey   5-6 años  Talla del Fabricante: 5-6 Years ](https://www.amazon.es/dp/B01ITM3IHM/?tag=tolees-21) con 38.49 de descuento por 21.53 EUR (original: 35 EUR) en el siguiente enlace!

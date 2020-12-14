@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07B6T8FBM/?tag=tolees-21'
 descuento: '58.84'
+average: '82.32'
 ---
 
 Tienes [Burton Jet Set Chaqueta de Snowboard  Mujer  Azul  Mood Indigo   M](https://www.amazon.es/dp/B07B6T8FBM/?tag=tolees-21) con un 58.84 % de descuento con precio de oferta de 82.32 EUR (original: 200 EUR) en el siguiente enlace!

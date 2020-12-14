@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075SGDJRR/?tag=tolees-21'
 descuento: '69.12'
+average: '16.98'
 ---
 
 Tienes [Springfield 8232407 Parka  Azul  Blue   Tamaño del Fabricante:38 para Mujer](https://www.amazon.es/dp/B075SGDJRR/?tag=tolees-21) con un 69.12 % de descuento con precio de oferta de 16.98 EUR (original: 54.99 EUR) en el siguiente enlace!

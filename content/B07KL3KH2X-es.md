@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KL3KH2X/?tag=tolees-21'
 descuento: '51.31'
+average: '26.78'
 ---
 
 Tienes [Nike M PO FLC TM Club19 - Sudadera con Capucha  Hombre  Obsidian  White   L](https://www.amazon.es/dp/B07KL3KH2X/?tag=tolees-21) con un 51.31 % de descuento con precio de oferta de 26.78 EUR (original: 55 EUR) en el siguiente enlace!

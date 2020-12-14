@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DHT1LVV/?tag=tolees-21'
 descuento: '45.03'
+average: '76.95'
 ---
 
 Ahora mismo tienes [DC Shoes Defy Youth Chaqueta  Niños  Verde  Chive Leaf Camo   14/XL](https://www.amazon.es/dp/B07DHT1LVV/?tag=tolees-21) a 76.95 EUR (original: 139.99 EUR) (45.03 %  de descuento) en el siguiente enlace!

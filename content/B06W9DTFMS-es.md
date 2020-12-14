@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06W9DTFMS/?tag=tolees-21'
 descuento: '59.76'
+average: '13.24'
 ---
 
 Tienes [boboli 474151  Vestido para Niñas   Listado Bicolor   152  Tamaño del Fabricante:152cm ](https://www.amazon.es/dp/B06W9DTFMS/?tag=tolees-21) con un 59.76 % de descuento con precio de oferta de 13.24 EUR (original: 32.9 EUR) en el siguiente enlace!

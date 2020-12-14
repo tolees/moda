@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FD5LQH2/?tag=tolees-21'
 descuento: '34.91'
+average: '22.75'
 ---
 
 Ahora mismo tienes [Vila Clothes Vipen New Skirt-Noos  Falda para Mujer  Verde  Pine Grove  40  Talla del Fabricante: Medium ](https://www.amazon.es/dp/B07FD5LQH2/?tag=tolees-21) a 22.75 EUR (original: 34.95 EUR) (34.91 %  de descuento) en el siguiente enlace!

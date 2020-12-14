@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KYYRC1K/?tag=tolees-21'
 descuento: '67.21'
+average: '4.26'
 ---
 
 Ahora mismo tienes [Springfield FR Contrast Binding Camiseta   Gama Verdes 22   Small  Tamaño del Fabricante:S  para Hombre](https://www.amazon.es/dp/B07KYYRC1K/?tag=tolees-21) a 4.26 EUR (original: 12.99 EUR) (67.21 %  de descuento) en el siguiente enlace!

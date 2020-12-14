@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07B4R9L6M/?tag=tolees-21'
 descuento: '50.25'
+average: '44.75'
 ---
 
 Ahora mismo tienes [G-Star Loose Hooded Sw Wmn L/s  Sudadera para Mujer  Blanco  White  Medium](https://www.amazon.es/dp/B07B4R9L6M/?tag=tolees-21) a 44.75 EUR (original: 89.95 EUR) (50.25 %  de descuento) en el siguiente enlace!

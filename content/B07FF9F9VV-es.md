@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FF9F9VV/?tag=tolees-21'
 descuento: '70.11'
+average: '23.91'
 ---
 
 Está [JACK & JONES Jconile Jacket  Parka para Hombre  Gris Glacier Gray  X-Large](https://www.amazon.es/dp/B07FF9F9VV/?tag=tolees-21) con 70.11 de descuento por 23.91 EUR (original: 79.99 EUR) en el siguiente enlace!

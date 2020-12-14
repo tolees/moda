@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KP3H3RT/?tag=tolees-21'
 descuento: '29.11'
+average: '22.48'
 ---
 
 Está [adidas DT9938 Sudadera  Hombre  Azul  Legend Ink/White   M](https://www.amazon.es/dp/B07KP3H3RT/?tag=tolees-21) con 29.11 de descuento por 22.48 EUR (original: 31.71 EUR) en el siguiente enlace!

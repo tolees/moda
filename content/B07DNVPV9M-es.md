@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DNVPV9M/?tag=tolees-21'
 descuento: '47.25'
+average: '18.99'
 ---
 
 Está [Umbro T040  Bóxer para Hombre  Negro  S  Pack of 5](https://www.amazon.es/dp/B07DNVPV9M/?tag=tolees-21) con 47.25 de descuento por 18.99 EUR (original: 36 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HH7VM33/?tag=tolees-21'
 descuento: '36.59'
+average: '25.99'
 ---
 
 Ahora mismo tienes [Awenia Zapatero de 5 Estantes Estable Estantería de Zapatos Ajustable para 20-30 Pares de Zapatos  99x28x91CM](https://www.amazon.es/dp/B07HH7VM33/?tag=tolees-21) a 25.99 EUR (original: 40.99 EUR) (36.59 %  de descuento) en el siguiente enlace!

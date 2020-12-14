@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07M9W76BX/?tag=tolees-21'
 descuento: '74.69'
+average: '1.64'
 ---
 
 Ahora mismo tienes [Vectry Vestidos De Fiesta para Bodas Talla Grandes Vestidos Playa Mujer Vestidos Casuales Vestido Midi Vestido Verano Vestidos Mujer Vestido](https://www.amazon.es/dp/B07M9W76BX/?tag=tolees-21) a 1.64 EUR (original: 6.48 EUR) (74.69 %  de descuento) en el siguiente enlace!

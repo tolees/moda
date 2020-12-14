@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XCGQWQB/?tag=tolees-21'
 descuento: '50.00'
+average: '59.97'
 ---
 
 Tienes [G-Star Raw 3301 Straight Jeans  Vaqueros para Hombre  Azul  Dk Aged 8595-89   W28/L30](https://www.amazon.es/dp/B06XCGQWQB/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 59.97 EUR (original: 119.95 EUR) en el siguiente enlace!

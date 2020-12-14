@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072BDKWLD/?tag=tolees-21'
 descuento: '68.65'
+average: '21.94'
 ---
 
 Tienes [TOM TAILOR Denim 35550120071  Chaqueta Para Mujer  Negro  Black 2999   X-Large](https://www.amazon.es/dp/B072BDKWLD/?tag=tolees-21) con un 68.65 % de descuento con precio de oferta de 21.94 EUR (original: 69.99 EUR) en el siguiente enlace!

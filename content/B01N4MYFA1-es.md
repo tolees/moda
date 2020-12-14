@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N4MYFA1/?tag=tolees-21'
 descuento: '77.33'
+average: '109.94'
 ---
 
 Tienes [Stella Maris STMB611-01 - Bolso para mujer con organizador de bolsillo extraíble  color negro](https://www.amazon.es/dp/B01N4MYFA1/?tag=tolees-21) con un 77.33 % de descuento con precio de oferta de 109.94 EUR (original: 485 EUR) en el siguiente enlace!

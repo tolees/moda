@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00Y4EW36M/?tag=tolees-21'
 descuento: '69.92'
+average: '98.95'
 ---
 
 Está [Tommy Hilfiger Tailored Butch STSSLD99003 Chaqueta de Traje  Azul  427   54 para Hombre](https://www.amazon.es/dp/B00Y4EW36M/?tag=tolees-21) con 69.92 de descuento por 98.95 EUR (original: 329 EUR) en el siguiente enlace!

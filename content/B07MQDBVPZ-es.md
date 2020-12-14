@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MQDBVPZ/?tag=tolees-21'
 descuento: '26.88'
+average: '29.95'
 ---
 
 Está [Pablosky Sandalias con Punta Abierta para Niñas   Blanco 462500   28 EU](https://www.amazon.es/dp/B07MQDBVPZ/?tag=tolees-21) con 26.88 de descuento por 29.95 EUR (original: 40.96 EUR) en el siguiente enlace!

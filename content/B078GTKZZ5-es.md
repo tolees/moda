@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078GTKZZ5/?tag=tolees-21'
 descuento: '60.67'
+average: '19.66'
 ---
 
 Ahora mismo tienes [Springfield Chaqueta Trench Rosa Abrigo  Mujer   Rosa Morado   42  Tamaño del Fabricante:42 ](https://www.amazon.es/dp/B078GTKZZ5/?tag=tolees-21) a 19.66 EUR (original: 49.99 EUR) (60.67 %  de descuento) en el siguiente enlace!

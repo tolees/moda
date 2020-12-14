@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FFNMSLR/?tag=tolees-21'
 descuento: '54.73'
+average: '27.16'
 ---
 
 Está [JACK & JONES Jjimike Jjoriginal Am 771 Noos  Vaqueros Relaxed para Hombre  Azul Blue Denim  W29/L32](https://www.amazon.es/dp/B07FFNMSLR/?tag=tolees-21) con 54.73 de descuento por 27.16 EUR (original: 59.99 EUR) en el siguiente enlace!

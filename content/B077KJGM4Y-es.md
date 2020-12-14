@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077KJGM4Y/?tag=tolees-21'
 descuento: '61.06'
+average: '19.45'
 ---
 
 Tienes [Puma FIGC Italia Training Pants Zipped Pockets Jr Pantalón  Niños   Azul Oscuro   128](https://www.amazon.es/dp/B077KJGM4Y/?tag=tolees-21) con un 61.06 % de descuento con precio de oferta de 19.45 EUR (original: 49.95 EUR) en el siguiente enlace!

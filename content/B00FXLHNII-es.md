@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00FXLHNII/?tag=tolees-21'
 descuento: '50.83'
+average: '24.56'
 ---
 
 Tienes [JACK & JONES Bolton Dean WH. Pepper Org  Pantalón para Hombre  Beige  White   46](https://www.amazon.es/dp/B00FXLHNII/?tag=tolees-21) con un 50.83 % de descuento con precio de oferta de 24.56 EUR (original: 49.95 EUR) en el siguiente enlace!

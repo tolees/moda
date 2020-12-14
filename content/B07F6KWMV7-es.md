@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F6KWMV7/?tag=tolees-21'
 descuento: '55.80'
+average: '41.99'
 ---
 
 Ahora mismo tienes [Armani Exchange Star Rubber Sandal  Chanclas para Mujer  Blanco  White 00001   40 EU](https://www.amazon.es/dp/B07F6KWMV7/?tag=tolees-21) a 41.99 EUR (original: 95 EUR) (55.80 %  de descuento) en el siguiente enlace!

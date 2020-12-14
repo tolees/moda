@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07C8L9PB5/?tag=tolees-21'
 descuento: '67.77'
+average: '20.95'
 ---
 
 Ahora mismo tienes [Divina Providencia Jersey Estrellas Jersey  Mujer  Negro  Negro 0   42  Tamaño del Fabricante:LXL ](https://www.amazon.es/dp/B07C8L9PB5/?tag=tolees-21) a 20.95 EUR (original: 65 EUR) (67.77 %  de descuento) en el siguiente enlace!

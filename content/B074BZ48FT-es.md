@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074BZ48FT/?tag=tolees-21'
 descuento: '69.75'
+average: '29.95'
 ---
 
 Ahora mismo tienes [Pepe Jeans Kingston Zip  Vaqueros Recto para Hombre  Negro  Black Used Wa3   W33/L30](https://www.amazon.es/dp/B074BZ48FT/?tag=tolees-21) a 29.95 EUR (original: 99 EUR) (69.75 %  de descuento) en el siguiente enlace!

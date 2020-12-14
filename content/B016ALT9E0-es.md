@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B016ALT9E0/?tag=tolees-21'
 descuento: '45.44'
+average: '21.82'
 ---
 
 Está [Gant 3-Pack Trunk  Camiseta sin Mangas para Hombre  105  XXX-Large](https://www.amazon.es/dp/B016ALT9E0/?tag=tolees-21) con 45.44 de descuento por 21.82 EUR (original: 39.99 EUR) en el siguiente enlace!

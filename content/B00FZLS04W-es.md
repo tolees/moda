@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00FZLS04W/?tag=tolees-21'
 descuento: '40.19'
+average: '28.71'
 ---
 
 Está [Hi-Tec Hopkins  Chaqueta para Hombre  Negro  Black   XL](https://www.amazon.es/dp/B00FZLS04W/?tag=tolees-21) con 40.19 de descuento por 28.71 EUR (original: 48 EUR) en el siguiente enlace!

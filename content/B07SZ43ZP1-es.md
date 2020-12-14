@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07SZ43ZP1/?tag=tolees-21'
 descuento: '36.85'
+average: '23.99'
 ---
 
 Tienes [Niña Chaqueta Vaquera Abrigo Casual Manga Larga Azul Jeans Tops Ropa Primavera Otoño Outwear](https://www.amazon.es/dp/B07SZ43ZP1/?tag=tolees-21) con un 36.85 % de descuento con precio de oferta de 23.99 EUR (original: 37.99 EUR) en el siguiente enlace!

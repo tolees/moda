@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D7N2B3J/?tag=tolees-21'
 descuento: '46.02'
+average: '80.92'
 ---
 
 Está [Dolores Promesas 107437 Vestido  Naranja VAR   Tamaño del Fabricante:36  para Mujer](https://www.amazon.es/dp/B07D7N2B3J/?tag=tolees-21) con 46.02 de descuento por 80.92 EUR (original: 149.9 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01LXCC5NN/?tag=tolees-21'
 descuento: '81.42'
+average: '7.43'
 ---
 
 Tienes [edc by ESPRIT 126CC1K073  Camisa Manga Larga Mujer  Multicolor  Grey Blue 5   38   Medium ](https://www.amazon.es/dp/B01LXCC5NN/?tag=tolees-21) con un 81.42 % de descuento con precio de oferta de 7.43 EUR (original: 39.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073Y63THR/?tag=tolees-21'
 descuento: '59.56'
+average: '31.95'
 ---
 
 Está [Timberland Exeter River Basic Crew Sudadera  Gris  Medium Grey Heather 052   XX-Large para Hombre](https://www.amazon.es/dp/B073Y63THR/?tag=tolees-21) con 59.56 de descuento por 31.95 EUR (original: 79 EUR) en el siguiente enlace!

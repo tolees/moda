@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00VXVT2SG/?tag=tolees-21'
 descuento: '44.98'
+average: '163.41'
 ---
 
 Ahora mismo tienes [Fendi FF 0086/S 3U HK5  Gafas de sol para Mujer  Azul  Spttdhv Bluette/Khaki Grey Speckled Blue  53](https://www.amazon.es/dp/B00VXVT2SG/?tag=tolees-21) a 163.41 EUR (original: 297 EUR) (44.98 %  de descuento) en el siguiente enlace!

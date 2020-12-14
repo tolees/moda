@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01H05S1LW/?tag=tolees-21'
 descuento: '69.98'
+average: '7.49'
 ---
 
 Está [NIZZIN Dhalia  chaqueta punto Mujer  Plateado  Black/Silver   X-Small](https://www.amazon.es/dp/B01H05S1LW/?tag=tolees-21) con 69.98 de descuento por 7.49 EUR (original: 24.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06X6NKJY9/?tag=tolees-21'
 descuento: '50.02'
+average: '12.99'
 ---
 
 Tienes [Hotmarzz Chanclas de Verano Mujer Sandalias Tacon de Playa Zapatillas de Casa Pantuflas Size 39 EU / 40 CN  Rojo](https://www.amazon.es/dp/B06X6NKJY9/?tag=tolees-21) con un 50.02 % de descuento con precio de oferta de 12.99 EUR (original: 25.99 EUR) en el siguiente enlace!

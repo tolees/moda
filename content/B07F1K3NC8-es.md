@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F1K3NC8/?tag=tolees-21'
 descuento: '61.15'
+average: '25.25'
 ---
 
 Está [Armani Exchange Semi Circle Cursive Slim Fit Scoop Neck Camiseta  Rojo  Moulin Rouge 1408   Large para Mujer](https://www.amazon.es/dp/B07F1K3NC8/?tag=tolees-21) con 61.15 de descuento por 25.25 EUR (original: 65 EUR) en el siguiente enlace!

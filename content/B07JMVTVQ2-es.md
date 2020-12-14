@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JMVTVQ2/?tag=tolees-21'
 descuento: '35.78'
+average: '28.9'
 ---
 
 Tienes [Lacoste Ramc102  Bóxer Hombre  Azul  Navy/Bluecrl/Gy 465   Medium  pack de 3](https://www.amazon.es/dp/B07JMVTVQ2/?tag=tolees-21) con un 35.78 % de descuento con precio de oferta de 28.9 EUR (original: 45 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F8W7LVF/?tag=tolees-21'
 descuento: '71.65'
+average: '28.32'
 ---
 
 Está [Igi&Co Die 21965  Zapatos de tacón con Punta Cerrada para Mujer  Marrón  T.Moro 20   37 EU](https://www.amazon.es/dp/B07F8W7LVF/?tag=tolees-21) con 71.65 de descuento por 28.32 EUR (original: 99.9 EUR) en el siguiente enlace!

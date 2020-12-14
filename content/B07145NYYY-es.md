@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07145NYYY/?tag=tolees-21'
 descuento: '57.23'
+average: '11.12'
 ---
 
 Ahora mismo tienes [FIND Sudadera de Tercipelo de Manga Larga para Mujer   Amarillo  Ochre   46  Talla del Fabricante: XX-Large ](https://www.amazon.es/dp/B07145NYYY/?tag=tolees-21) a 11.12 EUR (original: 26 EUR) (57.23 %  de descuento) en el siguiente enlace!

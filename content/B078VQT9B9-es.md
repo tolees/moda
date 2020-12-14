@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078VQT9B9/?tag=tolees-21'
 descuento: '51.92'
+average: '12.02'
 ---
 
 Tienes [Volcom Shatter BSC TT Camiseta sin Mangas  Hombre  Gris  L](https://www.amazon.es/dp/B078VQT9B9/?tag=tolees-21) con un 51.92 % de descuento con precio de oferta de 12.02 EUR (original: 25 EUR) en el siguiente enlace!

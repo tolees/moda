@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079SMCTVY/?tag=tolees-21'
 descuento: '25.29'
+average: '44.79'
 ---
 
 Está [Desigual TS_Claudina  Camiseta para Mujer    Negro 2000  Large](https://www.amazon.es/dp/B079SMCTVY/?tag=tolees-21) con 25.29 de descuento por 44.79 EUR (original: 59.95 EUR) en el siguiente enlace!

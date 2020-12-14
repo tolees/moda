@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KMCG1N5/?tag=tolees-21'
 descuento: '47.37'
+average: '20'
 ---
 
 Está [fawova Classic Gafas de Sol Aviador Hombre Polarizadas  2019 Gafas Sol Polarizadas Hombre Militares con UV400 Conducir Coche Antideslumbrante  58mm negro mate  verde ](https://www.amazon.es/dp/B07KMCG1N5/?tag=tolees-21) con 47.37 de descuento por 20 EUR (original: 38 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079BBW8VW/?tag=tolees-21'
 descuento: '51.59'
+average: '72.61'
 ---
 
 Tienes [Under Armour Storm Anorak Chaqueta  Mujer  Negro  001   M](https://www.amazon.es/dp/B079BBW8VW/?tag=tolees-21) con un 51.59 % de descuento con precio de oferta de 72.61 EUR (original: 150 EUR) en el siguiente enlace!

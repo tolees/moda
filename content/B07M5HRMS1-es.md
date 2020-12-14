@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07M5HRMS1/?tag=tolees-21'
 descuento: '46.39'
+average: '42.89'
 ---
 
 Está [The North Face Drew Peak Sudadera  Hombre  Rojo  Salsa Red   XS](https://www.amazon.es/dp/B07M5HRMS1/?tag=tolees-21) con 46.39 de descuento por 42.89 EUR (original: 80 EUR) en el siguiente enlace!

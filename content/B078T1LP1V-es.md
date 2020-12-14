@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078T1LP1V/?tag=tolees-21'
 descuento: '51.32'
+average: '13.14'
 ---
 
 Ahora mismo tienes [Women secret Top Tops de Bikini   Several 98     Tamaño del Fabricante:85B  para Mujer](https://www.amazon.es/dp/B078T1LP1V/?tag=tolees-21) a 13.14 EUR (original: 26.99 EUR) (51.32 %  de descuento) en el siguiente enlace!

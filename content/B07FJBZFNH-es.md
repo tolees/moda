@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FJBZFNH/?tag=tolees-21'
 descuento: '57.16'
+average: '47.12'
 ---
 
 Está [Burton Elite Cargo Pantalón de Snowboard  Niñas  Azul  Aruba   S](https://www.amazon.es/dp/B07FJBZFNH/?tag=tolees-21) con 57.16 de descuento por 47.12 EUR (original: 110 EUR) en el siguiente enlace!

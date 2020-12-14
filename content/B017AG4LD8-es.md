@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B017AG4LD8/?tag=tolees-21'
 descuento: '55.94'
+average: '15.42'
 ---
 
 Ahora mismo tienes [Polaroid P0300 Y2 MZ9 43  Gafas de Sol Unisex Niños  Morado  Matt Dark Lilac/Grey Pz ](https://www.amazon.es/dp/B017AG4LD8/?tag=tolees-21) a 15.42 EUR (original: 35 EUR) (55.94 %  de descuento) en el siguiente enlace!

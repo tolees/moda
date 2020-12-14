@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01IBPLXWO/?tag=tolees-21'
 descuento: '70.47'
+average: '10.32'
 ---
 
 Está [ONLY 15118626  Chaqueta Punto Para Mujer  Amarillo  Harvest Gold Harvest Gold   Large](https://www.amazon.es/dp/B01IBPLXWO/?tag=tolees-21) con 70.47 de descuento por 10.32 EUR (original: 34.95 EUR) en el siguiente enlace!

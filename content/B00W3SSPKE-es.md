@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00W3SSPKE/?tag=tolees-21'
 descuento: '68.47'
+average: '5.83'
 ---
 
 Tienes [Joma - Camiseta Terra Negro-Blanco m/c para Hombre](https://www.amazon.es/dp/B00W3SSPKE/?tag=tolees-21) con un 68.47 % de descuento con precio de oferta de 5.83 EUR (original: 18.49 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078H3KRNX/?tag=tolees-21'
 descuento: '38.18'
+average: '1.83'
 ---
 
 Tienes [COMVIP Hombres Sin fisuras cráneo Impreso Las vendas abrigo de la bufanda del calentador del cuello de la máscara Circunferencia de la cabeza: 53-62cm Blanco](https://www.amazon.es/dp/B078H3KRNX/?tag=tolees-21) con un 38.18 % de descuento con precio de oferta de 1.83 EUR (original: 2.96 EUR) en el siguiente enlace!

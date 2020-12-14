@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DFTPGGX/?tag=tolees-21'
 descuento: '40.97'
+average: '11.8'
 ---
 
 Está [Under Armour Box Logo SS Camiseta  Niños  Negro  Black/Silt Brown 001   L](https://www.amazon.es/dp/B07DFTPGGX/?tag=tolees-21) con 40.97 de descuento por 11.8 EUR (original: 19.99 EUR) en el siguiente enlace!

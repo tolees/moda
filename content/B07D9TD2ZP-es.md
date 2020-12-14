@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D9TD2ZP/?tag=tolees-21'
 descuento: '50.23'
+average: '109'
 ---
 
 Tienes [Tommy Jeans Hombre Reversible  Chaqueta Manga Larga  Multicolor  Black Iris / Samba 002  Small](https://www.amazon.es/dp/B07D9TD2ZP/?tag=tolees-21) con un 50.23 % de descuento con precio de oferta de 109 EUR (original: 219 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CG6QWLG/?tag=tolees-21'
 descuento: '33.18'
+average: '9.99'
 ---
 
 Está [Muvit I/O MIOVRC001 - Gafas de Realidad Virtual](https://www.amazon.es/dp/B07CG6QWLG/?tag=tolees-21) con 33.18 de descuento por 9.99 EUR (original: 14.95 EUR) en el siguiente enlace!

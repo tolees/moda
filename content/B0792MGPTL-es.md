@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0792MGPTL/?tag=tolees-21'
 descuento: '63.42'
+average: '20.12'
 ---
 
 Tienes [Geox J Kalispera Girl B  Zapatillas Altas para Niñas   Black C9999   31 EU](https://www.amazon.es/dp/B0792MGPTL/?tag=tolees-21) con un 63.42 % de descuento con precio de oferta de 20.12 EUR (original: 55 EUR) en el siguiente enlace!

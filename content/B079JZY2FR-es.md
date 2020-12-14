@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079JZY2FR/?tag=tolees-21'
 descuento: '61.48'
+average: '76.66'
 ---
 
 Tienes [Napapijri Rainforest Winter  Chaqueta  Amarillo  Spark Yellow Y36   X-Large para Mujer](https://www.amazon.es/dp/B079JZY2FR/?tag=tolees-21) con un 61.48 % de descuento con precio de oferta de 76.66 EUR (original: 199 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XPLZXPF/?tag=tolees-21'
 descuento: '59.97'
+average: '6'
 ---
 
 Tienes [IRIS & LILLY Top Bikini con Forma de Triángulo para Mujer  Verde  Olive/turquoise   Large](https://www.amazon.es/dp/B06XPLZXPF/?tag=tolees-21) con un 59.97 % de descuento con precio de oferta de 6 EUR (original: 14.99 EUR) en el siguiente enlace!

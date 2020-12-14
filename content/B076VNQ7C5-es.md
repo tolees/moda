@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076VNQ7C5/?tag=tolees-21'
 descuento: '64.95'
+average: '16.12'
 ---
 
 Está [MTNG NEWCAMELIA  Zapatos de Cordones Oxford para Mujer  Negro  39 EU](https://www.amazon.es/dp/B076VNQ7C5/?tag=tolees-21) con 64.95 de descuento por 16.12 EUR (original: 45.99 EUR) en el siguiente enlace!

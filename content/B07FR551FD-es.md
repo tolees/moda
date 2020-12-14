@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FR551FD/?tag=tolees-21'
 descuento: '54.97'
+average: '36'
 ---
 
 Tienes [Clarks Dancer Nolin Zapatos de Tacón Mujer  Negro  Black Leather   37 EU](https://www.amazon.es/dp/B07FR551FD/?tag=tolees-21) con un 54.97 % de descuento con precio de oferta de 36 EUR (original: 79.95 EUR) en el siguiente enlace!

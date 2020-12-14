@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073VTK1VS/?tag=tolees-21'
 descuento: '54.30'
+average: '13.71'
 ---
 
 Ahora mismo tienes [find. Vestido Mini Estilo Sudadera para Mujer  Gris  44](https://www.amazon.es/dp/B073VTK1VS/?tag=tolees-21) a 13.71 EUR (original: 30 EUR) (54.30 %  de descuento) en el siguiente enlace!

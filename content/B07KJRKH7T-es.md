@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KJRKH7T/?tag=tolees-21'
 descuento: '54.98'
+average: '9'
 ---
 
 Ahora mismo tienes [Quiksilver Quik Pool Camiseta de Manga Corta  Hombre  Azul  Blue Nights   M](https://www.amazon.es/dp/B07KJRKH7T/?tag=tolees-21) a 9 EUR (original: 19.99 EUR) (54.98 %  de descuento) en el siguiente enlace!

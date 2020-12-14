@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DJ3JFJR/?tag=tolees-21'
 descuento: '74.74'
+average: '25.23'
 ---
 
 Está [Geox D Theragon a  Zapatillas para Mujer  Black C9999  36 EU](https://www.amazon.es/dp/B07DJ3JFJR/?tag=tolees-21) con 74.74 de descuento por 25.23 EUR (original: 99.9 EUR) en el siguiente enlace!

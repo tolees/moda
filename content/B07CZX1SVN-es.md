@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CZX1SVN/?tag=tolees-21'
 descuento: '43.80'
+average: '25.26'
 ---
 
 Ahora mismo tienes [BOSS Trunk One Design Bóxer   Open Miscellaneous 972   XX-Large  Pack de 3 para Hombre](https://www.amazon.es/dp/B07CZX1SVN/?tag=tolees-21) a 25.26 EUR (original: 44.95 EUR) (43.80 %  de descuento) en el siguiente enlace!

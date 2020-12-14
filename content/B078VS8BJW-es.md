@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078VS8BJW/?tag=tolees-21'
 descuento: '53.17'
+average: '11.95'
 ---
 
 Ahora mismo tienes [Volcom Crisp BSC SS Camiseta Manga Corta  Hombre  Blanco  L](https://www.amazon.es/dp/B078VS8BJW/?tag=tolees-21) a 11.95 EUR (original: 25.52 EUR) (53.17 %  de descuento) en el siguiente enlace!

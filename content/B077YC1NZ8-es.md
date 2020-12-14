@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077YC1NZ8/?tag=tolees-21'
 descuento: '64.32'
+average: '24.96'
 ---
 
 Ahora mismo tienes [Puma 516421 02 Pantalón  Mujer  Blanco  S](https://www.amazon.es/dp/B077YC1NZ8/?tag=tolees-21) a 24.96 EUR (original: 69.95 EUR) (64.32 %  de descuento) en el siguiente enlace!

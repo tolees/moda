@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DJ7LZ95/?tag=tolees-21'
 descuento: '50.00'
+average: '62.5'
 ---
 
 Está [Geox D Nebula C  Zapatillas para Mujer  Grey C1006  37 EU](https://www.amazon.es/dp/B07DJ7LZ95/?tag=tolees-21) con 50.00 de descuento por 62.5 EUR (original: 125 EUR) en el siguiente enlace!

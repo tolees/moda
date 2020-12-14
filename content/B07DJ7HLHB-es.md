@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DJ7HLHB/?tag=tolees-21'
 descuento: '58.72'
+average: '32.98'
 ---
 
 Ahora mismo tienes [Geox D Borealis a  Sandalias con Punta Abierta para Mujer  Lt Taupe C6738  39 EU](https://www.amazon.es/dp/B07DJ7HLHB/?tag=tolees-21) a 32.98 EUR (original: 79.9 EUR) (58.72 %  de descuento) en el siguiente enlace!

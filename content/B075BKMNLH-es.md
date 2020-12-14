@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075BKMNLH/?tag=tolees-21'
 descuento: '32.57'
+average: '14.16'
 ---
 
 Tienes [MERAKI Vestido Camiseta Slim Fit Mujer  Negro  Black   Medium](https://www.amazon.es/dp/B075BKMNLH/?tag=tolees-21) con un 32.57 % de descuento con precio de oferta de 14.16 EUR (original: 21 EUR) en el siguiente enlace!

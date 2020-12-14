@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DL8BSFT/?tag=tolees-21'
 descuento: '44.09'
+average: '8.94'
 ---
 
 Tienes [Springfield 4.1.T.MD.Mariposas Joya Real Texto Camiseta  Mujer  Blanco  Blanco 99   Large  Tamaño del Fabricante:L ](https://www.amazon.es/dp/B07DL8BSFT/?tag=tolees-21) con un 44.09 % de descuento con precio de oferta de 8.94 EUR (original: 15.99 EUR) en el siguiente enlace!

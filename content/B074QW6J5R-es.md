@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074QW6J5R/?tag=tolees-21'
 descuento: '37.03'
+average: '40.93'
 ---
 
 Está [El Ganso 1050s180055  Camisa Casual para Hombre   Azul/Blanco   Small  Tamaño del Fabricante:38 ](https://www.amazon.es/dp/B074QW6J5R/?tag=tolees-21) con 37.03 de descuento por 40.93 EUR (original: 65 EUR) en el siguiente enlace!

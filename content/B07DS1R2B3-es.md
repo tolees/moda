@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DS1R2B3/?tag=tolees-21'
 descuento: '57.18'
+average: '29.95'
 ---
 
 Está [Levi s kids Nm15027  Sudadera Niños  Gris  China Grey 20   8 años  Talla del Fabricante: 8A ](https://www.amazon.es/dp/B07DS1R2B3/?tag=tolees-21) con 57.18 de descuento por 29.95 EUR (original: 69.95 EUR) en el siguiente enlace!

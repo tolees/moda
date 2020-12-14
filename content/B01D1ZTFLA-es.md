@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01D1ZTFLA/?tag=tolees-21'
 descuento: '76.53'
+average: '8.26'
 ---
 
 Ahora mismo tienes [S.Oliver Denim 40.607.21.5880 - Camiseta de manga larga para hombre  color violeta  red grape check 45n1   talla Large](https://www.amazon.es/dp/B01D1ZTFLA/?tag=tolees-21) a 8.26 EUR (original: 35.19 EUR) (76.53 %  de descuento) en el siguiente enlace!

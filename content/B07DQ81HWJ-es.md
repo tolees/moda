@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DQ81HWJ/?tag=tolees-21'
 descuento: '29.08'
+average: '28.36'
 ---
 
 Está [Roxy Jetty Guantes  Niñas  Azul  Crown Blue_Indie Stripes   M](https://www.amazon.es/dp/B07DQ81HWJ/?tag=tolees-21) con 29.08 de descuento por 28.36 EUR (original: 39.99 EUR) en el siguiente enlace!

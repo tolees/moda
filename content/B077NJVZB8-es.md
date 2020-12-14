@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077NJVZB8/?tag=tolees-21'
 descuento: '44.96'
+average: '21.99'
 ---
 
 Está [Marco Tozzi 22453  Zapatos de Tacón para Mujer  Negro  Black Comb   38 EU](https://www.amazon.es/dp/B077NJVZB8/?tag=tolees-21) con 44.96 de descuento por 21.99 EUR (original: 39.95 EUR) en el siguiente enlace!

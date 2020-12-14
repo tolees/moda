@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B018JT3FQ4/?tag=tolees-21'
 descuento: '44.18'
+average: '13.95'
 ---
 
 Está [Levi s 200Sf Boxer Brief 2P  Hombre  Gris  Middle Grey Melange   Small  Tamaño del Fabricante:010   Pack de 2](https://www.amazon.es/dp/B018JT3FQ4/?tag=tolees-21) con 44.18 de descuento por 13.95 EUR (original: 24.99 EUR) en el siguiente enlace!

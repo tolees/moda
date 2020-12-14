@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BFG9MDB/?tag=tolees-21'
 descuento: '52.28'
+average: '42.92'
 ---
 
 Está [G-Star Bristum Shirt L/s  Camisa Hombre   Milk/Hudson Blue 2743   Small](https://www.amazon.es/dp/B07BFG9MDB/?tag=tolees-21) con 52.28 de descuento por 42.92 EUR (original: 89.95 EUR) en el siguiente enlace!

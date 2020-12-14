@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01LW4H11H/?tag=tolees-21'
 descuento: '69.97'
+average: '4.79'
 ---
 
 Está [Mick Morrison Vinko  sudadera Hombre  Negro  Schwarz   Small](https://www.amazon.es/dp/B01LW4H11H/?tag=tolees-21) con 69.97 de descuento por 4.79 EUR (original: 15.95 EUR) en el siguiente enlace!

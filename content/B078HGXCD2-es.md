@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078HGXCD2/?tag=tolees-21'
 descuento: '71.06'
+average: '7.81'
 ---
 
 Ahora mismo tienes [Springfield Falda Flores Bordadas Falda  Mujer  Negro  Negro   40  Tamaño del Fabricante:40 ](https://www.amazon.es/dp/B078HGXCD2/?tag=tolees-21) a 7.81 EUR (original: 26.99 EUR) (71.06 %  de descuento) en el siguiente enlace!

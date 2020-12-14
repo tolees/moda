@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07NC7SPQ6/?tag=tolees-21'
 descuento: '66.20'
+average: '32.11'
 ---
 
 Ahora mismo tienes [Pepe Jeans New Brooke Vaqueros Straight  Azul  Dark Used Denim Cn6   W25/L34 para Mujer](https://www.amazon.es/dp/B07NC7SPQ6/?tag=tolees-21) a 32.11 EUR (original: 95 EUR) (66.20 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073JD86MS/?tag=tolees-21'
 descuento: '69.75'
+average: '15.12'
 ---
 
 Tienes [Cortefiel C8CK OX Rojo Azulón T-BD Camisa casual  Hombre  Rojo  Red   Tamaño del fabricante:M ](https://www.amazon.es/dp/B073JD86MS/?tag=tolees-21) con un 69.75 % de descuento con precio de oferta de 15.12 EUR (original: 49.99 EUR) en el siguiente enlace!

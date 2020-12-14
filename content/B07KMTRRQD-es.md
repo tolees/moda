@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KMTRRQD/?tag=tolees-21'
 descuento: '49.23'
+average: '17.77'
 ---
 
 Está [Volcom Chop Around BSC SS Camiseta  Hombre  White  M](https://www.amazon.es/dp/B07KMTRRQD/?tag=tolees-21) con 49.23 de descuento por 17.77 EUR (original: 35 EUR) en el siguiente enlace!

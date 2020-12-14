@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07L5RZZG4/?tag=tolees-21'
 descuento: '65.81'
+average: '11.95'
 ---
 
 Está [Charles Wilson Sudadera con Capucha Peso Intermedio para Hombre  Medium  Dark Port ](https://www.amazon.es/dp/B07L5RZZG4/?tag=tolees-21) con 65.81 de descuento por 11.95 EUR (original: 34.95 EUR) en el siguiente enlace!

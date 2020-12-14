@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075S8RFFM/?tag=tolees-21'
 descuento: '59.11'
+average: '40.89'
 ---
 
 Ahora mismo tienes [Gant Chambray Block Shirt  Camisa para Mujer  Azul  Blue Ocean   16  Talla del Fabricante: 42 ](https://www.amazon.es/dp/B075S8RFFM/?tag=tolees-21) a 40.89 EUR (original: 99.99 EUR) (59.11 %  de descuento) en el siguiente enlace!

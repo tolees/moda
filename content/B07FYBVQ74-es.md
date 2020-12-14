@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FYBVQ74/?tag=tolees-21'
 descuento: '69.81'
+average: '16.59'
 ---
 
 Tienes [Wrangler LS 1pkt Shirt Camisa  Azul  Navy N35   Medium para Hombre](https://www.amazon.es/dp/B07FYBVQ74/?tag=tolees-21) con un 69.81 % de descuento con precio de oferta de 16.59 EUR (original: 54.95 EUR) en el siguiente enlace!

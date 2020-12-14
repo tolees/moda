@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079MFRJ9S/?tag=tolees-21'
 descuento: '35.59'
+average: '29.99'
 ---
 
 Está [Zapatillas de Deporte Zapatos Deportivos de los Planos atléticas Ocasionales de la Malla Respirable del Primavera/Verano de Las Unisex](https://www.amazon.es/dp/B079MFRJ9S/?tag=tolees-21) con 35.59 de descuento por 29.99 EUR (original: 46.56 EUR) en el siguiente enlace!

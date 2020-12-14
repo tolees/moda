@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075SBJPLW/?tag=tolees-21'
 descuento: '70.44'
+average: '59.11'
 ---
 
 Tienes [Gant Winter Star Shirt  Camisa para Mujer  Rosa  Port Red   16  Talla del Fabricante: 42 ](https://www.amazon.es/dp/B075SBJPLW/?tag=tolees-21) con un 70.44 % de descuento con precio de oferta de 59.11 EUR (original: 199.99 EUR) en el siguiente enlace!

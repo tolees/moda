@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077YHNTLZ/?tag=tolees-21'
 descuento: '40.00'
+average: '13.17'
 ---
 
 Ahora mismo tienes [HIKARO Pantalón con Logo Corto Mujer  Rosa  Pink Marl   42  Talla del fabricante: Large ](https://www.amazon.es/dp/B077YHNTLZ/?tag=tolees-21) a 13.17 EUR (original: 21.95 EUR) (40.00 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01EUMH9B6/?tag=tolees-21'
 descuento: '65.00'
+average: '69.99'
 ---
 
 Está [Leathario Bolso Hombro Bandolera 14 Pulgadas Cuero Maletín para Hombres Bolsa Mensajero Vintaje Piel Portátil Negocio Trabajo Negro](https://www.amazon.es/dp/B01EUMH9B6/?tag=tolees-21) con 65.00 de descuento por 69.99 EUR (original: 199.99 EUR) en el siguiente enlace!

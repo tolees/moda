@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F1FSFRL/?tag=tolees-21'
 descuento: '63.38'
+average: '16.48'
 ---
 
 Ahora mismo tienes [BILLABONG Essential Crew Jersey  Mujer  Rosa  Nude 4443   X-Large  Tamaño del Fabricante:XL ](https://www.amazon.es/dp/B07F1FSFRL/?tag=tolees-21) a 16.48 EUR (original: 45 EUR) (63.38 %  de descuento) en el siguiente enlace!

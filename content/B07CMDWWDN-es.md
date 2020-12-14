@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CMDWWDN/?tag=tolees-21'
 descuento: '74.80'
+average: '9.32'
 ---
 
 Está [Eferri 0JV7017  Bolso bandolera para Mujer   Multicolor   17x8.5x23 cm  W x H x L ](https://www.amazon.es/dp/B07CMDWWDN/?tag=tolees-21) con 74.80 de descuento por 9.32 EUR (original: 36.99 EUR) en el siguiente enlace!

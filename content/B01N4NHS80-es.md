@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N4NHS80/?tag=tolees-21'
 descuento: '70.00'
+average: '9'
 ---
 
 Está [FIND Camisa de Manga Larga con Bolsillos para Mujer   Azul  Light Blue   40  Talla del Fabricante: Medium ](https://www.amazon.es/dp/B01N4NHS80/?tag=tolees-21) con 70.00 de descuento por 9 EUR (original: 30 EUR) en el siguiente enlace!

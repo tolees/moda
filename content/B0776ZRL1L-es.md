@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0776ZRL1L/?tag=tolees-21'
 descuento: '34.43'
+average: '22.95'
 ---
 
 Tienes [Tommy Jeans Hombre Original Rib Camisa Manga Larga  Azul  Black Iris 002  Medium](https://www.amazon.es/dp/B0776ZRL1L/?tag=tolees-21) con un 34.43 % de descuento con precio de oferta de 22.95 EUR (original: 35 EUR) en el siguiente enlace!

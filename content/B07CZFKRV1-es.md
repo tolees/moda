@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CZFKRV1/?tag=tolees-21'
 descuento: '35.63'
+average: '16.73'
 ---
 
 Ahora mismo tienes [Under Armour UA Big Logo SS Camiseta  Hombre  Negro  Black/White 001   XXL](https://www.amazon.es/dp/B07CZFKRV1/?tag=tolees-21) a 16.73 EUR (original: 25.99 EUR) (35.63 %  de descuento) en el siguiente enlace!

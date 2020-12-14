@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079KBB7SX/?tag=tolees-21'
 descuento: '68.32'
+average: '142.25'
 ---
 
 Ahora mismo tienes [Napapijri Skidoo  Chaqueta  Azul  Plastic B56   Large para Hombre](https://www.amazon.es/dp/B079KBB7SX/?tag=tolees-21) a 142.25 EUR (original: 449 EUR) (68.32 %  de descuento) en el siguiente enlace!

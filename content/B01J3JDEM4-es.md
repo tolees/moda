@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01J3JDEM4/?tag=tolees-21'
 descuento: '32.17'
+average: '16.95'
 ---
 
 Ahora mismo tienes [Columbia CSC Basic Logo Camiseta  Hombre  Negro  Black   L](https://www.amazon.es/dp/B01J3JDEM4/?tag=tolees-21) a 16.95 EUR (original: 24.99 EUR) (32.17 %  de descuento) en el siguiente enlace!

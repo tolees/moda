@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F3XN4F1/?tag=tolees-21'
 descuento: '50.91'
+average: '13.99'
 ---
 
 Tienes [BLDEN Gafas de Sol Polarizadas Mujer  Moda Casual Estilo Gafas de Sol Oval Elegante UV 400 Protection](https://www.amazon.es/dp/B07F3XN4F1/?tag=tolees-21) con un 50.91 % de descuento con precio de oferta de 13.99 EUR (original: 28.5 EUR) en el siguiente enlace!

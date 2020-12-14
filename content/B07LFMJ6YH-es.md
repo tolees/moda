@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07LFMJ6YH/?tag=tolees-21'
 descuento: '51.17'
+average: '90.29'
 ---
 
 Está [Dolores Promesas PV19 2040ROJO Vestido   Rojo 00    Tamaño del Fabricante:38  para Mujer](https://www.amazon.es/dp/B07LFMJ6YH/?tag=tolees-21) con 51.17 de descuento por 90.29 EUR (original: 184.9 EUR) en el siguiente enlace!

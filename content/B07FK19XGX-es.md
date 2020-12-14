@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FK19XGX/?tag=tolees-21'
 descuento: '71.29'
+average: '8.6'
 ---
 
 Ahora mismo tienes [Lee Boxed Logo tee  Camiseta para Mujer  Blanco  White 12  X-Small](https://www.amazon.es/dp/B07FK19XGX/?tag=tolees-21) a 8.6 EUR (original: 29.95 EUR) (71.29 %  de descuento) en el siguiente enlace!

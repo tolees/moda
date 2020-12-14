@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CPD92Z9/?tag=tolees-21'
 descuento: '66.12'
+average: '10.13'
 ---
 
 Tienes [Crocs Crocband Flip  Zapatos de Playa y Piscina Unisex Adulto  Azul  Blue Jean/Pool   46/47 EU](https://www.amazon.es/dp/B07CPD92Z9/?tag=tolees-21) con un 66.12 % de descuento con precio de oferta de 10.13 EUR (original: 29.9 EUR) en el siguiente enlace!

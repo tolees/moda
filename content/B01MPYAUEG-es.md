@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MPYAUEG/?tag=tolees-21'
 descuento: '68.73'
+average: '60.97'
 ---
 
 Está [Lacoste BF2288  Chaqueta para Mujer  Azul  Abyssal/Deauville    Talla del Fabricante: 38 ](https://www.amazon.es/dp/B01MPYAUEG/?tag=tolees-21) con 68.73 de descuento por 60.97 EUR (original: 195 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BPZFGJ7/?tag=tolees-21'
 descuento: '56.69'
+average: '28.13'
 ---
 
 Ahora mismo tienes [Lee Ultimate Shirt Blusa  Beige  Cloud Dancer Ha  Ha  Medium para Mujer](https://www.amazon.es/dp/B07BPZFGJ7/?tag=tolees-21) a 28.13 EUR (original: 64.95 EUR) (56.69 %  de descuento) en el siguiente enlace!

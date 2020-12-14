@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B003AMAB7M/?tag=tolees-21'
 descuento: '33.65'
+average: '26.95'
 ---
 
 Está [Calvin Klein Trunk_0000U2662G  Bóxer para Hombre  Negro  Black 001   S  Pack de 3](https://www.amazon.es/dp/B003AMAB7M/?tag=tolees-21) con 33.65 de descuento por 26.95 EUR (original: 40.62 EUR) en el siguiente enlace!

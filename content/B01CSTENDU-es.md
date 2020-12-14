@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01CSTENDU/?tag=tolees-21'
 descuento: '68.33'
+average: '4.45'
 ---
 
 Está [Joma 900248.300 - Camiseta para Mujer  Color Azul Marino  Talla XL](https://www.amazon.es/dp/B01CSTENDU/?tag=tolees-21) con 68.33 de descuento por 4.45 EUR (original: 14.05 EUR) en el siguiente enlace!

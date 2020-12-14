@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B019NAHKAU/?tag=tolees-21'
 descuento: '63.71'
+average: '5.16'
 ---
 
 Está [Ansell 92-220/8.5-9 VersaTouch Nitrilo guante  Protección contra productos químicos y líquidos  Tamaño 8.5-9  dispensador de 100 guantes  Blanco](https://www.amazon.es/dp/B019NAHKAU/?tag=tolees-21) con 63.71 de descuento por 5.16 EUR (original: 14.22 EUR) en el siguiente enlace!

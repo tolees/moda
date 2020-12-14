@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079RS3T7P/?tag=tolees-21'
 descuento: '60.00'
+average: '35.96'
 ---
 
 Ahora mismo tienes [Pepe Jeans Iris PL952412  Vestido para Mujer  Azul  8Oz Old Skool Stone 000  XX-Small](https://www.amazon.es/dp/B079RS3T7P/?tag=tolees-21) a 35.96 EUR (original: 89.9 EUR) (60.00 %  de descuento) en el siguiente enlace!

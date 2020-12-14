@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XPSZ9PX/?tag=tolees-21'
 descuento: '62.45'
+average: '33.78'
 ---
 
 Tienes [Desigual Vest_Brendan  Vestido para Mujer   Negro 2000   42](https://www.amazon.es/dp/B06XPSZ9PX/?tag=tolees-21) con un 62.45 % de descuento con precio de oferta de 33.78 EUR (original: 89.95 EUR) en el siguiente enlace!

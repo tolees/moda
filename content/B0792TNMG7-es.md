@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0792TNMG7/?tag=tolees-21'
 descuento: '45.96'
+average: '81'
 ---
 
 Está [Geox U Hilstone Wide NP ABX C  Botas Clasicas para Hombre   Black C9999   43.5 EU](https://www.amazon.es/dp/B0792TNMG7/?tag=tolees-21) con 45.96 de descuento por 81 EUR (original: 149.9 EUR) en el siguiente enlace!

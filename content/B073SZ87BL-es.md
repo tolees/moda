@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073SZ87BL/?tag=tolees-21'
 descuento: '72.55'
+average: '27.45'
 ---
 
 Está [JACK & JONES  Vaqueros Slim para Hombre  Azul  Blue Denim Blue Denim   W30/L34  Talla del fabricante: 30 ](https://www.amazon.es/dp/B073SZ87BL/?tag=tolees-21) con 72.55 de descuento por 27.45 EUR (original: 99.99 EUR) en el siguiente enlace!

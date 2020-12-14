@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DHVCHDM/?tag=tolees-21'
 descuento: '57.71'
+average: '54.97'
 ---
 
 Está [Quiksilver Mission Block Chaqueta de Nieve  Niños  Negro  16/XXL](https://www.amazon.es/dp/B07DHVCHDM/?tag=tolees-21) con 57.71 de descuento por 54.97 EUR (original: 129.99 EUR) en el siguiente enlace!

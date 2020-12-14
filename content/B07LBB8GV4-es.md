@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07LBB8GV4/?tag=tolees-21'
 descuento: '34.66'
+average: '18.95'
 ---
 
 Está [Tommy Jeans TJM Circle Graphic tee Camiseta  Verde  Dynasty Green 399   M para Hombre](https://www.amazon.es/dp/B07LBB8GV4/?tag=tolees-21) con 34.66 de descuento por 18.95 EUR (original: 29 EUR) en el siguiente enlace!

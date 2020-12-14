@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DWWWFQD/?tag=tolees-21'
 descuento: '54.79'
+average: '36.16'
 ---
 
 Está [Columbia 1778661 Silver Ridge II Vest Chaleco  Nylon  Hombre  Verde   Cypress   S](https://www.amazon.es/dp/B07DWWWFQD/?tag=tolees-21) con 54.79 de descuento por 36.16 EUR (original: 79.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CRF12ZK/?tag=tolees-21'
 descuento: '78.52'
+average: '16.11'
 ---
 
 Está [Pepe Jeans Gracy Sudadera  Naranja  Lt Peach   Medium para Mujer](https://www.amazon.es/dp/B07CRF12ZK/?tag=tolees-21) con 78.52 de descuento por 16.11 EUR (original: 75 EUR) en el siguiente enlace!

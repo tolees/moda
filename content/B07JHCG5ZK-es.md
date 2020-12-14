@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JHCG5ZK/?tag=tolees-21'
 descuento: '40.05'
+average: '44.93'
 ---
 
 Tienes [Puma Evostripe Move Hooded Jacket Sudadera  Hombre  Gris  Medium Gray Heather   XXL](https://www.amazon.es/dp/B07JHCG5ZK/?tag=tolees-21) con un 40.05 % de descuento con precio de oferta de 44.93 EUR (original: 74.95 EUR) en el siguiente enlace!

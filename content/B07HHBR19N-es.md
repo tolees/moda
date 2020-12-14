@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HHBR19N/?tag=tolees-21'
 descuento: '57.83'
+average: '12.61'
 ---
 
 Ahora mismo tienes [Tommy Hilfiger Holli C-nk tee SS  Camiseta para Mujer  Blanco  Classic White / Silver Foil 905   X-Large](https://www.amazon.es/dp/B07HHBR19N/?tag=tolees-21) a 12.61 EUR (original: 29.9 EUR) (57.83 %  de descuento) en el siguiente enlace!

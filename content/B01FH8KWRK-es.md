@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01FH8KWRK/?tag=tolees-21'
 descuento: '25.14'
+average: '26.2'
 ---
 
 Tienes [Under Armour UA Launch SW Split Short Pantalón Corto  Hombre  Negro  001   M](https://www.amazon.es/dp/B01FH8KWRK/?tag=tolees-21) con un 25.14 % de descuento con precio de oferta de 26.2 EUR (original: 35 EUR) en el siguiente enlace!

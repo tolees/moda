@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01LY0NZND/?tag=tolees-21'
 descuento: '42.05'
+average: '57.95'
 ---
 
 Está [Levi s 502 Regular Taper  Vaqueros Tapered para Hombre  Azul  Chain Rinse 0020   W32/L34  Talla del fabricante: 32/34 ](https://www.amazon.es/dp/B01LY0NZND/?tag=tolees-21) con 42.05 de descuento por 57.95 EUR (original: 100 EUR) en el siguiente enlace!

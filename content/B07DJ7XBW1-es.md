@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DJ7XBW1/?tag=tolees-21'
 descuento: '64.83'
+average: '31.62'
 ---
 
 Tienes [Geox D Tahina 22  Zapatillas para Mujer  Beige  Lt Taupe   39 EU](https://www.amazon.es/dp/B07DJ7XBW1/?tag=tolees-21) con un 64.83 % de descuento con precio de oferta de 31.62 EUR (original: 89.9 EUR) en el siguiente enlace!

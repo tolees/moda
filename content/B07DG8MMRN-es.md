@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DG8MMRN/?tag=tolees-21'
 descuento: '40.05'
+average: '197.83'
 ---
 
 Tienes [Love Moschino Casual Dresses Vestido  Negro  Black C74   40  Talla del Fabricante: 42  para Mujer](https://www.amazon.es/dp/B07DG8MMRN/?tag=tolees-21) con un 40.05 % de descuento con precio de oferta de 197.83 EUR (original: 330 EUR) en el siguiente enlace!

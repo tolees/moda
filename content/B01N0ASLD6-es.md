@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N0ASLD6/?tag=tolees-21'
 descuento: '36.53'
+average: '11.45'
 ---
 
 Está [adidas Squad 17 JSY SS Camiseta para Hombre  Blanco  White/Black   L](https://www.amazon.es/dp/B01N0ASLD6/?tag=tolees-21) con 36.53 de descuento por 11.45 EUR (original: 18.04 EUR) en el siguiente enlace!

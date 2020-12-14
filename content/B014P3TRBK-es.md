@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B014P3TRBK/?tag=tolees-21'
 descuento: '33.36'
+average: '37.95'
 ---
 
 Ahora mismo tienes [Pepe Jeans London Cash  Vaqueros para Hombre  Azul  11Oz Streaky Stretch Med Z23   W38/L32](https://www.amazon.es/dp/B014P3TRBK/?tag=tolees-21) a 37.95 EUR (original: 56.95 EUR) (33.36 %  de descuento) en el siguiente enlace!

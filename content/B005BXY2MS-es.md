@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B005BXY2MS/?tag=tolees-21'
 descuento: '51.15'
+average: '107.47'
 ---
 
 Está [Marmot Minimalist - Chaqueta impermeable para hombre  color negro  talla XL](https://www.amazon.es/dp/B005BXY2MS/?tag=tolees-21) con 51.15 de descuento por 107.47 EUR (original: 220 EUR) en el siguiente enlace!

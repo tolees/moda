@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KFPLH2P/?tag=tolees-21'
 descuento: '59.05'
+average: '5.32'
 ---
 
 Tienes [Esprit Kids T-Shirt SS  Camiseta para Niños  Azul  Azuray Blue 443   170  Talla del Fabricante: X-Large ](https://www.amazon.es/dp/B07KFPLH2P/?tag=tolees-21) con un 59.05 % de descuento con precio de oferta de 5.32 EUR (original: 12.99 EUR) en el siguiente enlace!

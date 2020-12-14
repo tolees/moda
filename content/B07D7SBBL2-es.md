@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D7SBBL2/?tag=tolees-21'
 descuento: '26.68'
+average: '21.99'
 ---
 
 Está [LAPASA Pantalón Deportivo de Mujer con Bolsillo Ergonómico Lateral.  Malla para Running  Yoga y Ejercicio. . L33](https://www.amazon.es/dp/B07D7SBBL2/?tag=tolees-21) con 26.68 de descuento por 21.99 EUR (original: 29.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00TH2WJBU/?tag=tolees-21'
 descuento: '60.00'
+average: '9.98'
 ---
 
 Ahora mismo tienes [Berydale Vestido veraniego de mujer  versátil  5 posibilidades de uso  Negro  Talla del fabricante: 36/38](https://www.amazon.es/dp/B00TH2WJBU/?tag=tolees-21) a 9.98 EUR (original: 24.95 EUR) (60.00 %  de descuento) en el siguiente enlace!

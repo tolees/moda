@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MXDUPAW/?tag=tolees-21'
 descuento: '62.48'
+average: '18.76'
 ---
 
 Está [Under Armour Speed Stride 1/4 Zip Sudadera  Hombre  Negro  001   XL](https://www.amazon.es/dp/B01MXDUPAW/?tag=tolees-21) con 62.48 de descuento por 18.76 EUR (original: 50 EUR) en el siguiente enlace!

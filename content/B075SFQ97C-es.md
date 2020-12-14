@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075SFQ97C/?tag=tolees-21'
 descuento: '66.09'
+average: '10.17'
 ---
 
 Está [Springfield 1502824  Camisa casual para Hombre  Blanco  White 99   Large  Tamaño del fabricante:L ](https://www.amazon.es/dp/B075SFQ97C/?tag=tolees-21) con 66.09 de descuento por 10.17 EUR (original: 29.99 EUR) en el siguiente enlace!

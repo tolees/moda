@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CFYRMYF/?tag=tolees-21'
 descuento: '74.25'
+average: '73.12'
 ---
 
 Está [Love Moschino Zipper Sleeveless Dress  Vestido para Mujer  Negro  Black C74  42  Talla del Fabricante: 44 ](https://www.amazon.es/dp/B07CFYRMYF/?tag=tolees-21) con 74.25 de descuento por 73.12 EUR (original: 284 EUR) en el siguiente enlace!

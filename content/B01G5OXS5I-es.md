@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01G5OXS5I/?tag=tolees-21'
 descuento: '82.48'
+average: '8.76'
 ---
 
 Ahora mismo tienes [edc by ESPRIT 076CC1E035  vestido Mujer  Azul  NAVY   38  Talla del fabricante: Medium ](https://www.amazon.es/dp/B01G5OXS5I/?tag=tolees-21) a 8.76 EUR (original: 49.99 EUR) (82.48 %  de descuento) en el siguiente enlace!

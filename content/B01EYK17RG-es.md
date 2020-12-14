@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01EYK17RG/?tag=tolees-21'
 descuento: '84.92'
+average: '19.61'
 ---
 
 Tienes [Levi s LONG RIB STTICH CARDI  Chaqueta Mujer  Negro  CAVIAR   34  Talla del fabricante: Small ](https://www.amazon.es/dp/B01EYK17RG/?tag=tolees-21) con un 84.92 % de descuento con precio de oferta de 19.61 EUR (original: 130 EUR) en el siguiente enlace!

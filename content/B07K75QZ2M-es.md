@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07K75QZ2M/?tag=tolees-21'
 descuento: '41.43'
+average: '64.43'
 ---
 
 Tienes [Levi s 511 Slim Fit  Vaqueros para Hombre  Azul  Make Warp Cool 3298   30W / 30L](https://www.amazon.es/dp/B07K75QZ2M/?tag=tolees-21) con un 41.43 % de descuento con precio de oferta de 64.43 EUR (original: 110 EUR) en el siguiente enlace!

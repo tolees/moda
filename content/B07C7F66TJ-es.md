@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07C7F66TJ/?tag=tolees-21'
 descuento: '48.32'
+average: '25.79'
 ---
 
 Ahora mismo tienes [Lovable Open Modal  Pijama Mujer  Rojo  Amaranto 251   Small  Talla del Fabricante: S- ](https://www.amazon.es/dp/B07C7F66TJ/?tag=tolees-21) a 25.79 EUR (original: 49.9 EUR) (48.32 %  de descuento) en el siguiente enlace!

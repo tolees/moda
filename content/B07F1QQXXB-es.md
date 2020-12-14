@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F1QQXXB/?tag=tolees-21'
 descuento: '63.11'
+average: '25.82'
 ---
 
 Ahora mismo tienes [Celio Afowis  Vaqueros Slim para Hombre  Gris  W26/L34  Talla del Fabricante: 36 ](https://www.amazon.es/dp/B07F1QQXXB/?tag=tolees-21) a 25.82 EUR (original: 69.99 EUR) (63.11 %  de descuento) en el siguiente enlace!

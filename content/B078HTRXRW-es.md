@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078HTRXRW/?tag=tolees-21'
 descuento: '60.72'
+average: '11.78'
 ---
 
 Tienes [edc by Esprit 038cc1f010  Blusa Mujer  Azul  Light Blue 440   Small](https://www.amazon.es/dp/B078HTRXRW/?tag=tolees-21) con un 60.72 % de descuento con precio de oferta de 11.78 EUR (original: 29.99 EUR) en el siguiente enlace!

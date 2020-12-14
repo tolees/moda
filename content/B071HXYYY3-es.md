@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071HXYYY3/?tag=tolees-21'
 descuento: '77.55'
+average: '29.18'
 ---
 
 Ahora mismo tienes [edc by Esprit 097cc1g004 Chaqueta  Cream Beige 295  XX-Large para Mujer](https://www.amazon.es/dp/B071HXYYY3/?tag=tolees-21) a 29.18 EUR (original: 129.99 EUR) (77.55 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B017AFVWBI/?tag=tolees-21'
 descuento: '64.13'
+average: '51.3'
 ---
 
 Ahora mismo tienes [DOLCE&GABBANA Mujer 0Dg4272 3005F9 53 Gafas de sol  Blanco  Topo White/Gold/Blue E/Brownmirrorbronze ](https://www.amazon.es/dp/B017AFVWBI/?tag=tolees-21) a 51.3 EUR (original: 143 EUR) (64.13 %  de descuento) en el siguiente enlace!

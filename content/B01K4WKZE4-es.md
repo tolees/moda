@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01K4WKZE4/?tag=tolees-21'
 descuento: '45.59'
+average: '84.34'
 ---
 
 Tienes [Camper Pelotas Ariel  Zapatos de cordones Oxford para Mujer  Negro  Black 001   37 EU](https://www.amazon.es/dp/B01K4WKZE4/?tag=tolees-21) con un 45.59 % de descuento con precio de oferta de 84.34 EUR (original: 155 EUR) en el siguiente enlace!

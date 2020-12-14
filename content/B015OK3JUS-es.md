@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B015OK3JUS/?tag=tolees-21'
 descuento: '43.93'
+average: '13.99'
 ---
 
 Tienes [Puma Leadcat  Chanclas Unisex Adulto  Negro  Black-White 01   38 EU](https://www.amazon.es/dp/B015OK3JUS/?tag=tolees-21) con un 43.93 % de descuento con precio de oferta de 13.99 EUR (original: 24.95 EUR) en el siguiente enlace!

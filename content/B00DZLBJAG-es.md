@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00DZLBJAG/?tag=tolees-21'
 descuento: '43.06'
+average: '102.5'
 ---
 
 Tienes [The North Face M Durango HD Chaqueta  Hombre  TNF Black  L](https://www.amazon.es/dp/B00DZLBJAG/?tag=tolees-21) con un 43.06 % de descuento con precio de oferta de 102.5 EUR (original: 180 EUR) en el siguiente enlace!

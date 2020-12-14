@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N6LMIZS/?tag=tolees-21'
 descuento: '51.34'
+average: '48.66'
 ---
 
 Está [adidas Terrex Ax2r  Zapatos de Senderismo Hombre  Marrón  42 EU](https://www.amazon.es/dp/B01N6LMIZS/?tag=tolees-21) con 51.34 de descuento por 48.66 EUR (original: 99.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DQT5QL9/?tag=tolees-21'
 descuento: '75.75'
+average: '26.67'
 ---
 
 Tienes [Volcom Factual Lined Sudadera  Hombre  Negro  XL](https://www.amazon.es/dp/B07DQT5QL9/?tag=tolees-21) con un 75.75 % de descuento con precio de oferta de 26.67 EUR (original: 110 EUR) en el siguiente enlace!

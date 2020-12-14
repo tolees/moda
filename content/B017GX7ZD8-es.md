@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B017GX7ZD8/?tag=tolees-21'
 descuento: '78.86'
+average: '7.39'
 ---
 
 Ahora mismo tienes [Only Blusa Azul Oscuro ES 40  DE 38 ](https://www.amazon.es/dp/B017GX7ZD8/?tag=tolees-21) a 7.39 EUR (original: 34.95 EUR) (78.86 %  de descuento) en el siguiente enlace!

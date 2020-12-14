@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XSJ3B7X/?tag=tolees-21'
 descuento: '40.07'
+average: '44.95'
 ---
 
 Está [Pepe Jeans Zip Thru Ladies  Sudadera con Capucha para Mujer  Gris  Grey Marl   M](https://www.amazon.es/dp/B06XSJ3B7X/?tag=tolees-21) con 40.07 de descuento por 44.95 EUR (original: 75 EUR) en el siguiente enlace!

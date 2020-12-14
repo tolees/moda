@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JCLG3Z6/?tag=tolees-21'
 descuento: '73.64'
+average: '19.43'
 ---
 
 Está [Dorothy Perkins Padded Parka  Negro  Black 130   42  Talla del Fabricante: 14  para Mujer](https://www.amazon.es/dp/B07JCLG3Z6/?tag=tolees-21) con 73.64 de descuento por 19.43 EUR (original: 73.72 EUR) en el siguiente enlace!

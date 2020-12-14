@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B007MLY55G/?tag=tolees-21'
 descuento: '62.83'
+average: '6.69'
 ---
 
 Ahora mismo tienes [Derbystar Uni - Camiseta de equipación  tamaño M  color amarillo/negro](https://www.amazon.es/dp/B007MLY55G/?tag=tolees-21) a 6.69 EUR (original: 18 EUR) (62.83 %  de descuento) en el siguiente enlace!

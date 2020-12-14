@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077XY9HXQ/?tag=tolees-21'
 descuento: '38.50'
+average: '18.45'
 ---
 
 Ahora mismo tienes [Vans_Apparel Print Box  Camiseta para Hombre  Negro  Black-Neo Jungle Pgz  Medium](https://www.amazon.es/dp/B077XY9HXQ/?tag=tolees-21) a 18.45 EUR (original: 30 EUR) (38.50 %  de descuento) en el siguiente enlace!

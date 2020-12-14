@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FTGSNJV/?tag=tolees-21'
 descuento: '79.26'
+average: '20.73'
 ---
 
 Está [Lee Scarlett  Vaqueros skinny para MujerAzul  Light Mid ](https://www.amazon.es/dp/B07FTGSNJV/?tag=tolees-21) con 79.26 de descuento por 20.73 EUR (original: 99.95 EUR) en el siguiente enlace!

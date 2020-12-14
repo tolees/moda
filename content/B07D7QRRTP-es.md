@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D7QRRTP/?tag=tolees-21'
 descuento: '64.50'
+average: '17.73'
 ---
 
 Ahora mismo tienes [BOSS Casual Troupe 2  Camiseta Hombre  Blanco  White 100   XX-Large](https://www.amazon.es/dp/B07D7QRRTP/?tag=tolees-21) a 17.73 EUR (original: 49.95 EUR) (64.50 %  de descuento) en el siguiente enlace!

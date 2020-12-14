@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F8Y1KJZ/?tag=tolees-21'
 descuento: '42.50'
+average: '68.99'
 ---
 
 Está [JACK & JONES PREMIUM Jprmorten Wool Coat STS  Abrigo para Hombre  Gris  Grey Melange  X-Large](https://www.amazon.es/dp/B07F8Y1KJZ/?tag=tolees-21) con 42.50 de descuento por 68.99 EUR (original: 119.99 EUR) en el siguiente enlace!

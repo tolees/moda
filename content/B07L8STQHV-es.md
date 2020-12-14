@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07L8STQHV/?tag=tolees-21'
 descuento: '62.09'
+average: '6.82'
 ---
 
 Tienes [ZIPPY ZB0203_455_12 Sudadera  Niños  Gris  Light Grey Melange 1068    Tamaño del Fabricante:6/7 ](https://www.amazon.es/dp/B07L8STQHV/?tag=tolees-21) con un 62.09 % de descuento con precio de oferta de 6.82 EUR (original: 17.99 EUR) en el siguiente enlace!

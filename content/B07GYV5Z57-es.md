@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GYV5Z57/?tag=tolees-21'
 descuento: '71.01'
+average: '28.99'
 ---
 
 Tienes [LOVORDS Collar Mujer Grabado Plata de Ley 925 Colgante Flecha de Cupido Corazón Regalo Novia o Esposa](https://www.amazon.es/dp/B07GYV5Z57/?tag=tolees-21) con un 71.01 % de descuento con precio de oferta de 28.99 EUR (original: 99.99 EUR) en el siguiente enlace!

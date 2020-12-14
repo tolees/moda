@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06Y43XKVV/?tag=tolees-21'
 descuento: '63.54'
+average: '14.58'
 ---
 
 Está [Women Secret ME Embroidery Tunic Blusa  Mujer  Beige  Ivory   Medium  Tamaño del Fabricante:M ](https://www.amazon.es/dp/B06Y43XKVV/?tag=tolees-21) con 63.54 de descuento por 14.58 EUR (original: 39.99 EUR) en el siguiente enlace!

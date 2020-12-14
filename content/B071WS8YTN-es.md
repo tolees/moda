@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071WS8YTN/?tag=tolees-21'
 descuento: '40.07'
+average: '20.95'
 ---
 
 Está [Urban Classics Heavy Hooded Jacket  Chaqueta para Hombre  Blau  Navy 155   Small](https://www.amazon.es/dp/B071WS8YTN/?tag=tolees-21) con 40.07 de descuento por 20.95 EUR (original: 34.96 EUR) en el siguiente enlace!

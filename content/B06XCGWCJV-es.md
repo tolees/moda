@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XCGWCJV/?tag=tolees-21'
 descuento: '48.39'
+average: '61.93'
 ---
 
 Tienes [Clarks Norsen Mid  Botines Hombre  Marrón  Dark Tan Lea   42 EU](https://www.amazon.es/dp/B06XCGWCJV/?tag=tolees-21) con un 48.39 % de descuento con precio de oferta de 61.93 EUR (original: 120 EUR) en el siguiente enlace!

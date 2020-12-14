@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0792HC6ZT/?tag=tolees-21'
 descuento: '76.16'
+average: '32.18'
 ---
 
 Tienes [Geox D Porthya B  Mocasines para Mujer   Black C9999   38 EU](https://www.amazon.es/dp/B0792HC6ZT/?tag=tolees-21) con un 76.16 % de descuento con precio de oferta de 32.18 EUR (original: 135 EUR) en el siguiente enlace!

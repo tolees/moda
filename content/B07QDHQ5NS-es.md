@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07QDHQ5NS/?tag=tolees-21'
 descuento: '63.41'
+average: '12.99'
 ---
 
 Tienes [B BIDEN Retro Gafas de Sol Cuadradas para Hombres de Bambú  Gafas al Aire Libre con Lentes de Protección para Deporte y Conducción](https://www.amazon.es/dp/B07QDHQ5NS/?tag=tolees-21) con un 63.41 % de descuento con precio de oferta de 12.99 EUR (original: 35.5 EUR) en el siguiente enlace!

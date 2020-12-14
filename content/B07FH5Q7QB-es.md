@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FH5Q7QB/?tag=tolees-21'
 descuento: '34.87'
+average: '12.96'
 ---
 
 Está [Havaianas Top Mix  Chanclas para Unisex Adulto  Multicolor  Graphite/Grey   35/36 EU [33/34 BR]](https://www.amazon.es/dp/B07FH5Q7QB/?tag=tolees-21) con 34.87 de descuento por 12.96 EUR (original: 19.9 EUR) en el siguiente enlace!

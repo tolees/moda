@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CC737SV/?tag=tolees-21'
 descuento: '50.20'
+average: '12.45'
 ---
 
 Tienes [Pepe Jeans Dion  Camiseta para Hombre  Marfil  Off White 803  Small](https://www.amazon.es/dp/B07CC737SV/?tag=tolees-21) con un 50.20 % de descuento con precio de oferta de 12.45 EUR (original: 25 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0731HLG8Y/?tag=tolees-21'
 descuento: '89.72'
+average: '9.15'
 ---
 
 Está [Etxart & Panno Orca  Falda Casual para Mujer  Verde  Kaki   X-Small  Tamaño del Fabricante:36 ](https://www.amazon.es/dp/B0731HLG8Y/?tag=tolees-21) con 89.72 de descuento por 9.15 EUR (original: 89 EUR) en el siguiente enlace!

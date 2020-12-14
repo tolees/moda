@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F6NQFCY/?tag=tolees-21'
 descuento: '40.08'
+average: '5.98'
 ---
 
 Está [Naliha Las Mujeres Blusa De Leopardo Impreso T - Shirt Tops Botón Slim Office Blusas Leopard L](https://www.amazon.es/dp/B07F6NQFCY/?tag=tolees-21) con 40.08 de descuento por 5.98 EUR (original: 9.98 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HBDMHQZ/?tag=tolees-21'
 descuento: '59.55'
+average: '90.95'
 ---
 
 Está [KAREN MILLEN Fashions Limited Suede Block-Heel Boots  Botines para Mujer  Negro  Black 01   37 EU](https://www.amazon.es/dp/B07HBDMHQZ/?tag=tolees-21) con 59.55 de descuento por 90.95 EUR (original: 224.86 EUR) en el siguiente enlace!

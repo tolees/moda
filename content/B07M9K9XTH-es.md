@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07M9K9XTH/?tag=tolees-21'
 descuento: '55.89'
+average: '17.64'
 ---
 
 Está [MTNG Kiwi  Bolso de mano para Mujer  Blanco  Bimb Liso Blc Neg  20x25x41 cm  W x H x L ](https://www.amazon.es/dp/B07M9K9XTH/?tag=tolees-21) con 55.89 de descuento por 17.64 EUR (original: 39.99 EUR) en el siguiente enlace!

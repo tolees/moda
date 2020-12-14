@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075GR9JTQ/?tag=tolees-21'
 descuento: '69.85'
+average: '6.63'
 ---
 
 Tienes [Only Onlsally S/s Top Jrs  Camiseta Mujer  Verde  Military Olive   36  Talla del Fabricante: Small ](https://www.amazon.es/dp/B075GR9JTQ/?tag=tolees-21) con un 69.85 % de descuento con precio de oferta de 6.63 EUR (original: 21.99 EUR) en el siguiente enlace!

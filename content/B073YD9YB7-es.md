@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073YD9YB7/?tag=tolees-21'
 descuento: '77.30'
+average: '10.44'
 ---
 
 Ahora mismo tienes [Esprit 107ee1f030  Blusa Mujer  Azul  Navy 400   40](https://www.amazon.es/dp/B073YD9YB7/?tag=tolees-21) a 10.44 EUR (original: 45.99 EUR) (77.30 %  de descuento) en el siguiente enlace!

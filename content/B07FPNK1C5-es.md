@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FPNK1C5/?tag=tolees-21'
 descuento: '76.05'
+average: '14.37'
 ---
 
 Está [JACK & JONES Jjitom Jjoriginal Jos 774 50sps Ltd  Vaqueros Skinny Hombre  Gris  Grey Denim Grey Denim   W36/L30](https://www.amazon.es/dp/B07FPNK1C5/?tag=tolees-21) con 76.05 de descuento por 14.37 EUR (original: 59.99 EUR) en el siguiente enlace!

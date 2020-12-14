@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074ZDLX3Y/?tag=tolees-21'
 descuento: '60.97'
+average: '11.32'
 ---
 
 Ahora mismo tienes [find. Pantalón con Cintura de Fuelle para Mujer  Azul  Blue   36  Talla del fabricante: X-Small ](https://www.amazon.es/dp/B074ZDLX3Y/?tag=tolees-21) a 11.32 EUR (original: 29 EUR) (60.97 %  de descuento) en el siguiente enlace!

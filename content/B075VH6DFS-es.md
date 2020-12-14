@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075VH6DFS/?tag=tolees-21'
 descuento: '49.97'
+average: '24.99'
 ---
 
 Tienes [JACK & JONES Jcomulti Quilted Jacket Noos Chaqueta  Verde  Grape Leaf   Large para Hombre](https://www.amazon.es/dp/B075VH6DFS/?tag=tolees-21) con un 49.97 % de descuento con precio de oferta de 24.99 EUR (original: 49.95 EUR) en el siguiente enlace!

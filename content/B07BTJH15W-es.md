@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BTJH15W/?tag=tolees-21'
 descuento: '44.67'
+average: '92.96'
 ---
 
 Está [Ray-Ban RAYBAN 0rb3594 9114u0 53  Gafas de sol Unisex  Rubber Gold On Top Black](https://www.amazon.es/dp/B07BTJH15W/?tag=tolees-21) con 44.67 de descuento por 92.96 EUR (original: 168 EUR) en el siguiente enlace!

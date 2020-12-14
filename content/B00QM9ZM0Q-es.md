@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00QM9ZM0Q/?tag=tolees-21'
 descuento: '49.36'
+average: '11.48'
 ---
 
 Tienes [Speedo Atami II MAX  Chanclas para Mujer   Azul Marino Blanco 7879   38 EU](https://www.amazon.es/dp/B00QM9ZM0Q/?tag=tolees-21) con un 49.36 % de descuento con precio de oferta de 11.48 EUR (original: 22.67 EUR) en el siguiente enlace!

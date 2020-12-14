@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D45GXJ6/?tag=tolees-21'
 descuento: '30.00'
+average: '33.6'
 ---
 
 Está [FIND Smart Zapatos de Cordones Brogue  Marrón Brandy  38 EU](https://www.amazon.es/dp/B07D45GXJ6/?tag=tolees-21) con 30.00 de descuento por 33.6 EUR (original: 48 EUR) en el siguiente enlace!

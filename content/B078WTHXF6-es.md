@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078WTHXF6/?tag=tolees-21'
 descuento: '51.37'
+average: '11.18'
 ---
 
 Tienes [Quiksilver Monkey Abyss  Zapatos de Playa y Piscina para Hombre  Verde  Green/Brown/Black Xgck   43 EU](https://www.amazon.es/dp/B078WTHXF6/?tag=tolees-21) con un 51.37 % de descuento con precio de oferta de 11.18 EUR (original: 22.99 EUR) en el siguiente enlace!

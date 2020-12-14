@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0779L5KCD/?tag=tolees-21'
 descuento: '74.26'
+average: '24.45'
 ---
 
 Está [Pepe Jeans Hatch Eco PM202451 Vaqueros Slim  Azul  Wiser Wash 000   38W / 30L para Hombre](https://www.amazon.es/dp/B0779L5KCD/?tag=tolees-21) con 74.26 de descuento por 24.45 EUR (original: 95 EUR) en el siguiente enlace!

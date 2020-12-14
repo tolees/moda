@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072KDSZ9B/?tag=tolees-21'
 descuento: '66.86'
+average: '23.18'
 ---
 
 Tienes [Lee One Pocket Shirt  Blusa para Mujer   Rust Bfdg   Small](https://www.amazon.es/dp/B072KDSZ9B/?tag=tolees-21) con un 66.86 % de descuento con precio de oferta de 23.18 EUR (original: 69.95 EUR) en el siguiente enlace!

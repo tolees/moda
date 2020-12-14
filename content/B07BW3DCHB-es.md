@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BW3DCHB/?tag=tolees-21'
 descuento: '50.00'
+average: '19.98'
 ---
 
 Está [Occffy Hombre Gafas de Sol Deportivas polarizadas para béisbol  Atletismo  Ciclismo  Pesca  Golf Tr90  Marco Mate Negro con Lente Azul ](https://www.amazon.es/dp/B07BW3DCHB/?tag=tolees-21) con 50.00 de descuento por 19.98 EUR (original: 39.96 EUR) en el siguiente enlace!

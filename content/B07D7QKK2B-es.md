@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D7QKK2B/?tag=tolees-21'
 descuento: '59.45'
+average: '24.31'
 ---
 
 Está [BOSS Thrill  Camiseta para Hombre  Gris  Light/Pastel Grey 051  Medium](https://www.amazon.es/dp/B07D7QKK2B/?tag=tolees-21) con 59.45 de descuento por 24.31 EUR (original: 59.95 EUR) en el siguiente enlace!

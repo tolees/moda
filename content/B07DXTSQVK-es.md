@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DXTSQVK/?tag=tolees-21'
 descuento: '28.66'
+average: '9.98'
 ---
 
 Está [KEALIVE Traje de tres piezas  bolsa de zapatos](https://www.amazon.es/dp/B07DXTSQVK/?tag=tolees-21) con 28.66 de descuento por 9.98 EUR (original: 13.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XGX9WKR/?tag=tolees-21'
 descuento: '46.57'
+average: '11.99'
 ---
 
 Tienes [New Look Maternity Underbump Black Jegging  Vaqueros Skinny Mujer  Negro  Black   W34/L32  Talla del Fabricante: 16L32 ](https://www.amazon.es/dp/B06XGX9WKR/?tag=tolees-21) con un 46.57 % de descuento con precio de oferta de 11.99 EUR (original: 22.44 EUR) en el siguiente enlace!

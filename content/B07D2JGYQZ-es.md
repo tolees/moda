@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D2JGYQZ/?tag=tolees-21'
 descuento: '38.60'
+average: '18.42'
 ---
 
 Tienes [Levi s The tee  Camiseta para Mujer  Rojo  Valley Girl PFD Chinese Red 0354   Large](https://www.amazon.es/dp/B07D2JGYQZ/?tag=tolees-21) con un 38.60 % de descuento con precio de oferta de 18.42 EUR (original: 30 EUR) en el siguiente enlace!

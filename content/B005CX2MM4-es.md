@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B005CX2MM4/?tag=tolees-21'
 descuento: '69.50'
+average: '15.22'
 ---
 
 Ahora mismo tienes [Urban Classics Chaleco Negro/Verde XS](https://www.amazon.es/dp/B005CX2MM4/?tag=tolees-21) a 15.22 EUR (original: 49.9 EUR) (69.50 %  de descuento) en el siguiente enlace!

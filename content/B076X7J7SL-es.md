@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076X7J7SL/?tag=tolees-21'
 descuento: '60.58'
+average: '39.38'
 ---
 
 Tienes [Geox U Leitan B  Mocasines para Hombre  Azul  Navy   45 EU](https://www.amazon.es/dp/B076X7J7SL/?tag=tolees-21) con un 60.58 % de descuento con precio de oferta de 39.38 EUR (original: 99.9 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CNFZLGD/?tag=tolees-21'
 descuento: '52.00'
+average: '23.52'
 ---
 
 Está [Diesel T-Daria  Camiseta para Mujer  Blanco 100  Medium  Tamaño del Fabricante:M ](https://www.amazon.es/dp/B07CNFZLGD/?tag=tolees-21) con 52.00 de descuento por 23.52 EUR (original: 49 EUR) en el siguiente enlace!

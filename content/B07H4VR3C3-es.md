@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07H4VR3C3/?tag=tolees-21'
 descuento: '64.54'
+average: '31.9'
 ---
 
 Ahora mismo tienes [Hush Puppies Pointer Plain Toe  Zapatos de Cordones Derby para Hombre  Rojo  Bordo 000   41 EU](https://www.amazon.es/dp/B07H4VR3C3/?tag=tolees-21) a 31.9 EUR (original: 89.95 EUR) (64.54 %  de descuento) en el siguiente enlace!

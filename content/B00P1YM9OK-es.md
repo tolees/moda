@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00P1YM9OK/?tag=tolees-21'
 descuento: '79.42'
+average: '25.73'
 ---
 
 Está [Just Cavalli Sonnenbrille JC649S 5653W  Gafas de Sol para Mujer  Marrón  Braun   54](https://www.amazon.es/dp/B00P1YM9OK/?tag=tolees-21) con 79.42 de descuento por 25.73 EUR (original: 125 EUR) en el siguiente enlace!

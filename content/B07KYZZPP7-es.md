@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KYZZPP7/?tag=tolees-21'
 descuento: '56.49'
+average: '13.05'
 ---
 
 Ahora mismo tienes [Springfield 2DR C/Doble Torzal Estruc Jersey   Gama Grises 43   Small  Tamaño del Fabricante:S  para Hombre](https://www.amazon.es/dp/B07KYZZPP7/?tag=tolees-21) a 13.05 EUR (original: 29.99 EUR) (56.49 %  de descuento) en el siguiente enlace!

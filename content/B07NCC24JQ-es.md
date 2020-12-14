@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07NCC24JQ/?tag=tolees-21'
 descuento: '65.98'
+average: '30.58'
 ---
 
 Está [Pepe Jeans Mable Vaqueros Straight  Azul  Light Used Denim Md0   W31/L30 para Mujer](https://www.amazon.es/dp/B07NCC24JQ/?tag=tolees-21) con 65.98 de descuento por 30.58 EUR (original: 89.9 EUR) en el siguiente enlace!

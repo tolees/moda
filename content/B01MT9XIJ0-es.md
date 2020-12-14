@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MT9XIJ0/?tag=tolees-21'
 descuento: '50.58'
+average: '46.95'
 ---
 
 Está [Pepe Jeans Pixie PL200025  Vaqueros Skinny para Mujer  Azul  10Oz Str 8Dip Royal Dk D45   W26/L30](https://www.amazon.es/dp/B01MT9XIJ0/?tag=tolees-21) con 50.58 de descuento por 46.95 EUR (original: 95 EUR) en el siguiente enlace!

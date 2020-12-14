@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079KSNPXX/?tag=tolees-21'
 descuento: '74.06'
+average: '36.05'
 ---
 
 Está [Tommy Hilfiger Mercer-2str Vaqueros Straight  Gris  Chandler Grey 911   W31/L34 para Hombre](https://www.amazon.es/dp/B079KSNPXX/?tag=tolees-21) con 74.06 de descuento por 36.05 EUR (original: 139 EUR) en el siguiente enlace!

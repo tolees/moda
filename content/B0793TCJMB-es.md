@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0793TCJMB/?tag=tolees-21'
 descuento: '31.83'
+average: '14.99'
 ---
 
 Está [deAO Estuche de Maquillaje y Joyería de Juguete Playset en Maletín Bolso de Mano con Accesorios Incluidos  Cofre Maletín ](https://www.amazon.es/dp/B0793TCJMB/?tag=tolees-21) con 31.83 de descuento por 14.99 EUR (original: 21.99 EUR) en el siguiente enlace!

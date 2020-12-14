@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XNXJGSC/?tag=tolees-21'
 descuento: '54.08'
+average: '45.9'
 ---
 
 Tienes [Desigual Vest_achille  vestido Mujer  Azul  Denim Dark Blue 5008   38  Talla fabricante: 40 ](https://www.amazon.es/dp/B06XNXJGSC/?tag=tolees-21) con un 54.08 % de descuento con precio de oferta de 45.9 EUR (original: 99.95 EUR) en el siguiente enlace!

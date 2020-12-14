@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F1K6MJ3/?tag=tolees-21'
 descuento: '76.40'
+average: '47.2'
 ---
 
 Ahora mismo tienes [Armani Exchange Quilted Chaqueta Bomber  Azul  Blue Moon 1567   Large para Mujer](https://www.amazon.es/dp/B07F1K6MJ3/?tag=tolees-21) a 47.2 EUR (original: 200 EUR) (76.40 %  de descuento) en el siguiente enlace!

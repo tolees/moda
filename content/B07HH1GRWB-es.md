@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HH1GRWB/?tag=tolees-21'
 descuento: '38.10'
+average: '17.95'
 ---
 
 Ahora mismo tienes [Tommy Jeans Mujer SOFT JERSEY Camiseta Manga Corta  Azul  Black Iris 002  Medium](https://www.amazon.es/dp/B07HH1GRWB/?tag=tolees-21) a 17.95 EUR (original: 29 EUR) (38.10 %  de descuento) en el siguiente enlace!

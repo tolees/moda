@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07L9Q48MB/?tag=tolees-21'
 descuento: '64.57'
+average: '17.36'
 ---
 
 Está [Napapijri Sarja Camiseta   Fantasy F40   X-Large para Hombre](https://www.amazon.es/dp/B07L9Q48MB/?tag=tolees-21) con 64.57 de descuento por 17.36 EUR (original: 49 EUR) en el siguiente enlace!

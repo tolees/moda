@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071R3HNLN/?tag=tolees-21'
 descuento: '63.09'
+average: '14.76'
 ---
 
 Ahora mismo tienes [Tom Tailor Printed Sweatie Sudadera  Azul  Real Navy Blue 6593   42  Talla del Fabricante: X-Large  para Mujer](https://www.amazon.es/dp/B071R3HNLN/?tag=tolees-21) a 14.76 EUR (original: 39.99 EUR) (63.09 %  de descuento) en el siguiente enlace!

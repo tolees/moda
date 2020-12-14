@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07K6G6BLM/?tag=tolees-21'
 descuento: '29.98'
+average: '20.97'
 ---
 
 Está [Maglev Essentials Bdx002m6 Calzoncillos Boxer Hombre  Yellow Black Mix Check Print/Light Blue Stripes   85  Talla del Fabricante: Small   Pack de 6](https://www.amazon.es/dp/B07K6G6BLM/?tag=tolees-21) con 29.98 de descuento por 20.97 EUR (original: 29.95 EUR) en el siguiente enlace!

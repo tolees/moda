@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06W5CYTCZ/?tag=tolees-21'
 descuento: '40.25'
+average: '11.95'
 ---
 
 Ahora mismo tienes [Vans Left Chest Logo tee  Camiseta para Hombre  Blanco  White  XX-Large](https://www.amazon.es/dp/B06W5CYTCZ/?tag=tolees-21) a 11.95 EUR (original: 20 EUR) (40.25 %  de descuento) en el siguiente enlace!

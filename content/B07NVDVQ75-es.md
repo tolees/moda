@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07NVDVQ75/?tag=tolees-21'
 descuento: '30.01'
+average: '34.99'
 ---
 
 Está [ENKEEO Casco de Esquí Unisex Ajustable  14 Salidas de Ventilación  Compatible con Gafas de Esquí  Negro/XL](https://www.amazon.es/dp/B07NVDVQ75/?tag=tolees-21) con 30.01 de descuento por 34.99 EUR (original: 49.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KWD7GMD/?tag=tolees-21'
 descuento: '37.17'
+average: '43.95'
 ---
 
 Ahora mismo tienes [adidas TT Chaqueta  Mujer  Negro  34](https://www.amazon.es/dp/B07KWD7GMD/?tag=tolees-21) a 43.95 EUR (original: 69.95 EUR) (37.17 %  de descuento) en el siguiente enlace!

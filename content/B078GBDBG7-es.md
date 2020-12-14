@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078GBDBG7/?tag=tolees-21'
 descuento: '51.75'
+average: '57.42'
 ---
 
 Está [BOSS Orange24 Barcelona P Vaqueros Straight  Azul  Dark Blue 405   W34/L32  Talla del Fabricante: 34/32  para Hombre](https://www.amazon.es/dp/B078GBDBG7/?tag=tolees-21) con 51.75 de descuento por 57.42 EUR (original: 119 EUR) en el siguiente enlace!

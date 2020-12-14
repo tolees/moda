@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071HNS9FY/?tag=tolees-21'
 descuento: '34.31'
+average: '39.38'
 ---
 
 Ahora mismo tienes [adidas ESS 3S Ttop Tri Camiseta  Negro/Blanco  L para Hombre](https://www.amazon.es/dp/B071HNS9FY/?tag=tolees-21) a 39.38 EUR (original: 59.95 EUR) (34.31 %  de descuento) en el siguiente enlace!

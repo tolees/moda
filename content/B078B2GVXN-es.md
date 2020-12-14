@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078B2GVXN/?tag=tolees-21'
 descuento: '39.40'
+average: '15.75'
 ---
 
 Ahora mismo tienes [Under Armour UA Boxed Sportstyle SS Camiseta  Hombre  Azul  Royal/Graphite 400   L](https://www.amazon.es/dp/B078B2GVXN/?tag=tolees-21) a 15.75 EUR (original: 25.99 EUR) (39.40 %  de descuento) en el siguiente enlace!

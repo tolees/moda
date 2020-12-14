@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CHRZTSY/?tag=tolees-21'
 descuento: '25.20'
+average: '18.7'
 ---
 
 Está [Levi s SS Original Hm tee Camiseta   Tri/Blend + Patch Gray Violet 0008   Large para Hombre](https://www.amazon.es/dp/B07CHRZTSY/?tag=tolees-21) con 25.20 de descuento por 18.7 EUR (original: 25 EUR) en el siguiente enlace!

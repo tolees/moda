@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B019H9EAPK/?tag=tolees-21'
 descuento: '42.11'
+average: '32.99'
 ---
 
 Está [Everlife Shop CS Caza Airsoft Paintball Chaleco de Poliéster Exterior Premium Ejército Wargame de Plena Protección con Accesorio Negro Chaleco Tactico Molle  Khaki ](https://www.amazon.es/dp/B019H9EAPK/?tag=tolees-21) con 42.11 de descuento por 32.99 EUR (original: 56.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078GKXHNX/?tag=tolees-21'
 descuento: '79.97'
+average: '23.83'
 ---
 
 Tienes [BOSS Cattitude  Camisa para Hombre  Blanco  White 100  XX-Large](https://www.amazon.es/dp/B078GKXHNX/?tag=tolees-21) con un 79.97 % de descuento con precio de oferta de 23.83 EUR (original: 119 EUR) en el siguiente enlace!

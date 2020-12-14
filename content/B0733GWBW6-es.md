@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0733GWBW6/?tag=tolees-21'
 descuento: '64.21'
+average: '35.79'
 ---
 
 Está [Esprit 087ee1g037  Abrigo Mujer  Gris  Anthracite 010   Medium](https://www.amazon.es/dp/B0733GWBW6/?tag=tolees-21) con 64.21 de descuento por 35.79 EUR (original: 99.99 EUR) en el siguiente enlace!

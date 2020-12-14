@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B010MU9HRY/?tag=tolees-21'
 descuento: '51.52'
+average: '26.64'
 ---
 
 Está [Columbia Silver Ridge Short Sleeve Shirt AM7474 Camisa de Senderismo Manga Corta  Hombre  Gris  Steel   M](https://www.amazon.es/dp/B010MU9HRY/?tag=tolees-21) con 51.52 de descuento por 26.64 EUR (original: 54.95 EUR) en el siguiente enlace!

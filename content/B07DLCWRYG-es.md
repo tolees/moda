@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DLCWRYG/?tag=tolees-21'
 descuento: '63.62'
+average: '12.73'
 ---
 
 Está [Women s Secret Ca Unicorn PJ  Conjuntos de Pijama para Mujer   Rosa 71   Large  Tamaño del Fabricante:L ](https://www.amazon.es/dp/B07DLCWRYG/?tag=tolees-21) con 63.62 de descuento por 12.73 EUR (original: 34.99 EUR) en el siguiente enlace!

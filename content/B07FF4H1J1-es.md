@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FF4H1J1/?tag=tolees-21'
 descuento: '45.45'
+average: '36'
 ---
 
 Está [Quiksilver Scaly Chaqueta  Niños  Azul  Navy Blazer BYJ0    Tamaño del Fabricante:L/14 ](https://www.amazon.es/dp/B07FF4H1J1/?tag=tolees-21) con 45.45 de descuento por 36 EUR (original: 65.99 EUR) en el siguiente enlace!

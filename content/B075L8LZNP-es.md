@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075L8LZNP/?tag=tolees-21'
 descuento: '59.12'
+average: '65'
 ---
 
 Ahora mismo tienes [TEENO taladro sin cable 21V+2 baterías de iones de litio+41 accesorios + guantes profesionales](https://www.amazon.es/dp/B075L8LZNP/?tag=tolees-21) a 65 EUR (original: 159 EUR) (59.12 %  de descuento) en el siguiente enlace!

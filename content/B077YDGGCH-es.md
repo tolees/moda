@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077YDGGCH/?tag=tolees-21'
 descuento: '46.03'
+average: '16.19'
 ---
 
 Ahora mismo tienes [Under Armour HG - Pantalón Corto para Mujer  Mujer  1309619-007  Black/Green Malachite  Large](https://www.amazon.es/dp/B077YDGGCH/?tag=tolees-21) a 16.19 EUR (original: 30 EUR) (46.03 %  de descuento) en el siguiente enlace!

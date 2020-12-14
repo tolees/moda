@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N5ID1FO/?tag=tolees-21'
 descuento: '74.09'
+average: '10.35'
 ---
 
 Está [Vila Clothes Vinimas Detail Dress-Noos Vestido  Negro Black  40  Talla del Fabricante: Large  para Mujer](https://www.amazon.es/dp/B01N5ID1FO/?tag=tolees-21) con 74.09 de descuento por 10.35 EUR (original: 39.95 EUR) en el siguiente enlace!

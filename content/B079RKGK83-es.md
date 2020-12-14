@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079RKGK83/?tag=tolees-21'
 descuento: '30.02'
+average: '10.49'
 ---
 
 Tienes [IRIS & LILLY Braguita con Encaje Body Natural Mujer  Pack de 3  Multicolor  Pink Nectar/dark Brown/animal Print   Large](https://www.amazon.es/dp/B079RKGK83/?tag=tolees-21) con un 30.02 % de descuento con precio de oferta de 10.49 EUR (original: 14.99 EUR) en el siguiente enlace!

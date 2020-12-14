@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JFGCGTS/?tag=tolees-21'
 descuento: '44.43'
+average: '19.45'
 ---
 
 Está [Lacoste Tj3290 Camiseta  Marfil  Farine 70v   4 años  Talla del Fabricante: 4A  para Niños](https://www.amazon.es/dp/B07JFGCGTS/?tag=tolees-21) con 44.43 de descuento por 19.45 EUR (original: 35 EUR) en el siguiente enlace!

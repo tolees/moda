@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077DFHT7T/?tag=tolees-21'
 descuento: '58.59'
+average: '14.49'
 ---
 
 Tienes [Vero Moda Vmhenna 3/4 Wrap Dress Noos Vestido  Negro  Black Detail: Solid   44  Talla del Fabricante: X-Large  para Mujer](https://www.amazon.es/dp/B077DFHT7T/?tag=tolees-21) con un 58.59 % de descuento con precio de oferta de 14.49 EUR (original: 34.99 EUR) en el siguiente enlace!

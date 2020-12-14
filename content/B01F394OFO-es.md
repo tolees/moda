@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01F394OFO/?tag=tolees-21'
 descuento: '50.01'
+average: '29.69'
 ---
 
 Ahora mismo tienes [Ital-Design - Zapatos Hombre  Color Azul  Talla 43 EU](https://www.amazon.es/dp/B01F394OFO/?tag=tolees-21) a 29.69 EUR (original: 59.39 EUR) (50.01 %  de descuento) en el siguiente enlace!

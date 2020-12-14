@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072RZN9NW/?tag=tolees-21'
 descuento: '54.52'
+average: '61.4'
 ---
 
 Tienes [Volcom Hernan Chaqueta  Hombre  Verde  Military   S](https://www.amazon.es/dp/B072RZN9NW/?tag=tolees-21) con un 54.52 % de descuento con precio de oferta de 61.4 EUR (original: 135 EUR) en el siguiente enlace!

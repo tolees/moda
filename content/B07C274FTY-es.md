@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07C274FTY/?tag=tolees-21'
 descuento: '79.88'
+average: '12.07'
 ---
 
 Ahora mismo tienes [JACK & JONES Jjiglenn Jjcharlie Am 736 Ltd  Vaqueros Slim Hombre  Negro  Black Denim Black Denim   W31/L34](https://www.amazon.es/dp/B07C274FTY/?tag=tolees-21) a 12.07 EUR (original: 59.99 EUR) (79.88 %  de descuento) en el siguiente enlace!

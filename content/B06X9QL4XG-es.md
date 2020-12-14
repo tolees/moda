@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06X9QL4XG/?tag=tolees-21'
 descuento: '70.00'
+average: '8.4'
 ---
 
 Está [FIND Frill Overlay Sudadera para Mujer  Rosa  Old Rose   42  Talla del Fabricante: Large ](https://www.amazon.es/dp/B06X9QL4XG/?tag=tolees-21) con 70.00 de descuento por 8.4 EUR (original: 28 EUR) en el siguiente enlace!

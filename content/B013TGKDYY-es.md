@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B013TGKDYY/?tag=tolees-21'
 descuento: '43.73'
+average: '30.95'
 ---
 
 Está [Volcom FRCKN MDRN Strch SHT Pantalón Corto  Hombre  Negro  33](https://www.amazon.es/dp/B013TGKDYY/?tag=tolees-21) con 43.73 de descuento por 30.95 EUR (original: 55 EUR) en el siguiente enlace!

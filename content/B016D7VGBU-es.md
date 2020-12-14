@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B016D7VGBU/?tag=tolees-21'
 descuento: '66.67'
+average: '99.99'
 ---
 
 Ahora mismo tienes [Leathario Bolso de Cuero Multifuncionales Maletínes Portátiles Sencillo Moda para Hombres Diseñado para Negocio](https://www.amazon.es/dp/B016D7VGBU/?tag=tolees-21) a 99.99 EUR (original: 299.99 EUR) (66.67 %  de descuento) en el siguiente enlace!

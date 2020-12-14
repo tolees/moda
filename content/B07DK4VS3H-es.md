@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DK4VS3H/?tag=tolees-21'
 descuento: '62.52'
+average: '22.45'
 ---
 
 Ahora mismo tienes [Geox Jr Sandal Kyle B  Sandalias Punta Cerrada para Niños  Verde  Lime/Blue C2302   39 EU](https://www.amazon.es/dp/B07DK4VS3H/?tag=tolees-21) a 22.45 EUR (original: 59.9 EUR) (62.52 %  de descuento) en el siguiente enlace!

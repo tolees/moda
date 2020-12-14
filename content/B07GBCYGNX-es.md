@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GBCYGNX/?tag=tolees-21'
 descuento: '50.00'
+average: '75'
 ---
 
 Está [Diesel Tepphar L.32 Pantaloni  Vaqueros Slim para Hombre  Blau  Denim 01  36W x 32L](https://www.amazon.es/dp/B07GBCYGNX/?tag=tolees-21) con 50.00 de descuento por 75 EUR (original: 150 EUR) en el siguiente enlace!

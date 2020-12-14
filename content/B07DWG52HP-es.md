@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DWG52HP/?tag=tolees-21'
 descuento: '30.00'
+average: '31.5'
 ---
 
 Ahora mismo tienes [FIND Contrast Panel Zapatos de Cordones Derby  Marrón Brown  41 EU](https://www.amazon.es/dp/B07DWG52HP/?tag=tolees-21) a 31.5 EUR (original: 45 EUR) (30.00 %  de descuento) en el siguiente enlace!

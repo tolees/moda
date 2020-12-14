@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DJCP37P/?tag=tolees-21'
 descuento: '55.94'
+average: '48.42'
 ---
 
 Ahora mismo tienes [Geox U Calgary D  Zapatos para Hombre  Negro  Black C9999   43 EU](https://www.amazon.es/dp/B07DJCP37P/?tag=tolees-21) a 48.42 EUR (original: 109.9 EUR) (55.94 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CFS69G6/?tag=tolees-21'
 descuento: '50.00'
+average: '17.5'
 ---
 
 Está [Pepe Jeans George  Camiseta para Hombre  Azul  Lt Blue 501  Medium](https://www.amazon.es/dp/B07CFS69G6/?tag=tolees-21) con 50.00 de descuento por 17.5 EUR (original: 35 EUR) en el siguiente enlace!

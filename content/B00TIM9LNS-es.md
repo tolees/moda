@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00TIM9LNS/?tag=tolees-21'
 descuento: '49.01'
+average: '17.84'
 ---
 
 Tienes [Columbia Zero Rules Short Sleeve Shirt Camiseta de manga corta  Hombre  Gris  Columbia Grey Heather   M](https://www.amazon.es/dp/B00TIM9LNS/?tag=tolees-21) con un 49.01 % de descuento con precio de oferta de 17.84 EUR (original: 34.99 EUR) en el siguiente enlace!

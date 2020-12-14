@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DV2P6WV/?tag=tolees-21'
 descuento: '62.30'
+average: '32.42'
 ---
 
 Tienes [Quiksilver Everyday Sherpa Sudadera con Capucha  Hombre  Azul  Tapestry Heather BPHH   Small  Tamaño del Fabricante:S ](https://www.amazon.es/dp/B07DV2P6WV/?tag=tolees-21) con un 62.30 % de descuento con precio de oferta de 32.42 EUR (original: 85.99 EUR) en el siguiente enlace!

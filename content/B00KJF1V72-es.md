@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00KJF1V72/?tag=tolees-21'
 descuento: '54.58'
+average: '54.5'
 ---
 
 Está [Carrera Unisex adulto 5034/S 70 KKL Gafas de sol  Negro  Black Dkruth/Brown   52](https://www.amazon.es/dp/B00KJF1V72/?tag=tolees-21) con 54.58 de descuento por 54.5 EUR (original: 120 EUR) en el siguiente enlace!

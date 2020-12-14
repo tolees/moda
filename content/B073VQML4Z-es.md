@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073VQML4Z/?tag=tolees-21'
 descuento: '62.50'
+average: '8.25'
 ---
 
 Ahora mismo tienes [FIND Vestido de Canalé con Cuello Alto para Mujer  Gris  44](https://www.amazon.es/dp/B073VQML4Z/?tag=tolees-21) a 8.25 EUR (original: 22 EUR) (62.50 %  de descuento) en el siguiente enlace!

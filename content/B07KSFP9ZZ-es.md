@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KSFP9ZZ/?tag=tolees-21'
 descuento: '57.84'
+average: '50.59'
 ---
 
 Está [Columbia 1773271 POWDER LITE LIGHT HOODED JACKET  Chaqueta con capucha  Hombre   Aislamiento sintético Hi-Loft   Verde  Cypress Heather    Talla XL](https://www.amazon.es/dp/B07KSFP9ZZ/?tag=tolees-21) con 57.84 de descuento por 50.59 EUR (original: 119.99 EUR) en el siguiente enlace!

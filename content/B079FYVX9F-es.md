@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079FYVX9F/?tag=tolees-21'
 descuento: '79.24'
+average: '9.34'
 ---
 
 Está [Under Armour AF 1/2 - Camiseta de Manga Corta con Cremallera  Niños  1322143-601  Dark Maroon/Radio Red  para jóvenes XS](https://www.amazon.es/dp/B079FYVX9F/?tag=tolees-21) con 79.24 de descuento por 9.34 EUR (original: 45 EUR) en el siguiente enlace!

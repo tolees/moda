@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DB1GZ9T/?tag=tolees-21'
 descuento: '69.51'
+average: '21.33'
 ---
 
 Ahora mismo tienes [Mustang Schnür-Booty  Botines para Mujer  Marfil  Ivory 243   37 EU](https://www.amazon.es/dp/B07DB1GZ9T/?tag=tolees-21) a 21.33 EUR (original: 69.95 EUR) (69.51 %  de descuento) en el siguiente enlace!

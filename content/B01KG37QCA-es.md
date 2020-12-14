@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01KG37QCA/?tag=tolees-21'
 descuento: '76.07'
+average: '12.19'
 ---
 
 Ahora mismo tienes [Izas Dimasa Chaqueta de Punto  Mujer  Morado  2XL](https://www.amazon.es/dp/B01KG37QCA/?tag=tolees-21) a 12.19 EUR (original: 50.95 EUR) (76.07 %  de descuento) en el siguiente enlace!

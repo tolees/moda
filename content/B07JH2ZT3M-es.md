@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JH2ZT3M/?tag=tolees-21'
 descuento: '55.56'
+average: '26.64'
 ---
 
 Tienes [Puma Athletics Hoody TR Sudadera  Hombre  Negro  Cotton Black   XL](https://www.amazon.es/dp/B07JH2ZT3M/?tag=tolees-21) con un 55.56 % de descuento con precio de oferta de 26.64 EUR (original: 59.95 EUR) en el siguiente enlace!

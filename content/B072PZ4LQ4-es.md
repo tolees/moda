@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072PZ4LQ4/?tag=tolees-21'
 descuento: '77.88'
+average: '7.96'
 ---
 
 Ahora mismo tienes [Esprit 077ee1f013  Blusa Mujer   Black 001   36](https://www.amazon.es/dp/B072PZ4LQ4/?tag=tolees-21) a 7.96 EUR (original: 35.99 EUR) (77.88 %  de descuento) en el siguiente enlace!

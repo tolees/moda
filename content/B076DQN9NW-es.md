@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076DQN9NW/?tag=tolees-21'
 descuento: '54.56'
+average: '19.99'
 ---
 
 Está [Gafas Polarizadas Deporte Bici Anti UV400 Gafas Para Correr Running Antivaho con 5 Lentes Intercambiables Adaptadas también a Ciclismo Bicicleta de Montaña MTB y Carrera para Hombre y Mujer](https://www.amazon.es/dp/B076DQN9NW/?tag=tolees-21) con 54.56 de descuento por 19.99 EUR (original: 43.99 EUR) en el siguiente enlace!

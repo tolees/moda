@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078HHG5C1/?tag=tolees-21'
 descuento: '51.82'
+average: '14.45'
 ---
 
 Tienes [Springfield Denim Slim Lavado Medio con Rotos Vaqueros Slim  Hombre  Azul  Gama Azules    Tamaño del Fabricante:36 ](https://www.amazon.es/dp/B078HHG5C1/?tag=tolees-21) con un 51.82 % de descuento con precio de oferta de 14.45 EUR (original: 29.99 EUR) en el siguiente enlace!

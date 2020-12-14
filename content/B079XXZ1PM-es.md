@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079XXZ1PM/?tag=tolees-21'
 descuento: '56.03'
+average: '10.09'
 ---
 
 Ahora mismo tienes [Puma Liga Training Jersey T-Shirt  Hombre  Pepper Green/White  XXL](https://www.amazon.es/dp/B079XXZ1PM/?tag=tolees-21) a 10.09 EUR (original: 22.95 EUR) (56.03 %  de descuento) en el siguiente enlace!

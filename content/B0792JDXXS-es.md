@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0792JDXXS/?tag=tolees-21'
 descuento: '59.76'
+average: '16.09'
 ---
 
 Tienes [Quiksilver Haleiwa Plus  Zapatos de Playa y Piscina para Hombre  Negro  Black/Grey/Blue-Combo Xksb   45 EU](https://www.amazon.es/dp/B0792JDXXS/?tag=tolees-21) con un 59.76 % de descuento con precio de oferta de 16.09 EUR (original: 39.99 EUR) en el siguiente enlace!

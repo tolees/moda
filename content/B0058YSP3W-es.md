@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0058YSP3W/?tag=tolees-21'
 descuento: '42.09'
+average: '28.95'
 ---
 
 Está [Columbia Fleece Fast Trek II Full Zip Chaqueta Polar  Hombre  Gris  Grill   XXL](https://www.amazon.es/dp/B0058YSP3W/?tag=tolees-21) con 42.09 de descuento por 28.95 EUR (original: 49.99 EUR) en el siguiente enlace!

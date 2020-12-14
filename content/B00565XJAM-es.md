@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00565XJAM/?tag=tolees-21'
 descuento: '44.29'
+average: '38.99'
 ---
 
 Está [Ultrasport Everest  Chaqueta Softshell para hombre  Negro/Verde  XL](https://www.amazon.es/dp/B00565XJAM/?tag=tolees-21) con 44.29 de descuento por 38.99 EUR (original: 69.99 EUR) en el siguiente enlace!

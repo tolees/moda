@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072HSKG95/?tag=tolees-21'
 descuento: '61.14'
+average: '8.3'
 ---
 
 Ahora mismo tienes [Inside 4SPGN07  Sudadera para Mujer  Multicolor  Medium  Tamaño del Fabricante:M ](https://www.amazon.es/dp/B072HSKG95/?tag=tolees-21) a 8.3 EUR (original: 21.36 EUR) (61.14 %  de descuento) en el siguiente enlace!

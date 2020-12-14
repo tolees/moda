@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0784NDGB5/?tag=tolees-21'
 descuento: '75.67'
+average: '9.73'
 ---
 
 Tienes [Esprit 028ee1j002 Sudadera   Light Grey 5 044   Medium para Mujer](https://www.amazon.es/dp/B0784NDGB5/?tag=tolees-21) con un 75.67 % de descuento con precio de oferta de 9.73 EUR (original: 39.99 EUR) en el siguiente enlace!

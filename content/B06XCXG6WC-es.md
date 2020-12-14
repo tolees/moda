@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XCXG6WC/?tag=tolees-21'
 descuento: '79.42'
+average: '8.23'
 ---
 
 Tienes [Cortefiel 6217788  Jersey para Mujer  Azul  L](https://www.amazon.es/dp/B06XCXG6WC/?tag=tolees-21) con un 79.42 % de descuento con precio de oferta de 8.23 EUR (original: 39.99 EUR) en el siguiente enlace!

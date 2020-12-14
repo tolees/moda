@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B016QM5B5Y/?tag=tolees-21'
 descuento: '50.13'
+average: '19.9'
 ---
 
 Ahora mismo tienes [Tommy Hilfiger Core Stretch Slim CNECK tee  Camiseta para Hombre  Blanco  Bright White 100  XX-Large](https://www.amazon.es/dp/B016QM5B5Y/?tag=tolees-21) a 19.9 EUR (original: 39.9 EUR) (50.13 %  de descuento) en el siguiente enlace!

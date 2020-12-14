@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CCVZYZP/?tag=tolees-21'
 descuento: '73.38'
+average: '26.61'
 ---
 
 Está [Lee Luke Vaqueros Tapered  Azul  Vintage Worn Eq   W31/L34 para Hombre](https://www.amazon.es/dp/B07CCVZYZP/?tag=tolees-21) con 73.38 de descuento por 26.61 EUR (original: 99.95 EUR) en el siguiente enlace!

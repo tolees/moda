@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07LCSHGF8/?tag=tolees-21'
 descuento: '47.63'
+average: '20.95'
 ---
 
 Tienes [Birkenstock Arizona EVA  Sandalias de Punta Descubierta para Mujer  Rosa Coral  38 EU](https://www.amazon.es/dp/B07LCSHGF8/?tag=tolees-21) con un 47.63 % de descuento con precio de oferta de 20.95 EUR (original: 40 EUR) en el siguiente enlace!

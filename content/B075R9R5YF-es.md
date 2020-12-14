@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075R9R5YF/?tag=tolees-21'
 descuento: '44.60'
+average: '188.29'
 ---
 
 Ahora mismo tienes [Trangoworld Sieber Complet Chaqueta  Hombre  Kaki  M](https://www.amazon.es/dp/B075R9R5YF/?tag=tolees-21) a 188.29 EUR (original: 339.9 EUR) (44.60 %  de descuento) en el siguiente enlace!

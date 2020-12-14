@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GBFWHCB/?tag=tolees-21'
 descuento: '40.10'
+average: '11.95'
 ---
 
 Está [Adidas Eezay Flip Flop  Zapatos de Playa y Piscina para Mujer  Nero FTWR White/Core Black  40.5 EU](https://www.amazon.es/dp/B07GBFWHCB/?tag=tolees-21) con 40.10 de descuento por 11.95 EUR (original: 19.95 EUR) en el siguiente enlace!

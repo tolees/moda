@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07K2VHD2Z/?tag=tolees-21'
 descuento: '50.93'
+average: '26.99'
 ---
 
 Ahora mismo tienes [Hurley - Sudadera con capucha para hombre  Gris  talla S "M Surf Check One & Only"](https://www.amazon.es/dp/B07K2VHD2Z/?tag=tolees-21) a 26.99 EUR (original: 55 EUR) (50.93 %  de descuento) en el siguiente enlace!

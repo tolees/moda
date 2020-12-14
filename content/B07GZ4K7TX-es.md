@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GZ4K7TX/?tag=tolees-21'
 descuento: '42.15'
+average: '23.11'
 ---
 
 Tienes [Desigual Girl Knit Dress Straps  Vest_Swan  Vestido  Rojo  Pink Fuschia 3022   140  Talla del Fabricante: 9/10  para Niñas](https://www.amazon.es/dp/B07GZ4K7TX/?tag=tolees-21) con un 42.15 % de descuento con precio de oferta de 23.11 EUR (original: 39.95 EUR) en el siguiente enlace!

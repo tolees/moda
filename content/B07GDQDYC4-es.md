@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GDQDYC4/?tag=tolees-21'
 descuento: '50.83'
+average: '29.5'
 ---
 
 Ahora mismo tienes [Levi s Barstow Western Camisa   Wildcat Indigo 2 0303   X-Large para Hombre](https://www.amazon.es/dp/B07GDQDYC4/?tag=tolees-21) a 29.5 EUR (original: 60 EUR) (50.83 %  de descuento) en el siguiente enlace!

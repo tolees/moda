@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077XNLPY2/?tag=tolees-21'
 descuento: '68.25'
+average: '12.7'
 ---
 
 Está [Under Armour - Camiseta de Manga Corta para Hombre  Estilo Deportivo  Hombre  1320715-890  Radio Red/Black  Small](https://www.amazon.es/dp/B077XNLPY2/?tag=tolees-21) con 68.25 de descuento por 12.7 EUR (original: 40 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XSHM4MN/?tag=tolees-21'
 descuento: '57.95'
+average: '12.61'
 ---
 
 Está [Esprit 067ee1f038  Blusa Mujer  Rosa  Pastel Pink 695   34](https://www.amazon.es/dp/B06XSHM4MN/?tag=tolees-21) con 57.95 de descuento por 12.61 EUR (original: 29.99 EUR) en el siguiente enlace!

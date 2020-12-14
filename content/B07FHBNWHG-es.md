@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FHBNWHG/?tag=tolees-21'
 descuento: '51.83'
+average: '14.45'
 ---
 
 Está [Levi s SS Set-in Sunset Pocket  Camiseta para Hombre  Marrón  Fig Purple Heather 0055  Large](https://www.amazon.es/dp/B07FHBNWHG/?tag=tolees-21) con 51.83 de descuento por 14.45 EUR (original: 30 EUR) en el siguiente enlace!

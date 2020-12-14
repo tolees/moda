@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01L416NKO/?tag=tolees-21'
 descuento: '39.85'
+average: '11.97'
 ---
 
 Tienes [Havaianas Flash Urban  Sandalias para Mujer  Multicolor  Black/Silver   43/44 EU  41/42 Brazilian ](https://www.amazon.es/dp/B01L416NKO/?tag=tolees-21) con un 39.85 % de descuento con precio de oferta de 11.97 EUR (original: 19.9 EUR) en el siguiente enlace!

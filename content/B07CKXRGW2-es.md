@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CKXRGW2/?tag=tolees-21'
 descuento: '52.24'
+average: '47.74'
 ---
 
 Tienes [Scotch & Soda Ralston-Garment Dye Colours  Vaqueros Straight para Hombre  Rosa  Terracotta 1188  W33/L32](https://www.amazon.es/dp/B07CKXRGW2/?tag=tolees-21) con un 52.24 % de descuento con precio de oferta de 47.74 EUR (original: 99.95 EUR) en el siguiente enlace!

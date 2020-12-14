@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01LZM9MKK/?tag=tolees-21'
 descuento: '73.70'
+average: '14.99'
 ---
 
 Está [Smilodox Slim Fit Jacket Chaqueta  Gris  Small para Hombre](https://www.amazon.es/dp/B01LZM9MKK/?tag=tolees-21) con 73.70 de descuento por 14.99 EUR (original: 56.99 EUR) en el siguiente enlace!

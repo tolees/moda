@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01LZPT23X/?tag=tolees-21'
 descuento: '48.87'
+average: '26.33'
 ---
 
 Tienes [Ho soccer 0505533 Pantalón de Portero Corto  Hombre  Negro  L](https://www.amazon.es/dp/B01LZPT23X/?tag=tolees-21) con un 48.87 % de descuento con precio de oferta de 26.33 EUR (original: 51.5 EUR) en el siguiente enlace!

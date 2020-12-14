@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0196NJFKC/?tag=tolees-21'
 descuento: '60.33'
+average: '47.6'
 ---
 
 Está [bollé Jude Gafas  Unisex Adulto  Morado  Matte Violet   M](https://www.amazon.es/dp/B0196NJFKC/?tag=tolees-21) con 60.33 de descuento por 47.6 EUR (original: 119.99 EUR) en el siguiente enlace!

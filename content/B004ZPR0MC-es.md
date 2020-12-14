@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B004ZPR0MC/?tag=tolees-21'
 descuento: '38.55'
+average: '16.9'
 ---
 
 Está [Victor Hombre Pantalón Corto Longfighter  Blanco  M](https://www.amazon.es/dp/B004ZPR0MC/?tag=tolees-21) con 38.55 de descuento por 16.9 EUR (original: 27.5 EUR) en el siguiente enlace!

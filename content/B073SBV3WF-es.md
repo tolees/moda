@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073SBV3WF/?tag=tolees-21'
 descuento: '51.51'
+average: '29.07'
 ---
 
 Está [Trucco - Vestido Estampado Falda Cruzada  Mujer  Rosa  Rosa Claro   42  Tamaño del fabricante:42 ](https://www.amazon.es/dp/B073SBV3WF/?tag=tolees-21) con 51.51 de descuento por 29.07 EUR (original: 59.95 EUR) en el siguiente enlace!

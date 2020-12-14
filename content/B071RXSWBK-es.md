@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071RXSWBK/?tag=tolees-21'
 descuento: '53.32'
+average: '11.45'
 ---
 
 Ahora mismo tienes [Inside 4SOGC10 Sudadera  Blanco  Small  Tamaño del Fabricante:S  para Mujer](https://www.amazon.es/dp/B071RXSWBK/?tag=tolees-21) a 11.45 EUR (original: 24.53 EUR) (53.32 %  de descuento) en el siguiente enlace!

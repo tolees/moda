@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KYNTJ3S/?tag=tolees-21'
 descuento: '65.75'
+average: '17.12'
 ---
 
 Está [Springfield 3.T.Ap.Biker Antelina Col Chaqueta  Gama Azules 19   Tamaño del Fabricante:36  para Mujer](https://www.amazon.es/dp/B07KYNTJ3S/?tag=tolees-21) con 65.75 de descuento por 17.12 EUR (original: 49.99 EUR) en el siguiente enlace!

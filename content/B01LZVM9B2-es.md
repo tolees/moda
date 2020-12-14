@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01LZVM9B2/?tag=tolees-21'
 descuento: '77.15'
+average: '14.08'
 ---
 
 Tienes [Q/S designed by - s.Oliver 47703516667  Chaqueta para Hombre  Negro  Black 9999   Medium](https://www.amazon.es/dp/B01LZVM9B2/?tag=tolees-21) con un 77.15 % de descuento con precio de oferta de 14.08 EUR (original: 61.62 EUR) en el siguiente enlace!

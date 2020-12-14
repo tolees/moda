@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B016OPLM6U/?tag=tolees-21'
 descuento: '73.13'
+average: '96.2'
 ---
 
 Está [Jimmy Choo Cora/S 6P J33 56  Gafas de Sol para Mujer  Gris  Gry Bwgltmud/Brown FL Gold ](https://www.amazon.es/dp/B016OPLM6U/?tag=tolees-21) con 73.13 de descuento por 96.2 EUR (original: 358 EUR) en el siguiente enlace!

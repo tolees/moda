@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N0EPWF0/?tag=tolees-21'
 descuento: '78.64'
+average: '10.68'
 ---
 
 Está [ESPRIT Collection 027eo1f001  Blusa Mujer  Azul  Navy   38](https://www.amazon.es/dp/B01N0EPWF0/?tag=tolees-21) con 78.64 de descuento por 10.68 EUR (original: 49.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071ZS9FV7/?tag=tolees-21'
 descuento: '52.85'
+average: '23.57'
 ---
 
 Tienes [ONLY Onlstarlight Aw Fur Parka Cc Otw  Parka Mujer  Verde Oscuro  Jet Set    40  Talla del fabricante: Large ](https://www.amazon.es/dp/B071ZS9FV7/?tag=tolees-21) con un 52.85 % de descuento con precio de oferta de 23.57 EUR (original: 49.99 EUR) en el siguiente enlace!

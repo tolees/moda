@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073WVBWHC/?tag=tolees-21'
 descuento: '47.16'
+average: '15.45'
 ---
 
 Está [Volcom Radical Daze tee Camiseta  Mujer  Blanco  Large](https://www.amazon.es/dp/B073WVBWHC/?tag=tolees-21) con 47.16 de descuento por 15.45 EUR (original: 29.24 EUR) en el siguiente enlace!

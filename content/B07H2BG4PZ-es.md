@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07H2BG4PZ/?tag=tolees-21'
 descuento: '40.01'
+average: '23.99'
 ---
 
 Está [Selighting Bolsa Alforja Trasera Bicicleta Impermeable Bolso de Viaje Portátil Extensible Bolsa de Hombro para Ciclismo al Aire Libre 10L-25L](https://www.amazon.es/dp/B07H2BG4PZ/?tag=tolees-21) con 40.01 de descuento por 23.99 EUR (original: 39.99 EUR) en el siguiente enlace!

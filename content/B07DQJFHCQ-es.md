@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DQJFHCQ/?tag=tolees-21'
 descuento: '53.65'
+average: '25.49'
 ---
 
 Está [Burton Oak Sudadera  Niños  Azul  Mood Indigo Heather   S](https://www.amazon.es/dp/B07DQJFHCQ/?tag=tolees-21) con 53.65 de descuento por 25.49 EUR (original: 55 EUR) en el siguiente enlace!

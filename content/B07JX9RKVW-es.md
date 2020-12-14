@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JX9RKVW/?tag=tolees-21'
 descuento: '43.70'
+average: '28.12'
 ---
 
 Está [XTI 86074  Bolso Bandolera para Mujer  Marrón  Camel   32x20x17 cm  W x H x L ](https://www.amazon.es/dp/B07JX9RKVW/?tag=tolees-21) con 43.70 de descuento por 28.12 EUR (original: 49.95 EUR) en el siguiente enlace!

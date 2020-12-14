@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DGP8G3Y/?tag=tolees-21'
 descuento: '88.21'
+average: '23.58'
 ---
 
 Tienes [MAMALICIOUS Mlina Down Jacket  Abrigo premamá para Mujer  Azul  Navy Blazer  38  Talla del Fabricante: Small ](https://www.amazon.es/dp/B07DGP8G3Y/?tag=tolees-21) con un 88.21 % de descuento con precio de oferta de 23.58 EUR (original: 199.99 EUR) en el siguiente enlace!

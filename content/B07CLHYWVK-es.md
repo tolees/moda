@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CLHYWVK/?tag=tolees-21'
 descuento: '47.24'
+average: '18.99'
 ---
 
 Está [Hawiton Bikini Sexy Mujer Push up Trajes de Baño Mujer 2019 Dos Piezas V Bikinis Floral Halter Traje de Baño de Playa Bandeau](https://www.amazon.es/dp/B07CLHYWVK/?tag=tolees-21) con 47.24 de descuento por 18.99 EUR (original: 35.99 EUR) en el siguiente enlace!

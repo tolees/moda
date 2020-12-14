@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DL8ZJR8/?tag=tolees-21'
 descuento: '38.91'
+average: '18.32'
 ---
 
 Ahora mismo tienes [Springfield Frq Satin Solid  Camisa Casual para Hombre   Gama Azules 11   Small  Tamaño del Fabricante:S ](https://www.amazon.es/dp/B07DL8ZJR8/?tag=tolees-21) a 18.32 EUR (original: 29.99 EUR) (38.91 %  de descuento) en el siguiente enlace!

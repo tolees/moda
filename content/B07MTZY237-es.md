@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MTZY237/?tag=tolees-21'
 descuento: '40.20'
+average: '95.79'
 ---
 
 Está [Karen Millen Snake Print with Utility Details Collection Blusa  41  42  Talla del Fabricante:14  para Mujer](https://www.amazon.es/dp/B07MTZY237/?tag=tolees-21) con 40.20 de descuento por 95.79 EUR (original: 160.18 EUR) en el siguiente enlace!

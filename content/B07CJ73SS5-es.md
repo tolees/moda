@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CJ73SS5/?tag=tolees-21'
 descuento: '55.26'
+average: '12.83'
 ---
 
 Está [Only Onllisa L/s Zip Highneck Swt Sudadera   Misty Rose AOP:Kisses Red Plum   42  Talla del Fabricante: Large  para Mujer](https://www.amazon.es/dp/B07CJ73SS5/?tag=tolees-21) con 55.26 de descuento por 12.83 EUR (original: 28.68 EUR) en el siguiente enlace!

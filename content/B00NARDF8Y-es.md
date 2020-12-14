@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00NARDF8Y/?tag=tolees-21'
 descuento: '68.42'
+average: '11.15'
 ---
 
 Ahora mismo tienes [SELECTED HOMME One Mix Phil Shirt LS Noos ID  Camisa para Hombre  Blau  Navy Blazer  S](https://www.amazon.es/dp/B00NARDF8Y/?tag=tolees-21) a 11.15 EUR (original: 35.31 EUR) (68.42 %  de descuento) en el siguiente enlace!

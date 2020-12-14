@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0768GD3WL/?tag=tolees-21'
 descuento: '52.46'
+average: '11.88'
 ---
 
 Tienes [Springfield 6792944 Camisa  Azul  Blue   Tamaño del Fabricante:40 para Mujer](https://www.amazon.es/dp/B0768GD3WL/?tag=tolees-21) con un 52.46 % de descuento con precio de oferta de 11.88 EUR (original: 24.99 EUR) en el siguiente enlace!

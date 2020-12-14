@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MSD0XKM/?tag=tolees-21'
 descuento: '52.60'
+average: '14.22'
 ---
 
 Está [The North Face S/S Red Box tee Camiseta de Manga Corta  Hombre  Gris  TNF Medium Grey Heather   S](https://www.amazon.es/dp/B01MSD0XKM/?tag=tolees-21) con 52.60 de descuento por 14.22 EUR (original: 30 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DLDQY5X/?tag=tolees-21'
 descuento: '30.00'
+average: '18.2'
 ---
 
 Tienes [AURIQUE GTQ3_05 Mallas de Entrenamiento Rojo Port Royale  36  Talla del Fabricante: X-Small ](https://www.amazon.es/dp/B07DLDQY5X/?tag=tolees-21) con un 30.00 % de descuento con precio de oferta de 18.2 EUR (original: 26 EUR) en el siguiente enlace!

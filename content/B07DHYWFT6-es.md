@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DHYWFT6/?tag=tolees-21'
 descuento: '50.00'
+average: '49.95'
 ---
 
 Está [Geox U Kaven C  Zapatillas para Hombre  Gris  Grey/Stone C1071   41 EU](https://www.amazon.es/dp/B07DHYWFT6/?tag=tolees-21) con 50.00 de descuento por 49.95 EUR (original: 99.9 EUR) en el siguiente enlace!

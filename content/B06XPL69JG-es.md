@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XPL69JG/?tag=tolees-21'
 descuento: '49.07'
+average: '25.44'
 ---
 
 Tienes [Desigual TS_Silvia Camisa Manga Larga  Negro 2000  Medium para Mujer](https://www.amazon.es/dp/B06XPL69JG/?tag=tolees-21) con un 49.07 % de descuento con precio de oferta de 25.44 EUR (original: 49.95 EUR) en el siguiente enlace!

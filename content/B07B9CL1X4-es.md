@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07B9CL1X4/?tag=tolees-21'
 descuento: '58.26'
+average: '64.69'
 ---
 
 Tienes [Panama Jack Felicia  Botines para Mujer  Gris  Grey B24   38 EU](https://www.amazon.es/dp/B07B9CL1X4/?tag=tolees-21) con un 58.26 % de descuento con precio de oferta de 64.69 EUR (original: 155 EUR) en el siguiente enlace!

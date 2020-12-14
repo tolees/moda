@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01BJSZU60/?tag=tolees-21'
 descuento: '59.97'
+average: '11.98'
 ---
 
 Está [Jako Striker  Chaqueta de Poliéster Infantil  Rojo  5-6 años](https://www.amazon.es/dp/B01BJSZU60/?tag=tolees-21) con 59.97 de descuento por 11.98 EUR (original: 29.93 EUR) en el siguiente enlace!

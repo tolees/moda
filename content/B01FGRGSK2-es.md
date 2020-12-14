@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01FGRGSK2/?tag=tolees-21'
 descuento: '78.83'
+average: '76.84'
 ---
 
 Tienes [Fendi FF 0156/S NR RMG  Gafas de sol para Mujer  Negro  Black Pallad/Brown Grey  51](https://www.amazon.es/dp/B01FGRGSK2/?tag=tolees-21) con un 78.83 % de descuento con precio de oferta de 76.84 EUR (original: 363 EUR) en el siguiente enlace!

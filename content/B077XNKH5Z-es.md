@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077XNKH5Z/?tag=tolees-21'
 descuento: '43.48'
+average: '31.08'
 ---
 
 Está [Under Armour Rival Fleece Logo Hoodie Sudadera  Hombre  Gris  Steel Light Heather/Black 035   S](https://www.amazon.es/dp/B077XNKH5Z/?tag=tolees-21) con 43.48 de descuento por 31.08 EUR (original: 54.99 EUR) en el siguiente enlace!

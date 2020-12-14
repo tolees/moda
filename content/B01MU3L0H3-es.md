@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MU3L0H3/?tag=tolees-21'
 descuento: '69.99'
+average: '6.3'
 ---
 
 Está [RED WAGON Conjunto de Pijama de Pantalón Corto para Niño  Blanco  White   4 años](https://www.amazon.es/dp/B01MU3L0H3/?tag=tolees-21) con 69.99 de descuento por 6.3 EUR (original: 20.99 EUR) en el siguiente enlace!

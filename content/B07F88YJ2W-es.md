@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F88YJ2W/?tag=tolees-21'
 descuento: '74.40'
+average: '61.44'
 ---
 
 Está [Burton Runestone Chaqueta de Snowboard  Mujer  Verde  Clover/Forest Night/Hickory   XS](https://www.amazon.es/dp/B07F88YJ2W/?tag=tolees-21) con 74.40 de descuento por 61.44 EUR (original: 240 EUR) en el siguiente enlace!

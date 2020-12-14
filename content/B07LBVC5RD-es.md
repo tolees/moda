@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07LBVC5RD/?tag=tolees-21'
 descuento: '38.94'
+average: '25.95'
 ---
 
 Tienes [Calvin Klein Low Rise Trunk 3PK Bóxer  Schwarz  B - Black/Cayenne/Airforce WB Hjx   XS para Hombre](https://www.amazon.es/dp/B07LBVC5RD/?tag=tolees-21) con un 38.94 % de descuento con precio de oferta de 25.95 EUR (original: 42.5 EUR) en el siguiente enlace!

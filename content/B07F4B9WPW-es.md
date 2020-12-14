@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F4B9WPW/?tag=tolees-21'
 descuento: '80.28'
+average: '35.49'
 ---
 
 Ahora mismo tienes [Sebago Boot Suede W  Botines para Mujer  Verde  Vert 909   37 EU](https://www.amazon.es/dp/B07F4B9WPW/?tag=tolees-21) a 35.49 EUR (original: 180 EUR) (80.28 %  de descuento) en el siguiente enlace!

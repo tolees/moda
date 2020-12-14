@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CVNX61L/?tag=tolees-21'
 descuento: '47.32'
+average: '57.95'
 ---
 
 Ahora mismo tienes [Levi s 511 Slim Fit  Vaqueros para Hombre  Azul  Coywolf Adapt 2964   28W / 32L](https://www.amazon.es/dp/B07CVNX61L/?tag=tolees-21) a 57.95 EUR (original: 110 EUR) (47.32 %  de descuento) en el siguiente enlace!

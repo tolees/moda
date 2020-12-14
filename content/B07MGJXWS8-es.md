@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MGJXWS8/?tag=tolees-21'
 descuento: '81.32'
+average: '8.59'
 ---
 
 Tienes [Esprit 029EE1F049 Blusa  Rot  Red 630   38  Talla del Fabricante: 36  para Mujer](https://www.amazon.es/dp/B07MGJXWS8/?tag=tolees-21) con un 81.32 % de descuento con precio de oferta de 8.59 EUR (original: 45.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D9CNQZK/?tag=tolees-21'
 descuento: '74.22'
+average: '10.3'
 ---
 
 Está [XTI 55886  Botines para Niñas  Marrón Taupe  33 EU](https://www.amazon.es/dp/B07D9CNQZK/?tag=tolees-21) con 74.22 de descuento por 10.3 EUR (original: 39.95 EUR) en el siguiente enlace!

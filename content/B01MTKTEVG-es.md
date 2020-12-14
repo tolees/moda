@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MTKTEVG/?tag=tolees-21'
 descuento: '72.52'
+average: '24.72'
 ---
 
 Está [Bugatti J95043  Zapatos de Cordones Oxford para Mujer  Beige  Natur 650   39 EU](https://www.amazon.es/dp/B01MTKTEVG/?tag=tolees-21) con 72.52 de descuento por 24.72 EUR (original: 89.95 EUR) en el siguiente enlace!

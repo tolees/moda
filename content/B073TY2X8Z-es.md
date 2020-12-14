@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073TY2X8Z/?tag=tolees-21'
 descuento: '57.74'
+average: '8.43'
 ---
 
 Ahora mismo tienes [Adidas Duramo Slide  Chanclas Unisex Adulto  Rojo White/Collegiate Red  54 EU](https://www.amazon.es/dp/B073TY2X8Z/?tag=tolees-21) a 8.43 EUR (original: 19.95 EUR) (57.74 %  de descuento) en el siguiente enlace!

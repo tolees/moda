@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0771XVQ4P/?tag=tolees-21'
 descuento: '50.42'
+average: '32.22'
 ---
 
 Está [Columbia Camisa de Excursionismo de Manga Larga para Hombre  Silver Ridge II Long Sleeve Shirt  Gris  Grill   S](https://www.amazon.es/dp/B0771XVQ4P/?tag=tolees-21) con 50.42 de descuento por 32.22 EUR (original: 64.99 EUR) en el siguiente enlace!

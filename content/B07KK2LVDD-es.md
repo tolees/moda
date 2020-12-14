@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KK2LVDD/?tag=tolees-21'
 descuento: '51.84'
+average: '33.71'
 ---
 
 Tienes [HotOne - Bolso Mochila de Otra Piel para Mujer M  Color  Talla M](https://www.amazon.es/dp/B07KK2LVDD/?tag=tolees-21) con un 51.84 % de descuento con precio de oferta de 33.71 EUR (original: 69.99 EUR) en el siguiente enlace!

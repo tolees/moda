@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00VWZP5ES/?tag=tolees-21'
 descuento: '65.00'
+average: '52.48'
 ---
 
 Ahora mismo tienes [G-STAR RAW Attacc Mid Straight Wmn  Vaqueros para Mujer  Blue  Medium Aged 071  W33/L34](https://www.amazon.es/dp/B00VWZP5ES/?tag=tolees-21) a 52.48 EUR (original: 149.95 EUR) (65.00 %  de descuento) en el siguiente enlace!

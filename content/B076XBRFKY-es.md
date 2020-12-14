@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076XBRFKY/?tag=tolees-21'
 descuento: '72.64'
+average: '16.39'
 ---
 
 Está [Geox Jr Piuma Ballerine D  Bailarinas para Niñas  Plateado  Silver   38 EU](https://www.amazon.es/dp/B076XBRFKY/?tag=tolees-21) con 72.64 de descuento por 16.39 EUR (original: 59.9 EUR) en el siguiente enlace!

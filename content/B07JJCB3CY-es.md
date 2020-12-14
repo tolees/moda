@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JJCB3CY/?tag=tolees-21'
 descuento: '50.19'
+average: '52.3'
 ---
 
 Está [Armani Exchange J13-Slim Vaqueros Slim  Marrón  Fallen Rock 1742   W30/L34  Talla del Fabricante: 30  para Hombre](https://www.amazon.es/dp/B07JJCB3CY/?tag=tolees-21) con 50.19 de descuento por 52.3 EUR (original: 105 EUR) en el siguiente enlace!

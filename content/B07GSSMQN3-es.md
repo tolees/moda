@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GSSMQN3/?tag=tolees-21'
 descuento: '43.81'
+average: '19.66'
 ---
 
 Está [Columbia Mujer Camiseta  ZERO RULES SHORT SLEEVE SHIRT  Poliéster  Azul  Pale Blue Heather   Talla: XS  1533571](https://www.amazon.es/dp/B07GSSMQN3/?tag=tolees-21) con 43.81 de descuento por 19.66 EUR (original: 34.99 EUR) en el siguiente enlace!

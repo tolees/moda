@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079K7C5HR/?tag=tolees-21'
 descuento: '70.04'
+average: '29.95'
 ---
 
 Está [Lee Morton Vaqueros Rectos  Azul  Mid Blue Ro   32W / 30L para Hombre](https://www.amazon.es/dp/B079K7C5HR/?tag=tolees-21) con 70.04 de descuento por 29.95 EUR (original: 99.95 EUR) en el siguiente enlace!

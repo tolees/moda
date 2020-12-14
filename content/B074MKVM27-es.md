@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074MKVM27/?tag=tolees-21'
 descuento: '57.90'
+average: '9.22'
 ---
 
 Ahora mismo tienes [Havaianas Urban Basic  Chanclas para Hombre  Azul  Navy Blue/indigo Blue   41/42 EU  39/40 Brazilian ](https://www.amazon.es/dp/B074MKVM27/?tag=tolees-21) a 9.22 EUR (original: 21.9 EUR) (57.90 %  de descuento) en el siguiente enlace!

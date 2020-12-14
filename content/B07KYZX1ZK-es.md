@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KYZX1ZK/?tag=tolees-21'
 descuento: '52.82'
+average: '11.79'
 ---
 
 Ahora mismo tienes [Springfield 3.T.MD.Bandolera Tachas T  Bolso Bandolera para Mujer   Gamma Marron ](https://www.amazon.es/dp/B07KYZX1ZK/?tag=tolees-21) a 11.79 EUR (original: 24.99 EUR) (52.82 %  de descuento) en el siguiente enlace!

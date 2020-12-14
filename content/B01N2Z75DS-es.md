@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N2Z75DS/?tag=tolees-21'
 descuento: '70.18'
+average: '5.95'
 ---
 
 Tienes [Joma Derby II Camiseta de Portero  Hombre  Morado  S](https://www.amazon.es/dp/B01N2Z75DS/?tag=tolees-21) con un 70.18 % de descuento con precio de oferta de 5.95 EUR (original: 19.95 EUR) en el siguiente enlace!

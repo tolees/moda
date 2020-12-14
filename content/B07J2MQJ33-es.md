@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07J2MQJ33/?tag=tolees-21'
 descuento: '86.68'
+average: '11.99'
 ---
 
 Tienes [ASICS Light Jersey Pants Pantalones de Deporte  Negro  Performance Black 001   32  Talla del Fabricante: Small  para Hombre](https://www.amazon.es/dp/B07J2MQJ33/?tag=tolees-21) con un 86.68 % de descuento con precio de oferta de 11.99 EUR (original: 90 EUR) en el siguiente enlace!

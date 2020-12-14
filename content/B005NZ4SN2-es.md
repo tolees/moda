@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B005NZ4SN2/?tag=tolees-21'
 descuento: '88.85'
+average: '8.91'
 ---
 
 Ahora mismo tienes [Noppies - Pantalón premamá Slim fit para Mujer  Talla 34  Color Azul  Used Wash 052 ](https://www.amazon.es/dp/B005NZ4SN2/?tag=tolees-21) a 8.91 EUR (original: 79.94 EUR) (88.85 %  de descuento) en el siguiente enlace!

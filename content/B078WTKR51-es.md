@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078WTKR51/?tag=tolees-21'
 descuento: '87.63'
+average: '29.57'
 ---
 
 Tienes [Pedro del Hierro Lazo  Vestido Túnica para Mujer  Rosa  Gama Rosas/Morados 73   S](https://www.amazon.es/dp/B078WTKR51/?tag=tolees-21) con un 87.63 % de descuento con precio de oferta de 29.57 EUR (original: 239 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01DPLYS0S/?tag=tolees-21'
 descuento: '79.00'
+average: '15.75'
 ---
 
 Está [Les Sophistiquees - Canotta  Pack  Blusa Mujer  Blanco  S](https://www.amazon.es/dp/B01DPLYS0S/?tag=tolees-21) con 79.00 de descuento por 15.75 EUR (original: 75 EUR) en el siguiente enlace!

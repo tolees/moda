@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KPGFBX2/?tag=tolees-21'
 descuento: '86.15'
+average: '16.48'
 ---
 
 Tienes [REPLAY Wb9210.000.135 425 Falda  Negro  Black 98   32  Talla del Fabricante: 23  para Mujer](https://www.amazon.es/dp/B07KPGFBX2/?tag=tolees-21) con un 86.15 % de descuento con precio de oferta de 16.48 EUR (original: 119 EUR) en el siguiente enlace!

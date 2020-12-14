@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01HEXGKC2/?tag=tolees-21'
 descuento: '26.34'
+average: '19.88'
 ---
 
 Tienes [Crocs Classic Clog Kids  Zuecos Unisex Niños  Rojo  Pepper   23/24 EU](https://www.amazon.es/dp/B01HEXGKC2/?tag=tolees-21) con un 26.34 % de descuento con precio de oferta de 19.88 EUR (original: 26.99 EUR) en el siguiente enlace!

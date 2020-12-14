@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CFH44D5/?tag=tolees-21'
 descuento: '52.73'
+average: '28.36'
 ---
 
 Ahora mismo tienes [JACK & JONES Jjiliam Jjoriginal Am 741 Noos  Vaqueros Skinny para Hombre  Azul Blue Denim  W33/L36](https://www.amazon.es/dp/B07CFH44D5/?tag=tolees-21) a 28.36 EUR (original: 59.99 EUR) (52.73 %  de descuento) en el siguiente enlace!

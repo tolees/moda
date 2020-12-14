@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00WE7NH3O/?tag=tolees-21'
 descuento: '77.95'
+average: '7.91'
 ---
 
 Está [Manoukian Camisa Hombre Slim Azul Claro M](https://www.amazon.es/dp/B00WE7NH3O/?tag=tolees-21) con 77.95 de descuento por 7.91 EUR (original: 35.87 EUR) en el siguiente enlace!

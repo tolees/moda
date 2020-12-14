@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079RQC7YC/?tag=tolees-21'
 descuento: '60.00'
+average: '27.96'
 ---
 
 Ahora mismo tienes [Pepe Jeans Zen  Sudadera con Capucha para Hombre  Azul  Chatham Blue 586   M](https://www.amazon.es/dp/B079RQC7YC/?tag=tolees-21) a 27.96 EUR (original: 69.9 EUR) (60.00 %  de descuento) en el siguiente enlace!

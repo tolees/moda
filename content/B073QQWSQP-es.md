@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073QQWSQP/?tag=tolees-21'
 descuento: '68.10'
+average: '9.57'
 ---
 
 Está [find. Jersey con Cuello de Pico para Hombre  Beige  Sable   Large](https://www.amazon.es/dp/B073QQWSQP/?tag=tolees-21) con 68.10 de descuento por 9.57 EUR (original: 30 EUR) en el siguiente enlace!

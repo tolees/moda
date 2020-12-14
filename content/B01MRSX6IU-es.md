@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MRSX6IU/?tag=tolees-21'
 descuento: '72.10'
+average: '11.49'
 ---
 
 Está [Vila Clothes Vimaddie Bomber Jacket-Noos  Chaqueta para Mujer  Rosa  Rose Dust  X-Small](https://www.amazon.es/dp/B01MRSX6IU/?tag=tolees-21) con 72.10 de descuento por 11.49 EUR (original: 41.19 EUR) en el siguiente enlace!

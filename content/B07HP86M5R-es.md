@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HP86M5R/?tag=tolees-21'
 descuento: '45.87'
+average: '32.45'
 ---
 
 Ahora mismo tienes [Skechers Parton-Wilcon  Zapatos de Cordones Brogue para Hombre  Negro  Black Blk   41.5 EU](https://www.amazon.es/dp/B07HP86M5R/?tag=tolees-21) a 32.45 EUR (original: 59.95 EUR) (45.87 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078SZ1YFJ/?tag=tolees-21'
 descuento: '67.84'
+average: '32.16'
 ---
 
 Está [Timberland Boltero  Zapatos de Cordones Oxford para Mujer  Negro  Black Front 001   37 EU](https://www.amazon.es/dp/B078SZ1YFJ/?tag=tolees-21) con 67.84 de descuento por 32.16 EUR (original: 100 EUR) en el siguiente enlace!

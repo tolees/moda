@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N7JTQCT/?tag=tolees-21'
 descuento: '52.25'
+average: '8.5'
 ---
 
 Ahora mismo tienes [oodji Ultra Hombre Camisa Entallada a Lunares  Azul  сm 38 / ES 38 / XS](https://www.amazon.es/dp/B01N7JTQCT/?tag=tolees-21) a 8.5 EUR (original: 17.8 EUR) (52.25 %  de descuento) en el siguiente enlace!

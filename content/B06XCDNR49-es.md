@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XCDNR49/?tag=tolees-21'
 descuento: '49.72'
+average: '95.5'
 ---
 
 Está [G-STAR RAW Minor Slim Trench Wmn Abrigo  Marrón  Sahara 436   X-Small para Mujer](https://www.amazon.es/dp/B06XCDNR49/?tag=tolees-21) con 49.72 de descuento por 95.5 EUR (original: 189.95 EUR) en el siguiente enlace!

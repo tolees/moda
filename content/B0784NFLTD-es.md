@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0784NFLTD/?tag=tolees-21'
 descuento: '58.39'
+average: '16.64'
 ---
 
 Está [Esprit 038ee1f012 Blusa   Off White 110   40  Talla del Fabricante: 38  para Mujer](https://www.amazon.es/dp/B0784NFLTD/?tag=tolees-21) con 58.39 de descuento por 16.64 EUR (original: 39.99 EUR) en el siguiente enlace!

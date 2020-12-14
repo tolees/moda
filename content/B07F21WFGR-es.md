@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F21WFGR/?tag=tolees-21'
 descuento: '50.08'
+average: '32.45'
 ---
 
 Está [Timberland Union Wharf  Zapatillas para Hombre  Azul  Vintage Indigo Cc4   42 EU](https://www.amazon.es/dp/B07F21WFGR/?tag=tolees-21) con 50.08 de descuento por 32.45 EUR (original: 65 EUR) en el siguiente enlace!

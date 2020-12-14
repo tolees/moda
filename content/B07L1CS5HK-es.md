@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07L1CS5HK/?tag=tolees-21'
 descuento: '39.29'
+average: '9.1'
 ---
 
 Está [JACK & JONES Jcooval tee SS Crew Neck Camiseta  Blanco  White Fit:Reg   Medium para Hombre](https://www.amazon.es/dp/B07L1CS5HK/?tag=tolees-21) con 39.29 de descuento por 9.1 EUR (original: 14.99 EUR) en el siguiente enlace!

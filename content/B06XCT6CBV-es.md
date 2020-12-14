@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XCT6CBV/?tag=tolees-21'
 descuento: '51.99'
+average: '86.41'
 ---
 
 Tienes [Burton Vida Pantalón de Snowboard  Mujer  Negro  True   S](https://www.amazon.es/dp/B06XCT6CBV/?tag=tolees-21) con un 51.99 % de descuento con precio de oferta de 86.41 EUR (original: 180 EUR) en el siguiente enlace!

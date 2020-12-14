@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HKM2KVQ/?tag=tolees-21'
 descuento: '69.35'
+average: '8.58'
 ---
 
 Tienes [Mayoral 4300  Jersey para Niños   Rojo 38   2 años  Tamaño del Fabricante:2 ](https://www.amazon.es/dp/B07HKM2KVQ/?tag=tolees-21) con un 69.35 % de descuento con precio de oferta de 8.58 EUR (original: 27.99 EUR) en el siguiente enlace!

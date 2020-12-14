@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N6KSUA7/?tag=tolees-21'
 descuento: '50.62'
+average: '64.19'
 ---
 
 Ahora mismo tienes [Timberland Killington  Botas Clasicas para Hombre  Marrón  Trapper Tan Nubuck D51   43 EU](https://www.amazon.es/dp/B01N6KSUA7/?tag=tolees-21) a 64.19 EUR (original: 130 EUR) (50.62 %  de descuento) en el siguiente enlace!

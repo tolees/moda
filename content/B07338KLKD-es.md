@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07338KLKD/?tag=tolees-21'
 descuento: '55.70'
+average: '17.72'
 ---
 
 Tienes [FIND Vestido Camisero con Cuerpo Anudado para Mujer   Blanco  Weiß   36  Talla del Fabricante: X-Small ](https://www.amazon.es/dp/B07338KLKD/?tag=tolees-21) con un 55.70 % de descuento con precio de oferta de 17.72 EUR (original: 40 EUR) en el siguiente enlace!

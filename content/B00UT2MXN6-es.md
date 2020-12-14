@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00UT2MXN6/?tag=tolees-21'
 descuento: '50.00'
+average: '19.95'
 ---
 
 Ahora mismo tienes [Tommy Hilfiger Cotton Pant Iconic - Pantalones de Pijama para Mujer  Color Black 990  Talla 34](https://www.amazon.es/dp/B00UT2MXN6/?tag=tolees-21) a 19.95 EUR (original: 39.9 EUR) (50.00 %  de descuento) en el siguiente enlace!

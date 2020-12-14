@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072BHJDB4/?tag=tolees-21'
 descuento: '61.45'
+average: '73.24'
 ---
 
 Está [Roxy Jetty Jk Chaqueta para Nieve  Mujer  Rosa  Peacoat Stripe_2   M](https://www.amazon.es/dp/B072BHJDB4/?tag=tolees-21) con 61.45 de descuento por 73.24 EUR (original: 189.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DLJXC4Q/?tag=tolees-21'
 descuento: '72.87'
+average: '13.56'
 ---
 
 Ahora mismo tienes [Springfield 6Fo-Biker Antelina  Chaqueta para Hombre   Azul Marino 10   Small  Tamaño del Fabricante:S ](https://www.amazon.es/dp/B07DLJXC4Q/?tag=tolees-21) a 13.56 EUR (original: 49.99 EUR) (72.87 %  de descuento) en el siguiente enlace!

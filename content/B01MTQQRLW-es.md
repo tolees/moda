@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MTQQRLW/?tag=tolees-21'
 descuento: '61.12'
+average: '12.53'
 ---
 
 Está [New Look Tay Crepe Chaqueta de Traje  Negro  Black 1   40 para Mujer](https://www.amazon.es/dp/B01MTQQRLW/?tag=tolees-21) con 61.12 de descuento por 12.53 EUR (original: 32.23 EUR) en el siguiente enlace!

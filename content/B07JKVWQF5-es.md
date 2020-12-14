@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JKVWQF5/?tag=tolees-21'
 descuento: '46.28'
+average: '16.09'
 ---
 
 Tienes [XTI 86112  Bolso Bolera para Mujer   Blanco   17x13x8 cm  W x H x L ](https://www.amazon.es/dp/B07JKVWQF5/?tag=tolees-21) con un 46.28 % de descuento con precio de oferta de 16.09 EUR (original: 29.95 EUR) en el siguiente enlace!

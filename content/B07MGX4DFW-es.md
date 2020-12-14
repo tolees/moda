@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MGX4DFW/?tag=tolees-21'
 descuento: '63.32'
+average: '47.66'
 ---
 
 Ahora mismo tienes [G-STAR RAW 3301 Slim  Vaqueros para Hombre  Azul  Lt Aged Destroy 9136-1243   W33/L32](https://www.amazon.es/dp/B07MGX4DFW/?tag=tolees-21) a 47.66 EUR (original: 129.95 EUR) (63.32 %  de descuento) en el siguiente enlace!

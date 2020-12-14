@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07C8WS7J5/?tag=tolees-21'
 descuento: '50.00'
+average: '15'
 ---
 
 Tienes [Vans_Apparel Classic  Camiseta para Hombre  Verde  Darkest Spruce-White Rqi  Large](https://www.amazon.es/dp/B07C8WS7J5/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 15 EUR (original: 30 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078H2HJSZ/?tag=tolees-21'
 descuento: '67.79'
+average: '9.66'
 ---
 
 Ahora mismo tienes [Springfield 8953635  Vestido para Mujer   Gama Verdes   Large  Tamaño del Fabricante:L ](https://www.amazon.es/dp/B078H2HJSZ/?tag=tolees-21) a 9.66 EUR (original: 29.99 EUR) (67.79 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073QQNCS1/?tag=tolees-21'
 descuento: '47.10'
+average: '15.87'
 ---
 
 Ahora mismo tienes [FIND Jersey con Cuello de Pico para Hombre  Naranja  Furnace   Small](https://www.amazon.es/dp/B073QQNCS1/?tag=tolees-21) a 15.87 EUR (original: 30 EUR) (47.10 %  de descuento) en el siguiente enlace!

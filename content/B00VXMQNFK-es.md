@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00VXMQNFK/?tag=tolees-21'
 descuento: '65.00'
+average: '34.98'
 ---
 
 Tienes [G-STAR 3301 Tapered - Pantalones Vaqueros Hombre  color negro  talla W32/L32](https://www.amazon.es/dp/B00VXMQNFK/?tag=tolees-21) con un 65.00 % de descuento con precio de oferta de 34.98 EUR (original: 99.95 EUR) en el siguiente enlace!

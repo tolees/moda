@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KTK5T46/?tag=tolees-21'
 descuento: '75.62'
+average: '29.26'
 ---
 
 Está [Clarks Originals Ashton  Zapatos de Cordones Derby para Mujer  Negro Black Nubuck  40 EU](https://www.amazon.es/dp/B07KTK5T46/?tag=tolees-21) con 75.62 de descuento por 29.26 EUR (original: 120 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079G3V7ZW/?tag=tolees-21'
 descuento: '44.57'
+average: '19.4'
 ---
 
 Ahora mismo tienes [Under Armour Sportstyle Cotton Graphic Short Pantalón Corto  Hombre  Azul  Academy/White 408   L](https://www.amazon.es/dp/B079G3V7ZW/?tag=tolees-21) a 19.4 EUR (original: 35 EUR) (44.57 %  de descuento) en el siguiente enlace!

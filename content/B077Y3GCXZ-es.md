@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077Y3GCXZ/?tag=tolees-21'
 descuento: '63.60'
+average: '9.81'
 ---
 
 Ahora mismo tienes [HIKARO Sudadera con Print Mujer  Azul  Navy   36  Talla del fabricante: X-Small ](https://www.amazon.es/dp/B077Y3GCXZ/?tag=tolees-21) a 9.81 EUR (original: 26.95 EUR) (63.60 %  de descuento) en el siguiente enlace!

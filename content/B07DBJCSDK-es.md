@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DBJCSDK/?tag=tolees-21'
 descuento: '63.47'
+average: '4.73'
 ---
 
 Está [United Colors of Benetton T-Shirt L/s  Camiseta Niños  Marrón  Camel 3c7   134  Talla del Fabricante: Large ](https://www.amazon.es/dp/B07DBJCSDK/?tag=tolees-21) con 63.47 de descuento por 4.73 EUR (original: 12.95 EUR) en el siguiente enlace!

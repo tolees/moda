@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079TNZRYD/?tag=tolees-21'
 descuento: '38.57'
+average: '4.3'
 ---
 
 Está [oodji Ultra Mujer Camiseta Estampada de Algodón Sin Etiqueta  Rojo  ES 38 / S](https://www.amazon.es/dp/B079TNZRYD/?tag=tolees-21) con 38.57 de descuento por 4.3 EUR (original: 7 EUR) en el siguiente enlace!

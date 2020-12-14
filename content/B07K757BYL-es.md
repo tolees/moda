@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07K757BYL/?tag=tolees-21'
 descuento: '76.22'
+average: '19.02'
 ---
 
 Ahora mismo tienes [Levi s Plus Size Pl Western Blusa  Azul  Radio Starr  G2  0004   única  Talla del Fabricante: 2 x  para Mujer](https://www.amazon.es/dp/B07K757BYL/?tag=tolees-21) a 19.02 EUR (original: 80 EUR) (76.22 %  de descuento) en el siguiente enlace!

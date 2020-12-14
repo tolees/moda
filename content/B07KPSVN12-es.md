@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KPSVN12/?tag=tolees-21'
 descuento: '69.80'
+average: '23.86'
 ---
 
 Está [REPLAY M4006 .000.80279a Camisa  Azul  Azure 960   Small para Hombre](https://www.amazon.es/dp/B07KPSVN12/?tag=tolees-21) con 69.80 de descuento por 23.86 EUR (original: 79 EUR) en el siguiente enlace!

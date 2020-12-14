@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B008J3EABU/?tag=tolees-21'
 descuento: '35.72'
+average: '65.28'
 ---
 
 Ahora mismo tienes [Keen CLEARWATER CNX M-RAVEN /BURNT HENNA - Sandalias de material sintético hombre  Black-Gargoyle  42](https://www.amazon.es/dp/B008J3EABU/?tag=tolees-21) a 65.28 EUR (original: 101.55 EUR) (35.72 %  de descuento) en el siguiente enlace!

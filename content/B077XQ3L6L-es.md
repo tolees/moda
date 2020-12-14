@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077XQ3L6L/?tag=tolees-21'
 descuento: '58.00'
+average: '11.76'
 ---
 
 Ahora mismo tienes [Under Armour Ua Tech Tee 2.0 Camiseta de manga corta  Hombre  Azul  Deceit/Techno Teal   XXL](https://www.amazon.es/dp/B077XQ3L6L/?tag=tolees-21) a 11.76 EUR (original: 28 EUR) (58.00 %  de descuento) en el siguiente enlace!

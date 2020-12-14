@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FLYRBZ9/?tag=tolees-21'
 descuento: '74.02'
+average: '10.39'
 ---
 
 Está [Jennyfer 00dida  Abrigo para Mujer  Marfil  Ecru 1.0  Small](https://www.amazon.es/dp/B07FLYRBZ9/?tag=tolees-21) con 74.02 de descuento por 10.39 EUR (original: 39.99 EUR) en el siguiente enlace!

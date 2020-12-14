@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JH1FHHL/?tag=tolees-21'
 descuento: '25.06'
+average: '14.95'
 ---
 
 Ahora mismo tienes [PUMA Future Grip 19.4 Guantes De Portero  Hombre  Red Blast Black White  9](https://www.amazon.es/dp/B07JH1FHHL/?tag=tolees-21) a 14.95 EUR (original: 19.95 EUR) (25.06 %  de descuento) en el siguiente enlace!

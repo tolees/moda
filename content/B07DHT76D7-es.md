@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DHT76D7/?tag=tolees-21'
 descuento: '40.00'
+average: '59.99'
 ---
 
 Tienes [Quiksilver Keller Sudadera con Capucha  Hombre  Gris  Dark Grey Heather KRPH   Large  Tamaño del Fabricante:L ](https://www.amazon.es/dp/B07DHT76D7/?tag=tolees-21) con un 40.00 % de descuento con precio de oferta de 59.99 EUR (original: 99.99 EUR) en el siguiente enlace!

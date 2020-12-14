@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078HJJ56R/?tag=tolees-21'
 descuento: '59.10'
+average: '6.54'
 ---
 
 Ahora mismo tienes [Springfield 263737 Camiseta  Hombre  Azul  Gamma Azules   Small  Tamaño del Fabricante:S ](https://www.amazon.es/dp/B078HJJ56R/?tag=tolees-21) a 6.54 EUR (original: 15.99 EUR) (59.10 %  de descuento) en el siguiente enlace!

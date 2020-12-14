@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01D8GKE2Q/?tag=tolees-21'
 descuento: '73.65'
+average: '8.83'
 ---
 
 Ahora mismo tienes [Kanz Jacke 1/1 Arm  Chaqueta para Niños  Azul  Peacoat 3470  9 Mes](https://www.amazon.es/dp/B01D8GKE2Q/?tag=tolees-21) a 8.83 EUR (original: 33.51 EUR) (73.65 %  de descuento) en el siguiente enlace!

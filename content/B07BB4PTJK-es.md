@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BB4PTJK/?tag=tolees-21'
 descuento: '50.00'
+average: '10'
 ---
 
 Ahora mismo tienes [The North Face Y S/S T Camiseta Simple Dome  Hombre  Turkish Sea/High Rise Grey  XS](https://www.amazon.es/dp/B07BB4PTJK/?tag=tolees-21) a 10 EUR (original: 20 EUR) (50.00 %  de descuento) en el siguiente enlace!

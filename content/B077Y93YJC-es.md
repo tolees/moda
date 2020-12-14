@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077Y93YJC/?tag=tolees-21'
 descuento: '40.00'
+average: '27.57'
 ---
 
 Ahora mismo tienes [HIKARO Chaleco de Plumas con Capucha Hombre  Naranja  Orange   48  Talla del fabricante: Small ](https://www.amazon.es/dp/B077Y93YJC/?tag=tolees-21) a 27.57 EUR (original: 45.95 EUR) (40.00 %  de descuento) en el siguiente enlace!

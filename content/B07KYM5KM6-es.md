@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KYM5KM6/?tag=tolees-21'
 descuento: '56.55'
+average: '9.99'
 ---
 
 Tienes [Springfield 5DS Mao S.Jersey Jersey   Gama Azules 11   Large  Tamaño del Fabricante:L  para Hombre](https://www.amazon.es/dp/B07KYM5KM6/?tag=tolees-21) con un 56.55 % de descuento con precio de oferta de 9.99 EUR (original: 22.99 EUR) en el siguiente enlace!

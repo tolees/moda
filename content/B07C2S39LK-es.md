@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07C2S39LK/?tag=tolees-21'
 descuento: '50.01'
+average: '23.99'
 ---
 
 Tienes [KUONUO Sandalias Mujeres Bohe Rhinestone Moda Plano Talla Grande Bohemia Sandalias Casuales Zapatos de Playa Sandalias Romanas Chanclas de Damas](https://www.amazon.es/dp/B07C2S39LK/?tag=tolees-21) con un 50.01 % de descuento con precio de oferta de 23.99 EUR (original: 47.99 EUR) en el siguiente enlace!

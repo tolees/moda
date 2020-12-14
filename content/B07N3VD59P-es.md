@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07N3VD59P/?tag=tolees-21'
 descuento: '30.17'
+average: '20.95'
 ---
 
 Tienes [Gaatpot Unisex Niños Sandalias con Punta Cerrada Niña Niño Zapatos Sandalias de Vestir en Cuero Zapatillas Verano Blanco 27 EU/27 CN](https://www.amazon.es/dp/B07N3VD59P/?tag=tolees-21) con un 30.17 % de descuento con precio de oferta de 20.95 EUR (original: 30 EUR) en el siguiente enlace!

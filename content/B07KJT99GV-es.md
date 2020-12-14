@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KJT99GV/?tag=tolees-21'
 descuento: '35.71'
+average: '16.71'
 ---
 
 Está [Quiksilver Get Bizzy Camiseta  Hombre  Negro  Black   XXL](https://www.amazon.es/dp/B07KJT99GV/?tag=tolees-21) con 35.71 de descuento por 16.71 EUR (original: 25.99 EUR) en el siguiente enlace!

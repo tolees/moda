@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01ERYX2NQ/?tag=tolees-21'
 descuento: '58.46'
+average: '9.95'
 ---
 
 Tienes [Joma Elite V Camiseta  Unisex Adulto  Rojo  L](https://www.amazon.es/dp/B01ERYX2NQ/?tag=tolees-21) con un 58.46 % de descuento con precio de oferta de 9.95 EUR (original: 23.95 EUR) en el siguiente enlace!

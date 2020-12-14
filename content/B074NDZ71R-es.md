@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074NDZ71R/?tag=tolees-21'
 descuento: '38.56'
+average: '20.89'
 ---
 
 Está [Emporio Armani Underwear 111210 Bóxer   Antracite/Cielo 04844   Small  Pack de 2 para Hombre](https://www.amazon.es/dp/B074NDZ71R/?tag=tolees-21) con 38.56 de descuento por 20.89 EUR (original: 34 EUR) en el siguiente enlace!

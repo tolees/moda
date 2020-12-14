@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078GVYGQH/?tag=tolees-21'
 descuento: '72.69'
+average: '12.55'
 ---
 
 Tienes [Trucco TT03AN1 Blusa  Amarillo Oscuro   Tamaño del Fabricante:38  para Mujer](https://www.amazon.es/dp/B078GVYGQH/?tag=tolees-21) con un 72.69 % de descuento con precio de oferta de 12.55 EUR (original: 45.95 EUR) en el siguiente enlace!

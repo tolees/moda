@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CTYPQNP/?tag=tolees-21'
 descuento: '61.41'
+average: '15.82'
 ---
 
 Está [Conguitos Deportivo Luces Velcro  Zapatos de Cordones Derby para Niñas  Plateado  Plomo 78   20 EU](https://www.amazon.es/dp/B07CTYPQNP/?tag=tolees-21) con 61.41 de descuento por 15.82 EUR (original: 41 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072QRSDVN/?tag=tolees-21'
 descuento: '50.24'
+average: '12.44'
 ---
 
 Tienes [Lee Logo tee  Camiseta para Mujer  Negro  Black 01  Large](https://www.amazon.es/dp/B072QRSDVN/?tag=tolees-21) con un 50.24 % de descuento con precio de oferta de 12.44 EUR (original: 25 EUR) en el siguiente enlace!

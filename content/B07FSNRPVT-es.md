@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FSNRPVT/?tag=tolees-21'
 descuento: '61.36'
+average: '19.9'
 ---
 
 Está [DINOMADic | Unisexo Bambú Gafas de Sol Polarizadas en Caja de Madera Redondeada  Lonwood ](https://www.amazon.es/dp/B07FSNRPVT/?tag=tolees-21) con 61.36 de descuento por 19.9 EUR (original: 51.5 EUR) en el siguiente enlace!

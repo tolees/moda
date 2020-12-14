@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079CCDDKY/?tag=tolees-21'
 descuento: '45.27'
+average: '7.11'
 ---
 
 Está [JACK & JONES Jjepocket tee SS O-Neck Noos  Camiseta para Hombre  Rojo  Baked Apple Detail: Slim Fit  X-Small](https://www.amazon.es/dp/B079CCDDKY/?tag=tolees-21) con 45.27 de descuento por 7.11 EUR (original: 12.99 EUR) en el siguiente enlace!

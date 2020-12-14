@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01C76JZBO/?tag=tolees-21'
 descuento: '40.08'
+average: '2.99'
 ---
 
 Ahora mismo tienes [Izas Creus Camiseta Manga Corta  Hombre  Azul Claro  S](https://www.amazon.es/dp/B01C76JZBO/?tag=tolees-21) a 2.99 EUR (original: 4.99 EUR) (40.08 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MLJGXK3/?tag=tolees-21'
 descuento: '66.27'
+average: '8.79'
 ---
 
 Está [New Look Strappy Pinny 6143129  Vestido para Mujer   Yellow Pattern 89   36 ES](https://www.amazon.es/dp/B07MLJGXK3/?tag=tolees-21) con 66.27 de descuento por 8.79 EUR (original: 26.06 EUR) en el siguiente enlace!

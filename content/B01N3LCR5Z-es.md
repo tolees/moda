@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N3LCR5Z/?tag=tolees-21'
 descuento: '66.90'
+average: '14.86'
 ---
 
 Tienes [Crocs Modi Sport Flip  Chanclas Unisex Adulto  Azul  Navy/Tangerine   38/39 EU](https://www.amazon.es/dp/B01N3LCR5Z/?tag=tolees-21) con un 66.90 % de descuento con precio de oferta de 14.86 EUR (original: 44.9 EUR) en el siguiente enlace!

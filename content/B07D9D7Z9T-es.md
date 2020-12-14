@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D9D7Z9T/?tag=tolees-21'
 descuento: '33.35'
+average: '13.99'
 ---
 
 Ahora mismo tienes [Riñonera Deportiva Mochila Bolsa Cintura 2 Bolsillos Bolso Rinoneras Cinturón Deportivo Soporte de Botella de Agua para Ciclismo/ Montañismo/ Senderismo](https://www.amazon.es/dp/B07D9D7Z9T/?tag=tolees-21) a 13.99 EUR (original: 20.99 EUR) (33.35 %  de descuento) en el siguiente enlace!

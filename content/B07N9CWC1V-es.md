@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07N9CWC1V/?tag=tolees-21'
 descuento: '51.68'
+average: '13.53'
 ---
 
 Ahora mismo tienes [Pepe Jeans Raury Camiseta  Amarillo  Yellow 043   Medium para Hombre](https://www.amazon.es/dp/B07N9CWC1V/?tag=tolees-21) a 13.53 EUR (original: 28 EUR) (51.68 %  de descuento) en el siguiente enlace!

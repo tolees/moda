@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HH5GPCL/?tag=tolees-21'
 descuento: '51.40'
+average: '36.45'
 ---
 
 Tienes [Tommy Jeans Hombre Dobby  Camisa Manga Larga Normal Blanco  Classic White 100  Large](https://www.amazon.es/dp/B07HH5GPCL/?tag=tolees-21) con un 51.40 % de descuento con precio de oferta de 36.45 EUR (original: 75 EUR) en el siguiente enlace!

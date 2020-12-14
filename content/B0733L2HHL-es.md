@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0733L2HHL/?tag=tolees-21'
 descuento: '75.09'
+average: '22.41'
 ---
 
 Tienes [Puma Evotrg Vent Thermo-R Chaqueta  Hombre  Negro  M](https://www.amazon.es/dp/B0733L2HHL/?tag=tolees-21) con un 75.09 % de descuento con precio de oferta de 22.41 EUR (original: 89.95 EUR) en el siguiente enlace!

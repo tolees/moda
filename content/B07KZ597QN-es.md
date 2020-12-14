@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KZ597QN/?tag=tolees-21'
 descuento: '56.51'
+average: '5.65'
 ---
 
 Está [JACK & JONES Jcodustin tee SS Crew Neck  Camiseta para Hombre  Azul  Maritime Blue Fit:Slim   Small](https://www.amazon.es/dp/B07KZ597QN/?tag=tolees-21) con 56.51 de descuento por 5.65 EUR (original: 12.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01LZLVWVH/?tag=tolees-21'
 descuento: '88.69'
+average: '5.44'
 ---
 
 Está [Eddie Bauer Langarmhemd Kariert Camisa  Azul Oscuro  43 cm  17"  para Hombre](https://www.amazon.es/dp/B01LZLVWVH/?tag=tolees-21) con 88.69 de descuento por 5.44 EUR (original: 48.09 EUR) en el siguiente enlace!

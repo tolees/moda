@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079SSNXF6/?tag=tolees-21'
 descuento: '71.39'
+average: '28.6'
 ---
 
 Está [Desigual Denim_Yasmine Vaqueros Skinny    Navy 5000   W31 para Mujer](https://www.amazon.es/dp/B079SSNXF6/?tag=tolees-21) con 71.39 de descuento por 28.6 EUR (original: 99.95 EUR) en el siguiente enlace!

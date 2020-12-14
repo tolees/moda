@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DK5L7KN/?tag=tolees-21'
 descuento: '63.36'
+average: '21.95'
 ---
 
 Está [Geox J Sandal Karly Girl D  Sandalias con Punta Abierta para Niñas  Pink  Rose C8011   39 EU](https://www.amazon.es/dp/B07DK5L7KN/?tag=tolees-21) con 63.36 de descuento por 21.95 EUR (original: 59.9 EUR) en el siguiente enlace!

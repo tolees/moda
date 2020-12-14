@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XSX71QT/?tag=tolees-21'
 descuento: '47.79'
+average: '31.32'
 ---
 
 Ahora mismo tienes [Only & Sons Onsloom Med Blue 6968 Pa Noos  Pantalones Vaqueros Delgados para Hombre  Azul  Medium Denim   W28/L34](https://www.amazon.es/dp/B06XSX71QT/?tag=tolees-21) a 31.32 EUR (original: 59.99 EUR) (47.79 %  de descuento) en el siguiente enlace!

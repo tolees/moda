@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06Y15CTXR/?tag=tolees-21'
 descuento: '67.24'
+average: '3.8'
 ---
 
 Tienes [oodji Ultra Hombre Camiseta Recta con Estampado Urbano  Gris  ES 50 / M](https://www.amazon.es/dp/B06Y15CTXR/?tag=tolees-21) con un 67.24 % de descuento con precio de oferta de 3.8 EUR (original: 11.6 EUR) en el siguiente enlace!

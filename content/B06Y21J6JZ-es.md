@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06Y21J6JZ/?tag=tolees-21'
 descuento: '25.07'
+average: '13.45'
 ---
 
 Tienes [Levi s kids Short Sleeves Batwin T-Shirt Camiseta  Gris Chiné 20  2 años  Talla del Fabricante: 2A  para Niñas](https://www.amazon.es/dp/B06Y21J6JZ/?tag=tolees-21) con un 25.07 % de descuento con precio de oferta de 13.45 EUR (original: 17.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01CSTEE9S/?tag=tolees-21'
 descuento: '34.34'
+average: '6.5'
 ---
 
 Está [Joma 900248.200 Camiseta  Mujer  Blanco  S](https://www.amazon.es/dp/B01CSTEE9S/?tag=tolees-21) con 34.34 de descuento por 6.5 EUR (original: 9.9 EUR) en el siguiente enlace!

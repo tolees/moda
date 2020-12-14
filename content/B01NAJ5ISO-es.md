@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01NAJ5ISO/?tag=tolees-21'
 descuento: '52.27'
+average: '81.14'
 ---
 
 Tienes [Helly Hansen W Crew Hooded Midlayer Chaqueta  Mujer  Negro  Small](https://www.amazon.es/dp/B01NAJ5ISO/?tag=tolees-21) con un 52.27 % de descuento con precio de oferta de 81.14 EUR (original: 170 EUR) en el siguiente enlace!

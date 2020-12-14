@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01AC0F5MA/?tag=tolees-21'
 descuento: '41.29'
+average: '11.02'
 ---
 
 Tienes [Nike YTH Park II Knit Short NB Pantalón Corto  Niños  Negro/Blanco  L](https://www.amazon.es/dp/B01AC0F5MA/?tag=tolees-21) con un 41.29 % de descuento con precio de oferta de 11.02 EUR (original: 18.77 EUR) en el siguiente enlace!

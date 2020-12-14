@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DFB7LWT/?tag=tolees-21'
 descuento: '35.89'
+average: '19.2'
 ---
 
 Ahora mismo tienes [adidas Freelift Cl  Camiseta de Tirantes Hombre  Blanco  Cloud White   Medium](https://www.amazon.es/dp/B07DFB7LWT/?tag=tolees-21) a 19.2 EUR (original: 29.95 EUR) (35.89 %  de descuento) en el siguiente enlace!

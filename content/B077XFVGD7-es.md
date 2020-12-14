@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077XFVGD7/?tag=tolees-21'
 descuento: '40.05'
+average: '59.95'
 ---
 
 Tienes [The North Face W Quest Jacket Chaqueta  Mujer  Grey Heathe  M](https://www.amazon.es/dp/B077XFVGD7/?tag=tolees-21) con un 40.05 % de descuento con precio de oferta de 59.95 EUR (original: 100 EUR) en el siguiente enlace!

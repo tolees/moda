@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00Y8GHYME/?tag=tolees-21'
 descuento: '35.52'
+average: '28.95'
 ---
 
 Ahora mismo tienes [Spiuk Spicy - Gafas de Ciclismo Unisex  Color Naranja Mate/Blanco](https://www.amazon.es/dp/B00Y8GHYME/?tag=tolees-21) a 28.95 EUR (original: 44.9 EUR) (35.52 %  de descuento) en el siguiente enlace!

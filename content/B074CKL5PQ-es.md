@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074CKL5PQ/?tag=tolees-21'
 descuento: '73.99'
+average: '12.99'
 ---
 
 Está [Blend 20704817/70010  Vaqueros Skinny para Hombre  Gris  Phantom Grey   Tamaño del Fabricante:31 ](https://www.amazon.es/dp/B074CKL5PQ/?tag=tolees-21) con 73.99 de descuento por 12.99 EUR (original: 49.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01J99LV4G/?tag=tolees-21'
 descuento: '39.97'
+average: '23.95'
 ---
 
 Ahora mismo tienes [Crocs Classic  Zuecos Unisex Adulto  Azul  Navy 410b   39/40 EU](https://www.amazon.es/dp/B01J99LV4G/?tag=tolees-21) a 23.95 EUR (original: 39.9 EUR) (39.97 %  de descuento) en el siguiente enlace!

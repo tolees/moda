@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GBF8SQP/?tag=tolees-21'
 descuento: '68.38'
+average: '10.42'
 ---
 
 Tienes [Tuc Tuc Prenda Vaquera Graphic Falda  Niñas  Gris  Gris 09   12 años  Tamaño del Fabricante:12A ](https://www.amazon.es/dp/B07GBF8SQP/?tag=tolees-21) con un 68.38 % de descuento con precio de oferta de 10.42 EUR (original: 32.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07N37VQJK/?tag=tolees-21'
 descuento: '58.91'
+average: '6.57'
 ---
 
 Ahora mismo tienes [edc by Esprit 039CC1K029 Camiseta  Gris  Medium Grey 5 039   XL para Mujer](https://www.amazon.es/dp/B07N37VQJK/?tag=tolees-21) a 6.57 EUR (original: 15.99 EUR) (58.91 %  de descuento) en el siguiente enlace!

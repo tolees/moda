@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079RRVRZ7/?tag=tolees-21'
 descuento: '29.95'
+average: '27.95'
 ---
 
 Ahora mismo tienes [Pepe Jeans Claudia  Camiseta Mujer  Negro  Black 999   Large](https://www.amazon.es/dp/B079RRVRZ7/?tag=tolees-21) a 27.95 EUR (original: 39.9 EUR) (29.95 %  de descuento) en el siguiente enlace!

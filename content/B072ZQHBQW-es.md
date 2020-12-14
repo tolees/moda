@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072ZQHBQW/?tag=tolees-21'
 descuento: '50.23'
+average: '32.35'
 ---
 
 Tienes [Havaianas Unisex adulto TRANCOSO/M LS TDS Gafas de sol  Rosa  Fuchsia/Grey Grey   49](https://www.amazon.es/dp/B072ZQHBQW/?tag=tolees-21) con un 50.23 % de descuento con precio de oferta de 32.35 EUR (original: 65 EUR) en el siguiente enlace!

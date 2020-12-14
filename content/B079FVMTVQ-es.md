@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079FVMTVQ/?tag=tolees-21'
 descuento: '66.29'
+average: '9.44'
 ---
 
 Está [Under Armour Tech-Twist - Camiseta de Manga Corta para Mujer  Mujer  1258568-291  Lime Fizz/Metallic Silver  Small](https://www.amazon.es/dp/B079FVMTVQ/?tag=tolees-21) con 66.29 de descuento por 9.44 EUR (original: 28 EUR) en el siguiente enlace!

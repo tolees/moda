@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BR77LF3/?tag=tolees-21'
 descuento: '38.73'
+average: '55.76'
 ---
 
 Tienes [Nike Ebernon Mid Winter  Zapatos de Baloncesto para Hombre  Verde Olive Canvas 300  42.5 EU](https://www.amazon.es/dp/B07BR77LF3/?tag=tolees-21) con un 38.73 % de descuento con precio de oferta de 55.76 EUR (original: 91 EUR) en el siguiente enlace!

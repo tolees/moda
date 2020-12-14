@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N9BVEXJ/?tag=tolees-21'
 descuento: '56.60'
+average: '6.94'
 ---
 
 Está [Iris & Lilly Mallas Deportivas por Media Pierna para Mujer  Gris  Grey Marl/lime   Large](https://www.amazon.es/dp/B01N9BVEXJ/?tag=tolees-21) con 56.60 de descuento por 6.94 EUR (original: 15.99 EUR) en el siguiente enlace!

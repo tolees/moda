@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HS5BXXD/?tag=tolees-21'
 descuento: '42.75'
+average: '28.62'
 ---
 
 Tienes [SELECTED HOMME Slhslimpen-Pelle Shirt LS B Noos Camisa  Blanco Bright White  Medium para Hombre](https://www.amazon.es/dp/B07HS5BXXD/?tag=tolees-21) con un 42.75 % de descuento con precio de oferta de 28.62 EUR (original: 49.99 EUR) en el siguiente enlace!

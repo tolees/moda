@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071XBJ2NJ/?tag=tolees-21'
 descuento: '61.65'
+average: '65.2'
 ---
 
 Está [Volcom Wenson Chaqueta  Hombre  Cobre  M](https://www.amazon.es/dp/B071XBJ2NJ/?tag=tolees-21) con 61.65 de descuento por 65.2 EUR (original: 170 EUR) en el siguiente enlace!

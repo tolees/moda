@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D7N1ZNF/?tag=tolees-21'
 descuento: '69.35'
+average: '15.31'
 ---
 
 Tienes [s.Oliver 24400-31  Zapatos de Tacón para Mujer  Rojo  Wine Patent 517   40 EU](https://www.amazon.es/dp/B07D7N1ZNF/?tag=tolees-21) con un 69.35 % de descuento con precio de oferta de 15.31 EUR (original: 49.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077XPDK5S/?tag=tolees-21'
 descuento: '76.75'
+average: '9.3'
 ---
 
 Está [Under Armour UA Launch Sw - Pantalón Corto para Hombre  7"   Hombre  1289313-439  Deceit/Venetian Blue/Reflective  X-Large](https://www.amazon.es/dp/B077XPDK5S/?tag=tolees-21) con 76.75 de descuento por 9.3 EUR (original: 40 EUR) en el siguiente enlace!

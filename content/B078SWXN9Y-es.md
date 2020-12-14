@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078SWXN9Y/?tag=tolees-21'
 descuento: '56.62'
+average: '60.73'
 ---
 
 Tienes [Timberland Retro Runner  Zapatos de Cordones Oxford para Hombre  Marrón  Pure Cashmere Nubuck K51   41 EU](https://www.amazon.es/dp/B078SWXN9Y/?tag=tolees-21) con un 56.62 % de descuento con precio de oferta de 60.73 EUR (original: 140 EUR) en el siguiente enlace!

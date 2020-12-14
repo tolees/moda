@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JMPZKSY/?tag=tolees-21'
 descuento: '53.77'
+average: '18.47'
 ---
 
 Está [XTI 35046  Zapatos de tacón con Punta Cerrada para Mujer  Amarillo  37 EU](https://www.amazon.es/dp/B07JMPZKSY/?tag=tolees-21) con 53.77 de descuento por 18.47 EUR (original: 39.95 EUR) en el siguiente enlace!

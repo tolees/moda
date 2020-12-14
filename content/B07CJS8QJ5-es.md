@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CJS8QJ5/?tag=tolees-21'
 descuento: '53.31'
+average: '18.67'
 ---
 
 Ahora mismo tienes [ONLY Onltrain Short Raincoat Otw Noos  Chaqueta impermeable Mujer  Azul  Night Sky Night Sky   X-Large  Talla fabricante: X-Large ](https://www.amazon.es/dp/B07CJS8QJ5/?tag=tolees-21) a 18.67 EUR (original: 39.99 EUR) (53.31 %  de descuento) en el siguiente enlace!

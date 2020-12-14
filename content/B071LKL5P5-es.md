@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071LKL5P5/?tag=tolees-21'
 descuento: '60.05'
+average: '13.98'
 ---
 
 Tienes [VILA CLOTHES 14042902  Camiseta de Manga Larga Para Mujer  Azul  Dark Navy   Small](https://www.amazon.es/dp/B071LKL5P5/?tag=tolees-21) con un 60.05 % de descuento con precio de oferta de 13.98 EUR (original: 34.99 EUR) en el siguiente enlace!

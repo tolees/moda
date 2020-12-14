@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071S2GW1Z/?tag=tolees-21'
 descuento: '42.38'
+average: '28.09'
 ---
 
 Ahora mismo tienes [Naf Naf NOBORE Jersey  Negro  Noir 625   S para Mujer](https://www.amazon.es/dp/B071S2GW1Z/?tag=tolees-21) a 28.09 EUR (original: 48.75 EUR) (42.38 %  de descuento) en el siguiente enlace!

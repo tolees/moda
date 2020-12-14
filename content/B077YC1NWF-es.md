@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077YC1NWF/?tag=tolees-21'
 descuento: '69.99'
+average: '12'
 ---
 
 Tienes [edc by Esprit 028cc2b008 Vaqueros Slim  Azul  Blue Medium Wash 902   W32/L36  Talla del Fabricante: 32/36  para Hombre](https://www.amazon.es/dp/B077YC1NWF/?tag=tolees-21) con un 69.99 % de descuento con precio de oferta de 12 EUR (original: 39.99 EUR) en el siguiente enlace!

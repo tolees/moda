@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CHWCSVH/?tag=tolees-21'
 descuento: '58.08'
+average: '41.9'
 ---
 
 Está [BOSS Biado R Camisa  Rojo  Dark Red 607   Medium para Hombre](https://www.amazon.es/dp/B07CHWCSVH/?tag=tolees-21) con 58.08 de descuento por 41.9 EUR (original: 99.95 EUR) en el siguiente enlace!

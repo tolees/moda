@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DLJX6FS/?tag=tolees-21'
 descuento: '56.68'
+average: '9.96'
 ---
 
 Está [Springfield Pack 3 Tela Lisos Bóxer  Hombre  Azul  Gama Azules 12   X-Large  Tamaño del Fabricante:XL ](https://www.amazon.es/dp/B07DLJX6FS/?tag=tolees-21) con 56.68 de descuento por 9.96 EUR (original: 22.99 EUR) en el siguiente enlace!

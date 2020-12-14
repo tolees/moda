@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00SF8F2B6/?tag=tolees-21'
 descuento: '30.33'
+average: '69.64'
 ---
 
 Está [G-STAR Revend Super Slim  - Slander indigo superstretch - Vaqueros para hombre  Azul  Dark Aged   W32/L32  talla fabricante: 32/32 ](https://www.amazon.es/dp/B00SF8F2B6/?tag=tolees-21) con 30.33 de descuento por 69.64 EUR (original: 99.95 EUR) en el siguiente enlace!

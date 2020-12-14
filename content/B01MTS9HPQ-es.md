@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MTS9HPQ/?tag=tolees-21'
 descuento: '79.11'
+average: '6.37'
 ---
 
 Está [JACK & JONES Jorstripe Sweat Crew Neck  Sudadera Hombre  Negro  Black   Small](https://www.amazon.es/dp/B01MTS9HPQ/?tag=tolees-21) con 79.11 de descuento por 6.37 EUR (original: 30.5 EUR) en el siguiente enlace!

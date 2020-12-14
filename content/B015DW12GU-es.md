@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B015DW12GU/?tag=tolees-21'
 descuento: '50.88'
+average: '18.69'
 ---
 
 Tienes [Zumba Fitness® Camo Crossback Bra Camiseta sin Mangas  Mujer  Gris  XS](https://www.amazon.es/dp/B015DW12GU/?tag=tolees-21) con un 50.88 % de descuento con precio de oferta de 18.69 EUR (original: 38.05 EUR) en el siguiente enlace!

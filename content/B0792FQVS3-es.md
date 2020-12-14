@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0792FQVS3/?tag=tolees-21'
 descuento: '50.00'
+average: '49.95'
 ---
 
 Tienes [Geox D Asheely E  Botas Chelsea para Mujer   Dk Grey C9002   38 EU](https://www.amazon.es/dp/B0792FQVS3/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 49.95 EUR (original: 99.9 EUR) en el siguiente enlace!

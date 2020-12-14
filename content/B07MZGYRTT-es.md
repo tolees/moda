@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MZGYRTT/?tag=tolees-21'
 descuento: '48.45'
+average: '14.95'
 ---
 
 Está [Superdry Super Standard Brief Triple PA Boxer   Stripe Navy Pink Ditsy L2H   36 para Mujer](https://www.amazon.es/dp/B07MZGYRTT/?tag=tolees-21) con 48.45 de descuento por 14.95 EUR (original: 29 EUR) en el siguiente enlace!

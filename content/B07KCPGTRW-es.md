@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KCPGTRW/?tag=tolees-21'
 descuento: '46.13'
+average: '104.73'
 ---
 
 Está [Love Moschino Canvas  Bolso tipo tote para Mujer  Multicolor  Naturale   15x10x15 centimeters  W x H x L ](https://www.amazon.es/dp/B07KCPGTRW/?tag=tolees-21) con 46.13 de descuento por 104.73 EUR (original: 194.4 EUR) en el siguiente enlace!

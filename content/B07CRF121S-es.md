@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CRF121S/?tag=tolees-21'
 descuento: '69.79'
+average: '24.14'
 ---
 
 Ahora mismo tienes [Pepe Jeans Clifford Camisa    Indigo 561   X-Large para Hombre](https://www.amazon.es/dp/B07CRF121S/?tag=tolees-21) a 24.14 EUR (original: 79.9 EUR) (69.79 %  de descuento) en el siguiente enlace!

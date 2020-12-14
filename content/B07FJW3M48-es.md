@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FJW3M48/?tag=tolees-21'
 descuento: '30.00'
+average: '15.4'
 ---
 
 Está [Ipanema My First IV Ba  Sandalias para Bebés  Beige 8778  25/26 EU](https://www.amazon.es/dp/B07FJW3M48/?tag=tolees-21) con 30.00 de descuento por 15.4 EUR (original: 22 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01GV9LMSC/?tag=tolees-21'
 descuento: '73.33'
+average: '2.8'
 ---
 
 Está [oodji Ultra Mujer Braguitas Bikini Ribete en Contraste  Naranja  ES 36 / XS](https://www.amazon.es/dp/B01GV9LMSC/?tag=tolees-21) con 73.33 de descuento por 2.8 EUR (original: 10.5 EUR) en el siguiente enlace!

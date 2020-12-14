@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N97IP0A/?tag=tolees-21'
 descuento: '74.86'
+average: '6.57'
 ---
 
 Ahora mismo tienes [Tom Tailor Prett Viscose  Camiseta Mujer  Azul  Yonder Blue   38  Talla del Fabricante: Medium ](https://www.amazon.es/dp/B01N97IP0A/?tag=tolees-21) a 6.57 EUR (original: 26.13 EUR) (74.86 %  de descuento) en el siguiente enlace!

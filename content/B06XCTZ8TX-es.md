@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XCTZ8TX/?tag=tolees-21'
 descuento: '54.79'
+average: '18.08'
 ---
 
 Ahora mismo tienes [Cortefiel 7747187  Pantalón para Hombre  Verde Oscuro  ES 46](https://www.amazon.es/dp/B06XCTZ8TX/?tag=tolees-21) a 18.08 EUR (original: 39.99 EUR) (54.79 %  de descuento) en el siguiente enlace!

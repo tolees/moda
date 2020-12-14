@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CD9VCG6/?tag=tolees-21'
 descuento: '78.08'
+average: '30.47'
 ---
 
 Está [REPLAY Luz Coin Zip  Vaqueros Skinny Mujer  Negro  Black 98   W23/L30](https://www.amazon.es/dp/B07CD9VCG6/?tag=tolees-21) con 78.08 de descuento por 30.47 EUR (original: 139 EUR) en el siguiente enlace!

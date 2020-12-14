@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078WGK39M/?tag=tolees-21'
 descuento: '48.67'
+average: '112.93'
 ---
 
 Tienes [Marmot Minimalist Chaqueta Hard Shell Impermeable con Capucha Ajustable  Mujer  Negro  L](https://www.amazon.es/dp/B078WGK39M/?tag=tolees-21) con un 48.67 % de descuento con precio de oferta de 112.93 EUR (original: 220 EUR) en el siguiente enlace!

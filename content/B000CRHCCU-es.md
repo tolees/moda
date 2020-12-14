@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000CRHCCU/?tag=tolees-21'
 descuento: '42.44'
+average: '25.9'
 ---
 
 Tienes [Eastpak Jr Bolso bandolera  33 cm  11.5 L  Negro](https://www.amazon.es/dp/B000CRHCCU/?tag=tolees-21) con un 42.44 % de descuento con precio de oferta de 25.9 EUR (original: 45 EUR) en el siguiente enlace!

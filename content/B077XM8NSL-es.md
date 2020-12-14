@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077XM8NSL/?tag=tolees-21'
 descuento: '40.57'
+average: '32.68'
 ---
 
 Está [Under Armour Rival Fleece Logo Hoodie Sudadera  Hombre  Negro  Black/White 001   M](https://www.amazon.es/dp/B077XM8NSL/?tag=tolees-21) con 40.57 de descuento por 32.68 EUR (original: 54.99 EUR) en el siguiente enlace!

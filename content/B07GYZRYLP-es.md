@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GYZRYLP/?tag=tolees-21'
 descuento: '52.66'
+average: '8.99'
 ---
 
 Está [KONVINIT Guantes de Ciclismo  Guantes Pantalla Táctil Acolchados en Gel Guantes Bicicleta para Hombres/Mujeres Azul M](https://www.amazon.es/dp/B07GYZRYLP/?tag=tolees-21) con 52.66 de descuento por 8.99 EUR (original: 18.99 EUR) en el siguiente enlace!

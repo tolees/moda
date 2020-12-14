@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072KRQWS2/?tag=tolees-21'
 descuento: '74.44'
+average: '3.4'
 ---
 
 Ahora mismo tienes [oodji Ultra Mujer Camiseta Recortada de Tejido a Rayas  Amarillo  ES 38 / S](https://www.amazon.es/dp/B072KRQWS2/?tag=tolees-21) a 3.4 EUR (original: 13.3 EUR) (74.44 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DMFLBCZ/?tag=tolees-21'
 descuento: '74.51'
+average: '38.24'
 ---
 
 Está [KENNETH COLE Rylan Bootie  Botines para Mujer  Negro  Black 001   39 EU](https://www.amazon.es/dp/B07DMFLBCZ/?tag=tolees-21) con 74.51 de descuento por 38.24 EUR (original: 150 EUR) en el siguiente enlace!

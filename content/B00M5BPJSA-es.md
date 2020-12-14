@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00M5BPJSA/?tag=tolees-21'
 descuento: '65.24'
+average: '29.89'
 ---
 
 Ahora mismo tienes [Nike Air MAX Infuriate 2 Mid  Zapatos de Baloncesto para Hombre   Anthracite/Metallic Gold/Black/White 002   40 EU](https://www.amazon.es/dp/B00M5BPJSA/?tag=tolees-21) a 29.89 EUR (original: 86 EUR) (65.24 %  de descuento) en el siguiente enlace!

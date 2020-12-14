@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01M0JGJF3/?tag=tolees-21'
 descuento: '46.83'
+average: '7.97'
 ---
 
 Está [IRIS & LILLY Braguita de Talle Alto Algodón para Mujer  Pack de 5  Negro  Black   Small](https://www.amazon.es/dp/B01M0JGJF3/?tag=tolees-21) con 46.83 de descuento por 7.97 EUR (original: 14.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HYYLKGJ/?tag=tolees-21'
 descuento: '69.38'
+average: '24.49'
 ---
 
 Está [Nike Wmns Ebernon Mid Prem  Zapatos de Baloncesto para Mujer  Blanco White/Black 101  38.5 EU](https://www.amazon.es/dp/B07HYYLKGJ/?tag=tolees-21) con 69.38 de descuento por 24.49 EUR (original: 79.99 EUR) en el siguiente enlace!

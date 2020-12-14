@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01DALCPGM/?tag=tolees-21'
 descuento: '27.60'
+average: '2.99'
 ---
 
 Está [Izas Mijares Camiseta  Mujer  Blanco  S](https://www.amazon.es/dp/B01DALCPGM/?tag=tolees-21) con 27.60 de descuento por 2.99 EUR (original: 4.13 EUR) en el siguiente enlace!

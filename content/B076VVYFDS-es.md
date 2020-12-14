@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076VVYFDS/?tag=tolees-21'
 descuento: '68.47'
+average: '29.95'
 ---
 
 Está [Pepe Jeans New Brooke Pl200019 Vaqueros  Azul  10Oz Str American Blue Lt D26   30W / 34L para Mujer](https://www.amazon.es/dp/B076VVYFDS/?tag=tolees-21) con 68.47 de descuento por 29.95 EUR (original: 95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077NZKLQX/?tag=tolees-21'
 descuento: '43.36'
+average: '50.95'
 ---
 
 Ahora mismo tienes [Lee Scarlett Vaqueros Skinny  Azul  Midtown Blues Haoe   W24/L29  Talla del Fabricante: 24/29  para Mujer](https://www.amazon.es/dp/B077NZKLQX/?tag=tolees-21) a 50.95 EUR (original: 89.95 EUR) (43.36 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KKSM3F1/?tag=tolees-21'
 descuento: '60.21'
+average: '31.81'
 ---
 
 Ahora mismo tienes [HUGO Errik Camisa  Blanco  Open White 199   Large  Talla del Fabricante: 43  para Hombre](https://www.amazon.es/dp/B07KKSM3F1/?tag=tolees-21) a 31.81 EUR (original: 79.95 EUR) (60.21 %  de descuento) en el siguiente enlace!

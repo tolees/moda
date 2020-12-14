@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DJC8SJ1/?tag=tolees-21'
 descuento: '71.24'
+average: '34.48'
 ---
 
 Está [Geox D Arjola C  Zapatos de Cordones Oxford para Mujer  Navy C4002  40 EU](https://www.amazon.es/dp/B07DJC8SJ1/?tag=tolees-21) con 71.24 de descuento por 34.48 EUR (original: 119.9 EUR) en el siguiente enlace!

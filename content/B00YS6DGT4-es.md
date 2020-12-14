@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00YS6DGT4/?tag=tolees-21'
 descuento: '26.76'
+average: '10.95'
 ---
 
 Está [Star Wars - Camiseta para mujer de la Princesa Leia - Talla Small](https://www.amazon.es/dp/B00YS6DGT4/?tag=tolees-21) con 26.76 de descuento por 10.95 EUR (original: 14.95 EUR) en el siguiente enlace!

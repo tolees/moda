@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CRF1H8Y/?tag=tolees-21'
 descuento: '33.08'
+average: '20.01'
 ---
 
 Está [Pepe Jeans Michelle  Camiseta para Mujer    Off White 803  Large](https://www.amazon.es/dp/B07CRF1H8Y/?tag=tolees-21) con 33.08 de descuento por 20.01 EUR (original: 29.9 EUR) en el siguiente enlace!

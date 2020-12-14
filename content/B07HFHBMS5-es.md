@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HFHBMS5/?tag=tolees-21'
 descuento: '65.95'
+average: '23.8'
 ---
 
 Tienes [Tommy Hilfiger Vertical Stripe Shirt L/s  Camisa Manga Larga Niños  Blanco  Bright White/Multi 123   152  Talla del Fabricante: 12 ](https://www.amazon.es/dp/B07HFHBMS5/?tag=tolees-21) con un 65.95 % de descuento con precio de oferta de 23.8 EUR (original: 69.9 EUR) en el siguiente enlace!

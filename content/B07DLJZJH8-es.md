@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DLJZJH8/?tag=tolees-21'
 descuento: '58.98'
+average: '10.66'
 ---
 
 Tienes [Springfield 5Ba Microestru Organico Gg12  Jersey para Hombre   Gama Grises 43   Medium  Tamaño del Fabricante:M ](https://www.amazon.es/dp/B07DLJZJH8/?tag=tolees-21) con un 58.98 % de descuento con precio de oferta de 10.66 EUR (original: 25.99 EUR) en el siguiente enlace!

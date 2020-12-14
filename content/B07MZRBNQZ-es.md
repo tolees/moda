@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MZRBNQZ/?tag=tolees-21'
 descuento: '38.25'
+average: '2.05'
 ---
 
 Está [LANSKIRT_Bikinis Bikini Mujer Push Up Lanskirt Mujeres Conjunto de Traje de BañO Estampado Bohemio BañAdores con Relleno Trajes de BañO Mujer 2019 Bikini Estampado Dividido BañAdores](https://www.amazon.es/dp/B07MZRBNQZ/?tag=tolees-21) con 38.25 de descuento por 2.05 EUR (original: 3.32 EUR) en el siguiente enlace!

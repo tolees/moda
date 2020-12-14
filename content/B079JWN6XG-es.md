@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079JWN6XG/?tag=tolees-21'
 descuento: '39.72'
+average: '119.95'
 ---
 
 Está [Napapijri Rainforest Winter  Chaqueta  Mujer  Rojo  Pop Red R41  Large](https://www.amazon.es/dp/B079JWN6XG/?tag=tolees-21) con 39.72 de descuento por 119.95 EUR (original: 199 EUR) en el siguiente enlace!

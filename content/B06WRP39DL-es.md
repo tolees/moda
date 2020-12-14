@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06WRP39DL/?tag=tolees-21'
 descuento: '51.53'
+average: '8.72'
 ---
 
 Tienes [ONLY NOS onlSILVERY S/S V Neck Lurex Top JRS Noos Camiseta  Azul  Night Sky   44  Talla del Fabricante: X-Large  para Mujer](https://www.amazon.es/dp/B06WRP39DL/?tag=tolees-21) con un 51.53 % de descuento con precio de oferta de 8.72 EUR (original: 17.99 EUR) en el siguiente enlace!

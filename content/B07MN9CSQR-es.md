@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MN9CSQR/?tag=tolees-21'
 descuento: '53.30'
+average: '14.01'
 ---
 
 Está [The North Face S/S Peak tee Camiseta de Manga Corta  Hombre  Storm Blue  M](https://www.amazon.es/dp/B07MN9CSQR/?tag=tolees-21) con 53.30 de descuento por 14.01 EUR (original: 30 EUR) en el siguiente enlace!

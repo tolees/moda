@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D8Y15LB/?tag=tolees-21'
 descuento: '33.72'
+average: '23.13'
 ---
 
 Tienes [Tommy Hilfiger LS tee Logo Top de Pijama  Rosa  Navy Blazer 416   Large para Hombre](https://www.amazon.es/dp/B07D8Y15LB/?tag=tolees-21) con un 33.72 % de descuento con precio de oferta de 23.13 EUR (original: 34.9 EUR) en el siguiente enlace!

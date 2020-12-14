@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MTYU0AJ/?tag=tolees-21'
 descuento: '30.04'
+average: '97.95'
 ---
 
 Está [Timberland Adventure 2.0 Cupsole  Botas Chukka para Hombre  Amarillo  Wheat Nubuck   41.5 EU](https://www.amazon.es/dp/B01MTYU0AJ/?tag=tolees-21) con 30.04 de descuento por 97.95 EUR (original: 140 EUR) en el siguiente enlace!

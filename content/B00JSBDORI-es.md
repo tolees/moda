@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00JSBDORI/?tag=tolees-21'
 descuento: '49.65'
+average: '5.83'
 ---
 
 Tienes [Jersey de Cuello Alto Con Cremallera de Algodón  gris](https://www.amazon.es/dp/B00JSBDORI/?tag=tolees-21) con un 49.65 % de descuento con precio de oferta de 5.83 EUR (original: 11.58 EUR) en el siguiente enlace!

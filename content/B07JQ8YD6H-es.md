@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JQ8YD6H/?tag=tolees-21'
 descuento: '37.81'
+average: '25.49'
 ---
 
 Tienes [Nasjac 1920 Flapper Set de accesorios de la década de Costume Collar Diadema Guantes Cigarette Holder Mujeres](https://www.amazon.es/dp/B07JQ8YD6H/?tag=tolees-21) con un 37.81 % de descuento con precio de oferta de 25.49 EUR (original: 40.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0779LMBRH/?tag=tolees-21'
 descuento: '51.27'
+average: '14.57'
 ---
 
 Ahora mismo tienes [Pepe Jeans Brent PL502821  Camiseta para Mujer  Gris  Grey Marl 933  Small](https://www.amazon.es/dp/B0779LMBRH/?tag=tolees-21) a 14.57 EUR (original: 29.9 EUR) (51.27 %  de descuento) en el siguiente enlace!

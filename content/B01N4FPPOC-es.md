@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N4FPPOC/?tag=tolees-21'
 descuento: '66.39'
+average: '6.05'
 ---
 
 Ahora mismo tienes [find. Sudadera de Manga Ancha para Mujer   Azul  Sport Red   38  Talla del Fabricante: Small ](https://www.amazon.es/dp/B01N4FPPOC/?tag=tolees-21) a 6.05 EUR (original: 18 EUR) (66.39 %  de descuento) en el siguiente enlace!

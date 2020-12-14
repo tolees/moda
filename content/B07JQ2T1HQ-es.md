@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JQ2T1HQ/?tag=tolees-21'
 descuento: '29.99'
+average: '34.97'
 ---
 
 Está [adidas 3-Stripes Crew Sudadera  Hombre   Marley   2XL](https://www.amazon.es/dp/B07JQ2T1HQ/?tag=tolees-21) con 29.99 de descuento por 34.97 EUR (original: 49.95 EUR) en el siguiente enlace!

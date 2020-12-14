@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D5QL4R3/?tag=tolees-21'
 descuento: '68.16'
+average: '9.55'
 ---
 
 Está [Celio Feria  Camiseta Cuello Alto para Hombre  Azul Heather Blue  Large](https://www.amazon.es/dp/B07D5QL4R3/?tag=tolees-21) con 68.16 de descuento por 9.55 EUR (original: 29.99 EUR) en el siguiente enlace!

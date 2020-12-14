@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CRDZY56/?tag=tolees-21'
 descuento: '54.26'
+average: '18.25'
 ---
 
 Tienes [Pepe Jeans Marlene Camiseta    Off White 803   X-Small para Mujer](https://www.amazon.es/dp/B07CRDZY56/?tag=tolees-21) con un 54.26 % de descuento con precio de oferta de 18.25 EUR (original: 39.9 EUR) en el siguiente enlace!

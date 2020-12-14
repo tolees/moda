@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FTKQ98Z/?tag=tolees-21'
 descuento: '54.40'
+average: '11.4'
 ---
 
 Tienes [Lee Logo tee  Camiseta Hombre  Marfil  Bright White Lj   X-Large](https://www.amazon.es/dp/B07FTKQ98Z/?tag=tolees-21) con un 54.40 % de descuento con precio de oferta de 11.4 EUR (original: 25 EUR) en el siguiente enlace!

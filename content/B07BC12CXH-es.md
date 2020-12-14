@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BC12CXH/?tag=tolees-21'
 descuento: '61.87'
+average: '15.25'
 ---
 
 Está [ESPRIT Collection 998eo1k806 Camisa Manga Larga  Azul  Navy 400   Large para Mujer](https://www.amazon.es/dp/B07BC12CXH/?tag=tolees-21) con 61.87 de descuento por 15.25 EUR (original: 39.99 EUR) en el siguiente enlace!

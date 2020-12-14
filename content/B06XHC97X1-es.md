@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XHC97X1/?tag=tolees-21'
 descuento: '50.65'
+average: '29.61'
 ---
 
 Ahora mismo tienes [Helly Hansen Daybreaker - Chaqueta  Hombre  Azul  Graphite Blue   talla del fabricante: M](https://www.amazon.es/dp/B06XHC97X1/?tag=tolees-21) a 29.61 EUR (original: 60 EUR) (50.65 %  de descuento) en el siguiente enlace!

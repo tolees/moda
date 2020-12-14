@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07L9QSC5J/?tag=tolees-21'
 descuento: '69.08'
+average: '36.8'
 ---
 
 Tienes [Napapijri Bellary Sudadera   Fantasy F29   X-Large para Hombre](https://www.amazon.es/dp/B07L9QSC5J/?tag=tolees-21) con un 69.08 % de descuento con precio de oferta de 36.8 EUR (original: 119 EUR) en el siguiente enlace!

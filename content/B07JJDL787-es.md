@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JJDL787/?tag=tolees-21'
 descuento: '27.82'
+average: '35.37'
 ---
 
 Ahora mismo tienes [Armani Exchange Logo Chest Camiseta  Blanco  Opt White W/Pink FLA 01bp   Large para Mujer](https://www.amazon.es/dp/B07JJDL787/?tag=tolees-21) a 35.37 EUR (original: 49 EUR) (27.82 %  de descuento) en el siguiente enlace!

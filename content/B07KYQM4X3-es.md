@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KYQM4X3/?tag=tolees-21'
 descuento: '74.87'
+average: '6.53'
 ---
 
 Ahora mismo tienes [Springfield 490 C/Block Gg12 Jersey   Gama Verdes 22   X-Large  Tamaño del Fabricante:XL  para Hombre](https://www.amazon.es/dp/B07KYQM4X3/?tag=tolees-21) a 6.53 EUR (original: 25.99 EUR) (74.87 %  de descuento) en el siguiente enlace!

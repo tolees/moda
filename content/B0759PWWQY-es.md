@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0759PWWQY/?tag=tolees-21'
 descuento: '68.63'
+average: '28.22'
 ---
 
 Tienes [Clarks Kessell Craft  Zapatos de Cordones Derby para Hombre  Azul  Blue Suede   43 EU](https://www.amazon.es/dp/B0759PWWQY/?tag=tolees-21) con un 68.63 % de descuento con precio de oferta de 28.22 EUR (original: 89.95 EUR) en el siguiente enlace!

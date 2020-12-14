@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00V9DJS28/?tag=tolees-21'
 descuento: '49.36'
+average: '9.09'
 ---
 
 Está [Joma Iris Chaqueta  Niños  Negro  M](https://www.amazon.es/dp/B00V9DJS28/?tag=tolees-21) con 49.36 de descuento por 9.09 EUR (original: 17.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DJ78TJ9/?tag=tolees-21'
 descuento: '50.00'
+average: '49.95'
 ---
 
 Está [Geox U Warley B  Zapatillas para Hombre  Blanco  White/Navy C0899   42 EU](https://www.amazon.es/dp/B07DJ78TJ9/?tag=tolees-21) con 50.00 de descuento por 49.95 EUR (original: 99.9 EUR) en el siguiente enlace!

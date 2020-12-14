@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F8YCL6T/?tag=tolees-21'
 descuento: '60.06'
+average: '31.95'
 ---
 
 Tienes [JACK & JONES Jcoearth Parka  Gris  Light Grey Melange   Large para Hombre](https://www.amazon.es/dp/B07F8YCL6T/?tag=tolees-21) con un 60.06 % de descuento con precio de oferta de 31.95 EUR (original: 79.99 EUR) en el siguiente enlace!

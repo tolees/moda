@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DY9QYK4/?tag=tolees-21'
 descuento: '50.23'
+average: '9.95'
 ---
 
 Ahora mismo tienes [Roxy Viva Glitter IV  Zapatos de Playa y Piscina para Mujer  Rosa  Lt Peach Lpc   39 EU](https://www.amazon.es/dp/B07DY9QYK4/?tag=tolees-21) a 9.95 EUR (original: 19.99 EUR) (50.23 %  de descuento) en el siguiente enlace!

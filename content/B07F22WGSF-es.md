@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F22WGSF/?tag=tolees-21'
 descuento: '70.26'
+average: '41.63'
 ---
 
 Ahora mismo tienes [Timberland Bradstreet Leather Sensorflex  Zapatillas Chukka para Hombre  Verde  Grape Leaf   44 EU](https://www.amazon.es/dp/B07F22WGSF/?tag=tolees-21) a 41.63 EUR (original: 140 EUR) (70.26 %  de descuento) en el siguiente enlace!

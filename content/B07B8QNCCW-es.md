@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07B8QNCCW/?tag=tolees-21'
 descuento: '44.22'
+average: '11.15'
 ---
 
 Tienes [Iris & Lilly Basic Printed Legging Pijama Beige Galaxy/Maritime Blue  Small](https://www.amazon.es/dp/B07B8QNCCW/?tag=tolees-21) con un 44.22 % de descuento con precio de oferta de 11.15 EUR (original: 19.99 EUR) en el siguiente enlace!

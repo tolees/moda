@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FTKHYQR/?tag=tolees-21'
 descuento: '83.31'
+average: '15.01'
 ---
 
 Está [Lee Scarlett  Vaqueros Skinny para Mujer  Azul  Blue Black Ex   W30/L35](https://www.amazon.es/dp/B07FTKHYQR/?tag=tolees-21) con 83.31 de descuento por 15.01 EUR (original: 89.95 EUR) en el siguiente enlace!

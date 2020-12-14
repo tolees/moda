@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0719VSXJM/?tag=tolees-21'
 descuento: '64.06'
+average: '14.36'
 ---
 
 Ahora mismo tienes [Blend 20703822 Vaqueros Skinny  Gris  Denim Grey   W31/L32  Tamaño del Fabricante:31  para Hombre](https://www.amazon.es/dp/B0719VSXJM/?tag=tolees-21) a 14.36 EUR (original: 39.95 EUR) (64.06 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GT7CBJW/?tag=tolees-21'
 descuento: '60.08'
+average: '51.87'
 ---
 
 Ahora mismo tienes [Berg Outdoor Leomil Chaqueta  Mujer  Negro  XL](https://www.amazon.es/dp/B07GT7CBJW/?tag=tolees-21) a 51.87 EUR (original: 129.95 EUR) (60.08 %  de descuento) en el siguiente enlace!

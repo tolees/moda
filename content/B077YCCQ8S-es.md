@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077YCCQ8S/?tag=tolees-21'
 descuento: '65.48'
+average: '15.53'
 ---
 
 Está [Vila Clothes Vimula Blazer Chaqueta de Traje  Negro Black  36  Talla del Fabricante: 34  para Mujer](https://www.amazon.es/dp/B077YCCQ8S/?tag=tolees-21) con 65.48 de descuento por 15.53 EUR (original: 44.99 EUR) en el siguiente enlace!

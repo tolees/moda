@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KRX53GK/?tag=tolees-21'
 descuento: '49.98'
+average: '15'
 ---
 
 Tienes [Columbia Hombre Camiseta  Box Logo Bear Tee  Poliéster  Verde  Cypress   Talla: M  1844281](https://www.amazon.es/dp/B07KRX53GK/?tag=tolees-21) con un 49.98 % de descuento con precio de oferta de 15 EUR (original: 29.99 EUR) en el siguiente enlace!

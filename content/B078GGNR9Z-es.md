@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078GGNR9Z/?tag=tolees-21'
 descuento: '44.59'
+average: '55.41'
 ---
 
 Tienes [The North Face Resolve Chaqueta  Hombre  Gris  Mid Grey   M](https://www.amazon.es/dp/B078GGNR9Z/?tag=tolees-21) con un 44.59 % de descuento con precio de oferta de 55.41 EUR (original: 100 EUR) en el siguiente enlace!

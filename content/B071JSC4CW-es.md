@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071JSC4CW/?tag=tolees-21'
 descuento: '49.96'
+average: '6.98'
 ---
 
 Tienes [FABTASTICS Paw Patrol  Pijama para Niños  Gris  Grey 001   3 Años/98 cm](https://www.amazon.es/dp/B071JSC4CW/?tag=tolees-21) con un 49.96 % de descuento con precio de oferta de 6.98 EUR (original: 13.95 EUR) en el siguiente enlace!

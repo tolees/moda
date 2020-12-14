@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B007CXY5PE/?tag=tolees-21'
 descuento: '52.24'
+average: '9.05'
 ---
 
 Tienes [Cressi Flash Swim Goggles Gafas de Natación Premium para Adultos 100% Anti UV  Negro  Talla Única](https://www.amazon.es/dp/B007CXY5PE/?tag=tolees-21) con un 52.24 % de descuento con precio de oferta de 9.05 EUR (original: 18.95 EUR) en el siguiente enlace!

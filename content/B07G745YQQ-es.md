@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07G745YQQ/?tag=tolees-21'
 descuento: '66.86'
+average: '12.86'
 ---
 
 Ahora mismo tienes [Glamorous Ladies Dress  Vestido para Mujer  Azul  Royal Blue AG  36  Talla del Fabricante: X-Small ](https://www.amazon.es/dp/B07G745YQQ/?tag=tolees-21) a 12.86 EUR (original: 38.8 EUR) (66.86 %  de descuento) en el siguiente enlace!

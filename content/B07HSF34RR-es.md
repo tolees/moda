@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HSF34RR/?tag=tolees-21'
 descuento: '25.33'
+average: '11.2'
 ---
 
 Ahora mismo tienes [Camiseta de algodón de manga corta - Real Betis Balompié 2018/2019 - Kappa Zoshim Tee - Blanca - Talla 10 años](https://www.amazon.es/dp/B07HSF34RR/?tag=tolees-21) a 11.2 EUR (original: 15 EUR) (25.33 %  de descuento) en el siguiente enlace!

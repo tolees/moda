@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DZ8CFQ4/?tag=tolees-21'
 descuento: '46.15'
+average: '16.15'
 ---
 
 Está [Columbia Chaqueta Polar con Media Cremallera para Hombre  Klamath Range II Half Zip  Azul  Dark Mountain  Red Spark   Talla L](https://www.amazon.es/dp/B07DZ8CFQ4/?tag=tolees-21) con 46.15 de descuento por 16.15 EUR (original: 29.99 EUR) en el siguiente enlace!

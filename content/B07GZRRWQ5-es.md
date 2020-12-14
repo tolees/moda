@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GZRRWQ5/?tag=tolees-21'
 descuento: '31.19'
+average: '27.49'
 ---
 
 Tienes [Desigual Girl Knit Dress Short Sleeve  Vest_wilminton   Vestido Niñas  Blanco  White 1000   104  Talla del Fabricante: 3/4 ](https://www.amazon.es/dp/B07GZRRWQ5/?tag=tolees-21) con un 31.19 % de descuento con precio de oferta de 27.49 EUR (original: 39.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JFGMT45/?tag=tolees-21'
 descuento: '50.51'
+average: '49'
 ---
 
 Está [Lacoste L!VE Ch3766 Camisa  Azul  Calanque/Blanc 9c0   Small  Talla del Fabricante: 38  para Hombre](https://www.amazon.es/dp/B07JFGMT45/?tag=tolees-21) con 50.51 de descuento por 49 EUR (original: 99 EUR) en el siguiente enlace!

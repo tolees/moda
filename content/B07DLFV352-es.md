@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DLFV352/?tag=tolees-21'
 descuento: '49.82'
+average: '15.05'
 ---
 
 Ahora mismo tienes [Springfield Wo Oxford Polera Camisa Casual  Hombre  Azul  Gama Azules 14   Medium  Tamaño del Fabricante:M ](https://www.amazon.es/dp/B07DLFV352/?tag=tolees-21) a 15.05 EUR (original: 29.99 EUR) (49.82 %  de descuento) en el siguiente enlace!

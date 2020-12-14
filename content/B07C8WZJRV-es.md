@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07C8WZJRV/?tag=tolees-21'
 descuento: '56.63'
+average: '13.01'
 ---
 
 Tienes [Vans_Apparel Classic  Camiseta para Hombre  Amarillo  New Wheat-Dress Blues Ru1  XX-Large](https://www.amazon.es/dp/B07C8WZJRV/?tag=tolees-21) con un 56.63 % de descuento con precio de oferta de 13.01 EUR (original: 30 EUR) en el siguiente enlace!

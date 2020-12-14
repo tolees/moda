@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00KE3GNY0/?tag=tolees-21'
 descuento: '76.79'
+average: '16.25'
 ---
 
 Tienes [Merc of London Winston - Pantalón chino para hombre  color negro  talla talla francesa: w28  taille fabricant: 28 ](https://www.amazon.es/dp/B00KE3GNY0/?tag=tolees-21) con un 76.79 % de descuento con precio de oferta de 16.25 EUR (original: 70 EUR) en el siguiente enlace!

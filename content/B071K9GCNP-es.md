@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071K9GCNP/?tag=tolees-21'
 descuento: '75.15'
+average: '99.15'
 ---
 
 Ahora mismo tienes [BOSS Obane Chaqueta  Azul  Dark Blue 404   Medium  Talla del Fabricante: 52  para Hombre](https://www.amazon.es/dp/B071K9GCNP/?tag=tolees-21) a 99.15 EUR (original: 399 EUR) (75.15 %  de descuento) en el siguiente enlace!

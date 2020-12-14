@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FTSCTZP/?tag=tolees-21'
 descuento: '77.19'
+average: '22.8'
 ---
 
 Está [Lee Scarlett Jeans Vaqueros Skinny  Azul  Flight Wj   34W/33L para Mujer](https://www.amazon.es/dp/B07FTSCTZP/?tag=tolees-21) con 77.19 de descuento por 22.8 EUR (original: 99.95 EUR) en el siguiente enlace!

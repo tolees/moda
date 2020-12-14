@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GCHDHQB/?tag=tolees-21'
 descuento: '56.76'
+average: '25.51'
 ---
 
 Está [El Ganso P. Esmerilado  Camisa Casual para Hombre   Verde   XX-Large  Tamaño del Fabricante:XXL ](https://www.amazon.es/dp/B07GCHDHQB/?tag=tolees-21) con 56.76 de descuento por 25.51 EUR (original: 59 EUR) en el siguiente enlace!

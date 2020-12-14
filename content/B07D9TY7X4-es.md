@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D9TY7X4/?tag=tolees-21'
 descuento: '76.15'
+average: '16.68'
 ---
 
 Tienes [Mustang Schnür-Stiefelette  Botines para Mujer  Marrón  Kaffee 306   36 EU](https://www.amazon.es/dp/B07D9TY7X4/?tag=tolees-21) con un 76.15 % de descuento con precio de oferta de 16.68 EUR (original: 69.95 EUR) en el siguiente enlace!

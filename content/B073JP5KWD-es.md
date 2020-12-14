@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073JP5KWD/?tag=tolees-21'
 descuento: '70.00'
+average: '7.5'
 ---
 
 Tienes [FIND Textured Overhead  Sudadera con Capucha Hombre  Negro  Schwarz   48  Talla del fabricante: Small ](https://www.amazon.es/dp/B073JP5KWD/?tag=tolees-21) con un 70.00 % de descuento con precio de oferta de 7.5 EUR (original: 25 EUR) en el siguiente enlace!

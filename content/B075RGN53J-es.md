@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075RGN53J/?tag=tolees-21'
 descuento: '75.00'
+average: '11.5'
 ---
 
 Ahora mismo tienes [Double Agent 87404 Sudadera  Gris  Azul Vigore     Tamaño del Fabricante:M  para Mujer](https://www.amazon.es/dp/B075RGN53J/?tag=tolees-21) a 11.5 EUR (original: 46 EUR) (75.00 %  de descuento) en el siguiente enlace!

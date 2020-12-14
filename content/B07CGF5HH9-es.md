@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CGF5HH9/?tag=tolees-21'
 descuento: '69.52'
+average: '12.19'
 ---
 
 Tienes [JACK & JONES PREMIUM Jprblackpool Shirt L/s Au18 STS  Camisa para Hombre   White AOP:Slim Fit  Large](https://www.amazon.es/dp/B07CGF5HH9/?tag=tolees-21) con un 69.52 % de descuento con precio de oferta de 12.19 EUR (original: 39.99 EUR) en el siguiente enlace!

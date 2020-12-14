@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079SS5G8N/?tag=tolees-21'
 descuento: '55.84'
+average: '17.64'
 ---
 
 Ahora mismo tienes [Desigual TS Dalila Camiseta de Manga 3/4  Azul  Navy 5000   S para Mujer](https://www.amazon.es/dp/B079SS5G8N/?tag=tolees-21) a 17.64 EUR (original: 39.95 EUR) (55.84 %  de descuento) en el siguiente enlace!

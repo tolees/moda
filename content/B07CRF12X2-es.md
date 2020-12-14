@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CRF12X2/?tag=tolees-21'
 descuento: '33.32'
+average: '16.67'
 ---
 
 Tienes [Pepe Jeans Andrea  Camiseta para Mujer    Steel Blue 563  Large](https://www.amazon.es/dp/B07CRF12X2/?tag=tolees-21) con un 33.32 % de descuento con precio de oferta de 16.67 EUR (original: 25 EUR) en el siguiente enlace!

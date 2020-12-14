@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F33WW5N/?tag=tolees-21'
 descuento: '61.54'
+average: '11.52'
 ---
 
 Tienes [adidas Response tee M  Camiseta de Tirantes para Hombre  Rojo Noble Maroon F18  Large](https://www.amazon.es/dp/B07F33WW5N/?tag=tolees-21) con un 61.54 % de descuento con precio de oferta de 11.52 EUR (original: 29.95 EUR) en el siguiente enlace!

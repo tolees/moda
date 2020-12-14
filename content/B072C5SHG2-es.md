@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072C5SHG2/?tag=tolees-21'
 descuento: '68.37'
+average: '12.65'
 ---
 
 Está [PIECES Pcfive Delly B156 MW Skn Des JNS MB/Noos Vaqueros Skinny  Azul  Medium Blue Denim   34 /L32  Talla del Fabricante: X-Small  para Mujer](https://www.amazon.es/dp/B072C5SHG2/?tag=tolees-21) con 68.37 de descuento por 12.65 EUR (original: 39.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DQ4BD2K/?tag=tolees-21'
 descuento: '49.01'
+average: '56.09'
 ---
 
 Está [Burton Exile Cargo Pantalón de Snowboard  Niños  Rojo  Bitters   L](https://www.amazon.es/dp/B07DQ4BD2K/?tag=tolees-21) con 49.01 de descuento por 56.09 EUR (original: 110 EUR) en el siguiente enlace!

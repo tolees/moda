@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01EC0F7E2/?tag=tolees-21'
 descuento: '85.42'
+average: '20.41'
 ---
 
 Está [KENNETH COLE Bueller Botines Mujer  Negro  Black 001   38 EU  5.5 UK ](https://www.amazon.es/dp/B01EC0F7E2/?tag=tolees-21) con 85.42 de descuento por 20.41 EUR (original: 140 EUR) en el siguiente enlace!

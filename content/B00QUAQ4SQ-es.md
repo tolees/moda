@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00QUAQ4SQ/?tag=tolees-21'
 descuento: '51.11'
+average: '7.95'
 ---
 
 Está [Aqua Sphere Beach Walker Kids Agua Guantes  Rosa/Rose  34 EU](https://www.amazon.es/dp/B00QUAQ4SQ/?tag=tolees-21) con 51.11 de descuento por 7.95 EUR (original: 16.26 EUR) en el siguiente enlace!

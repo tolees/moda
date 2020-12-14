@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078VRBGCP/?tag=tolees-21'
 descuento: '48.20'
+average: '31.08'
 ---
 
 Tienes [Volcom Imprint Crew Sudadera  Hombre  Azul Oscuro  XL](https://www.amazon.es/dp/B078VRBGCP/?tag=tolees-21) con un 48.20 % de descuento con precio de oferta de 31.08 EUR (original: 60 EUR) en el siguiente enlace!

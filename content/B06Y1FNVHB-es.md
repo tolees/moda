@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06Y1FNVHB/?tag=tolees-21'
 descuento: '72.83'
+average: '31.25'
 ---
 
 Está [Geox D Prestyn B  Zapatos de Vestir para Mujer  Marrón  Dk Coffee   37 EU](https://www.amazon.es/dp/B06Y1FNVHB/?tag=tolees-21) con 72.83 de descuento por 31.25 EUR (original: 115 EUR) en el siguiente enlace!

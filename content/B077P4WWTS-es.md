@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077P4WWTS/?tag=tolees-21'
 descuento: '84.75'
+average: '13.72'
 ---
 
 Tienes [Lee Scarlett Vaqueros Skinny  Gris  Stone Grey Lcao   W24/L33  Talla del Fabricante: 24/33  para Mujer](https://www.amazon.es/dp/B077P4WWTS/?tag=tolees-21) con un 84.75 % de descuento con precio de oferta de 13.72 EUR (original: 89.95 EUR) en el siguiente enlace!

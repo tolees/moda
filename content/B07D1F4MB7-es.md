@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D1F4MB7/?tag=tolees-21'
 descuento: '48.42'
+average: '33.53'
 ---
 
 Está [Asics Gel-Rocket 8  Zapatos de Voleibol para Mujer  Gris  Mid Grey/Pink GLO 020   40.5 EU](https://www.amazon.es/dp/B07D1F4MB7/?tag=tolees-21) con 48.42 de descuento por 33.53 EUR (original: 65 EUR) en el siguiente enlace!

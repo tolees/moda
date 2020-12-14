@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FFB8HX1/?tag=tolees-21'
 descuento: '60.69'
+average: '10.61'
 ---
 
 Está [Only Onlmaye 3/4 V-Neck Dress CC Knt  Vestido para Mujer   Night Sky Stripes:W. Hazelnut Melange  38  Talla del Fabricante: Small ](https://www.amazon.es/dp/B07FFB8HX1/?tag=tolees-21) con 60.69 de descuento por 10.61 EUR (original: 26.99 EUR) en el siguiente enlace!

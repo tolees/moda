@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DL82NGT/?tag=tolees-21'
 descuento: '60.48'
+average: '7.9'
 ---
 
 Ahora mismo tienes [Springfield 6.T.Ap. Chenilla Bimateri Camiseta de Manga Larga  Mujer  Azul  Azul Marino 10   Medium  Tamaño del Fabricante:M ](https://www.amazon.es/dp/B07DL82NGT/?tag=tolees-21) a 7.9 EUR (original: 19.99 EUR) (60.48 %  de descuento) en el siguiente enlace!

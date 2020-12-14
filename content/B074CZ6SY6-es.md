@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074CZ6SY6/?tag=tolees-21'
 descuento: '50.99'
+average: '17.64'
 ---
 
 Ahora mismo tienes [Tom Tailor Denim Lurex Peplum Shirt  Camisa Manga Larga para Mujer  Azul  Dark Blue 6012   38  Talla del Fabricante: Medium ](https://www.amazon.es/dp/B074CZ6SY6/?tag=tolees-21) a 17.64 EUR (original: 35.99 EUR) (50.99 %  de descuento) en el siguiente enlace!

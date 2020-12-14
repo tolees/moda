@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07J1LWWNP/?tag=tolees-21'
 descuento: '98.03'
+average: '0.36'
 ---
 
 Ahora mismo tienes [LuckyGirls Zapatillas de Correr Malla Jogging Zapatos Informales con Cordones Calzado Deportivo](https://www.amazon.es/dp/B07J1LWWNP/?tag=tolees-21) a 0.36 EUR (original: 18.23 EUR) (98.03 %  de descuento) en el siguiente enlace!

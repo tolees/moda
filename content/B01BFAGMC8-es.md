@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01BFAGMC8/?tag=tolees-21'
 descuento: '66.78'
+average: '17.79'
 ---
 
 Tienes [HHG Vestido Blanco/Negro S](https://www.amazon.es/dp/B01BFAGMC8/?tag=tolees-21) con un 66.78 % de descuento con precio de oferta de 17.79 EUR (original: 53.55 EUR) en el siguiente enlace!

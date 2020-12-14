@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CQQKCLT/?tag=tolees-21'
 descuento: '45.81'
+average: '78.57'
 ---
 
 Está [Aigle Mooven Gore-Tex  Zapatos de Low Rise Senderismo para Hombre  Gris  Midgrey/Capri   39 EU](https://www.amazon.es/dp/B07CQQKCLT/?tag=tolees-21) con 45.81 de descuento por 78.57 EUR (original: 145 EUR) en el siguiente enlace!

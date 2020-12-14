@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KZ5DH1H/?tag=tolees-21'
 descuento: '33.31'
+average: '33.34'
 ---
 
 Está [JACK & JONES Jorocean Ground Jacket  Chaqueta Hombre  Rojo  Scarlet   Large](https://www.amazon.es/dp/B07KZ5DH1H/?tag=tolees-21) con 33.31 de descuento por 33.34 EUR (original: 49.99 EUR) en el siguiente enlace!

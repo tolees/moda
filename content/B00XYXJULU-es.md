@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00XYXJULU/?tag=tolees-21'
 descuento: '90.76'
+average: '12.93'
 ---
 
 Tienes [Tantra Strap Sandals with Beads - Sandalias para Mujer  Color Verde  Talla 39](https://www.amazon.es/dp/B00XYXJULU/?tag=tolees-21) con un 90.76 % de descuento con precio de oferta de 12.93 EUR (original: 140 EUR) en el siguiente enlace!

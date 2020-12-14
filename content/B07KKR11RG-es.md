@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KKR11RG/?tag=tolees-21'
 descuento: '59.79'
+average: '15.28'
 ---
 
 Tienes [Naf Naf Kenc36 Blusa  Marfil  Écru 333   44 para Mujer](https://www.amazon.es/dp/B07KKR11RG/?tag=tolees-21) con un 59.79 % de descuento con precio de oferta de 15.28 EUR (original: 38 EUR) en el siguiente enlace!

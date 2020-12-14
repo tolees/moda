@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FTL5TQY/?tag=tolees-21'
 descuento: '57.99'
+average: '41.99'
 ---
 
 Tienes [Lee Rider  Vaqueros slim para Hombre  Azul  Blue Days Ib  W38/L32](https://www.amazon.es/dp/B07FTL5TQY/?tag=tolees-21) con un 57.99 % de descuento con precio de oferta de 41.99 EUR (original: 99.95 EUR) en el siguiente enlace!

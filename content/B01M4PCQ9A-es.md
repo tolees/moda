@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01M4PCQ9A/?tag=tolees-21'
 descuento: '52.10'
+average: '205.5'
 ---
 
 Ahora mismo tienes [Fendi FF 0191/S O7 DDB  Gafas de Sol para Mujer  Dorado  Gold Copper/Green Ltgreenaf   55](https://www.amazon.es/dp/B01M4PCQ9A/?tag=tolees-21) a 205.5 EUR (original: 429 EUR) (52.10 %  de descuento) en el siguiente enlace!

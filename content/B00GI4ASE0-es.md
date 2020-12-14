@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00GI4ASE0/?tag=tolees-21'
 descuento: '58.91'
+average: '5.6'
 ---
 
 Está [I-D-C CID Vd-pe10759t Camiseta de Tirantes  Azul  Blue   X-Large para Hombre](https://www.amazon.es/dp/B00GI4ASE0/?tag=tolees-21) con 58.91 de descuento por 5.6 EUR (original: 13.63 EUR) en el siguiente enlace!

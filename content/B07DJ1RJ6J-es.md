@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DJ1RJ6J/?tag=tolees-21'
 descuento: '75.26'
+average: '65.55'
 ---
 
 Ahora mismo tienes [Diesel Buster  Vaqueros Straight para Hombre  Azul  01 Blue Denim 0076q   W38/L32](https://www.amazon.es/dp/B07DJ1RJ6J/?tag=tolees-21) a 65.55 EUR (original: 265 EUR) (75.26 %  de descuento) en el siguiente enlace!

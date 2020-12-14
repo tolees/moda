@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FSDRHPQ/?tag=tolees-21'
 descuento: '57.73'
+average: '29.57'
 ---
 
 Está [Clarks Step Isle Crew  Zapatos de Cordones Derby para Hombre  Negro  Black-   44.5 EU](https://www.amazon.es/dp/B07FSDRHPQ/?tag=tolees-21) con 57.73 de descuento por 29.57 EUR (original: 69.95 EUR) en el siguiente enlace!

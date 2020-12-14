@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078SWFJWZ/?tag=tolees-21'
 descuento: '62.62'
+average: '224.29'
 ---
 
 Tienes [Gant The Rough Weather Slicker  Chaqueta Hombre  Azul  Navy   Large](https://www.amazon.es/dp/B078SWFJWZ/?tag=tolees-21) con un 62.62 % de descuento con precio de oferta de 224.29 EUR (original: 599.99 EUR) en el siguiente enlace!

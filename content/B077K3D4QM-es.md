@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077K3D4QM/?tag=tolees-21'
 descuento: '84.19'
+average: '15.65'
 ---
 
 Tienes [REPLAY Jacksy Vaqueros Skinny  Azul  Light Blue 9   W29/L34  Talla del Fabricante: 29  para Mujer](https://www.amazon.es/dp/B077K3D4QM/?tag=tolees-21) con un 84.19 % de descuento con precio de oferta de 15.65 EUR (original: 99 EUR) en el siguiente enlace!

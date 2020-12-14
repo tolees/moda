@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DHZ6LDK/?tag=tolees-21'
 descuento: '33.76'
+average: '66.17'
 ---
 
 Está [Geox D Sukie a  Zapatillas para Mujer  Beige  Lt Grey C1010   38 EU](https://www.amazon.es/dp/B07DHZ6LDK/?tag=tolees-21) con 33.76 de descuento por 66.17 EUR (original: 99.9 EUR) en el siguiente enlace!

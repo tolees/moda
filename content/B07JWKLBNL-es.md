@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JWKLBNL/?tag=tolees-21'
 descuento: '29.08'
+average: '42.55'
 ---
 
 Está [Lacoste Tf3924  Camiseta Mujer  Azul  Maree 1 S6t   40](https://www.amazon.es/dp/B07JWKLBNL/?tag=tolees-21) con 29.08 de descuento por 42.55 EUR (original: 60 EUR) en el siguiente enlace!

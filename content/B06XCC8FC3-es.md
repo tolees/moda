@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XCC8FC3/?tag=tolees-21'
 descuento: '81.77'
+average: '25.51'
 ---
 
 Ahora mismo tienes [G-STAR RAW Revend Vaqueros skinny para Hombre para Hombre  Azul  medium aged 8977-071   38W / 36L](https://www.amazon.es/dp/B06XCC8FC3/?tag=tolees-21) a 25.51 EUR (original: 139.95 EUR) (81.77 %  de descuento) en el siguiente enlace!

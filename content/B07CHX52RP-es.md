@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CHX52RP/?tag=tolees-21'
 descuento: '60.08'
+average: '23.95'
 ---
 
 Ahora mismo tienes [Levi s Barstow Western Camisa   Wildcat Dress Blues 0280   Medium para Hombre](https://www.amazon.es/dp/B07CHX52RP/?tag=tolees-21) a 23.95 EUR (original: 60 EUR) (60.08 %  de descuento) en el siguiente enlace!

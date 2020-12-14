@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0736ZNQGM/?tag=tolees-21'
 descuento: '63.35'
+average: '10.99'
 ---
 
 Está [Vero Moda Vmava Svea 3/4 Rib Blouse Boo  suéter Mujer  Rosa  Rose Cloud   40  Talla del Fabricante: Large ](https://www.amazon.es/dp/B0736ZNQGM/?tag=tolees-21) con 63.35 de descuento por 10.99 EUR (original: 29.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CS6VQ2V/?tag=tolees-21'
 descuento: '52.58'
+average: '14.18'
 ---
 
 Tienes [Pepe Jeans Izzo  Camiseta Hombre   Off White 803 ](https://www.amazon.es/dp/B07CS6VQ2V/?tag=tolees-21) con un 52.58 % de descuento con precio de oferta de 14.18 EUR (original: 29.9 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KZ55NCT/?tag=tolees-21'
 descuento: '79.39'
+average: '8.24'
 ---
 
 Ahora mismo tienes [JACK & JONES Jorknox Shirt LS Camisa   Bonnie Blue Fit:Slim   Small para Hombre](https://www.amazon.es/dp/B07KZ55NCT/?tag=tolees-21) a 8.24 EUR (original: 39.99 EUR) (79.39 %  de descuento) en el siguiente enlace!

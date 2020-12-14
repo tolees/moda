@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074J7WZZC/?tag=tolees-21'
 descuento: '44.45'
+average: '24.99'
 ---
 
 Tienes [Under Armour Challenger II Training Pant Pantalón Largo  Hombre  Negro  Black/Royal/Overcast Gray 002   L](https://www.amazon.es/dp/B074J7WZZC/?tag=tolees-21) con un 44.45 % de descuento con precio de oferta de 24.99 EUR (original: 44.99 EUR) en el siguiente enlace!

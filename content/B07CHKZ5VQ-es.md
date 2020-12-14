@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CHKZ5VQ/?tag=tolees-21'
 descuento: '58.18'
+average: '34.26'
 ---
 
 Tienes [BOSS Mypop Camisa Blanco  White 100  Medium para Hombre](https://www.amazon.es/dp/B07CHKZ5VQ/?tag=tolees-21) con un 58.18 % de descuento con precio de oferta de 34.26 EUR (original: 81.93 EUR) en el siguiente enlace!

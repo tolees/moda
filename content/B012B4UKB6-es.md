@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B012B4UKB6/?tag=tolees-21'
 descuento: '88.31'
+average: '10.4'
 ---
 
 Está [Les Sophistiquees Blusa Lunga A Trapezio Manica 3/4  Mujer  Verde M](https://www.amazon.es/dp/B012B4UKB6/?tag=tolees-21) con 88.31 de descuento por 10.4 EUR (original: 89 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DR1G7QF/?tag=tolees-21'
 descuento: '55.54'
+average: '16.45'
 ---
 
 Tienes [Volcom Pen BSC LS Camiseta  Hombre  Negro  M](https://www.amazon.es/dp/B07DR1G7QF/?tag=tolees-21) con un 55.54 % de descuento con precio de oferta de 16.45 EUR (original: 37 EUR) en el siguiente enlace!

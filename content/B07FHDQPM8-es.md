@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FHDQPM8/?tag=tolees-21'
 descuento: '31.75'
+average: '40.95'
 ---
 
 Tienes [Helly Hansen Hh Logo Crew Sweat  Sudadera para Hombre  Verde  Verde 471   Large](https://www.amazon.es/dp/B07FHDQPM8/?tag=tolees-21) con un 31.75 % de descuento con precio de oferta de 40.95 EUR (original: 60 EUR) en el siguiente enlace!

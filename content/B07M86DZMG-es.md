@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07M86DZMG/?tag=tolees-21'
 descuento: '50.00'
+average: '35'
 ---
 
 Tienes [The North Face Surgent Halfdome Sudadera con Capucha  Hombre  Azul  Urban Navy Heather   M](https://www.amazon.es/dp/B07M86DZMG/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 35 EUR (original: 70 EUR) en el siguiente enlace!

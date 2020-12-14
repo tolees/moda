@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N7QEI7Q/?tag=tolees-21'
 descuento: '70.13'
+average: '4.6'
 ---
 
 Tienes [oodji Collection Mujer Vestido Ajustado con Escote en la Espalda  Verde  ES 42 / L](https://www.amazon.es/dp/B01N7QEI7Q/?tag=tolees-21) con un 70.13 % de descuento con precio de oferta de 4.6 EUR (original: 15.4 EUR) en el siguiente enlace!

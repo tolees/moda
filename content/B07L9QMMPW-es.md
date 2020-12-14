@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07L9QMMPW/?tag=tolees-21'
 descuento: '58.81'
+average: '49.02'
 ---
 
 Está [Napapijri K Rainforest Sum 1 Freesia Yellow Chaqueta  Amarillo Ya7  128  Talla del Fabricante: 08  para Niños](https://www.amazon.es/dp/B07L9QMMPW/?tag=tolees-21) con 58.81 de descuento por 49.02 EUR (original: 119 EUR) en el siguiente enlace!

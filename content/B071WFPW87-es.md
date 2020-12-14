@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071WFPW87/?tag=tolees-21'
 descuento: '74.57'
+average: '10.17'
 ---
 
 Ahora mismo tienes [Only Onljanna L/s Short Hood Swt Sudadera  Azul  Sky Captain Detail:Cloud Dancer   36  Talla del Fabricante: Small  para Mujer](https://www.amazon.es/dp/B071WFPW87/?tag=tolees-21) a 10.17 EUR (original: 39.99 EUR) (74.57 %  de descuento) en el siguiente enlace!

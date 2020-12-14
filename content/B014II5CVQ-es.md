@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B014II5CVQ/?tag=tolees-21'
 descuento: '66.88'
+average: '35.77'
 ---
 
 Está [Dolce & Gabbana Junior DG4238 298987 - gafas de sol Unisex adulto  Negro  Black/Yellow 298987   Talla única  Talla del fabricante: One size ](https://www.amazon.es/dp/B014II5CVQ/?tag=tolees-21) con 66.88 de descuento por 35.77 EUR (original: 108 EUR) en el siguiente enlace!

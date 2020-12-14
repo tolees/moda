@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07PVPRT5H/?tag=tolees-21'
 descuento: '44.49'
+average: '13'
 ---
 
 Tienes [New Look Cara Ditsy Vestido  Verde  Green Pattern 39   38  Talla del Fabricante: 10  para Mujer](https://www.amazon.es/dp/B07PVPRT5H/?tag=tolees-21) con un 44.49 % de descuento con precio de oferta de 13 EUR (original: 23.42 EUR) en el siguiente enlace!

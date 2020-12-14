@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06Y2GXJ2L/?tag=tolees-21'
 descuento: '34.66'
+average: '124.15'
 ---
 
 Está [Ray-Ban 3570 Gafas de Sol  Gold Shiny Black  58 Unisex-Adulto](https://www.amazon.es/dp/B06Y2GXJ2L/?tag=tolees-21) con 34.66 de descuento por 124.15 EUR (original: 190 EUR) en el siguiente enlace!

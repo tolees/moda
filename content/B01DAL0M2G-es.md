@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01DAL0M2G/?tag=tolees-21'
 descuento: '69.82'
+average: '12.66'
 ---
 
 Tienes [Izas Fara Camisa  Mujer  Morado  Purple   XS](https://www.amazon.es/dp/B01DAL0M2G/?tag=tolees-21) con un 69.82 % de descuento con precio de oferta de 12.66 EUR (original: 41.95 EUR) en el siguiente enlace!

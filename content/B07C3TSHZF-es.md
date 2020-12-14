@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07C3TSHZF/?tag=tolees-21'
 descuento: '63.33'
+average: '44'
 ---
 
 Está [Pepe Jeans Aviary  Chaqueta para Hombre  Azul  Large](https://www.amazon.es/dp/B07C3TSHZF/?tag=tolees-21) con 63.33 de descuento por 44 EUR (original: 120 EUR) en el siguiente enlace!

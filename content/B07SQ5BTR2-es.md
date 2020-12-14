@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07SQ5BTR2/?tag=tolees-21'
 descuento: '50.01'
+average: '29.99'
 ---
 
 Ahora mismo tienes [Zapatos de Agua para Hombre Mujer Calzado de Natación Buceo Snorkel Piscina Playa Deportes Acuáticos Surf Escarpines](https://www.amazon.es/dp/B07SQ5BTR2/?tag=tolees-21) a 29.99 EUR (original: 59.99 EUR) (50.01 %  de descuento) en el siguiente enlace!

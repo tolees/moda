@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01LXDV9BR/?tag=tolees-21'
 descuento: '39.43'
+average: '66.63'
 ---
 
 Está [Levi s 502 Regular Taper  Vaqueros Tapered para Hombre  Azul  City Park 11   W32/L32  Talla del fabricante: 32/32 ](https://www.amazon.es/dp/B01LXDV9BR/?tag=tolees-21) con 39.43 de descuento por 66.63 EUR (original: 110 EUR) en el siguiente enlace!

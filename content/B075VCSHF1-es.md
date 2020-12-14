@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075VCSHF1/?tag=tolees-21'
 descuento: '53.14'
+average: '15.23'
 ---
 
 Está [Hurley One&Only Push Through Camiseta de Mangas Largas  Hombre  Gris  Grey Heather   L](https://www.amazon.es/dp/B075VCSHF1/?tag=tolees-21) con 53.14 de descuento por 15.23 EUR (original: 32.5 EUR) en el siguiente enlace!

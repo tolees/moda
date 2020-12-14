@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CZPHXDK/?tag=tolees-21'
 descuento: '42.32'
+average: '14.99'
 ---
 
 Está [Under Armour Sportstyle Logo Tank Camiseta sin Mangas  Hombre  Azul Academy/White 408  XXL](https://www.amazon.es/dp/B07CZPHXDK/?tag=tolees-21) con 42.32 de descuento por 14.99 EUR (original: 25.99 EUR) en el siguiente enlace!

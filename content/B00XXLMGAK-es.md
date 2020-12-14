@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00XXLMGAK/?tag=tolees-21'
 descuento: '67.72'
+average: '16.12'
 ---
 
 Tienes [ICHI Erin IZARO Vaqueros  10001 Black  W27/L32  27  para Mujer](https://www.amazon.es/dp/B00XXLMGAK/?tag=tolees-21) con un 67.72 % de descuento con precio de oferta de 16.12 EUR (original: 49.94 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CRJ7MLB/?tag=tolees-21'
 descuento: '40.87'
+average: '17.68'
 ---
 
 Ahora mismo tienes [Pepe Jeans West Sir Camiseta    Vert Woods 671   Medium para Hombre](https://www.amazon.es/dp/B07CRJ7MLB/?tag=tolees-21) a 17.68 EUR (original: 29.9 EUR) (40.87 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KL4JPB4/?tag=tolees-21'
 descuento: '50.09'
+average: '14.32'
 ---
 
 Tienes [adidas Own The Run tee Camiseta  Hombre  Gris  Grey/Reflective Silver   L](https://www.amazon.es/dp/B07KL4JPB4/?tag=tolees-21) con un 50.09 % de descuento con precio de oferta de 14.32 EUR (original: 28.69 EUR) en el siguiente enlace!

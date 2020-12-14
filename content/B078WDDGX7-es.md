@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078WDDGX7/?tag=tolees-21'
 descuento: '54.09'
+average: '112.94'
 ---
 
 Está [Love Moschino Kleid  Vestido Mujer   P.Hearts/White 0037   42  Talla del Fabricante: 46 ](https://www.amazon.es/dp/B078WDDGX7/?tag=tolees-21) con 54.09 de descuento por 112.94 EUR (original: 246 EUR) en el siguiente enlace!

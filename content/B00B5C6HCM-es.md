@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00B5C6HCM/?tag=tolees-21'
 descuento: '79.73'
+average: '10.68'
 ---
 
 Ahora mismo tienes [Peppa Pig 229STARE92 - Guantes y bufanda y bolsa de lazo 3D  color Rosa  3-5 Años](https://www.amazon.es/dp/B00B5C6HCM/?tag=tolees-21) a 10.68 EUR (original: 52.7 EUR) (79.73 %  de descuento) en el siguiente enlace!

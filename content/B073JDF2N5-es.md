@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073JDF2N5/?tag=tolees-21'
 descuento: '77.58'
+average: '11.21'
 ---
 
 Ahora mismo tienes [Cortefiel C3BCK Shawl Estuctura AN Jersey  Hombre  Azul  Marine blue   Medium  Tamaño del fabricante:M ](https://www.amazon.es/dp/B073JDF2N5/?tag=tolees-21) a 11.21 EUR (original: 49.99 EUR) (77.58 %  de descuento) en el siguiente enlace!

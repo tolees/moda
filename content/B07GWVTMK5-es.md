@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GWVTMK5/?tag=tolees-21'
 descuento: '53.64'
+average: '51'
 ---
 
 Tienes [New Balance MS X90 TBH de la Zapatilla de deporte para hombres azul gris rojo  44 EU](https://www.amazon.es/dp/B07GWVTMK5/?tag=tolees-21) con un 53.64 % de descuento con precio de oferta de 51 EUR (original: 110 EUR) en el siguiente enlace!

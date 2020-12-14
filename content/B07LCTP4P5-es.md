@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07LCTP4P5/?tag=tolees-21'
 descuento: '51.33'
+average: '62.78'
 ---
 
 Está [Tommy Hilfiger Slim Bleecker Pstr Hilliard Blue Vaqueros  Azul 911  W33/L32  Talla del Fabricante: 3233  para Hombre](https://www.amazon.es/dp/B07LCTP4P5/?tag=tolees-21) con 51.33 de descuento por 62.78 EUR (original: 129 EUR) en el siguiente enlace!

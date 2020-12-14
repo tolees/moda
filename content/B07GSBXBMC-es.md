@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GSBXBMC/?tag=tolees-21'
 descuento: '56.89'
+average: '17.24'
 ---
 
 Está [JACK & JONES Jjitim Jjoriginal Am 817  Vaqueros Slim Hombre  Negro  Black Denim Black Denim   W32/L34](https://www.amazon.es/dp/B07GSBXBMC/?tag=tolees-21) con 56.89 de descuento por 17.24 EUR (original: 39.99 EUR) en el siguiente enlace!

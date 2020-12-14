@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DLCDCVM/?tag=tolees-21'
 descuento: '47.07'
+average: '10.58'
 ---
 
 Está [Springfield 2Ba Basic Polo  Sudadera para Hombre   Gama Azules 11   Medium  Tamaño del Fabricante:M ](https://www.amazon.es/dp/B07DLCDCVM/?tag=tolees-21) con 47.07 de descuento por 10.58 EUR (original: 19.99 EUR) en el siguiente enlace!

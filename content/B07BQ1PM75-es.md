@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BQ1PM75/?tag=tolees-21'
 descuento: '77.33'
+average: '22.66'
 ---
 
 Ahora mismo tienes [Lee Elly Vaqueros Skinny  Azul  Greenway Et   W30/L35 para Mujer](https://www.amazon.es/dp/B07BQ1PM75/?tag=tolees-21) a 22.66 EUR (original: 99.95 EUR) (77.33 %  de descuento) en el siguiente enlace!

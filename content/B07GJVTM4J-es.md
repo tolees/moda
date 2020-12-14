@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GJVTM4J/?tag=tolees-21'
 descuento: '42.91'
+average: '31.34'
 ---
 
 Ahora mismo tienes [Carrera Boxer Nbx  Zapatillas de Cross para Hombre  Azul  Deep 01   45 EU](https://www.amazon.es/dp/B07GJVTM4J/?tag=tolees-21) a 31.34 EUR (original: 54.9 EUR) (42.91 %  de descuento) en el siguiente enlace!

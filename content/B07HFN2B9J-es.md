@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HFN2B9J/?tag=tolees-21'
 descuento: '70.32'
+average: '26.68'
 ---
 
 Tienes [Tommy Hilfiger Slim Check Shirt  Camisa Hombre  Rojo  Goji Berry/ 902   XX-Large](https://www.amazon.es/dp/B07HFN2B9J/?tag=tolees-21) con un 70.32 % de descuento con precio de oferta de 26.68 EUR (original: 89.9 EUR) en el siguiente enlace!

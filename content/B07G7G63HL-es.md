@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07G7G63HL/?tag=tolees-21'
 descuento: '40.15'
+average: '17.95'
 ---
 
 Ahora mismo tienes [Superdry Premium Goods Puff Entry tee Camiseta de Tirantes  Azul  Supermarine Navy Jzd   XX-Small  Talla del Fabricante: 6  para Mujer](https://www.amazon.es/dp/B07G7G63HL/?tag=tolees-21) a 17.95 EUR (original: 29.99 EUR) (40.15 %  de descuento) en el siguiente enlace!

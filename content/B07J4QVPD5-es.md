@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07J4QVPD5/?tag=tolees-21'
 descuento: '30.01'
+average: '18.89'
 ---
 
 Está [IRIS & LILLY Kt122 Bikini  Azul  Blue/White Stripe   S  85B 70B ](https://www.amazon.es/dp/B07J4QVPD5/?tag=tolees-21) con 30.01 de descuento por 18.89 EUR (original: 26.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CRD9B4R/?tag=tolees-21'
 descuento: '74.69'
+average: '13.92'
 ---
 
 Ahora mismo tienes [Pepe Jeans Fredrick Sudadera    Dulwich 594   2 años para Niños](https://www.amazon.es/dp/B07CRD9B4R/?tag=tolees-21) a 13.92 EUR (original: 55 EUR) (74.69 %  de descuento) en el siguiente enlace!

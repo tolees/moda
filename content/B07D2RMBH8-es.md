@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D2RMBH8/?tag=tolees-21'
 descuento: '49.89'
+average: '199.95'
 ---
 
 Ahora mismo tienes [Gant G2. Classic Tailored Coat  Abrigo Mujer  Rosa  Pink Embrace Mel 687   42  Talla del Fabricante: Large ](https://www.amazon.es/dp/B07D2RMBH8/?tag=tolees-21) a 199.95 EUR (original: 399 EUR) (49.89 %  de descuento) en el siguiente enlace!

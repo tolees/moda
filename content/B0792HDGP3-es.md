@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0792HDGP3/?tag=tolees-21'
 descuento: '52.54'
+average: '18.98'
 ---
 
 Tienes [Quiksilver Crucial Battle Pantalón Corto  Niños  Gris  Quiet Shade   26/12](https://www.amazon.es/dp/B0792HDGP3/?tag=tolees-21) con un 52.54 % de descuento con precio de oferta de 18.98 EUR (original: 39.99 EUR) en el siguiente enlace!

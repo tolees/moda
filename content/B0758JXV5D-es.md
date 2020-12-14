@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0758JXV5D/?tag=tolees-21'
 descuento: '57.04'
+average: '6.87'
 ---
 
 Está [edc by Esprit 127cc1k093 Camiseta  Blanco  Off White 110   X-Large para Mujer](https://www.amazon.es/dp/B0758JXV5D/?tag=tolees-21) con 57.04 de descuento por 6.87 EUR (original: 15.99 EUR) en el siguiente enlace!

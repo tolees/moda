@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01E5PJHXG/?tag=tolees-21'
 descuento: '51.85'
+average: '10.57'
 ---
 
 Tienes [Miami Beach Swimwear Rosa  Bikini Mujer  Rojo  fusion red   40](https://www.amazon.es/dp/B01E5PJHXG/?tag=tolees-21) con un 51.85 % de descuento con precio de oferta de 10.57 EUR (original: 21.95 EUR) en el siguiente enlace!

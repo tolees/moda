@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079Q34JJK/?tag=tolees-21'
 descuento: '75.12'
+average: '27.36'
 ---
 
 Ahora mismo tienes [Lee Scarlett Vaqueros Skinny  Negro  Black Trash Vn   W24/L29 para Mujer](https://www.amazon.es/dp/B079Q34JJK/?tag=tolees-21) a 27.36 EUR (original: 109.95 EUR) (75.12 %  de descuento) en el siguiente enlace!

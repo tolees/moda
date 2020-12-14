@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N6HD8PB/?tag=tolees-21'
 descuento: '60.00'
+average: '57.49'
 ---
 
 Tienes [Zapatilla De Padel Asics Gel Bela 5 SG E607Y Color 4301-45](https://www.amazon.es/dp/B01N6HD8PB/?tag=tolees-21) con un 60.00 % de descuento con precio de oferta de 57.49 EUR (original: 143.74 EUR) en el siguiente enlace!

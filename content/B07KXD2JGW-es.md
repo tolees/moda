@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KXD2JGW/?tag=tolees-21'
 descuento: '44.12'
+average: '175.46'
 ---
 
 Tienes [Love Moschino Embroidered Allover \Ladybirds\_Fleece Dress Vestido  Gris  Embroidery 8004   42  Talla del Fabricante: Medium  para Mujer](https://www.amazon.es/dp/B07KXD2JGW/?tag=tolees-21) con un 44.12 % de descuento con precio de oferta de 175.46 EUR (original: 314 EUR) en el siguiente enlace!

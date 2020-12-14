@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078H3DFZH/?tag=tolees-21'
 descuento: '55.12'
+average: '5.83'
 ---
 
 Tienes [Springfield 3283240 Camiseta  Hombre  Azul  Azul Marino   Medium  Tamaño del Fabricante:M ](https://www.amazon.es/dp/B078H3DFZH/?tag=tolees-21) con un 55.12 % de descuento con precio de oferta de 5.83 EUR (original: 12.99 EUR) en el siguiente enlace!

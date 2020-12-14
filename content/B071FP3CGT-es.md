@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071FP3CGT/?tag=tolees-21'
 descuento: '80.94'
+average: '26.68'
 ---
 
 Ahora mismo tienes [G-STAR RAW Midge Zip Mid Waist Skinny Vaqueros  Azul  lt Vintage Aged Destroy 8969-9114   25W / 32L para Mujer](https://www.amazon.es/dp/B071FP3CGT/?tag=tolees-21) a 26.68 EUR (original: 139.95 EUR) (80.94 %  de descuento) en el siguiente enlace!

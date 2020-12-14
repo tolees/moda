@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MSZD91C/?tag=tolees-21'
 descuento: '63.43'
+average: '12.8'
 ---
 
 Ahora mismo tienes [find. Lace Trim Shoulder Blusa para Mujer  Rosa  Old Rose   42  Talla del Fabricante: Large ](https://www.amazon.es/dp/B01MSZD91C/?tag=tolees-21) a 12.8 EUR (original: 35 EUR) (63.43 %  de descuento) en el siguiente enlace!

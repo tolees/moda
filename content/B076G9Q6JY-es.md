@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076G9Q6JY/?tag=tolees-21'
 descuento: '60.00'
+average: '35.96'
 ---
 
 Está [Pepe Jeans Hatch  Vaqueros Slim para Hombre  Azul  Denim Tru Blu Dark CE7   W31/L32](https://www.amazon.es/dp/B076G9Q6JY/?tag=tolees-21) con 60.00 de descuento por 35.96 EUR (original: 89.9 EUR) en el siguiente enlace!

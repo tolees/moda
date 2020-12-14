@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07L1DCYGD/?tag=tolees-21'
 descuento: '76.73'
+average: '6.98'
 ---
 
 Ahora mismo tienes [JACK & JONES Jorcolby Shirt LS Camisa   Fiery Red Fit:Slim   Medium para Hombre](https://www.amazon.es/dp/B07L1DCYGD/?tag=tolees-21) a 6.98 EUR (original: 29.99 EUR) (76.73 %  de descuento) en el siguiente enlace!

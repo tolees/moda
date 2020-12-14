@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01JYVEHRM/?tag=tolees-21'
 descuento: '44.86'
+average: '49.63'
 ---
 
 Está [Levi s 501 Original Fit Vaqueros  Azul Marlon 0162   40W / 32L para Hombre](https://www.amazon.es/dp/B01JYVEHRM/?tag=tolees-21) con 44.86 de descuento por 49.63 EUR (original: 90 EUR) en el siguiente enlace!

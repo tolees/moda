@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073JHWSJC/?tag=tolees-21'
 descuento: '77.42'
+average: '9.03'
 ---
 
 Está [Cortefiel C7CC Caja Estructura Jersey  Hombre  Verde  Wales   X-Large  Tamaño del fabricante:XL ](https://www.amazon.es/dp/B073JHWSJC/?tag=tolees-21) con 77.42 de descuento por 9.03 EUR (original: 39.99 EUR) en el siguiente enlace!

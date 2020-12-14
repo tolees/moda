@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B012L3A3IW/?tag=tolees-21'
 descuento: '71.22'
+average: '37.13'
 ---
 
 Tienes [Dickies Curtis  Parka para Hombre  Verde  Olive Green   X-Large](https://www.amazon.es/dp/B012L3A3IW/?tag=tolees-21) con un 71.22 % de descuento con precio de oferta de 37.13 EUR (original: 129 EUR) en el siguiente enlace!

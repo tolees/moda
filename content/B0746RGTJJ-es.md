@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0746RGTJJ/?tag=tolees-21'
 descuento: '48.27'
+average: '25.84'
 ---
 
 Ahora mismo tienes [Spagnolo Pt Denim 0640  Vaqueros Slim Para Hombre  Azul  Azul Medio   48/L33  Tamaño del fabricante: 48 ](https://www.amazon.es/dp/B0746RGTJJ/?tag=tolees-21) a 25.84 EUR (original: 49.95 EUR) (48.27 %  de descuento) en el siguiente enlace!

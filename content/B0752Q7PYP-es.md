@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0752Q7PYP/?tag=tolees-21'
 descuento: '52.01'
+average: '11.47'
 ---
 
 Tienes [Havaianas Brasil Logo  Chanclas para Unisex Adulto  Morado  Grape Wine   35/36 EU  33/34 Brazilian ](https://www.amazon.es/dp/B0752Q7PYP/?tag=tolees-21) con un 52.01 % de descuento con precio de oferta de 11.47 EUR (original: 23.9 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HKWD7TL/?tag=tolees-21'
 descuento: '68.79'
+average: '13.73'
 ---
 
 Ahora mismo tienes [Mayoral 3478  Chaqueta Impermeable para Niños  Naranja  Abeja 69   2 años  Tamaño del Fabricante:2 ](https://www.amazon.es/dp/B07HKWD7TL/?tag=tolees-21) a 13.73 EUR (original: 43.99 EUR) (68.79 %  de descuento) en el siguiente enlace!

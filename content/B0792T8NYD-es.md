@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0792T8NYD/?tag=tolees-21'
 descuento: '64.23'
+average: '46.46'
 ---
 
 Ahora mismo tienes [Geox U New Pluges E  Zapatos de Cordones Derby para Hombre   Black C9999   42 EU](https://www.amazon.es/dp/B0792T8NYD/?tag=tolees-21) a 46.46 EUR (original: 129.9 EUR) (64.23 %  de descuento) en el siguiente enlace!

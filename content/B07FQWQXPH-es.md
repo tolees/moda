@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FQWQXPH/?tag=tolees-21'
 descuento: '47.57'
+average: '7.86'
 ---
 
 Está [JACK & JONES Jcokarl tee SS Crew Neck  Camiseta para Hombre  Blanco  White Fit:Reg - Solid Titan Slub  Large](https://www.amazon.es/dp/B07FQWQXPH/?tag=tolees-21) con 47.57 de descuento por 7.86 EUR (original: 14.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DC7GD9L/?tag=tolees-21'
 descuento: '56.83'
+average: '25.9'
 ---
 
 Ahora mismo tienes [JACK & JONES Jcobarkley Jacket  Chaqueta para Hombre  Verde Rosin  Small](https://www.amazon.es/dp/B07DC7GD9L/?tag=tolees-21) a 25.9 EUR (original: 59.99 EUR) (56.83 %  de descuento) en el siguiente enlace!

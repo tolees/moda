@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07G4MYFPC/?tag=tolees-21'
 descuento: '55.12'
+average: '25.22'
 ---
 
 Ahora mismo tienes [Dorothy Perkins Luxe Faux Fur Parka  Chaqueta para Mujer  Verde  Khaki 75  36  Talla del Fabricante: ](https://www.amazon.es/dp/B07G4MYFPC/?tag=tolees-21) a 25.22 EUR (original: 56.19 EUR) (55.12 %  de descuento) en el siguiente enlace!

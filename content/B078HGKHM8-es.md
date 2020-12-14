@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078HGKHM8/?tag=tolees-21'
 descuento: '64.29'
+average: '10.71'
 ---
 
 Ahora mismo tienes [Springfield Jersey Rayas Botones Hombros Jersey  Mujer  Rojo  Rojo/Raya Diplomat   Medium  Tamaño del Fabricante:M ](https://www.amazon.es/dp/B078HGKHM8/?tag=tolees-21) a 10.71 EUR (original: 29.99 EUR) (64.29 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07RJY273T/?tag=tolees-21'
 descuento: '77.35'
+average: '13.59'
 ---
 
 Está [Luzoeo Sandalias Mujer Cuña Alpargatas Plataforma Bohemias Zapatos Romanos Verano 2019 Mujer Moda Casual Hebilla Playa Gladiador Tacon  38EU  Gris ](https://www.amazon.es/dp/B07RJY273T/?tag=tolees-21) con 77.35 de descuento por 13.59 EUR (original: 60 EUR) en el siguiente enlace!

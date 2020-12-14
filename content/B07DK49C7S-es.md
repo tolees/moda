@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DK49C7S/?tag=tolees-21'
 descuento: '63.73'
+average: '19.95'
 ---
 
 Tienes [Geox JR Sandal Roxanne C  Sandalias con Punta Abierta para Niñas  Pink  Fuchsia C8002   35 EU](https://www.amazon.es/dp/B07DK49C7S/?tag=tolees-21) con un 63.73 % de descuento con precio de oferta de 19.95 EUR (original: 55 EUR) en el siguiente enlace!

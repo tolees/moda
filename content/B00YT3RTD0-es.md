@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00YT3RTD0/?tag=tolees-21'
 descuento: '59.94'
+average: '3.95'
 ---
 
 Tienes [Targarian Conjunto de Collar y Pendientes con 2 Corazones entrelazados en Oro Blanco y Cadena by](https://www.amazon.es/dp/B00YT3RTD0/?tag=tolees-21) con un 59.94 % de descuento con precio de oferta de 3.95 EUR (original: 9.86 EUR) en el siguiente enlace!

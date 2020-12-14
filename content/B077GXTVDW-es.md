@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077GXTVDW/?tag=tolees-21'
 descuento: '56.23'
+average: '14.4'
 ---
 
 Ahora mismo tienes [Crocs Crocband Sandal Kids  Sandalias Unisex Niños  Rosa  Carnation/Amethyst   28/29 EU](https://www.amazon.es/dp/B077GXTVDW/?tag=tolees-21) a 14.4 EUR (original: 32.9 EUR) (56.23 %  de descuento) en el siguiente enlace!

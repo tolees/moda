@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00JSBIAVS/?tag=tolees-21'
 descuento: '48.97'
+average: '6.92'
 ---
 
 Tienes [Pantalón de Trabajo de Algodón Con Bandas Reflectantes  verde](https://www.amazon.es/dp/B00JSBIAVS/?tag=tolees-21) con un 48.97 % de descuento con precio de oferta de 6.92 EUR (original: 13.56 EUR) en el siguiente enlace!

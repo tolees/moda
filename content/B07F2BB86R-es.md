@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F2BB86R/?tag=tolees-21'
 descuento: '48.07'
+average: '46.74'
 ---
 
 Ahora mismo tienes [Timberland Dausette Leather  Zapatillas para Mujer  Blanco  Hushed Violet 92s   36 EU](https://www.amazon.es/dp/B07F2BB86R/?tag=tolees-21) a 46.74 EUR (original: 90 EUR) (48.07 %  de descuento) en el siguiente enlace!

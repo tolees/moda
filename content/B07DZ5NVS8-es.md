@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DZ5NVS8/?tag=tolees-21'
 descuento: '55.07'
+average: '53.91'
 ---
 
 Ahora mismo tienes [Columbia Lake 22 Down Jacket Chaqueta  Hombre  Dark Mountain  Talla XL](https://www.amazon.es/dp/B07DZ5NVS8/?tag=tolees-21) a 53.91 EUR (original: 119.99 EUR) (55.07 %  de descuento) en el siguiente enlace!

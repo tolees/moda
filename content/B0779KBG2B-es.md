@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0779KBG2B/?tag=tolees-21'
 descuento: '69.15'
+average: '26.22'
 ---
 
 Está [Pepe Jeans Hatch  Vaqueros Slim para Hombre  Blanco  Optic White Ta2   W33/L30](https://www.amazon.es/dp/B0779KBG2B/?tag=tolees-21) con 69.15 de descuento por 26.22 EUR (original: 85 EUR) en el siguiente enlace!

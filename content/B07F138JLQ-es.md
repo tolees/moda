@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F138JLQ/?tag=tolees-21'
 descuento: '51.51'
+average: '31.52'
 ---
 
 Está [BILLABONG Balance Zip Jersey  Hombre  Azul  Midnight 23   Medium  Tamaño del Fabricante:M ](https://www.amazon.es/dp/B07F138JLQ/?tag=tolees-21) con 51.51 de descuento por 31.52 EUR (original: 65 EUR) en el siguiente enlace!

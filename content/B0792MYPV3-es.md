@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0792MYPV3/?tag=tolees-21'
 descuento: '40.09'
+average: '38.94'
 ---
 
 Tienes [Geox J Xunday Boy A  Botas Chukka para Niños  Amarillo  Dk Yellow/Brown C2286   31 EU](https://www.amazon.es/dp/B0792MYPV3/?tag=tolees-21) con un 40.09 % de descuento con precio de oferta de 38.94 EUR (original: 65 EUR) en el siguiente enlace!

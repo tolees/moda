@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079NJL65K/?tag=tolees-21'
 descuento: '69.62'
+average: '10.92'
 ---
 
 Tienes [Trucco TT16BN1 Jersey  Mujer  Naranja  Claro J1   38  Tamaño del Fabricante:S ](https://www.amazon.es/dp/B079NJL65K/?tag=tolees-21) con un 69.62 % de descuento con precio de oferta de 10.92 EUR (original: 35.95 EUR) en el siguiente enlace!

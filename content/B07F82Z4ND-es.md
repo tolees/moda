@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F82Z4ND/?tag=tolees-21'
 descuento: '73.07'
+average: '10.77'
 ---
 
 Tienes [JACK & JONES PREMIUM Jprcomfort Shirt L/s Noos  Camisa Hombre  Azul  Navy Blazer Fit:Comfort Fit   Medium](https://www.amazon.es/dp/B07F82Z4ND/?tag=tolees-21) con un 73.07 % de descuento con precio de oferta de 10.77 EUR (original: 39.99 EUR) en el siguiente enlace!

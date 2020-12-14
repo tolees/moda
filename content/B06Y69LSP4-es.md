@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06Y69LSP4/?tag=tolees-21'
 descuento: '62.49'
+average: '6.34'
 ---
 
 Está [Batman Logo Camiseta  Gris  Sports Grey   Large para Hombre](https://www.amazon.es/dp/B06Y69LSP4/?tag=tolees-21) con 62.49 de descuento por 6.34 EUR (original: 16.9 EUR) en el siguiente enlace!

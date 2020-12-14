@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00ORVCV9Q/?tag=tolees-21'
 descuento: '41.81'
+average: '8.7'
 ---
 
 Tienes [Joma Combi - Pantalón Deportivo para Mujer  Color Negro  Talla M](https://www.amazon.es/dp/B00ORVCV9Q/?tag=tolees-21) con un 41.81 % de descuento con precio de oferta de 8.7 EUR (original: 14.95 EUR) en el siguiente enlace!

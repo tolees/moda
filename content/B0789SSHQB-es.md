@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0789SSHQB/?tag=tolees-21'
 descuento: '45.39'
+average: '40.95'
 ---
 
 Tienes [Nike Air Versitile III  Zapatos de Baloncesto Unisex Adulto  Negro Black/Anthracite 002  45 EU](https://www.amazon.es/dp/B0789SSHQB/?tag=tolees-21) con un 45.39 % de descuento con precio de oferta de 40.95 EUR (original: 74.99 EUR) en el siguiente enlace!

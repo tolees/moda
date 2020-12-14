@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01J99ND4W/?tag=tolees-21'
 descuento: '47.37'
+average: '21'
 ---
 
 Ahora mismo tienes [Crocs Coast  Zuecos Unisex Adulto  Blanco  White 100b   39/40 EU](https://www.amazon.es/dp/B01J99ND4W/?tag=tolees-21) a 21 EUR (original: 39.9 EUR) (47.37 %  de descuento) en el siguiente enlace!

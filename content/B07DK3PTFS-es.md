@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DK3PTFS/?tag=tolees-21'
 descuento: '54.64'
+average: '24.95'
 ---
 
 Está [Geox Jr Sandal Kyle B  Sandalias Punta Cerrada para Niños  Azul  Royal/Navy C4227   31 EU](https://www.amazon.es/dp/B07DK3PTFS/?tag=tolees-21) con 54.64 de descuento por 24.95 EUR (original: 55 EUR) en el siguiente enlace!

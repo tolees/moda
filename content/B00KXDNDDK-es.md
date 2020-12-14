@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00KXDNDDK/?tag=tolees-21'
 descuento: '38.82'
+average: '17.13'
 ---
 
 Tienes [Under Armour Cc Left Chest Lockup  Camiseta para Hombre  Rojo  Red/Steel   L](https://www.amazon.es/dp/B00KXDNDDK/?tag=tolees-21) con un 38.82 % de descuento con precio de oferta de 17.13 EUR (original: 28 EUR) en el siguiente enlace!

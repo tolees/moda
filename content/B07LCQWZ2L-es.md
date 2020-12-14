@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07LCQWZ2L/?tag=tolees-21'
 descuento: '80.68'
+average: '11.59'
 ---
 
 Tienes [Talkabout 460008-96071 Blusa   White-Black-Dot 9006   42 Talla del Fabricante: 40  para Mujer](https://www.amazon.es/dp/B07LCQWZ2L/?tag=tolees-21) con un 80.68 % de descuento con precio de oferta de 11.59 EUR (original: 59.99 EUR) en el siguiente enlace!

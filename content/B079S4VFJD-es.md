@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079S4VFJD/?tag=tolees-21'
 descuento: '72.47'
+average: '38.54'
 ---
 
 Ahora mismo tienes [Pepe Jeans Walbrooks Chaqueta  Negro  Black 999   XXL para Hombre](https://www.amazon.es/dp/B079S4VFJD/?tag=tolees-21) a 38.54 EUR (original: 140 EUR) (72.47 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BM3NBPB/?tag=tolees-21'
 descuento: '49.45'
+average: '32.83'
 ---
 
 Está [Columbia Silver Ridge Pantalón  Mujer  Azul  India Ink   8](https://www.amazon.es/dp/B07BM3NBPB/?tag=tolees-21) con 49.45 de descuento por 32.83 EUR (original: 64.95 EUR) en el siguiente enlace!

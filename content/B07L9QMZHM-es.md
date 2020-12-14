@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07L9QMZHM/?tag=tolees-21'
 descuento: '46.28'
+average: '20.95'
 ---
 
 Está [Napapijri Sawy Camiseta  Verde  New Olive Green Gd6   Small para Hombre](https://www.amazon.es/dp/B07L9QMZHM/?tag=tolees-21) con 46.28 de descuento por 20.95 EUR (original: 39 EUR) en el siguiente enlace!

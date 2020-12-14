@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077VSL9Y3/?tag=tolees-21'
 descuento: '41.86'
+average: '63.95'
 ---
 
 Ahora mismo tienes [Levi s 502 Regular Taper Vaqueros Straight  Azul  Franklin LTWT Warp 0120   W30/L30  Talla del Fabricante: 30/30  para Hombre](https://www.amazon.es/dp/B077VSL9Y3/?tag=tolees-21) a 63.95 EUR (original: 110 EUR) (41.86 %  de descuento) en el siguiente enlace!

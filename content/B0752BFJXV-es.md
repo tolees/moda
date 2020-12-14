@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0752BFJXV/?tag=tolees-21'
 descuento: '50.37'
+average: '64.49'
 ---
 
 Ahora mismo tienes [G-STAR RAW 5620 3D Skinny  Vaqueros Skinny Hombre  Azul  Light Vintage Aged Destroy   W40/L36  Talla del Fabricante: 40/36 ](https://www.amazon.es/dp/B0752BFJXV/?tag=tolees-21) a 64.49 EUR (original: 129.95 EUR) (50.37 %  de descuento) en el siguiente enlace!

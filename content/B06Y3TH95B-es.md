@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06Y3TH95B/?tag=tolees-21'
 descuento: '40.91'
+average: '13'
 ---
 
 Ahora mismo tienes [xdian – Camiseta de Tirantes para deportes y gimnasio  ajustada  elástica  algodón  negro  medium](https://www.amazon.es/dp/B06Y3TH95B/?tag=tolees-21) a 13 EUR (original: 22 EUR) (40.91 %  de descuento) en el siguiente enlace!

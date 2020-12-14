@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00WV8IQPA/?tag=tolees-21'
 descuento: '44.55'
+average: '15.86'
 ---
 
 Ahora mismo tienes [David Bowie Thunder  Camiseta Manga Corta para Hombre  Negro  L](https://www.amazon.es/dp/B00WV8IQPA/?tag=tolees-21) a 15.86 EUR (original: 28.6 EUR) (44.55 %  de descuento) en el siguiente enlace!

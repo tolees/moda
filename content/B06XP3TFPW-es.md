@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XP3TFPW/?tag=tolees-21'
 descuento: '53.57'
+average: '51.07'
 ---
 
 Tienes [Pepe Jeans Piccadilly PL200388  Pantalones Vaqueros Bootcut para Mujer  Azul  Broken Medium Destroy Ra0   27W / 32L](https://www.amazon.es/dp/B06XP3TFPW/?tag=tolees-21) con un 53.57 % de descuento con precio de oferta de 51.07 EUR (original: 110 EUR) en el siguiente enlace!

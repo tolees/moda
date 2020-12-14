@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B008O5NJN8/?tag=tolees-21'
 descuento: '75.62'
+average: '20.71'
 ---
 
 Tienes [James & Nicholson Steppweste Padded Light Weight  Chaleco para Hombre  Azul  Navy/Red    Talla del Fabricante: X-Large ](https://www.amazon.es/dp/B008O5NJN8/?tag=tolees-21) con un 75.62 % de descuento con precio de oferta de 20.71 EUR (original: 84.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FL5BY7P/?tag=tolees-21'
 descuento: '77.18'
+average: '10.27'
 ---
 
 Está [Superdry Field Retro tee  Camiseta de Tirantes para Hombre  Azul  Pitch Navy Upu  Large](https://www.amazon.es/dp/B07FL5BY7P/?tag=tolees-21) con 77.18 de descuento por 10.27 EUR (original: 45 EUR) en el siguiente enlace!

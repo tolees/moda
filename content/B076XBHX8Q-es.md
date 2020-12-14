@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076XBHX8Q/?tag=tolees-21'
 descuento: '51.17'
+average: '29.25'
 ---
 
 Tienes [Geox Jr Sandal Giglio A  Sandalias con Tira Vertical para Niñas  Rosa  Lt Rose   30 EU](https://www.amazon.es/dp/B076XBHX8Q/?tag=tolees-21) con un 51.17 % de descuento con precio de oferta de 29.25 EUR (original: 59.9 EUR) en el siguiente enlace!

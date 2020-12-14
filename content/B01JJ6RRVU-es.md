@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01JJ6RRVU/?tag=tolees-21'
 descuento: '41.27'
+average: '87.69'
 ---
 
 Está [Timberland Foraker  Botas para Hombre  Marrón  Dark Sudan Brown Saddleback Full Grain D26   43.5 EU](https://www.amazon.es/dp/B01JJ6RRVU/?tag=tolees-21) con 41.27 de descuento por 87.69 EUR (original: 149.32 EUR) en el siguiente enlace!

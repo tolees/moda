@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076YBQ99F/?tag=tolees-21'
 descuento: '33.00'
+average: '80.4'
 ---
 
 Está [Levi s Chaqueta Bomber para Mujer  Azul  Kora Get It Together 0003  Large](https://www.amazon.es/dp/B076YBQ99F/?tag=tolees-21) con 33.00 de descuento por 80.4 EUR (original: 120 EUR) en el siguiente enlace!

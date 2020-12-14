@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D6NLMKW/?tag=tolees-21'
 descuento: '62.99'
+average: '9.99'
 ---
 
 Está [SIMYJOY Cobra Kai Retro Camiseta Karate Tshirt Cool TV Drama Top para Hombre Mujer Adolescente Negro L](https://www.amazon.es/dp/B07D6NLMKW/?tag=tolees-21) con 62.99 de descuento por 9.99 EUR (original: 26.99 EUR) en el siguiente enlace!

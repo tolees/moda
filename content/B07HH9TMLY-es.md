@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HH9TMLY/?tag=tolees-21'
 descuento: '77.23'
+average: '31.65'
 ---
 
 Está [Tommy Hilfiger Rome RW Phoenix  Vaqueros Straight Mujer  Azul  Phoenix 911   W30/L32  Talla del Fabricante: 3230 ](https://www.amazon.es/dp/B07HH9TMLY/?tag=tolees-21) con 77.23 de descuento por 31.65 EUR (original: 139 EUR) en el siguiente enlace!

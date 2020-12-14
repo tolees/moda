@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HYTDKQX/?tag=tolees-21'
 descuento: '76.01'
+average: '23.75'
 ---
 
 Está [Pepe Jeans Regent Vaqueros  Azul  Whisper Wash Medium Used Ww4   26W / 32L para Mujer](https://www.amazon.es/dp/B07HYTDKQX/?tag=tolees-21) con 76.01 de descuento por 23.75 EUR (original: 99 EUR) en el siguiente enlace!

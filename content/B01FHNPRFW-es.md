@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01FHNPRFW/?tag=tolees-21'
 descuento: '57.21'
+average: '71.89'
 ---
 
 Está [Ray-Ban 0Rb4259 Gafas de sol  Shiny Opal Grey  51 Unisex-Adulto](https://www.amazon.es/dp/B01FHNPRFW/?tag=tolees-21) con 57.21 de descuento por 71.89 EUR (original: 168 EUR) en el siguiente enlace!

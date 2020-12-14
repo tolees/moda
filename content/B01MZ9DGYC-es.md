@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MZ9DGYC/?tag=tolees-21'
 descuento: '73.70'
+average: '98.36'
 ---
 
 Está [Jimmy Choo Mask/S M3 138  Gafas de Sol para Mujer  Gris  Rosegold Silver Grey Speckled   99](https://www.amazon.es/dp/B01MZ9DGYC/?tag=tolees-21) con 73.70 de descuento por 98.36 EUR (original: 374 EUR) en el siguiente enlace!

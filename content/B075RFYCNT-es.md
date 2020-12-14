@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075RFYCNT/?tag=tolees-21'
 descuento: '74.44'
+average: '5.11'
 ---
 
 Tienes [SHANA 73833  Vestido Para Mujer  Azul  Indigo Oscuro   Medium](https://www.amazon.es/dp/B075RFYCNT/?tag=tolees-21) con un 74.44 % de descuento con precio de oferta de 5.11 EUR (original: 19.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XCHTZWQ/?tag=tolees-21'
 descuento: '68.95'
+average: '29.5'
 ---
 
 Tienes [Pepe Jeans Hatch  Vaqueros Slim para Hombre  Azul  Denim S55   W33/L30](https://www.amazon.es/dp/B06XCHTZWQ/?tag=tolees-21) con un 68.95 % de descuento con precio de oferta de 29.5 EUR (original: 95 EUR) en el siguiente enlace!

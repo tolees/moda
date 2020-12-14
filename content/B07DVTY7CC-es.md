@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DVTY7CC/?tag=tolees-21'
 descuento: '55.54'
+average: '16.45'
 ---
 
 Ahora mismo tienes [Volcom Pen BSC LS Camiseta  Hombre  Negro  Dark Kelly   XL](https://www.amazon.es/dp/B07DVTY7CC/?tag=tolees-21) a 16.45 EUR (original: 37 EUR) (55.54 %  de descuento) en el siguiente enlace!

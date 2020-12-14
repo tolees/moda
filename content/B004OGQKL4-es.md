@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B004OGQKL4/?tag=tolees-21'
 descuento: '33.28'
+average: '19.95'
 ---
 
 Ahora mismo tienes [Mammut Tasch Pouch Bolso bandolera  Unisex adultos  Negro  Black ](https://www.amazon.es/dp/B004OGQKL4/?tag=tolees-21) a 19.95 EUR (original: 29.9 EUR) (33.28 %  de descuento) en el siguiente enlace!

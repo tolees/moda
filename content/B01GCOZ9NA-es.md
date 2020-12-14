@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01GCOZ9NA/?tag=tolees-21'
 descuento: '55.03'
+average: '8.99'
 ---
 
 Está [Embryform Floral de Las Mujeres de la Vendimia de Impresi�n Totem Empuja hacia Arriba Atractivo de ba�o Bikini](https://www.amazon.es/dp/B01GCOZ9NA/?tag=tolees-21) con 55.03 de descuento por 8.99 EUR (original: 19.99 EUR) en el siguiente enlace!

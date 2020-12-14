@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DVX2VBJ/?tag=tolees-21'
 descuento: '54.71'
+average: '15.83'
 ---
 
 Tienes [Hummel Hmlmyleneshirt Sudadera  Unisex niños  Blanco  Melange   110](https://www.amazon.es/dp/B07DVX2VBJ/?tag=tolees-21) con un 54.71 % de descuento con precio de oferta de 15.83 EUR (original: 34.95 EUR) en el siguiente enlace!

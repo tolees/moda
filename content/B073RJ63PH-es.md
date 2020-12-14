@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073RJ63PH/?tag=tolees-21'
 descuento: '79.54'
+average: '8.18'
 ---
 
 Está [Vero Moda Vmglory Fullneedle Funnel LS Blouse Camiseta Cuello Alto  Negro Black  34  Talla del Fabricante: X-Small  para Mujer](https://www.amazon.es/dp/B073RJ63PH/?tag=tolees-21) con 79.54 de descuento por 8.18 EUR (original: 39.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00YAMN7AY/?tag=tolees-21'
 descuento: '86.78'
+average: '7.8'
 ---
 
 Está [Kaporal Story  Falda para Mujer  Negro 34](https://www.amazon.es/dp/B00YAMN7AY/?tag=tolees-21) con 86.78 de descuento por 7.8 EUR (original: 59 EUR) en el siguiente enlace!

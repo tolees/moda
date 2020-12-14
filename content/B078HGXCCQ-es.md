@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078HGXCCQ/?tag=tolees-21'
 descuento: '59.15'
+average: '12.25'
 ---
 
 Tienes [Springfield Denim Regular Negro Lavado  Vaqueros Straight para Hombre    Tamaño del Fabricante:34 ](https://www.amazon.es/dp/B078HGXCCQ/?tag=tolees-21) con un 59.15 % de descuento con precio de oferta de 12.25 EUR (original: 29.99 EUR) en el siguiente enlace!

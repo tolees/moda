@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XCXVDPS/?tag=tolees-21'
 descuento: '63.18'
+average: '7.36'
 ---
 
 Tienes [Cortefiel 6947670  Bikini para Mujer  Salmón  38](https://www.amazon.es/dp/B06XCXVDPS/?tag=tolees-21) con un 63.18 % de descuento con precio de oferta de 7.36 EUR (original: 19.99 EUR) en el siguiente enlace!

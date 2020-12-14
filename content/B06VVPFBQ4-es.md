@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06VVPFBQ4/?tag=tolees-21'
 descuento: '30.10'
+average: '34.95'
 ---
 
 Está [Lacoste TH6709  Camiseta para Hombre  Negro  Noir   L  Talla del fabricante: 5 ](https://www.amazon.es/dp/B06VVPFBQ4/?tag=tolees-21) con 30.10 de descuento por 34.95 EUR (original: 50 EUR) en el siguiente enlace!

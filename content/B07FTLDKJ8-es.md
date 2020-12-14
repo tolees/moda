@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FTLDKJ8/?tag=tolees-21'
 descuento: '55.09'
+average: '17.94'
 ---
 
 Tienes [Lee Pique Polo  Camiseta Hombre  Marfil  Bright White Lj   XXXX-Large](https://www.amazon.es/dp/B07FTLDKJ8/?tag=tolees-21) con un 55.09 % de descuento con precio de oferta de 17.94 EUR (original: 39.95 EUR) en el siguiente enlace!

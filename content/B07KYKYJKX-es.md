@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KYKYJKX/?tag=tolees-21'
 descuento: '43.03'
+average: '7.4'
 ---
 
 Está [Springfield 4.Pc.Ap.Pv19. Plumeti Camiseta  Mujer   Varios 98   One Size  Tamaño del Fabricante:XS ](https://www.amazon.es/dp/B07KYKYJKX/?tag=tolees-21) con 43.03 de descuento por 7.4 EUR (original: 12.99 EUR) en el siguiente enlace!

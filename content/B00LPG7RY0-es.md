@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00LPG7RY0/?tag=tolees-21'
 descuento: '46.54'
+average: '53.46'
 ---
 
 Está [Levi s 511 Slim Fit  Vaqueros para Hombre  Azul  Biology 1542   31W / 32L](https://www.amazon.es/dp/B00LPG7RY0/?tag=tolees-21) con 46.54 de descuento por 53.46 EUR (original: 100 EUR) en el siguiente enlace!

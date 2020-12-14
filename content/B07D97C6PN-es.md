@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D97C6PN/?tag=tolees-21'
 descuento: '31.79'
+average: '27.25'
 ---
 
 Ahora mismo tienes [XTI 55988  Botines para Niñas  Rosa Nude  37 EU](https://www.amazon.es/dp/B07D97C6PN/?tag=tolees-21) a 27.25 EUR (original: 39.95 EUR) (31.79 %  de descuento) en el siguiente enlace!

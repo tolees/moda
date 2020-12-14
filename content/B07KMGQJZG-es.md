@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KMGQJZG/?tag=tolees-21'
 descuento: '44.45'
+average: '61.11'
 ---
 
 Está [BROOKS BROTHERS Denim Slim Lunghi Red Fleece Vaqueros  Azul  Navy 415   44  Talla del Fabricante: 31 32  para Hombre](https://www.amazon.es/dp/B07KMGQJZG/?tag=tolees-21) con 44.45 de descuento por 61.11 EUR (original: 110 EUR) en el siguiente enlace!

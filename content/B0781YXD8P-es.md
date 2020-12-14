@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0781YXD8P/?tag=tolees-21'
 descuento: '71.17'
+average: '10.94'
 ---
 
 Tienes [Puma BND Tech SLVS tee Camiseta  Hombre  Gris  Azul Brillante   M](https://www.amazon.es/dp/B0781YXD8P/?tag=tolees-21) con un 71.17 % de descuento con precio de oferta de 10.94 EUR (original: 37.95 EUR) en el siguiente enlace!

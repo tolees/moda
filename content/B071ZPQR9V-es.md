@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071ZPQR9V/?tag=tolees-21'
 descuento: '53.43'
+average: '9.31'
 ---
 
 Ahora mismo tienes [Only Onllive Love Peplum 3/4 Top  Camisa Manga Larga Mujer  Azul  Dazzling Blue Dazzling Blue   40  Talla del Fabricante: Large ](https://www.amazon.es/dp/B071ZPQR9V/?tag=tolees-21) a 9.31 EUR (original: 19.99 EUR) (53.43 %  de descuento) en el siguiente enlace!

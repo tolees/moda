@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GYVHTB6/?tag=tolees-21'
 descuento: '84.60'
+average: '7.7'
 ---
 
 Está [Daniel Hechter T-Shirt Camiseta  Azul  Corn 650   36  Talla del Fabricante: 34  para Mujer](https://www.amazon.es/dp/B07GYVHTB6/?tag=tolees-21) con 84.60 de descuento por 7.7 EUR (original: 50 EUR) en el siguiente enlace!

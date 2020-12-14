@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077Y7T9WN/?tag=tolees-21'
 descuento: '40.00'
+average: '14.97'
 ---
 
 Tienes [HIKARO Sudadera Logo Mujer  Azul  Aqua   40  Talla del fabricante: Medium ](https://www.amazon.es/dp/B077Y7T9WN/?tag=tolees-21) con un 40.00 % de descuento con precio de oferta de 14.97 EUR (original: 24.95 EUR) en el siguiente enlace!

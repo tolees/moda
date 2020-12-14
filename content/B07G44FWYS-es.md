@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07G44FWYS/?tag=tolees-21'
 descuento: '58.39'
+average: '37.43'
 ---
 
 Tienes [HUGO Edies  Camisa Hombre  Blanco  Open White 199   Medium](https://www.amazon.es/dp/B07G44FWYS/?tag=tolees-21) con un 58.39 % de descuento con precio de oferta de 37.43 EUR (original: 89.95 EUR) en el siguiente enlace!

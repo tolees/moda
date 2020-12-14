@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072JWWCS5/?tag=tolees-21'
 descuento: '83.08'
+average: '22.5'
 ---
 
 Ahora mismo tienes [Steve Madden Pacers  Botines para Mujer  Morado  Purple 001   39 EU](https://www.amazon.es/dp/B072JWWCS5/?tag=tolees-21) a 22.5 EUR (original: 133 EUR) (83.08 %  de descuento) en el siguiente enlace!

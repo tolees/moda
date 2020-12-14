@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073GQT55P/?tag=tolees-21'
 descuento: '57.99'
+average: '12.6'
 ---
 
 Ahora mismo tienes [Esprit 097ee1k024  Camiseta Mujer  Rojo  Garnet Red 620   X-Small](https://www.amazon.es/dp/B073GQT55P/?tag=tolees-21) a 12.6 EUR (original: 29.99 EUR) (57.99 %  de descuento) en el siguiente enlace!

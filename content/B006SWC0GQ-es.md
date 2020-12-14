@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B006SWC0GQ/?tag=tolees-21'
 descuento: '55.01'
+average: '62.99'
 ---
 
 Tienes [Helly Hansen Crew Chaqueta  Hombre   Azul Navy   2XL](https://www.amazon.es/dp/B006SWC0GQ/?tag=tolees-21) con un 55.01 % de descuento con precio de oferta de 62.99 EUR (original: 140 EUR) en el siguiente enlace!

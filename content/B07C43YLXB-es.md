@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07C43YLXB/?tag=tolees-21'
 descuento: '71.75'
+average: '27.97'
 ---
 
 Ahora mismo tienes [Pepe Jeans Edie  Vaqueros Boyfriend para Mujer  Azul  Denim 000  32W / 32L](https://www.amazon.es/dp/B07C43YLXB/?tag=tolees-21) a 27.97 EUR (original: 99 EUR) (71.75 %  de descuento) en el siguiente enlace!

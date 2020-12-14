@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07B9CQHQM/?tag=tolees-21'
 descuento: '51.30'
+average: '92.04'
 ---
 
 Está [Panama Jack Felina Igloo  Botines para Mujer  Gris  Grey B19   38 EU](https://www.amazon.es/dp/B07B9CQHQM/?tag=tolees-21) con 51.30 de descuento por 92.04 EUR (original: 189 EUR) en el siguiente enlace!

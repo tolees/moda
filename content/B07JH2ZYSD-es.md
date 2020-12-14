@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JH2ZYSD/?tag=tolees-21'
 descuento: '49.92'
+average: '15'
 ---
 
 Tienes [Puma ftblNXT Graphic Shirt Core Camiseta  Hombre  Rojo  Red Blast Black   M](https://www.amazon.es/dp/B07JH2ZYSD/?tag=tolees-21) con un 49.92 % de descuento con precio de oferta de 15 EUR (original: 29.95 EUR) en el siguiente enlace!

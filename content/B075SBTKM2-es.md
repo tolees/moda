@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075SBTKM2/?tag=tolees-21'
 descuento: '63.79'
+average: '14.48'
 ---
 
 Ahora mismo tienes [Springfield 8232423 Chaqueta  Negro  Black   Tamaño del Fabricante:42 para Mujer](https://www.amazon.es/dp/B075SBTKM2/?tag=tolees-21) a 14.48 EUR (original: 39.99 EUR) (63.79 %  de descuento) en el siguiente enlace!

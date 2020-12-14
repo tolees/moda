@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JWV865P/?tag=tolees-21'
 descuento: '72.61'
+average: '16.42'
 ---
 
 Ahora mismo tienes [PUMA Knockout Jacket Sudadera  Mujer  Black Heather  XS](https://www.amazon.es/dp/B07JWV865P/?tag=tolees-21) a 16.42 EUR (original: 59.95 EUR) (72.61 %  de descuento) en el siguiente enlace!

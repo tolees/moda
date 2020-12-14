@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MK2FHSL/?tag=tolees-21'
 descuento: '68.83'
+average: '37.39'
 ---
 
 Tienes [G-STAR RAW 3301 Deconstructed Mid Waist Skinny Vaqueros  Negro  Medium Aged 9882/071   26W / 30L para Mujer](https://www.amazon.es/dp/B07MK2FHSL/?tag=tolees-21) con un 68.83 % de descuento con precio de oferta de 37.39 EUR (original: 119.95 EUR) en el siguiente enlace!

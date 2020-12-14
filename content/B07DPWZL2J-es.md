@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DPWZL2J/?tag=tolees-21'
 descuento: '65.61'
+average: '37.83'
 ---
 
 Tienes [Burton Gameday Chaqueta de Snowboard  Niños  Azul  Mood Indigo  / Rojo  Bitters   L](https://www.amazon.es/dp/B07DPWZL2J/?tag=tolees-21) con un 65.61 % de descuento con precio de oferta de 37.83 EUR (original: 110 EUR) en el siguiente enlace!

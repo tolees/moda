@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BC7XQX9/?tag=tolees-21'
 descuento: '48.02'
+average: '12.99'
 ---
 
 Ahora mismo tienes [NEEKFOX 20L Mochilla de Excursión Liviana y Empacable Bolso de Excursión Pequeño Resistente Al Agua  0.1 Negro ](https://www.amazon.es/dp/B07BC7XQX9/?tag=tolees-21) a 12.99 EUR (original: 24.99 EUR) (48.02 %  de descuento) en el siguiente enlace!

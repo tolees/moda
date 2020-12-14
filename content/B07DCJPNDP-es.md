@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DCJPNDP/?tag=tolees-21'
 descuento: '40.10'
+average: '11.95'
 ---
 
 Está [Puma Epic Flip v2  Chanclas Unisex Adulto  Verde  Ponderosa Pine White   44.5 EU](https://www.amazon.es/dp/B07DCJPNDP/?tag=tolees-21) con 40.10 de descuento por 11.95 EUR (original: 19.95 EUR) en el siguiente enlace!

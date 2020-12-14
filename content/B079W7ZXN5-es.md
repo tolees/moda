@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079W7ZXN5/?tag=tolees-21'
 descuento: '80.08'
+average: '25.89'
 ---
 
 Está [KENNETH COLE REACTION Guy Monk  Zapatos de Cordones Oxford para Hombre  Marrón  Cognac 901   41 EU](https://www.amazon.es/dp/B079W7ZXN5/?tag=tolees-21) con 80.08 de descuento por 25.89 EUR (original: 130 EUR) en el siguiente enlace!

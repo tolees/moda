@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KYT1Z7N/?tag=tolees-21'
 descuento: '68.05'
+average: '15.97'
 ---
 
 Tienes [Cortefiel C1Bck Pico Torzal  Jersey para Hombre  Blanco  Crudo 96   Small  Tamaño del Fabricante:S ](https://www.amazon.es/dp/B07KYT1Z7N/?tag=tolees-21) con un 68.05 % de descuento con precio de oferta de 15.97 EUR (original: 49.99 EUR) en el siguiente enlace!

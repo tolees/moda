@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072BKHFKQ/?tag=tolees-21'
 descuento: '69.09'
+average: '5.92'
 ---
 
 Tienes [Inside 4SPLN27& Camiseta  Gris  Medium  Tamaño del Fabricante:M  para Mujer](https://www.amazon.es/dp/B072BKHFKQ/?tag=tolees-21) con un 69.09 % de descuento con precio de oferta de 5.92 EUR (original: 19.15 EUR) en el siguiente enlace!

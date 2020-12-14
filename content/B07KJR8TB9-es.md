@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KJR8TB9/?tag=tolees-21'
 descuento: '85.98'
+average: '13.88'
 ---
 
 Tienes [REPLAY Luz  Vaqueros Skinny Mujer  Azul  Medium Blue 7   W32/L28  Talla del Fabricante: 32 ](https://www.amazon.es/dp/B07KJR8TB9/?tag=tolees-21) con un 85.98 % de descuento con precio de oferta de 13.88 EUR (original: 99 EUR) en el siguiente enlace!

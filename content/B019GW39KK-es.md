@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B019GW39KK/?tag=tolees-21'
 descuento: '39.22'
+average: '13.95'
 ---
 
 Está [Levi s N91005H  Camiseta para Niños  Azul  Encre   10 años](https://www.amazon.es/dp/B019GW39KK/?tag=tolees-21) con 39.22 de descuento por 13.95 EUR (original: 22.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07LBBDD6S/?tag=tolees-21'
 descuento: '30.17'
+average: '20.25'
 ---
 
 Está [Tommy Jeans TJM Essential Box Logo tee  Camiseta para Hombre  Blau  Black Iris 002   L](https://www.amazon.es/dp/B07LBBDD6S/?tag=tolees-21) con 30.17 de descuento por 20.25 EUR (original: 29 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MXWNH26/?tag=tolees-21'
 descuento: '50.00'
+average: '17.5'
 ---
 
 Tienes [G-STAR RAW Navas R T S/s  Camiseta para Hombre  Azul  Sartho Blue 6067  Medium](https://www.amazon.es/dp/B01MXWNH26/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 17.5 EUR (original: 35 EUR) en el siguiente enlace!

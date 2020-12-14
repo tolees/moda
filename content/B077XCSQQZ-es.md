@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077XCSQQZ/?tag=tolees-21'
 descuento: '42.99'
+average: '20.95'
 ---
 
 Ahora mismo tienes [Superdry Shop AOP tee Camiseta  Naranja  Dry Tangerine CN3   M para Hombre](https://www.amazon.es/dp/B077XCSQQZ/?tag=tolees-21) a 20.95 EUR (original: 36.75 EUR) (42.99 %  de descuento) en el siguiente enlace!

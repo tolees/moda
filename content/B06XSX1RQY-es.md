@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XSX1RQY/?tag=tolees-21'
 descuento: '87.92'
+average: '7.85'
 ---
 
 Está [Pepe Jeans Pixlette Vaqueros  Azul  9Oz Utilized Dark Blue R55   5 años para Niñas](https://www.amazon.es/dp/B06XSX1RQY/?tag=tolees-21) con 87.92 de descuento por 7.85 EUR (original: 65 EUR) en el siguiente enlace!

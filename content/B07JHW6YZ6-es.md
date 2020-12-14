@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JHW6YZ6/?tag=tolees-21'
 descuento: '43.01'
+average: '14.22'
 ---
 
 Está [Puma Modern Sports Graphic tee Camiseta  Mujer  Azul  Fair Aqua/Silver   M](https://www.amazon.es/dp/B07JHW6YZ6/?tag=tolees-21) con 43.01 de descuento por 14.22 EUR (original: 24.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DPDDHH2/?tag=tolees-21'
 descuento: '42.67'
+average: '17.2'
 ---
 
 Tienes [Eastpak The One Bolso Bandolera  21 cm  2.5 Liters  Rojo  Punch Wine ](https://www.amazon.es/dp/B07DPDDHH2/?tag=tolees-21) con un 42.67 % de descuento con precio de oferta de 17.2 EUR (original: 30 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MYPHIO6/?tag=tolees-21'
 descuento: '54.69'
+average: '22.63'
 ---
 
 Está [Marco Tozzi 24402  Zapatos de Tacón para Mujer  Negro  Black 001   38 EU](https://www.amazon.es/dp/B01MYPHIO6/?tag=tolees-21) con 54.69 de descuento por 22.63 EUR (original: 49.95 EUR) en el siguiente enlace!

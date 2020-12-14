@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F8YCGRP/?tag=tolees-21'
 descuento: '70.05'
+average: '29.95'
 ---
 
 Tienes [JACK & JONES Jornew Bento Parka Jacket  Hombre  Azul  Total Eclipse Total Eclipse   XX-Large](https://www.amazon.es/dp/B07F8YCGRP/?tag=tolees-21) con un 70.05 % de descuento con precio de oferta de 29.95 EUR (original: 99.99 EUR) en el siguiente enlace!

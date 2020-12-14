@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075TDQ93C/?tag=tolees-21'
 descuento: '61.45'
+average: '13.86'
 ---
 
 Tienes [Trucco - Camiseta para mujer  color negro  talla L](https://www.amazon.es/dp/B075TDQ93C/?tag=tolees-21) con un 61.45 % de descuento con precio de oferta de 13.86 EUR (original: 35.95 EUR) en el siguiente enlace!

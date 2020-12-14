@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DHSN1WS/?tag=tolees-21'
 descuento: '76.87'
+average: '30.07'
 ---
 
 Ahora mismo tienes [Quiksilver Mission Block Chaqueta de Nieve  Niños  Negro  tannenbaum   8/S](https://www.amazon.es/dp/B07DHSN1WS/?tag=tolees-21) a 30.07 EUR (original: 129.99 EUR) (76.87 %  de descuento) en el siguiente enlace!

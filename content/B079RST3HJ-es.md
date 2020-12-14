@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079RST3HJ/?tag=tolees-21'
 descuento: '64.86'
+average: '12.3'
 ---
 
 Está [Pepe Jeans Dani PL503849  Camiseta para Mujer  Gris  Grey Marl 933  Large](https://www.amazon.es/dp/B079RST3HJ/?tag=tolees-21) con 64.86 de descuento por 12.3 EUR (original: 35 EUR) en el siguiente enlace!

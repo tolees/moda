@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00U8PSVXU/?tag=tolees-21'
 descuento: '72.52'
+average: '32.7'
 ---
 
 Ahora mismo tienes [Guess GU6843 Gafas de Sol  Negro  52 Unisex Adulto](https://www.amazon.es/dp/B00U8PSVXU/?tag=tolees-21) a 32.7 EUR (original: 119 EUR) (72.52 %  de descuento) en el siguiente enlace!

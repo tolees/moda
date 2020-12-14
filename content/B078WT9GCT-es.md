@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078WT9GCT/?tag=tolees-21'
 descuento: '75.58'
+average: '12.21'
 ---
 
 Tienes [Cortefiel Camisa Lisa Estructura Camisa Casual  Hombre  Blanco  Blanco 99   Small  Tamaño del Fabricante:5 ](https://www.amazon.es/dp/B078WT9GCT/?tag=tolees-21) con un 75.58 % de descuento con precio de oferta de 12.21 EUR (original: 49.99 EUR) en el siguiente enlace!

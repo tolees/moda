@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B014KGXSXU/?tag=tolees-21'
 descuento: '84.18'
+average: '6.32'
 ---
 
 Ahora mismo tienes [B.Young Chaqueta Larga Azul Única](https://www.amazon.es/dp/B014KGXSXU/?tag=tolees-21) a 6.32 EUR (original: 39.95 EUR) (84.18 %  de descuento) en el siguiente enlace!

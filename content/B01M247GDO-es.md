@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01M247GDO/?tag=tolees-21'
 descuento: '43.06'
+average: '96.79'
 ---
 
 Ahora mismo tienes [Helly Hansen Crew Hooded Midlayer  - Chaqueta Impermeable con capucha para Hombre  Azul  Navy 597 . Medium  Tamaño del Fabricante: M ](https://www.amazon.es/dp/B01M247GDO/?tag=tolees-21) a 96.79 EUR (original: 170 EUR) (43.06 %  de descuento) en el siguiente enlace!

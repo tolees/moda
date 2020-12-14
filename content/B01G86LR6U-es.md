@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01G86LR6U/?tag=tolees-21'
 descuento: '73.15'
+average: '64.16'
 ---
 
 Tienes [Geox  Woman Jacket - Chaqueta de Manga Larga para Mujer  Color Dark Navy f4300  Talla 46](https://www.amazon.es/dp/B01G86LR6U/?tag=tolees-21) con un 73.15 % de descuento con precio de oferta de 64.16 EUR (original: 239 EUR) en el siguiente enlace!

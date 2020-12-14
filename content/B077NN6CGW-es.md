@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077NN6CGW/?tag=tolees-21'
 descuento: '49.99'
+average: '49.98'
 ---
 
 Ahora mismo tienes [Lee Slim Rider Chaqueta Vaquera  Azul  Super Stonewash Rd66   Large para Hombre](https://www.amazon.es/dp/B077NN6CGW/?tag=tolees-21) a 49.98 EUR (original: 99.95 EUR) (49.99 %  de descuento) en el siguiente enlace!

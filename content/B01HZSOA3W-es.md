@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01HZSOA3W/?tag=tolees-21'
 descuento: '66.07'
+average: '13.53'
 ---
 
 Está [Perry Ellis Camisa Hombre Azul/Turquesa M](https://www.amazon.es/dp/B01HZSOA3W/?tag=tolees-21) con 66.07 de descuento por 13.53 EUR (original: 39.88 EUR) en el siguiente enlace!

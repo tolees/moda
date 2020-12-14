@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07G4F35LW/?tag=tolees-21'
 descuento: '50.17'
+average: '16.42'
 ---
 
 Está [Boss Trunk Microprint  Bóxer para Hombre  Negro  Black 003   Large](https://www.amazon.es/dp/B07G4F35LW/?tag=tolees-21) con 50.17 de descuento por 16.42 EUR (original: 32.95 EUR) en el siguiente enlace!

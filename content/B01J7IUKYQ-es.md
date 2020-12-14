@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01J7IUKYQ/?tag=tolees-21'
 descuento: '88.98'
+average: '10.68'
 ---
 
 Ahora mismo tienes [2TWO Lamus  Vestido para Mujer  Negro ES FR 38](https://www.amazon.es/dp/B01J7IUKYQ/?tag=tolees-21) a 10.68 EUR (original: 96.9 EUR) (88.98 %  de descuento) en el siguiente enlace!

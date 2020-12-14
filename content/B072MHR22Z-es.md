@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072MHR22Z/?tag=tolees-21'
 descuento: '25.62'
+average: '185.2'
 ---
 
 Está [Tommy Hilfiger Claudia THERMORE Insulated Bomber  Chaqueta Mujer  Azul  Midnight   12  Talla del Fabricante: Large ](https://www.amazon.es/dp/B072MHR22Z/?tag=tolees-21) con 25.62 de descuento por 185.2 EUR (original: 249 EUR) en el siguiente enlace!

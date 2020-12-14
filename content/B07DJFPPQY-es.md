@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DJFPPQY/?tag=tolees-21'
 descuento: '67.72'
+average: '19.35'
 ---
 
 Está [Dockers by Gerli 35cp308  Botines para Mujer  Marrón  Dunkelbraun 380   38 EU](https://www.amazon.es/dp/B07DJFPPQY/?tag=tolees-21) con 67.72 de descuento por 19.35 EUR (original: 59.95 EUR) en el siguiente enlace!

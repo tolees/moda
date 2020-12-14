@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KPRKMCZ/?tag=tolees-21'
 descuento: '83.65'
+average: '24.36'
 ---
 
 Está [REPLAY Vivy Vaqueros Slim  Azul  Light Blue 10   W27/L28  Talla del Fabricante: 27  para Mujer](https://www.amazon.es/dp/B07KPRKMCZ/?tag=tolees-21) con 83.65 de descuento por 24.36 EUR (original: 149 EUR) en el siguiente enlace!

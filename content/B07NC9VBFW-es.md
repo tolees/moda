@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07NC9VBFW/?tag=tolees-21'
 descuento: '50.64'
+average: '14.76'
 ---
 
 Está [Pepe Jeans 45th 03l Camiseta  Marfil  Off White 803   X-Small para Mujer](https://www.amazon.es/dp/B07NC9VBFW/?tag=tolees-21) con 50.64 de descuento por 14.76 EUR (original: 29.9 EUR) en el siguiente enlace!

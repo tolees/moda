@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00MFRCKIQ/?tag=tolees-21'
 descuento: '60.03'
+average: '35.95'
 ---
 
 Tienes [Lee SCARLETT ONE WASH - Vaqueros para mujer  Azul  One Wash 45   W31/L33](https://www.amazon.es/dp/B00MFRCKIQ/?tag=tolees-21) con un 60.03 % de descuento con precio de oferta de 35.95 EUR (original: 89.95 EUR) en el siguiente enlace!

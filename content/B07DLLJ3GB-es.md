@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DLLJ3GB/?tag=tolees-21'
 descuento: '76.73'
+average: '20.94'
 ---
 
 Está [Springfield INT.Real Down Teddy Abrigo  Gama Azules 19   Tamaño del Fabricante:38  para Mujer](https://www.amazon.es/dp/B07DLLJ3GB/?tag=tolees-21) con 76.73 de descuento por 20.94 EUR (original: 89.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0719M2WCB/?tag=tolees-21'
 descuento: '80.74'
+average: '26.96'
 ---
 
 Está [edc by Esprit 097cc1g024 Abrigo  Gris  Dark Grey 020   Small para Mujer](https://www.amazon.es/dp/B0719M2WCB/?tag=tolees-21) con 80.74 de descuento por 26.96 EUR (original: 139.99 EUR) en el siguiente enlace!

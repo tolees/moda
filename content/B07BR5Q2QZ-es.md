@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BR5Q2QZ/?tag=tolees-21'
 descuento: '70.02'
+average: '11.99'
 ---
 
 Ahora mismo tienes [Lifewit Bolsa Térmica Con Correa De Hombro Multiuso Caja De Almuerzo Para Hombres Mujeres Niños Bebé Bolso Térmico Para Camping Excursión Playa Refrescos  Gris 52 ](https://www.amazon.es/dp/B07BR5Q2QZ/?tag=tolees-21) a 11.99 EUR (original: 39.99 EUR) (70.02 %  de descuento) en el siguiente enlace!

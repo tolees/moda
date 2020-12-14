@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07B4SJCPV/?tag=tolees-21'
 descuento: '52.75'
+average: '42.5'
 ---
 
 Ahora mismo tienes [G-Star Loose Hooded Sw Wmn L/s  Sudadera Mujer  Rosa  Pyg 7176   40  Talla del Fabricante: X-Large ](https://www.amazon.es/dp/B07B4SJCPV/?tag=tolees-21) a 42.5 EUR (original: 89.95 EUR) (52.75 %  de descuento) en el siguiente enlace!

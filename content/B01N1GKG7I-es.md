@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N1GKG7I/?tag=tolees-21'
 descuento: '66.92'
+average: '55.91'
 ---
 
 Tienes [Geox Woman Jacket  Chaqueta para Mujer  Azul  Dark Navy   46](https://www.amazon.es/dp/B01N1GKG7I/?tag=tolees-21) con un 66.92 % de descuento con precio de oferta de 55.91 EUR (original: 169 EUR) en el siguiente enlace!

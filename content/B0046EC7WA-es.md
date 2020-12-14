@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0046EC7WA/?tag=tolees-21'
 descuento: '47.20'
+average: '42.24'
 ---
 
 Ahora mismo tienes [Vans V76 Skinny  Vaqueros para hombre  Negro  Black   W36/L34](https://www.amazon.es/dp/B0046EC7WA/?tag=tolees-21) a 42.24 EUR (original: 80 EUR) (47.20 %  de descuento) en el siguiente enlace!

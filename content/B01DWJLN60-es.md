@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01DWJLN60/?tag=tolees-21'
 descuento: '63.95'
+average: '22.74'
 ---
 
 Está [Puma Ub evostripe FZ – Sudadera con Capucha para Hombre  Hombre  Pullover UB Evostripe FZ Hoody  Black-Red Blast  Extra-Large](https://www.amazon.es/dp/B01DWJLN60/?tag=tolees-21) con 63.95 de descuento por 22.74 EUR (original: 63.08 EUR) en el siguiente enlace!

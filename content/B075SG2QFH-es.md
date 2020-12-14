@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075SG2QFH/?tag=tolees-21'
 descuento: '77.15'
+average: '15.99'
 ---
 
 Ahora mismo tienes [Collar Mujer Plata de Ley 925 Brillante Cristal Colgante Collares joyería regalo](https://www.amazon.es/dp/B075SG2QFH/?tag=tolees-21) a 15.99 EUR (original: 69.99 EUR) (77.15 %  de descuento) en el siguiente enlace!

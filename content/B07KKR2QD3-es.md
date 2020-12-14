@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KKR2QD3/?tag=tolees-21'
 descuento: '56.00'
+average: '19.8'
 ---
 
 Tienes [Naf Naf Kenu21 Camiseta de Manga Larga  Beige  Fadded Nude A A Em   Large para Mujer](https://www.amazon.es/dp/B07KKR2QD3/?tag=tolees-21) con un 56.00 % de descuento con precio de oferta de 19.8 EUR (original: 45 EUR) en el siguiente enlace!

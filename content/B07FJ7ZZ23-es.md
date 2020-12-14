@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FJ7ZZ23/?tag=tolees-21'
 descuento: '77.55'
+average: '44.9'
 ---
 
 Está [Burton Evergreen Synthetic Hooded Insulator Chaqueta Funcional  Hombre  Negro  True   XL](https://www.amazon.es/dp/B07FJ7ZZ23/?tag=tolees-21) con 77.55 de descuento por 44.9 EUR (original: 200 EUR) en el siguiente enlace!

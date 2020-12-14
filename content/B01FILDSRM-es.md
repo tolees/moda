@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01FILDSRM/?tag=tolees-21'
 descuento: '75.72'
+average: '8.5'
 ---
 
 Está [Sublevel H7000N10704A  Camisa para Hombre  Blanco  White  L](https://www.amazon.es/dp/B01FILDSRM/?tag=tolees-21) con 75.72 de descuento por 8.5 EUR (original: 35.01 EUR) en el siguiente enlace!

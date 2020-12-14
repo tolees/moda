@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D72PLQG/?tag=tolees-21'
 descuento: '51.20'
+average: '100.03'
 ---
 
 Está [Versace Jeans Lady Dress  Vestido para Mujer  Negro  Nero E899   Medium  Talla del Fabricante: 42 ](https://www.amazon.es/dp/B07D72PLQG/?tag=tolees-21) con 51.20 de descuento por 100.03 EUR (original: 205 EUR) en el siguiente enlace!

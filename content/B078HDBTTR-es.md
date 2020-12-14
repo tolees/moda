@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078HDBTTR/?tag=tolees-21'
 descuento: '73.42'
+average: '7.97'
 ---
 
 Tienes [Springfield 13315 Vaqueros Relaxed  Hombre  Azul  Gama Azules    Tamaño del Fabricante:36 ](https://www.amazon.es/dp/B078HDBTTR/?tag=tolees-21) con un 73.42 % de descuento con precio de oferta de 7.97 EUR (original: 29.99 EUR) en el siguiente enlace!

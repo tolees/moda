@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071FBSZ96/?tag=tolees-21'
 descuento: '59.28'
+average: '36.65'
 ---
 
 Ahora mismo tienes [Under Armour UA Pursuit Full Zip Hoody Sudadera  Hombre  Negro  002   XL](https://www.amazon.es/dp/B071FBSZ96/?tag=tolees-21) a 36.65 EUR (original: 90 EUR) (59.28 %  de descuento) en el siguiente enlace!

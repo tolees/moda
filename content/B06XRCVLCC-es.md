@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XRCVLCC/?tag=tolees-21'
 descuento: '60.00'
+average: '10'
 ---
 
 Tienes [find. Sandalias Pala para Mujer  Verde  Green/nude   37 EU](https://www.amazon.es/dp/B06XRCVLCC/?tag=tolees-21) con un 60.00 % de descuento con precio de oferta de 10 EUR (original: 25 EUR) en el siguiente enlace!

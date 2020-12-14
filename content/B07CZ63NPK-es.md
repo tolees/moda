@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CZ63NPK/?tag=tolees-21'
 descuento: '51.80'
+average: '16.87'
 ---
 
 Está [G-STAR RAW Graphic 9 T-Shirt  Camiseta para Hombre  Azul  Sartho Blue 6067  X-Small](https://www.amazon.es/dp/B07CZ63NPK/?tag=tolees-21) con 51.80 de descuento por 16.87 EUR (original: 35 EUR) en el siguiente enlace!

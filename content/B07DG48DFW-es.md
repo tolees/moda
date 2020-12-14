@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DG48DFW/?tag=tolees-21'
 descuento: '31.66'
+average: '12.95'
 ---
 
 Está [Puma Amplified tee Camiseta  Hombre  Negro  Cotton Black   M](https://www.amazon.es/dp/B07DG48DFW/?tag=tolees-21) con 31.66 de descuento por 12.95 EUR (original: 18.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00KFH562U/?tag=tolees-21'
 descuento: '36.84'
+average: '56.81'
 ---
 
 Está [Lee Scarlett Jeans Vaqueros  Grau  Chrome Wash LK   W25/ L33 para Mujer](https://www.amazon.es/dp/B00KFH562U/?tag=tolees-21) con 36.84 de descuento por 56.81 EUR (original: 89.95 EUR) en el siguiente enlace!

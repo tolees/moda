@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077JBG94T/?tag=tolees-21'
 descuento: '65.10'
+average: '69.8'
 ---
 
 Tienes [Volcom Lidward Parka Chaqueta  Hombre  Beige  Khaki   S](https://www.amazon.es/dp/B077JBG94T/?tag=tolees-21) con un 65.10 % de descuento con precio de oferta de 69.8 EUR (original: 200 EUR) en el siguiente enlace!

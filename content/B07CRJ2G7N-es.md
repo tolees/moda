@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CRJ2G7N/?tag=tolees-21'
 descuento: '54.88'
+average: '13.49'
 ---
 
 Está [Pepe Jeans Mack  Camiseta para Hombre   Grey Marl 933   XX-Large](https://www.amazon.es/dp/B07CRJ2G7N/?tag=tolees-21) con 54.88 de descuento por 13.49 EUR (original: 29.9 EUR) en el siguiente enlace!

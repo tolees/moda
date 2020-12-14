@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01D61A4GO/?tag=tolees-21'
 descuento: '43.65'
+average: '239.45'
 ---
 
 Tienes [Trangoworld Guiers Chaqueta  Hombre  Negro  XL](https://www.amazon.es/dp/B01D61A4GO/?tag=tolees-21) con un 43.65 % de descuento con precio de oferta de 239.45 EUR (original: 424.9 EUR) en el siguiente enlace!

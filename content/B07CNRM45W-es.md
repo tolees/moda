@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CNRM45W/?tag=tolees-21'
 descuento: '78.78'
+average: '14.84'
 ---
 
 Está [Scotch & Soda R´Belle Heavy Jersey Pants with Velvet Side Panels Pantalones  Azul  Night 002   104 para Niñas](https://www.amazon.es/dp/B07CNRM45W/?tag=tolees-21) con 78.78 de descuento por 14.84 EUR (original: 69.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06WRWGWJZ/?tag=tolees-21'
 descuento: '50.52'
+average: '12.37'
 ---
 
 Tienes [find. Camiseta con Lazo para Mujer   Azul  Navy Mix   38  Talla del Fabricante: Small ](https://www.amazon.es/dp/B06WRWGWJZ/?tag=tolees-21) con un 50.52 % de descuento con precio de oferta de 12.37 EUR (original: 25 EUR) en el siguiente enlace!

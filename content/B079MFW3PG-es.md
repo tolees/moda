@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079MFW3PG/?tag=tolees-21'
 descuento: '67.23'
+average: '8.39'
 ---
 
 Está [edc by Esprit 058cc1k088  Camiseta Mujer   Navy 400   X-Small](https://www.amazon.es/dp/B079MFW3PG/?tag=tolees-21) con 67.23 de descuento por 8.39 EUR (original: 25.6 EUR) en el siguiente enlace!

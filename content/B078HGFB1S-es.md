@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078HGFB1S/?tag=tolees-21'
 descuento: '63.39'
+average: '10.98'
 ---
 
 Está [Springfield 273554 Camisa Casual  Hombre  Azul  Gamma Azules   Large  Tamaño del Fabricante:L ](https://www.amazon.es/dp/B078HGFB1S/?tag=tolees-21) con 63.39 de descuento por 10.98 EUR (original: 29.99 EUR) en el siguiente enlace!

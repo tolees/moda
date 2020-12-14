@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0107SAZNQ/?tag=tolees-21'
 descuento: '53.76'
+average: '6.45'
 ---
 
 Ahora mismo tienes [Joma - Camiseta Record Verde-Blanco m/c para Hombre](https://www.amazon.es/dp/B0107SAZNQ/?tag=tolees-21) a 6.45 EUR (original: 13.95 EUR) (53.76 %  de descuento) en el siguiente enlace!

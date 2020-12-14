@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00LM6X2EW/?tag=tolees-21'
 descuento: '66.56'
+average: '8.66'
 ---
 
 Ahora mismo tienes [Havaianas Slim  Chanclas para Mujer  Gris  Steel Gray 5178   37/38 EU  35/36 Brazilian ](https://www.amazon.es/dp/B00LM6X2EW/?tag=tolees-21) a 8.66 EUR (original: 25.9 EUR) (66.56 %  de descuento) en el siguiente enlace!

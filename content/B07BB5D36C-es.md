@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BB5D36C/?tag=tolees-21'
 descuento: '41.54'
+average: '58.46'
 ---
 
 Tienes [The North Face T0A8AZ Chaqueta Quest  Hombre  Vanadis Grey Black Heather  M](https://www.amazon.es/dp/B07BB5D36C/?tag=tolees-21) con un 41.54 % de descuento con precio de oferta de 58.46 EUR (original: 100 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077XRGTYR/?tag=tolees-21'
 descuento: '36.23'
+average: '22.32'
 ---
 
 Ahora mismo tienes [Under Armour Run Tall Graphic Camisa Manga Corta  Hombre  After Burn/Charcoal/Reflective  L](https://www.amazon.es/dp/B077XRGTYR/?tag=tolees-21) a 22.32 EUR (original: 35 EUR) (36.23 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072R7MKH2/?tag=tolees-21'
 descuento: '81.10'
+average: '5.1'
 ---
 
 Tienes [Vero Moda Vmylda LS Boxy Blouse  suéter Mujer  Azul  Navy Blazer Navy Blazer   36  Talla del Fabricante: Small ](https://www.amazon.es/dp/B072R7MKH2/?tag=tolees-21) con un 81.10 % de descuento con precio de oferta de 5.1 EUR (original: 26.99 EUR) en el siguiente enlace!

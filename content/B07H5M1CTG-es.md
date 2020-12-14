@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07H5M1CTG/?tag=tolees-21'
 descuento: '66.22'
+average: '24.68'
 ---
 
 Está [Rocket Dog Brittany  Botines para Mujer  Marrón  Brown Heirloom C00   36 EU](https://www.amazon.es/dp/B07H5M1CTG/?tag=tolees-21) con 66.22 de descuento por 24.68 EUR (original: 73.07 EUR) en el siguiente enlace!

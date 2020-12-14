@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JLS6F8Q/?tag=tolees-21'
 descuento: '60.78'
+average: '19.59'
 ---
 
 Tienes [XTI 35000  Zapatos con Tira de Tobillo para Mujer  Negro  39 EU](https://www.amazon.es/dp/B07JLS6F8Q/?tag=tolees-21) con un 60.78 % de descuento con precio de oferta de 19.59 EUR (original: 49.95 EUR) en el siguiente enlace!

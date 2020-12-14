@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0798GVVBN/?tag=tolees-21'
 descuento: '48.60'
+average: '71.93'
 ---
 
 Tienes [G-Star RAW Core Strap  Sandalias de Talón Abierto para Mujer  Negro  Black 990   37 EU](https://www.amazon.es/dp/B0798GVVBN/?tag=tolees-21) con un 48.60 % de descuento con precio de oferta de 71.93 EUR (original: 139.95 EUR) en el siguiente enlace!

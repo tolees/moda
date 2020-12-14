@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KK1TNFD/?tag=tolees-21'
 descuento: '40.47'
+average: '11.9'
 ---
 
 Ahora mismo tienes [Quiksilver Quik Pool Camiseta de Manga Corta  Hombre  Naranja  Flamingo   L](https://www.amazon.es/dp/B07KK1TNFD/?tag=tolees-21) a 11.9 EUR (original: 19.99 EUR) (40.47 %  de descuento) en el siguiente enlace!

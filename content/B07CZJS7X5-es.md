@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CZJS7X5/?tag=tolees-21'
 descuento: '46.11'
+average: '21.55'
 ---
 
 Está [Under Armour Mk1 LS Graphic Camiseta de Manga Larga  Hombre  Azul  Petrol Blue/Thunder 437   L](https://www.amazon.es/dp/B07CZJS7X5/?tag=tolees-21) con 46.11 de descuento por 21.55 EUR (original: 39.99 EUR) en el siguiente enlace!

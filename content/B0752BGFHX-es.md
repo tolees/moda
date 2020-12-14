@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0752BGFHX/?tag=tolees-21'
 descuento: '62.15'
+average: '34.05'
 ---
 
 Ahora mismo tienes [G-STAR RAW 3301 Deconstructed High Waist Skinny Vaqueros  Negro  rinsed 8970-082   33W / 36L para Mujer](https://www.amazon.es/dp/B0752BGFHX/?tag=tolees-21) a 34.05 EUR (original: 89.95 EUR) (62.15 %  de descuento) en el siguiente enlace!

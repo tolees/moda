@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JPFST22/?tag=tolees-21'
 descuento: '66.47'
+average: '25.15'
 ---
 
 Ahora mismo tienes [Morgan 191-rmil.n  Vestido Fiesta Mujer para Negro Noir  Medium  Talla del Fabricante: TM ](https://www.amazon.es/dp/B07JPFST22/?tag=tolees-21) a 25.15 EUR (original: 75 EUR) (66.47 %  de descuento) en el siguiente enlace!

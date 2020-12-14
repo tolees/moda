@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FY35FRW/?tag=tolees-21'
 descuento: '82.44'
+average: '14.05'
 ---
 
 Tienes [SELECTED FEMME Slfenva LS Knit Cardigan BF  Chaqueta Punto Mujer  Lapis Stripes  44  Talla del Fabricante: X-Large ](https://www.amazon.es/dp/B07FY35FRW/?tag=tolees-21) con un 82.44 % de descuento con precio de oferta de 14.05 EUR (original: 79.99 EUR) en el siguiente enlace!

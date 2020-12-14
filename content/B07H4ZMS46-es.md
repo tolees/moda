@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07H4ZMS46/?tag=tolees-21'
 descuento: '54.08'
+average: '91.38'
 ---
 
 Tienes [Gant O2. Collarless Padded Jacket Chaqueta  Azul  Marine 410   40  Talla del Fabricante: Medium  para Mujer](https://www.amazon.es/dp/B07H4ZMS46/?tag=tolees-21) con un 54.08 % de descuento con precio de oferta de 91.38 EUR (original: 199 EUR) en el siguiente enlace!

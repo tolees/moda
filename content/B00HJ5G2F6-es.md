@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00HJ5G2F6/?tag=tolees-21'
 descuento: '63.69'
+average: '19.95'
 ---
 
 Está [Levi s Kids Skinny Fit N92223B - Vaqueros para niños  Azul  INDIGO 46   14 años  162 cm ](https://www.amazon.es/dp/B00HJ5G2F6/?tag=tolees-21) con 63.69 de descuento por 19.95 EUR (original: 54.95 EUR) en el siguiente enlace!

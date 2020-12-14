@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01KXKZAZ6/?tag=tolees-21'
 descuento: '61.20'
+average: '31.04'
 ---
 
 Está [Cortefiel 2.T.M.Biker PU TACHAS  Parka para Mujer  Black L](https://www.amazon.es/dp/B01KXKZAZ6/?tag=tolees-21) con 61.20 de descuento por 31.04 EUR (original: 79.99 EUR) en el siguiente enlace!

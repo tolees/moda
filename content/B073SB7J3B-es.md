@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073SB7J3B/?tag=tolees-21'
 descuento: '50.00'
+average: '59.95'
 ---
 
 Ahora mismo tienes [JACK & JONES Jortokyo Peacoat Chaqueta  Azul  Total Eclipse   Medium para Hombre](https://www.amazon.es/dp/B073SB7J3B/?tag=tolees-21) a 59.95 EUR (original: 119.9 EUR) (50.00 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079KGCY7F/?tag=tolees-21'
 descuento: '64.85'
+average: '35.13'
 ---
 
 Ahora mismo tienes [Lee Rider  Vaqueros Slim para Hombre  Azul  Blue Waters CP  W32/L34](https://www.amazon.es/dp/B079KGCY7F/?tag=tolees-21) a 35.13 EUR (original: 99.95 EUR) (64.85 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DWRT3DD/?tag=tolees-21'
 descuento: '31.26'
+average: '21.99'
 ---
 
 Está [TOPERSUN Protección Anti-Azul Gafas Gafas de Juego Gafas de Lectura para Ordenador TV Juegos Lectura](https://www.amazon.es/dp/B07DWRT3DD/?tag=tolees-21) con 31.26 de descuento por 21.99 EUR (original: 31.99 EUR) en el siguiente enlace!

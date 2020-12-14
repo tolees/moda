@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07K1VBFLM/?tag=tolees-21'
 descuento: '52.57'
+average: '19.45'
 ---
 
 Ahora mismo tienes [adidas Tiro 19 JSY Camiseta de Manga Corta  Hombre  White/Black  M](https://www.amazon.es/dp/B07K1VBFLM/?tag=tolees-21) a 18.95 EUR (original: 39.95 EUR) (52.57 %  de descuento) en el siguiente enlace!
@@ -25,7 +26,7 @@ Ahora mismo tienes [adidas Tiro 19 JSY Camiseta de Manga Corta  Hombre  White/Bl
 🔎:
 
 - Adidas logo on the front
-- Slim fit
 - Climalite anti-humidity fabric
+- Slim fit
 
 [Visítala!!!](https://www.amazon.es/dp/B07K1VBFLM/?tag=tolees-21)

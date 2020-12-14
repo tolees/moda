@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07NB7JNK5/?tag=tolees-21'
 descuento: '60.01'
+average: '19.99'
 ---
 
 Está [Esprit 049ee1e001 Vestido  Negro  Black 001   Medium para Mujer](https://www.amazon.es/dp/B07NB7JNK5/?tag=tolees-21) con 60.01 de descuento por 19.99 EUR (original: 49.99 EUR) en el siguiente enlace!

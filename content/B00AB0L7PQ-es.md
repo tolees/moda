@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00AB0L7PQ/?tag=tolees-21'
 descuento: '31.57'
+average: '23.95'
 ---
 
 Está [The North Face Equipment TNF Bolso Base Camp Travel Canister Large  Unisex adulto  TNF Black  Talla única](https://www.amazon.es/dp/B00AB0L7PQ/?tag=tolees-21) con 31.57 de descuento por 23.95 EUR (original: 35 EUR) en el siguiente enlace!

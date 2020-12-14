@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071FRHD56/?tag=tolees-21'
 descuento: '70.00'
+average: '7.8'
 ---
 
 Está [FIND Sudadera con Trabillas para Mujer  Negro  Black   40  Talla del Fabricante: Medium ](https://www.amazon.es/dp/B071FRHD56/?tag=tolees-21) con 70.00 de descuento por 7.8 EUR (original: 26 EUR) en el siguiente enlace!

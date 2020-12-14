@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01EYJRM9Y/?tag=tolees-21'
 descuento: '42.93'
+average: '62.78'
 ---
 
 Está [Levi s 511 Slim Fit  Vaqueros Hombre  Azul  Headed South 4006   32W / 32L](https://www.amazon.es/dp/B01EYJRM9Y/?tag=tolees-21) con 42.93 de descuento por 62.78 EUR (original: 110 EUR) en el siguiente enlace!

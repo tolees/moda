@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00UMC7QWQ/?tag=tolees-21'
 descuento: '64.32'
+average: '49.59'
 ---
 
 Está [Carrera - Gafas de sol Rectangulares 5023/S Interchangeable  Negro](https://www.amazon.es/dp/B00UMC7QWQ/?tag=tolees-21) con 64.32 de descuento por 49.59 EUR (original: 139 EUR) en el siguiente enlace!

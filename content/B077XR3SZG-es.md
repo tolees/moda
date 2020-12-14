@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077XR3SZG/?tag=tolees-21'
 descuento: '72.83'
+average: '8.15'
 ---
 
 Ahora mismo tienes [Under Armour HG - Pantalón Corto para Mujer  Mujer  1309619-906  Peach Horizon/Charcoal  X-Large](https://www.amazon.es/dp/B077XR3SZG/?tag=tolees-21) a 8.15 EUR (original: 30 EUR) (72.83 %  de descuento) en el siguiente enlace!

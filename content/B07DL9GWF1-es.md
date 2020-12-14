@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DL9GWF1/?tag=tolees-21'
 descuento: '30.36'
+average: '18.1'
 ---
 
 Ahora mismo tienes [Springfield Frq Stripes Block Gg12  Jersey para Hombre   Gama Azules 11   X-Large  Tamaño del Fabricante:XL ](https://www.amazon.es/dp/B07DL9GWF1/?tag=tolees-21) a 18.1 EUR (original: 25.99 EUR) (30.36 %  de descuento) en el siguiente enlace!

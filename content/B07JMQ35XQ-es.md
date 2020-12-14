@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JMQ35XQ/?tag=tolees-21'
 descuento: '31.44'
+average: '27.39'
 ---
 
 Tienes [XTI 32035  Zapatos con Tira de Tobillo para Mujer  Azul Navy  38 EU](https://www.amazon.es/dp/B07JMQ35XQ/?tag=tolees-21) con un 31.44 % de descuento con precio de oferta de 27.39 EUR (original: 39.95 EUR) en el siguiente enlace!

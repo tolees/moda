@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DLJWRQJ/?tag=tolees-21'
 descuento: '54.19'
+average: '32.06'
 ---
 
 Está [Springfield 7Wh-Acolchada Rib  Chaqueta para Hombre   Gama Azules 13   Medium  Tamaño del Fabricante:M ](https://www.amazon.es/dp/B07DLJWRQJ/?tag=tolees-21) con 54.19 de descuento por 32.06 EUR (original: 69.99 EUR) en el siguiente enlace!

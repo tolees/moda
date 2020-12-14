@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FNQCJ2X/?tag=tolees-21'
 descuento: '57.33'
+average: '34.13'
 ---
 
 Tienes [JACK & JONES Jjiglenn Jjoriginal Jos 745 I.k Noos Vaqueros Slim  Azul Blue Denim  W36/L34 para Hombre](https://www.amazon.es/dp/B07FNQCJ2X/?tag=tolees-21) con un 57.33 % de descuento con precio de oferta de 34.13 EUR (original: 79.99 EUR) en el siguiente enlace!

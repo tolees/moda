@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07L9FZBX3/?tag=tolees-21'
 descuento: '41.76'
+average: '31.45'
 ---
 
 Está [Napapijri K Bonthe C Sudadera  Azul  Dark Denim Bd1   140  Talla del Fabricante: 10  para Niños](https://www.amazon.es/dp/B07L9FZBX3/?tag=tolees-21) con 41.76 de descuento por 31.45 EUR (original: 54 EUR) en el siguiente enlace!

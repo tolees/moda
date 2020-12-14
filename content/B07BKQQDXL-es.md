@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BKQQDXL/?tag=tolees-21'
 descuento: '58.04'
+average: '11.75'
 ---
 
 Está [Goodthreads Camisa Oxford de Manga Larga Estampado Tartán Standard Fit Hombre  Azul  green navy tartan   Medium](https://www.amazon.es/dp/B07BKQQDXL/?tag=tolees-21) con 58.04 de descuento por 11.75 EUR (original: 28 EUR) en el siguiente enlace!

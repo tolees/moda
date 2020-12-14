@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CHPTN9Q/?tag=tolees-21'
 descuento: '67.72'
+average: '22.59'
 ---
 
 Está [ONLY Onlbex Lace Up Bootie  Botines para Mujer  Morado Burgundy  38 EU](https://www.amazon.es/dp/B07CHPTN9Q/?tag=tolees-21) con 67.72 de descuento por 22.59 EUR (original: 69.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00PBLM4BQ/?tag=tolees-21'
 descuento: '50.11'
+average: '27.44'
 ---
 
 Está [Polaroid PLD 1015/S H8 V08 53 Gafas de Sol  Marrón  Havana/Green Pz   Hombre](https://www.amazon.es/dp/B00PBLM4BQ/?tag=tolees-21) con 50.11 de descuento por 27.44 EUR (original: 55 EUR) en el siguiente enlace!

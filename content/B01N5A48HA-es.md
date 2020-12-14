@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N5A48HA/?tag=tolees-21'
 descuento: '52.28'
+average: '12.88'
 ---
 
 Tienes [RED WAGON Gingham Dress Vestido para Niñas  Multicolor  Multi   4 años](https://www.amazon.es/dp/B01N5A48HA/?tag=tolees-21) con un 52.28 % de descuento con precio de oferta de 12.88 EUR (original: 26.99 EUR) en el siguiente enlace!

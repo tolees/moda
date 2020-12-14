@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072BY3DLG/?tag=tolees-21'
 descuento: '58.38'
+average: '10.82'
 ---
 
 Tienes [Under Armour Fly by Short Pantalón Corto  Mujer  Naranja  Brilliance/White/Reflective 819   S](https://www.amazon.es/dp/B072BY3DLG/?tag=tolees-21) con un 58.38 % de descuento con precio de oferta de 10.82 EUR (original: 26 EUR) en el siguiente enlace!

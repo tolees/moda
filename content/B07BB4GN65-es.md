@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BB4GN65/?tag=tolees-21'
 descuento: '50.00'
+average: '80'
 ---
 
 Está [The North Face M Stratos Jacket Chaqueta  Hombre  Verde  Primary Lime Green/Kodiak Blue   M](https://www.amazon.es/dp/B07BB4GN65/?tag=tolees-21) con 50.00 de descuento por 80 EUR (original: 160 EUR) en el siguiente enlace!

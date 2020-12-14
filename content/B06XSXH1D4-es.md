@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XSXH1D4/?tag=tolees-21'
 descuento: '32.77'
+average: '17.48'
 ---
 
 Ahora mismo tienes [FIND DC3083S vaqueros mujer  Negro  Black   W28/L32  Talla del Fabricante: Small ](https://www.amazon.es/dp/B06XSXH1D4/?tag=tolees-21) a 17.48 EUR (original: 26 EUR) (32.77 %  de descuento) en el siguiente enlace!

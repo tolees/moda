@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07LFVWYNZ/?tag=tolees-21'
 descuento: '56.56'
+average: '26.02'
 ---
 
 Está [Pepe Jeans Shark Plain  Sandalias con Plataforma para Mujer  Azul  585marine 585   37 EU](https://www.amazon.es/dp/B07LFVWYNZ/?tag=tolees-21) con 56.56 de descuento por 26.02 EUR (original: 59.9 EUR) en el siguiente enlace!

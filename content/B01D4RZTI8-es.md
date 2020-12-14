@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01D4RZTI8/?tag=tolees-21'
 descuento: '65.21'
+average: '13.88'
 ---
 
 Está [EL FLAMENCO PANTALÓN Caballero Slim 5 Bolsillos  Hombre  Beige 46](https://www.amazon.es/dp/B01D4RZTI8/?tag=tolees-21) con 65.21 de descuento por 13.88 EUR (original: 39.9 EUR) en el siguiente enlace!

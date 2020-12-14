@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MDBKG91/?tag=tolees-21'
 descuento: '64.51'
+average: '12.42'
 ---
 
 Ahora mismo tienes [G-STAR RAW Korpaz Graphic T-shirt  Camiseta Hombre  Blanco  White 110   Medium](https://www.amazon.es/dp/B07MDBKG91/?tag=tolees-21) a 12.42 EUR (original: 35 EUR) (64.51 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07J2NN1HV/?tag=tolees-21'
 descuento: '65.93'
+average: '8.5'
 ---
 
 Está [Boss Boxer Brief 24 Logo  Hombre  Azul  Bright Blue 430   Small](https://www.amazon.es/dp/B07J2NN1HV/?tag=tolees-21) con 65.93 de descuento por 8.5 EUR (original: 24.95 EUR) en el siguiente enlace!

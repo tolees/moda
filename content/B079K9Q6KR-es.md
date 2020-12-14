@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079K9Q6KR/?tag=tolees-21'
 descuento: '62.59'
+average: '33.65'
 ---
 
 Está [Lee Scarlett Vaqueros Skinny  Azul  Solid Blue KT   W29/L35 para Mujer](https://www.amazon.es/dp/B079K9Q6KR/?tag=tolees-21) con 62.59 de descuento por 33.65 EUR (original: 89.95 EUR) en el siguiente enlace!

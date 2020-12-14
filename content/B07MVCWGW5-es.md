@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MVCWGW5/?tag=tolees-21'
 descuento: '70.18'
+average: '5.95'
 ---
 
 Tienes [Chanclas Flip Flop Playa y Piscina para Mujer o Chica  39 EU  Ethnic ](https://www.amazon.es/dp/B07MVCWGW5/?tag=tolees-21) con un 70.18 % de descuento con precio de oferta de 5.95 EUR (original: 19.95 EUR) en el siguiente enlace!

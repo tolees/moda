@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075TG1FK9/?tag=tolees-21'
 descuento: '30.00'
+average: '8.4'
 ---
 
 Está [KRISP Vestido Corto Ajustado Moda Mujer  Burdeos/Negro  6609   40  6609-WINBLK-12](https://www.amazon.es/dp/B075TG1FK9/?tag=tolees-21) con 30.00 de descuento por 8.4 EUR (original: 12 EUR) en el siguiente enlace!

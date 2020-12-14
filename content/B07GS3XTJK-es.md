@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GS3XTJK/?tag=tolees-21'
 descuento: '74.10'
+average: '6.99'
 ---
 
 Está [Mogomiten Bolso Mochilas  Daypack Informal Mochila de Estudiante Librería universitaria Mochila de Viaje Daypack Mochila Informal para Chicas Adolescentes Niños y Mujeres a Prueba de Agua  Azul](https://www.amazon.es/dp/B07GS3XTJK/?tag=tolees-21) con 74.10 de descuento por 6.99 EUR (original: 26.99 EUR) en el siguiente enlace!

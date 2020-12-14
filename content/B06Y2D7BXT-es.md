@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06Y2D7BXT/?tag=tolees-21'
 descuento: '30.27'
+average: '29.95'
 ---
 
 Tienes [Levi s Sweat Nos Batwi  Sudadera para Niños  Azul  Marine   14 años](https://www.amazon.es/dp/B06Y2D7BXT/?tag=tolees-21) con un 30.27 % de descuento con precio de oferta de 29.95 EUR (original: 42.95 EUR) en el siguiente enlace!

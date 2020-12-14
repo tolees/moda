@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01EYK121C/?tag=tolees-21'
 descuento: '46.90'
+average: '42.48'
 ---
 
 Ahora mismo tienes [Levi s Modern Western  Blusa para Mujer  Multicolor  Licorice Original Plaid 7   36  Talla del fabricante: Medium ](https://www.amazon.es/dp/B01EYK121C/?tag=tolees-21) a 42.48 EUR (original: 80 EUR) (46.90 %  de descuento) en el siguiente enlace!

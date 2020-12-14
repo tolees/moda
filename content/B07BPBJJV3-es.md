@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BPBJJV3/?tag=tolees-21'
 descuento: '63.25'
+average: '29.38'
 ---
 
 Está [Wrangler Greensboro Straight Leg 2 Vaqueros  Azul  Light Blue 25N   32W / 34L para Hombre](https://www.amazon.es/dp/B07BPBJJV3/?tag=tolees-21) con 63.25 de descuento por 29.38 EUR (original: 79.95 EUR) en el siguiente enlace!

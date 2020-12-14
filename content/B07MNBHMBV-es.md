@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MNBHMBV/?tag=tolees-21'
 descuento: '51.03'
+average: '14.69'
 ---
 
 Está [The North Face S/S MNT Exp tee Camiseta gráfica de Manga Corta  Hombre  Negro  TNF Black   M](https://www.amazon.es/dp/B07MNBHMBV/?tag=tolees-21) con 51.03 de descuento por 14.69 EUR (original: 30 EUR) en el siguiente enlace!

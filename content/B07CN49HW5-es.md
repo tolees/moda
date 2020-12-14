@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CN49HW5/?tag=tolees-21'
 descuento: '40.07'
+average: '20.97'
 ---
 
 Está [Crocs Classic  Zuecos Unisex Adulto  Dorado  Bronze 854   41/42 EU](https://www.amazon.es/dp/B07CN49HW5/?tag=tolees-21) con 40.07 de descuento por 20.97 EUR (original: 34.99 EUR) en el siguiente enlace!

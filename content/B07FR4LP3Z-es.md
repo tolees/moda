@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FR4LP3Z/?tag=tolees-21'
 descuento: '41.69'
+average: '29.15'
 ---
 
 Ahora mismo tienes [Naf Naf Jhnc62d  Blusa para Mujer   Imprime 487  40](https://www.amazon.es/dp/B07FR4LP3Z/?tag=tolees-21) a 29.15 EUR (original: 49.99 EUR) (41.69 %  de descuento) en el siguiente enlace!

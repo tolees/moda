@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F1J1JZ1/?tag=tolees-21'
 descuento: '57.94'
+average: '46.27'
 ---
 
 Está [BILLABONG All Day 10K Boy Chaqueta  Niños  Verde  Military Heather 1288   años  Tamaño del Fabricante:12 ](https://www.amazon.es/dp/B07F1J1JZ1/?tag=tolees-21) con 57.94 de descuento por 46.27 EUR (original: 110 EUR) en el siguiente enlace!

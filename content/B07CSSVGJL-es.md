@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CSSVGJL/?tag=tolees-21'
 descuento: '47.39'
+average: '9.99'
 ---
 
 Está [StillCool Gafas de Natación para Niños Silicona  a Prueba de Agua  antivaho y Anti-UV con Sombreros  Clips para la Nariz  Tapones para los oídos Edad 4-12años   Azul ](https://www.amazon.es/dp/B07CSSVGJL/?tag=tolees-21) con 47.39 de descuento por 9.99 EUR (original: 18.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KX1YZPG/?tag=tolees-21'
 descuento: '30.00'
+average: '17.5'
 ---
 
 Ahora mismo tienes [find. Phrm3557 Jersey Premama Gris  Silver Grey  46  Talla del Fabricante: 2XL ](https://www.amazon.es/dp/B07KX1YZPG/?tag=tolees-21) a 17.5 EUR (original: 25 EUR) (30.00 %  de descuento) en el siguiente enlace!

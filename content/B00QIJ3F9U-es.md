@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00QIJ3F9U/?tag=tolees-21'
 descuento: '46.07'
+average: '19.41'
 ---
 
 Tienes [s.Oliver 14.503.12.7601 - Blusa para Mujer  Color grün  Powder Mint 6082   Talla 42](https://www.amazon.es/dp/B00QIJ3F9U/?tag=tolees-21) con un 46.07 % de descuento con precio de oferta de 19.41 EUR (original: 35.99 EUR) en el siguiente enlace!

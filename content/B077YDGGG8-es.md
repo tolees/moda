@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077YDGGG8/?tag=tolees-21'
 descuento: '56.66'
+average: '7.78'
 ---
 
 Está [HIKARO Camiseta con Botones Hombre  Rojo  Burgundy   48  Talla del fabricante: Small ](https://www.amazon.es/dp/B077YDGGG8/?tag=tolees-21) con 56.66 de descuento por 7.78 EUR (original: 17.95 EUR) en el siguiente enlace!

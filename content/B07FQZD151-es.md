@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FQZD151/?tag=tolees-21'
 descuento: '43.71'
+average: '33.77'
 ---
 
 Ahora mismo tienes [Naf Naf Jhnr91d Vestido   Noir/Ecru Z267   42 para Mujer](https://www.amazon.es/dp/B07FQZD151/?tag=tolees-21) a 33.77 EUR (original: 59.99 EUR) (43.71 %  de descuento) en el siguiente enlace!

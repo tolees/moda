@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DLQYCR1/?tag=tolees-21'
 descuento: '71.80'
+average: '7.33'
 ---
 
 Ahora mismo tienes [Springfield 4Wo Caja Mostaza Backyard League  Sudadera para Hombre   Gama Amarillos 8   X-Large  Tamaño del Fabricante:XL ](https://www.amazon.es/dp/B07DLQYCR1/?tag=tolees-21) a 7.33 EUR (original: 25.99 EUR) (71.80 %  de descuento) en el siguiente enlace!

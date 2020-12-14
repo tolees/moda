@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FYMNZ3Z/?tag=tolees-21'
 descuento: '33.22'
+average: '20'
 ---
 
 Está [Wrangler Kabel tee Camiseta  Azul  Turkish Sea 386   X-Large para Hombre](https://www.amazon.es/dp/B07FYMNZ3Z/?tag=tolees-21) con 33.22 de descuento por 20 EUR (original: 29.95 EUR) en el siguiente enlace!

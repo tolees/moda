@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FXK7N2C/?tag=tolees-21'
 descuento: '78.53'
+average: '12.87'
 ---
 
 Está [Wrangler Sign Off Sweat Sudadera  Azul  Navy A35   Small para Hombre](https://www.amazon.es/dp/B07FXK7N2C/?tag=tolees-21) con 78.53 de descuento por 12.87 EUR (original: 59.95 EUR) en el siguiente enlace!

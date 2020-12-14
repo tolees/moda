@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0792J6GZP/?tag=tolees-21'
 descuento: '46.21'
+average: '19.36'
 ---
 
 Tienes [Roxy Easy Game Camiseta sin Mangas de Diseño Técnico  Mujer  Negro  Antracita/Pattern_3   L](https://www.amazon.es/dp/B0792J6GZP/?tag=tolees-21) con un 46.21 % de descuento con precio de oferta de 19.36 EUR (original: 35.99 EUR) en el siguiente enlace!

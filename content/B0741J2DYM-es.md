@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0741J2DYM/?tag=tolees-21'
 descuento: '59.82'
+average: '27.32'
 ---
 
 Ahora mismo tienes [Kappa Dasio Padded Jkt  Chaqueta Unisex infantil  Rojo  Red   6Y](https://www.amazon.es/dp/B0741J2DYM/?tag=tolees-21) a 27.32 EUR (original: 68 EUR) (59.82 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DHSNB2R/?tag=tolees-21'
 descuento: '69.44'
+average: '21.39'
 ---
 
 Tienes [DC Shoes Star Sudadera  Hombre  Verde  Pine Grove Gzf0   Medium  Tamaño del Fabricante:M ](https://www.amazon.es/dp/B07DHSNB2R/?tag=tolees-21) con un 69.44 % de descuento con precio de oferta de 21.39 EUR (original: 69.99 EUR) en el siguiente enlace!

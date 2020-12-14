@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01EVV0J7M/?tag=tolees-21'
 descuento: '56.89'
+average: '133.65'
 ---
 
 Ahora mismo tienes [Fendi Brillengestelle FF 0070/F MJH/16-53-16-135 Monturas de gafas  Azul  Blau   53.0 para Mujer](https://www.amazon.es/dp/B01EVV0J7M/?tag=tolees-21) a 133.65 EUR (original: 310 EUR) (56.89 %  de descuento) en el siguiente enlace!

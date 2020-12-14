@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07LCKV6BB/?tag=tolees-21'
 descuento: '47.54'
+average: '18.88'
 ---
 
 Está [Amaza S925 Plata de Ley 100 Idiomas Te Amo Collar con Caja de Regalo de Joyería Elegante - Colgante Proyeccion Te Quiero 100 Idiomas para El Dia de San Valentin  Heart In Rose Gold ](https://www.amazon.es/dp/B07LCKV6BB/?tag=tolees-21) con 47.54 de descuento por 18.88 EUR (original: 35.99 EUR) en el siguiente enlace!

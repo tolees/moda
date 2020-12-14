@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01JOWMRXC/?tag=tolees-21'
 descuento: '63.81'
+average: '9.03'
 ---
 
 Está [Vero Moda Vmcozy Copenhagen Nice LS Cardigan Noos  Chaqueta Punto para Mujer  Gris  Asphalt   42  Talla del Fabricante: X-Large ](https://www.amazon.es/dp/B01JOWMRXC/?tag=tolees-21) con 63.81 de descuento por 9.03 EUR (original: 24.95 EUR) en el siguiente enlace!

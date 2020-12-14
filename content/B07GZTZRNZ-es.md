@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GZTZRNZ/?tag=tolees-21'
 descuento: '70.71'
+average: '38.08'
 ---
 
 Está [Fly London Inat422fly  Zapatos con Tacon y Correa de Tobillo para Mujer  Negro  Black 000   36 EU](https://www.amazon.es/dp/B07GZTZRNZ/?tag=tolees-21) con 70.71 de descuento por 38.08 EUR (original: 130 EUR) en el siguiente enlace!

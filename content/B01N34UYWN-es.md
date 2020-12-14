@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N34UYWN/?tag=tolees-21'
 descuento: '49.22'
+average: '15.23'
 ---
 
 Ahora mismo tienes [Only Onlmaja Calf Skirt Jrs Falda  Champagne Beige  40  Talla del Fabricante: Large  para Mujer](https://www.amazon.es/dp/B01N34UYWN/?tag=tolees-21) a 15.23 EUR (original: 29.99 EUR) (49.22 %  de descuento) en el siguiente enlace!

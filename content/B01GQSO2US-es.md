@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01GQSO2US/?tag=tolees-21'
 descuento: '87.21'
+average: '8.95'
 ---
 
 Tienes [Cartoon 8434/7483 Blusa  Cielo  ES ES 36  DE 34  para Mujer](https://www.amazon.es/dp/B01GQSO2US/?tag=tolees-21) con un 87.21 % de descuento con precio de oferta de 8.95 EUR (original: 69.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075MLD92D/?tag=tolees-21'
 descuento: '28.80'
+average: '8.58'
 ---
 
 Ahora mismo tienes [MERAKI Vestido de Tirantes Slim Fit Mujer  Rojo  Red Tawny Port   Small](https://www.amazon.es/dp/B075MLD92D/?tag=tolees-21) a 8.58 EUR (original: 12.05 EUR) (28.80 %  de descuento) en el siguiente enlace!

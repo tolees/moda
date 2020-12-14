@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F89T3ZY/?tag=tolees-21'
 descuento: '25.48'
+average: '74.51'
 ---
 
 Tienes [Quiksilver Scaly Chaqueta  Hombre  Negro  Black KVJ0    Tamaño del Fabricante:XL ](https://www.amazon.es/dp/B07F89T3ZY/?tag=tolees-21) con un 25.48 % de descuento con precio de oferta de 74.51 EUR (original: 99.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CZF815B/?tag=tolees-21'
 descuento: '41.68'
+average: '17.49'
 ---
 
 Tienes [Under Armour UA Speed Stride Shortsleeve Camiseta  Hombre  Azul Ether Blue/Reflective 452  XXL](https://www.amazon.es/dp/B07CZF815B/?tag=tolees-21) con un 41.68 % de descuento con precio de oferta de 17.49 EUR (original: 29.99 EUR) en el siguiente enlace!

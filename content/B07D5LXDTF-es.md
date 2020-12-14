@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D5LXDTF/?tag=tolees-21'
 descuento: '79.44'
+average: '22.41'
 ---
 
 Tienes [Nautica Track JKT W Piping  Sudadera Deportiva para Hombre  Gris  Grey Heather 0gh  Small  Tamaño del Fabricante:S ](https://www.amazon.es/dp/B07D5LXDTF/?tag=tolees-21) con un 79.44 % de descuento con precio de oferta de 22.41 EUR (original: 109 EUR) en el siguiente enlace!

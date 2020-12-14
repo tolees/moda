@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FLV37SM/?tag=tolees-21'
 descuento: '38.60'
+average: '34.99'
 ---
 
 Ahora mismo tienes [HOMIEE Mochila para Pañales Multi-Funcional  Mochila de Pañales y Biberones  Gran Capacidad  Impermeable Bolsa de Pañales Para Bebés  Bolso de Viaje con Aislado Bolsillos  Gris ](https://www.amazon.es/dp/B07FLV37SM/?tag=tolees-21) a 34.99 EUR (original: 56.99 EUR) (38.60 %  de descuento) en el siguiente enlace!

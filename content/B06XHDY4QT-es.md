@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XHDY4QT/?tag=tolees-21'
 descuento: '72.93'
+average: '54.13'
 ---
 
 Está [Helly Hansen W Blume Chaqueta  Mujer   Verde Oscuro   Medium  Tamaño del Fabricante:M ](https://www.amazon.es/dp/B06XHDY4QT/?tag=tolees-21) con 72.93 de descuento por 54.13 EUR (original: 200 EUR) en el siguiente enlace!

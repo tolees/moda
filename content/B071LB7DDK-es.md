@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071LB7DDK/?tag=tolees-21'
 descuento: '75.04'
+average: '24.2'
 ---
 
 Tienes [Izas Florenz Chaqueta de Pluma con Capucha para Hombre  Gris Oscuro/ Rojo Mineral  S](https://www.amazon.es/dp/B071LB7DDK/?tag=tolees-21) con un 75.04 % de descuento con precio de oferta de 24.2 EUR (original: 96.95 EUR) en el siguiente enlace!

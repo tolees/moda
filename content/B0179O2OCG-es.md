@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0179O2OCG/?tag=tolees-21'
 descuento: '79.24'
+average: '10.37'
 ---
 
 Está [Macson Pantalón Gris Oscuro ES 42](https://www.amazon.es/dp/B0179O2OCG/?tag=tolees-21) con 79.24 de descuento por 10.37 EUR (original: 49.95 EUR) en el siguiente enlace!

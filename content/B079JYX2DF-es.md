@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079JYX2DF/?tag=tolees-21'
 descuento: '42.24'
+average: '114.95'
 ---
 
 Tienes [Napapijri Rainforest Winter  Chaqueta  Mujer  Negro  Black 041  Large](https://www.amazon.es/dp/B079JYX2DF/?tag=tolees-21) con un 42.24 % de descuento con precio de oferta de 114.95 EUR (original: 199 EUR) en el siguiente enlace!

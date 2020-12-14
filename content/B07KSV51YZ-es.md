@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KSV51YZ/?tag=tolees-21'
 descuento: '32.87'
+average: '30.88'
 ---
 
 Está [Emporio Armani Underwear 9p300 Braguita de Bikini  Verde Militar 00084  85A  Talla del Fabricante: Small  para Mujer](https://www.amazon.es/dp/B07KSV51YZ/?tag=tolees-21) con 32.87 de descuento por 30.88 EUR (original: 46 EUR) en el siguiente enlace!

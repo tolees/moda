@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KYXV6ZW/?tag=tolees-21'
 descuento: '74.06'
+average: '7.78'
 ---
 
 Está [Springfield Frq.Falda Lisa Botones Falda  Mujer  Negro  Negro 1   42  Tamaño del Fabricante:42 ](https://www.amazon.es/dp/B07KYXV6ZW/?tag=tolees-21) con 74.06 de descuento por 7.78 EUR (original: 29.99 EUR) en el siguiente enlace!

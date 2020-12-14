@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072HJ8R3N/?tag=tolees-21'
 descuento: '54.83'
+average: '36.14'
 ---
 
 Ahora mismo tienes [Burton Bonded Crew Sudadera  Hombre  Mountaineer  S](https://www.amazon.es/dp/B072HJ8R3N/?tag=tolees-21) a 36.14 EUR (original: 80 EUR) (54.83 %  de descuento) en el siguiente enlace!

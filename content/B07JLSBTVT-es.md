@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JLSBTVT/?tag=tolees-21'
 descuento: '47.83'
+average: '26.06'
 ---
 
 Está [XTI 48921  Sandalias con Plataforma para Mujer  Blanco Hielo  38 EU](https://www.amazon.es/dp/B07JLSBTVT/?tag=tolees-21) con 47.83 de descuento por 26.06 EUR (original: 49.95 EUR) en el siguiente enlace!

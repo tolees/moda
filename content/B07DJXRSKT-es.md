@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DJXRSKT/?tag=tolees-21'
 descuento: '60.40'
+average: '19.76'
 ---
 
 Está [Geox B Kaytan B  Sandalias para Bebés  Azul  Navy/Avio C0700   18 EU](https://www.amazon.es/dp/B07DJXRSKT/?tag=tolees-21) con 60.40 de descuento por 19.76 EUR (original: 49.9 EUR) en el siguiente enlace!

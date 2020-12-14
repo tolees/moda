@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DLSCWTC/?tag=tolees-21'
 descuento: '82.28'
+average: '15.95'
 ---
 
 Está [Springfield INT. Real Down 3/4 Abrigo   Varios 98    Tamaño del Fabricante:42  para Mujer](https://www.amazon.es/dp/B07DLSCWTC/?tag=tolees-21) con 82.28 de descuento por 15.95 EUR (original: 89.99 EUR) en el siguiente enlace!

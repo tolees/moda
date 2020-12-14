@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B017DEB0AY/?tag=tolees-21'
 descuento: '53.92'
+average: '29.95'
 ---
 
 Ahora mismo tienes [Geox Jr Snake Moc Boy a  Mocasines para Niños  Azul  Bleu   32 EU](https://www.amazon.es/dp/B017DEB0AY/?tag=tolees-21) a 29.95 EUR (original: 65 EUR) (53.92 %  de descuento) en el siguiente enlace!

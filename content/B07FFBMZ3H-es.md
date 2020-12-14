@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FFBMZ3H/?tag=tolees-21'
 descuento: '46.34'
+average: '64.39'
 ---
 
 Está [Quiksilver Brooks Full Zip Chaqueta  Hombre  Negro  Tarmac KTA0   Small  Tamaño del Fabricante:S ](https://www.amazon.es/dp/B07FFBMZ3H/?tag=tolees-21) con 46.34 de descuento por 64.39 EUR (original: 119.99 EUR) en el siguiente enlace!

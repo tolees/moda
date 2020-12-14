@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JNYT15R/?tag=tolees-21'
 descuento: '39.03'
+average: '21.34'
 ---
 
 Está [Morgan 191-dmust.n Camiseta  Negro Noir  Large  Talla del Fabricante: TL  para Mujer](https://www.amazon.es/dp/B07JNYT15R/?tag=tolees-21) con 39.03 de descuento por 21.34 EUR (original: 35 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BWN4HBG/?tag=tolees-21'
 descuento: '41.38'
+average: '12.89'
 ---
 
 Ahora mismo tienes [tuokener Bolsos de Mujer Nylon Hombro Bolso Bolsa Impermeable para Mujer Viajar Crossbody Bag Nylon Waterproof gris ](https://www.amazon.es/dp/B07BWN4HBG/?tag=tolees-21) a 12.89 EUR (original: 21.99 EUR) (41.38 %  de descuento) en el siguiente enlace!

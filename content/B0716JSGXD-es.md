@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0716JSGXD/?tag=tolees-21'
 descuento: '58.11'
+average: '37.7'
 ---
 
 Ahora mismo tienes [Quiksilver Brooks Island DWR Youth Chaqueta Bomber Resistente Al Agua con Capucha  niños  Azul  Navy Blazer Solid   L/14](https://www.amazon.es/dp/B0716JSGXD/?tag=tolees-21) a 37.7 EUR (original: 89.99 EUR) (58.11 %  de descuento) en el siguiente enlace!

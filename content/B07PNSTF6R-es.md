@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07PNSTF6R/?tag=tolees-21'
 descuento: '82.45'
+average: '7.3'
 ---
 
 Está [Robluee - Perchero de Pared para Abrigo de Acero Inoxidable para Abrigo de Sombrero](https://www.amazon.es/dp/B07PNSTF6R/?tag=tolees-21) con 82.45 de descuento por 7.3 EUR (original: 41.6 EUR) en el siguiente enlace!

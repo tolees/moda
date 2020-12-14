@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DL7GRW2/?tag=tolees-21'
 descuento: '78.91'
+average: '5.48'
 ---
 
 Está [Springfield 5Ba C/Red Coderas Gg12 Jersey  Dorado  Tostado 50   Small  Tamaño del Fabricante:S  para Hombre](https://www.amazon.es/dp/B07DL7GRW2/?tag=tolees-21) con 78.91 de descuento por 5.48 EUR (original: 25.99 EUR) en el siguiente enlace!

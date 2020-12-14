@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MWCL54R/?tag=tolees-21'
 descuento: '51.77'
+average: '47.99'
 ---
 
 Está [RICOO Banco de Armario Zapatería WM035-ES-A Estanterías con Asientos Acolchado para la casa Entrada Madera Baúl Botas Banco Zapatero de Almacenamiento de Zapatos Color Robel Sonoma y Gris Antracita](https://www.amazon.es/dp/B07MWCL54R/?tag=tolees-21) con 51.77 de descuento por 47.99 EUR (original: 99.5 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07J6ZGLBL/?tag=tolees-21'
 descuento: '25.01'
+average: '17.99'
 ---
 
 Está [Xaed - Camiseta térmica de esquí para hombre  negro/azul  XL ](https://www.amazon.es/dp/B07J6ZGLBL/?tag=tolees-21) con 25.01 de descuento por 17.99 EUR (original: 23.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07P75NDL6/?tag=tolees-21'
 descuento: '55.26'
+average: '12'
 ---
 
 Está [New Look Button Through Tea Vestido Amarillo  Light Yellow 88  42  Talla del Fabricante: 14  para Mujer](https://www.amazon.es/dp/B07P75NDL6/?tag=tolees-21) con 55.26 de descuento por 12 EUR (original: 26.82 EUR) en el siguiente enlace!

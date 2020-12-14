@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JHJKJQ2/?tag=tolees-21'
 descuento: '71.43'
+average: '28.57'
 ---
 
 Tienes [Armani Exchange Gothic Writing Sudadera  Negro  Black W/White Embro 5242   Small  Talla del Fabricante: 33  para Mujer](https://www.amazon.es/dp/B07JHJKJQ2/?tag=tolees-21) con un 71.43 % de descuento con precio de oferta de 28.57 EUR (original: 100 EUR) en el siguiente enlace!

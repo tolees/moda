@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07N9BGW7B/?tag=tolees-21'
 descuento: '39.83'
+average: '17.99'
 ---
 
 Ahora mismo tienes [Pepe Jeans West Sir  Camiseta para Hombre  Amarillo  Ochre Yellow 097   X-Large](https://www.amazon.es/dp/B07N9BGW7B/?tag=tolees-21) a 17.99 EUR (original: 29.9 EUR) (39.83 %  de descuento) en el siguiente enlace!

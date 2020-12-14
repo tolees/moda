@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06X9NSXCD/?tag=tolees-21'
 descuento: '47.70'
+average: '62.73'
 ---
 
 Tienes [BOSS Orange24 Barcelona  Pantalones Vaqueros Delgados para Hombre  Negro  Black 002  W31/L34](https://www.amazon.es/dp/B06X9NSXCD/?tag=tolees-21) con un 47.70 % de descuento con precio de oferta de 62.73 EUR (original: 119.95 EUR) en el siguiente enlace!

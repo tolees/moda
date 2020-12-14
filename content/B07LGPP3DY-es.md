@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07LGPP3DY/?tag=tolees-21'
 descuento: '31.92'
+average: '35.4'
 ---
 
 Está [Guess Pandora Top Blusa  Negro  Jet Black A996 JBLK   M para Mujer](https://www.amazon.es/dp/B07LGPP3DY/?tag=tolees-21) con 31.92 de descuento por 35.4 EUR (original: 52 EUR) en el siguiente enlace!

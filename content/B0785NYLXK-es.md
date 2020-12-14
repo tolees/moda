@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0785NYLXK/?tag=tolees-21'
 descuento: '57.29'
+average: '14.95'
 ---
 
 Ahora mismo tienes [Volcom Over Ride DD SS Camiseta  Hombre  Azul  Cielo   S](https://www.amazon.es/dp/B0785NYLXK/?tag=tolees-21) a 14.95 EUR (original: 35 EUR) (57.29 %  de descuento) en el siguiente enlace!

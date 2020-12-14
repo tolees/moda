@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HBHT94W/?tag=tolees-21'
 descuento: '59.02'
+average: '62.21'
 ---
 
 Ahora mismo tienes [KAREN MILLEN Fashions Limited Studded Heeled Sandals  Zapatos de tacón con Punta Abierta para Mujer  Plateado  Silver 98   40 EU](https://www.amazon.es/dp/B07HBHT94W/?tag=tolees-21) a 62.21 EUR (original: 151.79 EUR) (59.02 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B015HSRLOW/?tag=tolees-21'
 descuento: '88.73'
+average: '16.91'
 ---
 
 Tienes [Esprit Tiny Check BLZ Chaqueta de Traje  Negro  36L para Hombre](https://www.amazon.es/dp/B015HSRLOW/?tag=tolees-21) con un 88.73 % de descuento con precio de oferta de 16.91 EUR (original: 149.99 EUR) en el siguiente enlace!

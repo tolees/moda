@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077GZG62P/?tag=tolees-21'
 descuento: '78.75'
+average: '14.66'
 ---
 
 Está [Dickies Pensacola Vaqueros Relaxed  Hombre  Gris  Mid Gray MDG    Tamaño del Fabricante:32/34 ](https://www.amazon.es/dp/B077GZG62P/?tag=tolees-21) con 78.75 de descuento por 14.66 EUR (original: 69 EUR) en el siguiente enlace!

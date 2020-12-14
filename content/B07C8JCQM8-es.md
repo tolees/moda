@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07C8JCQM8/?tag=tolees-21'
 descuento: '61.38'
+average: '34.37'
 ---
 
 Ahora mismo tienes [Dickies 874 Denim Work Pant Vaqueros Relaxed  Hombre  Azul  Raw Raw    Tamaño del Fabricante:36/32 ](https://www.amazon.es/dp/B07C8JCQM8/?tag=tolees-21) a 34.37 EUR (original: 89 EUR) (61.38 %  de descuento) en el siguiente enlace!

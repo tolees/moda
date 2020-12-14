@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07LB6D6CT/?tag=tolees-21'
 descuento: '50.72'
+average: '89.14'
 ---
 
 Está [Love Moschino - Borsa Soft Grain Pu  Bolso de mano Mujer  Negro  Nero   10x15x20 cm  W x H L ](https://www.amazon.es/dp/B07LB6D6CT/?tag=tolees-21) con 50.72 de descuento por 89.14 EUR (original: 180.9 EUR) en el siguiente enlace!

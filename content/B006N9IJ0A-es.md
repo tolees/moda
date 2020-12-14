@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B006N9IJ0A/?tag=tolees-21'
 descuento: '42.92'
+average: '8.99'
 ---
 
 Tienes [DC Shoes - Camiseta de Running para Mujer  tamaño 34 UK  Color Gris Jaspeado](https://www.amazon.es/dp/B006N9IJ0A/?tag=tolees-21) con un 42.92 % de descuento con precio de oferta de 8.99 EUR (original: 15.75 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FF62VWN/?tag=tolees-21'
 descuento: '49.41'
+average: '25.29'
 ---
 
 Tienes [Quiksilver Aker Sudadera con Capucha  Hombre  Negro  Black KVJ0   Medium  Tamaño del Fabricante:M ](https://www.amazon.es/dp/B07FF62VWN/?tag=tolees-21) con un 49.41 % de descuento con precio de oferta de 25.29 EUR (original: 49.99 EUR) en el siguiente enlace!

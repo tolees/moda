@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B015RGAU88/?tag=tolees-21'
 descuento: '43.81'
+average: '19.64'
 ---
 
 Está [Calvin Klein Trunk 2PK  Bóxer para Hombre  Grau  Heather Grey/Black Bhy  L](https://www.amazon.es/dp/B015RGAU88/?tag=tolees-21) con 43.81 de descuento por 19.64 EUR (original: 34.95 EUR) en el siguiente enlace!

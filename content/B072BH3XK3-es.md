@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072BH3XK3/?tag=tolees-21'
 descuento: '59.43'
+average: '12.15'
 ---
 
 Tienes [G-STAR RAW Danarius Slim V T Wmn S/s  Camiseta Mujer  Negro  Black 990   Medium  Talla del Fabricante: Small ](https://www.amazon.es/dp/B072BH3XK3/?tag=tolees-21) con un 59.43 % de descuento con precio de oferta de 12.15 EUR (original: 29.95 EUR) en el siguiente enlace!

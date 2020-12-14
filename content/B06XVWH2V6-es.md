@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XVWH2V6/?tag=tolees-21'
 descuento: '57.51'
+average: '16.99'
 ---
 
 Ahora mismo tienes [Vestido Corto de Mujer con Hombros Descubiertos Vestidos Verano Informales](https://www.amazon.es/dp/B06XVWH2V6/?tag=tolees-21) a 16.99 EUR (original: 39.99 EUR) (57.51 %  de descuento) en el siguiente enlace!

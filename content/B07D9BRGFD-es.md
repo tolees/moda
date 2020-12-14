@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D9BRGFD/?tag=tolees-21'
 descuento: '79.00'
+average: '13.85'
 ---
 
 Está [Marco Tozzi 26298-21  Botines para Mujer  Marrón  Tobacco Comb 465   37 EU](https://www.amazon.es/dp/B07D9BRGFD/?tag=tolees-21) con 79.00 de descuento por 13.85 EUR (original: 65.95 EUR) en el siguiente enlace!

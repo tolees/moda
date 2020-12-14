@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MZJGDT6/?tag=tolees-21'
 descuento: '49.98'
+average: '14.98'
 ---
 
 Está [Tuc Tuc Camiseta Punto+Bermuda Felpa NIÑO Super Trademark  Conjunto de Ropa para Niños   Azul 16   134/140  Tamaño del Fabricante:8A ](https://www.amazon.es/dp/B07MZJGDT6/?tag=tolees-21) con 49.98 de descuento por 14.98 EUR (original: 29.95 EUR) en el siguiente enlace!

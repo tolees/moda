@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0792PDJJ1/?tag=tolees-21'
 descuento: '76.75'
+average: '27.88'
 ---
 
 Está [Geox D Seylise Mid A  Zapatos de Tacón para Mujer   Black C9999   41 EU](https://www.amazon.es/dp/B0792PDJJ1/?tag=tolees-21) con 76.75 de descuento por 27.88 EUR (original: 119.9 EUR) en el siguiente enlace!

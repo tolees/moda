@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07J4TNV3J/?tag=tolees-21'
 descuento: '61.72'
+average: '17.99'
 ---
 
 Ahora mismo tienes [Aicehome Bolsa Termica Aislada con Correa de Hombro Ajustable y de Moda  Bolsa de Almuerzo Impermeable y a Prueba de Fugas para el Trabajo y Picnic con Rojo y Mazarine](https://www.amazon.es/dp/B07J4TNV3J/?tag=tolees-21) a 17.99 EUR (original: 46.99 EUR) (61.72 %  de descuento) en el siguiente enlace!

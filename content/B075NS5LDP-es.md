@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075NS5LDP/?tag=tolees-21'
 descuento: '40.85'
+average: '65.03'
 ---
 
 Ahora mismo tienes [Gore Wear C5 Pantalón Corto Tirantes  Mujer  Negro  34](https://www.amazon.es/dp/B075NS5LDP/?tag=tolees-21) a 65.03 EUR (original: 109.95 EUR) (40.85 %  de descuento) en el siguiente enlace!

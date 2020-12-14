@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07K75QTVH/?tag=tolees-21'
 descuento: '46.83'
+average: '15.95'
 ---
 
 Está [Levi s The Perfect Tee  Camiseta  Mujer  Negro  Box Tab Black 0488   XS](https://www.amazon.es/dp/B07K75QTVH/?tag=tolees-21) con 46.83 de descuento por 15.95 EUR (original: 30 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07614QCJL/?tag=tolees-21'
 descuento: '79.62'
+average: '8.15'
 ---
 
 Tienes [Esprit 127ee1j003  Sudadera Mujer  Rosa  Pink 670   XX-Large](https://www.amazon.es/dp/B07614QCJL/?tag=tolees-21) con un 79.62 % de descuento con precio de oferta de 8.15 EUR (original: 39.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FQ91JYC/?tag=tolees-21'
 descuento: '65.74'
+average: '4.45'
 ---
 
 Ahora mismo tienes [JACK & JONES Jorphotoxmas tee SS Crew Neck  Camiseta Hombre   Deep Teal Deep Teal   Small](https://www.amazon.es/dp/B07FQ91JYC/?tag=tolees-21) a 4.45 EUR (original: 12.99 EUR) (65.74 %  de descuento) en el siguiente enlace!

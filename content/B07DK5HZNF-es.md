@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DK5HZNF/?tag=tolees-21'
 descuento: '31.64'
+average: '40.95'
 ---
 
 Tienes [Geox J Borealis Boy B  Sandalias Punta Cerrada para Niños  Navy/Red C0735 32 EU](https://www.amazon.es/dp/B07DK5HZNF/?tag=tolees-21) con un 31.64 % de descuento con precio de oferta de 40.95 EUR (original: 59.9 EUR) en el siguiente enlace!

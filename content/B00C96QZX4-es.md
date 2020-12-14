@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00C96QZX4/?tag=tolees-21'
 descuento: '43.69'
+average: '19.71'
 ---
 
 Está [Samsonite 54788/1251 Attack SLG Monedero  Color Marrón](https://www.amazon.es/dp/B00C96QZX4/?tag=tolees-21) con 43.69 de descuento por 19.71 EUR (original: 35 EUR) en el siguiente enlace!

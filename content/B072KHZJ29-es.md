@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072KHZJ29/?tag=tolees-21'
 descuento: '75.55'
+average: '26.88'
 ---
 
 Ahora mismo tienes [BOSS Orange Cattitude  Camisa Manga Larga Hombre  Azul  Dark Blue 404   Small](https://www.amazon.es/dp/B072KHZJ29/?tag=tolees-21) a 26.88 EUR (original: 109.95 EUR) (75.55 %  de descuento) en el siguiente enlace!

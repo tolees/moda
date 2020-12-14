@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0767NQ1TW/?tag=tolees-21'
 descuento: '71.93'
+average: '29.47'
 ---
 
 Tienes [Geox D Ophira B  Zapatillas para Mujer  Blanco  40 EU](https://www.amazon.es/dp/B0767NQ1TW/?tag=tolees-21) con un 71.93 % de descuento con precio de oferta de 29.47 EUR (original: 105 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F2XR5V1/?tag=tolees-21'
 descuento: '46.65'
+average: '80'
 ---
 
 Tienes [Adidas NMD_r1  Zapatos de Cordones Derby para Hombre   White Owhite/Lusred   43 1/3 EU](https://www.amazon.es/dp/B07F2XR5V1/?tag=tolees-21) con un 46.65 % de descuento con precio de oferta de 80 EUR (original: 149.95 EUR) en el siguiente enlace!

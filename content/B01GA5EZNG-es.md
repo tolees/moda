@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01GA5EZNG/?tag=tolees-21'
 descuento: '81.20'
+average: '8.45'
 ---
 
 Tienes [VERO MODA VMNORA LS HIGHNECK TOP SWT V  suéter Mujer  Gris  Dark Grey Melange   38  Talla del fabricante: Medium ](https://www.amazon.es/dp/B01GA5EZNG/?tag=tolees-21) con un 81.20 % de descuento con precio de oferta de 8.45 EUR (original: 44.95 EUR) en el siguiente enlace!

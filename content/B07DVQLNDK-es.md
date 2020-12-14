@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DVQLNDK/?tag=tolees-21'
 descuento: '43.94'
+average: '15.9'
 ---
 
 Está [Volcom Crisp Euro BSC SS - Camiseta  Hombre  A3531851  Dark Kelly  Extra-Small](https://www.amazon.es/dp/B07DVQLNDK/?tag=tolees-21) con 43.94 de descuento por 15.9 EUR (original: 28.36 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KZ1JRWT/?tag=tolees-21'
 descuento: '75.34'
+average: '6.41'
 ---
 
 Ahora mismo tienes [Springfield 490 Raya Kodak Gg12 Jersey   Gama Azules 15   Small  Tamaño del Fabricante:S  para Hombre](https://www.amazon.es/dp/B07KZ1JRWT/?tag=tolees-21) a 6.41 EUR (original: 25.99 EUR) (75.34 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07B7XRTK8/?tag=tolees-21'
 descuento: '82.06'
+average: '19.72'
 ---
 
 Está [Petrol Industries M-FW18-JAC104  Chaqueta para Hombre  Negro  Black 9999   Tamaño del Fabricante:M ](https://www.amazon.es/dp/B07B7XRTK8/?tag=tolees-21) con 82.06 de descuento por 19.72 EUR (original: 109.95 EUR) en el siguiente enlace!

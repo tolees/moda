@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07M5KPJWN/?tag=tolees-21'
 descuento: '50.13'
+average: '14.96'
 ---
 
 Tienes [The North Face S/S Box tee Camiseta  Hombre  Urban Navy/Fiery Red  XXL](https://www.amazon.es/dp/B07M5KPJWN/?tag=tolees-21) con un 50.13 % de descuento con precio de oferta de 14.96 EUR (original: 30 EUR) en el siguiente enlace!

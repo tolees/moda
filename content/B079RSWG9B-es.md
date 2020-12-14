@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079RSWG9B/?tag=tolees-21'
 descuento: '56.49'
+average: '15.23'
 ---
 
 Está [Pepe Jeans JIN JR PG501964  Camiseta para Niñas  Rojo  Poppy 210  4 años](https://www.amazon.es/dp/B079RSWG9B/?tag=tolees-21) con 56.49 de descuento por 15.23 EUR (original: 35 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HYVTDB7/?tag=tolees-21'
 descuento: '65.92'
+average: '40.9'
 ---
 
 Ahora mismo tienes [Pepe Jeans New Brooke  Vaqueros para Mujer  Azul  Whisper Wash Destroy Ww5  32W / 32L](https://www.amazon.es/dp/B07HYVTDB7/?tag=tolees-21) a 40.9 EUR (original: 120 EUR) (65.92 %  de descuento) en el siguiente enlace!

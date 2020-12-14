@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KP3Y8LX/?tag=tolees-21'
 descuento: '31.44'
+average: '20.56'
 ---
 
 Tienes [adidas Own The Run tee Camiseta  Hombre  Azul  Shock Cyan/Reflective Silver   S](https://www.amazon.es/dp/B07KP3Y8LX/?tag=tolees-21) con un 31.44 % de descuento con precio de oferta de 20.56 EUR (original: 29.99 EUR) en el siguiente enlace!

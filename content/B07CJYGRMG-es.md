@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CJYGRMG/?tag=tolees-21'
 descuento: '50.28'
+average: '32.32'
 ---
 
 Está [Pepe Jeans Ridleys I Camisa  Negro  Black 999   Large para Hombre](https://www.amazon.es/dp/B07CJYGRMG/?tag=tolees-21) con 50.28 de descuento por 32.32 EUR (original: 65 EUR) en el siguiente enlace!

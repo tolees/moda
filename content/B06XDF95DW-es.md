@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XDF95DW/?tag=tolees-21'
 descuento: '86.17'
+average: '9.68'
 ---
 
 Ahora mismo tienes [SELECTED FEMME SFNEWSMILE SS Slit Dress EX Vestido  Azul Dark Navy  34 para Mujer](https://www.amazon.es/dp/B06XDF95DW/?tag=tolees-21) a 9.68 EUR (original: 69.99 EUR) (86.17 %  de descuento) en el siguiente enlace!

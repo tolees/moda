@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01AJ25OEU/?tag=tolees-21'
 descuento: '80.50'
+average: '29.25'
 ---
 
 Ahora mismo tienes [Salewa Trektail Halbschuh  Zapatos de Low Rise Senderismo para Mujer  Marrón  Falcon/Red Onion 7556   37 EU](https://www.amazon.es/dp/B01AJ25OEU/?tag=tolees-21) a 29.25 EUR (original: 150 EUR) (80.50 %  de descuento) en el siguiente enlace!

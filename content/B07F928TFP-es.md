@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F928TFP/?tag=tolees-21'
 descuento: '80.31'
+average: '27.57'
 ---
 
 Ahora mismo tienes [JACK & JONES PREMIUM Jprfred Arctic Parka STS  Hombre  Marrón  Fudge  XX-Large](https://www.amazon.es/dp/B07F928TFP/?tag=tolees-21) a 27.57 EUR (original: 139.99 EUR) (80.31 %  de descuento) en el siguiente enlace!

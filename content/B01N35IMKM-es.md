@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N35IMKM/?tag=tolees-21'
 descuento: '50.13'
+average: '24.93'
 ---
 
 Tienes [Esprit 047ee1e008  Vestido Mujer   Light Grey   38  Talla del Fabricante: Medium ](https://www.amazon.es/dp/B01N35IMKM/?tag=tolees-21) con un 50.13 % de descuento con precio de oferta de 24.93 EUR (original: 49.99 EUR) en el siguiente enlace!

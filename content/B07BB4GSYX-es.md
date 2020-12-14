@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BB4GSYX/?tag=tolees-21'
 descuento: '50.00'
+average: '35'
 ---
 
 Ahora mismo tienes [The North Face T92ZWR Jersey de Cuello Redondo Drew Peak  Hombre  Rumba Red  XL](https://www.amazon.es/dp/B07BB4GSYX/?tag=tolees-21) a 35 EUR (original: 70 EUR) (50.00 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CZNH4GF/?tag=tolees-21'
 descuento: '39.37'
+average: '16.97'
 ---
 
 Ahora mismo tienes [Under Armour Play Up Short 2.0 Pantalón Corto  Mujer  Gris  Ash Taupe/Orange Dream 057   XS](https://www.amazon.es/dp/B07CZNH4GF/?tag=tolees-21) a 16.97 EUR (original: 27.99 EUR) (39.37 %  de descuento) en el siguiente enlace!

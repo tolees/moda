@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07N8GT8NP/?tag=tolees-21'
 descuento: '55.85'
+average: '28.7'
 ---
 
 Ahora mismo tienes [Superga 2288-Vcotw  Sandalias con Punta Cerrada para Mujer  Azul  Blue 944   39 EU](https://www.amazon.es/dp/B07N8GT8NP/?tag=tolees-21) a 28.7 EUR (original: 65 EUR) (55.85 %  de descuento) en el siguiente enlace!

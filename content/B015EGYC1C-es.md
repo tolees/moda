@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B015EGYC1C/?tag=tolees-21'
 descuento: '72.10'
+average: '33.2'
 ---
 
 Está [GUESS GU6865-5801A  Gafas de Sol para Hombre  Negro  58](https://www.amazon.es/dp/B015EGYC1C/?tag=tolees-21) con 72.10 de descuento por 33.2 EUR (original: 119 EUR) en el siguiente enlace!

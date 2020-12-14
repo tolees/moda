@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076N1QWS1/?tag=tolees-21'
 descuento: '55.03'
+average: '44.95'
 ---
 
 Tienes [Lee Daren Vaqueros Straight  Azul  Banshee Worn Dxag   W31/L30 para Hombre](https://www.amazon.es/dp/B076N1QWS1/?tag=tolees-21) con un 55.03 % de descuento con precio de oferta de 44.95 EUR (original: 99.95 EUR) en el siguiente enlace!

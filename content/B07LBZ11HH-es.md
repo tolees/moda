@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07LBZ11HH/?tag=tolees-21'
 descuento: '56.83'
+average: '43.17'
 ---
 
 Tienes [Tom Tailor Casual 1007964 Chaqueta  Azul  Navy Stripe 15817   X-Large para Mujer](https://www.amazon.es/dp/B07LBZ11HH/?tag=tolees-21) con un 56.83 % de descuento con precio de oferta de 43.17 EUR (original: 99.99 EUR) en el siguiente enlace!

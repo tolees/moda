@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071F42RLH/?tag=tolees-21'
 descuento: '45.13'
+average: '16.46'
 ---
 
 Ahora mismo tienes [Under Armour HG Armour Mesh Back Tank Camiseta sin Mangas  Mujer  Negro  001   M](https://www.amazon.es/dp/B071F42RLH/?tag=tolees-21) a 16.46 EUR (original: 30 EUR) (45.13 %  de descuento) en el siguiente enlace!

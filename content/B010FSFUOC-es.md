@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B010FSFUOC/?tag=tolees-21'
 descuento: '88.27'
+average: '11.14'
 ---
 
 Está [Milles Vestido Largo Única](https://www.amazon.es/dp/B010FSFUOC/?tag=tolees-21) con 88.27 de descuento por 11.14 EUR (original: 95 EUR) en el siguiente enlace!

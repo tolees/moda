@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KYZ4LFR/?tag=tolees-21'
 descuento: '42.34'
+average: '23.06'
 ---
 
 Ahora mismo tienes [Springfield 0 5.G.MD.Bandolera Cadena  Bolso Bandolera para Mujer   Negro ](https://www.amazon.es/dp/B07KYZ4LFR/?tag=tolees-21) a 23.06 EUR (original: 39.99 EUR) (42.34 %  de descuento) en el siguiente enlace!

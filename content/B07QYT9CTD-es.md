@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07QYT9CTD/?tag=tolees-21'
 descuento: '52.01'
+average: '23.99'
 ---
 
 Está [Sandalias para niño Sandalias Deportivas Zapatillas de Trekking y SenderismoUnisex Niños](https://www.amazon.es/dp/B07QYT9CTD/?tag=tolees-21) con 52.01 de descuento por 23.99 EUR (original: 49.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07774RBQN/?tag=tolees-21'
 descuento: '60.05'
+average: '33.96'
 ---
 
 Está [Tommy Jeans Hombre Ryan Original  Vaqueros straight  recta Azul  Rinse Comfort 498  W29/L36](https://www.amazon.es/dp/B07774RBQN/?tag=tolees-21) con 60.05 de descuento por 33.96 EUR (original: 85 EUR) en el siguiente enlace!

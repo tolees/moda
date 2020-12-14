@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FKKMDX4/?tag=tolees-21'
 descuento: '58.82'
+average: '12.35'
 ---
 
 Ahora mismo tienes [JACK & JONES Jorsteven Shirt LS  Camisa para Hombre   Forest Night Fit: Slim  Small](https://www.amazon.es/dp/B07FKKMDX4/?tag=tolees-21) a 12.35 EUR (original: 29.99 EUR) (58.82 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079FX26XH/?tag=tolees-21'
 descuento: '47.93'
+average: '18.22'
 ---
 
 Tienes [Under Armour Sportstyle Cotton Graphic Short Pantalón Corto  Hombre  Gris  Steel Light Heather/Black 035   S](https://www.amazon.es/dp/B079FX26XH/?tag=tolees-21) con un 47.93 % de descuento con precio de oferta de 18.22 EUR (original: 34.99 EUR) en el siguiente enlace!

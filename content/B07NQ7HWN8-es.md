@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07NQ7HWN8/?tag=tolees-21'
 descuento: '46.17'
+average: '13.99'
 ---
 
 Está [SIMYJOY para niños fanáticos DJ Marshmello T-Shirt Camiseta de Manga Corta de Sonido electrónico Blanco 2XS](https://www.amazon.es/dp/B07NQ7HWN8/?tag=tolees-21) con 46.17 de descuento por 13.99 EUR (original: 25.99 EUR) en el siguiente enlace!

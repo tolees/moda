@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01H4W9NCW/?tag=tolees-21'
 descuento: '47.42'
+average: '49.95'
 ---
 
 Ahora mismo tienes [Pepe Jeans Finsbury  Vaqueros para Hombre  Azul  Denim I48  33W / 32L](https://www.amazon.es/dp/B01H4W9NCW/?tag=tolees-21) a 49.95 EUR (original: 95 EUR) (47.42 %  de descuento) en el siguiente enlace!

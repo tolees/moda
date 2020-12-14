@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07H4Y6P6K/?tag=tolees-21'
 descuento: '40.59'
+average: '73.55'
 ---
 
 Ahora mismo tienes [Liu Jo Bottom Up Ruffle Vaqueros Skinny  Azul  Dem.Blue Event Wash 77411   31W x 26L para Mujer](https://www.amazon.es/dp/B07H4Y6P6K/?tag=tolees-21) a 73.55 EUR (original: 123.8 EUR) (40.59 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N2JK45F/?tag=tolees-21'
 descuento: '39.92'
+average: '24'
 ---
 
 Tienes [Marco Tozzi 2-2-24416-28 535  Zapatos De Tacón Mujer  Marrón  Candy 535   39 EU](https://www.amazon.es/dp/B01N2JK45F/?tag=tolees-21) con un 39.92 % de descuento con precio de oferta de 24 EUR (original: 39.95 EUR) en el siguiente enlace!

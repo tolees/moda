@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01HZPY3HS/?tag=tolees-21'
 descuento: '67.13'
+average: '46.02'
 ---
 
 Está [Urban Leather UR-13 Chaqueta de Caballero  Navy Azul  Talla 2XL](https://www.amazon.es/dp/B01HZPY3HS/?tag=tolees-21) con 67.13 de descuento por 46.02 EUR (original: 140 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07L5J5BF4/?tag=tolees-21'
 descuento: '62.58'
+average: '14.95'
 ---
 
 Tienes [Charles Wilson Sudadera con Cremallera Completa con Capucha Peso Intermedio para Hombre  Small  Black ](https://www.amazon.es/dp/B07L5J5BF4/?tag=tolees-21) con un 62.58 % de descuento con precio de oferta de 14.95 EUR (original: 39.95 EUR) en el siguiente enlace!

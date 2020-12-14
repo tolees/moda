@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01EOLHVOI/?tag=tolees-21'
 descuento: '46.65'
+average: '47.99'
 ---
 
 Está [Lee Daren Zip  Vaqueros para Hombre  Azul  Raven Blue Ec   W38/L34](https://www.amazon.es/dp/B01EOLHVOI/?tag=tolees-21) con 46.65 de descuento por 47.99 EUR (original: 89.95 EUR) en el siguiente enlace!

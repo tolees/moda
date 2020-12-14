@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01M5IUZ4Y/?tag=tolees-21'
 descuento: '69.41'
+average: '20.19'
 ---
 
 Está [Polaroid PLD 6024/S JB TJD 99  Gafas de sol Unisex Adulto  Gris Grey Silmir Pz](https://www.amazon.es/dp/B01M5IUZ4Y/?tag=tolees-21) con 69.41 de descuento por 20.19 EUR (original: 66 EUR) en el siguiente enlace!

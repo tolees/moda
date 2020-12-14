@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07968HXCN/?tag=tolees-21'
 descuento: '29.99'
+average: '35'
 ---
 
 Tienes [Rosegal Sudadera Mujer con Capucha y Cremallera Chaqueta Corta Casual y De Moda Sudadera Deportiva Lace Up Largas Mangas  Gris Oscuro  L](https://www.amazon.es/dp/B07968HXCN/?tag=tolees-21) con un 29.99 % de descuento con precio de oferta de 35 EUR (original: 49.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078CRFCSC/?tag=tolees-21'
 descuento: '74.88'
+average: '20.1'
 ---
 
 Tienes [Levi s Maya Top Blusa  Azul  Super Dark Authentic 2 0003   X-Small para Mujer](https://www.amazon.es/dp/B078CRFCSC/?tag=tolees-21) con un 74.88 % de descuento con precio de oferta de 20.1 EUR (original: 80 EUR) en el siguiente enlace!

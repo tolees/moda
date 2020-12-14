@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00AIGO9F8/?tag=tolees-21'
 descuento: '64.35'
+average: '5.24'
 ---
 
 Ahora mismo tienes [Joma Champion II - Sudadera Unisex  Color Rojo/Blanco  Talla L](https://www.amazon.es/dp/B00AIGO9F8/?tag=tolees-21) a 5.24 EUR (original: 14.7 EUR) (64.35 %  de descuento) en el siguiente enlace!

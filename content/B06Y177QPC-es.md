@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06Y177QPC/?tag=tolees-21'
 descuento: '68.42'
+average: '3.6'
 ---
 
 Tienes [oodji Ultra Hombre Camiseta Estampada de Algodón  Verde  ES 58-60 / XXL](https://www.amazon.es/dp/B06Y177QPC/?tag=tolees-21) con un 68.42 % de descuento con precio de oferta de 3.6 EUR (original: 11.4 EUR) en el siguiente enlace!

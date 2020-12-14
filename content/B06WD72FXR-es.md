@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06WD72FXR/?tag=tolees-21'
 descuento: '74.42'
+average: '38.11'
 ---
 
 Tienes [Carrera Junior CARRERINO 21 UZ 807  Gafas de sol Unisex-Niño  Negro  BLACK/RED FL  54](https://www.amazon.es/dp/B06WD72FXR/?tag=tolees-21) con un 74.42 % de descuento con precio de oferta de 38.11 EUR (original: 149 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01EYJJPJO/?tag=tolees-21'
 descuento: '58.45'
+average: '45.7'
 ---
 
 Está [Levi s 501 Original Fit  Vaqueros para Hombre  Azul  Nelson 2289   30W / 34L](https://www.amazon.es/dp/B01EYJJPJO/?tag=tolees-21) con 58.45 de descuento por 45.7 EUR (original: 110 EUR) en el siguiente enlace!

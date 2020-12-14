@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CZMBMK3/?tag=tolees-21'
 descuento: '46.09'
+average: '14.01'
 ---
 
 Está [Under Armour Sc30 Initials SS Camiseta  Niños  Blanco White 100  M](https://www.amazon.es/dp/B07CZMBMK3/?tag=tolees-21) con 46.09 de descuento por 14.01 EUR (original: 25.99 EUR) en el siguiente enlace!

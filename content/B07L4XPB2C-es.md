@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07L4XPB2C/?tag=tolees-21'
 descuento: '51.50'
+average: '16.95'
 ---
 
 Está [Charles Wilson Camisa Franela de Cuadros Manga Larga para Hombre  Medium  Blue & White 2 ](https://www.amazon.es/dp/B07L4XPB2C/?tag=tolees-21) con 51.50 de descuento por 16.95 EUR (original: 34.95 EUR) en el siguiente enlace!

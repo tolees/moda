@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06Y273MBS/?tag=tolees-21'
 descuento: '71.71'
+average: '22.6'
 ---
 
 Tienes [Geox Jr Axel E  Botas Militar para Niños  Negro  Black   38 EU](https://www.amazon.es/dp/B06Y273MBS/?tag=tolees-21) con un 71.71 % de descuento con precio de oferta de 22.6 EUR (original: 79.9 EUR) en el siguiente enlace!

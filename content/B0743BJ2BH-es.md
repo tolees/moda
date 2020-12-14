@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0743BJ2BH/?tag=tolees-21'
 descuento: '70.00'
+average: '16.5'
 ---
 
 Está [TRUTH & FABLE 13791 vestido fiesta mujer  Azul  Navy Blue   44  Talla del fabricante: X-Large ](https://www.amazon.es/dp/B0743BJ2BH/?tag=tolees-21) con 70.00 de descuento por 16.5 EUR (original: 55 EUR) en el siguiente enlace!

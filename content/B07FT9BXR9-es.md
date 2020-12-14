@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FT9BXR9/?tag=tolees-21'
 descuento: '50.31'
+average: '39.73'
 ---
 
 Está [Lee Luke  Vaqueros tapered para Hombre  Azul  Clean Summer Ol  W29/L32](https://www.amazon.es/dp/B07FT9BXR9/?tag=tolees-21) con 50.31 de descuento por 39.73 EUR (original: 79.95 EUR) en el siguiente enlace!

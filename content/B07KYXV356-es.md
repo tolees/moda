@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KYXV356/?tag=tolees-21'
 descuento: '75.39'
+average: '9.84'
 ---
 
 Tienes [Springfield INT.3.Plumas Light Chaqueta   Verde Oscuro 20   Small  Tamaño del Fabricante:S  para Mujer](https://www.amazon.es/dp/B07KYXV356/?tag=tolees-21) con un 75.39 % de descuento con precio de oferta de 9.84 EUR (original: 39.99 EUR) en el siguiente enlace!

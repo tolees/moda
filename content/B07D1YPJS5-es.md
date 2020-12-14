@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D1YPJS5/?tag=tolees-21'
 descuento: '27.89'
+average: '100.95'
 ---
 
 Está [Armani Exchange 8nze74 Chaqueta Punto  Azul  Navy 1510   Small para Hombre](https://www.amazon.es/dp/B07D1YPJS5/?tag=tolees-21) con 27.89 de descuento por 100.95 EUR (original: 140 EUR) en el siguiente enlace!

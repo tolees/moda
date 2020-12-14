@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077GTPDZ5/?tag=tolees-21'
 descuento: '47.65'
+average: '13.61'
 ---
 
 Está [Under Armour UA Split Fragment Logo SS T Camiseta de Manga Corta  Hombre  Rojo  600   L](https://www.amazon.es/dp/B077GTPDZ5/?tag=tolees-21) con 47.65 de descuento por 13.61 EUR (original: 26 EUR) en el siguiente enlace!

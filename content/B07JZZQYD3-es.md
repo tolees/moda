@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JZZQYD3/?tag=tolees-21'
 descuento: '56.82'
+average: '32.36'
 ---
 
 Está [adidas Pro Adversary Low 2019  Zapatos de Baloncesto para Hombre  Blanco FTWR White/Core Black/Grey Four F17  44 2/3 EU](https://www.amazon.es/dp/B07JZZQYD3/?tag=tolees-21) con 56.82 de descuento por 32.36 EUR (original: 74.95 EUR) en el siguiente enlace!

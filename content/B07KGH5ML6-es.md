@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KGH5ML6/?tag=tolees-21'
 descuento: '43.86'
+average: '39.27'
 ---
 
 Tienes [BOSS Tefresh Camiseta   Open Miscellaneous 991   Large para Mujer](https://www.amazon.es/dp/B07KGH5ML6/?tag=tolees-21) con un 43.86 % de descuento con precio de oferta de 39.27 EUR (original: 69.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KZ1QY4N/?tag=tolees-21'
 descuento: '55.63'
+average: '8.87'
 ---
 
 Tienes [Springfield 6Lc NASA Logo Grande Camiseta  Hombre  Gris  Gama Grises 43   Medium  Tamaño del Fabricante:M ](https://www.amazon.es/dp/B07KZ1QY4N/?tag=tolees-21) con un 55.63 % de descuento con precio de oferta de 8.87 EUR (original: 19.99 EUR) en el siguiente enlace!

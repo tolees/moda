@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077Y6H5VT/?tag=tolees-21'
 descuento: '40.00'
+average: '19.77'
 ---
 
 Está [HIKARO Sudadera con Capucha Hombre  Azul  Aqua   50  Talla del fabricante: Medium ](https://www.amazon.es/dp/B077Y6H5VT/?tag=tolees-21) con 40.00 de descuento por 19.77 EUR (original: 32.95 EUR) en el siguiente enlace!

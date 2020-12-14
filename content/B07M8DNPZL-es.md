@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07M8DNPZL/?tag=tolees-21'
 descuento: '48.81'
+average: '40.95'
 ---
 
 Tienes [The North Face Drew Peak Sudadera  Hombre  Azul  Urban Navy 2L   M](https://www.amazon.es/dp/B07M8DNPZL/?tag=tolees-21) con un 48.81 % de descuento con precio de oferta de 40.95 EUR (original: 80 EUR) en el siguiente enlace!

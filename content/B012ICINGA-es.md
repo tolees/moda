@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B012ICINGA/?tag=tolees-21'
 descuento: '46.57'
+average: '14.96'
 ---
 
 Tienes [Diesel Umbx-Shawntwopack - Boxer pack de 2 para hombre  multicolor  rojo/azul   talla XXL](https://www.amazon.es/dp/B012ICINGA/?tag=tolees-21) con un 46.57 % de descuento con precio de oferta de 14.96 EUR (original: 28 EUR) en el siguiente enlace!

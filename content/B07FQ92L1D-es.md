@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FQ92L1D/?tag=tolees-21'
 descuento: '70.51'
+average: '4.42'
 ---
 
 Está [JACK & JONES Jorxmaspocket tee SS Crew Neck  Camiseta Hombre   Cloud Dancer Cloud Dancer   X-Large](https://www.amazon.es/dp/B07FQ92L1D/?tag=tolees-21) con 70.51 de descuento por 4.42 EUR (original: 14.99 EUR) en el siguiente enlace!

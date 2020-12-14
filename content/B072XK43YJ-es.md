@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072XK43YJ/?tag=tolees-21'
 descuento: '49.99'
+average: '17.5'
 ---
 
 Está [Vero Moda  Camiseta sin Mangas para Mujer  Negro  Black Black   38  Talla del Fabricante: Medium ](https://www.amazon.es/dp/B072XK43YJ/?tag=tolees-21) con 49.99 de descuento por 17.5 EUR (original: 34.99 EUR) en el siguiente enlace!

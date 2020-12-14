@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01FHSK5NG/?tag=tolees-21'
 descuento: '64.53'
+average: '8.85'
 ---
 
 Tienes [Under Armour Challenger II Knit Short Pantalón Corto  Hombre  Rojo  Risk Red 600   XL](https://www.amazon.es/dp/B01FHSK5NG/?tag=tolees-21) con un 64.53 % de descuento con precio de oferta de 8.85 EUR (original: 24.95 EUR) en el siguiente enlace!

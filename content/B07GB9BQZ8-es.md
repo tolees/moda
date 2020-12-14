@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GB9BQZ8/?tag=tolees-21'
 descuento: '60.00'
+average: '23.98'
 ---
 
 Tienes [Tuc Tuc Prenda NIÑO ABC Monsters  Abrigo para Niños   Gris 00   One Size  Tamaño del Fabricante:18M ](https://www.amazon.es/dp/B07GB9BQZ8/?tag=tolees-21) con un 60.00 % de descuento con precio de oferta de 23.98 EUR (original: 59.95 EUR) en el siguiente enlace!

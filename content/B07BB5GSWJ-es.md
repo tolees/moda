@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BB5GSWJ/?tag=tolees-21'
 descuento: '51.96'
+average: '38.43'
 ---
 
 Tienes [The North Face T0A8MU Sudadera  Mujer  Blue Wing Teal/Peyote Beige  M](https://www.amazon.es/dp/B07BB5GSWJ/?tag=tolees-21) con un 51.96 % de descuento con precio de oferta de 38.43 EUR (original: 80 EUR) en el siguiente enlace!

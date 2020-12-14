@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0757ZN7HK/?tag=tolees-21'
 descuento: '60.74'
+average: '13.35'
 ---
 
 Ahora mismo tienes [find. Vaqueros Estrechos Hombre  Azul  W42/L32](https://www.amazon.es/dp/B0757ZN7HK/?tag=tolees-21) a 13.35 EUR (original: 34 EUR) (60.74 %  de descuento) en el siguiente enlace!

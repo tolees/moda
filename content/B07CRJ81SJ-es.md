@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CRJ81SJ/?tag=tolees-21'
 descuento: '76.28'
+average: '18.95'
 ---
 
 Está [Pepe Jeans Kaiden Camisa    Indigo 561   Small para Hombre](https://www.amazon.es/dp/B07CRJ81SJ/?tag=tolees-21) con 76.28 de descuento por 18.95 EUR (original: 79.9 EUR) en el siguiente enlace!

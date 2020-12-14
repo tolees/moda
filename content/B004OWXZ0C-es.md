@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B004OWXZ0C/?tag=tolees-21'
 descuento: '32.57'
+average: '24.95'
 ---
 
 Está [Levi s  2 Pack V Neck  Camiseta Para Hombre  Negro  Black/Black 59    S](https://www.amazon.es/dp/B004OWXZ0C/?tag=tolees-21) con 32.57 de descuento por 24.95 EUR (original: 37 EUR) en el siguiente enlace!

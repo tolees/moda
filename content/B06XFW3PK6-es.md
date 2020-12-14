@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XFW3PK6/?tag=tolees-21'
 descuento: '78.74'
+average: '29.76'
 ---
 
 Tienes [Dr. Martens Corvid S1p  Zapatos de Seguridad Unisex Adulto  Negro  Black 001   46 EU](https://www.amazon.es/dp/B06XFW3PK6/?tag=tolees-21) con un 78.74 % de descuento con precio de oferta de 29.76 EUR (original: 140 EUR) en el siguiente enlace!

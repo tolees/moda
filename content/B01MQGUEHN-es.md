@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MQGUEHN/?tag=tolees-21'
 descuento: '76.18'
+average: '42.17'
 ---
 
 Está [Chatham Lewis II  Zapatos de Cordones Brogue para Hombre  Marrón  Tan 001   41 EU](https://www.amazon.es/dp/B01MQGUEHN/?tag=tolees-21) con 76.18 de descuento por 42.17 EUR (original: 177.01 EUR) en el siguiente enlace!

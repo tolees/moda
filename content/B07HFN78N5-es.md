@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HFN78N5/?tag=tolees-21'
 descuento: '58.27'
+average: '16.65'
 ---
 
 Tienes [Tommy Hilfiger WCC H Logo tee  Camiseta Hombre  Gris  Cloud Htr 501   X-Large](https://www.amazon.es/dp/B07HFN78N5/?tag=tolees-21) con un 58.27 % de descuento con precio de oferta de 16.65 EUR (original: 39.9 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XH3ZC59/?tag=tolees-21'
 descuento: '66.47'
+average: '23.47'
 ---
 
 Ahora mismo tienes [find. Sandalias de Piel Abiertas para Mujer  Negro  Black   36 EU](https://www.amazon.es/dp/B06XH3ZC59/?tag=tolees-21) a 23.47 EUR (original: 70 EUR) (66.47 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079K9XZX1/?tag=tolees-21'
 descuento: '63.12'
+average: '18.07'
 ---
 
 Ahora mismo tienes [Napapijri Tres Half  Sudadera suéter  Negro  Black 041   98  Talla del Fabricante: 04  para Niños](https://www.amazon.es/dp/B079K9XZX1/?tag=tolees-21) a 18.07 EUR (original: 49 EUR) (63.12 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01CSK2EBW/?tag=tolees-21'
 descuento: '32.35'
+average: '13.99'
 ---
 
 Tienes [Menton Ezil Estilo John Lennon Gafas de Sol Redondo Pegueño Círculo Polarizadas Vintage Metálico de Hipis Montura Resorte a Hombres](https://www.amazon.es/dp/B01CSK2EBW/?tag=tolees-21) con un 32.35 % de descuento con precio de oferta de 13.99 EUR (original: 20.68 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078WRJ21F/?tag=tolees-21'
 descuento: '67.58'
+average: '12.95'
 ---
 
 Tienes [Scotch & Soda Maison Crew Neck tee with French Inspired Artworks  Camiseta Mujer  Rosa  Pink Sand 2022   X-Large](https://www.amazon.es/dp/B078WRJ21F/?tag=tolees-21) con un 67.58 % de descuento con precio de oferta de 12.95 EUR (original: 39.95 EUR) en el siguiente enlace!

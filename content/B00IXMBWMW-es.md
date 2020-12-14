@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00IXMBWMW/?tag=tolees-21'
 descuento: '33.52'
+average: '5.95'
 ---
 
 Tienes [Joma Nobel Pantalón de equipación  Negro  XL](https://www.amazon.es/dp/B00IXMBWMW/?tag=tolees-21) con un 33.52 % de descuento con precio de oferta de 5.95 EUR (original: 8.95 EUR) en el siguiente enlace!

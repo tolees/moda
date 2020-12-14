@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073QQDBBC/?tag=tolees-21'
 descuento: '58.14'
+average: '14.65'
 ---
 
 Está [find. Chaqueta con Cremallera con Mezcla de Lana Merino para Hombre  Gris  Cloud   X-Large](https://www.amazon.es/dp/B073QQDBBC/?tag=tolees-21) con 58.14 de descuento por 14.65 EUR (original: 35 EUR) en el siguiente enlace!

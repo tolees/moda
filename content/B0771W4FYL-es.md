@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0771W4FYL/?tag=tolees-21'
 descuento: '40.89'
+average: '38.39'
 ---
 
 Está [Columbia XO0665 Camisa de Excursionismo de Manga Larga para Hombre  Silver Ridge II Long Sleeve Shirt  Azul  Talla M](https://www.amazon.es/dp/B0771W4FYL/?tag=tolees-21) con 40.89 de descuento por 38.39 EUR (original: 64.95 EUR) en el siguiente enlace!

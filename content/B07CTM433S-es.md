@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CTM433S/?tag=tolees-21'
 descuento: '78.13'
+average: '13.12'
 ---
 
 Ahora mismo tienes [PIECES Psdaja Boot  Botines para Mujer  Negro Black  38 EU](https://www.amazon.es/dp/B07CTM433S/?tag=tolees-21) a 13.12 EUR (original: 59.99 EUR) (78.13 %  de descuento) en el siguiente enlace!

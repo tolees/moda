@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JWYFRBG/?tag=tolees-21'
 descuento: '81.22'
+average: '9.2'
 ---
 
 Está [Carrément Beau Robe Vestido  Marfil  Offwhite 117   10 años  Talla del Fabricante: 10A  para Niñas](https://www.amazon.es/dp/B07JWYFRBG/?tag=tolees-21) con 81.22 de descuento por 9.2 EUR (original: 49 EUR) en el siguiente enlace!

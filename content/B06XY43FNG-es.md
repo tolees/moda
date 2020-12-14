@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XY43FNG/?tag=tolees-21'
 descuento: '75.31'
+average: '8.64'
 ---
 
 Está [MAMALICIOUS Mlwrappy S/s Woven Top  Camiseta sin Mangas Mujer  Blanco  Snow White   36  Talla del Fabricante: Small ](https://www.amazon.es/dp/B06XY43FNG/?tag=tolees-21) con 75.31 de descuento por 8.64 EUR (original: 34.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077YDGG4P/?tag=tolees-21'
 descuento: '40.00'
+average: '38.97'
 ---
 
 Tienes [HIKARO Chaqueta Ligera Estilo Parka con Capucha Mujer  Verde  Khaki   46  Talla del fabricante: XX-Large ](https://www.amazon.es/dp/B077YDGG4P/?tag=tolees-21) con un 40.00 % de descuento con precio de oferta de 38.97 EUR (original: 64.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KGM8MDZ/?tag=tolees-21'
 descuento: '65.75'
+average: '23.96'
 ---
 
 Tienes [BOSS Twell Camiseta  Azul  Open Blue 491   Small para Hombre](https://www.amazon.es/dp/B07KGM8MDZ/?tag=tolees-21) con un 65.75 % de descuento con precio de oferta de 23.96 EUR (original: 69.95 EUR) en el siguiente enlace!

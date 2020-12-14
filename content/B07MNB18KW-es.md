@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MNB18KW/?tag=tolees-21'
 descuento: '38.81'
+average: '48.95'
 ---
 
 Está [The North Face Light Drew Peak Sudadera  Hombre  New Taupe Green  L](https://www.amazon.es/dp/B07MNB18KW/?tag=tolees-21) con 38.81 de descuento por 48.95 EUR (original: 80 EUR) en el siguiente enlace!

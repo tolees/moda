@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00U8GIEAE/?tag=tolees-21'
 descuento: '61.97'
+average: '30.42'
 ---
 
 Ahora mismo tienes [ESPRIT Collection 5P Slim  Vaqueros para Hombre  Blau  E Dark Blue 952   W31/ L34](https://www.amazon.es/dp/B00U8GIEAE/?tag=tolees-21) a 30.42 EUR (original: 79.99 EUR) (61.97 %  de descuento) en el siguiente enlace!

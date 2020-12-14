@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D7BRGK3/?tag=tolees-21'
 descuento: '37.50'
+average: '25'
 ---
 
 Ahora mismo tienes [KOSETI • Cartera de Piel para Hombre. Marca y Fabricación ESPAÑA. Una Cartera pequeña Slim con Monedero  Billetero y Tarjetero](https://www.amazon.es/dp/B07D7BRGK3/?tag=tolees-21) a 25 EUR (original: 40 EUR) (37.50 %  de descuento) en el siguiente enlace!

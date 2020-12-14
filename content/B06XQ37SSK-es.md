@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XQ37SSK/?tag=tolees-21'
 descuento: '55.99'
+average: '48.39'
 ---
 
 Está [Desigual Jers_arraga Chaqueta Punto  Gris Vigore Oscuro 2043  Large para Mujer](https://www.amazon.es/dp/B06XQ37SSK/?tag=tolees-21) con 55.99 de descuento por 48.39 EUR (original: 109.95 EUR) en el siguiente enlace!

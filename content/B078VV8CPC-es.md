@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078VV8CPC/?tag=tolees-21'
 descuento: '55.86'
+average: '15.45'
 ---
 
 Ahora mismo tienes [Volcom Classic Stone DD SS Camiseta  Hombre  Azul  Oscuro/Claro   S](https://www.amazon.es/dp/B078VV8CPC/?tag=tolees-21) a 15.45 EUR (original: 35 EUR) (55.86 %  de descuento) en el siguiente enlace!

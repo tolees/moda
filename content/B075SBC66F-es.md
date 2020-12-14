@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075SBC66F/?tag=tolees-21'
 descuento: '71.46'
+average: '8.56'
 ---
 
 Tienes [Springfield 1282611  Chaqueta de Traje para Mujer  Rojo  Red   40  Tamaño del Fabricante:M ](https://www.amazon.es/dp/B075SBC66F/?tag=tolees-21) con un 71.46 % de descuento con precio de oferta de 8.56 EUR (original: 29.99 EUR) en el siguiente enlace!

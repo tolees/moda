@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MXXCB40/?tag=tolees-21'
 descuento: '63.58'
+average: '5.46'
 ---
 
 Ahora mismo tienes [Vero Moda Vmsally S/s Top Box D2-3 Camiseta  Blanco  Snow White   36  Talla del Fabricante: Small  para Mujer](https://www.amazon.es/dp/B01MXXCB40/?tag=tolees-21) a 5.46 EUR (original: 14.99 EUR) (63.58 %  de descuento) en el siguiente enlace!

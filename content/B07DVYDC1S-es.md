@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DVYDC1S/?tag=tolees-21'
 descuento: '50.07'
+average: '20.34'
 ---
 
 Ahora mismo tienes [Volcom Radical Daze - Camiseta  Negro  XS  Mujer  B3531854  Sea Navy  Small](https://www.amazon.es/dp/B07DVYDC1S/?tag=tolees-21) a 20.34 EUR (original: 40.74 EUR) (50.07 %  de descuento) en el siguiente enlace!

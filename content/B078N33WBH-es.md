@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078N33WBH/?tag=tolees-21'
 descuento: '50.99'
+average: '24.99'
 ---
 
 Tienes [Coofit Bolsos de Mujer Moda Tote Bag Negro Mother s Day Dia de la madre](https://www.amazon.es/dp/B078N33WBH/?tag=tolees-21) con un 50.99 % de descuento con precio de oferta de 24.99 EUR (original: 50.99 EUR) en el siguiente enlace!

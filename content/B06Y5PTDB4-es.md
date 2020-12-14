@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06Y5PTDB4/?tag=tolees-21'
 descuento: '65.90'
+average: '46.19'
 ---
 
 Tienes [DKNY 0Dy4675  Monturas de Gafas para Mujer  Negro  Matte Black   53](https://www.amazon.es/dp/B06Y5PTDB4/?tag=tolees-21) con un 65.90 % de descuento con precio de oferta de 46.19 EUR (original: 135.46 EUR) en el siguiente enlace!

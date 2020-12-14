@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07C47TND3/?tag=tolees-21'
 descuento: '61.67'
+average: '37.95'
 ---
 
 Tienes [Pepe Jeans Spike  Vaqueros para Hombre  Negro  Denim Wc2   31W / 32L](https://www.amazon.es/dp/B07C47TND3/?tag=tolees-21) con un 61.67 % de descuento con precio de oferta de 37.95 EUR (original: 99 EUR) en el siguiente enlace!

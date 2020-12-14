@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078HGYDML/?tag=tolees-21'
 descuento: '60.74'
+average: '9.81'
 ---
 
 Tienes [Springfield 6793754 Camisa  Mujer  Azul  Gamma Azules   36  Tamaño del Fabricante:36 ](https://www.amazon.es/dp/B078HGYDML/?tag=tolees-21) con un 60.74 % de descuento con precio de oferta de 9.81 EUR (original: 24.99 EUR) en el siguiente enlace!

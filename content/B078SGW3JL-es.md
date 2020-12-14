@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078SGW3JL/?tag=tolees-21'
 descuento: '71.57'
+average: '48.32'
 ---
 
 Tienes [G-STAR RAW D-STAQ 5-pkt Tapered  Vaqueros Tapered Hombre  Azul  Lt Aged Destroy 1243   W30/L32  Talla del Fabricante: 30/32 ](https://www.amazon.es/dp/B078SGW3JL/?tag=tolees-21) con un 71.57 % de descuento con precio de oferta de 48.32 EUR (original: 169.95 EUR) en el siguiente enlace!

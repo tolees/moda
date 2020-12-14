@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01B1CZVN6/?tag=tolees-21'
 descuento: '83.38'
+average: '8.31'
 ---
 
 Ahora mismo tienes [New Caro Pantalón Pantalón Azul Medio ES 40](https://www.amazon.es/dp/B01B1CZVN6/?tag=tolees-21) a 8.31 EUR (original: 49.99 EUR) (83.38 %  de descuento) en el siguiente enlace!

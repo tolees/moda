@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07B6SVLJ9/?tag=tolees-21'
 descuento: '64.69'
+average: '77.68'
 ---
 
 Está [Burton Lelah Chaqueta de Snowboard  Mujer  Negro  True Heather   S](https://www.amazon.es/dp/B07B6SVLJ9/?tag=tolees-21) con 64.69 de descuento por 77.68 EUR (original: 220 EUR) en el siguiente enlace!

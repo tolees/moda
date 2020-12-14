@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JCN82W5/?tag=tolees-21'
 descuento: '49.84'
+average: '12.49'
 ---
 
 Está [PHMAX Guantes Ciclismo MTB Dedo Medio Guantes Bici Respirable Reflectante Liquid Silicone Gel Almohadilla para Hombre  Rojo L ](https://www.amazon.es/dp/B07JCN82W5/?tag=tolees-21) con 49.84 de descuento por 12.49 EUR (original: 24.9 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07G5V3G7L/?tag=tolees-21'
 descuento: '53.64'
+average: '14.45'
 ---
 
 Está [New Look Fringe Sleeve Cardigan  Chaqueta Punto para Mujer  Negro  Black   S](https://www.amazon.es/dp/B07G5V3G7L/?tag=tolees-21) con 53.64 de descuento por 14.45 EUR (original: 31.17 EUR) en el siguiente enlace!

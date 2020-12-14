@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078YG8DLG/?tag=tolees-21'
 descuento: '52.90'
+average: '12.24'
 ---
 
 Ahora mismo tienes [Quiksilver - Camiseta - Hombre - L - Blanco](https://www.amazon.es/dp/B078YG8DLG/?tag=tolees-21) a 12.24 EUR (original: 25.99 EUR) (52.90 %  de descuento) en el siguiente enlace!

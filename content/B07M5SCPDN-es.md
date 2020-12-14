@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07M5SCPDN/?tag=tolees-21'
 descuento: '57.17'
+average: '98.52'
 ---
 
 Tienes [BOSS Oracle_Derb_sdct  Zapatos de Cordones Derby para Hombre  Marrón  Medium Brown 213   44 EU](https://www.amazon.es/dp/B07M5SCPDN/?tag=tolees-21) con un 57.17 % de descuento con precio de oferta de 98.52 EUR (original: 230 EUR) en el siguiente enlace!

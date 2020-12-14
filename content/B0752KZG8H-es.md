@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0752KZG8H/?tag=tolees-21'
 descuento: '49.97'
+average: '7.48'
 ---
 
 Está [Blend 20705324  Camiseta para Hombre  Azul  Denim Blue   Large  Tamaño del Fabricante:L ](https://www.amazon.es/dp/B0752KZG8H/?tag=tolees-21) con 49.97 de descuento por 7.48 EUR (original: 14.95 EUR) en el siguiente enlace!

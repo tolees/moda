@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07B4B2KDK/?tag=tolees-21'
 descuento: '40.59'
+average: '41.58'
 ---
 
 Está [Selighting Mochila Militar  Mochila Militar Táctica 25L de Asalto con MOLLE Sistema Gran Bolso de Hombro Hombre Impermeable para Viajar Camping Caza Senderismo  Marrón ](https://www.amazon.es/dp/B07B4B2KDK/?tag=tolees-21) con 40.59 de descuento por 41.58 EUR (original: 69.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CQ1YWT8/?tag=tolees-21'
 descuento: '79.25'
+average: '20.74'
 ---
 
 Está [Lee Elly  Vaqueros Slim  Mujer  Azul  Fresh Worn Xn   W24/L31](https://www.amazon.es/dp/B07CQ1YWT8/?tag=tolees-21) con 79.25 de descuento por 20.74 EUR (original: 99.95 EUR) en el siguiente enlace!

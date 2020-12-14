@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CTN86CX/?tag=tolees-21'
 descuento: '61.52'
+average: '30.78'
 ---
 
 Tienes [Under Armour Jet Mid  Zapatos de Baloncesto para Hombre  Blanco  White/Elemental/Black 105   42.5 EU](https://www.amazon.es/dp/B07CTN86CX/?tag=tolees-21) con un 61.52 % de descuento con precio de oferta de 30.78 EUR (original: 80 EUR) en el siguiente enlace!

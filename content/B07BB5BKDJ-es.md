@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BB5BKDJ/?tag=tolees-21'
 descuento: '50.00'
+average: '40'
 ---
 
 Tienes [The North Face T0AHJY Sudadera Drew Peak  Hombre  Asphalt Grey  M](https://www.amazon.es/dp/B07BB5BKDJ/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 40 EUR (original: 80 EUR) en el siguiente enlace!

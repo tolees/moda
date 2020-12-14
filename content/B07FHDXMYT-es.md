@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FHDXMYT/?tag=tolees-21'
 descuento: '45.97'
+average: '15'
 ---
 
 Está [Vans Otw Camiseta  Gris  Heather-White Tdj   Medium para Hombre](https://www.amazon.es/dp/B07FHDXMYT/?tag=tolees-21) con 45.97 de descuento por 15 EUR (original: 27.76 EUR) en el siguiente enlace!

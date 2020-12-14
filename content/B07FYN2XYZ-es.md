@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FYN2XYZ/?tag=tolees-21'
 descuento: '62.34'
+average: '22.58'
 ---
 
 Tienes [Wrangler Sign Off Sweat Sudadera  Azul  Turkish Sea A86   X-Large para Hombre](https://www.amazon.es/dp/B07FYN2XYZ/?tag=tolees-21) con un 62.34 % de descuento con precio de oferta de 22.58 EUR (original: 59.95 EUR) en el siguiente enlace!

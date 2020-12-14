@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01C4LBBX2/?tag=tolees-21'
 descuento: '85.17'
+average: '3.41'
 ---
 
 Está [Double Agent Falda Crepe Tintada En Prenda  Mujer  Azul Noche M](https://www.amazon.es/dp/B01C4LBBX2/?tag=tolees-21) con 85.17 de descuento por 3.41 EUR (original: 23 EUR) en el siguiente enlace!

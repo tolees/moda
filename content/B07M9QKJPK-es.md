@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07M9QKJPK/?tag=tolees-21'
 descuento: '50.01'
+average: '19.97'
 ---
 
 Está [G-STAR RAW Graphic 41 T-shirt  Camiseta Hombre  Multicolor  dk black 6484   Large](https://www.amazon.es/dp/B07M9QKJPK/?tag=tolees-21) con 50.01 de descuento por 19.97 EUR (original: 39.95 EUR) en el siguiente enlace!

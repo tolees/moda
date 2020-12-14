@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BSMLCCY/?tag=tolees-21'
 descuento: '75.10'
+average: '29.63'
 ---
 
 Está [REPLAY Luz  Vaqueros Skinny Mujer  Azul  Mid Blue Denim 9   W24/L34](https://www.amazon.es/dp/B07BSMLCCY/?tag=tolees-21) con 75.10 de descuento por 29.63 EUR (original: 119 EUR) en el siguiente enlace!

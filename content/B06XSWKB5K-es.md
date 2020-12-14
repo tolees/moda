@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XSWKB5K/?tag=tolees-21'
 descuento: '32.77'
+average: '14.79'
 ---
 
 Ahora mismo tienes [FIND DC1930L vaqueros mujer  Azul  Mid Wash   W28/L32  Talla del Fabricante: Small ](https://www.amazon.es/dp/B06XSWKB5K/?tag=tolees-21) a 14.79 EUR (original: 22 EUR) (32.77 %  de descuento) en el siguiente enlace!

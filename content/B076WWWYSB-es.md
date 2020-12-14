@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076WWWYSB/?tag=tolees-21'
 descuento: '55.99'
+average: '43.99'
 ---
 
 Está [G-STAR RAW 3301 Slim  Vaqueros Slim Hombre  Azul  Dk Aged 89   W40/L34](https://www.amazon.es/dp/B076WWWYSB/?tag=tolees-21) con 55.99 de descuento por 43.99 EUR (original: 99.95 EUR) en el siguiente enlace!

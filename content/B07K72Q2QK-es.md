@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07K72Q2QK/?tag=tolees-21'
 descuento: '49.57'
+average: '45.39'
 ---
 
 Tienes [Levi s 312 Shaping Slim Vaqueros  Azul  Date with Destiny 0091   W27/L32  Talla del Fabricante: 27 32  para Mujer](https://www.amazon.es/dp/B07K72Q2QK/?tag=tolees-21) con un 49.57 % de descuento con precio de oferta de 45.39 EUR (original: 90 EUR) en el siguiente enlace!

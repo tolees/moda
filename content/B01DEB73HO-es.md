@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01DEB73HO/?tag=tolees-21'
 descuento: '27.05'
+average: '24'
 ---
 
 Ahora mismo tienes [Crocs Crocband Sandal Kids  Sandalias Unisex Niños  Rosa  Candy Party Pink   32/33 EU](https://www.amazon.es/dp/B01DEB73HO/?tag=tolees-21) a 24 EUR (original: 32.9 EUR) (27.05 %  de descuento) en el siguiente enlace!

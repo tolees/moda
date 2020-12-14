@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MYYR5Y1/?tag=tolees-21'
 descuento: '65.18'
+average: '30.99'
 ---
 
 Está [Vestidos para niñas de Flores Vestidos de Encaje para niña Vestidos Blancos de Dama de Honor Vestido de Bautizo de Bodas](https://www.amazon.es/dp/B07MYYR5Y1/?tag=tolees-21) con 65.18 de descuento por 30.99 EUR (original: 88.99 EUR) en el siguiente enlace!

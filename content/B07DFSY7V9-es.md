@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DFSY7V9/?tag=tolees-21'
 descuento: '47.73'
+average: '26.11'
 ---
 
 Ahora mismo tienes [Puma ESS Track FL Sudadera  Mujer  Negro  Cotton Black   S](https://www.amazon.es/dp/B07DFSY7V9/?tag=tolees-21) a 26.11 EUR (original: 49.95 EUR) (47.73 %  de descuento) en el siguiente enlace!

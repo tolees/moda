@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F8CF6CV/?tag=tolees-21'
 descuento: '51.27'
+average: '87.72'
 ---
 
 Tienes [Burton Vida Pantalón de Snowboard  Mujer  marrón  Camel   XL](https://www.amazon.es/dp/B07F8CF6CV/?tag=tolees-21) con un 51.27 % de descuento con precio de oferta de 87.72 EUR (original: 180 EUR) en el siguiente enlace!

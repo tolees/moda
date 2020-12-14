@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077YWJ3JC/?tag=tolees-21'
 descuento: '40.00'
+average: '17.97'
 ---
 
 Ahora mismo tienes [HIKARO Sudadera con Capucha Hombre  Gris  Grey Marl   56  Talla del fabricante: XX-Large ](https://www.amazon.es/dp/B077YWJ3JC/?tag=tolees-21) a 17.97 EUR (original: 29.95 EUR) (40.00 %  de descuento) en el siguiente enlace!

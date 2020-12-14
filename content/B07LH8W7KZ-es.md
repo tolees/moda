@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07LH8W7KZ/?tag=tolees-21'
 descuento: '61.08'
+average: '29.19'
 ---
 
 Está [The North Face Ambition 1/4 Zip Midlayer Camiseta con Cremallera para Hombre  Bomber Blue  M](https://www.amazon.es/dp/B07LH8W7KZ/?tag=tolees-21) con 61.08 de descuento por 29.19 EUR (original: 75 EUR) en el siguiente enlace!

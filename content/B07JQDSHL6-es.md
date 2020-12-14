@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JQDSHL6/?tag=tolees-21'
 descuento: '76.38'
+average: '4.25'
 ---
 
 Está [JACK & JONES Jcojam tee SS Crew Neck Camiseta  Gris  Light Grey Melange Fit: Slim - Turk Quality   Medium para Hombre](https://www.amazon.es/dp/B07JQDSHL6/?tag=tolees-21) con 76.38 de descuento por 4.25 EUR (original: 17.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DG64DKP/?tag=tolees-21'
 descuento: '55.46'
+average: '20.49'
 ---
 
 Ahora mismo tienes [Calvin Klein Lightly Lined Demi  Sujetador para Camiseta para Mujer  Rosa  Silver Rose SVR  80C  Talla del Fabricante: 0C30 ](https://www.amazon.es/dp/B07DG64DKP/?tag=tolees-21) a 20.49 EUR (original: 46 EUR) (55.46 %  de descuento) en el siguiente enlace!

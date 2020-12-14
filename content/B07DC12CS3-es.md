@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DC12CS3/?tag=tolees-21'
 descuento: '40.10'
+average: '11.95'
 ---
 
 Está [Puma Epic Flip v2  Chanclas Unisex Adulto  Morado  Sweet Lavender White   38 EU](https://www.amazon.es/dp/B07DC12CS3/?tag=tolees-21) con 40.10 de descuento por 11.95 EUR (original: 19.95 EUR) en el siguiente enlace!

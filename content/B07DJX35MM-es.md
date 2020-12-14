@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DJX35MM/?tag=tolees-21'
 descuento: '27.60'
+average: '38.3'
 ---
 
 Tienes [Geox B Sandal Multy Boy B  Sandalias para Bebés  Grey/Orange C0036  24 EU](https://www.amazon.es/dp/B07DJX35MM/?tag=tolees-21) con un 27.60 % de descuento con precio de oferta de 38.3 EUR (original: 52.9 EUR) en el siguiente enlace!

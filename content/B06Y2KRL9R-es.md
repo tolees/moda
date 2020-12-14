@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06Y2KRL9R/?tag=tolees-21'
 descuento: '65.25'
+average: '22.59'
 ---
 
 Ahora mismo tienes [Geox J Aveup B  Zapatillas Altas para Niñas  Gris  Dk Grey   26 EU](https://www.amazon.es/dp/B06Y2KRL9R/?tag=tolees-21) a 22.59 EUR (original: 65 EUR) (65.25 %  de descuento) en el siguiente enlace!

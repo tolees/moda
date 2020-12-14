@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DL9ZVMW/?tag=tolees-21'
 descuento: '47.01'
+average: '18.54'
 ---
 
 Está [Women s Secret Ca Lazy PJ Conjuntos de Pijama  Mujer  Verde  Verde 27   Medium  Tamaño del Fabricante:M ](https://www.amazon.es/dp/B07DL9ZVMW/?tag=tolees-21) con 47.01 de descuento por 18.54 EUR (original: 34.99 EUR) en el siguiente enlace!

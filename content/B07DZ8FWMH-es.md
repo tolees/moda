@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DZ8FWMH/?tag=tolees-21'
 descuento: '50.62'
+average: '59.25'
 ---
 
 Tienes [Columbia Lake 22 Jacket Chaqueta  Mujer  Nocturnal  Talla L](https://www.amazon.es/dp/B07DZ8FWMH/?tag=tolees-21) con un 50.62 % de descuento con precio de oferta de 59.25 EUR (original: 119.99 EUR) en el siguiente enlace!

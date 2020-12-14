@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0748GRLVW/?tag=tolees-21'
 descuento: '49.93'
+average: '11.51'
 ---
 
 Está [Springfield 4.J.Ap.T.Rayas Glitter Jersey  Beige  Ivory   Large  Tamaño del Fabricante:L  para Mujer](https://www.amazon.es/dp/B0748GRLVW/?tag=tolees-21) con 49.93 de descuento por 11.51 EUR (original: 22.99 EUR) en el siguiente enlace!

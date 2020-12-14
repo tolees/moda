@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F1TDDV1/?tag=tolees-21'
 descuento: '79.09'
+average: '8.36'
 ---
 
 Tienes [Celio Meff  Chaleco para Hombre  Azul Navy  Small](https://www.amazon.es/dp/B07F1TDDV1/?tag=tolees-21) con un 79.09 % de descuento con precio de oferta de 8.36 EUR (original: 39.99 EUR) en el siguiente enlace!

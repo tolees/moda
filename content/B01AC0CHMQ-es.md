@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01AC0CHMQ/?tag=tolees-21'
 descuento: '34.38'
+average: '10.5'
 ---
 
 Está [Nike 725984  Camiseta Para Niños  Blanco  blanco / negro   S](https://www.amazon.es/dp/B01AC0CHMQ/?tag=tolees-21) con 34.38 de descuento por 10.5 EUR (original: 16 EUR) en el siguiente enlace!

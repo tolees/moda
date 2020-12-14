@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DNT3MJH/?tag=tolees-21'
 descuento: '77.54'
+average: '7.85'
 ---
 
 Está [Noa Noa Miniature Baby Leaf  Vestido Bebé-Niñas  Rosa  ALESAN 911   92  Talla del Fabricante: 24M ](https://www.amazon.es/dp/B07DNT3MJH/?tag=tolees-21) con 77.54 de descuento por 7.85 EUR (original: 34.95 EUR) en el siguiente enlace!

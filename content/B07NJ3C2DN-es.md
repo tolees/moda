@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07NJ3C2DN/?tag=tolees-21'
 descuento: '34.69'
+average: '9.79'
 ---
 
 Tienes [JACK & JONES Jcomikkel tee SS Crew Neck Camiseta  Gold Fusion Fit: Reg  Small para Hombre](https://www.amazon.es/dp/B07NJ3C2DN/?tag=tolees-21) con un 34.69 % de descuento con precio de oferta de 9.79 EUR (original: 14.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FJZLTD6/?tag=tolees-21'
 descuento: '39.56'
+average: '6.02'
 ---
 
 Está [Eono Essentials - Camiseta de fútbol para niño  8 años ](https://www.amazon.es/dp/B07FJZLTD6/?tag=tolees-21) con 39.56 de descuento por 6.02 EUR (original: 9.96 EUR) en el siguiente enlace!

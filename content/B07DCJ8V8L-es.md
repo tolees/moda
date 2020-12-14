@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DCJ8V8L/?tag=tolees-21'
 descuento: '59.58'
+average: '36.78'
 ---
 
 Ahora mismo tienes [Nike W Blazer Low SD  Zapatos de Baloncesto para Mujer  Smokey Mauve/Sail 201  42 EU](https://www.amazon.es/dp/B07DCJ8V8L/?tag=tolees-21) a 36.78 EUR (original: 91 EUR) (59.58 %  de descuento) en el siguiente enlace!

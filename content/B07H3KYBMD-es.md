@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07H3KYBMD/?tag=tolees-21'
 descuento: '56.19'
+average: '42.49'
 ---
 
 Está [ZAFUL Chaquetas Vaqueras de Mujer Chaqueta Corta de Mezclilla con Remache Básica Chaqueta Suelta Jacket Jeans Mujer para Otoño Invierno Primavera  S - L](https://www.amazon.es/dp/B07H3KYBMD/?tag=tolees-21) con 56.19 de descuento por 42.49 EUR (original: 96.99 EUR) en el siguiente enlace!

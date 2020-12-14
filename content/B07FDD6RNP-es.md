@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FDD6RNP/?tag=tolees-21'
 descuento: '69.39'
+average: '9.18'
 ---
 
 Está [Pimkie Crw18 Middleboots  Botines para Mujer  Marrón  Camel 747A07   38 EU](https://www.amazon.es/dp/B07FDD6RNP/?tag=tolees-21) con 69.39 de descuento por 9.18 EUR (original: 29.99 EUR) en el siguiente enlace!

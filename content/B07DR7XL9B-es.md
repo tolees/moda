@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DR7XL9B/?tag=tolees-21'
 descuento: '64.12'
+average: '15.99'
 ---
 
 Ahora mismo tienes [Soporte para Gafas de Sol para Coche o Visera de Coche  Universal  Estuche Organizador con Tarjetero + Bolsa de Almacenamiento para Gafas  Soporte para Gafas de Coche  Color Gris](https://www.amazon.es/dp/B07DR7XL9B/?tag=tolees-21) a 15.99 EUR (original: 44.57 EUR) (64.12 %  de descuento) en el siguiente enlace!

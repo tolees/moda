@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D6QCS9K/?tag=tolees-21'
 descuento: '50.00'
+average: '55'
 ---
 
 Está [Clarks Netley Rose  Zapatos de Cordones Derby para Mujer  Negro  Black Patent-   40 EU](https://www.amazon.es/dp/B07D6QCS9K/?tag=tolees-21) con 50.00 de descuento por 55 EUR (original: 110 EUR) en el siguiente enlace!

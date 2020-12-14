@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DLCBPHK/?tag=tolees-21'
 descuento: '63.25'
+average: '11.02'
 ---
 
 Está [Springfield Frq Gingham Melange  Camisa Casual para Hombre   Gales 80  Medium  Tamaño del Fabricante:M ](https://www.amazon.es/dp/B07DLCBPHK/?tag=tolees-21) con 63.25 de descuento por 11.02 EUR (original: 29.99 EUR) en el siguiente enlace!

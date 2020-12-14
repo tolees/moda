@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MVK13HJ/?tag=tolees-21'
 descuento: '38.20'
+average: '9.27'
 ---
 
 Ahora mismo tienes [Safta Real Madrid Monedero  12 cm  Negro](https://www.amazon.es/dp/B07MVK13HJ/?tag=tolees-21) a 9.27 EUR (original: 15 EUR) (38.20 %  de descuento) en el siguiente enlace!

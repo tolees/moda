@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07N9LZMBS/?tag=tolees-21'
 descuento: '40.14'
+average: '20.95'
 ---
 
 Está [Pepe Jeans Noel Camiseta  Verde  Dark Olive 768   X-Large para Hombre](https://www.amazon.es/dp/B07N9LZMBS/?tag=tolees-21) con 40.14 de descuento por 20.95 EUR (original: 35 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FTQ8QC9/?tag=tolees-21'
 descuento: '69.29'
+average: '18.41'
 ---
 
 Tienes [Lee Button Down Camisa  Marfil  Blueprint Lh   XX-Large para Hombre](https://www.amazon.es/dp/B07FTQ8QC9/?tag=tolees-21) con un 69.29 % de descuento con precio de oferta de 18.41 EUR (original: 59.95 EUR) en el siguiente enlace!

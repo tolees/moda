@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D8FZFQ5/?tag=tolees-21'
 descuento: '51.59'
+average: '67.78'
 ---
 
 Ahora mismo tienes [Diesel 084Uj  Vaqueros Skinny para Hombre  Azul 01    Tamaño del Fabricante:34 ](https://www.amazon.es/dp/B07D8FZFQ5/?tag=tolees-21) a 67.78 EUR (original: 140 EUR) (51.59 %  de descuento) en el siguiente enlace!

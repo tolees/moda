@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CZK4WXH/?tag=tolees-21'
 descuento: '70.06'
+average: '13.46'
 ---
 
 Ahora mismo tienes [Chipie 8m15034  Sudadera para Niñas  Negro  Black 02  7-8 años  Talla del Fabricante: 7A/8A ](https://www.amazon.es/dp/B07CZK4WXH/?tag=tolees-21) a 13.46 EUR (original: 44.95 EUR) (70.06 %  de descuento) en el siguiente enlace!

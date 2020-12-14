@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DL9JXTN/?tag=tolees-21'
 descuento: '58.92'
+average: '12.32'
 ---
 
 Está [Springfield 5Ba Crew Lambs.Wash Jersey  Hombre  Gris  Gama Grises 43   Medium  Tamaño del Fabricante:M ](https://www.amazon.es/dp/B07DL9JXTN/?tag=tolees-21) con 58.92 de descuento por 12.32 EUR (original: 29.99 EUR) en el siguiente enlace!

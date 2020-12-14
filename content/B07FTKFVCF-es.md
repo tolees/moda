@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FTKFVCF/?tag=tolees-21'
 descuento: '51.20'
+average: '12.2'
 ---
 
 Está [Lee Logo tee  Camiseta para Hombre  Marfil  Sharp Grey Mele 03  XX-Large](https://www.amazon.es/dp/B07FTKFVCF/?tag=tolees-21) con 51.20 de descuento por 12.2 EUR (original: 25 EUR) en el siguiente enlace!

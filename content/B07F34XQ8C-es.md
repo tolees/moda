@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F34XQ8C/?tag=tolees-21'
 descuento: '59.78'
+average: '20.11'
 ---
 
 Está [BILLABONG All Day Crew Jersey  Hombre  Verde  Military 176   X-Small  Tamaño del Fabricante:XS ](https://www.amazon.es/dp/B07F34XQ8C/?tag=tolees-21) con 59.78 de descuento por 20.11 EUR (original: 50 EUR) en el siguiente enlace!

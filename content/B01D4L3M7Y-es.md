@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01D4L3M7Y/?tag=tolees-21'
 descuento: '77.15'
+average: '11.4'
 ---
 
 Tienes [Pepaloves Sweater Pointelle Black  Jersey para Mujer  Negro  Black   M](https://www.amazon.es/dp/B01D4L3M7Y/?tag=tolees-21) con un 77.15 % de descuento con precio de oferta de 11.4 EUR (original: 49.9 EUR) en el siguiente enlace!

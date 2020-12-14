@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0785P5LWX/?tag=tolees-21'
 descuento: '40.00'
+average: '27.57'
 ---
 
 Está [HIKARO Chaleco de Plumas con Capucha Mujer  Beige  Stone   46  Talla del fabricante: XX-Large ](https://www.amazon.es/dp/B0785P5LWX/?tag=tolees-21) con 40.00 de descuento por 27.57 EUR (original: 45.95 EUR) en el siguiente enlace!

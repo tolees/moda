@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00E8RSN0K/?tag=tolees-21'
 descuento: '34.78'
+average: '16.95'
 ---
 
 Ahora mismo tienes [Spalding Essential Camiseta Reversible de Entrenamiento  Hombre  Negro  L](https://www.amazon.es/dp/B00E8RSN0K/?tag=tolees-21) a 16.95 EUR (original: 25.99 EUR) (34.78 %  de descuento) en el siguiente enlace!

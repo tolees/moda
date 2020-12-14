@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077YC1FRR/?tag=tolees-21'
 descuento: '88.99'
+average: '6.05'
 ---
 
 Tienes [Sylvie Flirty Swimwear Brix  Parte de Arriba de Bikini para Mujer  Negro  Black 5053   42  Talla del fabricante: 40A ](https://www.amazon.es/dp/B077YC1FRR/?tag=tolees-21) con un 88.99 % de descuento con precio de oferta de 6.05 EUR (original: 54.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075SDZL9N/?tag=tolees-21'
 descuento: '64.41'
+average: '9.25'
 ---
 
 Tienes [Springfield Caja Pique  Sudadera para Hombre  Azul  Blau 44   Medium  Tamaño del fabricante:M ](https://www.amazon.es/dp/B075SDZL9N/?tag=tolees-21) con un 64.41 % de descuento con precio de oferta de 9.25 EUR (original: 25.99 EUR) en el siguiente enlace!

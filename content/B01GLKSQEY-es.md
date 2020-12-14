@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01GLKSQEY/?tag=tolees-21'
 descuento: '75.63'
+average: '6.08'
 ---
 
 Está [Colorado Denim Eliessa  Camiseta de Manga Larga para Mujer  Azul  Nightshadow  XL](https://www.amazon.es/dp/B01GLKSQEY/?tag=tolees-21) con 75.63 de descuento por 6.08 EUR (original: 24.95 EUR) en el siguiente enlace!

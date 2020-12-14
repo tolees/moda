@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077TDNB9V/?tag=tolees-21'
 descuento: '76.80'
+average: '18.55'
 ---
 
 Ahora mismo tienes [MUSSE & CLOUD Natasha  Botines para Mujer  Negro  Blk   37 EU](https://www.amazon.es/dp/B077TDNB9V/?tag=tolees-21) a 18.55 EUR (original: 79.95 EUR) (76.80 %  de descuento) en el siguiente enlace!

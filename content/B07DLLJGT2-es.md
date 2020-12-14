@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DLLJGT2/?tag=tolees-21'
 descuento: '74.63'
+average: '9.13'
 ---
 
 Tienes [Springfield 6.J.MD.T.Lavanda Jersey  Mujer  Azul  Gama Azules 11   Small  Tamaño del Fabricante:S ](https://www.amazon.es/dp/B07DLLJGT2/?tag=tolees-21) con un 74.63 % de descuento con precio de oferta de 9.13 EUR (original: 35.99 EUR) en el siguiente enlace!

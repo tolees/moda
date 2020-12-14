@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01IP7Z2BQ/?tag=tolees-21'
 descuento: '76.99'
+average: '34.28'
 ---
 
 Está [Benetton 2KN553395  Chaqueta Mujer  Verde  Khaki   44 UK ](https://www.amazon.es/dp/B01IP7Z2BQ/?tag=tolees-21) con 76.99 de descuento por 34.28 EUR (original: 149 EUR) en el siguiente enlace!

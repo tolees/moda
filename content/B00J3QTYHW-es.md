@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00J3QTYHW/?tag=tolees-21'
 descuento: '63.78'
+average: '7.45'
 ---
 
 Tienes [Kempa Core - Camiseta para Mujer Azul Azul Talla:Medium](https://www.amazon.es/dp/B00J3QTYHW/?tag=tolees-21) con un 63.78 % de descuento con precio de oferta de 7.45 EUR (original: 20.57 EUR) en el siguiente enlace!

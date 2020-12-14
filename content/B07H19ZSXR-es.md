@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07H19ZSXR/?tag=tolees-21'
 descuento: '89.24'
+average: '23.99'
 ---
 
 Ahora mismo tienes [E.INFINITY Set de Pendientes y Collar de Perlas de Agua Dulce y Plata de Ley 925 para Mujeres](https://www.amazon.es/dp/B07H19ZSXR/?tag=tolees-21) a 23.99 EUR (original: 222.99 EUR) (89.24 %  de descuento) en el siguiente enlace!

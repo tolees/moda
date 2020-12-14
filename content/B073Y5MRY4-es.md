@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073Y5MRY4/?tag=tolees-21'
 descuento: '52.74'
+average: '67.62'
 ---
 
 Está [Timberland Milford Quilted Jack Tim  Chaqueta para Hombre  Verde  Forest TGA   XX-Large](https://www.amazon.es/dp/B073Y5MRY4/?tag=tolees-21) con 52.74 de descuento por 67.62 EUR (original: 143.07 EUR) en el siguiente enlace!

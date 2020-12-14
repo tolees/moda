@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KYZFMP6/?tag=tolees-21'
 descuento: '43.94'
+average: '5.6'
 ---
 
 Está [Springfield 2.T.Ap.Pv19.Tachas Bolita  Camiseta para Mujer   Gama Grises 45   X-Small  Tamaño del Fabricante:XS ](https://www.amazon.es/dp/B07KYZFMP6/?tag=tolees-21) con 43.94 de descuento por 5.6 EUR (original: 9.99 EUR) en el siguiente enlace!

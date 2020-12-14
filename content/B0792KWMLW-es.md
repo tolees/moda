@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0792KWMLW/?tag=tolees-21'
 descuento: '58.35'
+average: '24.95'
 ---
 
 Tienes [Geox J Artach Boy A  Zapatillas para Niños   Coffee/Royal C6483   39 EU](https://www.amazon.es/dp/B0792KWMLW/?tag=tolees-21) con un 58.35 % de descuento con precio de oferta de 24.95 EUR (original: 59.9 EUR) en el siguiente enlace!

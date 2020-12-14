@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076SDSCDZ/?tag=tolees-21'
 descuento: '25.01'
+average: '12.74'
 ---
 
 Está [Iris & Lilly Bata Ligera Mujer  Gris  Grey Heather   Large](https://www.amazon.es/dp/B076SDSCDZ/?tag=tolees-21) con 25.01 de descuento por 12.74 EUR (original: 16.99 EUR) en el siguiente enlace!

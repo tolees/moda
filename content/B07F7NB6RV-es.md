@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F7NB6RV/?tag=tolees-21'
 descuento: '53.61'
+average: '64.95'
 ---
 
 Ahora mismo tienes [Burton Covert Chaqueta de Snowboard  Niños  Rojo  Bitters  / Azul  Mood Indigo   M](https://www.amazon.es/dp/B07F7NB6RV/?tag=tolees-21) a 64.95 EUR (original: 140 EUR) (53.61 %  de descuento) en el siguiente enlace!

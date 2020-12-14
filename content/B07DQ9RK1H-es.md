@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DQ9RK1H/?tag=tolees-21'
 descuento: '48.13'
+average: '33.71'
 ---
 
 Ahora mismo tienes [Columbia Saturday Trail II Pantalón de Senderismo hasta  Nailon  Mujer  Verde  Pond   Talla US: W12/L18/  EU W44/L18 ](https://www.amazon.es/dp/B07DQ9RK1H/?tag=tolees-21) a 33.71 EUR (original: 64.99 EUR) (48.13 %  de descuento) en el siguiente enlace!

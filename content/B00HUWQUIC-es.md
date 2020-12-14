@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00HUWQUIC/?tag=tolees-21'
 descuento: '56.89'
+average: '133.65'
 ---
 
 Tienes [Fendi Brillengestelle FF 0011 7SU/17-53-17-135 Monturas de gafas  Blanco  Weiß   53.0 para Mujer](https://www.amazon.es/dp/B00HUWQUIC/?tag=tolees-21) con un 56.89 % de descuento con precio de oferta de 133.65 EUR (original: 310 EUR) en el siguiente enlace!

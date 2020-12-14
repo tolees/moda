@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CN311BZ/?tag=tolees-21'
 descuento: '35.14'
+average: '20.75'
 ---
 
 Tienes [Crocs Baya Clog  Zuecos Unisex Niños  Rosa  Neon Magenta 6l0   23/24 EU](https://www.amazon.es/dp/B07CN311BZ/?tag=tolees-21) con un 35.14 % de descuento con precio de oferta de 20.75 EUR (original: 31.99 EUR) en el siguiente enlace!

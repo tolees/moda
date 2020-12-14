@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00WU4UDWE/?tag=tolees-21'
 descuento: '49.04'
+average: '30.55'
 ---
 
 Está [KangaROOS K-BlueRun 8023 - Zapatilla Deportiva de Material sintético Unisex Adulto  Color Beige  Talla 42](https://www.amazon.es/dp/B00WU4UDWE/?tag=tolees-21) con 49.04 de descuento por 30.55 EUR (original: 59.95 EUR) en el siguiente enlace!

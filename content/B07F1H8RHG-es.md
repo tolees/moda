@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F1H8RHG/?tag=tolees-21'
 descuento: '37.22'
+average: '16.26'
 ---
 
 Está [Havaianas Slim  Chanclas para Mujer  Azul  Blue   43/44 EU  41/42 Brazilian ](https://www.amazon.es/dp/B07F1H8RHG/?tag=tolees-21) con 37.22 de descuento por 16.26 EUR (original: 25.9 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01IAA21MQ/?tag=tolees-21'
 descuento: '63.59'
+average: '13.95'
 ---
 
 Está [Volcom Thrills Zehentrenner  Chanclas para Mujer   Gold   38 EU](https://www.amazon.es/dp/B01IAA21MQ/?tag=tolees-21) con 63.59 de descuento por 13.95 EUR (original: 38.31 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MTL79SK/?tag=tolees-21'
 descuento: '89.89'
+average: '25.86'
 ---
 
 Ahora mismo tienes [GINO ROSSI DBH151  Botines Mujer  Negro  EU 37](https://www.amazon.es/dp/B01MTL79SK/?tag=tolees-21) a 25.86 EUR (original: 255.9 EUR) (89.89 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HN4X8F5/?tag=tolees-21'
 descuento: '75.02'
+average: '9.99'
 ---
 
 Tienes [NACATIN Gafas de Esquí 4 en 1  100% UV400 Protección Doble Lentes Esféricas  Antivahos  Respirables Anti-Viento con Diseño de OTG Gafas de Snowboard Desmontable para Esquí y Deportes de Invierno Rojo](https://www.amazon.es/dp/B07HN4X8F5/?tag=tolees-21) con un 75.02 % de descuento con precio de oferta de 9.99 EUR (original: 39.99 EUR) en el siguiente enlace!

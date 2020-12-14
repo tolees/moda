@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MS4L07V/?tag=tolees-21'
 descuento: '48.29'
+average: '43.93'
 ---
 
 Tienes [Puma BVB Local Temporada 2017/2018 Camiseta  Hombre  Amarillo  L](https://www.amazon.es/dp/B01MS4L07V/?tag=tolees-21) con un 48.29 % de descuento con precio de oferta de 43.93 EUR (original: 84.95 EUR) en el siguiente enlace!

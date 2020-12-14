@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0763PGXYF/?tag=tolees-21'
 descuento: '60.32'
+average: '75'
 ---
 
 Está [Timberland Reloj Analógico para Hombre de Cuarzo con Correa en Cuero TBL15254JS.13A](https://www.amazon.es/dp/B0763PGXYF/?tag=tolees-21) con 60.32 de descuento por 75 EUR (original: 189 EUR) en el siguiente enlace!

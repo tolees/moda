@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075LMJ8XH/?tag=tolees-21'
 descuento: '51.28'
+average: '56.03'
 ---
 
 Ahora mismo tienes [El Naturalista N5020  Zapatos de tacón con Punta Abierta para Mujer  Rojo  Rioja   40 EU](https://www.amazon.es/dp/B075LMJ8XH/?tag=tolees-21) a 56.03 EUR (original: 115 EUR) (51.28 %  de descuento) en el siguiente enlace!

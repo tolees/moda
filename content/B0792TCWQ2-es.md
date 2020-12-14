@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0792TCWQ2/?tag=tolees-21'
 descuento: '50.08'
+average: '32.45'
 ---
 
 Ahora mismo tienes [Geox J Xunday Boy A  Botas Chukka para Niños  Azul  Navy/Black C0045   28 EU](https://www.amazon.es/dp/B0792TCWQ2/?tag=tolees-21) a 32.45 EUR (original: 65 EUR) (50.08 %  de descuento) en el siguiente enlace!

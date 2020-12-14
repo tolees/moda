@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N7E0HR2/?tag=tolees-21'
 descuento: '78.35'
+average: '23.82'
 ---
 
 Está [Pepe Jeans Cash Journey  Vaqueros Para Hombre  Azul  Denim -Reg   W33  Talla fabricante: 33 ](https://www.amazon.es/dp/B01N7E0HR2/?tag=tolees-21) con 78.35 de descuento por 23.82 EUR (original: 110 EUR) en el siguiente enlace!

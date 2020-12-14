@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00VGKVFWK/?tag=tolees-21'
 descuento: '57.98'
+average: '25.19'
 ---
 
 Tienes [Blend Cirrus  Vaqueros para Hombre  Middle Blue 76201 W33/L34  33 ](https://www.amazon.es/dp/B00VGKVFWK/?tag=tolees-21) con un 57.98 % de descuento con precio de oferta de 25.19 EUR (original: 59.95 EUR) en el siguiente enlace!

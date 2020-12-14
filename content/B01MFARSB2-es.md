@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MFARSB2/?tag=tolees-21'
 descuento: '69.98'
+average: '9.29'
 ---
 
 Tienes [Redford Nizza  Camisa Hombre  Azul  Blau   Tamaño del Cuello: 42 cm   Large ](https://www.amazon.es/dp/B01MFARSB2/?tag=tolees-21) con un 69.98 % de descuento con precio de oferta de 9.29 EUR (original: 30.95 EUR) en el siguiente enlace!

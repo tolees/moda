@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KKT24VM/?tag=tolees-21'
 descuento: '69.30'
+average: '30.68'
 ---
 
 Está [HUGO Ero3-w Camisa  Azul  Dark Blue 405   Medium para Hombre](https://www.amazon.es/dp/B07KKT24VM/?tag=tolees-21) con 69.30 de descuento por 30.68 EUR (original: 99.95 EUR) en el siguiente enlace!

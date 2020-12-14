@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0798DVX8W/?tag=tolees-21'
 descuento: '46.31'
+average: '21.45'
 ---
 
 Ahora mismo tienes [G-STAR RAW Cart Slide II  Chanclas para Mujer  Negro  Black/White 964   41 EU](https://www.amazon.es/dp/B0798DVX8W/?tag=tolees-21) a 21.45 EUR (original: 39.95 EUR) (46.31 %  de descuento) en el siguiente enlace!

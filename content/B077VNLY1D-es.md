@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077VNLY1D/?tag=tolees-21'
 descuento: '64.32'
+average: '5.94'
 ---
 
 Tienes [Tom Tailor T-Shirt Uni 1/1 Round-Neck  Camiseta para Niñas  Azul  Real Navy Blue 6593  12 años](https://www.amazon.es/dp/B077VNLY1D/?tag=tolees-21) con un 64.32 % de descuento con precio de oferta de 5.94 EUR (original: 16.65 EUR) en el siguiente enlace!

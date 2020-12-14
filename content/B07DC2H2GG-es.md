@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DC2H2GG/?tag=tolees-21'
 descuento: '40.79'
+average: '15.98'
 ---
 
 Ahora mismo tienes [flintronic ® Tarjetas de Crédito  Cartera Piel RFID Billetera Hombre Cuero Monedero Tarjetero Slim Suave Moda y Casual  Negro con Caja](https://www.amazon.es/dp/B07DC2H2GG/?tag=tolees-21) a 15.98 EUR (original: 26.99 EUR) (40.79 %  de descuento) en el siguiente enlace!

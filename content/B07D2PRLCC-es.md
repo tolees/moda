@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D2PRLCC/?tag=tolees-21'
 descuento: '43.56'
+average: '47.97'
 ---
 
 Tienes [Gant TG. Logo Full Zip Hoodie  Vestido Niñas  Rosa  Light Pink Melange   15 años  Talla del Fabricante: 170 ](https://www.amazon.es/dp/B07D2PRLCC/?tag=tolees-21) con un 43.56 % de descuento con precio de oferta de 47.97 EUR (original: 85 EUR) en el siguiente enlace!

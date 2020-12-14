@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DR7PB5X/?tag=tolees-21'
 descuento: '75.01'
+average: '19.99'
 ---
 
 Está [MAXTOP Zapatillas de Running Hombre Correr Sneakers Transpirables Zapatos Casual Respirable Deportes Gimnasio Aire Libre](https://www.amazon.es/dp/B07DR7PB5X/?tag=tolees-21) con 75.01 de descuento por 19.99 EUR (original: 80 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N40L7GT/?tag=tolees-21'
 descuento: '37.96'
+average: '8.68'
 ---
 
 Tienes [IRIS & LILLY Camiseta de Tirantes Body Natural para Mujer  Pack de 2  Multicolor  White/Print Dot   Large](https://www.amazon.es/dp/B01N40L7GT/?tag=tolees-21) con un 37.96 % de descuento con precio de oferta de 8.68 EUR (original: 13.99 EUR) en el siguiente enlace!

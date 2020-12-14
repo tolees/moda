@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07NJBP1NB/?tag=tolees-21'
 descuento: '54.07'
+average: '16.99'
 ---
 
 Ahora mismo tienes [Mujer Traje de Baño Conjunto Bikini de Lunares Rojo Dos Piezas S CL011000-2](https://www.amazon.es/dp/B07NJBP1NB/?tag=tolees-21) a 16.99 EUR (original: 36.99 EUR) (54.07 %  de descuento) en el siguiente enlace!

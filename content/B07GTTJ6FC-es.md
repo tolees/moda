@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GTTJ6FC/?tag=tolees-21'
 descuento: '82.37'
+average: '22.91'
 ---
 
 Está [Berg Outdoor Fragas Chaqueta  Hombre  Azul  Snorkel   XL](https://www.amazon.es/dp/B07GTTJ6FC/?tag=tolees-21) con 82.37 de descuento por 22.91 EUR (original: 129.95 EUR) en el siguiente enlace!

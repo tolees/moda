@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KSVGKVP/?tag=tolees-21'
 descuento: '56.61'
+average: '32.54'
 ---
 
 Está [Emporio Armani Underwear 9p300 Parte de Arriba de Bikini   Stampa Hawaii 06051   M  Talla del Fabricante: 90B  para Mujer](https://www.amazon.es/dp/B07KSVGKVP/?tag=tolees-21) con 56.61 de descuento por 32.54 EUR (original: 75 EUR) en el siguiente enlace!

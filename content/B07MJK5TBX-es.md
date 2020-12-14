@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MJK5TBX/?tag=tolees-21'
 descuento: '25.78'
+average: '30.4'
 ---
 
 Tienes [Pablosky 462500 - Sandalias para Niñas  Blanco  32 EU](https://www.amazon.es/dp/B07MJK5TBX/?tag=tolees-21) con un 25.78 % de descuento con precio de oferta de 30.4 EUR (original: 40.96 EUR) en el siguiente enlace!

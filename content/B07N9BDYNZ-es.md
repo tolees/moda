@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07N9BDYNZ/?tag=tolees-21'
 descuento: '51.14'
+average: '14.61'
 ---
 
 Está [Pepe Jeans Joel Camiseta  Blanco  Optic White 802   Medium para Hombre](https://www.amazon.es/dp/B07N9BDYNZ/?tag=tolees-21) con 51.14 de descuento por 14.61 EUR (original: 29.9 EUR) en el siguiente enlace!

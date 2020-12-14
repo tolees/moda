@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KSGVMC1/?tag=tolees-21'
 descuento: '40.18'
+average: '14.95'
 ---
 
 Ahora mismo tienes [Columbia Hombre Camiseta  CSC Basic Logo  Algodón  Azul  Carbon   Talla: L  1680051](https://www.amazon.es/dp/B07KSGVMC1/?tag=tolees-21) a 14.95 EUR (original: 24.99 EUR) (40.18 %  de descuento) en el siguiente enlace!

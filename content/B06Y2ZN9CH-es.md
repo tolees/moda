@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06Y2ZN9CH/?tag=tolees-21'
 descuento: '36.69'
+average: '16.43'
 ---
 
 Ahora mismo tienes [Joma Crew II Chaqueta  Hombre  Marino/Rojo  L](https://www.amazon.es/dp/B06Y2ZN9CH/?tag=tolees-21) a 16.43 EUR (original: 25.95 EUR) (36.69 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07K711YRY/?tag=tolees-21'
 descuento: '50.05'
+average: '49.95'
 ---
 
 Está [Levi s 501 Original Fit Vaqueros  Azul  Snoot 2744   W32/L34 para Hombre](https://www.amazon.es/dp/B07K711YRY/?tag=tolees-21) con 50.05 de descuento por 49.95 EUR (original: 100 EUR) en el siguiente enlace!

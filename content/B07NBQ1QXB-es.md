@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07NBQ1QXB/?tag=tolees-21'
 descuento: '56.97'
+average: '77.45'
 ---
 
 Ahora mismo tienes [Diesel Sleenker L.30 Trousers Vaqueros Skinny  Azul Blue Denim 01  W31/L30  Talla del Fabricante: 31  para Hombre](https://www.amazon.es/dp/B07NBQ1QXB/?tag=tolees-21) a 77.45 EUR (original: 180 EUR) (56.97 %  de descuento) en el siguiente enlace!

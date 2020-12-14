@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FL7PLWV/?tag=tolees-21'
 descuento: '25.32'
+average: '111.95'
 ---
 
 Ahora mismo tienes [Superdry Rookie Sherpa Multi Jacket  Abrigo para Mujer  Azul  Navy 11s  Small  Talla del Fabricante: 10.0 ](https://www.amazon.es/dp/B07FL7PLWV/?tag=tolees-21) a 111.95 EUR (original: 149.9 EUR) (25.32 %  de descuento) en el siguiente enlace!

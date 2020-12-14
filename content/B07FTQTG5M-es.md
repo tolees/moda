@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FTQTG5M/?tag=tolees-21'
 descuento: '29.99'
+average: '69.97'
 ---
 
 Tienes [Lee Slim Rider Chaqueta Vaquera  Marfil  Light Rugged GE   38  Talla del Fabricante: X-Small  para Mujer](https://www.amazon.es/dp/B07FTQTG5M/?tag=tolees-21) con un 29.99 % de descuento con precio de oferta de 69.97 EUR (original: 99.95 EUR) en el siguiente enlace!

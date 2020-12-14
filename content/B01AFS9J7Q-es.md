@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01AFS9J7Q/?tag=tolees-21'
 descuento: '70.95'
+average: '22.95'
 ---
 
 Ahora mismo tienes [Timberland Ls Slim Rattle Rvr O  Camisa para Hombre  Azul  Blue  Skyway    X-Large](https://www.amazon.es/dp/B01AFS9J7Q/?tag=tolees-21) a 22.95 EUR (original: 79 EUR) (70.95 %  de descuento) en el siguiente enlace!

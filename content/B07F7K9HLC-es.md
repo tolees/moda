@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F7K9HLC/?tag=tolees-21'
 descuento: '60.05'
+average: '79.9'
 ---
 
 Ahora mismo tienes [Burton Evergreen Synthetic Hooded Insulator Chaqueta Funcional  Mujer  marrón  Rose Brown   L](https://www.amazon.es/dp/B07F7K9HLC/?tag=tolees-21) a 79.9 EUR (original: 200 EUR) (60.05 %  de descuento) en el siguiente enlace!

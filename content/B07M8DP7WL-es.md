@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07M8DP7WL/?tag=tolees-21'
 descuento: '48.31'
+average: '43.94'
 ---
 
 Está [The North Face Cyclone 2 HDY - Chaqueta con capucha  Hombre  Citrine Yellow/TNF Black  M](https://www.amazon.es/dp/B07M8DP7WL/?tag=tolees-21) con 48.31 de descuento por 43.94 EUR (original: 85 EUR) en el siguiente enlace!

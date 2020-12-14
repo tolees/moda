@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07C5BL9WH/?tag=tolees-21'
 descuento: '66.32'
+average: '25.24'
 ---
 
 Tienes [Rieker Y2520  Botines para Mujer  Negro  Schwarz 00   39 EU](https://www.amazon.es/dp/B07C5BL9WH/?tag=tolees-21) con un 66.32 % de descuento con precio de oferta de 25.24 EUR (original: 74.95 EUR) en el siguiente enlace!

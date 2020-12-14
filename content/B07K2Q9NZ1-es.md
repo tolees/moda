@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07K2Q9NZ1/?tag=tolees-21'
 descuento: '40.00'
+average: '15'
 ---
 
 Está [Levi s The Perfect Tee  Camiseta  Mujer  Azul  Sptwr Surf Blue 0407   XL](https://www.amazon.es/dp/B07K2Q9NZ1/?tag=tolees-21) con 40.00 de descuento por 15 EUR (original: 25 EUR) en el siguiente enlace!

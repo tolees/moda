@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FJXHCT3/?tag=tolees-21'
 descuento: '70.85'
+average: '24.76'
 ---
 
 Está [Gioseppo 46201-P  Zapatos de tacón con Punta Cerrada para Mujer  Leopardo  37 EU](https://www.amazon.es/dp/B07FJXHCT3/?tag=tolees-21) con 70.85 de descuento por 24.76 EUR (original: 84.95 EUR) en el siguiente enlace!

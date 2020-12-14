@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JDTF96B/?tag=tolees-21'
 descuento: '39.57'
+average: '39.28'
 ---
 
 Está [Lacoste Sport Th3518 Camiseta   Blanc/Marine-Forest 7vt   XX-Large  Talla del Fabricante: 7  para Hombre](https://www.amazon.es/dp/B07JDTF96B/?tag=tolees-21) con 39.57 de descuento por 39.28 EUR (original: 65 EUR) en el siguiente enlace!

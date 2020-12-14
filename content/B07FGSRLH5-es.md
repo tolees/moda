@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FGSRLH5/?tag=tolees-21'
 descuento: '66.76'
+average: '8.64'
 ---
 
 Tienes [Under Armour UA GL Foundation SS T Camiseta  Hombre  Azul  Academy/Steel/Royal 408   M](https://www.amazon.es/dp/B07FGSRLH5/?tag=tolees-21) con un 66.76 % de descuento con precio de oferta de 8.64 EUR (original: 25.99 EUR) en el siguiente enlace!

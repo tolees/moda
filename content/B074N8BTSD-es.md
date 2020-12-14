@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074N8BTSD/?tag=tolees-21'
 descuento: '50.05'
+average: '54.95'
 ---
 
 Está [Clarks Batcombe Wing  Zapatos de Cordones Derby para Hombre  Marrón  Dark TanLea   42.5 EU](https://www.amazon.es/dp/B074N8BTSD/?tag=tolees-21) con 50.05 de descuento por 54.95 EUR (original: 110 EUR) en el siguiente enlace!

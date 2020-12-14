@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FR9XR6L/?tag=tolees-21'
 descuento: '45.97'
+average: '54'
 ---
 
 Está [Clarks Tri Chloe  Sandalias de Talón Abierto para Mujer  Verde  Olive-   38 EU](https://www.amazon.es/dp/B07FR9XR6L/?tag=tolees-21) con 45.97 de descuento por 54 EUR (original: 99.95 EUR) en el siguiente enlace!

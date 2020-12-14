@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073SCWWCC/?tag=tolees-21'
 descuento: '70.00'
+average: '6'
 ---
 
 Está [FIND Camiseta de Manga Larga con Estampado para Hombre  Blanco  White 003   Large](https://www.amazon.es/dp/B073SCWWCC/?tag=tolees-21) con 70.00 de descuento por 6 EUR (original: 20 EUR) en el siguiente enlace!

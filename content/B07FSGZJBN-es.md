@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FSGZJBN/?tag=tolees-21'
 descuento: '72.63'
+average: '46.53'
 ---
 
 Está [Naf Naf Jhnh30d Abrigo   Fantaisie 1756   38 para Mujer](https://www.amazon.es/dp/B07FSGZJBN/?tag=tolees-21) con 72.63 de descuento por 46.53 EUR (original: 169.99 EUR) en el siguiente enlace!

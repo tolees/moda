@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KYYVSH1/?tag=tolees-21'
 descuento: '70.65'
+average: '7.04'
 ---
 
 Ahora mismo tienes [Springfield 3 Pack Woven Palm Bóxer  Hombre  Azul  Gama Azules 12   Large  Tamaño del Fabricante:L ](https://www.amazon.es/dp/B07KYYVSH1/?tag=tolees-21) a 7.04 EUR (original: 23.99 EUR) (70.65 %  de descuento) en el siguiente enlace!

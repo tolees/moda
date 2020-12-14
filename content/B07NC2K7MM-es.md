@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07NC2K7MM/?tag=tolees-21'
 descuento: '30.00'
+average: '48.3'
 ---
 
 Está [Tous Clutch Carlata Plata-Rosa  Bolso de Mano para Mujer  Plateado  29x19x1 cm  W x H x L ](https://www.amazon.es/dp/B07NC2K7MM/?tag=tolees-21) con 30.00 de descuento por 48.3 EUR (original: 69 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DYX9X1V/?tag=tolees-21'
 descuento: '37.96'
+average: '35.95'
 ---
 
 Ahora mismo tienes [Columbia Chaqueta Impermeable para Mujer  Powder Lite Jacket  Rosa  Cactus Pink   Talla M](https://www.amazon.es/dp/B07DYX9X1V/?tag=tolees-21) a 35.95 EUR (original: 57.95 EUR) (37.96 %  de descuento) en el siguiente enlace!

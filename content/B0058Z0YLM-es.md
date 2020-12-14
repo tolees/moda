@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0058Z0YLM/?tag=tolees-21'
 descuento: '41.36'
+average: '43.95'
 ---
 
 Está [Columbia Mujer Pantalón Convertible  Silver Ridge  Beige  Fossil   Talla: 38](https://www.amazon.es/dp/B0058Z0YLM/?tag=tolees-21) con 41.36 de descuento por 43.95 EUR (original: 74.95 EUR) en el siguiente enlace!

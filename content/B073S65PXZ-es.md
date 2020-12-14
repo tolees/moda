@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073S65PXZ/?tag=tolees-21'
 descuento: '61.05'
+average: '46.72'
 ---
 
 Tienes [G-STAR RAW 3301 Deconstructed Skinny  Vaqueros Skinny Hombre  Azul  Light Vintage Aged Destroy   W33/L32  Talla del Fabricante: 33/32 ](https://www.amazon.es/dp/B073S65PXZ/?tag=tolees-21) con un 61.05 % de descuento con precio de oferta de 46.72 EUR (original: 119.95 EUR) en el siguiente enlace!

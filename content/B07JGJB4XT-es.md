@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JGJB4XT/?tag=tolees-21'
 descuento: '30.02'
+average: '10.49'
 ---
 
 Ahora mismo tienes [IRIS & LILLY Sh191278 Braguita de Bikini  Multicolor  Tropical Flower Print   38  Talla del fabricante: Small ](https://www.amazon.es/dp/B07JGJB4XT/?tag=tolees-21) a 10.49 EUR (original: 14.99 EUR) (30.02 %  de descuento) en el siguiente enlace!

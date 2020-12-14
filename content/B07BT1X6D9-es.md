@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BT1X6D9/?tag=tolees-21'
 descuento: '55.77'
+average: '4.6'
 ---
 
 Ahora mismo tienes [oodji Ultra Mujer Camiseta Recortada de Tejido a Rayas  Rosa  ES 34 / XXS](https://www.amazon.es/dp/B07BT1X6D9/?tag=tolees-21) a 4.6 EUR (original: 10.4 EUR) (55.77 %  de descuento) en el siguiente enlace!

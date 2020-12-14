@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MGJYYLZ/?tag=tolees-21'
 descuento: '33.32'
+average: '33.34'
 ---
 
 Está [The North Face Drew Peak Sudadera con Capucha  Niñas  TNF Black  M](https://www.amazon.es/dp/B07MGJYYLZ/?tag=tolees-21) con 33.32 de descuento por 33.34 EUR (original: 50 EUR) en el siguiente enlace!

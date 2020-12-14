@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DGMY2J6/?tag=tolees-21'
 descuento: '61.70'
+average: '11.49'
 ---
 
 Tienes [Under Armour Ua Tech Graphic  Camisa para Hombre  Negro  Negro/Gris   M](https://www.amazon.es/dp/B07DGMY2J6/?tag=tolees-21) con un 61.70 % de descuento con precio de oferta de 11.49 EUR (original: 30 EUR) en el siguiente enlace!

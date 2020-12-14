@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KCFBFZS/?tag=tolees-21'
 descuento: '29.78'
+average: '315.99'
 ---
 
 Está [COACH Coach Tasche 28631 OLBLK Bolso Bandolera  23 cm  Negro  OL/Black ](https://www.amazon.es/dp/B07KCFBFZS/?tag=tolees-21) con 29.78 de descuento por 315.99 EUR (original: 450 EUR) en el siguiente enlace!

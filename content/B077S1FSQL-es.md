@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077S1FSQL/?tag=tolees-21'
 descuento: '76.64'
+average: '6.07'
 ---
 
 Tienes [Esprit 028ee1k043 Camisa Manga Larga  Azul  Navy 400   X-Large para Mujer](https://www.amazon.es/dp/B077S1FSQL/?tag=tolees-21) con un 76.64 % de descuento con precio de oferta de 6.07 EUR (original: 25.99 EUR) en el siguiente enlace!

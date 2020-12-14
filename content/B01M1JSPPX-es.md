@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01M1JSPPX/?tag=tolees-21'
 descuento: '34.96'
+average: '9.75'
 ---
 
 Ahora mismo tienes [Puma Basic Boxer Printed Stripe 2P  Bóxer para Niños  Azul  Blue   140  Talla de fabricante: 9-10 Años ](https://www.amazon.es/dp/B01M1JSPPX/?tag=tolees-21) a 9.75 EUR (original: 14.99 EUR) (34.96 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JH2ZS9T/?tag=tolees-21'
 descuento: '51.81'
+average: '33.71'
 ---
 
 Tienes [Puma Evostripe Move Sudadera  Hombre  Azul  Peacoat   M](https://www.amazon.es/dp/B07JH2ZS9T/?tag=tolees-21) con un 51.81 % de descuento con precio de oferta de 33.71 EUR (original: 69.95 EUR) en el siguiente enlace!

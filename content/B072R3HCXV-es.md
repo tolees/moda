@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072R3HCXV/?tag=tolees-21'
 descuento: '63.54'
+average: '10.19'
 ---
 
 Tienes [BOSS Brief Urban Bóxer  Blanco  White 100   XX-Large para Hombre](https://www.amazon.es/dp/B072R3HCXV/?tag=tolees-21) con un 63.54 % de descuento con precio de oferta de 10.19 EUR (original: 27.95 EUR) en el siguiente enlace!

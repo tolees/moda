@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KZ7H3FF/?tag=tolees-21'
 descuento: '65.67'
+average: '17.16'
 ---
 
 Ahora mismo tienes [Cortefiel C7Cc Denim Slim Verdoso Vaqueros Tapered Gama Azules 13   Tamaño del Fabricante:50  para Hombre](https://www.amazon.es/dp/B07KZ7H3FF/?tag=tolees-21) a 17.16 EUR (original: 49.99 EUR) (65.67 %  de descuento) en el siguiente enlace!

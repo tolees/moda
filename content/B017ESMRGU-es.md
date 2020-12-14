@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B017ESMRGU/?tag=tolees-21'
 descuento: '93.12'
+average: '3.58'
 ---
 
 Ahora mismo tienes [Kiwi Saint Tropez Sujetador de Bikini Triangle Wendy Noeud Eole Rojo ES 40  FR 40 ](https://www.amazon.es/dp/B017ESMRGU/?tag=tolees-21) a 3.58 EUR (original: 52 EUR) (93.12 %  de descuento) en el siguiente enlace!

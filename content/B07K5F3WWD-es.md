@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07K5F3WWD/?tag=tolees-21'
 descuento: '69.54'
+average: '5.48'
 ---
 
 Tienes [JACK & JONES Jcomayfield tee SS Crew Neck  Camiseta para Hombre  Blanco  White Fit: Slim   Medium](https://www.amazon.es/dp/B07K5F3WWD/?tag=tolees-21) con un 69.54 % de descuento con precio de oferta de 5.48 EUR (original: 17.99 EUR) en el siguiente enlace!

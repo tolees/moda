@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KZ24PD9/?tag=tolees-21'
 descuento: '53.48'
+average: '12.09'
 ---
 
 Está [Springfield 5DS Oxford AOP Jersey  Hombre  Azul  Gama Azules 17   Large  Tamaño del Fabricante:L ](https://www.amazon.es/dp/B07KZ24PD9/?tag=tolees-21) con 53.48 de descuento por 12.09 EUR (original: 25.99 EUR) en el siguiente enlace!

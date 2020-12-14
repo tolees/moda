@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KCWHG61/?tag=tolees-21'
 descuento: '62.83'
+average: '11.15'
 ---
 
 Ahora mismo tienes [Hurley - Camiseta para hombre  Blanco  S  High Bars Prm Tee Ss](https://www.amazon.es/dp/B07KCWHG61/?tag=tolees-21) a 11.15 EUR (original: 30 EUR) (62.83 %  de descuento) en el siguiente enlace!

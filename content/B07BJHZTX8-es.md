@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BJHZTX8/?tag=tolees-21'
 descuento: '66.44'
+average: '33.54'
 ---
 
 Tienes [G-STAR RAW Revend Skinny  Vaqueros Skinny Hombre  Negro  Rinsed 082   W27/L32](https://www.amazon.es/dp/B07BJHZTX8/?tag=tolees-21) con un 66.44 % de descuento con precio de oferta de 33.54 EUR (original: 99.95 EUR) en el siguiente enlace!

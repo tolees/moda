@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FQVCJR8/?tag=tolees-21'
 descuento: '25.02'
+average: '59.95'
 ---
 
 Tienes [Clarks Grandin Plain  Zapatos de Cordones Derby para Hombre  Azul  Navy Leather-   42 EU](https://www.amazon.es/dp/B07FQVCJR8/?tag=tolees-21) con un 25.02 % de descuento con precio de oferta de 59.95 EUR (original: 79.95 EUR) en el siguiente enlace!

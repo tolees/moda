@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01C4CYO8K/?tag=tolees-21'
 descuento: '57.57'
+average: '40.14'
 ---
 
 Está [Nike Gafas de Sol para Hombre  MtWfGry/SLW/GrySlFl  57](https://www.amazon.es/dp/B01C4CYO8K/?tag=tolees-21) con 57.57 de descuento por 40.14 EUR (original: 94.6 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078WGQR21/?tag=tolees-21'
 descuento: '44.04'
+average: '27.95'
 ---
 
 Tienes [Puma Liga Training Jacket Chaqueta de Entrenamiento  Mujer  Azul  Electric Blue Lemonade/White   S](https://www.amazon.es/dp/B078WGQR21/?tag=tolees-21) con un 44.04 % de descuento con precio de oferta de 27.95 EUR (original: 49.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075YXRD77/?tag=tolees-21'
 descuento: '53.33'
+average: '18.67'
 ---
 
 Ahora mismo tienes [find. Parka Ligera Hombre  Azul  Navy   XX-Large](https://www.amazon.es/dp/B075YXRD77/?tag=tolees-21) a 18.67 EUR (original: 40 EUR) (53.33 %  de descuento) en el siguiente enlace!

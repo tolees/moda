@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01A6WRMFM/?tag=tolees-21'
 descuento: '40.91'
+average: '41.36'
 ---
 
 Está [The North Face Exploration Short Pantalón Corto  Hombre  Gris  Asphalt Grey   38](https://www.amazon.es/dp/B01A6WRMFM/?tag=tolees-21) con 40.91 de descuento por 41.36 EUR (original: 70 EUR) en el siguiente enlace!

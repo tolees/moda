@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073HF99MR/?tag=tolees-21'
 descuento: '88.71'
+average: '22.57'
 ---
 
 Está [JACK & JONES Tech Jjtmeyland Parka Jacket 17 Noos  Hombre  Negro  Black   XX-Large](https://www.amazon.es/dp/B073HF99MR/?tag=tolees-21) con 88.71 de descuento por 22.57 EUR (original: 199.99 EUR) en el siguiente enlace!

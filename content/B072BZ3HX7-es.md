@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072BZ3HX7/?tag=tolees-21'
 descuento: '57.74'
+average: '25.35'
 ---
 
 Está [edc by Esprit 097cc1i058  Chaqueta Punto Mujer  Azul  Navy 400   Small](https://www.amazon.es/dp/B072BZ3HX7/?tag=tolees-21) con 57.74 de descuento por 25.35 EUR (original: 59.99 EUR) en el siguiente enlace!

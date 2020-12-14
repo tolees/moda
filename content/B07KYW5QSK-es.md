@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KYW5QSK/?tag=tolees-21'
 descuento: '57.57'
+average: '21.21'
 ---
 
 Tienes [Cortefiel C6K Estruc Nat-Strch S-Ca Camisa de Vestir   Azul Marino 10   Medium  Tamaño del Fabricante:M  para Hombre](https://www.amazon.es/dp/B07KYW5QSK/?tag=tolees-21) con un 57.57 % de descuento con precio de oferta de 21.21 EUR (original: 49.99 EUR) en el siguiente enlace!

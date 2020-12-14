@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B003TFEDOM/?tag=tolees-21'
 descuento: '66.75'
+average: '39.9'
 ---
 
 Tienes [Timberland Authentic 6" - Botas para Niños  Marrón  Medium Brown   35 EU](https://www.amazon.es/dp/B003TFEDOM/?tag=tolees-21) con un 66.75 % de descuento con precio de oferta de 39.9 EUR (original: 120 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B008ODLBU8/?tag=tolees-21'
 descuento: '27.05'
+average: '24'
 ---
 
 Está [Crocs Crocband Sandal Kids  Sandalias Unisex Niños  Azul  Navy/Red   32/33 EU](https://www.amazon.es/dp/B008ODLBU8/?tag=tolees-21) con 27.05 de descuento por 24 EUR (original: 32.9 EUR) en el siguiente enlace!

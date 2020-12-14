@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00JBSAVPQ/?tag=tolees-21'
 descuento: '64.33'
+average: '15.95'
 ---
 
 Tienes [Kempa Jacke - Chaqueta de Presentación para Hombre  color verde  talla L](https://www.amazon.es/dp/B00JBSAVPQ/?tag=tolees-21) con un 64.33 % de descuento con precio de oferta de 15.95 EUR (original: 44.71 EUR) en el siguiente enlace!

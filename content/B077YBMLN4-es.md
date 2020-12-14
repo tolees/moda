@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077YBMLN4/?tag=tolees-21'
 descuento: '40.00'
+average: '35.97'
 ---
 
 Tienes [HIKARO Chaqueta con Cremallera Mujer  Gris  Charcoal   48  Talla del fabricante: XXX-Large ](https://www.amazon.es/dp/B077YBMLN4/?tag=tolees-21) con un 40.00 % de descuento con precio de oferta de 35.97 EUR (original: 59.95 EUR) en el siguiente enlace!

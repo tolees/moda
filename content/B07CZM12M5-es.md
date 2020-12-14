@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CZM12M5/?tag=tolees-21'
 descuento: '61.71'
+average: '45.95'
 ---
 
 Tienes [Under Armour Accelerate Terrace Jacket Chaqueta  Hombre  Gris  Pitch Gray/Onyx White 012   XXL](https://www.amazon.es/dp/B07CZM12M5/?tag=tolees-21) con un 61.71 % de descuento con precio de oferta de 45.95 EUR (original: 119.99 EUR) en el siguiente enlace!

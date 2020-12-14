@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B004S0XBU4/?tag=tolees-21'
 descuento: '87.08'
+average: '11.35'
 ---
 
 Ahora mismo tienes [Mascot Bolzano Chaqueta Pilot XS  color verde/azul  00922 – 620 – 31](https://www.amazon.es/dp/B004S0XBU4/?tag=tolees-21) a 11.35 EUR (original: 87.88 EUR) (87.08 %  de descuento) en el siguiente enlace!

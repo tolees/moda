@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GVM4L67/?tag=tolees-21'
 descuento: '50.01'
+average: '19.99'
 ---
 
 Tienes [JACK & JONES Jorshakedowns Sweat Zip Hood  Sudadera para Hombre  Azul  Total Eclipse   Talla del Fabricante: Medium Herstellergr M](https://www.amazon.es/dp/B07GVM4L67/?tag=tolees-21) con un 50.01 % de descuento con precio de oferta de 19.99 EUR (original: 39.99 EUR) en el siguiente enlace!

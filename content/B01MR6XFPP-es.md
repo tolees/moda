@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MR6XFPP/?tag=tolees-21'
 descuento: '52.02'
+average: '14.39'
 ---
 
 Está [Only Onlsara Cropped Offshoulder Top Wvn  Blusa Mujer  Azul  Infinity Infinity   38](https://www.amazon.es/dp/B01MR6XFPP/?tag=tolees-21) con 52.02 de descuento por 14.39 EUR (original: 29.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01LYOF9HK/?tag=tolees-21'
 descuento: '59.02'
+average: '52.87'
 ---
 
 Está [Geographical Norway WN060H  Chaqueta de Videojuegos para Hombre  Rojo M](https://www.amazon.es/dp/B01LYOF9HK/?tag=tolees-21) con 59.02 de descuento por 52.87 EUR (original: 129 EUR) en el siguiente enlace!

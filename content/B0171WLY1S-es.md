@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0171WLY1S/?tag=tolees-21'
 descuento: '90.05'
+average: '8.35'
 ---
 
 Está [Skunk Funk Vestido Veva Burdeos ES 36](https://www.amazon.es/dp/B0171WLY1S/?tag=tolees-21) con 90.05 de descuento por 8.35 EUR (original: 83.95 EUR) en el siguiente enlace!

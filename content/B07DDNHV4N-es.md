@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DDNHV4N/?tag=tolees-21'
 descuento: '35.09'
+average: '12.95'
 ---
 
 Ahora mismo tienes [Puma Popcat  Zapatos de Playa y Piscina Unisex Adulto  Rojo  Hibiscus White 45   35.5 EU](https://www.amazon.es/dp/B07DDNHV4N/?tag=tolees-21) a 12.95 EUR (original: 19.95 EUR) (35.09 %  de descuento) en el siguiente enlace!

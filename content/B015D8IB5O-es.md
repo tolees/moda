@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B015D8IB5O/?tag=tolees-21'
 descuento: '31.21'
+average: '15.1'
 ---
 
 Está [adidas Techfit Base - Camiseta de manga corta para hombre  Blanco  White   M](https://www.amazon.es/dp/B015D8IB5O/?tag=tolees-21) con 31.21 de descuento por 15.1 EUR (original: 21.95 EUR) en el siguiente enlace!

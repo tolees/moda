@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MCZWRDJ/?tag=tolees-21'
 descuento: '77.55'
+average: '16.84'
 ---
 
 Está [Pepe Jeans Renata  Blusa Mujer  Multicolor  Multi   40  Talla del fabricante: Medium ](https://www.amazon.es/dp/B01MCZWRDJ/?tag=tolees-21) con 77.55 de descuento por 16.84 EUR (original: 75 EUR) en el siguiente enlace!

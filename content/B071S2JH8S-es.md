@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071S2JH8S/?tag=tolees-21'
 descuento: '53.77'
+average: '13.87'
 ---
 
 Tienes [Under Armour HG Armour Mesh Back Tank Camiseta sin Mangas  Mujer  Verde  716   M](https://www.amazon.es/dp/B071S2JH8S/?tag=tolees-21) con un 53.77 % de descuento con precio de oferta de 13.87 EUR (original: 30 EUR) en el siguiente enlace!

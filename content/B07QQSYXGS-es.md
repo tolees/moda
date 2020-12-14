@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07QQSYXGS/?tag=tolees-21'
 descuento: '52.41'
+average: '9.99'
 ---
 
 Está [SLIMBELLE Mujer Camiseta de Tirantes con Encaje Correas de Hombro Ajustables con Cuello en V Chaleco Básico para Copa A-C](https://www.amazon.es/dp/B07QQSYXGS/?tag=tolees-21) con 52.41 de descuento por 9.99 EUR (original: 20.99 EUR) en el siguiente enlace!

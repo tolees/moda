@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FR64YBJ/?tag=tolees-21'
 descuento: '40.36'
+average: '32.77'
 ---
 
 Ahora mismo tienes [Clarks Step Beat Sun  Sandalias Punta Cerrada para Hombre  Azul  Navy-   41 EU](https://www.amazon.es/dp/B07FR64YBJ/?tag=tolees-21) a 32.77 EUR (original: 54.95 EUR) (40.36 %  de descuento) en el siguiente enlace!

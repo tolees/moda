@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071GTFRJ8/?tag=tolees-21'
 descuento: '43.83'
+average: '79.47'
 ---
 
 Está [adidas TV Down JK Chaqueta Línea Real Madrid FC  Hombre  Negro  S](https://www.amazon.es/dp/B071GTFRJ8/?tag=tolees-21) con 43.83 de descuento por 79.47 EUR (original: 141.48 EUR) en el siguiente enlace!

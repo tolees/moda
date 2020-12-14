@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HFWDQXD/?tag=tolees-21'
 descuento: '54.57'
+average: '9.99'
 ---
 
 Está [Guantes de Invierno Cooolla Cálidos guantes de Moto al Aire Libre Guantes para Pantalla Táctil](https://www.amazon.es/dp/B07HFWDQXD/?tag=tolees-21) con 54.57 de descuento por 9.99 EUR (original: 21.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JK9NR9M/?tag=tolees-21'
 descuento: '84.51'
+average: '34.07'
 ---
 
 Está [Seven for all Mankind International SAGL Mid Rise Roxanne Crop Vaqueros  Azul  Slim Illusion Luxe Fairfax 0bi   W27/L28  Talla del Fabricante: 27  para Mujer](https://www.amazon.es/dp/B07JK9NR9M/?tag=tolees-21) con 84.51 de descuento por 34.07 EUR (original: 220 EUR) en el siguiente enlace!

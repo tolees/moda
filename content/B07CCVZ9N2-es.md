@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CCVZ9N2/?tag=tolees-21'
 descuento: '79.76'
+average: '20.23'
 ---
 
 Tienes [Lee Scarlett Vaqueros Skinny  Azul  Blue Drop Em   27W / 35L para Mujer](https://www.amazon.es/dp/B07CCVZ9N2/?tag=tolees-21) con un 79.76 % de descuento con precio de oferta de 20.23 EUR (original: 99.95 EUR) en el siguiente enlace!

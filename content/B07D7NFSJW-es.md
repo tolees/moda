@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D7NFSJW/?tag=tolees-21'
 descuento: '55.65'
+average: '53.18'
 ---
 
 Ahora mismo tienes [Dolores Promesas 107391 Blusa  Amarillo Naran   Tamaño del Fabricante:42  para Mujer](https://www.amazon.es/dp/B07D7NFSJW/?tag=tolees-21) a 53.18 EUR (original: 119.9 EUR) (55.65 %  de descuento) en el siguiente enlace!

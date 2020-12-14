@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00QO14OYW/?tag=tolees-21'
 descuento: '71.13'
+average: '125.02'
 ---
 
 Ahora mismo tienes [Armani Giorgio 0AR6017TK 30848E 54 Gafas de Sol  Dorado  Gold Plated/Green   Hombre](https://www.amazon.es/dp/B00QO14OYW/?tag=tolees-21) a 125.02 EUR (original: 433 EUR) (71.13 %  de descuento) en el siguiente enlace!

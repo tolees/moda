@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075QDSL7T/?tag=tolees-21'
 descuento: '62.62'
+average: '20.56'
 ---
 
 Está [TRUTH & FABLE Zapatos de Dama de Honor Mujer  Dorado  Gold   36 EU](https://www.amazon.es/dp/B075QDSL7T/?tag=tolees-21) con 62.62 de descuento por 20.56 EUR (original: 55 EUR) en el siguiente enlace!

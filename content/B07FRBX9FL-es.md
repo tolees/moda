@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FRBX9FL/?tag=tolees-21'
 descuento: '65.90'
+average: '34.08'
 ---
 
 Está [Clarks Edward Walk  Zapatos de Cordones Derby para Hombre  Marrón  Tan Leather-   42.5 EU](https://www.amazon.es/dp/B07FRBX9FL/?tag=tolees-21) con 65.90 de descuento por 34.08 EUR (original: 99.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MZGMLR1/?tag=tolees-21'
 descuento: '54.84'
+average: '17.95'
 ---
 
 Ahora mismo tienes [Superdry Premium Goods Duo Lite tee Camiseta  Blanco  Optic 01c   L para Hombre](https://www.amazon.es/dp/B07MZGMLR1/?tag=tolees-21) a 17.95 EUR (original: 39.75 EUR) (54.84 %  de descuento) en el siguiente enlace!

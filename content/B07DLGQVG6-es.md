@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DLGQVG6/?tag=tolees-21'
 descuento: '54.92'
+average: '13.52'
 ---
 
 Está [Springfield 4.2.J.Ap.T.Jersey Rayas Cha  Jersey para Mujer   Gama Grises 43   Small  Tamaño del Fabricante:S ](https://www.amazon.es/dp/B07DLGQVG6/?tag=tolees-21) con 54.92 de descuento por 13.52 EUR (original: 29.99 EUR) en el siguiente enlace!

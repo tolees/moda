@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KRSTL5G/?tag=tolees-21'
 descuento: '54.37'
+average: '36.48'
 ---
 
 Tienes [Art 1301 Grass White-Jeans/I Explore  Sandalias con Punta Cerrada para Hombre  Blanco  38 EU](https://www.amazon.es/dp/B07KRSTL5G/?tag=tolees-21) con un 54.37 % de descuento con precio de oferta de 36.48 EUR (original: 79.95 EUR) en el siguiente enlace!

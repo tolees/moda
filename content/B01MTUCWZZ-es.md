@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MTUCWZZ/?tag=tolees-21'
 descuento: '28.73'
+average: '30.58'
 ---
 
 Está [BILLABONG Balance Crew - Sudadera para Hombre  Hombre  Balance Crew  Red Clay  Large](https://www.amazon.es/dp/B01MTUCWZZ/?tag=tolees-21) con 28.73 de descuento por 30.58 EUR (original: 42.91 EUR) en el siguiente enlace!

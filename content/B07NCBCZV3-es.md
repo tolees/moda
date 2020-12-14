@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07NCBCZV3/?tag=tolees-21'
 descuento: '34.98'
+average: '58.45'
 ---
 
 Está [Pepe Jeans Finsbury Vaqueros Pitillo Hombre  Gris  Wiser Wash Grey Used Denim Wy0   W36/L34 para](https://www.amazon.es/dp/B07NCBCZV3/?tag=tolees-21) con 34.98 de descuento por 58.45 EUR (original: 89.9 EUR) en el siguiente enlace!

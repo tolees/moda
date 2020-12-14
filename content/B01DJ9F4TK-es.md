@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01DJ9F4TK/?tag=tolees-21'
 descuento: '62.23'
+average: '6.75'
 ---
 
 Ahora mismo tienes [Jako - Camiseta para Mujer  Cuello En V  Marine  36  6113](https://www.amazon.es/dp/B01DJ9F4TK/?tag=tolees-21) a 6.75 EUR (original: 17.87 EUR) (62.23 %  de descuento) en el siguiente enlace!

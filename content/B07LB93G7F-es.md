@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07LB93G7F/?tag=tolees-21'
 descuento: '55.38'
+average: '100'
 ---
 
 Ahora mismo tienes [Love Moschino - Borsa Pu  Bolso de mano Mujer  Marfil  Avorio   7x18x29 cm  W x H L ](https://www.amazon.es/dp/B07LB93G7F/?tag=tolees-21) a 100 EUR (original: 224.1 EUR) (55.38 %  de descuento) en el siguiente enlace!

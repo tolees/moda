@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074NB2DS2/?tag=tolees-21'
 descuento: '64.49'
+average: '21.3'
 ---
 
 Tienes [edc by Esprit 107cc1j010  Sudadera para Mujer  Azul  Turquoise 5 474   Medium](https://www.amazon.es/dp/B074NB2DS2/?tag=tolees-21) con un 64.49 % de descuento con precio de oferta de 21.3 EUR (original: 59.99 EUR) en el siguiente enlace!

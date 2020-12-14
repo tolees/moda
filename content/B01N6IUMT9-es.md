@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N6IUMT9/?tag=tolees-21'
 descuento: '76.66'
+average: '14.56'
 ---
 
 Está [s.Oliver 13703713842  Vaqueros Straight para Hombre  Azul  Blue Denim Non Stretch Blau 52Y4   31W x 30L](https://www.amazon.es/dp/B01N6IUMT9/?tag=tolees-21) con 76.66 de descuento por 14.56 EUR (original: 62.37 EUR) en el siguiente enlace!

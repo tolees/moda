@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06VTZFJWV/?tag=tolees-21'
 descuento: '67.72'
+average: '112.97'
 ---
 
 Tienes [Helly Hansen HP Foil Chaleco  Hombre   Rojo 222   Small  Tamaño del Fabricante:S ](https://www.amazon.es/dp/B06VTZFJWV/?tag=tolees-21) con un 67.72 % de descuento con precio de oferta de 112.97 EUR (original: 350 EUR) en el siguiente enlace!

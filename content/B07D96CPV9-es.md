@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D96CPV9/?tag=tolees-21'
 descuento: '61.58'
+average: '19.19'
 ---
 
 Está [XTI 30952  Botines para Mujer  Morado Burdeos  39 EU](https://www.amazon.es/dp/B07D96CPV9/?tag=tolees-21) con 61.58 de descuento por 19.19 EUR (original: 49.95 EUR) en el siguiente enlace!

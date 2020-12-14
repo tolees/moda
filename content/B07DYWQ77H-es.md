@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DYWQ77H/?tag=tolees-21'
 descuento: '49.59'
+average: '25.2'
 ---
 
 Tienes [Columbia Fast Trek II Full Zip Fleece Chaqueta Forro Polar  Hombre  Gris  Boulder/Red Element   Talla XXL](https://www.amazon.es/dp/B07DYWQ77H/?tag=tolees-21) con un 49.59 % de descuento con precio de oferta de 25.2 EUR (original: 49.99 EUR) en el siguiente enlace!

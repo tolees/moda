@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07PBKTPC7/?tag=tolees-21'
 descuento: '51.53'
+average: '13'
 ---
 
 Ahora mismo tienes [New Look Petite Mixed Animal Vestido  Marrón  Brown Pattern 29   38  Talla del Fabricante: 10  para Mujer](https://www.amazon.es/dp/B07PBKTPC7/?tag=tolees-21) a 13 EUR (original: 26.82 EUR) (51.53 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F12WXS4/?tag=tolees-21'
 descuento: '54.86'
+average: '31.6'
 ---
 
 Ahora mismo tienes [BILLABONG All Day Sherpa Zh Bo Jersey  Niños  Azul  Navy 21   años  Tamaño del Fabricante:16 ](https://www.amazon.es/dp/B07F12WXS4/?tag=tolees-21) a 31.6 EUR (original: 70 EUR) (54.86 %  de descuento) en el siguiente enlace!

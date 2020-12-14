@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DL79TGP/?tag=tolees-21'
 descuento: '67.36'
+average: '9.79'
 ---
 
 Ahora mismo tienes [Springfield 5Wo Polo M/L Raya Vertic. Jersey  Hombre  Azul  Gama Azules 11   X-Large  Tamaño del Fabricante:XL ](https://www.amazon.es/dp/B07DL79TGP/?tag=tolees-21) a 9.79 EUR (original: 29.99 EUR) (67.36 %  de descuento) en el siguiente enlace!

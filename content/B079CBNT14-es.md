@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079CBNT14/?tag=tolees-21'
 descuento: '53.64'
+average: '6.95'
 ---
 
 Tienes [JACK & JONES Jjebas tee SS U-Neck Noos Camiseta  Blanco  Cloud Dancer Detail: Reg Fit   X-Large para Hombre](https://www.amazon.es/dp/B079CBNT14/?tag=tolees-21) con un 53.64 % de descuento con precio de oferta de 6.95 EUR (original: 14.99 EUR) en el siguiente enlace!

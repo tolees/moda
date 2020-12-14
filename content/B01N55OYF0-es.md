@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N55OYF0/?tag=tolees-21'
 descuento: '49.39'
+average: '35.4'
 ---
 
 Ahora mismo tienes [Geox Jr Sandal Kraze D  Sandalias Punta Cerrada para Niños  Azul  Navy/avioc0700   33 EU](https://www.amazon.es/dp/B01N55OYF0/?tag=tolees-21) a 35.4 EUR (original: 69.95 EUR) (49.39 %  de descuento) en el siguiente enlace!

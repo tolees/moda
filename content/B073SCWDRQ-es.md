@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073SCWDRQ/?tag=tolees-21'
 descuento: '67.58'
+average: '3.89'
 ---
 
 Está [FIND Camiseta Bronx para Hombre  Azul  Majolica Blue 002   XX-Large](https://www.amazon.es/dp/B073SCWDRQ/?tag=tolees-21) con 67.58 de descuento por 3.89 EUR (original: 12 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F1SNTJR/?tag=tolees-21'
 descuento: '50.00'
+average: '3'
 ---
 
 Ahora mismo tienes [New Look Crew  Camiseta para Hombre  Rojo  Dark Burgundy 67  Small](https://www.amazon.es/dp/B07F1SNTJR/?tag=tolees-21) a 3 EUR (original: 6 EUR) (50.00 %  de descuento) en el siguiente enlace!

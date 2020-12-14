@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079RQS1CX/?tag=tolees-21'
 descuento: '60.00'
+average: '34'
 ---
 
 Ahora mismo tienes [Pepe Jeans Hiddleston PM305474  Camisa para Hombre  Azul  Indigo 561  Small](https://www.amazon.es/dp/B079RQS1CX/?tag=tolees-21) a 34 EUR (original: 85 EUR) (60.00 %  de descuento) en el siguiente enlace!

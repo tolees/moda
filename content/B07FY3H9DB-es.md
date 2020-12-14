@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FY3H9DB/?tag=tolees-21'
 descuento: '58.54'
+average: '24.87'
 ---
 
 Está [Seidensticker Modern Kurzarm Mit Kent Kragen Bügelfrei  Camisa Hombre  Azul  Hellblau 13   40  Talla del Fabricante: 38 ](https://www.amazon.es/dp/B07FY3H9DB/?tag=tolees-21) con 58.54 de descuento por 24.87 EUR (original: 59.99 EUR) en el siguiente enlace!

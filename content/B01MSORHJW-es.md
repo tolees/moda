@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MSORHJW/?tag=tolees-21'
 descuento: '32.58'
+average: '13.45'
 ---
 
 Está [Levi s kids Short Sleeves Batwin T-Shirt  Camiseta Niñas  Negro  Caviar 02   16 años  Talla del Fabricante: 16A ](https://www.amazon.es/dp/B01MSORHJW/?tag=tolees-21) con 32.58 de descuento por 13.45 EUR (original: 19.95 EUR) en el siguiente enlace!

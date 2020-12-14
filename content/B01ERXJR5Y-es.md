@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01ERXJR5Y/?tag=tolees-21'
 descuento: '56.43'
+average: '6.95'
 ---
 
 Tienes [Joma - Camiseta Record II Woman Rosa-Negro s/m para Mujer](https://www.amazon.es/dp/B01ERXJR5Y/?tag=tolees-21) con un 56.43 % de descuento con precio de oferta de 6.95 EUR (original: 15.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D9FLDVY/?tag=tolees-21'
 descuento: '69.25'
+average: '15.36'
 ---
 
 Está [XTI 30952  Botines para Mujer  Negro  Black   41 EU](https://www.amazon.es/dp/B07D9FLDVY/?tag=tolees-21) con 69.25 de descuento por 15.36 EUR (original: 49.95 EUR) en el siguiente enlace!

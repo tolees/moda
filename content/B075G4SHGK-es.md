@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075G4SHGK/?tag=tolees-21'
 descuento: '52.94'
+average: '100.15'
 ---
 
 Está [Gipsy by Mauritius Young SF LAWOV  Chaqueta para Hombre  Negro  Black 000  Large](https://www.amazon.es/dp/B075G4SHGK/?tag=tolees-21) con 52.94 de descuento por 100.15 EUR (original: 212.81 EUR) en el siguiente enlace!

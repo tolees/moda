@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N6M29EH/?tag=tolees-21'
 descuento: '76.57'
+average: '22.26'
 ---
 
 Tienes [Pepe Jeans Saturn Vaqueros  Azul  10Oz Stretch Ultra Dk H06   25W / 32L para Mujer](https://www.amazon.es/dp/B01N6M29EH/?tag=tolees-21) con un 76.57 % de descuento con precio de oferta de 22.26 EUR (original: 95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07C3TXBQ2/?tag=tolees-21'
 descuento: '57.63'
+average: '41.95'
 ---
 
 Tienes [Pepe Jeans Hatch  Vaqueros Slim para Hombre  Azul  Wiser Wash Denim WX1   W32/L32](https://www.amazon.es/dp/B07C3TXBQ2/?tag=tolees-21) con un 57.63 % de descuento con precio de oferta de 41.95 EUR (original: 99 EUR) en el siguiente enlace!

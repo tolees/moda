@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FSDK9PF/?tag=tolees-21'
 descuento: '41.46'
+average: '32.17'
 ---
 
 Está [Clarks Arla Jacory  Sandalias de Talón Abierto para Mujer  Verde  Olive-   37.5 EU](https://www.amazon.es/dp/B07FSDK9PF/?tag=tolees-21) con 41.46 de descuento por 32.17 EUR (original: 54.95 EUR) en el siguiente enlace!

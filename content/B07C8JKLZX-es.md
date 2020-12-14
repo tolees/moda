@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07C8JKLZX/?tag=tolees-21'
 descuento: '44.43'
+average: '3.99'
 ---
 
 Tienes [Homyl Dulce Camiseta de Manga Corta + Falda de Moda para 16 Pulgadas Muñeca de Salón](https://www.amazon.es/dp/B07C8JKLZX/?tag=tolees-21) con un 44.43 % de descuento con precio de oferta de 3.99 EUR (original: 7.18 EUR) en el siguiente enlace!

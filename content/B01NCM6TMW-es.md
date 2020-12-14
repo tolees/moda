@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01NCM6TMW/?tag=tolees-21'
 descuento: '66.45'
+average: '12.75'
 ---
 
 Está [a40grados Sport & Style Caramelo Basic Camiseta de Tirantes  Mujer  Blanco  S](https://www.amazon.es/dp/B01NCM6TMW/?tag=tolees-21) con 66.45 de descuento por 12.75 EUR (original: 38 EUR) en el siguiente enlace!

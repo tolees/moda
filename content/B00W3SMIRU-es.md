@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00W3SMIRU/?tag=tolees-21'
 descuento: '55.17'
+average: '15.4'
 ---
 
 Tienes [Joma - Chaqueta Terra Royal-Blanco Woman para Mujer](https://www.amazon.es/dp/B00W3SMIRU/?tag=tolees-21) con un 55.17 % de descuento con precio de oferta de 15.4 EUR (original: 34.35 EUR) en el siguiente enlace!

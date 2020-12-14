@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071NGZFSP/?tag=tolees-21'
 descuento: '54.47'
+average: '56.91'
 ---
 
 Ahora mismo tienes [Volcom Yorkstone Chaqueta  Hombre  Negro  M](https://www.amazon.es/dp/B071NGZFSP/?tag=tolees-21) a 56.91 EUR (original: 125 EUR) (54.47 %  de descuento) en el siguiente enlace!

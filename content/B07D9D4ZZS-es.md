@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D9D4ZZS/?tag=tolees-21'
 descuento: '74.11'
+average: '12.93'
 ---
 
 Ahora mismo tienes [XTI 48495  Botines para Mujer  Negro Plomo  38 EU](https://www.amazon.es/dp/B07D9D4ZZS/?tag=tolees-21) a 12.93 EUR (original: 49.95 EUR) (74.11 %  de descuento) en el siguiente enlace!

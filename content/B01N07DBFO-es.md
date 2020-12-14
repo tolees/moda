@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N07DBFO/?tag=tolees-21'
 descuento: '33.61'
+average: '11.95'
 ---
 
 Ahora mismo tienes [Umbro Torch Pantalón Corto  Hombre  Azul Marino Oscuro  L](https://www.amazon.es/dp/B01N07DBFO/?tag=tolees-21) a 11.95 EUR (original: 18 EUR) (33.61 %  de descuento) en el siguiente enlace!

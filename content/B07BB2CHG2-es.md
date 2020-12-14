@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BB2CHG2/?tag=tolees-21'
 descuento: '50.00'
+average: '15'
 ---
 
 Ahora mismo tienes [The North Face T93L6M Camiseta De Manga Corta  Unisex niños  New Taupe Green  XS](https://www.amazon.es/dp/B07BB2CHG2/?tag=tolees-21) a 15 EUR (original: 30 EUR) (50.00 %  de descuento) en el siguiente enlace!

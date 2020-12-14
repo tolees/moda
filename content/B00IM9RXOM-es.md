@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00IM9RXOM/?tag=tolees-21'
 descuento: '45.41'
+average: '5.95'
 ---
 
 Tienes [Seac Flipper Gafas de natación para Piscina  Unisex niños  Azul  Small](https://www.amazon.es/dp/B00IM9RXOM/?tag=tolees-21) con un 45.41 % de descuento con precio de oferta de 5.95 EUR (original: 10.9 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01AC6PAUG/?tag=tolees-21'
 descuento: '44.81'
+average: '11.59'
 ---
 
 Está [Nike Park VI Camiseta de Manga Corta para hombre  Blanco  White/Black   L](https://www.amazon.es/dp/B01AC6PAUG/?tag=tolees-21) con 44.81 de descuento por 11.59 EUR (original: 21 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00V4R3KB4/?tag=tolees-21'
 descuento: '41.79'
+average: '20.89'
 ---
 
 Ahora mismo tienes [Bolso Bandolera  Coofit Bolsos Mujer y Hombre Lona Bolso de Hombro Bolso Shopper Callejero Bag](https://www.amazon.es/dp/B00V4R3KB4/?tag=tolees-21) a 20.89 EUR (original: 35.89 EUR) (41.79 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HFGRL1T/?tag=tolees-21'
 descuento: '60.11'
+average: '31.87'
 ---
 
 Ahora mismo tienes [Tommy Hilfiger Slim Multi Check Shirt  Camisa Hombre  Azul  Sky Captain/ 902   Medium](https://www.amazon.es/dp/B07HFGRL1T/?tag=tolees-21) a 31.87 EUR (original: 79.9 EUR) (60.11 %  de descuento) en el siguiente enlace!

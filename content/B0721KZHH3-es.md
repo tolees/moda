@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0721KZHH3/?tag=tolees-21'
 descuento: '42.42'
+average: '12.12'
 ---
 
 Está [Reef Machado Day Prints Olive Coral  Chanclas para Hombre  OCO  47 EU](https://www.amazon.es/dp/B0721KZHH3/?tag=tolees-21) con 42.42 de descuento por 12.12 EUR (original: 21.05 EUR) en el siguiente enlace!

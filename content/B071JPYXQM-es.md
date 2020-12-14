@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071JPYXQM/?tag=tolees-21'
 descuento: '44.45'
+average: '58.49'
 ---
 
 Ahora mismo tienes [Merrell Vapor Guante 3 Zapatilla De Correr para Tierra - 41.5](https://www.amazon.es/dp/B071JPYXQM/?tag=tolees-21) a 58.49 EUR (original: 105.29 EUR) (44.45 %  de descuento) en el siguiente enlace!

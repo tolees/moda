@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MQMRYEF/?tag=tolees-21'
 descuento: '50.61'
+average: '39.49'
 ---
 
 Está [Wrangler Skinny  Vaqueros Skinny  Mujer  Negro  Black   W26/L32](https://www.amazon.es/dp/B01MQMRYEF/?tag=tolees-21) con 50.61 de descuento por 39.49 EUR (original: 79.95 EUR) en el siguiente enlace!

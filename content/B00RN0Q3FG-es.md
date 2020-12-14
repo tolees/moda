@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00RN0Q3FG/?tag=tolees-21'
 descuento: '48.04'
+average: '12.99'
 ---
 
 Tienes [Nike M Nk Dry Tee Dfc 2.0 Camiseta de manga corta  Hombre  Azul  Obsidian/Matte Silver   XL](https://www.amazon.es/dp/B00RN0Q3FG/?tag=tolees-21) con un 48.04 % de descuento con precio de oferta de 12.99 EUR (original: 25 EUR) en el siguiente enlace!

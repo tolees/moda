@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D9TTBXF/?tag=tolees-21'
 descuento: '65.16'
+average: '26.11'
 ---
 
 Está [Mustang Booty  Botines para Mujer  Gris  Graphit 259   37 EU](https://www.amazon.es/dp/B07D9TTBXF/?tag=tolees-21) con 65.16 de descuento por 26.11 EUR (original: 74.95 EUR) en el siguiente enlace!

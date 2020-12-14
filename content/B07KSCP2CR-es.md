@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KSCP2CR/?tag=tolees-21'
 descuento: '25.63'
+average: '2.93'
 ---
 
 Tienes [Cebbay Conjuntos de lencería para Mujer Liquidación Gran tamaño de Ropa Interior de Encaje Vestido de bebé Abre hacia atrás Pijamas Vestido de Noche Chemise Pijamas Negro  x-Large ](https://www.amazon.es/dp/B07KSCP2CR/?tag=tolees-21) con un 25.63 % de descuento con precio de oferta de 2.93 EUR (original: 3.94 EUR) en el siguiente enlace!

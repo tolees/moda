@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01J3JFVP2/?tag=tolees-21'
 descuento: '50.25'
+average: '24.85'
 ---
 
 Tienes [Columbia Sudadera CSC Check The Buffalo Crew Gris Claro S](https://www.amazon.es/dp/B01J3JFVP2/?tag=tolees-21) con un 50.25 % de descuento con precio de oferta de 24.85 EUR (original: 49.95 EUR) en el siguiente enlace!

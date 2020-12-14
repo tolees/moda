@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00LLYO9QU/?tag=tolees-21'
 descuento: '83.79'
+average: '14.57'
 ---
 
 Tienes [Urban Classics Chaqueta Burdeos M](https://www.amazon.es/dp/B00LLYO9QU/?tag=tolees-21) con un 83.79 % de descuento con precio de oferta de 14.57 EUR (original: 89.9 EUR) en el siguiente enlace!

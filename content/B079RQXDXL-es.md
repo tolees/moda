@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079RQXDXL/?tag=tolees-21'
 descuento: '76.32'
+average: '17.76'
 ---
 
 Está [Pepe Jeans Gala PL303160  Blusa para Mujer   Multi 0Aa   Medium](https://www.amazon.es/dp/B079RQXDXL/?tag=tolees-21) con 76.32 de descuento por 17.76 EUR (original: 75 EUR) en el siguiente enlace!

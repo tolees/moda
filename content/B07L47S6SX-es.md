@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07L47S6SX/?tag=tolees-21'
 descuento: '30.00'
+average: '14'
 ---
 
 Tienes [AURIQUE Capri Stripe Leggings Deporte Negro  Black/Grey Marl  36  Talla del Fabricante: X-Small ](https://www.amazon.es/dp/B07L47S6SX/?tag=tolees-21) con un 30.00 % de descuento con precio de oferta de 14 EUR (original: 20 EUR) en el siguiente enlace!

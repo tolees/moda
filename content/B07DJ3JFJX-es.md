@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DJ3JFJX/?tag=tolees-21'
 descuento: '62.08'
+average: '37.88'
 ---
 
 Está [Geox D Tahina C  Zapatillas para Mujer  Coral/White C7204  39 EU](https://www.amazon.es/dp/B07DJ3JFJX/?tag=tolees-21) con 62.08 de descuento por 37.88 EUR (original: 99.9 EUR) en el siguiente enlace!

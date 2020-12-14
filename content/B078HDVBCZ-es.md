@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078HDVBCZ/?tag=tolees-21'
 descuento: '57.27'
+average: '15.38'
 ---
 
 Tienes [Springfield 7953208  Vestido para Mujer   Gama Rojo    Tamaño del Fabricante:36 ](https://www.amazon.es/dp/B078HDVBCZ/?tag=tolees-21) con un 57.27 % de descuento con precio de oferta de 15.38 EUR (original: 35.99 EUR) en el siguiente enlace!

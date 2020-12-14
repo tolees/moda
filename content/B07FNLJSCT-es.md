@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FNLJSCT/?tag=tolees-21'
 descuento: '61.51'
+average: '5'
 ---
 
 Está [JACK & JONES Jacmix Solid Trunks Noos  Bóxer para Hombre  Rojo Rosewood  X-Large](https://www.amazon.es/dp/B07FNLJSCT/?tag=tolees-21) con 61.51 de descuento por 5 EUR (original: 12.99 EUR) en el siguiente enlace!

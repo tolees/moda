@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079HX35TC/?tag=tolees-21'
 descuento: '76.92'
+average: '9.22'
 ---
 
 Tienes [Tom Tailor 5870503  Botines para Niñas  Verde  Khaki 00007   27 EU](https://www.amazon.es/dp/B079HX35TC/?tag=tolees-21) con un 76.92 % de descuento con precio de oferta de 9.22 EUR (original: 39.95 EUR) en el siguiente enlace!

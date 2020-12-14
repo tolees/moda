@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FP1H6X1/?tag=tolees-21'
 descuento: '53.46'
+average: '27.92'
 ---
 
 Tienes [RIP CURL Essential Surfers Fleece Sudadera  Hombre  Night Sky Marle  XL](https://www.amazon.es/dp/B07FP1H6X1/?tag=tolees-21) con un 53.46 % de descuento con precio de oferta de 27.92 EUR (original: 59.99 EUR) en el siguiente enlace!

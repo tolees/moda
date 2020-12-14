@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0752BGHGX/?tag=tolees-21'
 descuento: '59.98'
+average: '48'
 ---
 
 Ahora mismo tienes [G-STAR RAW Midge Zip Mid Waist Skinny Vaqueros  Negro  Rinsed 8970-082   31W / 34L para Mujer](https://www.amazon.es/dp/B0752BGHGX/?tag=tolees-21) a 48 EUR (original: 119.95 EUR) (59.98 %  de descuento) en el siguiente enlace!

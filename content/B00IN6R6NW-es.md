@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00IN6R6NW/?tag=tolees-21'
 descuento: '73.41'
+average: '11.95'
 ---
 
 Tienes [X-Loop Aurora Gafas de Sol Polarizadas - Deporte - Esqui - Ciclismo - UV400  UVA y UVB ](https://www.amazon.es/dp/B00IN6R6NW/?tag=tolees-21) con un 73.41 % de descuento con precio de oferta de 11.95 EUR (original: 44.95 EUR) en el siguiente enlace!

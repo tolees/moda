@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077HK4LJM/?tag=tolees-21'
 descuento: '63.06'
+average: '16.99'
 ---
 
 Tienes [NHEIMA Faja Reductora Hombre Adelgazante  Camiseta Termica Chaleco Hombre Trabajo de Neopreno con Cierre para Sudoración  Quema Grasa  Gym  Faja Deportiva Lumbar  L  Gris-Negro-02 ](https://www.amazon.es/dp/B077HK4LJM/?tag=tolees-21) con un 63.06 % de descuento con precio de oferta de 16.99 EUR (original: 45.99 EUR) en el siguiente enlace!

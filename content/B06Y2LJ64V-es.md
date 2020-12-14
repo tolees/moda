@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06Y2LJ64V/?tag=tolees-21'
 descuento: '65.92'
+average: '25.56'
 ---
 
 Tienes [Geox Jr Sofia C  Botas Estilo Motero para Niñas  Marrón  Bronze   32 EU](https://www.amazon.es/dp/B06Y2LJ64V/?tag=tolees-21) con un 65.92 % de descuento con precio de oferta de 25.56 EUR (original: 75 EUR) en el siguiente enlace!

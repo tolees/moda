@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XP7FQ9M/?tag=tolees-21'
 descuento: '55.84'
+average: '41.95'
 ---
 
 Está [Pepe Jeans Cane  Vaqueros Slim para Hombre  Azul  Dark Used Cb5   W31/L32](https://www.amazon.es/dp/B06XP7FQ9M/?tag=tolees-21) con 55.84 de descuento por 41.95 EUR (original: 95 EUR) en el siguiente enlace!

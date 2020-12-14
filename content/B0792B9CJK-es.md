@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0792B9CJK/?tag=tolees-21'
 descuento: '61.56'
+average: '51.89'
 ---
 
 Tienes [Geox U Sandford B ABX A  Zapatillas para Hombre   Dk Jeans C4322   44 EU](https://www.amazon.es/dp/B0792B9CJK/?tag=tolees-21) con un 61.56 % de descuento con precio de oferta de 51.89 EUR (original: 135 EUR) en el siguiente enlace!

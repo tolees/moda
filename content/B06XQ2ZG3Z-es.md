@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XQ2ZG3Z/?tag=tolees-21'
 descuento: '63.67'
+average: '25.41'
 ---
 
 Ahora mismo tienes [Desigual Jers_Adeline Chaqueta Punto  Negro 2000  X-Small para Mujer](https://www.amazon.es/dp/B06XQ2ZG3Z/?tag=tolees-21) a 25.41 EUR (original: 69.95 EUR) (63.67 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075RHDP8V/?tag=tolees-21'
 descuento: '55.55'
+average: '39.98'
 ---
 
 Ahora mismo tienes [GORE WEAR C3 Pantalón corto para hombre  S  negro](https://www.amazon.es/dp/B075RHDP8V/?tag=tolees-21) a 39.98 EUR (original: 89.95 EUR) (55.55 %  de descuento) en el siguiente enlace!

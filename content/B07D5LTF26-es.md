@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D5LTF26/?tag=tolees-21'
 descuento: '78.03'
+average: '8.57'
 ---
 
 Ahora mismo tienes [Nautica Open Water  Camiseta para Hombre  Azul  True Navy 4tn  Small  Tamaño del Fabricante:S ](https://www.amazon.es/dp/B07D5LTF26/?tag=tolees-21) a 8.57 EUR (original: 39 EUR) (78.03 %  de descuento) en el siguiente enlace!

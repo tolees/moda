@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073JQCB17/?tag=tolees-21'
 descuento: '60.00'
+average: '14'
 ---
 
 Tienes [find. Vestido de Punto Ajustado para Mujer  Azul  Navy Marl   36  Talla del Fabricante: X-Small ](https://www.amazon.es/dp/B073JQCB17/?tag=tolees-21) con un 60.00 % de descuento con precio de oferta de 14 EUR (original: 35 EUR) en el siguiente enlace!

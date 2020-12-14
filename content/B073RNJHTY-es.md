@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073RNJHTY/?tag=tolees-21'
 descuento: '50.06'
+average: '34.95'
 ---
 
 Está [RIP CURL Check IT LS Shirt Camisa  Hombre  Night Sky  XL](https://www.amazon.es/dp/B073RNJHTY/?tag=tolees-21) con 50.06 de descuento por 34.95 EUR (original: 69.99 EUR) en el siguiente enlace!

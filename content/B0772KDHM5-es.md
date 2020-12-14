@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0772KDHM5/?tag=tolees-21'
 descuento: '36.76'
+average: '9.48'
 ---
 
 Tienes [Iris & Lilly Braguita Estilo Bikini Body Smooth Mujer  Pack de 5  Beige  Natural 16-1310 Tcx    Talla del fabricante: Small ](https://www.amazon.es/dp/B0772KDHM5/?tag=tolees-21) con un 36.76 % de descuento con precio de oferta de 9.48 EUR (original: 14.99 EUR) en el siguiente enlace!

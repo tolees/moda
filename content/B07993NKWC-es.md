@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07993NKWC/?tag=tolees-21'
 descuento: '25.00'
+average: '18.75'
 ---
 
 Está [MERAKI Camisa Oxford Entallada Hombre  Camisa Hombre  Azul  Blue   Large](https://www.amazon.es/dp/B07993NKWC/?tag=tolees-21) con 25.00 de descuento por 18.75 EUR (original: 25 EUR) en el siguiente enlace!

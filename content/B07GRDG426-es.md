@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GRDG426/?tag=tolees-21'
 descuento: '46.97'
+average: '10.59'
 ---
 
 Está [New Look Ursula Blusa  Negro  Black Pattern   40  Talla del Fabricante: 12  para Mujer](https://www.amazon.es/dp/B07GRDG426/?tag=tolees-21) con 46.97 de descuento por 10.59 EUR (original: 19.97 EUR) en el siguiente enlace!

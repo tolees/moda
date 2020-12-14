@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07C8HLS8X/?tag=tolees-21'
 descuento: '76.63'
+average: '17.99'
 ---
 
 Ahora mismo tienes [Lifewit 15" Maletín para Portátil Bolso Bandolera Hombre Bolsa de Mensajero Maletines Cuero Vintage Marrón](https://www.amazon.es/dp/B07C8HLS8X/?tag=tolees-21) a 17.99 EUR (original: 76.99 EUR) (76.63 %  de descuento) en el siguiente enlace!

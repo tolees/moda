@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078G7PHT6/?tag=tolees-21'
 descuento: '61.07'
+average: '62.29'
 ---
 
 Está [Armani Exchange 6zya52  Vestido de Fiesta para Mujer  Negro  Black 1200  X-Small  Talla del Fabricante: 2 ](https://www.amazon.es/dp/B078G7PHT6/?tag=tolees-21) con 61.07 de descuento por 62.29 EUR (original: 160 EUR) en el siguiente enlace!

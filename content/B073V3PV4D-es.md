@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073V3PV4D/?tag=tolees-21'
 descuento: '72.36'
+average: '9.95'
 ---
 
 Ahora mismo tienes [WINGPADEL Camiseta W-Lisa Azul Blanco](https://www.amazon.es/dp/B073V3PV4D/?tag=tolees-21) a 9.95 EUR (original: 36 EUR) (72.36 %  de descuento) en el siguiente enlace!

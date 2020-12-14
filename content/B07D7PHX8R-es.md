@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D7PHX8R/?tag=tolees-21'
 descuento: '81.19'
+average: '30.08'
 ---
 
 Está [Dolores Promesas 107395  Vestido para Mujer  Amarillo Naran   Tamaño del Fabricante:42 ](https://www.amazon.es/dp/B07D7PHX8R/?tag=tolees-21) con 81.19 de descuento por 30.08 EUR (original: 159.9 EUR) en el siguiente enlace!

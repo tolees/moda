@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0055QL2WY/?tag=tolees-21'
 descuento: '75.08'
+average: '14.94'
 ---
 
 Tienes [Ultrasport Ski Guantes  Mujer  Morado/Negro  L](https://www.amazon.es/dp/B0055QL2WY/?tag=tolees-21) con un 75.08 % de descuento con precio de oferta de 14.94 EUR (original: 59.95 EUR) en el siguiente enlace!

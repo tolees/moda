@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CFZ27JH/?tag=tolees-21'
 descuento: '58.24'
+average: '31.3'
 ---
 
 Está [Rieker P9060  Botines para Mujer  Negro Schwarz/Black-Silver 01  37 EU](https://www.amazon.es/dp/B07CFZ27JH/?tag=tolees-21) con 58.24 de descuento por 31.3 EUR (original: 74.95 EUR) en el siguiente enlace!

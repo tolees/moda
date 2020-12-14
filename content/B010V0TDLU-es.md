@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B010V0TDLU/?tag=tolees-21'
 descuento: '69.55'
+average: '36.23'
 ---
 
 Está [Guess GU6843 Gafas de sol  Azul  blue black   52 Unisex Adulto](https://www.amazon.es/dp/B010V0TDLU/?tag=tolees-21) con 69.55 de descuento por 36.23 EUR (original: 119 EUR) en el siguiente enlace!

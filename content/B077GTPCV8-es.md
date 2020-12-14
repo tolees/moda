@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077GTPCV8/?tag=tolees-21'
 descuento: '35.85'
+average: '16.68'
 ---
 
 Está [Under Armour UA Vanish SS T Camiseta de Manga Corta  Hombre  Blanco  100   L](https://www.amazon.es/dp/B077GTPCV8/?tag=tolees-21) con 35.85 de descuento por 16.68 EUR (original: 26 EUR) en el siguiente enlace!

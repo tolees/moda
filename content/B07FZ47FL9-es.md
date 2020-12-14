@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FZ47FL9/?tag=tolees-21'
 descuento: '62.43'
+average: '7.51'
 ---
 
 Tienes [PIECES Pcamalie Smock LS Top Noos Blusa  Azul  Ponderosa Pine   38  Talla del Fabricante: Small  para Mujer](https://www.amazon.es/dp/B07FZ47FL9/?tag=tolees-21) con un 62.43 % de descuento con precio de oferta de 7.51 EUR (original: 19.99 EUR) en el siguiente enlace!

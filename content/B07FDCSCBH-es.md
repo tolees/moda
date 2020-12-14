@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FDCSCBH/?tag=tolees-21'
 descuento: '43.39'
+average: '22.64'
 ---
 
 Está [Tiffosi Forbes  Chaqueta para Hombre  Azul  Blue 790  Large  Tamaño del Fabricante:L ](https://www.amazon.es/dp/B07FDCSCBH/?tag=tolees-21) con 43.39 de descuento por 22.64 EUR (original: 39.99 EUR) en el siguiente enlace!

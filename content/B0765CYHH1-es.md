@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0765CYHH1/?tag=tolees-21'
 descuento: '80.22'
+average: '7.91'
 ---
 
 Está [Esprit 018ee1f003  Blusa Mujer  Rojo  Berry Red 625   40](https://www.amazon.es/dp/B0765CYHH1/?tag=tolees-21) con 80.22 de descuento por 7.91 EUR (original: 39.99 EUR) en el siguiente enlace!

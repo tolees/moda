@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FFVDWMG/?tag=tolees-21'
 descuento: '73.19'
+average: '8.03'
 ---
 
 Está [Lee Boxed Logo tee  Camiseta para Hombre  Blanco  White 12   Small](https://www.amazon.es/dp/B07FFVDWMG/?tag=tolees-21) con 73.19 de descuento por 8.03 EUR (original: 29.95 EUR) en el siguiente enlace!

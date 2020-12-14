@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FNX8F9Z/?tag=tolees-21'
 descuento: '36.53'
+average: '34.9'
 ---
 
 Tienes [RIP CURL Big Mumma Hooded Fleece Sudadera  Mujer  Calypso algodónral  S](https://www.amazon.es/dp/B07FNX8F9Z/?tag=tolees-21) con un 36.53 % de descuento con precio de oferta de 34.9 EUR (original: 54.99 EUR) en el siguiente enlace!

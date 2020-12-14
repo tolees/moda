@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D7RKGJ7/?tag=tolees-21'
 descuento: '58.17'
+average: '33.44'
 ---
 
 Tienes [BOSS Casual Mabsoot  Camisa Hombre  Rojo  Dark Red 608   Medium](https://www.amazon.es/dp/B07D7RKGJ7/?tag=tolees-21) con un 58.17 % de descuento con precio de oferta de 33.44 EUR (original: 79.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D7RFXHG/?tag=tolees-21'
 descuento: '69.29'
+average: '25.18'
 ---
 
 Ahora mismo tienes [Guess Abito Corto Samantha Dress  Vestido para Mujer  Negro  Jet Black A996 Jblk  Medium](https://www.amazon.es/dp/B07D7RFXHG/?tag=tolees-21) a 25.18 EUR (original: 82 EUR) (69.29 %  de descuento) en el siguiente enlace!

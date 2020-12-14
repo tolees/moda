@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01GED921E/?tag=tolees-21'
 descuento: '53.96'
+average: '36.83'
 ---
 
 Está [Black Crevice Chaqueta Azul ES 52](https://www.amazon.es/dp/B01GED921E/?tag=tolees-21) con 53.96 de descuento por 36.83 EUR (original: 79.99 EUR) en el siguiente enlace!

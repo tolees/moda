@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00KHTMK7U/?tag=tolees-21'
 descuento: '55.42'
+average: '13.37'
 ---
 
 Está [Under Armour UA Heatgear Armour Camiseta de compresión de Manga Corta con Panel de Malla  Ropa Deportiva Ajustada  Hombre  Royal/Steel  400   XL](https://www.amazon.es/dp/B00KHTMK7U/?tag=tolees-21) con 55.42 de descuento por 13.37 EUR (original: 29.99 EUR) en el siguiente enlace!

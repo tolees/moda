@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CMJHGBZ/?tag=tolees-21'
 descuento: '54.57'
+average: '9.99'
 ---
 
 Está [JIM HALO Gafas de Sol de Espejo Plano Oversized Diseñador Cuadrado Tintado Anteojos Mujer Rojo/Verde ](https://www.amazon.es/dp/B07CMJHGBZ/?tag=tolees-21) con 54.57 de descuento por 9.99 EUR (original: 21.99 EUR) en el siguiente enlace!

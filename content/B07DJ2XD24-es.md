@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DJ2XD24/?tag=tolees-21'
 descuento: '63.86'
+average: '36.1'
 ---
 
 Tienes [Geox U Kennet B  Zapatillas para Hombre  Azul  Navy C4002   44 EU](https://www.amazon.es/dp/B07DJ2XD24/?tag=tolees-21) con un 63.86 % de descuento con precio de oferta de 36.1 EUR (original: 99.9 EUR) en el siguiente enlace!

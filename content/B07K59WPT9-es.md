@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07K59WPT9/?tag=tolees-21'
 descuento: '58.87'
+average: '24.66'
 ---
 
 Tienes [Levi s kids Nn17004 Waistcoat Sudadera  Gris  Light China Grey 22   3-6 Meses  Talla del Fabricante: 6M  para Bebés](https://www.amazon.es/dp/B07K59WPT9/?tag=tolees-21) con un 58.87 % de descuento con precio de oferta de 24.66 EUR (original: 59.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07B4NDGWK/?tag=tolees-21'
 descuento: '59.99'
+average: '54.01'
 ---
 
 Ahora mismo tienes [Diesel Wayfarer Eye  Gafas de sol Unisex Adulto  Multicolor  Camouflage  56](https://www.amazon.es/dp/B07B4NDGWK/?tag=tolees-21) a 54.01 EUR (original: 135 EUR) (59.99 %  de descuento) en el siguiente enlace!

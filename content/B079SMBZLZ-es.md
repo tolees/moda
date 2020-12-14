@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079SMBZLZ/?tag=tolees-21'
 descuento: '35.04'
+average: '25.95'
 ---
 
 Está [Desigual TS_Dalila  Camiseta para Mujer    Navy 5000  X-Large](https://www.amazon.es/dp/B079SMBZLZ/?tag=tolees-21) con 35.04 de descuento por 25.95 EUR (original: 39.95 EUR) en el siguiente enlace!

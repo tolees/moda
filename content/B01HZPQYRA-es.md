@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01HZPQYRA/?tag=tolees-21'
 descuento: '41.16'
+average: '50.01'
 ---
 
 Está [Merrell - sandalias de Cuero mujer  Beige  Taupe   37 EU](https://www.amazon.es/dp/B01HZPQYRA/?tag=tolees-21) con 41.16 de descuento por 50.01 EUR (original: 85 EUR) en el siguiente enlace!

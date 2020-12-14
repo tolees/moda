@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GQPDSVL/?tag=tolees-21'
 descuento: '44.61'
+average: '16.59'
 ---
 
 Está [Puma ESS Pique Polo Camiseta  Hombre  Blanco  White   M](https://www.amazon.es/dp/B07GQPDSVL/?tag=tolees-21) con 44.61 de descuento por 16.59 EUR (original: 29.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079XC9TX9/?tag=tolees-21'
 descuento: '53.66'
+average: '23.17'
 ---
 
 Está [Kappa Hamble Sudadera  Mujer  Rojo/Negro  L](https://www.amazon.es/dp/B079XC9TX9/?tag=tolees-21) con 53.66 de descuento por 23.17 EUR (original: 50 EUR) en el siguiente enlace!

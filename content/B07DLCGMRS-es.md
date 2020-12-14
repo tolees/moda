@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DLCGMRS/?tag=tolees-21'
 descuento: '54.76'
+average: '18.09'
 ---
 
 Está [Springfield 2Rr-Bomber Basica Chaqueta  Hombre  Verde  Gama Verdes 25   Medium  Tamaño del Fabricante:M ](https://www.amazon.es/dp/B07DLCGMRS/?tag=tolees-21) con 54.76 de descuento por 18.09 EUR (original: 39.99 EUR) en el siguiente enlace!

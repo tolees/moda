@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DHSH7DX/?tag=tolees-21'
 descuento: '74.34'
+average: '51.32'
 ---
 
 Ahora mismo tienes [Quiksilver Sierra Chaqueta de Nieve  Hombre  Verde Lima  XXL](https://www.amazon.es/dp/B07DHSH7DX/?tag=tolees-21) a 51.32 EUR (original: 199.99 EUR) (74.34 %  de descuento) en el siguiente enlace!

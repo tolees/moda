@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BJFDZFB/?tag=tolees-21'
 descuento: '56.37'
+average: '6.54'
 ---
 
 Está [Iris & Lilly Tanga de Tira con Encaje Mujer  Pack de 3  Azul  Cashmere Blue    Talla del fabricante: X-Small ](https://www.amazon.es/dp/B07BJFDZFB/?tag=tolees-21) con 56.37 de descuento por 6.54 EUR (original: 14.99 EUR) en el siguiente enlace!

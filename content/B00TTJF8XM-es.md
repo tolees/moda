@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00TTJF8XM/?tag=tolees-21'
 descuento: '30.02'
+average: '55.95'
 ---
 
 Ahora mismo tienes [Clarks Tilden Walk  Zapatos de Cordones Derby para Hombre  Negro  Black Leather   43 EU](https://www.amazon.es/dp/B00TTJF8XM/?tag=tolees-21) a 55.95 EUR (original: 79.95 EUR) (30.02 %  de descuento) en el siguiente enlace!

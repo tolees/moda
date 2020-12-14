@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073RPKDVY/?tag=tolees-21'
 descuento: '49.55'
+average: '65.59'
 ---
 
 Está [Helly Hansen Crew Windbreaker Chaqueta  Hombre  Navy  M](https://www.amazon.es/dp/B073RPKDVY/?tag=tolees-21) con 49.55 de descuento por 65.59 EUR (original: 130 EUR) en el siguiente enlace!

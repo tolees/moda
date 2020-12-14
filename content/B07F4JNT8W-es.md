@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F4JNT8W/?tag=tolees-21'
 descuento: '60.05'
+average: '15.96'
 ---
 
 Está [Puma Ftblnxt Baselayer LS Camisa  Hombre  Negro  XL](https://www.amazon.es/dp/B07F4JNT8W/?tag=tolees-21) con 60.05 de descuento por 15.96 EUR (original: 39.95 EUR) en el siguiente enlace!

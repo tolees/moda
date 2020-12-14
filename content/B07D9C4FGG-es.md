@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D9C4FGG/?tag=tolees-21'
 descuento: '74.93'
+average: '12.52'
 ---
 
 Ahora mismo tienes [XTI 30958  Botines para Mujer  Negro  Black   39 EU](https://www.amazon.es/dp/B07D9C4FGG/?tag=tolees-21) a 12.52 EUR (original: 49.95 EUR) (74.93 %  de descuento) en el siguiente enlace!

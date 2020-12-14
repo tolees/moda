@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072MWFDRT/?tag=tolees-21'
 descuento: '52.66'
+average: '30.77'
 ---
 
 Tienes [Volcom Supply Stone Crew Sudadera sin Capucha  Hombre  Gris  L](https://www.amazon.es/dp/B072MWFDRT/?tag=tolees-21) con un 52.66 % de descuento con precio de oferta de 30.77 EUR (original: 65 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N4DLL63/?tag=tolees-21'
 descuento: '46.19'
+average: '21.47'
 ---
 
 Ahora mismo tienes [Tommy Jeans Mujer BASIC CN T-SHIRT S/S 13 Camiseta Manga Corta  Rosa  Zephyr  X-Small](https://www.amazon.es/dp/B01N4DLL63/?tag=tolees-21) a 21.47 EUR (original: 39.9 EUR) (46.19 %  de descuento) en el siguiente enlace!

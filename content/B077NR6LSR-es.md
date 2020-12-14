@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077NR6LSR/?tag=tolees-21'
 descuento: '50.00'
+average: '54.98'
 ---
 
 Ahora mismo tienes [Lee Slim Rider  Chaqueta Vaquera para Hombre  Azul  Fresh Kiup  Large](https://www.amazon.es/dp/B077NR6LSR/?tag=tolees-21) a 54.98 EUR (original: 109.95 EUR) (50.00 %  de descuento) en el siguiente enlace!

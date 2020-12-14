@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07N9BGPQR/?tag=tolees-21'
 descuento: '46.92'
+average: '15.87'
 ---
 
 Está [Pepe Jeans West Sir Camiseta  Azul  French Blue 541   Medium para Hombre](https://www.amazon.es/dp/B07N9BGPQR/?tag=tolees-21) con 46.92 de descuento por 15.87 EUR (original: 29.9 EUR) en el siguiente enlace!

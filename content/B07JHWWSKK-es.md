@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JHWWSKK/?tag=tolees-21'
 descuento: '33.26'
+average: '19.99'
 ---
 
 Está [Puma ESS+ Logo tee Dress Camiseta  Mujer  Negro  Cotton Black   M](https://www.amazon.es/dp/B07JHWWSKK/?tag=tolees-21) con 33.26 de descuento por 19.99 EUR (original: 29.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01H3MS3XI/?tag=tolees-21'
 descuento: '53.42'
+average: '7.62'
 ---
 
 Está [Fruit of the Loom Boxer Shorts Calzoncillos  White  M para Hombre](https://www.amazon.es/dp/B01H3MS3XI/?tag=tolees-21) con 53.42 de descuento por 7.62 EUR (original: 16.36 EUR) en el siguiente enlace!

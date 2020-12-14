@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076XSGW8S/?tag=tolees-21'
 descuento: '68.96'
+average: '18.59'
 ---
 
 Tienes [Geox J Jensea E  Zapatillas para Niñas  Rosa  Fuchsia   35 EU](https://www.amazon.es/dp/B076XSGW8S/?tag=tolees-21) con un 68.96 % de descuento con precio de oferta de 18.59 EUR (original: 59.9 EUR) en el siguiente enlace!

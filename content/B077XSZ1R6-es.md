@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077XSZ1R6/?tag=tolees-21'
 descuento: '47.23'
+average: '13.72'
 ---
 
 Tienes [Under Armour Graphic Classic Crew - Camiseta de Manga Corta para Mujer  Mujer  1321146-100  White/Pixel Purple  Medium](https://www.amazon.es/dp/B077XSZ1R6/?tag=tolees-21) con un 47.23 % de descuento con precio de oferta de 13.72 EUR (original: 26 EUR) en el siguiente enlace!

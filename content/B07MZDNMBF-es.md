@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MZDNMBF/?tag=tolees-21'
 descuento: '48.45'
+average: '14.95'
 ---
 
 Está [Superdry Essential Tank Camiseta de Tirantes  Marrón  Washed Khaki Gvk   Medium  Talla del Fabricante: 12  para Mujer](https://www.amazon.es/dp/B07MZDNMBF/?tag=tolees-21) con 48.45 de descuento por 14.95 EUR (original: 29 EUR) en el siguiente enlace!

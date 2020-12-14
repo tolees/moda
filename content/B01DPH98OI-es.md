@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01DPH98OI/?tag=tolees-21'
 descuento: '85.96'
+average: '10.53'
 ---
 
 Tienes [Solo Capri Abito A Tubino con Volant Vestido   Bianco_ BLU   M para Mujer](https://www.amazon.es/dp/B01DPH98OI/?tag=tolees-21) con un 85.96 % de descuento con precio de oferta de 10.53 EUR (original: 75 EUR) en el siguiente enlace!

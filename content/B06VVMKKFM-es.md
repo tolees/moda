@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06VVMKKFM/?tag=tolees-21'
 descuento: '60.98'
+average: '7.8'
 ---
 
 Tienes [Esprit 057ee1k045  Camiseta Mujer   Navy   34  Talla del Fabricante: X-Small ](https://www.amazon.es/dp/B06VVMKKFM/?tag=tolees-21) con un 60.98 % de descuento con precio de oferta de 7.8 EUR (original: 19.99 EUR) en el siguiente enlace!

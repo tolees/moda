@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075RCF9VG/?tag=tolees-21'
 descuento: '84.95'
+average: '5.41'
 ---
 
 Tienes [Desigual Biki_Eve  Parte de Arriba Bikini Mujer  Azul  Turquoise 5070    Talla del Fabricante: Small ](https://www.amazon.es/dp/B075RCF9VG/?tag=tolees-21) con un 84.95 % de descuento con precio de oferta de 5.41 EUR (original: 35.95 EUR) en el siguiente enlace!

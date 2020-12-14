@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KJMBHWQ/?tag=tolees-21'
 descuento: '60.84'
+average: '175.85'
 ---
 
 Está [BOSS Jafable Chaqueta   Medium Beige 267   38  Talla del Fabricante: 36  para Mujer](https://www.amazon.es/dp/B07KJMBHWQ/?tag=tolees-21) con 60.84 de descuento por 175.85 EUR (original: 449 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071KFFR2K/?tag=tolees-21'
 descuento: '44.86'
+average: '13.78'
 ---
 
 Está [adidas Rev Crzy Exp SH Pantalón  Hombre  Rojo  Rojpot/Blanco   M](https://www.amazon.es/dp/B071KFFR2K/?tag=tolees-21) con 44.86 de descuento por 13.78 EUR (original: 24.99 EUR) en el siguiente enlace!

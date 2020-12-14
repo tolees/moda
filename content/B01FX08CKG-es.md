@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01FX08CKG/?tag=tolees-21'
 descuento: '71.34'
+average: '20.05'
 ---
 
 Tienes [Marco Tozzi Premio 23708  Zapatos de Cordones Derby para Mujer  Negro  Black Antic 002   39 EU](https://www.amazon.es/dp/B01FX08CKG/?tag=tolees-21) con un 71.34 % de descuento con precio de oferta de 20.05 EUR (original: 69.95 EUR) en el siguiente enlace!

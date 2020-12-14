@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CS9TNL4/?tag=tolees-21'
 descuento: '69.89'
+average: '21.05'
 ---
 
 Ahora mismo tienes [Pepe Jeans Gaby L  Sudadera para Mujer    Mousse 808  Medium](https://www.amazon.es/dp/B07CS9TNL4/?tag=tolees-21) a 21.05 EUR (original: 69.9 EUR) (69.89 %  de descuento) en el siguiente enlace!

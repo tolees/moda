@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07662VFCS/?tag=tolees-21'
 descuento: '58.86'
+average: '28.39'
 ---
 
 Tienes [BOSS Tew Camiseta  Azul  Open Blue 463   X-Large para Hombre](https://www.amazon.es/dp/B07662VFCS/?tag=tolees-21) con un 58.86 % de descuento con precio de oferta de 28.39 EUR (original: 69 EUR) en el siguiente enlace!

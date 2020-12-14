@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079JZY1VS/?tag=tolees-21'
 descuento: '62.87'
+average: '129.57'
 ---
 
 Ahora mismo tienes [Napapijri Articage Jacke Chaqueta  Dark Beige Nb8  Medium para Hombre](https://www.amazon.es/dp/B079JZY1VS/?tag=tolees-21) a 129.57 EUR (original: 349 EUR) (62.87 %  de descuento) en el siguiente enlace!

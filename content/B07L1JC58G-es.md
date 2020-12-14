@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07L1JC58G/?tag=tolees-21'
 descuento: '77.53'
+average: '15.73'
 ---
 
 Tienes [PIMKIE Tss19 Nerna  Camiseta para Mujer  Negro  Noir 899a08  Large](https://www.amazon.es/dp/B07L1JC58G/?tag=tolees-21) con un 77.53 % de descuento con precio de oferta de 15.73 EUR (original: 69.99 EUR) en el siguiente enlace!

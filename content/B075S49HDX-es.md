@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075S49HDX/?tag=tolees-21'
 descuento: '70.00'
+average: '6'
 ---
 
 Está [FIND Pantalón Corto de Deporte Hombre  Negro  Black   50  Talla del fabricante: Medium ](https://www.amazon.es/dp/B075S49HDX/?tag=tolees-21) con 70.00 de descuento por 6 EUR (original: 20 EUR) en el siguiente enlace!

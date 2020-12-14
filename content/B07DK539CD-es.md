@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DK539CD/?tag=tolees-21'
 descuento: '54.09'
+average: '27.5'
 ---
 
 Tienes [Geox Jr Dakin  Zapatillas para Niños  Verde  Green/Sky C3316   30 EU](https://www.amazon.es/dp/B07DK539CD/?tag=tolees-21) con un 54.09 % de descuento con precio de oferta de 27.5 EUR (original: 59.9 EUR) en el siguiente enlace!

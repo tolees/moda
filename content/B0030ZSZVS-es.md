@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0030ZSZVS/?tag=tolees-21'
 descuento: '29.82'
+average: '14'
 ---
 
 Tienes [adidas Duramo Slide  Chanclas Unisex  Negro  Black/White/Black   46 EU](https://www.amazon.es/dp/B0030ZSZVS/?tag=tolees-21) con un 29.82 % de descuento con precio de oferta de 14 EUR (original: 19.95 EUR) en el siguiente enlace!

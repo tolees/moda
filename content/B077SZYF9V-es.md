@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077SZYF9V/?tag=tolees-21'
 descuento: '49.65'
+average: '23.64'
 ---
 
 Ahora mismo tienes [Refresh 64216  Botines para Mujer  Marrón  Bronce   40 EU](https://www.amazon.es/dp/B077SZYF9V/?tag=tolees-21) a 23.64 EUR (original: 46.95 EUR) (49.65 %  de descuento) en el siguiente enlace!

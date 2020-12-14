@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07QTFT94Z/?tag=tolees-21'
 descuento: '47.94'
+average: '9.99'
 ---
 
 Ahora mismo tienes [Gafas VR  HAMSWAN Gafas de Realidad Virtual  3D VR  VR Glasses Visión Panorámico 110 Grado Película 3D Juego Immersivo para Móviles 4.7-6.0 Pulgada](https://www.amazon.es/dp/B07QTFT94Z/?tag=tolees-21) a 9.99 EUR (original: 19.19 EUR) (47.94 %  de descuento) en el siguiente enlace!

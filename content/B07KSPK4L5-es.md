@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KSPK4L5/?tag=tolees-21'
 descuento: '51.64'
+average: '48.36'
 ---
 
 Está [Columbia Mujer Chaqueta impermeable  Timothy Lake W Jacket  Poliéster  Azul  Nocturnal   Talla: M  1840501](https://www.amazon.es/dp/B07KSPK4L5/?tag=tolees-21) con 51.64 de descuento por 48.36 EUR (original: 99.99 EUR) en el siguiente enlace!

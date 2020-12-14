@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CTW44YQ/?tag=tolees-21'
 descuento: '77.60'
+average: '10.35'
 ---
 
 Tienes [Conguitos Blucher Charol con Cordones  Zapatos Derby para Niñas   Negro 20   28 EU](https://www.amazon.es/dp/B07CTW44YQ/?tag=tolees-21) con un 77.60 % de descuento con precio de oferta de 10.35 EUR (original: 46.2 EUR) en el siguiente enlace!

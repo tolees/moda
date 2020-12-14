@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01J1NEL10/?tag=tolees-21'
 descuento: '82.02'
+average: '9.89'
 ---
 
 Tienes [Wolf & Whistle Bronze and Black Lace Vestido  Negro  ES ES 40  UK 12  para Mujer](https://www.amazon.es/dp/B01J1NEL10/?tag=tolees-21) con un 82.02 % de descuento con precio de oferta de 9.89 EUR (original: 55 EUR) en el siguiente enlace!

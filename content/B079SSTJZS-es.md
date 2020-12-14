@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079SSTJZS/?tag=tolees-21'
 descuento: '50.05'
+average: '22.95'
 ---
 
 Está [Vest_Lincoln  Vestido Niñas   Navy 5000 ](https://www.amazon.es/dp/B079SSTJZS/?tag=tolees-21) con 50.05 de descuento por 22.95 EUR (original: 45.95 EUR) en el siguiente enlace!

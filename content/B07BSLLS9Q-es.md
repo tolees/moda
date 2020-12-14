@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BSLLS9Q/?tag=tolees-21'
 descuento: '50.00'
+average: '15'
 ---
 
 Está [REPLAY M3594 .000.2660  Camiseta para Hombre  Azul  Midnight Blue. 576   Medium](https://www.amazon.es/dp/B07BSLLS9Q/?tag=tolees-21) con 50.00 de descuento por 15 EUR (original: 30 EUR) en el siguiente enlace!

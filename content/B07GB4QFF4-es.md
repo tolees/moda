@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GB4QFF4/?tag=tolees-21'
 descuento: '68.76'
+average: '11.23'
 ---
 
 Tienes [Tuc Tuc Prenda Tricot Parfum Vestido   Azul 00   12 años  Tamaño del Fabricante:12A  para Niñas](https://www.amazon.es/dp/B07GB4QFF4/?tag=tolees-21) con un 68.76 % de descuento con precio de oferta de 11.23 EUR (original: 35.95 EUR) en el siguiente enlace!

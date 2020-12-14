@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0745NN7FC/?tag=tolees-21'
 descuento: '55.73'
+average: '10.62'
 ---
 
 Ahora mismo tienes [NAME IT Nithedra LS Dress F Nmt Vestido  Negro  Black   134 para Niñas](https://www.amazon.es/dp/B0745NN7FC/?tag=tolees-21) a 10.62 EUR (original: 23.99 EUR) (55.73 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HXMR2G3/?tag=tolees-21'
 descuento: '57.48'
+average: '13.81'
 ---
 
 Tienes [Glamorous Ladies Smart Blouse  Blusa para Mujer  Morado  Purple Pur  40  Talla del Fabricante: Medium ](https://www.amazon.es/dp/B07HXMR2G3/?tag=tolees-21) con un 57.48 % de descuento con precio de oferta de 13.81 EUR (original: 32.48 EUR) en el siguiente enlace!

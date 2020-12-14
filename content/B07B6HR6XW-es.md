@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07B6HR6XW/?tag=tolees-21'
 descuento: '61.06'
+average: '12.99'
 ---
 
 Está [JACK & JONES Jornew Dream Jacket  Chaqueta para Hombre  Azul Total Eclipse  X-Large](https://www.amazon.es/dp/B07B6HR6XW/?tag=tolees-21) con 61.06 de descuento por 12.99 EUR (original: 33.36 EUR) en el siguiente enlace!

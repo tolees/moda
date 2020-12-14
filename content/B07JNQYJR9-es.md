@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JNQYJR9/?tag=tolees-21'
 descuento: '65.28'
+average: '18.75'
 ---
 
 Está [Guess SL Famme Top Camiseta de Tirantes  Blanco  True White A000 Twht   Large para Mujer](https://www.amazon.es/dp/B07JNQYJR9/?tag=tolees-21) con 65.28 de descuento por 18.75 EUR (original: 54 EUR) en el siguiente enlace!

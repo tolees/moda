@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072FVBLV2/?tag=tolees-21'
 descuento: '84.64'
+average: '10.29'
 ---
 
 Ahora mismo tienes [Pepaloves Tabata  Vestido Casual para Mujer  Marrón  Fruit   40  Tamaño del fabricante:M ](https://www.amazon.es/dp/B072FVBLV2/?tag=tolees-21) a 10.29 EUR (original: 67 EUR) (84.64 %  de descuento) en el siguiente enlace!

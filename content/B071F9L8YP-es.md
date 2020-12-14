@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071F9L8YP/?tag=tolees-21'
 descuento: '56.77'
+average: '15.13'
 ---
 
 Está [Under Armour Performance Polo Novelty Camiseta de Manga Corta  Niños  Azul  487   XS](https://www.amazon.es/dp/B071F9L8YP/?tag=tolees-21) con 56.77 de descuento por 15.13 EUR (original: 35 EUR) en el siguiente enlace!

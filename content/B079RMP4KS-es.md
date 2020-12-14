@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079RMP4KS/?tag=tolees-21'
 descuento: '38.09'
+average: '49.47'
 ---
 
 Ahora mismo tienes [Pepe Jeans Ludo JR  Chaqueta para Niños  Azul  Dulwich 594   12 años](https://www.amazon.es/dp/B079RMP4KS/?tag=tolees-21) a 49.47 EUR (original: 79.9 EUR) (38.09 %  de descuento) en el siguiente enlace!

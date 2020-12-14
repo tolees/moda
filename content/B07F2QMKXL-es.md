@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F2QMKXL/?tag=tolees-21'
 descuento: '60.45'
+average: '21.75'
 ---
 
 Tienes [Vans Basic Crew Fleece Sudadera  Gris  Heather HTH   XX-Large para Hombre](https://www.amazon.es/dp/B07F2QMKXL/?tag=tolees-21) con un 60.45 % de descuento con precio de oferta de 21.75 EUR (original: 55 EUR) en el siguiente enlace!

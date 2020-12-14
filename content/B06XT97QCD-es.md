@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XT97QCD/?tag=tolees-21'
 descuento: '63.97'
+average: '21.26'
 ---
 
 Está [Pepe Jeans Sidney JR PG580629  Sudadera para Niñas  Gris  Dk Grey 975  14 años](https://www.amazon.es/dp/B06XT97QCD/?tag=tolees-21) con 63.97 de descuento por 21.26 EUR (original: 59 EUR) en el siguiente enlace!

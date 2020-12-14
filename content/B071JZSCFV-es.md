@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071JZSCFV/?tag=tolees-21'
 descuento: '51.70'
+average: '13.52'
 ---
 
 Ahora mismo tienes [DC Shoes Headphase LS Boy Camiseta de Manga Larga  niños  Azul  Twilight Blue Solid   10/S](https://www.amazon.es/dp/B071JZSCFV/?tag=tolees-21) a 13.52 EUR (original: 27.99 EUR) (51.70 %  de descuento) en el siguiente enlace!

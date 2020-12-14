@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DQS8G5Y/?tag=tolees-21'
 descuento: '47.00'
+average: '15.9'
 ---
 
 Ahora mismo tienes [Volcom Stence BSC SS Camiseta  Hombre  Gris  Heather Grey   M](https://www.amazon.es/dp/B07DQS8G5Y/?tag=tolees-21) a 15.9 EUR (original: 30 EUR) (47.00 %  de descuento) en el siguiente enlace!

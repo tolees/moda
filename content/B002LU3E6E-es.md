@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B002LU3E6E/?tag=tolees-21'
 descuento: '37.70'
+average: '55.45'
 ---
 
 Ahora mismo tienes [Lacoste L1212 Camiseta Polo  Azul  Ruisseau T01   S  Talla del fabricante: 3  para Hombre](https://www.amazon.es/dp/B002LU3E6E/?tag=tolees-21) a 55.45 EUR (original: 89 EUR) (37.70 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01BFAXRLM/?tag=tolees-21'
 descuento: '64.52'
+average: '13.57'
 ---
 
 Está [HHG Vestido S](https://www.amazon.es/dp/B01BFAXRLM/?tag=tolees-21) con 64.52 de descuento por 13.57 EUR (original: 38.25 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01CSU8HX6/?tag=tolees-21'
 descuento: '28.57'
+average: '4.25'
 ---
 
 Tienes [Joma 900038.671 - Camiseta para Mujer  Color Burdeos Oscuro  Talla L](https://www.amazon.es/dp/B01CSU8HX6/?tag=tolees-21) con un 28.57 % de descuento con precio de oferta de 4.25 EUR (original: 5.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MDBJ88L/?tag=tolees-21'
 descuento: '65.08'
+average: '10.46'
 ---
 
 Ahora mismo tienes [G-STAR RAW Civita Slim T-Shirt Camiseta  Rosa  pyg 7176   X-Small para Mujer](https://www.amazon.es/dp/B07MDBJ88L/?tag=tolees-21) a 10.46 EUR (original: 29.95 EUR) (65.08 %  de descuento) en el siguiente enlace!

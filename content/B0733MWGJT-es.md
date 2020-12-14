@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0733MWGJT/?tag=tolees-21'
 descuento: '81.60'
+average: '12.87'
 ---
 
 Está [Puma Afc Home Camiseta de Fútbol  niños  Rojo  2XL  Talla del fabricante: 176 ](https://www.amazon.es/dp/B0733MWGJT/?tag=tolees-21) con 81.60 de descuento por 12.87 EUR (original: 69.95 EUR) en el siguiente enlace!

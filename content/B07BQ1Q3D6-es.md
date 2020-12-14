@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BQ1Q3D6/?tag=tolees-21'
 descuento: '42.99'
+average: '13.95'
 ---
 
 Ahora mismo tienes [Lee Banner tee  Camiseta para Hombre  Blanco  White 12  Medium](https://www.amazon.es/dp/B07BQ1Q3D6/?tag=tolees-21) a 13.95 EUR (original: 24.47 EUR) (42.99 %  de descuento) en el siguiente enlace!

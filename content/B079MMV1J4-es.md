@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079MMV1J4/?tag=tolees-21'
 descuento: '70.19'
+average: '14.9'
 ---
 
 Tienes [edc by Esprit 058cc1f018  Blusa Mujer  Blanco  White 100   Large](https://www.amazon.es/dp/B079MMV1J4/?tag=tolees-21) con un 70.19 % de descuento con precio de oferta de 14.9 EUR (original: 49.99 EUR) en el siguiente enlace!

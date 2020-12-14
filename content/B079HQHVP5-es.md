@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079HQHVP5/?tag=tolees-21'
 descuento: '35.02'
+average: '9.74'
 ---
 
 Tienes [Iris & Lilly Sujetador Body Natural Push-up Mujer  Multicolor  Spot/flower Print   95A  Talla del fabricante: 36A ](https://www.amazon.es/dp/B079HQHVP5/?tag=tolees-21) con un 35.02 % de descuento con precio de oferta de 9.74 EUR (original: 14.99 EUR) en el siguiente enlace!

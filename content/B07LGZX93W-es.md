@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07LGZX93W/?tag=tolees-21'
 descuento: '45.03'
+average: '65.97'
 ---
 
 Está [Guess Mujer SWSOLAL9246 Monedero Negro Size: 20.5x10x2 cm  W x H x L ](https://www.amazon.es/dp/B07LGZX93W/?tag=tolees-21) con 45.03 de descuento por 65.97 EUR (original: 120 EUR) en el siguiente enlace!

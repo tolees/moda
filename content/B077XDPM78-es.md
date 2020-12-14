@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077XDPM78/?tag=tolees-21'
 descuento: '52.14'
+average: '12.42'
 ---
 
 Ahora mismo tienes [Tuc Tuc Crabs Pelele  Bebé-Niños   Único   68  Tamaño del Fabricante:36 ](https://www.amazon.es/dp/B077XDPM78/?tag=tolees-21) a 12.42 EUR (original: 25.95 EUR) (52.14 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0778YFPS6/?tag=tolees-21'
 descuento: '48.61'
+average: '15.39'
 ---
 
 Está [XTI 47942  Sandalias con Punta Abierta para Mujer  Dorado  Gold   36 EU](https://www.amazon.es/dp/B0778YFPS6/?tag=tolees-21) con 48.61 de descuento por 15.39 EUR (original: 29.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BLBRNFJ/?tag=tolees-21'
 descuento: '76.90'
+average: '25.41'
 ---
 
 Está [Clarks Sharon Pearl  Botines para Mujer  Negro  Black Leather   37.5 EU](https://www.amazon.es/dp/B07BLBRNFJ/?tag=tolees-21) con 76.90 de descuento por 25.41 EUR (original: 110 EUR) en el siguiente enlace!

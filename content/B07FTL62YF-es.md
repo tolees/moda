@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FTL62YF/?tag=tolees-21'
 descuento: '66.11'
+average: '30.48'
 ---
 
 Tienes [Lee Rider Vaqueros Slim  Marfil  Lt Greige 64   W32/L32 para Hombre](https://www.amazon.es/dp/B07FTL62YF/?tag=tolees-21) con un 66.11 % de descuento con precio de oferta de 30.48 EUR (original: 89.95 EUR) en el siguiente enlace!

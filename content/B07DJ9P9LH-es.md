@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DJ9P9LH/?tag=tolees-21'
 descuento: '62.53'
+average: '35.6'
 ---
 
 Está [Geox D Jaysen a  Zapatillas para Mujer  Dorado  Champagne/Gold Cb52x   40 EU](https://www.amazon.es/dp/B07DJ9P9LH/?tag=tolees-21) con 62.53 de descuento por 35.6 EUR (original: 95 EUR) en el siguiente enlace!

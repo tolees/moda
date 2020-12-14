@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07R13Q9GK/?tag=tolees-21'
 descuento: '40.01'
+average: '44.99'
 ---
 
 Ahora mismo tienes [Zapatos de Seguridad para Hombre con Puntera de Acero Zapatillas de Seguridad Trabajo  Calzado de Industrial y Deportiva LM-123k  43.5 EU  Azul Naranja ](https://www.amazon.es/dp/B07R13Q9GK/?tag=tolees-21) a 44.99 EUR (original: 74.99 EUR) (40.01 %  de descuento) en el siguiente enlace!

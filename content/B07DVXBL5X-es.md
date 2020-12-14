@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DVXBL5X/?tag=tolees-21'
 descuento: '53.83'
+average: '9.21'
 ---
 
 Tienes [Hummel Hmlpitch S/S Camiseta  Unisex niños  Morado  Grape Juice   110](https://www.amazon.es/dp/B07DVXBL5X/?tag=tolees-21) con un 53.83 % de descuento con precio de oferta de 9.21 EUR (original: 19.95 EUR) en el siguiente enlace!

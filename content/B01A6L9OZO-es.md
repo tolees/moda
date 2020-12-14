@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01A6L9OZO/?tag=tolees-21'
 descuento: '47.18'
+average: '22.45'
 ---
 
 Está [Crocs Classic  Zuecos Unisex Adulto  Violeta  Lilac   37/38 EU](https://www.amazon.es/dp/B01A6L9OZO/?tag=tolees-21) con 47.18 de descuento por 22.45 EUR (original: 42.5 EUR) en el siguiente enlace!

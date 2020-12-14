@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00IZCP1SG/?tag=tolees-21'
 descuento: '72.63'
+average: '16.41'
 ---
 
 Está [GOL - Vestido para niña  Color Schwarz  Black 2   Talla 14 años  162 cm ](https://www.amazon.es/dp/B00IZCP1SG/?tag=tolees-21) con 72.63 de descuento por 16.41 EUR (original: 59.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D8YB1HW/?tag=tolees-21'
 descuento: '55.24'
+average: '15.62'
 ---
 
 Está [Tommy Hilfiger LS tee Logo  Top de Pijama para Hombre  Rosa  Pomegranate 696   Medium](https://www.amazon.es/dp/B07D8YB1HW/?tag=tolees-21) con 55.24 de descuento por 15.62 EUR (original: 34.9 EUR) en el siguiente enlace!

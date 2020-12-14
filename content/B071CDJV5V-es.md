@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071CDJV5V/?tag=tolees-21'
 descuento: '52.54'
+average: '84.96'
 ---
 
 Está [REPLAY Anbass Hyperflex Pantalones Vaqueros Delgados  Gris  Dark Grey Denim 9   W30/L30  Talla del Fabricante: 30  para Hombre](https://www.amazon.es/dp/B071CDJV5V/?tag=tolees-21) con 52.54 de descuento por 84.96 EUR (original: 179 EUR) en el siguiente enlace!

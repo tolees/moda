@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B007TS0EQ6/?tag=tolees-21'
 descuento: '28.01'
+average: '21.95'
 ---
 
 Está [Cressi Marea VIP Gafas y tubo de snorkel Unisex Adulto  Transparente/Rosa  Talla Única](https://www.amazon.es/dp/B007TS0EQ6/?tag=tolees-21) con 28.01 de descuento por 21.95 EUR (original: 30.49 EUR) en el siguiente enlace!

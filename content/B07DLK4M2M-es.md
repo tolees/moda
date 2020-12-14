@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DLK4M2M/?tag=tolees-21'
 descuento: '50.31'
+average: '13.41'
 ---
 
 Está [Springfield 6.J.Ap.T.Bimateria Bordad Jersey  Mujer  Rosa  Gama Rosas/morados 71   X-Small  Tamaño del Fabricante:XS ](https://www.amazon.es/dp/B07DLK4M2M/?tag=tolees-21) con 50.31 de descuento por 13.41 EUR (original: 26.99 EUR) en el siguiente enlace!

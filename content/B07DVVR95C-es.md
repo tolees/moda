@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DVVR95C/?tag=tolees-21'
 descuento: '62.55'
+average: '13.09'
 ---
 
 Tienes [Hummel Hmlannieshirt Sudadera  Unisex niños  Rojo  Rumba   110](https://www.amazon.es/dp/B07DVVR95C/?tag=tolees-21) con un 62.55 % de descuento con precio de oferta de 13.09 EUR (original: 34.95 EUR) en el siguiente enlace!

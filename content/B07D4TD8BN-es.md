@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D4TD8BN/?tag=tolees-21'
 descuento: '70.56'
+average: '10.3'
 ---
 
 Está [Only & Sons Onskirk LS Dip Dyed Check Shirt  Camisa para Hombre  Cabernet  Small](https://www.amazon.es/dp/B07D4TD8BN/?tag=tolees-21) con 70.56 de descuento por 10.3 EUR (original: 34.99 EUR) en el siguiente enlace!

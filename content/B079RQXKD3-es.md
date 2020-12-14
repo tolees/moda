@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079RQXKD3/?tag=tolees-21'
 descuento: '80.44'
+average: '14.67'
 ---
 
 Está [Pepe Jeans Gala  Blusa Mujer   Multi Bleu 0aa   X-Large](https://www.amazon.es/dp/B079RQXKD3/?tag=tolees-21) con 80.44 de descuento por 14.67 EUR (original: 75 EUR) en el siguiente enlace!

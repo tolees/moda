@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074NCCHKW/?tag=tolees-21'
 descuento: '71.22'
+average: '23.01'
 ---
 
 Ahora mismo tienes [SELECTED FEMME Sflivana LS Knit Cuff Cardigan  Chaqueta Punto Mujer  Azul  Faded Denim Pattern:Melange   38  Talla del Fabricante: Medium ](https://www.amazon.es/dp/B074NCCHKW/?tag=tolees-21) a 23.01 EUR (original: 79.95 EUR) (71.22 %  de descuento) en el siguiente enlace!

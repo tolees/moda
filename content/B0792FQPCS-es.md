@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0792FQPCS/?tag=tolees-21'
 descuento: '40.04'
+average: '59.9'
 ---
 
 Tienes [Geox D Sukie A  Zapatillas para Mujer   Chestnut C6004   39 EU](https://www.amazon.es/dp/B0792FQPCS/?tag=tolees-21) con un 40.04 % de descuento con precio de oferta de 59.9 EUR (original: 99.9 EUR) en el siguiente enlace!

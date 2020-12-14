@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071R8MJBB/?tag=tolees-21'
 descuento: '69.07'
+average: '11.13'
 ---
 
 Está [Tom Tailor Cosy Batsleeve Cardie  Chaqueta Punto Mujer  Gris  Light Silver Melange 2051   42  Talla del Fabricante: X-Large ](https://www.amazon.es/dp/B071R8MJBB/?tag=tolees-21) con 69.07 de descuento por 11.13 EUR (original: 35.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07C3TSDLT/?tag=tolees-21'
 descuento: '54.64'
+average: '44.91'
 ---
 
 Está [Pepe Jeans Cash  Vaqueros Estrechos para Hombre  Azul  Denim Gg4   W29/L32](https://www.amazon.es/dp/B07C3TSDLT/?tag=tolees-21) con 54.64 de descuento por 44.91 EUR (original: 99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079RS1F9F/?tag=tolees-21'
 descuento: '65.67'
+average: '44.29'
 ---
 
 Ahora mismo tienes [Pepe Jeans Milla JR  Chaqueta para Niñas  Negro  Black 999   16 años](https://www.amazon.es/dp/B079RS1F9F/?tag=tolees-21) a 44.29 EUR (original: 129 EUR) (65.67 %  de descuento) en el siguiente enlace!

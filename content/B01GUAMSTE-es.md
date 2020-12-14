@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01GUAMSTE/?tag=tolees-21'
 descuento: '81.03'
+average: '9.96'
 ---
 
 Está [SUIT Camisa Hombre Azul 44 cm  17.5" ](https://www.amazon.es/dp/B01GUAMSTE/?tag=tolees-21) con 81.03 de descuento por 9.96 EUR (original: 52.51 EUR) en el siguiente enlace!

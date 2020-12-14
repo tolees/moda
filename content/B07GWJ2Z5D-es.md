@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GWJ2Z5D/?tag=tolees-21'
 descuento: '83.60'
+average: '8.2'
 ---
 
 Ahora mismo tienes [JACK & JONES PREMIUM Jprchelsea Check Shirt L/s Pre Au  Camisa Hombre   Oatmeal Checks:Slim Fit   Medium](https://www.amazon.es/dp/B07GWJ2Z5D/?tag=tolees-21) a 8.2 EUR (original: 49.99 EUR) (83.60 %  de descuento) en el siguiente enlace!

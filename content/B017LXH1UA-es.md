@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B017LXH1UA/?tag=tolees-21'
 descuento: '50.06'
+average: '29.94'
 ---
 
 Tienes [Bugatti 3.1316E+11  Zapatos de Cordones Derby para Hombre  Negro  Schwarz 1000   42 EU](https://www.amazon.es/dp/B017LXH1UA/?tag=tolees-21) con un 50.06 % de descuento con precio de oferta de 29.94 EUR (original: 59.95 EUR) en el siguiente enlace!

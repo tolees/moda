@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XKYGSMD/?tag=tolees-21'
 descuento: '66.77'
+average: '8.29'
 ---
 
 Tienes [LEGO Teo 615 Camiseta de Manga Larga  Niños  Azul  Dark Navy   104  Tamaño del Fabricante:104 ](https://www.amazon.es/dp/B06XKYGSMD/?tag=tolees-21) con un 66.77 % de descuento con precio de oferta de 8.29 EUR (original: 24.95 EUR) en el siguiente enlace!

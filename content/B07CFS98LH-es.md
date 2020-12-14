@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CFS98LH/?tag=tolees-21'
 descuento: '43.61'
+average: '17.99'
 ---
 
 Tienes [Pepe Jeans West Sir  Camiseta para Hombre  Azul  Lt Blue 501  X-Large](https://www.amazon.es/dp/B07CFS98LH/?tag=tolees-21) con un 43.61 % de descuento con precio de oferta de 17.99 EUR (original: 31.9 EUR) en el siguiente enlace!

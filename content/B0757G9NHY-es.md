@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0757G9NHY/?tag=tolees-21'
 descuento: '55.12'
+average: '13.46'
 ---
 
 Está [Springfield Camisa Cuadros Casual  Rojo  Red   Medium  Tamaño del Fabricante:M  para Hombre](https://www.amazon.es/dp/B0757G9NHY/?tag=tolees-21) con 55.12 de descuento por 13.46 EUR (original: 29.99 EUR) en el siguiente enlace!

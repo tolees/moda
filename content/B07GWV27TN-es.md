@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GWV27TN/?tag=tolees-21'
 descuento: '42.11'
+average: '12.73'
 ---
 
 Está [Levi s Levis 200sf Triple Vintage Stripe Boxer Brief 2p  Bóxer Hombre  Azul  Blue 056   X-Large](https://www.amazon.es/dp/B07GWV27TN/?tag=tolees-21) con 42.11 de descuento por 12.73 EUR (original: 21.99 EUR) en el siguiente enlace!

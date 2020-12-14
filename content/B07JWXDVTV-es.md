@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JWXDVTV/?tag=tolees-21'
 descuento: '44.47'
+average: '24.96'
 ---
 
 Está [Puma Evoknit Seamless Leggins  Mujer  Ponderosa Pine  S](https://www.amazon.es/dp/B07JWXDVTV/?tag=tolees-21) con 44.47 de descuento por 24.96 EUR (original: 44.95 EUR) en el siguiente enlace!

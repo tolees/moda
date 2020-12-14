@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078WWGDDP/?tag=tolees-21'
 descuento: '35.00'
+average: '38.35'
 ---
 
 Tienes [FIND Zapatos T-bar de Tacón Mujer  Plateado  Silver 022   38 EU](https://www.amazon.es/dp/B078WWGDDP/?tag=tolees-21) con un 35.00 % de descuento con precio de oferta de 38.35 EUR (original: 59 EUR) en el siguiente enlace!

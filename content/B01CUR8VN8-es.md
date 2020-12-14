@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01CUR8VN8/?tag=tolees-21'
 descuento: '48.30'
+average: '72.38'
 ---
 
 Ahora mismo tienes [Timberland Bradstreet Plain Toe Sensorflex  Zapatos de Cordones Oxford para Hombre  Gris  Pewter Saddleback   40 EU](https://www.amazon.es/dp/B01CUR8VN8/?tag=tolees-21) a 72.38 EUR (original: 140 EUR) (48.30 %  de descuento) en el siguiente enlace!

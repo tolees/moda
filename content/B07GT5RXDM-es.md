@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GT5RXDM/?tag=tolees-21'
 descuento: '41.15'
+average: '11.74'
 ---
 
 Tienes [Puma Active Big Logo tee Camiseta  Hombre  Gris  Medium Gray Heather   2XL](https://www.amazon.es/dp/B07GT5RXDM/?tag=tolees-21) con un 41.15 % de descuento con precio de oferta de 11.74 EUR (original: 19.95 EUR) en el siguiente enlace!

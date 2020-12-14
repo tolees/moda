@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N7U3DKE/?tag=tolees-21'
 descuento: '78.43'
+average: '6.47'
 ---
 
 Ahora mismo tienes [Only Onlzafran S/s Loose Top Dot Wvn  Blusa Mujer   Night Sky AOP:w. Tiny Dots In Cloud Dancer   38](https://www.amazon.es/dp/B01N7U3DKE/?tag=tolees-21) a 6.47 EUR (original: 29.99 EUR) (78.43 %  de descuento) en el siguiente enlace!

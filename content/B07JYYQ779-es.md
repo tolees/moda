@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JYYQ779/?tag=tolees-21'
 descuento: '49.17'
+average: '10.16'
 ---
 
 Tienes [JACK & JONES Jcoscales Polo SS  Camiseta Hombre  Azul  Sky Captain Fit: Slim Melange   Medium](https://www.amazon.es/dp/B07JYYQ779/?tag=tolees-21) con un 49.17 % de descuento con precio de oferta de 10.16 EUR (original: 19.99 EUR) en el siguiente enlace!

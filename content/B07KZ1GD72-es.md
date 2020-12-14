@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KZ1GD72/?tag=tolees-21'
 descuento: '70.67'
+average: '4.69'
 ---
 
 Ahora mismo tienes [Springfield 2.T.Ap.Pv19.Cuello Bajo L Camiseta   Negro 1   Large  Tamaño del Fabricante:L  para Mujer](https://www.amazon.es/dp/B07KZ1GD72/?tag=tolees-21) a 4.69 EUR (original: 15.99 EUR) (70.67 %  de descuento) en el siguiente enlace!

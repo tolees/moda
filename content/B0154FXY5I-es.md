@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0154FXY5I/?tag=tolees-21'
 descuento: '64.37'
+average: '62.71'
 ---
 
 Tienes [Persol Gafas de sol 0PO3134S Black 95/31  51](https://www.amazon.es/dp/B0154FXY5I/?tag=tolees-21) con un 64.37 % de descuento con precio de oferta de 62.71 EUR (original: 176 EUR) en el siguiente enlace!

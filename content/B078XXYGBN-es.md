@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078XXYGBN/?tag=tolees-21'
 descuento: '63.99'
+average: '14.4'
 ---
 
 Tienes [JACK & JONES PREMIUM Jprsummer Shirt L/s Button Down STS  Camisa para Hombre  Azul  Sargasso Sea Fit:Slim Fit  X-Large](https://www.amazon.es/dp/B078XXYGBN/?tag=tolees-21) con un 63.99 % de descuento con precio de oferta de 14.4 EUR (original: 39.99 EUR) en el siguiente enlace!

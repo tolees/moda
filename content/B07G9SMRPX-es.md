@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07G9SMRPX/?tag=tolees-21'
 descuento: '60.00'
+average: '9.18'
 ---
 
 Está [Tuc Tuc Prenda Volantes FÁBULA  Camiseta para Niñas   Blanco 00   2 años  Tamaño del Fabricante:2A ](https://www.amazon.es/dp/B07G9SMRPX/?tag=tolees-21) con 60.00 de descuento por 9.18 EUR (original: 22.95 EUR) en el siguiente enlace!

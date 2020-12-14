@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074FWNJK5/?tag=tolees-21'
 descuento: '70.00'
+average: '9'
 ---
 
 Está [FIND Sudadera con Capucha y Detalle Bordado para Hombre  Azul  Navy   Large](https://www.amazon.es/dp/B074FWNJK5/?tag=tolees-21) con 70.00 de descuento por 9 EUR (original: 30 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N6P1XY3/?tag=tolees-21'
 descuento: '65.79'
+average: '12.46'
 ---
 
 Ahora mismo tienes [edc by Esprit Camisa casual para Hombre  Blanco  Off White   Small](https://www.amazon.es/dp/B01N6P1XY3/?tag=tolees-21) a 12.46 EUR (original: 36.42 EUR) (65.79 %  de descuento) en el siguiente enlace!

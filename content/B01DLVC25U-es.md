@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01DLVC25U/?tag=tolees-21'
 descuento: '73.60'
+average: '8.7'
 ---
 
 Ahora mismo tienes [blue seven Da Shirt  Rundhals  Camiseta para Mujer  Negro  Anthrazit Orig  42](https://www.amazon.es/dp/B01DLVC25U/?tag=tolees-21) a 8.7 EUR (original: 32.95 EUR) (73.60 %  de descuento) en el siguiente enlace!

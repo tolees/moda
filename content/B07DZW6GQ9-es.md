@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DZW6GQ9/?tag=tolees-21'
 descuento: '37.00'
+average: '12.6'
 ---
 
 Está [Levis Footwear and Accessories Dodge Sportswear  Chanclas para Hombre  Negro  Regular Black 59   L](https://www.amazon.es/dp/B07DZW6GQ9/?tag=tolees-21) con 37.00 de descuento por 12.6 EUR (original: 20 EUR) en el siguiente enlace!

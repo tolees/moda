@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CG7ZBL4/?tag=tolees-21'
 descuento: '25.01'
+average: '17.24'
 ---
 
 Tienes [Iris & Lilly Bañador con Espalda Cruzada Mujer  Morado  Purple Khaki   85B  Talla del fabricante: Small ](https://www.amazon.es/dp/B07CG7ZBL4/?tag=tolees-21) con un 25.01 % de descuento con precio de oferta de 17.24 EUR (original: 22.99 EUR) en el siguiente enlace!

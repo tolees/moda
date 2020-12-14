@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GRLVZPS/?tag=tolees-21'
 descuento: '56.26'
+average: '34.95'
 ---
 
 Está [Urban Classics Hooded Puffer Jacket Chaqueta  Negro  Black 00007   XXXX-Large para Hombre](https://www.amazon.es/dp/B07GRLVZPS/?tag=tolees-21) con 56.26 de descuento por 34.95 EUR (original: 79.9 EUR) en el siguiente enlace!

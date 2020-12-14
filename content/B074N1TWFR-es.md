@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074N1TWFR/?tag=tolees-21'
 descuento: '56.44'
+average: '7.84'
 ---
 
 Tienes [FIND Jersey sin Mangas Mujer  Gris  Grey   40  Talla del Fabricante: Medium ](https://www.amazon.es/dp/B074N1TWFR/?tag=tolees-21) con un 56.44 % de descuento con precio de oferta de 7.84 EUR (original: 18 EUR) en el siguiente enlace!

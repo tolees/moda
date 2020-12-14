@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N9EECWC/?tag=tolees-21'
 descuento: '55.74'
+average: '35.4'
 ---
 
 Está [Columbia Fire Side Sherpa Full Zip Chaqueta Polar  Mujer  Negro  Talla XL](https://www.amazon.es/dp/B01N9EECWC/?tag=tolees-21) con 55.74 de descuento por 35.4 EUR (original: 79.99 EUR) en el siguiente enlace!

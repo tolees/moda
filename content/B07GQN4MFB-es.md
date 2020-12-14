@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GQN4MFB/?tag=tolees-21'
 descuento: '48.34'
+average: '30.99'
 ---
 
 Ahora mismo tienes [Zapatillas Deporte Hombre Zapatos para Correr Athletic Cordones Air Cushion Running Sports Sneakers](https://www.amazon.es/dp/B07GQN4MFB/?tag=tolees-21) a 30.99 EUR (original: 59.99 EUR) (48.34 %  de descuento) en el siguiente enlace!

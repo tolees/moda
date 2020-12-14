@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N2K78GX/?tag=tolees-21'
 descuento: '69.61'
+average: '10.96'
 ---
 
 Tienes [edc by Esprit 027cc2f005  Camisa Hombre  Rojo  Berry Red   Small](https://www.amazon.es/dp/B01N2K78GX/?tag=tolees-21) con un 69.61 % de descuento con precio de oferta de 10.96 EUR (original: 36.06 EUR) en el siguiente enlace!

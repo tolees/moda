@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079RS1FDL/?tag=tolees-21'
 descuento: '60.00'
+average: '44'
 ---
 
 Ahora mismo tienes [Pepe Jeans Tami  Parka para Mujer  Azul  Dulwich 594  S](https://www.amazon.es/dp/B079RS1FDL/?tag=tolees-21) a 44 EUR (original: 110 EUR) (60.00 %  de descuento) en el siguiente enlace!

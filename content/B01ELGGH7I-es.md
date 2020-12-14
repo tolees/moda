@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01ELGGH7I/?tag=tolees-21'
 descuento: '80.20'
+average: '9.89'
 ---
 
 Ahora mismo tienes [Blend Sabbi Dr  Vestido para Mujer  Rojo  Tawny Port  36  Talla del Fabricante: XS ](https://www.amazon.es/dp/B01ELGGH7I/?tag=tolees-21) a 9.89 EUR (original: 49.94 EUR) (80.20 %  de descuento) en el siguiente enlace!

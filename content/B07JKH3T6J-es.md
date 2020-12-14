@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JKH3T6J/?tag=tolees-21'
 descuento: '88.41'
+average: '28.97'
 ---
 
 Está [Seven for all Mankind International SAGL The Vaqueros Skinny  Azul  Slim Illusion Figueroa 0bb   W25/L30  Talla del Fabricante: 25  para Mujer](https://www.amazon.es/dp/B07JKH3T6J/?tag=tolees-21) con 88.41 de descuento por 28.97 EUR (original: 250 EUR) en el siguiente enlace!

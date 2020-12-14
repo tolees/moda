@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DRB7XHR/?tag=tolees-21'
 descuento: '66.32'
+average: '15.49'
 ---
 
 Ahora mismo tienes [MTNG Collection 57401  Botines para Mujer   Antil Negro C35442   37 EU](https://www.amazon.es/dp/B07DRB7XHR/?tag=tolees-21) a 15.49 EUR (original: 45.99 EUR) (66.32 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00OKWSYLG/?tag=tolees-21'
 descuento: '64.08'
+average: '35.88'
 ---
 
 Tienes [Geox D Giyo  Zapatillas Altas para Mujer  Negro  Black C9999   39 EU](https://www.amazon.es/dp/B00OKWSYLG/?tag=tolees-21) con un 64.08 % de descuento con precio de oferta de 35.88 EUR (original: 99.9 EUR) en el siguiente enlace!

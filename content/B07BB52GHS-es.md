@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BB52GHS/?tag=tolees-21'
 descuento: '56.07'
+average: '13.18'
 ---
 
 Ahora mismo tienes [The North Face LOGOWEAR  Camiseta de manga corta  Mujer  Multicolor  Tnfblk/Mtlccppr   XS](https://www.amazon.es/dp/B07BB52GHS/?tag=tolees-21) a 13.18 EUR (original: 30 EUR) (56.07 %  de descuento) en el siguiente enlace!

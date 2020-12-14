@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XH4SGT4/?tag=tolees-21'
 descuento: '65.98'
+average: '95.25'
 ---
 
 Ahora mismo tienes [Helly Hansen Galway Parka Chaqueta  Verde  Large  Tamaño del Fabricante:L  para Hombre](https://www.amazon.es/dp/B06XH4SGT4/?tag=tolees-21) a 95.25 EUR (original: 280 EUR) (65.98 %  de descuento) en el siguiente enlace!

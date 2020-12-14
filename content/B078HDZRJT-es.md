@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078HDZRJT/?tag=tolees-21'
 descuento: '50.91'
+average: '7.85'
 ---
 
 Tienes [Springfield Camiseta Bolsillo Lentejuelas Manga Larga   Gama Azules   Medium  Tamaño del Fabricante:M  para Mujer](https://www.amazon.es/dp/B078HDZRJT/?tag=tolees-21) con un 50.91 % de descuento con precio de oferta de 7.85 EUR (original: 15.99 EUR) en el siguiente enlace!

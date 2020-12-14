@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MRL3FGS/?tag=tolees-21'
 descuento: '70.94'
+average: '10.31'
 ---
 
 Está [Bellfield Jersey Gris S](https://www.amazon.es/dp/B01MRL3FGS/?tag=tolees-21) con 70.94 de descuento por 10.31 EUR (original: 35.48 EUR) en el siguiente enlace!

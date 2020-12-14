@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KMV73NT/?tag=tolees-21'
 descuento: '60.76'
+average: '29.43'
 ---
 
 Ahora mismo tienes [Volcom TIMESOFT Heather Zip Sudadera  Hombre  Army  M](https://www.amazon.es/dp/B07KMV73NT/?tag=tolees-21) a 29.43 EUR (original: 75 EUR) (60.76 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D71J7YB/?tag=tolees-21'
 descuento: '44.01'
+average: '61.59'
 ---
 
 Está [Levi s 501 Original Vaqueros Azul  Cooskie Blue 2643  W40/L34 para Hombre](https://www.amazon.es/dp/B07D71J7YB/?tag=tolees-21) con 44.01 de descuento por 61.59 EUR (original: 110 EUR) en el siguiente enlace!

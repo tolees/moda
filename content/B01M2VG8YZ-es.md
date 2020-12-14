@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01M2VG8YZ/?tag=tolees-21'
 descuento: '75.23'
+average: '28.48'
 ---
 
 Ahora mismo tienes [Geox D THYMAR B  Zapatillas para Mujer  Beige Gold/LT TAUPEC2LH6  41 EU](https://www.amazon.es/dp/B01M2VG8YZ/?tag=tolees-21) a 28.48 EUR (original: 115 EUR) (75.23 %  de descuento) en el siguiente enlace!

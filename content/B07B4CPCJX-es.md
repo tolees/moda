@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07B4CPCJX/?tag=tolees-21'
 descuento: '66.88'
+average: '33.09'
 ---
 
 Ahora mismo tienes [Nanos Jersey para Niñas   Rosa Palo 26   3 años  Tamaño del Fabricante:3 ](https://www.amazon.es/dp/B07B4CPCJX/?tag=tolees-21) a 33.09 EUR (original: 99.9 EUR) (66.88 %  de descuento) en el siguiente enlace!

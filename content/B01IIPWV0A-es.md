@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01IIPWV0A/?tag=tolees-21'
 descuento: '30.03'
+average: '31.45'
 ---
 
 Está [Skechers On-The-Go 400-Tropical  Sandalias Flip-Flop para Mujer  Negro  Gry   38 EU](https://www.amazon.es/dp/B01IIPWV0A/?tag=tolees-21) con 30.03 de descuento por 31.45 EUR (original: 44.95 EUR) en el siguiente enlace!

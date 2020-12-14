@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01HJL97LU/?tag=tolees-21'
 descuento: '63.61'
+average: '18.19'
 ---
 
 Ahora mismo tienes [TOM TAILOR Kleid uni v-neck  vestido Mujer  Negro  black   36](https://www.amazon.es/dp/B01HJL97LU/?tag=tolees-21) a 18.19 EUR (original: 49.99 EUR) (63.61 %  de descuento) en el siguiente enlace!

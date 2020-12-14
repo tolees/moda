@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07LFF5B47/?tag=tolees-21'
 descuento: '45.07'
+average: '27.41'
 ---
 
 Ahora mismo tienes [Dolores Promesas PV19 1036VERDE Sudadera  Mujer  Verde  Verde 00   Medium  Tamaño del Fabricante:M ](https://www.amazon.es/dp/B07LFF5B47/?tag=tolees-21) a 27.41 EUR (original: 49.9 EUR) (45.07 %  de descuento) en el siguiente enlace!

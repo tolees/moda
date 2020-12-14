@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DVKVJJ1/?tag=tolees-21'
 descuento: '32.35'
+average: '30.41'
 ---
 
 Ahora mismo tienes [adidas Hoops Mid 2.0  Zapatos de Baloncesto Unisex Niños  Blanco Ftwwht/Reamag/Trablu  30 EU](https://www.amazon.es/dp/B07DVKVJJ1/?tag=tolees-21) a 30.41 EUR (original: 44.95 EUR) (32.35 %  de descuento) en el siguiente enlace!

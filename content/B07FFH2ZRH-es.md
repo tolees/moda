@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FFH2ZRH/?tag=tolees-21'
 descuento: '53.61'
+average: '13.99'
 ---
 
 Tienes [Pantalón Corto Deportivo para Mujer  Running Pantalones cortos de yoga con bolsillo lateral   Fitness Mallas Deportivas  Polainas de yoga Fitness  pantalones deportivos y elásticos polaina  Gris  L ](https://www.amazon.es/dp/B07FFH2ZRH/?tag=tolees-21) con un 53.61 % de descuento con precio de oferta de 13.99 EUR (original: 30.16 EUR) en el siguiente enlace!

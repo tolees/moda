@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074XYRFY7/?tag=tolees-21'
 descuento: '71.93'
+average: '13.46'
 ---
 
 Tienes [BOSS Trunk 2p Gift Co/el Bóxer  Azul  Open Blue 495   Small  Pack de 2 para Hombre](https://www.amazon.es/dp/B074XYRFY7/?tag=tolees-21) con un 71.93 % de descuento con precio de oferta de 13.46 EUR (original: 47.95 EUR) en el siguiente enlace!

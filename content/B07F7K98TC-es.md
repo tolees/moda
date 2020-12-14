@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F7K98TC/?tag=tolees-21'
 descuento: '68.30'
+average: '9.51'
 ---
 
 Está [Burton Retro Mountain Shortsleeve Camiseta  Hombre  Negro  True   S](https://www.amazon.es/dp/B07F7K98TC/?tag=tolees-21) con 68.30 de descuento por 9.51 EUR (original: 30 EUR) en el siguiente enlace!

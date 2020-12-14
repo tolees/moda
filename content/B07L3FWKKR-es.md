@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07L3FWKKR/?tag=tolees-21'
 descuento: '32.46'
+average: '26.95'
 ---
 
 Está [Tommy Hilfiger Corporate Stripe Beach Sandal  Chanclas para Hombre  Azul  Midnight 403   46 EU](https://www.amazon.es/dp/B07L3FWKKR/?tag=tolees-21) con 32.46 de descuento por 26.95 EUR (original: 39.9 EUR) en el siguiente enlace!

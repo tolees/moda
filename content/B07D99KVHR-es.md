@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D99KVHR/?tag=tolees-21'
 descuento: '80.04'
+average: '9.97'
 ---
 
 Está [XTI 48432  Botines para Mujer  Marrón Camel  38 EU](https://www.amazon.es/dp/B07D99KVHR/?tag=tolees-21) con 80.04 de descuento por 9.97 EUR (original: 49.95 EUR) en el siguiente enlace!

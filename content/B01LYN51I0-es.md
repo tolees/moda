@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01LYN51I0/?tag=tolees-21'
 descuento: '63.75'
+average: '25.36'
 ---
 
 Está [Desigual VEST_FOUR  Vestido para Mujer  Blanco  White/Black   Medium](https://www.amazon.es/dp/B01LYN51I0/?tag=tolees-21) con 63.75 de descuento por 25.36 EUR (original: 69.95 EUR) en el siguiente enlace!

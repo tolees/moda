@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06WWM8F75/?tag=tolees-21'
 descuento: '42.73'
+average: '6.3'
 ---
 
 Ahora mismo tienes [Disney Bella Bolso Bandolera  17 cm  1.02 Litros  Varios colores](https://www.amazon.es/dp/B06WWM8F75/?tag=tolees-21) a 6.3 EUR (original: 11 EUR) (42.73 %  de descuento) en el siguiente enlace!

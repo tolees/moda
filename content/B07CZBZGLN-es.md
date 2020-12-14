@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CZBZGLN/?tag=tolees-21'
 descuento: '50.17'
+average: '14.95'
 ---
 
 Está [Reef One Slide  Chanclas para Hombre   Grey/Orange Gor   42 EU](https://www.amazon.es/dp/B07CZBZGLN/?tag=tolees-21) con 50.17 de descuento por 14.95 EUR (original: 30 EUR) en el siguiente enlace!

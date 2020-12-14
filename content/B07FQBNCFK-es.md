@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FQBNCFK/?tag=tolees-21'
 descuento: '81.90'
+average: '12.67'
 ---
 
 Está [JACK & JONES Jjiglenn Jjoriginal Jos 102 STS Vaqueros Slim  Azul Blue Denim  W32/L36 para Hombre](https://www.amazon.es/dp/B07FQBNCFK/?tag=tolees-21) con 81.90 de descuento por 12.67 EUR (original: 69.99 EUR) en el siguiente enlace!

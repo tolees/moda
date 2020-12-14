@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N7HTXPV/?tag=tolees-21'
 descuento: '79.54'
+average: '24.53'
 ---
 
 Ahora mismo tienes [Tommy Jeans Mujer MID RISE BOOT SANDY SPBL Vaqueros  Pantalones Boot Cut Negro  Splash Black  W26/L30  Talla del fabricante: 3026 ](https://www.amazon.es/dp/B01N7HTXPV/?tag=tolees-21) a 24.53 EUR (original: 119.9 EUR) (79.54 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0758HP3CJ/?tag=tolees-21'
 descuento: '48.91'
+average: '25.54'
 ---
 
 Ahora mismo tienes [edc by Esprit 997cc1b817 Vaqueros Skinny  Azul  Blue Medium Wash 902   W28/L30 para Mujer](https://www.amazon.es/dp/B0758HP3CJ/?tag=tolees-21) a 25.54 EUR (original: 49.99 EUR) (48.91 %  de descuento) en el siguiente enlace!

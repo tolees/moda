@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0771WXYKT/?tag=tolees-21'
 descuento: '41.57'
+average: '37.95'
 ---
 
 Tienes [Columbia Mujer Pantalón  Silver Ridge  Gris  Flint Grey   Talla: 42](https://www.amazon.es/dp/B0771WXYKT/?tag=tolees-21) con un 41.57 % de descuento con precio de oferta de 37.95 EUR (original: 64.95 EUR) en el siguiente enlace!

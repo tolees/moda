@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DG46WFN/?tag=tolees-21'
 descuento: '60.59'
+average: '42.56'
 ---
 
 Ahora mismo tienes [Love Moschino T-Shirts Camiseta  Gris  Mel.Dark Gray B922   40  Talla del Fabricante: 42  para Mujer](https://www.amazon.es/dp/B07DG46WFN/?tag=tolees-21) a 42.56 EUR (original: 108 EUR) (60.59 %  de descuento) en el siguiente enlace!

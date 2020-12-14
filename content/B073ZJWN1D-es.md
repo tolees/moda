@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073ZJWN1D/?tag=tolees-21'
 descuento: '47.45'
+average: '31.53'
 ---
 
 Ahora mismo tienes [Marmot Eldridge SS Camisa  Hombre  Azul  Varsity Blue   M](https://www.amazon.es/dp/B073ZJWN1D/?tag=tolees-21) a 31.53 EUR (original: 60 EUR) (47.45 %  de descuento) en el siguiente enlace!

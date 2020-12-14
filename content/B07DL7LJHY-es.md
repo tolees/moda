@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DL7LJHY/?tag=tolees-21'
 descuento: '74.25'
+average: '23.17'
 ---
 
 Ahora mismo tienes [Springfield 7Wh-Abriguillo C/Borrego  Chaqueta para Hombre   Azul Marino 10   Large  Tamaño del Fabricante:L ](https://www.amazon.es/dp/B07DL7LJHY/?tag=tolees-21) a 23.17 EUR (original: 89.99 EUR) (74.25 %  de descuento) en el siguiente enlace!

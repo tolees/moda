@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01M3SIKSX/?tag=tolees-21'
 descuento: '28.89'
+average: '3.2'
 ---
 
 Está [oodji Ultra Mujer Camiseta con Estampado de Flores Triangular  Blanco  ES 36 / XS](https://www.amazon.es/dp/B01M3SIKSX/?tag=tolees-21) con 28.89 de descuento por 3.2 EUR (original: 4.5 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N9HKB0K/?tag=tolees-21'
 descuento: '82.30'
+average: '7.08'
 ---
 
 Está [Esprit 037ee1j010  Sudadera Mujer   Off White   38  Talla del Fabricante: Medium ](https://www.amazon.es/dp/B01N9HKB0K/?tag=tolees-21) con 82.30 de descuento por 7.08 EUR (original: 39.99 EUR) en el siguiente enlace!

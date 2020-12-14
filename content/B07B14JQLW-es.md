@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07B14JQLW/?tag=tolees-21'
 descuento: '67.51'
+average: '12.67'
 ---
 
 Tienes [find. Falda Plisada Mujer  Multicolor  Multicoloured   Small](https://www.amazon.es/dp/B07B14JQLW/?tag=tolees-21) con un 67.51 % de descuento con precio de oferta de 12.67 EUR (original: 39 EUR) en el siguiente enlace!

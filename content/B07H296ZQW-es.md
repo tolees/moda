@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07H296ZQW/?tag=tolees-21'
 descuento: '53.50'
+average: '19.99'
 ---
 
 Tienes [ZAFUL Suéter Mujer de Cuello Alto Sueter Básico Corto Jersey de Punto para Invierno Otoño Jerséis Suelto de Manga Larga Casual Sweater  S - L](https://www.amazon.es/dp/B07H296ZQW/?tag=tolees-21) con un 53.50 % de descuento con precio de oferta de 19.99 EUR (original: 42.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BZL8R1K/?tag=tolees-21'
 descuento: '83.32'
+average: '19.18'
 ---
 
 Está [Remonte R2671  Botines para Mujer  Negro  Schwarz 01   39 EU](https://www.amazon.es/dp/B07BZL8R1K/?tag=tolees-21) con 83.32 de descuento por 19.18 EUR (original: 115 EUR) en el siguiente enlace!

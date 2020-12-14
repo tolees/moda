@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CRCB92N/?tag=tolees-21'
 descuento: '74.73'
+average: '24.01'
 ---
 
 Tienes [Pepe Jeans New Brooke Vaqueros Hombre Ajustados  Azul  Denim GN2   32W / 34L para Mujer](https://www.amazon.es/dp/B07CRCB92N/?tag=tolees-21) con un 74.73 % de descuento con precio de oferta de 24.01 EUR (original: 95 EUR) en el siguiente enlace!

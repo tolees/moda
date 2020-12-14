@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XCXRG8R/?tag=tolees-21'
 descuento: '84.85'
+average: '6.06'
 ---
 
 Ahora mismo tienes [Cortefiel 5367042  Falda para Mujer  Negro  XL](https://www.amazon.es/dp/B06XCXRG8R/?tag=tolees-21) a 6.06 EUR (original: 39.99 EUR) (84.85 %  de descuento) en el siguiente enlace!

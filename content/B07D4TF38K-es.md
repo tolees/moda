@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D4TF38K/?tag=tolees-21'
 descuento: '55.21'
+average: '22.39'
 ---
 
 Está [Only & Sons Onsace Jacket  Chaqueta para Hombre  Rhubarb  X-Large](https://www.amazon.es/dp/B07D4TF38K/?tag=tolees-21) con 55.21 de descuento por 22.39 EUR (original: 49.99 EUR) en el siguiente enlace!

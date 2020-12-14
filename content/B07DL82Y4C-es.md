@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DL82Y4C/?tag=tolees-21'
 descuento: '50.28'
+average: '11.43'
 ---
 
 Tienes [Springfield 4.Fq.Blusa Chantilly Blusa  Mujer  Negro  Negro 1   36  Tamaño del Fabricante:36 ](https://www.amazon.es/dp/B07DL82Y4C/?tag=tolees-21) con un 50.28 % de descuento con precio de oferta de 11.43 EUR (original: 22.99 EUR) en el siguiente enlace!

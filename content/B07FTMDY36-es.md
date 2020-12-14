@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FTMDY36/?tag=tolees-21'
 descuento: '62.39'
+average: '18.8'
 ---
 
 Está [Vero Moda Vmexcursion Expedition Aw18 3/4 Parka  Abrigo Mujer  Marfil  Oatmeal   38  Talla del Fabricante: Small ](https://www.amazon.es/dp/B07FTMDY36/?tag=tolees-21) con 62.39 de descuento por 18.8 EUR (original: 49.99 EUR) en el siguiente enlace!

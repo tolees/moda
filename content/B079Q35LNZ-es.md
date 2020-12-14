@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079Q35LNZ/?tag=tolees-21'
 descuento: '73.25'
+average: '26.74'
 ---
 
 Tienes [Lee Daren Zip Fly  Vaqueros Straight para Hombre  Azul  Blue Worn Ve  W28/L34](https://www.amazon.es/dp/B079Q35LNZ/?tag=tolees-21) con un 73.25 % de descuento con precio de oferta de 26.74 EUR (original: 99.95 EUR) en el siguiente enlace!

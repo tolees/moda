@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CQ3PS7Y/?tag=tolees-21'
 descuento: '55.06'
+average: '26.96'
 ---
 
 Ahora mismo tienes [Tom Tailor Denim NELA Split L  Light Stone Wash Denim  29  Vaqueros Slim Mujer  Azul  Light Den 10280   W29](https://www.amazon.es/dp/B07CQ3PS7Y/?tag=tolees-21) a 26.96 EUR (original: 59.99 EUR) (55.06 %  de descuento) en el siguiente enlace!

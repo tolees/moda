@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FJWK6J8/?tag=tolees-21'
 descuento: '60.03'
+average: '35.95'
 ---
 
 Tienes [Lee Luke Vaqueros Tapered  Negro  Black Worn TV   W32/L34  Talla del Fabricante: 34/32  para Hombre](https://www.amazon.es/dp/B07FJWK6J8/?tag=tolees-21) con un 60.03 % de descuento con precio de oferta de 35.95 EUR (original: 89.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DQ6XS9P/?tag=tolees-21'
 descuento: '55.01'
+average: '31.45'
 ---
 
 Está [Urban Classics Hooded Puffer Jacket  Chaqueta para Hombre  Oliva Profundo  XL](https://www.amazon.es/dp/B07DQ6XS9P/?tag=tolees-21) con 55.01 de descuento por 31.45 EUR (original: 69.9 EUR) en el siguiente enlace!

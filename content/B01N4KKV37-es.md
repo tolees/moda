@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N4KKV37/?tag=tolees-21'
 descuento: '58.66'
+average: '12.38'
 ---
 
 Tienes [Tom Tailor Floyd Summer Print Shirt  Camisa Hombre  Azul  Medium Deep Sky Blue 6993   Small](https://www.amazon.es/dp/B01N4KKV37/?tag=tolees-21) con un 58.66 % de descuento con precio de oferta de 12.38 EUR (original: 29.95 EUR) en el siguiente enlace!

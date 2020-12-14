@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01LYCVKZ9/?tag=tolees-21'
 descuento: '86.02'
+average: '18.03'
 ---
 
 Está [Geographical Norway Chaqueta Negro ES 40  DE 38 ](https://www.amazon.es/dp/B01LYCVKZ9/?tag=tolees-21) con 86.02 de descuento por 18.03 EUR (original: 129 EUR) en el siguiente enlace!

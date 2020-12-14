@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BB56YPM/?tag=tolees-21'
 descuento: '30.02'
+average: '10.49'
 ---
 
 Tienes [Iris & Lilly Sujetador de Triángulo con Encaje Mujer  Pack de 2  Negro  Black Beauty   L](https://www.amazon.es/dp/B07BB56YPM/?tag=tolees-21) con un 30.02 % de descuento con precio de oferta de 10.49 EUR (original: 14.99 EUR) en el siguiente enlace!

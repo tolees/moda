@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078LN9W2Y/?tag=tolees-21'
 descuento: '61.77'
+average: '56.97'
 ---
 
 Ahora mismo tienes [Tommy Jeans Hombre Coach  Chaqueta Manga Larga  Azul  Black Iris 002  X-Large](https://www.amazon.es/dp/B078LN9W2Y/?tag=tolees-21) a 56.97 EUR (original: 149 EUR) (61.77 %  de descuento) en el siguiente enlace!

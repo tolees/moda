@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XPM549Z/?tag=tolees-21'
 descuento: '59.98'
+average: '8'
 ---
 
 Tienes [IRIS & LILLY Bañador con Espalda Escotada para Mujer  Multicolor  Animal Print/fuchsia/turquoise Strap   12  Talla del fabricante: Medium ](https://www.amazon.es/dp/B06XPM549Z/?tag=tolees-21) con un 59.98 % de descuento con precio de oferta de 8 EUR (original: 19.99 EUR) en el siguiente enlace!

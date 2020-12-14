@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0714DRWMB/?tag=tolees-21'
 descuento: '47.24'
+average: '29.02'
 ---
 
 Tienes [Under Armour Rival Fitted Full Zip Sudadera  Hombre  Azul  Midnight Navy/White 410   XS](https://www.amazon.es/dp/B0714DRWMB/?tag=tolees-21) con un 47.24 % de descuento con precio de oferta de 29.02 EUR (original: 55 EUR) en el siguiente enlace!

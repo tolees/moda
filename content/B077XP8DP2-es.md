@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077XP8DP2/?tag=tolees-21'
 descuento: '61.84'
+average: '10.68'
 ---
 
 Tienes [Under Armour UA Pantalón Corto  Hombre  Ropa Deportiva con Logotipo  Ligera y Transpirable  Steel/Black  035   SM](https://www.amazon.es/dp/B077XP8DP2/?tag=tolees-21) con un 61.84 % de descuento con precio de oferta de 10.68 EUR (original: 27.99 EUR) en el siguiente enlace!

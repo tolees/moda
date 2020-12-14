@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079Y8SDF1/?tag=tolees-21'
 descuento: '49.03'
+average: '117.22'
 ---
 
 Está [BOSS Business Hannover_oxfr_buwt  Zapatos de Cordones Oxford para Hombre  Negro  Black 001   44 EU](https://www.amazon.es/dp/B079Y8SDF1/?tag=tolees-21) con 49.03 de descuento por 117.22 EUR (original: 230 EUR) en el siguiente enlace!

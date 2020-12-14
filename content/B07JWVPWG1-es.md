@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JWVPWG1/?tag=tolees-21'
 descuento: '57.82'
+average: '18.96'
 ---
 
 Ahora mismo tienes [PUMA Modern Sports FoldUp Leggins  Mujer  Negro Black/Fair Aqua Silver  M](https://www.amazon.es/dp/B07JWVPWG1/?tag=tolees-21) a 18.96 EUR (original: 44.95 EUR) (57.82 %  de descuento) en el siguiente enlace!

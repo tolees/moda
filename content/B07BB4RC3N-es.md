@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BB4RC3N/?tag=tolees-21'
 descuento: '50.00'
+average: '35'
 ---
 
 Ahora mismo tienes [The North Face M 1/4 Jersey Glacier Delta  Hombre  Hyper Blue/Urban Navy  S](https://www.amazon.es/dp/B07BB4RC3N/?tag=tolees-21) a 35 EUR (original: 70 EUR) (50.00 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KTGCXS9/?tag=tolees-21'
 descuento: '73.55'
+average: '13.21'
 ---
 
 Está [United Colors of Benetton Hombre Sweater L/s Jersey Not Applicable  Gris  Grigio Melange 501   Talla única  Talla del Fabricante: X-Large ](https://www.amazon.es/dp/B07KTGCXS9/?tag=tolees-21) con 73.55 de descuento por 13.21 EUR (original: 49.95 EUR) en el siguiente enlace!

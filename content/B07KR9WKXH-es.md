@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KR9WKXH/?tag=tolees-21'
 descuento: '55.29'
+average: '17.88'
 ---
 
 Está [Under Armour UA Streaker 2.0 Twist SS Camiseta  Hombre  Naranja COHO Full Heather/Reflective 812  S](https://www.amazon.es/dp/B07KR9WKXH/?tag=tolees-21) con 55.29 de descuento por 17.88 EUR (original: 39.99 EUR) en el siguiente enlace!

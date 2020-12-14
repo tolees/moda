@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077Y6CL1J/?tag=tolees-21'
 descuento: '40.00'
+average: '19.77'
 ---
 
 Tienes [HIKARO Sudadera con Capucha Hombre  Azul  Denim   56  Talla del fabricante: XX-Large ](https://www.amazon.es/dp/B077Y6CL1J/?tag=tolees-21) con un 40.00 % de descuento con precio de oferta de 19.77 EUR (original: 32.95 EUR) en el siguiente enlace!

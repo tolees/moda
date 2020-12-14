@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077XQVY78/?tag=tolees-21'
 descuento: '47.53'
+average: '20.99'
 ---
 
 Ahora mismo tienes [Under Armour - Camiseta de Manga Corta para Hombre  Estilo Deportivo  Hombre  1320715-492  Moss Green/Black  Medium](https://www.amazon.es/dp/B077XQVY78/?tag=tolees-21) a 20.99 EUR (original: 40 EUR) (47.53 %  de descuento) en el siguiente enlace!

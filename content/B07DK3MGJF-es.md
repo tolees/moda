@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DK3MGJF/?tag=tolees-21'
 descuento: '54.09'
+average: '27.5'
 ---
 
 Está [Geox J Alonisso Boy E  Zapatillas para Niños  Azul  Navy/White C4211   37 EU](https://www.amazon.es/dp/B07DK3MGJF/?tag=tolees-21) con 54.09 de descuento por 27.5 EUR (original: 59.9 EUR) en el siguiente enlace!

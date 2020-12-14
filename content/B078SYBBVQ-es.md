@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078SYBBVQ/?tag=tolees-21'
 descuento: '53.59'
+average: '10.67'
 ---
 
 Tienes [Women’secret Pijama Corto Pijama de una Pieza  Mujer   Several 98   Medium  Tamaño del Fabricante:M ](https://www.amazon.es/dp/B078SYBBVQ/?tag=tolees-21) con un 53.59 % de descuento con precio de oferta de 10.67 EUR (original: 22.99 EUR) en el siguiente enlace!

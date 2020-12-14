@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MZJ75CZ/?tag=tolees-21'
 descuento: '46.15'
+average: '69.95'
 ---
 
 Está [Superdry Rookie Duty Bomber Chaqueta  Azul  Washed Navy Jbk   Small para Hombre](https://www.amazon.es/dp/B07MZJ75CZ/?tag=tolees-21) con 46.15 de descuento por 69.95 EUR (original: 129.9 EUR) en el siguiente enlace!

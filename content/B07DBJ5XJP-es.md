@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DBJ5XJP/?tag=tolees-21'
 descuento: '73.46'
+average: '15.91'
 ---
 
 Tienes [United Colors of Benetton Jacket  Chaqueta para Niños  Azul  Bluette 76c  110  Talla del Fabricante: X-Small ](https://www.amazon.es/dp/B07DBJ5XJP/?tag=tolees-21) con un 73.46 % de descuento con precio de oferta de 15.91 EUR (original: 59.95 EUR) en el siguiente enlace!

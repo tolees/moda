@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078WXV4BG/?tag=tolees-21'
 descuento: '46.59'
+average: '13.88'
 ---
 
 Está [Quiksilver Classic Revenge Camiseta  Hombre  Anthracite/Solid  M](https://www.amazon.es/dp/B078WXV4BG/?tag=tolees-21) con 46.59 de descuento por 13.88 EUR (original: 25.99 EUR) en el siguiente enlace!

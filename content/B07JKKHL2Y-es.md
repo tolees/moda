@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JKKHL2Y/?tag=tolees-21'
 descuento: '39.73'
+average: '18.05'
 ---
 
 Tienes [Refresh 69769  Sandalias con Punta Cerrada para Mujer  Amarillo  40 EU](https://www.amazon.es/dp/B07JKKHL2Y/?tag=tolees-21) con un 39.73 % de descuento con precio de oferta de 18.05 EUR (original: 29.95 EUR) en el siguiente enlace!

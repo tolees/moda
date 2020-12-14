@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B016WTZSIQ/?tag=tolees-21'
 descuento: '89.25'
+average: '4.3'
 ---
 
 Está [edc by Esprit Ethnic Jacqa SK Falda  Negro  38 para Mujer](https://www.amazon.es/dp/B016WTZSIQ/?tag=tolees-21) con 89.25 de descuento por 4.3 EUR (original: 40 EUR) en el siguiente enlace!

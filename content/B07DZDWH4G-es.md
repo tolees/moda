@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DZDWH4G/?tag=tolees-21'
 descuento: '46.98'
+average: '88.06'
 ---
 
 Ahora mismo tienes [DC Shoes Canongate 2 Parka  Hombre  Negro  Black Kvj0   X-Large  Tamaño del Fabricante:XL ](https://www.amazon.es/dp/B07DZDWH4G/?tag=tolees-21) a 88.06 EUR (original: 166.09 EUR) (46.98 %  de descuento) en el siguiente enlace!

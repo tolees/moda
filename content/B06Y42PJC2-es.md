@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06Y42PJC2/?tag=tolees-21'
 descuento: '80.85'
+average: '10.53'
 ---
 
 Ahora mismo tienes [My faldas Garbi  Falda Casual para Mujer  Negro  Black   38  Talla fabricante: M ](https://www.amazon.es/dp/B06Y42PJC2/?tag=tolees-21) a 10.53 EUR (original: 55 EUR) (80.85 %  de descuento) en el siguiente enlace!

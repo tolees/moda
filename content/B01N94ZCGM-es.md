@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N94ZCGM/?tag=tolees-21'
 descuento: '60.84'
+average: '42.68'
 ---
 
 Ahora mismo tienes [Ralph Lauren RALPH BY 0Ra5226 Gafas de sol  Black  56 para Mujer](https://www.amazon.es/dp/B01N94ZCGM/?tag=tolees-21) a 42.68 EUR (original: 109 EUR) (60.84 %  de descuento) en el siguiente enlace!

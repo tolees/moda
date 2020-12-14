@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07NYB36CR/?tag=tolees-21'
 descuento: '50.63'
+average: '39'
 ---
 
 Está [Tous BILLETERA M. K UNIQUE MARINO-MULTI](https://www.amazon.es/dp/B07NYB36CR/?tag=tolees-21) con 50.63 de descuento por 39 EUR (original: 79 EUR) en el siguiente enlace!

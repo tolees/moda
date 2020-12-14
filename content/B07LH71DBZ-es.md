@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07LH71DBZ/?tag=tolees-21'
 descuento: '47.63'
+average: '20.95'
 ---
 
 Tienes [The North Face Ambition S/S Camiseta de Manga Corta  Hombre  Negro  TNF Black Heather   XL](https://www.amazon.es/dp/B07LH71DBZ/?tag=tolees-21) con un 47.63 % de descuento con precio de oferta de 20.95 EUR (original: 40 EUR) en el siguiente enlace!

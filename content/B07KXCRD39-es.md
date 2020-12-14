@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KXCRD39/?tag=tolees-21'
 descuento: '48.29'
+average: '192.86'
 ---
 
 Está [Love Moschino Embroidered Allover \Ladybirds\_Chambray Hooded Dress  Vestido para Mujer  Azul  Embroidery 8001   42  Talla del Fabricante: 44 ](https://www.amazon.es/dp/B07KXCRD39/?tag=tolees-21) con 48.29 de descuento por 192.86 EUR (original: 373 EUR) en el siguiente enlace!

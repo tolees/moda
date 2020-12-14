@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B010FXN8A0/?tag=tolees-21'
 descuento: '54.23'
+average: '5.95'
 ---
 
 Tienes [Joma Katy Camiseta de tirantes  Mujer  Amarillo  S](https://www.amazon.es/dp/B010FXN8A0/?tag=tolees-21) con un 54.23 % de descuento con precio de oferta de 5.95 EUR (original: 13 EUR) en el siguiente enlace!

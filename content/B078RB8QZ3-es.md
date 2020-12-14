@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078RB8QZ3/?tag=tolees-21'
 descuento: '57.76'
+average: '12.65'
 ---
 
 Ahora mismo tienes [adidas Response Pantalón Corto  Hombre  Negro  Naalre   XL 5"](https://www.amazon.es/dp/B078RB8QZ3/?tag=tolees-21) a 12.65 EUR (original: 29.95 EUR) (57.76 %  de descuento) en el siguiente enlace!

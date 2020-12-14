@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FL5JDC9/?tag=tolees-21'
 descuento: '66.95'
+average: '24.79'
 ---
 
 Tienes [Superdry Cleveland Fairisle Knit  Jersey para Mujer  Gris  Mid Grey 40q   Small  Talla del Fabricante: 10.0 ](https://www.amazon.es/dp/B07FL5JDC9/?tag=tolees-21) con un 66.95 % de descuento con precio de oferta de 24.79 EUR (original: 75 EUR) en el siguiente enlace!

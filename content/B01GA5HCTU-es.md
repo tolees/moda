@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01GA5HCTU/?tag=tolees-21'
 descuento: '75.16'
+average: '7.44'
 ---
 
 Tienes [VERO MODA VMSUNSET ALLY LS BLOUSE  suéter Mujer  Rojo  Decadent Chocolate   38  Talla del fabricante: Medium ](https://www.amazon.es/dp/B01GA5HCTU/?tag=tolees-21) con un 75.16 % de descuento con precio de oferta de 7.44 EUR (original: 29.95 EUR) en el siguiente enlace!

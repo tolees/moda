@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B013X5RD9Y/?tag=tolees-21'
 descuento: '82.33'
+average: '16.79'
 ---
 
 Tienes [Les Sophistiquees - Abito Tubino Smanicato con Zip Decorative  Pack  Vestido Mujer  Rosa  M](https://www.amazon.es/dp/B013X5RD9Y/?tag=tolees-21) con un 82.33 % de descuento con precio de oferta de 16.79 EUR (original: 95 EUR) en el siguiente enlace!

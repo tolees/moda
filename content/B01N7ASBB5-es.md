@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N7ASBB5/?tag=tolees-21'
 descuento: '84.93'
+average: '6.78'
 ---
 
 Está [Vero Moda Vmelizabeth LS Cold Shoulder Blouse Loc  suéter Mujer  Azul  Navy Blazer   38  Talla del Fabricante: Medium ](https://www.amazon.es/dp/B01N7ASBB5/?tag=tolees-21) con 84.93 de descuento por 6.78 EUR (original: 44.99 EUR) en el siguiente enlace!

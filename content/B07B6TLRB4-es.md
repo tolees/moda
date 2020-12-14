@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07B6TLRB4/?tag=tolees-21'
 descuento: '60.26'
+average: '87.42'
 ---
 
 Ahora mismo tienes [Burton Lelah Chaqueta de Snowboard  Mujer  Rojo  Sparrow Heather   S](https://www.amazon.es/dp/B07B6TLRB4/?tag=tolees-21) a 87.42 EUR (original: 220 EUR) (60.26 %  de descuento) en el siguiente enlace!

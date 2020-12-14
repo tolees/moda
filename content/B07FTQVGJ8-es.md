@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FTQVGJ8/?tag=tolees-21'
 descuento: '79.76'
+average: '22.25'
 ---
 
 Tienes [Pantofola d Oro Lugo Suede Uomo Low  Zapatos de Cordones Derby para Hombre  Azul  Dress Blues .29Y   40 EU](https://www.amazon.es/dp/B07FTQVGJ8/?tag=tolees-21) con un 79.76 % de descuento con precio de oferta de 22.25 EUR (original: 109.95 EUR) en el siguiente enlace!

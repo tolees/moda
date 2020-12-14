@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CZ7M3BV/?tag=tolees-21'
 descuento: '49.86'
+average: '21.49'
 ---
 
 Ahora mismo tienes [Lacoste L.30 Slide 318 1 CAM  Chanclas para Hombre  Blanco Wht 21g  44.5 EU](https://www.amazon.es/dp/B07CZ7M3BV/?tag=tolees-21) a 21.49 EUR (original: 42.86 EUR) (49.86 %  de descuento) en el siguiente enlace!

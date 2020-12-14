@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DL79HJF/?tag=tolees-21'
 descuento: '72.89'
+average: '8.13'
 ---
 
 Ahora mismo tienes [Springfield Frq Gingham Melange  Camisa Casual para Hombre  Rojo  Gama Rojos 61  X-Large  Tamaño del Fabricante:XL ](https://www.amazon.es/dp/B07DL79HJF/?tag=tolees-21) a 8.13 EUR (original: 29.99 EUR) (72.89 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079KGD8PN/?tag=tolees-21'
 descuento: '50.03'
+average: '44.95'
 ---
 
 Tienes [Lee Daren Zip Fly Vaqueros rectors Rectos  Negro  Black Night Gz   29W/32L para Hombre](https://www.amazon.es/dp/B079KGD8PN/?tag=tolees-21) con un 50.03 % de descuento con precio de oferta de 44.95 EUR (original: 89.95 EUR) en el siguiente enlace!

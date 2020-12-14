@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01D1X3M6G/?tag=tolees-21'
 descuento: '50.00'
+average: '60'
 ---
 
 Ahora mismo tienes [Clarks Carleta Lyon  Botines para Mujer  Verde  Khaki Suede   37.5 EU](https://www.amazon.es/dp/B01D1X3M6G/?tag=tolees-21) a 60 EUR (original: 120 EUR) (50.00 %  de descuento) en el siguiente enlace!

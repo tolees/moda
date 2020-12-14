@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BJHGVNP/?tag=tolees-21'
 descuento: '67.64'
+average: '51.76'
 ---
 
 Está [G-STAR RAW Deline Track Overshirt  Chaqueta para Hombre  Negro  Dk Black 6484  Medium](https://www.amazon.es/dp/B07BJHGVNP/?tag=tolees-21) con 67.64 de descuento por 51.76 EUR (original: 159.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BJH9N1M/?tag=tolees-21'
 descuento: '47.74'
+average: '104.49'
 ---
 
 Ahora mismo tienes [G-STAR RAW Whistler Quilted HDD Bomber  Chaqueta Hombre  Negro  Dk Black 6484  Medium](https://www.amazon.es/dp/B07BJH9N1M/?tag=tolees-21) a 104.49 EUR (original: 199.95 EUR) (47.74 %  de descuento) en el siguiente enlace!

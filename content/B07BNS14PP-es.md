@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BNS14PP/?tag=tolees-21'
 descuento: '71.43'
+average: '39.99'
 ---
 
 Tienes [edc by Esprit 098cc1g004  Abrigo para Mujer  Verde  Khaki Green 350  X-Small](https://www.amazon.es/dp/B07BNS14PP/?tag=tolees-21) con un 71.43 % de descuento con precio de oferta de 39.99 EUR (original: 139.99 EUR) en el siguiente enlace!

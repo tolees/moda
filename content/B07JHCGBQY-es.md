@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JHCGBQY/?tag=tolees-21'
 descuento: '46.84'
+average: '29.21'
 ---
 
 Está [PUMA Modern Sports Hoody Sudadera  Mujer  Blanco White  XS](https://www.amazon.es/dp/B07JHCGBQY/?tag=tolees-21) con 46.84 de descuento por 29.21 EUR (original: 54.95 EUR) en el siguiente enlace!

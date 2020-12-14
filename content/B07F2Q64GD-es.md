@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F2Q64GD/?tag=tolees-21'
 descuento: '50.04'
+average: '34.97'
 ---
 
 Está [Helly Hansen W Hh Logo Hoodie  Sudadera con capucha para Mujer  Blanco  Blanco 001   Medium](https://www.amazon.es/dp/B07F2Q64GD/?tag=tolees-21) con 50.04 de descuento por 34.97 EUR (original: 70 EUR) en el siguiente enlace!

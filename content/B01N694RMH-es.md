@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N694RMH/?tag=tolees-21'
 descuento: '50.00'
+average: '114.99'
 ---
 
 Ahora mismo tienes [The North Face Jacket Chaqueta Trevail  Hombre  Negro  TNF Black   M](https://www.amazon.es/dp/B01N694RMH/?tag=tolees-21) a 114.99 EUR (original: 230 EUR) (50.00 %  de descuento) en el siguiente enlace!

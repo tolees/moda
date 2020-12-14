@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JG1FV6R/?tag=tolees-21'
 descuento: '48.57'
+average: '18'
 ---
 
 Ahora mismo tienes [Lacoste Tj3294 Camiseta  Rojo  Salvia Adx   2 años  Talla del Fabricante: 2A  para Niños](https://www.amazon.es/dp/B07JG1FV6R/?tag=tolees-21) a 18 EUR (original: 35 EUR) (48.57 %  de descuento) en el siguiente enlace!

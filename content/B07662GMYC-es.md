@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07662GMYC/?tag=tolees-21'
 descuento: '64.52'
+average: '24.48'
 ---
 
 Tienes [BOSS Orange Tew  Camiseta Hombre  Azul  Open Blue 463   Medium](https://www.amazon.es/dp/B07662GMYC/?tag=tolees-21) con un 64.52 % de descuento con precio de oferta de 24.48 EUR (original: 69 EUR) en el siguiente enlace!

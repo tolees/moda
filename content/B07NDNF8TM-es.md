@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07NDNF8TM/?tag=tolees-21'
 descuento: '32.46'
+average: '39.85'
 ---
 
 Tienes [Tous 995960262  Monedero para Mujer   Marrón   11x10x2.5 cm  W x H x L ](https://www.amazon.es/dp/B07NDNF8TM/?tag=tolees-21) con un 32.46 % de descuento con precio de oferta de 39.85 EUR (original: 59 EUR) en el siguiente enlace!

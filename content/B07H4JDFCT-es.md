@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07H4JDFCT/?tag=tolees-21'
 descuento: '65.41'
+average: '8.99'
 ---
 
 Ahora mismo tienes [ENKARL Guantes para uso al aire libre  Guantes térmicos de hombre para invierno aptos para pantallas táctiles con muñeca ajustable y con gel de silicón antideslizante  Gris oscuro ](https://www.amazon.es/dp/B07H4JDFCT/?tag=tolees-21) a 8.99 EUR (original: 25.99 EUR) (65.41 %  de descuento) en el siguiente enlace!

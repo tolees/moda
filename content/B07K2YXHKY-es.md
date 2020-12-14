@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07K2YXHKY/?tag=tolees-21'
 descuento: '30.35'
+average: '38.31'
 ---
 
 Tienes [Hurley - Sudadera con capucha para hombre  Negro  talla M "M Surf Check One & Only"](https://www.amazon.es/dp/B07K2YXHKY/?tag=tolees-21) con un 30.35 % de descuento con precio de oferta de 38.31 EUR (original: 55 EUR) en el siguiente enlace!

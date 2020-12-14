@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01NCX45OJ/?tag=tolees-21'
 descuento: '64.65'
+average: '12.37'
 ---
 
 Está [Only Onlseco Dark Blue Shoulder Dnm Top Qyt  Camiseta sin Mangas Mujer  Azul  Dark Denim Denim   40](https://www.amazon.es/dp/B01NCX45OJ/?tag=tolees-21) con 64.65 de descuento por 12.37 EUR (original: 34.99 EUR) en el siguiente enlace!

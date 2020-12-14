@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DLK183F/?tag=tolees-21'
 descuento: '75.64'
+average: '21.92'
 ---
 
 Está [Springfield 7Wh-Abriguillo C/Borr C  Chaqueta para Hombre  Dorado  Gama Tostados 56  Medium  Tamaño del Fabricante:M ](https://www.amazon.es/dp/B07DLK183F/?tag=tolees-21) con 75.64 de descuento por 21.92 EUR (original: 89.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MN2N6GW/?tag=tolees-21'
 descuento: '45.28'
+average: '8.75'
 ---
 
 Tienes [edc by Esprit 029CC1K036 Camiseta  Azul  Navy 2 401   M para Mujer](https://www.amazon.es/dp/B07MN2N6GW/?tag=tolees-21) con un 45.28 % de descuento con precio de oferta de 8.75 EUR (original: 15.99 EUR) en el siguiente enlace!

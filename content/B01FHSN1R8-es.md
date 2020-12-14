@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01FHSN1R8/?tag=tolees-21'
 descuento: '52.60'
+average: '52.14'
 ---
 
 Está [BROOKS BROTHERS Denim Lunghi Slim Fit Red Fleece  Vaqueros Hombre  Azul  Oxford 5   52  Talla del Fabricante: 40 34 ](https://www.amazon.es/dp/B01FHSN1R8/?tag=tolees-21) con 52.60 de descuento por 52.14 EUR (original: 110 EUR) en el siguiente enlace!

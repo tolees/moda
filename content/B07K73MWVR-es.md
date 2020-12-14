@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07K73MWVR/?tag=tolees-21'
 descuento: '47.85'
+average: '31.29'
 ---
 
 Ahora mismo tienes [Levi s Graphic B Sudadera  Gris  Add Crew T2 Hm Mid Tone Heather Grey 0079   Large para Hombre](https://www.amazon.es/dp/B07K73MWVR/?tag=tolees-21) a 31.29 EUR (original: 60 EUR) (47.85 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KYKS6FQ/?tag=tolees-21'
 descuento: '74.67'
+average: '4.05'
 ---
 
 Está [Springfield 4.T.Daily.Ap.Pv19.Polo FK Blusa   Gama Rojo 65   Large  Tamaño del Fabricante:L  para Mujer](https://www.amazon.es/dp/B07KYKS6FQ/?tag=tolees-21) con 74.67 de descuento por 4.05 EUR (original: 15.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DK1XSG6/?tag=tolees-21'
 descuento: '63.15'
+average: '23.95'
 ---
 
 Ahora mismo tienes [Geox Jr Sandal Roxanne B  Sandalias Punta Cerrada para Niñas  Rosa  Dk Raspberry/Pink Cp8e8   36 EU](https://www.amazon.es/dp/B07DK1XSG6/?tag=tolees-21) a 23.95 EUR (original: 65 EUR) (63.15 %  de descuento) en el siguiente enlace!

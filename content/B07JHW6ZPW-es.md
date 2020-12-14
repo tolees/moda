@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JHW6ZPW/?tag=tolees-21'
 descuento: '58.48'
+average: '10.36'
 ---
 
 Está [PUMA Modern Sports Boyfriend TeeG Camiseta  Niñas  Blanco White  104](https://www.amazon.es/dp/B07JHW6ZPW/?tag=tolees-21) con 58.48 de descuento por 10.36 EUR (original: 24.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00WWFXF3U/?tag=tolees-21'
 descuento: '65.00'
+average: '34.98'
 ---
 
 Tienes [G-STAR 3301 Tapered - Vaqueros para hombre  color blau  raw 001   talla W30/L34  30/34 ](https://www.amazon.es/dp/B00WWFXF3U/?tag=tolees-21) con un 65.00 % de descuento con precio de oferta de 34.98 EUR (original: 99.95 EUR) en el siguiente enlace!

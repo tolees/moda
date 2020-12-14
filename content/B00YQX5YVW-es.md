@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00YQX5YVW/?tag=tolees-21'
 descuento: '50.07'
+average: '37.45'
 ---
 
 Ahora mismo tienes [GEOX J Casey Girl  Botas Militar para Niñas  Black  32 EU](https://www.amazon.es/dp/B00YQX5YVW/?tag=tolees-21) a 37.45 EUR (original: 75 EUR) (50.07 %  de descuento) en el siguiente enlace!

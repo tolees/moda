@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KQN3ZRN/?tag=tolees-21'
 descuento: '66.65'
+average: '46.35'
 ---
 
 Está [Trussardi Jeans - T-easy Light Bauletto  Bolso de mano Mujer  Azul  Dark Blue   25x19x15 cm  W x H L ](https://www.amazon.es/dp/B07KQN3ZRN/?tag=tolees-21) con 66.65 de descuento por 46.35 EUR (original: 139 EUR) en el siguiente enlace!

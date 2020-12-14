@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077XNQ9CX/?tag=tolees-21'
 descuento: '46.17'
+average: '16.15'
 ---
 
 Ahora mismo tienes [Under Armour - Camiseta Deportiva para Mujer  Mujer  1326087-001  Black/White/Steel  XS](https://www.amazon.es/dp/B077XNQ9CX/?tag=tolees-21) a 16.15 EUR (original: 30 EUR) (46.17 %  de descuento) en el siguiente enlace!

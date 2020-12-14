@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FTPXNS6/?tag=tolees-21'
 descuento: '75.63'
+average: '14.61'
 ---
 
 Está [Lee Basic Crew Sudadera  Marfil  Black 01   Small para Hombre](https://www.amazon.es/dp/B07FTPXNS6/?tag=tolees-21) con 75.63 de descuento por 14.61 EUR (original: 59.95 EUR) en el siguiente enlace!

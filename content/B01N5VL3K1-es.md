@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N5VL3K1/?tag=tolees-21'
 descuento: '84.20'
+average: '9.47'
 ---
 
 Está [Lee Button Down  Camisa Hombre  Azul  State Blue   38 cm  Talla del Fabricante: Small ](https://www.amazon.es/dp/B01N5VL3K1/?tag=tolees-21) con 84.20 de descuento por 9.47 EUR (original: 59.95 EUR) en el siguiente enlace!

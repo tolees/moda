@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076BVYDXP/?tag=tolees-21'
 descuento: '30.00'
+average: '11.2'
 ---
 
 Está [AURIQUE Top Deportivo Mujer  Negro  Black/red/white   Small](https://www.amazon.es/dp/B076BVYDXP/?tag=tolees-21) con 30.00 de descuento por 11.2 EUR (original: 16 EUR) en el siguiente enlace!

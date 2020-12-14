@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CZ5XQ6M/?tag=tolees-21'
 descuento: '66.55'
+average: '46.82'
 ---
 
 Tienes [G-STAR RAW Shape High Waist Super Skinny Vaqueros  Negro  Medium Aged 071   26W / 32L para Mujer](https://www.amazon.es/dp/B07CZ5XQ6M/?tag=tolees-21) con un 66.55 % de descuento con precio de oferta de 46.82 EUR (original: 139.95 EUR) en el siguiente enlace!

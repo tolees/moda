@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000VMPIZO/?tag=tolees-21'
 descuento: '30.13'
+average: '160.69'
 ---
 
 Tienes [Timberland 6 In Premium Waterproof  Botas impermeables  Marrón  Burnt Orange Worn Oiled   44.5 EU](https://www.amazon.es/dp/B000VMPIZO/?tag=tolees-21) con un 30.13 % de descuento con precio de oferta de 160.69 EUR (original: 230 EUR) en el siguiente enlace!

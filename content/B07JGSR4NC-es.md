@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JGSR4NC/?tag=tolees-21'
 descuento: '30.02'
+average: '13.29'
 ---
 
 Ahora mismo tienes [IRIS & LILLY Parte de Arriba de Bikini asimetrico Mujer   Multicolor  Tropical Flower Print   38  Talla del fabricante: Small ](https://www.amazon.es/dp/B07JGSR4NC/?tag=tolees-21) a 13.29 EUR (original: 18.99 EUR) (30.02 %  de descuento) en el siguiente enlace!

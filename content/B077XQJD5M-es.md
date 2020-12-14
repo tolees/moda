@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077XQJD5M/?tag=tolees-21'
 descuento: '40.15'
+average: '15.56'
 ---
 
 Está [Under Armour Sportstyle Left Chest SS Camiseta  Hombre  Marrón  City Khaki/Black 299   XL](https://www.amazon.es/dp/B077XQJD5M/?tag=tolees-21) con 40.15 de descuento por 15.56 EUR (original: 26 EUR) en el siguiente enlace!

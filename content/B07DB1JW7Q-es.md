@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DB1JW7Q/?tag=tolees-21'
 descuento: '77.74'
+average: '12.23'
 ---
 
 Tienes [Mustang Schnür-Booty  Botines para Niñas  Rojo  Rose 555   35 EU](https://www.amazon.es/dp/B07DB1JW7Q/?tag=tolees-21) con un 77.74 % de descuento con precio de oferta de 12.23 EUR (original: 54.95 EUR) en el siguiente enlace!

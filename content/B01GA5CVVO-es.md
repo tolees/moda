@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01GA5CVVO/?tag=tolees-21'
 descuento: '69.01'
+average: '18.58'
 ---
 
 Tienes [VERO MODA VMLULU SHORT JACKET A  Chaqueta Mujer  Negro  Black   38  Talla del fabricante: Medium ](https://www.amazon.es/dp/B01GA5CVVO/?tag=tolees-21) con un 69.01 % de descuento con precio de oferta de 18.58 EUR (original: 59.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HH23TTT/?tag=tolees-21'
 descuento: '53.17'
+average: '13.58'
 ---
 
 Tienes [Tommy Jeans Hombre Circular  Camiseta Manga Corta  Azul  Brilliant Blue 423  Medium](https://www.amazon.es/dp/B07HH23TTT/?tag=tolees-21) con un 53.17 % de descuento con precio de oferta de 13.58 EUR (original: 29 EUR) en el siguiente enlace!

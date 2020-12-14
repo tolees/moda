@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DK59SPR/?tag=tolees-21'
 descuento: '39.98'
+average: '29.95'
 ---
 
 Tienes [Geox J Pavel Girl a  Zapatillas para Niñas  Navy/Fuchsia C4268  26 EU](https://www.amazon.es/dp/B07DK59SPR/?tag=tolees-21) con un 39.98 % de descuento con precio de oferta de 29.95 EUR (original: 49.9 EUR) en el siguiente enlace!

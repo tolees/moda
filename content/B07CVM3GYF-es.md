@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CVM3GYF/?tag=tolees-21'
 descuento: '59.46'
+average: '72.95'
 ---
 
 Está [CMP 38z2256 Chaqueta  Mujer  Gris  Anthracite   L](https://www.amazon.es/dp/B07CVM3GYF/?tag=tolees-21) con 59.46 de descuento por 72.95 EUR (original: 179.95 EUR) en el siguiente enlace!

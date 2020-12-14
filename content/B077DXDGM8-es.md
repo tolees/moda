@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077DXDGM8/?tag=tolees-21'
 descuento: '59.55'
+average: '12.13'
 ---
 
 Está [MAMALICIOUS Mlphie Nell 3/4 Jersey Top Nf A  Camiseta de Manga Larga premamá Mujer  Azul  Black Iris   38  Talla del Fabricante: Small ](https://www.amazon.es/dp/B077DXDGM8/?tag=tolees-21) con 59.55 de descuento por 12.13 EUR (original: 29.99 EUR) en el siguiente enlace!

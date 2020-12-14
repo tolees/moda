@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HFND39T/?tag=tolees-21'
 descuento: '50.13'
+average: '19.9'
 ---
 
 Está [Tommy Hilfiger Logo tee  Camiseta Hombre  Amarillo  Empire Yellow 712   Large](https://www.amazon.es/dp/B07HFND39T/?tag=tolees-21) con 50.13 de descuento por 19.9 EUR (original: 39.9 EUR) en el siguiente enlace!

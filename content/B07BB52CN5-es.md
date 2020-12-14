@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BB52CN5/?tag=tolees-21'
 descuento: '50.00'
+average: '10'
 ---
 
 Está [The North Face Y S/S T Camiseta Simple Dome  Unisex niños  Turkish Sea/High Rise Grey  M](https://www.amazon.es/dp/B07BB52CN5/?tag=tolees-21) con 50.00 de descuento por 10 EUR (original: 20 EUR) en el siguiente enlace!

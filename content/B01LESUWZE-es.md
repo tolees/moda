@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01LESUWZE/?tag=tolees-21'
 descuento: '53.98'
+average: '11.92'
 ---
 
 Está [Havaianas Slim  Chanclas para Mujer  Verde  Mint Green/Mint Green   43/44 EU  41/42 Brazilian ](https://www.amazon.es/dp/B01LESUWZE/?tag=tolees-21) con 53.98 de descuento por 11.92 EUR (original: 25.9 EUR) en el siguiente enlace!

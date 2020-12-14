@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0749QBDHB/?tag=tolees-21'
 descuento: '57.33'
+average: '11.71'
 ---
 
 Ahora mismo tienes [Jane Klain 271 370  Zuecos para Mujer  Azul  Navy   40 EU](https://www.amazon.es/dp/B0749QBDHB/?tag=tolees-21) a 11.71 EUR (original: 27.44 EUR) (57.33 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071FBKTQZ/?tag=tolees-21'
 descuento: '39.98'
+average: '16.2'
 ---
 
 Ahora mismo tienes [Crocs Classic Clog Kids  Zuecos Unisex Niños  Azul  Tropical Teal   22/23 EU](https://www.amazon.es/dp/B071FBKTQZ/?tag=tolees-21) a 16.2 EUR (original: 26.99 EUR) (39.98 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073SBG5G5/?tag=tolees-21'
 descuento: '45.03'
+average: '7.14'
 ---
 
 Ahora mismo tienes [JACK & JONES Jcowhelk tee SS Crew Neck  Camiseta Hombre  Gris  Monument Fit:Slim   Medium](https://www.amazon.es/dp/B073SBG5G5/?tag=tolees-21) a 7.14 EUR (original: 12.99 EUR) (45.03 %  de descuento) en el siguiente enlace!

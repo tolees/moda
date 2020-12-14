@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076YPXHVY/?tag=tolees-21'
 descuento: '61.18'
+average: '17.47'
 ---
 
 Está [Levi s Logo  Camiseta para Hombre  Gris  Breaker Polo/w Contrast Tipping Htr Body Chinese Red Collar / B30 Medium Grey Heather + Dress Blues Cuff 0002 ](https://www.amazon.es/dp/B076YPXHVY/?tag=tolees-21) con 61.18 de descuento por 17.47 EUR (original: 45 EUR) en el siguiente enlace!

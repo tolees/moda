@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FQMDWM2/?tag=tolees-21'
 descuento: '33.25'
+average: '53.37'
 ---
 
 Tienes [Clarks Tilden Cap  Zapatos de Cordones Derby para Hombre  Marrón  Wine Leather-   41 EU](https://www.amazon.es/dp/B07FQMDWM2/?tag=tolees-21) con un 33.25 % de descuento con precio de oferta de 53.37 EUR (original: 79.95 EUR) en el siguiente enlace!

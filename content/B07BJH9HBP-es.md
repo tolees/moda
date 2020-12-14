@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BJH9HBP/?tag=tolees-21'
 descuento: '50.00'
+average: '59.97'
 ---
 
 Está [G-STAR RAW Suzaki Moto Zip Through Knit L/s  Chaqueta Punto para Hombre  Gris  Grey Htr 906  Medium](https://www.amazon.es/dp/B07BJH9HBP/?tag=tolees-21) con 50.00 de descuento por 59.97 EUR (original: 119.95 EUR) en el siguiente enlace!

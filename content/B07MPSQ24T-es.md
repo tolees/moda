@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MPSQ24T/?tag=tolees-21'
 descuento: '52.99'
+average: '15.32'
 ---
 
 Está [Eono Essentials - Chaqueta de senderismo de entretiempo con capucha para mujer  XL  azul ](https://www.amazon.es/dp/B07MPSQ24T/?tag=tolees-21) con 52.99 de descuento por 15.32 EUR (original: 32.59 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D5Q14VW/?tag=tolees-21'
 descuento: '77.80'
+average: '15.54'
 ---
 
 Ahora mismo tienes [Celio Afower Vaqueros Straight  Blue Black  W32/L32  Talla del Fabricante: 42  para Hombre](https://www.amazon.es/dp/B07D5Q14VW/?tag=tolees-21) a 15.54 EUR (original: 69.99 EUR) (77.80 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075TG4FLD/?tag=tolees-21'
 descuento: '35.74'
+average: '44.95'
 ---
 
 Está [Redefined Rebel Mandeville - Chaqueta para Hombre  tamaño:M  Color:Forged Iron](https://www.amazon.es/dp/B075TG4FLD/?tag=tolees-21) con 35.74 de descuento por 44.95 EUR (original: 69.95 EUR) en el siguiente enlace!

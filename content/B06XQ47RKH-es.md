@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XQ47RKH/?tag=tolees-21'
 descuento: '37.08'
+average: '22.62'
 ---
 
 Ahora mismo tienes [Desigual Ts_sara  Camiseta para Mujer  Negro  Medium](https://www.amazon.es/dp/B06XQ47RKH/?tag=tolees-21) a 22.62 EUR (original: 35.95 EUR) (37.08 %  de descuento) en el siguiente enlace!

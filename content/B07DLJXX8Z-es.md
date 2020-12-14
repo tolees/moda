@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DLJXX8Z/?tag=tolees-21'
 descuento: '56.68'
+average: '8.66'
 ---
 
 Tienes [Springfield FR Ml Logo 1988 Sudadera  Gama Azules 12  Medium  Tamaño del Fabricante:M  para Hombre](https://www.amazon.es/dp/B07DLJXX8Z/?tag=tolees-21) con un 56.68 % de descuento con precio de oferta de 8.66 EUR (original: 19.99 EUR) en el siguiente enlace!

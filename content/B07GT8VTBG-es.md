@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GT8VTBG/?tag=tolees-21'
 descuento: '56.60'
+average: '13.44'
 ---
 
 Tienes [New Look Deli  Botines para Mujer  Beige  Tan 18   39 EU](https://www.amazon.es/dp/B07GT8VTBG/?tag=tolees-21) con un 56.60 % de descuento con precio de oferta de 13.44 EUR (original: 30.97 EUR) en el siguiente enlace!

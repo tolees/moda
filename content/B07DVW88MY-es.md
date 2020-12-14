@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DVW88MY/?tag=tolees-21'
 descuento: '54.14'
+average: '60.99'
 ---
 
 Ahora mismo tienes [hummel hmlf Inlay Jacket Chaqueta  Hombre  200791-2800  Medium Melange  Large](https://www.amazon.es/dp/B07DVW88MY/?tag=tolees-21) a 60.99 EUR (original: 132.99 EUR) (54.14 %  de descuento) en el siguiente enlace!

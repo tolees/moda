@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071VNXPXD/?tag=tolees-21'
 descuento: '60.00'
+average: '16'
 ---
 
 Ahora mismo tienes [find. Vestido de Fiesta para Mujer   Negro  Negro   38  Talla del Fabricante: Small ](https://www.amazon.es/dp/B071VNXPXD/?tag=tolees-21) a 16 EUR (original: 40 EUR) (60.00 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078WTD3JP/?tag=tolees-21'
 descuento: '46.27'
+average: '26.86'
 ---
 
 Tienes [Cortefiel Camisa Lisa en Lino/Algodón Casual   Gama Azules 12   L  Tamaño del Fabricante:4  para Hombre](https://www.amazon.es/dp/B078WTD3JP/?tag=tolees-21) con un 46.27 % de descuento con precio de oferta de 26.86 EUR (original: 49.99 EUR) en el siguiente enlace!

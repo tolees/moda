@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079ZCRBNJ/?tag=tolees-21'
 descuento: '60.88'
+average: '35.19'
 ---
 
 Está [HUGO Erriko  Camisa para Hombre  Blanco  Open White 199  Medium](https://www.amazon.es/dp/B079ZCRBNJ/?tag=tolees-21) con 60.88 de descuento por 35.19 EUR (original: 89.95 EUR) en el siguiente enlace!

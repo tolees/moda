@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KMPYCJW/?tag=tolees-21'
 descuento: '57.89'
+average: '18.95'
 ---
 
 Está [Superdry Applique Cut & Sew 08 S/s tee Camiseta de Tirantes  Gris  Varsity Silver Grit ZJ3   X-Small para Hombre](https://www.amazon.es/dp/B07KMPYCJW/?tag=tolees-21) con 57.89 de descuento por 18.95 EUR (original: 45 EUR) en el siguiente enlace!

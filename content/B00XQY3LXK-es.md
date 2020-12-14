@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00XQY3LXK/?tag=tolees-21'
 descuento: '41.24'
+average: '49.95'
 ---
 
 Tienes [Pepe Jeans Spike  Vaqueros para Hombre  Azul  Fonce Denim H05   W33/L34](https://www.amazon.es/dp/B00XQY3LXK/?tag=tolees-21) con un 41.24 % de descuento con precio de oferta de 49.95 EUR (original: 85 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DYPG9PD/?tag=tolees-21'
 descuento: '51.82'
+average: '14.45'
 ---
 
 Está [Quiksilver Island Oasis  Zapatos de Playa y Piscina para Hombre   Black/Brown/Green Xkcg   43 EU](https://www.amazon.es/dp/B07DYPG9PD/?tag=tolees-21) con 51.82 de descuento por 14.45 EUR (original: 29.99 EUR) en el siguiente enlace!

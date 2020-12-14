@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0792JMNZ9/?tag=tolees-21'
 descuento: '63.99'
+average: '28.77'
 ---
 
 Tienes [Geox J Hadriel Girl E  Botas Altas para Niñas   Dk Grey C9002   27 EU](https://www.amazon.es/dp/B0792JMNZ9/?tag=tolees-21) con un 63.99 % de descuento con precio de oferta de 28.77 EUR (original: 79.9 EUR) en el siguiente enlace!

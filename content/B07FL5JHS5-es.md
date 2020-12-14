@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FL5JHS5/?tag=tolees-21'
 descuento: '64.19'
+average: '14.29'
 ---
 
 Ahora mismo tienes [Superdry Vintage Logo Entry tee  Camiseta de Tirantes para Hombre  Naranja  Pitch Orange Vr9  Large](https://www.amazon.es/dp/B07FL5JHS5/?tag=tolees-21) a 14.29 EUR (original: 39.9 EUR) (64.19 %  de descuento) en el siguiente enlace!

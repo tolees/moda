@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CS9W7L2/?tag=tolees-21'
 descuento: '60.63'
+average: '25.59'
 ---
 
 Está [Scott  Sudadera Hombre   Grey Marl 933 ](https://www.amazon.es/dp/B07CS9W7L2/?tag=tolees-21) con 60.63 de descuento por 25.59 EUR (original: 65 EUR) en el siguiente enlace!

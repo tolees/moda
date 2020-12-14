@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06X9HHB2B/?tag=tolees-21'
 descuento: '56.29'
+average: '34.97'
 ---
 
 Ahora mismo tienes [Burton Bonded Crew Sudadera  Hombre  Monument Heather  M](https://www.amazon.es/dp/B06X9HHB2B/?tag=tolees-21) a 34.97 EUR (original: 80 EUR) (56.29 %  de descuento) en el siguiente enlace!

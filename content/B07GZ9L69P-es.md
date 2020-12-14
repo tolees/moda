@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GZ9L69P/?tag=tolees-21'
 descuento: '58.18'
+average: '12.11'
 ---
 
 Está [New Look Wide Foot Alexis  Botines para Mujer  Negro  Black 1   37 EU](https://www.amazon.es/dp/B07GZ9L69P/?tag=tolees-21) con 58.18 de descuento por 12.11 EUR (original: 28.96 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FJCBDVB/?tag=tolees-21'
 descuento: '63.21'
+average: '25.75'
 ---
 
 Está [Burton Retro Mountain Organic Crew Sudadera  Hombre  Azul  Mood Indigo   XS](https://www.amazon.es/dp/B07FJCBDVB/?tag=tolees-21) con 63.21 de descuento por 25.75 EUR (original: 70 EUR) en el siguiente enlace!

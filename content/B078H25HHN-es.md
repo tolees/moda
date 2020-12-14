@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078H25HHN/?tag=tolees-21'
 descuento: '75.24'
+average: '9.89'
 ---
 
 Está [Trucco TT16AH1 Jersey  Verde Medio  Medium  Tamaño del Fabricante:M  para Mujer](https://www.amazon.es/dp/B078H25HHN/?tag=tolees-21) con 75.24 de descuento por 9.89 EUR (original: 39.95 EUR) en el siguiente enlace!

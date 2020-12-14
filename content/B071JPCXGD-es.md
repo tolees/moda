@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071JPCXGD/?tag=tolees-21'
 descuento: '83.40'
+average: '22.08'
 ---
 
 Ahora mismo tienes [Steve Madden Pacers  Botines para Mujer  Azul  Navy 001   40 EU](https://www.amazon.es/dp/B071JPCXGD/?tag=tolees-21) a 22.08 EUR (original: 133 EUR) (83.40 %  de descuento) en el siguiente enlace!

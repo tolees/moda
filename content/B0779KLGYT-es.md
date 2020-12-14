@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0779KLGYT/?tag=tolees-21'
 descuento: '52.01'
+average: '14.35'
 ---
 
 Ahora mismo tienes [Pepe Jeans Brent  Camiseta Mujer  Negro  Black   Small](https://www.amazon.es/dp/B0779KLGYT/?tag=tolees-21) a 14.35 EUR (original: 29.9 EUR) (52.01 %  de descuento) en el siguiente enlace!

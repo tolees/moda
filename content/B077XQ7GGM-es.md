@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077XQ7GGM/?tag=tolees-21'
 descuento: '40.08'
+average: '35.95'
 ---
 
 Tienes [Under Armour UA Pantalón  Mujer  Black White  001   XS](https://www.amazon.es/dp/B077XQ7GGM/?tag=tolees-21) con un 40.08 % de descuento con precio de oferta de 35.95 EUR (original: 60 EUR) en el siguiente enlace!

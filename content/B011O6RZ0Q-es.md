@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B011O6RZ0Q/?tag=tolees-21'
 descuento: '50.04'
+average: '29.95'
 ---
 
 Ahora mismo tienes [PEARL IZUMI Camiseta Hombres  Hombre  Color Black/True Red  tamaño Large](https://www.amazon.es/dp/B011O6RZ0Q/?tag=tolees-21) a 29.95 EUR (original: 59.95 EUR) (50.04 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JH5D5Z2/?tag=tolees-21'
 descuento: '30.01'
+average: '19.59'
 ---
 
 Está [IRIS & LILLY Sh180457 bañadores  Azul  Harmony Blu   40  Talla del fabricante: Medium ](https://www.amazon.es/dp/B07JH5D5Z2/?tag=tolees-21) con 30.01 de descuento por 19.59 EUR (original: 27.99 EUR) en el siguiente enlace!

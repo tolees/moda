@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01H71BTMW/?tag=tolees-21'
 descuento: '42.84'
+average: '20'
 ---
 
 Tienes [crocs 203998  Chanclas Mujer  Gris  Smoke/White   34-35 EU](https://www.amazon.es/dp/B01H71BTMW/?tag=tolees-21) con un 42.84 % de descuento con precio de oferta de 20 EUR (original: 34.99 EUR) en el siguiente enlace!

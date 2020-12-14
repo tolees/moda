@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01H70LNIS/?tag=tolees-21'
 descuento: '55.73'
+average: '15.49'
 ---
 
 Ahora mismo tienes [crocs 203998  Chanclas Mujer  Negro  Black/White   34-35 EU](https://www.amazon.es/dp/B01H70LNIS/?tag=tolees-21) a 15.49 EUR (original: 34.99 EUR) (55.73 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077XQXJFD/?tag=tolees-21'
 descuento: '67.87'
+average: '14.46'
 ---
 
 Ahora mismo tienes [Under Armour - Sudadera con Capucha para Hombre  Estilo Deportivo  Hombre  1323397-408  Academy/Black  2 X-Grande](https://www.amazon.es/dp/B077XQXJFD/?tag=tolees-21) a 14.46 EUR (original: 45 EUR) (67.87 %  de descuento) en el siguiente enlace!

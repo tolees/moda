@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078SWJXTN/?tag=tolees-21'
 descuento: '62.63'
+average: '24.29'
 ---
 
 Tienes [Timberland Union Wharf Lace Zapatos de cordones oxford Hombre  Verde  Grape Leaf A58   41.5 EU](https://www.amazon.es/dp/B078SWJXTN/?tag=tolees-21) con un 62.63 % de descuento con precio de oferta de 24.29 EUR (original: 65 EUR) en el siguiente enlace!

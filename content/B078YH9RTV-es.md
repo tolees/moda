@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078YH9RTV/?tag=tolees-21'
 descuento: '73.83'
+average: '11.17'
 ---
 
 Tienes [Schiesser Mädchen Anzug Lang  Conjuntos de Pijama para Niñas  Braun  Havanna 305  10 años](https://www.amazon.es/dp/B078YH9RTV/?tag=tolees-21) con un 73.83 % de descuento con precio de oferta de 11.17 EUR (original: 42.68 EUR) en el siguiente enlace!

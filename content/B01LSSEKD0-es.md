@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01LSSEKD0/?tag=tolees-21'
 descuento: '83.75'
+average: '14.46'
 ---
 
 Está [Coast Jenn Vestido  Negro  Black   38  Talla del Fabricante: 10  para Mujer](https://www.amazon.es/dp/B01LSSEKD0/?tag=tolees-21) con 83.75 de descuento por 14.46 EUR (original: 89 EUR) en el siguiente enlace!

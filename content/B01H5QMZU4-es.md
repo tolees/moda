@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01H5QMZU4/?tag=tolees-21'
 descuento: '38.81'
+average: '26.25'
 ---
 
 Está [TOMS Men Santiago Forged Iron Grey  Zapatos de Playa y Piscina para Hombre  Gris 000  46 EU](https://www.amazon.es/dp/B01H5QMZU4/?tag=tolees-21) con 38.81 de descuento por 26.25 EUR (original: 42.9 EUR) en el siguiente enlace!

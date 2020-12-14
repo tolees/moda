@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01AXYOR2Y/?tag=tolees-21'
 descuento: '48.86'
+average: '6.95'
 ---
 
 Tienes [Joma 900140.206 - Camiseta para Mujer  Color Blanco/Rojo  Talla L](https://www.amazon.es/dp/B01AXYOR2Y/?tag=tolees-21) con un 48.86 % de descuento con precio de oferta de 6.95 EUR (original: 13.59 EUR) en el siguiente enlace!

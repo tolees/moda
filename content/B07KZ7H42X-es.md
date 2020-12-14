@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KZ7H42X/?tag=tolees-21'
 descuento: '74.97'
+average: '12.51'
 ---
 
 Ahora mismo tienes [Cortefiel C7Cc Indigo T-BD Camisa Casual  Hombre  Azul  Azul Marino 10   XX-Large  Tamaño del Fabricante:XXL ](https://www.amazon.es/dp/B07KZ7H42X/?tag=tolees-21) a 12.51 EUR (original: 49.99 EUR) (74.97 %  de descuento) en el siguiente enlace!

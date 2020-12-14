@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N7IY7NT/?tag=tolees-21'
 descuento: '80.17'
+average: '7.93'
 ---
 
 Tienes [Esprit 037ee1f035  Blusa Mujer   Light Blue   44](https://www.amazon.es/dp/B01N7IY7NT/?tag=tolees-21) con un 80.17 % de descuento con precio de oferta de 7.93 EUR (original: 39.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FPXF5L5/?tag=tolees-21'
 descuento: '41.21'
+average: '47.03'
 ---
 
 Ahora mismo tienes [JACK & JONES Jjiglenn Jjicon JJ 257 50sps Noos  Vaqueros Slim Hombre  Gris  Grey Denim Grey Denim   W31/L32](https://www.amazon.es/dp/B07FPXF5L5/?tag=tolees-21) a 47.03 EUR (original: 79.99 EUR) (41.21 %  de descuento) en el siguiente enlace!

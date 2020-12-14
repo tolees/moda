@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0106VZEIA/?tag=tolees-21'
 descuento: '40.06'
+average: '47.95'
 ---
 
 Está [Columbia Saturday Trail II Pantalón Convertible  Mujer  Azul  India Ink   Talla US: W8/L  EU W40/L ](https://www.amazon.es/dp/B0106VZEIA/?tag=tolees-21) con 40.06 de descuento por 47.95 EUR (original: 79.99 EUR) en el siguiente enlace!

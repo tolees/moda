@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00E0G07WQ/?tag=tolees-21'
 descuento: '58.63'
+average: '14.46'
 ---
 
 Está [Only - Vaqueros slim fit para mujer  Color Vaquero oscuro  Dark Blue Denim   Talla 34W/34L  Tamaño del fabricante XS ](https://www.amazon.es/dp/B00E0G07WQ/?tag=tolees-21) con 58.63 de descuento por 14.46 EUR (original: 34.95 EUR) en el siguiente enlace!

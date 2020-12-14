@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077MQJDLP/?tag=tolees-21'
 descuento: '69.62'
+average: '18.21'
 ---
 
 Ahora mismo tienes [Puma Platform Slide EP  Zapatos de Playa y Piscina para Mujer   Peach Beige-Pearl   38 EU](https://www.amazon.es/dp/B077MQJDLP/?tag=tolees-21) a 18.21 EUR (original: 59.95 EUR) (69.62 %  de descuento) en el siguiente enlace!

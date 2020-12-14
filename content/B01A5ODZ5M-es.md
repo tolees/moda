@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01A5ODZ5M/?tag=tolees-21'
 descuento: '60.46'
+average: '13.84'
 ---
 
 Ahora mismo tienes [DC Comics Camiseta Manga Corta Flash Line Logo Verde Militar M](https://www.amazon.es/dp/B01A5ODZ5M/?tag=tolees-21) a 13.84 EUR (original: 35 EUR) (60.46 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DHYWKT9/?tag=tolees-21'
 descuento: '51.66'
+average: '48.29'
 ---
 
 Está [Geox U Warley B  Zapatillas para Hombre  Negro  Black/Grey C0017   39 EU](https://www.amazon.es/dp/B07DHYWKT9/?tag=tolees-21) con 51.66 de descuento por 48.29 EUR (original: 99.9 EUR) en el siguiente enlace!

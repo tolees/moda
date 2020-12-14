@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078LDKBQX/?tag=tolees-21'
 descuento: '81.10'
+average: '21.73'
 ---
 
 Tienes [Tommy Jeans Hombre Relaxed Cropped Randy Vaqueros relaxed  relaxed Azul  Tommy Jeans Mid Blue Rigid 911  W29/L34](https://www.amazon.es/dp/B078LDKBQX/?tag=tolees-21) con un 81.10 % de descuento con precio de oferta de 21.73 EUR (original: 115 EUR) en el siguiente enlace!

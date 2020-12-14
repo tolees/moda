@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00ALCPHTG/?tag=tolees-21'
 descuento: '43.38'
+average: '67.95'
 ---
 
 Tienes [Diesel Herren Jeanshose  Larkee - Vaqueros para hombre  color azul  talla W30/L32](https://www.amazon.es/dp/B00ALCPHTG/?tag=tolees-21) con un 43.38 % de descuento con precio de oferta de 67.95 EUR (original: 120 EUR) en el siguiente enlace!

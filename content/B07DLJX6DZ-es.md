@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DLJX6DZ/?tag=tolees-21'
 descuento: '47.76'
+average: '12.01'
 ---
 
 Está [Springfield Pack 3 Tela Beers Bóxer  Hombre  Rojo  Rojo/Raya Diplomat 60   X-Large  Tamaño del Fabricante:XL ](https://www.amazon.es/dp/B07DLJX6DZ/?tag=tolees-21) con 47.76 de descuento por 12.01 EUR (original: 22.99 EUR) en el siguiente enlace!

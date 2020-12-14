@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GVWT9K8/?tag=tolees-21'
 descuento: '66.60'
+average: '24.74'
 ---
 
 Tienes [Burton Menswear London Red Two Tone Lightweight Hooded Padded Jacket  Chaqueta para Hombre  Rojo  XX-Large](https://www.amazon.es/dp/B07GVWT9K8/?tag=tolees-21) con un 66.60 % de descuento con precio de oferta de 24.74 EUR (original: 74.08 EUR) en el siguiente enlace!

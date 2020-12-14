@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07H9S3VHK/?tag=tolees-21'
 descuento: '60.03'
+average: '6.99'
 ---
 
 Está [Qixuan Vestido a Media Pierna con Abertura en la Parte Delantera y Manga 3/4 de Split para Mujer Azul L](https://www.amazon.es/dp/B07H9S3VHK/?tag=tolees-21) con 60.03 de descuento por 6.99 EUR (original: 17.49 EUR) en el siguiente enlace!

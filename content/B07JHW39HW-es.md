@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JHW39HW/?tag=tolees-21'
 descuento: '41.60'
+average: '11.65'
 ---
 
 Está [Puma ESS Logo tee Camiseta  Hombre  Amarillo  Blazing Yellow   M](https://www.amazon.es/dp/B07JHW39HW/?tag=tolees-21) con 41.60 de descuento por 11.65 EUR (original: 19.95 EUR) en el siguiente enlace!

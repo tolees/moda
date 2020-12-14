@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07G9SMJ56/?tag=tolees-21'
 descuento: '60.00'
+average: '5.18'
 ---
 
 Tienes [Tuc Tuc Prenda Conejito FÁBULA  Camiseta para Niñas   Rosa 01   2 años  Tamaño del Fabricante:2A ](https://www.amazon.es/dp/B07G9SMJ56/?tag=tolees-21) con un 60.00 % de descuento con precio de oferta de 5.18 EUR (original: 12.95 EUR) en el siguiente enlace!

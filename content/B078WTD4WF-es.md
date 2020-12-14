@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078WTD4WF/?tag=tolees-21'
 descuento: '52.53'
+average: '23.73'
 ---
 
 Está [Cortefiel Jersey Cuello Pico  Hombre   Azul Marino 10   Medium](https://www.amazon.es/dp/B078WTD4WF/?tag=tolees-21) con 52.53 de descuento por 23.73 EUR (original: 49.99 EUR) en el siguiente enlace!

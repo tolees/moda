@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N6G80KF/?tag=tolees-21'
 descuento: '53.07'
+average: '21.12'
 ---
 
 Tienes [Reef Contour Cushion Le  Chanclas para Hombre  Marrón  Brown Bro   40 EU](https://www.amazon.es/dp/B01N6G80KF/?tag=tolees-21) con un 53.07 % de descuento con precio de oferta de 21.12 EUR (original: 45 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CZJ7KJW/?tag=tolees-21'
 descuento: '72.11'
+average: '33.45'
 ---
 
 Ahora mismo tienes [G-STAR RAW 5620 3d Zip Knee Skinny  Vaqueros skinny Hombre  Azul  Rinsed 082   W29/L32](https://www.amazon.es/dp/B07CZJ7KJW/?tag=tolees-21) a 33.45 EUR (original: 119.95 EUR) (72.11 %  de descuento) en el siguiente enlace!

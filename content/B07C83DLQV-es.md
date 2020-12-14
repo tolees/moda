@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07C83DLQV/?tag=tolees-21'
 descuento: '64.77'
+average: '54.6'
 ---
 
 Tienes [Fly London Leal689fly  Botines para Mujer  Rojo Brick 014  38 EU](https://www.amazon.es/dp/B07C83DLQV/?tag=tolees-21) con un 64.77 % de descuento con precio de oferta de 54.6 EUR (original: 155 EUR) en el siguiente enlace!

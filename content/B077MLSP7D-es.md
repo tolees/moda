@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077MLSP7D/?tag=tolees-21'
 descuento: '48.13'
+average: '25.93'
 ---
 
 Tienes [ESPRIT Sports 018ei1j009 - Cardigan Logo  Sudadera Mujer  Gris  Medium Grey 2 036   40  Talla del Fabricante: Medium ](https://www.amazon.es/dp/B077MLSP7D/?tag=tolees-21) con un 48.13 % de descuento con precio de oferta de 25.93 EUR (original: 49.99 EUR) en el siguiente enlace!

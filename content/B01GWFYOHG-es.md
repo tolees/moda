@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01GWFYOHG/?tag=tolees-21'
 descuento: '73.29'
+average: '91.07'
 ---
 
 Está [Christian Dior VERYDIOR1N T7 VV6  Gafas de Sol para Mujer  Azul  Blueehvna Grn/Blue Grey Speckled   51](https://www.amazon.es/dp/B01GWFYOHG/?tag=tolees-21) con 73.29 de descuento por 91.07 EUR (original: 341 EUR) en el siguiente enlace!

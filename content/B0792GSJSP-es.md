@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0792GSJSP/?tag=tolees-21'
 descuento: '76.78'
+average: '37.13'
 ---
 
 Tienes [Geox D Vivyanne Mid C  Botines para Mujer   Black C9999   40 EU](https://www.amazon.es/dp/B0792GSJSP/?tag=tolees-21) con un 76.78 % de descuento con precio de oferta de 37.13 EUR (original: 159.9 EUR) en el siguiente enlace!

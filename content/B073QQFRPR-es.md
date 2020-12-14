@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073QQFRPR/?tag=tolees-21'
 descuento: '66.07'
+average: '9.5'
 ---
 
 Está [find. Jersey con Textura de Cuadros para Hombre  Rojo  Damson   Large](https://www.amazon.es/dp/B073QQFRPR/?tag=tolees-21) con 66.07 de descuento por 9.5 EUR (original: 28 EUR) en el siguiente enlace!

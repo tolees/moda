@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BBYKNBW/?tag=tolees-21'
 descuento: '75.45'
+average: '14.73'
 ---
 
 Está [ESPRIT Collection 078eo1i004 Chaqueta Punto  Azul  Navy 400   Medium para Mujer](https://www.amazon.es/dp/B07BBYKNBW/?tag=tolees-21) con 75.45 de descuento por 14.73 EUR (original: 59.99 EUR) en el siguiente enlace!

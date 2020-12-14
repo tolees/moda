@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07RCF49T5/?tag=tolees-21'
 descuento: '26.63'
+average: '11.9'
 ---
 
 Está [wergem Moda Femenina Estampado Animal Manga Corta Camiseta básica Top Verano Camisetas](https://www.amazon.es/dp/B07RCF49T5/?tag=tolees-21) con 26.63 de descuento por 11.9 EUR (original: 16.22 EUR) en el siguiente enlace!

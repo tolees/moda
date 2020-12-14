@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JDTF39D/?tag=tolees-21'
 descuento: '50.00'
+average: '60'
 ---
 
 Está [Lacoste Sport Sh3542 Sudadera   Marine Forest-Blanc 847   Medium  Talla del Fabricante: 4  para Hombre](https://www.amazon.es/dp/B07JDTF39D/?tag=tolees-21) con 50.00 de descuento por 60 EUR (original: 120 EUR) en el siguiente enlace!

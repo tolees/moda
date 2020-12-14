@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07G4MRJ33/?tag=tolees-21'
 descuento: '69.74'
+average: '12.1'
 ---
 
 Ahora mismo tienes [Only Onlloulou L/s Cardigan Knt  Chaqueta Punto para Mujer  Gris  Simply Taupe Detail:W Melange  38  Talla del Fabricante: Small ](https://www.amazon.es/dp/B07G4MRJ33/?tag=tolees-21) a 12.1 EUR (original: 39.99 EUR) (69.74 %  de descuento) en el siguiente enlace!

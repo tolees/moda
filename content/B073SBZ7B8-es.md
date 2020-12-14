@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073SBZ7B8/?tag=tolees-21'
 descuento: '70.03'
+average: '14.97'
 ---
 
 Está [Trucco - Camisa para mujer  color blanco  talla 42](https://www.amazon.es/dp/B073SBZ7B8/?tag=tolees-21) con 70.03 de descuento por 14.97 EUR (original: 49.95 EUR) en el siguiente enlace!

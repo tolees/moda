@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DLLH484/?tag=tolees-21'
 descuento: '61.59'
+average: '6.91'
 ---
 
 Ahora mismo tienes [Springfield 4.2.Gym.MD. Daily Lace Cruda Camiseta de Manga Larga   Varios 98   X-Small  Tamaño del Fabricante:XS  para Mujer](https://www.amazon.es/dp/B07DLLH484/?tag=tolees-21) a 6.91 EUR (original: 17.99 EUR) (61.59 %  de descuento) en el siguiente enlace!

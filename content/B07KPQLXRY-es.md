@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KPQLXRY/?tag=tolees-21'
 descuento: '60.39'
+average: '79.22'
 ---
 
 Está [Gant O1. The Panel Down Vest Chaleco  Azul  Poseidon Blue 448   Small para Hombre](https://www.amazon.es/dp/B07KPQLXRY/?tag=tolees-21) con 60.39 de descuento por 79.22 EUR (original: 199.99 EUR) en el siguiente enlace!

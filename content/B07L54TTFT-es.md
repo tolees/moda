@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07L54TTFT/?tag=tolees-21'
 descuento: '63.01'
+average: '36.99'
 ---
 
 Está [recargables eléctrica batería Guantes calefactables  cálida Guantes de invierno hombre mujer  impermeable  guantes de moto  guantes de esquí calefactables  guantes de snowboard  calentador de manos](https://www.amazon.es/dp/B07L54TTFT/?tag=tolees-21) con 63.01 de descuento por 36.99 EUR (original: 99.99 EUR) en el siguiente enlace!

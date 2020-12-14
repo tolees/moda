@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01GQUW5PU/?tag=tolees-21'
 descuento: '36.40'
+average: '89.04'
 ---
 
 Tienes [The North Face Venture 2 Chaqueta  Mujer  Negro  TNF Black   XS](https://www.amazon.es/dp/B01GQUW5PU/?tag=tolees-21) con un 36.40 % de descuento con precio de oferta de 89.04 EUR (original: 140 EUR) en el siguiente enlace!

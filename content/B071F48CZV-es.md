@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071F48CZV/?tag=tolees-21'
 descuento: '39.95'
+average: '21.01'
 ---
 
 Ahora mismo tienes [Under Armour Mk1 Short Pantalón Corto  Hombre  Azul Academy/Stealth Gray 408  L](https://www.amazon.es/dp/B071F48CZV/?tag=tolees-21) a 21.01 EUR (original: 34.99 EUR) (39.95 %  de descuento) en el siguiente enlace!

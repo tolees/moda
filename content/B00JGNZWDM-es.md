@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00JGNZWDM/?tag=tolees-21'
 descuento: '55.51'
+average: '39.6'
 ---
 
 Tienes [Pikolinos Oviedo 08F  Zapatos de Cordones Oxford para Hombre  Marrón Olmo  47 EU](https://www.amazon.es/dp/B00JGNZWDM/?tag=tolees-21) con un 55.51 % de descuento con precio de oferta de 39.6 EUR (original: 89 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FTJXDN6/?tag=tolees-21'
 descuento: '60.03'
+average: '35.95'
 ---
 
 Está [Lee Elly  Vaqueros Slim para Mujer  Marfil  Raw Off White Xq   W30/L33](https://www.amazon.es/dp/B07FTJXDN6/?tag=tolees-21) con 60.03 de descuento por 35.95 EUR (original: 89.95 EUR) en el siguiente enlace!

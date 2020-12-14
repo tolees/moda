@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JJGT18R/?tag=tolees-21'
 descuento: '51.17'
+average: '11.07'
 ---
 
 Está [New Look Gemma 5934779  Camisa para Mujer  Gris  Light Grey 2  38  Talla del Fabricante: 10 ](https://www.amazon.es/dp/B07JJGT18R/?tag=tolees-21) con 51.17 de descuento por 11.07 EUR (original: 22.67 EUR) en el siguiente enlace!

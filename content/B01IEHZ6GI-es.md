@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01IEHZ6GI/?tag=tolees-21'
 descuento: '49.01'
+average: '17.82'
 ---
 
 Está [VERO MODA VMTEA 7/8 SHORT DRESS DNM  vestido Mujer  Azul  Navy Blazer   36  Talla del fabricante: Small ](https://www.amazon.es/dp/B01IEHZ6GI/?tag=tolees-21) con 49.01 de descuento por 17.82 EUR (original: 34.95 EUR) en el siguiente enlace!

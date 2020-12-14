@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BBDJ1L8/?tag=tolees-21'
 descuento: '49.12'
+average: '15.24'
 ---
 
 Está [Softline 22360-21  Zapatos de Tacón para Mujer  Negro  Black Nappa 022   37 EU](https://www.amazon.es/dp/B07BBDJ1L8/?tag=tolees-21) con 49.12 de descuento por 15.24 EUR (original: 29.95 EUR) en el siguiente enlace!

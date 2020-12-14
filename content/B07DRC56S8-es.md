@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DRC56S8/?tag=tolees-21'
 descuento: '52.93'
+average: '32.95'
 ---
 
 Ahora mismo tienes [Volcom Threezy P/O Sudadera  Hombre  Verde  Navy Green   S](https://www.amazon.es/dp/B07DRC56S8/?tag=tolees-21) a 32.95 EUR (original: 70 EUR) (52.93 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078HTS8J7/?tag=tolees-21'
 descuento: '41.08'
+average: '29.46'
 ---
 
 Tienes [The North Face Horizon Peak Pantalón Corto  Hombre  Gris  Asphalt Grey   36 REG](https://www.amazon.es/dp/B078HTS8J7/?tag=tolees-21) con un 41.08 % de descuento con precio de oferta de 29.46 EUR (original: 50 EUR) en el siguiente enlace!

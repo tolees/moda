@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HH1PWSK/?tag=tolees-21'
 descuento: '49.95'
+average: '19.52'
 ---
 
 Ahora mismo tienes [Tommy Jeans Mujer SATIN DETAIL TEE Camiseta Manga Corta  Azul  Black Iris 002  Small](https://www.amazon.es/dp/B07HH1PWSK/?tag=tolees-21) a 19.52 EUR (original: 39 EUR) (49.95 %  de descuento) en el siguiente enlace!

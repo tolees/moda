@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0781Z5MMS/?tag=tolees-21'
 descuento: '77.44'
+average: '11.27'
 ---
 
 Tienes [Puma Liga Sideline Jacket Jr Chaqueta de Entrenamiento  Unisex niños  Azul  Electric Blue Lemonade White   164](https://www.amazon.es/dp/B0781Z5MMS/?tag=tolees-21) con un 77.44 % de descuento con precio de oferta de 11.27 EUR (original: 49.95 EUR) en el siguiente enlace!

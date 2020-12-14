@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073JDF23B/?tag=tolees-21'
 descuento: '53.63'
+average: '23.18'
 ---
 
 Tienes [Cortefiel C7CB Straight Lav. Oscuro Vaqueros straight  Hombre  Azul  Blue   Tamaño del fabricante:44 ](https://www.amazon.es/dp/B073JDF23B/?tag=tolees-21) con un 53.63 % de descuento con precio de oferta de 23.18 EUR (original: 49.99 EUR) en el siguiente enlace!

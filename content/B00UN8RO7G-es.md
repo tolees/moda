@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00UN8RO7G/?tag=tolees-21'
 descuento: '55.06'
+average: '14.83'
 ---
 
 Tienes [Emporio Armani CC747  Bóxer para Hombre  Blanco  White  Small  Tamaño del Fabricante:S ](https://www.amazon.es/dp/B00UN8RO7G/?tag=tolees-21) con un 55.06 % de descuento con precio de oferta de 14.83 EUR (original: 33 EUR) en el siguiente enlace!

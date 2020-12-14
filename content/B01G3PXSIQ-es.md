@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01G3PXSIQ/?tag=tolees-21'
 descuento: '62.69'
+average: '19.03'
 ---
 
 Está [MR.BOHO  Monochrome red born - Gafas De Sol unisex color rojo  talla única](https://www.amazon.es/dp/B01G3PXSIQ/?tag=tolees-21) con 62.69 de descuento por 19.03 EUR (original: 51 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01EL0W8JA/?tag=tolees-21'
 descuento: '56.92'
+average: '12.88'
 ---
 
 Tienes [FreeQuent Nero-JA  Chaqueta de Traje para Mujer  Rosa M](https://www.amazon.es/dp/B01EL0W8JA/?tag=tolees-21) con un 56.92 % de descuento con precio de oferta de 12.88 EUR (original: 29.9 EUR) en el siguiente enlace!

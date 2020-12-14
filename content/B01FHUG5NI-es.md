@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01FHUG5NI/?tag=tolees-21'
 descuento: '58.58'
+average: '21.54'
 ---
 
 Tienes [BROOKS BROTHERS Maglia Pigiama Girocollo Camiseta de Pijama  Blanco  White 100   Small para Hombre](https://www.amazon.es/dp/B01FHUG5NI/?tag=tolees-21) con un 58.58 % de descuento con precio de oferta de 21.54 EUR (original: 52 EUR) en el siguiente enlace!

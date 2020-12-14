@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00L36TS6M/?tag=tolees-21'
 descuento: '30.81'
+average: '5.95'
 ---
 
 Tienes [Joma Combi Camiseta  Hombre  Naranja  XL](https://www.amazon.es/dp/B00L36TS6M/?tag=tolees-21) con un 30.81 % de descuento con precio de oferta de 5.95 EUR (original: 8.6 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077ZKDYCH/?tag=tolees-21'
 descuento: '50.09'
+average: '24.95'
 ---
 
 Ahora mismo tienes [edc by Esprit 028cc1e024  Vestido para Mujer  Blanco  Off White 110   Small](https://www.amazon.es/dp/B077ZKDYCH/?tag=tolees-21) a 24.95 EUR (original: 49.99 EUR) (50.09 %  de descuento) en el siguiente enlace!

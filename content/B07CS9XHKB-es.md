@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CS9XHKB/?tag=tolees-21'
 descuento: '77.55'
+average: '16.84'
 ---
 
 Está [Pepe Jeans Artini Sudadera    Eclipse 968   Large para Hombre](https://www.amazon.es/dp/B07CS9XHKB/?tag=tolees-21) con 77.55 de descuento por 16.84 EUR (original: 75 EUR) en el siguiente enlace!

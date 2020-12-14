@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MTJUGAQ/?tag=tolees-21'
 descuento: '48.43'
+average: '8.2'
 ---
 
 Está [oodji Ultra Mujer Jersey Estampado de Manga 3/4  Rojo  ES 34 / XXS](https://www.amazon.es/dp/B01MTJUGAQ/?tag=tolees-21) con 48.43 de descuento por 8.2 EUR (original: 15.9 EUR) en el siguiente enlace!

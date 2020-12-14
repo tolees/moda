@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BB4CCXN/?tag=tolees-21'
 descuento: '67.07'
+average: '46.1'
 ---
 
 Ahora mismo tienes [The North Face Y Jkt Chaqueta Infantil Snowquest Plus  Unisex niños  Rocket Red  M](https://www.amazon.es/dp/B07BB4CCXN/?tag=tolees-21) a 46.1 EUR (original: 140 EUR) (67.07 %  de descuento) en el siguiente enlace!

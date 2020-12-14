@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07PSJB317/?tag=tolees-21'
 descuento: '59.02'
+average: '12'
 ---
 
 Tienes [New Look Arya Ditsy Vestido  Blanco  White Pattern 19   34  Talla del Fabricante: 6  para Mujer](https://www.amazon.es/dp/B07PSJB317/?tag=tolees-21) con un 59.02 % de descuento con precio de oferta de 12 EUR (original: 29.28 EUR) en el siguiente enlace!

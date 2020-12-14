@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01HQAXC9C/?tag=tolees-21'
 descuento: '41.50'
+average: '21'
 ---
 
 Está [Crocs Crocband II Slide U  Chanclas Unisex Adulto  Negro  Black/Graphite   42/43 EU](https://www.amazon.es/dp/B01HQAXC9C/?tag=tolees-21) con 41.50 de descuento por 21 EUR (original: 35.9 EUR) en el siguiente enlace!

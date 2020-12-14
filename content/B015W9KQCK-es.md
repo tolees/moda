@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B015W9KQCK/?tag=tolees-21'
 descuento: '30.98'
+average: '13.77'
 ---
 
 Tienes [Levi s N91005H  Camiseta para Niños  Blanco  White   8 años](https://www.amazon.es/dp/B015W9KQCK/?tag=tolees-21) con un 30.98 % de descuento con precio de oferta de 13.77 EUR (original: 19.95 EUR) en el siguiente enlace!

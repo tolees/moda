@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KGCPBTL/?tag=tolees-21'
 descuento: '25.63'
+average: '37.15'
 ---
 
 Está [BOSS Identity Pants Pantalones de Pijama  Verde  Dark Green 307   Small para Hombre](https://www.amazon.es/dp/B07KGCPBTL/?tag=tolees-21) con 25.63 de descuento por 37.15 EUR (original: 49.95 EUR) en el siguiente enlace!

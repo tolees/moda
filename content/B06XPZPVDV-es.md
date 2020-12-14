@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XPZPVDV/?tag=tolees-21'
 descuento: '45.03'
+average: '8.19'
 ---
 
 Tienes [Adelheid - Frohnatur Kulturbeutel Vegan  Organizadores de bolso Mujer  Gris  Silbergrau   6.5x18x27.5 cm  B x H T ](https://www.amazon.es/dp/B06XPZPVDV/?tag=tolees-21) con un 45.03 % de descuento con precio de oferta de 8.19 EUR (original: 14.9 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KSHNXG6/?tag=tolees-21'
 descuento: '78.82'
+average: '29.44'
 ---
 
 Está [REPLAY Karyna Vaqueros Slim  Verde  Sage Green 130   W31/L28  Talla del Fabricante: 31  para Mujer](https://www.amazon.es/dp/B07KSHNXG6/?tag=tolees-21) con 78.82 de descuento por 29.44 EUR (original: 139 EUR) en el siguiente enlace!

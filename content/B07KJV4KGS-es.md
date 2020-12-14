@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KJV4KGS/?tag=tolees-21'
 descuento: '46.34'
+average: '8.58'
 ---
 
 Ahora mismo tienes [Quiksilver Stomped On Camiseta  Niños  Azul  Blue Nights   XS](https://www.amazon.es/dp/B07KJV4KGS/?tag=tolees-21) a 8.58 EUR (original: 15.99 EUR) (46.34 %  de descuento) en el siguiente enlace!

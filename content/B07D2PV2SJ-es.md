@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D2PV2SJ/?tag=tolees-21'
 descuento: '50.62'
+average: '22.22'
 ---
 
 Ahora mismo tienes [Gant KU. Archive Oxford B.d. Shirt  Camisa Niños  Rosa  Light Pink   2 años  Talla del Fabricante: 92 ](https://www.amazon.es/dp/B07D2PV2SJ/?tag=tolees-21) a 22.22 EUR (original: 45 EUR) (50.62 %  de descuento) en el siguiente enlace!

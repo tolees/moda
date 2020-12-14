@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N2AKGL1/?tag=tolees-21'
 descuento: '69.98'
+average: '7.79'
 ---
 
 Está [Mick Morrison Mapari Sudadera Negro  Schwarz/Dunkelblau 008  XX-Large](https://www.amazon.es/dp/B01N2AKGL1/?tag=tolees-21) con 69.98 de descuento por 7.79 EUR (original: 25.95 EUR) en el siguiente enlace!

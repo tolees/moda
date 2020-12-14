@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FZD8DJQ/?tag=tolees-21'
 descuento: '56.66'
+average: '39'
 ---
 
 Tienes [RIP CURL Puffer Pocket Jacket Chaqueta  Niños  Midnight Navy  14](https://www.amazon.es/dp/B07FZD8DJQ/?tag=tolees-21) con un 56.66 % de descuento con precio de oferta de 39 EUR (original: 89.99 EUR) en el siguiente enlace!

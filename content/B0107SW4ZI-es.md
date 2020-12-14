@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0107SW4ZI/?tag=tolees-21'
 descuento: '48.36'
+average: '14.95'
 ---
 
 Tienes [Joma - Chaqueta Capucha Crew Marino-Celeste para Hombre](https://www.amazon.es/dp/B0107SW4ZI/?tag=tolees-21) con un 48.36 % de descuento con precio de oferta de 14.95 EUR (original: 28.95 EUR) en el siguiente enlace!

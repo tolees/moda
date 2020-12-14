@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07M94KTCC/?tag=tolees-21'
 descuento: '30.05'
+average: '69.95'
 ---
 
 Ahora mismo tienes [The North Face Quest Chaqueta  Hombre  Mid Grey Black Heather  L](https://www.amazon.es/dp/B07M94KTCC/?tag=tolees-21) a 69.95 EUR (original: 100 EUR) (30.05 %  de descuento) en el siguiente enlace!

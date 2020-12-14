@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KSBLZ14/?tag=tolees-21'
 descuento: '52.82'
+average: '16.49'
 ---
 
 Tienes [hummel First Seamless S/S Jersey  Hombre  Negro  XS/S](https://www.amazon.es/dp/B07KSBLZ14/?tag=tolees-21) con un 52.82 % de descuento con precio de oferta de 16.49 EUR (original: 34.95 EUR) en el siguiente enlace!

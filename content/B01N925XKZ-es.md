@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N925XKZ/?tag=tolees-21'
 descuento: '72.39'
+average: '8.28'
 ---
 
 Ahora mismo tienes [Esprit 017ee1k010  Camisa Manga Larga Mujer   Navy   38  Talla del Fabricante: Medium ](https://www.amazon.es/dp/B01N925XKZ/?tag=tolees-21) a 8.28 EUR (original: 29.99 EUR) (72.39 %  de descuento) en el siguiente enlace!

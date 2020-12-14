@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BB3TPJV/?tag=tolees-21'
 descuento: '65.53'
+average: '25.85'
 ---
 
 Está [The North Face W FZ Jacket Chaqueta con Cremallera Tanken  Mujer  Bomber Blue  XS](https://www.amazon.es/dp/B07BB3TPJV/?tag=tolees-21) con 65.53 de descuento por 25.85 EUR (original: 75 EUR) en el siguiente enlace!

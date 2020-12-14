@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0792HQCHV/?tag=tolees-21'
 descuento: '77.19'
+average: '10.49'
 ---
 
 Tienes [Quiksilver Travel Oasis  Zapatos de Playa y Piscina para Hombre  Marrón Brown-Combo Xccc  39 EU](https://www.amazon.es/dp/B0792HQCHV/?tag=tolees-21) con un 77.19 % de descuento con precio de oferta de 10.49 EUR (original: 45.99 EUR) en el siguiente enlace!

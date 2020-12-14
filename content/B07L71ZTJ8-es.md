@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07L71ZTJ8/?tag=tolees-21'
 descuento: '42.16'
+average: '92.48'
 ---
 
 Ahora mismo tienes [LIU JO Shoes Doroty 05-Sandal Met Leath Slv  Sandalias con Punta Abierta para Mujer  Plateado  Silver 00532   36 EU](https://www.amazon.es/dp/B07L71ZTJ8/?tag=tolees-21) a 92.48 EUR (original: 159.9 EUR) (42.16 %  de descuento) en el siguiente enlace!

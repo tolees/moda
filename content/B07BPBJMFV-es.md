@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BPBJMFV/?tag=tolees-21'
 descuento: '60.82'
+average: '35.24'
 ---
 
 Está [Wrangler Larston Slim Tapered Vaqueros  Azul  Dark Vantage 19Q   30W / 34L para Hombre](https://www.amazon.es/dp/B07BPBJMFV/?tag=tolees-21) con 60.82 de descuento por 35.24 EUR (original: 89.95 EUR) en el siguiente enlace!

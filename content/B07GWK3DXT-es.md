@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GWK3DXT/?tag=tolees-21'
 descuento: '58.74'
+average: '16.5'
 ---
 
 Está [Vero Moda Vmsiv Soraya Short Jacket Boos  Chaqueta Mujer  Amarillo  Golden Nugget   42  Talla del Fabricante: Large ](https://www.amazon.es/dp/B07GWK3DXT/?tag=tolees-21) con 58.74 de descuento por 16.5 EUR (original: 39.99 EUR) en el siguiente enlace!

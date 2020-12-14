@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076VN1W9C/?tag=tolees-21'
 descuento: '48.81'
+average: '20.45'
 ---
 
 Ahora mismo tienes [G-STAR RAW Dyv Straight Deep R T Wmn S/s  Camiseta Mujer  Beige  Milk 111   Medium](https://www.amazon.es/dp/B076VN1W9C/?tag=tolees-21) a 20.45 EUR (original: 39.95 EUR) (48.81 %  de descuento) en el siguiente enlace!

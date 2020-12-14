@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0792FK2HQ/?tag=tolees-21'
 descuento: '61.80'
+average: '45.8'
 ---
 
 Ahora mismo tienes [Geox D Kaula D  Mocasines para Mujer   Black C9999   37 EU](https://www.amazon.es/dp/B0792FK2HQ/?tag=tolees-21) a 45.8 EUR (original: 119.9 EUR) (61.80 %  de descuento) en el siguiente enlace!

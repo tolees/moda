@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076X7K8WT/?tag=tolees-21'
 descuento: '51.67'
+average: '48.28'
 ---
 
 Está [Geox U Mansel A  Zapatilla Baja para Hombre  Azul  Blue   39 EU](https://www.amazon.es/dp/B076X7K8WT/?tag=tolees-21) con 51.67 de descuento por 48.28 EUR (original: 99.9 EUR) en el siguiente enlace!

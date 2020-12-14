@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01BNOLZCI/?tag=tolees-21'
 descuento: '81.05'
+average: '11.97'
 ---
 
 Está [Comfortfüße Zuecos Kelly Rojo EU 35](https://www.amazon.es/dp/B01BNOLZCI/?tag=tolees-21) con 81.05 de descuento por 11.97 EUR (original: 63.15 EUR) en el siguiente enlace!

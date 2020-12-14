@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071XX2JC5/?tag=tolees-21'
 descuento: '73.36'
+average: '7.99'
 ---
 
 Tienes [REYLEO Bolso de Gimnasio de Deporte Acampada Excursión Viaje Senderismo - Azul y Naranja RT02](https://www.amazon.es/dp/B071XX2JC5/?tag=tolees-21) con un 73.36 % de descuento con precio de oferta de 7.99 EUR (original: 29.99 EUR) en el siguiente enlace!

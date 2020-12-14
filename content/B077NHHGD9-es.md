@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077NHHGD9/?tag=tolees-21'
 descuento: '40.83'
+average: '59.14'
 ---
 
 Ahora mismo tienes [Lee Brooklyn  Vaqueros Straight para Hombre  Azul  Jurassic Acmy   W32/L30](https://www.amazon.es/dp/B077NHHGD9/?tag=tolees-21) a 59.14 EUR (original: 99.95 EUR) (40.83 %  de descuento) en el siguiente enlace!

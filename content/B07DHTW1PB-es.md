@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DHTW1PB/?tag=tolees-21'
 descuento: '32.15'
+average: '128.9'
 ---
 
 Ahora mismo tienes [Quiksilver Mission Chaqueta de Nieve  Hombre  Gris  Simple Texture   M](https://www.amazon.es/dp/B07DHTW1PB/?tag=tolees-21) a 128.9 EUR (original: 189.99 EUR) (32.15 %  de descuento) en el siguiente enlace!

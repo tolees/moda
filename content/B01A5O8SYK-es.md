@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01A5O8SYK/?tag=tolees-21'
 descuento: '55.70'
+average: '13.73'
 ---
 
 Ahora mismo tienes [Marvel Camiseta Manga Corta Core Logo Blanco XL](https://www.amazon.es/dp/B01A5O8SYK/?tag=tolees-21) a 13.73 EUR (original: 30.99 EUR) (55.70 %  de descuento) en el siguiente enlace!

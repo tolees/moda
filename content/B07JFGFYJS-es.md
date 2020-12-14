@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JFGFYJS/?tag=tolees-21'
 descuento: '49.08'
+average: '25.46'
 ---
 
 Está [Lacoste Tf3049 Camiseta  Marfil  Napolitain 6xp   34 para Mujer](https://www.amazon.es/dp/B07JFGFYJS/?tag=tolees-21) con 49.08 de descuento por 25.46 EUR (original: 50 EUR) en el siguiente enlace!

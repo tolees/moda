@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JZW9FJG/?tag=tolees-21'
 descuento: '53.68'
+average: '9.26'
 ---
 
 Está [JACK & JONES Jcoscales Polo SS  Camiseta Hombre  Azul  Classic Blue Fit: Slim Melange   Medium](https://www.amazon.es/dp/B07JZW9FJG/?tag=tolees-21) con 53.68 de descuento por 9.26 EUR (original: 19.99 EUR) en el siguiente enlace!

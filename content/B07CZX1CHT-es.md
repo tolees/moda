@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CZX1CHT/?tag=tolees-21'
 descuento: '56.03'
+average: '12.29'
 ---
 
 Ahora mismo tienes [BOSS Trunk Structure Bóxer  Azul  Medium Blue 421   Hombre](https://www.amazon.es/dp/B07CZX1CHT/?tag=tolees-21) a 12.29 EUR (original: 27.95 EUR) (56.03 %  de descuento) en el siguiente enlace!

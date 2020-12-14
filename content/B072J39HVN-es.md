@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072J39HVN/?tag=tolees-21'
 descuento: '70.03'
+average: '23.98'
 ---
 
 Tienes [Under Armour Storm Woven FZ Chaqueta  Mujer  Verde  716   Extra-Small](https://www.amazon.es/dp/B072J39HVN/?tag=tolees-21) con un 70.03 % de descuento con precio de oferta de 23.98 EUR (original: 80 EUR) en el siguiente enlace!

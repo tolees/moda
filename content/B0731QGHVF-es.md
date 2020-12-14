@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0731QGHVF/?tag=tolees-21'
 descuento: '56.70'
+average: '12.12'
 ---
 
 Ahora mismo tienes [DC Shoes Star LS Boy Camiseta de Manga Larga  niños  Azul  Twilight Blue Solid   16/XL](https://www.amazon.es/dp/B0731QGHVF/?tag=tolees-21) a 12.12 EUR (original: 27.99 EUR) (56.70 %  de descuento) en el siguiente enlace!

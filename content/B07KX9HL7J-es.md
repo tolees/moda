@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KX9HL7J/?tag=tolees-21'
 descuento: '47.76'
+average: '118.58'
 ---
 
 Ahora mismo tienes [Love Moschino Boyfit 5pockets Denim Trousers Vaqueros Boyfriend  Azul  Zzsw1823 126w   W32/L27  Talla del Fabricante: 28  para Mujer](https://www.amazon.es/dp/B07KX9HL7J/?tag=tolees-21) a 118.58 EUR (original: 227 EUR) (47.76 %  de descuento) en el siguiente enlace!

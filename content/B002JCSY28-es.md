@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B002JCSY28/?tag=tolees-21'
 descuento: '49.83'
+average: '15'
 ---
 
 Tienes [Crocs Crocband Flip  Chanclas Unisex Adulto  Blanco  White   42/43 EU](https://www.amazon.es/dp/B002JCSY28/?tag=tolees-21) con un 49.83 % de descuento con precio de oferta de 15 EUR (original: 29.9 EUR) en el siguiente enlace!

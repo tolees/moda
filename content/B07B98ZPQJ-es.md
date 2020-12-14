@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07B98ZPQJ/?tag=tolees-21'
 descuento: '43.98'
+average: '55.99'
 ---
 
 Tienes [Clarks Vargo Mid  Zapatos de Cordones Derby para Hombre  Verde  Olive Leather   41 EU](https://www.amazon.es/dp/B07B98ZPQJ/?tag=tolees-21) con un 43.98 % de descuento con precio de oferta de 55.99 EUR (original: 99.95 EUR) en el siguiente enlace!

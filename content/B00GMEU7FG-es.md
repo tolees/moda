@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00GMEU7FG/?tag=tolees-21'
 descuento: '44.40'
+average: '25.02'
 ---
 
 Está [Birkenstock Kids ROMA   BF-NUBUK 233073 - Zuecos para unisex-niño  Brown / Mocha Brown  26](https://www.amazon.es/dp/B00GMEU7FG/?tag=tolees-21) con 44.40 de descuento por 25.02 EUR (original: 45 EUR) en el siguiente enlace!

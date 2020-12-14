@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078HLVMT5/?tag=tolees-21'
 descuento: '53.79'
+average: '12.01'
 ---
 
 Ahora mismo tienes [Springfield 343374  Camisa Casual para Hombre   Gamma Azules   Small  Tamaño del Fabricante:S ](https://www.amazon.es/dp/B078HLVMT5/?tag=tolees-21) a 12.01 EUR (original: 25.99 EUR) (53.79 %  de descuento) en el siguiente enlace!

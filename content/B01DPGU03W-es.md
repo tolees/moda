@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01DPGU03W/?tag=tolees-21'
 descuento: '89.10'
+average: '8.61'
 ---
 
 Está [Solo Capri - Abito Smanicato con Gonna A Pieghe  Pack  Vestido Mujer  Azul  tampone   S](https://www.amazon.es/dp/B01DPGU03W/?tag=tolees-21) con 89.10 de descuento por 8.61 EUR (original: 79 EUR) en el siguiente enlace!

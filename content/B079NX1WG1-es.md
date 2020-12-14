@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079NX1WG1/?tag=tolees-21'
 descuento: '50.66'
+average: '19.71'
 ---
 
 Tienes [Trucco TT03CG1  Blusa para Mujer  Blanco  Crudo B1   Tamaño del Fabricante:40](https://www.amazon.es/dp/B079NX1WG1/?tag=tolees-21) con un 50.66 % de descuento con precio de oferta de 19.71 EUR (original: 39.95 EUR) en el siguiente enlace!

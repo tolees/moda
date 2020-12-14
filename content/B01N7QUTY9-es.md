@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N7QUTY9/?tag=tolees-21'
 descuento: '30.00'
+average: '45.5'
 ---
 
 Ahora mismo tienes [FIND Leather Lace Up Brogue  Zapatos de Vestir Hombre  Marrón  Brown   43 EU](https://www.amazon.es/dp/B01N7QUTY9/?tag=tolees-21) a 45.5 EUR (original: 65 EUR) (30.00 %  de descuento) en el siguiente enlace!

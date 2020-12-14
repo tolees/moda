@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DP3MC3J/?tag=tolees-21'
 descuento: '53.96'
+average: '11.51'
 ---
 
 Está [Eastpak Buddy Bolso Bandolera  18 cm  0.5 Liters  Turquesa  Brize Surf ](https://www.amazon.es/dp/B07DP3MC3J/?tag=tolees-21) con 53.96 de descuento por 11.51 EUR (original: 25 EUR) en el siguiente enlace!

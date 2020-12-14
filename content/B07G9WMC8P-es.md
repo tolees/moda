@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07G9WMC8P/?tag=tolees-21'
 descuento: '50.05'
+average: '4.99'
 ---
 
 Tienes [Sexy Conjuntos Lencería Mujer erótico Transparente Lace Lenceria Erotica Babydoll Interior Ropa de Dormir Mujer Sexy Pijama Vestido Corto Encaje Floral Kimono Bata](https://www.amazon.es/dp/B07G9WMC8P/?tag=tolees-21) con un 50.05 % de descuento con precio de oferta de 4.99 EUR (original: 9.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0752BGRGF/?tag=tolees-21'
 descuento: '86.72'
+average: '18.59'
 ---
 
 Ahora mismo tienes [G-STAR RAW 5622 Mid Waist Skinny Vaqueros  Negro  rinsed 8970-082   26W / 36L para Mujer](https://www.amazon.es/dp/B0752BGRGF/?tag=tolees-21) a 18.59 EUR (original: 139.95 EUR) (86.72 %  de descuento) en el siguiente enlace!

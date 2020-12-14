@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077D78JGB/?tag=tolees-21'
 descuento: '31.17'
+average: '61.95'
 ---
 
 Ahora mismo tienes [Levi s 511 Slim Fit  Vaqueros para Hombre  Gris  Steel Gray Bi/Str 2616   32W / 30L](https://www.amazon.es/dp/B077D78JGB/?tag=tolees-21) a 61.95 EUR (original: 90 EUR) (31.17 %  de descuento) en el siguiente enlace!

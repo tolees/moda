@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073H4MXW2/?tag=tolees-21'
 descuento: '50.29'
+average: '13.5'
 ---
 
 Está [Inside 4SVES32&  Vestido Casual para Mujer  Negro  Negro   Small  Tamaño del fabricante:S ](https://www.amazon.es/dp/B073H4MXW2/?tag=tolees-21) con 50.29 de descuento por 13.5 EUR (original: 27.16 EUR) en el siguiente enlace!

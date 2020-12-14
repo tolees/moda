@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07G9KJMW6/?tag=tolees-21'
 descuento: '65.10'
+average: '8.01'
 ---
 
 Está [Tuc Tuc Prenda Kitties  Camiseta para Niñas   Morado 20   5 años  Tamaño del Fabricante:5A ](https://www.amazon.es/dp/B07G9KJMW6/?tag=tolees-21) con 65.10 de descuento por 8.01 EUR (original: 22.95 EUR) en el siguiente enlace!

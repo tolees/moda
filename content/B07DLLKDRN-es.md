@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DLLKDRN/?tag=tolees-21'
 descuento: '55.66'
+average: '11.08'
 ---
 
 Está [Springfield 4.2.T.Ap.R. Bimateria Flor Bordada Sudadera   Gama Grises 42   Small  Tamaño del Fabricante:S  para Mujer](https://www.amazon.es/dp/B07DLLKDRN/?tag=tolees-21) con 55.66 de descuento por 11.08 EUR (original: 24.99 EUR) en el siguiente enlace!

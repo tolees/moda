@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07LBLY68H/?tag=tolees-21'
 descuento: '61.51'
+average: '25.79'
 ---
 
 Tienes [Calvin Klein L/S Sweatshirt Sudadera  Negro  Black 001   XL para Hombre](https://www.amazon.es/dp/B07LBLY68H/?tag=tolees-21) con un 61.51 % de descuento con precio de oferta de 25.79 EUR (original: 67 EUR) en el siguiente enlace!

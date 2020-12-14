@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00GIJB4GQ/?tag=tolees-21'
 descuento: '69.30'
+average: '36.83'
 ---
 
 Está [G-STAR RAW Lynn Skinny  Vaqueros  Azul  Lt Aged 5783-424   25W / 34L para Mujer](https://www.amazon.es/dp/B00GIJB4GQ/?tag=tolees-21) con 69.30 de descuento por 36.83 EUR (original: 119.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078H23YQL/?tag=tolees-21'
 descuento: '28.02'
+average: '50.38'
 ---
 
 Ahora mismo tienes [Ultrasport Advanced Chaqueta de plumas de montaña/deportes de invierno para hombre Mylo  chaqueta de esquí  chaqueta de snowboard  chaqueta acolchada  chaqueta de invierno  chaqueta de nieve  Gris Oscuro/Neon Amarillo  XL](https://www.amazon.es/dp/B078H23YQL/?tag=tolees-21) a 50.38 EUR (original: 69.99 EUR) (28.02 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DFNPB4G/?tag=tolees-21'
 descuento: '34.79'
+average: '13.01'
 ---
 
 Ahora mismo tienes [Puma Ignite S/S Mono Camiseta  Hombre  Black  L](https://www.amazon.es/dp/B07DFNPB4G/?tag=tolees-21) a 13.01 EUR (original: 19.95 EUR) (34.79 %  de descuento) en el siguiente enlace!

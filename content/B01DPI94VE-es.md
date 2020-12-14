@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01DPI94VE/?tag=tolees-21'
 descuento: '84.82'
+average: '11.99'
 ---
 
 Ahora mismo tienes [ISABELLA ROMA - Abito Corto  Pack  Vestido Mujer  Amarillo  Giallo  17 Giallo    S](https://www.amazon.es/dp/B01DPI94VE/?tag=tolees-21) a 11.99 EUR (original: 79 EUR) (84.82 %  de descuento) en el siguiente enlace!

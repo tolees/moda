@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0719LZMYN/?tag=tolees-21'
 descuento: '64.62'
+average: '9.2'
 ---
 
 Ahora mismo tienes [Under Armour Challenger II Knit Short Pantalón Corto  Hombre  Blanco  White/Graphite 101   XXL](https://www.amazon.es/dp/B0719LZMYN/?tag=tolees-21) a 9.2 EUR (original: 26 EUR) (64.62 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KZ1HY2D/?tag=tolees-21'
 descuento: '56.55'
+average: '9.99'
 ---
 
 Está [Springfield 4.T.F.Blusa Topo Nudo Blusa  Mujer  Azul  Gama Azules 19   38  Tamaño del Fabricante:38 ](https://www.amazon.es/dp/B07KZ1HY2D/?tag=tolees-21) con 56.55 de descuento por 9.99 EUR (original: 22.99 EUR) en el siguiente enlace!

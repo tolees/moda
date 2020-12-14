@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N6WOQQY/?tag=tolees-21'
 descuento: '60.40'
+average: '94.24'
 ---
 
 Está [Oakley Turbine Rotor  Gafas de sol para Hombre  Negro 1](https://www.amazon.es/dp/B01N6WOQQY/?tag=tolees-21) con 60.40 de descuento por 94.24 EUR (original: 238 EUR) en el siguiente enlace!

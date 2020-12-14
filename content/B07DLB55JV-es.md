@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DLB55JV/?tag=tolees-21'
 descuento: '63.23'
+average: '9.19'
 ---
 
 Ahora mismo tienes [Women s Secret D1 Indigo Flowery PJ  Conjuntos de Pijama para Mujer   Varios 98  X-Small  Tamaño del Fabricante:XS ](https://www.amazon.es/dp/B07DLB55JV/?tag=tolees-21) a 9.19 EUR (original: 24.99 EUR) (63.23 %  de descuento) en el siguiente enlace!

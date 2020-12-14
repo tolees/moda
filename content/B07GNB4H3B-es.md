@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GNB4H3B/?tag=tolees-21'
 descuento: '71.97'
+average: '2.5'
 ---
 
 Ahora mismo tienes [YuamMei 1 par  2 Piezas  Guantes de microondas Resistentes al Calor de Silicona Mini Manoplas de Horno  Púrpura ](https://www.amazon.es/dp/B07GNB4H3B/?tag=tolees-21) a 2.5 EUR (original: 8.92 EUR) (71.97 %  de descuento) en el siguiente enlace!

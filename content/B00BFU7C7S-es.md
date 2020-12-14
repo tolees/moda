@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00BFU7C7S/?tag=tolees-21'
 descuento: '83.17'
+average: '10.34'
 ---
 
 Ahora mismo tienes [James & Nicholson JN595  Sudadera  Hombre  Negro  Black/Carbon   Small](https://www.amazon.es/dp/B00BFU7C7S/?tag=tolees-21) a 10.34 EUR (original: 61.44 EUR) (83.17 %  de descuento) en el siguiente enlace!

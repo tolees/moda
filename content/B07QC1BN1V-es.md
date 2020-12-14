@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07QC1BN1V/?tag=tolees-21'
 descuento: '52.44'
+average: '24.99'
 ---
 
 Tienes [Zapatillas Hombres De Deporte Sin Cordones De Montañismo Deporte Running Zapatos Talla 39-48 para Correr Gimnasio Sneakers Deportivas Padel Transpirables Casual Zapatos de Red calados.](https://www.amazon.es/dp/B07QC1BN1V/?tag=tolees-21) con un 52.44 % de descuento con precio de oferta de 24.99 EUR (original: 52.54 EUR) en el siguiente enlace!

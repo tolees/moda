@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KPTW4HS/?tag=tolees-21'
 descuento: '84.42'
+average: '24.78'
 ---
 
 Ahora mismo tienes [Replay Anbass  Vaqueros Slim para Hombre  Azul  Dark Blue 7   W28/L34  Talla del fabricante: 28 ](https://www.amazon.es/dp/B07KPTW4HS/?tag=tolees-21) a 24.78 EUR (original: 159 EUR) (84.42 %  de descuento) en el siguiente enlace!

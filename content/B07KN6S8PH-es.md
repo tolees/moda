@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KN6S8PH/?tag=tolees-21'
 descuento: '39.92'
+average: '32.48'
 ---
 
 Tienes [adidas PM Sudadera  Hombre  Negro  L](https://www.amazon.es/dp/B07KN6S8PH/?tag=tolees-21) con un 39.92 % de descuento con precio de oferta de 32.48 EUR (original: 54.06 EUR) en el siguiente enlace!

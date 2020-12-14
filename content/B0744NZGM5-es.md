@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0744NZGM5/?tag=tolees-21'
 descuento: '59.97'
+average: '5.6'
 ---
 
 Ahora mismo tienes [Iris & Lilly Tanga Estampado con Encaje para Mujer  Pack de 3  Multicolor  Print/ Veronica   Medium](https://www.amazon.es/dp/B0744NZGM5/?tag=tolees-21) a 5.6 EUR (original: 13.99 EUR) (59.97 %  de descuento) en el siguiente enlace!

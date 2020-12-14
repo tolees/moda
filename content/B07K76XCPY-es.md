@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07K76XCPY/?tag=tolees-21'
 descuento: '46.83'
+average: '15.95'
 ---
 
 Ahora mismo tienes [Levi s SS tee Camiseta   Colorblock Quiet Shade/White/Dress BLU 0006   Medium para Hombre](https://www.amazon.es/dp/B07K76XCPY/?tag=tolees-21) a 15.95 EUR (original: 30 EUR) (46.83 %  de descuento) en el siguiente enlace!

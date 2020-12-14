@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07QYZPPPX/?tag=tolees-21'
 descuento: '33.27'
+average: '23.99'
 ---
 
 Está [Sandalias para Niños Casual Verano Strap Sandalias-Zapatillas de Material sintético para niño](https://www.amazon.es/dp/B07QYZPPPX/?tag=tolees-21) con 33.27 de descuento por 23.99 EUR (original: 35.95 EUR) en el siguiente enlace!

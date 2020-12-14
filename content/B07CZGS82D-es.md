@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CZGS82D/?tag=tolees-21'
 descuento: '58.24'
+average: '24.95'
 ---
 
 Ahora mismo tienes [Asics Upcourt 3 Gs Zapatos de Squash Unisex Niños  Rosa  Diva Pink/Carbon 700   40 EU](https://www.amazon.es/dp/B07CZGS82D/?tag=tolees-21) a 24.95 EUR (original: 59.75 EUR) (58.24 %  de descuento) en el siguiente enlace!

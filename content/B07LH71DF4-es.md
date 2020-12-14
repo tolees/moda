@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07LH71DF4/?tag=tolees-21'
 descuento: '52.40'
+average: '14.28'
 ---
 
 Está [The North Face Reaxion Amp Camiseta de Cuello Redondo  Hombre  Verde  Crystal Teal Heather   L](https://www.amazon.es/dp/B07LH71DF4/?tag=tolees-21) con 52.40 de descuento por 14.28 EUR (original: 30 EUR) en el siguiente enlace!

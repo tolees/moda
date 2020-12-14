@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01NCYNVRA/?tag=tolees-21'
 descuento: '36.83'
+average: '18.95'
 ---
 
 Está [The North Face S/S Wood Dome tee Camiseta de Manga Corta  Hombre  TNF Medium Grey Heather  M](https://www.amazon.es/dp/B01NCYNVRA/?tag=tolees-21) con 36.83 de descuento por 18.95 EUR (original: 30 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076H9L2KC/?tag=tolees-21'
 descuento: '27.78'
+average: '82.98'
 ---
 
 Tienes [Kipling Bizzy Boo  Bolso Mochila para Mujer  Rosa  City Pink   15x24x45 cm  W x H x L ](https://www.amazon.es/dp/B076H9L2KC/?tag=tolees-21) con un 27.78 % de descuento con precio de oferta de 82.98 EUR (original: 114.9 EUR) en el siguiente enlace!

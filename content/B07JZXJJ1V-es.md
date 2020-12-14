@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JZXJJ1V/?tag=tolees-21'
 descuento: '52.22'
+average: '14.32'
 ---
 
 Ahora mismo tienes [Emporio Armani Underwear 9p529 Bóxer   Negro 00020   X-Large para Hombre](https://www.amazon.es/dp/B07JZXJJ1V/?tag=tolees-21) a 14.32 EUR (original: 29.97 EUR) (52.22 %  de descuento) en el siguiente enlace!

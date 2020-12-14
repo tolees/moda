@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JYCZRKP/?tag=tolees-21'
 descuento: '57.73'
+average: '21.13'
 ---
 
 Está [JACK & JONES Jorglave Light Track Jacket  Chaqueta para Hombre  Rojo Flame Scarlet  Large](https://www.amazon.es/dp/B07JYCZRKP/?tag=tolees-21) con 57.73 de descuento por 21.13 EUR (original: 49.99 EUR) en el siguiente enlace!

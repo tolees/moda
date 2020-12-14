@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0773SJPNQ/?tag=tolees-21'
 descuento: '56.52'
+average: '10'
 ---
 
 Ahora mismo tienes [New Look Rain Coat  Abrigo Impermeable para Hombre  Red  Dark Burgundy  Medium](https://www.amazon.es/dp/B0773SJPNQ/?tag=tolees-21) a 10 EUR (original: 23 EUR) (56.52 %  de descuento) en el siguiente enlace!

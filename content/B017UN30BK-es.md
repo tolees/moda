@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B017UN30BK/?tag=tolees-21'
 descuento: '43.12'
+average: '27.3'
 ---
 
 Ahora mismo tienes [Calvin Klein JeansVIGGO HEAVY CANVAS - Zapatos de playa y piscina  Hombre  Negro  40 UE](https://www.amazon.es/dp/B017UN30BK/?tag=tolees-21) a 27.3 EUR (original: 48 EUR) (43.12 %  de descuento) en el siguiente enlace!

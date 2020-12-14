@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CTSD2TM/?tag=tolees-21'
 descuento: '55.02'
+average: '13.49'
 ---
 
 Tienes [PIECES Pcshape-up V361 MW Jeggings MB/Noos  Vaqueros Skinny Mujer  Azul  Medium Blue Denim Medium Denim   W24  Talla del Fabricante: XX-Small ](https://www.amazon.es/dp/B07CTSD2TM/?tag=tolees-21) con un 55.02 % de descuento con precio de oferta de 13.49 EUR (original: 29.99 EUR) en el siguiente enlace!

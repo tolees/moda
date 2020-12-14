@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DJGSTTB/?tag=tolees-21'
 descuento: '56.18'
+average: '10.91'
 ---
 
 Está [MARIA MARE Mariamare Bruna  Bolso de Mano para Mujer  Rojo  Crarol Burdeos   3.5 x 14 x 26 cm](https://www.amazon.es/dp/B07DJGSTTB/?tag=tolees-21) con 56.18 de descuento por 10.91 EUR (original: 24.9 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FYVBZDR/?tag=tolees-21'
 descuento: '45.52'
+average: '35.41'
 ---
 
 Está [Lee Mid Skirt  Falda para Mujer  Marfil  Raw Off White Xq   32  Talla del Fabricante: 25 ](https://www.amazon.es/dp/B07FYVBZDR/?tag=tolees-21) con 45.52 de descuento por 35.41 EUR (original: 65 EUR) en el siguiente enlace!

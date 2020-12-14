@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0794LJJRV/?tag=tolees-21'
 descuento: '70.09'
+average: '14.95'
 ---
 
 Ahora mismo tienes [Esprit 058ee1e003  Vestido para Mujer   Navy 2 401  Medium](https://www.amazon.es/dp/B0794LJJRV/?tag=tolees-21) a 14.95 EUR (original: 49.99 EUR) (70.09 %  de descuento) en el siguiente enlace!

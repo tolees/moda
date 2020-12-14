@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079WGMHVZ/?tag=tolees-21'
 descuento: '70.03'
+average: '28.47'
 ---
 
 Está [Pepe Jeans New Brooke Vaqueros  Azul  Dark Used Cg4   34W / 34L para Mujer](https://www.amazon.es/dp/B079WGMHVZ/?tag=tolees-21) con 70.03 de descuento por 28.47 EUR (original: 95 EUR) en el siguiente enlace!

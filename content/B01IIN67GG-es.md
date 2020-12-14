@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01IIN67GG/?tag=tolees-21'
 descuento: '49.98'
+average: '14.98'
 ---
 
 Ahora mismo tienes [Lee Twin Pack Crew  Camiseta para Hombre  Negro  Black Ai01  Small 2](https://www.amazon.es/dp/B01IIN67GG/?tag=tolees-21) a 14.98 EUR (original: 29.95 EUR) (49.98 %  de descuento) en el siguiente enlace!

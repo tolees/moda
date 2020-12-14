@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0792T5HBG/?tag=tolees-21'
 descuento: '65.99'
+average: '37.38'
 ---
 
 Ahora mismo tienes [Geox D Gendry C  Zapatillas para Mujer   Gun/Dk Grey C1g9f   37 EU](https://www.amazon.es/dp/B0792T5HBG/?tag=tolees-21) a 37.38 EUR (original: 109.9 EUR) (65.99 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077Y8NB7T/?tag=tolees-21'
 descuento: '57.50'
+average: '12.78'
 ---
 
 Ahora mismo tienes [Inside 5SPPC01 Chaqueta Impermeable  Mujer  Blanco  Large  Tamaño del Fabricante:L ](https://www.amazon.es/dp/B077Y8NB7T/?tag=tolees-21) a 12.78 EUR (original: 30.07 EUR) (57.50 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07G4FG8RD/?tag=tolees-21'
 descuento: '58.82'
+average: '13.57'
 ---
 
 Está [Boss Trunk Microprint  Bóxer para Hombre  Azul  Dark Blue 406  Medium](https://www.amazon.es/dp/B07G4FG8RD/?tag=tolees-21) con 58.82 de descuento por 13.57 EUR (original: 32.95 EUR) en el siguiente enlace!

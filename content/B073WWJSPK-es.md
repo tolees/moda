@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073WWJSPK/?tag=tolees-21'
 descuento: '75.09'
+average: '9.96'
 ---
 
 Está [Vero Moda Vmhelen LS String Blouse  suéter Mujer  Marrón  Monks Robe Detail:Melange   34  Talla del Fabricante: X-Small ](https://www.amazon.es/dp/B073WWJSPK/?tag=tolees-21) con 75.09 de descuento por 9.96 EUR (original: 39.99 EUR) en el siguiente enlace!

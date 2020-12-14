@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B010NZCIFQ/?tag=tolees-21'
 descuento: '50.72'
+average: '27.08'
 ---
 
 Está [Columbia Silver Ridge C Pantalón Corto con Protección Solar 50  Hombre  Gris  Grey Ash   32](https://www.amazon.es/dp/B010NZCIFQ/?tag=tolees-21) con 50.72 de descuento por 27.08 EUR (original: 54.95 EUR) en el siguiente enlace!

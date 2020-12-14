@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JWVK386/?tag=tolees-21'
 descuento: '69.94'
+average: '7.5'
 ---
 
 Tienes [PUMA Rebel Basic tee Camiseta  Hombre  Blanco White  XXL](https://www.amazon.es/dp/B07JWVK386/?tag=tolees-21) con un 69.94 % de descuento con precio de oferta de 7.5 EUR (original: 24.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071WML8H6/?tag=tolees-21'
 descuento: '65.43'
+average: '96.44'
 ---
 
 Está [Tommy Hilfiger CRESS Down JKT Chaqueta  Azul  Midnight   10  Talla del Fabricante: Medium  para Mujer](https://www.amazon.es/dp/B071WML8H6/?tag=tolees-21) con 65.43 de descuento por 96.44 EUR (original: 279 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CZMYH6K/?tag=tolees-21'
 descuento: '46.10'
+average: '18.86'
 ---
 
 Está [Under Armour Sc30 Short Pantalón Corto  Niños  Verde  Neo Turquoise/Black 361   M](https://www.amazon.es/dp/B07CZMYH6K/?tag=tolees-21) con 46.10 de descuento por 18.86 EUR (original: 34.99 EUR) en el siguiente enlace!

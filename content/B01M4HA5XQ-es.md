@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01M4HA5XQ/?tag=tolees-21'
 descuento: '49.95'
+average: '50'
 ---
 
 Está [Geox D Sukie A  Zapatillas para Mujer  Beige  SKINC8182   37 EU](https://www.amazon.es/dp/B01M4HA5XQ/?tag=tolees-21) con 49.95 de descuento por 50 EUR (original: 99.9 EUR) en el siguiente enlace!

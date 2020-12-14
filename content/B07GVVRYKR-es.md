@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GVVRYKR/?tag=tolees-21'
 descuento: '39.70'
+average: '20.14'
 ---
 
 Está [New Look Entry Hooded  Abrigo para Hombre  Amarillo  Mid Yellow  X-Small  Talla del Fabricante: 50 ](https://www.amazon.es/dp/B07GVVRYKR/?tag=tolees-21) con 39.70 de descuento por 20.14 EUR (original: 33.4 EUR) en el siguiente enlace!

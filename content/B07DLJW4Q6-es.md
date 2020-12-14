@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DLJW4Q6/?tag=tolees-21'
 descuento: '39.26'
+average: '7.89'
 ---
 
 Ahora mismo tienes [Springfield 4Wo Brochazo 17 Grande  Sudadera para Hombre  Beige  Crudo 96  Large  Tamaño del Fabricante:L ](https://www.amazon.es/dp/B07DLJW4Q6/?tag=tolees-21) a 7.89 EUR (original: 12.99 EUR) (39.26 %  de descuento) en el siguiente enlace!

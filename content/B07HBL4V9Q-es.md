@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HBL4V9Q/?tag=tolees-21'
 descuento: '42.86'
+average: '138.14'
 ---
 
 Ahora mismo tienes [KAREN MILLEN Fashions Limited Tassel Ankle Boots  Botines para Mujer  Negro  Black 01   39 EU](https://www.amazon.es/dp/B07HBL4V9Q/?tag=tolees-21) a 138.14 EUR (original: 241.74 EUR) (42.86 %  de descuento) en el siguiente enlace!

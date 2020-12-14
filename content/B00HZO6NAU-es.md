@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00HZO6NAU/?tag=tolees-21'
 descuento: '80.34'
+average: '13.36'
 ---
 
 Tienes [Jomos Freewalk  Zapatos de Cordones Derby para Mujer  Marrón  Braun  Almond   37 EU](https://www.amazon.es/dp/B00HZO6NAU/?tag=tolees-21) con un 80.34 % de descuento con precio de oferta de 13.36 EUR (original: 67.95 EUR) en el siguiente enlace!

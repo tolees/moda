@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076X4LNL7/?tag=tolees-21'
 descuento: '62.34'
+average: '37.62'
 ---
 
 Tienes [Geox U Avery A  Zapatillas para Hombre  Gris  44 EU](https://www.amazon.es/dp/B076X4LNL7/?tag=tolees-21) con un 62.34 % de descuento con precio de oferta de 37.62 EUR (original: 99.9 EUR) en el siguiente enlace!

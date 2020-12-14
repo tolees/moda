@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DL9DKGK/?tag=tolees-21'
 descuento: '68.48'
+average: '6.3'
 ---
 
 Está [Springfield 2Ba Basic Polo Sudadera  Hombre   Gama Rosas/Morados 74   Small  Tamaño del Fabricante:S ](https://www.amazon.es/dp/B07DL9DKGK/?tag=tolees-21) con 68.48 de descuento por 6.3 EUR (original: 19.99 EUR) en el siguiente enlace!

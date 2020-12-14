@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JQJNMX4/?tag=tolees-21'
 descuento: '80.31'
+average: '11.81'
 ---
 
 Ahora mismo tienes [Esprit Hombre 128ee2b024 Vaqueros Straight Not Applicable  Azul  Blue Medium Wash 902   W44/L32  Talla del Fabricante: 44/32 ](https://www.amazon.es/dp/B07JQJNMX4/?tag=tolees-21) a 11.81 EUR (original: 59.99 EUR) (80.31 %  de descuento) en el siguiente enlace!

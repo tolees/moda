@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0759SCZT6/?tag=tolees-21'
 descuento: '48.81'
+average: '35.81'
 ---
 
 Tienes [Clarks Lafley Rosen  Sandalias de Talón Abierto para Mujer  Rojo  Red-   39.5 EU](https://www.amazon.es/dp/B0759SCZT6/?tag=tolees-21) con un 48.81 % de descuento con precio de oferta de 35.81 EUR (original: 69.95 EUR) en el siguiente enlace!

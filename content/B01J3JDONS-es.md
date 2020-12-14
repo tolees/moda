@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01J3JDONS/?tag=tolees-21'
 descuento: '40.18'
+average: '14.95'
 ---
 
 Está [Columbia CSC Basic Logo Camiseta de Manga Corta  Hombre  Gris Grey Heather  M](https://www.amazon.es/dp/B01J3JDONS/?tag=tolees-21) con 40.18 de descuento por 14.95 EUR (original: 24.99 EUR) en el siguiente enlace!

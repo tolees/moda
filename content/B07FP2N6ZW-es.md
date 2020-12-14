@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FP2N6ZW/?tag=tolees-21'
 descuento: '52.41'
+average: '28.55'
 ---
 
 Tienes [Vero Moda Vmanais Faux Shearling Short Jacket  Chaqueta para Mujer  Negro Detail: Black Teddy  42  Talla del Fabricante: Large ](https://www.amazon.es/dp/B07FP2N6ZW/?tag=tolees-21) con un 52.41 % de descuento con precio de oferta de 28.55 EUR (original: 59.99 EUR) en el siguiente enlace!

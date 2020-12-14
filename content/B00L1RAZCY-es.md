@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00L1RAZCY/?tag=tolees-21'
 descuento: '70.18'
+average: '20.87'
 ---
 
 Está [Columbia Saturday Trail Pant Pantalón de Senderismo para Mujer  Negro  Black   W4/R](https://www.amazon.es/dp/B00L1RAZCY/?tag=tolees-21) con 70.18 de descuento por 20.87 EUR (original: 69.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DK4VRQ5/?tag=tolees-21'
 descuento: '63.73'
+average: '19.95'
 ---
 
 Está [Geox J Alonisso Boy B  Zapatillas para Niños  Azul  Navy/Royal C4226   33 EU](https://www.amazon.es/dp/B07DK4VRQ5/?tag=tolees-21) con 63.73 de descuento por 19.95 EUR (original: 55 EUR) en el siguiente enlace!

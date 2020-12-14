@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073ZDRH4R/?tag=tolees-21'
 descuento: '30.01'
+average: '16.09'
 ---
 
 Ahora mismo tienes [Iris & Lilly Pijama de Cuadros con Camiseta de Tirantes y Short Mujer  Rojo  Red/black Checks   Large](https://www.amazon.es/dp/B073ZDRH4R/?tag=tolees-21) a 16.09 EUR (original: 22.99 EUR) (30.01 %  de descuento) en el siguiente enlace!

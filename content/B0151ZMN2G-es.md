@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0151ZMN2G/?tag=tolees-21'
 descuento: '40.01'
+average: '23.99'
 ---
 
 Tienes [Adidas H JSY UWC - Camiseta 1ª Equipación Real Madrid  Color Blanco / Gris  Talla S](https://www.amazon.es/dp/B0151ZMN2G/?tag=tolees-21) con un 40.01 % de descuento con precio de oferta de 23.99 EUR (original: 39.99 EUR) en el siguiente enlace!

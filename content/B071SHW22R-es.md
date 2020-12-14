@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071SHW22R/?tag=tolees-21'
 descuento: '79.08'
+average: '16.32'
 ---
 
 Tienes [Pepaloves Aina Dress Print/Rust  Vestido Casual para Mujer  Marrón  Print/Rust   40  Tamaño del fabricante:M ](https://www.amazon.es/dp/B071SHW22R/?tag=tolees-21) con un 79.08 % de descuento con precio de oferta de 16.32 EUR (original: 78 EUR) en el siguiente enlace!

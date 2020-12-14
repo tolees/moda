@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B008AGO7XM/?tag=tolees-21'
 descuento: '36.51'
+average: '39.99'
 ---
 
 Tienes [Ultrasport Softshell Jacket Serfaus Chaqueta de esquí  Mujer  Negro/Azul  L](https://www.amazon.es/dp/B008AGO7XM/?tag=tolees-21) con un 36.51 % de descuento con precio de oferta de 39.99 EUR (original: 62.99 EUR) en el siguiente enlace!

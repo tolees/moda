@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074CVWP3B/?tag=tolees-21'
 descuento: '62.64'
+average: '52.3'
 ---
 
 Ahora mismo tienes [Ecco Aquet  Zapatos de Cordones Brogue para Hombre  Gris  Moon Rock 2459   44 EU](https://www.amazon.es/dp/B074CVWP3B/?tag=tolees-21) a 52.3 EUR (original: 140 EUR) (62.64 %  de descuento) en el siguiente enlace!

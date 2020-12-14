@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BB4TWD9/?tag=tolees-21'
 descuento: '52.20'
+average: '186.43'
 ---
 
 Ahora mismo tienes [The North Face Gotham Chaqueta  Hombre  Verde  Four Leaf Clover   L](https://www.amazon.es/dp/B07BB4TWD9/?tag=tolees-21) a 186.43 EUR (original: 390 EUR) (52.20 %  de descuento) en el siguiente enlace!

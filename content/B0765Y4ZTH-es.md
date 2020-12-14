@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0765Y4ZTH/?tag=tolees-21'
 descuento: '43.63'
+average: '39.45'
 ---
 
 Está [JACK & JONES Jjiclark Jjoriginal Jos 317 Noos Vaqueros Straight  Azul  Blue Denim   W38/L34 para Hombre](https://www.amazon.es/dp/B0765Y4ZTH/?tag=tolees-21) con 43.63 de descuento por 39.45 EUR (original: 69.99 EUR) en el siguiente enlace!

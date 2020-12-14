@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F2J6JXD/?tag=tolees-21'
 descuento: '52.42'
+average: '14.27'
 ---
 
 Tienes [JACK & JONES Jorchris Shirt LS One Pocket  Camisa para Hombre  Rojo  Port Royale Fit:Slim/Solid  Small](https://www.amazon.es/dp/B07F2J6JXD/?tag=tolees-21) con un 52.42 % de descuento con precio de oferta de 14.27 EUR (original: 29.99 EUR) en el siguiente enlace!

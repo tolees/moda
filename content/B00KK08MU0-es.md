@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00KK08MU0/?tag=tolees-21'
 descuento: '81.63'
+average: '13.42'
 ---
 
 Ahora mismo tienes [James & Nicholson - Chaqueta de running para mujer  amarillo   Lemon/Iron Grey    Large](https://www.amazon.es/dp/B00KK08MU0/?tag=tolees-21) a 13.42 EUR (original: 73.07 EUR) (81.63 %  de descuento) en el siguiente enlace!

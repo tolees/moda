@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07RBCDQ7R/?tag=tolees-21'
 descuento: '99.92'
+average: '0.01'
 ---
 
 Ahora mismo tienes [AIni Mujer Verano De Playa Vestido De Lino De Verano Vestido Mujer Mujer Camiseta AlgodóN Casual Tallas Grandes Vestido De SeñOras Tallas Grandes Vestidos De Playa](https://www.amazon.es/dp/B07RBCDQ7R/?tag=tolees-21) a 0.01 EUR (original: 12.29 EUR) (99.92 %  de descuento) en el siguiente enlace!

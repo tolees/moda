@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01AC6PET8/?tag=tolees-21'
 descuento: '38.10'
+average: '13'
 ---
 
 Tienes [Nike Park VI Camiseta de Manga Corta para hombre  Verde  KiefernVerde/Blanco   M](https://www.amazon.es/dp/B01AC6PET8/?tag=tolees-21) con un 38.10 % de descuento con precio de oferta de 13 EUR (original: 21 EUR) en el siguiente enlace!

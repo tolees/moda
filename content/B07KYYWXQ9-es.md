@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KYYWXQ9/?tag=tolees-21'
 descuento: '54.10'
+average: '7.34'
 ---
 
 Está [Springfield 4.T.Daily.Ap.Pv19.Polo FK Blusa  Mujer  Beige  Crudo 96   One Size  Tamaño del Fabricante:XL ](https://www.amazon.es/dp/B07KYYWXQ9/?tag=tolees-21) con 54.10 de descuento por 7.34 EUR (original: 15.99 EUR) en el siguiente enlace!

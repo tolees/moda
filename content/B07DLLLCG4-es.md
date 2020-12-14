@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DLLLCG4/?tag=tolees-21'
 descuento: '65.62'
+average: '10.31'
 ---
 
 Ahora mismo tienes [Springfield 4.2.J.Ap.T.Criss Cross Jersey   Gama Azules 19   Small  Tamaño del Fabricante:S  para Mujer](https://www.amazon.es/dp/B07DLLLCG4/?tag=tolees-21) a 10.31 EUR (original: 29.99 EUR) (65.62 %  de descuento) en el siguiente enlace!

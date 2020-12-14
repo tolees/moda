@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078HFLJ3R/?tag=tolees-21'
 descuento: '53.42'
+average: '13.97'
 ---
 
 Tienes [Springfield 1753851 Vaqueros Slim  Gama Azules    Tamaño del Fabricante:36  para Hombre](https://www.amazon.es/dp/B078HFLJ3R/?tag=tolees-21) con un 53.42 % de descuento con precio de oferta de 13.97 EUR (original: 29.99 EUR) en el siguiente enlace!

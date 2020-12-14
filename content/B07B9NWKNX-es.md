@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07B9NWKNX/?tag=tolees-21'
 descuento: '49.72'
+average: '77.93'
 ---
 
 Está [Panama Jack Panama 03  Botines para Mujer  Verde  Kakhi B77   38 EU](https://www.amazon.es/dp/B07B9NWKNX/?tag=tolees-21) con 49.72 de descuento por 77.93 EUR (original: 155 EUR) en el siguiente enlace!

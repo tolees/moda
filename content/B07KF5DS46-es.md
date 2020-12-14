@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KF5DS46/?tag=tolees-21'
 descuento: '44.27'
+average: '33.99'
 ---
 
 Está [JOGVELO Maillot Ciclismo  Ropa Ciclismo Conjunto Hombre Jersey + Culotes Ciclismo Invierno Vellón Térmico Reflectante  M](https://www.amazon.es/dp/B07KF5DS46/?tag=tolees-21) con 44.27 de descuento por 33.99 EUR (original: 60.99 EUR) en el siguiente enlace!

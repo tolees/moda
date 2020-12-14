@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DPLMTVS/?tag=tolees-21'
 descuento: '58.90'
+average: '3'
 ---
 
 Está [oodji Ultra Mujer Camiseta de Algodón con Estampado y Borde Inferior No Elaborado  Rojo  ES 38 / S](https://www.amazon.es/dp/B07DPLMTVS/?tag=tolees-21) con 58.90 de descuento por 3 EUR (original: 7.3 EUR) en el siguiente enlace!

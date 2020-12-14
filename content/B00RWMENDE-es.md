@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00RWMENDE/?tag=tolees-21'
 descuento: '47.58'
+average: '62.9'
 ---
 
 Tienes [CAMPER Pelotas  Zapatos de Cordones Oxford para Mujer  Schwarz  Black   39 EU](https://www.amazon.es/dp/B00RWMENDE/?tag=tolees-21) con un 47.58 % de descuento con precio de oferta de 62.9 EUR (original: 120 EUR) en el siguiente enlace!

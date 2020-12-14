@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076X66HKF/?tag=tolees-21'
 descuento: '71.98'
+average: '27.99'
 ---
 
 Está [Geox U Keilan B  Zapatillas para Hombre  Gris  Stone   40 EU](https://www.amazon.es/dp/B076X66HKF/?tag=tolees-21) con 71.98 de descuento por 27.99 EUR (original: 99.9 EUR) en el siguiente enlace!

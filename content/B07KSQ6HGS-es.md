@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KSQ6HGS/?tag=tolees-21'
 descuento: '37.80'
+average: '55.97'
 ---
 
 Está [Columbia Mujer Chaqueta impermeable  Pouring Adventure II Jacket  Nailon  Azul  Atoll   Talla: L  1760071](https://www.amazon.es/dp/B07KSQ6HGS/?tag=tolees-21) con 37.80 de descuento por 55.97 EUR (original: 89.99 EUR) en el siguiente enlace!

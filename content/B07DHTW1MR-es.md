@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DHTW1MR/?tag=tolees-21'
 descuento: '61.75'
+average: '65.02'
 ---
 
 Ahora mismo tienes [DC Shoes Merchant Chaqueta  Hombre  Beige  Incense   XL](https://www.amazon.es/dp/B07DHTW1MR/?tag=tolees-21) a 65.02 EUR (original: 169.99 EUR) (61.75 %  de descuento) en el siguiente enlace!

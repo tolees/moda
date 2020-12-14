@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MJH9XGM/?tag=tolees-21'
 descuento: '53.05'
+average: '61.03'
 ---
 
 Está [Michael Kors Cambria Mule  Zapatos de Boda para Mujer  Negro  Black 001   40 EU  9 US ](https://www.amazon.es/dp/B07MJH9XGM/?tag=tolees-21) con 53.05 de descuento por 61.03 EUR (original: 130 EUR) en el siguiente enlace!

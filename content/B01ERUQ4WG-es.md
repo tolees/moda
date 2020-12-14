@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01ERUQ4WG/?tag=tolees-21'
 descuento: '68.54'
+average: '9.25'
 ---
 
 Ahora mismo tienes [New Look Stacey  Vestido para Mujer  Blanco ES 38  UK 10 ](https://www.amazon.es/dp/B01ERUQ4WG/?tag=tolees-21) a 9.25 EUR (original: 29.4 EUR) (68.54 %  de descuento) en el siguiente enlace!

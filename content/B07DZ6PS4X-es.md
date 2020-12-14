@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DZ6PS4X/?tag=tolees-21'
 descuento: '45.79'
+average: '75.89'
 ---
 
 Ahora mismo tienes [Columbia Lake 22 Hooded Jacket Chaqueta con Capucha  Mujer  Astral  Talla S](https://www.amazon.es/dp/B07DZ6PS4X/?tag=tolees-21) a 75.89 EUR (original: 139.99 EUR) (45.79 %  de descuento) en el siguiente enlace!

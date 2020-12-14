@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077TFQYKB/?tag=tolees-21'
 descuento: '65.06'
+average: '10.48'
 ---
 
 Ahora mismo tienes [Gocco S82JJECA402  Jersey para Niños   Azul  4 años](https://www.amazon.es/dp/B077TFQYKB/?tag=tolees-21) a 10.48 EUR (original: 29.99 EUR) (65.06 %  de descuento) en el siguiente enlace!

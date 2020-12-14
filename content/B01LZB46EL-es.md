@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01LZB46EL/?tag=tolees-21'
 descuento: '74.12'
+average: '10.35'
 ---
 
 Ahora mismo tienes [edc by Esprit 106cc1j007 Sudadera  Gris  Light Grey 5   36  Talla del Fabricante: Small  para Mujer](https://www.amazon.es/dp/B01LZB46EL/?tag=tolees-21) a 10.35 EUR (original: 39.99 EUR) (74.12 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GL6SQZV/?tag=tolees-21'
 descuento: '79.20'
+average: '41.61'
 ---
 
 Está [Levi s Martina Puffer Chaqueta  Azul  Medieval Blue 0004   Large para Mujer](https://www.amazon.es/dp/B07GL6SQZV/?tag=tolees-21) con 79.20 de descuento por 41.61 EUR (original: 200 EUR) en el siguiente enlace!

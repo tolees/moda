@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XFWJ2S6/?tag=tolees-21'
 descuento: '60.61'
+average: '121.31'
 ---
 
 Ahora mismo tienes [Gucci GG0064SK Gafas de sol  Black-Grey  55 para Hombre](https://www.amazon.es/dp/B06XFWJ2S6/?tag=tolees-21) a 121.31 EUR (original: 308 EUR) (60.61 %  de descuento) en el siguiente enlace!

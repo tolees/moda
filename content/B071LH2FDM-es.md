@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071LH2FDM/?tag=tolees-21'
 descuento: '34.46'
+average: '17.04'
 ---
 
 Está [Under Armour Team Issue Wordmark Camiseta de Manga Corta  Hombre  Blanco  100   L](https://www.amazon.es/dp/B071LH2FDM/?tag=tolees-21) con 34.46 de descuento por 17.04 EUR (original: 26 EUR) en el siguiente enlace!

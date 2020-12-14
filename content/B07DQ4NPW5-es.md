@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DQ4NPW5/?tag=tolees-21'
 descuento: '65.50'
+average: '12.04'
 ---
 
 Está [Urban Classics Ladies Oversize Turtleneck Sweater  Sudadera para Mujer  Azul  Brightblue 01434  Large](https://www.amazon.es/dp/B07DQ4NPW5/?tag=tolees-21) con 65.50 de descuento por 12.04 EUR (original: 34.9 EUR) en el siguiente enlace!

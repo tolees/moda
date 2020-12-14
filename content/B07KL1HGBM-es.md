@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KL1HGBM/?tag=tolees-21'
 descuento: '50.35'
+average: '29.79'
 ---
 
 Ahora mismo tienes [Naf Naf Kenr34d Vestido  Azul  Bleu Marine 567   Large para Mujer](https://www.amazon.es/dp/B07KL1HGBM/?tag=tolees-21) a 29.79 EUR (original: 60 EUR) (50.35 %  de descuento) en el siguiente enlace!

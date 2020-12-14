@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JY1ZF14/?tag=tolees-21'
 descuento: '79.62'
+average: '8.15'
 ---
 
 Está [ESPRIT Collection 998eo2f801 Camisa  Azul  Navy 400     Talla del Fabricante: 35-36  para Hombre](https://www.amazon.es/dp/B07JY1ZF14/?tag=tolees-21) con 79.62 de descuento por 8.15 EUR (original: 39.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00UV1RRGS/?tag=tolees-21'
 descuento: '72.14'
+average: '27.58'
 ---
 
 Está [REPLAY Anbass  Vaqueros Slim Hombre  Azul  Blue Denim 7   W38/L34  Talla del Fabricante: 38 ](https://www.amazon.es/dp/B00UV1RRGS/?tag=tolees-21) con 72.14 de descuento por 27.58 EUR (original: 99 EUR) en el siguiente enlace!

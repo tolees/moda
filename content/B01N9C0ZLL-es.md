@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N9C0ZLL/?tag=tolees-21'
 descuento: '72.11'
+average: '18.41'
 ---
 
 Está [Polaroid PLD 6018/S Z7 TN5 Gafas de sol  Azul Ruthen/Bluette SF Polar  55 Unisex Adulto](https://www.amazon.es/dp/B01N9C0ZLL/?tag=tolees-21) con 72.11 de descuento por 18.41 EUR (original: 66 EUR) en el siguiente enlace!

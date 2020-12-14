@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01FVZOF6I/?tag=tolees-21'
 descuento: '61.19'
+average: '7.82'
 ---
 
 Está [SURETTI Sport Gafas de Sol  Negro  One Size  SB de s5419](https://www.amazon.es/dp/B01FVZOF6I/?tag=tolees-21) con 61.19 de descuento por 7.82 EUR (original: 20.15 EUR) en el siguiente enlace!

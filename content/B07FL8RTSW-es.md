@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FL8RTSW/?tag=tolees-21'
 descuento: '61.35'
+average: '34.75'
 ---
 
 Tienes [Superdry Echo Beach Cagoule  Chaqueta Deportiva para Hombre   Verde 03o   Medium](https://www.amazon.es/dp/B07FL8RTSW/?tag=tolees-21) con un 61.35 % de descuento con precio de oferta de 34.75 EUR (original: 89.9 EUR) en el siguiente enlace!

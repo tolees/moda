@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HZDHS17/?tag=tolees-21'
 descuento: '61.55'
+average: '11.12'
 ---
 
 Tienes [Glamorous Print Dress  Vestido para Mujer   Brown Rib Animal BW Black  36  Talla del Fabricante: X-Small ](https://www.amazon.es/dp/B07HZDHS17/?tag=tolees-21) con un 61.55 % de descuento con precio de oferta de 11.12 EUR (original: 28.92 EUR) en el siguiente enlace!

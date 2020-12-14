@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07518SVGL/?tag=tolees-21'
 descuento: '63.26'
+average: '25.7'
 ---
 
 Tienes [Clarks Step Isle Lace  Zapatos de Cordones Derby para Hombre  Azul  Navy Canvas-   44.5 EU](https://www.amazon.es/dp/B07518SVGL/?tag=tolees-21) con un 63.26 % de descuento con precio de oferta de 25.7 EUR (original: 69.95 EUR) en el siguiente enlace!

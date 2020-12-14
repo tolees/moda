@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00SIS5SZI/?tag=tolees-21'
 descuento: '49.56'
+average: '19.67'
 ---
 
 Ahora mismo tienes [Diesel 0GAFN Bóxer  Hombre  3   Blue/Red   XX-Large  Tamaño del Fabricante:XXL ](https://www.amazon.es/dp/B00SIS5SZI/?tag=tolees-21) a 19.67 EUR (original: 39 EUR) (49.56 %  de descuento) en el siguiente enlace!

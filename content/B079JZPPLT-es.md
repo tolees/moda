@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079JZPPLT/?tag=tolees-21'
 descuento: '51.43'
+average: '120.95'
 ---
 
 Está [Napapijri  Alcan  Chaqueta para Hombre](https://www.amazon.es/dp/B079JZPPLT/?tag=tolees-21) con 51.43 de descuento por 120.95 EUR (original: 249 EUR) en el siguiente enlace!

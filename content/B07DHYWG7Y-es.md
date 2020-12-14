@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DHYWG7Y/?tag=tolees-21'
 descuento: '65.68'
+average: '34.29'
 ---
 
 Ahora mismo tienes [Geox U Kaven C  Zapatillas para Hombre  Negro  Black/Dk Grey C0005   45 EU](https://www.amazon.es/dp/B07DHYWG7Y/?tag=tolees-21) a 34.29 EUR (original: 99.9 EUR) (65.68 %  de descuento) en el siguiente enlace!

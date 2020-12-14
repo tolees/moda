@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06Y2YYSP5/?tag=tolees-21'
 descuento: '60.39'
+average: '9.09'
 ---
 
 Está [Joma Olimpia Camiseta  Hombre  Blanco  XS](https://www.amazon.es/dp/B06Y2YYSP5/?tag=tolees-21) con 60.39 de descuento por 9.09 EUR (original: 22.95 EUR) en el siguiente enlace!

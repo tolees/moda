@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01NCKU50B/?tag=tolees-21'
 descuento: '73.67'
+average: '6.58'
 ---
 
 Tienes [Vero Moda Vmlife SS Top Jrs  Camiseta sin Mangas Mujer  Azul  Plein Air   34  Talla del Fabricante: X-Small ](https://www.amazon.es/dp/B01NCKU50B/?tag=tolees-21) con un 73.67 % de descuento con precio de oferta de 6.58 EUR (original: 24.99 EUR) en el siguiente enlace!

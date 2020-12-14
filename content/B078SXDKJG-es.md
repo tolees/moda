@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078SXDKJG/?tag=tolees-21'
 descuento: '40.01'
+average: '53.99'
 ---
 
 Tienes [Timberland Milan Flavor Sneaker  Zapatos de Cordones Oxford para Mujer  Marrón  Simply Taupe L47   37.5 EU](https://www.amazon.es/dp/B078SXDKJG/?tag=tolees-21) con un 40.01 % de descuento con precio de oferta de 53.99 EUR (original: 90 EUR) en el siguiente enlace!

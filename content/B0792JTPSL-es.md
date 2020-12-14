@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0792JTPSL/?tag=tolees-21'
 descuento: '70.06'
+average: '19.46'
 ---
 
 Tienes [Geox J Thymar Girl F  Zapatos de Cordones Oxford para Niñas   Dk Silver C1009   28 EU](https://www.amazon.es/dp/B0792JTPSL/?tag=tolees-21) con un 70.06 % de descuento con precio de oferta de 19.46 EUR (original: 65 EUR) en el siguiente enlace!

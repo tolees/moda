@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077XFYT5F/?tag=tolees-21'
 descuento: '46.19'
+average: '21.52'
 ---
 
 Está [Only & Sons Onswarp Black Damage PK 9884  Vaqueros Skinny Hombre  Negro  Black Denim Denim   W30/L34  Talla del Fabricante: 30 ](https://www.amazon.es/dp/B077XFYT5F/?tag=tolees-21) con 46.19 de descuento por 21.52 EUR (original: 39.99 EUR) en el siguiente enlace!

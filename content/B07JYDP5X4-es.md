@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JYDP5X4/?tag=tolees-21'
 descuento: '48.24'
+average: '11.9'
 ---
 
 Está [JACK & JONES Jormetallica tee SS Crew Neck  Camiseta para Hombre  Gris  Tap Shoe Box Fit   X-Large](https://www.amazon.es/dp/B07JYDP5X4/?tag=tolees-21) con 48.24 de descuento por 11.9 EUR (original: 22.99 EUR) en el siguiente enlace!

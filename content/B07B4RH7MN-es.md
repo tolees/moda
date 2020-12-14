@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07B4RH7MN/?tag=tolees-21'
 descuento: '51.84'
+average: '12.67'
 ---
 
 Tienes [Reef Rover  Chanclas para Hombre  Negro  All Black ALB   S](https://www.amazon.es/dp/B07B4RH7MN/?tag=tolees-21) con un 51.84 % de descuento con precio de oferta de 12.67 EUR (original: 26.31 EUR) en el siguiente enlace!

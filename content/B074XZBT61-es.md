@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074XZBT61/?tag=tolees-21'
 descuento: '81.39'
+average: '8.56'
 ---
 
 Tienes [ESPRIT Collection 107eo1k013  Camisa Manga Larga para Mujer  Negro  Black 001  Large](https://www.amazon.es/dp/B074XZBT61/?tag=tolees-21) con un 81.39 % de descuento con precio de oferta de 8.56 EUR (original: 45.99 EUR) en el siguiente enlace!

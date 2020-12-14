@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DK57F1R/?tag=tolees-21'
 descuento: '54.09'
+average: '27.5'
 ---
 
 Ahora mismo tienes [Geox J SPACECLUB Girl C  Zapatillas para Niñas   Rose/Lt Pink C8373   33 EU](https://www.amazon.es/dp/B07DK57F1R/?tag=tolees-21) a 27.5 EUR (original: 59.9 EUR) (54.09 %  de descuento) en el siguiente enlace!

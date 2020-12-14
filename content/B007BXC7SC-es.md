@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B007BXC7SC/?tag=tolees-21'
 descuento: '35.27'
+average: '23.95'
 ---
 
 Ahora mismo tienes [Levi s  2 Pack Crew - Camiseta para Hombre  Negro  Black/Black   XXL](https://www.amazon.es/dp/B007BXC7SC/?tag=tolees-21) a 23.95 EUR (original: 37 EUR) (35.27 %  de descuento) en el siguiente enlace!

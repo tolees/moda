@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FJXSZWG/?tag=tolees-21'
 descuento: '72.37'
+average: '19.34'
 ---
 
 Está [Only Onltina Blocked Faux Fur Zip Jacket Otw Chaqueta   Green Gables Detail:W. Pure Cashmere   40  Talla del Fabricante: Medium  para Mujer](https://www.amazon.es/dp/B07FJXSZWG/?tag=tolees-21) con 72.37 de descuento por 19.34 EUR (original: 69.99 EUR) en el siguiente enlace!

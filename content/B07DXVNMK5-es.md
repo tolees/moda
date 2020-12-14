@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DXVNMK5/?tag=tolees-21'
 descuento: '48.54'
+average: '14.41'
 ---
 
 Tienes [Under Armour Mfo Holiday - Camiseta de Manga Corta para Hombre  Hombre  1317529-001  Negro/Gris  Medium](https://www.amazon.es/dp/B07DXVNMK5/?tag=tolees-21) con un 48.54 % de descuento con precio de oferta de 14.41 EUR (original: 28 EUR) en el siguiente enlace!

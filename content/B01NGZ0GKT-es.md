@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01NGZ0GKT/?tag=tolees-21'
 descuento: '56.17'
+average: '52.16'
 ---
 
 Está [REPLAY Anbass Pantalones Vaqueros Delgados  Azul  Medium Blue Denim 007   W34/L34 para Hombre](https://www.amazon.es/dp/B01NGZ0GKT/?tag=tolees-21) con 56.17 de descuento por 52.16 EUR (original: 119 EUR) en el siguiente enlace!

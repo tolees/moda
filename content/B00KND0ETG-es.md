@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00KND0ETG/?tag=tolees-21'
 descuento: '57.44'
+average: '29.79'
 ---
 
 Tienes [Nike Ebernon Low Prem Zapatos de Baloncesto Hombre  Multicolor  Neutral Olive/Cargo Khaki/White 200   45.5 EU](https://www.amazon.es/dp/B00KND0ETG/?tag=tolees-21) con un 57.44 % de descuento con precio de oferta de 29.79 EUR (original: 70 EUR) en el siguiente enlace!

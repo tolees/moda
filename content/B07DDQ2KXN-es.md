@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DDQ2KXN/?tag=tolees-21'
 descuento: '25.56'
+average: '14.85'
 ---
 
 Tienes [Puma Popcat  Zapatos de Playa y Piscina Unisex Adulto  Verde  Ponderosa Pine White 44   40.5 EU](https://www.amazon.es/dp/B07DDQ2KXN/?tag=tolees-21) con un 25.56 % de descuento con precio de oferta de 14.85 EUR (original: 19.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0725QKXXS/?tag=tolees-21'
 descuento: '35.53'
+average: '48.99'
 ---
 
 Ahora mismo tienes [Ever-Pretty Vestido de Fiesta Manga Elegantes Coctel Fiesta Noche para Mujer 50 Azul Marino](https://www.amazon.es/dp/B0725QKXXS/?tag=tolees-21) a 48.99 EUR (original: 75.99 EUR) (35.53 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071DXDJ2S/?tag=tolees-21'
 descuento: '53.98'
+average: '50.62'
 ---
 
 Está [Levi s 510 Skinny Fit  Vaqueros para Hombre  Azul  Madison Square 0701   36W / 34L](https://www.amazon.es/dp/B071DXDJ2S/?tag=tolees-21) con 53.98 de descuento por 50.62 EUR (original: 110 EUR) en el siguiente enlace!

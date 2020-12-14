@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JZVQ18X/?tag=tolees-21'
 descuento: '60.31'
+average: '5.95'
 ---
 
 Está [JACK & JONES Jorgiant tee SS Crew Neck Camiseta  Azul  Total Eclipse Fit: Slim   Large para Hombre](https://www.amazon.es/dp/B07JZVQ18X/?tag=tolees-21) con 60.31 de descuento por 5.95 EUR (original: 14.99 EUR) en el siguiente enlace!

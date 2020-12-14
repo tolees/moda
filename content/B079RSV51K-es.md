@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079RSV51K/?tag=tolees-21'
 descuento: '63.46'
+average: '12.79'
 ---
 
 Está [Pepe Jeans JIN JR PG501964  Camiseta para Niñas  Blanco  Off White 803  16 años](https://www.amazon.es/dp/B079RSV51K/?tag=tolees-21) con 63.46 de descuento por 12.79 EUR (original: 35 EUR) en el siguiente enlace!

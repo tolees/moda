@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071H5B9JR/?tag=tolees-21'
 descuento: '50.06'
+average: '29.96'
 ---
 
 Está [SELECTED HOMME Shdonevictor Shirt LS Noos Camisa  Blanco  Bright White   Large para Hombre](https://www.amazon.es/dp/B071H5B9JR/?tag=tolees-21) con 50.06 de descuento por 29.96 EUR (original: 59.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07L9QDLKH/?tag=tolees-21'
 descuento: '67.50'
+average: '16.25'
 ---
 
 Está [Naf Naf KENR136AD Vestido  Azul  Bleu Marine 567   34 ES ES para Mujer](https://www.amazon.es/dp/B07L9QDLKH/?tag=tolees-21) con 67.50 de descuento por 16.25 EUR (original: 50 EUR) en el siguiente enlace!

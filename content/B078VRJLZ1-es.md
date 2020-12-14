@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078VRJLZ1/?tag=tolees-21'
 descuento: '73.01'
+average: '20.24'
 ---
 
 Está [Volcom Threezy Sudadera con Cremallera  Hombre  Azul  Oscuro/Claro   S](https://www.amazon.es/dp/B078VRJLZ1/?tag=tolees-21) con 73.01 de descuento por 20.24 EUR (original: 75 EUR) en el siguiente enlace!

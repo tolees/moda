@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0781XWNRG/?tag=tolees-21'
 descuento: '70.85'
+average: '7.58'
 ---
 
 Está [Under Armour - Pantalón Corto para niña  niña  1291712-501  Purple/Green Malachite/Typhoon  Junior L](https://www.amazon.es/dp/B0781XWNRG/?tag=tolees-21) con 70.85 de descuento por 7.58 EUR (original: 26 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HB66V8Q/?tag=tolees-21'
 descuento: '68.89'
+average: '21.76'
 ---
 
 Tienes [Tamaris - Mirela Handbag  Bolso Mujer  Beige  Pepper   13x22x27 cm  W x H L ](https://www.amazon.es/dp/B07HB66V8Q/?tag=tolees-21) con un 68.89 % de descuento con precio de oferta de 21.76 EUR (original: 69.95 EUR) en el siguiente enlace!

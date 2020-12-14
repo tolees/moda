@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01BGR4RI6/?tag=tolees-21'
 descuento: '35.75'
+average: '70.03'
 ---
 
 Ahora mismo tienes [Carrera 5029NS 9A RFE Gafas de sol  Marrón  Light Havana/Blue   49 Unisex-Adulto](https://www.amazon.es/dp/B01BGR4RI6/?tag=tolees-21) a 70.03 EUR (original: 109 EUR) (35.75 %  de descuento) en el siguiente enlace!

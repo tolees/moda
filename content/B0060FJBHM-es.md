@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0060FJBHM/?tag=tolees-21'
 descuento: '40.41'
+average: '22.05'
 ---
 
 Tienes [Levi s  2 Pack Crew - Camiseta para Hombre  Blanco  White   M](https://www.amazon.es/dp/B0060FJBHM/?tag=tolees-21) con un 40.41 % de descuento con precio de oferta de 22.05 EUR (original: 37 EUR) en el siguiente enlace!

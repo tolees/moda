@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01GLFBEG6/?tag=tolees-21'
 descuento: '80.89'
+average: '28.48'
 ---
 
 Está [Carrera Junior CARRERINO 16 JI D28  Gafas de sol Unisex-Niño  Negro  Shiny Black/Grey Silver Fl  49](https://www.amazon.es/dp/B01GLFBEG6/?tag=tolees-21) con 80.89 de descuento por 28.48 EUR (original: 149 EUR) en el siguiente enlace!

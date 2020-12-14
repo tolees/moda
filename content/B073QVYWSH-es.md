@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073QVYWSH/?tag=tolees-21'
 descuento: '50.03'
+average: '49.95'
 ---
 
 Está [Clarks Gilman Lace  Zapatos de Cordones Derby para Hombre  Negro  Black Leather-   40 EU](https://www.amazon.es/dp/B073QVYWSH/?tag=tolees-21) con 50.03 de descuento por 49.95 EUR (original: 99.95 EUR) en el siguiente enlace!

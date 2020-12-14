@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MDM930F/?tag=tolees-21'
 descuento: '33.37'
+average: '27.95'
 ---
 
 Está [BOSS T-Shirt VN 3P CO  Camiseta para Hombre  Negro  Black 1  Small Pack de 3](https://www.amazon.es/dp/B01MDM930F/?tag=tolees-21) con 33.37 de descuento por 27.95 EUR (original: 41.95 EUR) en el siguiente enlace!

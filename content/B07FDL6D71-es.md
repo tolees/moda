@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FDL6D71/?tag=tolees-21'
 descuento: '38.18'
+average: '15.45'
 ---
 
 Tienes [Superdry Orange Label Vntge Emb S/S tee Camiseta de Tirantes  Azul  Eclipse Navy 98T   Small para Hombre](https://www.amazon.es/dp/B07FDL6D71/?tag=tolees-21) con un 38.18 % de descuento con precio de oferta de 15.45 EUR (original: 24.99 EUR) en el siguiente enlace!

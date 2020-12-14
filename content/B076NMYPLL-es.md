@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076NMYPLL/?tag=tolees-21'
 descuento: '73.28'
+average: '26.71'
 ---
 
 Está [Lee Scarlett Vaqueros Skinny  Azul  Strummer Worn Kian   27W / 33L para Mujer](https://www.amazon.es/dp/B076NMYPLL/?tag=tolees-21) con 73.28 de descuento por 26.71 EUR (original: 99.95 EUR) en el siguiente enlace!

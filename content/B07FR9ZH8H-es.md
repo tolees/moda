@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FR9ZH8H/?tag=tolees-21'
 descuento: '52.82'
+average: '47.16'
 ---
 
 Tienes [Clarks Dalia Rose  Zapatos de Tacón para Mujer  Gris  Grey/Blue-   36 EU](https://www.amazon.es/dp/B07FR9ZH8H/?tag=tolees-21) con un 52.82 % de descuento con precio de oferta de 47.16 EUR (original: 99.95 EUR) en el siguiente enlace!

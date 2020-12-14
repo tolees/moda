@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CJFX5LQ/?tag=tolees-21'
 descuento: '82.25'
+average: '24.67'
 ---
 
 Tienes [REPLAY Hombre Grover Vaqueros Straight Not Applicable  Azul  Dark Blue 7   W29/L34  Talla del Fabricante: 29 ](https://www.amazon.es/dp/B07CJFX5LQ/?tag=tolees-21) con un 82.25 % de descuento con precio de oferta de 24.67 EUR (original: 139 EUR) en el siguiente enlace!

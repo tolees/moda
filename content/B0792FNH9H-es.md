@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0792FNH9H/?tag=tolees-21'
 descuento: '69.15'
+average: '40.07'
 ---
 
 Tienes [Geox Donna Brogue B  Zapatos de Cordones Derby para Mujer   Brown C0013   40 EU](https://www.amazon.es/dp/B0792FNH9H/?tag=tolees-21) con un 69.15 % de descuento con precio de oferta de 40.07 EUR (original: 129.9 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FQDQQB1/?tag=tolees-21'
 descuento: '46.42'
+average: '230.39'
 ---
 
 Ahora mismo tienes [The North Face McMurdo - Chaqueta Impermeable con relleno de plumón de ganso para Hombre  Marrón  Bracken Brown   M](https://www.amazon.es/dp/B07FQDQQB1/?tag=tolees-21) a 230.39 EUR (original: 430 EUR) (46.42 %  de descuento) en el siguiente enlace!

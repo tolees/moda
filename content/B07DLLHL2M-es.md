@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DLLHL2M/?tag=tolees-21'
 descuento: '59.47'
+average: '10.94'
 ---
 
 Tienes [Springfield 4.Fq.Camisa Cuadros Lace Blusa   Gama Azules 19    Tamaño del Fabricante:34  para Mujer](https://www.amazon.es/dp/B07DLLHL2M/?tag=tolees-21) con un 59.47 % de descuento con precio de oferta de 10.94 EUR (original: 26.99 EUR) en el siguiente enlace!
