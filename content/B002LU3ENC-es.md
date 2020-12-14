@@ -25,9 +25,9 @@ Ahora mismo tienes [Lacoste L1212 Camiseta Polo  Rojo  Bordeaux   S para Hombre]
 
 🔎:
 
-- Cuello y bordes de las mangas acanalados
+- Cocodrilo bordado en el pecho
 - Bajo recto con aberturas laterales
 - Botones de nácar
-- Cocodrilo bordado en el pecho
+- Cuello y bordes de las mangas acanalados
 
 [Visítala!!!](https://www.amazon.es/dp/B002LU3ENC/?tag=tolees-21)

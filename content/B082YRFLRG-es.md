@@ -25,7 +25,7 @@ Está [Superdry Chinook Parka  Black  L para Hombre](https://www.amazon.es/dp/B0
 
 ℹ️:
 
-- Las prendas de Superdry son fabricadas con un adecuado balance entre estilo y confort; recomendamos una talla superior a la que emplea habitualmente para una auténtica experiencia Superdry
 - Casual y vintage
+- Las prendas de Superdry son fabricadas con un adecuado balance entre estilo y confort; recomendamos una talla superior a la que emplea habitualmente para una auténtica experiencia Superdry
 
 [Ver la oferta!!](https://www.amazon.es/dp/B082YRFLRG/?tag=tolees-21)
