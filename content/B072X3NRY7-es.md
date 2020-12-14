@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Columbia Pike Lake Chaqueta con Capucha  al 30.03 % de descuento'
-date: 2020-11-09 11:10:58
+date: 2020-12-13 22:35:01
 image: 'https://m.media-amazon.com/images/I/4116XCO6vCL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -24,5 +24,10 @@ Está [Columbia Pike Lake Chaqueta con Capucha  Hombre  Negro  XL](https://www.a
 
 ℹ️:
 
+- Los bolsillos con cremallera te dan versatilidad Mantén tus manos calientes cuando lo necesites o guarda tu teléfono y otros accesorios sin temor a que se caigan
+- El forro termorreflectante para mantener la temperatura interior sin sobrecalentamiento
+- Chaqueta de invierno para hombre con capucha, optimo para pasear tranquilamente por la ciudad o descubrir nuevas rutas de senderismo
+- Tejido resistente al agua que te protege de los chubascos y la niebla
+- Contenido: 1x Columbia Pike Lake Chaqueta con capucha para hombre, Exterior: Storm-Lite DP II 100% poliéster; Forro: Omni-Heat Reflective Microtex Light 100% poliéster; Aislamiento: Thermarator 100% poliéster, Color: Negro, Talla: XL, Art.No. 1738032
 
 [Ver la oferta!!](https://www.amazon.es/dp/B072X3NRY7/?tag=tolees-21)
