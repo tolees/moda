@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lee Clean Western Shirt Camisa Casual  R al 59.15 % de descuento'
-date: 2020-12-13 04:51:27
+date: 2020-12-14 04:54:17
 image: 'https://m.media-amazon.com/images/I/41NgjiZljRL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -24,8 +24,8 @@ Ahora mismo tienes [Lee Clean Western Shirt Camisa Casual  Rojo  Poppy Red NH   
 
 🔎:
 
+- Producto de corte ajustado
 - Presenta botones de presión de nácar
 - El logo de Lee se agrega en un parche bordado en el bolsillo izquierdo del pecho
-- Producto de corte ajustado
 
 [Visítala!!!](https://www.amazon.es/dp/B07VPXK6C7/?tag=tolees-21)

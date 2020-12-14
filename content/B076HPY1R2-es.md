@@ -25,8 +25,8 @@ Está [adidas CORE18 TR Top Sudadera  Hombre  Bold Blue/White  2XL](https://www.
 ℹ️:
 
 - Sudadera con cremallera hasta el pecho
-- Cuenta con dobladillo con cordón ajustable
-- Tiene puños elásticos
 - El cuello es alzado
+- Tiene puños elásticos
+- Cuenta con dobladillo con cordón ajustable
 
 [Ver la oferta!!](https://www.amazon.es/dp/B076HPY1R2/?tag=tolees-21)
