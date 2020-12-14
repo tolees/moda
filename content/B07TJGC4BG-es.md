@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s HR Decon Iconic BF Skirt Falda  B al 56.94 % de descuento'
-date: 2020-12-01 08:04:44
+date: 2020-12-14 08:13:47
 image: 'https://m.media-amazon.com/images/I/411mrNQQC9L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -22,7 +22,8 @@ Ahora mismo tienes [Levi s HR Decon Iconic BF Skirt Falda  Blue  High Plains 001
 
 [![Levi s HR Decon Iconic BF Skirt Falda  B](https://m.media-amazon.com/images/I/411mrNQQC9L._SL200_.jpg)](https://www.amazon.es/dp/B07TJGC4BG/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
+- Falda Hr decon iconic BF.
 
 [Visítala!!!](https://www.amazon.es/dp/B07TJGC4BG/?tag=tolees-21)
