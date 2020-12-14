@@ -24,8 +24,8 @@ Ahora mismo tienes [YSABEL MORA Camiseta TÉRMICA  VISÓN  M ](https://www.amazo
 
 🔎:
 
+- TERMICA
 - CUELLO REDONDO
 - AFELPADO INTERIOR
-- TERMICA
 
 [Visítala!!!](https://www.amazon.es/dp/B076KLRW7S/?tag=tolees-21)
