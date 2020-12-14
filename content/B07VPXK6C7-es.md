@@ -24,8 +24,8 @@ Ahora mismo tienes [Lee Clean Western Shirt Camisa Casual  Rojo  Poppy Red NH   
 
 🔎:
 
+- Presenta botones de presión de nácar
 - El logo de Lee se agrega en un parche bordado en el bolsillo izquierdo del pecho
 - Producto de corte ajustado
-- Presenta botones de presión de nácar
 
 [Visítala!!!](https://www.amazon.es/dp/B07VPXK6C7/?tag=tolees-21)
