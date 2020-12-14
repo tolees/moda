@@ -25,7 +25,7 @@ Está [adidas TIRO19 PRE JKT Chaqueta de Deporte  Hombre  Power Red/Collegiate B
 ℹ️:
 
 - Front pockets
-- Regular fit
 - Full zip
+- Regular fit
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07KDFJTJM/?tag=tolees-21)
