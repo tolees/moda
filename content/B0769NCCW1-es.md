@@ -24,9 +24,9 @@ Ahora mismo tienes [Only Onlgemma Faux Leather Biker Otw Noos Chaqueta  Negro  B
 
 🔎:
 
-- Color: negro
-- Designer: ONLY
 - Artículo: 15153079 GEMMA
+- Color: negro
 - Estación: SIEMPRE DISPONIBLE
+- Designer: ONLY
 
 [Visítala!!!](https://www.amazon.es/dp/B0769NCCW1/?tag=tolees-21)
