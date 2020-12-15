@@ -25,9 +25,9 @@ Está [Levi s Type 3 Sherpa Trucker  Chaqueta para Hombre  Azul  Rockridge Truck
 
 ℹ️:
 
-- Forro de las mangas: 100% poliamida
 - La chaqueta tipo 3 Sherpa Trucker es una buena figura en los viajes de compra: clásico en este modelo de 84% algodón son la parte frontal típica de 2 bolsillos, las costuras decorativas dobles y las legendarias botones de camión
-- Trucker tipo 3 Sherpa
 - Parte frontal típica de 2 bolsillos
+- Forro de las mangas: 100% poliamida
+- Trucker tipo 3 Sherpa
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07DVM3SJB/?tag=tolees-21)

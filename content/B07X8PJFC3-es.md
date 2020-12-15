@@ -25,10 +25,10 @@ Tienes [PUMA Teamgoal Rain Jacket Core Chaqueta Impermeable  Hombre  Black White
 
 ℹ️:
 
-- 100 % poliéster
-- Logotipo del felino PUMA en la parte izquierda del pecho
-- 0
 - Cuello alzado
+- 100 % poliéster
+- 0
 - Cremallera completa
+- Logotipo del felino PUMA en la parte izquierda del pecho
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07X8PJFC3/?tag=tolees-21)
