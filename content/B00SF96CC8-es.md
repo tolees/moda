@@ -26,7 +26,7 @@ Ahora mismo tienes [G-STAR RAW Revend Skinny Vaqueros  Light Aged Destroy 6132-1
 🔎:
 
 - G-Star Gris Revend Superstretch Skinny Jeans
-- A estrenar y genuina. Somos un vendedor autorizado de G-Star.
 - Ver descripción del producto para obtener más información.
+- A estrenar y genuina. Somos un vendedor autorizado de G-Star.
 
 [Visítala!!!](https://www.amazon.es/dp/B00SF96CC8/?tag=tolees-21)
