@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones Jjeholmen Sweat Zip Hood No al 36.68 % de descuento'
-date: 2020-12-14 04:51:56
+date: 2020-12-15 05:25:07
 image: 'https://m.media-amazon.com/images/I/31SMoSnn2sL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07B655RRQ/?tag=tolees-21'
 descuento: '36.68'
+average: '21.113999999999997'
 ---
 
 Ahora mismo tienes [Jack & Jones Jjeholmen Sweat Zip Hood Noos Sudadera  Azul  Navy Blazer   X-Large para Hombre](https://www.amazon.es/dp/B07B655RRQ/?tag=tolees-21) a 18.99 EUR (original: 29.99 EUR) (36.68 %  de descuento) en el siguiente enlace!
