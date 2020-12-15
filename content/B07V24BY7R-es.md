@@ -25,9 +25,9 @@ Ahora mismo tienes [LOL Surprise Heats Bolso Maletín Cartera Extraescolares Ni�
 
 🔎:
 
-- Cartera extraescolares con un único compartimento
 - Cuenta con un asa corta y una larga para colgar tipo bandolera
-- Producto con licencia oficial
 - Medidas: 38cm x 28cm x 6cm
+- Cartera extraescolares con un único compartimento
+- Producto con licencia oficial
 
 [Visítala!!!](https://www.amazon.es/dp/B07V24BY7R/?tag=tolees-21)
