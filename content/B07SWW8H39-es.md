@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 40.03 % en Vero Moda Vmava Plain SS Top Ga Noos Cam'
-date: 2020-12-13 22:54:53
+date: 2020-12-15 00:05:44
 image: 'https://m.media-amazon.com/images/I/41JXeC20Z4L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07SWW8H39/?tag=tolees-21'
 descuento: '40.03'
+average: '8.99'
 ---
 
 Tienes [Vero Moda Vmava Plain SS Top Ga Noos Camiseta  Marrón  Coffee Bean Coffee Bean   38  Talla del Fabricante: Small  para Mujer](https://www.amazon.es/dp/B07SWW8H39/?tag=tolees-21) con un 40.03 % de descuento con precio de oferta de 8.99 EUR (original: 14.99 EUR) en el siguiente enlace!
