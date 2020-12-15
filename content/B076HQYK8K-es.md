@@ -25,9 +25,9 @@ Tienes [Adidas Regista 18 Track Top Chaqueta Deportiva  Hombre  Rojo  Power Red/
 
 ℹ️:
 
-- Cierre de cremallera
 - Diseño ligero.
-- La tecnología Climalite expulsa el sudor de la piel.
 - Cintura elástica con cordón.
+- La tecnología Climalite expulsa el sudor de la piel.
+- Cierre de cremallera
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B076HQYK8K/?tag=tolees-21)
