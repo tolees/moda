@@ -25,8 +25,8 @@ Está [TOUS 995890571  Bolso bandolera para Mujer  Blanco  Blanco   20x13x6 cm  
 
 ℹ️:
 
+- Certificado autenticidad tous
 - Bandolera s; hold blanco (bolso)
 - Sin asa, correa ajustable no desmontable
-- Certificado autenticidad tous
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07NDN5JN1/?tag=tolees-21)

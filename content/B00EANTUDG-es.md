@@ -25,8 +25,8 @@ Tienes [Pepe Jeans Eggo PM500465 Camiseta  Blanco  White 800   Large para Hombre
 
 ℹ️:
 
-- Fabricada en tejido suave
 - Logo estampado en el pecho
+- Fabricada en tejido suave
 - Manga corta
 - Camiseta básica para hombre
 
