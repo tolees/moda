@@ -25,11 +25,11 @@ Tienes [Timberland Bradstreet Plain Toe Sensorflex  Zapatos de Cordones Oxford H
 
 ℹ️:
 
-- Tipo de tacón: sin tacón.
 - Forro: tela.
+- Cierre: cordón.
+- Tipo de tacón: sin tacón.
+- Ancho del zapato: normal.
 - Material de la suela: goma.
 - Material exterior: piel.
-- Cierre: cordón.
-- Ancho del zapato: normal.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07SZ8XBCR/?tag=tolees-21)
