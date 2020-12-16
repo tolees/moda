@@ -25,8 +25,8 @@ Tienes [Levi s Original Trucker Chaqueta vaquera  Blue  All Yours 0026   XX-Smal
 
 ℹ️:
 
+- Bolsillos de parche en el pecho con solapa y corchete
 - Un básico versátil para completar cualquier conjunto
 - Trabillas ajustables en la parte posterior de la cinturilla
-- Bolsillos de parche en el pecho con solapa y corchete
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07PGPLP83/?tag=tolees-21)
