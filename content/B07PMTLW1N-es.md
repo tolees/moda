@@ -25,10 +25,10 @@ Ahora mismo tienes [Under Armour Challenger III Training Top Camisa Manga Corta 
 
 🔎:
 
-- Elegante y funcional – Esta funcional camiseta de deporte para hombres es muy elegante gracias al cuello con logotipo y a las mangas raglán.
-- Absorbe el sudor – Esta ligera camiseta de entrenamiento absorbe el sudor y se seca muy rápido, por lo que se mantendrá fresca todo el día.
-- Tecnología antiolor – Esta camiseta ajustada cuenta con la tecnología antiolor, que evita la proliferación de microbios y malos olores.
 - Material y forma – Camiseta de manga corta para hombre Under Armour Challenger III Training Top, material – 100% de poliéster, forma – ajustada
+- Tecnología antiolor – Esta camiseta ajustada cuenta con la tecnología antiolor, que evita la proliferación de microbios y malos olores.
+- Elegante y funcional – Esta funcional camiseta de deporte para hombres es muy elegante gracias al cuello con logotipo y a las mangas raglán.
 - Tejido novedoso – Esta camiseta de hombre está hecha con el tejido UA Tech, que es muy suave, más natural al tacto y se seca rápidamente
+- Absorbe el sudor – Esta ligera camiseta de entrenamiento absorbe el sudor y se seca muy rápido, por lo que se mantendrá fresca todo el día.
 
 [Visítala!!!](https://www.amazon.es/dp/B07PMTLW1N/?tag=tolees-21)

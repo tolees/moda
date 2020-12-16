@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Type 3 Chaqueta Vaquera  Berk She al 33.85 % de descuento'
-date: 2020-12-15 17:42:59
+date: 2020-12-16 18:25:49
 image: 'https://m.media-amazon.com/images/I/41hAv9E8DNL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,8 +25,8 @@ Ahora mismo tienes [Levi s Type 3 Chaqueta Vaquera  Berk Sherpa Trucker  L para 
 
 🔎:
 
-- Bajo ajustable en el lateral
 - Bolsillos de parche en el pecho con solapa y cierre de botón automático
+- Bajo ajustable en el lateral
 - Manga larga con cierre de botón en los puños
 
 [Visítala!!!](https://www.amazon.es/dp/B07KF4TFMZ/?tag=tolees-21)
