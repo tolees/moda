@@ -25,11 +25,11 @@ Tienes [Element Cornell Classic - Sudadera para Hombre  S  Negro  Flint Black ](
 
 ℹ️:
 
-- Logo del árbol en contraste bordado en el pecho
-- Tipo de deporte: Deportes acuáticos
 - Cepillado para mayor suavidad
-- Corte: corte normal
-- Cuello redondo
 - Tela: Tejido de mezcla de poliéster y algodón [260 g/m2]
+- Tipo de deporte: Deportes acuáticos
+- Corte: corte normal
+- Logo del árbol en contraste bordado en el pecho
+- Cuello redondo
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B078RX2ZR4/?tag=tolees-21)

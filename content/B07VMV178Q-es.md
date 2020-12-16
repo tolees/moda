@@ -25,8 +25,8 @@ Ahora mismo tienes [Lee Malone Vaqueros  Washed Black OW  29W / 32L para Hombre]
 
 🔎:
 
-- Tienen un parche de piel en la parte trasera con la marca Lee
 - Presentan 5 bolsillos
 - Vaqueros para hombre
+- Tienen un parche de piel en la parte trasera con la marca Lee
 
 [Visítala!!!](https://www.amazon.es/dp/B07VMV178Q/?tag=tolees-21)
