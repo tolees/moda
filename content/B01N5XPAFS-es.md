@@ -25,8 +25,8 @@ Tienes [Tommy Hilfiger 3p Trunk Bóxer  Multicolor  Multi/Peacoat 904   X-Large 
 
 ℹ️:
 
-- Cintura con la inscripción de Tommy Hilfiger
 - Cinta distintiva en la cintura
+- Cintura con la inscripción de Tommy Hilfiger
 - Producto con diseño clásico y estilo para todos los días
 - Ajuste cómodo y adecuado
 

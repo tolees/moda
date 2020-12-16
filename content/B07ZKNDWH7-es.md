@@ -25,10 +25,10 @@ Ahora mismo tienes [ranrann Vestido de Danza Ballet Manga Larga para Niña Maill
 
 🔎:
 
+- Falda tutú de tul con gradas de 4 capas atada a la cintura. Tejidos suaves y elásticos, cómodos de llevar.
+- Tabla de tallas significa rangos de edad para las niñas, pero son solo para orientación general.El vestido de leotardo está hecho de poliéster, spandex y tul, lavado a mano.
+- Vestido de danza beile leotado body de ballet falda tutu para niña
 - Manga larga, escote redondo. Dos botones de cierre en la entrepierna, fáciles de poner y quitar.
 - Adecuado para clase de baile, ejercicio gimnástico, actuación escénica, etc.
-- Falda tutú de tul con gradas de 4 capas atada a la cintura. Tejidos suaves y elásticos, cómodos de llevar.
-- Vestido de danza beile leotado body de ballet falda tutu para niña
-- Tabla de tallas significa rangos de edad para las niñas, pero son solo para orientación general.El vestido de leotardo está hecho de poliéster, spandex y tul, lavado a mano.
 
 [Visítala!!!](https://www.amazon.es/dp/B07ZKNDWH7/?tag=tolees-21)
