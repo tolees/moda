@@ -25,7 +25,7 @@ Tienes [Only Onlsedona Boucle Wool Coat Otw Noos Abrigo  Gris  Light Grey Melang
 
 ℹ️:
 
-- Hood
 - Boucle Wool Coat
+- Hood
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07DFN8ZRF/?tag=tolees-21)
