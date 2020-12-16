@@ -26,8 +26,8 @@ Está [Chaqueta de béisbol para niños y niñas  con impresión en inglés: Lon
 ℹ️:
 
 - 2 bolsillos delanteros y puños con cierre de cremallera de calidad con rayas acanaladas.
-- Regalo perfecto para enviar a amigos y familiares en el extranjero.
 - El último logotipo de Londres en la parte delantera de la bandera de Union Jack en la manga.
 - 100 % de calidad, cómodo forro polar garantizado.
+- Regalo perfecto para enviar a amigos y familiares en el extranjero.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B0099OVL4C/?tag=tolees-21)
