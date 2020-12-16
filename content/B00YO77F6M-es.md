@@ -25,10 +25,10 @@ Ahora mismo tienes [Under Armour Tech Tank-Twist Tirantes  Camiseta Deportiva  M
 
 🔎:
 
-- Quick-Drying – This running gear for women dries quickly; It effectively transports sweat away from the body and is suitable for various sports
 - Anti-Odour – These gym clothes for women wick sweat and dry quickly; The anti-odour technology prevents the growth of odour-causing microbes
-- Style and Function – This womens activewear top features an attractive and classic racer back design and an all-over heathered twist
-- Material and Fit – Under Armour Tech Tank - Twist for Women, comfortable workout clothes for women; Material: 100 Percent Polyester; Fit: Tight
 - Comfort and Style – This womens fitness wear with soft UA Tech fabric and a lightweight, stretch construction delivers ideal all-day comfort
+- Quick-Drying – This running gear for women dries quickly; It effectively transports sweat away from the body and is suitable for various sports
+- Material and Fit – Under Armour Tech Tank - Twist for Women, comfortable workout clothes for women; Material: 100 Percent Polyester; Fit: Tight
+- Style and Function – This womens activewear top features an attractive and classic racer back design and an all-over heathered twist
 
 [Visítala!!!](https://www.amazon.es/dp/B00YO77F6M/?tag=tolees-21)
