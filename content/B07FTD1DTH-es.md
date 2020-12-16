@@ -25,10 +25,10 @@ Ahora mismo tienes [ZNYSTAR - Vestido holgado e informal de manga corta para muj
 
 🔎:
 
-- ️Material: 95% rayón, 5% elastano.
 - Consejos de cuidado: lavado a mano o a máquina hasta 30 grados.
+- ️Material: 95% rayón, 5% elastano.
 - ️Nota: estimado comprador, si estás interesado en este vestido, por favor, realiza tu pedido. - - - Te ofrecemos productos y servicios de alta calidad.
-- -<p>-<br> -<br> <br> -</p>
 - Traje para ocasiones puntuales, al aire libre, jardín, pasear por la playa, fiesta, noche, etc.
+- -<p>-<br> -<br> <br> -</p>
 
 [Visítala!!!](https://www.amazon.es/dp/B07FTD1DTH/?tag=tolees-21)
