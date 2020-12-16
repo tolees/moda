@@ -25,10 +25,10 @@ Ahora mismo tienes [G-STAR RAW Revend Skinny Vaqueros  Light Aged Destroy 6132-1
 
 🔎:
 
+- Tight from top to bottom
 - 5-pocket construction- rivet reinforced
 - Mid waist
 - Short rise front, regular rise back
 - Zip & button closure
-- Tight from top to bottom
 
 [Visítala!!!](https://www.amazon.es/dp/B00SF96CC8/?tag=tolees-21)

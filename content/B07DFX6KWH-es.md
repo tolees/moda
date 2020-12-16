@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Only Onlsedona Boucle Wool Coat Otw Noos al 65.55 % de descuento'
-date: 2020-12-06 16:05:58
+date: 2020-12-16 09:14:14
 image: 'https://m.media-amazon.com/images/I/31mGcUT0jdL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DFX6KWH/?tag=tolees-21'
 descuento: '65.55'
+average: '37.198'
 ---
 
 Está [Only Onlsedona Boucle Wool Coat Otw Noos Abrigo  Negro  Black Detail:Melange   42  Talla del fabricante: Large  para Mujer](https://www.amazon.es/dp/B07DFX6KWH/?tag=tolees-21) con 65.55 de descuento por 31.0 EUR (original: 89.99 EUR) en el siguiente enlace!
@@ -24,5 +25,7 @@ Está [Only Onlsedona Boucle Wool Coat Otw Noos Abrigo  Negro  Black Detail:Mela
 
 ℹ️:
 
+- Boucle - Abrigo de lana
+- Con capucha
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07DFX6KWH/?tag=tolees-21)
