@@ -25,9 +25,9 @@ Tienes [Geox UOMO Symbol C  Zapatillas Hombre  Negro  44 EU](https://www.amazon.
 
 ℹ️:
 
+- Perforierte Sohle mit einer inneren Membran – sorgt für Atmungsaktivität und ist wasserundurchlässig
 - Der U Symbol C für Herren von Geox ist ein atmungsaktiver Halbschuh für Beruf und Alltag.
 - Anlass: Casual
-- Perforierte Sohle mit einer inneren Membran – sorgt für Atmungsaktivität und ist wasserundurchlässig
 - Hochwertiges Leder ist strapazierfähig und langlebig
 - Gepolsterter Einstieg für ein komfortables An- und Ausziehen
 
