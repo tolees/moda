@@ -26,9 +26,9 @@ Está [Under Armour Challenger III Midlayer  Camiseta de Hombre para Hacer Depor
 ℹ️:
 
 - Moderna – La camiseta de entrenamiento y ocio tiene unas elegantes mangas raglán y un cuello moldeado. Además, el logo de UA aporta elegancia.
-- Absorbe el sudor – Esta camiseta de deporte está confeccionada con un novedoso tejido que absorbe el sudor y se seca rápidamente.
 - Buen ajuste – Esta cómoda camiseta para correr se ajusta al cuerpo sin llegar a apretar, por lo que proporciona una gran libertad de movimiento.
-- Material y forma – Camiseta de manga larga para hombre Under Armour Challenger III Midlayer, material – 100% poliéster, forma – ajustada
 - Muy cómoda – La parte exterior de punto de tricot suave y el interior cepillado de la camiseta para hombre proporcionan suavidad, comodidad y calidez
+- Absorbe el sudor – Esta camiseta de deporte está confeccionada con un novedoso tejido que absorbe el sudor y se seca rápidamente.
+- Material y forma – Camiseta de manga larga para hombre Under Armour Challenger III Midlayer, material – 100% poliéster, forma – ajustada
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07R1ZJM95/?tag=tolees-21)
