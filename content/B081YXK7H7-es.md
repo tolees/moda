@@ -25,9 +25,9 @@ Ahora mismo tienes [Hurley M Flower Tubing S/S Camiseta  Hombre  Deep Royal Blue
 
 🔎:
 
-- 100% algodón
-- Tejido de punto 155 gr
 - Estampado suave al tacto
+- Tejido de punto 155 gr
 - Lavado con enzimas para conferir mayor suavidad
+- 100% algodón
 
 [Visítala!!!](https://www.amazon.es/dp/B081YXK7H7/?tag=tolees-21)

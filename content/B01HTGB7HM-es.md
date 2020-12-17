@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Columbia Powder Lite Chaqueta para Hombr al 38.03 % de descuento'
-date: 2020-12-16 08:17:25
+date: 2020-12-17 10:02:04
 image: 'https://m.media-amazon.com/images/I/413JSfXP8hL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01HTGB7HM/?tag=tolees-21'
 descuento: '38.03'
-average: '78.30250000000001'
+average: '78.55333333333334'
 ---
 
 Ahora mismo tienes [Columbia Powder Lite Chaqueta para Hombre  Negro  S](https://www.amazon.es/dp/B01HTGB7HM/?tag=tolees-21) a 80.56 EUR (original: 129.99 EUR) (38.03 %  de descuento) en el siguiente enlace!
@@ -25,10 +25,10 @@ Ahora mismo tienes [Columbia Powder Lite Chaqueta para Hombre  Negro  S](https:/
 
 🔎:
 
-- Los bolsillos con cremallera te dan versatilidad Mantén tus manos calientes cuando lo necesites o guarda tu teléfono y otros accesorios sin temor a que se caigan
-- Chaqueta de invierno para hombre con capucha, optimo para pasear tranquilamente por la ciudad o descubrir nuevas rutas de senderismo
-- Contenido: 1x Columbia Powder Lite Chaqueta con capucha para hombre, Exterior: Storm-Lite DP II 100% poliéster; Forro: Omni-Heat Reflective Forro 100% poliéster; Aislamiento: Thermarator 100% poliéster, Color: Negro, Talla: S, Art.No.1693931
-- Tejido resistente al agua que te protege de los chubascos y la niebla, Ajuste óptimo gracias al dobladillo ajustable con cordón
-- La tecnología reflectante Omni-Heat de la chaqueta ofrece un mayor aislamiento para mantenerte caliente incluso en los días más fríos
+- Water resistant fabric that protects you from light rain showers and fog, Optimal fit thanks to drawcord adjustable hem
+- Contents: 1 x Columbia Mens Powder Lite Hooded Jacket, Shell: Storm-Lite DP II 100% polyester; Lining: Omni-Heat Reflective lining 100% polyester; Insulation: Thermarator 100% polyester, Colour: Black, Size: S , Art.No 1693931
+- The zip pockets give you versatility. Keep your hands warm when needed or store your phone and other accessories without the fear of them falling out
+- The jacket has reflective Omni-Heat technology which offers you improved insulation to keep you warm even on the coldest days
+- Mens hooded winter staple jacket, Ideal for leisurely strolls through the city or discovering new hiking routes
 
 [Visítala!!!](https://www.amazon.es/dp/B01HTGB7HM/?tag=tolees-21)
