@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geographical Norway Chaqueta de hombre B al 34.44 % de descuento'
-date: 2020-12-15 21:01:47
+date: 2020-12-17 15:14:29
 image: 'https://m.media-amazon.com/images/I/41Xxz4mCr4L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,8 +25,8 @@ Está [Geographical Norway Chaqueta de hombre BOKER NEGRO talla M](https://www.a
 
 ℹ️:
 
+- Chaqueta de hombre
 - pelo destomtable
 - Capucha
-- Chaqueta de hombre
 
 [Ver la oferta!!](https://www.amazon.es/dp/B08MPZY23K/?tag=tolees-21)

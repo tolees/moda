@@ -25,10 +25,10 @@ Tienes [Columbia Columbia Lodge  Chaqueta sudadera  Hombre  Negro  Black   Talla
 
 ℹ️:
 
-- Contents: 1 x Columbia Mens Columbia Lodge Pullover Jacket, Shell: 100% polyester; Lining: 100% polyester; Insulation: Thermarator 100% polyester, Colour: Black, Size: L , Art.No 1864422
-- The zip pockets give you versatility. Keep your hands warm when needed or store your phone and other accessories without the fear of them falling out
 - Water resistant fabric that protects you from light rain showers and fog, Optimal fit thanks to drawcord adjustable hem
+- Contents: 1 x Columbia Mens Columbia Lodge Pullover Jacket, Shell: 100% polyester; Lining: 100% polyester; Insulation: Thermarator 100% polyester, Colour: Black, Size: L , Art.No 1864422
 - Thermal reflective lining to keep your core temperated regulated without overheating
+- The zip pockets give you versatility. Keep your hands warm when needed or store your phone and other accessories without the fear of them falling out
 - Mens pullover jacket with Stylish Columbia logo and side-entry system, Ideal for everyday wear
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07RB7TPM7/?tag=tolees-21)
