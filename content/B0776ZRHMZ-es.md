@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tommy Hilfiger Original Rib Camisa  Azul al 32.89 % de descuento'
-date: 2020-11-11 18:25:32
+date: 2020-12-17 18:50:47
 image: 'https://m.media-amazon.com/images/I/41531v-VT+L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,13 +16,19 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0776ZRHMZ/?tag=tolees-21'
 descuento: '32.89'
+average: '23.61'
 ---
 
 Ahora mismo tienes [Tommy Hilfiger Original Rib Camisa  Azul  Black Iris 002   X-Small para Hombre](https://www.amazon.es/dp/B0776ZRHMZ/?tag=tolees-21) a 23.49 EUR (original: 35.0 EUR) (32.89 %  de descuento) en el siguiente enlace!
 
 [![Tommy Hilfiger Original Rib Camisa  Azul](https://m.media-amazon.com/images/I/41531v-VT+L._SL200_.jpg)](https://www.amazon.es/dp/B0776ZRHMZ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
+- Diseño ajustado
+- Algodón orgánico puro
+- Cuello redondo
+- Logotipo Tommy Jeans
+- Logotipo Tommy Jeans bordado en el pecho
 
 [Visítala!!!](https://www.amazon.es/dp/B0776ZRHMZ/?tag=tolees-21)
