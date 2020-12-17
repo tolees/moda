@@ -25,10 +25,10 @@ Tienes [Kfnire - Conjunto de bebé compuesto de pantalones y sudadera con capuch
 
 ℹ️:
 
-- Nota: La edad es solo orientativa; para niños de peso algo elevado, se ruega elegir una talla más.
-- La capucha cuenta con orejitas y borde estampado de leopardo, con un adorable estilo de osito de peluche. Un gran regalo para tus hijos este invierno.
 - Material: mezcla de algodón, suave y transpirable.
-- Adecuado para jugar al aire libre, fiestas de Halloween, fiestas de cumpleaños, fotografía infantil, días en familia o cualquier otra ocasión.
 - Diseño moderno y a la moda, esta sudadera rosa con estampado de leopardo le quedará perfecta a tu bebé.
+- Nota: La edad es solo orientativa; para niños de peso algo elevado, se ruega elegir una talla más.
+- Adecuado para jugar al aire libre, fiestas de Halloween, fiestas de cumpleaños, fotografía infantil, días en familia o cualquier otra ocasión.
+- La capucha cuenta con orejitas y borde estampado de leopardo, con un adorable estilo de osito de peluche. Un gran regalo para tus hijos este invierno.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07FXLQ2BJ/?tag=tolees-21)
