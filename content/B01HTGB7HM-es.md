@@ -25,10 +25,10 @@ Ahora mismo tienes [Columbia Powder Lite Chaqueta para Hombre  Negro  S](https:/
 
 🔎:
 
-- Water resistant fabric that protects you from light rain showers and fog, Optimal fit thanks to drawcord adjustable hem
-- Contents: 1 x Columbia Mens Powder Lite Hooded Jacket, Shell: Storm-Lite DP II 100% polyester; Lining: Omni-Heat Reflective lining 100% polyester; Insulation: Thermarator 100% polyester, Colour: Black, Size: S , Art.No 1693931
+- Mens hooded winter staple jacket, Ideal for leisurely strolls through the city or discovering new hiking routes
 - The zip pockets give you versatility. Keep your hands warm when needed or store your phone and other accessories without the fear of them falling out
 - The jacket has reflective Omni-Heat technology which offers you improved insulation to keep you warm even on the coldest days
-- Mens hooded winter staple jacket, Ideal for leisurely strolls through the city or discovering new hiking routes
+- Water resistant fabric that protects you from light rain showers and fog, Optimal fit thanks to drawcord adjustable hem
+- Contents: 1 x Columbia Mens Powder Lite Hooded Jacket, Shell: Storm-Lite DP II 100% polyester; Lining: Omni-Heat Reflective lining 100% polyester; Insulation: Thermarator 100% polyester, Colour: Black, Size: S , Art.No 1693931
 
 [Visítala!!!](https://www.amazon.es/dp/B01HTGB7HM/?tag=tolees-21)
