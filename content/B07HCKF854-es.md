@@ -25,7 +25,7 @@ Tienes [Skechers Stamina-Cutback  Zapatilla Deportiva con Cordones Hombre  Multi
 
 ℹ️:
 
-- Suela flexible
 - Plantilla de espuma viscoelástica
+- Suela flexible
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07HCKF854/?tag=tolees-21)

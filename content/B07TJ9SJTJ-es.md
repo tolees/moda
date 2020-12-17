@@ -25,8 +25,8 @@ Está [Levi s The Original tee Camiseta  Grey  Cotton + Patch Medium Grey Heathe
 
 ℹ️:
 
-- Fabricada en tejido de punto con tacto suave
 - Logotipo pequeño de Levis en el pecho
 - Modelo casual
+- Fabricada en tejido de punto con tacto suave
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07TJ9SJTJ/?tag=tolees-21)
