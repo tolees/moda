@@ -26,9 +26,9 @@ Ahora mismo tienes [Tommy Hilfiger Original Rib Camisa  Azul  Black Iris 002   X
 🔎:
 
 - Diseño ajustado
-- Algodón orgánico puro
-- Cuello redondo
-- Logotipo Tommy Jeans
 - Logotipo Tommy Jeans bordado en el pecho
+- Cuello redondo
+- Algodón orgánico puro
+- Logotipo Tommy Jeans
 
 [Visítala!!!](https://www.amazon.es/dp/B0776ZRHMZ/?tag=tolees-21)
