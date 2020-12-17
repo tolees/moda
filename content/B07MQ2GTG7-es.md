@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Clarks Becken Lace  Zapatos de Cordones  al 25.00 % de descuento'
-date: 2020-12-15 11:44:18
+title: 'Clarks Becken Lace  Zapatos de Cordones  al 48.82 % de descuento'
+date: 2020-12-17 06:14:45
 image: 'https://m.media-amazon.com/images/I/31gpN4TW+0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07MQ2GTG7-es'
-actualPrice: 59.96 EUR
+actualPrice: 40.92 EUR
 currency: EUR
-price: 59.96
+price: 40.92
 comparePrice: 79.95 EUR
 prodname: 'Clarks Becken Lace  Zapatos de Cordones Brogue Hombre  Negro  Black Leather   45 EU'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MQ2GTG7/?tag=tolees-21'
-descuento: '25.00'
-average: '61.17826086956522'
+descuento: '48.82'
+average: '59.5576'
 ---
 
-Está [Clarks Becken Lace  Zapatos de Cordones Brogue Hombre  Negro  Black Leather   45 EU](https://www.amazon.es/dp/B07MQ2GTG7/?tag=tolees-21) con 25.00 de descuento por 59.96 EUR (original: 79.95 EUR) en el siguiente enlace!
+Está [Clarks Becken Lace  Zapatos de Cordones Brogue Hombre  Negro  Black Leather   45 EU](https://www.amazon.es/dp/B07MQ2GTG7/?tag=tolees-21) con 48.82 de descuento por 40.92 EUR (original: 79.95 EUR) en el siguiente enlace!
 
 [![Clarks Becken Lace  Zapatos de Cordones ](https://m.media-amazon.com/images/I/31gpN4TW+0L._SL200_.jpg)](https://www.amazon.es/dp/B07MQ2GTG7/?tag=tolees-21)
 
