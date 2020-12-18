@@ -25,9 +25,9 @@ Está [NIKE M Nk Dry Park20 TRK Jkt K Chaqueta de Deporte  Hombre  Black/White/W
 
 ℹ️:
 
+- Nike Dry fabric
 - Full-length frontal zip and Side pockets
 - Soccer Jacket
 - Tipo de fábrica: 100% poliéster
-- Nike Dry fabric
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07W6YJHMX/?tag=tolees-21)
