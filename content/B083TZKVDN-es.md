@@ -26,9 +26,9 @@ Ahora mismo tienes [KEENPACE Sandalias Deportivas para Hombre Al Aire Libre Cuer
 🔎:
 
 - The toe is wrapped in round durable rubber to effectively prevent injuries - protect your feet safety for playing & working
-- SIZING - Please check our size chart in the images, if you have any doubt, pls write in the "questions & answers" below to get our services
-- Cushioned insole supply good cushioning and comfort - for outdoor hiking, trekking, walking and backpacking
 - Mesh and leather upper in an outdoor fisherman sandal style - breathable & quick dry & comfortable
 - Durable rubber outsole provides great grip on the ground - provide better slip resistance
+- SIZING - Please check our size chart in the images, if you have any doubt, pls write in the "questions & answers" below to get our services
+- Cushioned insole supply good cushioning and comfort - for outdoor hiking, trekking, walking and backpacking
 
 [Visítala!!!](https://www.amazon.es/dp/B083TZKVDN/?tag=tolees-21)

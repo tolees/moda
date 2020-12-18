@@ -25,10 +25,10 @@ Está [Geox U Nebula B - Zapatillas de Deporte para Hombre  color Azul  Navy   t
 
 ℹ️:
 
-- Tipo de tacón: Plano
-- Cierre: Sin cordones
-- Material de la suela: EVA
 - Revestimiento: Malla
+- Tipo de tacón: Plano
+- Material de la suela: EVA
 - Material exterior: Sintético
+- Cierre: Sin cordones
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00Y2MT2KG/?tag=tolees-21)

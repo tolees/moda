@@ -25,10 +25,10 @@ Está [KEENPACE Sandalias Deportivas para Hombre Al Aire Libre Cuero Verano Play
 
 ℹ️:
 
+- SIZING - Please check our size chart in the images, if you have any doubt, pls write in the "questions & answers" below to get our services
+- The toe is wrapped in round durable rubber to effectively prevent injuries - protect your feet safety for playing & working
 - Durable rubber outsole provides great grip on the ground - provide better slip resistance
 - Cushioned insole supply good cushioning and comfort - for outdoor hiking, trekking, walking and backpacking
-- SIZING - Please check our size chart in the images, if you have any doubt, pls write in the "questions & answers" below to get our services
 - Mesh and leather upper in an outdoor fisherman sandal style - breathable & quick dry & comfortable
-- The toe is wrapped in round durable rubber to effectively prevent injuries - protect your feet safety for playing & working
 
 [Ver la oferta!!](https://www.amazon.es/dp/B083TZM8TR/?tag=tolees-21)

@@ -25,8 +25,8 @@ Tienes [Nike Kawa Shower  Chanclas Hombre  Negro  Black/White   41 EU](https://w
 
 ℹ️:
 
-- Transpirable
 - Flexibilidad
+- Transpirable
 - Con espuma duradera
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01MSPF80F/?tag=tolees-21)

@@ -25,9 +25,9 @@ Está [Clarks Tealite Grace  Sandalias con Tira Vertical para Mujer  Azul  Navy 
 
 ℹ️:
 
-- Suela: goma.
-- Material interior: piel.
 - Exterior: piel.
 - Altura del tacón: 2 cm.
+- Material interior: piel.
+- Suela: goma.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01K9K18VA/?tag=tolees-21)
