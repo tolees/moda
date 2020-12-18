@@ -25,13 +25,13 @@ Ahora mismo tienes [Element Cornell Classic - Sudadera para Hombre Sudadera  Hom
 
 🔎:
 
-- Corte: corte normal
 - Tela: Tejido de mezcla de poliéster y algodón [260 g/m2]
-- Cepillado para mayor suavidad
-- Cuello redondo
-- Regular Fit
-- Logo del árbol en contraste bordado en el pecho
 - Tipo de deporte: Athletic Sports Apparel
+- Corte: corte normal
+- Regular Fit
+- Cepillado para mayor suavidad
+- Logo del árbol en contraste bordado en el pecho
+- Cuello redondo
 - 60% Poliéster, 40% Algodón
 
 [Visítala!!!](https://www.amazon.es/dp/B07F22LZBZ/?tag=tolees-21)
