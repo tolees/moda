@@ -25,10 +25,10 @@ Ahora mismo tienes [Tommy Hilfiger Original Rib Camisa  Negro  Tommy Black 078  
 
 🔎:
 
-- Detalles distintivos de Tommy Jeans
-- Cuello redondo
 - Logo de Tommy Jeans bordado en el pecho
-- Puro algodón orgánico
 - Corte slim
+- Cuello redondo
+- Puro algodón orgánico
+- Detalles distintivos de Tommy Jeans
 
 [Visítala!!!](https://www.amazon.es/dp/B0776SMLZP/?tag=tolees-21)
