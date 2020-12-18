@@ -25,10 +25,10 @@ Está [KEENPACE Sandalias Deportivas Hombre Piel de Punta Cerrada Caminar Ligero
 
 ℹ️:
 
-- Mesh and leather upper in an outdoor fisherman sandal style - breathable & quick dry & comfortable
-- Durable rubber outsole provides great grip on the ground - provide better slip resistance
-- Cushioned insole supply good cushioning and comfort - for outdoor hiking, trekking, walking and backpacking
-- The open-toe design can ensure that there is enough space to expand and contract during walking - better flexibility.
 - SIZING - Please check our size chart in the images, if you have any doubt, pls write in the "questions & answers" below to get our services
+- The open-toe design can ensure that there is enough space to expand and contract during walking - better flexibility.
+- Durable rubber outsole provides great grip on the ground - provide better slip resistance
+- Mesh and leather upper in an outdoor fisherman sandal style - breathable & quick dry & comfortable
+- Cushioned insole supply good cushioning and comfort - for outdoor hiking, trekking, walking and backpacking
 
 [Ver la oferta!!](https://www.amazon.es/dp/B088NDQFKP/?tag=tolees-21)

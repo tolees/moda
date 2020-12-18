@@ -25,13 +25,13 @@ Tienes [Geox U New Damon B  Mocasines para Hombre  Marrón  DK BROWNC6006   43 E
 
 ℹ️:
 
-- Revestimiento: Cuero
-- Tipo de talla:Te informamos que los zapatos Geox son holgados, te recomendamos elegir media talla menos con respecto a tu talla habitual
-- Material exterior: Cuero
 - Anchura del zapato: Normal
-- Cierre: Sin cordones
-- Tipo de tacón: Plano
 - Altura del tacón: 3.0 centímetros
+- Revestimiento: Cuero
+- Material exterior: Cuero
+- Tipo de talla:Te informamos que los zapatos Geox son holgados, te recomendamos elegir media talla menos con respecto a tu talla habitual
+- Tipo de tacón: Plano
 - Material de la suela: Caucho
+- Cierre: Sin cordones
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01GWX233K/?tag=tolees-21)

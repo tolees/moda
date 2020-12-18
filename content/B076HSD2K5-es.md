@@ -25,9 +25,9 @@ Ahora mismo tienes [adidas Core18 PES Jkt Chaqueta  Hombre  Azul  Bold Blue/Whit
 
 🔎:
 
-- Puños con puños elásticos
-- Cuello altamente cerrable
 - Material 100% poliéster
 - Chaqueta con bolsillos con cremallera
+- Cuello altamente cerrable
+- Puños con puños elásticos
 
 [Visítala!!!](https://www.amazon.es/dp/B076HSD2K5/?tag=tolees-21)
