@@ -25,7 +25,7 @@ Está [Jack & Jones Jcorocky Jacket Noos Chaqueta  Negro  Black Pattern: PU   Me
 
 ℹ️:
 
-- Season Jacket
 - Biker Jacket
+- Season Jacket
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07JZXLYZB/?tag=tolees-21)

@@ -26,7 +26,7 @@ Tienes [Lee Malone Vaqueros  Vintage Large HT  31W / 32L para Hombre](https://ww
 ℹ️:
 
 - Presentan 5 bolsillos
-- Tienen un parche de piel en la parte trasera con la marca Lee
 - Vaqueros para hombre
+- Tienen un parche de piel en la parte trasera con la marca Lee
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07MMW2PZS/?tag=tolees-21)
