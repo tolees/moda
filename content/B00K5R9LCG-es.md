@@ -25,9 +25,9 @@ Ahora mismo tienes [Tommy Hilfiger 3p Trunk Bóxer  Azul  Peacoat-Pt 409   Small
 
 🔎:
 
-- Ajuste cómodo y adecuado
-- Cinta distintiva en la cintura
 - Cintura con la inscripción de Tommy Hilfiger
+- Cinta distintiva en la cintura
 - Producto con diseño clásico y estilo para todos los días
+- Ajuste cómodo y adecuado
 
 [Visítala!!!](https://www.amazon.es/dp/B00K5R9LCG/?tag=tolees-21)

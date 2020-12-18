@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Only Onlqueen L/s Long Cardigan Knt Noos al 33.34 % de descuento'
-date: 2020-12-17 06:28:39
+date: 2020-12-18 18:43:49
 image: 'https://m.media-amazon.com/images/I/41fH9UfdAfL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,7 +25,7 @@ Está [Only Onlqueen L/s Long Cardigan Knt Noos Chaqueta Punto  Multicolor  Mist
 
 ℹ️:
 
-- Cardigan
 - De punto.
+- Cardigan
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07DDVPNYZ/?tag=tolees-21)
