@@ -27,8 +27,8 @@ Ahora mismo tienes [Under Armour UA Tech Pant Chándal  Pantalón De Deporte  Ho
 
 - Libertad de movimiento – El tejido elástico multidireccional de estos pantalones transpirables garantiza la movilidad en cualquier dirección.
 - Frescura duradera – Los pantalones de gimnasia cuentan con un tejido que absorbe el sudor y se seca rápido para mantener al atleta fresco más tiempo.
-- Material y forma – Pantalones de chándal Under Armour UA Tech Pant, ligero y versátil pantalón para hombre, material – 100% de poliéster, forma – recta
 - Muy cómodo – Los pantalones deportivos cuentan con un tejido suave, elástico, ligero y duradero, así que son una prenda cómoda para deporte u ocio
 - Pantalón de hombre con óptimo diseño – Este elegante y cómodo pantalón ligero tienen un frontal plano, 4 bolsillos y una pernera recta.
+- Material y forma – Pantalones de chándal Under Armour UA Tech Pant, ligero y versátil pantalón para hombre, material – 100% de poliéster, forma – recta
 
 [Visítala!!!](https://www.amazon.es/dp/B07TKBR4ZK/?tag=tolees-21)
