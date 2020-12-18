@@ -26,7 +26,7 @@ Ahora mismo tienes [Levi s SS Original Hm tee Camiseta  Cotton + Patch Dress Blu
 🔎:
 
 - Adecuada para el día a día
-- Modelo casual
 - Logotipo pequeño de Levis en el pecho
+- Modelo casual
 
 [Visítala!!!](https://www.amazon.es/dp/B07K757CDK/?tag=tolees-21)
