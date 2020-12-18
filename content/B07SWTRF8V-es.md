@@ -25,10 +25,10 @@ Tienes [Geox D Jaysen A  Zapatillas para Mujer  Blanco  White/Lt Yellow C1372   
 
 ℹ️:
 
-- Tipo de tacón: Plano
+- Material exterior: Cuero
+- Cierre: Cordones
 - Revestimiento: Malla
 - Material de la suela: Sintético
-- Cierre: Cordones
-- Material exterior: Cuero
+- Tipo de tacón: Plano
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07SWTRF8V/?tag=tolees-21)
