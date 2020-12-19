@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Havaianas Chanclas Unisex Adulto  Blanco al 22.42 % de descuento'
+date: 
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41v5jXQ1UvL._SL200_.jpg'
+comments: true
+category: ofertas
+author: ring
+slug: 'B000YKO4TY-es'
+actualPrice: 16.99 EUR
+currency: EUR
+price: 16.99
+comparePrice: 21.9 EUR
+prodname: 'Havaianas Chanclas Unisex Adulto  Blanco  Brasil White   37/38 EU [35/36 BR]'
+country: 'es'
+flag: '🇪🇸'
+buyurl: 'https://www.amazon.es/dp/B000YKO4TY/?tag=tolees-21'
+descuento: '22.42'
+average: '16.99'
+---
+
+Está [Havaianas Chanclas Unisex Adulto  Blanco  Brasil White   37/38 EU [35/36 BR]](https://www.amazon.es/dp/B000YKO4TY/?tag=tolees-21) con 22.42 de descuento por 16.99 EUR (original: 21.9 EUR) en el siguiente enlace!
+
+[![Havaianas Chanclas Unisex Adulto  Blanco](https://images-eu.ssl-images-amazon.com/images/I/41v5jXQ1UvL._SL200_.jpg)](https://www.amazon.es/dp/B000YKO4TY/?tag=tolees-21)
+
+ℹ️:
+
+
+[Ver la oferta!!](https://www.amazon.es/dp/B000YKO4TY/?tag=tolees-21)

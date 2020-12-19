@@ -25,11 +25,11 @@ Está [Adidas CORE18 tee Camiseta de Manga Corta  Hombre  Dark Grey Heather/Blac
 
 ℹ️:
 
-- Corte clásico más ancho y silueta recta.
-- Costura lateral adelantada para un ajuste más cómodo y una mayor libertad de movimiento.
-- Cuello redondo.
-- Ribetes en contraste.
-- Logotipo de adidas en el pecho.
 - Climalite anti-humidity fabric
+- Corte clásico más ancho y silueta recta.
+- Cuello redondo.
+- Logotipo de adidas en el pecho.
+- Costura lateral adelantada para un ajuste más cómodo y una mayor libertad de movimiento.
+- Ribetes en contraste.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B076PGBJTJ/?tag=tolees-21)
