@@ -25,8 +25,8 @@ Está [NIKE Kawa Shower  Chanclas Unisex Adulto  Negro  Black/White   48.5 EU](h
 
 ℹ️:
 
+- Con espuma duradera
 - Flexibilidad
 - Transpirable
-- Con espuma duradera
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01N78JSS0/?tag=tolees-21)
