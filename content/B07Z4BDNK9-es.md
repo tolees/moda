@@ -25,7 +25,7 @@ Ahora mismo tienes [G-STAR RAW ARC 3D Slim Chaqueta vaquera  Faded Pebble Grey R
 
 🔎:
 
-- La chaqueta Setscale establece con sus colores en bloque un aspecto original.
 - Nuestra colección de abrigos y chaquetas se compone de estilos atemporales que combinan inspiración clásica con la innovación moderna.
+- La chaqueta Setscale establece con sus colores en bloque un aspecto original.
 
 [Visítala!!!](https://www.amazon.es/dp/B07Z4BDNK9/?tag=tolees-21)
