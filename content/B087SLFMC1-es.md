@@ -28,7 +28,7 @@ Está [Columbia Tolt Track Chaqueta Interchange con Forro extraíble  Mujer  Can
 - Chaqueta 3 en 1 para mujer con dos capas distintas que pueden usarse solas o juntas para un look versátil este invierno
 - Capucha integrada y ajustable para una mayor protección contra los elementos, Bolsillos con cremallera para mantener sus pertenencias seguras y sus manos calientes
 - La tecnología Omni-Heat gestiona el calor corporal regulando su temperatura con pequeños puntos plateados que reflejan y retienen el calor que su cuerpo genera Su tejido transpirable también disipa la humedad y el exceso de calor
-- Contenido: 1x Columbia Tolt Track Chaqueta Interchange para mujer, Cubierta: 100% poliéster; Forro: 100% poliéster, Aislamiento: 100%poliéster, Color: Azul (Canyon Blue), Talla: XL, Art.No 1859762
 - Omni-Wick elimina la humedad del cuerpo y permite que la transpiración se evapore más rápidamente, lo que te mantiene seco y cómodo.
+- Contenido: 1x Columbia Tolt Track Chaqueta Interchange para mujer, Cubierta: 100% poliéster; Forro: 100% poliéster, Aislamiento: 100%poliéster, Color: Azul (Canyon Blue), Talla: XL, Art.No 1859762
 
 [Ver la oferta!!](https://www.amazon.es/dp/B087SLFMC1/?tag=tolees-21)
