@@ -1,28 +1,32 @@
 ---
 layout: post
-title: 'Levi s Original Trucker Chaqueta  All Mi al 64.67 % de descuento'
-date: 2020-12-01 22:24:26
+title: 'Levi s Original Trucker Chaqueta  All Mi al 59.07 % de descuento'
+date: 2020-12-19 21:24:54
 image: 'https://m.media-amazon.com/images/I/41aBagXUATL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07ZVPJBHC-es'
-actualPrice: 42.4 EUR
+actualPrice: 49.12 EUR
 currency: EUR
-price: 42.4
+price: 49.12
 comparePrice: 120.0 EUR
 prodname: 'Levi s Original Trucker Chaqueta  All Mine  M para Mujer'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07ZVPJBHC/?tag=tolees-21'
-descuento: '64.67'
+descuento: '59.07'
+average: '45.76'
 ---
 
-Está [Levi s Original Trucker Chaqueta  All Mine  M para Mujer](https://www.amazon.es/dp/B07ZVPJBHC/?tag=tolees-21) con 64.67 de descuento por 42.4 EUR (original: 120.0 EUR) en el siguiente enlace!
+Está [Levi s Original Trucker Chaqueta  All Mine  M para Mujer](https://www.amazon.es/dp/B07ZVPJBHC/?tag=tolees-21) con 59.07 de descuento por 49.12 EUR (original: 120.0 EUR) en el siguiente enlace!
 
 [![Levi s Original Trucker Chaqueta  All Mi](https://m.media-amazon.com/images/I/41aBagXUATL._SL200_.jpg)](https://www.amazon.es/dp/B07ZVPJBHC/?tag=tolees-21)
 
 ℹ️:
 
+- Un básico versátil para completar cualquier conjunto
+- Trabillas ajustables en la parte posterior de la cinturilla
+- Bolsillos de parche en el pecho con solapa y corchete
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07ZVPJBHC/?tag=tolees-21)
