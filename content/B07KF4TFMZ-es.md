@@ -25,8 +25,8 @@ Ahora mismo tienes [Levi s Type 3 Chaqueta Vaquera  Berk Sherpa Trucker  L para 
 
 🔎:
 
+- Bolsillos de parche en el pecho con solapa y cierre de botón automático
 - Manga larga con cierre de botón en los puños
 - Bajo ajustable en el lateral
-- Bolsillos de parche en el pecho con solapa y cierre de botón automático
 
 [Visítala!!!](https://www.amazon.es/dp/B07KF4TFMZ/?tag=tolees-21)
