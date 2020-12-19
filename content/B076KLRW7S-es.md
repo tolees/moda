@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'YSABEL MORA Camiseta TÉRMICA  VISÓN  M  al 40.61 % de descuento'
-date: 2020-12-14 09:10:35
+date: 2020-12-19 09:02:25
 image: 'https://m.media-amazon.com/images/I/41m63HC9fHL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076KLRW7S/?tag=tolees-21'
 descuento: '40.61'
+average: '7.231111111111111'
 ---
 
 Ahora mismo tienes [YSABEL MORA Camiseta TÉRMICA  VISÓN  M ](https://www.amazon.es/dp/B076KLRW7S/?tag=tolees-21) a 6.83 EUR (original: 11.5 EUR) (40.61 %  de descuento) en el siguiente enlace!
@@ -24,8 +25,8 @@ Ahora mismo tienes [YSABEL MORA Camiseta TÉRMICA  VISÓN  M ](https://www.amazo
 
 🔎:
 
-- TERMICA
-- CUELLO REDONDO
-- AFELPADO INTERIOR
+- INTERIOR FLOWING
+- ROUND NECK
+- THERMAL
 
 [Visítala!!!](https://www.amazon.es/dp/B076KLRW7S/?tag=tolees-21)
