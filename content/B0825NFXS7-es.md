@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geox D Myria D  Zapatillas Mujer  Dk Bei al 65.45 % de descuento'
-date: 2020-12-17 08:39:30
+date: 2020-12-19 08:06:11
 image: 'https://m.media-amazon.com/images/I/41p1uxYzzsL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0825NFXS7/?tag=tolees-21'
 descuento: '65.45'
-average: '46.105000000000004'
+average: '43.39333333333333'
 ---
 
 Está [Geox D Myria D  Zapatillas Mujer  Dk Beige  41 EU](https://www.amazon.es/dp/B0825NFXS7/?tag=tolees-21) con 65.45 de descuento por 37.97 EUR (original: 109.9 EUR) en el siguiente enlace!
