@@ -25,9 +25,9 @@ Está [Joma Combi Camiseta Manga Corta  Hombre  Naranja  Coral Fluor   6XS-5XS](
 
 ℹ️:
 
+- Camiseta con manga corta para hombres
+- Con el logotipo Joma en la parte derecha del pecho
 - La camiseta tiene el cuello redondo
 - Esta hecha de poliéster transpirable
-- Con el logotipo Joma en la parte derecha del pecho
-- Camiseta con manga corta para hombres
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01ERZ3JG0/?tag=tolees-21)
