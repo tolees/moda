@@ -25,8 +25,8 @@ Ahora mismo tienes [Wrangler Jacket Chaqueta bomber  Azul  NAVY 114   Small para
 
 🔎:
 
-- Corte regular y acabado limpio con logotipo de Wrangler claro en el pecho.
 - Cuando la temperatura cae, necesitas la clásica chaqueta bomber como una capa versátil.
 - Una fusión de estilo y función.
+- Corte regular y acabado limpio con logotipo de Wrangler claro en el pecho.
 
 [Visítala!!!](https://www.amazon.es/dp/B07TWT76M6/?tag=tolees-21)
