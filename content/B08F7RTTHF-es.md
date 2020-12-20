@@ -26,14 +26,14 @@ Tienes [Adidas Real Madrid Temporada 2020/21 Camiseta Segunda Equipación Oficia
 ℹ️:
 
 - Lavar a máquina
-- Tecnología de absorción de humedad aeroready
 - Cuello en v acanalado
 - Una camiseta de visitante con un llamativo diseño; tipo de deporte: Fútbol americano
-- Real a jsy
+- Manga de puño
 - Corte clásico
 - Tejido tricot 100 % poliéster reciclado
+- Real a jsy
+- Tecnología de absorción de humedad aeroready
 - Closure: pull on
 - 100% poliéster reciclado, 100% poliéster reciclado
-- Manga de puño
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B08F7RTTHF/?tag=tolees-21)
