@@ -25,10 +25,10 @@ Está [TTYAOVO Vestido de Tul de Manga Larga de la Boda de la Dama de Honor de l
 
 ℹ️:
 
-- Cotton Polyester Blending material, fashion designs for girls.
-- Please refer to our size information on the left picture of Detail Size Chart before ordering. Size Table means age ranges for the baby, but they are for general guidance only.
 - Suitable for wedding party, holiday party, First Communion, ceremony, baptism, birthday, pageant, artistic photo shoot etc.
+- Please refer to our size information on the left picture of Detail Size Chart before ordering. Size Table means age ranges for the baby, but they are for general guidance only.
 - This skirt has Breathable and lace multi-layer tutu design, long sleeve and sweet elegant hemline, the big bow is also can removable, it can providing more optional autonomy design possibility, Hidden zipper back easily to allow you to easily get in/out of the dress, your baby girl will like it !
 - Garment Care: Hand wash with cold water recommended.No bleach,hang or line dry.It quick-drying.
+- Cotton Polyester Blending material, fashion designs for girls.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07TYKPP18/?tag=tolees-21)

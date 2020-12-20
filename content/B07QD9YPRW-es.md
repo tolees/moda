@@ -1,32 +1,32 @@
 ---
 layout: post
-title: 'Adidas Grand Court K  Zapatos de Tenis U al 31.28 % de descuento'
-date: 2020-12-19 10:01:24
+title: 'Adidas Grand Court K  Zapatos de Tenis U al 40.02 % de descuento'
+date: 2020-12-20 17:01:08
 image: 'https://m.media-amazon.com/images/I/41TuKPibLtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07QD9YPRW-es'
-actualPrice: 27.49 EUR
+actualPrice: 23.99 EUR
 currency: EUR
-price: 27.49
+price: 23.99
 comparePrice: 40.0 EUR
 prodname: 'Adidas Grand Court K  Zapatos de Tenis Unisex Niños  FTWR White/Core Black/FTWR White  38 EU'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07QD9YPRW/?tag=tolees-21'
-descuento: '31.28'
-average: '27.49'
+descuento: '40.02'
+average: '25.74'
 ---
 
-Está [Adidas Grand Court K  Zapatos de Tenis Unisex Niños  FTWR White/Core Black/FTWR White  38 EU](https://www.amazon.es/dp/B07QD9YPRW/?tag=tolees-21) con 31.28 de descuento por 27.49 EUR (original: 40.0 EUR) en el siguiente enlace!
+Está [Adidas Grand Court K  Zapatos de Tenis Unisex Niños  FTWR White/Core Black/FTWR White  38 EU](https://www.amazon.es/dp/B07QD9YPRW/?tag=tolees-21) con 40.02 de descuento por 23.99 EUR (original: 40.0 EUR) en el siguiente enlace!
 
 [![Adidas Grand Court K  Zapatos de Tenis U](https://m.media-amazon.com/images/I/41TuKPibLtL._SL200_.jpg)](https://www.amazon.es/dp/B07QD9YPRW/?tag=tolees-21)
 
 ℹ️:
 
-- Empeine de piel sintética.
 - Zapatillas deportivas
 - Estilo clásico.
+- Empeine de piel sintética.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07QD9YPRW/?tag=tolees-21)

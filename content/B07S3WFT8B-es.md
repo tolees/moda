@@ -26,7 +26,7 @@ Tienes [Levi s Perfect tee Camiseta de Manga Corta  Multicolor  Alyssa Stripe Cl
 ℹ️:
 
 - Modelo casual
-- Con un discreto logo en el pecho
 - Elaborada en punto suave
+- Con un discreto logo en el pecho
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07S3WFT8B/?tag=tolees-21)
