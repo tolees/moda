@@ -25,8 +25,8 @@ Tienes [Columbia Peak To Point II Camiseta Térmica de Manga Corta  Mujer  Gris 
 
 ℹ️:
 
-- Talla: S
-- Columbia Peak to Point ii camiseta térmica de manga corta
 - Color: new moon heather
+- Columbia Peak to Point ii camiseta térmica de manga corta
+- Talla: S
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B081BJTJWP/?tag=tolees-21)

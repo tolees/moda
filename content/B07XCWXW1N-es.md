@@ -25,10 +25,10 @@ Ahora mismo tienes [PUMA FIGC Stadium Third Jersey Camiseta  Hombre  Ponderosa P
 
 🔎:
 
-- Escudo de la FIGC de Italia en la parte izquierda del pecho
 - Cuello redondo
-- Manga corta
-- dryCELL: tecnología de PUMA con propiedades que alejan la humedad de la piel y te ayudan a mantenerte seco y cómodo
 - Corte recto
+- dryCELL: tecnología de PUMA con propiedades que alejan la humedad de la piel y te ayudan a mantenerte seco y cómodo
+- Manga corta
+- Escudo de la FIGC de Italia en la parte izquierda del pecho
 
 [Visítala!!!](https://www.amazon.es/dp/B07XCWXW1N/?tag=tolees-21)
