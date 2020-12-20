@@ -25,10 +25,10 @@ Está [Toozey LED Luminoso Collar para Perros  Longitud Ajustable/Recargable por
 
 ℹ️:
 
-- 【MATERIALES DE SEGURIDAD】- Diseñado con tejido de nailon y malla reflectante, suave y duradera. Grado impermeable IP45, el Toozey LED luminoso collar se puede usar bajo la lluvia o con césped húmedo. Si tiene alguna pregunta, comuníquese con nosotros, ¡le daremos una solución satisfactoria!
 - 【MANTENGA VISIBLE A SU MASCOTA】- el Toozey LED luminoso collar para perros puede proporcionar una luz súper brillante y mantener a sus mascotas con una alta visibilidad afuera mientras caminan, especialmente en un ambiente con poca luz. Con el collar de seguridad para perros Toozey, los demás pueden ver claramente a su perro, evitando accidentes.
-- 【3 MODOS DE ILUMINACIÓN】- Solo un clic para cambiar a 3 modos para este luminoso collar para perros: Parpadeo rápido (6-8 horas) / Parpadeo lento (8-10 horas) / Luz constante (4-6 horas), luego apagado. Tiempo de carga 2-4 horas. Es un regalo necesario para la seguridad de sus mascotas.
 - 【USB RECARGABLE】- El Toozey LED luminoso collar para perros viene con un cable USB para una batería de litio incorporada para cargar fácilmente el collar. Luz roja en carga, luz verde en carga completa. Simplemente conéctese a otros dispositivos con un puerto USB habilitado, como cables de cargador de teléfono celular, computadoras portátiles, computadoras, televisores inteligentes, etc.
 - 【COLLAR PARA PERRO AJUSTABLE】- S: 40-43CM / M: 50-53CM / L60-63CM. Puede ajustar la longitud del collar intermitente Toozey de acuerdo con el cuello de su mascota. Fácil y conveniente de usar, simplemente inserte la hebilla o haga clic para soltar la hebilla. La hebilla puede soportar 400 libras de fuerza de tracción.
+- 【3 MODOS DE ILUMINACIÓN】- Solo un clic para cambiar a 3 modos para este luminoso collar para perros: Parpadeo rápido (6-8 horas) / Parpadeo lento (8-10 horas) / Luz constante (4-6 horas), luego apagado. Tiempo de carga 2-4 horas. Es un regalo necesario para la seguridad de sus mascotas.
+- 【MATERIALES DE SEGURIDAD】- Diseñado con tejido de nailon y malla reflectante, suave y duradera. Grado impermeable IP45, el Toozey LED luminoso collar se puede usar bajo la lluvia o con césped húmedo. Si tiene alguna pregunta, comuníquese con nosotros, ¡le daremos una solución satisfactoria!
 
 [Ver la oferta!!](https://www.amazon.es/dp/B08FX3PPY8/?tag=tolees-21)
