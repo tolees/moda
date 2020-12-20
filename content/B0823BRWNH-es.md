@@ -25,8 +25,8 @@ Está [Levi s SS Original Hm tee Camiseta  Colony Blue  X-Small para Hombre](htt
 
 ℹ️:
 
-- Modelo casual
-- Logotipo pequeño de Levis en el pecho
 - Adecuada para el día a día
+- Logotipo pequeño de Levis en el pecho
+- Modelo casual
 
 [Ver la oferta!!](https://www.amazon.es/dp/B0823BRWNH/?tag=tolees-21)
