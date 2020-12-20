@@ -26,9 +26,9 @@ Tienes [IEFIEL Niñas Vestido Princesa Largo de Fiesta Traje Elegante de Gasa Ve
 ℹ️:
 
 - Por favor, revise con la tabla de tallas en Descripción del producto antes de realizar un pedido. Si usted no está seguro, puede elegir una talla más pequeña.
-- Vestido de fiesta para niña. Vestido princesa y elegante, sin mangas.
 - El corpiño de encaje floreado, sin mangas, cremallera oculta a la espalda.
 - Falda de 2 capas: 1 de gasa 1 de forro.
 - Perfecto para fiesta, cumpleaños, ceremonia, bautizo etc.
+- Vestido de fiesta para niña. Vestido princesa y elegante, sin mangas.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B077HZDN28/?tag=tolees-21)

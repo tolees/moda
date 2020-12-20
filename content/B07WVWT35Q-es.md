@@ -25,10 +25,10 @@ Tienes [YOSICIL Vestido de Princesa Elsa Vestido Frozen Niñas Disfraz Traje de 
 
 ℹ️:
 
+- ?SERVICIO POSTVENTA:Si hay alguna insatisfacción, envíenos un correo electrónico antes de dejar cualquier calificación negativa,podemos darte una solucion satisfactoria.
+- infantil 3-10 años : la parte bordada es brillante, el cofre tiene Diamantes y mariposas,muy brillante. Cuando lo uses, tu niña será la princesa más brillante.
 - Diseño:Vestido de princesa de actuación para niña, manga larga, cuello redondo,Adornado con copo de nieve, estampado de flores y diamantes de imitación en el corpiñolas,mangas de tul Transparente
 - NOTA:Por favor verifique cuidadosamente la TABLA DE TAMAÑOS antes de comprar.
 - Diseño:Niña Princesa Cosplay,cuello redondo,Adornado con copo de nieve,cremallera lateral,Diseño de retazos de cintura y diamantes de imitación en el corpiñolas,mangas de tul Transparente
-- infantil 3-10 años : la parte bordada es brillante, el cofre tiene Diamantes y mariposas,muy brillante. Cuando lo uses, tu niña será la princesa más brillante.
-- ?SERVICIO POSTVENTA:Si hay alguna insatisfacción, envíenos un correo electrónico antes de dejar cualquier calificación negativa,podemos darte una solucion satisfactoria.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07WVWT35Q/?tag=tolees-21)
