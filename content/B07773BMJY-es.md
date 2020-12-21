@@ -26,7 +26,7 @@ Tienes [Tommy Hilfiger Original Stretch Camisa  Azul  Lavender Lustre 556   Larg
 ℹ️:
 
 - Tiene el logo de Tommy Hilfiger bordado en el pecho
-- Modelo casual
 - Puños con botón
+- Modelo casual
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07773BMJY/?tag=tolees-21)
