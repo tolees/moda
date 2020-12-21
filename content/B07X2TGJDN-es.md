@@ -25,10 +25,10 @@ Ahora mismo tienes [LEONE 1947 - Guantes de Boxeo Smart  Unisex – Adulto  Negr
 
 🔎:
 
-- Dorso de piel para una mejor durabilidad del guante
-- Adecuado para las necesidades de cada fighter
 - Relleno de poliuretano para una perfecta absorción de los golpes
 - Palma fabricada en poliuretano muy ligero
+- Dorso de piel para una mejor durabilidad del guante
+- Adecuado para las necesidades de cada fighter
 - Forro interior transpirable
 
 [Visítala!!!](https://www.amazon.es/dp/B07X2TGJDN/?tag=tolees-21)
