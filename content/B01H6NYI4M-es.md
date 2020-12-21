@@ -25,7 +25,7 @@ Tienes [Crocs Swiftwater Wave M Zapatos de agua Hombre  Azul  Sea/Blue/White/Str
 
 🔎:
 
-- Parte superior de TPU perforada suave
 - Zapato de agua
+- Parte superior de TPU perforada suave
 
 [Comprar!!!](https://www.amazon.es/dp/B01H6NYI4M/?tag=tolees-21)

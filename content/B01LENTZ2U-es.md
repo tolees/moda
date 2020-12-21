@@ -25,8 +25,8 @@ Ahora mismo tienes [BOSS Brief CO/EL  Bóxer  Negro  Black 001   Large  Pack de 
 
 🔎:
 
-- Cintura elástica con el logotipo de la marca
 - Adecuados para uso diario
 - Calzoncillos para hombre marca Hugo Boss
+- Cintura elástica con el logotipo de la marca
 
 [Visítala!!!](https://www.amazon.es/dp/B01LENTZ2U/?tag=tolees-21)
