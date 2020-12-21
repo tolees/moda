@@ -25,10 +25,10 @@ Tienes [G-STAR RAW Midge Saddle Mid-Waist Straight Vaqueros  Azul  dk Aged 7209-
 
 🔎:
 
-- 35% Algodón, 35% Lyocell, 28% Poliéster, 2% Elastano
-- Skinny
 - Cierre: Boton y cierre
+- Skinny
 - Lavar a máquina - caliente (mayor de 30 °)
 - Usado
+- 35% Algodón, 35% Lyocell, 28% Poliéster, 2% Elastano
 
 [Comprar!!!](https://www.amazon.es/dp/B07BJHHQ9K/?tag=tolees-21)

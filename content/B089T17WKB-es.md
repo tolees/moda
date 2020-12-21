@@ -25,10 +25,10 @@ Ahora mismo tienes [Parka Revolution Lady 100 Blanco/Coral 3](https://www.amazon
 
 🔎:
 
-- Cuello ajustable
-- Capucha
-- Bolsillos laterales
 - Insignia PVC
 - Apertura central con cremallera
+- Bolsillos laterales
+- Capucha
+- Cuello ajustable
 
 [Visítala!!!](https://www.amazon.es/dp/B089T17WKB/?tag=tolees-21)
