@@ -25,8 +25,8 @@ Tienes [Wrangler SS Rainbow tee Camiseta  Marfil  Off White 737   Large para Hom
 
 ℹ️:
 
+- Tiene un llamativo logo en el pecho
 - Fabricada en tejido ligero que ofrece comodidad
 - Producto de corte regular
-- Tiene un llamativo logo en el pecho
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07TXXGK5Y/?tag=tolees-21)

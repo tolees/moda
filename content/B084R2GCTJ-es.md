@@ -25,8 +25,8 @@ Ahora mismo tienes [G-STAR RAW Attacc Heatseal Quilted HDD Jkt Chaqueta  Dk Blac
 
 🔎:
 
-- Cuello alzado
-- Capucha incorporada cogida detrás de la cremallera de cuello
 - Manga larga recta con puños elásticos
+- Capucha incorporada cogida detrás de la cremallera de cuello
+- Cuello alzado
 
 [Visítala!!!](https://www.amazon.es/dp/B084R2GCTJ/?tag=tolees-21)
