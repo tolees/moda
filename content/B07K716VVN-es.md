@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 56.83 % en Levi s Graphic Varsity tee Camiseta   CB'
+title: 'Levi s Graphic Varsity tee Camiseta   CB al 56.83 % de descuento'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41uIoXetqBL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '56.83'
 average: '12.95'
 ---
 
-Tienes [Levi s Graphic Varsity tee Camiseta   CB Shortee White + C30768 & Lychee & M 0002   Small para Mujer](https://www.amazon.es/dp/B07K716VVN/?tag=tolees-21) con un 56.83 % de descuento con precio de oferta de 12.95 EUR (original: 30 EUR) en el siguiente enlace!
+Está [Levi s Graphic Varsity tee Camiseta   CB Shortee White + C30768 & Lychee & M 0002   Small para Mujer](https://www.amazon.es/dp/B07K716VVN/?tag=tolees-21) con 56.83 de descuento por 12.95 EUR (original: 30 EUR) en el siguiente enlace!
 
 [![Levi s Graphic Varsity tee Camiseta   CB](https://images-eu.ssl-images-amazon.com/images/I/41uIoXetqBL._SL200_.jpg)](https://www.amazon.es/dp/B07K716VVN/?tag=tolees-21)
 
 ℹ️:
 
 
-[Accede a la oferta!!](https://www.amazon.es/dp/B07K716VVN/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07K716VVN/?tag=tolees-21)

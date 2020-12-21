@@ -19,11 +19,11 @@ descuento: '40.00'
 average: '29.97'
 ---
 
-Está [HIKARO Chaqueta Bomber Hombre  Negro  Black   48  Talla del fabricante: Small ](https://www.amazon.es/dp/B077YC1G7B/?tag=tolees-21) con 40.00 de descuento por 29.97 EUR (original: 49.95 EUR) en el siguiente enlace!
+Ahora mismo tienes [HIKARO Chaqueta Bomber Hombre  Negro  Black   48  Talla del fabricante: Small ](https://www.amazon.es/dp/B077YC1G7B/?tag=tolees-21) a 29.97 EUR (original: 49.95 EUR) (40.00 %  de descuento) en el siguiente enlace!
 
 [![HIKARO Chaqueta Bomber Hombre  Negro  Bl](https://images-eu.ssl-images-amazon.com/images/I/41CUU5Px8GL._SL200_.jpg)](https://www.amazon.es/dp/B077YC1G7B/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B077YC1G7B/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B077YC1G7B/?tag=tolees-21)

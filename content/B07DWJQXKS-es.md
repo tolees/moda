@@ -19,11 +19,11 @@ descuento: '53.23'
 average: '9.33'
 ---
 
-Está [Hummel Hmlpep S/S Camiseta  Unisex niños  Blanco  Melange   116](https://www.amazon.es/dp/B07DWJQXKS/?tag=tolees-21) con 53.23 de descuento por 9.33 EUR (original: 19.95 EUR) en el siguiente enlace!
+Ahora mismo tienes [Hummel Hmlpep S/S Camiseta  Unisex niños  Blanco  Melange   116](https://www.amazon.es/dp/B07DWJQXKS/?tag=tolees-21) a 9.33 EUR (original: 19.95 EUR) (53.23 %  de descuento) en el siguiente enlace!
 
 [![Hummel Hmlpep S/S Camiseta  Unisex niños](https://images-eu.ssl-images-amazon.com/images/I/515StYiyp9L._SL200_.jpg)](https://www.amazon.es/dp/B07DWJQXKS/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07DWJQXKS/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07DWJQXKS/?tag=tolees-21)

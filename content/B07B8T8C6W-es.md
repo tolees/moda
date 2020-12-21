@@ -19,11 +19,11 @@ descuento: '83.36'
 average: '28.29'
 ---
 
-Ahora mismo tienes [Clarks Originals Wallabee Boot  Botines para Mujer  Gris  Grey Interest   36.5 EU](https://www.amazon.es/dp/B07B8T8C6W/?tag=tolees-21) a 28.29 EUR (original: 170 EUR) (83.36 %  de descuento) en el siguiente enlace!
+Está [Clarks Originals Wallabee Boot  Botines para Mujer  Gris  Grey Interest   36.5 EU](https://www.amazon.es/dp/B07B8T8C6W/?tag=tolees-21) con 83.36 de descuento por 28.29 EUR (original: 170 EUR) en el siguiente enlace!
 
 [![Clarks Originals Wallabee Boot  Botines ](https://images-eu.ssl-images-amazon.com/images/I/41AuJVqU3JL._SL200_.jpg)](https://www.amazon.es/dp/B07B8T8C6W/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B07B8T8C6W/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07B8T8C6W/?tag=tolees-21)

@@ -19,11 +19,11 @@ descuento: '34.70'
 average: '19.59'
 ---
 
-Ahora mismo tienes [Morgan 191-msisa.n Camiseta de Manga Larga  Negro Noir  Large  Talla del Fabricante: TL  para Mujer](https://www.amazon.es/dp/B07JN1YLGL/?tag=tolees-21) a 19.59 EUR (original: 30 EUR) (34.70 %  de descuento) en el siguiente enlace!
+Está [Morgan 191-msisa.n Camiseta de Manga Larga  Negro Noir  Large  Talla del Fabricante: TL  para Mujer](https://www.amazon.es/dp/B07JN1YLGL/?tag=tolees-21) con 34.70 de descuento por 19.59 EUR (original: 30 EUR) en el siguiente enlace!
 
 [![Morgan 191-msisa.n Camiseta de Manga Lar](https://images-eu.ssl-images-amazon.com/images/I/41OiKkIWWiL._SL200_.jpg)](https://www.amazon.es/dp/B07JN1YLGL/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B07JN1YLGL/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07JN1YLGL/?tag=tolees-21)

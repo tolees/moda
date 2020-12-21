@@ -19,11 +19,11 @@ descuento: '60.33'
 average: '29.75'
 ---
 
-Está [Under Armour Grade School Torch Mid  Zapatos de Baloncesto para Niños  Gris  Mod Pitch Gray/Orange Glitch 102   36.5 EU](https://www.amazon.es/dp/B07CTLPBRT/?tag=tolees-21) con 60.33 de descuento por 29.75 EUR (original: 75 EUR) en el siguiente enlace!
+Ahora mismo tienes [Under Armour Grade School Torch Mid  Zapatos de Baloncesto para Niños  Gris  Mod Pitch Gray/Orange Glitch 102   36.5 EU](https://www.amazon.es/dp/B07CTLPBRT/?tag=tolees-21) a 29.75 EUR (original: 75 EUR) (60.33 %  de descuento) en el siguiente enlace!
 
 [![Under Armour Grade School Torch Mid  Zap](https://images-eu.ssl-images-amazon.com/images/I/41uzPZI9DjL._SL200_.jpg)](https://www.amazon.es/dp/B07CTLPBRT/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07CTLPBRT/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07CTLPBRT/?tag=tolees-21)

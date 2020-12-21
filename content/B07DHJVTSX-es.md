@@ -19,11 +19,11 @@ descuento: '16.67'
 average: '24.99'
 ---
 
-Está [Sandalias Niños Trekking Senderismo Sandalias Deportivas Al Aire Libre Velcro Sandalias Punta Cerrada Verano Sandalias](https://www.amazon.es/dp/B07DHJVTSX/?tag=tolees-21) con 16.67 de descuento por 24.99 EUR (original: 29.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Sandalias Niños Trekking Senderismo Sandalias Deportivas Al Aire Libre Velcro Sandalias Punta Cerrada Verano Sandalias](https://www.amazon.es/dp/B07DHJVTSX/?tag=tolees-21) a 24.99 EUR (original: 29.99 EUR) (16.67 %  de descuento) en el siguiente enlace!
 
 [![Sandalias Niños Trekking Senderismo Sand](https://images-eu.ssl-images-amazon.com/images/I/51x0mQguAcL._SL200_.jpg)](https://www.amazon.es/dp/B07DHJVTSX/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07DHJVTSX/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07DHJVTSX/?tag=tolees-21)

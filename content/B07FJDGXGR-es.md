@@ -19,11 +19,11 @@ descuento: '89.17'
 average: '8.23'
 ---
 
-Está [Talkabout Bluse 1/1 Arm  Blusa Mujer   Breeze-Late Night-Stripe 8004   36  Talla del Fabricante: 34 ](https://www.amazon.es/dp/B07FJDGXGR/?tag=tolees-21) con 89.17 de descuento por 8.23 EUR (original: 75.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Talkabout Bluse 1/1 Arm  Blusa Mujer   Breeze-Late Night-Stripe 8004   36  Talla del Fabricante: 34 ](https://www.amazon.es/dp/B07FJDGXGR/?tag=tolees-21) a 8.23 EUR (original: 75.99 EUR) (89.17 %  de descuento) en el siguiente enlace!
 
 [![Talkabout Bluse 1/1 Arm  Blusa Mujer   B](https://images-eu.ssl-images-amazon.com/images/I/41kYQ8KqPFL._SL200_.jpg)](https://www.amazon.es/dp/B07FJDGXGR/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07FJDGXGR/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07FJDGXGR/?tag=tolees-21)

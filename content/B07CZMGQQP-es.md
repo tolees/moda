@@ -19,11 +19,11 @@ descuento: '15.01'
 average: '22.09'
 ---
 
-Está [Under Armour UA Team Issue Wordmark SS Camiseta  Hombre  Azul  Thunder/White 407   M](https://www.amazon.es/dp/B07CZMGQQP/?tag=tolees-21) con 15.01 de descuento por 22.09 EUR (original: 25.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Under Armour UA Team Issue Wordmark SS Camiseta  Hombre  Azul  Thunder/White 407   M](https://www.amazon.es/dp/B07CZMGQQP/?tag=tolees-21) a 22.09 EUR (original: 25.99 EUR) (15.01 %  de descuento) en el siguiente enlace!
 
 [![Under Armour UA Team Issue Wordmark SS C](https://images-eu.ssl-images-amazon.com/images/I/31Zig6Uaa4L._SL200_.jpg)](https://www.amazon.es/dp/B07CZMGQQP/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07CZMGQQP/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07CZMGQQP/?tag=tolees-21)

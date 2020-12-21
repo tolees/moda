@@ -19,11 +19,11 @@ descuento: '43.75'
 average: '14.62'
 ---
 
-Ahora mismo tienes [Under Armour UA Boxed Sportstyle SS Camiseta  Hombre  Blanco  White/Petrol Blue/Capri 100   S](https://www.amazon.es/dp/B07CZG3N1G/?tag=tolees-21) a 14.62 EUR (original: 25.99 EUR) (43.75 %  de descuento) en el siguiente enlace!
+Está [Under Armour UA Boxed Sportstyle SS Camiseta  Hombre  Blanco  White/Petrol Blue/Capri 100   S](https://www.amazon.es/dp/B07CZG3N1G/?tag=tolees-21) con 43.75 de descuento por 14.62 EUR (original: 25.99 EUR) en el siguiente enlace!
 
 [![Under Armour UA Boxed Sportstyle SS Cami](https://images-eu.ssl-images-amazon.com/images/I/314rFNLQ%2BTL._SL200_.jpg)](https://www.amazon.es/dp/B07CZG3N1G/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B07CZG3N1G/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07CZG3N1G/?tag=tolees-21)

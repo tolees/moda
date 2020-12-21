@@ -19,11 +19,11 @@ descuento: '66.05'
 average: '16.96'
 ---
 
-Ahora mismo tienes [Refresh 64673  Botines para Mujer  Marrón  40 EU](https://www.amazon.es/dp/B07DD3G1VX/?tag=tolees-21) a 16.96 EUR (original: 49.95 EUR) (66.05 %  de descuento) en el siguiente enlace!
+Está [Refresh 64673  Botines para Mujer  Marrón  40 EU](https://www.amazon.es/dp/B07DD3G1VX/?tag=tolees-21) con 66.05 de descuento por 16.96 EUR (original: 49.95 EUR) en el siguiente enlace!
 
 [![Refresh 64673  Botines para Mujer  Marró](https://images-eu.ssl-images-amazon.com/images/I/41W6sfAhcHL._SL200_.jpg)](https://www.amazon.es/dp/B07DD3G1VX/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B07DD3G1VX/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07DD3G1VX/?tag=tolees-21)

@@ -19,11 +19,11 @@ descuento: '78.21'
 average: '25.93'
 ---
 
-Está [REPLAY Jacksy  Vaqueros Skinny Mujer  Negro  Black Denim 7   W32/L30  Talla del Fabricante: 32 ](https://www.amazon.es/dp/B077K4SCS7/?tag=tolees-21) con 78.21 de descuento por 25.93 EUR (original: 119 EUR) en el siguiente enlace!
+Ahora mismo tienes [REPLAY Jacksy  Vaqueros Skinny Mujer  Negro  Black Denim 7   W32/L30  Talla del Fabricante: 32 ](https://www.amazon.es/dp/B077K4SCS7/?tag=tolees-21) a 25.93 EUR (original: 119 EUR) (78.21 %  de descuento) en el siguiente enlace!
 
 [![REPLAY Jacksy  Vaqueros Skinny Mujer  Ne](https://images-eu.ssl-images-amazon.com/images/I/31tryaoyVDL._SL200_.jpg)](https://www.amazon.es/dp/B077K4SCS7/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B077K4SCS7/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B077K4SCS7/?tag=tolees-21)

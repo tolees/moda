@@ -19,11 +19,11 @@ descuento: '38.62'
 average: '89'
 ---
 
-Está [Geox U Mattias B  Botas para Hombre  Marrón  Brown C6000   39 EU](https://www.amazon.es/dp/B00U7BXCOS/?tag=tolees-21) con 38.62 de descuento por 89 EUR (original: 145 EUR) en el siguiente enlace!
+Ahora mismo tienes [Geox U Mattias B  Botas para Hombre  Marrón  Brown C6000   39 EU](https://www.amazon.es/dp/B00U7BXCOS/?tag=tolees-21) a 89 EUR (original: 145 EUR) (38.62 %  de descuento) en el siguiente enlace!
 
 [![Geox U Mattias B  Botas para Hombre  Mar](https://images-eu.ssl-images-amazon.com/images/I/41r43tXoz9L._SL200_.jpg)](https://www.amazon.es/dp/B00U7BXCOS/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B00U7BXCOS/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B00U7BXCOS/?tag=tolees-21)

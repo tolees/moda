@@ -19,11 +19,11 @@ descuento: '72.65'
 average: '7.11'
 ---
 
-Está [Under Armour - Pantalón Corto para niña  niña  1291712-408  Academy/Deceit  para jóvenes XL](https://www.amazon.es/dp/B07DTBJKBJ/?tag=tolees-21) con 72.65 de descuento por 7.11 EUR (original: 26 EUR) en el siguiente enlace!
+Ahora mismo tienes [Under Armour - Pantalón Corto para niña  niña  1291712-408  Academy/Deceit  para jóvenes XL](https://www.amazon.es/dp/B07DTBJKBJ/?tag=tolees-21) a 7.11 EUR (original: 26 EUR) (72.65 %  de descuento) en el siguiente enlace!
 
 [![Under Armour - Pantalón Corto para niña ](https://images-eu.ssl-images-amazon.com/images/I/51xbzJRATLL._SL200_.jpg)](https://www.amazon.es/dp/B07DTBJKBJ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07DTBJKBJ/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07DTBJKBJ/?tag=tolees-21)

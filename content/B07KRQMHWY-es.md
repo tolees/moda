@@ -19,11 +19,11 @@ descuento: '30.03'
 average: '38.45'
 ---
 
-Está [Gioseppo 48912  Sandalias con Punta Abierta para Mujer  Verde  Camuflaje 000   38 EU](https://www.amazon.es/dp/B07KRQMHWY/?tag=tolees-21) con 30.03 de descuento por 38.45 EUR (original: 54.95 EUR) en el siguiente enlace!
+Ahora mismo tienes [Gioseppo 48912  Sandalias con Punta Abierta para Mujer  Verde  Camuflaje 000   38 EU](https://www.amazon.es/dp/B07KRQMHWY/?tag=tolees-21) a 38.45 EUR (original: 54.95 EUR) (30.03 %  de descuento) en el siguiente enlace!
 
 [![Gioseppo 48912  Sandalias con Punta Abie](https://images-eu.ssl-images-amazon.com/images/I/51FTla3GVgL._SL200_.jpg)](https://www.amazon.es/dp/B07KRQMHWY/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07KRQMHWY/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07KRQMHWY/?tag=tolees-21)

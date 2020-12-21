@@ -19,11 +19,11 @@ descuento: '69.73'
 average: '7.25'
 ---
 
-Ahora mismo tienes [Joma Silver Camiseta de Juego Manga Corta  Hombre  Verde  L](https://www.amazon.es/dp/B06Y61FV1C/?tag=tolees-21) a 7.25 EUR (original: 23.95 EUR) (69.73 %  de descuento) en el siguiente enlace!
+Está [Joma Silver Camiseta de Juego Manga Corta  Hombre  Verde  L](https://www.amazon.es/dp/B06Y61FV1C/?tag=tolees-21) con 69.73 de descuento por 7.25 EUR (original: 23.95 EUR) en el siguiente enlace!
 
 [![Joma Silver Camiseta de Juego Manga Cort](https://images-eu.ssl-images-amazon.com/images/I/41fX2WIJ9VL._SL200_.jpg)](https://www.amazon.es/dp/B06Y61FV1C/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B06Y61FV1C/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B06Y61FV1C/?tag=tolees-21)

@@ -19,11 +19,11 @@ descuento: '68.69'
 average: '9.39'
 ---
 
-Ahora mismo tienes [Esprit 098ee1k031 Camisa Manga Larga   Black 001   Small para Mujer](https://www.amazon.es/dp/B07FH5F11H/?tag=tolees-21) a 9.39 EUR (original: 29.99 EUR) (68.69 %  de descuento) en el siguiente enlace!
+Está [Esprit 098ee1k031 Camisa Manga Larga   Black 001   Small para Mujer](https://www.amazon.es/dp/B07FH5F11H/?tag=tolees-21) con 68.69 de descuento por 9.39 EUR (original: 29.99 EUR) en el siguiente enlace!
 
 [![Esprit 098ee1k031 Camisa Manga Larga   B](https://images-eu.ssl-images-amazon.com/images/I/41GwCRtMw4L._SL200_.jpg)](https://www.amazon.es/dp/B07FH5F11H/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B07FH5F11H/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07FH5F11H/?tag=tolees-21)

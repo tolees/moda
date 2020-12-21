@@ -19,11 +19,11 @@ descuento: '71.59'
 average: '36.93'
 ---
 
-Ahora mismo tienes [New Balance W530  Botines para Mujer  Negro  Black/Diva Pink   40 EU](https://www.amazon.es/dp/B01M3V1QLQ/?tag=tolees-21) a 36.93 EUR (original: 130 EUR) (71.59 %  de descuento) en el siguiente enlace!
+Está [New Balance W530  Botines para Mujer  Negro  Black/Diva Pink   40 EU](https://www.amazon.es/dp/B01M3V1QLQ/?tag=tolees-21) con 71.59 de descuento por 36.93 EUR (original: 130 EUR) en el siguiente enlace!
 
 [![New Balance W530  Botines para Mujer  Ne](https://images-eu.ssl-images-amazon.com/images/I/51uqq9GCtQL._SL200_.jpg)](https://www.amazon.es/dp/B01M3V1QLQ/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B01M3V1QLQ/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B01M3V1QLQ/?tag=tolees-21)

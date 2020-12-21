@@ -19,11 +19,11 @@ descuento: '44.21'
 average: '39.05'
 ---
 
-Ahora mismo tienes [Nike Ebernon Low Prem  Zapatos de Baloncesto para Hombre  Verde  Neutral Olive/Cargo Khaki/Whit 200   42.5 EU](https://www.amazon.es/dp/B07DCJWQ61/?tag=tolees-21) a 39.05 EUR (original: 70 EUR) (44.21 %  de descuento) en el siguiente enlace!
+Está [Nike Ebernon Low Prem  Zapatos de Baloncesto para Hombre  Verde  Neutral Olive/Cargo Khaki/Whit 200   42.5 EU](https://www.amazon.es/dp/B07DCJWQ61/?tag=tolees-21) con 44.21 de descuento por 39.05 EUR (original: 70 EUR) en el siguiente enlace!
 
 [![Nike Ebernon Low Prem  Zapatos de Balonc](https://images-eu.ssl-images-amazon.com/images/I/41MCCMflXaL._SL200_.jpg)](https://www.amazon.es/dp/B07DCJWQ61/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B07DCJWQ61/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07DCJWQ61/?tag=tolees-21)

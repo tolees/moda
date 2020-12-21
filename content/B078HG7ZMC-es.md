@@ -19,11 +19,11 @@ descuento: '48.87'
 average: '13.8'
 ---
 
-Está [Springfield 6853439 Camisa   Gama Rosa/Morado    Tamaño del Fabricante:36  para Mujer](https://www.amazon.es/dp/B078HG7ZMC/?tag=tolees-21) con 48.87 de descuento por 13.8 EUR (original: 26.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Springfield 6853439 Camisa   Gama Rosa/Morado    Tamaño del Fabricante:36  para Mujer](https://www.amazon.es/dp/B078HG7ZMC/?tag=tolees-21) a 13.8 EUR (original: 26.99 EUR) (48.87 %  de descuento) en el siguiente enlace!
 
 [![Springfield 6853439 Camisa   Gama Rosa/M](https://images-eu.ssl-images-amazon.com/images/I/41dnphBqKUL._SL200_.jpg)](https://www.amazon.es/dp/B078HG7ZMC/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B078HG7ZMC/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B078HG7ZMC/?tag=tolees-21)

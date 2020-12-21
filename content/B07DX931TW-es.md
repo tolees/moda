@@ -19,11 +19,11 @@ descuento: '58.54'
 average: '14.49'
 ---
 
-Ahora mismo tienes [3 Pommes Dress  Vestido Bebé-Niñas  Marrón  Brown 67   18-24 Meses  Talla del Fabricante: 18/2Y ](https://www.amazon.es/dp/B07DX931TW/?tag=tolees-21) a 14.49 EUR (original: 34.95 EUR) (58.54 %  de descuento) en el siguiente enlace!
+Está [3 Pommes Dress  Vestido Bebé-Niñas  Marrón  Brown 67   18-24 Meses  Talla del Fabricante: 18/2Y ](https://www.amazon.es/dp/B07DX931TW/?tag=tolees-21) con 58.54 de descuento por 14.49 EUR (original: 34.95 EUR) en el siguiente enlace!
 
 [![3 Pommes Dress  Vestido Bebé-Niñas  Marr](https://images-eu.ssl-images-amazon.com/images/I/31bvtm%2Bk-QL._SL200_.jpg)](https://www.amazon.es/dp/B07DX931TW/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B07DX931TW/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07DX931TW/?tag=tolees-21)

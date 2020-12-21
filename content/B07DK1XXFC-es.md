@@ -19,11 +19,11 @@ descuento: '24.02'
 average: '45.55'
 ---
 
-Ahora mismo tienes [Adidas Trefoil Crew – Sudadera  Hombre  Rojo  Collegiate Red   XS](https://www.amazon.es/dp/B07DK1XXFC/?tag=tolees-21) a 45.55 EUR (original: 59.95 EUR) (24.02 %  de descuento) en el siguiente enlace!
+Está [Adidas Trefoil Crew – Sudadera  Hombre  Rojo  Collegiate Red   XS](https://www.amazon.es/dp/B07DK1XXFC/?tag=tolees-21) con 24.02 de descuento por 45.55 EUR (original: 59.95 EUR) en el siguiente enlace!
 
 [![Adidas Trefoil Crew – Sudadera  Hombre  ](https://images-eu.ssl-images-amazon.com/images/I/415F8dJn9LL._SL200_.jpg)](https://www.amazon.es/dp/B07DK1XXFC/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B07DK1XXFC/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07DK1XXFC/?tag=tolees-21)

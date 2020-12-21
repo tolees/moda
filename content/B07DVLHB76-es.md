@@ -19,11 +19,11 @@ descuento: '30.14'
 average: '24.45'
 ---
 
-Ahora mismo tienes [Levi s Slim 2 Pack Crew tee Camiseta   Fig Purple/Dress Blue 0027   Medium para Hombre](https://www.amazon.es/dp/B07DVLHB76/?tag=tolees-21) a 24.45 EUR (original: 35 EUR) (30.14 %  de descuento) en el siguiente enlace!
+Está [Levi s Slim 2 Pack Crew tee Camiseta   Fig Purple/Dress Blue 0027   Medium para Hombre](https://www.amazon.es/dp/B07DVLHB76/?tag=tolees-21) con 30.14 de descuento por 24.45 EUR (original: 35 EUR) en el siguiente enlace!
 
 [![Levi s Slim 2 Pack Crew tee Camiseta   F](https://images-eu.ssl-images-amazon.com/images/I/316a9uGV97L._SL200_.jpg)](https://www.amazon.es/dp/B07DVLHB76/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B07DVLHB76/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07DVLHB76/?tag=tolees-21)

@@ -19,11 +19,11 @@ descuento: '66.41'
 average: '36.91'
 ---
 
-Ahora mismo tienes [Geox U Vinto A  Zapatillas para Hombre  Azul  Navy   46 EU](https://www.amazon.es/dp/B074KM6ZXX/?tag=tolees-21) a 36.91 EUR (original: 109.9 EUR) (66.41 %  de descuento) en el siguiente enlace!
+Está [Geox U Vinto A  Zapatillas para Hombre  Azul  Navy   46 EU](https://www.amazon.es/dp/B074KM6ZXX/?tag=tolees-21) con 66.41 de descuento por 36.91 EUR (original: 109.9 EUR) en el siguiente enlace!
 
 [![Geox U Vinto A  Zapatillas para Hombre  ](https://images-eu.ssl-images-amazon.com/images/I/41mmzcBNGwL._SL200_.jpg)](https://www.amazon.es/dp/B074KM6ZXX/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B074KM6ZXX/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B074KM6ZXX/?tag=tolees-21)

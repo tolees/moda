@@ -19,11 +19,11 @@ descuento: '50.03'
 average: '49.95'
 ---
 
-Ahora mismo tienes [Lee Scarlett Cropped  Vaqueros Skinny para Mujer  Azul  Urban Mid Ut  W30/L31](https://www.amazon.es/dp/B07BQ1NZYQ/?tag=tolees-21) a 49.95 EUR (original: 99.95 EUR) (50.03 %  de descuento) en el siguiente enlace!
+Está [Lee Scarlett Cropped  Vaqueros Skinny para Mujer  Azul  Urban Mid Ut  W30/L31](https://www.amazon.es/dp/B07BQ1NZYQ/?tag=tolees-21) con 50.03 de descuento por 49.95 EUR (original: 99.95 EUR) en el siguiente enlace!
 
 [![Lee Scarlett Cropped  Vaqueros Skinny pa](https://images-eu.ssl-images-amazon.com/images/I/41HyXqNSZkL._SL200_.jpg)](https://www.amazon.es/dp/B07BQ1NZYQ/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B07BQ1NZYQ/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07BQ1NZYQ/?tag=tolees-21)

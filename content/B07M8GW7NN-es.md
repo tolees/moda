@@ -19,11 +19,11 @@ descuento: '53.50'
 average: '13.95'
 ---
 
-Está [The North Face S/S tee Camiseta Celebration  Hombre  Negro  TNF Black   S](https://www.amazon.es/dp/B07M8GW7NN/?tag=tolees-21) con 53.50 de descuento por 13.95 EUR (original: 30 EUR) en el siguiente enlace!
+Ahora mismo tienes [The North Face S/S tee Camiseta Celebration  Hombre  Negro  TNF Black   S](https://www.amazon.es/dp/B07M8GW7NN/?tag=tolees-21) a 13.95 EUR (original: 30 EUR) (53.50 %  de descuento) en el siguiente enlace!
 
 [![The North Face S/S tee Camiseta Celebrat](https://images-eu.ssl-images-amazon.com/images/I/411JxF1d3cL._SL200_.jpg)](https://www.amazon.es/dp/B07M8GW7NN/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07M8GW7NN/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07M8GW7NN/?tag=tolees-21)

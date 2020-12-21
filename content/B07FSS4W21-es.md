@@ -19,11 +19,11 @@ descuento: '83.05'
 average: '10.16'
 ---
 
-Ahora mismo tienes [Lee One Pocket Shirt  Camiseta Mujer  Marfil  Faded Pink EA   M](https://www.amazon.es/dp/B07FSS4W21/?tag=tolees-21) a 10.16 EUR (original: 59.95 EUR) (83.05 %  de descuento) en el siguiente enlace!
+Está [Lee One Pocket Shirt  Camiseta Mujer  Marfil  Faded Pink EA   M](https://www.amazon.es/dp/B07FSS4W21/?tag=tolees-21) con 83.05 de descuento por 10.16 EUR (original: 59.95 EUR) en el siguiente enlace!
 
 [![Lee One Pocket Shirt  Camiseta Mujer  Ma](https://images-eu.ssl-images-amazon.com/images/I/41ZBCHRVXvL._SL200_.jpg)](https://www.amazon.es/dp/B07FSS4W21/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B07FSS4W21/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07FSS4W21/?tag=tolees-21)

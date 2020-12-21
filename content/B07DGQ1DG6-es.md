@@ -19,11 +19,11 @@ descuento: '38.94'
 average: '54.95'
 ---
 
-Ahora mismo tienes [Timberland Davis Square 6 Inch  Botas Clasicas Unisex-Niño  Amarillo  Wheat   40 EU](https://www.amazon.es/dp/B07DGQ1DG6/?tag=tolees-21) a 54.95 EUR (original: 90 EUR) (38.94 %  de descuento) en el siguiente enlace!
+Está [Timberland Davis Square 6 Inch  Botas Clasicas Unisex-Niño  Amarillo  Wheat   40 EU](https://www.amazon.es/dp/B07DGQ1DG6/?tag=tolees-21) con 38.94 de descuento por 54.95 EUR (original: 90 EUR) en el siguiente enlace!
 
 [![Timberland Davis Square 6 Inch  Botas Cl](https://images-eu.ssl-images-amazon.com/images/I/41gX76t4GeL._SL200_.jpg)](https://www.amazon.es/dp/B07DGQ1DG6/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B07DGQ1DG6/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07DGQ1DG6/?tag=tolees-21)

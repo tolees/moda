@@ -19,11 +19,11 @@ descuento: '46.70'
 average: '15.99'
 ---
 
-Está [Hurley - Camiseta para hombre  Negro  M  High Bars Prm Tee Ss](https://www.amazon.es/dp/B07KCWNGYB/?tag=tolees-21) con 46.70 de descuento por 15.99 EUR (original: 30 EUR) en el siguiente enlace!
+Ahora mismo tienes [Hurley - Camiseta para hombre  Negro  M  High Bars Prm Tee Ss](https://www.amazon.es/dp/B07KCWNGYB/?tag=tolees-21) a 15.99 EUR (original: 30 EUR) (46.70 %  de descuento) en el siguiente enlace!
 
 [![Hurley - Camiseta para hombre  Negro  M ](https://images-eu.ssl-images-amazon.com/images/I/415AMXOONoL._SL200_.jpg)](https://www.amazon.es/dp/B07KCWNGYB/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07KCWNGYB/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07KCWNGYB/?tag=tolees-21)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 73.34 % en edc by Esprit 037cc1f009  Blusa Mujer  A'
+title: 'edc by Esprit 037cc1f009  Blusa Mujer  A al 73.34 % de descuento'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41BZE9YNBEL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '73.34'
 average: '10.66'
 ---
 
-Tienes [edc by Esprit 037cc1f009  Blusa Mujer  Azul  Pastel Blue   36  Talla del Fabricante: Small ](https://www.amazon.es/dp/B01MR92ARO/?tag=tolees-21) con un 73.34 % de descuento con precio de oferta de 10.66 EUR (original: 39.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [edc by Esprit 037cc1f009  Blusa Mujer  Azul  Pastel Blue   36  Talla del Fabricante: Small ](https://www.amazon.es/dp/B01MR92ARO/?tag=tolees-21) a 10.66 EUR (original: 39.99 EUR) (73.34 %  de descuento) en el siguiente enlace!
 
 [![edc by Esprit 037cc1f009  Blusa Mujer  A](https://images-eu.ssl-images-amazon.com/images/I/41BZE9YNBEL._SL200_.jpg)](https://www.amazon.es/dp/B01MR92ARO/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Accede a la oferta!!](https://www.amazon.es/dp/B01MR92ARO/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B01MR92ARO/?tag=tolees-21)

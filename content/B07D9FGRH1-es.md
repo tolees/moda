@@ -19,11 +19,11 @@ descuento: '30.12'
 average: '69.88'
 ---
 
-Ahora mismo tienes [Levi s 501 Original Vaqueros  Azul  Sponge St 2698  W40/L32 para Hombre](https://www.amazon.es/dp/B07D9FGRH1/?tag=tolees-21) a 69.88 EUR (original: 100 EUR) (30.12 %  de descuento) en el siguiente enlace!
+Está [Levi s 501 Original Vaqueros  Azul  Sponge St 2698  W40/L32 para Hombre](https://www.amazon.es/dp/B07D9FGRH1/?tag=tolees-21) con 30.12 de descuento por 69.88 EUR (original: 100 EUR) en el siguiente enlace!
 
 [![Levi s 501 Original Vaqueros  Azul  Spon](https://images-eu.ssl-images-amazon.com/images/I/41FG3i1Uz0L._SL200_.jpg)](https://www.amazon.es/dp/B07D9FGRH1/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B07D9FGRH1/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07D9FGRH1/?tag=tolees-21)

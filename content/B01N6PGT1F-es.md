@@ -19,11 +19,11 @@ descuento: '56.37'
 average: '36.65'
 ---
 
-Ahora mismo tienes [Geographical Norway Pantalón Deporte Doudoune Negro 2XL](https://www.amazon.es/dp/B01N6PGT1F/?tag=tolees-21) a 36.65 EUR (original: 84 EUR) (56.37 %  de descuento) en el siguiente enlace!
+Está [Geographical Norway Pantalón Deporte Doudoune Negro 2XL](https://www.amazon.es/dp/B01N6PGT1F/?tag=tolees-21) con 56.37 de descuento por 36.65 EUR (original: 84 EUR) en el siguiente enlace!
 
 [![Geographical Norway Pantalón Deporte Dou](https://images-eu.ssl-images-amazon.com/images/I/41bzSHGViJL._SL200_.jpg)](https://www.amazon.es/dp/B01N6PGT1F/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B01N6PGT1F/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B01N6PGT1F/?tag=tolees-21)

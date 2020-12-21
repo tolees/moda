@@ -19,11 +19,11 @@ descuento: '30.00'
 average: '35'
 ---
 
-Ahora mismo tienes [FIND Croc Embellished Leather Botines  Negro Black  40 EU](https://www.amazon.es/dp/B07G1DXPKN/?tag=tolees-21) a 35 EUR (original: 50 EUR) (30.00 %  de descuento) en el siguiente enlace!
+Está [FIND Croc Embellished Leather Botines  Negro Black  40 EU](https://www.amazon.es/dp/B07G1DXPKN/?tag=tolees-21) con 30.00 de descuento por 35 EUR (original: 50 EUR) en el siguiente enlace!
 
 [![FIND Croc Embellished Leather Botines  N](https://images-eu.ssl-images-amazon.com/images/I/31yZl%2BbuJ1L._SL200_.jpg)](https://www.amazon.es/dp/B07G1DXPKN/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B07G1DXPKN/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07G1DXPKN/?tag=tolees-21)

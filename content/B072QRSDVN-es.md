@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 50.24 % en Lee Logo tee  Camiseta para Mujer  Negro'
+title: 'Lee Logo tee  Camiseta para Mujer  Negro al 50.24 % de descuento'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41tnzNB38WL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '50.24'
 average: '12.44'
 ---
 
-Tienes [Lee Logo tee  Camiseta para Mujer  Negro  Black 01  Large](https://www.amazon.es/dp/B072QRSDVN/?tag=tolees-21) con un 50.24 % de descuento con precio de oferta de 12.44 EUR (original: 25 EUR) en el siguiente enlace!
+Ahora mismo tienes [Lee Logo tee  Camiseta para Mujer  Negro  Black 01  Large](https://www.amazon.es/dp/B072QRSDVN/?tag=tolees-21) a 12.44 EUR (original: 25 EUR) (50.24 %  de descuento) en el siguiente enlace!
 
 [![Lee Logo tee  Camiseta para Mujer  Negro](https://images-eu.ssl-images-amazon.com/images/I/41tnzNB38WL._SL200_.jpg)](https://www.amazon.es/dp/B072QRSDVN/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Accede a la oferta!!](https://www.amazon.es/dp/B072QRSDVN/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B072QRSDVN/?tag=tolees-21)

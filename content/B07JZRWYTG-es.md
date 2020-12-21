@@ -19,11 +19,11 @@ descuento: '49.10'
 average: '26.95'
 ---
 
-Está [Ellesse Hombre Sudadera con Capucha y Cremallera de Carlint  Negro  Small](https://www.amazon.es/dp/B07JZRWYTG/?tag=tolees-21) con 49.10 de descuento por 26.95 EUR (original: 52.95 EUR) en el siguiente enlace!
+Ahora mismo tienes [Ellesse Hombre Sudadera con Capucha y Cremallera de Carlint  Negro  Small](https://www.amazon.es/dp/B07JZRWYTG/?tag=tolees-21) a 26.95 EUR (original: 52.95 EUR) (49.10 %  de descuento) en el siguiente enlace!
 
 [![Ellesse Hombre Sudadera con Capucha y Cr](https://images-eu.ssl-images-amazon.com/images/I/31QLAj%2BtOXL._SL200_.jpg)](https://www.amazon.es/dp/B07JZRWYTG/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07JZRWYTG/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07JZRWYTG/?tag=tolees-21)

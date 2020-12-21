@@ -19,11 +19,11 @@ descuento: '20.00'
 average: '18.4'
 ---
 
-Está [find. Printed Rib Vestido  Negro  Black   40  Talla del Fabricante: Medium ](https://www.amazon.es/dp/B07B5CGXH7/?tag=tolees-21) con 20.00 de descuento por 18.4 EUR (original: 23 EUR) en el siguiente enlace!
+Ahora mismo tienes [find. Printed Rib Vestido  Negro  Black   40  Talla del Fabricante: Medium ](https://www.amazon.es/dp/B07B5CGXH7/?tag=tolees-21) a 18.4 EUR (original: 23 EUR) (20.00 %  de descuento) en el siguiente enlace!
 
 [![find. Printed Rib Vestido  Negro  Black ](https://images-eu.ssl-images-amazon.com/images/I/41l90v0RUZL._SL200_.jpg)](https://www.amazon.es/dp/B07B5CGXH7/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07B5CGXH7/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07B5CGXH7/?tag=tolees-21)

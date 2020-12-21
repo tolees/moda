@@ -19,11 +19,11 @@ descuento: '68.01'
 average: '25.58'
 ---
 
-Ahora mismo tienes [Mustang Kurzschaftstiefel  Botines para Mujer  Gris  Dunkelgrau 20   41 EU](https://www.amazon.es/dp/B07DB1JWFF/?tag=tolees-21) a 25.58 EUR (original: 79.95 EUR) (68.01 %  de descuento) en el siguiente enlace!
+Está [Mustang Kurzschaftstiefel  Botines para Mujer  Gris  Dunkelgrau 20   41 EU](https://www.amazon.es/dp/B07DB1JWFF/?tag=tolees-21) con 68.01 de descuento por 25.58 EUR (original: 79.95 EUR) en el siguiente enlace!
 
 [![Mustang Kurzschaftstiefel  Botines para ](https://images-eu.ssl-images-amazon.com/images/I/414f-Xw0MiL._SL200_.jpg)](https://www.amazon.es/dp/B07DB1JWFF/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B07DB1JWFF/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07DB1JWFF/?tag=tolees-21)

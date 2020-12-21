@@ -19,11 +19,11 @@ descuento: '30.00'
 average: '15.4'
 ---
 
-Ahora mismo tienes [AURIQUE Side Stripe Yoga Leggings Azul  Dress Blue  40  Talla del Fabricante: Medium ](https://www.amazon.es/dp/B07L46FTJL/?tag=tolees-21) a 15.4 EUR (original: 22 EUR) (30.00 %  de descuento) en el siguiente enlace!
+Está [AURIQUE Side Stripe Yoga Leggings Azul  Dress Blue  40  Talla del Fabricante: Medium ](https://www.amazon.es/dp/B07L46FTJL/?tag=tolees-21) con 30.00 de descuento por 15.4 EUR (original: 22 EUR) en el siguiente enlace!
 
 [![AURIQUE Side Stripe Yoga Leggings Azul  ](https://images-eu.ssl-images-amazon.com/images/I/31zMG0FYtrL._SL200_.jpg)](https://www.amazon.es/dp/B07L46FTJL/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B07L46FTJL/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07L46FTJL/?tag=tolees-21)

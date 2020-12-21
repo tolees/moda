@@ -19,11 +19,11 @@ descuento: '59.63'
 average: '14.13'
 ---
 
-Ahora mismo tienes [Pepe Jeans Joris Camiseta    Off White 803   X-Large para Hombre](https://www.amazon.es/dp/B07CS8RP56/?tag=tolees-21) a 14.13 EUR (original: 35 EUR) (59.63 %  de descuento) en el siguiente enlace!
+Está [Pepe Jeans Joris Camiseta    Off White 803   X-Large para Hombre](https://www.amazon.es/dp/B07CS8RP56/?tag=tolees-21) con 59.63 de descuento por 14.13 EUR (original: 35 EUR) en el siguiente enlace!
 
 [![Pepe Jeans Joris Camiseta    Off White 8](https://images-eu.ssl-images-amazon.com/images/I/31vnWQycWyL._SL200_.jpg)](https://www.amazon.es/dp/B07CS8RP56/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B07CS8RP56/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07CS8RP56/?tag=tolees-21)

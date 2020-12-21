@@ -19,11 +19,11 @@ descuento: '19.79'
 average: '18.44'
 ---
 
-Ahora mismo tienes [Springfield 8953570 Vestido  Azul Marino  Medium  Tamaño del Fabricante:M  para Mujer](https://www.amazon.es/dp/B078HH5P6X/?tag=tolees-21) a 18.44 EUR (original: 22.99 EUR) (19.79 %  de descuento) en el siguiente enlace!
+Está [Springfield 8953570 Vestido  Azul Marino  Medium  Tamaño del Fabricante:M  para Mujer](https://www.amazon.es/dp/B078HH5P6X/?tag=tolees-21) con 19.79 de descuento por 18.44 EUR (original: 22.99 EUR) en el siguiente enlace!
 
 [![Springfield 8953570 Vestido  Azul Marino](https://images-eu.ssl-images-amazon.com/images/I/41c4DTAKTBL._SL200_.jpg)](https://www.amazon.es/dp/B078HH5P6X/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B078HH5P6X/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B078HH5P6X/?tag=tolees-21)

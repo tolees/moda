@@ -19,11 +19,11 @@ descuento: '78.94'
 average: '10.53'
 ---
 
-Está [ONLY 15136161  Parka Para Mujer  Verde  Peat Peat   42  Talla del fabricante: X-Large ](https://www.amazon.es/dp/B071JF2ZKD/?tag=tolees-21) con 78.94 de descuento por 10.53 EUR (original: 49.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [ONLY 15136161  Parka Para Mujer  Verde  Peat Peat   42  Talla del fabricante: X-Large ](https://www.amazon.es/dp/B071JF2ZKD/?tag=tolees-21) a 10.53 EUR (original: 49.99 EUR) (78.94 %  de descuento) en el siguiente enlace!
 
 [![ONLY 15136161  Parka Para Mujer  Verde  ](https://images-eu.ssl-images-amazon.com/images/I/41QJvoksELL._SL200_.jpg)](https://www.amazon.es/dp/B071JF2ZKD/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B071JF2ZKD/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B071JF2ZKD/?tag=tolees-21)

@@ -19,11 +19,11 @@ descuento: '76.29'
 average: '16.36'
 ---
 
-Está [Call It Spring EU Fenallan  Botines para Mujer  Negro  Jet Black 001   38 EU](https://www.amazon.es/dp/B07DNKWDCZ/?tag=tolees-21) con 76.29 de descuento por 16.36 EUR (original: 69 EUR) en el siguiente enlace!
+Ahora mismo tienes [Call It Spring EU Fenallan  Botines para Mujer  Negro  Jet Black 001   38 EU](https://www.amazon.es/dp/B07DNKWDCZ/?tag=tolees-21) a 16.36 EUR (original: 69 EUR) (76.29 %  de descuento) en el siguiente enlace!
 
 [![Call It Spring EU Fenallan  Botines para](https://images-eu.ssl-images-amazon.com/images/I/41sXr4Gb6HL._SL200_.jpg)](https://www.amazon.es/dp/B07DNKWDCZ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07DNKWDCZ/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07DNKWDCZ/?tag=tolees-21)

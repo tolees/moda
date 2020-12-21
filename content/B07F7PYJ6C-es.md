@@ -19,11 +19,11 @@ descuento: '50.18'
 average: '139'
 ---
 
-Ahora mismo tienes [Tommy Hilfiger Alana Down Parka  Mujer  Verde  Olive Night 302  Medium](https://www.amazon.es/dp/B07F7PYJ6C/?tag=tolees-21) a 139 EUR (original: 279 EUR) (50.18 %  de descuento) en el siguiente enlace!
+Está [Tommy Hilfiger Alana Down Parka  Mujer  Verde  Olive Night 302  Medium](https://www.amazon.es/dp/B07F7PYJ6C/?tag=tolees-21) con 50.18 de descuento por 139 EUR (original: 279 EUR) en el siguiente enlace!
 
 [![Tommy Hilfiger Alana Down Parka  Mujer  ](https://images-eu.ssl-images-amazon.com/images/I/41AWr-iC%2BhL._SL200_.jpg)](https://www.amazon.es/dp/B07F7PYJ6C/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B07F7PYJ6C/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07F7PYJ6C/?tag=tolees-21)

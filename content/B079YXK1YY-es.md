@@ -19,11 +19,11 @@ descuento: '46.20'
 average: '13.45'
 ---
 
-Ahora mismo tienes [BILLABONG Guardiant tee LS Camiseta de Manga Larga  Hombre  Negro  Black 19   Small  Tamaño del Fabricante:S ](https://www.amazon.es/dp/B079YXK1YY/?tag=tolees-21) a 13.45 EUR (original: 25 EUR) (46.20 %  de descuento) en el siguiente enlace!
+Está [BILLABONG Guardiant tee LS Camiseta de Manga Larga  Hombre  Negro  Black 19   Small  Tamaño del Fabricante:S ](https://www.amazon.es/dp/B079YXK1YY/?tag=tolees-21) con 46.20 de descuento por 13.45 EUR (original: 25 EUR) en el siguiente enlace!
 
 [![BILLABONG Guardiant tee LS Camiseta de M](https://images-eu.ssl-images-amazon.com/images/I/41bVeA5ZX6L._SL200_.jpg)](https://www.amazon.es/dp/B079YXK1YY/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B079YXK1YY/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B079YXK1YY/?tag=tolees-21)

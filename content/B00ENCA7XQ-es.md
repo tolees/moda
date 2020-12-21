@@ -19,11 +19,11 @@ descuento: '78.13'
 average: '17.48'
 ---
 
-Está [Selected - Chaqueta de Traje de Manga 3/4 para Mujer  Color Blanco  Talla 40](https://www.amazon.es/dp/B00ENCA7XQ/?tag=tolees-21) con 78.13 de descuento por 17.48 EUR (original: 79.94 EUR) en el siguiente enlace!
+Ahora mismo tienes [Selected - Chaqueta de Traje de Manga 3/4 para Mujer  Color Blanco  Talla 40](https://www.amazon.es/dp/B00ENCA7XQ/?tag=tolees-21) a 17.48 EUR (original: 79.94 EUR) (78.13 %  de descuento) en el siguiente enlace!
 
 [![Selected - Chaqueta de Traje de Manga 3/](https://images-eu.ssl-images-amazon.com/images/I/310vNUQISNL._SL200_.jpg)](https://www.amazon.es/dp/B00ENCA7XQ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B00ENCA7XQ/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B00ENCA7XQ/?tag=tolees-21)

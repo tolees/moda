@@ -19,11 +19,11 @@ descuento: '32.80'
 average: '47.04'
 ---
 
-Ahora mismo tienes [The North Face Drew Peak Crew Light Sudadera Ligera  Hombre  TNF White  S](https://www.amazon.es/dp/B07LH1PQPH/?tag=tolees-21) a 47.04 EUR (original: 70 EUR) (32.80 %  de descuento) en el siguiente enlace!
+Está [The North Face Drew Peak Crew Light Sudadera Ligera  Hombre  TNF White  S](https://www.amazon.es/dp/B07LH1PQPH/?tag=tolees-21) con 32.80 de descuento por 47.04 EUR (original: 70 EUR) en el siguiente enlace!
 
 [![The North Face Drew Peak Crew Light Suda](https://images-eu.ssl-images-amazon.com/images/I/31EaES2-M8L._SL200_.jpg)](https://www.amazon.es/dp/B07LH1PQPH/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B07LH1PQPH/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07LH1PQPH/?tag=tolees-21)

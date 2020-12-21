@@ -19,11 +19,11 @@ descuento: '77.49'
 average: '4.95'
 ---
 
-Ahora mismo tienes [Vero Moda Vmlolly LS V-Neck Blouse Boo suéter  Gris  Gray Violet Detail: Silver Lurex   40  Talla del Fabricante: Medium  para Mujer](https://www.amazon.es/dp/B07FNQMZ1M/?tag=tolees-21) a 4.95 EUR (original: 21.99 EUR) (77.49 %  de descuento) en el siguiente enlace!
+Está [Vero Moda Vmlolly LS V-Neck Blouse Boo suéter  Gris  Gray Violet Detail: Silver Lurex   40  Talla del Fabricante: Medium  para Mujer](https://www.amazon.es/dp/B07FNQMZ1M/?tag=tolees-21) con 77.49 de descuento por 4.95 EUR (original: 21.99 EUR) en el siguiente enlace!
 
 [![Vero Moda Vmlolly LS V-Neck Blouse Boo s](https://images-eu.ssl-images-amazon.com/images/I/41be4nV-W2L._SL200_.jpg)](https://www.amazon.es/dp/B07FNQMZ1M/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B07FNQMZ1M/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07FNQMZ1M/?tag=tolees-21)

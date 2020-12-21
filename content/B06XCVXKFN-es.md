@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 60.63 % en Cortefiel 6717381  Vestido para Mujer  A'
+title: 'Cortefiel 6717381  Vestido para Mujer  A al 60.63 % de descuento'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41s3RNXHWOL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '60.63'
 average: '19.68'
 ---
 
-Tienes [Cortefiel 6717381  Vestido para Mujer  Azul  L](https://www.amazon.es/dp/B06XCVXKFN/?tag=tolees-21) con un 60.63 % de descuento con precio de oferta de 19.68 EUR (original: 49.99 EUR) en el siguiente enlace!
+Está [Cortefiel 6717381  Vestido para Mujer  Azul  L](https://www.amazon.es/dp/B06XCVXKFN/?tag=tolees-21) con 60.63 de descuento por 19.68 EUR (original: 49.99 EUR) en el siguiente enlace!
 
 [![Cortefiel 6717381  Vestido para Mujer  A](https://images-eu.ssl-images-amazon.com/images/I/41s3RNXHWOL._SL200_.jpg)](https://www.amazon.es/dp/B06XCVXKFN/?tag=tolees-21)
 
 ℹ️:
 
 
-[Accede a la oferta!!](https://www.amazon.es/dp/B06XCVXKFN/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B06XCVXKFN/?tag=tolees-21)

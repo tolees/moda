@@ -19,11 +19,11 @@ descuento: '50.00'
 average: '15'
 ---
 
-Está [REPLAY M3594 .000.2660  Camiseta para Hombre  Blanco  White 1  Small](https://www.amazon.es/dp/B07CD9JG42/?tag=tolees-21) con 50.00 de descuento por 15 EUR (original: 30 EUR) en el siguiente enlace!
+Ahora mismo tienes [REPLAY M3594 .000.2660  Camiseta para Hombre  Blanco  White 1  Small](https://www.amazon.es/dp/B07CD9JG42/?tag=tolees-21) a 15 EUR (original: 30 EUR) (50.00 %  de descuento) en el siguiente enlace!
 
 [![REPLAY M3594 .000.2660  Camiseta para Ho](https://images-eu.ssl-images-amazon.com/images/I/31OUwI1JCpL._SL200_.jpg)](https://www.amazon.es/dp/B07CD9JG42/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07CD9JG42/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07CD9JG42/?tag=tolees-21)

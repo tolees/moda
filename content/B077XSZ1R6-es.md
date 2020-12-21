@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 47.23 % en Under Armour Graphic Classic Crew - Cami'
+title: 'Under Armour Graphic Classic Crew - Cami al 47.23 % de descuento'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41F6-lgWveL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '47.23'
 average: '13.72'
 ---
 
-Tienes [Under Armour Graphic Classic Crew - Camiseta de Manga Corta para Mujer  Mujer  1321146-100  White/Pixel Purple  Medium](https://www.amazon.es/dp/B077XSZ1R6/?tag=tolees-21) con un 47.23 % de descuento con precio de oferta de 13.72 EUR (original: 26 EUR) en el siguiente enlace!
+Está [Under Armour Graphic Classic Crew - Camiseta de Manga Corta para Mujer  Mujer  1321146-100  White/Pixel Purple  Medium](https://www.amazon.es/dp/B077XSZ1R6/?tag=tolees-21) con 47.23 de descuento por 13.72 EUR (original: 26 EUR) en el siguiente enlace!
 
 [![Under Armour Graphic Classic Crew - Cami](https://images-eu.ssl-images-amazon.com/images/I/41F6-lgWveL._SL200_.jpg)](https://www.amazon.es/dp/B077XSZ1R6/?tag=tolees-21)
 
 ℹ️:
 
 
-[Accede a la oferta!!](https://www.amazon.es/dp/B077XSZ1R6/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B077XSZ1R6/?tag=tolees-21)

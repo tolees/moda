@@ -19,11 +19,11 @@ descuento: '65.79'
 average: '23.93'
 ---
 
-Ahora mismo tienes [G-STAR RAW Core Super Slim Shirt L\\s  Camisa Hombre  Rojo  Bright Russet 9819   XX-Large](https://www.amazon.es/dp/B07CZH1NNP/?tag=tolees-21) a 23.93 EUR (original: 69.95 EUR) (65.79 %  de descuento) en el siguiente enlace!
+Está [G-STAR RAW Core Super Slim Shirt L\\s  Camisa Hombre  Rojo  Bright Russet 9819   XX-Large](https://www.amazon.es/dp/B07CZH1NNP/?tag=tolees-21) con 65.79 de descuento por 23.93 EUR (original: 69.95 EUR) en el siguiente enlace!
 
 [![G-STAR RAW Core Super Slim Shirt L\\s  C](https://images-eu.ssl-images-amazon.com/images/I/41aSolpVFAL._SL200_.jpg)](https://www.amazon.es/dp/B07CZH1NNP/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B07CZH1NNP/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07CZH1NNP/?tag=tolees-21)

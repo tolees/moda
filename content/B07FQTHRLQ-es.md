@@ -19,11 +19,11 @@ descuento: '18.11'
 average: '57.28'
 ---
 
-Está [Clarks Leisa Brody  Sandalias de Talón Abierto para Mujer  Negro  Black-   41 EU](https://www.amazon.es/dp/B07FQTHRLQ/?tag=tolees-21) con 18.11 de descuento por 57.28 EUR (original: 69.95 EUR) en el siguiente enlace!
+Ahora mismo tienes [Clarks Leisa Brody  Sandalias de Talón Abierto para Mujer  Negro  Black-   41 EU](https://www.amazon.es/dp/B07FQTHRLQ/?tag=tolees-21) a 57.28 EUR (original: 69.95 EUR) (18.11 %  de descuento) en el siguiente enlace!
 
 [![Clarks Leisa Brody  Sandalias de Talón A](https://images-eu.ssl-images-amazon.com/images/I/314iEvemjJL._SL200_.jpg)](https://www.amazon.es/dp/B07FQTHRLQ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07FQTHRLQ/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07FQTHRLQ/?tag=tolees-21)

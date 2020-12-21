@@ -19,11 +19,11 @@ descuento: '20.00'
 average: '39.99'
 ---
 
-Ahora mismo tienes [Columbia Canyon Chaqueta Softshell  Unisex niños  Rosa  Haute Pink Heather   S](https://www.amazon.es/dp/B07KSPD1BW/?tag=tolees-21) a 39.99 EUR (original: 49.99 EUR) (20.00 %  de descuento) en el siguiente enlace!
+Está [Columbia Canyon Chaqueta Softshell  Unisex niños  Rosa  Haute Pink Heather   S](https://www.amazon.es/dp/B07KSPD1BW/?tag=tolees-21) con 20.00 de descuento por 39.99 EUR (original: 49.99 EUR) en el siguiente enlace!
 
 [![Columbia Canyon Chaqueta Softshell  Unis](https://images-eu.ssl-images-amazon.com/images/I/41-BtjvsfWL._SL200_.jpg)](https://www.amazon.es/dp/B07KSPD1BW/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B07KSPD1BW/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07KSPD1BW/?tag=tolees-21)

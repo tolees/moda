@@ -19,11 +19,11 @@ descuento: '29.01'
 average: '56.79'
 ---
 
-Ahora mismo tienes [Diadora B. Elite  Sandalias con Plataforma Unisex Adulto  Blanco Ottico/Bianco Cand C4701  42 EU](https://www.amazon.es/dp/B01CJH97J6/?tag=tolees-21) a 56.79 EUR (original: 80 EUR) (29.01 %  de descuento) en el siguiente enlace!
+Está [Diadora B. Elite  Sandalias con Plataforma Unisex Adulto  Blanco Ottico/Bianco Cand C4701  42 EU](https://www.amazon.es/dp/B01CJH97J6/?tag=tolees-21) con 29.01 de descuento por 56.79 EUR (original: 80 EUR) en el siguiente enlace!
 
 [![Diadora B. Elite  Sandalias con Platafor](https://images-eu.ssl-images-amazon.com/images/I/41F6WWqEb4L._SL200_.jpg)](https://www.amazon.es/dp/B01CJH97J6/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B01CJH97J6/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B01CJH97J6/?tag=tolees-21)

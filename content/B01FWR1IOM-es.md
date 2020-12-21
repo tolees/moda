@@ -19,11 +19,11 @@ descuento: '60.31'
 average: '10.32'
 ---
 
-Ahora mismo tienes [Under Armour UA Stunt Short Pantalón Corto  Niños  Negro  001   XL](https://www.amazon.es/dp/B01FWR1IOM/?tag=tolees-21) a 10.32 EUR (original: 26 EUR) (60.31 %  de descuento) en el siguiente enlace!
+Está [Under Armour UA Stunt Short Pantalón Corto  Niños  Negro  001   XL](https://www.amazon.es/dp/B01FWR1IOM/?tag=tolees-21) con 60.31 de descuento por 10.32 EUR (original: 26 EUR) en el siguiente enlace!
 
 [![Under Armour UA Stunt Short Pantalón Cor](https://images-eu.ssl-images-amazon.com/images/I/51n3ocoFrIL._SL200_.jpg)](https://www.amazon.es/dp/B01FWR1IOM/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B01FWR1IOM/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B01FWR1IOM/?tag=tolees-21)

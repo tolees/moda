@@ -19,11 +19,11 @@ descuento: '62.19'
 average: '15.12'
 ---
 
-Ahora mismo tienes [Only Onlreverse L/s Hood No Raw Edge Swt  Sudadera para Mujer  Negro  Black Detail:Black Lurex   38  Talla del Fabricante: Medium ](https://www.amazon.es/dp/B074L6VZZV/?tag=tolees-21) a 15.12 EUR (original: 39.99 EUR) (62.19 %  de descuento) en el siguiente enlace!
+Está [Only Onlreverse L/s Hood No Raw Edge Swt  Sudadera para Mujer  Negro  Black Detail:Black Lurex   38  Talla del Fabricante: Medium ](https://www.amazon.es/dp/B074L6VZZV/?tag=tolees-21) con 62.19 de descuento por 15.12 EUR (original: 39.99 EUR) en el siguiente enlace!
 
 [![Only Onlreverse L/s Hood No Raw Edge Swt](https://images-eu.ssl-images-amazon.com/images/I/41DJSENA0TL._SL200_.jpg)](https://www.amazon.es/dp/B074L6VZZV/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B074L6VZZV/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B074L6VZZV/?tag=tolees-21)

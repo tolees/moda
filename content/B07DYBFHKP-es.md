@@ -19,11 +19,11 @@ descuento: '50.23'
 average: '9.95'
 ---
 
-Está [Roxy Costas  Zapatos de Playa y Piscina para Mujer  Azul  Navy Nvy   40 EU](https://www.amazon.es/dp/B07DYBFHKP/?tag=tolees-21) con 50.23 de descuento por 9.95 EUR (original: 19.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Roxy Costas  Zapatos de Playa y Piscina para Mujer  Azul  Navy Nvy   40 EU](https://www.amazon.es/dp/B07DYBFHKP/?tag=tolees-21) a 9.95 EUR (original: 19.99 EUR) (50.23 %  de descuento) en el siguiente enlace!
 
 [![Roxy Costas  Zapatos de Playa y Piscina ](https://images-eu.ssl-images-amazon.com/images/I/41H4Tu6WHCL._SL200_.jpg)](https://www.amazon.es/dp/B07DYBFHKP/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07DYBFHKP/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07DYBFHKP/?tag=tolees-21)

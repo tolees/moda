@@ -19,11 +19,11 @@ descuento: '34.20'
 average: '16.45'
 ---
 
-Ahora mismo tienes [The North Face S/S Dome Camiseta De Manga Corta Simple  Mujer  White/TNF Black  S](https://www.amazon.es/dp/B0188XX6DI/?tag=tolees-21) a 16.45 EUR (original: 25 EUR) (34.20 %  de descuento) en el siguiente enlace!
+Está [The North Face S/S Dome Camiseta De Manga Corta Simple  Mujer  White/TNF Black  S](https://www.amazon.es/dp/B0188XX6DI/?tag=tolees-21) con 34.20 de descuento por 16.45 EUR (original: 25 EUR) en el siguiente enlace!
 
 [![The North Face S/S Dome Camiseta De Mang](https://images-eu.ssl-images-amazon.com/images/I/31YUyoNJ%2B3L._SL200_.jpg)](https://www.amazon.es/dp/B0188XX6DI/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B0188XX6DI/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B0188XX6DI/?tag=tolees-21)

@@ -19,11 +19,11 @@ descuento: '57.52'
 average: '12.74'
 ---
 
-Ahora mismo tienes [Cressi 1946 Aqua Shoes Zapatos Deportivo para Uso Acuático  Unisex Adulto  Negro/Naranja  39](https://www.amazon.es/dp/B07JP1VKKC/?tag=tolees-21) a 12.74 EUR (original: 29.99 EUR) (57.52 %  de descuento) en el siguiente enlace!
+Está [Cressi 1946 Aqua Shoes Zapatos Deportivo para Uso Acuático  Unisex Adulto  Negro/Naranja  39](https://www.amazon.es/dp/B07JP1VKKC/?tag=tolees-21) con 57.52 de descuento por 12.74 EUR (original: 29.99 EUR) en el siguiente enlace!
 
 [![Cressi 1946 Aqua Shoes Zapatos Deportivo](https://images-eu.ssl-images-amazon.com/images/I/411ve2qcVEL._SL200_.jpg)](https://www.amazon.es/dp/B07JP1VKKC/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B07JP1VKKC/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07JP1VKKC/?tag=tolees-21)

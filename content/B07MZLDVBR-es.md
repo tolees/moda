@@ -19,11 +19,11 @@ descuento: '30.01'
 average: '41.96'
 ---
 
-Está [adidas 3-Stripes Crew Sudadera  Hombre  acevap  XS](https://www.amazon.es/dp/B07MZLDVBR/?tag=tolees-21) con 30.01 de descuento por 41.96 EUR (original: 59.95 EUR) en el siguiente enlace!
+Ahora mismo tienes [adidas 3-Stripes Crew Sudadera  Hombre  acevap  XS](https://www.amazon.es/dp/B07MZLDVBR/?tag=tolees-21) a 41.96 EUR (original: 59.95 EUR) (30.01 %  de descuento) en el siguiente enlace!
 
 [![adidas 3-Stripes Crew Sudadera  Hombre  ](https://images-eu.ssl-images-amazon.com/images/I/41nEiCMTLML._SL200_.jpg)](https://www.amazon.es/dp/B07MZLDVBR/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07MZLDVBR/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07MZLDVBR/?tag=tolees-21)

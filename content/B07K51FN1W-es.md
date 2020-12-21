@@ -19,11 +19,11 @@ descuento: '63.47'
 average: '10.94'
 ---
 
-Ahora mismo tienes [Levi s kids Nn10024 01 Short Sleeve tee-Shirt Camiseta Blanco  White   1-3 Meses  Talla del Fabricante: 3M  para Bebés](https://www.amazon.es/dp/B07K51FN1W/?tag=tolees-21) a 10.94 EUR (original: 29.95 EUR) (63.47 %  de descuento) en el siguiente enlace!
+Está [Levi s kids Nn10024 01 Short Sleeve tee-Shirt Camiseta Blanco  White   1-3 Meses  Talla del Fabricante: 3M  para Bebés](https://www.amazon.es/dp/B07K51FN1W/?tag=tolees-21) con 63.47 de descuento por 10.94 EUR (original: 29.95 EUR) en el siguiente enlace!
 
 [![Levi s kids Nn10024 01 Short Sleeve tee-](https://images-eu.ssl-images-amazon.com/images/I/31rVOS8QizL._SL200_.jpg)](https://www.amazon.es/dp/B07K51FN1W/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B07K51FN1W/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07K51FN1W/?tag=tolees-21)

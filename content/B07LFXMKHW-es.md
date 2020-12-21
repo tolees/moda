@@ -19,11 +19,11 @@ descuento: '37.77'
 average: '13.69'
 ---
 
-Está [Pepe Jeans RAKE KEMY  Chanclas para Mujer  Plateado  934SILVER 934   38 EU](https://www.amazon.es/dp/B07LFXMKHW/?tag=tolees-21) con 37.77 de descuento por 13.69 EUR (original: 22 EUR) en el siguiente enlace!
+Ahora mismo tienes [Pepe Jeans RAKE KEMY  Chanclas para Mujer  Plateado  934SILVER 934   38 EU](https://www.amazon.es/dp/B07LFXMKHW/?tag=tolees-21) a 13.69 EUR (original: 22 EUR) (37.77 %  de descuento) en el siguiente enlace!
 
 [![Pepe Jeans RAKE KEMY  Chanclas para Muje](https://images-eu.ssl-images-amazon.com/images/I/51srdMyV1JL._SL200_.jpg)](https://www.amazon.es/dp/B07LFXMKHW/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07LFXMKHW/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07LFXMKHW/?tag=tolees-21)

@@ -19,11 +19,11 @@ descuento: '60.70'
 average: '11.75'
 ---
 
-Está [Pepe Jeans Mona  Camiseta Mujer   Grey Marl 933 ](https://www.amazon.es/dp/B07CRD8X22/?tag=tolees-21) con 60.70 de descuento por 11.75 EUR (original: 29.9 EUR) en el siguiente enlace!
+Ahora mismo tienes [Pepe Jeans Mona  Camiseta Mujer   Grey Marl 933 ](https://www.amazon.es/dp/B07CRD8X22/?tag=tolees-21) a 11.75 EUR (original: 29.9 EUR) (60.70 %  de descuento) en el siguiente enlace!
 
 [![Pepe Jeans Mona  Camiseta Mujer   Grey M](https://images-eu.ssl-images-amazon.com/images/I/41TeHBkAHCL._SL200_.jpg)](https://www.amazon.es/dp/B07CRD8X22/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07CRD8X22/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07CRD8X22/?tag=tolees-21)

@@ -19,11 +19,11 @@ descuento: '17.65'
 average: '10.59'
 ---
 
-Ahora mismo tienes [Luanvi Triple Camiseta Reversible Deportiva  Hombre  Amarillo/Azul  XL](https://www.amazon.es/dp/B07FJNC1SQ/?tag=tolees-21) a 10.59 EUR (original: 12.86 EUR) (17.65 %  de descuento) en el siguiente enlace!
+Está [Luanvi Triple Camiseta Reversible Deportiva  Hombre  Amarillo/Azul  XL](https://www.amazon.es/dp/B07FJNC1SQ/?tag=tolees-21) con 17.65 de descuento por 10.59 EUR (original: 12.86 EUR) en el siguiente enlace!
 
 [![Luanvi Triple Camiseta Reversible Deport](https://images-eu.ssl-images-amazon.com/images/I/51xjvnlHKAL._SL200_.jpg)](https://www.amazon.es/dp/B07FJNC1SQ/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B07FJNC1SQ/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07FJNC1SQ/?tag=tolees-21)

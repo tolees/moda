@@ -19,11 +19,11 @@ descuento: '77.18'
 average: '11.41'
 ---
 
-Ahora mismo tienes [COOLWAY Amy  Botines para Mujer  Negro  Blk 000   38 EU](https://www.amazon.es/dp/B07BHC16Z6/?tag=tolees-21) a 11.41 EUR (original: 49.99 EUR) (77.18 %  de descuento) en el siguiente enlace!
+Está [COOLWAY Amy  Botines para Mujer  Negro  Blk 000   38 EU](https://www.amazon.es/dp/B07BHC16Z6/?tag=tolees-21) con 77.18 de descuento por 11.41 EUR (original: 49.99 EUR) en el siguiente enlace!
 
 [![COOLWAY Amy  Botines para Mujer  Negro  ](https://images-eu.ssl-images-amazon.com/images/I/41vtodRr2tL._SL200_.jpg)](https://www.amazon.es/dp/B07BHC16Z6/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B07BHC16Z6/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07BHC16Z6/?tag=tolees-21)

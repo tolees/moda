@@ -19,11 +19,11 @@ descuento: '73.25'
 average: '9.36'
 ---
 
-Está [JACK & JONES Jcofade Sweat Crew Neck Sudadera  White  Medium para Hombre](https://www.amazon.es/dp/B07JQBPYVD/?tag=tolees-21) con 73.25 de descuento por 9.36 EUR (original: 34.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [JACK & JONES Jcofade Sweat Crew Neck Sudadera  White  Medium para Hombre](https://www.amazon.es/dp/B07JQBPYVD/?tag=tolees-21) a 9.36 EUR (original: 34.99 EUR) (73.25 %  de descuento) en el siguiente enlace!
 
 [![JACK & JONES Jcofade Sweat Crew Neck Sud](https://images-eu.ssl-images-amazon.com/images/I/41DI3OPEJLL._SL200_.jpg)](https://www.amazon.es/dp/B07JQBPYVD/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07JQBPYVD/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07JQBPYVD/?tag=tolees-21)

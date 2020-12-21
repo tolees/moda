@@ -19,11 +19,11 @@ descuento: '48.15'
 average: '14'
 ---
 
-Está [FC Barcelona 611826672 2018 Bolso Bandolera 22 cm  Azul](https://www.amazon.es/dp/B07GFVXZBB/?tag=tolees-21) con 48.15 de descuento por 14 EUR (original: 27 EUR) en el siguiente enlace!
+Ahora mismo tienes [FC Barcelona 611826672 2018 Bolso Bandolera 22 cm  Azul](https://www.amazon.es/dp/B07GFVXZBB/?tag=tolees-21) a 14 EUR (original: 27 EUR) (48.15 %  de descuento) en el siguiente enlace!
 
 [![FC Barcelona 611826672 2018 Bolso Bandol](https://images-eu.ssl-images-amazon.com/images/I/51uzP2PooHL._SL200_.jpg)](https://www.amazon.es/dp/B07GFVXZBB/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07GFVXZBB/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07GFVXZBB/?tag=tolees-21)

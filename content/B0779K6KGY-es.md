@@ -19,11 +19,11 @@ descuento: '37.11'
 average: '11.95'
 ---
 
-Ahora mismo tienes [Pepe Jeans 45 Anniversary Men PM504073 Camiseta  Blanco  Optic White 802   Large para Hombre](https://www.amazon.es/dp/B0779K6KGY/?tag=tolees-21) a 11.95 EUR (original: 19 EUR) (37.11 %  de descuento) en el siguiente enlace!
+Está [Pepe Jeans 45 Anniversary Men PM504073 Camiseta  Blanco  Optic White 802   Large para Hombre](https://www.amazon.es/dp/B0779K6KGY/?tag=tolees-21) con 37.11 de descuento por 11.95 EUR (original: 19 EUR) en el siguiente enlace!
 
 [![Pepe Jeans 45 Anniversary Men PM504073 C](https://images-eu.ssl-images-amazon.com/images/I/41Si9TbsTVL._SL200_.jpg)](https://www.amazon.es/dp/B0779K6KGY/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B0779K6KGY/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B0779K6KGY/?tag=tolees-21)

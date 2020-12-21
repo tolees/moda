@@ -19,11 +19,11 @@ descuento: '33.23'
 average: '33.38'
 ---
 
-Ahora mismo tienes [JACK & JONES Jcosneak Light Jacket Chaqueta Sky Captain  Large para Hombre](https://www.amazon.es/dp/B07NBX1YBG/?tag=tolees-21) a 33.38 EUR (original: 49.99 EUR) (33.23 %  de descuento) en el siguiente enlace!
+Está [JACK & JONES Jcosneak Light Jacket Chaqueta Sky Captain  Large para Hombre](https://www.amazon.es/dp/B07NBX1YBG/?tag=tolees-21) con 33.23 de descuento por 33.38 EUR (original: 49.99 EUR) en el siguiente enlace!
 
 [![JACK & JONES Jcosneak Light Jacket Chaqu](https://images-eu.ssl-images-amazon.com/images/I/41lY8ZmpPDL._SL200_.jpg)](https://www.amazon.es/dp/B07NBX1YBG/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B07NBX1YBG/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07NBX1YBG/?tag=tolees-21)

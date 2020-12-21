@@ -19,11 +19,11 @@ descuento: '47.60'
 average: '26.2'
 ---
 
-Ahora mismo tienes [Lacoste Th6386 Camiseta  Negro  Noir 031   Medium  Talla del Fabricante: 4  para Hombre](https://www.amazon.es/dp/B07JG1FYHD/?tag=tolees-21) a 26.2 EUR (original: 50 EUR) (47.60 %  de descuento) en el siguiente enlace!
+Está [Lacoste Th6386 Camiseta  Negro  Noir 031   Medium  Talla del Fabricante: 4  para Hombre](https://www.amazon.es/dp/B07JG1FYHD/?tag=tolees-21) con 47.60 de descuento por 26.2 EUR (original: 50 EUR) en el siguiente enlace!
 
 [![Lacoste Th6386 Camiseta  Negro  Noir 031](https://images-eu.ssl-images-amazon.com/images/I/41a3slOVdwL._SL200_.jpg)](https://www.amazon.es/dp/B07JG1FYHD/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B07JG1FYHD/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07JG1FYHD/?tag=tolees-21)

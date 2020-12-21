@@ -19,11 +19,11 @@ descuento: '41.28'
 average: '52.79'
 ---
 
-Está [Callaghan Sunstar  Sandalias con Punta Abierta para Mujer   Azul 2   37 EU](https://www.amazon.es/dp/B06XKMKG7M/?tag=tolees-21) con 41.28 de descuento por 52.79 EUR (original: 89.9 EUR) en el siguiente enlace!
+Ahora mismo tienes [Callaghan Sunstar  Sandalias con Punta Abierta para Mujer   Azul 2   37 EU](https://www.amazon.es/dp/B06XKMKG7M/?tag=tolees-21) a 52.79 EUR (original: 89.9 EUR) (41.28 %  de descuento) en el siguiente enlace!
 
 [![Callaghan Sunstar  Sandalias con Punta A](https://images-eu.ssl-images-amazon.com/images/I/41z7ZfRWSuL._SL200_.jpg)](https://www.amazon.es/dp/B06XKMKG7M/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B06XKMKG7M/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B06XKMKG7M/?tag=tolees-21)

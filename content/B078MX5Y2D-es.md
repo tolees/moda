@@ -19,11 +19,11 @@ descuento: '68.46'
 average: '9.46'
 ---
 
-Está [ESPRIT Sports 028ei1k010 Camiseta Deportiva de Tirantes  Negro  Black 001   38  Talla del Fabricante: Small  para Mujer](https://www.amazon.es/dp/B078MX5Y2D/?tag=tolees-21) con 68.46 de descuento por 9.46 EUR (original: 29.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [ESPRIT Sports 028ei1k010 Camiseta Deportiva de Tirantes  Negro  Black 001   38  Talla del Fabricante: Small  para Mujer](https://www.amazon.es/dp/B078MX5Y2D/?tag=tolees-21) a 9.46 EUR (original: 29.99 EUR) (68.46 %  de descuento) en el siguiente enlace!
 
 [![ESPRIT Sports 028ei1k010 Camiseta Deport](https://images-eu.ssl-images-amazon.com/images/I/412irglF9hL._SL200_.jpg)](https://www.amazon.es/dp/B078MX5Y2D/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B078MX5Y2D/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B078MX5Y2D/?tag=tolees-21)

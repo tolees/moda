@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'edc by Esprit 048cc1k078 Camiseta   Ligh al 53.67 % de descuento'
+title: 'edc by Esprit 048cc1k078 Camiseta   Ligh al 53.67 % de rebaja'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/416Aj8WAW2L._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '53.67'
 average: '12.04'
 ---
 
-Está [edc by Esprit 048cc1k078 Camiseta   Light Pink 690   Large para Mujer](https://www.amazon.es/dp/B079QBZVFZ/?tag=tolees-21) con 53.67 de descuento por 12.04 EUR (original: 25.99 EUR) en el siguiente enlace!
+Tienes [edc by Esprit 048cc1k078 Camiseta   Light Pink 690   Large para Mujer](https://www.amazon.es/dp/B079QBZVFZ/?tag=tolees-21) con precio final de  12.04 EUR (original: 25.99 EUR) (53.67 %  de rebaja) aqui!
 
 [![edc by Esprit 048cc1k078 Camiseta   Ligh](https://images-eu.ssl-images-amazon.com/images/I/416Aj8WAW2L._SL200_.jpg)](https://www.amazon.es/dp/B079QBZVFZ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B079QBZVFZ/?tag=tolees-21)
+[Comprar!!!](https://www.amazon.es/dp/B079QBZVFZ/?tag=tolees-21)

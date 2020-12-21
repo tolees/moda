@@ -19,11 +19,11 @@ descuento: '68.62'
 average: '9.41'
 ---
 
-Está [Vero Moda Vmmanja LS Placket Shirt Wvn Blusa  Azul  Night Sky Detail: W/Silver Buttons   40  Talla del Fabricante: Medium  para Mujer](https://www.amazon.es/dp/B07JCNGRRY/?tag=tolees-21) con 68.62 de descuento por 9.41 EUR (original: 29.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Vero Moda Vmmanja LS Placket Shirt Wvn Blusa  Azul  Night Sky Detail: W/Silver Buttons   40  Talla del Fabricante: Medium  para Mujer](https://www.amazon.es/dp/B07JCNGRRY/?tag=tolees-21) a 9.41 EUR (original: 29.99 EUR) (68.62 %  de descuento) en el siguiente enlace!
 
 [![Vero Moda Vmmanja LS Placket Shirt Wvn B](https://images-eu.ssl-images-amazon.com/images/I/41Ofxy1UoWL._SL200_.jpg)](https://www.amazon.es/dp/B07JCNGRRY/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07JCNGRRY/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07JCNGRRY/?tag=tolees-21)

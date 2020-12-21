@@ -19,11 +19,11 @@ descuento: '73.33'
 average: '16'
 ---
 
-Ahora mismo tienes [VILA CLOTHES Vimust Long Parka Jacket Pb  Abrigo para Mujer  Azul  Dark Navy   36  Talla del fabricante: Small ](https://www.amazon.es/dp/B0731FFBWZ/?tag=tolees-21) a 16 EUR (original: 59.99 EUR) (73.33 %  de descuento) en el siguiente enlace!
+Está [VILA CLOTHES Vimust Long Parka Jacket Pb  Abrigo para Mujer  Azul  Dark Navy   36  Talla del fabricante: Small ](https://www.amazon.es/dp/B0731FFBWZ/?tag=tolees-21) con 73.33 de descuento por 16 EUR (original: 59.99 EUR) en el siguiente enlace!
 
 [![VILA CLOTHES Vimust Long Parka Jacket Pb](https://images-eu.ssl-images-amazon.com/images/I/419vkkrOJkL._SL200_.jpg)](https://www.amazon.es/dp/B0731FFBWZ/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B0731FFBWZ/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B0731FFBWZ/?tag=tolees-21)

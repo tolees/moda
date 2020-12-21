@@ -19,11 +19,11 @@ descuento: '41.02'
 average: '16.29'
 ---
 
-Está [New Look Notch Double Layer 6115635  Vestido de Fiesta para Mujer   Bright Red 60   36 ES](https://www.amazon.es/dp/B07LGQKRFT/?tag=tolees-21) con 41.02 de descuento por 16.29 EUR (original: 27.62 EUR) en el siguiente enlace!
+Ahora mismo tienes [New Look Notch Double Layer 6115635  Vestido de Fiesta para Mujer   Bright Red 60   36 ES](https://www.amazon.es/dp/B07LGQKRFT/?tag=tolees-21) a 16.29 EUR (original: 27.62 EUR) (41.02 %  de descuento) en el siguiente enlace!
 
 [![New Look Notch Double Layer 6115635  Ves](https://images-eu.ssl-images-amazon.com/images/I/31sByWHq5EL._SL200_.jpg)](https://www.amazon.es/dp/B07LGQKRFT/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07LGQKRFT/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07LGQKRFT/?tag=tolees-21)

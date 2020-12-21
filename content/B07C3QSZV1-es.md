@@ -19,11 +19,11 @@ descuento: '48.71'
 average: '17.95'
 ---
 
-Ahora mismo tienes [Pepe Jeans Willy Camiseta  Gris  Grey Marl 933   Small para Hombre](https://www.amazon.es/dp/B07C3QSZV1/?tag=tolees-21) a 17.95 EUR (original: 35 EUR) (48.71 %  de descuento) en el siguiente enlace!
+Está [Pepe Jeans Willy Camiseta  Gris  Grey Marl 933   Small para Hombre](https://www.amazon.es/dp/B07C3QSZV1/?tag=tolees-21) con 48.71 de descuento por 17.95 EUR (original: 35 EUR) en el siguiente enlace!
 
 [![Pepe Jeans Willy Camiseta  Gris  Grey Ma](https://images-eu.ssl-images-amazon.com/images/I/51TQXCLsJ4L._SL200_.jpg)](https://www.amazon.es/dp/B07C3QSZV1/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B07C3QSZV1/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07C3QSZV1/?tag=tolees-21)

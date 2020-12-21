@@ -19,11 +19,11 @@ descuento: '80.04'
 average: '3.99'
 ---
 
-Está [Gfas De Sol Mujer Gato Ojos  Grande Oversized Gafas Moda Tendencia Diseño - BLDEN GREY ](https://www.amazon.es/dp/B07BVLRDPH/?tag=tolees-21) con 80.04 de descuento por 3.99 EUR (original: 19.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Gfas De Sol Mujer Gato Ojos  Grande Oversized Gafas Moda Tendencia Diseño - BLDEN GREY ](https://www.amazon.es/dp/B07BVLRDPH/?tag=tolees-21) a 3.99 EUR (original: 19.99 EUR) (80.04 %  de descuento) en el siguiente enlace!
 
 [![Gfas De Sol Mujer Gato Ojos  Grande Over](https://images-eu.ssl-images-amazon.com/images/I/41nOgbZzv-L._SL200_.jpg)](https://www.amazon.es/dp/B07BVLRDPH/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07BVLRDPH/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07BVLRDPH/?tag=tolees-21)

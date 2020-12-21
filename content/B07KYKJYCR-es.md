@@ -19,11 +19,11 @@ descuento: '68.02'
 average: '9.59'
 ---
 
-Está [Springfield 5.Pa.Corto Liso M/C Lace Vestido  Mujer  Negro  Negro 1   One Size  Tamaño del Fabricante:S ](https://www.amazon.es/dp/B07KYKJYCR/?tag=tolees-21) con 68.02 de descuento por 9.59 EUR (original: 29.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Springfield 5.Pa.Corto Liso M/C Lace Vestido  Mujer  Negro  Negro 1   One Size  Tamaño del Fabricante:S ](https://www.amazon.es/dp/B07KYKJYCR/?tag=tolees-21) a 9.59 EUR (original: 29.99 EUR) (68.02 %  de descuento) en el siguiente enlace!
 
 [![Springfield 5.Pa.Corto Liso M/C Lace Ves](https://images-eu.ssl-images-amazon.com/images/I/41zrpIgarFL._SL200_.jpg)](https://www.amazon.es/dp/B07KYKJYCR/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07KYKJYCR/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07KYKJYCR/?tag=tolees-21)

@@ -19,11 +19,11 @@ descuento: '63.60'
 average: '9.81'
 ---
 
-Está [HIKARO Sudadera con Print Mujer  Rojo  Burgundy   36  Talla del fabricante: X-Small ](https://www.amazon.es/dp/B077YDWZ17/?tag=tolees-21) con 63.60 de descuento por 9.81 EUR (original: 26.95 EUR) en el siguiente enlace!
+Ahora mismo tienes [HIKARO Sudadera con Print Mujer  Rojo  Burgundy   36  Talla del fabricante: X-Small ](https://www.amazon.es/dp/B077YDWZ17/?tag=tolees-21) a 9.81 EUR (original: 26.95 EUR) (63.60 %  de descuento) en el siguiente enlace!
 
 [![HIKARO Sudadera con Print Mujer  Rojo  B](https://images-eu.ssl-images-amazon.com/images/I/41iV7UZq1NL._SL200_.jpg)](https://www.amazon.es/dp/B077YDWZ17/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B077YDWZ17/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B077YDWZ17/?tag=tolees-21)

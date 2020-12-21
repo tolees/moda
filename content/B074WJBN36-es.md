@@ -19,11 +19,11 @@ descuento: '23.44'
 average: '24.5'
 ---
 
-Ahora mismo tienes [MERAKI Jersey de Merino Hombre Cuello Pico  Marrón  Taupe Marl   Medium](https://www.amazon.es/dp/B074WJBN36/?tag=tolees-21) a 24.5 EUR (original: 32 EUR) (23.44 %  de descuento) en el siguiente enlace!
+Está [MERAKI Jersey de Merino Hombre Cuello Pico  Marrón  Taupe Marl   Medium](https://www.amazon.es/dp/B074WJBN36/?tag=tolees-21) con 23.44 de descuento por 24.5 EUR (original: 32 EUR) en el siguiente enlace!
 
 [![MERAKI Jersey de Merino Hombre Cuello Pi](https://images-eu.ssl-images-amazon.com/images/I/31tvsUSJVjL._SL200_.jpg)](https://www.amazon.es/dp/B074WJBN36/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B074WJBN36/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B074WJBN36/?tag=tolees-21)

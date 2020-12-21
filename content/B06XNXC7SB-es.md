@@ -19,11 +19,11 @@ descuento: '63.43'
 average: '36.53'
 ---
 
-Está [Geox D Airell C  Zapatillas para Mujer  Marrón  Dk Coffee/Taupe   40 EU](https://www.amazon.es/dp/B06XNXC7SB/?tag=tolees-21) con 63.43 de descuento por 36.53 EUR (original: 99.9 EUR) en el siguiente enlace!
+Ahora mismo tienes [Geox D Airell C  Zapatillas para Mujer  Marrón  Dk Coffee/Taupe   40 EU](https://www.amazon.es/dp/B06XNXC7SB/?tag=tolees-21) a 36.53 EUR (original: 99.9 EUR) (63.43 %  de descuento) en el siguiente enlace!
 
 [![Geox D Airell C  Zapatillas para Mujer  ](https://images-eu.ssl-images-amazon.com/images/I/41J7zfZk2dL._SL200_.jpg)](https://www.amazon.es/dp/B06XNXC7SB/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B06XNXC7SB/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B06XNXC7SB/?tag=tolees-21)

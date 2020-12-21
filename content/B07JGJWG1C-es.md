@@ -19,11 +19,11 @@ descuento: '30.01'
 average: '19.59'
 ---
 
-Ahora mismo tienes [IRIS & LILLY Sh191020 bañadores  Negro  Nero   40  Talla del fabricante: Medium ](https://www.amazon.es/dp/B07JGJWG1C/?tag=tolees-21) a 19.59 EUR (original: 27.99 EUR) (30.01 %  de descuento) en el siguiente enlace!
+Está [IRIS & LILLY Sh191020 bañadores  Negro  Nero   40  Talla del fabricante: Medium ](https://www.amazon.es/dp/B07JGJWG1C/?tag=tolees-21) con 30.01 de descuento por 19.59 EUR (original: 27.99 EUR) en el siguiente enlace!
 
 [![IRIS & LILLY Sh191020 bañadores  Negro  ](https://images-eu.ssl-images-amazon.com/images/I/31PPJRPE5jL._SL200_.jpg)](https://www.amazon.es/dp/B07JGJWG1C/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B07JGJWG1C/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07JGJWG1C/?tag=tolees-21)

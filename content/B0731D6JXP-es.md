@@ -19,11 +19,11 @@ descuento: '74.35'
 average: '19.24'
 ---
 
-Ahora mismo tienes [Volcom Brakk P/O Sudadera con Capucha  Hombre  Cobre  S](https://www.amazon.es/dp/B0731D6JXP/?tag=tolees-21) a 19.24 EUR (original: 75 EUR) (74.35 %  de descuento) en el siguiente enlace!
+Está [Volcom Brakk P/O Sudadera con Capucha  Hombre  Cobre  S](https://www.amazon.es/dp/B0731D6JXP/?tag=tolees-21) con 74.35 de descuento por 19.24 EUR (original: 75 EUR) en el siguiente enlace!
 
 [![Volcom Brakk P/O Sudadera con Capucha  H](https://images-eu.ssl-images-amazon.com/images/I/413QG683nvL._SL200_.jpg)](https://www.amazon.es/dp/B0731D6JXP/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B0731D6JXP/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B0731D6JXP/?tag=tolees-21)

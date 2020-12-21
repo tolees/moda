@@ -19,11 +19,11 @@ descuento: '84.64'
 average: '15.75'
 ---
 
-Ahora mismo tienes [Covert Overt CC17SD10  Vestido para Mujer  Negro  Black 100   40](https://www.amazon.es/dp/B01N1MJXYZ/?tag=tolees-21) a 15.75 EUR (original: 102.57 EUR) (84.64 %  de descuento) en el siguiente enlace!
+Está [Covert Overt CC17SD10  Vestido para Mujer  Negro  Black 100   40](https://www.amazon.es/dp/B01N1MJXYZ/?tag=tolees-21) con 84.64 de descuento por 15.75 EUR (original: 102.57 EUR) en el siguiente enlace!
 
 [![Covert Overt CC17SD10  Vestido para Muje](https://images-eu.ssl-images-amazon.com/images/I/31%2BM2nlT4DL._SL200_.jpg)](https://www.amazon.es/dp/B01N1MJXYZ/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B01N1MJXYZ/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B01N1MJXYZ/?tag=tolees-21)

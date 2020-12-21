@@ -19,11 +19,11 @@ descuento: '59.76'
 average: '40.24'
 ---
 
-Ahora mismo tienes [Hackett London GMT Dye Delave OXF BS  Camisa para Hombre  Azul  X-Large](https://www.amazon.es/dp/B079QC76RN/?tag=tolees-21) a 40.24 EUR (original: 100 EUR) (59.76 %  de descuento) en el siguiente enlace!
+Está [Hackett London GMT Dye Delave OXF BS  Camisa para Hombre  Azul  X-Large](https://www.amazon.es/dp/B079QC76RN/?tag=tolees-21) con 59.76 de descuento por 40.24 EUR (original: 100 EUR) en el siguiente enlace!
 
 [![Hackett London GMT Dye Delave OXF BS  Ca](https://images-eu.ssl-images-amazon.com/images/I/41yFQGlX%2BZL._SL200_.jpg)](https://www.amazon.es/dp/B079QC76RN/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B079QC76RN/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B079QC76RN/?tag=tolees-21)

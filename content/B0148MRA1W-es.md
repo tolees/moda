@@ -19,11 +19,11 @@ descuento: '20.00'
 average: '31.96'
 ---
 
-Ahora mismo tienes [CareTec Chaqueta y Pantalón Impermeable Unisex Niños  azul  Sea Blue 706   8 años](https://www.amazon.es/dp/B0148MRA1W/?tag=tolees-21) a 31.96 EUR (original: 39.95 EUR) (20.00 %  de descuento) en el siguiente enlace!
+Está [CareTec Chaqueta y Pantalón Impermeable Unisex Niños  azul  Sea Blue 706   8 años](https://www.amazon.es/dp/B0148MRA1W/?tag=tolees-21) con 20.00 de descuento por 31.96 EUR (original: 39.95 EUR) en el siguiente enlace!
 
 [![CareTec Chaqueta y Pantalón Impermeable ](https://images-eu.ssl-images-amazon.com/images/I/51lISVuizFL._SL200_.jpg)](https://www.amazon.es/dp/B0148MRA1W/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B0148MRA1W/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B0148MRA1W/?tag=tolees-21)

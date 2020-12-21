@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tom Tailor blazer/508 - Chaqueta de traj al 89.00 % de descuento'
+title: 'Tom Tailor blazer/508 - Chaqueta de traj al 89.00 % de rebaja'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/419vv6YxJaL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '89.00'
 average: '13.2'
 ---
 
-Está [Tom Tailor blazer/508 - Chaqueta de traje para hombre  color azul  knitted navy 6800   talla 36L](https://www.amazon.es/dp/B00YGZAC4O/?tag=tolees-21) con 89.00 de descuento por 13.2 EUR (original: 119.99 EUR) en el siguiente enlace!
+Tienes [Tom Tailor blazer/508 - Chaqueta de traje para hombre  color azul  knitted navy 6800   talla 36L](https://www.amazon.es/dp/B00YGZAC4O/?tag=tolees-21) con precio final de  13.2 EUR (original: 119.99 EUR) (89.00 %  de rebaja) aqui!
 
 [![Tom Tailor blazer/508 - Chaqueta de traj](https://images-eu.ssl-images-amazon.com/images/I/419vv6YxJaL._SL200_.jpg)](https://www.amazon.es/dp/B00YGZAC4O/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B00YGZAC4O/?tag=tolees-21)
+[Comprar!!!](https://www.amazon.es/dp/B00YGZAC4O/?tag=tolees-21)

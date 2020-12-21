@@ -19,11 +19,11 @@ descuento: '55.74'
 average: '15.49'
 ---
 
-Está [Tommy Jeans Hombre AUTHENTIC NYC Camisa Manga Corta  Blanco  Classic White 100  X-Large](https://www.amazon.es/dp/B07BXZKRJD/?tag=tolees-21) con 55.74 de descuento por 15.49 EUR (original: 35 EUR) en el siguiente enlace!
+Ahora mismo tienes [Tommy Jeans Hombre AUTHENTIC NYC Camisa Manga Corta  Blanco  Classic White 100  X-Large](https://www.amazon.es/dp/B07BXZKRJD/?tag=tolees-21) a 15.49 EUR (original: 35 EUR) (55.74 %  de descuento) en el siguiente enlace!
 
 [![Tommy Jeans Hombre AUTHENTIC NYC Camisa ](https://images-eu.ssl-images-amazon.com/images/I/41yA5HSAKhL._SL200_.jpg)](https://www.amazon.es/dp/B07BXZKRJD/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07BXZKRJD/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07BXZKRJD/?tag=tolees-21)

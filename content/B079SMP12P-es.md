@@ -19,11 +19,11 @@ descuento: '45.06'
 average: '21.95'
 ---
 
-Está [Desigual TS_Casandra  Camiseta para Mujer    Gris Vigore Claro 2042  Large](https://www.amazon.es/dp/B079SMP12P/?tag=tolees-21) con 45.06 de descuento por 21.95 EUR (original: 39.95 EUR) en el siguiente enlace!
+Ahora mismo tienes [Desigual TS_Casandra  Camiseta para Mujer    Gris Vigore Claro 2042  Large](https://www.amazon.es/dp/B079SMP12P/?tag=tolees-21) a 21.95 EUR (original: 39.95 EUR) (45.06 %  de descuento) en el siguiente enlace!
 
 [![Desigual TS_Casandra  Camiseta para Muje](https://images-eu.ssl-images-amazon.com/images/I/518Uy8619gL._SL200_.jpg)](https://www.amazon.es/dp/B079SMP12P/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B079SMP12P/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B079SMP12P/?tag=tolees-21)

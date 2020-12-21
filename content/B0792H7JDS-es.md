@@ -19,11 +19,11 @@ descuento: '65.52'
 average: '31'
 ---
 
-Está [Geox J Orizont B Girl ABX E  Botas de Nieve para Niñas   Grey/Pink C0502   36 EU](https://www.amazon.es/dp/B0792H7JDS/?tag=tolees-21) con 65.52 de descuento por 31 EUR (original: 89.9 EUR) en el siguiente enlace!
+Ahora mismo tienes [Geox J Orizont B Girl ABX E  Botas de Nieve para Niñas   Grey/Pink C0502   36 EU](https://www.amazon.es/dp/B0792H7JDS/?tag=tolees-21) a 31 EUR (original: 89.9 EUR) (65.52 %  de descuento) en el siguiente enlace!
 
 [![Geox J Orizont B Girl ABX E  Botas de Ni](https://images-eu.ssl-images-amazon.com/images/I/41iPrVeJnRL._SL200_.jpg)](https://www.amazon.es/dp/B0792H7JDS/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B0792H7JDS/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B0792H7JDS/?tag=tolees-21)

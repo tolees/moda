@@ -19,11 +19,11 @@ descuento: '19.28'
 average: '40.32'
 ---
 
-Ahora mismo tienes [XTI 48949  Botines para Mujer  Marrón Camel  38 EU](https://www.amazon.es/dp/B07JMPZL1S/?tag=tolees-21) a 40.32 EUR (original: 49.95 EUR) (19.28 %  de descuento) en el siguiente enlace!
+Está [XTI 48949  Botines para Mujer  Marrón Camel  38 EU](https://www.amazon.es/dp/B07JMPZL1S/?tag=tolees-21) con 19.28 de descuento por 40.32 EUR (original: 49.95 EUR) en el siguiente enlace!
 
 [![XTI 48949  Botines para Mujer  Marrón Ca](https://images-eu.ssl-images-amazon.com/images/I/41BnL9dEwCL._SL200_.jpg)](https://www.amazon.es/dp/B07JMPZL1S/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B07JMPZL1S/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07JMPZL1S/?tag=tolees-21)

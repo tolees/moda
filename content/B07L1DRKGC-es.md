@@ -19,11 +19,11 @@ descuento: '73.19'
 average: '8.04'
 ---
 
-Ahora mismo tienes [JACK & JONES Jorcolby Shirt LS Camisa   Fiery Red Fit:Slim   XX-Large para Hombre](https://www.amazon.es/dp/B07L1DRKGC/?tag=tolees-21) a 8.04 EUR (original: 29.99 EUR) (73.19 %  de descuento) en el siguiente enlace!
+Está [JACK & JONES Jorcolby Shirt LS Camisa   Fiery Red Fit:Slim   XX-Large para Hombre](https://www.amazon.es/dp/B07L1DRKGC/?tag=tolees-21) con 73.19 de descuento por 8.04 EUR (original: 29.99 EUR) en el siguiente enlace!
 
 [![JACK & JONES Jorcolby Shirt LS Camisa   ](https://images-eu.ssl-images-amazon.com/images/I/5198h%2BqQntL._SL200_.jpg)](https://www.amazon.es/dp/B07L1DRKGC/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B07L1DRKGC/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07L1DRKGC/?tag=tolees-21)

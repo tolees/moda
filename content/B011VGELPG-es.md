@@ -19,11 +19,11 @@ descuento: '23.98'
 average: '30.41'
 ---
 
-Ahora mismo tienes [HAWKERS · ONE X · Carey ·  Sky · Gafas de sol para hombre y mujer](https://www.amazon.es/dp/B011VGELPG/?tag=tolees-21) a 30.41 EUR (original: 40 EUR) (23.98 %  de descuento) en el siguiente enlace!
+Está [HAWKERS · ONE X · Carey ·  Sky · Gafas de sol para hombre y mujer](https://www.amazon.es/dp/B011VGELPG/?tag=tolees-21) con 23.98 de descuento por 30.41 EUR (original: 40 EUR) en el siguiente enlace!
 
 [![HAWKERS · ONE X · Carey ·  Sky · Gafas d](https://images-eu.ssl-images-amazon.com/images/I/31OuujdFOyL._SL200_.jpg)](https://www.amazon.es/dp/B011VGELPG/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B011VGELPG/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B011VGELPG/?tag=tolees-21)

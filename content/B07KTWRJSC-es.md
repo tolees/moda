@@ -19,11 +19,11 @@ descuento: '20.00'
 average: '47.96'
 ---
 
-Está [adidas SPT Full Zip Sudadera  Hombre  Maruni/Blanco  M](https://www.amazon.es/dp/B07KTWRJSC/?tag=tolees-21) con 20.00 de descuento por 47.96 EUR (original: 59.95 EUR) en el siguiente enlace!
+Ahora mismo tienes [adidas SPT Full Zip Sudadera  Hombre  Maruni/Blanco  M](https://www.amazon.es/dp/B07KTWRJSC/?tag=tolees-21) a 47.96 EUR (original: 59.95 EUR) (20.00 %  de descuento) en el siguiente enlace!
 
 [![adidas SPT Full Zip Sudadera  Hombre  Ma](https://images-eu.ssl-images-amazon.com/images/I/41b9k7Ml3HL._SL200_.jpg)](https://www.amazon.es/dp/B07KTWRJSC/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07KTWRJSC/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07KTWRJSC/?tag=tolees-21)

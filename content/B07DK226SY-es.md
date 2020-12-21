@@ -19,11 +19,11 @@ descuento: '50.00'
 average: '27.5'
 ---
 
-Ahora mismo tienes [Geox J Alonisso Boy E  Zapatillas para Niños  Blanco  White/Navy C0899   33 EU](https://www.amazon.es/dp/B07DK226SY/?tag=tolees-21) a 27.5 EUR (original: 55 EUR) (50.00 %  de descuento) en el siguiente enlace!
+Está [Geox J Alonisso Boy E  Zapatillas para Niños  Blanco  White/Navy C0899   33 EU](https://www.amazon.es/dp/B07DK226SY/?tag=tolees-21) con 50.00 de descuento por 27.5 EUR (original: 55 EUR) en el siguiente enlace!
 
 [![Geox J Alonisso Boy E  Zapatillas para N](https://images-eu.ssl-images-amazon.com/images/I/41osjcDJSNL._SL200_.jpg)](https://www.amazon.es/dp/B07DK226SY/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B07DK226SY/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07DK226SY/?tag=tolees-21)

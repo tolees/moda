@@ -19,11 +19,11 @@ descuento: '43.45'
 average: '50.89'
 ---
 
-Ahora mismo tienes [Columbia Northern Comfort Hybrid JKT Chaqueta Polar  Mujer  Negro  Talla XS](https://www.amazon.es/dp/B077Y5JBT1/?tag=tolees-21) a 50.89 EUR (original: 89.99 EUR) (43.45 %  de descuento) en el siguiente enlace!
+Está [Columbia Northern Comfort Hybrid JKT Chaqueta Polar  Mujer  Negro  Talla XS](https://www.amazon.es/dp/B077Y5JBT1/?tag=tolees-21) con 43.45 de descuento por 50.89 EUR (original: 89.99 EUR) en el siguiente enlace!
 
 [![Columbia Northern Comfort Hybrid JKT Cha](https://images-eu.ssl-images-amazon.com/images/I/41AFN0UPmcL._SL200_.jpg)](https://www.amazon.es/dp/B077Y5JBT1/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B077Y5JBT1/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B077Y5JBT1/?tag=tolees-21)

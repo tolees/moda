@@ -19,11 +19,11 @@ descuento: '70.00'
 average: '2.4'
 ---
 
-Ahora mismo tienes [T-Shirts Camiseta de Corte Recto para Hombre  Marrón  Ginger   Medium](https://www.amazon.es/dp/B0733F1GMV/?tag=tolees-21) a 2.4 EUR (original: 8 EUR) (70.00 %  de descuento) en el siguiente enlace!
+Está [T-Shirts Camiseta de Corte Recto para Hombre  Marrón  Ginger   Medium](https://www.amazon.es/dp/B0733F1GMV/?tag=tolees-21) con 70.00 de descuento por 2.4 EUR (original: 8 EUR) en el siguiente enlace!
 
 [![T-Shirts Camiseta de Corte Recto para Ho](https://images-eu.ssl-images-amazon.com/images/I/41qwRdpcooL._SL200_.jpg)](https://www.amazon.es/dp/B0733F1GMV/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B0733F1GMV/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B0733F1GMV/?tag=tolees-21)

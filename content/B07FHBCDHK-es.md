@@ -19,11 +19,11 @@ descuento: '60.06'
 average: '35.95'
 ---
 
-Está [Levi s 511 Fit  Vaqueros Slim para Hombre  Azul  Ombre Blue 14w Warp Str Cord B WT 2 3254  W32/L30](https://www.amazon.es/dp/B07FHBCDHK/?tag=tolees-21) con 60.06 de descuento por 35.95 EUR (original: 90 EUR) en el siguiente enlace!
+Ahora mismo tienes [Levi s 511 Fit  Vaqueros Slim para Hombre  Azul  Ombre Blue 14w Warp Str Cord B WT 2 3254  W32/L30](https://www.amazon.es/dp/B07FHBCDHK/?tag=tolees-21) a 35.95 EUR (original: 90 EUR) (60.06 %  de descuento) en el siguiente enlace!
 
 [![Levi s 511 Fit  Vaqueros Slim para Hombr](https://images-eu.ssl-images-amazon.com/images/I/41soQq81NLL._SL200_.jpg)](https://www.amazon.es/dp/B07FHBCDHK/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07FHBCDHK/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07FHBCDHK/?tag=tolees-21)

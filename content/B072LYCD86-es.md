@@ -19,11 +19,11 @@ descuento: '76.79'
 average: '10.91'
 ---
 
-Ahora mismo tienes [Pepa Loves Cross Sweatshirt Cream Sudadera  Beige  40  Tamaño del Fabricante:M  para Mujer](https://www.amazon.es/dp/B072LYCD86/?tag=tolees-21) a 10.91 EUR (original: 47 EUR) (76.79 %  de descuento) en el siguiente enlace!
+Está [Pepa Loves Cross Sweatshirt Cream Sudadera  Beige  40  Tamaño del Fabricante:M  para Mujer](https://www.amazon.es/dp/B072LYCD86/?tag=tolees-21) con 76.79 de descuento por 10.91 EUR (original: 47 EUR) en el siguiente enlace!
 
 [![Pepa Loves Cross Sweatshirt Cream Sudade](https://images-eu.ssl-images-amazon.com/images/I/416fGjB0BBL._SL200_.jpg)](https://www.amazon.es/dp/B072LYCD86/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B072LYCD86/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B072LYCD86/?tag=tolees-21)

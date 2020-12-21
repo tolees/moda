@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The North Face Y S/S T Camiseta Simple D al 50.00 % de descuento'
+title: 'Descuento del 50.00 % en The North Face Y S/S T Camiseta Simple D'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41NueVV8jfL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '50.00'
 average: '10'
 ---
 
-Está [The North Face Y S/S T Camiseta Simple Dome  Unisex niños  Turkish Sea/High Rise Grey  M](https://www.amazon.es/dp/B07BB52CN5/?tag=tolees-21) con 50.00 de descuento por 10 EUR (original: 20 EUR) en el siguiente enlace!
+Tienes [The North Face Y S/S T Camiseta Simple Dome  Unisex niños  Turkish Sea/High Rise Grey  M](https://www.amazon.es/dp/B07BB52CN5/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 10 EUR (original: 20 EUR) en el siguiente enlace!
 
 [![The North Face Y S/S T Camiseta Simple D](https://images-eu.ssl-images-amazon.com/images/I/41NueVV8jfL._SL200_.jpg)](https://www.amazon.es/dp/B07BB52CN5/?tag=tolees-21)
 
 ℹ️:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07BB52CN5/?tag=tolees-21)
+[Accede a la oferta!!](https://www.amazon.es/dp/B07BB52CN5/?tag=tolees-21)

@@ -19,11 +19,11 @@ descuento: '52.49'
 average: '33.25'
 ---
 
-Ahora mismo tienes [Cortefiel Pantalón Liso Tailored Fit Pantalones  Hombre  Azul  Azul Marino 10   42  Tamaño del Fabricante:42 ](https://www.amazon.es/dp/B078WTG41H/?tag=tolees-21) a 33.25 EUR (original: 69.99 EUR) (52.49 %  de descuento) en el siguiente enlace!
+Está [Cortefiel Pantalón Liso Tailored Fit Pantalones  Hombre  Azul  Azul Marino 10   42  Tamaño del Fabricante:42 ](https://www.amazon.es/dp/B078WTG41H/?tag=tolees-21) con 52.49 de descuento por 33.25 EUR (original: 69.99 EUR) en el siguiente enlace!
 
 [![Cortefiel Pantalón Liso Tailored Fit Pan](https://images-eu.ssl-images-amazon.com/images/I/41oAQYP2MNL._SL200_.jpg)](https://www.amazon.es/dp/B078WTG41H/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B078WTG41H/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B078WTG41H/?tag=tolees-21)

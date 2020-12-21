@@ -19,11 +19,11 @@ descuento: '46.45'
 average: '65.4'
 ---
 
-Está [BOSS Zaster Chaqueta  Verde  Dark Green 302   X-Large para Hombre](https://www.amazon.es/dp/B07CHQKWKT/?tag=tolees-21) con 46.45 de descuento por 65.4 EUR (original: 122.13 EUR) en el siguiente enlace!
+Ahora mismo tienes [BOSS Zaster Chaqueta  Verde  Dark Green 302   X-Large para Hombre](https://www.amazon.es/dp/B07CHQKWKT/?tag=tolees-21) a 65.4 EUR (original: 122.13 EUR) (46.45 %  de descuento) en el siguiente enlace!
 
 [![BOSS Zaster Chaqueta  Verde  Dark Green ](https://images-eu.ssl-images-amazon.com/images/I/31bCcAz8AcL._SL200_.jpg)](https://www.amazon.es/dp/B07CHQKWKT/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07CHQKWKT/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07CHQKWKT/?tag=tolees-21)

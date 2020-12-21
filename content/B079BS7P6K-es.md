@@ -19,11 +19,11 @@ descuento: '53.30'
 average: '7'
 ---
 
-Ahora mismo tienes [JACK & JONES Jorwallet Tank Top STS Camiseta sin Mangas  Gris  Tap Shoe Fit: Reg Long Line   Medium para Hombre](https://www.amazon.es/dp/B079BS7P6K/?tag=tolees-21) a 7 EUR (original: 14.99 EUR) (53.30 %  de descuento) en el siguiente enlace!
+Está [JACK & JONES Jorwallet Tank Top STS Camiseta sin Mangas  Gris  Tap Shoe Fit: Reg Long Line   Medium para Hombre](https://www.amazon.es/dp/B079BS7P6K/?tag=tolees-21) con 53.30 de descuento por 7 EUR (original: 14.99 EUR) en el siguiente enlace!
 
 [![JACK & JONES Jorwallet Tank Top STS Cami](https://images-eu.ssl-images-amazon.com/images/I/41hWmhnCg3L._SL200_.jpg)](https://www.amazon.es/dp/B079BS7P6K/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B079BS7P6K/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B079BS7P6K/?tag=tolees-21)

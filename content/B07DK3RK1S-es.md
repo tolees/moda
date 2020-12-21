@@ -19,11 +19,11 @@ descuento: '20.00'
 average: '39.92'
 ---
 
-Ahora mismo tienes [Geox Jr Borealis D  Sandalias con Punta Abierta para Niños  Azul  Navy/Red C0735   26 EU](https://www.amazon.es/dp/B07DK3RK1S/?tag=tolees-21) a 39.92 EUR (original: 49.9 EUR) (20.00 %  de descuento) en el siguiente enlace!
+Está [Geox Jr Borealis D  Sandalias con Punta Abierta para Niños  Azul  Navy/Red C0735   26 EU](https://www.amazon.es/dp/B07DK3RK1S/?tag=tolees-21) con 20.00 de descuento por 39.92 EUR (original: 49.9 EUR) en el siguiente enlace!
 
 [![Geox Jr Borealis D  Sandalias con Punta ](https://images-eu.ssl-images-amazon.com/images/I/41nrJzCyYoL._SL200_.jpg)](https://www.amazon.es/dp/B07DK3RK1S/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B07DK3RK1S/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07DK3RK1S/?tag=tolees-21)

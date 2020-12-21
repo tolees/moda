@@ -19,11 +19,11 @@ descuento: '77.65'
 average: '13.4'
 ---
 
-Ahora mismo tienes [Tom Tailor 5890106  Botines para Mujer  Rosa  Nude 01521   36 EU](https://www.amazon.es/dp/B079H1DJTQ/?tag=tolees-21) a 13.4 EUR (original: 59.95 EUR) (77.65 %  de descuento) en el siguiente enlace!
+Está [Tom Tailor 5890106  Botines para Mujer  Rosa  Nude 01521   36 EU](https://www.amazon.es/dp/B079H1DJTQ/?tag=tolees-21) con 77.65 de descuento por 13.4 EUR (original: 59.95 EUR) en el siguiente enlace!
 
 [![Tom Tailor 5890106  Botines para Mujer  ](https://images-eu.ssl-images-amazon.com/images/I/412eXJi6JEL._SL200_.jpg)](https://www.amazon.es/dp/B079H1DJTQ/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B079H1DJTQ/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B079H1DJTQ/?tag=tolees-21)

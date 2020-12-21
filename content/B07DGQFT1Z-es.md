@@ -19,11 +19,11 @@ descuento: '52.77'
 average: '75.31'
 ---
 
-Ahora mismo tienes [Timberland Squall Canyon  Botas Chukka para Hombre  Negro  Jet Black Saddleback 15   41.5 EU](https://www.amazon.es/dp/B07DGQFT1Z/?tag=tolees-21) a 75.31 EUR (original: 159.45 EUR) (52.77 %  de descuento) en el siguiente enlace!
+Está [Timberland Squall Canyon  Botas Chukka para Hombre  Negro  Jet Black Saddleback 15   41.5 EU](https://www.amazon.es/dp/B07DGQFT1Z/?tag=tolees-21) con 52.77 de descuento por 75.31 EUR (original: 159.45 EUR) en el siguiente enlace!
 
 [![Timberland Squall Canyon  Botas Chukka p](https://images-eu.ssl-images-amazon.com/images/I/3158nDiayKL._SL200_.jpg)](https://www.amazon.es/dp/B07DGQFT1Z/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B07DGQFT1Z/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07DGQFT1Z/?tag=tolees-21)

@@ -19,11 +19,11 @@ descuento: '53.83'
 average: '12'
 ---
 
-Está [Under Armour UA GL Foundation SS T Camiseta  Hombre  Gris  Charcoal Medium Heather/Graphite/Black 019   S](https://www.amazon.es/dp/B07DXT4T77/?tag=tolees-21) con 53.83 de descuento por 12 EUR (original: 25.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Under Armour UA GL Foundation SS T Camiseta  Hombre  Gris  Charcoal Medium Heather/Graphite/Black 019   S](https://www.amazon.es/dp/B07DXT4T77/?tag=tolees-21) a 12 EUR (original: 25.99 EUR) (53.83 %  de descuento) en el siguiente enlace!
 
 [![Under Armour UA GL Foundation SS T Camis](https://images-eu.ssl-images-amazon.com/images/I/41Z4O57xt-L._SL200_.jpg)](https://www.amazon.es/dp/B07DXT4T77/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07DXT4T77/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07DXT4T77/?tag=tolees-21)
