@@ -25,10 +25,10 @@ En este momento está [Under Armour Tech Tank - Solid Camiseta Para Correr  Cami
 
 🔎:
 
-- Material y forma – Camiseta sin mangas ligera para mujeres Under Armour Tech Tank, material – 100% de poliéster, forma – ancha
 - Absorbe el sudor – El novedoso tejido de esta camiseta para mujer elimina la transpiración del cuerpo y se seca realmente rápido.
 - Frescura duradera – La tecnología antiolor de esta camiseta elástica evita la proliferación de los microbios que causan malos olores.
-- Tejido muy ligero – El tejido UA Tech de esta camiseta de gimnasia es muy suave, se seca rápido y es más natural al tacto que otros tejidos
 - Libertad de movimiento – El tejido elástico multidireccional de esta camiseta de deporte garantiza una gran movilidad en cualquier dirección.
+- Tejido muy ligero – El tejido UA Tech de esta camiseta de gimnasia es muy suave, se seca rápido y es más natural al tacto que otros tejidos
+- Material y forma – Camiseta sin mangas ligera para mujeres Under Armour Tech Tank, material – 100% de poliéster, forma – ancha
 
 [Aquí!!!](https://www.amazon.es/dp/B00YO73YVM/?tag=tolees-21)
