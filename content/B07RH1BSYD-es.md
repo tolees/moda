@@ -25,7 +25,7 @@ Está [G-STAR RAW Type C 3D Straight Tapered Vaqueros  Negro  Jet Black B479-a81
 
 ℹ️:
 
-- Forma moderna y arqueada
 - El corte regular es un corte relajado desde la cadera hasta el tobillo.
+- Forma moderna y arqueada
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07RH1BSYD/?tag=tolees-21)
