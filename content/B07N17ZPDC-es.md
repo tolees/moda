@@ -26,8 +26,8 @@ Ahora mismo tienes [G-STAR RAW Midge Mid Waist Bootcut Vaqueros Corte de Bota  A
 🔎:
 
 - Cierre: Cremallera
-- Normal
 - 98% Algodón, 2% Elastano
+- Normal
 - Boot-Cut
 
 [Visítala!!!](https://www.amazon.es/dp/B07N17ZPDC/?tag=tolees-21)

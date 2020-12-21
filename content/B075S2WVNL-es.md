@@ -25,10 +25,10 @@ Ahora mismo tienes [GORE WEAR C5 Chaqueta de ciclismo de hombre GORE-TEX  M  roj
 
 🔎:
 
-- Sección de la espalda alargada para proteger de salpicaduras, Bolsillo trasero con cremallera, Adecuada para llevar con mochila
-- Versátil chaqueta de hombre para ciclistas en condiciones de bajas temperaturas
-- Tecnología GORE-TEX Active: Impermeable, cortaviento y extremadamente transpirable
 - GORE C5 GORE-TEX Active Chaqueta, Talla: M, Color: rojo/negro, 100193
+- Tecnología GORE-TEX Active: Impermeable, cortaviento y extremadamente transpirable
+- Sección de la espalda alargada para proteger de salpicaduras, Bolsillo trasero con cremallera, Adecuada para llevar con mochila
 - Talle recto/Corte específico para bicicletas
+- Versátil chaqueta de hombre para ciclistas en condiciones de bajas temperaturas
 
 [Visítala!!!](https://www.amazon.es/dp/B075S2WVNL/?tag=tolees-21)
