@@ -26,9 +26,9 @@ Está [Under Armour UA Streaker 2.0 Longsleeve Camiseta de Manga Larga  Hombre  
 ℹ️:
 
 - Diseño ingenioso – Los paneles de malla estratégicos de la camiseta de gimnasia aumentan la transpiración y el bajo contorneado ofrece más protección.
-- Mantiene la frescura – La camiseta deportiva elimina el sudor y se seca rápido. La tecnología antiolor evita la aparición de microbios y malos olores.
-- Tecnología UA Microthread – El novedoso tejido de esta camiseta transpirable se seca rápido, no se pega, no roza y se estira sin absorber el sudor
-- Ropa deportiva con prácticos detalles – La camiseta para hombre tiene detalles reflectantes que aumentan la visibilidad en situaciones de poca luz.
 - Material y forma – Camiseta para correr Under Armour STREAKER 2.0, cuerpo – 93% de poliéster/7% de elasterell, malla – 96% de poliéster/4% de elasterell
+- Tecnología UA Microthread – El novedoso tejido de esta camiseta transpirable se seca rápido, no se pega, no roza y se estira sin absorber el sudor
+- Mantiene la frescura – La camiseta deportiva elimina el sudor y se seca rápido. La tecnología antiolor evita la aparición de microbios y malos olores.
+- Ropa deportiva con prácticos detalles – La camiseta para hombre tiene detalles reflectantes que aumentan la visibilidad en situaciones de poca luz.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07J3C1HSS/?tag=tolees-21)
