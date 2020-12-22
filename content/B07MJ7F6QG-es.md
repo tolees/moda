@@ -25,8 +25,8 @@ Está [Clarks Paulson Plain  Zapatos de Cordones Derby Hombre  Marrón Oscuro Br
 
 ℹ️:
 
-- Interior: textil.
-- Exterior: piel.
 - Suela: goma.
+- Exterior: piel.
+- Interior: textil.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07MJ7F6QG/?tag=tolees-21)
