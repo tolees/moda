@@ -25,9 +25,9 @@ Tienes [Disney Mickey The Blogger Cartera con Monedero Rosa 12 8x8 5x3 cms PVC y
 
 🔎:
 
-- Cuenta con ocho ranuras para guardar las tarjetas y un espacio independiente para los billetes
-- Incluye monedero con dos compartimentos
 - Cartera de 12,8 cm x 8,5 cm x 3 cm fabricada en pvc y poliéster
 - De joumma bags
+- Cuenta con ocho ranuras para guardar las tarjetas y un espacio independiente para los billetes
+- Incluye monedero con dos compartimentos
 
 [Comprar!!!](https://www.amazon.es/dp/B084KYMN64/?tag=tolees-21)
