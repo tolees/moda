@@ -25,10 +25,10 @@ Está [G-STAR RAW Midge Cody Mid Waist Skinny Vaqueros  Azul  Faded Blue 5245-A8
 
 ℹ️:
 
-- Lavar a máquina - caliente (mayor de 30 °)
 - Cierre: Boton y cierre
-- Usado
-- 35% Algodón, 35% Lyocell, 28% Poliéster, 2% Elastano
 - Skinny
+- Lavar a máquina - caliente (mayor de 30 °)
+- 35% Algodón, 35% Lyocell, 28% Poliéster, 2% Elastano
+- Usado
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07N18Y6WV/?tag=tolees-21)
