@@ -25,7 +25,7 @@ Tienes [BILLABONG All Day 10K Jacket Chaqueta Deportiva  Negro  Black Heather 12
 
 🔎:
 
-- Chaqueta.
 - Chaqueta impermeable.
+- Chaqueta.
 
 [Comprar!!!](https://www.amazon.es/dp/B07S289XVG/?tag=tolees-21)

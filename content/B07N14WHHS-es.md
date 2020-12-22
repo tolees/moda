@@ -27,9 +27,9 @@ Tienes [G-STAR RAW 3301 Slim Fit Vaqueros  Antic Charcoal  27W / 32L para Hombre
 
 - Normal
 - Vaqueros slim
-- Usado
-- Cierre: Boton y cierre
 - 99% Algodón, 1% Elastano
 - Lavar a máquina - caliente (mayor de 30 °)
+- Cierre: Boton y cierre
+- Usado
 
 [Comprar!!!](https://www.amazon.es/dp/B07N14WHHS/?tag=tolees-21)

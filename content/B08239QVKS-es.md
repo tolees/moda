@@ -25,8 +25,8 @@ Tienes [Levi s Type 3 Chaqueta de Jean  Roadster Sherpa Trucker  S para Hombre](
 
 🔎:
 
-- Bolsillos de parche en el pecho con solapa y cierre de botón automático
-- Bajo ajustable en el lateral
 - Manga larga con cierre de botón en los puños
+- Bajo ajustable en el lateral
+- Bolsillos de parche en el pecho con solapa y cierre de botón automático
 
 [Comprar!!!](https://www.amazon.es/dp/B08239QVKS/?tag=tolees-21)
