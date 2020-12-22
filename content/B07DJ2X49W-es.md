@@ -25,12 +25,12 @@ Tienes [Geox D ANNYTAH D  Bailarinas Mujer  Beige  Lt Taupe C6738   37 EU](https
 
 🔎:
 
+- Cierre: Sin cordones
 - Material exterior: Cuero
 - Material de la suela: Sintético
-- Tipo de tacón: Plano
+- Revestimiento: Sintético
 - Tipo de talla: Te informamos que los zapatos Geox son holgados, te recomendamos elegir media talla menos con respecto a tu talla habitual
 - Altura del tacón: 2 centímetros
-- Cierre: Sin cordones
-- Revestimiento: Sintético
+- Tipo de tacón: Plano
 
 [Comprar!!!](https://www.amazon.es/dp/B07DJ2X49W/?tag=tolees-21)
