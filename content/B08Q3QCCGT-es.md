@@ -25,10 +25,10 @@ En este momento está [Camiseta de mapa del mundo para hombre  diseño de galaxi
 
 🔎:
 
-- Material cómodo: nuestra camiseta está hecha de poliéster y elastano, que es con alta transpirabilidad y elasticidad, tiene buena permeabilidad al aire, tendrás una experiencia cómoda de uso.
-- Múltiples tallas para ti: las tallas de nuestra camiseta 3D incluyen: S, M, L, XL, 2XL. Varios tamaños disponibles para ti, consulta la tabla de tallas antes de realizar el pedido.
 - Impresión completa: diseño de camisetas impresas en 3D en ambos lados; los gráficos 3D en la camisa con colores vibrantes y brillantes, no te preocupes por la decoloración y el pelado.
-- Diseño elegante: esta camiseta casual tiene un diseño clásico de cuello redondo y manga corta, sedosa y ligera, puedes mantenerte cómoda en el trabajo o en casa todo el tiempo.
+- Material cómodo: nuestra camiseta está hecha de poliéster y elastano, que es con alta transpirabilidad y elasticidad, tiene buena permeabilidad al aire, tendrás una experiencia cómoda de uso.
 - Bonitos regalos: las camisetas pueden ser como regalos delicados para adolescentes, chicos o adultos jóvenes o mujeres a las que les gusta el estilo casual hip hop.
+- Múltiples tallas para ti: las tallas de nuestra camiseta 3D incluyen: S, M, L, XL, 2XL. Varios tamaños disponibles para ti, consulta la tabla de tallas antes de realizar el pedido.
+- Diseño elegante: esta camiseta casual tiene un diseño clásico de cuello redondo y manga corta, sedosa y ligera, puedes mantenerte cómoda en el trabajo o en casa todo el tiempo.
 
 [Aquí!!!](https://www.amazon.es/dp/B08Q3QCCGT/?tag=tolees-21)
