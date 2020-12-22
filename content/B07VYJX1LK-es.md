@@ -25,10 +25,10 @@ Está [Pepe Jeans Fringe Bolso Shopper Marrón 30x31x12 cms Piel Sintética](htt
 
 ℹ️:
 
-- From Joumma Bags
+- Bag 30 cm x 31 cm x 12 cm made of synthetic leather
+- Three inner pockets, one of them with zipper, to improve organization
 - Adjustable shoulder strap for comfort and carrying as a handbag
 - Front and back pocket for easy access to smaller personal effects
-- Three inner pockets, one of them with zipper, to improve organization
-- Bag 30 cm x 31 cm x 12 cm made of synthetic leather
+- From Joumma Bags
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07VYJX1LK/?tag=tolees-21)
