@@ -27,7 +27,7 @@ Está [adidas Core18 PES Jkt Chaqueta  Hombre  Negro  Black/White   XL](https://
 
 - Cuello altamente cerrable
 - Chaqueta con bolsillos con cremallera
-- Material 100% poliéster
 - Puños con puños elásticos
+- Material 100% poliéster
 
 [Ver la oferta!!](https://www.amazon.es/dp/B076HQRHDH/?tag=tolees-21)
