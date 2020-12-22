@@ -26,8 +26,8 @@ Tienes [Puma Basic - Boxer para hombre  color Azul / Azul marino  talla Medium  
 🔎:
 
 - Tipo de producto: Calzoncillo
+- Ofrecen comodidad y flexibilidad
 - Marca del producto: Puma
 - Viene con logotipo frontal
-- Ofrecen comodidad y flexibilidad
 
 [Comprar!!!](https://www.amazon.es/dp/B00VPZD4I4/?tag=tolees-21)

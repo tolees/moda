@@ -25,7 +25,7 @@ Ahora mismo tienes [G-STAR RAW Premium Basic Sudadera  Azul  Sartho Blue C235-60
 
 🔎:
 
-- Las prendas de RAW Sustainable se confeccionan a partir de materiales sostenibles y permiten minimizar el impacto en el medioambiente de la colección G-Star.
 - La sudadera está confeccionada en una exquisita tela de felpa con un cálido revés.
+- Las prendas de RAW Sustainable se confeccionan a partir de materiales sostenibles y permiten minimizar el impacto en el medioambiente de la colección G-Star.
 
 [Visítala!!!](https://www.amazon.es/dp/B07RH2DDQQ/?tag=tolees-21)
