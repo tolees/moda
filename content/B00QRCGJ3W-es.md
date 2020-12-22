@@ -27,8 +27,8 @@ En este momento está [Geox U NEBULA B - zapatilla deportiva de cuero hombre  Az
 
 - Revestimiento: Malla
 - Material exterior: Sintético
-- Material de la suela: EVA
-- Cierre: Sin cordones
 - Tipo de tacón: Plano
+- Cierre: Sin cordones
+- Material de la suela: EVA
 
 [Aquí!!!](https://www.amazon.es/dp/B00QRCGJ3W/?tag=tolees-21)

@@ -25,10 +25,10 @@ En este momento está [Adidas Real Madrid Temporada 2020/21 Pantalón Largo Chan
 
 🔎:
 
-- Ropa deportiva fabricada con materiales de primera calidad que se adaptan a cualquier actividad deportiva
-- Los productos deportivos de la marca Adidas están diseñados para que disfrutes de tu deporte favorito sin preocuparte de nada más que rendir al máximo.
-- Pantalón para practicar Tiempo libre y sportwear de Hombre
 - Pantalón REAL TR PNT GRICIN
 - Ropa deportiva Multicolor de la marca Adidas
+- Pantalón para practicar Tiempo libre y sportwear de Hombre
+- Los productos deportivos de la marca Adidas están diseñados para que disfrutes de tu deporte favorito sin preocuparte de nada más que rendir al máximo.
+- Ropa deportiva fabricada con materiales de primera calidad que se adaptan a cualquier actividad deportiva
 
 [Aquí!!!](https://www.amazon.es/dp/B08CBL1S18/?tag=tolees-21)
