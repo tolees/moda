@@ -26,9 +26,9 @@ En este momento está [Havaianas Baby Brasil Logo II  Sandalias Unisex Niños  M
 🔎:
 
 - Revestimiento: Sin forro
+- Cierre: Sin cierre
 - Material exterior: Caucho
 - Tipo de tacón: Plano
-- Cierre: Sin cierre
 - Material de la suela: Caucho
 
 [Aquí!!!](https://www.amazon.es/dp/B075HFB5X3/?tag=tolees-21)

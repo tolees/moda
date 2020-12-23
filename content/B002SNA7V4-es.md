@@ -25,12 +25,12 @@ Tienes [Crocs Crocband Flip  Chanclas Unisex Adulto  Negro  36.5 EU](https://www
 
 🔎:
 
-- Material exterior: Espuma
-- Composición: Sintético
-- Altura del tacón: 1 centímetro
-- Tipo de tacón: Plano
 - Revestimiento: Sin forro
+- Altura del tacón: 1 centímetro
+- Material exterior: Espuma
 - Cierre: Sin cordones
+- Tipo de tacón: Plano
 - Material de la suela: Goma
+- Composición: Sintético
 
 [Comprar!!!](https://www.amazon.es/dp/B002SNA7V4/?tag=tolees-21)
