@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lee Clean Western Shirt Camisa Casual  R al 55.81 % de descuento'
-date: 2020-12-21 20:11:37
+date: 2020-12-23 02:21:42
 image: 'https://m.media-amazon.com/images/I/41NgjiZljRL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07VPXK6C7/?tag=tolees-21'
 descuento: '55.81'
-average: '25.49'
+average: '25.63285714285714'
 ---
 
 Ahora mismo tienes [Lee Clean Western Shirt Camisa Casual  Rojo  Poppy Red NH   Small para Hombre](https://www.amazon.es/dp/B07VPXK6C7/?tag=tolees-21) a 26.49 EUR (original: 59.95 EUR) (55.81 %  de descuento) en el siguiente enlace!
@@ -25,8 +25,8 @@ Ahora mismo tienes [Lee Clean Western Shirt Camisa Casual  Rojo  Poppy Red NH   
 
 🔎:
 
-- Producto de corte ajustado
 - Presenta botones de presión de nácar
 - El logo de Lee se agrega en un parche bordado en el bolsillo izquierdo del pecho
+- Producto de corte ajustado
 
 [Visítala!!!](https://www.amazon.es/dp/B07VPXK6C7/?tag=tolees-21)

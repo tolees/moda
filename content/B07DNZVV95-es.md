@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 30.05 % en Eastpak Crew Single Monedero  13 Cm  Azu'
-date: 2020-12-21 15:13:30
+date: 2020-12-23 02:36:49
 image: 'https://m.media-amazon.com/images/I/41JXJip6HuL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,10 +25,9 @@ Tienes [Eastpak Crew Single Monedero  13 Cm  Azul  Triple Denim ](https://www.am
 
 ℹ️:
 
-- Big double deck compartments, with integrated TSA lock and zip front pocket
-- Packs away flat when youre not using it
-- Height: 67 cm, Width: 35.5 cm, Depth: 30 cm
-- 100 Percent polyester, with an authentic denim feel
-- Trolley style case, with easy carry padded handle grips and smooth wheels
+- Fabricada 100 % en poliéster y con un tacto vaquero
+- Altura: 9.5 cm, Ancho: 13.5 cm
+- Varios compartimentos interiores y traseros para guardar dinero y tarjetas
+- Altura: 9.5 cm, Ancho: 13.5 cm
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07DNZVV95/?tag=tolees-21)
