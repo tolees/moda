@@ -25,8 +25,8 @@ Ahora mismo tienes [adidas Entrada 44 Camiseta de Fútbol para Hombre de Cuello 
 
 🔎:
 
-- Regular fit
 - Adidas logo on the front
 - Climalite anti-humidity fabric
+- Regular fit
 
 [Visítala!!!](https://www.amazon.es/dp/B07JNHFKHM/?tag=tolees-21)

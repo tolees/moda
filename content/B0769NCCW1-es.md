@@ -25,7 +25,7 @@ Está [Only Onlgemma Faux Leather Biker Otw Noos Chaqueta  Negro  Black Black   
 
 ℹ️:
 
-- Zip closure
 - Faux leather jacket
+- Zip closure
 
 [Ver la oferta!!](https://www.amazon.es/dp/B0769NCCW1/?tag=tolees-21)

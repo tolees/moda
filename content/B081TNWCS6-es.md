@@ -25,8 +25,8 @@ Está [adidas Go-To tee Camiseta de Manga Corta  Mujer  Black/White  XS](https:/
 
 ℹ️:
 
+- adidas logo
 - Regular fit
 - Climacool Technology
-- adidas logo
 
 [Ver la oferta!!](https://www.amazon.es/dp/B081TNWCS6/?tag=tolees-21)
