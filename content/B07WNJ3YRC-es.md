@@ -25,9 +25,9 @@ En este momento está [YOSICIL Zapatos de la Princesa Elsa niñas con Lentejuela
 
 🔎:
 
+- 👠Método de entrega:La entrega por lo general 10-15 DÍAS
 - 👠Los zapatos es muy suave y transpirable,Fuerte y suave, sin arrugas,resistente al desgaste.
 - 👠SERVICIO POSTVENTA:Si hay alguna insatisfacción, envíenos un correo electrónico antes de dejar cualquier calificación negativa
-- 👠Método de entrega:La entrega por lo general 10-15 DÍAS
 - 👠Talla:EU 22 -EU 35,(3 anos -11anos)
 - 👠Altura del tacón: 1 Centímetros,Tipo de tacón:Plataforma
 
