@@ -26,7 +26,7 @@ Está [Tous Efim Brunock Chain  Bolso de Mano para Mujer  Azul  Marino 595810119
 ℹ️:
 
 - Certificado autenticidad tous
-- Tous
 - Efim brunock chain marino (bolso)
+- Tous
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01MQFTRMR/?tag=tolees-21)
