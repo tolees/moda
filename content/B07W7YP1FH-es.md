@@ -25,8 +25,8 @@ Está [UMBRO Core Training Half Zip Top Sudadera  Hombre  Gris  S](https://www.a
 
 ℹ️:
 
-- Comodidad
 - Transpirabilidad
 - Elasticidad
+- Comodidad
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07W7YP1FH/?tag=tolees-21)
