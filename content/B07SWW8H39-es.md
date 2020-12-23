@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vero Moda Vmava Plain SS Top Ga Noos Cam al 40.03 % de rebaja'
-date: 2020-12-22 20:07:27
+date: 2020-12-23 20:32:00
 image: 'https://m.media-amazon.com/images/I/41JXeC20Z4L._SL200_.jpg'
 comments: true
 category: ofertas
