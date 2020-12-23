@@ -25,8 +25,8 @@ En este momento está [Levi s Graphic tee B Camiseta  Hm LS Better Black  M para
 
 🔎:
 
-- Modelo casual
-- Elaborada en punto suave
 - Con un logo Levis en horizontal en el pecho
+- Elaborada en punto suave
+- Modelo casual
 
 [Aquí!!!](https://www.amazon.es/dp/B076Y9FQD3/?tag=tolees-21)
