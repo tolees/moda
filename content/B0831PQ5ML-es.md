@@ -25,10 +25,10 @@ Tienes [Canadian Peak Parka Mujer Dall  Azul Marino  talla 1](https://www.amazon
 
 ℹ️:
 
-- Pelo sintético desmontable
 - Apertura central con cremallera y botones
 - Bordados e insignias de la marca
-- Presencia de bolsillos
 - Capucha
+- Presencia de bolsillos
+- Pelo sintético desmontable
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B0831PQ5ML/?tag=tolees-21)
