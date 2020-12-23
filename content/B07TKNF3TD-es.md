@@ -25,7 +25,7 @@ En este momento está [Clarks Stanford Walk  Zapatos de Cordones Derby  Negro  B
 
 🔎:
 
-- Material de la suela: TR
 - Color exacto: cuero negro.
+- Material de la suela: TR
 
 [Aquí!!!](https://www.amazon.es/dp/B07TKNF3TD/?tag=tolees-21)

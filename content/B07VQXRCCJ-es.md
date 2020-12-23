@@ -25,8 +25,8 @@ Ahora mismo tienes [TTYAOVO Vestido de Princesa con Encaje para Niñas Vestido d
 
 🔎:
 
-- Consulte nuestra información de tamaño en la imagen de la izquierda de la tabla de tamaños detallados antes de realizar el pedido. La Tabla de tallas significa rangos de edad para el bebé, pero son solo para orientación general.
 - Conjuntos de 2 piezas para bebés de verano: top estampado con estampado y falda de tul con lazo, material de tela suave y transpirable, cómodo de llevar.
+- Consulte nuestra información de tamaño en la imagen de la izquierda de la tabla de tamaños detallados antes de realizar el pedido. La Tabla de tallas significa rangos de edad para el bebé, pero son solo para orientación general.
 - Traje para la fiesta de cumpleaños, casual, día de fiesta, fotografía u otro desgaste diario.
 - Cuidado de la ropa: se recomienda lavar a mano con agua fría. No usar lejía, colgar o secar en línea. Se seca rápidamente.
 - Algodón Poliéster Mezcla material, diseños de moda para niñas.

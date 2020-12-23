@@ -26,7 +26,7 @@ Está [NIKE M Nk Dry Park VII JSY SS Camiseta de Manga Corta  Hombre  Verde  Pin
 ℹ️:
 
 - Ribbed crewneck
-- Nike Dry fabric
 - Regular fit
+- Nike Dry fabric
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07W4SYJ96/?tag=tolees-21)
