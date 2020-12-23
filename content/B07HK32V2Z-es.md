@@ -26,7 +26,7 @@ Ahora mismo tienes [Levi s Type 3 Sherpa Trucker Chaqueta de camionero Azul   Ne
 🔎:
 
 - Bolsillos de parche en el pecho con solapa y cierre de botón automático
-- Manga larga con cierre de botón en los puños
 - Bajo ajustable en el lateral
+- Manga larga con cierre de botón en los puños
 
 [Visítala!!!](https://www.amazon.es/dp/B07HK32V2Z/?tag=tolees-21)
