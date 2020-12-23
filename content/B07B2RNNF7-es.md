@@ -25,10 +25,10 @@ Ahora mismo tienes [Vestidos de Flores para Bodas Vestido de Encaje de Flores pa
 
 🔎:
 
-- PRECAUCIONES DE LAVADO: Se recomienda un ciclo de lavado suave y secado en seco. La limpieza en seco también es una opción y extiende el uso de su vestido.
-- DISEÑO EXQUISITO: encaje bordado noble, maxi vestido de niña de las flores, fajín elegante, longitud del piso, manga larga, cremallera oculta en la parte posterior. Diseño de bordado hecho a mano de alta calidad y hecho a mano, cada procesamiento de bordado en el vestido nos completará 6 horas.
 - MULTIUSOS: Traje para niñas primera comunión, desfile, vestidos de niña de las flores de la boda, fiesta de cumpleaños, vestidos de fiesta, Pascua y otras ocasiones formales o especiales.
-- TAMAÑO: Disponible para niñas de 0-13 años, consulte la imagen de tamaño antes de realizar el pedido.
 - TELA DE ALTA CALIDAD: Hecho de encaje de alta calidad, forrado de algodón, suave, cómodo de llevar, respetuoso con la piel y transpirable.
+- TAMAÑO: Disponible para niñas de 0-13 años, consulte la imagen de tamaño antes de realizar el pedido.
+- DISEÑO EXQUISITO: encaje bordado noble, maxi vestido de niña de las flores, fajín elegante, longitud del piso, manga larga, cremallera oculta en la parte posterior. Diseño de bordado hecho a mano de alta calidad y hecho a mano, cada procesamiento de bordado en el vestido nos completará 6 horas.
+- PRECAUCIONES DE LAVADO: Se recomienda un ciclo de lavado suave y secado en seco. La limpieza en seco también es una opción y extiende el uso de su vestido.
 
 [Visítala!!!](https://www.amazon.es/dp/B07B2RNNF7/?tag=tolees-21)

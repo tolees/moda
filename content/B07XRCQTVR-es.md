@@ -26,9 +26,9 @@ Ahora mismo tienes [Geographical Norway Parka Mujer BOOMERA Azul Marino 4](https
 🔎:
 
 - Bolsillo en la manga
-- Modelo: Boomera
-- Capucha fija y pelo sintético desmontable
 - Bolsillo tipo canguro en la parte delantera
+- Capucha fija y pelo sintético desmontable
+- Modelo: Boomera
 - Media cremallera
 
 [Visítala!!!](https://www.amazon.es/dp/B07XRCQTVR/?tag=tolees-21)

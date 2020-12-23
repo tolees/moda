@@ -25,8 +25,8 @@ Ahora mismo tienes [Geographical Norway Parka BOOMERANG hombre AZUL MARINO talla
 
 🔎:
 
-- Chaqueta de hombre
 - Capucha
+- Chaqueta de hombre
 - pelo destomtable
 
 [Visítala!!!](https://www.amazon.es/dp/B07YCVJDVV/?tag=tolees-21)

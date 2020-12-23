@@ -26,7 +26,7 @@ En este momento está [Geographical Norway Parka Hombre ALCALINE 041 rol 7 + BS]
 🔎:
 
 - Cierre cremallera parte central
-- Capucha
 - insignia PVC en la manga
+- Capucha
 
 [Aquí!!!](https://www.amazon.es/dp/B082BBWTD3/?tag=tolees-21)
