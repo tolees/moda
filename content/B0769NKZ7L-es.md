@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Only Onlgemma Faux Leather Biker Otw Noo al 40.01 % de descuento'
-date: 2020-11-03 12:16:29
+date: 2020-12-23 16:47:45
 image: 'https://m.media-amazon.com/images/I/417uCWoeMDL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,13 +16,18 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0769NKZ7L/?tag=tolees-21'
 descuento: '40.01'
+average: '29.99'
 ---
 
 Ahora mismo tienes [Only Onlgemma Faux Leather Biker Otw Noos Chaqueta  Negro  Black Black   Large  Talla del Fabricante: 40  para Mujer](https://www.amazon.es/dp/B0769NKZ7L/?tag=tolees-21) a 29.99 EUR (original: 49.99 EUR) (40.01 %  de descuento) en el siguiente enlace!
 
 [![Only Onlgemma Faux Leather Biker Otw Noo](https://m.media-amazon.com/images/I/417uCWoeMDL._SL200_.jpg)](https://www.amazon.es/dp/B0769NKZ7L/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
+- Estación: SIEMPRE DISPONIBLE
+- Color: negro
+- Artículo: 15153079 GEMMA
+- Designer: ONLY
 
 [Visítala!!!](https://www.amazon.es/dp/B0769NKZ7L/?tag=tolees-21)
