@@ -25,7 +25,7 @@ Tienes [FM London Fitted Boxer  Negro  Black 01   X-Large  Pack de 8  para Hombr
 
 🔎:
 
-- Stretch cotton for supportive, customised fit
 - Hyfresh anti-odour technology
+- Stretch cotton for supportive, customised fit
 
 [Comprar!!!](https://www.amazon.es/dp/B07TLDV3H9/?tag=tolees-21)

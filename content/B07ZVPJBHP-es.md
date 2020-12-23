@@ -25,8 +25,8 @@ Ahora mismo tienes [Levi s Original Trucker Chaqueta  All Mine  X-Small para Muj
 
 🔎:
 
-- Bolsillos de parche en el pecho con solapa y corchete
 - Un básico versátil para completar cualquier conjunto
 - Trabillas ajustables en la parte posterior de la cinturilla
+- Bolsillos de parche en el pecho con solapa y corchete
 
 [Visítala!!!](https://www.amazon.es/dp/B07ZVPJBHP/?tag=tolees-21)

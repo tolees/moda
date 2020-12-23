@@ -26,7 +26,7 @@ Tienes [Levi s The Perfect Tee  Camiseta  Mujer  Blanco  90 s Serif T2 White+ 07
 🔎:
 
 - Con tacto suave de forro polar
-- Tiene estampado la marca Levis
 - Modelo casual
+- Tiene estampado la marca Levis
 
 [Comprar!!!](https://www.amazon.es/dp/B07S3WMK99/?tag=tolees-21)

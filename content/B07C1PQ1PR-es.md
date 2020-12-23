@@ -25,10 +25,10 @@ Está [UMIPUBO Mujer Blusa 3/4 Manga Camisas Elegante Camisetas Primavera Verano
 
 ℹ️:
 
-- Con cuello en V, acanalado, encaje, botón, corte slim, manga 3/4
-- Adecuado para Outwear o ropa interior. Fácil de combinar diferentes estilos de ropa. Nuevo para la temporada próxima.
 - Ocasión: Ideal para el ocio, los viajes, la vida cotidiana.
-- Longitud: regular.
+- Con cuello en V, acanalado, encaje, botón, corte slim, manga 3/4
 - Cuidado de la ropa: Se recomienda lavar a mano o lavar a máquina suavemente.
+- Longitud: regular.
+- Adecuado para Outwear o ropa interior. Fácil de combinar diferentes estilos de ropa. Nuevo para la temporada próxima.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07C1PQ1PR/?tag=tolees-21)
