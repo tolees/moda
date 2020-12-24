@@ -25,8 +25,8 @@ Tienes [Levi s Type 3 Chaqueta Vaquera  Palmer Sherpa Trucker  3XL para Hombre](
 
 🔎:
 
-- Bolsillos de parche en el pecho con solapa y cierre de botón automático
 - Bajo ajustable en el lateral
+- Bolsillos de parche en el pecho con solapa y cierre de botón automático
 - Manga larga con cierre de botón en los puños
 
 [Comprar!!!](https://www.amazon.es/dp/B07KF559WG/?tag=tolees-21)
