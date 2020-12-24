@@ -25,10 +25,10 @@ Está [Columbia CSC Basic Logo II Sudadera con Capucha  Hombre  Azul  Blanco  Br
 
 ℹ️:
 
-- Clásica y casual sudadera con capucha perfecta para cualquier momento y lugar
 - Contenido: 1 x Columbia CSC Basic Logo II Sudadera con capucha para hombre, Algodón, Azul, Blanco (Bright Indigo), L, Art. 1681664
-- Logotipo clásico de Columbia en el pecho y en la parte superior de la manga en un contrastado color sólido
-- Versátil capa de mezcla de algodón para afrontar los días fríos
 - Cómodas características que incluyen bolsillos tipo canguro para calentar las manos, puños acanalados y capucha ajustable con cordón
+- Clásica y casual sudadera con capucha perfecta para cualquier momento y lugar
+- Versátil capa de mezcla de algodón para afrontar los días fríos
+- Logotipo clásico de Columbia en el pecho y en la parte superior de la manga en un contrastado color sólido
 
 [Ver la oferta!!](https://www.amazon.es/dp/B087RCM2Q6/?tag=tolees-21)
