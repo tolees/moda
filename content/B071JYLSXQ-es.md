@@ -25,8 +25,8 @@ Está [Levi s The Perfect Tee  Camiseta para Mujer  Negro  Large Batwing Black 2
 
 ℹ️:
 
+- Con tacto suave de forro polar
 - Tiene estampado la marca Levis
 - Modelo casual
-- Con tacto suave de forro polar
 
 [Ver la oferta!!](https://www.amazon.es/dp/B071JYLSXQ/?tag=tolees-21)

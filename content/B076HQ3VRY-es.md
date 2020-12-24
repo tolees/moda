@@ -25,11 +25,11 @@ En este momento está [Adidas CORE18 Hoody Y Sudadera con Capucha  Unisex Niños
 
 🔎:
 
+- Felpa 70% algodón / 30% poliéster.
+- Capucha con cordón ajustable.
+- Manga raglán.
+- Puños y dobladillo de canalé.
 - Corte clásico más ancho y silueta recta.
 - Con bolsillo de tipo canguro
-- Puños y dobladillo de canalé.
-- Felpa 70% algodón / 30% poliéster.
-- Manga raglán.
-- Capucha con cordón ajustable.
 
 [Aquí!!!](https://www.amazon.es/dp/B076HQ3VRY/?tag=tolees-21)

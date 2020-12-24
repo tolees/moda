@@ -25,9 +25,9 @@ En este momento está [adidas TABELA 18 JSY Camiseta de Manga Corta  Hombre  Bla
 
 🔎:
 
-- Esta hecha de un material ligero y transpirable
 - Tiene mangas cortas
 - Ofrece libertad de movimiento
+- Esta hecha de un material ligero y transpirable
 - Camiseta de futbol para niños
 
 [Aquí!!!](https://www.amazon.es/dp/B07798XRYJ/?tag=tolees-21)
