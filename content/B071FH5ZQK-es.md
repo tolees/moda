@@ -25,9 +25,9 @@ Tienes [DoGeek Transpirable Zapatos de Ballet Zapatillas de Ballet de Danza Bail
 
 ℹ️:
 
-- Tipo de tacón: Plano
 - Material exterior: Lona
 - Revestimiento: Tela
+- Tipo de tacón: Plano
 - Material de la suela: Cuero
 - Cierre: Sin cordones
 
