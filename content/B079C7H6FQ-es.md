@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones Jjepocket tee SS O-Neck Noo al 46.11 % de descuento'
-date: 2020-11-23 19:06:51
+date: 2020-12-24 19:17:27
 image: 'https://m.media-amazon.com/images/I/41hyJdFco-L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,13 +16,16 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079C7H6FQ/?tag=tolees-21'
 descuento: '46.11'
+average: '7.29857142857143'
 ---
 
-Ahora mismo tienes [Jack & Jones Jjepocket tee SS O-Neck Noos Camiseta  Negro  Black Detail: Slim Fit   Medium para Hombre](https://www.amazon.es/dp/B079C7H6FQ/?tag=tolees-21) a 7.0 EUR (original: 12.99 EUR) (46.11 %  de descuento) en el siguiente enlace!
+Está [Jack & Jones Jjepocket tee SS O-Neck Noos Camiseta  Negro  Black Detail: Slim Fit   Medium para Hombre](https://www.amazon.es/dp/B079C7H6FQ/?tag=tolees-21) con 46.11 de descuento por 7.0 EUR (original: 12.99 EUR) en el siguiente enlace!
 
 [![Jack & Jones Jjepocket tee SS O-Neck Noo](https://m.media-amazon.com/images/I/41hyJdFco-L._SL200_.jpg)](https://www.amazon.es/dp/B079C7H6FQ/?tag=tolees-21)
 
 ℹ️:
 
+- Algodón bio para mayor comodidad.
+- Camiseta básica con cuello redondo.
 
-[Visítala!!!](https://www.amazon.es/dp/B079C7H6FQ/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B079C7H6FQ/?tag=tolees-21)
