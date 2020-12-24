@@ -25,10 +25,10 @@ Está [Clarks Deva Bell  Sandalias de Talón Abierto Mujer  Negro  Black Nubuck 
 
 ℹ️:
 
-- Forro: Textil
 - Suela: Caucho
-- Altura Del Talón: 7 Cm
-- Uppers: Gamuza
 - Ajuste: (d) Estándar
+- Uppers: Gamuza
+- Forro: Textil
+- Altura Del Talón: 7 Cm
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07TMRK1BK/?tag=tolees-21)

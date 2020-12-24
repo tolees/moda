@@ -25,8 +25,8 @@ Está [Geox UOMO Symbol B  Zapatos de Cordones Hombre  Negro  41 EU](https://www
 
 ℹ️:
 
-- Perforierte Sohle mit einer inneren Membran – ist atmungsaktiv & wasserundurchlässig
 - Der U Symbol B für Herren von Geox ist ein atmungsaktiver Halbschuh für Beruf und Alltag.
+- Perforierte Sohle mit einer inneren Membran – ist atmungsaktiv & wasserundurchlässig
 - Anlass: Casual
 - Gepolsterter Einstieg für ein komfortables An- und Ausziehen
 - Hochwertiges Leder ist strapazierfähig und langlebig
