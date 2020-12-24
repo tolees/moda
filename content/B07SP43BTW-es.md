@@ -25,11 +25,11 @@ En este momento está [Havaianas Top Mix  Chanclas Unisex Adulto  Azul  Navy/Bla
 
 🔎:
 
+- Anchura del zapato: Normal
+- Cierre: Sin cierre
 - Tipo de tacón: Plano
 - Material de la suela: Caucho
-- Anchura del zapato: Normal
 - Material exterior: Caucho
-- Cierre: Sin cierre
 - Altura del tacón: 1 centímetros
 - Revestimiento: Sin forro
 
