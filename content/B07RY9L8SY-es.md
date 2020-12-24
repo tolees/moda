@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Vneck Camiseta  White  White + 00 con un 36.04 % de descuento'
-date: 2020-12-23 14:21:00
+date: 2020-12-24 14:47:24
 image: 'https://m.media-amazon.com/images/I/31A1BbZk2vL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07RY9L8SY/?tag=tolees-21'
 descuento: '36.04'
-average: '15.828235294117649'
+average: '15.831346153846155'
 ---
 
 En este momento está [Levi s Vneck Camiseta  White  White + 0002   Small para Mujer](https://www.amazon.es/dp/B07RY9L8SY/?tag=tolees-21) a 15.99 EUR (original: 25.0 EUR) (36.04 %  de descuento) en el siguiente enlace!
@@ -25,8 +25,8 @@ En este momento está [Levi s Vneck Camiseta  White  White + 0002   Small para M
 
 🔎:
 
+- Tiene bordado en el pecho la marca Levis
 - Modelo casual
 - Con suave tejido y el corte clásico
-- Tiene bordado en el pecho la marca Levis
 
 [Aquí!!!](https://www.amazon.es/dp/B07RY9L8SY/?tag=tolees-21)
