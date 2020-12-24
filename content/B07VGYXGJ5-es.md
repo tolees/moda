@@ -25,12 +25,12 @@ Tienes [Calvin Klein Zip Through HD Jacket Chaqueta  Verde  New Basil MSP   Smal
 
 ℹ️:
 
-- Tiradores de las cremalleras de la marca, sin forro
-- Cuello con capucha
 - Cierre de cremallera
-- Ajuste relaxed
-- Bolsillos con cremallera en la cintura
-- Poliéster reciclado
+- Cuello con capucha
 - Puños elásticos
+- Poliéster reciclado
+- Bolsillos con cremallera en la cintura
+- Ajuste relaxed
+- Tiradores de las cremalleras de la marca, sin forro
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07VGYXGJ5/?tag=tolees-21)
