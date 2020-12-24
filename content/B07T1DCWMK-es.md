@@ -26,10 +26,10 @@ Está [Timberland Newport Bay Bumper Toe Oxford  Zapatillas Mujer  Negro Black C
 ℹ️:
 
 - Material de la suela: goma
-- Cierre: cordones
 - Material exterior: tela
-- Tipo de tacón: plano
-- Forro: tela
 - Ancho del zapato: normal
+- Forro: tela
+- Cierre: cordones
+- Tipo de tacón: plano
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07T1DCWMK/?tag=tolees-21)
