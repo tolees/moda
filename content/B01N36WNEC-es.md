@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s The Perfect Tee  Camiseta  Mujer  al 28.04 % de descuento'
-date: 2020-12-23 19:58:52
+date: 2020-12-24 20:15:38
 image: 'https://m.media-amazon.com/images/I/41RfrjjDCCL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N36WNEC/?tag=tolees-21'
 descuento: '28.04'
-average: '16.197'
+average: '16.495833333333334'
 ---
 
 Está [Levi s The Perfect Tee  Camiseta  Mujer  Blanco  White 297   M](https://www.amazon.es/dp/B01N36WNEC/?tag=tolees-21) con 28.04 de descuento por 17.99 EUR (original: 25.0 EUR) en el siguiente enlace!
@@ -25,8 +25,8 @@ Está [Levi s The Perfect Tee  Camiseta  Mujer  Blanco  White 297   M](https://w
 
 ℹ️:
 
-- Tiene estampado la marca Levis
 - Modelo casual
 - Con tacto suave de forro polar
+- Tiene estampado la marca Levis
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01N36WNEC/?tag=tolees-21)

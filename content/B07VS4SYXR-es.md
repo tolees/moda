@@ -26,7 +26,7 @@ Tienes [Lee Scarlett Vaqueros Skinny  Blanco  Rinse 36   W24/L31  Talla del Fabr
 🔎:
 
 - Tienen un parche de piel en la parte trasera con la marca Lee
-- Vaqueros para mujer
 - Presentan 5 bolsillos
+- Vaqueros para mujer
 
 [Comprar!!!](https://www.amazon.es/dp/B07VS4SYXR/?tag=tolees-21)
