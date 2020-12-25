@@ -25,8 +25,8 @@ Está [Levi s 512 Slim Taper Vaqueros  Abu ADV  28W / 32L para Hombre](https://w
 
 ℹ️:
 
-- Corte ajustado en los muslos
 - Apertura de pierna pitillo
+- Corte ajustado en los muslos
 - Diseño de cinco bolsillos
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07KKHW76M/?tag=tolees-21)

@@ -25,9 +25,9 @@ Está [Only ONLSEDONA Light Coat OTW Noos Abrigo  Rosin/Detail:Melange  S para M
 
 ℹ️:
 
-- Color: GREEN
-- Estación: Otoño/Invierno
-- Artículo: 15142911 SEDONA
 - Designer: ONLY
+- Artículo: 15142911 SEDONA
+- Estación: Otoño/Invierno
+- Color: GREEN
 
 [Ver la oferta!!](https://www.amazon.es/dp/B08B621ZJB/?tag=tolees-21)
