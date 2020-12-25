@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Havaianas Brasil Logo  Chanclas Unisex A al 49.83 % de descuento'
-date: 2020-12-05 10:33:27
+title: 'Havaianas Brasil Logo  Chanclas Unisex A con un 49.83 % de descuento'
+date: 2020-12-25 13:53:19
 image: 'https://m.media-amazon.com/images/I/41FzhZHx7EL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,13 +16,20 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B001OI3MQG/?tag=tolees-21'
 descuento: '49.83'
+average: '11.99'
 ---
 
-Está [Havaianas Brasil Logo  Chanclas Unisex Adulto  Azul  Navy Blue   43/44 EU](https://www.amazon.es/dp/B001OI3MQG/?tag=tolees-21) con 49.83 de descuento por 11.99 EUR (original: 23.9 EUR) en el siguiente enlace!
+En este momento está [Havaianas Brasil Logo  Chanclas Unisex Adulto  Azul  Navy Blue   43/44 EU](https://www.amazon.es/dp/B001OI3MQG/?tag=tolees-21) a 11.99 EUR (original: 23.9 EUR) (49.83 %  de descuento) en el siguiente enlace!
 
 [![Havaianas Brasil Logo  Chanclas Unisex A](https://m.media-amazon.com/images/I/41FzhZHx7EL._SL200_.jpg)](https://www.amazon.es/dp/B001OI3MQG/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
+- Revestimiento: Caucho
+- Tipo de tacón: Plano
+- Material de la suela: Goma
+- Cierre: Sin cordones
+- Composición: Goma
+- Material exterior: Caucho
 
-[Ver la oferta!!](https://www.amazon.es/dp/B001OI3MQG/?tag=tolees-21)
+[Aquí!!!](https://www.amazon.es/dp/B001OI3MQG/?tag=tolees-21)
