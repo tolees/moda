@@ -25,10 +25,10 @@ Está [Helly Hansen HP Racing Midlayer Lifaloft Cuello Forro Polar Marina Deport
 
 ℹ️:
 
+- Protección total de los elementos a la vez que cómoda en el interior.
 - Construcción completamente estirada para una máxima libertad de movimiento.
 - Aislamiento incorporado de Lifalot para un calor ligero y un volumen mínimo
-- Helly Tech Performance: altamente impermeable y extra transpirable
 - Polartec cuello cómodo forrado con vellón
-- Protección total de los elementos a la vez que cómoda en el interior.
+- Helly Tech Performance: altamente impermeable y extra transpirable
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07F2QLYN6/?tag=tolees-21)
