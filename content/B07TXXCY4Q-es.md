@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Wrangler Icons Camisa vaquera  Azul  Goo al 55.76 % de rebaja'
-date: 2020-12-24 08:49:52
+date: 2020-12-25 08:54:33
 image: 'https://m.media-amazon.com/images/I/41dRYwMtwpL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07TXXCY4Q/?tag=tolees-21'
 descuento: '55.76'
-average: '38.76'
+average: '39.10333333333333'
 ---
 
 Tienes [Wrangler Icons Camisa vaquera  Azul  Good Day 106   Small para Hombre](https://www.amazon.es/dp/B07TXXCY4Q/?tag=tolees-21) con precio final de  39.79 EUR (original: 89.95 EUR) (55.76 %  de rebaja) aqui!
