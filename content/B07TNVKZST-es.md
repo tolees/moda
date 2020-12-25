@@ -25,7 +25,7 @@ Ahora mismo tienes [Clarks Kaylin Cara  Zapatos de Tacón para Mujer  Gris  Ston
 
 🔎:
 
-- Material De La Suela: Resina De Caucho
 - Color Exacto: Piedra Met Lea
+- Material De La Suela: Resina De Caucho
 
 [Visítala!!!](https://www.amazon.es/dp/B07TNVKZST/?tag=tolees-21)
