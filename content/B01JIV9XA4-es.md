@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s 511 Slim Vaqueros  Rock Cod  26W  al 30.05 % de rebaja'
-date: 2020-12-22 22:13:16
+date: 2020-12-25 04:17:35
 image: 'https://m.media-amazon.com/images/I/31jh1r1jkTL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01JIV9XA4/?tag=tolees-21'
 descuento: '30.05'
-average: '42.026379310344815'
+average: '43.190499999999986'
 ---
 
 Tienes [Levi s 511 Slim Vaqueros  Rock Cod  26W / 30L para Hombre](https://www.amazon.es/dp/B01JIV9XA4/?tag=tolees-21) con precio final de  76.95 EUR (original: 110.0 EUR) (30.05 %  de rebaja) aqui!
