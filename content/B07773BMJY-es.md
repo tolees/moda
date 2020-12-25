@@ -26,7 +26,7 @@ En este momento está [Tommy Hilfiger Original Stretch Camisa  Azul  Lavender Lu
 🔎:
 
 - Modelo casual
-- Puños con botón
 - Tiene el logo de Tommy Hilfiger bordado en el pecho
+- Puños con botón
 
 [Aquí!!!](https://www.amazon.es/dp/B07773BMJY/?tag=tolees-21)

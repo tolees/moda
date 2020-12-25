@@ -25,10 +25,10 @@ Ahora mismo tienes [UMIPUBO Bluas de Mujer Camisa Algodón Blusa Mujer Elegante 
 
 🔎:
 
-- 👚Casual con cuello en v pliegues, tops largos, botones decorados, un dobladillo de línea abatible, camisetas de manga larga con estilo
+- 👚Camisa básica, perfecta para la primavera, el otoño o el verano, fácil de combinar con jeans, shorts, leggings ajustados para un look decente.
 - 👚S, M, L, X-L, XX-L está disponible
 - 👚Camisa suelta, no tamaño Amazon, por favor, consulte nuestros detalles de tamaño antes de comprar.
-- 👚Camisa básica, perfecta para la primavera, el otoño o el verano, fácil de combinar con jeans, shorts, leggings ajustados para un look decente.
 - 👚Manga corta
+- 👚Casual con cuello en v pliegues, tops largos, botones decorados, un dobladillo de línea abatible, camisetas de manga larga con estilo
 
 [Visítala!!!](https://www.amazon.es/dp/B07MQ7QKQT/?tag=tolees-21)
