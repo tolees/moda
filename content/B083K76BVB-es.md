@@ -25,10 +25,10 @@ Está [WeciBor Calcetines Estampados de las Mujeres  Mujeres Ocasionales Calceti
 
 ℹ️:
 
-- talla única EU 36-42
 - Lavar a maquina
-- Gran opción para regalar en Navidad, cumpleaños y Acción de Gracias, etc.
+- talla única EU 36-42
 - Hecho de algodón peinado, 80% algodón, 15% nylon, 5% spandex
 - Le permite ser colorido, joven y divertido debajo del aburrido traje gris que se ve obligado a usar para su trabajo de adulto.
+- Gran opción para regalar en Navidad, cumpleaños y Acción de Gracias, etc.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B083K76BVB/?tag=tolees-21)
