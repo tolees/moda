@@ -25,8 +25,8 @@ Ahora mismo tienes [Clarks Gilman Plain  Zapatos de Cordones Derby Hombre  Negro
 
 🔎:
 
-- Interior: textil.
 - Exterior: piel.
 - plano.
+- Interior: textil.
 
 [Visítala!!!](https://www.amazon.es/dp/B07TJK7PMD/?tag=tolees-21)
