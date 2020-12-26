@@ -25,10 +25,10 @@ Tienes [Chaleco reflector para niños – 2 unidades de chalecos de alta visibil
 
 🔎:
 
-- Disfraz de construcción: los chalecos son ideales para jugar a roles y disfrazarse para fiesta de Halloween. A los niños les encanta vestirse como un trabajador de la construcción con este chaleco.
-- Dimensiones: el chaleco es de tamaño pequeño y el tamaño plano es de 43 x 36 cm.
-- Amarillo brillante: chaleco reflectante se puede utilizar para actividades nocturnas al aire libre como correr, andar en bicicleta y jugar alrededor del parque.
 - Duradero: poliéster duradero resiste mucho juego y lavado.
+- Amarillo brillante: chaleco reflectante se puede utilizar para actividades nocturnas al aire libre como correr, andar en bicicleta y jugar alrededor del parque.
+- Disfraz de construcción: los chalecos son ideales para jugar a roles y disfrazarse para fiesta de Halloween. A los niños les encanta vestirse como un trabajador de la construcción con este chaleco.
 - Tamaño para ajustar: la correa elástica para la cintura se adapta a niños con una cintura de hasta 28 pulgadas de más de 3 años.
+- Dimensiones: el chaleco es de tamaño pequeño y el tamaño plano es de 43 x 36 cm.
 
 [Comprar!!!](https://www.amazon.es/dp/B07B9RNWBN/?tag=tolees-21)

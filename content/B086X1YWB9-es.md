@@ -25,8 +25,8 @@ Tienes [FM London Hipster Bóxer  Negro  L  9-10   Paquete de 8  para Niños](ht
 
 🔎:
 
-- Ajuste cómodo
 - Construcción duradera y de larga duración
 - Diseño de contraste de color
+- Ajuste cómodo
 
 [Comprar!!!](https://www.amazon.es/dp/B086X1YWB9/?tag=tolees-21)
