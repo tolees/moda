@@ -26,7 +26,7 @@ Ahora mismo tienes [HEELYS Propel 2.0 770512 - Zapatos una rueda para niñas  Ne
 🔎:
 
 - Patines Patinaje Niña
-- Material duro Heelys
 - De alta calidad y con diseño deportivo
+- Material duro Heelys
 
 [Visítala!!!](https://www.amazon.es/dp/B00WBH7JVI/?tag=tolees-21)
