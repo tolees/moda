@@ -25,7 +25,7 @@ En este momento está [adidas Essentials French Terry 3 Bandas Pantalón Corto  
 
 🔎:
 
-- Este pantalón corto luce 3 bandas en contraste que recorren el lateral de la pernera
 - Su tejido de felpa suave se ha confeccionado en una mezcla de algodón y tejido técnico reciclado
+- Este pantalón corto luce 3 bandas en contraste que recorren el lateral de la pernera
 
 [Aquí!!!](https://www.amazon.es/dp/B07KMP7KQ3/?tag=tolees-21)

@@ -25,10 +25,10 @@ Ahora mismo tienes [Helly Hansen Tokyo T-Shirt Camiseta  Hombre  Navy  M](https:
 
 🔎:
 
-- Camiseta versátil para todas las condiciones
-- Camiseta de algodón suave de la colección Tokyo con un atrevido logotipo de HH en el pecho
-- Contenido de envío: 1x Helly Hansen Tokyo T-Shirt con
-- Tejido principal de algodón
 - Conocimientos técnicos combinados con líneas de diseño sencillas, puras y limpias; la camiseta Tokyo tiene un llamativo diseño de HH
+- Tejido principal de algodón
+- Contenido de envío: 1x Helly Hansen Tokyo T-Shirt con
+- Camiseta de algodón suave de la colección Tokyo con un atrevido logotipo de HH en el pecho
+- Camiseta versátil para todas las condiciones
 
 [Visítala!!!](https://www.amazon.es/dp/B07ZV2VJSC/?tag=tolees-21)
