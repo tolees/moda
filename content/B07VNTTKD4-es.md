@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lee Rider Vaqueros Slim  Azul  Lt Vintag al 57.99 % de rebaja'
-date: 2020-12-24 10:31:51
+date: 2020-12-26 13:04:23
 image: 'https://m.media-amazon.com/images/I/41EHkQ5Hi+L._SL200_.jpg'
 comments: true
 category: ofertas
