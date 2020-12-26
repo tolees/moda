@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Original Trucker Chaqueta Vaquera al 29.51 % de descuento'
-date: 2020-12-25 08:33:48
+date: 2020-12-26 08:57:40
 image: 'https://m.media-amazon.com/images/I/41wZCqVzjgL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D75SL7J/?tag=tolees-21'
 descuento: '29.51'
-average: '68.64333333333333'
+average: '69.105'
 ---
 
 Ahora mismo tienes [Levi s Original Trucker Chaqueta Vaquera  Clean Dark Authentic  XS para Mujer](https://www.amazon.es/dp/B07D75SL7J/?tag=tolees-21) a 70.49 EUR (original: 100.0 EUR) (29.51 %  de descuento) en el siguiente enlace!

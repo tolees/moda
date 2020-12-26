@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'NIKE M Nk Dry Park20 TRK Jkt K Chaqueta  al 23.12 % de descuento'
-date: 2020-12-25 08:44:10
+date: 2020-12-26 08:57:55
 image: 'https://m.media-amazon.com/images/I/41BYGKuXp9L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07W6YJHMX/?tag=tolees-21'
 descuento: '23.12'
-average: '21.294545454545453'
+average: '21.3325'
 ---
 
 Está [NIKE M Nk Dry Park20 TRK Jkt K Chaqueta de Deporte  Hombre  Black/White/White  S](https://www.amazon.es/dp/B07W6YJHMX/?tag=tolees-21) con 23.12 de descuento por 21.75 EUR (original: 28.29 EUR) en el siguiente enlace!
@@ -25,9 +25,9 @@ Está [NIKE M Nk Dry Park20 TRK Jkt K Chaqueta de Deporte  Hombre  Black/White/W
 
 ℹ️:
 
-- Full-length frontal zip and Side pockets
 - Tipo de fábrica: 100% poliéster
 - Nike Dry fabric
 - Soccer Jacket
+- Full-length frontal zip and Side pockets
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07W6YJHMX/?tag=tolees-21)

@@ -25,8 +25,8 @@ Tienes [Levi s 512 Slim Taper Vaqueros  Cedar Light Mid Overt Adv Tnl  26W / 30L
 
 🔎:
 
-- Apertura de pierna pitillo
 - Diseño de cinco bolsillos
+- Apertura de pierna pitillo
 - Corte ajustado en los muslos
 
 [Comprar!!!](https://www.amazon.es/dp/B07ZVRR4MF/?tag=tolees-21)

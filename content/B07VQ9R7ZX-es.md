@@ -25,8 +25,8 @@ Ahora mismo tienes [Lee Worker Drapey Dress Vestido  Verde  Olive Green NX   X-S
 
 🔎:
 
+- Tiene cinturilla ajustable
 - Vestido para mujer
 - Con dos bolsillos en el pecho y tapeta con botones refinada
-- Tiene cinturilla ajustable
 
 [Visítala!!!](https://www.amazon.es/dp/B07VQ9R7ZX/?tag=tolees-21)
