@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEVIS FOOTWEAR AND ACCESORIAS Turner  za al 36.01 % de rebaja'
-date: 2020-12-24 02:49:51
+date: 2020-12-26 03:28:54
 image: 'https://m.media-amazon.com/images/I/31yuDxvHqoL._SL200_.jpg'
 comments: true
 category: ofertas
