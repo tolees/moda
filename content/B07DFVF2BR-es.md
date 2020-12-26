@@ -25,7 +25,7 @@ Ahora mismo tienes [Only Onlsedona Boucle Wool Coat Otw Noos Abrigo  Negro  Blac
 
 🔎:
 
-- Boucle - Abrigo de lana
 - Con capucha
+- Boucle - Abrigo de lana
 
 [Visítala!!!](https://www.amazon.es/dp/B07DFVF2BR/?tag=tolees-21)
