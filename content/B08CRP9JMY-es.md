@@ -25,10 +25,10 @@ Tienes [Gafas de seguridad  UNTIRE Gafas Protectoras transparentes antivaho  Pru
 
 🔎:
 
-- 【Light-Weight & Comfort】These wide safety lasses is made entirely from lightweight plastic, keeping them unobtrusive and light no matter how long you wear them.
-- 【Used for Multi-place】- Perfect for Construction, Shooting, Lab Work, DIY Projects, Yardwork, Hunting, Fishing, Woodworking, Painting, and More. Protect your eyes while helping you work.
+- 【Supports Over-Glasses】- The space in the clear goggles is large and can be shared with myopia glasses so that you dont have to worry about myopia.
 - 【Clear Vision & Anti-Fog】- With anti-fog coating provides optical clarity for a wide variety of applications. Offer a clear vision that well-suited to most work environments.
 - 【Safety Goggles】- Anti-fog, windbreak, high transparency and anti-impact. Transparent safety glasses not only protect against dust and splashes but also prevent fogging through branch ventilation holes. 3 packs would meet your needs for your whole family.
-- 【Supports Over-Glasses】- The space in the clear goggles is large and can be shared with myopia glasses so that you dont have to worry about myopia.
+- 【Used for Multi-place】- Perfect for Construction, Shooting, Lab Work, DIY Projects, Yardwork, Hunting, Fishing, Woodworking, Painting, and More. Protect your eyes while helping you work.
+- 【Light-Weight & Comfort】These wide safety lasses is made entirely from lightweight plastic, keeping them unobtrusive and light no matter how long you wear them.
 
 [Comprar!!!](https://www.amazon.es/dp/B08CRP9JMY/?tag=tolees-21)
