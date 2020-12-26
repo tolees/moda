@@ -25,8 +25,8 @@ Está [G-STAR RAW Attacc Heatseal Quilted HDD Jkt Chaqueta  Sartho Blue C470-606
 
 ℹ️:
 
-- Long sleeves, straight inset-elasticated edge
-- Raised collar
 - Incorporated hood, caught behind zipper closure at the collar
+- Raised collar
+- Long sleeves, straight inset-elasticated edge
 
 [Ver la oferta!!](https://www.amazon.es/dp/B084R2KPG6/?tag=tolees-21)
