@@ -25,8 +25,8 @@ Ahora mismo tienes [Calvin Klein J30J307855 Camisa  099  M para Hombre](https://
 
 🔎:
 
-- Mangas cortas
 - Algodón orgánico
+- Mangas cortas
 - Cuello redondo
 - Ajuste slim
 
