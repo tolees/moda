@@ -26,8 +26,8 @@ En este momento está [Buttoned Down Classic Fit Solid Pocket Options Camisa  Mo
 🔎:
 
 - Disponible en 72 tallas para que encuentres la que mejor se adapte a ti, incluidas tallas Big y Tall
-- Classic Fit: una actualización de la silueta clásica con un corte relajado en los hombros, el pecho, la sisa y las mangas pero con cintura entallada. El Classic Fit es similar al Relaxed o Regular Fit
 - Camisa de vestir Pinpoint Oxford de manga larga con cuello americano, con o sin bolsillo en el pecho, sin planchado
+- Classic Fit: una actualización de la silueta clásica con un corte relajado en los hombros, el pecho, la sisa y las mangas pero con cintura entallada. El Classic Fit es similar al Relaxed o Regular Fit
 - Algodón Supima de lujo con un acabado ligero; estrecha tabla recta en la espalda
 
 [Aquí!!!](https://www.amazon.es/dp/B06W55FV3H/?tag=tolees-21)

@@ -25,8 +25,8 @@ Ahora mismo tienes [NIKE W Nk Nvlt TP BT Icnclsh Camiseta sin Mangas  Mujer  Bar
 
 🔎:
 
-- Regular fit
-- Nike logo on the frontal
 - Soft fabric
+- Nike logo on the frontal
+- Regular fit
 
 [Visítala!!!](https://www.amazon.es/dp/B081P4M2FN/?tag=tolees-21)

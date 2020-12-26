@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'G-STAR RAW Attacc Heatseal Quilted HDD J al 50.01 % de descuento'
-date: 2020-12-24 10:09:45
+date: 2020-12-26 17:59:27
 image: 'https://m.media-amazon.com/images/I/414qzEStIpL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,9 +25,8 @@ Está [G-STAR RAW Attacc Heatseal Quilted HDD Jkt Chaqueta  Sartho Blue C470-606
 
 ℹ️:
 
-- Capucha incorporada cogida detrás de la cremallera de cuello
-- G-STAR RAW.
-- Manga larga recta con puños elásticos
-- Cuello alzado
+- Incorporated hood, caught behind zipper closure at the collar
+- Raised collar
+- Long sleeves, straight inset-elasticated edge
 
 [Ver la oferta!!](https://www.amazon.es/dp/B084R2KPG6/?tag=tolees-21)

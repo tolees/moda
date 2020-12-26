@@ -26,9 +26,9 @@ Tienes [PUMA MCFC Training Jersey Camiseta  Hombre  Team Light Blue/Peacoat  XL]
 🔎:
 
 - Parte trasera de malla para una mayor transpirabilidad
-- Cuello redondo
+- Corte entallado
 - Tejido jacquard en las mangas para una mayor transpirabilidad
 - Dobladillo trasero asimétrico
-- Corte entallado
+- Cuello redondo
 
 [Comprar!!!](https://www.amazon.es/dp/B086P8DW9X/?tag=tolees-21)
