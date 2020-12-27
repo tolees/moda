@@ -26,8 +26,8 @@ Ahora mismo tienes [Only onlSEDONA Coat OTW Noos Abrigo  Gris  Light Grey Melang
 🔎:
 
 - Designer: ONLY
-- Estación: SIEMPRE DISPONIBLE
 - Artículo: 15142911 SEDONA
 - Color: LIGHT GREY
+- Estación: SIEMPRE DISPONIBLE
 
 [Visítala!!!](https://www.amazon.es/dp/B07237KDZN/?tag=tolees-21)

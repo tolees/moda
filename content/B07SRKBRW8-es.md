@@ -1,28 +1,37 @@
 ---
 layout: post
-title: 'Descuento del 76.19 % en Geox D LEELU  E  Zapatillas Mujer  Blanc'
-date: 2020-11-16 21:53:03
+title: 'Geox D LEELU  E  Zapatillas Mujer  Blanc con un 51.67 % de descuento'
+date: 2020-12-27 19:43:01
 image: 'https://m.media-amazon.com/images/I/41rQSBIY6GL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07SRKBRW8-es'
-actualPrice: 26.17 EUR
+actualPrice: 53.12 EUR
 currency: EUR
-price: 26.17
+price: 53.12
 comparePrice: 109.9 EUR
 prodname: 'Geox D LEELU  E  Zapatillas Mujer  Blanco  White/Off White C1352   39 EU'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07SRKBRW8/?tag=tolees-21'
-descuento: '76.19'
+descuento: '51.67'
+average: '36.45133333333333'
 ---
 
-Tienes [Geox D LEELU  E  Zapatillas Mujer  Blanco  White/Off White C1352   39 EU](https://www.amazon.es/dp/B07SRKBRW8/?tag=tolees-21) con un 76.19 % de descuento con precio de oferta de 26.17 EUR (original: 109.9 EUR) en el siguiente enlace!
+En este momento está [Geox D LEELU  E  Zapatillas Mujer  Blanco  White/Off White C1352   39 EU](https://www.amazon.es/dp/B07SRKBRW8/?tag=tolees-21) a 53.12 EUR (original: 109.9 EUR) (51.67 %  de descuento) en el siguiente enlace!
 
 [![Geox D LEELU  E  Zapatillas Mujer  Blanc](https://m.media-amazon.com/images/I/41rQSBIY6GL._SL200_.jpg)](https://www.amazon.es/dp/B07SRKBRW8/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
+- Material de la suela: Sintético
+- Cierre: Cordones
+- Tipo de tacón: Plano
+- Anchura del zapato: Normal
+- Tipo de talla: Te informamos que los zapatos Geox son holgados, te recomendamos elegir media talla menos con respecto a tu talla habitual
+- Material exterior: Cuero
+- Altura del tacón: 2.5 centímetros
+- Revestimiento: Malla
 
-[Accede a la oferta!!](https://www.amazon.es/dp/B07SRKBRW8/?tag=tolees-21)
+[Aquí!!!](https://www.amazon.es/dp/B07SRKBRW8/?tag=tolees-21)
