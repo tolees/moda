@@ -26,7 +26,7 @@ En este momento está [G-STAR RAW Core Super Slim Camisa vaquera  Negro  black 9
 🔎:
 
 - G-Star Negro Camisa Core Slim de manga larga con logo
-- Ver descripción del producto para obtener más información.
 - A estrenar y genuina. Somos un vendedor autorizado de G-Star.
+- Ver descripción del producto para obtener más información.
 
 [Aquí!!!](https://www.amazon.es/dp/B01N3CJAIA/?tag=tolees-21)
