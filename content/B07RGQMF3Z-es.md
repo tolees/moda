@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tommy Hilfiger Cazadora Chaqueta Bomber  con un 32.01 % de descuento'
-date: 2020-12-26 09:11:23
+date: 2020-12-27 15:19:37
 image: 'https://m.media-amazon.com/images/I/41v0SeIzT5L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07RGQMF3Z/?tag=tolees-21'
 descuento: '32.01'
-average: '89.67869565217391'
+average: '89.3036'
 ---
 
 En este momento está [Tommy Hilfiger Cazadora Chaqueta Bomber Essential con Parche Deportiva y Elegante  Azul  Black Iris   XL para Hombre](https://www.amazon.es/dp/B07RGQMF3Z/?tag=tolees-21) a 84.99 EUR (original: 125.0 EUR) (32.01 %  de descuento) en el siguiente enlace!
