@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'UMBRO Core Training Half Zip Top Sudader al 60.03 % de descuento'
-date: 2020-12-23 18:09:37
+date: 2020-12-27 13:34:16
 image: 'https://m.media-amazon.com/images/I/3162mWSaVgL._SL200_.jpg'
 comments: true
 category: ofertas

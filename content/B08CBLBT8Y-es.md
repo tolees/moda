@@ -25,10 +25,10 @@ En este momento está [Adidas Real Madrid Temporada 2020/21 Camiseta Primera Equ
 
 🔎:
 
-- Ropa deportiva fabricada con materiales de primera calidad que se adaptan a cualquier actividad deportiva
-- Los productos deportivos de la marca Adidas están diseñados para que disfrutes de tu deporte favorito sin preocuparte de nada más que rendir al máximo.
-- Camiseta REAL H JSY BLANCO
-- Ropa deportiva Blanco de la marca Adidas
 - Camiseta para practicar Tiempo libre y sportwear de Hombre
+- Camiseta REAL H JSY BLANCO
+- Los productos deportivos de la marca Adidas están diseñados para que disfrutes de tu deporte favorito sin preocuparte de nada más que rendir al máximo.
+- Ropa deportiva fabricada con materiales de primera calidad que se adaptan a cualquier actividad deportiva
+- Ropa deportiva Blanco de la marca Adidas
 
 [Aquí!!!](https://www.amazon.es/dp/B08CBLBT8Y/?tag=tolees-21)
