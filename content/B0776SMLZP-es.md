@@ -25,10 +25,10 @@ Está [Tommy Hilfiger Original Rib Camisa  Negro  Tommy Black 078   X-Large para
 
 ℹ️:
 
-- Detalles distintivos de Tommy Jeans
-- Corte slim
-- Puro algodón orgánico
-- Logo de Tommy Jeans bordado en el pecho
 - Cuello redondo
+- Corte slim
+- Detalles distintivos de Tommy Jeans
+- Logo de Tommy Jeans bordado en el pecho
+- Puro algodón orgánico
 
 [Ver la oferta!!](https://www.amazon.es/dp/B0776SMLZP/?tag=tolees-21)
