@@ -25,9 +25,9 @@ Tienes [Timberland Stormbucks Plain Toe  Zapatos de Cordones Oxford Hombre  Marr
 
 🔎:
 
-- cordones 100% algodón
 - 100% PET reciclado forro de malla para la comodidad
-- Suela de "Gripstick" y "Green Rubber" para la tracción
+- cordones 100% algodón
 - entresuela anti-fatiga y la plantilla para la comodidad
+- Suela de "Gripstick" y "Green Rubber" para la tracción
 
 [Comprar!!!](https://www.amazon.es/dp/B0070SJ4GG/?tag=tolees-21)

@@ -25,7 +25,7 @@ Está [Amazon Essentials - Falda pantalón de uniforme para niña  Azul marino  
 
 ℹ️:
 
-- Tira para abrochar con botones en la cintura.
 - Prepárala para la escuela con comodidad y estilo con esta falda pantalón que tiene parte delantera plisada y cintura elástica en la parte trasera.
+- Tira para abrochar con botones en la cintura.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07HZ2VZW1/?tag=tolees-21)
