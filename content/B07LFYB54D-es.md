@@ -26,10 +26,10 @@ Tienes [Geox J INEK Boy D  Zapatillas Niños  Negro  Black/Lime C0802   24 EU](h
 🔎:
 
 - Material exterior: Cuero sintético
-- Material de la suela: Cuero sintético
-- Revestimiento: Malla
 - Composición: Cuero
 - Tipo de tacón: Plano
+- Material de la suela: Cuero sintético
+- Revestimiento: Malla
 - Cierre: Velcro
 
 [Comprar!!!](https://www.amazon.es/dp/B07LFYB54D/?tag=tolees-21)
