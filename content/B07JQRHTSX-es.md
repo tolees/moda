@@ -25,7 +25,7 @@ Ahora mismo tienes [Amazon Essentials - Chaqueta deportiva con media cremallera 
 
 🔎:
 
-- Absorbe la humedad para mantenerte seco y fresco mientras practicas algún deporte.
 - Esta chaqueta con media cremallera cuenta con un cierre de cremallera, cuello alto y mangas raglán.
+- Absorbe la humedad para mantenerte seco y fresco mientras practicas algún deporte.
 
 [Visítala!!!](https://www.amazon.es/dp/B07JQRHTSX/?tag=tolees-21)
