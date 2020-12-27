@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Graphic tee B Camiseta  Hm LS Bet con un 30.03 % de descuento'
-date: 2020-12-23 02:42:47
+date: 2020-12-27 02:36:28
 image: 'https://m.media-amazon.com/images/I/410je8eT8BL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,8 +25,8 @@ En este momento está [Levi s Graphic tee B Camiseta  Hm LS Better Black  M para
 
 🔎:
 
+- Elaborada en punto suave
 - Modelo casual
 - Con un logo Levis en horizontal en el pecho
-- Elaborada en punto suave
 
 [Aquí!!!](https://www.amazon.es/dp/B076Y9FQD3/?tag=tolees-21)
