@@ -25,14 +25,14 @@ Está [Geox D CATRIA E  Botas Cortas al Tobillo Mujer  Negro  38.5 EU](https://w
 
 ℹ️:
 
-- Ancho del zapato: estrecho
-- Tipo de tela: Shi.Goat Lea
-- Cierre: cremallera
-- Tipo de tacón: tacón cuadrado
 - No resistente al agua
-- Material de la suela: goma
 - Material exterior: piel lisa
+- Material de la suela: goma
+- Tipo de tela: Shi.Goat Lea
+- Ancho del zapato: estrecho
 - Tipo de ajuste: ten en cuenta que los zapatos geox tienen un ajuste cómodo, por lo que te recomendamos que elijas media talla
+- Tipo de tacón: tacón cuadrado
 - Forro: piel
+- Cierre: cremallera
 
 [Ver la oferta!!](https://www.amazon.es/dp/B0825RMY6K/?tag=tolees-21)
