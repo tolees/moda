@@ -25,7 +25,7 @@ En este momento está [Jack & Jones Jjiglenn Jjoriginal Am 814 Noos Vaqueros Sli
 
 🔎:
 
-- elastic cotton mixture
 - blue denim jeans with slim leg
+- elastic cotton mixture
 
 [Aquí!!!](https://www.amazon.es/dp/B07JP65VF8/?tag=tolees-21)
