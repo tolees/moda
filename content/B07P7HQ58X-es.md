@@ -25,13 +25,13 @@ En este momento está [Tommy Hilfiger Heritage Crew Neck Graphic tee Camiseta  B
 
 🔎:
 
-- Heritage Playera con cuello redondo
-- 100 % algodón
 - Estilo del cuello: cuello redondo
-- Tommy Hilfiger
 - Camiseta
+- 100 % algodón
 - Lavable a máquina
-- Manga corta
 - WW0WW24967
+- Manga corta
+- Tommy Hilfiger
+- Heritage Playera con cuello redondo
 
 [Aquí!!!](https://www.amazon.es/dp/B07P7HQ58X/?tag=tolees-21)
