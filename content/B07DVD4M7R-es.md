@@ -1,28 +1,32 @@
 ---
 layout: post
-title: 'Descuento del 54.49 % en Levi s Type 3 Chaqueta Vaquera  Stonebri'
-date: 2020-11-23 22:12:46
+title: 'Levi s Type 3 Chaqueta Vaquera  Stonebri al 48.75 % de descuento'
+date: 2020-12-28 12:37:13
 image: 'https://m.media-amazon.com/images/I/414YtyOsCtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07DVD4M7R-es'
-actualPrice: 63.71 EUR
+actualPrice: 71.75 EUR
 currency: EUR
-price: 63.71
+price: 71.75
 comparePrice: 140.0 EUR
 prodname: 'Levi s Type 3 Chaqueta Vaquera  Stonebridge Sherpa Trucker  S para Hombre'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DVD4M7R/?tag=tolees-21'
-descuento: '54.49'
+descuento: '48.75'
+average: '62.589999999999996'
 ---
 
-Tienes [Levi s Type 3 Chaqueta Vaquera  Stonebridge Sherpa Trucker  S para Hombre](https://www.amazon.es/dp/B07DVD4M7R/?tag=tolees-21) con un 54.49 % de descuento con precio de oferta de 63.71 EUR (original: 140.0 EUR) en el siguiente enlace!
+Ahora mismo tienes [Levi s Type 3 Chaqueta Vaquera  Stonebridge Sherpa Trucker  S para Hombre](https://www.amazon.es/dp/B07DVD4M7R/?tag=tolees-21) a 71.75 EUR (original: 140.0 EUR) (48.75 %  de descuento) en el siguiente enlace!
 
 [![Levi s Type 3 Chaqueta Vaquera  Stonebri](https://m.media-amazon.com/images/I/414YtyOsCtL._SL200_.jpg)](https://www.amazon.es/dp/B07DVD4M7R/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
+- Bajo ajustable en el lateral
+- Bolsillos de parche en el pecho con solapa y cierre de botón automático
+- Manga larga con cierre de botón en los puños
 
-[Accede a la oferta!!](https://www.amazon.es/dp/B07DVD4M7R/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07DVD4M7R/?tag=tolees-21)
