@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geox U Snake.2 B  Zapatillas Hombre  Azu al 65.27 % de descuento'
-date: 2020-12-27 07:07:33
+date: 2020-12-28 08:10:07
 image: 'https://m.media-amazon.com/images/I/311YR5lrf6L._SL200_.jpg'
 comments: true
 category: ofertas
