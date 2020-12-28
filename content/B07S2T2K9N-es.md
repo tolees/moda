@@ -25,7 +25,7 @@ Tienes [Esprit 999ee1f808s Blusa  Blanco  White 100   38  Talla del Fabricante: 
 
 🔎:
 
-- En algodón con textura fina
 - Clásica blusa camisera Oxford con tira de botones
+- En algodón con textura fina
 
 [Comprar!!!](https://www.amazon.es/dp/B07S2T2K9N/?tag=tolees-21)
