@@ -25,8 +25,8 @@ Ahora mismo tienes [Levi s Type 3 Chaqueta Vaquera  Stonebridge Sherpa Trucker  
 
 🔎:
 
-- Bajo ajustable en el lateral
 - Bolsillos de parche en el pecho con solapa y cierre de botón automático
+- Bajo ajustable en el lateral
 - Manga larga con cierre de botón en los puños
 
 [Visítala!!!](https://www.amazon.es/dp/B07DVD4M7R/?tag=tolees-21)
