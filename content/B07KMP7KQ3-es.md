@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'adidas Essentials French Terry 3 Bandas  con un 62.75 % de descuento'
-date: 2020-12-26 09:19:14
+title: 'adidas Essentials French Terry 3 Bandas  con un 64.12 % de descuento'
+date: 2020-12-28 18:52:37
 image: 'https://m.media-amazon.com/images/I/31ltxd4ZFmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07KMP7KQ3-es'
-actualPrice: 13.02 EUR
+actualPrice: 12.54 EUR
 currency: EUR
-price: 13.02
+price: 12.54
 comparePrice: 34.95 EUR
 prodname: 'adidas Essentials French Terry 3 Bandas Pantalón Corto  Hombre  Azul  Legend Ink   XS'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KMP7KQ3/?tag=tolees-21'
-descuento: '62.75'
-average: '13.02'
+descuento: '64.12'
+average: '12.78'
 ---
 
-En este momento está [adidas Essentials French Terry 3 Bandas Pantalón Corto  Hombre  Azul  Legend Ink   XS](https://www.amazon.es/dp/B07KMP7KQ3/?tag=tolees-21) a 13.02 EUR (original: 34.95 EUR) (62.75 %  de descuento) en el siguiente enlace!
+En este momento está [adidas Essentials French Terry 3 Bandas Pantalón Corto  Hombre  Azul  Legend Ink   XS](https://www.amazon.es/dp/B07KMP7KQ3/?tag=tolees-21) a 12.54 EUR (original: 34.95 EUR) (64.12 %  de descuento) en el siguiente enlace!
 
 [![adidas Essentials French Terry 3 Bandas ](https://m.media-amazon.com/images/I/31ltxd4ZFmL._SL200_.jpg)](https://www.amazon.es/dp/B07KMP7KQ3/?tag=tolees-21)
 
