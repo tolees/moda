@@ -25,8 +25,8 @@ En este momento está [Lee Clean Western Shirt Camisa Casual  Azul  Washed Blue 
 
 🔎:
 
-- El logo de Lee se agrega en un parche bordado en el bolsillo izquierdo del pecho
-- Producto de corte ajustado
 - Presenta botones de presión de nácar
+- Producto de corte ajustado
+- El logo de Lee se agrega en un parche bordado en el bolsillo izquierdo del pecho
 
 [Aquí!!!](https://www.amazon.es/dp/B07VLPC8RX/?tag=tolees-21)

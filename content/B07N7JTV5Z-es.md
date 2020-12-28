@@ -25,9 +25,9 @@ Tienes [Diesel Collar para Hombre DX1169040](https://www.amazon.es/dp/B07N7JTV5Z
 
 ℹ️:
 
-- Para esta cadena con doble chapa de identificación, se ha utilizado acero inoxidable, hematita de color negro y un cierre de mosquetón.
-- Se presenta en caja de regalo Diesel
-- Medidas: 65 cm+5 cm
 - Cierre: Cierre de mosquetón
+- Para esta cadena con doble chapa de identificación, se ha utilizado acero inoxidable, hematita de color negro y un cierre de mosquetón.
+- Medidas: 65 cm+5 cm
+- Se presenta en caja de regalo Diesel
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07N7JTV5Z/?tag=tolees-21)
