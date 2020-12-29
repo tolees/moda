@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Clarks Hero  Zapatos de Cordones Brogue  al 73.96 % de descuento'
-date: 2020-12-28 06:35:41
+date: 2020-12-29 09:08:28
 image: 'https://m.media-amazon.com/images/I/41AUahIGhoL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07TQWV6PF/?tag=tolees-21'
 descuento: '73.96'
-average: '27.319999999999997'
+average: '27.65'
 ---
 
 Está [Clarks Hero  Zapatos de Cordones Brogue Mujer  Gris  Grey Snake Grey Snake   40 EU](https://www.amazon.es/dp/B07TQWV6PF/?tag=tolees-21) con 73.96 de descuento por 28.64 EUR (original: 110.0 EUR) en el siguiente enlace!
@@ -25,7 +25,7 @@ Está [Clarks Hero  Zapatos de Cordones Brogue Mujer  Gris  Grey Snake Grey Snak
 
 ℹ️:
 
-- Color exacto: Gris de la serpiente
 - Material de la suela: TPR
+- Color exacto: Gris de la serpiente
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07TQWV6PF/?tag=tolees-21)

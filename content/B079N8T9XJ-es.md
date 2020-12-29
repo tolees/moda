@@ -25,8 +25,8 @@ Tienes [Calvin Klein 000NB1354A Bóxer  Negro  Black 001   L para Hombre](https:
 
 🔎:
 
+- Logo Signiture en la cintura.
 - Calvin Klein - Correa elástica para caballo (2 unidades, algodón), color negro
 - Negro.
-- Logo Signiture en la cintura.
 
 [Comprar!!!](https://www.amazon.es/dp/B079N8T9XJ/?tag=tolees-21)
