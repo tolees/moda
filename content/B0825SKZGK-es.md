@@ -25,14 +25,14 @@ Tienes [Geox U PRJ 26 B  Botas Modelo Chukka Hombre  Negro  44 EU](https://www.a
 
 ℹ️:
 
-- Tipo de tela: Smo.Lea
-- Material de la suela: sintético
-- Material exterior: piel lisa
-- Ancho del zapato: estrecho
-- Forro: sintético
-- No resistente al agua
-- Tipo de tacón: plano
 - Tipo de ajuste: ten en cuenta que los zapatos geox tienen un ajuste cómodo, por lo que te recomendamos que elijas media talla
+- Material exterior: piel lisa
+- Tipo de tacón: plano
 - Cierre: cordones
+- Ancho del zapato: estrecho
+- Tipo de tela: Smo.Lea
+- Forro: sintético
+- Material de la suela: sintético
+- No resistente al agua
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B0825SKZGK/?tag=tolees-21)
