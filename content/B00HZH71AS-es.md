@@ -26,7 +26,7 @@ Está [Spiderman - Guantes para disfraz de niño  talla Única  Rubie s 35631 ](
 ℹ️:
 
 - Guantes de Spiderman
-- Complemento para el disfraz
 - Accesorio
+- Complemento para el disfraz
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00HZH71AS/?tag=tolees-21)
