@@ -25,10 +25,10 @@ Tienes [NNJXD  Niñas reunión Muy concurrida  Bordado  Baile de graduación  Ve
 
 🔎:
 
-- Vestido noble y sagrado, diseño de tul estratificado. la indumentaria antigua con estilo europeo,la flor bordada está decorada en la capa exterior y en la parte superior del vestido, con un diseño exquisito que hace que el vestido luzca más luminoso y romántico. El elegante vestido con capas de tul combina perfectamente con tu princesa.
+- Mezcla de encaje,algodón y poliéster.
 - lavar con la mano suavemente y lavar en seco son ambos recomendados. Use un detergente suave y séquelo en línea, pero no blanquee, planche y use agua caliente.
 - diseño suave y de tutú de encaje de múltiples capas,manga larga y dobladillo elegante amable. corbata de faja de raso con lazo grande hace que la cintura sea más delgada y es más adecuada con el temperamento noble,en una elegancia tan pura en el elegante vestido decorado anteriormente,agrega encanto sin fin.4.Adecuado para uso diario y ocasión especial como la fiesta de bodas,fiesta de vacaciones, ceremonia, bautismo, fiesta de cumpleaños, reunión muy concurrida, etc.
 - Tabla de tamaño significa rangos de edad para la chica, pero son sólo para orientación general. Para un ajuste más preciso, recomendamos verificar la medición detallada antes de la compra.
-- Mezcla de encaje,algodón y poliéster.
+- Vestido noble y sagrado, diseño de tul estratificado. la indumentaria antigua con estilo europeo,la flor bordada está decorada en la capa exterior y en la parte superior del vestido, con un diseño exquisito que hace que el vestido luzca más luminoso y romántico. El elegante vestido con capas de tul combina perfectamente con tu princesa.
 
 [Comprar!!!](https://www.amazon.es/dp/B07FX8F8V9/?tag=tolees-21)
