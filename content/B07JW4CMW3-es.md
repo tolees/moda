@@ -25,10 +25,10 @@ En este momento está [Columbia Powder Lite Jacket Chaqueta  Hombre  Negro  Blac
 
 🔎:
 
-- Los bolsillos con cremallera te dan versatilidad Mantén tus manos calientes cuando lo necesites o guarda tu teléfono y otros accesorios sin temor a que se caigan
 - Chaqueta de hombre optimo para las excursiones de alta montaña gracias a su forro termorreflectante para mantenerte caliente y a gusto
-- Tejido resistente al agua que te protege de los chubascos y la niebla, Ajuste óptimo gracias al dobladillo ajustable con cordón
-- La tecnología reflectante Omni-Heat de la chaqueta ofrece un mayor aislamiento para mantenerte caliente incluso en los días más fríos
+- Los bolsillos con cremallera te dan versatilidad Mantén tus manos calientes cuando lo necesites o guarda tu teléfono y otros accesorios sin temor a que se caigan
 - Contenido: 1x Columbia Powder Lite Chaqueta para hombre, Exterior: Storm-Lite DP II 100% poliéster; Forro: Omni-Heat Reflective Forro 100% poliéster; Aislamiento: Thermarator 100% poliéster, Color: Negro, Talla: M, Art.No.1698001
+- La tecnología reflectante Omni-Heat de la chaqueta ofrece un mayor aislamiento para mantenerte caliente incluso en los días más fríos
+- Tejido resistente al agua que te protege de los chubascos y la niebla, Ajuste óptimo gracias al dobladillo ajustable con cordón
 
 [Aquí!!!](https://www.amazon.es/dp/B07JW4CMW3/?tag=tolees-21)
