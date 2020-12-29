@@ -25,10 +25,10 @@ Tienes [Star Wars T-Shirt Camiseta  Persimmon  L para Hombre](https://www.amazon
 
 ℹ️:
 
-- Camiseta || Mangas Normales || Cuello Redondo Sin cuello || Materiales de larga duración
-- Camiseta con las siguientes características:
 - el perfecto regalo de Navidad
 - Ajuste : Regular
+- Camiseta con las siguientes características:
+- Camiseta || Mangas Normales || Cuello Redondo Sin cuello || Materiales de larga duración
 - Boba Fett, Fan merch, Película, Series TV
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07ZHK55NR/?tag=tolees-21)
