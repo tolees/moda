@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones Jjecorp Logo tee SS Crew Ne al 40.04 % de rebaja'
-date: 2020-12-29 09:32:43
+date: 2020-12-30 09:44:48
 image: 'https://m.media-amazon.com/images/I/41s3SLPGDnL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079C7Q9GL/?tag=tolees-21'
 descuento: '40.04'
-average: '6.368181818181818'
+average: '6.354912280701754'
 ---
 
 Tienes [Jack & Jones Jjecorp Logo tee SS Crew Neck Noos Camiseta  Negro  Black Detail: Slim Fit   Medium para Hombre](https://www.amazon.es/dp/B079C7Q9GL/?tag=tolees-21) con precio final de  5.99 EUR (original: 9.99 EUR) (40.04 %  de rebaja) aqui!
