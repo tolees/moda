@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 37.92 % en PUMA Leadcat FTR  Zapatos de Playa y Pis'
-date: 2020-12-18 13:35:19
+date: 2020-12-30 13:15:17
 image: 'https://m.media-amazon.com/images/I/41ZWossZRbL._SL200_.jpg'
 comments: true
 category: ofertas
