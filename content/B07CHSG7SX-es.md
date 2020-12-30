@@ -25,8 +25,8 @@ Ahora mismo tienes [Levi s SS Original Hm tee Camiseta  Cotton + Patch White  XL
 
 🔎:
 
-- Adecuada para el día a día
 - Modelo casual
+- Adecuada para el día a día
 - Logotipo pequeño de Levis en el pecho
 
 [Visítala!!!](https://www.amazon.es/dp/B07CHSG7SX/?tag=tolees-21)
