@@ -26,7 +26,7 @@ En este momento está [adidas W E Lin Slim T Camiseta de Manga Corta  Mujer  Neg
 🔎:
 
 - Adidas logo
-- Soft fabric
 - Regular fit
+- Soft fabric
 
 [Aquí!!!](https://www.amazon.es/dp/B07KPM3CPW/?tag=tolees-21)

@@ -25,10 +25,10 @@ En este momento está [Dainese Motorshoe D1 Air  Zapatos Moto Hombre  Negro Rojo
 
 🔎:
 
-- Cierre con cordones; sistema de retención de cordones; inserción para control del agarre de poliuretano
-- Forro de malla; tejido ventilado
-- Protección de la palanca de cambio de tpu; inserciones reflectantes; suela de goma con diseño diferenciado
 - Tejido de poliamida de alta tenacidad; gamuza de microfibra
+- Protección de la palanca de cambio de tpu; inserciones reflectantes; suela de goma con diseño diferenciado
+- Forro de malla; tejido ventilado
+- Cierre con cordones; sistema de retención de cordones; inserción para control del agarre de poliuretano
 - Estructura del talón de poliuretano reforzado; inserciones rígidas en los tobillos; zapato certificado según la norma ce cat; ii en 13634
 
 [Aquí!!!](https://www.amazon.es/dp/B07M8RCPYQ/?tag=tolees-21)
