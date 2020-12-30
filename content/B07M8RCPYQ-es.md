@@ -1,28 +1,34 @@
 ---
 layout: post
-title: 'Descuento del 36.15 % en Dainese Motorshoe D1 Air  Zapatos Moto p'
-date: 2020-11-21 06:10:39
+title: 'Dainese Motorshoe D1 Air  Zapatos Moto H con un 31.61 % de descuento'
+date: 2020-12-30 08:49:58
 image: 'https://m.media-amazon.com/images/I/41UwY0KUB5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07M8RCPYQ-es'
-actualPrice: 95.75 EUR
+actualPrice: 102.55 EUR
 currency: EUR
-price: 95.75
+price: 102.55
 comparePrice: 149.95 EUR
-prodname: 'Dainese Motorshoe D1 Air  Zapatos Moto para Hombre  Negro Rojo Fluo Antracita  39 EU'
+prodname: 'Dainese Motorshoe D1 Air  Zapatos Moto Hombre  Negro Rojo Fluo Antracita  39 EU'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07M8RCPYQ/?tag=tolees-21'
-descuento: '36.15'
+descuento: '31.61'
+average: '99.15'
 ---
 
-Tienes [Dainese Motorshoe D1 Air  Zapatos Moto para Hombre  Negro Rojo Fluo Antracita  39 EU](https://www.amazon.es/dp/B07M8RCPYQ/?tag=tolees-21) con un 36.15 % de descuento con precio de oferta de 95.75 EUR (original: 149.95 EUR) en el siguiente enlace!
+En este momento está [Dainese Motorshoe D1 Air  Zapatos Moto Hombre  Negro Rojo Fluo Antracita  39 EU](https://www.amazon.es/dp/B07M8RCPYQ/?tag=tolees-21) a 102.55 EUR (original: 149.95 EUR) (31.61 %  de descuento) en el siguiente enlace!
 
-[![Dainese Motorshoe D1 Air  Zapatos Moto p](https://m.media-amazon.com/images/I/41UwY0KUB5L._SL200_.jpg)](https://www.amazon.es/dp/B07M8RCPYQ/?tag=tolees-21)
+[![Dainese Motorshoe D1 Air  Zapatos Moto H](https://m.media-amazon.com/images/I/41UwY0KUB5L._SL200_.jpg)](https://www.amazon.es/dp/B07M8RCPYQ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
+- Tejido de poliamida de alta tenacidad; gamuza de microfibra
+- Protección de la palanca de cambio de tpu; inserciones reflectantes; suela de goma con diseño diferenciado
+- Forro de malla; tejido ventilado
+- Estructura del talón de poliuretano reforzado; inserciones rígidas en los tobillos; zapato certificado según la norma ce cat; ii en 13634
+- Cierre con cordones; sistema de retención de cordones; inserción para control del agarre de poliuretano
 
-[Accede a la oferta!!](https://www.amazon.es/dp/B07M8RCPYQ/?tag=tolees-21)
+[Aquí!!!](https://www.amazon.es/dp/B07M8RCPYQ/?tag=tolees-21)
