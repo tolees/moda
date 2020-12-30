@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Type 3 Chaqueta Vaquera  Berk She al 33.85 % de rebaja'
-date: 2020-12-28 21:45:20
+date: 2020-12-30 04:33:55
 image: 'https://m.media-amazon.com/images/I/41hAv9E8DNL._SL200_.jpg'
 comments: true
 category: ofertas
