@@ -25,10 +25,10 @@ Ahora mismo tienes [G-STAR RAW 3301 High Waist Skinny Vaqueros  Azul  medium blu
 
 🔎:
 
-- Skinny
-- 91% Algodón, 8% Elastomultiéster, 1% Elastano
-- Vaqueros clásicos de 5 bolsillos.
-- Llavar a máquina - caliente (mayor de 30 °)
 - Cierre: Cremallera
+- Llavar a máquina - caliente (mayor de 30 °)
+- Skinny
+- Vaqueros clásicos de 5 bolsillos.
+- 91% Algodón, 8% Elastomultiéster, 1% Elastano
 
 [Visítala!!!](https://www.amazon.es/dp/B07BJHGJ7J/?tag=tolees-21)
