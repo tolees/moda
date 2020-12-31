@@ -1,34 +1,34 @@
 ---
 layout: post
-title: 'Geox UOMO Symbol B  Zapatos de Cordones  al 29.98 % de descuento'
-date: 2020-12-30 03:58:09
+title: 'Geox UOMO Symbol B  Zapatos de Cordones  al 33.26 % de descuento'
+date: 2020-12-31 09:47:14
 image: 'https://m.media-amazon.com/images/I/313rTHoJv1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B01N25HX6W-es'
-actualPrice: 69.95 EUR
+actualPrice: 66.67 EUR
 currency: EUR
-price: 69.95
+price: 66.67
 comparePrice: 99.9 EUR
 prodname: 'Geox UOMO Symbol B  Zapatos de Cordones Hombre  Negro  41 EU'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N25HX6W/?tag=tolees-21'
-descuento: '29.98'
-average: '69.74210526315788'
+descuento: '33.26'
+average: '69.66333333333331'
 ---
 
-Está [Geox UOMO Symbol B  Zapatos de Cordones Hombre  Negro  41 EU](https://www.amazon.es/dp/B01N25HX6W/?tag=tolees-21) con 29.98 de descuento por 69.95 EUR (original: 99.9 EUR) en el siguiente enlace!
+Está [Geox UOMO Symbol B  Zapatos de Cordones Hombre  Negro  41 EU](https://www.amazon.es/dp/B01N25HX6W/?tag=tolees-21) con 33.26 de descuento por 66.67 EUR (original: 99.9 EUR) en el siguiente enlace!
 
 [![Geox UOMO Symbol B  Zapatos de Cordones ](https://m.media-amazon.com/images/I/313rTHoJv1L._SL200_.jpg)](https://www.amazon.es/dp/B01N25HX6W/?tag=tolees-21)
 
 ℹ️:
 
-- Der U Symbol B für Herren von Geox ist ein atmungsaktiver Halbschuh für Beruf und Alltag.
-- Anlass: Casual
-- Hochwertiges Leder ist strapazierfähig und langlebig
-- Gepolsterter Einstieg für ein komfortables An- und Ausziehen
 - Perforierte Sohle mit einer inneren Membran – ist atmungsaktiv & wasserundurchlässig
+- Anlass: Casual
+- Der U Symbol B für Herren von Geox ist ein atmungsaktiver Halbschuh für Beruf und Alltag.
+- Gepolsterter Einstieg für ein komfortables An- und Ausziehen
+- Hochwertiges Leder ist strapazierfähig und langlebig
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01N25HX6W/?tag=tolees-21)

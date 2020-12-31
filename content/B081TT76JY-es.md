@@ -26,7 +26,7 @@ Está [adidas CON20 TR JKT Chaqueta de Deporte  Hombre  Team Power Red  S](https
 ℹ️:
 
 - Great freedom of movement
-- Regular fit
 - Bright fabric
+- Regular fit
 
 [Ver la oferta!!](https://www.amazon.es/dp/B081TT76JY/?tag=tolees-21)
