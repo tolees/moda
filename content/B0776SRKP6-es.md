@@ -25,9 +25,9 @@ Está [Tommy Hilfiger Piqué P Camiseta Polo con Cierre de 3 Botones  Azul  Blac
 
 ℹ️:
 
-- Fabricado en algodón orgánico
+- Tiene cuello y puños de punto acanalado
 - Con tapeta de tres botones
 - Presenta la bandera de Tommy Jeans bordada en el pecho
-- Tiene cuello y puños de punto acanalado
+- Fabricado en algodón orgánico
 
 [Ver la oferta!!](https://www.amazon.es/dp/B0776SRKP6/?tag=tolees-21)
