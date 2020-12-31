@@ -26,7 +26,7 @@ Ahora mismo tienes [edc by Esprit 999cc2k803 Camiseta  Blanco  White 100   Small
 🔎:
 
 - Presenta un corte holgado, ligeramente suelto
-- Tiene un tejido suave que ofrece comodidad
 - Con logo de la marca estampado en el pecho
+- Tiene un tejido suave que ofrece comodidad
 
 [Visítala!!!](https://www.amazon.es/dp/B07KGRHWXJ/?tag=tolees-21)
