@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Levi s The Perfect Tee  Camiseta  Mujer  al 28.04 % de rebaja'
-date: 2020-12-27 02:45:31
+title: 'Levi s The Perfect Tee  Camiseta  Mujer  al 19.00 % de rebaja'
+date: 2020-12-31 10:13:22
 image: 'https://m.media-amazon.com/images/I/41gNeZ+K1wL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07S3WMK99-es'
-actualPrice: 17.99 EUR
+actualPrice: 20.25 EUR
 currency: EUR
-price: 17.99
+price: 20.25
 comparePrice: 25.0 EUR
 prodname: 'Levi s The Perfect Tee  Camiseta  Mujer  Blanco  90 s Serif T2 White+ 0781   M'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07S3WMK99/?tag=tolees-21'
-descuento: '28.04'
-average: '16.847672955974847'
+descuento: '19.00'
+average: '17.067650602409646'
 ---
 
-Tienes [Levi s The Perfect Tee  Camiseta  Mujer  Blanco  90 s Serif T2 White+ 0781   M](https://www.amazon.es/dp/B07S3WMK99/?tag=tolees-21) con precio final de  17.99 EUR (original: 25.0 EUR) (28.04 %  de rebaja) aqui!
+Tienes [Levi s The Perfect Tee  Camiseta  Mujer  Blanco  90 s Serif T2 White+ 0781   M](https://www.amazon.es/dp/B07S3WMK99/?tag=tolees-21) con precio final de  20.25 EUR (original: 25.0 EUR) (19.00 %  de rebaja) aqui!
 
 [![Levi s The Perfect Tee  Camiseta  Mujer ](https://m.media-amazon.com/images/I/41gNeZ+K1wL._SL200_.jpg)](https://www.amazon.es/dp/B07S3WMK99/?tag=tolees-21)
 
