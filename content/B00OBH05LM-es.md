@@ -25,8 +25,8 @@ Tienes [Only onlROYAL REG SKINNY JEANS PIM504 NOOS - Vaqueros Mujer  Azul  Mediu
 
 ℹ️:
 
-- Skinny
-- These skinny jeans from Only fit gently and reliably. The trousers are slim cut and emphasises the leg thanks to the stretch content in the soft fibre mix.
 - The 5-pocket model impresses with its subtle wash, which gives the blue fabric tension. From sporty to elegant – tops in all styles go with this.
+- These skinny jeans from Only fit gently and reliably. The trousers are slim cut and emphasises the leg thanks to the stretch content in the soft fibre mix.
+- Skinny
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00OBH05LM/?tag=tolees-21)
