@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tommy Hilfiger Heritage Crew Neck Graphi al 50.00 % de rebaja'
-date: 2020-12-23 19:11:34
+date: 2020-12-31 04:25:47
 image: 'https://m.media-amazon.com/images/I/31-JC+MdxkL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,13 +25,13 @@ Tienes [Tommy Hilfiger Heritage Crew Neck Graphic tee Camiseta  Blanco  Classic 
 
 🔎:
 
-- Camiseta
-- Heritage Playera con cuello redondo
-- Manga corta
+- 100 % algodón
 - Tommy Hilfiger
+- Lavable a máquina
+- Manga corta
+- Heritage Playera con cuello redondo
+- Camiseta
 - Estilo del cuello: cuello redondo
 - WW0WW24967
-- 100 % algodón
-- Lavable a máquina
 
 [Comprar!!!](https://www.amazon.es/dp/B07P9RJVFB/?tag=tolees-21)
