@@ -25,7 +25,7 @@ Ahora mismo tienes [Clarks Oliver Lace  Zapatos de Cordones Derby Hombre  Negro 
 
 🔎:
 
-- Color exacto: cuero negro.
 - Material de la suela: mezcl
+- Color exacto: cuero negro.
 
 [Visítala!!!](https://www.amazon.es/dp/B07MLSVCLN/?tag=tolees-21)

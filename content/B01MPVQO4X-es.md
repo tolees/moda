@@ -25,11 +25,11 @@ Tienes [G-STAR RAW Core Super Slim Camisa Vaquera  Blanco  White 110   S para Ho
 
 🔎:
 
-- Estilo del cuello: Clásico
-- 96% Algodón, 4% Elastano
-- Cierre: Popper
 - Ajustado
-- Manga larga
+- 96% Algodón, 4% Elastano
+- Estilo del cuello: Clásico
 - Lavar a máquina - caliente (mayor de 30 °)
+- Manga larga
+- Cierre: Popper
 
 [Comprar!!!](https://www.amazon.es/dp/B01MPVQO4X/?tag=tolees-21)

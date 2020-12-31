@@ -26,7 +26,7 @@ Tienes [Skechers Beverlee-High Tea  Sandalias de Punta Descubierta Mujer  Beige 
 ℹ️:
 
 - Plantilla de lujo acolchada con espuma y contorno.
-- Suela flexible.
 - Altura total del tacón: 5,7 cm.
+- Suela flexible.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B0755VPXHP/?tag=tolees-21)
