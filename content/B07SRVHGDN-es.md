@@ -26,7 +26,7 @@ Ahora mismo tienes [Marca Amazon - IRIS & LILLY Pijama Mujer  Azul  Blue   M  La
 🔎:
 
 - Puños en las piernas.
-- Fieltro acanalado manchado
 - Cintura elástica.
+- Fieltro acanalado manchado
 
 [Visítala!!!](https://www.amazon.es/dp/B07SRVHGDN/?tag=tolees-21)
