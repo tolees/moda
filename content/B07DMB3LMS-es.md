@@ -25,10 +25,10 @@ En este momento está [non-brand Escala 1/6 Falda Plisada Corta para 12 Pulgadas
 
 🔎:
 
+- * Ajuste para cuerpo de figura de acción de 12 "(Hot Toys, Hot Stuff, Phicen, Kumik, TTL Enterbay Female CG CY Girl, etc.)
 - * 1/6 Escala Accesorios Faldas plisadas Vestido mini estilo estudiante corto
 - * Material: tela
-- * Ajuste para cuerpo de figura de acción de 12 "(Hot Toys, Hot Stuff, Phicen, Kumik, TTL Enterbay Female CG CY Girl, etc.)
-- * Tamaño: escala 1/6
 - * Accesorio de la ropa de la decoración del cuerpo de la figura de acción de 12inch
+- * Tamaño: escala 1/6
 
 [Aquí!!!](https://www.amazon.es/dp/B07DMB3LMS/?tag=tolees-21)
