@@ -25,10 +25,10 @@ Ahora mismo tienes [Puma Valencia CF Temporada 2020/21-Shorts Replica Pantalón 
 
 🔎:
 
+- Cinturilla elástica
+- Largo por encima de la rodilla
 - Tecnología de PUMA con propiedades que alejan la humedad de la piel y te ayudan a mantenerte seco y cómodo
 - Corte recto
-- Largo por encima de la rodilla
 - Refuerzo de malla e inserción trasera para ofrecer ventilación
-- Cinturilla elástica
 
 [Visítala!!!](https://www.amazon.es/dp/B07QJLBLHM/?tag=tolees-21)
