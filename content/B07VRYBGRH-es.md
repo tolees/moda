@@ -25,7 +25,7 @@ Ahora mismo tienes [G-STAR RAW Gyre Straight Fit Camiseta  Multicolor  Lt Bleach
 
 🔎:
 
-- Con la colección de camisetas G-Star RAW es tan fácil que nunca te veas bien cada temporada
 - Nuestras camisetas son un complemento versátil para cualquier look, informal o elegante
+- Con la colección de camisetas G-Star RAW es tan fácil que nunca te veas bien cada temporada
 
 [Visítala!!!](https://www.amazon.es/dp/B07VRYBGRH/?tag=tolees-21)
