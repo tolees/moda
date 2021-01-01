@@ -26,8 +26,8 @@ Tienes [Vans Seldan  Sneaker Hombre  Vestido De Lona Azul Azul Blanco Jy3  40.5 
 🔎:
 
 - Seldan
-- Entrenadores Zapatos
 - Tela superior
 - Vans Active
+- Entrenadores Zapatos
 
 [Comprar!!!](https://www.amazon.es/dp/B07VCLGMD4/?tag=tolees-21)
