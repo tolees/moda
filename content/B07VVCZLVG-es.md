@@ -25,7 +25,7 @@ Ahora mismo tienes [REPLAY New Luz Hyperflex Clouds Vaqueros Skinny  Azul  Dark 
 
 🔎:
 
-- sostenibilidad ecológica
 - sin productos químicos nocivos para el medio ambiente
+- sostenibilidad ecológica
 
 [Visítala!!!](https://www.amazon.es/dp/B07VVCZLVG/?tag=tolees-21)

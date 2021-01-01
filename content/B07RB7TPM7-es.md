@@ -1,34 +1,34 @@
 ---
 layout: post
-title: 'Descuento del 52.15 % en Columbia Columbia Lodge  Chaqueta sudade'
-date: 2020-12-17 14:21:59
+title: 'Columbia Columbia Lodge  Chaqueta sudade al 54.54 % de descuento'
+date: 2021-01-01 07:17:37
 image: 'https://m.media-amazon.com/images/I/41cvTvXBaWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07RB7TPM7-es'
-actualPrice: 76.56 EUR
+actualPrice: 72.73 EUR
 currency: EUR
-price: 76.56
+price: 72.73
 comparePrice: 159.99 EUR
 prodname: 'Columbia Columbia Lodge  Chaqueta sudadera  Hombre  Negro  Black   Talla L'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07RB7TPM7/?tag=tolees-21'
-descuento: '52.15'
-average: '69.17999999999999'
+descuento: '54.54'
+average: '70.6'
 ---
 
-Tienes [Columbia Columbia Lodge  Chaqueta sudadera  Hombre  Negro  Black   Talla L](https://www.amazon.es/dp/B07RB7TPM7/?tag=tolees-21) con un 52.15 % de descuento con precio de oferta de 76.56 EUR (original: 159.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Columbia Columbia Lodge  Chaqueta sudadera  Hombre  Negro  Black   Talla L](https://www.amazon.es/dp/B07RB7TPM7/?tag=tolees-21) a 72.73 EUR (original: 159.99 EUR) (54.54 %  de descuento) en el siguiente enlace!
 
 [![Columbia Columbia Lodge  Chaqueta sudade](https://m.media-amazon.com/images/I/41cvTvXBaWL._SL200_.jpg)](https://www.amazon.es/dp/B07RB7TPM7/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
-- Mens pullover jacket with Stylish Columbia logo and side-entry system, Ideal for everyday wear
-- Water resistant fabric that protects you from light rain showers and fog, Optimal fit thanks to drawcord adjustable hem
-- The zip pockets give you versatility. Keep your hands warm when needed or store your phone and other accessories without the fear of them falling out
-- Thermal reflective lining to keep your core temperated regulated without overheating
-- Contents: 1 x Columbia Mens Columbia Lodge Pullover Jacket, Shell: 100% polyester; Lining: 100% polyester; Insulation: Thermarator 100% polyester, Colour: Black, Size: L , Art.No 1864422
+- Tejido resistente al agua que te protege de los chubascos y la niebla, Ajuste óptimo gracias al dobladillo ajustable con cordón
+- Contenido: 1x Columbia Columbia Lodge Chaqueta sudadera para hombre, Cubierta: 100% poliéster; Forro: 100% poliéster; Aislamiento: Termostato 100% poliéster, Color: Negro, Talla: L , Art.No 1864422
+- Los bolsillos con cremallera te dan versatilidad Mantén tus manos calientes cuando lo necesites o guarda tu teléfono y otros accesorios sin temor a que se caigan
+- Chaqueta tipo sudadera para hombre con el elegante logotipo de Columbia y sistema de entrada lateral, optimo para el uso diario
+- El forro termorreflectante para mantener la temperatura interior sin sobrecalentamiento
 
-[Accede a la oferta!!](https://www.amazon.es/dp/B07RB7TPM7/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07RB7TPM7/?tag=tolees-21)
