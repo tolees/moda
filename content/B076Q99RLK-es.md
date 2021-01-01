@@ -25,8 +25,8 @@ Tienes [Tommy Hilfiger Core Stretch Slim Vneck tee Camiseta  Negro  Flag Black 0
 
 🔎:
 
-- A estrenar y genuina. Somos un vendedor autorizado de Tommy Hilfiger.
-- Tommy Hilfiger Negro Core Stretch Slim camiseta con cuello en V
 - Ver descripción del producto para obtener más información.
+- Tommy Hilfiger Negro Core Stretch Slim camiseta con cuello en V
+- A estrenar y genuina. Somos un vendedor autorizado de Tommy Hilfiger.
 
 [Comprar!!!](https://www.amazon.es/dp/B076Q99RLK/?tag=tolees-21)
