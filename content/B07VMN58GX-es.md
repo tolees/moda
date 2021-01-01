@@ -25,7 +25,7 @@ En este momento está [G-STAR RAW Weir Utility Loose Camiseta  Beige  Milk 9297-
 
 🔎:
 
-- Con la colección de camiseta de G-Star Raw es tan fácil que nunca te veas bien cada temporada
 - Nuestras camisetas son un complemento versátil para cualquier look, informal o elegante
+- Con la colección de camiseta de G-Star Raw es tan fácil que nunca te veas bien cada temporada
 
 [Aquí!!!](https://www.amazon.es/dp/B07VMN58GX/?tag=tolees-21)
