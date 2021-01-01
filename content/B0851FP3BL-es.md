@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Collar X Malice -Unlimited- con un 22.73 % de descuento'
-date: 2020-12-31 08:40:54
+date: 2021-01-01 11:50:06
 image: 'https://m.media-amazon.com/images/I/51RuVwDDfAL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -26,7 +26,7 @@ En este momento está [Collar X Malice -Unlimited-](https://www.amazon.es/dp/B08
 🔎:
 
 - ¡Investiga casos que son auténticos desafíos! Reúne pistas y analiza a individuos en momentos y escenarios diferentes para atar todos los cabos de la historia
-- ¡Nuevos personajes y opciones, en exclusiva para Collar X Malice-Unlimited! ¡Enfréntate al desafío absoluto de la historia de Adonis, diseñado para múltiples repeticiones! El tiempo avanza y no es posible desenmascarar a todos tus enemigos en un único recorrido del juego
 - ¡Explora nuevas rutas y misterios! Persigue oportunidades perdidas con el reparto original y después descubre personajes y eventos totalmente originales
+- ¡Nuevos personajes y opciones, en exclusiva para Collar X Malice-Unlimited! ¡Enfréntate al desafío absoluto de la historia de Adonis, diseñado para múltiples repeticiones! El tiempo avanza y no es posible desenmascarar a todos tus enemigos en un único recorrido del juego
 
 [Aquí!!!](https://www.amazon.es/dp/B0851FP3BL/?tag=tolees-21)

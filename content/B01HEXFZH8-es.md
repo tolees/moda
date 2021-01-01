@@ -25,12 +25,12 @@ En este momento está [Crocs Classic Clog K  Zuecos Unisex Niños  Ocean  25/26 
 
 🔎:
 
-- Composición: Espuma
-- Material exterior: Espuma
-- Cierre: Sin cordones
-- Tipo de tacón: Plano
 - Material de la suela: EVA
-- Revestimiento: Sin forro
+- Material exterior: Espuma
+- Tipo de tacón: Plano
 - Anchura del zapato: Normal
+- Cierre: Sin cordones
+- Composición: Espuma
+- Revestimiento: Sin forro
 
 [Aquí!!!](https://www.amazon.es/dp/B01HEXFZH8/?tag=tolees-21)
