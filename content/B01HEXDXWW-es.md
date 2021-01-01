@@ -26,11 +26,11 @@ Está [Crocs Classic Clog K  Zuecos Unisex Niños  Lemon  32/33 EU](https://www.
 ℹ️:
 
 - Anchura del zapato: Normal
-- Tipo de tacón: Plano
-- Material exterior: Espuma
 - Cierre: Sin cordones
-- Composición: Espuma
-- Material de la suela: EVA
 - Revestimiento: Sin forro
+- Material de la suela: EVA
+- Composición: Espuma
+- Material exterior: Espuma
+- Tipo de tacón: Plano
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01HEXDXWW/?tag=tolees-21)

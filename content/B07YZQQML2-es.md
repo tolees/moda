@@ -25,7 +25,7 @@ Ahora mismo tienes [Jack & Jones Jjiliam Jjoriginal Am 816 Noos Vaqueros Skinny 
 
 🔎:
 
-- Skinny fit Jeans
 - Elastic cotton
+- Skinny fit Jeans
 
 [Visítala!!!](https://www.amazon.es/dp/B07YZQQML2/?tag=tolees-21)

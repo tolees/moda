@@ -25,10 +25,10 @@ Ahora mismo tienes [G-STAR RAW Graphic 8 Round Neck Camiseta  Azul  Sartho Blue 
 
 🔎:
 
-- Estilo del cuello: Cuello redondo
-- Lavar a máquina - caliente (mayor de 30 °)
 - Camiseta
 - Manga corta
+- Estilo del cuello: Cuello redondo
 - 100% Algodón
+- Lavar a máquina - caliente (mayor de 30 °)
 
 [Visítala!!!](https://www.amazon.es/dp/B07MZGYCSD/?tag=tolees-21)
