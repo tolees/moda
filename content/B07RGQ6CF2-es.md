@@ -25,8 +25,8 @@ Ahora mismo tienes [adidas Streetcheck  Zapatos de Baloncesto Hombre  Multicolor
 
 🔎:
 
-- Amortiguación
-- Empeine de malla.
 - Zapatillas de running
+- Empeine de malla.
+- Amortiguación
 
 [Visítala!!!](https://www.amazon.es/dp/B07RGQ6CF2/?tag=tolees-21)
