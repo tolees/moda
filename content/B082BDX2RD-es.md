@@ -26,7 +26,7 @@ Ahora mismo tienes [Chaqueta DE Hombre Delta 049](https://www.amazon.es/dp/B082B
 🔎:
 
 - Capucha
-- bolsillos
 - Cierre cremallera parte central
+- bolsillos
 
 [Visítala!!!](https://www.amazon.es/dp/B082BDX2RD/?tag=tolees-21)
