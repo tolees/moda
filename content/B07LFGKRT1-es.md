@@ -25,8 +25,8 @@ Está [Levi s Graphic Crew B Sudadera  Hm Ssnl Fill 2 Dress Blues  M para Hombre
 
 ℹ️:
 
+- Tiene estampado la marca Levis
 - Con tacto suave de forro polar
 - Modelo casual
-- Tiene estampado la marca Levis
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07LFGKRT1/?tag=tolees-21)
