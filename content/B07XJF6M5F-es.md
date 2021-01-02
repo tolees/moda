@@ -26,9 +26,9 @@ Tienes [Vunavueya Zapatillas de Estar por Casa Niña Niño Zapatos Pantuflas Inv
 ℹ️:
 
 - ✅ A cozy flannel uppers provides protection, comfort for healthy foot growth
-- ✅ IMPORTANT - When you receive your shoes, the size on the soles will be the CN size. The sizing details can be found on the product image
+- ✅ Soft plush lining and footbed offer excellent warmth and comfort
 - ✅ Slip-on construction with an closed-heel
 - ✅ The rubber outsole grants stability and sure footing for indoor and outdoor wear
-- ✅ Soft plush lining and footbed offer excellent warmth and comfort
+- ✅ IMPORTANT - When you receive your shoes, the size on the soles will be the CN size. The sizing details can be found on the product image
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07XJF6M5F/?tag=tolees-21)

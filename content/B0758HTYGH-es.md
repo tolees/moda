@@ -25,8 +25,8 @@ En este momento está [edc by Esprit 997cc1b821 Vaqueros Straight  Azul  Blue Da
 
 🔎:
 
-- Cintura con trabillas para el cinturón
-- Con cremallera en el bolsillo monedero
 - Vaqueros con estilo de cinco bolsillos para mujeres
+- Con cremallera en el bolsillo monedero
+- Cintura con trabillas para el cinturón
 
 [Aquí!!!](https://www.amazon.es/dp/B0758HTYGH/?tag=tolees-21)
