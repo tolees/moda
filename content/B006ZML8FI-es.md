@@ -25,10 +25,10 @@ En este momento está [Helly Hansen Crew Midlayer Chaqueta deportiva impermeable
 
 🔎:
 
-- Bolsillos en el pecho con cremallera
-- Bolsillos térmicos para las manos, forro polar
-- Tratamiento de impermeabilidad duradera, costuras totalmente selladas
 - Construcción de tela de 2 capas
+- Bolsillos en el pecho con cremallera
 - Bajo ajustable con una sola mano, puños ajustables
+- Tratamiento de impermeabilidad duradera, costuras totalmente selladas
+- Bolsillos térmicos para las manos, forro polar
 
 [Aquí!!!](https://www.amazon.es/dp/B006ZML8FI/?tag=tolees-21)

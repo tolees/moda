@@ -25,10 +25,10 @@ Ahora mismo tienes [bollé MADDOX Black Marble Matte / Black Chrome Cat.3 | Medi
 
 🔎:
 
+- Tratamiento antiempañamiento P80+ y antirrayaduras Carbo-glass
+- Doble Lente
+- Lente: PC BLACK CHROME
 - CAT.3 - BUEN TIEMPO
 - Basado en uno de nuestros diseños más vendidos, MADDOX es una máscara con líneas modernas y audaces, combinada con las mejores tecnologías de lentes de Bollé. Usándolas, nunca te decepcionarán.
-- Doble Lente
-- Tratamiento antiempañamiento P80+ y antirrayaduras Carbo-glass
-- Lente: PC BLACK CHROME
 
 [Visítala!!!](https://www.amazon.es/dp/B07YLNLXZJ/?tag=tolees-21)
