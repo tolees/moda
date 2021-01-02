@@ -26,7 +26,7 @@ Tienes [edc by Esprit 997cc1b821 Vaqueros Straight  Azul  Blue Dark Wash 901   W
 🔎:
 
 - Vaqueros con estilo de cinco bolsillos para mujeres
-- Cintura con trabillas para el cinturón
 - Con cremallera en el bolsillo monedero
+- Cintura con trabillas para el cinturón
 
 [Comprar!!!](https://www.amazon.es/dp/B0758CHG4F/?tag=tolees-21)
