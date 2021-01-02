@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'CAMISETA SEÑORA TERMAL YSABEL MORA  M  al 29.85 % de rebaja'
-date: 2020-12-31 22:03:07
+date: 2021-01-02 10:25:47
 image: 'https://m.media-amazon.com/images/I/41ZDqrSOJ9L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XXZP729/?tag=tolees-21'
 descuento: '29.85'
-average: '8.016'
+average: '7.921818181818182'
 ---
 
 Tienes [CAMISETA SEÑORA TERMAL YSABEL MORA  M ](https://www.amazon.es/dp/B06XXZP729/?tag=tolees-21) con precio final de  6.98 EUR (original: 9.95 EUR) (29.85 %  de rebaja) aqui!
@@ -25,8 +25,8 @@ Tienes [CAMISETA SEÑORA TERMAL YSABEL MORA  M ](https://www.amazon.es/dp/B06XXZ
 
 🔎:
 
-- CUELLO REDONDO
 - AFELPADO INTERIOR
+- CUELLO REDONDO
 - TERMICA
 
 [Comprar!!!](https://www.amazon.es/dp/B06XXZP729/?tag=tolees-21)
