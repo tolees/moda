@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vestido para niña Algodón Manga Larga Un al 49.89 % de descuento'
-date: 2020-12-23 12:46:32
+date: 2021-01-02 18:35:33
 image: 'https://m.media-amazon.com/images/I/51ZseM3uV+L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,10 +25,10 @@ Ahora mismo tienes [Vestido para niña Algodón Manga Larga Unicornio Bordado Gr
 
 🔎:
 
-- encima de la rodilla.
-- 100% algodón
 - Vestidos para niña Talla 3 años. Por favor, ver la medida del tamaño abajo en la descripción del producto antes de comprar
-- Talla: Busto: 60CM, Cintura: 60CM, Longitud: 48CM
+- encima de la rodilla.
 - lavable a máquina, bajo retroceder seca
+- Talla: Busto: 60CM, Cintura: 60CM, Longitud: 48CM
+- 100% algodón
 
 [Visítala!!!](https://www.amazon.es/dp/B07JFPYNSZ/?tag=tolees-21)
