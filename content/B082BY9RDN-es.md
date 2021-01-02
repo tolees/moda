@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEVIS FOOTWEAR AND ACCESORIAS Turner  za al 30.71 % de rebaja'
-date: 2021-01-01 10:35:08
+date: 2021-01-02 22:46:59
 image: 'https://m.media-amazon.com/images/I/31yuDxvHqoL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B082BY9RDN/?tag=tolees-21'
 descuento: '30.71'
-average: '35.112857142857145'
+average: '35.05375'
 ---
 
 Tienes [LEVIS FOOTWEAR AND ACCESORIAS Turner  zapatos de hombre  blanco  43](https://www.amazon.es/dp/B082BY9RDN/?tag=tolees-21) con precio final de  34.64 EUR (original: 49.99 EUR) (30.71 %  de rebaja) aqui!
