@@ -25,8 +25,8 @@ Ahora mismo tienes [Geox D Sandal Hiver A  Sandalias con Punta Abierta Mujer  Ne
 
 🔎:
 
-- Dimensiones : Altura del tacón : 3.0 cm
 - Shoe Width : medium
 - sintética, sintética, Piel , cuero, sintética, 3.0, Hebilla, Sandalias
+- Dimensiones : Altura del tacón : 3.0 cm
 
 [Visítala!!!](https://www.amazon.es/dp/B07SRSFM72/?tag=tolees-21)
