@@ -1,33 +1,33 @@
 ---
 layout: post
-title: 'adidas TABELA 18 JSY Camiseta de Manga C con un 49.22 % de descuento'
-date: 2020-12-30 09:41:04
+title: 'adidas TABELA 18 JSY Camiseta de Manga C con un 50.14 % de descuento'
+date: 2021-01-02 14:26:50
 image: 'https://m.media-amazon.com/images/I/41W3K1M1MAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07798XRYJ-es'
-actualPrice: 12.67 EUR
+actualPrice: 12.44 EUR
 currency: EUR
-price: 12.67
+price: 12.44
 comparePrice: 24.95 EUR
 prodname: 'adidas TABELA 18 JSY Camiseta de Manga Corta  Hombre  Black/White  910Y'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07798XRYJ/?tag=tolees-21'
-descuento: '49.22'
-average: '13.159285714285716'
+descuento: '50.14'
+average: '13.111333333333334'
 ---
 
-En este momento está [adidas TABELA 18 JSY Camiseta de Manga Corta  Hombre  Black/White  910Y](https://www.amazon.es/dp/B07798XRYJ/?tag=tolees-21) a 12.67 EUR (original: 24.95 EUR) (49.22 %  de descuento) en el siguiente enlace!
+En este momento está [adidas TABELA 18 JSY Camiseta de Manga Corta  Hombre  Black/White  910Y](https://www.amazon.es/dp/B07798XRYJ/?tag=tolees-21) a 12.44 EUR (original: 24.95 EUR) (50.14 %  de descuento) en el siguiente enlace!
 
 [![adidas TABELA 18 JSY Camiseta de Manga C](https://m.media-amazon.com/images/I/41W3K1M1MAL._SL200_.jpg)](https://www.amazon.es/dp/B07798XRYJ/?tag=tolees-21)
 
 🔎:
 
-- Camiseta de futbol para niños
 - Ofrece libertad de movimiento
 - Esta hecha de un material ligero y transpirable
+- Camiseta de futbol para niños
 - Tiene mangas cortas
 
 [Aquí!!!](https://www.amazon.es/dp/B07798XRYJ/?tag=tolees-21)
