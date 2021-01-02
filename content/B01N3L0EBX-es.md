@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 24.42 % en Tous Kaos Mini Lona  Bolso Totes para Mu'
-date: 2021-01-01 04:16:55
+date: 2021-01-02 04:25:32
 image: 'https://m.media-amazon.com/images/I/41Nn9BJptgL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N3L0EBX/?tag=tolees-21'
 descuento: '24.42'
-average: '136.04866666666666'
+average: '135.056875'
 ---
 
 Tienes [Tous Kaos Mini Lona  Bolso Totes para Mujer  Beige  Beige   14x29x40 cm  W x H x L ](https://www.amazon.es/dp/B01N3L0EBX/?tag=tolees-21) con un 24.42 % de descuento con precio de oferta de 120.18 EUR (original: 159.0 EUR) en el siguiente enlace!

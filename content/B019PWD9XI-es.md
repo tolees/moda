@@ -25,7 +25,7 @@ Tienes [Diesel UMTEE-JAKETHREEPACK  Camiseta para Hombre  Blanco  Bright White 1
 
 🔎:
 
-- De la marca Diesel.
 - Muy cómodo de llevar.
+- De la marca Diesel.
 
 [Comprar!!!](https://www.amazon.es/dp/B019PWD9XI/?tag=tolees-21)
