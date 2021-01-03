@@ -25,12 +25,12 @@ Ahora mismo tienes [Geox D Nebula B  Zapatillas sin Cordones Mujer  Rojo  Red C7
 
 🔎:
 
-- Tipo de tacón: Plano
-- Cierre: Sin cordones
 - Material de la suela: Sintético
-- Altura del tacón: 3 centímetros
-- Revestimiento: Malla
+- Tipo de tacón: Plano
 - Material exterior: Sintético
+- Revestimiento: Malla
+- Altura del tacón: 3 centímetros
+- Cierre: Sin cordones
 - Tipo de talla: Te informamos que los zapatos Geox son holgados, te recomendamos elegir media talla menos con respecto a tu talla habitual
 
 [Visítala!!!](https://www.amazon.es/dp/B07SXTMXMF/?tag=tolees-21)
