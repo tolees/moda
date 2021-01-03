@@ -26,7 +26,7 @@ Tienes [Tommy Hilfiger Tommy Logo Hoody sudadera  Blau  Sky Captain 403   X-Smal
 🔎:
 
 - A estrenar y genuina. Somos un vendedor autorizado de Tommy Hilfiger.
-- Ver descripción del producto para obtener más información.
 - Tommy Hilfiger Azul Core Logo Hoodie
+- Ver descripción del producto para obtener más información.
 
 [Comprar!!!](https://www.amazon.es/dp/B07JYRK4XS/?tag=tolees-21)
