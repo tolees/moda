@@ -26,7 +26,7 @@ En este momento está [Bollé APRUSH+SMOKE - Gafas de seguridad  cristales ahuma
 🔎:
 
 - Protección garantizada contra el 99% de la radiación solar ultravioleta
-- El revestimiento de platino proporciona una alta resistencia a los arañazos y los productos químicos más agresivos, y retrasa la formación de vaho
 - Las gafas Rush + adoptan un diseño muy deportivo, con sus patillas de doble inyección y ultraflexibles
+- El revestimiento de platino proporciona una alta resistencia a los arañazos y los productos químicos más agresivos, y retrasa la formación de vaho
 
 [Aquí!!!](https://www.amazon.es/dp/B00HER83WE/?tag=tolees-21)
