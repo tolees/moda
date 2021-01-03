@@ -25,9 +25,9 @@ Está [Pepe Jeans Eggo PM500465 Camiseta  Gris  Grey Marl 933   Large para Hombr
 
 ℹ️:
 
-- Logo estampado en el pecho
-- Camiseta básica para hombre
 - Manga corta
+- Camiseta básica para hombre
 - Fabricada en tejido suave
+- Logo estampado en el pecho
 
 [Ver la oferta!!](https://www.amazon.es/dp/B06XT6QJDG/?tag=tolees-21)
