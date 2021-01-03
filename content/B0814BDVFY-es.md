@@ -26,9 +26,9 @@ Tienes [Columbia Puffect Chaqueta para Mujer  Amarillo  Bright Marigold   M](htt
 🔎:
 
 - Contenido: 1x Columbia Puffect Chaqueta para mujer, Cubierta: 100% poliéster; Forro: 100% nylon; Aislamiento: Termostato 100% poliéster, Color: Amarillo (Bright Marigold), Talla: M, Art.No 1864781
+- Protector de barbilla para una mayor protección contra los elementos
+- Tejido resistente al agua que la protege de la lluvia y la niebla, Aislamiento Thermarator para mayor calidez
 - Chaqueta de mujer elegante y con estilo, Una prenda imprescindible en cualquier armario de invierno
 - Los bolsillos con cremallera te dan versatilidad Mantén tus manos calientes cuando lo necesites o guarda tu teléfono y otros accesorios sin temor a que se caigan
-- Tejido resistente al agua que la protege de la lluvia y la niebla, Aislamiento Thermarator para mayor calidez
-- Protector de barbilla para una mayor protección contra los elementos
 
 [Comprar!!!](https://www.amazon.es/dp/B0814BDVFY/?tag=tolees-21)
