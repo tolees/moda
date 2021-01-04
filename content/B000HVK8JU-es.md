@@ -25,17 +25,17 @@ En este momento está [Timberland 6-Inch Premium WP  Botas Clasicas Unisex Niño
 
 🔎:
 
-- Suela exterior de goma lug fabricada con 10% de materiales vegetales.
-- Material de la suela: goma.
-- Parte superior: otros cueros.
-- Forro textil y suela interior para mayor transpirabilidad. fútbeds EVA para una amortiguación ligera y absorción de golpes.
-- Collar acolchado para un ajuste cómodo alrededor del tobillo. Shanks de acero para soporte del arco plantar.
-- Construcción impermeable con costuras garantizadas para mantener los pies secos en todas las estaciones.
-- Altura del tacón: 3 cm.
-- Forro: sintético.
-- Tipo de tacón: plano.
 - Piel de flor de alta calidad para una durabilidad robusta.
-- Material antioxidante para una mayor durabilidad y un aspecto auténtico de Timberland.
 - Plantilla interior: piel
+- Construcción impermeable con costuras garantizadas para mantener los pies secos en todas las estaciones.
+- Suela exterior de goma lug fabricada con 10% de materiales vegetales.
+- Material antioxidante para una mayor durabilidad y un aspecto auténtico de Timberland.
+- Parte superior: otros cueros.
+- Material de la suela: goma.
+- Tipo de tacón: plano.
+- Forro: sintético.
+- Collar acolchado para un ajuste cómodo alrededor del tobillo. Shanks de acero para soporte del arco plantar.
+- Forro textil y suela interior para mayor transpirabilidad. fútbeds EVA para una amortiguación ligera y absorción de golpes.
+- Altura del tacón: 3 cm.
 
 [Aquí!!!](https://www.amazon.es/dp/B000HVK8JU/?tag=tolees-21)

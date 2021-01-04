@@ -25,8 +25,8 @@ En este momento está [Black Diamond Midweight Wooltech Gloves Guantes  Unisex A
 
 🔎:
 
+- 210 g de lana merino nuyarn para un equilibrio de calidez y durabilidad
 - La mezcla de lana merino de nuyarn es más ligera, más fuerte y se seca cinco veces más rápido
 - Parche de palma de cuero de cabra
-- 210 g de lana merino nuyarn para un equilibrio de calidez y durabilidad
 
 [Aquí!!!](https://www.amazon.es/dp/B07WPX3VSK/?tag=tolees-21)
