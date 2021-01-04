@@ -25,10 +25,10 @@ Tienes [Geox D Myria C  Zapatillas para Mujer  Beige  Skin/Sand C8389   39 EU](h
 
 🔎:
 
-- Revestimiento: Malla
-- Material exterior: Cuero
-- Tipo de tacón: Plano
-- Material de la suela: Goma
 - Cierre: Cremallera
+- Tipo de tacón: Plano
+- Material exterior: Cuero
+- Material de la suela: Goma
+- Revestimiento: Malla
 
 [Comprar!!!](https://www.amazon.es/dp/B07SQGWQX4/?tag=tolees-21)

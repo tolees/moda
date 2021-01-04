@@ -27,7 +27,7 @@ Está [G-STAR RAW Attacc Heatseal Quilted HDD Jkt Chaqueta  Sartho Blue C470-606
 
 - Cuello alzado
 - G-STAR RAW.
-- Manga larga recta con puños elásticos
 - Capucha incorporada cogida detrás de la cremallera de cuello
+- Manga larga recta con puños elásticos
 
 [Ver la oferta!!](https://www.amazon.es/dp/B084R2KPG6/?tag=tolees-21)
