@@ -26,7 +26,7 @@ Tienes [Tommy Hilfiger Original Stretch Camisa  Negro  Tommy Black 078   Large p
 🔎:
 
 - Tiene el logo de Tommy Hilfiger bordado en el pecho
-- Modelo casual
 - Puños con botón
+- Modelo casual
 
 [Comprar!!!](https://www.amazon.es/dp/B07774FVPY/?tag=tolees-21)
