@@ -26,7 +26,7 @@ Ahora mismo tienes [Lee Daren Vaqueros Straight  Azul  Blue Drop Em   38W / 32L 
 🔎:
 
 - Tienen un parche de piel en la parte trasera con la marca Lee
-- Vaqueros para hombre
 - Presentan 5 bolsillos
+- Vaqueros para hombre
 
 [Visítala!!!](https://www.amazon.es/dp/B07BQ1PGR7/?tag=tolees-21)
