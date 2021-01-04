@@ -26,8 +26,8 @@ Ahora mismo tienes [Clarks Ronnie Walk  Zapatos de Cordones Derby Hombre  Piel  
 🔎:
 
 - Suela: goma
-- Interior: textil
 - Cierre: cordones
 - Exterior: piel
+- Interior: textil
 
 [Visítala!!!](https://www.amazon.es/dp/B07SNRNGQ7/?tag=tolees-21)
