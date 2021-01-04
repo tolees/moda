@@ -26,7 +26,7 @@ En este momento está [Geographical Norway Parka Hombre Carnaval 068 rol 7](http
 🔎:
 
 - Cierre cremallera parte central
-- insignia PVC en la manga
 - Capucha
+- insignia PVC en la manga
 
 [Aquí!!!](https://www.amazon.es/dp/B082BBR8Y8/?tag=tolees-21)

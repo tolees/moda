@@ -26,9 +26,9 @@ Tienes [PUMA Epic Flip V2  Chanclas Unisex Adulto  Negro  Black/White   44.5 EU]
 ℹ️:
 
 - Los fracasos de tirón
-- muchos colores
 - suela de goma
 - sintético
 - Puma Logo
+- muchos colores
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B015OK0HXA/?tag=tolees-21)
