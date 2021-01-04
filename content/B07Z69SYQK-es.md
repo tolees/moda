@@ -27,8 +27,8 @@ Tienes [El Búho Nocturno Pijama de Caballero clásico de Manga Larga Pijama a R
 
 - Composición: Pijama de punto
 - <br>Lavado: lavar a máquina a 30 grados.<br>
+- Forma: largo | Estilo: casual | Fit: Regular
 - Cuello: pico | Bolsillos: dos en los pantalones
 - Modelo 5543, punto a rayas azul
-- Forma: largo | Estilo: casual | Fit: Regular
 
 [Comprar!!!](https://www.amazon.es/dp/B07Z69SYQK/?tag=tolees-21)
