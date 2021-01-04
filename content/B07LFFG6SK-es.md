@@ -25,8 +25,8 @@ Está [Levi s LS Original Hm tee Camiseta  Medium Grey Heather  S para Hombre](h
 
 ℹ️:
 
-- Con un discreto logo en el pecho
 - Elaborada en punto suave
 - Modelo casual
+- Con un discreto logo en el pecho
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07LFFG6SK/?tag=tolees-21)

@@ -26,7 +26,7 @@ En este momento está [edc by Esprit 998cc2b819 Vaqueros Slim  Azul  Blue Medium
 🔎:
 
 - Presentan diseño clásico de cinco bolsillos
-- Tienen cintura con trabillas para cinturón
 - Vaqueros con tejido elástico para hombres
+- Tienen cintura con trabillas para cinturón
 
 [Aquí!!!](https://www.amazon.es/dp/B07JP1CQQ3/?tag=tolees-21)
