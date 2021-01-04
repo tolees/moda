@@ -25,7 +25,7 @@ En este momento está [Jack & Jones Jjeorganic Basic tee SS O-Neck Noos Camiseta
 
 🔎:
 
-- Cotton fabric for a soft and comfortable wear
 - Short-sleeved tee with o-neck
+- Cotton fabric for a soft and comfortable wear
 
 [Aquí!!!](https://www.amazon.es/dp/B07RXQHR8V/?tag=tolees-21)
