@@ -25,9 +25,9 @@ En este momento está [Columbia Powder Lite Chaleco  Hombre  Verde  Azul  Stone 
 
 🔎:
 
-- Chaleco termorreflectante para hombre,Ideal para retener el calor durante los fríos meses de invierno
-- Ajuste óptimo gracias al dobladillo ajustable con cordón
 - Costuras en el cuello, el dobladillo y las sisas, Bolsillo interior de seguridad
+- Ajuste óptimo gracias al dobladillo ajustable con cordón
+- Chaleco termorreflectante para hombre,Ideal para retener el calor durante los fríos meses de invierno
 - La tecnología reflectante Omni-Heat ofrece un mejor aislamiento para mantenerte caliente incluso en los días más fríos
 - Contenido: 1x Columbia Powder Lite Chaleco para hombre, Exterior: Storm-Lite DP II 100% poliéster; Forro: Omni-Heat Reflective Forro 100% poliéster; Aislamiento: Thermarator 100% poliéster, Color: Verde, Azul (Stone Green, Collegiate Navy), Talla: L, Art.No. 1748031
 

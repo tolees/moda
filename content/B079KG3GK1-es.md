@@ -26,7 +26,7 @@ Está [Lee Rider Jeans Vaqueros  Grey Used  28W / 34L para Hombre](https://www.a
 ℹ️:
 
 - Vaqueros para hombre
-- Estilo 5 bolsillos
 - Tienen un parche de piel en la parte trasera con la marca Lee
+- Estilo 5 bolsillos
 
 [Ver la oferta!!](https://www.amazon.es/dp/B079KG3GK1/?tag=tolees-21)
