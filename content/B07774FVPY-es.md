@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tommy Hilfiger Original Stretch Camisa   al 24.13 % de rebaja'
-date: 2021-01-03 05:07:44
+date: 2021-01-04 12:35:22
 image: 'https://m.media-amazon.com/images/I/31rVFNlfFPL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07774FVPY/?tag=tolees-21'
 descuento: '24.13'
-average: '45.707536231884056'
+average: '45.89464788732394'
 ---
 
 Tienes [Tommy Hilfiger Original Stretch Camisa  Negro  Tommy Black 078   Large para Hombre](https://www.amazon.es/dp/B07774FVPY/?tag=tolees-21) con precio final de  52.35 EUR (original: 69.0 EUR) (24.13 %  de rebaja) aqui!

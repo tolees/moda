@@ -25,9 +25,9 @@ En este momento está [RFEF Camiseta oficial conmemorativa final Mundial Sudáfr
 
 🔎:
 
-- Logo ref, escudo de la rfef y estrella de campeones del mundo bordados en el pecho
 - Edición coleccionista en caja exclusiva y prendas de serie limitada y numerada
-- Producto oficial Licenciado conmemorativo de los 10 años desde la final del Mundial de Sudáfrica
 - Dorsal 10 en la espalda, recordando los 10 años desde la final
+- Producto oficial Licenciado conmemorativo de los 10 años desde la final del Mundial de Sudáfrica
+- Logo ref, escudo de la rfef y estrella de campeones del mundo bordados en el pecho
 
 [Aquí!!!](https://www.amazon.es/dp/B0895F3THT/?tag=tolees-21)

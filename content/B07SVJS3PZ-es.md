@@ -25,12 +25,12 @@ En este momento está [Geox B Todo Girl C  Zapatillas Niñas  Rosa  Pink C8004  
 
 🔎:
 
-- Heel Type: Flat
-- Closure Type: Velcro
 - Inner Material Type: Textile
 - Insole Material Type: Synthetic/Manmade
-- Sole Material: Synthetic
+- Heel Type: Flat
+- Closure Type: Velcro
 - Outer Material: Synthetic
+- Sole Material: Synthetic
 - Heel Height (in centimeters): 2
 
 [Aquí!!!](https://www.amazon.es/dp/B07SVJS3PZ/?tag=tolees-21)
