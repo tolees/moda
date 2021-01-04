@@ -25,7 +25,7 @@ Tienes [Esprit 999ee1k822 Camisa Manga Larga  Verde  Khaki Green 4 353   Small p
 
 🔎:
 
-- Camiseta de manga larga a rayas horizontales con cuello barco muy femenino
 - Con algodón de alta calidad procedente de cultivo ecológico
+- Camiseta de manga larga a rayas horizontales con cuello barco muy femenino
 
 [Comprar!!!](https://www.amazon.es/dp/B07YKVJF49/?tag=tolees-21)

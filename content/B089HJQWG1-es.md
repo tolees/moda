@@ -26,7 +26,7 @@ Está [RFEF Camiseta oficial conmemorativa final Mundial Sudáfrica 2010  Navy  
 ℹ️:
 
 - Producto oficial Licenciado conmemorativo de los 10 años desde la final del Mundial de Sudáfrica
-- Edición coleccionista en caja exclusiva y prendas de serie limitada y numerada
 - Logo ref, escudo de la rfef y estrella de campeones del mundo bordados en el pecho
+- Edición coleccionista en caja exclusiva y prendas de serie limitada y numerada
 
 [Ver la oferta!!](https://www.amazon.es/dp/B089HJQWG1/?tag=tolees-21)
