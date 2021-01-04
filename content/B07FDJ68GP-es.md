@@ -26,8 +26,8 @@ En este momento está [Superdry Orange Label Vntge Emb S/S tee Camiseta  Azul  E
 🔎:
 
 - Las prendas de Superdry son fabricadas con un adecuado balance entre estilo y confort; recomendamos una talla superior a la que emplea habitualmente para una auténtica experiencia Superdry
-- Tiene un tejido ligero y suave
 - Pequeño logo estampado en el pecho
+- Tiene un tejido ligero y suave
 - Adecuada para el uso diario
 
 [Aquí!!!](https://www.amazon.es/dp/B07FDJ68GP/?tag=tolees-21)
