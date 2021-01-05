@@ -25,8 +25,8 @@ Ahora mismo tienes [Levi s Original Trucker Chaqueta Vaquera  Clean Dark Authent
 
 🔎:
 
-- Un básico versátil para completar cualquier conjunto
 - Bolsillos de parche en el pecho con solapa y corchete
+- Un básico versátil para completar cualquier conjunto
 - Trabillas ajustables en la parte posterior de la cinturilla
 
 [Visítala!!!](https://www.amazon.es/dp/B07D75SL7J/?tag=tolees-21)
