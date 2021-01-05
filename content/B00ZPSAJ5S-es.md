@@ -25,10 +25,10 @@ Tienes [ASHWOOD - Camden 8351 - Bolso Bandolera - Apto para Llevar Kindle y iPad
 
 ℹ️:
 
-- HERRAJES: Plateado envejecido.
-- SE TRATA DE UN FANTÁSTICO BOLSO BANDOLERA ELABORADO PARTIR DE CUERO DESGASTADO MUY DE MODA.
 - DIMENSIONES DEL PRODUCTO: Al </b>24 cm,<b> An </b>20.5 cm, <b>P </b>6 cm<b></b><b> </b> <b> , CORREA DE HOMBRO AJUSTABLE: </b>146 cm
+- SE TRATA DE UN FANTÁSTICO BOLSO BANDOLERA ELABORADO PARTIR DE CUERO DESGASTADO MUY DE MODA.
 - INTERIORES: 1 compartimento principal + 1 bolsillo interior lateral con cremallera + 1 bolsillo para el móvil + 2 portabolígrafos + 1 bolsillo delantero con cremallera + 1 bolsillo exterior delantero con cremallera + 1 bolsillo exterior trasero con cremallera
 - INCLUIDO:
+- HERRAJES: Plateado envejecido.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00ZPSAJ5S/?tag=tolees-21)

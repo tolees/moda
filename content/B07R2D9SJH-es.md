@@ -26,9 +26,9 @@ Tienes [Helly Hansen Lifaloft Insulator Jacket Chaqueta Aislante  Hombre  Azul  
 🔎:
 
 - Diseño único de la colcha de Lifaloft
-- El tratamiento repelente al agua duradero y libre de PFC hace que la lluvia se desprenda de la tela
-- Tejido resistente al agua y al viento
 - Aislamiento LIFALOFT de PrimaLoft
+- Tejido resistente al agua y al viento
+- El tratamiento repelente al agua duradero y libre de PFC hace que la lluvia se desprenda de la tela
 - Cremallera YKK CF y bolsillos dobles con cremallera YKK para calentar las manos
 
 [Comprar!!!](https://www.amazon.es/dp/B07R2D9SJH/?tag=tolees-21)

@@ -25,9 +25,9 @@ En este momento está [Adidas CORE18 Hoody Sudadera con Capucha  Hombre  Gris  G
 
 🔎:
 
-- Costuras laterales abiertas para una mayor libertad de movimiento.
 - Bolsillo canguro
-- Logotipo de adidas a la derecha del pecho.
 - Etiqueta sobre el dobladillo izquierdo.
+- Logotipo de adidas a la derecha del pecho.
+- Costuras laterales abiertas para una mayor libertad de movimiento.
 
 [Aquí!!!](https://www.amazon.es/dp/B076HRG8NW/?tag=tolees-21)

@@ -25,8 +25,8 @@ Ahora mismo tienes [G-STAR RAW Attacc Heatseal Quilted HDD Jkt Chaqueta  Sartho 
 
 🔎:
 
-- Manga larga recta con puños elásticos
 - Capucha incorporada cogida detrás de la cremallera de cuello
+- Manga larga recta con puños elásticos
 - Cuello alzado
 
 [Visítala!!!](https://www.amazon.es/dp/B084R2SDML/?tag=tolees-21)
