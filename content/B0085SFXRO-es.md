@@ -25,8 +25,8 @@ Tienes [Jack & Jones Jones - Camiseta de manga corta con cuello redondo para hom
 
 ℹ️:
 
-- Camiseta de manga corta de color azul marino. Cuello redondo.
 - Modelo: 12058529 BASIC O-NECK TEE SS NOOS
 - Marca: JACK&JONES
+- Camiseta de manga corta de color azul marino. Cuello redondo.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B0085SFXRO/?tag=tolees-21)
