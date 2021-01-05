@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Jack & Jones Jones - Camiseta de manga c al 46.02 % de descuento'
-date: 2020-12-11 14:52:29
+title: 'Descuento del 46.02 % en Jack & Jones Jones - Camiseta de manga c'
+date: 2021-01-05 07:53:43
 image: 'https://m.media-amazon.com/images/I/31HEOgfbVOL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,17 +16,17 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0085SFXRO/?tag=tolees-21'
 descuento: '46.02'
+average: '6.8954545454545455'
 ---
 
-Está [Jack & Jones Jones - Camiseta de manga corta con cuello redondo para hombre  color azul marino  talla M](https://www.amazon.es/dp/B0085SFXRO/?tag=tolees-21) con 46.02 de descuento por 6.99 EUR (original: 12.95 EUR) en el siguiente enlace!
+Tienes [Jack & Jones Jones - Camiseta de manga corta con cuello redondo para hombre  color azul marino  talla M](https://www.amazon.es/dp/B0085SFXRO/?tag=tolees-21) con un 46.02 % de descuento con precio de oferta de 6.99 EUR (original: 12.95 EUR) en el siguiente enlace!
 
 [![Jack & Jones Jones - Camiseta de manga c](https://m.media-amazon.com/images/I/31HEOgfbVOL._SL200_.jpg)](https://www.amazon.es/dp/B0085SFXRO/?tag=tolees-21)
 
 ℹ️:
 
-- Estación: SIEMPRE DISPONIBLE
-- Artículo: 12058529 BASIC TEE
-- Color: NAVY AZUL
-- Designer: JACK&JONES
+- Camiseta de manga corta de color azul marino. Cuello redondo.
+- Marca: JACK&JONES
+- Modelo: 12058529 BASIC O-NECK TEE SS NOOS
 
-[Ver la oferta!!](https://www.amazon.es/dp/B0085SFXRO/?tag=tolees-21)
+[Accede a la oferta!!](https://www.amazon.es/dp/B0085SFXRO/?tag=tolees-21)

@@ -26,9 +26,9 @@ En este momento está [bollé Inuk Gafas de Ski Juventud Unisex Extra Small  Pin
 🔎:
 
 - Doble Lente
-- Lente: PC VERMILLON
-- Pon color en las pistas con INUK, la nueva y robusta máscara para los jóvenes intrépidos. Desarrollada con cascos, la INUK garantiza confort y seguridad cuando se lleva con protección para la cabeza. Se acabaron los molestos puntos de presión o los espacios de aire para los jóvenes más atrevidos.
-- CAT.2 - TIEMPO MIXTO
 - Tratamiento antiempañamiento P80+ y antirrayaduras Carbo-glass
+- CAT.2 - TIEMPO MIXTO
+- Pon color en las pistas con INUK, la nueva y robusta máscara para los jóvenes intrépidos. Desarrollada con cascos, la INUK garantiza confort y seguridad cuando se lleva con protección para la cabeza. Se acabaron los molestos puntos de presión o los espacios de aire para los jóvenes más atrevidos.
+- Lente: PC VERMILLON
 
 [Aquí!!!](https://www.amazon.es/dp/B07SNT793F/?tag=tolees-21)

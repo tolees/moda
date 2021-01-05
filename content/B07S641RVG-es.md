@@ -26,7 +26,7 @@ Está [Crocs Monterey Diamante WdgFpW  Chanclas Mujer  Azul  37 EU](https://www.
 ℹ️:
 
 - Crocs Monterey Diamante WdgFpW (206343)
-- Sandalias Tiempo libre y sportwear Mujer
 - Calzado crocs
+- Sandalias Tiempo libre y sportwear Mujer
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07S641RVG/?tag=tolees-21)
