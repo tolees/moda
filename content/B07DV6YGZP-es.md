@@ -25,8 +25,8 @@ Está [Fallout Chaqueta S Vault 76 Capucha](https://www.amazon.es/dp/B07DV6YGZP/
 
 ℹ️:
 
-- Tamaño : S
 - Sudadera azul y amarilla con un 76 impreso en el pecho y en la espalda
+- Tamaño : S
 - Lo más cerca que estarás de tener tu propio traje del Refugio
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07DV6YGZP/?tag=tolees-21)

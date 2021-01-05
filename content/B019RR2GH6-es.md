@@ -25,9 +25,9 @@ Está [Velilla 103001C8/T60 Pantalón multibolsillos  Gris  60](https://www.amaz
 
 ℹ️:
 
-- Material resistente de 65% poliéster y 35% algodón, con un gramaje de 240 gr/m2
 - Pantalón laboral multi-bolsillos con goma elástica
-- Pespuntes visibles para dar un toque diferente a la uniformidad
 - Dos bolsillos franceses y cuatro con tapeta y velcro
+- Pespuntes visibles para dar un toque diferente a la uniformidad
+- Material resistente de 65% poliéster y 35% algodón, con un gramaje de 240 gr/m2
 
 [Ver la oferta!!](https://www.amazon.es/dp/B019RR2GH6/?tag=tolees-21)
