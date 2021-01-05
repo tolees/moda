@@ -25,8 +25,8 @@ Ahora mismo tienes [Levi s Vneck Camiseta  Annalise Stripe Sepia Rose  S para Mu
 
 🔎:
 
-- Tiene bordado en el pecho la marca Levis
-- Modelo casual
 - Con suave tejido y el corte clásico
+- Modelo casual
+- Tiene bordado en el pecho la marca Levis
 
 [Visítala!!!](https://www.amazon.es/dp/B07ZVQ9C37/?tag=tolees-21)

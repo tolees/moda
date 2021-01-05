@@ -25,10 +25,10 @@ En este momento está [Marca Amazon - Goodthreads - Camisa cómoda de popelín e
 
 🔎:
 
+- Corte entallado: más ajustada en el pecho, se estrecha ligeramente hasta la cintura para ofrecer un aspecto entallado.
 - Nuestra camisa clásica de popelín con mejoras. Elastano elástico para estar cómodo durante todo el día y un acabado de cuidado fácil para ayudar a mantener un aspecto sin arrugas. Esta camisa es una opción perfecta para llevar de forma informal con tejanos o para arreglarse para el trabajo o para una cena.
 - El modelo mide 1,85 m y lleva puesta la talla M.
 - Nuestro corte entallado es similar al de las camisas ajustadas de J.Crew y Banana Republic. Si te gusta el corte de las camisas Van Heusen, compra una talla más grande de la marca Goodthreads.
 - Características: cuello con botones ocultos, parte trasera plisada, dobladillo redondeado, puños simples con dos botones y bolsillo en el pecho.
-- Corte entallado: más ajustada en el pecho, se estrecha ligeramente hasta la cintura para ofrecer un aspecto entallado.
 
 [Aquí!!!](https://www.amazon.es/dp/B07P3PT4B3/?tag=tolees-21)
