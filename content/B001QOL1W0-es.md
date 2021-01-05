@@ -25,13 +25,13 @@ Tienes [Levi s 501 Original Vaqueros  Onewash  34W/34L para Hombre](https://www.
 
 ℹ️:
 
-- Levis 501 combine function and style, these original fit jeans are comfortable and built to last, just as they were originally in 1873
-- 501
-- The original all American style jeans have been worn by generations and are a must have for every fashionable man, the 501 style provides a blank canvas for self-expression
+- 100% Cotton
 - Fastening: Button
+- Levis 501 combine function and style, these original fit jeans are comfortable and built to last, just as they were originally in 1873
+- Machine Wash
+- The original all American style jeans have been worn by generations and are a must have for every fashionable man, the 501 style provides a blank canvas for self-expression
+- 501
 - Regular
 - Straight
-- 100% Cotton
-- Machine Wash
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B001QOL1W0/?tag=tolees-21)

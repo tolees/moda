@@ -1,28 +1,35 @@
 ---
 layout: post
-title: 'Descuento del 47.78 % en Adidas CORE18 Hoody Y Sudadera con Capuc'
-date: 2020-11-24 09:53:52
+title: 'Adidas CORE18 Hoody Y Sudadera con Capuc al 25.67 % de descuento'
+date: 2021-01-05 10:40:51
 image: 'https://m.media-amazon.com/images/I/41K0X-NKsAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B076HQZ6R2-es'
-actualPrice: 18.25 EUR
+actualPrice: 25.98 EUR
 currency: EUR
-price: 18.25
+price: 25.98
 comparePrice: 34.95 EUR
 prodname: 'Adidas CORE18 Hoody Y Sudadera con Capucha  Unisex Niños  Negro/Blanco  5-6 años  Talla del Fabricante: 116 '
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076HQZ6R2/?tag=tolees-21'
-descuento: '47.78'
+descuento: '25.67'
+average: '20.458571428571428'
 ---
 
-Tienes [Adidas CORE18 Hoody Y Sudadera con Capucha  Unisex Niños  Negro/Blanco  5-6 años  Talla del Fabricante: 116 ](https://www.amazon.es/dp/B076HQZ6R2/?tag=tolees-21) con un 47.78 % de descuento con precio de oferta de 18.25 EUR (original: 34.95 EUR) en el siguiente enlace!
+Ahora mismo tienes [Adidas CORE18 Hoody Y Sudadera con Capucha  Unisex Niños  Negro/Blanco  5-6 años  Talla del Fabricante: 116 ](https://www.amazon.es/dp/B076HQZ6R2/?tag=tolees-21) a 25.98 EUR (original: 34.95 EUR) (25.67 %  de descuento) en el siguiente enlace!
 
 [![Adidas CORE18 Hoody Y Sudadera con Capuc](https://m.media-amazon.com/images/I/41K0X-NKsAL._SL200_.jpg)](https://www.amazon.es/dp/B076HQZ6R2/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
+- Confeccionada parcialmente en tejido reciclado.
+- Diseño a rayas del mismo tono.
+- Tejido técnico que acompaña el movimiento natural del cuerpo.
+- Con bolsillo de tipo canguro
+- Bolsillos tipo parche en el pecho.
+- Cuello de pico de canalé.
 
-[Accede a la oferta!!](https://www.amazon.es/dp/B076HQZ6R2/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B076HQZ6R2/?tag=tolees-21)
