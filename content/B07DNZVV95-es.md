@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 30.05 % en Eastpak Crew Single Monedero  13 Cm  Azu'
-date: 2021-01-02 23:27:54
+date: 2021-01-05 00:35:25
 image: 'https://m.media-amazon.com/images/I/41JXJip6HuL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,9 +25,9 @@ Tienes [Eastpak Crew Single Monedero  13 Cm  Azul  Triple Denim ](https://www.am
 
 ℹ️:
 
-- Altura: 9.5 cm, Ancho: 13.5 cm
-- Varios compartimentos interiores y traseros para guardar dinero y tarjetas
 - Fabricada 100 % en poliéster y con un tacto vaquero
+- Varios compartimentos interiores y traseros para guardar dinero y tarjetas
+- Altura: 9.5 cm, Ancho: 13.5 cm
 - Altura: 9.5 cm, Ancho: 13.5 cm
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07DNZVV95/?tag=tolees-21)
