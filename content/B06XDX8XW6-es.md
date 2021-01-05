@@ -25,10 +25,10 @@ Está [oodji Ultra Mujer Camisa Básica con Bolsillos en el Pecho  Verde  ES 38 
 
 ℹ️:
 
-- Su tejido de algodón permitirá sentirte cómoda con ella. Estupenda para llevar en ocasiones formales y en otras más relajadas
-- Estilo de ropa: Negocios
-- Elegante y versátil camisa con bolsillos de parche e inusual cierre de botones, que llega solo hasta la zona del pecho
-- Las prendas de colección oodji Ultra tienen la talla más pequeña de lo normal, te recomendamos que elijas una talla superior a tu talla habitual o que consultes la tabla de tallas de oodji. Modelo: Talla S. Medidas: 85/65/90. Altura/peso: 175cm/52kg
 - Longitud de espalda (talla M): 66cm
+- Las prendas de colección oodji Ultra tienen la talla más pequeña de lo normal, te recomendamos que elijas una talla superior a tu talla habitual o que consultes la tabla de tallas de oodji. Modelo: Talla S. Medidas: 85/65/90. Altura/peso: 175cm/52kg
+- Elegante y versátil camisa con bolsillos de parche e inusual cierre de botones, que llega solo hasta la zona del pecho
+- Estilo de ropa: Negocios
+- Su tejido de algodón permitirá sentirte cómoda con ella. Estupenda para llevar en ocasiones formales y en otras más relajadas
 
 [Ver la oferta!!](https://www.amazon.es/dp/B06XDX8XW6/?tag=tolees-21)
