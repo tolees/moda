@@ -25,8 +25,8 @@ En este momento está [adidas Core18 Hoody Sudadera  Hombre  White  M](https://w
 
 🔎:
 
-- Kangaroo pocket
 - Hood with lanyard
+- Kangaroo pocket
 - Regular fit
 
 [Aquí!!!](https://www.amazon.es/dp/B07XCQ23TM/?tag=tolees-21)
