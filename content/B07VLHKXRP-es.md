@@ -25,7 +25,7 @@ Ahora mismo tienes [G-STAR RAW Polo Loose Fit Blusa  Azul  Rinsed C115-082   Sma
 
 🔎:
 
-- Loose Fit
 - Las camisas de G-Star RAW combinan la artesan\u00EDa del denim tradicional con cortes y tejidos modernos.
+- Loose Fit
 
 [Visítala!!!](https://www.amazon.es/dp/B07VLHKXRP/?tag=tolees-21)
