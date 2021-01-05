@@ -25,8 +25,8 @@ Ahora mismo tienes [Velilla Serie 108/C1/TM Chaleco multibolsillos  Azul Marino 
 
 🔎:
 
+- Gramaje: Exterior: 120 gr/m2; interior: forro 60 gr/m2 - guata 220 gr/m2
 - Paqueteage Dimensiones: 11.68 L x 38.0 H x 28.7 W (centimeters)
 - Multibolsillos
-- Gramaje: Exterior: 120 gr/m2; interior: forro 60 gr/m2 - guata 220 gr/m2
 
 [Visítala!!!](https://www.amazon.es/dp/B00L2IFJFK/?tag=tolees-21)
