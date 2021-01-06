@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Type 3 Sherpa Trucker  Chaqueta p al 33.08 % de descuento'
-date: 2021-01-05 08:24:57
+date: 2021-01-06 14:20:00
 image: 'https://m.media-amazon.com/images/I/41jGN+dRttL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,10 +25,8 @@ Ahora mismo tienes [Levi s Type 3 Sherpa Trucker  Chaqueta para Hombre  Azul  Ro
 
 🔎:
 
-- Updated with warm sherpa insulation and a soft quilted lining in the sleeves
-- The original jean jacket since 1967
-- A symbol of self expression for decades, and a great starting point for customization
-- Regular fit
-- Gets better over time from natural wear with fading, stains and holes
+- Manga larga con cierre de botón en los puños
+- Bajo ajustable en el lateral
+- Bolsillos de parche en el pecho con solapa y cierre de botón automático
 
 [Visítala!!!](https://www.amazon.es/dp/B07DVNYBLP/?tag=tolees-21)
