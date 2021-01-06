@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 30.01 % en Columbia Cascade Ridge II Chaqueta Softs'
-date: 2021-01-05 12:13:12
+date: 2021-01-06 18:55:46
 image: 'https://m.media-amazon.com/images/I/41aK9qg9o5L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00KMVEMLA/?tag=tolees-21'
 descuento: '30.01'
-average: '69.982'
+average: '69.98142857142858'
 ---
 
 Tienes [Columbia Cascade Ridge II Chaqueta Softshell para hombre](https://www.amazon.es/dp/B00KMVEMLA/?tag=tolees-21) con un 30.01 % de descuento con precio de oferta de 69.98 EUR (original: 99.99 EUR) en el siguiente enlace!
