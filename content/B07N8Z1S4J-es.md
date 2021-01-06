@@ -25,13 +25,13 @@ Tienes [Tommy Hilfiger Heritage Crew Neck Graphic tee Camiseta  Azul  Midnight 4
 
 🔎:
 
-- Lavable a máquina
-- 100 % algodón
 - WW0WW24967
-- Estilo del cuello: cuello redondo
 - Camiseta
-- Manga corta
+- Estilo del cuello: cuello redondo
 - Heritage Playera con cuello redondo
 - Tommy Hilfiger
+- 100 % algodón
+- Manga corta
+- Lavable a máquina
 
 [Comprar!!!](https://www.amazon.es/dp/B07N8Z1S4J/?tag=tolees-21)
