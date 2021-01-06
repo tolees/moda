@@ -25,9 +25,9 @@ En este momento está [Clarks Kaylin Alba  Zapatos de tacón. Mujer  Praline Com
 
 🔎:
 
-- Altura del tacón: 8 cm
-- Exterior: piel
-- Interior: textil
 - Suela: goma
+- Altura del tacón: 8 cm
+- Interior: textil
+- Exterior: piel
 
 [Aquí!!!](https://www.amazon.es/dp/B07N4FLR3T/?tag=tolees-21)
