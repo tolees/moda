@@ -25,8 +25,8 @@ Está [adidas CORE18 SW Top Sudadera  Hombre  Negro  Negro/Blanco   2XL](https:/
 
 ℹ️:
 
-- Regular fit
 - 3 stripes along the sleeves
 - Adidas logo on the front
+- Regular fit
 
 [Ver la oferta!!](https://www.amazon.es/dp/B076HMRWZR/?tag=tolees-21)

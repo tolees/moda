@@ -25,9 +25,9 @@ Tienes [Joma Combi Camiseta Manga Corta  Hombre  Rosa  Fucsia   M](https://www.a
 
 ℹ️:
 
-- Composición 100 % poliéster
-- Diseñado para la práctica ocasional del deporte
-- Camiseta de manga corta
 - Conserva su forma y colores durante toda la temporada
+- Diseñado para la práctica ocasional del deporte
+- Composición 100 % poliéster
+- Camiseta de manga corta
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00KMXHFEY/?tag=tolees-21)
