@@ -26,7 +26,7 @@ Tienes [Geographical Norway Parka DE Hombre BECO rol 7 001](https://www.amazon.e
 🔎:
 
 - insignia PVC en la manga
-- Capucha
 - Cierre cremallera parte central
+- Capucha
 
 [Comprar!!!](https://www.amazon.es/dp/B082BBKYP9/?tag=tolees-21)
