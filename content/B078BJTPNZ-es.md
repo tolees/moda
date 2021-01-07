@@ -25,10 +25,10 @@ En este momento está [Under Armour Big Logo Ss - Camiseta ligera de manga corta
 
 🔎:
 
-- Informal – Esta camiseta deportiva tiene un corte suelto, lo que garantiza una gran libertad de movimiento en cualquier dirección al hacer deporte.
-- Material y forma – Camiseta de manga corta para hombre Under Armour UA BIG LOGO SS, material – 60% de algodón y 40% de poliéster, forma – ancha
 - Transpirable – Esta camiseta de deporte está hecha de algodón y poliéster, materiales transpirables que evitan el exceso de calor y la transpiración.
+- Material y forma – Camiseta de manga corta para hombre Under Armour UA BIG LOGO SS, material – 60% de algodón y 40% de poliéster, forma – ancha
 - Moderno diseño – La ropa deportiva no tiene que ser siempre monótona. Por eso, la camiseta de gimnasia tiene un gran logotipo en el centro del pecho.
+- Informal – Esta camiseta deportiva tiene un corte suelto, lo que garantiza una gran libertad de movimiento en cualquier dirección al hacer deporte.
 - Cómoda y elegante – Esta camiseta informal para hombre es moderna y elegante, y está fabricada con un tejido de algodón muy suave y cómodo
 
 [Aquí!!!](https://www.amazon.es/dp/B078BJTPNZ/?tag=tolees-21)
