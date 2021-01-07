@@ -25,7 +25,7 @@ Tienes [adidas TIRO19 WOV SHO Pantalón Corto  Hombre  Negro  Black/White   XS](
 
 🔎:
 
-- Regular fit
 - Cintura elástica
+- Regular fit
 
 [Comprar!!!](https://www.amazon.es/dp/B07K7HQ79X/?tag=tolees-21)

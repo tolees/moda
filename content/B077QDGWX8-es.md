@@ -25,10 +25,10 @@ En este momento está [Horus X - Gafas Anti luz Azul Gaming 2.0 - Gafas de Repos
 
 🔎:
 
-- 🌟 PROTEJA SUS OJOS 🌟 Usted pasa + de 1500 horas delante de una pantalla este año (consola, PC, Videojuegos, Smartphones). Proteja sus ojos de forma duradera de los efectos nefastos de la luz azul (DMLA, cansancio ocular, sueño, migrañas) & MEJORE SU RENDIMIENTO.
-- 💚 Paquete PREMIUM 💚 1 par de gafas GAMING (Hombre y Mujer) anti luz azul en policarbonato con tratamiento anti UV400, anti reflejos, anti rayaduras + 1 estuche ultra ligero para una comodidad optimizada con auriculares Gamer.
 - 🌟 EFICACIA DEFINITIVA (Nueva tecnología 2021)🌟 Protección UV & Luz azul // Filtro 100% de los rayos UV (A,B y C) + Filtro 100% de la luz azul (a 400nm) + Filtro >86% de los rayos nocivos (espectro 380nm-450nm) // Normativa CE por un laboratorio independiente.
 - 💖 GARANTIA DE POR VIDA💖 Satisfecho o reembolsado de por vida - Empresa francesa ecoresponsable (1% para el planeta) + un equipo competente para cualquier pregunta/ duda. Respuesta <24h.
+- 💚 Paquete PREMIUM 💚 1 par de gafas GAMING (Hombre y Mujer) anti luz azul en policarbonato con tratamiento anti UV400, anti reflejos, anti rayaduras + 1 estuche ultra ligero para una comodidad optimizada con auriculares Gamer.
+- 🌟 PROTEJA SUS OJOS 🌟 Usted pasa + de 1500 horas delante de una pantalla este año (consola, PC, Videojuegos, Smartphones). Proteja sus ojos de forma duradera de los efectos nefastos de la luz azul (DMLA, cansancio ocular, sueño, migrañas) & MEJORE SU RENDIMIENTO.
 - ✔ LIGERAS & COMPACTAS ✔ Gafas Gaming Nueva Edición 2.0 Reforzada /// Montura hiper ligera en policarbonato (27g) - Cómoda almohadilla para la nariz - Patillas flexibles y finas para una comodidad optimizada con un casco Gamer.
 
 [Aquí!!!](https://www.amazon.es/dp/B077QDGWX8/?tag=tolees-21)
