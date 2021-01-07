@@ -25,13 +25,13 @@ Tienes [Timberland Bradstreet Leather Sensorflex   Botas Chukka Hombre  Marrón 
 
 ℹ️:
 
-- Material exterior: Cuero
 - Cierre: Cordones
+- Material exterior: Cuero
+- Revestimiento: Tela
+- Composición: Cuero
+- Material de la suela: Caucho
 - Altura del tacón: 2 centímetros
 - Tipo de tacón: Plano
-- Composición: Cuero
 - Anchura del zapato: Normal
-- Revestimiento: Tela
-- Material de la suela: Caucho
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B015GZOYPA/?tag=tolees-21)
