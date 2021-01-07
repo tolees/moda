@@ -25,10 +25,10 @@ Tienes [Skechers Go Walk 5  Sandalias de Punta Descubierta Hombre  Negro  Black 
 
 🔎:
 
-- Skechers Goga Max technology contoured cushioned footbed. Dual density outsole for added stability and support.
 - Lightweight, responsive ULTRA GO cushioning. High-rebound COMFORT PILLAR TECHNOLOGY.
 - S logo on instep strap. Soft fabric strap lining for added comfort.
 - Front slide, instep strap and heel strap with adjustable hook and loop closures. Synthetic overlays and durable ring detail.
 - Soft woven fabric and smooth synthetic upper. Athletic adjustable ankle strap slide sandal design.
+- Skechers Goga Max technology contoured cushioned footbed. Dual density outsole for added stability and support.
 
 [Comprar!!!](https://www.amazon.es/dp/B07XGLDG44/?tag=tolees-21)
