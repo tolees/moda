@@ -25,8 +25,8 @@ Ahora mismo tienes [Levi s SS Original HM tee Camiseta  Bright Stripe Tofu  XXL 
 
 🔎:
 
-- Logotipo pequeño de Levis en el pecho
 - Adecuada para el día a día
+- Logotipo pequeño de Levis en el pecho
 - Modelo casual
 
 [Visítala!!!](https://www.amazon.es/dp/B08BCR2F22/?tag=tolees-21)

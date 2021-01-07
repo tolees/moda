@@ -25,10 +25,10 @@ Ahora mismo tienes [Adidas TABELA 18 JSY Camiseta de Manga Corta  Hombre  Bold B
 
 🔎:
 
-- Corte clásico más ancho.
-- Logotipo de adidas termotransferido a la derecha del pecho.
 - Tiene mangas cortas
+- Corte clásico más ancho.
 - Cuello de pico de canalé.
 - Panel de tejido técnico con finas rayas.
+- Logotipo de adidas termotransferido a la derecha del pecho.
 
 [Visítala!!!](https://www.amazon.es/dp/B0779DB7WY/?tag=tolees-21)

@@ -25,8 +25,8 @@ En este momento está [NIKE Club19 Camiseta de Manga Corta  Hombre  Charcoal Hea
 
 🔎:
 
-- Nike Dry fabric
 - Regular fit
+- Nike Dry fabric
 - Three-button closure
 
 [Aquí!!!](https://www.amazon.es/dp/B07MLXGQT8/?tag=tolees-21)

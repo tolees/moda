@@ -25,10 +25,10 @@ Ahora mismo tienes [G-STAR RAW Revend Skinny Vaqueros  Medium Aged Ripped  30W /
 
 🔎:
 
-- Skinny
-- Lavar a máquina - agua fría (30 ° max)
-- 91% Algodón, 7% Elastomultiéster, 2% Elastano
-- Cierre: Boton y cierre
 - Usado
+- Cierre: Boton y cierre
+- 91% Algodón, 7% Elastomultiéster, 2% Elastano
+- Lavar a máquina - agua fría (30 ° max)
+- Skinny
 
 [Visítala!!!](https://www.amazon.es/dp/B07MGX4DK2/?tag=tolees-21)
