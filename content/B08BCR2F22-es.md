@@ -1,0 +1,32 @@
+---
+layout: post
+title: 'Levi s SS Original HM tee Camiseta  Brig al 28.57 % de descuento'
+date: 2021-01-07 09:51:39
+image: 'https://m.media-amazon.com/images/I/41G4OD-sdtL._SL200_.jpg'
+comments: true
+category: ofertas
+author: ring
+slug: 'B08BCR2F22-es'
+actualPrice: 12.5 EUR
+currency: EUR
+price: 12.5
+comparePrice: 17.5 EUR
+prodname: 'Levi s SS Original HM tee Camiseta  Bright Stripe Tofu  XXL para Hombre'
+country: 'es'
+flag: '🇪🇸'
+buyurl: 'https://www.amazon.es/dp/B08BCR2F22/?tag=tolees-21'
+descuento: '28.57'
+average: '12.5'
+---
+
+Ahora mismo tienes [Levi s SS Original HM tee Camiseta  Bright Stripe Tofu  XXL para Hombre](https://www.amazon.es/dp/B08BCR2F22/?tag=tolees-21) a 12.5 EUR (original: 17.5 EUR) (28.57 %  de descuento) en el siguiente enlace!
+
+[![Levi s SS Original HM tee Camiseta  Brig](https://m.media-amazon.com/images/I/41G4OD-sdtL._SL200_.jpg)](https://www.amazon.es/dp/B08BCR2F22/?tag=tolees-21)
+
+🔎:
+
+- Logotipo pequeño de Levis en el pecho
+- Adecuada para el día a día
+- Modelo casual
+
+[Visítala!!!](https://www.amazon.es/dp/B08BCR2F22/?tag=tolees-21)
