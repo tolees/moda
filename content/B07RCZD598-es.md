@@ -25,7 +25,7 @@ En este momento está [G-STAR RAW D-STAQ 3D Slim Jeans Vaqueros  Negro  Pitch Bl
 
 🔎:
 
-- Del look ajustado extracómodo.
 - Combinan los detalles de los chinos con la inspiración clásica
+- Del look ajustado extracómodo.
 
 [Aquí!!!](https://www.amazon.es/dp/B07RCZD598/?tag=tolees-21)
