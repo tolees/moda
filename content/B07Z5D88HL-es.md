@@ -25,10 +25,10 @@ En este momento está [G-STAR RAW Dressed Super Slim Camisa  Lt Orphus C271/B441
 
 🔎:
 
-- Costuras con forma en el panel trasero
 - Cierre de botones
+- Bajo ligeramente redondeado
 - Cierre de botones
 - Cuello de camisa
-- Bajo ligeramente redondeado
+- Costuras con forma en el panel trasero
 
 [Aquí!!!](https://www.amazon.es/dp/B07Z5D88HL/?tag=tolees-21)
