@@ -25,10 +25,10 @@ Ahora mismo tienes [Columbia Windgates Chaqueta  Mujer  Azul  Fjord Blue   XS](h
 
 🔎:
 
+- Chaqueta impermeable adecuado para deportes al aire libre o aventuras urbanas
+- Ajuste adaptable para una protección extra contra la lluvia gracias a los puños ajustables y al cordón en el dobladillo
 - Bolsillos de seguridad para mantener sus pertenencias a salvo
 - Contenido: 1x Columbia Windgates Chaqueta impermeable para mujer, Poliéster, Azul (Fjord Blue), XS, Art. 1886614
 - Impermeable y transpirable gracias a las costuras selladas con tecnología Omni-Tech
-- Ajuste adaptable para una protección extra contra la lluvia gracias a los puños ajustables y al cordón en el dobladillo
-- Chaqueta impermeable adecuado para deportes al aire libre o aventuras urbanas
 
 [Visítala!!!](https://www.amazon.es/dp/B087VLJQJZ/?tag=tolees-21)

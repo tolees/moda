@@ -25,10 +25,10 @@ Está [Regatta Stormbreak - Chaqueta para hombre  tamaño L  color negro](https:
 
 ℹ️:
 
+- Capucha de una pieza
 - Costuras selladas
 - Tejido de poliéster Hydrafort impermeable
-- Acabado hidrófugo duradero
 - Puños elásticos
-- Capucha de una pieza
+- Acabado hidrófugo duradero
 
 [Ver la oferta!!](https://www.amazon.es/dp/B001FKULOO/?tag=tolees-21)

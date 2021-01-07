@@ -25,8 +25,8 @@ Ahora mismo tienes [Hurley M Icon Slash Gradient S/S tee Camiseta  Hombre  Black
 
 🔎:
 
-- Estampado de tacto suave.
-- Tejido Premium.
 - Lisos: 100 % algodón. Jaspeados: 52 % algodón/48 % poliéster.
+- Tejido Premium.
+- Estampado de tacto suave.
 
 [Visítala!!!](https://www.amazon.es/dp/B07ZPQKXLD/?tag=tolees-21)
