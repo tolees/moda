@@ -25,7 +25,7 @@ En este momento está [Innovaciones MS 1330 - Bolso](https://www.amazon.es/dp/B0
 
 🔎:
 
-- Booster bag beig/ azul (1330)
 - Hamacas unisex infantil
+- Booster bag beig/ azul (1330)
 
 [Aquí!!!](https://www.amazon.es/dp/B01N1FSN8Z/?tag=tolees-21)

@@ -25,9 +25,9 @@ En este momento está [adidas CORE18 Hoody Sudadera con Capucha  Hombre  Negro  
 
 🔎:
 
-- Tiene una capucha ajustable con cordón
 - Cuenta con un bolsillo de tipo canguro
-- Sudadera adecuada para hombres
 - Es adecuada para el futbol
+- Tiene una capucha ajustable con cordón
+- Sudadera adecuada para hombres
 
 [Aquí!!!](https://www.amazon.es/dp/B076HMRW98/?tag=tolees-21)

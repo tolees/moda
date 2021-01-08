@@ -25,7 +25,7 @@ Tienes [CARE OF by PUMA Camiseta de entrenamiento para hombre  Verde  Ponderosa 
 
 ℹ️:
 
-- Designed as a comfortable fit, this t-shirt is light and breathable with anti-odour properties and reflective stitching for outdoor and all day use.
 - Amazon partnered with PUMA to deliver a new comfort-first athleisure collection, matching Amazon’s customer knowledge with PUMAs product expertise
+- Designed as a comfortable fit, this t-shirt is light and breathable with anti-odour properties and reflective stitching for outdoor and all day use.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07W7MW5YG/?tag=tolees-21)
