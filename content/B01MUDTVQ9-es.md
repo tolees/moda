@@ -25,10 +25,10 @@ Tienes [Geox Uomo Symbol B  Zapatos de Cordones Oxford para Hombre  Negro  47 EU
 
 🔎:
 
-- Material exterior: Cuero
-- Cierre: Cordones
 - Tipo de tacón: Plano
 - Revestimiento: Malla
+- Material exterior: Cuero
+- Cierre: Cordones
 - Material de la suela: Goma
 
 [Comprar!!!](https://www.amazon.es/dp/B01MUDTVQ9/?tag=tolees-21)
