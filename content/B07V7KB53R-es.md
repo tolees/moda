@@ -27,8 +27,8 @@ En este momento está [SALOMON XA tee M Camiseta Deportiva de Manga Corta  Negro
 
 - Contenido: 1x Salomon Camiseta deportiva de manga corta de hombre, XA TEE M, Material: Mezcla de sintéticos, Color: Negro, Talla: S, LC1276800
 - Camiseta de manga corta para running, intensas sesiones de entrenamiento y momentos de ocio
-- Tecnología Polygiene que ayuda a controlar los malos olores
-- Confeccionada con poliéster ligero con microorificios, Moderno diseño a rayas para permitir una ventilación óptima y un secado casi instantáneo
 - Mejor visibilidad y seguridad para correr de día y de noche gracias a los detalles reflectantes
+- Confeccionada con poliéster ligero con microorificios, Moderno diseño a rayas para permitir una ventilación óptima y un secado casi instantáneo
+- Tecnología Polygiene que ayuda a controlar los malos olores
 
 [Aquí!!!](https://www.amazon.es/dp/B07V7KB53R/?tag=tolees-21)
