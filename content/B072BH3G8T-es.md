@@ -25,10 +25,10 @@ En este momento está [G-STAR RAW Base R T S/s 2-Pack Camiseta  Gris  Grey Htr 9
 
 🔎:
 
+- Bajo recto
 - Paquete de dos
 - Bordado de G-Star RAW en el pecho
 - Manga corta
-- Bajo recto
 - Bordado de G-Star RAW en el pecho
 
 [Aquí!!!](https://www.amazon.es/dp/B072BH3G8T/?tag=tolees-21)
