@@ -25,8 +25,8 @@ Tienes [Nike Wmns Free RN Flyknit 3.0  Zapatilla de Correr Mujer  Tiza Ciruela N
 
 🔎:
 
-- Zapatillas de running
-- Amortiguación
 - Transpirable.
+- Amortiguación
+- Zapatillas de running
 
 [Comprar!!!](https://www.amazon.es/dp/B07S17Z9KY/?tag=tolees-21)
