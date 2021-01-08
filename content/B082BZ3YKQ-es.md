@@ -25,7 +25,7 @@ En este momento está [LEVIS FOOTWEAR AND ACCESORIOS JAX PLUS zapatos  Hombre  M
 
 🔎:
 
-- Estas botas con cordones de cuero clásicas son ideales para que las combines con tus prendas vaqueras
 - Este modelo está confeccionado con piel de nobuk con tacto de ante y luce el emblemático logotipo de nuestra ropa deportiva, directamente llegado de los
+- Estas botas con cordones de cuero clásicas son ideales para que las combines con tus prendas vaqueras
 
 [Aquí!!!](https://www.amazon.es/dp/B082BZ3YKQ/?tag=tolees-21)
