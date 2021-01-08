@@ -25,7 +25,7 @@ Está [REPLAY New Luz Vaqueros Skinny  Negro  Black 98   No Aplica/L30  Talla de
 
 ℹ️:
 
-- sin productos químicos nocivos para el medio ambiente
 - sostenibilidad ecológica
+- sin productos químicos nocivos para el medio ambiente
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07STLGNF6/?tag=tolees-21)

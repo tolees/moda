@@ -26,12 +26,12 @@ Tienes [Timberland Bradstreet Leather Sensorflex   Botas Chukka Hombre  Negro Nu
 ℹ️:
 
 - Altura del tacón: 2 centímetros
-- Cierre: Cordones
-- Tipo de tacón: Plano
-- Material exterior: Cuero
-- Anchura del zapato: Normal
 - Revestimiento: Tela
-- Composición: Cuero
+- Material exterior: Cuero
 - Material de la suela: Caucho
+- Anchura del zapato: Normal
+- Cierre: Cordones
+- Composición: Cuero
+- Tipo de tacón: Plano
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B014YHPHW0/?tag=tolees-21)
