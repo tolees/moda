@@ -25,9 +25,9 @@ Tienes [SALOMON Agile Camiseta Deportiva De Manga Corta Hombre](https://www.amaz
 
 🔎:
 
+- Elasticidad en 4 direcciones para mayor libertad de movimiento
 - Tecnología AdvancedSkin Active Dry: material transpirable y de secado rápido para mayor comodidad incluso cuando hace frío
 - Tejido suave y ligero para mayor comodidad
-- Elasticidad en 4 direcciones para mayor libertad de movimiento
 - Camiseta de manga corta, cómoda y ligera de hombre para running, senderismo y otros deportes al aire libre
 
 [Comprar!!!](https://www.amazon.es/dp/B07V45D9LZ/?tag=tolees-21)

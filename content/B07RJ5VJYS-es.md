@@ -25,7 +25,7 @@ Tienes [G-STAR RAW Premium Basic Sudadera  Gris  Lt Grey Htr C235-A302   X-Small
 
 ℹ️:
 
-- Las prendas de RAW Sustainable se confeccionan a partir de materiales sostenibles y permiten minimizar el impacto en el medioambiente de la colección G-Star.
 - La sudadera está confeccionada en una exquisita tela de felpa con un cálido revés.
+- Las prendas de RAW Sustainable se confeccionan a partir de materiales sostenibles y permiten minimizar el impacto en el medioambiente de la colección G-Star.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07RJ5VJYS/?tag=tolees-21)
