@@ -25,10 +25,10 @@ Está [Columbia Tech Trek Pantalón De Senderismo  Unisex Niños  Gris  Grey Ash
 
 ℹ️:
 
-- Pantalones técnicos para niña, adecuadoes para actividades al aire libre, Transpirables, de tejido impermeable con una importante protección contra los rayos UV
-- Detalle de TPU para la resistencia a las manchas, Comodidad y espacio de almacenamiento gracias a los bolsillos para las manos, bolsillos por detrás y un bolsillo lateral en la pierna
 - Construcción elástica parcial en la cintura y tejido elástico en 4 direcciones para cubrir las necesidades de movilidad, tamaño y capas
-- Protección solar UPF 50 gracias a la tecnología Omni-Shade, Repelencia nueva al agua gracias a la tecnología Omni-Shield
 - 1x Columbia Tech Trek, Pantalones para niños, Poliéster, Gris (Grey Ash), XL, Art. 1887412
+- Detalle de TPU para la resistencia a las manchas, Comodidad y espacio de almacenamiento gracias a los bolsillos para las manos, bolsillos por detrás y un bolsillo lateral en la pierna
+- Pantalones técnicos para niña, adecuadoes para actividades al aire libre, Transpirables, de tejido impermeable con una importante protección contra los rayos UV
+- Protección solar UPF 50 gracias a la tecnología Omni-Shade, Repelencia nueva al agua gracias a la tecnología Omni-Shield
 
 [Ver la oferta!!](https://www.amazon.es/dp/B081BJDG6M/?tag=tolees-21)
