@@ -1,28 +1,32 @@
 ---
 layout: post
-title: 'Levi s SS Original Hm tee Camiseta  Dusk al 35.40 % de descuento'
-date: 2020-11-02 12:56:39
+title: 'Levi s SS Original Hm tee Camiseta  Dusk al 50.00 % de rebaja'
+date: 2021-01-08 20:28:30
 image: 'https://m.media-amazon.com/images/I/41zmoeDXqDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07ZVQ949M-es'
-actualPrice: 16.15 EUR
+actualPrice: 12.5 EUR
 currency: EUR
-price: 16.15
+price: 12.5
 comparePrice: 25.0 EUR
-prodname: 'Levi s SS Original Hm tee Camiseta  Dusky Citron  XS para Hombre'
+prodname: 'Levi s SS Original Hm tee Camiseta  Dusky Citron  X-Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07ZVQ949M/?tag=tolees-21'
-descuento: '35.40'
+descuento: '50.00'
+average: '14.325'
 ---
 
-Ahora mismo tienes [Levi s SS Original Hm tee Camiseta  Dusky Citron  XS para Hombre](https://www.amazon.es/dp/B07ZVQ949M/?tag=tolees-21) a 16.15 EUR (original: 25.0 EUR) (35.40 %  de descuento) en el siguiente enlace!
+Tienes [Levi s SS Original Hm tee Camiseta  Dusky Citron  X-Small para Hombre](https://www.amazon.es/dp/B07ZVQ949M/?tag=tolees-21) con precio final de  12.5 EUR (original: 25.0 EUR) (50.00 %  de rebaja) aqui!
 
 [![Levi s SS Original Hm tee Camiseta  Dusk](https://m.media-amazon.com/images/I/41zmoeDXqDL._SL200_.jpg)](https://www.amazon.es/dp/B07ZVQ949M/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
+- Adecuada para el día a día
+- Logotipo pequeño de Levis en el pecho
+- Modelo casual
 
-[Visítala!!!](https://www.amazon.es/dp/B07ZVQ949M/?tag=tolees-21)
+[Comprar!!!](https://www.amazon.es/dp/B07ZVQ949M/?tag=tolees-21)
