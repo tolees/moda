@@ -25,10 +25,10 @@ Tienes [SiBei Antiladridos  Portátiles Ultrasónicos Ahuyentador de Perros Disp
 
 🔎:
 
-- 🐶【Pequeño y portátil】: Nuestros antiladridos dispositivo para perros son livianos y pequeños y se pueden poner en su bolsillo, también se adjunta un cordón, para que pueda colgarlo alrededor de su cuello. Será más conveniente usarlo en exteriores.
 - 🐶【Batería y rango】: El ahuyentador de perros funciona con 4 pilas AAA (pilas incluidas). La luz verde indica que funciona normalmente. La luz roja indica batería baja. Y alcance efectivo de hasta 5 m / 16,4 pies.
-- 🐶【Control de 1 botón】: El inhibidor de frecuencia de perros SiBei es fácil de usar, solo necesita presionar y mantener presionado el botón, emitirá ultrasonidos para atraer la atención del perro y entrenarlo para detener los ladridos o los malos comportamientos.
+- 🐶【Pequeño y portátil】: Nuestros antiladridos dispositivo para perros son livianos y pequeños y se pueden poner en su bolsillo, también se adjunta un cordón, para que pueda colgarlo alrededor de su cuello. Será más conveniente usarlo en exteriores.
 - 🐶【Servicio postventa】: Ofrecemos garantía de 1 año y política de devolución incondicional de 30 días. Si tiene algún problema, no dude en contactarnos, le ofreceremos REEMBOLSO O REEMPLAZO COMPLETO.
 - 🐶【Seguro e inofensivo】: el antiladridos adiestramiento dispositivo utiliza tecnología de ultrasonido de 25 HZ para evitar que los perros ladren y corregir su mal comportamiento, que es silencioso para los humanos, también inofensivo para mascotas y humanos.
+- 🐶【Control de 1 botón】: El inhibidor de frecuencia de perros SiBei es fácil de usar, solo necesita presionar y mantener presionado el botón, emitirá ultrasonidos para atraer la atención del perro y entrenarlo para detener los ladridos o los malos comportamientos.
 
 [Comprar!!!](https://www.amazon.es/dp/B08QHT9CCK/?tag=tolees-21)
