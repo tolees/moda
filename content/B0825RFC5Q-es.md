@@ -25,14 +25,14 @@ Tienes [Geox D CATRIA E  Botín Mujer  Marrón  35 EU](https://www.amazon.es/dp/
 
 ℹ️:
 
+- Sole material: rubber
 - Fit type: keep in mind that Geox shoes have a comfortable fit, so we recommend choosing a half size
+- Not water resistant
 - Outer material: smooth leather
-- Closure: zip
 - Lining: leather
+- Fabric Type: Shi.Goat Lea
 - Shoe width: narrow
 - Heel type: block heel
-- Sole material: rubber
-- Fabric Type: Shi.Goat Lea
-- Not water resistant
+- Closure: zip
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B0825RFC5Q/?tag=tolees-21)
