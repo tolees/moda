@@ -25,7 +25,7 @@ En este momento está [G-STAR RAW Lecite Straight Camisa Vaquera  Azul  Rinsed B
 
 🔎:
 
-- Para que dure más, el canesú del hombro está reforzado y forrado
 - Presenta pinzas ajustadas que crean un corte estilizado y la cantidad justa de elasticidad para que sea cómoda durante todo el día
+- Para que dure más, el canesú del hombro está reforzado y forrado
 
 [Aquí!!!](https://www.amazon.es/dp/B07RH2ZD3P/?tag=tolees-21)

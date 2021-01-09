@@ -27,10 +27,10 @@ Ahora mismo tienes [Geox D Kaula B ABX C  Botas de Nieve Mujer  Gris  Lt Grey/Dk
 
 - Altura del tacón: 4.5 centímetros
 - Tipo de talla: Te informamos que los zapatos Geox son holgados, te recomendamos elegir media talla menos con respecto a tu talla habitual
-- Cierre: Sin cordones
 - Tipo de tacón: Plano
-- Material exterior: Cuero sintético
+- Cierre: Sin cordones
 - Material de la suela: Goma
+- Material exterior: Cuero sintético
 - Revestimiento: Sintético
 
 [Visítala!!!](https://www.amazon.es/dp/B07MQ527RZ/?tag=tolees-21)
