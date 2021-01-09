@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pepe Jeans Eva Bolso con Solapa Blanco 2 al 33.35 % de descuento'
-date: 2021-01-08 13:08:23
+date: 2021-01-09 20:45:56
 image: 'https://m.media-amazon.com/images/I/41nh8IKY3HL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B084GMLCC1/?tag=tolees-21'
 descuento: '33.35'
-average: '57.88153846153846'
+average: '57.31785714285714'
 ---
 
 Está [Pepe Jeans Eva Bolso con Solapa Blanco 26x14x5 cms Piel Sintética](https://www.amazon.es/dp/B084GMLCC1/?tag=tolees-21) con 33.35 de descuento por 49.99 EUR (original: 75.0 EUR) en el siguiente enlace!
