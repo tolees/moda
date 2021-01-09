@@ -25,8 +25,8 @@ En este momento está [Haglöfs Essens Down Chaqueta De Plumas para Hombre  Haba
 
 🔎:
 
-- Superficies y plumón con tratamiento DWR libre de fluorocarbono.
-- Tejido Shell ligero resistente al viento y a desgarros.
 - Inserciones Polartec Powerstretch que proporcionan libertad total de movimiento.
+- Tejido Shell ligero resistente al viento y a desgarros.
+- Superficies y plumón con tratamiento DWR libre de fluorocarbono.
 
 [Aquí!!!](https://www.amazon.es/dp/B07SGXV8SV/?tag=tolees-21)
