@@ -26,7 +26,7 @@ Está [Tommy Hilfiger TJW Basic Hooded Down Jacket Chaqueta  Vino rojo  L para M
 ℹ️:
 
 - Este producto se produce de forma sostenible
-- Tommy Jeans - Chaquetas para mujer
 - Este es un producto original y auténtico de Tommy Jeans.
+- Tommy Jeans - Chaquetas para mujer
 
 [Ver la oferta!!](https://www.amazon.es/dp/B0842H6QNH/?tag=tolees-21)
