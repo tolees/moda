@@ -25,7 +25,7 @@ Ahora mismo tienes [Jacqueline de Yong NOS Jdyerica Short Padded Jacket Otw Noos
 
 🔎:
 
-- Between-season-jacket with stand-up collar
 - Plain padded jacket with zip closure
+- Between-season-jacket with stand-up collar
 
 [Visítala!!!](https://www.amazon.es/dp/B07SLDDTJ2/?tag=tolees-21)

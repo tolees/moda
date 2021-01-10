@@ -25,8 +25,8 @@ Tienes [Dickies 06 210091  Camiseta Para Hombre  Gris  Dark Grey Mélange   Larg
 
 ℹ️:
 
-- Enzimas lavado
 - Se vende como Juego de 3 del mismo color.
 - Regular Fit
+- Enzimas lavado
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B005IZDDTM/?tag=tolees-21)
