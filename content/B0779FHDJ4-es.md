@@ -27,7 +27,7 @@ Tienes [adidas TABELA 18 JSY Camiseta de Manga Corta  Hombre  Black/White  7-8Y]
 
 - Tiene mangas cortas
 - Esta hecha de un material ligero y transpirable
-- Camiseta de futbol para niños
 - Ofrece libertad de movimiento
+- Camiseta de futbol para niños
 
 [Comprar!!!](https://www.amazon.es/dp/B0779FHDJ4/?tag=tolees-21)

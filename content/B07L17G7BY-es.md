@@ -25,8 +25,8 @@ Ahora mismo tienes [adidas T19 M Camiseta Polo  Hombre  Black/White  XL/L](https
 
 🔎:
 
-- Two-button flap
 - Climalite anti-humidity fabric
 - Regular fit
+- Two-button flap
 
 [Visítala!!!](https://www.amazon.es/dp/B07L17G7BY/?tag=tolees-21)

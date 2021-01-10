@@ -26,7 +26,7 @@ Tienes [adidas Run IT tee 3S M Camiseta de Manga Corta  Hombre  Black/White  S](
 🔎:
 
 - Crew-neck design
-- Regular fit
 - Breathable fabric
+- Regular fit
 
 [Comprar!!!](https://www.amazon.es/dp/B07FW1KM19/?tag=tolees-21)
