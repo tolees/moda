@@ -25,9 +25,9 @@ Está [RD9 - Cadenas de Nieve Metálicas  9 mm  Guantes Incluidos  Talla Nº 100
 
 ℹ️:
 
-- Contiene jgo. 2 unidades, guantes, kit de eslabones para reparación
+- Muelle tensor para garantizar la tensión óptima de la cadena
 - Tratamiento zinc
 - Eslabones 9 mm., con cierre autoblocante y tensor goma
-- Muelle tensor para garantizar la tensión óptima de la cadena
+- Contiene jgo. 2 unidades, guantes, kit de eslabones para reparación
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07DWFP1FW/?tag=tolees-21)
