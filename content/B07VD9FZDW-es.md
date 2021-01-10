@@ -25,7 +25,7 @@ Tienes [Jack & Jones Glenn Royal R214 Rdd Vaqueros  Blue Denim  33W / 32L para H
 
 🔎:
 
-- Blue Jeans
 - High quality cotton
+- Blue Jeans
 
 [Comprar!!!](https://www.amazon.es/dp/B07VD9FZDW/?tag=tolees-21)
