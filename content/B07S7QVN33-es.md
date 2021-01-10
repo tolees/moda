@@ -25,7 +25,7 @@ En este momento está [Only ONLALBA 3/4 Top JRS Noos Camiseta  Morado  Dry Rose 
 
 🔎:
 
-- Top with dropped shoulders
 - Knit top with 3/4 sleeves
+- Top with dropped shoulders
 
 [Aquí!!!](https://www.amazon.es/dp/B07S7QVN33/?tag=tolees-21)
