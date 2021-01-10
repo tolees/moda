@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Crocs Crocband U  Zuecos Unisex Adulto   al 28.90 % de descuento'
-date: 2021-01-09 03:02:07
+date: 2021-01-10 17:32:59
 image: 'https://m.media-amazon.com/images/I/41LsGVX4wEL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01HQAMFCW/?tag=tolees-21'
 descuento: '28.90'
-average: '26.586372549019604'
+average: '26.690288461538458'
 ---
 
 Está [Crocs Crocband U  Zuecos Unisex Adulto  Rojo  Pepper   36-37 EU](https://www.amazon.es/dp/B01HQAMFCW/?tag=tolees-21) con 28.90 de descuento por 31.99 EUR (original: 44.99 EUR) en el siguiente enlace!
