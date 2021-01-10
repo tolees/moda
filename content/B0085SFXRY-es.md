@@ -26,9 +26,9 @@ Tienes [Jack & Jones Jones - Camiseta de manga corta con cuello redondo para hom
 ℹ️:
 
 -     Original Product
--     Good Quality Grey Tee
 -     Jack & Jones Plain T-Shirts
--     New Seasons Style
 -     Slim Fit
+-     New Seasons Style
+-     Good Quality Grey Tee
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B0085SFXRY/?tag=tolees-21)

@@ -25,7 +25,7 @@ Tienes [G-STAR RAW Lecite Straight Camisa Vaquera  Azul  Rinsed B902-B186   Medi
 
 ℹ️:
 
-- Presenta pinzas ajustadas que crean un corte estilizado y la cantidad justa de elasticidad para que sea cómoda durante todo el día
 - Para que dure más, el canesú del hombro está reforzado y forrado
+- Presenta pinzas ajustadas que crean un corte estilizado y la cantidad justa de elasticidad para que sea cómoda durante todo el día
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07RJ5KCNY/?tag=tolees-21)
