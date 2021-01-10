@@ -25,7 +25,7 @@ Ahora mismo tienes [G-STAR RAW Swando Loose Camiseta  Blanco  White 110   Large 
 
 🔎:
 
-- Ofrece comodidad y originalidad con un llamativo logotipo gráfico en el pecho y un ajuste sencillo.
 - Combina tu camiseta con una americana o un chaleco, o bien lúcela sola con tus Jeans favoritos.
+- Ofrece comodidad y originalidad con un llamativo logotipo gráfico en el pecho y un ajuste sencillo.
 
 [Visítala!!!](https://www.amazon.es/dp/B07TPY1S2S/?tag=tolees-21)

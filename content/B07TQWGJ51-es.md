@@ -25,8 +25,8 @@ Está [Clarks Foxwell Hall  Zapatos de Cordones Derby  Beige  Dark Sand Suede Da
 
 ℹ️:
 
-- Exterior: piel
-- plano
 - Material interior: sin forro
+- plano
+- Exterior: piel
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07TQWGJ51/?tag=tolees-21)

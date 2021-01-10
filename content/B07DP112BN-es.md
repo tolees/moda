@@ -25,10 +25,10 @@ Ahora mismo tienes [Eastpak Buddy Bolso bandolera  18 cm  Azul  Triple Denim ](h
 
 🔎:
 
-- Altura: 18 cm, Ancho: 13 cm, Fondo: 2 cm
-- Altura: 18 cm, Ancho: 13 cm, Fondo: 2 cm
-- Correa de hombros ajustable para un transporte cómodo
 - Fabricado 100% en poliéster y con un auténtico tacto vaquero
+- Correa de hombros ajustable para un transporte cómodo
 - Compartimento principal con cremallera y cierre de hebilla debajo de la solapa
+- Altura: 18 cm, Ancho: 13 cm, Fondo: 2 cm
+- Altura: 18 cm, Ancho: 13 cm, Fondo: 2 cm
 
 [Visítala!!!](https://www.amazon.es/dp/B07DP112BN/?tag=tolees-21)

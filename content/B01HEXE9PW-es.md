@@ -25,12 +25,12 @@ Tienes [Crocs Classic Clog K  Zuecos Unisex Niños  Tangerine  25/26 EU](https:/
 
 🔎:
 
-- Material exterior: Espuma
-- Revestimiento: Sin forro
-- Cierre: Sin cordones
-- Tipo de tacón: Plano
-- Material de la suela: EVA
 - Composición: Espuma
+- Tipo de tacón: Plano
+- Revestimiento: Sin forro
+- Material de la suela: EVA
+- Cierre: Sin cordones
+- Material exterior: Espuma
 - Anchura del zapato: Normal
 
 [Comprar!!!](https://www.amazon.es/dp/B01HEXE9PW/?tag=tolees-21)
