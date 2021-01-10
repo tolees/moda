@@ -25,8 +25,8 @@ Tienes [adidas Mono Jersey Pol T-Shirt  Hombre  Night Marine/White  S](https://w
 
 🔎:
 
-- Soft fabric
-- Regular fit
 - adidas logo
+- Regular fit
+- Soft fabric
 
 [Comprar!!!](https://www.amazon.es/dp/B081TT4LZY/?tag=tolees-21)

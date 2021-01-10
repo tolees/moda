@@ -25,8 +25,8 @@ Está [Rubie s 36170 Elsa Frozen - Zapatos con purpurina para niñas  Azul  Tall
 
 ℹ️:
 
+- Zapatos con la imagen de tu princesa preferida
 - Ideal para completar tu disfraz
 - Juega a ser tu personaje preferido
-- Zapatos con la imagen de tu princesa preferida
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00OG1UQDA/?tag=tolees-21)

@@ -25,10 +25,10 @@ Tienes [Puma Essentials+ Fitted tee Camiseta de Manga Corta  Mujer  Negro Black 
 
 🔎:
 
+- Corte ajustado con largo recortado
+- BCI: PUMA colabora con Better Cotton Initiative para mejorar el cultivo de algodón en todo el mundo
 - Logotipo de PUMA n.º 1 en el pecho
 - Algodón y elastano
-- Corte ajustado con largo recortado
 - Cuello redondo
-- BCI: PUMA colabora con Better Cotton Initiative para mejorar el cultivo de algodón en todo el mundo
 
 [Comprar!!!](https://www.amazon.es/dp/B07XCWV9JG/?tag=tolees-21)
