@@ -26,9 +26,9 @@ En este momento está [Geox D Myria B  Zapatillas Altas para Mujer  Beige  Skin 
 🔎:
 
 - Cierre: Cremallera
-- Revestimiento: Malla
-- Material de la suela: Goma
-- Tipo de tacón: Plano
 - Material exterior: Cuero
+- Revestimiento: Malla
+- Tipo de tacón: Plano
+- Material de la suela: Goma
 
 [Aquí!!!](https://www.amazon.es/dp/B07SXTMXK3/?tag=tolees-21)

@@ -25,9 +25,9 @@ Tienes [Eastpak The One Bolso Bandolera  21 Cm  2.5 L  Negro  Black ](https://ww
 
 ℹ️:
 
+- Altura: 21 cm, Ancho: 16.5 cm, Fondo: 5.5 cm
+- Amplio compartimento principal, adecuado para todo lo que necesitas en un viaje de un día
 - Mantén todo en orden con los bolsillos con cremallera en las partes delantera, trasera e interior
 - La correa ajustable para el hombro hace a The One cómoda de llevar
-- Amplio compartimento principal, adecuado para todo lo que necesitas en un viaje de un día
-- Altura: 21 cm, Ancho: 16.5 cm, Fondo: 5.5 cm
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B000KKLXDS/?tag=tolees-21)
