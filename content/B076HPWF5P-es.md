@@ -26,8 +26,8 @@ Tienes [Adidas CORE18 PRE JKT Chaqueta de Deporte  Hombre  Rojo  Rojo/Blanco   S
 ℹ️:
 
 - Cuenta con bolsillos frontales e un cuello alto
-- Cuello alzado.
 - Chaqueta y pantalón con bolsillos laterales.
 - Puños de canalé.
+- Cuello alzado.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B076HPWF5P/?tag=tolees-21)
