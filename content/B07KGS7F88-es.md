@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Esprit 999ee2k800 Camiseta  Azul  Bright con un 50.05 % de descuento'
-date: 2020-12-28 18:09:06
+date: 2021-01-10 22:41:55
 image: 'https://m.media-amazon.com/images/I/419jQLqYgxL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,8 +25,8 @@ En este momento está [Esprit 999ee2k800 Camiseta  Azul  Bright Blue 410   Mediu
 
 🔎:
 
-- Adecuada para cualquier atuendo
 - Con logotipo estampado en el pecho
+- Adecuada para cualquier atuendo
 - Tiene un tejido ligero que ofrece comodidad
 
 [Aquí!!!](https://www.amazon.es/dp/B07KGS7F88/?tag=tolees-21)
