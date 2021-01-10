@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'G-STAR RAW Midge Saddle Mid Waist Straig al 64.17 % de descuento'
-date: 2021-01-05 18:00:17
+title: 'G-STAR RAW Midge Saddle Mid Waist Straig al 71.67 % de descuento'
+date: 2021-01-10 05:36:21
 image: 'https://m.media-amazon.com/images/I/41AKNyzgCwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B01BGTV0U2-es'
-actualPrice: 35.81 EUR
+actualPrice: 28.32 EUR
 currency: EUR
-price: 35.81
+price: 28.32
 comparePrice: 99.95 EUR
 prodname: 'G-STAR RAW Midge Saddle Mid Waist Straight Vaqueros  Dk Aged 6553-89  23W / 32L para Mujer'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01BGTV0U2/?tag=tolees-21'
-descuento: '64.17'
-average: '24.826'
+descuento: '71.67'
+average: '25.237058823529413'
 ---
 
-Ahora mismo tienes [G-STAR RAW Midge Saddle Mid Waist Straight Vaqueros  Dk Aged 6553-89  23W / 32L para Mujer](https://www.amazon.es/dp/B01BGTV0U2/?tag=tolees-21) a 35.81 EUR (original: 99.95 EUR) (64.17 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [G-STAR RAW Midge Saddle Mid Waist Straight Vaqueros  Dk Aged 6553-89  23W / 32L para Mujer](https://www.amazon.es/dp/B01BGTV0U2/?tag=tolees-21) a 28.32 EUR (original: 99.95 EUR) (71.67 %  de descuento) en el siguiente enlace!
 
 [![G-STAR RAW Midge Saddle Mid Waist Straig](https://m.media-amazon.com/images/I/41AKNyzgCwL._SL200_.jpg)](https://www.amazon.es/dp/B01BGTV0U2/?tag=tolees-21)
 
