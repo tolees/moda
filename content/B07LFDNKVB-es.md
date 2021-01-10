@@ -25,8 +25,8 @@ Ahora mismo tienes [Levi s Slim 2Pk Crewneck 1 Camiseta  Two-Pack tee Black + Bl
 
 🔎:
 
-- Modelos casual
-- Con un logo Levis en el bajo
 - Elaboradas en punto suave
+- Con un logo Levis en el bajo
+- Modelos casual
 
 [Visítala!!!](https://www.amazon.es/dp/B07LFDNKVB/?tag=tolees-21)
