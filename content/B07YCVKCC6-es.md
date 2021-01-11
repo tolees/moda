@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geographical Norway Parka BOOMERANG homb al 34.44 % de descuento'
-date: 2020-12-23 11:36:45
+date: 2021-01-11 18:43:31
 image: 'https://m.media-amazon.com/images/I/31xiv-GAzHL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,8 +25,8 @@ Está [Geographical Norway Parka BOOMERANG hombre AZUL MARINO talla L](https://w
 
 ℹ️:
 
-- pelo destomtable
 - Capucha
 - Chaqueta de hombre
+- pelo destomtable
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07YCVKCC6/?tag=tolees-21)
