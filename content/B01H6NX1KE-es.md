@@ -25,9 +25,9 @@ Está [Crocs Swiftwater River Sandal M  Sandalias para Hombre  Marrón  Espresso
 
 ℹ️:
 
+- Material: Croslite
 - Type: Sandale
 - Hersteller Artikelnummer: 203965-23K
 - Farbe: braun
-- Material: Croslite
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01H6NX1KE/?tag=tolees-21)
