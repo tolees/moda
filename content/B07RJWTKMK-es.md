@@ -26,8 +26,8 @@ Ahora mismo tienes [IEFIEL Conjunto Deportivo Niña Ropa de Deporte Camiseta sin
 🔎:
 
 - La tabla de tallas se refiere al rango de edad de la niña, pero solo como referencia general. Es mejor guiado por la tabla de medidas que vienen en la descripción siguiente
-- Letras a juego con fondos impresos con cinturilla integrada. Conjunto atlético para tu chica
 - Camiseta sin mangas, color sólido, tejido elástico, cómodo y transpirable
+- Letras a juego con fondos impresos con cinturilla integrada. Conjunto atlético para tu chica
 - Perfecto para la clase de baile, el ejercicio gimnástico, el rendimiento de la etapa, deportes al aire libre etc
 - Juego de 2 piezas de ropa deportiva para tu chica, chaleco deportivo y pantalónes cortos
 

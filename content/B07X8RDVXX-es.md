@@ -25,9 +25,9 @@ En este momento está [ENGSWA Collar Mujer Plata de Ley 925 Colgante Aro con Cor
 
 🔎:
 
-- [Diseño] El imponente diseño es ideal para llevar a diario o en ocasiones glamurosas, y es perfecto como regalo para el Día de la Madre
-- [Tamaño & Metal] Colgante: 2x2.7cm; Cadena: 40+5cm; Metal: Plata de ley 925 (sin alérgenos, sin níquel, sin plomo)
-- [Mensaje Grabado] "Mamá Te amo para siempre"
 - [Te Entregará] 1 Colgante con una cadena de eslabones + 1 Cajita de joya + 1 Paño de limpieza de plata + 1 Certificado de Autenticidad + 1 Tarjeta de Marca
+- [Tamaño & Metal] Colgante: 2x2.7cm; Cadena: 40+5cm; Metal: Plata de ley 925 (sin alérgenos, sin níquel, sin plomo)
+- [Diseño] El imponente diseño es ideal para llevar a diario o en ocasiones glamurosas, y es perfecto como regalo para el Día de la Madre
+- [Mensaje Grabado] "Mamá Te amo para siempre"
 
 [Aquí!!!](https://www.amazon.es/dp/B07X8RDVXX/?tag=tolees-21)
