@@ -25,8 +25,8 @@ Ahora mismo tienes [Wrangler SS Logo tee Camiseta  Blanco  White 989   Large par
 
 🔎:
 
-- Producto de corte regular
 - Fabricada en tejido ligero que ofrece comodidad
 - Tiene un llamativo logo en el pecho
+- Producto de corte regular
 
 [Visítala!!!](https://www.amazon.es/dp/B07TTQ22YS/?tag=tolees-21)

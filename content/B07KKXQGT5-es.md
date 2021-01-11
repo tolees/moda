@@ -25,8 +25,8 @@ Tienes [NIKE M Breathe Academy SS Gx2 Camiseta  Hombre  Amarillo  OPTI Yellow/An
 
 ℹ️:
 
-- Rayas verticales en relieve para un efecto mate y brillo
 - Tecnología Dri-FIT para mantener la transpirabilidad y la comodidad
 - Rayas laterales de malla para más transpirabilidad
+- Rayas verticales en relieve para un efecto mate y brillo
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07KKXQGT5/?tag=tolees-21)

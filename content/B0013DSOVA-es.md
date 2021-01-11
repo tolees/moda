@@ -25,12 +25,12 @@ En este momento está [Timberland Classic 2 Eye  Náuticos Hombre  Azul MD Blue 
 
 🔎:
 
-- Empeine de piel nobuck
-- Plantilla EVA forrada en cuero de 3/4
-- Suela de goma reciclada del 15% es sorbida para la máxima tracción y resistencia al deslizamiento.
-- Suela de goma simada para resistencia al deslizamiento y tracción
 - Parte superior cosida a mano a la entresuela y cementada a la suela para una estética clásica y durabilidad.
-- Cuero de grano completo y nobuck premium para mayor comodidad y uso duradero.
 - Sistema de cordones funcional de 360 grados para un ajuste personalizado
+- Plantilla EVA forrada en cuero de 3/4
+- Suela de goma simada para resistencia al deslizamiento y tracción
+- Cuero de grano completo y nobuck premium para mayor comodidad y uso duradero.
+- Empeine de piel nobuck
+- Suela de goma reciclada del 15% es sorbida para la máxima tracción y resistencia al deslizamiento.
 
 [Aquí!!!](https://www.amazon.es/dp/B0013DSOVA/?tag=tolees-21)
