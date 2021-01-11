@@ -25,8 +25,8 @@ Tienes [Geographical Norway Parka Hombre Boomerang Ass B.](https://www.amazon.es
 
 🔎:
 
-- Capucha
 - Cierre cremallera parte central
 - Bolsillos
+- Capucha
 
 [Comprar!!!](https://www.amazon.es/dp/B081CNMFD9/?tag=tolees-21)

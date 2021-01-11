@@ -25,7 +25,7 @@ Tienes [Geographical Norway Parka de Mujer DIONYSOS Negro M](https://www.amazon.
 
 🔎:
 
-- Capucha
 - Bolsillos
+- Capucha
 
 [Comprar!!!](https://www.amazon.es/dp/B08QW2SQG9/?tag=tolees-21)

@@ -25,7 +25,7 @@ Ahora mismo tienes [Geographical Norway Chaqueta Mujer ANIES 045 rol 7](https://
 
 🔎:
 
-- Capucha
 - Bolsillos
+- Capucha
 
 [Visítala!!!](https://www.amazon.es/dp/B082MNYLRV/?tag=tolees-21)

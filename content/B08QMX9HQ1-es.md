@@ -25,7 +25,7 @@ Está [Geographical Norway Parka DINASTY Mujer Negro tallaM](https://www.amazon.
 
 ℹ️:
 
-- Bolsillos
 - Capucha
+- Bolsillos
 
 [Ver la oferta!!](https://www.amazon.es/dp/B08QMX9HQ1/?tag=tolees-21)

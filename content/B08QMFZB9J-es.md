@@ -25,7 +25,7 @@ Tienes [Geographical Norway Parka BECO hombre NEGRO talla S](https://www.amazon.
 
 🔎:
 
-- Chaqueta de hombre
 - Capucha
+- Chaqueta de hombre
 
 [Comprar!!!](https://www.amazon.es/dp/B08QMFZB9J/?tag=tolees-21)
