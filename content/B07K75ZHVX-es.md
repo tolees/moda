@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 30.61 % en Levi s On Tour Camiseta deportiva de tir'
-date: 2021-01-03 08:20:49
+date: 2021-01-11 13:42:59
 image: 'https://m.media-amazon.com/images/I/4168RueFZYL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,8 +25,8 @@ Tienes [Levi s On Tour Camiseta deportiva de tirantes  Red Hsmk Tank Black  M pa
 
 ℹ️:
 
-- Con un logo Levis en horizontal en el pecho
-- Camiseta de tirantes desenfadada y vaporosa
 - Modelo casual
+- Camiseta de tirantes desenfadada y vaporosa
+- Con un logo Levis en horizontal en el pecho
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07K75ZHVX/?tag=tolees-21)
