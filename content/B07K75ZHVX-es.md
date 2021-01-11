@@ -26,7 +26,7 @@ Tienes [Levi s On Tour Camiseta deportiva de tirantes  Red Hsmk Tank Black  M pa
 ℹ️:
 
 - Modelo casual
-- Camiseta de tirantes desenfadada y vaporosa
 - Con un logo Levis en horizontal en el pecho
+- Camiseta de tirantes desenfadada y vaporosa
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07K75ZHVX/?tag=tolees-21)

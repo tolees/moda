@@ -25,8 +25,8 @@ Ahora mismo tienes [Lee Malone Vaqueros  Easy Blue Zk  26W / 32L para Hombre](ht
 
 🔎:
 
-- Tienen un parche de piel en la parte trasera con la marca Lee
 - Presentan 5 bolsillos
+- Tienen un parche de piel en la parte trasera con la marca Lee
 - Vaqueros para hombre
 
 [Visítala!!!](https://www.amazon.es/dp/B07SBHBDDM/?tag=tolees-21)
