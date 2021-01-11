@@ -25,10 +25,10 @@ Ahora mismo tienes [Havaianas Slim Flatform  Chanclas para Mujer  Gris  Steel Gr
 
 🔎:
 
-- Tipo de tacón: Plano
-- Cierre: Sin cierre
-- Material exterior: Caucho
 - Material de la suela: Caucho
 - Revestimiento: Sin forro
+- Tipo de tacón: Plano
+- Material exterior: Caucho
+- Cierre: Sin cierre
 
 [Visítala!!!](https://www.amazon.es/dp/B07TLPGHMQ/?tag=tolees-21)
