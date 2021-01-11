@@ -25,10 +25,10 @@ Ahora mismo tienes [Geox U Nebula B  Zapatillas de Deporte Hombre  Gris  Lt Jean
 
 🔎:
 
-- Material de la suela: EVA.
-- Material exterior: ante.
 - Forro: malla.
 - Cierre: slip.
+- Material de la suela: EVA.
 - Suela interior: piel.
+- Material exterior: ante.
 
 [Visítala!!!](https://www.amazon.es/dp/B07DJ31W7X/?tag=tolees-21)

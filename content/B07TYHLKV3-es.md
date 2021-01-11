@@ -25,8 +25,8 @@ En este momento está [Levi s Orig Hm Vneck Camiseta  White  White 0000   X-Smal
 
 🔎:
 
-- Con un discreto logo en el pecho
 - Modelo casual
 - Elaborada en punto suave
+- Con un discreto logo en el pecho
 
 [Aquí!!!](https://www.amazon.es/dp/B07TYHLKV3/?tag=tolees-21)
