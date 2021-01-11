@@ -25,8 +25,8 @@ Tienes [Levi s Graphic Set-In Neck  Camiseta para Hombre  Gris  C18976 Graphic H
 
 🔎:
 
-- Modelo casual
-- Con un logo Levis en horizontal en el pecho
 - Elaborada en punto suave
+- Con un logo Levis en horizontal en el pecho
+- Modelo casual
 
 [Comprar!!!](https://www.amazon.es/dp/B00VLN9DKS/?tag=tolees-21)
