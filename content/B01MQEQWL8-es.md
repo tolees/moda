@@ -25,7 +25,7 @@ En este momento está [Only onlAVA FAUX LEATHER BIKER OTW NOOS - Chaqueta para m
 
 🔎:
 
-- Chaqueta de piel sintética con cierre especial.
 - Chaqueta de piel entallada.
+- Chaqueta de piel sintética con cierre especial.
 
 [Aquí!!!](https://www.amazon.es/dp/B01MQEQWL8/?tag=tolees-21)
