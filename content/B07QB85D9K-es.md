@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Aurique Leggings deportivos para Mujer   al 15.28 % de rebaja'
-date: 2021-01-11 15:47:13
+date: 2021-01-12 21:22:51
 image: 'https://m.media-amazon.com/images/I/31ekeXda2HL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07QB85D9K/?tag=tolees-21'
 descuento: '15.28'
-average: '20.867118644067794'
+average: '20.777377049180323'
 ---
 
 Tienes [Aurique Leggings deportivos para Mujer  Azul  Dress Blue/White/Gray Blue   S](https://www.amazon.es/dp/B07QB85D9K/?tag=tolees-21) con precio final de  18.13 EUR (original: 21.4 EUR) (15.28 %  de rebaja) aqui!
