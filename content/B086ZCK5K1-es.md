@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Kids Lvb Batwing Tee Camiseta Oli al 30.00 % de descuento'
-date: 2021-01-09 03:02:16
+date: 2021-01-12 05:05:37
 image: 'https://m.media-amazon.com/images/I/31ARm2HP1kL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B086ZCK5K1/?tag=tolees-21'
 descuento: '30.00'
-average: '14.357142857142856'
+average: '14.1375'
 ---
 
 Está [Levi s Kids Lvb Batwing Tee Camiseta Olive Night para Niños](https://www.amazon.es/dp/B086ZCK5K1/?tag=tolees-21) con 30.00 de descuento por 12.6 EUR (original: 18.0 EUR) en el siguiente enlace!
