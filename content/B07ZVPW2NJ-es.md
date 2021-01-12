@@ -25,8 +25,8 @@ Ahora mismo tienes [Levi s SS Original Hm tee Camiseta  Dusky Citron  L para Hom
 
 🔎:
 
-- Modelo casual
 - Logotipo pequeño de Levis en el pecho
+- Modelo casual
 - Adecuada para el día a día
 
 [Visítala!!!](https://www.amazon.es/dp/B07ZVPW2NJ/?tag=tolees-21)
