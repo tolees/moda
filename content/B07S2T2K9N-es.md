@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Esprit 999ee1f808s Blusa  Blanco  White  al 30.01 % de rebaja'
-date: 2021-01-11 02:28:10
+date: 2021-01-12 03:26:51
 image: 'https://m.media-amazon.com/images/I/41vDxF247tL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,7 +25,7 @@ Tienes [Esprit 999ee1f808s Blusa  Blanco  White 100   38  Talla del Fabricante: 
 
 🔎:
 
-- Clásica blusa camisera Oxford con tira de botones
 - En algodón con textura fina
+- Clásica blusa camisera Oxford con tira de botones
 
 [Comprar!!!](https://www.amazon.es/dp/B07S2T2K9N/?tag=tolees-21)
