@@ -25,7 +25,7 @@ Ahora mismo tienes [FM London Fitted Boxer  Negro  Black 01   Medium  Pack de 8 
 
 🔎:
 
-- Tecnología hyfresh antiolor
 - Algodón elástico para un ajuste personalizado y solidario
+- Tecnología hyfresh antiolor
 
 [Visítala!!!](https://www.amazon.es/dp/B07TKCVYHB/?tag=tolees-21)
