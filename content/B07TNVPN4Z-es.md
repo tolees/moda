@@ -25,8 +25,8 @@ Tienes [Clarks Maritsa95 Glad  Sandalias de Talón Abierto para Mujer  Negro  Bl
 
 🔎:
 
-- Dimensiones : Altura del tacón : 10.0 cm
 - Shoe Width : medium
+- Dimensiones : Altura del tacón : 10.0 cm
 - sintética, sintética, Piel , cuero, caucho, 10.0, Hebilla, Sandalias
 
 [Comprar!!!](https://www.amazon.es/dp/B07TNVPN4Z/?tag=tolees-21)

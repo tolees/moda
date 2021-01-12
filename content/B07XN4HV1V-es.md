@@ -25,10 +25,10 @@ Está [Vestido para niña Turquesa Unicornio Arco Iris Verano Sol 9-10 años](ht
 
 ℹ️:
 
-- mezclas de algodón, forradas completamente con 100% algodón
-- Talla: Busto: 72CM, Cintura: 68CM, Longitud: 79CM
 - lavable a máquina, bajo retroceder seca
-- hasta la rodilla. Cremallera trasera oculta
+- Talla: Busto: 72CM, Cintura: 68CM, Longitud: 79CM
+- mezclas de algodón, forradas completamente con 100% algodón
 - Vestido de mezclas de algodón informales de gran calidad con un lindo unicornio y un estampado de arco iris para tus niñas pequeñas y grandes. Perfecto para el uso diario y disfraces de Halloween. El siguiente tamaño significa rangos de edad para las niñas, son solo para orientación general. Para un ajuste más preciso, recomendamos verificar la medición detallada antes de la compra.
+- hasta la rodilla. Cremallera trasera oculta
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07XN4HV1V/?tag=tolees-21)

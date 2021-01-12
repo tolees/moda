@@ -28,7 +28,7 @@ En este momento está [cotton division Boswmants002 Camiseta  Noir  12 ANS para 
 - negro.
 - 100% algodón.
 - The Mandalorian
-- Camiseta infantil de Star Wars The Mandalorian – Baby Yoda Unknown Species. Licencia oficial.
 - Todos nuestros productos son nuevos y en su embalaje original.
+- Camiseta infantil de Star Wars The Mandalorian – Baby Yoda Unknown Species. Licencia oficial.
 
 [Aquí!!!](https://www.amazon.es/dp/B084CTZZ8M/?tag=tolees-21)
