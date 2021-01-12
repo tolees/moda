@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Only Onltahoe Hood Jacket Otw Noos Chaqu al 60.01 % de descuento'
-date: 2021-01-11 02:37:28
+date: 2021-01-12 02:43:42
 image: 'https://m.media-amazon.com/images/I/41DcMEtMvbL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CJLJ6H1/?tag=tolees-21'
 descuento: '60.01'
-average: '26.656666666666666'
+average: '24.99'
 ---
 
 Está [Only Onltahoe Hood Jacket Otw Noos Chaqueta  Negro  Black Black   Medium para Mujer](https://www.amazon.es/dp/B07CJLJ6H1/?tag=tolees-21) con 60.01 de descuento por 19.99 EUR (original: 49.99 EUR) en el siguiente enlace!
