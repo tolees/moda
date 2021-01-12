@@ -25,8 +25,8 @@ En este momento está [Nike Dry Academy 18 Football Top  Camiseta Hombre  Azul  
 
 🔎:
 
-- Nike Dry fabric
 - Ribbed crew neck
 - Regular fit
+- Nike Dry fabric
 
 [Aquí!!!](https://www.amazon.es/dp/B079K2SY8Y/?tag=tolees-21)

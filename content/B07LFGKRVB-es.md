@@ -25,8 +25,8 @@ Ahora mismo tienes [Levi s 2Pk Crewneck Graphic Camiseta  2 Pack Sw White/Minera
 
 🔎:
 
-- Levis Multicoloured Slim 2 Pack Graphic T-Shirt
 - See product description below for more information.
 - Brand New and Genuine. We are an authorised seller of Levis.
+- Levis Multicoloured Slim 2 Pack Graphic T-Shirt
 
 [Visítala!!!](https://www.amazon.es/dp/B07LFGKRVB/?tag=tolees-21)
