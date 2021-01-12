@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Columbia Cascade Ridge II Chaqueta Softs al 35.04 % de descuento'
-date: 2021-01-11 11:20:32
+date: 2021-01-12 13:20:07
 image: 'https://m.media-amazon.com/images/I/4136GWsh5KL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01HTFR6GY/?tag=tolees-21'
 descuento: '35.04'
-average: '63.61571428571429'
+average: '63.7825'
 ---
 
 Está [Columbia Cascade Ridge II Chaqueta Softshell para mujer](https://www.amazon.es/dp/B01HTFR6GY/?tag=tolees-21) con 35.04 de descuento por 64.95 EUR (original: 99.99 EUR) en el siguiente enlace!
@@ -25,10 +25,10 @@ Está [Columbia Cascade Ridge II Chaqueta Softshell para mujer](https://www.amaz
 
 ℹ️:
 
-- Práctica cremallera completa, Dos bolsillos con cremallera para manos calientes y seguras, Bolsillo con cremallera en el brazo, Capucha amovible, Protección para la barbilla, Dobladillo ajustable con cordón
-- Materiales a prueba de agua y viento para una máxima protección contra cualquier clima
-- Chaqueta Softshell resistente al viento para mujeres, Puede usarse como chaqueta de entretiempo o como capa media para el invierno, de ajuste activo
-- Combina con otros productos Columbia para conseguir el nivel perfecto de calidez y repelencia al agua
 - Contenido: 1x Columbia Cascade Ridge II Chaqueta Softshell para mujer, 100% poliéster, Color: negro, Talla: L , Art.No. 1685381
+- Práctica cremallera completa, Dos bolsillos con cremallera para manos calientes y seguras, Bolsillo con cremallera en el brazo, Capucha amovible, Protección para la barbilla, Dobladillo ajustable con cordón
+- Combina con otros productos Columbia para conseguir el nivel perfecto de calidez y repelencia al agua
+- Chaqueta Softshell resistente al viento para mujeres, Puede usarse como chaqueta de entretiempo o como capa media para el invierno, de ajuste activo
+- Materiales a prueba de agua y viento para una máxima protección contra cualquier clima
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01HTFR6GY/?tag=tolees-21)
