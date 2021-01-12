@@ -26,12 +26,12 @@ Ahora mismo tienes [Geox D Calinda Mid C  Botas Altas Mujer  Negro  Black C9999 
 🔎:
 
 - Tipo de talla: Te informamos que los zapatos Geox son holgados, te recomendamos elegir media talla menos con respecto a tu talla habitual
-- Cierre: Cremallera
+- Material exterior: Ante
+- Revestimiento: Sintético
 - Altura del tacón: 6 centímetros
+- Cierre: Cremallera
+- Diámetro de eje: Rodilla
 - Material de la suela: Cuero sintético
 - Tipo de tacón: Bloque
-- Material exterior: Ante
-- Diámetro de eje: Rodilla
-- Revestimiento: Sintético
 
 [Visítala!!!](https://www.amazon.es/dp/B07LFRMY7H/?tag=tolees-21)
