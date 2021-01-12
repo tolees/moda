@@ -26,8 +26,8 @@ En este momento está [G-STAR RAW Whistler HDD Slim Long Coat Wmn Chaqueta  Dry 
 🔎:
 
 - Bolsillos con solapa y cierre de botón a presión en posición diagonal en la cintura
-- Diseño acolchado
-- Tamaño: Estándar
 - Capucha desmontable con la parte delantera alzada y cordón ajustable
+- Tamaño: Estándar
+- Diseño acolchado
 
 [Aquí!!!](https://www.amazon.es/dp/B084R2M8ZK/?tag=tolees-21)

@@ -25,8 +25,8 @@ Tienes [Lee Austin Vaqueros Tapered  Negro  Clean Black Ae   29W / 34L para Homb
 
 🔎:
 
-- Vaqueros para hombre
 - Tienen un parche de piel en la parte trasera con la marca Lee
 - Estilo 5 bolsillos
+- Vaqueros para hombre
 
 [Comprar!!!](https://www.amazon.es/dp/B07T7ZZKQ4/?tag=tolees-21)
