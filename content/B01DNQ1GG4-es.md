@@ -25,8 +25,8 @@ Tienes [Joma Academy Camiseta Termica  Hombre  Marino  L-XL](https://www.amazon.
 
 🔎:
 
-- Camisetas - Ropa de compresión
 - Brama academy marino m/l
+- Camisetas - Ropa de compresión
 - Resto textil
 
 [Comprar!!!](https://www.amazon.es/dp/B01DNQ1GG4/?tag=tolees-21)
