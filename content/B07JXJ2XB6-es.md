@@ -26,7 +26,7 @@ Está [Lee Rider Jeans Vaqueros  Diamond  28W / 32L para Hombre](https://www.ama
 ℹ️:
 
 - Estilo 5 bolsillos
-- Tienen un parche de piel en la parte trasera con la marca Lee
 - Vaqueros para hombre
+- Tienen un parche de piel en la parte trasera con la marca Lee
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07JXJ2XB6/?tag=tolees-21)
