@@ -25,7 +25,7 @@ Ahora mismo tienes [Only Nos Onlblush Mid Ank Raw Jeans Rea2077 Noos  Vaqueros S
 
 🔎:
 
-- Vaqueros hasta el tobillo.
 - Pantalones vaqueros de tiro medio.
+- Vaqueros hasta el tobillo.
 
 [Visítala!!!](https://www.amazon.es/dp/B07BDXSFGF/?tag=tolees-21)
