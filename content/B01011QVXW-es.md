@@ -27,7 +27,7 @@ Está [Crocs Offroad Sport - Zuecos de sintético para hombre  Nero  Black/Graph
 
 - Material: Croslite
 - Farbe: schwarz
-- Hersteller Artikelnummer: 202651-02S
 - Type: Clog mit Fersenriemen
+- Hersteller Artikelnummer: 202651-02S
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01011QVXW/?tag=tolees-21)

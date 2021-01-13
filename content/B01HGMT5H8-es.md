@@ -25,10 +25,10 @@ En este momento está [IEFIEL Vestido de Princesa Niña Tul Tutú Vestido Blanco
 
 🔎:
 
-- Si usted no confirma qué talla debe elegir, podría comprobar los detalles de tamaño en el medio de esta página
 - Falda de 4 capas, las primeras dos capas de malla, una capa de satén y una capa de forro
-- La parte superior de satén sin mangas con cremallera oculta a las espaldas
 - Perfecto para fiestas, boda, bautizo cumpleaños o otras ocasiones especiales
 - Banda de cintura con un broche desmontable delante, un lazo grande
+- La parte superior de satén sin mangas con cremallera oculta a las espaldas
+- Si usted no confirma qué talla debe elegir, podría comprobar los detalles de tamaño en el medio de esta página
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01HGMT5H8/?tag=tolees-21)
