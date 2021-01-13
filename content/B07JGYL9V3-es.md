@@ -25,10 +25,10 @@ En este momento está [MOCHILA CASUAL MODA HARRY POTTER](https://www.amazon.es/d
 
 🔎:
 
-- Composición: Piel sintética. Material de alta calidad
-- Con esta Super mochila serás la envía del instituto o trabajo. Cuenta con una extraordinaria calidad tanto en materiales como en acabados, con licencia oficial de Harry Potter y está realizado en piel sintética
 - Medidas: Mochila 25 x 22 x 11,5 cm
+- Composición: Piel sintética. Material de alta calidad
 - Diseño inspirado en las gafas y la cicatriz con forma de rayo que tiene de Harry Potter
 - Mochila/bolso de Adulto inspirado en Harry Potter con un tamaño de 25 x 22 x 11,5 cm
+- Con esta Super mochila serás la envía del instituto o trabajo. Cuenta con una extraordinaria calidad tanto en materiales como en acabados, con licencia oficial de Harry Potter y está realizado en piel sintética
 
 [Aquí!!!](https://www.amazon.es/dp/B07JGYL9V3/?tag=tolees-21)
