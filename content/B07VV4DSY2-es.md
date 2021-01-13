@@ -25,7 +25,7 @@ Ahora mismo tienes [PUMA Basic Boxers Boxer  Azul Brillante  158/164 cm  Pack de
 
 🔎:
 
-- Tejido muy suave al tacto.
 - Cinturilla elástica cómoda.
+- Tejido muy suave al tacto.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07VV4DSY2/?tag=tolees-21)
