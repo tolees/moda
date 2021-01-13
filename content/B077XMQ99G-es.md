@@ -25,10 +25,10 @@ Tienes [Under Armour CC Scramble Camisa Polo  Hombre  Blanco  SM](https://www.am
 
 🔎:
 
+- Tejido Charged Cotton que presenta la comodidad del algodón pero se seca más rápidamente
 - Material que capilariza el sudor y se seca rápidamente
 - Bolsillo en la parte izquierda del pecho
 - Logotipo tejido en la manga izquierda
 - Confección con tejido elástico en 4 direcciones que permite una mayor movilidad
-- Tejido Charged Cotton que presenta la comodidad del algodón pero se seca más rápidamente
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B077XMQ99G/?tag=tolees-21)
