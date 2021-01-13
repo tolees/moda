@@ -25,9 +25,9 @@ Está [Polaroid PLD6063GS-PJP5X Gafas  BLUE  52/14/135 Unisex Adulto](https://ww
 
 ℹ️:
 
-- Color: Blue
-- Polarizado
 - Material: Acetato
+- Color: Blue
 - Tamaño: 52/14/135
+- Polarizado
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07HNCDXT1/?tag=tolees-21)

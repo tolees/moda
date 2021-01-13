@@ -25,7 +25,7 @@ Tienes [Jack & Jones Jjimike Jjoriginal Am 816 Vaqueros Relaxed  Negro  Black De
 
 ℹ️:
 
-- Cotton blend
 - Plain jeans with straighht leg
+- Cotton blend
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07L5RXXZC/?tag=tolees-21)

@@ -25,8 +25,8 @@ En este momento está [adidas Entrada 104 Camiseta de Fútbol para Hombre de Cue
 
 🔎:
 
-- Regular fit
 - Adidas logo on the front
 - Climalite anti-humidity fabric
+- Regular fit
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07JNH498L/?tag=tolees-21)

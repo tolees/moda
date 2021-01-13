@@ -25,7 +25,7 @@ En este momento está [Clarks Paulson Plain  Zapatos de Cordones Derby para Homb
 
 🔎:
 
-- Color exacto: gamuza bronceada.
 - Material de la suela: TPR.
+- Color exacto: gamuza bronceada.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07MQ2J38P/?tag=tolees-21)

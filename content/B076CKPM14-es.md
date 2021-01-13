@@ -26,9 +26,9 @@ Tienes [WhyKiki Super Son Camiseta para Niños T-Shirt Goku Dragon Master Ball V
 🔎:
 
 - High quality printing inks
-- Machine wash at 40°
-- Regular fit- true to size
-- Kids T-Shirt with eye-catching print
 - 100% Cotton
+- Machine wash at 40°
+- Kids T-Shirt with eye-catching print
+- Regular fit- true to size
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B076CKPM14/?tag=tolees-21)

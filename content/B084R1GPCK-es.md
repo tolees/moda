@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'G-STAR RAW 3301 Slim Camisa  Gris Polvo  al 40.00 % de descuento'
-date: 2021-01-12 09:35:08
+date: 2021-01-13 15:33:59
 image: 'https://m.media-amazon.com/images/I/41w-mpaSqYL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -27,4 +27,4 @@ Está [G-STAR RAW 3301 Slim Camisa  Gris Polvo Descolorido B497-B793  Medium par
 
 - Tamaño: Estándar
 
-[Ver la oferta!!](https://www.amazon.es/dp/B084R1GPCK/?tag=tolees-21)
+[🛒 Ver la oferta!!](https://www.amazon.es/dp/B084R1GPCK/?tag=tolees-21)
