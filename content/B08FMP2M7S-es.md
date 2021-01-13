@@ -25,9 +25,9 @@ Ahora mismo tienes [ZIPPY ZB0103 470 8 Chaqueta  Poinsettia 17-1654  7/8 para Ni
 
 🔎:
 
-- Casual
-- Closure: cremallera
-- Lavar a máquina
 - Temp parka poinsettia
+- Casual
+- Lavar a máquina
+- Closure: cremallera
 
 [Visítala!!!](https://www.amazon.es/dp/B08FMP2M7S/?tag=tolees-21)

@@ -1,32 +1,32 @@
 ---
 layout: post
-title: 'Levi s Relaxed Graphic tee Camiseta  Whi al 30.20 % de rebaja'
-date: 2021-01-11 03:00:19
+title: 'Levi s Relaxed Graphic tee Camiseta  Whi al 30.00 % de rebaja'
+date: 2021-01-13 09:32:23
 image: 'https://m.media-amazon.com/images/I/31+Jp-8pCSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07RZLJDB9-es'
-actualPrice: 17.45 EUR
+actualPrice: 17.5 EUR
 currency: EUR
-price: 17.45
+price: 17.5
 comparePrice: 25.0 EUR
 prodname: 'Levi s Relaxed Graphic tee Camiseta  White  90 s Serif Logo White 0026   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07RZLJDB9/?tag=tolees-21'
-descuento: '30.20'
-average: '17.51436363636363'
+descuento: '30.00'
+average: '17.5138596491228'
 ---
 
-Tienes [Levi s Relaxed Graphic tee Camiseta  White  90 s Serif Logo White 0026   Large para Hombre](https://www.amazon.es/dp/B07RZLJDB9/?tag=tolees-21) con precio final de  17.45 EUR (original: 25.0 EUR) (30.20 %  de rebaja) aqui!
+Tienes [Levi s Relaxed Graphic tee Camiseta  White  90 s Serif Logo White 0026   Large para Hombre](https://www.amazon.es/dp/B07RZLJDB9/?tag=tolees-21) con precio final de  17.5 EUR (original: 25.0 EUR) (30.00 %  de rebaja) aqui!
 
 [![Levi s Relaxed Graphic tee Camiseta  Whi](https://m.media-amazon.com/images/I/31+Jp-8pCSL._SL200_.jpg)](https://www.amazon.es/dp/B07RZLJDB9/?tag=tolees-21)
 
 🔎:
 
+- Tejido de punto con tacto suave
 - Con logotipo de inspiración noventera
 - Modelo casual
-- Tejido de punto con tacto suave
 
 [Comprar!!!](https://www.amazon.es/dp/B07RZLJDB9/?tag=tolees-21)
