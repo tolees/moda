@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Geox D Hiver D  Zapatillas sin Cordones  al 75.32 % de rebaja'
+date: 2020-02-18 12:18:12
+image: 'https://m.media-amazon.com/images/I/31tUVXgAcbL._AC_._SL200_.jpg'
+comments: true
+category: ofertas
+author: ring
+slug: 'B07LFZM789-es'
+actualPrice: 27.12 EUR
+currency: EUR
+price: 27.12
+comparePrice: 109.9 EUR
+prodname: 'Geox D Hiver D  Zapatillas sin Cordones para Mujer  Azul  Dk Navy C4021   42 EU'
+country: 'es'
+flag: '🇪🇸'
+buyurl: 'https://www.amazon.es/dp/B07LFZM789/?tag=tolees-21'
+descuento: '75.32'
+average: '33.565'
+---
+
+Tienes [Geox D Hiver D  Zapatillas sin Cordones para Mujer  Azul  Dk Navy C4021   42 EU](https://www.amazon.es/dp/B07LFZM789/?tag=tolees-21) con precio final de  27.12 EUR (original: 109.9 EUR) (75.32 %  de rebaja) aqui!
+
+[![Geox D Hiver D  Zapatillas sin Cordones ](https://m.media-amazon.com/images/I/31tUVXgAcbL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07LFZM789/?tag=tolees-21)
+
+🔎:
+
+
+[🛒 Comprar!!!](https://www.amazon.es/dp/B07LFZM789/?tag=tolees-21)

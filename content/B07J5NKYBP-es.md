@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Descuento del 20.08 % en Marca Amazon - find. Wedge Close Toe Can'
+date: 2020-07-06 08:04:41
+image: 'https://m.media-amazon.com/images/I/31erMb+M1AL._SL200_.jpg'
+comments: true
+category: ofertas
+author: ring
+slug: 'B07J5NKYBP-es'
+actualPrice: 31.4 EUR
+currency: EUR
+price: 31.4
+comparePrice: 39.29 EUR
+prodname: 'Marca Amazon - find. Wedge Close Toe Canvas Espadrille Sandalias Punta Cerrada  Negro Black  38 EU'
+country: 'es'
+flag: '🇪🇸'
+buyurl: 'https://www.amazon.es/dp/B07J5NKYBP/?tag=tolees-21'
+descuento: '20.08'
+average: '31.4'
+---
+
+Tienes [Marca Amazon - find. Wedge Close Toe Canvas Espadrille Sandalias Punta Cerrada  Negro Black  38 EU](https://www.amazon.es/dp/B07J5NKYBP/?tag=tolees-21) con un 20.08 % de descuento con precio de oferta de 31.4 EUR (original: 39.29 EUR) en el siguiente enlace!
+
+[![Marca Amazon - find. Wedge Close Toe Can](https://m.media-amazon.com/images/I/31erMb+M1AL._SL200_.jpg)](https://www.amazon.es/dp/B07J5NKYBP/?tag=tolees-21)
+
+ℹ️:
+
+
+[🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07J5NKYBP/?tag=tolees-21)

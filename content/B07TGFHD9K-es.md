@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Lacoste EF5473 Vestido  Negro  Noir   34 al 40.00 % de rebaja'
+date: 2020-08-15 23:50:52
+image: 'https://m.media-amazon.com/images/I/31c1dhH8mbL._SL200_.jpg'
+comments: true
+category: ofertas
+author: ring
+slug: 'B07TGFHD9K-es'
+actualPrice: 93.0 EUR
+currency: EUR
+price: 93.0
+comparePrice: 155.0 EUR
+prodname: 'Lacoste EF5473 Vestido  Negro  Noir   34 para Mujer'
+country: 'es'
+flag: '🇪🇸'
+buyurl: 'https://www.amazon.es/dp/B07TGFHD9K/?tag=tolees-21'
+descuento: '40.00'
+average: '93.0'
+---
+
+Tienes [Lacoste EF5473 Vestido  Negro  Noir   34 para Mujer](https://www.amazon.es/dp/B07TGFHD9K/?tag=tolees-21) con precio final de  93.0 EUR (original: 155.0 EUR) (40.00 %  de rebaja) aqui!
+
+[![Lacoste EF5473 Vestido  Negro  Noir   34](https://m.media-amazon.com/images/I/31c1dhH8mbL._SL200_.jpg)](https://www.amazon.es/dp/B07TGFHD9K/?tag=tolees-21)
+
+🔎:
+
+
+[🛒 Comprar!!!](https://www.amazon.es/dp/B07TGFHD9K/?tag=tolees-21)

@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'adidas Entrada 18 JSY Jersey  Niños  Neg al 38.77 % de rebaja'
+date: 2020-01-06 18:42:50
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31GyOLHfZlL._SL200_.jpg'
+comments: true
+category: ofertas
+author: ring
+slug: 'B0779CBPSG-es'
+actualPrice: 10.99 EUR
+currency: EUR
+price: 10.99
+comparePrice: 17.95 EUR
+prodname: 'adidas Entrada 18 JSY Jersey  Niños  Negro  Black/White   140  9/10 años '
+country: 'es'
+flag: '🇪🇸'
+buyurl: 'https://www.amazon.es/dp/B0779CBPSG/?tag=tolees-21'
+descuento: '38.77'
+average: '10.99'
+---
+
+Tienes [adidas Entrada 18 JSY Jersey  Niños  Negro  Black/White   140  9/10 años ](https://www.amazon.es/dp/B0779CBPSG/?tag=tolees-21) con precio final de  10.99 EUR (original: 17.95 EUR) (38.77 %  de rebaja) aqui!
+
+[![adidas Entrada 18 JSY Jersey  Niños  Neg](https://images-eu.ssl-images-amazon.com/images/I/31GyOLHfZlL._SL200_.jpg)](https://www.amazon.es/dp/B0779CBPSG/?tag=tolees-21)
+
+🔎:
+
+
+[🛒 Comprar!!!](https://www.amazon.es/dp/B0779CBPSG/?tag=tolees-21)

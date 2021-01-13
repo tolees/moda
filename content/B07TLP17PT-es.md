@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Clarks Maritsa Mule  Sandalias Punta Cer al 56.56 % de descuento'
+date: 2020-07-25 22:08:23
+image: 'https://m.media-amazon.com/images/I/41J9SbjId6L._SL200_.jpg'
+comments: true
+category: ofertas
+author: ring
+slug: 'B07TLP17PT-es'
+actualPrice: 43.42 EUR
+currency: EUR
+price: 43.42
+comparePrice: 99.95 EUR
+prodname: 'Clarks Maritsa Mule  Sandalias Punta Cerrada para Mujer  Dorado  Rose Gold Rose Gold   35.5 EU'
+country: 'es'
+flag: '🇪🇸'
+buyurl: 'https://www.amazon.es/dp/B07TLP17PT/?tag=tolees-21'
+descuento: '56.56'
+average: '44.230000000000004'
+---
+
+Ahora mismo tienes [Clarks Maritsa Mule  Sandalias Punta Cerrada para Mujer  Dorado  Rose Gold Rose Gold   35.5 EU](https://www.amazon.es/dp/B07TLP17PT/?tag=tolees-21) a 43.42 EUR (original: 99.95 EUR) (56.56 %  de descuento) en el siguiente enlace!
+
+[![Clarks Maritsa Mule  Sandalias Punta Cer](https://m.media-amazon.com/images/I/41J9SbjId6L._SL200_.jpg)](https://www.amazon.es/dp/B07TLP17PT/?tag=tolees-21)
+
+🔎:
+
+
+[🛒 Visítala!!!](https://www.amazon.es/dp/B07TLP17PT/?tag=tolees-21)

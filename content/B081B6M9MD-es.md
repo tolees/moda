@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Columbia Triple Canyon Camisa de Manga C al 40.17 % de rebaja'
+date: 2020-08-05 23:01:35
+image: 'https://m.media-amazon.com/images/I/41yjNLA4SIL._SL200_.jpg'
+comments: true
+category: ofertas
+author: ring
+slug: 'B081B6M9MD-es'
+actualPrice: 35.89 EUR
+currency: EUR
+price: 35.89
+comparePrice: 59.99 EUR
+prodname: 'Columbia Triple Canyon Camisa de Manga Corta  Hombre  Azul  Collegiate Navy   XL'
+country: 'es'
+flag: '🇪🇸'
+buyurl: 'https://www.amazon.es/dp/B081B6M9MD/?tag=tolees-21'
+descuento: '40.17'
+average: '35.89'
+---
+
+Tienes [Columbia Triple Canyon Camisa de Manga Corta  Hombre  Azul  Collegiate Navy   XL](https://www.amazon.es/dp/B081B6M9MD/?tag=tolees-21) con precio final de  35.89 EUR (original: 59.99 EUR) (40.17 %  de rebaja) aqui!
+
+[![Columbia Triple Canyon Camisa de Manga C](https://m.media-amazon.com/images/I/41yjNLA4SIL._SL200_.jpg)](https://www.amazon.es/dp/B081B6M9MD/?tag=tolees-21)
+
+🔎:
+
+
+[🛒 Comprar!!!](https://www.amazon.es/dp/B081B6M9MD/?tag=tolees-21)

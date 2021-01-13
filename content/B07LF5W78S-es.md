@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Levi s 501 Fit Jeans Pantalón vaquero pa con un 65.29 % de descuento'
+date: 2020-04-22 17:38:37
+image: 'https://m.media-amazon.com/images/I/41XvqKGpMYL._SL200_.jpg'
+comments: true
+category: ofertas
+author: ring
+slug: 'B07LF5W78S-es'
+actualPrice: 34.71 EUR
+currency: EUR
+price: 34.71
+comparePrice: 100.0 EUR
+prodname: 'Levi s 501 Fit Jeans Pantalón vaquero para hombre con diseño clásico original y cómodos de usar  Azul  Ironwood Overt 2920   50W / 34L'
+country: 'es'
+flag: '🇪🇸'
+buyurl: 'https://www.amazon.es/dp/B07LF5W78S/?tag=tolees-21'
+descuento: '65.29'
+average: '34.71'
+---
+
+En este momento está [Levi s 501 Fit Jeans Pantalón vaquero para hombre con diseño clásico original y cómodos de usar  Azul  Ironwood Overt 2920   50W / 34L](https://www.amazon.es/dp/B07LF5W78S/?tag=tolees-21) a 34.71 EUR (original: 100.0 EUR) (65.29 %  de descuento) en el siguiente enlace!
+
+[![Levi s 501 Fit Jeans Pantalón vaquero pa](https://m.media-amazon.com/images/I/41XvqKGpMYL._SL200_.jpg)](https://www.amazon.es/dp/B07LF5W78S/?tag=tolees-21)
+
+🔎:
+
+
+[🛒 Aquí!!!](https://www.amazon.es/dp/B07LF5W78S/?tag=tolees-21)

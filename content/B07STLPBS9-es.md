@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Geox U Renan B  Zapatillas para Hombre   al 56.98 % de rebaja'
+date: 2020-08-20 19:53:21
+image: 'https://m.media-amazon.com/images/I/414RfhrW6DL._SL200_.jpg'
+comments: true
+category: ofertas
+author: ring
+slug: 'B07STLPBS9-es'
+actualPrice: 42.98 EUR
+currency: EUR
+price: 42.98
+comparePrice: 99.9 EUR
+prodname: 'Geox U Renan B  Zapatillas para Hombre  Azul  Navy C4064   41 EU'
+country: 'es'
+flag: '🇪🇸'
+buyurl: 'https://www.amazon.es/dp/B07STLPBS9/?tag=tolees-21'
+descuento: '56.98'
+average: '50.955'
+---
+
+Tienes [Geox U Renan B  Zapatillas para Hombre  Azul  Navy C4064   41 EU](https://www.amazon.es/dp/B07STLPBS9/?tag=tolees-21) con precio final de  42.98 EUR (original: 99.9 EUR) (56.98 %  de rebaja) aqui!
+
+[![Geox U Renan B  Zapatillas para Hombre  ](https://m.media-amazon.com/images/I/414RfhrW6DL._SL200_.jpg)](https://www.amazon.es/dp/B07STLPBS9/?tag=tolees-21)
+
+🔎:
+
+
+[🛒 Comprar!!!](https://www.amazon.es/dp/B07STLPBS9/?tag=tolees-21)

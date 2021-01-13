@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Descuento del 20.00 % en Geox J Borealis Boy B  Sandalias Punta C'
+date: 2020-08-24 17:34:35
+image: 'https://m.media-amazon.com/images/I/41GVokb8rAL._SL200_.jpg'
+comments: true
+category: ofertas
+author: ring
+slug: 'B07SWT6L5L-es'
+actualPrice: 22.0 EUR
+currency: EUR
+price: 22.0
+comparePrice: 27.5 EUR
+prodname: 'Geox J Borealis Boy B  Sandalias Punta Cerrada para Niños  Verde  Military/Dk Red Ca37m   36 EU'
+country: 'es'
+flag: '🇪🇸'
+buyurl: 'https://www.amazon.es/dp/B07SWT6L5L/?tag=tolees-21'
+descuento: '20.00'
+average: '22.0'
+---
+
+Tienes [Geox J Borealis Boy B  Sandalias Punta Cerrada para Niños  Verde  Military/Dk Red Ca37m   36 EU](https://www.amazon.es/dp/B07SWT6L5L/?tag=tolees-21) con un 20.00 % de descuento con precio de oferta de 22.0 EUR (original: 27.5 EUR) en el siguiente enlace!
+
+[![Geox J Borealis Boy B  Sandalias Punta C](https://m.media-amazon.com/images/I/41GVokb8rAL._SL200_.jpg)](https://www.amazon.es/dp/B07SWT6L5L/?tag=tolees-21)
+
+ℹ️:
+
+
+[🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07SWT6L5L/?tag=tolees-21)

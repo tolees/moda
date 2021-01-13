@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Gildan Soft Style L  Camiseta para Hombr al 42.09 % de rebaja'
+date: 2020-06-12 09:29:31
+image: 'https://m.media-amazon.com/images/I/31v5Idd+PYL._SL200_.jpg'
+comments: true
+category: ofertas
+author: ring
+slug: 'B00AWW5XO4-es'
+actualPrice: 5.2 EUR
+currency: EUR
+price: 5.2
+comparePrice: 8.98 EUR
+prodname: 'Gildan Soft Style L  Camiseta para Hombre  Blanco  White   Small'
+country: 'es'
+flag: '🇪🇸'
+buyurl: 'https://www.amazon.es/dp/B00AWW5XO4/?tag=tolees-21'
+descuento: '42.09'
+average: '5.2'
+---
+
+Tienes [Gildan Soft Style L  Camiseta para Hombre  Blanco  White   Small](https://www.amazon.es/dp/B00AWW5XO4/?tag=tolees-21) con precio final de  5.2 EUR (original: 8.98 EUR) (42.09 %  de rebaja) aqui!
+
+[![Gildan Soft Style L  Camiseta para Hombr](https://m.media-amazon.com/images/I/31v5Idd+PYL._SL200_.jpg)](https://www.amazon.es/dp/B00AWW5XO4/?tag=tolees-21)
+
+🔎:
+
+
+[🛒 Comprar!!!](https://www.amazon.es/dp/B00AWW5XO4/?tag=tolees-21)

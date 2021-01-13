@@ -25,11 +25,11 @@ Ahora mismo tienes [Geox B New Balu  Girl B  Ankle Boot Niñas  Pink  Dk Pink   
 
 🔎:
 
-- Altura del tacón: 1.5 centímetros
-- Material de la suela: Caucho
-- Cierre: Velcro
-- Revestimiento: Cuero
-- Tipo de talla: Los zapatos Geox son holgados
 - Material exterior: Nobuck
+- Revestimiento: Cuero
+- Material de la suela: Caucho
+- Altura del tacón: 1.5 centímetros
+- Cierre: Velcro
+- Tipo de talla: Los zapatos Geox son holgados
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0825PPFL7/?tag=tolees-21)
