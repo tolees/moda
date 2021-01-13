@@ -25,10 +25,10 @@ Ahora mismo tienes [HUGO Elisha02 Camisa  Rosa  Open Pink 693   38 para Hombre](
 
 🔎:
 
-- Lavado normal en frío 30 øc.
 - No secar en secadora.
 - No usar lejía.
-- Planchar bajo calor nivel 1.
 - No limpiar en seco.
+- Lavado normal en frío 30 øc.
+- Planchar bajo calor nivel 1.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07VHSDFZF/?tag=tolees-21)
