@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Only onlCARMEN REG SK DNM Jeans CRY1602  con un 40.01 % de descuento'
-date: 2021-01-12 11:19:04
+date: 2021-01-13 18:05:46
 image: 'https://m.media-amazon.com/images/I/31fWVcy7CtL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -26,4 +26,4 @@ En este momento está [Only onlCARMEN REG SK DNM Jeans CRY1602 Noos Vaqueros Ski
 🔎:
 
 
-[Aquí!!!](https://www.amazon.es/dp/B071LKKK13/?tag=tolees-21)
+[🛒 Aquí!!!](https://www.amazon.es/dp/B071LKKK13/?tag=tolees-21)
