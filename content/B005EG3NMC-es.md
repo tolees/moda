@@ -25,9 +25,9 @@ En este momento está [Uvex Sportstyle 204 Gafas de Ciclismo  Unisex Adulto  Smo
 
 🔎:
 
-- Lente: 5.8 cm de ancho, 4 cm de alto
 - Protección del 100% contra rayos Ultravioletas
-- Montura: 16 cm de ancho, 5.5 cm de alto
 - Tecnologías: Litemirror, anti-reflejo y filtro I-R
+- Lente: 5.8 cm de ancho, 4 cm de alto
+- Montura: 16 cm de ancho, 5.5 cm de alto
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B005EG3NMC/?tag=tolees-21)

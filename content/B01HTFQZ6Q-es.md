@@ -25,10 +25,10 @@ Está [Columbia Cascade Ridge II Chaqueta Softshell para mujer](https://www.amaz
 
 ℹ️:
 
-- Chaqueta Softshell resistente al viento para mujeres, Puede usarse como chaqueta de entretiempo o como capa media para el invierno, de ajuste activo
-- Combina con otros productos Columbia para conseguir el nivel perfecto de calidez y repelencia al agua
 - Práctica cremallera completa, Dos bolsillos con cremallera para manos calientes y seguras, Bolsillo con cremallera en el brazo, Capucha amovible, Protección para la barbilla, Dobladillo ajustable con cordón
-- Materiales a prueba de agua y viento para una máxima protección contra cualquier clima
+- Combina con otros productos Columbia para conseguir el nivel perfecto de calidez y repelencia al agua
 - Contenido: 1x Columbia Cascade Ridge II Chaqueta Softshell para mujer, 100% poliéster, Color: negro, Talla: S, Art.No. 1685381
+- Chaqueta Softshell resistente al viento para mujeres, Puede usarse como chaqueta de entretiempo o como capa media para el invierno, de ajuste activo
+- Materiales a prueba de agua y viento para una máxima protección contra cualquier clima
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01HTFQZ6Q/?tag=tolees-21)
