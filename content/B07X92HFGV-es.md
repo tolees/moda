@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vero Moda Vmkerriultra Short Coated Jack al 60.01 % de descuento'
-date: 2021-01-11 10:29:42
+date: 2021-01-14 08:03:04
 image: 'https://m.media-amazon.com/images/I/41RyYAUeLSL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -29,4 +29,4 @@ Ahora mismo tienes [Vero Moda Vmkerriultra Short Coated Jacket Noos Chaqueta  Ne
 - M para Mujer
 - Negro (Black Black)
 
-[Visítala!!!](https://www.amazon.es/dp/B07X92HFGV/?tag=tolees-21)
+[🛒 Visítala!!!](https://www.amazon.es/dp/B07X92HFGV/?tag=tolees-21)
