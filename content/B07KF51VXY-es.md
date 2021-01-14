@@ -25,8 +25,8 @@ Está [Levi s Type 3 Chaqueta Vaquera  Berk Sherpa Trucker  S para Hombre](https
 
 ℹ️:
 
+- Manga larga con cierre de botón en los puños
 - Bajo ajustable en el lateral
 - Bolsillos de parche en el pecho con solapa y cierre de botón automático
-- Manga larga con cierre de botón en los puños
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07KF51VXY/?tag=tolees-21)
