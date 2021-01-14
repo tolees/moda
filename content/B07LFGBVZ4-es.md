@@ -25,9 +25,9 @@ Tienes [Levi s 514 Vaqueros Straight  Chain Rinse  33W / 32L para Hombre](https:
 
 🔎:
 
-- Straight
 - Embroidered back pockets, with a leather
-- 16" hem
 - Zip Fly
+- 16" hem
+- Straight
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07LFGBVZ4/?tag=tolees-21)

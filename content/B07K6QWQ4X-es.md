@@ -26,7 +26,7 @@ Tienes [adidas TIRO19 TR JSY Camiseta de Manga Corta  Hombre  Power Red/White  S
 🔎:
 
 - Climalite anti-humidity fabric
-- Slim fit
 - Adidas logo on the front
+- Slim fit
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07K6QWQ4X/?tag=tolees-21)
