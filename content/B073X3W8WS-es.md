@@ -26,8 +26,8 @@ En este momento está [Eastpak Crew Single Monedero  13 Cm  Azul  Cloud Navy ](h
 🔎:
 
 - Múltiples compartimentos interiores con espacio para tarjetas y efectivo
-- Fabricada 100 % en nylon
 - Altura: 9.5 cm, Ancho: 13.5 cm
+- Fabricada 100 % en nylon
 - Compartimento trasero con cremallera para objetos pequeños o llaves
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B073X3W8WS/?tag=tolees-21)
