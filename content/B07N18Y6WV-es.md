@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'G-STAR RAW Midge Cody Mid Waist Skinny V al 50.00 % de descuento'
-date: 2021-01-10 05:34:03
+date: 2021-01-14 09:06:51
 image: 'https://m.media-amazon.com/images/I/31rD7LaRCrL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07N18Y6WV/?tag=tolees-21'
 descuento: '50.00'
-average: '56.54571428571428'
+average: '57.306666666666665'
 ---
 
 Está [G-STAR RAW Midge Cody Mid Waist Skinny Vaqueros  Azul  Faded Blue 5245-A889   32W / 28L para Mujer](https://www.amazon.es/dp/B07N18Y6WV/?tag=tolees-21) con 50.00 de descuento por 59.97 EUR (original: 119.95 EUR) en el siguiente enlace!
@@ -25,10 +25,10 @@ Está [G-STAR RAW Midge Cody Mid Waist Skinny Vaqueros  Azul  Faded Blue 5245-A8
 
 ℹ️:
 
-- Cierre: Boton y cierre
-- Usado
 - 35% Algodón, 35% Lyocell, 28% Poliéster, 2% Elastano
 - Lavar a máquina - caliente (mayor de 30 °)
 - Skinny
+- Usado
+- Cierre: Boton y cierre
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07N18Y6WV/?tag=tolees-21)
+[🛒 Ver la oferta!!](https://www.amazon.es/dp/B07N18Y6WV/?tag=tolees-21)
