@@ -25,8 +25,8 @@ Tienes [Levi s Relaxed Graphic Hoodie Sudadera  White  Boxtab Pop White 0022   S
 
 🔎:
 
-- A estrenar y genuino. Somos un vendedor autorizado de Levis.
 - Levis blanca Relajado suéter con capucha gráfica
+- A estrenar y genuino. Somos un vendedor autorizado de Levis.
 - Ver la descripción del producto para obtener más información.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07TMHGV9W/?tag=tolees-21)
