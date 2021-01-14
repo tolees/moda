@@ -1,29 +1,37 @@
 ---
 layout: post
-title: 'Columbia Peakfreak Venture  Zapatos Impe al 34.55 % de descuento'
-date: 2020-04-12 07:14:27
-image: 'https://m.media-amazon.com/images/I/41frOYRGuXL._SL200_.jpg'
+title: 'Columbia Peakfreak Venture Zapatos imper al 50.00 % de descuento'
+date: 2021-01-14 20:31:27
+image: 'https://m.media-amazon.com/images/I/41jeRp-aPZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B00Q7ETZ1S-es'
-actualPrice: 71.99 EUR
+actualPrice: 54.99 EUR
 currency: EUR
-price: 71.99
+price: 54.99
 comparePrice: 109.99 EUR
-prodname: 'Columbia Peakfreak Venture  Zapatos Impermeables para Hombre  Marrón  Cordovan  Squash 231   46 EU'
+prodname: 'Columbia Peakfreak Venture Zapatos impermeables para hombre   Marrón Cordovan  Squash   46 EU'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00Q7ETZ1S/?tag=tolees-21'
-descuento: '34.55'
-average: '71.99'
+descuento: '50.00'
+average: '60.656666666666666'
 ---
 
-Está [Columbia Peakfreak Venture  Zapatos Impermeables para Hombre  Marrón  Cordovan  Squash 231   46 EU](https://www.amazon.es/dp/B00Q7ETZ1S/?tag=tolees-21) con 34.55 de descuento por 71.99 EUR (original: 109.99 EUR) en el siguiente enlace!
+Está [Columbia Peakfreak Venture Zapatos impermeables para hombre   Marrón Cordovan  Squash   46 EU](https://www.amazon.es/dp/B00Q7ETZ1S/?tag=tolees-21) con 50.00 de descuento por 54.99 EUR (original: 109.99 EUR) en el siguiente enlace!
 
-[![Columbia Peakfreak Venture  Zapatos Impe](https://m.media-amazon.com/images/I/41frOYRGuXL._SL200_.jpg)](https://www.amazon.es/dp/B00Q7ETZ1S/?tag=tolees-21)
+[![Columbia Peakfreak Venture Zapatos imper](https://m.media-amazon.com/images/I/41jeRp-aPZL._SL200_.jpg)](https://www.amazon.es/dp/B00Q7ETZ1S/?tag=tolees-21)
 
 ℹ️:
 
+- Tipo de tacón: Plano
+- Anchura del zapato: Normal
+- Cierre: Cordones
+- Revestimiento: Sintético
+- Altura del tacón: 1 centímetros
+- Material de la suela: Caucho
+- Composición: Cuero/Malla
+- Material exterior: Cuero
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00Q7ETZ1S/?tag=tolees-21)

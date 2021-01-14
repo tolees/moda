@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'G-STAR RAW Revend Skinny Vaqueros  3D Da al 63.49 % de descuento'
-date: 2021-01-13 19:23:15
+date: 2021-01-14 20:35:18
 image: 'https://m.media-amazon.com/images/I/31sjGMz2ClL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,5 +25,7 @@ Está [G-STAR RAW Revend Skinny Vaqueros  3D Dark Aged 7101  40W / 36L para Homb
 
 ℹ️:
 
+- Tight from thigh to hem
+- Medium weight 9.8oz denim
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B014Z6TREO/?tag=tolees-21)
