@@ -25,8 +25,8 @@ Tienes [Levi s 512 Slim Taper Vaqueros  Rock Cod  28W / 32L para Hombre](https:/
 
 ℹ️:
 
+- See product description below for more information.
 - Levis Blue 512 Slim Taper Fit Jeans
 - Brand New and Genuine. We are an authorised seller of Levis.
-- See product description below for more information.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07D7WQFQ5/?tag=tolees-21)

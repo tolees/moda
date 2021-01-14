@@ -25,7 +25,7 @@ Está [G-STAR RAW Revend Skinny Vaqueros  3D Dark Aged 7101  40W / 36L para Homb
 
 ℹ️:
 
-- Tight from thigh to hem
 - Medium weight 9.8oz denim
+- Tight from thigh to hem
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B014Z6TREO/?tag=tolees-21)

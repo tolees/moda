@@ -25,9 +25,9 @@ En este momento está [ZIPPY ZB0103 470 8 Chaqueta  Black Iris 19-3921 TC  3-4 A
 
 🔎:
 
-- Cazadora acolchada azul oscura con capucha para niño, con forro polar en el cuerpo y capucha para mayor confort en los días fríos
+- Casual
 - Lavado a máquina
 - Cierre: cremallera
-- Casual
+- Cazadora acolchada azul oscura con capucha para niño, con forro polar en el cuerpo y capucha para mayor confort en los días fríos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08FMP3PVH/?tag=tolees-21)
