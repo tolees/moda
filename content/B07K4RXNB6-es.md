@@ -25,10 +25,10 @@ Está [The Reading Glasses Company Gafas De Lectura Azul Gris Marrón Ligero Có
 
 ℹ️:
 
-- Un par en azul oscuro terminar, un par en acabado en gris y un par en acabado de carey de marrón.
 - Robusto diseño de marco con bisagras de calidad.
 - Para interiores / condiciones normales de lectura.
-- Tres pares de ligero y cómodo hombres / mujeres / unisexo gafas de lectura a un fantástico!
+- Un par en azul oscuro terminar, un par en acabado en gris y un par en acabado de carey de marrón.
 - Potencia óptica +1,00 (dioptría).
+- Tres pares de ligero y cómodo hombres / mujeres / unisexo gafas de lectura a un fantástico!
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07K4RXNB6/?tag=tolees-21)

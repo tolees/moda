@@ -25,9 +25,9 @@ Está [Crocs Santa Cruz Canvas Flip M  Zapatos de Playa y Piscina para Hombre  N
 
 ℹ️:
 
+- Material exterior: Lona
 - Revestimiento: Sin forro
 - Cierre: Sin cordones
 - Material de la suela: EVA
-- Material exterior: Lona
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07CN4H1LW/?tag=tolees-21)

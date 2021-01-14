@@ -25,8 +25,8 @@ Está [Levi s Graphic tee Camiseta  White  Boxtab SS T2 White 0000   S para Homb
 
 ℹ️:
 
+- A estrenar y genuina. Somos un vendedor autorizado de Levis.
 - Ver descripción del producto para obtener más información.
 - Levis Blanco Camiseta gráfica Boxtab
-- A estrenar y genuina. Somos un vendedor autorizado de Levis.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07TT6CR1T/?tag=tolees-21)
