@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Kids Lvb Batwing Tee Camiseta Whi al 25.28 % de descuento'
-date: 2021-01-12 05:15:50
+date: 2021-01-14 05:08:49
 image: 'https://m.media-amazon.com/images/I/21b-mEXUtNL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -27,4 +27,4 @@ Ahora mismo tienes [Levi s Kids Lvb Batwing Tee Camiseta White para Niños](http
 
 - 100 % algodón.
 
-[Visítala!!!](https://www.amazon.es/dp/B07XD5RWH2/?tag=tolees-21)
+[🛒 Visítala!!!](https://www.amazon.es/dp/B07XD5RWH2/?tag=tolees-21)

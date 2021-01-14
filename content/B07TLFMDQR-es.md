@@ -25,8 +25,8 @@ Ahora mismo tienes [Levi s Barstow Western Standard Camisa  Blue  Red Cast Stone
 
 🔎:
 
-- Camisa denim clásica de manga larga Western Shirt
 - Dos bolsillos con botón en el pecho
+- Camisa denim clásica de manga larga Western Shirt
 - Modelo casual
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07TLFMDQR/?tag=tolees-21)
