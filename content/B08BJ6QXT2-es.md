@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones JCOEXIT tee SS Crew Neck Ca al 20.03 % de descuento'
-date: 2021-01-14 12:19:28
+date: 2021-01-15 13:23:54
 image: 'https://m.media-amazon.com/images/I/41AdNOV15JL._SL200_.jpg'
 comments: true
 category: ofertas

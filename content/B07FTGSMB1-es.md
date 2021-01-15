@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lee Button Down  Camisa para Hombre  Azu al 50.00 % de descuento'
-date: 2021-01-11 19:06:08
+date: 2021-01-15 13:10:30
 image: 'https://m.media-amazon.com/images/I/41yLLxrosCL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -26,4 +26,4 @@ Está [Lee Button Down  Camisa para Hombre  Azul  Dipped Blue La   Large](https:
 ℹ️:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07FTGSMB1/?tag=tolees-21)
+[🛒 Ver la oferta!!](https://www.amazon.es/dp/B07FTGSMB1/?tag=tolees-21)
