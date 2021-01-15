@@ -25,8 +25,8 @@ En este momento está [adidas Core18 TR Pantalón  Sin género  Negro  L](https:
 
 🔎:
 
+- Core18 tr pnt negro l
 - Fútbol Perfil: hombre unisex, material:, color: negro/blanco
 - Pantalón adidas pantalón core18 tr pnt negro/blanco
-- Core18 tr pnt negro l
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B076HRHTH8/?tag=tolees-21)
