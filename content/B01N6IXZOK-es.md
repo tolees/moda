@@ -26,8 +26,8 @@ Está [Vans Torrey Chaqueta  Negro  Black/white   Medium para Hombre](https://ww
 ℹ️:
 
 - Shell: 100% nailon.
+- Chaqueta de entrenadores con gráfico impreso en el pecho izquierdo.
 - Forro: 100% poliéster
 - Vans Cool Pink colorway tiene gráficos impresos en la manga.
-- Chaqueta de entrenadores con gráfico impreso en el pecho izquierdo.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01N6IXZOK/?tag=tolees-21)
