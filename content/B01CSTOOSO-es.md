@@ -25,9 +25,9 @@ Está [Joma Combi Camiseta Manga Corta  Hombre  Verde  Fluor   6XS-5XS](https://
 
 ℹ️:
 
-- Camiseta de manga corta indicada para deportistas que buscan la máxima comodidad y transpirabilidad
-- Realizada en poliéster, para una mayor resistencia
-- El tejido Interlock es muy elástico, dirigido a ropa deportiva
 - Esta camiseta destaca por un tacto muy suave, por su secado rápido y sin arrugas
+- Realizada en poliéster, para una mayor resistencia
+- Camiseta de manga corta indicada para deportistas que buscan la máxima comodidad y transpirabilidad
+- El tejido Interlock es muy elástico, dirigido a ropa deportiva
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01CSTOOSO/?tag=tolees-21)
