@@ -25,7 +25,7 @@ Ahora mismo tienes [G-STAR RAW Joci Ripped Falda  Azul  Faded Shore 8973-b377   
 
 🔎:
 
-- Ya sea que elijas un estilo de negocios o un aspecto más informal en nuestra colección de faldas, encontrarás lo que estás buscando.
 - Corte recto
+- Ya sea que elijas un estilo de negocios o un aspecto más informal en nuestra colección de faldas, encontrarás lo que estás buscando.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07VRYBGPR/?tag=tolees-21)
