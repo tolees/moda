@@ -25,10 +25,10 @@ Tienes [Bollé TRACPSF Tracker - Gafas de seguridad  color negro](https://www.am
 
 🔎:
 
-- 100 % protección UV. Conforme a EN refuerzo 166. espuma con ventilación indirecta. Ventilación lateral
-- Protección contra la radiación UV, la energía de impacto medio, al impacto a temperaturas extremas, las gotas de líquido
 - Diadema ajustable y funda de microfibra incluidos. Peso: 52 g
-- Superior, inferior y protección lateral. Patillas rectas. Anti-cero y recubrimiento anti-vaho
+- Protección contra la radiación UV, la energía de impacto medio, al impacto a temperaturas extremas, las gotas de líquido
+- 100 % protección UV. Conforme a EN refuerzo 166. espuma con ventilación indirecta. Ventilación lateral
 - Lentes: policarbonato (PC) - 2.2 mm - Curva 8. marco y templos: policarbonato (PC). Correa: nylon
+- Superior, inferior y protección lateral. Patillas rectas. Anti-cero y recubrimiento anti-vaho
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0029SMDOC/?tag=tolees-21)
