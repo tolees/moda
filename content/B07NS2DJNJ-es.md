@@ -26,7 +26,7 @@ Ahora mismo tienes [Vans MN Classic PO Hoodie II Sudadera con Capucha  Negro  Bl
 🔎:
 
 - A estrenar y genuina. Somos un vendedor autorizado de Vans.
-- Vans Negro Sudadera con capucha clásica
 - Ver descripción del producto para obtener más información.
+- Vans Negro Sudadera con capucha clásica
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07NS2DJNJ/?tag=tolees-21)
