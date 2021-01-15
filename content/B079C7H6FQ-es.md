@@ -25,7 +25,7 @@ Está [Jack & Jones Jjepocket tee SS O-Neck Noos Camiseta  Negro  Black Detail: 
 
 ℹ️:
 
-- Algodón bio para mayor comodidad.
 - Camiseta básica con cuello redondo.
+- Algodón bio para mayor comodidad.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B079C7H6FQ/?tag=tolees-21)
