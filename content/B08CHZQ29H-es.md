@@ -26,9 +26,9 @@ Tienes [Element Vertical - Sudadera con Capucha para Hombre Sudadera con Capucha
 🔎:
 
 - Estampado en el pecho
-- Corte: corte normal
-- Material: 60% poliéster, 40% algodón
-- Vertical - sudadera con capucha para hombre
 - Tejido: tejido suave cepillado de algodón y poliéster
+- Corte: corte normal
+- Vertical - sudadera con capucha para hombre
+- Material: 60% poliéster, 40% algodón
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08CHZQ29H/?tag=tolees-21)

@@ -25,9 +25,9 @@ En este momento está [Moleskine Bolso Journey Packable Tote Bolsa plegable y pl
 
 🔎:
 
-- Diseño elegante y liviano
-- Versátil y lavable
 - Para guardar todos los recuerdos del día
+- Diseño elegante y liviano
 - Adecuada para proteger sus dispositivos electrónicos
+- Versátil y lavable
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07T4RYT3M/?tag=tolees-21)

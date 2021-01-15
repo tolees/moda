@@ -25,7 +25,7 @@ En este momento está [adidas Design 2 Move 3 Bandas Camiseta de Tirantes  Mujer
 
 🔎:
 
-- Corte clásico más ancho y silueta recta
 - Escote redondo; sin mangas; espalda deportiva
+- Corte clásico más ancho y silueta recta
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07KRG3MZN/?tag=tolees-21)
