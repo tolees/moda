@@ -25,7 +25,7 @@ Ahora mismo tienes [Only Onltahoe Hood Jacket Otw Noos Chaqueta  Negro  Black Bl
 
 🔎:
 
-- Padded outdoor jacket
 - Quilted jacket with hood
+- Padded outdoor jacket
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07CJLJCTW/?tag=tolees-21)

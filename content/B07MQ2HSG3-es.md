@@ -25,8 +25,8 @@ En este momento está [Clarks Becken Lace  Zapatos de Cordones Brogue Hombre  Ne
 
 🔎:
 
+- Dimensiones : Altura del tacón : 3.0 cm
 - Shoe Width : medium
 - sintética, Textíl, Piel , cuero, sintética, 3.0, Cordones, Derbie
-- Dimensiones : Altura del tacón : 3.0 cm
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07MQ2HSG3/?tag=tolees-21)
