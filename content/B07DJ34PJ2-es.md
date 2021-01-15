@@ -25,10 +25,10 @@ Ahora mismo tienes [Geox D Jaysen A  Zapatillas para Mujer  Blanco  White C1000 
 
 🔎:
 
+- Tipo de tacón: Plano
 - Material exterior: Cuero
 - Cierre: Cordones
 - Revestimiento: Malla
 - Material de la suela: Sintético
-- Tipo de tacón: Plano
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07DJ34PJ2/?tag=tolees-21)
