@@ -25,13 +25,13 @@ Tienes [Geox D ANYLLA Wedge J  Mocasines Mujer  Negro  36 EU](https://www.amazon
 
 ℹ️:
 
-- Material exterior: piel lisa
-- Forro: sintético
 - No resistente al agua
+- Cierre: sin cordones
+- Material de la suela: goma
+- Forro: sintético
 - Tipo de tela: napa
 - Tipo de ajuste: ten en cuenta que los zapatos geox tienen un ajuste cómodo, por lo que te recomendamos que elijas media talla
-- Material de la suela: goma
-- Cierre: sin cordones
 - Ancho del zapato: estrecho
+- Material exterior: piel lisa
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0825NKNQQ/?tag=tolees-21)
