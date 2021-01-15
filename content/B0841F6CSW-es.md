@@ -26,7 +26,7 @@ Está [Tommy Hilfiger TJM Straight Logo tee Camisa  Blanco  M para Hombre](https
 ℹ️:
 
 - Producto original y auténtico de Tommy Hilfiger/Tommy Jeans
-- Tommy Jeans - Camisetas S/S para hombre
 - Más información sobre Tommy Hilfiger / Tommy Jeans se puede encontrar en la descripción del producto
+- Tommy Jeans - Camisetas S/S para hombre
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0841F6CSW/?tag=tolees-21)
