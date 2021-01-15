@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Marca Amazon - AURIQUE Mallas de Deporte con un 15.50 % de descuento'
-date: 2021-01-14 04:21:43
+date: 2021-01-15 10:40:47
 image: 'https://m.media-amazon.com/images/I/417WY+oFQML._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07SQ8WSFR/?tag=tolees-21'
 descuento: '15.50'
-average: '21.86166666666667'
+average: '21.798400000000008'
 ---
 
 En este momento está [Marca Amazon - AURIQUE Mallas de Deporte sin Costuras de Tiro Alto Mujer  Azul  Gibraltor Sea   40  Label:M](https://www.amazon.es/dp/B07SQ8WSFR/?tag=tolees-21) a 20.28 EUR (original: 24.0 EUR) (15.50 %  de descuento) en el siguiente enlace!
