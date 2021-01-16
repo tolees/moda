@@ -26,7 +26,7 @@ Tienes [Bolle Safety PILOPSI Pilot - Gafas protectoras transparentes](https://ww
 🔎:
 
 - Protección química contra gotas de líquido o salpicaduras
-- Filtros de protección de la radiación ultravioleta
 - El revestimiento de platino proporciona una alta resistencia a los arañazos, a los productos químicos y retrasos niebla más agresivo
+- Filtros de protección de la radiación ultravioleta
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B000VDLP4G/?tag=tolees-21)

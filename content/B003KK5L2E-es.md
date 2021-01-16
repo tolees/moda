@@ -25,9 +25,9 @@ Ahora mismo tienes [Ray-Ban Aviator gafas de sol  Dorado  Marco: Dorado  Lente: 
 
 🔎:
 
-- Producto de alta calidad
 - De la marca RAY-BAN
 - Instrucciones de cuidado: Limpiar los lentes con el paño de la lente y guardar en la carcasa
+- Producto de alta calidad
 - Modelo Aviator
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B003KK5L2E/?tag=tolees-21)

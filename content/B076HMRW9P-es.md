@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Adidas CORE18 Hoody Sudadera con Capucha al 30.01 % de rebaja'
-date: 2021-01-14 11:20:43
+date: 2021-01-16 06:52:17
 image: 'https://m.media-amazon.com/images/I/51xLpVqJoPL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,9 +25,10 @@ Tienes [Adidas CORE18 Hoody Sudadera con Capucha  Hombre  Gris  Gris/Negro   XS]
 
 🔎:
 
-- Bolsillo canguro
-- Etiqueta sobre el dobladillo izquierdo.
-- Costuras laterales abiertas para una mayor libertad de movimiento.
-- Logotipo de adidas a la derecha del pecho.
+- Ribbed hem and cuffs
+- Regular fit
+- Kangaroo pocket for small items
+- Adjustable hood protects from the elements
+- Raglan sleeves
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B076HMRW9P/?tag=tolees-21)
