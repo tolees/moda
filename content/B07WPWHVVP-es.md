@@ -25,10 +25,10 @@ Ahora mismo tienes [Pepe Jeans Gen PL Vaqueros straight  Azul  Denim MF   30W/30
 
 🔎:
 
-- Tejido suave de tacto sedoso
-- Efecto desgastado
-- Costuras en contraste
 - Vaqueros con cintura media
+- Tejido suave de tacto sedoso
+- Costuras en contraste
+- Efecto desgastado
 - Estilo 5 bolsillos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07WPWHVVP/?tag=tolees-21)
