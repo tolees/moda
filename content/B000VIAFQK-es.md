@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Descuento del 52.01 % en Timberland 6-Inch Premium WP  Botas Clas'
-date: 2021-01-15 08:14:00
+title: 'Descuento del 54.34 % en Timberland 6-Inch Premium WP  Botas Clas'
+date: 2021-01-16 12:17:21
 image: 'https://m.media-amazon.com/images/I/415c5wvUTyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B000VIAFQK-es'
-actualPrice: 71.99 EUR
+actualPrice: 68.49 EUR
 currency: EUR
-price: 71.99
+price: 68.49
 comparePrice: 150.0 EUR
 prodname: 'Timberland 6-Inch Premium WP  Botas Clasicas Unisex Niños  Amarillo  Wheat Nubuck   40 EU'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000VIAFQK/?tag=tolees-21'
-descuento: '52.01'
-average: '69.88199999999999'
+descuento: '54.34'
+average: '69.4842857142857'
 ---
 
-Tienes [Timberland 6-Inch Premium WP  Botas Clasicas Unisex Niños  Amarillo  Wheat Nubuck   40 EU](https://www.amazon.es/dp/B000VIAFQK/?tag=tolees-21) con un 52.01 % de descuento con precio de oferta de 71.99 EUR (original: 150.0 EUR) en el siguiente enlace!
+Tienes [Timberland 6-Inch Premium WP  Botas Clasicas Unisex Niños  Amarillo  Wheat Nubuck   40 EU](https://www.amazon.es/dp/B000VIAFQK/?tag=tolees-21) con un 54.34 % de descuento con precio de oferta de 68.49 EUR (original: 150.0 EUR) en el siguiente enlace!
 
 [![Timberland 6-Inch Premium WP  Botas Clas](https://m.media-amazon.com/images/I/415c5wvUTyL._SL200_.jpg)](https://www.amazon.es/dp/B000VIAFQK/?tag=tolees-21)
 
