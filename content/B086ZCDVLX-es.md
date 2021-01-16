@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Kids Lvb Ss Graphic Tee Shirt Cam al 55.40 % de descuento'
-date: 2021-01-11 19:34:04
+date: 2021-01-16 15:07:32
 image: 'https://m.media-amazon.com/images/I/41eON9RcihL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -27,4 +27,4 @@ Está [Levi s Kids Lvb Ss Graphic Tee Shirt Camiseta Niños Dress Blues 14 años
 
 - algodón.
 
-[Ver la oferta!!](https://www.amazon.es/dp/B086ZCDVLX/?tag=tolees-21)
+[🛒 Ver la oferta!!](https://www.amazon.es/dp/B086ZCDVLX/?tag=tolees-21)
