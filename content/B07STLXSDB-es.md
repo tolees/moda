@@ -25,10 +25,10 @@ Ahora mismo tienes [Geox D Jaysen A  Zapatillas para Mujer  Rosa  Rose Gold/Skin
 
 🔎:
 
-- Cierre: Cordones
-- Revestimiento: Malla
-- Tipo de tacón: Plano
 - Material de la suela: Sintético
+- Tipo de tacón: Plano
+- Revestimiento: Malla
+- Cierre: Cordones
 - Material exterior: Cuero
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07STLXSDB/?tag=tolees-21)

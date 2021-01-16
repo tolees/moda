@@ -25,8 +25,8 @@ Tienes [adidas CON20 TR Top Sudadera  Hombre  Black  L](https://www.amazon.es/dp
 
 🔎:
 
-- Adidas logo
 - Regular fit
+- Adidas logo
 - Soft fabric
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07ZTRTH9R/?tag=tolees-21)
