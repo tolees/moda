@@ -27,8 +27,8 @@ Tienes [Crocs Crocband U  Zuecos Unisex Adulto  Morado  Lavender-Purple 50q   36
 
 - Cierre: Sin cordones
 - Revestimiento: Sintético
-- Material de la suela: Goma
-- Material exterior: Espuma
 - Altura del tacón: 1.5 pulgadas
+- Material exterior: Espuma
+- Material de la suela: Goma
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07CPB4S4N/?tag=tolees-21)
