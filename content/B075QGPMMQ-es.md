@@ -25,9 +25,9 @@ Tienes [Marca Amazon - AURIQUE Sudadera Cruzada con Capucha Mujer  Gris  Dark Gr
 
 ℹ️:
 
-- Amplios bolsos laterales
 - Cierre a un lado
-- Bordes redondeados
 - Largo de cadera
+- Amplios bolsos laterales
+- Bordes redondeados
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B075QGPMMQ/?tag=tolees-21)

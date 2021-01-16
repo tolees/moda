@@ -26,9 +26,9 @@ Tienes [PUMA Teamgoal 23 Jersey Camiseta  Hombre  Fluo Yellow Black  XXL](https:
 ℹ️:
 
 - Toques de color en el cuello y los lados
+- Logotipo del felino PUMA en la parte derecha del pecho
 - Cuello redondo
 - Manga corta
-- Logotipo del felino PUMA en la parte derecha del pecho
 - dryCELL: tecnología de PUMA con propiedades que alejan la humedad de la piel y te ayudan a mantenerte seco y cómodo
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B084D9YS5C/?tag=tolees-21)
