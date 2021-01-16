@@ -25,10 +25,10 @@ En este momento está [Montblanc Meisterstück Soft Grain Bolso Bandolera  26 cm
 
 🔎:
 
-- Tamaño: 24 x 26 x 7
+- Diseño elegante y cómodo de llevar
 - Todos nuestros productos están identificados con un emblema Montblanc
+- Tamaño: 24 x 26 x 7
 - 2 bolsillos para lapiceros, 1 bolsillo adicional
 - MST Soft Grain Reporter Brown
-- Diseño elegante y cómodo de llevar
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01M9GP58J/?tag=tolees-21)
