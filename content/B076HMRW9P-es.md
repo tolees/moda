@@ -25,10 +25,10 @@ Tienes [Adidas CORE18 Hoody Sudadera con Capucha  Hombre  Gris  Gris/Negro   XS]
 
 🔎:
 
-- Ribbed hem and cuffs
-- Regular fit
 - Kangaroo pocket for small items
-- Adjustable hood protects from the elements
+- Ribbed hem and cuffs
 - Raglan sleeves
+- Adjustable hood protects from the elements
+- Regular fit
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B076HMRW9P/?tag=tolees-21)
