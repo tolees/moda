@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tommy Hilfiger Core Stretch Slim Poplin  al 22.19 % de rebaja'
-date: 2021-01-14 21:46:21
+date: 2021-01-15 23:17:59
 image: 'https://m.media-amazon.com/images/I/31ytMW37nJL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B016QM4SVM/?tag=tolees-21'
 descuento: '22.19'
-average: '68.04232026143794'
+average: '68.05470779220782'
 ---
 
 Tienes [Tommy Hilfiger Core Stretch Slim Poplin Shirt Camisa  Blanco  Bright White 100   Medium para Hombre](https://www.amazon.es/dp/B016QM4SVM/?tag=tolees-21) con precio final de  69.95 EUR (original: 89.9 EUR) (22.19 %  de rebaja) aqui!

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vero Moda Vmkhloe Favo Faux Leather Jack al 35.01 % de descuento'
-date: 2021-01-14 16:22:52
+date: 2021-01-15 23:19:42
 image: 'https://m.media-amazon.com/images/I/4116mi47eNL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07H996HPB/?tag=tolees-21'
 descuento: '35.01'
-average: '24.99'
+average: '25.389999999999997'
 ---
 
 Está [Vero Moda Vmkhloe Favo Faux Leather Jacket Noos Chaqueta  Negro  Black   38  Talla del fabricante: Small  para Mujer](https://www.amazon.es/dp/B07H996HPB/?tag=tolees-21) con 35.01 de descuento por 25.99 EUR (original: 39.99 EUR) en el siguiente enlace!
