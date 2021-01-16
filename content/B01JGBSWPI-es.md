@@ -25,10 +25,10 @@ Está [IEFIEL Vestido Largo Elegante para Niña Vestido Princesa Gasa de Flores 
 
 ℹ️:
 
-- Cierre con cremallera oculta a la espalda, cinta de cintura atada detrás. La cintura está decorada con un broche de flor, que hace este vestido ser más elegante. La cremallera oculta se usa los materiales ecológicos de alta calidad, es práctica y hermosa. Es adecuada para el uso diario y las ocasiones especiales, tales como la fiesta de boda, la celebración de días festivos, la ceremonia, el bautismo, la fiesta de cumpleaños, el desfile y etc.
 - Perfecto para baile de etiqueta, boda, bautizo, cumpleaños o vacaciones
 - Vestido precioso de fiesta ceremonia sin mangas para niñas. Cuello en V, cinturón plisado con un broche de flor
 - La Tabla de Tallas significa el rango de edades de las niñas, sólo se usa para las referencias generales. Para obtener el producto más adecuado, le recomendamos verificar la medición detallada antes de la compra
 - Falda de tres capas, las primeras dos de gasas y la interior de forro de mallas
+- Cierre con cremallera oculta a la espalda, cinta de cintura atada detrás. La cintura está decorada con un broche de flor, que hace este vestido ser más elegante. La cremallera oculta se usa los materiales ecológicos de alta calidad, es práctica y hermosa. Es adecuada para el uso diario y las ocasiones especiales, tales como la fiesta de boda, la celebración de días festivos, la ceremonia, el bautismo, la fiesta de cumpleaños, el desfile y etc.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01JGBSWPI/?tag=tolees-21)
