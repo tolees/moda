@@ -25,10 +25,10 @@ Ahora mismo tienes [G-STAR RAW Whistler HDD Puffer Chaqueta  Dry Red B958-5298  
 
 🔎:
 
-- Capucha desmontable con la parte delantera alzada, visera y cordón ajustable
-- Diseño acolchado
 - Whistler - sujetador con capucha
 - Lavar a maquina
+- Diseño acolchado
 - Bolsillos verticales con ribete y cierre de botón a presión
+- Capucha desmontable con la parte delantera alzada, visera y cordón ajustable
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B084R2GP2L/?tag=tolees-21)
