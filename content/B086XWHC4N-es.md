@@ -25,8 +25,8 @@ Tienes [FM London 310 Heavyweight Sudadera con capucha  gris  L para Hombre](htt
 
 🔎:
 
-- Forro interior de forro polar cepillado.
-- Tacto suave.
 - Mezcla pesada.
+- Tacto suave.
+- Forro interior de forro polar cepillado.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B086XWHC4N/?tag=tolees-21)

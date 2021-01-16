@@ -25,7 +25,7 @@ Tienes [Vero Moda Vmhot SOYA LS Denim Jacket Mix Noos Chaqueta  Negro  Black Bla
 
 ℹ️:
 
-- chest pockets and little stand-up collar
 - jeans jacket with silver buttons
+- chest pockets and little stand-up collar
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B074ZNXS5Y/?tag=tolees-21)

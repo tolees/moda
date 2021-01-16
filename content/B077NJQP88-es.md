@@ -27,7 +27,7 @@ En este momento está [Lee Luke Vaqueros  Fresh Roig  28W / 30L para Hombre](htt
 
 - Precio mínimo en los 30 días previos a la oferta: 40.27€
 - Presentan 5 bolsillos
-- Tienen un parche de piel en la parte trasera con la marca Lee
 - Vaqueros para hombre
+- Tienen un parche de piel en la parte trasera con la marca Lee
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B077NJQP88/?tag=tolees-21)
