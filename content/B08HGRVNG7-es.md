@@ -25,10 +25,10 @@ Ahora mismo tienes [inlzdz Niñas Pequeñas Ropa Deportiva Crop Top Pantalones L
 
 🔎:
 
+- Tabla de tallas significa rangos de edad para niñas, pero son solo para orientación general
 - El atuendo está hecho de poliéster y material de spandex, lavado a mano, lavable a máquina
 - Leggings largos a juego con cinturilla elástica. Todo estampado con estampado de camuflaje. Conjunto de ropa deportiva de moda y con estilo para tu chica
-- Adecuado para ejercicio, fitness, danza, gimnasia, ballet, representaciones teatrales, etc
 - Top corto sin mangas, escote redondo, espalda nadadora, cierre de tirón. Tejido elástico, cómodo y transpirable de llevar
-- Tabla de tallas significa rangos de edad para niñas, pero son solo para orientación general
+- Adecuado para ejercicio, fitness, danza, gimnasia, ballet, representaciones teatrales, etc
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08HGRVNG7/?tag=tolees-21)

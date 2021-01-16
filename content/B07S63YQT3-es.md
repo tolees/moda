@@ -25,8 +25,8 @@ En este momento está [Crocs Crocband  Zuecos Unisex Adulto  Amarillo  Lemon/Whi
 
 🔎:
 
-- Chanclas Tiempo libre y sportwear Unisex Adulto
-- Calzado crocs
 - Crocband (11016)
+- Calzado crocs
+- Chanclas Tiempo libre y sportwear Unisex Adulto
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07S63YQT3/?tag=tolees-21)
