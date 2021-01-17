@@ -25,7 +25,7 @@ Ahora mismo tienes [G-STAR RAW 3301 Straight Denim C Chaqueta  Azul  Worn in Dee
 
 🔎:
 
-- Straight Fit
 - Nuestra colecci\u00F3n de abrigos y chaquetas est\u00E1 compuesta por prendas atemporales que combinan la inspiraci\u00F3n cl\u00E1sica con la innovaci\u00F3n moderna.
+- Straight Fit
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07VLHKXXC/?tag=tolees-21)

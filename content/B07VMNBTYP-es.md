@@ -25,7 +25,7 @@ Ahora mismo tienes [G-STAR RAW Lynn 2-Zip Mid Waist Skinny Ankle Vaqueros  Negro
 
 🔎:
 
-- Our skinny jeans are feminine and flattering.
 - Modern and feminine take on the classic 5-pocket jean.
+- Our skinny jeans are feminine and flattering.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07VMNBTYP/?tag=tolees-21)

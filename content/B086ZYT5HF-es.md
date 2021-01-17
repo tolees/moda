@@ -25,8 +25,8 @@ Tienes [Jersey Jack&Jones Hombre S Naranja 12168065 JORFLOW Knit Crew Neck ZA Mo
 
 ℹ️:
 
-- Jersey de manga larga de color naranja. Cuello redondo.
 - Modelo: 12168065 JORFLOW KNIT CREW NECK ZA MOCHA BISQUE
+- Jersey de manga larga de color naranja. Cuello redondo.
 - Marca: Jack&Jones
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B086ZYT5HF/?tag=tolees-21)
