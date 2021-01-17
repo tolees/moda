@@ -26,7 +26,7 @@ Tienes [Lee Rider Vaqueros Slim  Azul  Lt Vintage Worn LP   36W / 34L para Hombr
 🔎:
 
 - Tienen un parche de piel en la parte trasera con la marca Lee
-- De algodón muy suave
 - Cinco bolsillos
+- De algodón muy suave
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07VMV1CB4/?tag=tolees-21)

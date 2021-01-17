@@ -25,10 +25,10 @@ Está [Pareja Pijamas Mujer Elefante Algodón Blanco Moda Tops Pantalones Cortos
 
 ℹ️:
 
+- El paquete incluye: camisetas + pantalones cortos.
 - Consulte la tabla grande antes de comprar.
-- Tejido suave y cómodo.
 - Lavable en la lavadora.
 - La propiedad de la marca registrada es propiedad de Germinate.
-- El paquete incluye: camisetas + pantalones cortos.
+- Tejido suave y cómodo.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07PP6VN1C/?tag=tolees-21)
