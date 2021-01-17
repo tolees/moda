@@ -25,10 +25,10 @@ Ahora mismo tienes [Adidas TABELA 18 JSY Camiseta de Manga Corta  Hombre  Bold B
 
 🔎:
 
-- 3-stripes on the shoulders
-- Climalite wicks sweat away from the skin away
-- Regular fit
 - V-neck
+- 3-stripes on the shoulders
+- Regular fit
 - Small logo on the front
+- Climalite wicks sweat away from the skin away
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0779DB7WY/?tag=tolees-21)

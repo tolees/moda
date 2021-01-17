@@ -25,9 +25,9 @@ Ahora mismo tienes [Superdry Orange Label Vntge Emb S/s tee Camiseta  Gris  Flin
 
 🔎:
 
-- Tiene un tejido ligero y suave
-- Adecuada para el uso diario
 - Pequeño logo estampado en el pecho
+- Adecuada para el uso diario
+- Tiene un tejido ligero y suave
 - Las prendas de Superdry son fabricadas con un adecuado balance entre estilo y confort; recomendamos una talla superior a la que emplea habitualmente para una auténtica experiencia Superdry
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07FL5GF7Y/?tag=tolees-21)
