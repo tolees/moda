@@ -25,8 +25,8 @@ Ahora mismo tienes [TWBB Sudadera para Hombre Abrigo de la Chaqueta de la Cremal
 
 🔎:
 
-- Nota: Seleccione el tamaño de acuerdo con el cuadro de tamaño en la imagen antes de realizar un pedido. Si sus medidas se encuentran entre dos tamaños, seleccione el tamaño más grande.
 - Su suave tejido de algodón hará que resulte cómoda en todas las épocas del año, te protegerá del frío en invierno
+- Nota: Seleccione el tamaño de acuerdo con el cuadro de tamaño en la imagen antes de realizar un pedido. Si sus medidas se encuentran entre dos tamaños, seleccione el tamaño más grande.
 - Estación: adecuado para primavera, otoño e invierno. Es cálido y cómodo.
 - El tiempo de entrega suele tardar 8 ~ 15 días o menos. Por favor ignore el de Amazon. Pero el transporte acelerado puede llegar en cinco días.
 - Garantizamos el 100% a estrenar de la condición y los mejores materiales .--- Ventas directas de fábrica: el precio más bajo en Amazon.
