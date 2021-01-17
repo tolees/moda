@@ -25,11 +25,11 @@ En este momento está [GEOX B KAYTAN B DK PINK Baby Girls  First Walking Shoes S
 
 🔎:
 
-- Revestimiento: Cuero
-- Material de la suela: Caucho
-- Altura del tacón: 1.5 centímetros
 - Tipo de talla: Los zapatos Geox son holgados
 - Cierre: Velcro
 - Material exterior: Cuero
+- Altura del tacón: 1.5 centímetros
+- Material de la suela: Caucho
+- Revestimiento: Cuero
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0825PNGN3/?tag=tolees-21)
