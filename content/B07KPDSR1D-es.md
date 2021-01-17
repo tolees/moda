@@ -25,10 +25,10 @@ Está [Columbia Buck Butte Chaqueta Aislante con Capucha para Hombre  Gris  Negr
 
 ℹ️:
 
-- Los bolsillos con cremallera para las manos te dan versatilidad Mantén tus manos calientes cuando lo necesites o guarda tu teléfono y otros accesorios sin temor a que se caigan
-- Chaqueta con aislamiento de plumón sintético para hombre, un elemento imprescindible para cada armario de invierno
-- Capucha y mentonera integradas y ajustables para mayor protección contra los elementos, Ajuste óptimo gracias al dobladillo ajustable con cordón
 - Tejido resistente al agua que te protege de los chubascos y la niebla, Ajuste óptimo gracias al dobladillo ajustable con cordón
+- Los bolsillos con cremallera para las manos te dan versatilidad Mantén tus manos calientes cuando lo necesites o guarda tu teléfono y otros accesorios sin temor a que se caigan
+- Capucha y mentonera integradas y ajustables para mayor protección contra los elementos, Ajuste óptimo gracias al dobladillo ajustable con cordón
 - Contenido: 1x Columbia Buck Butte Chaqueta aislante con capucha para hombre, Exterior: Shadow Ripstop 100% nailon; Forro: 100% poliéster; Aislamiento: plumón sintético 100% poliéster, Color: Gris, Negro (Graphite, Black), Talla: M, Art.No 1799182
+- Chaqueta con aislamiento de plumón sintético para hombre, un elemento imprescindible para cada armario de invierno
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07KPDSR1D/?tag=tolees-21)
