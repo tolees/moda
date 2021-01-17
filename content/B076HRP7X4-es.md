@@ -25,8 +25,8 @@ Tienes [adidas CORE18 PES JKT Chaqueta de Deporte  Hombre  Azul  Azul Claro/Blan
 
 🔎:
 
-- Cuello altamente cerrable
 - Material 100% poliéster
+- Cuello altamente cerrable
 - Puños con puños elásticos
 - Chaqueta con bolsillos con cremallera
 
