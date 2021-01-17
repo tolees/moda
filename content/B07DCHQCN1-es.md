@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nike Blazer Low Le  Zapatos de Baloncest al 60.04 % de descuento'
-date: 2021-01-14 12:56:50
+date: 2021-01-17 14:29:59
 image: 'https://m.media-amazon.com/images/I/31gof92FIOL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DCHQCN1/?tag=tolees-21'
 descuento: '60.04'
-average: '40.455'
+average: '38.95666666666666'
 ---
 
 Está [Nike Blazer Low Le  Zapatos de Baloncesto Hombre  Blanco  White/White/White 100   40 EU](https://www.amazon.es/dp/B07DCHQCN1/?tag=tolees-21) con 60.04 de descuento por 35.96 EUR (original: 90.0 EUR) en el siguiente enlace!
