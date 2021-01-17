@@ -25,8 +25,8 @@ Ahora mismo tienes [adidas Core 18 Hoody Sudadera con Capucha  Hombre  Yellow/Bl
 
 🔎:
 
-- Manga raglán
-- Puños y dobladillo de canalé
 - Capucha con cordón ajustable
+- Puños y dobladillo de canalé
+- Manga raglán
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07XBM6P7F/?tag=tolees-21)
