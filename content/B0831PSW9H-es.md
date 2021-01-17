@@ -25,10 +25,10 @@ Tienes [Canadian Peak Parka Mujer BANINA Rosa Viejo 01](https://www.amazon.es/dp
 
 🔎:
 
-- Media cremallera y capucha fija
-- Bolsillo tipo canguro en la zona delantera
-- Insignias y bordados de la marca
-- Abertura en cremallera en el lateral
 - Cordón ajustable en la cintura
+- Media cremallera y capucha fija
+- Insignias y bordados de la marca
+- Bolsillo tipo canguro en la zona delantera
+- Abertura en cremallera en el lateral
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0831PSW9H/?tag=tolees-21)
