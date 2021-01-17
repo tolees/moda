@@ -25,8 +25,8 @@ Está [Hackett London Garment Dye Ln BS Camisa  Amarillo  009pale Yellow 009   3
 
 ℹ️:
 
-- Lino
 - manga larga
 - Corte estándar
+- Lino
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07VPBLZZ1/?tag=tolees-21)
