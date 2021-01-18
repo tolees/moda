@@ -25,8 +25,8 @@ Ahora mismo tienes [Levi s 724 High Rise Straight Vaqueros  Bogota Sass  29W / 2
 
 🔎:
 
-- Con tejido elástico desarrollada para esculpir la silueta
-- Tienen una parche de cuero en la parte posterior de la cintura
 - Vaqueros para mujer
+- Tienen una parche de cuero en la parte posterior de la cintura
+- Con tejido elástico desarrollada para esculpir la silueta
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07ZVRZKSS/?tag=tolees-21)
