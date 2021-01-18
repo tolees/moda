@@ -1,29 +1,34 @@
 ---
 layout: post
-title: 'Helly Hansen Daybreaker Chaqueta Forro P al 32.16 % de descuento'
-date: 2020-04-23 16:12:35
+title: 'Helly Hansen Daybreaker Chaqueta Forro P al 27.17 % de descuento'
+date: 2021-01-18 20:46:37
 image: 'https://m.media-amazon.com/images/I/31ruDqQIEoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07LBHJSNJ-es'
-actualPrice: 47.49 EUR
+actualPrice: 50.98 EUR
 currency: EUR
-price: 47.49
+price: 50.98
 comparePrice: 70.0 EUR
 prodname: 'Helly Hansen Daybreaker Chaqueta Forro Polar con Capucha  Unisex Adulto  Black  L'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07LBHJSNJ/?tag=tolees-21'
-descuento: '32.16'
-average: '47.49'
+descuento: '27.17'
+average: '49.81666666666666'
 ---
 
-Ahora mismo tienes [Helly Hansen Daybreaker Chaqueta Forro Polar con Capucha  Unisex Adulto  Black  L](https://www.amazon.es/dp/B07LBHJSNJ/?tag=tolees-21) a 47.49 EUR (original: 70.0 EUR) (32.16 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Helly Hansen Daybreaker Chaqueta Forro Polar con Capucha  Unisex Adulto  Black  L](https://www.amazon.es/dp/B07LBHJSNJ/?tag=tolees-21) a 50.98 EUR (original: 70.0 EUR) (27.17 %  de descuento) en el siguiente enlace!
 
 [![Helly Hansen Daybreaker Chaqueta Forro P](https://m.media-amazon.com/images/I/31ruDqQIEoL._SL200_.jpg)](https://www.amazon.es/dp/B07LBHJSNJ/?tag=tolees-21)
 
 🔎:
 
+- Bobina YKK bolsillos para las manos con cremallera
+- Polartec reciclado de 100 g proporciona calor sin peso, transpirabilidad y se seca rápidamente
+- Cierre frontal de cremallera completa YKK
+- Costuras planas para mayor volumen y junto al confort de la piel.
+- Logo bordado HH en el pecho.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07LBHJSNJ/?tag=tolees-21)
