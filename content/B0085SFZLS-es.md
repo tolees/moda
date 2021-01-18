@@ -25,10 +25,10 @@ Tienes [Jack & Jones Jones - Camiseta de Manga Corta con Cuello Pico para Hombre
 
 ℹ️:
 
+- Jack & Jones Plain V Neck T-Shirts
+- Picture Shows The White T Shirts
+- New Seasons Style
 - Good Quality Tee
 - Slim Fit
-- Picture Shows The White T Shirts
-- Jack & Jones Plain V Neck T-Shirts
-- New Seasons Style
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0085SFZLS/?tag=tolees-21)
