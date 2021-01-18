@@ -25,9 +25,9 @@ En este momento está [G-STAR RAW Revend Skinny Vaqueros  Dk Aged 6590-89  29W /
 
 🔎:
 
-- Paneles en la parte interior de las perneras
-- Talle bajo
 - Construcción con cinco bolsillos
+- Talle bajo
+- Paneles en la parte interior de las perneras
 - Ajustados en la cadera y pernera más amplia
 - Costuras con forma en la parte interior de la rodilla
 
