@@ -25,10 +25,10 @@ Tienes [Joma Sudadera Faraon Marino Media Cremallera  Hombres  Marino-300  M](ht
 
 🔎:
 
-- Puños y bajo acanalados para garantizar la comodidad y la practicidad.
-- Logotipo de Joma en la parte derecha del pecho.
 - Talla del pecho: pequeña: 86-94 cm, mediana: 94-102 cm, grande: 102-110 cm, XL: 110-114 cm, XXL: 114 cm.
+- Puños y bajo acanalados para garantizar la comodidad y la practicidad.
 - Mayores resistencia a las arrugas, durabilidad y retención del color; perfecta para practicar deporte.
+- Logotipo de Joma en la parte derecha del pecho.
 - Cremallera de un cuarto para cerrar o abrir la sudadera en función del aire.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0107S4ANC/?tag=tolees-21)
