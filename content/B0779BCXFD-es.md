@@ -25,7 +25,7 @@ Tienes [adidas Ask SPRT LST M Camiseta de Manga Larga  Hombre  Dark Blue](https:
 
 🔎:
 
-- adulto
 - Azul
+- adulto
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0779BCXFD/?tag=tolees-21)
