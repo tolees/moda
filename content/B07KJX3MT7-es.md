@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Columbia Peakfreak Venture Waterproof  Z al 50.00 % de descuento'
-date: 2021-01-16 16:23:13
+date: 2021-01-18 05:38:27
 image: 'https://m.media-amazon.com/images/I/41en48AknwL._SL200_.jpg'
 comments: true
 category: ofertas
