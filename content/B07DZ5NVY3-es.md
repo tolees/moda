@@ -25,10 +25,10 @@ En este momento está [Columbia Horizon Explorer  Chaqueta térmica con capucha 
 
 🔎:
 
-- Los bolsillos con cremallera te dan versatilidad Mantén tus manos calientes cuando lo necesites o guarda tu teléfono y otros accesorios sin temor a que se caigan
-- Tejido resistente al agua que te protege de los chubascos y la niebla, Ajuste óptimo gracias al dobladillo ajustable con cordón
 - La tecnología reflectante Omni-Heat de la chaqueta ofrece un mayor aislamiento para mantenerte caliente incluso en los días más fríos
 - Contenido: 1x Columbia Horizon Explorer Chaqueta con capucha para hombre, Exterior: 100% poliéster; Forro: Forro reflectante Omni-Heat 100% poliéster; Aislamiento: Thermarator 100% poliéster, Color: Negro, Talla: M, Art.No 1803931
+- Los bolsillos con cremallera te dan versatilidad Mantén tus manos calientes cuando lo necesites o guarda tu teléfono y otros accesorios sin temor a que se caigan
+- Tejido resistente al agua que te protege de los chubascos y la niebla, Ajuste óptimo gracias al dobladillo ajustable con cordón
 - Chaqueta ligera para hombre con capucha ajustable, optimo para pasear por la ciudad o descubrir nuevas rutas de senderismo
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07DZ5NVY3/?tag=tolees-21)

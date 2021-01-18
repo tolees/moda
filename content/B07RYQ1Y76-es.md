@@ -25,8 +25,8 @@ Está [Relojes para Hombres LIGE Acero Inoxidable Impermeable Reloj Analógico d
 
 ℹ️:
 
-- Banda de malla cómoda: la banda de malla con hebilla de gancho, cómoda en la muñeca. Con la herramienta de enlace del reloj, puede ajustar fácilmente la longitud de la banda. Diámetro del dial: 44 mm; Grosor del dial: 12 mm; Ancho de banda: 22 mm; Longitud de banda: 25,5 cm
 - Estilo casual de moda: el reloj para hombre cuenta con una bonita esfera azul, calendario, esfera de cristal mineral de gran dureza; la banda de malla brinda una experiencia de uso cómoda.
+- Banda de malla cómoda: la banda de malla con hebilla de gancho, cómoda en la muñeca. Con la herramienta de enlace del reloj, puede ajustar fácilmente la longitud de la banda. Diámetro del dial: 44 mm; Grosor del dial: 12 mm; Ancho de banda: 22 mm; Longitud de banda: 25,5 cm
 - Material del reloj: movimiento de cuarzo japonés, cronometraje preciso, caja de acero inoxidable y cara de cristal resistente a los arañazos que lo hacen muy duradero
 - El mejor servicio: 100% nuevo, 24 meses de garantía, 30 días de devolución de dinero, cualquier problema con el reloj, no dude en contactarnos
 - 3ATM/30M Resistente al agua: en general, soporta salpicaduras o una inmersión breve en el agua, pero no es adecuado para bañarse. No presione ningún botón en el agua
