@@ -25,7 +25,7 @@ Está [Abanderado ASA040Y  Camiseta X-Temp con Manga larga para Hombre  Blanco  
 
 ℹ️:
 
-- Lavar adecuado 30º, no usar lejía, no usar secadora
 - Planchado max 150º, no limpieza en seco
+- Lavar adecuado 30º, no usar lejía, no usar secadora
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0797M1RHB/?tag=tolees-21)

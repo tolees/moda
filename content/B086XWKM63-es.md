@@ -25,8 +25,8 @@ En este momento está [FM London 310 Heavyweight Sudadera con capucha  gris  M p
 
 🔎:
 
-- Mezcla pesada.
-- Tacto suave.
 - Forro interior de forro polar cepillado.
+- Tacto suave.
+- Mezcla pesada.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B086XWKM63/?tag=tolees-21)
