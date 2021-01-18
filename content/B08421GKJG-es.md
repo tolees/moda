@@ -25,8 +25,8 @@ Está [Tommy Hilfiger Tommy Regular Polo LS Camisa  Desert Sky  M para Hombre](h
 
 ℹ️:
 
-- Tommy Hilfiger Azul Polo regular de manga larga
 - A estrenar y genuina. Somos un vendedor autorizado de Tommy Hilfiger.
 - Ver descripción del producto para obtener más información.
+- Tommy Hilfiger Azul Polo regular de manga larga
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08421GKJG/?tag=tolees-21)
