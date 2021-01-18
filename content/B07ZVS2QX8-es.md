@@ -25,8 +25,8 @@ En este momento está [Levi s 724 High Rise Straight Vaqueros  Bogota Sass  26W 
 
 🔎:
 
-- Vaqueros para mujer
 - Tienen una parche de cuero en la parte posterior de la cintura
+- Vaqueros para mujer
 - Con tejido elástico desarrollada para esculpir la silueta
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07ZVS2QX8/?tag=tolees-21)
