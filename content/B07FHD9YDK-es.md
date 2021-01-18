@@ -25,8 +25,8 @@ Tienes [Helly Hansen HP Racing Chaqueta  Hombre  Gris  M](https://www.amazon.es/
 
 🔎:
 
-- Helly Tech Performance Impermeable, cortaviento y transpirable Fabricación con tejido de 2 capas Costuras totalmente selladas Tratamiento de resistencia al agua duradera (DWR)
 - De alta calidad.
+- Helly Tech Performance Impermeable, cortaviento y transpirable Fabricación con tejido de 2 capas Costuras totalmente selladas Tratamiento de resistencia al agua duradera (DWR)
 - De la marca Helly Hansen.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07FHD9YDK/?tag=tolees-21)

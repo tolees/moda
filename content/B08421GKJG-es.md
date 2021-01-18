@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tommy Hilfiger Tommy Regular Polo LS Cam al 51.19 % de descuento'
-date: 2021-01-15 18:00:12
+date: 2021-01-18 08:54:32
 image: 'https://m.media-amazon.com/images/I/31HDnM4B0RL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,8 +25,8 @@ Está [Tommy Hilfiger Tommy Regular Polo LS Camisa  Desert Sky  M para Hombre](h
 
 ℹ️:
 
-- Ver descripción del producto para obtener más información.
 - Tommy Hilfiger Azul Polo regular de manga larga
+- Ver descripción del producto para obtener más información.
 - A estrenar y genuina. Somos un vendedor autorizado de Tommy Hilfiger.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08421GKJG/?tag=tolees-21)
