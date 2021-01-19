@@ -26,7 +26,7 @@ Tienes [Lee Luke Vaqueros  Danish Qn  31W / 32L para Hombre](https://www.amazon.
 🔎:
 
 - Presentan 5 bolsillos
-- Vaqueros para hombre
 - Tienen un parche de piel en la parte trasera con la marca Lee
+- Vaqueros para hombre
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07CQ3DN9N/?tag=tolees-21)
