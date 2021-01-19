@@ -25,8 +25,8 @@ Está [CATWALK COLLECTION - ABBEY ROAD - Bolso bandolera - Cuero - Blanco](https
 
 ℹ️:
 
-- INCLUIDO: Cada bolso viene con el icónico logo del gato en forma de colgante para el bolso, y viene con su propia funda antipolvo.
 - MAGNÍFICO BOLSO BANDOLERA DE DISEÑADOR EN TONOS OSCUROS Y CUERO DESGASTADO.
+- INCLUIDO: Cada bolso viene con el icónico logo del gato en forma de colgante para el bolso, y viene con su propia funda antipolvo.
 - DIMENSIONES DEL PRODUCTO: Al </b>22 cm,<b> An </b>30 cm, <b>P </b>2 cm<b></b><b> </b> <b> , CORREA DE HOMBRO AJUSTABLE: </b>161 cm
 - INTERIORES: 1 compartimento principal + 1 bolsillo interior lateral con cremallera + 1 bolsillo para el móvil + 1 bolsillo para iPhone + 1 bolsillo exterior posterior con cremallera
 - HERRAJES: Latón envejecido.

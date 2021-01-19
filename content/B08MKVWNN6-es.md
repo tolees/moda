@@ -25,8 +25,8 @@ Está [Geographical Norway Parka BOOMERANG hombre AZUL ELÉCTRICO talla L](https
 
 ℹ️:
 
-- pelo destomtable
 - Capucha
+- pelo destomtable
 - Chaqueta de hombre
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08MKVWNN6/?tag=tolees-21)

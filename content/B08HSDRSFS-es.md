@@ -25,10 +25,10 @@ En este momento está [Jack & Jones JCODEFENDER Sweat Hood FST Sudadera con Capu
 
 🔎:
 
-- Sudadera con capucha
-- Cordón de ajuste en la capucha
 - Logotipo impreso en la parte delantera
 - Puños de punto en la cintura
+- Cordón de ajuste en la capucha
+- Sudadera con capucha
 - Mangas largas con puños de punto
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08HSDRSFS/?tag=tolees-21)
