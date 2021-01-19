@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N18ZMDF-es G-STAR RAW 3301 Slim Fit Jeans Vaqueros Antic Charcoal 25W...'
-tags: [ 'tole.es','vaqueros', ]
+tags: [ 'vaqueros', ]
 actualPrice: 14.88 EUR
 currency: EUR
 price: 14.88

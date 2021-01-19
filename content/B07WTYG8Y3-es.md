@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WTYG8Y3-es Vgo... 2Pares Guantes de Cuero de Cabra para Senderismo...'
-tags: [ 'tole.es','guantes', ]
+tags: [ 'guantes', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

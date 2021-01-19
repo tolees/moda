@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RZ2D4C1-es BILLABONG Bus Stop Jacket Chaqueta Deportiva Hombre Negro...'
-tags: [ 'tole.es','chaqueta', ]
+tags: [ 'chaqueta', ]
 actualPrice: 41.52 EUR
 currency: EUR
 price: 41.52

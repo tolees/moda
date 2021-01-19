@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005CTTWLW-es Schott NYC Lc1380 Chaqueta Negro Black Taille Fabricant:...'
-tags: [ 'tole.es','chaqueta', ]
+tags: [ 'chaqueta', ]
 actualPrice: 213.0 EUR
 currency: EUR
 price: 213.0

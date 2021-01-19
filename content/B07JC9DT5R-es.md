@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JC9DT5R-es Timberland Davis Square Alpine Oxford Zapatillas Unisex-...'
-tags: [ 'tole.es','timberland', ]
+tags: [ 'timberland', ]
 actualPrice: 14.84 EUR
 currency: EUR
 price: 14.84

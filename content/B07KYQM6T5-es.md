@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KYQM6T5-es Springfield 5DS Polo Oxford Liso Jersey Gama Azules 11...'
-tags: [ 'tole.es','jersey', ]
+tags: [ 'jersey', ]
 actualPrice: 8.69 EUR
 currency: EUR
 price: 8.69

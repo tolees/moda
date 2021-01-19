@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y9W19TF-es edc by Esprit 129cc1k040 Camisa Manga Larga Gris Light...'
-tags: [ 'tole.es','camisa', ]
+tags: [ 'camisa', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

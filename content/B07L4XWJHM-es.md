@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L4XWJHM-es Charles Wilson Camisa Franela de Cuadros Manga Larga para...'
-tags: [ 'tole.es','camisa', ]
+tags: [ 'camisa', ]
 actualPrice: 16.95 EUR
 currency: EUR
 price: 16.95

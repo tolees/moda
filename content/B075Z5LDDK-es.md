@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075Z5LDDK-es Vero Moda Vmhot Nine HW Dnm Pencil Skirt Mix Noos Falda...'
-tags: [ 'tole.es','falda','moda', ]
+tags: [ 'falda','moda', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

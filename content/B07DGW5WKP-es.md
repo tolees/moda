@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DGW5WKP-es Biwat Plantillas de Zapatos con Tacón Alto T-forma...'
-tags: [ 'tole.es','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 4.86 EUR
 currency: EUR
 price: 4.86

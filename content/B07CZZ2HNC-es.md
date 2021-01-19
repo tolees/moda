@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CZZ2HNC-es Under Armour UA Qualifier Speedpocket 7 Short Pantalón...'
-tags: [ 'tole.es','pantalón', ]
+tags: [ 'pantalón', ]
 actualPrice: 19.49 EUR
 currency: EUR
 price: 19.49

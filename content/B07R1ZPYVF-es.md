@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R1ZPYVF-es Under Armour UNDKU I Will Multi Camisa Manga Corta Hombre...'
-tags: [ 'tole.es','camisa', ]
+tags: [ 'camisa', ]
 actualPrice: 15.97 EUR
 currency: EUR
 price: 15.97

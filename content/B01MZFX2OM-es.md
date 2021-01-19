@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MZFX2OM-es Crocs Athens Chanclas Unisex Adulto Marrón Espresso/Walnut...'
-tags: [ 'tole.es','chanclas', ]
+tags: [ 'chanclas', ]
 actualPrice: 6.24 EUR
 currency: EUR
 price: 6.24

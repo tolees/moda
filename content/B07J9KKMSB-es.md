@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J9KKMSB-es Columbia Carson Pass Chaqueta Interchange Mujer Azul Dark...'
-tags: [ 'tole.es','chaqueta', ]
+tags: [ 'chaqueta', ]
 actualPrice: 66.34 EUR
 currency: EUR
 price: 66.34

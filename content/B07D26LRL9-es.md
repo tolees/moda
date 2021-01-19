@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D26LRL9-es Aibrou Camisón Mujer Sexy Algodón Encaje Tirantes Pijama...'
-tags: [ 'tole.es','pijama', ]
+tags: [ 'pijama', ]
 actualPrice: 13.59 EUR
 currency: EUR
 price: 13.59

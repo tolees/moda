@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FNWJDYC-es JACK & JONES Jjiliam Jjoriginal JJ 104 50sps Noos Vaqueros...'
-tags: [ 'tole.es','vaqueros', ]
+tags: [ 'vaqueros', ]
 actualPrice: 19.27 EUR
 currency: EUR
 price: 19.27

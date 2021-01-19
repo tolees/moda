@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFYWN1J-es Geox D Nebula 4 X 4 B ABX A Botas Chukka para Mujer Azul...'
-tags: [ 'tole.es','geox', ]
+tags: [ 'geox', ]
 actualPrice: 23.41 EUR
 currency: EUR
 price: 23.41

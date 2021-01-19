@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GWX3TNS-es Geox D Yuki A Mocasines para Mujer Grau...'
-tags: [ 'tole.es','geox', ]
+tags: [ 'geox', ]
 actualPrice: 49.95 EUR
 currency: EUR
 price: 49.95

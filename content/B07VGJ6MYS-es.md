@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VGJ6MYS-es JACK & JONES Jcoglobe Parka Verde Forest Night Forest...'
-tags: [ 'tole.es','parka', ]
+tags: [ 'parka', ]
 actualPrice: 24.0 EUR
 currency: EUR
 price: 24.0

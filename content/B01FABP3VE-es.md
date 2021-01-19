@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01FABP3VE-es Under Armour UA Raid 8 Shorts pantalón Corto Hombre Blanco SM'
-tags: [ 'tole.es','pantalón', ]
+tags: [ 'pantalón', ]
 actualPrice: 13.41 EUR
 currency: EUR
 price: 13.41

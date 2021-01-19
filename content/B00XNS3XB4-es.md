@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XNS3XB4-es Pepe Jeans Venus Vaqueros Azul 10Oz Rinse Plus M15 28W /...'
-tags: [ 'tole.es','vaqueros', ]
+tags: [ 'vaqueros', ]
 actualPrice: 48.49 EUR
 currency: EUR
 price: 48.49

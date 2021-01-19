@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D6MRFKY-es Crocs Literide Flip Chanclas Unisex Adulto Azul Ice...'
-tags: [ 'tole.es','chanclas', ]
+tags: [ 'chanclas', ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

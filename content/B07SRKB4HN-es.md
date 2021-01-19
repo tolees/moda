@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SRKB4HN-es Geox D AIRELL A Zapatillas para Mujer Azul Navy C4002 38 EU'
-tags: [ 'tole.es','geox', ]
+tags: [ 'geox', ]
 actualPrice: 52.13 EUR
 currency: EUR
 price: 52.13

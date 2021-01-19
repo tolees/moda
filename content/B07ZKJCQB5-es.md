@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZKJCQB5-es Gafas de Natación Antiniebla Protección UV Sin Fugas Gafas...'
-tags: [ 'tole.es','gafas', ]
+tags: [ 'gafas', ]
 actualPrice: 10.7 EUR
 currency: EUR
 price: 10.7

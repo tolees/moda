@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KGSDZR5-es edc by Esprit 999cc2k803 Camiseta Rojo Red 630 X-Large...'
-tags: [ 'tole.es','camiseta', ]
+tags: [ 'camiseta', ]
 actualPrice: 4.49 EUR
 currency: EUR
 price: 4.49

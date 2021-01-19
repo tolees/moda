@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QSVXMYL-es DC Comics Camiseta de Manga Corta para niños Shazam Negro...'
-tags: [ 'tole.es','camiseta', ]
+tags: [ 'camiseta', ]
 actualPrice: 8.95 EUR
 currency: EUR
 price: 8.95

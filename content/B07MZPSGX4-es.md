@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZPSGX4-es Pepe Jeans Mada Camiseta Grey Marl 933 Large para Mujer'
-tags: [ 'tole.es','camiseta', ]
+tags: [ 'camiseta', ]
 actualPrice: 9.06 EUR
 currency: EUR
 price: 9.06

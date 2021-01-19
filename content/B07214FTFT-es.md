@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07214FTFT-es Marca Amazon - find. Camisa Hombre Azul Navy L Label: L'
-tags: [ 'tole.es','camisa','-','find.', ]
+tags: [ 'camisa','-','find.', ]
 actualPrice: 7.02 EUR
 currency: EUR
 price: 7.02

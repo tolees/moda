@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M5DGF28-es Lee CAROL Vaqueros straight Mujer Azul Dark Garner Uv W32/L33'
-tags: [ 'tole.es','vaqueros', ]
+tags: [ 'vaqueros', ]
 actualPrice: 23.4 EUR
 currency: EUR
 price: 23.4

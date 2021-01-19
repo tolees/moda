@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0876TGZ2H-es Bebé Mono Mameluco de Manga Larga Niños Niñas Body Peleles...'
-tags: [ 'tole.es','pijama', ]
+tags: [ 'pijama', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

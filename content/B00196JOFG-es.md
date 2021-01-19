@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00196JOFG-es Dr. Martens 1461 Zapatos de cordones para Hombre Rojo...'
-tags: [ 'tole.es','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 81.7 EUR
 currency: EUR
 price: 81.7

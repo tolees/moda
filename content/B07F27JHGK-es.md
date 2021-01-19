@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F27JHGK-es Levi s Big and Tall B&t Graphic tee Camiseta Blanco Big...'
-tags: [ 'tole.es','camiseta', ]
+tags: [ 'camiseta', ]
 actualPrice: 12.5 EUR
 currency: EUR
 price: 12.5

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076HR38KY-es adidas Core18 tee Camiseta de Manga Corta Hombre Dark...'
-tags: [ 'tole.es','camiseta', ]
+tags: [ 'camiseta', ]
 actualPrice: 14.8 EUR
 currency: EUR
 price: 14.8

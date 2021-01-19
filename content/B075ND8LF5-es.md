@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075ND8LF5-es Air Zapatillas de Running para Hombre Mujer Zapatos para...'
-tags: [ 'tole.es','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

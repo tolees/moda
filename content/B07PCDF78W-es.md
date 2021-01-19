@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PCDF78W-es Wrangler LS Western Shirt Camisa Negro Black 100 Small...'
-tags: [ 'tole.es','camisa', ]
+tags: [ 'camisa', ]
 actualPrice: 16.13 EUR
 currency: EUR
 price: 16.13

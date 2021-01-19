@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFDXB86-es Levi s Housemark Graphic tee Camiseta Gris Hm Outline Mid...'
-tags: [ 'tole.es','camiseta', ]
+tags: [ 'camiseta', ]
 actualPrice: 14.5 EUR
 currency: EUR
 price: 14.5

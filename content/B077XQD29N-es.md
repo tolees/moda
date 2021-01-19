@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077XQD29N-es Under Armour UNDKU Coldgear Armour Camisa De Manga Larga...'
-tags: [ 'tole.es','camisa', ]
+tags: [ 'camisa', ]
 actualPrice: 24.41 EUR
 currency: EUR
 price: 24.41

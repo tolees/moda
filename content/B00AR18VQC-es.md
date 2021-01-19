@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00AR18VQC-es The North Face McMurdo - Chaqueta Impermeable Hombre Negro...'
-tags: [ 'tole.es','chaqueta', ]
+tags: [ 'chaqueta', ]
 actualPrice: 256.99 EUR
 currency: EUR
 price: 256.99

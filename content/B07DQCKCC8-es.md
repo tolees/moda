@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DQCKCC8-es Khanomak de Mujeres Camiseta de Manga Corta de algodón con...'
-tags: [ 'tole.es','camiseta', ]
+tags: [ 'camiseta', ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

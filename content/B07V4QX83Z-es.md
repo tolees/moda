@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V4QX83Z-es gracosy Botas Nieve Mujer Forro de Piel Invierno...'
-tags: [ 'tole.es','botines','zapatos', ]
+tags: [ 'botines','zapatos', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

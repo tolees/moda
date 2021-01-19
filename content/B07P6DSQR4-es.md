@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P6DSQR4-es Guess - Jones Bolso bandolera Hombre Negro Black 10x30x34...'
-tags: [ 'tole.es','bolso', ]
+tags: [ 'bolso', ]
 actualPrice: 31.81 EUR
 currency: EUR
 price: 31.81

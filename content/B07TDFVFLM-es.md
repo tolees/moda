@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TDFVFLM-es The North Face M Drew Peak Sudadera con Capucha Hombre...'
-tags: [ 'tole.es','sudadera', ]
+tags: [ 'sudadera', ]
 actualPrice: 48.0 EUR
 currency: EUR
 price: 48.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B3NHLWM-es Timberland Perkins Row Toddler Sandalias de Punta...'
-tags: [ 'tole.es','sandalias','timberland', ]
+tags: [ 'sandalias','timberland', ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XD8Z39G-es Zapatos de Hombres Zapatillas de Deportivos Running para...'
-tags: [ 'tole.es','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

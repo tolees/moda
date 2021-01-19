@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PQ88FCZ-es Kipling Alvar Bolso con Bandolera para Mujer Dorado Cloud...'
-tags: [ 'tole.es','bolso', ]
+tags: [ 'bolso', ]
 actualPrice: 58.55 EUR
 currency: EUR
 price: 58.55

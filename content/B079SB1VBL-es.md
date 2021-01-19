@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079SB1VBL-es Marca Amazon - MERAKI Camisa Clásica Entallada de Vestir...'
-tags: [ 'tole.es','camisa','meraki', ]
+tags: [ 'camisa','meraki', ]
 actualPrice: 13.55 EUR
 currency: EUR
 price: 13.55

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071VZ3FGS-es Fossil Collar FS4812IE'
-tags: [ 'tole.es','collar', ]
+tags: [ 'collar', ]
 actualPrice: 68.0 EUR
 currency: EUR
 price: 68.0

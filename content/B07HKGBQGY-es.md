@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HKGBQGY-es Under Armour UA HOVR Havoc 2 Zapatos de Baloncesto para...'
-tags: [ 'tole.es','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 52.19 EUR
 currency: EUR
 price: 52.19

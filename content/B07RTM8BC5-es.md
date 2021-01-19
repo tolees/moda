@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RTM8BC5-es HAWKERS · LACMA · Gold · Gafas de sol para hombre y mujer'
-tags: [ 'tole.es','gafas', ]
+tags: [ 'gafas', ]
 actualPrice: 24.2 EUR
 currency: EUR
 price: 24.2

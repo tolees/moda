@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZGD1PWZ-es Calvin Klein CK Essential Slim tee Camisa Black L para Hombre'
-tags: [ 'tole.es','camisa', ]
+tags: [ 'camisa', ]
 actualPrice: 20.95 EUR
 currency: EUR
 price: 20.95

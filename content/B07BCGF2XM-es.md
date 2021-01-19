@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BCGF2XM-es Tobilleras mujer plata de ley dulce romántico círculos...'
-tags: [ 'tole.es','bikini','vestido', ]
+tags: [ 'bikini','vestido', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

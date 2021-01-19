@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NWXJJMY-es Joma Cairo II Sudadera Hombre Rojo XL'
-tags: [ 'tole.es','sudadera', ]
+tags: [ 'sudadera', ]
 actualPrice: 13.0 EUR
 currency: EUR
 price: 13.0

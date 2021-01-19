@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X2M4GTM-es Dickies Sacramento Relaxed Long Sleeve Shirt Camisa Rojo...'
-tags: [ 'tole.es','camisa', ]
+tags: [ 'camisa', ]
 actualPrice: 25.84 EUR
 currency: EUR
 price: 25.84

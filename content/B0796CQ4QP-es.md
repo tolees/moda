@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0796CQ4QP-es Napapijri Rainforest M Sum 1 Chaqueta Gris Volcano H74...'
-tags: [ 'tole.es','chaqueta', ]
+tags: [ 'chaqueta', ]
 actualPrice: 79.0 EUR
 currency: EUR
 price: 79.0

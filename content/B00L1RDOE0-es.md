@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00L1RDOE0-es Columbia Cascade Explorer Camisa de Manga Corta Hombre...'
-tags: [ 'tole.es','camisa', ]
+tags: [ 'camisa', ]
 actualPrice: 32.7 EUR
 currency: EUR
 price: 32.7

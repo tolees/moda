@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F3XDS78-es SHOBDW Pantalones de Verano Mujeres Shorts Deportivos...'
-tags: [ 'tole.es','moda', ]
+tags: [ 'moda', ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

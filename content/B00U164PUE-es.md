@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00U164PUE-es Anself - 12 colores Conjunto de Pintalabios brillante...'
-tags: [ 'tole.es','moda', ]
+tags: [ 'moda', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

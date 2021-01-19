@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MQVF17F-es Napapijri K TAKY H Sudadera Negro Black 041 8 años para Niños'
-tags: [ 'tole.es','sudadera', ]
+tags: [ 'sudadera', ]
 actualPrice: 25.8 EUR
 currency: EUR
 price: 25.8

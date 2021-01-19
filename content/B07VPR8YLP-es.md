@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VPR8YLP-es Tommy Hilfiger Essential Original tee S/s Camiseta Azul...'
-tags: [ 'tole.es','camiseta', ]
+tags: [ 'camiseta', ]
 actualPrice: 13.86 EUR
 currency: EUR
 price: 13.86

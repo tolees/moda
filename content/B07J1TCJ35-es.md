@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J1TCJ35-es KINTRADE Portatil Lona de Algodón Bolso de Mano Comida...'
-tags: [ 'tole.es','bolso', ]
+tags: [ 'bolso', ]
 actualPrice: 5.04 EUR
 currency: EUR
 price: 5.04

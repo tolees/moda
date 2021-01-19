@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MCSPP6G-es Napapijri Rainforest W WINT 3 Chaqueta Azul BLU Marine 176...'
-tags: [ 'tole.es','chaqueta', ]
+tags: [ 'chaqueta', ]
 actualPrice: 116.23 EUR
 currency: EUR
 price: 116.23

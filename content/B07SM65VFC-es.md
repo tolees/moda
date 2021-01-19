@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SM65VFC-es Vans MN Classic Crew II Sudadera Gris Cement Heather-Black...'
-tags: [ 'tole.es','sudadera', ]
+tags: [ 'sudadera', ]
 actualPrice: 30.0 EUR
 currency: EUR
 price: 30.0

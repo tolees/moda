@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077SSYJ8T-es Puma 655921 05 Camiseta de Manga Larga Infantil Negro Puma...'
-tags: [ 'tole.es','camiseta', ]
+tags: [ 'camiseta', ]
 actualPrice: 16.76 EUR
 currency: EUR
 price: 16.76

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007B9MI0S-es crocs Crocband U Zuecos Unisex Adulto Gris Charcoal-Ocean...'
-tags: [ 'tole.es','zuecos', ]
+tags: [ 'zuecos', ]
 actualPrice: 31.9 EUR
 currency: EUR
 price: 31.9

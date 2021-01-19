@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N17P8QL-es Lee V Neck tee Camiseta Azul Midnight Navy Ma X-Large para...'
-tags: [ 'tole.es','camiseta', ]
+tags: [ 'camiseta', ]
 actualPrice: 12.49 EUR
 currency: EUR
 price: 12.49

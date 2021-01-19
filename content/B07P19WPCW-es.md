@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P19WPCW-es Camper Micro Sandalias con Punta Abierta para Mujer Rosa...'
-tags: [ 'tole.es','sandalias', ]
+tags: [ 'sandalias', ]
 actualPrice: 44.55 EUR
 currency: EUR
 price: 44.55

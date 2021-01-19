@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FSCB385-es Clarks Un Karely Sun Chanclas para Mujer Negro Black...'
-tags: [ 'tole.es','chanclas', ]
+tags: [ 'chanclas', ]
 actualPrice: 39.94 EUR
 currency: EUR
 price: 39.94

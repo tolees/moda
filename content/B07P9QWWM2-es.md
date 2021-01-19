@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P9QWWM2-es ESCATCH - Pantalón de Ropa de Pijama de Verano para...'
-tags: [ 'tole.es','pantalón','pijama', ]
+tags: [ 'pantalón','pijama', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

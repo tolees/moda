@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B013R4MRQA-es Cream Basmalla Cardigan Chaqueta Marrón S para Mujer'
-tags: [ 'tole.es','chaqueta', ]
+tags: [ 'chaqueta', ]
 actualPrice: 11.16 EUR
 currency: EUR
 price: 11.16

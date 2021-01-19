@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N6JSQDQ-es Vero Moda Vmseven NW SS Smooth Coated Pants Noos...'
-tags: [ 'tole.es','moda', ]
+tags: [ 'moda', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

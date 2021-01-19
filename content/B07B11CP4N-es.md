@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B11CP4N-es VAIRO Falda Pantalon Skort Columns Negro/Verde M'
-tags: [ 'tole.es','falda', ]
+tags: [ 'falda', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

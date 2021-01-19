@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VNNFG5W-es Tommy Hilfiger Tjw Soft Jersey tee Ropa Deportiva de Punto...'
-tags: [ 'tole.es','jersey', ]
+tags: [ 'jersey', ]
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

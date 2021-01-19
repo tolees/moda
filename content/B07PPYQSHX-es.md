@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PPYQSHX-es Onnea Paquete 10 Piezas Gafas de Sol de Fiesta 100% de...'
-tags: [ 'tole.es','gafas', ]
+tags: [ 'gafas', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

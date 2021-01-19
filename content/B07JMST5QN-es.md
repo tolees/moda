@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JMST5QN-es Amazon Essentials - Chaqueta de algodón terry de manga...'
-tags: [ 'tole.es','chaqueta', ]
+tags: [ 'chaqueta', ]
 actualPrice: 12.8 EUR
 currency: EUR
 price: 12.8

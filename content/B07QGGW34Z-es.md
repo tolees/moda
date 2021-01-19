@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QGGW34Z-es PUMA Ftblnxt Track Jacket Chaqueta De Entrenamiento Hombre...'
-tags: [ 'tole.es','chaqueta', ]
+tags: [ 'chaqueta', ]
 actualPrice: 17.83 EUR
 currency: EUR
 price: 17.83

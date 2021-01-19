@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PBBZGZK-es Lee Elly Vaqueros Gris Lead Grey 30 24W / 31L para Mujer'
-tags: [ 'tole.es','vaqueros', ]
+tags: [ 'vaqueros', ]
 actualPrice: 18.73 EUR
 currency: EUR
 price: 18.73

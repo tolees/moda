@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0814NGBY8-es Largas Camisetas Vestido Mujer Verano Sexy Encaje Algodón...'
-tags: [ 'tole.es','moda','vestido', ]
+tags: [ 'moda','vestido', ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

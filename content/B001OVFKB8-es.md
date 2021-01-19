@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001OVFKB8-es adidas Adilette Chanclas Hombre Azul Adiblu/White/Adiblu...'
-tags: [ 'tole.es','chanclas', ]
+tags: [ 'chanclas', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

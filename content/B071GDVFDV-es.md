@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071GDVFDV-es Amazon Essentials 6-Pack V-Neck Undershirts Camisa Negro...'
-tags: [ 'tole.es','camisa', ]
+tags: [ 'camisa', ]
 actualPrice: 15.04 EUR
 currency: EUR
 price: 15.04

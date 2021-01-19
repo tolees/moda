@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083WS3X9R-es STARBILD Leggins Deportivas para Mujer para Adelgazar...'
-tags: [ 'tole.es','leggins','pantalón', ]
+tags: [ 'leggins','pantalón', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

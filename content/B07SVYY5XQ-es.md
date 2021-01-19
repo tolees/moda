@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SVYY5XQ-es Quiksilver Molokai Eclipsed Deluxe Zapatos de Playa y...'
-tags: [ 'tole.es','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 17.01 EUR
 currency: EUR
 price: 17.01

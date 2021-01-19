@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KRXMKYL-es SALOMON Agile Jkt M Chaqueta Softshell Mezcla de...'
-tags: [ 'tole.es','chaqueta', ]
+tags: [ 'chaqueta', ]
 actualPrice: 57.15 EUR
 currency: EUR
 price: 57.15

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XQ3PGJC-es RED WAGON Vaqueros Niños Azul Blue 9 años'
-tags: [ 'tole.es','vaqueros', ]
+tags: [ 'vaqueros', ]
 actualPrice: 11.1 EUR
 currency: EUR
 price: 11.1

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079Z2RJG7-es Geox J82E2B 000BC Sandalias Niño Azul 25'
-tags: [ 'tole.es','geox','sandalias', ]
+tags: [ 'geox','sandalias', ]
 actualPrice: 38.32 EUR
 currency: EUR
 price: 38.32

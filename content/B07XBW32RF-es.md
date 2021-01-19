@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XBW32RF-es ENGSWA Collar Mujer Plata de Ley 925 Colgante Corazón con...'
-tags: [ 'tole.es','collar', ]
+tags: [ 'collar', ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

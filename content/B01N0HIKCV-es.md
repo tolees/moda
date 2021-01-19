@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N0HIKCV-es Pepe Jeans Regent Vaqueros Negro Denim H96 27W / 30L para...'
-tags: [ 'tole.es','vaqueros', ]
+tags: [ 'vaqueros', ]
 actualPrice: 32.95 EUR
 currency: EUR
 price: 32.95

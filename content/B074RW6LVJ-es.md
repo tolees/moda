@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074RW6LVJ-es Lee Scarlett High Vaqueros Azul Blue Indigo Hael 25W/33L...'
-tags: [ 'tole.es','vaqueros', ]
+tags: [ 'vaqueros', ]
 actualPrice: 60.39 EUR
 currency: EUR
 price: 60.39

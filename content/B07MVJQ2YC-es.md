@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MVJQ2YC-es Kipling Eleva Bolso con Bandolera para Mujer Gris Chalk...'
-tags: [ 'tole.es','bolso', ]
+tags: [ 'bolso', ]
 actualPrice: 44.5 EUR
 currency: EUR
 price: 44.5

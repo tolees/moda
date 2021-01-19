@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0747THGZQ-es Geox Zapatillas J New Savage Boy para Niños Gris 33 EU'
-tags: [ 'tole.es','geox', ]
+tags: [ 'geox', ]
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

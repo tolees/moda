@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VTWSNGT-es Levi s Levis Men Solid Basic Trunk 2P Bóxer Negro Jet...'
-tags: [ 'tole.es','bóxer', ]
+tags: [ 'bóxer', ]
 actualPrice: 17.55 EUR
 currency: EUR
 price: 17.55

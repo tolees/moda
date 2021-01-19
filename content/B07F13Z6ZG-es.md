@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F13Z6ZG-es Havaianas Brasil Logo Chanclas Unisex niños Amarillo...'
-tags: [ 'tole.es','chanclas', ]
+tags: [ 'chanclas', ]
 actualPrice: 8.18 EUR
 currency: EUR
 price: 8.18

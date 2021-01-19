@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DLS6JHS-es Marca Amazon - AURIQUE Leggings de Deporte con Textura...'
-tags: [ 'tole.es','aurique', ]
+tags: [ 'aurique', ]
 actualPrice: 12.33 EUR
 currency: EUR
 price: 12.33

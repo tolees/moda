@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G9HS7MX-es Joma Race Chaqueta y Chaleco Cabal Hombre Melange M'
-tags: [ 'tole.es','chaleco','chaqueta', ]
+tags: [ 'chaleco','chaqueta', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZV2C1PX-es Helly Hansen Rider Vest Chaleco de Ayuda a la flotabilidad...'
-tags: [ 'tole.es','chaleco', ]
+tags: [ 'chaleco', ]
 actualPrice: 47.95 EUR
 currency: EUR
 price: 47.95

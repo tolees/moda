@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S4SNPY5-es New Balance 373 Hook and Loop n Zapatilla Clásica para...'
-tags: [ 'tole.es','zapatilla', ]
+tags: [ 'zapatilla', ]
 actualPrice: 22.05 EUR
 currency: EUR
 price: 22.05

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N44CKNX-es Desigual T-Shirt Matilde Camiseta Negro Negro 2000 XL para...'
-tags: [ 'tole.es','camiseta', ]
+tags: [ 'camiseta', ]
 actualPrice: 17.06 EUR
 currency: EUR
 price: 17.06

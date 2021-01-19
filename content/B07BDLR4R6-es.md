@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BDLR4R6-es FIRENZE ARTEGIANI. Mochila Mujer Casual Piel...'
-tags: [ 'tole.es','bolso', ]
+tags: [ 'bolso', ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

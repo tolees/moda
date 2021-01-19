@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075TYPCG6-es Only Onlsedona Light Coat Otw Noos Abrigo Marrón Etherea...'
-tags: [ 'tole.es','abrigo', ]
+tags: [ 'abrigo', ]
 actualPrice: 30.03 EUR
 currency: EUR
 price: 30.03

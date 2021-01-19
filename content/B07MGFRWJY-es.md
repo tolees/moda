@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MGFRWJY-es Napapijri TERRES Sudadera Verde Green Forest 2 Ge3 L para...'
-tags: [ 'tole.es','sudadera', ]
+tags: [ 'sudadera', ]
 actualPrice: 64.95 EUR
 currency: EUR
 price: 64.95

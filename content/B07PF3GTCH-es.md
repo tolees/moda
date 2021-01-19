@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PF3GTCH-es KTOL Personalidad Chanclas de Piscina para Hombre Elegante...'
-tags: [ 'tole.es','chanclas','zapatos', ]
+tags: [ 'chanclas','zapatos', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

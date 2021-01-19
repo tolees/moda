@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MBGVVG6-es Columbia Lake 22 Chaqueta De Plumón Hombre Azul Collegiate...'
-tags: [ 'tole.es','chaqueta', ]
+tags: [ 'chaqueta', ]
 actualPrice: 64.51 EUR
 currency: EUR
 price: 64.51

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JY6ZQ3Q-es Zapatos de Cuero para Hombres Patrón de impresión Vestido...'
-tags: [ 'tole.es','vestido','zapatos', ]
+tags: [ 'vestido','zapatos', ]
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

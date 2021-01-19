@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SSK3FKW-es Geox D RUBIDIA A Zapatillas para Mujer Negro Black C9997...'
-tags: [ 'tole.es','geox', ]
+tags: [ 'geox', ]
 actualPrice: 76.99 EUR
 currency: EUR
 price: 76.99

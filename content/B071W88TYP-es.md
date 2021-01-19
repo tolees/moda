@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071W88TYP-es Marca Amazon - find. Camiseta con Cuello Redondo Mujer...'
-tags: [ 'tole.es','camiseta','-','find.', ]
+tags: [ 'camiseta','-','find.', ]
 actualPrice: 6.0 EUR
 currency: EUR
 price: 6.0

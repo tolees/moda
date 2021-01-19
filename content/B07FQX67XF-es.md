@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FQX67XF-es Clarks Tri Chloe Sandalias de Talón Abierto para Mujer...'
-tags: [ 'tole.es','sandalias', ]
+tags: [ 'sandalias', ]
 actualPrice: 34.91 EUR
 currency: EUR
 price: 34.91

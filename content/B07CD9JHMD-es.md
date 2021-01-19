@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CD9JHMD-es REPLAY M3666 .000.21842 Camiseta Negro Black 98 Large para...'
-tags: [ 'tole.es','camiseta', ]
+tags: [ 'camiseta', ]
 actualPrice: 32.81 EUR
 currency: EUR
 price: 32.81

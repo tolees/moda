@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MCSPJPQ-es Napapijri Rainforest Pocket Chaqueta Azul Clematis Blue...'
-tags: [ 'tole.es','chaqueta', ]
+tags: [ 'chaqueta', ]
 actualPrice: 100.83 EUR
 currency: EUR
 price: 100.83

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CDY6Y9P-es OCTOBER Vestido Fluido Lyocell SALMÓN M'
-tags: [ 'tole.es','vestido', ]
+tags: [ 'vestido', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LF5W76D-es Levi s Slim 2pk Crewneck 1 Camiseta Multicolor 2 Pack Pine...'
-tags: [ 'tole.es','camiseta', ]
+tags: [ 'camiseta', ]
 actualPrice: 11.41 EUR
 currency: EUR
 price: 11.41

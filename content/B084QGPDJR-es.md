@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084QGPDJR-es Taglory Collar Perro Ajustable Estilo Único Collar...'
-tags: [ 'tole.es','collar', ]
+tags: [ 'collar', ]
 actualPrice: 11.89 EUR
 currency: EUR
 price: 11.89

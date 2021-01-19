@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DJ2LFP9-es New Balance 230 Zapatos de Playa y Piscina Unisex Adulto...'
-tags: [ 'tole.es','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 15 EUR
 currency: EUR
 price: 15

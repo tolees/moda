@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F37NYDG-es Anillo de plata esterlina Qings 925 Ajustable Abierto Gato...'
-tags: [ 'tole.es','moda', ]
+tags: [ 'moda', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

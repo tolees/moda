@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VWX5CSP-es Pepe Jeans Vestido Multicolor Multi 0aa X-Large para Mujer'
-tags: [ 'tole.es','vestido', ]
+tags: [ 'vestido', ]
 actualPrice: 51.36 EUR
 currency: EUR
 price: 51.36

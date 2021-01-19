@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RHTF6PH-es adidas Streetcheck Zapatos de Baloncesto para Hombre...'
-tags: [ 'tole.es','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 30.68 EUR
 currency: EUR
 price: 30.68

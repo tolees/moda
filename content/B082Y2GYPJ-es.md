@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082Y2GYPJ-es Siux Camiseta Dry Rojo Negro'
-tags: [ 'tole.es','camiseta', ]
+tags: [ 'camiseta', ]
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

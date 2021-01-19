@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X3PWT81-es Pepe Jeans Victoria Vaqueros Ajustados Azul 000denim 000...'
-tags: [ 'tole.es','vaqueros', ]
+tags: [ 'vaqueros', ]
 actualPrice: 24.77 EUR
 currency: EUR
 price: 24.77

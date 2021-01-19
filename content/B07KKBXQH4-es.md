@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KKBXQH4-es TTYAOVO Chicas Muestran Princesa Vestido de Flores para...'
-tags: [ 'tole.es','vestido', ]
+tags: [ 'vestido', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

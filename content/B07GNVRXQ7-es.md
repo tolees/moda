@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GNVRXQ7-es The Indian Face Gafas de Sol Deportivas Free Spirit para...'
-tags: [ 'tole.es','gafas', ]
+tags: [ 'gafas', ]
 actualPrice: 27.2 EUR
 currency: EUR
 price: 27.2

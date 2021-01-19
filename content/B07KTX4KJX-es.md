@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KTX4KJX-es adidas Lin Core Org Bolso Unisex Adulto Multicolor...'
-tags: [ 'tole.es','bolso', ]
+tags: [ 'bolso', ]
 actualPrice: 8.95 EUR
 currency: EUR
 price: 8.95

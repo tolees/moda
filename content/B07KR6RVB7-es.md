@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KR6RVB7-es Clarks Un Costa Lace Zapatos de Cordones Derby para Hombre...'
-tags: [ 'tole.es','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 59.9 EUR
 currency: EUR
 price: 59.9

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MMDVWHV-es Original Penguin Sailing Abrigo Azul Dark Sapphire 413...'
-tags: [ 'tole.es','abrigo', ]
+tags: [ 'abrigo', ]
 actualPrice: 20.96 EUR
 currency: EUR
 price: 20.96

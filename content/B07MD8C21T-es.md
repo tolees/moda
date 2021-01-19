@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MD8C21T-es UCB Benetton Ondas Bolsa deporte Bolso de viaje'
-tags: [ 'tole.es','bolso', ]
+tags: [ 'bolso', ]
 actualPrice: 27.9 EUR
 currency: EUR
 price: 27.9

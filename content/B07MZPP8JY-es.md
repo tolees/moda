@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZPP8JY-es Pepe Jeans Loganne Sudadera Dulwich 594 X-Large para Hombre'
-tags: [ 'tole.es','sudadera', ]
+tags: [ 'sudadera', ]
 actualPrice: 23.65 EUR
 currency: EUR
 price: 23.65

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFMRR99-es Levi s HR Decon Iconic BF Skirt Falda Gris Snakehead 0002...'
-tags: [ 'tole.es','falda', ]
+tags: [ 'falda', ]
 actualPrice: 25.95 EUR
 currency: EUR
 price: 25.95

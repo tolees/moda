@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0773FTS9Z-es KONXIDO Reloj para Hombre Elegante Pantalla Analógica con...'
-tags: [ 'tole.es','moda', ]
+tags: [ 'moda', ]
 actualPrice: 12.03 EUR
 currency: EUR
 price: 12.03

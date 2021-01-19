@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JHWRQRV-es PUMA Cup Training Jersey Core Maillot Hombre Black/Cyber...'
-tags: [ 'tole.es','jersey', ]
+tags: [ 'jersey', ]
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

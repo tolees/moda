@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L78ZQYD-es NIKE W Nk Dry SL Top Camiseta sin Mangas Mujer Black/ White M'
-tags: [ 'tole.es','camiseta', ]
+tags: [ 'camiseta', ]
 actualPrice: 14.77 EUR
 currency: EUR
 price: 14.77

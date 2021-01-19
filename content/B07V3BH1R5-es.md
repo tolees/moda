@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V3BH1R5-es INSTINNCT Monokini Bikini Mujer Push-up Acolchado Bra...'
-tags: [ 'tole.es','bikini', ]
+tags: [ 'bikini', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

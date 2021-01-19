@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087RHW12M-es Odetina - Zapatos de tacón alto para mujer con correa de...'
-tags: [ 'tole.es','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 23.1 EUR
 currency: EUR
 price: 23.1

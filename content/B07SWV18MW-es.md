@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SWV18MW-es Geox D TABELYA A Zapatillas para Mujer Negro Black/Gun...'
-tags: [ 'tole.es','geox', ]
+tags: [ 'geox', ]
 actualPrice: 62.91 EUR
 currency: EUR
 price: 62.91

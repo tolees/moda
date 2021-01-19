@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B12DKJQ-es FIND Vestido de Flores con Volantes Mujer Rosa Pink Large'
-tags: [ 'tole.es','vestido', ]
+tags: [ 'vestido', ]
 actualPrice: 36 EUR
 currency: EUR
 price: 36

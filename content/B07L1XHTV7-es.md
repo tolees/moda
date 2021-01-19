@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L1XHTV7-es Under Armour UNDKU Performance 2.0 Divot Stripe Camisa...'
-tags: [ 'tole.es','camisa', ]
+tags: [ 'camisa', ]
 actualPrice: 10.67 EUR
 currency: EUR
 price: 10.67

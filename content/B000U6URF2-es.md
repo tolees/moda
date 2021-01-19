@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000U6URF2-es Clarks Funny Dream Zapatos de Cordones Derby para Mujer...'
-tags: [ 'tole.es','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 50.0 EUR
 currency: EUR
 price: 50.0

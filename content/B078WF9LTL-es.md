@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078WF9LTL-es The North Face Cyclone 2 HDY Chaqueta con Capucha Hombre...'
-tags: [ 'tole.es','chaqueta', ]
+tags: [ 'chaqueta', ]
 actualPrice: 42.5 EUR
 currency: EUR
 price: 42.5

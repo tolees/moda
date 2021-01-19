@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QWNDV5Z-es Under Armour Challenger III Training Pantalón Hombre Azul LG'
-tags: [ 'tole.es','pantalón', ]
+tags: [ 'pantalón', ]
 actualPrice: 29.88 EUR
 currency: EUR
 price: 29.88

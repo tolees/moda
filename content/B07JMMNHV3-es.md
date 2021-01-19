@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JMMNHV3-es dPois Bebé Niña Pelele Vestido Halter Lentejuelas Snow...'
-tags: [ 'tole.es','pelele','vestido', ]
+tags: [ 'pelele','vestido', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

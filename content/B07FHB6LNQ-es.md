@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FHB6LNQ-es Levi s Sunset 1 Pocket Shirt Camisa Multicolor Wildcat...'
-tags: [ 'tole.es','camisa', ]
+tags: [ 'camisa', ]
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

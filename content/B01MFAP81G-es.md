@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MFAP81G-es Fresh Made D9514Z90532A Jersey Rosa Pearl Rose Melange 40...'
-tags: [ 'tole.es','jersey', ]
+tags: [ 'jersey', ]
 actualPrice: 13.51 EUR
 currency: EUR
 price: 13.51

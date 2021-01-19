@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDQ2MLJ-es G-STAR RAW CPO Slim Camisa Vaquera Multicolor Medium Aged...'
-tags: [ 'tole.es','camisa', ]
+tags: [ 'camisa', ]
 actualPrice: 17.2 EUR
 currency: EUR
 price: 17.2

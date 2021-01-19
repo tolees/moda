@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S63YS5N-es Crocs Literide Flip Chanclas Unisex Adulto Verde Neo...'
-tags: [ 'tole.es','chanclas', ]
+tags: [ 'chanclas', ]
 actualPrice: 18.48 EUR
 currency: EUR
 price: 18.48

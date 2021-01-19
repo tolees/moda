@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X7H6QNS-es Pantalones para Adelgazar Pantalones Deportivos Mujer...'
-tags: [ 'tole.es','pantalón', ]
+tags: [ 'pantalón', ]
 actualPrice: 21.9 EUR
 currency: EUR
 price: 21.9

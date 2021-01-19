@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D9T4YXG-es Jack Wolfskin Vojo Hike 2 Texapore Mid W Wasserdicht...'
-tags: [ 'tole.es','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 52.94 EUR
 currency: EUR
 price: 52.94

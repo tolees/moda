@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082NYSLFB-es Oihxse Transparente Silicona Case Compatible con Huawei P9...'
-tags: [ 'tole.es','moda', ]
+tags: [ 'moda', ]
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

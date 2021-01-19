@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TY1WFC2-es Lee Button Down Camisa Azul Blueprint LGH X-Large para Hombre'
-tags: [ 'tole.es','camisa', ]
+tags: [ 'camisa', ]
 actualPrice: 27.52 EUR
 currency: EUR
 price: 27.52

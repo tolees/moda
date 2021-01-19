@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XTGG6RY-es inhzoy Chaqueta de Princesa para Niña Abrigo de Fiesta...'
-tags: [ 'tole.es','abrigo','chaqueta','vestido', ]
+tags: [ 'abrigo','chaqueta','vestido', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

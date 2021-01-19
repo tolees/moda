@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TTLN138-es DC Shoes Spectrum - Chaqueta para Nieve - Hombre - L'
-tags: [ 'tole.es','chaqueta', ]
+tags: [ 'chaqueta', ]
 actualPrice: 61.98 EUR
 currency: EUR
 price: 61.98

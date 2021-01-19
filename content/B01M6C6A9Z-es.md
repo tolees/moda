@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M6C6A9Z-es flintronic® Cartera Tarjeta de Crédito Slim RFID Bloqueo...'
-tags: [ 'tole.es','monedero', ]
+tags: [ 'monedero', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

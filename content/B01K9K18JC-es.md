@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01K9K18JC-es Clarks Tealite Grace Sandalias con Tira Vertical para...'
-tags: [ 'tole.es','sandalias', ]
+tags: [ 'sandalias', ]
 actualPrice: 41.68 EUR
 currency: EUR
 price: 41.68

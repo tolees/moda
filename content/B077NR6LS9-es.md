@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077NR6LS9-es Lee Luke Vaqueros Fresh Roig 27W / 32L para Hombre'
-tags: [ 'tole.es','vaqueros', ]
+tags: [ 'vaqueros', ]
 actualPrice: 25.74 EUR
 currency: EUR
 price: 25.74

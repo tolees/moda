@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VLJB5FG-es Calvin Klein Relaxed Retro Crew tee Top de Pijama Rojo...'
-tags: [ 'tole.es','pijama', ]
+tags: [ 'pijama', ]
 actualPrice: 14.31 EUR
 currency: EUR
 price: 14.31

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SF2KX4M-es PUMA Cozy Flip Zapatos de Playa y Piscina Unisex-Adulto...'
-tags: [ 'tole.es','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98

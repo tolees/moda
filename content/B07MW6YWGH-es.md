@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MW6YWGH-es Camper Pelotas XL Zapatos de Cordones Oxford para Hombre...'
-tags: [ 'tole.es','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 42.49 EUR
 currency: EUR
 price: 42.49

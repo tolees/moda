@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VJZJL9H-es NORTH SAILS Cotton Jersey Sweatshirt'
-tags: [ 'tole.es','jersey', ]
+tags: [ 'jersey', ]
 actualPrice: 49.73 EUR
 currency: EUR
 price: 49.73

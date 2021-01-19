@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087PWGY1D-es Mediffen Mujer Elegante Tacón De Aguja Tacón Alto Punta...'
-tags: [ 'tole.es','moda','sandalias','vestido', ]
+tags: [ 'moda','sandalias','vestido', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

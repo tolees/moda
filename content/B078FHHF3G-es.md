@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078FHHF3G-es Under Armour Team Issue Camiseta para Hombre con Logotipo...'
-tags: [ 'tole.es','camiseta', ]
+tags: [ 'camiseta', ]
 actualPrice: 21.74 EUR
 currency: EUR
 price: 21.74

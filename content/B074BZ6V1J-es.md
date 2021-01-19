@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074BZ6V1J-es Pepe Jeans Hatch Vaqueros Slim para Hombre Negro 11Oz Stay...'
-tags: [ 'tole.es','vaqueros', ]
+tags: [ 'vaqueros', ]
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

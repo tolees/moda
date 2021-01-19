@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DKR9Q3N-es Puma Essentials LG T Camiseta de Manga Corta Hombre Blanco...'
-tags: [ 'tole.es','camiseta', ]
+tags: [ 'camiseta', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

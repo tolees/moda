@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VFDH3J6-es Jack & Jones Mike Original Jos 697 I.k Vaqueros Black...'
-tags: [ 'tole.es','vaqueros', ]
+tags: [ 'vaqueros', ]
 actualPrice: 23.85 EUR
 currency: EUR
 price: 23.85

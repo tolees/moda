@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MY54BWQ-es eonar Mujer Push-up Bikini Desmontable Acolchado Bra...'
-tags: [ 'tole.es','bikini', ]
+tags: [ 'bikini', ]
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

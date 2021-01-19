@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073RP18HH-es Helly Hansen HH Tech Crew Camiseta Hombre Gris Gris Oscuro...'
-tags: [ 'tole.es','camiseta', ]
+tags: [ 'camiseta', ]
 actualPrice: 13.98 EUR
 currency: EUR
 price: 13.98

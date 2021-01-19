@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BRTHZ6G-es UMIPUBO Mujer Ropa de Baño Crochet Vestido de Playa V...'
-tags: [ 'tole.es','bikini','vestido', ]
+tags: [ 'bikini','vestido', ]
 actualPrice: 12.23 EUR
 currency: EUR
 price: 12.23

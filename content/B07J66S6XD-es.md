@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J66S6XD-es Lee Extreme Motion Straight Vaqueros Azul Maddox PU 32W /...'
-tags: [ 'tole.es','vaqueros', ]
+tags: [ 'vaqueros', ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DFRBY8S-es Tommy Hilfiger S/s Crew Neck Camiseta Gris Grey Heather...'
-tags: [ 'tole.es','camiseta', ]
+tags: [ 'camiseta', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

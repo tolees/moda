@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00LU7MJZQ-es Helly Hansen Crew Chaqueta Hombre Negro Black L'
-tags: [ 'tole.es','chaqueta', ]
+tags: [ 'chaqueta', ]
 actualPrice: 68.0 EUR
 currency: EUR
 price: 68.0

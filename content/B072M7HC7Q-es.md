@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072M7HC7Q-es JACK & JONES Jjiliam Jjoriginal Am 502 Lid STS Vaqueros...'
-tags: [ 'tole.es','vaqueros', ]
+tags: [ 'vaqueros', ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

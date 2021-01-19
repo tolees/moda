@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W94KXP4-es LuckyGirls Zapatos de Deporte Zapatillas de Deporte...'
-tags: [ 'tole.es','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 11.63 EUR
 currency: EUR
 price: 11.63

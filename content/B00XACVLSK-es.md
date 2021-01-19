@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XACVLSK-es Scholl Desodorante Pies Fresh Step anti-transpirante...'
-tags: [ 'tole.es','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

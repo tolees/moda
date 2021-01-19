@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SC4R47B-es Helly Hansen Jr Moss Jacket Chaqueta Unisex niños Sling...'
-tags: [ 'tole.es','chaqueta', ]
+tags: [ 'chaqueta', ]
 actualPrice: 16.2 EUR
 currency: EUR
 price: 16.2

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDN7R9S-es Esprit 049ee2k002 Camiseta Azul Blue 430 Large para Hombre'
-tags: [ 'tole.es','camiseta', ]
+tags: [ 'camiseta', ]
 actualPrice: 7.18 EUR
 currency: EUR
 price: 7.18

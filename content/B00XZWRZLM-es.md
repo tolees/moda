@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XZWRZLM-es Mercedes-Benz Sonnenbrille M5030 Gafas de Sol Negro...'
-tags: [ 'tole.es','gafas', ]
+tags: [ 'gafas', ]
 actualPrice: 67.98 EUR
 currency: EUR
 price: 67.98

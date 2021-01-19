@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075Z5FZGX-es Vero Moda Vmhot SOYA LS Denim Jacket Mix Noos Chaqueta...'
-tags: [ 'tole.es','chaqueta','moda', ]
+tags: [ 'chaqueta','moda', ]
 actualPrice: 18.49 EUR
 currency: EUR
 price: 18.49

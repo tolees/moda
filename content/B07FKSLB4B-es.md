@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FKSLB4B-es Trangoworld PC007777 Pantalón Largo Mujer Azul Tinta L'
-tags: [ 'tole.es','pantalón', ]
+tags: [ 'pantalón', ]
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

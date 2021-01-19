@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08592NTCW-es Meloive Collar Anti Pulgas y Garrapatas para Perros...'
-tags: [ 'tole.es','collar', ]
+tags: [ 'collar', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

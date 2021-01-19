@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SQGWQX8-es Geox D Avery C Zapatillas para Mujer Blanco White C1000 38 EU'
-tags: [ 'tole.es','geox', ]
+tags: [ 'geox', ]
 actualPrice: 43.54 EUR
 currency: EUR
 price: 43.54

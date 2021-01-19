@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00A8P0V2O-es LEABAGS London Bolso Bandolera de auténtico Cuero búfalo...'
-tags: [ 'tole.es','bolso', ]
+tags: [ 'bolso', ]
 actualPrice: 47.98 EUR
 currency: EUR
 price: 47.98

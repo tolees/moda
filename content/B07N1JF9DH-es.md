@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N1JF9DH-es Clarks Un Cosmo Way Zapatos de Tacón para Mujer Negro...'
-tags: [ 'tole.es','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 24.78 EUR
 currency: EUR
 price: 24.78

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NABWF99-es Columbia Ponderay Chaqueta Mujer Blanco White S'
-tags: [ 'tole.es','chaqueta', ]
+tags: [ 'chaqueta', ]
 actualPrice: 110.99 EUR
 currency: EUR
 price: 110.99

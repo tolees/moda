@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G5L8TNF-es Bolso de mano Pepe Jeans Bromley Azul'
-tags: [ 'tole.es','bolso', ]
+tags: [ 'bolso', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

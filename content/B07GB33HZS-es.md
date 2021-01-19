@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GB33HZS-es Rayen Lavadora y Secadora lavandería para Calzado | Bolsa...'
-tags: [ 'tole.es','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 8.75 EUR
 currency: EUR
 price: 8.75

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086SQXP5Y-es Mujer Zapatos de tacón Alto con tacón de Aguja de Boda...'
-tags: [ 'tole.es','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

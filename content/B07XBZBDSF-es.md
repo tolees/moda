@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XBZBDSF-es Zapatillas Unisex Niños Zapatos de Baloncesto Casual...'
-tags: [ 'tole.es','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CPW1T5S-es Marca Amazon - AURIQUE Camiseta Yoga con Eslogan y...'
-tags: [ 'tole.es','aurique','camiseta', ]
+tags: [ 'aurique','camiseta', ]
 actualPrice: 3.84 EUR
 currency: EUR
 price: 3.84

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074FWVM26-es Marca Amazon - find. Camiseta con Franjas para Hombre Gris...'
-tags: [ 'tole.es','camiseta','-','find.', ]
+tags: [ 'camiseta','-','find.', ]
 actualPrice: 5.67 EUR
 currency: EUR
 price: 5.67

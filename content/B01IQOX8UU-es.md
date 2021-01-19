@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01IQOX8UU-es Desconocido Botas Zapatos Fashion Princesa Encaje PU para...'
-tags: [ 'tole.es','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

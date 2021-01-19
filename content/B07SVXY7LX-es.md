@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SVXY7LX-es Geox D Sandal Hiver B Sandalias con Tira Vertical para...'
-tags: [ 'tole.es','geox','sandalias', ]
+tags: [ 'geox','sandalias', ]
 actualPrice: 45.48 EUR
 currency: EUR
 price: 45.48

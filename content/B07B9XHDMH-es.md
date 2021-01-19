@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B9XHDMH-es Zuecos Hombre Playa Piscina Sanitarios Enfermera Goma...'
-tags: [ 'tole.es','sandalias','zuecos', ]
+tags: [ 'sandalias','zuecos', ]
 actualPrice: 14.39 EUR
 currency: EUR
 price: 14.39

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074GPZVGZ-es HonourSport Falda Plisada De Tenis con CordóN EláStico...'
-tags: [ 'tole.es','falda', ]
+tags: [ 'falda', ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

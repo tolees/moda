@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06Y13JGF2-es Wrangler Arizona Straight Jeans Vaqueros Bright Stroke 38W...'
-tags: [ 'tole.es','vaqueros', ]
+tags: [ 'vaqueros', ]
 actualPrice: 55.23 EUR
 currency: EUR
 price: 55.23

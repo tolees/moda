@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VTG7VJ4-es Bolso RIÑONERA Lion King'
-tags: [ 'tole.es','bolso', ]
+tags: [ 'bolso', ]
 actualPrice: 9.16 EUR
 currency: EUR
 price: 9.16

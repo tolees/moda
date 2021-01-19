@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081YWQVFZ-es Guantes de Invierno Calientes Impermeable Prueba del...'
-tags: [ 'tole.es','guantes', ]
+tags: [ 'guantes', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

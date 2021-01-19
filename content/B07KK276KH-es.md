@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KK276KH-es Columbia Ruckel Ridge Plus Waterproof Zapatos Impermeables...'
-tags: [ 'tole.es','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 48.0 EUR
 currency: EUR
 price: 48.0

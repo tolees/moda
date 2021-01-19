@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YKVGLPQ-es Esprit 999ee1n801 Camiseta Blanco White 100 Small Pack de...'
-tags: [ 'tole.es','camiseta', ]
+tags: [ 'camiseta', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

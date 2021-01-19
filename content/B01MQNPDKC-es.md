@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MQNPDKC-es Arena Python Gafas de Natación Unisex Adulto Azul Blue...'
-tags: [ 'tole.es','gafas', ]
+tags: [ 'gafas', ]
 actualPrice: 17.16 EUR
 currency: EUR
 price: 17.16

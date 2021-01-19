@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086R6DXRF-es Nautico J.Bradford Cuero Marron JB-CORVETTES - Color -...'
-tags: [ 'tole.es','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 62.0 EUR
 currency: EUR
 price: 62.0

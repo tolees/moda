@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SD191BZ-es PUMA Popcat 20 Sandalias deslizantes Unisex Adulto Azul...'
-tags: [ 'tole.es','sandalias', ]
+tags: [ 'sandalias', ]
 actualPrice: 4.01 EUR
 currency: EUR
 price: 4.01

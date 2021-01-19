@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CZ93L2Y-es Under Armour UA Launch Sw 9 Short Pantalón Corto Hombre...'
-tags: [ 'tole.es','pantalón', ]
+tags: [ 'pantalón', ]
 actualPrice: 15.71 EUR
 currency: EUR
 price: 15.71

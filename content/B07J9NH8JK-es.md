@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J9NH8JK-es Lois - Cartera de Mano Organizador para Caballero....'
-tags: [ 'tole.es','moda', ]
+tags: [ 'moda', ]
 actualPrice: 23.95 EUR
 currency: EUR
 price: 23.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088TDZDLY-es Gafas de Protección Gafas Protectoras para Depilación...'
-tags: [ 'tole.es','bikini','gafas', ]
+tags: [ 'bikini','gafas', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

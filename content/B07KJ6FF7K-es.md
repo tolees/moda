@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KJ6FF7K-es Love Moschino Jc4002pp18la0500 bolso bandolera Unisex...'
-tags: [ 'tole.es','bolso', ]
+tags: [ 'bolso', ]
 actualPrice: 99.01 EUR
 currency: EUR
 price: 99.01

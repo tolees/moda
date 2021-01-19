@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S6VYZZS-es El Naturalista Myth Yggdrasil Botines para Mujer Gris...'
-tags: [ 'tole.es','botines', ]
+tags: [ 'botines', ]
 actualPrice: 31.11 EUR
 currency: EUR
 price: 31.11

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N6ZHXDJ-es SYMALL Bolso de mano con encaje satén cartera de mano...'
-tags: [ 'tole.es','bolso', ]
+tags: [ 'bolso', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

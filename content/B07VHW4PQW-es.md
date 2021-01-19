@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VHW4PQW-es Desigual Logo Patch Zurich Bolso de Patchwork en Logomanía...'
-tags: [ 'tole.es','bolso', ]
+tags: [ 'bolso', ]
 actualPrice: 17.9 EUR
 currency: EUR
 price: 17.9

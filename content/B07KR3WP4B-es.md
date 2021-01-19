@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KR3WP4B-es Under Armour UA Streaker 2.0 Half Zip Sudadera Hombre...'
-tags: [ 'tole.es','sudadera', ]
+tags: [ 'sudadera', ]
 actualPrice: 33.63 EUR
 currency: EUR
 price: 33.63

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M9QKTTR-es G-STAR RAW Xpo Overshirt Chaqueta Negro Sartho Blue 6067...'
-tags: [ 'tole.es','chaqueta', ]
+tags: [ 'chaqueta', ]
 actualPrice: 47.29 EUR
 currency: EUR
 price: 47.29

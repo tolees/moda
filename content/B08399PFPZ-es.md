@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08399PFPZ-es Aqua Shoes Escarpines Hombres Mujer Niños Zapatos de Agua...'
-tags: [ 'tole.es','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N23DD8T-es Quiksilver Rivi Slide-Slider Sandals for Men Sandalias con...'
-tags: [ 'tole.es','sandalias', ]
+tags: [ 'sandalias', ]
 actualPrice: 11.33 EUR
 currency: EUR
 price: 11.33

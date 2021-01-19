@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0857BDZ4Q-es GRIMEY Sudadera Acknowledge Hoodie SS20 Sport Grey-XS'
-tags: [ 'tole.es','sudadera', ]
+tags: [ 'sudadera', ]
 actualPrice: 55.92 EUR
 currency: EUR
 price: 55.92

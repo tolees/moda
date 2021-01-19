@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PLHRS8R-es BOTRE 13-15.6 Pulgadas Bolso de Mujer Bandolera...'
-tags: [ 'tole.es','bolso','moda', ]
+tags: [ 'bolso','moda', ]
 actualPrice: 24.64 EUR
 currency: EUR
 price: 24.64

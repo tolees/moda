@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q1YFHFH-es Only NOS Onlmoon SL Top Noos Wvn Camiseta sin Mangas Verde...'
-tags: [ 'tole.es','camiseta', ]
+tags: [ 'camiseta', ]
 actualPrice: 9.0 EUR
 currency: EUR
 price: 9.0

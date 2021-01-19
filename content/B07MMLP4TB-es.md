@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MMLP4TB-es Napapijri Rainforest Winter 1 Chaqueta Rojo High Risk Red...'
-tags: [ 'tole.es','chaqueta', ]
+tags: [ 'chaqueta', ]
 actualPrice: 55.41 EUR
 currency: EUR
 price: 55.41

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01EOX0B2A-es Helly Hansen Dubliner Jacket Chaqueta Chubasquero para...'
-tags: [ 'tole.es','chaqueta', ]
+tags: [ 'chaqueta', ]
 actualPrice: 79.01 EUR
 currency: EUR
 price: 79.01

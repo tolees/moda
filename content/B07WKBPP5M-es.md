@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WKBPP5M-es Marca Amazon - find. Vestido Cruzado de Flores Mujer...'
-tags: [ 'tole.es','vestido','-','find.', ]
+tags: [ 'vestido','-','find.', ]
 actualPrice: 5.72 EUR
 currency: EUR
 price: 5.72

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RMLTJTD-es New Balance 520v6 Zapatos para Correr para Mujer Negro...'
-tags: [ 'tole.es','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

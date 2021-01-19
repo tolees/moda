@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004HZY6SG-es Geox U Moner V Mocasines para Hombre Marrone Sable 45 EU'
-tags: [ 'tole.es','geox', ]
+tags: [ 'geox', ]
 actualPrice: 31.81 EUR
 currency: EUR
 price: 31.81

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T93YPR8-es Vero Moda Vmnoramille 3/4 Wool Jacket Abrigo Rojo Birch...'
-tags: [ 'tole.es','abrigo','moda', ]
+tags: [ 'abrigo','moda', ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

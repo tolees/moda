@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01AUMVME0-es GIVI EA106B Easy Bag Bolso Magnético Depósito Volumen 6...'
-tags: [ 'tole.es','bolso', ]
+tags: [ 'bolso', ]
 actualPrice: 35.5 EUR
 currency: EUR
 price: 35.5

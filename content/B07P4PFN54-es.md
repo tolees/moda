@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P4PFN54-es Art Mainz Zapatos de Cordones Brogue Unisex Adulto Marrón...'
-tags: [ 'tole.es','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 18.91 EUR
 currency: EUR
 price: 18.91

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082MFLWR1-es BAIGIO Embrague de la Tarde Bling Glitter Purse Triángulo...'
-tags: [ 'tole.es','bolso','monedero', ]
+tags: [ 'bolso','monedero', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X4SGRDN-es Pepe Jeans Hatch Vaqueros Ajustados Azul 000Denim 000 28W...'
-tags: [ 'tole.es','vaqueros', ]
+tags: [ 'vaqueros', ]
 actualPrice: 48.02 EUR
 currency: EUR
 price: 48.02

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083M86RBN-es LuckyGirls Chic Sandalias Mujer Verano 2020 Fiesta Planas...'
-tags: [ 'tole.es','chanclas','sandalias','zapatos', ]
+tags: [ 'chanclas','sandalias','zapatos', ]
 actualPrice: 4.91 EUR
 currency: EUR
 price: 4.91

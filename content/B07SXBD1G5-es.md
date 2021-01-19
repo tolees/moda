@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SXBD1G5-es Quiksilver Molokai Layback Zapatos de Playa y Piscina para...'
-tags: [ 'tole.es','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

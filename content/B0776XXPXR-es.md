@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0776XXPXR-es Tommy Hilfiger Original Jersey Camiseta Gris Lt Grey Htr...'
-tags: [ 'tole.es','camiseta','jersey', ]
+tags: [ 'camiseta','jersey', ]
 actualPrice: 13.7 EUR
 currency: EUR
 price: 13.7

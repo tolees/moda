@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TSFRHQ6-es Wrangler Straight Vaqueros para Mujer Azul Montego Bay 11P...'
-tags: [ 'tole.es','vaqueros', ]
+tags: [ 'vaqueros', ]
 actualPrice: 53.66 EUR
 currency: EUR
 price: 53.66

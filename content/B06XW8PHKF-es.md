@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XW8PHKF-es Huntvp Riñonera Táctica Mochila Deportiva Militar Bolso...'
-tags: [ 'tole.es','bolso', ]
+tags: [ 'bolso', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

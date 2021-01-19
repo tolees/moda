@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DKTGW76-es Dickies Farnham Chaqueta Marrón Large Talla del...'
-tags: [ 'tole.es','chaqueta', ]
+tags: [ 'chaqueta', ]
 actualPrice: 56.77 EUR
 currency: EUR
 price: 56.77

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RFYPGT3-es G-STAR RAW Type C 3D Straight Tapered Vaqueros Negro Jet...'
-tags: [ 'tole.es','vaqueros', ]
+tags: [ 'vaqueros', ]
 actualPrice: 22.5 EUR
 currency: EUR
 price: 22.5

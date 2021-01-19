@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T9HBD6B-es LIGE Hombres Relojes Moda Ocio Negocios Analógico Cuarzo...'
-tags: [ 'tole.es','moda', ]
+tags: [ 'moda', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

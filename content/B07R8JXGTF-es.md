@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R8JXGTF-es Columbia Arcadia Chaqueta Impermeable con Capucha Unisex...'
-tags: [ 'tole.es','chaqueta', ]
+tags: [ 'chaqueta', ]
 actualPrice: 20.89 EUR
 currency: EUR
 price: 20.89

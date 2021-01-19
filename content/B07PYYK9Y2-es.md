@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PYYK9Y2-es Under Armour UA Men s Training Glove Guantes de...'
-tags: [ 'tole.es','guantes', ]
+tags: [ 'guantes', ]
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

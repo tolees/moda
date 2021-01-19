@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MVL75W6-es Marca Amazon - MERAKI Camiseta de Manga Larga Hombre Pack...'
-tags: [ 'tole.es','camiseta','meraki', ]
+tags: [ 'camiseta','meraki', ]
 actualPrice: 3.75 EUR
 currency: EUR
 price: 3.75

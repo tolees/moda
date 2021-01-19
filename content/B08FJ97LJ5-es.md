@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08FJ97LJ5-es Desire Deluxe Tie Dye DIY Kit Conjunto de Tinte Tie Tie de...'
-tags: [ 'tole.es','camisa','guantes', ]
+tags: [ 'camisa','guantes', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

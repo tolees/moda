@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JKTP2JN-es 2*Piezas Conjunto de Lencería Pijama Semi Transparente de...'
-tags: [ 'tole.es','pijama', ]
+tags: [ 'pijama', ]
 actualPrice: 9.59 EUR
 currency: EUR
 price: 9.59

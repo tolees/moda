@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TSF2B4K-es Skechers D lites 2.0 Sandalias de Punta Descubierta para...'
-tags: [ 'tole.es','sandalias', ]
+tags: [ 'sandalias', ]
 actualPrice: 20.21 EUR
 currency: EUR
 price: 20.21

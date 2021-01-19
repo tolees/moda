@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HS11RB6-es Armani Exchange Smart Stretch Satin Camisa Negro Black...'
-tags: [ 'tole.es','camisa', ]
+tags: [ 'camisa', ]
 actualPrice: 29.13 EUR
 currency: EUR
 price: 29.13

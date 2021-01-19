@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001PH3VXK-es Superga 2750 COTU Classic Zapatilla de Deporte Unisexo...'
-tags: [ 'tole.es','zapatilla', ]
+tags: [ 'zapatilla', ]
 actualPrice: 38.07 EUR
 currency: EUR
 price: 38.07

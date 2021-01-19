@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BZN1AS6-es SOLS- Camiseta de Manga Corta para niñas 10 años Azul Agua'
-tags: [ 'tole.es','camiseta', ]
+tags: [ 'camiseta', ]
 actualPrice: 3.95 EUR
 currency: EUR
 price: 3.95

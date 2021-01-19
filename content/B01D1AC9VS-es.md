@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01D1AC9VS-es NICOLE & DORIS Bolsos para Mujeres Moda Bolsos Bandolera...'
-tags: [ 'tole.es','moda', ]
+tags: [ 'moda', ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

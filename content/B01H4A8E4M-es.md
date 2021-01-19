@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01H4A8E4M-es Wrangler Texas Tonal Vaqueros Gris Graze 33W / 32L para...'
-tags: [ 'tole.es','vaqueros', ]
+tags: [ 'vaqueros', ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

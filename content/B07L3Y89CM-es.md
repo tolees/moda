@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L3Y89CM-es Marca Amazon - AURIQUE Mallas de Entrenamiento Mujer Azul...'
-tags: [ 'tole.es','aurique', ]
+tags: [ 'aurique', ]
 actualPrice: 14.67 EUR
 currency: EUR
 price: 14.67

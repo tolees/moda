@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TTJFPZ4-es Skechers Pier Ave Sandalias de Talón Abierto para Mujer...'
-tags: [ 'tole.es','sandalias', ]
+tags: [ 'sandalias', ]
 actualPrice: 26.84 EUR
 currency: EUR
 price: 26.84

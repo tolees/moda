@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q3TDXK7-es NNJXD Vestido de Unicornio para niñas Fiesta de Apliques...'
-tags: [ 'tole.es','vestido', ]
+tags: [ 'vestido', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

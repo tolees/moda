@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFV9CMP-es Geox J SPACECLUB Girl C Zapatillas para Niñas Grey/Pink...'
-tags: [ 'tole.es','geox', ]
+tags: [ 'geox', ]
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

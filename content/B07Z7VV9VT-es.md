@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z7VV9VT-es Bestcool Gorra Bluetooth Bluetooth Sombrero Hombre Gorra...'
-tags: [ 'tole.es','moda', ]
+tags: [ 'moda', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

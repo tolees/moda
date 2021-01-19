@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NHHQMV6-es Tamaris 1-1-22418-23 Zapatos de Tacón para Mujer Plateado...'
-tags: [ 'tole.es','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 10.63 EUR
 currency: EUR
 price: 10.63

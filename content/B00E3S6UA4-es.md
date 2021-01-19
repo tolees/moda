@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00E3S6UA4-es Burton WB Profile - Guantes de esquí para mujer negro L'
-tags: [ 'tole.es','guantes', ]
+tags: [ 'guantes', ]
 actualPrice: 24.23 EUR
 currency: EUR
 price: 24.23
@@ -27,7 +27,7 @@ Tienes [Burton WB Profile - Guantes de esquí para mujer  negro  L](https://www.
 🔎:
 
 - Tejido DRYRIDE Durashell de 2-Capas
-- Diseño pre-curvado
 - Aislante thermacore
+- Diseño pre-curvado
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00E3S6UA4/?tag=tolees-21)

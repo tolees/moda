@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MV61BQB-es Timberland Killington Zapatillas Altas para Hombre Azul...'
-tags: [ 'tole.es','timberland', ]
+tags: [ 'timberland', ]
 actualPrice: 83.49 EUR
 currency: EUR
 price: 83.49

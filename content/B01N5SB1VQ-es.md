@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N5SB1VQ-es Levi s The Perfect Tee Camiseta para Mujer Gris Sportswear...'
-tags: [ 'tole.es','camiseta', ]
+tags: [ 'camiseta', ]
 actualPrice: 17.45 EUR
 currency: EUR
 price: 17.45

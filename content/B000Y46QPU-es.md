@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000Y46QPU-es Wrangler Texas Stretch Vintage Tint Vaqueros para Hombre...'
-tags: [ 'tole.es','vaqueros', ]
+tags: [ 'vaqueros', ]
 actualPrice: 36.43 EUR
 currency: EUR
 price: 36.43

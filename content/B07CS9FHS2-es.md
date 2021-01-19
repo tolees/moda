@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CS9FHS2-es Pepe Jeans New Brooke Vaqueros Hombre Ajustados Azul Denim...'
-tags: [ 'tole.es','vaqueros', ]
+tags: [ 'vaqueros', ]
 actualPrice: 38.0 EUR
 currency: EUR
 price: 38.0

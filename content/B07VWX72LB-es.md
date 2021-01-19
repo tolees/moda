@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VWX72LB-es Pepe Jeans Raury Camiseta Verde Pine Green 672 X-Large...'
-tags: [ 'tole.es','camiseta', ]
+tags: [ 'camiseta', ]
 actualPrice: 10.38 EUR
 currency: EUR
 price: 10.38

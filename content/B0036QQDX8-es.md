@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0036QQDX8-es Havaianas Brasil Logo Chanclas Unisex Adulto Blanco White...'
-tags: [ 'tole.es','chanclas', ]
+tags: [ 'chanclas', ]
 actualPrice: 11.49 EUR
 currency: EUR
 price: 11.49

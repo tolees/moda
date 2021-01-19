@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MQ6AD4O-es Amazon Essentials Cotton Stretch Bikini Panty 6-Pack...'
-tags: [ 'tole.es','bikini', ]
+tags: [ 'bikini', ]
 actualPrice: 11.64 EUR
 currency: EUR
 price: 11.64

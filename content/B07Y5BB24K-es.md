@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y5BB24K-es Geographical Norway Sudadera DE Hombre GYMCLASS B Azul...'
-tags: [ 'tole.es','sudadera', ]
+tags: [ 'sudadera', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

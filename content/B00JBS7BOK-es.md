@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00JBS7BOK-es Kempa Gold Camiseta Hombre Amarillo limón/Negro XL'
-tags: [ 'tole.es','camiseta', ]
+tags: [ 'camiseta', ]
 actualPrice: 9.79 EUR
 currency: EUR
 price: 9.79

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BC78R2L-es Fruit of the Loom - Camiseta básica de Manga Corta Tacto...'
-tags: [ 'tole.es','camiseta', ]
+tags: [ 'camiseta', ]
 actualPrice: 3.7 EUR
 currency: EUR
 price: 3.7

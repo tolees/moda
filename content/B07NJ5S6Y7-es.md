@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NJ5S6Y7-es Springfield 7.J.Ap.T.Turtle Neck Jersey Negro Negro 1...'
-tags: [ 'tole.es','jersey', ]
+tags: [ 'jersey', ]
 actualPrice: 5.15 EUR
 currency: EUR
 price: 5.15

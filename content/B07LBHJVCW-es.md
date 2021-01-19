@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LBHJVCW-es Helly Hansen Squamish 3-In-1 Desmontable & Aislante...'
-tags: [ 'tole.es','chaqueta', ]
+tags: [ 'chaqueta', ]
 actualPrice: 133.0 EUR
 currency: EUR
 price: 133.0

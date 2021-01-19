@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005DXB7VU-es Geox U Moner V Mocasines para Hombre Negro Black C9999 41...'
-tags: [ 'tole.es','geox', ]
+tags: [ 'geox', ]
 actualPrice: 71.36 EUR
 currency: EUR
 price: 71.36

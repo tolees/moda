@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06ZYN4Z9H-es Prada 67Ts Gafas de Sol Unisex Adulto Negro Black 63'
-tags: [ 'tole.es','gafas', ]
+tags: [ 'gafas', ]
 actualPrice: 69.8 EUR
 currency: EUR
 price: 69.8

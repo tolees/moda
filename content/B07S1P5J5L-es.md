@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S1P5J5L-es Levi s Haight Harrington Jacket Chaqueta Negro Mineral...'
-tags: [ 'tole.es','chaqueta', ]
+tags: [ 'chaqueta', ]
 actualPrice: 55.0 EUR
 currency: EUR
 price: 55.0

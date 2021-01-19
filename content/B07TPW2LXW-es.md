@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TPW2LXW-es Superdry VL O Crew Sudadera Gris Grey Marl 07q XS para Hombre'
-tags: [ 'tole.es','sudadera', ]
+tags: [ 'sudadera', ]
 actualPrice: 34.29 EUR
 currency: EUR
 price: 34.29

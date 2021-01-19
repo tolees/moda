@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S6TYD6Z-es El Naturalista N5133 Botines para Mujer Negro Black-...'
-tags: [ 'tole.es','botines', ]
+tags: [ 'botines', ]
 actualPrice: 45.58 EUR
 currency: EUR
 price: 45.58

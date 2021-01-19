@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M5HKMZN-es Geox M Vincit G Abrigo Negro Black F9000 XXX-Large Talla...'
-tags: [ 'tole.es','abrigo','geox', ]
+tags: [ 'abrigo','geox', ]
 actualPrice: 51.34 EUR
 currency: EUR
 price: 51.34

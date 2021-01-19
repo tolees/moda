@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y9XJVTR-es Castellanisimos Zapatos Náuticos de Piel Marron Hombre con...'
-tags: [ 'tole.es','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 64.0 EUR
 currency: EUR
 price: 64.0

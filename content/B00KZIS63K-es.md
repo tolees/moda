@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00KZIS63K-es SOLS- Camiseta de Manga Corta para niñas 8 años Blanco'
-tags: [ 'tole.es','camiseta', ]
+tags: [ 'camiseta', ]
 actualPrice: 3.45 EUR
 currency: EUR
 price: 3.45

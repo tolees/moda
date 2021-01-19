@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BEQYUQS-es El Naturalista N758 Botines para Mujer Marrón Brown 000 37 EU'
-tags: [ 'tole.es','botines', ]
+tags: [ 'botines', ]
 actualPrice: 87.9 EUR
 currency: EUR
 price: 87.9

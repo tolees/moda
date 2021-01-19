@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JBQ4Z2L-es Columbia Powder Lite Chaqueta Mujer C142Cirrus Grey...'
-tags: [ 'tole.es','chaqueta', ]
+tags: [ 'chaqueta', ]
 actualPrice: 50.36 EUR
 currency: EUR
 price: 50.36

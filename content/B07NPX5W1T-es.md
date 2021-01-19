@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NPX5W1T-es Marca Amazon - MERAKI Shorts de Lino Mujer Negro Black 36...'
-tags: [ 'tole.es','meraki', ]
+tags: [ 'meraki', ]
 actualPrice: 8.1 EUR
 currency: EUR
 price: 8.1

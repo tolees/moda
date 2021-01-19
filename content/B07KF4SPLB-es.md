@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KF4SPLB-es Levi s Original Hm Icon Crew Sudadera Blanco White + 0014...'
-tags: [ 'tole.es','sudadera', ]
+tags: [ 'sudadera', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PS6ZCND-es Under Armour Speed Stride Graphic Camisa Manga Corta...'
-tags: [ 'tole.es','camisa', ]
+tags: [ 'camisa', ]
 actualPrice: 13.47 EUR
 currency: EUR
 price: 13.47

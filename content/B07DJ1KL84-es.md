@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DJ1KL84-es Quiksilver Molokai Zapatos de Playa y Piscina para Hombre...'
-tags: [ 'tole.es','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 13.81 EUR
 currency: EUR
 price: 13.81

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073QZJZVG-es Havaianas Slim Chanclas Mujer Rosa Ballet Rose 37/38 EU'
-tags: [ 'tole.es','chanclas', ]
+tags: [ 'chanclas', ]
 actualPrice: 19.45 EUR
 currency: EUR
 price: 19.45

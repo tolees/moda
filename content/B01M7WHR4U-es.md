@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M7WHR4U-es Tuc Tuc Paraguas People - Bolso'
-tags: [ 'tole.es','bolso', ]
+tags: [ 'bolso', ]
 actualPrice: 25.77 EUR
 currency: EUR
 price: 25.77

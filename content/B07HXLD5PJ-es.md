@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HXLD5PJ-es New Look Poplin Camisa para Hombre Azul Light Blue Medium...'
-tags: [ 'tole.es','camisa', ]
+tags: [ 'camisa', ]
 actualPrice: 11.24 EUR
 currency: EUR
 price: 11.24

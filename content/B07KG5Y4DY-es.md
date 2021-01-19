@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KG5Y4DY-es PUMA Auriz Zapatos de Futsal para Hombre White-Green...'
-tags: [ 'tole.es','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 24.19 EUR
 currency: EUR
 price: 24.19

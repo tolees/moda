@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078NNSH7R-es PUMA Liga Casual Sudadera Hombre Peacoat / White M'
-tags: [ 'tole.es','sudadera', ]
+tags: [ 'sudadera', ]
 actualPrice: 29.12 EUR
 currency: EUR
 price: 29.12

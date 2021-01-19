@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000AOZIYE-es Reebok Classic Nylon Zapatilla de Running Hombre Blanco...'
-tags: [ 'tole.es','zapatilla', ]
+tags: [ 'zapatilla', ]
 actualPrice: 46.89 EUR
 currency: EUR
 price: 46.89

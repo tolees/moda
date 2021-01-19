@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P8MLWLL-es Marca Amazon - find. Vestido Midi de Satén Mujer Rojo...'
-tags: [ 'tole.es','vestido','-','find.', ]
+tags: [ 'vestido','-','find.', ]
 actualPrice: 7.08 EUR
 currency: EUR
 price: 7.08

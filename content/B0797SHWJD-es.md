@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0797SHWJD-es Lacoste CH4976 Camisa Azul Hemisphere Small Talla del...'
-tags: [ 'tole.es','camisa', ]
+tags: [ 'camisa', ]
 actualPrice: 36.61 EUR
 currency: EUR
 price: 36.61

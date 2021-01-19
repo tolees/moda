@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NCB8SFF-es Pepe Jeans Hatch Vaqueros Medium Used Wiser Wash Denim 34W...'
-tags: [ 'tole.es','vaqueros', ]
+tags: [ 'vaqueros', ]
 actualPrice: 56.99 EUR
 currency: EUR
 price: 56.99

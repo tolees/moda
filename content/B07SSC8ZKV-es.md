@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SSC8ZKV-es Jack & Jones Jprlogo Twist Shirt L/s STS Camisa Gris Light...'
-tags: [ 'tole.es','camisa', ]
+tags: [ 'camisa', ]
 actualPrice: 13.37 EUR
 currency: EUR
 price: 13.37

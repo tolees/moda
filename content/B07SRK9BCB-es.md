@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SRK9BCB-es Geox D Jaysen A Zapatillas para Mujer Blanco White/Orange...'
-tags: [ 'tole.es','geox', ]
+tags: [ 'geox', ]
 actualPrice: 37.62 EUR
 currency: EUR
 price: 37.62

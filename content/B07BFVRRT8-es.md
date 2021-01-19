@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BFVRRT8-es Rismart Mujer Verano Tacón Grueso Punta Abierta Tartán...'
-tags: [ 'tole.es','sandalias', ]
+tags: [ 'sandalias', ]
 actualPrice: 33.88 EUR
 currency: EUR
 price: 33.88

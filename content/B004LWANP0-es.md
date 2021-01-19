@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004LWANP0-es ALPRO A 630 - Zuecos de material sintético unisex negro -...'
-tags: [ 'tole.es','zuecos', ]
+tags: [ 'zuecos', ]
 actualPrice: 27.0 EUR
 currency: EUR
 price: 27.0

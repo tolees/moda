@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076HPL9ZT-es adidas Core18 PES Jkt Chaqueta Hombre Rojo Power Red/White L'
-tags: [ 'tole.es','chaqueta', ]
+tags: [ 'chaqueta', ]
 actualPrice: 21.21 EUR
 currency: EUR
 price: 21.21

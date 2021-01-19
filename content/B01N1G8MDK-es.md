@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N1G8MDK-es Superga 2750-cotu Classic Zapatilla Baja Unisex Adulto...'
-tags: [ 'tole.es','zapatilla', ]
+tags: [ 'zapatilla', ]
 actualPrice: 28.41 EUR
 currency: EUR
 price: 28.41

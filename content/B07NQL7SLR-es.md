@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NQL7SLR-es Springfield 3Ba Basica Capucha Abierta Sudadera Rojo Red...'
-tags: [ 'tole.es','sudadera', ]
+tags: [ 'sudadera', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

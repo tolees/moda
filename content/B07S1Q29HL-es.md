@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S1Q29HL-es edc by Esprit 089cc2k004 Camiseta Azul Navy 400 Small para...'
-tags: [ 'tole.es','camiseta', ]
+tags: [ 'camiseta', ]
 actualPrice: 7.79 EUR
 currency: EUR
 price: 7.79

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0758J4GTB-es edc by Esprit 997cc1b817 Vaqueros Skinny Azul Blue Dark...'
-tags: [ 'tole.es','vaqueros', ]
+tags: [ 'vaqueros', ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H8DBNYP-es WinCret Piel Carteras para Hombre con Monedero y RFID...'
-tags: [ 'tole.es','billetera','monedero', ]
+tags: [ 'billetera','monedero', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

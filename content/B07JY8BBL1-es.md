@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JY8BBL1-es Lee Malone Vaqueros Skinny Negro Black Rinse 47 26W / 32L...'
-tags: [ 'tole.es','vaqueros', ]
+tags: [ 'vaqueros', ]
 actualPrice: 42.5 EUR
 currency: EUR
 price: 42.5

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DWTQPP9-es RJEU Moda Vintage Mochila de Lona y PU Cuero con Diseño...'
-tags: [ 'tole.es','moda', ]
+tags: [ 'moda', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

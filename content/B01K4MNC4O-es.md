@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01K4MNC4O-es Maxmer 3 Gancho de Pared Percha Perchero Colgador de Pared...'
-tags: [ 'tole.es','abrigo', ]
+tags: [ 'abrigo', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

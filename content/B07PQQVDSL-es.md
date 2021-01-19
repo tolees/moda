@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PQQVDSL-es Celio Pudaim Chaqueta Beige Camel Camel Medium para Hombre'
-tags: [ 'tole.es','chaqueta', ]
+tags: [ 'chaqueta', ]
 actualPrice: 36.71 EUR
 currency: EUR
 price: 36.71

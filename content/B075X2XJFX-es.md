@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075X2XJFX-es find. NEWSTW051 vaqueros mujer cintura alta Blanco White...'
-tags: [ 'tole.es','vaqueros', ]
+tags: [ 'vaqueros', ]
 actualPrice: 8.07 EUR
 currency: EUR
 price: 8.07

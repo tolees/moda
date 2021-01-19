@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NAHNK7A-es G-STAR RAW Eyben Slim V T Wmn S/s Camiseta Negro Black 990...'
-tags: [ 'tole.es','camiseta', ]
+tags: [ 'camiseta', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

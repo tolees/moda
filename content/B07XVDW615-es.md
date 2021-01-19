@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XVDW615-es Geographical Norway Sudadera Mujer GYMCLASS B Taupe S'
-tags: [ 'tole.es','sudadera', ]
+tags: [ 'sudadera', ]
 actualPrice: 27.3 EUR
 currency: EUR
 price: 27.3

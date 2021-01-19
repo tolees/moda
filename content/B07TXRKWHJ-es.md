@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TXRKWHJ-es Wrangler SS 2 Pkt Flap Shirt Camisa Azul Cerulean Blue Xvt...'
-tags: [ 'tole.es','camisa', ]
+tags: [ 'camisa', ]
 actualPrice: 20.51 EUR
 currency: EUR
 price: 20.51

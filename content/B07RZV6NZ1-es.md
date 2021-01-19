@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RZV6NZ1-es Columbia Vapor Vent Zapatos para Hombre Azul Pool/Red...'
-tags: [ 'tole.es','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 51.99 EUR
 currency: EUR
 price: 51.99

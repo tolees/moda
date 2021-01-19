@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TV7NXYM-es Levi s 725 High Rise Bootcut Vaqueros Corte de Bota Azul...'
-tags: [ 'tole.es','vaqueros', ]
+tags: [ 'vaqueros', ]
 actualPrice: 56.59 EUR
 currency: EUR
 price: 56.59

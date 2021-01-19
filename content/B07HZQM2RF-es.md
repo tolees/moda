@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HZQM2RF-es find. Diagonal Weave Mule Sandalias con Punta Abierta...'
-tags: [ 'tole.es','sandalias', ]
+tags: [ 'sandalias', ]
 actualPrice: 5.55 EUR
 currency: EUR
 price: 5.55

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HMCGHDG-es Skechers Heston-Rogic Zapatos de Cordones Oxford para...'
-tags: [ 'tole.es','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 44.5 EUR
 currency: EUR
 price: 44.5

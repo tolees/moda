@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01J1LQ16U-es Crocs Crocband U Zuecos Unisex Adulto Beige Stucco-Melon...'
-tags: [ 'tole.es','zuecos', ]
+tags: [ 'zuecos', ]
 actualPrice: 23.4 EUR
 currency: EUR
 price: 23.4

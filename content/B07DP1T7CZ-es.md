@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DP1T7CZ-es Gant The Broadcloth Gingham Reg BD Camisa Azul Capri Blue...'
-tags: [ 'tole.es','camisa', ]
+tags: [ 'camisa', ]
 actualPrice: 64.98 EUR
 currency: EUR
 price: 64.98

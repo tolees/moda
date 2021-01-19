@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08C4SVXJK-es Concert Light Stick 15 Sticks de colores intercambiables...'
-tags: [ 'tole.es','moda', ]
+tags: [ 'moda', ]
 actualPrice: 7.25 EUR
 currency: EUR
 price: 7.25

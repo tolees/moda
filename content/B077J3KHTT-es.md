@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077J3KHTT-es BOSS T-Shirt VN 3P CO Camiseta Multicolor Miscellaneous...'
-tags: [ 'tole.es','camiseta', ]
+tags: [ 'camiseta', ]
 actualPrice: 24.69 EUR
 currency: EUR
 price: 24.69

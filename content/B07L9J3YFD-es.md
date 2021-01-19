@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L9J3YFD-es Under Armour Tactical All Season Chaqueta Hombre Verde MD'
-tags: [ 'tole.es','chaqueta', ]
+tags: [ 'chaqueta', ]
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

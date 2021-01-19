@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TMRKNVX-es Clarks Stanford Walk Zapatos de Cordones Derby Negro Black...'
-tags: [ 'tole.es','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 50.55 EUR
 currency: EUR
 price: 50.55

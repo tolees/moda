@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDL6TQ7-es G-STAR RAW Graphic 14 Core Hooded Sudadera Negro Dk Black...'
-tags: [ 'tole.es','sudadera', ]
+tags: [ 'sudadera', ]
 actualPrice: 58.09 EUR
 currency: EUR
 price: 58.09

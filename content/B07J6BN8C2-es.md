@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J6BN8C2-es Percy Perry Hombre Chaqueta de Piloto Bombardero Chaqueta...'
-tags: [ 'tole.es','chaqueta', ]
+tags: [ 'chaqueta', ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

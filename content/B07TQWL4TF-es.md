@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TQWL4TF-es HAWKERS · NARCISO · Electric Blue · Gafas de sol para...'
-tags: [ 'tole.es','gafas', ]
+tags: [ 'gafas', ]
 actualPrice: 8.44 EUR
 currency: EUR
 price: 8.44

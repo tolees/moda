@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077Y3GC7X-es HIKARO Chaqueta Bomber Hombre Azul Navy 50 Talla del...'
-tags: [ 'tole.es','chaqueta', ]
+tags: [ 'chaqueta', ]
 actualPrice: 39.96 EUR
 currency: EUR
 price: 39.96

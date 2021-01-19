@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K2L2PXL-es Timberland Adventure 2.0 Cupsole Alpine Oxford Zapatillas...'
-tags: [ 'tole.es','timberland', ]
+tags: [ 'timberland', ]
 actualPrice: 78.0 EUR
 currency: EUR
 price: 78.0

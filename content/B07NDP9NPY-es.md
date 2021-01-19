@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDP9NPY-es TBS Paxsonn Zapatos de Cordones Derby para Hombre Marron...'
-tags: [ 'tole.es','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 29.7 EUR
 currency: EUR
 price: 29.7

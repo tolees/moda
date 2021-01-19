@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QXT3DT1-es I IHAYNER Mochila Para Mujer Mini Mochila Para Mujer...'
-tags: [ 'tole.es','monedero', ]
+tags: [ 'monedero', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

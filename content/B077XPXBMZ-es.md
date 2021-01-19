@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077XPXBMZ-es Under Armour Armour Fleece Jogger Pantalón De Chándal...'
-tags: [ 'tole.es','pantalón', ]
+tags: [ 'pantalón', ]
 actualPrice: 23.66 EUR
 currency: EUR
 price: 23.66

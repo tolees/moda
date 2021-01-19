@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFV95PW-es Geox U KEELBACK B ABX B Zapatillas Altas para Hombre Negro...'
-tags: [ 'tole.es','geox', ]
+tags: [ 'geox', ]
 actualPrice: 27.53 EUR
 currency: EUR
 price: 27.53

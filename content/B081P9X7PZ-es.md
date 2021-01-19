@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081P9X7PZ-es NIKE M Nk Dry Strke TRK Jkt HD K Ng Chaqueta de Deporte...'
-tags: [ 'tole.es','chaqueta', ]
+tags: [ 'chaqueta', ]
 actualPrice: 24.67 EUR
 currency: EUR
 price: 24.67

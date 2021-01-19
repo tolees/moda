@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086WCXLX4-es Qunlon Ultraligero Zapatos de Seguridad Hombres Mujeres...'
-tags: [ 'tole.es','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

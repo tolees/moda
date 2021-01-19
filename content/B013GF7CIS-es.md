@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B013GF7CIS-es Timberland 6 in Premium Waterproof Botas Clasicas Unisex-...'
-tags: [ 'tole.es','timberland', ]
+tags: [ 'timberland', ]
 actualPrice: 29.19 EUR
 currency: EUR
 price: 29.19

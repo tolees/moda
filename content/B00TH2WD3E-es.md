@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00TH2WD3E-es Berydale CAmisa para mujer estilo Carmen Blanco 34'
-tags: [ 'tole.es','camisa', ]
+tags: [ 'camisa', ]
 actualPrice: 12.09 EUR
 currency: EUR
 price: 12.09

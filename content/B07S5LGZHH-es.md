@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S5LGZHH-es Sandalias Mujer con Sandalias Wedge Plateau con Correa en...'
-tags: [ 'tole.es','sandalias','zapatos', ]
+tags: [ 'sandalias','zapatos', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

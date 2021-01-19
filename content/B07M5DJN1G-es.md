@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M5DJN1G-es Lee Luke Vaqueros Vintage Blue HX 33W / 32L para Hombre'
-tags: [ 'tole.es','vaqueros', ]
+tags: [ 'vaqueros', ]
 actualPrice: 40.99 EUR
 currency: EUR
 price: 40.99

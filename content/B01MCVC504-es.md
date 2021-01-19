@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MCVC504-es 2019 bolsos mujer bolso mujer bolsos bandolera mujer...'
-tags: [ 'tole.es','bolso', ]
+tags: [ 'bolso', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

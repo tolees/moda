@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00HRIQU4S-es Timberland - Patucos y casquillo para bebés Multicolor...'
-tags: [ 'tole.es','timberland', ]
+tags: [ 'timberland', ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

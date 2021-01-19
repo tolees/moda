@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TWXDM5B-es Women s Secret Multilicense College MC WR B-Star PJ...'
-tags: [ 'tole.es','pijama', ]
+tags: [ 'pijama', ]
 actualPrice: 16.74 EUR
 currency: EUR
 price: 16.74

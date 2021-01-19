@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YN94SXT-es MTNG Collection 58693 Sandalias con Punta Abierta para...'
-tags: [ 'tole.es','sandalias', ]
+tags: [ 'sandalias', ]
 actualPrice: 22.41 EUR
 currency: EUR
 price: 22.41

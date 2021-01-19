@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01H5E8NOI-es IEFIEL Vestido de Flores Blanco Niña Vestido Boda Fiesta...'
-tags: [ 'tole.es','falda','vestido', ]
+tags: [ 'falda','vestido', ]
 actualPrice: 14.49 EUR
 currency: EUR
 price: 14.49

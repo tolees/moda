@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077YKHSR6-es Puma 516397 04 Chaleco Mujer Blanco M'
-tags: [ 'tole.es','chaleco', ]
+tags: [ 'chaleco', ]
 actualPrice: 14.63 EUR
 currency: EUR
 price: 14.63

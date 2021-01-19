@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TYP3SGX-es QUEEN ROSE Almohada de Embarazo con Funda de Jersey...'
-tags: [ 'tole.es','jersey', ]
+tags: [ 'jersey', ]
 actualPrice: 39.79 EUR
 currency: EUR
 price: 39.79

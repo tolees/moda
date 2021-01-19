@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TLTFR3S-es Clarks Hero Zapatos de Cordones Brogue para Mujer Negro...'
-tags: [ 'tole.es','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 43.02 EUR
 currency: EUR
 price: 43.02

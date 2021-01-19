@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NYQJRKV-es Sexy Lencería Picardias Mujer Body Transparente Conjunto...'
-tags: [ 'tole.es','pijama', ]
+tags: [ 'pijama', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

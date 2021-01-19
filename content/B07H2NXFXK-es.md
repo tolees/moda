@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H2NXFXK-es GANT D1. Triangle Texture Fullzip Chaqueta Punto Gris Dk...'
-tags: [ 'tole.es','chaqueta', ]
+tags: [ 'chaqueta', ]
 actualPrice: 80.0 EUR
 currency: EUR
 price: 80.0

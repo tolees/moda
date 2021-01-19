@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01AK68WVM-es Helly Hansen W Long Belfast Chaqueta Mujer Negro Black M'
-tags: [ 'tole.es','chaqueta', ]
+tags: [ 'chaqueta', ]
 actualPrice: 99.49 EUR
 currency: EUR
 price: 99.49

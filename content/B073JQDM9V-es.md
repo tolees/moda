@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073JQDM9V-es Marca Amazon - find. Cazadora Acolchada Hombre Azul Navy...'
-tags: [ 'tole.es','-','find.', ]
+tags: [ '-','find.', ]
 actualPrice: 13.16 EUR
 currency: EUR
 price: 13.16

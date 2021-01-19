@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085HBHYL1-es CHEREEKI Gafas de Sol Deportivas Gafas de Sol Polarizadas...'
-tags: [ 'tole.es','gafas', ]
+tags: [ 'gafas', ]
 actualPrice: 15.46 EUR
 currency: EUR
 price: 15.46

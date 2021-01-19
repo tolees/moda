@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VPTRLTW-es Izod Solid Logo Arch tee Camiseta Blanco Cloud Dancer 104...'
-tags: [ 'tole.es','camiseta', ]
+tags: [ 'camiseta', ]
 actualPrice: 5.73 EUR
 currency: EUR
 price: 5.73

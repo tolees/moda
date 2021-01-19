@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076JGFJM6-es adidas Trefoil Crew Sudadera Hombre Negro L'
-tags: [ 'tole.es','sudadera', ]
+tags: [ 'sudadera', ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

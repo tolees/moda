@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TSFFMX1-es Wrangler Bryson Vaqueros Skinny Azul Game On 12e 32W / 32L...'
-tags: [ 'tole.es','vaqueros', ]
+tags: [ 'vaqueros', ]
 actualPrice: 29.69 EUR
 currency: EUR
 price: 29.69

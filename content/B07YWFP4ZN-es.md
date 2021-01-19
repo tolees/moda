@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YWFP4ZN-es SKYSPER Ropa Interior Térmica Hombre Conjuntos Térmicos...'
-tags: [ 'tole.es','camiseta', ]
+tags: [ 'camiseta', ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JJ7YJN1-es Lacoste Th3377 Camiseta Blanc/Noir Au8 X-Small Talla del...'
-tags: [ 'tole.es','camiseta', ]
+tags: [ 'camiseta', ]
 actualPrice: 31.33 EUR
 currency: EUR
 price: 31.33

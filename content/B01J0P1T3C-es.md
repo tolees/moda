@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01J0P1T3C-es EKU FASHION - Camiseta - para bebé niño Azul Azul 5T'
-tags: [ 'tole.es','camiseta', ]
+tags: [ 'camiseta', ]
 actualPrice: 3.63 EUR
 currency: EUR
 price: 3.63

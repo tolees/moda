@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KL2JMP2-es adidas W E Lin Slim T Camiseta de Manga Corta Mujer Negro...'
-tags: [ 'tole.es','camiseta', ]
+tags: [ 'camiseta', ]
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

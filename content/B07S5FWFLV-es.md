@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S5FWFLV-es Karactermania Harry Potter Relic-Action Mini Horizontal...'
-tags: [ 'tole.es','bolso', ]
+tags: [ 'bolso', ]
 actualPrice: 8.45 EUR
 currency: EUR
 price: 8.45

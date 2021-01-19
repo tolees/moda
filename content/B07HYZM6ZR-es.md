@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HYZM6ZR-es Amazon Essentials 6-Pack Cotton Bikini Underwear...'
-tags: [ 'tole.es','bikini', ]
+tags: [ 'bikini', ]
 actualPrice: 6.44 EUR
 currency: EUR
 price: 6.44

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BPFY747-es Jack & Jones JJEMAGIC Puffer Collar Noos Chaqueta Rosin M...'
-tags: [ 'tole.es','chaqueta','collar', ]
+tags: [ 'chaqueta','collar', ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

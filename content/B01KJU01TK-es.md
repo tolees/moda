@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KJU01TK-es Timberland 6-Inch Premium Boot Botas para Hombre Marrón...'
-tags: [ 'tole.es','timberland', ]
+tags: [ 'timberland', ]
 actualPrice: 156.99 EUR
 currency: EUR
 price: 156.99

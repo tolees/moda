@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F3SCC8N-es Geox Uomo Sandal Strada D Sandalias con Punta Abierta para...'
-tags: [ 'tole.es','geox','sandalias', ]
+tags: [ 'geox','sandalias', ]
 actualPrice: 44.35 EUR
 currency: EUR
 price: 44.35

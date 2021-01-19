@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VDFZK92-es Desigual TS Milan Camiseta Amarillo Blazing 8035 Small...'
-tags: [ 'tole.es','camiseta', ]
+tags: [ 'camiseta', ]
 actualPrice: 15.58 EUR
 currency: EUR
 price: 15.58

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06Y2DPJV7-es Monedero "Mamá tu sonrisa lo vale todo"'
-tags: [ 'tole.es','monedero', ]
+tags: [ 'monedero', ]
 actualPrice: 12.48 EUR
 currency: EUR
 price: 12.48

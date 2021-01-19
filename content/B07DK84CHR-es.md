@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DK84CHR-es GoPetee Collar Antiladridos para Perros Pequeños Medianos...'
-tags: [ 'tole.es','collar', ]
+tags: [ 'collar', ]
 actualPrice: 12.59 EUR
 currency: EUR
 price: 12.59

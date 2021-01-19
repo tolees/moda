@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RM3ZPP8-es Tommy Hilfiger Cazadora Chaqueta Bomber Essential con...'
-tags: [ 'tole.es','chaqueta', ]
+tags: [ 'chaqueta', ]
 actualPrice: 91.88 EUR
 currency: EUR
 price: 91.88

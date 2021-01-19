@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081CFYBMT-es Geographical Norway Chaqueta Hombre BOKER MARRÓN M'
-tags: [ 'tole.es','chaqueta', ]
+tags: [ 'chaqueta', ]
 actualPrice: 79.2 EUR
 currency: EUR
 price: 79.2

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078S7GPPD-es Alicia abrigo chaqueta de invierno damas negro - Gothic...'
-tags: [ 'tole.es','abrigo','chaqueta', ]
+tags: [ 'abrigo','chaqueta', ]
 actualPrice: 52.99 EUR
 currency: EUR
 price: 52.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XC6KM8Q-es Clarks Tilden Walk Zapatos de Cordones Derby Marrón Dark...'
-tags: [ 'tole.es','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 39.5 EUR
 currency: EUR
 price: 39.5

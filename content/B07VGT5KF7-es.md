@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VGT5KF7-es Havaianas Slim Frozen Chanclas Chica Multicolor Crystal...'
-tags: [ 'tole.es','chanclas', ]
+tags: [ 'chanclas', ]
 actualPrice: 11.04 EUR
 currency: EUR
 price: 11.04

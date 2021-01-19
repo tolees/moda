@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FTP1BHG-es Lee Scarlett Vaqueros Azul Flight Wj 27W / 31L para Mujer'
-tags: [ 'tole.es','vaqueros', ]
+tags: [ 'vaqueros', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

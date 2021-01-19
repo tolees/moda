@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004VJS2EM-es FitFlop Zapatos de Cordones Chukker Chocolate EU 44 UK 10'
-tags: [ 'tole.es','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 75.95 EUR
 currency: EUR
 price: 75.95

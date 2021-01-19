@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JHWDJBG-es PUMA Cup Training 1/4 Zip T Core Chaqueta De Entrenamiento...'
-tags: [ 'tole.es','chaqueta', ]
+tags: [ 'chaqueta', ]
 actualPrice: 21.76 EUR
 currency: EUR
 price: 21.76

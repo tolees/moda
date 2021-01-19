@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N1HLHSM-es Clarks Un Cosmo Way Zapatos de Tacón para Mujer Gris Grey...'
-tags: [ 'tole.es','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 17.05 EUR
 currency: EUR
 price: 17.05

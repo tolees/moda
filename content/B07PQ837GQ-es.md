@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PQ837GQ-es Kipling Gleam S Bolso de Tocador para Mujer Multicolor...'
-tags: [ 'tole.es','bolso', ]
+tags: [ 'bolso', ]
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

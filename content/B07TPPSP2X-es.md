@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TPPSP2X-es Levi s 511 Slim Vaqueros Noce Cool 4211 32W / 32L para Hombre'
-tags: [ 'tole.es','vaqueros', ]
+tags: [ 'vaqueros', ]
 actualPrice: 39.0 EUR
 currency: EUR
 price: 39.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T6TQLL2-es Tikea Bolsa Geométrica Luminosa Holográfica para Mujer...'
-tags: [ 'tole.es','bolso','moda', ]
+tags: [ 'bolso','moda', ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072HV6C9Q-es find. Sudadera Manga Fruncida para Mujer Rosa Soft Peach...'
-tags: [ 'tole.es','sudadera', ]
+tags: [ 'sudadera', ]
 actualPrice: 12 EUR
 currency: EUR
 price: 12

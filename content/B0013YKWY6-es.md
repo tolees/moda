@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0013YKWY6-es Birkenstock Medina Birko-Flor Chanclas para Hombre Negro...'
-tags: [ 'tole.es','chanclas', ]
+tags: [ 'chanclas', ]
 actualPrice: 35.5 EUR
 currency: EUR
 price: 35.5

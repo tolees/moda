@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JFLPXM3-es Pepe Jeans Boreas Pm402096 Chaqueta Flame 265 Medium para...'
-tags: [ 'tole.es','chaqueta', ]
+tags: [ 'chaqueta', ]
 actualPrice: 66.0 EUR
 currency: EUR
 price: 66.0

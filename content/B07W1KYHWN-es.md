@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W1KYHWN-es NUBILY Bolsos de Mujer Bolso para Portatil 15.6 Pulgadas...'
-tags: [ 'tole.es','bolso', ]
+tags: [ 'bolso', ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

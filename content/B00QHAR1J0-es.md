@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00QHAR1J0-es Under Armour Coldgear Armour Mock Camiseta De Manga Larga...'
-tags: [ 'tole.es','camiseta', ]
+tags: [ 'camiseta', ]
 actualPrice: 34.3 EUR
 currency: EUR
 price: 34.3

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07864TTSG-es CROCS Swiftwater Mesh Deck Sandal M Zuecos para Hombre...'
-tags: [ 'tole.es','zuecos', ]
+tags: [ 'zuecos', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

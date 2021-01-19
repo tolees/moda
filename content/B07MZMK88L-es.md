@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZMK88L-es Pepe Jeans Nadia Sudadera Grey Marl 933 11-12 años Talla...'
-tags: [ 'tole.es','sudadera', ]
+tags: [ 'sudadera', ]
 actualPrice: 24.46 EUR
 currency: EUR
 price: 24.46

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VCTDVRP-es Fossil Collar para Mujer JF03217710'
-tags: [ 'tole.es','collar', ]
+tags: [ 'collar', ]
 actualPrice: 17.7 EUR
 currency: EUR
 price: 17.7

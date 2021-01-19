@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZPTHHZ-es Pepe Jeans Donovan Camisa Multi 0aa Medium para Hombre'
-tags: [ 'tole.es','camisa', ]
+tags: [ 'camisa', ]
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

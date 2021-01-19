@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X53X6NQ-es J.Rosée Caja de Organizador de joyería de Viaje pequeña...'
-tags: [ 'tole.es','collar', ]
+tags: [ 'collar', ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01D38HMDS-es Ultrasport Chaqueta multifuncional de hombre Endy con...'
-tags: [ 'tole.es','chaqueta', ]
+tags: [ 'chaqueta', ]
 actualPrice: 19.12 EUR
 currency: EUR
 price: 19.12

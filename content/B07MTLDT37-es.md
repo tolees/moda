@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MTLDT37-es Peppa Pig Sudadera para niñas 4-5 años Rosado'
-tags: [ 'tole.es','sudadera', ]
+tags: [ 'sudadera', ]
 actualPrice: 16.95 EUR
 currency: EUR
 price: 16.95

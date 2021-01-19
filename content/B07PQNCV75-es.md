@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PQNCV75-es El Ganso 1 Camisa casual Rojo Rojo 0010 XX-Large para Hombre'
-tags: [ 'tole.es','camisa', ]
+tags: [ 'camisa', ]
 actualPrice: 25.4 EUR
 currency: EUR
 price: 25.4

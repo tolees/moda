@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087PK5DGL-es Gracemee Mujer Moda Stiletto Heels Zapatos Ponerse Basic...'
-tags: [ 'tole.es','moda','zapatos', ]
+tags: [ 'moda','zapatos', ]
 actualPrice: 47.6 EUR
 currency: EUR
 price: 47.6

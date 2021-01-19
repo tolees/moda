@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P7P1N2X-es dPois Chaleco Deporte Yoga Gym Running Danza Baile Mujer...'
-tags: [ 'tole.es','blusa','camiseta','chaleco','moda', ]
+tags: [ 'blusa','camiseta','chaleco','moda', ]
 actualPrice: 5.88 EUR
 currency: EUR
 price: 5.88

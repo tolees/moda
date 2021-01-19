@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00OZQ7HEC-es adidas T-Shirt Originals Sport Essentials tee - Camiseta...'
-tags: [ 'tole.es','camiseta', ]
+tags: [ 'camiseta', ]
 actualPrice: 20.13 EUR
 currency: EUR
 price: 20.13

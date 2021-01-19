@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K2FTHHZ-es Timberland Adventure 2.0 Cupsole Modern Chukka Zapatillas...'
-tags: [ 'tole.es','timberland', ]
+tags: [ 'timberland', ]
 actualPrice: 34.98 EUR
 currency: EUR
 price: 34.98

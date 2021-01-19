@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00UKEJDKY-es Carrera 96/S NR GVB Gafas de sol Negro Shiny Matte...'
-tags: [ 'tole.es','gafas', ]
+tags: [ 'gafas', ]
 actualPrice: 90.87 EUR
 currency: EUR
 price: 90.87

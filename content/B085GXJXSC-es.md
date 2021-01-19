@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085GXJXSC-es Jack & Jones Jcogeek Sweat Hood Fst Sudadera con Capucha...'
-tags: [ 'tole.es','sudadera', ]
+tags: [ 'sudadera', ]
 actualPrice: 15.92 EUR
 currency: EUR
 price: 15.92

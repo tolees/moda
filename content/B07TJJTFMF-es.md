@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TJJTFMF-es G-STAR RAW Graphic 15 Hooded Sudadera Multicolor Mazarine...'
-tags: [ 'tole.es','sudadera', ]
+tags: [ 'sudadera', ]
 actualPrice: 44.97 EUR
 currency: EUR
 price: 44.97

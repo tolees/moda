@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F2WN7JL-es Pepe Jeans Hatch Vaqueros Slim Azul Wiser Wash Dark Used...'
-tags: [ 'tole.es','vaqueros', ]
+tags: [ 'vaqueros', ]
 actualPrice: 47.45 EUR
 currency: EUR
 price: 47.45

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y9S5FL8-es edc by Esprit 129cc2g003 Chaqueta Beige Beige 270 Small...'
-tags: [ 'tole.es','chaqueta', ]
+tags: [ 'chaqueta', ]
 actualPrice: 94.48 EUR
 currency: EUR
 price: 94.48

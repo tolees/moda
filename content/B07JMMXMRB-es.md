@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JMMXMRB-es Hombre Botas de Nieve Al Aire Libre Senderismo...'
-tags: [ 'tole.es','botines','zapatos', ]
+tags: [ 'botines','zapatos', ]
 actualPrice: 27.34 EUR
 currency: EUR
 price: 27.34

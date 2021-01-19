@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TF6L7MN-es ElegantPark HC1920 Zapatos Novia Tacon Bajo Correa Cruzada...'
-tags: [ 'tole.es','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 56.99 EUR
 currency: EUR
 price: 56.99

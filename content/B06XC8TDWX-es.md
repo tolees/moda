@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XC8TDWX-es Pepe Jeans Spike Vaqueros Azul Fonce Denim H05 W33/L36...'
-tags: [ 'tole.es','vaqueros', ]
+tags: [ 'vaqueros', ]
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

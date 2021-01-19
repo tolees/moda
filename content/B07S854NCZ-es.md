@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S854NCZ-es Crocs Crocband Flip Chanclas Unisex-Adult Orange...'
-tags: [ 'tole.es','chanclas', ]
+tags: [ 'chanclas', ]
 actualPrice: 17.81 EUR
 currency: EUR
 price: 17.81

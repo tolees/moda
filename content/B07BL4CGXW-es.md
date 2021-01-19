@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BL4CGXW-es FANTAZIA - Pantalón Corto - Pierna Ancha - para Mujer...'
-tags: [ 'tole.es','pantalón', ]
+tags: [ 'pantalón', ]
 actualPrice: 14.5 EUR
 currency: EUR
 price: 14.5

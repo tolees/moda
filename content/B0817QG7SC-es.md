@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0817QG7SC-es Ohwhoa Guantes Invierno con Mascara por Hombre y Mujer...'
-tags: [ 'tole.es','guantes', ]
+tags: [ 'guantes', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

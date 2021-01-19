@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MYSZJQ1-es Zapatillas de Deporte Blanco para Las niñas Harpia Zapatos...'
-tags: [ 'tole.es','moda','zapatos', ]
+tags: [ 'moda','zapatos', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

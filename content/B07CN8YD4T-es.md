@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CN8YD4T-es crocs Serena Sandal W Zapatos de Playa y Piscina para...'
-tags: [ 'tole.es','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 7.8 EUR
 currency: EUR
 price: 7.8

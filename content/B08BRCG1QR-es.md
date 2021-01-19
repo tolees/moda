@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BRCG1QR-es FUSHITON Hombre Zapatillas Casual Calzado Deportivo Moda...'
-tags: [ 'tole.es','moda','zapatos', ]
+tags: [ 'moda','zapatos', ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

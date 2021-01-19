@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S31NTS1-es Columbia Youth TECHSUN Vent Sandalias para Niños Gris...'
-tags: [ 'tole.es','sandalias', ]
+tags: [ 'sandalias', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

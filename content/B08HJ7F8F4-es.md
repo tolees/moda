@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08HJ7F8F4-es MegaPack de Gafas de Protección y Seguridad Transparentes...'
-tags: [ 'tole.es','gafas', ]
+tags: [ 'gafas', ]
 actualPrice: 9.5 EUR
 currency: EUR
 price: 9.5

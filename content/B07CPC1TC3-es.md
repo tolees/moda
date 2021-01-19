@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CPC1TC3-es Crocs Classic Clog Kids Roomy fit Zuecos Unisex niños Rosa...'
-tags: [ 'tole.es','zuecos', ]
+tags: [ 'zuecos', ]
 actualPrice: 8.91 EUR
 currency: EUR
 price: 8.91

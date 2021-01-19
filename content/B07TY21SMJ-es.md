@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TY21SMJ-es Lee Daren Zip Fly Vaqueros Straight Gris Grey Bell Kq 34W...'
-tags: [ 'tole.es','vaqueros', ]
+tags: [ 'vaqueros', ]
 actualPrice: 27.65 EUR
 currency: EUR
 price: 27.65

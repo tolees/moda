@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G5YBGSC-es YDFYX Pierna Bolsa Multifuncional de Nailon Bolso para...'
-tags: [ 'tole.es','bolso', ]
+tags: [ 'bolso', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

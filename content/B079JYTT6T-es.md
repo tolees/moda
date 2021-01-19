@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079JYTT6T-es Nike Dry Academy 18 Football Top Camiseta Hombre Azul...'
-tags: [ 'tole.es','camiseta', ]
+tags: [ 'camiseta', ]
 actualPrice: 13.95 EUR
 currency: EUR
 price: 13.95

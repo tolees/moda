@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N3YVQMM-es Desigual Dress LENCY Vestido Azul Medieval Blue 5074 38...'
-tags: [ 'tole.es','vestido', ]
+tags: [ 'vestido', ]
 actualPrice: 19.78 EUR
 currency: EUR
 price: 19.78

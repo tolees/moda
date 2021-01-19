@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VKGNP24-es Hackett London Amr Knit Shoulder Camiseta Azul 595navy 595...'
-tags: [ 'tole.es','camiseta', ]
+tags: [ 'camiseta', ]
 actualPrice: 48.31 EUR
 currency: EUR
 price: 48.31

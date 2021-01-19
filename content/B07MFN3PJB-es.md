@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MFN3PJB-es Geox U Nebula Y A Zapatillas para Hombre Azul Navy C4002...'
-tags: [ 'tole.es','geox', ]
+tags: [ 'geox', ]
 actualPrice: 60.79 EUR
 currency: EUR
 price: 60.79

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JRGVQ1P-es Zapatillas de Seguridad Hombre LM-18 Zapatos de Seguridad...'
-tags: [ 'tole.es','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

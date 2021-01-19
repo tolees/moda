@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VZZBSMP-es El Naturalista Wakatiwai Sandalias con Punta Abierta para...'
-tags: [ 'tole.es','sandalias', ]
+tags: [ 'sandalias', ]
 actualPrice: 43.86 EUR
 currency: EUR
 price: 43.86

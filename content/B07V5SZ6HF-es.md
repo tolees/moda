@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V5SZ6HF-es JACK & JONES PREMIUM 12154586 Abrigo Negro Black Black...'
-tags: [ 'tole.es','abrigo', ]
+tags: [ 'abrigo', ]
 actualPrice: 100.95 EUR
 currency: EUR
 price: 100.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T9CB6SQ-es Crocs Classic Metallic Clog Zuecos Unisex Adulto Rosa...'
-tags: [ 'tole.es','zuecos', ]
+tags: [ 'zuecos', ]
 actualPrice: 33.85 EUR
 currency: EUR
 price: 33.85

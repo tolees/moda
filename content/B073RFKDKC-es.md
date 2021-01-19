@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073RFKDKC-es Sportstech KS200 Barra dominadas Puerta con Sistema...'
-tags: [ 'tole.es','guantes', ]
+tags: [ 'guantes', ]
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

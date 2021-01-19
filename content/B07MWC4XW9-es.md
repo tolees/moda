@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MWC4XW9-es RICOO WM035-W-B Banco Zapatero 79x49x30 Armario Interior...'
-tags: [ 'tole.es','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 55.99 EUR
 currency: EUR
 price: 55.99

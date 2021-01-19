@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V8MLMHV-es Tom Tailor Denim Culver Vaqueros Skinny Azul Mid Stone...'
-tags: [ 'tole.es','vaqueros', ]
+tags: [ 'vaqueros', ]
 actualPrice: 15.84 EUR
 currency: EUR
 price: 15.84

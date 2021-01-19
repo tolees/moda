@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0722X5GBN-es find. Vestido para Mujer Rojo Wine 36 Talla del...'
-tags: [ 'tole.es','vestido', ]
+tags: [ 'vestido', ]
 actualPrice: 8.4 EUR
 currency: EUR
 price: 8.4

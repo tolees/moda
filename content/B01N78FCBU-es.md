@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N78FCBU-es Miss Lulu Mujer Bolso de Mano Reversible Elegante Bolso de...'
-tags: [ 'tole.es','bolso', ]
+tags: [ 'bolso', ]
 actualPrice: 19.11 EUR
 currency: EUR
 price: 19.11

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LBP7C9L-es Helly Hansen Daybreaker Chaqueta Forro Polar con Capucha...'
-tags: [ 'tole.es','chaqueta', ]
+tags: [ 'chaqueta', ]
 actualPrice: 47.49 EUR
 currency: EUR
 price: 47.49

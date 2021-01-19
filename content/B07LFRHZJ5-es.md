@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFRHZJ5-es Geox D GLYNNA C Botines para Mujer Negro Black C9999 39.5 EU'
-tags: [ 'tole.es','botines','geox', ]
+tags: [ 'botines','geox', ]
 actualPrice: 50.95 EUR
 currency: EUR
 price: 50.95

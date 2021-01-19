@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FQV5NVH-es Clarks Sharon Crystal Zapatos de Cordones Derby para Mujer...'
-tags: [ 'tole.es','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 37.21 EUR
 currency: EUR
 price: 37.21

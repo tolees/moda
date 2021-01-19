@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HFQVBGC-es HOMCOM Saco de Boxeo de pie Boxing Ball Entrenamiento MMA...'
-tags: [ 'tole.es','guantes', ]
+tags: [ 'guantes', ]
 actualPrice: 37.39 EUR
 currency: EUR
 price: 37.39

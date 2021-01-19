@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TTT1RQ4-es Women s Secret Thermal Generic GF Snow PJ Conjuntos de...'
-tags: [ 'tole.es','pijama', ]
+tags: [ 'pijama', ]
 actualPrice: 15.97 EUR
 currency: EUR
 price: 15.97

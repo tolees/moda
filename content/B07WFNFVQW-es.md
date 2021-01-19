@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WFNFVQW-es Pitillos Zapatos Tacon 5853P para Mujer Negro 41 EU'
-tags: [ 'tole.es','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 36.0 EUR
 currency: EUR
 price: 36.0

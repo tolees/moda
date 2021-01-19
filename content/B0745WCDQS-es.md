@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0745WCDQS-es Nakosite PET2433 El Mejor Collar Anti-Ladridos Collar...'
-tags: [ 'tole.es','collar', ]
+tags: [ 'collar', ]
 actualPrice: 20.58 EUR
 currency: EUR
 price: 20.58

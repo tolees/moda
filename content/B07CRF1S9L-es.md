@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CRF1S9L-es Pepe Jeans Nate Jr Camisa White 800 8 años para Niños'
-tags: [ 'tole.es','camisa', ]
+tags: [ 'camisa', ]
 actualPrice: 16.0 EUR
 currency: EUR
 price: 16.0

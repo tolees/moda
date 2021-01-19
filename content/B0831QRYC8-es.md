@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0831QRYC8-es Canadian Peak Chaqueta Mujer BAMBOLINA Negro 02'
-tags: [ 'tole.es','chaqueta', ]
+tags: [ 'chaqueta', ]
 actualPrice: 69.3 EUR
 currency: EUR
 price: 69.3

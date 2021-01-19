@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TLLGVN1-es Superdry VL O Crew Sudadera Azul Rich Navy Adq M para Hombre'
-tags: [ 'tole.es','sudadera', ]
+tags: [ 'sudadera', ]
 actualPrice: 16.15 EUR
 currency: EUR
 price: 16.15

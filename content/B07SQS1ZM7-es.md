@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SQS1ZM7-es Marca Amazon - MERAKI Calcetines por Media Pierna de...'
-tags: [ 'tole.es','meraki', ]
+tags: [ 'meraki', ]
 actualPrice: 6.32 EUR
 currency: EUR
 price: 6.32

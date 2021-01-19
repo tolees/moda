@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VVFJQJJ-es Tommy Hilfiger TJM Circle Logo tee Camiseta Deporte Gris...'
-tags: [ 'tole.es','camiseta', ]
+tags: [ 'camiseta', ]
 actualPrice: 13.21 EUR
 currency: EUR
 price: 13.21

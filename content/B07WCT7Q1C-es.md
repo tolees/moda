@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WCT7Q1C-es HOMESPON Bolsa Isotérmica de Almuerzo Lunch Bag Bolsa...'
-tags: [ 'tole.es','bolso', ]
+tags: [ 'bolso', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

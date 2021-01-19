@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RV9H7QM-es YWLINK Zapatos NiñO NiñA Deportes Aire Libre Mesh Fire...'
-tags: [ 'tole.es','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 0.01 EUR
 currency: EUR
 price: 0.01

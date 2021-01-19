@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079WQMWY5-es Levi s 511 Slim Fit Vaqueros Stonewash 2923 31W / 34L para...'
-tags: [ 'tole.es','vaqueros', ]
+tags: [ 'vaqueros', ]
 actualPrice: 59.0 EUR
 currency: EUR
 price: 59.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0795CG6ZX-es PUMA Liga Jersey T-Shirt Hombre Silver Lake Blue White XL'
-tags: [ 'tole.es','jersey', ]
+tags: [ 'jersey', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

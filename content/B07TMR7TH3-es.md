@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TMR7TH3-es G-STAR RAW Graphic 15 Hooded Sudadera Multicolor Grey...'
-tags: [ 'tole.es','sudadera', ]
+tags: [ 'sudadera', ]
 actualPrice: 23.36 EUR
 currency: EUR
 price: 23.36

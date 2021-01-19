@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0798Q9WRZ-es Tommy Hilfiger Tommy Loves NY Beach Sandal Chanclas para...'
-tags: [ 'tole.es','chanclas', ]
+tags: [ 'chanclas', ]
 actualPrice: 21.0 EUR
 currency: EUR
 price: 21.0

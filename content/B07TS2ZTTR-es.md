@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TS2ZTTR-es Levi s Graphic tee Camiseta Blanco Boxtab SS T2 White 0000...'
-tags: [ 'tole.es','camiseta', ]
+tags: [ 'camiseta', ]
 actualPrice: 13.0 EUR
 currency: EUR
 price: 13.0

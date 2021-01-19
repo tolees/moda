@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XR67H5V-es TABIGER - 4 Unidades de Luces LED Luminosas Reflectantes...'
-tags: [ 'tole.es','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 9.59 EUR
 currency: EUR
 price: 9.59

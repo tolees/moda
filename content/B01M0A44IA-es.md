@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M0A44IA-es Collar Mujer J.Rosée Plata de Ley 925 Brillante...'
-tags: [ 'tole.es','collar', ]
+tags: [ 'collar', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

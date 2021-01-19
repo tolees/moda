@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08FMKVG9V-es Doaraha Conjunto de Pijamas de Maternidad y Enfermería...'
-tags: [ 'tole.es','camiseta','pijama', ]
+tags: [ 'camiseta','pijama', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

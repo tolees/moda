@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LBJWJD8-es Tommy Hilfiger Boat Neck tee 3/4 Sudadera Deportiva Sky...'
-tags: [ 'tole.es','sudadera', ]
+tags: [ 'sudadera', ]
 actualPrice: 39.39 EUR
 currency: EUR
 price: 39.39

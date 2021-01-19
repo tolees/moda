@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QBPDPJG-es ABIsedrin Collar con Nombre Personalizado Collar para...'
-tags: [ 'tole.es','collar', ]
+tags: [ 'collar', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087VK7M4F-es Columbia Pike Lake Chaqueta con Capucha Hombre Morado...'
-tags: [ 'tole.es','chaqueta', ]
+tags: [ 'chaqueta', ]
 actualPrice: 72.49 EUR
 currency: EUR
 price: 72.49

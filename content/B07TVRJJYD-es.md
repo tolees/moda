@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TVRJJYD-es Camisetas de Baloncesto para niño y niña Stephen Curry #30...'
-tags: [ 'tole.es','camiseta','chaleco', ]
+tags: [ 'camiseta','chaleco', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P19WDVF-es Superdry Colour Block Track Jacket Chaqueta Mujer...'
-tags: [ 'tole.es','chaqueta', ]
+tags: [ 'chaqueta', ]
 actualPrice: 35.41 EUR
 currency: EUR
 price: 35.41

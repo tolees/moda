@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075VDVWVC-es Esprit 997ee1b812 Vaqueros Straight Azul Blue Medium Wash...'
-tags: [ 'tole.es','vaqueros', ]
+tags: [ 'vaqueros', ]
 actualPrice: 28.56 EUR
 currency: EUR
 price: 28.56

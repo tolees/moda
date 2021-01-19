@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071L9YDJR-es Izas Ferni Chaqueta Forro Polar Mujer Fuxia XXS'
-tags: [ 'tole.es','chaqueta', ]
+tags: [ 'chaqueta', ]
 actualPrice: 8.33 EUR
 currency: EUR
 price: 8.33

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QGFPYZY-es PUMA Last Lap Hoodless Jacket Chaqueta De Entrenamiento...'
-tags: [ 'tole.es','chaqueta', ]
+tags: [ 'chaqueta', ]
 actualPrice: 31.95 EUR
 currency: EUR
 price: 31.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZ35LDV-es Marca Amazon - TRUTH & FABLE Vestido Mujer Multiposición...'
-tags: [ 'tole.es','vestido', ]
+tags: [ 'vestido', ]
 actualPrice: 37.8 EUR
 currency: EUR
 price: 37.8

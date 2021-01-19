@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V7Y3MCS-es Billabong All Day Theme Chanclas para Hombre Negro...'
-tags: [ 'tole.es','chanclas', ]
+tags: [ 'chanclas', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

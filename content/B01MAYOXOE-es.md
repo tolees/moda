@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MAYOXOE-es Speedo Biofuse Rift Gafas de Natación Unisex niños...'
-tags: [ 'tole.es','gafas', ]
+tags: [ 'gafas', ]
 actualPrice: 16.94 EUR
 currency: EUR
 price: 16.94

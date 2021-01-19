@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S11SM2J-es Only Frsfloyd Training Brushed Sweat-Unit Sudadera...'
-tags: [ 'tole.es','sudadera', ]
+tags: [ 'sudadera', ]
 actualPrice: 22.0 EUR
 currency: EUR
 price: 22.0

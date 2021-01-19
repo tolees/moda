@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LF5T7JM-es Levi s SS Color Block tee Camiseta Multicolor Jersey...'
-tags: [ 'tole.es','camiseta','jersey', ]
+tags: [ 'camiseta','jersey', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

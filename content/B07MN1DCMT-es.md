@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MN1DCMT-es Zapatos Deporte Mujer Zapatillas Deportivas Correr...'
-tags: [ 'tole.es','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 19.19 EUR
 currency: EUR
 price: 19.19

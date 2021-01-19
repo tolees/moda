@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFZRZ4N-es Geox U Garret A Zapatos de Cordones Derby para Hombre...'
-tags: [ 'tole.es','geox','zapatos', ]
+tags: [ 'geox','zapatos', ]
 actualPrice: 56.34 EUR
 currency: EUR
 price: 56.34

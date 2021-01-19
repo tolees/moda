@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B009RNAG4Q-es Accessoryo - Guantes - guantes - Animal Print - para mujer...'
-tags: [ 'tole.es','guantes', ]
+tags: [ 'guantes', ]
 actualPrice: 9.88 EUR
 currency: EUR
 price: 9.88

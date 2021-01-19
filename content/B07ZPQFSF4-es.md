@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZPQFSF4-es Hurley M Circle Dye Logo S/S Camiseta Hombre Black Heather S'
-tags: [ 'tole.es','camiseta', ]
+tags: [ 'camiseta', ]
 actualPrice: 18.11 EUR
 currency: EUR
 price: 18.11

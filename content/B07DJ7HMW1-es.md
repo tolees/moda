@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DJ7HMW1-es Geox D Bibbiana a Zapatos de Tacón para Mujer Beige Cream...'
-tags: [ 'tole.es','geox','zapatos', ]
+tags: [ 'geox','zapatos', ]
 actualPrice: 62.82 EUR
 currency: EUR
 price: 62.82

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SVPPJV6-es Geox U Snake.2 B Zapatillas para Hombre Negro Black C9999...'
-tags: [ 'tole.es','geox', ]
+tags: [ 'geox', ]
 actualPrice: 77.9 EUR
 currency: EUR
 price: 77.9

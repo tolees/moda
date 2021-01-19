@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MMLP4T6-es Napapijri Rainforest Winter 1 Chaqueta Verde Hunter Green...'
-tags: [ 'tole.es','chaqueta', ]
+tags: [ 'chaqueta', ]
 actualPrice: 116.33 EUR
 currency: EUR
 price: 116.33

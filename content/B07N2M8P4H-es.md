@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N2M8P4H-es LEMEGO Bolsa Bicicleta Manillar para Ciclista Ciclismo...'
-tags: [ 'tole.es','bolso', ]
+tags: [ 'bolso', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

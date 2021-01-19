@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01ALZASAA-es UTOQIA Collar Drop Plata de Ley 925 milésimas'
-tags: [ 'tole.es','collar', ]
+tags: [ 'collar', ]
 actualPrice: 45.43 EUR
 currency: EUR
 price: 45.43

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFRN381-es Geox D New ANNYA Mid B Botines para Mujer Marrón Brown...'
-tags: [ 'tole.es','botines','geox', ]
+tags: [ 'botines','geox', ]
 actualPrice: 87.5 EUR
 currency: EUR
 price: 87.5

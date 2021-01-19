@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDMQQ89-es BOSS Debelt Vestido Plateado Silver 040 Large para Mujer'
-tags: [ 'tole.es','vestido', ]
+tags: [ 'vestido', ]
 actualPrice: 55.65 EUR
 currency: EUR
 price: 55.65

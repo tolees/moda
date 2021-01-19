@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N53WLBC-es PUMA Popcat Zapatos de Playa y Piscina Unisex Adulto White...'
-tags: [ 'tole.es','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

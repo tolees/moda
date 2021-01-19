@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ZUYESWM-es Reef Phantoms Sandalias Flip-Flop para Hombre Negro Black...'
-tags: [ 'tole.es','sandalias', ]
+tags: [ 'sandalias', ]
 actualPrice: 22.4 EUR
 currency: EUR
 price: 22.4

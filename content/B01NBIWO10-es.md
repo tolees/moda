@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NBIWO10-es find. Sudadera Oversized con Volantes para Mujer Rosa Old...'
-tags: [ 'tole.es','sudadera', ]
+tags: [ 'sudadera', ]
 actualPrice: 9.6 EUR
 currency: EUR
 price: 9.6

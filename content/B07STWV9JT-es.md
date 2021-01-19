@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07STWV9JT-es Roxy Viva Sparkle Zapatos de Playa y Piscina para Mujer...'
-tags: [ 'tole.es','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

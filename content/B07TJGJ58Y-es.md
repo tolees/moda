@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TJGJ58Y-es Superdry Collective tee Camiseta Negro Black 02a S para...'
-tags: [ 'tole.es','camiseta', ]
+tags: [ 'camiseta', ]
 actualPrice: 14.16 EUR
 currency: EUR
 price: 14.16

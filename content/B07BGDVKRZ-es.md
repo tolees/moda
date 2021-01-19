@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BGDVKRZ-es PERLETTI Botas de Agua Miraculous Ladybug Niña - Botines...'
-tags: [ 'tole.es','botines', ]
+tags: [ 'botines', ]
 actualPrice: 13.52 EUR
 currency: EUR
 price: 13.52

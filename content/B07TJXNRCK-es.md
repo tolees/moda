@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TJXNRCK-es Lacoste Sport Sh4899 Sudadera Azul Methylene/Noir-Blanc...'
-tags: [ 'tole.es','sudadera', ]
+tags: [ 'sudadera', ]
 actualPrice: 54.95 EUR
 currency: EUR
 price: 54.95

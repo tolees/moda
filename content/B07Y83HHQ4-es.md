@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y83HHQ4-es AmzBarley Jessie Princesa Disfraz Vestido de Traje Niñas...'
-tags: [ 'tole.es','vestido', ]
+tags: [ 'vestido', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

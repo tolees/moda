@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JGQF8VJ-es Lacoste Th3377 Camiseta Blanco Blanc/Noir Au8 2XL Talla...'
-tags: [ 'tole.es','camiseta', ]
+tags: [ 'camiseta', ]
 actualPrice: 27.67 EUR
 currency: EUR
 price: 27.67

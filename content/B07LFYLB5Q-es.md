@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFYLB5Q-es Geox D Felicity I Botas Mosqueteras para Mujer Negro Black...'
-tags: [ 'tole.es','geox', ]
+tags: [ 'geox', ]
 actualPrice: 53.23 EUR
 currency: EUR
 price: 53.23

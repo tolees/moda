@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N97XDI4-es NIKE Kawa Shower Zapatos de Playa y Piscina para Hombre...'
-tags: [ 'tole.es','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

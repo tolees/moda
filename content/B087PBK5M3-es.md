@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087PBK5M3-es Suhctup Funda Compatible con Xiaomi Redmi 8 Billetera...'
-tags: [ 'tole.es','billetera', ]
+tags: [ 'billetera', ]
 actualPrice: 10.98 EUR
 currency: EUR
 price: 10.98

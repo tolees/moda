@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MKXFJMS-es oodji Ultra Mujer Blusa con Escote Barco y Volantes en Las...'
-tags: [ 'tole.es','blusa', ]
+tags: [ 'blusa', ]
 actualPrice: 8.3 EUR
 currency: EUR
 price: 8.3

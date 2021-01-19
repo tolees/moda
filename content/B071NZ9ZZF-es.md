@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071NZ9ZZF-es The North Face Drew Peak J Jersey Hombre Negro TNF Black L'
-tags: [ 'tole.es','jersey', ]
+tags: [ 'jersey', ]
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

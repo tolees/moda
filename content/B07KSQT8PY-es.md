@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KSQT8PY-es AnazoZ Acero Inoxidable Gemeloss para Hombre Camisa...'
-tags: [ 'tole.es','camisa', ]
+tags: [ 'camisa', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

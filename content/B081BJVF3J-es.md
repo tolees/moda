@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081BJVF3J-es Columbia Powder Pass Chaqueta Híbrida sin Mangas Hombre...'
-tags: [ 'tole.es','chaqueta', ]
+tags: [ 'chaqueta', ]
 actualPrice: 26.12 EUR
 currency: EUR
 price: 26.12

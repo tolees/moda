@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KYZ7DVH-es Springfield 8.T.Kaftan Blusa Multicolor Varios 98 U Tamaño...'
-tags: [ 'tole.es','blusa', ]
+tags: [ 'blusa', ]
 actualPrice: 5.34 EUR
 currency: EUR
 price: 5.34

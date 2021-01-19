@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NJ9RDKM-es Springfield 05.Algodon Modal Foil Camiseta Beige Beige 98...'
-tags: [ 'tole.es','camiseta', ]
+tags: [ 'camiseta', ]
 actualPrice: 4.1 EUR
 currency: EUR
 price: 4.1

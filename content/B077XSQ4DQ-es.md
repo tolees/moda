@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077XSQ4DQ-es Under Armour Sc30 MVP - Sudadera con Capucha y Cremallera...'
-tags: [ 'tole.es','sudadera', ]
+tags: [ 'sudadera', ]
 actualPrice: 34.61 EUR
 currency: EUR
 price: 34.61

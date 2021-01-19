@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0711KLTZC-es Barbacoa Grill guantes resistente al calor con garra de...'
-tags: [ 'tole.es','guantes', ]
+tags: [ 'guantes', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

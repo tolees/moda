@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SLZLQ1F-es Havaianas Ipe Chanclas Unisex Adulto Multicolor...'
-tags: [ 'tole.es','chanclas', ]
+tags: [ 'chanclas', ]
 actualPrice: 12.76 EUR
 currency: EUR
 price: 12.76

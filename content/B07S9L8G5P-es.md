@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S9L8G5P-es Under Armour UA Core PTH SL Zapatos de Playa y Piscina...'
-tags: [ 'tole.es','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 13.97 EUR
 currency: EUR
 price: 13.97

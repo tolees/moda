@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFZ2P8W-es Geox U Jaylon E Botas Clasicas para Hombre Negro Black...'
-tags: [ 'tole.es','geox', ]
+tags: [ 'geox', ]
 actualPrice: 36.87 EUR
 currency: EUR
 price: 36.87

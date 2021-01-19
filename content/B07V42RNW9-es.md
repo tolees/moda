@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V42RNW9-es BOSS Mix&Match T-Shirt R Camiseta Gris Light/Pastel Grey...'
-tags: [ 'tole.es','camiseta', ]
+tags: [ 'camiseta', ]
 actualPrice: 18.32 EUR
 currency: EUR
 price: 18.32

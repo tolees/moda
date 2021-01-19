@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YNSYPBB-es find. Hurrache Sandalias con Punta Cerrada Rot Orange Red...'
-tags: [ 'tole.es','sandalias', ]
+tags: [ 'sandalias', ]
 actualPrice: 16.88 EUR
 currency: EUR
 price: 16.88

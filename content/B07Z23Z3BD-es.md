@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z23Z3BD-es Vans Spicoli Flat Shades Gafas de Sol Morado Fuchsia...'
-tags: [ 'tole.es','gafas', ]
+tags: [ 'gafas', ]
 actualPrice: 10.84 EUR
 currency: EUR
 price: 10.84

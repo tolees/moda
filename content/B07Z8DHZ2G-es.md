@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z8DHZ2G-es oodji Ultra Mujer Blusa de Silueta Libre con Mangas Cortas...'
-tags: [ 'tole.es','blusa', ]
+tags: [ 'blusa', ]
 actualPrice: 8.4 EUR
 currency: EUR
 price: 8.4

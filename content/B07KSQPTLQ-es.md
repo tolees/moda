@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KSQPTLQ-es Under Armour Mfo Train Daily SS Camiseta Hombre Negro...'
-tags: [ 'tole.es','camiseta', ]
+tags: [ 'camiseta', ]
 actualPrice: 10.12 EUR
 currency: EUR
 price: 10.12

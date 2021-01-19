@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075D7MLTW-es IRIS & LILLY BLIC004 sujetadores push up Beige Praline 90B...'
-tags: [ 'tole.es','iris','&','lilly', ]
+tags: [ 'iris','&','lilly', ]
 actualPrice: 7.19 EUR
 currency: EUR
 price: 7.19

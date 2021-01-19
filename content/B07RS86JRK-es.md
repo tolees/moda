@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RS86JRK-es Tommy Hilfiger Bella Hybrid LW Down Jacket Chaqueta Rosa...'
-tags: [ 'tole.es','chaqueta', ]
+tags: [ 'chaqueta', ]
 actualPrice: 67.56 EUR
 currency: EUR
 price: 67.56

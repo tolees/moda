@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0066YJNIY-es Floso - Guantes de punto Thinsulate Invierno/Frio para...'
-tags: [ 'tole.es','guantes', ]
+tags: [ 'guantes', ]
 actualPrice: 6.2 EUR
 currency: EUR
 price: 6.2

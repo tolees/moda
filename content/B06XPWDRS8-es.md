@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XPWDRS8-es Marca Amazon - find. Pantalón Fruncido para Mujer Azul...'
-tags: [ 'tole.es','pantalón','-','find.', ]
+tags: [ 'pantalón','-','find.', ]
 actualPrice: 5.09 EUR
 currency: EUR
 price: 5.09

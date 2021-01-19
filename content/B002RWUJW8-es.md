@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002RWUJW8-es CMP - Pantalón de esquí para niños negro negro Talla:98'
-tags: [ 'tole.es','pantalón', ]
+tags: [ 'pantalón', ]
 actualPrice: 21.95 EUR
 currency: EUR
 price: 21.95

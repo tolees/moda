@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MLTLQHN-es Geox D Kaula B ABX C Botas de Nieve para Mujer Marrón...'
-tags: [ 'tole.es','geox', ]
+tags: [ 'geox', ]
 actualPrice: 33.62 EUR
 currency: EUR
 price: 33.62

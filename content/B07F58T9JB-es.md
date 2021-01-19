@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F58T9JB-es Bolso De Compras de Bebé Cochecito Piezas de Automóvil...'
-tags: [ 'tole.es','bolso', ]
+tags: [ 'bolso', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

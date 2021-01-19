@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VM4ZV56-es JIASUQI Zapatos clásicos de deporte descalzo para niños...'
-tags: [ 'tole.es','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 12.75 EUR
 currency: EUR
 price: 12.75

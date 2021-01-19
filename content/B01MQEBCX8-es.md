@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MQEBCX8-es Levi s 511 Slim Fit Vaqueros Nightshine X 32W / 32L para...'
-tags: [ 'tole.es','vaqueros', ]
+tags: [ 'vaqueros', ]
 actualPrice: 48.99 EUR
 currency: EUR
 price: 48.99

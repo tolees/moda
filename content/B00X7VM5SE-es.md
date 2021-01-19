@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00X7VM5SE-es Vero Moda 10138972 Pantalones para mujer negro...'
-tags: [ 'tole.es','moda', ]
+tags: [ 'moda', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

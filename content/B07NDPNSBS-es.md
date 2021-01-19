@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDPNSBS-es G-STAR RAW Bristum 1 Pocket Slim Camisa Vaquera Multicolor...'
-tags: [ 'tole.es','camisa', ]
+tags: [ 'camisa', ]
 actualPrice: 49.97 EUR
 currency: EUR
 price: 49.97

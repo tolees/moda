@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087VJ9THJ-es Columbia Powder Lite Chaqueta para Hombre Naranja Negro...'
-tags: [ 'tole.es','chaqueta', ]
+tags: [ 'chaqueta', ]
 actualPrice: 66.49 EUR
 currency: EUR
 price: 66.49

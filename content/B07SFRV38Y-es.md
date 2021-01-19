@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SFRV38Y-es Helly Hansen W Seven J Jacket Chaqueta Mujer Rosa XS'
-tags: [ 'tole.es','chaqueta', ]
+tags: [ 'chaqueta', ]
 actualPrice: 38.11 EUR
 currency: EUR
 price: 38.11

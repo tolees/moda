@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08D978XXK-es Vunavueya Mujer Zapatillas de Estar por Casa Hombre...'
-tags: [ 'tole.es','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 16.95 EUR
 currency: EUR
 price: 16.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RYL7FH2-es Mizuno Wave Voltage Zapatos de Voleibol Unisex Adulto...'
-tags: [ 'tole.es','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 74.95 EUR
 currency: EUR
 price: 74.95

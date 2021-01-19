@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KNVQMRH-es adidas Freelift T Camiseta Hombre Negro Black XS'
-tags: [ 'tole.es','camiseta', ]
+tags: [ 'camiseta', ]
 actualPrice: 16.01 EUR
 currency: EUR
 price: 16.01

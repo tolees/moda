@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B3PMQYT-es Puma Liga Sideline Jh Chaqueta de Entrenamiento con...'
-tags: [ 'tole.es','chaqueta', ]
+tags: [ 'chaqueta', ]
 actualPrice: 17.81 EUR
 currency: EUR
 price: 17.81

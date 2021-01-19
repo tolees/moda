@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MMLLJQS-es Napapijri SOVES Camiseta Rojo Red Scarlet R01 XL para Hombre'
-tags: [ 'tole.es','camiseta', ]
+tags: [ 'camiseta', ]
 actualPrice: 19.5 EUR
 currency: EUR
 price: 19.5

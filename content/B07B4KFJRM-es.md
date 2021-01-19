@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B4KFJRM-es Timberland Los Angeles Slingback Sandalias con Plataforma...'
-tags: [ 'tole.es','sandalias','timberland', ]
+tags: [ 'sandalias','timberland', ]
 actualPrice: 50.0 EUR
 currency: EUR
 price: 50.0

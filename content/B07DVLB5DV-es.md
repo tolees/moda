@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DVLB5DV-es Columbia Mujer Pantalón Convertible Saturday Trail II...'
-tags: [ 'tole.es','pantalón', ]
+tags: [ 'pantalón', ]
 actualPrice: 18.08 EUR
 currency: EUR
 price: 18.08

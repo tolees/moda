@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01DVTV1XQ-es URAQT Princesa Traje del Vestido Traje de Princesa Azul...'
-tags: [ 'tole.es','vestido', ]
+tags: [ 'vestido', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

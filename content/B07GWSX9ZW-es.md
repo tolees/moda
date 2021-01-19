@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GWSX9ZW-es SAGUARO Otoño Invierno Zapatillas Interior Casa Caliente...'
-tags: [ 'tole.es','zapatos','zapatilla', ]
+tags: [ 'zapatos','zapatilla', ]
 actualPrice: 15.29 EUR
 currency: EUR
 price: 15.29

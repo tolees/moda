@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MWJ9M37-es Mustang Chris KC Camisa Multicolor Check 11531 Large para...'
-tags: [ 'tole.es','camisa', ]
+tags: [ 'camisa', ]
 actualPrice: 11.67 EUR
 currency: EUR
 price: 11.67

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M0SWEU7-es Antony Morato - Abrigo - para Hombre Verde XL'
-tags: [ 'tole.es','abrigo', ]
+tags: [ 'abrigo', ]
 actualPrice: 59 EUR
 currency: EUR
 price: 59

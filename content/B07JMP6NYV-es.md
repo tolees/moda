@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JMP6NYV-es XTI 49105 Sandalias con Plataforma para Mujer Azul Jeans...'
-tags: [ 'tole.es','sandalias', ]
+tags: [ 'sandalias', ]
 actualPrice: 12.14 EUR
 currency: EUR
 price: 12.14

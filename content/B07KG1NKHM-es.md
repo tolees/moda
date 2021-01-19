@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KG1NKHM-es PUMA Monarch IT Jr Zapatos de Futsal Unisex Niños Black...'
-tags: [ 'tole.es','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 29 EUR
 currency: EUR
 price: 29

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00TPPGR44-es Lacoste Sudadera para Hombre Black 31 Large Talla del...'
-tags: [ 'tole.es','sudadera', ]
+tags: [ 'sudadera', ]
 actualPrice: 71.95 EUR
 currency: EUR
 price: 71.95

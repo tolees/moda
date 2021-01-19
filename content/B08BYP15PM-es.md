@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BYP15PM-es Pantalones Deportivos para Mujer para Yoga Running Fitness...'
-tags: [ 'tole.es','pijama', ]
+tags: [ 'pijama', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

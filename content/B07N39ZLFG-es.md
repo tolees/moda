@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N39ZLFG-es Desigual Coat AGGU Abrigo Negro Negro 2000 42 Talla del...'
-tags: [ 'tole.es','abrigo', ]
+tags: [ 'abrigo', ]
 actualPrice: 33.4 EUR
 currency: EUR
 price: 33.4

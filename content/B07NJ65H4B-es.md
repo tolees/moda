@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NJ65H4B-es Springfield 4.2.J.T.Mesa Jacq Allover Jersey Dorado Dorado...'
-tags: [ 'tole.es','jersey', ]
+tags: [ 'jersey', ]
 actualPrice: 7.38 EUR
 currency: EUR
 price: 7.38

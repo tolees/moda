@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NAW6D0C-es The North Face Sudadera Drew Peak Hombre TNF Medium Grey...'
-tags: [ 'tole.es','sudadera', ]
+tags: [ 'sudadera', ]
 actualPrice: 48.99 EUR
 currency: EUR
 price: 48.99

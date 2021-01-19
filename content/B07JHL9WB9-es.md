@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JHL9WB9-es Columbia WAYFINDER Zapatos Multideporte para Mujer Negro...'
-tags: [ 'tole.es','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 30.31 EUR
 currency: EUR
 price: 30.31

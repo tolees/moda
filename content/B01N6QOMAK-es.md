@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N6QOMAK-es G-STAR RAW 3301 Slim Fit Jeans Vaqueros Dk Aged 8466-89...'
-tags: [ 'tole.es','vaqueros', ]
+tags: [ 'vaqueros', ]
 actualPrice: 26.48 EUR
 currency: EUR
 price: 26.48

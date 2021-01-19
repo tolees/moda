@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WCCDXQM-es Springfield Especial Frq Telediario-C/17 Camiseta Azul...'
-tags: [ 'tole.es','camiseta', ]
+tags: [ 'camiseta', ]
 actualPrice: 4.67 EUR
 currency: EUR
 price: 4.67

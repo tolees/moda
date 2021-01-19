@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JL54M4R-es adidas Tabela 18 JSY Camiseta de Manga Corta Hombre...'
-tags: [ 'tole.es','camiseta', ]
+tags: [ 'camiseta', ]
 actualPrice: 16.94 EUR
 currency: EUR
 price: 16.94

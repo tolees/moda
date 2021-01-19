@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N7I7FN3-es Helly Hansen Driftline Camiseta Tipo Polo de Manga Corta...'
-tags: [ 'tole.es','camiseta', ]
+tags: [ 'camiseta', ]
 actualPrice: 34.04 EUR
 currency: EUR
 price: 34.04

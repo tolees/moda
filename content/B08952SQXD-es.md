@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08952SQXD-es Vestido de Tirantes con Cuello en Pico y Detalles de...'
-tags: [ 'tole.es','vestido', ]
+tags: [ 'vestido', ]
 actualPrice: 20.93 EUR
 currency: EUR
 price: 20.93

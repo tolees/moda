@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SG4DVNV-es AOQUSSQOA Mujer Conjuntos de Bikinis para Mujer Bikini de...'
-tags: [ 'tole.es','bikini','falda', ]
+tags: [ 'bikini','falda', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

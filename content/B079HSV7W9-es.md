@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079HSV7W9-es MUOU Zapatillas Hombres Deporte Running Zapatos para...'
-tags: [ 'tole.es','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

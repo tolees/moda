@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XJXFLH6-es DoGeek Botas Nieve Botas de Forro de Piel de Invierno...'
-tags: [ 'tole.es','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

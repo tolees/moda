@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MKWNZNK-es Vestido Unicornio De Niñas Hermosos Apliques de Volantes...'
-tags: [ 'tole.es','vestido', ]
+tags: [ 'vestido', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

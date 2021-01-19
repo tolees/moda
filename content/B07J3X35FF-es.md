@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J3X35FF-es DORRISO Linda Niños Sombrero y Bufanda Guantes Otoño...'
-tags: [ 'tole.es','guantes', ]
+tags: [ 'guantes', ]
 actualPrice: 25.98 EUR
 currency: EUR
 price: 25.98

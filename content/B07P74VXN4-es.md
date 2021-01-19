@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P74VXN4-es Agatha Ruiz de la Prada 191957 Botines para Niñas Rojo...'
-tags: [ 'tole.es','botines', ]
+tags: [ 'botines', ]
 actualPrice: 21.22 EUR
 currency: EUR
 price: 21.22

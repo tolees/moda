@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VJLD5TG-es Calvin Klein Low Rise Trunk 3pk Bóxer Hombre Blanco...'
-tags: [ 'tole.es','bóxer', ]
+tags: [ 'bóxer', ]
 actualPrice: 24.49 EUR
 currency: EUR
 price: 24.49

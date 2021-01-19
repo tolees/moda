@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00PY4IURW-es KRISP 6488-BLK-20 Vestido Corto Fruncido Busto Negro 6488 48'
-tags: [ 'tole.es','vestido', ]
+tags: [ 'vestido', ]
 actualPrice: 12.49 EUR
 currency: EUR
 price: 12.49

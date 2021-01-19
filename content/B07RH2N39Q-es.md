@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RH2N39Q-es G-STAR RAW Revend Skinny Vaqueros Waxed Black Destroyed...'
-tags: [ 'tole.es','vaqueros', ]
+tags: [ 'vaqueros', ]
 actualPrice: 64.97 EUR
 currency: EUR
 price: 64.97

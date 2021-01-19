@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NGT232P-es Calvin Klein 3p Low Rise Trunk Bóxer Gris Charcoal H/Rasp...'
-tags: [ 'tole.es','bóxer', ]
+tags: [ 'bóxer', ]
 actualPrice: 11.72 EUR
 currency: EUR
 price: 11.72

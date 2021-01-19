@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076X7LRPH-es Geox U Uvet A Zapatos de Cordones Brogue para Hombre Gris...'
-tags: [ 'tole.es','geox','zapatos', ]
+tags: [ 'geox','zapatos', ]
 actualPrice: 59.95 EUR
 currency: EUR
 price: 59.95

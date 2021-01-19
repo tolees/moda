@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PMS7VZS-es HUGO Elisha01 Camisa Rojo Medium Red 615 XX-Large Talla...'
-tags: [ 'tole.es','camisa', ]
+tags: [ 'camisa', ]
 actualPrice: 23.37 EUR
 currency: EUR
 price: 23.37

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N1HCX5K-es Kipling FREEDOM - Organizador de bolso 1 liters Multicolor...'
-tags: [ 'tole.es','bolso', ]
+tags: [ 'bolso', ]
 actualPrice: 9.89 EUR
 currency: EUR
 price: 9.89

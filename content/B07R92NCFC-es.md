@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R92NCFC-es Columbia Marquam Peak Chaqueta de invierno Hombre Negro...'
-tags: [ 'tole.es','chaqueta', ]
+tags: [ 'chaqueta', ]
 actualPrice: 157.66 EUR
 currency: EUR
 price: 157.66

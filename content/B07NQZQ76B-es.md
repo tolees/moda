@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NQZQ76B-es PUMA Classics Logo Hoody TR Sudadera Hombre Medium Gray...'
-tags: [ 'tole.es','sudadera', ]
+tags: [ 'sudadera', ]
 actualPrice: 27.82 EUR
 currency: EUR
 price: 27.82

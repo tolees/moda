@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WDTJXQJ-es SALOMON Agile FZ Hoodie M Chaqueta Cortavientos Hombre...'
-tags: [ 'tole.es','chaqueta', ]
+tags: [ 'chaqueta', ]
 actualPrice: 45.94 EUR
 currency: EUR
 price: 45.94

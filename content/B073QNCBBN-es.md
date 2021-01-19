@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073QNCBBN-es find. Chaqueta Efecto Borreguito para Mujer Marrón Braun...'
-tags: [ 'tole.es','chaqueta', ]
+tags: [ 'chaqueta', ]
 actualPrice: 21 EUR
 currency: EUR
 price: 21

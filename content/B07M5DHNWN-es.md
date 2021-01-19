@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M5DHNWN-es Lee Brooklyn Straight Hombre Vaqueros Gris Moto Grey HG...'
-tags: [ 'tole.es','vaqueros', ]
+tags: [ 'vaqueros', ]
 actualPrice: 13.31 EUR
 currency: EUR
 price: 13.31

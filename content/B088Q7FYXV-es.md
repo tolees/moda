@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088Q7FYXV-es URFEDA Funda Compatible con Samsung Galaxy S6 Funda Libro...'
-tags: [ 'tole.es','billetera', ]
+tags: [ 'billetera', ]
 actualPrice: 5.29 EUR
 currency: EUR
 price: 5.29

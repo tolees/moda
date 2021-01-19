@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N0C85RC-es Geox U Wells C Zapatillas para Hombre Gris Anthracite...'
-tags: [ 'tole.es','geox', ]
+tags: [ 'geox', ]
 actualPrice: 65.4 EUR
 currency: EUR
 price: 65.4

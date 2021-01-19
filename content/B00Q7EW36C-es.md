@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00Q7EW36C-es Columbia Peakfreak Venture Zapatos Impermeables para...'
-tags: [ 'tole.es','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 77.99 EUR
 currency: EUR
 price: 77.99

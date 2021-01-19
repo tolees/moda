@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SSSMXK9-es JACK & JONES PREMIUM Jprblackpool Shirt L/s Au19 STS...'
-tags: [ 'tole.es','camisa', ]
+tags: [ 'camisa', ]
 actualPrice: 12.23 EUR
 currency: EUR
 price: 12.23

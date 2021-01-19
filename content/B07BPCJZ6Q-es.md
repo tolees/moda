@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BPCJZ6Q-es Hem & Seam Camisa Formal Entallada Hombre Negro Black...'
-tags: [ 'tole.es','camisa', ]
+tags: [ 'camisa', ]
 actualPrice: 14 EUR
 currency: EUR
 price: 14

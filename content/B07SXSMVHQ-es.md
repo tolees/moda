@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SXSMVHQ-es Geox J Alben Boy D Zapatillas para Niños Azul Royal/Green...'
-tags: [ 'tole.es','geox', ]
+tags: [ 'geox', ]
 actualPrice: 33.35 EUR
 currency: EUR
 price: 33.35

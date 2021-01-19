@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QF9SW8M-es PUMA Hit Feel It tee Camiseta Mujer Black XL'
-tags: [ 'tole.es','camiseta', ]
+tags: [ 'camiseta', ]
 actualPrice: 5.85 EUR
 currency: EUR
 price: 5.85

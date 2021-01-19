@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZKK3R7P-es Houkiper Chaleco Reflectante LED para Correr Chaleco de...'
-tags: [ 'tole.es','chaleco', ]
+tags: [ 'chaleco', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

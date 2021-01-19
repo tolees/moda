@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BQ4JY8Z-es Lee Scarlett Vaqueros Azul Blue Drop Em 28W / 33L para Mujer'
-tags: [ 'tole.es','vaqueros', ]
+tags: [ 'vaqueros', ]
 actualPrice: 46.31 EUR
 currency: EUR
 price: 46.31

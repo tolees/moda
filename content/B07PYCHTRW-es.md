@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PYCHTRW-es Rebelhorn Chaqueta de moto de tres capas Membrana Sympatex...'
-tags: [ 'tole.es','chaqueta', ]
+tags: [ 'chaqueta', ]
 actualPrice: 90.01 EUR
 currency: EUR
 price: 90.01

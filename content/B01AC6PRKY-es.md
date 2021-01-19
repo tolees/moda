@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01AC6PRKY-es Nike Park VI Camiseta de Manga Corta para hombre Rojo...'
-tags: [ 'tole.es','camiseta', ]
+tags: [ 'camiseta', ]
 actualPrice: 16.72 EUR
 currency: EUR
 price: 16.72

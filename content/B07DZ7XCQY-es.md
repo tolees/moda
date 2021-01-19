@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DZ7XCQY-es Columbia Powder Lite Chaqueta De Plumón Niños Negro Black XS'
-tags: [ 'tole.es','chaqueta', ]
+tags: [ 'chaqueta', ]
 actualPrice: 28.41 EUR
 currency: EUR
 price: 28.41

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004MMQDYO-es Josef Seibel Schuhfabrik GmbH Anvers 08 Zapatos de...'
-tags: [ 'tole.es','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 40.7 EUR
 currency: EUR
 price: 40.7

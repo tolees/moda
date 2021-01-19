@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0733CY9MX-es Marca Amazon - find. Sudadera de Tacto Suave para Hombre...'
-tags: [ 'tole.es','sudadera','-','find.', ]
+tags: [ 'sudadera','-','find.', ]
 actualPrice: 7.5 EUR
 currency: EUR
 price: 7.5

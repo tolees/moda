@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DV8XZQW-es Columbia Kyra III Sandalias para Mujer Negro Shark Steam...'
-tags: [ 'tole.es','sandalias', ]
+tags: [ 'sandalias', ]
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

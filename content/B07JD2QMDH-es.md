@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JD2QMDH-es Marc O Polo 920727542412 Camisa Azul Combo B81 Small para...'
-tags: [ 'tole.es','camisa', ]
+tags: [ 'camisa', ]
 actualPrice: 6.31 EUR
 currency: EUR
 price: 6.31

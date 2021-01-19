@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073QNCBMJ-es find. Chaqueta Biker Hombre Gris Grau Medium'
-tags: [ 'tole.es','chaqueta', ]
+tags: [ 'chaqueta', ]
 actualPrice: 19.5 EUR
 currency: EUR
 price: 19.5

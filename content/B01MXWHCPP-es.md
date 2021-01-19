@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MXWHCPP-es find. Falda Mini de Rayas para Mujer Negro Black/white...'
-tags: [ 'tole.es','falda', ]
+tags: [ 'falda', ]
 actualPrice: 12.05 EUR
 currency: EUR
 price: 12.05

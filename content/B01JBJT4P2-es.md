@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01JBJT4P2-es Arena Cobra Core Gafas de natación Unisex Adulto Smoke/Red...'
-tags: [ 'tole.es','gafas', ]
+tags: [ 'gafas', ]
 actualPrice: 17.28 EUR
 currency: EUR
 price: 17.28

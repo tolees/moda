@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M7DHYYT-es Hackett Bengal Str KS Camisa Blue 551 Medium para Hombre'
-tags: [ 'tole.es','camisa', ]
+tags: [ 'camisa', ]
 actualPrice: 30.2 EUR
 currency: EUR
 price: 30.2

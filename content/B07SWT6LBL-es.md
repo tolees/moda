@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SWT6LBL-es Geox Alfier B J A Zapatillas de Deporte para Niños Gris...'
-tags: [ 'tole.es','geox', ]
+tags: [ 'geox', ]
 actualPrice: 38.36 EUR
 currency: EUR
 price: 38.36

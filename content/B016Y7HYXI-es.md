@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B016Y7HYXI-es Luz Para Bolso Seguridad de Luz con Sensor de...'
-tags: [ 'tole.es','bolso', ]
+tags: [ 'bolso', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFDXBB2-es Levi s 514 Vaqueros Straight Azul Apple Overt Adapt 1238...'
-tags: [ 'tole.es','vaqueros', ]
+tags: [ 'vaqueros', ]
 actualPrice: 67.06 EUR
 currency: EUR
 price: 67.06

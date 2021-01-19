@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NPSWZN8-es Chaqueta Chaleco de Trabajo Multiusos MAX - Ropa de...'
-tags: [ 'tole.es','chaleco','chaqueta', ]
+tags: [ 'chaleco','chaqueta', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VPYRWT6-es Tommy Hilfiger Rome HW Short Vaqueros Slim Azul Uta 1bo...'
-tags: [ 'tole.es','vaqueros', ]
+tags: [ 'vaqueros', ]
 actualPrice: 18.36 EUR
 currency: EUR
 price: 18.36

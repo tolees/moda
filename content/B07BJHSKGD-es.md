@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BJHSKGD-es G-STAR RAW 3301 High Waist Skinny Vaqueros Azul Medium...'
-tags: [ 'tole.es','vaqueros', ]
+tags: [ 'vaqueros', ]
 actualPrice: 31.97 EUR
 currency: EUR
 price: 31.97

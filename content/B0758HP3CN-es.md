@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0758HP3CN-es edc by Esprit 997cc1b817 Vaqueros Skinny Azul Blue Medium...'
-tags: [ 'tole.es','vaqueros', ]
+tags: [ 'vaqueros', ]
 actualPrice: 25.54 EUR
 currency: EUR
 price: 25.54

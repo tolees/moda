@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087NMKSHL-es CHALA 1450PCS Joyas de acrílico Diamantes de imitación de...'
-tags: [ 'tole.es','vestido', ]
+tags: [ 'vestido', ]
 actualPrice: 9.59 EUR
 currency: EUR
 price: 9.59

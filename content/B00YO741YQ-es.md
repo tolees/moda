@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00YO741YQ-es Under Armour Tech T Camiseta sin Mangas Mujer Gris Gray 090 L'
-tags: [ 'tole.es','camiseta', ]
+tags: [ 'camiseta', ]
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

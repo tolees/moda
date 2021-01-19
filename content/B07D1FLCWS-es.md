@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D1FLCWS-es SELECTED HOMME Slhslim-mylologan Stripe BLZ B Noos...'
-tags: [ 'tole.es','chaqueta', ]
+tags: [ 'chaqueta', ]
 actualPrice: 50.07 EUR
 currency: EUR
 price: 50.07

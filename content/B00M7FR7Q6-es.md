@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00M7FR7Q6-es Pepe Jeans Venus Vaqueros Azul 10Oz Stretch Ultra Dk H062...'
-tags: [ 'tole.es','vaqueros', ]
+tags: [ 'vaqueros', ]
 actualPrice: 46.99 EUR
 currency: EUR
 price: 46.99

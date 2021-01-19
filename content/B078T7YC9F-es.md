@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078T7YC9F-es Tommy Hilfiger Essential TH Beach Sandal Chanclas para...'
-tags: [ 'tole.es','chanclas', ]
+tags: [ 'chanclas', ]
 actualPrice: 22.49 EUR
 currency: EUR
 price: 22.49

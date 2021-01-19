@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TRMSYR9-es Levi s tee Camiseta Rojo Tomato 0082 Medium para Mujer'
-tags: [ 'tole.es','camiseta', ]
+tags: [ 'camiseta', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

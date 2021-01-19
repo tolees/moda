@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L9HVS8G-es Under Armour Armour Insulated Hooded Chaqueta Hombre Azul MD'
-tags: [ 'tole.es','chaqueta', ]
+tags: [ 'chaqueta', ]
 actualPrice: 69.91 EUR
 currency: EUR
 price: 69.91

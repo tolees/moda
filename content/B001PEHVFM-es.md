@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001PEHVFM-es adidas Adilette Zapatos de playa y piscina Unisex adulto...'
-tags: [ 'tole.es','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

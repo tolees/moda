@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BOS9P8Y-es Freaky Nation Biker Princess Chaqueta Negro Shadow 9015...'
-tags: [ 'tole.es','chaqueta', ]
+tags: [ 'chaqueta', ]
 actualPrice: 139.95 EUR
 currency: EUR
 price: 139.95

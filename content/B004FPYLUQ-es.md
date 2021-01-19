@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004FPYLUQ-es Vans Classic VGGG Camiseta Para Hombre Azul Royal/White L'
-tags: [ 'tole.es','camiseta', ]
+tags: [ 'camiseta', ]
 actualPrice: 23.95 EUR
 currency: EUR
 price: 23.95

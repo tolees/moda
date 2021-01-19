@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B010WE7PEM-es Crocs Classic Clog Zuecos Unisex Adulto Naranja Tangerine...'
-tags: [ 'tole.es','zuecos', ]
+tags: [ 'zuecos', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

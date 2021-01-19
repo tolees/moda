@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SVPP58Q-es Geox Uomo Snake E Zapatillas para Hombre Gris Lt Grey/Grey...'
-tags: [ 'tole.es','geox', ]
+tags: [ 'geox', ]
 actualPrice: 59.9 EUR
 currency: EUR
 price: 59.9

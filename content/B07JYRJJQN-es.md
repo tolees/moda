@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JYRJJQN-es Tommy Hilfiger TJM Stretch Oxford Shirt Camisa Blanco...'
-tags: [ 'tole.es','camisa', ]
+tags: [ 'camisa', ]
 actualPrice: 42.5 EUR
 currency: EUR
 price: 42.5

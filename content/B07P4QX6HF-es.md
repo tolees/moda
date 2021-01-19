@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P4QX6HF-es Goodthreads Standard-fit Long-Sleeve Stretch Oxford Shirt...'
-tags: [ 'tole.es','camisa', ]
+tags: [ 'camisa', ]
 actualPrice: 6.49 EUR
 currency: EUR
 price: 6.49

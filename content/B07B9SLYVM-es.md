@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B9SLYVM-es Tommy Hilfiger Core Stretch Slim Poplin Shirt Camisa...'
-tags: [ 'tole.es','camisa', ]
+tags: [ 'camisa', ]
 actualPrice: 47.95 EUR
 currency: EUR
 price: 47.95

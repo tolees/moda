@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RZ2CCCM-es BILLABONG TRD Mrk LS tee Camiseta Hombre Negro Black 19...'
-tags: [ 'tole.es','camiseta', ]
+tags: [ 'camiseta', ]
 actualPrice: 19.18 EUR
 currency: EUR
 price: 19.18

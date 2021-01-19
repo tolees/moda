@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QWNDTRX-es Under Armour Mk1 Warmup FZ Chaqueta Hombre Gris XL'
-tags: [ 'tole.es','chaqueta', ]
+tags: [ 'chaqueta', ]
 actualPrice: 20.85 EUR
 currency: EUR
 price: 20.85

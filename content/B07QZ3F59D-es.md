@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QZ3F59D-es Marca Amazon - find. Chaqueta Bomber Hombre Negro Black S...'
-tags: [ 'tole.es','chaqueta','-','find.', ]
+tags: [ 'chaqueta','-','find.', ]
 actualPrice: 7.89 EUR
 currency: EUR
 price: 7.89

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085HCY65H-es Donpapa Bragas para Mujer Pack sin Costuras Invisible...'
-tags: [ 'tole.es','bikini', ]
+tags: [ 'bikini', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

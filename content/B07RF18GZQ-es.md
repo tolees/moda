@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RF18GZQ-es G-STAR RAW 3301 Slim Fit Jeans Vaqueros Antic Faded Ripped...'
-tags: [ 'tole.es','vaqueros', ]
+tags: [ 'vaqueros', ]
 actualPrice: 25.71 EUR
 currency: EUR
 price: 25.71

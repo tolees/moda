@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RQ8TBN5-es HAWKERS - Gafas de sol para hombre y mujer ONE Negro/Blanco'
-tags: [ 'tole.es','gafas', ]
+tags: [ 'gafas', ]
 actualPrice: 10.92 EUR
 currency: EUR
 price: 10.92

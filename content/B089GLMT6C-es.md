@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089GLMT6C-es Kloius Bolso de hombro de mochila de cuero de gran...'
-tags: [ 'tole.es','bolso', ]
+tags: [ 'bolso', ]
 actualPrice: 34.0 EUR
 currency: EUR
 price: 34.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084JCNW9F-es XTI - Sandalias con Tacón de Fiesta - Sandalia con Tacón...'
-tags: [ 'tole.es','sandalias', ]
+tags: [ 'sandalias', ]
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TSJQSP2-es Only Onlorlando Quilted Jacket CC Otw Chaqueta Negro Black...'
-tags: [ 'tole.es','chaqueta', ]
+tags: [ 'chaqueta', ]
 actualPrice: 13.88 EUR
 currency: EUR
 price: 13.88

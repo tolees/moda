@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VPR2R1Q-es Only Onlnayla Rianna Wool Coat CC Otw Abrigo Marrón Camel...'
-tags: [ 'tole.es','abrigo', ]
+tags: [ 'abrigo', ]
 actualPrice: 12.96 EUR
 currency: EUR
 price: 12.96

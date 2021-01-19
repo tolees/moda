@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDN3C4H-es Tous Kaos Shock - Organizador de Bolso para Mujer Arena...'
-tags: [ 'tole.es','bolso', ]
+tags: [ 'bolso', ]
 actualPrice: 17.45 EUR
 currency: EUR
 price: 17.45

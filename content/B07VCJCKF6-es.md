@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VCJCKF6-es Desigual Vest Bonney Vestido Blanco Crudo 1001 40 Talla...'
-tags: [ 'tole.es','vestido', ]
+tags: [ 'vestido', ]
 actualPrice: 28.19 EUR
 currency: EUR
 price: 28.19

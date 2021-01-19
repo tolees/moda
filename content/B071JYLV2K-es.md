@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071JYLV2K-es Levi s The Perfect Tee Camiseta Mujer Negro Large Batwing...'
-tags: [ 'tole.es','camiseta', ]
+tags: [ 'camiseta', ]
 actualPrice: 10.0 EUR
 currency: EUR
 price: 10.0

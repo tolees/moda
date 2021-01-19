@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HFN2BN7-es Tommy Hilfiger Tommy Logo tee Camiseta Gris Cloud Htr 501...'
-tags: [ 'tole.es','camiseta', ]
+tags: [ 'camiseta', ]
 actualPrice: 27.73 EUR
 currency: EUR
 price: 27.73

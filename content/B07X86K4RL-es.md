@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X86K4RL-es LIGE Relojes de Pulsera Acero Inoxidable Negocios Cuarzo...'
-tags: [ 'tole.es','moda', ]
+tags: [ 'moda', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

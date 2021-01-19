@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N15XH4W-es Lee Hoodie SWS Sudadera para Hombre Amarillo Lemon Zest Mm...'
-tags: [ 'tole.es','sudadera', ]
+tags: [ 'sudadera', ]
 actualPrice: 23.88 EUR
 currency: EUR
 price: 23.88

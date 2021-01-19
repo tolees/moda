@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MVGWW5R-es Kipling Gleam Bolso de Tocador para Mujer Gris Night Grey...'
-tags: [ 'tole.es','bolso', ]
+tags: [ 'bolso', ]
 actualPrice: 12 EUR
 currency: EUR
 price: 12

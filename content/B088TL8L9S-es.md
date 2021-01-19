@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088TL8L9S-es Manguera de jardín flexible 100 FT/30 m manguera de jardín...'
-tags: [ 'tole.es','guantes', ]
+tags: [ 'guantes', ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

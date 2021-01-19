@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D9GX7KD-es Tommy Hilfiger Trunk Bóxer Gris Dark Grey Htr 091 Large...'
-tags: [ 'tole.es','bóxer', ]
+tags: [ 'bóxer', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

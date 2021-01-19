@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01H6NY50E-es Crocs Swiftwater Wave M Zapatos de agua Hombre Negro...'
-tags: [ 'tole.es','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 27.95 EUR
 currency: EUR
 price: 27.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V5NPTZB-es Tom Tailor Denim Kontrastreiche Chaqueta Punto Beige Camel...'
-tags: [ 'tole.es','chaqueta', ]
+tags: [ 'chaqueta', ]
 actualPrice: 11.47 EUR
 currency: EUR
 price: 11.47

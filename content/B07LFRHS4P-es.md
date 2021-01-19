@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFRHS4P-es Geox U Wells C Zapatillas para Hombre Gris Stone/Grey...'
-tags: [ 'tole.es','geox', ]
+tags: [ 'geox', ]
 actualPrice: 40.89 EUR
 currency: EUR
 price: 40.89

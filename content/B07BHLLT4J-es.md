@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BHLLT4J-es Bolso de Alforja de Bicicleta Bolso Impermeable de Viajero...'
-tags: [ 'tole.es','bolso', ]
+tags: [ 'bolso', ]
 actualPrice: 13.19 EUR
 currency: EUR
 price: 13.19

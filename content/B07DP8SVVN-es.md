@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DP8SVVN-es Cra-Z-Art - Crea tu bolso de lentejuelas Shimmer n Sparkle...'
-tags: [ 'tole.es','bolso', ]
+tags: [ 'bolso', ]
 actualPrice: 9.56 EUR
 currency: EUR
 price: 9.56

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V5CJTWS-es Titular de pasaporte minimalista xperg Billetera de viaje...'
-tags: [ 'tole.es','billetera', ]
+tags: [ 'billetera', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

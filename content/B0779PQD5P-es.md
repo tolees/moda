@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0779PQD5P-es Timberland Union Wharf 2 Eye Oxford Náuticos para Hombre...'
-tags: [ 'tole.es','timberland', ]
+tags: [ 'timberland', ]
 actualPrice: 32.5 EUR
 currency: EUR
 price: 32.5

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N19SWMW-es Lee Shirt Dress Vestido Azul Oil Blue Mo X-Large para Mujer'
-tags: [ 'tole.es','vestido', ]
+tags: [ 'vestido', ]
 actualPrice: 15.76 EUR
 currency: EUR
 price: 15.76

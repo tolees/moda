@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TJK9QTB-es Clarks Un Tynamo Tie Zapatos de Cordones Brogue para...'
-tags: [ 'tole.es','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 38.0 EUR
 currency: EUR
 price: 38.0

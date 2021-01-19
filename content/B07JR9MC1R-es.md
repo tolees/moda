@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JR9MC1R-es Tommy Hilfiger TJM Classics Logo tee Camisa Negro Tommy...'
-tags: [ 'tole.es','camisa', ]
+tags: [ 'camisa', ]
 actualPrice: 27.95 EUR
 currency: EUR
 price: 27.95

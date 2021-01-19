@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DHF7YH3-es Ronamick Sandalen - Sandalias de Vestir para Mujer Color...'
-tags: [ 'tole.es','sandalias', ]
+tags: [ 'sandalias', ]
 actualPrice: 1.19 EUR
 currency: EUR
 price: 1.19

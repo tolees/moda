@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDPR8KJ-es G-STAR RAW Graphic 22 Boyfriend Slit Round Neck Sudadera...'
-tags: [ 'tole.es','sudadera', ]
+tags: [ 'sudadera', ]
 actualPrice: 15.25 EUR
 currency: EUR
 price: 15.25

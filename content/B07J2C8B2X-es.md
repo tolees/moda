@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J2C8B2X-es Lee Ivy Vaqueros Azul Clean Play Zh 30W / 35L para Mujer'
-tags: [ 'tole.es','vaqueros', ]
+tags: [ 'vaqueros', ]
 actualPrice: 28.13 EUR
 currency: EUR
 price: 28.13

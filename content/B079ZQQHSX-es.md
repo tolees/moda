@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079ZQQHSX-es Tommy Hilfiger 3p Bikini Braguita Azul Navy Blazer/Navy...'
-tags: [ 'tole.es','bikini', ]
+tags: [ 'bikini', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

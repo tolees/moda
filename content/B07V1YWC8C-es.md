@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V1YWC8C-es Hi-Tec Damis - Sudadera de Forro Polar para Hombre...'
-tags: [ 'tole.es','sudadera', ]
+tags: [ 'sudadera', ]
 actualPrice: 13.16 EUR
 currency: EUR
 price: 13.16

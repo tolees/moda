@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TRM5LC3-es Levi s 510 Vaqueros Skinny Azul Simple Tings 1050 W26/L30...'
-tags: [ 'tole.es','vaqueros', ]
+tags: [ 'vaqueros', ]
 actualPrice: 23.93 EUR
 currency: EUR
 price: 23.93

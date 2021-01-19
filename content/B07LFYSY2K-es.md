@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFYSY2K-es Geox U Devan A Mocasines para Hombre Azul Navy C4002 42 EU'
-tags: [ 'tole.es','geox', ]
+tags: [ 'geox', ]
 actualPrice: 28.16 EUR
 currency: EUR
 price: 28.16

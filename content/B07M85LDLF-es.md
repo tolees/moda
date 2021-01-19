@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M85LDLF-es Gant D1.Winter TWI Buffalo Check Reg BD Camisa Azul...'
-tags: [ 'tole.es','camisa', ]
+tags: [ 'camisa', ]
 actualPrice: 44.19 EUR
 currency: EUR
 price: 44.19

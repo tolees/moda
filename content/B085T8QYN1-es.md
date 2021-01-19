@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085T8QYN1-es Gafas de Natación Profesional Anti Niebla Sin Fugas...'
-tags: [ 'tole.es','gafas', ]
+tags: [ 'gafas', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

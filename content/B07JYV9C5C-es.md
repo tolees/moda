@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JYV9C5C-es Tommy Hilfiger Hilfiger Logo Sweatshirt Sudadera Blanco...'
-tags: [ 'tole.es','sudadera', ]
+tags: [ 'sudadera', ]
 actualPrice: 49.0 EUR
 currency: EUR
 price: 49.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VYZLVDB-es Pepe Jeans Marke Camiseta Azul Old Navy 584 XX-Large para...'
-tags: [ 'tole.es','camiseta', ]
+tags: [ 'camiseta', ]
 actualPrice: 17.49 EUR
 currency: EUR
 price: 17.49

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JLF9VS2-es Wrangler SS Modern Western SH Camisa Azul Starlight Blue...'
-tags: [ 'tole.es','camisa', ]
+tags: [ 'camisa', ]
 actualPrice: 13.43 EUR
 currency: EUR
 price: 13.43

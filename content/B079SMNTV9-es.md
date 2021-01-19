@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079SMNTV9-es Desigual Padded Elysian Abrigo Negro 2000 38 Talla del...'
-tags: [ 'tole.es','abrigo', ]
+tags: [ 'abrigo', ]
 actualPrice: 41.67 EUR
 currency: EUR
 price: 41.67

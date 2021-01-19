@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F1VVZCF-es Art Antibes Zapatos Planos Mary Jane para Mujer Negro...'
-tags: [ 'tole.es','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 40.0 EUR
 currency: EUR
 price: 40.0

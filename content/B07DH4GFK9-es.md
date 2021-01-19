@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DH4GFK9-es HUGO Alisters Chaqueta de Traje Negro Black 001 46 Talla...'
-tags: [ 'tole.es','chaqueta', ]
+tags: [ 'chaqueta', ]
 actualPrice: 130.86 EUR
 currency: EUR
 price: 130.86

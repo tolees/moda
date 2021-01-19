@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PYYLSRY-es Under Armour UA M Ignite Vi SL Zapatos de Playa y Piscina...'
-tags: [ 'tole.es','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 27.23 EUR
 currency: EUR
 price: 27.23

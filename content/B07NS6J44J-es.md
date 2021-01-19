@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NS6J44J-es TTYAOVO Chicas Unicornio Fancy Vestido Princesa Flor...'
-tags: [ 'tole.es','vestido', ]
+tags: [ 'vestido', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

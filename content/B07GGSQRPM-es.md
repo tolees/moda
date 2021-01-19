@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GGSQRPM-es SKYSPER Ciclismo Maillot Hombres Jersey + Pantalones...'
-tags: [ 'tole.es','jersey', ]
+tags: [ 'jersey', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

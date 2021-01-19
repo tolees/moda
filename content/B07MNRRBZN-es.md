@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MNRRBZN-es Lee Sherpa Jacket Chaqueta Azul Dark Stone SS Medium para...'
-tags: [ 'tole.es','chaqueta', ]
+tags: [ 'chaqueta', ]
 actualPrice: 64.98 EUR
 currency: EUR
 price: 64.98

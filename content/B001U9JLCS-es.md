@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001U9JLCS-es Crocs Classic Clog Zuecos Unisex Adulto Morado Lavanda 530...'
-tags: [ 'tole.es','zuecos', ]
+tags: [ 'zuecos', ]
 actualPrice: 23.79 EUR
 currency: EUR
 price: 23.79

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JYRQGNC-es Tommy Jeans Mujer Essential Hooded Down Jacket Chaqueta...'
-tags: [ 'tole.es','chaqueta', ]
+tags: [ 'chaqueta', ]
 actualPrice: 141.95 EUR
 currency: EUR
 price: 141.95

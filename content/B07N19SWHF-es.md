@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N19SWHF-es Lee Crew Sws Sudadera para Hombre Naranja Sign Orange Me...'
-tags: [ 'tole.es','sudadera', ]
+tags: [ 'sudadera', ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

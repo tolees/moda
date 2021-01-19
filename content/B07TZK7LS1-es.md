@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TZK7LS1-es BOSS Boxer Brief 2p Solid Naranja Medium Orange 813 Large...'
-tags: [ 'tole.es','boxer', ]
+tags: [ 'boxer', ]
 actualPrice: 14.56 EUR
 currency: EUR
 price: 14.56

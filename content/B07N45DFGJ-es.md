@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N45DFGJ-es Tommy Hilfiger Hampton Down Parka Chaqueta Sky Captain Cjm...'
-tags: [ 'tole.es','chaqueta','parka', ]
+tags: [ 'chaqueta','parka', ]
 actualPrice: 199 EUR
 currency: EUR
 price: 199

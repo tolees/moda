@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075D89QRM-es INBIKE Guantes Calientes De Ciclismo De Invierno Guantes...'
-tags: [ 'tole.es','guantes', ]
+tags: [ 'guantes', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074TDR9PY-es ZAPATO GEOX U741UA 020FU C61T7J MARRON 44 Marron'
-tags: [ 'tole.es','geox', ]
+tags: [ 'geox', ]
 actualPrice: 59.96 EUR
 currency: EUR
 price: 59.96

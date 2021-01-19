@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078HJKHVR-es IRIS & LILLY Braguita Estilo Culotte Mujer Pack de 5...'
-tags: [ 'tole.es','iris','&','lilly', ]
+tags: [ 'iris','&','lilly', ]
 actualPrice: 4.2 EUR
 currency: EUR
 price: 4.2

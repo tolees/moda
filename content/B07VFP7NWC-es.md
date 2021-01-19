@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VFP7NWC-es Esprit 099ee1g039s Abrigo Azul Navy 400 X-Large para Mujer'
-tags: [ 'tole.es','abrigo', ]
+tags: [ 'abrigo', ]
 actualPrice: 61.64 EUR
 currency: EUR
 price: 61.64

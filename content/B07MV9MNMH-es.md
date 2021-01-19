@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MV9MNMH-es Kipling Art Mini Bolso de Mano para Mujer Morado Dark Plum...'
-tags: [ 'tole.es','bolso', ]
+tags: [ 'bolso', ]
 actualPrice: 47.4 EUR
 currency: EUR
 price: 47.4

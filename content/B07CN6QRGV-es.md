@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CN6QRGV-es Hollywood Star Fashion Camisa de Manga Corta con Cuello en...'
-tags: [ 'tole.es','camisa', ]
+tags: [ 'camisa', ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

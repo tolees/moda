@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DL3RYLR-es Sikai Amazfit Sports Smartwatch Stratos 2 Marco Caso...'
-tags: [ 'tole.es','moda', ]
+tags: [ 'moda', ]
 actualPrice: 6.58 EUR
 currency: EUR
 price: 6.58

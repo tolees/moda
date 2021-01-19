@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077YST3WL-es HIKARO Chaqueta Bomber Hombre Gris Charcoal 54 Talla del...'
-tags: [ 'tole.es','chaqueta', ]
+tags: [ 'chaqueta', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

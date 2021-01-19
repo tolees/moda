@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076CLH7XG-es emansmoer Niños exterior resistente al agua Softshell para...'
-tags: [ 'tole.es','abrigo', ]
+tags: [ 'abrigo', ]
 actualPrice: 33.2 EUR
 currency: EUR
 price: 33.2

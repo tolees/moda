@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MRJL44J-es Asiv 20 Piezas Ropa y Zapatos para Muñeca Doll - 10 Piezas...'
-tags: [ 'tole.es','falda','moda','zapatos', ]
+tags: [ 'falda','moda','zapatos', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

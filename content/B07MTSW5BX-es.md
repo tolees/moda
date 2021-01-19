@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MTSW5BX-es Pepe Jeans Pixie Vaqueros Pitillo Hombre Azul Destroy...'
-tags: [ 'tole.es','vaqueros', ]
+tags: [ 'vaqueros', ]
 actualPrice: 57.99 EUR
 currency: EUR
 price: 57.99

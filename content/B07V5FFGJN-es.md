@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V5FFGJN-es SALOMON Explore WP JKT M Chaqueta Impermeable Hombre Beige...'
-tags: [ 'tole.es','chaqueta', ]
+tags: [ 'chaqueta', ]
 actualPrice: 65.98 EUR
 currency: EUR
 price: 65.98

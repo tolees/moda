@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZMGMXS-es Pepe Jeans Rogery Chaqueta Brass 891 XX-Large para Hombre'
-tags: [ 'tole.es','chaqueta', ]
+tags: [ 'chaqueta', ]
 actualPrice: 38.76 EUR
 currency: EUR
 price: 38.76

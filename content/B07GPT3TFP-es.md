@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GPT3TFP-es Geox Jr Ciak Girl K Zapatillas para Niñas White C1000 31 EU'
-tags: [ 'tole.es','geox', ]
+tags: [ 'geox', ]
 actualPrice: 20.2 EUR
 currency: EUR
 price: 20.2

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N45HTCS-es United Colors of Benetton Basico 1 Man Abrigo Negro 100...'
-tags: [ 'tole.es','abrigo', ]
+tags: [ 'abrigo', ]
 actualPrice: 33.53 EUR
 currency: EUR
 price: 33.53

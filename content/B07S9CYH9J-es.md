@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S9CYH9J-es Lee New Pocket SWS Sudadera Azul Ashley Blue Na Medium...'
-tags: [ 'tole.es','sudadera', ]
+tags: [ 'sudadera', ]
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

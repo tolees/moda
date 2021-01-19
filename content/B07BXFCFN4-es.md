@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BXFCFN4-es KUULEE Hombre Camisa Manga Larga Slim Fit Camisa...'
-tags: [ 'tole.es','camisa', ]
+tags: [ 'camisa', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VD41PF9-es Calvin Klein Center Monogram Box Slim tee Camiseta Negro...'
-tags: [ 'tole.es','camiseta', ]
+tags: [ 'camiseta', ]
 actualPrice: 17.95 EUR
 currency: EUR
 price: 17.95

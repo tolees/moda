@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FQYNXT2-es Clarks Un Lisbon Lace Zapatos de Cordones Derby para...'
-tags: [ 'tole.es','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 60.0 EUR
 currency: EUR
 price: 60.0

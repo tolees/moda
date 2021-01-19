@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B11JXD3-es Marca Amazon - find. Vestido de Flores por Media Pierna...'
-tags: [ 'tole.es','vestido','-','find.', ]
+tags: [ 'vestido','-','find.', ]
 actualPrice: 12.15 EUR
 currency: EUR
 price: 12.15

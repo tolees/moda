@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V4TQR8V-es Jack & Jones Liam Original Jos 650 50sps Vaqueros Blue...'
-tags: [ 'tole.es','vaqueros', ]
+tags: [ 'vaqueros', ]
 actualPrice: 46.99 EUR
 currency: EUR
 price: 46.99

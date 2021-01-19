@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073W9QVRJ-es Honghu Verano Elegante Mangas Corta Low Culleo Slim Fit...'
-tags: [ 'tole.es','vestido', ]
+tags: [ 'vestido', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

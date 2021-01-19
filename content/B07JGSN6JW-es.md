@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JGSN6JW-es Pepe Jeans Kai Pm402100 Chaqueta Sailor 580 X-Large para...'
-tags: [ 'tole.es','chaqueta', ]
+tags: [ 'chaqueta', ]
 actualPrice: 81.0 EUR
 currency: EUR
 price: 81.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QKYKH3V-es BaZhaHei SúPer Fuego Nacional Viento Cadena PortáTil...'
-tags: [ 'tole.es','bolso', ]
+tags: [ 'bolso', ]
 actualPrice: 1.29 EUR
 currency: EUR
 price: 1.29

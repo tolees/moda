@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFGWLYC-es Levi s 514 Vaqueros Straight Azul Stonewash Stretch T2...'
-tags: [ 'tole.es','vaqueros', ]
+tags: [ 'vaqueros', ]
 actualPrice: 20.68 EUR
 currency: EUR
 price: 20.68

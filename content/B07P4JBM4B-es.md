@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P4JBM4B-es Superdry Surplus Goods Coach Jacket Chaqueta Verde Green...'
-tags: [ 'tole.es','chaqueta', ]
+tags: [ 'chaqueta', ]
 actualPrice: 23.38 EUR
 currency: EUR
 price: 23.38

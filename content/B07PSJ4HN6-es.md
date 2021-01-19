@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PSJ4HN6-es Kipling Gleam Bolso de Tocador para Mujer Multicolor Navy...'
-tags: [ 'tole.es','bolso', ]
+tags: [ 'bolso', ]
 actualPrice: 12.41 EUR
 currency: EUR
 price: 12.41

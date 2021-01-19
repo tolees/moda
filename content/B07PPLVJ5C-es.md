@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PPLVJ5C-es Zapatos de Trabajo Muy cómodos para Trabajos de hostelería...'
-tags: [ 'tole.es','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 22.98 EUR
 currency: EUR
 price: 22.98

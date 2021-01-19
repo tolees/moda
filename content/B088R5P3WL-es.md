@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088R5P3WL-es WERNNSAI Cesto para Guardar de Dinosaurios - 40 × 33 ×...'
-tags: [ 'tole.es','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

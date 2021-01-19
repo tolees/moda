@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VG3SX39-es edc by Esprit 099cc1g027 Abrigo Azul Navy 400 X-Small para...'
-tags: [ 'tole.es','abrigo', ]
+tags: [ 'abrigo', ]
 actualPrice: 32.41 EUR
 currency: EUR
 price: 32.41

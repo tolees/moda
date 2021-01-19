@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PLQ46FD-es Cartera de Cuero Negro Cartera de Piel Billetera de Hombre...'
-tags: [ 'tole.es','billetera', ]
+tags: [ 'billetera', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

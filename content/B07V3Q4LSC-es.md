@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V3Q4LSC-es Jack & Jones Jprwetford Parka STS Verde Olive Night Olive...'
-tags: [ 'tole.es','parka', ]
+tags: [ 'parka', ]
 actualPrice: 28.19 EUR
 currency: EUR
 price: 28.19

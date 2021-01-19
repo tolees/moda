@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QCLNP8Y-es Roamers - Sandalias Plantilla Espuma viscoelástica de...'
-tags: [ 'tole.es','sandalias', ]
+tags: [ 'sandalias', ]
 actualPrice: 31.45 EUR
 currency: EUR
 price: 31.45

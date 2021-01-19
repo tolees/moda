@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M8W17XJ-es Wrangler High Rise Skinny Vaqueros Azul Blue Black 51l 30W...'
-tags: [ 'tole.es','vaqueros', ]
+tags: [ 'vaqueros', ]
 actualPrice: 20.63 EUR
 currency: EUR
 price: 20.63

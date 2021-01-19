@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GSN8H15-es Jack & Jones Jjitim Jjoriginal Am 816 Vaqueros Slim Fit...'
-tags: [ 'tole.es','vaqueros', ]
+tags: [ 'vaqueros', ]
 actualPrice: 18.79 EUR
 currency: EUR
 price: 18.79

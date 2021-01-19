@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RCZC31Y-es G-STAR RAW Lynn Mid Waist Super Skinny Vaqueros Azul Worn...'
-tags: [ 'tole.es','vaqueros', ]
+tags: [ 'vaqueros', ]
 actualPrice: 39.28 EUR
 currency: EUR
 price: 39.28

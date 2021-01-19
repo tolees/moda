@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071NWLMFV-es find. Camiseta para Hombre Gris Grey Marl Large'
-tags: [ 'tole.es','camiseta', ]
+tags: [ 'camiseta', ]
 actualPrice: 4.5 EUR
 currency: EUR
 price: 4.5

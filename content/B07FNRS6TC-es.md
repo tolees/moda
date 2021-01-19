@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FNRS6TC-es The North Face W TBL Sport HD Sudadera Deportiva con...'
-tags: [ 'tole.es','sudadera', ]
+tags: [ 'sudadera', ]
 actualPrice: 84.65 EUR
 currency: EUR
 price: 84.65

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00YDIU83Y-es Merrell - sandalias de Cuero mujer Negro BLACK 40 EU 7 UK'
-tags: [ 'tole.es','sandalias', ]
+tags: [ 'sandalias', ]
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

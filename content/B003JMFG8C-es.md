@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003JMFG8C-es Geox J Savage G Zapatillas para Niños Negro Black C9999 31 EU'
-tags: [ 'tole.es','geox', ]
+tags: [ 'geox', ]
 actualPrice: 41.08 EUR
 currency: EUR
 price: 41.08

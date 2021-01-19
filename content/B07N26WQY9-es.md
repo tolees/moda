@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N26WQY9-es Quiksilver Molokai Wordmark-Flip-Flops for Men Zapatos de...'
-tags: [ 'tole.es','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 10.31 EUR
 currency: EUR
 price: 10.31

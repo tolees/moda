@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BJH9YKN-es G-STAR RAW 3301 Straight Tapered Vaqueros Dark Aged...'
-tags: [ 'tole.es','vaqueros', ]
+tags: [ 'vaqueros', ]
 actualPrice: 44.95 EUR
 currency: EUR
 price: 44.95

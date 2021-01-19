@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00UG4U0HI-es Lacoste Crew Neck Sudadera para Hombre Black 31 X-Small...'
-tags: [ 'tole.es','sudadera', ]
+tags: [ 'sudadera', ]
 actualPrice: 58.45 EUR
 currency: EUR
 price: 58.45

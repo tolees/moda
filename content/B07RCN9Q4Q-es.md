@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RCN9Q4Q-es Columbia Centennial Creek Chaqueta De Plumón con Capucha...'
-tags: [ 'tole.es','chaqueta', ]
+tags: [ 'chaqueta', ]
 actualPrice: 62.44 EUR
 currency: EUR
 price: 62.44

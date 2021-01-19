@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JG7TFRW-es Pepe Jeans Elizabeth Pl401677 Chaqueta Oyster 805 Small...'
-tags: [ 'tole.es','chaqueta', ]
+tags: [ 'chaqueta', ]
 actualPrice: 74.98 EUR
 currency: EUR
 price: 74.98

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KF5BHZT-es Levi s Original Chaqueta Vaquera Azul Needlecraft Trucker...'
-tags: [ 'tole.es','chaqueta', ]
+tags: [ 'chaqueta', ]
 actualPrice: 99.94 EUR
 currency: EUR
 price: 99.94

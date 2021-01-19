@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YDNNB11-es Maglev Essentials BDX011M5 Camiseta Multicolor Negro...'
-tags: [ 'tole.es','camiseta', ]
+tags: [ 'camiseta', ]
 actualPrice: 9.41 EUR
 currency: EUR
 price: 9.41

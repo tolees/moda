@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M7XUCBO-es Dainese Super Rider D-Dry Jacket Chaqueta Moto'
-tags: [ 'tole.es','chaqueta', ]
+tags: [ 'chaqueta', ]
 actualPrice: 293.99 EUR
 currency: EUR
 price: 293.99

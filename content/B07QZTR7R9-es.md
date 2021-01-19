@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QZTR7R9-es Under Armour Mk1 Warmup Po Hood Sudadera Hombre Gris SM'
-tags: [ 'tole.es','sudadera', ]
+tags: [ 'sudadera', ]
 actualPrice: 23.49 EUR
 currency: EUR
 price: 23.49

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L3H1S6P-es Tommy Hilfiger Essential Logo Sweatshirt Sudadera Azul...'
-tags: [ 'tole.es','sudadera', ]
+tags: [ 'sudadera', ]
 actualPrice: 21.98 EUR
 currency: EUR
 price: 21.98

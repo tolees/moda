@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071FBKV8B-es Crocs Classic U Zuecos con Correa Trasera Unisex Adulto...'
-tags: [ 'tole.es','zuecos', ]
+tags: [ 'zuecos', ]
 actualPrice: 25.85 EUR
 currency: EUR
 price: 25.85

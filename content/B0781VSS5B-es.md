@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0781VSS5B-es PUMA Liga Training Shorts W Pantalón Mujer Negro...'
-tags: [ 'tole.es','pantalón', ]
+tags: [ 'pantalón', ]
 actualPrice: 17.95 EUR
 currency: EUR
 price: 17.95

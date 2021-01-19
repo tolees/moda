@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G2DRB4B-es AURIQUE Mallas de Entrenamiento Negro Black High...'
-tags: [ 'tole.es','aurique', ]
+tags: [ 'aurique', ]
 actualPrice: 20.8 EUR
 currency: EUR
 price: 20.8

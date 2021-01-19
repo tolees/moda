@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000VICBIU-es Timberland 6 In Premium Waterproof Botas Unisex Niños...'
-tags: [ 'tole.es','timberland', ]
+tags: [ 'timberland', ]
 actualPrice: 56.94 EUR
 currency: EUR
 price: 56.94

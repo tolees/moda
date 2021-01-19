@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RX1YGXY-es BILLABONG Alves Jacket Chaqueta Deportiva Hombre Verde...'
-tags: [ 'tole.es','chaqueta', ]
+tags: [ 'chaqueta', ]
 actualPrice: 63.3 EUR
 currency: EUR
 price: 63.3

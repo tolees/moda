@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NKBY7DF-es SALOMON Right Nice Mid Hoodie W Chaqueta Deportiva con...'
-tags: [ 'tole.es','chaqueta', ]
+tags: [ 'chaqueta', ]
 actualPrice: 47.03 EUR
 currency: EUR
 price: 47.03

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JYRM2SW-es Tommy Jeans TJM Contrast Pocket tee Camiseta Multicolor...'
-tags: [ 'tole.es','camiseta', ]
+tags: [ 'camiseta', ]
 actualPrice: 12.95 EUR
 currency: EUR
 price: 12.95

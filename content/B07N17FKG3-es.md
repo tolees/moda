@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N17FKG3-es Lee Scarlett Vaqueros Skinny Gris Dark Grey Ovid Dw 25W /...'
-tags: [ 'tole.es','vaqueros', ]
+tags: [ 'vaqueros', ]
 actualPrice: 11.48 EUR
 currency: EUR
 price: 11.48

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDPTWKW-es G-STAR RAW Stalt Button Down Pocket Straight Camisa...'
-tags: [ 'tole.es','camisa', ]
+tags: [ 'camisa', ]
 actualPrice: 25.21 EUR
 currency: EUR
 price: 25.21

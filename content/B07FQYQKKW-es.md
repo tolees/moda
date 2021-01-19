@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FQYQKKW-es Clarks Step Urban Mix Zapatos de Cordones Derby para...'
-tags: [ 'tole.es','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

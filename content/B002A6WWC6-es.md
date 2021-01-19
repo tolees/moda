@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002A6WWC6-es Havaianas Slim Chanclas Mujer Oro SandGrey/Light Golden...'
-tags: [ 'tole.es','chanclas', ]
+tags: [ 'chanclas', ]
 actualPrice: 19.15 EUR
 currency: EUR
 price: 19.15

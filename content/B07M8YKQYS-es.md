@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M8YKQYS-es Geox M Dereck B Abrigo Azul Blue Nights F4386 XX-Large...'
-tags: [ 'tole.es','abrigo','geox', ]
+tags: [ 'abrigo','geox', ]
 actualPrice: 44.29 EUR
 currency: EUR
 price: 44.29

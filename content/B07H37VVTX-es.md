@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H37VVTX-es Pastaza Hombre Mujer Botas de Nieve Senderismo...'
-tags: [ 'tole.es','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 26.83 EUR
 currency: EUR
 price: 26.83

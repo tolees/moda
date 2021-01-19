@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087Q5YMHM-es TAOFFEN Mujer Canvas Shoes Punta Redonda Zapatos para...'
-tags: [ 'tole.es','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 23.88 EUR
 currency: EUR
 price: 23.88

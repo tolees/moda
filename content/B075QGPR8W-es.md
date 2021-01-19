@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075QGPR8W-es Marca Amazon - find. Sudadera Jaspeada Hombre Verde Green...'
-tags: [ 'tole.es','sudadera','-','find.', ]
+tags: [ 'sudadera','-','find.', ]
 actualPrice: 5.54 EUR
 currency: EUR
 price: 5.54

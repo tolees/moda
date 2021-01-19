@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084C3CVTN-es Mishansha Zapatillas de Masculino Femenino Ligero Suave...'
-tags: [ 'tole.es','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

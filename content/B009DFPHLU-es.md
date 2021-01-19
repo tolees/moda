@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B009DFPHLU-es Guantes para mujer con estampado de leopardo piel...'
-tags: [ 'tole.es','guantes', ]
+tags: [ 'guantes', ]
 actualPrice: 9.98 EUR
 currency: EUR
 price: 9.98

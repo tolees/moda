@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M24FLY3-es Brandit Check Shirt Camisa Gris-Negro L para Mujer'
-tags: [ 'tole.es','camisa', ]
+tags: [ 'camisa', ]
 actualPrice: 27.39 EUR
 currency: EUR
 price: 27.39

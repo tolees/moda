@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P22SFM1-es Dickies Gapville Chaqueta Negro XX-Large Talla del...'
-tags: [ 'tole.es','chaqueta', ]
+tags: [ 'chaqueta', ]
 actualPrice: 27.21 EUR
 currency: EUR
 price: 27.21

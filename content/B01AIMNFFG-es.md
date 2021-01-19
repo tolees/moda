@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01AIMNFFG-es Relaxdays – Zapatero Compuesto de estructuras de Acero...'
-tags: [ 'tole.es','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

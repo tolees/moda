@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SBST4B7-es ARTOP Guantes Moto de Pantalla Táctil Guantes Motocross...'
-tags: [ 'tole.es','guantes', ]
+tags: [ 'guantes', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

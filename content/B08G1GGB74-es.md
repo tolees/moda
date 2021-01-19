@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08G1GGB74-es Ocobudbxw Bolso de Hombro Tipo Cubo para Mujer Bandolera...'
-tags: [ 'tole.es','bolso', ]
+tags: [ 'bolso', ]
 actualPrice: 10.97 EUR
 currency: EUR
 price: 10.97

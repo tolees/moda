@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HEXGE2I-es Crocs Classic Clog K Zuecos Unisex Niños Rojo Pepper 27/28 EU'
-tags: [ 'tole.es','zuecos', ]
+tags: [ 'zuecos', ]
 actualPrice: 21.0 EUR
 currency: EUR
 price: 21.0

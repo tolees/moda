@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00LFCB9JS-es Birkenstock Gizeh Eva - Sandalias unisex Verde Khaki 38'
-tags: [ 'tole.es','sandalias', ]
+tags: [ 'sandalias', ]
 actualPrice: 20.36 EUR
 currency: EUR
 price: 20.36

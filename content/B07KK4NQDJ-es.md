@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KK4NQDJ-es Columbia Five Forks Zapatos de Senderismo Impermeables...'
-tags: [ 'tole.es','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 40.2 EUR
 currency: EUR
 price: 40.2

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082NY3BXN-es ShyaWorld Chaqueta Alta Visibilidad Trabajo homologada...'
-tags: [ 'tole.es','chaqueta', ]
+tags: [ 'chaqueta', ]
 actualPrice: 49.95 EUR
 currency: EUR
 price: 49.95

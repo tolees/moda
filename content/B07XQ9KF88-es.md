@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XQ9KF88-es Marca Amazon - FIND Stiletto Round Toe T-Bar Zapatos de...'
-tags: [ 'tole.es','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 5.87 EUR
 currency: EUR
 price: 5.87

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W4HWCH8-es Tommy Hilfiger Basic Embroidered Hoody Sudadera Azul Blue...'
-tags: [ 'tole.es','sudadera', ]
+tags: [ 'sudadera', ]
 actualPrice: 26.73 EUR
 currency: EUR
 price: 26.73

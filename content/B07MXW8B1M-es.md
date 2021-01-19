@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MXW8B1M-es Desigual 19WAXAAM - Bolso de hombro de Sintético Mujer...'
-tags: [ 'tole.es','bolso', ]
+tags: [ 'bolso', ]
 actualPrice: 42 EUR
 currency: EUR
 price: 42

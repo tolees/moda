@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K5L7XV6-es Levi s Type 3 Chaqueta Vaquera Azul Mayze Sherpa Trucker...'
-tags: [ 'tole.es','chaqueta', ]
+tags: [ 'chaqueta', ]
 actualPrice: 62.4 EUR
 currency: EUR
 price: 62.4

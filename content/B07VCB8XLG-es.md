@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VCB8XLG-es ECCO X-TRINSICM Sandalias con Punta Abierta para Hombre...'
-tags: [ 'tole.es','sandalias', ]
+tags: [ 'sandalias', ]
 actualPrice: 46.12 EUR
 currency: EUR
 price: 46.12

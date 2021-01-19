@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00WWQ0QRC-es Jack & Jones Jjprparma Shirt L/s Noos Camisa Weiß...'
-tags: [ 'tole.es','camisa', ]
+tags: [ 'camisa', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

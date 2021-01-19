@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G5HXB74-es find. 2 Pack Slim Shirt - Camisa Hombre Gris Contrast...'
-tags: [ 'tole.es','camisa', ]
+tags: [ 'camisa', ]
 actualPrice: 8.2 EUR
 currency: EUR
 price: 8.2

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087BHSB8K-es Black Butler T-Shirts 3D Impresión Camisetas de Manga...'
-tags: [ 'tole.es','camisa', ]
+tags: [ 'camisa', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

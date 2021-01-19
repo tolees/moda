@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TMHHJPF-es Levi s 501 Original Fit Vaqueros Azul Key West Waves Tnl...'
-tags: [ 'tole.es','vaqueros', ]
+tags: [ 'vaqueros', ]
 actualPrice: 59.4 EUR
 currency: EUR
 price: 59.4

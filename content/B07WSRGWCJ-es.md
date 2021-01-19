@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WSRGWCJ-es Charles Wilson Sudadera con Capucha de Peso Pesado Small Lime'
-tags: [ 'tole.es','sudadera', ]
+tags: [ 'sudadera', ]
 actualPrice: 12.95 EUR
 currency: EUR
 price: 12.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VLZMMMC-es Vero Moda Vmeva HR Loose Paperbag Check Pant Noos...'
-tags: [ 'tole.es','moda', ]
+tags: [ 'moda', ]
 actualPrice: 15.72 EUR
 currency: EUR
 price: 15.72

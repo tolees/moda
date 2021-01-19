@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S11V5LL-es Only Frsfalcon Zip Hood Sweat-Unit Sudadera con Capucha de...'
-tags: [ 'tole.es','sudadera', ]
+tags: [ 'sudadera', ]
 actualPrice: 9.74 EUR
 currency: EUR
 price: 9.74
