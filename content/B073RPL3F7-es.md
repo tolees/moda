@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41DkLYBGmGL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073RPL3F7-es Helly Hansen Logo Hoodie Sudadera con Capucha  Hombre  Azul  Marino   2XL'
+slug: 'B073RPL3F7-es Helly Hansen Logo Hoodie Sudadera con Capucha Hombre Azul...'
+tags: sudadera
 actualPrice: 43.5 EUR
 currency: EUR
 price: 43.5

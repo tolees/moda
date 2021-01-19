@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ecBBnncnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FH9GW6Z-es Timberland Capri Sunset Wedge  Sandalias para Mujer  Verde  Olive Nubuck   42 EU'
+slug: 'B07FH9GW6Z-es Timberland Capri Sunset Wedge Sandalias para Mujer Verde...'
+tags: sandalias, timberland
 actualPrice: 50.0 EUR
 currency: EUR
 price: 50.0

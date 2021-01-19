@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31ZqZ4C%2B1kL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFV9MTM-es Geox U HALLSON A  Botas Chukka para Hombre  Amarillo  Curry C2021   43 EU'
+slug: 'B07LFV9MTM-es Geox U HALLSON A Botas Chukka para Hombre Amarillo Curry...'
+tags: geox
 actualPrice: 54.65 EUR
 currency: EUR
 price: 54.65

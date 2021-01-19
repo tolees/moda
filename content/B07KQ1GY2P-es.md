@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31s3OLZ3wDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KQ1GY2P-es Ever-Pretty A-línea Vestido de Noche Cuello en V Manga Corta Gasa Corte Imperio para Mujer Morado Oscuro 54'
+slug: 'B07KQ1GY2P-es Ever-Pretty A-línea Vestido de Noche Cuello en V Manga...'
+tags: vestido
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

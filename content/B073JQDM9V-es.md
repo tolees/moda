@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/417RRYdDRLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073JQDM9V-es Marca Amazon - find. Cazadora Acolchada Hombre  Azul  Navy   XXL  Label: XXL'
+slug: 'B073JQDM9V-es Marca Amazon - find. Cazadora Acolchada Hombre Azul Navy...'
+tags: -, find.
 actualPrice: 13.16 EUR
 currency: EUR
 price: 13.16

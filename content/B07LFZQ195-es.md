@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31FdIqtO5jL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFZQ195-es Geox D Sukie C  Zapatillas para Mujer  Negro  Black C9999   37 EU'
+slug: 'B07LFZQ195-es Geox D Sukie C Zapatillas para Mujer Negro Black C9999 37 EU'
+tags: geox
 actualPrice: 47.39 EUR
 currency: EUR
 price: 47.39

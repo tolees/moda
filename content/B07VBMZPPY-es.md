@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41rb-dgOcpL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VBMZPPY-es Iris & Lilly Mujer Blinl0006 Corsé Not Applicable  Negro  Scooter   44  Talla del fabricante: 34D '
+slug: 'B07VBMZPPY-es Iris & Lilly Mujer Blinl0006 Corsé Not Applicable Negro...'
+tags: iris, &, lilly
 actualPrice: 14.94 EUR
 currency: EUR
 price: 14.94

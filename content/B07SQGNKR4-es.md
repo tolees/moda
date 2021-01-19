@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31h87N18hwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SQGNKR4-es Geox U Moner V  Mocasines para Hombre  Naranja  Dk Yellow C2006   42 EU'
+slug: 'B07SQGNKR4-es Geox U Moner V Mocasines para Hombre Naranja Dk Yellow...'
+tags: geox
 actualPrice: 70.04 EUR
 currency: EUR
 price: 70.04

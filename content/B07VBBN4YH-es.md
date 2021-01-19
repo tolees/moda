@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413qMtE3hJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VBBN4YH-es HUGO 708 Vaqueros Slim  Azul  Bright Blue 431   W35/L34  Talla del Fabricante: 3534  para Hombre'
+slug: 'B07VBBN4YH-es HUGO 708 Vaqueros Slim Azul Bright Blue 431 W35/L34 Talla...'
+tags: vaqueros
 actualPrice: 28.75 EUR
 currency: EUR
 price: 28.75

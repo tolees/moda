@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/411VqEFNLnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004BTVHYE-es Timberland 6 Inch Premium Waterproof  Botas para Mujer  Amarillo  Wheat Nubuck   39 EU'
+slug: 'B004BTVHYE-es Timberland 6 Inch Premium Waterproof Botas para Mujer...'
+tags: timberland
 actualPrice: 119.89 EUR
 currency: EUR
 price: 119.89

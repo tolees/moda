@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41j6KBFQPjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F2QFBY4-es Helly Hansen Crew Camisa Polo  Unisex Adulto  Alert Red  M'
+slug: 'B07F2QFBY4-es Helly Hansen Crew Camisa Polo Unisex Adulto Alert Red M'
+tags: camisa
 actualPrice: 20.45 EUR
 currency: EUR
 price: 20.45

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31iywcD5GNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RYMQ1NS-es Levi s 501 Original Fit Jeans Pantalón Vaquero con diseño clásico y cómodos de Usar  Azul  Boared Tnl 2948   32W/32L para Hombre'
+slug: 'B07RYMQ1NS-es Levi s 501 Original Fit Jeans Pantalón Vaquero con diseño...'
+tags: pantalón
 actualPrice: 43.39 EUR
 currency: EUR
 price: 43.39

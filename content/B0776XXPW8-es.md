@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31zLFq9xqvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0776XXPW8-es Tommy Hilfiger Piqué P Camiseta Polo con Cierre de 3 Botones  Azul  Black Iris   M para Hombre'
+slug: 'B0776XXPW8-es Tommy Hilfiger Piqué P Camiseta Polo con Cierre de 3...'
+tags: camiseta
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/410%2BPDwU6fL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N9JOCR1-es find. Falda Plisada de Encaje para Mujer   Negro  Black   46  Talla del Fabricante: XX-Large '
+slug: 'B01N9JOCR1-es find. Falda Plisada de Encaje para Mujer Negro Black 46...'
+tags: falda
 actualPrice: 10.5 EUR
 currency: EUR
 price: 10.5

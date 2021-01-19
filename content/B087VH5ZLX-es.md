@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41vfLkHRhFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087VH5ZLX-es Columbia Lake 22 Chaqueta de Plumas para Hombre  Azul  Bright Indigo   L'
+slug: 'B087VH5ZLX-es Columbia Lake 22 Chaqueta de Plumas para Hombre Azul...'
+tags: chaqueta
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

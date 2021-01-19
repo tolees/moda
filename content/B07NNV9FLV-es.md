@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/311Of2J4S-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NNV9FLV-es Under Armour Erwachsene Core Remix Dusch-& Badeschuhe  Zapatos de Playa y Piscina Unisex Adulto  Blanco  Onyx White/Black/Onyx White  103  103   38.5 EU'
+slug: 'B07NNV9FLV-es Under Armour Erwachsene Core Remix Dusch-& Badeschuhe...'
+tags: zapatos
 actualPrice: 13.95 EUR
 currency: EUR
 price: 13.95

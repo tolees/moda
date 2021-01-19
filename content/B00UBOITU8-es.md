@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41YUGSplPgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00UBOITU8-es Tommy Hilfiger 3p Trunk Bóxer  Blanco  White/Tango Red/Peacoat 611   XX-Large  Pack de 3  para Hombre'
+slug: 'B00UBOITU8-es Tommy Hilfiger 3p Trunk Bóxer Blanco White/Tango...'
+tags: bóxer
 actualPrice: 27.49 EUR
 currency: EUR
 price: 27.49

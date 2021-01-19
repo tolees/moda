@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31TNDBmO0FL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KRG7P7G-es Helly Hansen LIFA Dry Stripe Crew Thermal Baselayer Camiseta Deportiva Manga Larga  Hombre  Navy  2XL'
+slug: 'B07KRG7P7G-es Helly Hansen LIFA Dry Stripe Crew Thermal Baselayer...'
+tags: camiseta
 actualPrice: 23.49 EUR
 currency: EUR
 price: 23.49

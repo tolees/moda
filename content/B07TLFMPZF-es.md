@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41roCUEXYzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TLFMPZF-es Levi s LS Battery Hm Shirt Slim Camisa  Azul  Redcast Stone Mid Flat T2 H2 19 0004   Large para Hombre'
+slug: 'B07TLFMPZF-es Levi s LS Battery Hm Shirt Slim Camisa Azul Redcast Stone...'
+tags: camisa
 actualPrice: 29.5 EUR
 currency: EUR
 price: 29.5

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41lnnR1b1zL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071XC5NSX-es Marca Amazon - find. Vestido Asimétrico para Mujer  Rojo  Red   42  Label: L'
+slug: 'B071XC5NSX-es Marca Amazon - find. Vestido Asimétrico para Mujer Rojo...'
+tags: vestido, -, find.
 actualPrice: 8.67 EUR
 currency: EUR
 price: 8.67

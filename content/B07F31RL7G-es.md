@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41VwYBPciSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F31RL7G-es Helly Hansen HH Logo Camiseta Manga Corta  Hombre  Grey mélange  S'
+slug: 'B07F31RL7G-es Helly Hansen HH Logo Camiseta Manga Corta Hombre Grey...'
+tags: camiseta
 actualPrice: 19.49 EUR
 currency: EUR
 price: 19.49

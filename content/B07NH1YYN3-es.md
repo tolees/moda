@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41mSa-VSk2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NH1YYN3-es Strellson Premium Cozer-j Chaqueta de Traje  Gris  Grey 019   54  Talla del Fabricante: 52  para Hombre'
+slug: 'B07NH1YYN3-es Strellson Premium Cozer-j Chaqueta de Traje Gris Grey 019...'
+tags: chaqueta
 actualPrice: 66.96 EUR
 currency: EUR
 price: 66.96

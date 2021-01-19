@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/316k66GeW6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IJFG5C4-es VNOX Hombres de Acero Inoxidable Sencilla Cruz Collar con Cadena de 60 cm de Plata Cubana'
+slug: 'B01IJFG5C4-es VNOX Hombres de Acero Inoxidable Sencilla Cruz Collar con...'
+tags: collar
 actualPrice: 8.45 EUR
 currency: EUR
 price: 8.45

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41jPLtd+QSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PNC38W6-es Only Onlmay S/s Dress Noos Vestido  Multicolor  Night Sky AOP: Dot Cloud Dancer   44  Talla del Fabricante: X-Large  para Mujer'
+slug: 'B07PNC38W6-es Only Onlmay S/s Dress Noos Vestido Multicolor Night Sky...'
+tags: vestido
 actualPrice: 9.49 EUR
 currency: EUR
 price: 9.49

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/315XrB-gaML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JFGJT1M-es Lacoste Ch0763 Camisa   Blanc 001   Large  Talla del Fabricante: 42  para Hombre'
+slug: 'B07JFGJT1M-es Lacoste Ch0763 Camisa Blanc 001 Large Talla del...'
+tags: camisa
 actualPrice: 60.99 EUR
 currency: EUR
 price: 60.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41jBokNqHGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073RM21LD-es Marca Amazon - find. Chaqueta de Satén Estilo Bómber Mujer  Rosa  Blush   46  Label: XXL'
+slug: 'B073RM21LD-es Marca Amazon - find. Chaqueta de Satén Estilo Bómber Mujer...'
+tags: chaqueta, -, find.
 actualPrice: 11.83 EUR
 currency: EUR
 price: 11.83

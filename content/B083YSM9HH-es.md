@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41cxOrspM+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083YSM9HH-es Jack & Jones JJEPAULOS Polo SS Noos Camisa  Ojo  XXL para Hombre'
+slug: 'B083YSM9HH-es Jack & Jones JJEPAULOS Polo SS Noos Camisa Ojo XXL para...'
+tags: camisa
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

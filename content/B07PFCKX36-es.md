@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41apYRD25lL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PFCKX36-es Tous Doromy  Bolso bandolera para Mujer  Multicolor  Fucsia/Marino 995810349   18x13x5 cm  W x H x L '
+slug: 'B07PFCKX36-es Tous Doromy Bolso bandolera para Mujer Multicolor...'
+tags: bolso
 actualPrice: 34.5 EUR
 currency: EUR
 price: 34.5

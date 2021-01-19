@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31G5sDRCoCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WJVMWR2-es Only Onlcarmen Reg Ankle Snake Dnm Jeans Bj Vaqueros  Black  28W / 32L para Mujer'
+slug: 'B07WJVMWR2-es Only Onlcarmen Reg Ankle Snake Dnm Jeans Bj Vaqueros Black...'
+tags: vaqueros
 actualPrice: 7.02 EUR
 currency: EUR
 price: 7.02

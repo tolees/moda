@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31j-5KAQCXL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RJKWBCG-es Tommy Hilfiger Basic Hilfiger Hoody Sudadera  Azul  Blue Dw5   Talla única  Talla del Fabricante: X-Small  para Hombre'
+slug: 'B07RJKWBCG-es Tommy Hilfiger Basic Hilfiger Hoody Sudadera Azul Blue Dw5...'
+tags: sudadera
 actualPrice: 72.21 EUR
 currency: EUR
 price: 72.21

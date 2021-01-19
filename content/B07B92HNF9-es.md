@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31bCfQ2l-WL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B92HNF9-es Pepe Jeans Martin Gafas de sol  Negro  Black   52 para Hombre'
+slug: 'B07B92HNF9-es Pepe Jeans Martin Gafas de sol Negro Black 52 para Hombre'
+tags: gafas
 actualPrice: 28.93 EUR
 currency: EUR
 price: 28.93

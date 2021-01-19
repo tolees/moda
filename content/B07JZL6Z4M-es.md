@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/418xm798f+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JZL6Z4M-es adidas Estro 19 JSY Camiseta de Manga Corta  Niños  Power Red  M'
+slug: 'B07JZL6Z4M-es adidas Estro 19 JSY Camiseta de Manga Corta Niños Power Red M'
+tags: camiseta
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

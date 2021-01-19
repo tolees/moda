@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41GZ97fxTeL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MMLP46B-es Napapijri Aric Chaqueta  Rojo  Red Scarlet R01   XL para Hombre'
+slug: 'B07MMLP46B-es Napapijri Aric Chaqueta Rojo Red Scarlet R01 XL para Hombre'
+tags: chaqueta
 actualPrice: 139.6 EUR
 currency: EUR
 price: 139.6

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51HOLEy011L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZKJCQB5-es Gafas de Natación  Antiniebla Protección UV Sin Fugas Gafas Natación con Libre Clip de Nariz Enchufe de oído Gorro de baño para Hombres Mujeres Adultos Niños de la Juventud  Azul '
+slug: 'B07ZKJCQB5-es Gafas de Natación Antiniebla Protección UV Sin Fugas Gafas...'
+tags: gafas
 actualPrice: 10.7 EUR
 currency: EUR
 price: 10.7

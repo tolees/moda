@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41hv2+Dc7eL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZQ47RN-es Pepe Jeans Richardson Chaqueta  Negro  Black 999   Large para Hombre'
+slug: 'B07MZQ47RN-es Pepe Jeans Richardson Chaqueta Negro Black 999 Large para...'
+tags: chaqueta
 actualPrice: 60.5 EUR
 currency: EUR
 price: 60.5

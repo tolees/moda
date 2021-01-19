@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31RiYtSZ2ZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SWTTSSM-es Geox U Moner V  Mocasines para Hombre  Azul  Avio C4005   43 5 EU'
+slug: 'B07SWTTSSM-es Geox U Moner V Mocasines para Hombre Azul Avio C4005 43 5 EU'
+tags: geox
 actualPrice: 74.9 EUR
 currency: EUR
 price: 74.9

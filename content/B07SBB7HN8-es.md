@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31LZYnfRDAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SBB7HN8-es Crocs Classic Clog  Zuecos Unisex Adulto  Rosa  Electric Pink 6QQ   39/40 EU'
+slug: 'B07SBB7HN8-es Crocs Classic Clog Zuecos Unisex Adulto Rosa Electric Pink...'
+tags: zuecos
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

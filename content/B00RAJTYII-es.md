@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41AN5OPLKlL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00RAJTYII-es Fruit of the Loom - Sudadera con Capucha Hombre/Caballero - Deporte/Gimnasio/Running  Pequeña  S    Gris '
+slug: 'B00RAJTYII-es Fruit of the Loom - Sudadera con Capucha Hombre/Caballero...'
+tags: sudadera
 actualPrice: 17.2 EUR
 currency: EUR
 price: 17.2

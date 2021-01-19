@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/514HbE-P2KL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00LM6UN9Y-es Havaianas Slim Chanclas Mujer  Marrón  Rose Gold   39/40 EU'
+slug: 'B00LM6UN9Y-es Havaianas Slim Chanclas Mujer Marrón Rose Gold 39/40 EU'
+tags: chanclas
 actualPrice: 18.15 EUR
 currency: EUR
 price: 18.15

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41dkKCrr-AL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01H0SIQB4-es Michael Kors Jet Set Travel  Bolso totes para Mujer  Azul  Admiral   12.7x29.2x43 centimeters  W x H x L '
+slug: 'B01H0SIQB4-es Michael Kors Jet Set Travel Bolso totes para Mujer Azul...'
+tags: bolso
 actualPrice: 130.0 EUR
 currency: EUR
 price: 130.0

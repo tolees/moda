@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31erMb+M1AL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J5NKYBP-es Marca Amazon - find. Wedge Close Toe Canvas Espadrille Sandalias Punta Cerrada  Negro Black  38 EU'
+slug: 'B07J5NKYBP-es Marca Amazon - find. Wedge Close Toe Canvas Espadrille...'
+tags: sandalias, -, find.
 actualPrice: 31.4 EUR
 currency: EUR
 price: 31.4

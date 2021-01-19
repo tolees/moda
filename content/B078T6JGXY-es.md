@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41BG7VNN7OL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078T6JGXY-es Puma Liga Casuals Hoody Jacket Chaqueta  Hombre  Pepper Green White  XX-Large'
+slug: 'B078T6JGXY-es Puma Liga Casuals Hoody Jacket Chaqueta Hombre Pepper...'
+tags: chaqueta
 actualPrice: 22.47 EUR
 currency: EUR
 price: 22.47

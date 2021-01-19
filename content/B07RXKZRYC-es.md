@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Y6NnHOrcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RXKZRYC-es Levi s 711 Vaqueros Skinny  Gris  Hit Me Up 0454   W26/L30  Talla del Fabricante: 26 30  para Mujer'
+slug: 'B07RXKZRYC-es Levi s 711 Vaqueros Skinny Gris Hit Me Up 0454 W26/L30...'
+tags: vaqueros
 actualPrice: 43.39 EUR
 currency: EUR
 price: 43.39

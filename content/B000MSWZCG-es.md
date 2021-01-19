@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414v2ejK3DL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000MSWZCG-es Birkenstock 51703 - Sandalias con hebilla unisex  color marrón  talla 39  estrecho '
+slug: 'B000MSWZCG-es Birkenstock 51703 - Sandalias con hebilla unisex color...'
+tags: sandalias
 actualPrice: 47.63 EUR
 currency: EUR
 price: 47.63

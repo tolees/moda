@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/314E74qNlEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K13L5KZ-es Mujer Torera Casual Frente Abierto Manga Larga para Vestido Oficina Negro M'
+slug: 'B07K13L5KZ-es Mujer Torera Casual Frente Abierto Manga Larga para...'
+tags: vestido
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

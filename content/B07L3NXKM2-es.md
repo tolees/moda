@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41WfpK5o7xL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L3NXKM2-es SHOBDW Mujer Moda Entrenamiento Capri Leggings Pantalones Colorido Estiramiento de Cintura Alta Gimnasio Deportes Gimnasio Mallas para Correr Yoga Atlético Negro L '
+slug: 'B07L3NXKM2-es SHOBDW Mujer Moda Entrenamiento Capri Leggings Pantalones...'
+tags: moda
 actualPrice: 3.69 EUR
 currency: EUR
 price: 3.69

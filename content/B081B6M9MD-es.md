@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41yjNLA4SIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081B6M9MD-es Columbia Triple Canyon Camisa de Manga Corta  Hombre  Azul  Collegiate Navy   XL'
+slug: 'B081B6M9MD-es Columbia Triple Canyon Camisa de Manga Corta Hombre Azul...'
+tags: camisa
 actualPrice: 35.89 EUR
 currency: EUR
 price: 35.89

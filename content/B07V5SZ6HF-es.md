@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31fT+0vrIJL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V5SZ6HF-es JACK & JONES PREMIUM 12154586 Abrigo  Negro  Black Black   Small para Hombre'
+slug: 'B07V5SZ6HF-es JACK & JONES PREMIUM 12154586 Abrigo Negro Black Black...'
+tags: abrigo
 actualPrice: 100.95 EUR
 currency: EUR
 price: 100.95

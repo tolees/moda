@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41o9Qp7wHrL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B006FI3JZY-es Twentyfour Freizeitshirt FM NY Kapuzen in frischen Farben - Jersey  Color Azul Azul  Talla 36'
+slug: 'B006FI3JZY-es Twentyfour Freizeitshirt FM NY Kapuzen in frischen Farben...'
+tags: jersey
 actualPrice: 12.95 EUR
 currency: EUR
 price: 12.95

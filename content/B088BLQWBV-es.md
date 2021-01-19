@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41QdE113JkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088BLQWBV-es Mediffen Mujer Tacón De Agujae Elegante Fiesta Vestido Puntiagudo Pump Sin Cordones Tacón Alto Boda Pump Negro Talla 40 Asiática'
+slug: 'B088BLQWBV-es Mediffen Mujer Tacón De Agujae Elegante Fiesta Vestido...'
+tags: vestido
 actualPrice: 23.89 EUR
 currency: EUR
 price: 23.89

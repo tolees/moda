@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31h1DfHwDVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082Y7B7PV-es Jack & Jones Jjelogo tee SS O-Neck 2 Col Ss20 Noos Camiseta  Blazer Azul Marino  XXL para Hombre'
+slug: 'B082Y7B7PV-es Jack & Jones Jjelogo tee SS O-Neck 2 Col Ss20 Noos...'
+tags: camiseta
 actualPrice: 10.39 EUR
 currency: EUR
 price: 10.39

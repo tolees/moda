@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31tsMNIGr+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086PFKKCR-es PUMA ESS Logo tee Camiseta  Mujer  Glowing Pink  M'
+slug: 'B086PFKKCR-es PUMA ESS Logo tee Camiseta Mujer Glowing Pink M'
+tags: camiseta
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

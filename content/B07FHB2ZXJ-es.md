@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41SEDmYhsUL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FHB2ZXJ-es Levi s Big and Tall B&t Graphic tee Camiseta  Azul  Hm Big Dress Blues 0001   XXX-Large para Hombre'
+slug: 'B07FHB2ZXJ-es Levi s Big and Tall B&t Graphic tee Camiseta Azul Hm Big...'
+tags: camiseta
 actualPrice: 12.5 EUR
 currency: EUR
 price: 12.5

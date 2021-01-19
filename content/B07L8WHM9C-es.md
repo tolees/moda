@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41k0KlEYeSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L8WHM9C-es REPLAY W2266a.000.52166 Blusa  Multicolor  Blue/Red/Azule 10   Medium para Mujer'
+slug: 'B07L8WHM9C-es REPLAY W2266a.000.52166 Blusa Multicolor Blue/Red/Azule 10...'
+tags: blusa
 actualPrice: 8.73 EUR
 currency: EUR
 price: 8.73

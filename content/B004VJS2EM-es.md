@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41VsqKEjE3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004VJS2EM-es FitFlop Zapatos de Cordones Chukker Chocolate EU 44  UK 10 '
+slug: 'B004VJS2EM-es FitFlop Zapatos de Cordones Chukker Chocolate EU 44 UK 10'
+tags: zapatos
 actualPrice: 75.95 EUR
 currency: EUR
 price: 75.95

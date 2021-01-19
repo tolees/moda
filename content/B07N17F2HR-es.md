@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31OwzW2r8vL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N17F2HR-es Mr. Boho Hayes Santa Fe   -   Gafas de sol para mujer  44'
+slug: 'B07N17F2HR-es Mr. Boho Hayes Santa Fe - Gafas de sol para mujer 44'
+tags: gafas
 actualPrice: 29.57 EUR
 currency: EUR
 price: 29.57

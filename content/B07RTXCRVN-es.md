@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31GZ0mYtDwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RTXCRVN-es JACK & JONES Jprjean Bla. tee SS U-Neck Camiseta  Negro  Black Fit: Slim Fit   Medium para Hombre'
+slug: 'B07RTXCRVN-es JACK & JONES Jprjean Bla. tee SS U-Neck Camiseta Negro...'
+tags: camiseta
 actualPrice: 4.7 EUR
 currency: EUR
 price: 4.7

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41naEOehJKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RZ786DP-es edc by Esprit 999cc1b803 Vaqueros Skinny  Azul  Blue Medium Wash 902   W29/L30  Talla del Fabricante: 29/30  para Mujer'
+slug: 'B07RZ786DP-es edc by Esprit 999cc1b803 Vaqueros Skinny Azul Blue Medium...'
+tags: vaqueros
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/418rAuxQ4CL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MU2DTY3-es Activewear Sudadera Deportiva Hombre  Negro  Black   Medium'
+slug: 'B01MU2DTY3-es Activewear Sudadera Deportiva Hombre Negro Black Medium'
+tags: sudadera
 actualPrice: 11.4 EUR
 currency: EUR
 price: 11.4

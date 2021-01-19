@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31FlW4h+8ML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S7BRCGZ-es Lee Austin Vaqueros Tapered  Azul  Mission Worn Zi   31W / 34L para Hombre'
+slug: 'B07S7BRCGZ-es Lee Austin Vaqueros Tapered Azul Mission Worn Zi 31W / 34L...'
+tags: vaqueros
 actualPrice: 16.15 EUR
 currency: EUR
 price: 16.15

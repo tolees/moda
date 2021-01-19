@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51sHgqSH5gL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SDHDPMB-es Disney HS1472 Sudadera  Gris  Grey Grey   8 años para Niños'
+slug: 'B07SDHDPMB-es Disney HS1472 Sudadera Gris Grey Grey 8 años para Niños'
+tags: sudadera
 actualPrice: 20.65 EUR
 currency: EUR
 price: 20.65

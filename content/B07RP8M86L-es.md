@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41RTPWQnN0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RP8M86L-es DC Comics Pijama Entera para Niños Bebés The Flash Rojo 12-18 Meses'
+slug: 'B07RP8M86L-es DC Comics Pijama Entera para Niños Bebés The Flash Rojo...'
+tags: pijama
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

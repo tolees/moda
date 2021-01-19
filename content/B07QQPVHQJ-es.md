@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51VlotgZsVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QQPVHQJ-es flintronic Billetera  Monedero para Hombres  RFID Billetera  Monedero de Cuero Genuino  2 ID Ventanas 10 Ranuras 3 Compartimientos  Incluye Cable USB Winder   Tarjetas Crédito Licencia de Conducir'
+slug: 'B07QQPVHQJ-es flintronic Billetera Monedero para Hombres RFID Billetera...'
+tags: billetera, monedero
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

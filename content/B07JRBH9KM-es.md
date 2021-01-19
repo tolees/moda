@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/310TJYNx0lL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JRBH9KM-es Tommy Jeans Mujer Garment Dye Tee Camiseta   Morado  Hyacinth 580  X-Small'
+slug: 'B07JRBH9KM-es Tommy Jeans Mujer Garment Dye Tee Camiseta Morado Hyacinth...'
+tags: camiseta
 actualPrice: 19 EUR
 currency: EUR
 price: 19

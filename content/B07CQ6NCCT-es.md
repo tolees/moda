@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41jdZ0U7zKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CQ6NCCT-es Marca Amazon - AURIQUE Mallas de Deporte sin Costuras de Tiro Alto Mujer  Negro  Black   38  Label:S'
+slug: 'B07CQ6NCCT-es Marca Amazon - AURIQUE Mallas de Deporte sin Costuras de...'
+tags: aurique
 actualPrice: 19.54 EUR
 currency: EUR
 price: 19.54

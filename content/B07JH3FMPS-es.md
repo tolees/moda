@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31nAwj87bcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JH3FMPS-es Pepe Jeans Pixie Pl200025 Vaqueros Skinny  Gris  Powerflex Grey Used Denim Uc4   W31/L30 para Mujer'
+slug: 'B07JH3FMPS-es Pepe Jeans Pixie Pl200025 Vaqueros Skinny Gris Powerflex...'
+tags: vaqueros
 actualPrice: 41.64 EUR
 currency: EUR
 price: 41.64

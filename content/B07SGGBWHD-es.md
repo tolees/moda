@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31L+E5FR6sL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SGGBWHD-es Burton Brtn Camiseta  Hombre  True Black  L'
+slug: 'B07SGGBWHD-es Burton Brtn Camiseta Hombre True Black L'
+tags: camiseta
 actualPrice: 13.38 EUR
 currency: EUR
 price: 13.38

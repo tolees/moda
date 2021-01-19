@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31IqypS92iL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JYTYFTH-es Tommy Hilfiger Tommy Flag Hilfiger tee Camisa Deportiva  Azul  Sky Captain 403   Medium para Hombre'
+slug: 'B07JYTYFTH-es Tommy Hilfiger Tommy Flag Hilfiger tee Camisa Deportiva...'
+tags: camisa
 actualPrice: 28.4 EUR
 currency: EUR
 price: 28.4

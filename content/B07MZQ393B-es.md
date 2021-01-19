@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51KN76eGTHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZQ393B-es Pepe Jeans Ophelia Blusa  Multicolor  Multi 0aa   Large para Mujer'
+slug: 'B07MZQ393B-es Pepe Jeans Ophelia Blusa Multicolor Multi 0aa Large para...'
+tags: blusa
 actualPrice: 40.47 EUR
 currency: EUR
 price: 40.47

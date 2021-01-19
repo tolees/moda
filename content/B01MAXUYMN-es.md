@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31zEdGkwH3L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MAXUYMN-es MAMALICIOUS MLJULIANE SLIM PANT - NOOS  Vaqueros premamá Mujer  Negro  Black   W31/L34   31 '
+slug: 'B01MAXUYMN-es MAMALICIOUS MLJULIANE SLIM PANT - NOOS Vaqueros premamá...'
+tags: vaqueros
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

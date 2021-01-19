@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41I3NkH7RJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VZSBT1Q-es Tommy Hilfiger TJM Bold tee Camiseta  Azul  Twilight Navy Stripe 0ze   Medium para Hombre'
+slug: 'B07VZSBT1Q-es Tommy Hilfiger TJM Bold tee Camiseta Azul Twilight Navy...'
+tags: camiseta
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

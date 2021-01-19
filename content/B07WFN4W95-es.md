@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41f57SHReZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WFN4W95-es Jack & Jones JORWONTON Sweat Hood Sudadera con Capucha  Rojo  Chili Fit: Reg   M para Hombre'
+slug: 'B07WFN4W95-es Jack & Jones JORWONTON Sweat Hood Sudadera con Capucha...'
+tags: sudadera
 actualPrice: 7.74 EUR
 currency: EUR
 price: 7.74

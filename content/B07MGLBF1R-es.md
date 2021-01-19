@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51J7OZKKMvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MGLBF1R-es Zapatos Deporte Mujer Zapatillas Deportivas Correr Gimnasio Casual Zapatos para Caminar Mesh Running Transpirable Aumentar Más Altos Sneakers Negro Gris Morado Rojo 35-44 Gris 35'
+slug: 'B07MGLBF1R-es Zapatos Deporte Mujer Zapatillas Deportivas Correr...'
+tags: zapatos
 actualPrice: 20.39 EUR
 currency: EUR
 price: 20.39

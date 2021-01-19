@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51UywurySCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08F9WTV9R-es Mochilas para Pañales Biberones Multifuncional Impermeable Mochila Maternidad con Portátil Cambiador Gran Capacidad Bolso Cambiador Bebe con Bolsillo Térmico para Biberones  Azul '
+slug: 'B08F9WTV9R-es Mochilas para Pañales Biberones Multifuncional Impermeable...'
+tags: bolso
 actualPrice: 27.86 EUR
 currency: EUR
 price: 27.86

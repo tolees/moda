@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31tt-RwZReL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TKDDGZX-es NIKE W NP Tank Essential Swoosh Camiseta sin Mangas  Mujer  Black/  White   M'
+slug: 'B07TKDDGZX-es NIKE W NP Tank Essential Swoosh Camiseta sin Mangas Mujer...'
+tags: camiseta
 actualPrice: 15.78 EUR
 currency: EUR
 price: 15.78

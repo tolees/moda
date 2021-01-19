@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41CUW7ux3aL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B003JB4HYC-es uhlsport Camiseta Stream II Manga Larga  Todo el año  Unisex  Color Violeta y Blanco  tamaño XL'
+slug: 'B003JB4HYC-es uhlsport Camiseta Stream II Manga Larga Todo el año Unisex...'
+tags: camiseta
 actualPrice: 6.49 EUR
 currency: EUR
 price: 6.49

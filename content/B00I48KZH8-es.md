@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51yupBMBWuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00I48KZH8-es Katara Juego de Disfraces Super Mario Bros Niños/Adultos Roja  Gorra Verde  6 Bigotes  2 Pares de Guantes  M 2 G-1 '
+slug: 'B00I48KZH8-es Katara Juego de Disfraces Super Mario Bros Niños/Adultos...'
+tags: guantes
 actualPrice: 18.33 EUR
 currency: EUR
 price: 18.33

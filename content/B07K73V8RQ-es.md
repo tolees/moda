@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41jkCNjw3DL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K73V8RQ-es Levi s Graphic Top Camiseta Deportiva de Tirantes  Blanco  Hm Tank Ssnl White 0000   Medium para Hombre'
+slug: 'B07K73V8RQ-es Levi s Graphic Top Camiseta Deportiva de Tirantes Blanco...'
+tags: camiseta
 actualPrice: 11.49 EUR
 currency: EUR
 price: 11.49

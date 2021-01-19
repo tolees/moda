@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ZKde-IenL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N3XFTMK-es Desigual Dress DAMIS Vestido  Rojo Clavel 3036  42  Talla del Fabricante: 40  para Mujer'
+slug: 'B07N3XFTMK-es Desigual Dress DAMIS Vestido Rojo Clavel 3036 42 Talla del...'
+tags: vestido
 actualPrice: 55.49 EUR
 currency: EUR
 price: 55.49

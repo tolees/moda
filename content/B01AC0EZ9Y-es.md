@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41tatsqdDdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01AC0EZ9Y-es Nike Yth Park II Knit Short Nb  Pantalón Corto  Niños  Negro  Black/White   S'
+slug: 'B01AC0EZ9Y-es Nike Yth Park II Knit Short Nb Pantalón Corto Niños Negro...'
+tags: pantalón
 actualPrice: 10.65 EUR
 currency: EUR
 price: 10.65

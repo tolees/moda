@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31LZF54bnuL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JGQF8VJ-es Lacoste Th3377 Camiseta  Blanco  Blanc/Noir Au8   2XL  Talla del Fabricante: 7  para Hombre'
+slug: 'B07JGQF8VJ-es Lacoste Th3377 Camiseta Blanco Blanc/Noir Au8 2XL Talla...'
+tags: camiseta
 actualPrice: 27.67 EUR
 currency: EUR
 price: 27.67

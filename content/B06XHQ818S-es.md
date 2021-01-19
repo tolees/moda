@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41AfdXY3t+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XHQ818S-es Geox J Kommodor B  Zapatillas para Niños  Negro  Black/White   31 EU'
+slug: 'B06XHQ818S-es Geox J Kommodor B Zapatillas para Niños Negro Black/White...'
+tags: geox
 actualPrice: 41.48 EUR
 currency: EUR
 price: 41.48

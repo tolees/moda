@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41hr+yUQxPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WTXC9NF-es Charles Wilson Originals Sudadera Algodón Ligera Capucha Cremallera  X-Small  Light Grey  0819  '
+slug: 'B07WTXC9NF-es Charles Wilson Originals Sudadera Algodón Ligera Capucha...'
+tags: sudadera
 actualPrice: 18.95 EUR
 currency: EUR
 price: 18.95

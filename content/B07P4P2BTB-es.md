@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31uIkYURkFL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P4P2BTB-es Art 1521 Grass Black/Mainz  Zapatos de Cordones para Hombre  Negro  36 EU'
+slug: 'B07P4P2BTB-es Art 1521 Grass Black/Mainz Zapatos de Cordones para Hombre...'
+tags: zapatos
 actualPrice: 17.68 EUR
 currency: EUR
 price: 17.68

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31jRernO8jL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B001U9JLCS-es Crocs Classic Clog  Zuecos Unisex Adulto  Morado  Lavanda 530   42/43 EU'
+slug: 'B001U9JLCS-es Crocs Classic Clog Zuecos Unisex Adulto Morado Lavanda 530...'
+tags: zuecos
 actualPrice: 23.79 EUR
 currency: EUR
 price: 23.79

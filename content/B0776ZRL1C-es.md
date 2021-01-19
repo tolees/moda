@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31zAWk6A0hL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0776ZRL1C-es Tommy Hilfiger Original Jersey Camiseta  Blanco  Classic White 100   X-Small para Hombre'
+slug: 'B0776ZRL1C-es Tommy Hilfiger Original Jersey Camiseta Blanco Classic...'
+tags: camiseta, jersey
 actualPrice: 19.49 EUR
 currency: EUR
 price: 19.49

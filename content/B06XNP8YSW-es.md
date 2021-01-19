@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413kEBPNWKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XNP8YSW-es Nike Court Borough Low  PSV   Zapatos de Baloncesto para Niños  Negro  Black/Black 001   29 1/2 EU'
+slug: 'B06XNP8YSW-es Nike Court Borough Low PSV Zapatos de Baloncesto para...'
+tags: zapatos
 actualPrice: 30.0 EUR
 currency: EUR
 price: 30.0

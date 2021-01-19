@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/315wCFe9fpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RJKQV5Q-es Tommy Hilfiger Corp Split tee Camiseta Deporte  Negro  Black Bds   Medium para Hombre'
+slug: 'B07RJKQV5Q-es Tommy Hilfiger Corp Split tee Camiseta Deporte Negro Black...'
+tags: camiseta
 actualPrice: 19.0 EUR
 currency: EUR
 price: 19.0

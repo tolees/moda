@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41dW8R-2dpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QZJJ2PP-es BaZhaHei CinturóN Verde de Compras Monedero del Totalizador del Bolso de Lona del Hombro del Bolso de Rayas Coloreadas de SeñOra'
+slug: 'B07QZJJ2PP-es BaZhaHei CinturóN Verde de Compras Monedero del...'
+tags: bolso, monedero
 actualPrice: 1.12 EUR
 currency: EUR
 price: 1.12

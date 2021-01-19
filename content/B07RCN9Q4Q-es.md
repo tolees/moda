@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41DYr5ygulL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RCN9Q4Q-es Columbia Centennial Creek Chaqueta De Plumón con Capucha  Hombre  Rojo  Red Jasper   XL'
+slug: 'B07RCN9Q4Q-es Columbia Centennial Creek Chaqueta De Plumón con Capucha...'
+tags: chaqueta
 actualPrice: 62.44 EUR
 currency: EUR
 price: 62.44

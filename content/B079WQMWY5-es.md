@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41GKt3drSeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079WQMWY5-es Levi s 511 Slim Fit Vaqueros  Stonewash 2923  31W / 34L para Hombre'
+slug: 'B079WQMWY5-es Levi s 511 Slim Fit Vaqueros Stonewash 2923 31W / 34L para...'
+tags: vaqueros
 actualPrice: 59.0 EUR
 currency: EUR
 price: 59.0

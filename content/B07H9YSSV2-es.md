@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51PB4C-HKCL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H9YSSV2-es Unisex Chico Chica Zapatilla de Deporte del Zapato Negro Rosa Azul Pink 30 EU'
+slug: 'B07H9YSSV2-es Unisex Chico Chica Zapatilla de Deporte del Zapato Negro...'
+tags: zapatilla
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

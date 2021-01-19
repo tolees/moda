@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41r9W+i3quL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M8GPC99-es The North Face Venture 2 Chaqueta  Hombre  Urban Navy  XL'
+slug: 'B07M8GPC99-es The North Face Venture 2 Chaqueta Hombre Urban Navy XL'
+tags: chaqueta
 actualPrice: 69.85 EUR
 currency: EUR
 price: 69.85

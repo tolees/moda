@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41D9Le7pkaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000YKIY4A-es Havaianas Brasil  Chanclas Unisex Adulto  Negro  Black   35/36 EU'
+slug: 'B000YKIY4A-es Havaianas Brasil Chanclas Unisex Adulto Negro Black 35/36 EU'
+tags: chanclas
 actualPrice: 11.0 EUR
 currency: EUR
 price: 11.0

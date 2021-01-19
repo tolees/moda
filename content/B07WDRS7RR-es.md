@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31zoi872ZHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WDRS7RR-es SALOMON Agile Training tee M Camiseta de Manga Corta  Hombre  Azul  Vivid Blue/Heather   L'
+slug: 'B07WDRS7RR-es SALOMON Agile Training tee M Camiseta de Manga Corta...'
+tags: camiseta
 actualPrice: 17.5 EUR
 currency: EUR
 price: 17.5

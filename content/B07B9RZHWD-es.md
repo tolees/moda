@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41lfHEYAgaL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B9RZHWD-es Neosens S970 Restored Skin TINTILLA  Sandalias con Punta Abierta para Mujer  Marrón  Cuero Cuero   38 EU'
+slug: 'B07B9RZHWD-es Neosens S970 Restored Skin TINTILLA Sandalias con Punta...'
+tags: sandalias
 actualPrice: 102.1 EUR
 currency: EUR
 price: 102.1

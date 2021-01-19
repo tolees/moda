@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Sg4nuAe2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z49M8RW-es Jack & Jones Jjeeric Puffer Collar Noos Chaqueta  Gris  Asphalt Asphalt   Large para Hombre'
+slug: 'B07Z49M8RW-es Jack & Jones Jjeeric Puffer Collar Noos Chaqueta Gris...'
+tags: chaqueta, collar
 actualPrice: 31.15 EUR
 currency: EUR
 price: 31.15

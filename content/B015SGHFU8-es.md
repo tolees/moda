@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51WQGStYmFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B015SGHFU8-es Havaianas You Metallic  Sandalias para Mujer  Plateado  Steel Grey   41/42 EU'
+slug: 'B015SGHFU8-es Havaianas You Metallic Sandalias para Mujer Plateado Steel...'
+tags: sandalias
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

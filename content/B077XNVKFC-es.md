@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41yOsPhHp1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077XNVKFC-es Under Armour Woven Graphic Pantalón Corto  Hombre  Azul  Academy-409   XXL'
+slug: 'B077XNVKFC-es Under Armour Woven Graphic Pantalón Corto Hombre Azul...'
+tags: pantalón
 actualPrice: 16.82 EUR
 currency: EUR
 price: 16.82

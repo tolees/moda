@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41d8W02bi8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TWN426C-es Wrangler Skinny Vaqueros  Blue Powder 15L  30W / 30L para Mujer'
+slug: 'B07TWN426C-es Wrangler Skinny Vaqueros Blue Powder 15L 30W / 30L para Mujer'
+tags: vaqueros
 actualPrice: 32.8 EUR
 currency: EUR
 price: 32.8

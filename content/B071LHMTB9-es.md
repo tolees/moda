@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51hgcy4IUdL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071LHMTB9-es AtailorBird Funda Protectora Portátil 13"-13.3" Fundas Protectora Portátil Resistente e Impermeable con Interior de Terciopelo Suave y Bolsillo Lateral Multifuncional Funda Bolso para Laptop-Gris'
+slug: 'B071LHMTB9-es AtailorBird Funda Protectora Portátil 13"-13.3" Fundas...'
+tags: bolso
 actualPrice: 11.48 EUR
 currency: EUR
 price: 11.48

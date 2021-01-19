@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41PLbMl-knL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N4X5LWW-es Tommy Hilfiger Tjw Essential Americana tee Camiseta   Blue Cbk   X-Small para Mujer'
+slug: 'B07N4X5LWW-es Tommy Hilfiger Tjw Essential Americana tee Camiseta Blue...'
+tags: camiseta
 actualPrice: 20.83 EUR
 currency: EUR
 price: 20.83

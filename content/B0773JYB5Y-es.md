@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41DdLVQuVXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0773JYB5Y-es Crocs Yukon Vista Clog M  Zuecos para Hombre  Negro  Black/Black 060   41/42 EU'
+slug: 'B0773JYB5Y-es Crocs Yukon Vista Clog M Zuecos para Hombre Negro...'
+tags: zuecos
 actualPrice: 31.63 EUR
 currency: EUR
 price: 31.63

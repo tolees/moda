@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416LVy0A+1L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NQTB33P-es Springfield 7Ba Jacquard Posicionado Jersey  Azul  Blue 11   X-Large  Tamaño del Fabricante: XL  para Hombre'
+slug: 'B07NQTB33P-es Springfield 7Ba Jacquard Posicionado Jersey Azul Blue 11...'
+tags: jersey
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

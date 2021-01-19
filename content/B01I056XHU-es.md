@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Ejz-EQKlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01I056XHU-es Joma Gala Sudadera  Hombre  Rojo  Vino   8XS'
+slug: 'B01I056XHU-es Joma Gala Sudadera Hombre Rojo Vino 8XS'
+tags: sudadera
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

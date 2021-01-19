@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/313ndrFV2ML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DFKR9F1-es Crocs LiteRide Flip  Chanclas Unisex Adulto  Multicolor  Black/Smoke 05m   36/37 EU'
+slug: 'B07DFKR9F1-es Crocs LiteRide Flip Chanclas Unisex Adulto Multicolor...'
+tags: chanclas
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

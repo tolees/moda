@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Z7sWAI2VL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MDDH2X4-es HEMING Cartera para Hombre Azul  Cartera tarjetero hombre  Billetera Hombre Pequeña  Cartera Hombre Piel  Carteras Hombre Pequeña  Cartera de Piel  Carteras Hombre Cuero  Tarjetero Hombre azul'
+slug: 'B07MDDH2X4-es HEMING Cartera para Hombre Azul Cartera tarjetero hombre...'
+tags: billetera
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

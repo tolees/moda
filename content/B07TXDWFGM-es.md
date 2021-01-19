@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41IpfJeUE8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TXDWFGM-es Levi s Relaxed Graphic Hoodie Sudadera  Gris  Boxtab Pop Midtone Grey Htr 0030   XX-Large para Hombre'
+slug: 'B07TXDWFGM-es Levi s Relaxed Graphic Hoodie Sudadera Gris Boxtab Pop...'
+tags: sudadera
 actualPrice: 27.67 EUR
 currency: EUR
 price: 27.67

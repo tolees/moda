@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31uXV3gOH0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TJK3K5Q-es Clarks Hero Walk  Zapatos de Cordones Derby  Blanco  White Combi White Combi   40 EU'
+slug: 'B07TJK3K5Q-es Clarks Hero Walk Zapatos de Cordones Derby Blanco White...'
+tags: zapatos
 actualPrice: 47.41 EUR
 currency: EUR
 price: 47.41

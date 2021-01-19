@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41yR7s10tYL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07584FSFN-es find. Vaqueros Skinny con Rotos Hombre Azul  Mid Blue Wash  W40/L32'
+slug: 'B07584FSFN-es find. Vaqueros Skinny con Rotos Hombre Azul Mid Blue Wash...'
+tags: vaqueros
 actualPrice: 17.85 EUR
 currency: EUR
 price: 17.85

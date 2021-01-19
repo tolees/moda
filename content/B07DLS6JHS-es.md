@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31XP5g-NKvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DLS6JHS-es Marca Amazon - AURIQUE Leggings de Deporte con Textura Piel de Serpiente Mujer  Azul  Teal Teal   38  Label:S'
+slug: 'B07DLS6JHS-es Marca Amazon - AURIQUE Leggings de Deporte con Textura...'
+tags: aurique
 actualPrice: 12.33 EUR
 currency: EUR
 price: 12.33

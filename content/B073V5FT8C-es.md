@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41saSHHbOZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073V5FT8C-es adidas HVC K Zapatos de Boxeo  Unisex Niños  Negro  Schwarz Schwarz   29 EU'
+slug: 'B073V5FT8C-es adidas HVC K Zapatos de Boxeo Unisex Niños Negro Schwarz...'
+tags: zapatos
 actualPrice: 14.63 EUR
 currency: EUR
 price: 14.63

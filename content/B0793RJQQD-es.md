@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/515L1f1MpTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0793RJQQD-es WILDKEN Chaqueta de Protección para Motocross Motos Ropa Protectora de Cuerpo Armadura Completo Profesional de Motocicleta Deportiva para Hombres Columna Vertebral Hombro Mujer Pecho  Rojo  M '
+slug: 'B0793RJQQD-es WILDKEN Chaqueta de Protección para Motocross Motos Ropa...'
+tags: chaqueta
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

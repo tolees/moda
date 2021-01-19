@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41nkVd7ORUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KFZRZ6P-es PUMA AURIZ  Zapatos de fútbol para Hombre  Negro Black White/Castlerock/Gum  40 EU'
+slug: 'B07KFZRZ6P-es PUMA AURIZ Zapatos de fútbol para Hombre Negro Black...'
+tags: zapatos
 actualPrice: 22.69 EUR
 currency: EUR
 price: 22.69

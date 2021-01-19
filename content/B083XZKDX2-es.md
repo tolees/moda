@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31u2S0-YkgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083XZKDX2-es IPOTCH 1/6 Chaqueta Cortavientos de Mangas Largas con Ciinturón Sombrero Fedora para Muñecas Marionetas 12  '
+slug: 'B083XZKDX2-es IPOTCH 1/6 Chaqueta Cortavientos de Mangas Largas con...'
+tags: chaqueta
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

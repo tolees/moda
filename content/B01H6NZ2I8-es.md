@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41rKXcLhN6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01H6NZ2I8-es Crocs Swiftwater River Sandals 203965-06  Sandalias para Hombre  Negro  Black   39/40 EU'
+slug: 'B01H6NZ2I8-es Crocs Swiftwater River Sandals 203965-06 Sandalias para...'
+tags: sandalias
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

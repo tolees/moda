@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31QkUjViN-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FYNZBHZ-es Uvex sportstyle 803 small CV Gafas de deporte  Adultos unisex  black mat  one size'
+slug: 'B07FYNZBHZ-es Uvex sportstyle 803 small CV Gafas de deporte Adultos...'
+tags: gafas
 actualPrice: 61.06 EUR
 currency: EUR
 price: 61.06

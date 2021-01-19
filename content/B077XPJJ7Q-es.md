@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41tkVjUrviL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077XPJJ7Q-es Under Armour Sportstyle Left Chest Camiseta  Hombre  Rojo  LG'
+slug: 'B077XPJJ7Q-es Under Armour Sportstyle Left Chest Camiseta Hombre Rojo LG'
+tags: camiseta
 actualPrice: 21.74 EUR
 currency: EUR
 price: 21.74

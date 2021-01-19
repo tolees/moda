@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41F0e97iWyL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0817QG7SC-es Ohwhoa Guantes Invierno con Mascara por Hombre y Mujer  Ciclismo Guantes Táctiles Moto Impermeables a Prueba de Viento para Aire Libre  Correr  Camping  Senderismo  Escalada  Combate  Esquiar'
+slug: 'B0817QG7SC-es Ohwhoa Guantes Invierno con Mascara por Hombre y Mujer...'
+tags: guantes
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

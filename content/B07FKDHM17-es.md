@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31CsVf4w4TL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FKDHM17-es Nike Dri-FIT Miler Camiseta  Hombre  Gris  Atmosphere Grey/htr/Vast Grey/Reflective Silv   M'
+slug: 'B07FKDHM17-es Nike Dri-FIT Miler Camiseta Hombre Gris Atmosphere...'
+tags: camiseta
 actualPrice: 19.65 EUR
 currency: EUR
 price: 19.65

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41oLitbi6HL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B074FYW2LW-es Star Wars HQ2022 Pijama de una Pieza  Gris  Grey   4 años  Tamaño del Fabricante:4Y  para Niños'
+slug: 'B074FYW2LW-es Star Wars HQ2022 Pijama de una Pieza Gris Grey 4 años...'
+tags: pijama
 actualPrice: 5.07 EUR
 currency: EUR
 price: 5.07

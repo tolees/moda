@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31LLfo3V3UL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K2BVT9K-es Timberland Bradstreet Hiker  Botas Chukka para Hombre  Negro  Black Full Grain   47.5 EU'
+slug: 'B07K2BVT9K-es Timberland Bradstreet Hiker Botas Chukka para Hombre Negro...'
+tags: timberland
 actualPrice: 58.99 EUR
 currency: EUR
 price: 58.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zi21sWDRL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00L4GHD68-es Columbia Sunlightâ¢ Vent II  Sandalias para Mujer  Beige  Bluff  Sorbet   37 EU'
+slug: 'B00L4GHD68-es Columbia Sunlightâ¢ Vent II Sandalias para Mujer Beige...'
+tags: sandalias
 actualPrice: 28.0 EUR
 currency: EUR
 price: 28.0

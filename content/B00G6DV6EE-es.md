@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413o8wKalIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00G6DV6EE-es Crocs Crocband II Sandal Kids  Sandalias Unisex Niños  Azul  Navy/White   28/29 EU'
+slug: 'B00G6DV6EE-es Crocs Crocband II Sandal Kids Sandalias Unisex Niños Azul...'
+tags: sandalias
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

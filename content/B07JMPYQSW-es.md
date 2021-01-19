@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41mVT8Rtk5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JMPYQSW-es Esprit Crosby Beach Padded Bandeau Parte de Arriba de Bikini  Negro  Black 001   40  Talla del Fabricante: 38  para Mujer'
+slug: 'B07JMPYQSW-es Esprit Crosby Beach Padded Bandeau Parte de Arriba de...'
+tags: bikini
 actualPrice: 10.49 EUR
 currency: EUR
 price: 10.49

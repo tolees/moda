@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41t9Wa1g0jL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MQZZU81-es Timberland Kenniston Nellie  Zapatillas Chukka para Mujer  Amarillo  Wheat Nubuck   38 EU'
+slug: 'B01MQZZU81-es Timberland Kenniston Nellie Zapatillas Chukka para Mujer...'
+tags: timberland
 actualPrice: 72.99 EUR
 currency: EUR
 price: 72.99

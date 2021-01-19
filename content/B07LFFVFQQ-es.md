@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/419HHrXjo2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFFVFQQ-es Levi s 514 Vaqueros Straight  Azul  Orinda ADV 1009   W36/L30  Talla del Fabricante: 36 30  para Hombre'
+slug: 'B07LFFVFQQ-es Levi s 514 Vaqueros Straight Azul Orinda ADV 1009 W36/L30...'
+tags: vaqueros
 actualPrice: 43.51 EUR
 currency: EUR
 price: 43.51

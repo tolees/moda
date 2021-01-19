@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31vgk25kzzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FHBMGWG-es Amazon Essentials – Pantalón corto de corte entallado para hombre  22 8 cm   Beige  Stone Sto   W28  '
+slug: 'B07FHBMGWG-es Amazon Essentials – Pantalón corto de corte entallado para...'
+tags: pantalón
 actualPrice: 10.46 EUR
 currency: EUR
 price: 10.46

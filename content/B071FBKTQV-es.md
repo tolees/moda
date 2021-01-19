@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41892T-oNOL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B071FBKTQV-es Crocs Classic Clog Kids Roomy fit Zuecos Unisex niños  Turquesa  Tropical Teal   19/20 EU'
+slug: 'B071FBKTQV-es Crocs Classic Clog Kids Roomy fit Zuecos Unisex niños...'
+tags: zuecos
 actualPrice: 11.05 EUR
 currency: EUR
 price: 11.05

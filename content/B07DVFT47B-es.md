@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51+j8rjq1PL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DVFT47B-es Spotted Zebra Boxer Brief Ropa interior con diseño de monstruos X-Small  4-5 '
+slug: 'B07DVFT47B-es Spotted Zebra Boxer Brief Ropa interior con diseño de...'
+tags: boxer
 actualPrice: 14.43 EUR
 currency: EUR
 price: 14.43

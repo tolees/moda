@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ZMk-SlACL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NAW6D0C-es The North Face Sudadera Drew Peak  Hombre  TNF Medium Grey Heather/TNF Black  Large'
+slug: 'B01NAW6D0C-es The North Face Sudadera Drew Peak Hombre TNF Medium Grey...'
+tags: sudadera
 actualPrice: 48.99 EUR
 currency: EUR
 price: 48.99

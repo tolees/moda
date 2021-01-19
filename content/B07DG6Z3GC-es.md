@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Y5lp1kFfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DG6Z3GC-es PUMA Energy Seamless tee Camiseta  Hombre  Negro Black Heather  XL'
+slug: 'B07DG6Z3GC-es PUMA Energy Seamless tee Camiseta Hombre Negro Black...'
+tags: camiseta
 actualPrice: 18.49 EUR
 currency: EUR
 price: 18.49

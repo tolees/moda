@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/319yAlnNy-L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06Y68ZGGK-es Joma Camiseta Granada Beige-Vino M/C Manga Corta  Hombre  4XS-3XS'
+slug: 'B06Y68ZGGK-es Joma Camiseta Granada Beige-Vino M/C Manga Corta Hombre...'
+tags: camiseta
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

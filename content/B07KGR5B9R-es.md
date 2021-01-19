@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41PFdJOwSEL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KGR5B9R-es edc by Esprit 999cc2k803 Camiseta  Rojo  Red 630   Small para Hombre'
+slug: 'B07KGR5B9R-es edc by Esprit 999cc2k803 Camiseta Rojo Red 630 Small para...'
+tags: camiseta
 actualPrice: 4.49 EUR
 currency: EUR
 price: 4.49

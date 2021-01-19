@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41AJ9aRNH0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M5D7VRP-es Salewa WS Alpenviolet Mid GTX  Zapatos de High Rise Senderismo para Mujer  Azul Ombre Blue Fluor Coral 3848  43 EU'
+slug: 'B07M5D7VRP-es Salewa WS Alpenviolet Mid GTX Zapatos de High Rise...'
+tags: zapatos
 actualPrice: 59.83 EUR
 currency: EUR
 price: 59.83

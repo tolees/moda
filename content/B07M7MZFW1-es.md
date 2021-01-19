@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/411Ubor01NL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M7MZFW1-es Lover-Beauty Camisa Mujer Raya Cuello Redondo Manga Corta Casual Suelto Blusa Rojo y Top Azul Jersey Stripe Shirt Camiseta Elegante Verano Camiseta Basica Popular'
+slug: 'B07M7MZFW1-es Lover-Beauty Camisa Mujer Raya Cuello Redondo Manga Corta...'
+tags: blusa, camisa, camiseta, jersey
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

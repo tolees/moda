@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41dAh3uabcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D1Y3ZGX-es Dainese Hp1m1 - Chaqueta de esquí para Hombre  Invierno  Hombre  Color Schwarz-Iris/Chili-Pepper  tamaño Medium'
+slug: 'B07D1Y3ZGX-es Dainese Hp1m1 - Chaqueta de esquí para Hombre Invierno...'
+tags: chaqueta
 actualPrice: 503.44 EUR
 currency: EUR
 price: 503.44

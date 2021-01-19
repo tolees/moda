@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ilpwtV4mL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076X7LRPH-es Geox U Uvet A  Zapatos de Cordones Brogue para Hombre  Gris  Stone   41 EU'
+slug: 'B076X7LRPH-es Geox U Uvet A Zapatos de Cordones Brogue para Hombre Gris...'
+tags: geox, zapatos
 actualPrice: 59.95 EUR
 currency: EUR
 price: 59.95

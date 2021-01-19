@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41pjTIlKX+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00K5R99FA-es Tommy Hilfiger 3p Trunk Bóxer  Blanco  White 100   XX-Large  Pack de 3  para Hombre'
+slug: 'B00K5R99FA-es Tommy Hilfiger 3p Trunk Bóxer Blanco White 100 XX-Large...'
+tags: bóxer
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

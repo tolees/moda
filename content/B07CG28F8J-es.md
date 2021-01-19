@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51lBNtzBpzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CG28F8J-es Air Zapatillas de Running para Hombre Mujer Zapatos para Correr y Asfalto Aire Libre y Deportes Calzado 1643 Unisexo Pink 40'
+slug: 'B07CG28F8J-es Air Zapatillas de Running para Hombre Mujer Zapatos para...'
+tags: zapatos
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

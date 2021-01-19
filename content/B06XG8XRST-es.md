@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/417jP8JT+xL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XG8XRST-es Marca Amazon - find. Camisa Hombre  Verde  Khaki Palm   L  Label: L'
+slug: 'B06XG8XRST-es Marca Amazon - find. Camisa Hombre Verde Khaki Palm L...'
+tags: camisa, -, find.
 actualPrice: 7.17 EUR
 currency: EUR
 price: 7.17

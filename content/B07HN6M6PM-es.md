@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/418Y1wjMHaL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HN6M6PM-es Nike M NSW Me Short Waffle Pantalón  Hombre  dk Grey Heather  S'
+slug: 'B07HN6M6PM-es Nike M NSW Me Short Waffle Pantalón Hombre dk Grey Heather S'
+tags: pantalón
 actualPrice: 7.46 EUR
 currency: EUR
 price: 7.46

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KRXLXMR-es Salomon PROPELLER DRY M Guantes para hombre'
+tags: guantes
 actualPrice: 52.36 EUR
 currency: EUR
 price: 52.36

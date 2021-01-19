@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4194meA+PiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YCNQBR7-es Marvel More Than A Fan Mujer Camiseta Negro S  100% algodón  Regular'
+slug: 'B07YCNQBR7-es Marvel More Than A Fan Mujer Camiseta Negro S 100% algodón...'
+tags: camiseta
 actualPrice: 19.19 EUR
 currency: EUR
 price: 19.19

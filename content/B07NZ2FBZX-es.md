@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41tak7+wwpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NZ2FBZX-es Superdry Astrid Puffer Chaqueta  Verde  City Green V2k   XL  Talla del Fabricante:16  para Mujer'
+slug: 'B07NZ2FBZX-es Superdry Astrid Puffer Chaqueta Verde City Green V2k XL...'
+tags: chaqueta
 actualPrice: 35.66 EUR
 currency: EUR
 price: 35.66

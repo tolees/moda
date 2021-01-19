@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41njaRohx+L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KSRZ6SH-es AnazoZ Acero Inoxidable Gemelos para Hombre Camisa Gemelos Rosa Rojo Citrina Cuadrado Líneas Citrina 1.2x1.8CM'
+slug: 'B07KSRZ6SH-es AnazoZ Acero Inoxidable Gemelos para Hombre Camisa Gemelos...'
+tags: camisa
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

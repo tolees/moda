@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41RJmP-YcPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SKHGLKK-es Asics Gel-Nimbus 22  Zapatilla de Correr para Hombre  Naranja Pop/Negro  43.5 EU'
+slug: 'B07SKHGLKK-es Asics Gel-Nimbus 22 Zapatilla de Correr para Hombre...'
+tags: zapatilla
 actualPrice: 109.24 EUR
 currency: EUR
 price: 109.24

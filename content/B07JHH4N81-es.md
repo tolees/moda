@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41RI6c2YDzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JHH4N81-es Amazon Essentials - Camisa de lino a rayas  de manga corta y corte entallado para hombre  Celeste  Light Blue Gingham   US S  EU S '
+slug: 'B07JHH4N81-es Amazon Essentials - Camisa de lino a rayas de manga corta...'
+tags: camisa
 actualPrice: 4.71 EUR
 currency: EUR
 price: 4.71

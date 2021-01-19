@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4169gLNuiuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MTOFJPJ-es Superga   2750-cotu Classic  Zapatilla Baja Unisex Adulto  Rojo  Red/White C90   48 EU'
+slug: 'B01MTOFJPJ-es Superga 2750-cotu Classic Zapatilla Baja Unisex Adulto...'
+tags: zapatilla
 actualPrice: 24.75 EUR
 currency: EUR
 price: 24.75

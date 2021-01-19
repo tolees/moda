@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31gnZEcI22L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FSPZ1BS-es Clarks Un Maui Lace  Zapatos de Cordones Derby para Mujer  Beige  Nude Leather-   39.5 EU'
+slug: 'B07FSPZ1BS-es Clarks Un Maui Lace Zapatos de Cordones Derby para Mujer...'
+tags: zapatos
 actualPrice: 65.87 EUR
 currency: EUR
 price: 65.87

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31rVOJimlEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077P82QKX-es DIDINSKY Gafas de lectura sin patillas graduadas para hombre y mujer transparentes. Gafas de presbicia para hombre y mujer retro o vintage para vista cansada. 4 colores y 5 graduaciones – LOUVRE'
+slug: 'B077P82QKX-es DIDINSKY Gafas de lectura sin patillas graduadas para...'
+tags: gafas
 actualPrice: 14.32 EUR
 currency: EUR
 price: 14.32

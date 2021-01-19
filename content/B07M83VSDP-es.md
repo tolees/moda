@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51JEufOxcOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M83VSDP-es Napapijri Gardiner Camisa Casual  Rojo  Red Check 01c   XXXL para Hombre'
+slug: 'B07M83VSDP-es Napapijri Gardiner Camisa Casual Rojo Red Check 01c XXXL...'
+tags: camisa
 actualPrice: 35.6 EUR
 currency: EUR
 price: 35.6

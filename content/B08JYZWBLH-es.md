@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41QPyYY5D+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08JYZWBLH-es GOGME Funda para Samsung Galaxy S20 FE 5G/4G Billetera  Carcasa de Cuero PU Retro Elegante Magnético Adsorción Automática Premium Flip Estuche para Samsung Galaxy S20 FE 5G/4G  Verde'
+slug: 'B08JYZWBLH-es GOGME Funda para Samsung Galaxy S20 FE 5G/4G Billetera...'
+tags: billetera
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

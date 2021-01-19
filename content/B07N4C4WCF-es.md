@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31pdWRMa8GL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N4C4WCF-es ESPRIT Collection 999EO1B800 Pantalón  Azul  Light Blue 440   W40/L30 para Mujer'
+slug: 'B07N4C4WCF-es ESPRIT Collection 999EO1B800 Pantalón Azul Light Blue 440...'
+tags: pantalón
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

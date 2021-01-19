@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41iDfmLmaaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFZ7XYK-es Geox J SPACECLUB Girl B  Zapatillas para Niñas  Rosa Antique Rose C8056  32 EU'
+slug: 'B07LFZ7XYK-es Geox J SPACECLUB Girl B Zapatillas para Niñas Rosa Antique...'
+tags: geox
 actualPrice: 45.49 EUR
 currency: EUR
 price: 45.49

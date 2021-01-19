@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41GZN2QFpcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000W8HI8M-es Timberland Heritage 6 Inch Premium Waterproof  Botas para Hombress  Marrón  Md Brown Full Grain   43 EU'
+slug: 'B000W8HI8M-es Timberland Heritage 6 Inch Premium Waterproof Botas para...'
+tags: timberland
 actualPrice: 154.74 EUR
 currency: EUR
 price: 154.74

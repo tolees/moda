@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31q43HJzzUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PLVF5RC-es Hawiton Pijama de Lactancia Verano Ropa Premamá Embarazadas Primavera Algodón Mangas Corta Hospital'
+slug: 'B07PLVF5RC-es Hawiton Pijama de Lactancia Verano Ropa Premamá...'
+tags: pijama
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

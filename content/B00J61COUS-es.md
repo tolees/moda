@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/410OeqcvOPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00J61COUS-es Columbia Woodburn II  Zapatilla Multideporte para Hombre  Negro  Black/Goldenrod 010   41 EU'
+slug: 'B00J61COUS-es Columbia Woodburn II Zapatilla Multideporte para Hombre...'
+tags: zapatilla
 actualPrice: 39.44 EUR
 currency: EUR
 price: 39.44

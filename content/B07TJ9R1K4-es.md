@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31tAlgQXnPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TJ9R1K4-es Levi s Sportswear Logo Graphic Camiseta  Blanco  Ssnl Sw Gradient White 0029   Large para Hombre'
+slug: 'B07TJ9R1K4-es Levi s Sportswear Logo Graphic Camiseta Blanco Ssnl Sw...'
+tags: camiseta
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

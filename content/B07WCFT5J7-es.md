@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41faC0KTFBL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WCFT5J7-es Lámpara de techo LED Lámpara de sala de estar regulable moderna Lámpara de techo de diseño con control remoto Lámpara de techo de moda Minimalista Iluminación de acrílico de metal Dormitorio Cocina Co'
+slug: 'B07WCFT5J7-es Lámpara de techo LED Lámpara de sala de estar regulable...'
+tags: moda
 actualPrice: 49.72 EUR
 currency: EUR
 price: 49.72

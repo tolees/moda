@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41NoYM-WmbL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V47BRC1-es Coronel Tapiocca Hunter  Bolso pequeño Hombres  Negro  17x22x6 cm'
+slug: 'B07V47BRC1-es Coronel Tapiocca Hunter Bolso pequeño Hombres Negro...'
+tags: bolso
 actualPrice: 33.59 EUR
 currency: EUR
 price: 33.59

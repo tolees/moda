@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41LzrycWllL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00E9AAWNC-es Timberland Waterville 6 Inch Basic Waterproof  Botas para Mujer  Amarillo  Wheat Nubuck   37.5 EU'
+slug: 'B00E9AAWNC-es Timberland Waterville 6 Inch Basic Waterproof Botas para...'
+tags: timberland
 actualPrice: 105 EUR
 currency: EUR
 price: 105

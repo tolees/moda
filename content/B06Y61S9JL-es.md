@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41HAWYK+EXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06Y61S9JL-es Tommy Hilfiger Core Stretch Poplin Slim Shirt Camisa  Azul  429 429   37 para Hombre'
+slug: 'B06Y61S9JL-es Tommy Hilfiger Core Stretch Poplin Slim Shirt Camisa Azul...'
+tags: camisa
 actualPrice: 26.13 EUR
 currency: EUR
 price: 26.13

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31WgOujQPLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MFM3J66-es Clarks Ronnie Walk  Zapatos de Cordones Derby  Marrón  British Tan Lea British Tan Lea   41.5 EU'
+slug: 'B07MFM3J66-es Clarks Ronnie Walk Zapatos de Cordones Derby Marrón...'
+tags: zapatos
 actualPrice: 47.62 EUR
 currency: EUR
 price: 47.62

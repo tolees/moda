@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/514q5PRFSZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XG11LZD-es CADeN Camera Hombro Bolsa de Mensajero Mochila de Lona para Hombres Mujeres Impermeable Antirrobo Bolso de Fotografía de Viaje para 1 Cámara DSLR 3 Lentes para Nikon Canon Sony'
+slug: 'B06XG11LZD-es CADeN Camera Hombro Bolsa de Mensajero Mochila de Lona...'
+tags: bolso
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

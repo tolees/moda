@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41TwNGJlRAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076PJWH6J-es Speedo Futura Biofuse Flexiseal Junior Gafas de Natación  Unisex Adulto  Blanco/Azul  Talla Única'
+slug: 'B076PJWH6J-es Speedo Futura Biofuse Flexiseal Junior Gafas de Natación...'
+tags: gafas
 actualPrice: 14.4 EUR
 currency: EUR
 price: 14.4

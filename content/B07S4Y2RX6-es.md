@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4159eLNjxVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S4Y2RX6-es Levi s 511 Slim Fit Vaqueros  Durian Super Tint Overt 3953  32W / 32L para Hombre'
+slug: 'B07S4Y2RX6-es Levi s 511 Slim Fit Vaqueros Durian Super Tint Overt 3953...'
+tags: vaqueros
 actualPrice: 48.49 EUR
 currency: EUR
 price: 48.49

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+Uxpq0W7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0107S4CFS-es Joma - Sudadera faraon marino media cremallera para hombre  L'
+slug: 'B0107S4CFS-es Joma - Sudadera faraon marino media cremallera para hombre L'
+tags: sudadera
 actualPrice: 15.24 EUR
 currency: EUR
 price: 15.24

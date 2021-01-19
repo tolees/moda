@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41NbCOPtU8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KQQVCTQ-es SALOMON Drifter Mid Hoodie W Chaqueta Reversible con Capucha  Mezcla de sintéticos  Mujer  Rojo/Rosa  Rio Red/Garnet Rose   S'
+slug: 'B07KQQVCTQ-es SALOMON Drifter Mid Hoodie W Chaqueta Reversible con...'
+tags: chaqueta
 actualPrice: 66.79 EUR
 currency: EUR
 price: 66.79

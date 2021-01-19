@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41BbVDgzR3L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CS9FHS2-es Pepe Jeans New Brooke Vaqueros Hombre Ajustados  Azul  Denim GN2   28W / 30L para Mujer'
+slug: 'B07CS9FHS2-es Pepe Jeans New Brooke Vaqueros Hombre Ajustados Azul Denim...'
+tags: vaqueros
 actualPrice: 38.0 EUR
 currency: EUR
 price: 38.0

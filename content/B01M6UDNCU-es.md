@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31+Bb0lXg4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M6UDNCU-es BOSS T-Shirt RN 3p Co Camiseta para Hombre  Negro  Black   Small  pack de 3'
+slug: 'B01M6UDNCU-es BOSS T-Shirt RN 3p Co Camiseta para Hombre Negro Black...'
+tags: camiseta
 actualPrice: 19.24 EUR
 currency: EUR
 price: 19.24

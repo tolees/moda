@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/317v4M5q9XL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B010ADNCAQ-es Crocs Classic Flip K  Chanclas Unisex Niños  Azul  Navy   33/34 EU'
+slug: 'B010ADNCAQ-es Crocs Classic Flip K Chanclas Unisex Niños Azul Navy 33/34 EU'
+tags: chanclas
 actualPrice: 13.59 EUR
 currency: EUR
 price: 13.59

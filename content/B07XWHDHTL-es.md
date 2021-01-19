@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51vIhwM0IvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XWHDHTL-es SKPAT - Maletín Portadocumentos de Mujer. Cartera para Portátil 15". Bolso de Mano Mensajero. Llavero. Lona Estampada y Cuero PU. Muy Práctica. Estilo Elegante. Calidad. 304539  Color Azul'
+slug: 'B07XWHDHTL-es SKPAT - Maletín Portadocumentos de Mujer. Cartera para...'
+tags: bolso
 actualPrice: 41.55 EUR
 currency: EUR
 price: 41.55

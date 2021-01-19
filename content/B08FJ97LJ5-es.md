@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Xs7EDPybL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08FJ97LJ5-es Desire Deluxe Tie Dye DIY Kit  Conjunto de Tinte Tie Tie de un Solo Paso Camisa Tela Tinte Duministros No Tóxicos  con 60 Bandas de Goma  10 Pares de Guantes de Plástico  Delantal 2 Piezas'
+slug: 'B08FJ97LJ5-es Desire Deluxe Tie Dye DIY Kit Conjunto de Tinte Tie Tie de...'
+tags: camisa, guantes
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

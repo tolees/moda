@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21Ex+hLddhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PJ1J3TH-es HAWKERS · LAX · Karat · Rose gold TR18 · Gafas de sol para hombre y mujer'
+slug: 'B07PJ1J3TH-es HAWKERS · LAX · Karat · Rose gold TR18 · Gafas de sol para...'
+tags: gafas
 actualPrice: 24.0 EUR
 currency: EUR
 price: 24.0

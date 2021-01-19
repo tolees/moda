@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41yjirVPaPL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LBP3DXF-es Helly Hansen Urban Largo Parka Chaqueta De Invierno  Hombre  Marmalade  XL'
+slug: 'B07LBP3DXF-es Helly Hansen Urban Largo Parka Chaqueta De Invierno Hombre...'
+tags: chaqueta, parka
 actualPrice: 159.81 EUR
 currency: EUR
 price: 159.81

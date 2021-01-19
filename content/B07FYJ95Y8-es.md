@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+v9kR75AL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FYJ95Y8-es YACUN Vestido Lactancia Maternidad de Noche Camisón Verano Premamá Pijama Marina S'
+slug: 'B07FYJ95Y8-es YACUN Vestido Lactancia Maternidad de Noche Camisón Verano...'
+tags: pijama, vestido
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

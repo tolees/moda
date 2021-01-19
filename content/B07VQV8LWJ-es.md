@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31QksTuHPQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VQV8LWJ-es G-STAR RAW One Slim Fit Camiseta  Blanco  White 336-110   M para Hombre'
+slug: 'B07VQV8LWJ-es G-STAR RAW One Slim Fit Camiseta Blanco White 336-110 M...'
+tags: camiseta
 actualPrice: 14.97 EUR
 currency: EUR
 price: 14.97

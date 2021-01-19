@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31hB+6VkvvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RRD5MQJ-es HAWKERS · DREAM · Silver · Chrome · Gafas de sol para hombre y mujer'
+slug: 'B07RRD5MQJ-es HAWKERS · DREAM · Silver · Chrome · Gafas de sol para...'
+tags: gafas
 actualPrice: 7.58 EUR
 currency: EUR
 price: 7.58

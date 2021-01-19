@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41JEvYmjQ-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CN8WRPP-es Crocs Classic Clog  Zuecos Unisex Adulto  Dorado  Bronze 854   36/37 EU'
+slug: 'B07CN8WRPP-es Crocs Classic Clog Zuecos Unisex Adulto Dorado Bronze 854...'
+tags: zuecos
 actualPrice: 26.91 EUR
 currency: EUR
 price: 26.91

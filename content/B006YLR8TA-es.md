@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41uGfNq+SaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B006YLR8TA-es Lacoste L1212 Camiseta Polo  Azul  Tanzanite C8Q   XS  Talla del fabricante: 2  para Hombre'
+slug: 'B006YLR8TA-es Lacoste L1212 Camiseta Polo Azul Tanzanite C8Q XS Talla...'
+tags: camiseta
 actualPrice: 44.4 EUR
 currency: EUR
 price: 44.4

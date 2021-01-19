@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41WAZAn4L5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SP3N2LS-es G-Star Sp15046 Sweat Sudadera  Azul  Royal Blue 45   8 años  Talla del Fabricante: 8A  para Niños'
+slug: 'B07SP3N2LS-es G-Star Sp15046 Sweat Sudadera Azul Royal Blue 45 8 años...'
+tags: sudadera
 actualPrice: 20.21 EUR
 currency: EUR
 price: 20.21

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41pQ-UowYDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0823BXJ3J-es Jack & Jones Kapuzenpullover Sudadera con Capucha  Negro  M para Hombre'
+slug: 'B0823BXJ3J-es Jack & Jones Kapuzenpullover Sudadera con Capucha Negro M...'
+tags: sudadera
 actualPrice: 12.07 EUR
 currency: EUR
 price: 12.07

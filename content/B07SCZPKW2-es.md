@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31eWAHXjZfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SCZPKW2-es Crocs Literide Stretch Sandal Women  Sandalias de Punta Descubierta para Mujer  Negro  Black/White 066   34/35 EU'
+slug: 'B07SCZPKW2-es Crocs Literide Stretch Sandal Women Sandalias de Punta...'
+tags: sandalias
 actualPrice: 17.42 EUR
 currency: EUR
 price: 17.42

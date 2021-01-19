@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41StlZT2W5L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DP1T7CZ-es Gant The Broadcloth Gingham Reg BD Camisa  Azul  Capri Blue 468   XXX-Large para Hombre'
+slug: 'B07DP1T7CZ-es Gant The Broadcloth Gingham Reg BD Camisa Azul Capri Blue...'
+tags: camisa
 actualPrice: 64.98 EUR
 currency: EUR
 price: 64.98

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Cs+sNxZGL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZQSZJK-es Pepe Jeans Lucas Sudadera   Ivy 673   Medium para Hombre'
+slug: 'B07MZQSZJK-es Pepe Jeans Lucas Sudadera Ivy 673 Medium para Hombre'
+tags: sudadera
 actualPrice: 23.33 EUR
 currency: EUR
 price: 23.33

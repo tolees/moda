@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41dnD-20+gL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MVQWC5L-es Gant D1. The Active Cloud Jacket Chaqueta  Rojo  Mahogany Red 617   XXX-Large para Hombre'
+slug: 'B07MVQWC5L-es Gant D1. The Active Cloud Jacket Chaqueta Rojo Mahogany...'
+tags: chaqueta
 actualPrice: 115.61 EUR
 currency: EUR
 price: 115.61

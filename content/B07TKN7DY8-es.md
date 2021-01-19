@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41qTYyqpMWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TKN7DY8-es Clarks Flex Sun  Sandalias de Talón Abierto para Mujer  Negro  Black Leather Black Leather   38 EU'
+slug: 'B07TKN7DY8-es Clarks Flex Sun Sandalias de Talón Abierto para Mujer...'
+tags: sandalias
 actualPrice: 50.72 EUR
 currency: EUR
 price: 50.72

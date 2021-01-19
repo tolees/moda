@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/419b0Z8TiNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MCSPMX8-es Napapijri Rainforest Pocket Chaqueta  Rojo  High Risk Red RA3   XL para Hombre'
+slug: 'B07MCSPMX8-es Napapijri Rainforest Pocket Chaqueta Rojo High Risk Red...'
+tags: chaqueta
 actualPrice: 77.43 EUR
 currency: EUR
 price: 77.43

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Gfyf17lWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W91WJHS-es Tommy Hilfiger Rope Stripe tee Camiseta Deporte  Blanco  White   X-Large para Hombre'
+slug: 'B07W91WJHS-es Tommy Hilfiger Rope Stripe tee Camiseta Deporte Blanco...'
+tags: camiseta
 actualPrice: 12.8 EUR
 currency: EUR
 price: 12.8

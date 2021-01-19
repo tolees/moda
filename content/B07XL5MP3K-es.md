@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41lL01kotWL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XL5MP3K-es Yuson Girl Conjunto Lencería Erótica De Mujer Sexy Camisón Vestido De Dormir De Encaje Transparente Tentación Ropa Interior Babydoll con Tanga Ligas y Ligueros'
+slug: 'B07XL5MP3K-es Yuson Girl Conjunto Lencería Erótica De Mujer Sexy Camisón...'
+tags: vestido
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

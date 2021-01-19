@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41wpBCgU8EL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B073QMZD79-es find. Chaqueta Biker Hombre  Gris  Grau   Large'
+slug: 'B073QMZD79-es find. Chaqueta Biker Hombre Gris Grau Large'
+tags: chaqueta
 actualPrice: 19.5 EUR
 currency: EUR
 price: 19.5

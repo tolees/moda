@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41AUatrVrgL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TSJQ5Y8-es Only Onlnorth Nylon Jacket CC Otw Chaqueta  Azul  Detalle del Cielo Menor   L para Mujer'
+slug: 'B07TSJQ5Y8-es Only Onlnorth Nylon Jacket CC Otw Chaqueta Azul Detalle...'
+tags: chaqueta
 actualPrice: 14.92 EUR
 currency: EUR
 price: 14.92

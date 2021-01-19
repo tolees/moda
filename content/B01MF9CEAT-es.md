@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31CgyM-y9UL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MF9CEAT-es Skechers Work Relaxed Fit: Hobbes-Frat SR  Zapatos de Seguridad para Hombre  Negro  Blk   39.5 EU'
+slug: 'B01MF9CEAT-es Skechers Work Relaxed Fit: Hobbes-Frat SR Zapatos de...'
+tags: zapatos
 actualPrice: 64.29 EUR
 currency: EUR
 price: 64.29

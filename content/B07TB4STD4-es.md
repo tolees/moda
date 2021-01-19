@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41UCWOCfc3L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TB4STD4-es Vero Moda Vmsimone Aw19 Hoody Short Jacket Boos Chaqueta  Negro  Black Black   40  Talla del Fabricante: Medium  para Mujer'
+slug: 'B07TB4STD4-es Vero Moda Vmsimone Aw19 Hoody Short Jacket Boos Chaqueta...'
+tags: chaqueta, moda
 actualPrice: 15.89 EUR
 currency: EUR
 price: 15.89

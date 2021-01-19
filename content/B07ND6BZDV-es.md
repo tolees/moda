@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41HYc1AeqmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ND6BZDV-es bugatti 311815014141  Zapatos de Cordones Derby para Hombre  Azul  44 EU'
+slug: 'B07ND6BZDV-es bugatti 311815014141 Zapatos de Cordones Derby para Hombre...'
+tags: zapatos
 actualPrice: 24.51 EUR
 currency: EUR
 price: 24.51

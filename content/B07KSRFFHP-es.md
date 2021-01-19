@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41fpFixaYZL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KSRFFHP-es AnazoZ Acero Inoxidable Gemelos para Hombre Camisa Gemelos Boda Azul Bar Mancuernas 1x2CM'
+slug: 'B07KSRFFHP-es AnazoZ Acero Inoxidable Gemelos para Hombre Camisa Gemelos...'
+tags: camisa
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21yAdIzGJFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075JKH9MK-es Ray-Ban 0RB3589  Gafas de Sol para Mujer  Marrón  Gold Top on Brown   55'
+slug: 'B075JKH9MK-es Ray-Ban 0RB3589 Gafas de Sol para Mujer Marrón Gold Top on...'
+tags: gafas
 actualPrice: 69.02 EUR
 currency: EUR
 price: 69.02

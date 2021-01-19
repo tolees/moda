@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41XHUu71sZL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P87K6WM-es JACK & JONES Jcofin Shirt LS Plain Camisa  Multicolor  Blue Surf Fit:/Slim   X-Large para Hombre'
+slug: 'B07P87K6WM-es JACK & JONES Jcofin Shirt LS Plain Camisa Multicolor Blue...'
+tags: camisa
 actualPrice: 10.3 EUR
 currency: EUR
 price: 10.3

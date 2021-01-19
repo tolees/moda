@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/314Fm3AZ7jL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MN4G9LF-es Wrangler Greensboro Regular Jeans Vaqueros  Azul  Black Dust 36w   30W / 34L para Hombre'
+slug: 'B07MN4G9LF-es Wrangler Greensboro Regular Jeans Vaqueros Azul Black Dust...'
+tags: vaqueros
 actualPrice: 14.8 EUR
 currency: EUR
 price: 14.8

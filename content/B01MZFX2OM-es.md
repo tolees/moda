@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31q87xXX+uL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MZFX2OM-es Crocs Athens  Chanclas Unisex Adulto  Marrón  Espresso/Walnut 23b   34/35 EU'
+slug: 'B01MZFX2OM-es Crocs Athens Chanclas Unisex Adulto Marrón Espresso/Walnut...'
+tags: chanclas
 actualPrice: 6.24 EUR
 currency: EUR
 price: 6.24

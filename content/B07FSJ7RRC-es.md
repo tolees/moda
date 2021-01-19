@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51MR7pDG-LL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FSJ7RRC-es Joymoze Moderna Mochila de Ocio para Niñas Mochila Escolar para Adolescentes Mochila Bolso Estampado para Mujer  Linda Flor '
+slug: 'B07FSJ7RRC-es Joymoze Moderna Mochila de Ocio para Niñas Mochila Escolar...'
+tags: bolso
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

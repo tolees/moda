@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ZuRQl2yDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078ZD9DHT-es CIVO Reloj Negro Ultra Fino para Hombre Minimalista Moda Relojes de Pulsera para Hombres Vestir Casual Impermeable Reloj de Cuarzo para Hombre con Banda Negro de Acero Inoxidable  1 Negro '
+slug: 'B078ZD9DHT-es CIVO Reloj Negro Ultra Fino para Hombre Minimalista Moda...'
+tags: moda
 actualPrice: 20.39 EUR
 currency: EUR
 price: 20.39

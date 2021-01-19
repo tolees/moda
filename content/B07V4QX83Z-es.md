@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51mkdFbwYrL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V4QX83Z-es gracosy Botas Nieve Mujer Forro de Piel Invierno Antideslizante Plataforma Zapatos Calentar Cremallera Botines Cordones Impermeable Casuales Media Lluvia Botas Negro'
+slug: 'B07V4QX83Z-es gracosy Botas Nieve Mujer Forro de Piel Invierno...'
+tags: botines, zapatos
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

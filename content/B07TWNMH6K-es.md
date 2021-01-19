@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/315llEZtlOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TWNMH6K-es Wrangler LS 1 Pkt Button Down Camisa  Azul  Cerulean Blue Xvt   XX-Large para Hombre'
+slug: 'B07TWNMH6K-es Wrangler LS 1 Pkt Button Down Camisa Azul Cerulean Blue...'
+tags: camisa
 actualPrice: 14.97 EUR
 currency: EUR
 price: 14.97

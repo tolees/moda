@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416mjw1ckbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S2S66HP-es Levi s Relaxed Graphic tee Camiseta  Verde  90 s Serif Logo Olive Night 0028   XX-Large para Hombre'
+slug: 'B07S2S66HP-es Levi s Relaxed Graphic tee Camiseta Verde 90 s Serif Logo...'
+tags: camiseta
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ve-xW+bkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XCFYKHG-es G-STAR RAW Lynn D-Mid Waist Super Skinny Vaqueros  Medium Aged 9136-071  23W / 28L para Mujer'
+slug: 'B06XCFYKHG-es G-STAR RAW Lynn D-Mid Waist Super Skinny Vaqueros Medium...'
+tags: vaqueros
 actualPrice: 30.38 EUR
 currency: EUR
 price: 30.38

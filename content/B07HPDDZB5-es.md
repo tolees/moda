@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41hLN7uesvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HPDDZB5-es Dockers by Gerli 36li019-207120  Sandalias de Talón Abierto para Hombre  Negro  Schwarz/Grau 120   43 EU'
+slug: 'B07HPDDZB5-es Dockers by Gerli 36li019-207120 Sandalias de Talón Abierto...'
+tags: sandalias
 actualPrice: 12.3 EUR
 currency: EUR
 price: 12.3

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41qL2Q8K-zL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KF666LL-es Levi s SS Battery Hm Shirt Camisa  Blanco  White X 0000   Small para Hombre'
+slug: 'B07KF666LL-es Levi s SS Battery Hm Shirt Camisa Blanco White X 0000...'
+tags: camisa
 actualPrice: 22.49 EUR
 currency: EUR
 price: 22.49

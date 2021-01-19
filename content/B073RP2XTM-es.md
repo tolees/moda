@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ZitQ8kCHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073RP2XTM-es Helly Hansen Crew Windbreaker Chaqueta  Hombre  Navy  L'
+slug: 'B073RP2XTM-es Helly Hansen Crew Windbreaker Chaqueta Hombre Navy L'
+tags: chaqueta
 actualPrice: 68.35 EUR
 currency: EUR
 price: 68.35

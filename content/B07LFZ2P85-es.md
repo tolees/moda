@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Pph8oIoAL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFZ2P85-es Geox U Kristof A  Zapatillas para Hombre  Marrón  Dk Coffee/Browncotto C6t6g   41 EU'
+slug: 'B07LFZ2P85-es Geox U Kristof A Zapatillas para Hombre Marrón Dk...'
+tags: geox
 actualPrice: 74.9 EUR
 currency: EUR
 price: 74.9

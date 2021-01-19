@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31kIKyfiTbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZFPF63L-es Tommy Hilfiger TH Cool Eng Sleeve Slim Polo Camisa  Blue  L para Hombre'
+slug: 'B07ZFPF63L-es Tommy Hilfiger TH Cool Eng Sleeve Slim Polo Camisa Blue L...'
+tags: camisa
 actualPrice: 28.79 EUR
 currency: EUR
 price: 28.79

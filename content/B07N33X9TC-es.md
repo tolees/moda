@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41vF3MG5zXL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N33X9TC-es IRIS & LILLY BELK015M7 Tanga  Multicolour  Black/Melange/Soft Pink   8  Size:XS   Pack de 7'
+slug: 'B07N33X9TC-es IRIS & LILLY BELK015M7 Tanga Multicolour...'
+tags: iris, &, lilly
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

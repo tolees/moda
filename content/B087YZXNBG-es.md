@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-5lDJ118L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087YZXNBG-es Regatta - Sandalias Chanclas Modelo Holcombe para Hombre  42 EU   Turba/Pergamino '
+slug: 'B087YZXNBG-es Regatta - Sandalias Chanclas Modelo Holcombe para Hombre...'
+tags: chanclas, sandalias
 actualPrice: 32.7 EUR
 currency: EUR
 price: 32.7

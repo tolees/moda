@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41OwVDJCWAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D6ZTDN4-es Levi s Type 3 Sherpa Trucker Chaqueta  Beige  True Chino Cord Better 0066   Medium para Hombre'
+slug: 'B07D6ZTDN4-es Levi s Type 3 Sherpa Trucker Chaqueta Beige True Chino...'
+tags: chaqueta
 actualPrice: 75.06 EUR
 currency: EUR
 price: 75.06

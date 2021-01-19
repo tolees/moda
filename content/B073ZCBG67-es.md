@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+bf5JoxRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073ZCBG67-es Tommy Hilfiger Core Stretch Slim Cneck tee Camiseta  Gris  Cloud Htr 501   X-Large para Hombre'
+slug: 'B073ZCBG67-es Tommy Hilfiger Core Stretch Slim Cneck tee Camiseta Gris...'
+tags: camiseta
 actualPrice: 24.52 EUR
 currency: EUR
 price: 24.52

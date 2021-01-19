@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41fDZRq3M2L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MH55TTN-es Lacoste Sport Bh8843 Chaqueta  Azul  Océano/Marine Bnb   XX-Large  Talla del Fabricante: 56  para Hombre'
+slug: 'B07MH55TTN-es Lacoste Sport Bh8843 Chaqueta Azul Océano/Marine Bnb XX-...'
+tags: chaqueta
 actualPrice: 72.74 EUR
 currency: EUR
 price: 72.74

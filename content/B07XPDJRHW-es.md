@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31nOZgWinML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XPDJRHW-es Desigual Bols Lazarus Barrel - Bolso para mujer  color negro  12.50 x 12.50 x 24 50 cm'
+slug: 'B07XPDJRHW-es Desigual Bols Lazarus Barrel - Bolso para mujer color...'
+tags: bolso
 actualPrice: 29.72 EUR
 currency: EUR
 price: 29.72

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41lY9Rhz8wL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N1H8FGR-es Clarks Sheer Rose  Zapatos de Tacón para Mujer  Multicolor  Leopard Print Leopard Print   36 EU'
+slug: 'B07N1H8FGR-es Clarks Sheer Rose Zapatos de Tacón para Mujer Multicolor...'
+tags: zapatos
 actualPrice: 44.95 EUR
 currency: EUR
 price: 44.95

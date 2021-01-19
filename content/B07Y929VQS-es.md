@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41cgySgAu7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y929VQS-es XTI 49690  Zapatos de Cordones Oxford para Hombre  Marrón  Camel Camel   43 EU'
+slug: 'B07Y929VQS-es XTI 49690 Zapatos de Cordones Oxford para Hombre Marrón...'
+tags: zapatos
 actualPrice: 12.94 EUR
 currency: EUR
 price: 12.94

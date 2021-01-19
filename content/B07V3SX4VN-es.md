@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/415SyJYkuTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V3SX4VN-es TALED - Bolso Bandolera de Piel auténtica de 15 6 Pulgadas con Almohadilla para el Hombro y Correa - Bolso para Ordenador portátil  Universidad  Trabajo '
+slug: 'B07V3SX4VN-es TALED - Bolso Bandolera de Piel auténtica de 15 6 Pulgadas...'
+tags: bolso
 actualPrice: 97.97 EUR
 currency: EUR
 price: 97.97

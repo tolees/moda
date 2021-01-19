@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31npKpCiXyL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MQ2FRG5-es Clarks - Botines de Cuero Hombre  Color Negro  Talla 39.5 EU'
+slug: 'B07MQ2FRG5-es Clarks - Botines de Cuero Hombre Color Negro Talla 39.5 EU'
+tags: botines
 actualPrice: 53.95 EUR
 currency: EUR
 price: 53.95

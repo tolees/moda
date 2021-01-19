@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-NTylBf+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F1WR1YG-es Timberland Classic 2 Eye  Náuticos para Hombre  Azul  Dark Blue Nubuck   41.5 EU'
+slug: 'B07F1WR1YG-es Timberland Classic 2 Eye Náuticos para Hombre Azul Dark...'
+tags: timberland
 actualPrice: 109.67 EUR
 currency: EUR
 price: 109.67

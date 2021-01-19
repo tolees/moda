@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31AbwP031EL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FPNJ18G-es Jack & Jones Jjitim Jjoriginal Am 781 50sps Noos Vaqueros Slim  Azul  Blue Denim Blue Denim   W33/L32 para Hombre'
+slug: 'B07FPNJ18G-es Jack & Jones Jjitim Jjoriginal Am 781 50sps Noos Vaqueros...'
+tags: vaqueros
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

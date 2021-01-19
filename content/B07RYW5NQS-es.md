@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41SbNb60KjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RYW5NQS-es BOSS Trunk 3p Co/El Bóxer  Multicolor  Open Miscellaneous 992   Medium  Pack de 3  para Hombre'
+slug: 'B07RYW5NQS-es BOSS Trunk 3p Co/El Bóxer Multicolor Open Miscellaneous...'
+tags: bóxer
 actualPrice: 29.0 EUR
 currency: EUR
 price: 29.0

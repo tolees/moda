@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41fjk03mo5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L9BLYZ5-es Under Armour UA Qualifier Tank Camiseta sin Mangas  Mujer  Rosa  Coral Dust/Reflective 642   M'
+slug: 'B07L9BLYZ5-es Under Armour UA Qualifier Tank Camiseta sin Mangas Mujer...'
+tags: camiseta
 actualPrice: 18.88 EUR
 currency: EUR
 price: 18.88

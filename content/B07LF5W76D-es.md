@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31V3jrwwylL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LF5W76D-es Levi s Slim 2pk Crewneck 1 Camiseta  Multicolor  2 Pack Pine Grove/Warm Cabernet 0004   X-Large para Hombre'
+slug: 'B07LF5W76D-es Levi s Slim 2pk Crewneck 1 Camiseta Multicolor 2 Pack Pine...'
+tags: camiseta
 actualPrice: 11.41 EUR
 currency: EUR
 price: 11.41

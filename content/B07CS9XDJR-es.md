@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/312faqBiC5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CS9XDJR-es Pepe Jeans Soho Vaqueros  Violet  28W / 30L para Mujer'
+slug: 'B07CS9XDJR-es Pepe Jeans Soho Vaqueros Violet 28W / 30L para Mujer'
+tags: vaqueros
 actualPrice: 35.61 EUR
 currency: EUR
 price: 35.61

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41qiL2RqDvL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NQL7SLR-es Springfield 3Ba Basica Capucha Abierta Sudadera  Rojo  Red 67   X-Large  Tamaño del Fabricante: XL  para Hombre'
+slug: 'B07NQL7SLR-es Springfield 3Ba Basica Capucha Abierta Sudadera Rojo Red...'
+tags: sudadera
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

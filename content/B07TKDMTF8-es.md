@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51YIqiwqqtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TKDMTF8-es Levi s Type 3 Chaqueta Vaquera  Azul  Firework Sherpa Trucker 0123   X-Small para Hombre'
+slug: 'B07TKDMTF8-es Levi s Type 3 Chaqueta Vaquera Azul Firework Sherpa...'
+tags: chaqueta
 actualPrice: 85.99 EUR
 currency: EUR
 price: 85.99

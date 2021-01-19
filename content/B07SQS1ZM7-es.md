@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41CVmaVyHzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SQS1ZM7-es Marca Amazon - MERAKI Calcetines por Media Pierna de Algodón Hombre  Pack de 5  Gris  Charcoal   39-42 EU  Label: 6-8 UK'
+slug: 'B07SQS1ZM7-es Marca Amazon - MERAKI Calcetines por Media Pierna de...'
+tags: meraki
 actualPrice: 6.32 EUR
 currency: EUR
 price: 6.32

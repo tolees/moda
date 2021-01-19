@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51wYOyEZ0SL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DL5C7QY-es J.Rosée Mujer Colgante Collar Plata de Ley 925 Brillante Circonita con Hermosa Caja Regalos Originales Danza en el mar'
+slug: 'B07DL5C7QY-es J.Rosée Mujer Colgante Collar Plata de Ley 925 Brillante...'
+tags: collar
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

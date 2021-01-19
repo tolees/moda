@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Qb6jxInyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TR3DCPN-es Clarks Un Perri Way  Sandalias de Talón Abierto para Mujer  Negro  Black Leather Black Leather   41.5 EU'
+slug: 'B07TR3DCPN-es Clarks Un Perri Way Sandalias de Talón Abierto para Mujer...'
+tags: sandalias
 actualPrice: 48.93 EUR
 currency: EUR
 price: 48.93

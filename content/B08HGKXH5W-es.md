@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41l+Ma++v9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08HGKXH5W-es KUTOOK Pantalones Softshell Trekking Mujer con Forro Polar Pantalón Senderismo Montaña Escalada Repele El Agua y Seca Rápido para Otoño Invierno HP312 '
+slug: 'B08HGKXH5W-es KUTOOK Pantalones Softshell Trekking Mujer con Forro Polar...'
+tags: pantalón
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

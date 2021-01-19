@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41xXm5ElwpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00YO741YQ-es Under Armour Tech T Camiseta sin Mangas  Mujer  Gris  Gray 090   L'
+slug: 'B00YO741YQ-es Under Armour Tech T Camiseta sin Mangas Mujer Gris Gray 090 L'
+tags: camiseta
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

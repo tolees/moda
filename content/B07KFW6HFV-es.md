@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31ZVWpC0rEL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KFW6HFV-es Helly Hansen W Daybreaker Chaqueta  Mujer  Navy  S'
+slug: 'B07KFW6HFV-es Helly Hansen W Daybreaker Chaqueta Mujer Navy S'
+tags: chaqueta
 actualPrice: 31.83 EUR
 currency: EUR
 price: 31.83

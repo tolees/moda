@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/3158AX7MrLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MC4H3FH-es Scotch & Soda Nos Oxford Shirt Relaxed Fit Button Down Collar Camisa  Blanco  White 00   X-Large para Hombre'
+slug: 'B07MC4H3FH-es Scotch & Soda Nos Oxford Shirt Relaxed Fit Button Down...'
+tags: camisa, collar
 actualPrice: 55.95 EUR
 currency: EUR
 price: 55.95

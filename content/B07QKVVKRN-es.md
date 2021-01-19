@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51HUepZbqEL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QKVVKRN-es La Chaqueta Metálica  Edición Especial  Bluray Iconic [Blu-ray]'
+slug: 'B07QKVVKRN-es La Chaqueta Metálica Edición Especial Bluray Iconic [Blu-ray]'
+tags: chaqueta
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

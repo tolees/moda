@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Lhbf8HDGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KJZDRMP-es Under Armour Under Armour Crossbody 1327794-408 Bolso Bandolera 23 Centimeters 2.5 Azul  Navy   Talla única'
+slug: 'B07KJZDRMP-es Under Armour Under Armour Crossbody 1327794-408 Bolso...'
+tags: bolso
 actualPrice: 12.49 EUR
 currency: EUR
 price: 12.49

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41H3EA1OVGL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KXVBPSB-es JACK & JONES Jjitim Jjoriginal Am 815 Vaqueros Skinny  Azul  Blue Denim Blue Denim   W31/L32  Talla del Fabricante: 31  para Hombre'
+slug: 'B07KXVBPSB-es JACK & JONES Jjitim Jjoriginal Am 815 Vaqueros Skinny Azul...'
+tags: vaqueros
 actualPrice: 20.21 EUR
 currency: EUR
 price: 20.21

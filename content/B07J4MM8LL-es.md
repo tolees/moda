@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41pDj1GrssL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J4MM8LL-es Columbia Hombre Camiseta técnica de manga larga  M Engineered Half Zip  Nailon  Azul  Mountain   Talla L  1820781'
+slug: 'B07J4MM8LL-es Columbia Hombre Camiseta técnica de manga larga M...'
+tags: camiseta
 actualPrice: 36.97 EUR
 currency: EUR
 price: 36.97

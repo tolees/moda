@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51QyIRzQljL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MNVX4GR-es SINOES Zapatos De Los Hombres De Microfibra Otoño De Invierno Zapatos Deportivos De Alta Top Zapatillas De Aire Colchón De Baloncesto Zapatos De Fondo Grueso Casual'
+slug: 'B07MNVX4GR-es SINOES Zapatos De Los Hombres De Microfibra Otoño De...'
+tags: zapatos
 actualPrice: 23.88 EUR
 currency: EUR
 price: 23.88

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/311d5pFb8ML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SQGWX2P-es Geox D Ottaya Sandal B  Sandalias de Talón Abierto para Mujer  Negro  Black C9999   38 EU'
+slug: 'B07SQGWX2P-es Geox D Ottaya Sandal B Sandalias de Talón Abierto para...'
+tags: geox, sandalias
 actualPrice: 59.46 EUR
 currency: EUR
 price: 59.46

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41F3ipXwSVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089LLHW6D-es Dihope - Pantalón de chándal para hombre  de algodón  estilo casual  deportivo  con capucha caqui XL'
+slug: 'B089LLHW6D-es Dihope - Pantalón de chándal para hombre de algodón estilo...'
+tags: pantalón
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

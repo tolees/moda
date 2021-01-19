@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51d0onwjDUL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01GH4KVSS-es Bolso organizador para coche animal león tigre jirafa de Decole Japón'
+slug: 'B01GH4KVSS-es Bolso organizador para coche animal león tigre jirafa de...'
+tags: bolso
 actualPrice: 31.91 EUR
 currency: EUR
 price: 31.91

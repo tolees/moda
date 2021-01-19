@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416SKqZGhgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B014YXD3C0-es Clarks Mapped Edge  Zapatos de Cordones Oxford para Hombre  Negro  Black Combi   44 EU'
+slug: 'B014YXD3C0-es Clarks Mapped Edge Zapatos de Cordones Oxford para Hombre...'
+tags: zapatos
 actualPrice: 28.4 EUR
 currency: EUR
 price: 28.4

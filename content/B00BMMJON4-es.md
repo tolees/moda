@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4144Bf8fXdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BMMJON4-es Geox U Dublin A  Derby para Hombre  Negro  BLACKC9999   42 EU'
+slug: 'B00BMMJON4-es Geox U Dublin A Derby para Hombre Negro BLACKC9999 42 EU'
+tags: geox
 actualPrice: 53.95 EUR
 currency: EUR
 price: 53.95

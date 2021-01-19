@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31yJU9120oL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00UG4EMUE-es Lacoste Crew Neck  Sudadera para Hombre  azul  Marine   X-Small'
+slug: 'B00UG4EMUE-es Lacoste Crew Neck Sudadera para Hombre azul Marine X-Small'
+tags: sudadera
 actualPrice: 62.95 EUR
 currency: EUR
 price: 62.95

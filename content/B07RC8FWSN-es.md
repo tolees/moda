@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41sqQkKOsYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RC8FWSN-es Columbia Pike Lake  Chaqueta forrada con capucha  Hombre  Rojo  Beet   Talla L'
+slug: 'B07RC8FWSN-es Columbia Pike Lake Chaqueta forrada con capucha Hombre...'
+tags: chaqueta
 actualPrice: 79.98 EUR
 currency: EUR
 price: 79.98

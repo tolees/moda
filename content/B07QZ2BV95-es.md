@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41GYAvdpeGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QZ2BV95-es Hawiton Pijama Hombre Verano Corto Manga Corta Conjunto de Pijamas Algodón Camiseta y Pantalones Corto de a Cuadros'
+slug: 'B07QZ2BV95-es Hawiton Pijama Hombre Verano Corto Manga Corta Conjunto de...'
+tags: camiseta, pijama
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

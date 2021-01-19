@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41iThlrDY4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MGFRJR9-es Napapijri Burgee 2 Sudadera con Capucha  Verde  Green Forest 2 Ge3   XXL para Hombre'
+slug: 'B07MGFRJR9-es Napapijri Burgee 2 Sudadera con Capucha Verde Green Forest...'
+tags: sudadera
 actualPrice: 59.95 EUR
 currency: EUR
 price: 59.95

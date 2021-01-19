@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41uknYaR9DL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TKN8LYQ-es Clarks Maritsa Lara  Sandalias de Talón Abierto para Mujer  Rosa  Fuchsia Suede Fuchsia Suede   35.5 EU'
+slug: 'B07TKN8LYQ-es Clarks Maritsa Lara Sandalias de Talón Abierto para Mujer...'
+tags: sandalias
 actualPrice: 34.03 EUR
 currency: EUR
 price: 34.03

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41pLnFZunJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01EAQDLKA-es Halti Collar  8" - 12" '
+slug: 'B01EAQDLKA-es Halti Collar 8" - 12"'
+tags: collar
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

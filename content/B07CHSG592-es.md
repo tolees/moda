@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31RnVgKVS4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CHSG592-es Levi s SS Original Hm tee Camiseta  Negro  Cotton + Patch Black 0009   XX-Large para Hombre'
+slug: 'B07CHSG592-es Levi s SS Original Hm tee Camiseta Negro Cotton + Patch...'
+tags: camiseta
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Ar82vQmcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RC8F1W8-es Columbia Marquam Peak  Chaqueta de invierno  Hombre   Azul  Dark Nocturnal   Talla L'
+slug: 'B07RC8F1W8-es Columbia Marquam Peak Chaqueta de invierno Hombre Azul...'
+tags: chaqueta
 actualPrice: 99.08 EUR
 currency: EUR
 price: 99.08

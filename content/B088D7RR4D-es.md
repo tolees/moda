@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Ss1Iz3OfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088D7RR4D-es HuiHang Mujer Cuero Confort Peep Toe Sandalias Plataforma Sandalias de Verano Ligeras  Transpirables y de Gran tamaño Zapatos de Playa Flexibles-Leopard Print 38'
+slug: 'B088D7RR4D-es HuiHang Mujer Cuero Confort Peep Toe Sandalias Plataforma...'
+tags: sandalias, zapatos
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

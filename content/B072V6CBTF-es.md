@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51fbxd2puZL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072V6CBTF-es Funda para Samsung Galaxy S7 Edge  Libro de Cuero Impresión de Suave PU Premium e Silicone TPU Carcasa  Soporte Plegable  Ranuras para Tarjetas y Billetera  Cierre Magnético Girasol Rosa Caliente'
+slug: 'B072V6CBTF-es Funda para Samsung Galaxy S7 Edge Libro de Cuero Impresión...'
+tags: billetera
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

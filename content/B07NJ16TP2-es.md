@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41OgAQyks8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NJ16TP2-es Springfield 8.0.Lentejuelas Texto Camiseta  Multicolor  Multicolor 72   Large  Tamaño del Fabricante: L  para Mujer'
+slug: 'B07NJ16TP2-es Springfield 8.0.Lentejuelas Texto Camiseta Multicolor...'
+tags: camiseta
 actualPrice: 4.82 EUR
 currency: EUR
 price: 4.82

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51iQ9SmX99L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081DG2T7K-es HALOVIE Mochila Antirrobo para Mujer Impermeable Bolsos Bandolera Casual Monedero Cuero de PU Bolsa de Hombro Escuela Viaje Compras Señoras Bolsos de Mano Escolares Gran Capacidad Ligera Moda Regalo'
+slug: 'B081DG2T7K-es HALOVIE Mochila Antirrobo para Mujer Impermeable Bolsos...'
+tags: moda, monedero
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

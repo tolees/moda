@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416SpS9TZZL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P9YJ6BC-es Morgan 191-mentor.n Camiseta  Negro  Noir Noir   X-Large  Talla del Fabricante: TXL  para Mujer'
+slug: 'B07P9YJ6BC-es Morgan 191-mentor.n Camiseta Negro Noir Noir X-Large Talla...'
+tags: camiseta
 actualPrice: 7.85 EUR
 currency: EUR
 price: 7.85

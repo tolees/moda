@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412JCj76KnL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NX6DZBC-es Superdry Vintage Logo Pop Entry Hood Sudadera  Azul  Eclipse Navy 98t   X-Small  Talla del Fabricante: 8  para Mujer'
+slug: 'B07NX6DZBC-es Superdry Vintage Logo Pop Entry Hood Sudadera Azul Eclipse...'
+tags: sudadera
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

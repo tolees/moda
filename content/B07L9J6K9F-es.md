@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/315b7MBLh7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L9J6K9F-es Under Armour Storm Launch Chaqueta  Mujer  Negro  Black/Black/Reflective 001   XL'
+slug: 'B07L9J6K9F-es Under Armour Storm Launch Chaqueta Mujer Negro...'
+tags: chaqueta
 actualPrice: 32.85 EUR
 currency: EUR
 price: 32.85

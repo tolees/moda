@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31ZH9e%2BR8fL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T334QSV-es Parfois - Bolso Shopper Acolchado - Mujeres - Tallas M - Rosa Bébé'
+slug: 'B07T334QSV-es Parfois - Bolso Shopper Acolchado - Mujeres - Tallas M -...'
+tags: bolso
 actualPrice: 13 EUR
 currency: EUR
 price: 13

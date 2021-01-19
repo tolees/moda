@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ywRnhOJQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084ZP2JVG-es Suhctup Funda Huawei Honor 30 Pro  Carcasa Patrón de Dibujos Animados Soft Moda  Reforzado Cojín de Esquina Parachoques Funda Flexible Suave Ultra-Delgado Funda para Huawei Honor 30 Pro'
+slug: 'B084ZP2JVG-es Suhctup Funda Huawei Honor 30 Pro Carcasa Patrón de...'
+tags: moda
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/311sCmD0RnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0733F1SMP-es Marca Amazon - find. Sudadera de Tacto Suave para Hombre  Verde  Grape Leaf   L  Label: L'
+slug: 'B0733F1SMP-es Marca Amazon - find. Sudadera de Tacto Suave para Hombre...'
+tags: sudadera, -, find.
 actualPrice: 8.91 EUR
 currency: EUR
 price: 8.91

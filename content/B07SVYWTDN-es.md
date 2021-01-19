@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41G2TDAbQ0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SVYWTDN-es Quiksilver Molokai Nubuck II  Zapatos de Playa y Piscina para Hombre  Marrón  Tan/Solid Tkd0   46 EU'
+slug: 'B07SVYWTDN-es Quiksilver Molokai Nubuck II Zapatos de Playa y Piscina...'
+tags: zapatos
 actualPrice: 9.3 EUR
 currency: EUR
 price: 9.3

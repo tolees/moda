@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/412aXQa4PSL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N45DFGJ-es Tommy Hilfiger Hampton Down Parka Chaqueta   Sky Captain Cjm   Medium para Hombre'
+slug: 'B07N45DFGJ-es Tommy Hilfiger Hampton Down Parka Chaqueta Sky Captain Cjm...'
+tags: chaqueta, parka
 actualPrice: 199 EUR
 currency: EUR
 price: 199

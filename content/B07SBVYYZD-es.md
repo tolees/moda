@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31HjeiQJzSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SBVYYZD-es PUMA Popcat 20  Sandalias deslizantes Unisex Adulto  Azul  Dark Denim White   35.5 EU'
+slug: 'B07SBVYYZD-es PUMA Popcat 20 Sandalias deslizantes Unisex Adulto Azul...'
+tags: sandalias
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

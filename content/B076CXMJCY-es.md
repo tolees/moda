@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41-3J%2Bx6a7L._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B076CXMJCY-es RED WAGON  Camiseta Print Niños  Pack de 3  Multicolor  Multicoloured 19-3924 Tcx 17-3914 Tcx 13-0075 Tcx   104  Talla del fabricante: 4 años '
+slug: 'B076CXMJCY-es RED WAGON Camiseta Print Niños Pack de 3 Multicolor...'
+tags: camiseta
 actualPrice: 4.8 EUR
 currency: EUR
 price: 4.8

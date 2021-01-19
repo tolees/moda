@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31hKBHdzkgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00LUP4ZPK-es Crocs Freesail Clog  Zuecos para Mujer  Azul  Navy   34/35 EU'
+slug: 'B00LUP4ZPK-es Crocs Freesail Clog Zuecos para Mujer Azul Navy 34/35 EU'
+tags: zuecos
 actualPrice: 12.61 EUR
 currency: EUR
 price: 12.61

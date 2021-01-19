@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VLNG3GS-es Bolso de Mano con Bandolera Pepe Jeans Strike'
+tags: bolso
 actualPrice: 25.5 EUR
 currency: EUR
 price: 25.5

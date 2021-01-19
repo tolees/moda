@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41HEkGKQphL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q1YFHFH-es Only NOS Onlmoon SL Top Noos Wvn Camiseta sin Mangas  Verde  Kalamata Kalamata   38  Talla del Fabricante: 36.0  para Mujer'
+slug: 'B07Q1YFHFH-es Only NOS Onlmoon SL Top Noos Wvn Camiseta sin Mangas Verde...'
+tags: camiseta
 actualPrice: 9.0 EUR
 currency: EUR
 price: 9.0

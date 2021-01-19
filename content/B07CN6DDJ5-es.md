@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41VGwBTAKpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CN6DDJ5-es Crocs Baya Clog  Zuecos Unisex Niños  Verde  Volt Green 395   29/30 EU'
+slug: 'B07CN6DDJ5-es Crocs Baya Clog Zuecos Unisex Niños Verde Volt Green 395...'
+tags: zuecos
 actualPrice: 23.95 EUR
 currency: EUR
 price: 23.95

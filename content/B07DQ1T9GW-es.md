@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41LB4N1-lRL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DQ1T9GW-es Urban Classics Ladies Sherpa Hooded Jacket Chaqueta  Multicolor Olive/Dark Sand 01480  X-Small para Mujer'
+slug: 'B07DQ1T9GW-es Urban Classics Ladies Sherpa Hooded Jacket Chaqueta...'
+tags: chaqueta
 actualPrice: 23.35 EUR
 currency: EUR
 price: 23.35

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/310HKhY3q2L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CZBVGFQ-es Under Armour UA Streaker 2.0 Camiseta  Mujer  Negro  Black/Black/Reflective 001   M'
+slug: 'B07CZBVGFQ-es Under Armour UA Streaker 2.0 Camiseta Mujer Negro...'
+tags: camiseta
 actualPrice: 22.54 EUR
 currency: EUR
 price: 22.54

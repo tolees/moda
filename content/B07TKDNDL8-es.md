@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/415qM3yLdUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TKDNDL8-es Levi s 514 Vaqueros Straight  Beige  Harvest Gold Bi Stretch WT B 1311   33W / 30L para Hombre'
+slug: 'B07TKDNDL8-es Levi s 514 Vaqueros Straight Beige Harvest Gold Bi Stretch...'
+tags: vaqueros
 actualPrice: 25.83 EUR
 currency: EUR
 price: 25.83

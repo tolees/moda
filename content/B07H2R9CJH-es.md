@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41KqTMLmW9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H2R9CJH-es Riñonera Deportiva Bolso Cintura Cinturón de Correr con Tiras Reflectantes para Teléfonos hasta 6.5‘’'
+slug: 'B07H2R9CJH-es Riñonera Deportiva Bolso Cintura Cinturón de Correr con...'
+tags: bolso
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

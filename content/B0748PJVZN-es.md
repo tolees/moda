@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41c4%2BZaaeTL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B0748PJVZN-es find. Vestido de Tirantes con Raya Ejecutiva para Mujer  Multicolor  Black/white   36  Talla del fabricante: X-Small '
+slug: 'B0748PJVZN-es find. Vestido de Tirantes con Raya Ejecutiva para Mujer...'
+tags: vestido
 actualPrice: 9 EUR
 currency: EUR
 price: 9

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Q3fXHpihL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083SFJTCX-es TZAMLI - Zapatero de 10 pisos sobre la puerta  organizador para zapatos  gancho de metal fuerte para Closet Pantry  gris plata  56 x 21 x 151 cm '
+slug: 'B083SFJTCX-es TZAMLI - Zapatero de 10 pisos sobre la puerta organizador...'
+tags: zapatos
 actualPrice: 39.47 EUR
 currency: EUR
 price: 39.47

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41LIDErX9oL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076Q8ZTBC-es United Colors of Benetton Basico 1 Man Vaqueros Straight  Azul  BLU Medio 902   38  Talla del Fabricante: 28  para Hombre'
+slug: 'B076Q8ZTBC-es United Colors of Benetton Basico 1 Man Vaqueros Straight...'
+tags: vaqueros
 actualPrice: 17.28 EUR
 currency: EUR
 price: 17.28

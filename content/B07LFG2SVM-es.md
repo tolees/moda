@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Shsw8ZkLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFG2SVM-es Levi s Barstow Western Camisa Casual de Manga Larga  Negro  Bruised Indigo Mid 0318   Small para Hombre'
+slug: 'B07LFG2SVM-es Levi s Barstow Western Camisa Casual de Manga Larga Negro...'
+tags: camisa
 actualPrice: 30.66 EUR
 currency: EUR
 price: 30.66

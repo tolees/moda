@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31tQO-+avkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005DXB7VU-es Geox U Moner V  Mocasines para Hombre  Negro  Black C9999   41 5 EU'
+slug: 'B005DXB7VU-es Geox U Moner V Mocasines para Hombre Negro Black C9999 41...'
+tags: geox
 actualPrice: 71.36 EUR
 currency: EUR
 price: 71.36

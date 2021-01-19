@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51o7FjjI82L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088FK1K7Y-es Oihxse Funda con Samsung Galaxy A90 5G  Cuero PU Billetera Cierre Magnético Flip Libro Folio Tapa Carcasa Relieve Soporte Plegable Ranuras para Tarjetas Protección Caso Oro Rosa '
+slug: 'B088FK1K7Y-es Oihxse Funda con Samsung Galaxy A90 5G Cuero PU Billetera...'
+tags: billetera
 actualPrice: 9.98 EUR
 currency: EUR
 price: 9.98

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31dgrVxqGHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N8VCMN5-es Rockport Marshall Plain Toe  Zapatos de Cordones Oxford para Hombre  Marrón  Java 001   40.5 EU'
+slug: 'B07N8VCMN5-es Rockport Marshall Plain Toe Zapatos de Cordones Oxford...'
+tags: zapatos
 actualPrice: 25.83 EUR
 currency: EUR
 price: 25.83

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41wJcKu1MNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JC2LNGP-es Columbia Powder Lite Chaqueta De Plumón con Capucha  Mujer  Rosa  Dusty Pink   XL'
+slug: 'B07JC2LNGP-es Columbia Powder Lite Chaqueta De Plumón con Capucha Mujer...'
+tags: chaqueta
 actualPrice: 70.95 EUR
 currency: EUR
 price: 70.95

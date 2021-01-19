@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Q4r+wEfaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078GG3M9W-es Erima GmbH 2071803 XXL Sudadera Abierta  Hombre  Azul  New Royal '
+slug: 'B078GG3M9W-es Erima GmbH 2071803 XXL Sudadera Abierta Hombre Azul New Royal'
+tags: sudadera
 actualPrice: 28.63 EUR
 currency: EUR
 price: 28.63

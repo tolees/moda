@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ba0kCdNFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PVR2JB9-es DOMISO 15-15 6 Pulgadas Funda Protectora con Puerto de Carga USB 3ways Bolso de Bandolera para Ordenador Portátil/Apple/Lenovo IdeaPad ThinkPad/HP Envy 15 / DELL/ASUS/Acer  Rojo'
+slug: 'B07PVR2JB9-es DOMISO 15-15 6 Pulgadas Funda Protectora con Puerto de...'
+tags: bolso
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

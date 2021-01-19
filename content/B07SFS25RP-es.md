@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41np-7-dcSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SFS25RP-es Helly Hansen T-Shirt Camiseta de Manga Corta Hecha de algodón  con Logo HH en el Pecho  Hombre  Alert Red  2XL'
+slug: 'B07SFS25RP-es Helly Hansen T-Shirt Camiseta de Manga Corta Hecha de...'
+tags: camiseta
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

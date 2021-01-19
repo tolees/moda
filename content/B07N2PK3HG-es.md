@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41DJ6wfJImL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N2PK3HG-es Realista Reborn Bebe Muchacha Vinilo Vestido de Tutú Rosa con Estampado de Flamencos 60 cm'
+slug: 'B07N2PK3HG-es Realista Reborn Bebe Muchacha Vinilo Vestido de Tutú Rosa...'
+tags: vestido
 actualPrice: 69.9 EUR
 currency: EUR
 price: 69.9

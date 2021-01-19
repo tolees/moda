@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41qhNHCUlgL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XFB85WJ-es TTYAOVO Vestido de Fiesta con Volantes de Princesa sin Mangas para Niñas Tamaño（120） 4-5 Años 07 Azul'
+slug: 'B07XFB85WJ-es TTYAOVO Vestido de Fiesta con Volantes de Princesa sin...'
+tags: vestido
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

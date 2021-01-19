@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Iw4fT-dAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00C2L9ST4-es Helly Hansen Seven J Chaqueta Impermeable con Forro de Secado rápido  Cortaviento y Transpirable para Hombre y para Uso Diario  Rojo  Alerta   L'
+slug: 'B00C2L9ST4-es Helly Hansen Seven J Chaqueta Impermeable con Forro de...'
+tags: chaqueta
 actualPrice: 49.27 EUR
 currency: EUR
 price: 49.27

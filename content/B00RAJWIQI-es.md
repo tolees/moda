@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Qna0FWbPL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00RAJWIQI-es Fruit of the Loom - Sudadera con Capucha Hombre/Caballero - Deporte/Gimnasio/Running  Extra Grande  XL    Azul Celeste '
+slug: 'B00RAJWIQI-es Fruit of the Loom - Sudadera con Capucha Hombre/Caballero...'
+tags: sudadera
 actualPrice: 17.2 EUR
 currency: EUR
 price: 17.2

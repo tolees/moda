@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/419c2F7oEYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078VNRP57-es B BIDEN BLDEN Mujer Grande Gafas De Sol moda polarizadas gafas UV400 Protección Para Conducción GL3113-BLACK'
+slug: 'B078VNRP57-es B BIDEN BLDEN Mujer Grande Gafas De Sol moda polarizadas...'
+tags: gafas, moda
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

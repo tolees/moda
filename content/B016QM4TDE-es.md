@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31FdiAO7oCL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B016QM4TDE-es Tommy Hilfiger Core Stretch Slim Poplin Shirt Camisa  Negro  Flag Black 083   Small para Hombre'
+slug: 'B016QM4TDE-es Tommy Hilfiger Core Stretch Slim Poplin Shirt Camisa Negro...'
+tags: camisa
 actualPrice: 51.66 EUR
 currency: EUR
 price: 51.66

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21ggLtTZfWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084CP1L6S-es HAWKERS · ONE LS · Frozen rose · Gold · Gafas de sol para hombre y mujer'
+slug: 'B084CP1L6S-es HAWKERS · ONE LS · Frozen rose · Gold · Gafas de sol para...'
+tags: gafas
 actualPrice: 22.29 EUR
 currency: EUR
 price: 22.29

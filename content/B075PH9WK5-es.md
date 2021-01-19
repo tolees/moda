@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416wGYAlxqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075PH9WK5-es Clarks Un Trek Part  Sandalias de Talón Abierto para Hombre  Marrón  Dark Tan Lea-   39.5 EU'
+slug: 'B075PH9WK5-es Clarks Un Trek Part Sandalias de Talón Abierto para Hombre...'
+tags: sandalias
 actualPrice: 54.95 EUR
 currency: EUR
 price: 54.95

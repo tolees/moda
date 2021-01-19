@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41SIYSbIWZL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VGJ6CWB-es JACK & JONES Jorclan Parka  Verde Forest Night  XX-Large para Hombre'
+slug: 'B07VGJ6CWB-es JACK & JONES Jorclan Parka Verde Forest Night XX-Large...'
+tags: parka
 actualPrice: 37.84 EUR
 currency: EUR
 price: 37.84

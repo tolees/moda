@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41SAo5ohVrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085DJDQT3-es Agatha Ruiz de la Prada Bandolera Bolso Infantil de destellos y parche de corazón'
+slug: 'B085DJDQT3-es Agatha Ruiz de la Prada Bandolera Bolso Infantil de...'
+tags: bolso
 actualPrice: 14.5 EUR
 currency: EUR
 price: 14.5

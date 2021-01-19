@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41k0ZjEtVYL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MMLP1RJ-es Napapijri K Rainforest 1 Chaqueta  Rojo  High Risk Red RA3   3 años para Niños'
+slug: 'B07MMLP1RJ-es Napapijri K Rainforest 1 Chaqueta Rojo High Risk Red RA3 3...'
+tags: chaqueta
 actualPrice: 35.14 EUR
 currency: EUR
 price: 35.14

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31qH6BCe3LL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07895MGRS-es Under Armour Team Issue Camiseta para Hombre con Logotipo  Camiseta Deportiva Transpirable  Camiseta de Manga Corta para Hombre cómoda y Ancha  White/Black  100   SM'
+slug: 'B07895MGRS-es Under Armour Team Issue Camiseta para Hombre con Logotipo...'
+tags: camiseta
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

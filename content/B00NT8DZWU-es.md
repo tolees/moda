@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41k3C3XmoQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00NT8DZWU-es Dickies Kingsley Sudadera con Capucha  Negro  Black   Small  Tamaño del Fabricante:Small  para Hombre'
+slug: 'B00NT8DZWU-es Dickies Kingsley Sudadera con Capucha Negro Black Small...'
+tags: sudadera
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

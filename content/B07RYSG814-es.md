@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31nmv+7cCQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RYSG814-es Jack & Jones Jjeorganic Basic tee SS O-Neck Noos Camiseta  Negro  Black Detail: Slim   Large para Hombre'
+slug: 'B07RYSG814-es Jack & Jones Jjeorganic Basic tee SS O-Neck Noos Camiseta...'
+tags: camiseta
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41TayNClbTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SWV24R6-es Geox D Suzzie B  Zapatillas para Mujer  Beige  Dk Skin/Off White C5q1q   36 EU'
+slug: 'B07SWV24R6-es Geox D Suzzie B Zapatillas para Mujer Beige Dk Skin/Off...'
+tags: geox
 actualPrice: 27.71 EUR
 currency: EUR
 price: 27.71

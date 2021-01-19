@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51bayq7j5dL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WGKP5TS-es Parfois - Clutch - Bolso De Fiesta Con Abalorios - Mujeres - Tallas M - Azul'
+slug: 'B07WGKP5TS-es Parfois - Clutch - Bolso De Fiesta Con Abalorios - Mujeres...'
+tags: bolso
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41BAak7IaQL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JJ31BN2-es Lonsdale - Chaqueta - Universidad - Manga Larga - para niño Azul Azul Marino M'
+slug: 'B07JJ31BN2-es Lonsdale - Chaqueta - Universidad - Manga Larga - para...'
+tags: chaqueta
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

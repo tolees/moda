@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41CqAFTJLeL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R98ZWB3-es Columbia Pouring Adventure II Chaqueta para Lluvia  Hombre  Azul  Collegiate Navy  Azure Blue   Talla: XL'
+slug: 'B07R98ZWB3-es Columbia Pouring Adventure II Chaqueta para Lluvia Hombre...'
+tags: chaqueta
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31REeweFS9L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JYNVK5Q-es Tommy Hilfiger Colorful Tommy Flat Sandal  Sandalias con Punta Abierta para Mujer  Blanco  Whisper White 121   38 EU'
+slug: 'B07JYNVK5Q-es Tommy Hilfiger Colorful Tommy Flat Sandal Sandalias con...'
+tags: sandalias
 actualPrice: 17.13 EUR
 currency: EUR
 price: 17.13

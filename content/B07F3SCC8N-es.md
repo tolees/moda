@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31dTBQMwWLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F3SCC8N-es Geox Uomo Sandal Strada D  Sandalias con Punta Abierta para Hombre  Negro  Black/Stone C9310   42 EU'
+slug: 'B07F3SCC8N-es Geox Uomo Sandal Strada D Sandalias con Punta Abierta para...'
+tags: geox, sandalias
 actualPrice: 44.35 EUR
 currency: EUR
 price: 44.35

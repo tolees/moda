@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41y+fjhg9ZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TVV9M5K-es Lee Logo tee Camiseta  Blanco  White 12   Medium para Mujer'
+slug: 'B07TVV9M5K-es Lee Logo tee Camiseta Blanco White 12 Medium para Mujer'
+tags: camiseta
 actualPrice: 18.12 EUR
 currency: EUR
 price: 18.12

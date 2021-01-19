@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41b2grW6zRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RS3SJNT-es Fila 4516_21192 Talla S 2 Boxer Verde-95% algodón  5% Elastano  Pack 2pcs T490-1  Small para Hombre'
+slug: 'B07RS3SJNT-es Fila 4516_21192 Talla S 2 Boxer Verde-95% algodón 5%...'
+tags: boxer
 actualPrice: 13.9 EUR
 currency: EUR
 price: 13.9

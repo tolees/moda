@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31AzLeeQbBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YNSB9VJ-es Marca Amazon - find. Kitten Heel Court Zapatos de tacón con Punta Cerrada  Beige  Blush  Nude   41 EU'
+slug: 'B07YNSB9VJ-es Marca Amazon - find. Kitten Heel Court Zapatos de tacón...'
+tags: zapatos, -, find.
 actualPrice: 6.78 EUR
 currency: EUR
 price: 6.78

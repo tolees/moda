@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41K-+H2F7PL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TSQ72D2-es Lee Austin Vaqueros Tapered  Azul  Dk Clean Foam EK   32W / 30L para Hombre'
+slug: 'B07TSQ72D2-es Lee Austin Vaqueros Tapered Azul Dk Clean Foam EK 32W /...'
+tags: vaqueros
 actualPrice: 52.94 EUR
 currency: EUR
 price: 52.94

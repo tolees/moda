@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/316pmIKyQnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B992NGF-es Clarks Linvale Jerica  Zapatos de Tacón para Mujer  Negro  Black Leather   41 EU'
+slug: 'B07B992NGF-es Clarks Linvale Jerica Zapatos de Tacón para Mujer Negro...'
+tags: zapatos
 actualPrice: 53.34 EUR
 currency: EUR
 price: 53.34

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416x75PtQEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T6NRVYK-es Timberland Bradstreet Leather Sensorflex  Botas Chukka para Hombre  Gris Medium Grey Full Grain  42 EU'
+slug: 'B07T6NRVYK-es Timberland Bradstreet Leather Sensorflex Botas Chukka para...'
+tags: timberland
 actualPrice: 52.13 EUR
 currency: EUR
 price: 52.13

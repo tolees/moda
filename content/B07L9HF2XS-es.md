@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31C-LpjAIVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L9HF2XS-es Under Armour Coldgear Reactor Performance Hybrid Chaqueta  Hombre  Gris  MD'
+slug: 'B07L9HF2XS-es Under Armour Coldgear Reactor Performance Hybrid Chaqueta...'
+tags: chaqueta
 actualPrice: 38.62 EUR
 currency: EUR
 price: 38.62

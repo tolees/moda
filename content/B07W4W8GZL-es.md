@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/419bijCsYFL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W4W8GZL-es JACK JONES Jorexplore Parka Jacket STS Hombre  Negro  Black Detail: Solid   Medium'
+slug: 'B07W4W8GZL-es JACK JONES Jorexplore Parka Jacket STS Hombre Negro Black...'
+tags: parka
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

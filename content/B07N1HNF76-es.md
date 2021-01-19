@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31B4qpSVsFL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N1HNF76-es Clarks Un Lindel Hi  Botines para Mujer  Negro Black Combi SDE  35.5 EU'
+slug: 'B07N1HNF76-es Clarks Un Lindel Hi Botines para Mujer Negro Black Combi...'
+tags: botines
 actualPrice: 30.63 EUR
 currency: EUR
 price: 30.63

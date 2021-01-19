@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51sSxAiAFsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QLSRKYT-es Viedouce Mochilas para Pañales Biberones Bolso del Bebé Mamá Impermeable con Estilo Oxford Bolso Pañal de Gran Capacidad  con Portátil Cambiador y 2 Piezas Ganchos Carrito Bebé  Cian '
+slug: 'B07QLSRKYT-es Viedouce Mochilas para Pañales Biberones Bolso del Bebé...'
+tags: bolso
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

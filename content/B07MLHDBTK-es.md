@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41bKyR0g23L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MLHDBTK-es G-STAR RAW ARC 3D Low Waist Boyfriend Vaqueros  Multicolor  Dk Aged Restored 106 7351   22W / 30L para Mujer'
+slug: 'B07MLHDBTK-es G-STAR RAW ARC 3D Low Waist Boyfriend Vaqueros Multicolor...'
+tags: vaqueros
 actualPrice: 17.06 EUR
 currency: EUR
 price: 17.06

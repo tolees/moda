@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41qmhKWalDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J5PT84Y-es Marca Amazon - AURIQUE  Sujetador Deportivo para Actividades de Impacto Medio Mujer  Azul  Dress Blue   S  Label:S'
+slug: 'B07J5PT84Y-es Marca Amazon - AURIQUE Sujetador Deportivo para...'
+tags: aurique
 actualPrice: 9.11 EUR
 currency: EUR
 price: 9.11

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31+4667xr1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B013V6O4VA-es Levi s Housemark Polo  Camiseta para Hombre  Blanco  C00987 BRIGHT WHITE X 1   Small'
+slug: 'B013V6O4VA-es Levi s Housemark Polo Camiseta para Hombre Blanco C00987...'
+tags: camiseta
 actualPrice: 26.0 EUR
 currency: EUR
 price: 26.0

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31i5Rg%2BwGeL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B075QJSHPW-es MERAKI Vaqueros Skinny Hombre  Azul  Indigo Rinse   W30/L32'
+slug: 'B075QJSHPW-es MERAKI Vaqueros Skinny Hombre Azul Indigo Rinse W30/L32'
+tags: meraki, vaqueros
 actualPrice: 16.92 EUR
 currency: EUR
 price: 16.92

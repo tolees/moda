@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ut0jsM2rL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SWT5TPJ-es Geox J Rebecca Girl B  Zapatillas para Niñas  Blanco  White/Navy C0899   32 EU'
+slug: 'B07SWT5TPJ-es Geox J Rebecca Girl B Zapatillas para Niñas Blanco...'
+tags: geox
 actualPrice: 39.92 EUR
 currency: EUR
 price: 39.92

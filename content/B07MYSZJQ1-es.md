@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414iT7snAVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MYSZJQ1-es Zapatillas de Deporte Blanco para Las niñas  Harpia Zapatos de Moda única Baja Superior Correas de Estiramiento de Cuero Ocasional Deportes Zapatillas para Adolescentes Zapatos Planos  Blanco  33 EU '
+slug: 'B07MYSZJQ1-es Zapatillas de Deporte Blanco para Las niñas Harpia Zapatos...'
+tags: moda, zapatos
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

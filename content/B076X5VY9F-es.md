@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31upIe-fOhL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B076X5VY9F-es Geox U SAYMORE C  Zapatos de Cordones Derby para Hombre  Negro  Black C9999   44 EU'
+slug: 'B076X5VY9F-es Geox U SAYMORE C Zapatos de Cordones Derby para Hombre...'
+tags: geox, zapatos
 actualPrice: 89.95 EUR
 currency: EUR
 price: 89.95

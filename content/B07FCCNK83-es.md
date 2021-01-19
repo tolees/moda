@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41w2R8wGcCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FCCNK83-es Pañal Bolso Mochila  Gran Capacidad Mochila de Pañales Bolso de Viaje  Impermeable Bolsa de Pañales con Aislado Bolsillos para Cuidado de Bebé y Mamá-Negro'
+slug: 'B07FCCNK83-es Pañal Bolso Mochila Gran Capacidad Mochila de Pañales...'
+tags: bolso
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

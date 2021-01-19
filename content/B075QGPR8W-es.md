@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41efU0to+aL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075QGPR8W-es Marca Amazon - find. Sudadera Jaspeada Hombre  Verde  Green Marl   L  Label: L'
+slug: 'B075QGPR8W-es Marca Amazon - find. Sudadera Jaspeada Hombre Verde Green...'
+tags: sudadera, -, find.
 actualPrice: 5.54 EUR
 currency: EUR
 price: 5.54

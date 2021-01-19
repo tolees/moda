@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41IB8yU45ZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00X9CSFO4-es Timberland Larchmont Waterproof  Botas Chukka para Hombre  Marrón  MD Brown Full Grain   44.5 EU'
+slug: 'B00X9CSFO4-es Timberland Larchmont Waterproof Botas Chukka para Hombre...'
+tags: timberland
 actualPrice: 85.75 EUR
 currency: EUR
 price: 85.75

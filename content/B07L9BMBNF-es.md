@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31dO8T7HebL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L9BMBNF-es Under Armour Baseline Fleece Jogger Pantalón  Hombre  Negro  XL'
+slug: 'B07L9BMBNF-es Under Armour Baseline Fleece Jogger Pantalón Hombre Negro XL'
+tags: pantalón
 actualPrice: 27.03 EUR
 currency: EUR
 price: 27.03

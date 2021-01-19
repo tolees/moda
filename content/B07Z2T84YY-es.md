@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31N8jUKw2YL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z2T84YY-es Charles Wilson Camiseta Polo Clásica Lisa  X-Small  Graphite  1019  '
+slug: 'B07Z2T84YY-es Charles Wilson Camiseta Polo Clásica Lisa X-Small Graphite...'
+tags: camiseta
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

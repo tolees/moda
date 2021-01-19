@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31swVih2HGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NPRJGKH-es Marca Amazon - MERAKI Shorts de Lino Mujer  Azul  Navy   38  Label: S'
+slug: 'B07NPRJGKH-es Marca Amazon - MERAKI Shorts de Lino Mujer Azul Navy 38...'
+tags: meraki
 actualPrice: 5.67 EUR
 currency: EUR
 price: 5.67

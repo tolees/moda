@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51LAJKndiHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WLNJN3W-es Tommy Hilfiger Summer Allover Print tee Camiseta Deporte  Azul  Faded Indigo   Small  Talla del Fabricante:  para Hombre'
+slug: 'B07WLNJN3W-es Tommy Hilfiger Summer Allover Print tee Camiseta Deporte...'
+tags: camiseta
 actualPrice: 14.36 EUR
 currency: EUR
 price: 14.36

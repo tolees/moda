@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41q7xaWRhgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086WBFPNL-es MO JOC - Zapatos de tacón para mujer  color Negro  talla 41 EU'
+slug: 'B086WBFPNL-es MO JOC - Zapatos de tacón para mujer color Negro talla 41 EU'
+tags: zapatos
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

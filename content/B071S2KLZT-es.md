@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/317qq3U+KEL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071S2KLZT-es Under Armour UA HG Armour Shorty Pantalón Corto  Mujer  Gris  Charcoal Light Heather/Anthracite/Metallic Silver 020   M'
+slug: 'B071S2KLZT-es Under Armour UA HG Armour Shorty Pantalón Corto Mujer Gris...'
+tags: pantalón
 actualPrice: 17.18 EUR
 currency: EUR
 price: 17.18

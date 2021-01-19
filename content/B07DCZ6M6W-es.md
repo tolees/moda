@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31xWeZng81L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DCZ6M6W-es Marca Amazon - find. Abrigo Hombre  Azul  Navy   XS  Label: XS'
+slug: 'B07DCZ6M6W-es Marca Amazon - find. Abrigo Hombre Azul Navy XS Label: XS'
+tags: abrigo, -, find.
 actualPrice: 49.64 EUR
 currency: EUR
 price: 49.64

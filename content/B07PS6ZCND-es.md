@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41hJCVzZg0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PS6ZCND-es Under Armour Speed Stride Graphic Camisa Manga Corta  Hombre  Negro  LG'
+slug: 'B07PS6ZCND-es Under Armour Speed Stride Graphic Camisa Manga Corta...'
+tags: camisa
 actualPrice: 13.47 EUR
 currency: EUR
 price: 13.47

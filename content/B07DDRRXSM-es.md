@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41MhhPNw4GL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DDRRXSM-es Only Onlblush Mid ANK Raw Jeans Rea1303 Noos Vaqueros Skinny  Azul  Dark Blue Denim   W29/L32  Talla del Fabricante: Medium  para Mujer'
+slug: 'B07DDRRXSM-es Only Onlblush Mid ANK Raw Jeans Rea1303 Noos Vaqueros...'
+tags: vaqueros
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

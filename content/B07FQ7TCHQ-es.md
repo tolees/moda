@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31fpBv4UGZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FQ7TCHQ-es Clarks Originals Desert London  Zapatos de Cordones Derby para Hombre  Marrón  Beeswax Leather-   42.5 EU'
+slug: 'B07FQ7TCHQ-es Clarks Originals Desert London Zapatos de Cordones Derby...'
+tags: zapatos
 actualPrice: 105.6 EUR
 currency: EUR
 price: 105.6

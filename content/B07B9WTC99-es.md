@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416I0hHz2pL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B9WTC99-es Zuecos Hombre Playa Piscina Sanitarios Enfermera Goma Verano Zapatillas de Trabajo Sandalias Negro Azul Amarillo 40-45 Negro 43'
+slug: 'B07B9WTC99-es Zuecos Hombre Playa Piscina Sanitarios Enfermera Goma...'
+tags: sandalias, zuecos
 actualPrice: 14.39 EUR
 currency: EUR
 price: 14.39

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31IaoD8p2ZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CPF258W-es Crocs Sexi Flip Women  Sandalias para Mujer  Azul  Pool 40m   34/35 EU'
+slug: 'B07CPF258W-es Crocs Sexi Flip Women Sandalias para Mujer Azul Pool 40m...'
+tags: sandalias
 actualPrice: 14.82 EUR
 currency: EUR
 price: 14.82

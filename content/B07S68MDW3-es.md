@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41vG2Z7HHfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S68MDW3-es Lee Relaxed Fit tee Camiseta  Negro  Black 01   Small para Mujer'
+slug: 'B07S68MDW3-es Lee Relaxed Fit tee Camiseta Negro Black 01 Small para Mujer'
+tags: camiseta
 actualPrice: 9.56 EUR
 currency: EUR
 price: 9.56

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41LYZAxC6ML._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B075D89QRM-es INBIKE Guantes Calientes De Ciclismo De Invierno  Guantes De Pantalla Táctil para Hombre con Dedos Completos Cortavientos E Impermeable Azul XXL '
+slug: 'B075D89QRM-es INBIKE Guantes Calientes De Ciclismo De Invierno Guantes...'
+tags: guantes
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

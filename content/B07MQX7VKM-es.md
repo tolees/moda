@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41q3ysomlwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MQX7VKM-es GANT D1. TP BC Micro Print Reg Hbd Camisa  Azul  Marine 410   Small para Hombre'
+slug: 'B07MQX7VKM-es GANT D1. TP BC Micro Print Reg Hbd Camisa Azul Marine 410...'
+tags: camisa
 actualPrice: 44.7 EUR
 currency: EUR
 price: 44.7

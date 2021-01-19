@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41s4DRDwyVL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFDXB86-es Levi s Housemark Graphic tee Camiseta  Gris  Hm Outline Mid Tone Grey Heather 0241   X-Small para Hombre'
+slug: 'B07LFDXB86-es Levi s Housemark Graphic tee Camiseta Gris Hm Outline Mid...'
+tags: camiseta
 actualPrice: 14.5 EUR
 currency: EUR
 price: 14.5

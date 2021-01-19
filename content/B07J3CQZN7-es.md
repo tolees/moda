@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41KgfoofpiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J3CQZN7-es Under Armour Play Up Pantalón Corto  Mujer  Rosa  MD'
+slug: 'B07J3CQZN7-es Under Armour Play Up Pantalón Corto Mujer Rosa MD'
+tags: pantalón
 actualPrice: 13.97 EUR
 currency: EUR
 price: 13.97

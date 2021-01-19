@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Q0iEjA+yL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZQJMDV-es Pepe Jeans Mohsen Sudadera   Grey Marl 933   9-10 años  Talla del Fabricante: 9/10 años  para Niños'
+slug: 'B07MZQJMDV-es Pepe Jeans Mohsen Sudadera Grey Marl 933 9-10 años Talla...'
+tags: sudadera
 actualPrice: 17.34 EUR
 currency: EUR
 price: 17.34

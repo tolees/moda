@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ivftoVxLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V8YPQP4-es Tommy Hilfiger - Th Metro Washbag  Organizadores de bolso Hombre  Negro  Black   1x1x1 cm  W x H L '
+slug: 'B07V8YPQP4-es Tommy Hilfiger - Th Metro Washbag Organizadores de bolso...'
+tags: bolso
 actualPrice: 38.6 EUR
 currency: EUR
 price: 38.6

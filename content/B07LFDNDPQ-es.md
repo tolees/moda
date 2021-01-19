@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/418H+BW116L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFDNDPQ-es Levi s Slim 2pk Crewneck 1 Camiseta  Multicolor  2 Pack Olive Night + White Yd/Dress Blues + Warm Cabernet Yd 0006   XX-Large para Hombre'
+slug: 'B07LFDNDPQ-es Levi s Slim 2pk Crewneck 1 Camiseta Multicolor 2 Pack...'
+tags: camiseta
 actualPrice: 17.5 EUR
 currency: EUR
 price: 17.5

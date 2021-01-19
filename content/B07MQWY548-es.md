@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Vlh3X6dNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MQWY548-es Marca Amazon - MERAKI Shorts de Natación Hombre  Negro  Black/Navy   M  Label: M'
+slug: 'B07MQWY548-es Marca Amazon - MERAKI Shorts de Natación Hombre Negro...'
+tags: meraki
 actualPrice: 5.49 EUR
 currency: EUR
 price: 5.49

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+Un745sAL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N414BRX-es Desigual Dress Marian Vestido  Blanco  Crudo 1001   48  Talla del Fabricante: 46  para Mujer'
+slug: 'B07N414BRX-es Desigual Dress Marian Vestido Blanco Crudo 1001 48 Talla...'
+tags: vestido
 actualPrice: 26.19 EUR
 currency: EUR
 price: 26.19

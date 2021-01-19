@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31hY2cw0OWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082NY8C5F-es Oihxse Transparente Silicona Case Compatible con Xiaomi Mi 5X/Xiaomi Mi A1 Funda Suave TPU Protección Carcasa Moda Dibujos Animados Divertida Diseño Ultra-Delgado Cubierta-Montaña'
+slug: 'B082NY8C5F-es Oihxse Transparente Silicona Case Compatible con Xiaomi Mi...'
+tags: moda
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

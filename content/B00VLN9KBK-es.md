@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31zg5k6nPaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00VLN9KBK-es Levi s Graphic Set-In Neck  Camiseta para Hombre  Azul  C18977 Graphic H215-Hm Dress Blues Graphic H215-Hm 36.3 139   Medium'
+slug: 'B00VLN9KBK-es Levi s Graphic Set-In Neck Camiseta para Hombre Azul...'
+tags: camiseta
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

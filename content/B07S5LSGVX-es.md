@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Nwigl0WnL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S5LSGVX-es BOSS T-Shirt RN Camiseta  Azul  Bright Blue 436   Large para Hombre'
+slug: 'B07S5LSGVX-es BOSS T-Shirt RN Camiseta Azul Bright Blue 436 Large para...'
+tags: camiseta
 actualPrice: 21.84 EUR
 currency: EUR
 price: 21.84

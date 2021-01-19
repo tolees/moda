@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/518YAkoM6iL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00U2HP3OY-es Minecraft - Camiseta para niño - Minecraft - Negro - 7 - 8 Años'
+slug: 'B00U2HP3OY-es Minecraft - Camiseta para niño - Minecraft - Negro - 7 - 8...'
+tags: camiseta
 actualPrice: 12.93 EUR
 currency: EUR
 price: 12.93

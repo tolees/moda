@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413a2g2JjRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NDNSVDC-es G-STAR RAW Graphic 15 Core Round Neck Sudadera  Azul  Mazarine Blue Htr 4348   X-Small para Hombre'
+slug: 'B07NDNSVDC-es G-STAR RAW Graphic 15 Core Round Neck Sudadera Azul...'
+tags: sudadera
 actualPrice: 14.8 EUR
 currency: EUR
 price: 14.8

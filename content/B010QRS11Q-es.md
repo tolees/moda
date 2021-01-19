@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41UpTUKqLxL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B010QRS11Q-es Timberland Larchmont Chelsea Waterproof  Botas Hombre  Marrón  Medium Brown Nubuck   41.5 EU'
+slug: 'B010QRS11Q-es Timberland Larchmont Chelsea Waterproof Botas Hombre...'
+tags: timberland
 actualPrice: 69.75 EUR
 currency: EUR
 price: 69.75

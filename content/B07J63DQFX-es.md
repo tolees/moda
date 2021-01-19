@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41XBiVtOlAL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J63DQFX-es Happy Cherry - Ropa Invierno Acolchada de Algodón para Infantiles Abrigo Caliente de Bebes Chaqueta Amarillo para Bebé Niños de 18-24 Meses'
+slug: 'B07J63DQFX-es Happy Cherry - Ropa Invierno Acolchada de Algodón para...'
+tags: abrigo, chaqueta
 actualPrice: 11.03 EUR
 currency: EUR
 price: 11.03

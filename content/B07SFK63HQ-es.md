@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51gmc96QTDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SFK63HQ-es SSC Napoli Réplica de camiseta de segunda equipación temporada 2019/2020'
+slug: 'B07SFK63HQ-es SSC Napoli Réplica de camiseta de segunda equipación...'
+tags: camiseta
 actualPrice: 15.6 EUR
 currency: EUR
 price: 15.6

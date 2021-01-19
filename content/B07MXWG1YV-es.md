@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41AjU6x+NSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MXWG1YV-es Desigual 19WAXP53 - Bolso de hombro de Sintético Mujer 16x6x26 cm  B x H x T '
+slug: 'B07MXWG1YV-es Desigual 19WAXP53 - Bolso de hombro de Sintético Mujer...'
+tags: bolso
 actualPrice: 46.19 EUR
 currency: EUR
 price: 46.19

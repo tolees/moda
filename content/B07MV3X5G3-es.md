@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51vbnzvg2tL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MV3X5G3-es Bolso de Noche Bolso de Hombro Mujer Glitter Diamond Hard Shell Clutches para Boda Fiesta Baile  Bolsos de Diamantes de imitación Plateado'
+slug: 'B07MV3X5G3-es Bolso de Noche Bolso de Hombro Mujer Glitter Diamond Hard...'
+tags: bolso
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

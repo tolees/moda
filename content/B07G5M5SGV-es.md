@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41xUaxAf7rL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G5M5SGV-es Wrangler Authentic  Vaqueros Straight  Azul  Blue Mid Stone 14V   30W / 30L para Hombre'
+slug: 'B07G5M5SGV-es Wrangler Authentic Vaqueros Straight Azul Blue Mid Stone...'
+tags: vaqueros
 actualPrice: 19.84 EUR
 currency: EUR
 price: 19.84

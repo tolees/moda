@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41FV8I3EZlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087FW8HZ8-es ShyaWorld Chaqueta Alta Visibilidad Trabajo homologada Reflectante Cortavientos  Impermeable Capucha  XXXXL '
+slug: 'B087FW8HZ8-es ShyaWorld Chaqueta Alta Visibilidad Trabajo homologada...'
+tags: chaqueta
 actualPrice: 54.95 EUR
 currency: EUR
 price: 54.95

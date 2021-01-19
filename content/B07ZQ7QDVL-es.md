@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41mbBKxhZnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZQ7QDVL-es MR.SIGA Guantes para el Lavado de Platos Reutilizables  Guantes de Limpieza Impermeables para baño de Cocina  tamaño pequeño  3 Pares'
+slug: 'B07ZQ7QDVL-es MR.SIGA Guantes para el Lavado de Platos Reutilizables...'
+tags: guantes
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

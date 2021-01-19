@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31UoYfpMoYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DHYS7HG-es Geox U Goinway B  Sandalias con Punta Abierta para Hombre  Navy/Black C0045  46 EU'
+slug: 'B07DHYS7HG-es Geox U Goinway B Sandalias con Punta Abierta para Hombre...'
+tags: geox, sandalias
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41uJ-zcYpHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M63MPWF-es SINOES Hombre Zapatillas de Baloncesto Calzado Deportivo Al Aire Libre Moda High-Top Sneaker Antideslizante Zapatillas de Deporte Ligeros Zapatos para Correr Transpirable Lace Up'
+slug: 'B07M63MPWF-es SINOES Hombre Zapatillas de Baloncesto Calzado Deportivo...'
+tags: moda, zapatos
 actualPrice: 22.58 EUR
 currency: EUR
 price: 22.58

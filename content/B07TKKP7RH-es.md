@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/419ff5PO2wL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TKKP7RH-es Superdry OL Vintage Emb Crew Camiseta  Azul  Navy Fluro Space Dye T1z   M para Hombre'
+slug: 'B07TKKP7RH-es Superdry OL Vintage Emb Crew Camiseta Azul Navy Fluro...'
+tags: camiseta
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

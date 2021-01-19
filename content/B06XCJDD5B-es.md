@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41gmcTSbJ1L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XCJDD5B-es G-STAR RAW 3301 Deconstructed Skinny Vaqueros  Medium Indigo Aged 8968-6028  35W / 34L para Hombre'
+slug: 'B06XCJDD5B-es G-STAR RAW 3301 Deconstructed Skinny Vaqueros Medium...'
+tags: vaqueros
 actualPrice: 64.99 EUR
 currency: EUR
 price: 64.99

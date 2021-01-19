@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Ae+mfNiFL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DXW5K3L-es Under Armour Sport Style Wind Anorak Chaqueta  Hombre  Moss/Artillery Green/Black  M'
+slug: 'B07DXW5K3L-es Under Armour Sport Style Wind Anorak Chaqueta Hombre...'
+tags: chaqueta
 actualPrice: 12.92 EUR
 currency: EUR
 price: 12.92

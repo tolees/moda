@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ErZlbC5AL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WLDM8GC-es Zapatillas Casa Mujer Hombre Invierno Calido Zapatillas Cómodas Suave Flat Slipper Zapatillas de casa de Mujer Ultraligero cómodo y Antideslizante Zapatilla de Estar por casa para Mujer'
+slug: 'B07WLDM8GC-es Zapatillas Casa Mujer Hombre Invierno Calido Zapatillas...'
+tags: zapatilla
 actualPrice: 17.88 EUR
 currency: EUR
 price: 17.88

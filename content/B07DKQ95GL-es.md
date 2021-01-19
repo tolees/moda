@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/416Nr9LZnsL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DKQ95GL-es Dickies Farnham Chaqueta  Marrón  Medium  Talla del Fabricante:  para Hombre'
+slug: 'B07DKQ95GL-es Dickies Farnham Chaqueta Marrón Medium Talla del...'
+tags: chaqueta
 actualPrice: 39.77 EUR
 currency: EUR
 price: 39.77

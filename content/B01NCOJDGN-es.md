@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Hw6tpTp0L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NCOJDGN-es Gant The Original Slim V-Neck T-Shirt Camiseta  Blanco  White 110   Large para Hombre'
+slug: 'B01NCOJDGN-es Gant The Original Slim V-Neck T-Shirt Camiseta Blanco...'
+tags: camiseta
 actualPrice: 19.78 EUR
 currency: EUR
 price: 19.78

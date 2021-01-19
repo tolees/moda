@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31to4jqwneL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QD6JTLQ-es PUMA Nu-Tility Woven Jacket Chaqueta De Entrenamiento  Hombre  Black  S'
+slug: 'B07QD6JTLQ-es PUMA Nu-Tility Woven Jacket Chaqueta De Entrenamiento...'
+tags: chaqueta
 actualPrice: 16.7 EUR
 currency: EUR
 price: 16.7

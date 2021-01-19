@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31lt4C96OcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KPXTC9S-es adidas Essentials Linear Tk Camiseta de Tirantes  Mujer  Negro  Black/White   M'
+slug: 'B07KPXTC9S-es adidas Essentials Linear Tk Camiseta de Tirantes Mujer...'
+tags: camiseta
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

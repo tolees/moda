@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31RFZR7TmWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074WJF5Z8-es Marca Amazon - MERAKI Chaqueta de Merino Hombre Cuello Pico  Gris  Grey Marl   XL  Label: XL'
+slug: 'B074WJF5Z8-es Marca Amazon - MERAKI Chaqueta de Merino Hombre Cuello...'
+tags: chaqueta, meraki
 actualPrice: 9.89 EUR
 currency: EUR
 price: 9.89

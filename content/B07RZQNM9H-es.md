@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-ZROM9cBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RZQNM9H-es Lacoste - Jersey para hombre Galaxite Chine/Flour-stone Chine a83  XS'
+slug: 'B07RZQNM9H-es Lacoste - Jersey para hombre Galaxite Chine/Flour-stone...'
+tags: jersey
 actualPrice: 75.93 EUR
 currency: EUR
 price: 75.93

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31gI8jMdpNL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QPBL5WW-es New Look Bermuda Button Falda  Blanco  White 10   40  Talla del Fabricante: 12  para Mujer'
+slug: 'B07QPBL5WW-es New Look Bermuda Button Falda Blanco White 10 40 Talla del...'
+tags: falda
 actualPrice: 6.47 EUR
 currency: EUR
 price: 6.47

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31edczknjvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077Z5PZFV-es Montblanc 4810 Westside Bolso Bandolera  27 cm  Negro  Schwarz '
+slug: 'B077Z5PZFV-es Montblanc 4810 Westside Bolso Bandolera 27 cm Negro Schwarz'
+tags: bolso
 actualPrice: 271.36 EUR
 currency: EUR
 price: 271.36

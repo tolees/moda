@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31e+UfPg6SL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B010WE7KDS-es Crocs Classic U  Zuecos Unisex Adulto  Lemon  43/44 EU'
+slug: 'B010WE7KDS-es Crocs Classic U Zuecos Unisex Adulto Lemon 43/44 EU'
+tags: zuecos
 actualPrice: 20.19 EUR
 currency: EUR
 price: 20.19

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41TSWO13+cL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RC8KQKV-es Columbia Powder Lite Hooded Chaqueta De Plumón Con Capucha  Hombre  Rojo  Red Jasper/Collegiate Navy   Talla L'
+slug: 'B07RC8KQKV-es Columbia Powder Lite Hooded Chaqueta De Plumón Con Capucha...'
+tags: chaqueta
 actualPrice: 79.98 EUR
 currency: EUR
 price: 79.98

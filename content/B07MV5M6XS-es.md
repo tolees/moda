@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41r0SdCAq6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MV5M6XS-es Unisex Riverdale Impreso Simple Estudiantes de Gran Capacidad Estuche de lápices Cremallera Bolso de lápiz Estuche Plegable Bolsa de papelería Bolsa de Almacenamiento Adecuado para niños y niñas'
+slug: 'B07MV5M6XS-es Unisex Riverdale Impreso Simple Estudiantes de Gran...'
+tags: bolso
 actualPrice: 11.82 EUR
 currency: EUR
 price: 11.82

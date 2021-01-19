@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41oB2gtzyNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SQGX3DB-es Geox D SUZZIE B  Zapatillas para Mujer  Marfil  Black/Off White C9876   38 EU'
+slug: 'B07SQGX3DB-es Geox D SUZZIE B Zapatillas para Mujer Marfil Black/Off...'
+tags: geox
 actualPrice: 41.57 EUR
 currency: EUR
 price: 41.57

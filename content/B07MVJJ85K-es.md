@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41v-tAkSmcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MVJJ85K-es Kipling Eleva  Bolso con Bandolera para Mujer  Rosa  Metallic Rose   31x33x12 cm'
+slug: 'B07MVJJ85K-es Kipling Eleva Bolso con Bandolera para Mujer Rosa Metallic...'
+tags: bolso
 actualPrice: 53.4 EUR
 currency: EUR
 price: 53.4

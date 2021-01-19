@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31fAL0yiwBL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M9YFRZR-es Lacoste Sport Th3377 Camiseta  Negro  Noir/Enluminure 26n   Medium  Talla del Fabricante: 4  para Hombre'
+slug: 'B07M9YFRZR-es Lacoste Sport Th3377 Camiseta Negro Noir/Enluminure 26n...'
+tags: camiseta
 actualPrice: 22.49 EUR
 currency: EUR
 price: 22.49

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-lPrhCkdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MMLNJXQ-es Napapijri BAUNT FZH Sudadera  Azul  BLU Marine 176   S para Hombre'
+slug: 'B07MMLNJXQ-es Napapijri BAUNT FZH Sudadera Azul BLU Marine 176 S para...'
+tags: sudadera
 actualPrice: 51.67 EUR
 currency: EUR
 price: 51.67

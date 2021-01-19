@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31uI2biWAQL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N0HIKCV-es Pepe Jeans Regent Vaqueros  Negro  Denim H96   27W / 30L para Mujer'
+slug: 'B01N0HIKCV-es Pepe Jeans Regent Vaqueros Negro Denim H96 27W / 30L para...'
+tags: vaqueros
 actualPrice: 32.95 EUR
 currency: EUR
 price: 32.95

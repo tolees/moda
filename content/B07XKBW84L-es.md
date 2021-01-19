@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Dfwkuux3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XKBW84L-es Skechers GO Walk 5  Sandalias con Punta Abierta para Hombre  Azul Marino Sintético Negro Trim Nvbk  47 EU'
+slug: 'B07XKBW84L-es Skechers GO Walk 5 Sandalias con Punta Abierta para Hombre...'
+tags: sandalias
 actualPrice: 36.27 EUR
 currency: EUR
 price: 36.27

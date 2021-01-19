@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/417oa0nMRZL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LZ5F0FQ-es HÄRVIST HTSMA  Sudadera Para Mujer  Gris  S'
+slug: 'B01LZ5F0FQ-es HÄRVIST HTSMA Sudadera Para Mujer Gris S'
+tags: sudadera
 actualPrice: 9.75 EUR
 currency: EUR
 price: 9.75

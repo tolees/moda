@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41ogDPpbltL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0785FJL2C-es Under Armour - Camiseta de Tirantes para Mujer  Mujer  1325580-019  Charcoal Heather/Tonal  Large'
+slug: 'B0785FJL2C-es Under Armour - Camiseta de Tirantes para Mujer Mujer...'
+tags: camiseta
 actualPrice: 7.46 EUR
 currency: EUR
 price: 7.46

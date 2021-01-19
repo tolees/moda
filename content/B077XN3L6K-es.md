@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51x-A0hCLwL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077XN3L6K-es Under Armour Armour Fleece 1/2 Zip Camiseta De Manga Larga con Media Cremallera  Hombre  Azul  Academy/Black 408   L'
+slug: 'B077XN3L6K-es Under Armour Armour Fleece 1/2 Zip Camiseta De Manga Larga...'
+tags: camiseta
 actualPrice: 36.67 EUR
 currency: EUR
 price: 36.67

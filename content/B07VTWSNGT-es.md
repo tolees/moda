@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31hS3Dod9bL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VTWSNGT-es Levi s Levis Men Solid Basic Trunk 2P Bóxer  Negro  Jet Black 884   Medium  Pack de 2  para Hombre'
+slug: 'B07VTWSNGT-es Levi s Levis Men Solid Basic Trunk 2P Bóxer Negro Jet...'
+tags: bóxer
 actualPrice: 17.55 EUR
 currency: EUR
 price: 17.55

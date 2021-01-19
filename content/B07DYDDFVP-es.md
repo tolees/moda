@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/319Xg6cDMXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DYDDFVP-es Quiksilver Molokai Abyss  Zapatos de Playa y Piscina para Niños  Verde  Green/Black/Green Xgkg   28 EU'
+slug: 'B07DYDDFVP-es Quiksilver Molokai Abyss Zapatos de Playa y Piscina para...'
+tags: zapatos
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

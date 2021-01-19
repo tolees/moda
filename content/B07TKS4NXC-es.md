@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ySSirDQbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TKS4NXC-es Clarks Abigail Daisy  Sandalias con Tira Vertical para Mujer  Plateado  Metallic Multi Metallic Multi   36 EU'
+slug: 'B07TKS4NXC-es Clarks Abigail Daisy Sandalias con Tira Vertical para...'
+tags: sandalias
 actualPrice: 41.24 EUR
 currency: EUR
 price: 41.24

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31A%2BO%2Bf5xuL._SL200_
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M8B6K8M-es Wrangler Jacksville Vaqueros Corte de Bota  Azul  Black Walker 60d   34 W/ 34 L para Hombre'
+slug: 'B07M8B6K8M-es Wrangler Jacksville Vaqueros Corte de Bota Azul Black...'
+tags: vaqueros
 actualPrice: 42.48 EUR
 currency: EUR
 price: 42.48

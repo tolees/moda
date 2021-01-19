@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Wg81joeqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074W7MFSJ-es Marca Amazon - MERAKI Chaqueta de Algodón Mujer Cuello Redondo  Beige  Linen   42  Label: L'
+slug: 'B074W7MFSJ-es Marca Amazon - MERAKI Chaqueta de Algodón Mujer Cuello...'
+tags: chaqueta, meraki
 actualPrice: 7.2 EUR
 currency: EUR
 price: 7.2

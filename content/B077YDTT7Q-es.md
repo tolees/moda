@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/417rPJSHWdL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B077YDTT7Q-es HIKARO Sudadera con Cremallera y Capucha Mujer  Rosa  Coral   36  Talla del fabricante: X-Small '
+slug: 'B077YDTT7Q-es HIKARO Sudadera con Cremallera y Capucha Mujer Rosa Coral...'
+tags: sudadera
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

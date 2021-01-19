@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31ixpY9bwAL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B077YKHSR6-es Puma 516397 04 Chaleco  Mujer  Blanco  M'
+slug: 'B077YKHSR6-es Puma 516397 04 Chaleco Mujer Blanco M'
+tags: chaleco
 actualPrice: 14.63 EUR
 currency: EUR
 price: 14.63

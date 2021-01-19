@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ytaDEu+CL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MW1G7FX-es Reebok BW Basic Boxer pantalón Corto  Hombre  Negro  M'
+slug: 'B07MW1G7FX-es Reebok BW Basic Boxer pantalón Corto Hombre Negro M'
+tags: boxer, pantalón
 actualPrice: 16.71 EUR
 currency: EUR
 price: 16.71

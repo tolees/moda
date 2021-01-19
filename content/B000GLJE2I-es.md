@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31rRecY0N8L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B000GLJE2I-es Ray-Ban - Gafas de sol Aviador RB3025-W3275 Large Metal Aviator RB 3025 W3275  Silver  Silber '
+slug: 'B000GLJE2I-es Ray-Ban - Gafas de sol Aviador RB3025-W3275 Large Metal...'
+tags: gafas
 actualPrice: 64.5 EUR
 currency: EUR
 price: 64.5

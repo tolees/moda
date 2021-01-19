@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41spRn3vpUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SXT9YY7-es Geox D Sandal Vega C  Sandalias Punta Cerrada para Mujer  Azul  Denim C4008   35 EU'
+slug: 'B07SXT9YY7-es Geox D Sandal Vega C Sandalias Punta Cerrada para Mujer...'
+tags: geox, sandalias
 actualPrice: 19.6 EUR
 currency: EUR
 price: 19.6

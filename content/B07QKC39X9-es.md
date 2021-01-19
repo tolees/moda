@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/410zPZxr-AL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QKC39X9-es edc by Esprit 069cc2k006 Camiseta  Azul  Navy 400   Large para Hombre'
+slug: 'B07QKC39X9-es edc by Esprit 069cc2k006 Camiseta Azul Navy 400 Large para...'
+tags: camiseta
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

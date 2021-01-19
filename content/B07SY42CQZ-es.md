@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41nPTkUDh2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SY42CQZ-es Quiksilver Crystal Oasis  Zapatos de Playa y Piscina para Hombre  Negro  Black/Grey/Black Xksk   42 EU'
+slug: 'B07SY42CQZ-es Quiksilver Crystal Oasis Zapatos de Playa y Piscina para...'
+tags: zapatos
 actualPrice: 18.83 EUR
 currency: EUR
 price: 18.83

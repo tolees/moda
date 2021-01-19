@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51c-8cBKF0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BL4Y3TK-es ManLee Bolsa de lápiz Multifuncional Estuche de Lápices Bolsa de Lona Premium Bolsa de lápiz Organizador de papelería Bolso Maquillaje 3 Compartimentos Estuche de Gran Capacidad - Blanco'
+slug: 'B08BL4Y3TK-es ManLee Bolsa de lápiz Multifuncional Estuche de Lápices...'
+tags: bolso
 actualPrice: 12.29 EUR
 currency: EUR
 price: 12.29

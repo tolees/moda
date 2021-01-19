@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41rvjpK3vlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VGJ6N29-es JACK & JONES Jcowill Puffer Chaqueta  Gris  Light Grey Melange Light Grey Melange   XX-Large para Hombre'
+slug: 'B07VGJ6N29-es JACK & JONES Jcowill Puffer Chaqueta Gris Light Grey...'
+tags: chaqueta
 actualPrice: 15.43 EUR
 currency: EUR
 price: 15.43

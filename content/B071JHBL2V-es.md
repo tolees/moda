@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21L9B-mTRBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071JHBL2V-es Marca Amazon - find. Calcetines Hombre  Pack de 7  Blanco  Weiß   39-43.5 EU  Label: 6-9.5 UK'
+slug: 'B071JHBL2V-es Marca Amazon - find. Calcetines Hombre Pack de 7 Blanco...'
+tags: -, find.
 actualPrice: 13.21 EUR
 currency: EUR
 price: 13.21

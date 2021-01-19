@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41R9Zb0ROYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFYWN1J-es Geox D Nebula 4 X 4 B ABX A  Botas Chukka para Mujer  Azul  Navy C4002   38 EU'
+slug: 'B07LFYWN1J-es Geox D Nebula 4 X 4 B ABX A Botas Chukka para Mujer Azul...'
+tags: geox
 actualPrice: 23.41 EUR
 currency: EUR
 price: 23.41

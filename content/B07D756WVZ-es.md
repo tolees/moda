@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41i4Fp3KaSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D756WVZ-es Levi s 311 Shaping Skinny Vaqueros  New Ultra Black  28W / 30L para Mujer'
+slug: 'B07D756WVZ-es Levi s 311 Shaping Skinny Vaqueros New Ultra Black 28W /...'
+tags: vaqueros
 actualPrice: 49.5 EUR
 currency: EUR
 price: 49.5

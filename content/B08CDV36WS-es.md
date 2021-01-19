@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51hsO1Ni1QL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CDV36WS-es Zapatos de Seguridad Hombre Mujer Zapatillas de Trabajo con Punta de Acero Ligeros Calzado de Industrial y Deportivos Sneaker Negro Azul Gris Número 36-48 EU Negro 44'
+slug: 'B08CDV36WS-es Zapatos de Seguridad Hombre Mujer Zapatillas de Trabajo...'
+tags: zapatos
 actualPrice: 28.89 EUR
 currency: EUR
 price: 28.89

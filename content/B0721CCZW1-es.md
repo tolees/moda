@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41nuuOgCp8L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0721CCZW1-es find. Vestido Recto para Mujer   Rosa  38  Talla del Fabricante: Small '
+slug: 'B0721CCZW1-es find. Vestido Recto para Mujer Rosa 38 Talla del...'
+tags: vestido
 actualPrice: 13 EUR
 currency: EUR
 price: 13

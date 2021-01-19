@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41OsvXK5faL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BZHQ2K5-es Joma Equip. M/c  Hombre  Camiseta hispa Rojo-Blanco  2XL-3XL'
+slug: 'B07BZHQ2K5-es Joma Equip. M/c Hombre Camiseta hispa Rojo-Blanco 2XL-3XL'
+tags: camiseta
 actualPrice: 17.16 EUR
 currency: EUR
 price: 17.16

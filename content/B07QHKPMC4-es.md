@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ltXPq3QmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QHKPMC4-es Marca Amazon - AURIQUE Mallas de Deporte Capri de Tiro Alto Mujer  Rosa  Mauve Mist Marl   36  Label:XS'
+slug: 'B07QHKPMC4-es Marca Amazon - AURIQUE Mallas de Deporte Capri de Tiro...'
+tags: aurique
 actualPrice: 6.51 EUR
 currency: EUR
 price: 6.51

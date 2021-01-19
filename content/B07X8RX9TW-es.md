@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41iPb+J0s-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X8RX9TW-es Hawiton Camisón Lactancia Manga Larga Pijama Embarazada Algodón Ropa para Dormir Premamá Hospital Otoño Invierno'
+slug: 'B07X8RX9TW-es Hawiton Camisón Lactancia Manga Larga Pijama Embarazada...'
+tags: pijama
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

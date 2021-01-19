@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41QEjPqrZTL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NDPNS4K-es G-STAR RAW Starkon Graphic Loose Round Neck Camiseta  Azul  Imperial Blue 1305   Small para Hombre'
+slug: 'B07NDPNS4K-es G-STAR RAW Starkon Graphic Loose Round Neck Camiseta Azul...'
+tags: camiseta
 actualPrice: 13.96 EUR
 currency: EUR
 price: 13.96

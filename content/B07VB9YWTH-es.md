@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41DIrh9mz+L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VB9YWTH-es Esprit 099Ee1G009 Abrigo  Azul  Navy 5 404   XL para Mujer'
+slug: 'B07VB9YWTH-es Esprit 099Ee1G009 Abrigo Azul Navy 5 404 XL para Mujer'
+tags: abrigo
 actualPrice: 36.17 EUR
 currency: EUR
 price: 36.17

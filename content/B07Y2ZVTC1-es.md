@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51RimayvvCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y2ZVTC1-es BONANGEL Calcetines de algodón peinado para hombre  Calcetines Estampados Hombre  Hombres Ocasionales Calcetines Divertidos Impresos de Algodón  Calcetines de moda de negocios  6 Pares-Coffee '
+slug: 'B07Y2ZVTC1-es BONANGEL Calcetines de algodón peinado para hombre...'
+tags: moda
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

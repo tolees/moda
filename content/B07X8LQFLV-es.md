@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51yxo50-JEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X8LQFLV-es LIGE Relojes para Hombre Cronógrafo Impermeable Cuarzo Analógico Prueba Agua Vestido Moda Negocios Deportivos Relojes para Hombre'
+slug: 'B07X8LQFLV-es LIGE Relojes para Hombre Cronógrafo Impermeable Cuarzo...'
+tags: moda, vestido
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

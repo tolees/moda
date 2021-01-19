@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31+16wk7QVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W5P4YF9-es Mary White AF.INF.PCOGT Conjuntos de Pijama  Beige  Nude/Gris Ch Nude/Gris Ch   M para Mujer'
+slug: 'B07W5P4YF9-es Mary White AF.INF.PCOGT Conjuntos de Pijama Beige...'
+tags: pijama
 actualPrice: 6.05 EUR
 currency: EUR
 price: 6.05

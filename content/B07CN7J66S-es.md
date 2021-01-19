@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41tayBUPwsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CN7J66S-es Crocs Swiftwater Mesh Sandal W  Sandalias Deportivas para Mujer  Gris  Light Grey/Pearl White 01s   34/35 EU'
+slug: 'B07CN7J66S-es Crocs Swiftwater Mesh Sandal W Sandalias Deportivas para...'
+tags: sandalias
 actualPrice: 16.36 EUR
 currency: EUR
 price: 16.36

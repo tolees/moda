@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ehasV3y9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007B9MFJC-es crocs Crocband U  Zuecos Unisex Adulto  Gris  Charcoal-Ocean   36-37 EU'
+slug: 'B007B9MFJC-es crocs Crocband U Zuecos Unisex Adulto Gris Charcoal-Ocean...'
+tags: zuecos
 actualPrice: 33.25 EUR
 currency: EUR
 price: 33.25

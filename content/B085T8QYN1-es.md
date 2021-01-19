@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41cWL5EjYVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085T8QYN1-es Gafas de Natación  Profesional Anti Niebla Sin Fugas Protección UV Marco grande Gafas para Nadar con Libre Clip de Nariz Enchufe de oído Gorro de baño para Hombres Mujeres Adultos Niños de la Juventud'
+slug: 'B085T8QYN1-es Gafas de Natación Profesional Anti Niebla Sin Fugas...'
+tags: gafas
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

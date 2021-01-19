@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/516QC5tAX4L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B017INL3D4-es Happy Girls Chaqueta de Punto Niñas  talla fabricante 152  Rosa  pink 36 '
+slug: 'B017INL3D4-es Happy Girls Chaqueta de Punto Niñas talla fabricante 152...'
+tags: chaqueta
 actualPrice: 11.06 EUR
 currency: EUR
 price: 11.06

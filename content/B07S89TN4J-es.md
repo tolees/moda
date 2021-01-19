@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4156EKOIhWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S89TN4J-es Lee Rider Jacket Chaqueta Vaquera  Azul  Cerulean EI   Small para Hombre'
+slug: 'B07S89TN4J-es Lee Rider Jacket Chaqueta Vaquera Azul Cerulean EI Small...'
+tags: chaqueta
 actualPrice: 32.62 EUR
 currency: EUR
 price: 32.62

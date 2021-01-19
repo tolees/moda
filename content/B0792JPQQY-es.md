@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31bQ6XwnOzL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0792JPQQY-es Geox JR Plie  E  Zapatos de Cordones Oxford para Niñas  Negro  Black C9999   40 EU'
+slug: 'B0792JPQQY-es Geox JR Plie E Zapatos de Cordones Oxford para Niñas Negro...'
+tags: geox, zapatos
 actualPrice: 12.27 EUR
 currency: EUR
 price: 12.27

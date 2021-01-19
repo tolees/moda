@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31bHlNsNx7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SBVK2XP-es Crocs Classic Clog  Zuecos Unisex Adulto  Naranja  Cantaloupe 801   38/39 EU'
+slug: 'B07SBVK2XP-es Crocs Classic Clog Zuecos Unisex Adulto Naranja Cantaloupe...'
+tags: zuecos
 actualPrice: 21.69 EUR
 currency: EUR
 price: 21.69

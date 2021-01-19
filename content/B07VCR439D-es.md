@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61B07nBhBOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VCR439D-es Marcadores textiles  RATEL 24 colores Marcadores de tela y textiles Sin sangrado No tóxico marcador de tela Permanente y lavable Ideal para decorar camisetas  textiles  zapatos  firmas de graduación'
+slug: 'B07VCR439D-es Marcadores textiles RATEL 24 colores Marcadores de tela y...'
+tags: zapatos
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

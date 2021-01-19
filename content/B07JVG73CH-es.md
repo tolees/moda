@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/512+wgjiaSL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JVG73CH-es Relojes Hombre Relojes de Pulsera Cronógrafo Impermeable Negro Deportes Diseño Cara Grande Luminoso Reloj Azul Moda Fecha de Goma Analógica de Cuarzo'
+slug: 'B07JVG73CH-es Relojes Hombre Relojes de Pulsera Cronógrafo Impermeable...'
+tags: moda
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

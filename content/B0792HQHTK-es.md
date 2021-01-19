@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31lEr2lBoNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0792HQHTK-es Geox U Saymore D  Mocasines para Hombre  Negro  Black C9999   44 EU'
+slug: 'B0792HQHTK-es Geox U Saymore D Mocasines para Hombre Negro Black C9999...'
+tags: geox
 actualPrice: 58.96 EUR
 currency: EUR
 price: 58.96

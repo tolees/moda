@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41sGJVPnMUL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NDMZWMD-es G-STAR RAW Graphic 13 Round Neck Camiseta  Multicolor  Dk Shamrock/Asfalt Ao A695   Small para Hombre'
+slug: 'B07NDMZWMD-es G-STAR RAW Graphic 13 Round Neck Camiseta Multicolor Dk...'
+tags: camiseta
 actualPrice: 19.97 EUR
 currency: EUR
 price: 19.97

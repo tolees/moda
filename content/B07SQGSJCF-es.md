@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41y4AZYWW3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SQGSJCF-es Carteras Hombre Pequeña Tarjetero Pequeña Regalos Originales para Hombre Llavero Mosqueton Multiherramienta Navaja Multiusos Cuchillo Kit Supervivencia Clip Pinza Billetera Senderismo Camping Acampar'
+slug: 'B07SQGSJCF-es Carteras Hombre Pequeña Tarjetero Pequeña Regalos...'
+tags: billetera
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Aqw65DX0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FKTKBFN-es Kickers Bigbazar  Sandalias para Bebés  Gris  Gris Bleu 123   19 EU'
+slug: 'B07FKTKBFN-es Kickers Bigbazar Sandalias para Bebés Gris Gris Bleu 123...'
+tags: sandalias
 actualPrice: 47.2 EUR
 currency: EUR
 price: 47.2

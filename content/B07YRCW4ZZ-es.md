@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41sIU6RMeLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YRCW4ZZ-es Marca Amazon - find. Vestido Corto Cruzado de Algodón Mujer  Rojo  Tangerine   46  Label: XXL'
+slug: 'B07YRCW4ZZ-es Marca Amazon - find. Vestido Corto Cruzado de Algodón...'
+tags: vestido, -, find.
 actualPrice: 8.64 EUR
 currency: EUR
 price: 8.64

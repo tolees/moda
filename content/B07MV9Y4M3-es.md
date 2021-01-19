@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41F5ZHWC10L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MV9Y4M3-es Kipling Gleam  Bolso de Tocador para Mujer  Multicolor  Music Print   18.5x11x8 centimeters  B x H x T '
+slug: 'B07MV9Y4M3-es Kipling Gleam Bolso de Tocador para Mujer Multicolor Music...'
+tags: bolso
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

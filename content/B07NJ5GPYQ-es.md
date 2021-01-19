@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/417kbITTQrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NJ5GPYQ-es Springfield 4.1.Liuc.Mickey Leopardo Camiseta  Multicolor  Multicolor 42   Medium  Tamaño del Fabricante: M  para Mujer'
+slug: 'B07NJ5GPYQ-es Springfield 4.1.Liuc.Mickey Leopardo Camiseta Multicolor...'
+tags: camiseta
 actualPrice: 10.06 EUR
 currency: EUR
 price: 10.06

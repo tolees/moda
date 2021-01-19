@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41bykK66loL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01ERPH4L6-es Joma SHT.S0M01 - Falda de tenis para mujer  color Coral  talla Small'
+slug: 'B01ERPH4L6-es Joma SHT.S0M01 - Falda de tenis para mujer color Coral...'
+tags: falda
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

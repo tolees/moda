@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ZXvjtrAoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VHDMG7V-es HKT by Hackett Hkt 3 SS tee Camiseta  Azul  5mgaqua Sky 5mg   X-Small para Hombre'
+slug: 'B07VHDMG7V-es HKT by Hackett Hkt 3 SS tee Camiseta Azul 5mgaqua Sky 5mg...'
+tags: camiseta
 actualPrice: 16.23 EUR
 currency: EUR
 price: 16.23

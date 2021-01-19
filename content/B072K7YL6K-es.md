@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31aJamq9PUL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B072K7YL6K-es find. Botines Años 60 Efecto Ante con Cremallera Mujer  Multicolor  Rust/red   36 EU'
+slug: 'B072K7YL6K-es find. Botines Años 60 Efecto Ante con Cremallera Mujer...'
+tags: botines
 actualPrice: 20.7 EUR
 currency: EUR
 price: 20.7

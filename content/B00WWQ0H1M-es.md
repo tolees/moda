@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31JGj0R2JWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00WWQ0H1M-es Jack & Jones Jjprparma Shirt L/s Noos Camisa  Weiß  White/Super Slim   S para Hombre'
+slug: 'B00WWQ0H1M-es Jack & Jones Jjprparma Shirt L/s Noos Camisa Weiß...'
+tags: camisa
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

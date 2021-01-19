@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31DrYlyo1yL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HQP97M2-es Speedo Fastskin Elite Mirror Gafas de natación  Unisex Adulto  Blanco/Rojo  Talla única'
+slug: 'B07HQP97M2-es Speedo Fastskin Elite Mirror Gafas de natación Unisex...'
+tags: gafas
 actualPrice: 37.97 EUR
 currency: EUR
 price: 37.97

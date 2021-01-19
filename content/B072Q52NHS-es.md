@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41p0b2j4RIL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072Q52NHS-es Levi s Original Sherpa Trucker Chaqueta  Azul  Strangeways 0004   Large para Mujer'
+slug: 'B072Q52NHS-es Levi s Original Sherpa Trucker Chaqueta Azul Strangeways...'
+tags: chaqueta
 actualPrice: 102.82 EUR
 currency: EUR
 price: 102.82

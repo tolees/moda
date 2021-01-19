@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31DGriJ5pcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VNBGDJ5-es Marca Amazon - find. Vaqueros Ceñidos con Bajo Elástico Hombre  Blanco  White   30W / 30L  Label: 30W / 30L'
+slug: 'B07VNBGDJ5-es Marca Amazon - find. Vaqueros Ceñidos con Bajo Elástico...'
+tags: vaqueros, -, find.
 actualPrice: 7.52 EUR
 currency: EUR
 price: 7.52

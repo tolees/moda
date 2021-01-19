@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31XjvtBd4UL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00EAG8OC6-es SEAC Biogel Antiempañante para máscaras y Gafas  100% antivaho orgánico  Totalmente biológico  SIN Alcohol  Unisex  Transparente  30 ml'
+slug: 'B00EAG8OC6-es SEAC Biogel Antiempañante para máscaras y Gafas 100%...'
+tags: gafas
 actualPrice: 5.49 EUR
 currency: EUR
 price: 5.49

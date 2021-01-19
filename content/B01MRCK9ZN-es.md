@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41WnKg-ZT-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MRCK9ZN-es Nike Court Borough Low  PSV   Zapatos de Baloncesto para Niñas  Blanco  White/White 100   28 1/2 EU'
+slug: 'B01MRCK9ZN-es Nike Court Borough Low PSV Zapatos de Baloncesto para...'
+tags: zapatos
 actualPrice: 28.0 EUR
 currency: EUR
 price: 28.0

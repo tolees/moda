@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31CQqpWD-BL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PDFJFCL-es Sokaly 13-15.6 Pulgadas Mujer Hombre Bolso de Bandolera/Maletín/Mensajero Funda para Laptop Macbook Air iPad Portátil Suave Material Avanzado De Moda y Negocios  14 Pulgadas  Caqui '
+slug: 'B07PDFJFCL-es Sokaly 13-15.6 Pulgadas Mujer Hombre Bolso de...'
+tags: bolso, moda
 actualPrice: 21.59 EUR
 currency: EUR
 price: 21.59

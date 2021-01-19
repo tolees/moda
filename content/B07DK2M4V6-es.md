@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-SlKn7DmL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DK2M4V6-es Geox J KOMMODOR Boy A  Zapatillas para Niños  Blue  Navy/Lime C0749   32 EU'
+slug: 'B07DK2M4V6-es Geox J KOMMODOR Boy A Zapatillas para Niños Blue Navy/Lime...'
+tags: geox
 actualPrice: 38.17 EUR
 currency: EUR
 price: 38.17

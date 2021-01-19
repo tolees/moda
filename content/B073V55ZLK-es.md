@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41TuNXCaukL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B073V55ZLK-es OPUS Seconda Camiseta de Manga Larga  Rosa  Pink Melange 4069   38 para Mujer'
+slug: 'B073V55ZLK-es OPUS Seconda Camiseta de Manga Larga Rosa Pink Melange...'
+tags: camiseta
 actualPrice: 13.15 EUR
 currency: EUR
 price: 13.15

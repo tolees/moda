@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51HPxScaBFL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D74PJCZ-es Svpo Batería recargable eléctrica Guantes térmicos de invierno con calefacción aislante guantes térmicos artríticos para hombres y mujeres  XL '
+slug: 'B07D74PJCZ-es Svpo Batería recargable eléctrica Guantes térmicos de...'
+tags: guantes
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

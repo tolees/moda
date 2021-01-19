@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41S097vM1DL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NAIEG87-es KRISP 6252-GRY-20  Vestido Corto Patinadora Vuelo Fruncido Busto  Gris  6252   48'
+slug: 'B01NAIEG87-es KRISP 6252-GRY-20 Vestido Corto Patinadora Vuelo Fruncido...'
+tags: vestido
 actualPrice: 12.49 EUR
 currency: EUR
 price: 12.49

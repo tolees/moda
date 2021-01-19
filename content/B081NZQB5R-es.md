@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31zj6-Yof6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081NZQB5R-es Marca Amazon - AURIQUE Shorts de Deporte con Banda Lateral Mujer  Multicolor  Black & Navy   38  Label:S'
+slug: 'B081NZQB5R-es Marca Amazon - AURIQUE Shorts de Deporte con Banda Lateral...'
+tags: aurique
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

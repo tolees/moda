@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51iqL7M9K9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0749PRF1Y-es Jane Klain283 819 - Sandalias con Punta Abierta Mujer  Color Negro  Talla 37'
+slug: 'B0749PRF1Y-es Jane Klain283 819 - Sandalias con Punta Abierta Mujer...'
+tags: sandalias
 actualPrice: 15.72 EUR
 currency: EUR
 price: 15.72

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41etptGWI8L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TP9Y5JP-es Qkiss Colgante de Diamantes de imitación de Plata Redondo - Charm  Collar Pulsera Accesorios - Joyas Colgantes de Bricolaje  Simples  únicas'
+slug: 'B07TP9Y5JP-es Qkiss Colgante de Diamantes de imitación de Plata Redondo...'
+tags: collar
 actualPrice: 5.39 EUR
 currency: EUR
 price: 5.39

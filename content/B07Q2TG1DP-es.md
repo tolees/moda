@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Z7c34z7IL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q2TG1DP-es TTYAOVO Chicas Unicornio Fancy Vestido Princesa Flor Desfile de Niños Vestidos sin Mangas Volantes Vestido de Fiesta Talla 3-4 Años Púrpura'
+slug: 'B07Q2TG1DP-es TTYAOVO Chicas Unicornio Fancy Vestido Princesa Flor...'
+tags: vestido
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

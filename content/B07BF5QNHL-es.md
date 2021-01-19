@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41CHZXAkdDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BF5QNHL-es Camisas Hombros Descubiertos Mujer Casual Colores Lisos T Shirt Manga Corta Sin Tirantes Camiseta Cuello Barco Niña Moda Suelta Blusas Verano Talla Grande Túnica Top Deporte Pull-Over Sweatshirt'
+slug: 'B07BF5QNHL-es Camisas Hombros Descubiertos Mujer Casual Colores Lisos T...'
+tags: camiseta, moda
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

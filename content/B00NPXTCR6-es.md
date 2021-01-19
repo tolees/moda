@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41nmdMFEjGL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00NPXTCR6-es Tommy Hilfiger Tailored Core Twill Classic Shirt  Camisa para Hombre  Azul  410   41'
+slug: 'B00NPXTCR6-es Tommy Hilfiger Tailored Core Twill Classic Shirt Camisa...'
+tags: camisa
 actualPrice: 51.73 EUR
 currency: EUR
 price: 51.73

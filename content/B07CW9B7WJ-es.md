@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41V1zLEF-7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CW9B7WJ-es Socluer Bikini Tankini de Mujer Bikini Push up de Playa de Verano de Dos Piezas Traje de baño'
+slug: 'B07CW9B7WJ-es Socluer Bikini Tankini de Mujer Bikini Push up de Playa de...'
+tags: bikini
 actualPrice: 16.88 EUR
 currency: EUR
 price: 16.88

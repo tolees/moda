@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41YKBjhdWaL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RWKYK93-es BILLABONG Alves Jacket Chaqueta Deportiva  Hombre  Azul  Dark Blue 709   One Size  Tamaño del Fabricante: L '
+slug: 'B07RWKYK93-es BILLABONG Alves Jacket Chaqueta Deportiva Hombre Azul Dark...'
+tags: chaqueta
 actualPrice: 42.79 EUR
 currency: EUR
 price: 42.79

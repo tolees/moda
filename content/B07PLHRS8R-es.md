@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-Txt2tYOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PLHRS8R-es BOTRE 13-15.6 Pulgadas Bolso de Mujer Bandolera Ordenadores Multifuncional Maletín Hombre Funda para Portátil Macbook Air iPad Moda y Negocios  15.6 Pulgadas  Rosa '
+slug: 'B07PLHRS8R-es BOTRE 13-15.6 Pulgadas Bolso de Mujer Bandolera...'
+tags: bolso, moda
 actualPrice: 24.64 EUR
 currency: EUR
 price: 24.64

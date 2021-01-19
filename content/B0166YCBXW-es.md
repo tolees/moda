@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31YG6aZnSvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0166YCBXW-es Levi s 711 Skinny Vaqueros  Negro  Blacks   W26/L34 para Mujer'
+slug: 'B0166YCBXW-es Levi s 711 Skinny Vaqueros Negro Blacks W26/L34 para Mujer'
+tags: vaqueros
 actualPrice: 33.21 EUR
 currency: EUR
 price: 33.21

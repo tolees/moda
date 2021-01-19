@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41MK-VeVRML._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M29SLQ6-es adidas Tiro 17 Training Top Youth Camiseta  niños  Azul  Maruni/Energi/Blanco   128'
+slug: 'B01M29SLQ6-es adidas Tiro 17 Training Top Youth Camiseta niños Azul...'
+tags: camiseta
 actualPrice: 10.75 EUR
 currency: EUR
 price: 10.75

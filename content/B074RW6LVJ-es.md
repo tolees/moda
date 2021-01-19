@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41qT7mTjlpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074RW6LVJ-es Lee Scarlett High Vaqueros  Azul  Blue Indigo Hael   25W/33L para Mujer'
+slug: 'B074RW6LVJ-es Lee Scarlett High Vaqueros Azul Blue Indigo Hael 25W/33L...'
+tags: vaqueros
 actualPrice: 60.39 EUR
 currency: EUR
 price: 60.39

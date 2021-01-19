@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41g+enWgMhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00TZWEIWK-es Lumaland Horma de Zapatos de alta calidad para hombres y mujeres en madera de cedro con doble resorte Unisex talla 40/41'
+slug: 'B00TZWEIWK-es Lumaland Horma de Zapatos de alta calidad para hombres y...'
+tags: zapatos
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

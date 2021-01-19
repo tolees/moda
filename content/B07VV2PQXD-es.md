@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41SdBv3VlQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VV2PQXD-es Jack & Jones JORRAFAEL Sweat Hood Sudadera con Capucha  Gris  Light Grey Melange Fit:Slim - JJ   L para Hombre'
+slug: 'B07VV2PQXD-es Jack & Jones JORRAFAEL Sweat Hood Sudadera con Capucha...'
+tags: sudadera
 actualPrice: 9.85 EUR
 currency: EUR
 price: 9.85

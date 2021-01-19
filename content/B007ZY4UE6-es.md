@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31swTw2FIdL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B007ZY4UE6-es Levi s 511 Slim Fit Vaqueros  Rain Shower  32W / 32L para Hombre'
+slug: 'B007ZY4UE6-es Levi s 511 Slim Fit Vaqueros Rain Shower 32W / 32L para...'
+tags: vaqueros
 actualPrice: 69.95 EUR
 currency: EUR
 price: 69.95

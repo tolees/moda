@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41u6G6gNZ3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0897RM2FV-es qingqingR Mujeres Niñas Bolso pequeño Bolso de Hombro Transparente Crossbody Summer Beach Purse'
+slug: 'B0897RM2FV-es qingqingR Mujeres Niñas Bolso pequeño Bolso de Hombro...'
+tags: bolso
 actualPrice: 13.38 EUR
 currency: EUR
 price: 13.38

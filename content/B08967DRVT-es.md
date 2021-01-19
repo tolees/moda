@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31+eYdnhC8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08967DRVT-es UMUSTY 3D One punch man Funda de lápiz con cremallera unisex Estudiantes Harajuku Bolso de bolígrafo Útiles escolares Papelería de oficina Bolsas de almacenamiento  2 '
+slug: 'B08967DRVT-es UMUSTY 3D One punch man Funda de lápiz con cremallera...'
+tags: bolso
 actualPrice: 5.89 EUR
 currency: EUR
 price: 5.89

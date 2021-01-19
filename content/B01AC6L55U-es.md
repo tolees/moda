@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Gb2SLUvNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01AC6L55U-es Nike LS Park Vi JSY Camiseta de Manga Larga  Hombre  Rosa  Vivid Pink/Black   L'
+slug: 'B01AC6L55U-es Nike LS Park Vi JSY Camiseta de Manga Larga Hombre Rosa...'
+tags: camiseta
 actualPrice: 17.08 EUR
 currency: EUR
 price: 17.08

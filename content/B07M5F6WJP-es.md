@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41GrrJgwPQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M5F6WJP-es Wrangler Larston Vaqueros  Ice Lake  29W / 34L para Hombre'
+slug: 'B07M5F6WJP-es Wrangler Larston Vaqueros Ice Lake 29W / 34L para Hombre'
+tags: vaqueros
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

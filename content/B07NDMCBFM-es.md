@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41bUTvq21yL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NDMCBFM-es Tommy Hilfiger Modern T Shirt Bra Sujetador para Camiseta  Azul  Navy Blazer 416   K  Talla del Fabricante: C70  para Mujer'
+slug: 'B07NDMCBFM-es Tommy Hilfiger Modern T Shirt Bra Sujetador para Camiseta...'
+tags: camiseta
 actualPrice: 22.61 EUR
 currency: EUR
 price: 22.61

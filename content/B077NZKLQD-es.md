@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41vl-+GrWAL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077NZKLQD-es Lee Marion Vaqueros  Ninety Nine  28W / 35L para Mujer'
+slug: 'B077NZKLQD-es Lee Marion Vaqueros Ninety Nine 28W / 35L para Mujer'
+tags: vaqueros
 actualPrice: 38.19 EUR
 currency: EUR
 price: 38.19

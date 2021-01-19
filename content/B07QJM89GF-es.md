@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41FLyrUCzsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QJM89GF-es Puma Men s MCFC Stadium INT SS Jersey  Black/Georgia Peach  Large'
+slug: 'B07QJM89GF-es Puma Men s MCFC Stadium INT SS Jersey Black/Georgia Peach...'
+tags: jersey
 actualPrice: 11.97 EUR
 currency: EUR
 price: 11.97

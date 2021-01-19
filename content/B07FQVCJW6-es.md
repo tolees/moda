@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41gR2nokdML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FQVCJW6-es Clarks Oakland Lace  Zapatos de Cordones Derby para Hombre  Marrón  Tan Leather -   42 EU'
+slug: 'B07FQVCJW6-es Clarks Oakland Lace Zapatos de Cordones Derby para Hombre...'
+tags: zapatos
 actualPrice: 66.0 EUR
 currency: EUR
 price: 66.0

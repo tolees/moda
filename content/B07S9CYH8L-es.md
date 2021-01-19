@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41vG2Z7HHfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S9CYH8L-es Lee Relaxed Fit tee Camiseta  Negro  Black 01   Medium para Mujer'
+slug: 'B07S9CYH8L-es Lee Relaxed Fit tee Camiseta Negro Black 01 Medium para Mujer'
+tags: camiseta
 actualPrice: 9.26 EUR
 currency: EUR
 price: 9.26

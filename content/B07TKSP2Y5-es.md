@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/319SVQhJMyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TKSP2Y5-es Clarks Abigail Daisy  Sandalias con Tira Vertical para Mujer  Azul  Blush Leather Blush Leather   37.5 EU'
+slug: 'B07TKSP2Y5-es Clarks Abigail Daisy Sandalias con Tira Vertical para...'
+tags: sandalias
 actualPrice: 21.4 EUR
 currency: EUR
 price: 21.4

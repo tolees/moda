@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41S3qqhaxxL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B073JK3XJ2-es find. D7832 vestido fiesta mujer  Negro  Schwarz   48  Talla del Fabricante: 3X-Large '
+slug: 'B073JK3XJ2-es find. D7832 vestido fiesta mujer Negro Schwarz 48 Talla...'
+tags: vestido
 actualPrice: 11.4 EUR
 currency: EUR
 price: 11.4

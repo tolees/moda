@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41wq0456lNL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01AADHRU2-es Nike Club Logo2 Pantalón  Mujer  Multicolor  Dk Grey Heather/White/White   M'
+slug: 'B01AADHRU2-es Nike Club Logo2 Pantalón Mujer Multicolor Dk Grey...'
+tags: pantalón
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

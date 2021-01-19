@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31GO0gspZeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NZBLMLM-es Mujer Vestido Años 50 Mangas 3/4 con Volantes para Cóctel Fiesta L CL011020-1'
+slug: 'B07NZBLMLM-es Mujer Vestido Años 50 Mangas 3/4 con Volantes para Cóctel...'
+tags: vestido
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

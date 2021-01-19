@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41UvRajDotL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NBCOZFG-es Pepe Jeans Spike Vaqueros  Azul  Denim S55   W40/L30 para Hombre'
+slug: 'B01NBCOZFG-es Pepe Jeans Spike Vaqueros Azul Denim S55 W40/L30 para Hombre'
+tags: vaqueros
 actualPrice: 47.26 EUR
 currency: EUR
 price: 47.26

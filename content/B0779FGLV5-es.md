@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41oga5TAp3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0779FGLV5-es Pepe Jeans AMERSHAM PM504034 Camiseta  Gris  Middle Grey 925   Small para Hombre'
+slug: 'B0779FGLV5-es Pepe Jeans AMERSHAM PM504034 Camiseta Gris Middle Grey 925...'
+tags: camiseta
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

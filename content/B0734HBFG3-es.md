@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41XDJ%2BeOJyL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B0734HBFG3-es Lakerom Zapatos Mocasines para Hombres Zapatos sin Cordones Zapatos de Cuero Casuales LR0881-Brown2-40'
+slug: 'B0734HBFG3-es Lakerom Zapatos Mocasines para Hombres Zapatos sin...'
+tags: zapatos
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

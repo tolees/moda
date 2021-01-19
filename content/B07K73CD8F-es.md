@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4168RueFZYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K73CD8F-es Levi s On Tour Camiseta Deportiva de Tirantes  Negro  Red Hsmk Tank Black 0023   Large para Mujer'
+slug: 'B07K73CD8F-es Levi s On Tour Camiseta Deportiva de Tirantes Negro Red...'
+tags: camiseta
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

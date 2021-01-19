@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zJRKeq6ML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SSC8ZKV-es Jack & Jones Jprlogo Twist Shirt L/s STS Camisa  Gris  Light Grey Melange Slim Fit   X-Large para Hombre'
+slug: 'B07SSC8ZKV-es Jack & Jones Jprlogo Twist Shirt L/s STS Camisa Gris Light...'
+tags: camisa
 actualPrice: 13.37 EUR
 currency: EUR
 price: 13.37

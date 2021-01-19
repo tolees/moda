@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41TEwH0xQ8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JHWRQRV-es PUMA Cup Training Jersey Core Maillot  Hombre  Black/Cyber Yellow  M'
+slug: 'B07JHWRQRV-es PUMA Cup Training Jersey Core Maillot Hombre Black/Cyber...'
+tags: jersey
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

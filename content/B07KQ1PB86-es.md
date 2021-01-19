@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31hHbOIbqzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KQ1PB86-es FitFlop Lottie Glitzy  Sandalias con Punta Abierta para Mujer  Negro  Black 001   39 EU'
+slug: 'B07KQ1PB86-es FitFlop Lottie Glitzy Sandalias con Punta Abierta para...'
+tags: sandalias
 actualPrice: 44.91 EUR
 currency: EUR
 price: 44.91

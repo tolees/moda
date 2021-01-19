@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41gLLMlOaRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KMN3CQ1-es adidas Essentials Chelsea 7 Inch 3 Bandas Pantalón Corto  Hombre  Negro  Black/White   M'
+slug: 'B07KMN3CQ1-es adidas Essentials Chelsea 7 Inch 3 Bandas Pantalón Corto...'
+tags: pantalón
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

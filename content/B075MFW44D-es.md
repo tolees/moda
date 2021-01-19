@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31jssny2oUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075MFW44D-es Marca Amazon - MERAKI Vaqueros Ceñidos de Tiro Alto Mujer  Azul  Light Vintage   29W / 32L  Label: 29W / 32L'
+slug: 'B075MFW44D-es Marca Amazon - MERAKI Vaqueros Ceñidos de Tiro Alto Mujer...'
+tags: meraki, vaqueros
 actualPrice: 17.5 EUR
 currency: EUR
 price: 17.5

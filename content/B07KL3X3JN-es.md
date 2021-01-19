@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41R61O5WVgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KL3X3JN-es adidas Mh Plain Camiseta Polo  Hombre  Medium Grey Heather  S'
+slug: 'B07KL3X3JN-es adidas Mh Plain Camiseta Polo Hombre Medium Grey Heather S'
+tags: camiseta
 actualPrice: 22.94 EUR
 currency: EUR
 price: 22.94

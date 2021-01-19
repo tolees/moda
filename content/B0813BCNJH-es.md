@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4190i3fz1VL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0813BCNJH-es ZIGJOY GOT7 Sudadera Gruesa y Aterciopelada con Cremallera Sudadera con Capucha KPOP para fanáticos S2 Armada L'
+slug: 'B0813BCNJH-es ZIGJOY GOT7 Sudadera Gruesa y Aterciopelada con Cremallera...'
+tags: sudadera
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

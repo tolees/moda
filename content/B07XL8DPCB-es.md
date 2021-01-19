@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XL8DPCB-es Geographical Norway Parka Mujer Baby Ass A Azul Marino 3'
+tags: parka
 actualPrice: 65.0 EUR
 currency: EUR
 price: 65.0

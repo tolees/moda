@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41JjcjcnMmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K1G72DH-es Adidas Tiro 19 Polyester Jacke Chaqueta Deportiva  Hombre  Dark Blue/White  L'
+slug: 'B07K1G72DH-es Adidas Tiro 19 Polyester Jacke Chaqueta Deportiva Hombre...'
+tags: chaqueta
 actualPrice: 28.48 EUR
 currency: EUR
 price: 28.48

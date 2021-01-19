@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41aGSS8Cg3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TSF2B4K-es Skechers D lites 2.0  Sandalias de Punta Descubierta para Mujer  Rojo  Red Eva Red   37 EU'
+slug: 'B07TSF2B4K-es Skechers D lites 2.0 Sandalias de Punta Descubierta para...'
+tags: sandalias
 actualPrice: 20.21 EUR
 currency: EUR
 price: 20.21

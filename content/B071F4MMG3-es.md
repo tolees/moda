@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41SeorcsYPL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B071F4MMG3-es find. Sudadera Bicolor y Manga Ranglan para Hombre  Gris  Grey   Large'
+slug: 'B071F4MMG3-es find. Sudadera Bicolor y Manga Ranglan para Hombre Gris...'
+tags: sudadera
 actualPrice: 7.5 EUR
 currency: EUR
 price: 7.5

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41xhwnDHKYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0825PY4MR-es Roxy Printed Beach Classics - Conjunto De Bikini Tiki Tri para Mujer Conjunto De Bikini Tiki Tri  Mujer  Mood Indigo Flying Flowers S  M'
+slug: 'B0825PY4MR-es Roxy Printed Beach Classics - Conjunto De Bikini Tiki Tri...'
+tags: bikini
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41cNovwQcWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S3WGGR5-es Levi s Down Dehon Pkbl Puffer Chaqueta  Multicolor  Apricot 0002   Small para Hombre'
+slug: 'B07S3WGGR5-es Levi s Down Dehon Pkbl Puffer Chaqueta Multicolor Apricot...'
+tags: chaqueta
 actualPrice: 38.95 EUR
 currency: EUR
 price: 38.95

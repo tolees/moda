@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41PMRAhFYiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VDL7DY1-es Esprit 099ee1d003s Falda  Negro  Black 001   Small para Mujer'
+slug: 'B07VDL7DY1-es Esprit 099ee1d003s Falda Negro Black 001 Small para Mujer'
+tags: falda
 actualPrice: 8.12 EUR
 currency: EUR
 price: 8.12

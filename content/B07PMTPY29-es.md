@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41GNRVSQnVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PMTPY29-es Under Armour UA Knockout Tank  Camiseta de Tirantes  Camiseta Deportiva para Mujer Mujer  Negro  XS'
+slug: 'B07PMTPY29-es Under Armour UA Knockout Tank Camiseta de Tirantes...'
+tags: camiseta
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

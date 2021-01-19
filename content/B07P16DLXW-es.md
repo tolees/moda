@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41lglVZr1jL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P16DLXW-es Superdry Downhill Racer Box Quilt Jkt Chaqueta  Azul  True Navy M99   Large para Hombre'
+slug: 'B07P16DLXW-es Superdry Downhill Racer Box Quilt Jkt Chaqueta Azul True...'
+tags: chaqueta
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

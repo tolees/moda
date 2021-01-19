@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41wvDsUZWZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XDHRRSY-es Timberland Killington  Zapatillas Altas para Hombre  Azul  Black Iris Nubuck 19   45 EU'
+slug: 'B06XDHRRSY-es Timberland Killington Zapatillas Altas para Hombre Azul...'
+tags: timberland
 actualPrice: 71.67 EUR
 currency: EUR
 price: 71.67

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51sy6tO9KuL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PPPC5LL-es MTNG Kanda  Bolso bandolera para Mujer  Marrón  Pull Camel/Gris   7x15x19 cm  W x H x L '
+slug: 'B07PPPC5LL-es MTNG Kanda Bolso bandolera para Mujer Marrón Pull...'
+tags: bolso
 actualPrice: 7.84 EUR
 currency: EUR
 price: 7.84

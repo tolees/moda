@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41xXfRemm2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081TT8YM1-es adidas M BB T Camiseta de Manga Corta  Hombre  Scarlet/Black  S'
+slug: 'B081TT8YM1-es adidas M BB T Camiseta de Manga Corta Hombre Scarlet/Black S'
+tags: camiseta
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

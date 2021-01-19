@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31b1Qlh3-wL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D9NT83P-es Calvin Klein Sonnenbrille Ck18502S 1 Gafas de sol  Negro  Schwarz   58.0 Unisex Adulto'
+slug: 'B07D9NT83P-es Calvin Klein Sonnenbrille Ck18502S 1 Gafas de sol Negro...'
+tags: gafas
 actualPrice: 32.84 EUR
 currency: EUR
 price: 32.84

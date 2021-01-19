@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zZiuhTaVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0728CNXVY-es Crocs Classic U  Zuecos con Correa Trasera Unisex Adulto  Slate Grey  38/39 EU'
+slug: 'B0728CNXVY-es Crocs Classic U Zuecos con Correa Trasera Unisex Adulto...'
+tags: zuecos
 actualPrice: 29.01 EUR
 currency: EUR
 price: 29.01

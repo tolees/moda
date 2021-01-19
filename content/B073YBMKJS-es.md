@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41njG4bqoVL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B073YBMKJS-es Esprit 107ee1k036 Camisa Manga Larga   Off White 110   XX-Large para Mujer'
+slug: 'B073YBMKJS-es Esprit 107ee1k036 Camisa Manga Larga Off White 110 XX-...'
+tags: camisa
 actualPrice: 10.33 EUR
 currency: EUR
 price: 10.33

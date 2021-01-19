@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/511Eozyga8L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MXVQQN9-es Desigual Bag Tekila Sunrise Loverty  Bolso Plegable para Mujer  Marrón  Cognac   24 x 16 cm  B x H x T '
+slug: 'B07MXVQQN9-es Desigual Bag Tekila Sunrise Loverty Bolso Plegable para...'
+tags: bolso
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

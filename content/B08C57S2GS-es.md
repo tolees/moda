@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41LAwr3ipYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08C57S2GS-es Guantes de Invierno Calientes a Prueba del Viento Guantes para el Clima Frío de Pantalla Táctil con Diseño Antideslizante  S '
+slug: 'B08C57S2GS-es Guantes de Invierno Calientes a Prueba del Viento Guantes...'
+tags: guantes
 actualPrice: 13.98 EUR
 currency: EUR
 price: 13.98

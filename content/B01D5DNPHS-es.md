@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/416RMAqkUIL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01D5DNPHS-es Compactor Taupe Home Zapatos Bolsa de Almacenamiento  Microfibra  Pardo y Blanco  76 x 60 x 15 cm  Non-Woven 75G | Printing by Machine  Topo  No No Applicable'
+slug: 'B01D5DNPHS-es Compactor Taupe Home Zapatos Bolsa de Almacenamiento...'
+tags: zapatos
 actualPrice: 2.97 EUR
 currency: EUR
 price: 2.97

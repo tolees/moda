@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ebl2mQkNL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MYOB454-es PUMA Popcat  Zapatos de Playa y Piscina Unisex Adulto  White Black  37 EU'
+slug: 'B01MYOB454-es PUMA Popcat Zapatos de Playa y Piscina Unisex Adulto White...'
+tags: zapatos
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31KFQu8TO8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CPCN7WK-es Crocs Baya Clog  Zuecos Unisex Niños  Rosa  Neon Magenta 6l0   24/25 EU'
+slug: 'B07CPCN7WK-es Crocs Baya Clog Zuecos Unisex Niños Rosa Neon Magenta 6l0...'
+tags: zuecos
 actualPrice: 20.75 EUR
 currency: EUR
 price: 20.75

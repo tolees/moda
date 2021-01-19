@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41YJJO2VYxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081B74DXL-es Columbia Triple Canyon Camisa de Manga Corta  Hombre  Rojo  Mountain Red Mini Tonal Plaid   S'
+slug: 'B081B74DXL-es Columbia Triple Canyon Camisa de Manga Corta Hombre Rojo...'
+tags: camisa
 actualPrice: 11.83 EUR
 currency: EUR
 price: 11.83

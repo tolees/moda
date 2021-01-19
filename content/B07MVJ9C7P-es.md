@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51dCBR8x61L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MVJ9C7P-es Kipling Creativity S  Monedero para Mujer  Multicolor  Music Print   14.5x9.5x5 cm'
+slug: 'B07MVJ9C7P-es Kipling Creativity S Monedero para Mujer Multicolor Music...'
+tags: monedero
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

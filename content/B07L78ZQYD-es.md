@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41N2RzcsSAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L78ZQYD-es NIKE W Nk Dry SL Top Camiseta sin Mangas  Mujer  Black/ White   M'
+slug: 'B07L78ZQYD-es NIKE W Nk Dry SL Top Camiseta sin Mangas Mujer Black/ White M'
+tags: camiseta
 actualPrice: 14.77 EUR
 currency: EUR
 price: 14.77

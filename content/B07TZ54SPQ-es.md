@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31gBJnCWq5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TZ54SPQ-es Women s Secret Black & White Multilicense Mbw MF Igloo PJ Conjuntos de Pijama  Marfil  Marfil 97   Large  Tamaño del Fabricante: L  para Mujer'
+slug: 'B07TZ54SPQ-es Women s Secret Black & White Multilicense Mbw MF Igloo PJ...'
+tags: pijama
 actualPrice: 14.98 EUR
 currency: EUR
 price: 14.98

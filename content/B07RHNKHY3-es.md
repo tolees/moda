@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41HBMGi3auL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RHNKHY3-es Wantdo Chaqueta Corta de Cuero de Imitación para Mujer Chaqueta del Motor de PU con Capucha Desmontable'
+slug: 'B07RHNKHY3-es Wantdo Chaqueta Corta de Cuero de Imitación para Mujer...'
+tags: chaqueta
 actualPrice: 46.28 EUR
 currency: EUR
 price: 46.28

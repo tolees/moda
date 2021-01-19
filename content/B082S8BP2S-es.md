@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31JSIxFLrEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082S8BP2S-es YIMI Gafas de Sol Hombre Deportivas Polarizadas Fotocromaticas Para Hombre y Mujer Conducción Ciclismo Moto Pesca Esqui Golf Running Deporte Al Aire Libre Rectangulares Protección 100% UVA UVB'
+slug: 'B082S8BP2S-es YIMI Gafas de Sol Hombre Deportivas Polarizadas...'
+tags: gafas
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31xWTBi0n+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CN36JFM-es Crocs Santa Cruz Canvas Flip Men  Zapatos de Playa y Piscina para Hombre  Marrón  Espresso/Khaki 22y   M12  46/47'
+slug: 'B07CN36JFM-es Crocs Santa Cruz Canvas Flip Men Zapatos de Playa y...'
+tags: zapatos
 actualPrice: 7.89 EUR
 currency: EUR
 price: 7.89

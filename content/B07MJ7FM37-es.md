@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31etDLEINYL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MJ7FM37-es Clarks Oliver Lace  Zapatos de Cordones Derby para Hombre  Negro Black Leather  44 EU'
+slug: 'B07MJ7FM37-es Clarks Oliver Lace Zapatos de Cordones Derby para Hombre...'
+tags: zapatos
 actualPrice: 39.68 EUR
 currency: EUR
 price: 39.68

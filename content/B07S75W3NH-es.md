@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31LZYnfRDAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S75W3NH-es Crocs Classic  Zuecos Unisex Adulto  Pink  41/42 EU'
+slug: 'B07S75W3NH-es Crocs Classic Zuecos Unisex Adulto Pink 41/42 EU'
+tags: zuecos
 actualPrice: 26.24 EUR
 currency: EUR
 price: 26.24

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41kwfhZGWSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZQJ6WW-es Pepe Jeans Nastia Sudadera   Berry Red 280   X-Small para Mujer'
+slug: 'B07MZQJ6WW-es Pepe Jeans Nastia Sudadera Berry Red 280 X-Small para Mujer'
+tags: sudadera
 actualPrice: 34.87 EUR
 currency: EUR
 price: 34.87

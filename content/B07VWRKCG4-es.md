@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41PwrGURQTL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VWRKCG4-es AIMTOP 2 Pack Leggins Termicos Mujer  Leggins Mujer Invierno Terciopelo Elástico Leggings Mujer Invierno  Mallas Termicas Mujer Pantalon Termico  Leggings Negros + Púrpura'
+slug: 'B07VWRKCG4-es AIMTOP 2 Pack Leggins Termicos Mujer Leggins Mujer...'
+tags: leggins
 actualPrice: 9.35 EUR
 currency: EUR
 price: 9.35

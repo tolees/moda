@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41s5cEhQ2dL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TC5K5JL-es Vero Moda Vmsimone Aw19 Hoody Short Jacket Boos Chaqueta  Rojo Chinese Red  36  Talla del Fabricante: X-Small  para Mujer'
+slug: 'B07TC5K5JL-es Vero Moda Vmsimone Aw19 Hoody Short Jacket Boos Chaqueta...'
+tags: chaqueta, moda
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

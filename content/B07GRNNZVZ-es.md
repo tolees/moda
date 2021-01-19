@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41vuRqD18ML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GRNNZVZ-es PUMA ESS Small Logo Camiseta  Hombre  Medium Gray Heather  XL'
+slug: 'B07GRNNZVZ-es PUMA ESS Small Logo Camiseta Hombre Medium Gray Heather XL'
+tags: camiseta
 actualPrice: 14.44 EUR
 currency: EUR
 price: 14.44

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41sm-4YcKgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0735CJH5F-es Napapijri Rainforest Pocket  Chaqueta para Hombre  Gris  Dark Grey Solid 198   Large'
+slug: 'B0735CJH5F-es Napapijri Rainforest Pocket Chaqueta para Hombre Gris Dark...'
+tags: chaqueta
 actualPrice: 99.95 EUR
 currency: EUR
 price: 99.95

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41vJ6F6qKBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TYFG7CS-es BOSS T-Shirt RN 24 Camiseta  Gris  Medium Grey 32   Small para Hombre'
+slug: 'B07TYFG7CS-es BOSS T-Shirt RN 24 Camiseta Gris Medium Grey 32 Small para...'
+tags: camiseta
 actualPrice: 13.62 EUR
 currency: EUR
 price: 13.62

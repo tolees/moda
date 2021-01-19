@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41OodpZWdJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077ZVNJ5F-es Baoblaze 10pcs Tirador de Cremallera Zipper Pulls Reemplazo Zip Tensioner Cable para Ropa Mochila Chaqueta - Negro'
+slug: 'B077ZVNJ5F-es Baoblaze 10pcs Tirador de Cremallera Zipper Pulls...'
+tags: chaqueta
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

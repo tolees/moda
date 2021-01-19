@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31CQ3eGFvNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DH4GFK9-es HUGO Alisters Chaqueta de Traje  Negro  Black 001   46  Talla del Fabricante: 44  para Hombre'
+slug: 'B07DH4GFK9-es HUGO Alisters Chaqueta de Traje Negro Black 001 46 Talla...'
+tags: chaqueta
 actualPrice: 130.86 EUR
 currency: EUR
 price: 130.86

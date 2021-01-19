@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41mOM67fVGL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P2BD9RK-es Superdry Resurrection L/s Shirt Camisa  Azul  Durango Mid Blue T6t   42  Talla del Fabricante: Large  para Hombre'
+slug: 'B07P2BD9RK-es Superdry Resurrection L/s Shirt Camisa Azul Durango Mid...'
+tags: camisa
 actualPrice: 21.84 EUR
 currency: EUR
 price: 21.84

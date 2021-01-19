@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41g7anZxnoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MMDVWHV-es Original Penguin Sailing Abrigo  Azul  Dark Sapphire 413   Large para Hombre'
+slug: 'B07MMDVWHV-es Original Penguin Sailing Abrigo Azul Dark Sapphire 413...'
+tags: abrigo
 actualPrice: 20.96 EUR
 currency: EUR
 price: 20.96

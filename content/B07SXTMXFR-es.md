@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31e42W4t-pL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SXTMXFR-es Geox D ANNYTAH D  Bailarinas para Mujer  Beige  Lt Grey C1010   42 EU'
+slug: 'B07SXTMXFR-es Geox D ANNYTAH D Bailarinas para Mujer Beige Lt Grey C1010...'
+tags: geox
 actualPrice: 42.58 EUR
 currency: EUR
 price: 42.58

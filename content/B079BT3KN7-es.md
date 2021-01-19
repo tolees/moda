@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61HZcq15i7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079BT3KN7-es Funda MacBook Pro 13"/MacBook Air  2018  Sleeve Antracita - Bolso de Portátil CASEZA Milan para MacBook Air  2018 /Pro 13 Dell Surface Pro y modelos de 11-12" Funda Ordenador a partir de PET Reciclado'
+slug: 'B079BT3KN7-es Funda MacBook Pro 13"/MacBook Air 2018 Sleeve Antracita -...'
+tags: bolso
 actualPrice: 17.95 EUR
 currency: EUR
 price: 17.95

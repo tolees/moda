@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41W3K1M1MAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JL54M4R-es adidas Tabela 18 JSY Camiseta de Manga Corta  Hombre  Black/White  XS'
+slug: 'B07JL54M4R-es adidas Tabela 18 JSY Camiseta de Manga Corta Hombre...'
+tags: camiseta
 actualPrice: 16.94 EUR
 currency: EUR
 price: 16.94

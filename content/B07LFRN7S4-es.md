@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31D4gNmc6aL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFRN7S4-es Geox U Adrien A  Zapatos de Cordones Derby para Hombre  Negro  Black C9999   41 EU'
+slug: 'B07LFRN7S4-es Geox U Adrien A Zapatos de Cordones Derby para Hombre...'
+tags: geox, zapatos
 actualPrice: 33.62 EUR
 currency: EUR
 price: 33.62

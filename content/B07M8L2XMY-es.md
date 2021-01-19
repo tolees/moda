@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/417LV-q1HVL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M8L2XMY-es Lee Hoody Sudadera  Verde  DK Bottle Green BB   Small para Mujer'
+slug: 'B07M8L2XMY-es Lee Hoody Sudadera Verde DK Bottle Green BB Small para Mujer'
+tags: sudadera
 actualPrice: 21.77 EUR
 currency: EUR
 price: 21.77

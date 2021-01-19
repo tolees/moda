@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31iqBHWPrKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MRKM4V7-es United Colors of Benetton Basic Bb2 Camiseta de Tirantes  Blanco  Bianco Panna 901   56/62  Talla del Fabricante: 56  para Bebés'
+slug: 'B07MRKM4V7-es United Colors of Benetton Basic Bb2 Camiseta de Tirantes...'
+tags: camiseta
 actualPrice: 3.79 EUR
 currency: EUR
 price: 3.79

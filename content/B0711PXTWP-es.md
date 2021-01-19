@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51avUwSM8EL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0711PXTWP-es EULAGPRE Zapatillas de Lino Zapatos de Piso Zapatillas de Cinturón Cruzado Silent Sweat Sandalias de Mujer de Verano'
+slug: 'B0711PXTWP-es EULAGPRE Zapatillas de Lino Zapatos de Piso Zapatillas de...'
+tags: sandalias, zapatos
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

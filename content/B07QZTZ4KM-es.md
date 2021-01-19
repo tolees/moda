@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41DfFocMUnL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QZTZ4KM-es Zapatos de Seguridad Hombres  LM-121 Zapatillas de Trabajo con Punta de Acero Ultra Liviano Reflectivo Transpirable 43.5 EU Triple Negro '
+slug: 'B07QZTZ4KM-es Zapatos de Seguridad Hombres LM-121 Zapatillas de Trabajo...'
+tags: zapatos
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

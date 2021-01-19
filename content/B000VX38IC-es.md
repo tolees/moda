@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/315ryYreNpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000VX38IC-es Timberland 6-Inch Premium Boot  Botas para Hombre  Negro  Black Nubuck   42 EU'
+slug: 'B000VX38IC-es Timberland 6-Inch Premium Boot Botas para Hombre Negro...'
+tags: timberland
 actualPrice: 156.95 EUR
 currency: EUR
 price: 156.95

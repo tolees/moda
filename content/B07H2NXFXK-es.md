@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41xCcLy7ttL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H2NXFXK-es GANT D1. Triangle Texture Fullzip Chaqueta Punto  Gris  Dk Charcoal Melange 97   Small para Hombre'
+slug: 'B07H2NXFXK-es GANT D1. Triangle Texture Fullzip Chaqueta Punto Gris Dk...'
+tags: chaqueta
 actualPrice: 80.0 EUR
 currency: EUR
 price: 80.0

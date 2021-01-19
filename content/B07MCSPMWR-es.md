@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31nlFLz9ryL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MCSPMWR-es Napapijri Rainforest Winter 1 Chaqueta  Verde  Green Forest 2 Ge3   L para Hombre'
+slug: 'B07MCSPMWR-es Napapijri Rainforest Winter 1 Chaqueta Verde Green Forest...'
+tags: chaqueta
 actualPrice: 75.61 EUR
 currency: EUR
 price: 75.61

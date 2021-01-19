@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41J8HHxvqSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N6RLQFX-es find. Sandalias de Cuero Trenzado Mujer  Varios Colores  Tan / Cuoio   38 EU'
+slug: 'B01N6RLQFX-es find. Sandalias de Cuero Trenzado Mujer Varios Colores Tan...'
+tags: sandalias
 actualPrice: 7.9 EUR
 currency: EUR
 price: 7.9

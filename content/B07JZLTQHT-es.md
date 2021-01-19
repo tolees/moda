@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/518iwkMhdGL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JZLTQHT-es Tommy Hilfiger U Pop Over Chaqueta  Naranja  Russet Orange 800   92 para Bebés'
+slug: 'B07JZLTQHT-es Tommy Hilfiger U Pop Over Chaqueta Naranja Russet Orange...'
+tags: chaqueta
 actualPrice: 13.57 EUR
 currency: EUR
 price: 13.57

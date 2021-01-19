@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31An5GvpRNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S75WSD2-es Crocs Classic II Flip  Chanclas Unisex Adulto  Negro  Black 001   48/49 EU'
+slug: 'B07S75WSD2-es Crocs Classic II Flip Chanclas Unisex Adulto Negro Black...'
+tags: chanclas
 actualPrice: 7.5 EUR
 currency: EUR
 price: 7.5

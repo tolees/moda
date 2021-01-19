@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31FuVEWvNZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G73WSGX-es Aibrou Pijamas Mujer Algodón Invierno 2 Piezas Ropa de Casa Dormir Casual Camiseta y Pantalones Largo Conjuntos Suave y Comodo S-XXL'
+slug: 'B07G73WSGX-es Aibrou Pijamas Mujer Algodón Invierno 2 Piezas Ropa de...'
+tags: camiseta
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

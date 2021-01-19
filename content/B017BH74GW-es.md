@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41DcRMqwUtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B017BH74GW-es Bezzee-Pro Gafas de Natación para Adultos - Lentes Espejo - Hermético - Ajustable - Gafas de Natación para Adultos con Visión De 180 Grados - Lo Mejor para Hombres  Mujeres'
+slug: 'B017BH74GW-es Bezzee-Pro Gafas de Natación para Adultos - Lentes Espejo...'
+tags: gafas
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

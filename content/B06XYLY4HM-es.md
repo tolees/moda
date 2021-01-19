@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41Pzl5lB6AL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XYLY4HM-es find. 53669  Chaqueta Para Mujer  Azul  Mid Blue   X-Large'
+slug: 'B06XYLY4HM-es find. 53669 Chaqueta Para Mujer Azul Mid Blue X-Large'
+tags: chaqueta
 actualPrice: 15 EUR
 currency: EUR
 price: 15

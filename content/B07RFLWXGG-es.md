@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31P0OGcPhhL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RFLWXGG-es Tommy Hilfiger Stretch Slim Fit Long Sleeve tee Camiseta Deporte  Negro  Black Bds   Medium para Hombre'
+slug: 'B07RFLWXGG-es Tommy Hilfiger Stretch Slim Fit Long Sleeve tee Camiseta...'
+tags: camiseta
 actualPrice: 35.82 EUR
 currency: EUR
 price: 35.82

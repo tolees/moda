@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31bM0tmmdAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N6VNZD8-es Tommy Hilfiger Signature Hilfiger Leather Shoe  Zapatos de Cordones Derby para Hombre  Black 990  43 EU'
+slug: 'B07N6VNZD8-es Tommy Hilfiger Signature Hilfiger Leather Shoe Zapatos de...'
+tags: zapatos
 actualPrice: 73.13 EUR
 currency: EUR
 price: 73.13

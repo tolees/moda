@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31h6ZGb4xRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FPBMXGR-es Calvin Klein Core Institutional Logo Sweatshirt Sudadera  Gris  Grey Heather 039   Small para Hombre'
+slug: 'B07FPBMXGR-es Calvin Klein Core Institutional Logo Sweatshirt Sudadera...'
+tags: sudadera
 actualPrice: 27.34 EUR
 currency: EUR
 price: 27.34

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41xaUHwaMEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TJ9Q2WN-es Levi s Sudadera  Azul  Logo Colorblock Crew Dress Blues/White 0000   Small para Hombre'
+slug: 'B07TJ9Q2WN-es Levi s Sudadera Azul Logo Colorblock Crew Dress...'
+tags: sudadera
 actualPrice: 38.5 EUR
 currency: EUR
 price: 38.5

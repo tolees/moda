@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Ku7XTMl3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0836QDJJ3-es Slipper Casual Flip Flop Sandal Zapatillas para Mujer Zapatos Mujer Ladies Slip On Sliders/Purple + 38 39'
+slug: 'B0836QDJJ3-es Slipper Casual Flip Flop Sandal Zapatillas para Mujer...'
+tags: zapatos
 actualPrice: 9.77 EUR
 currency: EUR
 price: 9.77

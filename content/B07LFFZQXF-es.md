@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41-nAn4jBhL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFFZQXF-es Levi s Thermore Padded Parka  Verde  Olive Night 2 0005   Large para Hombre'
+slug: 'B07LFFZQXF-es Levi s Thermore Padded Parka Verde Olive Night 2 0005...'
+tags: parka
 actualPrice: 84.95 EUR
 currency: EUR
 price: 84.95

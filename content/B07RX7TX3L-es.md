@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/312gG5V8pLL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RX7TX3L-es Levi s Vneck Camiseta  Azul  Sea Captain Blue 0005   Medium para Mujer'
+slug: 'B07RX7TX3L-es Levi s Vneck Camiseta Azul Sea Captain Blue 0005 Medium...'
+tags: camiseta
 actualPrice: 12.5 EUR
 currency: EUR
 price: 12.5

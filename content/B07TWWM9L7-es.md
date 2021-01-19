@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41j3Cp3MFiL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TWWM9L7-es New Look Maisie Fitted Puffer  Abrigo Mujer  Gris  Dark Grey 3   36  Talla fabricante: 8 '
+slug: 'B07TWWM9L7-es New Look Maisie Fitted Puffer Abrigo Mujer Gris Dark Grey...'
+tags: abrigo
 actualPrice: 28.96 EUR
 currency: EUR
 price: 28.96

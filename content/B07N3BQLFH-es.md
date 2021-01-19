@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41AQg7X0kRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N3BQLFH-es Desigual Coat SIGRUN Abrigo  blanco  Blanco 1000   40 para Mujer'
+slug: 'B07N3BQLFH-es Desigual Coat SIGRUN Abrigo blanco Blanco 1000 40 para Mujer'
+tags: abrigo
 actualPrice: 53.97 EUR
 currency: EUR
 price: 53.97

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51G4rEm81DL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SZH2Y73-es Tikea Bolsa Geométrica Luminosa Holográfica para Mujer  Cartera de Mano de Moda en Cuero Sintético  Clutch Diamante con Correa de Cadena Efecto Brillante Multicolor'
+slug: 'B07SZH2Y73-es Tikea Bolsa Geométrica Luminosa Holográfica para Mujer...'
+tags: moda
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

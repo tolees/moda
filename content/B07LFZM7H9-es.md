@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/313pi7j4GEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFZM7H9-es Geox U CLINTFORDB ABX A  Botas Clasicas para Hombre  Marrón  Brown C0013   46 EU'
+slug: 'B07LFZM7H9-es Geox U CLINTFORDB ABX A Botas Clasicas para Hombre Marrón...'
+tags: geox
 actualPrice: 34.78 EUR
 currency: EUR
 price: 34.78

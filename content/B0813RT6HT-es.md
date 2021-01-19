@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41uDGmxG+NL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0813RT6HT-es adidas Fef Pre Jkt Chaqueta de Deporte  Hombre  Collegiate Navy  S'
+slug: 'B0813RT6HT-es adidas Fef Pre Jkt Chaqueta de Deporte Hombre Collegiate...'
+tags: chaqueta
 actualPrice: 41.46 EUR
 currency: EUR
 price: 41.46

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41KBRsBfOPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01EOX01WU-es Helly Hansen Coastal 2 Parka Chaqueta Impermeable  Cortaviento y Transpirable para el Uso Diario  Hombre  Azul  Marino   XL'
+slug: 'B01EOX01WU-es Helly Hansen Coastal 2 Parka Chaqueta Impermeable...'
+tags: chaqueta, parka
 actualPrice: 148.99 EUR
 currency: EUR
 price: 148.99

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41jmF1g9YKL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RF18N7Q-es G-STAR RAW Graphic 8 Sudadera  Negro  Dk Black 6484   Medium para Hombre'
+slug: 'B07RF18N7Q-es G-STAR RAW Graphic 8 Sudadera Negro Dk Black 6484 Medium...'
+tags: sudadera
 actualPrice: 39.97 EUR
 currency: EUR
 price: 39.97

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Attlm30hL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FDGRLT8-es Superdry Orange Label Vntge Emb S/S tee Camiseta  Azul  Eclipse Navy 98T   Large para Hombre'
+slug: 'B07FDGRLT8-es Superdry Orange Label Vntge Emb S/S tee Camiseta Azul...'
+tags: camiseta
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

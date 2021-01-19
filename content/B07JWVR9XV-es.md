@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41QsNvj13gL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JWVR9XV-es PUMA Cup Training Jersey Core Maillot  Hombre  Black/Asphalt  L'
+slug: 'B07JWVR9XV-es PUMA Cup Training Jersey Core Maillot Hombre Black/Asphalt L'
+tags: jersey
 actualPrice: 16.94 EUR
 currency: EUR
 price: 16.94

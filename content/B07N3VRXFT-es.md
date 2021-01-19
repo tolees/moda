@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51bnomoduBL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N3VRXFT-es Desigual Pullover LOS Angeles Jersey  Azul  Ibiza 5106   M para Mujer'
+slug: 'B07N3VRXFT-es Desigual Pullover LOS Angeles Jersey Azul Ibiza 5106 M...'
+tags: jersey
 actualPrice: 34.17 EUR
 currency: EUR
 price: 34.17

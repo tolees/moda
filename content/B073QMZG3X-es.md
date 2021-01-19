@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416oUNWQsOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073QMZG3X-es Levi s Plus Size Pl tee Camiseta  Blanco  Plus Batwing White 0000   X-Large para Mujer'
+slug: 'B073QMZG3X-es Levi s Plus Size Pl tee Camiseta Blanco Plus Batwing White...'
+tags: camiseta
 actualPrice: 16.15 EUR
 currency: EUR
 price: 16.15

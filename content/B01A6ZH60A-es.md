@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4168ouY50AL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01A6ZH60A-es Columbia Cascade Explorer Pantalón Convertible  Hombre  Gris  Grill   W32/L32'
+slug: 'B01A6ZH60A-es Columbia Cascade Explorer Pantalón Convertible Hombre Gris...'
+tags: pantalón
 actualPrice: 43.49 EUR
 currency: EUR
 price: 43.49

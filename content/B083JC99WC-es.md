@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41YCuw+3zIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083JC99WC-es Zapatos de Agua Escarpines Hombres Mujer Niños Verano Zapatillas de Aqua Ligeros de Secado Rápido Playa Piscina Buceo Snorkel Surf Vela Mar Río Yoga Calzado de Natación'
+slug: 'B083JC99WC-es Zapatos de Agua Escarpines Hombres Mujer Niños Verano...'
+tags: zapatos
 actualPrice: 15.49 EUR
 currency: EUR
 price: 15.49

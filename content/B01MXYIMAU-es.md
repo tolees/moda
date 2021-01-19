@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31P9MLV-eGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MXYIMAU-es find. Regular fit linen shirt Camisa  Blanco  White   52'
+slug: 'B01MXYIMAU-es find. Regular fit linen shirt Camisa Blanco White 52'
+tags: camisa
 actualPrice: 22.91 EUR
 currency: EUR
 price: 22.91

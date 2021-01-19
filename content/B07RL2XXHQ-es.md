@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41v0SeIzT5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RL2XXHQ-es Tommy Hilfiger Cazadora Chaqueta Bomber Essential con Parche Deportiva y Elegante  Azul  Black Iris   M para Hombre'
+slug: 'B07RL2XXHQ-es Tommy Hilfiger Cazadora Chaqueta Bomber Essential con...'
+tags: chaqueta
 actualPrice: 90.12 EUR
 currency: EUR
 price: 90.12

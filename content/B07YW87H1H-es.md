@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/419+zuwksHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YW87H1H-es SKYSPER Ropa Interior Térmica Hombre Conjuntos Térmicos Camiseta Térmica Manga Larga Pantalones Largos de Compresión Hombre Deportes Termo Invierno Otoño para Running Esquí Montaña Ciclismo Fitness'
+slug: 'B07YW87H1H-es SKYSPER Ropa Interior Térmica Hombre Conjuntos Térmicos...'
+tags: camiseta
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

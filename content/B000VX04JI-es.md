@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/315ryYreNpL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000VX04JI-es Timberland 6 Inch Premium Waterproof  Botas para Hombre  Negro  Black Nubuck   49 EU'
+slug: 'B000VX04JI-es Timberland 6 Inch Premium Waterproof Botas para Hombre...'
+tags: timberland
 actualPrice: 158.08 EUR
 currency: EUR
 price: 158.08

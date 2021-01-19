@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41PRhq0YimL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PRCF5W4-es Kipling New S  Bolso Shopper para Mujer  Verde  Seagrass   42x27x13 centimeters  B x H x T '
+slug: 'B07PRCF5W4-es Kipling New S Bolso Shopper para Mujer Verde Seagrass...'
+tags: bolso
 actualPrice: 28.91 EUR
 currency: EUR
 price: 28.91

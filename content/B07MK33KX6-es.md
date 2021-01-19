@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31uuq2c6J3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MK33KX6-es Marca Amazon - find. Pantalón Ancho Mujer  Negro  Black   28W / 34L  Label: 28W / 34L'
+slug: 'B07MK33KX6-es Marca Amazon - find. Pantalón Ancho Mujer Negro Black 28W...'
+tags: pantalón, -, find.
 actualPrice: 7.08 EUR
 currency: EUR
 price: 7.08

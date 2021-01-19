@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/313ER0Tm2JL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FQVH6SZ-es Clarks Edward Plain  Zapatos de Cordones Derby para Hombre  Marrón  British Tan Leather-   44 EU'
+slug: 'B07FQVH6SZ-es Clarks Edward Plain Zapatos de Cordones Derby para Hombre...'
+tags: zapatos
 actualPrice: 24.41 EUR
 currency: EUR
 price: 24.41

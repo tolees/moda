@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31G54ayJs3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L3LVD4K-es GRACE KARIN Mujer Vestido Elegante Años 50 Vestido de Mujeres Rockabilly Clásico L CL010823-3'
+slug: 'B07L3LVD4K-es GRACE KARIN Mujer Vestido Elegante Años 50 Vestido de...'
+tags: vestido
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

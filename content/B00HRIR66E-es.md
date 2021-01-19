@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/515A83y61NL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00HRIR66E-es Timberland - Patucos y casquillo para bebés  Rosa  18.5'
+slug: 'B00HRIR66E-es Timberland - Patucos y casquillo para bebés Rosa 18.5'
+tags: timberland
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

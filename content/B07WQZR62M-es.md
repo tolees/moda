@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Y5mvfpbRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WQZR62M-es Souke Sports - Pantalones Ciclismo Hombre Invierno Pantalones Largos Térmico Pantalón Chándal para Fitness  Camping  Escalada  Correr y Esquiar'
+slug: 'B07WQZR62M-es Souke Sports - Pantalones Ciclismo Hombre Invierno...'
+tags: pantalón
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

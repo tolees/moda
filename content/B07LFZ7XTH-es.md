@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BYh9I-VXL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFZ7XTH-es Geox U Terence C  Botas Clasicas para Hombre  Negro  Black C9999   46 EU'
+slug: 'B07LFZ7XTH-es Geox U Terence C Botas Clasicas para Hombre Negro Black...'
+tags: geox
 actualPrice: 62.51 EUR
 currency: EUR
 price: 62.51

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31mMoJjYUQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HMRT99Q-es The North Face T92TX5 Camiseta De Manga Corta Simple Dome  Hombre  Negro  TNF Black   M'
+slug: 'B01HMRT99Q-es The North Face T92TX5 Camiseta De Manga Corta Simple Dome...'
+tags: camiseta
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

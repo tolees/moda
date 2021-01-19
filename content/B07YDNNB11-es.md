@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/317yTpPaSeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YDNNB11-es Maglev Essentials BDX011M5 Camiseta  Multicolor  Negro  Blanco  Navy   S  Pack de 5'
+slug: 'B07YDNNB11-es Maglev Essentials BDX011M5 Camiseta Multicolor Negro...'
+tags: camiseta
 actualPrice: 9.41 EUR
 currency: EUR
 price: 9.41

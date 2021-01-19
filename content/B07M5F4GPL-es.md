@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414mq3PU6nL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M5F4GPL-es Wrangler SS Pocket tee Camiseta  Amarillo  Mineral Yellow Y02   Small para Hombre'
+slug: 'B07M5F4GPL-es Wrangler SS Pocket tee Camiseta Amarillo Mineral Yellow...'
+tags: camiseta
 actualPrice: 8.82 EUR
 currency: EUR
 price: 8.82

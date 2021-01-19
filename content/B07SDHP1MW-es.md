@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31I+BczXKDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SDHP1MW-es Crocs Crocband Flip Women  Chanclas para Mujer  Naranja  Cantaloupe 801   41/42 EU'
+slug: 'B07SDHP1MW-es Crocs Crocband Flip Women Chanclas para Mujer Naranja...'
+tags: chanclas
 actualPrice: 18.69 EUR
 currency: EUR
 price: 18.69

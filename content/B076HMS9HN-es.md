@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41++ekxBQdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076HMS9HN-es adidas CORE18 TR Top Y Sudadera  Unisex niños  Black/White  5-6Y'
+slug: 'B076HMS9HN-es adidas CORE18 TR Top Y Sudadera Unisex niños Black/White 5-6Y'
+tags: sudadera
 actualPrice: 10.76 EUR
 currency: EUR
 price: 10.76

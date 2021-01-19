@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Ly9GpOVBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WV77SV7-es Vinmori Chaleco Térmico Eléctrico  Tamaño Lavable  Carga USB Ajustable  Ropa de Abrigo de Invierno Unisex Chaleco Eléctrico'
+slug: 'B07WV77SV7-es Vinmori Chaleco Térmico Eléctrico Tamaño Lavable Carga USB...'
+tags: abrigo, chaleco
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41DxXYVzDvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RZV6RZB-es Columbia CALDORADO III  Zapatilla de Trail Running para Hombre  Azul  Riptide/Honey Yellow 463   41 EU'
+slug: 'B07RZV6RZB-es Columbia CALDORADO III Zapatilla de Trail Running para...'
+tags: zapatilla
 actualPrice: 58.1 EUR
 currency: EUR
 price: 58.1

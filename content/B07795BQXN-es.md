@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Zl0wgtupL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07795BQXN-es COMVIP Bebé niña Forro Polar Cachorro Suavemente único Orejas largas Deslizador Zapatos Caliente Tamaño Libre: 11 cm Longitud café'
+slug: 'B07795BQXN-es COMVIP Bebé niña Forro Polar Cachorro Suavemente único...'
+tags: zapatos
 actualPrice: 4.68 EUR
 currency: EUR
 price: 4.68

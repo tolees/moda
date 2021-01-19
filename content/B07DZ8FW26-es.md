@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31kzLZI-78L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DZ8FW26-es Columbia Mission Air Chaqueta Interchange  Hombre  Azul  Dark Mountain   M'
+slug: 'B07DZ8FW26-es Columbia Mission Air Chaqueta Interchange Hombre Azul Dark...'
+tags: chaqueta
 actualPrice: 85.84 EUR
 currency: EUR
 price: 85.84

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31PverJ90zL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D45BW9R-es find. Suede Zapatos de Cordones Derby  Gris Grey  44 EU'
+slug: 'B07D45BW9R-es find. Suede Zapatos de Cordones Derby Gris Grey 44 EU'
+tags: zapatos
 actualPrice: 28.65 EUR
 currency: EUR
 price: 28.65

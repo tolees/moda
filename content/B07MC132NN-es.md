@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31a7apjUFWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MC132NN-es Clarks Un Venture Low  Zapatos de Cordones Derby para Hombre  Azul Navy Combi Navy Combi  43 EU'
+slug: 'B07MC132NN-es Clarks Un Venture Low Zapatos de Cordones Derby para...'
+tags: zapatos
 actualPrice: 39.86 EUR
 currency: EUR
 price: 39.86

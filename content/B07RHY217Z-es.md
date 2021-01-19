@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41eLOcfRF0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RHY217Z-es BAIGIO Bolso Bandolera de Piel para Hombres Bolso Mensajero Pequeño de Cuero Bolsa Messenger Hombro Bolso de Negocios Bolsa Cruzada Cuerpo Cartera Diario para Negocios Deporte Casual  Negro '
+slug: 'B07RHY217Z-es BAIGIO Bolso Bandolera de Piel para Hombres Bolso...'
+tags: bolso
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31Vo9UG5N-L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PBC8NSR-es Wrangler Texas Vaqueros  Marrón  After Dark X9c   W36/L34  Talla del Fabricante: 36/34  para Hombre'
+slug: 'B07PBC8NSR-es Wrangler Texas Vaqueros Marrón After Dark X9c W36/L34...'
+tags: vaqueros
 actualPrice: 34.98 EUR
 currency: EUR
 price: 34.98

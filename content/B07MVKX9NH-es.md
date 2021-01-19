@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/315eiI9kVXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MVKX9NH-es Napapijri Berber C Sudadera  Verde  Green Forest 2 GE3   Large para Hombre'
+slug: 'B07MVKX9NH-es Napapijri Berber C Sudadera Verde Green Forest 2 GE3 Large...'
+tags: sudadera
 actualPrice: 35.6 EUR
 currency: EUR
 price: 35.6

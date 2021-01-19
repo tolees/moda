@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414PwTsHQrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079MGJQZ3-es Marca Amazon - MERAKI Camiseta de Rayas de Manga Corta Ligeramente Entallada Hombre  Gris  Stripe 2 Black / Charcoal Melange   XXL  Label: XXL'
+slug: 'B079MGJQZ3-es Marca Amazon - MERAKI Camiseta de Rayas de Manga Corta...'
+tags: camiseta, meraki
 actualPrice: 7.34 EUR
 currency: EUR
 price: 7.34

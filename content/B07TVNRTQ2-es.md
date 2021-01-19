@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412wtvVAAlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TVNRTQ2-es Only Onlnew Carle L/S Pullover CC Knt Jersey  Multicolor  Forest Biome Stripes:W. Surf The Web/Orange.COM/Cadmium Yellow   XS para Mujer'
+slug: 'B07TVNRTQ2-es Only Onlnew Carle L/S Pullover CC Knt Jersey Multicolor...'
+tags: jersey
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

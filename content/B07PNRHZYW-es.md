@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31mhaEGxRyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PNRHZYW-es CARE OF by PUMA Sudadera con capucha de forro con cremallera para mujer  Beige  38  Label: S'
+slug: 'B07PNRHZYW-es CARE OF by PUMA Sudadera con capucha de forro con...'
+tags: sudadera
 actualPrice: 24.09 EUR
 currency: EUR
 price: 24.09

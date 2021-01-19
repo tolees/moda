@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413QDm0J69L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TMHGVCP-es Levi s 510 Vaqueros Skinny  Azul  Moose Tracks Cool 1035   W31/L34  Talla del Fabricante: 31 34  para Hombre'
+slug: 'B07TMHGVCP-es Levi s 510 Vaqueros Skinny Azul Moose Tracks Cool 1035...'
+tags: vaqueros
 actualPrice: 35.83 EUR
 currency: EUR
 price: 35.83

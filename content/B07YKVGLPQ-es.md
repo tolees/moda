@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21sISmRIP6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YKVGLPQ-es Esprit 999ee1n801 Camiseta  Blanco  White 100   Small  Pack de 2  para Mujer'
+slug: 'B07YKVGLPQ-es Esprit 999ee1n801 Camiseta Blanco White 100 Small Pack de...'
+tags: camiseta
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

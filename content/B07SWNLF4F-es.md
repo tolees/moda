@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41XIWGlhHTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SWNLF4F-es JACK & JONES Jprvictor Shirt L/s Noos Camisa  Azul  Cashmere Blue Slim Fit   XX-Large para Hombre'
+slug: 'B07SWNLF4F-es JACK & JONES Jprvictor Shirt L/s Noos Camisa Azul Cashmere...'
+tags: camisa
 actualPrice: 14.8 EUR
 currency: EUR
 price: 14.8

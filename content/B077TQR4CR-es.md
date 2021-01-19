@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31SgA78q-rL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077TQR4CR-es find. Zapatos de Serraje con Cordones Hombre  Marrón  Chocolate   44 EU'
+slug: 'B077TQR4CR-es find. Zapatos de Serraje con Cordones Hombre Marrón...'
+tags: zapatos
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

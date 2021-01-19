@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4168m9UaldL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SHV88CC-es G-Star Sp10546 SS tee Camiseta  Rosa  Mid Pink 34   8 años  Talla del Fabricante: 8A  para Niñas'
+slug: 'B07SHV88CC-es G-Star Sp10546 SS tee Camiseta Rosa Mid Pink 34 8 años...'
+tags: camiseta
 actualPrice: 6.96 EUR
 currency: EUR
 price: 6.96

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31YqZj67ypL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JNRS7HK-es Amazon Essentials - Vestido largo de manga corta para mujer  Burgundy  US S  EU S '
+slug: 'B07JNRS7HK-es Amazon Essentials - Vestido largo de manga corta para...'
+tags: vestido
 actualPrice: 5.52 EUR
 currency: EUR
 price: 5.52

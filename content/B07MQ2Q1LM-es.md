@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41KqxlDIk9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MQ2Q1LM-es HKT by Hackett Hkt Crew Sudadera   Petroleo 5er   Medium para Hombre'
+slug: 'B07MQ2Q1LM-es HKT by Hackett Hkt Crew Sudadera Petroleo 5er Medium para...'
+tags: sudadera
 actualPrice: 15.88 EUR
 currency: EUR
 price: 15.88

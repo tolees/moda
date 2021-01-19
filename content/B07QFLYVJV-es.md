@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41GsbUo0qZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QFLYVJV-es Victorem NBA Michael Jordan #23 Camiseta de Baloncesto para Hombres Chicago Bulls Retro Chaleco de Gimnasia Top Deportivo S-XXL'
+slug: 'B07QFLYVJV-es Victorem NBA Michael Jordan #23 Camiseta de Baloncesto...'
+tags: camiseta, chaleco
 actualPrice: 10.06 EUR
 currency: EUR
 price: 10.06

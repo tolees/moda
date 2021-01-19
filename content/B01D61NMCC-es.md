@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/310F6+qtHkL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01D61NMCC-es Trangoworld Manaslu Pantalón Largo  Hombre  Antracita/Rojo Volcán  2XL'
+slug: 'B01D61NMCC-es Trangoworld Manaslu Pantalón Largo Hombre Antracita/Rojo...'
+tags: pantalón
 actualPrice: 56.49 EUR
 currency: EUR
 price: 56.49

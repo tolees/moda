@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31JSbB84D6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SZ8W9KG-es Timberland Perkins Row 2-Strap  Junior   Sandalias de Punta Descubierta Unisex-Niños  Negro Black  36 EU'
+slug: 'B07SZ8W9KG-es Timberland Perkins Row 2-Strap Junior Sandalias de Punta...'
+tags: sandalias, timberland
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

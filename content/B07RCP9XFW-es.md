@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41msQaHJV3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RCP9XFW-es Columbia Lake 22 Chaqueta de Plumas para Mujer  Negro  M'
+slug: 'B07RCP9XFW-es Columbia Lake 22 Chaqueta de Plumas para Mujer Negro M'
+tags: chaqueta
 actualPrice: 74.99 EUR
 currency: EUR
 price: 74.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41q-okmQAXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T1DC86X-es Timberland Perkins Row 2-Strap  Sandalias con Punta Abierta Unisex-Niños  Verde Verde Grape Leaf Tb0a24y7a581  23 EU'
+slug: 'B07T1DC86X-es Timberland Perkins Row 2-Strap Sandalias con Punta Abierta...'
+tags: sandalias, timberland
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

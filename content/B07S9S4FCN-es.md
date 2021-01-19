@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31X+ThXbEaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S9S4FCN-es PUMA Popcat 20 TS  Sandalias deslizantes Unisex-Adulto  Azul  Peacoat White   46 EU'
+slug: 'B07S9S4FCN-es PUMA Popcat 20 TS Sandalias deslizantes Unisex-Adulto Azul...'
+tags: sandalias
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

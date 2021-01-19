@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41IQMIkA+zL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PMFCTNM-es El Ganso Urban INTERSEASON Camisa casual  Azul  Azul 0017   Small para Hombre'
+slug: 'B07PMFCTNM-es El Ganso Urban INTERSEASON Camisa casual Azul Azul 0017...'
+tags: camisa
 actualPrice: 22.93 EUR
 currency: EUR
 price: 22.93

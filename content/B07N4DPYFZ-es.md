@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51-f9sdG25L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N4DPYFZ-es United Colors of Benetton College Man Camisa Casual  Multicolor  BLU/Marroncino 901   X-Large para Hombre'
+slug: 'B07N4DPYFZ-es United Colors of Benetton College Man Camisa Casual...'
+tags: camisa
 actualPrice: 17.65 EUR
 currency: EUR
 price: 17.65

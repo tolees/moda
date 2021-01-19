@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/411u0sFMVeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N7WP3SJ-es The North Face Easy Raglan Camiseta  Hombre  Blanco  White/Black   M'
+slug: 'B01N7WP3SJ-es The North Face Easy Raglan Camiseta Hombre Blanco...'
+tags: camiseta
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

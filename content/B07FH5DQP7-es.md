@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/514iSkKmDaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FH5DQP7-es Havaianas Hype  Chanclas Unisex Adulto  Multicolor  White/Water   41/42 EU'
+slug: 'B07FH5DQP7-es Havaianas Hype Chanclas Unisex Adulto Multicolor...'
+tags: chanclas
 actualPrice: 16.8 EUR
 currency: EUR
 price: 16.8

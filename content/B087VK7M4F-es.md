@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41NDA65+YOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087VK7M4F-es Columbia Pike Lake Chaqueta con Capucha  Hombre  Morado  Negro  Dark Purple  Shark   M'
+slug: 'B087VK7M4F-es Columbia Pike Lake Chaqueta con Capucha Hombre Morado...'
+tags: chaqueta
 actualPrice: 72.49 EUR
 currency: EUR
 price: 72.49

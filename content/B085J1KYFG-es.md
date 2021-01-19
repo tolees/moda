@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41evmB65QIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085J1KYFG-es Sandalias de Mujer con Cuna de Yute  Pala Trenzada y Correa con Hebilla en el Tobillo. Primavera Verano 2020. Talla 36 Blanco'
+slug: 'B085J1KYFG-es Sandalias de Mujer con Cuna de Yute Pala Trenzada y Correa...'
+tags: sandalias
 actualPrice: 25.95 EUR
 currency: EUR
 price: 25.95

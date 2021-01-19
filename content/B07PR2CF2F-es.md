@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41F+AeHgznL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PR2CF2F-es Under Armour Camo Boxed Logo Camisa Manga Corta  Hombre  Azul  SM'
+slug: 'B07PR2CF2F-es Under Armour Camo Boxed Logo Camisa Manga Corta Hombre...'
+tags: camisa
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

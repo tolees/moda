@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/415AkYKUvuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TXFD5SZ-es Levi s Essential Western Blusa  Negro  Black Sheen  2  0004   Large para Mujer'
+slug: 'B07TXFD5SZ-es Levi s Essential Western Blusa Negro Black Sheen 2 0004...'
+tags: blusa
 actualPrice: 35.95 EUR
 currency: EUR
 price: 35.95

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ahPFhYgbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KFL619N-es Marca Amazon - find. Shorts Bermuda Hombre  Multicolor  Blue   M  Label: M'
+slug: 'B07KFL619N-es Marca Amazon - find. Shorts Bermuda Hombre Multicolor Blue...'
+tags: -, find.
 actualPrice: 5.53 EUR
 currency: EUR
 price: 5.53

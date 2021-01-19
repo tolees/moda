@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31pHrxCjHAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S4XQ29G-es Asics Classic CT  Zapatos de Baloncesto para Hombre  Blanco  White/Midnight 102   40 EU'
+slug: 'B07S4XQ29G-es Asics Classic CT Zapatos de Baloncesto para Hombre Blanco...'
+tags: zapatos
 actualPrice: 60.22 EUR
 currency: EUR
 price: 60.22

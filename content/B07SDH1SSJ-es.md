@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41WPMPwxx1L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SDH1SSJ-es adidas Vintage tee Camiseta  Hombre  Negro  Black/Bluebird   S'
+slug: 'B07SDH1SSJ-es adidas Vintage tee Camiseta Hombre Negro Black/Bluebird S'
+tags: camiseta
 actualPrice: 12.55 EUR
 currency: EUR
 price: 12.55

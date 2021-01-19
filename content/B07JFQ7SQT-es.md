@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31y-pSL1e-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JFQ7SQT-es Lacoste Ch9623 Camisa  Gris  Nimbus/Nimbus 7fp   Medium  Talla del Fabricante: 39  para Hombre'
+slug: 'B07JFQ7SQT-es Lacoste Ch9623 Camisa Gris Nimbus/Nimbus 7fp Medium Talla...'
+tags: camisa
 actualPrice: 73.98 EUR
 currency: EUR
 price: 73.98

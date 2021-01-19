@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41cA9Ktay7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RHTSLNX-es Tommy Hilfiger TJM Round Back Logo tee Camiseta Deporte  Gris  Grey P   Medium para Hombre'
+slug: 'B07RHTSLNX-es Tommy Hilfiger TJM Round Back Logo tee Camiseta Deporte...'
+tags: camiseta
 actualPrice: 20.18 EUR
 currency: EUR
 price: 20.18

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41WBIM4TwVL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FNLJS1W-es JACK & JONES Jjiglenn Jjoriginal Jos 102 STS Vaqueros Slim  Azul  Blue Denim Blue Denim   W31/L34 para Hombre'
+slug: 'B07FNLJS1W-es JACK & JONES Jjiglenn Jjoriginal Jos 102 STS Vaqueros Slim...'
+tags: vaqueros
 actualPrice: 17.48 EUR
 currency: EUR
 price: 17.48

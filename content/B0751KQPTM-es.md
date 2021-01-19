@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Z-ngnefNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0751KQPTM-es Vero Moda Vmhot SOYA LS Jacket Mix Noos Chaqueta  Azul  Light Blue Denim Light Blue Denim   42  Talla del Fabricante: Large  para Mujer'
+slug: 'B0751KQPTM-es Vero Moda Vmhot SOYA LS Jacket Mix Noos Chaqueta Azul...'
+tags: chaqueta, moda
 actualPrice: 18.49 EUR
 currency: EUR
 price: 18.49

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51d5wfwALwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KZHXYH4-es Alex Perry Regalo Día de la Madre collares mujer colgantes mujer collar plata mujer joyas para mujer bisuteria mujer joyeria mujer regalos originales para mujer tous mujer joyeria'
+slug: 'B07KZHXYH4-es Alex Perry Regalo Día de la Madre collares mujer colgantes...'
+tags: collar
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

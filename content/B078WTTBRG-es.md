@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31MzhkejOuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078WTTBRG-es Quiksilver Carver Nubuck-Sandals For Men  Zapatos de Playa y Piscina para Hombre  Marrón  Demitasse-Solid Ctk0   44 EU'
+slug: 'B078WTTBRG-es Quiksilver Carver Nubuck-Sandals For Men Zapatos de Playa...'
+tags: zapatos
 actualPrice: 26.42 EUR
 currency: EUR
 price: 26.42

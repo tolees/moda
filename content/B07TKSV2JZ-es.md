@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31tfYq9r1CL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TKSV2JZ-es Clarks Step Juneshell  Sandalias Punta Cerrada para Mujer  Beige  Coral Coral   37 EU'
+slug: 'B07TKSV2JZ-es Clarks Step Juneshell Sandalias Punta Cerrada para Mujer...'
+tags: sandalias
 actualPrice: 23.93 EUR
 currency: EUR
 price: 23.93

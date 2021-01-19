@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41LKBdYRXZL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B071NWLMFV-es find. Camiseta para Hombre  Gris  Grey Marl   Large'
+slug: 'B071NWLMFV-es find. Camiseta para Hombre Gris Grey Marl Large'
+tags: camiseta
 actualPrice: 4.5 EUR
 currency: EUR
 price: 4.5

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/216X3MgiIFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GFRSXT7-es Collar GD Good Designs Est 2015  con letras en oro  colgante redonda con iniciales  chapado en oro 18 K  con grabado en relieve  Zusatzanhänger Herz  45 + 5 cm'
+slug: 'B07GFRSXT7-es Collar GD Good Designs Est 2015 con letras en oro colgante...'
+tags: collar
 actualPrice: 6.9 EUR
 currency: EUR
 price: 6.9

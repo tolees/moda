@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41or3GNchVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VKMQZ2W-es Teva Terra Fi Lite  Sandalias de Punta Descubierta para Hombre  Negro  Rambler Black Rrbk   39.5 EU'
+slug: 'B07VKMQZ2W-es Teva Terra Fi Lite Sandalias de Punta Descubierta para...'
+tags: sandalias
 actualPrice: 33.97 EUR
 currency: EUR
 price: 33.97

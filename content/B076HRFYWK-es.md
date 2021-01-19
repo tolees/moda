@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41cdMcx7H0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076HRFYWK-es adidas Core18 Pre Jkty Chaqueta de Deporte  Unisex Niños  Azul  Azul/Blanco   11-12Y'
+slug: 'B076HRFYWK-es adidas Core18 Pre Jkty Chaqueta de Deporte Unisex Niños...'
+tags: chaqueta
 actualPrice: 17.0 EUR
 currency: EUR
 price: 17.0

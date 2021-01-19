@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51iTJWPJWtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01K1K67WS-es Bolso impermeable de la bolsa de la correa de ECHPTower del bolso impermeable con la correa ajustable Ideal: natación  canotaje  navegación  el acampar  yendo de excursión  natación  pescando  protecc'
+slug: 'B01K1K67WS-es Bolso impermeable de la bolsa de la correa de ECHPTower...'
+tags: bolso
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

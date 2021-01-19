@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zY2Lmwe1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DFRBY8S-es Tommy Hilfiger S/s Crew Neck Camiseta  Gris  Grey Heather 080   Large para Hombre'
+slug: 'B07DFRBY8S-es Tommy Hilfiger S/s Crew Neck Camiseta Gris Grey Heather...'
+tags: camiseta
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

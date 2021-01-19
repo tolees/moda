@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ve-X16ctL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CN8XXK5-es Crocs Crocband III Slide  Sandalias de Punta Descubierta Unisex Adulto  Azul  Navy/White 462   36/37 EU'
+slug: 'B07CN8XXK5-es Crocs Crocband III Slide Sandalias de Punta Descubierta...'
+tags: sandalias
 actualPrice: 22.09 EUR
 currency: EUR
 price: 22.09

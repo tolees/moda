@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31v4CYY4fZL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NDMQQ89-es BOSS Debelt Vestido  Plateado  Silver 040   Large para Mujer'
+slug: 'B07NDMQQ89-es BOSS Debelt Vestido Plateado Silver 040 Large para Mujer'
+tags: vestido
 actualPrice: 55.65 EUR
 currency: EUR
 price: 55.65

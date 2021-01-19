@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41LmjM1qtiL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N4GC5UI-es crocs Crocband U  Zuecos Unisex Adulto  Azul  Ice Blue-White   37-38 EU'
+slug: 'B01N4GC5UI-es crocs Crocband U Zuecos Unisex Adulto Azul Ice Blue-White...'
+tags: zuecos
 actualPrice: 22.39 EUR
 currency: EUR
 price: 22.39

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Z4MCCkH4L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFZCNHD-es Geox B New Balu  Boy C  Zapatillas para Bebés  Azul  Navy C4002   22 EU'
+slug: 'B07LFZCNHD-es Geox B New Balu Boy C Zapatillas para Bebés Azul Navy...'
+tags: geox
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

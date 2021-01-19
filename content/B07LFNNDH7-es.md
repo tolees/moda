@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414zKRtO2LL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFNNDH7-es Levi s Francine Down Pckble Jkt Chaqueta  Azul  Sodalite Blue 0002   Large para Mujer'
+slug: 'B07LFNNDH7-es Levi s Francine Down Pckble Jkt Chaqueta Azul Sodalite...'
+tags: chaqueta
 actualPrice: 65.0 EUR
 currency: EUR
 price: 65.0

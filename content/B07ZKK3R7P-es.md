@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-9MT0M2+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZKK3R7P-es Houkiper Chaleco Reflectante LED para Correr  Chaleco de Alta Visibilidad Luces Brillantes para Alta Visibilidad Correr de Noche y mañana  Orange '
+slug: 'B07ZKK3R7P-es Houkiper Chaleco Reflectante LED para Correr Chaleco de...'
+tags: chaleco
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

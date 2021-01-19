@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/417br8gh5iL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B3NHLWM-es Timberland Perkins Row  Toddler   Sandalias de Punta Descubierta Unisex-Niños  Azul Bright Blue Webbing  30 EU'
+slug: 'B07B3NHLWM-es Timberland Perkins Row Toddler Sandalias de Punta...'
+tags: sandalias, timberland
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

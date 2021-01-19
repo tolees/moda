@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41m4EO4ZEdL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RJ5VCCM-es G-STAR RAW 3301 Straight Vaqueros  Antic Charcoal B479-A800  44W / 34L para Hombre'
+slug: 'B07RJ5VCCM-es G-STAR RAW 3301 Straight Vaqueros Antic Charcoal B479-A800...'
+tags: vaqueros
 actualPrice: 33.21 EUR
 currency: EUR
 price: 33.21

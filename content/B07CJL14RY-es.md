@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31DOSFF1EsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CJL14RY-es Only Onlkendell Reg SK ANK JNS Cre178067 Noos Vaqueros Skinny  Gris  Medium Blue Denim Medium Blue Denim   W28/L30 para Mujer'
+slug: 'B07CJL14RY-es Only Onlkendell Reg SK ANK JNS Cre178067 Noos Vaqueros...'
+tags: vaqueros
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

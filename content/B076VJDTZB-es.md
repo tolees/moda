@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31551tKZB2L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076VJDTZB-es Columbia Glacial IV Jersey Polar con Media Cremallera para Mujer  Color: Sea Salt  Talla: M'
+slug: 'B076VJDTZB-es Columbia Glacial IV Jersey Polar con Media Cremallera para...'
+tags: jersey
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

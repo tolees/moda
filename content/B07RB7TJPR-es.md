@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31hLzkWipPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RB7TJPR-es Columbia Midweight Stretch Camiseta Térmica con Cremallera Media  Mujer  Lila  Dusty Iris   L'
+slug: 'B07RB7TJPR-es Columbia Midweight Stretch Camiseta Térmica con Cremallera...'
+tags: camiseta
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

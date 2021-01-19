@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Uo2yUUFnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HL3DTLY-es Amazon Essentials - Camisa de cambray de manga corta para hombre  Azul medio  US XS  EU XS '
+slug: 'B07HL3DTLY-es Amazon Essentials - Camisa de cambray de manga corta para...'
+tags: camisa
 actualPrice: 2.71 EUR
 currency: EUR
 price: 2.71

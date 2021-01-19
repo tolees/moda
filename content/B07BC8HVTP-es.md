@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51WzQaFnGPL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BC8HVTP-es AmzBarley Disfraz Traje de Princesa Niña Disfraz Vestido Niña Infantil Fiesta Manga Larga Ceremonia Boda Disfraz Pincesa Nieve para Halloween Baile  3-4 Años  Azul '
+slug: 'B07BC8HVTP-es AmzBarley Disfraz Traje de Princesa Niña Disfraz Vestido...'
+tags: vestido
 actualPrice: 21.49 EUR
 currency: EUR
 price: 21.49

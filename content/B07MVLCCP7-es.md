@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+WufA8b0L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MVLCCP7-es Gant D1. The Quilted Windcheater Chaqueta  Negro  Black 5   Small para Hombre'
+slug: 'B07MVLCCP7-es Gant D1. The Quilted Windcheater Chaqueta Negro Black 5...'
+tags: chaqueta
 actualPrice: 82.77 EUR
 currency: EUR
 price: 82.77

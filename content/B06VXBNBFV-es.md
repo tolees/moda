@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41hpngQIDEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06VXBNBFV-es adidas Adilette Shower  Chanclas para Hombre  Azul  Collegiate Navy/Footwear White/Collegiate Navy 0   44.5 EU'
+slug: 'B06VXBNBFV-es adidas Adilette Shower Chanclas para Hombre Azul...'
+tags: chanclas
 actualPrice: 10.01 EUR
 currency: EUR
 price: 10.01

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41K7bkSI-JL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002Y0EUA0-es Timberland Authentic 6” – Botas para Niños  Marrón  Brown Smooth   30.5 EU'
+slug: 'B002Y0EUA0-es Timberland Authentic 6” – Botas para Niños Marrón Brown...'
+tags: timberland
 actualPrice: 39.22 EUR
 currency: EUR
 price: 39.22

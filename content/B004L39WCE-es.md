@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41FF4UXFsgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004L39WCE-es Timberland Rugged 6 Inch Plain Toe Waterproof  Botas para Hombre  Marrón  Md Brown Full Grain   41 EU'
+slug: 'B004L39WCE-es Timberland Rugged 6 Inch Plain Toe Waterproof Botas para...'
+tags: timberland
 actualPrice: 108.99 EUR
 currency: EUR
 price: 108.99

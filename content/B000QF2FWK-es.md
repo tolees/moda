@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41BFpe6rTpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000QF2FWK-es Birkenstock Madrid Birko-Flor - Sandalias de pala unisex  color marrón  talla 35'
+slug: 'B000QF2FWK-es Birkenstock Madrid Birko-Flor - Sandalias de pala unisex...'
+tags: sandalias
 actualPrice: 42.72 EUR
 currency: EUR
 price: 42.72

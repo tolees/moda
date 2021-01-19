@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41hYqVH7rVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CSTQ978-es Joma Nobel Pantalón de equipación  Antracita  M'
+slug: 'B01CSTQ978-es Joma Nobel Pantalón de equipación Antracita M'
+tags: pantalón
 actualPrice: 7.94 EUR
 currency: EUR
 price: 7.94

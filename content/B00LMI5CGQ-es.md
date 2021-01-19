@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31VIwO3Rw7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00LMI5CGQ-es Quiksilver MONKEY ABYSS M SNDL XGKC - sandalias abiertas de lona hombre  Verde  Green /         Black /         Brown   39'
+slug: 'B00LMI5CGQ-es Quiksilver MONKEY ABYSS M SNDL XGKC - sandalias abiertas...'
+tags: sandalias
 actualPrice: 11.49 EUR
 currency: EUR
 price: 11.49

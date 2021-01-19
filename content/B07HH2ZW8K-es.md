@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51P5mNMWUtL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HH2ZW8K-es Mujer Botas de Nieve Zapatos Invierno Impermeables Calientes Botine Forradas Cortas Tobillo Boots de Cuero'
+slug: 'B07HH2ZW8K-es Mujer Botas de Nieve Zapatos Invierno Impermeables...'
+tags: zapatos
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

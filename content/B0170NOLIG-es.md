@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41BYGla37FL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0170NOLIG-es Tommy Hilfiger HERITAGE SINGLE BREASTED TRENCH  Abrigo Mujer  Beige  Medium Taupe 055   M  Talla fabricante: M '
+slug: 'B0170NOLIG-es Tommy Hilfiger HERITAGE SINGLE BREASTED TRENCH Abrigo...'
+tags: abrigo
 actualPrice: 195.95 EUR
 currency: EUR
 price: 195.95

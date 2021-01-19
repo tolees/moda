@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31m0eVrfNFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VMND3TV-es Tommy Hilfiger Stretch Slim Fit tee Camiseta Deporte  Azul  Bluebell   Small para Hombre'
+slug: 'B07VMND3TV-es Tommy Hilfiger Stretch Slim Fit tee Camiseta Deporte Azul...'
+tags: camiseta
 actualPrice: 20.82 EUR
 currency: EUR
 price: 20.82

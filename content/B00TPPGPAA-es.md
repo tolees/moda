@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31i+uD9OsxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00TPPGPAA-es Lacoste  Sudadera para Hombre  Black 31  X-Large  Talla del fabricante : 6 '
+slug: 'B00TPPGPAA-es Lacoste Sudadera para Hombre Black 31 X-Large Talla del...'
+tags: sudadera
 actualPrice: 58.45 EUR
 currency: EUR
 price: 58.45

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41lw4+w+3eL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DJ3G6R3-es Geox Snake M L  Zapatillas para Hombre  Azul  Navy C4002   41 EU'
+slug: 'B07DJ3G6R3-es Geox Snake M L Zapatillas para Hombre Azul Navy C4002 41 EU'
+tags: geox
 actualPrice: 58.83 EUR
 currency: EUR
 price: 58.83

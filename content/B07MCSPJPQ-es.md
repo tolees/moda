@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31pwd30vIQL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MCSPJPQ-es Napapijri Rainforest Pocket Chaqueta  Azul  Clematis Blue VB1   XL para Hombre'
+slug: 'B07MCSPJPQ-es Napapijri Rainforest Pocket Chaqueta Azul Clematis Blue...'
+tags: chaqueta
 actualPrice: 100.83 EUR
 currency: EUR
 price: 100.83

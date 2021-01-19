@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416w94kqSsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DP13FN4-es Umbro Set de 3 boxers multicolor-100% algodón-color negro x2 /naranja 1  Bóxer  PACK 03 T041-4  L 5 para Hombre'
+slug: 'B07DP13FN4-es Umbro Set de 3 boxers multicolor-100% algodón-color negro...'
+tags: bóxer
 actualPrice: 14.9 EUR
 currency: EUR
 price: 14.9

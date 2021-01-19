@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41CRENeSBqL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01L6RVEO6-es Lee Rider Jeans Vaqueros  Rinse  38W / 30L para Hombre'
+slug: 'B01L6RVEO6-es Lee Rider Jeans Vaqueros Rinse 38W / 30L para Hombre'
+tags: vaqueros
 actualPrice: 30.34 EUR
 currency: EUR
 price: 30.34

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/311lPlRJRnL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JYV56S1-es Tommy Hilfiger Gramercy Tapered HW Vaqueros Straight  Azul  Tana 913   W28/L34  Talla del Fabricante: 28/34  para Mujer'
+slug: 'B07JYV56S1-es Tommy Hilfiger Gramercy Tapered HW Vaqueros Straight Azul...'
+tags: vaqueros
 actualPrice: 24.05 EUR
 currency: EUR
 price: 24.05

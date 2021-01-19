@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4112jtl04QL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N19NQH4-es NAVARCH Mujeres Enfermera Conjunto De Lencería Tentación Babydoll Disfraces de Enfermera Uniforme Tentacion Camisetas Vestido Sexy Ropa de Dormir Lencería Cosplay Ropa de Dormir'
+slug: 'B07N19NQH4-es NAVARCH Mujeres Enfermera Conjunto De Lencería Tentación...'
+tags: vestido
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

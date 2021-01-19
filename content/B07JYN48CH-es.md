@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Wt7ZefQRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JYN48CH-es adidas Tiro19 Co Polo Camiseta  Hombre  Black/White  XL'
+slug: 'B07JYN48CH-es adidas Tiro19 Co Polo Camiseta Hombre Black/White XL'
+tags: camiseta
 actualPrice: 20.49 EUR
 currency: EUR
 price: 20.49

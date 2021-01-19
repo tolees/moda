@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31rHaEDUilL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XFFBDR8-es Vans Colorblock tee - Camiseta para Hombre   Blanco  White/black   Medium'
+slug: 'B06XFFBDR8-es Vans Colorblock tee - Camiseta para Hombre Blanco...'
+tags: camiseta
 actualPrice: 13.0 EUR
 currency: EUR
 price: 13.0

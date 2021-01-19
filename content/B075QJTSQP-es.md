@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41zeRyATO1L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B075QJTSQP-es find. Camiseta de Deporte con Paneles de Rejilla Hombre  Azul  Harbor Blue   Large'
+slug: 'B075QJTSQP-es find. Camiseta de Deporte con Paneles de Rejilla Hombre...'
+tags: camiseta
 actualPrice: 4.8 EUR
 currency: EUR
 price: 4.8

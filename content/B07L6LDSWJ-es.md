@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Rb3jmqkWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L6LDSWJ-es Under Armour Tactical All Season Chaqueta  Hombre  Negro  MD'
+slug: 'B07L6LDSWJ-es Under Armour Tactical All Season Chaqueta Hombre Negro MD'
+tags: chaqueta
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

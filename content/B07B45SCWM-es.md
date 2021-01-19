@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/411f841Vl4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B45SCWM-es SELECTED HOMME Slhregsel-Pelle Shirt LS B Noos Camisa  Azul  Light Blue Light Blue   Small para Hombre'
+slug: 'B07B45SCWM-es SELECTED HOMME Slhregsel-Pelle Shirt LS B Noos Camisa Azul...'
+tags: camisa
 actualPrice: 24.5 EUR
 currency: EUR
 price: 24.5

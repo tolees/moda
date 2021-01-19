@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Q-TYptPgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WJXSBMB-es Jack & Jones Joroutdoors tee SS Crew Neck Camiseta  Azul  Cloud Dancer Fit:Slim   M para Hombre'
+slug: 'B07WJXSBMB-es Jack & Jones Joroutdoors tee SS Crew Neck Camiseta Azul...'
+tags: camiseta
 actualPrice: 5.24 EUR
 currency: EUR
 price: 5.24

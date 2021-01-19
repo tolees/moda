@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41IgVSqOF-L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y5CFQ1B-es Geographical Norway Sudadera DE Hombre GYMCLASS A Azul ELÉCTRICO S'
+slug: 'B07Y5CFQ1B-es Geographical Norway Sudadera DE Hombre GYMCLASS A Azul...'
+tags: sudadera
 actualPrice: 31.2 EUR
 currency: EUR
 price: 31.2

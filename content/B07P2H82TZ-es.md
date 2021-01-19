@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41chCVq1MtL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P2H82TZ-es lodi VAREZ  Zapatos de tacón con Punta Cerrada para Mujer  Negro  Ante Negro Ante Negro   39 EU'
+slug: 'B07P2H82TZ-es lodi VAREZ Zapatos de tacón con Punta Cerrada para Mujer...'
+tags: zapatos
 actualPrice: 54.38 EUR
 currency: EUR
 price: 54.38

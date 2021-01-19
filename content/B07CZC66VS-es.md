@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/318wARRiZTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CZC66VS-es Under Armour Tech 2.0 T Camiseta Deportiva sin Mangas  Hombre  Gris  Gray 013   M'
+slug: 'B07CZC66VS-es Under Armour Tech 2.0 T Camiseta Deportiva sin Mangas...'
+tags: camiseta
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

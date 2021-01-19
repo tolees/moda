@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Gs5UNA3WL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NJ65PSL-es Springfield 7.J.Ap.T.Turtle Neck Jersey  Azul  Azul 19   Medium  Tamaño del Fabricante: M  para Mujer'
+slug: 'B07NJ65PSL-es Springfield 7.J.Ap.T.Turtle Neck Jersey Azul Azul 19...'
+tags: jersey
 actualPrice: 8.24 EUR
 currency: EUR
 price: 8.24

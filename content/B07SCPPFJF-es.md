@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/519o5PvmSoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SCPPFJF-es Marca Amazon - IRIS & LILLY Braga Boy Short de Algodón Mujer  Pack de 3  Negro  Black   L  Label: L'
+slug: 'B07SCPPFJF-es Marca Amazon - IRIS & LILLY Braga Boy Short de Algodón...'
+tags: iris, &, lilly
 actualPrice: 10.49 EUR
 currency: EUR
 price: 10.49

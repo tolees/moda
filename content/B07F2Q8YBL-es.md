@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Ve3rqq2vL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F2Q8YBL-es Helly Hansen HP Racing Prueba De Viento Y Respirable Cuello Forro Polar Marina Deportes Navegación Chaqueta Impermeable  Hombre  Olympian Blue  S'
+slug: 'B07F2Q8YBL-es Helly Hansen HP Racing Prueba De Viento Y Respirable...'
+tags: chaqueta
 actualPrice: 83.5 EUR
 currency: EUR
 price: 83.5

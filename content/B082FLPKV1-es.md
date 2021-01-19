@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ZT44pu8ML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082FLPKV1-es P Prettyia Plantillas Cálidas de Invierno Unisex Plantillas de Zapatos de Lana Gruesa para Botas Zapatillas Calzado - 37'
+slug: 'B082FLPKV1-es P Prettyia Plantillas Cálidas de Invierno Unisex...'
+tags: zapatos
 actualPrice: 7.67 EUR
 currency: EUR
 price: 7.67

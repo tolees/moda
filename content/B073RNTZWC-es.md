@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31MmPhd5DgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073RNTZWC-es Helly Hansen HH Tech Crew Camiseta  Hombre  Blanco  Blanco 001   Medium  Tamaño del Fabricante:M '
+slug: 'B073RNTZWC-es Helly Hansen HH Tech Crew Camiseta Hombre Blanco Blanco...'
+tags: camiseta
 actualPrice: 18.0 EUR
 currency: EUR
 price: 18.0

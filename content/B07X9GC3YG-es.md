@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31h0jcEVFGL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X9GC3YG-es Bolso de Hombro para Mujer  Bolsos Cruzados de Marca para Mujer con Bolsos de Hombro Anchos Bolsos de Cuero de Moda con Forma de D Para Chicas Feniales'
+slug: 'B07X9GC3YG-es Bolso de Hombro para Mujer Bolsos Cruzados de Marca para...'
+tags: bolso, moda
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

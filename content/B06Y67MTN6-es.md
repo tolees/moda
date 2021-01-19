@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51qpAfYoZaL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06Y67MTN6-es Lois - Bolso Bandolera de Mujer Extensible. Doble Asa Redondeada y Bandolera. Lona Estampada y Cuero PU Polipiel. Convertible en Bolso de Mano. para Uso Diario. 26035  Color Azul'
+slug: 'B06Y67MTN6-es Lois - Bolso Bandolera de Mujer Extensible. Doble Asa...'
+tags: bolso
 actualPrice: 29.85 EUR
 currency: EUR
 price: 29.85

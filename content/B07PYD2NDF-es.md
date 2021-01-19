@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31EvbliDHlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PYD2NDF-es New Look Bermuda Button Falda  Azul  Navy 41   42  Talla del Fabricante: 14  para Mujer'
+slug: 'B07PYD2NDF-es New Look Bermuda Button Falda Azul Navy 41 42 Talla del...'
+tags: falda
 actualPrice: 6.96 EUR
 currency: EUR
 price: 6.96

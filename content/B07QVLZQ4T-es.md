@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41XdU70hfQL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QVLZQ4T-es Under Armour Forefront Rain Chaqueta  Mujer  Gris  MD'
+slug: 'B07QVLZQ4T-es Under Armour Forefront Rain Chaqueta Mujer Gris MD'
+tags: chaqueta
 actualPrice: 44.26 EUR
 currency: EUR
 price: 44.26

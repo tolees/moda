@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Cs+sNxZGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZPSWQT-es Pepe Jeans Lucas Sudadera   Ivy 673   XX-Large para Hombre'
+slug: 'B07MZPSWQT-es Pepe Jeans Lucas Sudadera Ivy 673 XX-Large para Hombre'
+tags: sudadera
 actualPrice: 39.0 EUR
 currency: EUR
 price: 39.0

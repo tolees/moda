@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ZLLOLl6vL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07864WSDD-es Puma Liga Core H Camiseta de Manga Corta  Hombre  Negro/Blanco Black White  M'
+slug: 'B07864WSDD-es Puma Liga Core H Camiseta de Manga Corta Hombre...'
+tags: camiseta
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

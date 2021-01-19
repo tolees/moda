@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51aoxPRYLLL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W4VLLS1-es BAIGIO Bolso de Boda  Clutch Mujer Fiesta Carteras de Mano Ceremonia Bolso de Noche Embrague Bandolera con Cadena Novia  Diamantes  Plateado '
+slug: 'B07W4VLLS1-es BAIGIO Bolso de Boda Clutch Mujer Fiesta Carteras de Mano...'
+tags: bolso
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

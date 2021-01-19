@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41VVXb7KizL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SVPNYDF-es Geox U EOLO B  Zapatillas para Hombre  Gris  White/Lt Grey C1236   45 EU'
+slug: 'B07SVPNYDF-es Geox U EOLO B Zapatillas para Hombre Gris White/Lt Grey...'
+tags: geox
 actualPrice: 57.92 EUR
 currency: EUR
 price: 57.92

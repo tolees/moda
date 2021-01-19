@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31pmL8sq28L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LB3B7MQ-es Nike W Nk Miler Top SS Camiseta de Manga Corta  Mujer  Echo Pink/Echo Pink/ Reflective silv   S'
+slug: 'B07LB3B7MQ-es Nike W Nk Miler Top SS Camiseta de Manga Corta Mujer Echo...'
+tags: camiseta
 actualPrice: 18.0 EUR
 currency: EUR
 price: 18.0

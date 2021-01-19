@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51A3f5iTE+L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JQYPHHM-es Tommy Hilfiger TH Essential Shirt LS W2 Blusa  Azul  Easy STP/Surf The Web 404   38  Talla del Fabricante: 6  para Mujer'
+slug: 'B07JQYPHHM-es Tommy Hilfiger TH Essential Shirt LS W2 Blusa Azul Easy...'
+tags: blusa
 actualPrice: 35.95 EUR
 currency: EUR
 price: 35.95

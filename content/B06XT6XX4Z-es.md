@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-M0PdcvoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XT6XX4Z-es Pepe Jeans Zip Thru  Sudadera con Capucha para Hombre  Azul  Navy 595   Small'
+slug: 'B06XT6XX4Z-es Pepe Jeans Zip Thru Sudadera con Capucha para Hombre Azul...'
+tags: sudadera
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

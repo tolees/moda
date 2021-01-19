@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/517-5OGIZBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PQ837GQ-es Kipling Gleam S  Bolso de Tocador para Mujer  Multicolor  Navy Stick Print   14x9.5x5.5 Centimeters  B x H x T '
+slug: 'B07PQ837GQ-es Kipling Gleam S Bolso de Tocador para Mujer Multicolor...'
+tags: bolso
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

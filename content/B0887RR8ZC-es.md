@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41CPcrldQVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0887RR8ZC-es Aiboria Pijama Mujer Seda Verano Cortos 2 Piezas sin Mangas Suave  Ropa Mujer Pijama Mujer Verano Corto Regalos para Mujer Adolescentes'
+slug: 'B0887RR8ZC-es Aiboria Pijama Mujer Seda Verano Cortos 2 Piezas sin...'
+tags: pijama
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

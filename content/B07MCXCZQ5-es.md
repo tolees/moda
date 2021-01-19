@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41NvB+5JfuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MCXCZQ5-es Zapatillas de Deporte para niños Niños Zapatillas de Correr Zapatillas para niñas Entrenadores para Correr Zapatos para Caminar al Aire Libre Zapatos para niñas para niños Negro 29'
+slug: 'B07MCXCZQ5-es Zapatillas de Deporte para niños Niños Zapatillas de...'
+tags: zapatos
 actualPrice: 23.1 EUR
 currency: EUR
 price: 23.1

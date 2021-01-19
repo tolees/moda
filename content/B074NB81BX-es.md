@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31TMynk3iYL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074NB81BX-es Fitflop Lulu Cross Slide  Sandalias de Punta Descubierta para Mujer  Marrón  Caramel 098   42 EU'
+slug: 'B074NB81BX-es Fitflop Lulu Cross Slide Sandalias de Punta Descubierta...'
+tags: sandalias
 actualPrice: 39.0 EUR
 currency: EUR
 price: 39.0

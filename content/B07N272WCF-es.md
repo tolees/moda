@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31LRqPSmgGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N272WCF-es Tommy Hilfiger TJM Classics Longsleeve tee Camisa Manga Larga  Blanco  Classic White Ya2   Medium para Hombre'
+slug: 'B07N272WCF-es Tommy Hilfiger TJM Classics Longsleeve tee Camisa Manga...'
+tags: camisa
 actualPrice: 26.15 EUR
 currency: EUR
 price: 26.15

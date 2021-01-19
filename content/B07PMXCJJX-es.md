@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41pDCP4zF+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PMXCJJX-es Pantalones de Sauna Adelgazantes Mujer NANOTECNOLOGÍA  Leggins Reductores Adelgazantes  Leggins Anticeluliticos Cintura Alta  Mallas Fitness Push Up para Deporte Running Yoga Gym  2XL  Black03 '
+slug: 'B07PMXCJJX-es Pantalones de Sauna Adelgazantes Mujer NANOTECNOLOGÍA...'
+tags: leggins
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

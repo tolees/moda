@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ky4RjGR7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088ZTX5V6-es Lydee Moda Plataforma Sandalias Mujer Verano Zapatos Tacon Ancho Tacon Alto Peep Toe Party Heels Performance Zapatos Grey Size 36'
+slug: 'B088ZTX5V6-es Lydee Moda Plataforma Sandalias Mujer Verano Zapatos Tacon...'
+tags: moda, sandalias, zapatos
 actualPrice: 32.86 EUR
 currency: EUR
 price: 32.86

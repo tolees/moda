@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31GO0gspZeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NYDD5FS-es GRACE KARIN Mujer Vintage Vestido de 1950s para Cóctel Fiesta Negro XL CL011020-1'
+slug: 'B07NYDD5FS-es GRACE KARIN Mujer Vintage Vestido de 1950s para Cóctel...'
+tags: vestido
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

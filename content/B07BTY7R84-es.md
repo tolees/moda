@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41IVIeMw1GL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BTY7R84-es ZCFXJiTuanYZ Traje de Deporte al Aire Libre Jersey de equitación Ropa Deportiva de Manga Corta Jersey + Correa Pantalones Cortos Primavera y Verano Transpirable y de Secado rápido Talla S Color YJ901'
+slug: 'B07BTY7R84-es ZCFXJiTuanYZ Traje de Deporte al Aire Libre Jersey de...'
+tags: jersey
 actualPrice: 48.88 EUR
 currency: EUR
 price: 48.88

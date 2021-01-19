@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31dwstOf3eL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00LMKKZNY-es Quiksilver Carver Suede M Sndl Sandalias con Plataforma Plana  Hombre  Marrón  Brown   41'
+slug: 'B00LMKKZNY-es Quiksilver Carver Suede M Sndl Sandalias con Plataforma...'
+tags: sandalias
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

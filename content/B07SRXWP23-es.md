@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zREKX8eQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SRXWP23-es dockers Alpha 360 Button Up Camisa Casual  Azul  Pembroke Infundido Slub 0047   M para Hombre'
+slug: 'B07SRXWP23-es dockers Alpha 360 Button Up Camisa Casual Azul Pembroke...'
+tags: camisa
 actualPrice: 13.3 EUR
 currency: EUR
 price: 13.3

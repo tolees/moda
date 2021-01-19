@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/61KX3ZZwWqL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LZK1RLS-es Desigual TS_Barrie - Camiseta Niños  Azul  Navy 5000   6 años  Talla del Fabricante: 5/6 '
+slug: 'B01LZK1RLS-es Desigual TS_Barrie - Camiseta Niños Azul Navy 5000 6 años...'
+tags: camiseta
 actualPrice: 14.4 EUR
 currency: EUR
 price: 14.4

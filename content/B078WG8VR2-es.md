@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41y6PPAzztL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078WG8VR2-es The North Face Cyclone 2 HDY - Chaqueta con Capucha  Hombre  Fiery Red/Urban Navy  M'
+slug: 'B078WG8VR2-es The North Face Cyclone 2 HDY - Chaqueta con Capucha Hombre...'
+tags: chaqueta
 actualPrice: 42.5 EUR
 currency: EUR
 price: 42.5

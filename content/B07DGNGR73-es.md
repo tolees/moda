@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31X-wL1-RDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DGNGR73-es Timberland City S Edge  Botas Clasicas para Hombre  Marrón  Potting Soil Escape 931   45 EU'
+slug: 'B07DGNGR73-es Timberland City S Edge Botas Clasicas para Hombre Marrón...'
+tags: timberland
 actualPrice: 80.45 EUR
 currency: EUR
 price: 80.45

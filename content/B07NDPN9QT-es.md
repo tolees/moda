@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/314FjT6A4RL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NDPN9QT-es G-STAR RAW Citishield Round Neck Sudadera  Azul  Dk Aged 89   XX-Small para Hombre'
+slug: 'B07NDPN9QT-es G-STAR RAW Citishield Round Neck Sudadera Azul Dk Aged 89...'
+tags: sudadera
 actualPrice: 35.7 EUR
 currency: EUR
 price: 35.7

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zbG-FjiOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JWQG5BH-es Pepe Jeans Elizabeth Pl401677 Chaqueta   Oyster 805   X-Large para Mujer'
+slug: 'B07JWQG5BH-es Pepe Jeans Elizabeth Pl401677 Chaqueta Oyster 805 X-Large...'
+tags: chaqueta
 actualPrice: 60.2 EUR
 currency: EUR
 price: 60.2

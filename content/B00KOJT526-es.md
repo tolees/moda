@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41iFsf8lSZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KOJT526-es Columbia Peakfreak Nomad Zapatos impermeables para hombre   Verde Nori  Tangy Orange   40 EU'
+slug: 'B00KOJT526-es Columbia Peakfreak Nomad Zapatos impermeables para hombre...'
+tags: zapatos
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

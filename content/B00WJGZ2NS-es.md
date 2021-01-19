@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41oD7cVMxPL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00WJGZ2NS-es Burberry 0BE4203 336973 57 Gafas de sol  Marrón Gradient Hazelnut/Brown  Mujer'
+slug: 'B00WJGZ2NS-es Burberry 0BE4203 336973 57 Gafas de sol Marrón Gradient...'
+tags: gafas
 actualPrice: 68.7 EUR
 currency: EUR
 price: 68.7

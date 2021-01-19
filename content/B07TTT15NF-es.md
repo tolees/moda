@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/3198MJBzIAL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TTT15NF-es Women s Secret Daily Bees Db Bee Stripes PJ Conjuntos de Pijama  Gris  Gama Grises 49   Small  Tamaño del Fabricante: S  para Mujer'
+slug: 'B07TTT15NF-es Women s Secret Daily Bees Db Bee Stripes PJ Conjuntos de...'
+tags: pijama
 actualPrice: 13.45 EUR
 currency: EUR
 price: 13.45

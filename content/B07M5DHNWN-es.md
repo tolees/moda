@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31sZY9ccc9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M5DHNWN-es Lee Brooklyn Straight Hombre Vaqueros  Gris  Moto Grey HG   27W / 31L'
+slug: 'B07M5DHNWN-es Lee Brooklyn Straight Hombre Vaqueros Gris Moto Grey HG...'
+tags: vaqueros
 actualPrice: 13.31 EUR
 currency: EUR
 price: 13.31

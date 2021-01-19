@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RM4SH3R-es Mochila Casual Moda LOL'
+tags: moda
 actualPrice: 18.0 EUR
 currency: EUR
 price: 18.0

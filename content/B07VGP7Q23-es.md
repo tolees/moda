@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31+0u6JP6gL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VGP7Q23-es HUGO 708 Vaqueros Slim  Negro  Black 1   W34/L34  Talla del Fabricante: 3434  para Hombre'
+slug: 'B07VGP7Q23-es HUGO 708 Vaqueros Slim Negro Black 1 W34/L34 Talla del...'
+tags: vaqueros
 actualPrice: 20.63 EUR
 currency: EUR
 price: 20.63

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31jIhs-gVmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0772FGV9K-es Marca Amazon - MERAKI Pantalones Chinos Regular Fit Hombre  Red  Beet Red   38W / 34L  Label: 38W / 34L'
+slug: 'B0772FGV9K-es Marca Amazon - MERAKI Pantalones Chinos Regular Fit Hombre...'
+tags: meraki
 actualPrice: 15.91 EUR
 currency: EUR
 price: 15.91

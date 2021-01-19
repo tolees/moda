@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41b-di3l30L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JBZ3XPB-es Columbia Powder Lite Jacket Chaqueta  Hombre  Rojo  Jasper-Red   XXL'
+slug: 'B07JBZ3XPB-es Columbia Powder Lite Jacket Chaqueta Hombre Rojo Jasper-...'
+tags: chaqueta
 actualPrice: 56.99 EUR
 currency: EUR
 price: 56.99

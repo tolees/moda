@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41dETNzl0YL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NDNPFLW-es G-STAR RAW Whistler Slim Down Hooded Chaqueta  Gris  Mercury 1359   38  Talla del Fabricante: Small  para Mujer'
+slug: 'B07NDNPFLW-es G-STAR RAW Whistler Slim Down Hooded Chaqueta Gris Mercury...'
+tags: chaqueta
 actualPrice: 69.56 EUR
 currency: EUR
 price: 69.56

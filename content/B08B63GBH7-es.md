@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ZVgRQUClL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08B63GBH7-es Reloj de Cuarzo Deportivo Casual de Moda para Hombres y Mujeres  Caja Dorada Redonda  Hour MIN Sec  Reloj de Pulsera de Cuero sintético  Reloj Masculino'
+slug: 'B08B63GBH7-es Reloj de Cuarzo Deportivo Casual de Moda para Hombres y...'
+tags: moda
 actualPrice: 1.03 EUR
 currency: EUR
 price: 1.03

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51YPeel3B+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KTT2K28-es anbiwangluo Zapatos de Lentejuelas de Niña Zapatos de Tacón Alto de Princesa Zapatos de Fiesta de Niños 30 EU/Tamaño de la Etiqueta 31 Rosado'
+slug: 'B07KTT2K28-es anbiwangluo Zapatos de Lentejuelas de Niña Zapatos de...'
+tags: zapatos
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

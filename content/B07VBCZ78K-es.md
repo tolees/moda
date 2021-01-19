@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51vCi+XyDjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VBCZ78K-es Desigual Fal Norah Falda  Azul  Marino 5001   Medium para Mujer'
+slug: 'B07VBCZ78K-es Desigual Fal Norah Falda Azul Marino 5001 Medium para Mujer'
+tags: falda
 actualPrice: 27.98 EUR
 currency: EUR
 price: 27.98

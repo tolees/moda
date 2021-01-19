@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41X1xpcQspL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RS86JRK-es Tommy Hilfiger Bella Hybrid LW Down Jacket Chaqueta  Rosa  Pink TZ8   Talla única  Talla del Fabricante: 32  para Mujer'
+slug: 'B07RS86JRK-es Tommy Hilfiger Bella Hybrid LW Down Jacket Chaqueta Rosa...'
+tags: chaqueta
 actualPrice: 67.56 EUR
 currency: EUR
 price: 67.56

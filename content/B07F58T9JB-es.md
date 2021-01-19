@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/411ef43NOkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F58T9JB-es Bolso De Compras de Bebé Cochecito Piezas de Automóvil Cortacésped Jardín Decor'
+slug: 'B07F58T9JB-es Bolso De Compras de Bebé Cochecito Piezas de Automóvil...'
+tags: bolso
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

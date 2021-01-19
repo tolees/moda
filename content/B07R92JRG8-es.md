@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Yy3nHderL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R92JRG8-es Columbia 1420421  Chaqueta Forro Polar Hombre  Azul  Collegiate Navy   XXL'
+slug: 'B07R92JRG8-es Columbia 1420421 Chaqueta Forro Polar Hombre Azul...'
+tags: chaqueta
 actualPrice: 30.49 EUR
 currency: EUR
 price: 30.49

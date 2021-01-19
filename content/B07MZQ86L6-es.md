@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41BI73H2QML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZQ86L6-es Pepe Jeans Hatch Vaqueros Slim   120z Deep Sea Denim Denim 000   W31/L32 para Hombre'
+slug: 'B07MZQ86L6-es Pepe Jeans Hatch Vaqueros Slim 120z Deep Sea Denim Denim...'
+tags: vaqueros
 actualPrice: 58.99 EUR
 currency: EUR
 price: 58.99

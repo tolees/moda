@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Qo7b-ferL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TKSNT7V-es Clarks Laina55 Court  Zapatos de Tacón para Mujer  Negro  Black SDE Black SDE   39 EU'
+slug: 'B07TKSNT7V-es Clarks Laina55 Court Zapatos de Tacón para Mujer Negro...'
+tags: zapatos
 actualPrice: 30.96 EUR
 currency: EUR
 price: 30.96

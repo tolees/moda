@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41rYxZ+0gnL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NDMZCZN-es G-STAR RAW Vehem Pocket Round Neck Camiseta  Verde  Sage 724   XX-Small para Hombre'
+slug: 'B07NDMZCZN-es G-STAR RAW Vehem Pocket Round Neck Camiseta Verde Sage 724...'
+tags: camiseta
 actualPrice: 8.95 EUR
 currency: EUR
 price: 8.95

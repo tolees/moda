@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41LZgra5XeL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WWXFRQM-es Rizador Pelo Plegable Profesional Planchas Rizadoras 25mm con Guantes 2 Pinzas  Tenacillas de Pelo Calentamiento Rápido Voltaje Compatible 100-240V para Viaje'
+slug: 'B07WWXFRQM-es Rizador Pelo Plegable Profesional Planchas Rizadoras 25mm...'
+tags: guantes
 actualPrice: 12.49 EUR
 currency: EUR
 price: 12.49

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/318PxLtFBfL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N195RQL-es Lee Crew Sws  Sudadera para Hombre  Negro  Black TT01   X-Large'
+slug: 'B07N195RQL-es Lee Crew Sws Sudadera para Hombre Negro Black TT01 X-Large'
+tags: sudadera
 actualPrice: 29.98 EUR
 currency: EUR
 price: 29.98

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/410mcn3BmcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077XLHCR2-es Under Armour Charged Cotton Scramble Hombre  Camisa Polo Masculina con Bolsillo En El Pecho Y Cuello De 2 Botones  Negro  2XL'
+slug: 'B077XLHCR2-es Under Armour Charged Cotton Scramble Hombre Camisa Polo...'
+tags: camisa
 actualPrice: 18.12 EUR
 currency: EUR
 price: 18.12

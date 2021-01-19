@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/417KBiV0CLL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VSHJ326-es Amilril Collar de Copo de Nieve Colgante  Plata de Ley 925 Joyería  San Valentín Regalos Originales'
+slug: 'B07VSHJ326-es Amilril Collar de Copo de Nieve Colgante Plata de Ley 925...'
+tags: collar
 actualPrice: 17.98 EUR
 currency: EUR
 price: 17.98

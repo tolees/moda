@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41pJXKmwrrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LBP5D8V-es Helly Hansen Jr Barrier Down Aislante Chaqueta De Pluma  Unisex niños  Blue Tint  16 YRS'
+slug: 'B07LBP5D8V-es Helly Hansen Jr Barrier Down Aislante Chaqueta De Pluma...'
+tags: chaqueta
 actualPrice: 35.36 EUR
 currency: EUR
 price: 35.36

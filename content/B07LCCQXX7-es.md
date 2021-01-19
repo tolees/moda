@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4114vDjSB8L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LCCQXX7-es Only Onlnew Skylar Spring Jacket CC OTW Chaqueta  Rosa Rose Wine  36  Talla del Fabricante: XS  para Mujer'
+slug: 'B07LCCQXX7-es Only Onlnew Skylar Spring Jacket CC OTW Chaqueta Rosa Rose...'
+tags: chaqueta
 actualPrice: 11.34 EUR
 currency: EUR
 price: 11.34

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/417zHxjsEeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CJTISNU-es Gafas de Natación para Niños  2 Paquete  - Júnior Gafas de Natación - Piscina gafas para Niños  Niñas - Protección UV  Anti Niebla  Sin Fugas  Impermeables'
+slug: 'B01CJTISNU-es Gafas de Natación para Niños 2 Paquete - Júnior Gafas de...'
+tags: gafas
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

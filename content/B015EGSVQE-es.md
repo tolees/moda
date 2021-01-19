@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31nkEVe+wxL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B015EGSVQE-es Ermenegildo Zegna Sonnenbrille EZ0035 Gafas de Sol  Plateado  Silver   61.0 para Hombre'
+slug: 'B015EGSVQE-es Ermenegildo Zegna Sonnenbrille EZ0035 Gafas de Sol...'
+tags: gafas
 actualPrice: 24.55 EUR
 currency: EUR
 price: 24.55

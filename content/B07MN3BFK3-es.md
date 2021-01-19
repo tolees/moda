@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41QM7OCEASL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MN3BFK3-es Lee Scarlett Cropped Vaqueros skinny  Azul  Clean Say Jj   27/35 para Mujer'
+slug: 'B07MN3BFK3-es Lee Scarlett Cropped Vaqueros skinny Azul Clean Say Jj...'
+tags: vaqueros
 actualPrice: 10.17 EUR
 currency: EUR
 price: 10.17

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41TVR0h8U0L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TDM1BZ8-es Quiksilver Scaly Chaqueta Acolchada con Capucha  Hombre  Negro  Black   S'
+slug: 'B07TDM1BZ8-es Quiksilver Scaly Chaqueta Acolchada con Capucha Hombre...'
+tags: chaqueta
 actualPrice: 37.5 EUR
 currency: EUR
 price: 37.5

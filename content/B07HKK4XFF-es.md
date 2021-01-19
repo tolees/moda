@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41k5yEsx7qL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HKK4XFF-es Under Armour UA HOVR Havoc 2  Zapatos de Baloncesto para Hombre  Rojo  Red/Glow Orange/Black  600  600   36.5 EU'
+slug: 'B07HKK4XFF-es Under Armour UA HOVR Havoc 2 Zapatos de Baloncesto para...'
+tags: zapatos
 actualPrice: 55.84 EUR
 currency: EUR
 price: 55.84

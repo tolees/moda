@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31n%2BEuNOcAL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N1HPMLY-es Clarks Pure Mist  Zapatos de Cordones Derby para Mujer  Marrón  Burgundy Leather Burgundy Leather   39.5 EU'
+slug: 'B07N1HPMLY-es Clarks Pure Mist Zapatos de Cordones Derby para Mujer...'
+tags: zapatos
 actualPrice: 26.45 EUR
 currency: EUR
 price: 26.45

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41GIAL1woxL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HL56LPQ-es Vansney Moda Mujer Chunky Sneakers Mocasines Confort Señoras Mesh Vamp Zapatos de Trabajo Cordones Planos Entrenadores Deportes Correr Senderismo Grueso Inferior Plataforma Zapatos'
+slug: 'B07HL56LPQ-es Vansney Moda Mujer Chunky Sneakers Mocasines Confort...'
+tags: moda, zapatos
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

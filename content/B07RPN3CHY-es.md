@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41q4JL5GWYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RPN3CHY-es Depiladora IPL Openuye  sistema de depilación para mujeres y hombres  máquina de belleza  depilación indolora  cabezal láser de 600 000 flashes con gafas IPL y maquinilla de afeitar'
+slug: 'B07RPN3CHY-es Depiladora IPL Openuye sistema de depilación para mujeres...'
+tags: gafas
 actualPrice: 82.99 EUR
 currency: EUR
 price: 82.99

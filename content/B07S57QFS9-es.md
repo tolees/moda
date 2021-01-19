@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41F3c58xEeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S57QFS9-es Columbia Vapor Vent  Zapatos para Hombre  Gris  Steam/Royal 088   42.5 EU'
+slug: 'B07S57QFS9-es Columbia Vapor Vent Zapatos para Hombre Gris Steam/Royal...'
+tags: zapatos
 actualPrice: 62.65 EUR
 currency: EUR
 price: 62.65

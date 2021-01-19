@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51w9ZYvr9GL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XZQ8NT8-es ARTESANIA CERDA Bolso Bandolera 3D Harry Potter  Unisex Adultos  Rojo  Rojo   5x19x18 cm  W x H x L '
+slug: 'B07XZQ8NT8-es ARTESANIA CERDA Bolso Bandolera 3D Harry Potter Unisex...'
+tags: bolso
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

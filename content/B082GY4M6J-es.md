@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31zrqfljbfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082GY4M6J-es Oihxse Cristal Case - Compatible con Samsung Galaxy A8 Plus 2018 Funda  Ultra-Delgado Silicona TPU Suave Airbag Gradiente de Color Carcasa Elegante Moda Lindo Protectora Cubierta  Rosa púrpura '
+slug: 'B082GY4M6J-es Oihxse Cristal Case - Compatible con Samsung Galaxy A8...'
+tags: moda
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98

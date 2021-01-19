@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41HuFU-lMYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SWTRFJF-es Geox D Ophira C  Zapatillas para Mujer  Beige  Lt Taupe/Lt Gold Ch62l   38 EU'
+slug: 'B07SWTRFJF-es Geox D Ophira C Zapatillas para Mujer Beige Lt Taupe/Lt...'
+tags: geox
 actualPrice: 69.58 EUR
 currency: EUR
 price: 69.58

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41hDI5uCaYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFYL1YT-es Geox D HOARA B  Botas Estilo Motero para Mujer  Negro  Black C9999   38 EU'
+slug: 'B07LFYL1YT-es Geox D HOARA B Botas Estilo Motero para Mujer Negro Black...'
+tags: geox
 actualPrice: 63.61 EUR
 currency: EUR
 price: 63.61

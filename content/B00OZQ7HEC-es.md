@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41QTZcazExL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00OZQ7HEC-es adidas T-Shirt Originals Sport Essentials tee - Camiseta  Color Negro  Talla l'
+slug: 'B00OZQ7HEC-es adidas T-Shirt Originals Sport Essentials tee - Camiseta...'
+tags: camiseta
 actualPrice: 20.13 EUR
 currency: EUR
 price: 20.13

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41b6Amv1JnL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TP652FK-es Calvin Klein Jeans Ckj 016 Vaqueros Skinny  Azul  Copenhagen Grey 911   W28/L34  Talla del Fabricante: 3428  para Hombre'
+slug: 'B07TP652FK-es Calvin Klein Jeans Ckj 016 Vaqueros Skinny Azul Copenhagen...'
+tags: vaqueros
 actualPrice: 43.94 EUR
 currency: EUR
 price: 43.94

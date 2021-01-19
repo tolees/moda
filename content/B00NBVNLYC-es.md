@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/317FYWVHi5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00NBVNLYC-es Joma Brama Classic - Pantalón Largo térmico para niños de 12-14 años  Color Negro'
+slug: 'B00NBVNLYC-es Joma Brama Classic - Pantalón Largo térmico para niños de...'
+tags: pantalón
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

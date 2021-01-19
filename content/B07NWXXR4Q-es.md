@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31RsUouO4fL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NWXXR4Q-es Joma Cairo II Sudadera  Hombre  Blanco  XL'
+slug: 'B07NWXXR4Q-es Joma Cairo II Sudadera Hombre Blanco XL'
+tags: sudadera
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51GWXFl1hyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076HRH33L-es adidas CV3429 Sudadera con Capucha  Unisex Niños  Gris  Gris/Negro   13-14 años  Talla del Fabricante: 164 '
+slug: 'B076HRH33L-es adidas CV3429 Sudadera con Capucha Unisex Niños Gris...'
+tags: sudadera
 actualPrice: 25.98 EUR
 currency: EUR
 price: 25.98

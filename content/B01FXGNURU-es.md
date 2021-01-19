@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Ie61RULbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01FXGNURU-es Under Armour UA TAC Heatgear Comp tee Camiseta  Hombre  Marrón  Federal Tan/None 499   L'
+slug: 'B01FXGNURU-es Under Armour UA TAC Heatgear Comp tee Camiseta Hombre...'
+tags: camiseta
 actualPrice: 22.39 EUR
 currency: EUR
 price: 22.39

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/314ihukAdCL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V5CJTWS-es Titular de pasaporte minimalista xperg  Billetera de viaje / pasaporte de cuero de microfibra para hombre y para mujer  organizador de documentos / soporte para tarjetas de crédito / identificación'
+slug: 'B07V5CJTWS-es Titular de pasaporte minimalista xperg Billetera de viaje...'
+tags: billetera
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

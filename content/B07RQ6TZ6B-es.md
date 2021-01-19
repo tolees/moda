@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41TPl32k5kL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RQ6TZ6B-es Lee Luke Vaqueros  Nitrate VM  29W / 32L para Hombre'
+slug: 'B07RQ6TZ6B-es Lee Luke Vaqueros Nitrate VM 29W / 32L para Hombre'
+tags: vaqueros
 actualPrice: 41.25 EUR
 currency: EUR
 price: 41.25

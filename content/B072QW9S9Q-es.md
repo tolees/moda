@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41VLRKCz6vL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072QW9S9Q-es Lee Logo tee Camiseta  Negro  Black Ai01   Large para Hombre'
+slug: 'B072QW9S9Q-es Lee Logo tee Camiseta Negro Black Ai01 Large para Hombre'
+tags: camiseta
 actualPrice: 12.5 EUR
 currency: EUR
 price: 12.5

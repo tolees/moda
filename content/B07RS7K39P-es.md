@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41wdKtX+DSL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RS7K39P-es JACK & JONES Jcosteve Shirt LS Worker Camisa  Azul  Chambray Blue Fit:/Slim   X-Large para Hombre'
+slug: 'B07RS7K39P-es JACK & JONES Jcosteve Shirt LS Worker Camisa Azul Chambray...'
+tags: camisa
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

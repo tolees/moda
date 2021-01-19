@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31SCsG4FzTL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CZ9BCD8-es Under Armour UA Speed Stride Camiseta  Mujer  Negro  Black 001   XL'
+slug: 'B07CZ9BCD8-es Under Armour UA Speed Stride Camiseta Mujer Negro Black...'
+tags: camiseta
 actualPrice: 11.51 EUR
 currency: EUR
 price: 11.51

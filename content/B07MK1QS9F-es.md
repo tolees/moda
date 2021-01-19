@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41kvuPHWWtL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MK1QS9F-es Napapijri Rainforest Winter 1 Chaqueta  Rojo  High Risk Red RA3   XXL para Hombre'
+slug: 'B07MK1QS9F-es Napapijri Rainforest Winter 1 Chaqueta Rojo High Risk Red...'
+tags: chaqueta
 actualPrice: 80.45 EUR
 currency: EUR
 price: 80.45

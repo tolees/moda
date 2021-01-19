@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41pYVWCGeeL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B077HY9NNJ-es Under Armour 1320610 UA Slim Leg Crop - Pantalón de felpa para mujer  Negro  001   XS'
+slug: 'B077HY9NNJ-es Under Armour 1320610 UA Slim Leg Crop - Pantalón de felpa...'
+tags: pantalón
 actualPrice: 19.35 EUR
 currency: EUR
 price: 19.35

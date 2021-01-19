@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41nWb0B4HoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004H5MMFA-es Lee Brooklyn Comfort  Vaqueros Rectos para Hombre  Azul  Dark Stonewash   W33/L30'
+slug: 'B004H5MMFA-es Lee Brooklyn Comfort Vaqueros Rectos para Hombre Azul Dark...'
+tags: vaqueros
 actualPrice: 40.17 EUR
 currency: EUR
 price: 40.17

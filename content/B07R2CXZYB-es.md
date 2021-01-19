@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51-0FywRPgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R2CXZYB-es BaZhaHei Bolsos de Hombro Bolsos de Mujer Y Bolsos de Dibujos Animados NiñOs NiñAs Mini Bolso Crossbody'
+slug: 'B07R2CXZYB-es BaZhaHei Bolsos de Hombro Bolsos de Mujer Y Bolsos de...'
+tags: bolso
 actualPrice: 1.9 EUR
 currency: EUR
 price: 1.9

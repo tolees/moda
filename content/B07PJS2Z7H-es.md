@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41TN4-WJoVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PJS2Z7H-es Tous New Essence  Bolso de mano para Mujer  Multicolor  Mostaza Topo 995900799   31x24x15 cm  W x H x L '
+slug: 'B07PJS2Z7H-es Tous New Essence Bolso de mano para Mujer Multicolor...'
+tags: bolso
 actualPrice: 90.2 EUR
 currency: EUR
 price: 90.2

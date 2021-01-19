@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/319Qq3OITkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071LH1ZHT-es Under Armour Sportstyle Pique Pantalón deportivo para hombre  pantalón largo transpirable  pantalones con bolsillos cómodos y ajustados  Black/White  001   XL'
+slug: 'B071LH1ZHT-es Under Armour Sportstyle Pique Pantalón deportivo para...'
+tags: pantalón
 actualPrice: 35.41 EUR
 currency: EUR
 price: 35.41

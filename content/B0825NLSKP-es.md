@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41v52j4wDSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0825NLSKP-es Quiksilver Colors In Stereo - Camiseta para Hombre Screen tee  Hombre  Black  M'
+slug: 'B0825NLSKP-es Quiksilver Colors In Stereo - Camiseta para Hombre Screen...'
+tags: camiseta
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

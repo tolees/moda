@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Aa9XCCCkL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P5LCFVZ-es Ogeenier Pantalones de Yoga de Mujer Pantalón de Pilates de Cintura Alta Yoga Gimnasio Running Training'
+slug: 'B07P5LCFVZ-es Ogeenier Pantalones de Yoga de Mujer Pantalón de Pilates...'
+tags: pantalón
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

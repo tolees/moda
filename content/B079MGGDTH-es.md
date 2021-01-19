@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31B50uSxJfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079MGGDTH-es Marca Amazon - MERAKI Camiseta de Manga Corta con Corte Estándar y Cuello de Pico Hombre  Azul  Navy   L  Label: L'
+slug: 'B079MGGDTH-es Marca Amazon - MERAKI Camiseta de Manga Corta con Corte...'
+tags: camiseta, meraki
 actualPrice: 7.14 EUR
 currency: EUR
 price: 7.14

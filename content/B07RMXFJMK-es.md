@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-buz5j3SL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RMXFJMK-es SimpleLife Bolso Bandolera de Las Mujeres  holográfica Transparente pequeño PVC Bandolera Bandolera Bolsa de Mensajero'
+slug: 'B07RMXFJMK-es SimpleLife Bolso Bandolera de Las Mujeres holográfica...'
+tags: bolso
 actualPrice: 17.25 EUR
 currency: EUR
 price: 17.25

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31C7tGnW1HL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D5TNYXH-es Celio Maestro Camisa  Blanc  Large para Hombre'
+slug: 'B07D5TNYXH-es Celio Maestro Camisa Blanc Large para Hombre'
+tags: camisa
 actualPrice: 15 EUR
 currency: EUR
 price: 15

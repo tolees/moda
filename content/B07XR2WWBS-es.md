@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31UY8e+QvJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XR2WWBS-es Marca Amazon - FIND Mule Wedge Zapatos de tacón con Punta Abierta  Beige  Sand   39 EU'
+slug: 'B07XR2WWBS-es Marca Amazon - FIND Mule Wedge Zapatos de tacón con Punta...'
+tags: zapatos
 actualPrice: 4.88 EUR
 currency: EUR
 price: 4.88

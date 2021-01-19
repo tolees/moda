@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31JssbpYJLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VPRBXVC-es Tommy Hilfiger Essential Original tee S/s Camiseta  Azul  Exotic Teal 326/650 Ctx   Talla Única  Talla del Fabricante: 80  para Niños'
+slug: 'B07VPRBXVC-es Tommy Hilfiger Essential Original tee S/s Camiseta Azul...'
+tags: camiseta
 actualPrice: 8.3 EUR
 currency: EUR
 price: 8.3

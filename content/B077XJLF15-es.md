@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41oSq59CB4L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B077XJLF15-es Superdry Tech Hood Pop Zip SD-Windcheater Chaqueta  Multicolor  Black/Raspberry 27b   38  Talla del Fabricante: 10  para Mujer'
+slug: 'B077XJLF15-es Superdry Tech Hood Pop Zip SD-Windcheater Chaqueta...'
+tags: chaqueta
 actualPrice: 61.47 EUR
 currency: EUR
 price: 61.47

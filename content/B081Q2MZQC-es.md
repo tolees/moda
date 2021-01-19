@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zHJIFke8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081Q2MZQC-es UTOBEST Mochila Running Hidratacion 3L Chaleco Hidratación Trail Running para Bicicleta Ciclismo Maraton Hombre Mujer Red S/M '
+slug: 'B081Q2MZQC-es UTOBEST Mochila Running Hidratacion 3L Chaleco Hidratación...'
+tags: chaleco
 actualPrice: 25.8 EUR
 currency: EUR
 price: 25.8

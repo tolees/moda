@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/411HR4vLg-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RYW5P5D-es BOSS Brief 3p Co/El Bóxer  Multicolor  S  Pack de 3  para Hombre'
+slug: 'B07RYW5P5D-es BOSS Brief 3p Co/El Bóxer Multicolor S Pack de 3 para Hombre'
+tags: bóxer
 actualPrice: 18.98 EUR
 currency: EUR
 price: 18.98

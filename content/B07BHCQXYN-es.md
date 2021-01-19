@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413gxBW1itL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BHCQXYN-es Zeewoo Casual Mochila Bolso Aire Libre Ocio Mochila Bolsa para Las Niñas Chico Mochilas Impermeables de Escuela Laptop Mochila con Puerto de Carga USB'
+slug: 'B07BHCQXYN-es Zeewoo Casual Mochila Bolso Aire Libre Ocio Mochila Bolsa...'
+tags: bolso
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/415hU0TMDyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFDX4L1-es Levi s 514 Vaqueros Straight  Azul  Stonewash Stretch T2 1267   W40/L34  Talla del Fabricante: 40 34  para Hombre'
+slug: 'B07LFDX4L1-es Levi s 514 Vaqueros Straight Azul Stonewash Stretch T2...'
+tags: vaqueros
 actualPrice: 22.84 EUR
 currency: EUR
 price: 22.84

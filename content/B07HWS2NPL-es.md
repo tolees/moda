@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51I-QjOyVVL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HWS2NPL-es GANT D1. Harvest Moon Chiffon Blouse Blusa  Azul  Persian Blue 423   38  Talla del Fabricante: 36  para Mujer'
+slug: 'B07HWS2NPL-es GANT D1. Harvest Moon Chiffon Blouse Blusa Azul Persian...'
+tags: blusa
 actualPrice: 46.54 EUR
 currency: EUR
 price: 46.54

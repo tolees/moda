@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31mbC6R85vL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SQQ12GM-es Geox D Genova Moc A  Mocasines para Mujer  Rosa  Cyclamen C8335   39 5 EU'
+slug: 'B07SQQ12GM-es Geox D Genova Moc A Mocasines para Mujer Rosa Cyclamen...'
+tags: geox
 actualPrice: 29.47 EUR
 currency: EUR
 price: 29.47

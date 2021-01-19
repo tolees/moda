@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41mY3rlvyZL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M8B4TL8-es Wrangler Jacket Chaqueta Bomber  Negro  Black 100   Small para Hombre'
+slug: 'B07M8B4TL8-es Wrangler Jacket Chaqueta Bomber Negro Black 100 Small para...'
+tags: chaqueta
 actualPrice: 37.46 EUR
 currency: EUR
 price: 37.46

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+lXTIriLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S37C9TD-es ARTESANIA CERDA Largo Conjuntos de Pijama  Rojo  Rojo C06   14 años  Tamaño del Fabricante:14A  para Niños'
+slug: 'B07S37C9TD-es ARTESANIA CERDA Largo Conjuntos de Pijama Rojo Rojo C06 14...'
+tags: pijama
 actualPrice: 14.64 EUR
 currency: EUR
 price: 14.64

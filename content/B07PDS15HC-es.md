@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31t1HAbc-yL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PDS15HC-es Geox U Garret B  Botas Clasicas para Hombre  Marrón  Mud/Bordeaux C6446   42 EU'
+slug: 'B07PDS15HC-es Geox U Garret B Botas Clasicas para Hombre Marrón...'
+tags: geox
 actualPrice: 37.15 EUR
 currency: EUR
 price: 37.15

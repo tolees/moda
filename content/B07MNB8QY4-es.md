@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Uwl1pBcRL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MNB8QY4-es Geox D Sukie D  Zapatillas para Mujer  Rojo  Bordeaux C7005   36 EU'
+slug: 'B07MNB8QY4-es Geox D Sukie D Zapatillas para Mujer Rojo Bordeaux C7005...'
+tags: geox
 actualPrice: 25.39 EUR
 currency: EUR
 price: 25.39

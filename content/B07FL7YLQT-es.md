@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31ek8tJdYBL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FL7YLQT-es Superdry O L Vintage Emb S/s Vee tee Camiseta de Tirantes  Blanco  Optic White 26C   XX-Large  Talla del Fabricante: 2XL  para Hombre'
+slug: 'B07FL7YLQT-es Superdry O L Vintage Emb S/s Vee tee Camiseta de Tirantes...'
+tags: camiseta
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

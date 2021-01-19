@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ceH31k2pL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GGQGWDR-es PROSTEEL Collar de Oro con Colgante Guitarra electrónica Cadena Cubana Hombre Dorada Chapado en Oro 18 k'
+slug: 'B07GGQGWDR-es PROSTEEL Collar de Oro con Colgante Guitarra electrónica...'
+tags: collar
 actualPrice: 16.49 EUR
 currency: EUR
 price: 16.49

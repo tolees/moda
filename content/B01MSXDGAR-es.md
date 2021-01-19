@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41uToSlRW1L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MSXDGAR-es find. Vestido con Escote Entrelazado para Mujer   Rosa  Old Rose   38  Talla del Fabricante: Small '
+slug: 'B01MSXDGAR-es find. Vestido con Escote Entrelazado para Mujer Rosa Old...'
+tags: vestido
 actualPrice: 7 EUR
 currency: EUR
 price: 7

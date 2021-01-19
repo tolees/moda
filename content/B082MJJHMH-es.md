@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31HH1udic-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082MJJHMH-es TIK TOK Camiseta Corta para Niñas Adolescentes Moda Verano Sexy Tops de Manga Corta  Cuello Redondo Ropa Deportiva Casual Chalecos para Mujeres'
+slug: 'B082MJJHMH-es TIK TOK Camiseta Corta para Niñas Adolescentes Moda Verano...'
+tags: camiseta, moda
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

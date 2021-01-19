@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31lOcT+Xb4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0788LWHL5-es Salomon AGILE LS Camiseta deportiva de manga larga  Hombre  Negro  Black   XL'
+slug: 'B0788LWHL5-es Salomon AGILE LS Camiseta deportiva de manga larga Hombre...'
+tags: camiseta
 actualPrice: 34.98 EUR
 currency: EUR
 price: 34.98

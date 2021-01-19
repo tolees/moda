@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41xhB5p5d2L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00MOZ2KJI-es Dickies Streetwear Male Shirt Sacramento - Camiseta / Camisa deportivas para hombre  color verde  pine green   talla Large'
+slug: 'B00MOZ2KJI-es Dickies Streetwear Male Shirt Sacramento - Camiseta /...'
+tags: camisa, camiseta
 actualPrice: 34.78 EUR
 currency: EUR
 price: 34.78

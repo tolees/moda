@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41w7NtQEADL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZPPXPW-es Pepe Jeans Regent Vaqueros Skinny  Azul  Medium Used Hydroless Denim 000   W33/L32 para Mujer'
+slug: 'B07MZPPXPW-es Pepe Jeans Regent Vaqueros Skinny Azul Medium Used...'
+tags: vaqueros
 actualPrice: 45.81 EUR
 currency: EUR
 price: 45.81

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41hjrTQd7DL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MVJBVP5-es Kipling Izellah  Bolso con Bandolera para Mujer  Morado  Dark Plum   33x23x12 centimeters  B x H x T '
+slug: 'B07MVJBVP5-es Kipling Izellah Bolso con Bandolera para Mujer Morado Dark...'
+tags: bolso
 actualPrice: 37.5 EUR
 currency: EUR
 price: 37.5

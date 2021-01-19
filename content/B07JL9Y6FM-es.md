@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41wsGJTmQ5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JL9Y6FM-es 2*Piezas Conjunto de Lencería Pijama Semi Transparente de Verano sin Mangas Picardías Atractivas Floral Encaje+Braguita'
+slug: 'B07JL9Y6FM-es 2*Piezas Conjunto de Lencería Pijama Semi Transparente de...'
+tags: pijama
 actualPrice: 5.15 EUR
 currency: EUR
 price: 5.15

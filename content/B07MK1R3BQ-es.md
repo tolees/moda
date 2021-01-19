@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41AhRU3xplL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MK1R3BQ-es Napapijri TERRES Sudadera  Gris  Dark Grey Solid 198   S para Hombre'
+slug: 'B07MK1R3BQ-es Napapijri TERRES Sudadera Gris Dark Grey Solid 198 S para...'
+tags: sudadera
 actualPrice: 26.86 EUR
 currency: EUR
 price: 26.86

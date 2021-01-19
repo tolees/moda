@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41KqyqgdWhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DYMW3VM-es NOVECASA Chaleco Sauna Hombre Neopreno Camiseta sin Mangas/Sudoración Pantalones Cortos Body Shaper Transpirar Gimnasia Abdome Adelgaz  S  Chaleco Amarillo '
+slug: 'B07DYMW3VM-es NOVECASA Chaleco Sauna Hombre Neopreno Camiseta sin...'
+tags: camiseta, chaleco
 actualPrice: 14.96 EUR
 currency: EUR
 price: 14.96

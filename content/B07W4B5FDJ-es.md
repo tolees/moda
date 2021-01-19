@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41zpzIhUDuL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W4B5FDJ-es JACK & JONES Jcoglobe Parka Abrigos Hombre  Azul China Blue  Small'
+slug: 'B07W4B5FDJ-es JACK & JONES Jcoglobe Parka Abrigos Hombre Azul China Blue...'
+tags: parka
 actualPrice: 40 EUR
 currency: EUR
 price: 40

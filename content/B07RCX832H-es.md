@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41He8%2BZeNXL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RCX832H-es Columbia Challenger Chaqueta Sudadera  Hombre  Rojo  Mountain Red/Black   M'
+slug: 'B07RCX832H-es Columbia Challenger Chaqueta Sudadera Hombre Rojo Mountain...'
+tags: chaqueta, sudadera
 actualPrice: 74.95 EUR
 currency: EUR
 price: 74.95

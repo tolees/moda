@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ojKyiohwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFRN1DC-es Geox D ANNYTAH D  Bailarinas para Mujer  Negro  Black C9997   35 EU'
+slug: 'B07LFRN1DC-es Geox D ANNYTAH D Bailarinas para Mujer Negro Black C9997...'
+tags: geox
 actualPrice: 22.07 EUR
 currency: EUR
 price: 22.07

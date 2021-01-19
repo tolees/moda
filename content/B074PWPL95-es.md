@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41j-2v+dYmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074PWPL95-es Hurley M One and Only Surf Camiseta de Manga Corta  Hombre  Negro  Black/White   S'
+slug: 'B074PWPL95-es Hurley M One and Only Surf Camiseta de Manga Corta Hombre...'
+tags: camiseta
 actualPrice: 25.94 EUR
 currency: EUR
 price: 25.94

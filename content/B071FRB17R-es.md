@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31EE7sTd4nL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071FRB17R-es Herzmutter Pijama de Maternidad - Pijama de Lactancia - Pijama para Embarazadas - Encajes - Azul-Gris-Gris Pardo - 2000  M  Gris Pardo '
+slug: 'B071FRB17R-es Herzmutter Pijama de Maternidad - Pijama de Lactancia -...'
+tags: pijama
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

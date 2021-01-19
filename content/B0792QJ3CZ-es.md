@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51vb8MnUARL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0792QJ3CZ-es CoolBELL Mochila Convertible en Bolso de Hombro para Guardar Ordenadores portátiles. Maletín de Negocios Mochila de Viaje para Guardar Ordenadores portátiles de 17 3 Pulgadas  Gris '
+slug: 'B0792QJ3CZ-es CoolBELL Mochila Convertible en Bolso de Hombro para...'
+tags: bolso
 actualPrice: 31.44 EUR
 currency: EUR
 price: 31.44

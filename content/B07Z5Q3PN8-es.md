@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/418gY-UBuDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z5Q3PN8-es Jack & Jones Jcowiseman Sweat High Neck Ka Sudadera  Multicolor  Cuello Negro:/Cuello Alto/Auténtico   Medium  Herstellergröße: M  para Hombre'
+slug: 'B07Z5Q3PN8-es Jack & Jones Jcowiseman Sweat High Neck Ka Sudadera...'
+tags: sudadera
 actualPrice: 12.62 EUR
 currency: EUR
 price: 12.62

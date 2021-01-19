@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41d1INNWdRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0831HG4ST-es Marca Amazon - AURIQUE Low Impact Strappy - Sujetador deportivo Mujer  Gris  impresión de mármol de la India .  M  Label:M'
+slug: 'B0831HG4ST-es Marca Amazon - AURIQUE Low Impact Strappy - Sujetador...'
+tags: aurique
 actualPrice: 14.0 EUR
 currency: EUR
 price: 14.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41PTBNNGU8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D9J2ZCG-es LolaPix Bolso Tela Profesor y Profesora Personalizado con Nombre del Maestro o Maestra. Regalo Original Fin de Curso. Tote Bag. Varios dieños. Bolsa Nature. Mejor Profesor del Mundo'
+slug: 'B07D9J2ZCG-es LolaPix Bolso Tela Profesor y Profesora Personalizado con...'
+tags: bolso
 actualPrice: 24.95 EUR
 currency: EUR
 price: 24.95

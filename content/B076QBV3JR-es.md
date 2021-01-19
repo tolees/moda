@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41yNMLlW0QL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076QBV3JR-es Tommy Hilfiger Core Stretch Slim Vneck tee Camiseta  Negro  Flag Black 083   XX-Large para Hombre'
+slug: 'B076QBV3JR-es Tommy Hilfiger Core Stretch Slim Vneck tee Camiseta Negro...'
+tags: camiseta
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

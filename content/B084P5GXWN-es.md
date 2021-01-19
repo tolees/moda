@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/514GhKXcMOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084P5GXWN-es Camiseta de Baloncesto para Hombre  Los Angeles Lakers #24 Kobe Bryant. Bordado Swingman Transpirable y Resistente al Desgaste Camiseta para Fan  Yellow-2  M '
+slug: 'B084P5GXWN-es Camiseta de Baloncesto para Hombre Los Angeles Lakers #24...'
+tags: camiseta
 actualPrice: 12.97 EUR
 currency: EUR
 price: 12.97

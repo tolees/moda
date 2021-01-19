@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31k7zjHp4XL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VSZZ2MF-es Lee Brooklyn Straight Hombre Vaqueros  Gris  Moto Flat EB   36W / 30L'
+slug: 'B07VSZZ2MF-es Lee Brooklyn Straight Hombre Vaqueros Gris Moto Flat EB...'
+tags: vaqueros
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

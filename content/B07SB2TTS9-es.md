@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31O-mh2iFjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SB2TTS9-es Camiseta Tirantes sin Mangas de Deporte para Mujer Verano  Tank Top Clásico Chaleco para Fitness Gimnasio Yoga Colores Opcionales Camiseta de Pijama Dormir  M  Negro '
+slug: 'B07SB2TTS9-es Camiseta Tirantes sin Mangas de Deporte para Mujer Verano...'
+tags: camiseta, chaleco, pijama
 actualPrice: 8.59 EUR
 currency: EUR
 price: 8.59

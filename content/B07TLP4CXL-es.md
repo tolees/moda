@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31490ux5k7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TLP4CXL-es Clarks Un Karely Sun  Sandalias de Talón Abierto para Mujer  Rojo  Red Nubuck Red Nubuck   41 EU'
+slug: 'B07TLP4CXL-es Clarks Un Karely Sun Sandalias de Talón Abierto para Mujer...'
+tags: sandalias
 actualPrice: 51.91 EUR
 currency: EUR
 price: 51.91

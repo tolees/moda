@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/417Agr6iS9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JCKB4Y9-es Columbia Autumn Rise  Chaqueta impermeable de longitud media  Mujer  Azul/Amarillo  Collegiate Navy  Canyon Gold   Talla S'
+slug: 'B07JCKB4Y9-es Columbia Autumn Rise Chaqueta impermeable de longitud...'
+tags: chaqueta
 actualPrice: 114.98 EUR
 currency: EUR
 price: 114.98

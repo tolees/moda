@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41CEXVw3-JL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KW66DQZ-es Disney muñeca Princesa Anna con Vestido  Capa y Botas de Viaje de Frozen II  Toddler 35 cm.'
+slug: 'B07KW66DQZ-es Disney muñeca Princesa Anna con Vestido Capa y Botas de...'
+tags: vestido
 actualPrice: 30.5 EUR
 currency: EUR
 price: 30.5

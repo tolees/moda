@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31E6dv3bO4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N6P8NT4-es Tommy Hilfiger 3p Bikini Tanga  Multicolor  Multi 077   Talla única  Talla del Fabricante: X-Small   Pack de 3  para Mujer'
+slug: 'B07N6P8NT4-es Tommy Hilfiger 3p Bikini Tanga Multicolor Multi 077 Talla...'
+tags: bikini
 actualPrice: 22.2 EUR
 currency: EUR
 price: 22.2

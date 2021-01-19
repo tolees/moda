@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31LXgjNjS-L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IFEF9DK-es Birkenstock Gizeh Eva - Sandalias unisex  Marrón  Copper   38'
+slug: 'B01IFEF9DK-es Birkenstock Gizeh Eva - Sandalias unisex Marrón Copper 38'
+tags: sandalias
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41plM7EV02L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PB9PQDW-es JACK & JONES Jcojordan tee SS Crew Neck Camiseta  Azul  Azure Blue Fit: Slim   Large para Hombre'
+slug: 'B07PB9PQDW-es JACK & JONES Jcojordan tee SS Crew Neck Camiseta Azul...'
+tags: camiseta
 actualPrice: 10.49 EUR
 currency: EUR
 price: 10.49

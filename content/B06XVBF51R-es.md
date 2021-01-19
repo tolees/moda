@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31eV-jHTARL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XVBF51R-es G-STAR RAW Core Super Slim Camisa Vaquera  Blanco  White 110   XS para Hombre'
+slug: 'B06XVBF51R-es G-STAR RAW Core Super Slim Camisa Vaquera Blanco White 110...'
+tags: camisa
 actualPrice: 22.18 EUR
 currency: EUR
 price: 22.18

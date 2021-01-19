@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31uqgQ3BM3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0776ZNPM6-es Tommy Hilfiger Regular C Camiseta con Cuello Redondo  Negro  Tommy Black   X-Small para Hombre'
+slug: 'B0776ZNPM6-es Tommy Hilfiger Regular C Camiseta con Cuello Redondo Negro...'
+tags: camiseta
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

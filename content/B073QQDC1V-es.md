@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41WWejzzm2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073QQDC1V-es Marca Amazon - find. Jersey de Punto con Textura para Hombre  Negro  Black/ivory   M  Label: M'
+slug: 'B073QQDC1V-es Marca Amazon - find. Jersey de Punto con Textura para...'
+tags: jersey, -, find.
 actualPrice: 6.59 EUR
 currency: EUR
 price: 6.59

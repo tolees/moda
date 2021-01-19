@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Vfmyc0UeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CZCNSQQ-es Under Armour Play Up Short 2.0 Pantalón Corto  Mujer  Negro  Black/Purple Prime/Purple Prime 041   S'
+slug: 'B07CZCNSQQ-es Under Armour Play Up Short 2.0 Pantalón Corto Mujer Negro...'
+tags: pantalón
 actualPrice: 13.97 EUR
 currency: EUR
 price: 13.97

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41bYJfooqcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IZBG612-es PUMA Popcat  Sandalias deslizantes Unisex Adulto  Negro  Black/Black/White   44.5 EU'
+slug: 'B01IZBG612-es PUMA Popcat Sandalias deslizantes Unisex Adulto Negro...'
+tags: sandalias
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

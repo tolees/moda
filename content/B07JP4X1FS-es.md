@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/311MYoPafyL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JP4X1FS-es Amazon Essentials - Pantalón de chándal pirata de algodón terry para mujer  Gris claro  US M  EU M - L '
+slug: 'B07JP4X1FS-es Amazon Essentials - Pantalón de chándal pirata de algodón...'
+tags: pantalón
 actualPrice: 8.8 EUR
 currency: EUR
 price: 8.8

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51wmGEAVxGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZMK88L-es Pepe Jeans Nadia Sudadera   Grey Marl 933   11-12 años  Talla del Fabricante: 11/12 años  para Niñas'
+slug: 'B07MZMK88L-es Pepe Jeans Nadia Sudadera Grey Marl 933 11-12 años Talla...'
+tags: sudadera
 actualPrice: 24.46 EUR
 currency: EUR
 price: 24.46

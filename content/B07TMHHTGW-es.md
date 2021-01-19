@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41lotlKLKRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TMHHTGW-es Levi s 511 Slim Vaqueros  Noce Cool  31W / 32L para Hombre'
+slug: 'B07TMHHTGW-es Levi s 511 Slim Vaqueros Noce Cool 31W / 32L para Hombre'
+tags: vaqueros
 actualPrice: 39.0 EUR
 currency: EUR
 price: 39.0

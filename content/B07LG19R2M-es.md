@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/310ZQok8FtL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LG19R2M-es Geox D Nebula D  Zapatillas para Mujer  Gris  Dk Grey C9002   35 EU'
+slug: 'B07LG19R2M-es Geox D Nebula D Zapatillas para Mujer Gris Dk Grey C9002...'
+tags: geox
 actualPrice: 94.5 EUR
 currency: EUR
 price: 94.5

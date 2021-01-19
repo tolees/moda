@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51-8hHvb6wL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08HGR2LQV-es catmoew Mujer Sudadera Tops Chaqueta Suéter Jersey Mujer Otoño Invierno Talla Grande Hoodie Sudadera Suelto Sólido Manga Larga con Capucha Tejido de Punto Oversize S-16XL'
+slug: 'B08HGR2LQV-es catmoew Mujer Sudadera Tops Chaqueta Suéter Jersey Mujer...'
+tags: chaqueta, jersey, sudadera
 actualPrice: 12.95 EUR
 currency: EUR
 price: 12.95

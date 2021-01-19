@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51UOSqP63zL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WTYG8Y3-es Vgo... 2Pares Guantes de Cuero de Cabra para Senderismo  Pesca y Actividad al Aire Libre  Talla 9 /L  Camo  GA3102 '
+slug: 'B07WTYG8Y3-es Vgo... 2Pares Guantes de Cuero de Cabra para Senderismo...'
+tags: guantes
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

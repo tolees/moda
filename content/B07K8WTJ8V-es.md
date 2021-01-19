@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31HrPgXhnwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K8WTJ8V-es G-STAR RAW 3301 Slim Vaqueros  Ultra Dk Aged 8968-9112  24W / 32L para Hombre'
+slug: 'B07K8WTJ8V-es G-STAR RAW 3301 Slim Vaqueros Ultra Dk Aged 8968-9112 24W...'
+tags: vaqueros
 actualPrice: 71.95 EUR
 currency: EUR
 price: 71.95

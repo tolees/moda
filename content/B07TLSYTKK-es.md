@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41PvgVYVXBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TLSYTKK-es Clarks Orinoco Strap  Sandalias de Talón Abierto para Mujer  Azul  Sky Blue Sky Blue   37.5 EU'
+slug: 'B07TLSYTKK-es Clarks Orinoco Strap Sandalias de Talón Abierto para Mujer...'
+tags: sandalias
 actualPrice: 40.38 EUR
 currency: EUR
 price: 40.38

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41fbF6sPy0L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MV9MNMH-es Kipling Art Mini  Bolso de Mano para Mujer  Morado  Dark Plum   28x23.5x18.5 centimeters  B x H x T '
+slug: 'B07MV9MNMH-es Kipling Art Mini Bolso de Mano para Mujer Morado Dark Plum...'
+tags: bolso
 actualPrice: 47.4 EUR
 currency: EUR
 price: 47.4

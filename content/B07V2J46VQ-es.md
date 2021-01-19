@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Rm54xRqSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V2J46VQ-es Tommy Hilfiger Corporate Leather Wedge Sandal  Sandalias Punta Cerrada para Mujer  Negro  Black Bds   39 EU'
+slug: 'B07V2J46VQ-es Tommy Hilfiger Corporate Leather Wedge Sandal Sandalias...'
+tags: sandalias
 actualPrice: 60.71 EUR
 currency: EUR
 price: 60.71

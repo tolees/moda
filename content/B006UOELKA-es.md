@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31JXVi9I6aL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B006UOELKA-es adidas Spiro espíritu de Equipo Polo Camiseta de la Mujer  Mujer  S177FBKRDXS  Negro/Rojo  XS'
+slug: 'B006UOELKA-es adidas Spiro espíritu de Equipo Polo Camiseta de la Mujer...'
+tags: camiseta
 actualPrice: 12.43 EUR
 currency: EUR
 price: 12.43

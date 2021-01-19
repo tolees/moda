@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51J8+XqeLsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0838S2WZZ-es AMZTM Dinosaurio Camiseta de Cumpleaños Bebé Cumpleaños Fiesta Manga Corta Regalo Cuello Redondo 100% algodón T-Rex Bordado Gráfico Gris T Shirt Regalo  Gris  83-89 '
+slug: 'B0838S2WZZ-es AMZTM Dinosaurio Camiseta de Cumpleaños Bebé Cumpleaños...'
+tags: camiseta
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

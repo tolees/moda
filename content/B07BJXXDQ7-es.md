@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51vS+xVeYXL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BJXXDQ7-es AmzBarley Princesa Disfraz Traje Vestido Niña Dress Costume Cumpleaños Cosplay Manga Larga con Capa Disfraz Princesa Niña Vestido Traje Niña Fiesta Verano Primavera Boda Cereminia 3-4 Años'
+slug: 'B07BJXXDQ7-es AmzBarley Princesa Disfraz Traje Vestido Niña Dress...'
+tags: vestido
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

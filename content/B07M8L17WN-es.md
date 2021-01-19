@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41eKn-Lo70L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M8L17WN-es Lee Sherpa Jacket Chaqueta Vaquera  Verde  Forest Night 96   X-Large para Hombre'
+slug: 'B07M8L17WN-es Lee Sherpa Jacket Chaqueta Vaquera Verde Forest Night 96...'
+tags: chaqueta
 actualPrice: 57.95 EUR
 currency: EUR
 price: 57.95

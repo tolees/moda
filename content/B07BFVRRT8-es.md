@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41vn9lVBk7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BFVRRT8-es Rismart Mujer Verano Tacón Grueso Punta Abierta Tartán Casual Vestir Comodidad Cuero Sandalias SN02035 Blanco EU40 '
+slug: 'B07BFVRRT8-es Rismart Mujer Verano Tacón Grueso Punta Abierta Tartán...'
+tags: sandalias
 actualPrice: 33.88 EUR
 currency: EUR
 price: 33.88

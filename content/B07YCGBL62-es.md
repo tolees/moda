@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ixlDh8EkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YCGBL62-es Vans Colorblock tee Camiseta  Multicolor  Ash Heather/Black Rp5   X-Small para Hombre'
+slug: 'B07YCGBL62-es Vans Colorblock tee Camiseta Multicolor Ash Heather/Black...'
+tags: camiseta
 actualPrice: 12.5 EUR
 currency: EUR
 price: 12.5

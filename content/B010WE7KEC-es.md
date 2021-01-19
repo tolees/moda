@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31e+UfPg6SL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B010WE7KEC-es Crocs Classic Clog  Zuecos Unisex Adulto  Amarillo  Lemon 7C1   45/46 EU'
+slug: 'B010WE7KEC-es Crocs Classic Clog Zuecos Unisex Adulto Amarillo Lemon 7C1...'
+tags: zuecos
 actualPrice: 21.59 EUR
 currency: EUR
 price: 21.59

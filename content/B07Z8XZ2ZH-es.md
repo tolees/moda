@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41HDqIeL+eL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z8XZ2ZH-es Alfheim - Maletín para Hombres  Bolso Bandolera  Bolsa de Lona Impermeable Vogue  Bolso de Mano con Correa de Hombro Desmontable  Apto para Negocios y Estudiantes  Negro '
+slug: 'B07Z8XZ2ZH-es Alfheim - Maletín para Hombres Bolso Bandolera Bolsa de...'
+tags: bolso
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31i%2B7Uh-MsL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MCSPP6G-es Napapijri Rainforest W WINT 3 Chaqueta  Azul  BLU Marine 176   M para Mujer'
+slug: 'B07MCSPP6G-es Napapijri Rainforest W WINT 3 Chaqueta Azul BLU Marine 176...'
+tags: chaqueta
 actualPrice: 116.23 EUR
 currency: EUR
 price: 116.23

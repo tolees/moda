@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31OcyI2HanL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MSKQW44-es HKT by Hackett Hkt SS tee Camiseta   Ink 591   Large para Hombre'
+slug: 'B07MSKQW44-es HKT by Hackett Hkt SS tee Camiseta Ink 591 Large para Hombre'
+tags: camiseta
 actualPrice: 14.5 EUR
 currency: EUR
 price: 14.5

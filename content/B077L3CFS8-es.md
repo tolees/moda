@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41QLKmIXMeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077L3CFS8-es HonourSport Falda Pantalón con Polainas Falda de Deportes para Mujer Capris Golf Tennis'
+slug: 'B077L3CFS8-es HonourSport Falda Pantalón con Polainas Falda de Deportes...'
+tags: falda, pantalón
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

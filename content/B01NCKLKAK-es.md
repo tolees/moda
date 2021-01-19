@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zLyswmMAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NCKLKAK-es G-Star Eyben Slim R T Wmn S/s Camiseta  Blanco  White 110   42  Talla del Fabricante: X-Large  para Mujer'
+slug: 'B01NCKLKAK-es G-Star Eyben Slim R T Wmn S/s Camiseta Blanco White 110 42...'
+tags: camiseta
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

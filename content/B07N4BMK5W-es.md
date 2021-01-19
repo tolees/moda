@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41AXQCirfWL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N4BMK5W-es United Colors of Benetton Basico 1 Man Chaqueta Punto  Gris  Grigio 507   Large para Hombre'
+slug: 'B07N4BMK5W-es United Colors of Benetton Basico 1 Man Chaqueta Punto Gris...'
+tags: chaqueta
 actualPrice: 23.89 EUR
 currency: EUR
 price: 23.89

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41mEEBqGAJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0788BNRNK-es Tommy Hilfiger Logo Tape Hoody Sudadera con Capucha y Cinta Distintiva  Gris  Grey Heather   Small para Hombre'
+slug: 'B0788BNRNK-es Tommy Hilfiger Logo Tape Hoody Sudadera con Capucha y...'
+tags: sudadera
 actualPrice: 59.37 EUR
 currency: EUR
 price: 59.37

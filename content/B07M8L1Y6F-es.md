@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416ckbbXpxL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M8L1Y6F-es Lee Essential Logo SWS Sudadera  Gris  Grey Mele MP   Medium para Mujer'
+slug: 'B07M8L1Y6F-es Lee Essential Logo SWS Sudadera Gris Grey Mele MP Medium...'
+tags: sudadera
 actualPrice: 28.03 EUR
 currency: EUR
 price: 28.03

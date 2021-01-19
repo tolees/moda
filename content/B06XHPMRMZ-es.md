@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+pDA2obNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XHPMRMZ-es Marca Amazon - find. Camisa Hombre  Azul  Blue   M  Label: M'
+slug: 'B06XHPMRMZ-es Marca Amazon - find. Camisa Hombre Azul Blue M Label: M'
+tags: camisa, -, find.
 actualPrice: 7.5 EUR
 currency: EUR
 price: 7.5

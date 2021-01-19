@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41iRt1hZxiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076N8DK3Y-es adidas CE9047 Chaqueta  Unisex niños  Negro  Black/White   176'
+slug: 'B076N8DK3Y-es adidas CE9047 Chaqueta Unisex niños Negro Black/White 176'
+tags: chaqueta
 actualPrice: 20.95 EUR
 currency: EUR
 price: 20.95

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/417roDQAoDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YCGF57F-es Vans Classic Camiseta  Multicolor  Ash Heather/Heliotrope Yky   X-Small para Hombre'
+slug: 'B07YCGF57F-es Vans Classic Camiseta Multicolor Ash Heather/Heliotrope...'
+tags: camiseta
 actualPrice: 22.45 EUR
 currency: EUR
 price: 22.45

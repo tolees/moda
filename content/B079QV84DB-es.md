@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31e2lOPgXYL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079QV84DB-es PUMA Liga Jersey Camiseta  Hombre  Blanco  White/Red   3XL'
+slug: 'B079QV84DB-es PUMA Liga Jersey Camiseta Hombre Blanco White/Red 3XL'
+tags: camiseta, jersey
 actualPrice: 8.94 EUR
 currency: EUR
 price: 8.94

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Fl5kjdmtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P3FYX28-es Superdry OL Elite Crew Sudadera  Gris  Slate 07x   Small para Mujer'
+slug: 'B07P3FYX28-es Superdry OL Elite Crew Sudadera Gris Slate 07x Small para...'
+tags: sudadera
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

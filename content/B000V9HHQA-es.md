@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41wc9rUi8iL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000V9HHQA-es Timberland Heritage Noreen 3 Eye  Náuticos para Mujer  Marrón  MD Brown Full Grain   37 EU'
+slug: 'B000V9HHQA-es Timberland Heritage Noreen 3 Eye Náuticos para Mujer...'
+tags: timberland
 actualPrice: 135.95 EUR
 currency: EUR
 price: 135.95

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31uTr4YMuCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TVQN93M-es Wrangler SS Rainbow tee Camiseta  Marfil  Off White 737   Small para Hombre'
+slug: 'B07TVQN93M-es Wrangler SS Rainbow tee Camiseta Marfil Off White 737...'
+tags: camiseta
 actualPrice: 8.64 EUR
 currency: EUR
 price: 8.64

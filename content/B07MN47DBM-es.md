@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Mw67EOVfL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MN47DBM-es Wrangler Straight Vaqueros para Mujer  Azul  Dark Indigo X1E   32W / 32L'
+slug: 'B07MN47DBM-es Wrangler Straight Vaqueros para Mujer Azul Dark Indigo X1E...'
+tags: vaqueros
 actualPrice: 44.98 EUR
 currency: EUR
 price: 44.98

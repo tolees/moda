@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/3118A8otKSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KZ7MHZX-es Calvin Klein Core Institutional Logo Slim tee Camiseta  Azul  Night Sky 402   XX-Large para Hombre'
+slug: 'B07KZ7MHZX-es Calvin Klein Core Institutional Logo Slim tee Camiseta...'
+tags: camiseta
 actualPrice: 16.89 EUR
 currency: EUR
 price: 16.89

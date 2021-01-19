@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/418XOHWcWUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KBJWPMY-es Vero Moda Vmeva Abby 3/4 Trenchcoat Noos Abrigo  Marrón  Silver Mink Silver Mink   44  Talla del Fabricante: X-Large  para Mujer'
+slug: 'B07KBJWPMY-es Vero Moda Vmeva Abby 3/4 Trenchcoat Noos Abrigo Marrón...'
+tags: abrigo, moda
 actualPrice: 25.88 EUR
 currency: EUR
 price: 25.88

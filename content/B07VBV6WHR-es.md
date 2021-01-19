@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/314b38qvOoL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VBV6WHR-es edc by Esprit 099cc1d009 Falda  Azul  Grey Blue 420   36  Talla del Fabricante: 34  para Mujer'
+slug: 'B07VBV6WHR-es edc by Esprit 099cc1d009 Falda Azul Grey Blue 420 36 Talla...'
+tags: falda
 actualPrice: 8.17 EUR
 currency: EUR
 price: 8.17

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31VyuRhAZYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TT6ZXWW-es Levi s 725 High Rise Bootcut Vaqueros Corte de Bota  Azul  Rolf Model 0001   W24/L30  Talla del Fabricante: 24 30  para Mujer'
+slug: 'B07TT6ZXWW-es Levi s 725 High Rise Bootcut Vaqueros Corte de Bota Azul...'
+tags: vaqueros
 actualPrice: 60.99 EUR
 currency: EUR
 price: 60.99

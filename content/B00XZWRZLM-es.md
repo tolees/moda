@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/311fh7fFBUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XZWRZLM-es Mercedes-Benz Sonnenbrille M5030 Gafas de Sol  Negro  Schwarz   58.0 para Hombre'
+slug: 'B00XZWRZLM-es Mercedes-Benz Sonnenbrille M5030 Gafas de Sol Negro...'
+tags: gafas
 actualPrice: 67.98 EUR
 currency: EUR
 price: 67.98

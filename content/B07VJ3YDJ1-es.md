@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/410t8v0jPuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VJ3YDJ1-es Jack & Jones Jjeemil Knit Roll Neck Noos Camiseta Cuello Alto  Gris  Dark Grey Melange Dark Grey Melange   Medium para Hombre'
+slug: 'B07VJ3YDJ1-es Jack & Jones Jjeemil Knit Roll Neck Noos Camiseta Cuello...'
+tags: camiseta
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

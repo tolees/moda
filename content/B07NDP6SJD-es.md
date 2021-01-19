@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41DERJ0hhFL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NDP6SJD-es G-STAR RAW Graphic 14 Core Hooded Sudadera  Negro  Dk Black 6484   XX-Small para Hombre'
+slug: 'B07NDP6SJD-es G-STAR RAW Graphic 14 Core Hooded Sudadera Negro Dk Black...'
+tags: sudadera
 actualPrice: 14.57 EUR
 currency: EUR
 price: 14.57

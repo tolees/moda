@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31BclSYKmBL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MJ6XBLD-es New Look Highwaist Skinny 6055144 Vaqueros  Negro  Black 1   46 para Mujer'
+slug: 'B07MJ6XBLD-es New Look Highwaist Skinny 6055144 Vaqueros Negro Black 1...'
+tags: vaqueros
 actualPrice: 11 EUR
 currency: EUR
 price: 11

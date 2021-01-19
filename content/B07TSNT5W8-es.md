@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31yG+TRZ6JL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TSNT5W8-es New Look Aw19 Piper Abrigo  Beige  Oatmeal 14   40  Talla del Fabricante: 12  para Mujer'
+slug: 'B07TSNT5W8-es New Look Aw19 Piper Abrigo Beige Oatmeal 14 40 Talla del...'
+tags: abrigo
 actualPrice: 19.0 EUR
 currency: EUR
 price: 19.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31zyP5HkJTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081B65CKL-es Columbia CSC Basic Logo II Sudadera con Capucha  Hombre  Negro  S'
+slug: 'B081B65CKL-es Columbia CSC Basic Logo II Sudadera con Capucha Hombre...'
+tags: sudadera
 actualPrice: 38.94 EUR
 currency: EUR
 price: 38.94

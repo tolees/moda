@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41U20fEGeAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RLY86CM-es Tommy Hilfiger Arlos Bomber Chaqueta deportiva  Verde  Green L8l   Large para Hombre'
+slug: 'B07RLY86CM-es Tommy Hilfiger Arlos Bomber Chaqueta deportiva Verde Green...'
+tags: chaqueta
 actualPrice: 56.52 EUR
 currency: EUR
 price: 56.52

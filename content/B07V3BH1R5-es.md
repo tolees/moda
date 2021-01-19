@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41WJvtnQuPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V3BH1R5-es INSTINNCT Monokini Bikini Mujer Push-up Acolchado Bra Trajes de Baño Brasileño Bañador Una Pieza1350'
+slug: 'B07V3BH1R5-es INSTINNCT Monokini Bikini Mujer Push-up Acolchado Bra...'
+tags: bikini
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

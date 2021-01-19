@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41QTW1aR8tL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N39ZTBX-es Desigual Shirt Frida Camisa  Blanco  Blanco 1000   M para Mujer'
+slug: 'B07N39ZTBX-es Desigual Shirt Frida Camisa Blanco Blanco 1000 M para Mujer'
+tags: camisa
 actualPrice: 44.31 EUR
 currency: EUR
 price: 44.31

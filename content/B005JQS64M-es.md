@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413RQtbnJgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005JQS64M-es Timberland Nellie Double Zapatillas Chukka  Mujer  Amarillo Wheat Nubuck  41 EU'
+slug: 'B005JQS64M-es Timberland Nellie Double Zapatillas Chukka Mujer Amarillo...'
+tags: timberland
 actualPrice: 87.99 EUR
 currency: EUR
 price: 87.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41IbOZQqFYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SFRZPF4-es Helly Hansen HH Logo Hoodie Sudadera con Capucha  Hombre  Azul Royal  S'
+slug: 'B07SFRZPF4-es Helly Hansen HH Logo Hoodie Sudadera con Capucha Hombre...'
+tags: sudadera
 actualPrice: 31.82 EUR
 currency: EUR
 price: 31.82

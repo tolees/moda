@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/512CxVnizYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RM3YMXG-es Tommy Hilfiger Hyper Classic Stripe Shirt Camisa  Azul  Blue A   X-Large para Hombre'
+slug: 'B07RM3YMXG-es Tommy Hilfiger Hyper Classic Stripe Shirt Camisa Azul Blue...'
+tags: camisa
 actualPrice: 40.91 EUR
 currency: EUR
 price: 40.91

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41koBjSmpeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0716NX7XX-es Activewear Mesh Camiseta Deportiva para Hombre  Weiß  White   Large'
+slug: 'B0716NX7XX-es Activewear Mesh Camiseta Deportiva para Hombre Weiß White...'
+tags: camiseta
 actualPrice: 4.07 EUR
 currency: EUR
 price: 4.07

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31RioJIzW8L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FKS6X6Y-es Trangoworld Mendilaz Chaqueta  Hombre  Gris  S'
+slug: 'B07FKS6X6Y-es Trangoworld Mendilaz Chaqueta Hombre Gris S'
+tags: chaqueta
 actualPrice: 29.07 EUR
 currency: EUR
 price: 29.07

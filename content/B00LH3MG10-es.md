@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4177XgTX7iL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00LH3MG10-es Helly Hansen W Paramount Softshell Chaqueta  Mujer  Negro  XS'
+slug: 'B00LH3MG10-es Helly Hansen W Paramount Softshell Chaqueta Mujer Negro XS'
+tags: chaqueta
 actualPrice: 39.41 EUR
 currency: EUR
 price: 39.41

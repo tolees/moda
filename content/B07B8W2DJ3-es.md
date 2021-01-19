@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31q9Fp15rYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B8W2DJ3-es Clarks Un Voyageplain  Zapatos de Cordones Derby para Hombre  Negro  Black Leather   40 EU'
+slug: 'B07B8W2DJ3-es Clarks Un Voyageplain Zapatos de Cordones Derby para...'
+tags: zapatos
 actualPrice: 46.77 EUR
 currency: EUR
 price: 46.77

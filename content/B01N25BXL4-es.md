@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41oxqAOWuaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N25BXL4-es Levi s The Perfect Tee  Camiseta para Mujer  Gris  Sportswear Logo Tee Smokestack 303   X-Small'
+slug: 'B01N25BXL4-es Levi s The Perfect Tee Camiseta para Mujer Gris Sportswear...'
+tags: camiseta
 actualPrice: 12.45 EUR
 currency: EUR
 price: 12.45

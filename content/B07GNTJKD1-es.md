@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/311w0QwSK2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GNTJKD1-es Skechers On-The-go 600-Flawless  Sandalias de Talón Abierto para Mujer  Negro  Black/Black Bbk   37 EU'
+slug: 'B07GNTJKD1-es Skechers On-The-go 600-Flawless Sandalias de Talón Abierto...'
+tags: sandalias
 actualPrice: 29.9 EUR
 currency: EUR
 price: 29.9

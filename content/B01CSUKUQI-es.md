@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41AwwlGViwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CSUKUQI-es Botas para Hombre De Seguridad Puntera De Acero Zapatos De Trabajo Senderismo Plantilla De Protección Unisex-Adulto S1P SRC CE Aprobado Black Hammer 9952 Black Hammer  44 EU '
+slug: 'B01CSUKUQI-es Botas para Hombre De Seguridad Puntera De Acero Zapatos De...'
+tags: zapatos
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

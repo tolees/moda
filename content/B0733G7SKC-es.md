@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31M+GhXCfVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0733G7SKC-es Marca Amazon - find. Sudadera de Tacto Suave para Hombre  Rojo  Sun Dried-tomato   L  Label: L'
+slug: 'B0733G7SKC-es Marca Amazon - find. Sudadera de Tacto Suave para Hombre...'
+tags: sudadera, -, find.
 actualPrice: 6.56 EUR
 currency: EUR
 price: 6.56

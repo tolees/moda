@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41eZ39oY+fL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081BJDS4N-es Columbia Powder Pass Chaqueta con Capucha  Hombre  Verde  New Olive Heather   M'
+slug: 'B081BJDS4N-es Columbia Powder Pass Chaqueta con Capucha Hombre Verde New...'
+tags: chaqueta
 actualPrice: 71.98 EUR
 currency: EUR
 price: 71.98

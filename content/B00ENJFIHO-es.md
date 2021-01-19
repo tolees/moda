@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/514eJY6XZ1L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ENJFIHO-es Nueva OU falda plisada para niñas con cintura elástica de uniforme escolar tallas de 2 a 17 años.'
+slug: 'B00ENJFIHO-es Nueva OU falda plisada para niñas con cintura elástica de...'
+tags: falda
 actualPrice: 1.78 EUR
 currency: EUR
 price: 1.78

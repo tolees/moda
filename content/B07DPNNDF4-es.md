@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31sLBfsGGrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DPNNDF4-es Clarks Un Cosmo Step  Zapatos de Tacón para Mujer  Negro  Black Leather Black Leather   39 EU'
+slug: 'B07DPNNDF4-es Clarks Un Cosmo Step Zapatos de Tacón para Mujer Negro...'
+tags: zapatos
 actualPrice: 40.49 EUR
 currency: EUR
 price: 40.49

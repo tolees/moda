@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41tIpzoSgkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V7WW6DN-es Love Moschino Jc4275pp0a  Bolso tipo tote para Mujer  Negro  Black   12x27x40 Centimeters  W x H x L '
+slug: 'B07V7WW6DN-es Love Moschino Jc4275pp0a Bolso tipo tote para Mujer Negro...'
+tags: bolso
 actualPrice: 50.36 EUR
 currency: EUR
 price: 50.36

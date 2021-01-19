@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Cv0Vi3a2L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MMLLJWX-es Napapijri Aric Chaqueta  Azul  French Blue BB7   XXL para Hombre'
+slug: 'B07MMLLJWX-es Napapijri Aric Chaqueta Azul French Blue BB7 XXL para Hombre'
+tags: chaqueta
 actualPrice: 86.44 EUR
 currency: EUR
 price: 86.44

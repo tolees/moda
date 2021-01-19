@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412NJ0eA1HL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N4FC4FN-es Wrangler Puffer Jacket Chaqueta  Negro  Black 100   Large para Hombre'
+slug: 'B07N4FC4FN-es Wrangler Puffer Jacket Chaqueta Negro Black 100 Large para...'
+tags: chaqueta
 actualPrice: 64.98 EUR
 currency: EUR
 price: 64.98

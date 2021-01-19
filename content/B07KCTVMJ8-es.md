@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ZQ1YYNcqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KCTVMJ8-es adidas T19 SS JSY M Camiseta de Manga Corta  Hombre  Power Red/White  XS'
+slug: 'B07KCTVMJ8-es adidas T19 SS JSY M Camiseta de Manga Corta Hombre Power...'
+tags: camiseta
 actualPrice: 11.82 EUR
 currency: EUR
 price: 11.82

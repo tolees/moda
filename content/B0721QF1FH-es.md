@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51Q4kvqwUPL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0721QF1FH-es Taifun Mousse au Chocolat  Vestido para Mujer  Mehrfarbig  Schwarz Druck 1001  40'
+slug: 'B0721QF1FH-es Taifun Mousse au Chocolat Vestido para Mujer Mehrfarbig...'
+tags: vestido
 actualPrice: 13.39 EUR
 currency: EUR
 price: 13.39

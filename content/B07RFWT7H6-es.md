@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31FD+L+IIPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RFWT7H6-es Marca Amazon - find. Zip Front Leather Botines  Negro Black  38 EU'
+slug: 'B07RFWT7H6-es Marca Amazon - find. Zip Front Leather Botines Negro Black...'
+tags: botines, -, find.
 actualPrice: 13.52 EUR
 currency: EUR
 price: 13.52

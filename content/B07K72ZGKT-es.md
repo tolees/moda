@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41prtsJ61sL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K72ZGKT-es Levi s 501 Original Fit Jeans Vaqueros  Azul  Snoot 2744   36W / 34L para Hombre'
+slug: 'B07K72ZGKT-es Levi s 501 Original Fit Jeans Vaqueros Azul Snoot 2744 36W...'
+tags: vaqueros
 actualPrice: 59.95 EUR
 currency: EUR
 price: 59.95

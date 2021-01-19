@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/418+ZxZiJFL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082PXSDLK-es Star Wars Jedi Master T-Shirt Top de Manga Corta Alrededor de Star Wars TV Series Star Wars Cute Star Wars Camiseta de Manga Corta para Hombre'
+slug: 'B082PXSDLK-es Star Wars Jedi Master T-Shirt Top de Manga Corta Alrededor...'
+tags: camiseta
 actualPrice: 17.97 EUR
 currency: EUR
 price: 17.97

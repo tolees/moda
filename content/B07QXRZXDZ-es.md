@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413gVd7ykqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QXRZXDZ-es SUADEX Unisex Hombre Mujer Zapato de Agua Zapatos de Playa Natación Surf Escarpines Calzado de Playa Piscina para Niño Niña'
+slug: 'B07QXRZXDZ-es SUADEX Unisex Hombre Mujer Zapato de Agua Zapatos de Playa...'
+tags: zapatos
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

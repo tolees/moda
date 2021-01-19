@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41k4K3cw09L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KJVSN8B-es Columbia Peakfreak X2 Mid Outdry  Zapatos de Senderismo para Hombre  Gris  Shark  Royal 011   44.5 EU'
+slug: 'B07KJVSN8B-es Columbia Peakfreak X2 Mid Outdry Zapatos de Senderismo...'
+tags: zapatos
 actualPrice: 75.98 EUR
 currency: EUR
 price: 75.98

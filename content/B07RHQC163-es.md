@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/317FyC-EXqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RHQC163-es Nike Wmns Revolution 5  Zapatilla de Correr para Mujer  Tinte Platino/Blast Pink Blast  39 EU'
+slug: 'B07RHQC163-es Nike Wmns Revolution 5 Zapatilla de Correr para Mujer...'
+tags: zapatilla
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

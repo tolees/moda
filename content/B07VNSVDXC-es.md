@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Cscy+goSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VNSVDXC-es Scotch & Soda Classic Garment Dyed Polo Chaleco  Azul  Pool Breeze 2780   Small para Hombre'
+slug: 'B07VNSVDXC-es Scotch & Soda Classic Garment Dyed Polo Chaleco Azul Pool...'
+tags: chaleco
 actualPrice: 16.45 EUR
 currency: EUR
 price: 16.45

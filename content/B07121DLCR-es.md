@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41M2Sf9sX7L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07121DLCR-es find. AN5411 vestido fiesta mujer  Rosa  Blood Orange   46  Talla del Fabricante: XX-Large '
+slug: 'B07121DLCR-es find. AN5411 vestido fiesta mujer Rosa Blood Orange 46...'
+tags: vestido
 actualPrice: 10.5 EUR
 currency: EUR
 price: 10.5

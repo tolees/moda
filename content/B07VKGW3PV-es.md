@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41GLuqLEqFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VKGW3PV-es HKT by Hackett Hkt Crew Sudadera  Rojo  2eylt Jack Red 2ey   X-Small para Hombre'
+slug: 'B07VKGW3PV-es HKT by Hackett Hkt Crew Sudadera Rojo 2eylt Jack Red 2ey...'
+tags: sudadera
 actualPrice: 29.47 EUR
 currency: EUR
 price: 29.47

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41vZxN4aKQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TV972DB-es Jack & Jones Jjelogo Sweat Hood 2 Col 19/20 Noos Sudadera con Capucha  Negro  XL para Hombre'
+slug: 'B07TV972DB-es Jack & Jones Jjelogo Sweat Hood 2 Col 19/20 Noos Sudadera...'
+tags: sudadera
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

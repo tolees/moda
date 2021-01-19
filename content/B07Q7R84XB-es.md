@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51inORiFidL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q7R84XB-es Rieker Herbst/Winter  Botines para Mujer  Marrón  Nuss/Antik/Orange/Multi/Kastanie/23 23   36 EU'
+slug: 'B07Q7R84XB-es Rieker Herbst/Winter Botines para Mujer Marrón...'
+tags: botines
 actualPrice: 17.82 EUR
 currency: EUR
 price: 17.82

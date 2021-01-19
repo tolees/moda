@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/418556TOzzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S1P58HB-es Levi s LS Baby tee Camisa Manga Larga  Multicolor  Agnes Stripe Cloud Dancer 0010   X-Small para Mujer'
+slug: 'B07S1P58HB-es Levi s LS Baby tee Camisa Manga Larga Multicolor Agnes...'
+tags: camisa
 actualPrice: 19.15 EUR
 currency: EUR
 price: 19.15

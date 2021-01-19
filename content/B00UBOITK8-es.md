@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41j9-P2V4oL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00UBOITK8-es Tommy Hilfiger 3p Trunk Bóxer  Negro  Black/Grey Heather/White 004   Medium  Pack de 3  para Hombre'
+slug: 'B00UBOITK8-es Tommy Hilfiger 3p Trunk Bóxer Negro Black/Grey...'
+tags: bóxer
 actualPrice: 23.8 EUR
 currency: EUR
 price: 23.8

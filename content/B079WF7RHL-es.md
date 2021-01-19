@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31u2MYnxWyL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079WF7RHL-es Carrera 154/S Gafas de sol  Negro  MTT BLACK   51 Unisex Adulto'
+slug: 'B079WF7RHL-es Carrera 154/S Gafas de sol Negro MTT BLACK 51 Unisex Adulto'
+tags: gafas
 actualPrice: 99.98 EUR
 currency: EUR
 price: 99.98

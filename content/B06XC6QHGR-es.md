@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31UrdzrBkYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XC6QHGR-es Clarks Gilman Mode  Zapatos de Cordones Derby para Hombre  Marrón  Dark Tan Leather   45 EU'
+slug: 'B06XC6QHGR-es Clarks Gilman Mode Zapatos de Cordones Derby para Hombre...'
+tags: zapatos
 actualPrice: 42.64 EUR
 currency: EUR
 price: 42.64

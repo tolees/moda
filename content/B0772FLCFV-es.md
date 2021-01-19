@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31uDt3vdsBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0772FLCFV-es Marca Amazon - MERAKI Pantalones Chinos Regular Fit Hombre  Grau  Dove Grey   36W / 32L  Label: 36W / 32L'
+slug: 'B0772FLCFV-es Marca Amazon - MERAKI Pantalones Chinos Regular Fit Hombre...'
+tags: meraki
 actualPrice: 13.86 EUR
 currency: EUR
 price: 13.86

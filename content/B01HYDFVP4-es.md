@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31NLL8lgOoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HYDFVP4-es Gorila Cole  Zapatos Unisex para Niños  Azul Oscuro  34 EU'
+slug: 'B01HYDFVP4-es Gorila Cole Zapatos Unisex para Niños Azul Oscuro 34 EU'
+tags: zapatos
 actualPrice: 47.49 EUR
 currency: EUR
 price: 47.49

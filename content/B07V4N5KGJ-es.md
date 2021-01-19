@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41dLKe3Z4mL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V4N5KGJ-es Tommy Hilfiger TH Hardware Basic Mid Wedge  Chanclas para Mujer  Azul  Desert Sky Dw5   41 EU'
+slug: 'B07V4N5KGJ-es Tommy Hilfiger TH Hardware Basic Mid Wedge Chanclas para...'
+tags: chanclas
 actualPrice: 47.45 EUR
 currency: EUR
 price: 47.45

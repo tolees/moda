@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31rHaEDUilL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06Y547KLW-es Vans Colorblock tee Camiseta  Blanco  White/Black   XX-Large para Hombre'
+slug: 'B06Y547KLW-es Vans Colorblock tee Camiseta Blanco White/Black XX-Large...'
+tags: camiseta
 actualPrice: 18.15 EUR
 currency: EUR
 price: 18.15

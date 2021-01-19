@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41Qz0LWT8JL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LGXRTKL-es The North Face Ambition P Pantalón  Mujer  Multicolor  Dazzling Blue Painted Feather Print   S'
+slug: 'B07LGXRTKL-es The North Face Ambition P Pantalón Mujer Multicolor...'
+tags: pantalón
 actualPrice: 11.36 EUR
 currency: EUR
 price: 11.36

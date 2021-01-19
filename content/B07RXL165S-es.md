@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41iybT-KIoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RXL165S-es Levi s The Jacket  Chaqueta Vaquera  Azul  Pale Shade Indigo Stretch Trucker 0468   Large para Hombre'
+slug: 'B07RXL165S-es Levi s The Jacket Chaqueta Vaquera Azul Pale Shade Indigo...'
+tags: chaqueta
 actualPrice: 48.8 EUR
 currency: EUR
 price: 48.8

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41pYE-aFACL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZTVCKR9-es Nike Air MAX Invigor  Zapatilla de Correr para Hombre  Smoke Grey White OPTI Yellow  42 EU'
+slug: 'B07ZTVCKR9-es Nike Air MAX Invigor Zapatilla de Correr para Hombre Smoke...'
+tags: zapatilla
 actualPrice: 50.83 EUR
 currency: EUR
 price: 50.83

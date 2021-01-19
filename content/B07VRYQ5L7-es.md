@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+FmQUA2NL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VRYQ5L7-es Tommy Hilfiger Tjw Soft Jersey tee Ropa Deportiva de Punto  Verde  Olive Tree Msq   38  Talla del Fabricante: Medium  para Mujer'
+slug: 'B07VRYQ5L7-es Tommy Hilfiger Tjw Soft Jersey tee Ropa Deportiva de Punto...'
+tags: jersey
 actualPrice: 14.0 EUR
 currency: EUR
 price: 14.0

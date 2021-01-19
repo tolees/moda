@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31tj3wVzrJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KL3P8M3-es adidas Mh Plain Camiseta Polo  Hombre  Black  S'
+slug: 'B07KL3P8M3-es adidas Mh Plain Camiseta Polo Hombre Black S'
+tags: camiseta
 actualPrice: 17.73 EUR
 currency: EUR
 price: 17.73

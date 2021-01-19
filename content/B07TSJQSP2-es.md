@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-UzMU1pPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TSJQSP2-es Only Onlorlando Quilted Jacket CC Otw Chaqueta  Negro  Black Black   XL para Mujer'
+slug: 'B07TSJQSP2-es Only Onlorlando Quilted Jacket CC Otw Chaqueta Negro Black...'
+tags: chaqueta
 actualPrice: 13.88 EUR
 currency: EUR
 price: 13.88

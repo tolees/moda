@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41lu-rw8DZL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V9RPX49-es OBEEII Vestido de Comunion Niña Bordado de Tul Vestido Fiesta Niña Princesa Cumpleaños Cóctel Ceremonia Boda Prom Carnaval Verde 3-4 Años'
+slug: 'B07V9RPX49-es OBEEII Vestido de Comunion Niña Bordado de Tul Vestido...'
+tags: vestido
 actualPrice: 14.65 EUR
 currency: EUR
 price: 14.65

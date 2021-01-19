@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412Mpjg+fDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SWSKMMP-es Geox J Sandal Alben Boy D  Sandalias con Punta Abierta para Niños  Negro  Black/Grey C0017   32 EU'
+slug: 'B07SWSKMMP-es Geox J Sandal Alben Boy D Sandalias con Punta Abierta para...'
+tags: geox, sandalias
 actualPrice: 38.5 EUR
 currency: EUR
 price: 38.5

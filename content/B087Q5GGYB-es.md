@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41xrjjXiftL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087Q5GGYB-es TAOFFEN Mujer Tacón Medio Zapatillas de Deporte Caña Baja Zapatos de Skate Cordones Suela Gruesa Zapatos Running Black Talla 37 Asiática'
+slug: 'B087Q5GGYB-es TAOFFEN Mujer Tacón Medio Zapatillas de Deporte Caña Baja...'
+tags: zapatos
 actualPrice: 26.88 EUR
 currency: EUR
 price: 26.88

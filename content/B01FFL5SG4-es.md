@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41FatumAT-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01FFL5SG4-es Under Armour Heatgear Long Compression Pantalón De Compresión  Hombre  Negro  Black/Graphite 001   M'
+slug: 'B01FFL5SG4-es Under Armour Heatgear Long Compression Pantalón De...'
+tags: pantalón
 actualPrice: 15.49 EUR
 currency: EUR
 price: 15.49

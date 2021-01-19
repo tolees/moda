@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41PieCga8nL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VBFTMMR-es Esprit 099EE1G091 Chaqueta  Azul  Navy 400   XL para Mujer'
+slug: 'B07VBFTMMR-es Esprit 099EE1G091 Chaqueta Azul Navy 400 XL para Mujer'
+tags: chaqueta
 actualPrice: 21.8 EUR
 currency: EUR
 price: 21.8

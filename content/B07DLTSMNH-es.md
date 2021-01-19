@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/315cWkgYitL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DLTSMNH-es SAMSONITE Openroad - Rolling Tote for 16.4" Laptop 2.9 KG Bolso de Viaje  44 cm  25 Liters  Negro  Jet Black '
+slug: 'B07DLTSMNH-es SAMSONITE Openroad - Rolling Tote for 16.4" Laptop 2.9 KG...'
+tags: bolso
 actualPrice: 175.87 EUR
 currency: EUR
 price: 175.87

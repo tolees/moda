@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41hehCt55DL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B071L9YDJR-es Izas Ferni Chaqueta Forro Polar  Mujer  Fuxia  XXS'
+slug: 'B071L9YDJR-es Izas Ferni Chaqueta Forro Polar Mujer Fuxia XXS'
+tags: chaqueta
 actualPrice: 8.33 EUR
 currency: EUR
 price: 8.33

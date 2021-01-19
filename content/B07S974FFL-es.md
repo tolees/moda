@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Izdpn9ToL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S974FFL-es Crocs Athens  Chanclas Unisex Adulto  Azul  Bright Cobalt/Pepper 4kn   42/43 EU'
+slug: 'B07S974FFL-es Crocs Athens Chanclas Unisex Adulto Azul Bright...'
+tags: chanclas
 actualPrice: 19.01 EUR
 currency: EUR
 price: 19.01

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41PivrbuQdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S4YHLQB-es Vero Moda Vmsoraya SIV Aw19 Short Jacket Boos Chaqueta  Negro  Black Black   40  Talla del Fabricante: Medium  para Mujer'
+slug: 'B07S4YHLQB-es Vero Moda Vmsoraya SIV Aw19 Short Jacket Boos Chaqueta...'
+tags: chaqueta, moda
 actualPrice: 16.01 EUR
 currency: EUR
 price: 16.01

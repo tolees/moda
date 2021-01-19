@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41neN13cltL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B074WM3N4T-es find. Pantalón de Traje Ajustado Hombre  Verde  Teal   W32/L31'
+slug: 'B074WM3N4T-es find. Pantalón de Traje Ajustado Hombre Verde Teal W32/L31'
+tags: pantalón
 actualPrice: 8.4 EUR
 currency: EUR
 price: 8.4

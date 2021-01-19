@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41qI7m9r5sL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RM3ZPP8-es Tommy Hilfiger Cazadora Chaqueta Bomber Essential con Parche Deportiva y Elegante  Negro  Black   L para Hombre'
+slug: 'B07RM3ZPP8-es Tommy Hilfiger Cazadora Chaqueta Bomber Essential con...'
+tags: chaqueta
 actualPrice: 91.88 EUR
 currency: EUR
 price: 91.88

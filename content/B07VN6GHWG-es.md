@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Q6MmmGyLL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VN6GHWG-es edc by Esprit 099cc1k044 Camiseta sin Mangas  Verde  Khaki Green 350   Medium para Mujer'
+slug: 'B07VN6GHWG-es edc by Esprit 099cc1k044 Camiseta sin Mangas Verde Khaki...'
+tags: camiseta
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

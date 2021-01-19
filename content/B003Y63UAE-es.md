@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41T6FBXZdDL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003Y63UAE-es Nike M Nk Dry Acdmy Top SS Camiseta de Manga Corta  Hombre  Rojo  University Red/White/White '
+slug: 'B003Y63UAE-es Nike M Nk Dry Acdmy Top SS Camiseta de Manga Corta Hombre...'
+tags: camiseta
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

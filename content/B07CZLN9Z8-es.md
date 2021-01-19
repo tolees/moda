@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/319yWEzwJhL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CZLN9Z8-es Under Armour UA Qualifier Shortsleeve Camiseta  Hombre  Blanco  Onyx White/Onyx White/Reflective 112   2XL'
+slug: 'B07CZLN9Z8-es Under Armour UA Qualifier Shortsleeve Camiseta Hombre...'
+tags: camiseta
 actualPrice: 10.42 EUR
 currency: EUR
 price: 10.42

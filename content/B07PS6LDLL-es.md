@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31moxcSsGWL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PS6LDLL-es CARE OF by PUMA Sudadera de manga larga con cuello redondo para hombre  Azul  Blue   110  Talla del fabricante: Large '
+slug: 'B07PS6LDLL-es CARE OF by PUMA Sudadera de manga larga con cuello redondo...'
+tags: sudadera
 actualPrice: 24.5 EUR
 currency: EUR
 price: 24.5

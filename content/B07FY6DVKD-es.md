@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/516Hlv288NL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FY6DVKD-es Havaianas Top Mix  Chanclas Unisex Adulto  Multicolor  Lake Green/Flamingo   35/36 EU'
+slug: 'B07FY6DVKD-es Havaianas Top Mix Chanclas Unisex Adulto Multicolor Lake...'
+tags: chanclas
 actualPrice: 15.4 EUR
 currency: EUR
 price: 15.4

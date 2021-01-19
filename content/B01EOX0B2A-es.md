@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31muA7XEQgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01EOX0B2A-es Helly Hansen Dubliner Jacket Chaqueta Chubasquero para Hombre de Uso Diario y para Actividades marítimas con la tecnología Helly Tech  Azul  Marino   2XL'
+slug: 'B01EOX0B2A-es Helly Hansen Dubliner Jacket Chaqueta Chubasquero para...'
+tags: chaqueta
 actualPrice: 79.01 EUR
 currency: EUR
 price: 79.01

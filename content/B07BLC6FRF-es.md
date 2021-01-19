@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31MANM65cNL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BLC6FRF-es AURIQUE BAL1042 Mallas de Entrenamiento  Rojo  Port Royale/Black/Blush   38'
+slug: 'B07BLC6FRF-es AURIQUE BAL1042 Mallas de Entrenamiento Rojo Port...'
+tags: aurique
 actualPrice: 12.96 EUR
 currency: EUR
 price: 12.96

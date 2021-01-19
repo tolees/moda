@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31DwcAByBYL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TTT1RPS-es Women s Secret Cozy Animals Ca Unicorn PJ Conjuntos de Pijama  Amarillo  Gama Amarillos 5   Large  Tamaño del Fabricante: L  para Mujer'
+slug: 'B07TTT1RPS-es Women s Secret Cozy Animals Ca Unicorn PJ Conjuntos de...'
+tags: pijama
 actualPrice: 17.09 EUR
 currency: EUR
 price: 17.09

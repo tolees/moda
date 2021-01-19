@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Aeloq5XdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072FR1STD-es Marca Amazon - find. Blusa Mujer  Morado  Violet Indigo 19-3750   40  Label: M'
+slug: 'B072FR1STD-es Marca Amazon - find. Blusa Mujer Morado Violet Indigo...'
+tags: blusa, -, find.
 actualPrice: 6.48 EUR
 currency: EUR
 price: 6.48

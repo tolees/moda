@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41nbdnTq-yL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NDL6L8G-es G-STAR RAW Graphic 9 Slim Round Neck Camiseta  Blanco  White 110   XX-Small para Hombre'
+slug: 'B07NDL6L8G-es G-STAR RAW Graphic 9 Slim Round Neck Camiseta Blanco White...'
+tags: camiseta
 actualPrice: 19.79 EUR
 currency: EUR
 price: 19.79

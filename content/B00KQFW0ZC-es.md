@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31a4ouQFJhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KQFW0ZC-es Polaroid P0115 Y2 IUB Gafas de sol  Morado  Violet Pink Fluo/Grey Polarized   46 Unisex Niños'
+slug: 'B00KQFW0ZC-es Polaroid P0115 Y2 IUB Gafas de sol Morado Violet Pink...'
+tags: gafas
 actualPrice: 17.91 EUR
 currency: EUR
 price: 17.91

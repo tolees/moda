@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/319rZloamcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QGFXG6Y-es PUMA Power BND tee Camiseta  Hombre  Rojo  Rhubarb-Nrgy Red   XXL'
+slug: 'B07QGFXG6Y-es PUMA Power BND tee Camiseta Hombre Rojo Rhubarb-Nrgy Red XXL'
+tags: camiseta
 actualPrice: 9.32 EUR
 currency: EUR
 price: 9.32

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/415uv4MOKfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q9S2RJM-es Superdry Core Logo Tag tee Camiseta  Azul  Royal Blue 49g   XXS para Hombre'
+slug: 'B07Q9S2RJM-es Superdry Core Logo Tag tee Camiseta Azul Royal Blue 49g...'
+tags: camiseta
 actualPrice: 17.52 EUR
 currency: EUR
 price: 17.52

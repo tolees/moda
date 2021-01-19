@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416L+MOi7ML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NW9RLHJ-es AOQUSSQOA Mujer Ropa de baño Monokin Traje de una Pieza Leopardo para Mujer de Gran tamaño con Forma de Estampado de Bikini natación Esencial  EU 36  S   C '
+slug: 'B07NW9RLHJ-es AOQUSSQOA Mujer Ropa de baño Monokin Traje de una Pieza...'
+tags: bikini
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51c05GA6PzL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z1KP93R-es Guantes Impermeables Pantalla Táctil Esquí al Aire libre Ciclismo Acampar Senderismo Guantes  Antideslizantes Guantes Térmicos de Invierno de dedo Completo para Hombres y Mujeres  XXL:10-12in '
+slug: 'B07Z1KP93R-es Guantes Impermeables Pantalla Táctil Esquí al Aire libre...'
+tags: guantes
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

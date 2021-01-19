@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31jgLTiE2TL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFTZTSZ-es Geox U HALLSON A  Botas Chukka para Hombre  Negro  Black C9999   44 EU'
+slug: 'B07LFTZTSZ-es Geox U HALLSON A Botas Chukka para Hombre Negro Black...'
+tags: geox
 actualPrice: 28.6 EUR
 currency: EUR
 price: 28.6

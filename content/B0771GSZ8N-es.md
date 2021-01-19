@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51-x5LbFj5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0771GSZ8N-es Cartera pequeña con Monedero para Hombre - Billetera de Piel con Tarjetero RFID y Monedero con Cremallera  Regalos para Hombre  Azul/Naranja'
+slug: 'B0771GSZ8N-es Cartera pequeña con Monedero para Hombre - Billetera de...'
+tags: billetera, monedero
 actualPrice: 19.17 EUR
 currency: EUR
 price: 19.17

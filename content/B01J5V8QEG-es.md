@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/513CVZIo-oL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01J5V8QEG-es Vicloon - Disfraz de Princesa Elsa - Reino de Hielo - Vestido de Cosplay de Carnaval  Halloween y la Fiesta de Cumpleaños'
+slug: 'B01J5V8QEG-es Vicloon - Disfraz de Princesa Elsa - Reino de Hielo -...'
+tags: vestido
 actualPrice: 11.89 EUR
 currency: EUR
 price: 11.89

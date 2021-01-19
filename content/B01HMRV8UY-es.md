@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412UXgjzz7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HMRV8UY-es The North Face T92TX3 Camiseta Easy  Hombre  Multicolor  Tnfmdgyhtr  Std    S'
+slug: 'B01HMRV8UY-es The North Face T92TX3 Camiseta Easy Hombre Multicolor...'
+tags: camiseta
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

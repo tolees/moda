@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41QlhVS9TeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PQRGJX6-es Top Zapatos para Correr Deportes en Montaña Asfalto  Zapatillas Sneakers de Running Deportivos para Hombre Unisex'
+slug: 'B07PQRGJX6-es Top Zapatos para Correr Deportes en Montaña Asfalto...'
+tags: zapatos
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

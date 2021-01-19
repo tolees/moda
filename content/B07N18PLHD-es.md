@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41h5tUrCcsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N18PLHD-es G-STAR RAW Lynn Mid Waist Super Skinny Vaqueros  Azul  Faded Blue 9136-A889   29W / 36L para Mujer'
+slug: 'B07N18PLHD-es G-STAR RAW Lynn Mid Waist Super Skinny Vaqueros Azul Faded...'
+tags: vaqueros
 actualPrice: 54.7 EUR
 currency: EUR
 price: 54.7

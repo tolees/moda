@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51M8ZRt0sPL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XP5JP18-es YOSICIL Vestido de Princesa Elsa Niña Disfraz Frozen Elsa con Accesorios Traje de Princesa Azul Lentejuelas Vestido Largo de Fiesta Fancy Dress para Carnaval Traje Parte 100-150cm 3-10Años'
+slug: 'B07XP5JP18-es YOSICIL Vestido de Princesa Elsa Niña Disfraz Frozen Elsa...'
+tags: vestido
 actualPrice: 23.88 EUR
 currency: EUR
 price: 23.88

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31xNkWhiwIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LF8LBYD-es Levi s 2pk Crewneck Graphic Camiseta  Multicolor  2 Pack Sw White/Mineral Black 0000   X-Small para Hombre'
+slug: 'B07LF8LBYD-es Levi s 2pk Crewneck Graphic Camiseta Multicolor 2 Pack Sw...'
+tags: camiseta
 actualPrice: 14.96 EUR
 currency: EUR
 price: 14.96

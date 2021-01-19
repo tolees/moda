@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41we-ril6sL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DNJ1W94-es Youecci Zapatillas de Deportivos de Running para Mujer Deportivo de Exterior Interior Gimnasia Ligero Sneakers Fitness Atlético Caminar Zapatos Transpirable Azul Marino 38 EU'
+slug: 'B08DNJ1W94-es Youecci Zapatillas de Deportivos de Running para Mujer...'
+tags: zapatos
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

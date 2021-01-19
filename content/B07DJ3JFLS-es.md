@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41jtBDIS0oL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DJ3JFLS-es Geox D Nebula C  Zapatillas para Mujer  Beige  Cream C0423   40 EU'
+slug: 'B07DJ3JFLS-es Geox D Nebula C Zapatillas para Mujer Beige Cream C0423 40 EU'
+tags: geox
 actualPrice: 84.99 EUR
 currency: EUR
 price: 84.99

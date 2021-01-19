@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51sNu4tk6KL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SBW4F6B-es PUMA Epic Flip V2 Amplified  Zapatos de Playa y Piscina Unisex-Adulto  Rojo  High Risk Red Black White 01   42 EU'
+slug: 'B07SBW4F6B-es PUMA Epic Flip V2 Amplified Zapatos de Playa y Piscina...'
+tags: zapatos
 actualPrice: 13.52 EUR
 currency: EUR
 price: 13.52

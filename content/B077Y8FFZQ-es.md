@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41WYzqPjlXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077Y8FFZQ-es Sylvie Flirty Swimwear Bryana  Braguita de Bikini para Mujer  Rosa  Pink 3300   40  Talla del fabricante: 38 '
+slug: 'B077Y8FFZQ-es Sylvie Flirty Swimwear Bryana Braguita de Bikini para...'
+tags: bikini
 actualPrice: 15.39 EUR
 currency: EUR
 price: 15.39

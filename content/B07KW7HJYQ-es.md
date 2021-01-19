@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41daxm3hkQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KW7HJYQ-es Sisley Jacket  Chaqueta Mujer  Negro  Black 100   40  Talla fabricante: 10 '
+slug: 'B07KW7HJYQ-es Sisley Jacket Chaqueta Mujer Negro Black 100 40 Talla...'
+tags: chaqueta
 actualPrice: 14.1 EUR
 currency: EUR
 price: 14.1

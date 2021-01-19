@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31i4YgxfGBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00W0E6KTE-es Crocs Crocband U  Zuecos Unisex Adulto  Rosa  Pearl Pink-Wild Orchid   43-44 EU'
+slug: 'B00W0E6KTE-es Crocs Crocband U Zuecos Unisex Adulto Rosa Pearl Pink-Wild...'
+tags: zuecos
 actualPrice: 25.0 EUR
 currency: EUR
 price: 25.0

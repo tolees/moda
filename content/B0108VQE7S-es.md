@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Vw8DgM3dL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0108VQE7S-es Keen Seacamp II CNX  Sandalias de Senderismo Unisex Niños  Rojo  Racing Red/Gargoyle   37 EU'
+slug: 'B0108VQE7S-es Keen Seacamp II CNX Sandalias de Senderismo Unisex Niños...'
+tags: sandalias
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

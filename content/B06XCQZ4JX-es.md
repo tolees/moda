@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/418wl49avsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XCQZ4JX-es Timberland Killington Hiker  Zapatillas Altas para Hombre  Negro  Black Full Grain   41.5 EU'
+slug: 'B06XCQZ4JX-es Timberland Killington Hiker Zapatillas Altas para Hombre...'
+tags: timberland
 actualPrice: 76.99 EUR
 currency: EUR
 price: 76.99

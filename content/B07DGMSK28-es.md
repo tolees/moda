@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41OzRDDOsUL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DGMSK28-es Timberland Davis Square 6 Inch  Zapatillas Altas Unisex-Niño  Amarillo  Wheat   31 EU'
+slug: 'B07DGMSK28-es Timberland Davis Square 6 Inch Zapatillas Altas Unisex-...'
+tags: timberland
 actualPrice: 24.22 EUR
 currency: EUR
 price: 24.22

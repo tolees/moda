@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/315Re8KPGaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KDJT4KT-es adidas T19 TRK Jkt M Chaqueta de Deporte  Hombre  Team Navy Blue/White  L'
+slug: 'B07KDJT4KT-es adidas T19 TRK Jkt M Chaqueta de Deporte Hombre Team Navy...'
+tags: chaqueta
 actualPrice: 25.83 EUR
 currency: EUR
 price: 25.83

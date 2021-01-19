@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41EO0xavOmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071LGZ66P-es Under Armour Tech Graphic Short Pantalón Corto  Hombre  Negro  Black/Graphite 001   XXL'
+slug: 'B071LGZ66P-es Under Armour Tech Graphic Short Pantalón Corto Hombre...'
+tags: pantalón
 actualPrice: 21.9 EUR
 currency: EUR
 price: 21.9

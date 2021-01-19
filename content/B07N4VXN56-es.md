@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41d7xoyFlOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N4VXN56-es Tommy Hilfiger Tjw Clean Linear Logo tee Camiseta   Purple VF E   X-Large para Mujer'
+slug: 'B07N4VXN56-es Tommy Hilfiger Tjw Clean Linear Logo tee Camiseta Purple...'
+tags: camiseta
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

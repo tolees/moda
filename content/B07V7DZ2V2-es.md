@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41w7ri9iMfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V7DZ2V2-es Jack & Jones Jjigeorge Shirt Stretch LS Camisa Vaquera  Azul  Light Blue Denim Fit: Super Slim   XX-Large para Hombre'
+slug: 'B07V7DZ2V2-es Jack & Jones Jjigeorge Shirt Stretch LS Camisa Vaquera...'
+tags: camisa
 actualPrice: 28.25 EUR
 currency: EUR
 price: 28.25

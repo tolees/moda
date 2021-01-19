@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31AICYFf56L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S6NSZ8N-es PUMA Popcat 20  Sandalias deslizantes Unisex Adulto  Negro Black White  43 EU'
+slug: 'B07S6NSZ8N-es PUMA Popcat 20 Sandalias deslizantes Unisex Adulto Negro...'
+tags: sandalias
 actualPrice: 6.01 EUR
 currency: EUR
 price: 6.01

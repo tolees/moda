@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-PMGL8s6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JQ4TM8F-es Adidas Tiro 19 Training Track Top Jkt Chaqueta Deportiva  Hombre  Negro  Black/Black/White   L'
+slug: 'B07JQ4TM8F-es Adidas Tiro 19 Training Track Top Jkt Chaqueta Deportiva...'
+tags: chaqueta
 actualPrice: 38.49 EUR
 currency: EUR
 price: 38.49

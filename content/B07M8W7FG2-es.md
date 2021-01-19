@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41isTBnCSwL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M8W7FG2-es Wrangler Sherpa Jacket Corduroy Chaqueta  Marrón  Russet Brown Xma   X-Large para Hombre'
+slug: 'B07M8W7FG2-es Wrangler Sherpa Jacket Corduroy Chaqueta Marrón Russet...'
+tags: chaqueta
 actualPrice: 77.97 EUR
 currency: EUR
 price: 77.97

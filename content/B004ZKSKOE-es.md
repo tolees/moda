@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41D1uVNJUyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004ZKSKOE-es Pepe Jeans Venus Vaqueros  Negro  Black 999   27W / 32L para Mujer'
+slug: 'B004ZKSKOE-es Pepe Jeans Venus Vaqueros Negro Black 999 27W / 32L para...'
+tags: vaqueros
 actualPrice: 52.99 EUR
 currency: EUR
 price: 52.99

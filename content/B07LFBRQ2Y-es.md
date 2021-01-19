@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/513lTdbmMiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFBRQ2Y-es Levi s Perfect-tee Camiseta de Manga Corta  Multicolor  Koronis Brilliant Red 0039   X-Small para Mujer'
+slug: 'B07LFBRQ2Y-es Levi s Perfect-tee Camiseta de Manga Corta Multicolor...'
+tags: camiseta
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

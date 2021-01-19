@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41c4nBYefvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0872QJXDF-es Odetina - Sandalias de tacón alto con correa de hebilla  puntera de almendra  para mujer  color Negro  talla 41.5 EU'
+slug: 'B0872QJXDF-es Odetina - Sandalias de tacón alto con correa de hebilla...'
+tags: sandalias
 actualPrice: 22.41 EUR
 currency: EUR
 price: 22.41

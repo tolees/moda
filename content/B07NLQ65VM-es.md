@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41RR0ObY3KL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NLQ65VM-es adidas AB H JSY Perf J Camiseta  Unisex niños  Negro  3XL'
+slug: 'B07NLQ65VM-es adidas AB H JSY Perf J Camiseta Unisex niños Negro 3XL'
+tags: camiseta
 actualPrice: 83.99 EUR
 currency: EUR
 price: 83.99

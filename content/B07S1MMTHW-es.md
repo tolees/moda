@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/418DNZ1siuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S1MMTHW-es New Balance 373 Hook and Loop n  Zapatilla Clásica para Niños  Gris  Grey/Navy Kg   30.5 EU'
+slug: 'B07S1MMTHW-es New Balance 373 Hook and Loop n Zapatilla Clásica para...'
+tags: zapatilla
 actualPrice: 27.22 EUR
 currency: EUR
 price: 27.22

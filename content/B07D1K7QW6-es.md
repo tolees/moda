@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/410ROXkNZVL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D1K7QW6-es Red Wagon Velvet Pleated  Falda para Niñas  Azul  Teal  134  Talla del fabricante: 9 '
+slug: 'B07D1K7QW6-es Red Wagon Velvet Pleated Falda para Niñas Azul Teal 134...'
+tags: falda
 actualPrice: 8.5 EUR
 currency: EUR
 price: 8.5

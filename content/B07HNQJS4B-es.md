@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41fzz4+EjoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HNQJS4B-es 6 Ballenas Camisa Metal con 6 Imanes  AOLVO Ballenas Magneticas Camisa Cuello Camisa Varillas Collar Stays para Hombre  3 Tamaños en una Caja de Regalo 6 3 cm/7 cm/7 5 cm '
+slug: 'B07HNQJS4B-es 6 Ballenas Camisa Metal con 6 Imanes AOLVO Ballenas...'
+tags: camisa, collar
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

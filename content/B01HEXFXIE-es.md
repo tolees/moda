@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31v0y72sncL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HEXFXIE-es Crocs Crocband Clog Kids  Zuecos Unisex Niños  Negro  Black 001   19/20 EU'
+slug: 'B01HEXFXIE-es Crocs Crocband Clog Kids Zuecos Unisex Niños Negro Black...'
+tags: zuecos
 actualPrice: 15.23 EUR
 currency: EUR
 price: 15.23

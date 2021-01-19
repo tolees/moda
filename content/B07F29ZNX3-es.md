@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31VjBKKo9hL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F29ZNX3-es Timberland Newport Bay 2 Eye  Náuticos para Hombre  Blanco  Light Grey Canvas   41.5 EU'
+slug: 'B07F29ZNX3-es Timberland Newport Bay 2 Eye Náuticos para Hombre Blanco...'
+tags: timberland
 actualPrice: 39.88 EUR
 currency: EUR
 price: 39.88

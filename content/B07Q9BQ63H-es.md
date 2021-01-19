@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/417VNeEGIzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q9BQ63H-es Superdry Utility Field Edition L/s Shirt Camisa  Verde  Army Green 43e   M para Hombre'
+slug: 'B07Q9BQ63H-es Superdry Utility Field Edition L/s Shirt Camisa Verde Army...'
+tags: camisa
 actualPrice: 13.06 EUR
 currency: EUR
 price: 13.06

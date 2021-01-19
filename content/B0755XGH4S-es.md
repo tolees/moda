@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/411m7AHDqyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0755XGH4S-es Skechers Beverlee-High Tea  Sandalias de Punta Descubierta para Mujer  Beige  Natural Nat   37 EU'
+slug: 'B0755XGH4S-es Skechers Beverlee-High Tea Sandalias de Punta Descubierta...'
+tags: sandalias
 actualPrice: 31.47 EUR
 currency: EUR
 price: 31.47

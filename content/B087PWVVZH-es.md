@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41oDqjJx-QL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087PWVVZH-es Mediffen Mujer Noche Tacón De Aguja Tacón Alto Cierre De Tobillo Punta Abierta Sandalias Verano Elegante Fiesta Club Sandalias Blanco Talla 43 Asiática'
+slug: 'B087PWVVZH-es Mediffen Mujer Noche Tacón De Aguja Tacón Alto Cierre De...'
+tags: sandalias
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

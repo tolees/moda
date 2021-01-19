@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Q0hWM9UIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T54WVY9-es ZIGJOY Strangers TV Camiseta Unisex Camiseta Top One Summer Can Change Everything 14449-PB-XS'
+slug: 'B07T54WVY9-es ZIGJOY Strangers TV Camiseta Unisex Camiseta Top One...'
+tags: camiseta
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

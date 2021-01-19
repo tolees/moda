@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41wq60k3n3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MLTVL9S-es Geox D Kaula B ABX C  Botas de Nieve para Mujer  Gris  Lt Grey/Dk Grey C1037   36 EU'
+slug: 'B07MLTVL9S-es Geox D Kaula B ABX C Botas de Nieve para Mujer Gris Lt...'
+tags: geox
 actualPrice: 30.93 EUR
 currency: EUR
 price: 30.93

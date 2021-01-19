@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/3108egdoggL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MJBJX87-es Marca Amazon - find. Cinturón Doble Cierre para Hombre  azul  marino   L  Label: L'
+slug: 'B07MJBJX87-es Marca Amazon - find. Cinturón Doble Cierre para Hombre...'
+tags: -, find.
 actualPrice: 5.96 EUR
 currency: EUR
 price: 5.96

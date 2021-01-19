@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31CP4OvRwaL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFRHZJ5-es Geox D GLYNNA C  Botines para Mujer  Negro  Black C9999   39.5 EU'
+slug: 'B07LFRHZJ5-es Geox D GLYNNA C Botines para Mujer Negro Black C9999 39.5 EU'
+tags: botines, geox
 actualPrice: 50.95 EUR
 currency: EUR
 price: 50.95

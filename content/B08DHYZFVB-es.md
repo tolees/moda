@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41kVyggTF1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DHYZFVB-es LvShui Camiseta BTS Unisex Manga Corta Cuello Redondo Algodón T Shirt Jimin V Jung Kook Suga Jin RM J-Hope Map of The Soul 7 Camisetas Tops T-Shirt Gris Medium'
+slug: 'B08DHYZFVB-es LvShui Camiseta BTS Unisex Manga Corta Cuello Redondo...'
+tags: camiseta
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

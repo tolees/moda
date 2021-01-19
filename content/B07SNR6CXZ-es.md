@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31U7U2RPBuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SNR6CXZ-es Burton Classic Mountain High Camiseta  Hombre  True Black  XS'
+slug: 'B07SNR6CXZ-es Burton Classic Mountain High Camiseta Hombre True Black XS'
+tags: camiseta
 actualPrice: 12.95 EUR
 currency: EUR
 price: 12.95

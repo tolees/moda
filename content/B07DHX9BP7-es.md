@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31xrr8fteLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DHX9BP7-es Diesel Buster Vaqueros Straight  Negro  Negro 069bg   31W / 32L para Hombre'
+slug: 'B07DHX9BP7-es Diesel Buster Vaqueros Straight Negro Negro 069bg 31W /...'
+tags: vaqueros
 actualPrice: 17.94 EUR
 currency: EUR
 price: 17.94

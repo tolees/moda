@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41THv+ERVAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XSYSLH2-es Paladinz Tripode Movil 106 cm  42" Inch  de Aluminio Smartphone Soporte de Trípode Tripode Camara Compatible con Samsung Huawei con el Bolso Que Lleva y Soporte Adaptador de móviles'
+slug: 'B06XSYSLH2-es Paladinz Tripode Movil 106 cm 42" Inch de Aluminio...'
+tags: bolso
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

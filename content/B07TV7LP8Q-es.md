@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31uhvDOH-YL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TV7LP8Q-es Levi s Relaxed Crew New Sudadera  Rosa  Peach Blush 0003   Medium para Mujer'
+slug: 'B07TV7LP8Q-es Levi s Relaxed Crew New Sudadera Rosa Peach Blush 0003...'
+tags: sudadera
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

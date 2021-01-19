@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Q3+wMQawL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NNTXTX2-es Under Armour Under Armour Men s Hovr Havoc 2 Basketballschuhe Zapatos de Baloncesto Hombre  Negro  Black  003    45 EU  10 UK '
+slug: 'B07NNTXTX2-es Under Armour Under Armour Men s Hovr Havoc 2...'
+tags: zapatos
 actualPrice: 48.26 EUR
 currency: EUR
 price: 48.26

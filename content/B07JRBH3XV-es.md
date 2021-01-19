@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41Yfuw23%2BDL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JRBH3XV-es Tommy Jeans Mujer Essential Hooded Down Jacket Chaqueta   Azul  Black Iris 002  X-Small'
+slug: 'B07JRBH3XV-es Tommy Jeans Mujer Essential Hooded Down Jacket Chaqueta...'
+tags: chaqueta
 actualPrice: 83.95 EUR
 currency: EUR
 price: 83.95

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31G6yvB97HL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T7KM3V9-es Lee 5 Pocket Wide Leg  Vaqueros straight Mujer  Negro  Subtle Stone Ad   W31/L31  Talla fabricante: W31/L31 '
+slug: 'B07T7KM3V9-es Lee 5 Pocket Wide Leg Vaqueros straight Mujer Negro Subtle...'
+tags: vaqueros
 actualPrice: 44.95 EUR
 currency: EUR
 price: 44.95

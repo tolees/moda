@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41PUVsnTjAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000U6URF2-es Clarks Funny Dream  Zapatos de Cordones Derby para Mujer  Negro  Black Leather   38 EU'
+slug: 'B000U6URF2-es Clarks Funny Dream Zapatos de Cordones Derby para Mujer...'
+tags: zapatos
 actualPrice: 50.0 EUR
 currency: EUR
 price: 50.0

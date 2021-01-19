@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51U02ygGKNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075ND8LF5-es Air Zapatillas de Running para Hombre Mujer Zapatos para Correr y Asfalto Aire Libre y Deportes Calzado Black White 38'
+slug: 'B075ND8LF5-es Air Zapatillas de Running para Hombre Mujer Zapatos para...'
+tags: zapatos
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

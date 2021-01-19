@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412E-B0VszL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IJ972ZE-es 2pcs bolso colgante organizador KAKOO oso polar azul de organizador pared de avestruz verde de colgante algodón organizador de pared'
+slug: 'B01IJ972ZE-es 2pcs bolso colgante organizador KAKOO oso polar azul de...'
+tags: bolso
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

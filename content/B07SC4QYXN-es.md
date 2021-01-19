@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41TrJ61xWoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SC4QYXN-es Helly Hansen Crew Insulator Chaqueta  Hombre  Grey Fog  M'
+slug: 'B07SC4QYXN-es Helly Hansen Crew Insulator Chaqueta Hombre Grey Fog M'
+tags: chaqueta
 actualPrice: 93.99 EUR
 currency: EUR
 price: 93.99

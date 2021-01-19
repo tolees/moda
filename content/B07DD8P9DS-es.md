@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41ktwXA%2BCFL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DD8P9DS-es adidas 18/19 Real Madrid Home with Lfp Badge Camiseta  Hombre  Blanco  Core White/Black   S'
+slug: 'B07DD8P9DS-es adidas 18/19 Real Madrid Home with Lfp Badge Camiseta...'
+tags: camiseta
 actualPrice: 33 EUR
 currency: EUR
 price: 33

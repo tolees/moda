@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41qkhzYQqTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MBQX5FV-es Kickers Oxfork  Zapatos de Cordones Derby para Mujer  Rojo  Bordeaux Perm 18   38 EU'
+slug: 'B07MBQX5FV-es Kickers Oxfork Zapatos de Cordones Derby para Mujer Rojo...'
+tags: zapatos
 actualPrice: 22.0 EUR
 currency: EUR
 price: 22.0

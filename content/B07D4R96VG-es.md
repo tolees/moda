@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ifNgYhj1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D4R96VG-es Marca Amazon - find. Jersey de Ochos Hombre  Marfil  Ecru   S  Label: S'
+slug: 'B07D4R96VG-es Marca Amazon - find. Jersey de Ochos Hombre Marfil Ecru S...'
+tags: jersey, -, find.
 actualPrice: 5.65 EUR
 currency: EUR
 price: 5.65

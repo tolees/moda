@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31vFo9N671L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TPYPX1H-es Clarks Un Adorn Vibe  Sandalias de Talón Abierto para Mujer  Gris  Taupe Nubuck Taupe Nubuck   37 EU'
+slug: 'B07TPYPX1H-es Clarks Un Adorn Vibe Sandalias de Talón Abierto para Mujer...'
+tags: sandalias
 actualPrice: 33.77 EUR
 currency: EUR
 price: 33.77

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31UI2fYMytL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TSPJMY7-es Women s Secret Generic Funny GD Cactixmas PJ Conjuntos de Pijama  Marfil  Marfil 97   Medium  Tamaño del Fabricante: M  para Mujer'
+slug: 'B07TSPJMY7-es Women s Secret Generic Funny GD Cactixmas PJ Conjuntos de...'
+tags: pijama
 actualPrice: 14.83 EUR
 currency: EUR
 price: 14.83

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416SvSNjO-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DJD9PKY-es Geox D Vega Moc B  Mocasines para Mujer  Rojo  Scarlet/Off White C7y1q   39.5 EU'
+slug: 'B07DJD9PKY-es Geox D Vega Moc B Mocasines para Mujer Rojo Scarlet/Off...'
+tags: geox
 actualPrice: 44.44 EUR
 currency: EUR
 price: 44.44

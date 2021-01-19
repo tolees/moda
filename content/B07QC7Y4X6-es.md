@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41FlJubSkCL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QC7Y4X6-es PUMA Reactive Chaqueta de Entrenamiento  Hombre  Negro  Black/White/Castlerock   L'
+slug: 'B07QC7Y4X6-es PUMA Reactive Chaqueta de Entrenamiento Hombre Negro...'
+tags: chaqueta
 actualPrice: 17.67 EUR
 currency: EUR
 price: 17.67

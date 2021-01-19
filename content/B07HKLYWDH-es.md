@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41w+mlNdVCL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HKLYWDH-es Under Armour Sc 3zer0 Iii Zapatos de Baloncesto Hombre  Rojo  Red/Jet Gray/Black  601  601   42.5 EU'
+slug: 'B07HKLYWDH-es Under Armour Sc 3zer0 Iii Zapatos de Baloncesto Hombre...'
+tags: zapatos
 actualPrice: 39.01 EUR
 currency: EUR
 price: 39.01

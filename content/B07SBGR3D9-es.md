@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416+eBzsaZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SBGR3D9-es Lee Distorted Logo tee Camiseta  Blanco  Bright White Lj   Medium para Hombre'
+slug: 'B07SBGR3D9-es Lee Distorted Logo tee Camiseta Blanco Bright White Lj...'
+tags: camiseta
 actualPrice: 10.37 EUR
 currency: EUR
 price: 10.37

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31bHl3mM0gL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PT83NZ9-es CARE OF by PUMA Sudadera con capucha  forro y cremallera de manga larga para hombre  Rojo  Red   XS  Label: XS'
+slug: 'B07PT83NZ9-es CARE OF by PUMA Sudadera con capucha forro y cremallera de...'
+tags: sudadera
 actualPrice: 9.64 EUR
 currency: EUR
 price: 9.64

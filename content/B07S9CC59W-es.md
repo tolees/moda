@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41W8ZGtNaAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S9CC59W-es Emoji Camiseta de Manga Corta para niñas Llama Morado 10-11 Años'
+slug: 'B07S9CC59W-es Emoji Camiseta de Manga Corta para niñas Llama Morado...'
+tags: camiseta
 actualPrice: 8.95 EUR
 currency: EUR
 price: 8.95

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51umsmQDpLL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077G5NWT5-es gracosy Mujer Botas de Nieve Senderismo Zapatos Antideslizantes Trekking Zapatos Invierno Piel de Forro Sneakers Transpirables'
+slug: 'B077G5NWT5-es gracosy Mujer Botas de Nieve Senderismo Zapatos...'
+tags: zapatos
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

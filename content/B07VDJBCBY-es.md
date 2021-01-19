@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41kKV91eTtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VDJBCBY-es Desigual Vest Paradise Vestido  Rojo  Rojo ROJA 3061   Medium para Mujer'
+slug: 'B07VDJBCBY-es Desigual Vest Paradise Vestido Rojo Rojo ROJA 3061 Medium...'
+tags: vestido
 actualPrice: 39.98 EUR
 currency: EUR
 price: 39.98

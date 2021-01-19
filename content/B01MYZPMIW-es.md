@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41bAQJ-l3WL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MYZPMIW-es IRIS & LILLY Sujetador Bandeau de Encaje Suave Mujer  Pack de 2  Multicolor  Black/white   X-Small'
+slug: 'B01MYZPMIW-es IRIS & LILLY Sujetador Bandeau de Encaje Suave Mujer Pack...'
+tags: iris, &, lilly
 actualPrice: 4.19 EUR
 currency: EUR
 price: 4.19

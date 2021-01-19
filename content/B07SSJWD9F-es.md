@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41qj4qWFQGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SSJWD9F-es Geox U Snake.2 A  Zapatillas para Hombre  Blanco  White/Lt Grey C1995   40 EU'
+slug: 'B07SSJWD9F-es Geox U Snake.2 A Zapatillas para Hombre Blanco White/Lt...'
+tags: geox
 actualPrice: 40.79 EUR
 currency: EUR
 price: 40.79

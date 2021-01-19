@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Okt3+x5nL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07STW5VJZ-es Quiksilver Molokai  Zapatos de Playa y Piscina para Hombre  Multicolor  Red/Blue/Red Xrbr   45 EU'
+slug: 'B07STW5VJZ-es Quiksilver Molokai Zapatos de Playa y Piscina para Hombre...'
+tags: zapatos
 actualPrice: 15.21 EUR
 currency: EUR
 price: 15.21

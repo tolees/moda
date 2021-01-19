@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41HvJKAxCkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PYCHTRW-es Rebelhorn Chaqueta de moto de tres capas Membrana Sympatex transpirable e impermeable  chaqueta softshell interior  protectores SASTEC Patrol Black M'
+slug: 'B07PYCHTRW-es Rebelhorn Chaqueta de moto de tres capas Membrana Sympatex...'
+tags: chaqueta
 actualPrice: 90.01 EUR
 currency: EUR
 price: 90.01

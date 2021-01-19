@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51OzZg3mARL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DYD8QCZ-es Quiksilver Molokai Abyss Cork-Sandals For Men  Zapatos de Playa y Piscina para Hombre  Azul  Blue/Brown/Blue Xbcb   44 EU'
+slug: 'B07DYD8QCZ-es Quiksilver Molokai Abyss Cork-Sandals For Men Zapatos de...'
+tags: zapatos
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

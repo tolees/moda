@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31HaBayvymL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B011DQROGW-es Footful 1 Par de Profesional Protectores Punteras para Dedos de Pie Zapatos de Gel'
+slug: 'B011DQROGW-es Footful 1 Par de Profesional Protectores Punteras para...'
+tags: zapatos
 actualPrice: 2.0 EUR
 currency: EUR
 price: 2.0

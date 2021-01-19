@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51EDW2r2IVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MWJ9M37-es Mustang Chris KC Camisa  Multicolor  Check 11531   Large para Hombre'
+slug: 'B07MWJ9M37-es Mustang Chris KC Camisa Multicolor Check 11531 Large para...'
+tags: camisa
 actualPrice: 11.67 EUR
 currency: EUR
 price: 11.67

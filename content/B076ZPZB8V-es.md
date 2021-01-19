@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/315+m1xdDVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076ZPZB8V-es Clarks Atticus Lace  Zapatos de Cordones Derby para Hombre  Marrón  Tan Leather-   41 EU'
+slug: 'B076ZPZB8V-es Clarks Atticus Lace Zapatos de Cordones Derby para Hombre...'
+tags: zapatos
 actualPrice: 63.71 EUR
 currency: EUR
 price: 63.71

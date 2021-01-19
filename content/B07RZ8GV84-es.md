@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41K6YwtVcEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RZ8GV84-es Levi s Vneck Camiseta  Azul  Annalise Stripe Cloud Dancer 0004   Small para Mujer'
+slug: 'B07RZ8GV84-es Levi s Vneck Camiseta Azul Annalise Stripe Cloud Dancer...'
+tags: camiseta
 actualPrice: 11.36 EUR
 currency: EUR
 price: 11.36

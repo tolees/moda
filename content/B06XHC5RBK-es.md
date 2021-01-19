@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Qk0UXcaeL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XHC5RBK-es Helly Hansen W HH LIFA 1/2 Zip Camiseta Deportiva  Mujer  Negro  Medium  Tamaño del Fabricante:M '
+slug: 'B06XHC5RBK-es Helly Hansen W HH LIFA 1/2 Zip Camiseta Deportiva Mujer...'
+tags: camiseta
 actualPrice: 71.5 EUR
 currency: EUR
 price: 71.5

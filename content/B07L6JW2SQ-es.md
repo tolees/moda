@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/316sAMnM7nL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L6JW2SQ-es Under Armour Armour Insulated Hooded Chaqueta  Mujer  Gris  XL'
+slug: 'B07L6JW2SQ-es Under Armour Armour Insulated Hooded Chaqueta Mujer Gris XL'
+tags: chaqueta
 actualPrice: 46.57 EUR
 currency: EUR
 price: 46.57

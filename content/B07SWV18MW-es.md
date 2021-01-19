@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41hKAxXB7UL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SWV18MW-es Geox D TABELYA A  Zapatillas para Mujer  Negro  Black/Gun C9b1g   36 EU'
+slug: 'B07SWV18MW-es Geox D TABELYA A Zapatillas para Mujer Negro Black/Gun...'
+tags: geox
 actualPrice: 62.91 EUR
 currency: EUR
 price: 62.91

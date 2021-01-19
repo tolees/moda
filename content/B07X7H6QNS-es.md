@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51q8TYmlkSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X7H6QNS-es Pantalones para Adelgazar  Pantalones Deportivos Mujer  Pantalón de Sudoración Adelgazar  Leggings Push Up  Mallas Termicos de Neopreno  Faja Reductora Adelgazante para Deporte  XL '
+slug: 'B07X7H6QNS-es Pantalones para Adelgazar Pantalones Deportivos Mujer...'
+tags: pantalón
 actualPrice: 21.9 EUR
 currency: EUR
 price: 21.9

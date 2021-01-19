@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Pu9UOFBML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B017AG4IHW-es Polaroid P0115 JB N5N Gafas de sol  Azul  Bluette Royal Bl/Grey Silmir Pz   46 Unisex Niños'
+slug: 'B017AG4IHW-es Polaroid P0115 JB N5N Gafas de sol Azul Bluette Royal...'
+tags: gafas
 actualPrice: 24.55 EUR
 currency: EUR
 price: 24.55

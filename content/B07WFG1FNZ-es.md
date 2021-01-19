@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41NuZkAUf6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WFG1FNZ-es VECDY Camisetas Mujer  Blusas Elegante 2019 Hombres Mujeres Modo 3D Imprimir Manga Larga Parejas Sudaderas con Capucha Top Blusa Camisas Tallas Grandes otoño Invierno Casual Sudadera Negro XL '
+slug: 'B07WFG1FNZ-es VECDY Camisetas Mujer Blusas Elegante 2019 Hombres Mujeres...'
+tags: blusa, sudadera
 actualPrice: 2.0 EUR
 currency: EUR
 price: 2.0

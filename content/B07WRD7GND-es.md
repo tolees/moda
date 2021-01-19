@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51JUX6fUlnL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WRD7GND-es Zapatos de Seguridad Hombres  LM-30 Zapatillas de Trabajo con Punta de Acero Ultra Liviano Reflectivo Transpirable  36 EU  SRC Negro '
+slug: 'B07WRD7GND-es Zapatos de Seguridad Hombres LM-30 Zapatillas de Trabajo...'
+tags: zapatos
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41lm2G0uWCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K78KTZT-es Levi s 511 Slim Fit Vaqueros  Caspian Adapt 3406  33W / 30L para Hombre'
+slug: 'B07K78KTZT-es Levi s 511 Slim Fit Vaqueros Caspian Adapt 3406 33W / 30L...'
+tags: vaqueros
 actualPrice: 68.49 EUR
 currency: EUR
 price: 68.49

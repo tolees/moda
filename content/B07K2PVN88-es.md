@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Mb4FqPzzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K2PVN88-es Adidas Adilette Aqua Zapatos de playa y piscina Unisex adulto  Multicolor  Multicolor 000   40 1/2 EU  7 UK '
+slug: 'B07K2PVN88-es Adidas Adilette Aqua Zapatos de playa y piscina Unisex...'
+tags: zapatos
 actualPrice: 6.01 EUR
 currency: EUR
 price: 6.01

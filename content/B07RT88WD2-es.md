@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Qh8CuvtLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RT88WD2-es Pepe Jeans Hatch Vaqueros Hombre Ajustados  Gris  Grey Wiser Wash 000   W32/L32'
+slug: 'B07RT88WD2-es Pepe Jeans Hatch Vaqueros Hombre Ajustados Gris Grey Wiser...'
+tags: vaqueros
 actualPrice: 48.02 EUR
 currency: EUR
 price: 48.02

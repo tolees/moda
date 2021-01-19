@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31rcQ1vQxEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LG14S7N-es Geox Women s D New Annya Mid A Closed Toe Heels  Black  Black C9997  5 UK'
+slug: 'B07LG14S7N-es Geox Women s D New Annya Mid A Closed Toe Heels Black...'
+tags: geox
 actualPrice: 37.7 EUR
 currency: EUR
 price: 37.7

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31xwKSCUjIL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073RP7DSG-es Helly Hansen HH Tech tee Camiseta Deportiva Manga Corto  Mujer  Light Grey  L'
+slug: 'B073RP7DSG-es Helly Hansen HH Tech tee Camiseta Deportiva Manga Corto...'
+tags: camiseta
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31lZCXoI7iL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TFBB64Q-es Lacoste EF5473 Vestido  Azul  Marine   34 para Mujer'
+slug: 'B07TFBB64Q-es Lacoste EF5473 Vestido Azul Marine 34 para Mujer'
+tags: vestido
 actualPrice: 102.99 EUR
 currency: EUR
 price: 102.99

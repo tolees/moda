@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61xvCOUZJjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087NMKSHL-es CHALA 1450PCS Joyas de acrílico  Diamantes de imitación de Bling en Flor  Cristal de Costura  Cristales Adornos de Gemas de acrílico para Manualidades Decorativas DIY Vestido de Sombrero Regalo'
+slug: 'B087NMKSHL-es CHALA 1450PCS Joyas de acrílico Diamantes de imitación de...'
+tags: vestido
 actualPrice: 9.59 EUR
 currency: EUR
 price: 9.59

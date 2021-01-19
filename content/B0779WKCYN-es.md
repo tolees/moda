@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41e+NmS-iyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0779WKCYN-es Marca Amazon - AURIQUE Sujetador Deportivo Bajo Impacto Tirantes Yoga Mujer  Negro  Black   L  Label:L'
+slug: 'B0779WKCYN-es Marca Amazon - AURIQUE Sujetador Deportivo Bajo Impacto...'
+tags: aurique
 actualPrice: 8.43 EUR
 currency: EUR
 price: 8.43

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41skh9FOTSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TKN8T39-es Clarks Un Cosmo Step  Zapatos de Tacón para Mujer  Beige  Natural Snake Natural Snake   41.5 EU'
+slug: 'B07TKN8T39-es Clarks Un Cosmo Step Zapatos de Tacón para Mujer Beige...'
+tags: zapatos
 actualPrice: 66.0 EUR
 currency: EUR
 price: 66.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41aAr1nBAKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K8V2J8B-es G-STAR RAW 3301 Slim Vaqueros  Dk Aged Cobler 7863-3143  25W / 26L para Hombre'
+slug: 'B07K8V2J8B-es G-STAR RAW 3301 Slim Vaqueros Dk Aged Cobler 7863-3143 25W...'
+tags: vaqueros
 actualPrice: 84.99 EUR
 currency: EUR
 price: 84.99

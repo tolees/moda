@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41EUIpZx7OL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZ1X8XH-es Vans Flying V Crew tee Camiseta  Negro  Black Blk   34  Talla del Fabricante: X-Small  para Mujer'
+slug: 'B07MZ1X8XH-es Vans Flying V Crew tee Camiseta Negro Black Blk 34 Talla...'
+tags: camiseta
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zPKUNEnXL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFMRRBL-es Levi s LS Baby tee Camiseta  Gris  Smokestack Heather 0004   Small para Mujer'
+slug: 'B07LFMRRBL-es Levi s LS Baby tee Camiseta Gris Smokestack Heather 0004...'
+tags: camiseta
 actualPrice: 22.65 EUR
 currency: EUR
 price: 22.65

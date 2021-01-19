@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Rk4F3bmeL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SVLP2TH-es Greylags 100% Algodón Prima Camiseta | Cuello Redondo | Chaleco | Shirt | Camiseta sin Mangas para Hombres | Paquete de 3'
+slug: 'B07SVLP2TH-es Greylags 100% Algodón Prima Camiseta | Cuello Redondo |...'
+tags: camiseta, chaleco
 actualPrice: 20.96 EUR
 currency: EUR
 price: 20.96

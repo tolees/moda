@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41A3fgdmOkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WSXQB48-es Charles Wilson Originals Sudadera Algodón Ligera Capucha Cremallera  Small  Deep Navy  0819  '
+slug: 'B07WSXQB48-es Charles Wilson Originals Sudadera Algodón Ligera Capucha...'
+tags: sudadera
 actualPrice: 18.95 EUR
 currency: EUR
 price: 18.95

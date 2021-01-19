@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41B02C-y4TL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YGH139J-es Jack & Jones JORTOPIAS Sweat Hood Sudadera con Capucha  Verde  Sea Moss Fit: Relax   XL para Hombre'
+slug: 'B07YGH139J-es Jack & Jones JORTOPIAS Sweat Hood Sudadera con Capucha...'
+tags: sudadera
 actualPrice: 11.67 EUR
 currency: EUR
 price: 11.67

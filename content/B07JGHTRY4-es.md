@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/414l3v1Y4ZL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JGHTRY4-es Pepe Jeans Belair Pl580852 Sudadera    Grey Marl 933   X-Small para Mujer'
+slug: 'B07JGHTRY4-es Pepe Jeans Belair Pl580852 Sudadera Grey Marl 933 X-Small...'
+tags: sudadera
 actualPrice: 36.51 EUR
 currency: EUR
 price: 36.51

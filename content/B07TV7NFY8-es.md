@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416s3JVapaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TV7NFY8-es Levi s The tee Camiseta  Blanco  Pink California Skies White+ 0917   Small para Mujer'
+slug: 'B07TV7NFY8-es Levi s The tee Camiseta Blanco Pink California Skies...'
+tags: camiseta
 actualPrice: 14.5 EUR
 currency: EUR
 price: 14.5

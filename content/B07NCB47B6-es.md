@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31SjgkXGjPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NCB47B6-es Pepe Jeans Pixie Vaqueros Pitillo Hombre  Negro  Black Wiser Wash Denim Wz7   W24/L32 para Mujer'
+slug: 'B07NCB47B6-es Pepe Jeans Pixie Vaqueros Pitillo Hombre Negro Black Wiser...'
+tags: vaqueros
 actualPrice: 30.72 EUR
 currency: EUR
 price: 30.72

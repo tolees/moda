@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4119oZMIiNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075Z5PJFS-es Vero Moda Vmhot SOYA LS Denim Jacket Mix Noos Chaqueta  Blanco  Bright White Bright White   38  Talla del Fabricante: Small  para Mujer'
+slug: 'B075Z5PJFS-es Vero Moda Vmhot SOYA LS Denim Jacket Mix Noos Chaqueta...'
+tags: chaqueta, moda
 actualPrice: 18.49 EUR
 currency: EUR
 price: 18.49

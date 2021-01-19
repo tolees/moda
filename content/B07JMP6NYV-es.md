@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51DgueaunIL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JMP6NYV-es XTI 49105  Sandalias con Plataforma para Mujer  Azul Jeans  39 EU'
+slug: 'B07JMP6NYV-es XTI 49105 Sandalias con Plataforma para Mujer Azul Jeans...'
+tags: sandalias
 actualPrice: 12.14 EUR
 currency: EUR
 price: 12.14

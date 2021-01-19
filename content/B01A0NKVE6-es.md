@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41qYG391v3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01A0NKVE6-es Under Armour Coldgear Armour Mock Camiseta De Manga Larga  Hombre  Gris  Carbon Heather/Black 090   L'
+slug: 'B01A0NKVE6-es Under Armour Coldgear Armour Mock Camiseta De Manga Larga...'
+tags: camiseta
 actualPrice: 41.25 EUR
 currency: EUR
 price: 41.25

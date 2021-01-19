@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31LBl-8lPrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P7H87VS-es Marca Amazon - find. Vestido Midi de Satén Mujer  Rojo  VALIANT POPPY   38  Label: S'
+slug: 'B07P7H87VS-es Marca Amazon - find. Vestido Midi de Satén Mujer Rojo...'
+tags: vestido, -, find.
 actualPrice: 6.66 EUR
 currency: EUR
 price: 6.66

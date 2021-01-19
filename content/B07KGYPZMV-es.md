@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Mv4HMQmdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KGYPZMV-es Under Armour UA Rush Camiseta Masculina de Manga Corta  Camiseta de compresión con tecnología Rush  Camiseta Deportiva con Corte de compresión'
+slug: 'B07KGYPZMV-es Under Armour UA Rush Camiseta Masculina de Manga Corta...'
+tags: camiseta
 actualPrice: 32.97 EUR
 currency: EUR
 price: 32.97

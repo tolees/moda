@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31+mMQHbcNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VGRWW7J-es Desigual Mone Rhapsody Zip Around - Monedero para Mujer  2 x 9 5 x 19 cm  Color marrón y Beige'
+slug: 'B07VGRWW7J-es Desigual Mone Rhapsody Zip Around - Monedero para Mujer 2...'
+tags: monedero
 actualPrice: 13.76 EUR
 currency: EUR
 price: 13.76

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/414iZ-ypnrL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B075X2RL4N-es find. NEWSTW050 vaqueros mujer cintura alta   Azul  Bright Vintage   W33/L32  Talla del Fabricante: 42/44 '
+slug: 'B075X2RL4N-es find. NEWSTW050 vaqueros mujer cintura alta Azul Bright...'
+tags: vaqueros
 actualPrice: 8.07 EUR
 currency: EUR
 price: 8.07

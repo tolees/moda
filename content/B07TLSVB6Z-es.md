@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41kmUXYiQSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TLSVB6Z-es Clarks Maritsa Lara  Sandalias de Talón Abierto para Mujer  Beige  Sage Nubuck Sage Nubuck   41 EU'
+slug: 'B07TLSVB6Z-es Clarks Maritsa Lara Sandalias de Talón Abierto para Mujer...'
+tags: sandalias
 actualPrice: 40.43 EUR
 currency: EUR
 price: 40.43

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41gSZ6OvLrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07822SQMQ-es Puma Liga Sideline Woven Pantalón  Hombre  Azul  Peacoat White   XXL'
+slug: 'B07822SQMQ-es Puma Liga Sideline Woven Pantalón Hombre Azul Peacoat...'
+tags: pantalón
 actualPrice: 15.13 EUR
 currency: EUR
 price: 15.13

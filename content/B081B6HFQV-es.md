@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31mj1oGzuuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081B6HFQV-es Columbia CSC Basic Camiseta de Manga Corta  Hombre  Blanco  White   L'
+slug: 'B081B6HFQV-es Columbia CSC Basic Camiseta de Manga Corta Hombre Blanco...'
+tags: camiseta
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41T%2B6Vs0YFL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B073RPD1TR-es Helly Hansen HH Tech Crew Camiseta Deportiva Manga Larga  Mujer  Ebony  S'
+slug: 'B073RPD1TR-es Helly Hansen HH Tech Crew Camiseta Deportiva Manga Larga...'
+tags: camiseta
 actualPrice: 17.09 EUR
 currency: EUR
 price: 17.09

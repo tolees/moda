@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41BwfeK+d2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HX672CJ-es GANT D1. Harvest Moon Chiffon Blouse Blusa  Marfil  Eggshell 113   46  Talla del Fabricante: 44  para Mujer'
+slug: 'B07HX672CJ-es GANT D1. Harvest Moon Chiffon Blouse Blusa Marfil Eggshell...'
+tags: blusa
 actualPrice: 46.28 EUR
 currency: EUR
 price: 46.28

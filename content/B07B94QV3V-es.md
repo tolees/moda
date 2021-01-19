@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41qxP1zz8JL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B94QV3V-es Clarks Laina RAE  Zapatos de Tacón para Mujer  Negro  Black Patent   37.5 EU'
+slug: 'B07B94QV3V-es Clarks Laina RAE Zapatos de Tacón para Mujer Negro Black...'
+tags: zapatos
 actualPrice: 50.0 EUR
 currency: EUR
 price: 50.0

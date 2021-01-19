@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21ymrRY0UGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SB1Z7QG-es Helly Hansen Nord Graphic HH T-Shirt Camiseta  Hombre  White  L'
+slug: 'B07SB1Z7QG-es Helly Hansen Nord Graphic HH T-Shirt Camiseta Hombre White L'
+tags: camiseta
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

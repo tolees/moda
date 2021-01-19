@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41cksHoSNAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S9CXKBB-es Lee New Pocket SWS Sudadera  Gris  Grey Mele MP   X-Large para Hombre'
+slug: 'B07S9CXKBB-es Lee New Pocket SWS Sudadera Gris Grey Mele MP X-Large para...'
+tags: sudadera
 actualPrice: 18.13 EUR
 currency: EUR
 price: 18.13

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31VH0G0f7CL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R2X8T8Y-es Under Armour Rival Fleece Graphic Novelty Sudadera con Capucha  Mujer  Negro  Black/Onyx White/Black 001   M'
+slug: 'B07R2X8T8Y-es Under Armour Rival Fleece Graphic Novelty Sudadera con...'
+tags: sudadera
 actualPrice: 34.21 EUR
 currency: EUR
 price: 34.21

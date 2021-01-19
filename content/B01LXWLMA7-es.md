@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41D97x99ezL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LXWLMA7-es TRANGO Neku Chaqueta  Mujer  Azul Tinta  XS'
+slug: 'B01LXWLMA7-es TRANGO Neku Chaqueta Mujer Azul Tinta XS'
+tags: chaqueta
 actualPrice: 71.95 EUR
 currency: EUR
 price: 71.95

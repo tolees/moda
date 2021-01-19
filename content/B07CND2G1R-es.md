@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51gU980JPrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CND2G1R-es SKYSPER Ciclismo Maillot Hombres Jersey + Pantalones Cortos Culote Mangas Cortas de Ciclismo Conjunto de Ropa Maillot Transpirable para Deportes al Aire Libre Ciclo Bicicleta'
+slug: 'B07CND2G1R-es SKYSPER Ciclismo Maillot Hombres Jersey + Pantalones...'
+tags: jersey
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

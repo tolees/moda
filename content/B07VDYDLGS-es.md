@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31aAFYzRnYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VDYDLGS-es Fruit of the Loom - Camiseta básica de Manga Corta para niña/Chicas - 100% algodón Primera Calidad  3-4 Años   Naranja '
+slug: 'B07VDYDLGS-es Fruit of the Loom - Camiseta básica de Manga Corta para...'
+tags: camiseta
 actualPrice: 3.45 EUR
 currency: EUR
 price: 3.45

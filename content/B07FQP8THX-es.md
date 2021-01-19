@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31-S7ZY2GxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FQP8THX-es Clarks Un Karely Sun  Chanclas Sandalias Flip-Flop  Negro  Black Nubuck-   40 EU'
+slug: 'B07FQP8THX-es Clarks Un Karely Sun Chanclas Sandalias Flip-Flop Negro...'
+tags: chanclas, sandalias
 actualPrice: 45.47 EUR
 currency: EUR
 price: 45.47

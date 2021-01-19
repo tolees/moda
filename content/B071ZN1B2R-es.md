@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/411oh+swBgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071ZN1B2R-es Under Armour 1323415-001 Camiseta  Hombre  Negro  L'
+slug: 'B071ZN1B2R-es Under Armour 1323415-001 Camiseta Hombre Negro L'
+tags: camiseta
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

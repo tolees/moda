@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41GWxe8hgAL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0777LWQMV-es JACK & JONES Jjifred Jjoriginal CR 033 STS Vaqueros Relaxed  Azul  Blue Denim Blue Denim   W31/L30  Talla del Fabricante: 31  para Hombre'
+slug: 'B0777LWQMV-es JACK & JONES Jjifred Jjoriginal CR 033 STS Vaqueros...'
+tags: vaqueros
 actualPrice: 24 EUR
 currency: EUR
 price: 24

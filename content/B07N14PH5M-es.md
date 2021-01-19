@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31qUq-XTQmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N14PH5M-es G-STAR RAW Lynn Mid Waist Super Skinny Vaqueros  Negro  Pitch Black 9142-A810   23W / 32L para Mujer'
+slug: 'B07N14PH5M-es G-STAR RAW Lynn Mid Waist Super Skinny Vaqueros Negro...'
+tags: vaqueros
 actualPrice: 13.04 EUR
 currency: EUR
 price: 13.04

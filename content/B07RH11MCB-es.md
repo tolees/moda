@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51+690gRdXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RH11MCB-es LAOYE Collar de pulgas - 8 Meses de protección el Collar de Perro con Longitud Ajustable para Todas Las Edades de Perros el Collar antipulgas de Perro el Collar antiparasitos Perro pequeño'
+slug: 'B07RH11MCB-es LAOYE Collar de pulgas - 8 Meses de protección el Collar...'
+tags: collar
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41E8+bBA87L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MJ979ST-es Marca Amazon - find. Abrigo Cruzado de Cuadros Hombre  Rojo  Red   L  Label: L'
+slug: 'B07MJ979ST-es Marca Amazon - find. Abrigo Cruzado de Cuadros Hombre Rojo...'
+tags: abrigo, -, find.
 actualPrice: 19.15 EUR
 currency: EUR
 price: 19.15

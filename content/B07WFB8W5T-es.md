@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41YD+ojzjSL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WFB8W5T-es Zapatillas Casa Hombre Mujer Invierno Calido Zapatillas Memory Foam Slipper Ultraligero cómodo y Antideslizante Zapatilla de Estar por casa para Mujer Zapatillas de Interior'
+slug: 'B07WFB8W5T-es Zapatillas Casa Hombre Mujer Invierno Calido Zapatillas...'
+tags: zapatilla
 actualPrice: 17.88 EUR
 currency: EUR
 price: 17.88

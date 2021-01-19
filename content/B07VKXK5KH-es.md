@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41tc0GoPTpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VKXK5KH-es HKT by Hackett Hkt SS tee Camiseta  Rojo  2eylt Jack Red 2ey   X-Small para Hombre'
+slug: 'B07VKXK5KH-es HKT by Hackett Hkt SS tee Camiseta Rojo 2eylt Jack Red 2ey...'
+tags: camiseta
 actualPrice: 14.5 EUR
 currency: EUR
 price: 14.5

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41rOie0c-uL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079RT2QWQ-es Pepe Jeans Keith Chaqueta  Negro  Black 999   S para Hombre'
+slug: 'B079RT2QWQ-es Pepe Jeans Keith Chaqueta Negro Black 999 S para Hombre'
+tags: chaqueta
 actualPrice: 209.48 EUR
 currency: EUR
 price: 209.48

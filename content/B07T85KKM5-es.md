@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31GfWyol4NL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T85KKM5-es Helly Hansen W Iris  Sandalias de Punta Descubierta para Mujer  Azul  Navy/Off White 597   43 EU'
+slug: 'B07T85KKM5-es Helly Hansen W Iris Sandalias de Punta Descubierta para...'
+tags: sandalias
 actualPrice: 15.16 EUR
 currency: EUR
 price: 15.16

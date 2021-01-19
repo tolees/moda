@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41HzlNDALZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FH9VHLQ-es Timberland Malibu Waves Thong  Sandalias para Mujer  Verde  Olive Nubuck   36 EU'
+slug: 'B07FH9VHLQ-es Timberland Malibu Waves Thong Sandalias para Mujer Verde...'
+tags: sandalias, timberland
 actualPrice: 40.0 EUR
 currency: EUR
 price: 40.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31rJw0HIQwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P16D2ZJ-es Superdry Suprdry Surplus Goods LS Classic Graphic tee Camisa Manga Larga  Blanco  Optic 01c   Small para Hombre'
+slug: 'B07P16D2ZJ-es Superdry Suprdry Surplus Goods LS Classic Graphic tee...'
+tags: camisa
 actualPrice: 10.52 EUR
 currency: EUR
 price: 10.52

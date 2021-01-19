@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31oBQ2B9RbL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0030ZSZXG-es adidas Duramo Slide Chanclas Unisex  Azul  New Navy/White/New Navy   40.5 EU  7 UK '
+slug: 'B0030ZSZXG-es adidas Duramo Slide Chanclas Unisex Azul New...'
+tags: chanclas
 actualPrice: 11.97 EUR
 currency: EUR
 price: 11.97

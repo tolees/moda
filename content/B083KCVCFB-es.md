@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51I8F6qIZhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083KCVCFB-es LuckyGirls Chic Sandalias Mujer Plataforma Cuña Verano 2020 Serpentino Zapatos Mujer Tacon Altas Elegantes Alpargatas Sandalias de Mujer Fiesta Vestir Punta Abierta Correa del Lazo Hebilla'
+slug: 'B083KCVCFB-es LuckyGirls Chic Sandalias Mujer Plataforma Cuña Verano...'
+tags: sandalias, zapatos
 actualPrice: 18.34 EUR
 currency: EUR
 price: 18.34

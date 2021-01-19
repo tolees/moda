@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31MQvihKAfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RHLBR23-es Camisas de Mujer Tops Camisa de Gasa Mangas Blusas Blusas Elegantes Mangas 3/4 Negro M CLAF15-3'
+slug: 'B07RHLBR23-es Camisas de Mujer Tops Camisa de Gasa Mangas Blusas Blusas...'
+tags: camisa
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

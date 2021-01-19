@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Dfd47pWyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B016W1G6JE-es Tommy Hilfiger 2P Tank Camiseta  blanco  blanco 100   S para Hombre'
+slug: 'B016W1G6JE-es Tommy Hilfiger 2P Tank Camiseta blanco blanco 100 S para...'
+tags: camiseta
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

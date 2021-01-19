@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41OieMp2G+L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074HWW88P-es Blanco Rosa Sudaderas Mujer Largas Tumblr Invierno Raya Basicas Moda Sweatshirt Suéter Oversize  Blanco  Small '
+slug: 'B074HWW88P-es Blanco Rosa Sudaderas Mujer Largas Tumblr Invierno Raya...'
+tags: moda
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41teLXrJ2aL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SVP2GKX-es Geox J Alonisso Boy E  Zapatillas para Niños  Gris  Grey/Yellow C0030   35 EU'
+slug: 'B07SVP2GKX-es Geox J Alonisso Boy E Zapatillas para Niños Gris...'
+tags: geox
 actualPrice: 14.39 EUR
 currency: EUR
 price: 14.39

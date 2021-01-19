@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41i3uZXUGDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TWXMTTV-es Women s Secret The Lion King LK DS Life PJ FR Conjuntos de Pijama  Verde  Gama Verdes 22   Medium  Tamaño del Fabricante: M  para Mujer'
+slug: 'B07TWXMTTV-es Women s Secret The Lion King LK DS Life PJ FR Conjuntos de...'
+tags: pijama
 actualPrice: 15.7 EUR
 currency: EUR
 price: 15.7

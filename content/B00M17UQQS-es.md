@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31NF8IsvJLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00M17UQQS-es Havaianas Brasil  Chanclas Unisex Adulto  Gris  Steel Grey 5178   39/40 EU'
+slug: 'B00M17UQQS-es Havaianas Brasil Chanclas Unisex Adulto Gris Steel Grey...'
+tags: chanclas
 actualPrice: 14.3 EUR
 currency: EUR
 price: 14.3

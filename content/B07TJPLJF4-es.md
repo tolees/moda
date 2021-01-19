@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+hRBY3XNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TJPLJF4-es Clarks Annadel Parker  Sandalias de Talón Abierto para Mujer  Azul  Navy Suede Navy Suede   39 EU'
+slug: 'B07TJPLJF4-es Clarks Annadel Parker Sandalias de Talón Abierto para...'
+tags: sandalias
 actualPrice: 28.27 EUR
 currency: EUR
 price: 28.27

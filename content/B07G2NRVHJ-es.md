@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41fIY6nPxoL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G2NRVHJ-es AURIQUE Half Zip Sports Chaqueta Rojo  Port Royale  40  Talla del Fabricante: Medium '
+slug: 'B07G2NRVHJ-es AURIQUE Half Zip Sports Chaqueta Rojo Port Royale 40 Talla...'
+tags: aurique, chaqueta
 actualPrice: 15 EUR
 currency: EUR
 price: 15

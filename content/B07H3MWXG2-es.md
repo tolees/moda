@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ualtOSdgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H3MWXG2-es Chaleco para perro sin tirones  ajustable  correa para el pecho  transpirable  acolchado  de SlowTon'
+slug: 'B07H3MWXG2-es Chaleco para perro sin tirones ajustable correa para el...'
+tags: chaleco
 actualPrice: 10.56 EUR
 currency: EUR
 price: 10.56

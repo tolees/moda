@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41nIh1guAsL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00TZAB2SK-es uhlsport Stream 3.0 Ml Camiseta De Juego Manga Larga  Hombre  Azur/Amarillo maiz  M'
+slug: 'B00TZAB2SK-es uhlsport Stream 3.0 Ml Camiseta De Juego Manga Larga...'
+tags: camiseta
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

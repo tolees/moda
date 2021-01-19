@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41L7LK5C1kL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RS7XTGD-es Pour Moi? Glamazon Underwired Double Strap Top Parte de Arriba de Bikini  Verde  Khaki Khaki   100H  Talla del Fabricante: 38G  para Mujer'
+slug: 'B07RS7XTGD-es Pour Moi? Glamazon Underwired Double Strap Top Parte de...'
+tags: bikini
 actualPrice: 9.13 EUR
 currency: EUR
 price: 9.13

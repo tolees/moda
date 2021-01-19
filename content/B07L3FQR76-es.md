@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41H10rr9i1L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L3FQR76-es Hilfiger Denim Stripe Tommy Jeans Beach Sandal  Chanclas para Hombre  Negro  Black 990   41 EU'
+slug: 'B07L3FQR76-es Hilfiger Denim Stripe Tommy Jeans Beach Sandal Chanclas...'
+tags: chanclas
 actualPrice: 14.69 EUR
 currency: EUR
 price: 14.69

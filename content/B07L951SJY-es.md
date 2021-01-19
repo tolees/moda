@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31AUQVuUCKL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L951SJY-es JACK & JONES NOS JJEDESERT Bomber Noos Chaqueta  Azul Maritime Blue  XS para Hombre'
+slug: 'B07L951SJY-es JACK & JONES NOS JJEDESERT Bomber Noos Chaqueta Azul...'
+tags: chaqueta
 actualPrice: 12 EUR
 currency: EUR
 price: 12

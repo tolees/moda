@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41lF16DvMpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TPVS8YC-es Superdry VL Fade T Shirt Store tee Camiseta  Blanco  Optic 01c   XL para Hombre'
+slug: 'B07TPVS8YC-es Superdry VL Fade T Shirt Store tee Camiseta Blanco Optic...'
+tags: camiseta
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

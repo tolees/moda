@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41v5wMrr%2BZL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B01FF8FCUE-es JACK & JONES Jjiliam Jjoriginal Am 010 Lid Noos Vaqueros  Grey Denim  34W / 36L para Hombre'
+slug: 'B01FF8FCUE-es JACK & JONES Jjiliam Jjoriginal Am 010 Lid Noos Vaqueros...'
+tags: vaqueros
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

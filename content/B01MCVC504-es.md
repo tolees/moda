@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/5182yUWTYIL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MCVC504-es 2019 bolsos mujer bolso mujer bolsos bandolera mujer bolsos-mujer carteras y bolsos de mujer bolsas para mujeres 2017 clutch monederos para mujer bolso bandolera mujer bolso piel mujer alta calidad'
+slug: 'B01MCVC504-es 2019 bolsos mujer bolso mujer bolsos bandolera mujer...'
+tags: bolso
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41QQyFNdI1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X9T75DH-es Cevapro Guantes de ciclismo cálidos guantes de invierno ligeros guantes deportivos para pantalla táctil guantes unisex transpirables guantes de ciclismo para hombres/mujeres para ciclismo  senderismo  correr  etc.  Hombre  color Negro  tamaño extra-large'
+slug: 'B07X9T75DH-es Cevapro Guantes de ciclismo cálidos guantes de invierno...'
+tags: guantes
 actualPrice: 12.81 EUR
 currency: EUR
 price: 12.81

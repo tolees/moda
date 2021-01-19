@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31igKz3u9rL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VL3FFVT-es Hackett London Amr Hackett tee Camiseta  Blanco  White 800   Medium para Hombre'
+slug: 'B07VL3FFVT-es Hackett London Amr Hackett tee Camiseta Blanco White 800...'
+tags: camiseta
 actualPrice: 31.0 EUR
 currency: EUR
 price: 31.0

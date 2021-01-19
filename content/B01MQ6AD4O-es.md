@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41c9c3IJ3dL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MQ6AD4O-es Amazon Essentials Cotton Stretch Bikini Panty  6-Pack Braguita  Multicolor  Black/White/Stripe/Pink/Gray   Large'
+slug: 'B01MQ6AD4O-es Amazon Essentials Cotton Stretch Bikini Panty 6-Pack...'
+tags: bikini
 actualPrice: 11.64 EUR
 currency: EUR
 price: 11.64

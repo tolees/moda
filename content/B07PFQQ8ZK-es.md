@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Af-GF6tWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PFQQ8ZK-es El Búho Nocturno Pijama de Caballero de Manga Larga canalé Pijama Moderno Pijama de Entretiempo de Punto de algodón para Hombre XXL Marino-Estampado Puntos'
+slug: 'B07PFQQ8ZK-es El Búho Nocturno Pijama de Caballero de Manga Larga canalé...'
+tags: pijama
 actualPrice: 27.95 EUR
 currency: EUR
 price: 27.95

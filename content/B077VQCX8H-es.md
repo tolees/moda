@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41rXmhYbyVL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077VQCX8H-es Levi s The Perfect Tee  Camiseta  Mujer  Gris  Pattern Smokestack Htr 0315   XS'
+slug: 'B077VQCX8H-es Levi s The Perfect Tee Camiseta Mujer Gris Pattern...'
+tags: camiseta
 actualPrice: 14.49 EUR
 currency: EUR
 price: 14.49

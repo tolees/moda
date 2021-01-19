@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31a6fdrgxaL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01FHJHXO4-es Under Armour UA Woven Graphic Short Pantalón Corto  Hombre  Gris  035   XL'
+slug: 'B01FHJHXO4-es Under Armour UA Woven Graphic Short Pantalón Corto Hombre...'
+tags: pantalón
 actualPrice: 15.31 EUR
 currency: EUR
 price: 15.31

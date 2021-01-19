@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41T4ZSB82ML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004SGJRR4-es PUMA Suede Classic+  Zapatilla para Hombre  Negro  Black/White   41 EU'
+slug: 'B004SGJRR4-es PUMA Suede Classic+ Zapatilla para Hombre Negro...'
+tags: zapatilla
 actualPrice: 50.32 EUR
 currency: EUR
 price: 50.32

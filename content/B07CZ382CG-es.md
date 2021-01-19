@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31vm-V3PhWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CZ382CG-es PUMA Leadcat NSK  Zapatos de Playa y Piscina Unisex-Adulto  Rosa  Winsome Orchid-Laurel Wreath White   46 EU'
+slug: 'B07CZ382CG-es PUMA Leadcat NSK Zapatos de Playa y Piscina Unisex-Adulto...'
+tags: zapatos
 actualPrice: 16.71 EUR
 currency: EUR
 price: 16.71

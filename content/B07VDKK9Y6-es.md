@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41E1SftiItL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VDKK9Y6-es Desigual Bols tribal Loverty - Bolso bandolera  14 x 24 x 33 cm   color Negro  talla 14x24x33 cm  B x H x T '
+slug: 'B07VDKK9Y6-es Desigual Bols tribal Loverty - Bolso bandolera 14 x 24 x...'
+tags: bolso
 actualPrice: 23.58 EUR
 currency: EUR
 price: 23.58

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41ImKTSGQsL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N19SWJC-es Lee Slim Button Down Camisa  Azul  Frost Blue   XX-Large para Hombre'
+slug: 'B07N19SWJC-es Lee Slim Button Down Camisa Azul Frost Blue XX-Large para...'
+tags: camisa
 actualPrice: 14.48 EUR
 currency: EUR
 price: 14.48

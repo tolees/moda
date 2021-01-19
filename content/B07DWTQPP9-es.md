@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/513IsItx3IL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DWTQPP9-es RJEU Moda Vintage Mochila de Lona y PU Cuero con Diseño Casual para Hombres de Viaje Mochila Ajuste para Portátil 17.3 Pulgadas'
+slug: 'B07DWTQPP9-es RJEU Moda Vintage Mochila de Lona y PU Cuero con Diseño...'
+tags: moda
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

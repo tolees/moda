@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41EvFcXzDGL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M5DG3XL-es Lee V Neck tee Camiseta  Verde  DK Bottle Green BB   Medium para Mujer'
+slug: 'B07M5DG3XL-es Lee V Neck tee Camiseta Verde DK Bottle Green BB Medium...'
+tags: camiseta
 actualPrice: 7.06 EUR
 currency: EUR
 price: 7.06

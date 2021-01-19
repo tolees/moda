@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31bZwrTg7HL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JG48SF5-es Unno DIM Basic Lote X4 Boxer Sin Costuras  Negro  Noir/Noir 0hz   Large  Tamaño del Fabricante:4   Pack de 4  para Hombre'
+slug: 'B07JG48SF5-es Unno DIM Basic Lote X4 Boxer Sin Costuras Negro Noir/Noir...'
+tags: boxer
 actualPrice: 12.66 EUR
 currency: EUR
 price: 12.66

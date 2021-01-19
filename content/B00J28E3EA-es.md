@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31J4wsZ130L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00J28E3EA-es Joma Combi Camiseta Manga Corta  Hombre  Rojo  L'
+slug: 'B00J28E3EA-es Joma Combi Camiseta Manga Corta Hombre Rojo L'
+tags: camiseta
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

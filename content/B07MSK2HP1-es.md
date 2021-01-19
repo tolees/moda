@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/415q46SMNPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MSK2HP1-es Ropa de Dormir para Mujeres SHOBDW Regalo del día de San Valentín Sexy Ladies Lingerie Babydoll Tangas Camisola Talla Grande Vestido de Encaje Vestido Ropa de Dormir 2 PCS Negro S '
+slug: 'B07MSK2HP1-es Ropa de Dormir para Mujeres SHOBDW Regalo del día de San...'
+tags: vestido
 actualPrice: 5.69 EUR
 currency: EUR
 price: 5.69

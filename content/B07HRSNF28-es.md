@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31J278mIxtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HRSNF28-es HAWKERS · COLLINS · Gold · Green Bottle · Gafas de sol para hombre y mujer'
+slug: 'B07HRSNF28-es HAWKERS · COLLINS · Gold · Green Bottle · Gafas de sol...'
+tags: gafas
 actualPrice: 5.3 EUR
 currency: EUR
 price: 5.3

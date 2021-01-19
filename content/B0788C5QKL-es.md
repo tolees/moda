@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4113EV5opQL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0788C5QKL-es Vero Moda Vmhot Seven NW Dnm Slit Knicker Mix Noos Pantalones  Azul  Medium Blue Denim Medium Blue Denim   42  Talla del Fabricante: Large  para Mujer'
+slug: 'B0788C5QKL-es Vero Moda Vmhot Seven NW Dnm Slit Knicker Mix Noos...'
+tags: moda
 actualPrice: 12.02 EUR
 currency: EUR
 price: 12.02

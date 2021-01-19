@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31dKPVegOGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RH2ZCG8-es G-STAR RAW D-STAQ 3D Slim Vaqueros  Negro  Pitch Black B479-A810   32W / 36L para Hombre'
+slug: 'B07RH2ZCG8-es G-STAR RAW D-STAQ 3D Slim Vaqueros Negro Pitch Black...'
+tags: vaqueros
 actualPrice: 58.72 EUR
 currency: EUR
 price: 58.72

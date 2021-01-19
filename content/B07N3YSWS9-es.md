@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Xcf1XCmcL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N3YSWS9-es G-STAR RAW 3301 Slim Vaqueros  Vintage Medium Aged 8968-2965  42W / 40L para Hombre'
+slug: 'B07N3YSWS9-es G-STAR RAW 3301 Slim Vaqueros Vintage Medium Aged...'
+tags: vaqueros
 actualPrice: 21.24 EUR
 currency: EUR
 price: 21.24

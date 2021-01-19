@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41OcXmEyPzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VFH7LD3-es JACK & JONES Jjebomb Puffer Collar Noos Chaqueta Bomber  Rojo  Scarlet Scarlet   Small para Hombre'
+slug: 'B07VFH7LD3-es JACK & JONES Jjebomb Puffer Collar Noos Chaqueta Bomber...'
+tags: chaqueta, collar
 actualPrice: 20.98 EUR
 currency: EUR
 price: 20.98

@@ -6,7 +6,8 @@ image: 'None._SL200_'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T1K47MF-es Tikea Bolsa Geométrica de Corcho Natural para Mujer  Riñonera Ecológica de Moda  Bolsa de Cintura Deporte Efecto Madera Casual Unisex'
+slug: 'B07T1K47MF-es Tikea Bolsa Geométrica de Corcho Natural para Mujer...'
+tags: moda
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

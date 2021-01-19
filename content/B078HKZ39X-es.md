@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31AOd0ALhvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078HKZ39X-es Marca Amazon - IRIS & LILLY Tanga de Hilo de Algodón Mujer  Pack de 5  Multicolor  Twilight Blue/pearl/cashmere Blue   M  Label: M'
+slug: 'B078HKZ39X-es Marca Amazon - IRIS & LILLY Tanga de Hilo de Algodón Mujer...'
+tags: iris, &, lilly
 actualPrice: 9.79 EUR
 currency: EUR
 price: 9.79

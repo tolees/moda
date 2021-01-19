@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41swHyXxoXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075RGTRYV-es Helly Hansen Blume Chaqueta De Fumador Repelente Al Agua Aislado Parka Invierno  Mujer  Off White  5XL'
+slug: 'B075RGTRYV-es Helly Hansen Blume Chaqueta De Fumador Repelente Al Agua...'
+tags: chaqueta, parka
 actualPrice: 55.2 EUR
 currency: EUR
 price: 55.2

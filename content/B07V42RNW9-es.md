@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41k-09LgDZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V42RNW9-es BOSS Mix&Match T-Shirt R Camiseta  Gris  Light/Pastel Grey 53   Small para Hombre'
+slug: 'B07V42RNW9-es BOSS Mix&Match T-Shirt R Camiseta Gris Light/Pastel Grey...'
+tags: camiseta
 actualPrice: 18.32 EUR
 currency: EUR
 price: 18.32

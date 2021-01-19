@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51%2BQWDsFCPL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M5F4PLK-es Wrangler Western Check Shirt Blusa  Marfil  Off White 737   X-Large para Mujer'
+slug: 'B07M5F4PLK-es Wrangler Western Check Shirt Blusa Marfil Off White 737...'
+tags: blusa
 actualPrice: 27.48 EUR
 currency: EUR
 price: 27.48

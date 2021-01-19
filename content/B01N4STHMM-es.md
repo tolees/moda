@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41F666hPJ9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N4STHMM-es Tommy Hilfiger SS tee Print Camiseta con Logo  Azul  Navy Blazer 416   L  Talla del Fabricante: LG  para Mujer'
+slug: 'B01N4STHMM-es Tommy Hilfiger SS tee Print Camiseta con Logo Azul Navy...'
+tags: camiseta
 actualPrice: 20.95 EUR
 currency: EUR
 price: 20.95

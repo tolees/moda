@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4128nIskCmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VNLQLBF-es New Look Earnie Patch Pocket Camisa  Negro  Black 1   40 para Mujer'
+slug: 'B07VNLQLBF-es New Look Earnie Patch Pocket Camisa Negro Black 1 40 para...'
+tags: camisa
 actualPrice: 8.42 EUR
 currency: EUR
 price: 8.42

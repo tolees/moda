@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31eqc7bwpoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NDFCYLV-es CTAS Platform Layer HI Zapatos Deportivos Mujer Blanco 564486C'
+slug: 'B07NDFCYLV-es CTAS Platform Layer HI Zapatos Deportivos Mujer Blanco...'
+tags: zapatos
 actualPrice: 76.0 EUR
 currency: EUR
 price: 76.0

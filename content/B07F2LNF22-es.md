@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/411ORysclAL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F2LNF22-es Helly Hansen HP Racing Midlayer Lifaloft Cuello Forro Polar Marina Deportes Navegación Chaqueta Impermeable  Hombre  Cherry Tomato  XL'
+slug: 'B07F2LNF22-es Helly Hansen HP Racing Midlayer Lifaloft Cuello Forro...'
+tags: chaqueta
 actualPrice: 83.02 EUR
 currency: EUR
 price: 83.02

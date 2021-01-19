@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4132JnYORpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MVLT3MD-es Napapijri DROZ Jersey  Azul  CLEMATIS BLUE VB1   L para Hombre'
+slug: 'B07MVLT3MD-es Napapijri DROZ Jersey Azul CLEMATIS BLUE VB1 L para Hombre'
+tags: jersey
 actualPrice: 40.05 EUR
 currency: EUR
 price: 40.05

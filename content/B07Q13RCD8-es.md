@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31fzyuFn3mL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q13RCD8-es Under Armour UA Core PTH SL  Zapatos de Playa y Piscina Unisex Adulto  Rojo  Beta/Beta/White   42.5 EU'
+slug: 'B07Q13RCD8-es Under Armour UA Core PTH SL Zapatos de Playa y Piscina...'
+tags: zapatos
 actualPrice: 13.97 EUR
 currency: EUR
 price: 13.97

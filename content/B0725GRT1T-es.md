@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31pQ7VHrPsL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0725GRT1T-es JACK & JONES Jjimike Jjorg Jos 097 ID.k Lid Noos Pantalones Vaqueros de Ajuste Deslizante  Azul  Blue Denim   W36/L34  Talla del Fabricante: 36  para Hombre'
+slug: 'B0725GRT1T-es JACK & JONES Jjimike Jjorg Jos 097 ID.k Lid Noos...'
+tags: vaqueros
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

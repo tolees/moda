@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41TSKvbs4KL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QP1XWN5-es Marca Amazon - IRIS & LILLY Pijama de Modal Mujer  Rojo  Red&White   XS  Label: XS'
+slug: 'B07QP1XWN5-es Marca Amazon - IRIS & LILLY Pijama de Modal Mujer Rojo...'
+tags: pijama, iris, &, lilly
 actualPrice: 13.41 EUR
 currency: EUR
 price: 13.41

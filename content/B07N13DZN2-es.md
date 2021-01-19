@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/313yN-RTCfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N13DZN2-es find. Suede-Look Zapatos de Cordones Derby  Azul Navy  41 EU'
+slug: 'B07N13DZN2-es find. Suede-Look Zapatos de Cordones Derby Azul Navy 41 EU'
+tags: zapatos
 actualPrice: 26.7 EUR
 currency: EUR
 price: 26.7

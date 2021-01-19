@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31hp3r7b%2BeL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B06Y2DPJV7-es Monedero "Mamá  tu sonrisa lo vale todo"'
+slug: 'B06Y2DPJV7-es Monedero "Mamá tu sonrisa lo vale todo"'
+tags: monedero
 actualPrice: 12.48 EUR
 currency: EUR
 price: 12.48

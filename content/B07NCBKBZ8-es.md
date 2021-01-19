@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41sgHElgqdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NCBKBZ8-es Pepe Jeans Saturn Vaqueros  Azul  Medium Used Wiser Wash Denim Wz3   25W / 34L para Mujer'
+slug: 'B07NCBKBZ8-es Pepe Jeans Saturn Vaqueros Azul Medium Used Wiser Wash...'
+tags: vaqueros
 actualPrice: 18.32 EUR
 currency: EUR
 price: 18.32

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41bRce-sAGL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BP2LRXC-es Gant The Broadcloth Banker Reg BD Camisa  Azul  Capri Blue 468   X-Large para Hombre'
+slug: 'B07BP2LRXC-es Gant The Broadcloth Banker Reg BD Camisa Azul Capri Blue...'
+tags: camisa
 actualPrice: 63.62 EUR
 currency: EUR
 price: 63.62

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41WoWktzqtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S1MNCSF-es New Balance 520v6  Zapatos para Correr para Hombre  Negro  Black Lk6   45 EU'
+slug: 'B07S1MNCSF-es New Balance 520v6 Zapatos para Correr para Hombre Negro...'
+tags: zapatos
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

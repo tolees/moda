@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Bn--IcJ3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WDJ538W-es Jack & Jones JORASTON SS tee Crew Neck KA Camiseta  Verde  Dusty Olive Fit: Reg   M para Hombre'
+slug: 'B07WDJ538W-es Jack & Jones JORASTON SS tee Crew Neck KA Camiseta Verde...'
+tags: camiseta
 actualPrice: 4.75 EUR
 currency: EUR
 price: 4.75

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zB7htgFvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SWSYM67-es Geox U Renan A  Zapatillas para Hombre  Marrón  Browncotto C6003   39 EU'
+slug: 'B07SWSYM67-es Geox U Renan A Zapatillas para Hombre Marrón Browncotto...'
+tags: geox
 actualPrice: 46.25 EUR
 currency: EUR
 price: 46.25

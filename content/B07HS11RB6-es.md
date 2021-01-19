@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ugAVlkIxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HS11RB6-es Armani Exchange Smart Stretch Satin Camisa  Negro  Black 1200   38  Talla del Fabricante: X-Small  para Hombre'
+slug: 'B07HS11RB6-es Armani Exchange Smart Stretch Satin Camisa Negro Black...'
+tags: camisa
 actualPrice: 29.13 EUR
 currency: EUR
 price: 29.13

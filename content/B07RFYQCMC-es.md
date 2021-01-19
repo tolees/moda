@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41MbumCW5yL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RFYQCMC-es G-STAR RAW 3301 Mid Waist Skinny Vaqueros  Faded Indigo Destroyed 8968-A949  W24/L36  Talla del Fabricante: 24W/ 36L  para Mujer'
+slug: 'B07RFYQCMC-es G-STAR RAW 3301 Mid Waist Skinny Vaqueros Faded Indigo...'
+tags: vaqueros
 actualPrice: 12.43 EUR
 currency: EUR
 price: 12.43

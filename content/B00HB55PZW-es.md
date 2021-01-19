@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31HwUs57-cL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00HB55PZW-es Crocs Classic Clog  Zuecos Unisex Adulto  Rojo  Pepper 6EN   46/47 EU'
+slug: 'B00HB55PZW-es Crocs Classic Clog Zuecos Unisex Adulto Rojo Pepper 6EN...'
+tags: zuecos
 actualPrice: 25.68 EUR
 currency: EUR
 price: 25.68

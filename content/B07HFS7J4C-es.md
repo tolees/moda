@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Dv5lXMhjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HFS7J4C-es Crocs Baya Clog Kids  Zuecos Unisex Niños  Negro  Black 001   32/33 EU'
+slug: 'B07HFS7J4C-es Crocs Baya Clog Kids Zuecos Unisex Niños Negro Black 001...'
+tags: zuecos
 actualPrice: 14.4 EUR
 currency: EUR
 price: 14.4

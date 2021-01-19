@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4156EKOIhWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SBGX2D2-es Lee Rider Jacket Chaqueta Vaquera  Azul  Cerulean EI   X-Large para Hombre'
+slug: 'B07SBGX2D2-es Lee Rider Jacket Chaqueta Vaquera Azul Cerulean EI X-Large...'
+tags: chaqueta
 actualPrice: 54.98 EUR
 currency: EUR
 price: 54.98

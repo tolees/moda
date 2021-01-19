@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31SQSOuMSlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L1QN83M-es Jack & Jones Jjiliam Jjoriginal Am 816 Noos Vaqueros Skinny  Negro  Black Denim Black Denim   W28/L32  Talla del Fabricante: 28  para Hombre'
+slug: 'B07L1QN83M-es Jack & Jones Jjiliam Jjoriginal Am 816 Noos Vaqueros...'
+tags: vaqueros
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/311VwksA47L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0776X8BJP-es Tommy Hilfiger Original Stretch Camisa  Azul  Lavender Lustre 556   X-Small para Hombre'
+slug: 'B0776X8BJP-es Tommy Hilfiger Original Stretch Camisa Azul Lavender...'
+tags: camisa
 actualPrice: 49.88 EUR
 currency: EUR
 price: 49.88

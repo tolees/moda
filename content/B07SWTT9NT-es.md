@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ox3-JmE+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SWTT9NT-es Geox U ARSIEN A  Zapatillas para Hombre  Gris  Taupe C6029   44 EU'
+slug: 'B07SWTT9NT-es Geox U ARSIEN A Zapatillas para Hombre Gris Taupe C6029 44 EU'
+tags: geox
 actualPrice: 32.57 EUR
 currency: EUR
 price: 32.57

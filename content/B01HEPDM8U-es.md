@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41EcCV03UcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HEPDM8U-es Crocs Crocband Clog K  Zuecos con Correa Trasera Unisex-Bambini  Rosa  Party Pink   25/26 EU'
+slug: 'B01HEPDM8U-es Crocs Crocband Clog K Zuecos con Correa Trasera Unisex-...'
+tags: zuecos
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

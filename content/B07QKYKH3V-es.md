@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61nd0Dg2gDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QKYKH3V-es BaZhaHei SúPer Fuego Nacional Viento Cadena PortáTil PequeñO Bolso Redondo Paquete Borla Paquete de Borla del Bolso del PequeñO Bolso Redondo Redondo del Viento Nacional del Fuego de Mujer Ins'
+slug: 'B07QKYKH3V-es BaZhaHei SúPer Fuego Nacional Viento Cadena PortáTil...'
+tags: bolso
 actualPrice: 1.29 EUR
 currency: EUR
 price: 1.29

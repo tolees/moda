@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41hHC4odgEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083GQKMFL-es Fankeshi - Abrigo de piel sintética para niña -  Rojo -  100 cm'
+slug: 'B083GQKMFL-es Fankeshi - Abrigo de piel sintética para niña - Rojo - 100 cm'
+tags: abrigo
 actualPrice: 19.32 EUR
 currency: EUR
 price: 19.32

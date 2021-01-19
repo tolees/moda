@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41PBi1EuX5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V7XYLK1-es Billabong All Day Theme  Chanclas para Hombre  Negro  Black Neon 4565   42 EU'
+slug: 'B07V7XYLK1-es Billabong All Day Theme Chanclas para Hombre Negro Black...'
+tags: chanclas
 actualPrice: 13.97 EUR
 currency: EUR
 price: 13.97

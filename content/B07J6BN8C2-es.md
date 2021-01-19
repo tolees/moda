@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41xYDXGgoOL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J6BN8C2-es Percy Perry Hombre Chaqueta de Piloto Bombardero Chaqueta Clásico Invierno Negro XL'
+slug: 'B07J6BN8C2-es Percy Perry Hombre Chaqueta de Piloto Bombardero Chaqueta...'
+tags: chaqueta
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

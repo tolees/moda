@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41bBzHt6JGL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KSQZ4N6-es Columbia Inner Limits Chaqueta para Lluvia  Negro/Gris  3XL  Hombre'
+slug: 'B07KSQZ4N6-es Columbia Inner Limits Chaqueta para Lluvia Negro/Gris 3XL...'
+tags: chaqueta
 actualPrice: 45.56 EUR
 currency: EUR
 price: 45.56

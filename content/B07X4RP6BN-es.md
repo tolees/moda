@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41VSj-cjBoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X4RP6BN-es Ipanema Kirei Fem  Chanclas para Mujer  Multicolor  Pink/Pink 9076.0   37 EU'
+slug: 'B07X4RP6BN-es Ipanema Kirei Fem Chanclas para Mujer Multicolor Pink/Pink...'
+tags: chanclas
 actualPrice: 15.95 EUR
 currency: EUR
 price: 15.95

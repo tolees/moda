@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zA48JEhLL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XCNX9VX-es SATINIOR 3 Pares de Guantes de Medio Dedo Guantes sin Dedos de Invierno Guantes de Punto para Hombres Mujeres  Color Set 1 '
+slug: 'B07XCNX9VX-es SATINIOR 3 Pares de Guantes de Medio Dedo Guantes sin...'
+tags: guantes
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

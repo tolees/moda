@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/410BcsPQ7gL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TCHD5CH-es Quiksilver Get Buzzy Hoody Men Sudadera con Capucha  Hombre  Azul  Sky Captain   XL'
+slug: 'B07TCHD5CH-es Quiksilver Get Buzzy Hoody Men Sudadera con Capucha Hombre...'
+tags: sudadera
 actualPrice: 34.52 EUR
 currency: EUR
 price: 34.52

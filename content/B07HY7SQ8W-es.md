@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41IOXE6lPqL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HY7SQ8W-es Charles Wilson Camiseta Cuello Redondo Punto Tipo Jacquard para Hombre  Small  Black '
+slug: 'B07HY7SQ8W-es Charles Wilson Camiseta Cuello Redondo Punto Tipo Jacquard...'
+tags: camiseta
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

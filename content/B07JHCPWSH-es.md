@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31UshtSmeTL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JHCPWSH-es Timberland Adventure 2.0 Cupsole Modern Chukka  Zapatillas para Hombre  Negro  Negro Full Grain   42 EU'
+slug: 'B07JHCPWSH-es Timberland Adventure 2.0 Cupsole Modern Chukka Zapatillas...'
+tags: timberland
 actualPrice: 84.0 EUR
 currency: EUR
 price: 84.0

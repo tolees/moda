@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41pLiQIdm3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0855LB3MV-es HRainbow Riñoneras Deportivas Mujer Hombre Riñoneras Running de Moda Bolsa de Cintura para Telefono Impermeable para Viaje Correr Ciclismo Paseo  Púrpura '
+slug: 'B0855LB3MV-es HRainbow Riñoneras Deportivas Mujer Hombre Riñoneras...'
+tags: moda
 actualPrice: 11.98 EUR
 currency: EUR
 price: 11.98

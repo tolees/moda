@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ACf8zirrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y89JSKK-es edc by Esprit 999cc1b820 Vaqueros Slim  Azul  Blue Light Wash 903   W27/L30  Talla del Fabricante: 27/30  para Mujer'
+slug: 'B07Y89JSKK-es edc by Esprit 999cc1b820 Vaqueros Slim Azul Blue Light...'
+tags: vaqueros
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

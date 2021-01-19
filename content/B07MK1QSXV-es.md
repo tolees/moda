@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41UYgGjCN1L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MK1QSXV-es Napapijri Rainforest Winter 1 Chaqueta  Amarillo  Yellow Lime YA2   M para Hombre'
+slug: 'B07MK1QSXV-es Napapijri Rainforest Winter 1 Chaqueta Amarillo Yellow...'
+tags: chaqueta
 actualPrice: 68.75 EUR
 currency: EUR
 price: 68.75

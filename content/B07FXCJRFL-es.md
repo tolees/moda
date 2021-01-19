@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51hCq84YaOL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FXCJRFL-es ENKEEO - Gafas de Esquí Snowboard Esquiar  VLT 13.67% Lente Anti-Niebla Dual Capa  100% UV400 protección  Marco Doblable con Correa Antideslizante  3 Capas de Espuma Resistente al Viento  Azul'
+slug: 'B07FXCJRFL-es ENKEEO - Gafas de Esquí Snowboard Esquiar VLT 13.67% Lente...'
+tags: gafas
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

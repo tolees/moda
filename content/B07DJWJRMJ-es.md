@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31wY3TvLteL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DJWJRMJ-es Geox D Annytah Moc A  Mocasines para Mujer  Rojo  Scarlet C7452   35 EU'
+slug: 'B07DJWJRMJ-es Geox D Annytah Moc A Mocasines para Mujer Rojo Scarlet...'
+tags: geox
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

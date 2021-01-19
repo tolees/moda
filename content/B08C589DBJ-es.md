@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41f88R1-CRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08C589DBJ-es Neceser de Maquillaje  LOSMILE Bolsa de Maquillaje para Viaje Impermeable Organizador de Maquillaje  Bolso de Cosméticos con divisors Ajustable.  M-Negro '
+slug: 'B08C589DBJ-es Neceser de Maquillaje LOSMILE Bolsa de Maquillaje para...'
+tags: bolso
 actualPrice: 19.98 EUR
 currency: EUR
 price: 19.98

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41u73odv5KL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071DQTK4P-es WenVen Chaqueta Parka de Algodón con Capucha para Hombres Caqui Small'
+slug: 'B071DQTK4P-es WenVen Chaqueta Parka de Algodón con Capucha para Hombres...'
+tags: chaqueta, parka
 actualPrice: 57.67 EUR
 currency: EUR
 price: 57.67

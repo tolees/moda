@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31IbtNkpkTL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CN7HX9Z-es Crocs Crocband U  Zuecos Unisex Adulto  Gris  Light Grey-Bright Coral 0fl   38-39 EU'
+slug: 'B07CN7HX9Z-es Crocs Crocband U Zuecos Unisex Adulto Gris Light Grey-...'
+tags: zuecos
 actualPrice: 33.69 EUR
 currency: EUR
 price: 33.69

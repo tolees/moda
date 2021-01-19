@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414ASxBtiJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XLMDYD2-es Jack & Jones JORBRANDON Sweat Hood Sudadera con Capucha  Azul  Navy Blazer Fit: Slim JJ   M para Hombre'
+slug: 'B07XLMDYD2-es Jack & Jones JORBRANDON Sweat Hood Sudadera con Capucha...'
+tags: sudadera
 actualPrice: 20.3 EUR
 currency: EUR
 price: 20.3

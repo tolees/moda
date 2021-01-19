@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/317U6HdYdML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MMP33T4-es Under Armour Rival Fleece Sportstyle Logo Jogger Pantalón  Hombre  Azul  XXL'
+slug: 'B07MMP33T4-es Under Armour Rival Fleece Sportstyle Logo Jogger Pantalón...'
+tags: pantalón
 actualPrice: 18.81 EUR
 currency: EUR
 price: 18.81

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31HB9dtb8-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B8R2FHT-es Lacoste CH4976 Camisa  Blanco  Blanc   X-Small  Talla del Fabricante: 37  para Hombre'
+slug: 'B07B8R2FHT-es Lacoste CH4976 Camisa Blanco Blanc X-Small Talla del...'
+tags: camisa
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41mJBNfFoDL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MQVJ3NF-es Napapijri BIBU H Sudadera con Capucha  Azul  French Blue BB7   S para Hombre'
+slug: 'B07MQVJ3NF-es Napapijri BIBU H Sudadera con Capucha Azul French Blue BB7...'
+tags: sudadera
 actualPrice: 61.9 EUR
 currency: EUR
 price: 61.9

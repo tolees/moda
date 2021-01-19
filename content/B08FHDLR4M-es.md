@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31V+mGuf1QL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08FHDLR4M-es Sibinulo Camisón de Maternidad Pijama Lactancia Vestido Manga Corta Cierre a Presión Gris L'
+slug: 'B08FHDLR4M-es Sibinulo Camisón de Maternidad Pijama Lactancia Vestido...'
+tags: pijama, vestido
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

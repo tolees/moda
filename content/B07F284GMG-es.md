@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41j+wgDnSkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F284GMG-es Pimkie PBW18 G-Daim Falda  Marrón  Autres 786A07   38  Talla del Fabricante: 38  para Mujer'
+slug: 'B07F284GMG-es Pimkie PBW18 G-Daim Falda Marrón Autres 786A07 38 Talla...'
+tags: falda
 actualPrice: 11.71 EUR
 currency: EUR
 price: 11.71

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41rlK3Imc7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NJ63TJ8-es Springfield 4.FQ. Bolsillo Plas Camisa  Multicolor  Multicolor 28   40  Tamaño del Fabricante: 40  para Mujer'
+slug: 'B07NJ63TJ8-es Springfield 4.FQ. Bolsillo Plas Camisa Multicolor...'
+tags: camisa
 actualPrice: 5.28 EUR
 currency: EUR
 price: 5.28

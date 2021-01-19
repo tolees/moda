@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-UNRAWREL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M98H3CF-es Geox W Kaula Z Abrigo  Azul Nights/Blue Nig F4477  36  Talla del Fabricante: 40  para Mujer'
+slug: 'B07M98H3CF-es Geox W Kaula Z Abrigo Azul Nights/Blue Nig F4477 36 Talla...'
+tags: abrigo, geox
 actualPrice: 104.65 EUR
 currency: EUR
 price: 104.65

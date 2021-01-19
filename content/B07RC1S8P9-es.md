@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41PnkeZE3UL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RC1S8P9-es O NEILL LM Irvine 52 Sudadera con Capucha para Hombre  Hombre  9P1422  Dark Grey Melee  Large'
+slug: 'B07RC1S8P9-es O NEILL LM Irvine 52 Sudadera con Capucha para Hombre...'
+tags: sudadera
 actualPrice: 16.74 EUR
 currency: EUR
 price: 16.74

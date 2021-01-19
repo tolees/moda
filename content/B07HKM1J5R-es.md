@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41hELWNaypL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HKM1J5R-es Under Armour Sc 3zer0 Iii Zapatos de Baloncesto Hombre  Gris  Halo Gray/Ash Gray/Teal Rush  101  101   42.5 EU'
+slug: 'B07HKM1J5R-es Under Armour Sc 3zer0 Iii Zapatos de Baloncesto Hombre...'
+tags: zapatos
 actualPrice: 33.8 EUR
 currency: EUR
 price: 33.8

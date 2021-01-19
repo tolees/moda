@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41KPDcMASXL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P9C1D3W-es JACK & JONES Jcoleaf tee SS Crew Neck Camiseta  Naranja  Cherry Tomato Fit: Reg Box Fit   Medium para Hombre'
+slug: 'B07P9C1D3W-es JACK & JONES Jcoleaf tee SS Crew Neck Camiseta Naranja...'
+tags: camiseta
 actualPrice: 3.7 EUR
 currency: EUR
 price: 3.7

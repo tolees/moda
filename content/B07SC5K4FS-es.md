@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31JVkeZvFpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SC5K4FS-es Adidas Adilette Aqua K  Chanclas Unisex Adulto  Gris  Grey Three F17/ True Blue   38 EU'
+slug: 'B07SC5K4FS-es Adidas Adilette Aqua K Chanclas Unisex Adulto Gris Grey...'
+tags: chanclas
 actualPrice: 5.01 EUR
 currency: EUR
 price: 5.01

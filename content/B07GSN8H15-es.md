@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31CW19HoLhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GSN8H15-es Jack & Jones Jjitim Jjoriginal Am 816 Vaqueros Slim Fit  Azul  Black Denim Black Denim   29W / 32L para Hombre'
+slug: 'B07GSN8H15-es Jack & Jones Jjitim Jjoriginal Am 816 Vaqueros Slim Fit...'
+tags: vaqueros
 actualPrice: 18.79 EUR
 currency: EUR
 price: 18.79

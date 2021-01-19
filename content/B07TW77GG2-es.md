@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41UX3yWtU2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TW77GG2-es Tikea Mochila de Mamá Grande  Mochila para Pañales Multifunción  Bolso Cambiador con Ganchos para Cochecito y Bolsillos Térmicos para Botellas  Antirrobo Elegante y Impermeable  Negro'
+slug: 'B07TW77GG2-es Tikea Mochila de Mamá Grande Mochila para Pañales...'
+tags: bolso
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

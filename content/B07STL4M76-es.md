@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41LAUJtJ4cL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07STL4M76-es Geox Jr Sandal Strada A  Sandalias con Punta Abierta para Niños  Azul  Navy/Red C0735   28 EU'
+slug: 'B07STL4M76-es Geox Jr Sandal Strada A Sandalias con Punta Abierta para...'
+tags: geox, sandalias
 actualPrice: 37.5 EUR
 currency: EUR
 price: 37.5

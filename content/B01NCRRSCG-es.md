@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41BC6u%2B%2BnSL._SL200_
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NCRRSCG-es Dreimaster 36036408  Chaqueta para Mujer  Azul  Marine 12  L'
+slug: 'B01NCRRSCG-es Dreimaster 36036408 Chaqueta para Mujer Azul Marine 12 L'
+tags: chaqueta
 actualPrice: 24.42 EUR
 currency: EUR
 price: 24.42

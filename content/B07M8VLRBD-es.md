@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41GX0wFuW3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M8VLRBD-es Lee Plain Crew Neck SWS Sudadera  Gris  Grey Mele MP   Large para Mujer'
+slug: 'B07M8VLRBD-es Lee Plain Crew Neck SWS Sudadera Gris Grey Mele MP Large...'
+tags: sudadera
 actualPrice: 19.48 EUR
 currency: EUR
 price: 19.48

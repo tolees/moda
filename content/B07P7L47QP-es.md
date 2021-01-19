@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51uIjFdTn3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P7L47QP-es Superdry Felicity Tie Crop Bikini Top Parte de Arriba  Negro  Black AOP Yfc   M  Talla del Fabricante:12  para Mujer'
+slug: 'B07P7L47QP-es Superdry Felicity Tie Crop Bikini Top Parte de Arriba...'
+tags: bikini
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

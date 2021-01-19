@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41j75vs8yzL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00VLN9CWC-es Levi s Graphic Set-In Neck  Camiseta para Hombre  Gris  C18976 Graphic H215 Midtone Htr Grey Graphic H215-Hm 36.2 138   Large'
+slug: 'B00VLN9CWC-es Levi s Graphic Set-In Neck Camiseta para Hombre Gris...'
+tags: camiseta
 actualPrice: 15.95 EUR
 currency: EUR
 price: 15.95

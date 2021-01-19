@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31fmh-ymfaL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FW632WB-es Columbia Ruckel Ridge Plus Waterproof  Zapatos Impermeables de Senderismo para Hombre  Negro  Shark  Bright Copper 011   40 EU'
+slug: 'B07FW632WB-es Columbia Ruckel Ridge Plus Waterproof Zapatos Impermeables...'
+tags: zapatos
 actualPrice: 77.89 EUR
 currency: EUR
 price: 77.89

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31XPTed7nVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0753KVDKS-es Uvex sportstyle 803 colorvision gafas de sol Rectangular Deporte - Gafas de sol  Rectangular  Deporte  Al aire o sin montura  Gris  Policarbonato  Negro '
+slug: 'B0753KVDKS-es Uvex sportstyle 803 colorvision gafas de sol Rectangular...'
+tags: gafas
 actualPrice: 49.67 EUR
 currency: EUR
 price: 49.67

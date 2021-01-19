@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21iptgPBmYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P47XYTS-es PIECES Pckaysa SL Dress Noos Vestido  Rosa  Peach Skin Peach Skin   36  Talla del Fabricante: X-Small  para Mujer'
+slug: 'B07P47XYTS-es PIECES Pckaysa SL Dress Noos Vestido Rosa Peach Skin Peach...'
+tags: vestido
 actualPrice: 16.56 EUR
 currency: EUR
 price: 16.56

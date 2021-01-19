@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41qxnpfUSZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HKGC4DQ-es Under Armour UA Spawn Mid  Zapatos de Baloncesto para Hombre  Rojo  Red 604   48.5 EU'
+slug: 'B07HKGC4DQ-es Under Armour UA Spawn Mid Zapatos de Baloncesto para...'
+tags: zapatos
 actualPrice: 46.39 EUR
 currency: EUR
 price: 46.39

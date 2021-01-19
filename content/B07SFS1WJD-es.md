@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41qxTSGtuFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SFS1WJD-es Helly Hansen T-Shirt Camiseta de Manga Corta Hecha de algodón  con Logo HH en el Pecho  Hombre  Royal Blue  M'
+slug: 'B07SFS1WJD-es Helly Hansen T-Shirt Camiseta de Manga Corta Hecha de...'
+tags: camiseta
 actualPrice: 19.49 EUR
 currency: EUR
 price: 19.49

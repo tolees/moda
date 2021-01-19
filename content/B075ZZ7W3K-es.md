@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31AZa8OgO6L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B075ZZ7W3K-es JACK & JONES Jacbasic Crew Neck tee SS 2 Pack Camiseta  Negro Black  XX-Large  Hombre'
+slug: 'B075ZZ7W3K-es JACK & JONES Jacbasic Crew Neck tee SS 2 Pack Camiseta...'
+tags: camiseta
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

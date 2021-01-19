@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41FV3PUodqL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MMLNZJ1-es Napapijri SOVES Camiseta  Azul  French Blue BB7   XL para Hombre'
+slug: 'B07MMLNZJ1-es Napapijri SOVES Camiseta Azul French Blue BB7 XL para Hombre'
+tags: camiseta
 actualPrice: 12.82 EUR
 currency: EUR
 price: 12.82

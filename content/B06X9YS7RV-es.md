@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31GGv6DGrwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06X9YS7RV-es Marca Amazon - Iris & Lilly Braguita Mujer  Pack de 3  Beige  Pale Nude   XL  Label: XL'
+slug: 'B06X9YS7RV-es Marca Amazon - Iris & Lilly Braguita Mujer Pack de 3 Beige...'
+tags: iris, &, lilly
 actualPrice: 3.42 EUR
 currency: EUR
 price: 3.42

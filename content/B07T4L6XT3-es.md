@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ad7fbLerL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T4L6XT3-es SHIELDON Mochila Portátil 17.3 Pulgadas  Mochilas Ordenador Hombre Mochila Grande  Bolso Mochila Antirrobo con Puerto de Carga USB  Mochila de Viaje Mochila Negocios Mochila Trabajo  35L  Negro'
+slug: 'B07T4L6XT3-es SHIELDON Mochila Portátil 17.3 Pulgadas Mochilas Ordenador...'
+tags: bolso
 actualPrice: 52.99 EUR
 currency: EUR
 price: 52.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31n0I2pfhlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L9GRZ6F-es Under Armour UA Tech 2.0 SS Tee Novelty  camiseta para gimnasio  camiseta transpirable hombre  gris  Halo Gray/Black  014    S'
+slug: 'B07L9GRZ6F-es Under Armour UA Tech 2.0 SS Tee Novelty camiseta para...'
+tags: camiseta
 actualPrice: 15.16 EUR
 currency: EUR
 price: 15.16

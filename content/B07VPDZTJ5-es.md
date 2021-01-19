@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31vSuV+cqfL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VPDZTJ5-es OBEEII Vestidos Princesa Sofia Disfraz para niñas Vestido de Fiesta Halloween Cumpleaños Cosplay Partido Prom 6-7 Años'
+slug: 'B07VPDZTJ5-es OBEEII Vestidos Princesa Sofia Disfraz para niñas Vestido...'
+tags: vestido
 actualPrice: 21.29 EUR
 currency: EUR
 price: 21.29

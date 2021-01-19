@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4169c8djiwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C61HMP3-es JACK & JONES Jjeholmen Sweat Zip Hood Noos Sudadera  Verde  Olive Night   S para Hombre'
+slug: 'B07C61HMP3-es JACK & JONES Jjeholmen Sweat Zip Hood Noos Sudadera Verde...'
+tags: sudadera
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

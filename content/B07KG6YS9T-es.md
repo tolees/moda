@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Mv6DWeq4L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KG6YS9T-es PUMA Rise XT NETFIT 1 Zapatos de Futsal Unisex adulto Gris  Grey Dawn Heather-Puma White-Tradewinds  41 EU  7.5 UK '
+slug: 'B07KG6YS9T-es PUMA Rise XT NETFIT 1 Zapatos de Futsal Unisex adulto Gris...'
+tags: zapatos
 actualPrice: 37.57 EUR
 currency: EUR
 price: 37.57

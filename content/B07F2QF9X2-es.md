@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41tF31nRYjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F2QF9X2-es Helly Hansen Verglas Light Chaqueta De Pluma con Capucha  Mujer  Black  M'
+slug: 'B07F2QF9X2-es Helly Hansen Verglas Light Chaqueta De Pluma con Capucha...'
+tags: chaqueta
 actualPrice: 80.56 EUR
 currency: EUR
 price: 80.56

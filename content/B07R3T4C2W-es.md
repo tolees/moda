@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41wOSJclbeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R3T4C2W-es Wrangler LS 1pkt Shirt Camisa  Blanco  Off White 737   Medium para Hombre'
+slug: 'B07R3T4C2W-es Wrangler LS 1pkt Shirt Camisa Blanco Off White 737 Medium...'
+tags: camisa
 actualPrice: 14.94 EUR
 currency: EUR
 price: 14.94

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41TU3luOCpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077YD9CNK-es HIKARO Sudadera con Capucha Hombre  Gris  Charcoal Marl   48  Talla del fabricante: Small '
+slug: 'B077YD9CNK-es HIKARO Sudadera con Capucha Hombre Gris Charcoal Marl 48...'
+tags: sudadera
 actualPrice: 21.21 EUR
 currency: EUR
 price: 21.21

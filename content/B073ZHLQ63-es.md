@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41f+SRoEFLL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073ZHLQ63-es The North Face M Gotham Chaqueta De Plumón  Hombre  Negro/Gris  TNF Black/High Rise Grey   S'
+slug: 'B073ZHLQ63-es The North Face M Gotham Chaqueta De Plumón Hombre...'
+tags: chaqueta
 actualPrice: 195.0 EUR
 currency: EUR
 price: 195.0

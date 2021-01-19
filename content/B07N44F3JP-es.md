@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41FW8KBMTUL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N44F3JP-es Desigual Coat Exotic Classic Abrigo  Azul  Denim Medium Wash 5053   40  Talla del Fabricante: 38  para Mujer'
+slug: 'B07N44F3JP-es Desigual Coat Exotic Classic Abrigo Azul Denim Medium Wash...'
+tags: abrigo
 actualPrice: 45.55 EUR
 currency: EUR
 price: 45.55

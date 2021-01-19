@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41O6WVrAHwL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00J5X0MWE-es uhlsport Match Chaqueta De Entrenamiento Hombre  Rojo/Blanco  XXXL'
+slug: 'B00J5X0MWE-es uhlsport Match Chaqueta De Entrenamiento Hombre...'
+tags: chaqueta
 actualPrice: 14.49 EUR
 currency: EUR
 price: 14.49

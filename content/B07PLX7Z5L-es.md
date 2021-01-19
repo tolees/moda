@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41VC+ZNnsFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PLX7Z5L-es Ogquaton Calidad superior 4 piezas Moda Zircon Crystal Cat Collar Pendientes animales Conjunto de joyas  azul plata'
+slug: 'B07PLX7Z5L-es Ogquaton Calidad superior 4 piezas Moda Zircon Crystal Cat...'
+tags: collar, moda
 actualPrice: 2.25 EUR
 currency: EUR
 price: 2.25

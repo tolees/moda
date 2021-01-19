@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41b30SXZirL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SQFYXW1-es Geox B Tutim A  Sandalias de Punta Descubierta para Bebés  Azul  Navy/Royal C4226   18 EU'
+slug: 'B07SQFYXW1-es Geox B Tutim A Sandalias de Punta Descubierta para Bebés...'
+tags: geox, sandalias
 actualPrice: 26.9 EUR
 currency: EUR
 price: 26.9

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31o9nePv4lL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MMWNNBD-es Wrangler 80\u00b4s Retro Sweat Sudadera  Blanco  White 989   Large para Mujer'
+slug: 'B07MMWNNBD-es Wrangler 80\u00b4s Retro Sweat Sudadera Blanco White 989...'
+tags: sudadera
 actualPrice: 32.48 EUR
 currency: EUR
 price: 32.48

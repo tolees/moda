@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31lNEuE2EaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073RKYXY1-es Adidas Adilette Comfort Zapatos de playa y piscina Hombre  Negro  Cblack/Cblack/Ftwwht Cg3425   44.5 EU'
+slug: 'B073RKYXY1-es Adidas Adilette Comfort Zapatos de playa y piscina Hombre...'
+tags: zapatos
 actualPrice: 11.91 EUR
 currency: EUR
 price: 11.91

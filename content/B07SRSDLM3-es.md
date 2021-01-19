@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31tUveVCraL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SRSDLM3-es Geox D Taormina F  Sandalias con Punta Abierta para Mujer  Marrón  Cognac C6001   38 5 EU'
+slug: 'B07SRSDLM3-es Geox D Taormina F Sandalias con Punta Abierta para Mujer...'
+tags: geox, sandalias
 actualPrice: 49.95 EUR
 currency: EUR
 price: 49.95

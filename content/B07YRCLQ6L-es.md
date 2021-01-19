@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41DBmrAyRHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YRCLQ6L-es Marca Amazon - AURIQUE Shorts de Deporte con Banda Lateral Mujer  Azul  Colony Blue   40  Label:M'
+slug: 'B07YRCLQ6L-es Marca Amazon - AURIQUE Shorts de Deporte con Banda Lateral...'
+tags: aurique
 actualPrice: 12.8 EUR
 currency: EUR
 price: 12.8

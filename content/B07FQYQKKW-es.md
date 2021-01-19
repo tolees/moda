@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41yB8a495AL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FQYQKKW-es Clarks Step Urban Mix  Zapatos de Cordones Derby para Hombre  Azul  Navy-   39.5 EU'
+slug: 'B07FQYQKKW-es Clarks Step Urban Mix Zapatos de Cordones Derby para...'
+tags: zapatos
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

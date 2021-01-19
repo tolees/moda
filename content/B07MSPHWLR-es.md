@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31W75WPm12L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MSPHWLR-es Cerdá Pijama Corto Algodón Harry Potter Conjuntos  Gris  Gris C13   4 para Niños'
+slug: 'B07MSPHWLR-es Cerdá Pijama Corto Algodón Harry Potter Conjuntos Gris...'
+tags: pijama
 actualPrice: 8.25 EUR
 currency: EUR
 price: 8.25

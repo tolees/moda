@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51NaGxQIbkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075MCQXZ1-es LEABAGS London Bolso Bandolera de auténtico Cuero búfalo en el Estilo Vintage - Rosso'
+slug: 'B075MCQXZ1-es LEABAGS London Bolso Bandolera de auténtico Cuero búfalo...'
+tags: bolso
 actualPrice: 47.98 EUR
 currency: EUR
 price: 47.98

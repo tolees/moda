@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51O5vKMRtPL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01J7ZVSWW-es Columbia Sapphire Trail Hooded FZ Chaqueta Polar  Mujer  Azul  Talla L'
+slug: 'B01J7ZVSWW-es Columbia Sapphire Trail Hooded FZ Chaqueta Polar Mujer...'
+tags: chaqueta
 actualPrice: 51.28 EUR
 currency: EUR
 price: 51.28

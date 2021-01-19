@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Ckz2h9zzL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MGFRSKR-es Napapijri ABRAHA Chaqueta  Verde  Green Forest 2 GE3   S para Hombre'
+slug: 'B07MGFRSKR-es Napapijri ABRAHA Chaqueta Verde Green Forest 2 GE3 S para...'
+tags: chaqueta
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

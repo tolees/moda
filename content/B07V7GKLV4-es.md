@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41LD-RiDj5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V7GKLV4-es Calvin Klein Instit Back Pop Logo Slim tee Camiseta  Gris  Mid Grey Heather P2f   Medium para Hombre'
+slug: 'B07V7GKLV4-es Calvin Klein Instit Back Pop Logo Slim tee Camiseta Gris...'
+tags: camiseta
 actualPrice: 24.19 EUR
 currency: EUR
 price: 24.19

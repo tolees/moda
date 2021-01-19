@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31xcKIAdPZL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RZ79KBH-es ESPRIT Collection 999eo1k809 Camisa Manga Larga  Blanco  Off White 110   Large para Mujer'
+slug: 'B07RZ79KBH-es ESPRIT Collection 999eo1k809 Camisa Manga Larga Blanco Off...'
+tags: camisa
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

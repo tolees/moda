@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41tUaQ4KntL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NJ9RDKM-es Springfield 05.Algodon Modal Foil Camiseta  Beige  Beige 98   Medium  Tamaño del Fabricante: M  para Mujer'
+slug: 'B07NJ9RDKM-es Springfield 05.Algodon Modal Foil Camiseta Beige Beige 98...'
+tags: camiseta
 actualPrice: 4.1 EUR
 currency: EUR
 price: 4.1

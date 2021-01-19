@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31tPyPv9IzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078YZTXPC-es Marca Amazon - MERAKI Sudadera con Capucha Hombre  Negro  Black   M  Label: M'
+slug: 'B078YZTXPC-es Marca Amazon - MERAKI Sudadera con Capucha Hombre Negro...'
+tags: meraki, sudadera
 actualPrice: 9.37 EUR
 currency: EUR
 price: 9.37

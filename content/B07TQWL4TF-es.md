@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31R-dpMbbSL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TQWL4TF-es HAWKERS · NARCISO · Electric Blue · Gafas de sol para hombre y mujer'
+slug: 'B07TQWL4TF-es HAWKERS · NARCISO · Electric Blue · Gafas de sol para...'
+tags: gafas
 actualPrice: 8.44 EUR
 currency: EUR
 price: 8.44

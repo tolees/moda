@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416IEMESjmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081SSGLRB-es adidas Trefoil tee Camiseta de Manga Corta  Mujer  Lush Red/White  42'
+slug: 'B081SSGLRB-es adidas Trefoil tee Camiseta de Manga Corta Mujer Lush...'
+tags: camiseta
 actualPrice: 17.47 EUR
 currency: EUR
 price: 17.47

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31K6MBj9oCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WJX7GCB-es FIND Block Heel Slingback Zapatos de Talón Abierto  Verde  Mint Green   36 EU'
+slug: 'B07WJX7GCB-es FIND Block Heel Slingback Zapatos de Talón Abierto Verde...'
+tags: zapatos
 actualPrice: 6.26 EUR
 currency: EUR
 price: 6.26

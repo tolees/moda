@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41asuHEjVTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J3X35FF-es DORRISO Linda Niños Sombrero y Bufanda Guantes Otoño Invierno Primavera Gorro Bebe Calentar Pequeña Zorro Gorro Bufanda Guantes Conjunto Sombrero de Niño Gris'
+slug: 'B07J3X35FF-es DORRISO Linda Niños Sombrero y Bufanda Guantes Otoño...'
+tags: guantes
 actualPrice: 25.98 EUR
 currency: EUR
 price: 25.98

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41xngtfM7pL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072KNCCDV-es adidas W CW NUVIC Jkt Chaqueta de Deporte  Mujer  Black  S'
+slug: 'B072KNCCDV-es adidas W CW NUVIC Jkt Chaqueta de Deporte Mujer Black S'
+tags: chaqueta
 actualPrice: 118.03 EUR
 currency: EUR
 price: 118.03

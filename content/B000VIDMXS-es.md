@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/415c5wvUTyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000VIDMXS-es Timberland 6-inch Premium Wp Botas Clasicas Unisex Niños  Amarillo  Wheat Nubuck   20.5 EU'
+slug: 'B000VIDMXS-es Timberland 6-inch Premium Wp Botas Clasicas Unisex Niños...'
+tags: timberland
 actualPrice: 19.17 EUR
 currency: EUR
 price: 19.17

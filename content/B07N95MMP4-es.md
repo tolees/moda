@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31nvMJwiiGL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N95MMP4-es BOSS Trek 4 Camiseta  Blanco  Natural 101   Large para Hombre'
+slug: 'B07N95MMP4-es BOSS Trek 4 Camiseta Blanco Natural 101 Large para Hombre'
+tags: camiseta
 actualPrice: 20.31 EUR
 currency: EUR
 price: 20.31

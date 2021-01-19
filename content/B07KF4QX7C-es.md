@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41XKPZReFzL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KF4QX7C-es Levi s 311 Shaping Skinny Vaqueros  Paris Fade  32W / 32L para Mujer'
+slug: 'B07KF4QX7C-es Levi s 311 Shaping Skinny Vaqueros Paris Fade 32W / 32L...'
+tags: vaqueros
 actualPrice: 59.4 EUR
 currency: EUR
 price: 59.4

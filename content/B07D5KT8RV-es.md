@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31lwepeGQHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D5KT8RV-es Adidas Adilette Comfort  Zapatos de Playa y Piscina para Hombre  Azul Ftwbla/Azuosc 000  40 1/2 EU'
+slug: 'B07D5KT8RV-es Adidas Adilette Comfort Zapatos de Playa y Piscina para...'
+tags: zapatos
 actualPrice: 24.17 EUR
 currency: EUR
 price: 24.17

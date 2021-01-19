@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/411IbrCSTNL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B077XSTQ91-es Under Armour UA HG Racer Tank Camiseta sin Mangas  Mujer  Azul  Halogen Blue/Metallic Silver 441   S'
+slug: 'B077XSTQ91-es Under Armour UA HG Racer Tank Camiseta sin Mangas Mujer...'
+tags: camiseta
 actualPrice: 10.63 EUR
 currency: EUR
 price: 10.63

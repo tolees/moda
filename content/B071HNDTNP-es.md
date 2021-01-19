@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ekfx4vftL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071HNDTNP-es JACK & JONES PREMIUM Jprsteven Blazer STS Chaqueta de Traje  Azul  Dark Navy Dark Navy   50 para Hombre'
+slug: 'B071HNDTNP-es JACK & JONES PREMIUM Jprsteven Blazer STS Chaqueta de...'
+tags: chaqueta
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

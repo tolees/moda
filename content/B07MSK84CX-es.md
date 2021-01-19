@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41uxcYwGCVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MSK84CX-es Geox D BACKSIE B ABX C  Botas de Nieve para Mujer  Marrón  Tobacco C6777   37 EU'
+slug: 'B07MSK84CX-es Geox D BACKSIE B ABX C Botas de Nieve para Mujer Marrón...'
+tags: geox
 actualPrice: 70.79 EUR
 currency: EUR
 price: 70.79

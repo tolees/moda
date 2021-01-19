@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41AxFEeppOL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K744CSC-es Levi s SS Colorblock tee Camiseta  Multicolor  Colorbock Dress Blues/White/Parisian 0004   Medium para Hombre'
+slug: 'B07K744CSC-es Levi s SS Colorblock tee Camiseta Multicolor Colorbock...'
+tags: camiseta
 actualPrice: 24.4 EUR
 currency: EUR
 price: 24.4

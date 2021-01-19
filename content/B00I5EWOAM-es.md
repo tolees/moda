@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Ru83200XL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00I5EWOAM-es BENLEE Rocky Marciano T-Shirt Trägerhemd Gymnasium Camiseta  Hombre  Azul Marino  L'
+slug: 'B00I5EWOAM-es BENLEE Rocky Marciano T-Shirt Trägerhemd Gymnasium...'
+tags: camiseta
 actualPrice: 25.1 EUR
 currency: EUR
 price: 25.1

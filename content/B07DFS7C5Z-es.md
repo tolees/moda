@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Lv0t+yTaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DFS7C5Z-es Crocs LiteRide Clog  Zuecos Unisex Adulto  Gris  Smoke/Pearl White 06j   36/37 EU'
+slug: 'B07DFS7C5Z-es Crocs LiteRide Clog Zuecos Unisex Adulto Gris Smoke/Pearl...'
+tags: zuecos
 actualPrice: 34.93 EUR
 currency: EUR
 price: 34.93

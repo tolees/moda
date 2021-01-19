@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31QHpe9G97L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZQZZG8-es Pepe Jeans Margaret Camiseta   Mousse 808   3-4  Talla del Fabricante: 3/4 años  para Niñas'
+slug: 'B07MZQZZG8-es Pepe Jeans Margaret Camiseta Mousse 808 3-4 Talla del...'
+tags: camiseta
 actualPrice: 12.5 EUR
 currency: EUR
 price: 12.5

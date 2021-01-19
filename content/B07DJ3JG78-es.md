@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41u6c5alheL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DJ3JG78-es Geox U Kaven A  Zapatillas para Hombre  Azul  Navy C4002   47 EU'
+slug: 'B07DJ3JG78-es Geox U Kaven A Zapatillas para Hombre Azul Navy C4002 47 EU'
+tags: geox
 actualPrice: 65.77 EUR
 currency: EUR
 price: 65.77

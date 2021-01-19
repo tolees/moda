@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41SzPh56LiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZPPXGV-es Pepe Jeans Winter Ronit Sudadera   Black 999   9-10 años  Talla del Fabricante: 9/10 años  para Niños'
+slug: 'B07MZPPXGV-es Pepe Jeans Winter Ronit Sudadera Black 999 9-10 años Talla...'
+tags: sudadera
 actualPrice: 21.54 EUR
 currency: EUR
 price: 21.54

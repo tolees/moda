@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/316aCS5CaJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KL3ZQ25-es adidas E 3s tee Camiseta de Manga Corta  Hombre  Black/White  M'
+slug: 'B07KL3ZQ25-es adidas E 3s tee Camiseta de Manga Corta Hombre Black/White M'
+tags: camiseta
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

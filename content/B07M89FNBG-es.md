@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31-7rvoxCaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M89FNBG-es Lee Chino Corduroy Pantalón  Negro  Black 01   29W / 32L para Hombre'
+slug: 'B07M89FNBG-es Lee Chino Corduroy Pantalón Negro Black 01 29W / 32L para...'
+tags: pantalón
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31VDm3FKT4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0776SRKQB-es Tommy Hilfiger Original Rib Camisa  Blanco  Classic White 100   XX-Large para Hombre'
+slug: 'B0776SRKQB-es Tommy Hilfiger Original Rib Camisa Blanco Classic White...'
+tags: camisa
 actualPrice: 29.0 EUR
 currency: EUR
 price: 29.0

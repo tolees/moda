@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31CxNsn5hiL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LBLF55V-es Tommy Hilfiger Seasonal SB Trench Abrigo  Morado  Lilac Snow 619   Medium para Mujer'
+slug: 'B07LBLF55V-es Tommy Hilfiger Seasonal SB Trench Abrigo Morado Lilac Snow...'
+tags: abrigo
 actualPrice: 195.3 EUR
 currency: EUR
 price: 195.3

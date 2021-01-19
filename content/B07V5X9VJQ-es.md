@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Z22Yb3HlL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V5X9VJQ-es JACK & JONES Liam Original Jos 650 50sps Vaqueros  Blue Denim  33W / 32L para Hombre'
+slug: 'B07V5X9VJQ-es JACK & JONES Liam Original Jos 650 50sps Vaqueros Blue...'
+tags: vaqueros
 actualPrice: 37.44 EUR
 currency: EUR
 price: 37.44

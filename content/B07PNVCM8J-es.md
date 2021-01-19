@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/411ySQ1degL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PNVCM8J-es Leggins de Sudoracion Adelgazantes Mujer Fitness NANOTECNOLOGÍA  Leggins Anticeluliticos Push Up Cintura Alta  Mallas Reductoras  Pantalones Compresion Termicos Sauna  Deporte Yoga Running  2XL Black '
+slug: 'B07PNVCM8J-es Leggins de Sudoracion Adelgazantes Mujer Fitness...'
+tags: leggins
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

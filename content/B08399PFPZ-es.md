@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41f8aLaWeFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08399PFPZ-es Aqua Shoes Escarpines Hombres Mujer Niños Zapatos de Agua Zapatillas Ligeros de Secado Rápido para Swim Beach Surf Yoga'
+slug: 'B08399PFPZ-es Aqua Shoes Escarpines Hombres Mujer Niños Zapatos de Agua...'
+tags: zapatos
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

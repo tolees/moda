@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41cUVgjd5-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0168LZ9EQ-es Pepe Jeans Kingston Zip  Vaqueros Regular para Hombre  Azul  12Oz Rope Dye Glory Dk W53   W34/L36'
+slug: 'B0168LZ9EQ-es Pepe Jeans Kingston Zip Vaqueros Regular para Hombre Azul...'
+tags: vaqueros
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

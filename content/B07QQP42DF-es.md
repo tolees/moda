@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41z1eJfTZ1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QQP42DF-es Anyeat Hormas para Zapatos  1 par Árbol del zapato Árbol del zapato ajustable ajustable con cuerno de zapato para hombres y mujeres   Amarillo  40-47 '
+slug: 'B07QQP42DF-es Anyeat Hormas para Zapatos 1 par Árbol del zapato Árbol...'
+tags: zapatos
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

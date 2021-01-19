@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ky6ynRzVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B014FWGPUW-es Pepe Jeans Soho Vaqueros  Negro  10Oz Washed Black S98   24W / 30L para Mujer'
+slug: 'B014FWGPUW-es Pepe Jeans Soho Vaqueros Negro 10Oz Washed Black S98 24W /...'
+tags: vaqueros
 actualPrice: 40.99 EUR
 currency: EUR
 price: 40.99

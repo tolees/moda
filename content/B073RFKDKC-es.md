@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41BSczh1LRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073RFKDKC-es Sportstech KS200 Barra dominadas Puerta con Sistema Hexagonal Patentado. Palanca tensora de Seguridad  6 Puntos de presión. Carga máxima 300kg. Incluye Guantes y ebook Gratis  KS200 Plata '
+slug: 'B073RFKDKC-es Sportstech KS200 Barra dominadas Puerta con Sistema...'
+tags: guantes
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

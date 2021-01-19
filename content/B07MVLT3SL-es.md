@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31dTvMvVSTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MVLT3SL-es Napapijri Avalon Wint Chaqueta  Azul  BLU Marine 176   Large para Hombre'
+slug: 'B07MVLT3SL-es Napapijri Avalon Wint Chaqueta Azul BLU Marine 176 Large...'
+tags: chaqueta
 actualPrice: 87.76 EUR
 currency: EUR
 price: 87.76

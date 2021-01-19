@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31W7gyA9qDL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GQVK9MR-es Suertree Anti Blue Light gafas de lectura 3 paquete ayuda visual gafas ópticas gafas de lectura para damas hombres JH211 2.5X'
+slug: 'B07GQVK9MR-es Suertree Anti Blue Light gafas de lectura 3 paquete ayuda...'
+tags: gafas
 actualPrice: 16.04 EUR
 currency: EUR
 price: 16.04

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Ru2xt2elL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MQ1Z4AD-es Lacoste Sport SH7609 Sudadera con Capucha  Azul  Marine/Argent Chine   Small  Talla del Fabricante: 3  para Hombre'
+slug: 'B01MQ1Z4AD-es Lacoste Sport SH7609 Sudadera con Capucha Azul...'
+tags: sudadera
 actualPrice: 66.5 EUR
 currency: EUR
 price: 66.5

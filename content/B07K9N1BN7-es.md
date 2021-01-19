@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31heBa609xL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K9N1BN7-es Crocs Classic  Zuecos con Correa Trasera Unisex Adulto  Pink Lemonade  42/43 EU'
+slug: 'B07K9N1BN7-es Crocs Classic Zuecos con Correa Trasera Unisex Adulto Pink...'
+tags: zuecos
 actualPrice: 18.56 EUR
 currency: EUR
 price: 18.56

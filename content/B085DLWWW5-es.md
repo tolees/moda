@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31v0xhgTgfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085DLWWW5-es Agatha Ruiz de la Prada Bandolera Bolso Redondo Infantil Chic rosa con corazón'
+slug: 'B085DLWWW5-es Agatha Ruiz de la Prada Bandolera Bolso Redondo Infantil...'
+tags: bolso
 actualPrice: 14.5 EUR
 currency: EUR
 price: 14.5

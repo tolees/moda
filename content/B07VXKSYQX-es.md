@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41a8Hsd-psL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VXKSYQX-es Tommy Hilfiger TJM Essential Hooded Jacket Chaqueta  Rojo  Deep Crimson Xnl   Small para Hombre'
+slug: 'B07VXKSYQX-es Tommy Hilfiger TJM Essential Hooded Jacket Chaqueta Rojo...'
+tags: chaqueta
 actualPrice: 55.06 EUR
 currency: EUR
 price: 55.06

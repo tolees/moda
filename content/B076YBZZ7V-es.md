@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41dZszNiLGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076YBZZ7V-es Levi s Original Trucker  Chaqueta Vaquera para Mujer  Azul  All Yours 0026   M'
+slug: 'B076YBZZ7V-es Levi s Original Trucker Chaqueta Vaquera para Mujer Azul...'
+tags: chaqueta
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

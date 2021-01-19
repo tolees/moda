@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413d6SsEiHL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FNWJDYC-es JACK & JONES Jjiliam Jjoriginal JJ 104 50sps Noos Vaqueros Skinny  Azul  Blue Denim Blue Denim   W32/L36 para Hombre'
+slug: 'B07FNWJDYC-es JACK & JONES Jjiliam Jjoriginal JJ 104 50sps Noos Vaqueros...'
+tags: vaqueros
 actualPrice: 19.27 EUR
 currency: EUR
 price: 19.27

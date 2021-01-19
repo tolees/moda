@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41fJKWvtpyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PBYV752-es Morgan 192-jelini.n Falda  Morado  Marine Marine   42  Talla del Fabricante: T42  para Mujer'
+slug: 'B07PBYV752-es Morgan 192-jelini.n Falda Morado Marine Marine 42 Talla...'
+tags: falda
 actualPrice: 13.76 EUR
 currency: EUR
 price: 13.76

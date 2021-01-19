@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31sStd+nY2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DKC9DGS-es PUMA Active Camiseta  Hombre  Azul  Peacoat   M'
+slug: 'B07DKC9DGS-es PUMA Active Camiseta Hombre Azul Peacoat M'
+tags: camiseta
 actualPrice: 12.49 EUR
 currency: EUR
 price: 12.49

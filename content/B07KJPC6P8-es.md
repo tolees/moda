@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41IsUy9IXQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KJPC6P8-es REPLAY Donny Vaqueros Slim  Azul  Medium Blue 9   W29/L30  Talla del Fabricante: 29  para Hombre'
+slug: 'B07KJPC6P8-es REPLAY Donny Vaqueros Slim Azul Medium Blue 9 W29/L30...'
+tags: vaqueros
 actualPrice: 82.99 EUR
 currency: EUR
 price: 82.99

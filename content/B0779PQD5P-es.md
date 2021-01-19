@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41dP36QalyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0779PQD5P-es Timberland Union Wharf 2 Eye Oxford  Náuticos para Hombre  Azul Navy Canvas  41 EU'
+slug: 'B0779PQD5P-es Timberland Union Wharf 2 Eye Oxford Náuticos para Hombre...'
+tags: timberland
 actualPrice: 32.5 EUR
 currency: EUR
 price: 32.5

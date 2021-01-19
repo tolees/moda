@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31xeKL6r5sL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NJ5S6Y7-es Springfield 7.J.Ap.T.Turtle Neck Jersey  Negro  Negro 1   Small  Tamaño del Fabricante: S  para Mujer'
+slug: 'B07NJ5S6Y7-es Springfield 7.J.Ap.T.Turtle Neck Jersey Negro Negro 1...'
+tags: jersey
 actualPrice: 5.15 EUR
 currency: EUR
 price: 5.15

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/411G+mPivkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XRFVHHJ-es Amazon Essentials - Camisa regular de lino a cuadros con manga larga para hombre  Blanco  White   Small'
+slug: 'B06XRFVHHJ-es Amazon Essentials - Camisa regular de lino a cuadros con...'
+tags: camisa
 actualPrice: 5.65 EUR
 currency: EUR
 price: 5.65

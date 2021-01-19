@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41UbVRybNCL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N18WY4D-es Lee Button Down Camisa  Azul  Beyond Blue   Medium para Hombre'
+slug: 'B07N18WY4D-es Lee Button Down Camisa Azul Beyond Blue Medium para Hombre'
+tags: camisa
 actualPrice: 25.82 EUR
 currency: EUR
 price: 25.82

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31iOSMn2UEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086W1ZRVH-es Lil Yachty Vestido Asimetrico Mujer Mangas Largas Camisa Irregular Tunica con Capucha Sudadera Pullover Hip Hop Hoodie Dress Caftan Blusa Camisetas Otoño Invierno Jumper Top A19074LY032M'
+slug: 'B086W1ZRVH-es Lil Yachty Vestido Asimetrico Mujer Mangas Largas Camisa...'
+tags: blusa, camisa, sudadera, vestido
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

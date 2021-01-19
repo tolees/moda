@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31YG6aZnSvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B015DHMMJG-es Levi s 711 Vaqueros Skinny  Negro  Black Sheen 0052   31W / 34L para Mujer'
+slug: 'B015DHMMJG-es Levi s 711 Vaqueros Skinny Negro Black Sheen 0052 31W /...'
+tags: vaqueros
 actualPrice: 46.7 EUR
 currency: EUR
 price: 46.7

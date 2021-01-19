@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41r-TIzGhSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZQMRCN-es Pepe Jeans Spike Vaqueros Straight  Azul  Medium Used Powerflex Denim 000   29W / 34L para Hombre'
+slug: 'B07MZQMRCN-es Pepe Jeans Spike Vaqueros Straight Azul Medium Used...'
+tags: vaqueros
 actualPrice: 17.65 EUR
 currency: EUR
 price: 17.65

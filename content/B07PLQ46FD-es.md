@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41CzYfLFV5L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PLQ46FD-es Cartera de Cuero Negro Cartera de Piel Billetera de Hombre Carteras Hombre Cuero Monederos de Hombre con Cuero Genuino Diseño de Doble Pliegue Hombre con Caja de Regalo  WA-02 '
+slug: 'B07PLQ46FD-es Cartera de Cuero Negro Cartera de Piel Billetera de Hombre...'
+tags: billetera
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

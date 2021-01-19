@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31XofJ2h97L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ND6JBH7-es Dockers Laundered Poplin Shirt Camisa  Azul  Prater Light Blue 0091   XX-Large para Hombre'
+slug: 'B07ND6JBH7-es Dockers Laundered Poplin Shirt Camisa Azul Prater Light...'
+tags: camisa
 actualPrice: 11.8 EUR
 currency: EUR
 price: 11.8

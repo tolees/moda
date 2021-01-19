@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/519jgxJ8C1L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VFVMPBS-es YOSICIL Princesa Disfraz Frozen Elsa Verde Disfraces Princesas Disfraz Infantil niña Bordado Fancy Dress con Mangas de Encaje Transparente Princesa Cosplay Vestido para Niñas 100cm-150cm'
+slug: 'B07VFVMPBS-es YOSICIL Princesa Disfraz Frozen Elsa Verde Disfraces...'
+tags: vestido
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

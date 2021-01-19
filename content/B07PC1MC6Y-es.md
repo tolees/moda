@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ujrm9-aGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PC1MC6Y-es Bose Frames - Gafas de sol con altavoces  Alto  M/L  color negro'
+slug: 'B07PC1MC6Y-es Bose Frames - Gafas de sol con altavoces Alto M/L color negro'
+tags: gafas
 actualPrice: 169.15 EUR
 currency: EUR
 price: 169.15

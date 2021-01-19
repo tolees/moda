@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31+zIiy8NTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X6V76ND-es Ipanema Anat Temas IX Fem  Chanclas para Mujer  Multicolor  Beige/Black/Orange 9089.0   40 EU'
+slug: 'B07X6V76ND-es Ipanema Anat Temas IX Fem Chanclas para Mujer Multicolor...'
+tags: chanclas
 actualPrice: 16.0 EUR
 currency: EUR
 price: 16.0

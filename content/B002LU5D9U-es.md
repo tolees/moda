@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31x6U+392HL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002LU5D9U-es Lacoste L1212 Camiseta Polo  Azul  Ruisseau   XS para Hombre'
+slug: 'B002LU5D9U-es Lacoste L1212 Camiseta Polo Azul Ruisseau XS para Hombre'
+tags: camiseta
 actualPrice: 62.77 EUR
 currency: EUR
 price: 62.77

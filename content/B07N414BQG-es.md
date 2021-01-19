@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41pRG1HHTDL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N414BQG-es Desigual Dress Karen Vestido  Blanco  Blanco 1000   L para Mujer'
+slug: 'B07N414BQG-es Desigual Dress Karen Vestido Blanco Blanco 1000 L para Mujer'
+tags: vestido
 actualPrice: 16.42 EUR
 currency: EUR
 price: 16.42

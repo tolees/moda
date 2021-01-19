@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31B8si9QuxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0013DSOVU-es Timberland Classic 2 Eye  Náuticos para Hombre  Azul  MD Blue Full Grain   41.5 EU'
+slug: 'B0013DSOVU-es Timberland Classic 2 Eye Náuticos para Hombre Azul MD Blue...'
+tags: timberland
 actualPrice: 87.45 EUR
 currency: EUR
 price: 87.45

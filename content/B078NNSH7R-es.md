@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/410B0ddBeyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078NNSH7R-es PUMA Liga Casual Sudadera  Hombre  Peacoat / White  M'
+slug: 'B078NNSH7R-es PUMA Liga Casual Sudadera Hombre Peacoat / White M'
+tags: sudadera
 actualPrice: 29.12 EUR
 currency: EUR
 price: 29.12

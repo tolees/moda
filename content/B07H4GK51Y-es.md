@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4171GJANRJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H4GK51Y-es adidas CAMPEON19 JSY Camiseta  Campeon 19  Gris  DGH Solid Grey/White   910Y'
+slug: 'B07H4GK51Y-es adidas CAMPEON19 JSY Camiseta Campeon 19 Gris DGH Solid...'
+tags: camiseta
 actualPrice: 11.18 EUR
 currency: EUR
 price: 11.18

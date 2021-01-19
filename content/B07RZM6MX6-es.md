@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41CBGNWgLgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RZM6MX6-es Levi s 510 Fit Vaqueros Skinny  Azul  Delray Pier 4/Waxy 1024   W32/L30  Talla del Fabricante: 32 30  para Hombre'
+slug: 'B07RZM6MX6-es Levi s 510 Fit Vaqueros Skinny Azul Delray Pier 4/Waxy...'
+tags: vaqueros
 actualPrice: 68.99 EUR
 currency: EUR
 price: 68.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41f-yb2u4GL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0784TNLH6-es Lacoste L1212 Camiseta Polo  Azul  Ibiza   XS  Talla del fabricante: 2  para Hombre'
+slug: 'B0784TNLH6-es Lacoste L1212 Camiseta Polo Azul Ibiza XS Talla del...'
+tags: camiseta
 actualPrice: 48.24 EUR
 currency: EUR
 price: 48.24

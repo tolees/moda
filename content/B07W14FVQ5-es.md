@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41sb1UPmE4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W14FVQ5-es Pepe Jeans Edison Camiseta  Verde  Middle Green 631   X-Large para Hombre'
+slug: 'B07W14FVQ5-es Pepe Jeans Edison Camiseta Verde Middle Green 631 X-Large...'
+tags: camiseta
 actualPrice: 9.56 EUR
 currency: EUR
 price: 9.56

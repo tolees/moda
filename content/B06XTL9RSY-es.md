@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ctOUfgo+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XTL9RSY-es Pepe Jeans Original Basic S/S PM503835 Camiseta  Negro  Black 999   X-Small para Hombre'
+slug: 'B06XTL9RSY-es Pepe Jeans Original Basic S/S PM503835 Camiseta Negro...'
+tags: camiseta
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

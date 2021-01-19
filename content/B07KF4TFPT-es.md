@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31hv8hnbe7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KF4TFPT-es Levi s 311 Shaping Skinny Vaqueros  London Nights  27W / 30L para Mujer'
+slug: 'B07KF4TFPT-es Levi s 311 Shaping Skinny Vaqueros London Nights 27W / 30L...'
+tags: vaqueros
 actualPrice: 49.5 EUR
 currency: EUR
 price: 49.5

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41Y34XdDs8L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V5HQTWZ-es Tom Tailor Denim Print Camiseta  Azul  Slate Blue/Green 12335   M para Hombre'
+slug: 'B07V5HQTWZ-es Tom Tailor Denim Print Camiseta Azul Slate Blue/Green...'
+tags: camiseta
 actualPrice: 3.56 EUR
 currency: EUR
 price: 3.56

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41q-8+SJ0XL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZPKWPX-es Pepe Jeans Elcano Chaqueta  Marrón  Brass 891   3-4 años  Talla del Fabricante: 3/4 años  para Niños'
+slug: 'B07MZPKWPX-es Pepe Jeans Elcano Chaqueta Marrón Brass 891 3-4 años Talla...'
+tags: chaqueta
 actualPrice: 60.48 EUR
 currency: EUR
 price: 60.48

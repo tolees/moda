@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Eiqc9qThL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W7T8JTG-es Jack & Jones JCOMILLA Sweat Hood Sudadera con Capucha  Gris Claro  L para Hombre'
+slug: 'B07W7T8JTG-es Jack & Jones JCOMILLA Sweat Hood Sudadera con Capucha Gris...'
+tags: sudadera
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

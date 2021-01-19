@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41asG2Dh4fL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FM5CLWS-es Ogeenier Hombre Deporte Camiseta sin Mangas de Secado Rápido para Running Fitness Ejercicio'
+slug: 'B07FM5CLWS-es Ogeenier Hombre Deporte Camiseta sin Mangas de Secado...'
+tags: camiseta
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41kIdAjGShL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DBTR5KX-es HOMCOM Perchero Colgador Metálico Zapatero para Ropa y Zapatos Perchero Pie 18 Ganchos 3 Estantes 67x30x185cm'
+slug: 'B07DBTR5KX-es HOMCOM Perchero Colgador Metálico Zapatero para Ropa y...'
+tags: zapatos
 actualPrice: 36.54 EUR
 currency: EUR
 price: 36.54

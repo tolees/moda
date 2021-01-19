@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Zh9eGQEgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XKNZ2Q1-es ElegantPark HC1620 Zapatos para Novia Boda Tacon Bajo Ronda Hebilla Bombea los Zapatos de Danza de Encaje Zapatos de Boda Mujer Blanco EU 39'
+slug: 'B06XKNZ2Q1-es ElegantPark HC1620 Zapatos para Novia Boda Tacon Bajo...'
+tags: zapatos
 actualPrice: 52.99 EUR
 currency: EUR
 price: 52.99

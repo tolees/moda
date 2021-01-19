@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41c0OH91NWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VCTCFSS-es Sundried para Mujer Cuello en V Aptitud Camiseta de Entrenamiento Activewear Gimnasio de Deportes señoras de Yoga Corrientes Superiores  Gris  L '
+slug: 'B07VCTCFSS-es Sundried para Mujer Cuello en V Aptitud Camiseta de...'
+tags: camiseta
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41AUuc6pJkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B017WHIS98-es Pepe Jeans Soho Vaqueros  Black  29W / 32L para Mujer'
+slug: 'B017WHIS98-es Pepe Jeans Soho Vaqueros Black 29W / 32L para Mujer'
+tags: vaqueros
 actualPrice: 33.49 EUR
 currency: EUR
 price: 33.49

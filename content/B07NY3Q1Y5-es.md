@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41fp5phPYvL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NY3Q1Y5-es Superdry Padded Elite Jacket Chaqueta  Negro  Jet Black 12a   XX-Large  Talla del Fabricante: 2XL  para Hombre'
+slug: 'B07NY3Q1Y5-es Superdry Padded Elite Jacket Chaqueta Negro Jet Black 12a...'
+tags: chaqueta
 actualPrice: 26.55 EUR
 currency: EUR
 price: 26.55

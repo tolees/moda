@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41syywrIMPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N3B1RLB-es Desigual Coat Letras Abrigo  Azul  Navy 5000   40  Talla del Fabricante: 38  para Mujer'
+slug: 'B07N3B1RLB-es Desigual Coat Letras Abrigo Azul Navy 5000 40 Talla del...'
+tags: abrigo
 actualPrice: 61.52 EUR
 currency: EUR
 price: 61.52

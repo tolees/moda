@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31qOXvAko1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QXMRMC2-es Diesel S-Crew-Division-D Sweat-Shirt Sudadera  Negro  Negro 900   Small  Tamaño del Fabricante: S  para Hombre'
+slug: 'B07QXMRMC2-es Diesel S-Crew-Division-D Sweat-Shirt Sudadera Negro Negro...'
+tags: sudadera
 actualPrice: 35.43 EUR
 currency: EUR
 price: 35.43

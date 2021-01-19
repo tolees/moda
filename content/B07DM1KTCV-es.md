@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41GXHYPUlzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DM1KTCV-es Bebé Niña Vestido de Fiesta Princesa Disfraces Tutú Ballet Lunares Fantasía Vestid Carnaval Bautizo Cumpleaños Baile para Infantiles Recién Nacido Disfraces de Princesa con Diadema 12 Meses'
+slug: 'B07DM1KTCV-es Bebé Niña Vestido de Fiesta Princesa Disfraces Tutú Ballet...'
+tags: vestido
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

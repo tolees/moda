@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51YppS7gbLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VJSWZ1X-es Desigual Bols legacy Holbox - Bolso con asas  17 x 30 5 x 37 cm  color Blanco  talla 17x30.5x37 cm  B x H x T '
+slug: 'B07VJSWZ1X-es Desigual Bols legacy Holbox - Bolso con asas 17 x 30 5 x...'
+tags: bolso
 actualPrice: 36.26 EUR
 currency: EUR
 price: 36.26

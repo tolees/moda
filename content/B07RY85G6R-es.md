@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/410JYWIXqkL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RY85G6R-es Only Onlnew Lucca Parka Jacket Otw  Rojo  Ketchup Ketchup   40  Talla del Fabricante: Medium  para Mujer'
+slug: 'B07RY85G6R-es Only Onlnew Lucca Parka Jacket Otw Rojo Ketchup Ketchup 40...'
+tags: parka
 actualPrice: 14.09 EUR
 currency: EUR
 price: 14.09

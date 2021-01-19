@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/417bTZGwFbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08FQRVZ72-es Estudiante Coreano Hombro Arte Fresh Messenger Canvas Bag Simple Cloth Bag Shoulder Bag Canvas Bag Bolso  Negro'
+slug: 'B08FQRVZ72-es Estudiante Coreano Hombro Arte Fresh Messenger Canvas Bag...'
+tags: bolso
 actualPrice: 5.44 EUR
 currency: EUR
 price: 5.44

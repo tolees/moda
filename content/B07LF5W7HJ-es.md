@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31XfNevNI1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LF5W7HJ-es Levi s 2pk Crewneck 1 Camiseta  Multicolor  2 Pack Slim Crew White/Med Heather Grey 0003   Large para Hombre'
+slug: 'B07LF5W7HJ-es Levi s 2pk Crewneck 1 Camiseta Multicolor 2 Pack Slim Crew...'
+tags: camiseta
 actualPrice: 12.2 EUR
 currency: EUR
 price: 12.2

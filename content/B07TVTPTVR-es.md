@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41LcvPpFg4L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TVTPTVR-es Women s Secret Home Hm Weekend Set Conjuntos de Pijama  Azul  Gama Azules 19   Large  Tamaño del Fabricante: L  para Mujer'
+slug: 'B07TVTPTVR-es Women s Secret Home Hm Weekend Set Conjuntos de Pijama...'
+tags: pijama
 actualPrice: 16.39 EUR
 currency: EUR
 price: 16.39

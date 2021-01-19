@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41SV+8XCz5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0014C2QGE-es Crocs Classic Clog  Zuecos Unisex Adulto  Marrón  Chocolate 200   38/39 EU'
+slug: 'B0014C2QGE-es Crocs Classic Clog Zuecos Unisex Adulto Marrón Chocolate...'
+tags: zuecos
 actualPrice: 29.12 EUR
 currency: EUR
 price: 29.12

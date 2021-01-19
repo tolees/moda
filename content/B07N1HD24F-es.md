@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Hzw1FH2UL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N1HD24F-es Clarks Calla Blossom  Botines para Mujer  Negro  Black SDE Black SDE   41.5 EU'
+slug: 'B07N1HD24F-es Clarks Calla Blossom Botines para Mujer Negro Black SDE...'
+tags: botines
 actualPrice: 40.11 EUR
 currency: EUR
 price: 40.11

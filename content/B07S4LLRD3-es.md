@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41X4vwF0HbL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S4LLRD3-es Esprit 089ee1k031 Camiseta  Negro  Black 001   Small para Mujer'
+slug: 'B07S4LLRD3-es Esprit 089ee1k031 Camiseta Negro Black 001 Small para Mujer'
+tags: camiseta
 actualPrice: 5.86 EUR
 currency: EUR
 price: 5.86

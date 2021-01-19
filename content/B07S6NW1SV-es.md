@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/410aU-x1k3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S6NW1SV-es PUMA Epic Flip V2  Zapatos de Playa y Piscina Unisex Adulto  Rojo  High Risk Red/Amazon Green 36   40.5 EU'
+slug: 'B07S6NW1SV-es PUMA Epic Flip V2 Zapatos de Playa y Piscina Unisex Adulto...'
+tags: zapatos
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

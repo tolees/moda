@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41CrZuA22zL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BP8MM1M-es Wrangler Slider Vaqueros  Azul  Indigo Wit 25F   36W / 34L para Hombre'
+slug: 'B07BP8MM1M-es Wrangler Slider Vaqueros Azul Indigo Wit 25F 36W / 34L...'
+tags: vaqueros
 actualPrice: 28.53 EUR
 currency: EUR
 price: 28.53

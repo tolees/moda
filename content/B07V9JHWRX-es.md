@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31nBizYLgeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V9JHWRX-es Calvin Klein Contrasted Ringer Reg Fit tee Camiseta  Blanco  Bright White/Black Yaf   Medium para Hombre'
+slug: 'B07V9JHWRX-es Calvin Klein Contrasted Ringer Reg Fit tee Camiseta Blanco...'
+tags: camiseta
 actualPrice: 14.5 EUR
 currency: EUR
 price: 14.5

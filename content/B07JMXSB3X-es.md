@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31BywSgSRpL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JMXSB3X-es Timberland Bradstreet Hiker  Botas Chukka para Hombre  Azul  Navy Nubuck   42 EU'
+slug: 'B07JMXSB3X-es Timberland Bradstreet Hiker Botas Chukka para Hombre Azul...'
+tags: timberland
 actualPrice: 72.5 EUR
 currency: EUR
 price: 72.5

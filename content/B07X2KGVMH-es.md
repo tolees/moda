@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41hN+-D6XWL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X2KGVMH-es Zapatos Invierno Mujer Botas de Nieve Forradas Calientes Zapatillas Botines Planas con Cremallera Casuales Boots para Mujer Marrón -B 35 EU/225 35  CN'
+slug: 'B07X2KGVMH-es Zapatos Invierno Mujer Botas de Nieve Forradas Calientes...'
+tags: botines, zapatos
 actualPrice: 24.25 EUR
 currency: EUR
 price: 24.25

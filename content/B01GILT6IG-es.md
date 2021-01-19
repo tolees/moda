@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ve2+DWmoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01GILT6IG-es Calvin Klein Modern tee Camiseta  Negro  Black/White Lg 930   140 centimeters  Talla del fabricante: 8-10  para Niños'
+slug: 'B01GILT6IG-es Calvin Klein Modern tee Camiseta Negro Black/White Lg 930...'
+tags: camiseta
 actualPrice: 23.83 EUR
 currency: EUR
 price: 23.83

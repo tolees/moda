@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41251ZnrwhL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081VXZD1R-es gracosy Botas de Mujer Otoño Invierno Goma Forro de Piel Punta Redonda Botas de Nieve Zapatos de Trabajo Calzado Antideslizante Ligero Botines Caminan'
+slug: 'B081VXZD1R-es gracosy Botas de Mujer Otoño Invierno Goma Forro de Piel...'
+tags: botines, zapatos
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

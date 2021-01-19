@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31acbqPLuYL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K7THTRF-es Reebok Classic Slide  Zapatos de Playa y Piscina Unisex Adulto  Schwarz  Black/Blac/White 0   EU'
+slug: 'B07K7THTRF-es Reebok Classic Slide Zapatos de Playa y Piscina Unisex...'
+tags: zapatos
 actualPrice: 13.53 EUR
 currency: EUR
 price: 13.53

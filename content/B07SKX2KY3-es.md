@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41pOasTstLL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SKX2KY3-es G-Star Sp30506 Dress Vestido  Negro  Black 02   10 años  Talla del Fabricante: 10A  para Niñas'
+slug: 'B07SKX2KY3-es G-Star Sp30506 Dress Vestido Negro Black 02 10 años Talla...'
+tags: vestido
 actualPrice: 21.85 EUR
 currency: EUR
 price: 21.85

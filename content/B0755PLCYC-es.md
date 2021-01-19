@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41xRzQVGnOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0755PLCYC-es Skechers Beverlee-High Tea  Sandalias de Punta Descubierta para Mujer  Rosa  Pink Pnk   38 EU'
+slug: 'B0755PLCYC-es Skechers Beverlee-High Tea Sandalias de Punta Descubierta...'
+tags: sandalias
 actualPrice: 28.4 EUR
 currency: EUR
 price: 28.4

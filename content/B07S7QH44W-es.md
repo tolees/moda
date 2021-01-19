@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31JSpDhWa5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S7QH44W-es PUMA Ralph Sampson LO  Zapatilla Baja Unisex-Adulto  White Mist Green Whisper White  36 EU'
+slug: 'B07S7QH44W-es PUMA Ralph Sampson LO Zapatilla Baja Unisex-Adulto White...'
+tags: zapatilla
 actualPrice: 35.01 EUR
 currency: EUR
 price: 35.01

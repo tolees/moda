@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+MS0JTaAL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00LYTAI3A-es Hollywood Star Fashion - Camiseta de manga corta con cuello en V'
+slug: 'B00LYTAI3A-es Hollywood Star Fashion - Camiseta de manga corta con...'
+tags: camiseta
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41H+spBMCOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KF55DD5-es Levi s 502 Regular Taper Vaqueros  Azul  Kalsomine 0388   28W / 32L para Hombre'
+slug: 'B07KF55DD5-es Levi s 502 Regular Taper Vaqueros Azul Kalsomine 0388 28W...'
+tags: vaqueros
 actualPrice: 56.48 EUR
 currency: EUR
 price: 56.48

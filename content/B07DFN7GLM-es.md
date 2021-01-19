@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51yL+MFiVFL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DFN7GLM-es ONLY NOS Onlsedona Boucle Wool Coat Otw Noos Abrigo  Gris  Dark Grey Melange Detail:Melange   36  Talla del Fabricante: X-Small  para Mujer'
+slug: 'B07DFN7GLM-es ONLY NOS Onlsedona Boucle Wool Coat Otw Noos Abrigo Gris...'
+tags: abrigo
 actualPrice: 62.99 EUR
 currency: EUR
 price: 62.99

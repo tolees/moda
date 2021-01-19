@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31KmBs-sJaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D6RB6TK-es Colgante con perlas de plata de ley 925 Abalorio compatible con Pandor pulseras y collar para mujeres y niñas'
+slug: 'B07D6RB6TK-es Colgante con perlas de plata de ley 925 Abalorio...'
+tags: collar
 actualPrice: 22.26 EUR
 currency: EUR
 price: 22.26

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/312lt5JNdyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TQ8CPFT-es Calvin Klein Ckj 026 Vaqueros Slim  Azul  Stay Black 911   36W / 36L para Hombre'
+slug: 'B07TQ8CPFT-es Calvin Klein Ckj 026 Vaqueros Slim Azul Stay Black 911 36W...'
+tags: vaqueros
 actualPrice: 27.2 EUR
 currency: EUR
 price: 27.2

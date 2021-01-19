@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41y3HViEcrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01H3S16OA-es Helly Hansen W Crew Midlayer Jacket Chaqueta Deportiva  Mujer  Navy  3XL'
+slug: 'B01H3S16OA-es Helly Hansen W Crew Midlayer Jacket Chaqueta Deportiva...'
+tags: chaqueta
 actualPrice: 83.5 EUR
 currency: EUR
 price: 83.5

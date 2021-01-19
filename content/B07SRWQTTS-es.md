@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31HNGv-yEJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SRWQTTS-es Armani Exchange Icon Sweat Sudadera  Azul  Navy 1510   X-Small para Hombre'
+slug: 'B07SRWQTTS-es Armani Exchange Icon Sweat Sudadera Azul Navy 1510 X-Small...'
+tags: sudadera
 actualPrice: 51.53 EUR
 currency: EUR
 price: 51.53

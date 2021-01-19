@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41AF1V5U6lL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NDM9D9F-es G-STAR RAW 3301 High Waist Flare Vaqueros  Medium Aged 8968-071  25W / 36L para Mujer'
+slug: 'B07NDM9D9F-es G-STAR RAW 3301 High Waist Flare Vaqueros Medium Aged...'
+tags: vaqueros
 actualPrice: 12.8 EUR
 currency: EUR
 price: 12.8

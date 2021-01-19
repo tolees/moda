@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31k1rLN4ocL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NXTTZM3-es Dickies Belfry Camiseta  Negro  X-Large  Talla del Fabricante:  para Hombre'
+slug: 'B07NXTTZM3-es Dickies Belfry Camiseta Negro X-Large Talla del...'
+tags: camiseta
 actualPrice: 11.97 EUR
 currency: EUR
 price: 11.97

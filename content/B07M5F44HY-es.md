@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41SoztjlZYL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M5F44HY-es Wrangler Graphic Logo tee Camiseta  Marfil  Off White 737   Medium para Hombre'
+slug: 'B07M5F44HY-es Wrangler Graphic Logo tee Camiseta Marfil Off White 737...'
+tags: camiseta
 actualPrice: 13.4 EUR
 currency: EUR
 price: 13.4

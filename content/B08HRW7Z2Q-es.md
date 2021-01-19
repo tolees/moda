@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41dZ5DMk6IL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08HRW7Z2Q-es Mishansha Zapatillas de Running para Hombre Casual Tenis Asfalto Zapatos Deporte Fitness Gym Correr Gimnasio Deportives Transpirables Atlético Trekking Plataform Sneakers 41 Negro'
+slug: 'B08HRW7Z2Q-es Mishansha Zapatillas de Running para Hombre Casual Tenis...'
+tags: zapatos
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

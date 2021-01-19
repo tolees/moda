@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Kqmel1vwL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JC4TM9Q-es Timberland Davis Square Alpine Oxford  Zapatillas Unisex-Niño  Amarillo  Wheat   33 EU'
+slug: 'B07JC4TM9Q-es Timberland Davis Square Alpine Oxford Zapatillas Unisex-...'
+tags: timberland
 actualPrice: 18.14 EUR
 currency: EUR
 price: 18.14

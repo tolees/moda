@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51G0PZ4vkoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08D97NVLQ-es Vunavueya Mujer Zapatillas de Estar por Casa Hombre Zapatos Pantuflas Casa Invierno Interior Caliente Peluche Forradas Slippers Azul Navy  43/44 EU/44-45CN'
+slug: 'B08D97NVLQ-es Vunavueya Mujer Zapatillas de Estar por Casa Hombre...'
+tags: zapatos
 actualPrice: 16.95 EUR
 currency: EUR
 price: 16.95

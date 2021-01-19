@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41htj8XJH3L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HEXE46Q-es Crocs Classic Clog Kids Roomy fit Zuecos Unisex niños  Naranja  Tangerine   19/20 EU'
+slug: 'B01HEXE46Q-es Crocs Classic Clog Kids Roomy fit Zuecos Unisex niños...'
+tags: zuecos
 actualPrice: 13.22 EUR
 currency: EUR
 price: 13.22

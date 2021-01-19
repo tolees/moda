@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41Omy7dxZOL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZJZK21-es Superdry Vintage Logo Layered Camo tee Camiseta  Negro  Black 02a   Small para Hombre'
+slug: 'B07MZJZK21-es Superdry Vintage Logo Layered Camo tee Camiseta Negro...'
+tags: camiseta
 actualPrice: 20.95 EUR
 currency: EUR
 price: 20.95

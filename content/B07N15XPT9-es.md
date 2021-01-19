@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Kg7XaqeFL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N15XPT9-es Lee Authentic Pkt T LS Camiseta  Verde  Dk Bottle Green BB   Small para Hombre'
+slug: 'B07N15XPT9-es Lee Authentic Pkt T LS Camiseta Verde Dk Bottle Green BB...'
+tags: camiseta
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

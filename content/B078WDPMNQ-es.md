@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31AJweKhZSL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B078WDPMNQ-es Ultrasport Basic Braguita de bikini para mujer Skara  Azul Marino  2XL'
+slug: 'B078WDPMNQ-es Ultrasport Basic Braguita de bikini para mujer Skara Azul...'
+tags: bikini
 actualPrice: 5.33 EUR
 currency: EUR
 price: 5.33

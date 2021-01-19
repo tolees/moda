@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41yTP0bJ4FL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TY1GJ3D-es Women s Secret Trendy Floral TF Bugambilia PJ Conjuntos de Pijama  Multicolor  Gama Rosas/Morados 78   Small  Tamaño del Fabricante: S  para Mujer'
+slug: 'B07TY1GJ3D-es Women s Secret Trendy Floral TF Bugambilia PJ Conjuntos de...'
+tags: pijama
 actualPrice: 11.26 EUR
 currency: EUR
 price: 11.26

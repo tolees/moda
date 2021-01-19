@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41nBq42-8FL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XFT7RJK-es Marca Amazon - find. Camisa Hombre  Verde  Mint Green Gingham   S  Label: S'
+slug: 'B06XFT7RJK-es Marca Amazon - find. Camisa Hombre Verde Mint Green...'
+tags: camisa, -, find.
 actualPrice: 7.42 EUR
 currency: EUR
 price: 7.42

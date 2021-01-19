@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+xOS1I8dL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MQF3RZ7-es Helly Hansen Hp Atlantic Fz - Sudadera para Hombre  Gris  Gris Oscuro 980   Medium'
+slug: 'B07MQF3RZ7-es Helly Hansen Hp Atlantic Fz - Sudadera para Hombre Gris...'
+tags: sudadera
 actualPrice: 71.5 EUR
 currency: EUR
 price: 71.5

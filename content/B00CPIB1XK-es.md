@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-mOmxzMWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00CPIB1XK-es Superga 2750-Lamew S001820 - Zapatos de lona para mujer  Black 999  36'
+slug: 'B00CPIB1XK-es Superga 2750-Lamew S001820 - Zapatos de lona para mujer...'
+tags: zapatos
 actualPrice: 43.27 EUR
 currency: EUR
 price: 43.27

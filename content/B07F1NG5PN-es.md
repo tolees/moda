@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/410je8eT8BL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F1NG5PN-es Levi s Graphic tee-B Camiseta  Negro  Hm LS Better Black 0013   X-Small para Hombre'
+slug: 'B07F1NG5PN-es Levi s Graphic tee-B Camiseta Negro Hm LS Better Black...'
+tags: camiseta
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

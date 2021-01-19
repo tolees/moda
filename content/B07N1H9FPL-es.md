@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31PhUf9Cp7L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N1H9FPL-es Clarks Kaylin Cara  Zapatos de Tacón para Mujer  Negro Black SDE  37 EU'
+slug: 'B07N1H9FPL-es Clarks Kaylin Cara Zapatos de Tacón para Mujer Negro Black...'
+tags: zapatos
 actualPrice: 39.09 EUR
 currency: EUR
 price: 39.09

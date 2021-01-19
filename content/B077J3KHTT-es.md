@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31sWR0qPWoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077J3KHTT-es BOSS T-Shirt VN 3P CO Camiseta  Multicolor  Miscellaneous 999   Medium  Pack de 3  para Hombre'
+slug: 'B077J3KHTT-es BOSS T-Shirt VN 3P CO Camiseta Multicolor Miscellaneous...'
+tags: camiseta
 actualPrice: 24.69 EUR
 currency: EUR
 price: 24.69

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41VGKuzCKOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RCP9XVG-es Columbia Columbia Lodge  Chaqueta sudadera  Hombre  Azul/Blanco  Collegiate Navy   Talla XL'
+slug: 'B07RCP9XVG-es Columbia Columbia Lodge Chaqueta sudadera Hombre...'
+tags: chaqueta, sudadera
 actualPrice: 59.0 EUR
 currency: EUR
 price: 59.0

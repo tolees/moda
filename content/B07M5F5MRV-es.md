@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41PPbHL5djL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M5F5MRV-es Wrangler LS Western Shirt Camisa  Rojo  Red X47   Small para Hombre'
+slug: 'B07M5F5MRV-es Wrangler LS Western Shirt Camisa Rojo Red X47 Small para...'
+tags: camisa
 actualPrice: 29.83 EUR
 currency: EUR
 price: 29.83

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41fsPjtMewL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M8W7BTD-es Wrangler Skinny Jeans Vaqueros  Azul  Soft Worn 12b   25W / 32L para Mujer'
+slug: 'B07M8W7BTD-es Wrangler Skinny Jeans Vaqueros Azul Soft Worn 12b 25W /...'
+tags: vaqueros
 actualPrice: 18.74 EUR
 currency: EUR
 price: 18.74

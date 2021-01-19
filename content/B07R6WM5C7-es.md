@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31R6yJ6ktoL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R6WM5C7-es O NEILL LM Olsen L/Slv - Camiseta para Hombre  Hombre  9P2104  Superblanco  Extra-Small'
+slug: 'B07R6WM5C7-es O NEILL LM Olsen L/Slv - Camiseta para Hombre Hombre...'
+tags: camiseta
 actualPrice: 17.33 EUR
 currency: EUR
 price: 17.33

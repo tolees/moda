@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41DFfDxM78L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FF2CFRS-es Wwoorr Quartz  Relojes Analógicos Moda Casual para Mujer con Banda de Acero Inoxidable'
+slug: 'B07FF2CFRS-es Wwoorr Quartz Relojes Analógicos Moda Casual para Mujer...'
+tags: moda
 actualPrice: 15.29 EUR
 currency: EUR
 price: 15.29

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+DdmPtTTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FCS1WHG-es Levi s 527 Slim Boot Cut  Vaqueros Corte de Bota para Hombre  Azul  Last Mid Blue 0553   36W/34L'
+slug: 'B07FCS1WHG-es Levi s 527 Slim Boot Cut Vaqueros Corte de Bota para...'
+tags: vaqueros
 actualPrice: 28.96 EUR
 currency: EUR
 price: 28.96

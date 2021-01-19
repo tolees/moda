@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41fsjWi1E0L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FP91YDD-es AmzBarley Disfraz Vestido Princesa Blancanieves Elsa Frozen Niña Tutu Ceremonia Traje Niña Bella Disfraz Infantil Fiesta Carnaval Cosplay Halloween  Amarillo-04  5-6 Años '
+slug: 'B07FP91YDD-es AmzBarley Disfraz Vestido Princesa Blancanieves Elsa...'
+tags: vestido
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

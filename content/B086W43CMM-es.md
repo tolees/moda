@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41QKqjp1qJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086W43CMM-es MagiDeal Dentición Collar De Cuentas Babyteether Plana De Silicona - Multicolor  20 * 14mm'
+slug: 'B086W43CMM-es MagiDeal Dentición Collar De Cuentas Babyteether Plana De...'
+tags: collar
 actualPrice: 9.68 EUR
 currency: EUR
 price: 9.68

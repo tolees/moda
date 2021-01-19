@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41UvmpivMzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DK33D2D-es Geox Jr Wader A  Sandalias Punta Cerrada para Niños  Azul  Navy/Royal C4226   28 EU'
+slug: 'B07DK33D2D-es Geox Jr Wader A Sandalias Punta Cerrada para Niños Azul...'
+tags: geox, sandalias
 actualPrice: 37.78 EUR
 currency: EUR
 price: 37.78

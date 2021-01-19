@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41jYSvy+zKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B015ZOGZ2C-es MAKAYA Calavera con Casco - Camiseta Motocross - Hombre Negra L'
+slug: 'B015ZOGZ2C-es MAKAYA Calavera con Casco - Camiseta Motocross - Hombre...'
+tags: camiseta
 actualPrice: 16.9 EUR
 currency: EUR
 price: 16.9

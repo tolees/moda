@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51hg2qiSCFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079MKVZ5Y-es Tommy Hilfiger Trunk Bóxer  Azul  Navy Blazer 416   Large  Talla del Fabricante: LG  para Hombre'
+slug: 'B079MKVZ5Y-es Tommy Hilfiger Trunk Bóxer Azul Navy Blazer 416 Large...'
+tags: bóxer
 actualPrice: 16.49 EUR
 currency: EUR
 price: 16.49

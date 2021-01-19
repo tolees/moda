@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/517wsGrWVjL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NGT1WL9-es Calvin Klein Hip Brief 3pk Bóxer  Gris  Charcoal H/Rasp Jam/Bright Cobalt Lfv   Small  Pack de 2  para Hombre'
+slug: 'B07NGT1WL9-es Calvin Klein Hip Brief 3pk Bóxer Gris Charcoal H/Rasp...'
+tags: bóxer
 actualPrice: 10.82 EUR
 currency: EUR
 price: 10.82

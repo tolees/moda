@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41uxTOXRjlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MMWPQMT-es Wrangler Super High Skinny Vaqueros  Azul  Dark Indigo X1e   27 W/ 32 L para Mujer'
+slug: 'B07MMWPQMT-es Wrangler Super High Skinny Vaqueros Azul Dark Indigo X1e...'
+tags: vaqueros
 actualPrice: 19.2 EUR
 currency: EUR
 price: 19.2

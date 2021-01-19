@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31LIaB8y3TL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GP7WSJ4-es Skechers On-The-go 600-Flawless  Sandalias de Talón Abierto para Mujer  Azul  Navy Nvy   38 EU'
+slug: 'B07GP7WSJ4-es Skechers On-The-go 600-Flawless Sandalias de Talón Abierto...'
+tags: sandalias
 actualPrice: 47.96 EUR
 currency: EUR
 price: 47.96

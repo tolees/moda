@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51wmGEAVxGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZPX4YP-es Pepe Jeans Nadia Sudadera   Grey Marl 933   9-10 años  Talla del Fabricante: 9/10 años  para Niñas'
+slug: 'B07MZPX4YP-es Pepe Jeans Nadia Sudadera Grey Marl 933 9-10 años Talla...'
+tags: sudadera
 actualPrice: 16.57 EUR
 currency: EUR
 price: 16.57

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ZC-QoeQhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MTDZT3Q-es Mizuno Sala Classic 2 IN  Zapatilla de fútbol Sala  Blue-White-Yellow  Talla 11 USA  44 1/2 EUR '
+slug: 'B07MTDZT3Q-es Mizuno Sala Classic 2 IN Zapatilla de fútbol Sala Blue-...'
+tags: zapatilla
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

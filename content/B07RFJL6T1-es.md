@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31pXIT9vp-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RFJL6T1-es Camisa de Mujer Elegante Escote Redondo Blusa Camisa de Mujer de Gasa para Primavera Verano Beiga S CLAF15-2'
+slug: 'B07RFJL6T1-es Camisa de Mujer Elegante Escote Redondo Blusa Camisa de...'
+tags: blusa, camisa
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41I83yVkQ4L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KYQM6T5-es Springfield 5DS Polo Oxford Liso Jersey  Gama Azules 11  Small  Tamaño del Fabricante:S  para Hombre'
+slug: 'B07KYQM6T5-es Springfield 5DS Polo Oxford Liso Jersey Gama Azules 11...'
+tags: jersey
 actualPrice: 8.69 EUR
 currency: EUR
 price: 8.69

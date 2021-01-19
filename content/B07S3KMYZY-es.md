@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41OcQv8C-2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S3KMYZY-es Levi s Vneck Camiseta  Negro  Caviar 0003   X-Small para Mujer'
+slug: 'B07S3KMYZY-es Levi s Vneck Camiseta Negro Caviar 0003 X-Small para Mujer'
+tags: camiseta
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

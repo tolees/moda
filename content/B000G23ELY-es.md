@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41rlmDu11XL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000G23ELY-es Timberland Classic 2 Eye  Náuticos para Hombre  Marrón Rootbeer Smooth  49 EU'
+slug: 'B000G23ELY-es Timberland Classic 2 Eye Náuticos para Hombre Marrón...'
+tags: timberland
 actualPrice: 105.21 EUR
 currency: EUR
 price: 105.21

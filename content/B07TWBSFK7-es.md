@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/411uMPL9ExL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TWBSFK7-es Clarks Crown Stem K  Sandalias Punta Cerrada para Niños  Azul  Navy Leather Navy Leather   28.5 EU'
+slug: 'B07TWBSFK7-es Clarks Crown Stem K Sandalias Punta Cerrada para Niños...'
+tags: sandalias
 actualPrice: 41.9 EUR
 currency: EUR
 price: 41.9

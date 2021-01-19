@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31iC0ONGvFL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TDFVFLM-es The North Face M Drew Peak Sudadera con Capucha  Hombre  Blanco  Vintage White/British Khaki   XL'
+slug: 'B07TDFVFLM-es The North Face M Drew Peak Sudadera con Capucha Hombre...'
+tags: sudadera
 actualPrice: 48.0 EUR
 currency: EUR
 price: 48.0

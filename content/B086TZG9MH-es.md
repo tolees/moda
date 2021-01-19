@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41xbeN7LrWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086TZG9MH-es YUNB 6PCS  Zapatos de plástico Beige de tacón Alto Consejos 22mm x 21mm para Damas'
+slug: 'B086TZG9MH-es YUNB 6PCS Zapatos de plástico Beige de tacón Alto Consejos...'
+tags: zapatos
 actualPrice: 2.93 EUR
 currency: EUR
 price: 2.93

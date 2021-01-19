@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41K1Q2QVGHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081SJ6WYL-es adidas Own The Run Jkt Chaqueta de Deporte  Hombre  Black/Grey One f17/Grey Six  M'
+slug: 'B081SJ6WYL-es adidas Own The Run Jkt Chaqueta de Deporte Hombre...'
+tags: chaqueta
 actualPrice: 32.97 EUR
 currency: EUR
 price: 32.97

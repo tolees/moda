@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31f7fbmZmjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L8JHTNT-es Marca Amazon - find. Mono Fluido de Manga Corta para Mujer  Rojo  Red   36  Label: XS'
+slug: 'B07L8JHTNT-es Marca Amazon - find. Mono Fluido de Manga Corta para Mujer...'
+tags: -, find.
 actualPrice: 22.97 EUR
 currency: EUR
 price: 22.97

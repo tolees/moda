@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31lLJwxOkSL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CCN49GH-es Eyekepper Moda Deportes Bifocal Gafas de sol TR90 Irrompible Lectores al aire libre Béisbol Running Pesca Conducción Golf Softball Senderismo Blanco Marco Gris Lente +3.5'
+slug: 'B07CCN49GH-es Eyekepper Moda Deportes Bifocal Gafas de sol TR90...'
+tags: gafas, moda
 actualPrice: 15.06 EUR
 currency: EUR
 price: 15.06

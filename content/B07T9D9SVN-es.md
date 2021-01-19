@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51VTEkAifmL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T9D9SVN-es Bolso de Fiesta Noche Hard Shell Clutch Pequeña Diamantes de imitación Billetera del Banquete Bolso de Boda Oro'
+slug: 'B07T9D9SVN-es Bolso de Fiesta Noche Hard Shell Clutch Pequeña Diamantes...'
+tags: billetera, bolso
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

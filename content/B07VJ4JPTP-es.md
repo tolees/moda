@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31A4yU0DvwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VJ4JPTP-es Pepe Jeans Slider Basic Man  Zuecos para Hombre  Azul  Navy 595   42 EU'
+slug: 'B07VJ4JPTP-es Pepe Jeans Slider Basic Man Zuecos para Hombre Azul Navy...'
+tags: zuecos
 actualPrice: 20.2 EUR
 currency: EUR
 price: 20.2

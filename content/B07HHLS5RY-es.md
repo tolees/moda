@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51FWsk1YMNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HHLS5RY-es PET MAGASIN Guantes Quita pelos  1 par  - Guantes interactivos para masajes y Cepillado con Puntas de Silicona para Quitar Pelo Suavemente para Gatos  Perros  Caballos y Otras Mascotas'
+slug: 'B07HHLS5RY-es PET MAGASIN Guantes Quita pelos 1 par - Guantes...'
+tags: guantes
 actualPrice: 18.29 EUR
 currency: EUR
 price: 18.29

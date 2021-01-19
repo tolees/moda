@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075KGQ4BT-es Pokèmon - Pijama para Niños Ajuste Ceñido - 8-9 Años'
+tags: pijama
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

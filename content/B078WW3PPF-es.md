@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31i9V4zYg7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078WW3PPF-es Roxy Napili II J SNDL  Zapatos de Playa y Piscina para Mujer  Beige  Beige/ Ta1 Tan 1  Ta1   38 EU'
+slug: 'B078WW3PPF-es Roxy Napili II J SNDL Zapatos de Playa y Piscina para...'
+tags: zapatos
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

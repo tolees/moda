@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41CxiFQZalL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S854BXY-es Crocs Crocband  Zuecos Unisex Adulto  Naranja  Orange/White 846   36/37 EU'
+slug: 'B07S854BXY-es Crocs Crocband Zuecos Unisex Adulto Naranja Orange/White...'
+tags: zuecos
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

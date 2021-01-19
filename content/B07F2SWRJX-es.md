@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41OWRfS8TaL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F2SWRJX-es adidas FL_TRH Tec COO Camiseta  Hombre  grpuch/Gricin  M'
+slug: 'B07F2SWRJX-es adidas FL_TRH Tec COO Camiseta Hombre grpuch/Gricin M'
+tags: camiseta
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

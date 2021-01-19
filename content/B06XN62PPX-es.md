@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41QTOnjLOiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XN62PPX-es Marca Amazon - find. Top sin Mangas de Algodón Mujer  Azul  Blue Stripe   36  Label: XS'
+slug: 'B06XN62PPX-es Marca Amazon - find. Top sin Mangas de Algodón Mujer Azul...'
+tags: -, find.
 actualPrice: 23.88 EUR
 currency: EUR
 price: 23.88

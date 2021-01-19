@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31MorpPgDoL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073RPKHG1-es Helly Hansen HH Tech T Camiseta  Hombre  Gris  Gris Oscuro 980   Large  Tamaño del Fabricante:L '
+slug: 'B073RPKHG1-es Helly Hansen HH Tech T Camiseta Hombre Gris Gris Oscuro...'
+tags: camiseta
 actualPrice: 12.75 EUR
 currency: EUR
 price: 12.75

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41q3tYY5KzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N2BI3Z5-es Lacoste TH6709  Camiseta para Hombre  Gris  Argent Chine   XL  Talla del fabricante: 6 '
+slug: 'B01N2BI3Z5-es Lacoste TH6709 Camiseta para Hombre Gris Argent Chine XL...'
+tags: camiseta
 actualPrice: 30.49 EUR
 currency: EUR
 price: 30.49

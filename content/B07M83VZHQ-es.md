@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+SKU3QESL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M83VZHQ-es Napapijri Skidoo 2 Chaqueta  Orange  Orangeade A21   L para Hombre'
+slug: 'B07M83VZHQ-es Napapijri Skidoo 2 Chaqueta Orange Orangeade A21 L para...'
+tags: chaqueta
 actualPrice: 144.49 EUR
 currency: EUR
 price: 144.49

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413JGea+WVL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M83W6NF-es Napapijri Aerons Stand 2 Chaqueta  Blau  French Blue Bb7   L para Hombre'
+slug: 'B07M83W6NF-es Napapijri Aerons Stand 2 Chaqueta Blau French Blue Bb7 L...'
+tags: chaqueta
 actualPrice: 99.5 EUR
 currency: EUR
 price: 99.5

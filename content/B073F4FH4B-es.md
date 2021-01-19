@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ZbqVuZ7WL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073F4FH4B-es LOSMILE Hombres Lona Bolso de Bandolera La Bolsa de Mensajero Bolsa de Lona Bolsa de Hombro 16 Pulgadas Bolsa de Ordenador.  Negro '
+slug: 'B073F4FH4B-es LOSMILE Hombres Lona Bolso de Bandolera La Bolsa de...'
+tags: bolso
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

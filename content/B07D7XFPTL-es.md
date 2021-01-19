@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51dmqu25JuL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D7XFPTL-es Charles Wilson Camisa Original Manga Larga Cuadros para Hombre  Small  Dark Navy '
+slug: 'B07D7XFPTL-es Charles Wilson Camisa Original Manga Larga Cuadros para...'
+tags: camisa
 actualPrice: 12.95 EUR
 currency: EUR
 price: 12.95

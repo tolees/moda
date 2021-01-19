@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Ixqpt-wLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PT8VGK7-es Under Armour Camo Boxed Logo Camisa Manga Corta  Hombre  Verde  MD'
+slug: 'B07PT8VGK7-es Under Armour Camo Boxed Logo Camisa Manga Corta Hombre...'
+tags: camisa
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

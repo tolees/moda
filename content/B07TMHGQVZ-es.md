@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41HSD0nvpvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TMHGQVZ-es Levi s Camiseta  Multicolor  Authentic Colorblock tee M.Heather Grey 0001   X-Large para Hombre'
+slug: 'B07TMHGQVZ-es Levi s Camiseta Multicolor Authentic Colorblock tee...'
+tags: camiseta
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

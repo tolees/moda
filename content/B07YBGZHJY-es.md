@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/410s7BXPPGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YBGZHJY-es Vans Classic Camiseta  Rojo  Port Royale/White K1o   Medium para Hombre'
+slug: 'B07YBGZHJY-es Vans Classic Camiseta Rojo Port Royale/White K1o Medium...'
+tags: camiseta
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

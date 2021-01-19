@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41fTD-r7mGL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N6F0O7P-es Timberland Adventure 2.0 Cupsole  Zapatillas Altas para Hombre  Marrón  Olive Full Grain   45.5 EU'
+slug: 'B01N6F0O7P-es Timberland Adventure 2.0 Cupsole Zapatillas Altas para...'
+tags: timberland
 actualPrice: 64.95 EUR
 currency: EUR
 price: 64.95

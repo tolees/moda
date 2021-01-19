@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Km3MOlnDL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PBY52MN-es DANISH ENDURANCE Calzoncillos Bóxer de Deporte Pack de 3  Multicolor: 1 x Negro  1 x Verde/púrpura  1 x Negro/Rojo  Medium '
+slug: 'B07PBY52MN-es DANISH ENDURANCE Calzoncillos Bóxer de Deporte Pack de 3...'
+tags: bóxer
 actualPrice: 16.95 EUR
 currency: EUR
 price: 16.95

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41a-EpHDBAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R92NCFC-es Columbia Marquam Peak  Chaqueta de invierno  Hombre   Negro  Black   Talla M'
+slug: 'B07R92NCFC-es Columbia Marquam Peak Chaqueta de invierno Hombre Negro...'
+tags: chaqueta
 actualPrice: 157.66 EUR
 currency: EUR
 price: 157.66

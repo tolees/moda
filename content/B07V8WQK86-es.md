@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4152ZZKWERL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V8WQK86-es Triumph Body Make-up Soft Touch P Ex Sujetador para Camiseta  Azul  Wedgewood/PT Blue 00re   90B  Talla del Fabricante: 75B  para Mujer'
+slug: 'B07V8WQK86-es Triumph Body Make-up Soft Touch P Ex Sujetador para...'
+tags: camiseta
 actualPrice: 21.45 EUR
 currency: EUR
 price: 21.45

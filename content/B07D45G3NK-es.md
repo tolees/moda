@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Z1vLqT+KL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D45G3NK-es Tommy Hilfiger TJM Tommy Classics Logo tee Camisa  Gris  Lt Grey Htr 038   Small para Hombre'
+slug: 'B07D45G3NK-es Tommy Hilfiger TJM Tommy Classics Logo tee Camisa Gris Lt...'
+tags: camisa
 actualPrice: 22.75 EUR
 currency: EUR
 price: 22.75

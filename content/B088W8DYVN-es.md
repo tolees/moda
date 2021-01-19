@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/411jdIPdKyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088W8DYVN-es Moda Zapatos Casuales Femeninos，Zapatillas para Mujer Deportivo Verano Respirable Mocasines Deportes Casual Sandalias，Antideslizantes Zapatilla Malla'
+slug: 'B088W8DYVN-es Moda Zapatos Casuales Femeninos，Zapatillas para Mujer...'
+tags: moda, zapatos, zapatilla
 actualPrice: 4.95 EUR
 currency: EUR
 price: 4.95

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41H1iDxcIxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PSJFS8S-es Kipling Amiel  Bolso de Mano para Mujer  Verde  Seagrass   27x24.5x14.5 centimeters  B x H x T '
+slug: 'B07PSJFS8S-es Kipling Amiel Bolso de Mano para Mujer Verde Seagrass...'
+tags: bolso
 actualPrice: 37.5 EUR
 currency: EUR
 price: 37.5

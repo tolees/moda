@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41G-SI+7QML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079BPZ56N-es Jack & Jones Jjebasic Polo SS Noos - Camiseta para Hombre  Gris  Light Grey Melange   Talla M'
+slug: 'B079BPZ56N-es Jack & Jones Jjebasic Polo SS Noos - Camiseta para Hombre...'
+tags: camiseta
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31kdwwpwUkL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GKWKYX9-es FITTOO Mujeres PU Leggins Cuero Brillante Pantalón Elásticos Pantalones para Mujer200#3 Terciopelo Fino Chica'
+slug: 'B07GKWKYX9-es FITTOO Mujeres PU Leggins Cuero Brillante Pantalón...'
+tags: leggins, pantalón
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

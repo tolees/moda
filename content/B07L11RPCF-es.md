@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/318UJklH22L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L11RPCF-es Under Armour Woven Graphic Short Pantalón Corto  Hombre  Gris  Pitch Gray/Black 013   XL'
+slug: 'B07L11RPCF-es Under Armour Woven Graphic Short Pantalón Corto Hombre...'
+tags: pantalón
 actualPrice: 9.92 EUR
 currency: EUR
 price: 9.92

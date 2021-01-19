@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41IyTLz6WBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0751KQ7VJ-es Vero Moda Vmhot SOYA LS Jacket Mix Noos Chaqueta Vaquera  Gris  Medium Grey Denim   34  Talla del Fabricante: X-Small  para Mujer'
+slug: 'B0751KQ7VJ-es Vero Moda Vmhot SOYA LS Jacket Mix Noos Chaqueta Vaquera...'
+tags: chaqueta, moda
 actualPrice: 21.26 EUR
 currency: EUR
 price: 21.26

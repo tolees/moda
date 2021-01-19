@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41aoO1s6rdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06VVJV5FH-es Momawo | Abrigo Polar de Porteo y Maternidad Multifuncional y Adaptable  Unisex  Ideal para Invierno  Color Negro M'
+slug: 'B06VVJV5FH-es Momawo | Abrigo Polar de Porteo y Maternidad...'
+tags: abrigo
 actualPrice: 48.0 EUR
 currency: EUR
 price: 48.0

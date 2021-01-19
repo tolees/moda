@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41IexPWULsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B67GHDW-es Jack & Jones Jjeholmen Sweat Zip Hood Noos Sudadera  Gris  Dark Grey Melange   X-Large para Hombre'
+slug: 'B07B67GHDW-es Jack & Jones Jjeholmen Sweat Zip Hood Noos Sudadera Gris...'
+tags: sudadera
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

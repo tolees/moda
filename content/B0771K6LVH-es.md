@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/310Dwk1xX7L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0771K6LVH-es NHEIMA Faja Reductora Hombre Adelgazante  Camiseta Termica Chaleco Hombre Trabajo de Neopreno con Cierre para Sudoración  Quema Grasa  Gym  Faja Deportiva Lumbar  XL  Negro-Negro-02 '
+slug: 'B0771K6LVH-es NHEIMA Faja Reductora Hombre Adelgazante Camiseta Termica...'
+tags: camiseta, chaleco
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

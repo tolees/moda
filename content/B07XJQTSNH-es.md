@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/314Qy3FbwuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XJQTSNH-es Desigual Mone adaggio - Monedero con Cremallera para Mujer  Color Blanco  2 x 9 50 x 19 cm'
+slug: 'B07XJQTSNH-es Desigual Mone adaggio - Monedero con Cremallera para Mujer...'
+tags: monedero
 actualPrice: 24.95 EUR
 currency: EUR
 price: 24.95

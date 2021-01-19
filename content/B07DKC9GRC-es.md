@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/410lk0PUAwL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DKC9GRC-es PUMA Essential Crew SWS Big Logo M Sudadera  Hombre  Gris  Medium Gray Heather   L'
+slug: 'B07DKC9GRC-es PUMA Essential Crew SWS Big Logo M Sudadera Hombre Gris...'
+tags: sudadera
 actualPrice: 22.49 EUR
 currency: EUR
 price: 22.49

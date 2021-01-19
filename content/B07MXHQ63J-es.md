@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31TqjhEq23L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MXHQ63J-es Negocios titular de la tarjeta  RFID de lujo de piel y acero inoxidable tarjeteros de billetera para tarjeta de negocios  tarjeta de crédito tarjeta de identificación para Hombre y Muje. ①Negro-Cuero '
+slug: 'B07MXHQ63J-es Negocios titular de la tarjeta RFID de lujo de piel y...'
+tags: billetera
 actualPrice: 10.84 EUR
 currency: EUR
 price: 10.84

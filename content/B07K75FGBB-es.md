@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41FyQpHbIQL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K75FGBB-es Levi s 511 Slim Fit Vaqueros  Aegean Adapt  36W / 36L para Hombre'
+slug: 'B07K75FGBB-es Levi s 511 Slim Fit Vaqueros Aegean Adapt 36W / 36L para...'
+tags: vaqueros
 actualPrice: 57.5 EUR
 currency: EUR
 price: 57.5

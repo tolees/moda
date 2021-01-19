@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31XCDHlO-RL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007O5K7UC-es Arena Spider Jr Gafas de Natación  Unisex niños  Rojo/Negro  Smoke   Universal'
+slug: 'B007O5K7UC-es Arena Spider Jr Gafas de Natación Unisex niños Rojo/Negro...'
+tags: gafas
 actualPrice: 9.25 EUR
 currency: EUR
 price: 9.25

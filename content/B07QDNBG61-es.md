@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41VMu1NcipL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QDNBG61-es Mexx Falda  Multicolor  Floral Printed 318186   36  Talla del Fabricante: 34  para Mujer'
+slug: 'B07QDNBG61-es Mexx Falda Multicolor Floral Printed 318186 36 Talla del...'
+tags: falda
 actualPrice: 9.11 EUR
 currency: EUR
 price: 9.11

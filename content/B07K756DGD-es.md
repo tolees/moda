@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Co-ibECIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K756DGD-es Levi s Original Trucker Chaqueta vaquera  Azul  Soft Ash Butter Dark 0063   Large para Mujer'
+slug: 'B07K756DGD-es Levi s Original Trucker Chaqueta vaquera Azul Soft Ash...'
+tags: chaqueta
 actualPrice: 65.79 EUR
 currency: EUR
 price: 65.79

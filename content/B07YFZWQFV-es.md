@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31FnQ73x+CL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YFZWQFV-es Marca Amazon - find. High Heel Point Court Zapatos de tacón con Punta Cerrada  Beige  Beige  Nude   36 EU'
+slug: 'B07YFZWQFV-es Marca Amazon - find. High Heel Point Court Zapatos de...'
+tags: zapatos, -, find.
 actualPrice: 9.92 EUR
 currency: EUR
 price: 9.92

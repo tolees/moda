@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41qsj8ibGJL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C9PGYQ6-es REPLAY M3594 .000.2660 Camiseta  Gris  Dark Grey Melange M03   Medium para Hombre'
+slug: 'B07C9PGYQ6-es REPLAY M3594 .000.2660 Camiseta Gris Dark Grey Melange M03...'
+tags: camiseta
 actualPrice: 10.58 EUR
 currency: EUR
 price: 10.58

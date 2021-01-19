@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41GRZm1xzmL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00X3JJ5CY-es G-STAR Lynn Mid Skinny Wmn Vaqueros para mujer  color negro  rinsed 082   talla W24/L32'
+slug: 'B00X3JJ5CY-es G-STAR Lynn Mid Skinny Wmn Vaqueros para mujer color negro...'
+tags: vaqueros
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

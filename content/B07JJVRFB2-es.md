@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/3103zuDnl2L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JJVRFB2-es Timberland Adventure 2.0 Cupsole  Zapatillas Altas para Hombre  Marrón  Dark Brown Full Grain   40 EU'
+slug: 'B07JJVRFB2-es Timberland Adventure 2.0 Cupsole Zapatillas Altas para...'
+tags: timberland
 actualPrice: 87 EUR
 currency: EUR
 price: 87

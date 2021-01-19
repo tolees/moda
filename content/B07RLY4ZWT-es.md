@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/410Jji4C7jL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RLY4ZWT-es Tommy Hilfiger Extra Slim Layton Str Burke Blue Vaqueros Straight  Azul  Denim 1bo   W34/L32  Talla del Fabricante: 3234  para Hombre'
+slug: 'B07RLY4ZWT-es Tommy Hilfiger Extra Slim Layton Str Burke Blue Vaqueros...'
+tags: vaqueros
 actualPrice: 49.0 EUR
 currency: EUR
 price: 49.0

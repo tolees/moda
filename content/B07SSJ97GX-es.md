@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416+EghJ+OL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SSJ97GX-es Geox J ALBEN Girl B  Zapatillas de Deporte para Niñas  Azul  Navy/Fuchsia C4268   28 EU'
+slug: 'B07SSJ97GX-es Geox J ALBEN Girl B Zapatillas de Deporte para Niñas Azul...'
+tags: geox
 actualPrice: 24.95 EUR
 currency: EUR
 price: 24.95

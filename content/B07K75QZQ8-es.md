@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/410o7mO7BGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K75QZQ8-es Levi s 501 Original Fit Jeans Pantalón vaquero con diseño clásico y cómodos de usar  Tissue  31W / 34L para Hombre'
+slug: 'B07K75QZQ8-es Levi s 501 Original Fit Jeans Pantalón vaquero con diseño...'
+tags: pantalón
 actualPrice: 39.54 EUR
 currency: EUR
 price: 39.54

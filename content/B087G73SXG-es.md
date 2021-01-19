@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51VYwMRv-1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087G73SXG-es NIGHT CHERRY Mujer Moda Tacón Ancho Botines Cremallera Punta Quadrada Malla Botines Tacón Medio Vestido Zapatos Black Talla 37 Asiática'
+slug: 'B087G73SXG-es NIGHT CHERRY Mujer Moda Tacón Ancho Botines Cremallera...'
+tags: botines, moda, vestido, zapatos
 actualPrice: 51.99 EUR
 currency: EUR
 price: 51.99

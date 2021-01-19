@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41TSvGYYOaL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFZY5WB-es Geox D Myria A  Zapatillas para Mujer  Beige  Champagne/Off White Cb51q   35 EU'
+slug: 'B07LFZY5WB-es Geox D Myria A Zapatillas para Mujer Beige Champagne/Off...'
+tags: geox
 actualPrice: 25.94 EUR
 currency: EUR
 price: 25.94

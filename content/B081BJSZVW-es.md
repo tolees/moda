@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41SKdWY64NL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081BJSZVW-es Columbia Flashback  Chaqueta cortavientos  Hombre  Gris/Negro  City Grey/Negro  Shark    S'
+slug: 'B081BJSZVW-es Columbia Flashback Chaqueta cortavientos Hombre Gris/Negro...'
+tags: chaqueta
 actualPrice: 35.48 EUR
 currency: EUR
 price: 35.48

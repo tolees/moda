@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51m9dYlugBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NDNG56K-es G-STAR RAW Salant Core Round Neck Sudadera  Multicolor  Imperial Blue/Milk Ao 6105   X-Small para Hombre'
+slug: 'B07NDNG56K-es G-STAR RAW Salant Core Round Neck Sudadera Multicolor...'
+tags: sudadera
 actualPrice: 33.5 EUR
 currency: EUR
 price: 33.5

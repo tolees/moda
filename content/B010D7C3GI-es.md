@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/515YRlqSFlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B010D7C3GI-es DSstyles Toalla de Playa Extra Grande Toalla de Viaje Toalla de baño de Microfibra para el SPA de natación Deportes Yoga Toalla de baño Toalla de Mujer de Secado rápido Ultra Ligero - Bikini'
+slug: 'B010D7C3GI-es DSstyles Toalla de Playa Extra Grande Toalla de Viaje...'
+tags: bikini
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41lIpgvez3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PNJJG51-es MTNG Levin  Bolso bandolera para Mujer  Negro  Lis Neg/Leop Cuero   6x15x19 cm  W x H x L '
+slug: 'B07PNJJG51-es MTNG Levin Bolso bandolera para Mujer Negro Lis Neg/Leop...'
+tags: bolso
 actualPrice: 7.73 EUR
 currency: EUR
 price: 7.73

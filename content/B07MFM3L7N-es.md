@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31-XfTwbHVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MFM3L7N-es Clarks Gilman Walk  Zapatos de Cordones Derby para Hombre  Braun Dark Tan Lea  45 EU'
+slug: 'B07MFM3L7N-es Clarks Gilman Walk Zapatos de Cordones Derby para Hombre...'
+tags: zapatos
 actualPrice: 35.37 EUR
 currency: EUR
 price: 35.37

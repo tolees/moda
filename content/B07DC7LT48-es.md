@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21uUK6EpN+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DC7LT48-es Puma Platform Slide Wns  Zapatos de Playa y Piscina para Mujer  Azul  Fair Aqua-Fair Aqua   39 EU'
+slug: 'B07DC7LT48-es Puma Platform Slide Wns Zapatos de Playa y Piscina para...'
+tags: zapatos
 actualPrice: 27.46 EUR
 currency: EUR
 price: 27.46

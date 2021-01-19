@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41uWIycUQfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081B6KSVR-es Columbia Silver Ridge 2.0 Camisa de Manga Larga  Hombre  Azul  Mountain   M'
+slug: 'B081B6KSVR-es Columbia Silver Ridge 2.0 Camisa de Manga Larga Hombre...'
+tags: camisa
 actualPrice: 32.11 EUR
 currency: EUR
 price: 32.11

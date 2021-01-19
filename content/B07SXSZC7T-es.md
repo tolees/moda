@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/519QPENgHWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SXSZC7T-es Geox J Borealis Boy B  Sandalias Punta Cerrada para Niños  Azul  Navy/Orange C0659   32 EU'
+slug: 'B07SXSZC7T-es Geox J Borealis Boy B Sandalias Punta Cerrada para Niños...'
+tags: geox, sandalias
 actualPrice: 26.42 EUR
 currency: EUR
 price: 26.42

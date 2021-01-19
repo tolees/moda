@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41Hp2LcUYdL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RB7T5Q5-es Columbia Powder Lite Hooded Chaqueta De Plumón con Capucha  Hombre  Multicolor  Mountain Red/Collegiate Navy   M'
+slug: 'B07RB7T5Q5-es Columbia Powder Lite Hooded Chaqueta De Plumón con Capucha...'
+tags: chaqueta
 actualPrice: 70.22 EUR
 currency: EUR
 price: 70.22

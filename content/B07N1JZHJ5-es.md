@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/418yDEg8EdL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N1JZHJ5-es Clarks Hamble Oak  Zapatos de Cordones Derby para Mujer  Leopard Print  37.5 EU'
+slug: 'B07N1JZHJ5-es Clarks Hamble Oak Zapatos de Cordones Derby para Mujer...'
+tags: zapatos
 actualPrice: 29.87 EUR
 currency: EUR
 price: 29.87

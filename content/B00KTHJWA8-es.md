@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41R04M4+uxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KTHJWA8-es Under Armour Tech Short Sleeve V-Twist Camiseta  Mujer  Negro  Black/Metallic Silver 001   L'
+slug: 'B00KTHJWA8-es Under Armour Tech Short Sleeve V-Twist Camiseta Mujer...'
+tags: camiseta
 actualPrice: 16.1 EUR
 currency: EUR
 price: 16.1

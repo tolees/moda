@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/417756Td28L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TWXCDQF-es Women s Secret Multilicense College MC DS Stars PJ Conjuntos de Pijama  Beige  Crudo 96   X-Small  Tamaño del Fabricante: XS  para Mujer'
+slug: 'B07TWXCDQF-es Women s Secret Multilicense College MC DS Stars PJ...'
+tags: pijama
 actualPrice: 14.58 EUR
 currency: EUR
 price: 14.58

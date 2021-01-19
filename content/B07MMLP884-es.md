@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/418lO0bL4dL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MMLP884-es Napapijri Aerons Hood 1 Chaqueta  Verde  Green Forest 2 Ge3   XL para Hombre'
+slug: 'B07MMLP884-es Napapijri Aerons Hood 1 Chaqueta Verde Green Forest 2 Ge3...'
+tags: chaqueta
 actualPrice: 99.5 EUR
 currency: EUR
 price: 99.5

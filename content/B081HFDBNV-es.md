@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41oHHm2b71L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081HFDBNV-es FCB Conjunto Camiseta y Pantalón Primera Equipación Infantil TER Stegen del FC Barcelona Producto Oficial Licenciado Temporada 2019-2020 Color Verde  Verde  Talla 12 '
+slug: 'B081HFDBNV-es FCB Conjunto Camiseta y Pantalón Primera Equipación...'
+tags: camiseta, pantalón
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

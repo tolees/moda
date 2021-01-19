@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41sdHD3VwNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RXZZ3YD-es Esprit 999ee2b806 Vaqueros Slim  Azul  Blue Dark Wash 901   W30/L32  Talla del Fabricante: 30/32  para Hombre'
+slug: 'B07RXZZ3YD-es Esprit 999ee2b806 Vaqueros Slim Azul Blue Dark Wash 901...'
+tags: vaqueros
 actualPrice: 35.04 EUR
 currency: EUR
 price: 35.04

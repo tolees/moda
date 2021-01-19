@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31k2ZCcUXFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N48GFVY-es United Colors of Benetton Basico 2 Man Sudadera  Azul  BLU Navy 016   Medium para Hombre'
+slug: 'B07N48GFVY-es United Colors of Benetton Basico 2 Man Sudadera Azul BLU...'
+tags: sudadera
 actualPrice: 39.77 EUR
 currency: EUR
 price: 39.77

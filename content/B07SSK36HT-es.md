@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412s5nOI-HL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SSK36HT-es Geox D Myria C  Zapatillas para Mujer  Negro  Black C9999   38 EU'
+slug: 'B07SSK36HT-es Geox D Myria C Zapatillas para Mujer Negro Black C9999 38 EU'
+tags: geox
 actualPrice: 42.27 EUR
 currency: EUR
 price: 42.27

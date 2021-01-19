@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41P4OP5RwcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DZSXRYW-es Marca Amazon – Goodthreads – Camisa de manga corta y corte estándar a cuadros grandes para hombre  Rosa  Pink Plaid Win   US M  EU M '
+slug: 'B07DZSXRYW-es Marca Amazon – Goodthreads – Camisa de manga corta y corte...'
+tags: camisa
 actualPrice: 5.24 EUR
 currency: EUR
 price: 5.24

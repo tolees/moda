@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31MMCxGCOKL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MQ2JVFF-es Clarks Tunsil Lane  Zapatos de Cordones Derby para Hombre  Azul Navy  46 EU'
+slug: 'B07MQ2JVFF-es Clarks Tunsil Lane Zapatos de Cordones Derby para Hombre...'
+tags: zapatos
 actualPrice: 35.59 EUR
 currency: EUR
 price: 35.59

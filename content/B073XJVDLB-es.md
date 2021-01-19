@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/415tUKdM9GL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073XJVDLB-es Timberland Adventure 2.0 Cupsole  Botas Chukka para Hombre  41 EU'
+slug: 'B073XJVDLB-es Timberland Adventure 2.0 Cupsole Botas Chukka para Hombre...'
+tags: timberland
 actualPrice: 53.62 EUR
 currency: EUR
 price: 53.62

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41UTLdPXxgL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VC1P5V5-es JACK & JONES Jorsprayed Sweat Crew Neck Sudadera  Azul  Sea Moss Fit: Reg/Org   Large para Hombre'
+slug: 'B07VC1P5V5-es JACK & JONES Jorsprayed Sweat Crew Neck Sudadera Azul Sea...'
+tags: sudadera
 actualPrice: 19.81 EUR
 currency: EUR
 price: 19.81

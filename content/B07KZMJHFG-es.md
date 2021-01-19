@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31csd43MqNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KZMJHFG-es Ever-Pretty A-línea Vestido de Fiesta Gasa Cuello en V sin Mangas Largo para Mujer Verde Oscuro 54'
+slug: 'B07KZMJHFG-es Ever-Pretty A-línea Vestido de Fiesta Gasa Cuello en V sin...'
+tags: vestido
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

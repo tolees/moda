@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Fmf6qtEiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00B3Z2R4I-es Nike Benassi Jdi  Chanclas Unisex Adulto  Negro  Black/White   41 EU'
+slug: 'B00B3Z2R4I-es Nike Benassi Jdi Chanclas Unisex Adulto Negro Black/White...'
+tags: chanclas
 actualPrice: 11.01 EUR
 currency: EUR
 price: 11.01

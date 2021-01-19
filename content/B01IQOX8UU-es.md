@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41RJJrM0oPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IQOX8UU-es Desconocido Botas Zapatos Fashion Princesa Encaje PU para Muñecas Chicas Americanas 18 Pulgadas - Rosa'
+slug: 'B01IQOX8UU-es Desconocido Botas Zapatos Fashion Princesa Encaje PU para...'
+tags: zapatos
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

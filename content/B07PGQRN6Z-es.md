@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Q8o5t+tCL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PGQRN6Z-es XTI 49285  Botines para Mujer  Blanco  39 EU'
+slug: 'B07PGQRN6Z-es XTI 49285 Botines para Mujer Blanco 39 EU'
+tags: botines
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

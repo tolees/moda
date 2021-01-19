@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/511kgoafOSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CP05DFE-es Eshow Bolso Bandolera a Hombro para Mujeres de Tela de Lona Bolso de Mano Shoppers Viaje Casual'
+slug: 'B01CP05DFE-es Eshow Bolso Bandolera a Hombro para Mujeres de Tela de...'
+tags: bolso
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

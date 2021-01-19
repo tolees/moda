@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/517DB7PH9IL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RM1MGBN-es BAIGIO Maletín de Cuero Genuino Vintage  Bolso Hombre Bandolera Maletines Mensajero de Auténtica Piel Hombre para Portatil hasta 13 3 Pulgadas para Negocios Oficina Trabajo Viajes  Marrón '
+slug: 'B07RM1MGBN-es BAIGIO Maletín de Cuero Genuino Vintage Bolso Hombre...'
+tags: bolso
 actualPrice: 39.58 EUR
 currency: EUR
 price: 39.58

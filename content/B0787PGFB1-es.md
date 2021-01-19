@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41NHCCKZ8QL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0787PGFB1-es Crocs Swiftwater Sandal Women  Sandalias con Punta Abierta para Mujer  Azul  Navy/White 462B   37/38 EU'
+slug: 'B0787PGFB1-es Crocs Swiftwater Sandal Women Sandalias con Punta Abierta...'
+tags: sandalias
 actualPrice: 24.49 EUR
 currency: EUR
 price: 24.49

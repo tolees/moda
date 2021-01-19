@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41T%2BorE35JL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J29S7GG-es JACK & JONES Jcoalu Jacket Noos Chaqueta  Gris  Light Grey Melange Light Grey Melange   X-Large para Hombre'
+slug: 'B07J29S7GG-es JACK & JONES Jcoalu Jacket Noos Chaqueta Gris Light Grey...'
+tags: chaqueta
 actualPrice: 18 EUR
 currency: EUR
 price: 18

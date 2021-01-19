@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51k7mUUUQiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z7WNS3W-es Zacro Gafas Esquí Snowboard para Niño Joven  con Máscara Esquí y Bolsa Portable OTG 100% UV400 Protección Gafas de Esquí Antideslizante Anti-Niebla y Anti-Nieve Coloridos'
+slug: 'B07Z7WNS3W-es Zacro Gafas Esquí Snowboard para Niño Joven con Máscara...'
+tags: gafas
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

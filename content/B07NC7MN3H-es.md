@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41Q1An6Oy8L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NC7MN3H-es Pepe Jeans Stanley Vaqueros Straight  Azul  Medium Destroy Wiser Wash Denim Wy2   38W / 32L para Hombre'
+slug: 'B07NC7MN3H-es Pepe Jeans Stanley Vaqueros Straight Azul Medium Destroy...'
+tags: vaqueros
 actualPrice: 65.99 EUR
 currency: EUR
 price: 65.99

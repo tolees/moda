@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41JUBrLPxTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DFL9X2L-es Tommy Hilfiger Cheeky String Side Tie Bikini Braguita  Verde  Pondarosa Pine 300   40  Talla del Fabricante: Medium  para Mujer'
+slug: 'B07DFL9X2L-es Tommy Hilfiger Cheeky String Side Tie Bikini Braguita...'
+tags: bikini
 actualPrice: 20.95 EUR
 currency: EUR
 price: 20.95

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31crcd8-ZQL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JW4YBPS-es Hackett London Tie Placket Oxford Camisa  Blanco  White 800   L para Hombre'
+slug: 'B07JW4YBPS-es Hackett London Tie Placket Oxford Camisa Blanco White 800...'
+tags: camisa
 actualPrice: 92.51 EUR
 currency: EUR
 price: 92.51

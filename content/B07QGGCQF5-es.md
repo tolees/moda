@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41DP226tQDL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QGGCQF5-es Rockport Briah Perforated Sling Back  Sandalias de Plataforma para Mujer  Marrón  Tan Leather 003   39.5 EU'
+slug: 'B07QGGCQF5-es Rockport Briah Perforated Sling Back Sandalias de...'
+tags: sandalias
 actualPrice: 14.82 EUR
 currency: EUR
 price: 14.82

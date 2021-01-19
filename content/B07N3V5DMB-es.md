@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ROucU+b5L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N3V5DMB-es Desigual T-Shirt Julieta Camiseta   Rojo Oscuro 3029   XS para Mujer'
+slug: 'B07N3V5DMB-es Desigual T-Shirt Julieta Camiseta Rojo Oscuro 3029 XS para...'
+tags: camiseta
 actualPrice: 22.9 EUR
 currency: EUR
 price: 22.9

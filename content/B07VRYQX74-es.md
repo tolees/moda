@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41A-mKx98bL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VRYQX74-es Calvin Klein Hip Brief 2pk Boxer  Negro  Black with/White WB Bnm   X-Large para Hombre'
+slug: 'B07VRYQX74-es Calvin Klein Hip Brief 2pk Boxer Negro Black with/White WB...'
+tags: boxer
 actualPrice: 13.74 EUR
 currency: EUR
 price: 13.74

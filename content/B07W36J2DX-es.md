@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41EIwdtegUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W36J2DX-es Skechers Energy-Retro Vision  Sandalias con Punta Cerrada para Mujer  Negro Cuero Rojo Blanco Trim BKW  39 EU'
+slug: 'B07W36J2DX-es Skechers Energy-Retro Vision Sandalias con Punta Cerrada...'
+tags: sandalias
 actualPrice: 24.19 EUR
 currency: EUR
 price: 24.19

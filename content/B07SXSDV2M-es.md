@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Bf7ZW2ObL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SXSDV2M-es Geox U Wells C  Zapatillas para Hombre  Azul  Lt Avio C4348   41 EU'
+slug: 'B07SXSDV2M-es Geox U Wells C Zapatillas para Hombre Azul Lt Avio C4348...'
+tags: geox
 actualPrice: 57.49 EUR
 currency: EUR
 price: 57.49

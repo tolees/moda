@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41tGWZ0i3dL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076X4T5XB-es Geox UOMO Sandal Strada D  Sandalia con Pulsera para Hombre  Azul  Navy/Dk Grey   41 EU'
+slug: 'B076X4T5XB-es Geox UOMO Sandal Strada D Sandalia con Pulsera para Hombre...'
+tags: geox
 actualPrice: 48.97 EUR
 currency: EUR
 price: 48.97

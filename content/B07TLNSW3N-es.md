@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31DmNiQFyaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TLNSW3N-es G-STAR RAW Graphic 15 Hooded Sudadera  Multicolor  Dk Black/White/Port Red B370   X-Small para Hombre'
+slug: 'B07TLNSW3N-es G-STAR RAW Graphic 15 Hooded Sudadera Multicolor Dk...'
+tags: sudadera
 actualPrice: 29.32 EUR
 currency: EUR
 price: 29.32

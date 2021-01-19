@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ZEl6V0vEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BZN1AS6-es SOLS- Camiseta de Manga Corta para niñas  10 años   Azul Agua '
+slug: 'B01BZN1AS6-es SOLS- Camiseta de Manga Corta para niñas 10 años Azul Agua'
+tags: camiseta
 actualPrice: 3.95 EUR
 currency: EUR
 price: 3.95

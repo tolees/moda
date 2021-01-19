@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31vRm97cIDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MYQF5U4-es Wrangler Texas Tonal Vaqueros  Azul  Blue Stroke   30W / 32L para Hombre'
+slug: 'B01MYQF5U4-es Wrangler Texas Tonal Vaqueros Azul Blue Stroke 30W / 32L...'
+tags: vaqueros
 actualPrice: 28.92 EUR
 currency: EUR
 price: 28.92

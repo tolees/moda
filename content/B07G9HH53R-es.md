@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/317ZERlR9eL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G9HH53R-es Joma Race Chaqueta y Chaleco Cabal  Hombre  Negro  S'
+slug: 'B07G9HH53R-es Joma Race Chaqueta y Chaleco Cabal Hombre Negro S'
+tags: chaleco, chaqueta
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31T93Zu+i9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KPYPWT1-es Ever-Pretty Vestido de Boda Encaje Gasa Cuello Redondo Corte Imperio A-línea para Mujer Blanco 54'
+slug: 'B07KPYPWT1-es Ever-Pretty Vestido de Boda Encaje Gasa Cuello Redondo...'
+tags: vestido
 actualPrice: 68.99 EUR
 currency: EUR
 price: 68.99

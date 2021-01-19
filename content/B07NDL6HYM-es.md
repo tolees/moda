@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41iHLafwylL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NDL6HYM-es G-STAR RAW Whistler Down Parka  Gris  Asfalt 995   XX-Small para Hombre'
+slug: 'B07NDL6HYM-es G-STAR RAW Whistler Down Parka Gris Asfalt 995 XX-Small...'
+tags: parka
 actualPrice: 74.68 EUR
 currency: EUR
 price: 74.68

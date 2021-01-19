@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31Cw1lO9mLL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NDL6Z8G-es G-STAR RAW Rovic Wrap Cargo Falda  Gris  Asfalt B436-995   XXS para Mujer'
+slug: 'B07NDL6Z8G-es G-STAR RAW Rovic Wrap Cargo Falda Gris Asfalt B436-995 XXS...'
+tags: falda
 actualPrice: 19.13 EUR
 currency: EUR
 price: 19.13

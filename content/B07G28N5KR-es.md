@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41fIY6nPxoL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G28N5KR-es AURIQUE Half Zip Sports Chaqueta  Rojo  Port Royale   44  Talla del Fabricante: X-Large '
+slug: 'B07G28N5KR-es AURIQUE Half Zip Sports Chaqueta Rojo Port Royale 44 Talla...'
+tags: aurique, chaqueta
 actualPrice: 15 EUR
 currency: EUR
 price: 15

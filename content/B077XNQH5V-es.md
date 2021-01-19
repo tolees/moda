@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ee7qqNADL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077XNQH5V-es Under Armour Vanish Seamless Short Sleeve Camiseta  Hombre  Azul  Academy/Graphite 408   S'
+slug: 'B077XNQH5V-es Under Armour Vanish Seamless Short Sleeve Camiseta Hombre...'
+tags: camiseta
 actualPrice: 19.89 EUR
 currency: EUR
 price: 19.89

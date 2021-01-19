@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41BCxgpIuDL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SPPZ93R-es Flintronic® Cartera Tarjeta de Crédito  Slim Billetera Hombre de Piel Auténtica  Cartera de Bolsillo para Hombres  1 Compartimento con Cremallera  6 Ranuras para Tarjetas y 1 ID/Ventana de Foto '
+slug: 'B07SPPZ93R-es Flintronic® Cartera Tarjeta de Crédito Slim Billetera...'
+tags: billetera
 actualPrice: 10.49 EUR
 currency: EUR
 price: 10.49

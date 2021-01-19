@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/415SlTrDdrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078T2KKG2-es PUMA Liga JS Striped Jersey de Fútbol de Rayas  Hombre  Verde  Pepper Green/White   3XL'
+slug: 'B078T2KKG2-es PUMA Liga JS Striped Jersey de Fútbol de Rayas Hombre...'
+tags: jersey
 actualPrice: 7.91 EUR
 currency: EUR
 price: 7.91

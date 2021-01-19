@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41tM7s2oSFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H92LPHW-es Gennia RESPIRO. - Zapatos de Tacon de Aguja 9 cm con Punta Fina Cerrada para Mujer y Cierre con Hebilla Metalica  Piel Ante Rojo Tristan  Talla 40'
+slug: 'B07H92LPHW-es Gennia RESPIRO. - Zapatos de Tacon de Aguja 9 cm con Punta...'
+tags: zapatos
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

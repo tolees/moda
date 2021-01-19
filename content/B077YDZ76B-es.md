@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41rgWEVJtGL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B077YDZ76B-es HIKARO Parka Corta Hombre  Beige  Stone   48  Talla del fabricante: Small '
+slug: 'B077YDZ76B-es HIKARO Parka Corta Hombre Beige Stone 48 Talla del...'
+tags: parka
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

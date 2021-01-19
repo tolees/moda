@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/3109PECiAmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079G3TQP5-es Timberland SS Dunstan River Pocket Slim tee Camiseta  Blanco  White 100   XX-Large para Hombre'
+slug: 'B079G3TQP5-es Timberland SS Dunstan River Pocket Slim tee Camiseta...'
+tags: camiseta, timberland
 actualPrice: 12.5 EUR
 currency: EUR
 price: 12.5

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41z5ESZg0wL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JJ54FSV-es Amazon Essentials - Camisa a cuadros de lino con manga corta para hombre.  Raya Azul  US S  EU S '
+slug: 'B07JJ54FSV-es Amazon Essentials - Camisa a cuadros de lino con manga...'
+tags: camisa
 actualPrice: 4.19 EUR
 currency: EUR
 price: 4.19

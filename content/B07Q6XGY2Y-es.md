@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41rHFwV8geL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q6XGY2Y-es SALOMON Coton Logo SS tee M Camiseta Deportiva de Manga Corta  Algodón  Hombre  Azul  Poseidon   S'
+slug: 'B07Q6XGY2Y-es SALOMON Coton Logo SS tee M Camiseta Deportiva de Manga...'
+tags: camiseta
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

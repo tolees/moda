@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41OioAivifL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RGTY2TF-es New Balance 410v6 Trail  Zapatos para Correr para Mujer  Negro  Black Cm6   35 EU'
+slug: 'B07RGTY2TF-es New Balance 410v6 Trail Zapatos para Correr para Mujer...'
+tags: zapatos
 actualPrice: 31.93 EUR
 currency: EUR
 price: 31.93

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/415+57J9MYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V1J9F9Z-es BOSS Brief 3p Co/El Bóxer  Multicolor  Open Miscellaneous 967   L  Pack de 3  para Hombre'
+slug: 'B07V1J9F9Z-es BOSS Brief 3p Co/El Bóxer Multicolor Open Miscellaneous...'
+tags: bóxer
 actualPrice: 18.98 EUR
 currency: EUR
 price: 18.98

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41gJBmz4mrL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JYVZBGV-es Tommy Hilfiger Ivan Quilted Bomber Jacket Chaqueta  Azul  Sky Captain 403   Medium para Mujer'
+slug: 'B07JYVZBGV-es Tommy Hilfiger Ivan Quilted Bomber Jacket Chaqueta Azul...'
+tags: chaqueta
 actualPrice: 160.95 EUR
 currency: EUR
 price: 160.95

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+cNgVBTdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00SX272VC-es Calvin Klein Modern Cotton-Bralette Braguita de bikini  Gris  Grey Heather 020   Large para Mujer'
+slug: 'B00SX272VC-es Calvin Klein Modern Cotton-Bralette Braguita de bikini...'
+tags: bikini
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

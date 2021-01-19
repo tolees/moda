@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41UuArYuM5L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N4PY27Y-es SAGUARO Hombre Mujer Barefoot Zapatillas de Trail Running Minimalistas Zapatillas de Deporte Fitness Gimnasio Caminar Zapatos Descalzos para Correr en Montaña Asfalto Escarpines de Agua  Azul  40 EU'
+slug: 'B07N4PY27Y-es SAGUARO Hombre Mujer Barefoot Zapatillas de Trail Running...'
+tags: zapatos
 actualPrice: 28.04 EUR
 currency: EUR
 price: 28.04

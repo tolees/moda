@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31bnSbWjOqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DX43GFB-es Caterpillar Intent  Zapatos de Cordones Derby para Hombre  Marrón  Beaned 0   40 EU'
+slug: 'B07DX43GFB-es Caterpillar Intent Zapatos de Cordones Derby para Hombre...'
+tags: zapatos
 actualPrice: 23.52 EUR
 currency: EUR
 price: 23.52

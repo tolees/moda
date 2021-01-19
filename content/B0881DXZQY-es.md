@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51i0IIROhSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0881DXZQY-es HAOYE Funda para Sony Xperia L4 Funda  Suave PU Cuero Flip Carcasa Case Cover  Cubierta Magnética en Relieve de la Mandala  Billetera con Soporte/Tapa Tarjetas. Azul'
+slug: 'B0881DXZQY-es HAOYE Funda para Sony Xperia L4 Funda Suave PU Cuero Flip...'
+tags: billetera
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

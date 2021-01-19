@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41cf4D5GcXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VQ74DZR-es Tommy Hilfiger Arch tee Camiseta Deporte  Azul  Desert Sky   Medium para Hombre'
+slug: 'B07VQ74DZR-es Tommy Hilfiger Arch tee Camiseta Deporte Azul Desert Sky...'
+tags: camiseta
 actualPrice: 14.66 EUR
 currency: EUR
 price: 14.66

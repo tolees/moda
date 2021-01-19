@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31dS4rjP96L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JGSNKKW-es Pepe Jeans Finsbury Pm200338 Vaqueros Skinny   Grey Wiser Wash Denim Wu5   W34/L34 para Hombre'
+slug: 'B07JGSNKKW-es Pepe Jeans Finsbury Pm200338 Vaqueros Skinny Grey Wiser...'
+tags: vaqueros
 actualPrice: 45.0 EUR
 currency: EUR
 price: 45.0

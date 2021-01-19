@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/311v6l56o3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N18JRJ3-es G-STAR RAW Midge Cody Mid-Waist Skinny Vaqueros  Negro  Pitch Black B964-A810   25W / 32L para Mujer'
+slug: 'B07N18JRJ3-es G-STAR RAW Midge Cody Mid-Waist Skinny Vaqueros Negro...'
+tags: vaqueros
 actualPrice: 19.14 EUR
 currency: EUR
 price: 19.14

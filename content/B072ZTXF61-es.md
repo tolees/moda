@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41nxjhZNKyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072ZTXF61-es Champion Classic Logo Camiseta  Rojo  M para Hombre'
+slug: 'B072ZTXF61-es Champion Classic Logo Camiseta Rojo M para Hombre'
+tags: camiseta
 actualPrice: 13.93 EUR
 currency: EUR
 price: 13.93

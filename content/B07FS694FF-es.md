@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41iRY5GdssL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FS694FF-es 52W Lámpara LED UV Uñas para Manicura/Pedicura con 4 Temporizadores  Sensor Automático  Pantalla LCD  Se Ofrecen Guantes Anti-UV '
+slug: 'B07FS694FF-es 52W Lámpara LED UV Uñas para Manicura/Pedicura con 4...'
+tags: guantes
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

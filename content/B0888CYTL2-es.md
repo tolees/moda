@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/415fqCOLvKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0888CYTL2-es SINOES 270 2020 Hombre de Zapatos Deportivos Correr Caminar Gimnasio Ocasional Deportivos Flyknit Tennis Sports Zapatillas'
+slug: 'B0888CYTL2-es SINOES 270 2020 Hombre de Zapatos Deportivos Correr...'
+tags: zapatos
 actualPrice: 23.88 EUR
 currency: EUR
 price: 23.88

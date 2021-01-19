@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Dvf2OdNQL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZKXHN6V-es Charles Wilson Sudadera con Cremallera Completa con Capucha Peso Intermedio  Small  Dark Port  1019  '
+slug: 'B07ZKXHN6V-es Charles Wilson Sudadera con Cremallera Completa con...'
+tags: sudadera
 actualPrice: 24.95 EUR
 currency: EUR
 price: 24.95

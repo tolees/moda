@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/419U7ML5z8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XPMN3CN-es Marca Amazon - find. Pantalón Fruncido para Mujer  Rosa  Pink   40  Label: M'
+slug: 'B06XPMN3CN-es Marca Amazon - find. Pantalón Fruncido para Mujer Rosa...'
+tags: pantalón, -, find.
 actualPrice: 3.92 EUR
 currency: EUR
 price: 3.92

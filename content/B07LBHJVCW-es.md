@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41gj9ggSLnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LBHJVCW-es Helly Hansen Squamish 3-In-1 Desmontable & Aislante Chaqueta Impermeable  Hombre  North Sea Blue  S'
+slug: 'B07LBHJVCW-es Helly Hansen Squamish 3-In-1 Desmontable & Aislante...'
+tags: chaqueta
 actualPrice: 133.0 EUR
 currency: EUR
 price: 133.0

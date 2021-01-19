@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41JIQO6G19L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z6RMFLY-es GettyGears Bolero - Chaqueta de piel sintética con broche de princesa  para vestido de niña de las flores  abrigo de hombros - Blanco - 6-8 años'
+slug: 'B07Z6RMFLY-es GettyGears Bolero - Chaqueta de piel sintética con broche...'
+tags: abrigo, chaqueta, vestido
 actualPrice: 32.9 EUR
 currency: EUR
 price: 32.9

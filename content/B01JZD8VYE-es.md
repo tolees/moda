@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/419wXeg9NSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01JZD8VYE-es BOSS Trunk CO/EL Bóxer  Negro  Black 001   XX-Large  Pack de 3  para Hombre'
+slug: 'B01JZD8VYE-es BOSS Trunk CO/EL Bóxer Negro Black 001 XX-Large Pack de 3...'
+tags: bóxer
 actualPrice: 18.31 EUR
 currency: EUR
 price: 18.31

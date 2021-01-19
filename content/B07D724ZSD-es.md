@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41vMA%2BHQQ0L._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D724ZSD-es Levi s Type 3 Sherpa Trucker Chaqueta  Negro  Black Cord Better 0068   Large para Hombre'
+slug: 'B07D724ZSD-es Levi s Type 3 Sherpa Trucker Chaqueta Negro Black Cord...'
+tags: chaqueta
 actualPrice: 64.49 EUR
 currency: EUR
 price: 64.49

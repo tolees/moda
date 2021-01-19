@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51T5MDh9%2BAL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W5LLG35-es BestoU Monedero de Embrague Clutch Bolso de Noche Bolso Bandolera Bolsos de Mujer Envelope Bolso de Mano de Mujer Bolso de La Tarde de Las Boda Del Para La Muchacha  Negro '
+slug: 'B07W5LLG35-es BestoU Monedero de Embrague Clutch Bolso de Noche Bolso...'
+tags: bolso, monedero
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

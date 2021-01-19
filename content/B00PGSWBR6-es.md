@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zSNTu6AbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00PGSWBR6-es Camiseta de manga corta con cuello en V para mujer  varios colores S-3X -  Azul -  Small'
+slug: 'B00PGSWBR6-es Camiseta de manga corta con cuello en V para mujer varios...'
+tags: camiseta
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

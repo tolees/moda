@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41qCZJHv1uL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MMWP8B8-es Wrangler LS Western Shirt Camisa  Azul  Navy 114   Medium para Hombre'
+slug: 'B07MMWP8B8-es Wrangler LS Western Shirt Camisa Azul Navy 114 Medium para...'
+tags: camisa
 actualPrice: 29.98 EUR
 currency: EUR
 price: 29.98

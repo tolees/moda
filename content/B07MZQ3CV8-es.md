@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51AA4ebDs3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZQ3CV8-es Pepe Jeans Freya Blusa  Multicolor  Multi 0aa   Medium para Mujer'
+slug: 'B07MZQ3CV8-es Pepe Jeans Freya Blusa Multicolor Multi 0aa Medium para Mujer'
+tags: blusa
 actualPrice: 41.94 EUR
 currency: EUR
 price: 41.94

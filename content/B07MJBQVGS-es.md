@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41VsoMG7-KL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MJBQVGS-es Cerdá Pijama Corto Algodón Avengers Conjuntos  Gris  Gris C13   4 para Niños'
+slug: 'B07MJBQVGS-es Cerdá Pijama Corto Algodón Avengers Conjuntos Gris Gris...'
+tags: pijama
 actualPrice: 6.4 EUR
 currency: EUR
 price: 6.4

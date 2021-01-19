@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/312mgOE0ajL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JY8BBL1-es Lee Malone Vaqueros Skinny  Negro  Black Rinse 47   26W / 32L para Hombre'
+slug: 'B07JY8BBL1-es Lee Malone Vaqueros Skinny Negro Black Rinse 47 26W / 32L...'
+tags: vaqueros
 actualPrice: 42.5 EUR
 currency: EUR
 price: 42.5

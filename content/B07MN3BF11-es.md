@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41YfPrdLLWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MN3BF11-es Lee Malone Vaqueros  Vintage Dixon BH  27W / 32L para Hombre'
+slug: 'B07MN3BF11-es Lee Malone Vaqueros Vintage Dixon BH 27W / 32L para Hombre'
+tags: vaqueros
 actualPrice: 17.31 EUR
 currency: EUR
 price: 17.31

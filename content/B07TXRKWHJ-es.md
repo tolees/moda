@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ALgIfODOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TXRKWHJ-es Wrangler SS 2 Pkt Flap Shirt Camisa  Azul  Cerulean Blue Xvt   Large para Hombre'
+slug: 'B07TXRKWHJ-es Wrangler SS 2 Pkt Flap Shirt Camisa Azul Cerulean Blue Xvt...'
+tags: camisa
 actualPrice: 20.51 EUR
 currency: EUR
 price: 20.51

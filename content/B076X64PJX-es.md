@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41dZDiQraRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076X64PJX-es Geox U Wells C  Zapatillas para Hombre  Azul  Dark Navy   45 EU'
+slug: 'B076X64PJX-es Geox U Wells C Zapatillas para Hombre Azul Dark Navy 45 EU'
+tags: geox
 actualPrice: 65.4 EUR
 currency: EUR
 price: 65.4

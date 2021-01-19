@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416WG3lsPFL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NS7CGF9-es Marco Tozzi 2-2-22416-33  Zapatos de Tacón para Mujer  Marrón  Muscat Multi 338   38 EU'
+slug: 'B07NS7CGF9-es Marco Tozzi 2-2-22416-33 Zapatos de Tacón para Mujer...'
+tags: zapatos
 actualPrice: 15.95 EUR
 currency: EUR
 price: 15.95

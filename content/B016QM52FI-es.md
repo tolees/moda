@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Qi6eFTh7L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B016QM52FI-es Tommy Hilfiger Core Stretch Slim CNECK tee Camiseta  Negro  Flag Black 083   Small para Hombre'
+slug: 'B016QM52FI-es Tommy Hilfiger Core Stretch Slim CNECK tee Camiseta Negro...'
+tags: camiseta
 actualPrice: 33.77 EUR
 currency: EUR
 price: 33.77

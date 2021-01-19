@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31qloCGMkPL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B015E9HNE2-es Ermenegildo Zegna Sonnenbrille EZ0020 Gafas de Sol  Marrón  Braun   54.0 para Hombre'
+slug: 'B015E9HNE2-es Ermenegildo Zegna Sonnenbrille EZ0020 Gafas de Sol Marrón...'
+tags: gafas
 actualPrice: 30.89 EUR
 currency: EUR
 price: 30.89

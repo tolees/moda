@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31VYv7VqivL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NDPCF7T-es TBS Tansley  Zapatos de Cordones Oxford para Hombre  Marrón  Ebene B8015   42 EU'
+slug: 'B07NDPCF7T-es TBS Tansley Zapatos de Cordones Oxford para Hombre Marrón...'
+tags: zapatos
 actualPrice: 23.58 EUR
 currency: EUR
 price: 23.58

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41vw3vfPfdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TNS23PR-es Superdry OL Vintage Emb Crew Camiseta  Gris  Silver Glass Feeder 9st   L para Hombre'
+slug: 'B07TNS23PR-es Superdry OL Vintage Emb Crew Camiseta Gris Silver Glass...'
+tags: camiseta
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

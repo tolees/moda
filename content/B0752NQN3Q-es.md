@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41oHw2BJNCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0752NQN3Q-es G-STAR RAW 3301 Loose Vaqueros  Medium Aged 9299-071  38W / 38L para Hombre'
+slug: 'B0752NQN3Q-es G-STAR RAW 3301 Loose Vaqueros Medium Aged 9299-071 38W /...'
+tags: vaqueros
 actualPrice: 64.99 EUR
 currency: EUR
 price: 64.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41bsnMfXsZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TMHG9WX-es Levi s The Original tee Camiseta  Gris  Cotton + Patch Medium Grey Heather Emb 0015   Small para Hombre'
+slug: 'B07TMHG9WX-es Levi s The Original tee Camiseta Gris Cotton + Patch...'
+tags: camiseta
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41GiX8KuV0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RWKXSQF-es BILLABONG Alves Jacket Chaqueta Deportiva  Verde  Dark Military 896   One Size  Tamaño del Fabricante: XL  para Hombre'
+slug: 'B07RWKXSQF-es BILLABONG Alves Jacket Chaqueta Deportiva Verde Dark...'
+tags: chaqueta
 actualPrice: 45.68 EUR
 currency: EUR
 price: 45.68

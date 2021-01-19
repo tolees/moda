@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41jNDatDqYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JC2HT3C-es Columbia Lay D Down II Chaqueta  Mujer  Negro  Black 011   M'
+slug: 'B07JC2HT3C-es Columbia Lay D Down II Chaqueta Mujer Negro Black 011 M'
+tags: chaqueta
 actualPrice: 102.23 EUR
 currency: EUR
 price: 102.23

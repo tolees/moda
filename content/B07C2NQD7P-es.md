@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51+YumDCQKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C2NQD7P-es Reloj para Hombres  Relojes Deportivo de Cuarzo analógico Impermeable para Hombre Relojes LIGE Lujoso Cronógrafo para Hombre  Moda Casual Reloj Redondo Negro Fecha'
+slug: 'B07C2NQD7P-es Reloj para Hombres Relojes Deportivo de Cuarzo analógico...'
+tags: moda
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

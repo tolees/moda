@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4137ccisw7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HKJQBGN-es Under Armour UA Jet  Zapatos de Baloncesto para Hombre  Negro  Black/Pitch Gray/Halo Gray  001  001   40.5 EU'
+slug: 'B07HKJQBGN-es Under Armour UA Jet Zapatos de Baloncesto para Hombre...'
+tags: zapatos
 actualPrice: 50.0 EUR
 currency: EUR
 price: 50.0

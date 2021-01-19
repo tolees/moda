@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41rrFPgLlkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KR7KD5G-es Under Armour UA Speed Stride Printed SS Camiseta  Hombre  Negro  Black/Black/Reflective 001   M'
+slug: 'B07KR7KD5G-es Under Armour UA Speed Stride Printed SS Camiseta Hombre...'
+tags: camiseta
 actualPrice: 20.97 EUR
 currency: EUR
 price: 20.97

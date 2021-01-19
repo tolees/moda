@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41xx9Xl1MQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VMV15GH-es Lee Daren Button Fly Vaqueros Straight  Azul  Dk Clean Foam EK   32W x 34L para Hombre'
+slug: 'B07VMV15GH-es Lee Daren Button Fly Vaqueros Straight Azul Dk Clean Foam...'
+tags: vaqueros
 actualPrice: 53.99 EUR
 currency: EUR
 price: 53.99

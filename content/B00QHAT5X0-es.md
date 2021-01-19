@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41x2KYJoOOL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00QHAT5X0-es Under Armour UA CG Armour Mock Camiseta de Manga Larga  Hombre  Rojo  Red/Steel 600   M'
+slug: 'B00QHAT5X0-es Under Armour UA CG Armour Mock Camiseta de Manga Larga...'
+tags: camiseta
 actualPrice: 30.7 EUR
 currency: EUR
 price: 30.7

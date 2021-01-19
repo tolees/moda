@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41sAl5s-RSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SD93BLH-es Helly Hansen HP Fleece Jacket Chaqueta  Hombre  Royal Blue  M'
+slug: 'B07SD93BLH-es Helly Hansen HP Fleece Jacket Chaqueta Hombre Royal Blue M'
+tags: chaqueta
 actualPrice: 78.98 EUR
 currency: EUR
 price: 78.98

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41RgSa2CCjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LG1KPHT-es Geox B Kaytan B  Zapatillas para Bebés  Azul  Navy C4002   22 EU'
+slug: 'B07LG1KPHT-es Geox B Kaytan B Zapatillas para Bebés Azul Navy C4002 22 EU'
+tags: geox
 actualPrice: 17.58 EUR
 currency: EUR
 price: 17.58

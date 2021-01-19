@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/3190+6hCzhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084BDLKVV-es Cerdá Zapatilla Deportiva Blanca de Minnie Mouse para Niña  Niñas  26 EU'
+slug: 'B084BDLKVV-es Cerdá Zapatilla Deportiva Blanca de Minnie Mouse para Niña...'
+tags: zapatilla
 actualPrice: 18.04 EUR
 currency: EUR
 price: 18.04

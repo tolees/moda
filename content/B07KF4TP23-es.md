@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41F1C28NArL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KF4TP23-es Levi s The Perfect Tee  Camiseta  Mujer  Rojo  Sptwr Logo Brilliant Red 0621   M'
+slug: 'B07KF4TP23-es Levi s The Perfect Tee Camiseta Mujer Rojo Sptwr Logo...'
+tags: camiseta
 actualPrice: 17.5 EUR
 currency: EUR
 price: 17.5

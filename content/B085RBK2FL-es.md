@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/415NtN2PEKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085RBK2FL-es Gafas Protectoras  Gafas Protectoras de Seguridad  Gafas Protectoras Transpirables a Prueba de Polvo para Laboratorio  Agricultura  Industria'
+slug: 'B085RBK2FL-es Gafas Protectoras Gafas Protectoras de Seguridad Gafas...'
+tags: gafas
 actualPrice: 5.46 EUR
 currency: EUR
 price: 5.46

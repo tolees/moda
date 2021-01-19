@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31vc-suq0qL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VFDHXDL-es JACK & JONES Mike Original Jos 697 I.k Vaqueros  Black Denim  28W / 32L para Hombre'
+slug: 'B07VFDHXDL-es JACK & JONES Mike Original Jos 697 I.k Vaqueros Black...'
+tags: vaqueros
 actualPrice: 18.32 EUR
 currency: EUR
 price: 18.32

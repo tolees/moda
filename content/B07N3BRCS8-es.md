@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41qIhmqbC8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N3BRCS8-es Desigual Dress LORETHA Vestido  Negro  Negro 2000   46 para Mujer'
+slug: 'B07N3BRCS8-es Desigual Dress LORETHA Vestido Negro Negro 2000 46 para Mujer'
+tags: vestido
 actualPrice: 40.0 EUR
 currency: EUR
 price: 40.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41aMAKgu6rL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JH3FVZV-es Pepe Jeans Duff Chest Logo T Camiseta  Gris  Grey Marl 933   Small para Hombre'
+slug: 'B07JH3FVZV-es Pepe Jeans Duff Chest Logo T Camiseta Gris Grey Marl 933...'
+tags: camiseta
 actualPrice: 15.33 EUR
 currency: EUR
 price: 15.33

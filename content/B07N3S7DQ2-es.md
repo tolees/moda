@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41g1ugdG4ZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N3S7DQ2-es Bright Deer Vestido de Fiesta Boda Noche Cóctel Graduación Midi de Encaje Festoneado con Hombros Descubiertos y Bajo Asimétrico para Mujer 38 S Vino'
+slug: 'B07N3S7DQ2-es Bright Deer Vestido de Fiesta Boda Noche Cóctel Graduación...'
+tags: vestido
 actualPrice: 43.99 EUR
 currency: EUR
 price: 43.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41FZ98BdZRL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KF85MYQ-es Levi s SS Original Hm tee Camiseta  Rojo  Brilliant Red 0025   X-Large para Hombre'
+slug: 'B07KF85MYQ-es Levi s SS Original Hm tee Camiseta Rojo Brilliant Red 0025...'
+tags: camiseta
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31K2M2pD1eL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0776XXPXR-es Tommy Hilfiger Original Jersey Camiseta  Gris  Lt Grey Htr 038   X-Small para Hombre'
+slug: 'B0776XXPXR-es Tommy Hilfiger Original Jersey Camiseta Gris Lt Grey Htr...'
+tags: camiseta, jersey
 actualPrice: 13.7 EUR
 currency: EUR
 price: 13.7

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41wo523rCsL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R3SGM5W-es Wrangler Sherpa Jacket Chaqueta Vaquera  Negro  Black Stone 24v   X-Small para Mujer'
+slug: 'B07R3SGM5W-es Wrangler Sherpa Jacket Chaqueta Vaquera Negro Black Stone...'
+tags: chaqueta
 actualPrice: 37.36 EUR
 currency: EUR
 price: 37.36

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51u84Jaf4oL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CN2LYX6-es gracosy Sandalias Cuero Verano Mujer Estilo Bohemia Zapatos de Tacones Altos para Mujer de Dedo Sandalias Talla Grande Chanclas Romanas de Mujer Verde Rosso Hecho a Mano Los Zapatos 2019'
+slug: 'B07CN2LYX6-es gracosy Sandalias Cuero Verano Mujer Estilo Bohemia...'
+tags: chanclas, sandalias, zapatos
 actualPrice: 51.99 EUR
 currency: EUR
 price: 51.99

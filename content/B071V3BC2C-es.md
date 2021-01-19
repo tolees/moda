@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41gOlh+748L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071V3BC2C-es Tommy Hilfiger Core Poplin Classic Shirt Camisa  Azul  411   39 para Hombre'
+slug: 'B071V3BC2C-es Tommy Hilfiger Core Poplin Classic Shirt Camisa Azul 411...'
+tags: camisa
 actualPrice: 39.43 EUR
 currency: EUR
 price: 39.43

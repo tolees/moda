@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51kCT2n4vKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082SFLJ7J-es BAIGIO Bolso Bandolera de Piel para Hombres iPad Bolso Mensajero de Cuero Retro Bolso de Negocios Bolsa Cruzada Cuerpo Cartera Diario para Negocios Deporte Casual Maletín del Trabajo Vintage'
+slug: 'B082SFLJ7J-es BAIGIO Bolso Bandolera de Piel para Hombres iPad Bolso...'
+tags: bolso
 actualPrice: 22.22 EUR
 currency: EUR
 price: 22.22

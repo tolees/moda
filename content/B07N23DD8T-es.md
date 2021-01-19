@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/316Tm+KhsDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N23DD8T-es Quiksilver Rivi Slide-Slider Sandals for Men  Sandalias con Punta Abierta para Hombre  Azul  Blue/Red/Blue Xbrb   39 EU'
+slug: 'B07N23DD8T-es Quiksilver Rivi Slide-Slider Sandals for Men Sandalias con...'
+tags: sandalias
 actualPrice: 11.33 EUR
 currency: EUR
 price: 11.33

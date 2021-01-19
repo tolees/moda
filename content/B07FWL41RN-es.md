@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31tJpD+gVyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FWL41RN-es Crocs Literide Clog Kids  Zuecos Unisex Niños  Verde  Neo Mint/White 3TM   28/29 EU'
+slug: 'B07FWL41RN-es Crocs Literide Clog Kids Zuecos Unisex Niños Verde Neo...'
+tags: zuecos
 actualPrice: 23.27 EUR
 currency: EUR
 price: 23.27

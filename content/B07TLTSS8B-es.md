@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31jXehwLk5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TLTSS8B-es Clarks Tri Alexia  Sandalias de Talón Abierto para Mujer  Beige  Black Black   37.5 EU'
+slug: 'B07TLTSS8B-es Clarks Tri Alexia Sandalias de Talón Abierto para Mujer...'
+tags: sandalias
 actualPrice: 67.39 EUR
 currency: EUR
 price: 67.39

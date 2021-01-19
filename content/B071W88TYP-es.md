@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41X2x-93BVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071W88TYP-es Marca Amazon - find. Camiseta con Cuello Redondo Mujer  Negro  Schwarz   42  Label: L'
+slug: 'B071W88TYP-es Marca Amazon - find. Camiseta con Cuello Redondo Mujer...'
+tags: camiseta, -, find.
 actualPrice: 6.0 EUR
 currency: EUR
 price: 6.0

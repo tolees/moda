@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416t8+osxPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086R5GYSD-es Nautico J.Bradford Cuero Marino JB-CORVETTES - Color - Marine  Talla Zapatos - 36'
+slug: 'B086R5GYSD-es Nautico J.Bradford Cuero Marino JB-CORVETTES - Color -...'
+tags: zapatos
 actualPrice: 69.0 EUR
 currency: EUR
 price: 69.0

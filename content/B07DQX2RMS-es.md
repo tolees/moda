@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Sc4ox83GL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DQX2RMS-es EUMI Colgantes Mujer Joyeria Mujer Collar Plata de Ley 925 Collar con un Colgante de circonitas de Diamantes  Fiestas  cumpleaños  Angel de Amor '
+slug: 'B07DQX2RMS-es EUMI Colgantes Mujer Joyeria Mujer Collar Plata de Ley 925...'
+tags: collar
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

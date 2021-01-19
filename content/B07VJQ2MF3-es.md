@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41VIxa2-NlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VJQ2MF3-es Desigual Vest Bonney Vestido  Blanco  Crudo 1001   34  Talla del Fabricante: 34  para Mujer'
+slug: 'B07VJQ2MF3-es Desigual Vest Bonney Vestido Blanco Crudo 1001 34 Talla...'
+tags: vestido
 actualPrice: 39.63 EUR
 currency: EUR
 price: 39.63

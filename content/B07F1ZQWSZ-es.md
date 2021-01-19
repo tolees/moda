@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31PMATW69OL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F1ZQWSZ-es Timberland Malibu Waves Cross Slide  Sandalias con Punta Abierta para Mujer  Negro  Black Embossed Suede   38 EU'
+slug: 'B07F1ZQWSZ-es Timberland Malibu Waves Cross Slide Sandalias con Punta...'
+tags: sandalias, timberland
 actualPrice: 52.72 EUR
 currency: EUR
 price: 52.72

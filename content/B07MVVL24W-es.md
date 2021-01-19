@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51yRvjPXviL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MVVL24W-es RATEL Kit de Chaleco Táctico para Niños  38pcs Traje de chaqueta para N-Strike Elite Series con 30 piezas de espuma Dardos + 2 Quick Reload Clips + 1 Gafas protectoras + 2 Máscara + 2 muñequera'
+slug: 'B07MVVL24W-es RATEL Kit de Chaleco Táctico para Niños 38pcs Traje de...'
+tags: chaleco, chaqueta, gafas
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

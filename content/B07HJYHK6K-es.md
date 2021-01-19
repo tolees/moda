@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41KtOkD1bbL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HJYHK6K-es Under Armour Grade School Jet 2019  Zapatos de Baloncesto Unisex Niños  Azul  Royal/Black/Taxi 404   40 EU'
+slug: 'B07HJYHK6K-es Under Armour Grade School Jet 2019 Zapatos de Baloncesto...'
+tags: zapatos
 actualPrice: 49.82 EUR
 currency: EUR
 price: 49.82

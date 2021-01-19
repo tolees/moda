@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41OiO0pTk9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07STFJX1K-es JACK & JONES Jprlogo Twist Shirt L/s STS Camisa  Marrón  Umber Slim Fit   X-Large para Hombre'
+slug: 'B07STFJX1K-es JACK & JONES Jprlogo Twist Shirt L/s STS Camisa Marrón...'
+tags: camisa
 actualPrice: 14.33 EUR
 currency: EUR
 price: 14.33

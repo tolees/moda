@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41rs9pNnEGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K189KYP-es adidas Tiro19 PES Jkt Chaqueta de Deporte  Hombre  Power Red/White  S'
+slug: 'B07K189KYP-es adidas Tiro19 PES Jkt Chaqueta de Deporte Hombre Power...'
+tags: chaqueta
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

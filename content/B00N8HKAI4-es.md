@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41C%2B5dn9aSL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B00N8HKAI4-es ALPHA INDUSTRIES 183110-184-M Chaqueta  Rojo  Burgundy 184   Medium  Tamaño del Fabricante: M  para Hombre'
+slug: 'B00N8HKAI4-es ALPHA INDUSTRIES 183110-184-M Chaqueta Rojo Burgundy 184...'
+tags: chaqueta
 actualPrice: 89.95 EUR
 currency: EUR
 price: 89.95

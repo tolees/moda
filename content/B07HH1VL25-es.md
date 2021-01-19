@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31fzNQ9tmAL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HH1VL25-es Tommy Jeans Hombre  Scanton Vaqueros  Slim Azul  Vernon Black Stretch 911  W38/L34  Talla del fabricante: 3438 '
+slug: 'B07HH1VL25-es Tommy Jeans Hombre Scanton Vaqueros Slim Azul Vernon Black...'
+tags: vaqueros
 actualPrice: 57.99 EUR
 currency: EUR
 price: 57.99

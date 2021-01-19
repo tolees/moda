@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41pT1ZnfJmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NDB1WKT-es bugatti 321793513200 - Botines de Cuero Hombre  Color Marrón  Talla 42 EU'
+slug: 'B07NDB1WKT-es bugatti 321793513200 - Botines de Cuero Hombre Color...'
+tags: botines
 actualPrice: 25.36 EUR
 currency: EUR
 price: 25.36

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/419s86IKUeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W4NSL7B-es AIPER Chaleco Calefactable para Hombres y Mujeres con Batería USB  Chaqueta Térmica Lavable Chaleco Cálido para Invierno Actividades Frías Aire Libre Esquí Pesca Caza Moto  XL '
+slug: 'B07W4NSL7B-es AIPER Chaleco Calefactable para Hombres y Mujeres con...'
+tags: chaleco, chaqueta
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

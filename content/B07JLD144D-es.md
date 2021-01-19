@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41bKABHhNeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JLD144D-es SxyBox Lencería Mujer Ropa Interior elástica Mini Vestido sin Mangas Club Desgaste Transparentes Teddy'
+slug: 'B07JLD144D-es SxyBox Lencería Mujer Ropa Interior elástica Mini Vestido...'
+tags: vestido
 actualPrice: 7.49 EUR
 currency: EUR
 price: 7.49

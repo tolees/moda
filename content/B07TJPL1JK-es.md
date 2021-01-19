@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41dTfRPASJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TJPL1JK-es Clarks Arla Jacory  Sandalias de Talón Abierto para Mujer  Azul  Indigo Indigo   41 EU'
+slug: 'B07TJPL1JK-es Clarks Arla Jacory Sandalias de Talón Abierto para Mujer...'
+tags: sandalias
 actualPrice: 32.4 EUR
 currency: EUR
 price: 32.4

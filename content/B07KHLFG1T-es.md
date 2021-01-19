@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31I2xakFNOL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KHLFG1T-es Under Armour UA Rush Short Sleeve Camiseta  Mujer  Negro  Black/Black 001   L'
+slug: 'B07KHLFG1T-es Under Armour UA Rush Short Sleeve Camiseta Mujer Negro...'
+tags: camiseta
 actualPrice: 11.05 EUR
 currency: EUR
 price: 11.05

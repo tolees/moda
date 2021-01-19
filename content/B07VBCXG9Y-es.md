@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41b+zZ0lHlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VBCXG9Y-es Desigual TS Verona Camiseta  Blanco  Crudo 1001   X-Small para Mujer'
+slug: 'B07VBCXG9Y-es Desigual TS Verona Camiseta Blanco Crudo 1001 X-Small para...'
+tags: camiseta
 actualPrice: 20.31 EUR
 currency: EUR
 price: 20.31

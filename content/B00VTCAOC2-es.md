@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/517V9bY56AL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00VTCAOC2-es COOFIT Bolsos de Mujer  Bolso Bandolera Lona Bolsos de Hombro Multifunción Bolso con Tirantes Bolsos Crossbody Bolso Tote Bolso Shopper'
+slug: 'B00VTCAOC2-es COOFIT Bolsos de Mujer Bolso Bandolera Lona Bolsos de...'
+tags: bolso
 actualPrice: 16.89 EUR
 currency: EUR
 price: 16.89

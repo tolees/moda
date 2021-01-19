@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41tS+HuO-xL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N19SWHF-es Lee Crew Sws  Sudadera para Hombre  Naranja  Sign Orange Me   Small'
+slug: 'B07N19SWHF-es Lee Crew Sws Sudadera para Hombre Naranja Sign Orange Me...'
+tags: sudadera
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

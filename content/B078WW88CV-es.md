@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41rOzRxXEuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078WW88CV-es PUMA Liga Jersey Jr T-Shirt  Unisex niños  Red White  164'
+slug: 'B078WW88CV-es PUMA Liga Jersey Jr T-Shirt Unisex niños Red White 164'
+tags: jersey
 actualPrice: 12.46 EUR
 currency: EUR
 price: 12.46

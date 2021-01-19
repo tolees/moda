@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Yn4WIwsHL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K92KZNC-es Crocs Classic Clog  Zuecos Unisex Adulto  Azul  Bright Cobalt 4JL   37/38 EU'
+slug: 'B07K92KZNC-es Crocs Classic Clog Zuecos Unisex Adulto Azul Bright Cobalt...'
+tags: zuecos
 actualPrice: 24.29 EUR
 currency: EUR
 price: 24.29

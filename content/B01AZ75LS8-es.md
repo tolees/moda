@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41weXpiJbTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01AZ75LS8-es Timberland Bradstreet Leather Sensorflex  Botas Chukka para Hombre  Marrón MD Brown Full Grain  50 EU'
+slug: 'B01AZ75LS8-es Timberland Bradstreet Leather Sensorflex Botas Chukka para...'
+tags: timberland
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

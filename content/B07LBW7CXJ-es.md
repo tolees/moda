@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41jhb8w43tL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LBW7CXJ-es Tommy Hilfiger Bandeau-RP Parte de Arriba de Bikini  Negro  Pvh Black 094   S para Mujer'
+slug: 'B07LBW7CXJ-es Tommy Hilfiger Bandeau-RP Parte de Arriba de Bikini Negro...'
+tags: bikini
 actualPrice: 27.93 EUR
 currency: EUR
 price: 27.93

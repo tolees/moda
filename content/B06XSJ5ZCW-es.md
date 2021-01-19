@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ZQaC3h0LL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XSJ5ZCW-es iSuperb Estuche para Lápices Desplegable Encantador Bolso de Lápices Contráctil con Cremallera Pequeña Bolsa para Lapices Estudiante Plumier Pencil Case Kawaii  Caqui '
+slug: 'B06XSJ5ZCW-es iSuperb Estuche para Lápices Desplegable Encantador Bolso...'
+tags: bolso
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

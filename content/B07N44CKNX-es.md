@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41HzoTgk%2BIL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N44CKNX-es Desigual T-Shirt Matilde Camiseta  Negro  Negro 2000   XL para Mujer'
+slug: 'B07N44CKNX-es Desigual T-Shirt Matilde Camiseta Negro Negro 2000 XL para...'
+tags: camiseta
 actualPrice: 17.06 EUR
 currency: EUR
 price: 17.06

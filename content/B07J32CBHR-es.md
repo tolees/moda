@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31oByYjtw9L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J32CBHR-es Under Armour UA Streaker 2.0 Camiseta  Hombre  Gris  Halo Gray/Reflective 014   S'
+slug: 'B07J32CBHR-es Under Armour UA Streaker 2.0 Camiseta Hombre Gris Halo...'
+tags: camiseta
 actualPrice: 15.72 EUR
 currency: EUR
 price: 15.72

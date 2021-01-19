@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41wwIuZePLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TYR2HSZ-es Paninara Sin Collar 6"Impermeable Ca2461 Naranja Quemada - 4 UK'
+slug: 'B07TYR2HSZ-es Paninara Sin Collar 6"Impermeable Ca2461 Naranja Quemada -...'
+tags: collar
 actualPrice: 126.0 EUR
 currency: EUR
 price: 126.0

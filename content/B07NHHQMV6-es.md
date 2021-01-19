@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Y0gGVJUPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NHHQMV6-es Tamaris 1-1-22418-23  Zapatos de Tacón para Mujer  Plateado  PLAT.Glam STR. 932   37 EU'
+slug: 'B07NHHQMV6-es Tamaris 1-1-22418-23 Zapatos de Tacón para Mujer Plateado...'
+tags: zapatos
 actualPrice: 10.63 EUR
 currency: EUR
 price: 10.63

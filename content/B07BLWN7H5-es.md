@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ORoefEkvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BLWN7H5-es Honghu Mujeres con Cord¨®n Pantalones Sueltos de Rayas largas con Estampado Pantalones Anchos de Yoga Leg Palazzo Lounge Pantalones de Pijama M Negro'
+slug: 'B07BLWN7H5-es Honghu Mujeres con Cord¨®n Pantalones Sueltos de Rayas...'
+tags: pijama
 actualPrice: 6.83 EUR
 currency: EUR
 price: 6.83

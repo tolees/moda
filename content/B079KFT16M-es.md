@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41M8V45FwuL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079KFT16M-es Lee Elly Vaqueros  Azul  Mid Export Tm   25W / 33L para Mujer'
+slug: 'B079KFT16M-es Lee Elly Vaqueros Azul Mid Export Tm 25W / 33L para Mujer'
+tags: vaqueros
 actualPrice: 20.24 EUR
 currency: EUR
 price: 20.24

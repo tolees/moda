@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/316LyE3iS7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HEXG8W4-es Crocs Classic Clog K  Zuecos Unisex Niños  Negro  Black   27/28 EU'
+slug: 'B01HEXG8W4-es Crocs Classic Clog K Zuecos Unisex Niños Negro Black 27/28 EU'
+tags: zuecos
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

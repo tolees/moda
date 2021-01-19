@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31pDCE7JKBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MQVHN97-es Napapijri K TAKY H Sudadera  Negro  Black 041   10 años para Niños'
+slug: 'B07MQVHN97-es Napapijri K TAKY H Sudadera Negro Black 041 10 años para...'
+tags: sudadera
 actualPrice: 29.48 EUR
 currency: EUR
 price: 29.48

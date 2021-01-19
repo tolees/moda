@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41QmphUM7gL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RF18GZQ-es G-STAR RAW 3301 Slim Fit Jeans Vaqueros  Antic Faded Ripped Marine  30W / 36L para Hombre'
+slug: 'B07RF18GZQ-es G-STAR RAW 3301 Slim Fit Jeans Vaqueros Antic Faded Ripped...'
+tags: vaqueros
 actualPrice: 25.71 EUR
 currency: EUR
 price: 25.71

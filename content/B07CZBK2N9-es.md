@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41CYHsP+WfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CZBK2N9-es Under Armour Vanish Woven Short Pantalón Corto  Hombre  Negro  Black/Jet Gray 001   XL'
+slug: 'B07CZBK2N9-es Under Armour Vanish Woven Short Pantalón Corto Hombre...'
+tags: pantalón
 actualPrice: 19.84 EUR
 currency: EUR
 price: 19.84

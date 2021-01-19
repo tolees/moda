@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31VrczMgH1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S2DWS6D-es Esprit 999ee1b803 Vaqueros Slim  Negro  Black 001   W28/L30  Talla del Fabricante: 28/30  para Mujer'
+slug: 'B07S2DWS6D-es Esprit 999ee1b803 Vaqueros Slim Negro Black 001 W28/L30...'
+tags: vaqueros
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

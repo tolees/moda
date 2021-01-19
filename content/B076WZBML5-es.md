@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41lPlT4tHtL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B076WZBML5-es find. Sudadera con Mensaje Mujer  Rosa  Medium'
+slug: 'B076WZBML5-es find. Sudadera con Mensaje Mujer Rosa Medium'
+tags: sudadera
 actualPrice: 9.3 EUR
 currency: EUR
 price: 9.3

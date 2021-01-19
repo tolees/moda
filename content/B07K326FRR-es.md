@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Xob7HwBBL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K326FRR-es Timberland Waterville 6 Inch Basic Waterproof  Botas para Mujer  Naranja  Light Orange Nubuck   39 EU'
+slug: 'B07K326FRR-es Timberland Waterville 6 Inch Basic Waterproof Botas para...'
+tags: timberland
 actualPrice: 57.26 EUR
 currency: EUR
 price: 57.26

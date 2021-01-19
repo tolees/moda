@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31gdeug6iuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081B77MTM-es Columbia Silver Ridge 2.0 Camisa de Manga Corta  Hombre  Beige  Fossil   L'
+slug: 'B081B77MTM-es Columbia Silver Ridge 2.0 Camisa de Manga Corta Hombre...'
+tags: camisa
 actualPrice: 28.88 EUR
 currency: EUR
 price: 28.88

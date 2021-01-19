@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Gw2eAJE+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TKNCC6Z-es Clarks Step Beat Sun  Abierta Sandalias Punta Cerrada  Verde  Dusty Olive Dusty Olive   39.5 EU'
+slug: 'B07TKNCC6Z-es Clarks Step Beat Sun Abierta Sandalias Punta Cerrada Verde...'
+tags: sandalias
 actualPrice: 43.01 EUR
 currency: EUR
 price: 43.01

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41VhsavtjqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N42ZXTY-es Desigual Shirt CAM Camisa  Beige  Crudo Beige 1008   XXL para Mujer'
+slug: 'B07N42ZXTY-es Desigual Shirt CAM Camisa Beige Crudo Beige 1008 XXL para...'
+tags: camisa
 actualPrice: 48.99 EUR
 currency: EUR
 price: 48.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31NA-mgzIiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DYLJJX6-es Quiksilver Carver Deluxe  Zapatos de Playa y Piscina para Hombre  Verde  Green/Green/Green Xggg   40 EU'
+slug: 'B07DYLJJX6-es Quiksilver Carver Deluxe Zapatos de Playa y Piscina para...'
+tags: zapatos
 actualPrice: 11.67 EUR
 currency: EUR
 price: 11.67

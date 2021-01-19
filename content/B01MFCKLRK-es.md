@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31fTG6aGcOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MFCKLRK-es Speedo Futura Classic Gafas Anticloro  Unisex Adulto  Rojo/Gris  Talla Única'
+slug: 'B01MFCKLRK-es Speedo Futura Classic Gafas Anticloro Unisex Adulto...'
+tags: gafas
 actualPrice: 8.67 EUR
 currency: EUR
 price: 8.67

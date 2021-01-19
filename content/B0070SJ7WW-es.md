@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31M4ksUqbDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0070SJ7WW-es Timberland Stormbucks PT  Zapatos de Cordones Oxford para Hombre  Marrón  Brown Nubuck   45 EU'
+slug: 'B0070SJ7WW-es Timberland Stormbucks PT Zapatos de Cordones Oxford para...'
+tags: timberland, zapatos
 actualPrice: 85.3 EUR
 currency: EUR
 price: 85.3

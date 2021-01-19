@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41iyL2o4gDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PRCF5XT-es Kipling Osyka  Bolso Con Bandolera para Mujer  Naranja  Papaya   21x15x3.2 centimeters  B x H x T '
+slug: 'B07PRCF5XT-es Kipling Osyka Bolso Con Bandolera para Mujer Naranja...'
+tags: bolso
 actualPrice: 19.25 EUR
 currency: EUR
 price: 19.25

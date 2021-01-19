@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41pl007Nv5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VFK2N44-es Desigual TS Tropic Thoughts Camiseta  Rojo  Fresa Acid 3089   Large para Mujer'
+slug: 'B07VFK2N44-es Desigual TS Tropic Thoughts Camiseta Rojo Fresa Acid 3089...'
+tags: camiseta
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31CKJWxnJ-L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WHT2LP7-es Vans VN0A3I6C - Billetera de Sintético hombre Rojo Rojo  HIBISCUS '
+slug: 'B07WHT2LP7-es Vans VN0A3I6C - Billetera de Sintético hombre Rojo Rojo...'
+tags: billetera
 actualPrice: 15 EUR
 currency: EUR
 price: 15

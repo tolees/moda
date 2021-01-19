@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41G2isVCDJL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MNVRYBG-es Vicloon 9Pcs Princesa Vestir Accesorios Regalo Conjunto de Belleza Corona Sceptre Collar Guantes para Niña'
+slug: 'B07MNVRYBG-es Vicloon 9Pcs Princesa Vestir Accesorios Regalo Conjunto de...'
+tags: collar, guantes
 actualPrice: 8.59 EUR
 currency: EUR
 price: 8.59

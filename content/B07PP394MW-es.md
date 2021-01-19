@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41IO6Xrbs4L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PP394MW-es Kipling Eleva  Bolso con Bandolera para Mujer  Verde  Seagrass   31x33x12 centimeters  B x H x T '
+slug: 'B07PP394MW-es Kipling Eleva Bolso con Bandolera para Mujer Verde...'
+tags: bolso
 actualPrice: 37.5 EUR
 currency: EUR
 price: 37.5

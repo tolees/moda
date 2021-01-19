@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31TDgGKd5YL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L3HKLPS-es Tommy Hilfiger Essential Boxy Flag S/s Camiseta  Azul  Black Iris 002   104  Talla del Fabricante: 4  para Niños'
+slug: 'B07L3HKLPS-es Tommy Hilfiger Essential Boxy Flag S/s Camiseta Azul Black...'
+tags: camiseta
 actualPrice: 13.63 EUR
 currency: EUR
 price: 13.63

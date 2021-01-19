@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41tA8PhHMUL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TDLYD6N-es Quiksilver Omni Logo Sudadera con Capucha  Hombre  Gris  Light Grey Heather   S'
+slug: 'B07TDLYD6N-es Quiksilver Omni Logo Sudadera con Capucha Hombre Gris...'
+tags: sudadera
 actualPrice: 26.6 EUR
 currency: EUR
 price: 26.6

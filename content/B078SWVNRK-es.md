@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41n1gghG4iL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078SWVNRK-es Timberland Malibu Waves Thong  Sandalias para Mujer  Negro  Black Full Grain   38.5 EU'
+slug: 'B078SWVNRK-es Timberland Malibu Waves Thong Sandalias para Mujer Negro...'
+tags: sandalias, timberland
 actualPrice: 40.0 EUR
 currency: EUR
 price: 40.0

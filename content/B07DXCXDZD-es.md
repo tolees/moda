@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41M9AlxY1UL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DXCXDZD-es Tommy Hilfiger Boys Basic Vn Knit S/s Camiseta  Azul  Sky Captain 420   140  Talla del Fabricante: 10  para Niños'
+slug: 'B07DXCXDZD-es Tommy Hilfiger Boys Basic Vn Knit S/s Camiseta Azul Sky...'
+tags: camiseta
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

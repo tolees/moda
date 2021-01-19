@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21bnVqBQfOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V7QLFLW-es KAPORAL Joan Camiseta  Blanco  White White   14 años  Talla del Fabricante: 14A  para Niñas'
+slug: 'B07V7QLFLW-es KAPORAL Joan Camiseta Blanco White White 14 años Talla del...'
+tags: camiseta
 actualPrice: 10.37 EUR
 currency: EUR
 price: 10.37

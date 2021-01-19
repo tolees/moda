@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41w-suS1ykL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DKMD91W-es PUMA Active Camiseta  Hombre  Gris  Medium Gray Heather   XL'
+slug: 'B07DKMD91W-es PUMA Active Camiseta Hombre Gris Medium Gray Heather XL'
+tags: camiseta
 actualPrice: 12.49 EUR
 currency: EUR
 price: 12.49

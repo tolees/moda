@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31A3vxFJEEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KRT1FN3-es Columbia Silver Ridge 2.0  Pantalón Capri de Senderismo Nailon  Mujer  Gris  Grill   Talla US: W2/L19/  EU W34/L19 '
+slug: 'B07KRT1FN3-es Columbia Silver Ridge 2.0 Pantalón Capri de Senderismo...'
+tags: pantalón
 actualPrice: 12.14 EUR
 currency: EUR
 price: 12.14

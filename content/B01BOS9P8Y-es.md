@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Y8AhnczaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BOS9P8Y-es Freaky Nation Biker Princess Chaqueta  Negro  Shadow 9015   Large para Mujer'
+slug: 'B01BOS9P8Y-es Freaky Nation Biker Princess Chaqueta Negro Shadow 9015...'
+tags: chaqueta
 actualPrice: 139.95 EUR
 currency: EUR
 price: 139.95

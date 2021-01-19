@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41n1h0FbW6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07STLXQRZ-es Geox D Sandal Vega A  Sandalia con Pulsera para Mujer  Azul  Denim/Black C4j9b   38 EU'
+slug: 'B07STLXQRZ-es Geox D Sandal Vega A Sandalia con Pulsera para Mujer Azul...'
+tags: geox
 actualPrice: 55.93 EUR
 currency: EUR
 price: 55.93

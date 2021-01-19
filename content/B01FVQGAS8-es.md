@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31084sj7nbL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01FVQGAS8-es Oakley Line Miner Gafas Deportivas  Hombre  Matte Black  Prizm Torch Iridium/Cat 2'
+slug: 'B01FVQGAS8-es Oakley Line Miner Gafas Deportivas Hombre Matte Black...'
+tags: gafas
 actualPrice: 101.99 EUR
 currency: EUR
 price: 101.99

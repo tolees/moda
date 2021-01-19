@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31SEULg7hJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VKNJLCR-es Marca Amazon - AURIQUE Mallas de Deporte Tiro Alto Mujer  Negro  Black/Geranium   40  Label:M'
+slug: 'B07VKNJLCR-es Marca Amazon - AURIQUE Mallas de Deporte Tiro Alto Mujer...'
+tags: aurique
 actualPrice: 18.59 EUR
 currency: EUR
 price: 18.59

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/415QyLZUFqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081BJVF3J-es Columbia Powder Pass Chaqueta Híbrida sin Mangas  Hombre  Azul  M'
+slug: 'B081BJVF3J-es Columbia Powder Pass Chaqueta Híbrida sin Mangas Hombre...'
+tags: chaqueta
 actualPrice: 26.12 EUR
 currency: EUR
 price: 26.12

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41gnDsNpyDL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B079LYZRMS-es SIMYJOY Pareja Loro Dorado Pullover Savage Logang Paul Sudaderas con Capucha Maverick Sudadera para Hombres Mujeres Adolescentes Rojo S'
+slug: 'B079LYZRMS-es SIMYJOY Pareja Loro Dorado Pullover Savage Logang Paul...'
+tags: sudadera
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

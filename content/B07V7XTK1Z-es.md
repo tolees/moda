@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41dixTL0HBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V7XTK1Z-es Tommy Hilfiger Nautical TH Lace Up Espadrille  Zapatos de tacón con Punta Abierta para Mujer  Azul  Desert Sky Dw5   41 EU'
+slug: 'B07V7XTK1Z-es Tommy Hilfiger Nautical TH Lace Up Espadrille Zapatos de...'
+tags: zapatos
 actualPrice: 23.88 EUR
 currency: EUR
 price: 23.88

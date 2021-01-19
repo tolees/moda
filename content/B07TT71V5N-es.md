@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41NvJWXkB4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TT71V5N-es Levi s Vneck Camiseta  Gris  Tbd100 0008   X-Small para Mujer'
+slug: 'B07TT71V5N-es Levi s Vneck Camiseta Gris Tbd100 0008 X-Small para Mujer'
+tags: camiseta
 actualPrice: 12.5 EUR
 currency: EUR
 price: 12.5

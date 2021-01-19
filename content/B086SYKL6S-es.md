@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31JHtygFwrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086SYKL6S-es Oihxse Moda Lindo Cristal Case Compatible con Samsung Galaxy A70 Funda Silicona Gradiente de Color TPU Suave Carcasa Ultra-Fina Transparente Protectora Flexible Caso-Blanco Azul'
+slug: 'B086SYKL6S-es Oihxse Moda Lindo Cristal Case Compatible con Samsung...'
+tags: moda
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

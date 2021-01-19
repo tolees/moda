@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31x0JYlkaCL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GPT3TFP-es Geox Jr Ciak Girl K  Zapatillas para Niñas  White C1000  31 EU'
+slug: 'B07GPT3TFP-es Geox Jr Ciak Girl K Zapatillas para Niñas White C1000 31 EU'
+tags: geox
 actualPrice: 20.2 EUR
 currency: EUR
 price: 20.2

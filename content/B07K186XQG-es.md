@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/417CKKW7RpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K186XQG-es adidas CAMPEON19 JSY Camiseta de Manga Corta  Hombre  True Pink/Black  1112'
+slug: 'B07K186XQG-es adidas CAMPEON19 JSY Camiseta de Manga Corta Hombre True...'
+tags: camiseta
 actualPrice: 17.97 EUR
 currency: EUR
 price: 17.97

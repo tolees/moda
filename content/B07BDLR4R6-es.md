@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51CB4ukXOpL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BDLR4R6-es FIRENZE ARTEGIANI. Mochila Mujer Casual Piel auténtica.Mochila Bolso Cuero Genuino Dollaro.Tacto Suave.Asa de Mano. Mochila Mujer. Made in Italy. Vera Pelle Italiana. 26x27x14 cm. Color: Taupe'
+slug: 'B07BDLR4R6-es FIRENZE ARTEGIANI. Mochila Mujer Casual Piel...'
+tags: bolso
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

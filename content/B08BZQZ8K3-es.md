@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41E-dto0QxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BZQZ8K3-es AMZTM Camiseta Cumpleaños Bebé Niña  Flamenco 1er Cumpleaño Fiesta Manga Corta Flameante 100% Algodón Top Volantes y Lentejuelas Blancas Ropa de Verano  Blancas  80 '
+slug: 'B08BZQZ8K3-es AMZTM Camiseta Cumpleaños Bebé Niña Flamenco 1er Cumpleaño...'
+tags: camiseta
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

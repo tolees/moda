@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41RKPzc7jJL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0752BGF4G-es G-STAR RAW Midge Zip Mid Waist Skinny Vaqueros  Dark Aged D05281  31W / 34L para Mujer'
+slug: 'B0752BGF4G-es G-STAR RAW Midge Zip Mid Waist Skinny Vaqueros Dark Aged...'
+tags: vaqueros
 actualPrice: 84.99 EUR
 currency: EUR
 price: 84.99

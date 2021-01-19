@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41wUcEVnQRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005XYNB3Q-es Dim Coton Stretch Boxer x3  Noir/Gris/Blanc  5 EG/56/XL  Pack de 3  para Hombre'
+slug: 'B005XYNB3Q-es Dim Coton Stretch Boxer x3 Noir/Gris/Blanc 5 EG/56/XL Pack...'
+tags: boxer
 actualPrice: 19.89 EUR
 currency: EUR
 price: 19.89

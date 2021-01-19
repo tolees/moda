@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41HhJQriUAL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B077Z5QHPF-es HIKARO Sudadera con Print Hombre  Negro  Black   52  Talla del fabricante: Large '
+slug: 'B077Z5QHPF-es HIKARO Sudadera con Print Hombre Negro Black 52 Talla del...'
+tags: sudadera
 actualPrice: 13.48 EUR
 currency: EUR
 price: 13.48

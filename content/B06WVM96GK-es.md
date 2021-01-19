@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Mp3vLEVTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06WVM96GK-es Tommy Hilfiger SS tee Print Camiseta con Logo  Blanco  White 100   S para Mujer'
+slug: 'B06WVM96GK-es Tommy Hilfiger SS tee Print Camiseta con Logo Blanco White...'
+tags: camiseta
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

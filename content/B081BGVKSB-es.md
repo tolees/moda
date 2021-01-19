@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413x8o7X6JL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081BGVKSB-es Asics Gel-Pulse 11  Zapatos para Correr Mens  Negro Blanco Negro  43 1/2 EU'
+slug: 'B081BGVKSB-es Asics Gel-Pulse 11 Zapatos para Correr Mens Negro Blanco...'
+tags: zapatos
 actualPrice: 60.94 EUR
 currency: EUR
 price: 60.94

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31CeubFBs4L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B011BW15UO-es The North Face Jkt Chaqueta Snow Quest  Unisex niños  Negro  M'
+slug: 'B011BW15UO-es The North Face Jkt Chaqueta Snow Quest Unisex niños Negro M'
+tags: chaqueta
 actualPrice: 65.27 EUR
 currency: EUR
 price: 65.27

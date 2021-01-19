@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31MCe3ezcZL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LG1XTBX-es Geox U Garret A  Zapatos de Cordones Derby para Hombre  Azul  Navy/Bordeaux C4335   40 EU'
+slug: 'B07LG1XTBX-es Geox U Garret A Zapatos de Cordones Derby para Hombre Azul...'
+tags: geox, zapatos
 actualPrice: 41.97 EUR
 currency: EUR
 price: 41.97

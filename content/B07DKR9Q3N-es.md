@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31oHDz-Hb0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DKR9Q3N-es Puma Essentials LG T Camiseta de Manga Corta  Hombre  Blanco White  XL'
+slug: 'B07DKR9Q3N-es Puma Essentials LG T Camiseta de Manga Corta Hombre Blanco...'
+tags: camiseta
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

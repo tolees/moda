@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41eU+TRtWEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TJ9SDFF-es Levi s Barstow Western Standard Camisa  Azul  Red Cast Rinse Marbled T2 H2 19 0000   Small para Hombre'
+slug: 'B07TJ9SDFF-es Levi s Barstow Western Standard Camisa Azul Red Cast Rinse...'
+tags: camisa
 actualPrice: 55.45 EUR
 currency: EUR
 price: 55.45

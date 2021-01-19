@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41reor0nTYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JVF9CLR-es adidas Tiro19 Pre Jkty Chaqueta de Deporte  Unisex niños  Bold Green/White  1314Y'
+slug: 'B07JVF9CLR-es adidas Tiro19 Pre Jkty Chaqueta de Deporte Unisex niños...'
+tags: chaqueta
 actualPrice: 26.95 EUR
 currency: EUR
 price: 26.95

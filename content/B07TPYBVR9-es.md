@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31LhJk7w5ML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TPYBVR9-es Clarks Hero  Zapatos de Cordones Brogue para Mujer  Negro  Black Leather Black Leather   41.5 EU'
+slug: 'B07TPYBVR9-es Clarks Hero Zapatos de Cordones Brogue para Mujer Negro...'
+tags: zapatos
 actualPrice: 20.33 EUR
 currency: EUR
 price: 20.33

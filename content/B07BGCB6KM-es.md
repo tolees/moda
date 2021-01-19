@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BGCB6KM-es Geox U844VA 00022 Zapato Casual Hombre Marròn 44'
+tags: geox
 actualPrice: 44.95 EUR
 currency: EUR
 price: 44.95

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51f0J3getcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SQR1WX6-es Quiksilver Molokai Tropical Flow  Zapatos de Playa y Piscina para Hombre  Multicolor  Black/White/Blue Xkwb   43 EU'
+slug: 'B07SQR1WX6-es Quiksilver Molokai Tropical Flow Zapatos de Playa y...'
+tags: zapatos
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

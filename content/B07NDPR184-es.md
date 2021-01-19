@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41v6MzZWpzL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NDPR184-es G-STAR RAW Graphic 15 Core Round Neck Sudadera  Gris  Avalanche Htr A290   Medium para Hombre'
+slug: 'B07NDPR184-es G-STAR RAW Graphic 15 Core Round Neck Sudadera Gris...'
+tags: sudadera
 actualPrice: 44.97 EUR
 currency: EUR
 price: 44.97

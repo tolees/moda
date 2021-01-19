@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416kccqreYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RHTXYMT-es Tommy Hilfiger Tjw Essential V-Neck Logo tee Camiseta  Blanco  White Ya2   32  Talla del Fabricante: XX-Small  para Mujer'
+slug: 'B07RHTXYMT-es Tommy Hilfiger Tjw Essential V-Neck Logo tee Camiseta...'
+tags: camiseta
 actualPrice: 6.44 EUR
 currency: EUR
 price: 6.44

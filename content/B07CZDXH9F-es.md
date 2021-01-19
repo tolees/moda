@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/3150keuXIwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CZDXH9F-es Under Armour UA Speed Stride Split 1/4 Zip Ligera Deporte  Camiseta de Hombre de Manga Larga  Negro  MD'
+slug: 'B07CZDXH9F-es Under Armour UA Speed Stride Split 1/4 Zip Ligera Deporte...'
+tags: camiseta
 actualPrice: 26.49 EUR
 currency: EUR
 price: 26.49

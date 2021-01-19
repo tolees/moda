@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41GNT+0LtBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QDZSLW1-es Cressi Ninja Floating - Gafas Flotantes Polarizadas para Deportes con una protección 100% UV Adultos Unisex  Amarillo/Azul/Lentes Azul Espejadas'
+slug: 'B07QDZSLW1-es Cressi Ninja Floating - Gafas Flotantes Polarizadas para...'
+tags: gafas
 actualPrice: 17.32 EUR
 currency: EUR
 price: 17.32

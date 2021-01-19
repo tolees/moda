@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/314n2AO559L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082Z2NBKT-es PUMA Om Stadium Training Pants Pantalón Largo  Hombre  Peacoat  S'
+slug: 'B082Z2NBKT-es PUMA Om Stadium Training Pants Pantalón Largo Hombre...'
+tags: pantalón
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

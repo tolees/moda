@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41zb3FA3LBL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CZCLWCG-es G-STAR RAW ARC 2.0 3D Mid Boyfriend Jeans Vaqueros  Azul  lt Aged detroy 9436-1243   25W / 34L para Mujer'
+slug: 'B07CZCLWCG-es G-STAR RAW ARC 2.0 3D Mid Boyfriend Jeans Vaqueros Azul lt...'
+tags: vaqueros
 actualPrice: 16.89 EUR
 currency: EUR
 price: 16.89

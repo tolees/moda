@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41JVYjLlmpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WZP6NYB-es Dorothy Perkins Luxe Fur Parka  Azul  Navy 230   36  Talla del Fabricante: 8  para Mujer'
+slug: 'B07WZP6NYB-es Dorothy Perkins Luxe Fur Parka Azul Navy 230 36 Talla del...'
+tags: parka
 actualPrice: 22.0 EUR
 currency: EUR
 price: 22.0

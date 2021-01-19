@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412vvSpgiPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N3VZKDT-es Desigual Sweat ANNARAU Jersey  Azul  Blue Depths 5149   L para Mujer'
+slug: 'B07N3VZKDT-es Desigual Sweat ANNARAU Jersey Azul Blue Depths 5149 L para...'
+tags: jersey
 actualPrice: 48.99 EUR
 currency: EUR
 price: 48.99

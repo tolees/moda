@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31N9XkVybDL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NVV721H-es Armor Lux 77288 Chaqueta  Azul  Rich Navy D85   Medium  Talla del Fabricante: 48  para Mujer'
+slug: 'B07NVV721H-es Armor Lux 77288 Chaqueta Azul Rich Navy D85 Medium Talla...'
+tags: chaqueta
 actualPrice: 117.27 EUR
 currency: EUR
 price: 117.27

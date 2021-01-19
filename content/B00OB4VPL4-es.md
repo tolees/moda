@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41ul-KdW0iL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00OB4VPL4-es Cofra 40-JV028000-39 - Calzado de Seguridad Nuevo Santo zapatos marrones S3 Src trabajo Flying Jv028-000 Deportes  talla 39  color marrón'
+slug: 'B00OB4VPL4-es Cofra 40-JV028000-39 - Calzado de Seguridad Nuevo Santo...'
+tags: zapatos
 actualPrice: 16.47 EUR
 currency: EUR
 price: 16.47

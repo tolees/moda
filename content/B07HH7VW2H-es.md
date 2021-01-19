@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31kWJj2626L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HH7VW2H-es Polaroid PLD 6056/S Gafas de Sol  Multicolor  Blk Ruth   55 Unisex Adulto'
+slug: 'B07HH7VW2H-es Polaroid PLD 6056/S Gafas de Sol Multicolor Blk Ruth 55...'
+tags: gafas
 actualPrice: 24.7 EUR
 currency: EUR
 price: 24.7

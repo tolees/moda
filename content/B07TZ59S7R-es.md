@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zbgL00sVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TZ59S7R-es Women s Secret Mickey Vintage Mv DS Dots PJ FR Conjuntos de Pijama  Multicolor  Hielo 94   X-Small  Tamaño del Fabricante: XS  para Mujer'
+slug: 'B07TZ59S7R-es Women s Secret Mickey Vintage Mv DS Dots PJ FR Conjuntos...'
+tags: pijama
 actualPrice: 12.84 EUR
 currency: EUR
 price: 12.84

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31nBIG64YfL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S34DVY8-es Ever-Pretty A-línea Tul Vestido de Noche Manga Corta Cuello en V Largo para Mujer Azul Marino 38'
+slug: 'B07S34DVY8-es Ever-Pretty A-línea Tul Vestido de Noche Manga Corta...'
+tags: vestido
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

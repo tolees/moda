@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41lz0xMCYGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CFGPV37-es Jack & Jones Jjegingham Shirt L/s Camisa  Multicolor  Port Royale Checks: Mixed Navy   Small para Hombre'
+slug: 'B07CFGPV37-es Jack & Jones Jjegingham Shirt L/s Camisa Multicolor Port...'
+tags: camisa
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

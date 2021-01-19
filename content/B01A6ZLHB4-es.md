@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ANyg2gSyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01A6ZLHB4-es Columbia Zero Rules Short Sleeve Shirt Camiseta de manga corta  Hombre  Azul  Carbon Heather   XL'
+slug: 'B01A6ZLHB4-es Columbia Zero Rules Short Sleeve Shirt Camiseta de manga...'
+tags: camiseta
 actualPrice: 22.95 EUR
 currency: EUR
 price: 22.95

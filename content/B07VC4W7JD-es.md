@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41M7iQ2Q8SL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VC4W7JD-es Calvin Klein Vegetable Dye Monogram Crew Neck Sudadera  Amarillo  Mimosa Yellow/White Zhh   X-Small para Hombre'
+slug: 'B07VC4W7JD-es Calvin Klein Vegetable Dye Monogram Crew Neck Sudadera...'
+tags: sudadera
 actualPrice: 44.7 EUR
 currency: EUR
 price: 44.7

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41XA0jqV3YL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JQWDJGT-es H&E - Abrigo de plumón con capucha para niñas  Niños  color Azul púrpura.  tamaño 150 cm'
+slug: 'B07JQWDJGT-es H&E - Abrigo de plumón con capucha para niñas Niños color...'
+tags: abrigo
 actualPrice: 20.55 EUR
 currency: EUR
 price: 20.55

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41BPuy20dcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W7TCHMC-es Jack & Jones JCOMILLA Sweat Hood Sudadera con Capucha  Multicolor  China Blue Detail: W. Sky Captain   L para Hombre'
+slug: 'B07W7TCHMC-es Jack & Jones JCOMILLA Sweat Hood Sudadera con Capucha...'
+tags: sudadera
 actualPrice: 20.02 EUR
 currency: EUR
 price: 20.02

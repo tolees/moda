@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41W4IDOrAEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077JDNM2K-es Feilan Gafas de natación Gafas para Nadar Antiempañado y Anti Rayos UV para Hombres Mujeres Adultos Jóvenes Niños - Lo Mejor para Hombres  Mujeres  Niños - Azul Claro'
+slug: 'B077JDNM2K-es Feilan Gafas de natación Gafas para Nadar Antiempañado y...'
+tags: gafas
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

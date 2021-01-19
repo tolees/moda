@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31EkCxhG+5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072MKHH37-es Marca Amazon - find. Camisa Hombre  Rosa  S  Label: S'
+slug: 'B072MKHH37-es Marca Amazon - find. Camisa Hombre Rosa S Label: S'
+tags: camisa, -, find.
 actualPrice: 16.8 EUR
 currency: EUR
 price: 16.8

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41tOoq5dljL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TT719WR-es Levi s The tee Camiseta  Azul  BRW T2 Baby Blue 0777   Small para Mujer'
+slug: 'B07TT719WR-es Levi s The tee Camiseta Azul BRW T2 Baby Blue 0777 Small...'
+tags: camiseta
 actualPrice: 14.5 EUR
 currency: EUR
 price: 14.5

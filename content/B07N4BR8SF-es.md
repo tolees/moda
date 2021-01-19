@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31eJua0krIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N4BR8SF-es United Colors of Benetton Basico 2 Man Camiseta de Manga Larga  Negro  Negro 100   X-Small para Hombre'
+slug: 'B07N4BR8SF-es United Colors of Benetton Basico 2 Man Camiseta de Manga...'
+tags: camiseta
 actualPrice: 12.27 EUR
 currency: EUR
 price: 12.27

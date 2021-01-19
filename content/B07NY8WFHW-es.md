@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41wDJqvQJ6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NY8WFHW-es lodi ESIN  Botines para Mujer  Negro  Glove Negro Glove Negro   38 EU'
+slug: 'B07NY8WFHW-es lodi ESIN Botines para Mujer Negro Glove Negro Glove Negro...'
+tags: botines
 actualPrice: 129.74 EUR
 currency: EUR
 price: 129.74

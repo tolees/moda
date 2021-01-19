@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31MSAcy7JaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0795BZB8M-es PUMA Liga Jersey Camiseta  Hombre  Blanco  White/Electric Blue   S'
+slug: 'B0795BZB8M-es PUMA Liga Jersey Camiseta Hombre Blanco White/Electric Blue S'
+tags: camiseta, jersey
 actualPrice: 10.8 EUR
 currency: EUR
 price: 10.8

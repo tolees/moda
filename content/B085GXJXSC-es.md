@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31K4moOKT2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085GXJXSC-es Jack & Jones Jcogeek Sweat Hood Fst Sudadera con Capucha  Negro  XL para Hombre'
+slug: 'B085GXJXSC-es Jack & Jones Jcogeek Sweat Hood Fst Sudadera con Capucha...'
+tags: sudadera
 actualPrice: 15.92 EUR
 currency: EUR
 price: 15.92

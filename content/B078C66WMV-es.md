@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41CUllJxYRL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078C66WMV-es Lacoste L1212 Camiseta Polo  Azul  Electrique   3XL  Talla del fabricante: 8  para Hombre'
+slug: 'B078C66WMV-es Lacoste L1212 Camiseta Polo Azul Electrique 3XL Talla del...'
+tags: camiseta
 actualPrice: 58.99 EUR
 currency: EUR
 price: 58.99

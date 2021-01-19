@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41FI-fWqcOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XCJLR69-es Clarks Adriel Viola  Zapatos de Tacón para Mujer  Negro  Black Pat   40 EU'
+slug: 'B06XCJLR69-es Clarks Adriel Viola Zapatos de Tacón para Mujer Negro...'
+tags: zapatos
 actualPrice: 47.97 EUR
 currency: EUR
 price: 47.97

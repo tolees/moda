@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ZIYW1Wh3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075TYPCG6-es Only Onlsedona Light Coat Otw Noos Abrigo  Marrón  Etherea Detail:Melange   34  Talla del Fabricante: X-Small  para Mujer'
+slug: 'B075TYPCG6-es Only Onlsedona Light Coat Otw Noos Abrigo Marrón Etherea...'
+tags: abrigo
 actualPrice: 30.03 EUR
 currency: EUR
 price: 30.03

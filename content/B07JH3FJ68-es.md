@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41BfvEHhqKL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JH3FJ68-es Pepe Jeans Wyatt Pm305905 Camisa   Blue 551   Small para Hombre'
+slug: 'B07JH3FJ68-es Pepe Jeans Wyatt Pm305905 Camisa Blue 551 Small para Hombre'
+tags: camisa
 actualPrice: 34.1 EUR
 currency: EUR
 price: 34.1

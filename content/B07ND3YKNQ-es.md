@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412Gmk-CyNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ND3YKNQ-es Dockers Plaited Jersey Crew suéter  Azul Logo Pembroke 0010  X-Large para Hombre'
+slug: 'B07ND3YKNQ-es Dockers Plaited Jersey Crew suéter Azul Logo Pembroke 0010...'
+tags: jersey
 actualPrice: 14.06 EUR
 currency: EUR
 price: 14.06

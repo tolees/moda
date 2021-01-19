@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/318RrHfB-IL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N1JWJLN-es Clarks Adriel Mae  Botines para Mujer  Negro  Black Leather Black Leather   42 EU'
+slug: 'B07N1JWJLN-es Clarks Adriel Mae Botines para Mujer Negro Black Leather...'
+tags: botines
 actualPrice: 66.47 EUR
 currency: EUR
 price: 66.47

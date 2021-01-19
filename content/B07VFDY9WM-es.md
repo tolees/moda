@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31vfla4OF4L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VFDY9WM-es JACK & JONES Jcodriver Anorak Parka  Gris  Glacier Gray Glacier Gray   X-Large para Hombre'
+slug: 'B07VFDY9WM-es JACK & JONES Jcodriver Anorak Parka Gris Glacier Gray...'
+tags: parka
 actualPrice: 22.2 EUR
 currency: EUR
 price: 22.2

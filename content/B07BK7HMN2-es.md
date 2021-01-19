@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31MZ5qvOUYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BK7HMN2-es Speedo Futura Biofuse Flexiseal Gafas Natación Infantil para Piscina  Color Azul/Transparente  Talla unica'
+slug: 'B07BK7HMN2-es Speedo Futura Biofuse Flexiseal Gafas Natación Infantil...'
+tags: gafas
 actualPrice: 14.9 EUR
 currency: EUR
 price: 14.9

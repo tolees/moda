@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ecgpXAp1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01K2RLTXM-es Antony Morato Camicia Basica Abbottonatura A Vista Camisa Casual  Blanco  Bianco 1000   XX-Large  Talla del Fabricante: 54  para Hombre'
+slug: 'B01K2RLTXM-es Antony Morato Camicia Basica Abbottonatura A Vista Camisa...'
+tags: camisa
 actualPrice: 15.65 EUR
 currency: EUR
 price: 15.65

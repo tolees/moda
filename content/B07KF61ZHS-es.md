@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41gJZInmbnL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KF61ZHS-es Levi s Original Hm Icon Crew Sudadera  Azul  Sodalite Blue 0013   Medium para Hombre'
+slug: 'B07KF61ZHS-es Levi s Original Hm Icon Crew Sudadera Azul Sodalite Blue...'
+tags: sudadera
 actualPrice: 32.45 EUR
 currency: EUR
 price: 32.45

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41lPD+VPgzL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WH158VW-es Mishansha Mujer Botas de Nieve Mujer Botines Zapatos Senderismo Impermeables Deportes Trekking Zapatos Impermeable Botas de Invierno Fur Forro Aire Libre Boots Rosa 38 EU'
+slug: 'B07WH158VW-es Mishansha Mujer Botas de Nieve Mujer Botines Zapatos...'
+tags: botines, zapatos
 actualPrice: 28.79 EUR
 currency: EUR
 price: 28.79

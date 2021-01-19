@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31R%2BzJawC0L._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HI3MLVM-es Superdry Classic Pique S/S Polo  Camisa de Pijama Para Hombre  Gris  Grey Marl07Q   S'
+slug: 'B01HI3MLVM-es Superdry Classic Pique S/S Polo Camisa de Pijama Para...'
+tags: camisa, pijama
 actualPrice: 22.17 EUR
 currency: EUR
 price: 22.17

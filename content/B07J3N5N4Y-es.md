@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41nvKNH35eL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J3N5N4Y-es GEOX 3062U mini pochette donna portatessere bordeaux mini handbag woman [ONE SIZE]'
+slug: 'B07J3N5N4Y-es GEOX 3062U mini pochette donna portatessere bordeaux mini...'
+tags: geox
 actualPrice: 39.0 EUR
 currency: EUR
 price: 39.0

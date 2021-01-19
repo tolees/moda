@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/418cOT65iuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CZM1BRJ-es Under Armour Rival Fleece Logo Pantalones Cortos para Hombre  cómodos y robustos Pantalones para Correr  Ancho pantalón Corto con Bolsillos Laterales  Steel Light Heather/Black  035   LG'
+slug: 'B07CZM1BRJ-es Under Armour Rival Fleece Logo Pantalones Cortos para...'
+tags: pantalón
 actualPrice: 20.49 EUR
 currency: EUR
 price: 20.49

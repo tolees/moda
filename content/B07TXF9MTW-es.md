@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ocg5emEBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TXF9MTW-es Levi s The tee Camiseta de Manga Corta  Blanco  Floral Filled Batwing White+ 0794   Large para Mujer'
+slug: 'B07TXF9MTW-es Levi s The tee Camiseta de Manga Corta Blanco Floral...'
+tags: camiseta
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

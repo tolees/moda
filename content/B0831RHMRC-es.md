@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0831RHMRC-es Zapatilla Casual Cuero Mujer - Nicki White Blue Red 36'
+tags: zapatilla
 actualPrice: 59.4 EUR
 currency: EUR
 price: 59.4

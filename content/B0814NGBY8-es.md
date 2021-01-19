@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31+V2-lLnAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0814NGBY8-es Largas Camisetas Vestido Mujer Verano Sexy Encaje Algodón Marca Moda Negro Fiesta Túnica Ropa Tallas Grandes  Negro  S '
+slug: 'B0814NGBY8-es Largas Camisetas Vestido Mujer Verano Sexy Encaje Algodón...'
+tags: moda, vestido
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

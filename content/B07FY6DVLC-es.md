@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31+Sgun728L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FY6DVLC-es Havaianas Slim  Chanclas para Mujer   Camo Green 7184   41/42 EU'
+slug: 'B07FY6DVLC-es Havaianas Slim Chanclas para Mujer Camo Green 7184 41/42 EU'
+tags: chanclas
 actualPrice: 8.34 EUR
 currency: EUR
 price: 8.34

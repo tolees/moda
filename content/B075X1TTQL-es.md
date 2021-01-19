@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41Hy1uUH7-L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B075X1TTQL-es find. NEWSTW045 vaqueros mujer  Azul  Indigo Rinse   W27/L30'
+slug: 'B075X1TTQL-es find. NEWSTW045 vaqueros mujer Azul Indigo Rinse W27/L30'
+tags: vaqueros
 actualPrice: 10.8 EUR
 currency: EUR
 price: 10.8

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Md9+aW4vL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NJGDX4M-es Ternua Long Island Chaqueta  Hombre  Whales Grey  S'
+slug: 'B07NJGDX4M-es Ternua Long Island Chaqueta Hombre Whales Grey S'
+tags: chaqueta
 actualPrice: 49.98 EUR
 currency: EUR
 price: 49.98

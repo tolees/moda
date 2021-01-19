@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/318KF73xdzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CN7J1Y4-es Crocs Reviva Flip  Chanclas Unisex Adulto  Negro  Black/Slate Grey 0dd   41/42 EU'
+slug: 'B07CN7J1Y4-es Crocs Reviva Flip Chanclas Unisex Adulto Negro Black/Slate...'
+tags: chanclas
 actualPrice: 13.05 EUR
 currency: EUR
 price: 13.05

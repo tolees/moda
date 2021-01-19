@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41rUmHOT23L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001B19TQS-es Timberland 6 Inch Premium Waterproof  Botas para Hombre  Marrón  Rust Nubuck   45 EU'
+slug: 'B001B19TQS-es Timberland 6 Inch Premium Waterproof Botas para Hombre...'
+tags: timberland
 actualPrice: 110.0 EUR
 currency: EUR
 price: 110.0

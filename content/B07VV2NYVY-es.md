@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Alyof+q8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VV2NYVY-es Meizas Conjuntos de Bikinis para Mujer Push Up Bikini Traje de baño de Tanga de Cintura Baja Trajes de baño Adecuado Viajes Playa La Natacion  S  Negro '
+slug: 'B07VV2NYVY-es Meizas Conjuntos de Bikinis para Mujer Push Up Bikini...'
+tags: bikini
 actualPrice: 5.26 EUR
 currency: EUR
 price: 5.26

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31Ago8CJpBL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KH2DHY1-es Under Armour Qualifier Wg Perf Short Pantalón Corto  Hombre  Gris  Pitch Gray/Black 012   M'
+slug: 'B07KH2DHY1-es Under Armour Qualifier Wg Perf Short Pantalón Corto Hombre...'
+tags: pantalón
 actualPrice: 14.72 EUR
 currency: EUR
 price: 14.72

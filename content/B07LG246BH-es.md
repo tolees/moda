@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41YHA-nIZIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LG246BH-es Geox J Sleigh Girl B ABX B  Botas de Nieve para Niñas  Negro  Black C9999   36 EU'
+slug: 'B07LG246BH-es Geox J Sleigh Girl B ABX B Botas de Nieve para Niñas Negro...'
+tags: geox
 actualPrice: 20.39 EUR
 currency: EUR
 price: 20.39

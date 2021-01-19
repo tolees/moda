@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41law8DXHjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TJK4FHX-es Clarks Maritsa Lara  Sandalias de Talón Abierto para Mujer  Amarillo  Amber Suede Amber Suede   39.5 EU'
+slug: 'B07TJK4FHX-es Clarks Maritsa Lara Sandalias de Talón Abierto para Mujer...'
+tags: sandalias
 actualPrice: 45.81 EUR
 currency: EUR
 price: 45.81

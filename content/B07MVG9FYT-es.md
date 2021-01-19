@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41N-Bp%2BgYWL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MVG9FYT-es Gant D1. The Light Down Jacket Chaqueta  Azul  Marine 410   X-Large para Hombre'
+slug: 'B07MVG9FYT-es Gant D1. The Light Down Jacket Chaqueta Azul Marine 410...'
+tags: chaqueta
 actualPrice: 140.24 EUR
 currency: EUR
 price: 140.24

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41COO1sjk1L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B077Y3GCXQ-es HIKARO Sudadera con Cuello Alto Mujer  Azul  Aqua   36  Talla del fabricante: X-Small '
+slug: 'B077Y3GCXQ-es HIKARO Sudadera con Cuello Alto Mujer Azul Aqua 36 Talla...'
+tags: sudadera
 actualPrice: 9.89 EUR
 currency: EUR
 price: 9.89

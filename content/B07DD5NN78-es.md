@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41XG8xFUnRL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DD5NN78-es Trangoworld Borau Chaqueta  Hombre  Azul Oscuro/Negro  S'
+slug: 'B07DD5NN78-es Trangoworld Borau Chaqueta Hombre Azul Oscuro/Negro S'
+tags: chaqueta
 actualPrice: 71.49 EUR
 currency: EUR
 price: 71.49

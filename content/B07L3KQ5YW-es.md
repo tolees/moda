@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41WfOTG0w6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L3KQ5YW-es Marca Amazon - find. Vestido Midi Camisero de Lino Mujer  Multicolor  BLACK /WHITE STRIPE   38  Label: S'
+slug: 'B07L3KQ5YW-es Marca Amazon - find. Vestido Midi Camisero de Lino Mujer...'
+tags: vestido, -, find.
 actualPrice: 11.47 EUR
 currency: EUR
 price: 11.47

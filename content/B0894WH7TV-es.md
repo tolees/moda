@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/410mjIKVzBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0894WH7TV-es EKQ Boxer Hombre Algodon Pack de 4 Calzoncillos Bóxers Ropa Interior Underwear Trunk Multipack Elásticos S M L XL XXL Negro Gris Azul Marino'
+slug: 'B0894WH7TV-es EKQ Boxer Hombre Algodon Pack de 4 Calzoncillos Bóxers...'
+tags: boxer
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

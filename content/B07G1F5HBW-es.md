@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412PyCJkSpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G1F5HBW-es Superdry O L Vintage Embroidery L/s tee Camisa Manga Larga  Gris  Flint Steel Grit A3z   XS para Hombre'
+slug: 'B07G1F5HBW-es Superdry O L Vintage Embroidery L/s tee Camisa Manga Larga...'
+tags: camisa
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

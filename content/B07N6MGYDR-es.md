@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41cLBEqkyJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N6MGYDR-es Tommy Hilfiger Classic Braguita de Bikini  Rojo  Red XCN   Talla única  Talla del Fabricante: X-Small  para Mujer'
+slug: 'B07N6MGYDR-es Tommy Hilfiger Classic Braguita de Bikini Rojo Red XCN...'
+tags: bikini
 actualPrice: 29.8 EUR
 currency: EUR
 price: 29.8

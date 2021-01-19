@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41hAJA8nBKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B012N51ZQC-es Desconocido Ajustables Cordon Elastico Cuello Deporte Gafas De Sol Gafas Amarillas Stra Negro'
+slug: 'B012N51ZQC-es Desconocido Ajustables Cordon Elastico Cuello Deporte...'
+tags: gafas
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

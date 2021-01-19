@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31k866nLYOL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B079C7QGS7-es JACK & JONES Jjebas tee SS U-Neck Noos Camiseta  Azul  Navy Blazer Detail: Reg Fit   X-Large para Hombre'
+slug: 'B079C7QGS7-es JACK & JONES Jjebas tee SS U-Neck Noos Camiseta Azul Navy...'
+tags: camiseta
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41eCexdFJJL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CZJGD5Z-es Under Armour UA Qualifier Storm Packable Jacket Chaqueta  Hombre  Negro  Black/Black/Reflective 001   XXL'
+slug: 'B07CZJGD5Z-es Under Armour UA Qualifier Storm Packable Jacket Chaqueta...'
+tags: chaqueta
 actualPrice: 34.47 EUR
 currency: EUR
 price: 34.47

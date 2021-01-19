@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41w6Wtc264L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084BH96CP-es Levi s SS Original Hm tee Camiseta  Charcoal Heather XX  M para Hombre'
+slug: 'B084BH96CP-es Levi s SS Original Hm tee Camiseta Charcoal Heather XX M...'
+tags: camiseta
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

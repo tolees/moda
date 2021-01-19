@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31OfwDcVd%2BL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RCP34RF-es Columbia Lake 22 Chaqueta De Plumón con Capucha  Mujer  Negro  Black   M'
+slug: 'B07RCP34RF-es Columbia Lake 22 Chaqueta De Plumón con Capucha Mujer...'
+tags: chaqueta
 actualPrice: 75.99 EUR
 currency: EUR
 price: 75.99

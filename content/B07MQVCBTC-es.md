@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41KL59w-VHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MQVCBTC-es Napapijri Berber H Sudadera con Capucha  Rojo  Red Scarlet R01   L para Hombre'
+slug: 'B07MQVCBTC-es Napapijri Berber H Sudadera con Capucha Rojo Red Scarlet...'
+tags: sudadera
 actualPrice: 44.55 EUR
 currency: EUR
 price: 44.55

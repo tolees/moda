@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31kYxFhaeCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SD17LCM-es PUMA DIVECAT V2  Sandalias deslizantes Unisex Adulto  Azul  Dark Denim/Palace Blue   47 EU'
+slug: 'B07SD17LCM-es PUMA DIVECAT V2 Sandalias deslizantes Unisex Adulto Azul...'
+tags: sandalias
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/314AtFCNmUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LGQPG5H-es Gafas de Presbicia con Filtro Anti Luz Azul para Ordenador. Gafas Graduadas de Lectura para Hombre y Mujer con Cristales Anti-reflejantes. Ferrari +1.5 – UFFIZI'
+slug: 'B07LGQPG5H-es Gafas de Presbicia con Filtro Anti Luz Azul para...'
+tags: gafas
 actualPrice: 19.92 EUR
 currency: EUR
 price: 19.92

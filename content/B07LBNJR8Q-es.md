@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/312MYCuufPL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LBNJR8Q-es Helly Hansen Welsey II Aislado Impermeable Gabardina Chaqueta de Invierno  Mujer  Beluga  M'
+slug: 'B07LBNJR8Q-es Helly Hansen Welsey II Aislado Impermeable Gabardina...'
+tags: chaqueta
 actualPrice: 135.99 EUR
 currency: EUR
 price: 135.99

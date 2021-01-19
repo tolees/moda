@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21H1wiCS9yL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077XNJPNZ-es Under Armour Hombre MK1 Short Sleeve EU SMU  Camiseta'
+slug: 'B077XNJPNZ-es Under Armour Hombre MK1 Short Sleeve EU SMU Camiseta'
+tags: camiseta
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

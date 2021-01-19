@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ew05S3+vL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HNGWYZ3-es Lencería Sexy para Mujer  Lencería Erótica  Disfraz De Halloween  Conejito  Seducción Sexy  Pijama Atractivo  no Contiene Calcetines '
+slug: 'B07HNGWYZ3-es Lencería Sexy para Mujer Lencería Erótica Disfraz De...'
+tags: pijama
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

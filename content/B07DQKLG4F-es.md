@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41uRbIzOeyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DQKLG4F-es Pepe Jeans Jeanius  Vaqueros relaxed para Hombre  Azul  11Oz Streaky Stretch Dk Z45   W40/L30'
+slug: 'B07DQKLG4F-es Pepe Jeans Jeanius Vaqueros relaxed para Hombre Azul 11Oz...'
+tags: vaqueros
 actualPrice: 34.49 EUR
 currency: EUR
 price: 34.49

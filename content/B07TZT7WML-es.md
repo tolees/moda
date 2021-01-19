@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41MrTPZOZcL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TZT7WML-es Wrangler ICONS Vaqueros Slim  Azul  3 Years 10k   W40/L34  Talla del fabricante: 40/34  para Hombre'
+slug: 'B07TZT7WML-es Wrangler ICONS Vaqueros Slim Azul 3 Years 10k W40/L34...'
+tags: vaqueros
 actualPrice: 47.45 EUR
 currency: EUR
 price: 47.45

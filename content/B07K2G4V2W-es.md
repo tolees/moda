@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ZVyw9TV6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K2G4V2W-es Timberland 6 Inch Premium Waterproof  Botas para Mujer  Rojo  Dark Red Nubuck   36 EU'
+slug: 'B07K2G4V2W-es Timberland 6 Inch Premium Waterproof Botas para Mujer Rojo...'
+tags: timberland
 actualPrice: 58.38 EUR
 currency: EUR
 price: 58.38

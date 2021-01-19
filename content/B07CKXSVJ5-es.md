@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/410jKm5DYiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CKXSVJ5-es STTLZMC Polo para Hombre de Manga Corta Casual Moda Algodón Camisas Cuello en Contraste Golf Tennis Negro S'
+slug: 'B07CKXSVJ5-es STTLZMC Polo para Hombre de Manga Corta Casual Moda...'
+tags: moda
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

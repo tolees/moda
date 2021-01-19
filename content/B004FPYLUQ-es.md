@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41mYmVlcjmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004FPYLUQ-es Vans Classic VGGG  Camiseta Para Hombre  Azul  Royal/White   L'
+slug: 'B004FPYLUQ-es Vans Classic VGGG Camiseta Para Hombre Azul Royal/White L'
+tags: camiseta
 actualPrice: 23.95 EUR
 currency: EUR
 price: 23.95

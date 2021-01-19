@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41x0DK4JsgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CZFT1DD-es Under Armour UA Heatgear Racer Camiseta Sin Mangas  Mujer  Blanco  White/Metallic Silver 100   L'
+slug: 'B07CZFT1DD-es Under Armour UA Heatgear Racer Camiseta Sin Mangas Mujer...'
+tags: camiseta
 actualPrice: 13.24 EUR
 currency: EUR
 price: 13.24

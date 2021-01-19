@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31WfvyAAPuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T3H1G8Z-es Timberland Bradstreet Plain Toe Sensorflex  Zapatos de Cordones Oxford para Hombre  Azul Navy Full Grain  40 EU'
+slug: 'B07T3H1G8Z-es Timberland Bradstreet Plain Toe Sensorflex Zapatos de...'
+tags: timberland, zapatos
 actualPrice: 103.95 EUR
 currency: EUR
 price: 103.95

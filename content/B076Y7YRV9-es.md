@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31w3+JxJxRL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076Y7YRV9-es Levi s 511 Slim Fit Vaqueros  Nightwatch Blue Bi-Str 2617  32W / 32L para Hombre'
+slug: 'B076Y7YRV9-es Levi s 511 Slim Fit Vaqueros Nightwatch Blue Bi-Str 2617...'
+tags: vaqueros
 actualPrice: 44.5 EUR
 currency: EUR
 price: 44.5

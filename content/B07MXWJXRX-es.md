@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ipISpcOML._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MXWJXRX-es Desigual Bag Liberté Patch Folded  Bolso para Mujer  Negro  Negro   35.5 x 3 x 31 cm  B x H x T '
+slug: 'B07MXWJXRX-es Desigual Bag Liberté Patch Folded Bolso para Mujer Negro...'
+tags: bolso
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

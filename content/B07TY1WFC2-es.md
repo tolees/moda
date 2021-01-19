@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41V7MKhB8PL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TY1WFC2-es Lee Button Down Camisa  Azul  Blueprint LGH   X-Large para Hombre'
+slug: 'B07TY1WFC2-es Lee Button Down Camisa Azul Blueprint LGH X-Large para Hombre'
+tags: camisa
 actualPrice: 27.52 EUR
 currency: EUR
 price: 27.52

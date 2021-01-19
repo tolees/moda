@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41BN1BO6W-L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W3VX9L6-es JACK & JONES JORSHAREE Puffer Jacket Chaqueta  Azul Forest Night  L para Hombre'
+slug: 'B07W3VX9L6-es JACK & JONES JORSHAREE Puffer Jacket Chaqueta Azul Forest...'
+tags: chaqueta
 actualPrice: 45.48 EUR
 currency: EUR
 price: 45.48

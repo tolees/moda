@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41rkWv1Qy-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JG7ZNHY-es Pepe Jeans Amberes Archive Camiseta  Blanco  Optic White 802   4-5 años  Talla del Fabricante: 104/4 años  para Niñas'
+slug: 'B07JG7ZNHY-es Pepe Jeans Amberes Archive Camiseta Blanco Optic White 802...'
+tags: camiseta
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

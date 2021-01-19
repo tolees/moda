@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41EeTwCth1L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079C3BNN3-es Helly Hansen Swift 4.0 Aislado Chaqueta de Esquí  Hombre  Black  M'
+slug: 'B079C3BNN3-es Helly Hansen Swift 4.0 Aislado Chaqueta de Esquí Hombre...'
+tags: chaqueta
 actualPrice: 134.66 EUR
 currency: EUR
 price: 134.66

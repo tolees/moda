@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51FNFQ9OUQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077YDLL7Q-es HIKARO Sudadera con Capucha Hombre  Azul  Navy   48  Talla del fabricante: Small '
+slug: 'B077YDLL7Q-es HIKARO Sudadera con Capucha Hombre Azul Navy 48 Talla del...'
+tags: sudadera
 actualPrice: 7.44 EUR
 currency: EUR
 price: 7.44

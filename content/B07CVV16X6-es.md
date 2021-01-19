@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61mtivtSSwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CVV16X6-es Foino Bolso Bandolera Mujer Moda Bolsa Diseño Bolsas de Viaje Bolsa de Deporte Ligero Bolsos Escolares Bolsa Lateral Libro Bolsa de Mensajero Colegio para Tableta'
+slug: 'B07CVV16X6-es Foino Bolso Bandolera Mujer Moda Bolsa Diseño Bolsas de...'
+tags: bolso, moda
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

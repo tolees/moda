@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51lEpwDCWDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W8Z7S5J-es A+ Trainer Collar Antiladridos para Perros  Collar Ladridos Perro 7 Niveles Sonido y Vibración Sensibilidad  Collar Adiestramiento Impermeable IP65  Correa Ajustable Nylon para Perro 7-54kg'
+slug: 'B07W8Z7S5J-es A+ Trainer Collar Antiladridos para Perros Collar Ladridos...'
+tags: collar
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

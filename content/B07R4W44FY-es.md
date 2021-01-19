@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51EEISKK+2L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R4W44FY-es Helly Hansen Lifaloft Insulator Jacket Chaqueta Aislante  Hombre  Azul  Electric Blue   XL'
+slug: 'B07R4W44FY-es Helly Hansen Lifaloft Insulator Jacket Chaqueta Aislante...'
+tags: chaqueta
 actualPrice: 83.89 EUR
 currency: EUR
 price: 83.89

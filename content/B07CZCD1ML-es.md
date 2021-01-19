@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41p1fue5+CL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CZCD1ML-es Under Armour Raid Short Sleeve tee Camiseta  Niños  Negro  Black/Black 001   S'
+slug: 'B07CZCD1ML-es Under Armour Raid Short Sleeve tee Camiseta Niños Negro...'
+tags: camiseta
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

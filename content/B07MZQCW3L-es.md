@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41x3f2hX-WL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZQCW3L-es Pepe Jeans Hatch Vaqueros Slim   Wiser Wash Dark Used Denim 000   W40/L34 para Hombre'
+slug: 'B07MZQCW3L-es Pepe Jeans Hatch Vaqueros Slim Wiser Wash Dark Used Denim...'
+tags: vaqueros
 actualPrice: 33.05 EUR
 currency: EUR
 price: 33.05

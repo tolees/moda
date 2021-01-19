@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Ovh7VI5ML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X32LT9V-es G-STAR RAW Pocket Short Sleeve Camiseta  Rosa  Lt Bleach Pink 025-647   Medium para Hombre'
+slug: 'B07X32LT9V-es G-STAR RAW Pocket Short Sleeve Camiseta Rosa Lt Bleach...'
+tags: camiseta
 actualPrice: 9.82 EUR
 currency: EUR
 price: 9.82

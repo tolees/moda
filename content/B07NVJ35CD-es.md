@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zOTBpPDFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NVJ35CD-es Zapatos de Playa y Piscina para Niña Niño Chanclas 2019 Sandalias Mujer Verano Antideslizante Zapatillas casa Hombre EU38-38.5= Fabricante 38/39'
+slug: 'B07NVJ35CD-es Zapatos de Playa y Piscina para Niña Niño Chanclas 2019...'
+tags: chanclas, sandalias, zapatos
 actualPrice: 14.36 EUR
 currency: EUR
 price: 14.36

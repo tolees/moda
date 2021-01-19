@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-ruurYoUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SQGPMD1-es Geox U Snake.2 A  Zapatillas para Hombre  Naranja  Dk Yellow/Lt Grey C2g1l   41 EU'
+slug: 'B07SQGPMD1-es Geox U Snake.2 A Zapatillas para Hombre Naranja Dk...'
+tags: geox
 actualPrice: 38.55 EUR
 currency: EUR
 price: 38.55

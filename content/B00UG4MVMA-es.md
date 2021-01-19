@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41WS8xug1HL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00UG4MVMA-es Charles Wilson Camiseta Polo Clásica Lisa  Small  Teal '
+slug: 'B00UG4MVMA-es Charles Wilson Camiseta Polo Clásica Lisa Small Teal'
+tags: camiseta
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

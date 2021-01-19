@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31umxFxcY+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01H6NY50E-es Crocs Swiftwater Wave M Zapatos de agua Hombre  Negro  Black/Pearl White 069   42-43 EU  8 UK '
+slug: 'B01H6NY50E-es Crocs Swiftwater Wave M Zapatos de agua Hombre Negro...'
+tags: zapatos
 actualPrice: 27.95 EUR
 currency: EUR
 price: 27.95

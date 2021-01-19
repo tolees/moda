@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/213y9D7TkkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01EXRUMKS-es Ray-Ban Hexagonal Flat Lenses Gafas de sol  Oro  Gold   51 para Hombre'
+slug: 'B01EXRUMKS-es Ray-Ban Hexagonal Flat Lenses Gafas de sol Oro Gold 51...'
+tags: gafas
 actualPrice: 93.0 EUR
 currency: EUR
 price: 93.0

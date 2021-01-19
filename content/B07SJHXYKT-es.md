@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/317p+JNyUUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SJHXYKT-es Burton Underhill Camiseta  Hombre  Stout White  XL'
+slug: 'B07SJHXYKT-es Burton Underhill Camiseta Hombre Stout White XL'
+tags: camiseta
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

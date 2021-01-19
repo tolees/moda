@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41uvWzZANgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TMHG9HM-es Levi s 501 Original Fit Jeans Pantalón Vaquero con diseño clásico y cómodos de Usar  Treasure Island Lot LTWT Tnl 3002  30W / 32L para Hombre'
+slug: 'B07TMHG9HM-es Levi s 501 Original Fit Jeans Pantalón Vaquero con diseño...'
+tags: pantalón
 actualPrice: 79.2 EUR
 currency: EUR
 price: 79.2

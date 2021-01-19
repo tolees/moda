@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412sUfSK11L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01I1CTQMG-es adidas Real Madrid CF TRG Sudadera  Hombre  Blanco/Morado  S'
+slug: 'B01I1CTQMG-es adidas Real Madrid CF TRG Sudadera Hombre Blanco/Morado S'
+tags: sudadera
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

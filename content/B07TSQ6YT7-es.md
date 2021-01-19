@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31epMG0Db8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TSQ6YT7-es Lee Scarlett High Vaqueros  Verde  Agave Green MW   29W/31L para Mujer'
+slug: 'B07TSQ6YT7-es Lee Scarlett High Vaqueros Verde Agave Green MW 29W/31L...'
+tags: vaqueros
 actualPrice: 41.46 EUR
 currency: EUR
 price: 41.46

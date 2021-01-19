@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31rPr4TLvqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FQB4L6V-es Jack & Jones Jjiglenn Jjfox Bl 820 Noos Vaqueros Slim  Azul  Blue Denim Blue Denim   W36/L32 para Hombre'
+slug: 'B07FQB4L6V-es Jack & Jones Jjiglenn Jjfox Bl 820 Noos Vaqueros Slim Azul...'
+tags: vaqueros
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

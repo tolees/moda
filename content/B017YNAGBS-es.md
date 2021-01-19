@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51dhuFNLdJL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B017YNAGBS-es Gregster Hombre Chaqueta de Esquí - Snowboard - Chaqueta de Nieve'
+slug: 'B017YNAGBS-es Gregster Hombre Chaqueta de Esquí - Snowboard - Chaqueta...'
+tags: chaqueta
 actualPrice: 18.06 EUR
 currency: EUR
 price: 18.06

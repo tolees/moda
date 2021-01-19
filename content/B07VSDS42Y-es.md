@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41YZtK7T6cL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VSDS42Y-es JACK & JONES NOS Jjewashington Shirt L/s STS Camisa  Rojo  Port Royalerot   Small para Hombre'
+slug: 'B07VSDS42Y-es JACK & JONES NOS Jjewashington Shirt L/s STS Camisa Rojo...'
+tags: camisa
 actualPrice: 13.61 EUR
 currency: EUR
 price: 13.61

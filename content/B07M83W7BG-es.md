@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31PdD0hV7CL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M83W7BG-es Napapijri DAMAVAND Crew Jersey  Rojo  Red Scarlet R01   L para Hombre'
+slug: 'B07M83W7BG-es Napapijri DAMAVAND Crew Jersey Rojo Red Scarlet R01 L para...'
+tags: jersey
 actualPrice: 44.55 EUR
 currency: EUR
 price: 44.55

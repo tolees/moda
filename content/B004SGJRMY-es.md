@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41och+nLfsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004SGJRMY-es PUMA Suede Classic+  Zapatilla para Hombre  Black White  36 EU'
+slug: 'B004SGJRMY-es PUMA Suede Classic+ Zapatilla para Hombre Black White 36 EU'
+tags: zapatilla
 actualPrice: 39.9 EUR
 currency: EUR
 price: 39.9

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ut9N6rrjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08FMKGQ38-es Doaraha Conjunto de Pijamas de Maternidad y Enfermería para Mujer Rayas Manga Media Pijama Premamá Lactancia Camiseta y Pantalones Algodón Embarazo Ropa de Dormir  Negro  M '
+slug: 'B08FMKGQ38-es Doaraha Conjunto de Pijamas de Maternidad y Enfermería...'
+tags: camiseta, pijama
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

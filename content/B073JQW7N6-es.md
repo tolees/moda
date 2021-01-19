@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41et1FZI7CL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B073JQW7N6-es find. Camisa de Algodón Hombre  Azul  Navy   54  Talla del fabricante: X-Large '
+slug: 'B073JQW7N6-es find. Camisa de Algodón Hombre Azul Navy 54 Talla del...'
+tags: camisa
 actualPrice: 7.8 EUR
 currency: EUR
 price: 7.8

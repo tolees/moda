@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416xSulv0YL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IVJ85SK-es Ever-Pretty Vestido de Fiesta Noche Asimétrico en Encaje Volantes Escote Mujer Blanco y Negro 38'
+slug: 'B01IVJ85SK-es Ever-Pretty Vestido de Fiesta Noche Asimétrico en Encaje...'
+tags: vestido
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

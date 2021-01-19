@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/312W4EjvHsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079FQ2SXJ-es Under Armour Sportstyle Pantalones para Hombre de algodón con Logotipo  pantalón Corto Ultraligero y Transpirable  cómodo y Ancho pantalón Deportivo  Steel Light Heather/Black  035   LG'
+slug: 'B079FQ2SXJ-es Under Armour Sportstyle Pantalones para Hombre de algodón...'
+tags: pantalón
 actualPrice: 16.78 EUR
 currency: EUR
 price: 16.78

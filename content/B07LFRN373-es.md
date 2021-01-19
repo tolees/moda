@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31he7z80HSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFRN373-es Geox U New Life C  Zapatos de Cordones Derby para Hombre  Negro  Black C9999   42 EU'
+slug: 'B07LFRN373-es Geox U New Life C Zapatos de Cordones Derby para Hombre...'
+tags: geox, zapatos
 actualPrice: 33.08 EUR
 currency: EUR
 price: 33.08

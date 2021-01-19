@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Rags9pdjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082MWDXML-es Iris & Lilly Braga Brasileña de Algodón Mujer  Pack de 10  Negro  Black   M  Label: M'
+slug: 'B082MWDXML-es Iris & Lilly Braga Brasileña de Algodón Mujer Pack de 10...'
+tags: iris, &, lilly
 actualPrice: 18.11 EUR
 currency: EUR
 price: 18.11

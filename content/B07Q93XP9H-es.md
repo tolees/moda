@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31vGLy6A-2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q93XP9H-es SALOMON Coton Logo SS tee M Camiseta Deportiva de Manga Corta  Algodón  Hombre  Azul  Night Sky   S'
+slug: 'B07Q93XP9H-es SALOMON Coton Logo SS tee M Camiseta Deportiva de Manga...'
+tags: camiseta
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

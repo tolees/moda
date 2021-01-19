@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31kMmJpx+7L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00LMI4YNI-es Quiksilver MONKEY ABYSS M SNDL XKKC - sandalias abiertas de lona hombre  Negro  Black /         Black /         Brown   39'
+slug: 'B00LMI4YNI-es Quiksilver MONKEY ABYSS M SNDL XKKC - sandalias abiertas...'
+tags: sandalias
 actualPrice: 7.96 EUR
 currency: EUR
 price: 7.96

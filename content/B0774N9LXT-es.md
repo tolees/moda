@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51EpRSC5vvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0774N9LXT-es LA LEELA Casual Hawaiana Camisa para Hombre Señores Manga Corta Bolsillo Delantero Surf Palmeras Caballeros Playa Aloha XS- in cms :91-96 Blood Rojo W383'
+slug: 'B0774N9LXT-es LA LEELA Casual Hawaiana Camisa para Hombre Señores Manga...'
+tags: camisa
 actualPrice: 11.35 EUR
 currency: EUR
 price: 11.35

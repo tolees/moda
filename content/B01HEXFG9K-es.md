@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Rp+JIOeLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HEXFG9K-es Crocs Crocband Clog K  Zuecos con Correa Trasera Unisex-Bambini  BLU  Cerulean Blue   27/28 EU'
+slug: 'B01HEXFG9K-es Crocs Crocband Clog K Zuecos con Correa Trasera Unisex-...'
+tags: zuecos
 actualPrice: 21.3 EUR
 currency: EUR
 price: 21.3

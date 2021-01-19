@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41yIf%2B%2BDw2L._SL200_
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DJ9P96P-es Geox D Marykarmen Mid Sandal E  Sandalias con Punta Abierta para Mujer  Taupe/Lt Gold Ch62l  36 EU'
+slug: 'B07DJ9P96P-es Geox D Marykarmen Mid Sandal E Sandalias con Punta Abierta...'
+tags: geox, sandalias
 actualPrice: 28.66 EUR
 currency: EUR
 price: 28.66

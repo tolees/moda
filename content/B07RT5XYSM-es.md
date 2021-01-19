@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51OJTwxn1IL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RT5XYSM-es GLEADING Collar Anti pulgas y garrapatas para Perros y Gatos  prevención de garrapatas y pulgas hipoalergénico e Impermeable por 8 Meses de protección  tamaño Ajustable 62cm '
+slug: 'B07RT5XYSM-es GLEADING Collar Anti pulgas y garrapatas para Perros y...'
+tags: collar
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

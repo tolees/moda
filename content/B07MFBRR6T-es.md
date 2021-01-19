@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31iBEF6APEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MFBRR6T-es Kickers Maldan  Zapatos de Cordones Derby para Hombre  Negro  Noir 8   40 EU'
+slug: 'B07MFBRR6T-es Kickers Maldan Zapatos de Cordones Derby para Hombre Negro...'
+tags: zapatos
 actualPrice: 36.9 EUR
 currency: EUR
 price: 36.9

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41BtyjkBZpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WZGXSRD-es Pepe Jeans Gen Vaqueros Straight  Azul  000Denim 000   W32/L32  Talla del Fabricante: 32  para Mujer'
+slug: 'B07WZGXSRD-es Pepe Jeans Gen Vaqueros Straight Azul 000Denim 000 W32/L32...'
+tags: vaqueros
 actualPrice: 46.49 EUR
 currency: EUR
 price: 46.49

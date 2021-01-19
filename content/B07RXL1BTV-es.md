@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Eui+kKjVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RXL1BTV-es Levi s Sunset 1 Pkt Slim Camisa  Azul  Alfonso Indigo 0006   Medium para Hombre'
+slug: 'B07RXL1BTV-es Levi s Sunset 1 Pkt Slim Camisa Azul Alfonso Indigo 0006...'
+tags: camisa
 actualPrice: 34.5 EUR
 currency: EUR
 price: 34.5

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41VdLcje1oL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TVNS4JN-es Only Onlantonia Faux Suede Midi Skirt Otw Falda  Negro  Black Black   38 para Mujer'
+slug: 'B07TVNS4JN-es Only Onlantonia Faux Suede Midi Skirt Otw Falda Negro...'
+tags: falda
 actualPrice: 9.66 EUR
 currency: EUR
 price: 9.66

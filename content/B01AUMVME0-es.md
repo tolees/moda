@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41SkHaCPfnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01AUMVME0-es GIVI EA106B Easy Bag Bolso Magnético Depósito  Volumen 6 litros  Carga Máxima 2 Kg  Negro'
+slug: 'B01AUMVME0-es GIVI EA106B Easy Bag Bolso Magnético Depósito Volumen 6...'
+tags: bolso
 actualPrice: 35.5 EUR
 currency: EUR
 price: 35.5

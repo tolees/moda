@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414ilEAlRwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RC8CKNT-es Columbia Cascade Ridge Chaqueta Softshell  Mujer  Olive Green Heather  M'
+slug: 'B07RC8CKNT-es Columbia Cascade Ridge Chaqueta Softshell Mujer Olive...'
+tags: chaqueta
 actualPrice: 38.85 EUR
 currency: EUR
 price: 38.85

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51VYRDk42VL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T1L2P2Z-es Tikea Bolsa Geométrica de Corcho Natural para Mujer  Caja de Maquillaje Ecológica de Moda  Bolsa de Cosmético Plegable Efecto Madera'
+slug: 'B07T1L2P2Z-es Tikea Bolsa Geométrica de Corcho Natural para Mujer Caja...'
+tags: moda
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

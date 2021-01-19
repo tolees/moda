@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41uxNpmKlnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QK7PCCN-es MTNG Collection 58662  Botines para Mujer  Marrón  Vintage Marron C47320   37 EU'
+slug: 'B07QK7PCCN-es MTNG Collection 58662 Botines para Mujer Marrón Vintage...'
+tags: botines
 actualPrice: 36.22 EUR
 currency: EUR
 price: 36.22

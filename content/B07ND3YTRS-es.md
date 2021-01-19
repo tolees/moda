@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41HmQEvquoL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ND3YTRS-es dockers Smart 360 Flex Alpha Skinny Vaqueros  Dark Ginger  34W / 32L para Hombre'
+slug: 'B07ND3YTRS-es dockers Smart 360 Flex Alpha Skinny Vaqueros Dark Ginger...'
+tags: vaqueros
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

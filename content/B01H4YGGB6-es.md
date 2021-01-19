@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/419nMNZtL6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01H4YGGB6-es Pepe Jeans Charing  Camiseta Hombre  Negro  Black   Large'
+slug: 'B01H4YGGB6-es Pepe Jeans Charing Camiseta Hombre Negro Black Large'
+tags: camiseta
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

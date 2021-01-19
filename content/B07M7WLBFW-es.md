@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/410JlqmxO9L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M7WLBFW-es Wildfire Vine Hombre Transpirables Aire Libre y Deporte Zapatos Sneaker Deportivos Zapatos Casuales con Cordones Zapatillas Deporte de Moda Baloncesto Zapatos'
+slug: 'B07M7WLBFW-es Wildfire Vine Hombre Transpirables Aire Libre y Deporte...'
+tags: moda, zapatos
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41TM0kYynYL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01EHVY666-es Antony Morato Camicia con Contrasto Collo E Interno Finta Camisa  Azul Vivo  46 para Hombre'
+slug: 'B01EHVY666-es Antony Morato Camicia con Contrasto Collo E Interno Finta...'
+tags: camisa
 actualPrice: 24 EUR
 currency: EUR
 price: 24

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41fBuotizRL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CYZNGC5-es Levi s Mile High Super Skinny Vaqueros  Black Galaxy  24W / 32L para Mujer'
+slug: 'B07CYZNGC5-es Levi s Mile High Super Skinny Vaqueros Black Galaxy 24W /...'
+tags: vaqueros
 actualPrice: 69.95 EUR
 currency: EUR
 price: 69.95

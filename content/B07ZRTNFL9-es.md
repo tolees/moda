@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31a6LfXdEhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZRTNFL9-es Marca Amazon - AURIQUE Mallas de Deporte Cortas sin Costuras Mujer  Rosa  rosa de espino rosa   44  Label:XL'
+slug: 'B07ZRTNFL9-es Marca Amazon - AURIQUE Mallas de Deporte Cortas sin...'
+tags: aurique
 actualPrice: 8.6 EUR
 currency: EUR
 price: 8.6

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41huev4FQxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076PML56F-es Marca Amazon - MERAKI Anorak Largo Mujer con Capucha  Rojo  Burgundy   44  Label: XL'
+slug: 'B076PML56F-es Marca Amazon - MERAKI Anorak Largo Mujer con Capucha Rojo...'
+tags: meraki
 actualPrice: 45.5 EUR
 currency: EUR
 price: 45.5

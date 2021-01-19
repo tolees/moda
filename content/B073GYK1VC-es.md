@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/410ua3t0DJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073GYK1VC-es Marca Amazon - find. Off The Shoulder Button  Camisa para Mujer  Multicolor  Blue/White Stripes   42  Label: L'
+slug: 'B073GYK1VC-es Marca Amazon - find. Off The Shoulder Button Camisa para...'
+tags: camisa, -, find.
 actualPrice: 7.78 EUR
 currency: EUR
 price: 7.78

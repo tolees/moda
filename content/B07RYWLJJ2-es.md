@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41jxsMr-jEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RYWLJJ2-es Pepe Jeans Bobby Camiseta  Gris  Grey Marl 933   Talla única  Talla del Fabricante: Small  para Hombre'
+slug: 'B07RYWLJJ2-es Pepe Jeans Bobby Camiseta Gris Grey Marl 933 Talla única...'
+tags: camiseta
 actualPrice: 20.9 EUR
 currency: EUR
 price: 20.9

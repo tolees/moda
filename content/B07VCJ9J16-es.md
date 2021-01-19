@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Rzf4rSXpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VCJ9J16-es Esprit 099ee2f007 Camisa  Blanco  Off White 110   X-Large para Hombre'
+slug: 'B07VCJ9J16-es Esprit 099ee2f007 Camisa Blanco Off White 110 X-Large para...'
+tags: camisa
 actualPrice: 8.72 EUR
 currency: EUR
 price: 8.72

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41nCE3b0xFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075Z5LDDK-es Vero Moda Vmhot Nine HW Dnm Pencil Skirt Mix Noos Falda  Azul  Medium Blue Denim Medium Blue Denim   38  Talla del Fabricante: Medium  para Mujer'
+slug: 'B075Z5LDDK-es Vero Moda Vmhot Nine HW Dnm Pencil Skirt Mix Noos Falda...'
+tags: falda, moda
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

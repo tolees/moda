@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41joCRyrrGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FR1CT5P-es Clarks Step Beat Sun  Sandalias Punta Abierta para Hombre  Negro  Black   41 EU'
+slug: 'B07FR1CT5P-es Clarks Step Beat Sun Sandalias Punta Abierta para Hombre...'
+tags: sandalias
 actualPrice: 36.66 EUR
 currency: EUR
 price: 36.66

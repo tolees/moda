@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Pegkc+tPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TJ9R8BM-es Levi s SS Classic 1 Pkt Standrd Camisa  Azul  Austin Riverside 0019   Small para Hombre'
+slug: 'B07TJ9R8BM-es Levi s SS Classic 1 Pkt Standrd Camisa Azul Austin...'
+tags: camisa
 actualPrice: 21.57 EUR
 currency: EUR
 price: 21.57

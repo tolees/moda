@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41g1pEZYWvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WC3TY3N-es Tommy Hilfiger Fixed Triangle Rp Parte de Arriba de Bikini  Rojo  Red Glare   M para Mujer'
+slug: 'B07WC3TY3N-es Tommy Hilfiger Fixed Triangle Rp Parte de Arriba de Bikini...'
+tags: bikini
 actualPrice: 16.65 EUR
 currency: EUR
 price: 16.65

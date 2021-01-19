@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41UY8hkumPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VDFZKBT-es Desigual TS varsovia Camiseta  Azul  Estate Blue 5016   Small para Mujer'
+slug: 'B07VDFZKBT-es Desigual TS varsovia Camiseta Azul Estate Blue 5016 Small...'
+tags: camiseta
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

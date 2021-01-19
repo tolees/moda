@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41uQpA0zE-L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XQY34ZU-es Pepe Jeans Spike Vaqueros  Azul  Fonce Denim H05   W32/L32 para Hombre'
+slug: 'B00XQY34ZU-es Pepe Jeans Spike Vaqueros Azul Fonce Denim H05 W32/L32...'
+tags: vaqueros
 actualPrice: 53 EUR
 currency: EUR
 price: 53

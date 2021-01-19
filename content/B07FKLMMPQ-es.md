@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31XSRMZam0L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FKLMMPQ-es Trangoworld PC007743-6ZT-L Pantalón Largo  Mujer  Fucsia/Gris  Sombra Oscura   L'
+slug: 'B07FKLMMPQ-es Trangoworld PC007743-6ZT-L Pantalón Largo Mujer...'
+tags: pantalón
 actualPrice: 70.99 EUR
 currency: EUR
 price: 70.99

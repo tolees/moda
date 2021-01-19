@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41LHxCc70XL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XPBYWC1-es Kipling Iaka Monedero para Mujer  Multicolor  Water Camo   20x14x1 cm  Paquete de 3'
+slug: 'B06XPBYWC1-es Kipling Iaka Monedero para Mujer Multicolor Water Camo...'
+tags: monedero
 actualPrice: 13.41 EUR
 currency: EUR
 price: 13.41

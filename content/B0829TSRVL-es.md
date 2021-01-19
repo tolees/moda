@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41eZEjy-SSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0829TSRVL-es EverVanz Bolsa de Viaje Poliéster  Gran tamaño Bolso del Fin de Semana con Decoración De Cuero  Resistente al Agua Bolsas de Deporte para Actividades al Aire Libre'
+slug: 'B0829TSRVL-es EverVanz Bolsa de Viaje Poliéster Gran tamaño Bolso del...'
+tags: bolso
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

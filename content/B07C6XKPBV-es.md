@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51f9SMPrGwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C6XKPBV-es Air Zapatillas de Running para Hombre Mujer Zapatos para Correr y Asfalto Aire Libre y Deportes Calzado 1643 Unisexo Gray 38'
+slug: 'B07C6XKPBV-es Air Zapatillas de Running para Hombre Mujer Zapatos para...'
+tags: zapatos
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

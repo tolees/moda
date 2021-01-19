@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41RDBiBEEIL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082HMWGZZ-es Guantes de Levantamiento de Pesas  Guantes de Entrenamiento con Muñequeras  Calleras Gimnasio Hombre  Guantes de Fitness para Evitar Callos para el Entrenamiento  Levantamiento de Pesas  1 Par'
+slug: 'B082HMWGZZ-es Guantes de Levantamiento de Pesas Guantes de Entrenamiento...'
+tags: guantes
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

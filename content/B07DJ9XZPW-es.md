@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51qwseBkq3L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DJ9XZPW-es Honghu Verano Sexy Mangas Corta Low Culleo Slim Fit Vestido para Mujer Party Dress  S  Khaki '
+slug: 'B07DJ9XZPW-es Honghu Verano Sexy Mangas Corta Low Culleo Slim Fit...'
+tags: vestido
 actualPrice: 3.29 EUR
 currency: EUR
 price: 3.29

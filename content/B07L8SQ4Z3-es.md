@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ujejNPg5L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L8SQ4Z3-es REPLAY Anbass Vaqueros Slim  Verde  Military Green 30   W36/L36  Talla del Fabricante: 36  para Hombre'
+slug: 'B07L8SQ4Z3-es REPLAY Anbass Vaqueros Slim Verde Military Green 30...'
+tags: vaqueros
 actualPrice: 81.95 EUR
 currency: EUR
 price: 81.95

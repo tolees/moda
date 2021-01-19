@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41PnMh3WEcL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KSRC9LW-es AnazoZ Acero Inoxidable Gemelos para Hombre Camisa Gemelos Boda Púrpura Reloj de Arena 0.8x2CM'
+slug: 'B07KSRC9LW-es AnazoZ Acero Inoxidable Gemelos para Hombre Camisa Gemelos...'
+tags: camisa
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

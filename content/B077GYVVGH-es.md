@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414qpPj-4zL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077GYVVGH-es Crocs Crocband Sandal Kids  Sandalias Unisex Niños  Rosa  Carnation/Amethyst   25/26 EU'
+slug: 'B077GYVVGH-es Crocs Crocband Sandal Kids Sandalias Unisex Niños Rosa...'
+tags: sandalias
 actualPrice: 19.49 EUR
 currency: EUR
 price: 19.49

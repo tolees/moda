@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/315THrC3UBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M67GLTM-es G-STAR RAW Core Super Slim Camisa Vaquera  Azul  Mazarine Blue 4213   M para Hombre'
+slug: 'B01M67GLTM-es G-STAR RAW Core Super Slim Camisa Vaquera Azul Mazarine...'
+tags: camisa
 actualPrice: 38.45 EUR
 currency: EUR
 price: 38.45

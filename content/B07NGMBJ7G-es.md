@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31cH8JbA6vL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NGMBJ7G-es Marca Amazon - find. Vestido Largo Estilo Camiseta de Punto Mujer  Verde  Green   42  Label: L'
+slug: 'B07NGMBJ7G-es Marca Amazon - find. Vestido Largo Estilo Camiseta de...'
+tags: camiseta, vestido, -, find.
 actualPrice: 5.39 EUR
 currency: EUR
 price: 5.39

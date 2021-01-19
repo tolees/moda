@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41VhsavtjqL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N3YK9B2-es Desigual Shirt CAM Camisa   Crudo Beige 1008   M para Mujer'
+slug: 'B07N3YK9B2-es Desigual Shirt CAM Camisa Crudo Beige 1008 M para Mujer'
+tags: camisa
 actualPrice: 33.72 EUR
 currency: EUR
 price: 33.72

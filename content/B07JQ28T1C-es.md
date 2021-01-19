@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31V85-5u4SL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JQ28T1C-es Ledger Nano S - V1.4 - Monedero Hardware de criptomonedas - Jade Green'
+slug: 'B07JQ28T1C-es Ledger Nano S - V1.4 - Monedero Hardware de criptomonedas...'
+tags: monedero
 actualPrice: 44.25 EUR
 currency: EUR
 price: 44.25

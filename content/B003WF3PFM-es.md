@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51m8mBhQaVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003WF3PFM-es Havaianas Top  Chanclas Unisex Adulto  Azul  Marine Blue   27/28 EU'
+slug: 'B003WF3PFM-es Havaianas Top Chanclas Unisex Adulto Azul Marine Blue...'
+tags: chanclas
 actualPrice: 10.43 EUR
 currency: EUR
 price: 10.43

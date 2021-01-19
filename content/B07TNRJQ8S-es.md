@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Y+mraUSkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TNRJQ8S-es Superdry OL Vintage Emb Crew Camiseta  Rosa  Neon Pink Space Dye T3b   L para Hombre'
+slug: 'B07TNRJQ8S-es Superdry OL Vintage Emb Crew Camiseta Rosa Neon Pink Space...'
+tags: camiseta
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

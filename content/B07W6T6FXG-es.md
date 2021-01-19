@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41NwMUjhU-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W6T6FXG-es Tommy Hilfiger Corp Hilfiger tee Camiseta Deporte  Naranja  Island Coral   Small  Talla del Fabricante:  para Hombre'
+slug: 'B07W6T6FXG-es Tommy Hilfiger Corp Hilfiger tee Camiseta Deporte Naranja...'
+tags: camiseta
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

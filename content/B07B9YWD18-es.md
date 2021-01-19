@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51HC+IX03VL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B9YWD18-es T-wilker Limpiador de Cadena de Bicicleta  combinación de cepillos de limpieza y guantes de látex y ToallasCadena de Bici Herramienta de Limpieza rápido Limpiador（azul transparente）'
+slug: 'B07B9YWD18-es T-wilker Limpiador de Cadena de Bicicleta combinación de...'
+tags: guantes
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

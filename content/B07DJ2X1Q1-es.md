@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ndetLcSML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DJ2X1Q1-es Geox U Kennet B  Zapatillas para Hombre  Blanco  White C1000   41 EU'
+slug: 'B07DJ2X1Q1-es Geox U Kennet B Zapatillas para Hombre Blanco White C1000...'
+tags: geox
 actualPrice: 59.35 EUR
 currency: EUR
 price: 59.35

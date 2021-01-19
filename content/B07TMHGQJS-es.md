@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41uUBsr1XZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TMHGQJS-es Levi s 512 Slim Taper Vaqueros Tapered  Azul  Cioccolato Cool 0565   W29/L32  Talla del Fabricante: 29 32  para Hombre'
+slug: 'B07TMHGQJS-es Levi s 512 Slim Taper Vaqueros Tapered Azul Cioccolato...'
+tags: vaqueros
 actualPrice: 58.12 EUR
 currency: EUR
 price: 58.12

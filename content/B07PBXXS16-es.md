@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41UK6UdT5eL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PBXXS16-es Superdry La Athletic Ziphood Sudadera  Verde  Spruce Lej   X-Large para Mujer'
+slug: 'B07PBXXS16-es Superdry La Athletic Ziphood Sudadera Verde Spruce Lej...'
+tags: sudadera
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

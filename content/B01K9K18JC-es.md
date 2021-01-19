@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41nJ+QG8GvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01K9K18JC-es Clarks Tealite Grace  Sandalias con Tira Vertical para Mujer  Azul  Navy   39.5 EU'
+slug: 'B01K9K18JC-es Clarks Tealite Grace Sandalias con Tira Vertical para...'
+tags: sandalias
 actualPrice: 41.68 EUR
 currency: EUR
 price: 41.68

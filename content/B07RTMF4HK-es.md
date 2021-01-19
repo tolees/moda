@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41CYW2HM+KL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RTMF4HK-es New Look Oversized PU Chaqueta  Negro  Black 1   36  Talla del Fabricante: 8  para Mujer'
+slug: 'B07RTMF4HK-es New Look Oversized PU Chaqueta Negro Black 1 36 Talla del...'
+tags: chaqueta
 actualPrice: 17.57 EUR
 currency: EUR
 price: 17.57

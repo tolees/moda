@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31rD7LaRCrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N18B5FD-es G-STAR RAW Midge Cody Mid Waist Skinny Vaqueros  Azul  Faded Blue 5245-a889   22W / 26L para Mujer'
+slug: 'B07N18B5FD-es G-STAR RAW Midge Cody Mid Waist Skinny Vaqueros Azul Faded...'
+tags: vaqueros
 actualPrice: 77.99 EUR
 currency: EUR
 price: 77.99

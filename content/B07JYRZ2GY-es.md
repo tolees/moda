@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Lfylwg5HL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JYRZ2GY-es Tommy Hilfiger Low Rise Skinny Sophie Vaqueros straight  Azul  Fresno Bk Str 911   W26/L30  Talla del fabricante: 3026  para Mujer'
+slug: 'B07JYRZ2GY-es Tommy Hilfiger Low Rise Skinny Sophie Vaqueros straight...'
+tags: vaqueros
 actualPrice: 39.64 EUR
 currency: EUR
 price: 39.64

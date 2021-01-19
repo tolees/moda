@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Vqo-EwsGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N9UPQV9-es Levi s The Perfect Tee  Camiseta para Mujer  Blanco  White 297   Small'
+slug: 'B01N9UPQV9-es Levi s The Perfect Tee Camiseta para Mujer Blanco White...'
+tags: camiseta
 actualPrice: 20.49 EUR
 currency: EUR
 price: 20.49

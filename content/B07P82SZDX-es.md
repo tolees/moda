@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41riw3Lb7TL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P82SZDX-es Lee Logo tee Camiseta  Rojo  Rhubarb Red Gbl   Large para Mujer'
+slug: 'B07P82SZDX-es Lee Logo tee Camiseta Rojo Rhubarb Red Gbl Large para Mujer'
+tags: camiseta
 actualPrice: 8.43 EUR
 currency: EUR
 price: 8.43

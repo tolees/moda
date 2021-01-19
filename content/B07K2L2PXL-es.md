@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41mTfZ3TLYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K2L2PXL-es Timberland Adventure 2.0 Cupsole Alpine Oxford  Zapatillas de Gimnasia para Hombre  Verde  Dk Green Full Grain   40 EU'
+slug: 'B07K2L2PXL-es Timberland Adventure 2.0 Cupsole Alpine Oxford Zapatillas...'
+tags: timberland
 actualPrice: 78.0 EUR
 currency: EUR
 price: 78.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51YvoGp1kGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VJDN5RL-es Grebarley Guantes de Ciclismo Bicicleta Montaña-Acolchados Bicicleta de Carretera de Hombres Mujeres Antideslizante Pantalla Táctil  L '
+slug: 'B07VJDN5RL-es Grebarley Guantes de Ciclismo Bicicleta Montaña-Acolchados...'
+tags: guantes
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

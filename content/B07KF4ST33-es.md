@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41QgNjTLM5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KF4ST33-es Levi s SS Ringer tee Camiseta  Rojo  Brand Integrated White/Brilliant Red 0019   Medium para Hombre'
+slug: 'B07KF4ST33-es Levi s SS Ringer tee Camiseta Rojo Brand Integrated...'
+tags: camiseta
 actualPrice: 15.49 EUR
 currency: EUR
 price: 15.49

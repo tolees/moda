@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51slwuDGQJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078H7ZHDD-es Tommy Hilfiger Bikini Culotte  Gris  Grey Heather 004   X-Small  Talla fabricante: X-Small  para Mujer'
+slug: 'B078H7ZHDD-es Tommy Hilfiger Bikini Culotte Gris Grey Heather 004...'
+tags: bikini
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

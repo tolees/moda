@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41sTu6kWmwL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B076HSW99X-es find. 59699 vaqueros mujer  Azul  Mid Blue   W26/L32'
+slug: 'B076HSW99X-es find. 59699 vaqueros mujer Azul Mid Blue W26/L32'
+tags: vaqueros
 actualPrice: 14.4 EUR
 currency: EUR
 price: 14.4

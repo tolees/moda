@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/313x9W6t6iL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P1B6WXM-es Superdry Classic Twill L/s Shirt Camisa  Azul  Nórdica Blue Chambray W6h   46  Talla del Fabricante: 2XL  para Hombre'
+slug: 'B07P1B6WXM-es Superdry Classic Twill L/s Shirt Camisa Azul Nórdica Blue...'
+tags: camisa
 actualPrice: 21.26 EUR
 currency: EUR
 price: 21.26

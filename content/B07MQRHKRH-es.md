@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31tawiXq6TL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MQRHKRH-es Camiseta y Pantalón Corto Riverdale Adolescente Chica Serpientes Camiseta de Manga Corta Verano Conjunto Deportivo para Niña y Mujere  4  M '
+slug: 'B07MQRHKRH-es Camiseta y Pantalón Corto Riverdale Adolescente Chica...'
+tags: camiseta, pantalón
 actualPrice: 10.82 EUR
 currency: EUR
 price: 10.82

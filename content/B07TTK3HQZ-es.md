@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Fjcrs70HL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TTK3HQZ-es Wrangler Retro Vaqueros Skinny  Azul  Montego Bay 11p   W24/L32  Talla del Fabricante: 24/32  para Mujer'
+slug: 'B07TTK3HQZ-es Wrangler Retro Vaqueros Skinny Azul Montego Bay 11p...'
+tags: vaqueros
 actualPrice: 35.82 EUR
 currency: EUR
 price: 35.82

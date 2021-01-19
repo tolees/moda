@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31+7wGheBgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V8MLMHV-es Tom Tailor Denim Culver Vaqueros Skinny  Azul  Mid Stone Blue Black 10172   30W x 34L para Hombre'
+slug: 'B07V8MLMHV-es Tom Tailor Denim Culver Vaqueros Skinny Azul Mid Stone...'
+tags: vaqueros
 actualPrice: 15.84 EUR
 currency: EUR
 price: 15.84

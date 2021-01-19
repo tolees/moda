@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41GzvYmNrnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01EOX2M9K-es Helly Hansen W Aden Chaqueta  Mujer  Evening Blue  L'
+slug: 'B01EOX2M9K-es Helly Hansen W Aden Chaqueta Mujer Evening Blue L'
+tags: chaqueta
 actualPrice: 68.5 EUR
 currency: EUR
 price: 68.5

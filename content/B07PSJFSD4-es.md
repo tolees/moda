@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51BSfdxmqIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PSJFSD4-es Kipling Amiel  Bolso de Mano Mediano para Mujer  Multicolor  Navy Stick Print   27x24.5x14.5 centimeters  B x H x T '
+slug: 'B07PSJFSD4-es Kipling Amiel Bolso de Mano Mediano para Mujer Multicolor...'
+tags: bolso
 actualPrice: 20.44 EUR
 currency: EUR
 price: 20.44

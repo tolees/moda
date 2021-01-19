@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31hTnIJdUxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S8PZ5VS-es PUMA Cozy Flip  Zapatos de Playa y Piscina Unisex-Adulto  Azul  Dark Denim/Palace Blue 04   46 EU'
+slug: 'B07S8PZ5VS-es PUMA Cozy Flip Zapatos de Playa y Piscina Unisex-Adulto...'
+tags: zapatos
 actualPrice: 16.86 EUR
 currency: EUR
 price: 16.86

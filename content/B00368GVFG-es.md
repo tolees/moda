@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41fjLafiAAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00368GVFG-es adidas Adilette  Zapatos de playa y piscina Unisex adulto  Azul  Adiblue/White/Adiblue   47 EU'
+slug: 'B00368GVFG-es adidas Adilette Zapatos de playa y piscina Unisex adulto...'
+tags: zapatos
 actualPrice: 22.6 EUR
 currency: EUR
 price: 22.6

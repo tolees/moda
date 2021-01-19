@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/511UTGU2EfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C9GNTCW-es Bolso de Paja Crossbody  JOSEKO Bolso de Paja para Mujer Bolso Mimbre Bolsa de Hombro para Playa Viajar y Uso Diario'
+slug: 'B07C9GNTCW-es Bolso de Paja Crossbody JOSEKO Bolso de Paja para Mujer...'
+tags: bolso
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

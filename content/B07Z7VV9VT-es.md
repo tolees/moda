@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41OkgKcBr1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z7VV9VT-es Bestcool Gorra Bluetooth  Bluetooth Sombrero  Hombre Gorra Bluetooth 4.2  Auriculares con Micrófono  Hombres Mujeres Regalos  Regalos Electrónicos para Hombres  Regalos de Moda para Mujeres'
+slug: 'B07Z7VV9VT-es Bestcool Gorra Bluetooth Bluetooth Sombrero Hombre Gorra...'
+tags: moda
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31KalpUbf4L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NDNQ82D-es G-STAR RAW Scutar Utility Padded Abrigo  Gris  Dk Black 6484   XX-Small para Hombre'
+slug: 'B07NDNQ82D-es G-STAR RAW Scutar Utility Padded Abrigo Gris Dk Black 6484...'
+tags: abrigo
 actualPrice: 29.61 EUR
 currency: EUR
 price: 29.61

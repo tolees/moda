@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41GVgxg0mwL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KZ296HV-es Springfield 6BA Polo Basico Reg T5 Jersey  Gama Verdes 21  Small  Tamaño del Fabricante:S  para Hombre'
+slug: 'B07KZ296HV-es Springfield 6BA Polo Basico Reg T5 Jersey Gama Verdes 21...'
+tags: jersey
 actualPrice: 8.72 EUR
 currency: EUR
 price: 8.72

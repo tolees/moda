@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41rQSBIY6GL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SWV18FS-es Geox D LEELU  E  Zapatillas para Niñas  Blanco  White/Off White C1352   35 EU'
+slug: 'B07SWV18FS-es Geox D LEELU E Zapatillas para Niñas Blanco White/Off...'
+tags: geox
 actualPrice: 30.1 EUR
 currency: EUR
 price: 30.1

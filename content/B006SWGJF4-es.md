@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31zTrjwl1FL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B006SWGJF4-es Helly Hansen W Seven J Chaqueta  Mujer  Negro  M'
+slug: 'B006SWGJF4-es Helly Hansen W Seven J Chaqueta Mujer Negro M'
+tags: chaqueta
 actualPrice: 61.8 EUR
 currency: EUR
 price: 61.8

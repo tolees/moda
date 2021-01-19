@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+GfyAaakL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TPYPC1T-es Clarks Botanic Strap  Sandalias de Talón Abierto para Mujer  Marrón  Amber Suede Amber Suede   37 EU'
+slug: 'B07TPYPC1T-es Clarks Botanic Strap Sandalias de Talón Abierto para Mujer...'
+tags: sandalias
 actualPrice: 50.41 EUR
 currency: EUR
 price: 50.41

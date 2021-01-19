@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31-ZpNnNVQL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TFQ9Q88-es Quiksilver Omni Logo Sudadera con Capucha  Hombre  Blanco  White   S'
+slug: 'B07TFQ9Q88-es Quiksilver Omni Logo Sudadera con Capucha Hombre Blanco...'
+tags: sudadera
 actualPrice: 36.57 EUR
 currency: EUR
 price: 36.57

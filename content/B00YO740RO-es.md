@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41xXm5ElwpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00YO740RO-es Under Armour Tech Tank-Solid Correr  Camiseta Ancha para Mujer  Gris  MD'
+slug: 'B00YO740RO-es Under Armour Tech Tank-Solid Correr Camiseta Ancha para...'
+tags: camiseta
 actualPrice: 18.09 EUR
 currency: EUR
 price: 18.09

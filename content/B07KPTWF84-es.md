@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ssH0JP2FL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KPTWF84-es MaxMuxun Sandalias de Tacón con Correa del Tobillo Azul Claro Modo Clásico para Fiesta Mujer Talla 39 EU'
+slug: 'B07KPTWF84-es MaxMuxun Sandalias de Tacón con Correa del Tobillo Azul...'
+tags: sandalias
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

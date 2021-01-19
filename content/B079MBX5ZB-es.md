@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41D3AF7iyGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079MBX5ZB-es Marca Amazon - MERAKI Camiseta Slim Fit de Manga Corta con Cuello de Pico Hombre  Azul  Faded Royal   L  Label: L'
+slug: 'B079MBX5ZB-es Marca Amazon - MERAKI Camiseta Slim Fit de Manga Corta con...'
+tags: camiseta, meraki
 actualPrice: 6.76 EUR
 currency: EUR
 price: 6.76

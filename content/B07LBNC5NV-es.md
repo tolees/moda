@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41KCXJE5KvL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LBNC5NV-es Helly Hansen HH LIFA Merino 1/2 Zip Camiseta  Azul  Azul Electrico 639   Medium  Tamaño del Fabricante:M  para Hombre'
+slug: 'B07LBNC5NV-es Helly Hansen HH LIFA Merino 1/2 Zip Camiseta Azul Azul...'
+tags: camiseta
 actualPrice: 57.59 EUR
 currency: EUR
 price: 57.59

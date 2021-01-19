@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41wZKOyFk5L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FNRS6TC-es The North Face W TBL Sport HD Sudadera Deportiva con Capucha Thermoball  Mujer  Atomic Pink  XS'
+slug: 'B07FNRS6TC-es The North Face W TBL Sport HD Sudadera Deportiva con...'
+tags: sudadera
 actualPrice: 84.65 EUR
 currency: EUR
 price: 84.65

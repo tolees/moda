@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41dadTMyMlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TTT21W9-es Women s Secret Mickey Vintage Mv DS Every Week PJ Conjuntos de Pijama  Gris  Gama Grises 47   Medium  Tamaño del Fabricante: M  para Mujer'
+slug: 'B07TTT21W9-es Women s Secret Mickey Vintage Mv DS Every Week PJ...'
+tags: pijama
 actualPrice: 12.94 EUR
 currency: EUR
 price: 12.94

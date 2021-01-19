@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ysx+FD2HL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KF4Y1P4-es Levi s HR Decon Iconic BF Skirt Falda  Azul  Meer In The Middle 0009   Talla única  Talla del Fabricante: 23  para Mujer'
+slug: 'B07KF4Y1P4-es Levi s HR Decon Iconic BF Skirt Falda Azul Meer In The...'
+tags: falda
 actualPrice: 29.05 EUR
 currency: EUR
 price: 29.05

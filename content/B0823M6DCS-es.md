@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Uz-c5rljL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0823M6DCS-es SERAPHY Chándales de Terciopelo Unisex Cálido 2PCS Conjuntos Moda Niño Otoño Invierno Ropa Bebé Ropa de terciopelo-GR-100'
+slug: 'B0823M6DCS-es SERAPHY Chándales de Terciopelo Unisex Cálido 2PCS...'
+tags: moda
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

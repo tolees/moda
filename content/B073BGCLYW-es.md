@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/4184yLN%2BXLL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B073BGCLYW-es BaronHong Gynecomastia Compression Shirt Chaleco para Ocultar Hombre Boobs Moobs Slimming Mens Shapewear Aplanar Abdomen Entero  Darkblue  S '
+slug: 'B073BGCLYW-es BaronHong Gynecomastia Compression Shirt Chaleco para...'
+tags: chaleco
 actualPrice: 12 EUR
 currency: EUR
 price: 12

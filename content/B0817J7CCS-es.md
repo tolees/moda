@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31O3wa3mRNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0817J7CCS-es Columbia Zero Rules Camisa Técnica De Manga Corta  Hombre  New Olive  L'
+slug: 'B0817J7CCS-es Columbia Zero Rules Camisa Técnica De Manga Corta Hombre...'
+tags: camisa
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

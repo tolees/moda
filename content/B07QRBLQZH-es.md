@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41NW4XCebZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QRBLQZH-es Esprit 069ee2f005 Camisa  Azul  Light Blue 440   Small para Hombre'
+slug: 'B07QRBLQZH-es Esprit 069ee2f005 Camisa Azul Light Blue 440 Small para...'
+tags: camisa
 actualPrice: 14.25 EUR
 currency: EUR
 price: 14.25

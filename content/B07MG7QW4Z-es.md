@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31+WqvzsFRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MG7QW4Z-es Marca Amazon - find. Pantalón con Cintura de Fuelle Mujer  Rosa  rosa antiguo 17-1518 Tcx    42  Label: L'
+slug: 'B07MG7QW4Z-es Marca Amazon - find. Pantalón con Cintura de Fuelle Mujer...'
+tags: pantalón, -, find.
 actualPrice: 7.29 EUR
 currency: EUR
 price: 7.29

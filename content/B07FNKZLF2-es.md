@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51lWgjr1FiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FNKZLF2-es Apretón de Zapatos Crampones Nieve Accesorios Deportivo Acuático Actividades Aire Libre'
+slug: 'B07FNKZLF2-es Apretón de Zapatos Crampones Nieve Accesorios Deportivo...'
+tags: zapatos
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41WnLE485mL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WLXNYG3-es Springfield 3Ip Offline-c/08 Camiseta  Dorado  Gold/Mustard 8   S  Tamaño del Fabricante: S  para Hombre'
+slug: 'B07WLXNYG3-es Springfield 3Ip Offline-c/08 Camiseta Dorado Gold/Mustard...'
+tags: camiseta
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

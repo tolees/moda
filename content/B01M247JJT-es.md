@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41urRj6UAiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M247JJT-es Helly Hansen Crew Hooded Midlayer - Chaqueta Impermeable  Cortavientos y Transpirable  con Forro Polar y Capucha Integrados  Hombre  Azul  597 Navy   2XL'
+slug: 'B01M247JJT-es Helly Hansen Crew Hooded Midlayer - Chaqueta Impermeable...'
+tags: chaqueta
 actualPrice: 92.5 EUR
 currency: EUR
 price: 92.5

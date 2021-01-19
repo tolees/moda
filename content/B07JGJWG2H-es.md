@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ZOiUeheML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JGJWG2H-es Marca Amazon - IRIS & LILLY  Bañador Moldeador Mujer  Rojo  Red   XL  Label: XL'
+slug: 'B07JGJWG2H-es Marca Amazon - IRIS & LILLY Bañador Moldeador Mujer Rojo...'
+tags: iris, &, lilly
 actualPrice: 14.41 EUR
 currency: EUR
 price: 14.41

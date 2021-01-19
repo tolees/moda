@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/411+Ag82AtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083BBCXJV-es Zuecos Unisex Niños Verano Sandalias de Playa Respirable Antideslizante Piscina Jardín Zapatos Azul Navy 27 EU=Etiqueta 28'
+slug: 'B083BBCXJV-es Zuecos Unisex Niños Verano Sandalias de Playa Respirable...'
+tags: sandalias, zapatos, zuecos
 actualPrice: 13.55 EUR
 currency: EUR
 price: 13.55

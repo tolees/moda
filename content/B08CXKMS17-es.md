@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41M9ycwnRDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CXKMS17-es Paoseven Freemason - Camiseta de manga corta unisex con logo masónico  color negro Rosa rosa 3 Años'
+slug: 'B08CXKMS17-es Paoseven Freemason - Camiseta de manga corta unisex con...'
+tags: camiseta
 actualPrice: 14.38 EUR
 currency: EUR
 price: 14.38

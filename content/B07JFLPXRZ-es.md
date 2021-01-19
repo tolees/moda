@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41GkoKt5xtL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JFLPXRZ-es Pepe Jeans Maria Pl203428 Vaqueros evasé   Archive Medium Bright Blue Denim 000   W29/L32 para Mujer'
+slug: 'B07JFLPXRZ-es Pepe Jeans Maria Pl203428 Vaqueros evasé Archive Medium...'
+tags: vaqueros
 actualPrice: 24.31 EUR
 currency: EUR
 price: 24.31

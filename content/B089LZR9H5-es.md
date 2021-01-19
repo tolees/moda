@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41px8bYhYyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089LZR9H5-es Dihope - Pantalón de deporte informal para hombre  diseño de camuflaje  con estampado de pantalones de deporte gris XL'
+slug: 'B089LZR9H5-es Dihope - Pantalón de deporte informal para hombre diseño...'
+tags: pantalón
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

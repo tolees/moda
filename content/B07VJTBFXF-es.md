@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zf1buyhdL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VJTBFXF-es Esprit 099EE1G090 Abrigo  Azul  Navy 400   S para Mujer'
+slug: 'B07VJTBFXF-es Esprit 099EE1G090 Abrigo Azul Navy 400 S para Mujer'
+tags: abrigo
 actualPrice: 42.84 EUR
 currency: EUR
 price: 42.84

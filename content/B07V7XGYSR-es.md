@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41j4bBsdqFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V7XGYSR-es Tommy Hilfiger Basic Opened Toe Mid Wedge  Sandalias con Punta Abierta para Mujer  Naranja  Island Coral Sn7   38 EU'
+slug: 'B07V7XGYSR-es Tommy Hilfiger Basic Opened Toe Mid Wedge Sandalias con...'
+tags: sandalias
 actualPrice: 44.0 EUR
 currency: EUR
 price: 44.0

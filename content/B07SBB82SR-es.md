@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31KQdV-JdqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SBB82SR-es Crocs Crocband Flip Women  Chanclas para Mujer  Azul  Navy 410   38/39 EU'
+slug: 'B07SBB82SR-es Crocs Crocband Flip Women Chanclas para Mujer Azul Navy...'
+tags: chanclas
 actualPrice: 18.69 EUR
 currency: EUR
 price: 18.69

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31a0md3qbQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MSLMV9Q-es Clarks Bampton Wing  Zapatos de Cordones Brogue para Hombre  Piel de Caoba de Color marrón  41 EU'
+slug: 'B07MSLMV9Q-es Clarks Bampton Wing Zapatos de Cordones Brogue para Hombre...'
+tags: zapatos
 actualPrice: 45.05 EUR
 currency: EUR
 price: 45.05

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51GbKFZAAAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V7T8XXH-es ACVIP - Camiseta de algodón para niña  cuello en V  sin hombros rojo 160 cm 10-11 años '
+slug: 'B07V7T8XXH-es ACVIP - Camiseta de algodón para niña cuello en V sin...'
+tags: camiseta
 actualPrice: 11.05 EUR
 currency: EUR
 price: 11.05

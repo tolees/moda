@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31sjGMz2ClL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0166HNSZO-es G-STAR RAW Revend Skinny Vaqueros  3D Dark Aged 7101  35W / 36L para Hombre'
+slug: 'B0166HNSZO-es G-STAR RAW Revend Skinny Vaqueros 3D Dark Aged 7101 35W /...'
+tags: vaqueros
 actualPrice: 59.95 EUR
 currency: EUR
 price: 59.95

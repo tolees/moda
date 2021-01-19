@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41xyje0dVrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VCFZXVY-es Desigual Jers Nagar Chaqueta Punto  Blanco  Crudo 1001   Small para Mujer'
+slug: 'B07VCFZXVY-es Desigual Jers Nagar Chaqueta Punto Blanco Crudo 1001 Small...'
+tags: chaqueta
 actualPrice: 23.95 EUR
 currency: EUR
 price: 23.95

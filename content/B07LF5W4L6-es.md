@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41WI1ZiDTbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LF5W4L6-es Levi s SS Color Block tee Camiseta  Multicolor  Jersey Colorblock Skyway/White/Dress Blues + White Print 0001   Medium para Hombre'
+slug: 'B07LF5W4L6-es Levi s SS Color Block tee Camiseta Multicolor Jersey...'
+tags: camiseta, jersey
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

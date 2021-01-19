@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41rpruSGCAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00IZRYSRG-es JAKO Fútbol Camiseta KA Camiseta United  Todo el año  Infantil  Color Lila/Weiß/Schwarz  tamaño 140'
+slug: 'B00IZRYSRG-es JAKO Fútbol Camiseta KA Camiseta United Todo el año...'
+tags: camiseta
 actualPrice: 9.19 EUR
 currency: EUR
 price: 9.19

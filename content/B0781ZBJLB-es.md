@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41O7Z+ve+cL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0781ZBJLB-es Puma Liga Training Rain Core Camiseta de equipación  Hombre  Negro Black White  M'
+slug: 'B0781ZBJLB-es Puma Liga Training Rain Core Camiseta de equipación Hombre...'
+tags: camiseta
 actualPrice: 20.82 EUR
 currency: EUR
 price: 20.82

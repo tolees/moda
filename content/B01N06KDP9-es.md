@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31xfz7YmQfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N06KDP9-es Crocs Swiftwater Wave M Zapatos de agua Hombre  Azul  Sea/Blue/White/Strap   37-38 EU  4 UK '
+slug: 'B01N06KDP9-es Crocs Swiftwater Wave M Zapatos de agua Hombre Azul...'
+tags: zapatos
 actualPrice: 27.95 EUR
 currency: EUR
 price: 27.95

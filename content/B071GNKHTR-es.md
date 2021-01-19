@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/419h8SyVp6L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B071GNKHTR-es find. 59179 vaqueros mujer  Azul  Mid Blue   W30/L32  Talla del Fabricante: Medium '
+slug: 'B071GNKHTR-es find. 59179 vaqueros mujer Azul Mid Blue W30/L32 Talla del...'
+tags: vaqueros
 actualPrice: 12 EUR
 currency: EUR
 price: 12

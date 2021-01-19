@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/316ZhCqE+GL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VBBN5DC-es HUGO Elisha02 Camisa  Azul  Light/Pastel Blue 459   X-Large  Talla del Fabricante: 44  para Hombre'
+slug: 'B07VBBN5DC-es HUGO Elisha02 Camisa Azul Light/Pastel Blue 459 X-Large...'
+tags: camisa
 actualPrice: 24.35 EUR
 currency: EUR
 price: 24.35

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/418Kw5hBGqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08G1GGB74-es Ocobudbxw Bolso de Hombro Tipo Cubo para Mujer  Bandolera  de Cuero  con borlas  Bandolera  Bolso de Mano'
+slug: 'B08G1GGB74-es Ocobudbxw Bolso de Hombro Tipo Cubo para Mujer Bandolera...'
+tags: bolso
 actualPrice: 10.97 EUR
 currency: EUR
 price: 10.97

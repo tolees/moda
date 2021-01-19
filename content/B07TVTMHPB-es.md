@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31B0Sq80LoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TVTMHPB-es Women s Secret Thermal Generic GF Snow PJ Conjuntos de Pijama  Gris  Gama Grises 42   X-Small  Tamaño del Fabricante: XS  para Mujer'
+slug: 'B07TVTMHPB-es Women s Secret Thermal Generic GF Snow PJ Conjuntos de...'
+tags: pijama
 actualPrice: 11.51 EUR
 currency: EUR
 price: 11.51

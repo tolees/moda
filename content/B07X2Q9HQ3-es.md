@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/517iYZ7oeYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X2Q9HQ3-es LIGE Relojes para Hombres Moda Militar Impermeable Deporte Reloj Analógico Cuarzo Marrón Cronógrafo Cuero Negocio Reloj  Todo Azul '
+slug: 'B07X2Q9HQ3-es LIGE Relojes para Hombres Moda Militar Impermeable Deporte...'
+tags: moda
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

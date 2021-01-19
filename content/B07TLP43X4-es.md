@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41pctZ+0IYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TLP43X4-es Clarks Hero  Zapatos de Cordones Brogue para Mujer  Gris  Grey Snake Grey Snake   38 EU'
+slug: 'B07TLP43X4-es Clarks Hero Zapatos de Cordones Brogue para Mujer Gris...'
+tags: zapatos
 actualPrice: 26.87 EUR
 currency: EUR
 price: 26.87

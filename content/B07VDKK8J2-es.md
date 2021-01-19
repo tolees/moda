@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41l6XY2LogL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VDKK8J2-es SELECTED HOMME Slhpadded Reversible Jacket B Chaqueta  Rojo Rhubarb  XL para Hombre'
+slug: 'B07VDKK8J2-es SELECTED HOMME Slhpadded Reversible Jacket B Chaqueta Rojo...'
+tags: chaqueta
 actualPrice: 19.69 EUR
 currency: EUR
 price: 19.69

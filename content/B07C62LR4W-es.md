@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Ggy6TQ-yL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C62LR4W-es Jack & Jones Jjesheridan Shirt L/s Camisa Vaquera  Negro  Black Denim Fit:Slim   X-Small para Hombre'
+slug: 'B07C62LR4W-es Jack & Jones Jjesheridan Shirt L/s Camisa Vaquera Negro...'
+tags: camisa
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

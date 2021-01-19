@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41No6gwmFCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WX2PPZW-es Charles Wilson Original Sudadera de Hombre Algodón Premium Capucha Cremallera  Medium  Graphite  0819  '
+slug: 'B07WX2PPZW-es Charles Wilson Original Sudadera de Hombre Algodón Premium...'
+tags: sudadera
 actualPrice: 28.95 EUR
 currency: EUR
 price: 28.95

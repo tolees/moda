@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ZPO9CL47L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078SWJSPG-es Timberland Malibu Waves  Sandalias para Mujer  Negro  Black Full Grain   40 EU'
+slug: 'B078SWJSPG-es Timberland Malibu Waves Sandalias para Mujer Negro Black...'
+tags: sandalias, timberland
 actualPrice: 42.5 EUR
 currency: EUR
 price: 42.5

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41K0-T1LtvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MCSPKTZ-es Napapijri Aerons WOM Hood 1 Chaqueta  Beige  Natural Peyote Nn1   L para Mujer'
+slug: 'B07MCSPKTZ-es Napapijri Aerons WOM Hood 1 Chaqueta Beige Natural Peyote...'
+tags: chaqueta
 actualPrice: 99.5 EUR
 currency: EUR
 price: 99.5

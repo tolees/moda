@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/419dvz7p2CL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00UC13XCO-es Fruit of the Loom Heavy Cotton Tee Shirt 3 Pack  Camiseta de Manga Corta Para Hombre  Azul  Marineblau   Small'
+slug: 'B00UC13XCO-es Fruit of the Loom Heavy Cotton Tee Shirt 3 Pack Camiseta...'
+tags: camiseta
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

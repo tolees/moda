@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31yBalKAQ3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SRJ3JVL-es REPLAY M3590 .000.2660 Camiseta  Azul  Midnight Blue. 576   X-Small para Hombre'
+slug: 'B07SRJ3JVL-es REPLAY M3590 .000.2660 Camiseta Azul Midnight Blue. 576...'
+tags: camiseta
 actualPrice: 6.8 EUR
 currency: EUR
 price: 6.8

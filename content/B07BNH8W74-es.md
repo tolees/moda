@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31wlAtO13dL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BNH8W74-es Bikers Gear Australia Limited - Pantalones vaqueros elásticos con forro de kevlar para motocicleta con armadura CE extraíble  vaquero vintage  talla 8'
+slug: 'B07BNH8W74-es Bikers Gear Australia Limited - Pantalones vaqueros...'
+tags: vaqueros
 actualPrice: 41.34 EUR
 currency: EUR
 price: 41.34

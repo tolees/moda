@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41VhUpnyieL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0758JNGM9-es Clarks Vennor Walk  Zapatos de Cordones Derby para Hombre  Gris  Grey Suede-   43 EU'
+slug: 'B0758JNGM9-es Clarks Vennor Walk Zapatos de Cordones Derby para Hombre...'
+tags: zapatos
 actualPrice: 49.95 EUR
 currency: EUR
 price: 49.95

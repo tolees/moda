@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51Cx2B0eLJL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0746J3ZBQ-es Vbiger Trineos de Snowboard Moto Ciclismo Guantes de Invierno Cálidos Impermeables Guantes Unisex  Negro  M '
+slug: 'B0746J3ZBQ-es Vbiger Trineos de Snowboard Moto Ciclismo Guantes de...'
+tags: guantes
 actualPrice: 16.95 EUR
 currency: EUR
 price: 16.95

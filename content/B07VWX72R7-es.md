@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41aJSIpCVqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VWX72R7-es Pepe Jeans Montana Camiseta  Azul  Old Navy 584   Medium para Hombre'
+slug: 'B07VWX72R7-es Pepe Jeans Montana Camiseta Azul Old Navy 584 Medium para...'
+tags: camiseta
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

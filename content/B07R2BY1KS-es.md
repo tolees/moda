@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51rCKy1AosL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R2BY1KS-es Wrangler LS 2pkt Flap Shirt Camisa  Multicolor  Black 100   Large para Hombre'
+slug: 'B07R2BY1KS-es Wrangler LS 2pkt Flap Shirt Camisa Multicolor Black 100...'
+tags: camisa
 actualPrice: 18.65 EUR
 currency: EUR
 price: 18.65

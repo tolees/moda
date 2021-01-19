@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51j79Kqp7wL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QCXCFFL-es Abravo Mujer Vestido?Bohemio Corto Florales Nacional Verano Vestido Casual Magas Cortas Chic de Noche Playa Vacaciones Rojo y Azul S'
+slug: 'B07QCXCFFL-es Abravo Mujer Vestido?Bohemio Corto Florales Nacional...'
+tags: vestido
 actualPrice: 15.89 EUR
 currency: EUR
 price: 15.89

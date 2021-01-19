@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/518Mc6Yws6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088TL8L9S-es Manguera de jardín flexible  100 FT/30 m  manguera de jardín  manguera extensible con 8 funciones  ducha de mano y guantes de jardín  pistola de pulverización para lavado de coche  etc.'
+slug: 'B088TL8L9S-es Manguera de jardín flexible 100 FT/30 m manguera de jardín...'
+tags: guantes
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

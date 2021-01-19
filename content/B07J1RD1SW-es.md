@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31x7wvaTnjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J1RD1SW-es Petusco -Bolso piel para mujer. Bolso de mano. Elegante y atemporal. Zada blanco piel de Vacuno tipo grano. Fabricación artesanal.'
+slug: 'B07J1RD1SW-es Petusco -Bolso piel para mujer. Bolso de mano. Elegante y...'
+tags: bolso
 actualPrice: 80.0 EUR
 currency: EUR
 price: 80.0

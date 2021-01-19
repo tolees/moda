@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61Sy940a0oL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DB4W95T-es DAYNEW 5.1" de Hombre Funda de Piel Cinturón Bolso de Cintura Premium Funda Piel Mini Bolsa de Mensajero Hombro Bolsa para Samsung Galaxy S5 Neo/S6/A5 Duos/A5-Marrón Claro'
+slug: 'B07DB4W95T-es DAYNEW 5.1" de Hombre Funda de Piel Cinturón Bolso de...'
+tags: bolso
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

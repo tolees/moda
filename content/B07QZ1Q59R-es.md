@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41hGA3enS6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QZ1Q59R-es Wrangler Texas Contrast Vaqueros Straight  Azul  Soft Power 28d   W30/L32 para Hombre'
+slug: 'B07QZ1Q59R-es Wrangler Texas Contrast Vaqueros Straight Azul Soft Power...'
+tags: vaqueros
 actualPrice: 38.2 EUR
 currency: EUR
 price: 38.2

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41aNP5ejttL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CSLWRZX-es ISTON - Maquinilla de afeitar eléctrica para mujer  recargable en húmedo y seco  sin dolor  para mujer  afeitadora de vello corporal  para rostro  piernas  axilas y bikini  inalámbrica  resistente al agua  afeitadora de pelo con luz LED'
+slug: 'B08CSLWRZX-es ISTON - Maquinilla de afeitar eléctrica para mujer...'
+tags: bikini
 actualPrice: 28.51 EUR
 currency: EUR
 price: 28.51

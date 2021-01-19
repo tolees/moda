@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/415s-vM5%2BSL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N195SPB-es Lee Logo SWS Sudadera  Azul  Midnight Navy Ma   X-Large para Mujer'
+slug: 'B07N195SPB-es Lee Logo SWS Sudadera Azul Midnight Navy Ma X-Large para...'
+tags: sudadera
 actualPrice: 17.08 EUR
 currency: EUR
 price: 17.08

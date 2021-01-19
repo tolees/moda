@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41QKcksBj3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TLFMDYY-es Levi s Original Hm Pullover Hoo Sudadera  Verde  Olive Night 0015   X-Large para Hombre'
+slug: 'B07TLFMDYY-es Levi s Original Hm Pullover Hoo Sudadera Verde Olive Night...'
+tags: sudadera
 actualPrice: 41.95 EUR
 currency: EUR
 price: 41.95

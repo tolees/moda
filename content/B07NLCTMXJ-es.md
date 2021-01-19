@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31uviCI+wFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NLCTMXJ-es Caprice Herma  Botines para Mujer  Verde  Khaki Nappa 710   38 EU'
+slug: 'B07NLCTMXJ-es Caprice Herma Botines para Mujer Verde Khaki Nappa 710 38 EU'
+tags: botines
 actualPrice: 14.55 EUR
 currency: EUR
 price: 14.55

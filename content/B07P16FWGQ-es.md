@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/419MTmCha0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P16FWGQ-es Superdry Retro Sport tee Camiseta  Negro  Black 02a   M para Hombre'
+slug: 'B07P16FWGQ-es Superdry Retro Sport tee Camiseta Negro Black 02a M para...'
+tags: camiseta
 actualPrice: 21.78 EUR
 currency: EUR
 price: 21.78

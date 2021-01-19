@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Iyk7LaVmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P74VXN4-es Agatha Ruiz de la Prada 191957  Botines para Niñas  Rojo  Cereza  Serraje  C   27 EU'
+slug: 'B07P74VXN4-es Agatha Ruiz de la Prada 191957 Botines para Niñas Rojo...'
+tags: botines
 actualPrice: 21.22 EUR
 currency: EUR
 price: 21.22

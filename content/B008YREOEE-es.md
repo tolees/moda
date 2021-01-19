@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41665+04m3L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B008YREOEE-es JACK & JONES Basic O-Neck tee S/S Noos Camiseta  Grau  Light Grey Melange JJ Light Grey Melange   2XL para Hombre'
+slug: 'B008YREOEE-es JACK & JONES Basic O-Neck tee S/S Noos Camiseta Grau Light...'
+tags: camiseta
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41okrKSerPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083XHJQ9W-es morpilot Arnés Antitirones Perro Transpirable  Arnés Perro Grande Mediano con Control de Manija y con Lineas Reflectantes - Arnés Pecho Perro Duradero con Chaleco Acolchado Ajustable  XL '
+slug: 'B083XHJQ9W-es morpilot Arnés Antitirones Perro Transpirable Arnés Perro...'
+tags: chaleco
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

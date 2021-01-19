@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41WMiEHz3iL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C3PYT1L-es INFUSEU 925 Árbol de la Vida de Plata Collar de la Mujer  Irlandesa afortunada del Nudo Celta Colgante y Cadena de 18" joyería con Encanto  Regalo para Las señoras'
+slug: 'B07C3PYT1L-es INFUSEU 925 Árbol de la Vida de Plata Collar de la Mujer...'
+tags: collar
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

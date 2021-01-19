@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41XDd8o3XcL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00CUSC1PM-es Spalding Attack Tank Top Camiseta De Equipaciones Manga Corta  Hombre  Negro  XXL'
+slug: 'B00CUSC1PM-es Spalding Attack Tank Top Camiseta De Equipaciones Manga...'
+tags: camiseta
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

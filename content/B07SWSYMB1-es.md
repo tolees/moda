@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-GasrB97L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SWSYMB1-es Geox UOMO Snake E  Zapatillas para Hombre  Azul  Avio/Lt Grey C4453   44 EU'
+slug: 'B07SWSYMB1-es Geox UOMO Snake E Zapatillas para Hombre Azul Avio/Lt Grey...'
+tags: geox
 actualPrice: 50.0 EUR
 currency: EUR
 price: 50.0

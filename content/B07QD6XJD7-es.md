@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41qTCZbNS7L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QD6XJD7-es PUMA Rebel Bold tee Camiseta  Hombre  White  S'
+slug: 'B07QD6XJD7-es PUMA Rebel Bold tee Camiseta Hombre White S'
+tags: camiseta
 actualPrice: 9.52 EUR
 currency: EUR
 price: 9.52

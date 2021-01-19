@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/313sgc9pOzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SBB84C4-es Crocs Crocband Clog K  Zuecos Unisex-Bambini  Verde  Neo Mint 3TI   19/20 EU'
+slug: 'B07SBB84C4-es Crocs Crocband Clog K Zuecos Unisex-Bambini Verde Neo Mint...'
+tags: zuecos
 actualPrice: 23.61 EUR
 currency: EUR
 price: 23.61

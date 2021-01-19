@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41gh2hM1UnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PF3GTCH-es KTOL Personalidad Chanclas de Piscina para Hombre  Elegante Verano Chanclas Unisex Adulto Antideslizante Impermeable Casual Playa Zapatos Mar Aire Libre Sandalias-Azul 40 EU 25cm 9.8In '
+slug: 'B07PF3GTCH-es KTOL Personalidad Chanclas de Piscina para Hombre Elegante...'
+tags: chanclas, zapatos
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

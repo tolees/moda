@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Vh+LRBLAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZQZ8W5-es Pepe Jeans Imani Chaqueta   Berry Red 280   Small para Mujer'
+slug: 'B07MZQZ8W5-es Pepe Jeans Imani Chaqueta Berry Red 280 Small para Mujer'
+tags: chaqueta
 actualPrice: 63.31 EUR
 currency: EUR
 price: 63.31

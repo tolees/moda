@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41efyk6rTEL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q3JQJ35-es Ferilinso Funda para Xiaomi Redmi S3/ Redmi 7 [[No Apto para Xiaomi Redmi Note 7]] Diseño de Moda Funda de Fbra de Carbono Diseño Híbrido Defensor para Funda Xiaomi Redmi S3 Funda Redmi 7 Negro '
+slug: 'B07Q3JQJ35-es Ferilinso Funda para Xiaomi Redmi S3/ Redmi 7 [[No Apto...'
+tags: moda
 actualPrice: 7.01 EUR
 currency: EUR
 price: 7.01

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31T-+QF6y8L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CZCTCZR-es Under Armour Sportstyle Logo LS Camiseta  Hombre  Negro  Black/White 001   S'
+slug: 'B07CZCTCZR-es Under Armour Sportstyle Logo LS Camiseta Hombre Negro...'
+tags: camiseta
 actualPrice: 19.29 EUR
 currency: EUR
 price: 19.29

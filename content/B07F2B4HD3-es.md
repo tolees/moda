@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31fqNlCz5GL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F2B4HD3-es Timberland Bradstreet Leather Sensorflex  Botas Chukka para Hombre  Marrón  Medium Beige Nubuck   45.5 EU'
+slug: 'B07F2B4HD3-es Timberland Bradstreet Leather Sensorflex Botas Chukka para...'
+tags: timberland
 actualPrice: 63.33 EUR
 currency: EUR
 price: 63.33

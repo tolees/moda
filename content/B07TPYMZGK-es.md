@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41VOEKSu2QL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TPYMZGK-es Clarks Willow Glad  Sandalias de Gladiador para Mujer  Negro  Black Leather Black Leather   39.5 EU'
+slug: 'B07TPYMZGK-es Clarks Willow Glad Sandalias de Gladiador para Mujer Negro...'
+tags: sandalias
 actualPrice: 40.68 EUR
 currency: EUR
 price: 40.68

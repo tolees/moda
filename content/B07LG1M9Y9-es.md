@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41TCJr5ZP-L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LG1M9Y9-es Geox B RISHON Girl A  Zapatillas para Bebés  Rosa  Dk Rose C8007   23 EU'
+slug: 'B07LG1M9Y9-es Geox B RISHON Girl A Zapatillas para Bebés Rosa Dk Rose...'
+tags: geox
 actualPrice: 30.85 EUR
 currency: EUR
 price: 30.85

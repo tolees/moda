@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41yc5SFGefL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V5NPTZB-es Tom Tailor Denim Kontrastreiche Chaqueta Punto  Beige  Camel Melange 18804   X-Large para Mujer'
+slug: 'B07V5NPTZB-es Tom Tailor Denim Kontrastreiche Chaqueta Punto Beige Camel...'
+tags: chaqueta
 actualPrice: 11.47 EUR
 currency: EUR
 price: 11.47

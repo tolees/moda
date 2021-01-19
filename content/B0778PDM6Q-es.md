@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41kVazcXNwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0778PDM6Q-es Amazon Brand - AURIQUE Legging deportivos con tejido brillante y paneles laterales para mujer  Multicolor  Digital Blur   40  Label:M'
+slug: 'B0778PDM6Q-es Amazon Brand - AURIQUE Legging deportivos con tejido...'
+tags: aurique
 actualPrice: 13.73 EUR
 currency: EUR
 price: 13.73

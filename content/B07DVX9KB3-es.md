@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41jGN+dRttL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DVX9KB3-es Levi s Type 3 Sherpa Trucker  Chaqueta para Hombre  Azul  Rockridge Trucker 0084   X-Large'
+slug: 'B07DVX9KB3-es Levi s Type 3 Sherpa Trucker Chaqueta para Hombre Azul...'
+tags: chaqueta
 actualPrice: 84.74 EUR
 currency: EUR
 price: 84.74

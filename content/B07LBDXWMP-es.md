@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/418vxaLbRCL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LBDXWMP-es Helly Hansen Vertex Secado Rápido Y Elástico Chaqueta con Cremallera Completa  Hombre  North Sea Blue  S'
+slug: 'B07LBDXWMP-es Helly Hansen Vertex Secado Rápido Y Elástico Chaqueta con...'
+tags: chaqueta
 actualPrice: 38.22 EUR
 currency: EUR
 price: 38.22

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4186acmTB+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RZLH8XQ-es Levi s Selma Dress Vestido  Azul  Going Steady  2  0000   Medium para Mujer'
+slug: 'B07RZLH8XQ-es Levi s Selma Dress Vestido Azul Going Steady 2 0000 Medium...'
+tags: vestido
 actualPrice: 53.26 EUR
 currency: EUR
 price: 53.26

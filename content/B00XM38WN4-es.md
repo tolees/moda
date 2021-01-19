@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413yiTAPy8L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XM38WN4-es Pepe Jeans New Brooke Vaqueros  Azul  10Oz Rinse Plus   24W/L32L para Mujer'
+slug: 'B00XM38WN4-es Pepe Jeans New Brooke Vaqueros Azul 10Oz Rinse Plus...'
+tags: vaqueros
 actualPrice: 32.82 EUR
 currency: EUR
 price: 32.82

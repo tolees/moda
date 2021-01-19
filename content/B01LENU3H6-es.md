@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41nrBI5GbYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LENU3H6-es BOSS Brief CO/EL  Bóxer  Multicolor  Assorted Pre-Pack 999   Medium 3 para Hombre'
+slug: 'B01LENU3H6-es BOSS Brief CO/EL Bóxer Multicolor Assorted Pre-Pack 999...'
+tags: bóxer
 actualPrice: 18.91 EUR
 currency: EUR
 price: 18.91

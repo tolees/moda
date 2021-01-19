@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Z6gysH-5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M0TN4FI-es El Naturalista N5001 Pleasant Leaves  Sandalias con Correa de Tobillo para Mujer  Negro  Black Black   40 EU'
+slug: 'B01M0TN4FI-es El Naturalista N5001 Pleasant Leaves Sandalias con Correa...'
+tags: sandalias
 actualPrice: 56.45 EUR
 currency: EUR
 price: 56.45

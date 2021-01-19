@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51yAzsbZbCL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TYQL9BW-es Zapatillas de Deportes Hombre Mujer Zapatos Deportivos Running Zapatillas para Correr Calcetines Zapatos Zapatos para Padres e Hijos'
+slug: 'B07TYQL9BW-es Zapatillas de Deportes Hombre Mujer Zapatos Deportivos...'
+tags: zapatos
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

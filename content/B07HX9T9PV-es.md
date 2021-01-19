@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41bpdbjtLRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HX9T9PV-es H&E - Abrigo de plumas con capucha para niña  Niñas  color rosa  tamaño 10-11 años'
+slug: 'B07HX9T9PV-es H&E - Abrigo de plumas con capucha para niña Niñas color...'
+tags: abrigo
 actualPrice: 29.68 EUR
 currency: EUR
 price: 29.68

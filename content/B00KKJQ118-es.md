@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/316IHEIds5L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KKJQ118-es James & Nicholson Children s - Sudadera infantil  Azul  Sky Blue   36  Talla del fabricante: XS '
+slug: 'B00KKJQ118-es James & Nicholson Children s - Sudadera infantil Azul Sky...'
+tags: sudadera
 actualPrice: 7.93 EUR
 currency: EUR
 price: 7.93

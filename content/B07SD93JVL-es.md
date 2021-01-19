@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41gNoTA4DML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SD93JVL-es Helly Hansen Nord Graphic T-Shirt Camiseta  Hombre  Grey Melange  S'
+slug: 'B07SD93JVL-es Helly Hansen Nord Graphic T-Shirt Camiseta Hombre Grey...'
+tags: camiseta
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

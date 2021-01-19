@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31+TSWfP-XL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V7QF5J9-es Chicco Sandalo Corissa  Sandalias para Niñas  Blanco  Bianco 300   23 EU'
+slug: 'B07V7QF5J9-es Chicco Sandalo Corissa Sandalias para Niñas Blanco Bianco...'
+tags: sandalias
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

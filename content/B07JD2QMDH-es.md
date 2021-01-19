@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51KqnvGYh6L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JD2QMDH-es Marc O Polo 920727542412 Camisa  Azul  Combo B81   Small para Hombre'
+slug: 'B07JD2QMDH-es Marc O Polo 920727542412 Camisa Azul Combo B81 Small para...'
+tags: camisa
 actualPrice: 6.31 EUR
 currency: EUR
 price: 6.31

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41O+aTXT42L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W7XFLCV-es Tommy Hilfiger Rope Stripe tee Camiseta Deporte  Azul  Desert Sky   Large para Hombre'
+slug: 'B07W7XFLCV-es Tommy Hilfiger Rope Stripe tee Camiseta Deporte Azul...'
+tags: camiseta
 actualPrice: 24.09 EUR
 currency: EUR
 price: 24.09

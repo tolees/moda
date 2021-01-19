@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51nSKOd5l-L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SBST4B7-es ARTOP Guantes Moto de Pantalla Táctil Guantes Motocross Verano Mujer Hombres Dedo Completo Tranpirable Guantes de Motocicleta Negro XXL '
+slug: 'B07SBST4B7-es ARTOP Guantes Moto de Pantalla Táctil Guantes Motocross...'
+tags: guantes
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41aDWyILtNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077GB5FSX-es Pepe Jeans Melisa PL503792 Camiseta  Blanco  Mousse 808   Medium para Mujer'
+slug: 'B077GB5FSX-es Pepe Jeans Melisa PL503792 Camiseta Blanco Mousse 808...'
+tags: camiseta
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

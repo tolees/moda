@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41sb6DCOP2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KHTNXA8-es Under Armour UA Heatgear Long Sleeve Camiseta De Manga Larga  Hombre  Rojo  Red/Steel 600   L'
+slug: 'B00KHTNXA8-es Under Armour UA Heatgear Long Sleeve Camiseta De Manga...'
+tags: camiseta
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

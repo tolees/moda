@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/317wVfg6d8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M8SBC49-es Marca Amazon - find. Vestido Largo Estilo Camiseta de Punto Mujer  Gris  Grey Marl   38  Label: S'
+slug: 'B07M8SBC49-es Marca Amazon - find. Vestido Largo Estilo Camiseta de...'
+tags: camiseta, vestido, -, find.
 actualPrice: 5.16 EUR
 currency: EUR
 price: 5.16

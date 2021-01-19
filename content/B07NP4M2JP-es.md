@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/417X6Zo5LtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NP4M2JP-es Zerimar Zapatos con Alzas Interiores para Hombres Aumento 7 cm | Zapatos de Hombre con Alzas Que Aumentan Su Altura | Zapatos Hombre Invierno'
+slug: 'B07NP4M2JP-es Zerimar Zapatos con Alzas Interiores para Hombres Aumento...'
+tags: zapatos
 actualPrice: 109.0 EUR
 currency: EUR
 price: 109.0

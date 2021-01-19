@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31X0SrW2+4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FQYNXT2-es Clarks Un Lisbon Lace  Zapatos de Cordones Derby para Hombre  Azul  Navy Combi-   41.5 EU'
+slug: 'B07FQYNXT2-es Clarks Un Lisbon Lace Zapatos de Cordones Derby para...'
+tags: zapatos
 actualPrice: 60.0 EUR
 currency: EUR
 price: 60.0

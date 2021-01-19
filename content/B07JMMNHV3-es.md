@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41g8hCV+lpL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JMMNHV3-es dPois Bebé Niña Pelele Vestido Halter Lentejuelas Snow Flake Romper Mameluco Tutú Princesa Mono sin Manga Disfraz Infantil Halloween Cosplay Fiesta Azul 6-12 Meses'
+slug: 'B07JMMNHV3-es dPois Bebé Niña Pelele Vestido Halter Lentejuelas Snow...'
+tags: pelele, vestido
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

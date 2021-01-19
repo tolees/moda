@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41PJCUTCqeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VC9X6KD-es JACK & JONES Jorexplore Parka Jacket STS  Verde  Forest Night Detail: Solid   Large para Hombre'
+slug: 'B07VC9X6KD-es JACK & JONES Jorexplore Parka Jacket STS Verde Forest...'
+tags: parka
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

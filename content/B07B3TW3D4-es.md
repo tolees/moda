@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51IHWaJDl+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B3TW3D4-es gracosy Mocasines para Mujer Primavera/Verano Vintage Flores Hechas a Mano Zapatos de Cuero Estilo Mocasines Cómodo Slip On Shoes Alpargatas Zapatos de Conducción Zapatos para Caminar'
+slug: 'B07B3TW3D4-es gracosy Mocasines para Mujer Primavera/Verano Vintage...'
+tags: zapatos
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

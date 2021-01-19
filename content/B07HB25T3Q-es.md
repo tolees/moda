@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51bwY6wb8uL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HB25T3Q-es Brace Master MMA Guantes UFC Guantes de Cuero Más Acolchado para Hombres Mujeres Knuckle Wrist Protection  Guantes de Entrenamiento sin Dedos  Kickboxing  L  Negro '
+slug: 'B07HB25T3Q-es Brace Master MMA Guantes UFC Guantes de Cuero Más...'
+tags: guantes
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

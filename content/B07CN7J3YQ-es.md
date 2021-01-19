@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41eqFU-ZE2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CN7J3YQ-es Crocs Baya Clog Kids  Zuecos Unisex Niños  Azul  Navy 410   28/29 EU'
+slug: 'B07CN7J3YQ-es Crocs Baya Clog Kids Zuecos Unisex Niños Azul Navy 410...'
+tags: zuecos
 actualPrice: 20.75 EUR
 currency: EUR
 price: 20.75

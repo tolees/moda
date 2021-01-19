@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41v0SeIzT5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RGQMF3Z-es Tommy Hilfiger Cazadora Chaqueta Bomber Essential con Parche Deportiva y Elegante  Azul  Black Iris   XL para Hombre'
+slug: 'B07RGQMF3Z-es Tommy Hilfiger Cazadora Chaqueta Bomber Essential con...'
+tags: chaqueta
 actualPrice: 84.99 EUR
 currency: EUR
 price: 84.99
@@ -25,8 +26,8 @@ En este momento está [Tommy Hilfiger Cazadora Chaqueta Bomber Essential con Par
 
 🔎:
 
+- Tommy Jeans Azul Chaqueta de bombardero esencial
 - Ver descripción del producto para obtener más información.
 - A estrenar y genuina. Somos un vendedor autorizado de Tommy Jeans.
-- Tommy Jeans Azul Chaqueta de bombardero esencial
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07RGQMF3Z/?tag=tolees-21)

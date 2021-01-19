@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51JvBdcLtxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084C2T9CH-es Cyelk Collar Antiparasitos Perro  contra Garrapatas y Pulgas  Collar Antipulgas Perro Natural Hipoalergénicos para Mascota Pequeño Mediano Grande'
+slug: 'B084C2T9CH-es Cyelk Collar Antiparasitos Perro contra Garrapatas y...'
+tags: collar
 actualPrice: 15.68 EUR
 currency: EUR
 price: 15.68

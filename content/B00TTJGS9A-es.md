@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ypiyTVgRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00TTJGS9A-es Clarks Tilden Plain  Zapatos Derby para Hombre  Negro  Black Leather   42 EU'
+slug: 'B00TTJGS9A-es Clarks Tilden Plain Zapatos Derby para Hombre Negro Black...'
+tags: zapatos
 actualPrice: 50.33 EUR
 currency: EUR
 price: 50.33

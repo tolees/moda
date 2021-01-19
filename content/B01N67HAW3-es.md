@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/3112uP9VbJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N67HAW3-es Wrangler SKINNY Vaqueros  Negro  Black   25W / 32L para Mujer'
+slug: 'B01N67HAW3-es Wrangler SKINNY Vaqueros Negro Black 25W / 32L para Mujer'
+tags: vaqueros
 actualPrice: 20.61 EUR
 currency: EUR
 price: 20.61

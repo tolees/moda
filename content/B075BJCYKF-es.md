@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/3101IEmiofL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075BJCYKF-es Marca Amazon - MERAKI Falda Maxi Slim Fit Mujer  Negro  Black   44  Label: XL'
+slug: 'B075BJCYKF-es Marca Amazon - MERAKI Falda Maxi Slim Fit Mujer Negro...'
+tags: falda, meraki
 actualPrice: 17.5 EUR
 currency: EUR
 price: 17.5

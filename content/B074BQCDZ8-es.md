@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/418KfZ2Y8xL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074BQCDZ8-es Hombre s Zapatillas de Baloncesto Otoño Nuevo Entrenadores Moda al Aire Libre Sneaker'
+slug: 'B074BQCDZ8-es Hombre s Zapatillas de Baloncesto Otoño Nuevo Entrenadores...'
+tags: moda
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

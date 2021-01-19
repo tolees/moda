@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/411yCv7Oo7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01JZMPWM4-es Timberland Killington  Botas Unisex Niños  Azul  Black Iris Nubuck 19   38 EU'
+slug: 'B01JZMPWM4-es Timberland Killington Botas Unisex Niños Azul Black Iris...'
+tags: timberland
 actualPrice: 42.5 EUR
 currency: EUR
 price: 42.5

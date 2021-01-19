@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31lR4nwzLAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PB1CQBL-es Bose Frames - Gafas de sol con altavoces  Rondo  color negro'
+slug: 'B07PB1CQBL-es Bose Frames - Gafas de sol con altavoces Rondo color negro'
+tags: gafas
 actualPrice: 159.2 EUR
 currency: EUR
 price: 159.2

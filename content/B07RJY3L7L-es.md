@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41L6hrx3p5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RJY3L7L-es Tommy Hilfiger TJM Straight Small Logo Hoodie Jersey de Deporte  Azul  Blue Ckb   XX-Large para Hombre'
+slug: 'B07RJY3L7L-es Tommy Hilfiger TJM Straight Small Logo Hoodie Jersey de...'
+tags: jersey
 actualPrice: 24.02 EUR
 currency: EUR
 price: 24.02

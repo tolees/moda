@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31G4F7BjBlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HWQK76X-es Lacoste Ch9623 Camisa  Azul  Noir Phoenix/Lagon Nsv   Medium  Talla del Fabricante: 40  para Hombre'
+slug: 'B07HWQK76X-es Lacoste Ch9623 Camisa Azul Noir Phoenix/Lagon Nsv Medium...'
+tags: camisa
 actualPrice: 70.37 EUR
 currency: EUR
 price: 70.37

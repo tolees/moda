@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31KasphBoFL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MT5W3YH-es AURIQUE Mallas Largas de Deporte para Mujer   Azul  Cobalt Blue   44  Talla del Fabricante: X-Large '
+slug: 'B01MT5W3YH-es AURIQUE Mallas Largas de Deporte para Mujer Azul Cobalt...'
+tags: aurique
 actualPrice: 11.2 EUR
 currency: EUR
 price: 11.2

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41p6vMkOzCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VCG3HWG-es Desigual Chaq Cerezas Abrigo  Azul  Jeans Vaquero 5053   128  Talla del Fabricante: 7/8  para Niñas'
+slug: 'B07VCG3HWG-es Desigual Chaq Cerezas Abrigo Azul Jeans Vaquero 5053 128...'
+tags: abrigo
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51i6QtQQSaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YRD8DD7-es Marca Amazon - find. Vestido Corto Cruzado de Algodón Mujer  Negro  Negro Amarillo Check   42  Label: L'
+slug: 'B07YRD8DD7-es Marca Amazon - find. Vestido Corto Cruzado de Algodón...'
+tags: vestido, -, find.
 actualPrice: 4.14 EUR
 currency: EUR
 price: 4.14

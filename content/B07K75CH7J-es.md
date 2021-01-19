@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31JTKX9GjuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K75CH7J-es Levi s On Tour Camiseta Deportiva de Tirantes  Blanco  Red Hsmk Tank White 0022   Large para Mujer'
+slug: 'B07K75CH7J-es Levi s On Tour Camiseta Deportiva de Tirantes Blanco Red...'
+tags: camiseta
 actualPrice: 10.16 EUR
 currency: EUR
 price: 10.16

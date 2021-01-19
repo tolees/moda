@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Q1+67uO7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YD9G2VB-es ALLROS Gafas de Esquí  Máscara Gafas ski Snowboard  OTG  Anti-Niebla y UV400  para Snowboard  esquí  Skating y Otros Deportes de Nieve- Negro  No extraíble '
+slug: 'B07YD9G2VB-es ALLROS Gafas de Esquí Máscara Gafas ski Snowboard OTG...'
+tags: gafas
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

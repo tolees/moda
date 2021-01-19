@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413w+jDpO2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VJBJ9RQ-es Esprit 099ee1j024 Sudadera  Rojo  Red 630   X-Large para Mujer'
+slug: 'B07VJBJ9RQ-es Esprit 099ee1j024 Sudadera Rojo Red 630 X-Large para Mujer'
+tags: sudadera
 actualPrice: 17.12 EUR
 currency: EUR
 price: 17.12

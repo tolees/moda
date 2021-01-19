@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41NNmV0TH3L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P3G41KV-es Superdry Icelandic Parka  Rojo  New Port Oxa   34  Talla del Fabricante: XX-Small  para Mujer'
+slug: 'B07P3G41KV-es Superdry Icelandic Parka Rojo New Port Oxa 34 Talla del...'
+tags: parka
 actualPrice: 40.31 EUR
 currency: EUR
 price: 40.31

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41VI4nhfV6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075R8N5NM-es Vero Moda Vmava Plain SS Top Ga Noos Camiseta  Azul  Night Sky Night Sky   40  Talla del Fabricante: Medium  para Mujer'
+slug: 'B075R8N5NM-es Vero Moda Vmava Plain SS Top Ga Noos Camiseta Azul Night...'
+tags: camiseta, moda
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

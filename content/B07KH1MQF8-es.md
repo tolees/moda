@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31HnqQQFyIL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KH1MQF8-es Under Armour EU Tech Pant Pantalón de Golf  Hombre  Marrón  Khaki Base/Khaki Base 289   40W / 34L'
+slug: 'B07KH1MQF8-es Under Armour EU Tech Pant Pantalón de Golf Hombre Marrón...'
+tags: pantalón
 actualPrice: 12.9 EUR
 currency: EUR
 price: 12.9

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41cV7lPDmgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079RS3W4C-es Pepe Jeans Jenna PL952389 Vestido  Multicolor  Multi 0Aa   Medium para Mujer'
+slug: 'B079RS3W4C-es Pepe Jeans Jenna PL952389 Vestido Multicolor Multi 0Aa...'
+tags: vestido
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

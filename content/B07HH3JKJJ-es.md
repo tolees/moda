@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41t5YpJUAPL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HH3JKJJ-es Vgo 3Pares 2-4 Edad Guantes de Niños Guantes de Trabajo y de Jardinería Cubiertos de Látex 3Colores KID-RB6013 '
+slug: 'B07HH3JKJJ-es Vgo 3Pares 2-4 Edad Guantes de Niños Guantes de Trabajo y...'
+tags: guantes
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

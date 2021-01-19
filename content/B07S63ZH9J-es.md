@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31mrqBUrwtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S63ZH9J-es Crocs Classic Clog K  Zuecos Unisex Niños  Naranja  Cantaloupe   23/24 EU'
+slug: 'B07S63ZH9J-es Crocs Classic Clog K Zuecos Unisex Niños Naranja...'
+tags: zuecos
 actualPrice: 21.59 EUR
 currency: EUR
 price: 21.59

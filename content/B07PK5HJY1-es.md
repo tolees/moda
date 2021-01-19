@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21z-rVII7uL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PK5HJY1-es HAWKERS Gafas de sol  Negro/Azul  One Size Womens'
+slug: 'B07PK5HJY1-es HAWKERS Gafas de sol Negro/Azul One Size Womens'
+tags: gafas
 actualPrice: 19.2 EUR
 currency: EUR
 price: 19.2

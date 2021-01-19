@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ZmxCkPh4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KKXB4NJ-es Nike Y Hoodie FZ FLC TM Club19 Sudadera  Unisex niños  Gris  Black/Grey   M'
+slug: 'B07KKXB4NJ-es Nike Y Hoodie FZ FLC TM Club19 Sudadera Unisex niños Gris...'
+tags: sudadera
 actualPrice: 34.93 EUR
 currency: EUR
 price: 34.93

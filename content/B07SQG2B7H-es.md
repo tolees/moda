@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41i3RNWMtZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SQG2B7H-es Geox J Alben Boy B  Zapatillas para Niños  Verde  Military/Orange C0623   28 EU'
+slug: 'B07SQG2B7H-es Geox J Alben Boy B Zapatillas para Niños Verde...'
+tags: geox
 actualPrice: 22.75 EUR
 currency: EUR
 price: 22.75

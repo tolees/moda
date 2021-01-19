@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41kl1oF6gTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JM1V3N9-es Germinate Raya Jerséis Mujer Invierno Blanco Negro Tumblr Moda Casual Sueter Jersey Pullover Ropa  Blanco Negro  Large '
+slug: 'B07JM1V3N9-es Germinate Raya Jerséis Mujer Invierno Blanco Negro Tumblr...'
+tags: jersey, moda
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

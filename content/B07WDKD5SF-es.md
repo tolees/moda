@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31aL1IVuOWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WDKD5SF-es find. #  Shana-1a-58 Sandalias Abiertas  Dorado  Gold   41'
+slug: 'B07WDKD5SF-es find. # Shana-1a-58 Sandalias Abiertas Dorado Gold 41'
+tags: sandalias
 actualPrice: 8.79 EUR
 currency: EUR
 price: 8.79

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31rM948jpRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MZ026KV-es find. 13641 vestido fiesta mujer  Rojo  Red   38  Talla del Fabricante: Small '
+slug: 'B01MZ026KV-es find. 13641 vestido fiesta mujer Rojo Red 38 Talla del...'
+tags: vestido
 actualPrice: 6.38 EUR
 currency: EUR
 price: 6.38

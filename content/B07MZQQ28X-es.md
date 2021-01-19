@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41etoNMZt-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZQQ28X-es Pepe Jeans Regent Vaqueros Skinny   Powerflex Dark Used Denim 000   W25/L32 para Mujer'
+slug: 'B07MZQQ28X-es Pepe Jeans Regent Vaqueros Skinny Powerflex Dark Used...'
+tags: vaqueros
 actualPrice: 36.06 EUR
 currency: EUR
 price: 36.06

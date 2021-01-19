@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41qAZ7CFGqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MDBJPMR-es G-STAR RAW Revend Skinny Vaqueros  Lt Indigo Aged 8968-8436  28W / 30L para Hombre'
+slug: 'B07MDBJPMR-es G-STAR RAW Revend Skinny Vaqueros Lt Indigo Aged 8968-8436...'
+tags: vaqueros
 actualPrice: 64.99 EUR
 currency: EUR
 price: 64.99

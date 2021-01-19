@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41r6C0SUswL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001B15OLW-es Timberland 6-Inch Premium Boot  Botas para Hombre  Marrón  Rust Nubuck   41.5 EU'
+slug: 'B001B15OLW-es Timberland 6-Inch Premium Boot Botas para Hombre Marrón...'
+tags: timberland
 actualPrice: 154.0 EUR
 currency: EUR
 price: 154.0

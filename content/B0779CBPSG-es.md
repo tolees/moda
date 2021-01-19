@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31GyOLHfZlL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0779CBPSG-es adidas Entrada 18 JSY Jersey  Niños  Negro  Black/White   140  9/10 años '
+slug: 'B0779CBPSG-es adidas Entrada 18 JSY Jersey Niños Negro Black/White 140...'
+tags: jersey
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

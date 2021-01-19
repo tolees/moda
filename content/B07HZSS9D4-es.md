@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31wgdmxTRML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HZSS9D4-es find. Wide Band Mule Sandalias con Punta Abierta  Negro Black  36 EU'
+slug: 'B07HZSS9D4-es find. Wide Band Mule Sandalias con Punta Abierta Negro...'
+tags: sandalias
 actualPrice: 5.27 EUR
 currency: EUR
 price: 5.27

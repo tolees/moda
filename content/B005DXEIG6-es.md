@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41oCw9dZ5DL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005DXEIG6-es Geox U Federico Y  Zapatos de cordones derby para Hombre  Negro  Black C9999   47 EU'
+slug: 'B005DXEIG6-es Geox U Federico Y Zapatos de cordones derby para Hombre...'
+tags: geox, zapatos
 actualPrice: 54.95 EUR
 currency: EUR
 price: 54.95

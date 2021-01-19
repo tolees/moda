@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41KpiYqhJTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0792S2RJQ-es KAPORAL Doria Abrigo  Bleu  Marine Marine   14 años para Niños'
+slug: 'B0792S2RJQ-es KAPORAL Doria Abrigo Bleu Marine Marine 14 años para Niños'
+tags: abrigo
 actualPrice: 57.91 EUR
 currency: EUR
 price: 57.91

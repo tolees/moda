@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41M39243QkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01DSXA0JQ-es SONGMICS Perchero con 3 Capas para Zapatos  con 18 Ganchos  Metal  68 8 x 35 2 x 187 cm  Negro HSR04B'
+slug: 'B01DSXA0JQ-es SONGMICS Perchero con 3 Capas para Zapatos con 18 Ganchos...'
+tags: zapatos
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

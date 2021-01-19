@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41fT4d0raWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VVFJQJJ-es Tommy Hilfiger TJM Circle Logo tee Camiseta Deporte  Gris  Lt Grey Htr P01   X-Large para Hombre'
+slug: 'B07VVFJQJJ-es Tommy Hilfiger TJM Circle Logo tee Camiseta Deporte Gris...'
+tags: camiseta
 actualPrice: 13.21 EUR
 currency: EUR
 price: 13.21

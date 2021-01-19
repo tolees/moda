@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4130LoQCbdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JGD6HKR-es PUMA Cup Casuals tee Camiseta  Hombre  Gris  Asphalt/Whisper White   2XL'
+slug: 'B07JGD6HKR-es PUMA Cup Casuals tee Camiseta Hombre Gris Asphalt/Whisper...'
+tags: camiseta
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

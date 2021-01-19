@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41AeQglJ8wL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MDBJ57G-es G-STAR RAW Revend Skinny Vaqueros  Medium Aged Ripped A634-4865  27W / 34L para Hombre'
+slug: 'B07MDBJ57G-es G-STAR RAW Revend Skinny Vaqueros Medium Aged Ripped...'
+tags: vaqueros
 actualPrice: 37.22 EUR
 currency: EUR
 price: 37.22

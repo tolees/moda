@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/414Krkys18L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B071NMGFKF-es find.  Camisa Casual para Hombre  Blanco  Ecru   Large'
+slug: 'B071NMGFKF-es find. Camisa Casual para Hombre Blanco Ecru Large'
+tags: camisa
 actualPrice: 7.5 EUR
 currency: EUR
 price: 7.5

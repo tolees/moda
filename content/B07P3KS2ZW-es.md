@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31RfibcmZ4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P3KS2ZW-es GRACE KARIN Mujer Vestido Fuera del Hombro Vintage Retro de Cóctel Fiesta Vestido S CL011020-3'
+slug: 'B07P3KS2ZW-es GRACE KARIN Mujer Vestido Fuera del Hombro Vintage Retro...'
+tags: vestido
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

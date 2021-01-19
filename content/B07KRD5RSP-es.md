@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41xEctokhIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KRD5RSP-es Tom Tailor Logo Camiseta  Gris  Tarmac Grey 10899   XX-Large para Hombre'
+slug: 'B07KRD5RSP-es Tom Tailor Logo Camiseta Gris Tarmac Grey 10899 XX-Large...'
+tags: camiseta
 actualPrice: 4.16 EUR
 currency: EUR
 price: 4.16

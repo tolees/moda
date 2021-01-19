@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31xx7Q0MgkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ZUY5JPM-es Reef Fanning  Chanclas para Hombre  Marrón  Brown / Gum   35 EU'
+slug: 'B00ZUY5JPM-es Reef Fanning Chanclas para Hombre Marrón Brown / Gum 35 EU'
+tags: chanclas
 actualPrice: 38.49 EUR
 currency: EUR
 price: 38.49

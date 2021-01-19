@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416sb3mPsdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TF6L7MN-es ElegantPark HC1920 Zapatos Novia Tacon Bajo Correa Cruzada Punta Cerrada Zapatos de Novia de Encaje Zapatos Boda Mujer Marfil EU 39'
+slug: 'B07TF6L7MN-es ElegantPark HC1920 Zapatos Novia Tacon Bajo Correa Cruzada...'
+tags: zapatos
 actualPrice: 56.99 EUR
 currency: EUR
 price: 56.99

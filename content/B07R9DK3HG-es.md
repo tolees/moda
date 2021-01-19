@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41QXjSDh4lL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R9DK3HG-es Helly Hansen Aden Chaqueta De Pluma Impermeable Parka con Capucha  Mujer  Navy  L'
+slug: 'B07R9DK3HG-es Helly Hansen Aden Chaqueta De Pluma Impermeable Parka con...'
+tags: chaqueta, parka
 actualPrice: 154.07 EUR
 currency: EUR
 price: 154.07

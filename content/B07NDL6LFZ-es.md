@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41OkaypCqyL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NDL6LFZ-es G-STAR RAW Vodan Quilted Chaqueta Bomber  Gris  Asfalt 995   Large para Hombre'
+slug: 'B07NDL6LFZ-es G-STAR RAW Vodan Quilted Chaqueta Bomber Gris Asfalt 995...'
+tags: chaqueta
 actualPrice: 89.97 EUR
 currency: EUR
 price: 89.97

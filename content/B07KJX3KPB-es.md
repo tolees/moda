@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41u6eDws6aL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KJX3KPB-es Columbia Five Forks  Zapatos de Senderismo Impermeables para Hombre  Gris  Ti Grey Steel  033   42 EU'
+slug: 'B07KJX3KPB-es Columbia Five Forks Zapatos de Senderismo Impermeables...'
+tags: zapatos
 actualPrice: 66.98 EUR
 currency: EUR
 price: 66.98

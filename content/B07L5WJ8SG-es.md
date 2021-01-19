@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413-05amJLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L5WJ8SG-es Regatta Cline III Coolweave Crew Neck Graphic Camiseta  Hombre  Yellow Sulphur  Small'
+slug: 'B07L5WJ8SG-es Regatta Cline III Coolweave Crew Neck Graphic Camiseta...'
+tags: camiseta
 actualPrice: 7.7 EUR
 currency: EUR
 price: 7.7

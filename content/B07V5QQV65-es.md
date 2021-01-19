@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Bir25FsDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V5QQV65-es Tommy Hilfiger Nautical Print Beach Sandal  Sandalias con Punta Abierta para Hombre  Blanco  White Ybs   42 EU'
+slug: 'B07V5QQV65-es Tommy Hilfiger Nautical Print Beach Sandal Sandalias con...'
+tags: sandalias
 actualPrice: 14.0 EUR
 currency: EUR
 price: 14.0

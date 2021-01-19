@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41OhbBjZV9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JW2RWDV-es Timberland Perkins Row 2-Strap  Toddler   Sandalias de Punta Descubierta Unisex-Niños  Azul Dark Blue  22 EU'
+slug: 'B07JW2RWDV-es Timberland Perkins Row 2-Strap Toddler Sandalias de Punta...'
+tags: sandalias, timberland
 actualPrice: 11.7 EUR
 currency: EUR
 price: 11.7

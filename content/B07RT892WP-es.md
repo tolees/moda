@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41H1q32spfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RT892WP-es Pepe Jeans Hatch Vaqueros Ajustados  Azul  Bleach 000   30W / 32L para Hombre'
+slug: 'B07RT892WP-es Pepe Jeans Hatch Vaqueros Ajustados Azul Bleach 000 30W /...'
+tags: vaqueros
 actualPrice: 45.47 EUR
 currency: EUR
 price: 45.47

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41hoI3tajQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PHYF6D5-es Refresh 69188  Botines para Mujer  Marrón Camel  38 EU'
+slug: 'B07PHYF6D5-es Refresh 69188 Botines para Mujer Marrón Camel 38 EU'
+tags: botines
 actualPrice: 20.67 EUR
 currency: EUR
 price: 20.67

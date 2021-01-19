@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4196CX8w3EL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SWSGMQD-es Geox B Kilwi Boy A  Zapatillas para Bebés  Blanco  White/Dk Red C1026   20 EU'
+slug: 'B07SWSGMQD-es Geox B Kilwi Boy A Zapatillas para Bebés Blanco White/Dk...'
+tags: geox
 actualPrice: 21.04 EUR
 currency: EUR
 price: 21.04

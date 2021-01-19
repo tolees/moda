@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414oc9jeFxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089NFXDJM-es Jack & Jones JORTRAILER Sweat Hood STS Sudadera con Capucha  Gris Claro  S para Hombre'
+slug: 'B089NFXDJM-es Jack & Jones JORTRAILER Sweat Hood STS Sudadera con...'
+tags: sudadera
 actualPrice: 26.24 EUR
 currency: EUR
 price: 26.24

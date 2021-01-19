@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41TO5gmbxLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DFNCW5K-es Marca Amazon - find. Statement Fairisle Jumper Suéter Mujer  Multicolor  Multi   36  Label: XS'
+slug: 'B07DFNCW5K-es Marca Amazon - find. Statement Fairisle Jumper Suéter...'
+tags: -, find.
 actualPrice: 12.52 EUR
 currency: EUR
 price: 12.52

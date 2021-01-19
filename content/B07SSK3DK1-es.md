@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31DFRh25GSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SSK3DK1-es Geox D PONTOISE D  Zapatillas para Mujer  Negro  Black/Lt Gold C9258   39 EU'
+slug: 'B07SSK3DK1-es Geox D PONTOISE D Zapatillas para Mujer Negro Black/Lt...'
+tags: geox
 actualPrice: 41.48 EUR
 currency: EUR
 price: 41.48

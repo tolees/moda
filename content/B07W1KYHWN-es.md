@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51%2BLyUMLJfL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W1KYHWN-es NUBILY Bolsos de Mujer Bolso para Portatil 15.6 Pulgadas Bolso Grande Bolso Tote Bolso de Hombro Bolso Shopper Bolso de Cuero Marrón'
+slug: 'B07W1KYHWN-es NUBILY Bolsos de Mujer Bolso para Portatil 15.6 Pulgadas...'
+tags: bolso
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

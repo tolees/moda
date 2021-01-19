@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41IgYQNj1CL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NYTJCJ2-es Skechers Stamina Cutback  Zapatilla Deportiva con Cordones para Hombre  Azul  Navy Leather/White Mesh/Trim NVW   42.5 EU'
+slug: 'B07NYTJCJ2-es Skechers Stamina Cutback Zapatilla Deportiva con Cordones...'
+tags: zapatilla
 actualPrice: 36.79 EUR
 currency: EUR
 price: 36.79

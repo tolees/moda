@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ykZM3HfAL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T7G7QWT-es The North Face M Quest Triclimate Chaqueta  Hombre  Negro  TNF Black '
+slug: 'B07T7G7QWT-es The North Face M Quest Triclimate Chaqueta Hombre Negro...'
+tags: chaqueta
 actualPrice: 185.64 EUR
 currency: EUR
 price: 185.64

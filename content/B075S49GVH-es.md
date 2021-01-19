@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31YUjcfoNJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075S49GVH-es Marca Amazon - MERAKI Sudadera con Capucha y Cremallera Mujer  Gris  Grey   40  Label: M'
+slug: 'B075S49GVH-es Marca Amazon - MERAKI Sudadera con Capucha y Cremallera...'
+tags: meraki, sudadera
 actualPrice: 9.0 EUR
 currency: EUR
 price: 9.0

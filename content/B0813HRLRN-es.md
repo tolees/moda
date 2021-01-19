@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41fFrUG+sGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0813HRLRN-es Marca Amazon - Find. Sandalias abiertas Barely There para mujer  color Naranja  talla 41 EU'
+slug: 'B0813HRLRN-es Marca Amazon - Find. Sandalias abiertas Barely There para...'
+tags: sandalias, -, find.
 actualPrice: 6.2 EUR
 currency: EUR
 price: 6.2

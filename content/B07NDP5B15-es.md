@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41VRxIXxogL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NDP5B15-es G-STAR RAW Core Super Slim Camisa Vaquera  Multicolor  Black/Imperial Blue 8630   XL para Hombre'
+slug: 'B07NDP5B15-es G-STAR RAW Core Super Slim Camisa Vaquera Multicolor...'
+tags: camisa
 actualPrice: 16.79 EUR
 currency: EUR
 price: 16.79

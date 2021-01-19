@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41AOfoH5aNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HZ8ZGCN-es Amazon Essentials 6-Pack Cotton Bikini Underwear  Flores Silvestres  Wildflowers   US L  EU L - XL '
+slug: 'B07HZ8ZGCN-es Amazon Essentials 6-Pack Cotton Bikini Underwear Flores...'
+tags: bikini
 actualPrice: 8.55 EUR
 currency: EUR
 price: 8.55

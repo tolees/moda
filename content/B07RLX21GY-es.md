@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/418fr7IBYNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RLX21GY-es Mavi Frida Falda  Negro  Smoke Random Embelished 29954   Small  Talla del Fabricante: S/  para Mujer'
+slug: 'B07RLX21GY-es Mavi Frida Falda Negro Smoke Random Embelished 29954 Small...'
+tags: falda
 actualPrice: 17.37 EUR
 currency: EUR
 price: 17.37

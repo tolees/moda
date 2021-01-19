@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412BHpcR4bL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00I46FCQY-es Pepe Jeans Eggo PM500465 Camiseta  Blanco  White 800   X-Large para Hombre'
+slug: 'B00I46FCQY-es Pepe Jeans Eggo PM500465 Camiseta Blanco White 800 X-Large...'
+tags: camiseta
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

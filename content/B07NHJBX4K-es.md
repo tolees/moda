@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41m4b6Oh3tL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NHJBX4K-es Esprit Jelto NW PJ.LS_ll Pijama  Negro  Black 001   Large para Hombre'
+slug: 'B07NHJBX4K-es Esprit Jelto NW PJ.LS_ll Pijama Negro Black 001 Large para...'
+tags: pijama
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

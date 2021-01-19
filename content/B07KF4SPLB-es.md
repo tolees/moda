@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31iX21TcgoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KF4SPLB-es Levi s Original Hm Icon Crew Sudadera  Blanco  White + 0014   XX-Large para Hombre'
+slug: 'B07KF4SPLB-es Levi s Original Hm Icon Crew Sudadera Blanco White + 0014...'
+tags: sudadera
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

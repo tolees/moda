@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31%2BQfpg6psL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S5ZBFNH-es adidas Must Haves Badge of Sports Hoodie Sudadera  Hombre  Azul  Legend Ink/Dark Blue   M'
+slug: 'B07S5ZBFNH-es adidas Must Haves Badge of Sports Hoodie Sudadera Hombre...'
+tags: sudadera
 actualPrice: 29.98 EUR
 currency: EUR
 price: 29.98

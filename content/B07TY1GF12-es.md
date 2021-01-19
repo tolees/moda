@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4196zhlFXpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TY1GF12-es Women s Secret Mickey Vintage Mv DS Allover PJ FR Conjuntos de Pijama  Gris  Gama Grises 49   Large  Tamaño del Fabricante: L  para Mujer'
+slug: 'B07TY1GF12-es Women s Secret Mickey Vintage Mv DS Allover PJ FR...'
+tags: pijama
 actualPrice: 18.13 EUR
 currency: EUR
 price: 18.13

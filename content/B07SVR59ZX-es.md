@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41UV-WyWsgL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SVR59ZX-es Vero Moda NOS Vmexcursion Expedition Aw193/4parka Noos Abrigo  Amarillo  Amber Gold Amber Gold   42  Talla del Fabricante: Large  para Mujer'
+slug: 'B07SVR59ZX-es Vero Moda NOS Vmexcursion Expedition Aw193/4parka Noos...'
+tags: abrigo, moda
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

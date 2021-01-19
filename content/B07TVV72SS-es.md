@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41RkwyohztL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TVV72SS-es Lee Scarlett High Vaqueros  Azul  Mid Vermont JY   32W/31L para Mujer'
+slug: 'B07TVV72SS-es Lee Scarlett High Vaqueros Azul Mid Vermont JY 32W/31L...'
+tags: vaqueros
 actualPrice: 44.09 EUR
 currency: EUR
 price: 44.09

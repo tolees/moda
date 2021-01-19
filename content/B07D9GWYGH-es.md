@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41d7CMbk7TL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D9GWYGH-es Tommy Hilfiger LR Trunk Bóxer  Negro  Black 990   X-Large para Hombre'
+slug: 'B07D9GWYGH-es Tommy Hilfiger LR Trunk Bóxer Negro Black 990 X-Large para...'
+tags: bóxer
 actualPrice: 12.45 EUR
 currency: EUR
 price: 12.45

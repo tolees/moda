@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41GADq5eoHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XG785RW-es Marca Amazon - find. Camisa Hombre  Verde  Fresh Green   M  Label: M'
+slug: 'B06XG785RW-es Marca Amazon - find. Camisa Hombre Verde Fresh Green M...'
+tags: camisa, -, find.
 actualPrice: 14.54 EUR
 currency: EUR
 price: 14.54

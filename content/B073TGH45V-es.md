@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41sqpswu1BL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073TGH45V-es Joymoze Moderna Mochila de Ocio para Niñas Mochila Escolar para Adolescentes Mochila Bolso Estampado para Mujer Flamingos'
+slug: 'B073TGH45V-es Joymoze Moderna Mochila de Ocio para Niñas Mochila Escolar...'
+tags: bolso
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41oPn0LqIKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YQ3L4SF-es PRIME LTR-01 - Chaqueta de Piel sintética para Hombre Verde FB-Olive L'
+slug: 'B07YQ3L4SF-es PRIME LTR-01 - Chaqueta de Piel sintética para Hombre...'
+tags: chaqueta
 actualPrice: 21.8 EUR
 currency: EUR
 price: 21.8

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31e4PnaaNBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0747NW6ZR-es Timberland Courmayeur Valley  Zapatillas Chukka para Mujer  Negro  Black Full Grain   37 EU'
+slug: 'B0747NW6ZR-es Timberland Courmayeur Valley Zapatillas Chukka para Mujer...'
+tags: timberland
 actualPrice: 108.86 EUR
 currency: EUR
 price: 108.86

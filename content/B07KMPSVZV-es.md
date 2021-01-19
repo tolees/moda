@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31uOaolYjsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KMPSVZV-es adidas Essentials French Terry 3 Bandas Pantalón Corto  Hombre  Negro  Black   L'
+slug: 'B07KMPSVZV-es adidas Essentials French Terry 3 Bandas Pantalón Corto...'
+tags: pantalón
 actualPrice: 24.94 EUR
 currency: EUR
 price: 24.94

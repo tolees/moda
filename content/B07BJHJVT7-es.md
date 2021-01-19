@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41sh5A7HQPL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BJHJVT7-es G-STAR RAW Revend Skinny Vaqueros  Rinsed 8970-082  35W / 28L para Hombre'
+slug: 'B07BJHJVT7-es G-STAR RAW Revend Skinny Vaqueros Rinsed 8970-082 35W /...'
+tags: vaqueros
 actualPrice: 39.04 EUR
 currency: EUR
 price: 39.04

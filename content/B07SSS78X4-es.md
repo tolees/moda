@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31SEfo7+vpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SSS78X4-es Geox D Genziana Mid B  Sandalias con Punta Abierta para Mujer  Beige  Lt Taupe C6738   37 EU'
+slug: 'B07SSS78X4-es Geox D Genziana Mid B Sandalias con Punta Abierta para...'
+tags: geox, sandalias
 actualPrice: 65.43 EUR
 currency: EUR
 price: 65.43

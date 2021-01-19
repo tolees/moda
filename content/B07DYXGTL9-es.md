@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41P5qfRMUrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DYXGTL9-es Columbia Horizon Explore H Chaqueta Térmica Impermeable  Hombre  Negro  Black   S'
+slug: 'B07DYXGTL9-es Columbia Horizon Explore H Chaqueta Térmica Impermeable...'
+tags: chaqueta
 actualPrice: 95.89 EUR
 currency: EUR
 price: 95.89

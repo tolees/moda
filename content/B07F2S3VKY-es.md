@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41bRys7P4mL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F2S3VKY-es Helly Hansen Crew Jacket Chaqueta  Hombre  Cherry Tomato  XXL'
+slug: 'B07F2S3VKY-es Helly Hansen Crew Jacket Chaqueta Hombre Cherry Tomato XXL'
+tags: chaqueta
 actualPrice: 45.02 EUR
 currency: EUR
 price: 45.02

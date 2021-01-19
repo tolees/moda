@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31p+URp4BbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071FD3RZ8-es Only onlRAIN REG Skinny Jeans CRY6060 Noos Vaqueros  Negro  Black Denim   42 /L30  Talla del Fabricante: X-Large  para Mujer'
+slug: 'B071FD3RZ8-es Only onlRAIN REG Skinny Jeans CRY6060 Noos Vaqueros Negro...'
+tags: vaqueros
 actualPrice: 18.89 EUR
 currency: EUR
 price: 18.89

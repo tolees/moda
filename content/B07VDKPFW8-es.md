@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41Ern0oV%2ByL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VDKPFW8-es JACK & JONES PREMIUM Jprwetford Parka STS  Beige Kelp  XX-Large para Hombre'
+slug: 'B07VDKPFW8-es JACK & JONES PREMIUM Jprwetford Parka STS Beige Kelp XX-...'
+tags: parka
 actualPrice: 32.66 EUR
 currency: EUR
 price: 32.66

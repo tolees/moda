@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/411MqK+z1tL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0771KM7MP-es SHOBDW Invierno Mujeres Moda Informal más Gruesa Slim sólido Abajo Chaqueta Abrigo  Ejercito Verde  S '
+slug: 'B0771KM7MP-es SHOBDW Invierno Mujeres Moda Informal más Gruesa Slim...'
+tags: abrigo, chaqueta, moda
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

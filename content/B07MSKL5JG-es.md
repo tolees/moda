@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31H--ZTWlyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MSKL5JG-es Clarks Un Larvik Lace  Zapatos de Cordones Derby para Hombre  Piel marrón marrón  45 EU'
+slug: 'B07MSKL5JG-es Clarks Un Larvik Lace Zapatos de Cordones Derby para...'
+tags: zapatos
 actualPrice: 55.0 EUR
 currency: EUR
 price: 55.0

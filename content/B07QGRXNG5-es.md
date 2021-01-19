@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41DQbCU+vVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QGRXNG5-es BeiaMina Mujer Moda Plano Sandalias Zapatos Sin Cordones Playa Zapatos Punta Abierta Verano Zapatos Floral Apricot Talla 36 Asiática'
+slug: 'B07QGRXNG5-es BeiaMina Mujer Moda Plano Sandalias Zapatos Sin Cordones...'
+tags: moda, sandalias, zapatos
 actualPrice: 14.66 EUR
 currency: EUR
 price: 14.66

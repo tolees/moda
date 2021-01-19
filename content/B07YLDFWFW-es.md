@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31TWzJBz70L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YLDFWFW-es Primigi Sandalo Bambina  Sandalias con Punta Abierta para Niñas  Blanco  Bianco/Bianco 5386633   27 EU'
+slug: 'B07YLDFWFW-es Primigi Sandalo Bambina Sandalias con Punta Abierta para...'
+tags: sandalias
 actualPrice: 28.32 EUR
 currency: EUR
 price: 28.32

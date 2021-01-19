@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41v56e1J+iL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WLP23XR-es HOMCOM Maleta Correpasillos Niños con Forma de Moto Bolso de Taquilla de Viaje Infantil de Mano Bebé Ride-On con 4 en 1 para los Niños Mayores de 3 Años'
+slug: 'B07WLP23XR-es HOMCOM Maleta Correpasillos Niños con Forma de Moto Bolso...'
+tags: bolso
 actualPrice: 18.69 EUR
 currency: EUR
 price: 18.69

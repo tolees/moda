@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31CES60IZxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TMHGS61-es Levi s Graphic Po Hoodie- B Sudadera  Azul  Hm Ssnl Tonal Pop Skyway 0108   Medium para Hombre'
+slug: 'B07TMHGS61-es Levi s Graphic Po Hoodie- B Sudadera Azul Hm Ssnl Tonal...'
+tags: sudadera
 actualPrice: 37.39 EUR
 currency: EUR
 price: 37.39

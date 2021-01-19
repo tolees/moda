@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ki003B4NL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0817HMJ3Y-es Columbia Triple Canyon Pantalón Corto De Senderismo  Hombre  Sage  Black  W34/L10'
+slug: 'B0817HMJ3Y-es Columbia Triple Canyon Pantalón Corto De Senderismo Hombre...'
+tags: pantalón
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

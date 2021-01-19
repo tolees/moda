@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/312KIdXBFDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RT4WYP6-es Vestido Vintage para Muejeres Mangas Corta Cuello V de Fiesta Cóctel Rockabilly Clásico 2XL CL011020-6'
+slug: 'B07RT4WYP6-es Vestido Vintage para Muejeres Mangas Corta Cuello V de...'
+tags: vestido
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

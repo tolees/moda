@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41kMt6MsPPL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K2G9TMX-es Timberland Kenniston 6 Inch Lace Up  Botas para Mujer  Rojo  Dark Red Nubuck   38.5 EU'
+slug: 'B07K2G9TMX-es Timberland Kenniston 6 Inch Lace Up Botas para Mujer Rojo...'
+tags: timberland
 actualPrice: 40.72 EUR
 currency: EUR
 price: 40.72

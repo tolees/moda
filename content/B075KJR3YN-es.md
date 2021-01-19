@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41dAG8HwtML._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B075KJR3YN-es Astrapahl ed060217ap Vestido  Rojo  Scarlet Rot   32 EU para Mujer'
+slug: 'B075KJR3YN-es Astrapahl ed060217ap Vestido Rojo Scarlet Rot 32 EU para...'
+tags: vestido
 actualPrice: 11.47 EUR
 currency: EUR
 price: 11.47

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/315bOTsO-SL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TVTMHX1-es Women s Secret Home Set 2 HS Say Yes PJ Conjuntos de Pijama  Azul  Gama Azules 11   XX-Large  Tamaño del Fabricante: XXL  para Mujer'
+slug: 'B07TVTMHX1-es Women s Secret Home Set 2 HS Say Yes PJ Conjuntos de...'
+tags: pijama
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

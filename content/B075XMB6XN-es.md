@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41Xio8pExjL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B075XMB6XN-es Gaatpot Zapatos Invierno Botas Forradas de Nieve Zapatillas Sneaker Botines Planas para Hombres Mujer Negro EU 35.5 = CN 36'
+slug: 'B075XMB6XN-es Gaatpot Zapatos Invierno Botas Forradas de Nieve...'
+tags: botines, zapatos
 actualPrice: 25.95 EUR
 currency: EUR
 price: 25.95

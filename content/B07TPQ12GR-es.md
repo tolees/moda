@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41iXdiYzcWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TPQ12GR-es Levi s Crewneck 1 Camiseta  Multicolor  2pk Slim Crew Riverside/Earth Red 0008   Medium  Pack de 2  para Hombre'
+slug: 'B07TPQ12GR-es Levi s Crewneck 1 Camiseta Multicolor 2pk Slim Crew...'
+tags: camiseta
 actualPrice: 17.5 EUR
 currency: EUR
 price: 17.5

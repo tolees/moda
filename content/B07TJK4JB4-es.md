@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ryslJHphL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TJK4JB4-es Clarks Un Bali Trek  Sandalias de Talón Abierto para Mujer  Gris  Stone Combi Stone Combi   41 EU'
+slug: 'B07TJK4JB4-es Clarks Un Bali Trek Sandalias de Talón Abierto para Mujer...'
+tags: sandalias
 actualPrice: 40.33 EUR
 currency: EUR
 price: 40.33

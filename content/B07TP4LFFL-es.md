@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41re5ryhjJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TP4LFFL-es Superdry Namid Pockets Bomber Chaqueta  Marrón  Bungee Cord Gs0   XL  Talla del Fabricante:16  para Mujer'
+slug: 'B07TP4LFFL-es Superdry Namid Pockets Bomber Chaqueta Marrón Bungee Cord...'
+tags: chaqueta
 actualPrice: 50.49 EUR
 currency: EUR
 price: 50.49

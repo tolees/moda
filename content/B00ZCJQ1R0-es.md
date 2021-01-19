@@ -6,7 +6,8 @@ image: 'None._SL200_'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ZCJQ1R0-es LEABAGS Philadelphia Monedero para Mujeres de auténtico Cuero Ternero en el Estilo Vintage - Marrón'
+slug: 'B00ZCJQ1R0-es LEABAGS Philadelphia Monedero para Mujeres de auténtico...'
+tags: monedero
 actualPrice: 44.98 EUR
 currency: EUR
 price: 44.98

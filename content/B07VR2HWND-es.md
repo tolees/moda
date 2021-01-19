@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/313SlcZ6ZVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VR2HWND-es Lee Malone Vaqueros  Washed Black OW  30W / 32L para Hombre'
+slug: 'B07VR2HWND-es Lee Malone Vaqueros Washed Black OW 30W / 32L para Hombre'
+tags: vaqueros
 actualPrice: 53.97 EUR
 currency: EUR
 price: 53.97

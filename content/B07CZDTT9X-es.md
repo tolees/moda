@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ugZgcgZtL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CZDTT9X-es Under Armour Armour Heatgear Short-Sleeve Camiseta  Niñas  Negro  Black/White 001   L'
+slug: 'B07CZDTT9X-es Under Armour Armour Heatgear Short-Sleeve Camiseta Niñas...'
+tags: camiseta
 actualPrice: 17.93 EUR
 currency: EUR
 price: 17.93

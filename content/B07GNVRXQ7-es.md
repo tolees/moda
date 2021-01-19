@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31G2Co2yQ5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GNVRXQ7-es The Indian Face Gafas de Sol Deportivas Free Spirit para Hombre y Mujer  Color Negro Lente Morada'
+slug: 'B07GNVRXQ7-es The Indian Face Gafas de Sol Deportivas Free Spirit para...'
+tags: gafas
 actualPrice: 27.2 EUR
 currency: EUR
 price: 27.2

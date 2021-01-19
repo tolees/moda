@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41VCr7AQ3xL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075WWV69S-es LSERVER Chaqueta de Otoño e Invierno para Niña Acolchada Abrigo Acolchado con Capucha Gruesa y Caliente  Gris  120'
+slug: 'B075WWV69S-es LSERVER Chaqueta de Otoño e Invierno para Niña Acolchada...'
+tags: abrigo, chaqueta
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

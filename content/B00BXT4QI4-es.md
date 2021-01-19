@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41Qsgr9jyqL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BXT4QI4-es Kempa Woven Pantalón Corto de Entrenamiento  Hombre  Blanco  L'
+slug: 'B00BXT4QI4-es Kempa Woven Pantalón Corto de Entrenamiento Hombre Blanco L'
+tags: pantalón
 actualPrice: 9.49 EUR
 currency: EUR
 price: 9.49

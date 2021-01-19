@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41GXVcPRQLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000MSX7E6-es Birkenstock Arizona  Zapatos con Hebilla Unisex Adulto  Marrón  Habana   40 EU  Estrecho '
+slug: 'B000MSX7E6-es Birkenstock Arizona Zapatos con Hebilla Unisex Adulto...'
+tags: zapatos
 actualPrice: 48.45 EUR
 currency: EUR
 price: 48.45

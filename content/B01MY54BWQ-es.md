@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51BfG0bVLdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MY54BWQ-es eonar Mujer Push-up Bikini Desmontable Acolchado Bra Ajustable Trajes de baño M M-Pink '
+slug: 'B01MY54BWQ-es eonar Mujer Push-up Bikini Desmontable Acolchado Bra...'
+tags: bikini
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

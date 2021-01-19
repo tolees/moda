@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ZGRyhR0pL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FPNNGJC-es Tommy Hilfiger Classic Bikini Braguitas  Rojo  Tango Red 611   Small para Mujer'
+slug: 'B07FPNNGJC-es Tommy Hilfiger Classic Bikini Braguitas Rojo Tango Red 611...'
+tags: bikini
 actualPrice: 15.96 EUR
 currency: EUR
 price: 15.96

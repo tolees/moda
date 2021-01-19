@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31sU802dkPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KRT925B-es Columbia Silver Ridge 2.0 Pantalón de Senderismo Nailon  Mujer  Beige  Fossil   Talla US: W6/R/  EU W38/R '
+slug: 'B07KRT925B-es Columbia Silver Ridge 2.0 Pantalón de Senderismo Nailon...'
+tags: pantalón
 actualPrice: 28.92 EUR
 currency: EUR
 price: 28.92

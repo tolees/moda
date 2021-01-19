@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41EVuKBZa4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081BHWCMF-es Columbia Challenger  Chaqueta cortavientos  Mujer  Blanco/Gris  White/Cirrus Grey   XS'
+slug: 'B081BHWCMF-es Columbia Challenger Chaqueta cortavientos Mujer...'
+tags: chaqueta
 actualPrice: 22.42 EUR
 currency: EUR
 price: 22.42

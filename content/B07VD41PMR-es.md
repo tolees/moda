@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/318rdNM2IjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VD41PMR-es Calvin Klein CK Essential Slim V Neck tee Camiseta  Azul  Night Sky Chw   Large para Hombre'
+slug: 'B07VD41PMR-es Calvin Klein CK Essential Slim V Neck tee Camiseta Azul...'
+tags: camiseta
 actualPrice: 20.95 EUR
 currency: EUR
 price: 20.95

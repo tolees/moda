@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31q8QkX-HiL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QVN5XT8-es Under Armour Vanish Seamless Nov 1 Camisa de Manga Larga  Hombre  Negro  XXL'
+slug: 'B07QVN5XT8-es Under Armour Vanish Seamless Nov 1 Camisa de Manga Larga...'
+tags: camisa
 actualPrice: 12.39 EUR
 currency: EUR
 price: 12.39

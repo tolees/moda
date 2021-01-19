@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51kvmFZO9IL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JHPXHH3-es Amazon Essentials - Camisa de lino a rayas  de manga corta y corte entallado para hombre  Aguamarina Cuadros  US L  EU L '
+slug: 'B07JHPXHH3-es Amazon Essentials - Camisa de lino a rayas de manga corta...'
+tags: camisa
 actualPrice: 5.06 EUR
 currency: EUR
 price: 5.06

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41RBvkTfLZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PCZNGGL-es Tommy Hilfiger Heritage Crew Neck Sweatshirt Sudadera  Negro  Masters Black 017   XX-Small para Mujer'
+slug: 'B07PCZNGGL-es Tommy Hilfiger Heritage Crew Neck Sweatshirt Sudadera...'
+tags: sudadera
 actualPrice: 51.23 EUR
 currency: EUR
 price: 51.23

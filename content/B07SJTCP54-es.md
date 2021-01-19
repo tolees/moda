@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41WU+YzSKQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SJTCP54-es Levi s Orig Hm Vneck Camiseta  Blanco  White 0000   XX-Large para Hombre'
+slug: 'B07SJTCP54-es Levi s Orig Hm Vneck Camiseta Blanco White 0000 XX-Large...'
+tags: camiseta
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41yhBh6YzNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MK1QJB6-es Napapijri Avio Chaqueta  Rojo  Red Scarlet R01   S para Hombre'
+slug: 'B07MK1QJB6-es Napapijri Avio Chaqueta Rojo Red Scarlet R01 S para Hombre'
+tags: chaqueta
 actualPrice: 103.72 EUR
 currency: EUR
 price: 103.72

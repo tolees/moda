@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41GkG1gPDWL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077NHDXW5-es Lee Luke Vaqueros  Fresh Roig  28W / 34L para Hombre'
+slug: 'B077NHDXW5-es Lee Luke Vaqueros Fresh Roig 28W / 34L para Hombre'
+tags: vaqueros
 actualPrice: 28.06 EUR
 currency: EUR
 price: 28.06

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41d829n7DXL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QFWJDKL-es MTNG Collection 58666  Botines para Mujer  Negro  Karma Negro C27784   40 EU'
+slug: 'B07QFWJDKL-es MTNG Collection 58666 Botines para Mujer Negro Karma Negro...'
+tags: botines
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

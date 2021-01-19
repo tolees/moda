@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41S2H8XZTDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KK3FZYV-es Columbia Peakfreak X2 Mid Outdry  Zapatos de Senderismo para Mujer  Azul  Lagoon  Blue Coral 457   36.5 EU'
+slug: 'B07KK3FZYV-es Columbia Peakfreak X2 Mid Outdry Zapatos de Senderismo...'
+tags: zapatos
 actualPrice: 39.18 EUR
 currency: EUR
 price: 39.18

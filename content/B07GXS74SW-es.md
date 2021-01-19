@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31MnRlYobeL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GXS74SW-es Timezone Tight Taviratz 7/8 Vaqueros Slim  Blanco  Dark Navy 0391   W25 para Mujer'
+slug: 'B07GXS74SW-es Timezone Tight Taviratz 7/8 Vaqueros Slim Blanco Dark Navy...'
+tags: vaqueros
 actualPrice: 18.17 EUR
 currency: EUR
 price: 18.17

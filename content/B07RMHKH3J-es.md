@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31JS5kds1hL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RMHKH3J-es SimpleLife Sport Bag  Gym Shoulder Bag  Travel Travel Sports Fitness Yoga Bag Dry Wet Bag con Bolsillo y Zapatos Unisex'
+slug: 'B07RMHKH3J-es SimpleLife Sport Bag Gym Shoulder Bag Travel Travel Sports...'
+tags: zapatos
 actualPrice: 16.81 EUR
 currency: EUR
 price: 16.81

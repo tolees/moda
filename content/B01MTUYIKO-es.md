@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ZTgbTWyXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MTUYIKO-es SELECTED HOMME Shhonevince Shirt LS STS Camisa  Blanco  White   X-Large  Talla del Fabricante: Large  para Hombre'
+slug: 'B01MTUYIKO-es SELECTED HOMME Shhonevince Shirt LS STS Camisa Blanco...'
+tags: camisa
 actualPrice: 27.0 EUR
 currency: EUR
 price: 27.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41AbAjRKcGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B013T6GFE6-es Pijama del increíble Hulk para niños desde 2 a 3 años hasta 7 a 8 años verde verde'
+slug: 'B013T6GFE6-es Pijama del increíble Hulk para niños desde 2 a 3 años...'
+tags: pijama
 actualPrice: 11.49 EUR
 currency: EUR
 price: 11.49

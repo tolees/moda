@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41lLHN5nHAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G2B2WWY-es MISS MOLY Mujer Camiseta de Tirantes con Cuello en V Camisas Blusas Encaje Negro Large'
+slug: 'B07G2B2WWY-es MISS MOLY Mujer Camiseta de Tirantes con Cuello en V...'
+tags: camiseta
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31mopF07C1L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L99LHVN-es Under Armour Rival Fleece Solid Pantalón  Mujer  Negro  Black/Onyx White 001   S'
+slug: 'B07L99LHVN-es Under Armour Rival Fleece Solid Pantalón Mujer Negro...'
+tags: pantalón
 actualPrice: 26.49 EUR
 currency: EUR
 price: 26.49

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zK+ATWrcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VF6FS7D-es Hackett Amr Racing Line Strs Camiseta  Blanco  White 800   XXX-Large para Hombre'
+slug: 'B07VF6FS7D-es Hackett Amr Racing Line Strs Camiseta Blanco White 800...'
+tags: camiseta
 actualPrice: 54.82 EUR
 currency: EUR
 price: 54.82

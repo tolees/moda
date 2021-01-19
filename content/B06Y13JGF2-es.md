@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41js63givYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06Y13JGF2-es Wrangler Arizona Straight Jeans Vaqueros  Bright Stroke  38W / 34L para Hombre'
+slug: 'B06Y13JGF2-es Wrangler Arizona Straight Jeans Vaqueros Bright Stroke 38W...'
+tags: vaqueros
 actualPrice: 55.23 EUR
 currency: EUR
 price: 55.23

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41VsSgUu5HL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MTGFKQQ-es GANT The Reg BD Camisa  Azul  Lt Indigo 999   XX-Large para Hombre'
+slug: 'B07MTGFKQQ-es GANT The Reg BD Camisa Azul Lt Indigo 999 XX-Large para...'
+tags: camisa
 actualPrice: 55.95 EUR
 currency: EUR
 price: 55.95

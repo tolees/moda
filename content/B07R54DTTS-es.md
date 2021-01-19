@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/410ehxrcdwL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R54DTTS-es 【La última Versión Original 2019】Pantalones para Adelgazar  Mallas Deportivas Mujer  Pantalón de Sudoración Adelgazantes  Leggins Anticeluliticos Fitness  Mallas Termicas de Neopreno para Deporte'
+slug: 'B07R54DTTS-es 【La última Versión Original 2019】Pantalones para Adelgazar...'
+tags: leggins, pantalón
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

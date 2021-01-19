@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zdDtPnLvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0797GD9RW-es Marca Amazon - Iris & Lilly Sujetador sin Aros con Relleno Mujer  Purple  Dusty Mauve   100E  Label: 38DD'
+slug: 'B0797GD9RW-es Marca Amazon - Iris & Lilly Sujetador sin Aros con Relleno...'
+tags: iris, &, lilly
 actualPrice: 5.92 EUR
 currency: EUR
 price: 5.92

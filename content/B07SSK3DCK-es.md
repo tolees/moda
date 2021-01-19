@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41u6vrvb0aL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SSK3DCK-es Geox D Sukie B  Zapatillas para Mujer  Beige  Dk Skin C8191   38 EU'
+slug: 'B07SSK3DCK-es Geox D Sukie B Zapatillas para Mujer Beige Dk Skin C8191...'
+tags: geox
 actualPrice: 49.95 EUR
 currency: EUR
 price: 49.95

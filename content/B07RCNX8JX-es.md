@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31IJzlW5jQL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RCNX8JX-es Columbia Tolt Track Chaqueta Interchange  Hombre  Azul  Collegiate Navy   XL'
+slug: 'B07RCNX8JX-es Columbia Tolt Track Chaqueta Interchange Hombre Azul...'
+tags: chaqueta
 actualPrice: 120.89 EUR
 currency: EUR
 price: 120.89

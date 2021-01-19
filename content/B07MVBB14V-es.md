@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51SotkZYb5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MVBB14V-es Chanclas Flip Flop Playa y Piscina para Hombre  41 EU  Paradise '
+slug: 'B07MVBB14V-es Chanclas Flip Flop Playa y Piscina para Hombre 41 EU Paradise'
+tags: chanclas
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

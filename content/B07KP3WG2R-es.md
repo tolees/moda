@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41W4S9a1G4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KP3WG2R-es adidas Freelift T Camiseta  Hombre  Negro  Black   S'
+slug: 'B07KP3WG2R-es adidas Freelift T Camiseta Hombre Negro Black S'
+tags: camiseta
 actualPrice: 14.07 EUR
 currency: EUR
 price: 14.07

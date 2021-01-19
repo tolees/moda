@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21hJBz8nKCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VLJCLS3-es Calvin Klein 2pk Tees Top de Pijama  Blanco  1white/1unique 0qy   14-15 años  Talla del Fabricante: 14-16  para Niñas'
+slug: 'B07VLJCLS3-es Calvin Klein 2pk Tees Top de Pijama Blanco 1white/1unique...'
+tags: pijama
 actualPrice: 9.84 EUR
 currency: EUR
 price: 9.84

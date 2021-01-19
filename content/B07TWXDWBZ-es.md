@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41pdaDpuniL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TWXDWBZ-es Women s Secret Bloom Feminine BF Blossom PJ FR Conjuntos de Pijama  Verde  Verde Oscuro 20   X-Small  Tamaño del Fabricante: XS  para Mujer'
+slug: 'B07TWXDWBZ-es Women s Secret Bloom Feminine BF Blossom PJ FR Conjuntos...'
+tags: pijama
 actualPrice: 13.24 EUR
 currency: EUR
 price: 13.24

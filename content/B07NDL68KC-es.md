@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41TPhq338fL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NDL68KC-es G-STAR RAW Whistler Slim Down Hooded Long Abrigo  Negro  Dk Black 6484   34  Talla del Fabricante: XX-Small  para Mujer'
+slug: 'B07NDL68KC-es G-STAR RAW Whistler Slim Down Hooded Long Abrigo Negro Dk...'
+tags: abrigo
 actualPrice: 109.95 EUR
 currency: EUR
 price: 109.95

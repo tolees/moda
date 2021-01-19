@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/314RMCkRo1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFZY5LM-es Geox D ANNYTAH D  Bailarinas para Mujer  Azul  Navy C4002   42 EU'
+slug: 'B07LFZY5LM-es Geox D ANNYTAH D Bailarinas para Mujer Azul Navy C4002 42 EU'
+tags: geox
 actualPrice: 40.66 EUR
 currency: EUR
 price: 40.66

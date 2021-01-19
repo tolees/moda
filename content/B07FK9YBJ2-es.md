@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413FogFJ6iL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FK9YBJ2-es Columbia Alpine Action Oh Chaqueta de Esquí  Rosa  Cactus Pink   Talla XL'
+slug: 'B07FK9YBJ2-es Columbia Alpine Action Oh Chaqueta de Esquí Rosa Cactus...'
+tags: chaqueta
 actualPrice: 86.52 EUR
 currency: EUR
 price: 86.52

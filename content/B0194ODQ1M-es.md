@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/518K6gRMYpL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0194ODQ1M-es P.KU.VDSL® Mochilas tipo casual / Mochila Vintage de Lona y Cuero / Bolso Casual para Viajes / Bolsa de Escuela / Unisex mochila de a diario / Portátil Bolsa - adecuada para 15  cuaderno  Gris Oscuro '
+slug: 'B0194ODQ1M-es P.KU.VDSL® Mochilas tipo casual / Mochila Vintage de Lona...'
+tags: bolso
 actualPrice: 43.08 EUR
 currency: EUR
 price: 43.08

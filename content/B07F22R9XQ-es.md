@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41T5d6OanUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F22R9XQ-es Timberland Malibu Waves  Sandalias para Mujer  Verde  Olive Nubuck   39 EU'
+slug: 'B07F22R9XQ-es Timberland Malibu Waves Sandalias para Mujer Verde Olive...'
+tags: sandalias, timberland
 actualPrice: 35.55 EUR
 currency: EUR
 price: 35.55

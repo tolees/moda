@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41IpL7gbPOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RK411LC-es JACK & JONES Jcotake Sweat Zip Hood Sudadera  Negro  Black Black   X-Large para Hombre'
+slug: 'B07RK411LC-es JACK & JONES Jcotake Sweat Zip Hood Sudadera Negro Black...'
+tags: sudadera
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

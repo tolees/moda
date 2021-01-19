@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31D8qYWWaKL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MK3F57B-es GANT The Broadcloth Reg BD Camisa  Negro  Black 5   Small para Hombre'
+slug: 'B07MK3F57B-es GANT The Broadcloth Reg BD Camisa Negro Black 5 Small para...'
+tags: camisa
 actualPrice: 56.65 EUR
 currency: EUR
 price: 56.65

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/411t4AEnEkL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HEXEMJ0-es Crocs Crocband Clog Kids  Zuecos Unisex Niños  Azul  Navy/Red   27/28 EU'
+slug: 'B01HEXEMJ0-es Crocs Crocband Clog Kids Zuecos Unisex Niños Azul Navy/Red...'
+tags: zuecos
 actualPrice: 25.6 EUR
 currency: EUR
 price: 25.6

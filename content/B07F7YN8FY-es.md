@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41NIzlh8DhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F7YN8FY-es Only Onlpaola HW SK Dnm Jeans Azgz878 Noos Vaqueros Skinny  Azul  Dark Blue Denim   W33/L30  Talla del Fabricante: X-Large  para Mujer'
+slug: 'B07F7YN8FY-es Only Onlpaola HW SK Dnm Jeans Azgz878 Noos Vaqueros Skinny...'
+tags: vaqueros
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

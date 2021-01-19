@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/515yBkOquEL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MNZMTGF-es Zapatillas Unisex Niños Zapatos de Baloncesto Casual Zapatos Correr Sneakers para Hombre  3 Azul  43 EU'
+slug: 'B07MNZMTGF-es Zapatillas Unisex Niños Zapatos de Baloncesto Casual...'
+tags: zapatos
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

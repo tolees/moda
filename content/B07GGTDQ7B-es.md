@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412eW9MqeEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GGTDQ7B-es vifuur Hombres Casa Zapatillas High Density Memory Foam Caliente de Lana Indoor Outdoor como Peluche Forro Suela de Goma Anti Skid Slip On Guantes  Color  Talla 40/41 EU'
+slug: 'B07GGTDQ7B-es vifuur Hombres Casa Zapatillas High Density Memory Foam...'
+tags: guantes
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

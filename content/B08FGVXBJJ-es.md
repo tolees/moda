@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31m-e3pUhKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08FGVXBJJ-es Sibinulo Camisón de Maternidad Pijama Lactancia Vestido Polvo Rosa M'
+slug: 'B08FGVXBJJ-es Sibinulo Camisón de Maternidad Pijama Lactancia Vestido...'
+tags: pijama, vestido
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

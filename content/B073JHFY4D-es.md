@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/417PHWtpJbL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B073JHFY4D-es find. D7832 vestido fiesta mujer  Rojo  Rot   36  Talla del Fabricante: X-Small '
+slug: 'B073JHFY4D-es find. D7832 vestido fiesta mujer Rojo Rot 36 Talla del...'
+tags: vestido
 actualPrice: 11.4 EUR
 currency: EUR
 price: 11.4

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Ap8-0NwaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M6ZSD69-es COZ7W|#Cole Haan Zerogrand Wingtip  Zapatos de Cordones Oxford para Hombre   Burnished Pavement/Black Burnished Pavement/Black   41 EU'
+slug: 'B07M6ZSD69-es COZ7W|#Cole Haan Zerogrand Wingtip Zapatos de Cordones...'
+tags: zapatos
 actualPrice: 25.81 EUR
 currency: EUR
 price: 25.81

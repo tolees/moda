@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31rAOr89mmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0713MF6SQ-es Panama Jack Salton Basics  Sandalias con Punta Abierta para Hombre  Marrón  Marron C1   40 EU'
+slug: 'B0713MF6SQ-es Panama Jack Salton Basics Sandalias con Punta Abierta para...'
+tags: sandalias
 actualPrice: 65.21 EUR
 currency: EUR
 price: 65.21

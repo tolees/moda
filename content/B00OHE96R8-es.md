@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31f0iR0qjHL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00OHE96R8-es Kappa Lucera Camiseta  Hombre  Amarillo  Yellow   L'
+slug: 'B00OHE96R8-es Kappa Lucera Camiseta Hombre Amarillo Yellow L'
+tags: camiseta
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

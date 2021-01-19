@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31cIBgR93sL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F2S3VMG-es Helly Hansen HP Racing Midlayer Lifaloft Cuello Forro Polar Marina Deportes Navegación Chaqueta Impermeable  Mujer  White  XS'
+slug: 'B07F2S3VMG-es Helly Hansen HP Racing Midlayer Lifaloft Cuello Forro...'
+tags: chaqueta
 actualPrice: 38.84 EUR
 currency: EUR
 price: 38.84

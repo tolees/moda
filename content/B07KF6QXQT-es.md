@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31cNgC6TZCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KF6QXQT-es Levi s Plus Size 311 Pl Shaping Skinny Vaqueros  Light A Fuse Plus  18 M para Mujer'
+slug: 'B07KF6QXQT-es Levi s Plus Size 311 Pl Shaping Skinny Vaqueros Light A...'
+tags: vaqueros
 actualPrice: 35.75 EUR
 currency: EUR
 price: 35.75

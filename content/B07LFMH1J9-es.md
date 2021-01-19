@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41vWfhFH7xL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFMH1J9-es Levi s HR Decon Iconic BF Skirt Falda  Blanco  Pearly White 0010   Talla única  Talla del Fabricante: 27  para Mujer'
+slug: 'B07LFMH1J9-es Levi s HR Decon Iconic BF Skirt Falda Blanco Pearly White...'
+tags: falda
 actualPrice: 32.5 EUR
 currency: EUR
 price: 32.5

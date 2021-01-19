@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ImD1p3OjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VWLB7M4-es Tommy Hilfiger TJM Circle Logo tee Camiseta Deporte  Blanco  White Ybr   Large para Hombre'
+slug: 'B07VWLB7M4-es Tommy Hilfiger TJM Circle Logo tee Camiseta Deporte Blanco...'
+tags: camiseta
 actualPrice: 13.41 EUR
 currency: EUR
 price: 13.41

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41WiaL95m9L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NDNRG1T-es G-STAR RAW Graphic 22 Optic Slim Round Neck Camiseta  Naranja  Dusty Royal Orange A489   Medium para Mujer'
+slug: 'B07NDNRG1T-es G-STAR RAW Graphic 22 Optic Slim Round Neck Camiseta...'
+tags: camiseta
 actualPrice: 17.95 EUR
 currency: EUR
 price: 17.95

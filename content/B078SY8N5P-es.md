@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/417RtEa8IxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078SY8N5P-es Timberland Bayham Canvas Mocasines  Mocasines Hombre  Azul  Black Iris Canvas 019   40 EU'
+slug: 'B078SY8N5P-es Timberland Bayham Canvas Mocasines Mocasines Hombre Azul...'
+tags: timberland
 actualPrice: 28.77 EUR
 currency: EUR
 price: 28.77

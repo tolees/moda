@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41oIHnI9mRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VNL8WT3-es Only Onlcarol S/s Glitter V-Neck Top Jrs Camiseta sin Mangas  Negro  Black Black   40  Talla del Fabricante: Medium  para Mujer'
+slug: 'B07VNL8WT3-es Only Onlcarol S/s Glitter V-Neck Top Jrs Camiseta sin...'
+tags: camiseta
 actualPrice: 7.35 EUR
 currency: EUR
 price: 7.35

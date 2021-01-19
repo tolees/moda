@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Rc9YUC2RL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LBP3DYG-es Helly Hansen LIFA Merino 1/2 Zip Thermal Baselayer Camiseta Deportiva Manga Larga  Hombre  North Sea Blue  L'
+slug: 'B07LBP3DYG-es Helly Hansen LIFA Merino 1/2 Zip Thermal Baselayer...'
+tags: camiseta
 actualPrice: 66.67 EUR
 currency: EUR
 price: 66.67

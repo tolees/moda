@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41HtH6r+V3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KPQ5RGY-es Gant O2. Striped Flared Dress  Vestido para Mujer  Azul  Persian Blue 423  Medium'
+slug: 'B07KPQ5RGY-es Gant O2. Striped Flared Dress Vestido para Mujer Azul...'
+tags: vestido
 actualPrice: 58.21 EUR
 currency: EUR
 price: 58.21

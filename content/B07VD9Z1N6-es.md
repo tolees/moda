@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41IkDt1NdqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VD9Z1N6-es JACK & JONES Jorseth Jacket Chaqueta  Rojo  Brick Red Detail: Blocking   Small para Hombre'
+slug: 'B07VD9Z1N6-es JACK & JONES Jorseth Jacket Chaqueta Rojo Brick Red...'
+tags: chaqueta
 actualPrice: 25.75 EUR
 currency: EUR
 price: 25.75

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41h9vAU5hxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B015W9LBH4-es Levi s kids Short Sleeves Batwin T-Shirt  Camiseta para Niños  Blanco  White 01   16 años'
+slug: 'B015W9LBH4-es Levi s kids Short Sleeves Batwin T-Shirt Camiseta para...'
+tags: camiseta
 actualPrice: 16.16 EUR
 currency: EUR
 price: 16.16

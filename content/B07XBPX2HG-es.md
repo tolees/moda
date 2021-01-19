@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Yezfjt9qL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XBPX2HG-es LIGE Relojes Hombre Acero Inoxidable Ocio Simple Cuarzo Reloj Negocios Moda Negro Reloj de Pulsera'
+slug: 'B07XBPX2HG-es LIGE Relojes Hombre Acero Inoxidable Ocio Simple Cuarzo...'
+tags: moda
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

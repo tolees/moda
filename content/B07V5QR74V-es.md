@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31P9w4vAN3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V5QR74V-es Tommy Hilfiger Tommy Sequins Flat Sandal  Sandalias Punta Cerrada para Mujer  Blanco  Ivory Ybi   40 EU'
+slug: 'B07V5QR74V-es Tommy Hilfiger Tommy Sequins Flat Sandal Sandalias Punta...'
+tags: sandalias
 actualPrice: 28.0 EUR
 currency: EUR
 price: 28.0

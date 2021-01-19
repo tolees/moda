@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31P1fXRRlML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077XNJNLN-es Under Armour Rival Fleece Logo Sudadera con Capucha para Hombre  Ropa Deportiva Ancha  Sudadera de Hombre Resistente y elástica  Steel Light Heather/Black  035   LG'
+slug: 'B077XNJNLN-es Under Armour Rival Fleece Logo Sudadera con Capucha para...'
+tags: sudadera
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

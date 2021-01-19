@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41RD-t9UYpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074N69XMF-es Clarks Cotrell Edge  Zapatos de Cordones Derby para Hombre  Marrón  Brown Oily   44 EU'
+slug: 'B074N69XMF-es Clarks Cotrell Edge Zapatos de Cordones Derby para Hombre...'
+tags: zapatos
 actualPrice: 45.8 EUR
 currency: EUR
 price: 45.8

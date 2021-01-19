@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41KZgOOquUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MMLJ53K-es Napapijri BIBU FZH Sudadera  Verde  Green Forest 2 Ge3   M para Hombre'
+slug: 'B07MMLJ53K-es Napapijri BIBU FZH Sudadera Verde Green Forest 2 Ge3 M...'
+tags: sudadera
 actualPrice: 41.89 EUR
 currency: EUR
 price: 41.89

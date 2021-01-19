@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31P6etK+AsL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R6GCWRG-es HonourSport Falda Capri para Mujer Deportes faldones Leggings Tenis Golf'
+slug: 'B07R6GCWRG-es HonourSport Falda Capri para Mujer Deportes faldones...'
+tags: falda
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

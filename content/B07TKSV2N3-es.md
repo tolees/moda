@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41vsAMUapiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TKSV2N3-es Clarks Tri Alexia  Sandalias de Talón Abierto para Mujer  Beige  Grey Snake Grey Snake   41 EU'
+slug: 'B07TKSV2N3-es Clarks Tri Alexia Sandalias de Talón Abierto para Mujer...'
+tags: sandalias
 actualPrice: 43.07 EUR
 currency: EUR
 price: 43.07

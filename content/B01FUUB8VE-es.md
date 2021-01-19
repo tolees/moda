@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41L%2BoCmOzhL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B01FUUB8VE-es G-STAR RAW Lynn Mid Waist Skinny  Vaqueros  Cobler Smash 6009  24W / 32L para Mujer'
+slug: 'B01FUUB8VE-es G-STAR RAW Lynn Mid Waist Skinny Vaqueros Cobler Smash...'
+tags: vaqueros
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

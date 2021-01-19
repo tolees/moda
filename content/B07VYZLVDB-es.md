@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/411tyaf57NL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VYZLVDB-es Pepe Jeans Marke Camiseta  Azul  Old Navy 584   XX-Large para Hombre'
+slug: 'B07VYZLVDB-es Pepe Jeans Marke Camiseta Azul Old Navy 584 XX-Large para...'
+tags: camiseta
 actualPrice: 17.49 EUR
 currency: EUR
 price: 17.49

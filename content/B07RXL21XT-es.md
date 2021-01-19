@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41MzxyyC18L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RXL21XT-es Levi s 512 Slim Taper Fit Vaqueros Tapered  Azul  Cedar Light Mid Overt ADV Tnl 0492   32W / 34L para Hombre'
+slug: 'B07RXL21XT-es Levi s 512 Slim Taper Fit Vaqueros Tapered Azul Cedar...'
+tags: vaqueros
 actualPrice: 80.5 EUR
 currency: EUR
 price: 80.5

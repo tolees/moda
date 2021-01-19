@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41VTQ5u9SXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FQMM6WM-es Clarks Un Trail Form  Zapatos de Cordones Derby  Marrón  Tan Leather-   46 EU'
+slug: 'B07FQMM6WM-es Clarks Un Trail Form Zapatos de Cordones Derby Marrón Tan...'
+tags: zapatos
 actualPrice: 59.9 EUR
 currency: EUR
 price: 59.9

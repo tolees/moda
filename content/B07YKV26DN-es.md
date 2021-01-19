@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21sISmRIP6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YKV26DN-es Esprit 999ee1n801 Camiseta  Blanco  White 100   Medium  Pack de 2  para Mujer'
+slug: 'B07YKV26DN-es Esprit 999ee1n801 Camiseta Blanco White 100 Medium Pack de...'
+tags: camiseta
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

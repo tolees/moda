@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41bcTM74VLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TSFD7CR-es Wrangler Vaqueros slim  Azul  Light Charm 17u   W31/L34  Talla del fabricante: 31/34  para Mujer'
+slug: 'B07TSFD7CR-es Wrangler Vaqueros slim Azul Light Charm 17u W31/L34 Talla...'
+tags: vaqueros
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

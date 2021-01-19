@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/313x9W6t6iL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NZ2D34R-es Superdry Classic Twill L/s Shirt Camisa  Azul  Nórdica Blue Chambray W6h   3XL para Hombre'
+slug: 'B07NZ2D34R-es Superdry Classic Twill L/s Shirt Camisa Azul Nórdica Blue...'
+tags: camisa
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

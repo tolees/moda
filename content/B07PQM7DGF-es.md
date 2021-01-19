@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41KkUNhrxmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PQM7DGF-es CATWALK COLLECTION - Bolso de Mujer Para Trabajo/Oficina - Portátil/iPad/Laptop - Cuero Vintage - ADELE - Rojo'
+slug: 'B07PQM7DGF-es CATWALK COLLECTION - Bolso de Mujer Para Trabajo/Oficina -...'
+tags: bolso
 actualPrice: 89.95 EUR
 currency: EUR
 price: 89.95

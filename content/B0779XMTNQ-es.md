@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41AWKMSJWGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0779XMTNQ-es Marca Amazon - find. Camiseta Transpirable Deporte Hombre  Gris  Sharkskin   M  Label: M'
+slug: 'B0779XMTNQ-es Marca Amazon - find. Camiseta Transpirable Deporte Hombre...'
+tags: camiseta, -, find.
 actualPrice: 5.27 EUR
 currency: EUR
 price: 5.27

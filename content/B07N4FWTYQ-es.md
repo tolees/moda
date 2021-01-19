@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41v6vGxUVNL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N4FWTYQ-es edc by Esprit 999cc1k803 Camiseta  Azul  Navy 2 401   X-Large para Mujer'
+slug: 'B07N4FWTYQ-es edc by Esprit 999cc1k803 Camiseta Azul Navy 2 401 X-Large...'
+tags: camiseta
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

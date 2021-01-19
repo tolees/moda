@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/513SBkyNFGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z9P79CR-es O NEILL LM 3Ple T-Shirt Camiseta Manga Corta  Hombre  Gris  Silver Melee   XL'
+slug: 'B07Z9P79CR-es O NEILL LM 3Ple T-Shirt Camiseta Manga Corta Hombre Gris...'
+tags: camiseta
 actualPrice: 7.55 EUR
 currency: EUR
 price: 7.55

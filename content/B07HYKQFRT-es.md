@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ZPy3e-SyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HYKQFRT-es HAWKERS · ONE LS · Blue · Chrome  · Gafas de sol para hombre y mujer'
+slug: 'B07HYKQFRT-es HAWKERS · ONE LS · Blue · Chrome · Gafas de sol para...'
+tags: gafas
 actualPrice: 16.7 EUR
 currency: EUR
 price: 16.7

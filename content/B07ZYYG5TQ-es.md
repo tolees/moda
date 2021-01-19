@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51epm3Af6+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZYYG5TQ-es Apanphy® Bolsa de Aseo Neceseres de Viaje Travel Bolso cosmético Bolso de Maquillaje Almacenamiento portátil Estuche de Maquillaje con asa Makeup Toiletry Bag para Hombres Mujeres -Azul Profundo'
+slug: 'B07ZYYG5TQ-es Apanphy® Bolsa de Aseo Neceseres de Viaje Travel Bolso...'
+tags: bolso
 actualPrice: 11.58 EUR
 currency: EUR
 price: 11.58

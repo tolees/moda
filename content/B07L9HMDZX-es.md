@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31xbNUWCEnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L9HMDZX-es Under Armour Challenger III Jacket  chaqueta de hombre para hacer deporte  ropa de deporte de hombre inspirada en las chaquetas bomber hombre  Negro  Black/White  001    XL'
+slug: 'B07L9HMDZX-es Under Armour Challenger III Jacket chaqueta de hombre para...'
+tags: chaqueta
 actualPrice: 51.95 EUR
 currency: EUR
 price: 51.95

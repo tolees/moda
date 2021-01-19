@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31I7MtkAP0L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B015OK4K1U-es PumaPurecat - Zapatos de playa y piscina  adultos unisex  Negro - Schwarz  black-white 01   35 5 EU'
+slug: 'B015OK4K1U-es PumaPurecat - Zapatos de playa y piscina adultos unisex...'
+tags: zapatos
 actualPrice: 11.49 EUR
 currency: EUR
 price: 11.49

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31TsqUvQQeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075V72HMY-es Marca Amazon - AURIQUE Leggings Deporte Petite Mujer  Azul  Navy   42  Label:L'
+slug: 'B075V72HMY-es Marca Amazon - AURIQUE Leggings Deporte Petite Mujer Azul...'
+tags: aurique
 actualPrice: 9.64 EUR
 currency: EUR
 price: 9.64

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ytYNVgJcL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079ST83BB-es Desigual TS_Logan Camiseta   Cemento 2012   Small para Mujer'
+slug: 'B079ST83BB-es Desigual TS_Logan Camiseta Cemento 2012 Small para Mujer'
+tags: camiseta
 actualPrice: 17.66 EUR
 currency: EUR
 price: 17.66

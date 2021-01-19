@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31X+Fuk8zFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFZK749-es Geox U Timothy B  Zapatos de Cordones Derby para Hombre  Negro  Black C9999   43 EU'
+slug: 'B07LFZK749-es Geox U Timothy B Zapatos de Cordones Derby para Hombre...'
+tags: geox, zapatos
 actualPrice: 92.0 EUR
 currency: EUR
 price: 92.0

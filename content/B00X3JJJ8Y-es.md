@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31uczkB98yL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00X3JJJ8Y-es G-Star 60885  Vaqueros para Mujer  Azul  Medium Aged 6131   W24/L32'
+slug: 'B00X3JJJ8Y-es G-Star 60885 Vaqueros para Mujer Azul Medium Aged 6131...'
+tags: vaqueros
 actualPrice: 60.0 EUR
 currency: EUR
 price: 60.0

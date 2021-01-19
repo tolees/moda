@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51gTz7XFVrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YRD2WMT-es Marca Amazon - find. Vestido Largo Camisero Mujer  Multicolor  Spot Print   36  Label: XS'
+slug: 'B07YRD2WMT-es Marca Amazon - find. Vestido Largo Camisero Mujer...'
+tags: vestido, -, find.
 actualPrice: 9.37 EUR
 currency: EUR
 price: 9.37

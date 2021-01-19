@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/418R-6lMu9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07STLYLFH-es Geox D Rubidia A  Zapatillas para Mujer  Dorado  Gold/White C0583   36 EU'
+slug: 'B07STLYLFH-es Geox D Rubidia A Zapatillas para Mujer Dorado Gold/White...'
+tags: geox
 actualPrice: 43.63 EUR
 currency: EUR
 price: 43.63

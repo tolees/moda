@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41fiPjCmI1L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S19MSGN-es Esprit 089ee2g001 Chaqueta  Marrón  Toffee 225   XXX-Large para Hombre'
+slug: 'B07S19MSGN-es Esprit 089ee2g001 Chaqueta Marrón Toffee 225 XXX-Large...'
+tags: chaqueta
 actualPrice: 15.28 EUR
 currency: EUR
 price: 15.28

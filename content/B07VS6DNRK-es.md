@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41r-GYzUZmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VS6DNRK-es Tommy Hilfiger Lacie Shirt LS W2 Camisa  Naranja  Bitonal STP Bright Vermillion 0do   42 para Mujer'
+slug: 'B07VS6DNRK-es Tommy Hilfiger Lacie Shirt LS W2 Camisa Naranja Bitonal...'
+tags: camisa
 actualPrice: 20.46 EUR
 currency: EUR
 price: 20.46

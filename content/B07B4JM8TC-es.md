@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41UpMUkvxuL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B4JM8TC-es G-STAR RAW 3301 Deconstructed Mid Waist Skinny Vaqueros  Medium Aged 9874-071  25W / 30L para Mujer'
+slug: 'B07B4JM8TC-es G-STAR RAW 3301 Deconstructed Mid Waist Skinny Vaqueros...'
+tags: vaqueros
 actualPrice: 21.96 EUR
 currency: EUR
 price: 21.96

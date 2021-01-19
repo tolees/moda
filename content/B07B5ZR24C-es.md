@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41FWQXU6MZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B5ZR24C-es JACK & JONES Jjeholmen Sweat Zip Hood Noos Sudadera  Azul  Navy Blazer   XX-Large para Hombre'
+slug: 'B07B5ZR24C-es JACK & JONES Jjeholmen Sweat Zip Hood Noos Sudadera Azul...'
+tags: sudadera
 actualPrice: 22.69 EUR
 currency: EUR
 price: 22.69

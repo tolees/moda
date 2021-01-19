@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41fCaAlpzAL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JXKBDK8-es XTI 49052  Sandalias con Plataforma para Mujer  Marrón Camel  38 EU'
+slug: 'B07JXKBDK8-es XTI 49052 Sandalias con Plataforma para Mujer Marrón Camel...'
+tags: sandalias
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

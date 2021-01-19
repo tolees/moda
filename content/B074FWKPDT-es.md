@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41aPXfKQqmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074FWKPDT-es Marca Amazon - find. Camiseta con Franjas para Hombre  Gris  Slate Grey   S  Label: S'
+slug: 'B074FWKPDT-es Marca Amazon - find. Camiseta con Franjas para Hombre Gris...'
+tags: camiseta, -, find.
 actualPrice: 5.27 EUR
 currency: EUR
 price: 5.27

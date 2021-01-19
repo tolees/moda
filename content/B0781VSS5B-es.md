@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41TFEp4fjnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0781VSS5B-es PUMA Liga Training Shorts W Pantalón  Mujer  Negro  Black/White   L'
+slug: 'B0781VSS5B-es PUMA Liga Training Shorts W Pantalón Mujer Negro...'
+tags: pantalón
 actualPrice: 17.95 EUR
 currency: EUR
 price: 17.95

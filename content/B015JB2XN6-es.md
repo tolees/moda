@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31oGWKhiUlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B015JB2XN6-es Uvex LGL 29 Gafas de Ciclismo  Unisex Adulto  Negro/Amarillo  Talla Única'
+slug: 'B015JB2XN6-es Uvex LGL 29 Gafas de Ciclismo Unisex Adulto Negro/Amarillo...'
+tags: gafas
 actualPrice: 27.78 EUR
 currency: EUR
 price: 27.78

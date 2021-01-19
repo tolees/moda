@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31hsbq%2B9PjL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFRN381-es Geox D New ANNYA Mid B  Botines para Mujer  Marrón  Brown C0013   36 EU'
+slug: 'B07LFRN381-es Geox D New ANNYA Mid B Botines para Mujer Marrón Brown...'
+tags: botines, geox
 actualPrice: 87.5 EUR
 currency: EUR
 price: 87.5

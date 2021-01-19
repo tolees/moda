@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41eJHN29hyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086YSYB3D-es Sandalias Odetina Mary Jane de tacón grueso con correa de tobillo y correa de piel de serpiente  para mujer  color Blanco  talla 35.5 EU'
+slug: 'B086YSYB3D-es Sandalias Odetina Mary Jane de tacón grueso con correa de...'
+tags: sandalias
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

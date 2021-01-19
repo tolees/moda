@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31DCgmDHMvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N99DZJL-es Pepe Jeans Rhye Camiseta  Blanco  Optic White 802   Medium para Hombre'
+slug: 'B07N99DZJL-es Pepe Jeans Rhye Camiseta Blanco Optic White 802 Medium...'
+tags: camiseta
 actualPrice: 16.74 EUR
 currency: EUR
 price: 16.74

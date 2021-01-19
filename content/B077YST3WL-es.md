@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41d8Xo8PGOL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B077YST3WL-es HIKARO Chaqueta Bomber Hombre  Gris  Charcoal   54  Talla del fabricante: X-Large '
+slug: 'B077YST3WL-es HIKARO Chaqueta Bomber Hombre Gris Charcoal 54 Talla del...'
+tags: chaqueta
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

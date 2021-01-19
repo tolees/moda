@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41cGbs8peCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZPPV21-es Pepe Jeans Joe Chaleco   Sailor 580   Medium para Hombre'
+slug: 'B07MZPPV21-es Pepe Jeans Joe Chaleco Sailor 580 Medium para Hombre'
+tags: chaleco
 actualPrice: 46.75 EUR
 currency: EUR
 price: 46.75

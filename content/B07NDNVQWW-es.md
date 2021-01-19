@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+0RjY-UhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NDNVQWW-es G-STAR RAW Graphic 15 Core Round Neck Sudadera  Rojo  Port Red Htr 4611   XX-Small para Hombre'
+slug: 'B07NDNVQWW-es G-STAR RAW Graphic 15 Core Round Neck Sudadera Rojo Port...'
+tags: sudadera
 actualPrice: 13.73 EUR
 currency: EUR
 price: 13.73

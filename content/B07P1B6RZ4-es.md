@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31+anJlfCQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P1B6RZ4-es Superdry Classic Twill L/s Shirt Camisa  Azul  Nórdica Chrome Navy L6t   35  Talla del Fabricante: X-Small  para Hombre'
+slug: 'B07P1B6RZ4-es Superdry Classic Twill L/s Shirt Camisa Azul Nórdica...'
+tags: camisa
 actualPrice: 25.41 EUR
 currency: EUR
 price: 25.41

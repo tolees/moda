@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/417Ga7vfJyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FKCJFVZ-es NIKE W NP Tank All Over Mesh Camiseta sin Mangas  Mujer  Black/ White   M'
+slug: 'B07FKCJFVZ-es NIKE W NP Tank All Over Mesh Camiseta sin Mangas Mujer...'
+tags: camiseta
 actualPrice: 20.94 EUR
 currency: EUR
 price: 20.94

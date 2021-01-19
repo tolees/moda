@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/315dVsF63bL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TZ59FK7-es Women s Secret Cozy Animals Ca Flamingo PJ Conjuntos de Pijama  Gris  Gama Grises 44   Large  Tamaño del Fabricante: L  para Mujer'
+slug: 'B07TZ59FK7-es Women s Secret Cozy Animals Ca Flamingo PJ Conjuntos de...'
+tags: pijama
 actualPrice: 12.9 EUR
 currency: EUR
 price: 12.9

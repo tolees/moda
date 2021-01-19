@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41vWNp9q2dL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JGB8FMM-es Cross Jeans Anya Vaqueros Slim  Azul  Mid Blue 153   W26/L30  Talla del Fabricante: 26/30  para Mujer'
+slug: 'B07JGB8FMM-es Cross Jeans Anya Vaqueros Slim Azul Mid Blue 153 W26/L30...'
+tags: vaqueros
 actualPrice: 28.88 EUR
 currency: EUR
 price: 28.88

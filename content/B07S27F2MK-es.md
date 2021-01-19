@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31hU4jPFzTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S27F2MK-es BILLABONG All Day 10K Jacket Chaqueta Deportiva  Hombre  Negro  Black Heather 1278   One Size  Tamaño del Fabricante: XS '
+slug: 'B07S27F2MK-es BILLABONG All Day 10K Jacket Chaqueta Deportiva Hombre...'
+tags: chaqueta
 actualPrice: 28.72 EUR
 currency: EUR
 price: 28.72

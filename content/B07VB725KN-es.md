@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31+T8EaI7lL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VB725KN-es Esprit 099eo1g039 Abrigo  Beige  Dusty Nude 5 279   X-Large para Mujer'
+slug: 'B07VB725KN-es Esprit 099eo1g039 Abrigo Beige Dusty Nude 5 279 X-Large...'
+tags: abrigo
 actualPrice: 50.52 EUR
 currency: EUR
 price: 50.52

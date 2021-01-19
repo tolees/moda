@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41cdiYbZIyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00LV3ZNQG-es Helly Hansen HH QD Cargo Shorts 11 - Pantalón corto para hombre   Gris Ebony  28'
+slug: 'B00LV3ZNQG-es Helly Hansen HH QD Cargo Shorts 11 - Pantalón corto para...'
+tags: pantalón
 actualPrice: 23.61 EUR
 currency: EUR
 price: 23.61

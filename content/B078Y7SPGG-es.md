@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41358Rrtw5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078Y7SPGG-es The North Face Jacket Chaqueta Trevail  Hombre  Bomber Blue  M'
+slug: 'B078Y7SPGG-es The North Face Jacket Chaqueta Trevail Hombre Bomber Blue M'
+tags: chaqueta
 actualPrice: 115.0 EUR
 currency: EUR
 price: 115.0

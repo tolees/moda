@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31iar9VhrBL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KJWYN7R-es El Naturalista N5372 Pleasant  Sandalias con Correa de Tobillo para Mujer  Multicolor  Piedra Mixed Piedra Mixed   40 EU'
+slug: 'B07KJWYN7R-es El Naturalista N5372 Pleasant Sandalias con Correa de...'
+tags: sandalias
 actualPrice: 17.38 EUR
 currency: EUR
 price: 17.38

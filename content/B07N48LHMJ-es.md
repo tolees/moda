@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31397E0o8iL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N48LHMJ-es United Colors of Benetton Basico 3 Woman Abrigo   Negro 100   38  Talla del Fabricante: 42  para Mujer'
+slug: 'B07N48LHMJ-es United Colors of Benetton Basico 3 Woman Abrigo Negro 100...'
+tags: abrigo
 actualPrice: 24.95 EUR
 currency: EUR
 price: 24.95

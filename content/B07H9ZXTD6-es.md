@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31qOrgpbeRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H9ZXTD6-es VVA Gafas de sol Hombre Polarizadas Aviador Hombres Aviador Gafas de sol Polarizadas Hombre Unisex Protección UV400 por V101 Negro/Negro '
+slug: 'B07H9ZXTD6-es VVA Gafas de sol Hombre Polarizadas Aviador Hombres...'
+tags: gafas
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

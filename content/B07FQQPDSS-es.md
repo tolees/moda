@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/311xCHuMK7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FQQPDSS-es Clarks Atticus Lace  Zapatos de Cordones Derby para Hombre  Negro  Black-   44.5 EU'
+slug: 'B07FQQPDSS-es Clarks Atticus Lace Zapatos de Cordones Derby para Hombre...'
+tags: zapatos
 actualPrice: 46.7 EUR
 currency: EUR
 price: 46.7

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412j7SGULhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074W4HJ6X-es Wantdo Chaqueta Impermeable Contraviento Ligera para Hombres con Capucha Softshell Deportiva Negro Small'
+slug: 'B074W4HJ6X-es Wantdo Chaqueta Impermeable Contraviento Ligera para...'
+tags: chaqueta
 actualPrice: 9.98 EUR
 currency: EUR
 price: 9.98

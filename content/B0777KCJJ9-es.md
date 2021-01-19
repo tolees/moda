@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414R43IGROL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0777KCJJ9-es Tommy Hilfiger Original Triblend V Neck Camiseta  Negro  Tommy Black 078   X-Small para Hombre'
+slug: 'B0777KCJJ9-es Tommy Hilfiger Original Triblend V Neck Camiseta Negro...'
+tags: camiseta
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

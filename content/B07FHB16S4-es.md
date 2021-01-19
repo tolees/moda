@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31m86m1IPlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FHB16S4-es Timberland Los Angeles Slingback  Sandalias con Plataforma y Tiras para Mujer  Marrón  Light Beige Nubuck   38 EU'
+slug: 'B07FHB16S4-es Timberland Los Angeles Slingback Sandalias con Plataforma...'
+tags: sandalias, timberland
 actualPrice: 50.0 EUR
 currency: EUR
 price: 50.0

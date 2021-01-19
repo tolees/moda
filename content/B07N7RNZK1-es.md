@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/514p0nlTOvL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N7RNZK1-es Kipling - monedero de Sintético Mujer  color Multicolor  talla 21.5x13.5x4 cm  B x H x T '
+slug: 'B07N7RNZK1-es Kipling - monedero de Sintético Mujer color Multicolor...'
+tags: monedero
 actualPrice: 24.42 EUR
 currency: EUR
 price: 24.42

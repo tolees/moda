@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31eK1zYoNGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ZUY6OVU-es REEF Fanning  Sandalias Flip-Flop para Hombre  Negro  Black / Silver   39 EU  6 UK '
+slug: 'B00ZUY6OVU-es REEF Fanning Sandalias Flip-Flop para Hombre Negro Black /...'
+tags: sandalias
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

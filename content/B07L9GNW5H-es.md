@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412G3V0DgRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L9GNW5H-es Under Armour Rival Fleece Crew  Sudadera Hombre  Verde  SM'
+slug: 'B07L9GNW5H-es Under Armour Rival Fleece Crew Sudadera Hombre Verde SM'
+tags: sudadera
 actualPrice: 26.23 EUR
 currency: EUR
 price: 26.23

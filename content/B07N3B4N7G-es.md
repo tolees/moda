@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41DTTK0sUML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N3B4N7G-es Skechers Status 2.0 Pexton  Zapatos de Cordones Derby para Hombre  Gris  Taupe Canvas TPE '
+slug: 'B07N3B4N7G-es Skechers Status 2.0 Pexton Zapatos de Cordones Derby para...'
+tags: zapatos
 actualPrice: 51.58 EUR
 currency: EUR
 price: 51.58

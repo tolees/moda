@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41zw09qNdiL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00K5R9P6S-es Tommy Hilfiger 3p Lr Trunk  Bóxer Shorts para Hombre  Azul  Peacoat-Pt 409   Large   Pack de 3 '
+slug: 'B00K5R9P6S-es Tommy Hilfiger 3p Lr Trunk Bóxer Shorts para Hombre Azul...'
+tags: bóxer
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

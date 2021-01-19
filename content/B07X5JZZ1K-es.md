@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31g1-Bb6ZkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X5JZZ1K-es Gafas de Presbicia con Filtro Anti Luz Azul para Ordenador. Gafas Graduadas de Lectura para Hombre y Mujer. Tacto Goma y Cristales Anti-reflejantes. Indigo +1.5 – ARKEN SCREEN'
+slug: 'B07X5JZZ1K-es Gafas de Presbicia con Filtro Anti Luz Azul para...'
+tags: gafas
 actualPrice: 25.9 EUR
 currency: EUR
 price: 25.9

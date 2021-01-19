@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31kJFgXB5hL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N3YBKM7-es Desigual Dress Briana Vestido  Negro 2000  XL para Mujer'
+slug: 'B07N3YBKM7-es Desigual Dress Briana Vestido Negro 2000 XL para Mujer'
+tags: vestido
 actualPrice: 53.99 EUR
 currency: EUR
 price: 53.99

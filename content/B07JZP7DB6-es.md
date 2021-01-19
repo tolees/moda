@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41YKQZzUsiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JZP7DB6-es adidas Tiro19 PES Jkty Chaqueta de Deporte  Unisex niños  Power Red/White  1516'
+slug: 'B07JZP7DB6-es adidas Tiro19 PES Jkty Chaqueta de Deporte Unisex niños...'
+tags: chaqueta
 actualPrice: 21.9 EUR
 currency: EUR
 price: 21.9

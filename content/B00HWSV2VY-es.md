@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/418eSz46HmL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00HWSV2VY-es crocs Baya  Zuecos Unisex Adulto  Azul  Cerulean Blue   39/40 EU'
+slug: 'B00HWSV2VY-es crocs Baya Zuecos Unisex Adulto Azul Cerulean Blue 39/40 EU'
+tags: zuecos
 actualPrice: 27.95 EUR
 currency: EUR
 price: 27.95

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31PXF+AVntL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MUFG38Z-es Tommy Hilfiger Logo Camiseta de Cuello Redondo Perfecta para El Tiempo Libre  Azul  Navy Blazer   XL para Hombre'
+slug: 'B01MUFG38Z-es Tommy Hilfiger Logo Camiseta de Cuello Redondo Perfecta...'
+tags: camiseta
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

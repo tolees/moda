@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412z6HA9doL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NQTQDX3-es Springfield Frq Stripes Kodak Gg12 Jersey  Azul  Blue 11   X-Large  Tamaño del Fabricante: XL  para Hombre'
+slug: 'B07NQTQDX3-es Springfield Frq Stripes Kodak Gg12 Jersey Azul Blue 11...'
+tags: jersey
 actualPrice: 15.11 EUR
 currency: EUR
 price: 15.11

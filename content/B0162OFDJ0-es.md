@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41as20h2gfL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0162OFDJ0-es Columbia Midweight Stretch Half Zip Camiseta técnica con Media Cremallera  Poliéster  Negro  Talla M'
+slug: 'B0162OFDJ0-es Columbia Midweight Stretch Half Zip Camiseta técnica con...'
+tags: camiseta
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

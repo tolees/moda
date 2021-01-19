@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zvjD6BhDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01AC6PV7I-es Nike Park VI Camiseta de Manga Corta para hombre  Amarillo  L'
+slug: 'B01AC6PV7I-es Nike Park VI Camiseta de Manga Corta para hombre Amarillo L'
+tags: camiseta
 actualPrice: 17.25 EUR
 currency: EUR
 price: 17.25

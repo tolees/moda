@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31IZFssfrkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NQ55KDQ-es Marca Amazon - MERAKI Joggers Ajustados Hombre  Gris  Charcoal Melange   XL  Label: XL'
+slug: 'B07NQ55KDQ-es Marca Amazon - MERAKI Joggers Ajustados Hombre Gris...'
+tags: meraki
 actualPrice: 8.91 EUR
 currency: EUR
 price: 8.91

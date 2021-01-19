@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41gLnII0ITL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PMQ3K1J-es Wrangler ICONS Camisa Vaquera  Azul  2 Years 922   Medium para Hombre'
+slug: 'B07PMQ3K1J-es Wrangler ICONS Camisa Vaquera Azul 2 Years 922 Medium para...'
+tags: camisa
 actualPrice: 37.48 EUR
 currency: EUR
 price: 37.48

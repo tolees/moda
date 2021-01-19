@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51+BhsffxiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q2BFPYP-es Vicloon Barras Luminosas  Pulseras Luminosas con Variedad de Conectores  Kits para Crear Gafas  Pulseras triples  una Diadema  Bolas Luminosas  Mariposas  una Bola Luminosa Premium. 100pcs '
+slug: 'B07Q2BFPYP-es Vicloon Barras Luminosas Pulseras Luminosas con Variedad...'
+tags: gafas
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

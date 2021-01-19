@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31jOVOhfTbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K2BY45T-es Timberland Dausette Low  Zapatillas Altas para Mujer  Rojo  Dark Brown Nubuck   40 EU'
+slug: 'B07K2BY45T-es Timberland Dausette Low Zapatillas Altas para Mujer Rojo...'
+tags: timberland
 actualPrice: 60.31 EUR
 currency: EUR
 price: 60.31

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/516hgmn3kuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0036QQDX8-es Havaianas Brasil Logo  Chanclas Unisex Adulto  Blanco  White   35/36 EU'
+slug: 'B0036QQDX8-es Havaianas Brasil Logo Chanclas Unisex Adulto Blanco White...'
+tags: chanclas
 actualPrice: 11.49 EUR
 currency: EUR
 price: 11.49

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31GiDffxmnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YJCYMLB-es Eli-time Gafas de sol polarizadas ultraligeras para hombres conducir  correr  pescar  protección 100% UV400  montura rectangular de moda con lentes multicolores  ET19014  C-10 '
+slug: 'B07YJCYMLB-es Eli-time Gafas de sol polarizadas ultraligeras para...'
+tags: gafas, moda
 actualPrice: 12.11 EUR
 currency: EUR
 price: 12.11

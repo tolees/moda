@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31lrIxTfJdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077XNBD5K-es Under Armour Rival Fleece Crew Sudadera  Hombre  Gris  Steel Light Heather/Black 036   S'
+slug: 'B077XNBD5K-es Under Armour Rival Fleece Crew Sudadera Hombre Gris Steel...'
+tags: sudadera
 actualPrice: 21.49 EUR
 currency: EUR
 price: 21.49

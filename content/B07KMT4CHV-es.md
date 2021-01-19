@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31sCmDqENvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KMT4CHV-es adidas Essentials Linear Logo Camiseta  Niños  Negro  Black/White   128'
+slug: 'B07KMT4CHV-es adidas Essentials Linear Logo Camiseta Niños Negro...'
+tags: camiseta
 actualPrice: 10.05 EUR
 currency: EUR
 price: 10.05

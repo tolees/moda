@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31rxv41wAEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BRS3LM4-es BOSS Maine BC-c Vaqueros Straight  Azul  Dark Blue 408   33W/30L para Hombre'
+slug: 'B07BRS3LM4-es BOSS Maine BC-c Vaqueros Straight Azul Dark Blue 408...'
+tags: vaqueros
 actualPrice: 83.95 EUR
 currency: EUR
 price: 83.95

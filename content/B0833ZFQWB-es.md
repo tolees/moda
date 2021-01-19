@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/5114r0-R3TL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0833ZFQWB-es Collar Antiparasitos para Perros y Gatos  contra Pulgas Garrapatas y Mosquitos  Ajustable a Prueba de Agua  una solución Natural para la prevención de plagas  8 Meses Talla única'
+slug: 'B0833ZFQWB-es Collar Antiparasitos para Perros y Gatos contra Pulgas...'
+tags: collar
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

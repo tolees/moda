@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61Lwgaa9KnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DP8SVVN-es Cra-Z-Art - Crea tu bolso de lentejuelas Shimmer n Sparkle 44800 '
+slug: 'B07DP8SVVN-es Cra-Z-Art - Crea tu bolso de lentejuelas Shimmer n Sparkle...'
+tags: bolso
 actualPrice: 9.56 EUR
 currency: EUR
 price: 9.56

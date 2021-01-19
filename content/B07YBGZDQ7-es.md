@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41JD4gZ7zfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YBGZDQ7-es Vans Colorblock tee Camiseta  Multicolor  Sulphur Spring/Black Ynd   X-Small para Hombre'
+slug: 'B07YBGZDQ7-es Vans Colorblock tee Camiseta Multicolor Sulphur...'
+tags: camiseta
 actualPrice: 12.5 EUR
 currency: EUR
 price: 12.5

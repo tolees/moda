@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41qgjXb-9kL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PDST294-es Disney Camiseta y Leggings para niñas Capitana Marvel Azul 7-8 Años'
+slug: 'B07PDST294-es Disney Camiseta y Leggings para niñas Capitana Marvel Azul...'
+tags: camiseta
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

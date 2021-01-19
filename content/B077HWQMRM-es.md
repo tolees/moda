@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51fDoNhh6EL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077HWQMRM-es Marca Amazon - find. Vestido Asimétrico de Flores Mujer  Multicolor  Multicoloured   38  Label: S'
+slug: 'B077HWQMRM-es Marca Amazon - find. Vestido Asimétrico de Flores Mujer...'
+tags: vestido, -, find.
 actualPrice: 7.58 EUR
 currency: EUR
 price: 7.58

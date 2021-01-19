@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Mp3vLEVTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N9WIS08-es Tommy Hilfiger SS tee Print Top de pijama  Weiß  White 100   Large  Talla del fabricante: LG  para Mujer'
+slug: 'B01N9WIS08-es Tommy Hilfiger SS tee Print Top de pijama Weiß White 100...'
+tags: pijama
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

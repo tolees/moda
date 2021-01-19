@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41socZBFLpL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CSC0IKO-es LEABAGS Illinois Monedero de auténtico Cuero Ternero en el Estilo Vintage - Mango'
+slug: 'B01CSC0IKO-es LEABAGS Illinois Monedero de auténtico Cuero Ternero en el...'
+tags: monedero
 actualPrice: 29.98 EUR
 currency: EUR
 price: 29.98

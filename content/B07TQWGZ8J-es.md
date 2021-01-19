@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Rf3NC6xBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TQWGZ8J-es Clarks Declan Mix  Sandalias de Gladiador para Mujer  Negro  Black Combi Lea Black Combi Lea   41.5 EU'
+slug: 'B07TQWGZ8J-es Clarks Declan Mix Sandalias de Gladiador para Mujer Negro...'
+tags: sandalias
 actualPrice: 34.0 EUR
 currency: EUR
 price: 34.0

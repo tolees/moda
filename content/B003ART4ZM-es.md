@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31IVx-LTwQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003ART4ZM-es Birkenstock 51793 - Sandalias con hebilla unisex  Negro  35  estrecho '
+slug: 'B003ART4ZM-es Birkenstock 51793 - Sandalias con hebilla unisex Negro 35...'
+tags: sandalias
 actualPrice: 59.33 EUR
 currency: EUR
 price: 59.33

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ItNj0Uv8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00Q7ENMLC-es Columbia Peakfreak Venture Mid Waterproof Omni-Heat Zapatos para hombre   Negro Black  Sanguine   43 EU'
+slug: 'B00Q7ENMLC-es Columbia Peakfreak Venture Mid Waterproof Omni-Heat...'
+tags: zapatos
 actualPrice: 76.99 EUR
 currency: EUR
 price: 76.99

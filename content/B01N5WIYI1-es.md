@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41sh47FFzWL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N5WIYI1-es JACK & JONES Jorhero tee SS Crew Neck Camiseta  Rosa  Peach Beige Fit:Slim   Small para Hombre'
+slug: 'B01N5WIYI1-es JACK & JONES Jorhero tee SS Crew Neck Camiseta Rosa Peach...'
+tags: camiseta
 actualPrice: 9.5 EUR
 currency: EUR
 price: 9.5

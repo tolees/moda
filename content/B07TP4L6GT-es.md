@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41PCWyHWAgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TP4L6GT-es Superdry Field Jacket Chaqueta  Verde  Utl Olive T8m   M para Hombre'
+slug: 'B07TP4L6GT-es Superdry Field Jacket Chaqueta Verde Utl Olive T8m M para...'
+tags: chaqueta
 actualPrice: 26.19 EUR
 currency: EUR
 price: 26.19

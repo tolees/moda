@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41WjiOVeQqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F27YN9T-es Levi s 502 Regular Taper Vaqueros  Azul  Prewash 95977 0181   36W / 36L para Hombre'
+slug: 'B07F27YN9T-es Levi s 502 Regular Taper Vaqueros Azul Prewash 95977 0181...'
+tags: vaqueros
 actualPrice: 52.67 EUR
 currency: EUR
 price: 52.67

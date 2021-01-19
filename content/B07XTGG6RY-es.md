@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31NIvvoHhIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XTGG6RY-es inhzoy Chaqueta de Princesa para Niña Abrigo de Fiesta Boda Manga Corta Bolero Satinado para Vestido Capa con 3D Flores Cárdigan Dama de Honor Beige 3-4 Años'
+slug: 'B07XTGG6RY-es inhzoy Chaqueta de Princesa para Niña Abrigo de Fiesta...'
+tags: abrigo, chaqueta, vestido
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

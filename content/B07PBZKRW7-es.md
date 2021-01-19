@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41nIcmP9jtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PBZKRW7-es Morgan 192-menti.n Camiseta  Multicolor  Offwhite/Marine Offwhite/Marine   Large  Talla del Fabricante: TL  para Mujer'
+slug: 'B07PBZKRW7-es Morgan 192-menti.n Camiseta Multicolor Offwhite/Marine...'
+tags: camiseta
 actualPrice: 13.69 EUR
 currency: EUR
 price: 13.69

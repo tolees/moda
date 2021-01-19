@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41IfExGAjYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VGJ6MYS-es JACK & JONES Jcoglobe Parka  Verde  Forest Night Forest Night   Medium para Hombre'
+slug: 'B07VGJ6MYS-es JACK & JONES Jcoglobe Parka Verde Forest Night Forest...'
+tags: parka
 actualPrice: 24.0 EUR
 currency: EUR
 price: 24.0

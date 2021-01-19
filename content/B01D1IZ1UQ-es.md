@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/514Tnh3WiSL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01D1IZ1UQ-es LEABAGS Springfield Monedero de auténtico Cuero búfalo en el Estilo Vintage - TerraRosa'
+slug: 'B01D1IZ1UQ-es LEABAGS Springfield Monedero de auténtico Cuero búfalo en...'
+tags: monedero
 actualPrice: 15.98 EUR
 currency: EUR
 price: 15.98

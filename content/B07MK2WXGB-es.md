@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41YA758lFBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MK2WXGB-es Cerdá 2300003841  Sandalias Deportivas para Niñas  Blanco  Blanco C01   26 EU'
+slug: 'B07MK2WXGB-es Cerdá 2300003841 Sandalias Deportivas para Niñas Blanco...'
+tags: sandalias
 actualPrice: 7.55 EUR
 currency: EUR
 price: 7.55

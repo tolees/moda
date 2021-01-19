@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51dm1yPIIQL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B073WMM8WG-es Star Wars HQ1561 Sudadera  Morado  Purple   6 años  Tamaño del Fabricante:6Y  para Niñas'
+slug: 'B073WMM8WG-es Star Wars HQ1561 Sudadera Morado Purple 6 años Tamaño del...'
+tags: sudadera
 actualPrice: 4.36 EUR
 currency: EUR
 price: 4.36

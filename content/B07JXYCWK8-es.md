@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41gCA3letiL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JXYCWK8-es XIAOYAO Hombre Sudadera con Capucha Deportiva Manga Larga Hoodie Casual Camisa de Entrenamiento  XL  Blanco Negro '
+slug: 'B07JXYCWK8-es XIAOYAO Hombre Sudadera con Capucha Deportiva Manga Larga...'
+tags: camisa, sudadera
 actualPrice: 22.49 EUR
 currency: EUR
 price: 22.49

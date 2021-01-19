@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41HXXLWCAVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JYR1TP5-es Tommy Hilfiger TJM Essential Jaspe tee Camiseta  Azul  Blue 002   Large para Hombre'
+slug: 'B07JYR1TP5-es Tommy Hilfiger TJM Essential Jaspe tee Camiseta Azul Blue...'
+tags: camiseta
 actualPrice: 17.95 EUR
 currency: EUR
 price: 17.95

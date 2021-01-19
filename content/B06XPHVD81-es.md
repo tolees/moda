@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41o9jXJeP8L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XPHVD81-es Desigual Vest_vermond Vestido   Negro 2000   40 para Mujer'
+slug: 'B06XPHVD81-es Desigual Vest_vermond Vestido Negro 2000 40 para Mujer'
+tags: vestido
 actualPrice: 49.95 EUR
 currency: EUR
 price: 49.95

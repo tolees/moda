@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41I+MroBtvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00GUXJJ4Y-es Columbia Peakfreak Nomad Chukka WP Omni-Heat Zapatos hombre   Marrón Cordovan  Garnet Red   41.5 EU'
+slug: 'B00GUXJJ4Y-es Columbia Peakfreak Nomad Chukka WP Omni-Heat Zapatos...'
+tags: zapatos
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

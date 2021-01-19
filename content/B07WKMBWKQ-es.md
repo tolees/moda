@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31rG9wJwW5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WKMBWKQ-es Pepe Jeans Art Camiseta  Azul  519light SPA 519   17-18 años  Talla del Fabricante: 18  para Niños'
+slug: 'B07WKMBWKQ-es Pepe Jeans Art Camiseta Azul 519light SPA 519 17-18 años...'
+tags: camiseta
 actualPrice: 7.5 EUR
 currency: EUR
 price: 7.5

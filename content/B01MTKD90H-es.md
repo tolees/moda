@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zDB+5sv8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MTKD90H-es Tous Jacalanda Brunock Chain  Bolso Bandolera para Mujer  Azul  Marino 595900016   19.5x14.5x7 cm  W x H x L '
+slug: 'B01MTKD90H-es Tous Jacalanda Brunock Chain Bolso Bandolera para Mujer...'
+tags: bolso
 actualPrice: 58.0 EUR
 currency: EUR
 price: 58.0

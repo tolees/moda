@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41z3LkiV0sL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0825NLSCG-es Quiksilver Drift Away - Camiseta para Hombre Screen tee  Hombre  Stone Wash  L'
+slug: 'B0825NLSCG-es Quiksilver Drift Away - Camiseta para Hombre Screen tee...'
+tags: camiseta
 actualPrice: 16.94 EUR
 currency: EUR
 price: 16.94

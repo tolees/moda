@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41f5s48f2nL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001G2BKBY-es Birkenstock Mayari Birko-Flor  Sandalias de Dedo Mujer  Negro  Schwarz   39  normal '
+slug: 'B001G2BKBY-es Birkenstock Mayari Birko-Flor Sandalias de Dedo Mujer...'
+tags: sandalias
 actualPrice: 51.0 EUR
 currency: EUR
 price: 51.0

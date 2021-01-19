@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/415Y5ReunJL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K1M5HHW-es Calvin Klein - Trail Flat Crossover  Organizadores de bolso Hombre  Negro  Black   1x1x1 cm  W x H L '
+slug: 'B07K1M5HHW-es Calvin Klein - Trail Flat Crossover Organizadores de bolso...'
+tags: bolso
 actualPrice: 37.5 EUR
 currency: EUR
 price: 37.5

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51BUI1OXyFL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FM5B2MK-es De Mujer con Cuello en V Profunda con Volantes Lunares Imprimir 1/2 Media Manga de Abrigo con Bolsillos Mini Vestido Corto L-Azul '
+slug: 'B07FM5B2MK-es De Mujer con Cuello en V Profunda con Volantes Lunares...'
+tags: abrigo, vestido
 actualPrice: 6.19 EUR
 currency: EUR
 price: 6.19

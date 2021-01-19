@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31XNpI4g4OL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F24W2MM-es Levi s Plus Size 311 Pl Shaping Skinny Vaqueros  4X Stretch New Ultra Black  18 M para Mujer'
+slug: 'B07F24W2MM-es Levi s Plus Size 311 Pl Shaping Skinny Vaqueros 4X Stretch...'
+tags: vaqueros
 actualPrice: 47.86 EUR
 currency: EUR
 price: 47.86

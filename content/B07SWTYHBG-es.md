@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31iROmLno7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SWTYHBG-es Geox D Sandal Vega A  Sandalias con Punta Abierta para Mujer  Beige  Sand C5004   35 EU'
+slug: 'B07SWTYHBG-es Geox D Sandal Vega A Sandalias con Punta Abierta para...'
+tags: geox, sandalias
 actualPrice: 50.62 EUR
 currency: EUR
 price: 50.62

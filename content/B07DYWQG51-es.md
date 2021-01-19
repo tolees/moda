@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41FY2EuQvCL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DYWQG51-es Columbia Midweight Stretch Half Zip Camiseta técnica con Media Cremallera  Poliéster   Azul/Collegiate Navy   Talla M'
+slug: 'B07DYWQG51-es Columbia Midweight Stretch Half Zip Camiseta técnica con...'
+tags: camiseta
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

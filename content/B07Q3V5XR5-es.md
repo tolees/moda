@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412zXOzXV0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q3V5XR5-es NNJXD Vestido de Unicornio para niñas Fiesta de Apliques de Flores Cosplay Disfraz de Halloween + Gorros Tamaño  130  5-6 años Rosa'
+slug: 'B07Q3V5XR5-es NNJXD Vestido de Unicornio para niñas Fiesta de Apliques...'
+tags: vestido
 actualPrice: 21.98 EUR
 currency: EUR
 price: 21.98

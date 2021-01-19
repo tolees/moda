@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41lg-Rp0YbL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFZ825T-es Geox U ARIAM B  Zapatillas para Hombre  Marrón  Mud C6372   39 EU'
+slug: 'B07LFZ825T-es Geox U ARIAM B Zapatillas para Hombre Marrón Mud C6372 39 EU'
+tags: geox
 actualPrice: 55.85 EUR
 currency: EUR
 price: 55.85

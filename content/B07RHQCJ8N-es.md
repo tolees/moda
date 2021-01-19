@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/418HWKbPlVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RHQCJ8N-es Nike Downshifter 9  Zapatilla de Correr para Hombre  Negro/Blanco Particula Gris/Dk Humo Gris  42.5 EU'
+slug: 'B07RHQCJ8N-es Nike Downshifter 9 Zapatilla de Correr para Hombre...'
+tags: zapatilla
 actualPrice: 31.98 EUR
 currency: EUR
 price: 31.98

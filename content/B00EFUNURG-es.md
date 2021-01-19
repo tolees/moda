@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41GI7gZrxZL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00EFUNURG-es Helly Hansen W Crew Chaqueta  Mujer  Blanco  XL'
+slug: 'B00EFUNURG-es Helly Hansen W Crew Chaqueta Mujer Blanco XL'
+tags: chaqueta
 actualPrice: 86.46 EUR
 currency: EUR
 price: 86.46

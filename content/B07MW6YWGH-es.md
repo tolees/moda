@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41vtkKlEc7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MW6YWGH-es Camper Pelotas XL  Zapatos de Cordones Oxford para Hombre  Rojo  Medium Red 610   43 EU'
+slug: 'B07MW6YWGH-es Camper Pelotas XL Zapatos de Cordones Oxford para Hombre...'
+tags: zapatos
 actualPrice: 42.49 EUR
 currency: EUR
 price: 42.49

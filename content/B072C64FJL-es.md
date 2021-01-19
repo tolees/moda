@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31TN3PaDGFL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B072C64FJL-es Khanomak - Pantalón Corto Deportivo - para Mujer Rojo Granate S'
+slug: 'B072C64FJL-es Khanomak - Pantalón Corto Deportivo - para Mujer Rojo...'
+tags: pantalón
 actualPrice: 11.06 EUR
 currency: EUR
 price: 11.06

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31oMUKhkebL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S854NCZ-es Crocs Crocband Flip  Chanclas Unisex-Adult  Orange  Orange/White   46/47 EU'
+slug: 'B07S854NCZ-es Crocs Crocband Flip Chanclas Unisex-Adult Orange...'
+tags: chanclas
 actualPrice: 17.81 EUR
 currency: EUR
 price: 17.81

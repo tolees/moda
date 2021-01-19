@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0831QDRM9-es Zapatilla Casual Cuero Mujer - Nicki White Blue Red 39'
+tags: zapatilla
 actualPrice: 74.25 EUR
 currency: EUR
 price: 74.25

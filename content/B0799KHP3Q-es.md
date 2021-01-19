@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51iaR020xLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0799KHP3Q-es KARACTERMANIA Mickey Mouse Crayons Bolso bandolera  28 cm  Rojo'
+slug: 'B0799KHP3Q-es KARACTERMANIA Mickey Mouse Crayons Bolso bandolera 28 cm Rojo'
+tags: bolso
 actualPrice: 10.8 EUR
 currency: EUR
 price: 10.8

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51TmFSXEEmL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RWKXVPQ-es BILLABONG Divine Vestido  Negro  Black 19   Large  Tamaño del Fabricante: L  para Mujer'
+slug: 'B07RWKXVPQ-es BILLABONG Divine Vestido Negro Black 19 Large Tamaño del...'
+tags: vestido
 actualPrice: 30.8 EUR
 currency: EUR
 price: 30.8

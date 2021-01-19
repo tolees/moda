@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51jnDFchGuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08C52LPCR-es GMWD Alfombrilla Desinfectante para El Piso  Zapatos De Limpieza De La Puerta Delantera  Almohadilla Absorbente De Agua  Alfombras Y Felpudos  para El Hogar  Hotel  Hospital  Entrada De La Oficina'
+slug: 'B08C52LPCR-es GMWD Alfombrilla Desinfectante para El Piso Zapatos De...'
+tags: zapatos
 actualPrice: 15.47 EUR
 currency: EUR
 price: 15.47

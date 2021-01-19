@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/316+2b4bHPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00B7W9DCQ-es Geox Piuma G  Bailarinas para Niñas  Negro  Black 9999   39 EU'
+slug: 'B00B7W9DCQ-es Geox Piuma G Bailarinas para Niñas Negro Black 9999 39 EU'
+tags: geox
 actualPrice: 26.68 EUR
 currency: EUR
 price: 26.68

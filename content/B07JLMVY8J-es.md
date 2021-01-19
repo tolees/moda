@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31gswvr+MdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JLMVY8J-es Amazon Essentials – Pantalón corto chino con tiro de 8 89 cm para mujer  camuflaje oliva floral  US 12  EU L '
+slug: 'B07JLMVY8J-es Amazon Essentials – Pantalón corto chino con tiro de 8 89...'
+tags: pantalón
 actualPrice: 5.47 EUR
 currency: EUR
 price: 5.47

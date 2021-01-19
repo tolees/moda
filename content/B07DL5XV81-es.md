@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31rBYUk2frL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DL5XV81-es Columbia 1840661 EVOLUTION VALLEY  Pantalón de lluvia  Hombre   Poliéster   Negro  Black    Talla L'
+slug: 'B07DL5XV81-es Columbia 1840661 EVOLUTION VALLEY Pantalón de lluvia...'
+tags: pantalón
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

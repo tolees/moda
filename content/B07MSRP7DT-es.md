@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412loR1CisL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MSRP7DT-es CMP Rigel  Zapatos de Low Rise Senderismo Unisex Niños   B.Blue-Zafferano 11nd   28 EU'
+slug: 'B07MSRP7DT-es CMP Rigel Zapatos de Low Rise Senderismo Unisex Niños...'
+tags: zapatos
 actualPrice: 17.51 EUR
 currency: EUR
 price: 17.51

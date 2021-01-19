@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/411TrSkOY5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JFLPXM3-es Pepe Jeans Boreas Pm402096 Chaqueta   Flame 265   Medium para Hombre'
+slug: 'B07JFLPXM3-es Pepe Jeans Boreas Pm402096 Chaqueta Flame 265 Medium para...'
+tags: chaqueta
 actualPrice: 66.0 EUR
 currency: EUR
 price: 66.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41abqcny7rL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MC86WHM-es CMP Rigel  Zapatos de Low Rise Senderismo Unisex Niños   B.Blue-Aqua Mint 12nd   28 EU'
+slug: 'B07MC86WHM-es CMP Rigel Zapatos de Low Rise Senderismo Unisex Niños...'
+tags: zapatos
 actualPrice: 17.51 EUR
 currency: EUR
 price: 17.51

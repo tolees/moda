@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Ap-fxEwAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JXJN3R3-es Firenze Artegiani Bolso Bandolera de Mujer en Piel auténtica  Acabado Gamuza  Grabado en Serpiente  29 cm  Marrón Oscuro'
+slug: 'B07JXJN3R3-es Firenze Artegiani Bolso Bandolera de Mujer en Piel...'
+tags: bolso
 actualPrice: 98.73 EUR
 currency: EUR
 price: 98.73

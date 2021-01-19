@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41RnNOHsfrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W72HFCD-es Springfield Web Naming Stripes-C/41 Camiseta  Gris  Dark Grey 41   XL  Tamaño del Fabricante: XL  para Hombre'
+slug: 'B07W72HFCD-es Springfield Web Naming Stripes-C/41 Camiseta Gris Dark...'
+tags: camiseta
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

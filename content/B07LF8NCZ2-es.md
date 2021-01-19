@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/418teEbww6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LF8NCZ2-es Levi s LS Original Hm tee Camiseta  Negro  Black 0009   XX-Large para Hombre'
+slug: 'B07LF8NCZ2-es Levi s LS Original Hm tee Camiseta Negro Black 0009 XX-...'
+tags: camiseta
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

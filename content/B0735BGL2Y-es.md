@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412IfEvjfvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0735BGL2Y-es Napapijri Rainforest Winter  Chaqueta para Hombre  Blanco  Bright White 002   Small'
+slug: 'B0735BGL2Y-es Napapijri Rainforest Winter Chaqueta para Hombre Blanco...'
+tags: chaqueta
 actualPrice: 118.99 EUR
 currency: EUR
 price: 118.99

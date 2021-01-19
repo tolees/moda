@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079FL34VB-es AOWOFS - Abrigo - para Hombre Marrón marrón Small'
+tags: abrigo
 actualPrice: 50.22 EUR
 currency: EUR
 price: 50.22

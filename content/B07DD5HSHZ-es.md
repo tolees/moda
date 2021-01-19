@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41OvxuDyS4L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DD5HSHZ-es Odlo Hoody Midlayer 1/2 Zip Steam Sudadera  Mujer  Gris  Melange   L'
+slug: 'B07DD5HSHZ-es Odlo Hoody Midlayer 1/2 Zip Steam Sudadera Mujer Gris...'
+tags: sudadera
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

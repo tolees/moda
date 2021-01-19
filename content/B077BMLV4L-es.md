@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31xIBLOIOsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077BMLV4L-es adidas Core18 W Camiseta Polo  Mujer  Dark Blue/White  2XL'
+slug: 'B077BMLV4L-es adidas Core18 W Camiseta Polo Mujer Dark Blue/White 2XL'
+tags: camiseta
 actualPrice: 16.49 EUR
 currency: EUR
 price: 16.49

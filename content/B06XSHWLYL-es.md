@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41CjJ-dXZJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XSHWLYL-es Pepe Jeans Zip Thru Ladies  Sudadera con Capucha para Mujer  Beige  Écru   S'
+slug: 'B06XSHWLYL-es Pepe Jeans Zip Thru Ladies Sudadera con Capucha para Mujer...'
+tags: sudadera
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

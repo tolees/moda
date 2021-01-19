@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41T516M4g5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NBYCKFH-es Tous Billetera M. Carlata Plata-Rosa  Monedero para Mujer  Plateado  19.5x11x2 cm  W x H x L '
+slug: 'B07NBYCKFH-es Tous Billetera M. Carlata Plata-Rosa Monedero para Mujer...'
+tags: billetera, monedero
 actualPrice: 45.25 EUR
 currency: EUR
 price: 45.25

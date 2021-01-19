@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41UVarwV02L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VPQFJPY-es G-STAR RAW 3301 High Waist Skinny Ankle Vaqueros  Azul  Vintage Ripped Sky 8968-B173   W24/L28  Talla del Fabricante: 24W / 28L  para Mujer'
+slug: 'B07VPQFJPY-es G-STAR RAW 3301 High Waist Skinny Ankle Vaqueros Azul...'
+tags: vaqueros
 actualPrice: 60.69 EUR
 currency: EUR
 price: 60.69

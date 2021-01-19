@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41KszS%2BZQAL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B073JQSRYT-es find. Camiseta Manga Larga Hombre  Gris  Stone   50  Talla del fabricante: Medium '
+slug: 'B073JQSRYT-es find. Camiseta Manga Larga Hombre Gris Stone 50 Talla del...'
+tags: camiseta
 actualPrice: 4.2 EUR
 currency: EUR
 price: 4.2

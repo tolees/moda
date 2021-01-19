@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41PPpBYqRsL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JZJ2V2D-es Tommy Hilfiger Recycled Short Puffer Chaqueta  Rojo  Virtual Pink 638   92 para Niñas'
+slug: 'B07JZJ2V2D-es Tommy Hilfiger Recycled Short Puffer Chaqueta Rojo Virtual...'
+tags: chaqueta
 actualPrice: 45.05 EUR
 currency: EUR
 price: 45.05

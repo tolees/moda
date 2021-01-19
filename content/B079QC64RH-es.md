@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41XI5g3x-0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079QC64RH-es Kipling Gabbie  Bolso bandolera para Mujer  Azul  True Dazz Navy   35.5 x 30 x 18.5 cm'
+slug: 'B079QC64RH-es Kipling Gabbie Bolso bandolera para Mujer Azul True Dazz...'
+tags: bolso
 actualPrice: 49.5 EUR
 currency: EUR
 price: 49.5

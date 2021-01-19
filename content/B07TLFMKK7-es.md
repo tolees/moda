@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41JPwWtoqvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TLFMKK7-es Levi s 511 Slim Vaqueros  Beige Harvest Gold Sueded Sateen WT B 4425  32W / 32L para Hombre'
+slug: 'B07TLFMKK7-es Levi s 511 Slim Vaqueros Beige Harvest Gold Sueded Sateen...'
+tags: vaqueros
 actualPrice: 44.5 EUR
 currency: EUR
 price: 44.5

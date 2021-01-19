@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31clOeKgCrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088P4G8WM-es La Valenciana Sandalias Mustang 58553 Marrón - Color - Marrón  Talla - 40'
+slug: 'B088P4G8WM-es La Valenciana Sandalias Mustang 58553 Marrón - Color -...'
+tags: sandalias
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

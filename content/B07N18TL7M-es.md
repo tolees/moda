@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41gM4xWLcZL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N18TL7M-es G-STAR RAW 3301 Straight Vaqueros  Worker Blue Faded A088-A888  29W / 32L para Hombre'
+slug: 'B07N18TL7M-es G-STAR RAW 3301 Straight Vaqueros Worker Blue Faded...'
+tags: vaqueros
 actualPrice: 36.39 EUR
 currency: EUR
 price: 36.39

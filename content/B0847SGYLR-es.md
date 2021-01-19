@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41TMjPoKsVL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0847SGYLR-es WOLFIRE SC Camiseta de Baloncesto para Hombre  NBA  Los Angeles Lakers #8#24 Kobe Bryant. Bordado Swingman Transpirable y Resistente al Desgaste Camiseta para Fan  Amarilla 8  M '
+slug: 'B0847SGYLR-es WOLFIRE SC Camiseta de Baloncesto para Hombre NBA Los...'
+tags: camiseta
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

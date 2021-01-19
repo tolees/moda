@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZePu4kShL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NDNVKCS-es G-STAR RAW Whistler Slim Down Hooded Long Abrigo  Gris  Asfalt 995   40  Talla del Fabricante: Medium  para Mujer'
+slug: 'B07NDNVKCS-es G-STAR RAW Whistler Slim Down Hooded Long Abrigo Gris...'
+tags: abrigo
 actualPrice: 149.95 EUR
 currency: EUR
 price: 149.95

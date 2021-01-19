@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ZO0UIataL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J3DLP85-es Under Armour UA Streaker 2.0 Camiseta  Mujer  Azul  Breathtaking Blue/Reflective 400   XL'
+slug: 'B07J3DLP85-es Under Armour UA Streaker 2.0 Camiseta Mujer Azul...'
+tags: camiseta
 actualPrice: 20.97 EUR
 currency: EUR
 price: 20.97

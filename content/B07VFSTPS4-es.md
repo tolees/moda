@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41x5BE2UWBL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VFSTPS4-es Mocasines Mujer Piel Cuero Loafers Plano Lazy Casual Sneakers Planas Low Top Zapatos Suede Slip On Mocasín Hollow-out Verde 35 EU'
+slug: 'B07VFSTPS4-es Mocasines Mujer Piel Cuero Loafers Plano Lazy Casual...'
+tags: zapatos
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

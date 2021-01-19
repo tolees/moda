@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/316ZYMu0JpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DDC9HLJ-es PUMA ESS Logo tee Camiseta  Mujer  Negro  Cotton Black   M'
+slug: 'B07DDC9HLJ-es PUMA ESS Logo tee Camiseta Mujer Negro Cotton Black M'
+tags: camiseta
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

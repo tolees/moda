@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41NCEsJRh5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00AR18VQC-es The North Face McMurdo - Chaqueta Impermeable  Hombre  Negro  TNF Black   M'
+slug: 'B00AR18VQC-es The North Face McMurdo - Chaqueta Impermeable Hombre Negro...'
+tags: chaqueta
 actualPrice: 256.99 EUR
 currency: EUR
 price: 256.99

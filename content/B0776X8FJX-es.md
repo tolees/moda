@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31sTo5j9a1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0776X8FJX-es Tommy Hilfiger Original Stretch Camisa  Blanco  Classic White 100   X-Large para Hombre'
+slug: 'B0776X8FJX-es Tommy Hilfiger Original Stretch Camisa Blanco Classic...'
+tags: camisa
 actualPrice: 38.6 EUR
 currency: EUR
 price: 38.6

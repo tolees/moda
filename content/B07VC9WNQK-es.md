@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41J3IaQ+n+L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VC9WNQK-es JACK & JONES Jorhardy Light Puffer Chaqueta  Azul  Navy Blazer Detail: Solid   Medium para Hombre'
+slug: 'B07VC9WNQK-es JACK & JONES Jorhardy Light Puffer Chaqueta Azul Navy...'
+tags: chaqueta
 actualPrice: 23.09 EUR
 currency: EUR
 price: 23.09

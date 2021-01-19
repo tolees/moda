@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51AQ9wKt+cL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RDQQVNZ-es Tommy Hilfiger TJM Flannel Multi Check Shirt Camisa  Negro  Black 0mj   Large para Hombre'
+slug: 'B07RDQQVNZ-es Tommy Hilfiger TJM Flannel Multi Check Shirt Camisa Negro...'
+tags: camisa
 actualPrice: 22.15 EUR
 currency: EUR
 price: 22.15

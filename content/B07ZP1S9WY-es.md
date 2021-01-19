@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413kIJMl7oL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZP1S9WY-es Jack & Jones Jcoisland tee SS Crew Neck Camiseta  Rojo  Rio Red Fit: Slim   Small  Herstellergröße: S  para Hombre'
+slug: 'B07ZP1S9WY-es Jack & Jones Jcoisland tee SS Crew Neck Camiseta Rojo Rio...'
+tags: camiseta
 actualPrice: 6.39 EUR
 currency: EUR
 price: 6.39

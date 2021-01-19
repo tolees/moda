@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ubXouYhPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DHZ6H5T-es Geox D Theragon C  Zapatillas para Mujer  Blue/Navy C4294  36 EU'
+slug: 'B07DHZ6H5T-es Geox D Theragon C Zapatillas para Mujer Blue/Navy C4294 36 EU'
+tags: geox
 actualPrice: 57.5 EUR
 currency: EUR
 price: 57.5

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31iogvfYL2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N97XDI4-es NIKE Kawa Shower  Zapatos de Playa y Piscina para Hombre  Negro  Black/White   40 EU'
+slug: 'B01N97XDI4-es NIKE Kawa Shower Zapatos de Playa y Piscina para Hombre...'
+tags: zapatos
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

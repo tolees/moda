@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31WCG77r3CL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071XJBTQW-es Jack & Jones Jprnon Iron Shirt L/s Noos Camisa  Negro  Black Fit:Slim Fit   X-Large para Hombre'
+slug: 'B071XJBTQW-es Jack & Jones Jprnon Iron Shirt L/s Noos Camisa Negro Black...'
+tags: camisa
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

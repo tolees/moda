@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41saUx8VIVL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073QLGL9K-es Activewear Sudadera Técnica con Capucha Hombre  Rojo  Sport Red   Medium'
+slug: 'B073QLGL9K-es Activewear Sudadera Técnica con Capucha Hombre Rojo Sport...'
+tags: sudadera
 actualPrice: 7.6 EUR
 currency: EUR
 price: 7.6

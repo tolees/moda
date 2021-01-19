@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/310nTO73zFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VPCF5Z2-es Marca Amazon - AURIQUE Sudadera de Manga Larga de Forro Polar Mujer  Rojo  Port   40  Label:M'
+slug: 'B07VPCF5Z2-es Marca Amazon - AURIQUE Sudadera de Manga Larga de Forro...'
+tags: aurique, sudadera
 actualPrice: 3.19 EUR
 currency: EUR
 price: 3.19

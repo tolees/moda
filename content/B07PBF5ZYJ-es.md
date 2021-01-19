@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31boTrxmxvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PBF5ZYJ-es Ever-Pretty Vestido de Fiesta Noche Largo para Mujer Cuello V Manga Corta Talla Grande Verde Oscuro 58'
+slug: 'B07PBF5ZYJ-es Ever-Pretty Vestido de Fiesta Noche Largo para Mujer...'
+tags: vestido
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

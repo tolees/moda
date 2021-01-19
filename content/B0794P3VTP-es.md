@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/419lBCz3tnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0794P3VTP-es Columbia Tolmie Butte  Chaqueta  Hombre  Negro  Shark   S'
+slug: 'B0794P3VTP-es Columbia Tolmie Butte Chaqueta Hombre Negro Shark S'
+tags: chaqueta
 actualPrice: 48.39 EUR
 currency: EUR
 price: 48.39

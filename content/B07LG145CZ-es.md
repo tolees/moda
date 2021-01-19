@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ZgdQFs0PL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LG145CZ-es Geox J Casey Girl WPF C  Botas Militar para Niñas  Negro  Black C9999   38 EU'
+slug: 'B07LG145CZ-es Geox J Casey Girl WPF C Botas Militar para Niñas Negro...'
+tags: geox
 actualPrice: 26.82 EUR
 currency: EUR
 price: 26.82

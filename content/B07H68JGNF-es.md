@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31HuOPdHy+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H68JGNF-es Skechers Ultra Flex-Neon Star  Sandalias de Talón Abierto para Mujer  Morado  Mauve Gore/Mitobuck Trim MVE   39 EU'
+slug: 'B07H68JGNF-es Skechers Ultra Flex-Neon Star Sandalias de Talón Abierto...'
+tags: sandalias
 actualPrice: 42.04 EUR
 currency: EUR
 price: 42.04

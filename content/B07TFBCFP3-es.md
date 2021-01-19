@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41hvmXWLBfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TFBCFP3-es Lacoste Sport Sh4899 Sudadera  Azul  Methylene/Noir-Blanc P14   XXX-Large  Talla del Fabricante: 8  para Hombre'
+slug: 'B07TFBCFP3-es Lacoste Sport Sh4899 Sudadera Azul Methylene/Noir-Blanc...'
+tags: sudadera
 actualPrice: 51.61 EUR
 currency: EUR
 price: 51.61

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41GAtRcZUxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077Y8KL2N-es Sylvie Flirty Swimwear Brix  Parte de Arriba de Bikini para Mujer  Negro  Black 5053   40  Talla del fabricante: 38A '
+slug: 'B077Y8KL2N-es Sylvie Flirty Swimwear Brix Parte de Arriba de Bikini para...'
+tags: bikini
 actualPrice: 5.91 EUR
 currency: EUR
 price: 5.91

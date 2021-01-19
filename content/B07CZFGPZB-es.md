@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/312MMp9iubL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CZFGPZB-es Under Armour Sportstyle Camiseta sin Mangas con Logotipo  Ropa Deportiva para Hombres Hecha de Tejido ultrasuave  Ancha Camiseta de Tirantes  Black/Black/Black  001   XL'
+slug: 'B07CZFGPZB-es Under Armour Sportstyle Camiseta sin Mangas con Logotipo...'
+tags: camiseta
 actualPrice: 12.49 EUR
 currency: EUR
 price: 12.49

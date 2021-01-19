@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41iNS4UxNCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RM2LTCL-es Tommy Hilfiger TJM Straight Small Logo Hoodie Jersey de Deporte  Rojo  Red Xa9   Hombre'
+slug: 'B07RM2LTCL-es Tommy Hilfiger TJM Straight Small Logo Hoodie Jersey de...'
+tags: jersey
 actualPrice: 59.95 EUR
 currency: EUR
 price: 59.95

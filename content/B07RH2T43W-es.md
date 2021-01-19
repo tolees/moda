@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31cj7aBxMxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RH2T43W-es Under Armour Playoff 20 Men s Transpirable Hombre  cómoda y Ancha Camisa Polo Masculina de Manga Corta  Blanco  SM'
+slug: 'B07RH2T43W-es Under Armour Playoff 20 Men s Transpirable Hombre cómoda y...'
+tags: camisa
 actualPrice: 23.25 EUR
 currency: EUR
 price: 23.25

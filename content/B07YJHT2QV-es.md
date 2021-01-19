@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31X9+W5LIEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YJHT2QV-es Eli-time Gafas de sol polarizadas ultraligeras hombres y mujeres para jugar al golf  correr  pescar  protección 100% UV400  marco mate rectangular de moda con lentes multicolores  ET19010  C-6 '
+slug: 'B07YJHT2QV-es Eli-time Gafas de sol polarizadas ultraligeras hombres y...'
+tags: gafas, moda
 actualPrice: 9.4 EUR
 currency: EUR
 price: 9.4

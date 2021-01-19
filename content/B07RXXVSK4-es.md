@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41QeXC7AnBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RXXVSK4-es Pepe Jeans Hailey 7/8 Vaqueros evasé  Azul  Archive Light Used 000   Talla única  Talla del Fabricante: W30/L30  para Mujer'
+slug: 'B07RXXVSK4-es Pepe Jeans Hailey 7/8 Vaqueros evasé Azul Archive Light...'
+tags: vaqueros
 actualPrice: 34.58 EUR
 currency: EUR
 price: 34.58

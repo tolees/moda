@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31vojGkk1EL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MDBKGDL-es G-STAR RAW 3301 High Waist Skinny Vaqueros  Azul  lt aged 6553-424   23W / 32L para Mujer'
+slug: 'B07MDBKGDL-es G-STAR RAW 3301 High Waist Skinny Vaqueros Azul lt aged...'
+tags: vaqueros
 actualPrice: 40.0 EUR
 currency: EUR
 price: 40.0

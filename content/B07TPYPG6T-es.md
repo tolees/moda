@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Jqz0eTmdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TPYPG6T-es Clarks Un Adorn Vibe  Sandalias de Talón Abierto para Mujer  Beige  Red Leather Red Leather   39.5 EU'
+slug: 'B07TPYPG6T-es Clarks Un Adorn Vibe Sandalias de Talón Abierto para Mujer...'
+tags: sandalias
 actualPrice: 41.9 EUR
 currency: EUR
 price: 41.9

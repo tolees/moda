@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41JyEb4zSnL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P4HXWCZ-es Superdry Embossed Classics tee Camiseta  Rojo  Rouge Red Wa7   X-Large para Hombre'
+slug: 'B07P4HXWCZ-es Superdry Embossed Classics tee Camiseta Rojo Rouge Red Wa7...'
+tags: camiseta
 actualPrice: 12.19 EUR
 currency: EUR
 price: 12.19

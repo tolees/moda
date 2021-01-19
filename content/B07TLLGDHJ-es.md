@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41iATS1LrSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TLLGDHJ-es Superdry Highwayman Trucker Chaqueta Vaquera  Gris  Silver City Grey P1p   2XL para Hombre'
+slug: 'B07TLLGDHJ-es Superdry Highwayman Trucker Chaqueta Vaquera Gris Silver...'
+tags: chaqueta
 actualPrice: 33.22 EUR
 currency: EUR
 price: 33.22

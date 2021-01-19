@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31GdPJxtQPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JQK3CZC-es ESPRIT Collection 998eo2f804 Camisa  Azul  Light Blue 440    Talla del Fabricante: 43-44  para Hombre'
+slug: 'B07JQK3CZC-es ESPRIT Collection 998eo2f804 Camisa Azul Light Blue 440...'
+tags: camisa
 actualPrice: 19.37 EUR
 currency: EUR
 price: 19.37

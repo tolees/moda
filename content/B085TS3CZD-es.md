@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ZFo9mr4RL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085TS3CZD-es DOUBLE M  Calzoncillos Boxer  Ropa Interior De Algodón  Resistentes  Suaves  Cómodos  con Elástico para Hombres  Diferentes Estampados  Lisos  Disponbles en Tallas M L XL XXL Pack de 7'
+slug: 'B085TS3CZD-es DOUBLE M Calzoncillos Boxer Ropa Interior De Algodón...'
+tags: boxer
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

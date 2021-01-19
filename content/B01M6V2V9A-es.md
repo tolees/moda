@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31VWKV4nJzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M6V2V9A-es Geox D Jaysen A  Zapatillas para Mujer  Negro  Black   36 EU'
+slug: 'B01M6V2V9A-es Geox D Jaysen A Zapatillas para Mujer Negro Black 36 EU'
+tags: geox
 actualPrice: 69.42 EUR
 currency: EUR
 price: 69.42

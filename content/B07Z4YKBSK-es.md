@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51gqpYxhUhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z4YKBSK-es Bolso de Fiesta Noche Mujer Embrague Cartera de Mano de Satén para Mujer Diamantes  Bolsa de Cadena del Monedero para Boda y Baile  Bolsas de Hombro  Armada'
+slug: 'B07Z4YKBSK-es Bolso de Fiesta Noche Mujer Embrague Cartera de Mano de...'
+tags: bolso, monedero
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

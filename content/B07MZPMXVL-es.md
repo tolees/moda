@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Czkq2XKCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZPMXVL-es Pepe Jeans Rick Chaqueta   Sailor 580   Large para Hombre'
+slug: 'B07MZPMXVL-es Pepe Jeans Rick Chaqueta Sailor 580 Large para Hombre'
+tags: chaqueta
 actualPrice: 86.99 EUR
 currency: EUR
 price: 86.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31oajJOkj2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0793S6GZV-es adidas SST TP Pantalón  Hombre  Rojo  Escarl   L'
+slug: 'B0793S6GZV-es adidas SST TP Pantalón Hombre Rojo Escarl L'
+tags: pantalón
 actualPrice: 48.97 EUR
 currency: EUR
 price: 48.97

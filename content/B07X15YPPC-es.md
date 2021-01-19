@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41KqsZRK1WL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X15YPPC-es JACK & JONES Jjemelange Shirt L/s Noos Camisa  Azul  Blue Nightsblau   Large para Hombre'
+slug: 'B07X15YPPC-es JACK & JONES Jjemelange Shirt L/s Noos Camisa Azul Blue...'
+tags: camisa
 actualPrice: 13.55 EUR
 currency: EUR
 price: 13.55

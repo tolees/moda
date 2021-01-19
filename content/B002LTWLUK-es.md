@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31x6U+392HL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002LTWLUK-es Lacoste L1212 Camiseta Polo  Azul  Ruisseau   L  Talla del fabricante: 5  para Hombre'
+slug: 'B002LTWLUK-es Lacoste L1212 Camiseta Polo Azul Ruisseau L Talla del...'
+tags: camiseta
 actualPrice: 60.99 EUR
 currency: EUR
 price: 60.99

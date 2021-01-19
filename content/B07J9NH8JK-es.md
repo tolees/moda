@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51kZgR7v4GL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J9NH8JK-es Lois - Cartera de Mano Organizador para Caballero. Portadocumentos. Asa de Mano. Cuero PU. Cómodo Práctico Resistente y Ligero. Mariconera. Calidad Moda Estilo Elegante  96585  Color Gris Oscuro'
+slug: 'B07J9NH8JK-es Lois - Cartera de Mano Organizador para Caballero....'
+tags: moda
 actualPrice: 23.95 EUR
 currency: EUR
 price: 23.95

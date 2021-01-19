@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/411ld0D3Q5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RFYRV5B-es G-STAR RAW 3301 High Waist Straight 90 s Ankle Vaqueros  Azul  Antic Indigo B767-A939   W27/L34  Talla del Fabricante: 27W/ 34L  para Mujer'
+slug: 'B07RFYRV5B-es G-STAR RAW 3301 High Waist Straight 90 s Ankle Vaqueros...'
+tags: vaqueros
 actualPrice: 27.11 EUR
 currency: EUR
 price: 27.11

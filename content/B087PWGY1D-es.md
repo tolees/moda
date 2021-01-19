@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41M6mGUGhBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087PWGY1D-es Mediffen Mujer Elegante Tacón De Aguja Tacón Alto Punta Abierta Cierre De Tobillo Fiesta Sandalias Noche Vestido Moda Verano Sandalias Morado Talla 48 Asiática'
+slug: 'B087PWGY1D-es Mediffen Mujer Elegante Tacón De Aguja Tacón Alto Punta...'
+tags: moda, sandalias, vestido
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

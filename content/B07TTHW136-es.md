@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31LweCC5TbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TTHW136-es Superga 1908-puu  Zapatos de Playa y Piscina Unisex Adulto  Naranja  Orange Melon/Orange A05   35 EU'
+slug: 'B07TTHW136-es Superga 1908-puu Zapatos de Playa y Piscina Unisex Adulto...'
+tags: zapatos
 actualPrice: 17.16 EUR
 currency: EUR
 price: 17.16

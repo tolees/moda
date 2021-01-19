@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41wcejIh1rL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V33GNVD-es BOSS Trunk 3p Co/El Bóxer  Multicolor  Open Miscellaneous 960   S  Pack de 3  para Hombre'
+slug: 'B07V33GNVD-es BOSS Trunk 3p Co/El Bóxer Multicolor Open Miscellaneous...'
+tags: bóxer
 actualPrice: 17.23 EUR
 currency: EUR
 price: 17.23

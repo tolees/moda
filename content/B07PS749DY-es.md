@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31kSIxf+sRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PS749DY-es Under Armour UA Seamless SS Manga Corta para Hombre  Camiseta para Correr  Blanco  White 100   S'
+slug: 'B07PS749DY-es Under Armour UA Seamless SS Manga Corta para Hombre...'
+tags: camiseta
 actualPrice: 20.71 EUR
 currency: EUR
 price: 20.71

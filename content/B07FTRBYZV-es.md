@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31WGeFVruUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FTRBYZV-es Lee Western Shirt Camisa  Black 01  XS para Hombre'
+slug: 'B07FTRBYZV-es Lee Western Shirt Camisa Black 01 XS para Hombre'
+tags: camisa
 actualPrice: 45.0 EUR
 currency: EUR
 price: 45.0

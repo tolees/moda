@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/418cOT65iuL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CZLYTPX-es Under Armour Rival Fleece Logo Sweatshort Pantalón Corto  Hombre  Gris  Steel Light Heather/Black 035   XL'
+slug: 'B07CZLYTPX-es Under Armour Rival Fleece Logo Sweatshort Pantalón Corto...'
+tags: pantalón
 actualPrice: 12.68 EUR
 currency: EUR
 price: 12.68

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41qPeu4aCDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T8GMP69-es bedee Chaqueta Impermeable para Lluvia Ligera de Mujer  Gabardina Resistente al Vient Deportiva Chaqueta para Exterior con para Mujer Negro -XL '
+slug: 'B07T8GMP69-es bedee Chaqueta Impermeable para Lluvia Ligera de Mujer...'
+tags: chaqueta
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

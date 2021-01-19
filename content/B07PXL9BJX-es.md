@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41FLAyjijFL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PXL9BJX-es Calvin Klein Ckj 026 Vaqueros Slim  Azul  Antwerp Mid 911   W38/L32  Talla del Fabricante: 3238  para Hombre'
+slug: 'B07PXL9BJX-es Calvin Klein Ckj 026 Vaqueros Slim Azul Antwerp Mid 911...'
+tags: vaqueros
 actualPrice: 36.37 EUR
 currency: EUR
 price: 36.37

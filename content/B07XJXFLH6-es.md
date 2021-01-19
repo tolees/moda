@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41y2g0SAhRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XJXFLH6-es DoGeek Botas Nieve Botas de Forro de Piel de Invierno Zapatos Cálidos para Exteriores'
+slug: 'B07XJXFLH6-es DoGeek Botas Nieve Botas de Forro de Piel de Invierno...'
+tags: zapatos
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41rVkSpN19L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TMXFCBN-es Clarks Step Cali Cove  Sandalias de Talón Abierto para Mujer  Beige  Berry Berry   40 EU'
+slug: 'B07TMXFCBN-es Clarks Step Cali Cove Sandalias de Talón Abierto para...'
+tags: sandalias
 actualPrice: 18.15 EUR
 currency: EUR
 price: 18.15

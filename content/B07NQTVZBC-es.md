@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41dRvLlz8ZL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NQTVZBC-es Springfield 7Ba C/Red G7 Block Torzal Jersey  Verde  Dark Green 20   X-Large  Tamaño del Fabricante: XL  para Hombre'
+slug: 'B07NQTVZBC-es Springfield 7Ba C/Red G7 Block Torzal Jersey Verde Dark...'
+tags: jersey
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

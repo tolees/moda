@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/317-KdJAFML._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N7R5GNN-es Prada 0PR51SS VHT1A0 54 Gafas de Sol  Plateado  Silver/Azure/Light Grey Silver   Unisex-Adulto'
+slug: 'B01N7R5GNN-es Prada 0PR51SS VHT1A0 54 Gafas de Sol Plateado...'
+tags: gafas
 actualPrice: 143.0 EUR
 currency: EUR
 price: 143.0

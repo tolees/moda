@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41jNfox7NxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MCSPJSS-es Napapijri ABERDAR WOM Chaqueta  Azul  BLU Marine 176   XL para Mujer'
+slug: 'B07MCSPJSS-es Napapijri ABERDAR WOM Chaqueta Azul BLU Marine 176 XL para...'
+tags: chaqueta
 actualPrice: 74.4 EUR
 currency: EUR
 price: 74.4

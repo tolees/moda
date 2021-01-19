@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41bT%2BRjHM0L._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FSGTJ94-es Lee Lee Crew Sws  sudadera Mujer  Marfil  Faded Rosado Ea   Medium'
+slug: 'B07FSGTJ94-es Lee Lee Crew Sws sudadera Mujer Marfil Faded Rosado Ea Medium'
+tags: sudadera
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

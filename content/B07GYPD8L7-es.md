@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41oYvz7DSdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GYPD8L7-es LOVORDS Collar Mujer Grabado Plata de Ley 925 Colgante Infinito Corazón Mamá Hijos Perla Cultivada Blanca de Agua Dulce 6mm Regalo Madre'
+slug: 'B07GYPD8L7-es LOVORDS Collar Mujer Grabado Plata de Ley 925 Colgante...'
+tags: collar
 actualPrice: 22.94 EUR
 currency: EUR
 price: 22.94

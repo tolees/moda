@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31VNJw84GAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HZJ2ZPD-es find. Diagonal Weave Mule Sandalias con Punta Abierta  Beige Nude  36 EU'
+slug: 'B07HZJ2ZPD-es find. Diagonal Weave Mule Sandalias con Punta Abierta...'
+tags: sandalias
 actualPrice: 7.6 EUR
 currency: EUR
 price: 7.6

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41WEPjwC-aL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NY3Q1PH-es Superdry Falcon Rookie Parka  Beige  Camel 94m   40  Talla del Fabricante: Medium  para Mujer'
+slug: 'B07NY3Q1PH-es Superdry Falcon Rookie Parka Beige Camel 94m 40 Talla del...'
+tags: parka
 actualPrice: 66.99 EUR
 currency: EUR
 price: 66.99

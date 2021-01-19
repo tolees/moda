@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414DfY2EeEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WC44R7H-es Tommy Hilfiger Block Stripe Hilfiger tee Camiseta Deporte  Azul  Desert Sky   Medium  Talla del Fabricante:  para Hombre'
+slug: 'B07WC44R7H-es Tommy Hilfiger Block Stripe Hilfiger tee Camiseta Deporte...'
+tags: camiseta
 actualPrice: 25.55 EUR
 currency: EUR
 price: 25.55

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31-AzPGCjlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M8L2BCG-es Lee Rider Jeans Vaqueros  Dark Marine  31W / 34L para Hombre'
+slug: 'B07M8L2BCG-es Lee Rider Jeans Vaqueros Dark Marine 31W / 34L para Hombre'
+tags: vaqueros
 actualPrice: 37.49 EUR
 currency: EUR
 price: 37.49

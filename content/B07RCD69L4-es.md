@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ftkUQcPvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RCD69L4-es Columbia Inner Limits II Chaqueta Impermeable  Hombre  Negro  Gris Claro  Black  Graphite Heather   M'
+slug: 'B07RCD69L4-es Columbia Inner Limits II Chaqueta Impermeable Hombre Negro...'
+tags: chaqueta
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

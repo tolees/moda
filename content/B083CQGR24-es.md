@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-NMvboDtL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083CQGR24-es Le Coq Sportif Aluf Crew Sweat  Sudadera - L'
+slug: 'B083CQGR24-es Le Coq Sportif Aluf Crew Sweat Sudadera - L'
+tags: sudadera
 actualPrice: 64.99 EUR
 currency: EUR
 price: 64.99

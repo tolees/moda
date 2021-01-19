@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41VeQvQr1qL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B015SGE85S-es Havaianas Brasil Mix  Chanclas Unisex Adulto  Multicolor  Steel Grey/White/White   41/42 EU'
+slug: 'B015SGE85S-es Havaianas Brasil Mix Chanclas Unisex Adulto Multicolor...'
+tags: chanclas
 actualPrice: 17.95 EUR
 currency: EUR
 price: 17.95

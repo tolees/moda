@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-VK4TogvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V4QCTJX-es Superdry Classic Trunk Triple Pack Bóxer  Azul  Cobalt Multipack T3u   XS para Hombre'
+slug: 'B07V4QCTJX-es Superdry Classic Trunk Triple Pack Bóxer Azul Cobalt...'
+tags: bóxer
 actualPrice: 11.09 EUR
 currency: EUR
 price: 11.09

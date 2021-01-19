@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41InQzf0AtL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01J1LYWQ6-es Crocs Crocband Clog Kids  Zuecos Unisex Niños  Beige  Stucco/Melon   22/23 EU'
+slug: 'B01J1LYWQ6-es Crocs Crocband Clog Kids Zuecos Unisex Niños Beige...'
+tags: zuecos
 actualPrice: 22.33 EUR
 currency: EUR
 price: 22.33

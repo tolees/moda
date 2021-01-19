@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/415FI-wRVGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N45HCHM-es United Colors of Benetton Basico 1 Man Vaqueros Straight  Azul  Rinse 905   44  Talla del Fabricante: 33  para Hombre'
+slug: 'B07N45HCHM-es United Colors of Benetton Basico 1 Man Vaqueros Straight...'
+tags: vaqueros
 actualPrice: 18.16 EUR
 currency: EUR
 price: 18.16

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41tOoq5dljL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TWB3RM9-es Levi s The tee Camiseta de Manga Corta  Azul  BRW T2 Baby Blue 0777   Large para Mujer'
+slug: 'B07TWB3RM9-es Levi s The tee Camiseta de Manga Corta Azul BRW T2 Baby...'
+tags: camiseta
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

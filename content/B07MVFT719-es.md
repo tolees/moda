@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41DPMhn3POL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MVFT719-es Gant D1. The Quilted Windcheater Chaqueta  Azul  Evening Blue 433   Small para Hombre'
+slug: 'B07MVFT719-es Gant D1. The Quilted Windcheater Chaqueta Azul Evening...'
+tags: chaqueta
 actualPrice: 125.0 EUR
 currency: EUR
 price: 125.0

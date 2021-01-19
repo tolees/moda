@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31gEznXeAJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MFG88KC-es ONLY onlAVA FAUX LEATHER BIKER OTW NOOS  Chaqueta Mujer  Rosa  Ash Rose   40'
+slug: 'B01MFG88KC-es ONLY onlAVA FAUX LEATHER BIKER OTW NOOS Chaqueta Mujer...'
+tags: chaqueta
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

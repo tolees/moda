@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41hgXVckgPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00JEZ1X26-es Skechers Reggae Slim-Vacay  Sandalias de Talón Abierto para Mujer  Beige  Taupe   38 EU'
+slug: 'B00JEZ1X26-es Skechers Reggae Slim-Vacay Sandalias de Talón Abierto para...'
+tags: sandalias
 actualPrice: 36.41 EUR
 currency: EUR
 price: 36.41

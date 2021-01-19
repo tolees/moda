@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/317kgSSvjeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFV12D4-es Geox U Devan A  Mocasines para Hombre  Marrón  Mud C6372   43 EU'
+slug: 'B07LFV12D4-es Geox U Devan A Mocasines para Hombre Marrón Mud C6372 43 EU'
+tags: geox
 actualPrice: 29.17 EUR
 currency: EUR
 price: 29.17

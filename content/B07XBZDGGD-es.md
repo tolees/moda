@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31r4klNan2L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XBZDGGD-es Esprit 109Ee1K026 Camiseta de Manga Larga  Negro  Black 001   M para Mujer'
+slug: 'B07XBZDGGD-es Esprit 109Ee1K026 Camiseta de Manga Larga Negro Black 001...'
+tags: camiseta
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

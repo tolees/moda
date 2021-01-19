@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+cTA3sfzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076YN6WQD-es Levi s Ex-Boyfriend Trucker Chaqueta Vaquera  Azul  Stoop Culture 0022   Medium para Mujer'
+slug: 'B076YN6WQD-es Levi s Ex-Boyfriend Trucker Chaqueta Vaquera Azul Stoop...'
+tags: chaqueta
 actualPrice: 54.95 EUR
 currency: EUR
 price: 54.95

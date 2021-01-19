@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RYRQD33-es Lacoste - Camisa Punto Manga Larga Hombre - Ch0564'
+tags: camisa
 actualPrice: 61.3 EUR
 currency: EUR
 price: 61.3

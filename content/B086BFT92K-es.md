@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ISI+H+h7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086BFT92K-es TENDYCOCO 100Pcs Cubren Los Zapatos Útiles Portátiles Cubren Zapatos Antideslizantes Antideslizantes Cubren Las Cubiertas Del Zapato para El Hogar Al Aire Libre - Rosa'
+slug: 'B086BFT92K-es TENDYCOCO 100Pcs Cubren Los Zapatos Útiles Portátiles...'
+tags: zapatos
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

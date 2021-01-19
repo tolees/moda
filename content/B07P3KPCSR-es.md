@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41yWNfpOLeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P3KPCSR-es Superdry Dahlia Roll Neck Jumper Camiseta Cuello Alto  Verde  Emerald Green Vz7   L  Talla del Fabricante:14  para Mujer'
+slug: 'B07P3KPCSR-es Superdry Dahlia Roll Neck Jumper Camiseta Cuello Alto...'
+tags: camiseta
 actualPrice: 20.15 EUR
 currency: EUR
 price: 20.15

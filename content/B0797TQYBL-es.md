@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/415SOBiPt3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0797TQYBL-es VIFUUR Zapatos de Agua Aqua Yoga para Mujer Hombre Negro sólido EU38/39'
+slug: 'B0797TQYBL-es VIFUUR Zapatos de Agua Aqua Yoga para Mujer Hombre Negro...'
+tags: zapatos
 actualPrice: 14.66 EUR
 currency: EUR
 price: 14.66

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51TBlFAslmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LX3IZIY-es Samsonite Openroad Tablet Crossover M 7.9" Bolso Bandolera  3.5 litros  Color Negro'
+slug: 'B01LX3IZIY-es Samsonite Openroad Tablet Crossover M 7.9" Bolso Bandolera...'
+tags: bolso
 actualPrice: 49.9 EUR
 currency: EUR
 price: 49.9

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41665+04m3L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0085SFX9W-es Jack & Jones Jones - Camiseta de manga corta con cuello redondo para hombre  Grau  LIGHT GREY MELANGE JJ LIGHT GREY MELANGE   Small'
+slug: 'B0085SFX9W-es Jack & Jones Jones - Camiseta de manga corta con cuello...'
+tags: camiseta
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

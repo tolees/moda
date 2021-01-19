@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31n1-RWucnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RBL7RXV-es SISMIURRA Colgante de Hoja chapada en Oro Blanco Collar de Hoja con Gota de Agua Zirconia cúbica Regalo de cumpleaños'
+slug: 'B07RBL7RXV-es SISMIURRA Colgante de Hoja chapada en Oro Blanco Collar de...'
+tags: collar
 actualPrice: 9.17 EUR
 currency: EUR
 price: 9.17

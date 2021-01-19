@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41hOzCqc3cL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B081CN3D4C-es Geographical Norway Parka Mujer BOOMERA Ass B Rosa Llamativo 01'
+slug: 'B081CN3D4C-es Geographical Norway Parka Mujer BOOMERA Ass B Rosa...'
+tags: parka
 actualPrice: 79.2 EUR
 currency: EUR
 price: 79.2

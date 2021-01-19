@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/312Q142wcrL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0797LY7QP-es PUMA Liga Jersey Camiseta  Hombre  Azul  Peacoat/White   L'
+slug: 'B0797LY7QP-es PUMA Liga Jersey Camiseta Hombre Azul Peacoat/White L'
+tags: camiseta, jersey
 actualPrice: 10.8 EUR
 currency: EUR
 price: 10.8

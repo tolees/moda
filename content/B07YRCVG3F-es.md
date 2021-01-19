@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/3105bdPA74L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YRCVG3F-es Marca Amazon - AURIQUE Shorts para Correr con Banda Lateral Mujer  Azul  Navy/White   42  Label:L'
+slug: 'B07YRCVG3F-es Marca Amazon - AURIQUE Shorts para Correr con Banda...'
+tags: aurique
 actualPrice: 12.8 EUR
 currency: EUR
 price: 12.8

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31PUDrtsvAL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MFM3QHZ-es Clarks Arla Free  Zapatos de Cordones Derby para Hombre  Negro  Black Black   47 EU'
+slug: 'B07MFM3QHZ-es Clarks Arla Free Zapatos de Cordones Derby para Hombre...'
+tags: zapatos
 actualPrice: 47.9 EUR
 currency: EUR
 price: 47.9

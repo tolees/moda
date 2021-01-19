@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ctsQPW-rL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V1JXVQV-es Marca Amazon - Iris & Lilly Sujetador Estilo Camiseta Mujer  Rojo  Rhododendron   85E  Label: 32DD'
+slug: 'B07V1JXVQV-es Marca Amazon - Iris & Lilly Sujetador Estilo Camiseta...'
+tags: camiseta, iris, &, lilly
 actualPrice: 7.2 EUR
 currency: EUR
 price: 7.2

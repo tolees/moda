@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41QmphUM7gL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RFYRK5Z-es G-STAR RAW 3301 Slim Vaqueros  Antic Faded Ripped Marine  31W / 34L para Hombre'
+slug: 'B07RFYRK5Z-es G-STAR RAW 3301 Slim Vaqueros Antic Faded Ripped Marine...'
+tags: vaqueros
 actualPrice: 53.88 EUR
 currency: EUR
 price: 53.88

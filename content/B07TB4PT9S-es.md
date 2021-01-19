@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31MImRHTksL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TB4PT9S-es Vero Moda Vmnoramille 3/4 Wool Jacket Abrigo  Rojo Birch  44  Talla del Fabricante: X-Large  para Mujer'
+slug: 'B07TB4PT9S-es Vero Moda Vmnoramille 3/4 Wool Jacket Abrigo Rojo Birch 44...'
+tags: abrigo, moda
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31A90DaxC8L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J5V6YDD-es Hawiton Pijama Mujer de Algodón Invierno Otoño Mangas Larga Ropa de Domir 2 Piezas Pantalones Largo'
+slug: 'B07J5V6YDD-es Hawiton Pijama Mujer de Algodón Invierno Otoño Mangas...'
+tags: pijama
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

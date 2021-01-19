@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Ggrq9DKKL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TWXDM5B-es Women s Secret Multilicense College MC WR B-Star PJ Conjuntos de Pijama  Azul  Gama Azules 18   Small  Tamaño del Fabricante: S  para Mujer'
+slug: 'B07TWXDM5B-es Women s Secret Multilicense College MC WR B-Star PJ...'
+tags: pijama
 actualPrice: 16.74 EUR
 currency: EUR
 price: 16.74

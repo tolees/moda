@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41vxrNZysOL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LBK7YGJ-es Tommy Hilfiger Saba Short Packable Windbreaker Chaqueta Impermeable  Morado  Pink Lavender 503   X-Small para Mujer'
+slug: 'B07LBK7YGJ-es Tommy Hilfiger Saba Short Packable Windbreaker Chaqueta...'
+tags: chaqueta
 actualPrice: 55.7 EUR
 currency: EUR
 price: 55.7

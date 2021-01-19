@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31U25Bnk0rL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFZLTL6-es Geox Annytah Ms  Mocasines para Mujer  Negro  Black C9997   37 EU'
+slug: 'B07LFZLTL6-es Geox Annytah Ms Mocasines para Mujer Negro Black C9997 37 EU'
+tags: geox
 actualPrice: 23.09 EUR
 currency: EUR
 price: 23.09

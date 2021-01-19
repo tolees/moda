@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31c-hqO0NKL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XVQN7SH-es edc by Esprit 119CC1G008 Abrigo  Negro  Black 001   XS para Mujer'
+slug: 'B07XVQN7SH-es edc by Esprit 119CC1G008 Abrigo Negro Black 001 XS para Mujer'
+tags: abrigo
 actualPrice: 31.36 EUR
 currency: EUR
 price: 31.36

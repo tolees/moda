@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41hSnDy1AXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XMLGP5S-es Pepe Jeans Soho Vaqueros  Denim Oz Classic Stretch Z632  25W / 32L para Mujer'
+slug: 'B00XMLGP5S-es Pepe Jeans Soho Vaqueros Denim Oz Classic Stretch Z632 25W...'
+tags: vaqueros
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

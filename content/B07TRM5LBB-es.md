@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31r0yAgdTcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TRM5LBB-es Levi s Original Hm tee Camiseta  Blanco  LS Cotton + Patch White 0000   X-Small para Hombre'
+slug: 'B07TRM5LBB-es Levi s Original Hm tee Camiseta Blanco LS Cotton + Patch...'
+tags: camiseta
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

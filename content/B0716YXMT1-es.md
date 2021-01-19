@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41gvs+3JLmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0716YXMT1-es Under Armour Sportstyle Pique Track Jacket Chaqueta  Hombre  Gris  Stealth Gray/White 008   L'
+slug: 'B0716YXMT1-es Under Armour Sportstyle Pique Track Jacket Chaqueta Hombre...'
+tags: chaqueta
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

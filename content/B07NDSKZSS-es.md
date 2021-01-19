@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31PiLX2eYuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NDSKZSS-es Marca Amazon - find. Vestido Midi de Satén Mujer  Negro  Black   46  Label: XXL'
+slug: 'B07NDSKZSS-es Marca Amazon - find. Vestido Midi de Satén Mujer Negro...'
+tags: vestido, -, find.
 actualPrice: 7.23 EUR
 currency: EUR
 price: 7.23

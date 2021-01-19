@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31H8+SGt5vL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08FD165TC-es Doaraha Pantalones Deportivos Mujer Algodón Pantalón de Chándal Largo Elásticos Transpirables con Bolsillos Laterales para Deporte Gimnasio Fitness Correr  Gris Claro  L '
+slug: 'B08FD165TC-es Doaraha Pantalones Deportivos Mujer Algodón Pantalón de...'
+tags: pantalón
 actualPrice: 20.79 EUR
 currency: EUR
 price: 20.79

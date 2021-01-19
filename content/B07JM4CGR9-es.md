@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31geE-duFiL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JM4CGR9-es Lee Basic Graphic Crew Sudadera  Azul  Sky Captain Hy   XX-Large para Hombre'
+slug: 'B07JM4CGR9-es Lee Basic Graphic Crew Sudadera Azul Sky Captain Hy XX-...'
+tags: sudadera
 actualPrice: 15.21 EUR
 currency: EUR
 price: 15.21

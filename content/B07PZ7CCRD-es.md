@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zZFLfudvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PZ7CCRD-es Hawiton Pijamas para Mujer Verano Corto Pijama de Algodón Manga Corta  Cómodo y Transpirable'
+slug: 'B07PZ7CCRD-es Hawiton Pijamas para Mujer Verano Corto Pijama de Algodón...'
+tags: pijama
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

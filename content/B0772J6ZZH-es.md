@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41G3k98HQ5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0772J6ZZH-es Marca Amazon - MERAKI POETME005 Pantalones Cortos  Hombre  Azul  Navy   34  Label: 34'
+slug: 'B0772J6ZZH-es Marca Amazon - MERAKI POETME005 Pantalones Cortos Hombre...'
+tags: meraki
 actualPrice: 11.89 EUR
 currency: EUR
 price: 11.89

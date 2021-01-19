@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41UKavnxdyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PQNC75P-es El Ganso Casual 2 Abrigo  Verde  Verde 0012   X-Large para Hombre'
+slug: 'B07PQNC75P-es El Ganso Casual 2 Abrigo Verde Verde 0012 X-Large para Hombre'
+tags: abrigo
 actualPrice: 66.81 EUR
 currency: EUR
 price: 66.81

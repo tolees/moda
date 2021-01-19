@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31KOwpfonIL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KGFNRZH-es BOSS Prime Camiseta  Verde  Open Green 346   X-Large para Hombre'
+slug: 'B07KGFNRZH-es BOSS Prime Camiseta Verde Open Green 346 X-Large para Hombre'
+tags: camiseta
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41cwJIi8htL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KY8SFYV-es Eastpak Delegate + Bolso bandolera  39 cm  20 liters  Azul  Triple Denim '
+slug: 'B07KY8SFYV-es Eastpak Delegate + Bolso bandolera 39 cm 20 liters Azul...'
+tags: bolso
 actualPrice: 47.52 EUR
 currency: EUR
 price: 47.52

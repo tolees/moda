@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41MJL2FcZuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F2S3S5L-es Helly Hansen W Crew Midlayer Jacket Chaqueta Deportiva  Mujer  Alert Red  L'
+slug: 'B07F2S3S5L-es Helly Hansen W Crew Midlayer Jacket Chaqueta Deportiva...'
+tags: chaqueta
 actualPrice: 110.99 EUR
 currency: EUR
 price: 110.99

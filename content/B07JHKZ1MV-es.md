@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31EjCO5pVbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JHKZ1MV-es TENGTA Unisex Zapatos de jardinería Impermeables para Mujeres Botas de Lluvia para Hombres Calzado de Lavado de Autos Ejercito Verde 42'
+slug: 'B07JHKZ1MV-es TENGTA Unisex Zapatos de jardinería Impermeables para...'
+tags: zapatos
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

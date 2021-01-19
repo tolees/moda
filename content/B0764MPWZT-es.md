@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41BTn9t6iRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0764MPWZT-es Kipling SILEN  Bolso bandolera para Mujer  Negro  True Black   24x18x11 cm'
+slug: 'B0764MPWZT-es Kipling SILEN Bolso bandolera para Mujer Negro True Black...'
+tags: bolso
 actualPrice: 37.4 EUR
 currency: EUR
 price: 37.4

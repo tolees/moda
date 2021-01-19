@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31LUAeudBYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZ35LDV-es Marca Amazon - TRUTH & FABLE Vestido Mujer Multiposición  Rojo  Burgundy   44  Label: XL'
+slug: 'B07MZ35LDV-es Marca Amazon - TRUTH & FABLE Vestido Mujer Multiposición...'
+tags: vestido
 actualPrice: 37.8 EUR
 currency: EUR
 price: 37.8

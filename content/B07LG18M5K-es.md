@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41XVhaemIhL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LG18M5K-es Geox J Android Girl A  Zapatillas para Niñas  Grau  Grey/Pink C0502   34 EU'
+slug: 'B07LG18M5K-es Geox J Android Girl A Zapatillas para Niñas Grau Grey/Pink...'
+tags: geox
 actualPrice: 28.95 EUR
 currency: EUR
 price: 28.95

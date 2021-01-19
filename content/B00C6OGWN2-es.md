@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31X4SmPozmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00C6OGWN2-es Jack & Jones Basic O-Neck tee L/S Noos Camiseta  Blanco  Opt White   XXL para Hombre'
+slug: 'B00C6OGWN2-es Jack & Jones Basic O-Neck tee L/S Noos Camiseta Blanco Opt...'
+tags: camiseta
 actualPrice: 9.71 EUR
 currency: EUR
 price: 9.71

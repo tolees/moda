@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31m7SsvGPQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MC17T7F-es Hackett Army tee Camiseta   Ecru 814   Medium para Hombre'
+slug: 'B07MC17T7F-es Hackett Army tee Camiseta Ecru 814 Medium para Hombre'
+tags: camiseta
 actualPrice: 13.94 EUR
 currency: EUR
 price: 13.94

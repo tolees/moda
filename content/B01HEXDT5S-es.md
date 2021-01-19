@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/311jF7lvX0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HEXDT5S-es Crocs Classic Clog K  Zuecos Unisex Niños  Amarillo  Lemon   23/24 EU'
+slug: 'B01HEXDT5S-es Crocs Classic Clog K Zuecos Unisex Niños Amarillo Lemon...'
+tags: zuecos
 actualPrice: 17.94 EUR
 currency: EUR
 price: 17.94

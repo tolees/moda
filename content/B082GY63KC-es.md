@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ccz1KHcGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082GY63KC-es Oihxse Cristal Case - Compatible con Samsung Galaxy A8S Funda  Ultra-Delgado Silicona TPU Suave Airbag Gradiente de Color Carcasa Elegante Moda Lindo Protectora Cubierta  Rosa Azul '
+slug: 'B082GY63KC-es Oihxse Cristal Case - Compatible con Samsung Galaxy A8S...'
+tags: moda
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98

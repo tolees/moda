@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41KhI5DddfL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CTR1TVY-es Ecco Lisbon  Zapatos de Cordones Derby para Hombre  Marrón  Cocoa Brown 1482   47 EU'
+slug: 'B07CTR1TVY-es Ecco Lisbon Zapatos de Cordones Derby para Hombre Marrón...'
+tags: zapatos
 actualPrice: 39.31 EUR
 currency: EUR
 price: 39.31

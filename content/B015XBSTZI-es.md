@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51HR9IB1vcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B015XBSTZI-es Morgan 132-mentos.m Camiseta  Marrón  Bordeaux Bordeaux   X-Large para Mujer'
+slug: 'B015XBSTZI-es Morgan 132-mentos.m Camiseta Marrón Bordeaux Bordeaux...'
+tags: camiseta
 actualPrice: 11.81 EUR
 currency: EUR
 price: 11.81

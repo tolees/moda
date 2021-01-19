@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/419h5JZajoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086YJPMG4-es Odetina - Sandalias de tacón bajo para mujer  color Blanco  talla 36 EU'
+slug: 'B086YJPMG4-es Odetina - Sandalias de tacón bajo para mujer color Blanco...'
+tags: sandalias
 actualPrice: 21.84 EUR
 currency: EUR
 price: 21.84

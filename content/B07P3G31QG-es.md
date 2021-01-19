@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31va9TrIsHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P3G31QG-es Superdry University L/s Shirt Camisa  Azul  Classic Blue Chambray S6h   35  Talla del Fabricante: X-Small  para Hombre'
+slug: 'B07P3G31QG-es Superdry University L/s Shirt Camisa Azul Classic Blue...'
+tags: camisa
 actualPrice: 13.48 EUR
 currency: EUR
 price: 13.48

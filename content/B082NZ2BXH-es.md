@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41KtqUVVfML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082NZ2BXH-es Oihxse Transparente Silicona Case Compatible con Xiaomi Mi 9 SE Funda Suave TPU Protección Carcasa Moda Dibujos Animados Divertida Diseño Ultra-Delgado Cubierta-Conejo'
+slug: 'B082NZ2BXH-es Oihxse Transparente Silicona Case Compatible con Xiaomi Mi...'
+tags: moda
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

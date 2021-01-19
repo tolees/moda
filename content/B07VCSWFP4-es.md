@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41fAecDmVML._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VCSWFP4-es Reebok Boxer para Hombre  Multicolor  Small  pack de 4 '
+slug: 'B07VCSWFP4-es Reebok Boxer para Hombre Multicolor Small pack de 4'
+tags: boxer
 actualPrice: 14.66 EUR
 currency: EUR
 price: 14.66

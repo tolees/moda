@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/312BdWGOTUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00X7VM5SE-es Vero Moda 10138972  Pantalones para mujer  negro  black/coated   S/32'
+slug: 'B00X7VM5SE-es Vero Moda 10138972 Pantalones para mujer negro...'
+tags: moda
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

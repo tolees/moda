@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41u7OnnvCmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VLJ13HX-es Tommy Hilfiger Tjw Colored Linear Logo tee Camiseta  Amarillo  Frozen Lemon Zio   38  Talla del Fabricante: Medium  para Mujer'
+slug: 'B07VLJ13HX-es Tommy Hilfiger Tjw Colored Linear Logo tee Camiseta...'
+tags: camiseta
 actualPrice: 19.15 EUR
 currency: EUR
 price: 19.15

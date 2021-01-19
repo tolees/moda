@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51brAI8M+3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WGNBFZ1-es Jack & Jones JORBROOK Shirt LS Camisa Casual  Multicolor  Navy Blazer Fit: Comfort   M para Hombre'
+slug: 'B07WGNBFZ1-es Jack & Jones JORBROOK Shirt LS Camisa Casual Multicolor...'
+tags: camisa
 actualPrice: 9.2 EUR
 currency: EUR
 price: 9.2

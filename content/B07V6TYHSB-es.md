@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Tev-qQjvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V6TYHSB-es Billabong Dunes Resistance  Chanclas para Hombre  Negro  Black 19   41 EU'
+slug: 'B07V6TYHSB-es Billabong Dunes Resistance Chanclas para Hombre Negro...'
+tags: chanclas
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

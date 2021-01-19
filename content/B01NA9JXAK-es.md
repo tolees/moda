@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/419ayJ9rDpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NA9JXAK-es Ducomi® Master Classic - Gafas de Sol con Madera de Caña de Bambú - Protección UV400  Negro  Azul '
+slug: 'B01NA9JXAK-es Ducomi® Master Classic - Gafas de Sol con Madera de Caña...'
+tags: gafas
 actualPrice: 12.95 EUR
 currency: EUR
 price: 12.95

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51X6EtauDwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NQVB4JV-es B Blesiya Juego deAjedrez Acrílico Magnético Portátil Reversi Othello Tablero Decoración de Hogar Diseño y Moda'
+slug: 'B07NQVB4JV-es B Blesiya Juego deAjedrez Acrílico Magnético Portátil...'
+tags: moda
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

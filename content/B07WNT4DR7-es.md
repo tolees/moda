@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41S5uodKAfL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WNT4DR7-es TTYAOVO Niñas Muestran Princesa Vestido de Flores Baile Puffy de Vestido de Niñas Flor Partido Vestido De Princesa Cumpleaños Vestidos Tamaño 130 6-7 Años 02 Rojo'
+slug: 'B07WNT4DR7-es TTYAOVO Niñas Muestran Princesa Vestido de Flores Baile...'
+tags: vestido
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

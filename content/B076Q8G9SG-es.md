@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41DaWjHdigL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B076Q8G9SG-es G-STAR RAW 3301 Straight Vaqueros  Blu  Medium Aged 6090-071   29W / 34L para Hombre'
+slug: 'B076Q8G9SG-es G-STAR RAW 3301 Straight Vaqueros Blu Medium Aged 6090-071...'
+tags: vaqueros
 actualPrice: 49.95 EUR
 currency: EUR
 price: 49.95

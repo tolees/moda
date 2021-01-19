@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/317ssusZXbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PT8F4GL-es Under Armour Challenger III Training Top Transpirable para Hacer Deporte  Camiseta para Hombre  Blanco  SM'
+slug: 'B07PT8F4GL-es Under Armour Challenger III Training Top Transpirable para...'
+tags: camiseta
 actualPrice: 21.87 EUR
 currency: EUR
 price: 21.87

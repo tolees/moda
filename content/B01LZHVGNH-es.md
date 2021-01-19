@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/415gWOquOnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LZHVGNH-es Helly Hansen Dubliner Jacket Chaqueta Deportiva  Hombre  Rojo  Bandera   3XL'
+slug: 'B01LZHVGNH-es Helly Hansen Dubliner Jacket Chaqueta Deportiva Hombre...'
+tags: chaqueta
 actualPrice: 82.94 EUR
 currency: EUR
 price: 82.94

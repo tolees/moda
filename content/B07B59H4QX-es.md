@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41YRVhM37xL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B59H4QX-es G-STAR RAW D-STAQ 3D Skinny  Vaqueros  Azul  medium aged 8968-071   35W / 38L para Hombre'
+slug: 'B07B59H4QX-es G-STAR RAW D-STAQ 3D Skinny Vaqueros Azul medium aged...'
+tags: vaqueros
 actualPrice: 36.48 EUR
 currency: EUR
 price: 36.48

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/4127YMhSG%2BL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TC68XS3-es Vero Moda Vmsimone Aw19 Hoody Short Jacket Boos Chaqueta  Gris  Peat Peat   38  Talla del Fabricante: Small  para Mujer'
+slug: 'B07TC68XS3-es Vero Moda Vmsimone Aw19 Hoody Short Jacket Boos Chaqueta...'
+tags: chaqueta, moda
 actualPrice: 13.54 EUR
 currency: EUR
 price: 13.54

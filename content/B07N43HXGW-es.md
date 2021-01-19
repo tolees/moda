@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41hVE%2B2dK-L._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N43HXGW-es Tommy Hilfiger Cotton Silk Buttoned Zip Mock Sudadera   Charcoal Heather P9x   Small para Hombre'
+slug: 'B07N43HXGW-es Tommy Hilfiger Cotton Silk Buttoned Zip Mock Sudadera...'
+tags: sudadera
 actualPrice: 44.92 EUR
 currency: EUR
 price: 44.92

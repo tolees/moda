@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41SV7JvRuLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PYYPZDC-es Under Armour UA Jet  Zapatos de Deporte para Hombre  Negro  Black/Halo Gray/Halo Gray   44 EU'
+slug: 'B07PYYPZDC-es Under Armour UA Jet Zapatos de Deporte para Hombre Negro...'
+tags: zapatos
 actualPrice: 40.22 EUR
 currency: EUR
 price: 40.22

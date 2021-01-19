@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/311nCXAZmRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G57GT8S-es find. 2 Pack Slim Shirt - Camisa Hombre  Blanco  White With Black / White   41 cm  Label: L'
+slug: 'B07G57GT8S-es find. 2 Pack Slim Shirt - Camisa Hombre Blanco White With...'
+tags: camisa
 actualPrice: 5.22 EUR
 currency: EUR
 price: 5.22

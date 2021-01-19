@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416Nr9LZnsL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DKTFJVX-es Dickies Farnham Chaqueta  Marrón  X-Small  Talla del Fabricante:  para Hombre'
+slug: 'B07DKTFJVX-es Dickies Farnham Chaqueta Marrón X-Small Talla del...'
+tags: chaqueta
 actualPrice: 58.25 EUR
 currency: EUR
 price: 58.25

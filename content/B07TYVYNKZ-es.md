@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Z4gDY1UkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TYVYNKZ-es Wrangler LS 1 Pkt Shirt Camisa  Azul  Navy 114   Small para Hombre'
+slug: 'B07TYVYNKZ-es Wrangler LS 1 Pkt Shirt Camisa Azul Navy 114 Small para...'
+tags: camisa
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31yJL7RGJsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TJGJ58Y-es Superdry Collective tee Camiseta  Negro  Black 02a   S para Hombre'
+slug: 'B07TJGJ58Y-es Superdry Collective tee Camiseta Negro Black 02a S para...'
+tags: camiseta
 actualPrice: 14.16 EUR
 currency: EUR
 price: 14.16

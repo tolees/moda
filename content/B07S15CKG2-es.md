@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/411LLmL9AgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S15CKG2-es BILLABONG TRD Mrk LS tee Camiseta  Gris  Grey Heather 9   One Size  Tamaño del Fabricante: XS  para Hombre'
+slug: 'B07S15CKG2-es BILLABONG TRD Mrk LS tee Camiseta Gris Grey Heather 9 One...'
+tags: camiseta
 actualPrice: 12.5 EUR
 currency: EUR
 price: 12.5

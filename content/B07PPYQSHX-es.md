@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41h0QEhTg5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PPYQSHX-es Onnea Paquete 10 Piezas Gafas de Sol de Fiesta 100% de Protección UV para Niño  10 Púrpura '
+slug: 'B07PPYQSHX-es Onnea Paquete 10 Piezas Gafas de Sol de Fiesta 100% de...'
+tags: gafas
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

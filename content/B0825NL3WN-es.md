@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41a2XDPYlLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0825NL3WN-es Quiksilver Stone Cold Classic - Camiseta para Hombre Screen tee  Hombre  Majolica Blue  L'
+slug: 'B0825NL3WN-es Quiksilver Stone Cold Classic - Camiseta para Hombre...'
+tags: camiseta
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+FTsyP8cL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G4QZPVH-es Amazon Brand - AURIQUE Leggings deportivos con paneles para mujer  Negro  Black/Red Floral Print   44  Label:XL'
+slug: 'B07G4QZPVH-es Amazon Brand - AURIQUE Leggings deportivos con paneles...'
+tags: aurique
 actualPrice: 12.66 EUR
 currency: EUR
 price: 12.66

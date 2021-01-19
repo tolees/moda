@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41jn+1jsh9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078YHGD62-es PUMA Liga Training Jr Chaqueta de Entrenamiento  Unisex niños  Black / White  152'
+slug: 'B078YHGD62-es PUMA Liga Training Jr Chaqueta de Entrenamiento Unisex...'
+tags: chaqueta
 actualPrice: 15.65 EUR
 currency: EUR
 price: 15.65

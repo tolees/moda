@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51yHwLY5NbL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07448LCWC-es vetoky Gafas de Natación  Antiniebla Gafas para Nadar Protección UV sin Fugas para Adultos Y Niños'
+slug: 'B07448LCWC-es vetoky Gafas de Natación Antiniebla Gafas para Nadar...'
+tags: gafas
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

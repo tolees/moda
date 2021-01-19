@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414PW--XLkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WGNC46X-es Jack & Jones JORBROOK Shirt LS Camisa Casual  Multicolor  Sea Moss Fit: Comfort   L para Hombre'
+slug: 'B07WGNC46X-es Jack & Jones JORBROOK Shirt LS Camisa Casual Multicolor...'
+tags: camisa
 actualPrice: 6.24 EUR
 currency: EUR
 price: 6.24

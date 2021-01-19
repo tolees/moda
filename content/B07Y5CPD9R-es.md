@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y5CPD9R-es Geographical Norway Sudadera DE Hombre GYMCLASS A Rojo S'
+tags: sudadera
 actualPrice: 27.3 EUR
 currency: EUR
 price: 27.3

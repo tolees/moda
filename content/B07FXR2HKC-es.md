@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51-c+DHv+WL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FXR2HKC-es Havaianas Stars Wars  Chanclas Unisex Adulto  Multicolor  Black/Blue   33/34 EU'
+slug: 'B07FXR2HKC-es Havaianas Stars Wars Chanclas Unisex Adulto Multicolor...'
+tags: chanclas
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

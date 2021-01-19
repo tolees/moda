@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41F9HIzlvCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081BJQF22-es Columbia Challenger  Chaqueta cortavientos  Hombre  Rojo/Negro  Carnelian Red/Shark   S'
+slug: 'B081BJQF22-es Columbia Challenger Chaqueta cortavientos Hombre...'
+tags: chaqueta
 actualPrice: 26.49 EUR
 currency: EUR
 price: 26.49

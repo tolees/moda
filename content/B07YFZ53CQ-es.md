@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31P9gsFwGCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YFZ53CQ-es Marca Amazon - find. SHANA-S-1A-58 - Tira de tobillo de Sintético Mujer  color Beige  talla 41 EU'
+slug: 'B07YFZ53CQ-es Marca Amazon - find. SHANA-S-1A-58 - Tira de tobillo de...'
+tags: -, find.
 actualPrice: 9.88 EUR
 currency: EUR
 price: 9.88

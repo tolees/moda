@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ZZwiXgdkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00L1RHULS-es Columbia Cascades Explorer Pantalón Largo  Hombre  Gris  Grill   W38/L32'
+slug: 'B00L1RHULS-es Columbia Cascades Explorer Pantalón Largo Hombre Gris...'
+tags: pantalón
 actualPrice: 14.57 EUR
 currency: EUR
 price: 14.57

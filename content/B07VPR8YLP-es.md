@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/313oFrHuARL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VPR8YLP-es Tommy Hilfiger Essential Original tee S/s Camiseta  Azul  Audacious Blue 329/710 Czy   5-6 años  Talla del Fabricante: 5  para Niños'
+slug: 'B07VPR8YLP-es Tommy Hilfiger Essential Original tee S/s Camiseta Azul...'
+tags: camiseta
 actualPrice: 13.86 EUR
 currency: EUR
 price: 13.86

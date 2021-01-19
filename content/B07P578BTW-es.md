@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51sPrZkPgLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P578BTW-es Guess - Manhattan Logo  Organizadores de bolso Hombre  Negro  Black   0.5x23x36 cm  W x H L '
+slug: 'B07P578BTW-es Guess - Manhattan Logo Organizadores de bolso Hombre Negro...'
+tags: bolso
 actualPrice: 21.12 EUR
 currency: EUR
 price: 21.12

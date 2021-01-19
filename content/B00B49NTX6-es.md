@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41SP9WYObXL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00B49NTX6-es Blend 700522 Blizzard - Vaqueros para hombres  color azul  blau 961   talla W32/L34  Talla del fabricante: 32 '
+slug: 'B00B49NTX6-es Blend 700522 Blizzard - Vaqueros para hombres color azul...'
+tags: vaqueros
 actualPrice: 18.54 EUR
 currency: EUR
 price: 18.54

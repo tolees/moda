@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41x+FBVk4rL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RZLJT18-es Levi s 511 Slim Vaqueros  East Lake Adv  26W / 30L para Hombre'
+slug: 'B07RZLJT18-es Levi s 511 Slim Vaqueros East Lake Adv 26W / 30L para Hombre'
+tags: vaqueros
 actualPrice: 48.67 EUR
 currency: EUR
 price: 48.67
@@ -25,8 +26,8 @@ En este momento está [Levi s 511 Slim Vaqueros  East Lake Adv  26W / 30L para H
 
 🔎:
 
-- Diseño de cinco bolsillos
-- Corte ajustado de la cadera al tobillo
 - Estilo esbelto con confort añadido
+- Corte ajustado de la cadera al tobillo
+- Diseño de cinco bolsillos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07RZLJT18/?tag=tolees-21)

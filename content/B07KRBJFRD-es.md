@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31xVFZ+YhNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KRBJFRD-es Kigu Isabel Collar con Nombre - Chapado en Oro Personalizado de 18 Quilates - Cadena Ajustable'
+slug: 'B07KRBJFRD-es Kigu Isabel Collar con Nombre - Chapado en Oro...'
+tags: collar
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

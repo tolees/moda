@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ya0UGzkYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MSD5DHW-es Crocs Baya  Zuecos Unisex Adulto  Marrón  Espresso   37/38 EU'
+slug: 'B01MSD5DHW-es Crocs Baya Zuecos Unisex Adulto Marrón Espresso 37/38 EU'
+tags: zuecos
 actualPrice: 30.42 EUR
 currency: EUR
 price: 30.42

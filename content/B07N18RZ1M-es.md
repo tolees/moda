@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41fiLXDG6NL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N18RZ1M-es G-STAR RAW Lynn Mid-Waist Skinny Vaqueros  Antic Blue 8968-812  25W / 36L para Mujer'
+slug: 'B07N18RZ1M-es G-STAR RAW Lynn Mid-Waist Skinny Vaqueros Antic Blue...'
+tags: vaqueros
 actualPrice: 13.14 EUR
 currency: EUR
 price: 13.14

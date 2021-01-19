@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31hMV5bzphL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P7HPXZL-es Tommy Hilfiger Heritage Slim Fit Shirt Blusa  Azul  Midnight 403   42  Talla del Fabricante: 10  para Mujer'
+slug: 'B07P7HPXZL-es Tommy Hilfiger Heritage Slim Fit Shirt Blusa Azul Midnight...'
+tags: blusa
 actualPrice: 67.45 EUR
 currency: EUR
 price: 67.45

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/311iVXDsloL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L93KV4Q-es Mujer Vestido Elegante de Oficina Falda Lápiz Mangas Cortas M CL010867-2'
+slug: 'B07L93KV4Q-es Mujer Vestido Elegante de Oficina Falda Lápiz Mangas...'
+tags: falda, vestido
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

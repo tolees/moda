@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Vr9JlAKgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TMWS29Z-es Clarks Adriel Viola  Zapatos de Tacón para Mujer  Beige  Praline Leather Praline Leather   39.5 EU'
+slug: 'B07TMWS29Z-es Clarks Adriel Viola Zapatos de Tacón para Mujer Beige...'
+tags: zapatos
 actualPrice: 37.1 EUR
 currency: EUR
 price: 37.1

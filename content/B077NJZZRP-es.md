@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41BlT3eFU2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077NJZZRP-es Marca Amazon - find. Camiseta Manga Corta con Textura  Hombre  Beige  Oatmeal   S  Label: S'
+slug: 'B077NJZZRP-es Marca Amazon - find. Camiseta Manga Corta con Textura...'
+tags: camiseta, -, find.
 actualPrice: 4.4 EUR
 currency: EUR
 price: 4.4

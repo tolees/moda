@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41rbRONc0SL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087BML2Z4-es Mediffen Mujer Fiesta Tacón Ancho Correa De Tobillo Lazos Punta Abierta Sandalias Vestido Noche Tacón Alto Moda Sandalias Rosa Talla 43 Asiática'
+slug: 'B087BML2Z4-es Mediffen Mujer Fiesta Tacón Ancho Correa De Tobillo Lazos...'
+tags: moda, sandalias, vestido
 actualPrice: 25.65 EUR
 currency: EUR
 price: 25.65

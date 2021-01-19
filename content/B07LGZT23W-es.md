@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51UcAF5pUBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LGZT23W-es FineGood 12 pares de retenedores de gafas  silicona antideslizante para gafas de sol gafas de lectura'
+slug: 'B07LGZT23W-es FineGood 12 pares de retenedores de gafas silicona...'
+tags: gafas
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

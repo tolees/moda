@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51+IZl6weqL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JG7TFXH-es Pepe Jeans Waylon Pm305927 Camisa   Indigo 561   Medium para Hombre'
+slug: 'B07JG7TFXH-es Pepe Jeans Waylon Pm305927 Camisa Indigo 561 Medium para...'
+tags: camisa
 actualPrice: 30.83 EUR
 currency: EUR
 price: 30.83

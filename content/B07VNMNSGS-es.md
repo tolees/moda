@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41a0oyObOAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VNMNSGS-es G-STAR RAW Lash Building Straight Camiseta  Blanco  White 336-110   L para Hombre'
+slug: 'B07VNMNSGS-es G-STAR RAW Lash Building Straight Camiseta Blanco White...'
+tags: camiseta
 actualPrice: 19.97 EUR
 currency: EUR
 price: 19.97

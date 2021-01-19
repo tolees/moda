@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/314qIkzRvML._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DQCKCC8-es Khanomak de Mujeres Camiseta de Manga Corta de algodón con Cuello en V Camiseta Regular Fit  Medio  Rojo '
+slug: 'B07DQCKCC8-es Khanomak de Mujeres Camiseta de Manga Corta de algodón con...'
+tags: camiseta
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

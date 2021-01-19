@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41TB3xLkdML._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FQG1ZK1-es The North Face Sport Hoodie Sudadera Deportiva con Capucha Thermoball  Mujer  Black/TNF White  XS'
+slug: 'B07FQG1ZK1-es The North Face Sport Hoodie Sudadera Deportiva con Capucha...'
+tags: sudadera
 actualPrice: 85.54 EUR
 currency: EUR
 price: 85.54

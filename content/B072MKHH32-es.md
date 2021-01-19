@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/415tQIKKcqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072MKHH32-es Marca Amazon - find. Camisa Hombre  Azul  Navy   S  Label: S'
+slug: 'B072MKHH32-es Marca Amazon - find. Camisa Hombre Azul Navy S Label: S'
+tags: camisa, -, find.
 actualPrice: 6.77 EUR
 currency: EUR
 price: 6.77

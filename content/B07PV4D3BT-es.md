@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/315Pu+lKaqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PV4D3BT-es Nike M NSW Nsp Top SS Check Camiseta  Hombre  Blue Void/Royal Blue/White  S'
+slug: 'B07PV4D3BT-es Nike M NSW Nsp Top SS Check Camiseta Hombre Blue...'
+tags: camiseta
 actualPrice: 8.5 EUR
 currency: EUR
 price: 8.5

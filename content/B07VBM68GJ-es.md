@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41mIeHSV4lL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VBM68GJ-es Calvin Klein Hooded Blocking Nylon Jacket Chaqueta Bomber  Rojo  Fiery Red/CK Black Xa7   Small para Hombre'
+slug: 'B07VBM68GJ-es Calvin Klein Hooded Blocking Nylon Jacket Chaqueta Bomber...'
+tags: chaqueta
 actualPrice: 75.07 EUR
 currency: EUR
 price: 75.07

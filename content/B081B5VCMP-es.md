@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31JY0YNOCjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081B5VCMP-es Columbia CSC Basic Camiseta de Manga Corta  Hombre  Negro  M'
+slug: 'B081B5VCMP-es Columbia CSC Basic Camiseta de Manga Corta Hombre Negro M'
+tags: camiseta
 actualPrice: 16.4 EUR
 currency: EUR
 price: 16.4

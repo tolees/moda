@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31KBzCu-LJL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MFM2MJ9-es Clarks Ronnie Walk  Zapatos de Cordones Derby para Hombre  Marrón Dark Brown Nub  42.5 EU'
+slug: 'B07MFM2MJ9-es Clarks Ronnie Walk Zapatos de Cordones Derby para Hombre...'
+tags: zapatos
 actualPrice: 37.76 EUR
 currency: EUR
 price: 37.76

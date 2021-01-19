@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31BZqWOdnxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VB4PN1K-es BLEND Jet Vaqueros Slim  Azul  Denim Light Blue 76200   W33/L30  Talla del Fabricante: 33/30  para Hombre'
+slug: 'B07VB4PN1K-es BLEND Jet Vaqueros Slim Azul Denim Light Blue 76200...'
+tags: vaqueros
 actualPrice: 15.6 EUR
 currency: EUR
 price: 15.6

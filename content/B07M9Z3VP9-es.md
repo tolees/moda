@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51F4uxYWfbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M9Z3VP9-es United Colors of Benetton Layette BB B2 Camiseta de Manga Larga  Gris  Grigio Melange 501   68/74  Talla del Fabricante: 68  para Bebés'
+slug: 'B07M9Z3VP9-es United Colors of Benetton Layette BB B2 Camiseta de Manga...'
+tags: camiseta
 actualPrice: 7.52 EUR
 currency: EUR
 price: 7.52

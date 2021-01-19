@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/419H-wlpmML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JW4SYK4-es Columbia Powder Lite Jacket Chaqueta  Hombre  Negro  Black   S'
+slug: 'B07JW4SYK4-es Columbia Powder Lite Jacket Chaqueta Hombre Negro Black S'
+tags: chaqueta
 actualPrice: 56.99 EUR
 currency: EUR
 price: 56.99

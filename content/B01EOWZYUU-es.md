@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41KBRsBfOPL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01EOWZYUU-es Helly Hansen Coastal 2 Parka  Hombre  Azul  Marino   M'
+slug: 'B01EOWZYUU-es Helly Hansen Coastal 2 Parka Hombre Azul Marino M'
+tags: parka
 actualPrice: 147.89 EUR
 currency: EUR
 price: 147.89

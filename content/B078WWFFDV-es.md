@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41LScOp5SbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078WWFFDV-es Quiksilver Monkey Abyss  Zapatos de Playa y Piscina para Hombre  Verde  Green/Brown/Black Xgck   44 EU'
+slug: 'B078WWFFDV-es Quiksilver Monkey Abyss Zapatos de Playa y Piscina para...'
+tags: zapatos
 actualPrice: 17.95 EUR
 currency: EUR
 price: 17.95

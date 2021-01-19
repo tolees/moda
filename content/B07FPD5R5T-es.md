@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41QavQW2cXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FPD5R5T-es Timberland 6 Inch Premium Waterproof  Botas para Hombre  marrón  Wheat Nubuck   44 EU'
+slug: 'B07FPD5R5T-es Timberland 6 Inch Premium Waterproof Botas para Hombre...'
+tags: timberland
 actualPrice: 122.51 EUR
 currency: EUR
 price: 122.51

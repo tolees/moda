@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ScPgtMHFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VGRWWCY-es Desigual Back Galaxy Tribeca - Bolso de mano para mujer  15 x 36 x 29 cm  color azul marino'
+slug: 'B07VGRWWCY-es Desigual Back Galaxy Tribeca - Bolso de mano para mujer 15...'
+tags: bolso
 actualPrice: 19.82 EUR
 currency: EUR
 price: 19.82

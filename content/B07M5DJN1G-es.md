@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/310kwKpA7jL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M5DJN1G-es Lee Luke Vaqueros  Vintage Blue HX  33W / 32L para Hombre'
+slug: 'B07M5DJN1G-es Lee Luke Vaqueros Vintage Blue HX 33W / 32L para Hombre'
+tags: vaqueros
 actualPrice: 40.99 EUR
 currency: EUR
 price: 40.99

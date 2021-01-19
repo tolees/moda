@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41cy6Q+ONRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N27G9YQ-es Tommy Hilfiger TJM Essential Textured Sweater Sudadera   Black Iris Twisted Cbk   Small para Hombre'
+slug: 'B07N27G9YQ-es Tommy Hilfiger TJM Essential Textured Sweater Sudadera...'
+tags: sudadera
 actualPrice: 34.35 EUR
 currency: EUR
 price: 34.35

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51tKvDFGSrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01D82QT1A-es URAQT Vestido de Princesa Elsa  Reina Frozen Disfraz Elsa Vestido Infantil Niñas Costume Azul Cosplay de Disney Disfraz de Halloween  Cumpleaños  Carnaval y la Fiesta  100  Azul'
+slug: 'B01D82QT1A-es URAQT Vestido de Princesa Elsa Reina Frozen Disfraz Elsa...'
+tags: vestido
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

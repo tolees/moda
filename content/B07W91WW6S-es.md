@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41wgouQ5nWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W91WW6S-es Tommy Hilfiger Stretch Slim Fit Vneck tee Camiseta Deporte  Azul  Desert Sky/White   X-Large  Talla del Fabricante:  para Hombre'
+slug: 'B07W91WW6S-es Tommy Hilfiger Stretch Slim Fit Vneck tee Camiseta Deporte...'
+tags: camiseta
 actualPrice: 23.95 EUR
 currency: EUR
 price: 23.95

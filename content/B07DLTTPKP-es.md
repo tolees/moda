@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31EV-hI71OL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DLTTPKP-es SAMSONITE Pro-DLX 5 - Rolling Tote for 17.3" Laptop 3.4 KG Bolso de Viaje  48 cm  37.5 Liters  Negro  Black '
+slug: 'B07DLTTPKP-es SAMSONITE Pro-DLX 5 - Rolling Tote for 17.3" Laptop 3.4 KG...'
+tags: bolso
 actualPrice: 272.43 EUR
 currency: EUR
 price: 272.43

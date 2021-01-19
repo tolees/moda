@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413gWiouTzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DJXRSPL-es Geox B Verred a  Sandalias para Bebés  White C1000  27 EU'
+slug: 'B07DJXRSPL-es Geox B Verred a Sandalias para Bebés White C1000 27 EU'
+tags: geox, sandalias
 actualPrice: 27.5 EUR
 currency: EUR
 price: 27.5

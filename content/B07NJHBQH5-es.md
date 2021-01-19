@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41cjRRXzmlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NJHBQH5-es Dolores Promesas 108220 Camiseta  Negro  Negro  Negro 00  000   44  Tamaño del Fabricante:44  Tamaño del Fabricante:44   para Mujer'
+slug: 'B07NJHBQH5-es Dolores Promesas 108220 Camiseta Negro Negro Negro 00 000...'
+tags: camiseta
 actualPrice: 42.84 EUR
 currency: EUR
 price: 42.84

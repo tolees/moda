@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/511fI7uqMcL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PCDF78W-es Wrangler LS Western Shirt Camisa  Negro  Black 100   Small para Hombre'
+slug: 'B07PCDF78W-es Wrangler LS Western Shirt Camisa Negro Black 100 Small...'
+tags: camisa
 actualPrice: 16.13 EUR
 currency: EUR
 price: 16.13

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41EHYaDmQML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DK4P25D-es Geox J Waviness B  Zapatillas para Niños  Azul  Navy/Red C0735   33 EU'
+slug: 'B07DK4P25D-es Geox J Waviness B Zapatillas para Niños Azul Navy/Red...'
+tags: geox
 actualPrice: 27.45 EUR
 currency: EUR
 price: 27.45

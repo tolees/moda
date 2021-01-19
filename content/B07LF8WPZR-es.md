@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31SkL6JmemL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LF8WPZR-es Levi s 511 Slim Fit Vaqueros  Negro Caviar Warp Str Cord Sorbtek Wt B  31W / 32L para Hombre'
+slug: 'B07LF8WPZR-es Levi s 511 Slim Fit Vaqueros Negro Caviar Warp Str Cord...'
+tags: vaqueros
 actualPrice: 53.4 EUR
 currency: EUR
 price: 53.4

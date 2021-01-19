@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416ss7lq1vL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KGC2W6R-es Levi s Innovation Super Skinny Vaqueros  Gris  Freak out Without Damages 0050   W25/L32  Talla del Fabricante: 25 32  para Mujer'
+slug: 'B07KGC2W6R-es Levi s Innovation Super Skinny Vaqueros Gris Freak out...'
+tags: vaqueros
 actualPrice: 36.27 EUR
 currency: EUR
 price: 36.27

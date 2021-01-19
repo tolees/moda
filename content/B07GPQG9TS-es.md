@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41IoUzDpRFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GPQG9TS-es Gritin Clip on Gafas de Sol  [2 Unidades] Gafas de Sol polarizadas UV400 – Ajuste cómodo y Seguro Sobre Gafas de Sol con prescripción  Ideal para conducción y al Aire Libre'
+slug: 'B07GPQG9TS-es Gritin Clip on Gafas de Sol [2 Unidades] Gafas de Sol...'
+tags: gafas
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

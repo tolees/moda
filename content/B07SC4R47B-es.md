@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/515fb4c6vWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SC4R47B-es Helly Hansen Jr Moss Jacket Chaqueta  Unisex niños  Sling White Print  10'
+slug: 'B07SC4R47B-es Helly Hansen Jr Moss Jacket Chaqueta Unisex niños Sling...'
+tags: chaqueta
 actualPrice: 16.2 EUR
 currency: EUR
 price: 16.2

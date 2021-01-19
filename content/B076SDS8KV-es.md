@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51CTCMNMjwL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B076SDS8KV-es find. Camisa con Cuello Alado Mujer  Negro  Black/ivory   40  Talla del fabricante: Medium '
+slug: 'B076SDS8KV-es find. Camisa con Cuello Alado Mujer Negro Black/ivory 40...'
+tags: camisa
 actualPrice: 10.5 EUR
 currency: EUR
 price: 10.5

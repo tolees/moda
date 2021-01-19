@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41UuOeDFkCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081B6MYZ2-es Columbia Lodge Sudadera sin Capucha  Hombre  Gris/Azul  Grey Heather  Azure Blue   S'
+slug: 'B081B6MYZ2-es Columbia Lodge Sudadera sin Capucha Hombre Gris/Azul Grey...'
+tags: sudadera
 actualPrice: 26.95 EUR
 currency: EUR
 price: 26.95

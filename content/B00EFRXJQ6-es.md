@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31j7uaeZXXL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00EFRXJQ6-es Helly Hansen Daybreaker Fleece Jacket Chaqueta  Hombre  Negro  2XL'
+slug: 'B00EFRXJQ6-es Helly Hansen Daybreaker Fleece Jacket Chaqueta Hombre...'
+tags: chaqueta
 actualPrice: 30.9 EUR
 currency: EUR
 price: 30.9

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41iteInhstL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J1TCJ35-es KINTRADE Portatil Lona de Algodón Bolso de Mano Comida Picnic Almuerzo Cosmético Bolsa Color Sólido'
+slug: 'B07J1TCJ35-es KINTRADE Portatil Lona de Algodón Bolso de Mano Comida...'
+tags: bolso
 actualPrice: 5.04 EUR
 currency: EUR
 price: 5.04

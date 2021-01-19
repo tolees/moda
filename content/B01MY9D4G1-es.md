@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ghP-H2YWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MY9D4G1-es B.Catcher Mujer Collar Colgante Plata de Ley 925 con Doble corazón con Para Regalo San Valentín Originales'
+slug: 'B01MY9D4G1-es B.Catcher Mujer Collar Colgante Plata de Ley 925 con Doble...'
+tags: collar
 actualPrice: 14.98 EUR
 currency: EUR
 price: 14.98

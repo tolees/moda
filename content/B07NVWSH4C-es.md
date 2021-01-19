@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41EyK9T-19L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NVWSH4C-es G-STAR RAW Graphic Logo 4 Camiseta  Negro  Medium  Talla del Fabricante:  para Hombre'
+slug: 'B07NVWSH4C-es G-STAR RAW Graphic Logo 4 Camiseta Negro Medium Talla del...'
+tags: camiseta
 actualPrice: 19.49 EUR
 currency: EUR
 price: 19.49

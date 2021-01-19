@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31d6UxwAALL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NDMYPNQ-es G-STAR RAW Stem Round Neck Camiseta  Rosa  Dk Tea Rose A827   Small para Hombre'
+slug: 'B07NDMYPNQ-es G-STAR RAW Stem Round Neck Camiseta Rosa Dk Tea Rose A827...'
+tags: camiseta
 actualPrice: 25.9 EUR
 currency: EUR
 price: 25.9

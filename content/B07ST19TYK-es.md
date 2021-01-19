@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31UPVjxh8AL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ST19TYK-es Quiksilver Monkey Caged  Sandalias de Talón Abierto para Hombre  Negro  Blue/Brown Xbcb   46 EU'
+slug: 'B07ST19TYK-es Quiksilver Monkey Caged Sandalias de Talón Abierto para...'
+tags: sandalias
 actualPrice: 11.41 EUR
 currency: EUR
 price: 11.41

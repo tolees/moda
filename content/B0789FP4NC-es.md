@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41KZWMNjiTL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0789FP4NC-es Under Armour - Camiseta de Tirantes para Mujer con Logotipo de WM  Mujer  1323449-906  Peach Horizon Light Heather/White/Metallic Silver  Large'
+slug: 'B0789FP4NC-es Under Armour - Camiseta de Tirantes para Mujer con...'
+tags: camiseta
 actualPrice: 7.31 EUR
 currency: EUR
 price: 7.31

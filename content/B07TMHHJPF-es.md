@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41iZd3KRYnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TMHHJPF-es Levi s 501 Original Fit Vaqueros  Azul  Key West Waves Tnl 2999   31W / 32L para Hombre'
+slug: 'B07TMHHJPF-es Levi s 501 Original Fit Vaqueros Azul Key West Waves Tnl...'
+tags: vaqueros
 actualPrice: 59.4 EUR
 currency: EUR
 price: 59.4

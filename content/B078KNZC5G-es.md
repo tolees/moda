@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41wCUOUIdqL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B078KNZC5G-es Urban Classics 2-Tone Tech Windrunner Chaqueta  Multicolor  Dark Grey/White 00440   Medium para Hombre'
+slug: 'B078KNZC5G-es Urban Classics 2-Tone Tech Windrunner Chaqueta Multicolor...'
+tags: chaqueta
 actualPrice: 22.83 EUR
 currency: EUR
 price: 22.83

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41w1Fc3kTmL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SBB851Y-es Crocs Crocband Flip  Chanclas Unisex Adulto  Verde  Deep Green/White 3tl   41/42 EU'
+slug: 'B07SBB851Y-es Crocs Crocband Flip Chanclas Unisex Adulto Verde Deep...'
+tags: chanclas
 actualPrice: 17.96 EUR
 currency: EUR
 price: 17.96

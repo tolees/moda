@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41gd2MHLG7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004S63IHY-es Geox J Crush M  Zapatillas para Niños  Negro  BLACKC9999   33 EU'
+slug: 'B004S63IHY-es Geox J Crush M Zapatillas para Niños Negro BLACKC9999 33 EU'
+tags: geox
 actualPrice: 28.82 EUR
 currency: EUR
 price: 28.82

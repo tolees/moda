@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/318eBwb4HFL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KF56DRZ-es Levi s 511 Slim Fit Vaqueros  Durian Od Subtle 3720  32W / 32L para Hombre'
+slug: 'B07KF56DRZ-es Levi s 511 Slim Fit Vaqueros Durian Od Subtle 3720 32W /...'
+tags: vaqueros
 actualPrice: 49.5 EUR
 currency: EUR
 price: 49.5

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412qlJCMW6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z4ZZ2LK-es Carteras de Mano Fiesta para Mujer Elegante Suave Bolsos de Mano de PU Cuero con Asa Cremallera  Grande Clutch Moda Monederos de Boda Noche Bolsa del Teléfono  Negro'
+slug: 'B07Z4ZZ2LK-es Carteras de Mano Fiesta para Mujer Elegante Suave Bolsos...'
+tags: moda
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

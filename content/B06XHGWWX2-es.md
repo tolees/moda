@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41mURbcOAsL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XHGWWX2-es Helly Hansen HH LIFA 1/2 Zip Camiseta Técnica Lana Merino  Hombre  Negro  M'
+slug: 'B06XHGWWX2-es Helly Hansen HH LIFA 1/2 Zip Camiseta Técnica Lana Merino...'
+tags: camiseta
 actualPrice: 43.96 EUR
 currency: EUR
 price: 43.96

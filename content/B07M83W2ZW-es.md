@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41xtBThVLfL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M83W2ZW-es Napapijri K Rainforest 1 Chaqueta  Rosa  Dahlia Pink PA5   4 años para Niños'
+slug: 'B07M83W2ZW-es Napapijri K Rainforest 1 Chaqueta Rosa Dahlia Pink PA5 4...'
+tags: chaqueta
 actualPrice: 76.95 EUR
 currency: EUR
 price: 76.95

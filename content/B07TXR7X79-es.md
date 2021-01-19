@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41MrTPZOZcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TXR7X79-es Wrangler Icons Vaqueros  Blue 3 Years 10K  30W / 34L para Hombre'
+slug: 'B07TXR7X79-es Wrangler Icons Vaqueros Blue 3 Years 10K 30W / 34L para...'
+tags: vaqueros
 actualPrice: 27.0 EUR
 currency: EUR
 price: 27.0

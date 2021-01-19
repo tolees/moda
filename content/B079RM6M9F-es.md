@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31H24mvlNaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079RM6M9F-es Levi s Barstow Western Camisa Vaquera  Negro  Black 0216   X-Small para Hombre'
+slug: 'B079RM6M9F-es Levi s Barstow Western Camisa Vaquera Negro Black 0216...'
+tags: camisa
 actualPrice: 12.9 EUR
 currency: EUR
 price: 12.9

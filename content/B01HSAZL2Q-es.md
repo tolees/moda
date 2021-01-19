@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HSAZL2Q-es Meller - Kubu Tigris Sky - Gafas de sol para hombre y mujer'
+tags: gafas
 actualPrice: 24.0 EUR
 currency: EUR
 price: 24.0

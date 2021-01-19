@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/417WOvD3pIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08FY2WX8M-es Souke Sports - Chaqueta de Ciclismo Hombre Chaqueta Ligera de Invierno MTB Reflectante Transpirabilidad Impermeable Chaqueta de Ropa Deportiva al Aire Libre'
+slug: 'B08FY2WX8M-es Souke Sports - Chaqueta de Ciclismo Hombre Chaqueta Ligera...'
+tags: chaqueta
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

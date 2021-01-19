@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/419LQtbWqtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFYB4ZB-es Geox D ANEEKA E  Botines para Mujer  Marrón  Chestnut C6004   39.5 EU'
+slug: 'B07LFYB4ZB-es Geox D ANEEKA E Botines para Mujer Marrón Chestnut C6004...'
+tags: botines, geox
 actualPrice: 26.47 EUR
 currency: EUR
 price: 26.47

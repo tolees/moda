@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41FAWZkpGTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B016ZKV91M-es Geox Vega S  Sandalias con Punta Abierta para Mujer  Azul  Navy   35 EU'
+slug: 'B016ZKV91M-es Geox Vega S Sandalias con Punta Abierta para Mujer Azul...'
+tags: geox, sandalias
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

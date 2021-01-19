@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31YBtjfFiAL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HMDWF71-es New Look Vaqueros Skinny  Negro  Black   W42 para Hombre'
+slug: 'B07HMDWF71-es New Look Vaqueros Skinny Negro Black W42 para Hombre'
+tags: vaqueros
 actualPrice: 10.17 EUR
 currency: EUR
 price: 10.17

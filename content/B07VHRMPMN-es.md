@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+F1IDwYEL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VHRMPMN-es Esprit 099ee1g043 Abrigo  Gris  Anthracite 010   Small para Mujer'
+slug: 'B07VHRMPMN-es Esprit 099ee1g043 Abrigo Gris Anthracite 010 Small para Mujer'
+tags: abrigo
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

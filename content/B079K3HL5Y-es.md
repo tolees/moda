@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31a-7uPGzkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079K3HL5Y-es Napapijri Rainforest Pocket  Chaqueta para Hombre  Blanco  Bright White 002   Large'
+slug: 'B079K3HL5Y-es Napapijri Rainforest Pocket Chaqueta para Hombre Blanco...'
+tags: chaqueta
 actualPrice: 104.0 EUR
 currency: EUR
 price: 104.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41A6A2fa9wL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QMRGYD8-es TTYAOVO Chicas Arco Iris Unicornio Fancy Vestido Princesa Flor Desfile de Niños Vestidos sin Mangas Volantes Vestido de Fiesta Talla 3-4 Años Rosado'
+slug: 'B07QMRGYD8-es TTYAOVO Chicas Arco Iris Unicornio Fancy Vestido Princesa...'
+tags: vestido
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

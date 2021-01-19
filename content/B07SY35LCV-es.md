@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41P-3NQK6lL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SY35LCV-es Quiksilver Molokai Abyss  Zapatos de Playa y Piscina para Hombre  Multicolor  Red/Blue/Red Xrbr   45 EU'
+slug: 'B07SY35LCV-es Quiksilver Molokai Abyss Zapatos de Playa y Piscina para...'
+tags: zapatos
 actualPrice: 14.0 EUR
 currency: EUR
 price: 14.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31HBuGh-ToL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0799BXFYT-es Marca Amazon - MERAKI Camisa de Vestir de Corte Recto Hombre  Morado  Lilac   XXL  Label: XXL'
+slug: 'B0799BXFYT-es Marca Amazon - MERAKI Camisa de Vestir de Corte Recto...'
+tags: camisa, meraki
 actualPrice: 6.7 EUR
 currency: EUR
 price: 6.7

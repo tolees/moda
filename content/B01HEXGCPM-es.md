@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41W4iC7nCML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HEXGCPM-es Crocs Crocband Clog K  Zuecos con Correa Unisex-Bambini  Grigio  Smoke/Navy   30/31 EU'
+slug: 'B01HEXGCPM-es Crocs Crocband Clog K Zuecos con Correa Unisex-Bambini...'
+tags: zuecos
 actualPrice: 19.2 EUR
 currency: EUR
 price: 19.2

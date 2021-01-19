@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41YOPp39sTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XKBQT8Y-es Skechers Summits  Sandalias Punta Cerrada para Niños  Gris  Grey Mesh/Pink Trim Gypk   38 EU'
+slug: 'B07XKBQT8Y-es Skechers Summits Sandalias Punta Cerrada para Niños Gris...'
+tags: sandalias
 actualPrice: 29.04 EUR
 currency: EUR
 price: 29.04

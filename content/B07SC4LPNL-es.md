@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/317uWFAVoyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SC4LPNL-es Helly Hansen Daybreaker Fleece Jacket Forro Polar Chaqueta  Hombre  Grey Fog  M'
+slug: 'B07SC4LPNL-es Helly Hansen Daybreaker Fleece Jacket Forro Polar Chaqueta...'
+tags: chaqueta
 actualPrice: 40.99 EUR
 currency: EUR
 price: 40.99

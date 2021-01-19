@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/3169lorE19L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FTWKB93-es Lee Scarlett Vaqueros  Azul  Flight Wj   25W / 31L para Mujer'
+slug: 'B07FTWKB93-es Lee Scarlett Vaqueros Azul Flight Wj 25W / 31L para Mujer'
+tags: vaqueros
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

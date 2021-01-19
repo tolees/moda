@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51Xy%2Bngsb-L._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JRGVQ1P-es Zapatillas de Seguridad Hombre  LM-18 Zapatos de Seguridad Antideslizantes con Punta de Acero Antipinchazos Calzados de Trabajo 41.5 EU Gris '
+slug: 'B07JRGVQ1P-es Zapatillas de Seguridad Hombre LM-18 Zapatos de Seguridad...'
+tags: zapatos
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

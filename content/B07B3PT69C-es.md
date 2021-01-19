@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zzeToPbxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B3PT69C-es Dilwe Chaleco táctico  Clip Impermeable para Pistola  Tira de Sangre para la Serie N-Strike Elite de Nerf Guns'
+slug: 'B07B3PT69C-es Dilwe Chaleco táctico Clip Impermeable para Pistola Tira...'
+tags: chaleco
 actualPrice: 8.59 EUR
 currency: EUR
 price: 8.59

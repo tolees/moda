@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41exOxNnyIL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N1HNF5H-es Clarks Un Adorn Lace  Zapatos de Cordones Derby para Mujer  Multicolor  Natural Snake Natural Snake   39.5 EU'
+slug: 'B07N1HNF5H-es Clarks Un Adorn Lace Zapatos de Cordones Derby para Mujer...'
+tags: zapatos
 actualPrice: 33.57 EUR
 currency: EUR
 price: 33.57

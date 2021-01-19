@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41lYy0fjg4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079RSDVM9-es Pepe Jeans Hiddleston PM305474 Camisa  Azul  Indigo 561   Large para Hombre'
+slug: 'B079RSDVM9-es Pepe Jeans Hiddleston PM305474 Camisa Azul Indigo 561...'
+tags: camisa
 actualPrice: 36.73 EUR
 currency: EUR
 price: 36.73

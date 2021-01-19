@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41TOG2IrrpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CVWJCTQ-es MACCIAVELLI - Guantes de Ciclismo | Guantes MTB de Medio Dedo | Adecuado para Ciclismo de Carretera y de Montaña - Guantes para Hombres y Mujeres'
+slug: 'B07CVWJCTQ-es MACCIAVELLI - Guantes de Ciclismo | Guantes MTB de Medio...'
+tags: guantes
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

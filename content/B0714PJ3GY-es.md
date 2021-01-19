@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31fTUuDhfgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0714PJ3GY-es G-STAR RAW 3301 Slim Vaqueros  Dk Aged 6590-89  31W / 38L para Hombre'
+slug: 'B0714PJ3GY-es G-STAR RAW 3301 Slim Vaqueros Dk Aged 6590-89 31W / 38L...'
+tags: vaqueros
 actualPrice: 68.41 EUR
 currency: EUR
 price: 68.41

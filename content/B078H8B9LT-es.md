@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41H1JsmVIeL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B078H8B9LT-es find. Camiseta de Rayas Hombre  Azul  Navy Base And Grey Marl   54  Talla del fabricante: X-Large '
+slug: 'B078H8B9LT-es find. Camiseta de Rayas Hombre Azul Navy Base And Grey...'
+tags: camiseta
 actualPrice: 2.7 EUR
 currency: EUR
 price: 2.7

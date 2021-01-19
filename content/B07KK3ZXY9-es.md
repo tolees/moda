@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51pMMoYInvL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KK3ZXY9-es Columbia Firecamp SLEDDER 3  Zapatos Multideporte Impermeables para Niños  Gris  Monument  Emper 036   26 EU'
+slug: 'B07KK3ZXY9-es Columbia Firecamp SLEDDER 3 Zapatos Multideporte...'
+tags: zapatos
 actualPrice: 18.24 EUR
 currency: EUR
 price: 18.24

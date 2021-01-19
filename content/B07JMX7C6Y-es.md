@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/312iY9LpWCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JMX7C6Y-es Timberland Sprint Trekker Mid  Zapatillas Chukka para Hombre  Negro  Black Full Grain   40 EU'
+slug: 'B07JMX7C6Y-es Timberland Sprint Trekker Mid Zapatillas Chukka para...'
+tags: timberland
 actualPrice: 75.99 EUR
 currency: EUR
 price: 75.99

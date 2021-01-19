@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/415MaCHSa7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M7W0CA1-es Pepe Jeans New Brooke Vaqueros  Azul  10Oz Str 8Dip Royal Dk   25W/34L para Mujer'
+slug: 'B01M7W0CA1-es Pepe Jeans New Brooke Vaqueros Azul 10Oz Str 8Dip Royal Dk...'
+tags: vaqueros
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

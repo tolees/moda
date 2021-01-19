@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/310g8JjyhXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002SNA7WS-es Crocs Crocband Flip  Chanclas Unisex-Adult  Black  41/42 EU'
+slug: 'B002SNA7WS-es Crocs Crocband Flip Chanclas Unisex-Adult Black 41/42 EU'
+tags: chanclas
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

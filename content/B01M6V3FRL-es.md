@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41fCZmsJCuL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M6V3FRL-es Geox D Avery C  Mocasines para Mujer  Beige  LT TAUPEC6738   36 EU'
+slug: 'B01M6V3FRL-es Geox D Avery C Mocasines para Mujer Beige LT TAUPEC6738 36 EU'
+tags: geox
 actualPrice: 29.58 EUR
 currency: EUR
 price: 29.58

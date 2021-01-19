@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31fGuYO9r1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08B1J1WK1-es Pantalón Chándal y Deportivo para Mujer Pantalones de Estilo Libre Largo Suelto Elástico para Corredores Pantalón con Bolsillos y Cordón Ajustable para Deporte Yoga Gimnasio  Negro Rayas  L '
+slug: 'B08B1J1WK1-es Pantalón Chándal y Deportivo para Mujer Pantalones de...'
+tags: pantalón
 actualPrice: 16.89 EUR
 currency: EUR
 price: 16.89

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/3183t4xR9mL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TYW7CVZ-es Wrangler LS 2kt Flap Shirt Camisa  Azul  Directoire Blue Xkl   X-Large para Hombre'
+slug: 'B07TYW7CVZ-es Wrangler LS 2kt Flap Shirt Camisa Azul Directoire Blue Xkl...'
+tags: camisa
 actualPrice: 15.74 EUR
 currency: EUR
 price: 15.74

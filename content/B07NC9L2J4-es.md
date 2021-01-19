@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/315RILeCDtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NC9L2J4-es Pepe Jeans Zip Thru Boys Sudadera  Azul  Navy 595   2 años  Talla del Fabricante: 2  para Niños'
+slug: 'B07NC9L2J4-es Pepe Jeans Zip Thru Boys Sudadera Azul Navy 595 2 años...'
+tags: sudadera
 actualPrice: 20.68 EUR
 currency: EUR
 price: 20.68

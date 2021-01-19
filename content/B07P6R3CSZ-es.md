@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51gRPahVl8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P6R3CSZ-es X-TIGER Hombres Ropa Interior de Bicicleta con 5D Gel Acolchado MTB Boxer Ciclismo Pantalones Cortos'
+slug: 'B07P6R3CSZ-es X-TIGER Hombres Ropa Interior de Bicicleta con 5D Gel...'
+tags: boxer
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41rgNo+0k2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01B7BHAWG-es ATTCL Hombre Gafas de sol Polarizado Al-Mg Metal Super Ligero Marco 18587blue'
+slug: 'B01B7BHAWG-es ATTCL Hombre Gafas de sol Polarizado Al-Mg Metal Super...'
+tags: gafas
 actualPrice: 25.0 EUR
 currency: EUR
 price: 25.0

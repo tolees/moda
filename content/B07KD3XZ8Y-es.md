@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41lhOmKsPFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KD3XZ8Y-es zhi wei Mochila Antirrobo Impermeable Mochila Bolso para Mackbook/Portátil 17 3 Pulgadas Multiusos Daypacks con Puerto de USB Mochila Negro Hombre y Mujer Casual para Escolares Viaje Negocio Trabajo'
+slug: 'B07KD3XZ8Y-es zhi wei Mochila Antirrobo Impermeable Mochila Bolso para...'
+tags: bolso
 actualPrice: 21.96 EUR
 currency: EUR
 price: 21.96

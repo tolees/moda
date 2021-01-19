@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/3114CYrbVcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072KK6VCT-es BOSS Mix & Match T-Shirt R Camiseta  Negro  Black 001   Small para Hombre'
+slug: 'B072KK6VCT-es BOSS Mix & Match T-Shirt R Camiseta Negro Black 001 Small...'
+tags: camiseta
 actualPrice: 17.91 EUR
 currency: EUR
 price: 17.91

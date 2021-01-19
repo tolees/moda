@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31lde1y-mEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KL3LH65-es adidas Essentials Linear Logo tee Camiseta  Hombre  Azul  Legend Ink/White   XL'
+slug: 'B07KL3LH65-es adidas Essentials Linear Logo tee Camiseta Hombre Azul...'
+tags: camiseta
 actualPrice: 13.45 EUR
 currency: EUR
 price: 13.45

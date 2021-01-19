@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/518WmoHNw8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ILT598K-es Bolsos de Mujer  Coofit Bolso Bandolera Bolso Lona Bolso Tote Bolso Shopper'
+slug: 'B00ILT598K-es Bolsos de Mujer Coofit Bolso Bandolera Bolso Lona Bolso...'
+tags: bolso
 actualPrice: 21.89 EUR
 currency: EUR
 price: 21.89

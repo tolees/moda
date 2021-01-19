@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41y4vLkMOdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DXP18FN-es Ocobudbxw Pulseras Coloridas Cuentas de Dados de acrílico Pulseras elásticas Juego Divertido Pulseras de Dados de la Suerte Moda para Mujer Joyas'
+slug: 'B08DXP18FN-es Ocobudbxw Pulseras Coloridas Cuentas de Dados de acrílico...'
+tags: moda
 actualPrice: 6.48 EUR
 currency: EUR
 price: 6.48

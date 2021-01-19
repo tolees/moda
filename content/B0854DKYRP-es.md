@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41gadxQnbiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0854DKYRP-es CheChury Bikini Mujer Moda Conjuntos De Bikini Rayas Talle Alto Retro Brasileños Mujer Sexy Traje De Baño Cuello Halter Strapless Off Shoulder Push-Up Bikini Acolchado Bra'
+slug: 'B0854DKYRP-es CheChury Bikini Mujer Moda Conjuntos De Bikini Rayas Talle...'
+tags: bikini, moda
 actualPrice: 12.28 EUR
 currency: EUR
 price: 12.28

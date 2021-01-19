@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41oLWlDQzPL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BPCJZ6Q-es Hem & Seam Camisa Formal Entallada Hombre  Negro  Black   Medium  Talla del fabricante: Medium 15.5 '
+slug: 'B07BPCJZ6Q-es Hem & Seam Camisa Formal Entallada Hombre Negro Black...'
+tags: camisa
 actualPrice: 14 EUR
 currency: EUR
 price: 14

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/3107DLqDdFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFZY5V7-es Geox D Felicity NP ABX C  Botas Chelsea para Mujer  Marrón  Brown C0013   41 EU'
+slug: 'B07LFZY5V7-es Geox D Felicity NP ABX C Botas Chelsea para Mujer Marrón...'
+tags: geox
 actualPrice: 51.9 EUR
 currency: EUR
 price: 51.9

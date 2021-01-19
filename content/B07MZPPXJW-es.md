@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41AuI+zJzxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZPPXJW-es Pepe Jeans Nastia Sudadera   Verdant 683   X-Small para Mujer'
+slug: 'B07MZPPXJW-es Pepe Jeans Nastia Sudadera Verdant 683 X-Small para Mujer'
+tags: sudadera
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

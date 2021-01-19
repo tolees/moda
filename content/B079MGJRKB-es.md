@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41IR0Cb4OuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079MGJRKB-es Marca Amazon - MERAKI Camiseta Slim Fit de Manga Corta con Cuello de Pico Hombre  Gris  Charcoal Melange   XS  Label: XS'
+slug: 'B079MGJRKB-es Marca Amazon - MERAKI Camiseta Slim Fit de Manga Corta con...'
+tags: camiseta, meraki
 actualPrice: 4.94 EUR
 currency: EUR
 price: 4.94

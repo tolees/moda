@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31nIZ2Jrn1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KF4Y6P4-es Levi s 511 Slim Fit Vaqueros  Rajah Adv 3313  32W / 36L para Hombre'
+slug: 'B07KF4Y6P4-es Levi s 511 Slim Fit Vaqueros Rajah Adv 3313 32W / 36L para...'
+tags: vaqueros
 actualPrice: 66.32 EUR
 currency: EUR
 price: 66.32

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41YPsTSfO0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MXKVRPQ-es Buffalo - 1339-14 2.0 - Zapatos para mujer  Negro  negro   37 EU'
+slug: 'B07MXKVRPQ-es Buffalo - 1339-14 2.0 - Zapatos para mujer Negro negro 37 EU'
+tags: zapatos
 actualPrice: 87.5 EUR
 currency: EUR
 price: 87.5

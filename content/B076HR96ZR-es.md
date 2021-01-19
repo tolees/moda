@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41pH737OYcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076HR96ZR-es adidas PANTALÓN Entrenamiento Core 21 Fútbol  Adolescentes y Ninos  Azul  Dark Blue/White   164'
+slug: 'B076HR96ZR-es adidas PANTALÓN Entrenamiento Core 21 Fútbol Adolescentes...'
+tags: pantalón
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

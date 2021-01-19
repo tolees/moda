@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31iv-PLMXlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N39SBTL-es Desigual Coat Mandala Abrigo   Negro 2000   46  Talla del Fabricante: 44  para Mujer'
+slug: 'B07N39SBTL-es Desigual Coat Mandala Abrigo Negro 2000 46 Talla del...'
+tags: abrigo
 actualPrice: 39.06 EUR
 currency: EUR
 price: 39.06

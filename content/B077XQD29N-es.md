@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31uU-pz+52L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077XQD29N-es Under Armour  UNDKU  Coldgear Armour Camisa De Manga Larga  Hombre  Negro  LG'
+slug: 'B077XQD29N-es Under Armour UNDKU Coldgear Armour Camisa De Manga Larga...'
+tags: camisa
 actualPrice: 24.41 EUR
 currency: EUR
 price: 24.41

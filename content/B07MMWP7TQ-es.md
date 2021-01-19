@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31at-lNo5HL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MMWP7TQ-es Wrangler Graphic Logo tee Camiseta  Blanco  Antique White Xft   X-Large para Hombre'
+slug: 'B07MMWP7TQ-es Wrangler Graphic Logo tee Camiseta Blanco Antique White...'
+tags: camiseta
 actualPrice: 8.8 EUR
 currency: EUR
 price: 8.8

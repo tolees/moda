@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41vKCbzpiBL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TZXVTGC-es Only Onlnaiomi Hooded Jacket CC Otw Chaqueta  Rojo  Merlot Merlot   XS para Mujer'
+slug: 'B07TZXVTGC-es Only Onlnaiomi Hooded Jacket CC Otw Chaqueta Rojo Merlot...'
+tags: chaqueta
 actualPrice: 15.56 EUR
 currency: EUR
 price: 15.56

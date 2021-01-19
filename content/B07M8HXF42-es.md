@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31I3TZQOrUL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M8HXF42-es Only NOS Onlblush Mid SK ANK Raw Colour Jea Noos Vaqueros  Peach Whip  36W / 32L para Mujer'
+slug: 'B07M8HXF42-es Only NOS Onlblush Mid SK ANK Raw Colour Jea Noos Vaqueros...'
+tags: vaqueros
 actualPrice: 10.16 EUR
 currency: EUR
 price: 10.16

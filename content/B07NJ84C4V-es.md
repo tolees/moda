@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41BPvz6RelL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NJ84C4V-es Springfield 4.1.LIC.Dumbo Camiseta  Multicolor  Multicolor 42   Large  Tamaño del Fabricante: L  para Mujer'
+slug: 'B07NJ84C4V-es Springfield 4.1.LIC.Dumbo Camiseta Multicolor Multicolor...'
+tags: camiseta
 actualPrice: 6.61 EUR
 currency: EUR
 price: 6.61

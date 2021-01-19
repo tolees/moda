@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21IeVd40t9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z58QCV1-es Marca Amazon - Find. Sandalias abiertas para mujer Lattice Strap Mule  color Marfil  talla 36 EU'
+slug: 'B07Z58QCV1-es Marca Amazon - Find. Sandalias abiertas para mujer Lattice...'
+tags: sandalias, -, find.
 actualPrice: 6.41 EUR
 currency: EUR
 price: 6.41

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31xKS7JaSIL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077XNVS6L-es Under Armour UA Baseline Coaches Chaqueta  Hombre  Negro/Blanco  L'
+slug: 'B077XNVS6L-es Under Armour UA Baseline Coaches Chaqueta Hombre...'
+tags: chaqueta
 actualPrice: 19.44 EUR
 currency: EUR
 price: 19.44

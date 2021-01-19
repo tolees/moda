@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41de8g3jhuL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B071P3T8YK-es The North Face T93BRK Chaqueta Parka  Mujer  TNF Black  L'
+slug: 'B071P3T8YK-es The North Face T93BRK Chaqueta Parka Mujer TNF Black L'
+tags: chaqueta, parka
 actualPrice: 145.79 EUR
 currency: EUR
 price: 145.79

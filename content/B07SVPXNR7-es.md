@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4181BR9AsLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SVPXNR7-es Geox D NYDAME E  Zapatillas para Mujer  Beige  Sand C5004   40 EU'
+slug: 'B07SVPXNR7-es Geox D NYDAME E Zapatillas para Mujer Beige Sand C5004 40 EU'
+tags: geox
 actualPrice: 23.11 EUR
 currency: EUR
 price: 23.11

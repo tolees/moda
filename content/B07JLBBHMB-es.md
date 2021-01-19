@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31snuYcAsZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JLBBHMB-es Amazon Essentials – Pantalón corto chino con tiro de 8 89 cm para mujer  Azul marino  Navy Gingham   US 14  EU XL '
+slug: 'B07JLBBHMB-es Amazon Essentials – Pantalón corto chino con tiro de 8 89...'
+tags: pantalón
 actualPrice: 5.07 EUR
 currency: EUR
 price: 5.07

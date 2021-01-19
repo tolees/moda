@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41LnA6yFgsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085L89XTP-es MoneRffi Mujeres Sandalias Planas Sandalias Casuales Zapatos de Verano Mujeres Peep Toe Casual Encaje up impresión Sandalias Planas'
+slug: 'B085L89XTP-es MoneRffi Mujeres Sandalias Planas Sandalias Casuales...'
+tags: sandalias, zapatos
 actualPrice: 14.29 EUR
 currency: EUR
 price: 14.29

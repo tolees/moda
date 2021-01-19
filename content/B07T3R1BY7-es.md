@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41A9JOy8iML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T3R1BY7-es NIKE FCB M Nk BRT Stad JSY SS AW - Camiseta de Equipacion para Hombre  Varsity Maize  XL'
+slug: 'B07T3R1BY7-es NIKE FCB M Nk BRT Stad JSY SS AW - Camiseta de Equipacion...'
+tags: camiseta
 actualPrice: 33.56 EUR
 currency: EUR
 price: 33.56

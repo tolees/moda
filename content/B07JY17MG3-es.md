@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31NJ4ZqaDpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JY17MG3-es JACK & JONES Jjiliam Jjoriginal Am 792 50sps Noos Vaqueros Skinny  Azul  Blue Denim Blue Denim   W33/L32  Talla del Fabricante: 33  para Hombre'
+slug: 'B07JY17MG3-es JACK & JONES Jjiliam Jjoriginal Am 792 50sps Noos Vaqueros...'
+tags: vaqueros
 actualPrice: 24.95 EUR
 currency: EUR
 price: 24.95

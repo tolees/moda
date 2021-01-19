@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41nNnOBIoyL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MKWNZNK-es Vestido Unicornio De Niñas Hermosos Apliques de Volantes Disfraz de Fiesta fantástica + Headwear Talla  100  2-3 años Rosa'
+slug: 'B07MKWNZNK-es Vestido Unicornio De Niñas Hermosos Apliques de Volantes...'
+tags: vestido
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

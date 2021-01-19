@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Hsl65JIYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YF91TXS-es Marca Amazon - find. Chaqueta Larga Mujer  Gris  Silver Grey Marl   40  Label: M'
+slug: 'B07YF91TXS-es Marca Amazon - find. Chaqueta Larga Mujer Gris Silver Grey...'
+tags: chaqueta, -, find.
 actualPrice: 13.21 EUR
 currency: EUR
 price: 13.21

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31I9OkKEuNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JCRX89Z-es VERO MODA Vmverodona LS Jacket Noos Abrigo  Rosado  Mocha Mousse Detail:MELANGE   42  Talla del fabricante: Large  para Mujer'
+slug: 'B07JCRX89Z-es VERO MODA Vmverodona LS Jacket Noos Abrigo Rosado Mocha...'
+tags: abrigo, moda
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

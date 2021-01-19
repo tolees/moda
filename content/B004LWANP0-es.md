@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31+RQxZ1l5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004LWANP0-es ALPRO A 630 - Zuecos de material sintético unisex  negro - negro  47 Normal'
+slug: 'B004LWANP0-es ALPRO A 630 - Zuecos de material sintético unisex negro -...'
+tags: zuecos
 actualPrice: 27.0 EUR
 currency: EUR
 price: 27.0

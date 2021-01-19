@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41lLurzaA7L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DFTPHWM-es Calvin Klein Bikini Culotte  Negro  Black 001   36  Talla del Fabricante: X-Small  para Mujer'
+slug: 'B07DFTPHWM-es Calvin Klein Bikini Culotte Negro Black 001 36 Talla del...'
+tags: bikini
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41BD5lJHB2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078SXQLZS-es Timberland Kiri Up Oxford  Zapatillas de Gimnasia para Mujer  Negro  Black Knit   37 EU'
+slug: 'B078SXQLZS-es Timberland Kiri Up Oxford Zapatillas de Gimnasia para...'
+tags: timberland
 actualPrice: 69.67 EUR
 currency: EUR
 price: 69.67

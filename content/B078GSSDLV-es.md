@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BryWLfcNL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B078GSSDLV-es find. Camiseta Estampada NYC 99 Hombre  Blanco  White   52  Talla del fabricante: Large '
+slug: 'B078GSSDLV-es find. Camiseta Estampada NYC 99 Hombre Blanco White 52...'
+tags: camiseta
 actualPrice: 4.2 EUR
 currency: EUR
 price: 4.2

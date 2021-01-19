@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ITK3UfkSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FDFH6R4-es Superdry Orange Label Vntge Emb S/S tee Camiseta  Negro  Black 02A   Large para Hombre'
+slug: 'B07FDFH6R4-es Superdry Orange Label Vntge Emb S/S tee Camiseta Negro...'
+tags: camiseta
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

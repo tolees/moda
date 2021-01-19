@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41uGOhDpy6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0757V7DBT-es Marca Amazon - find. Vaqueros Skinny Hombre  Gris  Grey Wash   31W / 32L  Label: 31W / 32L'
+slug: 'B0757V7DBT-es Marca Amazon - find. Vaqueros Skinny Hombre Gris Grey Wash...'
+tags: vaqueros, -, find.
 actualPrice: 8.0 EUR
 currency: EUR
 price: 8.0

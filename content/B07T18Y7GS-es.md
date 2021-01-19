@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31El0TEOphL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T18Y7GS-es Organizador de Equipaje de Viaje  7 Piezas Impermeables Cubos de lavandería Bolsas de compresión Bolsas Maleta Organizador de artículos de Aseo para Ropa  Zapatos  Ropa Interior  cosméticos  Libros'
+slug: 'B07T18Y7GS-es Organizador de Equipaje de Viaje 7 Piezas Impermeables...'
+tags: zapatos
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

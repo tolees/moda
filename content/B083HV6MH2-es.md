@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31rC2bvCi6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083HV6MH2-es BENNALD Short Deportivo Hombre  Pantalones Cortos Deporte Hombre Pantalón Corto Deportivo Secado Rápido Shorts Core Pants de Tenis Running Fitness Gimnasio Gym Atletismo Verano Negro'
+slug: 'B083HV6MH2-es BENNALD Short Deportivo Hombre Pantalones Cortos Deporte...'
+tags: pantalón
 actualPrice: 14.59 EUR
 currency: EUR
 price: 14.59

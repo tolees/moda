@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31zuESdvhPL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00PA3Z8NQ-es Mercedes-Benz Sonnenbrille M1035 Gafas de sol  Dorado  Gold   59.0 para Hombre'
+slug: 'B00PA3Z8NQ-es Mercedes-Benz Sonnenbrille M1035 Gafas de sol Dorado Gold...'
+tags: gafas
 actualPrice: 31.31 EUR
 currency: EUR
 price: 31.31

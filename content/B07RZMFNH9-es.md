@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41tQdOM80OL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RZMFNH9-es Esprit 089ee1i002 Chaqueta Punto  Gris  Gunmetal 5 019   Small para Mujer'
+slug: 'B07RZMFNH9-es Esprit 089ee1i002 Chaqueta Punto Gris Gunmetal 5 019 Small...'
+tags: chaqueta
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

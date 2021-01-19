@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41wTbaXDFjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CS88XRP-es Pepe Jeans Michelle Camiseta   Off White 803   Medium para Mujer'
+slug: 'B07CS88XRP-es Pepe Jeans Michelle Camiseta Off White 803 Medium para Mujer'
+tags: camiseta
 actualPrice: 19.15 EUR
 currency: EUR
 price: 19.15

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31gzn83iSIL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0792JWYKR-es Geox JR Agata D  Zapatos de Cordones Brogue para Niñas  Negro  Black C9999   31 EU'
+slug: 'B0792JWYKR-es Geox JR Agata D Zapatos de Cordones Brogue para Niñas...'
+tags: geox, zapatos
 actualPrice: 15.26 EUR
 currency: EUR
 price: 15.26

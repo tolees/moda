@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31v-hhtvarL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MQEBCX8-es Levi s 511 Slim Fit Vaqueros  Nightshine X  32W / 32L para Hombre'
+slug: 'B01MQEBCX8-es Levi s 511 Slim Fit Vaqueros Nightshine X 32W / 32L para...'
+tags: vaqueros
 actualPrice: 48.99 EUR
 currency: EUR
 price: 48.99

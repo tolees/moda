@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51K3MEetwwL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T6RLP85-es Elegantpark FL Diseño de gotitas de agua Clips de zapatos Joyas Decoraciones Encantos Accesorios para banquetes de boda Blush 2 piezas'
+slug: 'B07T6RLP85-es Elegantpark FL Diseño de gotitas de agua Clips de zapatos...'
+tags: zapatos
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

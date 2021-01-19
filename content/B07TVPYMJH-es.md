@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/419ZYXMnkfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TVPYMJH-es Kipling Arto S  Bolso bandolera para Mujer  Azul  Wave Blue   25x21x3 cm'
+slug: 'B07TVPYMJH-es Kipling Arto S Bolso bandolera para Mujer Azul Wave Blue...'
+tags: bolso
 actualPrice: 37.03 EUR
 currency: EUR
 price: 37.03

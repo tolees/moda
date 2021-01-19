@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31oeECFENFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01A6LTOGS-es Crocs Classic Lined Clog  Zuecos Unisex Adulto  Negro  Black/Black   45/46 EU'
+slug: 'B01A6LTOGS-es Crocs Classic Lined Clog Zuecos Unisex Adulto Negro...'
+tags: zuecos
 actualPrice: 29.58 EUR
 currency: EUR
 price: 29.58

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416UaZt3uXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01GRJP1SS-es Columbia Techsun™ Vent  Sandalias para Niñas  Gris  Tradewinds Grey  White Violet   34 EU'
+slug: 'B01GRJP1SS-es Columbia Techsun™ Vent Sandalias para Niñas Gris...'
+tags: sandalias
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

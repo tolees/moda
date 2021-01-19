@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41nN2bLVfcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084LDXKYK-es Syllana 2 PCS Bolsa de Lavadora para Zapatos  Bolsa de Lavandería para Zapatillas  Bolsa Lavado de Malla con Cremallera de Color Negro  Multiuso Bolsa de Colada para Lavar  Proteger y Organizar'
+slug: 'B084LDXKYK-es Syllana 2 PCS Bolsa de Lavadora para Zapatos Bolsa de...'
+tags: zapatos
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

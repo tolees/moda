@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41EntacVjNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VLHTG39-es Calvin Klein Braguita de Bikini  Blanco  White 100    Talla del Fabricante: Small  para Mujer'
+slug: 'B07VLHTG39-es Calvin Klein Braguita de Bikini Blanco White 100 Talla del...'
+tags: bikini
 actualPrice: 11.75 EUR
 currency: EUR
 price: 11.75

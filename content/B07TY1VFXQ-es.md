@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31SzNIEESYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TY1VFXQ-es K-WAY Claudette Abrigo  Gris  Grey Lt Lead 343   104  Talla del Fabricante: 4Y  para Niñas'
+slug: 'B07TY1VFXQ-es K-WAY Claudette Abrigo Gris Grey Lt Lead 343 104 Talla del...'
+tags: abrigo
 actualPrice: 43.14 EUR
 currency: EUR
 price: 43.14

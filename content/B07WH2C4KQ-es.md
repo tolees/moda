@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51NLsxAsW0L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WH2C4KQ-es Botines Impermeables Hombre Mujer Botas de Nieve Botines Zapatos Senderismo Impermeables Deportes Trekking Zapatos Fur Forro Aire Libre Boots Mishansha Amarillo 42 EU'
+slug: 'B07WH2C4KQ-es Botines Impermeables Hombre Mujer Botas de Nieve Botines...'
+tags: botines, zapatos
 actualPrice: 28.79 EUR
 currency: EUR
 price: 28.79

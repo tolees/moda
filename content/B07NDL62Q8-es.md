@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41SAdHPZueL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NDL62Q8-es G-STAR RAW Remi Boyfriend Blusa  Rosa  Dk Tea Rose A827   X-Large para Mujer'
+slug: 'B07NDL62Q8-es G-STAR RAW Remi Boyfriend Blusa Rosa Dk Tea Rose A827...'
+tags: blusa
 actualPrice: 24.47 EUR
 currency: EUR
 price: 24.47

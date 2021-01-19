@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41cVqkUohRL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0198WK4RY-es Timberland Kenniston 6 Inch Lace Up  Botas para Mujer  Amarillo  Wheat Nubuck   36 EU'
+slug: 'B0198WK4RY-es Timberland Kenniston 6 Inch Lace Up Botas para Mujer...'
+tags: timberland
 actualPrice: 66.49 EUR
 currency: EUR
 price: 66.49

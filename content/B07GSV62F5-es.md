@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Du4iSri8L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GSV62F5-es SKYSPER 3 Pares Calcetines de Deporte Deportivos para Hombre Mujer Unisex Bacteriostáticos Casual Zapatilla Antideslizantes Transpirables Medias para Ciclismo Fitness Tenis Correr Uso Diario Yoga'
+slug: 'B07GSV62F5-es SKYSPER 3 Pares Calcetines de Deporte Deportivos para...'
+tags: zapatilla
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31plAvOLCqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TQTY7Y5-es Superdry Collective Track Top Sudadera  Negro  Black 02a   XS para Hombre'
+slug: 'B07TQTY7Y5-es Superdry Collective Track Top Sudadera Negro Black 02a XS...'
+tags: sudadera
 actualPrice: 21.84 EUR
 currency: EUR
 price: 21.84

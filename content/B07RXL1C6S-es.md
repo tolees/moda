@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41XStKDp-XL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RXL1C6S-es Levi s Relaxed Graphic tee Camiseta  Gris  90 s Serif Logo Forged Iron 0045   XX-Large para Hombre'
+slug: 'B07RXL1C6S-es Levi s Relaxed Graphic tee Camiseta Gris 90 s Serif Logo...'
+tags: camiseta
 actualPrice: 12.5 EUR
 currency: EUR
 price: 12.5

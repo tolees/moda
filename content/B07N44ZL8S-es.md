@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31W8fe7syUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N44ZL8S-es Desigual Dress Melissa Vestido   Negro 2000   M para Mujer'
+slug: 'B07N44ZL8S-es Desigual Dress Melissa Vestido Negro 2000 M para Mujer'
+tags: vestido
 actualPrice: 48.99 EUR
 currency: EUR
 price: 48.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31B8UbndPgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00FWSZHBC-es Calvin Klein 3p Trunk Bóxer  Negro  Black/White/Grey Heather 998   S  Pack de 3  para Hombre'
+slug: 'B00FWSZHBC-es Calvin Klein 3p Trunk Bóxer Negro Black/White/Grey Heather...'
+tags: bóxer
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

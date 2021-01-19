@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/411K13EQ+dL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D85L8VZ-es Dickies Belspring Chaqueta  Marrón  Medium  Talla del Fabricante:  para Hombre'
+slug: 'B07D85L8VZ-es Dickies Belspring Chaqueta Marrón Medium Talla del...'
+tags: chaqueta
 actualPrice: 37.9 EUR
 currency: EUR
 price: 37.9

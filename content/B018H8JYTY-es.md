@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41tHVZR0pJL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B018H8JYTY-es Pepe Jeans Venus Vaqueros  Azul  10Oz Str American Blue Lt D26   30W / 30L para Mujer'
+slug: 'B018H8JYTY-es Pepe Jeans Venus Vaqueros Azul 10Oz Str American Blue Lt...'
+tags: vaqueros
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

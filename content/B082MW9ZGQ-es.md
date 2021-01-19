@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/312LnG21x6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082MW9ZGQ-es Iris & Lilly Braga de Bikini de Algodón Mujer  Pack de 10  Multicolor  Night Sky/White/Zen Blue .  M  Label: M'
+slug: 'B082MW9ZGQ-es Iris & Lilly Braga de Bikini de Algodón Mujer Pack de 10...'
+tags: bikini, iris, &, lilly
 actualPrice: 18.71 EUR
 currency: EUR
 price: 18.71

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31oqCO8czKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P3KG1ZB-es Superdry Vintage Logo Racer tee Camiseta  Verde  Green 10e   M para Hombre'
+slug: 'B07P3KG1ZB-es Superdry Vintage Logo Racer tee Camiseta Verde Green 10e M...'
+tags: camiseta
 actualPrice: 18.49 EUR
 currency: EUR
 price: 18.49

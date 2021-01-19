@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41LHO7eNAvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06WRQXJG1-es Lacoste TH6709  Camiseta para Hombre  Blanco  Blanc   S  Talla del fabricante: 3 '
+slug: 'B06WRQXJG1-es Lacoste TH6709 Camiseta para Hombre Blanco Blanc S Talla...'
+tags: camiseta
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

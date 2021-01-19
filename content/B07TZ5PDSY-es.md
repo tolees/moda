@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31hmNGFYWuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TZ5PDSY-es Lee Rider Vaqueros Slim  Azul  Light Sitka Jx   W28/L34  Talla del Fabricante: 28/34  para Hombre'
+slug: 'B07TZ5PDSY-es Lee Rider Vaqueros Slim Azul Light Sitka Jx W28/L34 Talla...'
+tags: vaqueros
 actualPrice: 16.63 EUR
 currency: EUR
 price: 16.63

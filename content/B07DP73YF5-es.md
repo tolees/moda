@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zEjc4bM3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DP73YF5-es Eastpak The One Bolso bandolera  21 cm  2.5 L  Azul  Triple Denim '
+slug: 'B07DP73YF5-es Eastpak The One Bolso bandolera 21 cm 2.5 L Azul Triple Denim'
+tags: bolso
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

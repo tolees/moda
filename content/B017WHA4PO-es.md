@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Iw0QDqKUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B017WHA4PO-es Columbia Flashback  Chaqueta cortavientos  Hombre  Negro  Black   S'
+slug: 'B017WHA4PO-es Columbia Flashback Chaqueta cortavientos Hombre Negro Black S'
+tags: chaqueta
 actualPrice: 33.98 EUR
 currency: EUR
 price: 33.98

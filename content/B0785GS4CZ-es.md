@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41vcQq2uN7L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0785GS4CZ-es Gregster Bauna  Zapatos de Low Rise Senderismo para Hombre  Negro  Schwarz   46 EU'
+slug: 'B0785GS4CZ-es Gregster Bauna Zapatos de Low Rise Senderismo para Hombre...'
+tags: zapatos
 actualPrice: 11.89 EUR
 currency: EUR
 price: 11.89

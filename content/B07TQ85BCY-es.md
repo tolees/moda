@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41WBozLJuuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TQ85BCY-es Superdry Desert Alchemy Fuji Chaqueta  Amarillo  Autumn Ochre Dq7   XL para Hombre'
+slug: 'B07TQ85BCY-es Superdry Desert Alchemy Fuji Chaqueta Amarillo Autumn...'
+tags: chaqueta
 actualPrice: 35.54 EUR
 currency: EUR
 price: 35.54

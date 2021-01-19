@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41OjyCAOTnL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R9D6MTL-es Helly Hansen Majestic Warm Aislado Chaqueta de Esquí  Mujer  Navy  M'
+slug: 'B07R9D6MTL-es Helly Hansen Majestic Warm Aislado Chaqueta de Esquí Mujer...'
+tags: chaqueta
 actualPrice: 201.99 EUR
 currency: EUR
 price: 201.99

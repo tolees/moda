@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31LE22LISNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CN34MDD-es Crocs Crocband Flip U  Chanclas para Mujer  Rosa  Melon/White 6kp   39/40 EU'
+slug: 'B07CN34MDD-es Crocs Crocband Flip U Chanclas para Mujer Rosa Melon/White...'
+tags: chanclas
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

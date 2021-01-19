@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31HwoZge38L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YBHBDM9-es Vans Colorblock tee Camiseta  Multicolor  Black/White Y28   X-Small para Hombre'
+slug: 'B07YBHBDM9-es Vans Colorblock tee Camiseta Multicolor Black/White Y28...'
+tags: camiseta
 actualPrice: 14.49 EUR
 currency: EUR
 price: 14.49

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51UJpOdsaSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01B1FD42I-es Bluelover Cebolla Goggles Gafas Rebanar Cocina Corte Picar Picado Ojo Proteja Cebolla Gafas'
+slug: 'B01B1FD42I-es Bluelover Cebolla Goggles Gafas Rebanar Cocina Corte Picar...'
+tags: gafas
 actualPrice: 6.69 EUR
 currency: EUR
 price: 6.69

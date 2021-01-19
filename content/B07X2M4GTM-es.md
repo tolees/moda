@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41MnTKz36xL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X2M4GTM-es Dickies Sacramento Relaxed Long Sleeve Shirt Camisa  Rojo Red RDX  X-Large para Hombre'
+slug: 'B07X2M4GTM-es Dickies Sacramento Relaxed Long Sleeve Shirt Camisa Rojo...'
+tags: camisa
 actualPrice: 25.84 EUR
 currency: EUR
 price: 25.84

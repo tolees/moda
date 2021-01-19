@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BKYZNZJ-es Slazenger Hombres Zapatos de Lona Golf'
+tags: zapatos
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

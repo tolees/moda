@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31KrDdDhI6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00M7FR7Q6-es Pepe Jeans Venus Vaqueros  Azul  10Oz Stretch Ultra Dk H062   24W / 30L para Mujer'
+slug: 'B00M7FR7Q6-es Pepe Jeans Venus Vaqueros Azul 10Oz Stretch Ultra Dk H062...'
+tags: vaqueros
 actualPrice: 46.99 EUR
 currency: EUR
 price: 46.99

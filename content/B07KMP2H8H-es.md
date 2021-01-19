@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31XCd5e4F1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KMP2H8H-es find. Leather Round Toe Block Heel Court Zapatos de Tacón  Negro Black  37 EU'
+slug: 'B07KMP2H8H-es find. Leather Round Toe Block Heel Court Zapatos de Tacón...'
+tags: zapatos
 actualPrice: 16.62 EUR
 currency: EUR
 price: 16.62

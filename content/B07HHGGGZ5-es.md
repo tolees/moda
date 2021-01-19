@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Qz55gOmlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HHGGGZ5-es Camper Balloon  Sandalias de Talón Abierto para Mujer  Rojo  Medium Red 610   40 EU'
+slug: 'B07HHGGGZ5-es Camper Balloon Sandalias de Talón Abierto para Mujer Rojo...'
+tags: sandalias
 actualPrice: 76.67 EUR
 currency: EUR
 price: 76.67

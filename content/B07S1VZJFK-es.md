@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/315pLsgGOqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S1VZJFK-es BOSS Wetech Sudadera  Azul  Dark Blue 404   X-Large para Hombre'
+slug: 'B07S1VZJFK-es BOSS Wetech Sudadera Azul Dark Blue 404 X-Large para Hombre'
+tags: sudadera
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

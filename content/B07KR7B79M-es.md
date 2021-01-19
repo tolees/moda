@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/319KIAVN+QL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KR7B79M-es Under Armour Sportstyle Logo LS Camiseta  Hombre  Blanco  White/Black 100   L'
+slug: 'B07KR7B79M-es Under Armour Sportstyle Logo LS Camiseta Hombre Blanco...'
+tags: camiseta
 actualPrice: 21.4 EUR
 currency: EUR
 price: 21.4

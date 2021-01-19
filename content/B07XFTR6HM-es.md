@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Vr8fmYJdL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XFTR6HM-es ESPRIT Collection 109eo1g002 Abrigo  Negro  Black 001   Large para Mujer'
+slug: 'B07XFTR6HM-es ESPRIT Collection 109eo1g002 Abrigo Negro Black 001 Large...'
+tags: abrigo
 actualPrice: 62.99 EUR
 currency: EUR
 price: 62.99

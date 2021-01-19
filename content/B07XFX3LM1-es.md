@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31opDV9njoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XFX3LM1-es Puma Amplified tee Camiseta de Manga Corta  Hombre  Blanco White  XL'
+slug: 'B07XFX3LM1-es Puma Amplified tee Camiseta de Manga Corta Hombre Blanco...'
+tags: camiseta
 actualPrice: 18.98 EUR
 currency: EUR
 price: 18.98

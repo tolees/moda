@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41C7kyAEkxL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N19L5KP-es Lee Chunky Crew Neck Sudadera  Verde  Dk Bottle Green BB   X-Large para Hombre'
+slug: 'B07N19L5KP-es Lee Chunky Crew Neck Sudadera Verde Dk Bottle Green BB...'
+tags: sudadera
 actualPrice: 18.19 EUR
 currency: EUR
 price: 18.19

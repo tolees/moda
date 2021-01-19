@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/310AQ1f-pPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KZIPCU0-es SOLS - Camiseta básica de Manga Corta Modelo Regent Unisex Niños Niñas - Deportes/Gimnasia/Correr  12 años   Blanco '
+slug: 'B00KZIPCU0-es SOLS - Camiseta básica de Manga Corta Modelo Regent Unisex...'
+tags: camiseta
 actualPrice: 3.45 EUR
 currency: EUR
 price: 3.45

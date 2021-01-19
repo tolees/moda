@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41uvlI2nROL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073S9YRY8-es GANT Stretch Oxford Banker Shirt Camisa  Azul  Nautical Blue   8  Talla del Fabricante: 34  para Mujer'
+slug: 'B073S9YRY8-es GANT Stretch Oxford Banker Shirt Camisa Azul Nautical Blue...'
+tags: camisa
 actualPrice: 44.95 EUR
 currency: EUR
 price: 44.95

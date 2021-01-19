@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414iru+CP5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GKPV5SD-es Levi s Big and Tall B&t Graphic tee Camiseta  Blanco  Hm Big White 0000   XX-Large para Hombre'
+slug: 'B07GKPV5SD-es Levi s Big and Tall B&t Graphic tee Camiseta Blanco Hm Big...'
+tags: camiseta
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

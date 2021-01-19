@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31UgvlD6D7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000K9YUSY-es Birkenstock 51791 - Sandalias con hebilla unisex  Negro  42  normal '
+slug: 'B000K9YUSY-es Birkenstock 51791 - Sandalias con hebilla unisex Negro 42...'
+tags: sandalias
 actualPrice: 53.12 EUR
 currency: EUR
 price: 53.12

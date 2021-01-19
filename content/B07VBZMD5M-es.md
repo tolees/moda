@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41nX7xNvjmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VBZMD5M-es Marca Amazon - Iris & Lilly Bralette de Rejilla Mujer  Rojo  Scooter   S  Label: S'
+slug: 'B07VBZMD5M-es Marca Amazon - Iris & Lilly Bralette de Rejilla Mujer Rojo...'
+tags: iris, &, lilly
 actualPrice: 8.61 EUR
 currency: EUR
 price: 8.61

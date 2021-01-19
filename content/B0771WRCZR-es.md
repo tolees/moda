@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zHZCQl5IL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0771WRCZR-es Art Mykonos  Sandalias con Punta Abierta para Mujer  Marrón  Cuero Cuero   39 EU'
+slug: 'B0771WRCZR-es Art Mykonos Sandalias con Punta Abierta para Mujer Marrón...'
+tags: sandalias
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

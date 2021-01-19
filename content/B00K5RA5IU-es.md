@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41dxb4gorRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00K5RA5IU-es Tommy Hilfiger 3p Trunk Bóxer  Negro  Black 990   Large  Pack de 3  para Hombre'
+slug: 'B00K5RA5IU-es Tommy Hilfiger 3p Trunk Bóxer Negro Black 990 Large Pack...'
+tags: bóxer
 actualPrice: 23.8 EUR
 currency: EUR
 price: 23.8

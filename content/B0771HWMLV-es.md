@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/514UlqwSlNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0771HWMLV-es Landove Estampado de animales de manga larga pijama conjunto para Bebé-Niñas 12 - 18 meses bebè'
+slug: 'B0771HWMLV-es Landove Estampado de animales de manga larga pijama...'
+tags: pijama
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

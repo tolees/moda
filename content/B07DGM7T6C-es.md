@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41NzKe8IVVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DGM7T6C-es Timberland Davis Square Leather Chukka  Botas Unisex-Niños  Azul  Navy Nubuck   22 EU'
+slug: 'B07DGM7T6C-es Timberland Davis Square Leather Chukka Botas Unisex-Niños...'
+tags: timberland
 actualPrice: 22.07 EUR
 currency: EUR
 price: 22.07

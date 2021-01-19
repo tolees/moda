@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41D1ueuc2UL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TM131KK-es Lacoste Pack De 2 Boxer Courts  Multicolor  Blanc/Pin Yn6   Medium Hombre'
+slug: 'B07TM131KK-es Lacoste Pack De 2 Boxer Courts Multicolor Blanc/Pin Yn6...'
+tags: boxer
 actualPrice: 25.0 EUR
 currency: EUR
 price: 25.0

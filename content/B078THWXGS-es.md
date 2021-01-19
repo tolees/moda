@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/318Yyndxw9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078THWXGS-es Puma Liga CR H Camiseta de Manga Corta  Hombre  Morado  Prism Violet White   S'
+slug: 'B078THWXGS-es Puma Liga CR H Camiseta de Manga Corta Hombre Morado Prism...'
+tags: camiseta
 actualPrice: 11.66 EUR
 currency: EUR
 price: 11.66

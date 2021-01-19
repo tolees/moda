@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416qK5oI3wL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N199LWQ-es G-STAR RAW 3301 High Waist Straight 90 s Ankle Vaqueros  Negro  Authentic Black 9873-A811   28W / 30L para Mujer'
+slug: 'B07N199LWQ-es G-STAR RAW 3301 High Waist Straight 90 s Ankle Vaqueros...'
+tags: vaqueros
 actualPrice: 24.84 EUR
 currency: EUR
 price: 24.84

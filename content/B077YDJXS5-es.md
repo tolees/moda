@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zRpJ8apeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077YDJXS5-es HIKARO Sudadera Hombre  Rojo  Red   52  Talla del fabricante: Large '
+slug: 'B077YDJXS5-es HIKARO Sudadera Hombre Rojo Red 52 Talla del fabricante:...'
+tags: sudadera
 actualPrice: 10.93 EUR
 currency: EUR
 price: 10.93

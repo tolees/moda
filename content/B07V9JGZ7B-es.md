@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Psnflgx6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V9JGZ7B-es Calvin Klein Center Monogram Box Slim tee Camiseta  Gris  Mid Grey Heather P2f   Small para Hombre'
+slug: 'B07V9JGZ7B-es Calvin Klein Center Monogram Box Slim tee Camiseta Gris...'
+tags: camiseta
 actualPrice: 17.95 EUR
 currency: EUR
 price: 17.95

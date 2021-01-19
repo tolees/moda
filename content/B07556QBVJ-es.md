@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Pm+EL4CrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07556QBVJ-es Salomon Camiseta deportiva de manga corta  AGILE SS  tejido de doble punto  negro  hombre  talla: M  l40209900'
+slug: 'B07556QBVJ-es Salomon Camiseta deportiva de manga corta AGILE SS tejido...'
+tags: camiseta
 actualPrice: 17.5 EUR
 currency: EUR
 price: 17.5

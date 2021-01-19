@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ILmdOQxVL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N39HX8W-es Desigual Coat Cassidy Abrigo  Azul  Navy 5000   40  Talla del Fabricante: 38  para Mujer'
+slug: 'B07N39HX8W-es Desigual Coat Cassidy Abrigo Azul Navy 5000 40 Talla del...'
+tags: abrigo
 actualPrice: 44.1 EUR
 currency: EUR
 price: 44.1

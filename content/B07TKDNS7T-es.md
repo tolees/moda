@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51jKmn7ygHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TKDNS7T-es Levi s Sunset 1 Pkt Slim Camisa  Negro  Antonio Mineral Black 0013   Small para Hombre'
+slug: 'B07TKDNS7T-es Levi s Sunset 1 Pkt Slim Camisa Negro Antonio Mineral...'
+tags: camisa
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

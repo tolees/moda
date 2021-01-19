@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41KBx9G0s0L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N19BYH1-es Lee Hoodie SWS  Sudadera para Hombre  Rojo  Warp Red Kg   XX-Large'
+slug: 'B07N19BYH1-es Lee Hoodie SWS Sudadera para Hombre Rojo Warp Red Kg XX-Large'
+tags: sudadera
 actualPrice: 21.97 EUR
 currency: EUR
 price: 21.97

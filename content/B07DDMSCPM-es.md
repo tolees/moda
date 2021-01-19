@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/414gUuaWfpL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DDMSCPM-es Odlo Suw Crew Neck Active Originals  Camiseta Bebé-Niños  Azul  Diving Navy Mit Placed Print 20288   92'
+slug: 'B07DDMSCPM-es Odlo Suw Crew Neck Active Originals Camiseta Bebé-Niños...'
+tags: camiseta
 actualPrice: 13.29 EUR
 currency: EUR
 price: 13.29

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+xOS1I8dL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M7NRRD8-es Helly Hansen Hp Atlantic Fz Hoodie  Sudadera para Hombre  Gris  Gris Oscuro 980   XX-Large'
+slug: 'B07M7NRRD8-es Helly Hansen Hp Atlantic Fz Hoodie Sudadera para Hombre...'
+tags: sudadera
 actualPrice: 53.5 EUR
 currency: EUR
 price: 53.5

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Xc83aWESL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NJ8C6DQ-es Springfield 4.2.Pc. Midi Nudo Vestido  Multicolor  Multicolor 78   38  Tamaño del Fabricante: 38  para Mujer'
+slug: 'B07NJ8C6DQ-es Springfield 4.2.Pc. Midi Nudo Vestido Multicolor...'
+tags: vestido
 actualPrice: 9.46 EUR
 currency: EUR
 price: 9.46

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41TWA3AQWUL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0772KHTXT-es MERAKI POETME003 Pantalones Cortos  Azul  Cashmere Blue   W34'
+slug: 'B0772KHTXT-es MERAKI POETME003 Pantalones Cortos Azul Cashmere Blue W34'
+tags: meraki
 actualPrice: 6.6 EUR
 currency: EUR
 price: 6.6

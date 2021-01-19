@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/410783g6qpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YNSPV7D-es Charles Wilson Calzoncillo Bóxer de Hombre 6 Unidades  Medium  Black  1019  '
+slug: 'B07YNSPV7D-es Charles Wilson Calzoncillo Bóxer de Hombre 6 Unidades...'
+tags: bóxer
 actualPrice: 13.95 EUR
 currency: EUR
 price: 13.95

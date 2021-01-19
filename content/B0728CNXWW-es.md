@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Gs1SPWmLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0728CNXWW-es Crocs Crocband II Sandal PS K  Sandalias Unisex Niños  Rosa  Paradise Pink/Carnation   33/34 EU'
+slug: 'B0728CNXWW-es Crocs Crocband II Sandal PS K Sandalias Unisex Niños Rosa...'
+tags: sandalias
 actualPrice: 19.6 EUR
 currency: EUR
 price: 19.6

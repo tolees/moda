@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41x0g0emfqL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MVHZ1NN-es Kipling New S  Bolso Shopper para Mujer  Morado  Dark Plum   42x27x13 centimeters  B x H x T '
+slug: 'B07MVHZ1NN-es Kipling New S Bolso Shopper para Mujer Morado Dark Plum...'
+tags: bolso
 actualPrice: 37.5 EUR
 currency: EUR
 price: 37.5

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51uurOo%2Bx6L._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TWZHBZ9-es Axcone Zapatillas Hombres Mujer Deporte Running Zapatos para Correr Gimnasio Sneakers Deportivas Padel Transpirables Casual 8995 BU 43EU'
+slug: 'B07TWZHBZ9-es Axcone Zapatillas Hombres Mujer Deporte Running Zapatos...'
+tags: zapatos
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

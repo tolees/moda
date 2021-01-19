@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41j56QEJ7GL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V8KWM9R-es Calvin Klein Instit Chest Logo Mock Neck Sudadera  Gris  Mid Grey Heather P2f   X-Large para Hombre'
+slug: 'B07V8KWM9R-es Calvin Klein Instit Chest Logo Mock Neck Sudadera Gris Mid...'
+tags: sudadera
 actualPrice: 49.07 EUR
 currency: EUR
 price: 49.07

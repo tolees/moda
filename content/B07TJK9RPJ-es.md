@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31YQ2C-hcXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TJK9RPJ-es Clarks Sunder Cross  Sandalias Punta Cerrada para Hombre  Marrón  British Tan Lea British Tan Lea   40 EU'
+slug: 'B07TJK9RPJ-es Clarks Sunder Cross Sandalias Punta Cerrada para Hombre...'
+tags: sandalias
 actualPrice: 48.46 EUR
 currency: EUR
 price: 48.46

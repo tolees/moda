@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41E12wenCOL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MMWPBNT-es Wrangler Trucker Jacket Chaqueta   Pine G01   X-Large para Hombre'
+slug: 'B07MMWPBNT-es Wrangler Trucker Jacket Chaqueta Pine G01 X-Large para Hombre'
+tags: chaqueta
 actualPrice: 90.99 EUR
 currency: EUR
 price: 90.99

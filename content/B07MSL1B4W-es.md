@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41BMDVdXMFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MSL1B4W-es Geox D BACKSIE B ABX C  Botas de Nieve para Mujer  Beige  Chestnut C6004   41 EU'
+slug: 'B07MSL1B4W-es Geox D BACKSIE B ABX C Botas de Nieve para Mujer Beige...'
+tags: geox
 actualPrice: 25.39 EUR
 currency: EUR
 price: 25.39

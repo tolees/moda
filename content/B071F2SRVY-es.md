@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Bhvaz0ffL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071F2SRVY-es Lacoste TH6710 Camiseta  Rojo  Rouge   XXX-Large  Talla del Fabricante: 8  para Hombre'
+slug: 'B071F2SRVY-es Lacoste TH6710 Camiseta Rojo Rouge XXX-Large Talla del...'
+tags: camiseta
 actualPrice: 19.72 EUR
 currency: EUR
 price: 19.72

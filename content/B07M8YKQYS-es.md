@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/411HzMoqrqL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M8YKQYS-es Geox M Dereck B Abrigo  Azul  Blue Nights F4386   XX-Large  Talla del Fabricante: 56  para Hombre'
+slug: 'B07M8YKQYS-es Geox M Dereck B Abrigo Azul Blue Nights F4386 XX-Large...'
+tags: abrigo, geox
 actualPrice: 44.29 EUR
 currency: EUR
 price: 44.29

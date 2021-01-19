@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41mHOu-PMUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V7Y2DSP-es Billabong All Day Impact  Chanclas para Hombre  Azul  Navy 21   43 EU'
+slug: 'B07V7Y2DSP-es Billabong All Day Impact Chanclas para Hombre Azul Navy 21...'
+tags: chanclas
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

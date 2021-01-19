@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/411SA3hsmGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NGTY9VJ-es Calvin Klein 3p Low Rise Trunk Bóxer  Negro  B/Astral Aura/Corsair/Grey Smoke Szm   S  Pack de 3  para Hombre'
+slug: 'B07NGTY9VJ-es Calvin Klein 3p Low Rise Trunk Bóxer Negro B/Astral...'
+tags: bóxer
 actualPrice: 12.35 EUR
 currency: EUR
 price: 12.35

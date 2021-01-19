@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41iz82KL9FL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S2T8KL8-es Antony Morato Felpa Girocollo Basic con Placchetta Sudadera  Negro  Nero 9000   Medium para Hombre'
+slug: 'B07S2T8KL8-es Antony Morato Felpa Girocollo Basic con Placchetta...'
+tags: sudadera
 actualPrice: 19.2 EUR
 currency: EUR
 price: 19.2

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41rNGcDMXCL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K2G4RG5-es Timberland Euro Sprint Hiker Waterproof  Zapatillas Chukka para Hombre  Verde  Dk Green Full Grain   43 EU'
+slug: 'B07K2G4RG5-es Timberland Euro Sprint Hiker Waterproof Zapatillas Chukka...'
+tags: timberland
 actualPrice: 99 EUR
 currency: EUR
 price: 99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/3111W8rvl5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071LGWWS5-es Under Armour UA Athlete SS Camiseta de Manga Corta  Hombre  Negro  001   XL'
+slug: 'B071LGWWS5-es Under Armour UA Athlete SS Camiseta de Manga Corta Hombre...'
+tags: camiseta
 actualPrice: 10.55 EUR
 currency: EUR
 price: 10.55

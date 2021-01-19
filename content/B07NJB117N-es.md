@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31UBaOMxv1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NJB117N-es Bañador de Mujer Bikini Ropa de Baño de Una Pieza Azul Marino M CL011003-2'
+slug: 'B07NJB117N-es Bañador de Mujer Bikini Ropa de Baño de Una Pieza Azul...'
+tags: bikini
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

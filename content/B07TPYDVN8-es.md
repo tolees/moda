@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414pXkCWzOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TPYDVN8-es G-STAR RAW Earth Beetle Sudadera  Azul  Faded Legion Blue A986   Large para Mujer'
+slug: 'B07TPYDVN8-es G-STAR RAW Earth Beetle Sudadera Azul Faded Legion Blue...'
+tags: sudadera
 actualPrice: 27.62 EUR
 currency: EUR
 price: 27.62

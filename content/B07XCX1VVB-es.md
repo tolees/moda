@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51SKddwbx5L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XCX1VVB-es Jersey De Hombre Sudadera con Capucha De La Camiseta con Capucha NBA Lakers 8# Kobe Bryant Cómoda Camiseta Deportiva T-Shirt De Baloncesto'
+slug: 'B07XCX1VVB-es Jersey De Hombre Sudadera con Capucha De La Camiseta con...'
+tags: camiseta, jersey, sudadera
 actualPrice: 25.0 EUR
 currency: EUR
 price: 25.0

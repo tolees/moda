@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31pLrOomlEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J57FRL5-es Hawiton Pantalones Deportivos para Mujer 100% Algodón Pantalón de Chándal con Bolsillos para Gimnasio Deportes Correr Entrenamiento Jogging Pantalones de Pijama Largos de Rayas'
+slug: 'B07J57FRL5-es Hawiton Pantalones Deportivos para Mujer 100% Algodón...'
+tags: pantalón, pijama
 actualPrice: 16.14 EUR
 currency: EUR
 price: 16.14

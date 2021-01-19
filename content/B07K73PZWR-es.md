@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41vbnBZswKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K73PZWR-es Levi s Bobbi Tank Camiseta Deportiva de Tirantes  Blanco  White + 0000   Medium para Mujer'
+slug: 'B07K73PZWR-es Levi s Bobbi Tank Camiseta Deportiva de Tirantes Blanco...'
+tags: camiseta
 actualPrice: 15.25 EUR
 currency: EUR
 price: 15.25

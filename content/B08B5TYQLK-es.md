@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/318wTvBgxFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08B5TYQLK-es Nuevo teléfono Celular con Clip Trasero de Estilo de Moda para iPhone 6 / 6s Dispositivo práctico Exquisitamente diseñado Duradero Precioso'
+slug: 'B08B5TYQLK-es Nuevo teléfono Celular con Clip Trasero de Estilo de Moda...'
+tags: moda
 actualPrice: 6.69 EUR
 currency: EUR
 price: 6.69

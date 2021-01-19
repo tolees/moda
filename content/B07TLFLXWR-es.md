@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412dHC3YcBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TLFLXWR-es Levi s Camiseta  Multicolor  Authentic Colorblock tee Riverside/Ver 0000   Medium para Hombre'
+slug: 'B07TLFLXWR-es Levi s Camiseta Multicolor Authentic Colorblock tee...'
+tags: camiseta
 actualPrice: 15.5 EUR
 currency: EUR
 price: 15.5

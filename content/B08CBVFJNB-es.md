@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61cacIKAGiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CBVFJNB-es LJP Funda iPhone XR  Suave PU Cuero Carcasa y TPU Funda Interna  Color Flip Wallet Case Cover para iPhone XR  Billetera Magnético con Función de Soporte  Ranuras para Tarjetas'
+slug: 'B08CBVFJNB-es LJP Funda iPhone XR Suave PU Cuero Carcasa y TPU Funda...'
+tags: billetera
 actualPrice: 7.59 EUR
 currency: EUR
 price: 7.59

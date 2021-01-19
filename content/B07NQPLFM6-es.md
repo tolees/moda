@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+bnmDKAQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NQPLFM6-es Yuson Girl Conjuntos De Bikini Rayas Talle Alto Retro Brasileños Mujer Sexy Traje De Baño Cuello Halter Strapless Off Shoulder Bra Top Bikini Push Up Anudado Tanga Braga Bikini Triangulo Alta'
+slug: 'B07NQPLFM6-es Yuson Girl Conjuntos De Bikini Rayas Talle Alto Retro...'
+tags: bikini
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

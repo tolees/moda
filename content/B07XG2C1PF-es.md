@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41MaDg8+RmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XG2C1PF-es Columbia Lay D Down II  Chaqueta de esquí para Mujer'
+slug: 'B07XG2C1PF-es Columbia Lay D Down II Chaqueta de esquí para Mujer'
+tags: chaqueta
 actualPrice: 59.48 EUR
 currency: EUR
 price: 59.48

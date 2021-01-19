@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41maVaAe0VL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KF4QV6D-es Levi s Type 3 Chaqueta Vaquera  Azul  Palmer Sherpa Trucker 0105   X-Large para Hombre'
+slug: 'B07KF4QV6D-es Levi s Type 3 Chaqueta Vaquera Azul Palmer Sherpa Trucker...'
+tags: chaqueta
 actualPrice: 62.95 EUR
 currency: EUR
 price: 62.95

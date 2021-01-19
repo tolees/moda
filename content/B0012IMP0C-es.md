@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ND0PctnPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0012IMP0C-es Timberland Classic 2 Eye  Náuticos para Hombre  Marrón  MD Marron Full Grain   44.5 EU'
+slug: 'B0012IMP0C-es Timberland Classic 2 Eye Náuticos para Hombre Marrón MD...'
+tags: timberland
 actualPrice: 99.74 EUR
 currency: EUR
 price: 99.74

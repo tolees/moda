@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31paNkE04CL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RJ5Y6JN-es G-STAR RAW Revend Skinny Vaqueros  Waxed Black Destroyed Cobler  32W / 30L para Hombre'
+slug: 'B07RJ5Y6JN-es G-STAR RAW Revend Skinny Vaqueros Waxed Black Destroyed...'
+tags: vaqueros
 actualPrice: 90.96 EUR
 currency: EUR
 price: 90.96

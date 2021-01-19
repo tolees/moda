@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31rBQq4htOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FQWF4X6-es Clarks Edward Walk  Zapatos de Cordones Derby para Hombre  Negro  Black Leather-   39.5 EU'
+slug: 'B07FQWF4X6-es Clarks Edward Walk Zapatos de Cordones Derby para Hombre...'
+tags: zapatos
 actualPrice: 34.64 EUR
 currency: EUR
 price: 34.64

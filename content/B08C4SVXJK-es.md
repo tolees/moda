@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31YtgJW9qPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08C4SVXJK-es Concert Light Stick 15 Sticks de colores intercambiables Light Stick Support Stick LED Sticks Moda con pilas - Caqui'
+slug: 'B08C4SVXJK-es Concert Light Stick 15 Sticks de colores intercambiables...'
+tags: moda
 actualPrice: 7.25 EUR
 currency: EUR
 price: 7.25

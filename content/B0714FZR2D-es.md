@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51+L0BlxuxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0714FZR2D-es KAPORAL NEGOR Camiseta  Verde  Army   10 Años para Niñas'
+slug: 'B0714FZR2D-es KAPORAL NEGOR Camiseta Verde Army 10 Años para Niñas'
+tags: camiseta
 actualPrice: 13.3 EUR
 currency: EUR
 price: 13.3

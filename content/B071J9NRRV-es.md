@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31N2B6TKFlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071J9NRRV-es Geox J New Fast Boy A  Mocasines para Niños  Negro  Black   27 EU'
+slug: 'B071J9NRRV-es Geox J New Fast Boy A Mocasines para Niños Negro Black 27 EU'
+tags: geox
 actualPrice: 16.88 EUR
 currency: EUR
 price: 16.88

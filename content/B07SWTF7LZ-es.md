@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41oi2Kb9uwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SWTF7LZ-es Geox D Myria C  Zapatillas para Mujer  Blanco  White/Off White C1352   40 EU'
+slug: 'B07SWTF7LZ-es Geox D Myria C Zapatillas para Mujer Blanco White/Off...'
+tags: geox
 actualPrice: 55.96 EUR
 currency: EUR
 price: 55.96

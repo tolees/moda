@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412V-EQCSiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RV9H7QM-es YWLINK Zapatos NiñO NiñA Deportes Aire Libre Mesh Fire Print Sport Run Zapatillas Casual Shoes Antideslizante Transpirable CóModo Zapatos Solos Corriendo Ciclismo El FúTbol MontañIsmo Rojo 38EU '
+slug: 'B07RV9H7QM-es YWLINK Zapatos NiñO NiñA Deportes Aire Libre Mesh Fire...'
+tags: zapatos
 actualPrice: 0.01 EUR
 currency: EUR
 price: 0.01

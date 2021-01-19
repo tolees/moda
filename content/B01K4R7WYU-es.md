@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41p0xi8UFfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01K4R7WYU-es LEABAGS Havana Bolso Bandolera de Cuero auténtico de búfalo en el Estilo Vintage - TerraRosa'
+slug: 'B01K4R7WYU-es LEABAGS Havana Bolso Bandolera de Cuero auténtico de...'
+tags: bolso
 actualPrice: 98.98 EUR
 currency: EUR
 price: 98.98

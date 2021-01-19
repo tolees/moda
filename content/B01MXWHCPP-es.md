@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41XwwYM7ZqL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MXWHCPP-es find. Falda Mini de Rayas para Mujer   Negro  Black/white Striped   38  Talla del Fabricante: Small '
+slug: 'B01MXWHCPP-es find. Falda Mini de Rayas para Mujer Negro Black/white...'
+tags: falda
 actualPrice: 12.05 EUR
 currency: EUR
 price: 12.05

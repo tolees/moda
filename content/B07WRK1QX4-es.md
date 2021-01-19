@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31tB2ArfIkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WRK1QX4-es New Look Op Patch Pocket Mtj Chaqueta Punto  Marfil  Off White 12   Medium para Mujer'
+slug: 'B07WRK1QX4-es New Look Op Patch Pocket Mtj Chaqueta Punto Marfil Off...'
+tags: chaqueta
 actualPrice: 13.0 EUR
 currency: EUR
 price: 13.0

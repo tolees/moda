@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41jkwoS5EJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00V5REM4W-es ElegantPark HC1509 Zapatos de tacón Zapato con Cierre Raso Cerrado Zapatos de Novia Mujer Marfil Talla 38'
+slug: 'B00V5REM4W-es ElegantPark HC1509 Zapatos de tacón Zapato con Cierre Raso...'
+tags: zapatos
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

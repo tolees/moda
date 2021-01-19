@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/411dhTJky1L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004M2FSN6-es Timberland 6 in Premium Waterproof Botas Clasicas Unisex Niños  Violeta  Medium Purple Nubuck   30 EU  12 UK  Toddler  UK '
+slug: 'B004M2FSN6-es Timberland 6 in Premium Waterproof Botas Clasicas Unisex...'
+tags: timberland
 actualPrice: 28.27 EUR
 currency: EUR
 price: 28.27

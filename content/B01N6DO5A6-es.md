@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41FUKhZgl3L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N6DO5A6-es Helly Hansen Hombre Crew Hooded Jacke Chaqueta Not Applicable  Blanco  L'
+slug: 'B01N6DO5A6-es Helly Hansen Hombre Crew Hooded Jacke Chaqueta Not...'
+tags: chaqueta
 actualPrice: 77.81 EUR
 currency: EUR
 price: 77.81

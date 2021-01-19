@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41LWAZFprhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00NUZ5PPC-es Pepe Jeans Venus Vaqueros  Azul  10Oz Authentic Rope Str Med D24   28W / 32L para Mujer'
+slug: 'B00NUZ5PPC-es Pepe Jeans Venus Vaqueros Azul 10Oz Authentic Rope Str Med...'
+tags: vaqueros
 actualPrice: 57.99 EUR
 currency: EUR
 price: 57.99

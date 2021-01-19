@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41th5cIhX-L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M7KL2NC-es Pikolinos Cadaques W8k_v19  Sandalias de Punta Descubierta para Mujer  Marfil Nata  38 EU'
+slug: 'B07M7KL2NC-es Pikolinos Cadaques W8k_v19 Sandalias de Punta Descubierta...'
+tags: sandalias
 actualPrice: 52.04 EUR
 currency: EUR
 price: 52.04

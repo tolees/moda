@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41HdRVV4jOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KZ7YSPG-es Women s Secret PF Carey Sw Conjuntos de Bikini  Rojo  Red 60    Tamaño del Fabricante:M  para Mujer'
+slug: 'B07KZ7YSPG-es Women s Secret PF Carey Sw Conjuntos de Bikini Rojo Red 60...'
+tags: bikini
 actualPrice: 19.66 EUR
 currency: EUR
 price: 19.66

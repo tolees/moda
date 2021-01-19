@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41WYt5JhuzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NJ63PX5-es Springfield Long Sleeve with Pearls Camiseta  Multicolor  Multicolor 43   Medium  Tamaño del Fabricante: M  para Mujer'
+slug: 'B07NJ63PX5-es Springfield Long Sleeve with Pearls Camiseta Multicolor...'
+tags: camiseta
 actualPrice: 4.54 EUR
 currency: EUR
 price: 4.54

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41bivfsd4EL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KHTMG4W-es Under Armour UA Heatgear Short Sleeve Camiseta  Hombre  Rojo  Red/Steel 600   L'
+slug: 'B00KHTMG4W-es Under Armour UA Heatgear Short Sleeve Camiseta Hombre Rojo...'
+tags: camiseta
 actualPrice: 23.67 EUR
 currency: EUR
 price: 23.67

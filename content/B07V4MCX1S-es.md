@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41m3iMsploL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V4MCX1S-es Kipling NEW ELDORADO Bolso bandolera  20 cm  1 liters  Negro  Black Noir '
+slug: 'B07V4MCX1S-es Kipling NEW ELDORADO Bolso bandolera 20 cm 1 liters Negro...'
+tags: bolso
 actualPrice: 32.74 EUR
 currency: EUR
 price: 32.74

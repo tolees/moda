@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41HATqGbRRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VXR5YTF-es El Naturalista Aqua  Sandalias con Punta Abierta para Mujer  Negro  Black Black   38 EU'
+slug: 'B07VXR5YTF-es El Naturalista Aqua Sandalias con Punta Abierta para Mujer...'
+tags: sandalias
 actualPrice: 25.95 EUR
 currency: EUR
 price: 25.95

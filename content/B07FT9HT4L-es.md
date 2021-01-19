@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51i0LjdXFzL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FT9HT4L-es Lee SS Western Camisa  Marfil  Blueprint Lh   XX-Large para Hombre'
+slug: 'B07FT9HT4L-es Lee SS Western Camisa Marfil Blueprint Lh XX-Large para...'
+tags: camisa
 actualPrice: 22.29 EUR
 currency: EUR
 price: 22.29

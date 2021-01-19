@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ocg5emEBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TT6YGDF-es Levi s The tee Camiseta  Blanco  Floral Filled Batwing White+ 0794   Small para Mujer'
+slug: 'B07TT6YGDF-es Levi s The tee Camiseta Blanco Floral Filled Batwing...'
+tags: camiseta
 actualPrice: 14.69 EUR
 currency: EUR
 price: 14.69

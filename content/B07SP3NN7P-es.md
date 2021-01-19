@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51TAHglghUL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SP3NN7P-es G-Star Sp15505 Sweat Sudadera  Gris  China Grey 20   5 años  Talla del Fabricante: 5A  para Niñas'
+slug: 'B07SP3NN7P-es G-Star Sp15505 Sweat Sudadera Gris China Grey 20 5 años...'
+tags: sudadera
 actualPrice: 15.11 EUR
 currency: EUR
 price: 15.11

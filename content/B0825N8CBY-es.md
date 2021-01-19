@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416Eae9uvJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0825N8CBY-es Quiksilver New Slang - Camiseta para Hombre Screen tee  Hombre  Redwood  XL'
+slug: 'B0825N8CBY-es Quiksilver New Slang - Camiseta para Hombre Screen tee...'
+tags: camiseta
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

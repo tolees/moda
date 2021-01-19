@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31rjqwGfDaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JVZDB1B-es Marca Amazon - find. Calzoncillo Corto Bajo de Algodón Hombre  Multicolor  Black/Charcoal   L  Label: L'
+slug: 'B07JVZDB1B-es Marca Amazon - find. Calzoncillo Corto Bajo de Algodón...'
+tags: -, find.
 actualPrice: 19.14 EUR
 currency: EUR
 price: 19.14

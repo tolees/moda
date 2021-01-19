@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zgBlNBCDL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071HGTPVR-es LANGRIA Perchero de Pie Metálico Multiusos de Entrada con 2 Estantes 4 Colgadores para Ropa Zapatos  Bolsos  Capacidad MAX 30kg para Hogar Vestidor Pasillo Habitación  Negro'
+slug: 'B071HGTPVR-es LANGRIA Perchero de Pie Metálico Multiusos de Entrada con...'
+tags: zapatos
 actualPrice: 34.17 EUR
 currency: EUR
 price: 34.17

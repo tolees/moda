@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Rd+c4PcRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00JR1YS1A-es Timberland Euro Rock Hiker  Botas Chukka para Hombre  Azul  Medium Blue Nubuck   49 EU'
+slug: 'B00JR1YS1A-es Timberland Euro Rock Hiker Botas Chukka para Hombre Azul...'
+tags: timberland
 actualPrice: 97.83 EUR
 currency: EUR
 price: 97.83

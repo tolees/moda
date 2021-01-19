@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41oVgi2A19L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JW4S3XZ-es Hackett Aston Martin Racing Multi tee Camiseta  Blanco  White 8aj   Large para Hombre'
+slug: 'B07JW4S3XZ-es Hackett Aston Martin Racing Multi tee Camiseta Blanco...'
+tags: camiseta
 actualPrice: 20.95 EUR
 currency: EUR
 price: 20.95

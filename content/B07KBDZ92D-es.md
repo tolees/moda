@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZoeuQlDHL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KBDZ92D-es Vero Moda Vmeva Abby 3/4 Trenchcoat Noos Abrigo  Negro Black  40  Talla del Fabricante: Medium  para Mujer'
+slug: 'B07KBDZ92D-es Vero Moda Vmeva Abby 3/4 Trenchcoat Noos Abrigo Negro...'
+tags: abrigo, moda
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Neig9OBaL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MCSPCC9-es Napapijri DAMAVAND Crew Jersey  Verde  Green Forest 2 GE3   XL para Hombre'
+slug: 'B07MCSPCC9-es Napapijri DAMAVAND Crew Jersey Verde Green Forest 2 GE3 XL...'
+tags: jersey
 actualPrice: 44.55 EUR
 currency: EUR
 price: 44.55

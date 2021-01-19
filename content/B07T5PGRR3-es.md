@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31s4RLewuqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T5PGRR3-es Timberland Bradstreet Leather Sensorflex  Botas Chukka para Hombre  Beige Light Taupe Full Grain  44 EU'
+slug: 'B07T5PGRR3-es Timberland Bradstreet Leather Sensorflex Botas Chukka para...'
+tags: timberland
 actualPrice: 70.0 EUR
 currency: EUR
 price: 70.0

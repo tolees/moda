@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41jLcVaC+nL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KSPY7H2-es Columbia Powder Pass Chaleco  Hombre  Negro  Black   Talla-XS'
+slug: 'B07KSPY7H2-es Columbia Powder Pass Chaleco Hombre Negro Black Talla-XS'
+tags: chaleco
 actualPrice: 53.01 EUR
 currency: EUR
 price: 53.01

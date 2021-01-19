@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31s9nb-+u3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076JKHYV8-es Crocs LiteRide Flip  Chanclas Unisex Adulto  Negro  Black/Slate Grey 0dd   36/37 EU'
+slug: 'B076JKHYV8-es Crocs LiteRide Flip Chanclas Unisex Adulto Negro...'
+tags: chanclas
 actualPrice: 26.81 EUR
 currency: EUR
 price: 26.81

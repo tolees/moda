@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41jIv621aQL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P7P1N2X-es dPois Chaleco Deporte Yoga Gym Running Danza Baile Mujer Camiseta Interior Tirantes sin Mangas Sexy Blusa Tank Crop Tops Vest Criss Cross con Tiras Fitness Moda Deportivo Naranja Small'
+slug: 'B07P7P1N2X-es dPois Chaleco Deporte Yoga Gym Running Danza Baile Mujer...'
+tags: blusa, camiseta, chaleco, moda
 actualPrice: 5.88 EUR
 currency: EUR
 price: 5.88

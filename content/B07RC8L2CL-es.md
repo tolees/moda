@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Iiq7st+ZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RC8L2CL-es Columbia Challenger Chaqueta Sudadera  Hombre  Azul  Dark Mountain/Collegiate Navy   XL'
+slug: 'B07RC8L2CL-es Columbia Challenger Chaqueta Sudadera Hombre Azul Dark...'
+tags: chaqueta, sudadera
 actualPrice: 39.06 EUR
 currency: EUR
 price: 39.06

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+0CyFClhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T1F49NZ-es Nike Club Hoodie Ft Sudadera con Capucha y Cremallera Completa  Hombre  Negro  Black/Black/White   S'
+slug: 'B07T1F49NZ-es Nike Club Hoodie Ft Sudadera con Capucha y Cremallera...'
+tags: sudadera
 actualPrice: 35.59 EUR
 currency: EUR
 price: 35.59

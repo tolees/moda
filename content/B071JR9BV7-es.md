@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31pl-qgMKWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071JR9BV7-es Marca Amazon - find. Camisa Hombre  Marfil  Stone   M  Label: M'
+slug: 'B071JR9BV7-es Marca Amazon - find. Camisa Hombre Marfil Stone M Label: M'
+tags: camisa, -, find.
 actualPrice: 5.57 EUR
 currency: EUR
 price: 5.57

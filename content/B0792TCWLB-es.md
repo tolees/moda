@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31aX2RBDLcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0792TCWLB-es Geox Arzach B  Zapatillas para Niños  Negro  Black C9999   37 EU'
+slug: 'B0792TCWLB-es Geox Arzach B Zapatillas para Niños Negro Black C9999 37 EU'
+tags: geox
 actualPrice: 45.5 EUR
 currency: EUR
 price: 45.5

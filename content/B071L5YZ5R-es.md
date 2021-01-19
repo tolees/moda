@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41XugffUYwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071L5YZ5R-es Levi s Graphic Camiseta  Gris  84 Sportswear Logo Grey Midtone Grey Htr 0002   Large para Hombre'
+slug: 'B071L5YZ5R-es Levi s Graphic Camiseta Gris 84 Sportswear Logo Grey...'
+tags: camiseta
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

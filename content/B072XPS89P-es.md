@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41y4I2KV4gL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072XPS89P-es JACK & JONES Jjiliam Jjoriginal Am 502 Lid STS Vaqueros Skinny  Negro  Black Denim   W27/L30  Talla del Fabricante: 27  para Hombre'
+slug: 'B072XPS89P-es JACK & JONES Jjiliam Jjoriginal Am 502 Lid STS Vaqueros...'
+tags: vaqueros
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

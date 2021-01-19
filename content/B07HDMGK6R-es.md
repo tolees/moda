@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51u7tSNxSxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HDMGK6R-es Only Onltia Dnm Jacket BB MB Bex02 Noos Chaqueta Vaquera  Azul  Medium Blue Denim Medium Blue Denim   38  Talla del Fabricante: 36  para Mujer'
+slug: 'B07HDMGK6R-es Only Onltia Dnm Jacket BB MB Bex02 Noos Chaqueta Vaquera...'
+tags: chaqueta
 actualPrice: 27.75 EUR
 currency: EUR
 price: 27.75

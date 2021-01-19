@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41PC4XLR0jL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XT9B9QJ-es Pepe Jeans Charing PM503215 Camiseta  Gris  Grey Marl 933   X-Small para Hombre'
+slug: 'B06XT9B9QJ-es Pepe Jeans Charing PM503215 Camiseta Gris Grey Marl 933...'
+tags: camiseta
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

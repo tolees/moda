@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41IS8HGhFsL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CS6YM6J-es Pepe Jeans Rosie Camisa    Denim Gp6   Medium para Mujer'
+slug: 'B07CS6YM6J-es Pepe Jeans Rosie Camisa Denim Gp6 Medium para Mujer'
+tags: camisa
 actualPrice: 30.0 EUR
 currency: EUR
 price: 30.0

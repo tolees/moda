@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41rBq0+SG1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B006ZML8E4-es Helly Hansen Crew Midlayer Chaqueta deportiva impermeable  Hombre  Negro  Black 990   S'
+slug: 'B006ZML8E4-es Helly Hansen Crew Midlayer Chaqueta deportiva impermeable...'
+tags: chaqueta
 actualPrice: 81.67 EUR
 currency: EUR
 price: 81.67

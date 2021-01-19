@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31kQq9ntG6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GF6TZBS-es Semme  Chaleco térmico eléctrico   de Invierno  USB Cargado  Calefacción Inteligente para Actividades al Aire Libre en climas fríos  Color Azul Oscuro Unisex  Talla XL'
+slug: 'B07GF6TZBS-es Semme Chaleco térmico eléctrico de Invierno USB Cargado...'
+tags: chaleco
 actualPrice: 19.59 EUR
 currency: EUR
 price: 19.59

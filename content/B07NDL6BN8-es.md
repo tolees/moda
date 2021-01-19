@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41nJCt3dXWL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NDL6BN8-es G-STAR RAW Bristum 1 Pocket Slim Camisa Vaquera  Multicolor  Indigo/White Check 6321   XX-Small para Hombre'
+slug: 'B07NDL6BN8-es G-STAR RAW Bristum 1 Pocket Slim Camisa Vaquera Multicolor...'
+tags: camisa
 actualPrice: 19.66 EUR
 currency: EUR
 price: 19.66

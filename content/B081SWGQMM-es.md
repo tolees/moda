@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51rOAY+UhJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081SWGQMM-es Moda Mujer Casual Encaje Sexy Lunares O Cuello Dulce Volante Camiseta Manga Larga Tops Blusa Luckycat  Azul  Pequeña '
+slug: 'B081SWGQMM-es Moda Mujer Casual Encaje Sexy Lunares O Cuello Dulce...'
+tags: blusa, camiseta, moda
 actualPrice: 4.69 EUR
 currency: EUR
 price: 4.69

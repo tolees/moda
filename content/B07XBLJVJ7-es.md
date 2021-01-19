@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51q0gbfGpfL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XBLJVJ7-es coskefy Guantes Esquí Impermeable para Hombre y Mujer Guantes Nieve Calientes Guantes Invierno Térmica para Snowboard Ciclismo Moto con 3M Thinsulate'
+slug: 'B07XBLJVJ7-es coskefy Guantes Esquí Impermeable para Hombre y Mujer...'
+tags: guantes
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

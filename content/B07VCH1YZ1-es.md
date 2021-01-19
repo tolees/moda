@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41jN95ClIHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VCH1YZ1-es HUGO Ernie Camisa de Oficina  Beige  Dark Beige 251   41 para Hombre'
+slug: 'B07VCH1YZ1-es HUGO Ernie Camisa de Oficina Beige Dark Beige 251 41 para...'
+tags: camisa
 actualPrice: 20.59 EUR
 currency: EUR
 price: 20.59

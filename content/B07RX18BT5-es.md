@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41xAYH4sxfL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RX18BT5-es Levi s SS Graphic T-Shirt 2.0  Camiseta para Hombre  Azul  Hm Colors Sodalite Blue 0333   M'
+slug: 'B07RX18BT5-es Levi s SS Graphic T-Shirt 2.0 Camiseta para Hombre Azul Hm...'
+tags: camiseta
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

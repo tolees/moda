@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41sFHXqE7dL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TKDNQ36-es Levi s 511 Slim Fit Vaqueros  Verde Muddy Forest Sueded Sateen WT B 4427  32W / 32L para Hombre'
+slug: 'B07TKDNQ36-es Levi s 511 Slim Fit Vaqueros Verde Muddy Forest Sueded...'
+tags: vaqueros
 actualPrice: 55.99 EUR
 currency: EUR
 price: 55.99

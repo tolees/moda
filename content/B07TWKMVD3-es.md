@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31KtOBYsnuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TWKMVD3-es QUEEN ROSE Almohada de Embarazo con Funda de Jersey  Almohada de Cuerpo Completo en Forma de L para Mujeres Embarazadas  Negrol'
+slug: 'B07TWKMVD3-es QUEEN ROSE Almohada de Embarazo con Funda de Jersey...'
+tags: jersey
 actualPrice: 38.39 EUR
 currency: EUR
 price: 38.39

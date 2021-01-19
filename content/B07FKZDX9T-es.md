@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31EpqxcBWaL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FKZDX9T-es Trangoworld PC008106 Pantalón Largo  Mujer  Azul Profundo  XS'
+slug: 'B07FKZDX9T-es Trangoworld PC008106 Pantalón Largo Mujer Azul Profundo XS'
+tags: pantalón
 actualPrice: 40.99 EUR
 currency: EUR
 price: 40.99

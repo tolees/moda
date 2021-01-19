@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31iu-SBOFlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QJM38G9-es Marca Amazon - AURIQUE Mallas de Deporte con Panel de Rejilla Mujer  Negro  Black   36  Label:XS'
+slug: 'B07QJM38G9-es Marca Amazon - AURIQUE Mallas de Deporte con Panel de...'
+tags: aurique
 actualPrice: 14.82 EUR
 currency: EUR
 price: 14.82

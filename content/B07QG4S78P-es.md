@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/518PDzDlKAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QG4S78P-es BaZhaHei Monedero MóVil Con Estampado de Flores de Dama las Mujer Que Imprimen Monedas Cambian el Monedero del Embrague de Cremallera Cero los Bolsos de Llave del TeléFono de Cartera'
+slug: 'B07QG4S78P-es BaZhaHei Monedero MóVil Con Estampado de Flores de Dama...'
+tags: monedero
 actualPrice: 1.04 EUR
 currency: EUR
 price: 1.04

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41r91pGxQuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R6TWNHQ-es Columbia Silver Ridge 2.0 Camisa De Manga Larga  Mujer  Nocturnal  S'
+slug: 'B07R6TWNHQ-es Columbia Silver Ridge 2.0 Camisa De Manga Larga Mujer...'
+tags: camisa
 actualPrice: 44.48 EUR
 currency: EUR
 price: 44.48

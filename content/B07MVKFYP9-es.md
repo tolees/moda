@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/513S2K2fgGL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MVKFYP9-es Kipling Izellah  Bolso con Bandolera para Mujer  Gris  Chalk Grey   33x23x12 centimeters  B x H x T '
+slug: 'B07MVKFYP9-es Kipling Izellah Bolso con Bandolera para Mujer Gris Chalk...'
+tags: bolso
 actualPrice: 39.5 EUR
 currency: EUR
 price: 39.5

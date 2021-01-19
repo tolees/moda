@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41EL0UCw-zL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MGFRWJY-es Napapijri TERRES Sudadera  Verde  Green Forest 2 Ge3   L para Hombre'
+slug: 'B07MGFRWJY-es Napapijri TERRES Sudadera Verde Green Forest 2 Ge3 L para...'
+tags: sudadera
 actualPrice: 64.95 EUR
 currency: EUR
 price: 64.95

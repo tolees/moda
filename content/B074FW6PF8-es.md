@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BV09-C0sL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B074FW6PF8-es find. Sudadera de Raya Ejecutiva para Mujer  Azul  Navy   38  Talla del Fabricante: Small '
+slug: 'B074FW6PF8-es find. Sudadera de Raya Ejecutiva para Mujer Azul Navy 38...'
+tags: sudadera
 actualPrice: 7.8 EUR
 currency: EUR
 price: 7.8

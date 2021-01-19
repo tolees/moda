@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51bg5jlPAIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X7TN61F-es LIGE Relojes Hombre Negocio Acero Inoxidable Impermeable Cuarzo Analógico Reloj Cronógrafo Fecha Calendario Vestido Reloj de Pulsera'
+slug: 'B07X7TN61F-es LIGE Relojes Hombre Negocio Acero Inoxidable Impermeable...'
+tags: vestido
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

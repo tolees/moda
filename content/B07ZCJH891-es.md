@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51iyUKO%2B2RL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZCJH891-es seenlast Gafas de Natación para Hombres Mujeres  Antiniebla Protección UV Sin Fugas Gafas Natación con Libre Clip de Nariz Enchufe de oído  Visión Amplia Clara para Piscina Deportes Acuáticos'
+slug: 'B07ZCJH891-es seenlast Gafas de Natación para Hombres Mujeres Antiniebla...'
+tags: gafas
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

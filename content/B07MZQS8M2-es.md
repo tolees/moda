@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/513dl3tqTNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZQS8M2-es Pepe Jeans Marcelle Camiseta   Bubble Gum 349   3-4 años  Talla del Fabricante: 3/4 años  para Niñas'
+slug: 'B07MZQS8M2-es Pepe Jeans Marcelle Camiseta Bubble Gum 349 3-4 años Talla...'
+tags: camiseta
 actualPrice: 11.37 EUR
 currency: EUR
 price: 11.37

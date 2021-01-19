@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31-3KF+nsbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFDX6FL-es Levi s 514 Vaqueros Straight  Azul  Ivy ADV 1209   W30/L30  Talla del Fabricante: 30 30  para Hombre'
+slug: 'B07LFDX6FL-es Levi s 514 Vaqueros Straight Azul Ivy ADV 1209 W30/L30...'
+tags: vaqueros
 actualPrice: 73.38 EUR
 currency: EUR
 price: 73.38

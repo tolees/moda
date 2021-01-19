@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41fHM7Mq6fL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083SJYFYW-es VVA Gafas de sol polarizadas para hombres Gafas de sol retro clásicas para hombres y mujeres para conducción al aire libre Protección unisex UV400 V105 Negro/Negro '
+slug: 'B083SJYFYW-es VVA Gafas de sol polarizadas para hombres Gafas de sol...'
+tags: gafas
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

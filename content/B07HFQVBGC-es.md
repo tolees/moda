@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ECwufG1UL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HFQVBGC-es HOMCOM Saco de Boxeo de pie Boxing Ball Entrenamiento MMA Deportes con Guantes y Mancha'
+slug: 'B07HFQVBGC-es HOMCOM Saco de Boxeo de pie Boxing Ball Entrenamiento MMA...'
+tags: guantes
 actualPrice: 37.39 EUR
 currency: EUR
 price: 37.39

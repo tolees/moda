@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41IiW7AkRvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071SDJ5VM-es GEOX U740HA-022ME-C9997 DAMIAN Zapatilla de hombre  color negro  Black  40'
+slug: 'B071SDJ5VM-es GEOX U740HA-022ME-C9997 DAMIAN Zapatilla de hombre color...'
+tags: geox, zapatilla
 actualPrice: 37.16 EUR
 currency: EUR
 price: 37.16

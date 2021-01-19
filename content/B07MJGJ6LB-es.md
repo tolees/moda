@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41gl8g66GaL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MJGJ6LB-es CMP Rigel Mid  Zapatos de High Rise Senderismo Unisex Adulto   Loden-Ferrari 05fd   37 EU'
+slug: 'B07MJGJ6LB-es CMP Rigel Mid Zapatos de High Rise Senderismo Unisex...'
+tags: zapatos
 actualPrice: 28.76 EUR
 currency: EUR
 price: 28.76

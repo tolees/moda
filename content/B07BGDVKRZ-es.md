@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/514bkQDwkxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BGDVKRZ-es PERLETTI Botas de Agua Miraculous Ladybug Niña - Botines Impermeables Infantiles Estampado Prodigiosa Lady Bug con Suela Antideslizante y Cierre con Cordón - Rojo Lunares Negros  24/25 EU '
+slug: 'B07BGDVKRZ-es PERLETTI Botas de Agua Miraculous Ladybug Niña - Botines...'
+tags: botines
 actualPrice: 13.52 EUR
 currency: EUR
 price: 13.52

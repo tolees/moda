@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/418Ut0K3y0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T97QKJM-es The North Face M Drew Peak Sudadera con Capucha  Hombre  Beige  British Khaki   S'
+slug: 'B07T97QKJM-es The North Face M Drew Peak Sudadera con Capucha Hombre...'
+tags: sudadera
 actualPrice: 40.0 EUR
 currency: EUR
 price: 40.0

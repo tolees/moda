@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41k4xi0dfOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SKX6PX3-es Levi s Graphic Diana Crew Sudadera  Amarillo  90 s Serif Ochre 0003   Medium para Mujer'
+slug: 'B07SKX6PX3-es Levi s Graphic Diana Crew Sudadera Amarillo 90 s Serif...'
+tags: sudadera
 actualPrice: 20.7 EUR
 currency: EUR
 price: 20.7

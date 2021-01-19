@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41A-1hndRTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078SWXN8P-es Timberland Capri Sunset Wedge  Sandalias para Mujer  Negro Black Full Grain  38 EU'
+slug: 'B078SWXN8P-es Timberland Capri Sunset Wedge Sandalias para Mujer Negro...'
+tags: sandalias, timberland
 actualPrice: 50.0 EUR
 currency: EUR
 price: 50.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/311GSvlZyxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F29ZNW5-es Timberland Union Wharf Plain Toe SO  Slip On para Hombre  Azul  Navy Canvas   40 EU'
+slug: 'B07F29ZNW5-es Timberland Union Wharf Plain Toe SO Slip On para Hombre...'
+tags: timberland
 actualPrice: 30.0 EUR
 currency: EUR
 price: 30.0

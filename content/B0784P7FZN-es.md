@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ecgpXAp1L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0784P7FZN-es Antony Morato Camicia Basica Abbottonatura A Vista Camisa Casual  Blanco  Bianco 1000   Medium  Talla del Fabricante: 50  para Hombre'
+slug: 'B0784P7FZN-es Antony Morato Camicia Basica Abbottonatura A Vista Camisa...'
+tags: camisa
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

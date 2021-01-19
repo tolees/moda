@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41wrWxuSJCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V3N36CX-es Tommy Hilfiger Sporty Corporate Beach Sandal  Sandalias con Punta Abierta para Hombre  Azul  Desert Sky Dw5   40 EU'
+slug: 'B07V3N36CX-es Tommy Hilfiger Sporty Corporate Beach Sandal Sandalias con...'
+tags: sandalias
 actualPrice: 31.95 EUR
 currency: EUR
 price: 31.95

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41WX7-h27VL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CPD6GQC-es Crocs Crocband II Sandal PS K  Sandalias Unisex Niños  Gris  Slate Grey/Blue Jean   24/25 EU'
+slug: 'B07CPD6GQC-es Crocs Crocband II Sandal PS K Sandalias Unisex Niños Gris...'
+tags: sandalias
 actualPrice: 22.49 EUR
 currency: EUR
 price: 22.49

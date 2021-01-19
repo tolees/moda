@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ZUTbZgrmL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RW8KXDN-es BAIGIO Bolso de Fiesta Noche de Moda para Mujer Brillante Bolsas de Embrague Hard Shell Bling Clutches para Ceremonias  Bodas  Evento  Cita  Fiesta Cócteles  Dorado '
+slug: 'B07RW8KXDN-es BAIGIO Bolso de Fiesta Noche de Moda para Mujer Brillante...'
+tags: bolso, moda
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

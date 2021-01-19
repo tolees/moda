@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31h+xilXsFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R3RMY9X-es Mujer Vestido Elegante Años 50 Vestido de Mujeres Rockabilly Clásico L CL010698-8'
+slug: 'B07R3RMY9X-es Mujer Vestido Elegante Años 50 Vestido de Mujeres...'
+tags: vestido
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

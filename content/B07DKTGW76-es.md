@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416Nr9LZnsL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DKTGW76-es Dickies Farnham Chaqueta  Marrón  Large  Talla del Fabricante:  para Hombre'
+slug: 'B07DKTGW76-es Dickies Farnham Chaqueta Marrón Large Talla del...'
+tags: chaqueta
 actualPrice: 56.77 EUR
 currency: EUR
 price: 56.77

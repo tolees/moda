@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414ilFLB3PL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B015HWBRRK-es Hollywood Star Fashion - Camiseta de Manga Larga con Cuello en V para Mujer'
+slug: 'B015HWBRRK-es Hollywood Star Fashion - Camiseta de Manga Larga con...'
+tags: camiseta
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

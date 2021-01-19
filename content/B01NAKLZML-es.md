@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41X4hERBxaL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NAKLZML-es Columbia Canyon Chaqueta Softshell  Hombre  Gris  Grey Ash Heather   L'
+slug: 'B01NAKLZML-es Columbia Canyon Chaqueta Softshell Hombre Gris Grey Ash...'
+tags: chaqueta
 actualPrice: 51.59 EUR
 currency: EUR
 price: 51.59

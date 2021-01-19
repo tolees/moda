@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41F2ptvFZeL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M74YDVP-es Eye Candy Collar de doble collar de mujer 925 plata de ley rodio 2 colgante de corazón con 16 circonitas blancas 46 cm ecj de nl0062'
+slug: 'B01M74YDVP-es Eye Candy Collar de doble collar de mujer 925 plata de ley...'
+tags: collar
 actualPrice: 71.85 EUR
 currency: EUR
 price: 71.85

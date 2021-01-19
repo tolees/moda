@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/311zKimYKjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MSK3T2T-es Clarks Vargo Vibe  Zapatos de Cordones Derby para Hombre  Marrón Oscuro Lea Dark Brown Lea  40 EU'
+slug: 'B07MSK3T2T-es Clarks Vargo Vibe Zapatos de Cordones Derby para Hombre...'
+tags: zapatos
 actualPrice: 25.9 EUR
 currency: EUR
 price: 25.9

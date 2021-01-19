@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4189S63ZoNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0797MPV4X-es Puma LIGA Sideline Poly Core  Chaqueta de Entrenamiento  Hombre  Rojo  red/ white   L'
+slug: 'B0797MPV4X-es Puma LIGA Sideline Poly Core Chaqueta de Entrenamiento...'
+tags: chaqueta
 actualPrice: 14.0 EUR
 currency: EUR
 price: 14.0

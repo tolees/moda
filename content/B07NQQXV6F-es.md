@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413ERUjrjrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NQQXV6F-es Springfield FR Bomber Sudadera  Negro  Black 1   Medium  Tamaño del Fabricante: M  para Hombre'
+slug: 'B07NQQXV6F-es Springfield FR Bomber Sudadera Negro Black 1 Medium Tamaño...'
+tags: sudadera
 actualPrice: 9.47 EUR
 currency: EUR
 price: 9.47

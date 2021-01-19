@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41J0NWNcCzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q3FNJDF-es Tamaris 1-1-25946-33  Botines para Mujer  Marrón  Tobacco 336   37 EU'
+slug: 'B07Q3FNJDF-es Tamaris 1-1-25946-33 Botines para Mujer Marrón Tobacco 336...'
+tags: botines
 actualPrice: 14.14 EUR
 currency: EUR
 price: 14.14

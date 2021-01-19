@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31XRr5uq0WL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FTL62Y3-es Lee Rider  Vaqueros slim Hombre  Gris  Grey Worn Wf   W32/L32'
+slug: 'B07FTL62Y3-es Lee Rider Vaqueros slim Hombre Gris Grey Worn Wf W32/L32'
+tags: vaqueros
 actualPrice: 56.68 EUR
 currency: EUR
 price: 56.68

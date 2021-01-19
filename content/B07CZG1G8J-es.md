@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Ft2-h4Y-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CZG1G8J-es Under Armour UA Heatgear Racer Camiseta Sin Mangas  Mujer  Naranja  Orange Dream/Metallic Silver 805   XS'
+slug: 'B07CZG1G8J-es Under Armour UA Heatgear Racer Camiseta Sin Mangas Mujer...'
+tags: camiseta
 actualPrice: 8.05 EUR
 currency: EUR
 price: 8.05

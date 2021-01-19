@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31IIt0iR0cL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R4XCVMN-es Wrangler Authentic Straight Incl Belt Vaqueros  Negro  Black Z10   36W / 34L para Hombre'
+slug: 'B07R4XCVMN-es Wrangler Authentic Straight Incl Belt Vaqueros Negro Black...'
+tags: vaqueros
 actualPrice: 19.12 EUR
 currency: EUR
 price: 19.12

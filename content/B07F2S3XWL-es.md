@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41iJhZvRTKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F2S3XWL-es Helly Hansen HP Racing Prueba De Viento Y Respirable Cuello Forro Polar Marina Deportes Navegación Chaqueta Impermeable  Mujer  Navy  L'
+slug: 'B07F2S3XWL-es Helly Hansen HP Racing Prueba De Viento Y Respirable...'
+tags: chaqueta
 actualPrice: 86.58 EUR
 currency: EUR
 price: 86.58

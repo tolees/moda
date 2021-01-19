@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31iBvB0lPkL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L4YWPY2-es Marco Tozzi 2-2-25107-33  Botines para Mujer  Rojo  Bordeaux Comb 550   37 EU'
+slug: 'B07L4YWPY2-es Marco Tozzi 2-2-25107-33 Botines para Mujer Rojo Bordeaux...'
+tags: botines
 actualPrice: 20.33 EUR
 currency: EUR
 price: 20.33

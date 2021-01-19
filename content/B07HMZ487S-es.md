@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31flFReEzeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HMZ487S-es Marca Amazon - Goodthreads - Camiseta de manga corta y cuello redondo de punto de gamuza con bolsillo para hombre  Amarillo  US M  EU M '
+slug: 'B07HMZ487S-es Marca Amazon - Goodthreads - Camiseta de manga corta y...'
+tags: camiseta
 actualPrice: 3.83 EUR
 currency: EUR
 price: 3.83

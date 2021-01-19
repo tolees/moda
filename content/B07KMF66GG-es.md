@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41qvT+e1M5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KMF66GG-es Marca Amazon - find. Americana de Lino Mujer  Beige  Stone   40  Label: M'
+slug: 'B07KMF66GG-es Marca Amazon - find. Americana de Lino Mujer Beige Stone...'
+tags: -, find.
 actualPrice: 6.08 EUR
 currency: EUR
 price: 6.08

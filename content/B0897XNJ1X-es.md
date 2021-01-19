@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51c1SlaC6GL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0897XNJ1X-es Zapatos Colchón Aire Deporte Mujer Zapatillas Deportivas Correr Gimnasio Casual Zapatos para Caminar Mesh Running Transpirable Aumentar Más Altos Sneakers Anti Fatiga Negro'
+slug: 'B0897XNJ1X-es Zapatos Colchón Aire Deporte Mujer Zapatillas Deportivas...'
+tags: zapatos
 actualPrice: 23.75 EUR
 currency: EUR
 price: 23.75

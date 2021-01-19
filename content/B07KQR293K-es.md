@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41Ufwd3zBeL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KQR293K-es Under Armour Forefront Rain Chaqueta  Mujer  Negro  LG'
+slug: 'B07KQR293K-es Under Armour Forefront Rain Chaqueta Mujer Negro LG'
+tags: chaqueta
 actualPrice: 39.2 EUR
 currency: EUR
 price: 39.2

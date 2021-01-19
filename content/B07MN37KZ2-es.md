@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31XT8E3hYRL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MN37KZ2-es Lee Scarlett High Vaqueros  Gris  Grey Alma Iu   30W/35L para Mujer'
+slug: 'B07MN37KZ2-es Lee Scarlett High Vaqueros Gris Grey Alma Iu 30W/35L para...'
+tags: vaqueros
 actualPrice: 35.49 EUR
 currency: EUR
 price: 35.49

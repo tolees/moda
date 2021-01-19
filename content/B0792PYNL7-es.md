@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51SBT6sQ7WL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0792PYNL7-es CooBELL Bolso portátil a Ordenadores portátiles de 15 6 Pulgadas  39 6 cm  de en Nylon Oxford Impermeable  Maletín con múltiples Compartimentos para Ordenadores de Las Marcas Unisex  Gris '
+slug: 'B0792PYNL7-es CooBELL Bolso portátil a Ordenadores portátiles de 15 6...'
+tags: bolso
 actualPrice: 21.41 EUR
 currency: EUR
 price: 21.41

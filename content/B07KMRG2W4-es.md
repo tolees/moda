@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/312TvD7nWSL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KMRG2W4-es HUGO Bill1921 Chaqueta  Negro  Black 001   Large para Hombre'
+slug: 'B07KMRG2W4-es HUGO Bill1921 Chaqueta Negro Black 001 Large para Hombre'
+tags: chaqueta
 actualPrice: 45.56 EUR
 currency: EUR
 price: 45.56

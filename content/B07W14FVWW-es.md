@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/3152yQkuygL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W14FVWW-es Pepe Jeans West Sir Camiseta  Azul  Dark Acqua 518   Medium para Hombre'
+slug: 'B07W14FVWW-es Pepe Jeans West Sir Camiseta Azul Dark Acqua 518 Medium...'
+tags: camiseta
 actualPrice: 16.45 EUR
 currency: EUR
 price: 16.45

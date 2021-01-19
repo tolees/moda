@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ARkDQWPPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NDP9NPY-es TBS Paxsonn  Zapatos de Cordones Derby para Hombre   Marron Foncé B8245   43 EU'
+slug: 'B07NDP9NPY-es TBS Paxsonn Zapatos de Cordones Derby para Hombre Marron...'
+tags: zapatos
 actualPrice: 29.7 EUR
 currency: EUR
 price: 29.7

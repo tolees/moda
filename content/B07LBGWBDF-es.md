@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31j7WmUAeNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LBGWBDF-es Nike M SB Dri-FIT Camiseta  Hombre  Blanco  White/Black '
+slug: 'B07LBGWBDF-es Nike M SB Dri-FIT Camiseta Hombre Blanco White/Black'
+tags: camiseta
 actualPrice: 20.97 EUR
 currency: EUR
 price: 20.97

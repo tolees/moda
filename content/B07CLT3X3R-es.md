@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51a0Xlcs8LL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CLT3X3R-es Vintage Camisetas Mujer Manga Corta Negro Aesthetic Verano Moda Poleras T Shirt Tops Ropa  Negro  M '
+slug: 'B07CLT3X3R-es Vintage Camisetas Mujer Manga Corta Negro Aesthetic Verano...'
+tags: moda
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

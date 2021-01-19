@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41eygzS5imL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B072JJJ1V3-es find. Vestido con Cremallera para Mujer   Verde  Pine Grove   38  Talla del Fabricante: Small '
+slug: 'B072JJJ1V3-es find. Vestido con Cremallera para Mujer Verde Pine Grove...'
+tags: vestido
 actualPrice: 9.6 EUR
 currency: EUR
 price: 9.6

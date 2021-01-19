@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41d4pr1GHXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M03GUBP-es Furla - Stacy S Drawstring  Bolso Mujer  Negro  Onyx   13x22x26 cm  B x H T '
+slug: 'B01M03GUBP-es Furla - Stacy S Drawstring Bolso Mujer Negro Onyx 13x22x26...'
+tags: bolso
 actualPrice: 145.94 EUR
 currency: EUR
 price: 145.94

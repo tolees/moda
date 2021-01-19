@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31RqRlei7tL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074WHS8JJ-es Marca Amazon - MERAKI Chaqueta de Merino Hombre Cuello Pico  Verde  Khaki   S  Label: S'
+slug: 'B074WHS8JJ-es Marca Amazon - MERAKI Chaqueta de Merino Hombre Cuello...'
+tags: chaqueta, meraki
 actualPrice: 14.38 EUR
 currency: EUR
 price: 14.38

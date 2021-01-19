@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51fE77uvLXL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D7W7F1W-es Charles Wilson Camisa Original Manga Larga Cuadros para Hombre  Medium  Burgundy & Sky '
+slug: 'B07D7W7F1W-es Charles Wilson Camisa Original Manga Larga Cuadros para...'
+tags: camisa
 actualPrice: 12.95 EUR
 currency: EUR
 price: 12.95

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31KROU1v4NL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085MTSF9M-es Freebily Maillots de Danza Yoga Mujer Vestido Deportivo de Baile Manga Larga Leotardo Gimnasia con Tutú Elástico Ropa Deportiva Verano Mujeres Beige Large'
+slug: 'B085MTSF9M-es Freebily Maillots de Danza Yoga Mujer Vestido Deportivo de...'
+tags: vestido
 actualPrice: 14.49 EUR
 currency: EUR
 price: 14.49

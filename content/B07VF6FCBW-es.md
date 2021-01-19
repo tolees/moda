@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41WV2e8U2sL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VF6FCBW-es Hackett London Amr Print Crew Sudadera  Rojo  1bkorange Lacq 1bk   X-Small para Hombre'
+slug: 'B07VF6FCBW-es Hackett London Amr Print Crew Sudadera Rojo 1bkorange Lacq...'
+tags: sudadera
 actualPrice: 36.89 EUR
 currency: EUR
 price: 36.89

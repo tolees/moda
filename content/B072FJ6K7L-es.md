@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41yGF9wd0iL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072FJ6K7L-es Under Armour MK1 Shorts Pantalón Corto  Hombre  Negro  Black/Stealth Gray 001   XL'
+slug: 'B072FJ6K7L-es Under Armour MK1 Shorts Pantalón Corto Hombre Negro...'
+tags: pantalón
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

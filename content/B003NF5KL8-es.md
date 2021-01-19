@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41N3tl0XUWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003NF5KL8-es CATWALK COLLECTION - BELLSTONE - Bolso al hombro estilo shopper - Cuero vintage - Grande - Rojo'
+slug: 'B003NF5KL8-es CATWALK COLLECTION - BELLSTONE - Bolso al hombro estilo...'
+tags: bolso
 actualPrice: 69.95 EUR
 currency: EUR
 price: 69.95

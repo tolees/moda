@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41SA%2BwP45zL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LG42ZHB-es Geox J BULLER Boy D  Zapatillas para Niños  Azul  Navy/Dk Red C4244   38 EU'
+slug: 'B07LG42ZHB-es Geox J BULLER Boy D Zapatillas para Niños Azul Navy/Dk Red...'
+tags: geox
 actualPrice: 32.95 EUR
 currency: EUR
 price: 32.95

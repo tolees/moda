@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31PMX-M09ZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JYV9C5C-es Tommy Hilfiger Hilfiger Logo Sweatshirt Sudadera  Blanco  Bright White 100   X-Large para Hombre'
+slug: 'B07JYV9C5C-es Tommy Hilfiger Hilfiger Logo Sweatshirt Sudadera Blanco...'
+tags: sudadera
 actualPrice: 49.0 EUR
 currency: EUR
 price: 49.0

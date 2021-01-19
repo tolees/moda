@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31zTrjwl1FL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B006SWFVAS-es Helly Hansen W Seven J Jacket - Chaqueta para Mujer  Color Negro  Talla XS'
+slug: 'B006SWFVAS-es Helly Hansen W Seven J Jacket - Chaqueta para Mujer Color...'
+tags: chaqueta
 actualPrice: 45.35 EUR
 currency: EUR
 price: 45.35

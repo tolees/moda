@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61gKRHpSc+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079L52GSQ-es CLUB CUBANA Camisa Hawaiana Florar Casual Manga Corta Ajuste Slim para Hombre L'
+slug: 'B079L52GSQ-es CLUB CUBANA Camisa Hawaiana Florar Casual Manga Corta...'
+tags: camisa
 actualPrice: 12.94 EUR
 currency: EUR
 price: 12.94

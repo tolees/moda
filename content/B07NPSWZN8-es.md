@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51GiUEKxQ3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NPSWZN8-es Chaqueta Chaleco de Trabajo Multiusos MAX - Ropa de Trabajo para Hombre - 2 en 1 para Todo el año - Azul/Amarillo - S  EU46 '
+slug: 'B07NPSWZN8-es Chaqueta Chaleco de Trabajo Multiusos MAX - Ropa de...'
+tags: chaleco, chaqueta
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

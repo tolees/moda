@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31tUVXgAcbL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LG2HDMD-es Geox D Hiver D  Zapatillas sin Cordones para Mujer  Azul  DK Navy C4021   39 EU'
+slug: 'B07LG2HDMD-es Geox D Hiver D Zapatillas sin Cordones para Mujer Azul DK...'
+tags: geox
 actualPrice: 31.46 EUR
 currency: EUR
 price: 31.46

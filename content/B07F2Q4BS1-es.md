@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/410Kci6cVqL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F2Q4BS1-es Helly Hansen HP Fleece Jacket Chaqueta Polar  Hombre  Quiet Shade  S'
+slug: 'B07F2Q4BS1-es Helly Hansen HP Fleece Jacket Chaqueta Polar Hombre Quiet...'
+tags: chaqueta
 actualPrice: 58.05 EUR
 currency: EUR
 price: 58.05

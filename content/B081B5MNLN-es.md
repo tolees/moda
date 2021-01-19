@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Iv5hMNtSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081B5MNLN-es Columbia CSC Basic Camiseta de Manga Corta  Hombre  Gris Grey Heather  L'
+slug: 'B081B5MNLN-es Columbia CSC Basic Camiseta de Manga Corta Hombre Gris...'
+tags: camiseta
 actualPrice: 15.49 EUR
 currency: EUR
 price: 15.49

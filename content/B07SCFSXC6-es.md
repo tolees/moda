@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31LZYnfRDAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SCFSXC6-es Crocs Classic U  Zuecos con Correa Trasera Unisex Adulto  Electric Pink  42/43 EU'
+slug: 'B07SCFSXC6-es Crocs Classic U Zuecos con Correa Trasera Unisex Adulto...'
+tags: zuecos
 actualPrice: 22.72 EUR
 currency: EUR
 price: 22.72

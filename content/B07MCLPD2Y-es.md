@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31rz-s4iW6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MCLPD2Y-es Marca Amazon - find. Pantalón con Cintura de Fuelle Mujer  Rojo  rojo Ocre 18-1442 Tcx    40  Label: M'
+slug: 'B07MCLPD2Y-es Marca Amazon - find. Pantalón con Cintura de Fuelle Mujer...'
+tags: pantalón, -, find.
 actualPrice: 11.39 EUR
 currency: EUR
 price: 11.39

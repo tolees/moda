@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41D0FmJKz8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PMS7VZS-es HUGO Elisha01 Camisa  Rojo  Medium Red 615   XX-Large  Talla del Fabricante: 45  para Hombre'
+slug: 'B07PMS7VZS-es HUGO Elisha01 Camisa Rojo Medium Red 615 XX-Large Talla...'
+tags: camisa
 actualPrice: 23.37 EUR
 currency: EUR
 price: 23.37

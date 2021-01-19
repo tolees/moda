@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4159avt+dWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R92LMH1-es Columbia Columbia Lodge  Chaqueta sudadera  Hombre  Verde/Negro  Olive Green Heather  Black   Talla M'
+slug: 'B07R92LMH1-es Columbia Columbia Lodge Chaqueta sudadera Hombre...'
+tags: chaqueta, sudadera
 actualPrice: 48.82 EUR
 currency: EUR
 price: 48.82

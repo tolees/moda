@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41cpLmL-sxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VGH72M4-es Jack & Jones Glenn Royal R215 Rdd Ltd Vaqueros  Blue Denim  29W / 32L para Hombre'
+slug: 'B07VGH72M4-es Jack & Jones Glenn Royal R215 Rdd Ltd Vaqueros Blue Denim...'
+tags: vaqueros
 actualPrice: 33.82 EUR
 currency: EUR
 price: 33.82

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31X1XhT2xWL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00LFCB9JS-es Birkenstock Gizeh Eva - Sandalias unisex  Verde  Khaki   38'
+slug: 'B00LFCB9JS-es Birkenstock Gizeh Eva - Sandalias unisex Verde Khaki 38'
+tags: sandalias
 actualPrice: 20.36 EUR
 currency: EUR
 price: 20.36

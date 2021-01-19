@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41GEGORrXeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B017RNULXI-es LEABAGS Boston Bolso de Mensajero de auténtico Cuero búfalo en el Estilo Vintage - Muskat'
+slug: 'B017RNULXI-es LEABAGS Boston Bolso de Mensajero de auténtico Cuero...'
+tags: bolso
 actualPrice: 94.98 EUR
 currency: EUR
 price: 94.98

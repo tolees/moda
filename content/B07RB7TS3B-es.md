@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41sqQkKOsYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RB7TS3B-es Columbia Pike Lake  Chaqueta forrada con capucha  Hombre  Azul oscuro Nocturnal   Talla S'
+slug: 'B07RB7TS3B-es Columbia Pike Lake Chaqueta forrada con capucha Hombre...'
+tags: chaqueta
 actualPrice: 80.48 EUR
 currency: EUR
 price: 80.48

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31cDF5oED4L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TJJTFMK-es G-STAR RAW Jirgi Zip Camiseta  Negro  Dk Black 6484   X-Large para Hombre'
+slug: 'B07TJJTFMK-es G-STAR RAW Jirgi Zip Camiseta Negro Dk Black 6484 X-Large...'
+tags: camiseta
 actualPrice: 34.97 EUR
 currency: EUR
 price: 34.97

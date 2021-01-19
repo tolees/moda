@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414YC5rfFGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TW5XD1M-es KATOOM Guantes Bebé Algodón 6 pares Guantes Antiarañazos para Baby Ajustable Respirable Suave Cómodos Azul Amarillo Rosa Abrigar las Manos Protección de Rasguño Viento y Sol en Aire Libre Casa'
+slug: 'B07TW5XD1M-es KATOOM Guantes Bebé Algodón 6 pares Guantes Antiarañazos...'
+tags: guantes
 actualPrice: 8.97 EUR
 currency: EUR
 price: 8.97

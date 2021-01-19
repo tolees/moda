@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41CxKryp7rL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KF4XL5D-es Levi s Housemark Graphic tee Camiseta  Blanco  Hm Ssnl White 0207   X-Large para Hombre'
+slug: 'B07KF4XL5D-es Levi s Housemark Graphic tee Camiseta Blanco Hm Ssnl White...'
+tags: camiseta
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

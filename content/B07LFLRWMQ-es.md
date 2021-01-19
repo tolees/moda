@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51-92603m%2BL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFLRWMQ-es Levi s Graphic Varsity tee Camiseta  Multicolor  All Over Dunsmuir Hsmk C89519 Dunsmuir 0036   Large para Mujer'
+slug: 'B07LFLRWMQ-es Levi s Graphic Varsity tee Camiseta Multicolor All Over...'
+tags: camiseta
 actualPrice: 13.95 EUR
 currency: EUR
 price: 13.95

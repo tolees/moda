@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41dczAoVOeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z4BZ4VN-es Jack & Jones Jjeorganic Basic tee SS O-Neck Noos Camiseta  Azul  Blue Heaven Detail: Slim   Medium para Hombre'
+slug: 'B07Z4BZ4VN-es Jack & Jones Jjeorganic Basic tee SS O-Neck Noos Camiseta...'
+tags: camiseta
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

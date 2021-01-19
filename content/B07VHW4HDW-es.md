@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/410SevC7iZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VHW4HDW-es Desigual – Bols stardust Yangra Bolso de hombro para mujer  color morado  lila   9 5 x 28 2 x 38 cm'
+slug: 'B07VHW4HDW-es Desigual – Bols stardust Yangra Bolso de hombro para mujer...'
+tags: bolso
 actualPrice: 26.6 EUR
 currency: EUR
 price: 26.6

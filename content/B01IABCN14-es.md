@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31-HV535EcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IABCN14-es Meller - Kribi Amber Carbon - Gafas de sol para hombre y mujer'
+slug: 'B01IABCN14-es Meller - Kribi Amber Carbon - Gafas de sol para hombre y...'
+tags: gafas
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

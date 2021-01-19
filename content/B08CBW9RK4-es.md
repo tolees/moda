@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/511KSeONaeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CBW9RK4-es LJP Funda Huawei Honor 8X  Suave PU Cuero Carcasa y TPU Funda Interna  Color Flip Wallet Case Cover para Huawei Honor 8X  Billetera Magnético con Función de Soporte  Ranuras para Tarjetas'
+slug: 'B08CBW9RK4-es LJP Funda Huawei Honor 8X Suave PU Cuero Carcasa y TPU...'
+tags: billetera
 actualPrice: 7.59 EUR
 currency: EUR
 price: 7.59

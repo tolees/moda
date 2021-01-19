@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41tGD4e8WIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XTQNZ7H-es Jack & Jones Jjiglenn Jjoriginal Jos 123 I.k Vaqueros Slim  Azul  Blue Denim Blue Denim   W31/L30  Talla del Fabricante: 31  para Hombre'
+slug: 'B07XTQNZ7H-es Jack & Jones Jjiglenn Jjoriginal Jos 123 I.k Vaqueros Slim...'
+tags: vaqueros
 actualPrice: 40.0 EUR
 currency: EUR
 price: 40.0

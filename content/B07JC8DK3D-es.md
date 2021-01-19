@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41UcMBNd2YL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JC8DK3D-es loonBonnie Bolso de Hombro de la Lona de la Moda  Bolso de Crossbody del Viaje al Aire Libre de la Mujer de Las Muchachas de la Bolsa de Mensajero de la Capacidad Grande'
+slug: 'B07JC8DK3D-es loonBonnie Bolso de Hombro de la Lona de la Moda Bolso de...'
+tags: bolso, moda
 actualPrice: 3.14 EUR
 currency: EUR
 price: 3.14

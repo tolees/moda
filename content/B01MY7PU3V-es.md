@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31BdxUfpq-L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MY7PU3V-es find. Camisa Casual de Algodón con Corte Estándar para Hombre  Blanco  White   Large'
+slug: 'B01MY7PU3V-es find. Camisa Casual de Algodón con Corte Estándar para...'
+tags: camisa
 actualPrice: 9 EUR
 currency: EUR
 price: 9

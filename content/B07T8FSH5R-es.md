@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51t4Hp1Dk0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T8FSH5R-es SHIELDON Mochila Portatil 15.6 Pulgadas  Mochila Impermeable con Bolsillo Antirrobo  Mochila Escolares  Bolso Mochila Ordenador Hombre Mujer Backpack Mochila para Negocio Trabajo Viaje  22L  Gris'
+slug: 'B07T8FSH5R-es SHIELDON Mochila Portatil 15.6 Pulgadas Mochila...'
+tags: bolso
 actualPrice: 52.99 EUR
 currency: EUR
 price: 52.99

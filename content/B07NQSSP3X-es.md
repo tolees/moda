@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41OJidwyaAL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NQSSP3X-es Springfield 6Ba-Acolchada Cap Bas Chaqueta  Verde  Green 26   XXX-Large  Tamaño del Fabricante: XXXL  para Hombre'
+slug: 'B07NQSSP3X-es Springfield 6Ba-Acolchada Cap Bas Chaqueta Verde Green 26...'
+tags: chaqueta
 actualPrice: 24.7 EUR
 currency: EUR
 price: 24.7

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41XeKqZ7eqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LH43BRC-es Gafas de Presbicia con Filtro Anti Luz Azul para Ordenador. Gafas Graduadas de Lectura para Hombre y Mujer con Cristales Anti-reflejantes. Indigo +1.5 – TATE'
+slug: 'B07LH43BRC-es Gafas de Presbicia con Filtro Anti Luz Azul para...'
+tags: gafas
 actualPrice: 19.92 EUR
 currency: EUR
 price: 19.92

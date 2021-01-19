@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31TUsiaKkoL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00U8PX5DG-es Balenciaga Brillengestelle Ba5034 65A-52-21-140 Monturas de gafas  Negro  Schwarz   52.0 para Mujer'
+slug: 'B00U8PX5DG-es Balenciaga Brillengestelle Ba5034 65A-52-21-140 Monturas...'
+tags: gafas
 actualPrice: 43.38 EUR
 currency: EUR
 price: 43.38

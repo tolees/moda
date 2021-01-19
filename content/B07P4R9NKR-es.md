@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41hdpb6LGyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P4R9NKR-es Goodthreads Standard-fit Long-Sleeve Stretch Oxford Shirt  All Hours  Camisa abotonada  Denim Blue Bengal Stripe  L Tall'
+slug: 'B07P4R9NKR-es Goodthreads Standard-fit Long-Sleeve Stretch Oxford Shirt...'
+tags: camisa
 actualPrice: 6.76 EUR
 currency: EUR
 price: 6.76

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/319QdAmnk+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JXNPZ4H-es Timberland Nellie Double Waterproof  Zapatillas Chukka para Mujer  Verde  Dark Green Nubuck   42 EU'
+slug: 'B07JXNPZ4H-es Timberland Nellie Double Waterproof Zapatillas Chukka para...'
+tags: timberland
 actualPrice: 45.95 EUR
 currency: EUR
 price: 45.95

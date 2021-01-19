@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Q9U60nDyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KHTM25A-es Under Armour UA Heatgear Short Sleeve Camiseta  Hombre  Negro  Black/Steel 001   M'
+slug: 'B00KHTM25A-es Under Armour UA Heatgear Short Sleeve Camiseta Hombre...'
+tags: camiseta
 actualPrice: 15.49 EUR
 currency: EUR
 price: 15.49

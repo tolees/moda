@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51rSzhmFMaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F9P59ZR-es Vestidos Estampados Flores Mujer de Verano Cuello en V Manga 3/4 Cintura Alta con Cinturón Vintage Bohemio Hippie Chic Caftan Tunica Falda Wrap Vestido Imperio Largo para Playa Noche Ceremonia Fiesta'
+slug: 'B07F9P59ZR-es Vestidos Estampados Flores Mujer de Verano Cuello en V...'
+tags: falda, vestido
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

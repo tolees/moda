@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Ec5Xs5s+L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SS8P68T-es Cardigan Mujer Verano Camisa Blusa Manga Larga Mujer Cárdigan Largo Playa Camisetas de Fiesta Blusas Largas Chal Flojo Chaqueta Punto Cardigans Mujer Primavera Verano'
+slug: 'B07SS8P68T-es Cardigan Mujer Verano Camisa Blusa Manga Larga Mujer...'
+tags: blusa, camisa, chaqueta
 actualPrice: 32.49 EUR
 currency: EUR
 price: 32.49

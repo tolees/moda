@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31Es%2B-v5yQL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LH1PMXH-es The North Face Ambition S/S Camiseta de Manga Corta  Hombre  Verde  Chlorophyll Green   M'
+slug: 'B07LH1PMXH-es The North Face Ambition S/S Camiseta de Manga Corta Hombre...'
+tags: camiseta
 actualPrice: 16.45 EUR
 currency: EUR
 price: 16.45

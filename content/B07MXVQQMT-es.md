@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41nQ2O6kc+L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MXVQQMT-es Desigual 19WAXA68 - Bolso de hombro de Sintético Mujer 30.5x17x37 cm  B x H x T '
+slug: 'B07MXVQQMT-es Desigual 19WAXA68 - Bolso de hombro de Sintético Mujer...'
+tags: bolso
 actualPrice: 49.47 EUR
 currency: EUR
 price: 49.47

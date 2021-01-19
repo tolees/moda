@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41Sl%2BIZS0nL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TFQ5J6K-es Quiksilver Everyday Sudadera con Capucha y Cremallera  Hombre  Negro  Black   L'
+slug: 'B07TFQ5J6K-es Quiksilver Everyday Sudadera con Capucha y Cremallera...'
+tags: sudadera
 actualPrice: 35.46 EUR
 currency: EUR
 price: 35.46

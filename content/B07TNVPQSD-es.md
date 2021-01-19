@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41pglZCzfcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TNVPQSD-es Clarks Un Bali Trek  Sandalias de Talón Abierto para Mujer  Azul  Navy Combi Nbk Navy Combi Nbk   40 EU'
+slug: 'B07TNVPQSD-es Clarks Un Bali Trek Sandalias de Talón Abierto para Mujer...'
+tags: sandalias
 actualPrice: 50.16 EUR
 currency: EUR
 price: 50.16

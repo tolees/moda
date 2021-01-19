@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31pHTPSjG-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K6KPTY9-es Marca Amazon - MERAKI Culottes Mujer  Azul  Navy   38  Label: S'
+slug: 'B07K6KPTY9-es Marca Amazon - MERAKI Culottes Mujer Azul Navy 38 Label: S'
+tags: meraki
 actualPrice: 7.54 EUR
 currency: EUR
 price: 7.54

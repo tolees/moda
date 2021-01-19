@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41IqIroPP3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F8TLL84-es SHOBDW Pantalones de Verano de Moda Pantalones Cortos Deportivos de Las Mujeres Cortos de la Yoga de la Cintura del Entrenamiento de la Cintura Flaca  S  Naranja '
+slug: 'B07F8TLL84-es SHOBDW Pantalones de Verano de Moda Pantalones Cortos...'
+tags: moda
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

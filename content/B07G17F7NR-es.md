@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ATWTLnbnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G17F7NR-es Tommy Hilfiger T Camiseta Básica de Manga Corta  Negro  Meteorite   Talla única  Talla del Fabricante: 86  para Niños'
+slug: 'B07G17F7NR-es Tommy Hilfiger T Camiseta Básica de Manga Corta Negro...'
+tags: camiseta
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

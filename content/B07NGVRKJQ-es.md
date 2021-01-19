@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41vHUSsUjgL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NGVRKJQ-es Calvin Klein Boxer Brief 2pk  Gris  Grey Heather/Surf The Web Skj   Medium  Pack de 2  para Hombre'
+slug: 'B07NGVRKJQ-es Calvin Klein Boxer Brief 2pk Gris Grey Heather/Surf The...'
+tags: boxer
 actualPrice: 15.4 EUR
 currency: EUR
 price: 15.4

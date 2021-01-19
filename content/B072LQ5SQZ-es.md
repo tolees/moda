@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41NbpOnolXL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B072LQ5SQZ-es Crocs Classic Clog Kids Roomy fit Zuecos Unisex niños  Morado  Amethyst   28/29 EU'
+slug: 'B072LQ5SQZ-es Crocs Classic Clog Kids Roomy fit Zuecos Unisex niños...'
+tags: zuecos
 actualPrice: 22.48 EUR
 currency: EUR
 price: 22.48

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41g3ZCXjCYL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P22SFM1-es Dickies Gapville Chaqueta  Negro  XX-Large  Talla del Fabricante:  para Hombre'
+slug: 'B07P22SFM1-es Dickies Gapville Chaqueta Negro XX-Large Talla del...'
+tags: chaqueta
 actualPrice: 27.21 EUR
 currency: EUR
 price: 27.21

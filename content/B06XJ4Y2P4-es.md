@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BpDA2obNL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XJ4Y2P4-es find. Camisa Entallada de Manga Corta con Bandas Deportivas Hombre  Azul  Blue   XX-Large'
+slug: 'B06XJ4Y2P4-es find. Camisa Entallada de Manga Corta con Bandas...'
+tags: camisa
 actualPrice: 7.5 EUR
 currency: EUR
 price: 7.5

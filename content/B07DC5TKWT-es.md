@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41iwIozkn8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DC5TKWT-es LOVEVOOK Bolsos de las mujeres bolsos hobo bolso de mano satchel cartera Set 3pcs Azul claro'
+slug: 'B07DC5TKWT-es LOVEVOOK Bolsos de las mujeres bolsos hobo bolso de mano...'
+tags: bolso
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

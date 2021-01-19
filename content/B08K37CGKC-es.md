@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51cNw3zoxFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08K37CGKC-es Bluelucon lenceria mujer 1pc El PañO De AlgodóN Estampado A La Moda para Hombres Y Mujeres Adultos Se Puede Lavar Y Reutilizar  A '
+slug: 'B08K37CGKC-es Bluelucon lenceria mujer 1pc El PañO De AlgodóN Estampado...'
+tags: moda
 actualPrice: 2.29 EUR
 currency: EUR
 price: 2.29

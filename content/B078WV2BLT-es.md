@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31lIwBOlkFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078WV2BLT-es Quiksilver Carver Nubuck-Sandals For Men  Zapatos de Playa y Piscina para Hombre  Negro  Solid Black Sbkm   41 EU'
+slug: 'B078WV2BLT-es Quiksilver Carver Nubuck-Sandals For Men Zapatos de Playa...'
+tags: zapatos
 actualPrice: 20.36 EUR
 currency: EUR
 price: 20.36

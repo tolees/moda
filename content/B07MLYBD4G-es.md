@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41O9+Am-GGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MLYBD4G-es Geox B Tutim A  Zapatillas Bebés  Beige  Biscuit C5046   23 EU'
+slug: 'B07MLYBD4G-es Geox B Tutim A Zapatillas Bebés Beige Biscuit C5046 23 EU'
+tags: geox
 actualPrice: 24.95 EUR
 currency: EUR
 price: 24.95

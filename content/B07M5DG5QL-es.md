@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41D6wluEkFL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M5DG5QL-es Lee Rider Jeans Vaqueros  Tawny Port  32W / 32L para Hombre'
+slug: 'B07M5DG5QL-es Lee Rider Jeans Vaqueros Tawny Port 32W / 32L para Hombre'
+tags: vaqueros
 actualPrice: 44.98 EUR
 currency: EUR
 price: 44.98

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51bIVnl+QQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TZRYH4G-es Zapatos de bebé Sandalias Unisex Niños 0-6 Meses - 3-4 años Sandalias del Niño de Verano Las Zapatillas de Deporte Sandalias Velcro para Niño Zapatillas de Deporte Al Aire Libre'
+slug: 'B07TZRYH4G-es Zapatos de bebé Sandalias Unisex Niños 0-6 Meses - 3-4...'
+tags: sandalias, zapatos
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

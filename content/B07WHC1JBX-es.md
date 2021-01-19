@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51DUNzBK2-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WHC1JBX-es Springfield 4.Gym.Vestido Ap Polybubb-C/65 Vestido de Fiesta  Naranja  Orange 65   42  Tamaño del Fabricante: 42  para Mujer'
+slug: 'B07WHC1JBX-es Springfield 4.Gym.Vestido Ap Polybubb-C/65 Vestido de...'
+tags: vestido
 actualPrice: 21.94 EUR
 currency: EUR
 price: 21.94

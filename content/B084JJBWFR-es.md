@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/415-gjXl51L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084JJBWFR-es XTI - Sandalias con Tacón de Fiesta - Sandalia con Tacón Fino - Cierre con Cordones - Color Taupe - Talla 39'
+slug: 'B084JJBWFR-es XTI - Sandalias con Tacón de Fiesta - Sandalia con Tacón...'
+tags: sandalias
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

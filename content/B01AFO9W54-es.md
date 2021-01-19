@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31dVkoVIVdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01AFO9W54-es Diesel CREW NECK ESSENTIAL  Camiseta para Hombre  Multicolor  Black / White   L  Pack de 3'
+slug: 'B01AFO9W54-es Diesel CREW NECK ESSENTIAL Camiseta para Hombre Multicolor...'
+tags: camiseta
 actualPrice: 27.49 EUR
 currency: EUR
 price: 27.49

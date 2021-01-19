@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41se0b0NLWL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0811JFJCB-es Yigou Chubasquero  Poncho de Lluvia Impermeable Poncho con Capucha Ropa Chaqueta Impermeable Reutilizable Portátil para Unisex  Chubasqueros Impermeable  Paquete de 2   160-190 cm  Blanco '
+slug: 'B0811JFJCB-es Yigou Chubasquero Poncho de Lluvia Impermeable Poncho con...'
+tags: chaqueta
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

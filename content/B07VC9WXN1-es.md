@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/411JjIwHLsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VC9WXN1-es JACK & JONES Jorhardy Light Puffer Chaqueta  Rojo  Scarlet Detail:Solid   X-Large para Hombre'
+slug: 'B07VC9WXN1-es JACK & JONES Jorhardy Light Puffer Chaqueta Rojo Scarlet...'
+tags: chaqueta
 actualPrice: 19.26 EUR
 currency: EUR
 price: 19.26

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416L1zQYnjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SD92X1M-es Helly Hansen Crew Midlayer Chaqueta Deportiva Impermeable  Hombre  Royal Blue  S'
+slug: 'B07SD92X1M-es Helly Hansen Crew Midlayer Chaqueta Deportiva Impermeable...'
+tags: chaqueta
 actualPrice: 64.05 EUR
 currency: EUR
 price: 64.05

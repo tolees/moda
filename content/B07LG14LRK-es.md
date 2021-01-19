@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/411WPlRlBzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LG14LRK-es Geox D New ANNYA B  Botines para Mujer  Negro  Black C9999   40 EU'
+slug: 'B07LG14LRK-es Geox D New ANNYA B Botines para Mujer Negro Black C9999 40 EU'
+tags: botines, geox
 actualPrice: 21.34 EUR
 currency: EUR
 price: 21.34

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Nn36lTSAL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MJGJ4KW-es CMP Rigel  Zapatos de Low Rise Senderismo Unisex Niños   Stone-Orange 78uc   28 EU'
+slug: 'B07MJGJ4KW-es CMP Rigel Zapatos de Low Rise Senderismo Unisex Niños...'
+tags: zapatos
 actualPrice: 17.24 EUR
 currency: EUR
 price: 17.24

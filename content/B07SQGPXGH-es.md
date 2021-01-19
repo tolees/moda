@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31TexpuZ5oL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SQGPXGH-es Geox U Nebula C  Zapatillas para Hombre  Azul  Avio C4005   39 EU'
+slug: 'B07SQGPXGH-es Geox U Nebula C Zapatillas para Hombre Azul Avio C4005 39 EU'
+tags: geox
 actualPrice: 49.13 EUR
 currency: EUR
 price: 49.13

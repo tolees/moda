@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21XCFmBI8IL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YBFTWYP-es Vans Colorblock tee Camiseta  Morado  Dark Purple/White Ypj   XX-Large para Hombre'
+slug: 'B07YBFTWYP-es Vans Colorblock tee Camiseta Morado Dark Purple/White Ypj...'
+tags: camiseta
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

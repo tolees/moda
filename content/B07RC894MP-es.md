@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41tvXEFUMLL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RC894MP-es Columbia 1420421  Chaqueta Forro Polar Hombre  Azul  Blau/Negro   S'
+slug: 'B07RC894MP-es Columbia 1420421 Chaqueta Forro Polar Hombre Azul...'
+tags: chaqueta
 actualPrice: 18.72 EUR
 currency: EUR
 price: 18.72

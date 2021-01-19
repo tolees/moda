@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41-oFiRzRyL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B072HV6C9Q-es find. Sudadera Manga Fruncida para Mujer   Rosa  Soft Peach   42  Talla del Fabricante: Large '
+slug: 'B072HV6C9Q-es find. Sudadera Manga Fruncida para Mujer Rosa Soft Peach...'
+tags: sudadera
 actualPrice: 12 EUR
 currency: EUR
 price: 12

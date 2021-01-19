@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31Hy0TNkx1L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M1LK4T2-es Carrera 125/S HD 6UB Gafas de sol  Negro  Shn Black Gd/Grey Sf   54 Unisex-Adulto'
+slug: 'B01M1LK4T2-es Carrera 125/S HD 6UB Gafas de sol Negro Shn Black Gd/Grey...'
+tags: gafas
 actualPrice: 39.9 EUR
 currency: EUR
 price: 39.9

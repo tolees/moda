@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41vkPR7tG8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08GCKKYBW-es MioRico Saco Dormir Bebe 1 TOG Saquito de Dormir 100% Algodon Organico Recien Nacido Pijama Manta Bebes 4 Estaciones Saco de Dormir para Bebés Regalo Recien Nacidos Niño Niña  3-6 Meses'
+slug: 'B08GCKKYBW-es MioRico Saco Dormir Bebe 1 TOG Saquito de Dormir 100%...'
+tags: pijama
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

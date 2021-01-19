@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41eBFsMrcIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W4JVXVG-es Only Onlally Boucle Wool Coat CC Otw Abrigo  Azul  Peacoat Detail: Melange   Small para Mujer'
+slug: 'B07W4JVXVG-es Only Onlally Boucle Wool Coat CC Otw Abrigo Azul Peacoat...'
+tags: abrigo
 actualPrice: 19.38 EUR
 currency: EUR
 price: 19.38

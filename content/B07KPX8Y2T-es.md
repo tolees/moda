@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/3150tLGaIxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KPX8Y2T-es adidas Essentials Linear Logo tee Camiseta  Hombre  Blanco  White/Black   XS'
+slug: 'B07KPX8Y2T-es adidas Essentials Linear Logo tee Camiseta Hombre Blanco...'
+tags: camiseta
 actualPrice: 9.98 EUR
 currency: EUR
 price: 9.98

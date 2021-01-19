@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41mGtYSxQ8L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B074FVXNMM-es find. Sudadera con Capucha y Detalle Bordado para Hombre  Azul  Navy   Medium'
+slug: 'B074FVXNMM-es find. Sudadera con Capucha y Detalle Bordado para Hombre...'
+tags: sudadera
 actualPrice: 9 EUR
 currency: EUR
 price: 9

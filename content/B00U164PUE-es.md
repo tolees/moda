@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Z358CXuBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00U164PUE-es Anself - 12 colores Conjunto de Pintalabios brillante cosmético para maquillaje de labios para moda de mujeres  #2 '
+slug: 'B00U164PUE-es Anself - 12 colores Conjunto de Pintalabios brillante...'
+tags: moda
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

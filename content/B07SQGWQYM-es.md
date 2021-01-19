@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41MMTZ5D+QL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SQGWQYM-es Geox D Nebula B  Zapatillas sin Cordones para Mujer  Rojo  Red C7000   36 EU'
+slug: 'B07SQGWQYM-es Geox D Nebula B Zapatillas sin Cordones para Mujer Rojo...'
+tags: geox
 actualPrice: 43.89 EUR
 currency: EUR
 price: 43.89

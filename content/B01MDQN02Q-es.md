@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21vpiyYhSBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MDQN02Q-es BOSS T-Shirt RN 3p Co Camiseta para Hombre  Blanco  White 100   X-Large  pack de 3'
+slug: 'B01MDQN02Q-es BOSS T-Shirt RN 3p Co Camiseta para Hombre Blanco White...'
+tags: camiseta
 actualPrice: 19.94 EUR
 currency: EUR
 price: 19.94

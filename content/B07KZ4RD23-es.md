@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/417fan-DTgL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KZ4RD23-es REPLAY Zackie Vaqueros Skinny  Azul  Light Blue 11   W24/L34  Talla del Fabricante: 24  para Mujer'
+slug: 'B07KZ4RD23-es REPLAY Zackie Vaqueros Skinny Azul Light Blue 11 W24/L34...'
+tags: vaqueros
 actualPrice: 12.58 EUR
 currency: EUR
 price: 12.58

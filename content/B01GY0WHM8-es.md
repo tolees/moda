@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/3112TyV7ORL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01GY0WHM8-es Mercedes-Benz Sonnenbrille M1046 Gafas de Sol  Negro  Schwarz   67.0 para Hombre'
+slug: 'B01GY0WHM8-es Mercedes-Benz Sonnenbrille M1046 Gafas de Sol Negro...'
+tags: gafas
 actualPrice: 23.8 EUR
 currency: EUR
 price: 23.8

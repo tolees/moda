@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31OFAW%2B1dPL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VFGZ6VN-es Reebok LM Activchill Tank Camiseta De Tirantes  Hombre  Cobalt  XL'
+slug: 'B07VFGZ6VN-es Reebok LM Activchill Tank Camiseta De Tirantes Hombre...'
+tags: camiseta
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

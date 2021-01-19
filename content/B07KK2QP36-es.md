@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/415xIDljr-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KK2QP36-es Columbia Fire Venture L II WP  Zapatos de Senderismo para Mujer  Marrón  Dark Truffle  Red 206   39 EU'
+slug: 'B07KK2QP36-es Columbia Fire Venture L II WP Zapatos de Senderismo para...'
+tags: zapatos
 actualPrice: 36.88 EUR
 currency: EUR
 price: 36.88

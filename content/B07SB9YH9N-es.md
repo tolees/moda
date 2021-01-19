@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41a7vsF987L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SB9YH9N-es Disney HS2090 Conjuntos de Pijama  Rosa  Pink Pink   3 años para Niñas'
+slug: 'B07SB9YH9N-es Disney HS2090 Conjuntos de Pijama Rosa Pink Pink 3 años...'
+tags: pijama
 actualPrice: 10.9 EUR
 currency: EUR
 price: 10.9

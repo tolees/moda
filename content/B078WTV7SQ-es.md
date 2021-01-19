@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31XZMrGuPbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078WTV7SQ-es Quiksilver Molokai-Flip-Flops For Men  Zapatos de Playa y Piscina para Hombre  Negro  Black/Black/White Xkkw   42 EU'
+slug: 'B078WTV7SQ-es Quiksilver Molokai-Flip-Flops For Men Zapatos de Playa y...'
+tags: zapatos
 actualPrice: 14.4 EUR
 currency: EUR
 price: 14.4

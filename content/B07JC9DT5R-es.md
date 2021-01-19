@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41sNmsXS5AL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JC9DT5R-es Timberland Davis Square Alpine Oxford  Zapatillas Unisex-Niño  Azul  Black Iris   26 EU'
+slug: 'B07JC9DT5R-es Timberland Davis Square Alpine Oxford Zapatillas Unisex-...'
+tags: timberland
 actualPrice: 14.84 EUR
 currency: EUR
 price: 14.84

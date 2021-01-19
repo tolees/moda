@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41kTygnhdZL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07925NGVB-es TTYAOVO Chicas Muestran Princesa Vestido de Flores para niños Baile hinchado Bola Vestidos de Tul Tamaño 6-7 años Amarillo'
+slug: 'B07925NGVB-es TTYAOVO Chicas Muestran Princesa Vestido de Flores para...'
+tags: vestido
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

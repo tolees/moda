@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41199RweyQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B4GY8DK-es Mandarina Duck Mellow Leather Tracolla/Amphora  Bolso bandolera para Mujer  Azul  Dress Blue   10x21x28.5 cm  B x H x T '
+slug: 'B07B4GY8DK-es Mandarina Duck Mellow Leather Tracolla/Amphora Bolso...'
+tags: bolso
 actualPrice: 42.9 EUR
 currency: EUR
 price: 42.9

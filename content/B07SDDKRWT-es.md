@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51mQSDJgDmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SDDKRWT-es LIGE Relojes de Pulsera para Hombre Impermeable con Fecha Moda Clasicos Analógico Cuarzo Relojes de Hombre Negro'
+slug: 'B07SDDKRWT-es LIGE Relojes de Pulsera para Hombre Impermeable con Fecha...'
+tags: moda
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41tXKt6ZjdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DGM4LB2-es Timberland Davis Square Leather  Junior   Botas Chukka Unisex-Niños  Amarillo Wheat Nubuck  39 EU'
+slug: 'B07DGM4LB2-es Timberland Davis Square Leather Junior Botas Chukka...'
+tags: timberland
 actualPrice: 41.64 EUR
 currency: EUR
 price: 41.64

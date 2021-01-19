@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/310jiDVwVnL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NDN1Z3T-es Tous Kaos Shock Rever - Organizador de bolso para Mujer  Multicolor  Antique/Rosa/Natural  30 x 24 x 14 cm'
+slug: 'B07NDN1Z3T-es Tous Kaos Shock Rever - Organizador de bolso para Mujer...'
+tags: bolso
 actualPrice: 12.5 EUR
 currency: EUR
 price: 12.5

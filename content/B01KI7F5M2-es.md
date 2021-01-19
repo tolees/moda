@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41h-e4BuF0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01KI7F5M2-es Samsonite Qibyte Laptop Bag 15.6" Bolso Bandolera  11 litros  Color Antracita'
+slug: 'B01KI7F5M2-es Samsonite Qibyte Laptop Bag 15.6" Bolso Bandolera 11...'
+tags: bolso
 actualPrice: 38.5 EUR
 currency: EUR
 price: 38.5

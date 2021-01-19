@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41HV8RujBCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081WKFNGD-es DaMohony - Niñas Falda Tul de Capas Volantes Enagua Tutú para Boda Fiesta Bautizo para Bebé Niña Rosado 2-4 Años'
+slug: 'B081WKFNGD-es DaMohony - Niñas Falda Tul de Capas Volantes Enagua Tutú...'
+tags: falda
 actualPrice: 11.89 EUR
 currency: EUR
 price: 11.89

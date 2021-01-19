@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31R5xWc1E-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005UVVGV6-es NIKE Benassi JDI  Chanclas para Hombre  Blanco  White/Black Black   46 EU'
+slug: 'B005UVVGV6-es NIKE Benassi JDI Chanclas para Hombre Blanco White/Black...'
+tags: chanclas
 actualPrice: 23.19 EUR
 currency: EUR
 price: 23.19

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31ziMIzDquL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B019XXIPVU-es Crocs Classic Clog  Zuecos Unisex Adulto  Verde  New Mint 3P7   39/40 EU'
+slug: 'B019XXIPVU-es Crocs Classic Clog Zuecos Unisex Adulto Verde New Mint 3P7...'
+tags: zuecos
 actualPrice: 24.49 EUR
 currency: EUR
 price: 24.49

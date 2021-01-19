@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/418Oo2JUstL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LF5XYSF-es Levi s Coit Down Puffer Chaqueta  Negro  Black 0003   Medium para Hombre'
+slug: 'B07LF5XYSF-es Levi s Coit Down Puffer Chaqueta Negro Black 0003 Medium...'
+tags: chaqueta
 actualPrice: 79.95 EUR
 currency: EUR
 price: 79.95

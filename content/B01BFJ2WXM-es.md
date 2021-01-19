@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41QAFhq4y9L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BFJ2WXM-es Charles Wilson Camiseta Polo con Solapa de Contraste  Small  Purple '
+slug: 'B01BFJ2WXM-es Charles Wilson Camiseta Polo con Solapa de Contraste Small...'
+tags: camiseta
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

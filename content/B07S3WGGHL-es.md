@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31RQednOI3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S3WGGHL-es Levi s 510 Fit Vaqueros Skinny  Azul  Bonita City 4/Waxy 1023   W33/L32  Talla del Fabricante: 33 32  para Hombre'
+slug: 'B07S3WGGHL-es Levi s 510 Fit Vaqueros Skinny Azul Bonita City 4/Waxy...'
+tags: vaqueros
 actualPrice: 32.72 EUR
 currency: EUR
 price: 32.72

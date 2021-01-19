@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41YFZy55+nL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PT3TTFC-es ITALY MORN Pantalón para Hombre Casual Chino Jogging Algodón  XS  Caqui '
+slug: 'B07PT3TTFC-es ITALY MORN Pantalón para Hombre Casual Chino Jogging...'
+tags: pantalón
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31K3KXAzOWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00VA8UN6C-es Joma Nobel Pantalón de equipación  Naranja  M'
+slug: 'B00VA8UN6C-es Joma Nobel Pantalón de equipación Naranja M'
+tags: pantalón
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

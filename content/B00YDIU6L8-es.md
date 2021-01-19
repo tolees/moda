@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31k1FfTqWaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00YDIU6L8-es Merrell - sandalias de Cuero mujer  Negro  BLACK   39 EU  6 UK '
+slug: 'B00YDIU6L8-es Merrell - sandalias de Cuero mujer Negro BLACK 39 EU 6 UK'
+tags: sandalias
 actualPrice: 59.0 EUR
 currency: EUR
 price: 59.0

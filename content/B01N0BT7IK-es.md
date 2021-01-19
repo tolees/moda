@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41659JY-Q9L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N0BT7IK-es Under Armour Rival Fitted Full Zip Sudadera  Hombre  Azul  Midnight Navy/White 410   M'
+slug: 'B01N0BT7IK-es Under Armour Rival Fitted Full Zip Sudadera Hombre Azul...'
+tags: sudadera
 actualPrice: 42.04 EUR
 currency: EUR
 price: 42.04

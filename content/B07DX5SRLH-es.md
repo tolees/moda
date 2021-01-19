@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31MP1IW1JIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DX5SRLH-es Tommy Hilfiger T Camiseta Básica de Manga Corta  Blanco  Bright White   140  Talla del Fabricante: 10-11  para Niños'
+slug: 'B07DX5SRLH-es Tommy Hilfiger T Camiseta Básica de Manga Corta Blanco...'
+tags: camiseta
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41iZEThwEmL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B06Y2K1B5G-es Buffalo London Es 30993 PU Patent  Zapatos de Vestir para Mujer  Negro  Preto 01   37 EU'
+slug: 'B06Y2K1B5G-es Buffalo London Es 30993 PU Patent Zapatos de Vestir para...'
+tags: zapatos
 actualPrice: 17.92 EUR
 currency: EUR
 price: 17.92

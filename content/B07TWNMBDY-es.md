@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31+titPeL6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TWNMBDY-es Wrangler Flare Vaqueros evasé  Azul  Holiday 12y   W28/L34  Talla del Fabricante: 28/34  para Mujer'
+slug: 'B07TWNMBDY-es Wrangler Flare Vaqueros evasé Azul Holiday 12y W28/L34...'
+tags: vaqueros
 actualPrice: 18.24 EUR
 currency: EUR
 price: 18.24

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412ck8pd5JL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071GQWYGK-es Collar Mujer  J.Rosée Plata de Ley 925 Brillante Circonita"Crepúsculo" Cadena 45cm-50cm Regalo Original para Amor'
+slug: 'B071GQWYGK-es Collar Mujer J.Rosée Plata de Ley 925 Brillante...'
+tags: collar
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

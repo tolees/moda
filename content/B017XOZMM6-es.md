@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41XmielfNkL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B017XOZMM6-es Helly Hansen Salt Power Chaqueta  Hombre  Negro  L'
+slug: 'B017XOZMM6-es Helly Hansen Salt Power Chaqueta Hombre Negro L'
+tags: chaqueta
 actualPrice: 132.59 EUR
 currency: EUR
 price: 132.59

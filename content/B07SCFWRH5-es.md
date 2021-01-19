@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/410D4GlU-eL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SCFWRH5-es adidas FreeLift Climachill 3-Stripes tee Men Camiseta de Manga Corta  Hombre  Azul  Tech Ink   L'
+slug: 'B07SCFWRH5-es adidas FreeLift Climachill 3-Stripes tee Men Camiseta de...'
+tags: camiseta
 actualPrice: 12.2 EUR
 currency: EUR
 price: 12.2

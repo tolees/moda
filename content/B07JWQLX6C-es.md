@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41jCMOacO9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JWQLX6C-es Pepe Jeans Kai Pm402100 Chaqueta   Dandelion 054   Small para Hombre'
+slug: 'B07JWQLX6C-es Pepe Jeans Kai Pm402100 Chaqueta Dandelion 054 Small para...'
+tags: chaqueta
 actualPrice: 26.92 EUR
 currency: EUR
 price: 26.92

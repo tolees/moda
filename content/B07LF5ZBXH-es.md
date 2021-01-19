@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31M1t5keBuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LF5ZBXH-es Levi s 2pk Crewneck 1 Camiseta  Multicolor  2 Pack Slim Crew Dress Blues/White 0002   Medium para Hombre'
+slug: 'B07LF5ZBXH-es Levi s 2pk Crewneck 1 Camiseta Multicolor 2 Pack Slim Crew...'
+tags: camiseta
 actualPrice: 22.93 EUR
 currency: EUR
 price: 22.93

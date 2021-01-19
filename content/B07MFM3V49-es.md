@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ZpWe0c6cL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MFM3V49-es Clarks Becken Lace  Zapatos de Cordones Brogue para Hombre  Marrón  Dark Tan Lea Dark Tan Lea   44 EU'
+slug: 'B07MFM3V49-es Clarks Becken Lace Zapatos de Cordones Brogue para Hombre...'
+tags: zapatos
 actualPrice: 34.78 EUR
 currency: EUR
 price: 34.78

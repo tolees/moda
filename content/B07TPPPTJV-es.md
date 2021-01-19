@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41GOTDzPJaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TPPPTJV-es Levi s Sunset 1 Pkt Slim Camisa  Azul  Antonio Skyway 0011   Small para Hombre'
+slug: 'B07TPPPTJV-es Levi s Sunset 1 Pkt Slim Camisa Azul Antonio Skyway 0011...'
+tags: camisa
 actualPrice: 23.6 EUR
 currency: EUR
 price: 23.6

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51aQOpnOfHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087P97JSG-es Suhctup Funda Compatible con Samsung Galaxy Note 9 Billetera Carcasa de Cuero PU Antigolpes Flip Magnético Caso [Soporte Plegable] [3 Ranuras para Tarjetas] TPU Silicona Case Libro Piel Cover Marrón'
+slug: 'B087P97JSG-es Suhctup Funda Compatible con Samsung Galaxy Note 9...'
+tags: billetera
 actualPrice: 10.98 EUR
 currency: EUR
 price: 10.98

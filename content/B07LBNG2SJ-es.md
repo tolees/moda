@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41cSbu0TkyL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LBNG2SJ-es Helly Hansen Phantom 1/2 Zip 2.0 Ligera Elástico Jersey De Forro Polar  Mujer  Navy  L'
+slug: 'B07LBNG2SJ-es Helly Hansen Phantom 1/2 Zip 2.0 Ligera Elástico Jersey De...'
+tags: jersey
 actualPrice: 35.77 EUR
 currency: EUR
 price: 35.77

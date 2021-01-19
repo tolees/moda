@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41KcPOLh89L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZQMXBC-es Pepe Jeans Pixie New Wave Vaqueros Skinny  Azul  1o0z Wavy Stripe Denim 000   31W / 32L para Mujer'
+slug: 'B07MZQMXBC-es Pepe Jeans Pixie New Wave Vaqueros Skinny Azul 1o0z Wavy...'
+tags: vaqueros
 actualPrice: 26.74 EUR
 currency: EUR
 price: 26.74

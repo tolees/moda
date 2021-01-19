@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+mHE+rz-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MVL75W6-es Marca Amazon - MERAKI Camiseta de Manga Larga Hombre  Pack de 2  Gris  gris medio .  XS  Label: XS'
+slug: 'B07MVL75W6-es Marca Amazon - MERAKI Camiseta de Manga Larga Hombre Pack...'
+tags: camiseta, meraki
 actualPrice: 3.75 EUR
 currency: EUR
 price: 3.75

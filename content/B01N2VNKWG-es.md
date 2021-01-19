@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41oKHCZDJHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N2VNKWG-es Columbia Pouring Adventu Chaqueta  Hombre  Azul  Hyper Azul/Marine Azul   XXL'
+slug: 'B01N2VNKWG-es Columbia Pouring Adventu Chaqueta Hombre Azul Hyper...'
+tags: chaqueta
 actualPrice: 47.72 EUR
 currency: EUR
 price: 47.72

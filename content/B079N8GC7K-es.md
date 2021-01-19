@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41uyB6KQsXL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B079N8GC7K-es J.Rosée Collar de Perlas Mujer Joyería Perla de Agua Dulce Ley 925 Zirconia Brillante Regalos Originales con Hermosa Caja de Regalo'
+slug: 'B079N8GC7K-es J.Rosée Collar de Perlas Mujer Joyería Perla de Agua Dulce...'
+tags: collar
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

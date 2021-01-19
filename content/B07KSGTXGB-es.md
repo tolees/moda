@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41T+S6UF6sL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KSGTXGB-es Under Armour Women s Training Glove Guantes  Mujer  Negro  Black/Silver 001   XS'
+slug: 'B07KSGTXGB-es Under Armour Women s Training Glove Guantes Mujer Negro...'
+tags: guantes
 actualPrice: 17.39 EUR
 currency: EUR
 price: 17.39

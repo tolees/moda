@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31HsH8wz0OL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D54GCKM-es HUGO Venzo Camisa  Blanco  Open White 199   XX-Large  Talla del Fabricante: 45  para Hombre'
+slug: 'B07D54GCKM-es HUGO Venzo Camisa Blanco Open White 199 XX-Large Talla del...'
+tags: camisa
 actualPrice: 20.86 EUR
 currency: EUR
 price: 20.86

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41AAXGXF9EL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SBW24YJ-es PUMA Epic Flip V2  Zapatos de Playa y Piscina Unisex Adulto  Verde  Sunny Lime/Mist Green 39   42 EU'
+slug: 'B07SBW24YJ-es PUMA Epic Flip V2 Zapatos de Playa y Piscina Unisex Adulto...'
+tags: zapatos
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31H8z8M7ClL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HNZXDHR-es Alvivi Chaqueta de Piel Sintética Bebé Bolero Blanco Boda Fiesta Chaqueta Princesa Niña Gruesa de Vestido Cardigan Abrigo Otoño Invierno Capa Elegante Ropa Infantil Blanco 2-3 Años'
+slug: 'B07HNZXDHR-es Alvivi Chaqueta de Piel Sintética Bebé Bolero Blanco Boda...'
+tags: abrigo, chaqueta, vestido
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

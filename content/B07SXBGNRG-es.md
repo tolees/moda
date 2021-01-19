@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31rKACf7RKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SXBGNRG-es Quiksilver Carver Print  Zapatos de Playa y Piscina para Hombre  Negro Black Grey Black Xksk  42 EU'
+slug: 'B07SXBGNRG-es Quiksilver Carver Print Zapatos de Playa y Piscina para...'
+tags: zapatos
 actualPrice: 17.49 EUR
 currency: EUR
 price: 17.49

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41-zp8w1JiL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0797NJXJ5-es Spalding Team II Sudadera con Capucha  Hombre  Azul Royal  M'
+slug: 'B0797NJXJ5-es Spalding Team II Sudadera con Capucha Hombre Azul Royal M'
+tags: sudadera
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

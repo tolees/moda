@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41dU3xfuLUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YN94SXT-es MTNG Collection 58693  Sandalias con Punta Abierta para Mujer  Amarillo  Join Mostaza C49152   36 EU'
+slug: 'B07YN94SXT-es MTNG Collection 58693 Sandalias con Punta Abierta para...'
+tags: sandalias
 actualPrice: 22.41 EUR
 currency: EUR
 price: 22.41

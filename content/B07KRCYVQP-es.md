@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/316uSko2PXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KRCYVQP-es FitFlop Twiss Slide Sandalias de Punta Descubierta Mujer  Rojo  Blush 668   43 EU  9 UK '
+slug: 'B07KRCYVQP-es FitFlop Twiss Slide Sandalias de Punta Descubierta Mujer...'
+tags: sandalias
 actualPrice: 48.0 EUR
 currency: EUR
 price: 48.0

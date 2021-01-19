@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31Vwq0m0KzL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F2M1KNK-es Vans Left Chest Logo tee  Camiseta para Hombre  Negro  Black White Grey Melange  XX-Large'
+slug: 'B07F2M1KNK-es Vans Left Chest Logo tee Camiseta para Hombre Negro Black...'
+tags: camiseta
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

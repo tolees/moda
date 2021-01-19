@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/4169TEVAktL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V2MFK96-es J.Endéar Inicial Encanto Z Personalizar Collar  Clavícula Cadena de 925 Plata  Zircon Alfabeto de Disco Redondo Pequeño Colgante Letra para Joyería de Mujer  Longitud de Cadena 40 + 5 cm'
+slug: 'B07V2MFK96-es J.Endéar Inicial Encanto Z Personalizar Collar Clavícula...'
+tags: collar
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

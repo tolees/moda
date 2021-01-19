@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31nvuycGssL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XZWRH8S-es Mercedes-Benz Sonnenbrille M1042 Gafas de sol  Azul  Blau   65.0 para Hombre'
+slug: 'B00XZWRH8S-es Mercedes-Benz Sonnenbrille M1042 Gafas de sol Azul Blau...'
+tags: gafas
 actualPrice: 32.34 EUR
 currency: EUR
 price: 32.34

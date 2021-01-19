@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412HYaolh0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BLOJPZY-es Levi s Housemark Polo  Camiseta para Hombre  Gris  M7511 HEATHER GREY M7511 2   X-Large'
+slug: 'B01BLOJPZY-es Levi s Housemark Polo Camiseta para Hombre Gris M7511...'
+tags: camiseta
 actualPrice: 33.39 EUR
 currency: EUR
 price: 33.39

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41fPKFPhf3L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KWMT2NW-es LEGO Star Wars Cm Sudadera  Amarillo  Yellow 222   104 para Niños'
+slug: 'B07KWMT2NW-es LEGO Star Wars Cm Sudadera Amarillo Yellow 222 104 para Niños'
+tags: sudadera
 actualPrice: 8.01 EUR
 currency: EUR
 price: 8.01

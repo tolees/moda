@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51LSscqosCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W1VLYLJ-es Tommy Hilfiger TJM Tommy Stripe tee Camiseta  Verde  Audacious Blue/White 0cr   Medium para Hombre'
+slug: 'B07W1VLYLJ-es Tommy Hilfiger TJM Tommy Stripe tee Camiseta Verde...'
+tags: camiseta
 actualPrice: 14.07 EUR
 currency: EUR
 price: 14.07

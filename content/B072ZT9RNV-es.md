@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41vNzJgplZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072ZT9RNV-es Timormode Vestido Cóctel Corto Vintage 50s Cuello Halter Vestido De Fiesta Rockabilly Mujer Armygreen XS'
+slug: 'B072ZT9RNV-es Timormode Vestido Cóctel Corto Vintage 50s Cuello Halter...'
+tags: vestido
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

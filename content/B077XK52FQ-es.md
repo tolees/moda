@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/419rEYG9JOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077XK52FQ-es Under Armour Sportstyle Pique Track Jacket Chaqueta  Hombre  Azul  Academy/Academy/White 409   S'
+slug: 'B077XK52FQ-es Under Armour Sportstyle Pique Track Jacket Chaqueta Hombre...'
+tags: chaqueta
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

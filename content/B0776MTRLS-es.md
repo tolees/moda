@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41R9WRjXs4L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0776MTRLS-es SAMSONITE Cross-Over S  Yellow  -PARADIVER Light  Bolso Bandolera  0 cm  Amarillo'
+slug: 'B0776MTRLS-es SAMSONITE Cross-Over S Yellow -PARADIVER Light Bolso...'
+tags: bolso
 actualPrice: 34.3 EUR
 currency: EUR
 price: 34.3

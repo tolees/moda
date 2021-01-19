@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414sZQYfqgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TZGW48L-es Farchat Vestidos Mujer Suelto Casual de la Camiseta Cuello Redondo Vestido Rojo XXL'
+slug: 'B07TZGW48L-es Farchat Vestidos Mujer Suelto Casual de la Camiseta Cuello...'
+tags: camiseta, vestido
 actualPrice: 12.83 EUR
 currency: EUR
 price: 12.83

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51VyItp8DzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NSTGHY8-es Guantes Moto Mujer Hombre Guantes Moto Verano con Protección Tranpirable Dedo Completo Antideslizante'
+slug: 'B07NSTGHY8-es Guantes Moto Mujer Hombre Guantes Moto Verano con...'
+tags: guantes
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

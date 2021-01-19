@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41SjTsQxXwL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GS28DHK-es Timberland Newport Bay-Canvas  Zapatillas Unisex Niños  Azul  Black Iris   39 EU'
+slug: 'B07GS28DHK-es Timberland Newport Bay-Canvas Zapatillas Unisex Niños Azul...'
+tags: timberland
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

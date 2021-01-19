@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31aiUd7WtfL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N43NJ1S-es Tommy Hilfiger Organic Cotton Silk V Neck Sudadera   Pine Grove Heather Mq5   Small para Hombre'
+slug: 'B07N43NJ1S-es Tommy Hilfiger Organic Cotton Silk V Neck Sudadera Pine...'
+tags: sudadera
 actualPrice: 43.88 EUR
 currency: EUR
 price: 43.88

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/313OnJleKHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFRN7RJ-es Geox Uomo Snake E  Zapatillas para Hombre  Negro Black Dk Avio C9369  45 EU'
+slug: 'B07LFRN7RJ-es Geox Uomo Snake E Zapatillas para Hombre Negro Black Dk...'
+tags: geox
 actualPrice: 49.9 EUR
 currency: EUR
 price: 49.9

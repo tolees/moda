@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/419W-QhT9RL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W5MYFLT-es Tommy Hilfiger Basic Embroidered Hoody Sudadera  Azul  Desert Sky   Large  Talla del Fabricante:  para Hombre'
+slug: 'B07W5MYFLT-es Tommy Hilfiger Basic Embroidered Hoody Sudadera Azul...'
+tags: sudadera
 actualPrice: 43.29 EUR
 currency: EUR
 price: 43.29

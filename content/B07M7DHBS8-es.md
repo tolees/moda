@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41S4mKrsyUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M7DHBS8-es Hackett Amr Pro Camo T Camiseta  Negro  Black 999   XX-Large para Hombre'
+slug: 'B07M7DHBS8-es Hackett Amr Pro Camo T Camiseta Negro Black 999 XX-Large...'
+tags: camiseta
 actualPrice: 16.18 EUR
 currency: EUR
 price: 16.18

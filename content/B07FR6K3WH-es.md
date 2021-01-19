@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41TBWvXCxAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FR6K3WH-es Clarks Un Trail Form  Zapatos de Cordones Derby  Gris  Taupe Nubuck-   39.5 EU'
+slug: 'B07FR6K3WH-es Clarks Un Trail Form Zapatos de Cordones Derby Gris Taupe...'
+tags: zapatos
 actualPrice: 28.59 EUR
 currency: EUR
 price: 28.59

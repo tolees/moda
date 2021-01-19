@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41FsmXSui0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00VXC7XCM-es G-Star RAW 3301 Straight  Vaqueros para Hombre  Azul  Dark Aged 4639-89   W26/L30'
+slug: 'B00VXC7XCM-es G-Star RAW 3301 Straight Vaqueros para Hombre Azul Dark...'
+tags: vaqueros
 actualPrice: 43.86 EUR
 currency: EUR
 price: 43.86

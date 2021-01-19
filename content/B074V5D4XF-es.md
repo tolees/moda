@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51BhyOFv3CL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074V5D4XF-es SYMALL Bolso de Mano con Fleco Borlas Bolso de Noche Estilo Elegante para Mujer Boda Partido Fiesta Bolso de Noche Boda Vintage Retro para Seda 17*7*10cm  Plateado'
+slug: 'B074V5D4XF-es SYMALL Bolso de Mano con Fleco Borlas Bolso de Noche...'
+tags: bolso
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

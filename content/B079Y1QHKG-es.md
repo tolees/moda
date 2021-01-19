@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31WWTPuyl1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079Y1QHKG-es PUMA Liga TR JSY Camiseta de Manga Corta  Hombre  Verde  Pepper Green/White   XL'
+slug: 'B079Y1QHKG-es PUMA Liga TR JSY Camiseta de Manga Corta Hombre Verde...'
+tags: camiseta
 actualPrice: 8.93 EUR
 currency: EUR
 price: 8.93

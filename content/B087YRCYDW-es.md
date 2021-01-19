@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41MMIUUxycL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087YRCYDW-es Sternitz Sudadera Fitness para Mujer  Bhakti Hoodie  Tela de Bambú - Ecológica y Suave Yoga/Pilates/Deportes. Cuello Largo.  M  Pack 2 '
+slug: 'B087YRCYDW-es Sternitz Sudadera Fitness para Mujer Bhakti Hoodie Tela de...'
+tags: sudadera
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41FDmeB9f-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HEXGE2I-es Crocs Classic Clog K  Zuecos Unisex Niños  Rojo  Pepper   27/28 EU'
+slug: 'B01HEXGE2I-es Crocs Classic Clog K Zuecos Unisex Niños Rojo Pepper 27/28 EU'
+tags: zuecos
 actualPrice: 21.0 EUR
 currency: EUR
 price: 21.0

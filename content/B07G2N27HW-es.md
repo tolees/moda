@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41xzEd21y5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G2N27HW-es MICHLEY Bebé Ropa Niños Niñas Pijama Disfraces Primavera Franela Traje Animales Pelele maotouying-100cm'
+slug: 'B07G2N27HW-es MICHLEY Bebé Ropa Niños Niñas Pijama Disfraces Primavera...'
+tags: pelele, pijama
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

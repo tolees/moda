@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/310+V9xrsmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XLMDP3K-es Jack & Jones JJICHRIS Jjoriginal CR 097 Vaqueros Relaxed  Azul  Blue Denim Blue Denim   32W x 32L para Hombre'
+slug: 'B07XLMDP3K-es Jack & Jones JJICHRIS Jjoriginal CR 097 Vaqueros Relaxed...'
+tags: vaqueros
 actualPrice: 19.47 EUR
 currency: EUR
 price: 19.47

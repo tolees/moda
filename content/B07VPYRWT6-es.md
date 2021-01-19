@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/415h77e8AdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VPYRWT6-es Tommy Hilfiger Rome HW Short Vaqueros Slim  Azul  Uta 1bo   W31/L30  Talla del Fabricante: Ni31  para Mujer'
+slug: 'B07VPYRWT6-es Tommy Hilfiger Rome HW Short Vaqueros Slim Azul Uta 1bo...'
+tags: vaqueros
 actualPrice: 18.36 EUR
 currency: EUR
 price: 18.36

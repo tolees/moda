@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41AnLs0BMjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D9BVVP5-es VIFUUR Zapatos de Agua Aqua Yoga para Mujer Hombre Oceano EU42/43'
+slug: 'B07D9BVVP5-es VIFUUR Zapatos de Agua Aqua Yoga para Mujer Hombre Oceano...'
+tags: zapatos
 actualPrice: 14.66 EUR
 currency: EUR
 price: 14.66

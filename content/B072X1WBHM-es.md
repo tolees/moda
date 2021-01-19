@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41NvCi5mzVL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072X1WBHM-es Columbia Chaqueta Impermeable para Mujer  Largo Medio  Powder Lite Mid Jacket  Beige  Light Cloud   Talla M'
+slug: 'B072X1WBHM-es Columbia Chaqueta Impermeable para Mujer Largo Medio...'
+tags: chaqueta
 actualPrice: 59.04 EUR
 currency: EUR
 price: 59.04

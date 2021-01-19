@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41EpXRwhBiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VB5GWZQ-es JACK & JONES Jorclan Parka  Negro  Black Black   Medium para Hombre'
+slug: 'B07VB5GWZQ-es JACK & JONES Jorclan Parka Negro Black Black Medium para...'
+tags: parka
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

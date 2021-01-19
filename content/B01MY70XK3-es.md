@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31S9EC3uWLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MY70XK3-es Kappa Fredo Pantalón Corto  Hombre  Blanco  YXL'
+slug: 'B01MY70XK3-es Kappa Fredo Pantalón Corto Hombre Blanco YXL'
+tags: pantalón
 actualPrice: 8.39 EUR
 currency: EUR
 price: 8.39

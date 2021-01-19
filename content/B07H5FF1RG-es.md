@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51oo5ScxpML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H5FF1RG-es Bikien Guantes para Mascotas Masaje con Pelo Largo y Corto Perros Gatos Conejo Caballos'
+slug: 'B07H5FF1RG-es Bikien Guantes para Mascotas Masaje con Pelo Largo y Corto...'
+tags: guantes
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

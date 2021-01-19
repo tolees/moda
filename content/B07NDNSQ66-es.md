@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31dnFFsS6AL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NDNSQ66-es G-STAR RAW Vehem Pocket Round Neck Camiseta  Negro  Dk Black 6484   X-Large para Hombre'
+slug: 'B07NDNSQ66-es G-STAR RAW Vehem Pocket Round Neck Camiseta Negro Dk Black...'
+tags: camiseta
 actualPrice: 18.74 EUR
 currency: EUR
 price: 18.74

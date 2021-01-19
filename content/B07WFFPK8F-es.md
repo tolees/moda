@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-MTxC7vfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WFFPK8F-es VECDY Ropa Mujer  Blusas Elegante 2019 Solapa para Mujer Chaqueta De Felpa Suelta De Manga Larga con Bolsillo Cremallera De Piel Sintética De Piel De Oveja Borrosa Abrigo De Lana Abrigo Rosa S '
+slug: 'B07WFFPK8F-es VECDY Ropa Mujer Blusas Elegante 2019 Solapa para Mujer...'
+tags: abrigo, chaqueta
 actualPrice: 1.5 EUR
 currency: EUR
 price: 1.5

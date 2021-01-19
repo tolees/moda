@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/516zrTk10fL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SPYHN15-es New front Zapatos de Princesa Niñas Bailarina Sandalias Festivo Tacón Disfraz de Elsa Frozen Fiesta Chica Verano Brillando Zapatilla de Ballet Cosplay Danza Boda Carnaval Cumpleaños Regalo EU 24-36 '
+slug: 'B07SPYHN15-es New front Zapatos de Princesa Niñas Bailarina Sandalias...'
+tags: sandalias, zapatos, zapatilla
 actualPrice: 23.89 EUR
 currency: EUR
 price: 23.89

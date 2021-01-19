@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41c6lssfGML._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GVPM825-es GHYUGR Abrigos con Horn Botones Mujer Invierno Elegantes Slim Chaqueta con Capucha Lana Capa Jacket Sudadera Pullover Outwear Parka Negro XL'
+slug: 'B07GVPM825-es GHYUGR Abrigos con Horn Botones Mujer Invierno Elegantes...'
+tags: chaqueta, parka, sudadera
 actualPrice: 27.98 EUR
 currency: EUR
 price: 27.98

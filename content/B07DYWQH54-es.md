@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31aqhUP7jrL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DYWQH54-es Columbia Triple Canyon Fall Pantalón de Senderismo  Poliéster  Negro  W32/L32'
+slug: 'B07DYWQH54-es Columbia Triple Canyon Fall Pantalón de Senderismo...'
+tags: pantalón
 actualPrice: 52.99 EUR
 currency: EUR
 price: 52.99

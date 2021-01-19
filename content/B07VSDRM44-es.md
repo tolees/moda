@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41TF50VBHPL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VSDRM44-es Bolso Bandolera Tejido de Paja con Borlas  Ganchillo Verano Trenzado Bolso Playa de Cuerda de Algodón para Mujer  Moda Estilo Bohemio Trenzada a Mano Hilo Macrame Bolsas de Mensajero'
+slug: 'B07VSDRM44-es Bolso Bandolera Tejido de Paja con Borlas Ganchillo Verano...'
+tags: bolso, moda
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

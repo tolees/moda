@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41nMEaK3HGL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B075QGNKV4-es MERAKI Vaqueros Skinny Hombre  Azul  Light Blue   W30/L32'
+slug: 'B075QGNKV4-es MERAKI Vaqueros Skinny Hombre Azul Light Blue W30/L32'
+tags: meraki, vaqueros
 actualPrice: 17.5 EUR
 currency: EUR
 price: 17.5

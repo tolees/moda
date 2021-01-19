@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31-t-VzGT+L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NHTQ2CT-es Tom Tailor  NOS  1010415  Camiseta para Mujer  Marfil  Whisper White 10315   40  Talla del fabricante: Large '
+slug: 'B07NHTQ2CT-es Tom Tailor NOS 1010415 Camiseta para Mujer Marfil Whisper...'
+tags: camiseta
 actualPrice: 2.51 EUR
 currency: EUR
 price: 2.51

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51SqUlLAWWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0186Z4YSE-es Homar sin corbata Cordones de zapatos para niños y adultos Impermeables cordones de zapatos de atletismo atlética de silicona elástico plano con multicolor de los zapatos del tablero Sneaker boots  Adult Size White '
+slug: 'B0186Z4YSE-es Homar sin corbata Cordones de zapatos para niños y adultos...'
+tags: zapatos
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

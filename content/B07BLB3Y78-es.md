@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/3173vcwm9QL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BLB3Y78-es AURIQUE Racerback Camiseta deportiva de tirantes  Multicolor  Black And Serenity   42  Talla del Fabricante: Large   Pack de 2'
+slug: 'B07BLB3Y78-es AURIQUE Racerback Camiseta deportiva de tirantes...'
+tags: aurique, camiseta
 actualPrice: 5.4 EUR
 currency: EUR
 price: 5.4

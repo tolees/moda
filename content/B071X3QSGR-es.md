@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31MqUU9JEoL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071X3QSGR-es Lee Logo tee Camiseta  Blanco  White Ai12   Small para Hombre'
+slug: 'B071X3QSGR-es Lee Logo tee Camiseta Blanco White Ai12 Small para Hombre'
+tags: camiseta
 actualPrice: 12.5 EUR
 currency: EUR
 price: 12.5

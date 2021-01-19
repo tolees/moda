@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51Zr46asNkL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B18ZML1-es find. Vestido de Flores con Volantes Mujer  Rosa  Pink   Medium'
+slug: 'B07B18ZML1-es find. Vestido de Flores con Volantes Mujer Rosa Pink Medium'
+tags: vestido
 actualPrice: 22.5 EUR
 currency: EUR
 price: 22.5

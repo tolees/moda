@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Rl-oNGLmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01H6NZBMK-es Crocs Swiftwater River Sandal M  Sandalias para Hombre  Marrón  Espresso/Black   45/46 EU'
+slug: 'B01H6NZBMK-es Crocs Swiftwater River Sandal M Sandalias para Hombre...'
+tags: sandalias
 actualPrice: 31.49 EUR
 currency: EUR
 price: 31.49

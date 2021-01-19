@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41gcejGY7ZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FH9TBSF-es Timberland Classic 2 Eye  Náuticos para Hombre  Marrón Brown Sahara  43 EU'
+slug: 'B07FH9TBSF-es Timberland Classic 2 Eye Náuticos para Hombre Marrón Brown...'
+tags: timberland
 actualPrice: 69.95 EUR
 currency: EUR
 price: 69.95

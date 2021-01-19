@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31lKJv81rlL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DGQFTQY-es Timberland Dausette Low  Zapatillas Altas para Mujer  Negro  Black Full Grain   36 EU'
+slug: 'B07DGQFTQY-es Timberland Dausette Low Zapatillas Altas para Mujer Negro...'
+tags: timberland
 actualPrice: 60.0 EUR
 currency: EUR
 price: 60.0

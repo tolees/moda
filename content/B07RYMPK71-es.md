@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/415fIl2WV5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RYMPK71-es Levi s Relaxed Graphic Crewneck Sudadera  Blanco  90 s Serif Logo Crew White 0000   X-Large para Hombre'
+slug: 'B07RYMPK71-es Levi s Relaxed Graphic Crewneck Sudadera Blanco 90 s Serif...'
+tags: sudadera
 actualPrice: 20.71 EUR
 currency: EUR
 price: 20.71

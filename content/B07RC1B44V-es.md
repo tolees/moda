@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41paUaODUWL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RC1B44V-es Charles Wilson Pantalón Vaquero Lavado Ajuste Estrecho  38" Waist / 31" Leg  Dark Wash '
+slug: 'B07RC1B44V-es Charles Wilson Pantalón Vaquero Lavado Ajuste Estrecho 38"...'
+tags: pantalón
 actualPrice: 17.95 EUR
 currency: EUR
 price: 17.95

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41rh77TbgPL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D9FTQS6-es Levi s 511 Slim Fit Vaqueros  Orinda 2988  38W / 34L para Hombre'
+slug: 'B07D9FTQS6-es Levi s 511 Slim Fit Vaqueros Orinda 2988 38W / 34L para...'
+tags: vaqueros
 actualPrice: 49.5 EUR
 currency: EUR
 price: 49.5

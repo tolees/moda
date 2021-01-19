@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Eag16QUcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V5QRP6T-es Tommy Hilfiger Nautical Print Beach Sandal  Sandalias con Punta Abierta para Hombre  Negro  Black Bds   44 EU'
+slug: 'B07V5QRP6T-es Tommy Hilfiger Nautical Print Beach Sandal Sandalias con...'
+tags: sandalias
 actualPrice: 13.46 EUR
 currency: EUR
 price: 13.46

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41lzwBStwrL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y5CRMPB-es Geographical Norway Sudadera DE Hombre GYMCLASS B Gris Melange S'
+slug: 'B07Y5CRMPB-es Geographical Norway Sudadera DE Hombre GYMCLASS B Gris...'
+tags: sudadera
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

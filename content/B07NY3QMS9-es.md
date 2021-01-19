@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41POPo4igLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NY3QMS9-es Superdry Vintage Logo Crew Sudadera  Negro  Black 02a   X-Small para Hombre'
+slug: 'B07NY3QMS9-es Superdry Vintage Logo Crew Sudadera Negro Black 02a...'
+tags: sudadera
 actualPrice: 23.26 EUR
 currency: EUR
 price: 23.26

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31iDF7GBZGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HMRTWO8-es The North Face T92TX3 Camiseta Easy  Hombre  Blanco  Tnf White   S'
+slug: 'B01HMRTWO8-es The North Face T92TX3 Camiseta Easy Hombre Blanco Tnf White S'
+tags: camiseta
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

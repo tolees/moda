@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41yiQ0+2HQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HQAM6LC-es Crocs Crocband  Zuecos Unisex Adulto  Azul  Blue/Yellow   41/42 EU'
+slug: 'B01HQAM6LC-es Crocs Crocband Zuecos Unisex Adulto Azul Blue/Yellow 41/42 EU'
+tags: zuecos
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

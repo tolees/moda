@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31POJ+0qO6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078WW3PQ5-es Quiksilver Molokai Abyss  Zapatos de Playa y Piscina para Hombre  Negro  Black/Black/White Xkkw   39 EU'
+slug: 'B078WW3PQ5-es Quiksilver Molokai Abyss Zapatos de Playa y Piscina para...'
+tags: zapatos
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

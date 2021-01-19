@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41KEeXByUWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HR76YRN-es FOSTAK Bolso de hombro de viaje para Messenger  Work  MacBook y ordenador portátil 15.6 nylon Negro'
+slug: 'B07HR76YRN-es FOSTAK Bolso de hombro de viaje para Messenger Work...'
+tags: bolso
 actualPrice: 37.0 EUR
 currency: EUR
 price: 37.0

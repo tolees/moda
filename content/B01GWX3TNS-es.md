@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41DS2iR1FpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01GWX3TNS-es Geox D Yuki A  Mocasines para Mujer  Grau  BLACK/ANTHRACITEC9270   36.5 EU'
+slug: 'B01GWX3TNS-es Geox D Yuki A Mocasines para Mujer Grau...'
+tags: geox
 actualPrice: 49.95 EUR
 currency: EUR
 price: 49.95

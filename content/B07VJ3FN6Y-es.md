@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41mLL4cP8qL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VJ3FN6Y-es Calvin Klein Zip Through HD Jacket Chaqueta  Verde  New Basil MSP   X-Small para Hombre'
+slug: 'B07VJ3FN6Y-es Calvin Klein Zip Through HD Jacket Chaqueta Verde New...'
+tags: chaqueta
 actualPrice: 85.63 EUR
 currency: EUR
 price: 85.63

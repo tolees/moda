@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41IbaJzSIZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074J61CFR-es DafenQ Lindo Animal La mochila de jardín de infantes embroma la bolsa de la escuela de la taleguilla Bolso de escuela Kinderrucksack para bebé Niño Niña  Azul '
+slug: 'B074J61CFR-es DafenQ Lindo Animal La mochila de jardín de infantes...'
+tags: bolso
 actualPrice: 3.2 EUR
 currency: EUR
 price: 3.2

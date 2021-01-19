@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4127UguttEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06W5N8C4Z-es Tommy Hilfiger Bikini con Inserción de Malla Braguitas con Cintura Elástica  Azul  Navy Blazer 416   40  Talla del Fabricante: LG  para Mujer'
+slug: 'B06W5N8C4Z-es Tommy Hilfiger Bikini con Inserción de Malla Braguitas con...'
+tags: bikini
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

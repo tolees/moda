@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41u9xA0ZWML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N482SBV-es United Colors of Benetton College Man Camisa Casual  Azul  BLU 902   Medium para Hombre'
+slug: 'B07N482SBV-es United Colors of Benetton College Man Camisa Casual Azul...'
+tags: camisa
 actualPrice: 9.37 EUR
 currency: EUR
 price: 9.37

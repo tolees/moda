@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31p-fAPA4BL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CMZSK2W-es Crocs Crocband U  Zuecos Unisex Adulto  Morado  Lavender-Purple 50q   39-40 EU'
+slug: 'B07CMZSK2W-es Crocs Crocband U Zuecos Unisex Adulto Morado Lavender-...'
+tags: zuecos
 actualPrice: 36.68 EUR
 currency: EUR
 price: 36.68

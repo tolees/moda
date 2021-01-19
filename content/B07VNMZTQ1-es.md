@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/5175PZetc6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VNMZTQ1-es G-STAR RAW Core Super Slim Camisa Casual  Multicolor  Milk/Imperial Blue ao C173-9853   M para Hombre'
+slug: 'B07VNMZTQ1-es G-STAR RAW Core Super Slim Camisa Casual Multicolor...'
+tags: camisa
 actualPrice: 23.84 EUR
 currency: EUR
 price: 23.84

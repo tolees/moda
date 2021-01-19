@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31fq3iY-nIL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00UNA3Z36-es Lacoste TH7618  Camiseta para Hombre  Azul  Marine   X-Small  Talla del fabricante: 2 '
+slug: 'B00UNA3Z36-es Lacoste TH7618 Camiseta para Hombre Azul Marine X-Small...'
+tags: camiseta
 actualPrice: 24.45 EUR
 currency: EUR
 price: 24.45

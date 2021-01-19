@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41GUUTdRlyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TT6BZ29-es Levi s The Original Camiseta  Azul  Hm Patch OG tee Riverside 0016   Large para Hombre'
+slug: 'B07TT6BZ29-es Levi s The Original Camiseta Azul Hm Patch OG tee...'
+tags: camiseta
 actualPrice: 15.39 EUR
 currency: EUR
 price: 15.39

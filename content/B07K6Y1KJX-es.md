@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41MDDHURxIL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K6Y1KJX-es Levi s 501 Crop Vaqueros Straight  Azul  Shot In The Dark 0031   25W / 28L para Mujer'
+slug: 'B07K6Y1KJX-es Levi s 501 Crop Vaqueros Straight Azul Shot In The Dark...'
+tags: vaqueros
 actualPrice: 36.5 EUR
 currency: EUR
 price: 36.5

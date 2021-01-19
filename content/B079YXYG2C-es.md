@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Q5M0dGA5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079YXYG2C-es Timberland Perkins Row 2-Strap  sandale junior Descubierta Unisex niños  Azul  Black Iris   34 EU'
+slug: 'B079YXYG2C-es Timberland Perkins Row 2-Strap sandale junior Descubierta...'
+tags: timberland
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

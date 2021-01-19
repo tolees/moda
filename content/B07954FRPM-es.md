@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Ts7kMa-qL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07954FRPM-es NIKE M Nk Rpl Park 18 RN Jkt W Chaqueta de Deporte  Hombre  Black/White/ White '
+slug: 'B07954FRPM-es NIKE M Nk Rpl Park 18 RN Jkt W Chaqueta de Deporte Hombre...'
+tags: chaqueta
 actualPrice: 30.55 EUR
 currency: EUR
 price: 30.55

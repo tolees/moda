@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31JcB5855NL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M0BA4HQ-es Levi s 511 Slim Fit Jeans Pantalón vaquero con corte estilizado  Headed South 4006  29W / 30L para Hombre'
+slug: 'B01M0BA4HQ-es Levi s 511 Slim Fit Jeans Pantalón vaquero con corte...'
+tags: pantalón
 actualPrice: 80.99 EUR
 currency: EUR
 price: 80.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41LWGHKtN9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00B7XCG7Y-es The North Face Sudadera Drew Peak  Hombre  Negro  TNF Black   M'
+slug: 'B00B7XCG7Y-es The North Face Sudadera Drew Peak Hombre Negro TNF Black M'
+tags: sudadera
 actualPrice: 53.98 EUR
 currency: EUR
 price: 53.98

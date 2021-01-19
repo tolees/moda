@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51VZYr1El2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C5LJF92-es Jack & Jones Jjegingham Shirt L/s Camisa  Multicolor  White Checks:Mixed Navy   X-Small para Hombre'
+slug: 'B07C5LJF92-es Jack & Jones Jjegingham Shirt L/s Camisa Multicolor White...'
+tags: camisa
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

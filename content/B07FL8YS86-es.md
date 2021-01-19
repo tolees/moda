@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31JmiAZpvLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FL8YS86-es Superdry O L Vintage Emb S/s Vee tee Camiseta de Tirantes  Negro  Black 02a   2XL para Hombre'
+slug: 'B07FL8YS86-es Superdry O L Vintage Emb S/s Vee tee Camiseta de Tirantes...'
+tags: camiseta
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

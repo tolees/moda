@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41sLJaSiwgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R59SG5S-es find. High Point Botines  Rojo  Burgundy Croc   38 EU'
+slug: 'B07R59SG5S-es find. High Point Botines Rojo Burgundy Croc 38 EU'
+tags: botines
 actualPrice: 10.13 EUR
 currency: EUR
 price: 10.13

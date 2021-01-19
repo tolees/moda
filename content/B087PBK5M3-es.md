@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/5130CJgD3wL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087PBK5M3-es Suhctup Funda Compatible con Xiaomi Redmi 8 Billetera Carcasa de Cuero PU Antigolpes Flip Magnético Caso [Soporte Plegable] [3 Ranuras para Tarjetas] TPU Silicona Case Libro Piel Cover Marrón'
+slug: 'B087PBK5M3-es Suhctup Funda Compatible con Xiaomi Redmi 8 Billetera...'
+tags: billetera
 actualPrice: 10.98 EUR
 currency: EUR
 price: 10.98

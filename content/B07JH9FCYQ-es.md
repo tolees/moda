@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/21yrekYR2SL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JH9FCYQ-es G-STAR RAW 3301 Mid Waist Boyfriend Colored Vaqueros  Azul  Laundry Blue B078-1280   36W / 34L para Mujer'
+slug: 'B07JH9FCYQ-es G-STAR RAW 3301 Mid Waist Boyfriend Colored Vaqueros Azul...'
+tags: vaqueros
 actualPrice: 17.46 EUR
 currency: EUR
 price: 17.46

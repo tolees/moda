@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41DlbeYRi6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KYMT8HA-es Geox U Siron  Mocasines para Hombre  Marrón  Cognac C6001   39 EU'
+slug: 'B00KYMT8HA-es Geox U Siron Mocasines para Hombre Marrón Cognac C6001 39 EU'
+tags: geox
 actualPrice: 51.45 EUR
 currency: EUR
 price: 51.45

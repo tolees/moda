@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416KjyrbyPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TXQWG7J-es Skechers Rumble On-Chart Topper  Sandalias de Talón Abierto para Mujer  Negro  Black Mitobuck/Metal/Clear Rhinestone Black   38 EU'
+slug: 'B07TXQWG7J-es Skechers Rumble On-Chart Topper Sandalias de Talón Abierto...'
+tags: sandalias
 actualPrice: 30.4 EUR
 currency: EUR
 price: 30.4

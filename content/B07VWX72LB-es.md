@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31rk+OtzvaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VWX72LB-es Pepe Jeans Raury Camiseta  Verde  Pine Green 672   X-Large para Hombre'
+slug: 'B07VWX72LB-es Pepe Jeans Raury Camiseta Verde Pine Green 672 X-Large...'
+tags: camiseta
 actualPrice: 10.38 EUR
 currency: EUR
 price: 10.38

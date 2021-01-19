@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/516hp06ocNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VN3RRHS-es Jack & Jones Jjewashington Shirt L/s STS Camisa  Rojo  Umberslim Fit   XX-Large para Hombre'
+slug: 'B07VN3RRHS-es Jack & Jones Jjewashington Shirt L/s STS Camisa Rojo...'
+tags: camisa
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41gFSdaayxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N3TLP2Y-es Desigual Dress Valentina Vestido  Rojo  Merlot 3215   48  Talla del Fabricante: 46  para Mujer'
+slug: 'B07N3TLP2Y-es Desigual Dress Valentina Vestido Rojo Merlot 3215 48 Talla...'
+tags: vestido
 actualPrice: 67.2 EUR
 currency: EUR
 price: 67.2

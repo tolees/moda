@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51EzEcQvSWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X9LR3LP-es LIGE Relojes Hombre Negro Casual Minimalista Impermeable Cuarzo Reloj Correa Malla de Acero Inoxidable Vestido Negocios Reloj de Pulsera'
+slug: 'B07X9LR3LP-es LIGE Relojes Hombre Negro Casual Minimalista Impermeable...'
+tags: vestido
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

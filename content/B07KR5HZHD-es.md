@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31cmyk-9bVL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KR5HZHD-es GANT FOOTWEAR Bari  Zapatos de Cordones Brogue para Hombre  Verde  Dark Olive G710   41 EU'
+slug: 'B07KR5HZHD-es GANT FOOTWEAR Bari Zapatos de Cordones Brogue para Hombre...'
+tags: zapatos
 actualPrice: 47.42 EUR
 currency: EUR
 price: 47.42

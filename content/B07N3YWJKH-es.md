@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/411TK8dXgyL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N3YWJKH-es Desigual Blouse Mila Blusa  Rojo  Rojo Oscuro 3029   S para Mujer'
+slug: 'B07N3YWJKH-es Desigual Blouse Mila Blusa Rojo Rojo Oscuro 3029 S para Mujer'
+tags: blusa
 actualPrice: 20.89 EUR
 currency: EUR
 price: 20.89

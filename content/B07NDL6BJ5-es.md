@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zLxu9LLTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NDL6BJ5-es G-STAR RAW Attacc Down Chaqueta  Verde  Sage 724   X-Small para Hombre'
+slug: 'B07NDL6BJ5-es G-STAR RAW Attacc Down Chaqueta Verde Sage 724 X-Small...'
+tags: chaqueta
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

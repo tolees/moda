@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41STHQH5AiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZMB37F-es Pepe Jeans Dutchman Chaqueta   Sailor 580   3-4 años  Talla del Fabricante: 3/4 años  para Niños'
+slug: 'B07MZMB37F-es Pepe Jeans Dutchman Chaqueta Sailor 580 3-4 años Talla del...'
+tags: chaqueta
 actualPrice: 57.12 EUR
 currency: EUR
 price: 57.12

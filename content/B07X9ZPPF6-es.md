@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51iTbKVVnVL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X9ZPPF6-es edc by Esprit 109cc1k023 Camisa Manga Larga  Azul  Navy 400   X-Small para Mujer'
+slug: 'B07X9ZPPF6-es edc by Esprit 109cc1k023 Camisa Manga Larga Azul Navy 400...'
+tags: camisa
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

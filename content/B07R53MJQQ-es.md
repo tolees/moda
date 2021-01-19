@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412-gJVlGNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R53MJQQ-es Scotch & Soda Skim-Objet D art Vaqueros Straight  Azul  Object Dart 3472   W33/L34  Talla del Fabricante: 33/34  para Hombre'
+slug: 'B07R53MJQQ-es Scotch & Soda Skim-Objet D art Vaqueros Straight Azul...'
+tags: vaqueros
 actualPrice: 77.95 EUR
 currency: EUR
 price: 77.95

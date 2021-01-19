@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51yhUpQ1pHL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PDFPR2G-es Tous Bowling New Essence  Bolso bolera para Mujer  Multicolor  Gun/Negro 995900625   31x24x13.5 cm  W x H x L '
+slug: 'B07PDFPR2G-es Tous Bowling New Essence Bolso bolera para Mujer...'
+tags: bolso
 actualPrice: 83.4 EUR
 currency: EUR
 price: 83.4

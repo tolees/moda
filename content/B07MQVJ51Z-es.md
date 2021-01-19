@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41hN2GFbhNL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MQVJ51Z-es Napapijri BOVES C Sudadera  Rojo  Red Scarlet R01   L para Hombre'
+slug: 'B07MQVJ51Z-es Napapijri BOVES C Sudadera Rojo Red Scarlet R01 L para Hombre'
+tags: sudadera
 actualPrice: 35.6 EUR
 currency: EUR
 price: 35.6

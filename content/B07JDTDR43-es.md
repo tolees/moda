@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41WgDmnan7L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JDTDR43-es Lacoste Sh6382 Sudadera  Gris  Argent Chiné Cca   XXXX-Large  Talla del Fabricante: 9  para Hombre'
+slug: 'B07JDTDR43-es Lacoste Sh6382 Sudadera Gris Argent Chiné Cca XXXX-Large...'
+tags: sudadera
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Z+DH8IizL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083SQNPRP-es Leabags Cambridge - Bolso bandolera  piel de búfalo   diseño vintage Marrón Sugar Cane. medium'
+slug: 'B083SQNPRP-es Leabags Cambridge - Bolso bandolera piel de búfalo diseño...'
+tags: bolso
 actualPrice: 94.98 EUR
 currency: EUR
 price: 94.98

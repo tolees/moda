@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4125U6oP2RL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01H6VPX6Q-es Eudora Harmony Ball Llamador de Angeles Embarazada  Colgantes Mujer Collar Música Timbre Bell Mujeres Joyas Niñas Damas Profesor Madres y Hermanas Mejor Regalo'
+slug: 'B01H6VPX6Q-es Eudora Harmony Ball Llamador de Angeles Embarazada...'
+tags: collar
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

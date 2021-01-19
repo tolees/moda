@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51kI1ssSPZL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B075ZPL8DP-es Bruetting Countdown  Zapatos de Low Rise Senderismo para Hombre  Schwarz/Blau/Lemon  46 EU'
+slug: 'B075ZPL8DP-es Bruetting Countdown Zapatos de Low Rise Senderismo para...'
+tags: zapatos
 actualPrice: 15.46 EUR
 currency: EUR
 price: 15.46

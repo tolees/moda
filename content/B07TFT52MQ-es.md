@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41xTzHWDzgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TFT52MQ-es bedee Chubasquero Chaqueta Impermeable Chubasquero Abrigo para Mujer  Amarillo-XL '
+slug: 'B07TFT52MQ-es bedee Chubasquero Chaqueta Impermeable Chubasquero Abrigo...'
+tags: abrigo, chaqueta
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

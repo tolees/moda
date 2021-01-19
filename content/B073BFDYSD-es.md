@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41kKb+O4H1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073BFDYSD-es BaronHong Gynecomastia compresión Camisa Chaleco para Ocultar Hombre Boobs Moobs Adelgazamiento Mens Shapewear Aplastar Abdomen Completo  Negro  XL '
+slug: 'B073BFDYSD-es BaronHong Gynecomastia compresión Camisa Chaleco para...'
+tags: camisa, chaleco
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

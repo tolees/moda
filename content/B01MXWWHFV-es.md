@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31rIJgIrKOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MXWWHFV-es MeBB Chic Collar Mordedor de Lactancia para Bebé Mordedor sin BPA Silicona Antibiótico Cómodo use collar  Hermosa Moda  Pastel White '
+slug: 'B01MXWWHFV-es MeBB Chic Collar Mordedor de Lactancia para Bebé Mordedor...'
+tags: collar, moda
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

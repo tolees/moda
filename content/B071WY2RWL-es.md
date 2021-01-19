@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41i5clH+2NL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071WY2RWL-es Amazon Essentials 6-Pack Crewneck Undershirts Camisa  Negro  Black   Large'
+slug: 'B071WY2RWL-es Amazon Essentials 6-Pack Crewneck Undershirts Camisa Negro...'
+tags: camisa
 actualPrice: 15.15 EUR
 currency: EUR
 price: 15.15

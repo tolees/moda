@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/411zrkCq6mL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MSZ2PZM-es Helly Hansen Crew Hooded Midlayer - Chaqueta Impermeable  Cortavientos y Transpirable  con Forro Polar y Capucha Integrados  Hombre  Blanco  001 White   S'
+slug: 'B01MSZ2PZM-es Helly Hansen Crew Hooded Midlayer - Chaqueta Impermeable...'
+tags: chaqueta
 actualPrice: 133.98 EUR
 currency: EUR
 price: 133.98

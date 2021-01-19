@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/4176OZRXGxL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B073TZHHZ5-es Vero Moda Vmagoura LS O-Neck Blouse A  suéter Mujer  Negro  Black Beauty Black Beauty   36  Talla del Fabricante: Small '
+slug: 'B073TZHHZ5-es Vero Moda Vmagoura LS O-Neck Blouse A suéter Mujer Negro...'
+tags: moda
 actualPrice: 19.82 EUR
 currency: EUR
 price: 19.82

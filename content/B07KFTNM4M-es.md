@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41RciasYq8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KFTNM4M-es Helly Hansen Hp Atlantic Fz Hoodie  Sudadera para Hombre  Azul  Azul Navy 597   Small'
+slug: 'B07KFTNM4M-es Helly Hansen Hp Atlantic Fz Hoodie Sudadera para Hombre...'
+tags: sudadera
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

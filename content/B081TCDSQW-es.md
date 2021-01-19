@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/511X770RgQL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081TCDSQW-es Disfraz Anna Frozen Niñas con Capa Princesa Ana Vestido Traje Princesa Elsa para Halloween Fiesta Fancy Dress Manga Larga con Capa Traje Infantil Nieve Hielo Fiesta Rojo 3-4 Años'
+slug: 'B081TCDSQW-es Disfraz Anna Frozen Niñas con Capa Princesa Ana Vestido...'
+tags: vestido
 actualPrice: 14.16 EUR
 currency: EUR
 price: 14.16

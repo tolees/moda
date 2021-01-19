@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/317gmAJeYmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MSKF79Q-es Clarks Cotrell Stride  Zapatos de Cordones Derby para Hombre  Azul Marino  Piel Marina  42.5 EU'
+slug: 'B07MSKF79Q-es Clarks Cotrell Stride Zapatos de Cordones Derby para...'
+tags: zapatos
 actualPrice: 60.41 EUR
 currency: EUR
 price: 60.41

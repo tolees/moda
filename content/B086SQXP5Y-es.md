@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31PTyAB1OmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086SQXP5Y-es Mujer Zapatos de tacón Alto con tacón de Aguja de Boda para con Punta en Punta  de tacón Alto10.5CM/7.5CM'
+slug: 'B086SQXP5Y-es Mujer Zapatos de tacón Alto con tacón de Aguja de Boda...'
+tags: zapatos
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

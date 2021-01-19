@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41E4vEOdWUL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078HH3V8Y-es GEOX Zapatos con Cordones Schnürer Edgeware Brown  tamaño:42'
+slug: 'B078HH3V8Y-es GEOX Zapatos con Cordones Schnürer Edgeware Brown tamaño:42'
+tags: geox, zapatos
 actualPrice: 41.45 EUR
 currency: EUR
 price: 41.45

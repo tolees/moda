@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41sx3aTjzeL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LG14RT5-es Geox U Terence C  Botas Clasicas para Hombre  Marrón  Cognac C6001   45 EU'
+slug: 'B07LG14RT5-es Geox U Terence C Botas Clasicas para Hombre Marrón Cognac...'
+tags: geox
 actualPrice: 65.2 EUR
 currency: EUR
 price: 65.2

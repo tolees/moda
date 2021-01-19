@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31rBMcsvTOL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L3F8NBR-es Tommy Hilfiger Dress Casual Nubuck Shoe  Zapatos de Cordones Oxford para Hombre  Azul  Midnight 403   43 EU'
+slug: 'B07L3F8NBR-es Tommy Hilfiger Dress Casual Nubuck Shoe Zapatos de...'
+tags: zapatos
 actualPrice: 63.94 EUR
 currency: EUR
 price: 63.94

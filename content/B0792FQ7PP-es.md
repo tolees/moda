@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41U7x6wd08L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0792FQ7PP-es Geox U Leitan B  Mocasines para Hombre  Negro  Black C9999   39 EU'
+slug: 'B0792FQ7PP-es Geox U Leitan B Mocasines para Hombre Negro Black C9999 39 EU'
+tags: geox
 actualPrice: 51.39 EUR
 currency: EUR
 price: 51.39

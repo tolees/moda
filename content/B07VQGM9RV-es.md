@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31HIGhG-hRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VQGM9RV-es Marca Amazon - AURIQUE Sudadera de Manga Larga de Forro Polar Mujer  Azul  Gibraltor Sea   42  Label:L'
+slug: 'B07VQGM9RV-es Marca Amazon - AURIQUE Sudadera de Manga Larga de Forro...'
+tags: aurique, sudadera
 actualPrice: 4.72 EUR
 currency: EUR
 price: 4.72

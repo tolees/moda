@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41YVdzqSazL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XJNNY2K-es JACK & JONES Jorrafael tee SS Crew Neck Camiseta  Rojo  Brick Redreg   Medium para Hombre'
+slug: 'B07XJNNY2K-es JACK & JONES Jorrafael tee SS Crew Neck Camiseta Rojo...'
+tags: camiseta
 actualPrice: 5.27 EUR
 currency: EUR
 price: 5.27

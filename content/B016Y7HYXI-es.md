@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31qpf7Ppl%2BL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B016Y7HYXI-es Luz Para Bolso Seguridad de Luz con Sensor de Infrarrojos.Se Enciende Automaticamente Cuando Abre el Bolso.Protegida Patente'
+slug: 'B016Y7HYXI-es Luz Para Bolso Seguridad de Luz con Sensor de...'
+tags: bolso
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

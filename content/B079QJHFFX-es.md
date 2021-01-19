@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41DhkcM+CIL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079QJHFFX-es Levi s Graphic Camiseta  Gris  84 Sportswear Logo Grey Mid Tone Grey HT 0002   XXX-Large para Hombre'
+slug: 'B079QJHFFX-es Levi s Graphic Camiseta Gris 84 Sportswear Logo Grey Mid...'
+tags: camiseta
 actualPrice: 12.5 EUR
 currency: EUR
 price: 12.5

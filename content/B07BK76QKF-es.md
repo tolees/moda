@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+6bIAkGbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BK76QKF-es Panama Jack Sanders Basics  Sandalias con Punta Abierta para Hombre  Marrón  Marron C1   47 EU'
+slug: 'B07BK76QKF-es Panama Jack Sanders Basics Sandalias con Punta Abierta...'
+tags: sandalias
 actualPrice: 49.05 EUR
 currency: EUR
 price: 49.05

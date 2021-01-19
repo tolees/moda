@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/419o04+xSaL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073XX7SCM-es The North Face Jacket Chaqueta Trevail  Mujer  Negro  TNF Black   S'
+slug: 'B073XX7SCM-es The North Face Jacket Chaqueta Trevail Mujer Negro TNF...'
+tags: chaqueta
 actualPrice: 125.95 EUR
 currency: EUR
 price: 125.95

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41LI9-gpQkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01J1LZ59Y-es Crocs Crocband Clog K  Zuecos con Correa Unisex Niños  Azul  Navy/Volt Green   19/20 EU'
+slug: 'B01J1LZ59Y-es Crocs Crocband Clog K Zuecos con Correa Unisex Niños Azul...'
+tags: zuecos
 actualPrice: 22.03 EUR
 currency: EUR
 price: 22.03

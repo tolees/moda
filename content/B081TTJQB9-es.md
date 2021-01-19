@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41pP5HFI2cL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081TTJQB9-es adidas Trefoil tee Camiseta de Manga Corta  Mujer  Future Hydro f10/White  38'
+slug: 'B081TTJQB9-es adidas Trefoil tee Camiseta de Manga Corta Mujer Future...'
+tags: camiseta
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

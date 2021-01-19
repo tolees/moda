@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41FLSwSYlmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TZK6NXQ-es BOSS Boxer Brief 3p Co  Multicolor  Open Miscellaneous 963   Medium  Pack de 3  para Hombre'
+slug: 'B07TZK6NXQ-es BOSS Boxer Brief 3p Co Multicolor Open Miscellaneous 963...'
+tags: boxer
 actualPrice: 16.93 EUR
 currency: EUR
 price: 16.93

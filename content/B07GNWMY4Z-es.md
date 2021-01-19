@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/419V+Xa2HvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GNWMY4Z-es Skechers On-The-go 600-Flawless  Sandalias de Talón Abierto para Mujer  Morado  Light Mauve Ltmv   36 EU'
+slug: 'B07GNWMY4Z-es Skechers On-The-go 600-Flawless Sandalias de Talón Abierto...'
+tags: sandalias
 actualPrice: 35.59 EUR
 currency: EUR
 price: 35.59

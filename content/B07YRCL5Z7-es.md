@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41TOxcJ1WcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YRCL5Z7-es Marca Amazon - find. Vestido Largo Camisero Mujer  Multicolor  Blue Paisley .  40  Label: M'
+slug: 'B07YRCL5Z7-es Marca Amazon - find. Vestido Largo Camisero Mujer...'
+tags: vestido, -, find.
 actualPrice: 9.53 EUR
 currency: EUR
 price: 9.53

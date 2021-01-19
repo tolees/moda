@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/412IALAuUhL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B071S3LHTZ-es FIND Vestido Ajustable para Mujer   Negro  Schwarz   36  Talla del Fabricante: X-Small '
+slug: 'B071S3LHTZ-es FIND Vestido Ajustable para Mujer Negro Schwarz 36 Talla...'
+tags: vestido
 actualPrice: 10.58 EUR
 currency: EUR
 price: 10.58

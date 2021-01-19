@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/312iVCHzS4L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S4BCMPG-es New Balance 574 Nms Deportes De Los Zapatos De La Zapatilla De Deporte Zapatos Zapatillas De Deporte Hombre Verde  Un Diseño  42.5  Verde'
+slug: 'B07S4BCMPG-es New Balance 574 Nms Deportes De Los Zapatos De La...'
+tags: zapatos, zapatilla
 actualPrice: 51.5 EUR
 currency: EUR
 price: 51.5

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41XnFXIoAcL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZQJMLT-es Pepe Jeans Neana Sudadera   Sailor 580   3-4 años  Talla del Fabricante: 3/4 años  para Niñas'
+slug: 'B07MZQJMLT-es Pepe Jeans Neana Sudadera Sailor 580 3-4 años Talla del...'
+tags: sudadera
 actualPrice: 18.94 EUR
 currency: EUR
 price: 18.94

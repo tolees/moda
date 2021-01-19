@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41DPU5AgEdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MKR8SS7-es Lacoste Ch5843 Camisa  Gris  Anthracite Chiné 8fx   Medium  Talla del Fabricante: 40  para Hombre'
+slug: 'B07MKR8SS7-es Lacoste Ch5843 Camisa Gris Anthracite Chiné 8fx Medium...'
+tags: camisa
 actualPrice: 57.25 EUR
 currency: EUR
 price: 57.25

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41oKzqqSJvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VGRT7TZ-es Desigual - Bolso de mano de Sintético Mujer  color Negro  talla 3x36.5x32 cm  B x H x T '
+slug: 'B07VGRT7TZ-es Desigual - Bolso de mano de Sintético Mujer color Negro...'
+tags: bolso
 actualPrice: 21.24 EUR
 currency: EUR
 price: 21.24

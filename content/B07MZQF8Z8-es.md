@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41QditBTvaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZQF8Z8-es Pepe Jeans Josephs Camiseta   Grey Marl 933   Medium para Hombre'
+slug: 'B07MZQF8Z8-es Pepe Jeans Josephs Camiseta Grey Marl 933 Medium para Hombre'
+tags: camiseta
 actualPrice: 20.49 EUR
 currency: EUR
 price: 20.49

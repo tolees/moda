@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41X0LHyEDKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SGRJNNS-es Raging Bull Guantes Gimnasio Hombre Mujer  calleras para Crossfit  guantillas Gym Transpirable  Antideslizante  para Levantamiento de Pesas  calistenia  agarraderas Fitness con muñequeras Gym'
+slug: 'B07SGRJNNS-es Raging Bull Guantes Gimnasio Hombre Mujer calleras para...'
+tags: guantes
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

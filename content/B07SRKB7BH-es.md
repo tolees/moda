@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41vLS4hrO6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SRKB7BH-es Geox D Borealis A  Sandalia con Pulsera para Mujer  Rojo  Red/Black C0020   40 EU'
+slug: 'B07SRKB7BH-es Geox D Borealis A Sandalia con Pulsera para Mujer Rojo...'
+tags: geox
 actualPrice: 33.96 EUR
 currency: EUR
 price: 33.96

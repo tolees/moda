@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41YEg-LdNLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SV2LS46-es Asics Gel-Rocket 9  Zapatilla para Deportes para Hombre  Blanco/Chaquetón  42.5 EU'
+slug: 'B07SV2LS46-es Asics Gel-Rocket 9 Zapatilla para Deportes para Hombre...'
+tags: zapatilla
 actualPrice: 28.79 EUR
 currency: EUR
 price: 28.79

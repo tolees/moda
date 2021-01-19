@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31AqeKPX9HL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KHTOY3S-es Under Armour UA Heatgear Armour Sleeveless Camiseta Sin Mangas  Hombre  Negro  Black/Steel 001   L'
+slug: 'B00KHTOY3S-es Under Armour UA Heatgear Armour Sleeveless Camiseta Sin...'
+tags: camiseta
 actualPrice: 17.95 EUR
 currency: EUR
 price: 17.95

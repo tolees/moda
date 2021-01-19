@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/315wKglI74L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V4N3T4H-es Tommy Hilfiger Hilfiger Badge Beach Sandal  Sandalias con Punta Abierta para Hombre  Negro  Black Bds   43 EU'
+slug: 'B07V4N3T4H-es Tommy Hilfiger Hilfiger Badge Beach Sandal Sandalias con...'
+tags: sandalias
 actualPrice: 22.65 EUR
 currency: EUR
 price: 22.65

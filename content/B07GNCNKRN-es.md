@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51dSGRzC9ML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GNCNKRN-es KidSwim - Gafas de natación para niños de 4 a 12 años  sin fugas  resistentes al agua  lentes antivaho y correa de silicona suave'
+slug: 'B07GNCNKRN-es KidSwim - Gafas de natación para niños de 4 a 12 años sin...'
+tags: gafas
 actualPrice: 6.79 EUR
 currency: EUR
 price: 6.79

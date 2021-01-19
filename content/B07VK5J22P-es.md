@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51h9gFzelFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VK5J22P-es HOMESPON Bolsa Isotérmica de Almuerzo Lunch Bag Bolsa Térmica Porta Alimentos Tela Impermeable Plegable Bolso de Picnic para Mujeres  Adultos  Estudiantes y Niños'
+slug: 'B07VK5J22P-es HOMESPON Bolsa Isotérmica de Almuerzo Lunch Bag Bolsa...'
+tags: bolso
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

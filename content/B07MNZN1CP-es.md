@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Flnj0CxsL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MNZN1CP-es Zapatillas Unisex Niños Zapatos de Baloncesto Casual Zapatos Correr Sneakers para Hombre  2 Negro  42 EU'
+slug: 'B07MNZN1CP-es Zapatillas Unisex Niños Zapatos de Baloncesto Casual...'
+tags: zapatos
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ZQ4M234VL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SCFSXFF-es Crocs Classic Slide  Sandalias de Punta Descubierta Unisex Adulto  Negro  Black 001   37/38 EU'
+slug: 'B07SCFSXFF-es Crocs Classic Slide Sandalias de Punta Descubierta Unisex...'
+tags: sandalias
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

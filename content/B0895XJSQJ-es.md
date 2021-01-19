@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51tv5BLzhLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0895XJSQJ-es Bst4UDirect Bebés Natación Anillo  Recién Nacido Bebé Aprenda a Nadar Entrenador Inflable - Asiento Flotante Ajustable para Natación para Bebés Incluye Gafas Protectoras  Bomba de Aire  L: 6-30 Meses'
+slug: 'B0895XJSQJ-es Bst4UDirect Bebés Natación Anillo Recién Nacido Bebé...'
+tags: gafas
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

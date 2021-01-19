@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31PkThZbhwL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00LUP4GI6-es Crocs Freesail Clog  Zuecos para Mujer  Negro  Black   42/43 EU'
+slug: 'B00LUP4GI6-es Crocs Freesail Clog Zuecos para Mujer Negro Black 42/43 EU'
+tags: zuecos
 actualPrice: 21.0 EUR
 currency: EUR
 price: 21.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41fPr6S6FrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XHP99ND-es Marca Amazon - find. Camisa Hombre  Negro  Black   L  Label: L'
+slug: 'B06XHP99ND-es Marca Amazon - find. Camisa Hombre Negro Black L Label: L'
+tags: camisa, -, find.
 actualPrice: 5.87 EUR
 currency: EUR
 price: 5.87

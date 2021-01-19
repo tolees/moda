@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-hpJq4NVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07896NCMJ-es Under Armour UA Boxed Sportstyle Short Sleeve Camiseta  Hombre  Rojo  Red/Steel 600   L'
+slug: 'B07896NCMJ-es Under Armour UA Boxed Sportstyle Short Sleeve Camiseta...'
+tags: camiseta
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

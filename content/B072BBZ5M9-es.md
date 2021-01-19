@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/410j4BGDSsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072BBZ5M9-es find. Botines Chelsea de Ante para Mujer  Marrón  Congo   36 EU'
+slug: 'B072BBZ5M9-es find. Botines Chelsea de Ante para Mujer Marrón Congo 36 EU'
+tags: botines
 actualPrice: 11.0 EUR
 currency: EUR
 price: 11.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41WOF4MJ8ML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JP1RFG1-es Cressi Aqua Shoes Zapatos Deportivo para Uso Acuático  Unisex Adulto  Azul Claro/Amarillo  44'
+slug: 'B07JP1RFG1-es Cressi Aqua Shoes Zapatos Deportivo para Uso Acuático...'
+tags: zapatos
 actualPrice: 19.24 EUR
 currency: EUR
 price: 19.24

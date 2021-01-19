@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41vjr5nGQSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079SMCPWN-es Desigual TS Vicent Camiseta  Azul  Navy 5000   S para Mujer'
+slug: 'B079SMCPWN-es Desigual TS Vicent Camiseta Azul Navy 5000 S para Mujer'
+tags: camiseta
 actualPrice: 14.55 EUR
 currency: EUR
 price: 14.55

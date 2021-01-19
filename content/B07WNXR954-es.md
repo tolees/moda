@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41Ca-MkePCL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WNXR954-es Charles Wilson Original Sudadera de Hombre Algodón Premium Capucha Cremallera  X-Small  Dark Green  0819  '
+slug: 'B07WNXR954-es Charles Wilson Original Sudadera de Hombre Algodón Premium...'
+tags: sudadera
 actualPrice: 28.95 EUR
 currency: EUR
 price: 28.95

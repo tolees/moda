@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Ast7gRWQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W2RN7JN-es Tommy Hilfiger TJM Chest Stripe Logo tee Camiseta Deporte  Azul  Twilight Navy C87   Large para Hombre'
+slug: 'B07W2RN7JN-es Tommy Hilfiger TJM Chest Stripe Logo tee Camiseta Deporte...'
+tags: camiseta
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41nLbyMRqLL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KGSLVXR-es edc by Esprit 999cc2k803 Camiseta  Blanco  White 100   Medium para Hombre'
+slug: 'B07KGSLVXR-es edc by Esprit 999cc2k803 Camiseta Blanco White 100 Medium...'
+tags: camiseta
 actualPrice: 6.49 EUR
 currency: EUR
 price: 6.49

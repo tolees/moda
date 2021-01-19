@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MV4VXRN-es TWBB De los Hombres Vendimia Pantalones Pantalones Vaqueros'
+tags: vaqueros
 actualPrice: 1.88 EUR
 currency: EUR
 price: 1.88

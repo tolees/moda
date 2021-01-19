@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ZyzfoyugL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V5JQQH7-es QUIZ Contrast Midi Dress Vestido Fiesta Mujer  Negro  Black 001   36  Talla del Fabricante: 8 '
+slug: 'B07V5JQQH7-es QUIZ Contrast Midi Dress Vestido Fiesta Mujer Negro Black...'
+tags: vestido
 actualPrice: 9.26 EUR
 currency: EUR
 price: 9.26

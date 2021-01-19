@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41IdG1Z7u5L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IF9Z7BY-es The North Face Tekware TNF Jersey 100 Glacier  Hombre  TNF Black  XXL'
+slug: 'B01IF9Z7BY-es The North Face Tekware TNF Jersey 100 Glacier Hombre TNF...'
+tags: jersey
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

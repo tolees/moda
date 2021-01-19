@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413bwCA-ddL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LGXKSKG-es The North Face Quest Print Jacket Chaqueta Estampada para Mujer  Vanadis Grey FL  M'
+slug: 'B07LGXKSKG-es The North Face Quest Print Jacket Chaqueta Estampada para...'
+tags: chaqueta
 actualPrice: 65.0 EUR
 currency: EUR
 price: 65.0

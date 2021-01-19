@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31PZr0knUjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S4WT7HT-es Levi s Haight Harrington Jacket Chaqueta  Negro  Mineral Black 0000   Medium para Hombre'
+slug: 'B07S4WT7HT-es Levi s Haight Harrington Jacket Chaqueta Negro Mineral...'
+tags: chaqueta
 actualPrice: 55.0 EUR
 currency: EUR
 price: 55.0

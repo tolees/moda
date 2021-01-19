@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Sv3txJSPL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L9GNXJH-es Under Armour  UNDKU  Heatgear Armour SS Camisa Manga Corta  Mujer  Rosa  XS'
+slug: 'B07L9GNXJH-es Under Armour UNDKU Heatgear Armour SS Camisa Manga Corta...'
+tags: camisa
 actualPrice: 10.25 EUR
 currency: EUR
 price: 10.25

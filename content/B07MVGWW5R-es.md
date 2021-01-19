@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41L58VE9USL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MVGWW5R-es Kipling Gleam  Bolso de Tocador para Mujer  Gris  Night Grey Bl   18.5x11x8 centimeters  B x H x T '
+slug: 'B07MVGWW5R-es Kipling Gleam Bolso de Tocador para Mujer Gris Night Grey...'
+tags: bolso
 actualPrice: 12 EUR
 currency: EUR
 price: 12

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31+Yxry6siL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V8W19YQ-es Tommy Hilfiger Hilfiger Badge Beach Sandal  Sandalias con Punta Abierta para Hombre  Rojo  Regatta Red Xit   42 EU'
+slug: 'B07V8W19YQ-es Tommy Hilfiger Hilfiger Badge Beach Sandal Sandalias con...'
+tags: sandalias
 actualPrice: 20.95 EUR
 currency: EUR
 price: 20.95

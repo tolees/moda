@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31xkauV6rRL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFZQ14F-es Geox U Nebula C  Zapatillas para Hombre  Negro  Black C9999   44 EU'
+slug: 'B07LFZQ14F-es Geox U Nebula C Zapatillas para Hombre Negro Black C9999...'
+tags: geox
 actualPrice: 40.83 EUR
 currency: EUR
 price: 40.83

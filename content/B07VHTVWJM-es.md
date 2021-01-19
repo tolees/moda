@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41l0HdGS8cL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VHTVWJM-es Desigual Vest Cuautitlá Vestido  Blanco  Blanco 1000   4 años para Niñas'
+slug: 'B07VHTVWJM-es Desigual Vest Cuautitlá Vestido Blanco Blanco 1000 4 años...'
+tags: vestido
 actualPrice: 15.22 EUR
 currency: EUR
 price: 15.22

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41k-0YTrOtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DZ7XCQY-es Columbia Powder Lite Chaqueta De Plumón  Niños  Negro  Black   XS'
+slug: 'B07DZ7XCQY-es Columbia Powder Lite Chaqueta De Plumón Niños Negro Black XS'
+tags: chaqueta
 actualPrice: 28.41 EUR
 currency: EUR
 price: 28.41

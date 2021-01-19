@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31WoHaFLcoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087MZZ2GS-es Ramokey Leggings Mujer Pantalón Deportivo Cintura Alta con Bolsillos Leggings Mallas para Yoga Pilates Running Fitness y Ejercicio Rosado L'
+slug: 'B087MZZ2GS-es Ramokey Leggings Mujer Pantalón Deportivo Cintura Alta con...'
+tags: pantalón
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

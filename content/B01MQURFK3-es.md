@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41emiRzst1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MQURFK3-es Pendientes de Moda Rectángulo Largo Azul Gris y Púrpura para Mujeres'
+slug: 'B01MQURFK3-es Pendientes de Moda Rectángulo Largo Azul Gris y Púrpura...'
+tags: moda
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

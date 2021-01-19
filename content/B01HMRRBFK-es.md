@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Jon4SR2RL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HMRRBFK-es The North Face S/S Easy H Camiseta de Manga Corta  Hombre  Negro  TNF Black   S'
+slug: 'B01HMRRBFK-es The North Face S/S Easy H Camiseta de Manga Corta Hombre...'
+tags: camiseta
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

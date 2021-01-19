@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41N4Vk6gh+L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F27JHGK-es Levi s Big and Tall B&t Graphic tee Camiseta  Blanco  Big Logo Stripe White 0003   XXXX-Large para Hombre'
+slug: 'B07F27JHGK-es Levi s Big and Tall B&t Graphic tee Camiseta Blanco Big...'
+tags: camiseta
 actualPrice: 12.5 EUR
 currency: EUR
 price: 12.5

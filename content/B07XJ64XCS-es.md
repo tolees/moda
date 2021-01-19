@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41DYujll5DL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XJ64XCS-es Skechers Go Walk 5  Sandalias de Punta Descubierta para Hombre  Azul  Navy Synthetic/Black Trim Nvbk   44 EU'
+slug: 'B07XJ64XCS-es Skechers Go Walk 5 Sandalias de Punta Descubierta para...'
+tags: sandalias
 actualPrice: 35.45 EUR
 currency: EUR
 price: 35.45

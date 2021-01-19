@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+zQMk70JL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075QCQRDG-es Wantdo Chaqueta Gruesa Impermeable Contraviento para Niñas con Capucha Azul Claro+Azul Oscuro 4/5'
+slug: 'B075QCQRDG-es Wantdo Chaqueta Gruesa Impermeable Contraviento para Niñas...'
+tags: chaqueta
 actualPrice: 7.19 EUR
 currency: EUR
 price: 7.19

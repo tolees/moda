@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/310qlzvJp-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SVPXNRP-es Geox D Nebula B  Zapatillas sin Cordones para Mujer  Negro  Black C9997   37 EU'
+slug: 'B07SVPXNRP-es Geox D Nebula B Zapatillas sin Cordones para Mujer Negro...'
+tags: geox
 actualPrice: 29.88 EUR
 currency: EUR
 price: 29.88

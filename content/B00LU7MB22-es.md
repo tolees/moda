@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zgIOOzNvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00LU7MB22-es Helly Hansen Crew Chaqueta  Hombre  Negro  Black   XS'
+slug: 'B00LU7MB22-es Helly Hansen Crew Chaqueta Hombre Negro Black XS'
+tags: chaqueta
 actualPrice: 69.78 EUR
 currency: EUR
 price: 69.78

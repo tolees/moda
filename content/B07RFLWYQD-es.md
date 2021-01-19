@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41o9Z8dwKEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RFLWYQD-es Tommy Hilfiger Arlos Bomber Chaqueta deportiva  Negro  Black Bds   X-Large para Hombre'
+slug: 'B07RFLWYQD-es Tommy Hilfiger Arlos Bomber Chaqueta deportiva Negro Black...'
+tags: chaqueta
 actualPrice: 71.3 EUR
 currency: EUR
 price: 71.3

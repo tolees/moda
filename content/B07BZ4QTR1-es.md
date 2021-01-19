@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/411PxdEMN-L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BZ4QTR1-es CMP Rigel Mid  Zapatos de High Rise Senderismo Unisex  Marrón  Arabica-Adriatico 81bn   28 EU'
+slug: 'B07BZ4QTR1-es CMP Rigel Mid Zapatos de High Rise Senderismo Unisex...'
+tags: zapatos
 actualPrice: 23.96 EUR
 currency: EUR
 price: 23.96

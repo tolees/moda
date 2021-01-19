@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4116xJtn-JL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BFJ2HBY-es Charles Wilson Camiseta Polo con Solapa de Contraste  Large  Sky Blue '
+slug: 'B01BFJ2HBY-es Charles Wilson Camiseta Polo con Solapa de Contraste Large...'
+tags: camiseta
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

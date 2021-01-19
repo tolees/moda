@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/312HzwacFWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00J0CRUVQ-es Polaroid 07886- Gafas de sol color 9CA RC negro  black   talla 70'
+slug: 'B00J0CRUVQ-es Polaroid 07886- Gafas de sol color 9CA RC negro black...'
+tags: gafas
 actualPrice: 32.0 EUR
 currency: EUR
 price: 32.0

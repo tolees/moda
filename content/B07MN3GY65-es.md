@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41HnS+XXgGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MN3GY65-es Lee Chunky Knit Sudadera  Rosa  Frost Pink MC   Large para Mujer'
+slug: 'B07MN3GY65-es Lee Chunky Knit Sudadera Rosa Frost Pink MC Large para Mujer'
+tags: sudadera
 actualPrice: 31.8 EUR
 currency: EUR
 price: 31.8

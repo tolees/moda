@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+QNLsYwpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01A6LANI6-es Crocs Crocband U  Zuecos Unisex Adulto  Azul  Cerulean Blue-Oyster   38-39 EU'
+slug: 'B01A6LANI6-es Crocs Crocband U Zuecos Unisex Adulto Azul Cerulean Blue-...'
+tags: zuecos
 actualPrice: 36.0 EUR
 currency: EUR
 price: 36.0

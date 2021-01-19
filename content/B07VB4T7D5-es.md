@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51PVAReJVYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VB4T7D5-es Scotch & Soda Oversized Boxy Fit Cotton Viscose Shirt In Various Prints Blusa  Multicolor  Combo H 0587   Small para Mujer'
+slug: 'B07VB4T7D5-es Scotch & Soda Oversized Boxy Fit Cotton Viscose Shirt In...'
+tags: blusa
 actualPrice: 17.49 EUR
 currency: EUR
 price: 17.49

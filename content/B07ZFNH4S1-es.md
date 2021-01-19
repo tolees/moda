@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416O4YB8T3L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZFNH4S1-es XIANGUO Guantes Invierno Ciclismo  Guantes Pantalla Tactil Hombre Guantes Antideslizantes Mpermeables Calientes'
+slug: 'B07ZFNH4S1-es XIANGUO Guantes Invierno Ciclismo Guantes Pantalla Tactil...'
+tags: guantes
 actualPrice: 15.89 EUR
 currency: EUR
 price: 15.89

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41b9mW1gAHL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NDNVQWN-es G-STAR RAW Graphic 14 Core Hooded Sudadera  Marrón  Aged Almond A493   XX-Small para Hombre'
+slug: 'B07NDNVQWN-es G-STAR RAW Graphic 14 Core Hooded Sudadera Marrón Aged...'
+tags: sudadera
 actualPrice: 26.55 EUR
 currency: EUR
 price: 26.55

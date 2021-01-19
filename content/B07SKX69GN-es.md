@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31qgxm62FqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SKX69GN-es Under Armour Fast Left Chest 2.0 SS Camiseta Deportiva De Manga Corta  Hombre  Blanco  White 101   MD'
+slug: 'B07SKX69GN-es Under Armour Fast Left Chest 2.0 SS Camiseta Deportiva De...'
+tags: camiseta
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41cs1Tu5tHL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FTHB292-es Lee Slim Rider Chaqueta Vaquera  Azul  Flick Light IR   Small para Hombre'
+slug: 'B07FTHB292-es Lee Slim Rider Chaqueta Vaquera Azul Flick Light IR Small...'
+tags: chaqueta
 actualPrice: 34.08 EUR
 currency: EUR
 price: 34.08

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41k-3eCZk+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0719J3CSM-es Lightess Apliques de Pared LED 12W Lámpara Exterior Impermeable IP65 Luz de Aluminio Luz Agradable Impermeable Iluminación en Moda para Balcón  Jardín  Porche  Camino  Patio  Blanco Frío'
+slug: 'B0719J3CSM-es Lightess Apliques de Pared LED 12W Lámpara Exterior...'
+tags: moda
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

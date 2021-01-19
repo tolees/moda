@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41Kxw1hXOxL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JCGL2PF-es Columbia Alpine Action Chaqueta OH Ski de esquí  Mujer  Rojo  Red Lily 658   L'
+slug: 'B07JCGL2PF-es Columbia Alpine Action Chaqueta OH Ski de esquí Mujer Rojo...'
+tags: chaqueta
 actualPrice: 106.19 EUR
 currency: EUR
 price: 106.19

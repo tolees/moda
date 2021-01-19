@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31+BYuflksL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01KFOJ55Q-es Levi s 512 Slim Taper Vaqueros Tapered  Negro  Nightshade X 0013   W36/L30  Talla del Fabricante: 36 30  para Hombre'
+slug: 'B01KFOJ55Q-es Levi s 512 Slim Taper Vaqueros Tapered Negro Nightshade X...'
+tags: vaqueros
 actualPrice: 72.99 EUR
 currency: EUR
 price: 72.99

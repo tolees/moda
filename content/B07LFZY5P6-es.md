@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Eo3gMHElL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFZY5P6-es Geox D NYDAME C  Zapatillas para Mujer  Negro  Black C9999   40 EU'
+slug: 'B07LFZY5P6-es Geox D NYDAME C Zapatillas para Mujer Negro Black C9999 40 EU'
+tags: geox
 actualPrice: 90.43 EUR
 currency: EUR
 price: 90.43

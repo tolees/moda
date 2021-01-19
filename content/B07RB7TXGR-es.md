@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41Vpbyf-z7L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RB7TXGR-es Columbia Pike Lake Chaqueta  Mujer  Amarillo  Raw Honey   M'
+slug: 'B07RB7TXGR-es Columbia Pike Lake Chaqueta Mujer Amarillo Raw Honey M'
+tags: chaqueta
 actualPrice: 87.99 EUR
 currency: EUR
 price: 87.99

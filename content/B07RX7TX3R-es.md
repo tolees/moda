@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41OcQv8C-2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RX7TX3R-es Levi s Vneck Camiseta  Negro  Caviar 0003   Medium para Mujer'
+slug: 'B07RX7TX3R-es Levi s Vneck Camiseta Negro Caviar 0003 Medium para Mujer'
+tags: camiseta
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

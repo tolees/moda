@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41I5ew2DE5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZQMRC1-es Pepe Jeans Miracle Camiseta   Dark Denim 559   X-Small para Mujer'
+slug: 'B07MZQMRC1-es Pepe Jeans Miracle Camiseta Dark Denim 559 X-Small para Mujer'
+tags: camiseta
 actualPrice: 9.22 EUR
 currency: EUR
 price: 9.22

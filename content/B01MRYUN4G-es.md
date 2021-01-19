@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/419sInP57NL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MRYUN4G-es Columbia Heather Canyon  Chaqueta para Mujer  Negro  S'
+slug: 'B01MRYUN4G-es Columbia Heather Canyon Chaqueta para Mujer Negro S'
+tags: chaqueta
 actualPrice: 34.68 EUR
 currency: EUR
 price: 34.68

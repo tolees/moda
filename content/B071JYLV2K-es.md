@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Z2n4izcBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071JYLV2K-es Levi s The Perfect Tee  Camiseta  Mujer  Negro  Large Batwing Black 201   XS'
+slug: 'B071JYLV2K-es Levi s The Perfect Tee Camiseta Mujer Negro Large Batwing...'
+tags: camiseta
 actualPrice: 10.0 EUR
 currency: EUR
 price: 10.0

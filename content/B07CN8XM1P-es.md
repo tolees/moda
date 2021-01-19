@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/210-mB+Bn4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CN8XM1P-es Crocs Classic Flip K  Chanclas Unisex Niños  Azul  Ice Blue 4o9   22/23 EU'
+slug: 'B07CN8XM1P-es Crocs Classic Flip K Chanclas Unisex Niños Azul Ice Blue...'
+tags: chanclas
 actualPrice: 13.06 EUR
 currency: EUR
 price: 13.06

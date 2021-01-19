@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51fXeVke2-L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081PLHZ1W-es Zapatillas de Baloncesto Altas Superiores Zapatillas de Deporte para Hombres Zapatos Deportivos Transpirables Antideslizantes'
+slug: 'B081PLHZ1W-es Zapatillas de Baloncesto Altas Superiores Zapatillas de...'
+tags: zapatos
 actualPrice: 33.4 EUR
 currency: EUR
 price: 33.4

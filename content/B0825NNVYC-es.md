@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41UM66xKImL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0825NNVYC-es Quiksilver New Slang - Camiseta para Hombre Screen tee  Hombre  Black  S'
+slug: 'B0825NNVYC-es Quiksilver New Slang - Camiseta para Hombre Screen tee...'
+tags: camiseta
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

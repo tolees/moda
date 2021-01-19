@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31aMSPvYxPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QQ5WPKT-es Marca Amazon - Iris & Lilly Sujetador de Modal Media Copa Mujer  Pack de 2  Multicolor  Black/White   90D  Label: 34D'
+slug: 'B07QQ5WPKT-es Marca Amazon - Iris & Lilly Sujetador de Modal Media Copa...'
+tags: iris, &, lilly
 actualPrice: 8.33 EUR
 currency: EUR
 price: 8.33

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z58H1WV-es Scalpers Camisa Slim FIT Pinzas - Skyblue/White Stripes / 42'
+tags: camisa
 actualPrice: 39.9 EUR
 currency: EUR
 price: 39.9

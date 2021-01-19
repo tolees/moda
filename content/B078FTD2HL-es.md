@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41W6XWmB7lL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078FTD2HL-es Prada 0PR05TS TH71I0 53 Gafas de sol  Blanco  Light Havana/Striped White/Green   Mujer'
+slug: 'B078FTD2HL-es Prada 0PR05TS TH71I0 53 Gafas de sol Blanco Light...'
+tags: gafas
 actualPrice: 129.0 EUR
 currency: EUR
 price: 129.0

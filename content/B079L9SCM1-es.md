@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31kho+PB95L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079L9SCM1-es Lacoste Ch9623 Camisa  Blanco  Blanc/Blanc   37 para Hombre'
+slug: 'B079L9SCM1-es Lacoste Ch9623 Camisa Blanco Blanc/Blanc 37 para Hombre'
+tags: camisa
 actualPrice: 62.69 EUR
 currency: EUR
 price: 62.69

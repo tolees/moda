@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41CtGbiicjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VS6HYJQ-es Tommy Hilfiger TH Cool ESS Relaxed C-nk tee SS Camiseta  Azul  Sail Blue Cyt   46  Talla del Fabricante: XXX-Large  para Mujer'
+slug: 'B07VS6HYJQ-es Tommy Hilfiger TH Cool ESS Relaxed C-nk tee SS Camiseta...'
+tags: camiseta
 actualPrice: 15.39 EUR
 currency: EUR
 price: 15.39

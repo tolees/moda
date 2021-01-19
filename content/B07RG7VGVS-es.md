@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41W+wq3EHYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RG7VGVS-es Levi s 501 Crop Vaqueros Boyfriend  Azul  Jive Stone Wash 0073   W30/L30  Talla del Fabricante: 30 30  para Mujer'
+slug: 'B07RG7VGVS-es Levi s 501 Crop Vaqueros Boyfriend Azul Jive Stone Wash...'
+tags: vaqueros
 actualPrice: 71.99 EUR
 currency: EUR
 price: 71.99

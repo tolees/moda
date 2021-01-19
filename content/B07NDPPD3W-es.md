@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41qXdQvijYL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NDPPD3W-es G-STAR RAW CPO Slim Camisa Vaquera  Multicolor  Medium Aged Restored 138 8399   Small para Hombre'
+slug: 'B07NDPPD3W-es G-STAR RAW CPO Slim Camisa Vaquera Multicolor Medium Aged...'
+tags: camisa
 actualPrice: 21.94 EUR
 currency: EUR
 price: 21.94

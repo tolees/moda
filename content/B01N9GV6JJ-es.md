@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41HRFhbn0JL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N9GV6JJ-es KRISP 6252-TUR-20  Vestido Corto Patinadora Vuelo Fruncido Busto  Turquesa  6252   48'
+slug: 'B01N9GV6JJ-es KRISP 6252-TUR-20 Vestido Corto Patinadora Vuelo Fruncido...'
+tags: vestido
 actualPrice: 12.49 EUR
 currency: EUR
 price: 12.49

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41q3qE5cvnL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075NB12JD-es Trangoworld Awear Chaqueta  Mujer  Negro/Verde Ácido  L'
+slug: 'B075NB12JD-es Trangoworld Awear Chaqueta Mujer Negro/Verde Ácido L'
+tags: chaqueta
 actualPrice: 41.97 EUR
 currency: EUR
 price: 41.97

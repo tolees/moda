@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ZwRtO+zAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MYHB2WL-es Pepe Jeans Cane Vaqueros  Medium Used Denim Bb6  34W / 34L para Hombre'
+slug: 'B07MYHB2WL-es Pepe Jeans Cane Vaqueros Medium Used Denim Bb6 34W / 34L...'
+tags: vaqueros
 actualPrice: 28.65 EUR
 currency: EUR
 price: 28.65

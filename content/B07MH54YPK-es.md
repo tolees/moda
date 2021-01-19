@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41YNzhRpHGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MH54YPK-es Lacoste Sport Sf7917 Sudadera premamá  Gris  Argent Chiné Cca   40 para Mujer'
+slug: 'B07MH54YPK-es Lacoste Sport Sf7917 Sudadera premamá Gris Argent Chiné...'
+tags: sudadera
 actualPrice: 56.28 EUR
 currency: EUR
 price: 56.28

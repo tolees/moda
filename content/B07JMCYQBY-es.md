@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/415gr9UrmUL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JMCYQBY-es Lee Emblem T Camiseta  Amarillo  Yellow Sign Ln   X-Small para Mujer'
+slug: 'B07JMCYQBY-es Lee Emblem T Camiseta Amarillo Yellow Sign Ln X-Small para...'
+tags: camiseta
 actualPrice: 9.07 EUR
 currency: EUR
 price: 9.07

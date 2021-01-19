@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/313OWJbEeQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N68E9KV-es IEFIEL Chaqueta de Fiesta Boda para Niña Bolero Pompón de Dama Honor Cárdigan de Piel Sintética Abrigo Invierno Otoño Marfil 5-6 Años'
+slug: 'B01N68E9KV-es IEFIEL Chaqueta de Fiesta Boda para Niña Bolero Pompón de...'
+tags: abrigo, chaqueta
 actualPrice: 11.05 EUR
 currency: EUR
 price: 11.05

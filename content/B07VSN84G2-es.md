@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-sy0Ub1UL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VSN84G2-es Jack & Jones JORRAFAEL Sweat Hood Sudadera con Capucha  Azul  Sea Moss Fit: Slim – Org   XL para Hombre'
+slug: 'B07VSN84G2-es Jack & Jones JORRAFAEL Sweat Hood Sudadera con Capucha...'
+tags: sudadera
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98

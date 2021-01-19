@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41s8XfxWaSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VD45ZS4-es Calvin Klein Vegetable Dye Monogram Crew Neck Sudadera  Morado  Brandied Apricot VAZ   Medium para Hombre'
+slug: 'B07VD45ZS4-es Calvin Klein Vegetable Dye Monogram Crew Neck Sudadera...'
+tags: sudadera
 actualPrice: 39.06 EUR
 currency: EUR
 price: 39.06

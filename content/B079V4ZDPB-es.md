@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31w4wEbzJLL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B079V4ZDPB-es Wrangler Skinny  Vaqueros Skinny  Mujer  Azul  Tainted Blue 21H   W28/L34'
+slug: 'B079V4ZDPB-es Wrangler Skinny Vaqueros Skinny Mujer Azul Tainted Blue...'
+tags: vaqueros
 actualPrice: 31.71 EUR
 currency: EUR
 price: 31.71

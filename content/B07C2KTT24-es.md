@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51d5Bg1ntKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C2KTT24-es Gifort 53Pcs Ganchillos Crochet  Ergonómicos Agujas de Ganchillo  Agujas de Punto Coloridas con Mango de Goma de Ganchillos Accesorios Con El Bolso De la PU'
+slug: 'B07C2KTT24-es Gifort 53Pcs Ganchillos Crochet Ergonómicos Agujas de...'
+tags: bolso
 actualPrice: 10.39 EUR
 currency: EUR
 price: 10.39

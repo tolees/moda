@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51POowiUuvL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0714JHB3J-es Paw Patrol HQ1227 Sudadera  Gris  Grey   5 años  Tamaño del Fabricante:5Y  para Niños'
+slug: 'B0714JHB3J-es Paw Patrol HQ1227 Sudadera Gris Grey 5 años Tamaño del...'
+tags: sudadera
 actualPrice: 13.02 EUR
 currency: EUR
 price: 13.02

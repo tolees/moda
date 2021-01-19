@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51lnlAFOqtL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XYGG4DY-es PIXNOR 4pcs mujeres flor pelo banda trenzado anudado Yoga cabeza envolver turbante cabeza abrigo diadema'
+slug: 'B06XYGG4DY-es PIXNOR 4pcs mujeres flor pelo banda trenzado anudado Yoga...'
+tags: abrigo
 actualPrice: 4.19 EUR
 currency: EUR
 price: 4.19

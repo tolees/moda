@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41S3JpokBZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N1HPMPJ-es Clarks Orabella Alice  Botines para Mujer  Gris  Light Grey Light Grey   39 EU'
+slug: 'B07N1HPMPJ-es Clarks Orabella Alice Botines para Mujer Gris Light Grey...'
+tags: botines
 actualPrice: 17.64 EUR
 currency: EUR
 price: 17.64

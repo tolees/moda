@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31z1kTFtZ+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TT6ZZ29-es Levi s Ex-Boyfriend Trucker Chaqueta Vaquera  Blanco  White Cell 0096   Large para Mujer'
+slug: 'B07TT6ZZ29-es Levi s Ex-Boyfriend Trucker Chaqueta Vaquera Blanco White...'
+tags: chaqueta
 actualPrice: 66.99 EUR
 currency: EUR
 price: 66.99

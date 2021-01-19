@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41JmPK8rXmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DQZQ8D6-es junengSO Bolsa de Mensajero de Banda Ancha Simple Mujeres Elegantes Bolso de Cubo Salvaje Hombro único Bolsas Grandes Paquete para niños'
+slug: 'B08DQZQ8D6-es junengSO Bolsa de Mensajero de Banda Ancha Simple Mujeres...'
+tags: bolso
 actualPrice: 25.63 EUR
 currency: EUR
 price: 25.63

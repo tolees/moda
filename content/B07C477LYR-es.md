@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41mqZZXqo+L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C477LYR-es Pepe Jeans Thrift Pl400755cf7 Chaqueta Vaquera  Azul  Denim CF7   M para Mujer'
+slug: 'B07C477LYR-es Pepe Jeans Thrift Pl400755cf7 Chaqueta Vaquera Azul Denim...'
+tags: chaqueta
 actualPrice: 39.5 EUR
 currency: EUR
 price: 39.5

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31DIT-J4OPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MQVGCRC-es Napapijri Berber H Sudadera con Capucha  Azul  BLU Marine 176   XL para Hombre'
+slug: 'B07MQVGCRC-es Napapijri Berber H Sudadera con Capucha Azul BLU Marine...'
+tags: sudadera
 actualPrice: 44.55 EUR
 currency: EUR
 price: 44.55

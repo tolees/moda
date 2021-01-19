@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/3130qURT8CL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B082MFSMRW-es OBEEII Niña Disfraz Princesa Party Vestido Bordado de Tul Comunión Fiesta para Niñas Cumpleaños Cóctel Ceremonia Disfraces Boda Prom Carnaval Cosplay Costume Blanco 120'
+slug: 'B082MFSMRW-es OBEEII Niña Disfraz Princesa Party Vestido Bordado de Tul...'
+tags: vestido
 actualPrice: 11.63 EUR
 currency: EUR
 price: 11.63

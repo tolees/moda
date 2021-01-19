@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31QctcEwcoL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01B2LGY46-es Kaporal BROZE16M7JSAD  Vaqueros Para Hombre  Beige  sandes   W31'
+slug: 'B01B2LGY46-es Kaporal BROZE16M7JSAD Vaqueros Para Hombre Beige sandes W31'
+tags: vaqueros
 actualPrice: 36.0 EUR
 currency: EUR
 price: 36.0

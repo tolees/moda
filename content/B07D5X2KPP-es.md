@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4150DKpStaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D5X2KPP-es Trespass - Sandalias de montaña Modelo Torrance para Hombre Caballero  44 EU   Negro '
+slug: 'B07D5X2KPP-es Trespass - Sandalias de montaña Modelo Torrance para...'
+tags: sandalias
 actualPrice: 38.2 EUR
 currency: EUR
 price: 38.2

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51VWNhJ3wmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N4AVR8U-es oodji Ultra Hombre Jersey a Rayas con Cuello Redondo  Azul  ES 58-60 / XXL'
+slug: 'B01N4AVR8U-es oodji Ultra Hombre Jersey a Rayas con Cuello Redondo Azul...'
+tags: jersey
 actualPrice: 9.2 EUR
 currency: EUR
 price: 9.2

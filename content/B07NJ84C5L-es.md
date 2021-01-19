@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31snraJSqvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NJ84C5L-es Springfield 2.T.Ciudades Lentejuelas Camiseta  Beige  Beige 98   Medium  Tamaño del Fabricante: M  para Mujer'
+slug: 'B07NJ84C5L-es Springfield 2.T.Ciudades Lentejuelas Camiseta Beige Beige...'
+tags: camiseta
 actualPrice: 4.21 EUR
 currency: EUR
 price: 4.21

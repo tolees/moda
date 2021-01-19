@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31AiOsSSlHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TWBFK7V-es Levi s 711 Shaping Super Skinny Jeans Pantalón Vaquero de Mujer Que moldea la Silueta  Azul  London Attitude 0521   W24/L32  Talla del Fabricante: 24 32 '
+slug: 'B07TWBFK7V-es Levi s 711 Shaping Super Skinny Jeans Pantalón Vaquero de...'
+tags: pantalón
 actualPrice: 43.39 EUR
 currency: EUR
 price: 43.39

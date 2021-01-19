@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ftqAiWS1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K6PPDW6-es Tommy Hilfiger T Camiseta Básica de Manga Corta  Rojo  Apple Red Heather   176  Talla del Fabricante: 16  para Niños'
+slug: 'B07K6PPDW6-es Tommy Hilfiger T Camiseta Básica de Manga Corta Rojo Apple...'
+tags: camiseta
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

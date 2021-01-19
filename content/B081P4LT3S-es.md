@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41oCFj3mKYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081P4LT3S-es NIKE M Nk Dry Strke TRK Jkt HD K Ng Chaqueta de Deporte  Hombre  Black/Black/Black/ Black '
+slug: 'B081P4LT3S-es NIKE M Nk Dry Strke TRK Jkt HD K Ng Chaqueta de Deporte...'
+tags: chaqueta
 actualPrice: 28.3 EUR
 currency: EUR
 price: 28.3

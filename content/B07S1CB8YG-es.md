@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41a4hBPqw7L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S1CB8YG-es New Look Tasmim Texture Chaqueta de Traje  Beige  Stone 16   36  Talla del Fabricante: 8  para Mujer'
+slug: 'B07S1CB8YG-es New Look Tasmim Texture Chaqueta de Traje Beige Stone 16...'
+tags: chaqueta
 actualPrice: 7 EUR
 currency: EUR
 price: 7

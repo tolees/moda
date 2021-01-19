@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/317k6w3ffML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T9CB6SQ-es Crocs Classic Metallic Clog  Zuecos Unisex Adulto  Rosa  Blossom 682   36/37 EU'
+slug: 'B07T9CB6SQ-es Crocs Classic Metallic Clog Zuecos Unisex Adulto Rosa...'
+tags: zuecos
 actualPrice: 33.85 EUR
 currency: EUR
 price: 33.85

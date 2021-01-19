@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/310A0WYqIaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D1JWSJC-es SELECTED HOMME Slhslim-mylologan Stripe BLZ B Noos Chaqueta de Traje  Azul  Navy Blazer Navy Blazer   54 para Hombre'
+slug: 'B07D1JWSJC-es SELECTED HOMME Slhslim-mylologan Stripe BLZ B Noos...'
+tags: chaqueta
 actualPrice: 44.09 EUR
 currency: EUR
 price: 44.09

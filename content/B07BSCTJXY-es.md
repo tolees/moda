@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41l-AP1V0rL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BSCTJXY-es SALOMON Driver s Casco de esquí y Snowboard con Visor para Hombre  Solution OTG  Compatibles con Gafas de Vista  Interior de Espuma EPS 4D  Circunferencia: 56-59 cm  Negro  Negro/Red Accent   Talla M'
+slug: 'B07BSCTJXY-es SALOMON Driver s Casco de esquí y Snowboard con Visor para...'
+tags: gafas
 actualPrice: 127.99 EUR
 currency: EUR
 price: 127.99

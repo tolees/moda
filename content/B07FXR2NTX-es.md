@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51J8ITy34PL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FXR2NTX-es Havaianas Top Mix  Chanclas Unisex Adulto  Multicolor  Navy/Neon Yellow   37/38 EU'
+slug: 'B07FXR2NTX-es Havaianas Top Mix Chanclas Unisex Adulto Multicolor...'
+tags: chanclas
 actualPrice: 15.95 EUR
 currency: EUR
 price: 15.95

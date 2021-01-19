@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41PJCUTCqeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WCBQV5M-es JACK JONES Jorexplore Parka Hombre  Verde  Forest Nightgrün   Medium'
+slug: 'B07WCBQV5M-es JACK JONES Jorexplore Parka Hombre Verde Forest Nightgrün...'
+tags: parka
 actualPrice: 57.79 EUR
 currency: EUR
 price: 57.79

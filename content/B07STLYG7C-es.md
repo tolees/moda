@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41A4GUONSSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07STLYG7C-es Geox D Myria B  Zapatillas Altas para Mujer  Blanco  White/Off White C1352   35 EU'
+slug: 'B07STLYG7C-es Geox D Myria B Zapatillas Altas para Mujer Blanco...'
+tags: geox
 actualPrice: 54.25 EUR
 currency: EUR
 price: 54.25

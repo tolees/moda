@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31LXwANgXRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NJJ1T7J-es Tamaris 1-1-25356-23  Botines para Mujer  Marrón  Antelope 375   38 EU'
+slug: 'B07NJJ1T7J-es Tamaris 1-1-25356-23 Botines para Mujer Marrón Antelope...'
+tags: botines
 actualPrice: 18.79 EUR
 currency: EUR
 price: 18.79

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51RT+PeKXlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QLQNS65-es DoGeek Zapato Seguridad Zapatos Trabajo con Punta de Acero Antideslizante  Senderismo Unisex-Adulto'
+slug: 'B07QLQNS65-es DoGeek Zapato Seguridad Zapatos Trabajo con Punta de Acero...'
+tags: zapatos
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

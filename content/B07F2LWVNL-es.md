@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41rs854uouL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F2LWVNL-es Levi s Plus Size Pl tee Camiseta  Gris  Plus Sportswear Logo Smokestack Htr 0027   X-Large para Mujer'
+slug: 'B07F2LWVNL-es Levi s Plus Size Pl tee Camiseta Gris Plus Sportswear Logo...'
+tags: camiseta
 actualPrice: 18.03 EUR
 currency: EUR
 price: 18.03

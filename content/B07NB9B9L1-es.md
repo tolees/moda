@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41H7VR2ZcQL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NB9B9L1-es Esprit 049ee1k034 Camiseta  Blanco  Off White 110   Small para Mujer'
+slug: 'B07NB9B9L1-es Esprit 049ee1k034 Camiseta Blanco Off White 110 Small para...'
+tags: camiseta
 actualPrice: 8.01 EUR
 currency: EUR
 price: 8.01

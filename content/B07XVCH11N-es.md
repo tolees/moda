@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XVCH11N-es Geographical Norway Sudadera Mujer GYMCLASS B Gris Oscuro S'
+tags: sudadera
 actualPrice: 27.3 EUR
 currency: EUR
 price: 27.3

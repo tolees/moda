@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41MdghJMm9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RXL221L-es Levi s The Original Camiseta  Gris  Hm Patch OG tee Forged Iron 0004   Medium para Hombre'
+slug: 'B07RXL221L-es Levi s The Original Camiseta Gris Hm Patch OG tee Forged...'
+tags: camiseta
 actualPrice: 18.17 EUR
 currency: EUR
 price: 18.17

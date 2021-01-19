@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-ja3BBhrL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XH4CM8V-es Funko 46788 Pop Balón de Baloncesto: UNC-Michael Jordan Away Jersey  Juguete Coleccionable  Multicolor'
+slug: 'B07XH4CM8V-es Funko 46788 Pop Balón de Baloncesto: UNC-Michael Jordan...'
+tags: jersey
 actualPrice: 10.28 EUR
 currency: EUR
 price: 10.28

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41pSb1ZXWQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TZYHL7J-es Kipling Gabbie  Bolso bandolera para Mujer  Azul  Wave Blue   35.5 x 30 x 18.5 cm'
+slug: 'B07TZYHL7J-es Kipling Gabbie Bolso bandolera para Mujer Azul Wave Blue...'
+tags: bolso
 actualPrice: 35.97 EUR
 currency: EUR
 price: 35.97

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41-ezl9%2Bo8L._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BU25RA4-es Kempa Peak Training Jersey de Entrenamiento  Hombre  Azul Royal/Blanco  XXXL'
+slug: 'B01BU25RA4-es Kempa Peak Training Jersey de Entrenamiento Hombre Azul...'
+tags: jersey
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31E7UClLL6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CN6CCCH-es Crocs Specialist II Vent Clog  Zuecos Unisex Adulto  Azul  Navy 410   42/43 EU'
+slug: 'B07CN6CCCH-es Crocs Specialist II Vent Clog Zuecos Unisex Adulto Azul...'
+tags: zuecos
 actualPrice: 27.3 EUR
 currency: EUR
 price: 27.3

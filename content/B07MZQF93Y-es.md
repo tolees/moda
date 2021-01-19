@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4147kRdrPBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZQF93Y-es Pepe Jeans Finsbury Vaqueros Skinny  Gris  Powerflex Grey Used Denim 000   W38/L34 para Hombre'
+slug: 'B07MZQF93Y-es Pepe Jeans Finsbury Vaqueros Skinny Gris Powerflex Grey...'
+tags: vaqueros
 actualPrice: 48.99 EUR
 currency: EUR
 price: 48.99

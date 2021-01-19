@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412TDkCw5XL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JYPS3NM-es Tommy Hilfiger Western Denim Shirt Msmb Camisa  Azul  Mission Mid Bl Rig 911   Small para Hombre'
+slug: 'B07JYPS3NM-es Tommy Hilfiger Western Denim Shirt Msmb Camisa Azul...'
+tags: camisa
 actualPrice: 38.95 EUR
 currency: EUR
 price: 38.95

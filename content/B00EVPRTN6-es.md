@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41YdbRLi%2BCL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B00EVPRTN6-es Calvin Klein BB Bottoms Up Braguita de bikini  Azul  Purity Print - Aurora Ri4   38 para Mujer'
+slug: 'B00EVPRTN6-es Calvin Klein BB Bottoms Up Braguita de bikini Azul Purity...'
+tags: bikini
 actualPrice: 9.49 EUR
 currency: EUR
 price: 9.49

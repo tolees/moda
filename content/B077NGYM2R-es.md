@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41DH3Bs8iLL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B077NGYM2R-es find. Sudadera Mujer  Verde  Green   36  Talla del fabricante: X-Small '
+slug: 'B077NGYM2R-es find. Sudadera Mujer Verde Green 36 Talla del fabricante:...'
+tags: sudadera
 actualPrice: 8.4 EUR
 currency: EUR
 price: 8.4

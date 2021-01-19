@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/418wUy7eJBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZW5W7S4-es Marca Amazon - find. CONNIE-S2C1-Court Zapatos de tacón con Punta Cerrada  Rojo  Burgundy   41 EU'
+slug: 'B07ZW5W7S4-es Marca Amazon - find. CONNIE-S2C1-Court Zapatos de tacón...'
+tags: zapatos, -, find.
 actualPrice: 8.96 EUR
 currency: EUR
 price: 8.96

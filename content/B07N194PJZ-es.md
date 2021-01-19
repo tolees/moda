@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31+RT5Zp9OL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N194PJZ-es Lee Authentic Pkt T LS Camiseta  Azul  Midnight Navy Ma   Small para Hombre'
+slug: 'B07N194PJZ-es Lee Authentic Pkt T LS Camiseta Azul Midnight Navy Ma...'
+tags: camiseta
 actualPrice: 7.59 EUR
 currency: EUR
 price: 7.59

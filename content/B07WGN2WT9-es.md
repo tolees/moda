@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41FbOQeuUQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WGN2WT9-es Jack & Jones Joruptown tee LS Crew Neck Camiseta de Manga Larga  Azul  Brick Red Fit:REG   L para Hombre'
+slug: 'B07WGN2WT9-es Jack & Jones Joruptown tee LS Crew Neck Camiseta de Manga...'
+tags: camiseta
 actualPrice: 5.87 EUR
 currency: EUR
 price: 5.87

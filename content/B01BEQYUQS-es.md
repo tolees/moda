@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41K8O8ufVQL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BEQYUQS-es El Naturalista N758  Botines para Mujer  Marrón  Brown 000   37 EU'
+slug: 'B01BEQYUQS-es El Naturalista N758 Botines para Mujer Marrón Brown 000 37 EU'
+tags: botines
 actualPrice: 87.9 EUR
 currency: EUR
 price: 87.9

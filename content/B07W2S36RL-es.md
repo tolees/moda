@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41FByugzWFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W2S36RL-es Tommy Hilfiger Small T Camiseta de Cuello Redondo y Logo Engomado  Beige  Stone   L para Hombre'
+slug: 'B07W2S36RL-es Tommy Hilfiger Small T Camiseta de Cuello Redondo y Logo...'
+tags: camiseta
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

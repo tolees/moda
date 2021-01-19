@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41as+hmRdeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N99DXHK-es Pepe Jeans Flag Logo Camiseta  Negro  Black 999   X-Small para Hombre'
+slug: 'B07N99DXHK-es Pepe Jeans Flag Logo Camiseta Negro Black 999 X-Small para...'
+tags: camiseta
 actualPrice: 21.0 EUR
 currency: EUR
 price: 21.0

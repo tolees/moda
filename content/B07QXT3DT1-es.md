@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41WXCboWsPL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QXT3DT1-es I IHAYNER Mochila Para Mujer Mini Mochila Para Mujer Mochilas Lindas Mochila de Cuero de PU Monedero Señoras Mochila Bolsa de Hombro Para Niñas Adolescentes'
+slug: 'B07QXT3DT1-es I IHAYNER Mochila Para Mujer Mini Mochila Para Mujer...'
+tags: monedero
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

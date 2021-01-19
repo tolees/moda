@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51N0VH-LzdL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B076F7GDN7-es RED WAGON Vestido Manga Larga Niñas  Multicolor  Multicoloured   146  Talla del fabricante: 11 años '
+slug: 'B076F7GDN7-es RED WAGON Vestido Manga Larga Niñas Multicolor...'
+tags: vestido
 actualPrice: 4.2 EUR
 currency: EUR
 price: 4.2

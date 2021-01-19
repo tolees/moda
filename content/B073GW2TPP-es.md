@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51xf327JQ2L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073GW2TPP-es Bveyzi Mujeres RFID Bloqueo Billetera Cuero Zip Alrededor de Embrague Grande Viaje Bolso Correa para la muñeca Marrón'
+slug: 'B073GW2TPP-es Bveyzi Mujeres RFID Bloqueo Billetera Cuero Zip Alrededor...'
+tags: billetera, bolso
 actualPrice: 31.81 EUR
 currency: EUR
 price: 31.81

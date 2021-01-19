@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31BW5FNO-wL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0792JFB8R-es Geox U LEITAN C  Mocasines para Hombre  Negro  42 EU'
+slug: 'B0792JFB8R-es Geox U LEITAN C Mocasines para Hombre Negro 42 EU'
+tags: geox
 actualPrice: 69.29 EUR
 currency: EUR
 price: 69.29

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31jh1r1jkTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01JIVA0EM-es Levi s 511 Slim Fit Jeans Pantalón vaquero con corte estilizado  Azul  Rock Cod 1786   27W / 30L para Hombre'
+slug: 'B01JIVA0EM-es Levi s 511 Slim Fit Jeans Pantalón vaquero con corte...'
+tags: pantalón
 actualPrice: 71.99 EUR
 currency: EUR
 price: 71.99

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31fwZonYvTL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFZG92K-es adidas W E Lin Slim T Camiseta de Manga Corta  Mujer  Blanco  White/Black   2XL'
+slug: 'B07LFZG92K-es adidas W E Lin Slim T Camiseta de Manga Corta Mujer Blanco...'
+tags: camiseta
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

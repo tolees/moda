@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/315d4soLayL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B079NFBFNJ-es Nike Dry Academy Crew Camiseta  Niños  Negro  Black   M'
+slug: 'B079NFBFNJ-es Nike Dry Academy Crew Camiseta Niños Negro Black M'
+tags: camiseta
 actualPrice: 11.01 EUR
 currency: EUR
 price: 11.01

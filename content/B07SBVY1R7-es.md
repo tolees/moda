@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ReahTDH0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SBVY1R7-es Only Onlcarmen Reg SK Jnsbb 5984-16 Noos Vaqueros Skinny  Azul  Dark Blue Denim Dark Blue Denim   36/L32  Talla del Fabricante: 28  para Mujer'
+slug: 'B07SBVY1R7-es Only Onlcarmen Reg SK Jnsbb 5984-16 Noos Vaqueros Skinny...'
+tags: vaqueros
 actualPrice: 11.98 EUR
 currency: EUR
 price: 11.98

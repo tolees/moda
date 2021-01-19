@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51JZrrKtfsL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B079JWQJ3N-es NNDOLL Vestido de Princesa Carnaval Vestido de niña Traje de niños Deluxe Elsa 131'
+slug: 'B079JWQJ3N-es NNDOLL Vestido de Princesa Carnaval Vestido de niña Traje...'
+tags: vestido
 actualPrice: 23.9 EUR
 currency: EUR
 price: 23.9

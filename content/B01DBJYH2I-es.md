@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/311KWkZQACL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01DBJYH2I-es The North Face W Nimble Sudadera  Mujer  Negro  Black   L'
+slug: 'B01DBJYH2I-es The North Face W Nimble Sudadera Mujer Negro Black L'
+tags: sudadera
 actualPrice: 54.61 EUR
 currency: EUR
 price: 54.61

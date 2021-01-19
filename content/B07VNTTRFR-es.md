@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41J909cuuFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VNTTRFR-es Lee Luke Vaqueros  Moto Used Zu  27W / 32L para Hombre'
+slug: 'B07VNTTRFR-es Lee Luke Vaqueros Moto Used Zu 27W / 32L para Hombre'
+tags: vaqueros
 actualPrice: 35.87 EUR
 currency: EUR
 price: 35.87

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21MjwKsXUrL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071KK7ZXH-es Freebily Vestido Elegante de Boda Fiesta Cóctel para Mujer Dama de Honor Vestido Largo Verano Blanco 44'
+slug: 'B071KK7ZXH-es Freebily Vestido Elegante de Boda Fiesta Cóctel para Mujer...'
+tags: vestido
 actualPrice: 23.49 EUR
 currency: EUR
 price: 23.49

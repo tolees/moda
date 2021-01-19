@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51aq9rKKbCL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JX953CL-es Amazon Essentials - Camisa informal de popelín de manga larga de corte recto estándar para hombre  Coral/White Plaid  US M  EU M '
+slug: 'B07JX953CL-es Amazon Essentials - Camisa informal de popelín de manga...'
+tags: camisa
 actualPrice: 9.3 EUR
 currency: EUR
 price: 9.3

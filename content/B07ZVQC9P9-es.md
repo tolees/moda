@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41EPb2r1kuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZVQC9P9-es Levi s The tee Camiseta  Logotipo de La Serie Sepia Rose  XS para Mujer'
+slug: 'B07ZVQC9P9-es Levi s The tee Camiseta Logotipo de La Serie Sepia Rose XS...'
+tags: camiseta
 actualPrice: 16.49 EUR
 currency: EUR
 price: 16.49

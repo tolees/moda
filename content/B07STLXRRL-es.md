@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51zHkMRQ2kL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07STLXRRL-es Geox D Sozy Plus B  Sandalias con Punta Abierta para Mujer  Negro  Black C9999   39 EU'
+slug: 'B07STLXRRL-es Geox D Sozy Plus B Sandalias con Punta Abierta para Mujer...'
+tags: geox, sandalias
 actualPrice: 25.55 EUR
 currency: EUR
 price: 25.55

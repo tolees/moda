@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41AcuyZBhrL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MCSPMCW-es Napapijri Avio Chaqueta  Azul  BLU Marine 176   S para Hombre'
+slug: 'B07MCSPMCW-es Napapijri Avio Chaqueta Azul BLU Marine 176 S para Hombre'
+tags: chaqueta
 actualPrice: 130.09 EUR
 currency: EUR
 price: 130.09

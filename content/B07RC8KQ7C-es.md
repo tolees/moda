@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31hqQi37FXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RC8KQ7C-es Columbia Tolt Track Chaqueta Interchange  Mujer  Azul  Dark Azul/Nocturnal   XS'
+slug: 'B07RC8KQ7C-es Columbia Tolt Track Chaqueta Interchange Mujer Azul Dark...'
+tags: chaqueta
 actualPrice: 158.29 EUR
 currency: EUR
 price: 158.29

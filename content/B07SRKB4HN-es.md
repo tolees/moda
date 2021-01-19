@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41EZunRDOuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SRKB4HN-es Geox D AIRELL A  Zapatillas para Mujer  Azul  Navy C4002   38 EU'
+slug: 'B07SRKB4HN-es Geox D AIRELL A Zapatillas para Mujer Azul Navy C4002 38 EU'
+tags: geox
 actualPrice: 52.13 EUR
 currency: EUR
 price: 52.13

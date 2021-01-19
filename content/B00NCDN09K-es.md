@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51f0w1K4DuL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00NCDN09K-es La Camisa de Popelina de Camino de Mesa de poliéster de Lino  14 por 274 cm  Color Morado'
+slug: 'B00NCDN09K-es La Camisa de Popelina de Camino de Mesa de poliéster de...'
+tags: camisa
 actualPrice: 22.51 EUR
 currency: EUR
 price: 22.51

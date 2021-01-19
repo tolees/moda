@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41uCOgmQ2oL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082SR2PKP-es CRZ YOGA Mujer Deportivo Corto Falda Plisada Skorts de Tenis Golf con Interior Shorts Cromo Oscuro 36'
+slug: 'B082SR2PKP-es CRZ YOGA Mujer Deportivo Corto Falda Plisada Skorts de...'
+tags: falda
 actualPrice: 33.0 EUR
 currency: EUR
 price: 33.0

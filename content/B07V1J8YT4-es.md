@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51LvT3l9rnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V1J8YT4-es BOSS Trunk 3p One Design Bóxer  Multicolor  Open Miscellaneous 969   Small para Hombre'
+slug: 'B07V1J8YT4-es BOSS Trunk 3p One Design Bóxer Multicolor Open...'
+tags: bóxer
 actualPrice: 19.02 EUR
 currency: EUR
 price: 19.02

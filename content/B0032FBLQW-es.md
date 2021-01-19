@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Ehf6SZUcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0032FBLQW-es Lacoste L1212 Camiseta Polo  Rojo  Rouge   XS para Hombre'
+slug: 'B0032FBLQW-es Lacoste L1212 Camiseta Polo Rojo Rouge XS para Hombre'
+tags: camiseta
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

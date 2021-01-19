@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31wwM5aLw9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V69YPQJ-es JACK & JONES Jcovally tee SS Crew Neck Camiseta  Marrón  Fudge Fit: Mel. Slim   XX-Large para Hombre'
+slug: 'B07V69YPQJ-es JACK & JONES Jcovally tee SS Crew Neck Camiseta Marrón...'
+tags: camiseta
 actualPrice: 6.18 EUR
 currency: EUR
 price: 6.18

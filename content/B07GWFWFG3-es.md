@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51kTrP3Qt4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GWFWFG3-es Elf Sack Mujer Abrigo Acolchado Largo con Cuello Alto de Piel de Invierno Abrigo Largo Acolchado con Parka de Invierno Verde M'
+slug: 'B07GWFWFG3-es Elf Sack Mujer Abrigo Acolchado Largo con Cuello Alto de...'
+tags: abrigo, parka
 actualPrice: 91.99 EUR
 currency: EUR
 price: 91.99

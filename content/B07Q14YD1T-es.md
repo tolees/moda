@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41FHV8y8omL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q14YD1T-es Voqeen Mujer Bañador con Cuello en V Sexy Bikin de Dos Piezas Falda de Playa Traje de baño'
+slug: 'B07Q14YD1T-es Voqeen Mujer Bañador con Cuello en V Sexy Bikin de Dos...'
+tags: falda
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/314JcGhHVuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082MW8GJZ-es Marca Amazon - IRIS & LILLY Braguita Mujer  Pack de 10  Multicolor  Black/Nostalgia Rose/Mel   M  Label: M'
+slug: 'B082MW8GJZ-es Marca Amazon - IRIS & LILLY Braguita Mujer Pack de 10...'
+tags: iris, &, lilly
 actualPrice: 17.49 EUR
 currency: EUR
 price: 17.49

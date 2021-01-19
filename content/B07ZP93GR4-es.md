@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+kDYE6OmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZP93GR4-es Charles Wilson Sudadera con Cremallera Completa con Capucha Peso Pesado  Small  Black  1019  '
+slug: 'B07ZP93GR4-es Charles Wilson Sudadera con Cremallera Completa con...'
+tags: sudadera
 actualPrice: 16.95 EUR
 currency: EUR
 price: 16.95

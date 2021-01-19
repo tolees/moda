@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41giFDekO5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BJHM4WQ-es G-STAR RAW Midge Saddle Mid-Waist Straight Vaqueros  Multicolor  Medium Indigo Aged 8968/6028   23W / 30L para Mujer'
+slug: 'B07BJHM4WQ-es G-STAR RAW Midge Saddle Mid-Waist Straight Vaqueros...'
+tags: vaqueros
 actualPrice: 77.99 EUR
 currency: EUR
 price: 77.99

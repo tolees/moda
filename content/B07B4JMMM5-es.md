@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31cKN5te2+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B4JMMM5-es Timberland Los Angeles Slingback  Sandalias con Plataforma y Tiras para Mujer  Olive Nubuck  Olive Nubuck   38 EU'
+slug: 'B07B4JMMM5-es Timberland Los Angeles Slingback Sandalias con Plataforma...'
+tags: sandalias, timberland
 actualPrice: 62.17 EUR
 currency: EUR
 price: 62.17

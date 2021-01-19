@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41hlmhtPxnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00VUD06SW-es Roamers - Zapatos con Cordones para pies Anchos Hombre Caballero  42 EUR/Negro '
+slug: 'B00VUD06SW-es Roamers - Zapatos con Cordones para pies Anchos Hombre...'
+tags: zapatos
 actualPrice: 50.2 EUR
 currency: EUR
 price: 50.2

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51g919K8XhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SFK6MBT-es Kappa Kit Gara Home Bambino 2019/2020 Camiseta de Juego  Niños  Azul  10 años'
+slug: 'B07SFK6MBT-es Kappa Kit Gara Home Bambino 2019/2020 Camiseta de Juego...'
+tags: camiseta
 actualPrice: 14.0 EUR
 currency: EUR
 price: 14.0

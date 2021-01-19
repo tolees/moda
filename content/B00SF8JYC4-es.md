@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31rtXZ49w+L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00SF8JYC4-es G-STAR RAW Midge Zip Low Waist Super Skinny Vaqueros  rinsed-82  25W / 32L para Mujer'
+slug: 'B00SF8JYC4-es G-STAR RAW Midge Zip Low Waist Super Skinny Vaqueros...'
+tags: vaqueros
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

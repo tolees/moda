@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Eov7TdHOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0736TYXK4-es Vero Moda Vmava Plain Ss Top Ga Noos  Camiseta para Mujer  Blanco  Snow White Snow White   38  Talla del fabricante: Medium '
+slug: 'B0736TYXK4-es Vero Moda Vmava Plain Ss Top Ga Noos Camiseta para Mujer...'
+tags: camiseta, moda
 actualPrice: 12.74 EUR
 currency: EUR
 price: 12.74

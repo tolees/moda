@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414PGmM7gKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00VLNXIQS-es Levi s L/S Barstow Western Shirt  Camisa Casual de Manga Larga para Hombre  Azul  Dark IndigoFlat Finish   Large'
+slug: 'B00VLNXIQS-es Levi s L/S Barstow Western Shirt Camisa Casual de Manga...'
+tags: camisa
 actualPrice: 33.11 EUR
 currency: EUR
 price: 33.11

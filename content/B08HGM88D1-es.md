@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41couX57ImL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08HGM88D1-es #N/A 2 Juegos Ropa de Vestir de Moda para Muñecas Chicas 18 Pulgadas'
+slug: 'B08HGM88D1-es #N/A 2 Juegos Ropa de Vestir de Moda para Muñecas Chicas...'
+tags: moda
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

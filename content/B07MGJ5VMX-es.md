@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31SFrc8ySkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MGJ5VMX-es Under Armour Sportstyle Terry Logo Hoodie  Sudadera con Capucha Hombre  Negro  Black/White 001    XL'
+slug: 'B07MGJ5VMX-es Under Armour Sportstyle Terry Logo Hoodie Sudadera con...'
+tags: sudadera
 actualPrice: 20.83 EUR
 currency: EUR
 price: 20.83

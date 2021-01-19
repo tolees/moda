@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41pUBysGAzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PQBRCQ1-es Mujer Traje de Baño Conjunto Bikini Estampado Verde Dos Piezas S CL011000-3'
+slug: 'B07PQBRCQ1-es Mujer Traje de Baño Conjunto Bikini Estampado Verde Dos...'
+tags: bikini
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

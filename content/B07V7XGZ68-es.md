@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51NRTyAB7YL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V7XGZ68-es Tommy Hilfiger Casual Cork Beach Sandal  Sandalias con Punta Abierta para Hombre  Gris  Antique Silver PRT   40 EU'
+slug: 'B07V7XGZ68-es Tommy Hilfiger Casual Cork Beach Sandal Sandalias con...'
+tags: sandalias
 actualPrice: 27.95 EUR
 currency: EUR
 price: 27.95

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41p1buTcOkL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NJ5S6XN-es Springfield 2.Zodiaco Rosa Camiseta  Multicolor  Multicolor 72   X-Small  Tamaño del Fabricante: XS  para Mujer'
+slug: 'B07NJ5S6XN-es Springfield 2.Zodiaco Rosa Camiseta Multicolor Multicolor...'
+tags: camiseta
 actualPrice: 5.14 EUR
 currency: EUR
 price: 5.14

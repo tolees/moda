@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/5145kzN-4EL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QM59YF1-es Gifts Treat Sombrero de Invierno de Las Niños Moda Sombrero Tejido  Dinosaurio-2  52cm '
+slug: 'B07QM59YF1-es Gifts Treat Sombrero de Invierno de Las Niños Moda...'
+tags: moda
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

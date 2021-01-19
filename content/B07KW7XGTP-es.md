@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41WsL5k6gbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KW7XGTP-es Marca Amazon - find. Vestido Midi Cruzado Mujer  Multicolor  Multicolour   40  Label: M'
+slug: 'B07KW7XGTP-es Marca Amazon - find. Vestido Midi Cruzado Mujer Multicolor...'
+tags: vestido, -, find.
 actualPrice: 9.51 EUR
 currency: EUR
 price: 9.51

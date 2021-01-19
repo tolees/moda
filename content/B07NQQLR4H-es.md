@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31IuswS0CBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NQQLR4H-es Marca Amazon - find. Chaqueta Hombre  Negro  Black   S  Label: S'
+slug: 'B07NQQLR4H-es Marca Amazon - find. Chaqueta Hombre Negro Black S Label: S'
+tags: chaqueta, -, find.
 actualPrice: 8.18 EUR
 currency: EUR
 price: 8.18

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51nc1lcL9tL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KJNK884-es Levi s Big and Tall 501 Button Fly B&t Vaqueros Straight  Azul  Blackwater 0065   50W/34L para Hombre'
+slug: 'B07KJNK884-es Levi s Big and Tall 501 Button Fly B&t Vaqueros Straight...'
+tags: vaqueros
 actualPrice: 23.22 EUR
 currency: EUR
 price: 23.22

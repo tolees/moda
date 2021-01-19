@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ipxAkb2SL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z591DRN-es Marca Amazon - find. Square Toe Block Heel Slingback Zapatos de tacón con Punta Cerrada  Marfil  Off-White   36 EU'
+slug: 'B07Z591DRN-es Marca Amazon - find. Square Toe Block Heel Slingback...'
+tags: zapatos, -, find.
 actualPrice: 5.8 EUR
 currency: EUR
 price: 5.8

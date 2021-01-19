@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31RDLjv-jwL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HRRBDKY-es DAFENP Zapatillas de Casa Hombre Mujer Invierno Caliente Forro Polar Slippers Suave Interior Al Aire Libre Zapatos XZ333A-Black-EU35/36'
+slug: 'B07HRRBDKY-es DAFENP Zapatillas de Casa Hombre Mujer Invierno Caliente...'
+tags: zapatos
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

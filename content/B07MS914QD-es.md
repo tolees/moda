@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41M57+7j6PL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MS914QD-es Marca Amazon - MERAKI Polo Hombre  Azul  Navy Marl   S  Label: S'
+slug: 'B07MS914QD-es Marca Amazon - MERAKI Polo Hombre Azul Navy Marl S Label: S'
+tags: meraki
 actualPrice: 6.14 EUR
 currency: EUR
 price: 6.14

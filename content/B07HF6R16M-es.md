@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41OTQebYyIL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HF6R16M-es Bolso Mujer Pequeño Bolso Bandolera Mujer Pequeño Piel Sintético Bolso Portatil Mujer Bolsa de Mensajero（Negro）'
+slug: 'B07HF6R16M-es Bolso Mujer Pequeño Bolso Bandolera Mujer Pequeño Piel...'
+tags: bolso
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

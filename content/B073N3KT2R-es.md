@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41l6ttf4rVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073N3KT2R-es Timberland 6-Inch Waterproof Boot 73540 Wheat Nubuk  Schuhe Unisex:41.5'
+slug: 'B073N3KT2R-es Timberland 6-Inch Waterproof Boot 73540 Wheat Nubuk Schuhe...'
+tags: timberland
 actualPrice: 112.35 EUR
 currency: EUR
 price: 112.35

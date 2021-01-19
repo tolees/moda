@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Q2mSKSySL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VWR2R9S-es Hombre Mujer Zapatillas de Deportes Zapatos Deportivos Aire Libre para Correr Calzado Sneakers Running-BlackRed41'
+slug: 'B07VWR2R9S-es Hombre Mujer Zapatillas de Deportes Zapatos Deportivos...'
+tags: zapatos
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

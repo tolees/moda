@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41QaAkCLSnL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R2Y7FNH-es Under Armour Coldgear Reactor Performance 3G Hybrid Chaqueta  Mujer  Rosa  SM'
+slug: 'B07R2Y7FNH-es Under Armour Coldgear Reactor Performance 3G Hybrid...'
+tags: chaqueta
 actualPrice: 46.83 EUR
 currency: EUR
 price: 46.83

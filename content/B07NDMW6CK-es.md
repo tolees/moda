@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/515lzsdkN0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NDMW6CK-es Tous Dorp - Monedero para Mujer  Rosa  10 x 8 x 2.5 cm'
+slug: 'B07NDMW6CK-es Tous Dorp - Monedero para Mujer Rosa 10 x 8 x 2.5 cm'
+tags: monedero
 actualPrice: 27.1 EUR
 currency: EUR
 price: 27.1

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51N-CHXIXDL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WGT12H4-es LOHOTEK Guantes Gimnasio Hombre Mujer Guantes Acolchados Unisex de Levantamiento de Pesos Guantes de Trabajo con Soporte de Muñeca para Ejercicio Físico Gimnasio al Aire Libre  Azul  XL '
+slug: 'B07WGT12H4-es LOHOTEK Guantes Gimnasio Hombre Mujer Guantes Acolchados...'
+tags: guantes
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41CXr8%2B743L._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B071K5KCQ5-es Lee Logo tee Camiseta  Blanco  White Ai12   Medium para Hombre'
+slug: 'B071K5KCQ5-es Lee Logo tee Camiseta Blanco White Ai12 Medium para Hombre'
+tags: camiseta
 actualPrice: 12.5 EUR
 currency: EUR
 price: 12.5

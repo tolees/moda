@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41KxZ3EigBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01ILGZ2P2-es Pintura para Tela y Ropa Permanente con Gran Capacidad de Cobertura Nazca – Set 8 Colores x 30ml – Pack de Pintura Textil ideal para Pintar tus Camisetas  Bolsas  Vaqueros  Cojines y cualquier Tejido'
+slug: 'B01ILGZ2P2-es Pintura para Tela y Ropa Permanente con Gran Capacidad de...'
+tags: vaqueros
 actualPrice: 16.4 EUR
 currency: EUR
 price: 16.4

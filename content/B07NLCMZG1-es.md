@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31DmX8SYqfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NLCMZG1-es Marca Amazon - TRUTH & FABLE Vestido Midi Cruzado de Gasa Mujer  Azul  Red   46  Label: XXL'
+slug: 'B07NLCMZG1-es Marca Amazon - TRUTH & FABLE Vestido Midi Cruzado de Gasa...'
+tags: vestido
 actualPrice: 33.6 EUR
 currency: EUR
 price: 33.6

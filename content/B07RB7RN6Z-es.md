@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41KiAWeS7cL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RB7RN6Z-es Columbia Powder Lite Hooded Chaqueta De Plumón Con Capucha  Hombre  Azul  Navy   Talla S'
+slug: 'B07RB7RN6Z-es Columbia Powder Lite Hooded Chaqueta De Plumón Con Capucha...'
+tags: chaqueta
 actualPrice: 79.95 EUR
 currency: EUR
 price: 79.95

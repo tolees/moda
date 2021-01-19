@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4172EokEoYL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFZDQM6-es Geox UOMO Snake F  Zapatillas para Hombre  Gris  Stone/Rock C9m5y   40 EU'
+slug: 'B07LFZDQM6-es Geox UOMO Snake F Zapatillas para Hombre Gris Stone/Rock...'
+tags: geox
 actualPrice: 27.45 EUR
 currency: EUR
 price: 27.45

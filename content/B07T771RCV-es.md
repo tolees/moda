@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Ara4d+0nL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T771RCV-es Mercedes-Benz Sonnenbrille M7008 Gafas de sol  Azul  Blau   59.0 para Hombre'
+slug: 'B07T771RCV-es Mercedes-Benz Sonnenbrille M7008 Gafas de sol Azul Blau...'
+tags: gafas
 actualPrice: 21.44 EUR
 currency: EUR
 price: 21.44

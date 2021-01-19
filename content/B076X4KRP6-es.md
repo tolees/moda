@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31sFjlwLOnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076X4KRP6-es Levi s Original Hm Icon Crew Sudadera  Gris  Medium Grey Heather  3  0001   Small para Hombre'
+slug: 'B076X4KRP6-es Levi s Original Hm Icon Crew Sudadera Gris Medium Grey...'
+tags: sudadera
 actualPrice: 46.99 EUR
 currency: EUR
 price: 46.99

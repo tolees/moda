@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41wCQy5O%2BHL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F3XDS78-es SHOBDW Pantalones de Verano Mujeres Shorts Deportivos Gimnasio de Moda Workout Waistband Skinny Yoga Short Pants  S  Negro '
+slug: 'B07F3XDS78-es SHOBDW Pantalones de Verano Mujeres Shorts Deportivos...'
+tags: moda
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

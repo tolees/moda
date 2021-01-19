@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41fJ4h2J6TL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TKN8LR8-es Clarks Un Palma Vibe  Sandalias de Talón Abierto para Mujer  Marrón  Mahogany Leather Mahogany Leather   41 EU'
+slug: 'B07TKN8LR8-es Clarks Un Palma Vibe Sandalias de Talón Abierto para Mujer...'
+tags: sandalias
 actualPrice: 18.49 EUR
 currency: EUR
 price: 18.49

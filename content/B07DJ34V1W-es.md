@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41GHTXuHN-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DJ34V1W-es Geox D Rubidia A  Zapatillas para Mujer  Beige  Light Taupe C6738   40 EU'
+slug: 'B07DJ34V1W-es Geox D Rubidia A Zapatillas para Mujer Beige Light Taupe...'
+tags: geox
 actualPrice: 71.94 EUR
 currency: EUR
 price: 71.94

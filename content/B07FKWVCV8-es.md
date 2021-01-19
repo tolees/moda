@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31DRSqb3fCL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FKWVCV8-es Trangoworld Helens Complet Chaqueta  Mujer  Sombra Oscura  XL'
+slug: 'B07FKWVCV8-es Trangoworld Helens Complet Chaqueta Mujer Sombra Oscura XL'
+tags: chaqueta
 actualPrice: 127.49 EUR
 currency: EUR
 price: 127.49

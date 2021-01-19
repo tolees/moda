@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41qA3oS93AL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DL7QZQQ-es Element Cornell Classic Ho Sudadera con Capucha  Hombre  Negro  Flint Black   S'
+slug: 'B07DL7QZQQ-es Element Cornell Classic Ho Sudadera con Capucha Hombre...'
+tags: sudadera
 actualPrice: 23.55 EUR
 currency: EUR
 price: 23.55

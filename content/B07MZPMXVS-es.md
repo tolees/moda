@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51zv6TU2+ML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZPMXVS-es Pepe Jeans Nine Sudadera   Grey Marl 933   Large para Mujer'
+slug: 'B07MZPMXVS-es Pepe Jeans Nine Sudadera Grey Marl 933 Large para Mujer'
+tags: sudadera
 actualPrice: 35.74 EUR
 currency: EUR
 price: 35.74

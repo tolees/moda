@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4195OqBMP0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N198RNJ-es G-STAR RAW Midge Saddle Mid-Waist Straight Vaqueros  Azul  dk Aged 6553-89   24W / 28L para Mujer'
+slug: 'B07N198RNJ-es G-STAR RAW Midge Saddle Mid-Waist Straight Vaqueros Azul...'
+tags: vaqueros
 actualPrice: 64.49 EUR
 currency: EUR
 price: 64.49

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51xv2NiDEqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D9D4M9T-es VIFUUR Zapatos de Agua Aqua Yoga para Mujer Hombre Starry Rojo EU42/43'
+slug: 'B07D9D4M9T-es VIFUUR Zapatos de Agua Aqua Yoga para Mujer Hombre Starry...'
+tags: zapatos
 actualPrice: 14.66 EUR
 currency: EUR
 price: 14.66

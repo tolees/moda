@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21QapyNV98L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076TVLK7R-es Fruit of the Loom Mens Original 5 Pack T-Shirt Camiseta  Blanco  White   Large  Pack de 5  para Hombre'
+slug: 'B076TVLK7R-es Fruit of the Loom Mens Original 5 Pack T-Shirt Camiseta...'
+tags: camiseta
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

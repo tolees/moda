@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41K2zm2PDEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073RNTHPF-es Helly Hansen Rider Stealth Zip Chaleco de Ayuda a la flotabilidad  para navegación de Vela Ligera y Otras Actividades acuáticas  Unisex Adulto  Ebony Negro   70/90KG'
+slug: 'B073RNTHPF-es Helly Hansen Rider Stealth Zip Chaleco de Ayuda a la...'
+tags: chaleco
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

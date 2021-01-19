@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Nnk5lzryL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TNLY8QN-es Levi s LS Battery Hm Shirt Slim Camisa  Azul  Allure 0005   Large para Hombre'
+slug: 'B07TNLY8QN-es Levi s LS Battery Hm Shirt Slim Camisa Azul Allure 0005...'
+tags: camisa
 actualPrice: 41.95 EUR
 currency: EUR
 price: 41.95

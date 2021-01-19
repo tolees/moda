@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41iWNo73T6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DSB9YHD-es Mujer Maxi Vestido Sexy Sin Mangas Cabestro Backless División Cordón Sólido Fiesta Paseo Vestidos Rojo M'
+slug: 'B07DSB9YHD-es Mujer Maxi Vestido Sexy Sin Mangas Cabestro Backless...'
+tags: vestido
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

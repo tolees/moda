@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41RykCVzNHL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0772JDDLL-es MERAKI Pantalón Cortos Chinos Hombre  Gris Oscuro  M'
+slug: 'B0772JDDLL-es MERAKI Pantalón Cortos Chinos Hombre Gris Oscuro M'
+tags: meraki, pantalón
 actualPrice: 5.07 EUR
 currency: EUR
 price: 5.07

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31KjP5G1xrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081B5MNMQ-es Columbia Silver Ridge 2.0 Camisa de Manga Corta  Hombre  Azul  Collegiate Navy   XL'
+slug: 'B081B5MNMQ-es Columbia Silver Ridge 2.0 Camisa de Manga Corta Hombre...'
+tags: camisa
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

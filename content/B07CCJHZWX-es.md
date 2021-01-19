@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41qiYQ5cecL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CCJHZWX-es Jack & Jones Jjegingham Shirt L/s Camisa  Multicolor  Brick Red Checks:Mixed Black   X-Small para Hombre'
+slug: 'B07CCJHZWX-es Jack & Jones Jjegingham Shirt L/s Camisa Multicolor Brick...'
+tags: camisa
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

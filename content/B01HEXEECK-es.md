@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31mX7NfzX9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HEXEECK-es Crocs Crocband Clog K  Zuecos Unisex-Bambini  BLU  Navy/Citrus 42k   27/28 EU'
+slug: 'B01HEXEECK-es Crocs Crocband Clog K Zuecos Unisex-Bambini BLU...'
+tags: zuecos
 actualPrice: 19.2 EUR
 currency: EUR
 price: 19.2

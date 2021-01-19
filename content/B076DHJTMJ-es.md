@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41LkJx0B-eL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076DHJTMJ-es Tommy Hilfiger Essential Suede Lace Up Derby  Zapatos de Cordones Oxford para Hombre  Marrón  Coffee Bean 212   40 EU'
+slug: 'B076DHJTMJ-es Tommy Hilfiger Essential Suede Lace Up Derby Zapatos de...'
+tags: zapatos
 actualPrice: 71.95 EUR
 currency: EUR
 price: 71.95

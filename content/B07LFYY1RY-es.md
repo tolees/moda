@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31wAldqaZ1L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFYY1RY-es Geox U Wells C  Zapatillas para Hombre  Gris  Stone/Grey C9030   45 EU'
+slug: 'B07LFYY1RY-es Geox U Wells C Zapatillas para Hombre Gris Stone/Grey...'
+tags: geox
 actualPrice: 37.57 EUR
 currency: EUR
 price: 37.57

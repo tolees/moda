@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41F5ZTHnNDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001XYBYJ8-es Craft Cool Mesh Camiseta Interior para Hombre  Hombre  White  L'
+slug: 'B001XYBYJ8-es Craft Cool Mesh Camiseta Interior para Hombre Hombre White L'
+tags: camiseta
 actualPrice: 26.89 EUR
 currency: EUR
 price: 26.89

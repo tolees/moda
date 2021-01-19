@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31y8wWgeobL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06Y5YRRGJ-es G-STAR RAW Base V T S/s 2-Pack Camiseta  Negro  Black 990   Large para Hombre'
+slug: 'B06Y5YRRGJ-es G-STAR RAW Base V T S/s 2-Pack Camiseta Negro Black 990...'
+tags: camiseta
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

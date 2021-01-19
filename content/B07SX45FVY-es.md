@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41m4jk-0wlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SX45FVY-es Quiksilver Monkey Abyss Youth  Zapatos de Playa y Piscina para Niños  Marrón  Green/Green/Black Xggk   31 EU'
+slug: 'B07SX45FVY-es Quiksilver Monkey Abyss Youth Zapatos de Playa y Piscina...'
+tags: zapatos
 actualPrice: 7.74 EUR
 currency: EUR
 price: 7.74

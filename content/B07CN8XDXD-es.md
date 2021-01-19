@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31VVo8PfbxL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CN8XDXD-es Crocs Classic Clog  Zuecos Unisex Adulto  Rosa  Melon 737   41/42 EU'
+slug: 'B07CN8XDXD-es Crocs Classic Clog Zuecos Unisex Adulto Rosa Melon 737...'
+tags: zuecos
 actualPrice: 22.69 EUR
 currency: EUR
 price: 22.69

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51RW6BeaxgL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R3DYSH3-es Helly Hansen Lifaloft Ligera Chaqueta Aislante  Mujer  Nightshade  L'
+slug: 'B07R3DYSH3-es Helly Hansen Lifaloft Ligera Chaqueta Aislante Mujer...'
+tags: chaqueta
 actualPrice: 66.16 EUR
 currency: EUR
 price: 66.16

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41dOjh3pb4L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M5HKKFY-es Geox M Vincit C Chaqueta Bomber  Verde  Mid Forest F3211   X-Large  Talla del Fabricante: 54  para Hombre'
+slug: 'B07M5HKKFY-es Geox M Vincit C Chaqueta Bomber Verde Mid Forest F3211...'
+tags: chaqueta, geox
 actualPrice: 49.83 EUR
 currency: EUR
 price: 49.83

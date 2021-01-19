@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Zdo4SCjuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VPR2R1Q-es Only Onlnayla Rianna Wool Coat CC Otw Abrigo  Marrón  Camel Camel   38  Talla del Fabricante: Small  para Mujer'
+slug: 'B07VPR2R1Q-es Only Onlnayla Rianna Wool Coat CC Otw Abrigo Marrón Camel...'
+tags: abrigo
 actualPrice: 12.96 EUR
 currency: EUR
 price: 12.96

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41LLAdDuYqL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N4GR86X-es Desigual Coat Dante Abrigo  Negro  Negro 2000   44  Talla del Fabricante:42  para Mujer'
+slug: 'B07N4GR86X-es Desigual Coat Dante Abrigo Negro Negro 2000 44 Talla del...'
+tags: abrigo
 actualPrice: 40.41 EUR
 currency: EUR
 price: 40.41

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41c7qgxhDmL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J5J6P9C-es JACK & JONES Camiseta de Manga Larga T-Shirt Longsleeve Shirt Top Streetwear  XX-Large  Port Royale '
+slug: 'B07J5J6P9C-es JACK & JONES Camiseta de Manga Larga T-Shirt Longsleeve...'
+tags: camiseta
 actualPrice: 19.98 EUR
 currency: EUR
 price: 19.98

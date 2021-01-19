@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41J9EnxvZHL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NFC6PX2-es Tommy Hilfiger Kitty C-nk Sweatshirt LS Sudadera   Light Grey Heather PYT   Large para Mujer'
+slug: 'B07NFC6PX2-es Tommy Hilfiger Kitty C-nk Sweatshirt LS Sudadera Light...'
+tags: sudadera
 actualPrice: 49.95 EUR
 currency: EUR
 price: 49.95

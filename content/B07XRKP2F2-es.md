@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51NULKUpn6L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XRKP2F2-es Bolso de Fiesta Noche Mujer Embrague Hard Shell Clutches Elegante Diamantes de imitación Billetera de Mano del Banquete Boda Señoras Rosa Plateado'
+slug: 'B07XRKP2F2-es Bolso de Fiesta Noche Mujer Embrague Hard Shell Clutches...'
+tags: billetera, bolso
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

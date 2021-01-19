@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31uB1cWJ-0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072KYFPL9-es SELECTED HOMME Shhcollect Shirt Ls R Noos  Camisa Hombre  Negro  Caviar   Small'
+slug: 'B072KYFPL9-es SELECTED HOMME Shhcollect Shirt Ls R Noos Camisa Hombre...'
+tags: camisa
 actualPrice: 22.79 EUR
 currency: EUR
 price: 22.79
