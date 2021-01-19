@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41JKKMDzBGL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S3J3TVJ-es'
+slug: 'B07S3J3TVJ-es Only Onlcarrie Bonded Coat CC Otw Abrigo  Beige  Nomad Detail: Melange   38  Talla del Fabricante: Small  para Mujer'
 actualPrice: 28.42 EUR
 currency: EUR
 price: 28.42

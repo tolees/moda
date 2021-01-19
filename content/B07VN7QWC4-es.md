@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413YtKeCUzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VN7QWC4-es'
+slug: 'B07VN7QWC4-es Hackett London Amr Hackett tee Camiseta  Rojo  1bkorange Lacq 1bk   X-Large para Hombre'
 actualPrice: 31.0 EUR
 currency: EUR
 price: 31.0

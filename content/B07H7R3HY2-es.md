@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41nB3sgulTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H7R3HY2-es'
+slug: 'B07H7R3HY2-es JACK & JONES Jachenrik Trunks 3 Pack Noos Bóxer  Multicolor  Black Detail: Navy Blazer & Navy Blazer   Medium para Hombre'
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

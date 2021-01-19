@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31rRR3T57dL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DJX8RM3-es'
+slug: 'B07DJX8RM3-es Geox D Vega Moc B  Mocasines para Mujer  Negro  Black/Dk Grey C0005   40 EU'
 actualPrice: 71.48 EUR
 currency: EUR
 price: 71.48

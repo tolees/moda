@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41++ualf4IL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TNS39KM-es'
+slug: 'B07TNS39KM-es Superdry VL O Crew Sudadera  Azul  Rich Navy Adq   L para Hombre'
 actualPrice: 16.7 EUR
 currency: EUR
 price: 16.7

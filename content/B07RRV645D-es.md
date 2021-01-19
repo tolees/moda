@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41uoLFMMvkL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RRV645D-es'
+slug: 'B07RRV645D-es Zapatos de Seguridad para Hombre Zapatillas de Seguridad Trabajo Industrial y Deportiva con Puntera de Acero LM-105  41 EU  Negro '
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

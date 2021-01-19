@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/410Y5u0GISL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007K45LDU-es'
+slug: 'B007K45LDU-es Dickies Philadelphia - Sudadera para hombre  Grey Melange  Small  Talla del fabricante: Small '
 actualPrice: 15.69 EUR
 currency: EUR
 price: 15.69

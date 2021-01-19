@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41WC%2BqWEHlL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MH5NCTZ-es'
+slug: 'B07MH5NCTZ-es Nike Court Borough Low VF  GS   Zapatos de Baloncesto para Niñas  Multicolor  Black/Pale Ivory/Pink Tint 001   38 EU'
 actualPrice: 37.28 EUR
 currency: EUR
 price: 37.28

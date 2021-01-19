@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Xx+FfHJ8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079SMC3F8-es'
+slug: 'B079SMC3F8-es Desigual Nisa TS Camiseta  Gris  Vigore Claro 2042   L para Mujer'
 actualPrice: 37.46 EUR
 currency: EUR
 price: 37.46

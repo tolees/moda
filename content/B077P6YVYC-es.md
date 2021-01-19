@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41K1cX9Og8L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B077P6YVYC-es'
+slug: 'B077P6YVYC-es Lee Elly Vaqueros  Azul  One Wash Ha45   27W / 35L para Mujer'
 actualPrice: 22.25 EUR
 currency: EUR
 price: 22.25

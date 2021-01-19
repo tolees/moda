@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41dFsxKnebL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B077Y3GC7X-es'
+slug: 'B077Y3GC7X-es HIKARO Chaqueta Bomber Hombre  Azul  Navy   50  Talla del fabricante: Medium '
 actualPrice: 39.96 EUR
 currency: EUR
 price: 39.96

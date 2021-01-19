@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ayTb+vJxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J28BDX3-es'
+slug: 'B07J28BDX3-es Pepe Jeans Art Camiseta  Azul  595navy 595   6-7 años  Talla del Fabricante: 6  para Niños'
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

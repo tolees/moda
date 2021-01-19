@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41WLm6EGr3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DJRS9CZ-es'
+slug: 'B07DJRS9CZ-es Only Onlchris Fur Hooded Jacket Otw Noos Chaqueta  Gris  Pumice Stone Pumice Stone   Medium para Mujer'
 actualPrice: 31.49 EUR
 currency: EUR
 price: 31.49

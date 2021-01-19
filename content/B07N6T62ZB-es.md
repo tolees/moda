@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41pzaMDXTwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N6T62ZB-es'
+slug: 'B07N6T62ZB-es Tommy Hilfiger Bralette Rp Parte de Arriba de Bikini  Rosa  Pink 616   44  Talla del Fabricante: X-Large  para Mujer'
 actualPrice: 24.61 EUR
 currency: EUR
 price: 24.61

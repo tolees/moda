@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/411R%2BsGkwjL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CRJ7LPK-es'
+slug: 'B07CRJ7LPK-es Pepe Jeans Pinner Chaqueta Vaquera   Raw DLX Denim 000   X-Large para Hombre'
 actualPrice: 51.51 EUR
 currency: EUR
 price: 51.51

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31JtaDdZW1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WMQ21BD-es'
+slug: 'B07WMQ21BD-es find. #  Shana-1a-58 Sandalias Abiertas  Negro  Black   37'
 actualPrice: 21.59 EUR
 currency: EUR
 price: 21.59

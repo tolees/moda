@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413HUw4JbmL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RF18HK3-es'
+slug: 'B07RF18HK3-es G-STAR RAW Midge Mid Waist Straight Vaqueros  Gris  Dusty Grey B472-A799   W25/L30  Talla del Fabricante: 25W / 30L  para Mujer'
 actualPrice: 19.16 EUR
 currency: EUR
 price: 19.16

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31GAZySy2kL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079RVJ4HB-es'
+slug: 'B079RVJ4HB-es Marca Amazon - Iris & Lilly Tanga Mujer  Pack de 3  Marrón  Dark Brown   M  Label: M'
 actualPrice: 5.84 EUR
 currency: EUR
 price: 5.84

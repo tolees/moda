@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41tE+wdAxWL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079VQKFNP-es'
+slug: 'B079VQKFNP-es CAMPER Bicho FW  Sandalias con Tira de T para Niñas  Rosa  Medium Pink 660   22 EU'
 actualPrice: 16.51 EUR
 currency: EUR
 price: 16.51

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/415fHd4X28L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079JYTT6T-es'
+slug: 'B079JYTT6T-es Nike Dry Academy 18 Football Top  Camiseta Hombre  Azul  Royal Blue/Obsidian/White   XL'
 actualPrice: 13.95 EUR
 currency: EUR
 price: 13.95

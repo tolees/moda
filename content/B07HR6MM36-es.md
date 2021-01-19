@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31iLeuRpTVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HR6MM36-es'
+slug: 'B07HR6MM36-es JACK & JONES Jjitim Jjoriginal JJ 320 Noos Vaqueros Slim  Azul  Blue Denim Blue Denim   W28/L30 para Hombre'
 actualPrice: 32.0 EUR
 currency: EUR
 price: 32.0

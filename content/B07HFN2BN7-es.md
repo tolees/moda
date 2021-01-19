@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/415EpgyTzVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HFN2BN7-es'
+slug: 'B07HFN2BN7-es Tommy Hilfiger Tommy Logo tee Camiseta  Gris  Cloud Htr 501   Large para Hombre'
 actualPrice: 27.73 EUR
 currency: EUR
 price: 27.73

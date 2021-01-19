@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41SNVToTKXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07STKZS8N-es'
+slug: 'B07STKZS8N-es Geox B FLEXYPER Girl B  Zapatillas para Niñas  Rosa  Fuchsia C8002   23 EU'
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

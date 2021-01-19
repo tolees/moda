@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41tiFj56pzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01GILS8JO-es'
+slug: 'B01GILS8JO-es Calvin Klein Modern Trunk Bóxer  Negro  Black/Black 001   14-16 años para Niños'
 actualPrice: 21.15 EUR
 currency: EUR
 price: 21.15

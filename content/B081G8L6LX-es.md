@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41sYR1zlUyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081G8L6LX-es'
+slug: 'B081G8L6LX-es Mujer Zapatillas Deporte para Zapatillas de Ligeras Running Transpirables Cómodas Correr para Zapatos de Malla blackred-44'
 actualPrice: 38.94 EUR
 currency: EUR
 price: 38.94

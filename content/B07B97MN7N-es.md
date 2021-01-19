@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31g6s2h5WeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B97MN7N-es'
+slug: 'B07B97MN7N-es Clarks Bampton Walk  Zapatos de Cordones Derby para Hombre  Negro  Black Leather   41.5 EU'
 actualPrice: 26.96 EUR
 currency: EUR
 price: 26.96

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41q8RCIrtoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WLM6GHF-es'
+slug: 'B07WLM6GHF-es Marca Amazon - MERAKI Abrigo de Lana Mujer  Gris  Herringbone   48  Label: 3XL'
 actualPrice: 20.26 EUR
 currency: EUR
 price: 20.26

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41gH1ay1OGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P3KFS39-es'
+slug: 'B07P3KFS39-es Superdry Colour Block Track Jacket  Chaqueta Mujer  Multicolor  Off White 71d   40  Talla fabricante: M '
 actualPrice: 20.7 EUR
 currency: EUR
 price: 20.7

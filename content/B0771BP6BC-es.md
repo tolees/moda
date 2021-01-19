@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41bSg2R1Q6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0771BP6BC-es'
+slug: 'B0771BP6BC-es SHOBDW Invierno Mujeres Moda Informal más Gruesa Slim sólido Abajo Chaqueta Abrigo  Armada  S '
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

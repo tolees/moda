@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41+gqoO-GzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R88HHHN-es'
+slug: 'B07R88HHHN-es Helly Hansen Roam 2.5 Capa Chaqueta Impermeable con Capucha  Hombre  Forest Night  L'
 actualPrice: 86.21 EUR
 currency: EUR
 price: 86.21

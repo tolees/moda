@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51XxMT8otkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R3DZV3J-es'
+slug: 'B07R3DZV3J-es Helly Hansen Lifaloft Insulator Jacket Chaqueta Aislante  Hombre  Azul  Navy   S'
 actualPrice: 100.0 EUR
 currency: EUR
 price: 100.0

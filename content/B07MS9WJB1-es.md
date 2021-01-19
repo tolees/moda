@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51QUtMGXAEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MS9WJB1-es'
+slug: 'B07MS9WJB1-es TWBB Sudadera para Hombre Abrigo de la Chaqueta de la Cremallera de los Deportes Ocio Chaqueta'
 actualPrice: 1.78 EUR
 currency: EUR
 price: 1.78

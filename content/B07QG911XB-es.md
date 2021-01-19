@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41AQEjb2mTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QG911XB-es'
+slug: 'B07QG911XB-es Kipling NEW ERASTO Bolso bandolera  40 cm  17 liters  Dorado  Cloud Metal '
 actualPrice: 57.3 EUR
 currency: EUR
 price: 57.3

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41kg3hdp+SL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073H56NWV-es'
+slug: 'B073H56NWV-es Clarks Batcombe Hall Derby - Zapatos de Cordones  para Hombre  Negro  Black Leather   41.5 EU'
 actualPrice: 68.4 EUR
 currency: EUR
 price: 68.4

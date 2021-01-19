@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41qIhmqbC8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N3BQLF9-es'
+slug: 'B07N3BQLF9-es Desigual Dress LORETHA Vestido   Negro 2000   40  Talla del Fabricante: 38  para Mujer'
 actualPrice: 27.22 EUR
 currency: EUR
 price: 27.22

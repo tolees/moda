@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Zl-YnTTvL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KSQ8R13-es'
+slug: 'B07KSQ8R13-es AnazoZ Acero Inoxidable Gemelos para Hombre Camisa Gemelos Boda Verde 6 Billiards 1.2x1.2CM'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41b-tMZsJpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VXWQZPQ-es'
+slug: 'B07VXWQZPQ-es Pepe Jeans Charing Camiseta  Verde  Pond 774   XX-Large para Hombre'
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

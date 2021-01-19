@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/513DWFP8dHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JWBQR5P-es'
+slug: 'B07JWBQR5P-es dPois Vestidos de Princesa Diadema Niña Bebé Fiesta Bautizo Tutú Ballet Danza Falda Lunares Bragas Disfraces Fantasía Carnaval Cumpleaños Infantil  6 Meses - 14 Años  Rosa 2 pc 4 Años'
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

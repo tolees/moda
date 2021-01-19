@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41+o1I70N3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007B6SA9O-es'
+slug: 'B007B6SA9O-es Superga 2750-linu  Zapatos de Cordones Derby Unisex Adulto  Blanco  Weiß  White   35 EU'
 actualPrice: 47.17 EUR
 currency: EUR
 price: 47.17

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41tDXHug%2BpL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B082V59NKB-es'
+slug: 'B082V59NKB-es Canadian Peak Parka'
 actualPrice: 77.4 EUR
 currency: EUR
 price: 77.4

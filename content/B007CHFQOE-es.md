@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41F5SH59UML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007CHFQOE-es'
+slug: 'B007CHFQOE-es Helly Hansen W Seven J Chaqueta  Mujer  White  S'
 actualPrice: 63.5 EUR
 currency: EUR
 price: 63.5

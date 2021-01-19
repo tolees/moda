@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31IJm025cVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MJ7FP56-es'
+slug: 'B07MJ7FP56-es Clarks Grandin Plain  Zapatos de Cordones Derby para Hombre  Marrón  Tan Leather Tan Leather   47 EU'
 actualPrice: 47.9 EUR
 currency: EUR
 price: 47.9

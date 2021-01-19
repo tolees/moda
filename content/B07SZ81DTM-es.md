@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/313MEKTLvVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SZ81DTM-es'
+slug: 'B07SZ81DTM-es Geox U Nebula Y A  Zapatillas para Hombre  Azul  Navy C4002   43 EU'
 actualPrice: 42.7 EUR
 currency: EUR
 price: 42.7

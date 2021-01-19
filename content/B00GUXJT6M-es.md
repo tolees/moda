@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41izmzDecXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00GUXJT6M-es'
+slug: 'B00GUXJT6M-es Columbia Peakfreak Nomad Zapatos impermeables para hombre   Negro Black  Steam   43 EU'
 actualPrice: 59.95 EUR
 currency: EUR
 price: 59.95

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31u2GMy2UOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TPYSHWB-es'
+slug: 'B07TPYSHWB-es Clarks Unwilmore Ray  Sandalias Punta Cerrada para Hombre  Marrón  Mahogany Mahogany   41 EU'
 actualPrice: 44.95 EUR
 currency: EUR
 price: 44.95

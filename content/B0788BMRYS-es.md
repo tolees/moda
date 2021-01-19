@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41sQj-72PSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0788BMRYS-es'
+slug: 'B0788BMRYS-es Tommy Hilfiger RN tee SS Camiseta  Blanco  White 100   X-Large para Hombre'
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

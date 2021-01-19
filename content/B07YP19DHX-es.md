@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51XhU1PQw0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YP19DHX-es'
+slug: 'B07YP19DHX-es SIMPLY BE Ladies Jersey Swing Dress Vestido  Multicolor  Mono Check 001   60 para Mujer'
 actualPrice: 16.69 EUR
 currency: EUR
 price: 16.69

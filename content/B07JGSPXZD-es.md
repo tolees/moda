@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41mMc3pYn1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JGSPXZD-es'
+slug: 'B07JGSPXZD-es Pepe Jeans Marge Sport Vaqueros Regular  Azul  8oz Rigid Med Used Denim   4-5 años  Talla del Fabricante: 104/4 años  para Niñas'
 actualPrice: 30.24 EUR
 currency: EUR
 price: 30.24

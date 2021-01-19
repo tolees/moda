@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31nHj7D9y7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BZNK2V5-es'
+slug: 'B07BZNK2V5-es Fruit of the Loom- Camiseta de Manga Corta Sofspun para niñas  9-10   Azul Real '
 actualPrice: 3.95 EUR
 currency: EUR
 price: 3.95

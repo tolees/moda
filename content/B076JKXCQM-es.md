@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41p-BLByscL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076JKXCQM-es'
+slug: 'B076JKXCQM-es Hollywood Star - Camiseta de Manga Larga Lisa  con Cuello Redondo  básica  para Mujer - Large - New Magenta'
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

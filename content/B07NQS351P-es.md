@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41k+Ji5Lf5L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NQS351P-es'
+slug: 'B07NQS351P-es Tom Tailor 7990106  Botines para Mujer  Rosa  Nude 01521   40 EU'
 actualPrice: 15.26 EUR
 currency: EUR
 price: 15.26

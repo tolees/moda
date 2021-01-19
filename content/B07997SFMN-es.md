@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31+ldf4-EkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07997SFMN-es'
+slug: 'B07997SFMN-es Marca Amazon - MERAKI Camisa de Vestir de Corte Recto Hombre  Azul  Light Blue   S  Label: S'
 actualPrice: 7.31 EUR
 currency: EUR
 price: 7.31

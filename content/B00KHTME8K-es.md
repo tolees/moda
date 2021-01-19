@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31e68g8pCwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KHTME8K-es'
+slug: 'B00KHTME8K-es Under Armour UA Heatgear Short Sleeve Camiseta  Hombre  Azul  Midnight Navy/Steel 410   XXL'
 actualPrice: 15.49 EUR
 currency: EUR
 price: 15.49

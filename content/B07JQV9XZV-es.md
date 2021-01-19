@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4113LusjtYL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JQV9XZV-es'
+slug: 'B07JQV9XZV-es Tommy_Jeans TJM Tape Sweater sudadera  Azul  Black Iris 002   Large para Hombre'
 actualPrice: 47.0 EUR
 currency: EUR
 price: 47.0

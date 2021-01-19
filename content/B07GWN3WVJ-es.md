@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51Uwp2f5nJL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GWN3WVJ-es'
+slug: 'B07GWN3WVJ-es LEABAGS Detroit Bolso Bandolera de auténtico Cuero búfalo en el Estilo Vintage - Rouge'
 actualPrice: 54.98 EUR
 currency: EUR
 price: 54.98

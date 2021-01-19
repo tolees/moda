@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41+kGYxnvrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079YFC5V7-es'
+slug: 'B079YFC5V7-es Marca Amazon - AURIQUE Mallas de Deporte Cortas con Banda Lateral Mujer  Negro  Black   44  Label:XL'
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51tTscbG+NL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KM6LZX9-es'
+slug: 'B07KM6LZX9-es Juego de Chaleco Táctico con Balas de Dardos de Espuma Suave de 40 Piezas Recarga Rápida de 2 Piezas Gafas Protectoras Máscara'
 actualPrice: 17.69 EUR
 currency: EUR
 price: 17.69

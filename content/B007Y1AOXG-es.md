@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41xRsoLrwTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007Y1AOXG-es'
+slug: 'B007Y1AOXG-es Timberland Classic Boat  Náuticos para Mujer  Azul  Navy Suede   38 EU'
 actualPrice: 76.31 EUR
 currency: EUR
 price: 76.31

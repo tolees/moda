@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41zmLQ39g1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N3BP18N-es'
+slug: 'B07N3BP18N-es Desigual Coat AGGU Abrigo  Negro  Negro 2000   48  Talla del Fabricante: 46  para Mujer'
 actualPrice: 36.53 EUR
 currency: EUR
 price: 36.53

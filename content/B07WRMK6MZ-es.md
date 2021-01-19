@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41CHyabR44L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WRMK6MZ-es'
+slug: 'B07WRMK6MZ-es Skechers Tresmen Hirano  Sandalias de Punta Descubierta para Hombre  Marrón  Brown Synthetic Brn   45 EU'
 actualPrice: 32.95 EUR
 currency: EUR
 price: 32.95

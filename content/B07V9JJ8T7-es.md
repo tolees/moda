@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31grN6765aL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V9JJ8T7-es'
+slug: 'B07V9JJ8T7-es Calvin Klein Essential Slim V Neck tee Camiseta  Negro  CK Black Bae   Small para Hombre'
 actualPrice: 17.81 EUR
 currency: EUR
 price: 17.81

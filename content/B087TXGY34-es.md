@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/415apfr30kL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087TXGY34-es'
+slug: 'B087TXGY34-es VulusValas Mujer Comodo Clip Toe Plano Corcho Sandalias Verano Playa Zapatos Negro Size 44 Asiática'
 actualPrice: 16.89 EUR
 currency: EUR
 price: 16.89

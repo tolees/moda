@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41nXw9hnbAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XCRQY15-es'
+slug: 'B06XCRQY15-es Pepe Jeans Kingston Zip  Vaqueros Regular para Hombre  Azul  11Oz Vintage 8 Dip S55   W28/L30'
 actualPrice: 40.94 EUR
 currency: EUR
 price: 40.94

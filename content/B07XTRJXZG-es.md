@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41MmPbs6emL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XTRJXZG-es'
+slug: 'B07XTRJXZG-es Jack & Jones JORBRANDON Sweat Hood Sudadera con Capucha  Gris  Light Grey Melange Fit: Slim JJ   L para Hombre'
 actualPrice: 19.74 EUR
 currency: EUR
 price: 19.74

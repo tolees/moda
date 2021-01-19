@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ATSpd3-kL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005SG4G9C-es'
+slug: 'B005SG4G9C-es Batman Logo - Camiseta para Hombre  Color Negro  Talla M/M'
 actualPrice: 15.77 EUR
 currency: EUR
 price: 15.77

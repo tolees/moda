@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41rOpPC4CZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TLLFDMB-es'
+slug: 'B07TLLFDMB-es Superdry OL Vintage Emb Crew Camiseta  Azul  Blue Grindle Sve   S para Hombre'
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31sqXz8p85L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NDQ2MNQ-es'
+slug: 'B07NDQ2MNQ-es G-STAR RAW Alkyne Slim Camiseta  Negro  White 110   XX-Small para Hombre'
 actualPrice: 17.54 EUR
 currency: EUR
 price: 17.54

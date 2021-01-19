@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41VEPqOXo5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075TD3T3Z-es'
+slug: 'B075TD3T3Z-es HARRY POTTER - Pijama para Niños Ajuste Ceñido - 5-6 Años'
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

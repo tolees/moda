@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/519dEGUHjZL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SN46MH2-es'
+slug: 'B07SN46MH2-es Gifort Cortador de Verdura  Mandolina de Verduras 8 en 1 Multifuncional Mandolina de Cocina Slicer 7 Cuchillas Acero Inoxidable  Guantes Protector de Mano para Cortar Frutas/Verduras'
 actualPrice: 24.89 EUR
 currency: EUR
 price: 24.89

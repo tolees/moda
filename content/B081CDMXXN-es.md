@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41XpjuwRTdL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B081CDMXXN-es'
+slug: 'B081CDMXXN-es Geographical Norway Chaqueta DE NIÑO BOKER Negro 16'
 actualPrice: 71.2 EUR
 currency: EUR
 price: 71.2

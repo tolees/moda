@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51bQLnIVCDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01JEQM756-es'
+slug: 'B01JEQM756-es Zuku Life underwear Basic Shortboxer - Bóxer para hombre MESH Trunk  3er packung - L '
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

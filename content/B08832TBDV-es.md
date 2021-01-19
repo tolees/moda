@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51K-mXhV-WL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08832TBDV-es'
+slug: 'B08832TBDV-es Dragon Ball T-Shirts 3D Impresión Camisetas de Manga Corta de Verano Cuello Redondo tee Tops Cosplay Camisa Suelta Casual para Niños Niñas Amantes del Anime Super Saiyan Son Goku Son Gohan'
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

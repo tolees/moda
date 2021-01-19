@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41nsOnawg0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q24QXRG-es'
+slug: 'B07Q24QXRG-es Under Armour UA Lockdown 4  Zapatos de Baloncesto para Hombre  Gris  Pitch Gray/Halo Gray/Beta   42.5 EU'
 actualPrice: 30.51 EUR
 currency: EUR
 price: 30.51

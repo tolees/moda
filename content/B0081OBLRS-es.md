@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41sO0qY8tXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0081OBLRS-es'
+slug: 'B0081OBLRS-es Levi s 501 Original Fit Vaqueros  Hook  40W / 34L para Hombre'
 actualPrice: 57.99 EUR
 currency: EUR
 price: 57.99

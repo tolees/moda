@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41nFPme89bL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NHHHBLC-es'
+slug: 'B07NHHHBLC-es Kipling Sara  Bolso con Bandolera para Mujer  Verde  Seagrass   35x15x6 centimeters  B x H x T '
 actualPrice: 21.45 EUR
 currency: EUR
 price: 21.45

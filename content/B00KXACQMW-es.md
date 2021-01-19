@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41xlrveToxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KXACQMW-es'
+slug: 'B00KXACQMW-es Under Armour Raid Camiseta Masculina  Camiseta Transpirable  Ajustada Camiseta Deportiva de Manga Corta y de Secado rápido  Carbon Heather/Carbon Heather/Steel  090   MD'
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

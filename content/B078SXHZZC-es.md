@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31iuqzY6GoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078SXHZZC-es'
+slug: 'B078SXHZZC-es Timberland Gateway Pier Casual  Zapatos de Cordones Oxford para Hombre  Azul  Navy Canvas   40 EU'
 actualPrice: 45.0 EUR
 currency: EUR
 price: 45.0

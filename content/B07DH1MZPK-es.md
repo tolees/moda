@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51IMdjBOODL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DH1MZPK-es'
+slug: 'B07DH1MZPK-es Cressi Reef Zapatillas Chanclas  Unisex Adulto  Negro/Amarillo  41'
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

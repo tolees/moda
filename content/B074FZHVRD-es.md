@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51UsY-MMFhL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B074FZHVRD-es'
+slug: 'B074FZHVRD-es Gafas de sol POLARIZADAS VERDSTER TourDePro Para Hombres y Mujeres- Aptos para Conducir  Pescar e Ir en bicicleta - Montura Envolvente Cómoda con Protección UV - Incluye un estuche  funda y un pañuelo'
 actualPrice: 21.95 EUR
 currency: EUR
 price: 21.95

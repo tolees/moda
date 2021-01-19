@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41izI20fyLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QBPZPVY-es'
+slug: 'B07QBPZPVY-es New Look Sport Harrington Chaqueta Bomber  Azul  Navy 41   Medium  Talla del Fabricante: 52  para Hombre'
 actualPrice: 8.8 EUR
 currency: EUR
 price: 8.8

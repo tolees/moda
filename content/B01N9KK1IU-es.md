@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41i7EVOJ4VL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N9KK1IU-es'
+slug: 'B01N9KK1IU-es RED WAGON Waffle Grandad Shirt Camisa para Niños  Blanco  White   4 años'
 actualPrice: 6.9 EUR
 currency: EUR
 price: 6.9

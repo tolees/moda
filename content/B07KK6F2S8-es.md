@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/419mwvAfC8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KK6F2S8-es'
+slug: 'B07KK6F2S8-es adidas Map Bag  Bolso bandolera Unisex Adultos  Negro  Negro   24x15x45 cm  W x H x L '
 actualPrice: 12.45 EUR
 currency: EUR
 price: 12.45

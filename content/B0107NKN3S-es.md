@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31RIRlGC15L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0107NKN3S-es'
+slug: 'B0107NKN3S-es ESPRIT - Collar para mujer con circonita color oro rosa'
 actualPrice: 21.95 EUR
 currency: EUR
 price: 21.95

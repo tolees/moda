@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Iat0uWoCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S1P5L9Y-es'
+slug: 'B07S1P5L9Y-es Levi s The Perfect Tee  Camiseta  Mujer  Azul  90 s Serif T2 Baby Blue 0782   M'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

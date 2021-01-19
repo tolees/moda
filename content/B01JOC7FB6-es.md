@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31kYizPOHWL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01JOC7FB6-es'
+slug: 'B01JOC7FB6-es Timberland Kenniston 6 Inch Lace Up  Botas para Mujer  Negro  Black Full Grain   39 EU'
 actualPrice: 84.0 EUR
 currency: EUR
 price: 84.0

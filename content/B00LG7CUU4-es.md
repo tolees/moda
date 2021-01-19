@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31RwBaoYwWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00LG7CUU4-es'
+slug: 'B00LG7CUU4-es Under Armour UA TAC Tech Long Sleeve tee Camiseta De Manga Larga  Hombre  Negro  Black/None 001   S'
 actualPrice: 16.46 EUR
 currency: EUR
 price: 16.46

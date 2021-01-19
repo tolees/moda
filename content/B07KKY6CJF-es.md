@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Skm2JC1lL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KKY6CJF-es'
+slug: 'B07KKY6CJF-es adidas Most Haves Badge of Sports TS M Camiseta  Hombre  Azul  Legend Ink/White   L'
 actualPrice: 13.97 EUR
 currency: EUR
 price: 13.97

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41kXCJA7bpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0788BNRNH-es'
+slug: 'B0788BNRNH-es Tommy Hilfiger Logo Tape Hoody Sudadera con Capucha y Cinta Distintiva  Azul  Navy Blazer   Small para Hombre'
 actualPrice: 50.99 EUR
 currency: EUR
 price: 50.99

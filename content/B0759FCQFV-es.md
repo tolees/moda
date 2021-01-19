@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41IRmJ0nCHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0759FCQFV-es'
+slug: 'B0759FCQFV-es Skechers Reggae-Zig Swag 48228  Chanclas para Mujer  Azul  Navy   36.5 EU'
 actualPrice: 14.43 EUR
 currency: EUR
 price: 14.43

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31HrPgXhnwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K8YHTBZ-es'
+slug: 'B07K8YHTBZ-es G-STAR RAW 3301 Slim Fit Jeans Vaqueros  Ultra Dk Aged Blue  24W / 26L para Hombre'
 actualPrice: 70.49 EUR
 currency: EUR
 price: 70.49

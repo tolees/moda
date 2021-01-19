@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41v6Z5tC2jL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000AP4CYK-es'
+slug: 'B000AP4CYK-es Reebok Classic Nylon Zapatilla de Running Hombre  Grigio  Grau  Platinum/Jet Blue    38.5'
 actualPrice: 15.96 EUR
 currency: EUR
 price: 15.96

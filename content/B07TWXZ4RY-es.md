@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Rkjbs3f+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TWXZ4RY-es'
+slug: 'B07TWXZ4RY-es Lee Rider Vaqueros Slim  Negro  Black Helen Kj   W32/L30  Talla del Fabricante: 32/30  para Hombre'
 actualPrice: 25.78 EUR
 currency: EUR
 price: 25.78

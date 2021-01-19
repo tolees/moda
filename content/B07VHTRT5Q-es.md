@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41FpoBzlTIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VHTRT5Q-es'
+slug: 'B07VHTRT5Q-es edc by Esprit 099cc2f006 Camisa  Negro  Black 001   Large para Hombre'
 actualPrice: 7.77 EUR
 currency: EUR
 price: 7.77

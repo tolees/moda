@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41rozEyqbtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0838RLHQ7-es'
+slug: 'B0838RLHQ7-es AMZTM Dinosaurio Camiseta de Cumpleaños - 1er Bebé Cumpleaños Suministros para la Fiesta Camisetas de Manga Corta para Bebé Niños Blanco Cuello Redondo de 100% Algodón Camiseta Tops'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

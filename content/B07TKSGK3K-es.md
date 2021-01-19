@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/414eneD3-2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TKSGK3K-es'
+slug: 'B07TKSGK3K-es Clarks Tri Sporty  Sandalias de Talón Abierto para Mujer  Beige  Sage Snake Sage Snake   37 EU'
 actualPrice: 33.93 EUR
 currency: EUR
 price: 33.93

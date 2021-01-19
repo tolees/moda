@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/418BYYi4kPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086YSJD49-es'
+slug: 'B086YSJD49-es AARDIMI - Sandalias para mujer  planas  de verano  con lazo  de ante  con diseño de lazo  con aspecto de corcho 35-43  color  talla 40 EU'
 actualPrice: 19.58 EUR
 currency: EUR
 price: 19.58

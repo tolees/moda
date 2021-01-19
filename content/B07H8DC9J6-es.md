@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4191m79HMuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H8DC9J6-es'
+slug: 'B07H8DC9J6-es WinCret Piel Carteras para Hombre con Monedero y RFID Bloqueo - Billetera Hombre con 8 Ranuras para Tarjeta de película'
 actualPrice: 19.54 EUR
 currency: EUR
 price: 19.54

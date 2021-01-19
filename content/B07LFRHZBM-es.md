@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31htBToEerL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFRHZBM-es'
+slug: 'B07LFRHZBM-es Geox D ANNYTAH C  Bailarinas para Mujer  Marrón  Chestnut C6004   36.5 EU'
 actualPrice: 19.15 EUR
 currency: EUR
 price: 19.15

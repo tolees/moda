@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51lklRNhOGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R65Y4ZD-es'
+slug: 'B07R65Y4ZD-es Camiseta de Tirantes Deportiva Hombre Tirantes Culturismo Fitness Deportiva. Ropa Deporte Masculina para Entrenar Gym'
 actualPrice: 6.88 EUR
 currency: EUR
 price: 6.88

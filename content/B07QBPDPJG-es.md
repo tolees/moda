@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31BnU8i1JVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QBPDPJG-es'
+slug: 'B07QBPDPJG-es ABIsedrin Collar con Nombre Personalizado Collar para Mujer y Hombre  Collar de Barra con Caja de Regalo'
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

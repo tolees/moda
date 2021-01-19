@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41pjBlVXNaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HTFRXXK-es'
+slug: 'B01HTFRXXK-es Columbia Chaqueta Impermeable con Capucha para Mujer  Powder Lite Hooded  Blanco  White  Black   S'
 actualPrice: 75.98 EUR
 currency: EUR
 price: 75.98

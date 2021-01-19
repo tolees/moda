@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41HT-0cDPoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06W9NLQSB-es'
+slug: 'B06W9NLQSB-es Hosaire Pulsera de Plata de Cielo Estrellado Metal-Ajustable Diámetro 60-70mm Pulsera de Cadena de Moda Chica de Partido de Las Señoras'
 actualPrice: 1.9 EUR
 currency: EUR
 price: 1.9

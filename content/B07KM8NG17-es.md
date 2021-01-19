@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31HpY+cy6YL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KM8NG17-es'
+slug: 'B07KM8NG17-es Yakmoo Bolso de Cintura Estilo Militar Táctico Bolsa de Riñonera Deportiva Impermeable Molle Sistema al Aire Libre Negro'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

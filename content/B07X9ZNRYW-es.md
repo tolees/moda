@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41zfdy-dOmL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X9ZNRYW-es'
+slug: 'B07X9ZNRYW-es edc by Esprit 109cc1k022 Camisa Manga Larga  Rosa  Dark Old Pink 675   Large para Mujer'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

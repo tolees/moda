@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ryjCmzq0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076JLDDFQ-es'
+slug: 'B076JLDDFQ-es Crocs LiteRide Slide  Sandalias de Punta Descubierta Unisex Adulto  Negro  Black/Slate Grey 0dd   42/43 EU'
 actualPrice: 27.13 EUR
 currency: EUR
 price: 27.13

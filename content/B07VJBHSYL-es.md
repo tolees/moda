@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41K9JsWROCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VJBHSYL-es'
+slug: 'B07VJBHSYL-es Esprit 099ee1j024 Sudadera  Azul  Navy 400   X-Small para Mujer'
 actualPrice: 25.42 EUR
 currency: EUR
 price: 25.42

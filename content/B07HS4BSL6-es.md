@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41rt+OenU2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HS4BSL6-es'
+slug: 'B07HS4BSL6-es Dim Coton Stretch Boxer X3  Multicolor  Rouge Baiser/Bleu Antique/Bleu Crepuscule 87e   Large  Talla del Fabricante: 4   Pack de 3  para Hombre'
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

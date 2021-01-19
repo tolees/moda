@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31c1mf3zw3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L471YGK-es'
+slug: 'B07L471YGK-es Amazon Brand - AURIQUE Leggings deportivos capri con paneles para mujer  Negro  Black/Grey Marl   38  Label:S'
 actualPrice: 11.38 EUR
 currency: EUR
 price: 11.38

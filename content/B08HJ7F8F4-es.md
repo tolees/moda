@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41t5RrjVgUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08HJ7F8F4-es'
+slug: 'B08HJ7F8F4-es MegaPack de Gafas de Protección y Seguridad Transparentes - Cómodo para Uso Diario  trabajo  con Ventilación Lateral - Anti Salpicaduras  Impactos y Polvo con Certificación Europea - Regalos Extra'
 actualPrice: 9.5 EUR
 currency: EUR
 price: 9.5

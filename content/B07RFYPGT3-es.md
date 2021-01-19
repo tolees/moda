@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31KBMS6mTiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RFYPGT3-es'
+slug: 'B07RFYPGT3-es G-STAR RAW Type C 3D Straight Tapered Vaqueros  Negro  Jet Black B479-A814   W26/L30  Talla del Fabricante: 26W/ 30L  para Hombre'
 actualPrice: 22.5 EUR
 currency: EUR
 price: 22.5

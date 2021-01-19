@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41LLAdDuYqL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N3TLNWT-es'
+slug: 'B07N3TLNWT-es Desigual Coat Dante Abrigo  Negro  Negro 2000   38  Talla del Fabricante: 36  para Mujer'
 actualPrice: 55.82 EUR
 currency: EUR
 price: 55.82

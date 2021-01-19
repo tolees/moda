@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/311R7GIvR2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S977CNC-es'
+slug: 'B07S977CNC-es Crocs Classic II Flip  Chanclas Unisex Adulto  Azul  Navy 410   46/47 EU'
 actualPrice: 7.5 EUR
 currency: EUR
 price: 7.5

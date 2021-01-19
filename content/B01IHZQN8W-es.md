@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31NtBbmCJNL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IHZQN8W-es'
+slug: 'B01IHZQN8W-es The North Face Tekware TNF Chaqueta 200 Shadow  Hombre  Urban Navy  L'
 actualPrice: 64.54 EUR
 currency: EUR
 price: 64.54

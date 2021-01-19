@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41MeHMU3rvL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VX15RZW-es'
+slug: 'B07VX15RZW-es Hombre Invierno Botines Botas de Nieve Cálido Aire Libre Piel Botas Completamente Forrado Cuero Antideslizante Zapatos Negro 42EU '
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

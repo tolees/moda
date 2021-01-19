@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31sOXMrT0jL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B017XP09EQ-es'
+slug: 'B017XP09EQ-es Helly Hansen Crew Vest Chaleco Marino con Forro Polar Interior para Hombres  Impermeable y diseñado para Cualquier Actividad Casual o Deportiva  Negro  XL'
 actualPrice: 96.98 EUR
 currency: EUR
 price: 96.98

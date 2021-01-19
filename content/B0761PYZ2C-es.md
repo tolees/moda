@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51hOJFC9tbL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0761PYZ2C-es'
+slug: 'B0761PYZ2C-es Soradoo Ciclismo Maillot Hombres Jersey Culote Pantalones Largos Mangas Largas Ciclismo Ropa Maillot para Deportes al aire libre Ciclo Bicicleta'
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

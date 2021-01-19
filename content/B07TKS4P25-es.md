@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31rIfzKxU8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TKS4P25-es'
+slug: 'B07TKS4P25-es Clarks Adriel Cove  Zapatos con Tacon y Correa de Tobillo para Mujer  Azul  Blush Leather Blush Leather   37.5 EU'
 actualPrice: 35.33 EUR
 currency: EUR
 price: 35.33

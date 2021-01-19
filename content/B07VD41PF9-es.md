@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41p2SNAd9PL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VD41PF9-es'
+slug: 'B07VD41PF9-es Calvin Klein Center Monogram Box Slim tee Camiseta  Negro  CK Black Bae   Large para Hombre'
 actualPrice: 17.95 EUR
 currency: EUR
 price: 17.95

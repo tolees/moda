@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51p1Ks6P6SL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003AOP0DK-es'
+slug: 'B003AOP0DK-es Havaianas Top  Chanclas Unisex Adulto  Rojo  Ruby Red   37/38 EU'
 actualPrice: 11.71 EUR
 currency: EUR
 price: 11.71

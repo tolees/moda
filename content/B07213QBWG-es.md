@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41yJIDToH3L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07213QBWG-es'
+slug: 'B07213QBWG-es MYCARBON Cintura Fanny Pack Riñoneras Deportivas Cinturón de Correr Impermeable Bolso Running para Camina el Perro Bicicleta Senderismo Teléfono 6 Pulgadas Riñoneras Mujer Hombre Niños'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

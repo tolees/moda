@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41mry-pfKBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00E5FYJZ8-es'
+slug: 'B00E5FYJZ8-es PUMA Suede Classic+  Zapatilla para Hombre  Rojo  Cabernet/White   36 EU'
 actualPrice: 50.54 EUR
 currency: EUR
 price: 50.54

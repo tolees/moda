@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41fOO18z8fL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B073QN7WKD-es'
+slug: 'B073QN7WKD-es find. Chaqueta Efecto Cuero para Hombre  Negro  Schwarz   Medium'
 actualPrice: 18 EUR
 currency: EUR
 price: 18

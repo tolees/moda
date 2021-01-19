@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41b3AUwLXVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QTJ9CJL-es'
+slug: 'B07QTJ9CJL-es wilbest® Cartera Hombre  Cartera RFID  Billetera de Hombre de Piel con 2 Compartimentos para Billetes  5 Tarjetas Incluye Correa de Tracción Inteligente & ID   1 Bolsillo para Monedas con Botón'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

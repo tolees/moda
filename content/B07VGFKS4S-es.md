@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31zFKeUGtAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VGFKS4S-es'
+slug: 'B07VGFKS4S-es SELECTED FEMME 16064917 Camisa Manga Larga  Azul  Night Sky Night Sky   38  Talla del Fabricante: Small  para Mujer'
 actualPrice: 9.15 EUR
 currency: EUR
 price: 9.15

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31BkuGC8d7L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B077VNJ7WY-es'
+slug: 'B077VNJ7WY-es GANT The Broadcloth Reg BD Camiseta Deporte  Blanco  White   Small para Hombre'
 actualPrice: 50.27 EUR
 currency: EUR
 price: 50.27

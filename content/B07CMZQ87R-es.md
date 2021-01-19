@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31tLx8GQHgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CMZQ87R-es'
+slug: 'B07CMZQ87R-es Crocs Santa Cruz Canvas Flip Men  Zapatos de Playa y Piscina para Hombre  Negro  Black/Slate Grey 0dd   M8  41/42 EU'
 actualPrice: 18.95 EUR
 currency: EUR
 price: 18.95

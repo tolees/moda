@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411TDUCy7KL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FGYN2PZ-es'
+slug: 'B07FGYN2PZ-es Columbia Hombre Chaqueta  Cascade Ridge II Softshell  Azul  Collegiate Navy Heather   Talla: S'
 actualPrice: 45.09 EUR
 currency: EUR
 price: 45.09

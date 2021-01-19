@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51zwZKqPTCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089B8LYDG-es'
+slug: 'B089B8LYDG-es CARPISA ® Bolso cesta - MANDEL'
 actualPrice: 11.68 EUR
 currency: EUR
 price: 11.68

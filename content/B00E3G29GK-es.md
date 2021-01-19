@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/411lYMPHboL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00E3G29GK-es'
+slug: 'B00E3G29GK-es Dickies Cornwell  Abrigo impermeable para Hombre  Gris  Charcoal   Large'
 actualPrice: 26.65 EUR
 currency: EUR
 price: 26.65

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31h2gicXJwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FR6GJS5-es'
+slug: 'B07FR6GJS5-es Clarks Step Beat Dune  Zapatos de Cordones Derby para Hombre  Azul  Navy-   42.5 EU'
 actualPrice: 37.47 EUR
 currency: EUR
 price: 37.47

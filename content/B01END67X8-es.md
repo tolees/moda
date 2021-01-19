@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41AY4onOsBL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01END67X8-es'
+slug: 'B01END67X8-es JACK & JONES - Jcomac Slim fit - Camiseta Bã¡Sica - White'
 actualPrice: 11.0 EUR
 currency: EUR
 price: 11.0

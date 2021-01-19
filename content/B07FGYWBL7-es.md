@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/414G2M52pBL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FGYWBL7-es'
+slug: 'B07FGYWBL7-es Columbia Powder Lite Hooded Chaqueta De Plumón con Capucha  Hombre  Verde  Mosstone/Peatmoss   XXL'
 actualPrice: 68.36 EUR
 currency: EUR
 price: 68.36

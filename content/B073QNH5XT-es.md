@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51h4n5qcgHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073QNH5XT-es'
+slug: 'B073QNH5XT-es Levi s Wool Bf Sherpa Trucker Amazon Exclusive - Chaqueta para Mujer  Multicolor  Kaffir Oatmeal 2   Small'
 actualPrice: 45.64 EUR
 currency: EUR
 price: 45.64

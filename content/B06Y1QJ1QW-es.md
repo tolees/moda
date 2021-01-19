@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41LHO7eNAvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06Y1QJ1QW-es'
+slug: 'B06Y1QJ1QW-es Lacoste TH6709  Camiseta para Hombre  Blanco  Blanc   4XL  Talla del fabricante: 9 '
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

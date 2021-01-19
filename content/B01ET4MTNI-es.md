@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41ceB9oLOKL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01ET4MTNI-es'
+slug: 'B01ET4MTNI-es Helly Hansen W Aden Long Chaqueta  Mujer  Black  XXL'
 actualPrice: 99.5 EUR
 currency: EUR
 price: 99.5

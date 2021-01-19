@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/3112T14JEFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WW1F5Z6-es'
+slug: 'B07WW1F5Z6-es Uvex Sportstyle 224 Gafas de Deporte  Adultos Unisex  Grey Mat  One Size'
 actualPrice: 29.57 EUR
 currency: EUR
 price: 29.57

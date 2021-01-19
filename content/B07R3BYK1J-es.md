@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ofgFwokoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R3BYK1J-es'
+slug: 'B07R3BYK1J-es adidas Real Madrid 2019/2020 Camiseta  Hombre  Blanco  1ª Equipación   M'
 actualPrice: 35.95 EUR
 currency: EUR
 price: 35.95

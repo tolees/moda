@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41EBaTW9m9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N0C85RC-es'
+slug: 'B01N0C85RC-es Geox U Wells C  Zapatillas para Hombre  Gris  Anthracite C9004   46 EU'
 actualPrice: 65.4 EUR
 currency: EUR
 price: 65.4

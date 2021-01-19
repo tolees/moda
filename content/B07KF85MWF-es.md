@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31qtNyddRUL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KF85MWF-es'
+slug: 'B07KF85MWF-es Levi s 510 Skinny Fit  Vaqueros para Hombre  Azul  Norse Warp Cool 0980   W32/L34'
 actualPrice: 57.49 EUR
 currency: EUR
 price: 57.49

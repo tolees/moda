@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41StlZT2W5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079RMHGV7-es'
+slug: 'B079RMHGV7-es GANT The Broadcloth Gingham Reg BD Camisa  Azul  Capri Blue 468   Small para Hombre'
 actualPrice: 61.74 EUR
 currency: EUR
 price: 61.74

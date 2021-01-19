@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41sYJuIZKYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KMJ4HZ1-es'
+slug: 'B07KMJ4HZ1-es find. Large Buckle Block Heel Sandal Sandalias con Punta Abierta  Beige  37 EU'
 actualPrice: 22.63 EUR
 currency: EUR
 price: 22.63

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41gG+nLJVhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072KK7FNF-es'
+slug: 'B072KK7FNF-es Adidas Adilette Shower Chanclas Hombre  Rojo  Escarl/Ftwbla/Escarl 000   42 EU  8 UK '
 actualPrice: 13.95 EUR
 currency: EUR
 price: 13.95

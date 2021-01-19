@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31tO90HddzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0716YX1DP-es'
+slug: 'B0716YX1DP-es Under Armour Woven Graphic Wordmark Shorts Pantalón Corto  Hombre  Azul  Academy/Graphite 408   XL'
 actualPrice: 12.08 EUR
 currency: EUR
 price: 12.08

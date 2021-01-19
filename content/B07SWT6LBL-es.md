@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41WtaF9FdEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SWT6LBL-es'
+slug: 'B07SWT6LBL-es Geox Alfier B J A  Zapatillas de Deporte para Niños  Gris  Grey/Red C0051   36 EU'
 actualPrice: 38.36 EUR
 currency: EUR
 price: 38.36

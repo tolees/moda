@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51w2wA24zVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NHX1QLN-es'
+slug: 'B07NHX1QLN-es Springfield FQ. Apuesta Animal P Camisa  Multicolor  Multicolor 94   38  Tamaño del Fabricante: 38  para Mujer'
 actualPrice: 5.88 EUR
 currency: EUR
 price: 5.88

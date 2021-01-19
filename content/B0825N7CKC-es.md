@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41DiLtw7upL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0825N7CKC-es'
+slug: 'B0825N7CKC-es Quiksilver Colors In Stereo - Camiseta para Hombre Screen tee  Hombre  Snow White  XL'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

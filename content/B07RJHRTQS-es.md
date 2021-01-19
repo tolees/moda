@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31T-yIRZ4bL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RJHRTQS-es'
+slug: 'B07RJHRTQS-es DoGeek Leggins Deporte Mujer para Training Running Yoga Fitness transpirables con cintura alta  XXS  Verde '
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

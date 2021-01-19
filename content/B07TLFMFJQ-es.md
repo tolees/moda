@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31W8qKmeQvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TLFMFJQ-es'
+slug: 'B07TLFMFJQ-es Levi s 2pk Crewneck Graphic Camiseta  Blanco  2pack tee White/Dress Blues 0002   Large  Pack de 2  para Hombre'
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

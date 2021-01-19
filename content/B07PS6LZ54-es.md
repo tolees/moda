@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31DnvOltN0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PS6LZ54-es'
+slug: 'B07PS6LZ54-es CARE OF by PUMA Sudadera con capucha de manga larga para hombre  ajuste alto  light grey  3XL  Label: 3XL'
 actualPrice: 13.69 EUR
 currency: EUR
 price: 13.69

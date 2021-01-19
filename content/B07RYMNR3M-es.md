@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41HTT6Evc6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RYMNR3M-es'
+slug: 'B07RYMNR3M-es Levi s The Perfect Tee  Camiseta  Mujer  Negro  90 s Serif Perfect T2 Caviar 0783   L'
 actualPrice: 11.19 EUR
 currency: EUR
 price: 11.19

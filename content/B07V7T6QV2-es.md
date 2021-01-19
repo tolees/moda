@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Chz0-GO0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V7T6QV2-es'
+slug: 'B07V7T6QV2-es Bolsa Maternal de Pañales RUVALINO  Gran Bolso de Viaje  para el Carrito del Bebé  Elegante para Mamá y Papá  Cambiador de Bebé Convertible para Niños y Niñas con Bolsillos Independientes  gris '
 actualPrice: 32.98 EUR
 currency: EUR
 price: 32.98

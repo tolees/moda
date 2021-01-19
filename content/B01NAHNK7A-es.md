@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31NbxMtdmWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NAHNK7A-es'
+slug: 'B01NAHNK7A-es G-STAR RAW Eyben Slim V T Wmn S/s Camiseta  Negro  Black 990   36  Talla del fabricante: Small  para Mujer'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

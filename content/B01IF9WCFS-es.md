@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31zrfnDU0PL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IF9WCFS-es'
+slug: 'B01IF9WCFS-es The North Face S/S Simple Dome H Camiseta de Manga Corta  Hombre  Blanco  TNF White   XXL'
 actualPrice: 15.49 EUR
 currency: EUR
 price: 15.49

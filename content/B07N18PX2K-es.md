@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41oFseirlYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N18PX2K-es'
+slug: 'B07N18PX2K-es G-STAR RAW 3301 Straight Vaqueros  Blu  Authentic Faded Blue B631-a817   35W / 40L para Hombre'
 actualPrice: 50.0 EUR
 currency: EUR
 price: 50.0

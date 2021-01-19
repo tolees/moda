@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41xkbHC2O5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q9BPTNZ-es'
+slug: 'B07Q9BPTNZ-es Superdry VL Tonal Tape Hood Sudadera con Capucha  Negro  Black 02a   Small para Hombre'
 actualPrice: 37.55 EUR
 currency: EUR
 price: 37.55

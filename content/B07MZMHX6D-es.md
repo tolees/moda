@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41pXBfbGvPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZMHX6D-es'
+slug: 'B07MZMHX6D-es Pepe Jeans Legendary Shepherd Cord Chaqueta   Navy 595   7-8 años  Talla del Fabricante: 7/8 años  para Niños'
 actualPrice: 47.56 EUR
 currency: EUR
 price: 47.56

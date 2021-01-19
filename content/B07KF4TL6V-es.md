@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31hv8hnbe7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KF4TL6V-es'
+slug: 'B07KF4TL6V-es Levi s 311 Shaping Skinny Vaqueros  London Nights  32W / 32L para Mujer'
 actualPrice: 49.5 EUR
 currency: EUR
 price: 49.5

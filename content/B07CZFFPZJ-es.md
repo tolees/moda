@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/312avcezdoL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CZFFPZJ-es'
+slug: 'B07CZFFPZJ-es Under Armour UA Qualifier Speedpocket 2-N-1 Short Pantalón Corto  Hombre  Negro  Black/Black/Reflective 001   S'
 actualPrice: 33.17 EUR
 currency: EUR
 price: 33.17

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/315AaHNTOoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SXSVV88-es'
+slug: 'B07SXSVV88-es Geox D ANNYTAH C  Bailarinas para Mujer  Azul  Blue C4000   38 EU'
 actualPrice: 19.19 EUR
 currency: EUR
 price: 19.19

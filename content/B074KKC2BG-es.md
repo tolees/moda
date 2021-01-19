@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31AuiaEM9DL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074KKC2BG-es'
+slug: 'B074KKC2BG-es Crocs Classic Clog  Zuecos Unisex Adulto  Azul  Chambray Blue 44O   48/49 EU'
 actualPrice: 17.36 EUR
 currency: EUR
 price: 17.36

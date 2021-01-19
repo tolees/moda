@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41nGvw-D0pL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D2K2KN8-es'
+slug: 'B07D2K2KN8-es Levi s 510 Skinny Fit  Vaqueros para Hombre  Negro  Luther 4-way 0807   W28/L32'
 actualPrice: 32.83 EUR
 currency: EUR
 price: 32.83

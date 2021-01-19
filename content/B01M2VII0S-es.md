@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41odDu4UArL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M2VII0S-es'
+slug: 'B01M2VII0S-es Silicona De Enfermería De Dentición Lactancia Materna Collar De Mascar Para Bebé - rojo'
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

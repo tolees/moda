@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41JWoBzcXeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0798Q9WRZ-es'
+slug: 'B0798Q9WRZ-es Tommy Hilfiger Tommy Loves NY Beach Sandal  Chanclas para Mujer  Negro  Black 990   37 EU'
 actualPrice: 21.0 EUR
 currency: EUR
 price: 21.0

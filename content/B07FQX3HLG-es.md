@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41S0C1YuCzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FQX3HLG-es'
+slug: 'B07FQX3HLG-es Clarks Un Maui Lace  Zapatos de Cordones Derby para Mujer  Plateado  Pebble Metalic-   37 EU'
 actualPrice: 47.65 EUR
 currency: EUR
 price: 47.65

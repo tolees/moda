@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41EUIpZx7OL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZ2Q1CB-es'
+slug: 'B07MZ2Q1CB-es Vans Flying V Crew tee Camiseta  Negro  Black Blk   36  Talla del Fabricante: Small  para Mujer'
 actualPrice: 18.0 EUR
 currency: EUR
 price: 18.0

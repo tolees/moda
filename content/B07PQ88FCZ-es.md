@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41TFuHdWYOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PQ88FCZ-es'
+slug: 'B07PQ88FCZ-es Kipling Alvar  Bolso con Bandolera para Mujer  Dorado  Cloud Metal   33x26x4.5 centimeters  B x H x T '
 actualPrice: 58.55 EUR
 currency: EUR
 price: 58.55

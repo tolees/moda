@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/312B7Tl%2BYKL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FTWKJT8-es'
+slug: 'B07FTWKJT8-es Lee Brooklyn Straight Vaqueros para Hombre  Azul  Rinse Dp   42W / 34L'
 actualPrice: 50.21 EUR
 currency: EUR
 price: 50.21

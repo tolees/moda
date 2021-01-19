@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/419Ro4zAW1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0823CC1PW-es'
+slug: 'B0823CC1PW-es Jack & Jones T-Shirt Camiseta  Ajuste: Slim - Friday Tea Chinese Red  L para Hombre'
 actualPrice: 6.62 EUR
 currency: EUR
 price: 6.62

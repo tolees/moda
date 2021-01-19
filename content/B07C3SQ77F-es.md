@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31iL937xalL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C3SQ77F-es'
+slug: 'B07C3SQ77F-es Karrimor - Pantalón Corto Deportivo - para Hombre Negro L'
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

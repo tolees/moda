@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41xvETrmjgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JHWDJBG-es'
+slug: 'B07JHWDJBG-es PUMA Cup Training 1/4 Zip T Core Chaqueta De Entrenamiento  Hombre  Negro Black/Asphalt  XL'
 actualPrice: 21.76 EUR
 currency: EUR
 price: 21.76

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41+dsVuWc7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N39ZHGR-es'
+slug: 'B07N39ZHGR-es Ever-Pretty Vestido de Noche Gasa Cuello en V A-línea sin Mangas Corte Imperio para Mujer Morado Oscuro 50'
 actualPrice: 64.99 EUR
 currency: EUR
 price: 64.99

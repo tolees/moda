@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41BowP9ik9L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KSRNJ6T-es'
+slug: 'B07KSRNJ6T-es AnazoZ Acero Inoxidable Gemelos para Hombre Camisa Gemelos Partido Rosado Circonita Cúbica Arco Rectángulo 1.2x2CM'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

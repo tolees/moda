@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/318a-h8WqPL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F211GQG-es'
+slug: 'B07F211GQG-es Timberland Bradstreet Leather Sensorflex  Botas Chukka para Hombre  Verde  Dark Green Nubuck   42 EU'
 actualPrice: 70.0 EUR
 currency: EUR
 price: 70.0

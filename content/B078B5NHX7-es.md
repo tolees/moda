@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51AEtPwyO1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078B5NHX7-es'
+slug: 'B078B5NHX7-es KONXIDO Relojes Hombres Moda de Negocio Deportivo Reloj de Cuarzo con Pantalla de Fecha Reloj Impermeable Lujo para Negocios Clásicos con Correa de Cuero Genuina'
 actualPrice: 13.21 EUR
 currency: EUR
 price: 13.21

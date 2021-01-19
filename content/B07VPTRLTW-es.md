@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31J1oKmGmUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VPTRLTW-es'
+slug: 'B07VPTRLTW-es Izod Solid Logo Arch tee Camiseta  Blanco  Cloud Dancer 104   M para Hombre'
 actualPrice: 5.73 EUR
 currency: EUR
 price: 5.73

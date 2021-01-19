@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/419J0l0DhvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01J38VLYS-es'
+slug: 'B01J38VLYS-es Dim X-Temp Boxer X2 Culotte  Negro  Noir   2  Pack Hombre'
 actualPrice: 17.92 EUR
 currency: EUR
 price: 17.92

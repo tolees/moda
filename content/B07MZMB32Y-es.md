@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31QHpe9G97L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZMB32Y-es'
+slug: 'B07MZMB32Y-es Pepe Jeans Margaret Camiseta   Mousse 808   13-14 años  Talla del Fabricante: 13/14 años  para Niñas'
 actualPrice: 12.5 EUR
 currency: EUR
 price: 12.5

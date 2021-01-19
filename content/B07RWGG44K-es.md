@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41fHDcPjVWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RWGG44K-es'
+slug: 'B07RWGG44K-es Pepe Jeans Hatch Vaqueros Hombre Ajustados  Azul  Wiser Wash Med Used 000   W36/L30'
 actualPrice: 48.02 EUR
 currency: EUR
 price: 48.02

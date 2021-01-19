@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51SeuJzKD3L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PPTZ6BG-es'
+slug: 'B07PPTZ6BG-es Sexy Traje de baño de Dos Piezas para Mujer con Traje de baño con Estampado de Serpiente Bikini L-Rojo '
 actualPrice: 4.69 EUR
 currency: EUR
 price: 4.69

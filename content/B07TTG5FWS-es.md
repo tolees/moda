@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41tK-an8yDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TTG5FWS-es'
+slug: 'B07TTG5FWS-es QUEEN ROSE Almohada de Embarazo con Funda de Jersey  Almohada de Cuerpo Completo en Forma de L para Mujeres Embarazadas  Fucsia'
 actualPrice: 39.69 EUR
 currency: EUR
 price: 39.69

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41kI51ZRfhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B008NA3DXK-es'
+slug: 'B008NA3DXK-es Zotal - Parasital Collar Antiparasitario de 75 cm para perros grandes'
 actualPrice: 5.51 EUR
 currency: EUR
 price: 5.51

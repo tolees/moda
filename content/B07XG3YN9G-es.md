@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31y4MjeHOEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XG3YN9G-es'
+slug: 'B07XG3YN9G-es Sharplace Forma De Memoria Almohadillas De Copa Del Talón Cojines Zapatos Plantilla De Inserción Para Fascitis Plantar'
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

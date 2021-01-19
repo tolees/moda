@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41xJo4S6WJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N9CGYF8-es'
+slug: 'B07N9CGYF8-es Pepe Jeans West Sir Camiseta  Verde  Absynth 625   X-Small para Hombre'
 actualPrice: 20.59 EUR
 currency: EUR
 price: 20.59

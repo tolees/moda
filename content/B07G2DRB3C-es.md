@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31vwdmOT+FL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G2DRB3C-es'
+slug: 'B07G2DRB3C-es Marca Amazon - AURIQUE Printed - Chaqueta bomber Mujer  Negro  Black/Jester Red Print   42  Label:L'
 actualPrice: 10.67 EUR
 currency: EUR
 price: 10.67

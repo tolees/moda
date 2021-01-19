@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51X7pnxgX7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V5QPN9Z-es'
+slug: 'B07V5QPN9Z-es Tommy Hilfiger Hilfiger Maritime Beach Sandal  Sandalias con Punta Abierta para Hombre  Azul  Desert Sky Dw5   40 EU'
 actualPrice: 24.43 EUR
 currency: EUR
 price: 24.43

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/514xYuP+w8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079JY7ZXM-es'
+slug: 'B079JY7ZXM-es YAZILIND Moda joyería Exquisita Personalidad Simple Titanio Anillo de Acero tamaño 19 5'
 actualPrice: 1.79 EUR
 currency: EUR
 price: 1.79

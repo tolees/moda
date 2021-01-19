@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31vqoSsRihL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TJGGXLD-es'
+slug: 'B07TJGGXLD-es Superdry OL Vintage Emb Crew Camiseta  Verde  Desert Olive Space Dye T7n   XS para Hombre'
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

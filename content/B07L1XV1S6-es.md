@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/414yCb97JhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L1XV1S6-es'
+slug: 'B07L1XV1S6-es Under Armour Rival Fleece Sportstyle Logo Sudadera  Hombre  Gris  MD'
 actualPrice: 26.49 EUR
 currency: EUR
 price: 26.49

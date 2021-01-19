@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41hebK-LipL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L4MQ49C-es'
+slug: 'B07L4MQ49C-es Charles Wilson Camisa Manga Larga Popelina Lisa para Hombre  Small  Purple '
 actualPrice: 18.95 EUR
 currency: EUR
 price: 18.95

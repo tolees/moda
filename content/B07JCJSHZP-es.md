@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416zgEqya+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JCJSHZP-es'
+slug: 'B07JCJSHZP-es Columbia Carson Pass II Chaqueta Impermeable  Mujer  Verde  Olive Green   S'
 actualPrice: 60.66 EUR
 currency: EUR
 price: 60.66

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41bhoO5hsBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071VG7NX6-es'
+slug: 'B071VG7NX6-es Levi s The Perfect Tee  Camiseta para Mujer  Gris  Better Batwing Smokestack Smokestack Htr 263   Medium'
 actualPrice: 12.5 EUR
 currency: EUR
 price: 12.5

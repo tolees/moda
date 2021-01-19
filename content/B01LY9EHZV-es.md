@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41J9d8aJNfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LY9EHZV-es'
+slug: 'B01LY9EHZV-es IRIS & LILLY Braguita Brasileña Cotton para Mujer  Pack de 3  Multicolor  Grey Melange Bc   Medium'
 actualPrice: 8.33 EUR
 currency: EUR
 price: 8.33

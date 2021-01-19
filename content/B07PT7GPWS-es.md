@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41rEK5nqqIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PT7GPWS-es'
+slug: 'B07PT7GPWS-es Marca Amazon - MERAKI Jersey Cuello Cremallera Hombre  Verde  Khaki   M  Label: M'
 actualPrice: 21.85 EUR
 currency: EUR
 price: 21.85

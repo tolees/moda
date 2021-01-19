@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41Ln6Fv-x9L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B077Y8KLV1-es'
+slug: 'B077Y8KLV1-es HIKARO Sudadera con Capucha Hombre  Negro  Black   50  Talla del fabricante: Medium '
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

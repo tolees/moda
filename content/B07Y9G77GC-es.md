@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51tJlq9FniL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y9G77GC-es'
+slug: 'B07Y9G77GC-es CRZ YOGA Mujer Mallas Deportivo Pantalón Elastico para Running Fitness-71cm Leafy Multi 1 40'
 actualPrice: 18.0 EUR
 currency: EUR
 price: 18.0

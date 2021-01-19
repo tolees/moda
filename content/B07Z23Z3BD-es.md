@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31CzpLsXXzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z23Z3BD-es'
+slug: 'B07Z23Z3BD-es Vans Spicoli Flat Shades Gafas de Sol  Morado  Fuchsia Purple   50.0 para Hombre'
 actualPrice: 10.84 EUR
 currency: EUR
 price: 10.84

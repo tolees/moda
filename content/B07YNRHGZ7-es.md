@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31+c1pz7vTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YNRHGZ7-es'
+slug: 'B07YNRHGZ7-es Marca Amazon - find. High Heel Point Court Zapatos de tacón con Punta Cerrada  Braun  Caramel  Nude   36 EU'
 actualPrice: 4.52 EUR
 currency: EUR
 price: 4.52

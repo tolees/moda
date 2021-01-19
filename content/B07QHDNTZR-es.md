@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41KB5KOHS8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QHDNTZR-es'
+slug: 'B07QHDNTZR-es G-STAR RAW D-STAQ 3D Slim Vaqueros  Faded Quartz B604-A805  36W / 32L para Hombre'
 actualPrice: 56.06 EUR
 currency: EUR
 price: 56.06

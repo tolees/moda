@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41yUVyufUpL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K75QTZG-es'
+slug: 'B07K75QTZG-es Levi s SS tee Camiseta   Colorblock Quiet Shade/White/Dress BLU 0006   Large para Hombre'
 actualPrice: 15.95 EUR
 currency: EUR
 price: 15.95

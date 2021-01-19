@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41LVcFvdbSL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HB4XE6E-es'
+slug: 'B01HB4XE6E-es Bombers Original Berlin Chaqueta  Rot  Burgundy 5   40 para Mujer'
 actualPrice: 14.14 EUR
 currency: EUR
 price: 14.14

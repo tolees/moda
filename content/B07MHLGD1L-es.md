@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31lU4MgjHTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MHLGD1L-es'
+slug: 'B07MHLGD1L-es Adidas Adilette Comfort  Zapatos de Playa y Piscina para Hombre  Rojo  Red F34722   43 EU'
 actualPrice: 11.91 EUR
 currency: EUR
 price: 11.91

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4165k5bxnhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BP1LLPC-es'
+slug: 'B07BP1LLPC-es JACK & JONES JJIALVIN JJJACKET AKM 528 STS Chaqueta Vaquera  Gris  Aluminum Aluminum   L para Hombre'
 actualPrice: 25.0 EUR
 currency: EUR
 price: 25.0

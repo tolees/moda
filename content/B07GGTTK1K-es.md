@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41xO18nZjFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GGTTK1K-es'
+slug: 'B07GGTTK1K-es Battle Royale Pijama para Niños Gaming Multicolor 7-8 Años'
 actualPrice: 10.95 EUR
 currency: EUR
 price: 10.95

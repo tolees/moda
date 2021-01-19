@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31OMSAoi8RL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFTZTTW-es'
+slug: 'B07LFTZTTW-es Geox U KAVEN B  Zapatillas para Hombre  Negro  Black C9997   41 EU'
 actualPrice: 29.84 EUR
 currency: EUR
 price: 29.84

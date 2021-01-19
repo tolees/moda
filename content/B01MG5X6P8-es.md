@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41M0dufIv8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MG5X6P8-es'
+slug: 'B01MG5X6P8-es Lacoste TH6712 Camiseta  Gris  Argent Chine   Large  Talla del Fabricante: 5  para Hombre'
 actualPrice: 42.44 EUR
 currency: EUR
 price: 42.44

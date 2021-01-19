@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51tOa85y+SL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MC4DHVG-es'
+slug: 'B07MC4DHVG-es Hackett Mini Chk BS Camisa   Blue/White 5ar   Small para Hombre'
 actualPrice: 19.66 EUR
 currency: EUR
 price: 19.66

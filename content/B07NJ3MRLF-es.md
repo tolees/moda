@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41mreXqkseL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NJ3MRLF-es'
+slug: 'B07NJ3MRLF-es Springfield 4.2.T.Apuesta Cuadros Blusa  Multicolor  Multicolor 16   38  Tamaño del Fabricante: 38  para Mujer'
 actualPrice: 4.41 EUR
 currency: EUR
 price: 4.41

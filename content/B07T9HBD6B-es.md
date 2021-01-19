@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51UmjqI5dzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T9HBD6B-es'
+slug: 'B07T9HBD6B-es LIGE Hombres Relojes Moda Ocio Negocios Analógico Cuarzo Relojes Hombre Impermeable Acero Inoxidable Negro Cinturón de Malla Cronógrafo Relojes'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

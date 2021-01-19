@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41q-7v4FaEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TYCP1XW-es'
+slug: 'B07TYCP1XW-es Farchat Vestidos Mujer Suelto Casual de la Camiseta Cuello Redondo Vestido Azul Oscuro M'
 actualPrice: 11.62 EUR
 currency: EUR
 price: 11.62

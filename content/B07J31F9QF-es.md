@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41KgfoofpiL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J31F9QF-es'
+slug: 'B07J31F9QF-es Under Armour Play Up Short 2.0 Pantalón Corto  Mujer  Rosa  Pink Fog/Black 694   XS'
 actualPrice: 12.51 EUR
 currency: EUR
 price: 12.51

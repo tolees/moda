@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4103gT+bfHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M8L2YYD-es'
+slug: 'B07M8L2YYD-es Lee Chunky Knit Sudadera  Azul  Midnight Navy Ma   Large para Mujer'
 actualPrice: 14.35 EUR
 currency: EUR
 price: 14.35

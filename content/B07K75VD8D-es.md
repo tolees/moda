@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41jAA4i+LlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K75VD8D-es'
+slug: 'B07K75VD8D-es Levi s 510 Skinny Fit  Vaqueros para Hombre  Azul  Wobbegong Warp Cool 0869   W34/L34'
 actualPrice: 78.0 EUR
 currency: EUR
 price: 78.0

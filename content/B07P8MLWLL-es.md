@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31LBl-8lPrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P8MLWLL-es'
+slug: 'B07P8MLWLL-es Marca Amazon - find. Vestido Midi de Satén Mujer  Rojo  VALIANT POPPY   46  Label: XXL'
 actualPrice: 7.08 EUR
 currency: EUR
 price: 7.08

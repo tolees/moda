@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31v0alIbTAL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFYXWJ1-es'
+slug: 'B07LFYXWJ1-es Geox U Devan B  Mocasines para Hombre  Marrón  Browncotto C6003   43 EU'
 actualPrice: 35.95 EUR
 currency: EUR
 price: 35.95

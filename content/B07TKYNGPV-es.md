@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ChVXh6urL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TKYNGPV-es'
+slug: 'B07TKYNGPV-es Calvin Klein Ckj 026: Slim  West Cut  Vaqueros  Azul  Copenhagen Black 911   W32/L36  Talla del Fabricante: 3632  para Hombre'
 actualPrice: 32.69 EUR
 currency: EUR
 price: 32.69

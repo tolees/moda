@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/516q61AOW2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076HQ1VGT-es'
+slug: 'B076HQ1VGT-es Adidas CORE18 SW Top Sudadera  Hombre  Gris  Gris/Negro   L'
 actualPrice: 24.95 EUR
 currency: EUR
 price: 24.95

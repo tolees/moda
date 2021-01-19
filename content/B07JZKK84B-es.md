@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41NU6LSCqoL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JZKK84B-es'
+slug: 'B07JZKK84B-es Tommy Hilfiger Essential Basic Down Jacket Chaqueta   Blue 002   116  Talla del Fabricante: 6  para Niñas'
 actualPrice: 89.95 EUR
 currency: EUR
 price: 89.95

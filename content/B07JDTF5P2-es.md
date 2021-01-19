@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Ok6i057WL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JDTF5P2-es'
+slug: 'B07JDTF5P2-es Lacoste Sh6382 Sudadera  Azul  Marine 166   XX-Large  Talla del Fabricante: 7  para Hombre'
 actualPrice: 71.17 EUR
 currency: EUR
 price: 71.17

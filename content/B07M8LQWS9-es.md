@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31dAnbAblQL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M8LQWS9-es'
+slug: 'B07M8LQWS9-es Wrangler Logo Sweat Sudadera  Verde  Pine G01   Large para Mujer'
 actualPrice: 14.02 EUR
 currency: EUR
 price: 14.02

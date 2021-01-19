@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31LhJk7w5ML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TLTFR3S-es'
+slug: 'B07TLTFR3S-es Clarks Hero  Zapatos de Cordones Brogue para Mujer  Negro  Black Leather Black Leather   37 EU'
 actualPrice: 43.02 EUR
 currency: EUR
 price: 43.02

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41A9JOy8iML._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T4VDNHV-es'
+slug: 'B07T4VDNHV-es Nike Barcelona Camiseta  Hombre  Amarillo  2ª Equipación   M'
 actualPrice: 32.1 EUR
 currency: EUR
 price: 32.1

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41uFGd3vaSL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XBT1MQQ-es'
+slug: 'B07XBT1MQQ-es DANISH ENDURANCE Boxer Bambu Pack de 3  Negro  Medium '
 actualPrice: 16.95 EUR
 currency: EUR
 price: 16.95

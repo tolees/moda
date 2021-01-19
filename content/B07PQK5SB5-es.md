@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41HU9voDulL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PQK5SB5-es'
+slug: 'B07PQK5SB5-es SINOES Hombre 91-219 720 Caña Baja Gimnasia Ligero Transpirable Casuales Sneakers de Exterior y Interior Zapatillas Deporte Los Zapatos Corrientes de Carretera Azul 41 EU'
 actualPrice: 25.88 EUR
 currency: EUR
 price: 25.88

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31EED+aYSPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L2JZDYL-es'
+slug: 'B07L2JZDYL-es Columbia Silver Ridge II Cargo Short Pantalón Corto  Nailon  Hombre  Negro  Black   Talla US: W36/L12/  EU W46/L12 '
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

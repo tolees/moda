@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41iUeejHTpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SXSZCGQ-es'
+slug: 'B07SXSZCGQ-es Geox J ALBEN Boy C  Zapatillas para Niños  Azul  Navy/Red C0735   34 EU'
 actualPrice: 34.93 EUR
 currency: EUR
 price: 34.93

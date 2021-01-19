@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ptMzmP7TL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0734RJY2W-es'
+slug: 'B0734RJY2W-es find. Zapatos de Charol y Empeine Alto para Mujer  Rojo  Red   38 EU'
 actualPrice: 6.92 EUR
 currency: EUR
 price: 6.92

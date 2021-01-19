@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41UxlzDYESL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MK4T4FM-es'
+slug: 'B07MK4T4FM-es Jeerhope Guantes de limpieza de látex Fregadora para lavar platos Guantes de goma impermeables para el hogar 2 par  verde claro '
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

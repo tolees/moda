@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41eNeti8kmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NPJHWZF-es'
+slug: 'B07NPJHWZF-es Skechers Status 2.0 Pexton  Zapatos de Cordones Derby para Hombre  Negro  Black Canvas Black   39 EU'
 actualPrice: 29.04 EUR
 currency: EUR
 price: 29.04

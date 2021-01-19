@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/415Q9Vi5uXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MK333MR-es'
+slug: 'B07MK333MR-es Marca Amazon - MERAKI Shorts de Natación Hombre  Gris  Black/Charcoal   XL  Label: XL'
 actualPrice: 5.74 EUR
 currency: EUR
 price: 5.74

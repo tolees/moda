@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31fNOK-lY3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073RPC2S2-es'
+slug: 'B073RPC2S2-es Helly Hansen HH Tech Crew Camiseta Deportiva Manga Larga  Mujer  Light Grey  XS'
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

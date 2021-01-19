@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41i0stjygoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QW1N8RN-es'
+slug: 'B07QW1N8RN-es Helly Hansen Lifaloft Insulator Vest Chaleco Aislante  Hombre  Gris  Charcoal CA   S'
 actualPrice: 83.5 EUR
 currency: EUR
 price: 83.5

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/617JgcgvhYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QYVKNFH-es'
+slug: 'B07QYVKNFH-es MMTX Hawaiano Luau Falda de mesa  Decoración de fiesta tropical de 9.6FT con hojas de palma Flores hawaianas  adorno de pastel y pajitas de frutas 3D para decoraciones de mesa de fiesta Tiki de verano'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51qg8qE8gDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M7WHR4U-es'
+slug: 'B01M7WHR4U-es Tuc Tuc Paraguas People - Bolso'
 actualPrice: 25.77 EUR
 currency: EUR
 price: 25.77

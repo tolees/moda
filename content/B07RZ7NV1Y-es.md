@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31EMP6klXeL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RZ7NV1Y-es'
+slug: 'B07RZ7NV1Y-es SimpleLife Bolso de Mano/Bolso de Fiesta para el corazón de la Mujer Bolso de Fiesta Monederos Bolsos de Boda con Cadena y Anillo de asa'
 actualPrice: 14.65 EUR
 currency: EUR
 price: 14.65

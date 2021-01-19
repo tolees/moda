@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31tmkRJB51L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B018JT4UW2-es'
+slug: 'B018JT4UW2-es Levi s 200Sf Trunk 2P  Boxer para Hombre  Negro  Jet Black  Small  Tamaño del Fabricante:010   Pack de 2'
 actualPrice: 15.95 EUR
 currency: EUR
 price: 15.95

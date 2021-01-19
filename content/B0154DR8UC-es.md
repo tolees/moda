@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41ACYN6dbnL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0154DR8UC-es'
+slug: 'B0154DR8UC-es Hollywood Star Fashion Polo clásico de manga corta Jersey - Marrón -'
 actualPrice: 11.2 EUR
 currency: EUR
 price: 11.2

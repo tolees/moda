@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41xFVgdc72L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CML4ELA-es'
+slug: 'B01CML4ELA-es Valentino Rossi VRKFL353102001  Sudadera Responder Casco Sol E Luna Unisex Niños  Azul  1/3 Años'
 actualPrice: 16.76 EUR
 currency: EUR
 price: 16.76

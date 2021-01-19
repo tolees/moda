@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41FJYFpgEaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086WJLF66-es'
+slug: 'B086WJLF66-es Sandalias Mujer Planas Zapatillas Verano Chanclas con Hebilla Mules Zapatos Soporte del Arco Comodas Negro Talla 37 EU'
 actualPrice: 20.39 EUR
 currency: EUR
 price: 20.39

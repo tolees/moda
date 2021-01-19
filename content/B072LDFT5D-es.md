@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41N3KjeSqhL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072LDFT5D-es'
+slug: 'B072LDFT5D-es Lacoste TH6709  Camiseta para Hombre  Negro  Noir   XS  Talla del fabricante: 2 '
 actualPrice: 31.45 EUR
 currency: EUR
 price: 31.45

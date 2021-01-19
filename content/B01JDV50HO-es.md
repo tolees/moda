@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41TXBIAAT-L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01JDV50HO-es'
+slug: 'B01JDV50HO-es Timberland Killington  Botas Clasicas para Hombre  Beige  Wheat Nubuck 231   40 EU'
 actualPrice: 86.99 EUR
 currency: EUR
 price: 86.99

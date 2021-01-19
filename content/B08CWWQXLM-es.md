@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416z-7e5GXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CWWQXLM-es'
+slug: 'B08CWWQXLM-es Paoseven Us - Camiseta de manga corta  unisex  color negro Negro Negro   4 Años'
 actualPrice: 14.38 EUR
 currency: EUR
 price: 14.38

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51BNFLQp26L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SLZLQ1F-es'
+slug: 'B07SLZLQ1F-es Havaianas Ipe  Chanclas Unisex Adulto  Multicolor  Beige/Mineral Green 7853   35/36 EU'
 actualPrice: 12.76 EUR
 currency: EUR
 price: 12.76

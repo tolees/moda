@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31AVqUjEXUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LBNZPC2-es'
+slug: 'B07LBNZPC2-es Helly Hansen Moss Aislado 3-In-1 Forro Polar Interior Chaqueta Impermeable  Hombre  Navy  S'
 actualPrice: 66.96 EUR
 currency: EUR
 price: 66.96

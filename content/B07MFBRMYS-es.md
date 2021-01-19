@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41vU11QuhKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MFBRMYS-es'
+slug: 'B07MFBRMYS-es Kickers Oxfork  Zapatos de Cordones Derby para Mujer  Negro  Noir Perm 82   36 EU'
 actualPrice: 19.98 EUR
 currency: EUR
 price: 19.98

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51MOF5lkOaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S373JYH-es'
+slug: 'B07S373JYH-es Only & Sons Onsstorm Check Shirt 3599 Camisa  Multicolor  Cinnabar Cinnabar   Medium para Hombre'
 actualPrice: 23.74 EUR
 currency: EUR
 price: 23.74

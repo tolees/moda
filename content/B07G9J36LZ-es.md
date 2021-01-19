@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41kEZUp-CaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G9J36LZ-es'
+slug: 'B07G9J36LZ-es Joma Academy Camiseta Termica  Hombre  Rojo  S-M'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

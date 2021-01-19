@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416nviFWkJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S8PF8PN-es'
+slug: 'B07S8PF8PN-es PUMA Cali WN S  Zapatos Deportivos para Mujer  Negro Black White 18  36 EU'
 actualPrice: 58.27 EUR
 currency: EUR
 price: 58.27

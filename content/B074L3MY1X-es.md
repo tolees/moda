@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31NkbS5dJwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074L3MY1X-es'
+slug: 'B074L3MY1X-es SELECTED HOMME Shharo Ss Embroidery Polo Noos  Camiseta Polo Hombre  Gris  Gray Violet   S'
 actualPrice: 9.67 EUR
 currency: EUR
 price: 9.67

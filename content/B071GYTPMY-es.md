@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41Q1VbIXC1L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B071GYTPMY-es'
+slug: 'B071GYTPMY-es Lico Milan  Zapatos de High Rise Senderismo para Hombre  Negro Anthrazit/Orange  42 EU'
 actualPrice: 39.19 EUR
 currency: EUR
 price: 39.19

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51AaZr25KjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V3S9VSN-es'
+slug: 'B07V3S9VSN-es Zapatos de Seguridad para Hombre Zapatillas Zapatos de Mujer Seguridad de Acero Ligeras Calzado de Trabajo para Comodas Unisex Zapatos de Industria y Construcción Gris 35'
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

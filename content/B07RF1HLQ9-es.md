@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41kHqmKjVGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RF1HLQ9-es'
+slug: 'B07RF1HLQ9-es Under Armour Tech 2.0 Shortsleeve Camiseta Transpirable  Ancha Camiseta para Gimnasio de Manga Corta y Secado rápido  Hombre  Verde  XL'
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

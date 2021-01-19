@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Aa+ECig0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TSFC99C-es'
+slug: 'B07TSFC99C-es Wrangler Bryson Vaqueros Skinny  Azul  Light Glory 030   32W / 34L para Hombre'
 actualPrice: 38.45 EUR
 currency: EUR
 price: 38.45

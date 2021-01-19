@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41F7gyyvbqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PH3JYG3-es'
+slug: 'B07PH3JYG3-es Scalpers New Oxford BD - Camisa para Hombre  Talla 42  Color Verde Agua'
 actualPrice: 41.93 EUR
 currency: EUR
 price: 41.93

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41rNCmP4eZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0047TAOG0-es'
+slug: 'B0047TAOG0-es Crocs Crocband U  Zuecos Unisex Adulto  Marrón  Espresso-Khaki   37-38 EU'
 actualPrice: 25.34 EUR
 currency: EUR
 price: 25.34

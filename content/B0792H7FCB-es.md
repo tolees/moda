@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/318c4sBHjdL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0792H7FCB-es'
+slug: 'B0792H7FCB-es FITFLOP Gogh Moc Slide in Leather  Zapatos de Playa y Piscina para Hombre  Negro  Black 001   43 EU'
 actualPrice: 55.96 EUR
 currency: EUR
 price: 55.96

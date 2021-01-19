@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/410pxI+HUYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TLFMFZM-es'
+slug: 'B07TLFMFZM-es Levi s Housemark Graphic tee Camiseta  Verde  Hm Ssnl Emb Aloe 0250   XXX-Large para Hombre'
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

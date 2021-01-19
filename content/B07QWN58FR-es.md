@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31g1bJjR1sL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QWN58FR-es'
+slug: 'B07QWN58FR-es Under Armour  UNDKU Coldgear Rush Camisa De Manga Larga  Hombre  Negro  SM'
 actualPrice: 25.81 EUR
 currency: EUR
 price: 25.81

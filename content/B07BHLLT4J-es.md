@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51MokqLyevL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BHLLT4J-es'
+slug: 'B07BHLLT4J-es Bolso de Alforja de Bicicleta Bolso Impermeable de Viajero de Totalizador de Camión Parte Posterior Estante Impermeable Desmontable con Correa de Hombro'
 actualPrice: 13.19 EUR
 currency: EUR
 price: 13.19

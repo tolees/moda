@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41oyDB4Mc8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QC6JTCY-es'
+slug: 'B07QC6JTCY-es BOYOU gafas de sol polarizadas de los hombres gafas de sol de verano al aire libre gafas de sol para los hombres'
 actualPrice: 21.98 EUR
 currency: EUR
 price: 21.98

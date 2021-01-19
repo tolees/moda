@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31lbqxywlAL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VT2D3PZ-es'
+slug: 'B07VT2D3PZ-es Hawiton Camison Sexy Mujer Corto Camison de Dormir Satín para Novia Camisón Mujer Seda Verano Camisones Sexy Vestido Tallas Grandes  Ligero y Suave'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

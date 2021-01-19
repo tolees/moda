@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41nYMaQljJL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JMCYPHB-es'
+slug: 'B07JMCYPHB-es Lee Scarlett  Vaqueros Mujer  Azul  Pine Cone Eg   24W / 33L'
 actualPrice: 8.67 EUR
 currency: EUR
 price: 8.67

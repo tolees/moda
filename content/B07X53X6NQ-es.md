@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41BiF2wTGWL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X53X6NQ-es'
+slug: 'B07X53X6NQ-es J.Rosée Caja de Organizador de joyería de Viaje pequeña para Anillos Pendientes Collar  Estuche de Almacenamiento de joyería portátil con Espejo Incorporado  Azul Marino'
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

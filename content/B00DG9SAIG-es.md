@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41r7UFdEWoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00DG9SAIG-es'
+slug: 'B00DG9SAIG-es Keen Newport H2  Sandalias de Senderismo Infantil  Negro  Black/Lime Green   24 EU'
 actualPrice: 17.95 EUR
 currency: EUR
 price: 17.95

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31CPoAd39DL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V8WC9WY-es'
+slug: 'B07V8WC9WY-es JACK & JONES Jprwetford Parka STS  Negro  Black Black   Large para Hombre'
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

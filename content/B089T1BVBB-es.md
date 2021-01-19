@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41pjzOlBvlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089T1BVBB-es'
+slug: 'B089T1BVBB-es Geographical Norway Parka Revolution Lady 100 Laguna/Amarillo 1'
 actualPrice: 69.3 EUR
 currency: EUR
 price: 69.3

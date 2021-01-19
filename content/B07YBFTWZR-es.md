@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41LBCSt9QCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YBFTWZR-es'
+slug: 'B07YBFTWZR-es Vans Print Box Camiseta  Azul  Dress Blue Trap Floral Ykb   Large para Hombre'
 actualPrice: 20.51 EUR
 currency: EUR
 price: 20.51

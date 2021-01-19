@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31pmro-eNUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TKDNG7Z-es'
+slug: 'B07TKDNG7Z-es Levi s Crewneck 1 Camiseta  Azul  2pk Slim Crew Dress Blues X Riverside S 0009   Small  Pack de 2  para Hombre'
 actualPrice: 21.03 EUR
 currency: EUR
 price: 21.03

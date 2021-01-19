@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51keW69CFpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P3GBH7L-es'
+slug: 'B07P3GBH7L-es LIGE La Moda Relojes Hombre Negocios Impermeable Cuarzo simulado Reloj Fase Lunar Negro Acero Inoxidable Cinturón de Malla Relojes de Pulsera'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

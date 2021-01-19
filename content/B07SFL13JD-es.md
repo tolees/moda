@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/312lt5JNdyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SFL13JD-es'
+slug: 'B07SFL13JD-es Calvin Klein Ckj 026 Vaqueros Slim  Azul  Stay Black 911   30W / 34L para Hombre'
 actualPrice: 24.18 EUR
 currency: EUR
 price: 24.18

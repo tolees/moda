@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51JJbibLlWL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N4WW7X8-es'
+slug: 'B07N4WW7X8-es Tommy Jeans Tjw Tommy Fairisle Sweater Sudadera  Blanco  White Yap   Small para Mujer'
 actualPrice: 64 EUR
 currency: EUR
 price: 64

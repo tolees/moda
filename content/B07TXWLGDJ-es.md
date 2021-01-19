@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31YabJ7YvoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TXWLGDJ-es'
+slug: 'B07TXWLGDJ-es Kipling Izellah  Bolso con Bandolera para Mujer  Blanco  White Metallic   33x23x12 cm'
 actualPrice: 56.77 EUR
 currency: EUR
 price: 56.77

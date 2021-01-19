@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41WGY02KjSL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JBZ3XP1-es'
+slug: 'B07JBZ3XP1-es Columbia Powder Lite Jacket Chaqueta  Hombre  Amarillo  Burnished Amber/Shark   L'
 actualPrice: 54.95 EUR
 currency: EUR
 price: 54.95

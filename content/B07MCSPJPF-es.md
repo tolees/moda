@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41raPjzrgqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MCSPJPF-es'
+slug: 'B07MCSPJPF-es Napapijri Rainforest Winter 1 Chaqueta  Marrón  Golden Brown Nc1   L para Hombre'
 actualPrice: 57.73 EUR
 currency: EUR
 price: 57.73

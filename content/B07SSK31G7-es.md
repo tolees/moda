@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41xyoXesW3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SSK31G7-es'
+slug: 'B07SSK31G7-es Geox D Borealis A  Sandalia con Pulsera para Mujer  Azul  Sage C3016   39 EU'
 actualPrice: 33.96 EUR
 currency: EUR
 price: 33.96

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/410lsOircHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SSJ5G8Q-es'
+slug: 'B07SSJ5G8Q-es Geox B Tutim B  Zapatillas para Bebés  Azul  Navy/Royal C4226   23 EU'
 actualPrice: 31.83 EUR
 currency: EUR
 price: 31.83

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51adobigJNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DFCNXB5-es'
+slug: 'B07DFCNXB5-es URAQT Bolsos de Mujer  Bolso Señora Tote Baratos  PU Piel Bolso de Hombro Mujers del Trabajo  Diario Vida y Vacaciones  Rojo'
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

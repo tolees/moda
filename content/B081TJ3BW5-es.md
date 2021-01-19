@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Kw47912uL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081TJ3BW5-es'
+slug: 'B081TJ3BW5-es BENYAR Cronógrafo de Cuero de Moda Relojes Impermeables de Acero Inoxidable Mapa Diseño Deportivo Reloj de Pulsera Deportivo Casual para Hombre'
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

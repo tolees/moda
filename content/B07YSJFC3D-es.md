@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/318YEM8NmcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YSJFC3D-es'
+slug: 'B07YSJFC3D-es Marca Amazon - IRIS & LILLY Sporty Cotton - Braguita Mujer  Rosa  Nstlgrose/Sftpnk   XXL  Label: XXL'
 actualPrice: 10.49 EUR
 currency: EUR
 price: 10.49

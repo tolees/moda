@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ARCeBg3UL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RV4KW3W-es'
+slug: 'B07RV4KW3W-es Marca Amazon - find. Divan Botas Clasicas  Marrón Wood Brown  41 EU'
 actualPrice: 14.96 EUR
 currency: EUR
 price: 14.96

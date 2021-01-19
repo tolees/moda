@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31dVkoVIVdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01AFO9DT4-es'
+slug: 'B01AFO9DT4-es Diesel UMTEE-JAKETHREEPACK  Camiseta para Hombre  Multicolor  Black/White/Grey 01/0aalw   S  Pack de 3'
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

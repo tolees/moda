@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41C6PffHsqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WWYG46V-es'
+slug: 'B07WWYG46V-es Dickies Horseshoe tee Men Camiseta  Verde  Mint MIN   Large para Hombre'
 actualPrice: 14.9 EUR
 currency: EUR
 price: 14.9

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/410UnE-4dSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S5M3V8G-es'
+slug: 'B07S5M3V8G-es BOSS Balance LS-Shirt RN Camiseta  Rojo  Dark Red 608   Large para Hombre'
 actualPrice: 14.58 EUR
 currency: EUR
 price: 14.58

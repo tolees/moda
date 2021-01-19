@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Esv6hLKiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N5DUW72-es'
+slug: 'B01N5DUW72-es G-STAR RAW Eyben Slim V T Wmn S/s Camiseta  Blanco  White 110   40  Talla del fabricante: Large  para Mujer'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

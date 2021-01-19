@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31wQh92pnLL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0797SHWJD-es'
+slug: 'B0797SHWJD-es Lacoste CH4976 Camisa  Azul  Hemisphere   Small  Talla del Fabricante: 38  para Hombre'
 actualPrice: 36.61 EUR
 currency: EUR
 price: 36.61

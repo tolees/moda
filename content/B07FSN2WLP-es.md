@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31kfaXIQM%2BL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FSN2WLP-es'
+slug: 'B07FSN2WLP-es Rockport Dress Sport 2 Fast FLT Plain Toe  Zapatos de Cordones Derby para Hombre  Negro  41 EU'
 actualPrice: 35.63 EUR
 currency: EUR
 price: 35.63

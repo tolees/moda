@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31MAZPacZzL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YCYMBPC-es'
+slug: 'B07YCYMBPC-es Carrera 213 003 52 - Gafas de ventisca'
 actualPrice: 109.25 EUR
 currency: EUR
 price: 109.25

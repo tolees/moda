@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41g8k+KB1aL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KF5T2TB-es'
+slug: 'B07KF5T2TB-es Levi s 502 Regular Taper Vaqueros  Azul  Adriatico Adapt 0473   31W / 34L para Hombre'
 actualPrice: 31.55 EUR
 currency: EUR
 price: 31.55

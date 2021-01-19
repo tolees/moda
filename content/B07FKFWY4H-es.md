@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/317BDcaHWtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FKFWY4H-es'
+slug: 'B07FKFWY4H-es Nike Sunray Adjust 5  GS/PS   Zapatos de Playa y Piscina para Niños  Negro  Black/White 001   35 EU'
 actualPrice: 11.51 EUR
 currency: EUR
 price: 11.51

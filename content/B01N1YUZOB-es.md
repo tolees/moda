@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/414CzFOakoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N1YUZOB-es'
+slug: 'B01N1YUZOB-es Timberland Adventure Seeker 2 Strap  Sandalias de Punta Descubierta Unisex Niños  Negro Navy  34 EU'
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

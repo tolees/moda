@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31T2hqXS27L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PBWCMS5-es'
+slug: 'B07PBWCMS5-es find. Vaqueros Ceñidos de Tiro Medio Mujer  Blanco  White   32W / 32L  Label: 32W / 32L'
 actualPrice: 21.0 EUR
 currency: EUR
 price: 21.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/315ryYreNpL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000VX4XFO-es'
+slug: 'B000VX4XFO-es Timberland 6 Inch Premium Waterproof  Botas para Hombre  Negro  Black Full Grain   41 EU'
 actualPrice: 156.95 EUR
 currency: EUR
 price: 156.95

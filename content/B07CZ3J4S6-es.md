@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/3161qRaSrAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CZ3J4S6-es'
+slug: 'B07CZ3J4S6-es PUMA Epic Flip V2  Chanclas Unisex-Adulto  Rosa  Winsome Orchid White 26   46 EU'
 actualPrice: 15.04 EUR
 currency: EUR
 price: 15.04

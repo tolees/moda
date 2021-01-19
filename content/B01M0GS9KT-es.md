@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41UQWIrfOEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M0GS9KT-es'
+slug: 'B01M0GS9KT-es Skechers Reggae Slim-Vacay  Sandalias de Talón Abierto para Mujer  Marrón  Chocolate Duraleather/Webbing   38 EU'
 actualPrice: 38.47 EUR
 currency: EUR
 price: 38.47

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41snBa70KFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001BEAX3I-es'
+slug: 'B001BEAX3I-es Calvin Klein 3P Trunk  Bóxer para Hombre  Blanco  M   Pack de 3 '
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

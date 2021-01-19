@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/416EXIeac1L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B076ZF1GTW-es'
+slug: 'B076ZF1GTW-es IRIS & LILLY  Camiseta de Manga Larga para Mujer  Gris  Grey Marl   Medium'
 actualPrice: 8.5 EUR
 currency: EUR
 price: 8.5

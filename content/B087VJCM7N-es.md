@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41nRr1Vot3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087VJCM7N-es'
+slug: 'B087VJCM7N-es Columbia Pouring Adventure Chaqueta para Hombre  Azul  Bright Indigo  Collegiate Navy   L'
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

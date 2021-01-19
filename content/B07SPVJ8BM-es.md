@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41mrjtH6GXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SPVJ8BM-es'
+slug: 'B07SPVJ8BM-es SINOES 270 Zapatillas Deporte Hombres Running Zapatos Hombre Deportivos Casuales Zapatillas Running Hombre Auriculares Correr en Asfalto Calzado Deportivo Hombre'
 actualPrice: 23.88 EUR
 currency: EUR
 price: 23.88

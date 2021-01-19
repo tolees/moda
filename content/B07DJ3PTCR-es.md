@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31UX8G5RnuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DJ3PTCR-es'
+slug: 'B07DJ3PTCR-es Geox D Jaysen A  Zapatillas para Mujer  Blanco  White C1000   37 EU'
 actualPrice: 87.2 EUR
 currency: EUR
 price: 87.2

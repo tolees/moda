@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41E+eiUS2OL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VS52LPT-es'
+slug: 'B07VS52LPT-es Lee Luke Vaqueros Slim  Azul  Dark Stonewash 46   W27/L32  Talla del Fabricante: 27/32  para Hombre'
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

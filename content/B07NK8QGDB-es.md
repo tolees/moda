@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41da8VBurGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NK8QGDB-es'
+slug: 'B07NK8QGDB-es Strellson Premium Allen Chaqueta de Traje  Gris  Grey 045   56  Talla del Fabricante: 54  para Hombre'
 actualPrice: 51.58 EUR
 currency: EUR
 price: 51.58

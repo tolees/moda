@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41fQ0gFXw4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08C51X7NH-es'
+slug: 'B08C51X7NH-es Mini Mango clásico de Cuerda con Inserto de Lona Bolsa Impermeable Bolsa para Bolso Obag Accesorios para Bolso Femenino - Caqui'
 actualPrice: 6.8 EUR
 currency: EUR
 price: 6.8

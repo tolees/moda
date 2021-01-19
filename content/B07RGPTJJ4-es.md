@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41cvS2F9eBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RGPTJJ4-es'
+slug: 'B07RGPTJJ4-es Tommy Hilfiger Modern T Shirt Bra Sujetador para Camiseta  Rosa  Pale Blush 612   K  Talla del Fabricante: D70  para Mujer'
 actualPrice: 25.19 EUR
 currency: EUR
 price: 25.19

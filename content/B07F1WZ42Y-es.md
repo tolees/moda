@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41yopfpQtLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F1WZ42Y-es'
+slug: 'B07F1WZ42Y-es Timberland Adventure Seeker  Toddler   Sandalias de Punta Descubierta 2 Strap Unisex-Niños  Gris Dark Grey  24 EU'
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

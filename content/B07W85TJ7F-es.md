@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413+TC-bQ6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W85TJ7F-es'
+slug: 'B07W85TJ7F-es Springfield 3.T.Blusa Cruzada Bordado-C/96 Blusa  Beige  Ivory 96   40  Tamaño del Fabricante: 40  para Mujer'
 actualPrice: 8.12 EUR
 currency: EUR
 price: 8.12

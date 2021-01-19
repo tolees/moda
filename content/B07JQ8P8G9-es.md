@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31bpF0BN82L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JQ8P8G9-es'
+slug: 'B07JQ8P8G9-es Jack & Jones Jjiglenn Jjoriginal Am 814 Noos Vaqueros Slim  Azul  Blue Denim Blue Denim   W32/L30  Talla del Fabricante: 32  para Hombre'
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41GOOhwgiOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MSRO1KK-es'
+slug: 'B01MSRO1KK-es NIZZIN Francine Camisa  Negro  Black   Small'
 actualPrice: 3.6 EUR
 currency: EUR
 price: 3.6

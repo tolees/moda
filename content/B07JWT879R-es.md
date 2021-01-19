@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Y0r0lwknL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JWT879R-es'
+slug: 'B07JWT879R-es Bolso Bandolera Harry Potter'
 actualPrice: 13.8 EUR
 currency: EUR
 price: 13.8

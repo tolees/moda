@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41R+P2TGtxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VTN76SK-es'
+slug: 'B07VTN76SK-es Only Onlbeccy Crop7/8 Faux Leather Jacket Otw Chaqueta  Negro  Black Black   Small  Talla del Fabricante: 36  para Mujer'
 actualPrice: 24.84 EUR
 currency: EUR
 price: 24.84

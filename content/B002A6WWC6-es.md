@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31MsiKHPD9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002A6WWC6-es'
+slug: 'B002A6WWC6-es Havaianas Slim Chanclas Mujer  Oro  SandGrey/Light Golden   37/38 EU'
 actualPrice: 19.15 EUR
 currency: EUR
 price: 19.15

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51wmGEAVxGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZPR8LL-es'
+slug: 'B07MZPR8LL-es Pepe Jeans Nadia Sudadera   Grey Marl 933   17-18 años de Edad  Talla del Fabricante: 17/18 años  para Niñas'
 actualPrice: 16.77 EUR
 currency: EUR
 price: 16.77

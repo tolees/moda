@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31xis9S6SHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TMRKP82-es'
+slug: 'B07TMRKP82-es Clarks Ronnie Walk  Zapatos de Cordones Derby  Marrón  Tan Leather Tan Leather   42 EU'
 actualPrice: 32.97 EUR
 currency: EUR
 price: 32.97

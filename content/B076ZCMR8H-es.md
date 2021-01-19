@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/317QneTnE3L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B076ZCMR8H-es'
+slug: 'B076ZCMR8H-es TRUTH & FABLE 13842 vestido dama de honor mujer  Rosa  Bridal Rose   36  Talla del Fabricante: X-Small '
 actualPrice: 18 EUR
 currency: EUR
 price: 18

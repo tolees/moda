@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41FLSwSYlmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V33VDQG-es'
+slug: 'B07V33VDQG-es BOSS Boxer Brief 3p Co  Multicolor  Open Miscellaneous 963   Small  Pack de 3  para Hombre'
 actualPrice: 25.2 EUR
 currency: EUR
 price: 25.2

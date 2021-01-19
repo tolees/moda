@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/513kNr7OrRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GNH5ZZW-es'
+slug: 'B07GNH5ZZW-es Mujer Hombres Zapatos de Senderismo al Aire Libre Zapatos de Escalada Zapatillas de montaña Ideal para Deportes Caminar Caza atlético Grey 39 EU'
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

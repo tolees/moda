@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31k8B48RfyL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0014C5UVM-es'
+slug: 'B0014C5UVM-es Crocs Classic Clog  Zuecos Unisex Adulto  Azul  Navy 410   48/49 EU'
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

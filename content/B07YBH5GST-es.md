@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41JD4gZ7zfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YBH5GST-es'
+slug: 'B07YBH5GST-es Vans Colorblock tee Camiseta  Multicolor  Sulphur Spring/Black Ynd   Medium para Hombre'
 actualPrice: 12.5 EUR
 currency: EUR
 price: 12.5

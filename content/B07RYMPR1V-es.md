@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41cP-hzrbLL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RYMPR1V-es'
+slug: 'B07RYMPR1V-es Levi s Down Dehon Pkbl Puffer Chaqueta  Negro  Mineral Black 0000   XX-Large para Hombre'
 actualPrice: 62.36 EUR
 currency: EUR
 price: 62.36

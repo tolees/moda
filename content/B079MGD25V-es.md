@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31tYy6+IQwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079MGD25V-es'
+slug: 'B079MGD25V-es Marca Amazon - MERAKI Camiseta de Manga Corta de Corte Estándar Hombre  Blanco  Optic White   L  Label: L'
 actualPrice: 8.24 EUR
 currency: EUR
 price: 8.24

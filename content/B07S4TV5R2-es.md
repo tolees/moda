@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/311+hYwnQlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S4TV5R2-es'
+slug: 'B07S4TV5R2-es Levi s 724 High Rise Straight Vaqueros  Azul  Los Angeles Steeze 0076   W32/L30  Talla del Fabricante: 32 30  para Mujer'
 actualPrice: 50.39 EUR
 currency: EUR
 price: 50.39

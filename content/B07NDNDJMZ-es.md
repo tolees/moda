@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41666U-jAaL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NDNDJMZ-es'
+slug: 'B07NDNDJMZ-es G-STAR RAW Vodan Padded Hooded Parka  Negro  Dk Black 6484   Medium para Hombre'
 actualPrice: 139.95 EUR
 currency: EUR
 price: 139.95

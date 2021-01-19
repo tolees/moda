@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31yp52XL0dL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SMTM3ZG-es'
+slug: 'B07SMTM3ZG-es Burton Elite Camiseta  Hombre  True Black  S'
 actualPrice: 17.44 EUR
 currency: EUR
 price: 17.44

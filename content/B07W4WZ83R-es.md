@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41pQROATczL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W4WZ83R-es'
+slug: 'B07W4WZ83R-es Springfield Brocha-c/70 Camiseta  Rosa  Pink 70   L  Tamaño del Fabricante: L  para Hombre'
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

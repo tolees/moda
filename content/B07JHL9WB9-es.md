@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41lGzsttjcL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JHL9WB9-es'
+slug: 'B07JHL9WB9-es Columbia WAYFINDER  Zapatos Multideporte para Mujer  Negro  Black  Coral 010   37 EU'
 actualPrice: 30.31 EUR
 currency: EUR
 price: 30.31

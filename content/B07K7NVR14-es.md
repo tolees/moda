@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41N5E43Fi5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K7NVR14-es'
+slug: 'B07K7NVR14-es Levi s 311 Shaping Skinny Vaqueros  Middle Grey  28W / 32L para Mujer'
 actualPrice: 49.5 EUR
 currency: EUR
 price: 49.5

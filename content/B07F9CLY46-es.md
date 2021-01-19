@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21v0lXpeRWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F9CLY46-es'
+slug: 'B07F9CLY46-es Superdry Label Vntge Emb S/S tee Camiseta de Tirantes  Blanco  Optic White 26C   Small para Hombre'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

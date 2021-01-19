@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41GwiaLjI-L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RFYRTYJ-es'
+slug: 'B07RFYRTYJ-es G-STAR RAW Graphic 13 Sudadera  Azul  Sartho Blue 6067   X-Large para Hombre'
 actualPrice: 39.97 EUR
 currency: EUR
 price: 39.97

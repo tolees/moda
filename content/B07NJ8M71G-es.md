@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Gs5UNA3WL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NJ8M71G-es'
+slug: 'B07NJ8M71G-es Springfield 7.J.Ap.T.Turtle Neck Jersey  Azul  Azul 19   Large  Tamaño del Fabricante: L  para Mujer'
 actualPrice: 7.27 EUR
 currency: EUR
 price: 7.27

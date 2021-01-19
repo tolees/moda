@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51aLuzPgIoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088KG2LBV-es'
+slug: 'B088KG2LBV-es WeciBor Calcetines cortos Mujer Estampados Mujer Ocasionales Calcetines Divertidos Impresos de Algodón de Pintura de Arte Calcetines Verano Tobillo Calcetines de Colores de moda  EUR 37-43  ESB062-25 '
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

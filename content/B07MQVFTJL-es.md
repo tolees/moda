@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/316c-WTX-nL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MQVFTJL-es'
+slug: 'B07MQVFTJL-es Napapijri Rainforest Pocket Chaqueta  Amarillo  Yellow Lime YA2   S para Hombre'
 actualPrice: 119.74 EUR
 currency: EUR
 price: 119.74

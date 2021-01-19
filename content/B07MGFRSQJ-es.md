@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416x7fC4StL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MGFRSQJ-es'
+slug: 'B07MGFRSQJ-es Napapijri Aric Chaqueta  Negro  Black 041   XXL para Hombre'
 actualPrice: 97.4 EUR
 currency: EUR
 price: 97.4

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41iRzW5nVlL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L3G9RGT-es'
+slug: 'B07L3G9RGT-es Tommy Hilfiger Flatform Sandal Tommy Pastel  Sandalias con Plataforma para Mujer  Azul  Aqua Haze 447   40 EU'
 actualPrice: 27.16 EUR
 currency: EUR
 price: 27.16

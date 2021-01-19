@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-3OpzW2wL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BFW14D2-es'
+slug: 'B07BFW14D2-es Kayhan Hombre Camisa  TwoFace Grey L'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

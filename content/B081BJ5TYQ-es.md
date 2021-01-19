@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41gfN6sN4yL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081BJ5TYQ-es'
+slug: 'B081BJ5TYQ-es Columbia Powder Pass Chaqueta con Capucha  Mujer  Naranja  Bold Orange   M'
 actualPrice: 36.97 EUR
 currency: EUR
 price: 36.97

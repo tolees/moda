@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41D2rg0T6aL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YL9SQWJ-es'
+slug: 'B07YL9SQWJ-es s.Oliver 03.899.32.5264 Camiseta  Rojo  Red 3185   Medium para Hombre'
 actualPrice: 7.49 EUR
 currency: EUR
 price: 7.49

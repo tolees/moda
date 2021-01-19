@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Aeqz4gyzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SQGPTF4-es'
+slug: 'B07SQGPTF4-es Geox U Renan B  Zapatillas para Hombre  Gris  Grey C1006   41 EU'
 actualPrice: 59.9 EUR
 currency: EUR
 price: 59.9

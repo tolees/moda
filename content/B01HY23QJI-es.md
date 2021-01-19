@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31KSZCEhtAL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HY23QJI-es'
+slug: 'B01HY23QJI-es Lee Rider Jeans Vaqueros  Black Rinse Yc47  31W / 30L para Hombre'
 actualPrice: 44.95 EUR
 currency: EUR
 price: 44.95

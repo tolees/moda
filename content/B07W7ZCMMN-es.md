@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41vz5eZ3bAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W7ZCMMN-es'
+slug: 'B07W7ZCMMN-es Jack & Jones Jcofranklin Sweat Hood Sudadera con Capucha  Multicolor  Sky Captain Detail: Melange/JJ Print   M para Hombre'
 actualPrice: 8.21 EUR
 currency: EUR
 price: 8.21

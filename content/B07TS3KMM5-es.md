@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31tBrkKoFvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TS3KMM5-es'
+slug: 'B07TS3KMM5-es Levi s Selma Dress Vestido  Blanco  Faint Heart  2  0001   Medium para Mujer'
 actualPrice: 35.04 EUR
 currency: EUR
 price: 35.04

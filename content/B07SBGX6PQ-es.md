@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31-83tES6TL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SBGX6PQ-es'
+slug: 'B07SBGX6PQ-es Lee Austin Vaqueros Tapered  Azul  Mission Clean Zg   29W / 32L para Hombre'
 actualPrice: 25.07 EUR
 currency: EUR
 price: 25.07

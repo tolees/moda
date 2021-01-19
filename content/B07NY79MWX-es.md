@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41y7cjxZw-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NY79MWX-es'
+slug: 'B07NY79MWX-es Superdry Ashley Everest Parka  Gris  Grey 05q   42  Talla del Fabricante: Large  para Mujer'
 actualPrice: 59.86 EUR
 currency: EUR
 price: 59.86

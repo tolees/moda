@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41yeGKT51jL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D5VCJ2Q-es'
+slug: 'B07D5VCJ2Q-es Puma ESS Logo tee Camiseta Deportiva  Mujer  Blanco White  S'
 actualPrice: 13.64 EUR
 currency: EUR
 price: 13.64

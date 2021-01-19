@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41wJcKu1MNL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JCJ3JD4-es'
+slug: 'B07JCJ3JD4-es Columbia Powder Lite Chaqueta De Plumón con Capucha  Mujer  Rosa  Dusty Pink   S'
 actualPrice: 53.43 EUR
 currency: EUR
 price: 53.43

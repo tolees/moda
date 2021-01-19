@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31ze40jBkiL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XMLH36W-es'
+slug: 'B07XMLH36W-es AURIQUE BAL1178 Leggings Deporte Mujer  Morado  Nightshade/White   36'
 actualPrice: 18.7 EUR
 currency: EUR
 price: 18.7

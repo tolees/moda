@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41rU92IOppL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XPVZW4Z-es'
+slug: 'B07XPVZW4Z-es YOSICIL Niñas Disfraz Anna Frozen Elsa con Capa Traje de Princesa Disfraz Princesa Accesorios con Corona Anillo Collar Pendientes Fancy Dress Traje Parte Vestido de Fiesta Infantil 3-10 Años'
 actualPrice: 21.74 EUR
 currency: EUR
 price: 21.74

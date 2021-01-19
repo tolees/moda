@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31FmZcFhEWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S3WYX2W-es'
+slug: 'B07S3WYX2W-es Asics Classic CT  Zapatos de Baloncesto para Hombre  Negro  Black/White 001   46.5 EU'
 actualPrice: 22.58 EUR
 currency: EUR
 price: 22.58

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41HNMa+ZGKL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071WLR3LJ-es'
+slug: 'B071WLR3LJ-es Crocs Crocband U  Zuecos Unisex Adulto  Amarillo  Tennis Ball Green-Ocean   41-42 EU'
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41MwynXMj4L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NBWFWVF-es'
+slug: 'B07NBWFWVF-es BOSS Trunk 3p One Design Bóxer   Open Miscellaneous 960   Small  Pack de 3 para Hombre'
 actualPrice: 16.17 EUR
 currency: EUR
 price: 16.17

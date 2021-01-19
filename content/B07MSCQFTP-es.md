@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51tEQyhXbBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MSCQFTP-es'
+slug: 'B07MSCQFTP-es TWBB Camiseta Hombre Cordon de Cuero Vintage Patchwork con Capucha Manga Larga'
 actualPrice: 1.28 EUR
 currency: EUR
 price: 1.28

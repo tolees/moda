@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417O5V19HIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S11SM2J-es'
+slug: 'B07S11SM2J-es Only Frsfloyd Training Brushed Sweat-Unit Sudadera Deportiva  Rojo  Tomato Tomato   Large para Hombre'
 actualPrice: 22.0 EUR
 currency: EUR
 price: 22.0

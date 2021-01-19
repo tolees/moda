@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Zf7jNvgbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MV52F4S-es'
+slug: 'B07MV52F4S-es TWBB Pantalón Casual de Camuflaje para Hombre'
 actualPrice: 1.98 EUR
 currency: EUR
 price: 1.98

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61T7gsCtI5L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RM4SH3R-es'
+slug: 'B07RM4SH3R-es Mochila Casual Moda LOL'
 actualPrice: 18.0 EUR
 currency: EUR
 price: 18.0

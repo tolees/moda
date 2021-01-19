@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41hvmXWLBfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TJXNRCK-es'
+slug: 'B07TJXNRCK-es Lacoste Sport Sh4899 Sudadera  Azul  Methylene/Noir-Blanc P14   Small  Talla del Fabricante: 3  para Hombre'
 actualPrice: 54.95 EUR
 currency: EUR
 price: 54.95

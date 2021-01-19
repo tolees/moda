@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31D4gNmc6aL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFYXXJC-es'
+slug: 'B07LFYXXJC-es Geox U Adrien A  Zapatos de Cordones Derby para Hombre  Negro  Black C9999   46 EU'
 actualPrice: 52.2 EUR
 currency: EUR
 price: 52.2

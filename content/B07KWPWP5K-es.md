@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41e9zJkW6DL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KWPWP5K-es'
+slug: 'B07KWPWP5K-es Bolsa de Deporte Hombre Bolsas Gimnasio Mujer de Grande Viaje Impermeable con Compartimento para Zapatos Bolsos Deportivos Bolsa Fin de Semana Travel Duffle Bag para Hombres 45l Negra'
 actualPrice: 29.86 EUR
 currency: EUR
 price: 29.86

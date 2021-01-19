@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41arbxeYZgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LF8RNGR-es'
+slug: 'B07LF8RNGR-es Levi s Type 3 Chaqueta Vaquera  Azul  Miracle Sauce Sherpa Trucker 0103   Large para Hombre'
 actualPrice: 69.17 EUR
 currency: EUR
 price: 69.17

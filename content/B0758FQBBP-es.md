@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41jtvatPgrL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0758FQBBP-es'
+slug: 'B0758FQBBP-es Clarks Garratt Lace  Zapatos de Cordones Derby para Hombre  Azul  Navy Nubuck-   44 EU'
 actualPrice: 39.5 EUR
 currency: EUR
 price: 39.5

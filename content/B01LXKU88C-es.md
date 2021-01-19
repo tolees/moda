@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31qi9LcPK7L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LXKU88C-es'
+slug: 'B01LXKU88C-es Trango Sieber Complet Chaqueta  Hombre  Rojo  Rojo Fuego   2XL'
 actualPrice: 178.49 EUR
 currency: EUR
 price: 178.49

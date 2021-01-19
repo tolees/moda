@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31nIwbwNQbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V8V58BT-es'
+slug: 'B07V8V58BT-es Tommy Hilfiger Feminine Leather Low Wedge  Chanclas para Mujer  Negro  Black Bds   41 EU'
 actualPrice: 60.28 EUR
 currency: EUR
 price: 60.28

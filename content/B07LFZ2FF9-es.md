@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41HbZsm3GrL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFZ2FF9-es'
+slug: 'B07LFZ2FF9-es Geox J INEK Girl B  Zapatillas Altas para Niñas  Negro  Black C9999   28 EU'
 actualPrice: 52.49 EUR
 currency: EUR
 price: 52.49

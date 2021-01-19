@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31mnTHlkrQL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S2DLXQ9-es'
+slug: 'B07S2DLXQ9-es Only Onlnew Lucca Parka Jacket Otw  Azul  Night Sky Night Sky   38  Talla del Fabricante: Small  para Mujer'
 actualPrice: 21.06 EUR
 currency: EUR
 price: 21.06

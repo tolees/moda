@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41yGM3KqEPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JWQWGV8-es'
+slug: 'B07JWQWGV8-es Pepe Jeans Track Pm201100 Vaqueros Straight   Black Used Gymdigo Denim We2   W30/L34 para Hombre'
 actualPrice: 56.49 EUR
 currency: EUR
 price: 56.49

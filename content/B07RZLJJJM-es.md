@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41PvXl3FnhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RZLJJJM-es'
+slug: 'B07RZLJJJM-es Levi s 501 Original Fit Jeans Pantalón Vaquero con diseño clásico y cómodos de Usar  Azul  Key West Sky Tnl 2991   32W / 30L para Hombre'
 actualPrice: 43.39 EUR
 currency: EUR
 price: 43.39

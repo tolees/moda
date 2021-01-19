@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/414SC3yBoGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M8S16YJ-es'
+slug: 'B07M8S16YJ-es Geox U Snake.2 A  Zapatillas para Hombre  Marrón  Cigar/Dk Avio C6l4k   39 EU'
 actualPrice: 56.95 EUR
 currency: EUR
 price: 56.95

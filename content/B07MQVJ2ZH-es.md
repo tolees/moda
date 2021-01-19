@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41AXamRTTuL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MQVJ2ZH-es'
+slug: 'B07MQVJ2ZH-es Napapijri Rainforest W WINT 3 Chaqueta  Amarillo  Yellow Lime YA2   M para Mujer'
 actualPrice: 84.49 EUR
 currency: EUR
 price: 84.49

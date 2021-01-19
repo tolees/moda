@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41VD0ky9aRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SVP2D4D-es'
+slug: 'B07SVP2D4D-es Geox J Alben Boy D  Zapatillas para Niños  Gris  Grey/Yellow C0030   36 EU'
 actualPrice: 24.45 EUR
 currency: EUR
 price: 24.45

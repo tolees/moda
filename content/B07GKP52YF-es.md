@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31F9zZfae5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GKP52YF-es'
+slug: 'B07GKP52YF-es Ever-Pretty Vestido de Noche Gasa Un Hombro Corte Imperio Plisado sin Mangas para Mujer Negro 54'
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

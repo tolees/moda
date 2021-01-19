@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/518eBS3xXUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MWZNRF6-es'
+slug: 'B07MWZNRF6-es KATOOM Zapatilla fregona 3 Pares Limpiar Polvo Microfibra Zapatilla con 15pcs Zapato de Funda desechable de Zapatilla mopa casa o'
 actualPrice: 11.97 EUR
 currency: EUR
 price: 11.97

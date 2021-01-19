@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/518O2KPp4SL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QWQ5J9Z-es'
+slug: 'B07QWQ5J9Z-es LIGE Relojes de Pulsera para Hombre Impermeable con Fecha Moda Clasicos Analógico Cuarzo Relojes de Hombre Azul'
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

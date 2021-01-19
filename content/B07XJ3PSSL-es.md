@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41nbkZY9JCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XJ3PSSL-es'
+slug: 'B07XJ3PSSL-es Artesania Cerda Largo AC/DC Conjuntos de pijama  Gris  Gris 13   L para Hombre'
 actualPrice: 18.28 EUR
 currency: EUR
 price: 18.28

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41FP3GnOd3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VTG7VJ4-es'
+slug: 'B07VTG7VJ4-es Bolso RIÑONERA Lion King'
 actualPrice: 9.16 EUR
 currency: EUR
 price: 9.16

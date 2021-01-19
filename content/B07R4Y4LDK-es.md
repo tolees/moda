@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41e6HwR8KLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R4Y4LDK-es'
+slug: 'B07R4Y4LDK-es Columbia Flash Forward  Chaqueta cortavientos  Mujer  Rosa  Cedar Blush/Peach Cloud   M'
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

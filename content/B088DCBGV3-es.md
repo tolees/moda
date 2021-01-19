@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41eHWDTabNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088DCBGV3-es'
+slug: 'B088DCBGV3-es Gafas de Natación y Gorro de Natacion Para Hombres Mujeres Mujer Adultos Jóvenes Niños  Nadar Antiempañado y Anti Rayos UV  Ideal para Todo Tipo de Agua  Piscina  Deportes Acuáticos  Negro 2 '
 actualPrice: 9.86 EUR
 currency: EUR
 price: 9.86

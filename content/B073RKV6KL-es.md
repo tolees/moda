@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31+NezrFANL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073RKV6KL-es'
+slug: 'B073RKV6KL-es Adidas Adilette Comfort  Zapatos de Playa y Piscina para Hombre  Negro  Core Black/Footwear White/Core Black 0   43 EU'
 actualPrice: 11.01 EUR
 currency: EUR
 price: 11.01

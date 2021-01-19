@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31sgPPohazL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B079DRTLGS-es'
+slug: 'B079DRTLGS-es Anna Smith Bolso de embrague con correa  Bolso de noche de embrague de sobre con correa de cadena extraíble Boda Bolso de fiesta de graduación con bolsillo de luz rosa'
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

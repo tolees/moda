@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31C0wYMiTRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PYYLSRY-es'
+slug: 'B07PYYLSRY-es Under Armour UA M Ignite Vi SL  Zapatos de Playa y Piscina para Hombre  Negro  Black/Black/White   42.5 EU'
 actualPrice: 27.23 EUR
 currency: EUR
 price: 27.23

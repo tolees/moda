@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31-fMZS6P7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06W9G8PD2-es'
+slug: 'B06W9G8PD2-es adidas Adilette Shower Chanclas Hombre  Blanco  Footwear White/Core Black/Footwear White 0   42 EU  8 UK '
 actualPrice: 19.96 EUR
 currency: EUR
 price: 19.96

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31h02twcDLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QTL7ZS2-es'
+slug: 'B07QTL7ZS2-es Tommy Hilfiger Boys Basic Cn Knit L/s Camiseta  Blanco  Bright White 123   Talla única  Talla del Fabricante: 74  para Niños'
 actualPrice: 15.95 EUR
 currency: EUR
 price: 15.95

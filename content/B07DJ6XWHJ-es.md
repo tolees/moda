@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41g0YgRezSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DJ6XWHJ-es'
+slug: 'B07DJ6XWHJ-es Geox U Leitan B  Zapatos de Cordones Derby para Hombre  Marrón  Brown C0013   40 EU'
 actualPrice: 36.98 EUR
 currency: EUR
 price: 36.98

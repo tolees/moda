@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41WEhyGM1hL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M5F5VY9-es'
+slug: 'B07M5F5VY9-es Wrangler Larston Vaqueros  Ice Flow  32W / 34L para Hombre'
 actualPrice: 47.48 EUR
 currency: EUR
 price: 47.48

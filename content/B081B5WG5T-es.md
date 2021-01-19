@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51QQvpXJjaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081B5WG5T-es'
+slug: 'B081B5WG5T-es Columbia Triple Canyon Camisa de Manga Corta  Hombre  Azul  Azul Mini Tonal Plaid   S'
 actualPrice: 24.49 EUR
 currency: EUR
 price: 24.49

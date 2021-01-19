@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Lj9zE+mGL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CHYN9F8-es'
+slug: 'B07CHYN9F8-es El Naturalista N5401 Dolce DOVELA  Botines para Mujer  Negro  Black Black   41 EU'
 actualPrice: 96.0 EUR
 currency: EUR
 price: 96.0

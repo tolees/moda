@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41S9Py7xgfL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01JZMQE3U-es'
+slug: 'B01JZMQE3U-es Timberland Killington  Botas Unisex Niños  Beige  Wheat Nubuck 231   39 EU'
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

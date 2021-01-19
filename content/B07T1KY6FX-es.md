@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51JvKFtjOIL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T1KY6FX-es'
+slug: 'B07T1KY6FX-es Tikea Bolsa Geométrica Luminosa Holográfica para Mujer  Bolsa Cruzada de Moda en Cuero Sintético  Bandolera con Manilla Reversible Efecto Reflectante'
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

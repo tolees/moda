@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31jwBhSVSSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002LTY7UM-es'
+slug: 'B002LTY7UM-es Lacoste L1212 Camiseta Polo  Verde  Vert   L para Hombre'
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

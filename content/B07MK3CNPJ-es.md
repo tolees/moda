@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41pmEJ86HiL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MK3CNPJ-es'
+slug: 'B07MK3CNPJ-es GANT D1.Winter TWI Buffalo Check Reg BD Camisa  Azul  Vintage Blue 442   Medium para Hombre'
 actualPrice: 52.59 EUR
 currency: EUR
 price: 52.59

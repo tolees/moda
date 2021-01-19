@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/314mCZrghwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z9P8MH9-es'
+slug: 'B07Z9P8MH9-es O NEILL LM Arrowhead T-Shirt Camiseta Manga Corta para Hombre  Hombre  Scale  S'
 actualPrice: 9.83 EUR
 currency: EUR
 price: 9.83

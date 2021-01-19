@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31zDVxfaSpL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CN4H1LN-es'
+slug: 'B07CN4H1LN-es Crocs Classic Clog Kids Roomy fit  Zuecos Unisex niños  Azul  Pool 40m   19/20 EU'
 actualPrice: 19.8 EUR
 currency: EUR
 price: 19.8

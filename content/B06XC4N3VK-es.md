@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41YQLmZEaVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XC4N3VK-es'
+slug: 'B06XC4N3VK-es Pepe Jeans Kingston Zip  Vaqueros Regular para Hombre  Azul  11Oz Streaky Stretch Dk Z45   W33/L36'
 actualPrice: 46.99 EUR
 currency: EUR
 price: 46.99

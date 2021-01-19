@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51r4aiNwBWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D7KLCK5-es'
+slug: 'B07D7KLCK5-es Hierro sobre papel de transferencia para tela oscura  Magic Paper  de Raimarket | 10 hojas | A4 Transferencia de hierro para inyección de tinta en papel / camiseta'
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

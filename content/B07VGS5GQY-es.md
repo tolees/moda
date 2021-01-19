@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/415a-hhIUlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VGS5GQY-es'
+slug: 'B07VGS5GQY-es Esprit 099EE1G091 Chaqueta  Negro  Black 001   XS para Mujer'
 actualPrice: 24.68 EUR
 currency: EUR
 price: 24.68

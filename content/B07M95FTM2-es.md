@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ui4LL8srL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M95FTM2-es'
+slug: 'B07M95FTM2-es Lee Trend Fit Tee  Camiseta para Hombre  Blanco  Bright White Lj   Small'
 actualPrice: 6.43 EUR
 currency: EUR
 price: 6.43

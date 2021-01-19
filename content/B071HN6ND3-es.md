@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/415WiEJdDuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071HN6ND3-es'
+slug: 'B071HN6ND3-es Tommy Hilfiger Bikini  Azul  Navy Blazer 416   38  Talla del Fabricante: MD  para Mujer'
 actualPrice: 13.95 EUR
 currency: EUR
 price: 13.95

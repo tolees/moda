@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41CqFO5xJRL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B075XN2R1L-es'
+slug: 'B075XN2R1L-es Emily Bridal Zapatos Nupciales De Mujer satén Sedoso Tacón Ancho Salón con Encaje Flor Crystal Perla  EU42  Beige '
 actualPrice: 44.9 EUR
 currency: EUR
 price: 44.9

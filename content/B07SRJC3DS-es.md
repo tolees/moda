@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Ci1RVrvYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SRJC3DS-es'
+slug: 'B07SRJC3DS-es Geox B Djrock Girl A  Zapatillas para Bebés  Plateado  Silver/Fuchsia C0162   23 EU'
 actualPrice: 15.61 EUR
 currency: EUR
 price: 15.61

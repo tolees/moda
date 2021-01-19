@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ZZHGCYCLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BHMCZW0-es'
+slug: 'B01BHMCZW0-es El Naturalista NF82  Botines para Mujer  Negro  Black 000   36 EU'
 actualPrice: 38.78 EUR
 currency: EUR
 price: 38.78

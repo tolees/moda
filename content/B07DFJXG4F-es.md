@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ru1ZE6eVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DFJXG4F-es'
+slug: 'B07DFJXG4F-es Crocs LiteRide Clog  Zuecos Unisex Adulto  Negro  Black/Smoke 05m   46/47 EU'
 actualPrice: 35.67 EUR
 currency: EUR
 price: 35.67

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51mOTXMIgwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083FGZYYW-es'
+slug: 'B083FGZYYW-es HOMESPON Bolsa Isotérmica de Almuerzo Top-Open Lunch Bag Bolsa Térmica Porta Alimentos Tela Impermeable Plegable Bolso de Mano para Mujeres  Adultos  Estudiantes y Niños'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

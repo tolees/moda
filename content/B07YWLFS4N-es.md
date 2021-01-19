@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41v+0f+XS1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YWLFS4N-es'
+slug: 'B07YWLFS4N-es Gafas de Lectura Magnéticas Plegables para Hombre y Mujer +2.00 55-59 años  Presbicia Vista Montura Regulable Colgar del Cuello y Cierre con Imán  Rojo'
 actualPrice: 9.69 EUR
 currency: EUR
 price: 9.69

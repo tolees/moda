@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41EY9EltaeL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MLSSWWV-es'
+slug: 'B07MLSSWWV-es Clarks - Botines de Cuero Hombre  Color Gris  Talla 40 EU'
 actualPrice: 45.31 EUR
 currency: EUR
 price: 45.31

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41rL+5MFcZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RP47FS4-es'
+slug: 'B07RP47FS4-es Tommy Hilfiger New TH ESS Hilfiger C-nk tee SS Camiseta  Rosa  Pink TZ8   90  Talla del Fabricante: XX-Small  para Mujer'
 actualPrice: 27.79 EUR
 currency: EUR
 price: 27.79

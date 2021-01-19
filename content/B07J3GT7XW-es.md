@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-3qbvwtWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J3GT7XW-es'
+slug: 'B07J3GT7XW-es Under Armour UA Streaker 2.0 Longsleeve Camiseta de Manga Larga  Hombre  Gris  LG'
 actualPrice: 25.07 EUR
 currency: EUR
 price: 25.07

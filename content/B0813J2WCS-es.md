@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/316w7cS1VNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0813J2WCS-es'
+slug: 'B0813J2WCS-es Marca Amazon - find. Strippy Wedge Espadrille Sandalias con cuña Tipo Alpargatas  Negro  Black   41 EU'
 actualPrice: 9.14 EUR
 currency: EUR
 price: 9.14

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41WSRfS9elL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S8Y8LFT-es'
+slug: 'B07S8Y8LFT-es Helly Hansen W HH Logo Hoodie Sudadera con Capucha  Mujer  Alert Red  L'
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

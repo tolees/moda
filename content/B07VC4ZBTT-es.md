@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31aYRX3V4GL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VC4ZBTT-es'
+slug: 'B07VC4ZBTT-es Calvin Klein Monogram Sweater Sudadera  Blanco  CK Black 0k4   X-Small para Hombre'
 actualPrice: 35.59 EUR
 currency: EUR
 price: 35.59

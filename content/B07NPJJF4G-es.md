@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51CmtWb0yyL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NPJJF4G-es'
+slug: 'B07NPJJF4G-es LARNMERN Zapatos de Seguridad para Hombre con Puntera de Acero  LM-123  Zapatillas de Seguridad Trabajo  Calzado de Industrial y Deportiva  43.5 EU  Gris '
 actualPrice: 46.99 EUR
 currency: EUR
 price: 46.99

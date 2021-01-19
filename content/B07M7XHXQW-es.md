@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31dXV719ZBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M7XHXQW-es'
+slug: 'B07M7XHXQW-es G-STAR RAW 3301 Slim Vaqueros  Light Indigo Aged 8968-8436  25W / 34L para Hombre'
 actualPrice: 13.83 EUR
 currency: EUR
 price: 13.83

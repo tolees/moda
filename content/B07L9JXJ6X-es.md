@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31C-LpjAIVL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L9JXJ6X-es'
+slug: 'B07L9JXJ6X-es Under Armour Coldgear Reactor Performance Hybrid Chaqueta  Hombre  Gris  XXL'
 actualPrice: 125.97 EUR
 currency: EUR
 price: 125.97

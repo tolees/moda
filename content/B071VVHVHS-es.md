@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/318rxymUySL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071VVHVHS-es'
+slug: 'B071VVHVHS-es Crocs Classic Clog  Zuecos Unisex Adulto  Azul  Tropical Teal 3N9   42/43 EU'
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

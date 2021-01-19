@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41F629jyTIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V44LMBF-es'
+slug: 'B07V44LMBF-es Salomon Coton Logo SS tee M Camiseta de Manga Corta  Hombre  Azul  Fjord Blue/Night Sky   S'
 actualPrice: 21.0 EUR
 currency: EUR
 price: 21.0

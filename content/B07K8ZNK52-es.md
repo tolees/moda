@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31uU2VSW9kL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K8ZNK52-es'
+slug: 'B07K8ZNK52-es Crocs Classic Lined Clog  Zuecos Unisex Adulto  Rojo  Burgundy/Burgundy 60u   36/37 EU'
 actualPrice: 33.16 EUR
 currency: EUR
 price: 33.16

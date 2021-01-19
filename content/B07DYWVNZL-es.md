@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41avXn9lodL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DYWVNZL-es'
+slug: 'B07DYWVNZL-es Columbia Pantalón Impermeable para Hombre  Maxtrail II Walking Trousers  Marrón  Peatmoss  Mosstone   W30/L32'
 actualPrice: 50.99 EUR
 currency: EUR
 price: 50.99

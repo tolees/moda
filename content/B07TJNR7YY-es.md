@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41gJ6RWJfvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TJNR7YY-es'
+slug: 'B07TJNR7YY-es Clarks Leisa Faye  Sandalias Punta Cerrada para Mujer  Rojo  Red Leather Red Leather   38 EU'
 actualPrice: 38.95 EUR
 currency: EUR
 price: 38.95

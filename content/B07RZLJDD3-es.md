@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ojFFBQi6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RZLJDD3-es'
+slug: 'B07RZLJDD3-es Levi s Barstow Western Standard Camisa  Azul  Archer Cloud Dancer 0007   Medium para Hombre'
 actualPrice: 34.5 EUR
 currency: EUR
 price: 34.5

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413pxWBm5CL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VVRBNYD-es'
+slug: 'B07VVRBNYD-es Pepe Jeans Garrett Sudadera con Capucha  Rojo  Brick 262   Large para Hombre'
 actualPrice: 25.6 EUR
 currency: EUR
 price: 25.6

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31qG7vrIYVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01GTMHWE4-es'
+slug: 'B01GTMHWE4-es Uvex Sportstyle Gafas de seguridad - Protección laboral - Transparente'
 actualPrice: 11.14 EUR
 currency: EUR
 price: 11.14

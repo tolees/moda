@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41FauQHx5wL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B082MPQXK4-es'
+slug: 'B082MPQXK4-es Geographical Norway Parka Hombre Boomerang Camo Azul Marino L'
 actualPrice: 79.2 EUR
 currency: EUR
 price: 79.2

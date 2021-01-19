@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31YY-mjz1aL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07THW895R-es'
+slug: 'B07THW895R-es Lacoste TF5441 Camiseta  Blanco  Blanc   34 para Mujer'
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

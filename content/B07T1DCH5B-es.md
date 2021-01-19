@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31cD7K9tT4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T1DCH5B-es'
+slug: 'B07T1DCH5B-es Timberland Newport Bay Bumper Toe Oxford  Zapatillas para Mujer  Blanco White Canvas  38.5 EU'
 actualPrice: 21.72 EUR
 currency: EUR
 price: 21.72

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416xYiUcOvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0776XXJ6D-es'
+slug: 'B0776XXJ6D-es Tommy Hilfiger Original Rib Camisa  Negro  Tommy Black 078   X-Small para Hombre'
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

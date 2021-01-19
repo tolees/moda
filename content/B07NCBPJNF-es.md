@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/416xGpYYCVL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NCBPJNF-es'
+slug: 'B07NCBPJNF-es Pepe Jeans Elia Camiseta  Negro  Black 999   Medium para Mujer'
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

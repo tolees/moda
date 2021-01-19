@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31MXAZiedVL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073ZW37FK-es'
+slug: 'B073ZW37FK-es GANT The Oxford Shirt Reg BD Camiseta Deporte  Blanco  White   XXX-Large para Hombre'
 actualPrice: 62.15 EUR
 currency: EUR
 price: 62.15

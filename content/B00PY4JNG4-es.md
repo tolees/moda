@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41h5SSWvtpL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00PY4JNG4-es'
+slug: 'B00PY4JNG4-es KRISP 6488-BLK-18  Vestido Corto Fruncido Busto  Negro  6488   46'
 actualPrice: 12.49 EUR
 currency: EUR
 price: 12.49

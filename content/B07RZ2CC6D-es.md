@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41cg5XeXTdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RZ2CC6D-es'
+slug: 'B07RZ2CC6D-es BILLABONG Tendencies Zip Hood Sudadera  Amarillo  Mustard 54   One Size  Tamaño del Fabricante: XL  para Hombre'
 actualPrice: 15.29 EUR
 currency: EUR
 price: 15.29

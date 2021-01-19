@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411asAQrHDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TYVVR86-es'
+slug: 'B07TYVVR86-es Wrangler Bryson Vaqueros Skinny  Azul  Game On 12e   30W / 32L para Hombre'
 actualPrice: 42.48 EUR
 currency: EUR
 price: 42.48

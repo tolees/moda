@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Eg1DRHSML._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q5PFFPJ-es'
+slug: 'B07Q5PFFPJ-es Perfectmiaoxuan Gafas de sol para hombre mujer polarizadas/Ciclismo El golf Conducción Pescar Alpinismo Gafas vintage/Deportes al aire libre gafas de sol de playa UV400  blue '
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

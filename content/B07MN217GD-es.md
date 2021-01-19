@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51EKT1qCRML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MN217GD-es'
+slug: 'B07MN217GD-es MTNG Collection 50037  Sandalias con Punta Cerrada para Mujer  Rojo  Strips Rojo C45245   39 EU'
 actualPrice: 22.0 EUR
 currency: EUR
 price: 22.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41srJQhjrJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SRKBHRR-es'
+slug: 'B07SRKBHRR-es Geox D Airell C  Zapatillas para Mujer  Blanco  White C1000   35 EU'
 actualPrice: 39.34 EUR
 currency: EUR
 price: 39.34

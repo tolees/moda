@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51hsOmLQt2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00MXV963Q-es'
+slug: 'B00MXV963Q-es NNJXD Falda de Chicas con Volante de Encaje Vestidos de Boda y Fiesta Talla  120  4-5 Años Rosa'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

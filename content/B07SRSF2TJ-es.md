@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Woz+bDbRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SRSF2TJ-es'
+slug: 'B07SRSF2TJ-es Geox D Genova Moc A  Mocasines para Mujer  Azul  Navy C4002   39 EU'
 actualPrice: 46.16 EUR
 currency: EUR
 price: 46.16

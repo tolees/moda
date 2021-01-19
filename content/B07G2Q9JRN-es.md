@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41MDPLsTKJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G2Q9JRN-es'
+slug: 'B07G2Q9JRN-es Levi s Graphic Set-in Neck  Camiseta para Hombre  Negro  Levis Logo Black 0427   2XS'
 actualPrice: 17.56 EUR
 currency: EUR
 price: 17.56

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41P05ymhY-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VPQR958-es'
+slug: 'B07VPQR958-es Calvin Klein Braguita de Bikini  Gris  Elementary Stars Grey Shadow EGS    Talla del Fabricante: Medium  para Mujer'
 actualPrice: 5.02 EUR
 currency: EUR
 price: 5.02

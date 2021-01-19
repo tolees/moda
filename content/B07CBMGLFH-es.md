@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51WiTxF1sqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CBMGLFH-es'
+slug: 'B07CBMGLFH-es Showu Camisetas Niños Manga Larga Camisa Pantalones Set of Ropa 100% Algodón  Short Set/Excavadora  4-5 años '
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

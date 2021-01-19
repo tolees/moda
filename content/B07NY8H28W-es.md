@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31lTjRX3gdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NY8H28W-es'
+slug: 'B07NY8H28W-es Art Harlem  Botines para Mujer  Marrón  Brown/Brown Brown/Brown   39 EU'
 actualPrice: 29.71 EUR
 currency: EUR
 price: 29.71

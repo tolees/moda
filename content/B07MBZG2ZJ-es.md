@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4161nI7xNLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MBZG2ZJ-es'
+slug: 'B07MBZG2ZJ-es LEVIS  Mini Crossbody Vegan No Horse Pull -  Bolso de hombro para Hombre  Negro  15 x 6 x 22 cm'
 actualPrice: 13.16 EUR
 currency: EUR
 price: 13.16

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Egz42sqsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VD4DF6R-es'
+slug: 'B07VD4DF6R-es Calvin Klein Instit Chest Logo Reg tee Camiseta  Rojo  Fiery Red Xa7   Medium para Hombre'
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98

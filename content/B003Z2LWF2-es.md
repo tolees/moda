@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41JVVXcbMYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003Z2LWF2-es'
+slug: 'B003Z2LWF2-es CATWALK COLLECTION - CAZ - Bolso estilo shopper - Cuero - Negro'
 actualPrice: 79.95 EUR
 currency: EUR
 price: 79.95

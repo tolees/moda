@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41NLPdNz60L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SSJ938Z-es'
+slug: 'B07SSJ938Z-es Geox J Borealis Boy B  Sandalias Punta Cerrada para Niños  Negro  Black/Sky C9221   32 EU'
 actualPrice: 28.53 EUR
 currency: EUR
 price: 28.53

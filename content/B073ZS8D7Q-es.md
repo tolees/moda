@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41t2pV8s87L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073ZS8D7Q-es'
+slug: 'B073ZS8D7Q-es GANT The Oxford Shirt Reg BD Camisa  Rojo  Light Pink 662   Small para Hombre'
 actualPrice: 67.45 EUR
 currency: EUR
 price: 67.45

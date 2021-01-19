@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41uIisDZNPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079JQR6G6-es'
+slug: 'B079JQR6G6-es NIKE M Nk Dry Acdmy18 Top SS Camiseta de Manga Corta  Hombre  lt Green Spark/Pine Green/ White '
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

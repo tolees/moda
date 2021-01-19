@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41957tCNMvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZCXSN5K-es'
+slug: 'B07ZCXSN5K-es Cartera Mujer Cuero Auténtico Bloqueo RFID Billetera Mujer Monedero Piel con Bolsillo Cremallera de Actualización con Caja de Regalo  100% Cuero auténtico - Negro '
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41PuehzXdUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06ZZHLFC2-es'
+slug: 'B06ZZHLFC2-es Cressi Beach Portofino Chanclas  Unisex Adulto  Verde/Azul  42'
 actualPrice: 9.59 EUR
 currency: EUR
 price: 9.59

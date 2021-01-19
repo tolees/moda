@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41RxmE+GOHL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KKWLWR5-es'
+slug: 'B07KKWLWR5-es Nike M Breathe Academy SS Gx2 Camiseta  Hombre  Amarillo  OPTI Yellow/Anthracite   S'
 actualPrice: 7.15 EUR
 currency: EUR
 price: 7.15

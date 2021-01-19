@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31dnHNzdGIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K1BK4SF-es'
+slug: 'B07K1BK4SF-es GRACE KARIN Mujer Bolero Chaqueta Corta Suave Cómodo Vintage Elegante Ceremonia Fiesta Beige S'
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

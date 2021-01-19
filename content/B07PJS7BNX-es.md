@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411CtdgizxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PJS7BNX-es'
+slug: 'B07PJS7BNX-es Tous New Essence  Bolso bandolera para Mujer  Multicolor  Mostaza Topo 995900793   28x19x10 cm  W x H x L '
 actualPrice: 78.34 EUR
 currency: EUR
 price: 78.34

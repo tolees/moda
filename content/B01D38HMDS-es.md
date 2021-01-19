@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41c0NahVYiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01D38HMDS-es'
+slug: 'B01D38HMDS-es Ultrasport Chaqueta multifuncional de hombre Endy con Ultraflow 3.000  ligera y transpirable; por este motivo  ideal como chaqueta de correr  de entrenamiento o de ciclismo  impermeable y resistente al viento  Negro  L'
 actualPrice: 19.12 EUR
 currency: EUR
 price: 19.12

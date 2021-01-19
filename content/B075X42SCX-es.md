@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41IDvmE-axL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075X42SCX-es'
+slug: 'B075X42SCX-es Marca Amazon - find. Vaqueros Rectos de Tiro Alto Tobilleros Mujer  Azul  Indigo Rinse   31W / 32L  Label: 31W / 32L'
 actualPrice: 7.01 EUR
 currency: EUR
 price: 7.01

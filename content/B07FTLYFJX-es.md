@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41nAclRmcKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FTLYFJX-es'
+slug: 'B07FTLYFJX-es RAZAMAZA Mujer Tacón Ancho Bombas Zapatos Plataforma Flores White Size 38 Asian'
 actualPrice: 21.98 EUR
 currency: EUR
 price: 21.98

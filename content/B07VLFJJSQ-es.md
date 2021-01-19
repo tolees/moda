@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41NKHe2d9vL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VLFJJSQ-es'
+slug: 'B07VLFJJSQ-es Antony Morato Jeans Slim Geezer Vaqueros  Azul  BLU Denim 7010   38  Talla del Fabricante: 29  para Hombre'
 actualPrice: 53.49 EUR
 currency: EUR
 price: 53.49

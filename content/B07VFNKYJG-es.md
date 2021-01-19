@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31BgUFcuAvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VFNKYJG-es'
+slug: 'B07VFNKYJG-es Desigual Bols rhapsody Durban - Bolso bandolera  4 x 17 5 x 27 2 cm   color marrón y beige'
 actualPrice: 17.94 EUR
 currency: EUR
 price: 17.94

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51slomzumPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YD4FSGN-es'
+slug: 'B07YD4FSGN-es Amzdeal Gafas de Esquí  Gafas Esquí Snowboard Doble Capa Anti Niebla 100% Protección UV Desmontables Lentes con Correa Antideslizante OTG Gafas de Esquiar para Adultos Hombre Mujer Juventud'
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

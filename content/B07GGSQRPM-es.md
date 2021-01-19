@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51+OJMyFuLL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GGSQRPM-es'
+slug: 'B07GGSQRPM-es SKYSPER Ciclismo Maillot Hombres Jersey + Pantalones Largos Culote Mangas Largas de Ciclismo Conjunto de Ropa Maillot Entretiempo para Deportes al Aire Libre Ciclo Bicicleta'
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

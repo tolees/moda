@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41VJ24xpgkL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L9B25KQ-es'
+slug: 'B07L9B25KQ-es Under Armour Heatgear Armour Pantalón Corto  Mujer  Negro  Breathtaking Blue/Metallic Silver 005   M'
 actualPrice: 18.49 EUR
 currency: EUR
 price: 18.49

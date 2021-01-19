@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417gbP+Lq3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M83W1WK-es'
+slug: 'B07M83W1WK-es Napapijri Avio Chaqueta  Verde  Green Forest 2 Ge3   XXXL para Hombre'
 actualPrice: 73.98 EUR
 currency: EUR
 price: 73.98

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Iqn4FrYpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFRMZ7F-es'
+slug: 'B07LFRMZ7F-es Geox Womens D New ANNYA MID A Pump  Black  39 5 EU'
 actualPrice: 32.44 EUR
 currency: EUR
 price: 32.44

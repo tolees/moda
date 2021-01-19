@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51NzT+dmpqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VNR2X11-es'
+slug: 'B07VNR2X11-es Izod Tartan Check BD Shirt Camisa Casual  Color Blanco  Vanilla Ice 162   43 para Hombre'
 actualPrice: 5.52 EUR
 currency: EUR
 price: 5.52

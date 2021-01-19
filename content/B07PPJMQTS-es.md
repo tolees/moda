@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31eHjgDp9cL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PPJMQTS-es'
+slug: 'B07PPJMQTS-es El Ganso 1 Camisa casual  Blanco  Blanco 0003   XX-Large para Hombre'
 actualPrice: 23.43 EUR
 currency: EUR
 price: 23.43

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41UW2SOQjYL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NBN68LJ-es'
+slug: 'B01NBN68LJ-es find. BAY001018W170205 vaqueros mujer  Azul  W30/L32  Talla del Fabricante: Medium '
 actualPrice: 10.8 EUR
 currency: EUR
 price: 10.8

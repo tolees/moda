@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/414o8H5N2iL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NKWBGRX-es'
+slug: 'B07NKWBGRX-es Sandalias Niño con Plantillas de Trekking Senderismo Zapatillas Niña de Zapatos Unisex Negro 28 EU'
 actualPrice: 23.39 EUR
 currency: EUR
 price: 23.39

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31ZN%2BOPTAUL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WHRYBX7-es'
+slug: 'B07WHRYBX7-es SALOMON Blend Logo SS tee M Camiseta Deportiva de Manga Corta  Algodón/Poliéster  Hombre  Rojo  Biking Red   L'
 actualPrice: 17.28 EUR
 currency: EUR
 price: 17.28

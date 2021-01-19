@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/313PQwTC+WL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N1GKYSY-es'
+slug: 'B07N1GKYSY-es Clarks Desert London  Zapatos de Cordones Derby para Mujer  Negro  Black Polished Black Polished   37 EU'
 actualPrice: 44.23 EUR
 currency: EUR
 price: 44.23

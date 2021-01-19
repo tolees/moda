@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/517I-Ye8N4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075RDZLNM-es'
+slug: 'B075RDZLNM-es Marca Amazon - IRIS & LILLY  Kimono Pijama Mujer  Azul  Blue Spot Print   XS  Label: XS'
 actualPrice: 6.48 EUR
 currency: EUR
 price: 6.48

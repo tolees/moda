@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31YG6aZnSvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B017MCO5QS-es'
+slug: 'B017MCO5QS-es Levi s 711 Shaping Super Skinny Jeans Pantalón Vaquero de Mujer Que moldea la Silueta  Negro  Black Sheen 0052   26W / 30L'
 actualPrice: 47.87 EUR
 currency: EUR
 price: 47.87

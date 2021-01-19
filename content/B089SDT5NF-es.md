@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/314KvUMADtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089SDT5NF-es'
+slug: 'B089SDT5NF-es BIGABIGA Mujer Moda Punta Redonda Shallow Casual Lofers Zapatos Tacón Bajo Rhinestones Beige Talla 46 Asiática'
 actualPrice: 27.79 EUR
 currency: EUR
 price: 27.79

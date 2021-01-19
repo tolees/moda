@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41KLA5FJ8dL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CN7Z9QK-es'
+slug: 'B07CN7Z9QK-es Crocs Crocband II Sandal PS K  Sandalias Unisex Niños  Verde  Army Green   24/25 EU'
 actualPrice: 22.49 EUR
 currency: EUR
 price: 22.49

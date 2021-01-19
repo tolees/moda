@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41xEctokhIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KRD6H91-es'
+slug: 'B07KRD6H91-es Tom Tailor Casual 1008637 Camiseta  Gris  Tarmac Grey 10899   X-Large para Hombre'
 actualPrice: 4.16 EUR
 currency: EUR
 price: 4.16

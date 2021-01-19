@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41WsydjL9rL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N97SBPT-es'
+slug: 'B07N97SBPT-es BOSS Trek 4 Camiseta  Negro  Black 001   Small para Hombre'
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

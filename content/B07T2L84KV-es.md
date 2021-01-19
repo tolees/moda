@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51jtN1ta+gL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T2L84KV-es'
+slug: 'B07T2L84KV-es Tikea Cartera Geométrica de Corcho Natural para Mujer  Billetera con Cremallera Ecológica de Moda  Bolsillo de Mano Efecto Madera'
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

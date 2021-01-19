@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31qp9pwR5vL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S755HLY-es'
+slug: 'B07S755HLY-es Disney Camiseta de Manga Corta para niñas Vampirina Negro 2-3 Años'
 actualPrice: 8.95 EUR
 currency: EUR
 price: 8.95

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ewm5+RIRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V7PSM13-es'
+slug: 'B07V7PSM13-es HUGO Trunk Brother Pack Bóxer  Negro  Black 9   M 2 para Hombre'
 actualPrice: 22.15 EUR
 currency: EUR
 price: 22.15

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/415iPRqsrKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XD8Z39G-es'
+slug: 'B07XD8Z39G-es Zapatos de Hombres  Zapatillas de Deportivos Running para Hombre Zapatillas de Trabajo Ultra Liviano Reflectivo Transpirable Negro Black 41EU'
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

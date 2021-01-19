@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412p09Nz4mL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TV4VK23-es'
+slug: 'B07TV4VK23-es Disney Sudadera para niñas Toy Story Jessie Azul 7-8 Años'
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

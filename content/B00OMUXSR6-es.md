@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41qGL9JeOML._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00OMUXSR6-es'
+slug: 'B00OMUXSR6-es Chung Shi Sensomo I  Zapatos Brogue para Hombre  Marrón  Hellbraun   45.5 EU'
 actualPrice: 10.08 EUR
 currency: EUR
 price: 10.08

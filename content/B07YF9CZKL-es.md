@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31DT40vOdGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YF9CZKL-es'
+slug: 'B07YF9CZKL-es Marca Amazon - find. Chaqueta Larga Mujer  Negro  Black   40  Label: M'
 actualPrice: 11.63 EUR
 currency: EUR
 price: 11.63

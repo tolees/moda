@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/417RbIqoKML._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P36CPNN-es'
+slug: 'B07P36CPNN-es Dickies Sacramento Camisa  Morado  Large  Talla del Fabricante:  para Hombre'
 actualPrice: 35 EUR
 currency: EUR
 price: 35

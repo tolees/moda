@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31XjvHKZMkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083LKZ6KB-es'
+slug: 'B083LKZ6KB-es AMZTM Camiseta de Manga Corta con Flamenca - Bimba Niñas Blanca Tops Blanco Cuello Redondo de 100% Algodón Camiseta Blusa'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

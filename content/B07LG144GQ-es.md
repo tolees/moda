@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/413g2YZgVoL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LG144GQ-es'
+slug: 'B07LG144GQ-es Geox J HADRIEL Girl D  Botas Slouch para Niñas  Beige  Smoke Grey C9006   37 EU'
 actualPrice: 40.85 EUR
 currency: EUR
 price: 40.85

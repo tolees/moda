@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/418++vSZXxL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M95G1LL-es'
+slug: 'B07M95G1LL-es Lee Scarlett High Vaqueros  Gris  Dark Grey Ovid Dw   25W/31L para Mujer'
 actualPrice: 24.66 EUR
 currency: EUR
 price: 24.66

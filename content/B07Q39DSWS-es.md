@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31dk5PijKwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q39DSWS-es'
+slug: 'B07Q39DSWS-es Under Armour Rush Heatgear Compression Camisa de Manga Larga  Hombre  Negro  SM'
 actualPrice: 27.53 EUR
 currency: EUR
 price: 27.53

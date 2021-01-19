@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31zsvPUh4sL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YLWSM1H-es'
+slug: 'B07YLWSM1H-es VERTBAUDET Camiseta de Cuello Alto fantasía bebé niño Azul Oscuro Liso con Motivos 36M-94CM'
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

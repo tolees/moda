@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Ss-q8eqqL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T2LLK76-es'
+slug: 'B07T2LLK76-es Tikea Bolsa Geométrica Luminosa Holográfica para Mujer  Mochila en Cuero Sintético de Moda  Deportivo  Efecto Reflectante'
 actualPrice: 40.99 EUR
 currency: EUR
 price: 40.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41vDb6ChYUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FK9SFF3-es'
+slug: 'B07FK9SFF3-es REPLAY W2962 .000.41b 337 Blusa  Negro  Black 98   Small para Mujer'
 actualPrice: 18.73 EUR
 currency: EUR
 price: 18.73

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ekeXda2HL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QB85D9K-es'
+slug: 'B07QB85D9K-es Aurique Leggings deportivos para Mujer  Azul  Dress Blue/White/Gray Blue   S'
 actualPrice: 18.13 EUR
 currency: EUR
 price: 18.13

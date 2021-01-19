@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Ve-7Az6kL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y5C1FRQ-es'
+slug: 'B07Y5C1FRQ-es Geographical Norway Sudadera DE Hombre GYMCLASS B Blanco Roto S'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

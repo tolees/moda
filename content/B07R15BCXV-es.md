@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31F7p6VPzJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R15BCXV-es'
+slug: 'B07R15BCXV-es Wrangler Ringer tee Camiseta  Negro  Black 100   Small para Mujer'
 actualPrice: 8.55 EUR
 currency: EUR
 price: 8.55

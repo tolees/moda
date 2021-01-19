@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31uYKzy1SML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KMJ4K8Q-es'
+slug: 'B07KMJ4K8Q-es find. Large Buckle Block Heel Sandal Sandalias con Punta Abierta  Negro Black  39 EU'
 actualPrice: 23.62 EUR
 currency: EUR
 price: 23.62

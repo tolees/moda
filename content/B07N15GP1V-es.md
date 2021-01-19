@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41THKGi5lnL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N15GP1V-es'
+slug: 'B07N15GP1V-es G-STAR RAW ARC 3D Vaqueros  Authentic Faded Blue  34W / 30L para Hombre'
 actualPrice: 56.49 EUR
 currency: EUR
 price: 56.49

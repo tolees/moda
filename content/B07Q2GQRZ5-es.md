@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31-i0VhVw9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q2GQRZ5-es'
+slug: 'B07Q2GQRZ5-es Under Armour Women s Atlantic Dune T Dusch-& Badeschuhe  Zapatos de Playa y Piscina para Mujer  Negro  Black/Mod Gray/Mod Gray  002  002   36.5 EU'
 actualPrice: 8.34 EUR
 currency: EUR
 price: 8.34

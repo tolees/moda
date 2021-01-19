@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Qs3YO50jL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YRCVC46-es'
+slug: 'B07YRCVC46-es Marca Amazon - find. Vestido Corto Cruzado de Algodón Mujer  Rosa  Rose Pink   36  Label: XS'
 actualPrice: 5.67 EUR
 currency: EUR
 price: 5.67

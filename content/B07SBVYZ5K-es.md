@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31lw8w085BL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SBVYZ5K-es'
+slug: 'B07SBVYZ5K-es PUMA Epic Flip V2  Zapatos de Playa y Piscina Unisex Adulto  Azul  Dark Denim/Palace Blue 40   43 EU'
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

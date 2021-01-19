@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/417n16ew4eL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N6ZGNZF-es'
+slug: 'B01N6ZGNZF-es Intimuse Embu Sudadera  Negro  Schwarz/Pink 125   Medium'
 actualPrice: 7.79 EUR
 currency: EUR
 price: 7.79

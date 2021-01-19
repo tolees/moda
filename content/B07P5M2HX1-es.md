@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416SpS9TZZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P5M2HX1-es'
+slug: 'B07P5M2HX1-es Morgan 191-mentor.n Camiseta  Negro  Noir Noir   Large  Talla del Fabricante: TL  para Mujer'
 actualPrice: 5.23 EUR
 currency: EUR
 price: 5.23

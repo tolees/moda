@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/419Yy-qP4XL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SCFXX81-es'
+slug: 'B07SCFXX81-es Crocs Crocband  Zuecos Unisex Adulto  Verde  Deep Green/White 3tl   38/39 EU'
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

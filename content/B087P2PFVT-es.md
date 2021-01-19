@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31cqaz9drSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087P2PFVT-es'
+slug: 'B087P2PFVT-es Kaizi Karzi Mujer Moda Puntiagudo Zapatos de la Corte Tacón Ancho Tira de Tobillo Vestido Bombas Zapatos Comodo Fiesta Zapatos Black Talla 38 Asiática'
 actualPrice: 25.86 EUR
 currency: EUR
 price: 25.86

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41llLfc2sFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KHTP0KY-es'
+slug: 'B00KHTP0KY-es Under Armour UA Heatgear Armour Sleeveless Camiseta Sin Mangas  Hombre  Blanco  White/Graphite 100   L'
 actualPrice: 15.49 EUR
 currency: EUR
 price: 15.49

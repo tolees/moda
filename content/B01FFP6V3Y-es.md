@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31gS4xRtjIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01FFP6V3Y-es'
+slug: 'B01FFP6V3Y-es Under Armour Tech Tank-Twist Camiseta sin Mangas  Mujer  Naranja  Playful Peach 164   XS'
 actualPrice: 8.8 EUR
 currency: EUR
 price: 8.8

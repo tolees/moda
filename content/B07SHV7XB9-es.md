@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417BxPuTPML._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SHV7XB9-es'
+slug: 'B07SHV7XB9-es G-Star Sp15505 Sweat Sudadera  Verde  Kaki Green 56   8 años  Talla del Fabricante: 8A  para Niñas'
 actualPrice: 7.35 EUR
 currency: EUR
 price: 7.35

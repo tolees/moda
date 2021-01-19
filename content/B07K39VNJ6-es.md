@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/414zeh%2BL7BL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K39VNJ6-es'
+slug: 'B07K39VNJ6-es BOSS Ivelna  vestido Mujer  Azul  Medium Blue 422   Large'
 actualPrice: 96.41 EUR
 currency: EUR
 price: 96.41

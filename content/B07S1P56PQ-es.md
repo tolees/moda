@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41pMg8tpOoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S1P56PQ-es'
+slug: 'B07S1P56PQ-es Levi s The Perfect Tee  Camiseta  Mujer  Blanco  Brw Outline T2 White+ 0771   XS'
 actualPrice: 10.84 EUR
 currency: EUR
 price: 10.84

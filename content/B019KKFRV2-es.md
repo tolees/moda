@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411DqkMI8TL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B019KKFRV2-es'
+slug: 'B019KKFRV2-es AUTOARK - Caja de cuero para 6 relojes  caja de joyería y 3 piezas de almacenamiento de lentes y gafas de sol  organizador de vitrina  color negro  AW-004'
 actualPrice: 16.53 EUR
 currency: EUR
 price: 16.53

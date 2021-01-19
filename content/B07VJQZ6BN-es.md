@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41VIxa2-NlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VJQZ6BN-es'
+slug: 'B07VJQZ6BN-es Desigual Vest Bonney Vestido  Blanco  Crudo 1001   38  Talla del Fabricante: 38  para Mujer'
 actualPrice: 48.99 EUR
 currency: EUR
 price: 48.99

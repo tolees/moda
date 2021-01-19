@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31UjSe2d-bL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JH4P43X-es'
+slug: 'B07JH4P43X-es Pepe Jeans Venus Pl200029 Vaqueros Straight   Grey Wiser Wash Denim Wu5   W27/L32 para Mujer'
 actualPrice: 32.95 EUR
 currency: EUR
 price: 32.95

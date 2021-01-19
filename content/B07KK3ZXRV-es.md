@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41en48AknwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KK3ZXRV-es'
+slug: 'B07KK3ZXRV-es Columbia Peakfreak Venture  Zapatos Impermeables para Hombre  Beige  Elk  Dark Adobe 286   40 EU'
 actualPrice: 30.3 EUR
 currency: EUR
 price: 30.3

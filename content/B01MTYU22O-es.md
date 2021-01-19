@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Q+S8+TCyL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MTYU22O-es'
+slug: 'B01MTYU22O-es Timberland Adventure 2.0 Cupsole  Zapatillas Altas para Hombre  Negro  Black Full Grain   45 EU'
 actualPrice: 90.0 EUR
 currency: EUR
 price: 90.0

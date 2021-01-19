@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Z0-fE0pNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K7PMQMQ-es'
+slug: 'B07K7PMQMQ-es Levi s 510 Skinny Fit  Vaqueros para Hombre  Azul  Rajah Adv 0871   W31/L34'
 actualPrice: 68.49 EUR
 currency: EUR
 price: 68.49

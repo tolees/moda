@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41AwhKWv0yL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G5L8TNF-es'
+slug: 'B07G5L8TNF-es Bolso de mano Pepe Jeans Bromley Azul'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

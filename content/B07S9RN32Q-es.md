@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31PSb-qnm5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S9RN32Q-es'
+slug: 'B07S9RN32Q-es Crocs Literide Stretch Sandal Women  Sandalias de Punta Descubierta para Mujer  Azul  Ice Blue/Almost White 4KP   36/37 EU'
 actualPrice: 20.25 EUR
 currency: EUR
 price: 20.25

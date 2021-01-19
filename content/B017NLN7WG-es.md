@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ZN2qwobNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B017NLN7WG-es'
+slug: 'B017NLN7WG-es HUGO Elisha01 Camisa  Blanco  Open White 199   X-Large  Talla del Fabricante: 44  para Hombre'
 actualPrice: 58.45 EUR
 currency: EUR
 price: 58.45

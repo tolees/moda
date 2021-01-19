@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51fuNKa9nTL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0754FVFY6-es'
+slug: 'B0754FVFY6-es Botas de Agua Bota de Goma Mujer Impermeable lluvia Zapatos Tobillo Casual Calzado  Negro 37'
 actualPrice: 14.31 EUR
 currency: EUR
 price: 14.31

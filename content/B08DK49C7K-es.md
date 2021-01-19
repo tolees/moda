@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4195bYVY+nL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DK49C7K-es'
+slug: 'B08DK49C7K-es Toallitas para lentes  200 toallitas de limpieza prehumedecidas individualmente para gafas  antivaho  secado rápido y sin arañazos  limpia las gafas – aroma a limón'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

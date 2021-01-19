@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31nApARJX6L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QZTR7VG-es'
+slug: 'B07QZTR7VG-es Under Armour Qualifier Storm Run Chaqueta  Hombre  Gris  SM'
 actualPrice: 47.65 EUR
 currency: EUR
 price: 47.65

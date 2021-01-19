@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41y6b6mgZuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MYGL2C3-es'
+slug: 'B07MYGL2C3-es Pepe Jeans Hatch Vaqueros  12Oz Clean Twill Denim  38W / 32L para Hombre'
 actualPrice: 42.49 EUR
 currency: EUR
 price: 42.49

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41MdghJMm9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S2S7BY5-es'
+slug: 'B07S2S7BY5-es Levi s The Original Camiseta  Gris  Hm Patch OG tee Forged Iron 0004   Large para Hombre'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

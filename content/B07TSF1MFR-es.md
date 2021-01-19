@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41+UhEyPboL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TSF1MFR-es'
+slug: 'B07TSF1MFR-es Skechers Pier Ave  Sandalias de Talón Abierto para Mujer  Beige  Taupe Leather TPE   37 EU'
 actualPrice: 15.64 EUR
 currency: EUR
 price: 15.64

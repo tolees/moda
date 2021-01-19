@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31cJlqPeRYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M8H3C6F-es'
+slug: 'B07M8H3C6F-es The North Face tee Camiseta de Manga raglán Simple Dome  Mujer  Vintage White  XS'
 actualPrice: 17.42 EUR
 currency: EUR
 price: 17.42

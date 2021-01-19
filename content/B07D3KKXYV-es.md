@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31hWOm0Js2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D3KKXYV-es'
+slug: 'B07D3KKXYV-es Marca Amazon - IRIS & LILLY BELK315M2  Legging para Mujer  pack de 2  Negro  Black   M  Label: M'
 actualPrice: 16.14 EUR
 currency: EUR
 price: 16.14

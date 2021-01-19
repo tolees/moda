@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41HmQzY5G3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R15BQB5-es'
+slug: 'B07R15BQB5-es Wrangler SS Logo tee Camiseta  Marrón  Picante Brown X9h   Small para Hombre'
 actualPrice: 15.58 EUR
 currency: EUR
 price: 15.58

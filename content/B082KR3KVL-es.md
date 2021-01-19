@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31r33++rP+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082KR3KVL-es'
+slug: 'B082KR3KVL-es Sudadera con Capucha de Gran tamaño  la Original Sherpa con Bolsillo Frontal Grande  Suave y acogedora  con Capucha  1 tamaño para Todos  Manta de TV para Hombres  Mujeres  Adolescentes y niños'
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

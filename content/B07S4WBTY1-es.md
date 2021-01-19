@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Cf0ivKPAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S4WBTY1-es'
+slug: 'B07S4WBTY1-es Levi s Relaxed Graphic Sudadera  Blanco  Crew Box Taba White+ 0092   Large para Mujer'
 actualPrice: 38.95 EUR
 currency: EUR
 price: 38.95

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41YOhCA0g2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XCKKDSY-es'
+slug: 'B06XCKKDSY-es Pepe Jeans Hatch Vaqueros  Blue Denim Z45  34W / 30L para Hombre'
 actualPrice: 46.99 EUR
 currency: EUR
 price: 46.99

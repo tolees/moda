@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41gbg3Tn5zL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFFMTTS-es'
+slug: 'B07LFFMTTS-es Levi s 501 Original Fit Jeans Pantalón vaquero con diseño clásico y cómodos de usar  Space Money  31W / 34L para Hombre'
 actualPrice: 29.97 EUR
 currency: EUR
 price: 29.97

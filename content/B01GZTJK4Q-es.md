@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51YasMSoKPL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01GZTJK4Q-es'
+slug: 'B01GZTJK4Q-es KUTOOK Guantes Ciclismo  Guantes MTB Gel Almohadilla de Completo Dedos para Bicicleta de Carretera Azul M '
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

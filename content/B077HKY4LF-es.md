@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51dCRLrzYmL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B077HKY4LF-es'
+slug: 'B077HKY4LF-es find. Vestido de Flores y Gasa Mujer  Multicolor  Multicoloured   38  Talla del fabricante: Small '
 actualPrice: 14.1 EUR
 currency: EUR
 price: 14.1

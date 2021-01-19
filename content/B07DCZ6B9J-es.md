@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41GU7ch3iJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DCZ6B9J-es'
+slug: 'B07DCZ6B9J-es Marca Amazon - find. Abrigo Hombre  Marrón  Brown   3XL  Label: 3XL'
 actualPrice: 29.21 EUR
 currency: EUR
 price: 29.21

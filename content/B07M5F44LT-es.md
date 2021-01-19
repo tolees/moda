@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31fgSBzw3rL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M5F44LT-es'
+slug: 'B07M5F44LT-es Wrangler LS Refined Polo Camisa Manga Larga  Azul  Blue Depth Xjy   Large para Hombre'
 actualPrice: 22.48 EUR
 currency: EUR
 price: 22.48

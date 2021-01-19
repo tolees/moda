@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41FAdbx8rGL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01I6SXPT0-es'
+slug: 'B01I6SXPT0-es Alpha Industries MA-1 D-Tec  Chaqueta Bomber para Hombre  Verde  Rep.Grey 257   M'
 actualPrice: 89.95 EUR
 currency: EUR
 price: 89.95

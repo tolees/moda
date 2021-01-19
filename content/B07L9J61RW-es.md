@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31c4gKGxZBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L9J61RW-es'
+slug: 'B07L9J61RW-es Under Armour Rival Fleece Sportstyle Pantalón  Mujer  Negro  Black/Onyx White 001   XL'
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

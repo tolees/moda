@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41nu8CxUgGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077Y8FFZX-es'
+slug: 'B077Y8FFZX-es Sylvie Flirty Swimwear Bakela  Parte de Arriba de Bikini para Mujer  Verde  Grün Blau 3477   40  Talla del fabricante: 38B '
 actualPrice: 19.39 EUR
 currency: EUR
 price: 19.39

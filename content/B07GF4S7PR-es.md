@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41y9FzG86-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GF4S7PR-es'
+slug: 'B07GF4S7PR-es Levi s Graphic Set-in Neck  Camiseta para Hombre  Gris  Ssnl Boxtab Midtone Heather Grey 0523   S'
 actualPrice: 17.92 EUR
 currency: EUR
 price: 17.92

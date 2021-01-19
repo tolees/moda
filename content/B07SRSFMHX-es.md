@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31QRL5b4vnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SRSFMHX-es'
+slug: 'B07SRSFMHX-es Geox D Sandal Hiver A  Sandalias con Punta Abierta para Mujer  Plateado  Silver/White C0434   35 EU'
 actualPrice: 48.72 EUR
 currency: EUR
 price: 48.72

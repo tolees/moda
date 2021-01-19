@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Fxu3zmlXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VD468JR-es'
+slug: 'B07VD468JR-es Calvin Klein Institutional Logo Slim SS tee Camiseta  Verde  Earth Sage L9a   X-Large para Hombre'
 actualPrice: 18.33 EUR
 currency: EUR
 price: 18.33

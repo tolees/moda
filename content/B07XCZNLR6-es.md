@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41W4wsa5o6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XCZNLR6-es'
+slug: 'B07XCZNLR6-es Monedero de Embrague de Paja  Bolsa de Noche Mujer  Bolsos de la Tarde Boho Tejidas Envelope Clutch Cartera Fiesta Bolsa de la Boda del Verano de la Paja para la Muchacha de Las Mujeres'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31h4wJ1gLvL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K9N1BHR-es'
+slug: 'B07K9N1BHR-es Crocs Swiftwater Sandal Women  Sandalias de Punta Descubierta para Mujer  Rosa  Violet/Pearl White 5pd   41/42 EU'
 actualPrice: 13.3 EUR
 currency: EUR
 price: 13.3

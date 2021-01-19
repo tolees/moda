@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41i+xdhLomL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L8YKJHC-es'
+slug: 'B07L8YKJHC-es REPLAY Anbass Vaqueros Slim  Azul  Dark Blue 7   W30/L32  Talla del Fabricante: 30  para Hombre'
 actualPrice: 58.99 EUR
 currency: EUR
 price: 58.99

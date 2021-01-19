@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41mJBkMbVBL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DV4N7Y5-es'
+slug: 'B07DV4N7Y5-es Columbia WAYFINDER Outdry  Zapatos Multideporte para Mujer  Gris  Graphite  Fairytale 053   36.5 EU'
 actualPrice: 83.98 EUR
 currency: EUR
 price: 83.98

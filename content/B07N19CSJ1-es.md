@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31IV-0upPUL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N19CSJ1-es'
+slug: 'B07N19CSJ1-es G-STAR RAW Lynn Mid-Waist Skinny Vaqueros  Dk Aged 6545-89  24W / 28L para Mujer'
 actualPrice: 21.46 EUR
 currency: EUR
 price: 21.46

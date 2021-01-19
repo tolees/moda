@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31cDliwQFnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WBZWC3Q-es'
+slug: 'B07WBZWC3Q-es Jack & Jones JCOMOON Knit Crew Neck Jersey  Negro  Black Fit:Knit FIT   S para Hombre'
 actualPrice: 17.49 EUR
 currency: EUR
 price: 17.49

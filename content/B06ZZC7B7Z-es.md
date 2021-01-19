@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41pjA6F0llL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06ZZC7B7Z-es'
+slug: 'B06ZZC7B7Z-es WOLA gafas de sol madera - AIR lentes mujer y hombre unisex  polarizadas UV400 cuadradas estilo mix'
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

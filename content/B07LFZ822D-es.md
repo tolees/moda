@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41jG5DryB0L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFZ822D-es'
+slug: 'B07LFZ822D-es Geox J INEK Boy E  Zapatillas Altas para Niños  Azul  Navy/Red C0735   24 EU'
 actualPrice: 32.02 EUR
 currency: EUR
 price: 32.02

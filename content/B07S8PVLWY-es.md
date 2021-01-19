@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31P2-4jxf3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S8PVLWY-es'
+slug: 'B07S8PVLWY-es PUMA Leadcat FTR  Sandalias deslizantes Unisex-Adulto  Negro Black Team Gold White  39 EU'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

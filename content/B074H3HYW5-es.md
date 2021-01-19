@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41out5s-DuL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B074H3HYW5-es'
+slug: 'B074H3HYW5-es find. Camisa con Volantes para Mujer  Verde  Khaki   38  Talla del Fabricante: Small '
 actualPrice: 12 EUR
 currency: EUR
 price: 12

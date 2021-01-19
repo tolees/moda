@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4184tfaDUFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SWT6KTR-es'
+slug: 'B07SWT6KTR-es Geox J Borealis Boy B  Sandalias Punta Cerrada para Niños  Verde  Military/Dk Red Ca37m   28 EU'
 actualPrice: 22.0 EUR
 currency: EUR
 price: 22.0

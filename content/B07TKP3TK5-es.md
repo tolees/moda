@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31L4rJb5PzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TKP3TK5-es'
+slug: 'B07TKP3TK5-es Kickers Andye  Sandalias de Gladiador para Mujer  Marrón  Camel 114   36 EU'
 actualPrice: 34.42 EUR
 currency: EUR
 price: 34.42

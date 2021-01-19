@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51MkeoxnuTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CXQFJPL-es'
+slug: 'B07CXQFJPL-es Hot One Cambios De Color Monederos y Bolsos Luminosos Geométricos Monedero Holográfico Monedero Reflectante Mochilas De Moda  5# Mochila No.1 + Billetera con Cremallera  L '
 actualPrice: 35.71 EUR
 currency: EUR
 price: 35.71

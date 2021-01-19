@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41GZ97fxTeL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MGFRPMP-es'
+slug: 'B07MGFRPMP-es Napapijri Aric Chaqueta  Rojo  Red Scarlet R01   S para Hombre'
 actualPrice: 93.66 EUR
 currency: EUR
 price: 93.66

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41KOyQpKi9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L13LQFM-es'
+slug: 'B07L13LQFM-es Under Armour Woven Graphic Pantalón Corto  Hombre  Gris  Pitch Gray/Black 013   S'
 actualPrice: 20.03 EUR
 currency: EUR
 price: 20.03

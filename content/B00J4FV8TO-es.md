@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31DPWV08hZL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00J4FV8TO-es'
+slug: 'B00J4FV8TO-es Portwest C676 - Chaqueta aireado Chef  color Blanco  talla 3 XL'
 actualPrice: 22.12 EUR
 currency: EUR
 price: 22.12

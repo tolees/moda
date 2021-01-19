@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41PA60UWuKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086R6DXRF-es'
+slug: 'B086R6DXRF-es Nautico J.Bradford Cuero Marron JB-CORVETTES - Color - Marrón  Talla Zapatos - 39'
 actualPrice: 62.0 EUR
 currency: EUR
 price: 62.0

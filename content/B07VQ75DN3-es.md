@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31UyLaylMAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VQ75DN3-es'
+slug: 'B07VQ75DN3-es Tommy Hilfiger De Brooklyn Structure Short Flex Vaqueros Relaxed  Beige  Batique Khaki AEG   W28/L30  Talla del Fabricante: NI28  para Hombre'
 actualPrice: 18.28 EUR
 currency: EUR
 price: 18.28

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ApRzP2RjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01J0P1T3C-es'
+slug: 'B01J0P1T3C-es EKU FASHION - Camiseta - para bebé niño Azul Azul 5T'
 actualPrice: 3.63 EUR
 currency: EUR
 price: 3.63

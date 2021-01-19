@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31orab8l67L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VKMJYZT-es'
+slug: 'B07VKMJYZT-es Hackett Amr Tape LS Polo Camisa Manga Larga  Azul  595navy 595   Small para Hombre'
 actualPrice: 33.08 EUR
 currency: EUR
 price: 33.08

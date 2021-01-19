@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21skERXQnbL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005I0DSIS-es'
+slug: 'B005I0DSIS-es Carissima Gold Collar con colgante de mujer con oro amarillo 9 K  375   46 cm'
 actualPrice: 51.0 EUR
 currency: EUR
 price: 51.0

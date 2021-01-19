@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41EPOBAB1RL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WNXR6CQ-es'
+slug: 'B07WNXR6CQ-es Charles Wilson Original Sudadera de Hombre Algodón Premium Capucha Cremallera  XXX-Large  Black  0819  '
 actualPrice: 28.95 EUR
 currency: EUR
 price: 28.95

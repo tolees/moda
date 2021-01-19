@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41qVmdHlBVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RX1Z2D9-es'
+slug: 'B07RX1Z2D9-es BILLABONG™ - Camiseta de Manga Corta - Hombre - XS - Negro'
 actualPrice: 15.31 EUR
 currency: EUR
 price: 15.31

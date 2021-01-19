@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41WU+YzSKQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SNTWQ1Y-es'
+slug: 'B07SNTWQ1Y-es Levi s Orig Hm Vneck Camiseta  Blanco  White 0000   Large para Hombre'
 actualPrice: 11.19 EUR
 currency: EUR
 price: 11.19

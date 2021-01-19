@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41CD1akbo3L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N8JYF5V-es'
+slug: 'B07N8JYF5V-es Desigual T-Shirt John Camiseta de Manga Larga  Azul  Diva Blue 5139   14 años para Niños'
 actualPrice: 12.87 EUR
 currency: EUR
 price: 12.87

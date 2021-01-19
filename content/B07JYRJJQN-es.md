@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31QIL85VptL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JYRJJQN-es'
+slug: 'B07JYRJJQN-es Tommy Hilfiger TJM Stretch Oxford Shirt Camisa  Blanco  White 100   Large para Hombre'
 actualPrice: 42.5 EUR
 currency: EUR
 price: 42.5

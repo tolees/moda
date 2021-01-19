@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/315ObwFXfxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TT67B7T-es'
+slug: 'B07TT67B7T-es Levi s 501 Original Fit Jeans Pantalón Vaquero con diseño clásico y cómodos de Usar  Azul Claro  Coneflower Barn   38W / 36L para Hombre'
 actualPrice: 61.99 EUR
 currency: EUR
 price: 61.99

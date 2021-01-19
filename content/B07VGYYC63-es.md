@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41mIeHSV4lL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VGYYC63-es'
+slug: 'B07VGYYC63-es Calvin Klein Hooded Blocking Nylon Jacket Chaqueta Bomber  Rojo  Fiery Red/CK Black Xa7   Medium para Hombre'
 actualPrice: 66.23 EUR
 currency: EUR
 price: 66.23

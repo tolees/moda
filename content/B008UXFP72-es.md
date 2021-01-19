@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41LTtxQEMSL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B008UXFP72-es'
+slug: 'B008UXFP72-es Surplus - Pantalón Chino para Mujer  Talla W33/L30  Herstellergröße: 38  - Talla Alemana  Color Azul Marino'
 actualPrice: 6.65 EUR
 currency: EUR
 price: 6.65

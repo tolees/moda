@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51EkfK7ylzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V1J8M1J-es'
+slug: 'B07V1J8M1J-es BOSS Boxer Brief 2p Print  Azul  Navy 415   Medium  Pack de 2  para Hombre'
 actualPrice: 16.48 EUR
 currency: EUR
 price: 16.48

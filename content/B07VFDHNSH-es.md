@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41AxQfO-8ZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VFDHNSH-es'
+slug: 'B07VFDHNSH-es JACK & JONES Jjewashington Shirt L/s STS Camisa  Verde  Fall Leaf Fit: Slim Fit   Large para Hombre'
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

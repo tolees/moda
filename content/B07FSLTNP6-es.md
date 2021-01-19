@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31KEB475fPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FSLTNP6-es'
+slug: 'B07FSLTNP6-es Clarks Un Karely Sun  Chanclas Sandalias Flip-Flop  Gris  Sage Nubuck-   35.5 EU'
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

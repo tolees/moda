@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41j3dXuP+FL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IFGHKGM-es'
+slug: 'B01IFGHKGM-es Timberland Heritage 6 Inch Premium Waterproof  Botas para Hombress  Marrón  Medium Brown Nubuck   39 EU'
 actualPrice: 147.49 EUR
 currency: EUR
 price: 147.49

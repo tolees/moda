@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41tIBpV07tL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004YA4UDU-es'
+slug: 'B004YA4UDU-es Nike M NSW He WR Jkt HD Chaqueta de Deporte  Hombre  Black/Black/Black/ Sail   L'
 actualPrice: 63.94 EUR
 currency: EUR
 price: 63.94

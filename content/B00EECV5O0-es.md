@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51RoPHWmQfL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00EECV5O0-es'
+slug: 'B00EECV5O0-es Timberland Authentics 3 Eye Classic  Náuticos para Hombre  Marrón  MD Brown Full Grain   43.5 EU'
 actualPrice: 120.48 EUR
 currency: EUR
 price: 120.48

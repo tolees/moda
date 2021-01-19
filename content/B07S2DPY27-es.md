@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41QK-Y5MQWL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S2DPY27-es'
+slug: 'B07S2DPY27-es Esprit 089ee2g006 Chaqueta Bomber  Negro  Black 001   X-Large para Hombre'
 actualPrice: 16.62 EUR
 currency: EUR
 price: 16.62

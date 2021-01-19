@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41SW0t5IYtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZQSZ9G-es'
+slug: 'B07MZQSZ9G-es Pepe Jeans Jaiden Camisa   Grey Marl 933   X-Large para Hombre'
 actualPrice: 29.01 EUR
 currency: EUR
 price: 29.01

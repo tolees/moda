@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41DGLnZ-ekL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PQQVDSL-es'
+slug: 'B07PQQVDSL-es Celio Pudaim Chaqueta  Beige  Camel Camel   Medium para Hombre'
 actualPrice: 36.71 EUR
 currency: EUR
 price: 36.71

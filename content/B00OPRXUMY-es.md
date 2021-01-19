@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41f5tUnshlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00OPRXUMY-es'
+slug: 'B00OPRXUMY-es Dickies Milford Abrigo  Multicolor Camouflge   X-Small Tamaño del Fabricante:XSmal  para Hombre'
 actualPrice: 59.4 EUR
 currency: EUR
 price: 59.4

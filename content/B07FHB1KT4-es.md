@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41SKwmqkPUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FHB1KT4-es'
+slug: 'B07FHB1KT4-es Timberland Newport Bay  Zapatillas Bajas para Hombre  Azul  Dark Blue Canvas   40 EU'
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

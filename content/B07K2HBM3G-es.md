@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/317VcRMsfEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K2HBM3G-es'
+slug: 'B07K2HBM3G-es Amazon Essentials - Camiseta de protección solar con manga larga para mujer  Blanco  US L  EU L '
 actualPrice: 9.8 EUR
 currency: EUR
 price: 9.8

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41YW5dnxg7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0756DPXFN-es'
+slug: 'B0756DPXFN-es Clarks Un Trek Part  Sandalias de Talón Abierto para Hombre  Negro  Black Leather-   44.5 EU'
 actualPrice: 79.4 EUR
 currency: EUR
 price: 79.4

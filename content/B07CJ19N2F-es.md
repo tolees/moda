@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41pu0UJvDXL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CJ19N2F-es'
+slug: 'B07CJ19N2F-es SIMYJOY Mujere Hip Pop Fans Sudaderas Rapper Llorar Niñas Cool Hip Pop Jersey Loose Fitting Top Rojo 4XL'
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

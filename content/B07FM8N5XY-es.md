@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41nO22N6QCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FM8N5XY-es'
+slug: 'B07FM8N5XY-es Ipanema Kirei Fem  Chanclas para Mujer   Black/Silver 8441   41/42 EU'
 actualPrice: 12.95 EUR
 currency: EUR
 price: 12.95

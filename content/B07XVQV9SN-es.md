@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ZfSF5wFCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XVQV9SN-es'
+slug: 'B07XVQV9SN-es Esprit 119EE1E021 Vestido de Fiesta  Negro  Black 001   36 para Mujer'
 actualPrice: 40.02 EUR
 currency: EUR
 price: 40.02

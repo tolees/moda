@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41+DEEBAUtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YKRTS9N-es'
+slug: 'B07YKRTS9N-es Esprit 129ee2g006 Chaqueta  Azul  Dark Blue 405   X-Large para Hombre'
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

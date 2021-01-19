@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41jdJeH-gNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZPSWNF-es'
+slug: 'B07MZPSWNF-es Pepe Jeans Rick Chaqueta   Berry Red 280   Medium para Hombre'
 actualPrice: 63.04 EUR
 currency: EUR
 price: 63.04

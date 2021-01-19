@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31386Wab4xL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZV36RDB-es'
+slug: 'B07ZV36RDB-es Helly Hansen HH Tech Crew Camiseta Técnica  Hombre  Navy  M'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

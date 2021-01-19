@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31rLF-ZzeNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TNVPTVT-es'
+slug: 'B07TNVPTVT-es Clarks Orinoco Strap  Sandalias de Talón Abierto para Mujer  Rosa  Pink Pink   41.5 EU'
 actualPrice: 39.41 EUR
 currency: EUR
 price: 39.41

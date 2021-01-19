@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31tTKx8Z77L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MC132XS-es'
+slug: 'B07MC132XS-es Clarks Vargo Vibe  Zapatos de Cordones Derby para Hombre  Braun Dark Tan Lea Dark Tan Lea  44 EU'
 actualPrice: 26.79 EUR
 currency: EUR
 price: 26.79

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41s5WdhjlaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VRFWT3R-es'
+slug: 'B07VRFWT3R-es Lee Rider Jacket Chaqueta de Jean  Azul  Oakwood Light XA   XX-Large para Hombre'
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

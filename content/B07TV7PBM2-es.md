@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31auR5m3zFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TV7PBM2-es'
+slug: 'B07TV7PBM2-es Levi s 725 High Rise Bootcut Vaqueros Corte de Bota  Negro  Black Sheen 0032   W29/L32  Talla del Fabricante: 29 32  para Mujer'
 actualPrice: 36.25 EUR
 currency: EUR
 price: 36.25

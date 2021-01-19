@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51zircD1K9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PPDY1QW-es'
+slug: 'B07PPDY1QW-es Felly Arnés de Seguridad para Caminar Ajustable Arnés de Bebe a Pie de Caminado Aprendizaje Chaleco Arneses para Niños Andador Arnés Tirantes Con Correa y Hebilla de Bebé Protección 8-24 meses   azul '
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

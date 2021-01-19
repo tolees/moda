@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41AXGrD3XJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GKZ9Y7H-es'
+slug: 'B07GKZ9Y7H-es Levi s 510 Skinny Fit  Vaqueros para Hombre  Azul  Cleaner Adv 0856   W26/L30'
 actualPrice: 22.53 EUR
 currency: EUR
 price: 22.53

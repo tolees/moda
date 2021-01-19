@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51h46g5TO3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VD3GRYX-es'
+slug: 'B07VD3GRYX-es Calvin Klein Washed Stripe Stretch Shirt  f  Camisa  Azul  Night Sky Chw   Medium para Hombre'
 actualPrice: 29.72 EUR
 currency: EUR
 price: 29.72

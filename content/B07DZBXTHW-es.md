@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51EbZaang+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DZBXTHW-es'
+slug: 'B07DZBXTHW-es Bebé Pelele de Algodón Mameluco Béisbol Trajes Niños Niñas Ropa de Invierno Primavera Otoño 0-3 Meses'
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

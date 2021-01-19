@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/415JSNVOyQL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B077YC1N3Z-es'
+slug: 'B077YC1N3Z-es HIKARO Sudadera Hombre  Azul  Navy   48  Talla del fabricante: Small '
 actualPrice: 13.03 EUR
 currency: EUR
 price: 13.03

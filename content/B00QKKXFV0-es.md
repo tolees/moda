@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/419huDvsugL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00QKKXFV0-es'
+slug: 'B00QKKXFV0-es Timberland Earthkeepers Oak Bluffs - Sandalias de cuero niño  Color Gris  Talla 34'
 actualPrice: 30 EUR
 currency: EUR
 price: 30

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51R-EMhd8JL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083SFN7KK-es'
+slug: 'B083SFN7KK-es HUTACT Telescopio Terrestre 20-60X80 Telescopio Monocular Impermeable Telescopios Terrestres con Trípode y Bolso BAK4 Prisma'
 actualPrice: 129.99 EUR
 currency: EUR
 price: 129.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41dTrmnj2XL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N8HQ3K9-es'
+slug: 'B07N8HQ3K9-es Desigual Dress Uvas Vestido  Azul  Navy 5000   152 cm para Niñas'
 actualPrice: 32.43 EUR
 currency: EUR
 price: 32.43

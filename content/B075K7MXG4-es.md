@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51HHhD0BXpL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075K7MXG4-es'
+slug: 'B075K7MXG4-es Pokèmon - Pijama para Niños Ajuste Ceñido - 10-11 Años'
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41rW8h0ZfEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CRW7N8M-es'
+slug: 'B08CRW7N8M-es DYKHMILY Zapatillas de Seguridad Hombre Ligeras Comodo Calzado de Seguridad Deportivo con Puntera de Acero Anti-pinchazo Zapatos de Seguridad Trabajo Verano Negro Gris 42 EU '
 actualPrice: 38.5 EUR
 currency: EUR
 price: 38.5

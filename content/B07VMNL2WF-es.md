@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41NuaC9wgIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VMNL2WF-es'
+slug: 'B07VMNL2WF-es Tommy Hilfiger Tjw Roll Up Sleeve Shirt Camisa de Deporte  Blanco  White Ybr   42  Talla del Fabricante: X-Large  para Mujer'
 actualPrice: 32.5 EUR
 currency: EUR
 price: 32.5

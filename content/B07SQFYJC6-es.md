@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41oZDYuji5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SQFYJC6-es'
+slug: 'B07SQFYJC6-es Geox B Kaytan A  Sandalias de Punta Descubierta para Bebés  Rosa  Dk Rose C8007   25 EU'
 actualPrice: 34.93 EUR
 currency: EUR
 price: 34.93

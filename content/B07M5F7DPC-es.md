@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41hGBNLQnDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M5F7DPC-es'
+slug: 'B07M5F7DPC-es Wrangler Greensboro Vaqueros  Azul  Something Warm 67q   34 W/ 34 L para Hombre'
 actualPrice: 44.98 EUR
 currency: EUR
 price: 44.98

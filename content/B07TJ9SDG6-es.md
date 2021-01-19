@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Y3gYskt8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TJ9SDG6-es'
+slug: 'B07TJ9SDG6-es Levi s Sportswear Logo Graphic Camiseta  Negro  Ssnl Sw Gradient Mineral Black 0031   Medium para Hombre'
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

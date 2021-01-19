@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51IyRcFq%2BaL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S4K94ZX-es'
+slug: 'B07S4K94ZX-es edc by Esprit 089cc1f022 Blusa  Rojo  Dark Red 610   Small para Mujer'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

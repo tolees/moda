@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31hILUaypmL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TJ8FZFX-es'
+slug: 'B07TJ8FZFX-es Only & Sons NOS Onswinston Sweat Hoodie Noos Sudadera con Capucha  Negro  Black Detail:Solid   X-Small para Hombre'
 actualPrice: 6.88 EUR
 currency: EUR
 price: 6.88

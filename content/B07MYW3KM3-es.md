@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31utxyh+mfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MYW3KM3-es'
+slug: 'B07MYW3KM3-es Ever-Pretty A-línea Vestido de Fiesta Cuello en V Manga Corta Gasa Corte Imperio para Mujer Borgoña 56'
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

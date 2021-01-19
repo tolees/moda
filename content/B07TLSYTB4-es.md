@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41wwovc6qVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TLSYTB4-es'
+slug: 'B07TLSYTB4-es Clarks Tri Sporty  Sandalias de Talón Abierto para Mujer  Beige  Navy Textile Navy Textile   35.5 EU'
 actualPrice: 58.31 EUR
 currency: EUR
 price: 58.31

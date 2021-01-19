@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51xHpv2WbrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PB19RC9-es'
+slug: 'B07PB19RC9-es gracosy Sandalias Cuero Deportivas para Hombre Verano Exterior con Punta Abierta Sandalias de Playa Zapatillas de Montaña Senderismo  Amarillo Marron  45 EU'
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

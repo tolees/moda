@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Z6FtAM95L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MZEMKA1-es'
+slug: 'B01MZEMKA1-es Tommy Hilfiger Logo Camiseta de Cuello Redondo Perfecta para El Tiempo Libre  Gris  Grey Heather   XL para Hombre'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

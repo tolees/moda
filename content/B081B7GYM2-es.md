@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31JY0YNOCjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081B7GYM2-es'
+slug: 'B081B7GYM2-es Columbia CSC Basic Camiseta Estampada De Manga Corta  Hombre  Black  L'
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

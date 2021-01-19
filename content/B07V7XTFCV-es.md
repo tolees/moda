@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51+BtrxbU-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V7XTFCV-es'
+slug: 'B07V7XTFCV-es Tommy Hilfiger Nautical Print Beach Sandal  Sandalias con Punta Abierta para Hombre  Rojo Primary Red XLG  43 EU'
 actualPrice: 13.46 EUR
 currency: EUR
 price: 13.46

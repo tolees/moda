@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/317ddOuM7IL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XNS3XB4-es'
+slug: 'B00XNS3XB4-es Pepe Jeans Venus Vaqueros  Azul  10Oz Rinse Plus M15   28W / 30L para Mujer'
 actualPrice: 48.49 EUR
 currency: EUR
 price: 48.49

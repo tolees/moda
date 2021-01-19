@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41RPZF9gA+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JQFL4N9-es'
+slug: 'B07JQFL4N9-es Botas de Nieve Hombre Antideslizante Invierno Botines Calientes Trekking Aire Libre Zapatos Negro 43'
 actualPrice: 16.19 EUR
 currency: EUR
 price: 16.19

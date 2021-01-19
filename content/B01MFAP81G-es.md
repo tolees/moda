@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41K8rINISLL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MFAP81G-es'
+slug: 'B01MFAP81G-es Fresh Made D9514Z90532A Jersey  Rosa  Pearl Rose Melange   40 Talladelfabricante:M  para Mujer'
 actualPrice: 13.51 EUR
 currency: EUR
 price: 13.51

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/319jhMYicOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZRJBJS6-es'
+slug: 'B07ZRJBJS6-es 1 Unids Silicona de Grado Alimenticio Juguetes para Mordedores de Bebé Guantes de Dentición Guantes Molares Sonda de Tela Neta Guantes de Bebé Guante de Bebé - Verde Claro'
 actualPrice: 2.19 EUR
 currency: EUR
 price: 2.19

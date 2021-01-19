@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51bX4DL1rhL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01KFC2CIK-es'
+slug: 'B01KFC2CIK-es Bolso de Embrague Monedero Cartera Bolso de Lentejuelas étnica para Novia Usos Múltiples - Verde'
 actualPrice: 14.98 EUR
 currency: EUR
 price: 14.98

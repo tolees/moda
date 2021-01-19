@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51fWbxckLrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079HN3F1D-es'
+slug: 'B079HN3F1D-es WisFox Niños Chaleco Táctico  Kids Elite Tactical Chaleco para N-Strike Elite Series con Dardos De Recarga Bullets + Clips De Recarga Rápida+Bullet Wrist Bands+Chaleco+Scarf Mask+Gafas De Protección'
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

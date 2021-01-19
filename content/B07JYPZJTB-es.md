@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41ix1HpphLL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JYPZJTB-es'
+slug: 'B07JYPZJTB-es Tommy Jeans Mujer Essential Slim Tee Camiseta   Negro  Tommy Black Bbu  Medium'
 actualPrice: 18.75 EUR
 currency: EUR
 price: 18.75

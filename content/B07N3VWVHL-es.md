@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41HzoTgk+IL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N3VWVHL-es'
+slug: 'B07N3VWVHL-es Desigual T-Shirt Matilde Camiseta  Negro  Negro 2000   M para Mujer'
 actualPrice: 20.72 EUR
 currency: EUR
 price: 20.72

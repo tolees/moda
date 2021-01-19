@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41b0QdmWQTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VC2P11F-es'
+slug: 'B07VC2P11F-es BOSS Rash Camisa  Blanco  White 100   Large para Hombre'
 actualPrice: 51.66 EUR
 currency: EUR
 price: 51.66

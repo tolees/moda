@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41kbdpt6nRL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CD1TTVQ-es'
+slug: 'B07CD1TTVQ-es Skechers DELSON-Antigo 65693  Zapatos de Cordones Oxford para Hombre  Negro  Black Black   48.5 EU'
 actualPrice: 48.9 EUR
 currency: EUR
 price: 48.9

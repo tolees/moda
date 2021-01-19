@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41cGqjlHu2L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N3Z3QKL-es'
+slug: 'B07N3Z3QKL-es Desigual T-Shirt Daryl Camiseta  Blanco  Crudo 1001   Large para Mujer'
 actualPrice: 23.58 EUR
 currency: EUR
 price: 23.58

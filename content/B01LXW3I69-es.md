@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41YZFzy7h7L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LXW3I69-es'
+slug: 'B01LXW3I69-es Marvel Camiseta Manga Corta Deadpool Character Blanco S'
 actualPrice: 13.87 EUR
 currency: EUR
 price: 13.87

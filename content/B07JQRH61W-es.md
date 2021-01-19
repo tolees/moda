@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41rwgog3otL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JQRH61W-es'
+slug: 'B07JQRH61W-es Amazon Essentials - Chaqueta deportiva con media cremallera para niño  Azul oscuro  US 3T  EU 98–104 '
 actualPrice: 5.02 EUR
 currency: EUR
 price: 5.02

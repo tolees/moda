@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31FU42g2yWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M798BXP-es'
+slug: 'B07M798BXP-es Clarks Atticus Cap  Zapatos de Cordones Derby para Hombre  Azul Navy Nubuck Navy Nubuck  43 EU'
 actualPrice: 39.04 EUR
 currency: EUR
 price: 39.04

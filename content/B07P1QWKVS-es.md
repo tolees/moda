@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Qbj0i3amL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P1QWKVS-es'
+slug: 'B07P1QWKVS-es synmixx Gafas Natación Antiniebla Gafas de Natación Protección UV Sin Fugas Ajustable Gafas Nadar para Hombres y Mujeres Adultos con Clip de Nariz Enchufe de Oído  Estuche de EVA'
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

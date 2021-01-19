@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411x+jDY7EL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NDL69NZ-es'
+slug: 'B07NDL69NZ-es G-STAR RAW Starkon Loose Round Neck Camiseta  Rojo  Dk Baron 4749   XX-Small para Hombre'
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98

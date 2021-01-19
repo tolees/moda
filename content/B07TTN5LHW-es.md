@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41MVRxwa3UL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TTN5LHW-es'
+slug: 'B07TTN5LHW-es Only Onlnew Skylar AW Fur Parka CC Otw  Azul  Night Sky Night Sky   L para Mujer'
 actualPrice: 14.79 EUR
 currency: EUR
 price: 14.79

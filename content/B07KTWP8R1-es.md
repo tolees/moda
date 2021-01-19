@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31vv4CiNrCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KTWP8R1-es'
+slug: 'B07KTWP8R1-es Adidas Adilette Shower - Zapatos de Playa y Piscina para Hombre  Negro  43 EU'
 actualPrice: 8.01 EUR
 currency: EUR
 price: 8.01

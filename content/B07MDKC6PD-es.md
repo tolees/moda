@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31U0Z4Kn8dL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MDKC6PD-es'
+slug: 'B07MDKC6PD-es Lacoste Ch9612 Camisa  Azul  Noir Phoenix/Lagon Nsv   X-Small  Talla del Fabricante: 37  para Hombre'
 actualPrice: 45.05 EUR
 currency: EUR
 price: 45.05

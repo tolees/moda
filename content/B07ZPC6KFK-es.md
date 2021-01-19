@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41tvjcq9aHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZPC6KFK-es'
+slug: 'B07ZPC6KFK-es Charles Wilson Sudadera con Cremallera Completa con Capucha Peso Pesado  Large  Navy  1019  '
 actualPrice: 16.95 EUR
 currency: EUR
 price: 16.95

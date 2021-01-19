@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BeZopM1dL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M8YKP96-es'
+slug: 'B07M8YKP96-es Geox W Adrya U Parka  Negro  Black F9000   36  Talla del Fabricante: 40  para Mujer'
 actualPrice: 92.9 EUR
 currency: EUR
 price: 92.9

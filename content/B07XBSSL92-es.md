@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31KG5lId3VL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XBSSL92-es'
+slug: 'B07XBSSL92-es PUMA Nu-Tility FZ Hoody Sudadera  Mujer  Black  M'
 actualPrice: 26.01 EUR
 currency: EUR
 price: 26.01

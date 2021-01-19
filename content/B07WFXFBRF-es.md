@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31zoi872ZHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WFXFBRF-es'
+slug: 'B07WFXFBRF-es SALOMON Agile Training tee M Camiseta de Manga Corta  Hombre  Azul  Vivid Blue/Heather   XS'
 actualPrice: 17.5 EUR
 currency: EUR
 price: 17.5

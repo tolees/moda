@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41GZFnDUzVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QZ3F59D-es'
+slug: 'B07QZ3F59D-es Marca Amazon - find. Chaqueta Bomber Hombre  Negro  Black   S  Label: S'
 actualPrice: 7.89 EUR
 currency: EUR
 price: 7.89

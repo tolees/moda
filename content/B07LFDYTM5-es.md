@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Puu5GjOPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFDYTM5-es'
+slug: 'B07LFDYTM5-es Levi s Relaxed Graphic Crew Sudadera  Azul  Sea Captain Blue Wash Sea Captain 0059   X-Small para Mujer'
 actualPrice: 30.42 EUR
 currency: EUR
 price: 30.42

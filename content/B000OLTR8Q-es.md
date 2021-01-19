@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31qfr7PPBUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000OLTR8Q-es'
+slug: 'B000OLTR8Q-es Converse AS HI CAN OPTIC. WHT M7650 - Botines de lona unisex  color blanco  talla 37.5'
 actualPrice: 54.95 EUR
 currency: EUR
 price: 54.95

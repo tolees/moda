@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/518iHtWTXaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WKGN7P3-es'
+slug: 'B07WKGN7P3-es New Look Faith Belted PU Biker Chaqueta  Beige  Light Khaki 33   40 para Mujer'
 actualPrice: 11.85 EUR
 currency: EUR
 price: 11.85

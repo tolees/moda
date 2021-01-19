@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41GRM1rydVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W1VT6W6-es'
+slug: 'B07W1VT6W6-es Tommy Hilfiger TJM Corp Logo tee Camiseta Deporte  Blanco  White Ybr   Large para Hombre'
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

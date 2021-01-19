@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41U%2B%2BEDVZ2L._SL200_
 comments: true
 category: ofertas
 author: ring
-slug: 'B078S6NK9G-es'
+slug: 'B078S6NK9G-es find. Trucker Denim Chaqueta  Rosa  Pink   48  Talla del Fabricante: Small '
 actualPrice: 15 EUR
 currency: EUR
 price: 15

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41vE+wEcVHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PBGM2HY-es'
+slug: 'B07PBGM2HY-es Marca Amazon - find. Vaqueros Rectos de Tiro Medio Mujer  Azul  MID BLUE   28W / 32L  Label: 28W / 32L'
 actualPrice: 6.74 EUR
 currency: EUR
 price: 6.74

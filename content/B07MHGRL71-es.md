@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Sron9ECVL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MHGRL71-es'
+slug: 'B07MHGRL71-es Iris & Lilly Bli2036  brallete sujetador Mujer  Negro  Black Beauty   Small  Talla fabricante: Small '
 actualPrice: 10.39 EUR
 currency: EUR
 price: 10.39

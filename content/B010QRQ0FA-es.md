@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41I4fE-CAWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B010QRQ0FA-es'
+slug: 'B010QRQ0FA-es Timberland Larchmont Chukka  Botas Clasicas para Hombre  Marrón  Medium Brown Nubuck   41 EU'
 actualPrice: 72.5 EUR
 currency: EUR
 price: 72.5

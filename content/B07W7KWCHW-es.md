@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41BN1BO6W-L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W7KWCHW-es'
+slug: 'B07W7KWCHW-es JACK & JONES JORSHAREE Puffer Jacket Chaqueta  Azul Forest Night  XL para Hombre'
 actualPrice: 36.69 EUR
 currency: EUR
 price: 36.69

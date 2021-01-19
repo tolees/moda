@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41+uY2YvptL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VRD8RSR-es'
+slug: 'B07VRD8RSR-es Levi s Levis Men Vintage Stripe YD Boxer 2P  Gris  Middle Grey Melange 758   Medium  Pack de 2  para Hombre'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

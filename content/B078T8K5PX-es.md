@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Noc4BxwXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078T8K5PX-es'
+slug: 'B078T8K5PX-es Tommy Hilfiger Essential TH Beach Sandal  Chanclas para Hombre  Negro  Black 990   40 EU'
 actualPrice: 24.45 EUR
 currency: EUR
 price: 24.45

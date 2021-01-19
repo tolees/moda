@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51VP7DK62QL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BNN8JF4-es'
+slug: 'B08BNN8JF4-es NEWHEY Bolsa Mensajero Maletin Hombre Vintage Resistentes Bolso Bandolera Hombre Impermeable Lona Bandolera para Ordenador Portátil 15.6 Marrón'
 actualPrice: 37.86 EUR
 currency: EUR
 price: 37.86

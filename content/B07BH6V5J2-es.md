@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41JFQF2NnkL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BH6V5J2-es'
+slug: 'B07BH6V5J2-es Savage Culture Cala Llonga Blusa  Blanco  Blanco 007   Medium  Tamaño del Fabricante:M  para Mujer'
 actualPrice: 31.7 EUR
 currency: EUR
 price: 31.7

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41kK2jO4N9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T9K23DZ-es'
+slug: 'B07T9K23DZ-es Chubasquero Mujer Chaqueta Impermeable Abrigo Manga Larga Deporte Portable Seco RáPido Rompevientos con Capucha Azul-M '
 actualPrice: 13.95 EUR
 currency: EUR
 price: 13.95

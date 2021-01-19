@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51JO3HD+AdL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MK1QFNM-es'
+slug: 'B07MK1QFNM-es Napapijri GOAYO Camisa Casual  Rojo  Red Check 13C   L para Hombre'
 actualPrice: 24.57 EUR
 currency: EUR
 price: 24.57

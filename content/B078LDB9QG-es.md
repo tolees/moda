@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41HfNQgW96L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B078LDB9QG-es'
+slug: 'B078LDB9QG-es Tommy Jeans Original  Ryan  Vaqueros Straight para Hombre  Azul  River Dark Blue Comfort 911   W30/L36'
 actualPrice: 56.28 EUR
 currency: EUR
 price: 56.28

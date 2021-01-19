@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/518iuYn3baL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01B6FAJ1C-es'
+slug: 'B01B6FAJ1C-es LEGO Ninjago - Pijama para Niños 6-7 Años'
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

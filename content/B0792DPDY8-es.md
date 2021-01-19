@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41SAHL8y4oL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0792DPDY8-es'
+slug: 'B0792DPDY8-es Geox D Arethea B  Mocasines para Mujer  Negro  Black C9999   36 EU'
 actualPrice: 54.95 EUR
 currency: EUR
 price: 54.95

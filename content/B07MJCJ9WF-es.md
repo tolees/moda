@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51nwZcpPGqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MJCJ9WF-es'
+slug: 'B07MJCJ9WF-es ⭐ Za atar Libanés Del Chef ⭐ 200 Gr ⭐ NABÜR GOURMET ⭐ Auténtico  Rico  Poderoso Bag Bolso reutilizable ⭐ LANZAMIENTO DE OFERTA'
 actualPrice: 13.27 EUR
 currency: EUR
 price: 13.27

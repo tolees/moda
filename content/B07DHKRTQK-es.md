@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/414-AlqRo+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DHKRTQK-es'
+slug: 'B07DHKRTQK-es GRAT.UNIC Pantalón Corto Deportivo para Mujer  Running Pantalones Cortos de Yoga con Bolsillo Lateral  Fitness Mallas Deportivas  Negro  S '
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

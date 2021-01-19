@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31kY42IVRUL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B072F2SFRT-es'
+slug: 'B072F2SFRT-es SELECTED FEMME Sfranja SS Highneck Dress  Vestido Mujer  Negro  Black Black   36  Talla del Fabricante: Small '
 actualPrice: 9.16 EUR
 currency: EUR
 price: 9.16

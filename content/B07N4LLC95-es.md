@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31PYx9ZTzmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N4LLC95-es'
+slug: 'B07N4LLC95-es Marca Amazon - Daily Ritual - Vestido largo de punto sin mangas de corte imperio para mujer  Rojo oscuro  US XS  EU XS - S '
 actualPrice: 8.06 EUR
 currency: EUR
 price: 8.06

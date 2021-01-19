@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Qv9bAj-hL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F2QLWJ3-es'
+slug: 'B07F2QLWJ3-es Helly Hansen Hp Fleece Jacket  Chaqueta Deportiva para Hombre  Azul  Azul Navy 597   Small'
 actualPrice: 70.99 EUR
 currency: EUR
 price: 70.99

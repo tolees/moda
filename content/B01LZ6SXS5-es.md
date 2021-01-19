@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41t9AMEhGLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LZ6SXS5-es'
+slug: 'B01LZ6SXS5-es NK GF3114 - Gafas con Visor Adaptador 3D Realidad Virtual VR - Smartphone  con Auriculares  Ángulo de visión 100°  Lente 42mm  Android & iOS'
 actualPrice: 23.96 EUR
 currency: EUR
 price: 23.96

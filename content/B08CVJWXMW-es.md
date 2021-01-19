@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417hQ9tneJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CVJWXMW-es'
+slug: 'B08CVJWXMW-es Ganchos Carrito Bebé  6 Piezas Ganchos para Silla de Paseo Gancho para Carro de Bebé Bolso de Cambio de Compras Gancho Giratorio Universal Seguro Cochecito Ganchos'
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

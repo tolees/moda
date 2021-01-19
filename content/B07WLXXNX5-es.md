@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41WnLE485mL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WLXXNX5-es'
+slug: 'B07WLXXNX5-es Springfield 3Ip Offline-c/08 Camiseta  Dorado  Gold/Mustard 8   L  Tamaño del Fabricante: L  para Hombre'
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

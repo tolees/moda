@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51+IZl6weqL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JWQLCZD-es'
+slug: 'B07JWQLCZD-es Pepe Jeans Waylon Pm305927 Camisa   Indigo 561   X-Large para Hombre'
 actualPrice: 32.0 EUR
 currency: EUR
 price: 32.0

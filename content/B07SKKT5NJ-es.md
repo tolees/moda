@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41M+2xWUUUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SKKT5NJ-es'
+slug: 'B07SKKT5NJ-es Superdry Hombre Chaqueta Plegable Offshore Rojo Auténtico XL'
 actualPrice: 40.0 EUR
 currency: EUR
 price: 40.0

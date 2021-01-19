@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41y0k1YE3SL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BJS3FXF-es'
+slug: 'B08BJS3FXF-es Cable Alargador USB 2.0 [3M] Cable Extension USB Tipo A Macho A Hembra Alta Velocidad 5 Gbps para Impresora Ratón Teclado Hub Pendrive Mando de PS3 VR Gafas Disco Externo Ordenador y Otros'
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

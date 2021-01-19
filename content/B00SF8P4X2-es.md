@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41LnZMb-h5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00SF8P4X2-es'
+slug: 'B00SF8P4X2-es G-STAR RAW Midge Cody Mid Waist Skinny Vaqueros  Gris  medium aged 6132-071   31W / 34L para Mujer'
 actualPrice: 58.39 EUR
 currency: EUR
 price: 58.39

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41J7SD5olWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B015SGHCHE-es'
+slug: 'B015SGHCHE-es Havaianas You Metallic  Sandalias para Mujer  Dorado  Sand Grey/Light Golden   37/38 EU'
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/511fI7uqMcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P96YVSC-es'
+slug: 'B07P96YVSC-es Wrangler LS Western Shirt Camisa  Negro  Black 100   X-Large para Hombre'
 actualPrice: 23.06 EUR
 currency: EUR
 price: 23.06

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41zOCvxP%2BxL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NAHHR5L-es'
+slug: 'B01NAHHR5L-es find. Blusa Camisera con Cintura Ajustable para Mujer   Azul  Stripe   42  Talla del Fabricante: Large '
 actualPrice: 12 EUR
 currency: EUR
 price: 12

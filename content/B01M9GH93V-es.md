@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31pFGOOw9tL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M9GH93V-es'
+slug: 'B01M9GH93V-es Lacoste Sport SH2128 Sudadera  Multicolor  Noir/Argent Chine   Large  Talla del fabricante: 5  para Hombre'
 actualPrice: 69 EUR
 currency: EUR
 price: 69

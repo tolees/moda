@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41eDuEq-AQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083WS3X9R-es'
+slug: 'B083WS3X9R-es STARBILD Leggins Deportivas para Mujer para Adelgazar Leggins Anticeluliticos Mallas Termicos de Neopreno Fitness Deporte Correr Yoga Pantalón de Sudoración Adelgazantes Corto Negro y Amarillo S'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

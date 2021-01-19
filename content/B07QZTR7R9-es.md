@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31NtunvdeRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QZTR7R9-es'
+slug: 'B07QZTR7R9-es Under Armour Mk1 Warmup Po Hood Sudadera  Hombre  Gris  SM'
 actualPrice: 23.49 EUR
 currency: EUR
 price: 23.49

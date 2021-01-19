@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417pCIQsVkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071P56FTZ-es'
+slug: 'B071P56FTZ-es Only onlELCOS 4/5 AOP Top JRS Noos Camisa Manga Larga  Multicolor  Light Grey Melange AOP:w. Black Zigzag   42  Talla del Fabricante: X-Large  para Mujer'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

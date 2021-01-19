@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41WG-DU464L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KRC3Z3T-es'
+slug: 'B07KRC3Z3T-es Gafas de Lectura sin Patillas Graduadas Anti-bluelight para Hombre y Mujer. Anti-reflejantes y Anti Luz Azul Flexibles Irrompibles de Bolsillo. Red +2.0 – HERMITAGE ROUND'
 actualPrice: 17.52 EUR
 currency: EUR
 price: 17.52

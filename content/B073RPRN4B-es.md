@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31u6AfT8KnL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073RPRN4B-es'
+slug: 'B073RPRN4B-es Helly Hansen T-Shirt Camiseta de Manga Corta Hecha de algodón  con Logo HH en el Pecho  Hombre  Azul  Marino   M'
 actualPrice: 16.09 EUR
 currency: EUR
 price: 16.09

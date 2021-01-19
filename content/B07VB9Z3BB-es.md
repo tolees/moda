@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41tTt5kmZwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VB9Z3BB-es'
+slug: 'B07VB9Z3BB-es JACK & JONES Jjedane Biker Jacket Noos Chaqueta  Marrón  Brown Stone Brown Stone   Medium para Hombre'
 actualPrice: 32.82 EUR
 currency: EUR
 price: 32.82

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41B03vibvUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XLMFSNS-es'
+slug: 'B07XLMFSNS-es Jack & Jones Jjiglenn Jjoriginal JOS 800 I.K Vaqueros Slim  Negro  Black Denim Black Denim   29W x 30L para Hombre'
 actualPrice: 24.0 EUR
 currency: EUR
 price: 24.0

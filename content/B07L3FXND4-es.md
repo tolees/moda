@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41UU8LqZBaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L3FXND4-es'
+slug: 'B07L3FXND4-es Tommy Hilfiger Colorful Rope Flat Sandal  Chanclas para Mujer  Blanco  Whisper White 121   42 EU'
 actualPrice: 69.93 EUR
 currency: EUR
 price: 69.93

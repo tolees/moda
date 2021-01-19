@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31EWU553R1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S4CKX3C-es'
+slug: 'B07S4CKX3C-es FitFlop Lulu Leather Toepost  Sandalias con Plataforma Women s  Blanco  Urban White 024   37 EU'
 actualPrice: 46.49 EUR
 currency: EUR
 price: 46.49

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41PxbxRDTjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LH3CDWS-es'
+slug: 'B07LH3CDWS-es Gafas de Presbicia con Filtro Anti Luz Azul para Ordenador. Gafas Graduadas de Lectura para Hombre y Mujer con Cristales Anti-reflejantes. Graphite +1.5 – TATE'
 actualPrice: 19.92 EUR
 currency: EUR
 price: 19.92

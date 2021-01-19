@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41R5vguuX1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N78FCBU-es'
+slug: 'B01N78FCBU-es Miss Lulu Mujer Bolso de Mano Reversible Elegante Bolso de Hombro de Cuero PU Gran Conjunto dos 2PCS'
 actualPrice: 19.11 EUR
 currency: EUR
 price: 19.11

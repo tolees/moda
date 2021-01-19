@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51tv5JPW+yL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0875YVRVG-es'
+slug: 'B0875YVRVG-es Sandalias Mujer Verano Cuña Cómodos Mules Zuecos Casual Retro Wedge Zapatos de Playa Zapatillas de Vestir Talón 5cm Morado Número 35 EU'
 actualPrice: 22.94 EUR
 currency: EUR
 price: 22.94

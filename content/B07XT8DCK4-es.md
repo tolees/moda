@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51U02ygGKNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XT8DCK4-es'
+slug: 'B07XT8DCK4-es Air Zapatillas de Running para Hombre Mujer Zapatos para Correr y Asfalto Aire Libre y Deportes Calzado Unisexo Black White 34'
 actualPrice: 33.85 EUR
 currency: EUR
 price: 33.85

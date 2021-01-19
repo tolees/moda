@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Q0iEjA+yL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZMK87K-es'
+slug: 'B07MZMK87K-es Pepe Jeans Mohsen Sudadera   Grey Marl 933   17-18 años de Edad  Talla del Fabricante: 17/18 años  para Niños'
 actualPrice: 12.02 EUR
 currency: EUR
 price: 12.02

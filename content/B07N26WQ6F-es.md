@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/410WEqp6T-L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N26WQ6F-es'
+slug: 'B07N26WQ6F-es Tommy Jeans TJM Tech Parka Chaqueta  Verde  Forest Night   M para Hombre'
 actualPrice: 90.3 EUR
 currency: EUR
 price: 90.3

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41OnxrociaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B014VFZ0O0-es'
+slug: 'B014VFZ0O0-es Clarks Carlita Cove - Zapatos de Tacón para Mujer  Beige  Sand Patent   39.5'
 actualPrice: 48.0 EUR
 currency: EUR
 price: 48.0

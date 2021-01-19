@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412rCBNpvrL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01FFL7ETS-es'
+slug: 'B01FFL7ETS-es Under Armour HG Armour 2.0 Comp Short Pantalón Corto  Hombre  Gris  Carbon Heather/Black 090   M'
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

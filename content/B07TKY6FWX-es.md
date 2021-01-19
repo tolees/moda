@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31VsSTmG7hL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TKY6FWX-es'
+slug: 'B07TKY6FWX-es The North Face Zaneck Chaqueta  Hombre  Montague Blue  M'
 actualPrice: 150.0 EUR
 currency: EUR
 price: 150.0

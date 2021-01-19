@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31nD6H9PNJL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L6P8XHJ-es'
+slug: 'B07L6P8XHJ-es FitFlop Lulu Cross Slide  Sandalias de Punta Descubierta para Mujer  Brown Bronze 012  37 EU'
 actualPrice: 35.76 EUR
 currency: EUR
 price: 35.76

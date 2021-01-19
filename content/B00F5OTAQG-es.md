@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31jBwiXlgiL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00F5OTAQG-es'
+slug: 'B00F5OTAQG-es GANT The Original SS T-Shirt Camiseta  Blanco  White 110   Small para Hombre'
 actualPrice: 20.92 EUR
 currency: EUR
 price: 20.92

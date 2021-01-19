@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Ufy+xYveL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078M7MK2D-es'
+slug: 'B078M7MK2D-es NEEGO Bolsillo Lateral de la Consola con Monedero y Portavasos Organizador de Asiento de Carro Caddy Slit Gap Rellenador Cuero de PU 2 Lados  Lzquierda y Derecha '
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

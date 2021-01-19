@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41TMkYo4qiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RL2W2VZ-es'
+slug: 'B07RL2W2VZ-es Tommy Hilfiger TJM Essential Logo tee Camiseta Deporte  Azul  Blue Ckb   Medium para Hombre'
 actualPrice: 20.75 EUR
 currency: EUR
 price: 20.75

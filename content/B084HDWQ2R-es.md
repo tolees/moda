@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41FRWGC3mTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084HDWQ2R-es'
+slug: 'B084HDWQ2R-es XTI - Sandalias con Tacón Casual - Sandalia con Tacón - Cierre con Hebilla - Color Negro - Talla 37'
 actualPrice: 27.95 EUR
 currency: EUR
 price: 27.95

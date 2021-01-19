@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/414RfMSOamL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MNZKLJG-es'
+slug: 'B07MNZKLJG-es Lacoste Th8550 Camiseta  Azul  Marine 166   X-Small  Talla del Fabricante: 2  para Hombre'
 actualPrice: 31.01 EUR
 currency: EUR
 price: 31.01

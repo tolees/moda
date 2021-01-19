@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/410Hpeo1rJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N1K5MQR-es'
+slug: 'B07N1K5MQR-es Clarks Linvale Jerica  Zapatos de tacón con Punta Cerrada para Mujer  Leopard PRT Comb Leopard PRT Comb  37.5 EU'
 actualPrice: 33.3 EUR
 currency: EUR
 price: 33.3

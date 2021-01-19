@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41E88oAIN-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0876TGZ2H-es'
+slug: 'B0876TGZ2H-es Bebé Mono Mameluco de Manga Larga Niños Niñas Body Peleles Pijama Regalo de Recien Nacido Dinosaurio  Blanco 3-6 Meses'
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

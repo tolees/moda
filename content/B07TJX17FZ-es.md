@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41RZGl+2kpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TJX17FZ-es'
+slug: 'B07TJX17FZ-es Lacoste Sport Th3377 Camiseta  Naranja  Glaieul/Cosmique Xrn   Large  Talla del Fabricante: 5  para Hombre'
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

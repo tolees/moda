@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51oE5X09H-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00MJ2YPMQ-es'
+slug: 'B00MJ2YPMQ-es Reslad Camisa vaquera para hombre Slim Fit Vintage Denim Camisa vaquera color azul desgastado | Camisa de ocio 100% algodón RS-7109 azul S'
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

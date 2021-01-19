@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41mzx45mZaL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M8WBHVN-es'
+slug: 'B07M8WBHVN-es Wrangler Texas Contrast Vaqueros  Azul  Warm Up 97b   33 W/ 30 L para Hombre'
 actualPrice: 44.98 EUR
 currency: EUR
 price: 44.98

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51jt6VAYLEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XQ924GP-es'
+slug: 'B07XQ924GP-es FIND Cork Two Part Sling Back Wedge Zapatos de tacón con Punta Abierta  Marrón  Tan   37 EU'
 actualPrice: 8.15 EUR
 currency: EUR
 price: 8.15

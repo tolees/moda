@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41EUsjIbXnL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V5SXWGX-es'
+slug: 'B07V5SXWGX-es JACK & JONES Jjialvin Jjsherpa Corduroy Akm555 STS Chaqueta Vaquera  Negro  Black Black   XL para Hombre'
 actualPrice: 27.0 EUR
 currency: EUR
 price: 27.0

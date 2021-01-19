@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41QpSVowU9L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00JBS7BOK-es'
+slug: 'B00JBS7BOK-es Kempa Gold Camiseta  Hombre  Amarillo limón/Negro  XL'
 actualPrice: 9.79 EUR
 currency: EUR
 price: 9.79

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31uuAHw3PZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FQYSSFQ-es'
+slug: 'B07FQYSSFQ-es Clarks Laina RAE  Zapatos de Tacón para Mujer  Beige  Nude Patent-   38 EU'
 actualPrice: 59.9 EUR
 currency: EUR
 price: 59.9

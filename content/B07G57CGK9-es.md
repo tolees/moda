@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41HpYwSgoYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G57CGK9-es'
+slug: 'B07G57CGK9-es find. 2 Pack Slim Shirt - Camisa Hombre  Blau  Bengal Blue / Blue   39 cm  Label: M'
 actualPrice: 8.76 EUR
 currency: EUR
 price: 8.76

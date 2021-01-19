@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41oNQAkjIQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T8NTZF6-es'
+slug: 'B07T8NTZF6-es Gafas de Sol Mujer Gafas  Gafas de Sol Mujer Polarizadas  Gafas sol Hombre Polarizadas Aptos para Correr  Voleibol  Senderismo Polarizadas Hombre de Moda Lentes UV400 Y Montura De TR-90  Gris +Rojo '
 actualPrice: 9.39 EUR
 currency: EUR
 price: 9.39

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41GS6hX-jpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S5LSH43-es'
+slug: 'B07S5LSH43-es BOSS Boxer Brief 24 Logo  Negro  Black 1   XX-Large para Hombre'
 actualPrice: 13.81 EUR
 currency: EUR
 price: 13.81

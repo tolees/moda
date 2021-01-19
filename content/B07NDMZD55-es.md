@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41x62PxcqgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NDMZD55-es'
+slug: 'B07NDMZD55-es G-STAR RAW Motac Slim Round Neck Sudadera  Gris  Granite Htr 2522   XX-Small para Hombre'
 actualPrice: 42.56 EUR
 currency: EUR
 price: 42.56

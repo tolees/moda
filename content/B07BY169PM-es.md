@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411-O6qdYCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BY169PM-es'
+slug: 'B07BY169PM-es Tommy Hilfiger Modern Jaspe Camiseta  Azul  Blue Sapphire 423   Small para Hombre'
 actualPrice: 22.3 EUR
 currency: EUR
 price: 22.3

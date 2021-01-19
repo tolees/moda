@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41A3V1rpluL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RXZ65NX-es'
+slug: 'B07RXZ65NX-es Pepe Jeans Finsbury Vaqueros  Blue Medium Used  31W / 32L para Hombre'
 actualPrice: 63.92 EUR
 currency: EUR
 price: 63.92

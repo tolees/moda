@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41fPr6S6FrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XHPMTQF-es'
+slug: 'B06XHPMTQF-es Marca Amazon - find. Camisa Hombre  Negro  Black   S  Label: S'
 actualPrice: 6.44 EUR
 currency: EUR
 price: 6.44

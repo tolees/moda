@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31ol0uCRznL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MLSVCK6-es'
+slug: 'B07MLSVCK6-es Clarks Grandin Plain  Zapatos de Cordones Derby para Hombre  Azul  Navy Navy   41 EU'
 actualPrice: 47.95 EUR
 currency: EUR
 price: 47.95

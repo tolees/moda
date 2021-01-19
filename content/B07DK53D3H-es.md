@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41V-syfJqcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DK53D3H-es'
+slug: 'B07DK53D3H-es Geox J Alben D  Zapatillas para Niños  Azul  Navy/Red C0735   36 EU'
 actualPrice: 54.32 EUR
 currency: EUR
 price: 54.32

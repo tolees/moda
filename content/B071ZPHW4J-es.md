@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41QFYLEg6cL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071ZPHW4J-es'
+slug: 'B071ZPHW4J-es Finether 5m Escalera Telescópica de Aluminio  Escalera Extensible  Escalera Multipropósito Portátil con Guantes de Trabajo y Bolsa de Escalera  14 Peldaños  Certificada por EN131  Capacidad de 150 kg'
 actualPrice: 122.99 EUR
 currency: EUR
 price: 122.99

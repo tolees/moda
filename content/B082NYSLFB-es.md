@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41lrCuHrIdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082NYSLFB-es'
+slug: 'B082NYSLFB-es Oihxse Transparente Silicona Case Compatible con Huawei P9 Plus Funda Suave TPU Protección Carcasa Moda Dibujos Animados Divertida Diseño Ultra-Delgado Cubierta-Piña'
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

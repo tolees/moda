@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Lwv401qXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X6GCTTG-es'
+slug: 'B07X6GCTTG-es Esprit 099Ee1G023 Parka  Azul  Navy 400   M para Mujer'
 actualPrice: 34.91 EUR
 currency: EUR
 price: 34.91

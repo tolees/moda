@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417XDRwBQYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077P9BMZQ-es'
+slug: 'B077P9BMZQ-es adidas Ask SPR LS Camiseta  Sin género  Negro  2XL'
 actualPrice: 14.35 EUR
 currency: EUR
 price: 14.35

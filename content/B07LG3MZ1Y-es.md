@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ssynOa6HL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LG3MZ1Y-es'
+slug: 'B07LG3MZ1Y-es Geox B ALBEN Boy A  Zapatillas para Bebés  Azul  Navy/Grey C0661   20 EU'
 actualPrice: 30.85 EUR
 currency: EUR
 price: 30.85

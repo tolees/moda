@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41A16w8uT6L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C3L6TR1-es'
+slug: 'B07C3L6TR1-es Superdry Tech Hood Pop Zip SD-wndcheate Chaqueta Deportiva  Negro  Black/Super Denby Cw9   Medium para Hombre'
 actualPrice: 45.49 EUR
 currency: EUR
 price: 45.49

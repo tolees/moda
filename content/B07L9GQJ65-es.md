@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31gnVome91L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L9GQJ65-es'
+slug: 'B07L9GQJ65-es Under Armour Tech Terry Sudadera  Mujer  Negro  XL'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

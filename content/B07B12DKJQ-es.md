@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51Zr46asNkL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B12DKJQ-es'
+slug: 'B07B12DKJQ-es FIND Vestido de Flores con Volantes Mujer  Rosa  Pink   Large'
 actualPrice: 36 EUR
 currency: EUR
 price: 36

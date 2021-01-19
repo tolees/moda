@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31jBPR0X-NL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FQQSCY5-es'
+slug: 'B07FQQSCY5-es Clarks Step Beat Sun  Abierta Sandalias Punta Cerrada  Azul  Navy-   40 EU'
 actualPrice: 41.15 EUR
 currency: EUR
 price: 41.15

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41XS4rDPaAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VDFYRDD-es'
+slug: 'B07VDFYRDD-es Desigual CAM Matera Blusa  Blanco  Blanco 1000   XX-Large para Mujer'
 actualPrice: 32.0 EUR
 currency: EUR
 price: 32.0
@@ -25,10 +25,10 @@ Ahora mismo tienes [Desigual CAM Matera Blusa  Blanco  Blanco 1000   XX-Large pa
 
 🔎:
 
-- Brand: DESIGUAL
-- Tipologia: Donna
-- Colore: Fantasia
 - Articolo: Camicia
+- Colore: Fantasia
+- Tipologia: Donna
+- Brand: DESIGUAL
 - Modello: 20SWCW22
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07VDFYRDD/?tag=tolees-21)

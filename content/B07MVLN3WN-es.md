@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41TPwSuxHNL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MVLN3WN-es'
+slug: 'B07MVLN3WN-es JACK & JONES Jcoviking tee SS Crew Neck Camiseta  Blanco  White Fit: Reg   Small para Hombre'
 actualPrice: 9.0 EUR
 currency: EUR
 price: 9.0

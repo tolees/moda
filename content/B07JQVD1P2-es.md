@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ygzpvicdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JQVD1P2-es'
+slug: 'B07JQVD1P2-es Tommy Hilfiger Essential Hooded Down Jacket Chaqueta   Flame Scarlet 667   Small para Mujer'
 actualPrice: 135.53 EUR
 currency: EUR
 price: 135.53

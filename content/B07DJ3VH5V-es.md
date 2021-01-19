@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31-mBokhRRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DJ3VH5V-es'
+slug: 'B07DJ3VH5V-es Geox D Annya High A  Zapatos de Tacón para Mujer  Beige  Beige C5000   39 5 EU'
 actualPrice: 35.31 EUR
 currency: EUR
 price: 35.31

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41QzQY6sFRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PPXVTGW-es'
+slug: 'B07PPXVTGW-es Under Armour UA Seamless SS Manga Corta para Hombre  Camiseta para Correr  Verde  2XL'
 actualPrice: 17.15 EUR
 currency: EUR
 price: 17.15

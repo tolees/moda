@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41wzPAibjZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079SMKJDM-es'
+slug: 'B079SMKJDM-es Desigual Nisa TS Camiseta  Azul  Marino 5001   L para Mujer'
 actualPrice: 11.98 EUR
 currency: EUR
 price: 11.98

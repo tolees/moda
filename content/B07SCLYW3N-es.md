@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/315dMkNi0cL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SCLYW3N-es'
+slug: 'B07SCLYW3N-es Lee Rider Jeans Vaqueros  Mission Worn  30W / 32L para Hombre'
 actualPrice: 49.98 EUR
 currency: EUR
 price: 49.98

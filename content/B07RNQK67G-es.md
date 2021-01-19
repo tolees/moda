@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41b-uR+EzbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RNQK67G-es'
+slug: 'B07RNQK67G-es Sandalias para Mujer Verano 2019 Plataforma Cuña LuckyGirls Zapatos Fiesta Tacón Alto Vestir Elegantes Boda Playa Casual Peep Toe Lentejuelas Tallas Grandes'
 actualPrice: 6.82 EUR
 currency: EUR
 price: 6.82

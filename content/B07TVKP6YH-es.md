@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31kIqeEYACL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TVKP6YH-es'
+slug: 'B07TVKP6YH-es Wrangler Larston Vaqueros  Dusty Olive  28W / 32L para Hombre'
 actualPrice: 45.59 EUR
 currency: EUR
 price: 45.59

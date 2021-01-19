@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31e340nPCrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W14BXYH-es'
+slug: 'B07W14BXYH-es Pepe Jeans Raury Camiseta  Verde  734safari 734   17-18 años  Talla del Fabricante: 18  para Niños'
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

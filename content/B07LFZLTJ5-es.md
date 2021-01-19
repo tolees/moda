@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31rqeoS-IdL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFZLTJ5-es'
+slug: 'B07LFZLTJ5-es Geox D Nebula D  Zapatillas para Mujer  Azul  Dk Navy C4021   39 EU'
 actualPrice: 60.85 EUR
 currency: EUR
 price: 60.85

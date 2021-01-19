@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31c5Xk6kjEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V45QSYN-es'
+slug: 'B07V45QSYN-es Salomon Coton Logo SS tee M Camiseta de Manga Corta  Hombre  Negro/Blanco  Black/White   S'
 actualPrice: 13.54 EUR
 currency: EUR
 price: 13.54

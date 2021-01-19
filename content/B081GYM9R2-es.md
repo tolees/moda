@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Y6D7lHBML._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081GYM9R2-es'
+slug: 'B081GYM9R2-es Mujer Zapatillas Deporte para Zapatillas de Ligeras Running Transpirables Cómodas Correr para Zapatos de Malla black38'
 actualPrice: 33.88 EUR
 currency: EUR
 price: 33.88

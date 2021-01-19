@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41j6DAkmtbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DF31QXT-es'
+slug: 'B07DF31QXT-es Niños Trolley Mochila Escolar Bolso - Niña Niño con Ruedas Equipaje De Viaje para Niños con Bolsa Trolley'
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

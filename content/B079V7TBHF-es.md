@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41VZZtSfLlL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079V7TBHF-es'
+slug: 'B079V7TBHF-es Wrangler Slim Vaqueros  Azul  Perfect Blue 17P   29W / 30L para Mujer'
 actualPrice: 44.95 EUR
 currency: EUR
 price: 44.95

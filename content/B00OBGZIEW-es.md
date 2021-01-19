@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31EzvkEp1QL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00OBGZIEW-es'
+slug: 'B00OBGZIEW-es Only onlROYAL REG SKINNY JEANS PIM504 NOOS - Vaqueros Mujer  Azul  Medium Blue Denim   Talla alemana: 42/L30  Talla fabricante: XL '
 actualPrice: 23.96 EUR
 currency: EUR
 price: 23.96

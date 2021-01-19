@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41GJKpD1epL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0776W3KLD-es'
+slug: 'B0776W3KLD-es Adidas Terrex Swift R2  Zapatos de Low Rise Senderismo para Hombre  Negro  Negbas 000   40 2/3 EU'
 actualPrice: 81.99 EUR
 currency: EUR
 price: 81.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41MLE8KS-GL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RF197MS-es'
+slug: 'B07RF197MS-es G-STAR RAW Revend Skinny Vaqueros  Antic Faded Ripped Ash  29W / 34L para Hombre'
 actualPrice: 32.51 EUR
 currency: EUR
 price: 32.51

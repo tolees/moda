@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31W38s-uUVL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NDPNS6J-es'
+slug: 'B07NDPNS6J-es G-STAR RAW Scutar Utility Padded Abrigo  Gris  Asfalt 995   XX-Small para Hombre'
 actualPrice: 34.92 EUR
 currency: EUR
 price: 34.92

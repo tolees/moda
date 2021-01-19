@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41n0RDCAghL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VHW4CTL-es'
+slug: 'B07VHW4CTL-es Desigual - Bolso de mano de Sintético Mujer  color Blanco  talla 3x36.5x32 cm  B x H x T '
 actualPrice: 19.58 EUR
 currency: EUR
 price: 19.58

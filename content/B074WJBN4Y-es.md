@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31olQkcFoWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074WJBN4Y-es'
+slug: 'B074WJBN4Y-es Marca Amazon - MERAKI Chaqueta de Merino Hombre Cuello Pico  Negro  Black   L  Label: L'
 actualPrice: 16.89 EUR
 currency: EUR
 price: 16.89

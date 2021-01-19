@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41AEJhdyfuL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0831QS4WM-es'
+slug: 'B0831QS4WM-es Canadian Peak Parka DE NIÑA BANINA Azul Marino 14'
 actualPrice: 53.4 EUR
 currency: EUR
 price: 53.4

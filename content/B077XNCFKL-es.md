@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31jG7hu14wL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077XNCFKL-es'
+slug: 'B077XNCFKL-es Under Armour Armour Fleece Full Zip Sudadera con Capucha  Hombre  Gris  Steel Light Heather/Black 035   S'
 actualPrice: 34.31 EUR
 currency: EUR
 price: 34.31

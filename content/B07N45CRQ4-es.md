@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41k3RWHLI1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N45CRQ4-es'
+slug: 'B07N45CRQ4-es United Colors of Benetton Highlands Man Abrigo   Marrón 2c0   X-Large para Hombre'
 actualPrice: 42.66 EUR
 currency: EUR
 price: 42.66

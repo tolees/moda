@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51ZzO8MZ-FL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01GLW9OCK-es'
+slug: 'B01GLW9OCK-es Twins Jacke TEDDYBÄR  Chaqueta Bebé unisex  Morado  lila   74'
 actualPrice: 4.19 EUR
 currency: EUR
 price: 4.19

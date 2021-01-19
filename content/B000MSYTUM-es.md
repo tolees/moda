@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31UgvlD6D7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000MSYTUM-es'
+slug: 'B000MSYTUM-es Birkenstock 051791 - Sandalias con hebilla unisex  Negro  40  normal '
 actualPrice: 49.95 EUR
 currency: EUR
 price: 49.95

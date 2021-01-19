@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ruDqQIEoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LBP7C9L-es'
+slug: 'B07LBP7C9L-es Helly Hansen Daybreaker Chaqueta Forro Polar con Capucha  Unisex Adulto  Black  2XL'
 actualPrice: 47.49 EUR
 currency: EUR
 price: 47.49

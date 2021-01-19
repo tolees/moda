@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/519yOpH5ZqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081MYZ3HG-es'
+slug: 'B081MYZ3HG-es Wesho Guantes Gimnasio  XL Guantes Gimnasio Hombre Antideslizante Guantes Deportivos Transpirable con Protección Completa de Muñeca y Palma  para Ciclismo Crossfit Levantamiento de Pesas Musculación'
 actualPrice: 9.98 EUR
 currency: EUR
 price: 9.98

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31K77oOzpFL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00UKEJDKY-es'
+slug: 'B00UKEJDKY-es Carrera 96/S NR GVB Gafas de sol  Negro  Shiny Matte Black/Brown Grey   58 Unisex-Adulto'
 actualPrice: 90.87 EUR
 currency: EUR
 price: 90.87

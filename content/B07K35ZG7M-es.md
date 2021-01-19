@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41jzvY9xiYL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K35ZG7M-es'
+slug: 'B07K35ZG7M-es BOSS Daruch Vestido  Negro  Black 001   Small para Mujer'
 actualPrice: 65.57 EUR
 currency: EUR
 price: 65.57

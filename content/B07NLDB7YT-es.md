@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31goN+-JWtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NLDB7YT-es'
+slug: 'B07NLDB7YT-es Meller - Waga Minor Carbon - Gafas de sol para hombre y mujer'
 actualPrice: 22.4 EUR
 currency: EUR
 price: 22.4

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41uGw%2BpjDAL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B076FCZS83-es'
+slug: 'B076FCZS83-es RED WAGON Sudadera Print Niñas  Morado  Lavander Fog 13-3820 Tcx   110  Talla del fabricante: 5 '
 actualPrice: 4.5 EUR
 currency: EUR
 price: 4.5

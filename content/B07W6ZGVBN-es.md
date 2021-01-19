@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51FEdaV2YTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W6ZGVBN-es'
+slug: 'B07W6ZGVBN-es DOACT Chaleco Calefactable Exteriores  Chaqueta Calefactable Lavable  Tres Engranajes Eléctrica Calefactable Chaquetas Acampada y Marcha  Adecuado Hombres y Mujeres Caza Pesca Esquiar  XXL '
 actualPrice: 5.89 EUR
 currency: EUR
 price: 5.89

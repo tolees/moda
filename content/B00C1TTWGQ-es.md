@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31PIcBQZoSL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00C1TTWGQ-es'
+slug: 'B00C1TTWGQ-es Polaroid P8346 RC 0BM Gafas de sol  Marrón  Havana/Green Polarized   59 para Hombre'
 actualPrice: 27.25 EUR
 currency: EUR
 price: 27.25

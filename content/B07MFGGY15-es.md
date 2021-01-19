@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31mgdWUbBEL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MFGGY15-es'
+slug: 'B07MFGGY15-es PUMA ESS Logo tee B Camiseta  Niños  High Risk Red  128'
 actualPrice: 7.49 EUR
 currency: EUR
 price: 7.49

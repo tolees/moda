@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41mkETlUaaL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B076DGSY1K-es'
+slug: 'B076DGSY1K-es Pepe Jeans Taylor PL900443 Falda  Azul  Dark Tru BLU Ce3   X-Small para Mujer'
 actualPrice: 20.48 EUR
 currency: EUR
 price: 20.48

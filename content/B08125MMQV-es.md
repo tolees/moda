@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41UOU623g8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08125MMQV-es'
+slug: 'B08125MMQV-es Geographical Norway Parka Hombre VERVEINE Negro S'
 actualPrice: 71.4 EUR
 currency: EUR
 price: 71.4

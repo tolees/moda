@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/414co5+5suL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D5SCJ42-es'
+slug: 'B07D5SCJ42-es PUMA ESS Logo tee Camiseta  Mujer  Gris  Light Gray Heather   2XL'
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

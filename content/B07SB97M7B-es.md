@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41TLHS34ATL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SB97M7B-es'
+slug: 'B07SB97M7B-es adidas Grand Court Base  Zapatos de Tenis para Hombre  Marino  42 2/3 EU'
 actualPrice: 25.39 EUR
 currency: EUR
 price: 25.39

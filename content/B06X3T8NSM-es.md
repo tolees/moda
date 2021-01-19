@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51wkbtSFiUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06X3T8NSM-es'
+slug: 'B06X3T8NSM-es Marca Amazon - find. Slip para Hombre Y-Front  Multipack  Negro  Charcoal X3  White X2   M  Label: M'
 actualPrice: 12.4 EUR
 currency: EUR
 price: 12.4

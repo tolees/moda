@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41iTsjUZ90L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CZLWHWK-es'
+slug: 'B07CZLWHWK-es Under Armour UA Heatgear Racer Camiseta  Mujer  Naranja  Mango Orange/Metallic Silver 492   XS'
 actualPrice: 19.97 EUR
 currency: EUR
 price: 19.97

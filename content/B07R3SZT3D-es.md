@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417TMCmL4lL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R3SZT3D-es'
+slug: 'B07R3SZT3D-es Wrangler Logo Sweat Sudadera  Marrón  Picante Brown X9h   X-Large para Hombre'
 actualPrice: 37.48 EUR
 currency: EUR
 price: 37.48

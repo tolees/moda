@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41JOoSREtWL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B007MLY7XQ-es'
+slug: 'B007MLY7XQ-es Derbystar Uni Spielertrikot - Camiseta de equipación  tamaño 116/128  Color Amarillo/Azul'
 actualPrice: 9.22 EUR
 currency: EUR
 price: 9.22

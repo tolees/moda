@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31r9SWTHqqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LBPGBHN-es'
+slug: 'B07LBPGBHN-es Helly Hansen Killarney II Aislado Parka Chaqueta De Invierno  Hombre  Black  2XL'
 actualPrice: 105.98 EUR
 currency: EUR
 price: 105.98

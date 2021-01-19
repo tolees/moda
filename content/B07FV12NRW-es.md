@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413xgipLprL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FV12NRW-es'
+slug: 'B07FV12NRW-es Millet Route GTX  Zapatos de High Rise Senderismo para Hombre  Negro  Black/Acid Green 7216   44 EU'
 actualPrice: 99.95 EUR
 currency: EUR
 price: 99.95

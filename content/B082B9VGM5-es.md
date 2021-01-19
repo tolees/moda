@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41RgjyUCMjL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B082B9VGM5-es'
+slug: 'B082B9VGM5-es Geographical Norway Chaqueta Softshell DE NIÑA TILSIT Azul Marino 16'
 actualPrice: 71.2 EUR
 currency: EUR
 price: 71.2

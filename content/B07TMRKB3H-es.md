@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Bt9+KogEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TMRKB3H-es'
+slug: 'B07TMRKB3H-es Clarks Tri Slide  Sandalias Punta Cerrada para Mujer  Beige  Black Leather Black Leather   36 EU'
 actualPrice: 32.62 EUR
 currency: EUR
 price: 32.62

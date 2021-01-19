@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Wn1trnFjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TZSS1NX-es'
+slug: 'B07TZSS1NX-es Superga 1908-puu  Zapatos de Playa y Piscina Unisex Adulto  Multicolor  Silver/Black/Orange A0c   37 EU'
 actualPrice: 19.56 EUR
 currency: EUR
 price: 19.56

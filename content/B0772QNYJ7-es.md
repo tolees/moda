@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31jIhs-gVmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0772QNYJ7-es'
+slug: 'B0772QNYJ7-es Marca Amazon - MERAKI Pantalones Chinos Regular Fit Hombre  Red  Beet Red   32W / 32L  Label: 32W / 32L'
 actualPrice: 11.89 EUR
 currency: EUR
 price: 11.89

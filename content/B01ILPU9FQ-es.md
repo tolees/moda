@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41sSsyYhIpL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01ILPU9FQ-es'
+slug: 'B01ILPU9FQ-es Protest Update  Chaqueta para Hombre  Negro  True Black 290   S'
 actualPrice: 76.97 EUR
 currency: EUR
 price: 76.97

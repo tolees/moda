@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ltDurGFML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JCH9W9R-es'
+slug: 'B07JCH9W9R-es Columbia Carson Pass Chaqueta Interchange  Mujer  Azul  Dark Azul/Nocturnal   L'
 actualPrice: 90.48 EUR
 currency: EUR
 price: 90.48

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41CR6aCchCL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NXV1N8M-es'
+slug: 'B07NXV1N8M-es Dickies Manitou Chaqueta  Verde  X-Small  Talla del Fabricante:  para Hombre'
 actualPrice: 51.67 EUR
 currency: EUR
 price: 51.67

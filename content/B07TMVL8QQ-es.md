@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41sqrIa3aEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TMVL8QQ-es'
+slug: 'B07TMVL8QQ-es Clarks Declan Mix  Sandalias de Gladiador para Mujer  Marrón  Mahogany Combi Mahogany Combi   36 EU'
 actualPrice: 37.78 EUR
 currency: EUR
 price: 37.78

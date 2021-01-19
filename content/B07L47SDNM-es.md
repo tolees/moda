@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31BzwianKdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L47SDNM-es'
+slug: 'B07L47SDNM-es Marca Amazon - AURIQUE Bal181la18 - leggings deporte mujer Mujer  Azul  Dress Blue/White   42  Label:L'
 actualPrice: 10.25 EUR
 currency: EUR
 price: 10.25

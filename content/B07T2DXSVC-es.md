@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41q-okmQAXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T2DXSVC-es'
+slug: 'B07T2DXSVC-es Timberland Perkins Row 2-Strap  Junior   Sandalias de Punta Descubierta Unisex-Niños  Verde Dark Green with Orange  36 EU'
 actualPrice: 20.44 EUR
 currency: EUR
 price: 20.44

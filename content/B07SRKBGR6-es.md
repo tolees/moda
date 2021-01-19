@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41rQSBIY6GL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SRKBGR6-es'
+slug: 'B07SRKBGR6-es Geox D LEELU  E  Zapatillas para Mujer  Blanco  White/Off White C1352   42 EU'
 actualPrice: 47.8 EUR
 currency: EUR
 price: 47.8

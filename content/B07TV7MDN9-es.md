@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41j2EA0c9WL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TV7MDN9-es'
+slug: 'B07TV7MDN9-es Levi s Plus Size Pl 501 Crop Stonewash Vaqueros Straight  Azul  Jive Stone Wash 0001   No Aplica  Talla del Fabricante: 14  para Mujer'
 actualPrice: 79.03 EUR
 currency: EUR
 price: 79.03

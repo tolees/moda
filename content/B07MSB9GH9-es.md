@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31iMrEVYsrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MSB9GH9-es'
+slug: 'B07MSB9GH9-es Kickers Maldan  Zapatos de Cordones Derby para Hombre  Marrón  Marron Fonce Perm 92   45 EU'
 actualPrice: 30.13 EUR
 currency: EUR
 price: 30.13

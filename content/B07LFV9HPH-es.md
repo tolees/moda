@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31yklR0EBOL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFV9HPH-es'
+slug: 'B07LFV9HPH-es Geox U Renan B  Zapatillas para Hombre  Negro  Black C9999   41 EU'
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41aPfSEnHtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DJ7H6MZ-es'
+slug: 'B07DJ7H6MZ-es Geox D New Annya Mid A  Zapatos con Tacón para Mujer  Negro  Black C9999   41 EU'
 actualPrice: 33.46 EUR
 currency: EUR
 price: 33.46

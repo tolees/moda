@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31rIIq+hwwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SST87KB-es'
+slug: 'B07SST87KB-es Quiksilver Molokai Eclipsed Deluxe  Zapatos de Playa y Piscina para Hombre  Negro  Black/Grey/Brown Xksc   42 EU'
 actualPrice: 18.97 EUR
 currency: EUR
 price: 18.97

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/415zzLWNyGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R92LMDZ-es'
+slug: 'B07R92LMDZ-es Columbia Cascade Ridge Chaqueta Softshell  Unisex Adulto  Gris  Tradewinds Grey Heather   L'
 actualPrice: 53.99 EUR
 currency: EUR
 price: 53.99

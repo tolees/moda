@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/3116CR4G1NL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N1HWCW8-es'
+slug: 'B07N1HWCW8-es Clarks Sharon Noel  Zapatos de Cordones Derby para Mujer  Azul  Navy Suede Navy Suede   36 EU'
 actualPrice: 26.23 EUR
 currency: EUR
 price: 26.23

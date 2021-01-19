@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41fBuotizRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D6ZZMJ6-es'
+slug: 'B07D6ZZMJ6-es Levi s Mile High Super Skinny Vaqueros  Black Galaxy  23W / 32L para Mujer'
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

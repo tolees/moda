@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31U6wBxkldL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M5GTEGH-es'
+slug: 'B01M5GTEGH-es Lacoste TH6712 Camiseta  Azul  Marine   Small  Talla del Fabricante: 3  para Hombre'
 actualPrice: 25.77 EUR
 currency: EUR
 price: 25.77

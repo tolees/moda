@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41D5tpzIpDL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B7D84BQ-es'
+slug: 'B07B7D84BQ-es Daclay Zapatos niños Deportivo Transpirable y Transpirable con Parte Superior de Cuero cómoda con Zapatillas Velcro niña Sneakers  28 EU  Negro '
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

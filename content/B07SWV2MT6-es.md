@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41gLznjUnbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SWV2MT6-es'
+slug: 'B07SWV2MT6-es Geox D Myria C  Zapatillas para Mujer  Azul  Navy C4002   38 EU'
 actualPrice: 38.15 EUR
 currency: EUR
 price: 38.15

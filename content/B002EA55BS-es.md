@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31bpbv6t17L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002EA55BS-es'
+slug: 'B002EA55BS-es Havaianas Slim Chanclas Mujer  Negro  Black 0090   33/34 EU'
 actualPrice: 16.2 EUR
 currency: EUR
 price: 16.2

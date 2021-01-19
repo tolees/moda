@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51YV9+ky65L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J9VQ32K-es'
+slug: 'B07J9VQ32K-es ACVIP - Abrigo - Chaqueta Guateada - para niña Red 2 5-6 Años'
 actualPrice: 32.14 EUR
 currency: EUR
 price: 32.14

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31-+Debr5eL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071HW9Z6V-es'
+slug: 'B071HW9Z6V-es Under Armour Sportstyle Pique Track Jacket Chaqueta  Hombre  Negro  Black/Black 001   M'
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

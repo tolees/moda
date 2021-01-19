@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/3155yvFadsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00AWVYDF0-es'
+slug: 'B00AWVYDF0-es Gildan - Camiseta básica de manga corta Unisex Estilosa Suave Niños Niñas - Verano/Calor  XS/Gris sport '
 actualPrice: 3.45 EUR
 currency: EUR
 price: 3.45

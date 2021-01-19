@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31iB+MCs1lL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0772R4HZH-es'
+slug: 'B0772R4HZH-es Marca Amazon - MERAKI Pantalones Chinos Regular Fit Hombre  azul  navy   31W / 32L  Label: 31W / 32L'
 actualPrice: 12.19 EUR
 currency: EUR
 price: 12.19

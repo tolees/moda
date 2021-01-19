@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413KlSZdknL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KSRP9C5-es'
+slug: 'B07KSRP9C5-es AnazoZ Acero Inoxidable Gemelos para Hombre Camisa Gemelos Boda Plata Dos Cilindro Bar 0.9x1.8CM'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

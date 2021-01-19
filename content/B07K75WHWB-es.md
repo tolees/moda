@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/417%2BiDjmnZL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K75WHWB-es'
+slug: 'B07K75WHWB-es Levi s Button Thru Mom Skirt Falda  Azul  Mid Race 0002   única  Talla del Fabricante: 28  para Mujer'
 actualPrice: 30.7 EUR
 currency: EUR
 price: 30.7

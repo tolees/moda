@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41j0ruQg8QL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BJD2KB8-es'
+slug: 'B01BJD2KB8-es Just Cool - Camiseta lisa para hombre  Primavera-Verano  envolvente  Liso  Manga Corta  Hombre  color negro azabache  tamaño XXXXXL'
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

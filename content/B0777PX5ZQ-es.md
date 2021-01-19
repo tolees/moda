@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41mppO0L3mL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0777PX5ZQ-es'
+slug: 'B0777PX5ZQ-es Tommy Hilfiger Jersey T Camiseta con Cuello de Pico y Logo  Rojo  Formula One   M para Hombre'
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

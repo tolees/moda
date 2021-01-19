@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41ctbu7j9jL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J3DF5VS-es'
+slug: 'B07J3DF5VS-es Under Armour Men s CGI Fleece Glove Guantes  Hombre  Gris  LG'
 actualPrice: 19.39 EUR
 currency: EUR
 price: 19.39

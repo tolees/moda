@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31qfS2bOXJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072K4JCPN-es'
+slug: 'B072K4JCPN-es Teva W Hurricane Xlt2  Sandalias de Punta Descubierta para Mujer  Negro  Black Black   36 EU'
 actualPrice: 29.12 EUR
 currency: EUR
 price: 29.12

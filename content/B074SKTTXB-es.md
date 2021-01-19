@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41xAwQuLODL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074SKTTXB-es'
+slug: 'B074SKTTXB-es RONSOU Retro Polarizadas Gafas de Sol 100% UV401 Protección Gafas para Hombre y Mujer dorado marco/gris lente'
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

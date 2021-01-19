@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41YjtRtpGPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KQ13YDH-es'
+slug: 'B07KQ13YDH-es FitFlop Lottie Glitzy  Sandalias de Punta Descubierta Women s  Gris  Pewter 054   36 EU'
 actualPrice: 49.0 EUR
 currency: EUR
 price: 49.0

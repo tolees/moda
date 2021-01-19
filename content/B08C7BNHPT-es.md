@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41M7SuDkVsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08C7BNHPT-es'
+slug: 'B08C7BNHPT-es Zapatillas de Estar por Casa para Niñas Niños Invierno Zapatillas Interior Casa Caliente Pantuflas Suave Algodón Calentar Zapatilla Mujer Hombres 25-26 EU  Fabricante: 18-19  Gris2'
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

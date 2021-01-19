@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/312awAn0t7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T74G8PV-es'
+slug: 'B07T74G8PV-es Tag Heuer Brillengestelle Th-0552 Monturas de gafas  Multicolor  Mehrfarbig   57.0 Unisex Adulto'
 actualPrice: 146.28 EUR
 currency: EUR
 price: 146.28

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41dOZhGi60L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QXHNYB9-es'
+slug: 'B07QXHNYB9-es BaZhaHei Moda Mochila Mini Dragones Mini Bolso de Hombro Bolsos de Moda Casual'
 actualPrice: 1.58 EUR
 currency: EUR
 price: 1.58

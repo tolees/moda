@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/312KFdHfLSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SZ7YY3R-es'
+slug: 'B07SZ7YY3R-es Geox U Nebula Y A  Zapatillas para Hombre  Azul  Lt AVI O C4348   45 EU'
 actualPrice: 43.42 EUR
 currency: EUR
 price: 43.42

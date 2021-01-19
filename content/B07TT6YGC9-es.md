@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31oQNxKABgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TT6YGC9-es'
+slug: 'B07TT6YGC9-es Levi s 725 High Rise Bootcut Vaqueros Corte de Bota  Azul  Two The Nine 0000   W24/L32  Talla del Fabricante: 24 32  para Mujer'
 actualPrice: 54.3 EUR
 currency: EUR
 price: 54.3

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41n3N1I08CL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SRJGW3K-es'
+slug: 'B07SRJGW3K-es Geox J Alben Boy B  Zapatillas para Niños  Azul  Avio/Beige C4289   40 EU'
 actualPrice: 27.77 EUR
 currency: EUR
 price: 27.77

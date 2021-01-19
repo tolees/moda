@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41pl007Nv5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VFK4Q7R-es'
+slug: 'B07VFK4Q7R-es Desigual TS Tropic Thoughts Camiseta  Rojo  Fresa Acid 3089   Small para Mujer'
 actualPrice: 15.61 EUR
 currency: EUR
 price: 15.61

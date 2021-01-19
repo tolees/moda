@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41WeM3pZOWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JW51WBB-es'
+slug: 'B07JW51WBB-es Columbia Carson Pass II Chaqueta impermeable  Mujer  Azul  Nocturnal   XL'
 actualPrice: 74.31 EUR
 currency: EUR
 price: 74.31

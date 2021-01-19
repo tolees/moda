@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41s3qqANOKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07773RVJG-es'
+slug: 'B07773RVJG-es Tommy Hilfiger Original Stretch Camisa  Azul  Black Iris 002   Medium para Hombre'
 actualPrice: 45.45 EUR
 currency: EUR
 price: 45.45

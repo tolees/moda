@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/517a0Og3t7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0767P1SRB-es'
+slug: 'B0767P1SRB-es Geox D Ophira B  Zapatillas para Mujer  Dorado  Lt Taupe/lt Gold   36 EU'
 actualPrice: 29.39 EUR
 currency: EUR
 price: 29.39

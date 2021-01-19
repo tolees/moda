@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31aUiDycB8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DYX9P8Z-es'
+slug: 'B07DYX9P8Z-es Columbia Gate Racer Chaqueta Softshell para Hombre  Azul  Collegiate Navy   XL'
 actualPrice: 94.95 EUR
 currency: EUR
 price: 94.95

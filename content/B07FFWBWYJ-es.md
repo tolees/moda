@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41scYxEdoZL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FFWBWYJ-es'
+slug: 'B07FFWBWYJ-es Eono Essentials - Chaqueta impermeable para hombre con capucha fija  Gris claro  L |Chaqueta invierno hombre'
 actualPrice: 20.65 EUR
 currency: EUR
 price: 20.65

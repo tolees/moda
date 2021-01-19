@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31rpYxsWaZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0753KRD7T-es'
+slug: 'B0753KRD7T-es Uvex Sportstyle 803 v Gafas de Deporte  Adultos Unisex  Black Mat  One Size'
 actualPrice: 91.21 EUR
 currency: EUR
 price: 91.21

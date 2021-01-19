@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41nBq42-8FL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XG77Z6F-es'
+slug: 'B06XG77Z6F-es Marca Amazon - find. Camisa Hombre  Verde  Mint Green Gingham   XL  Label: XL'
 actualPrice: 7.6 EUR
 currency: EUR
 price: 7.6

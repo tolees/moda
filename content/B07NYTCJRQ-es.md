@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/510DJpkOM9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NYTCJRQ-es'
+slug: 'B07NYTCJRQ-es Marca Amazon - find. Vestido de Flores con Volantes Mujer  Negro  Black Spot   42  Label: L'
 actualPrice: 15.22 EUR
 currency: EUR
 price: 15.22

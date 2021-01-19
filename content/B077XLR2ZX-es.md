@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413m0NK2goL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077XLR2ZX-es'
+slug: 'B077XLR2ZX-es Under Armour Armour Fleece Full Zip Sudadera con Capucha  Hombre  Negro  Black/Black 001   XL'
 actualPrice: 34.72 EUR
 currency: EUR
 price: 34.72

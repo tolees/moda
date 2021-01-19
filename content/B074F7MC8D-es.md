@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31GdeLG0NAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074F7MC8D-es'
+slug: 'B074F7MC8D-es Crocs LiteRide Slide  Sandalias de Punta Descubierta Unisex Adulto  Azul  Navy/White 462   42/43 EU'
 actualPrice: 28.53 EUR
 currency: EUR
 price: 28.53

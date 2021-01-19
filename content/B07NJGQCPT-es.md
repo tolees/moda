@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41BbY1x4cVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NJGQCPT-es'
+slug: 'B07NJGQCPT-es Dolores Promesas 108146 Camiseta  Verde  Verde  Verde 00  000   Large  Tamaño del Fabricante:Large  Tamaño del Fabricante:L   para Mujer'
 actualPrice: 24.57 EUR
 currency: EUR
 price: 24.57

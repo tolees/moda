@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412L5CTR2rL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CZJ9PJ5-es'
+slug: 'B07CZJ9PJ5-es Under Armour Vanish Woven Short Pantalón Corto  Hombre  Azul  Academy/Pitch Gray 408   XXL'
 actualPrice: 23.31 EUR
 currency: EUR
 price: 23.31

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31JNwr3TmoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KK4PBDR-es'
+slug: 'B07KK4PBDR-es Columbia Fire Venture L II WP  Zapatos de Senderismo para Mujer  Gris  Shark  Wild IRI 011   37 EU'
 actualPrice: 29.27 EUR
 currency: EUR
 price: 29.27

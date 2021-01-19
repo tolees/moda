@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31sspHGcjYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFRN386-es'
+slug: 'B07LFRN386-es Geox D Calinda Mid C  Botas Altas para Mujer  Negro  Black C9999   40 EU'
 actualPrice: 78.73 EUR
 currency: EUR
 price: 78.73

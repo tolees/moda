@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41FRQGbcgnL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DK4ZFBV-es'
+slug: 'B07DK4ZFBV-es Geox J Android Boy C  Zapatillas para Niños  Azul  Navy/Lime C0749   30 EU'
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

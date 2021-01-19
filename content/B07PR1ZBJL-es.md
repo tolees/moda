@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Ixqpt-wLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PR1ZBJL-es'
+slug: 'B07PR1ZBJL-es Under Armour Camo Boxed Logo Camisa Manga Corta  Hombre  Verde  LG'
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

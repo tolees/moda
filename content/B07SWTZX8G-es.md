@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31-y1ps5FPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SWTZX8G-es'
+slug: 'B07SWTZX8G-es Geox D Avery C  Zapatillas para Mujer  Blanco  White C1000   36 EU'
 actualPrice: 40.19 EUR
 currency: EUR
 price: 40.19

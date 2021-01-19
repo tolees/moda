@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417qJurtYNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C1JN9X5-es'
+slug: 'B07C1JN9X5-es Auxo Mujer Pijama Vestido Interior Sexy Enaguas Enteras Encaje Tirante Sin Mangas Combinación Vestido 01-Negro S'
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

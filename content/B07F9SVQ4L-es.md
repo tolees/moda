@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31XXseVsr4L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F9SVQ4L-es'
+slug: 'B07F9SVQ4L-es Esprit Kids RM1039307 Camiseta  Blanco  White 010    Talla del Fabricante: 116+  para Niñas'
 actualPrice: 7.09 EUR
 currency: EUR
 price: 7.09

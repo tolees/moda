@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/419k69-GqpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZP1L34X-es'
+slug: 'B07ZP1L34X-es Jack & Jones Jcoisland tee SS Crew Neck Camiseta  Azul  China Blue Fit: Slim   Medium  Herstellergröße: M  para Hombre'
 actualPrice: 6.39 EUR
 currency: EUR
 price: 6.39

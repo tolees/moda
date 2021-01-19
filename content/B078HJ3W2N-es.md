@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41tpNZj0QtL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B078HJ3W2N-es'
+slug: 'B078HJ3W2N-es IRIS & LILLY Braguita de Algodón Mujer  Pack de 5  Multicolor  Twilight Blue/cashmere Blue    Talla del fabricante: Large '
 actualPrice: 4.5 EUR
 currency: EUR
 price: 4.5

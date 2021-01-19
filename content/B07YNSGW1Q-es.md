@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/410783g6qpL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YNSGW1Q-es'
+slug: 'B07YNSGW1Q-es Charles Wilson Calzoncillo Bóxer de Hombre 6 Unidades  X-Large  Black  1019  '
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

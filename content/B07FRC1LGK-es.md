@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31pe3TK+HoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FRC1LGK-es'
+slug: 'B07FRC1LGK-es Clarks Step Beat Sun  Abierta Sandalias Punta Cerrada  Negro  Black-   44 EU'
 actualPrice: 36.2 EUR
 currency: EUR
 price: 36.2

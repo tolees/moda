@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41pRG1HHTDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N3VXB5R-es'
+slug: 'B07N3VXB5R-es Desigual Dress Karen Vestido  Blanco 1000  M para Mujer'
 actualPrice: 32.9 EUR
 currency: EUR
 price: 32.9

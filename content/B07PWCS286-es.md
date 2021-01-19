@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51PYI-070oL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PWCS286-es'
+slug: 'B07PWCS286-es AGPTEK Bolsa Deporte y Viaje para Mujer y Hombre con Compartimento de Zapatos y Bolsillo Impermeable Bolsa de Playa de Multibolsos Multiuso como Mochila Plegable para Deporte Nadar Vacaciones Azul'
 actualPrice: 16.74 EUR
 currency: EUR
 price: 16.74

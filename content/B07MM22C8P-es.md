@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41DVM06Cc3L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MM22C8P-es'
+slug: 'B07MM22C8P-es Geox J KURAY Boy B ABX B  Botas de Nieve para Niños  Azul  Navy/Royal C4226   24 EU'
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

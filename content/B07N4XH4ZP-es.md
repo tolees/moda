@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41d7xoyFlOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N4XH4ZP-es'
+slug: 'B07N4XH4ZP-es Tommy Hilfiger Tjw Clean Linear Logo tee Camiseta   Purple VF E   Medium para Mujer'
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

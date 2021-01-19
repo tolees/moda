@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31eh-ZCd9WL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DJ3H1HM-es'
+slug: 'B07DJ3H1HM-es Geox U Leitan B  Zapatos de Cordones Derby para Hombre  Azul  Navy C4002   45 EU'
 actualPrice: 58.94 EUR
 currency: EUR
 price: 58.94

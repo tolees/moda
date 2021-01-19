@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31+JhwIO1JL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MC8VT6D-es'
+slug: 'B07MC8VT6D-es JACK & JONES JJESLUB Knit Crew Neck STS Jersey  Azul  Navy Blazer Navy Blazer   M para Hombre'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

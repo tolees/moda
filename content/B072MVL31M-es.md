@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BHwDVk25L._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B072MVL31M-es'
+slug: 'B072MVL31M-es find. Chaqueta Estilo Bomber para Hombre  Gris  Charcoal   X-Large'
 actualPrice: 13.5 EUR
 currency: EUR
 price: 13.5

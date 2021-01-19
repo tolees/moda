@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31sHtODqADL._SL500_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HC9N3DZ-es'
+slug: 'B07HC9N3DZ-es PICSIL Raven 2H Calleras para Crossfit Grips 2 Agujeros Agarre y Protector de Mano o Guantes para Gimnasia Unisex para Hombre en Deportes de Fitness Pullup Calistenia Halterofilia y Musualción.'
 actualPrice: 20.95 EUR
 currency: EUR
 price: 20.95

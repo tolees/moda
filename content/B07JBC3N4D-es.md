@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Jvuf3f7IL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JBC3N4D-es'
+slug: 'B07JBC3N4D-es Columbia Titan Ultra II Pantalón Corto  Poliéster  Hombre  Negro  Talla US: XL/L5/  EU XL/L5 '
 actualPrice: 30.49 EUR
 currency: EUR
 price: 30.49

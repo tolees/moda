@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31mkEqsNRYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RB7RZGC-es'
+slug: 'B07RB7RZGC-es Columbia Tolt Track Chaqueta con forro extraíble  Mujer  Black  M'
 actualPrice: 77.52 EUR
 currency: EUR
 price: 77.52

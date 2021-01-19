@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41X15tdk0AL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LG1QJ82-es'
+slug: 'B07LG1QJ82-es Geox J HADRIEL Girl A  Zapatillas Altas para Niñas  Gris  Dk Grey C9002   32 EU'
 actualPrice: 38.4 EUR
 currency: EUR
 price: 38.4

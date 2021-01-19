@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Fid2AL1fL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0779DYZZ1-es'
+slug: 'B0779DYZZ1-es Spiuk Rodda Road Zapatilla  Unisex Adulto  Amarillo AV  43'
 actualPrice: 64.34 EUR
 currency: EUR
 price: 64.34

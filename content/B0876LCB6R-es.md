@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/419q-Y3oD1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0876LCB6R-es'
+slug: 'B0876LCB6R-es Shelfin - Camiseta de baloncesto de la NBA de Miami Heat del número 3 Wade  transpirable  grabada  color azul  tamaño small'
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

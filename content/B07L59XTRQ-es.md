@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31VvF9PORvL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L59XTRQ-es'
+slug: 'B07L59XTRQ-es Only & Sons Onsowen Zip Track Sweat Chaqueta Deportiva  Negro  Black Black   Large para Hombre'
 actualPrice: 9.46 EUR
 currency: EUR
 price: 9.46

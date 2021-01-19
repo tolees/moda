@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41DQ8cQzxFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S6KZCHB-es'
+slug: 'B07S6KZCHB-es Fall Out Boy - Camiseta Modelo Mania para Adultos Unisex  L   Negro '
 actualPrice: 9.7 EUR
 currency: EUR
 price: 9.7

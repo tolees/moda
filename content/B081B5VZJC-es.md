@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41xZNUwg7UL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081B5VZJC-es'
+slug: 'B081B5VZJC-es Columbia Silver Ridge 2.0 Camisa de Manga Larga  Hombre  Verde  Sage   L'
 actualPrice: 39.33 EUR
 currency: EUR
 price: 39.33

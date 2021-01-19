@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41rDrnk7dGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SRYBN7B-es'
+slug: 'B07SRYBN7B-es Marca Amazon - MERAKI Snk492 - camisa Mujer  Azul  Navy   46  Label: XXL'
 actualPrice: 6.19 EUR
 currency: EUR
 price: 6.19

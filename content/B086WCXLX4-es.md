@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41QA9JUKknL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086WCXLX4-es'
+slug: 'B086WCXLX4-es Qunlon Ultraligero Zapatos de Seguridad Hombres Mujeres Entrenadores de Trabajo Zapatillas Deportivas con Puntera de Acero Industrial y construcción Zapatos 791-44EU'
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

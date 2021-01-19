@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Rru4enE5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MN3GXHT-es'
+slug: 'B07MN3GXHT-es Lee Sherpa Jacket Chaqueta Vaquera  Azul  Light Stone Oy   Small para Hombre'
 actualPrice: 88.2 EUR
 currency: EUR
 price: 88.2

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Ps05XJZLL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00F5OTARK-es'
+slug: 'B00F5OTARK-es GANT The Original Solid T-Shirt Camiseta  Negro  Black 5   Small para Hombre'
 actualPrice: 19.56 EUR
 currency: EUR
 price: 19.56

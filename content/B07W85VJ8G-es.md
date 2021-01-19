@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51unep9zPSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W85VJ8G-es'
+slug: 'B07W85VJ8G-es Springfield 5.T.Blusa Print Cenefas-C/66 Blusa  Naranja  Orange 66   38  Tamaño del Fabricante: 38  para Mujer'
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

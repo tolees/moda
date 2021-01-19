@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41tMhLP9Y9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CC7L6Q6-es'
+slug: 'B08CC7L6Q6-es XINFULUK Multi-propósito de Moda Coreana Diseño de lechón Cocina de Dibujos Animados Bolsas de Malla de baño Bolsa de Red de Almacenamiento Impermeable para bebés - Rojo'
 actualPrice: 1.72 EUR
 currency: EUR
 price: 1.72

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/314uDuqP0qL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WC472PV-es'
+slug: 'B07WC472PV-es Tommy Hilfiger John Cargo Short Light Twill Vaqueros Relaxed  Azul  Desert Sky   W28/L30  Talla del Fabricante:  para Hombre'
 actualPrice: 15.36 EUR
 currency: EUR
 price: 15.36

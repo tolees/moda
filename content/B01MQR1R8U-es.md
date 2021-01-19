@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41v2i18UgaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MQR1R8U-es'
+slug: 'B01MQR1R8U-es Columbia Carson Pass II Chaqueta para Mujer  Negro  M'
 actualPrice: 128.98 EUR
 currency: EUR
 price: 128.98

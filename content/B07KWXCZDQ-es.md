@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41xd2dFA+XL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KWXCZDQ-es'
+slug: 'B07KWXCZDQ-es SMARTEN Air Zapatillas de Running Hombre Mujer Calzado Deportivo Ligero y Transpirable Asfalto Zapatos para Correr Antideslizante Sneakers Negro  Blanco  Amarillo  Azul  Rosa Black White 39 EU'
 actualPrice: 33.88 EUR
 currency: EUR
 price: 33.88

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/312lt5JNdyL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PWCBYBD-es'
+slug: 'B07PWCBYBD-es Calvin Klein Jeans Ckj 026 Vaqueros Slim  Azul  Stay Black 911   W30/L32  Talla del Fabricante: 3230  para Hombre'
 actualPrice: 35.57 EUR
 currency: EUR
 price: 35.57

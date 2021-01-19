@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/415FJevT7GL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07STLXMRD-es'
+slug: 'B07STLXMRD-es Geox D Airell A  Zapatillas para Mujer  Gris  Lt Grey C1010   38 EU'
 actualPrice: 43.28 EUR
 currency: EUR
 price: 43.28

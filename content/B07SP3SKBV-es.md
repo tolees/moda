@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/514USDGMkxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SP3SKBV-es'
+slug: 'B07SP3SKBV-es Havaianas Top Mix  Chanclas para Mujer  Rosa  Hollywood Rose 0064   33/34 EU'
 actualPrice: 12.8 EUR
 currency: EUR
 price: 12.8

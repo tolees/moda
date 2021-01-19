@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/517EfDcR7LL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0752NT3CF-es'
+slug: 'B0752NT3CF-es Havaianas Brasil Logo Chanclas Unisex adulto  Amarillo  Banana Yellow   45/46 EU'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

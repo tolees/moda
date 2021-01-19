@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41z6lXCzVLL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B074FW6T9Q-es'
+slug: 'B074FW6T9Q-es find. Sudadera Estampada para Hombre  Azul  Navy   Large'
 actualPrice: 8.4 EUR
 currency: EUR
 price: 8.4

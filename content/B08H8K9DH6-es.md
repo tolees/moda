@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ZulRqBHTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08H8K9DH6-es'
+slug: 'B08H8K9DH6-es Superdry Hombre Chaqueta degradada Power Lima/Turquesa S'
 actualPrice: 84.98 EUR
 currency: EUR
 price: 84.98

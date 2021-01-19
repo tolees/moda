@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31XmR6waJWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MLVR1NK-es'
+slug: 'B07MLVR1NK-es Marca Amazon - find. Abrigo Cruzado de Lana Hombre  azul  marino   M  Label: M'
 actualPrice: 20.74 EUR
 currency: EUR
 price: 20.74

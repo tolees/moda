@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/414sCh3T3dL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0758FDQT2-es'
+slug: 'B0758FDQT2-es Care Bane Camiseta  Morado  Lavender 607   9 Meses/74 cm  Pack de 3'
 actualPrice: 4.19 EUR
 currency: EUR
 price: 4.19

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41SRsG5Md+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TSPJG93-es'
+slug: 'B07TSPJG93-es Women s Secret Daily Da1 Femenine PJ Conjuntos de Pijama  Rojo  Rojo/Raya Diplomat 60   Small  Tamaño del Fabricante: S  para Mujer'
 actualPrice: 14.3 EUR
 currency: EUR
 price: 14.3

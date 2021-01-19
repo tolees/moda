@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/21iOeLmyCLL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MR16RF9-es'
+slug: 'B07MR16RF9-es Calvin Klein Jeans Sonnenbrille Ckj510S 0 Gafas de sol  Blanco  Weiß   52.0 para Mujer'
 actualPrice: 25.06 EUR
 currency: EUR
 price: 25.06

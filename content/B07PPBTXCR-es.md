@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51W28yXX4dL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PPBTXCR-es'
+slug: 'B07PPBTXCR-es 6 PCS Moño Pelo Accesorios Moda Natural Francesa Twists Herramienta Bricolaje Moño Maker Para Mujeres Niñas Marrón Claro  Rubia  Marrón '
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41wVAS+chQL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NJH5RJS-es'
+slug: 'B07NJH5RJS-es El Naturalista N5310 Iris Coral  Botines para Mujer  Gris  Plume Plume   38 EU'
 actualPrice: 74.95 EUR
 currency: EUR
 price: 74.95

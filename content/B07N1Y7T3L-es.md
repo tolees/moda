@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Fn+PkCiKL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N1Y7T3L-es'
+slug: 'B07N1Y7T3L-es Khroom Camiseta de Compresión de Superhéroe para Hombre | Ropa Deportiva de Secado Rápido para Ejercicio  Gimnasio  Musculación  Running. Material Extensible Ventilado Anti Transpiración  Aquaman  S '
 actualPrice: 14.97 EUR
 currency: EUR
 price: 14.97

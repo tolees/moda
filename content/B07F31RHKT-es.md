@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31u5kE1zGcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F31RHKT-es'
+slug: 'B07F31RHKT-es Vans Colorblock tee - Camiseta para Hombre   Azul  Dress Blues-White Short   Small'
 actualPrice: 12.5 EUR
 currency: EUR
 price: 12.5

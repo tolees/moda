@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41glGz3tfgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075N4F7GW-es'
+slug: 'B075N4F7GW-es Air Zapatillas de Running para Hombre Mujer Zapatos para Correr y Asfalto Aire Libre y Deportes Calzado Unisexo Black Red 43'
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31jFmpJrocL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00TPPGQL8-es'
+slug: 'B00TPPGQL8-es Lacoste Sh7613  Sudadera para Hombre  Black 31  XX-Large  Talla del fabricante : 7 '
 actualPrice: 58.45 EUR
 currency: EUR
 price: 58.45

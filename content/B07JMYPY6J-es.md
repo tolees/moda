@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31R6RevnifL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JMYPY6J-es'
+slug: 'B07JMYPY6J-es UniqueBella Suit Esquí Térmica Ropa Interior Térmica Manga Larga Camiseta + Térmica Pantalones Largos  Deportes de Invierno  Conjuntos térmicos para Hombre  Color Azul  Tamaño L'
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

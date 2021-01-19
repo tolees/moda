@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31+qDfMqPzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079SB1VBL-es'
+slug: 'B079SB1VBL-es Marca Amazon - MERAKI Camisa Clásica Entallada de Vestir Hombre  Gris  Grey   L  Label: L'
 actualPrice: 13.55 EUR
 currency: EUR
 price: 13.55

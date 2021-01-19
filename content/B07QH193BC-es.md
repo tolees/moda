@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41zJC6egFRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QH193BC-es'
+slug: 'B07QH193BC-es MTNG Collection 58142  Botines para Mujer  Negro  Antil Negro C35442   37 EU'
 actualPrice: 18.4 EUR
 currency: EUR
 price: 18.4

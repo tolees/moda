@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/4157kufxE%2BL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P9QWWM2-es'
+slug: 'B07P9QWWM2-es ESCATCH - Pantalón de Ropa de Pijama de Verano para Hombres Pantlones Cortos de Deportes para Correr Jogging Ropa Seca Rápido para Playa - Rojo - ES 44'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

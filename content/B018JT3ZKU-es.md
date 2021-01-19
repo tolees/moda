@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412YowwNn+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B018JT3ZKU-es'
+slug: 'B018JT3ZKU-es Levi s Levis 200sf Boxer Brief 2p  Hombre  Negro  Jet Black  X-Large  Tamaño del Fabricante:040   Pack de 2'
 actualPrice: 15.95 EUR
 currency: EUR
 price: 15.95

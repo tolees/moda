@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31qm8sI-9ML._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TMGVKKD-es'
+slug: 'B07TMGVKKD-es Charles Wilson Pantalón de Deportes con Puño Pantalón Deportivo Polar  Large  Black  0619  '
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

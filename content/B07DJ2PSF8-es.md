@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31AFyjUICCL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DJ2PSF8-es'
+slug: 'B07DJ2PSF8-es Geox Uomo Snake a  Zapatillas para Hombre  Black/Dk Grey C0005  41 EU'
 actualPrice: 30.81 EUR
 currency: EUR
 price: 30.81

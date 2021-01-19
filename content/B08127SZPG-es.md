@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31qjZoC7soL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08127SZPG-es'
+slug: 'B08127SZPG-es Jack & Jones JPRBLUWIN Polo SS STS Camisa  Azul Marino  XL para Hombre'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

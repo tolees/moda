@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41l9br2Ky1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071HQMBB5-es'
+slug: 'B071HQMBB5-es Chaqueta Softshell Inatye'
 actualPrice: 50.98 EUR
 currency: EUR
 price: 50.98

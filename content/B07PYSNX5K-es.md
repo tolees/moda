@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41+WpvX4E0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PYSNX5K-es'
+slug: 'B07PYSNX5K-es Marca Amazon - find. Statement Fairisle Jumper Suéter Mujer  Beige  NATURAL   40  Label: M'
 actualPrice: 19.63 EUR
 currency: EUR
 price: 19.63

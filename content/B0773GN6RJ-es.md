@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/61ZYPYPDrlL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0773GN6RJ-es'
+slug: 'B0773GN6RJ-es DCCN 3 Pcs Canvas Bolsas Escolares Mochila niños niñas Adolescentes Mochila Escolar + Bolsa De Hombro + Billetera + Bolso de Pluma'
 actualPrice: 21.38 EUR
 currency: EUR
 price: 21.38

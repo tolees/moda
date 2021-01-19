@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31TDOgj49xL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N1JF9DH-es'
+slug: 'B07N1JF9DH-es Clarks Un Cosmo Way  Zapatos de Tacón para Mujer  Negro Black/Comb  35.5 EU'
 actualPrice: 24.78 EUR
 currency: EUR
 price: 24.78

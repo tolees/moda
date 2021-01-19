@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51XqZ1OxJSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SP4ZNPG-es'
+slug: 'B07SP4ZNPG-es Havaianas Flash Urban  Sandalias de Talón Abierto para Mujer  Rosa  Lilac Lavender 7599   39/40 EU'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

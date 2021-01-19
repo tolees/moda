@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31QCd1pEK0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KS9WMJ4-es'
+slug: 'B07KS9WMJ4-es adidas W E 3s Slim tee Camiseta de Manga Corta  Mujer  Black/White  2XS'
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

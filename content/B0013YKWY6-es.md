@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Z8PVPo4eL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0013YKWY6-es'
+slug: 'B0013YKWY6-es Birkenstock Medina Birko-Flor  Chanclas para Hombre  Negro  Schwarz   41 EU'
 actualPrice: 35.5 EUR
 currency: EUR
 price: 35.5

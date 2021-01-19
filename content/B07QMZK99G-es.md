@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51OvEzbGs8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QMZK99G-es'
+slug: 'B07QMZK99G-es YACUN Sujetador Deportivo Mujer Bra Chaleco de Malla Yoga Fitness Deportes Gym Top Sujetadores Push up Negro M'
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

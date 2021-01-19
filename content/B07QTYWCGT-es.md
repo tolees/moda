@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41jDR10PUcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QTYWCGT-es'
+slug: 'B07QTYWCGT-es WILBEST Billetera de Hombre de Piel  Cartera RFID  Carteras Hombre con Monedero - Bloque 13.56 MHz  Cartera Personalizada Función de 4 en 1  Botón Diseño de Bolsillo con Cremallera  Negro Naranja'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

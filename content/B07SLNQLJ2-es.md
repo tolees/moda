@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41h0E0GQOnL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SLNQLJ2-es'
+slug: 'B07SLNQLJ2-es Nike Jumpman Diamond Mid  Zapatos de Baloncesto para Hombre  Multicolor  Black/University Red/White 006   42 EU'
 actualPrice: 111.35 EUR
 currency: EUR
 price: 111.35

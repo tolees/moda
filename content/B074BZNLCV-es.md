@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/3128obOuFIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074BZNLCV-es'
+slug: 'B074BZNLCV-es Pepe Jeans Hatch  Vaqueros Slim para Hombre  Negro  Denim 11Oz Stay Black S92   W28/L30'
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

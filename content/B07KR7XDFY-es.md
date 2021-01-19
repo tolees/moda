@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31KIm5nhNsL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KR7XDFY-es'
+slug: 'B07KR7XDFY-es Clarks Un Costa Lace  Zapatos de Cordones Derby para Hombre  Marrón Tan Leather  41 EU'
 actualPrice: 44.95 EUR
 currency: EUR
 price: 44.95

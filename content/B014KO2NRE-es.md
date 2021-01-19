@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41hSnDy1AXL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B014KO2NRE-es'
+slug: 'B014KO2NRE-es Pepe Jeans Soho Vaqueros  Azul  10Oz Classic Stretch Z63   34W / 30L para Mujer'
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

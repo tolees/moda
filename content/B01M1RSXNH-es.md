@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41w8l-ZUBFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M1RSXNH-es'
+slug: 'B01M1RSXNH-es Trango Ganin Ft Chaqueta  Mujer  Verde  6G0 -Verde Lima   L'
 actualPrice: 124.99 EUR
 currency: EUR
 price: 124.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41z+J3CX51L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JYVLV5C-es'
+slug: 'B07JYVLV5C-es Tommy Hilfiger TH ESS Classic Straight HW C Vaqueros  Azul  ELA 912   W31  Talla del Fabricante: NI31  para Mujer'
 actualPrice: 35.45 EUR
 currency: EUR
 price: 35.45

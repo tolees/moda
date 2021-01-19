@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Ojk6ojcWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F7PGQ1H-es'
+slug: 'B07F7PGQ1H-es Only Onlnew Mallory L/s Blouse Wvn Noos Blusa  Multicolor  Black AOP: CD Flower   Small  Talla del Fabricante: 36  para Mujer'
 actualPrice: 7.59 EUR
 currency: EUR
 price: 7.59

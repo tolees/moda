@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51mfltcTteL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001RADKYK-es'
+slug: 'B001RADKYK-es Widmann -Conjunto de motorista - guantes  2 pulseras  collar con tachuelas de piel sintética'
 actualPrice: 9.13 EUR
 currency: EUR
 price: 9.13

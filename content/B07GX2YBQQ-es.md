@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41kBABGEXjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GX2YBQQ-es'
+slug: 'B07GX2YBQQ-es JIVANER Ultra Slim: Cartera Hombre de Piel Azul - Cartera Minimalista - Tarjetero RFID Bloqueo - Billetera Monedero pequeña y Delgada - Mini portamonedas de diseño y Elegante'
 actualPrice: 11.66 EUR
 currency: EUR
 price: 11.66

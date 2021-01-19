@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31zlHQ3Qk0L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFZQ15F-es'
+slug: 'B07LFZQ15F-es Geox U Garret A  Zapatos de Cordones Derby para Hombre  Marrón  Mud/Bordeaux C6446   43 EU'
 actualPrice: 77.66 EUR
 currency: EUR
 price: 77.66

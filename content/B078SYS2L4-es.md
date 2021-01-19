@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31QC-RfwP2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078SYS2L4-es'
+slug: 'B078SYS2L4-es Timberland Newport Bay 2 Eye  Mocasines para Hombre  Negro  Black Canvas   40 EU'
 actualPrice: 28.95 EUR
 currency: EUR
 price: 28.95

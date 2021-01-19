@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31fDBfNIY5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00E42CRA6-es'
+slug: 'B00E42CRA6-es Timberland Bradstreet Ox  Zapatos de Cordones Oxford para Hombre  Marrón Dark Brown 242  43 1/2 EU'
 actualPrice: 84.0 EUR
 currency: EUR
 price: 84.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412ccp5n2uL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01C5QFRTU-es'
+slug: 'B01C5QFRTU-es Emporio Armani Underwear 111610cc722 Bóxer  Multicolor  White/Red/Black   Small  Tamaño del Fabricante:S   Pack de 3  para Hombre'
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

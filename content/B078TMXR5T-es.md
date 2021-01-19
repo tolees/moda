@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31RnkZYD43L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078TMXR5T-es'
+slug: 'B078TMXR5T-es PUMA Liga Jersey Camiseta  Hombre  Negro  Black/White   M'
 actualPrice: 13.01 EUR
 currency: EUR
 price: 13.01

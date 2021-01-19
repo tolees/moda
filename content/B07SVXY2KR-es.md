@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41aRrFdDJ-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SVXY2KR-es'
+slug: 'B07SVXY2KR-es Geox D Sandal Hiver B  Sandalias con Tira Vertical para Mujer  Marrón  Cognac C6001   37 EU'
 actualPrice: 22.95 EUR
 currency: EUR
 price: 22.95

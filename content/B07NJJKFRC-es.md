@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Lu-rWDNtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NJJKFRC-es'
+slug: 'B07NJJKFRC-es Tamaris 1-1-26250-23  Botines para Mujer  Marrón  Cognac 305   39 EU'
 actualPrice: 18.63 EUR
 currency: EUR
 price: 18.63

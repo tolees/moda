@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41wA3jxAIUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088CXN8DV-es'
+slug: 'B088CXN8DV-es Meerway Bañador Hombre Bañadores de Natación para Hombre Pantalón Cortos Shorts Trajes de Baño Cortos 2 in 1 Quick Dry Cremallera Bolsillo Azul'
 actualPrice: 18.34 EUR
 currency: EUR
 price: 18.34

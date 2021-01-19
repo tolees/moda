@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Uak-WqDeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FR5FNVJ-es'
+slug: 'B07FR5FNVJ-es Clarks Un Karely Sun  Chanclas Sandalias Flip-Flop  Dorado  Gold Metallic-   35 EU'
 actualPrice: 79.95 EUR
 currency: EUR
 price: 79.95

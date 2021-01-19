@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41KNYZpqGqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NJ65H4B-es'
+slug: 'B07NJ65H4B-es Springfield 4.2.J.T.Mesa Jacq Allover Jersey  Dorado  Dorado 97   Medium  Tamaño del Fabricante: M  para Mujer'
 actualPrice: 7.38 EUR
 currency: EUR
 price: 7.38

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31xlzILr1gL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J3DLLXH-es'
+slug: 'B07J3DLLXH-es Under Armour UA Streaker 2.0 Longsleeve Camiseta de Manga Larga  Hombre  Negro  Black/Black/Reflective 001   M'
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

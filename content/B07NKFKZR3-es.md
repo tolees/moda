@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41da8VBurGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NKFKZR3-es'
+slug: 'B07NKFKZR3-es Strellson Premium Allen Chaqueta de Traje  Gris  Grey 045   102 para Hombre'
 actualPrice: 57.49 EUR
 currency: EUR
 price: 57.49

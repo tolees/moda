@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41sw0axLNNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R2BZVSS-es'
+slug: 'B07R2BZVSS-es CARE OF by PUMA Chaqueta Hombre  Gris  Grey  Silver    S  Label: S'
 actualPrice: 18.28 EUR
 currency: EUR
 price: 18.28

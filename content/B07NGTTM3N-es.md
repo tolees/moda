@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31YjPbvvrkL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NGTTM3N-es'
+slug: 'B07NGTTM3N-es adidas  Bolso Weekend 1.9 2019 Gris Adultos unisex  Multicolor  Talla unica'
 actualPrice: 29.45 EUR
 currency: EUR
 price: 29.45

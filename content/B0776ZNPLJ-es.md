@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41UMWcEfSJL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0776ZNPLJ-es'
+slug: 'B0776ZNPLJ-es Tommy Jeans Hombre Original Jersey Camiseta Manga Corta  Azul  Black Iris 002  Small'
 actualPrice: 18.95 EUR
 currency: EUR
 price: 18.95

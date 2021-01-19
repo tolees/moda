@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41MYfA+kwrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071GDVFDV-es'
+slug: 'B071GDVFDV-es Amazon Essentials 6-Pack V-Neck Undershirts Camisa  Negro  Black   XX-Large'
 actualPrice: 15.04 EUR
 currency: EUR
 price: 15.04

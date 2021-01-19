@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Tizvq22KL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B014HOAS4W-es'
+slug: 'B014HOAS4W-es BLEND 701711 Vaqueros  Black/ 70155  28 para Hombre'
 actualPrice: 22.52 EUR
 currency: EUR
 price: 22.52

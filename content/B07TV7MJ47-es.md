@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31I948RB7kL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TV7MJ47-es'
+slug: 'B07TV7MJ47-es Levi s Innovation Super Skinny Vaqueros  Azul  Globe Trotter 0065   W23/L28  Talla del Fabricante: 23 28  para Mujer'
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

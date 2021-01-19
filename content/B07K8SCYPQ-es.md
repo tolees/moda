@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41DWjprsirL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K8SCYPQ-es'
+slug: 'B07K8SCYPQ-es Levi s 512 Slim Taper Fit Jean Vaqueros  Azul Abu ADV  32W / 32L para Hombre'
 actualPrice: 70.0 EUR
 currency: EUR
 price: 70.0

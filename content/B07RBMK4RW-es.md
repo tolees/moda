@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41oSQIfDnXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RBMK4RW-es'
+slug: 'B07RBMK4RW-es find. Chunky Hiker Botines  Marrón Brown  41 EU'
 actualPrice: 8.93 EUR
 currency: EUR
 price: 8.93

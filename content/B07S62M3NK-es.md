@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31yFnO2V8fL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S62M3NK-es'
+slug: 'B07S62M3NK-es Fruit of the Loom Valueweight tee  3 Pack Camiseta  Multicolor  White/Black/Heather Grey E   Small  Size:S   Pack de 3  para Hombre'
 actualPrice: 7.47 EUR
 currency: EUR
 price: 7.47

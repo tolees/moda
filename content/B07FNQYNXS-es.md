@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41Tv9DXqmKL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FNQYNXS-es'
+slug: 'B07FNQYNXS-es Lacoste TH6709  Camiseta para Hombre  Azul  Electrique Z7z   2XL  Talla del fabricante: 7 '
 actualPrice: 35.95 EUR
 currency: EUR
 price: 35.95

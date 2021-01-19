@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/519fy9YnhwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X9S2R3B-es'
+slug: 'B07X9S2R3B-es Maquinilla de afeitar eléctrica para mujer  afeitadora eléctrica recargable húmeda y seca con pantalla LED  eliminación del vello corporal para el área del bikini debajo del brazo  afeitadora personal'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

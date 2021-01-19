@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412rKxU5b5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081B5WZSZ-es'
+slug: 'B081B5WZSZ-es Columbia Triple Canyon Camisa de Manga Corta  Hombre  Gris  City Grey Maze   M'
 actualPrice: 24.49 EUR
 currency: EUR
 price: 24.49

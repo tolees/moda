@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31m1BJQqBkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079KLRTJS-es'
+slug: 'B079KLRTJS-es Puma Liga CR H Camiseta de Manga Corta  Hombre  Verde  Pepper Green White   3XL'
 actualPrice: 11.49 EUR
 currency: EUR
 price: 11.49

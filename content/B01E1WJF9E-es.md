@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31MT+lHxlLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01E1WJF9E-es'
+slug: 'B01E1WJF9E-es Mercedes-Benz Sonnenbrille M7005 Gafas de sol  Negro  Schwarz   55.0 para Hombre'
 actualPrice: 42.23 EUR
 currency: EUR
 price: 42.23

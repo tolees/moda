@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41swh0DQLML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PDS1L7L-es'
+slug: 'B07PDS1L7L-es Geox U Mattias B ABX A  Botas Chukka para Hombre  Azul  Navy C4002   43 EU'
 actualPrice: 35.86 EUR
 currency: EUR
 price: 35.86

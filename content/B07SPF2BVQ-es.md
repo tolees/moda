@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41fcIlKAd9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SPF2BVQ-es'
+slug: 'B07SPF2BVQ-es MAMMUT Zapatilla DUCAN Low GTX  Zapatos para Hombre  Spicy/Highway'
 actualPrice: 130.9 EUR
 currency: EUR
 price: 130.9

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41fVJH1iPZL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NDL73KD-es'
+slug: 'B07NDL73KD-es G-STAR RAW Graphic 22 Optic Slim Round Neck Camiseta  Azul  Mazarine Blue 4213   Large para Mujer'
 actualPrice: 14.97 EUR
 currency: EUR
 price: 14.97

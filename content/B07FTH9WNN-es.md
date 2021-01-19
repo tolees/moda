@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/3169lorE19L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FTH9WNN-es'
+slug: 'B07FTH9WNN-es Lee Scarlett Jeans Vaqueros Skinny  Azul  Flight Wj   30W / 29L para Mujer'
 actualPrice: 49.98 EUR
 currency: EUR
 price: 49.98

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41qbA8agIKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S72JGHY-es'
+slug: 'B07S72JGHY-es Geschallino Chaqueta con Capucha de Suave Piel Falsa para Mujeres  Campera Corta con 2 Bolsillos  Buzos Esponjosos Polares y Cálidos para Invierno  Verano  Gris  L'
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

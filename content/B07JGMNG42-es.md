@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/517pqmhr50L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JGMNG42-es'
+slug: 'B07JGMNG42-es HBselect 2 PCS Bolsa Pañales Impermeable Organizador Pañales Bebe Bolsas Pañales Sucios Bolso Para Carro Bebe Guarda Pañales Bolso Bolsa Para Organizar Pañales Toallas'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

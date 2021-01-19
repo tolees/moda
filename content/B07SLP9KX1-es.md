@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31--aR2v9ML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SLP9KX1-es'
+slug: 'B07SLP9KX1-es Burton Brtn Sudadera  Hombre  True Black  M'
 actualPrice: 31.91 EUR
 currency: EUR
 price: 31.91

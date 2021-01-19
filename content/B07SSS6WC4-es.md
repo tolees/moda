@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ghv6bPAcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SSS6WC4-es'
+slug: 'B07SSS6WC4-es Geox D Sandal Hiver A  Sandalias con Punta Abierta para Mujer  Beige  Sand/Champagne C5zb5   35 EU'
 actualPrice: 36.43 EUR
 currency: EUR
 price: 36.43

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41sFhdK2skL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RZLH4DB-es'
+slug: 'B07RZLH4DB-es Levi s Perfect-tee Camiseta de Manga Corta  Multicolor  Alyssa Stripe Cloud Dancer 0062   Medium para Mujer'
 actualPrice: 14.49 EUR
 currency: EUR
 price: 14.49

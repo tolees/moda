@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51PzVT%2BmsPL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XG48BWG-es'
+slug: 'B07XG48BWG-es edc by Esprit 109cc1k023 Camisa Manga Larga  Negro  Black 001   Small para Mujer'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

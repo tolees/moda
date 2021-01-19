@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41RB+e5aBiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RHTQP1R-es'
+slug: 'B07RHTQP1R-es Tommy Hilfiger TJM Essential Hooded Jacket Chaqueta Deportiva  Negro  Black Bbu   X-Large para Hombre'
 actualPrice: 66.95 EUR
 currency: EUR
 price: 66.95

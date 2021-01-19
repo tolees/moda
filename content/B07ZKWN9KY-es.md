@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/414k-siXigL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZKWN9KY-es'
+slug: 'B07ZKWN9KY-es Charles Wilson Sudadera con Cremallera Completa con Capucha Peso Intermedio  Small  Dark Green  1019  '
 actualPrice: 24.95 EUR
 currency: EUR
 price: 24.95

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41FDmeB9f-L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HEXGHUC-es'
+slug: 'B01HEXGHUC-es Crocs Classic Clog Kids Roomy fit Zuecos Unisex niños  Rojo  Pepper 6En   19/20 EU'
 actualPrice: 17.11 EUR
 currency: EUR
 price: 17.11

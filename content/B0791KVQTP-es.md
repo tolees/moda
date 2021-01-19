@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ggT8sEMbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0791KVQTP-es'
+slug: 'B0791KVQTP-es Clarks Arla Jacory  Sandalias de Talón Abierto para Mujer  Negro  Black-   38 EU'
 actualPrice: 35.17 EUR
 currency: EUR
 price: 35.17

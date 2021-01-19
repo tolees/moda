@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41zA9BAO8aL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZW5HL69-es'
+slug: 'B07ZW5HL69-es Marca Amazon - find. CONNIE-S2C1-Court Zapatos de tacón con Punta Cerrada  Pink  Hot Pink   39 EU'
 actualPrice: 13.79 EUR
 currency: EUR
 price: 13.79

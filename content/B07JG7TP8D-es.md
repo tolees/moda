@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41rC0jG6tOL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JG7TP8D-es'
+slug: 'B07JG7TP8D-es Pepe Jeans Shirley Pl401682 Chaqueta   Multi Bleu 0aa   X-Small para Mujer'
 actualPrice: 82.5 EUR
 currency: EUR
 price: 82.5

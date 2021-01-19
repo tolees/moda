@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41W+dMEcKzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KF5BHZT-es'
+slug: 'B07KF5BHZT-es Levi s Original Chaqueta Vaquera  Azul  Needlecraft Trucker 0080   X-Small para Mujer'
 actualPrice: 99.94 EUR
 currency: EUR
 price: 99.94

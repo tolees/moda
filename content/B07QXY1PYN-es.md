@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51MuhTozN6L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QXY1PYN-es'
+slug: 'B07QXY1PYN-es UBORSE Bolso de Fiesta Noche Moda para Mujer Embrague Hard Shell Clutches Elegante Bolso de Hombro Billetera Carteras de Mano del Banquete Boda Señoras Negro'
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

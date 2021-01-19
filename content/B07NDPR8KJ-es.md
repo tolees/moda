@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/4103YPufx2L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NDPR8KJ-es'
+slug: 'B07NDPR8KJ-es G-STAR RAW Graphic 22 Boyfriend Slit Round Neck Sudadera  Azul  Mazarine Blue 4213   34  Talla del Fabricante: XX-Small  para Mujer'
 actualPrice: 15.25 EUR
 currency: EUR
 price: 15.25

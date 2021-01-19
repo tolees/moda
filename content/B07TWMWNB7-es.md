@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41OBWLHl+bL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TWMWNB7-es'
+slug: 'B07TWMWNB7-es Skechers D lites 2.0 - Mega Summer  Sandalias de Talón Abierto para Mujer  Negro  Black Webbing Black   40 EU'
 actualPrice: 24.21 EUR
 currency: EUR
 price: 24.21

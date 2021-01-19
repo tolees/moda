@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41OeX8OAcmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PGVCWTL-es'
+slug: 'B07PGVCWTL-es Geox J Xunday Boy B ABX A  Botas Chukka para Niños  Verde  Military/Beige C3202   30 EU'
 actualPrice: 18.35 EUR
 currency: EUR
 price: 18.35

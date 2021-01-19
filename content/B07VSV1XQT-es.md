@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41PRBQ4Z77L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VSV1XQT-es'
+slug: 'B07VSV1XQT-es G-STAR RAW Silber Slim Fit Camiseta  Azul  Servant Blue Htr C084-B239   Small para Mujer'
 actualPrice: 27.63 EUR
 currency: EUR
 price: 27.63

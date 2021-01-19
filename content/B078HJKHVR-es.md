@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41s2fQKLC3L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B078HJKHVR-es'
+slug: 'B078HJKHVR-es IRIS & LILLY Braguita Estilo Culotte Mujer  Pack de 5  Multicolor  White/fiery Red/spanish Villa/maritime Blue    Talla del fabricante: Medium '
 actualPrice: 4.2 EUR
 currency: EUR
 price: 4.2

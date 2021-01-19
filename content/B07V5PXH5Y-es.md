@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51PiXzAMJNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V5PXH5Y-es'
+slug: 'B07V5PXH5Y-es Kipling NEW ELDORADO Bolso bandolera  20 cm  1 litros  Multicolor  Urban Jungle '
 actualPrice: 27.5 EUR
 currency: EUR
 price: 27.5

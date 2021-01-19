@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41oZMQTbosL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MLZTN95-es'
+slug: 'B07MLZTN95-es Chaleco de mujer con calefacción USB  Chaqueta térmica de 5 V con calefacción Ropa calentador almohadilla térmica para hombres y mujeres  Alimentado por una batería recargable del banco de energía  M '
 actualPrice: 26.29 EUR
 currency: EUR
 price: 26.29

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41rSqi7gpfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00QHAR1J0-es'
+slug: 'B00QHAR1J0-es Under Armour Coldgear Armour Mock Camiseta De Manga Larga  Hombre  Azul  Royal/Steel 400   S'
 actualPrice: 34.3 EUR
 currency: EUR
 price: 34.3

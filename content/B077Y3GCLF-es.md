@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41x0HCZdnKL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B077Y3GCLF-es'
+slug: 'B077Y3GCLF-es HIKARO Sudadera con Capucha Hombre  Gris  Grey Marl   52  Talla del fabricante: Large '
 actualPrice: 17.97 EUR
 currency: EUR
 price: 17.97

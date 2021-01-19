@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31haMPgoLwL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B015E9IGPM-es'
+slug: 'B015E9IGPM-es Gant Sonnenbrille Ga7047 90A 54 Gafas de sol  Azul  Blau   54.0 para Hombre'
 actualPrice: 37.73 EUR
 currency: EUR
 price: 37.73

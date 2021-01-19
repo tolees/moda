@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-awmKWYcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00TTJLFAW-es'
+slug: 'B00TTJLFAW-es Clarks Tilden Cap  Zapatos de Cordones Derby para Hombre  Negro  Black Leather   42 EU'
 actualPrice: 59.71 EUR
 currency: EUR
 price: 59.71

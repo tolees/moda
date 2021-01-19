@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411YYNt8KTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PRCBJQJ-es'
+slug: 'B07PRCBJQJ-es Kipling Souta  Bolso con Bandolera para Mujer  Naranja  Papaya   17x11x5.5 centimeters  B x H x T '
 actualPrice: 14.29 EUR
 currency: EUR
 price: 14.29

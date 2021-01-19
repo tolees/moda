@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41oLmVrG-sL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F25LYMM-es'
+slug: 'B07F25LYMM-es Element Dulcey Chaqueta  Hombre  Azul  Eclipse Navy   XS'
 actualPrice: 55.17 EUR
 currency: EUR
 price: 55.17

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412BHpcR4bL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00EANTU0O-es'
+slug: 'B00EANTU0O-es Pepe Jeans Eggo PM500465 Camiseta  Blanco  White 800   Medium para Hombre'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

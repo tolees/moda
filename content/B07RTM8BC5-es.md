@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/313g37Wfk3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RTM8BC5-es'
+slug: 'B07RTM8BC5-es HAWKERS · LACMA · Gold · Gafas de sol para hombre y mujer'
 actualPrice: 24.2 EUR
 currency: EUR
 price: 24.2

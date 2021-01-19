@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31hAMXZKlkL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N1BSX7Q-es'
+slug: 'B07N1BSX7Q-es Rekordsan Pijama Antipañal Geriátrico Classic Mujer En Fresco Algodón Con 1 Cremallera Color Rosa Talla 2-1 unidad'
 actualPrice: 29.66 EUR
 currency: EUR
 price: 29.66

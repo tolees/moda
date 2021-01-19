@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/310naRyCJML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0765WBM6N-es'
+slug: 'B0765WBM6N-es Levi s Relaxed Graphic Crew Sudadera  Blanco  Better Batwing Sweatshirt White 0014   Large para Mujer'
 actualPrice: 32.16 EUR
 currency: EUR
 price: 32.16

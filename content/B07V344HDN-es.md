@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412fR81a+NL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V344HDN-es'
+slug: 'B07V344HDN-es Chi Chi London Dollie Vestido de Fiesta  Azul  Navy NB   44  Talla del Fabricante: 16  para Mujer'
 actualPrice: 16.13 EUR
 currency: EUR
 price: 16.13

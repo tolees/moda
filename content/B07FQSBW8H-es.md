@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41idQjYWmpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FQSBW8H-es'
+slug: 'B07FQSBW8H-es Clarks Step Urban Mix  Zapatos de Cordones Derby para Hombre  Azul  Navy-   41 EU'
 actualPrice: 27.95 EUR
 currency: EUR
 price: 27.95

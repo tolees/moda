@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-BbDKabpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082F6HGF8-es'
+slug: 'B082F6HGF8-es Oihxse Mirror Funda Compatible con iPhone 11 Pro Espejo de Moda Flip Tapa Libro Carcasa Slim Brillante Colorido Duro Caso Translucent Window View 360°Protectora Caja （Verde）'
 actualPrice: 10.98 EUR
 currency: EUR
 price: 10.98

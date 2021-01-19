@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4184ls4gYqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0079JI4EY-es'
+slug: 'B0079JI4EY-es Arena Zoom X-Fit Gafas de Natación  Unisex Adulto  Negro/Azul  Universal'
 actualPrice: 8.45 EUR
 currency: EUR
 price: 8.45

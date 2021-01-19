@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31iyDkvocxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XY5JNT8-es'
+slug: 'B07XY5JNT8-es UNIQUEBELLA Suit Esquí Térmica Ropa Interior Térmica Manga Larga Camiseta + Térmica Pantalones Largos  Deportes de Invierno  Conjuntos térmicos para Hombre'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

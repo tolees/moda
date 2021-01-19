@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/312W4EjvHsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079G28TCG-es'
+slug: 'B079G28TCG-es Under Armour Sportstyle Pantalones para Hombre de algodón con Logotipo  pantalón Corto Ultraligero y Transpirable  cómodo y Ancho pantalón Deportivo  Steel Light Heather/Black  035   XXL'
 actualPrice: 19.59 EUR
 currency: EUR
 price: 19.59

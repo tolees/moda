@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41V-MP6mpfL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GY1NQCZ-es'
+slug: 'B07GY1NQCZ-es edc by Esprit 999cc1k803 Camiseta  Gris  Light Grey 040   Small para Mujer'
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

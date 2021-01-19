@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/416Oo30VNVL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B079WHXTNT-es'
+slug: 'B079WHXTNT-es Pepe Jeans Hatch  Vaqueros Slim para Hombre  Azul  Wiser Wash Medium Used WW6   W33/L34'
 actualPrice: 63.75 EUR
 currency: EUR
 price: 63.75

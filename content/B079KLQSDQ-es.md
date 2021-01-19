@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41qszQrJttL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079KLQSDQ-es'
+slug: 'B079KLQSDQ-es PUMA Liga CR H Camiseta de Manga Corta  Hombre  Azul  Electric Blue Lemonade/White   3XL'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

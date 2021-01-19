@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31RcQ3bab4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FCPSWZR-es'
+slug: 'B07FCPSWZR-es REPLAY Zeumar Vaqueros Slim  Azul  Blue 10   36W / 32L para Hombre'
 actualPrice: 58.98 EUR
 currency: EUR
 price: 58.98

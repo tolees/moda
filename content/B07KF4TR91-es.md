@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41L-xhZ9rgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KF4TR91-es'
+slug: 'B07KF4TR91-es Levi s 502 Regular Taper Vaqueros  Azul  Baltic Adapt 0472   32W / 36L para Hombre'
 actualPrice: 28.54 EUR
 currency: EUR
 price: 28.54

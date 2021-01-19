@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31cJ6XsbJ5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B010QC4XDQ-es'
+slug: 'B010QC4XDQ-es ONLY Onlroyal High Waist Skinny Jeans Vaqueros  Medium Blue Denim  34W / 32L para Mujer'
 actualPrice: 13.9 EUR
 currency: EUR
 price: 13.9

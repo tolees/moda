@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41qF9COaE4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JZSXY52-es'
+slug: 'B07JZSXY52-es adidas Tiro19 PES Jkty Chaqueta de Deporte  Unisex niños  Bold Blue/White  152'
 actualPrice: 20.45 EUR
 currency: EUR
 price: 20.45

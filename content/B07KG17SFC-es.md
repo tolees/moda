@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411L9pH1BOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KG17SFC-es'
+slug: 'B07KG17SFC-es PUMA Rise XT 3  Zapatos de Futsal Unisex Adulto  Black-Silver-Nrgy Red  36 EU'
 actualPrice: 35.95 EUR
 currency: EUR
 price: 35.95

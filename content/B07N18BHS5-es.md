@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41omqBhCSjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N18BHS5-es'
+slug: 'B07N18BHS5-es G-STAR RAW 3301 Slim Vaqueros  Antic Charcoal  35W / 30L para Hombre'
 actualPrice: 40.71 EUR
 currency: EUR
 price: 40.71

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41zSakdaCaL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K6ZV7Q8-es'
+slug: 'B07K6ZV7Q8-es Levi s Ex-Boyfriend Trucker Chaqueta Vaquera  Azul  Soft Ash Butter Mid 0055   XX-Small para Mujer'
 actualPrice: 83.03 EUR
 currency: EUR
 price: 83.03

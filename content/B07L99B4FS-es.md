@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Hn1qy70QL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L99B4FS-es'
+slug: 'B07L99B4FS-es Karactermania Diseny Icons Minnie Mouse-Bolso Cadena Wide Bolso Bandolera  20 cm  Rojo'
 actualPrice: 10.95 EUR
 currency: EUR
 price: 10.95

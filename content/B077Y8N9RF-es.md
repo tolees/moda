@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41nBlvj7NvL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B077Y8N9RF-es'
+slug: 'B077Y8N9RF-es HIKARO Camiseta con Botones Hombre  Gris  Grey Marl   50  Talla del fabricante: Medium '
 actualPrice: 5.39 EUR
 currency: EUR
 price: 5.39

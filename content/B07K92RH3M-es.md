@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/419RqUHe7qL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K92RH3M-es'
+slug: 'B07K92RH3M-es Crocs Crocband  Zuecos con Correa Unisex Adulto  Azul  Bright Cobalt/Charcoal   46/47 EU'
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

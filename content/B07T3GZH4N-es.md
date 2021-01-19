@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31qZ8UcohIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T3GZH4N-es'
+slug: 'B07T3GZH4N-es Timberland Bradstreet Plain Toe Sensorflex  Zapatos de Cordones Oxford para Hombre  Marrón  Rust Nubuck   43 EU'
 actualPrice: 91.0 EUR
 currency: EUR
 price: 91.0

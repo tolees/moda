@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/311%2B8HcEVIL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WVDQ195-es'
+slug: 'B07WVDQ195-es Camper Hardwood K300027-006 Botines Hombre 42'
 actualPrice: 132 EUR
 currency: EUR
 price: 132

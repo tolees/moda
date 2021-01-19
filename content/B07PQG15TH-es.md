@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41HU9voDulL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PQG15TH-es'
+slug: 'B07PQG15TH-es SINOES Hombre 91-219 Caña Baja Gimnasia Ligero Transpirable Casuales Sneakers de Exterior y Interior Zapatillas Deporte Zapatos Tenis Suave Azul 43 EU'
 actualPrice: 25.88 EUR
 currency: EUR
 price: 25.88

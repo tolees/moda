@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41WFab1+aRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088PTJ3BZ-es'
+slug: 'B088PTJ3BZ-es Oiotuyi - Camiseta de manga corta de algodón para niños  diseño de dibujos animados  para regalo de cumpleaños Núm.12 3-4 Años'
 actualPrice: 9.48 EUR
 currency: EUR
 price: 9.48

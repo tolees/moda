@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31J5FboJrdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SXSLGJG-es'
+slug: 'B07SXSLGJG-es Geox U IACOPO A  Zapatos de Cordones Oxford para Hombre  Marrón  Dk Brown C6006   45 EU'
 actualPrice: 51.0 EUR
 currency: EUR
 price: 51.0

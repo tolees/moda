@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4187ZsUffWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YLXRH9K-es'
+slug: 'B07YLXRH9K-es Maglev Essentials Bdx014am2 Pijama  Multicolor  Navy  Red  White   L  Pack de 2'
 actualPrice: 14.62 EUR
 currency: EUR
 price: 14.62

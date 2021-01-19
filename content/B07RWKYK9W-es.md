@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51TmFSXEEmL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RWKYK9W-es'
+slug: 'B07RWKYK9W-es BILLABONG Divine Vestido  Negro  Black 19   X-Small  Tamaño del Fabricante: XS  para Mujer'
 actualPrice: 13.38 EUR
 currency: EUR
 price: 13.38

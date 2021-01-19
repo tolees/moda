@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41WLtLDaYsL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MSCTK60-es'
+slug: 'B01MSCTK60-es REPLAY Jondrill Vaqueros Skinny  Negro  Black 98   W32/L32  Talla del Fabricante: 32  para Hombre'
 actualPrice: 44.55 EUR
 currency: EUR
 price: 44.55

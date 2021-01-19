@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4149poDL+TL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N48BDG4-es'
+slug: 'B07N48BDG4-es United Colors of Benetton Basico 1 Man Chaqueta Punto  Azul  BLU Navy 016   Small para Hombre'
 actualPrice: 16.29 EUR
 currency: EUR
 price: 16.29

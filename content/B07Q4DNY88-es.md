@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41allfO-m5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q4DNY88-es'
+slug: 'B07Q4DNY88-es BOSS Magneton 1-Short Camisa  Azul  Dark Blue 404   Medium para Hombre'
 actualPrice: 56.43 EUR
 currency: EUR
 price: 56.43

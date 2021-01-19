@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31DeRstn5ZL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PP3CDCS-es'
+slug: 'B07PP3CDCS-es HUGO Alisters Chaqueta de Traje  Negro  Charcoal 010   105  Talla del Fabricante: 90  para Hombre'
 actualPrice: 35.46 EUR
 currency: EUR
 price: 35.46

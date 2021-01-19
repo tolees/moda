@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41pvaXTT1jL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y6T7LSM-es'
+slug: 'B07Y6T7LSM-es Zapatos de Seguridad Hombres  LM-30 Zapatillas de Trabajo con Punta de Acero Ultra Liviano Reflectivo Transpirable  41 EU  Gris Oscuro/Blanco '
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31jES36HHzL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M5BGTXB-es'
+slug: 'B01M5BGTXB-es Wrangler Texas Contrast Vaqueros  Azul  Darkstone 009   40W / 36L para Hombre'
 actualPrice: 55.49 EUR
 currency: EUR
 price: 55.49

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41HSem-C1gL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R9JSMBR-es'
+slug: 'B07R9JSMBR-es Aibrou Camiseta Lactancia Mujer Verano Camisetas Premama Manga Corta Ropa Premamá Camisetas de Algodon'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

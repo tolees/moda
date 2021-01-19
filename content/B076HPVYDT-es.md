@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41D+5wh8p-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076HPVYDT-es'
+slug: 'B076HPVYDT-es adidas Core18 Windbr Chaqueta de Deporte  Hombre  Black/White  XL'
 actualPrice: 18.67 EUR
 currency: EUR
 price: 18.67

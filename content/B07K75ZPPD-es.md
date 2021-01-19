@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41nLExtWDfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K75ZPPD-es'
+slug: 'B07K75ZPPD-es Levi s 510 Skinny Fit  Vaqueros para Hombre  Azul  Megamouth Warp Cool 0870   W34/L34'
 actualPrice: 66.78 EUR
 currency: EUR
 price: 66.78

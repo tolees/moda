@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-xFY5huAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VVFHSQ4-es'
+slug: 'B07VVFHSQ4-es Tommy Hilfiger TJM Contrast Pocket tee Camiseta  Blanco  White Ybr   Medium para Hombre'
 actualPrice: 19.45 EUR
 currency: EUR
 price: 19.45

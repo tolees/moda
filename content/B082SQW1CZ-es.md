@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41XUu-GO8ML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082SQW1CZ-es'
+slug: 'B082SQW1CZ-es CRZ YOGA Mujer Deportivo Corto Falda Plisada Skorts de Tenis Golf con Interior Shorts Hydra Blue 36'
 actualPrice: 33.0 EUR
 currency: EUR
 price: 33.0

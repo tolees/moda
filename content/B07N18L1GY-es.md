@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41kZQVFvZGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N18L1GY-es'
+slug: 'B07N18L1GY-es G-STAR RAW 3301 Vaqueros Relaxed  Azul  Worker Blue Faded A088/A888   25W / 32L para Hombre'
 actualPrice: 13.15 EUR
 currency: EUR
 price: 13.15

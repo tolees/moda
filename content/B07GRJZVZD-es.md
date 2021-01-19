@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41vwAStJ5jL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GRJZVZD-es'
+slug: 'B07GRJZVZD-es Khanomak de las Mujeres de Manga Corta Cuello Redondo de Rayas Ringer Suelta la Camiseta  Medio  Gris '
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

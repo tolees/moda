@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51sineYQp5L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NDNSQ4G-es'
+slug: 'B07NDNSQ4G-es G-STAR RAW Core Super Slim Camisa Vaquera  Multicolor  Sartho Blue/Milk Ao 8708   M para Hombre'
 actualPrice: 27.31 EUR
 currency: EUR
 price: 27.31

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41SdA9sz4WL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00GUXK8F8-es'
+slug: 'B00GUXK8F8-es Columbia Woodburn II  Zapatilla Multideporte para Hombre  Marrón  Cordovan  Garnet Red 231   40 EU'
 actualPrice: 57.99 EUR
 currency: EUR
 price: 57.99

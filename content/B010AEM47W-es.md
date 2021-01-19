@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31t-KWbALfL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B010AEM47W-es'
+slug: 'B010AEM47W-es ESPRIT - Collar para mujer con circonita color plateado'
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

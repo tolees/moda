@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/510EUd7VP8L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BRHLN5V-es'
+slug: 'B07BRHLN5V-es Lifewit Bolsa Térmica Grande Porta Alimentos de Refrigeración Aislamiento Doble Compartimentos Bolsa de Enfriamiento Grande con Correa Ajustable Bolso para Picnics  Fiestas  Camping  Gris'
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

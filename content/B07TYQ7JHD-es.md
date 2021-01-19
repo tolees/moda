@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/516kJBF7EQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TYQ7JHD-es'
+slug: 'B07TYQ7JHD-es LIGE Relojes Hombre Moda Impermeable Deportivo Cuarzo Relojes de Hombre Cronógrafo Casual Negro Cuero Reloj de Pulsera'
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

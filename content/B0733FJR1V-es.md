@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31-5BpIJuzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0733FJR1V-es'
+slug: 'B0733FJR1V-es Marca Amazon - find. Sudadera de Tacto Suave para Hombre  Rojo  Tawny Port   L  Label: L'
 actualPrice: 7.5 EUR
 currency: EUR
 price: 7.5

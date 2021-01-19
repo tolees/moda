@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41aA5ncK+0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TW9RVRQ-es'
+slug: 'B07TW9RVRQ-es Levi s LS Original Hm tee Camiseta  Gris  Medium Grey Heather 0006   X-Small para Hombre'
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

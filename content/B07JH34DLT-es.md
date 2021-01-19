@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411TrSkOY5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JH34DLT-es'
+slug: 'B07JH34DLT-es Pepe Jeans Boreas Pm402096 Chaqueta   Flame 265   Small para Hombre'
 actualPrice: 32.63 EUR
 currency: EUR
 price: 32.63

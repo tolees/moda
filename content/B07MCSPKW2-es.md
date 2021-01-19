@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/416x7fC4StL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MCSPKW2-es'
+slug: 'B07MCSPKW2-es Napapijri Aric Chaqueta  Negro  Black 041   3XL para Hombre'
 actualPrice: 139.95 EUR
 currency: EUR
 price: 139.95

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31barAT5t3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077PVY2LR-es'
+slug: 'B077PVY2LR-es Marca Amazon - TRUTH & FABLE Vestido Midi Ajustado de Encaje Mujer  Marfil  Ivory   40  Label: M'
 actualPrice: 5.89 EUR
 currency: EUR
 price: 5.89

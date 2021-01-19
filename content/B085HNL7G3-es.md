@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41hw3w5L39L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085HNL7G3-es'
+slug: 'B085HNL7G3-es Donpapa Bragas para Mujer Pack sin Costuras Invisible Braguitas Microfibra Rayas Brief Bikini Culotte Pack de 3  Negro/Beige/Blanco L '
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

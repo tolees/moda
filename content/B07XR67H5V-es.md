@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51fLV66LDrL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XR67H5V-es'
+slug: 'B07XR67H5V-es TABIGER - 4 Unidades de Luces LED Luminosas Reflectantes  Clip para Zapatos de Seguridad inflamable para Correr  Deportes  Compras  Escalada  Verde'
 actualPrice: 9.59 EUR
 currency: EUR
 price: 9.59

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41gLnII0ITL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V1GH7WH-es'
+slug: 'B07V1GH7WH-es Wrangler ICONS Camisa Vaquera  Azul  2 Years 922   XXX-Large para Hombre'
 actualPrice: 37.48 EUR
 currency: EUR
 price: 37.48

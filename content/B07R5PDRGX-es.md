@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41oqOZ0f-5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R5PDRGX-es'
+slug: 'B07R5PDRGX-es G.I.G.A. DX Hakawa - Parka de Invierno con Capucha Desmontable para Mujer  Mujer  34334-000  Azul Oscuro  38'
 actualPrice: 100.95 EUR
 currency: EUR
 price: 100.95

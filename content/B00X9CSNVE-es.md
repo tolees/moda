@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41IB8yU45ZL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00X9CSNVE-es'
+slug: 'B00X9CSNVE-es Timberland Larchmont Waterproof  Zapatillas Chukka para Hombre  Marrón  MD Brown Full Grain   43 EU'
 actualPrice: 121.95 EUR
 currency: EUR
 price: 121.95

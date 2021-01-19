@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31DeRYJ1KCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZP5MPC1-es'
+slug: 'B07ZP5MPC1-es Alvivi Bolero Fiesta Bebé Niñas para Boda Abrigo Manga Larga para Ropa Vestido Princesa Cardigan Satinado Elegante Marfil 4 Años'
 actualPrice: 5.49 EUR
 currency: EUR
 price: 5.49

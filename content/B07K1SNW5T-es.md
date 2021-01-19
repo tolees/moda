@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41a4SAAl-FL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K1SNW5T-es'
+slug: 'B07K1SNW5T-es Adidas Tiro 19 Polyester Jacke Chaqueta Deportiva  Hombre  Bold Blue/White  M'
 actualPrice: 23.49 EUR
 currency: EUR
 price: 23.49

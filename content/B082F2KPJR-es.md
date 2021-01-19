@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41A-WSbBMDL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082F2KPJR-es'
+slug: 'B082F2KPJR-es Martin cocoa Hombre Impermeable Chaqueta Al Aire Libre Calentar A Prueba de Viento Montaña Invierno Abrigos'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41EpaS5-Q2L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NDL3D7K-es'
+slug: 'B07NDL3D7K-es G-STAR RAW ARC 3D Low Waist Boyfriend Restored Vaqueros  Dk Tea Rose B482-A827  23W / 36L para Mujer'
 actualPrice: 41.59 EUR
 currency: EUR
 price: 41.59

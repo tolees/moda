@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41LZOdjgUbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079ZLJZD5-es'
+slug: 'B079ZLJZD5-es Tommy Hilfiger 3p Bikini Braguita  Azul  Navy Blazer/Navy Blazer/Navy Blazer 416   No Aplica  Talla del Fabricante: MD  para Mujer'
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

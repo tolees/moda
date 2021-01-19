@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41l7DieclhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08D3SKVJ5-es'
+slug: 'B08D3SKVJ5-es Doaraha Camisón Lactancia para Mujer Vestido Premamá con Volantes Pijama de Maternidad Camisones de Algodón de Manga 3/4 Ropa de Dormir con Cuello en V  Negro  XL '
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

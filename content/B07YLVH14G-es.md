@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41wi9QVq0aL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YLVH14G-es'
+slug: 'B07YLVH14G-es Maglev Essentials BDX011M5 Camiseta  Multicolor  Grey Mélange  Anthracite Mélange   XL  Pack de 5'
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98

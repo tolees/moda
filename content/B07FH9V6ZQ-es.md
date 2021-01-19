@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31DDzq4b7LL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FH9V6ZQ-es'
+slug: 'B07FH9V6ZQ-es Amazon Essentials – Pantalón chino sin pinzas en la parte delantera  resistente a las arrugas  de corte recto para hombre  Azul  Navy   W29 x L28'
 actualPrice: 12.6 EUR
 currency: EUR
 price: 12.6

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41rvsPfeW4L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GBF41BF-es'
+slug: 'B07GBF41BF-es Nike 937 - Guantes de Fitness para Hombre  Color Gris Antracita/Negro/Amarillo  Hombre  N.LG.C4.937.LG  Anthracite/Black/lt c  Large'
 actualPrice: 15 EUR
 currency: EUR
 price: 15

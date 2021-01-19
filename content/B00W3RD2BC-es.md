@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41EwfnYkaVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00W3RD2BC-es'
+slug: 'B00W3RD2BC-es Joma Gala Sudadera  Hombre  Rojo  M'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

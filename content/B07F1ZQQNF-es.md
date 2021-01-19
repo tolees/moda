@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41JdeBRlNcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F1ZQQNF-es'
+slug: 'B07F1ZQQNF-es Timberland Newport Bay 2 Eye  Mocasines para Hombre  Azul  Dark Blue Canvas   42 EU'
 actualPrice: 32.5 EUR
 currency: EUR
 price: 32.5

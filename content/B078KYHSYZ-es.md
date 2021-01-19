@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51TIG5H8o1L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B078KYHSYZ-es'
+slug: 'B078KYHSYZ-es SDINAZ Bolsos de Mano Mujer Bolsos Bandolera Moda 6piezas Bolsos Totes Shoppers y Bolsos de Hombro Billetera'
 actualPrice: 48.99 EUR
 currency: EUR
 price: 48.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51jwqSednRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T28JNR6-es'
+slug: 'B07T28JNR6-es Abravo Mujer Vestido Estampado Floral sin Mangas Vestido Casual Corto Playa con un Bolsillo  S  Azul Marino-2 '
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

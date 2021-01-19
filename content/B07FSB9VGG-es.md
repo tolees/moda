@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41C6G8hMe7L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FSB9VGG-es'
+slug: 'B07FSB9VGG-es Ternua K7 W Chaqueta  Mujer  Azul  Dark Lagoon Melange   L'
 actualPrice: 149.99 EUR
 currency: EUR
 price: 149.99

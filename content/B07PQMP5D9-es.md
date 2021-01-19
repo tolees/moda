@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/5158BruAx-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PQMP5D9-es'
+slug: 'B07PQMP5D9-es Zerone Camisetas de Camuflaje de Manga Larga y Corta de algodón Características Camisa de Manga Larga de Camuflaje Woodland Camisa para Acampar Deportes al Aire Libre XL '
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

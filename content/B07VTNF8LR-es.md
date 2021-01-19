@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31TXJT9+k1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VTNF8LR-es'
+slug: 'B07VTNF8LR-es Esprit 999EE1F808s Blusa  Azul  Light Blue 440   34  Talla del Fabricante: 32  para Mujer'
 actualPrice: 9.28 EUR
 currency: EUR
 price: 9.28

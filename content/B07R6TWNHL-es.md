@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41VGKuzCKOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R6TWNHL-es'
+slug: 'B07R6TWNHL-es Columbia Columbia Lodge  Chaqueta sudadera  Hombre  Azul/Blanco  Collegiate Navy   Talla S'
 actualPrice: 53.01 EUR
 currency: EUR
 price: 53.01

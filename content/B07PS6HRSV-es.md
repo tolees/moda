@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31FfV8MTflL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PS6HRSV-es'
+slug: 'B07PS6HRSV-es CARE OF by PUMA Sudadera con capucha de manga larga con capucha y cremallera para hombre  Gris  Gris oscuro   XS  Label: XS'
 actualPrice: 8.96 EUR
 currency: EUR
 price: 8.96

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41u18u4opCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074FW16PZ-es'
+slug: 'B074FW16PZ-es Marca Amazon - find. Camiseta con Franjas para Hombre  Rojo  Wine Tasting   S  Label: S'
 actualPrice: 4.76 EUR
 currency: EUR
 price: 4.76

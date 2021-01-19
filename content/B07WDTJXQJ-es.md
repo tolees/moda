@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/415tgBbelNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WDTJXQJ-es'
+slug: 'B07WDTJXQJ-es SALOMON Agile FZ Hoodie M Chaqueta Cortavientos  Hombre  Azul  Poseidon   XS'
 actualPrice: 45.94 EUR
 currency: EUR
 price: 45.94

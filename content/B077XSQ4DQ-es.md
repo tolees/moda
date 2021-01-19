@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41weskFzR0L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B077XSQ4DQ-es'
+slug: 'B077XSQ4DQ-es Under Armour Sc30 MVP - Sudadera con Capucha y Cremallera  Infantil  Color Negro/Gris  tamaño para jóvenes XL'
 actualPrice: 34.61 EUR
 currency: EUR
 price: 34.61

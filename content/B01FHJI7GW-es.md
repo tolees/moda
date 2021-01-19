@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41jr63JQJKL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01FHJI7GW-es'
+slug: 'B01FHJI7GW-es Under Armour UA Woven Graphic Short Pantalón Corto  Hombre  Rojo  600   M'
 actualPrice: 20.03 EUR
 currency: EUR
 price: 20.03

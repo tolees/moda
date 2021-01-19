@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/413kmPqCdSL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RC4RT93-es'
+slug: 'B07RC4RT93-es Charles Wilson Pantalón Vaquero Lavado Ajuste Estrecho  38" Waist / 31" Leg  Stone Wash '
 actualPrice: 17.95 EUR
 currency: EUR
 price: 17.95

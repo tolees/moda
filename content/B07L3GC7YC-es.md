@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41B+vWkT4qL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L3GC7YC-es'
+slug: 'B07L3GC7YC-es Tommy Hilfiger Iconic Elena Corporate Ribbon  Sandalias con Plataforma para Mujer  Rojo  RWB 020   40 EU'
 actualPrice: 69.93 EUR
 currency: EUR
 price: 69.93

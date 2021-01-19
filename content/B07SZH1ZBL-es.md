@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51yiJrTw8sL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SZH1ZBL-es'
+slug: 'B07SZH1ZBL-es Tikea Cartera Geométrica Luminosa Holográfica para Mujer  Billetera con Cremallera en Cuero Sintético  Bolsillo de Mano Efecto Reflectante'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

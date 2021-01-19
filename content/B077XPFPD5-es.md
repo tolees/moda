@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41spBHcdTdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077XPFPD5-es'
+slug: 'B077XPFPD5-es Under Armour Tech 2.0. Camiseta masculina  camiseta transpirable  ancha camiseta para gimnasio de manga corta y secado rápido  Red/Graphite  600   MD'
 actualPrice: 14.49 EUR
 currency: EUR
 price: 14.49

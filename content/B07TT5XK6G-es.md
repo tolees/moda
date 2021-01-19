@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/418lbnKit-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TT5XK6G-es'
+slug: 'B07TT5XK6G-es Superdry Super Sleek Flip Flop  Chanclas para Mujer  Rosa  Fluro Pink 28r   36/37 EU'
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

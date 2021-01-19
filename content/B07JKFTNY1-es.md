@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41sxL6rStPL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JKFTNY1-es'
+slug: 'B07JKFTNY1-es TOTTO Bolso Bayonne Bolso Bandolera  20 cm  20 litros  Multicolor'
 actualPrice: 20.96 EUR
 currency: EUR
 price: 20.96

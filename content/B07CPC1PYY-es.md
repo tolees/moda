@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41sVfTd5HkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CPC1PYY-es'
+slug: 'B07CPC1PYY-es Crocs Crocband Clog Kids  Zuecos Unisex Niños  Morado  Lavender/Neon Purple 5p8   29/30 EU'
 actualPrice: 21.74 EUR
 currency: EUR
 price: 21.74

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Cwsur4P-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VTB9WRJ-es'
+slug: 'B07VTB9WRJ-es Tommy Hilfiger De Brooklyn Structure Short Flex Vaqueros Relaxed  Azul  Cobalt C65   W30/L30  Talla del Fabricante: NI30  para Hombre'
 actualPrice: 12.83 EUR
 currency: EUR
 price: 12.83

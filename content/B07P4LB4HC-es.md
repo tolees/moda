@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/210BsZ0HKiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P4LB4HC-es'
+slug: 'B07P4LB4HC-es Mujer Vestido Elegante sin Mangas lápiz para Cóctel Fiesta 2XL CL010987-1'
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

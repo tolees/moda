@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41V2DtwwMTL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NGW5GKM-es'
+slug: 'B07NGW5GKM-es Calvin Klein Hip Brief 3pk Bóxer  Azul  Astral Aura/Corsair/Grey Smoke Slz   X-Large  Pack de 2  para Hombre'
 actualPrice: 13.3 EUR
 currency: EUR
 price: 13.3

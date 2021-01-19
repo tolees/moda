@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41DX3qeHodL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TXD89C2-es'
+slug: 'B07TXD89C2-es Superdry Rainbow Sleek Flip Flop  Chanclas para Mujer  Amarillo  Neon Yellow 24k   38/39 EU'
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

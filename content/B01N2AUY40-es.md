@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/417n16ew4eL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N2AUY40-es'
+slug: 'B01N2AUY40-es Intimuse Embu Sudadera  Negro  Schwarz/pink 125   X-Small'
 actualPrice: 7.79 EUR
 currency: EUR
 price: 7.79

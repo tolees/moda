@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41nGONpQrML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N8FZF11-es'
+slug: 'B07N8FZF11-es JACK & JONES Jjialvin Jjjacket Sa 001 Noos Chaqueta de Jean  Azul  Denim   M para Hombre'
 actualPrice: 25.0 EUR
 currency: EUR
 price: 25.0

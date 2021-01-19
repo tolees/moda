@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51fu+plJ7cL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07798MPHJ-es'
+slug: 'B07798MPHJ-es COMVIP Bebé niña Resbalón Anti del algodón elástico de Dibujos Animados Zapatos Zapatilla niño Asia 11: 10 cm de Longitud Rosado'
 actualPrice: 4.49 EUR
 currency: EUR
 price: 4.49

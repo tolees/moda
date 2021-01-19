@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31dBi0UJSWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V7Y3MCS-es'
+slug: 'B07V7Y3MCS-es Billabong All Day Theme  Chanclas para Hombre  Negro  Charcoal 18   46 EU'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

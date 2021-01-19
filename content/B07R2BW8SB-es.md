@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41JKe-jkJ6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R2BW8SB-es'
+slug: 'B07R2BW8SB-es Wrangler SS Logo tee Camiseta  Marfil  Off White 737   Medium para Hombre'
 actualPrice: 8.91 EUR
 currency: EUR
 price: 8.91

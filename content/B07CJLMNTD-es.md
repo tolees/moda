@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31h+pqBYAxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CJLMNTD-es'
+slug: 'B07CJLMNTD-es Only Onlroyal Reg SK Dnm Jeans Bj312 Noos Vaqueros Skinny  Gris  Dark Grey Denim Dark Grey Denim   W30/L30 para Mujer'
 actualPrice: 12.35 EUR
 currency: EUR
 price: 12.35

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31y1fo2xKbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NJ3XV9D-es'
+slug: 'B07NJ3XV9D-es Springfield 2.T. Print Vestido  Negro  Negro 1   Medium  Tamaño del Fabricante: M  para Mujer'
 actualPrice: 7.45 EUR
 currency: EUR
 price: 7.45

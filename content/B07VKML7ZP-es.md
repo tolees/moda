@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31r36zrkl1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VKML7ZP-es'
+slug: 'B07VKML7ZP-es Hackett London Amr Tape LS Polo Camisa Manga Larga  Blanco  White 800   Small para Hombre'
 actualPrice: 43.34 EUR
 currency: EUR
 price: 43.34

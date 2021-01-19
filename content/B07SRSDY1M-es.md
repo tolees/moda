@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41VRS0XCYkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SRSDY1M-es'
+slug: 'B07SRSDY1M-es Geox D Sandal Hiver A  Sandalias con Punta Abierta para Mujer  Dorado  Dk Gold/Cognac C2e6n   35 EU'
 actualPrice: 30.24 EUR
 currency: EUR
 price: 30.24

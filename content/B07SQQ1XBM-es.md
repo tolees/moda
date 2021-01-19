@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Ibt63SImL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SQQ1XBM-es'
+slug: 'B07SQQ1XBM-es Geox D Sandal Hiver B  Sandalias con Tira Vertical para Mujer  Plateado  Silver C1007   41 EU'
 actualPrice: 40.46 EUR
 currency: EUR
 price: 40.46

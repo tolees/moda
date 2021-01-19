@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31iogvfYL2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MYQ1XJ7-es'
+slug: 'B01MYQ1XJ7-es Nike Kawa Shower  Chanclas Hombre  Negro  Black/White   45 EU'
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

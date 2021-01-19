@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ypoSHXrUL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NDNQVVJ-es'
+slug: 'B07NDNQVVJ-es G-STAR RAW Varve Wool Abrigo  Negro  Dk Black 6484   XX-Small para Hombre'
 actualPrice: 35.72 EUR
 currency: EUR
 price: 35.72

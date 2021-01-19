@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41dr1uIXWRL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TPYCD8Q-es'
+slug: 'B07TPYCD8Q-es G-STAR RAW Graphic 15 Hooded Sudadera  Multicolor  Grey Htr/White/Deep Brown B052   Medium para Hombre'
 actualPrice: 41.05 EUR
 currency: EUR
 price: 41.05

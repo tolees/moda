@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41XOwvSi44L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M5F7FF3-es'
+slug: 'B07M5F7FF3-es Wrangler Arizona Vaqueros Straight  Azul  Burnt Up 77p   36 W/ 36 L para Hombre'
 actualPrice: 26.45 EUR
 currency: EUR
 price: 26.45

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41MtGYX9JTL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RJTDRYY-es'
+slug: 'B07RJTDRYY-es adidas Hoops 2.0 Mid  Zapatos de Baloncesto para Mujer  Blanco  Cloud White/Cloud White/FTWR White Cloud White/Cloud White/FTWR White   40 EU'
 actualPrice: 32.48 EUR
 currency: EUR
 price: 32.48

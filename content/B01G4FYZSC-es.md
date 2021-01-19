@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41aRFK1tFjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01G4FYZSC-es'
+slug: 'B01G4FYZSC-es Asics Hyper MD 6 Unisex Zapatilla Running De Clavos - 42'
 actualPrice: 34.79 EUR
 currency: EUR
 price: 34.79

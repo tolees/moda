@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41pT1JhZeBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VF4KDJ5-es'
+slug: 'B07VF4KDJ5-es JACK & JONES Jcofigure Parka STS  Azul  Sky Captain Pattern: Melange   XX-Large para Hombre'
 actualPrice: 34.09 EUR
 currency: EUR
 price: 34.09

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41fjLafiAAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001PEEB32-es'
+slug: 'B001PEEB32-es adidas Originals Adilette  Zapatos de Playa y Piscina Unisex Adulto  Azul Adiblue White Adiblue  37 EU'
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

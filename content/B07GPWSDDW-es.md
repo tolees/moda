@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41HegRDC49L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GPWSDDW-es'
+slug: 'B07GPWSDDW-es Desigual T-Shirt Short Sleeve NANUK Woman Blue Camiseta  Azul  Navy 5000   XL para Mujer'
 actualPrice: 31.18 EUR
 currency: EUR
 price: 31.18

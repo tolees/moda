@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/418hZ-nfD3L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NPRHP84-es'
+slug: 'B07NPRHP84-es Stenso Chaqueta Chaleco de Trabajo Multiusos MAX - Ropa de Trabajo para Hombre - 2 en 1 para Todo el año - Negro/Rojo - M  EU48 '
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

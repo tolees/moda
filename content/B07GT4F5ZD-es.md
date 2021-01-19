@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51SADukYZFL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GT4F5ZD-es'
+slug: 'B07GT4F5ZD-es Alomejor Chaleco Reflectante De Noche Chaleco Reflectante De Seguridad Chaleco De Alta Visibilidad con Chaleco Delantero En El Pecho Trasero para Correr Deportes Nocturnos Amarillo '
 actualPrice: 5.69 EUR
 currency: EUR
 price: 5.69

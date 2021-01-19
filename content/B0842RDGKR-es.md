@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Vjy5Qm5tL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0842RDGKR-es'
+slug: 'B0842RDGKR-es Cerdá Bebe-100% algodón Pelele Winnie The Pooh de Bebe  Gris  3 Meses para Bebés'
 actualPrice: 13.0 EUR
 currency: EUR
 price: 13.0

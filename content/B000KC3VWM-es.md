@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41O2n-9ALXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000KC3VWM-es'
+slug: 'B000KC3VWM-es Birkenstock Gizeh Birko-Flor  Chanclas para Mujer  Negro  Noir   36 EU'
 actualPrice: 48.0 EUR
 currency: EUR
 price: 48.0

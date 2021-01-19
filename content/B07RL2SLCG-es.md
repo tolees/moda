@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41cA9Ktay7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RL2SLCG-es'
+slug: 'B07RL2SLCG-es Tommy Hilfiger TJM Round Back Logo tee Camiseta Deporte  Gris  Grey P   Small para Hombre'
 actualPrice: 17.65 EUR
 currency: EUR
 price: 17.65

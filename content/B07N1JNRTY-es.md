@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51lw9L5yIcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N1JNRTY-es'
+slug: 'B07N1JNRTY-es Clarks Linvale Sea  Zapatos con Tira de Tobillo para Mujer  Estampado de Leopardo Multicolor  37.5 EU'
 actualPrice: 38.18 EUR
 currency: EUR
 price: 38.18

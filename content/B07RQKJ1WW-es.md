@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41f2JPYLZPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RQKJ1WW-es'
+slug: 'B07RQKJ1WW-es Zapatos de agua para la playa  piscina o jardín  para niños y niñas  color  talla 29/31 EU'
 actualPrice: 14.83 EUR
 currency: EUR
 price: 14.83

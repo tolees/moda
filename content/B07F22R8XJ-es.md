@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31cQ6cLXsnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F22R8XJ-es'
+slug: 'B07F22R8XJ-es Timberland Newport Bay  Zapatillas Bajas para Hombre  Blanco  Light Grey Canvas   40 EU'
 actualPrice: 32.5 EUR
 currency: EUR
 price: 32.5

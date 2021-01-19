@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41UPnSmcS1L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PML1SFR-es'
+slug: 'B07PML1SFR-es MTNG Picton  Bolso Bolera para Mujer   Nylon/lis Negro   16x26x35 cm  W x H x L '
 actualPrice: 15.54 EUR
 currency: EUR
 price: 15.54

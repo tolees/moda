@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41KLpwLYCYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B019IKN8M4-es'
+slug: 'B019IKN8M4-es Keysui Mascotas fiesta traje Formal traje ropa abrigo para perros ropa'
 actualPrice: 9.72 EUR
 currency: EUR
 price: 9.72

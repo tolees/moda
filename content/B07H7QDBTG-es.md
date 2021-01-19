@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31hoy--j5CL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H7QDBTG-es'
+slug: 'B07H7QDBTG-es Softinos Evi523sof  Zapatos y Bolsos para Mujer  Pearl Grey 006  38 EU'
 actualPrice: 63.22 EUR
 currency: EUR
 price: 63.22

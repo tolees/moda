@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31f5Ta7A5NL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B3RCP2J-es'
+slug: 'B07B3RCP2J-es PUMA Liga TR JSY Camiseta de Manga Corta  Hombre  Blanco  White/Black   2XL'
 actualPrice: 15.18 EUR
 currency: EUR
 price: 15.18

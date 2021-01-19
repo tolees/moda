@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/413tp9TcP-L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FSJWLTD-es'
+slug: 'B07FSJWLTD-es Peak Velocity - Sudadera con capucha con cremallera completa con forro polar de peso medio y corte ancho para hombre  Gris  US S  EU S '
 actualPrice: 24 EUR
 currency: EUR
 price: 24

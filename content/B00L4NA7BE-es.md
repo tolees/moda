@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41LHO4Dhk6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00L4NA7BE-es'
+slug: 'B00L4NA7BE-es Columbia Flash Forward  Chaqueta cortavientos  Mujer  Negro  Black   S'
 actualPrice: 30.49 EUR
 currency: EUR
 price: 30.49

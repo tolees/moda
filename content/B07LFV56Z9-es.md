@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41TcSuNnp0L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFV56Z9-es'
+slug: 'B07LFV56Z9-es Geox D Felicity G  Botines para Mujer  Gris  Chestnut C6004   36 EU'
 actualPrice: 29.36 EUR
 currency: EUR
 price: 29.36

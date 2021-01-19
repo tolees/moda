@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41k1GmPt0bL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VYCJF9Z-es'
+slug: 'B07VYCJF9Z-es Amazon Essentials Sudadera Ligera de Felpa Francesa con Cremallera Completa Fashion-Hoodies  Gris  US L  EU L '
 actualPrice: 22.07 EUR
 currency: EUR
 price: 22.07

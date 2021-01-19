@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41T8F8MsOBL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SSSMXK9-es'
+slug: 'B07SSSMXK9-es JACK & JONES PREMIUM Jprblackpool Shirt L/s Au19 STS Camisa  Morado  Dark Purple Slim Fit AOP   XX-Large para Hombre'
 actualPrice: 12.23 EUR
 currency: EUR
 price: 12.23

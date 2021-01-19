@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41AId9FmRoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KXJJTKF-es'
+slug: 'B07KXJJTKF-es G-STAR RAW LUGE Knotted Camiseta  Beige  Milk B906/111   X-Small para Mujer'
 actualPrice: 13.22 EUR
 currency: EUR
 price: 13.22

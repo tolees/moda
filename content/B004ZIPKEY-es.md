@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41jozfR9+LL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004ZIPKEY-es'
+slug: 'B004ZIPKEY-es Helly Hansen Driftline Camiseta Tipo Polo de Manga Corta con Tejido de Secado rápido y Logo HH Pecho  Hombre  Negro  L'
 actualPrice: 39.28 EUR
 currency: EUR
 price: 39.28

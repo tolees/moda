@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ozdA6o9SL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00Q7EUZLM-es'
+slug: 'B00Q7EUZLM-es Columbia Peakfreak Venture Zapatos impermeables para hombre   Negro Black  Gypsy   43 EU'
 actualPrice: 77.99 EUR
 currency: EUR
 price: 77.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Ihy5eMaWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FGVGTF6-es'
+slug: 'B07FGVGTF6-es SHOBDW Las Mujeres de Moda señora de la Cintura elástica Verano sólido hasta la Rodilla cómodos Pantalones Cortos Deportivos Pantalones Casuales de Playa  L  Rosado '
 actualPrice: 4.59 EUR
 currency: EUR
 price: 4.59

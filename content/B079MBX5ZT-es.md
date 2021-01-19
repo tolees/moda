@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41N0GMi1ADL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079MBX5ZT-es'
+slug: 'B079MBX5ZT-es Marca Amazon - MERAKI Camiseta Slim Fit de Manga Corta con Cuello de Pico Hombre  Negro  Black   M  Label: M'
 actualPrice: 6.76 EUR
 currency: EUR
 price: 6.76

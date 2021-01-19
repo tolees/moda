@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31DaF+tCf2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SP5FMGS-es'
+slug: 'B07SP5FMGS-es Under Armour Rush Heatgear Compression Camisa Manga Corta  Hombre  Negro  XL'
 actualPrice: 21.61 EUR
 currency: EUR
 price: 21.61

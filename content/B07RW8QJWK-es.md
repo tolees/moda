@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/419n7GPNi4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RW8QJWK-es'
+slug: 'B07RW8QJWK-es Riñonera Deportiva  Riñonera Mujer Hombre Running Cinturón Impermeable Bandolera Multifuncional Bolsillos Ajustable Bolso de Cintura Viajar Camina el Perro Bicicleta Excursionismo Acampada Negro'
 actualPrice: 11.72 EUR
 currency: EUR
 price: 11.72

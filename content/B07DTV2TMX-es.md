@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/218ngiObqUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DTV2TMX-es'
+slug: 'B07DTV2TMX-es Lacoste Croco Slide 119 3 Cfa  Sandalias de Punta Descubierta para Mujer  Blanco  Wht/Lt Pnk 1y9   38 EU'
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41BSCuOynkL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HEOHKWK-es'
+slug: 'B01HEOHKWK-es Crocs Classic Clog Kids Roomy fit Zuecos Unisex niños  Rosa  Candy Pink 6X0   19/20 EU'
 actualPrice: 21.6 EUR
 currency: EUR
 price: 21.6

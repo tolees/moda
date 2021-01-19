@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31k1qw72clL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XCFK2W5-es'
+slug: 'B06XCFK2W5-es Clarks Adriel Viola  Zapatos de Tacón para Mujer  Negro  Black Leather   39.5 EU'
 actualPrice: 67.06 EUR
 currency: EUR
 price: 67.06

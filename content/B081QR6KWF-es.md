@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31H7xamKq2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081QR6KWF-es'
+slug: 'B081QR6KWF-es Under Armour UA Streaker 2.0 Half Zip Cremallera Media  Sudadera Deportiva de Secado rápido  Mujer  Rosa  Hushed Pink/Reflective 662   M'
 actualPrice: 26.49 EUR
 currency: EUR
 price: 26.49

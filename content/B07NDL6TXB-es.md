@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41i3jDqDelL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NDL6TXB-es'
+slug: 'B07NDL6TXB-es G-STAR RAW 3301 Boyfriend Denim Chaqueta  Rosa  Dk Tea Rose A827   Large para Mujer'
 actualPrice: 31.88 EUR
 currency: EUR
 price: 31.88

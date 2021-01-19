@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41eJB3ttPyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077XQVY6H-es'
+slug: 'B077XQVY6H-es Under Armour Rival Fleece Crew  Sudadera Hombre  Azul  XL'
 actualPrice: 18.82 EUR
 currency: EUR
 price: 18.82

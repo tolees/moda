@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31PNw7I4lAL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MMWQ121-es'
+slug: 'B07MMWQ121-es Wrangler Plus Vaqueros Skinny  Azul  Stretch Dark 053   42 W/ 32 L para Mujer'
 actualPrice: 23.2 EUR
 currency: EUR
 price: 23.2

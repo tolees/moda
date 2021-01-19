@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/315t8BRj6hL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FQMSLVX-es'
+slug: 'B07FQMSLVX-es Clarks Un Trail Form  Zapatos de Cordones Derby  Negro  Black Nubuck-   43 EU'
 actualPrice: 41.93 EUR
 currency: EUR
 price: 41.93

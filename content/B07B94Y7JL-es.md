@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41oOfWciVZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B94Y7JL-es'
+slug: 'B07B94Y7JL-es Clarks Vargo Plain  Zapatos de Cordones Derby  Marrón  Dark Brown Leather-   44 EU'
 actualPrice: 64.2 EUR
 currency: EUR
 price: 64.2

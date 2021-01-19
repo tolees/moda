@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41YQEmNh0HL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SSJ56HB-es'
+slug: 'B07SSJ56HB-es Geox B Waviness Girl C  Zapatillas para Bebés  Rosa  Pink C8004   23 EU'
 actualPrice: 25.2 EUR
 currency: EUR
 price: 25.2

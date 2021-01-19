@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/418cmiYUNmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VMV1G71-es'
+slug: 'B07VMV1G71-es Lee Daren Zip Fly Vaqueros Straight  Azul  Mid Stonewash 44   32W / 34L para Hombre'
 actualPrice: 23.61 EUR
 currency: EUR
 price: 23.61

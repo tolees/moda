@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41IqultGVcL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RWYBTW5-es'
+slug: 'B07RWYBTW5-es Juego de destornilladores de precisión  juego de herramientas de destornilladores de 20 piezas para dispositivos pequeños  como joyas  relojes  juguetes  gafas  dispositivos pequeños y otros'
 actualPrice: 17.69 EUR
 currency: EUR
 price: 17.69

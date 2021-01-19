@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Hz8DLYZyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MZFYL7W-es'
+slug: 'B01MZFYL7W-es Pepe Jeans Soho Vaqueros  Rinse Plus  34W / 28L para Mujer'
 actualPrice: 28.65 EUR
 currency: EUR
 price: 28.65

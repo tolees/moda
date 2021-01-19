@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41fChSiEseL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q4V9PB3-es'
+slug: 'B07Q4V9PB3-es Superdry Classic University L/s Shirt Camisa  Rojo  Red Stripe 3rt   S para Hombre'
 actualPrice: 11.04 EUR
 currency: EUR
 price: 11.04

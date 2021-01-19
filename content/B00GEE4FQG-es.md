@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/419JFRfxcdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00GEE4FQG-es'
+slug: 'B00GEE4FQG-es Columbia Zero Rules Short Sleeve Shirt Camiseta de manga corta  Hombre  Negro  Black   M'
 actualPrice: 23.44 EUR
 currency: EUR
 price: 23.44

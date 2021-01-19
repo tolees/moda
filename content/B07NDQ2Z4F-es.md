@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41bwdwDbmTL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NDQ2Z4F-es'
+slug: 'B07NDQ2Z4F-es G-STAR RAW Whistler Slim Down Hooded Long Abrigo  Gris  Mercury 1359   40  Talla del Fabricante: Medium  para Mujer'
 actualPrice: 135.52 EUR
 currency: EUR
 price: 135.52

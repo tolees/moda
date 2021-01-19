@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/312BqgdR3KL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P6W9WD6-es'
+slug: 'B07P6W9WD6-es JACK & JONES Jorhotel tee SS Crew Neck Camiseta  Turquesa  Aqua Sky Fit: Reg   Medium para Hombre'
 actualPrice: 5.05 EUR
 currency: EUR
 price: 5.05

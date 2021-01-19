@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41OkaPTuyiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NJ9RDJY-es'
+slug: 'B07NJ9RDJY-es Springfield 1.Ap.Oi19.Tirante Bimater Blusa  Multicolor  Multicolor 21   Medium  Tamaño del Fabricante: M  para Mujer'
 actualPrice: 4.49 EUR
 currency: EUR
 price: 4.49

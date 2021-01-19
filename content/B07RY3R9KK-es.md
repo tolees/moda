@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ikEDdlBOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RY3R9KK-es'
+slug: 'B07RY3R9KK-es BILLABONG Jackson Hood Sudadera  Negro  Black 19   One Size  Tamaño del Fabricante: S  para Hombre'
 actualPrice: 20.16 EUR
 currency: EUR
 price: 20.16

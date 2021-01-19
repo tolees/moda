@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31JW6F1lKrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00LMKL85S-es'
+slug: 'B00LMKL85S-es Quiksilver Carver Suede M Sndl Sandalias con Plataforma Plana  Hombre  Beige  Tan / Solid   39'
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

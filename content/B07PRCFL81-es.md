@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Zvpz1GtnL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PRCFL81-es'
+slug: 'B07PRCFL81-es Kipling Eleva  Bolso con Bandolera para Mujer  Dorado  Cloud Metal   31x33x12 centimeters  B x H x T '
 actualPrice: 35.89 EUR
 currency: EUR
 price: 35.89

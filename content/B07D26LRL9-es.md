@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Ae2hZnawL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D26LRL9-es'
+slug: 'B07D26LRL9-es Aibrou Camisón Mujer Sexy Algodón Encaje Tirantes Pijama Saten Comodo y Elegante Ropa Interior con Tanga'
 actualPrice: 13.59 EUR
 currency: EUR
 price: 13.59

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41hGD2WI2aL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074TDR9PY-es'
+slug: 'B074TDR9PY-es ZAPATO GEOX U741UA 020FU C61T7J MARRON 44 Marron'
 actualPrice: 59.96 EUR
 currency: EUR
 price: 59.96

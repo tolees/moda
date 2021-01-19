@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51NkDDIN7AL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01KHU9O6S-es'
+slug: 'B01KHU9O6S-es sitengle Mujeres Elegante Camisetas de Encaje Floral Mangas Largas See Through T Shirt Camisas Basic Blusa Tops Negro XX-Large'
 actualPrice: 7.82 EUR
 currency: EUR
 price: 7.82

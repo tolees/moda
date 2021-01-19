@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41+m5o5TXoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZJGTM1-es'
+slug: 'B07MZJGTM1-es G-STAR RAW Graphic 8 Round Neck Camiseta  Azul  Sartho Blue 6067   XXS para Hombre'
 actualPrice: 10.16 EUR
 currency: EUR
 price: 10.16

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51JOei%2B5xwL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KYHV19X-es'
+slug: 'B07KYHV19X-es DoGeek Zapato Seguridad Zapatos Trabajo con Punta de Acero Antideslizante  Senderismo Unisex-Adulto'
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

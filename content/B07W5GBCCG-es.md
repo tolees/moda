@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41xfdxultuL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W5GBCCG-es'
+slug: 'B07W5GBCCG-es JACK & JONES JCOOSCAR Jacket Hood Chaqueta  Negro Black  M para Hombre'
 actualPrice: 28.83 EUR
 currency: EUR
 price: 28.83

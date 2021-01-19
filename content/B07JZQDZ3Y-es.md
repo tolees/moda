@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41stim4gb+L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JZQDZ3Y-es'
+slug: 'B07JZQDZ3Y-es Lee Malone Vaqueros  Blue Drop Em  29W / 30L para Hombre'
 actualPrice: 59.97 EUR
 currency: EUR
 price: 59.97

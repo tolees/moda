@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4197qbwwTiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073DKMCF3-es'
+slug: 'B073DKMCF3-es Pendientes Mariposa de Moda de Color Espumoso Azul para Dama en Caja de Regalo'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

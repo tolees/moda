@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41NjdbtVPiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076HQZDFR-es'
+slug: 'B076HQZDFR-es adidas CORE18 tee Camiseta de Manga Corta  Hombre  Black/White  S'
 actualPrice: 14.9 EUR
 currency: EUR
 price: 14.9

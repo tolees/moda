@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41gzl6UnL+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082NY3C8N-es'
+slug: 'B082NY3C8N-es Oihxse Transparente Silicona Case Compatible con Huawei Y9 2019/Enjoy 9 Plus Funda Suave TPU Protección Carcasa Moda Dibujos Animados Divertida Diseño Ultra-Delgado Cubierta-Zorro'
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

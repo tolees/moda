@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41R2zyEzxUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DV4N1DB-es'
+slug: 'B07DV4N1DB-es Columbia WAYFINDER  Zapatos Multideporte para Hombre  Negro  Black  White 010   43 EU'
 actualPrice: 56.99 EUR
 currency: EUR
 price: 56.99

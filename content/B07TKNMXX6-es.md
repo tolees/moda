@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/512n7e2M8RL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TKNMXX6-es'
+slug: 'B07TKNMXX6-es Havaianas Slim Animals  Chanclas para Mujer  Multicolor  Grey/Olive Green 7807   41/42 EU'
 actualPrice: 18.49 EUR
 currency: EUR
 price: 18.49

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31SHY6o1bKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SSG8GHN-es'
+slug: 'B07SSG8GHN-es adidas Real Madrid Home Jersey Camiseta de Manga Corta  Unisex Adulto  Blanco  White   M'
 actualPrice: 39.98 EUR
 currency: EUR
 price: 39.98

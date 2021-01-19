@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31CmYx8vNzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0776ZRDSM-es'
+slug: 'B0776ZRDSM-es Tommy Hilfiger Piqué P Camiseta Polo con Cierre de 3 Botones  Blanco  Classic White   XS para Hombre'
 actualPrice: 38.45 EUR
 currency: EUR
 price: 38.45

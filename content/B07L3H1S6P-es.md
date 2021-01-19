@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31n9U5K1W4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L3H1S6P-es'
+slug: 'B07L3H1S6P-es Tommy Hilfiger Essential Logo Sweatshirt Sudadera  Azul  Black Iris 002   98  Talla del Fabricante: 3  para Niñas'
 actualPrice: 21.98 EUR
 currency: EUR
 price: 21.98

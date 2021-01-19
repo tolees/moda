@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31v2vxSoZDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0093XTXD0-es'
+slug: 'B0093XTXD0-es Lacoste L1212 Camisa de Polo  COSMIQUE  3XL para Hombre'
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

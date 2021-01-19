@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41klCM2IYSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QLR78JV-es'
+slug: 'B07QLR78JV-es Tuopuda Calzoncillos para Hombre Ropa Interior Boxer Slip Algodón Pack de 4  L  Waist = 30-32 Inch   Azul '
 actualPrice: 12.16 EUR
 currency: EUR
 price: 12.16

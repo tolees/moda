@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31olgzA1MbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CPCGCYQ-es'
+slug: 'B07CPCGCYQ-es Crocs Crocband U  Zuecos Unisex Adulto  Verde  Army Green-White 37p   46-47 EU'
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

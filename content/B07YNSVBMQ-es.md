@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31op+VDGDuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YNSVBMQ-es'
+slug: 'B07YNSVBMQ-es find. Hurrache Sandalias con Punta Cerrada  Beige  Natural   38 EU'
 actualPrice: 8.68 EUR
 currency: EUR
 price: 8.68

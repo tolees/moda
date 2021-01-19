@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41OB8aROOjL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MMVYXRN-es'
+slug: 'B07MMVYXRN-es Lee Marion Vaqueros Straight  Azul  Mid Gordo CV   W31/L35 para Mujer'
 actualPrice: 48.85 EUR
 currency: EUR
 price: 48.85

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31XQqzdwbKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002JCSSV0-es'
+slug: 'B002JCSSV0-es Crocs Crocband U  Zuecos Unisex Adulto  Blanco  White   39-40 EU'
 actualPrice: 30.15 EUR
 currency: EUR
 price: 30.15

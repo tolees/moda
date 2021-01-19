@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41PAKoUb0oL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S6TYD6Z-es'
+slug: 'B07S6TYD6Z-es El Naturalista N5133  Botines para Mujer  Negro  Black-Obsidiana 000   37 EU'
 actualPrice: 45.58 EUR
 currency: EUR
 price: 45.58

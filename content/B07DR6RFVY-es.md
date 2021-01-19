@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31h1Zgx3S0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DR6RFVY-es'
+slug: 'B07DR6RFVY-es Teva Hurricane Drift  Sandalias de Punta Descubierta para Mujer  Negro  Black Blk   39 EU'
 actualPrice: 26.87 EUR
 currency: EUR
 price: 26.87

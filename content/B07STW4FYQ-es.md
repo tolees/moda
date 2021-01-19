@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31duLSAReTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07STW4FYQ-es'
+slug: 'B07STW4FYQ-es Quiksilver Rivi Slide  Sandalias con Punta Abierta para Hombre  Gris  Grey/Blue/Yellow Xsby   41 EU'
 actualPrice: 11.04 EUR
 currency: EUR
 price: 11.04

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ahMyeOiIL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MDPNY5J-es'
+slug: 'B01MDPNY5J-es NNJXD Vestido de Fiesta de Princesa con Encaje de Flor de 3D sin Mangas para Niñas Talla 100  1.5-2 Años Amarillo'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

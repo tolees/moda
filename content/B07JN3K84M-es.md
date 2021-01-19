@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31sJjfPyL0L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JN3K84M-es'
+slug: 'B07JN3K84M-es Timberland Adventure 2.0 Cupsole Modern Oxford  Zapatillas Bajas para Hombre  Rojo  Dark Red Nubuck   41 EU'
 actualPrice: 38.72 EUR
 currency: EUR
 price: 38.72

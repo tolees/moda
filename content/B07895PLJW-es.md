@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41jb6rzVxPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07895PLJW-es'
+slug: 'B07895PLJW-es Under Armour Big Logo SS Camisa Manga Corta  Hombre  Azul  LG'
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

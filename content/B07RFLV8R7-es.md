@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41A9nUQKMFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RFLV8R7-es'
+slug: 'B07RFLV8R7-es Tommy Hilfiger Arlos Bomber Chaqueta deportiva  Azul  Blue Dw5   Medium para Hombre'
 actualPrice: 74.99 EUR
 currency: EUR
 price: 74.99

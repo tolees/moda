@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31o-7BIDvoL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MFM2LMT-es'
+slug: 'B07MFM2LMT-es Clarks Oliver Limit  Zapatos de Cordones Derby para Hombre  Negro Black Leather  47 EU'
 actualPrice: 74.79 EUR
 currency: EUR
 price: 74.79

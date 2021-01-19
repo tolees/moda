@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31r4UI+zABL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077HWQQLW-es'
+slug: 'B077HWQQLW-es FM London Tagless Bóxer  Multicolor  Assorted   Small  Pack de 5  para Hombre'
 actualPrice: 18.69 EUR
 currency: EUR
 price: 18.69

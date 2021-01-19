@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31qpm72y8aL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFRMZCS-es'
+slug: 'B07LFRMZCS-es Geox U KAVEN B  Zapatillas para Hombre  Marrón  Browncotto/Dk Coffee C6g6t   43 EU'
 actualPrice: 50.85 EUR
 currency: EUR
 price: 50.85

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41DguBu-esL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0831QGXS5-es'
+slug: 'B0831QGXS5-es Canadian Peak Chaqueta Softshell Mujer TOKA Negro 01'
 actualPrice: 69.3 EUR
 currency: EUR
 price: 69.3

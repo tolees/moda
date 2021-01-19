@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41+p-fNgbpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N3XGTRF-es'
+slug: 'B07N3XGTRF-es Mizuno Wave Momentum  Zapatos de Voleibol para Mujer  Weiß  Nimbus Cloud/10135c/Wht 52 '
 actualPrice: 85.95 EUR
 currency: EUR
 price: 85.95

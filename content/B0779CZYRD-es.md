@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41g6sN8qGWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0779CZYRD-es'
+slug: 'B0779CZYRD-es Adidas Ref18 JSY Camiseta de Manga Corta  Hombre  Black  XS'
 actualPrice: 21.76 EUR
 currency: EUR
 price: 21.76

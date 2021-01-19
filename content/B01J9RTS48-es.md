@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31ntu98sjhL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01J9RTS48-es'
+slug: 'B01J9RTS48-es INBIKE Gafas De Sol Polarizadas para Ciclismo con 5 Lentes Intercambiables UV400 Y Montura De TR-90  Gafas para MTB Bicicleta Montaña 100% De Protección UV Blanco '
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

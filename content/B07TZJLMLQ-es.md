@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41OxPsAtAcL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TZJLMLQ-es'
+slug: 'B07TZJLMLQ-es Mujer Cuñas Zapatos 35-43 EU De Lona High-Top Zapatos Casuales Talla Grande Zapatillas de Cuña para Mujer Zapatillas de Deporte Zapatillas Altas Primavera/Verano Tacón Cuña'
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

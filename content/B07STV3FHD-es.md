@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31wPY-BzT7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07STV3FHD-es'
+slug: 'B07STV3FHD-es Geox D Sandal Hiver B  Sandalias con Tira Vertical para Mujer  Blanco  White C1000   36 EU'
 actualPrice: 62.93 EUR
 currency: EUR
 price: 62.93

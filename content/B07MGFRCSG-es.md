@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31nlFLz9ryL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MGFRCSG-es'
+slug: 'B07MGFRCSG-es Napapijri Rainforest Winter 1 Chaqueta  Verde  Green Forest 2 GE3   XL para Hombre'
 actualPrice: 74.33 EUR
 currency: EUR
 price: 74.33

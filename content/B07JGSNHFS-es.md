@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31o3oLLsXsL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JGSNHFS-es'
+slug: 'B07JGSNHFS-es Pepe Jeans Betties HW Vaqueros Straight  Azul Claro  Archive Bright Denim 000   W30/L28 para Mujer'
 actualPrice: 17.73 EUR
 currency: EUR
 price: 17.73

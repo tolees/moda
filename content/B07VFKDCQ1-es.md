@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31i3VKZ+z0L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VFKDCQ1-es'
+slug: 'B07VFKDCQ1-es Esprit 099ee1g018s Abrigo  Azul  Navy 400   XX-Large para Mujer'
 actualPrice: 22.53 EUR
 currency: EUR
 price: 22.53

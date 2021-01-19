@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31ZVe4H43SL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00CSN5DZ4-es'
+slug: 'B00CSN5DZ4-es Columbia Fast Trek II Chaqueta Polar para Mujer  Color: Sea Salt  Talla: M'
 actualPrice: 20 EUR
 currency: EUR
 price: 20

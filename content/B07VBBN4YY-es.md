@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/318ZFapXFmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VBBN4YY-es'
+slug: 'B07VBBN4YY-es HUGO Ernie Camisa  Azul  Navy 413   Small  Talla del Fabricante: 38  para Hombre'
 actualPrice: 46.46 EUR
 currency: EUR
 price: 46.46

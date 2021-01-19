@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41WdMsiFq1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FR3LQHZ-es'
+slug: 'B07FR3LQHZ-es Clarks Un Trail Form  Zapatos de Cordones Derby  Azul  Navy Nubuck-   41 EU'
 actualPrice: 42.19 EUR
 currency: EUR
 price: 42.19

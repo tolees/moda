@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41frOYRGuXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00Q7EUVUC-es'
+slug: 'B00Q7EUVUC-es Columbia Peakfreak Venture  Zapatos Impermeables para Hombre  Marrón  Cordovan  Squash 231   42.5 EU'
 actualPrice: 68.99 EUR
 currency: EUR
 price: 68.99

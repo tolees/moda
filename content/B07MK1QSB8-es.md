@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41fbb1pj-3L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MK1QSB8-es'
+slug: 'B07MK1QSB8-es Napapijri Aerons Vest 2 Chaqueta  Verde  Green Forest 2 GE3   M para Hombre'
 actualPrice: 79.5 EUR
 currency: EUR
 price: 79.5

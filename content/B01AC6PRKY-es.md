@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41bnDY3jB+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01AC6PRKY-es'
+slug: 'B01AC6PRKY-es Nike Park VI Camiseta de Manga Corta para hombre  Rojo  University Red/White   L'
 actualPrice: 16.72 EUR
 currency: EUR
 price: 16.72

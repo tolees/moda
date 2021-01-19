@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31htOwoc29L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BYMKZS2-es'
+slug: 'B08BYMKZS2-es Pantalones Deportivos para Mujer para Yoga Running Fitness Jogging Danza Pijama de Interior Largos Chándal Casuale'
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

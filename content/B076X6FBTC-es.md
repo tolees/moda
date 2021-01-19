@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41quZoQ3QBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076X6FBTC-es'
+slug: 'B076X6FBTC-es Geox U Wells A  Zapatillas para Hombre  Azul  Navy   42 EU'
 actualPrice: 77.96 EUR
 currency: EUR
 price: 77.96

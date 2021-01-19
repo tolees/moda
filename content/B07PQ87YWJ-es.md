@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ORaLDbbTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PQ87YWJ-es'
+slug: 'B07PQ87YWJ-es Kipling Gleam S  Bolso de Tocador para Mujer  Azul  Stone Blue Block   14x9.5x5.5 Centimeters  B x H x T '
 actualPrice: 9.5 EUR
 currency: EUR
 price: 9.5

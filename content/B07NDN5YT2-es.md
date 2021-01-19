@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31P8VGyEMrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NDN5YT2-es'
+slug: 'B07NDN5YT2-es G-STAR RAW CITI You High Waist Jegging Ankle Vaqueros Skinny  Negro  Jet Black Water pRojoected 9142-A840   24W / 36L para Mujer'
 actualPrice: 28.02 EUR
 currency: EUR
 price: 28.02

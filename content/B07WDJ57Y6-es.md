@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41THwrPQ5XL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WDJ57Y6-es'
+slug: 'B07WDJ57Y6-es Jack & Jones JORWONTON Sweat Hood Sudadera con Capucha  Azul  Navy Blazer Fit: Reg   M para Hombre'
 actualPrice: 10.98 EUR
 currency: EUR
 price: 10.98

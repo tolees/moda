@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41AHL8ovfQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076ZBWS29-es'
+slug: 'B076ZBWS29-es Marca Amazon - TRUTH & FABLE Vestido Cuello Halter de Encaje Mujer  Rojo  Jester Red   40  Label: M'
 actualPrice: 45.9 EUR
 currency: EUR
 price: 45.9

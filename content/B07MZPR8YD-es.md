@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/511JrOvp7GL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZPR8YD-es'
+slug: 'B07MZPR8YD-es Pepe Jeans Donovan Camisa   Multi 0aa   Small para Hombre'
 actualPrice: 12.35 EUR
 currency: EUR
 price: 12.35

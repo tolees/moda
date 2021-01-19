@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41xNNk4CTRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MD2FSKP-es'
+slug: 'B07MD2FSKP-es HongHu Moda para mujer Neat Bangs Corto Gran peluca rizada ondulada Anime Cosplay Pelucas de fiesta de pelo completo o uso diario Peluca rosa claro'
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

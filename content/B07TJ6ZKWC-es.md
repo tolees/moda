@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51wKpNao-gL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TJ6ZKWC-es'
+slug: 'B07TJ6ZKWC-es Vila Clothes 14053555 Chaqueta Punto  Turquesa  Oil Blue Oil Blue   36  Talla del Fabricante: X-Small  para Mujer'
 actualPrice: 7.88 EUR
 currency: EUR
 price: 7.88

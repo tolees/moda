@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41b3U7Nl8JL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SK1DZDS-es'
+slug: 'B07SK1DZDS-es ACVIP - Correa de hombro ancha ajustable a rayas para bolso cruzado  color  talla Talla única'
 actualPrice: 9.92 EUR
 currency: EUR
 price: 9.92

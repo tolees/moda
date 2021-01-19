@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Q5n6bRdrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N3Z3VT9-es'
+slug: 'B07N3Z3VT9-es Marca Amazon - find. Camisa de Manga Larga de Algodón Hombre  Negro  Black   XL  Label: XL'
 actualPrice: 6.3 EUR
 currency: EUR
 price: 6.3

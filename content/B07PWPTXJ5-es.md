@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51NhNeR5tuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PWPTXJ5-es'
+slug: 'B07PWPTXJ5-es Voqeen Mujer Bikini de Gradiente de Color Establece Retro Empuja hacia Arriba Dos Piezas Acolchadas Lunares/Rayas/Cristal Impresa Ropa de Playa Traje de baño'
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

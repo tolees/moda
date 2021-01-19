@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51fMeUvfuCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DWSMMB7-es'
+slug: 'B07DWSMMB7-es Zapatos de Seguridad Hombres  LM-313 Zapatillas de Trabajo con Punta de Acero Ultra Liviano Reflectivo Transpirable 41 EU S1p Negro '
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

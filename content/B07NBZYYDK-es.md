@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41oZDZ8peZL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NBZYYDK-es'
+slug: 'B07NBZYYDK-es AURIQUE Side Stripe Cycling Pantalon Corto Ciclismo  Negro  Black   34  Taille Fabricant: XX-Small '
 actualPrice: 8.0 EUR
 currency: EUR
 price: 8.0

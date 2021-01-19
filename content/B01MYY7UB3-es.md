@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41IsvkWH06L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MYY7UB3-es'
+slug: 'B01MYY7UB3-es G-Star Eyben Slim R T Wmn S/s Camiseta  Azul  Sartho Blue 6067   40  Talla del Fabricante: Large  para Mujer'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

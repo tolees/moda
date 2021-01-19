@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41cNYYUZe7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BCGF2XM-es'
+slug: 'B07BCGF2XM-es Tobilleras mujer plata de ley dulce romántico círculos entrelazados para pantalones cortos vestido bikini 26 cm ajustable joyeria regalos'
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

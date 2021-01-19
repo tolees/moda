@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41RCIZ1IXiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZPQFSF4-es'
+slug: 'B07ZPQFSF4-es Hurley M Circle Dye Logo S/S Camiseta  Hombre  Black Heather  S'
 actualPrice: 18.11 EUR
 currency: EUR
 price: 18.11

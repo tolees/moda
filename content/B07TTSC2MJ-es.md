@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/410BjdtdMgL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TTSC2MJ-es'
+slug: 'B07TTSC2MJ-es Huntvp Chaleco Táctico Militar al Aire Libre Ajustable para Caza Airsoft Paintball CS Excursión Senderismo - Negro'
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

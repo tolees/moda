@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/510feVeBX6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01L1O2S8A-es'
+slug: 'B01L1O2S8A-es SKYSPER Hombres Jersey Pantalones Largos Mangas Largas de Ciclismo Ropa Maillot para Deportes al Aire Libre Ciclo Bicicleta'
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

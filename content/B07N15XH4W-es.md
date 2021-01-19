@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41-j9M2Z1fL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N15XH4W-es'
+slug: 'B07N15XH4W-es Lee Hoodie SWS  Sudadera para Hombre  Amarillo  Lemon Zest Mm   Large'
 actualPrice: 23.88 EUR
 currency: EUR
 price: 23.88

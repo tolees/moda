@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/415oIq-JjQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077Y8KL2L-es'
+slug: 'B077Y8KL2L-es Sylvie Flirty Swimwear Bakela  Parte de Arriba de Bikini para Mujer  Multicolor  Braun Rose 3228   42  Talla del fabricante: 40C '
 actualPrice: 22.96 EUR
 currency: EUR
 price: 22.96

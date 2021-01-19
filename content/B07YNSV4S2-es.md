@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31kI3uwRDCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YNSV4S2-es'
+slug: 'B07YNSV4S2-es find. Hurrache Sandalias con Punta Cerrada  Beige  Snake   38 EU'
 actualPrice: 15.97 EUR
 currency: EUR
 price: 15.97

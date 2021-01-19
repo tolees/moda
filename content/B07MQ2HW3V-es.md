@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31gLle0qWlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MQ2HW3V-es'
+slug: 'B07MQ2HW3V-es Clarks Becken Lace  Zapatos de Cordones Brogue para Hombre  Piel Negra  43 EU'
 actualPrice: 63.96 EUR
 currency: EUR
 price: 63.96

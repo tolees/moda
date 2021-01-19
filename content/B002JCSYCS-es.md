@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ET2yFEHKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002JCSYCS-es'
+slug: 'B002JCSYCS-es Crocs Crocband Flip  Chanclas Unisex-Adult  Blue Navy  39/40 EU'
 actualPrice: 12.51 EUR
 currency: EUR
 price: 12.51

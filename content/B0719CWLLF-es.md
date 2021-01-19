@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Dlt2bQpgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0719CWLLF-es'
+slug: 'B0719CWLLF-es Under Armour Tech 1/2 Zip-Twist Sudadera  Mujer  Negro  Black/Black/Metallic Silver 001   L'
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

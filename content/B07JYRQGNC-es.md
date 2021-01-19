@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41qeAXxbnSL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JYRQGNC-es'
+slug: 'B07JYRQGNC-es Tommy Jeans Mujer Essential Hooded Down Jacket Chaqueta   Negro  Tommy Black 078  X-Small'
 actualPrice: 141.95 EUR
 currency: EUR
 price: 141.95

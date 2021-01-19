@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41AVc7F-SqL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R2BWTLN-es'
+slug: 'B07R2BWTLN-es Wrangler LS 1pkt Bdown Shirt Camisa  Azul  Dress Blue X20   Small para Hombre'
 actualPrice: 20.42 EUR
 currency: EUR
 price: 20.42

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41oXhhlo8kL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01AHOY9B4-es'
+slug: 'B01AHOY9B4-es Prada 0PR17SS UE00A6 53 gafas de sol  Marrón  Spotted Brown Pink/Brown Pink   Unisex-Adulto'
 actualPrice: 150.5 EUR
 currency: EUR
 price: 150.5

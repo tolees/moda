@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41godEO2boL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00196JOFG-es'
+slug: 'B00196JOFG-es Dr. Martens 1461  Zapatos de cordones para Hombre  Rojo  Cherry Red   37 EU'
 actualPrice: 81.7 EUR
 currency: EUR
 price: 81.7

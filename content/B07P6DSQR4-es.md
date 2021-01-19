@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Et4KB9eLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P6DSQR4-es'
+slug: 'B07P6DSQR4-es Guess - Jones  Bolso bandolera Hombre  Negro  Black   10x30x34 cm  W x H L '
 actualPrice: 31.81 EUR
 currency: EUR
 price: 31.81

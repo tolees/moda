@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31LG6Nkj1GL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00TIM9GQ0-es'
+slug: 'B00TIM9GQ0-es Columbia Zero Rules Short Sleeve Shirt Camiseta de manga corta  Hombre  Gris  Columbia Grey Heather   2XL'
 actualPrice: 21.75 EUR
 currency: EUR
 price: 21.75

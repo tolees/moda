@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/315ekuDKuiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M5BG1CG-es'
+slug: 'B01M5BG1CG-es Skechers Sure Track  Zapatos de trabajo para Mujer  color Negro  36 EU'
 actualPrice: 50.2 EUR
 currency: EUR
 price: 50.2

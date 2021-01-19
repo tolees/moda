@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/419yKHTmGGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q82C9LS-es'
+slug: 'B07Q82C9LS-es Amilril Collar  árbol de la Vida Colgante  Plata de Ley 925 Moda Joyería  Regalo para Madre Originales'
 actualPrice: 18.98 EUR
 currency: EUR
 price: 18.98

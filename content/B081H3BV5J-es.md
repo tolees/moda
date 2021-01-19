@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41rTZ9T4+3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081H3BV5J-es'
+slug: 'B081H3BV5J-es BT Bear Abrigo para Perros cálido  Ropa de Invierno para Perro  Suave  Ligero  Impermeable  Acolchado  para Perros pequeños  medianos  Grandes'
 actualPrice: 13.81 EUR
 currency: EUR
 price: 13.81

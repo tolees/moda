@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31KH9Q8E8aL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JWVWV2C-es'
+slug: 'B07JWVWV2C-es Columbia Five Forks  Zapatos de Senderismo Impermeables para Hombre  Negro  Black  Red JASP 010   45 EU'
 actualPrice: 68.52 EUR
 currency: EUR
 price: 68.52

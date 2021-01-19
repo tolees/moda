@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41BLBdlRFCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X9T67KZ-es'
+slug: 'B07X9T67KZ-es PUMA Amplified Crew TR Sudadera  Hombre  Medium Gray Heather  XXL'
 actualPrice: 26.38 EUR
 currency: EUR
 price: 26.38

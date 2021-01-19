@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31eJua0krIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N48GFYP-es'
+slug: 'B07N48GFYP-es United Colors of Benetton Basico 2 Man Camiseta de Manga Larga  Negro  Negro 100   Medium para Hombre'
 actualPrice: 26.4 EUR
 currency: EUR
 price: 26.4

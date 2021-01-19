@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41eqONEA7SL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VKT6F6G-es'
+slug: 'B07VKT6F6G-es Marca Amazon - find. Vaqueros Ceñidos con Bajo Elástico Hombre  Azul  Dark Wash   34W / 32L  Label: 34W / 32L'
 actualPrice: 10.17 EUR
 currency: EUR
 price: 10.17

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41P9JTzR-ZL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P7P8H3G-es'
+slug: 'B07P7P8H3G-es Morgan 192-jzip.p Falda  Marrón  Cerise Cerise   38  Talla del Fabricante: T38  para Mujer'
 actualPrice: 27.5 EUR
 currency: EUR
 price: 27.5

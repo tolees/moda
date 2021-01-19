@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41OjMXXz7QL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XVQS69N-es'
+slug: 'B07XVQS69N-es Esprit 119ee2k006 Camisa Manga Larga  Blanco  Off White 110   XX-Large para Hombre'
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

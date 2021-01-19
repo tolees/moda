@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41KS77SWV6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076RMDQCX-es'
+slug: 'B076RMDQCX-es Natural Feelings Calzoncillos Boxer Bóxer Hombre Algodón Calzoncillos Boxer de Moda Comodo Calzoncillos'
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

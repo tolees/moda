@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41TjbYOLr6L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HJT0KBI-es'
+slug: 'B01HJT0KBI-es Mexx Women Pullover Jersey  Azul  Sky Captain   42 para Mujer'
 actualPrice: 13.45 EUR
 currency: EUR
 price: 13.45

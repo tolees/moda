@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41WwF4E8inL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N18TY8Y-es'
+slug: 'B07N18TY8Y-es G-STAR RAW Lynn Mid Skinny Vaqueros  Azul  Faded Blue 6553-A889   33W / 26L para Mujer'
 actualPrice: 44.68 EUR
 currency: EUR
 price: 44.68

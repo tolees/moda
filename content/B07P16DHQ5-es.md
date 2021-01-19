@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31W80iKphqL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P16DHQ5-es'
+slug: 'B07P16DHQ5-es Superdry OL Elite Crew Neck tee Camiseta  Blanco  White 04c   34  Talla del Fabricante: XX-Small  para Mujer'
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98

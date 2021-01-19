@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31i4RqXmg5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NDM5KF6-es'
+slug: 'B07NDM5KF6-es G-STAR RAW Citishield 3D Slim Tapered Jeans Vaqueros  Negro  Jet Black Water Protected B479/A840   24W / 30L para Hombre'
 actualPrice: 22.67 EUR
 currency: EUR
 price: 22.67

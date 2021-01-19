@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41OCiGj-WpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087BXQRS2-es'
+slug: 'B087BXQRS2-es TAONEEF Mujer Moda Stiletto Sandalias Correa de Tobillo Tacon Alto Sandalias Impresion Fiesta Zapatos Blue Talla 35 Asian'
 actualPrice: 23.88 EUR
 currency: EUR
 price: 23.88

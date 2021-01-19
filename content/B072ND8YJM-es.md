@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41CM0CBc6xL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072ND8YJM-es'
+slug: 'B072ND8YJM-es JACK & JONES Jprnon Iron Shirt L/s Noos Camisa  Azul  Navy Blazer Fit:Slim Fit   Medium para Hombre'
 actualPrice: 22.49 EUR
 currency: EUR
 price: 22.49

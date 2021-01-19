@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41hW0vOH1ML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075VDVWVC-es'
+slug: 'B075VDVWVC-es Esprit 997ee1b812 Vaqueros Straight  Azul  Blue Medium Wash 902   W29/L34  Talla del Fabricante: 29/34  para Mujer'
 actualPrice: 28.56 EUR
 currency: EUR
 price: 28.56

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/316+Kxu0CBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZV2N4TC-es'
+slug: 'B07ZV2N4TC-es Helly Hansen HH Tech 1/2 Zip Camiseta de Manga Larga con Media Cremallera  Hombre  Navy  M'
 actualPrice: 15.49 EUR
 currency: EUR
 price: 15.49

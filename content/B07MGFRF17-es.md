@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41JjlmxBtjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MGFRF17-es'
+slug: 'B07MGFRF17-es Napapijri BAUNT FZ Sudadera  Negro  Black 041   XXL para Hombre'
 actualPrice: 38.06 EUR
 currency: EUR
 price: 38.06

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51mIQDurxdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MWC4XW9-es'
+slug: 'B07MWC4XW9-es RICOO WM035-W-B  Banco Zapatero  79x49x30  Armario Interior con Asiento  Organizador Zapatos  Mueble recibidor  Perchero Entrada  Madera Blanco'
 actualPrice: 55.99 EUR
 currency: EUR
 price: 55.99

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41iLbD6VcAL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M5DT4AF-es'
+slug: 'B01M5DT4AF-es Under Armour UA HG Printedy Pantalón Corto  Mujer  Gris  M'
 actualPrice: 24.49 EUR
 currency: EUR
 price: 24.49

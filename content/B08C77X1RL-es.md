@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51bmGXY43VL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08C77X1RL-es'
+slug: 'B08C77X1RL-es Zuecos Unisex Infantil Niños Niñas Clogs Verano Respirable Antideslizante Sandalia Piscina Jardín Zapatos 26 = Fabricante 27'
 actualPrice: 16.95 EUR
 currency: EUR
 price: 16.95

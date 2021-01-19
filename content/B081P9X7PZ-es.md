@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41RYG9BCn3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081P9X7PZ-es'
+slug: 'B081P9X7PZ-es NIKE M Nk Dry Strke TRK Jkt HD K Ng Chaqueta de Deporte  Hombre  Obsidian Mist/Obsidian Mist/diffused Blue/ Laser Orange   L'
 actualPrice: 24.67 EUR
 currency: EUR
 price: 24.67

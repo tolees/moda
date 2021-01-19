@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41kNSwbrjPL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QX5BN4K-es'
+slug: 'B07QX5BN4K-es flintronic Cartera Hombre  Triple Pliegue Slim Billetera de Piel Auténtica para Tarjetas de Crédito  Monedero con Pinza y Protección RFID  con Llavero y Caja de Regalo - Marrón'
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

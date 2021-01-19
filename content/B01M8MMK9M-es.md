@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21vpiyYhSBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M8MMK9M-es'
+slug: 'B01M8MMK9M-es BOSS T-Shirt RN 3p Co Camiseta para Hombre  Blanco  White 100   Medium  pack de 3'
 actualPrice: 20.27 EUR
 currency: EUR
 price: 20.27

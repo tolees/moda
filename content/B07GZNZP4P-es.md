@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/410IUCow4IL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GZNZP4P-es'
+slug: 'B07GZNZP4P-es FANDARE Mochila Hombres Business Outdoor Viaje Rucksack Laptop Bolso de Mano Estudiante Bolso de Escuela USB Commuter Gran Capacidad Daypack Impermeable Poliéster Gris A'
 actualPrice: 40.99 EUR
 currency: EUR
 price: 40.99

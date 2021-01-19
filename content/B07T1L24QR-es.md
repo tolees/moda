@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/5115HKxTsBL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T1L24QR-es'
+slug: 'B07T1L24QR-es Tikea Bolsa Geométrica de Corcho Natural para Mujer  Cartera de Mano con Correa de Cadena de Moda Ecológica Efecto Madera'
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

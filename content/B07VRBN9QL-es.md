@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31CcBI74AvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VRBN9QL-es'
+slug: 'B07VRBN9QL-es Tommy Hilfiger Stretch Slim Fit tee Camiseta Deporte  Amarillo  Sunny   Medium para Hombre'
 actualPrice: 26.81 EUR
 currency: EUR
 price: 26.81

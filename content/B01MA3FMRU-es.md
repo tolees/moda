@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51zlBdDuzaL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MA3FMRU-es'
+slug: 'B01MA3FMRU-es flintronic ® Billetera  Tarjetas de Crédito Slim Moda RFID Bloqueo Monedero de Cuero  Mini Billetera para Cartera ID Tarjetero Crédito Licencia de Conducir Cartera Hombre'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

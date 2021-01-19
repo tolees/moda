@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41Wn0V10WOL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00B5AGIPA-es'
+slug: 'B00B5AGIPA-es Cressi Tauchmaske Erwachsen F1 Clear Frameless Gafas de Buceo  Unisex  Transparente  Talla única'
 actualPrice: 20 EUR
 currency: EUR
 price: 20

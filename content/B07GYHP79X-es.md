@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41zgISuM6oL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GYHP79X-es'
+slug: 'B07GYHP79X-es LOVORDS Collar Mujer Grabado Plata de Ley 925 Colgante Infinito Perla Cultivada Blanca de Agua Dulce 10mm Regalo Novia o Esposa'
 actualPrice: 12.41 EUR
 currency: EUR
 price: 12.41

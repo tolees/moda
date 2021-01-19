@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41u-ridDJgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RMLTJTD-es'
+slug: 'B07RMLTJTD-es New Balance 520v6  Zapatos para Correr para Mujer  Negro Black Lk6  36 EU'
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

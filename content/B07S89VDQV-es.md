@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413xxPEQnhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S89VDQV-es'
+slug: 'B07S89VDQV-es Lee Logo Crew SWS Sudadera  Gris  Grey Mele MP   XX-Large para Hombre'
 actualPrice: 10.79 EUR
 currency: EUR
 price: 10.79

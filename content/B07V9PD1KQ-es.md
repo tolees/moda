@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41EnjqQhIRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V9PD1KQ-es'
+slug: 'B07V9PD1KQ-es Jack & Jones Jorwillow Stand Collar Jacket Chaqueta  Azul  Navy Blazer Navy Blazer   X-Large para Hombre'
 actualPrice: 14.87 EUR
 currency: EUR
 price: 14.87

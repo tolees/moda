@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Mp4CGz-KL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076X5VL4Q-es'
+slug: 'B076X5VL4Q-es Geox Uomo Symbol A  Zapatos de Cordones Oxford para Hombre  Negro  Black   47 EU'
 actualPrice: 39.07 EUR
 currency: EUR
 price: 39.07

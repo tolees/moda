@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41YSXa0YU9L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HK83M4T-es'
+slug: 'B07HK83M4T-es Amazon Essentials - Chaqueta para hombre  Camo  US L  EU L '
 actualPrice: 13.0 EUR
 currency: EUR
 price: 13.0

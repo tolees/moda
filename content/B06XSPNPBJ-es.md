@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41sGFddHM8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XSPNPBJ-es'
+slug: 'B06XSPNPBJ-es Pepe Jeans New Virginia  Camiseta Para Mujer  Azul  Navy   Small'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

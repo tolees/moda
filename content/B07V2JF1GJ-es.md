@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Tev-qQjvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V2JF1GJ-es'
+slug: 'B07V2JF1GJ-es Billabong™ - Chanclas - Hombre - EU 42 - Negro'
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

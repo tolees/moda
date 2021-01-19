@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41QJjGtOa8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000Y46QPU-es'
+slug: 'B000Y46QPU-es Wrangler Texas Stretch Vintage Tint  Vaqueros para Hombre  Azul  Vintage Tint   W33/L34'
 actualPrice: 36.43 EUR
 currency: EUR
 price: 36.43

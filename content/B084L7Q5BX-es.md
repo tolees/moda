@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/519kkx8cJiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084L7Q5BX-es'
+slug: 'B084L7Q5BX-es Spiuk Sportline Zapatilla MTB ALDAPA  Adultos Unisex  Amarillo Fluor Mate  T. 37'
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

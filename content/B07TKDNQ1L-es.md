@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31mLuUsbGQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TKDNQ1L-es'
+slug: 'B07TKDNQ1L-es Levi s Graphic Crew B Sudadera  Verde  Needle Hm Needle Olive Night 0093   Medium para Hombre'
 actualPrice: 26.85 EUR
 currency: EUR
 price: 26.85

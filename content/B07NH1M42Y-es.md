@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31s3QJhP5QL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NH1M42Y-es'
+slug: 'B07NH1M42Y-es El Naturalista Aqua  Botines para Mujer  Marrón  Brown Brown   40 EU'
 actualPrice: 54.74 EUR
 currency: EUR
 price: 54.74

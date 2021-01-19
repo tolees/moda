@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Rb3jmqkWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L6K8W9F-es'
+slug: 'B07L6K8W9F-es Under Armour Tactical All Season Chaqueta  Hombre  Negro  LG'
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41+X3iYVAgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074WHWSLD-es'
+slug: 'B074WHWSLD-es Marca Amazon - MERAKI Chaqueta de Merino Hombre Cuello Pico  Rosa  Medium Pink Marl   XS  Label: XS'
 actualPrice: 14.06 EUR
 currency: EUR
 price: 14.06

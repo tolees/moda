@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ljtQAVUYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WRMKHLW-es'
+slug: 'B07WRMKHLW-es Skechers TRESMEN HIRANO  Sandalias con Punta Abierta para Hombre  Marrón  Brown Synthetic Brn   42 EU'
 actualPrice: 32.95 EUR
 currency: EUR
 price: 32.95

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41917OL65mL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FTW8CWH-es'
+slug: 'B07FTW8CWH-es Lee Daren Zip Fly Vaqueros Rectos  Azul  Broken Blue Sx   42W / 32L para Hombre'
 actualPrice: 52.64 EUR
 currency: EUR
 price: 52.64

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51silCu69bL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086X3HMLJ-es'
+slug: 'B086X3HMLJ-es 5 Piezas Bebé Body Mono de Manga Corta Mameluco Algodón Recién Nacido Pijama Bebés Juegos de Regalo  6-9 Meses'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/312BdWGOTUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N6JSQDQ-es'
+slug: 'B01N6JSQDQ-es Vero Moda Vmseven NW SS Smooth Coated Pants Noos Pantalones  Negro  Black Detail:Coated   36 /L30  Talla del Fabricante: Small  para Mujer'
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

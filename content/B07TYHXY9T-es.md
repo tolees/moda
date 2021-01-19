@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/410aCjSdQ-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TYHXY9T-es'
+slug: 'B07TYHXY9T-es Levi s 512 Slim Taper Fit Jean Vaqueros  Azul Biologia ADV  26W / 30L para Hombre'
 actualPrice: 34.22 EUR
 currency: EUR
 price: 34.22

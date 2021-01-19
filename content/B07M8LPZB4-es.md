@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41DaWf03yQL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M8LPZB4-es'
+slug: 'B07M8LPZB4-es Wrangler Sign Off Crew Sudadera  Amarillo  Mineral Yellow Aym   XXX-Large para Hombre'
 actualPrice: 15.84 EUR
 currency: EUR
 price: 15.84

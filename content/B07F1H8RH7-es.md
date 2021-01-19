@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/410sXNZKzEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F1H8RH7-es'
+slug: 'B07F1H8RH7-es Havaianas Slim  Chanclas para Niñas  Rosa  Hollywood Rose   23/24 EU'
 actualPrice: 8.06 EUR
 currency: EUR
 price: 8.06

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/418DtjQ5u7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T2BNNNM-es'
+slug: 'B07T2BNNNM-es Sandalias Mujer Verano 2042 cáñamo Fondo Grueso Sandalias Punta Abierta Cuero Fondo Plano Zapatos Bohemias Romanas Hebilla Zapatillas'
 actualPrice: 13.55 EUR
 currency: EUR
 price: 13.55

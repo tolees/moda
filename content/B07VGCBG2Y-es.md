@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31mXRB0GZDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VGCBG2Y-es'
+slug: 'B07VGCBG2Y-es Calvin Klein Low Rise Trunk 3pk  Bóxer Hombre  Negro  B/Blue Whale/Wildflower/Bubblegum Whb   Small'
 actualPrice: 21.25 EUR
 currency: EUR
 price: 21.25

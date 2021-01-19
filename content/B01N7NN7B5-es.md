@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51hR9Qn9xiL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N7NN7B5-es'
+slug: 'B01N7NN7B5-es Converse Accesorios Bolso Bandolera  22 cm  Azul'
 actualPrice: 25.9 EUR
 currency: EUR
 price: 25.9

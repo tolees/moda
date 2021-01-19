@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/418BQRltzxL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N1HLHSM-es'
+slug: 'B07N1HLHSM-es Clarks Un Cosmo Way  Zapatos de Tacón para Mujer  Gris Grey Textile  35.5 EU'
 actualPrice: 17.05 EUR
 currency: EUR
 price: 17.05

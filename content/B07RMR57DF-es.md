@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41mgUgLQUCL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RMR57DF-es'
+slug: 'B07RMR57DF-es JACK & JONES Jormachine tee SS Crew Neck Camiseta  Blanco  Cloud Dancer Fit: Reg   Small para Hombre'
 actualPrice: 5.76 EUR
 currency: EUR
 price: 5.76

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31A5-RJY2eL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LF5ZBWB-es'
+slug: 'B07LF5ZBWB-es Levi s Slim 2Pk Crewneck 1 Camiseta  Two-Pack tee Black + Black  XXS 2 para Hombre'
 actualPrice: 17.45 EUR
 currency: EUR
 price: 17.45
@@ -25,8 +25,8 @@ Tienes [Levi s Slim 2Pk Crewneck 1 Camiseta  Two-Pack tee Black + Black  XXS 2 p
 
 ℹ️:
 
-- Modelos casual
-- Con un logo Levis en el bajo
 - Elaboradas en punto suave
+- Con un logo Levis en el bajo
+- Modelos casual
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07LF5ZBWB/?tag=tolees-21)

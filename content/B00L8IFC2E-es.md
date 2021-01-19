@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41gsSKDZwHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00L8IFC2E-es'
+slug: 'B00L8IFC2E-es The North Face Evolution II Triclimate Chaqueta  Hombre  Negro  TNF Black   XL'
 actualPrice: 136.99 EUR
 currency: EUR
 price: 136.99

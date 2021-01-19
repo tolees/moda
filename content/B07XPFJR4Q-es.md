@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/5190A1La81L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XPFJR4Q-es'
+slug: 'B07XPFJR4Q-es BAIGIO Bolsa de Noche Mujer Bolso de Mano Bolso Clutch de Embrague Monedero para Mujeres y Señoras para Boda Partido Fiesta Cumpleaños'
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

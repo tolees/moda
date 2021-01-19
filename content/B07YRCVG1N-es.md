@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31bZHnWw+KL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YRCVG1N-es'
+slug: 'B07YRCVG1N-es Marca Amazon - AURIQUE Shorts para Correr con Banda Lateral Mujer  Morado  sombra de noche/blanco   40  Label:M'
 actualPrice: 12.8 EUR
 currency: EUR
 price: 12.8

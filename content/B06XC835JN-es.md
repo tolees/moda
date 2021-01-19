@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41YOhCA0g2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XC835JN-es'
+slug: 'B06XC835JN-es Pepe Jeans Hatch  Vaqueros Slim para Hombre  Azul  Denim Z45   W30/L30'
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

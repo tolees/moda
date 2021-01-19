@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412xizyI38L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QCLPFCS-es'
+slug: 'B07QCLPFCS-es PDQ - Sandalias Deportivas de Cierre Adhesivos 3 para Hombre Caballero  44 EU   Negro '
 actualPrice: 25.2 EUR
 currency: EUR
 price: 25.2

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31h6LWudWjL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L91BVRD-es'
+slug: 'B07L91BVRD-es REPLAY Vivy Vaqueros Slim  Gris  Dark Grey 97   26W / 32L para Mujer'
 actualPrice: 16.96 EUR
 currency: EUR
 price: 16.96

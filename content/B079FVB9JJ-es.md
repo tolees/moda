@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31aLgNlyJ+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079FVB9JJ-es'
+slug: 'B079FVB9JJ-es Under Armour Fitted Coldgear Crew Camiseta De Manga Larga  Hombre  Negro  Black/Steel 001   M'
 actualPrice: 13.87 EUR
 currency: EUR
 price: 13.87

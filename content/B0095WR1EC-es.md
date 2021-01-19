@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31kFkAYcPmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0095WR1EC-es'
+slug: 'B0095WR1EC-es Ray Ban  Erika - Gafas de sol unisex  rama color marron y lente color verde oscuro  talla 54 mm'
 actualPrice: 91.68 EUR
 currency: EUR
 price: 91.68

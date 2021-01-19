@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Kp2WBAWVL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075NBQK9S-es'
+slug: 'B075NBQK9S-es Trangoworld Bern Chaqueta  Hombre  Gris Oscuro/Negro  S'
 actualPrice: 77.49 EUR
 currency: EUR
 price: 77.49

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51y70YqA3DL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XG64GJ8-es'
+slug: 'B06XG64GJ8-es Marca Amazon - find. Camisa Hombre  Azul  Navy Polka   M  Label: M'
 actualPrice: 7.27 EUR
 currency: EUR
 price: 7.27

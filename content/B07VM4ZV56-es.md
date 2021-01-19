@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41DPBWXg35L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VM4ZV56-es'
+slug: 'B07VM4ZV56-es JIASUQI Zapatos clásicos de deporte descalzo para niños  mujeres y hombres  para playa  natación  surf  yoga  ejercicios  color Naranja  talla 30.5/32 EU'
 actualPrice: 12.75 EUR
 currency: EUR
 price: 12.75

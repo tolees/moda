@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41yqt20BXoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N192SSX-es'
+slug: 'B07N192SSX-es G-STAR RAW ARC 3D Vaqueros  Worker Blue Faded  25W / 32L para Hombre'
 actualPrice: 28.03 EUR
 currency: EUR
 price: 28.03

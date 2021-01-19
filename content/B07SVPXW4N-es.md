@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41hKAxXB7UL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SVPXW4N-es'
+slug: 'B07SVPXW4N-es Geox D Tabelya A  Zapatillas para Mujer  Negro  Black/Gun C9b1g   37 EU'
 actualPrice: 41.24 EUR
 currency: EUR
 price: 41.24

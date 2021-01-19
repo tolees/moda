@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41iD7BwxYXL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JHX1DNS-es'
+slug: 'B07JHX1DNS-es Estuche SileuCase para copas menstruales – Ideal para llevar tu tampón o copa menstrual de forma elegante y discreta en tu bolso o para viajes - Pequeño  8 cm - Rosa'
 actualPrice: 4.39 EUR
 currency: EUR
 price: 4.39

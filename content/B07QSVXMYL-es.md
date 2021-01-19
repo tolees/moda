@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41aDXkEWc+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QSVXMYL-es'
+slug: 'B07QSVXMYL-es DC Comics Camiseta de Manga Corta para niños Shazam Negro 10-11 Años'
 actualPrice: 8.95 EUR
 currency: EUR
 price: 8.95

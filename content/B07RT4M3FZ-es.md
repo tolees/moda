@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Rdql4PTmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RT4M3FZ-es'
+slug: 'B07RT4M3FZ-es Hasbro Disney Frozen 2 Fashion + Extra Vestido Elsa  Multicolor  E6907ES0'
 actualPrice: 25.0 EUR
 currency: EUR
 price: 25.0

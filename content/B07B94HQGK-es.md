@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41LZbxuN2DL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B94HQGK-es'
+slug: 'B07B94HQGK-es Tommy Hilfiger Core Stretch Slim Poplin Camisa  Azul  Shirt Blue 474   Medium  Talla del Fabricante: MD  para Hombre'
 actualPrice: 72.87 EUR
 currency: EUR
 price: 72.87

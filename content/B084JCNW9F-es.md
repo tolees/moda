@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/415-gjXl51L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084JCNW9F-es'
+slug: 'B084JCNW9F-es XTI - Sandalias con Tacón de Fiesta - Sandalia con Tacón Fino - Cierre con Cordones - Color Taupe - Talla 38'
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

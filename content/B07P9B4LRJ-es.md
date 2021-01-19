@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41HnLL16gGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P9B4LRJ-es'
+slug: 'B07P9B4LRJ-es ziitop Aqua Shoes Escarpines Hombres Mujer Niños Zapatos de Agua Zapatillas Ligeros de Secado Rápido para Swim Beach Surf Yoga'
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

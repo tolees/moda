@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31OZkqFbgHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XCX2XMQ-es'
+slug: 'B07XCX2XMQ-es PUMA Ftblnxt Camisa  Hombre  Ultra Yellow Black  XXL'
 actualPrice: 10.94 EUR
 currency: EUR
 price: 10.94

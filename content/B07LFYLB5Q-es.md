@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31bOutmKZBL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFYLB5Q-es'
+slug: 'B07LFYLB5Q-es Geox D Felicity I  Botas Mosqueteras para Mujer  Negro  Black C9999   38 EU'
 actualPrice: 53.23 EUR
 currency: EUR
 price: 53.23

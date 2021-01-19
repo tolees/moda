@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51icvPnBscL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SD1CRQZ-es'
+slug: 'B07SD1CRQZ-es Flamingueo Bolso Holografico - Bolso Mochila  Bolso Holografico Mujer  Bolsa de Viaje  Bolsa Deporte Mujer Gimnasio  Bolso Holograma  Bolso Transparente  Bolso Mujer  Bolso 29x50x23 cm'
 actualPrice: 27.5 EUR
 currency: EUR
 price: 27.5

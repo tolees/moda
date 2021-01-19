@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31ypKA3vm0L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0156ZMLKA-es'
+slug: 'B0156ZMLKA-es KRISP Vestido Mujer Tallas Grandes Largo Casual Ibicenco De Día Ropa Hippie Online Ofertas   Negro  3269   40 EU  12 UK    3269-BLK-12'
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

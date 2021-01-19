@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31KhU8Z3iNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TDTQVZ5-es'
+slug: 'B07TDTQVZ5-es Kappa Krus  Chanclas Unisex Adulto  Rojo  Red/White 2010   45 EU'
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

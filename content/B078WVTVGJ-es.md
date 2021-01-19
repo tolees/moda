@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41D8CwHBqTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078WVTVGJ-es'
+slug: 'B078WVTVGJ-es Tommy Hilfiger Cheeky String Side Tie Bikini Braguita  Negro  Pvh Black 001   42  Talla del Fabricante: Large  para Mujer'
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

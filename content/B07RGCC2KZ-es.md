@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ZAYAQnfiL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RGCC2KZ-es'
+slug: 'B07RGCC2KZ-es Tommy Hilfiger Corp Split tee Camiseta Deporte  Blanco  White Ybr   Small para Hombre'
 actualPrice: 19.0 EUR
 currency: EUR
 price: 19.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-p5e0JvfL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M6C6A9Z-es'
+slug: 'B01M6C6A9Z-es flintronic® Cartera Tarjeta de Crédito  Slim RFID Bloqueo Monedero de Cuero  Carpeta del Cuero  Tarjetas de Visita Tarjeta de Crédito  Alojar hasta 11 Tarjetas  Negro '
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41iTah2gNZL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N7DAAV1-es'
+slug: 'B01N7DAAV1-es The North Face Outerwear TNF Chaqueta  Mujer  Negro  Tnf Bla/Foi Gre   S'
 actualPrice: 78.62 EUR
 currency: EUR
 price: 78.62

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31vkh5O9GhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08952SQXD-es'
+slug: 'B08952SQXD-es Vestido de Tirantes con Cuello en Pico y Detalles de Encaje  Color Blanco  Talla S'
 actualPrice: 20.93 EUR
 currency: EUR
 price: 20.93

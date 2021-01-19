@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31oZwMXOQ5L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MKR8KG5-es'
+slug: 'B07MKR8KG5-es Lacoste Ch9861 Camisa  Azul  Marine/Hemisphere/Blanc 0wf   Small  Talla del Fabricante: 38  para Hombre'
 actualPrice: 34.8 EUR
 currency: EUR
 price: 34.8

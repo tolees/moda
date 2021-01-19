@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31pI5sLLyUL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RX1Z2CF-es'
+slug: 'B07RX1Z2CF-es BILLABONG All Night tee Camiseta  Mujer  Negro  Black 19   One Size  Tamaño del Fabricante: S '
 actualPrice: 9.34 EUR
 currency: EUR
 price: 9.34

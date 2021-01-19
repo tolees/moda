@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41lTQmTgEQL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N7GERU4-es'
+slug: 'B01N7GERU4-es Timberland Adventure 2.0 Cupsole  Zapatillas Altas para Hombre  Amarillo  Wheat Nubuck   44 EU'
 actualPrice: 108.74 EUR
 currency: EUR
 price: 108.74

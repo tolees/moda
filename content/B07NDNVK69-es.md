@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41cpzpHdBLL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NDNVK69-es'
+slug: 'B07NDNVK69-es G-STAR RAW Earth Round Neck Camiseta  Gris  Asfalt 995   Medium para Hombre'
 actualPrice: 16.81 EUR
 currency: EUR
 price: 16.81

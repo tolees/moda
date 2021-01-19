@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41WTCbRD2bL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DRLL58B-es'
+slug: 'B07DRLL58B-es Kipling ONALO Bolso de gimnasio  45 cm  18 liters  Azul  Dynamic Blue '
 actualPrice: 31.66 EUR
 currency: EUR
 price: 31.66

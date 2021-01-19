@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31RvSnT2ZHL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JKSWP43-es'
+slug: 'B07JKSWP43-es CMP Poncho 39X6617 Chaqueta  Hombre  Gecko  XS'
 actualPrice: 10.8 EUR
 currency: EUR
 price: 10.8

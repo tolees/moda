@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Cgb+9L9VL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079RDBSW7-es'
+slug: 'B079RDBSW7-es Levi s Levis 200SF Vintage Stripe 0312 Boxer Brief 2P  Hombre  Schwarz  Red/Black 786   L'
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41H9ao6V2aL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VBN9PPR-es'
+slug: 'B07VBN9PPR-es Pepe Jeans Tourist LAMU Suede  Sandalias con cuña Tipo Alpargatas para Hombre  Braun Dark Stone 860  42 EU'
 actualPrice: 56.32 EUR
 currency: EUR
 price: 56.32

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31JpeF2dpAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WGPBBTV-es'
+slug: 'B07WGPBBTV-es FIND Barely There Strappy Sandalias Abiertas  Beige  Tan   36 EU'
 actualPrice: 6.15 EUR
 currency: EUR
 price: 6.15

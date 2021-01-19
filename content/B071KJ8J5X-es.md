@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ts7R6YwjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071KJ8J5X-es'
+slug: 'B071KJ8J5X-es adidas Entrada 86 Camiseta de Fútbol para Hombre de Cuello Redondo en Contraste  Rojo  Power Red/White   S'
 actualPrice: 10.97 EUR
 currency: EUR
 price: 10.97

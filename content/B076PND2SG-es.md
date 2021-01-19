@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31ssqZamcmL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B076PND2SG-es'
+slug: 'B076PND2SG-es MERAKI Anorak Mujer con Cuello Alto  Plateado  Silver   X-Large'
 actualPrice: 15 EUR
 currency: EUR
 price: 15

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Z7qo9+lTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S9RRSMH-es'
+slug: 'B07S9RRSMH-es PUMA Cali WN S  Zapatos Deportivos para Mujer  Blanco White/Burnt Russet 14  40.5 EU'
 actualPrice: 26.03 EUR
 currency: EUR
 price: 26.03

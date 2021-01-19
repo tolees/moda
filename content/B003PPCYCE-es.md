@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41lwL6DEMdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003PPCYCE-es'
+slug: 'B003PPCYCE-es Eastpak The One Bolso bandolera  21 cm  2.5 L  Gris  Sunday Grey '
 actualPrice: 14.7 EUR
 currency: EUR
 price: 14.7

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41mjZU5Mk3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TYWCDN2-es'
+slug: 'B07TYWCDN2-es Wrangler LS 1 Pkt Shirt Camisa  Rojo  Formula Red Xwo   Large para Hombre'
 actualPrice: 18.2 EUR
 currency: EUR
 price: 18.2

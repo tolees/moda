@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51yaj2MJnTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083LQPXFD-es'
+slug: 'B083LQPXFD-es MoneRffi Hombres Zapatillas de Deporte Malla Ultra Ligero Transpirable Atletismo Corriendo al Gimnasio Zapatos de Gimnasio a Prueba de Olor  Resistente al Desgaste y Antideslizante'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51D8TbQmHYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M1KJA1D-es'
+slug: 'B01M1KJA1D-es FREESOO Set 5 kits Bolsa de Mama para Bebe Biberon Cambiador de Pañales Bolsa Hospital Maternidad Bolso de Pañales Bebé para Viaje Carro Carrito Biberón Colchoneta Comida Multifunción Gran Capacidad'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41u8QjKExSL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MVKXJW8-es'
+slug: 'B07MVKXJW8-es Napapijri Boves C Sudadera  Negro  Black 041   Small para Hombre'
 actualPrice: 35.6 EUR
 currency: EUR
 price: 35.6

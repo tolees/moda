@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31aLn9raIuL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R3TPTQN-es'
+slug: 'B07R3TPTQN-es CARE OF by PUMA Chaleco acolchado impermeable para hombre  Azul  Blue   120  Talla del fabricante: 2XL '
 actualPrice: 49 EUR
 currency: EUR
 price: 49

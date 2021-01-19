@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41s0LylTwHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BN5NMQU-es'
+slug: 'B00BN5NMQU-es Pepe Jeans Original Stretch Camiseta  Negro  Black 999   2X-Large para Hombre'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

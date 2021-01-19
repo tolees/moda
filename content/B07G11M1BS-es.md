@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31t0ZAkm7WL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G11M1BS-es'
+slug: 'B07G11M1BS-es Gafas de lectura sin patillas graduadas para hombre y mujer transparentes. Gafas de presbicia para hombre y mujer retro o vintage para vista cansada. Graphite +1.0 – MIM'
 actualPrice: 11.18 EUR
 currency: EUR
 price: 11.18

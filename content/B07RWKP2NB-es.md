@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31UB+tqpsOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RWKP2NB-es'
+slug: 'B07RWKP2NB-es Ted Baker Sumpsa  Zapatos de Cordones Derby para Hombre  Negro  Black Black   43 EU'
 actualPrice: 47.84 EUR
 currency: EUR
 price: 47.84

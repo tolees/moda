@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41NfyL4eT1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TPNKVDD-es'
+slug: 'B07TPNKVDD-es FM London Fitted Boxer  Azul  Dark Assorted 03   XX-Large  Pack de 8  para Hombre'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

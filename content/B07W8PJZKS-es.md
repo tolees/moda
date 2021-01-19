@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41w6HUlSjFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W8PJZKS-es'
+slug: 'B07W8PJZKS-es JACK & JONES JCOOSCAR Jacket Collar Chaqueta  Negro Black  L para Hombre'
 actualPrice: 25.32 EUR
 currency: EUR
 price: 25.32

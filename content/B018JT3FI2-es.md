@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31J%2Bqdy75uL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B018JT3FI2-es'
+slug: 'B018JT3FI2-es Levi s 200Sf Boxer Brief 2P  Hombre  Azul  Mid Denim  Small  Tamaño del Fabricante:010   Pack de 2'
 actualPrice: 11 EUR
 currency: EUR
 price: 11

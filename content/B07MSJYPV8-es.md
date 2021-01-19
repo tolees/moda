@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ycg8r3GeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MSJYPV8-es'
+slug: 'B07MSJYPV8-es Clarks Ronnie Limit  Zapatos de Cordones Brogue  Piel Negra  43 EU'
 actualPrice: 70.0 EUR
 currency: EUR
 price: 70.0

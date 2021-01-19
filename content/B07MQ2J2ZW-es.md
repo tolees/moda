@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41wlZe5dkAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MQ2J2ZW-es'
+slug: 'B07MQ2J2ZW-es Clarks Un Trail Limit  Zapatos de Cordones Derby para Hombre  Negro y Negro  43 EU'
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

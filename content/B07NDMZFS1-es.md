@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/417fhxvpQRL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NDMZFS1-es'
+slug: 'B07NDMZFS1-es G-STAR RAW Graphic 22 Boyfriend Slit Round Neck Sudadera  Naranja  Dusty Royal Orange A489   42  Talla del Fabricante: Large  para Mujer'
 actualPrice: 22.92 EUR
 currency: EUR
 price: 22.92

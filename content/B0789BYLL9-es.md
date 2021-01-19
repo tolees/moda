@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41rUY45QVtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0789BYLL9-es'
+slug: 'B0789BYLL9-es Helly Hansen HH LIFA Merino Crew Camiseta Deportiva Manga Larga  Hombre  Azul  Marino   2XL'
 actualPrice: 39.19 EUR
 currency: EUR
 price: 39.19

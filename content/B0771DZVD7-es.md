@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ehMredxNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0771DZVD7-es'
+slug: 'B0771DZVD7-es SHOBDW Invierno Mujeres Moda Informal más Gruesa Slim sólido Abajo Chaqueta Abrigo  Púrpura  M '
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

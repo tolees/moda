@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31zH1DphphL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SDZB7Y2-es'
+slug: 'B07SDZB7Y2-es PUMA Cali WN S  Zapatos Deportivos para Mujer  Blanco White/Rosewater 13  38 EU'
 actualPrice: 42.45 EUR
 currency: EUR
 price: 42.45

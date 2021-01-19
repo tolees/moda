@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41OQNlOD3tL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LBNZPCL-es'
+slug: 'B07LBNZPCL-es Helly Hansen K Legend Ins Jacket Chaqueta  Unisex niños  039 Festival Fuchsia  3 años'
 actualPrice: 63.0 EUR
 currency: EUR
 price: 63.0

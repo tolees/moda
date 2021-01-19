@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Mkzr1V78L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00GV953YW-es'
+slug: 'B00GV953YW-es Wrangler Arizona Vaqueros  Cool Hand  36W / 32L para Hombre'
 actualPrice: 43.74 EUR
 currency: EUR
 price: 43.74

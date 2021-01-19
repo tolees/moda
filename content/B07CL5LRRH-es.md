@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31UAZO0tSrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CL5LRRH-es'
+slug: 'B07CL5LRRH-es Scotch & Soda Nos Ralston Vaqueros Straight  Azul  Beaten Back 1841   W33/L36 para Hombre'
 actualPrice: 34.33 EUR
 currency: EUR
 price: 34.33

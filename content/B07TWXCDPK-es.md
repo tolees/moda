@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/318WYtPjxbL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TWXCDPK-es'
+slug: 'B07TWXCDPK-es Women s Secret Cozy Animals Ca Poodle PJ FR Conjuntos de Pijama  Azul  Gama Azules 17   Small  Tamaño del Fabricante: S  para Mujer'
 actualPrice: 18.1 EUR
 currency: EUR
 price: 18.1

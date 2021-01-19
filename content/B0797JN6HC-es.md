@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413jHicWg6L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0797JN6HC-es'
+slug: 'B0797JN6HC-es Puma LIGA Sideline Poly Core  Chaqueta de Entrenamiento  Hombre  Verde  pepper green/ white   L'
 actualPrice: 16.09 EUR
 currency: EUR
 price: 16.09

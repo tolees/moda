@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ihE7BWqTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001QOF6HG-es'
+slug: 'B001QOF6HG-es Levi s 501 Original Fit Jeans Pantalón vaquero con diseño clásico y cómodos de usar  Black 0165  33W / 36L para Hombre'
 actualPrice: 39.19 EUR
 currency: EUR
 price: 39.19

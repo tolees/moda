@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41FarSyO-eL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08JH66J7P-es'
+slug: 'B08JH66J7P-es Zapatos de Seguridad Hombre Zapatillas de Seguridad con Punta de Acero Ultraligero Transpirables Zapatos de Trabajo Negro Azul 46 '
 actualPrice: 38.9 EUR
 currency: EUR
 price: 38.9

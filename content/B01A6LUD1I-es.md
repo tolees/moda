@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41d2r7shH9L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01A6LUD1I-es'
+slug: 'B01A6LUD1I-es Crocs Classic Lined Clog  Zuecos Unisex Adulto  Azul  Navy/Charcoal   36/37 EU'
 actualPrice: 33.25 EUR
 currency: EUR
 price: 33.25

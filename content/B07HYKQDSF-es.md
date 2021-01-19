@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/310Zmjab5XL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HYKQDSF-es'
+slug: 'B07HYKQDSF-es HAWKERS · ONE LS · Burgundy · Dark · Gafas de sol para hombre y mujer'
 actualPrice: 14.13 EUR
 currency: EUR
 price: 14.13

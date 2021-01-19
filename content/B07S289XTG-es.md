@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41U7MV4Co7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S289XTG-es'
+slug: 'B07S289XTG-es BILLABONG Harlem Chaqueta  Negro  Black 19   One Size  Tamaño del Fabricante: L  para Mujer'
 actualPrice: 28.17 EUR
 currency: EUR
 price: 28.17

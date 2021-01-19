@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41qWLaOwnKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N44F3KJ-es'
+slug: 'B07N44F3KJ-es Desigual Trousers Robots Vaqueros Boyfriend  Azul  Denim Medium Wash 5053   W26 para Mujer'
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

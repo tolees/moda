@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/419DUdMRx1L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RTGMR4B-es'
+slug: 'B07RTGMR4B-es LARNMERN Zapatillas de Seguridad para Hombre  Verano Ligero Anti Pinchazo Zapatos Trabajo Zapatilla de Seguridad Velcro M339  42 EU  Verano Negro '
 actualPrice: 30 EUR
 currency: EUR
 price: 30

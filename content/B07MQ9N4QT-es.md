@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31XwIl0GxSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MQ9N4QT-es'
+slug: 'B07MQ9N4QT-es Reebok Wor AC tee Camiseta  Mujer  Negro  S'
 actualPrice: 6.41 EUR
 currency: EUR
 price: 6.41

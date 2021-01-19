@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41tKTpGx-CL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CMMK99J-es'
+slug: 'B07CMMK99J-es DoGeek Escarpines Antideslizante Zapato de Agua Zapatos de Playa Escarpines Calzado de Playa Surf'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

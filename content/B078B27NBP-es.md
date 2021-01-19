@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-BeR4tKFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078B27NBP-es'
+slug: 'B078B27NBP-es Under Armour Big Logo SS Ligera Camiseta Masculina  cómoda y Ancha Camiseta de Manga Corta para Hombre  Hombre  Gris  SM'
 actualPrice: 12.49 EUR
 currency: EUR
 price: 12.49

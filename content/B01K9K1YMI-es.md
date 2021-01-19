@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41O2IyPEtLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01K9K1YMI-es'
+slug: 'B01K9K1YMI-es Clarks Tealite Grace  Sandalias con Tira Vertical para Mujer  Rojo  Red Nubuck   38 EU'
 actualPrice: 29.12 EUR
 currency: EUR
 price: 29.12

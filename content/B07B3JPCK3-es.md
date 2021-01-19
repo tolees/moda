@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41tVp1wSbGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B3JPCK3-es'
+slug: 'B07B3JPCK3-es PUMA Liga Casuals Tracktop Chaqueta de Entrenamiento  Hombre  Electric Blue Lemonade / White  M'
 actualPrice: 24.85 EUR
 currency: EUR
 price: 24.85

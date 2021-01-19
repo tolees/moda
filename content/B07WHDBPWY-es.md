@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51b19snqdJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WHDBPWY-es'
+slug: 'B07WHDBPWY-es CIVO Relojes Mujeres Oro Rosa Impermeable de Acero Inoxidable Reloj Mujer de Pulsera Marea Vestido Relojes Analógicos con Esfera Marrón para Mujeres Damas Niñas'
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

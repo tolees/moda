@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41plkJp9R-L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07STR2PHM-es'
+slug: 'B07STR2PHM-es YWLINK Mono NiñA NiñO Verano Sin Mangas De Color SóLido BotóN A Rayas Mameluco Mezcla De AlgodóN Moda Linda Ocio Y Confort Regalo De Fiesta De CumpleañOs Playa Viajes X-Azul Claro 12-18 Meses'
 actualPrice: 4.24 EUR
 currency: EUR
 price: 4.24

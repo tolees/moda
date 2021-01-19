@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31iwCLgmTdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078WVFQ8G-es'
+slug: 'B078WVFQ8G-es Quiksilver Zapatos de Playa y Piscina AQYL100047 XGCK'
 actualPrice: 13.79 EUR
 currency: EUR
 price: 13.79

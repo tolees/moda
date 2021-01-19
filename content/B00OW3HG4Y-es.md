@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51627-cWy4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00OW3HG4Y-es'
+slug: 'B00OW3HG4Y-es Havaianas Slim Chanclas Mujer  Gris  Steel Grey   41/42 EU'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

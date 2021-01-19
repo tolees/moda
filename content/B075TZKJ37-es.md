@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/517VKdmJkWL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075TZKJ37-es'
+slug: 'B075TZKJ37-es VITIKE Hombre Zapatos de Entrenamiento de fútbol Botas de fútbol al Aire Libre  EU-36-Naranja '
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ap5QO-xSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TTK3HKS-es'
+slug: 'B07TTK3HKS-es Wrangler LS 1 Pkt Button Down Camisa  Rojo  Redlight 82v   Large para Hombre'
 actualPrice: 13.42 EUR
 currency: EUR
 price: 13.42

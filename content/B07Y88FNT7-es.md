@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31rqSFvFUtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y88FNT7-es'
+slug: 'B07Y88FNT7-es Marca Amazon - Iris & Lilly Braga Hipster de Microfibra Mujer  Pack de 3  Negro  Black Beauty   M  Label: M'
 actualPrice: 10.49 EUR
 currency: EUR
 price: 10.49

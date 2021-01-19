@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41km+5EIHEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076X6GJ2C-es'
+slug: 'B076X6GJ2C-es Geox Uomo Sandal Strada D  Sandalia con Pulsera para Hombre  Gris  Stone/Lt Grey   42 EU'
 actualPrice: 49.59 EUR
 currency: EUR
 price: 49.59

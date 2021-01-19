@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41qBqRcAORL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0779HTXLL-es'
+slug: 'B0779HTXLL-es Pepe Jeans GOLDERS PM503213 Camiseta  Blanco  Optic White 802   Small para Hombre'
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

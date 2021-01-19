@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41hwOaPHCZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KRXMKYL-es'
+slug: 'B07KRXMKYL-es SALOMON Agile Jkt M Chaqueta Softshell  Mezcla de sintéticos  Hombre  Azul  Lyons Blue/Poseidon   XL'
 actualPrice: 57.15 EUR
 currency: EUR
 price: 57.15

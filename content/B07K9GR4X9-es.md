@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41DLjeV9jEL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K9GR4X9-es'
+slug: 'B07K9GR4X9-es 【Vuelta al Colegio】 REYLEO Organizador de Equipaje  Organizador de Viaje - 2 Bolsas de Ropa  1 Bolsa de Zapatos y 1 Bolsa de Embalaje  3 Piezas Bolsa de Almacenamiento de Equipaje - Negro'
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

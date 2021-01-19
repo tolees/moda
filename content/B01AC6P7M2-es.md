@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Jj1MhXhaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01AC6P7M2-es'
+slug: 'B01AC6P7M2-es Nike Park VI Camiseta de Manga Corta para hombre  Negro  Black/White   L'
 actualPrice: 17.74 EUR
 currency: EUR
 price: 17.74

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4162r7oEVaL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FHDNFSG-es'
+slug: 'B07FHDNFSG-es Helly Hansen Jr Moss Chaqueta Impermeable  Unisex niños  Essential Yellow  16 YRS'
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

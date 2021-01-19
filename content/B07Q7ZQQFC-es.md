@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Dzt38L9qL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q7ZQQFC-es'
+slug: 'B07Q7ZQQFC-es Xnuoyo Mochila de Bandolera  Bolso de Pecho Hombro Impermeable Crossbody Bolsa para Hombres Mujeres para el Deporte al Aire Gimnasio Viajes Senderismo  Negro '
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

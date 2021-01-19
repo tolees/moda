@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51TK4iGyBEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082QDSRXL-es'
+slug: 'B082QDSRXL-es Marca Amazon - Iris & Lilly Caftán Mujer  Multicolor  Dark Tropical   XS  Label: XS'
 actualPrice: 9.11 EUR
 currency: EUR
 price: 9.11

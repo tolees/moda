@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41POk2OjHYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083FSWYB1-es'
+slug: 'B083FSWYB1-es MOBIUSPHY Pantalon Corto Hombre Deporte  Pantalones Cortos Deportivo Shorts Deportivos Hombre Short Running Pantalón Corto Tenis Fitness Gym Verano Negro L'
 actualPrice: 13.97 EUR
 currency: EUR
 price: 13.97

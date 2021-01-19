@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41aMu-UlzoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XPWDRS8-es'
+slug: 'B06XPWDRS8-es Marca Amazon - find. Pantalón Fruncido para Mujer  Azul  Navy   38  Label: S'
 actualPrice: 5.09 EUR
 currency: EUR
 price: 5.09

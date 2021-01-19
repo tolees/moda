@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31AhsB77C-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N6QXLQG-es'
+slug: 'B07N6QXLQG-es Tommy Hilfiger Cuff Jersey Pant Pantalones térmicos  Gris  Grey 091   Large  Talla del Fabricante: LG  para Hombre'
 actualPrice: 18.86 EUR
 currency: EUR
 price: 18.86

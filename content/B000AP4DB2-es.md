@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41ho0ne58tL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B000AP4DB2-es'
+slug: 'B000AP4DB2-es Reebok Classic Nylon Zapatilla de Running Hombre  Azul  Team Navy / Platinum   42'
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31AEVFwXj6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S7QYX6S-es'
+slug: 'B07S7QYX6S-es PUMA DIVECAT V2  Zapatos de Playa y Piscina Unisex Adulto  Rosa  Bubblegum/Tapioca 13   43 EU'
 actualPrice: 15.7 EUR
 currency: EUR
 price: 15.7

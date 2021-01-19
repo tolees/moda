@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41iKNTsIwVL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FTKG12X-es'
+slug: 'B07FTKG12X-es Lee Brooklyn Vaqueros Straight  Azul  Dark Stone Xg   32W / 32L para Hombre'
 actualPrice: 41.31 EUR
 currency: EUR
 price: 41.31

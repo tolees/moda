@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31F6KVpswoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GNWMY49-es'
+slug: 'B07GNWMY49-es Skechers On-The-Go 600-Flawless - Sandalias para Mujer  Negro  Black Bbk  38 EU'
 actualPrice: 35.0 EUR
 currency: EUR
 price: 35.0

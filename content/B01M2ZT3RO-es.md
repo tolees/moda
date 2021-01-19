@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Cb-6l-Q9L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M2ZT3RO-es'
+slug: 'B01M2ZT3RO-es Under Armour Rival Fitted Pull Over Sudadera  Hombre  Negro  Black/Graphite 001   XL'
 actualPrice: 30.19 EUR
 currency: EUR
 price: 30.19

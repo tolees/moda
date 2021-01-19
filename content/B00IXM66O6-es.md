@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31JIbi02keL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00IXM66O6-es'
+slug: 'B00IXM66O6-es Joma Suez - Pantalón para niños de 6 años  Color Azul Marino'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

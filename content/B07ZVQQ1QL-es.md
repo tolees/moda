@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/312ojkD+-1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZVQQ1QL-es'
+slug: 'B07ZVQQ1QL-es Levi s SS Original Hm tee Camiseta  U E Print  XL para Hombre'
 actualPrice: 12.45 EUR
 currency: EUR
 price: 12.45

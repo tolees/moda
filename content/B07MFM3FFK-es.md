@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Z3EmcuHiL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MFM3FFK-es'
+slug: 'B07MFM3FFK-es Clarks Clarkdale Moon  Zapatos de Cordones Derby para Hombre  Marrón  Burgundy Suede Burgundy Suede   42.5 EU'
 actualPrice: 32.71 EUR
 currency: EUR
 price: 32.71

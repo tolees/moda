@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ma80DwLpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HKGBQGY-es'
+slug: 'B07HKGBQGY-es Under Armour UA HOVR Havoc 2  Zapatos de Baloncesto para Hombre  Negro  Black/Lime Light/Black  001  001   38.5 EU'
 actualPrice: 52.19 EUR
 currency: EUR
 price: 52.19

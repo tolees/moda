@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4164+PCDCrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NF7FCJV-es'
+slug: 'B07NF7FCJV-es Marca Amazon - find. Leather Gumsole Botas Chelsea  Marrón Chocolate  39 EU'
 actualPrice: 26.4 EUR
 currency: EUR
 price: 26.4

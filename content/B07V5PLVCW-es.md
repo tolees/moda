@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41aMY644a2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V5PLVCW-es'
+slug: 'B07V5PLVCW-es Mavi Printed tee Camiseta  Azul  Indigo 18790   Large  Talla del Fabricante: L/  para Hombre'
 actualPrice: 10.52 EUR
 currency: EUR
 price: 10.52

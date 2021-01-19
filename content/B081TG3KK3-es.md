@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41BPFLdM25L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081TG3KK3-es'
+slug: 'B081TG3KK3-es LuckyGirls Zapatos Casuales de Invierno para Hombre  Slip cálido en Punta Redonda  Botines Cortos'
 actualPrice: 8.02 EUR
 currency: EUR
 price: 8.02

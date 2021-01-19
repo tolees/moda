@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31sn5pqsf+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XZWSPDY-es'
+slug: 'B00XZWSPDY-es Mercedes-Benz Sonnenbrille M7004 Gafas de sol  Azul  Blau   59.0 para Hombre'
 actualPrice: 30.66 EUR
 currency: EUR
 price: 30.66

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Zol-R6UOL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L4XWJHM-es'
+slug: 'B07L4XWJHM-es Charles Wilson Camisa Franela de Cuadros Manga Larga para Hombre  XX-Large  Red & White 1 '
 actualPrice: 16.95 EUR
 currency: EUR
 price: 16.95

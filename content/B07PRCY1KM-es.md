@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31m0kuy+ulL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PRCY1KM-es'
+slug: 'B07PRCY1KM-es Mary A1905 - Zapatos de napa  color negro y rojo  tacón de 6 cm  talla 36  color negro'
 actualPrice: 44.5 EUR
 currency: EUR
 price: 44.5

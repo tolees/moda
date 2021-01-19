@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41JWUhj87zL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LF8N4DX-es'
+slug: 'B07LF8N4DX-es Levi s 502 Regular Taper Vaqueros  Azul  Creeping Thyme ADV 0412   50W / 34L para Hombre'
 actualPrice: 32.83 EUR
 currency: EUR
 price: 32.83

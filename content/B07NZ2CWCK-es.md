@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41fp5phPYvL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NZ2CWCK-es'
+slug: 'B07NZ2CWCK-es Superdry Padded Elite Jacket Chaqueta  Negro  Jet Black 12a   Medium para Hombre'
 actualPrice: 45.27 EUR
 currency: EUR
 price: 45.27

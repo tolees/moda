@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41NlgjMmHpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C61PNJD-es'
+slug: 'B07C61PNJD-es Jack & Jones Jjesheridan Shirt L/s Camisa Vaquera  Gris  Light Grey Denim Fit:Slim   Medium para Hombre'
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

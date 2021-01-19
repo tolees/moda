@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-ihogWfuL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XPSZ7GQ-es'
+slug: 'B06XPSZ7GQ-es Desigual TS_Leopard Degrade Camiseta  Gris  Gris Medio 2007   X-Small para Mujer'
 actualPrice: 24.58 EUR
 currency: EUR
 price: 24.58

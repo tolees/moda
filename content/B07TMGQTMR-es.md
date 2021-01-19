@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4112IMjkL9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TMGQTMR-es'
+slug: 'B07TMGQTMR-es FM London Fitted Boxer  Negro  Black 01   Large  Pack de 8  para Hombre'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

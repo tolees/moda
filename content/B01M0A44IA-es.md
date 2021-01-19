@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/5115QX9VO6L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M0A44IA-es'
+slug: 'B01M0A44IA-es Collar Mujer  J.Rosée Plata de Ley 925 Brillante Circonita"Mi Amor de las Estrellas" Cadena 45cm-50cm con Hermosa Caja de Regalo Regalo para el Día de la Madre'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

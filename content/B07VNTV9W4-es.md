@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/3166nxg1dEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VNTV9W4-es'
+slug: 'B07VNTV9W4-es Lee Daren Zip Fly Vaqueros Straight  Verde  Lichen Green 82   42W / 34L para Hombre'
 actualPrice: 38.23 EUR
 currency: EUR
 price: 38.23

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31VW2hpJlsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KH2TGJR-es'
+slug: 'B07KH2TGJR-es Under Armour UA Rush Short Sleeve Camiseta  Hombre  Gris  Mod Gray/Onyx White 011   XL'
 actualPrice: 32.97 EUR
 currency: EUR
 price: 32.97

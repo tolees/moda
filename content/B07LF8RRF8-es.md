@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41sRFIjgfkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LF8RRF8-es'
+slug: 'B07LF8RRF8-es Levi s 502 Regular Taper Vaqueros  Azul  Porcini Blue Od ADV 0489   31W / 30L para Hombre'
 actualPrice: 24.28 EUR
 currency: EUR
 price: 24.28

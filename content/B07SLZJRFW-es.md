@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41r8EFvu7LL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SLZJRFW-es'
+slug: 'B07SLZJRFW-es Havaianas High Light  Chanclas para Mujer  Negro  Black/Dark Grey/Ice Grey 7905   38 EU'
 actualPrice: 18.0 EUR
 currency: EUR
 price: 18.0

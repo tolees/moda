@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41iMTMgxsBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TWBFQ7K-es'
+slug: 'B07TWBFQ7K-es Levi s The tee Camiseta de Manga Corta  Gris  90 s Serif T3 Forged Iron 0806   X-Small para Mujer'
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

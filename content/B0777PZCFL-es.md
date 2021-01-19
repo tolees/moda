@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41LC8q0yRUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0777PZCFL-es'
+slug: 'B0777PZCFL-es Tommy Hilfiger Regular C Camiseta con Cuello Redondo  Rojo  Formula One   XS para Hombre'
 actualPrice: 17.95 EUR
 currency: EUR
 price: 17.95

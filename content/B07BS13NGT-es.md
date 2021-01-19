@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51oMPD0LkZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BS13NGT-es'
+slug: 'B07BS13NGT-es Brace Master MMA Gloves Guantes UFC Guantes de Boxeo para Hombres Mujeres Cuero Más Acolchado Saco de Boxeo sin Dedos Guantes para Kickboxing  Sparring  Muay Thai y Heavy Bag  Gris S '
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

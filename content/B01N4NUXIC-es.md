@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31rQQHE9dDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N4NUXIC-es'
+slug: 'B01N4NUXIC-es G-STAR RAW 3301 Slim Fit Jeans Vaqueros  Dk Aged 8466-89  27W / 34L para Hombre'
 actualPrice: 24.44 EUR
 currency: EUR
 price: 24.44

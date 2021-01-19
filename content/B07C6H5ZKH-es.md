@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41DNPia5-VL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C6H5ZKH-es'
+slug: 'B07C6H5ZKH-es Marca Amazon - IRIS & LILLY Braguita de Bikini Crochet  Mujer  Verde  Olive/Starlet Pink/Fandango Pink   L  Label: L'
 actualPrice: 3.76 EUR
 currency: EUR
 price: 3.76

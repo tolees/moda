@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31nYwSYyoaL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SQF2V7F-es'
+slug: 'B07SQF2V7F-es Greylags 100% Algodón Prima Camiseta para Hombre | Cuello en V | Shirt | Camiseta | Tees | Paquete de 3'
 actualPrice: 22.46 EUR
 currency: EUR
 price: 22.46

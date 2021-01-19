@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ue+FMETcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V9JL6KC-es'
+slug: 'B07V9JL6KC-es HCFKJ Cinturones para Vestidos de Fiesta Moda Rhinestone Lleno Brillante Cintura Mujeres Vestido De Fiesta CinturóN De Cadena'
 actualPrice: 0.99 EUR
 currency: EUR
 price: 0.99

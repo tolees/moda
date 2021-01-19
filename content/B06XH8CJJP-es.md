@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41JsPVpstKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XH8CJJP-es'
+slug: 'B06XH8CJJP-es Helly Hansen Seven J Chaqueta impermeable con forro de secado rápido  cortaviento y transpirable para hombre y para uso diario  Azul  Marino   S'
 actualPrice: 41.85 EUR
 currency: EUR
 price: 41.85

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Yj4z-qzzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LD1J7N2-es'
+slug: 'B07LD1J7N2-es New Balance Accelerate - Pantalón Corto para Hombre  3 Pulgadas   Pantalón Corto para Correr de 3 Pulgadas  Hombre  Color Negro  tamaño Medium'
 actualPrice: 17.39 EUR
 currency: EUR
 price: 17.39

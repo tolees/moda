@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41aGtvQTTjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F31KHV1-es'
+slug: 'B07F31KHV1-es Helly Hansen Crew Windbreaker Jacket  Chaqueta deportiva para Hombre  Verde  Verde 706   XX-Large'
 actualPrice: 58.14 EUR
 currency: EUR
 price: 58.14

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31BoIBwMZtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CZD41P3-es'
+slug: 'B07CZD41P3-es Under Armour Fast Left Chest 2.0 SS Camiseta Deportiva De Manga Corta  Hombre  Negro  Black/Pitch Gray-001   LG'
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31KoCETPPGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078SX66HV-es'
+slug: 'B078SX66HV-es Timberland Wild Dunes Synthetic Thong  Chanclas de Dedo para Hombre  Azul  Navy   43 EU'
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

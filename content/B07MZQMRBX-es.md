@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31WI1LCyNkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZQMRBX-es'
+slug: 'B07MZQMRBX-es Pepe Jeans Georginna Vestido   Black 999   Large para Mujer'
 actualPrice: 19.83 EUR
 currency: EUR
 price: 19.83

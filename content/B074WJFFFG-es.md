@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41A0C-9J2iL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074WJFFFG-es'
+slug: 'B074WJFFFG-es Timberland Union Wharf Lace Oxford  Zapatillas Bajas para Hombre  Negro Black Canvas  44 EU'
 actualPrice: 32.5 EUR
 currency: EUR
 price: 32.5

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41JbJwJBkkL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GCBNN2V-es'
+slug: 'B07GCBNN2V-es VICTORIA 1101 Zapatilla Bota Basket Plataforma Negro  36 EU '
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

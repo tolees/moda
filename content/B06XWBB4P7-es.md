@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41zPbNy2RKL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XWBB4P7-es'
+slug: 'B06XWBB4P7-es find. Blusa con Manga Acampanada para Mujer   Marfil  Ivory   38  Talla del Fabricante: Small '
 actualPrice: 8.7 EUR
 currency: EUR
 price: 8.7

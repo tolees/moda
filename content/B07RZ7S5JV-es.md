@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41j49rX4k2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RZ7S5JV-es'
+slug: 'B07RZ7S5JV-es Jack & Jones Jjeliam Leather Jacket Noos Chaqueta  Negro  Black Black   Medium para Hombre'
 actualPrice: 138.49 EUR
 currency: EUR
 price: 138.49

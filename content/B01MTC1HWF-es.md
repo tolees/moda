@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51vD61mb1yL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MTC1HWF-es'
+slug: 'B01MTC1HWF-es Jack & Jones - Jorabe - Jersey de Punto - Deauville Mauve'
 actualPrice: 18.0 EUR
 currency: EUR
 price: 18.0

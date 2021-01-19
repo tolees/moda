@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41EdMBH+dcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087VJL7K7-es'
+slug: 'B087VJL7K7-es Columbia Cascade Ridge II Softshell Chaqueta  Hombre  Night Tide  M'
 actualPrice: 50.99 EUR
 currency: EUR
 price: 50.99

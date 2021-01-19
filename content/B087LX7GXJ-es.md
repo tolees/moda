@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51+nWToManL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087LX7GXJ-es'
+slug: 'B087LX7GXJ-es Voova 15 15.6 14 Pulgadas Funda Maletín Ordenador Portátiles Bolso Bandolera Impermeable para Portátil con Asa De Transporte para Macbook Pro Retina/Macbook Pro/Elit Book/XPS15/Chromebook /-Caqui'
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

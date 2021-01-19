@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31qt2nXKCOL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K91P4ZT-es'
+slug: 'B07K91P4ZT-es Crocs Classic Clog  Zuecos Unisex Adulto  Verde  Dusty Green 3TD   43/44 EU'
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

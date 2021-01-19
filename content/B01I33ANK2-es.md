@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31iEKmwCfSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01I33ANK2-es'
+slug: 'B01I33ANK2-es Heimdall lámpara de escritorio  luz de la noche multicolor  regulable  la moda  recargable  para leer / trabajar / relajarse / dormir'
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

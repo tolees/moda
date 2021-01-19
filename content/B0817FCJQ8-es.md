@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31QuP8Bbo6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0817FCJQ8-es'
+slug: 'B0817FCJQ8-es Columbia Triple Canyon Pantalón Corto De Senderismo  Hombre  Dark Mountain  W32/L10'
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

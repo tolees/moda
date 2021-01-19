@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4140egAirmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0044WVTBE-es'
+slug: 'B0044WVTBE-es Crocs Classic Clog  Zuecos Unisex Adulto  Pink  36/37 EU'
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

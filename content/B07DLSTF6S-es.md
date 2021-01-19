@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/316HRVDonjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DLSTF6S-es'
+slug: 'B07DLSTF6S-es SAMSONITE Kleur - Bailhandle for 14.1" Laptop 0.5 KG Bolso Bandolera  37 cm  9.5 Liters  Verde  Green/Dark Green '
 actualPrice: 35.07 EUR
 currency: EUR
 price: 35.07

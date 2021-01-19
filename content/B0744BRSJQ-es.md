@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51YWpo%2B3CWL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B0744BRSJQ-es'
+slug: 'B0744BRSJQ-es gracosy Alpargatas Zapatos de Mujer Caminando Zapatillas Plano de holgazán Sandalias de Verano de Playa Transpirables Bordados de Flores Coloridas jardín de Ocio al Aire Libre Zapatillas de casa'
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

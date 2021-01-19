@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31rzP+SScKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00I7OD03U-es'
+slug: 'B00I7OD03U-es Polaroid P7334 RC 9CA Gafas de sol  Negro  Black/Green Polarized   63 Unisex Adulto'
 actualPrice: 25.95 EUR
 currency: EUR
 price: 25.95

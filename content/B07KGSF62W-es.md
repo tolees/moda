@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41nLbyMRqLL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KGSF62W-es'
+slug: 'B07KGSF62W-es edc by Esprit 999cc2k803 Camiseta  Blanco  White 100   Large para Hombre'
 actualPrice: 6.49 EUR
 currency: EUR
 price: 6.49

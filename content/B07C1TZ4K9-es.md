@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31e6NtYKizL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C1TZ4K9-es'
+slug: 'B07C1TZ4K9-es H by Hudson Antrim  Zapatos de Cordones Derby para Hombre  Azul  Navy 02   42 EU'
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

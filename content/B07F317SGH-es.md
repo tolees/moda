@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41oq41hzphL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F317SGH-es'
+slug: 'B07F317SGH-es Helly Hansen Hp Ocean Fz Hoodie  Sudadera para Hombre  Gris  Gris 949   XX-Large'
 actualPrice: 50.99 EUR
 currency: EUR
 price: 50.99

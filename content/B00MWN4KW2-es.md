@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31e4ZwfrnrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00MWN4KW2-es'
+slug: 'B00MWN4KW2-es Uvex Sportstyle 802 Vario Gafas de Ciclismo  Unisex Adulto  Negro  Talla Única'
 actualPrice: 71.13 EUR
 currency: EUR
 price: 71.13

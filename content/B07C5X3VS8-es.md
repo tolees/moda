@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4169c8djiwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C5X3VS8-es'
+slug: 'B07C5X3VS8-es Jack & Jones Jjeholmen Sweat Zip Hood Noos Sudadera  Verde  Olive Night   Large para Hombre'
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

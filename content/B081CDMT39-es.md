@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4152wBae5qL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081CDMT39-es'
+slug: 'B081CDMT39-es Geographical Norway Chaqueta NIÑA Anson Rosa Llamativo 12'
 actualPrice: 59.0 EUR
 currency: EUR
 price: 59.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31m9tXN3qrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07STLQ1G4-es'
+slug: 'B07STLQ1G4-es Geox U Wells B  Zapatillas para Hombre  Azul  Navy C4002   39 EU'
 actualPrice: 46.61 EUR
 currency: EUR
 price: 46.61

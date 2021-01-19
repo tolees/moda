@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41JsPVpstKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XHB2JQ4-es'
+slug: 'B06XHB2JQ4-es Helly Hansen Hombre Seven J Chaqueta para Lluvia Not Applicable  Azul  596 Azul Marino   3XL'
 actualPrice: 44.48 EUR
 currency: EUR
 price: 44.48

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51FC-yM0jEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079FF7XDY-es'
+slug: 'B079FF7XDY-es Magichome Collar Antiparasitario para Gatos contra Pulgas  Garrapatas y Mosquitos …'
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

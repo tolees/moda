@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Chon7mxeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H6WYTKG-es'
+slug: 'B07H6WYTKG-es Rockport - Zapatos de tacón Melora de Piel  39 EU   Alpaca '
 actualPrice: 71.2 EUR
 currency: EUR
 price: 71.2

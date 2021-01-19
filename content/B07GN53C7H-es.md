@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41ygb4psFWL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GN53C7H-es'
+slug: 'B07GN53C7H-es Uten Limpiador Ultrasónico Profesional Acero Inoxidable Baño 42 000Hz 35W  Con Soporte y Cesta de Limpieza  Adecuado Para Joyas  Gafas  Dentaduras y Maquinilla de afeitar  650ml'
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

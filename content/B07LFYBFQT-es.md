@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411NgJLMsnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFYBFQT-es'
+slug: 'B07LFYBFQT-es Geox U Mattias B ABX C  Botas Chukka para Hombre  Negro  Black C9999   43 EU'
 actualPrice: 40.83 EUR
 currency: EUR
 price: 40.83

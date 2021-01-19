@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/419JFuDpD7L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MMLN86C-es'
+slug: 'B07MMLN86C-es Napapijri BIBU H Sudadera con Capucha  Verde  Green Forest 2 GE3   L para Hombre'
 actualPrice: 39.6 EUR
 currency: EUR
 price: 39.6

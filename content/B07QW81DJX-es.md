@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41tgwavmm6L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QW81DJX-es'
+slug: 'B07QW81DJX-es flintronic Cartera Hombre  Triple Pliegue Slim Billetera de Fibre de Carbone para Tarjetas de Crédito  Monedero con Pinza y Protección RFID  con Llavero y Caja de Regalo - Negro'
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

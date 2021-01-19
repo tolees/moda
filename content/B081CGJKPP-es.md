@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413ib5sRlgL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081CGJKPP-es'
+slug: 'B081CGJKPP-es Geographical Norway Chaqueta Hombre BOKER Azul Marino XL'
 actualPrice: 65.0 EUR
 currency: EUR
 price: 65.0

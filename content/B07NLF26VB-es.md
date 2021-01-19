@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31-fZAUGrlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NLF26VB-es'
+slug: 'B07NLF26VB-es Meller - Kribi Tigris Carbon - Gafas de sol para hombre y mujer'
 actualPrice: 24.0 EUR
 currency: EUR
 price: 24.0

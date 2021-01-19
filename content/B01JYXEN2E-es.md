@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31EUbZ+jSQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01JYXEN2E-es'
+slug: 'B01JYXEN2E-es MAMALICIOUS MLRAM COATED SLIM JEANS  Vaqueros premamá Mujer  Negro  Black   W33/L32  Talla del fabricante: 33 '
 actualPrice: 33.26 EUR
 currency: EUR
 price: 33.26

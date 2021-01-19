@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41loKlqXh+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WD9BBXS-es'
+slug: 'B07WD9BBXS-es VECDY Camisetas Mujer  Blusas Elegante 2019 Sudadera De Patchwork De Encaje De Manga Larga con Cuello En O para Mujer Top Sexy Suave Camisetas Casual Ropa De Fiesta Cita Compras Negro 5XL '
 actualPrice: 1.5 EUR
 currency: EUR
 price: 1.5

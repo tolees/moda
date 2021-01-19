@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31aRjf8Kp2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B4HCMP4-es'
+slug: 'B07B4HCMP4-es Timberland Los Angeles Slingback  Sandalias con Plataforma y Tiras para Mujer  Negro  Black Full Grain   37 EU'
 actualPrice: 61.67 EUR
 currency: EUR
 price: 61.67

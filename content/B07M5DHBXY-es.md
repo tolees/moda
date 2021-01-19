@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31DcElDZUuL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M5DHBXY-es'
+slug: 'B07M5DHBXY-es Lee Luke Vaqueros  Forest Night  31W / 34L para Hombre'
 actualPrice: 22.63 EUR
 currency: EUR
 price: 22.63

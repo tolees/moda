@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51GeUEw9+2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P1CVFHN-es'
+slug: 'B07P1CVFHN-es Monedero Movom Cactus'
 actualPrice: 3.5 EUR
 currency: EUR
 price: 3.5

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/5180e1p+KqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V5VFDYQ-es'
+slug: 'B07V5VFDYQ-es Tommy Hilfiger - Elevated Nylon Hanging Washbag  Organizadores de bolso Hombre  Azul  Sky Captain   1x1x1 cm  W x H L '
 actualPrice: 26.68 EUR
 currency: EUR
 price: 26.68

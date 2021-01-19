@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41FG3i1Uz0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D9DRFKR-es'
+slug: 'B07D9DRFKR-es Levi s 501 Original Fit Vaqueros  Sponge St  33W / 34L para Hombre'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

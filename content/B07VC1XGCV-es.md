@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31GDMAYS1AL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VC1XGCV-es'
+slug: 'B07VC1XGCV-es JACK & JONES Jjifred Jjtool Cj 097 Vaqueros Relaxed  Negro  Black Denim Black Denim   W31/L32  Talla del Fabricante: 31  para Hombre'
 actualPrice: 19.18 EUR
 currency: EUR
 price: 19.18

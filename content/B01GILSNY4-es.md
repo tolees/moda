@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/518WEH2n+KL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01GILSNY4-es'
+slug: 'B01GILSNY4-es Calvin Klein 2pk Trunk Bóxer  Negro  Black Pr 002   140-152  Talla del fabricante: 10-12   Pack de 2  para Niños'
 actualPrice: 18.3 EUR
 currency: EUR
 price: 18.3

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416UD2wcYkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085CDMHLG-es'
+slug: 'B085CDMHLG-es Elover UV Lámpara de Desinfección para Teléfono Ultravioleta Luz Germicida UV Lámpara de Esterilización Desinfectar para Reloj  Joyería  Gafas  Herramientas de Maquillaje'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

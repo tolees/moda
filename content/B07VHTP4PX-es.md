@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ope+RAESL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VHTP4PX-es'
+slug: 'B07VHTP4PX-es Desigual Vest Tennessee Vestido  Azul  Azul Agata 5026   44  Talla del Fabricante: 42  para Mujer'
 actualPrice: 39.98 EUR
 currency: EUR
 price: 39.98

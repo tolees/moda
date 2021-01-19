@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31dfwKnHRDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DPPLZ6B-es'
+slug: 'B07DPPLZ6B-es Clarks Becken Cap  Zapatos de Cordones Derby para Hombre  Negro  Black Leather-   42 EU'
 actualPrice: 47.97 EUR
 currency: EUR
 price: 47.97

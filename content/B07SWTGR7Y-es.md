@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31hYcEuCETL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SWTGR7Y-es'
+slug: 'B07SWTGR7Y-es Geox D Sandal Vega A  Sandalias con Punta Abierta para Mujer  Plateado  Silver C1007   35 EU'
 actualPrice: 43.93 EUR
 currency: EUR
 price: 43.93

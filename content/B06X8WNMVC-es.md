@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41VhT4NGGZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06X8WNMVC-es'
+slug: 'B06X8WNMVC-es Tommy Hilfiger 3p Trunk Bóxer  Multicolor  Multi/Peacoat 904   Medium  Pack de 3  para Hombre'
 actualPrice: 19.84 EUR
 currency: EUR
 price: 19.84

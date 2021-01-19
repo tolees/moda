@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41D9Le7pkaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0015FERDU-es'
+slug: 'B0015FERDU-es Havaianas Brasil  Chanclas Unisex Adulto  Negro  Black   47/48 EU'
 actualPrice: 11.0 EUR
 currency: EUR
 price: 11.0

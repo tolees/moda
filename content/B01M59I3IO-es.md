@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/417NeJ0E2sL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M59I3IO-es'
+slug: 'B01M59I3IO-es VILA CLOTHES VICANTIK L/S SHIRT  Blusa Mujer  Verde  Vetiver   38   Medium '
 actualPrice: 9.39 EUR
 currency: EUR
 price: 9.39

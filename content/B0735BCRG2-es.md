@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41fU9inR69L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0735BCRG2-es'
+slug: 'B0735BCRG2-es Napapijri Rainforest Pocket  Chaqueta para Hombre  Negro  Black 041   Large'
 actualPrice: 143.95 EUR
 currency: EUR
 price: 143.95

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41dKFdxBiOL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LF8RVYD-es'
+slug: 'B07LF8RVYD-es Levi s Coit Down Puffer Chaqueta  Marrón  Cabernet 0000   X-Large para Hombre'
 actualPrice: 50.45 EUR
 currency: EUR
 price: 50.45

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41l0bziIdDL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079FD18WN-es'
+slug: 'B079FD18WN-es AOWOFS - Abrigo - para Hombre Marrón marrón X-Small'
 actualPrice: 42.34 EUR
 currency: EUR
 price: 42.34

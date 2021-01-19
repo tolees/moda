@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41cvTfhX7bL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00YO73MQ4-es'
+slug: 'B00YO73MQ4-es Under Armour Tech T Camiseta sin Mangas  Mujer  Negro  Black/Metallic Silver 001   S'
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

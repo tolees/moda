@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ktMlIIo1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JW44MKV-es'
+slug: 'B07JW44MKV-es Lee Extreme Motion Straight Vaqueros  Beige  Cougar 77   32W / 30L para Hombre'
 actualPrice: 25.87 EUR
 currency: EUR
 price: 25.87

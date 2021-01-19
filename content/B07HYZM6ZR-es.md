@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41je9-BaU0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HYZM6ZR-es'
+slug: 'B07HYZM6ZR-es Amazon Essentials 6-Pack Cotton Bikini Underwear  Valentines  US XXL  EU 3XL-4XL '
 actualPrice: 6.44 EUR
 currency: EUR
 price: 6.44

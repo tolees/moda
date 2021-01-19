@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41oWgjvJXuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DV8XZQW-es'
+slug: 'B07DV8XZQW-es Columbia Kyra III  Sandalias para Mujer  Negro  Shark  Steam   36 EU'
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41wJ1VxZFuL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KGY2BBT-es'
+slug: 'B07KGY2BBT-es Under Armour UA Prevail Windbreaker Chaqueta  Mujer  Negro Black/Tetra Gray 001  XL'
 actualPrice: 29.14 EUR
 currency: EUR
 price: 29.14

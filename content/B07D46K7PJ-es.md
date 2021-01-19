@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Z1vLqT+KL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D46K7PJ-es'
+slug: 'B07D46K7PJ-es Tommy Hilfiger TJM Tommy Classics Logo tee Camisa  Gris  Lt Grey Htr 038   X-Large para Hombre'
 actualPrice: 32.9 EUR
 currency: EUR
 price: 32.9

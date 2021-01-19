@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41KyWU6NulL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VMV1G5W-es'
+slug: 'B07VMV1G5W-es Lee Malone Vaqueros  Stone Blue Zl  34W / 32L para Hombre'
 actualPrice: 58.38 EUR
 currency: EUR
 price: 58.38

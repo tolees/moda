@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41bVitNKJgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FKHX5D5-es'
+slug: 'B07FKHX5D5-es Nike M NSW tee Icon Futura Camiseta de Manga Corta  Hombre  dk Grey Heather/Black/ White   L'
 actualPrice: 15.9 EUR
 currency: EUR
 price: 15.9

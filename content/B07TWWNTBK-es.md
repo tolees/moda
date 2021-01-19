@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31sDbeaXuOL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TWWNTBK-es'
+slug: 'B07TWWNTBK-es New Look Aw19 Piper Abrigo  Negro  Black 1   38  Talla del Fabricante: 10  para Mujer'
 actualPrice: 22.0 EUR
 currency: EUR
 price: 22.0

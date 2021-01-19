@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41lgNZAQ1vL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JYS634C-es'
+slug: 'B07JYS634C-es Tommy Hilfiger Stretch Slim Fit tee Camisa Deportiva  Verde  Jelly BEAN306   XX-Large para Hombre'
 actualPrice: 19.93 EUR
 currency: EUR
 price: 19.93

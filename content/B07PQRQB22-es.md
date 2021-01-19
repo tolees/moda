@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Dc0m77sUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PQRQB22-es'
+slug: 'B07PQRQB22-es Transportín plegable de tela para gatos y perros pequeños  ideal para coche. Bolsa de viaje semirrígida para mascotas. Bolso de transporte impermeable con rejilla. Funda de almacenaje incluida'
 actualPrice: 10.48 EUR
 currency: EUR
 price: 10.48

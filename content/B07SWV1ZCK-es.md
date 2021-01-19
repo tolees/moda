@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4181BR9AsLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SWV1ZCK-es'
+slug: 'B07SWV1ZCK-es Geox D Nydame E  Zapatillas para Mujer  Beige  Sand C5004   37 EU'
 actualPrice: 29.92 EUR
 currency: EUR
 price: 29.92

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416uSGnpGeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VFNK1MG-es'
+slug: 'B07VFNK1MG-es SELECTED HOMME Slhcolor Block Jacket W Chaqueta   Turtle Detail:Black   S para Hombre'
 actualPrice: 17.44 EUR
 currency: EUR
 price: 17.44

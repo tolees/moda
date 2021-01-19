@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Bhs4uUziL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075K3HSJ8-es'
+slug: 'B075K3HSJ8-es VIFUUR Zapatos de Agua Aqua Yoga para Mujer Hombre Verde EU42/43'
 actualPrice: 14.66 EUR
 currency: EUR
 price: 14.66

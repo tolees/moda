@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41tFxkAlE3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B015SGFI9S-es'
+slug: 'B015SGFI9S-es Havaianas Luna  Sandalias para Mujer  Dorado  Rose Gold   35/36 EU'
 actualPrice: 15.95 EUR
 currency: EUR
 price: 15.95

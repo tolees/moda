@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ZVwCkdV2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00NBJS7AM-es'
+slug: 'B00NBJS7AM-es Nike M Nk Dry tee Db Athlete Camiseta de Manga Corta  Hombre  dk Grey Heather/ Black   L'
 actualPrice: 11.01 EUR
 currency: EUR
 price: 11.01

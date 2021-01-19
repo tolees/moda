@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41j8RXhqKgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005PQQ1OI-es'
+slug: 'B005PQQ1OI-es Crocs Classic Clog  Zuecos Unisex Adulto  Negro  Black 001   52/53 EU'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

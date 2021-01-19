@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31R4StpChvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KKY7MR4-es'
+slug: 'B07KKY7MR4-es adidas D2m 3s Pant Pantalón de Deporte  Mujer  Negro Black/White   XL'
 actualPrice: 37.98 EUR
 currency: EUR
 price: 37.98

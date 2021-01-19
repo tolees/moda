@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41rnXuiDC8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DD1XT4R-es'
+slug: 'B07DD1XT4R-es Odlo T-Shirt MC Millenium Element Camiseta Ligera Hombre  Grey Melange  L'
 actualPrice: 24.11 EUR
 currency: EUR
 price: 24.11

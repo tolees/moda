@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41DRSJyCQdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08317PHDV-es'
+slug: 'B08317PHDV-es BestoU Bolsos de Mujer Cuero Bolso Bandolera Tote Grande De Hombro Bolsos PU  Negro '
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

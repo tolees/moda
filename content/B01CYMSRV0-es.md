@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31RYYDE0bHL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CYMSRV0-es'
+slug: 'B01CYMSRV0-es Trangoworld Sannat SN Pantalón Largo  Mujer  Multicolor  Rosa/Antracita XL   XL'
 actualPrice: 65.49 EUR
 currency: EUR
 price: 65.49

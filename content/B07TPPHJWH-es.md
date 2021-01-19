@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41YG9KTUvJL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TPPHJWH-es'
+slug: 'B07TPPHJWH-es Urban Classics Hooded Check Puffer Jacket Chaqueta  Multicolor  Red/Black 00869   Small para Hombre'
 actualPrice: 24.23 EUR
 currency: EUR
 price: 24.23

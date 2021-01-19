@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41DZrzX3xzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CJTJGS2-es'
+slug: 'B07CJTJGS2-es Levi s SS Original Hm tee Camiseta  Multicolor  Cotton + Patch White 0000   Small para Hombre'
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

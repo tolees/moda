@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41boTX4yN5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RYMQWFC-es'
+slug: 'B07RYMQWFC-es Levi s Barstow Western Standard Camisa  Negro  Archer Mineral Black 0004   X-Large para Hombre'
 actualPrice: 30.79 EUR
 currency: EUR
 price: 30.79

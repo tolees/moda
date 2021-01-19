@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61xhy3pyp1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F923FRX-es'
+slug: 'B07F923FRX-es Marvel Grafiti Bolso Bandolera  19 cm  2.85 litros  Multicolor'
 actualPrice: 10.98 EUR
 currency: EUR
 price: 10.98

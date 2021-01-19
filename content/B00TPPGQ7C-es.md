@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31jFmpJrocL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00TPPGQ7C-es'
+slug: 'B00TPPGQ7C-es Lacoste  Sudadera para Hombre  Black 31  Medium  Talla del fabricante : 4 '
 actualPrice: 44.95 EUR
 currency: EUR
 price: 44.95

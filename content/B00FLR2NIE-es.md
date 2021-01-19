@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31KCUK6IWkL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00FLR2NIE-es'
+slug: 'B00FLR2NIE-es hummel HUMMEL SLIMMER STADIL LOW - Zapatos de caña baja de lona unisex  Azul - Blau  Dress Blue/White KH 7647   37'
 actualPrice: 17.36 EUR
 currency: EUR
 price: 17.36

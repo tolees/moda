@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41EpXRwhBiL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V9PD1KP-es'
+slug: 'B07V9PD1KP-es JACK & JONES Jorclan Parka  Negro Black  Small para Hombre'
 actualPrice: 22.37 EUR
 currency: EUR
 price: 22.37

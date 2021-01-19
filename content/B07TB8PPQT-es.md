@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41O6ih-Ey7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TB8PPQT-es'
+slug: 'B07TB8PPQT-es The North Face M Quest L/S Camiseta  Hombre  TNF Yellow/TNF  S'
 actualPrice: 23.28 EUR
 currency: EUR
 price: 23.28

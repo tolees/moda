@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412RgvgtfML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TZ4K8ZZ-es'
+slug: 'B07TZ4K8ZZ-es New Look Maisie Fitted Puffer  Abrigo Mujer  Negro  Black 1   34  Talla fabricante: 6 '
 actualPrice: 20.15 EUR
 currency: EUR
 price: 20.15

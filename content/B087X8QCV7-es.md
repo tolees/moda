@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4152A8ZvLbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087X8QCV7-es'
+slug: 'B087X8QCV7-es TEX - Pantalón Corto de Deporte para Hombre  Gris Oscuro  XL'
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

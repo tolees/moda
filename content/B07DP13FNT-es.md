@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41nmnoJZZJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DP13FNT-es'
+slug: 'B07DP13FNT-es Umbro Set de 5 boxers  5NEGROS  -100% algodón-color negro x5  Bóxer  PACK 05 T040-1  L Hombre'
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31a7TMJd2VL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01J6WJSQY-es'
+slug: 'B01J6WJSQY-es Timberland Adventure 2.0 Cupsole Alpine Oxford  Zapatillas de Gimnasia para Hombre  Negro Nubuck  44 EU'
 actualPrice: 64.95 EUR
 currency: EUR
 price: 64.95

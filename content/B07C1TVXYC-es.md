@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41qiYQ5cecL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C1TVXYC-es'
+slug: 'B07C1TVXYC-es Jack & Jones Jjegingham Shirt L/s Camisa  Multicolor  Brick Red Checks:Mixed Black   Large para Hombre'
 actualPrice: 17.49 EUR
 currency: EUR
 price: 17.49

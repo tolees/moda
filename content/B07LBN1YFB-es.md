@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41nntPYniJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LBN1YFB-es'
+slug: 'B07LBN1YFB-es Helly Hansen Paramount Resistente Al Agua Y Al Viento Y Respirable Chaqueta de Softshell  Hombre  Black  2XL'
 actualPrice: 77.01 EUR
 currency: EUR
 price: 77.01

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/515%2By6M52JL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MRXPXGA-es'
+slug: 'B01MRXPXGA-es find. Flared Sleeve Blusa para Mujer  Negro  Black Mix   38  Talla del Fabricante: Small '
 actualPrice: 12 EUR
 currency: EUR
 price: 12

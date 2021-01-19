@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41o0WJIvJYL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K2KJ8FJ-es'
+slug: 'B07K2KJ8FJ-es Adidas Adissage Zapatos de playa y piscina Unisex adulto  Azul  Azul 000   44.5 EU  10 UK '
 actualPrice: 19.96 EUR
 currency: EUR
 price: 19.96

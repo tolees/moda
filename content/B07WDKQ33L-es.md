@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41JhO48YNYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WDKQ33L-es'
+slug: 'B07WDKQ33L-es Jack & Jones JCOMILLA Sweat Hood Sudadera con Capucha  Multicolor  Detalles de Rojo Chino: W Black   L para Hombre'
 actualPrice: 26.93 EUR
 currency: EUR
 price: 26.93

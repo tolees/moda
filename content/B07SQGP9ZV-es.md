@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31hrTq7ZxdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SQGP9ZV-es'
+slug: 'B07SQGP9ZV-es Geox U Timothy A  Zapatos de Cordones Derby para Hombre  Azul  Navy C4002   39 EU'
 actualPrice: 33.51 EUR
 currency: EUR
 price: 33.51

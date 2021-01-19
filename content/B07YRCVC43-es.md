@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31hn645VE8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YRCVC43-es'
+slug: 'B07YRCVC43-es Marca Amazon - find. Vestido Corto Cruzado de Algodón Mujer  Azul  Azul suave   46  Label: XXL'
 actualPrice: 7.35 EUR
 currency: EUR
 price: 7.35

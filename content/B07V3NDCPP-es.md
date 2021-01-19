@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31CO5ruikKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V3NDCPP-es'
+slug: 'B07V3NDCPP-es Billabong™ - Chanclas - Hombre - EU 44 - Azul'
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

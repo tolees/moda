@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/410ymKc2eaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XQPTPW9-es'
+slug: 'B06XQPTPW9-es Vans Classic Camiseta  Gris  Athletic Heather/Black   X-Small para Hombre'
 actualPrice: 14.76 EUR
 currency: EUR
 price: 14.76

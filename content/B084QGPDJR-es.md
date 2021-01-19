@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/517qrZ-W2AL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084QGPDJR-es'
+slug: 'B084QGPDJR-es Taglory Collar Perro Ajustable Estilo Único Collar Adiestramiento para Perros Grandes 40-60cm Flor Negra'
 actualPrice: 11.89 EUR
 currency: EUR
 price: 11.89

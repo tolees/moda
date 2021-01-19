@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412NxtJL0QL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SQGPB7W-es'
+slug: 'B07SQGPB7W-es Geox Uomo Sandal Strada B  Sandalias Punta Cerrada para Hombre  Gris  Taupe/Black C6088   39 EU'
 actualPrice: 58.85 EUR
 currency: EUR
 price: 58.85

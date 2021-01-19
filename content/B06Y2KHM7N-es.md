@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41g23W3RoLL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B06Y2KHM7N-es'
+slug: 'B06Y2KHM7N-es Geox J Kalispera Girl I  Zapatillas Altas para Niñas  Negro  Black   32 EU'
 actualPrice: 34.49 EUR
 currency: EUR
 price: 34.49

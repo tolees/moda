@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Ern0oV+yL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VBFB61G-es'
+slug: 'B07VBFB61G-es JACK & JONES Jprwetford Parka STS  Beige  Kelp Kelp   Large para Hombre'
 actualPrice: 37.82 EUR
 currency: EUR
 price: 37.82

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416+iYlj7sL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088TDZDLY-es'
+slug: 'B088TDZDLY-es Gafas de Protección Gafas Protectoras para Depilación HPL/IPL Gafas para Dispositivo de Depilación HPL/IPL Sistema de Depilación Permanente Gafas para Cuerpo Cara y Zona Bikini Verde oscuro '
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

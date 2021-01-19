@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41m52GWvbqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BNSDWNP-es'
+slug: 'B08BNSDWNP-es DYKHMILY Zapatillas de Seguridad Hombre Zapatos de Seguridad Ligeras Transpirable con Puntera de Acero Anti-pinchazo Negro Blanco 2002 46 UK '
 actualPrice: 33.0 EUR
 currency: EUR
 price: 33.0

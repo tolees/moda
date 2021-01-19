@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/310ZBiQMhFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01K4MNC4O-es'
+slug: 'B01K4MNC4O-es Maxmer 3 Gancho de Pared Percha Perchero Colgador de Pared Cobre Sólido a Colgar Sombrero  Ropa  Abrigo  Toalla Albornoz  Gran Capacidad de Carga  Pulido'
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

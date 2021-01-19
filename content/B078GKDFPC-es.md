@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41H6zHwxv1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078GKDFPC-es'
+slug: 'B078GKDFPC-es GRITION Sandalias Hombre Verano Piel  Punta Cerrada Sandalias Gladiador Correa Ajustable de Malla y PU para Deportes de Trekking  41EU BO '
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

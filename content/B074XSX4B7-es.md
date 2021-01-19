@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51HuSqLgn5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074XSX4B7-es'
+slug: 'B074XSX4B7-es APALUS Bolsa Desodorante para Zapatos  Bolsa De Carbón Activo De Bambú  Elimina los Olores de Zapatos Deshumidificador Y Purificador De Aire. Bolsas de Gimnasio  Areneros de Gatos  75GX2'
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

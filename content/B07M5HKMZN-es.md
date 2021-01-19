@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31kWviN2seL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M5HKMZN-es'
+slug: 'B07M5HKMZN-es Geox M Vincit G Abrigo  Negro  Black F9000   XXX-Large  Talla del Fabricante: 58  para Hombre'
 actualPrice: 51.34 EUR
 currency: EUR
 price: 51.34

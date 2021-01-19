@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41TC8Tbw0JL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R7ZBLD9-es'
+slug: 'B07R7ZBLD9-es O NEILL PM Alti Hyperfleece - Chaqueta para Hombre  Hombre  9P0300  Black out  Extra-Large'
 actualPrice: 19.8 EUR
 currency: EUR
 price: 19.8

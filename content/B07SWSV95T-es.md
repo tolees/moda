@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41lOZ5XQMHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SWSV95T-es'
+slug: 'B07SWSV95T-es Geox J Buller Boy B  Zapatillas para Niños  Azul  Navy/Grey C0661   26 EU'
 actualPrice: 41.3 EUR
 currency: EUR
 price: 41.3

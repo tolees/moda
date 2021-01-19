@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Wi-6MHdLL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TDK8CJ4-es'
+slug: 'B07TDK8CJ4-es Bolso de Fiesta Noche Hard Shell Clutch Pequeña Diamantes de imitación Billetera del Banquete Bolso de Boda Blanco'
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

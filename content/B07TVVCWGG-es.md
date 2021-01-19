@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31OvBT8JjqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TVVCWGG-es'
+slug: 'B07TVVCWGG-es Lee Scarlett High Vaqueros  Azul  Mid Jelt GT   25W/31L para Mujer'
 actualPrice: 29.55 EUR
 currency: EUR
 price: 29.55

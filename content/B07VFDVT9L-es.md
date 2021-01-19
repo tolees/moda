@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41g0FSV1mgL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VFDVT9L-es'
+slug: 'B07VFDVT9L-es JACK & JONES Jorvincey Sweat Zip Hood Chaleco Deportivo  Rojo  Brick Red Fit: Reg - JJ   X-Large para Hombre'
 actualPrice: 14.27 EUR
 currency: EUR
 price: 14.27

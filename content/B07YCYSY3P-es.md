@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41wDSyMtQKL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YCYSY3P-es'
+slug: 'B07YCYSY3P-es Chaquetas de Mujer Cortas Otoño Reflectante Casual PAOLIAN Abrigo Invierno Algodón Joven Mujer Fiesta Chaquetón Acolchado Deportivas Guateado Elegantes Moda Vestir Adolescente'
 actualPrice: 10.96 EUR
 currency: EUR
 price: 10.96

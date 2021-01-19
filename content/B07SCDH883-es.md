@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31OkuGTiWmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SCDH883-es'
+slug: 'B07SCDH883-es HUGO 734 Vaqueros Slim  Azul  Dark Blue 401   W30/L30  Talla del Fabricante: 3030  para Hombre'
 actualPrice: 57.95 EUR
 currency: EUR
 price: 57.95

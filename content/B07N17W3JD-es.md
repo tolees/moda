@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51+jXb3kzQL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N17W3JD-es'
+slug: 'B07N17W3JD-es Lee Slim Button Down Camisa  Negro  Black 01   XX-Large para Hombre'
 actualPrice: 18.01 EUR
 currency: EUR
 price: 18.01

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/316k+2lJtkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077QRQ9W4-es'
+slug: 'B077QRQ9W4-es FitFlop Iqushion Ergonomic Flip-Flops  Chanclas para Mujer  Blue  Midnight Navy 399   37 EU'
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

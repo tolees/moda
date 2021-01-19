@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41p1buTcOkL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NJ8RN73-es'
+slug: 'B07NJ8RN73-es Springfield 2.Zodiaco Rosa Camiseta  Multicolor  Multicolor 72   Medium  Tamaño del Fabricante: M  para Mujer'
 actualPrice: 5.23 EUR
 currency: EUR
 price: 5.23

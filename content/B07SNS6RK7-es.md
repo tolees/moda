@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/418Fwnt+tWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SNS6RK7-es'
+slug: 'B07SNS6RK7-es Levi s Orig Hm Vneck Camiseta  Negro  Mineral Black 0001   Small para Hombre'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

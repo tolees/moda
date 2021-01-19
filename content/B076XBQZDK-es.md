@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/419hBdST8uL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076XBQZDK-es'
+slug: 'B076XBQZDK-es Geox Jr Piuma Ballerine A  Bailarinas para Niñas  Plateado  Pearl   33 EU'
 actualPrice: 28.95 EUR
 currency: EUR
 price: 28.95

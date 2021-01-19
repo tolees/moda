@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41z70oo26rL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08239PVTD-es'
+slug: 'B08239PVTD-es Levi s The tee Camiseta  Serif con Caviar De Cactus  M para Mujer'
 actualPrice: 14.45 EUR
 currency: EUR
 price: 14.45

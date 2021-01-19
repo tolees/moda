@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51A1eTmNPeL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LBM1JH1-es'
+slug: 'B07LBM1JH1-es Napapijri Goderich Camisa  Multicolor  Check C18   46  Talla del Fabricante: X-Large  para Hombre'
 actualPrice: 39.5 EUR
 currency: EUR
 price: 39.5

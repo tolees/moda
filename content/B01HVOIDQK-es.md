@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31tkkitGnwL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HVOIDQK-es'
+slug: 'B01HVOIDQK-es Meller - Kubu Glawi Carbon - Gafas de sol para hombre y mujer'
 actualPrice: 24.0 EUR
 currency: EUR
 price: 24.0

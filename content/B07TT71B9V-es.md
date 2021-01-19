@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31aejabSkdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TT71B9V-es'
+slug: 'B07TT71B9V-es Levi s 501 Crop Vaqueros Boyfriend  Blanco  In The Clouds 0032   24W / 30L para Mujer'
 actualPrice: 49.5 EUR
 currency: EUR
 price: 49.5

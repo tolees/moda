@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51m2QQ0Vx5L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RX9HML9-es'
+slug: 'B07RX9HML9-es Grebarley Fitness Gloves Levantamiento de Pesas  protección Total de la Palma  Transpirable  Guantes de Entrenamiento para Hombres y Mujeres  Negro  S '
 actualPrice: 12.59 EUR
 currency: EUR
 price: 12.59

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31JF+A9u8mL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KHTM68I-es'
+slug: 'B00KHTM68I-es Under Armour UA Heatgear Short Sleeve Camiseta  Hombre  Blanco  White/Graphite 100   L'
 actualPrice: 18.15 EUR
 currency: EUR
 price: 18.15

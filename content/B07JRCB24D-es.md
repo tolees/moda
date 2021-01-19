@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41t6CIMTWDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JRCB24D-es'
+slug: 'B07JRCB24D-es Tommy Hilfiger Logo T-Shirt Camiseta Informal  Rojo  Haute Red 611   X-Large para Hombre'
 actualPrice: 25.57 EUR
 currency: EUR
 price: 25.57

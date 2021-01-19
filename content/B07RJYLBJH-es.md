@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Zk8h+H47L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RJYLBJH-es'
+slug: 'B07RJYLBJH-es ARTESANIA CERDA MOCHILA CASUAL MODA MICKEY'
 actualPrice: 13.6 EUR
 currency: EUR
 price: 13.6

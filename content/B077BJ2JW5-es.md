@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/411EezPsZ5L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B077BJ2JW5-es'
+slug: 'B077BJ2JW5-es FIND Camiseta Ciclismo Hombre  Negro  Black/acid Lime   52  Talla del fabricante: Large '
 actualPrice: 12.37 EUR
 currency: EUR
 price: 12.37

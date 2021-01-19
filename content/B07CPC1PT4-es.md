@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41EqBxjgnVL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CPC1PT4-es'
+slug: 'B07CPC1PT4-es Crocs Crocband Clog Kids  Zuecos Unisex Niños  Verde  Army Green/Burnt Sienna 3tb   24/25 EU'
 actualPrice: 17.91 EUR
 currency: EUR
 price: 17.91

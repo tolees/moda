@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41m+jXOLj6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CZN43LY-es'
+slug: 'B07CZN43LY-es Levi s The Perfect Tee  Camiseta  Mujer  Blanco  New Red Box Taba White 0370   XS'
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BG2X7npBL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B082V4GGKQ-es'
+slug: 'B082V4GGKQ-es Canadian Peak Abrigo'
 actualPrice: 77.4 EUR
 currency: EUR
 price: 77.4

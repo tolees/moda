@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41u64R+US8L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QGG48TR-es'
+slug: 'B07QGG48TR-es PUMA Collective Woven Jacket Chaqueta de Entrenamiento  Hombre  Black/Gibraltar Sea  L'
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

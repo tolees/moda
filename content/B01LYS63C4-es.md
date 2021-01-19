@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Gw7ME7eEL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LYS63C4-es'
+slug: 'B01LYS63C4-es Levi s Levis 200SF Vintage Stripe 0312 Boxer Brief  Pantalones para Hombre  Gris  Middle Grey Melange 758   Talla del Fabricante: Small   Pack de 2'
 actualPrice: 12.5 EUR
 currency: EUR
 price: 12.5

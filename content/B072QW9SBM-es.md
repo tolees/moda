@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31wAQOmrwWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072QW9SBM-es'
+slug: 'B072QW9SBM-es Lee Twin Pack Crew Camiseta  Multicolor  2 Pack Mix Aikw   XX-Large 2 para Hombre'
 actualPrice: 15.39 EUR
 currency: EUR
 price: 15.39

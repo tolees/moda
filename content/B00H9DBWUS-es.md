@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31EFmH0k5uL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00H9DBWUS-es'
+slug: 'B00H9DBWUS-es VAUDE 50393005500 Abrigo y Chaqueta - Abrigos y Chaquetas  Azul  Abrigo  Chubasquero  Adulto  Poncho  Poliéster '
 actualPrice: 40.26 EUR
 currency: EUR
 price: 40.26

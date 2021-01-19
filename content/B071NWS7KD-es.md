@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41BOPF65auL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071NWS7KD-es'
+slug: 'B071NWS7KD-es Marca Amazon - find. Camiseta con Estampado Gráfico para Hombre  Gris  Light Grey   S  Label: S'
 actualPrice: 4.89 EUR
 currency: EUR
 price: 4.89

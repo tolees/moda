@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41PQlNGeTrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TR3DB68-es'
+slug: 'B07TR3DB68-es Clarks Sharon Crystal  Zapatos de Cordones Derby para Mujer  Beige  Sand Sand   39.5 EU'
 actualPrice: 22.17 EUR
 currency: EUR
 price: 22.17

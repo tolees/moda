@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41kULv3lyHL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V2ZN5D4-es'
+slug: 'B07V2ZN5D4-es Wrangler ICONS Chaqueta Vaquera  Azul  6 Months 923   Small para Hombre'
 actualPrice: 25.52 EUR
 currency: EUR
 price: 25.52

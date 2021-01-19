@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31WOWNdrNaL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XDXGYKP-es'
+slug: 'B06XDXGYKP-es Prada 0PR17SS VH43C2 53 Gafas de Sol  Verde  Bordeaux/Green/Grey   Unisex-Adulto'
 actualPrice: 150.5 EUR
 currency: EUR
 price: 150.5

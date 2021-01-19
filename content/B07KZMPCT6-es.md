@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51IFKqKhCRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KZMPCT6-es'
+slug: 'B07KZMPCT6-es Zapatos de Seguridad para Hombre Zapatillas Zapatos de Mujer Seguridad de Acero Ligeras Calzado de Trabajo para Comodas Unisex Zapatos de Industria y Construcción Rojo 42'
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

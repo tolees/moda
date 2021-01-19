@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61tLLA+2hsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07146QQKZ-es'
+slug: 'B07146QQKZ-es Hill Burry Cartera de Cuero para Mujer | Billetera - Monedero de Cuero Genuino con Aspecto Vintage | Mujeres - Hombre | XXL Largo Grande Capacidad  Rojo '
 actualPrice: 49.9 EUR
 currency: EUR
 price: 49.9

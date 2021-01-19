@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51RyPCY1fpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XT4Q9D1-es'
+slug: 'B06XT4Q9D1-es YAZILIND 18K joyeria plateada oro colorido cristal Cubic Zirconia bola embutido redondo pendiente llenada de diseno claro senoras mujeres moda aretes para ninas'
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

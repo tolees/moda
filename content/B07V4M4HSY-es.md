@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41uQc2eUEnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V4M4HSY-es'
+slug: 'B07V4M4HSY-es Love Moschino Jc4200pp0a  Bolso tipo tote para Mujer  Rosa  Powder   40x20x12 Centimeters  W x H x L '
 actualPrice: 73.3 EUR
 currency: EUR
 price: 73.3

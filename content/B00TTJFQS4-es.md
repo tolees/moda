@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/317iihs9d1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00TTJFQS4-es'
+slug: 'B00TTJFQS4-es Clarks Tilden Walk  Zapatos de Cordones Derby  Negro  Black Leather-   41.5 EU'
 actualPrice: 40.21 EUR
 currency: EUR
 price: 40.21

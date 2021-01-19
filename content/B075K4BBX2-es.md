@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51XSQrEVnKL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075K4BBX2-es'
+slug: 'B075K4BBX2-es SAGUARO® Invierno Al Aire Libre Zapatillas Caliente Slippers Interior Suave Algodón Zapatilla Mujer Hombres Casa Zapatos  Amarillo 42'
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

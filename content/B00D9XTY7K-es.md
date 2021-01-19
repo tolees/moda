@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/417DuGrNkYL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00D9XTY7K-es'
+slug: 'B00D9XTY7K-es Rhino- Falda pantalón de deporte para mujer'
 actualPrice: 22.2 EUR
 currency: EUR
 price: 22.2

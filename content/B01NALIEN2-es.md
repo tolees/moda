@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/316xYF-K3aL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NALIEN2-es'
+slug: 'B01NALIEN2-es Crocs Crocband Clog K  Zuecos con Correa Unisex Niños  Azul  Ice Blue/White   33/34 EU'
 actualPrice: 18.72 EUR
 currency: EUR
 price: 18.72

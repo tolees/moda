@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31yj+nNhQYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QB881DD-es'
+slug: 'B07QB881DD-es PUMA Classics T7 Jacket TR G Chaqueta De Entrenamiento  Niñas  Black  140'
 actualPrice: 27.45 EUR
 currency: EUR
 price: 27.45

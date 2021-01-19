@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41B1hSKc5hL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VDCKKMJ-es'
+slug: 'B07VDCKKMJ-es Napapijri Gode Camisa  Multicolor  Red Check 38c 38c1   Large para Hombre'
 actualPrice: 34.2 EUR
 currency: EUR
 price: 34.2

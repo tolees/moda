@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/318rdNM2IjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VC4N8Q9-es'
+slug: 'B07VC4N8Q9-es Calvin Klein CK Essential Slim V Neck tee Camiseta  Azul  Night Sky Chw   X-Large para Hombre'
 actualPrice: 22.55 EUR
 currency: EUR
 price: 22.55

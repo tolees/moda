@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/418-pvRoZqL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N9HWDZC-es'
+slug: 'B01N9HWDZC-es find. Jersey de Crochet con Hombros al Aire para Mujer   Blanco  White   38  Talla del Fabricante: Small '
 actualPrice: 7.5 EUR
 currency: EUR
 price: 7.5

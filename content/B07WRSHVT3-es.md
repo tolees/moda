@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/415hfUTuJcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WRSHVT3-es'
+slug: 'B07WRSHVT3-es Charles Wilson Originals Sudadera Algodón Ligera Capucha Cremallera  Large  Olive  0819  '
 actualPrice: 18.95 EUR
 currency: EUR
 price: 18.95

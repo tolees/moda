@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41fsevbCYkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HKTJ2PY-es'
+slug: 'B07HKTJ2PY-es Under Armour Sc 3zer0 Iii Zapatos de Baloncesto Hombre  Blanco  White/Mod Gray/Mod Gray  100  100   36 EU'
 actualPrice: 49.29 EUR
 currency: EUR
 price: 49.29

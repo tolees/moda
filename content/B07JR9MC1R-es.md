@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31q1xmNVG8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JR9MC1R-es'
+slug: 'B07JR9MC1R-es Tommy Hilfiger TJM Classics Logo tee Camisa  Negro  Tommy Black 078   X-Small para Hombre'
 actualPrice: 27.95 EUR
 currency: EUR
 price: 27.95

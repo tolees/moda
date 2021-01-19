@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31hSm5W3kBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077XM3DV5-es'
+slug: 'B077XM3DV5-es Under Armour Tech 2.0. Camiseta masculina  camiseta transpirable  ancha camiseta para gimnasio de manga corta y secado rápido  White/Overcast Gray  100   LG'
 actualPrice: 18.9 EUR
 currency: EUR
 price: 18.9

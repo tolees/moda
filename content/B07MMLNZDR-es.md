@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41qkf-xigAL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MMLNZDR-es'
+slug: 'B07MMLNZDR-es Napapijri DROZ Jersey  Azul  French Blue BB7   M para Hombre'
 actualPrice: 44.5 EUR
 currency: EUR
 price: 44.5

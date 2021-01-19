@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31O9wNWXhXL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HMZPL4T-es'
+slug: 'B07HMZPL4T-es Nike M NSW tee Icon Futura Camiseta  Hombre  Midnight Navy/White/Orange Pulse  L'
 actualPrice: 8.65 EUR
 currency: EUR
 price: 8.65

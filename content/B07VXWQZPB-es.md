@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/410n8f4Y8qL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VXWQZPB-es'
+slug: 'B07VXWQZPB-es Pepe Jeans Golders Camiseta  Azul  Light Thames 533   Large para Hombre'
 actualPrice: 14.0 EUR
 currency: EUR
 price: 14.0

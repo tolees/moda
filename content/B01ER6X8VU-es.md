@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31rCC1yeAqL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01ER6X8VU-es'
+slug: 'B01ER6X8VU-es Mercedes-Benz Sonnenbrille M1047 Gafas de sol  Negro  Schwarz   61.0 para Hombre'
 actualPrice: 22.49 EUR
 currency: EUR
 price: 22.49

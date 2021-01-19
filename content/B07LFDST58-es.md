@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51XgwIPFRYL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFDST58-es'
+slug: 'B07LFDST58-es Levi s Sunset 1 Pocket Shirt Camisa  Multicolor  Rushmeyer Indigo 0425   XX-Large para Hombre'
 actualPrice: 48.3 EUR
 currency: EUR
 price: 48.3

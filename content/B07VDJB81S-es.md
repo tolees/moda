@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41+xCuJUiyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VDJB81S-es'
+slug: 'B07VDJB81S-es Desigual Vest Tresor Vestido  Negro  Negro 2000   42  Talla del Fabricante: 40  para Mujer'
 actualPrice: 26.18 EUR
 currency: EUR
 price: 26.18

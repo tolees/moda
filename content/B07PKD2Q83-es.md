@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31RWx6Nt0uL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PKD2Q83-es'
+slug: 'B07PKD2Q83-es find. Kitten Heel Point Toe Zapatos con Tira de Tobillo  Red  40 EU'
 actualPrice: 5.05 EUR
 currency: EUR
 price: 5.05

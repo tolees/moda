@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31YkLWcn02L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QFQ4BGF-es'
+slug: 'B07QFQ4BGF-es Gafas de Sol polarizadas Deportivas para Hombres  Mujeres  jóvenes  béisbol  Ciclismo  Correr  Conducir  Pescar  Golf  Motocicleta  TAC  Gafas  Blanco Rojo '
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

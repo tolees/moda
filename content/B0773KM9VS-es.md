@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51223CDqzeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0773KM9VS-es'
+slug: 'B0773KM9VS-es KONXIDO Serie de Moda Reloj Hombre Limunoso Impermeable de Cuarzo Calendario con Esfera Analógica Dijital Negra y Correa Lujosa de Cuero Genuino - Reloj de Diseño de Moda con Caja de Acero Inoxidable'
 actualPrice: 13.03 EUR
 currency: EUR
 price: 13.03

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41WRJi4Pv1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K2Z8WJ7-es'
+slug: 'B07K2Z8WJ7-es Under Armour UA SC 3ZER0 III  Zapatos de Baloncesto para Hombre  Azul  Harbour Blue/Khaki Base/Wire  402  402   48 EU'
 actualPrice: 49.97 EUR
 currency: EUR
 price: 49.97

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41AymgzebhL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JG7TB7R-es'
+slug: 'B07JG7TB7R-es Pepe Jeans Chaplin 1973 Camiseta  Blanco  Optic White 802   10-11 años  Talla del Fabricante: 140/10 años  para Niños'
 actualPrice: 17.95 EUR
 currency: EUR
 price: 17.95

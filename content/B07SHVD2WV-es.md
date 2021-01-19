@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41BaaxxYwxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SHVD2WV-es'
+slug: 'B07SHVD2WV-es Under Armour Performance Polo 2.0 Men s Polo Camiseta Polo Transpirable  cómoda Camisa Polo Masculina de Manga Corta  Hombre  Azul  LG'
 actualPrice: 35.42 EUR
 currency: EUR
 price: 35.42

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31EDeOCVWpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RYSZZD5-es'
+slug: 'B07RYSZZD5-es Lacoste TH2036 - Camiseta de Manga Corta para Hombre  Cuello en V  Corte Regular Baobab S7T  XS'
 actualPrice: 27.11 EUR
 currency: EUR
 price: 27.11

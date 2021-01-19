@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41X0pRv3vxL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01ERWBWIA-es'
+slug: 'B01ERWBWIA-es Joma Campus II Camiseta de Juego Manga Larga  Hombre  Burdeos/Celeste  XS'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

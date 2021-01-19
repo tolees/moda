@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31L35-A3xQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MFBT3HY-es'
+slug: 'B07MFBT3HY-es Kickers Home  Zapatos de Cordones Derby para Mujer  Negro  Noir 8   36 EU'
 actualPrice: 16.48 EUR
 currency: EUR
 price: 16.48

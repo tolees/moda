@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/512kH6euJkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00JGMK8I2-es'
+slug: 'B00JGMK8I2-es LEVIS FOOTWEAR AND ACCESSORIES Vintage Two Horse Bifold  Monedero Unisex Adulto  Negro  2x10x11 cm  W x H x L '
 actualPrice: 31.95 EUR
 currency: EUR
 price: 31.95

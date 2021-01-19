@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31-pluFzhYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SKWLQZP-es'
+slug: 'B07SKWLQZP-es Havaianas Top Vibes  Chanclas para Mujer  Multicolor  Turquoise 0212   41/42 EU'
 actualPrice: 8.95 EUR
 currency: EUR
 price: 8.95

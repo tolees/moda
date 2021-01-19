@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61xhYz7qN7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XAPGDW6-es'
+slug: 'B00XAPGDW6-es Collar - Envueltos - Caramelo comprimido - 1020 g'
 actualPrice: 8.93 EUR
 currency: EUR
 price: 8.93

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Y-8U1TC0L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075L9QNG2-es'
+slug: 'B075L9QNG2-es VENI MASEE Bolso de noche de flores para mujer Bolso de embrague retro con cuentas Bolso de embrague Bolso del banquete de boda Bolso bandolera con lentejuelas hoja de lentejuelas'
 actualPrice: 12.84 EUR
 currency: EUR
 price: 12.84

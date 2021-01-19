@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51MRW6-FzFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DK84CHR-es'
+slug: 'B07DK84CHR-es GoPetee Collar Antiladridos para Perros Pequeños Medianos y Grandes Sin Choque Collar Adiestramiento Perros con Sonidos y Vibraciones Audibles Chip Avanzado con 7 Nieveles de Sensibilidad Ajustables'
 actualPrice: 12.59 EUR
 currency: EUR
 price: 12.59

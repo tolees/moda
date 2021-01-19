@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/415MBfPqXwL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFM9K65-es'
+slug: 'B07LFM9K65-es Levi s HR Decon Iconic BF Skirt Falda  Gris  Snakehead 0002   Talla única  Talla del Fabricante: 25  para Mujer'
 actualPrice: 25.95 EUR
 currency: EUR
 price: 25.95

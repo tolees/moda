@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4163+cM4DWL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NWYWKHB-es'
+slug: 'B07NWYWKHB-es Bolso de viaje 52 cm Pepe Jeans Ason'
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

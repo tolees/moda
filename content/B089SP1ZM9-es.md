@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61e70eYUxjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089SP1ZM9-es'
+slug: 'B089SP1ZM9-es Gifort Rotuladores para Tela Permanentes  24 Colores Marcadores Textiles Sin Sangrado y No Tóxico para Niños Adultos Regalos Artesanales  Camisetas  Jeans  Zapatos  Bolsos'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

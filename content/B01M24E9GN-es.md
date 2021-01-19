@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51%2B55zT6DZL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M24E9GN-es'
+slug: 'B01M24E9GN-es flintronic Cartera Tarjeta de Crédito  Slim Billetera Hombre de Piel Auténtica  Mini Monedero con Cremallera para ID  Tarjetas Crédito  Licencia de Conducir  Azul '
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

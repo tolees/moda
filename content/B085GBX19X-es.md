@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51P0Rg7tDpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085GBX19X-es'
+slug: 'B085GBX19X-es CAVEEN Organizador de Sofá - 2 Piezas  Organizador de Reposabrazos para Sofá con 6 Bolsas  Organizador de Sillón  para Poner Teléfono  Control Remoto  Revista  Gafas  Libro Marrón '
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

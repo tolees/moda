@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31tMem3hnRL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MQGESND-es'
+slug: 'B01MQGESND-es Deportes Hera Pantalón De Running Mallas De Correr Compresivas Ligeras Yoga Fitness Hombre Ropa Deportiva'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

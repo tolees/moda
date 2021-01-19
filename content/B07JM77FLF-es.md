@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41mTfZ3TLYL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JM77FLF-es'
+slug: 'B07JM77FLF-es Timberland Adventure 2.0 Cupsole Alpine  Zapatillas Bajas para Hombre  Verde  Dk Green Full Grain   45 EU'
 actualPrice: 31.32 EUR
 currency: EUR
 price: 31.32

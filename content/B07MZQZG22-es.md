@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41gkEynT1PL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZQZG22-es'
+slug: 'B07MZQZG22-es Pepe Jeans Golders Camiseta  Gris  Misty Grey 921   Medium para Hombre'
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

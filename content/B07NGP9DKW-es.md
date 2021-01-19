@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/3111etaHAUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NGP9DKW-es'
+slug: 'B07NGP9DKW-es Marca Amazon - find. Vestido Corto con Estampado de Rayas para Mujer  Rojo  Red   44  Label: XL'
 actualPrice: 4.78 EUR
 currency: EUR
 price: 4.78

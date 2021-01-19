@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/314yAGlQecL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N1HY6BB-es'
+slug: 'B07N1HY6BB-es Clarks Un Adorn Lo  Zapatos de Cordones Derby para Mujer  Marrón  Aubergine Combi Aubergine Combi   36 EU'
 actualPrice: 40.98 EUR
 currency: EUR
 price: 40.98

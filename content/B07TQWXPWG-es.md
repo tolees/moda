@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41riwnA6jiL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TQWXPWG-es'
+slug: 'B07TQWXPWG-es G-STAR RAW Graphic 15 Hooded Sudadera  Multicolor  Mazarine Blue/Sartho Blue/Grey Htr B051   X-Large para Hombre'
 actualPrice: 44.97 EUR
 currency: EUR
 price: 44.97

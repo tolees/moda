@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31--MybSb0L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KJWXJ6H-es'
+slug: 'B07KJWXJ6H-es El Naturalista N5353 VAQUETILLA Aqua  Sandalias con Correa de Tobillo para Mujer  Marrón  Caramel Caramel   40 EU'
 actualPrice: 23.96 EUR
 currency: EUR
 price: 23.96

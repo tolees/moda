@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41x04upQQVL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JWVGYVT-es'
+slug: 'B07JWVGYVT-es Columbia Fire Venture S II WP  Zapatos de Senderismo Impermeables para Mujer  Gris  Titanium MHW  P 049   38.5 EU'
 actualPrice: 69.98 EUR
 currency: EUR
 price: 69.98

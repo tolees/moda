@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411RjEdLy+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FKQT5WV-es'
+slug: 'B07FKQT5WV-es Battle Royale Camiseta para niño Gaming Negro 13-14 Años'
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

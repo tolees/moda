@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Z1EpPTt6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00MR17BFW-es'
+slug: 'B00MR17BFW-es G-STAR RAW Lynn Mid Waist Skinny Vaqueros  Azul  Medium Aged 6550   27W / 30L para Mujer'
 actualPrice: 50.0 EUR
 currency: EUR
 price: 50.0

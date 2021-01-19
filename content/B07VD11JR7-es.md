@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51sadjDUWhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VD11JR7-es'
+slug: 'B07VD11JR7-es edc by Esprit 099cc1g012 Chaqueta  Marrón  Camel 230   X-Small para Mujer'
 actualPrice: 17.71 EUR
 currency: EUR
 price: 17.71

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Nmzhc549L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFV9DJ2-es'
+slug: 'B07LFV9DJ2-es Geox D Calinda High A  Botines para Mujer  Marrón  Chestnut C6004   41 EU'
 actualPrice: 33.96 EUR
 currency: EUR
 price: 33.96

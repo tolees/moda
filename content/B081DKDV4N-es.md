@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31kEhdgqKJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081DKDV4N-es'
+slug: 'B081DKDV4N-es BILLABONG™ - Bañador de Surf de pantalón - Hombre - M - Negro'
 actualPrice: 20.44 EUR
 currency: EUR
 price: 20.44

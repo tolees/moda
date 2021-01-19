@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31BHG5phgaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DJ3R9CX-es'
+slug: 'B07DJ3R9CX-es Geox D New Annya A  Zapatos de Tacón para Mujer  Negro  Black C9999   36 EU'
 actualPrice: 43.41 EUR
 currency: EUR
 price: 43.41

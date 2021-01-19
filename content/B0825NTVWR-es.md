@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31CzkkknAHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0825NTVWR-es'
+slug: 'B0825NTVWR-es Quiksilver Stone Cold Classic - Camiseta para Hombre Screen tee  Hombre  White  XL'
 actualPrice: 16.94 EUR
 currency: EUR
 price: 16.94

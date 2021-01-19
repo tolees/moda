@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41CPhw24oWL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B075S5Q7XG-es'
+slug: 'B075S5Q7XG-es IRIS & LILLY Camisón Corto de Tirantes con Detalle de Encaje para Mujer  Verde  Mint Green   Medium'
 actualPrice: 11.5 EUR
 currency: EUR
 price: 11.5

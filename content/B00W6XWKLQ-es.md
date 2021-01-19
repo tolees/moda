@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41FyaCSwBzL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00W6XWKLQ-es'
+slug: 'B00W6XWKLQ-es GANT Regular Jeans Vaqueros Straight  Marrón  Desert Brown 261   W34/L36  Talla del Fabricante: 34/36  para Hombre'
 actualPrice: 53.64 EUR
 currency: EUR
 price: 53.64

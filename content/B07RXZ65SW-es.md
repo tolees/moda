@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41NwPfK4uML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RXZ65SW-es'
+slug: 'B07RXZ65SW-es Pepe Jeans Cash Vaqueros Straight  Azul  Medium Used 000   W36/L32 para Hombre'
 actualPrice: 41.64 EUR
 currency: EUR
 price: 41.64

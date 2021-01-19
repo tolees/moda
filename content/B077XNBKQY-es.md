@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41AoNPel96L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077XNBKQY-es'
+slug: 'B077XNBKQY-es Under Armour Rival Fleece Po Hoodie Sudadera con Capucha  Hombre  Gris  Steel Light Heather/Black 036   XL'
 actualPrice: 35.9 EUR
 currency: EUR
 price: 35.9

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/319zN8zFD9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FSK8QFH-es'
+slug: 'B07FSK8QFH-es Clarks Mena Blossom  Zapatos de Tacón para Mujer  Plateado  Champagne-   37.5 EU'
 actualPrice: 35.75 EUR
 currency: EUR
 price: 35.75

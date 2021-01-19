@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41xMf-KFxtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PT8VGHB-es'
+slug: 'B07PT8VGHB-es Under Armour UA Knockout Tank  Camiseta de Tirantes  Camiseta Deportiva para Mujer Mujer  Blanco  White/White/Black  100    XS'
 actualPrice: 16.01 EUR
 currency: EUR
 price: 16.01

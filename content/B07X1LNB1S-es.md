@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ebm0nNd9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X1LNB1S-es'
+slug: 'B07X1LNB1S-es Pepe Jeans Hatch Vaqueros Ajustados  Azul  000Denim 000   34W / 34L para Hombre'
 actualPrice: 28.22 EUR
 currency: EUR
 price: 28.22

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51tF2rGo-gL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0824XWPLY-es'
+slug: 'B0824XWPLY-es WeciBor Calcetines Hasta La Pantorrilla Para Hombre Estampados Hombres Ocasionales Calcetines Divertidos Impresos de Algodón de Pintura Famosa de Arte Calcetines de Colores de moda'
 actualPrice: 17.98 EUR
 currency: EUR
 price: 17.98

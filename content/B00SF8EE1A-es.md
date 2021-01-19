@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41I+KRo2FIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00SF8EE1A-es'
+slug: 'B00SF8EE1A-es G-STAR RAW Revend Skinny Vaqueros  Dk Aged 6590-89  38W / 36L para Hombre'
 actualPrice: 40.23 EUR
 currency: EUR
 price: 40.23

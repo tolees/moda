@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31lJmsSLN6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SRK965S-es'
+slug: 'B07SRK965S-es Geox D Jaysen A  Zapatillas para Mujer  Blanco  White/Orange C0422   36 EU'
 actualPrice: 38.33 EUR
 currency: EUR
 price: 38.33

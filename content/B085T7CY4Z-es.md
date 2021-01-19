@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41YwDUyfzPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085T7CY4Z-es'
+slug: 'B085T7CY4Z-es LIVACASA Riñoneras Mujeres Deportivas Riñoneras de Moda Impermeable de Marcha Running Brillante Ligero Bolsa de Cinturón Bandorela para Correr Ciclismo Paseo al Aire Libre Negro Brillante'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

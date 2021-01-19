@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41kNd5mm7TL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0876LGBCD-es'
+slug: 'B0876LGBCD-es Sandalias duraderas para Hombres Sandalias de Verano para Hombres Sandalias y Zapatillas Casuales Zapatos de Playa Transpirables Moda Sandalias de Fondo Suave y cómodas-Negro 36'
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41YICNWSNGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MJBKYCF-es'
+slug: 'B07MJBKYCF-es Hackett London Amr Wings tee Camiseta  Verde  Dusty Olive 6dy   XX-Large para Hombre'
 actualPrice: 15.63 EUR
 currency: EUR
 price: 15.63

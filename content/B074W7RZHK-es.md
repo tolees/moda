@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41N67QHM+HL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074W7RZHK-es'
+slug: 'B074W7RZHK-es Marca Amazon - MERAKI Chaqueta de Algodón Mujer Cuello Redondo  Verde  Khaki   48  Label: 3XL'
 actualPrice: 4.24 EUR
 currency: EUR
 price: 4.24

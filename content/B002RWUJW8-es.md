@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/317I4YhM8HL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002RWUJW8-es'
+slug: 'B002RWUJW8-es CMP - Pantalón de esquí para niños negro negro Talla:98'
 actualPrice: 21.95 EUR
 currency: EUR
 price: 21.95

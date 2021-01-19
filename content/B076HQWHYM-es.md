@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41tXMycABsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076HQWHYM-es'
+slug: 'B076HQWHYM-es Adidas CORE18 SW Top Sudadera  Hombre  Azul  Azul/Blanco   L'
 actualPrice: 23.1 EUR
 currency: EUR
 price: 23.1

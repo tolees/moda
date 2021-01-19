@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/311t6n5sPvL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QHKQL8F-es'
+slug: 'B07QHKQL8F-es PUMA Nu-Tility tee Camiseta  Hombre  Black  L'
 actualPrice: 12.49 EUR
 currency: EUR
 price: 12.49

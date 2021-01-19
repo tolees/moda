@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41TSgPnt2%2BL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LG42ZHS-es'
+slug: 'B07LG42ZHS-es Geox B RISHON Girl B  Zapatillas para Bebés  Gris  Dk Grey/Pink C0952   18 EU'
 actualPrice: 28.4 EUR
 currency: EUR
 price: 28.4

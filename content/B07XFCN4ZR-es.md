@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51s8yNOMKcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XFCN4ZR-es'
+slug: 'B07XFCN4ZR-es Zapatillas de Deportivos de Running para Hombre Gimnasia Ligero Sneakers Transpirable con Cordones Zapatillas Deportivas Fitness Atlético Caminar Zapatos 40EU'
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

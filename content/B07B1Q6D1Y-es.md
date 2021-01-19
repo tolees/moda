@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31xIkCDGEwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B1Q6D1Y-es'
+slug: 'B07B1Q6D1Y-es Fruit of the Loom - Camiseta básica de Manga Corta Tacto Super Suave Modelo Sofspun Unisex Niños Niñas - Deportes/Gimnasia/Correr  7-8 Años   Amarillo '
 actualPrice: 3.7 EUR
 currency: EUR
 price: 3.7

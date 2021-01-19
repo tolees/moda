@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41d9X-4TGeL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B072MS8QW2-es'
+slug: 'B072MS8QW2-es find. 17 03 LLF 04 vestido fiesta mujer  Rojo  Rot   40  Talla del Fabricante: Medium '
 actualPrice: 7.8 EUR
 currency: EUR
 price: 7.8

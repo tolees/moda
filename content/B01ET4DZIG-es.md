@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/414icOQjgWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01ET4DZIG-es'
+slug: 'B01ET4DZIG-es Helly Hansen W Aden Down Parka  Mujer  Black  M'
 actualPrice: 133.42 EUR
 currency: EUR
 price: 133.42

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/418S+E1IQDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N1JDZK7-es'
+slug: 'B07N1JDZK7-es Clarks Step Explorhi  Botines para Mujer  Azul  Navy Navy   40 EU'
 actualPrice: 25.62 EUR
 currency: EUR
 price: 25.62

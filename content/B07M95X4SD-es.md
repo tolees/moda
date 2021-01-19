@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/315m5EguhCL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M95X4SD-es'
+slug: 'B07M95X4SD-es Wrangler High Rise Skinny Vaqueros  Azul  Night Blue 78y   27W / 32L para Mujer'
 actualPrice: 52.99 EUR
 currency: EUR
 price: 52.99

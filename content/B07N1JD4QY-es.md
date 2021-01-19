@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ngXZdl3xL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N1JD4QY-es'
+slug: 'B07N1JD4QY-es Clarks Laina RAE  Botines para Mujer  Marrón Dark Brown  36 EU'
 actualPrice: 27.94 EUR
 currency: EUR
 price: 27.94

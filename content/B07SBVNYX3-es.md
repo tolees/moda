@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31RmBjCyQlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SBVNYX3-es'
+slug: 'B07SBVNYX3-es PUMA CALI WN S Zapatos Deportivos Mujer  Blanco  Puma White-Puma Black 17   38.5 EU'
 actualPrice: 50.95 EUR
 currency: EUR
 price: 50.95

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41AGUVIZgtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0814BBR2T-es'
+slug: 'B0814BBR2T-es Columbia Delta Ridge Chaqueta con Capucha  Hombre  Azul  Night Tide   M'
 actualPrice: 83.49 EUR
 currency: EUR
 price: 83.49

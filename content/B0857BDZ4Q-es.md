@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41yazfZ-vPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0857BDZ4Q-es'
+slug: 'B0857BDZ4Q-es GRIMEY Sudadera Acknowledge Hoodie SS20 Sport Grey-XS'
 actualPrice: 55.92 EUR
 currency: EUR
 price: 55.92

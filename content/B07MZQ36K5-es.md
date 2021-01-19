@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Cs+sNxZGL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZQ36K5-es'
+slug: 'B07MZQ36K5-es Pepe Jeans Lucas Sudadera   Ivy 673   Large para Hombre'
 actualPrice: 23.59 EUR
 currency: EUR
 price: 23.59

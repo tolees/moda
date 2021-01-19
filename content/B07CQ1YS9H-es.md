@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41hZUEsQ3YL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CQ1YS9H-es'
+slug: 'B07CQ1YS9H-es Lee Daren Zip Fly Vaqueros Rectos  Azul  Time out Dn   34W / 30L para Hombre'
 actualPrice: 49.98 EUR
 currency: EUR
 price: 49.98

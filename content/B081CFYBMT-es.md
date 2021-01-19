@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41cvx8i%2BkrL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B081CFYBMT-es'
+slug: 'B081CFYBMT-es Geographical Norway Chaqueta Hombre BOKER MARRÓN M'
 actualPrice: 79.2 EUR
 currency: EUR
 price: 79.2

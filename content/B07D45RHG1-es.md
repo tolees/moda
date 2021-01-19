@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31Xsy1k0SQL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D45RHG1-es'
+slug: 'B07D45RHG1-es FIND Court Zapatos de Tacón  Rosa Nude  39 EU'
 actualPrice: 25.2 EUR
 currency: EUR
 price: 25.2

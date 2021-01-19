@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41htTvcNq-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083VXB14G-es'
+slug: 'B083VXB14G-es Donpapa Mujer Traje de Baño Tankinis Hálter Falda Push Up Bikini Conjunto de Malla Playa Ropa de Baño de Cintura Alta Estrella Negra S '
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

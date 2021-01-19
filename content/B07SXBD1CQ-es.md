@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/313CHFieRgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SXBD1CQ-es'
+slug: 'B07SXBD1CQ-es Quiksilver Monkey Abyss  Zapatos de Playa y Piscina para Hombre  Azul Blue Black Blue Xbkb  42 EU'
 actualPrice: 14.49 EUR
 currency: EUR
 price: 14.49

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41YfwEBjGiL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MXWRPKM-es'
+slug: 'B07MXWRPKM-es Desigual 19WAXPAF - Bolso de hombro de Sintético Mujer 36x16x31 cm  B x H x T '
 actualPrice: 35.29 EUR
 currency: EUR
 price: 35.29

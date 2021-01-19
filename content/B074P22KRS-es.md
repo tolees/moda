@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31SJrO9FlEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074P22KRS-es'
+slug: 'B074P22KRS-es Marca Amazon - find. Vestido de Canalé Mujer  Negro  Black   38  Label: S'
 actualPrice: 5.77 EUR
 currency: EUR
 price: 5.77

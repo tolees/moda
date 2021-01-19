@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41jt-N7koyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0897Q9XKZ-es'
+slug: 'B0897Q9XKZ-es qingqingR Bolso Bandolera de Cuero de Mujer para Mujer Bolso Bandolera de Hombro Ajustable Bolso'
 actualPrice: 24.32 EUR
 currency: EUR
 price: 24.32

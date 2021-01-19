@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51hHQwTKpyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087CHXQQ5-es'
+slug: 'B087CHXQQ5-es SYOSIN Luz de Anillo LED  10.2" con Trípode Stand Control Remoto Bluetooth Soporte para Teléfono  3 Modos de Luz y 11 Niveles de Brillo para Maquillaje  Youtube Video  Belleza y Fotografía de Moda'
 actualPrice: 14.44 EUR
 currency: EUR
 price: 14.44

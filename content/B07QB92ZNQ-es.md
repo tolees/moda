@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31nAZ9lMkJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QB92ZNQ-es'
+slug: 'B07QB92ZNQ-es PUMA Manchester City FC Kids Replica Dodge Jersey  Unisex niños  Amarillo  Fizzy Yellow-Georgia Peach   164'
 actualPrice: 39.9 EUR
 currency: EUR
 price: 39.9

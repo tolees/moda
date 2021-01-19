@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41HvBTdCkRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08MQDG76W-es'
+slug: 'B08MQDG76W-es Geographical Norway Chaqueta de hombre BOKER AZUL MARINO talla L'
 actualPrice: 49.9 EUR
 currency: EUR
 price: 49.9
@@ -25,8 +25,8 @@ Está [Geographical Norway Chaqueta de hombre BOKER AZUL MARINO talla L](https:/
 
 ℹ️:
 
-- pelo destomtable
 - Chaqueta de hombre
+- pelo destomtable
 - Capucha
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08MQDG76W/?tag=tolees-21)

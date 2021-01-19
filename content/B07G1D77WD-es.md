@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/513+Q3+3EuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G1D77WD-es'
+slug: 'B07G1D77WD-es Feilaxleer Ropa Ciclismo Verano para Hombre y Mujer - Un Conjunto de Ciclismo Jersey Maillot y Culotte Pantalones Cortos'
 actualPrice: 33.89 EUR
 currency: EUR
 price: 33.89

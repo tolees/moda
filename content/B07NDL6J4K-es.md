@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41IdaXtUrcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NDL6J4K-es'
+slug: 'B07NDL6J4K-es G-STAR RAW Mysid Slim Round Neck Camiseta  Multicolor  Grey Htr/Mazarine Blue Stripe A679   36  Talla del Fabricante: X-Small  para Mujer'
 actualPrice: 9.91 EUR
 currency: EUR
 price: 9.91

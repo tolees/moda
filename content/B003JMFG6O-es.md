@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Mi1K3zDqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003JMFG6O-es'
+slug: 'B003JMFG6O-es Geox J Savage G  Zapatillas para Niños  Negro  Black C9999   26 EU'
 actualPrice: 16.53 EUR
 currency: EUR
 price: 16.53

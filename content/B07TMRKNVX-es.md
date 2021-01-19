@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/318fi27V6aL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TMRKNVX-es'
+slug: 'B07TMRKNVX-es Clarks Stanford Walk  Zapatos de Cordones Derby  Negro  Black Leather Black Leather   41 EU'
 actualPrice: 50.55 EUR
 currency: EUR
 price: 50.55

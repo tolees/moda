@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41MsQ8IDphL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FRBTMFP-es'
+slug: 'B07FRBTMFP-es Clarks Batcombe Wing  Zapatos de Cordones Derby  Marrón  Tan Leather-   41.5 EU'
 actualPrice: 53.14 EUR
 currency: EUR
 price: 53.14

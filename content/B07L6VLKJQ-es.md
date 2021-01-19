@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ehmVrT2yL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L6VLKJQ-es'
+slug: 'B07L6VLKJQ-es DC Shoes Circle Star - Camiseta - Hombre - S'
 actualPrice: 22.43 EUR
 currency: EUR
 price: 22.43

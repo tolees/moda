@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417dAVj4i1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SSJW3FN-es'
+slug: 'B07SSJW3FN-es Geox U Adrien B  Zapatos de Cordones Derby para Hombre  Marrón  Browncotto C6003   40 EU'
 actualPrice: 34.78 EUR
 currency: EUR
 price: 34.78

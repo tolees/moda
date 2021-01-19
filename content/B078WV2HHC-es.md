@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41Aj7scvZSL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B078WV2HHC-es'
+slug: 'B078WV2HHC-es Quiksilver Carver Nubuck  Chanclas para Hombre  Beige  Tan-Solid TKD0   41 EU'
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

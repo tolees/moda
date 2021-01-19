@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31aVRijmxbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TJX17FL-es'
+slug: 'B07TJX17FL-es Lacoste Sport Sh7609 Sudadera  Rojo  Corrida/Noir G64   Large  Talla del Fabricante: 5  para Hombre'
 actualPrice: 54.95 EUR
 currency: EUR
 price: 54.95

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412+21wvadL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZQ39D2-es'
+slug: 'B07MZQ39D2-es Pepe Jeans Loganne Sudadera   Dulwich 594   Medium para Hombre'
 actualPrice: 53.45 EUR
 currency: EUR
 price: 53.45

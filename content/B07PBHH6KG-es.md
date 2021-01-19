@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41N+Ky-4o+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PBHH6KG-es'
+slug: 'B07PBHH6KG-es JOINFREE Zapatos de Agua para niños Calzado de Secado rápido Calcetines Deportivos Aqua Botines Playa Piscina Lago Calzado Dot Blue 18-37 EU'
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41NfxonHaYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MNTDZCD-es'
+slug: 'B07MNTDZCD-es oodji Ultra Mujer Blusa Ancha con Escote Gota en la Espalda  Verde  ES 34 / XXS'
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

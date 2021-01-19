@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41TNmyuUxaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IPFNS78-es'
+slug: 'B01IPFNS78-es Helly Hansen Crew Chaqueta Deportiva  Hombre  Azul  Azul Navy   Medium  Tamaño del Fabricante:M '
 actualPrice: 62.99 EUR
 currency: EUR
 price: 62.99

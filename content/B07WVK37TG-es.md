@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51BK6uSKflL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WVK37TG-es'
+slug: 'B07WVK37TG-es YUNB Gafas de Seguridad de oscurecimiento LCD automático Gafas de Soldadura con energía Solar Cascos de Soldadura para Soldador Máscara con 2 Protectores de Pantalla de PC reemplazables'
 actualPrice: 12.79 EUR
 currency: EUR
 price: 12.79

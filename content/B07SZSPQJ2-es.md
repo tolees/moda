@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41hCEKEGMqL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SZSPQJ2-es'
+slug: 'B07SZSPQJ2-es Tom Tailor Ray Camisa  Rojo  Black Red Minimal De 19536   XXX-Large para Hombre'
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

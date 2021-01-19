@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Z-lfYAt3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W94KXP4-es'
+slug: 'B07W94KXP4-es LuckyGirls Zapatos de Deporte  Zapatillas de Deporte Calzado Deportivo Hombre Zapatos para Correr Sneakers Running Sports Ocio Deportes Fitness 39-44'
 actualPrice: 11.63 EUR
 currency: EUR
 price: 11.63

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/418ouMMXCVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TT7C55Q-es'
+slug: 'B07TT7C55Q-es Clarks Surfing Tide T  Sandalias Punta Cerrada para Niñas  Rosa  Pink Combi Pink Combi   22 EU'
 actualPrice: 18.62 EUR
 currency: EUR
 price: 18.62

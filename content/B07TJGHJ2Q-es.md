@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41gq8Kh+b8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TJGHJ2Q-es'
+slug: 'B07TJGHJ2Q-es Superdry OL Vintage EMB Crew Camiseta  Azul  Desert Sky Blue Grit Z7z   X-Large para Hombre'
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

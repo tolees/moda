@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41W198uHPCL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NDM81W9-es'
+slug: 'B07NDM81W9-es G-STAR RAW 3301 Slim Vaqueros  Pitch Black B964-A810  34W / 40L para Hombre'
 actualPrice: 32.05 EUR
 currency: EUR
 price: 32.05

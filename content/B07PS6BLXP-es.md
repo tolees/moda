@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31AvTpbkXmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PS6BLXP-es'
+slug: 'B07PS6BLXP-es CARE OF by PUMA Sudadera de manga larga con cuello redondo para hombre  Negro  Black   S  Label: S'
 actualPrice: 15.38 EUR
 currency: EUR
 price: 15.38

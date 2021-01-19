@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41RWBD9VCrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S4X8G9C-es'
+slug: 'B07S4X8G9C-es Levi s The Perfect Tee  Camiseta  Mujer  Amarillo  Brw T2 Ochre 0778   S'
 actualPrice: 20.3 EUR
 currency: EUR
 price: 20.3

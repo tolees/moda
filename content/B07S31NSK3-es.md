@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41J2CaQseSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S31NSK3-es'
+slug: 'B07S31NSK3-es Columbia Vapor Vent  Zapatos para Hombre  Azul  Pool/Red Quartz 421   42 EU'
 actualPrice: 51.99 EUR
 currency: EUR
 price: 51.99

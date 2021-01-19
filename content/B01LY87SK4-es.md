@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31vn2U7-c4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LY87SK4-es'
+slug: 'B01LY87SK4-es Trangoworld Inobe Termic Parka  Hombre  Kaki  2XL'
 actualPrice: 209.99 EUR
 currency: EUR
 price: 209.99

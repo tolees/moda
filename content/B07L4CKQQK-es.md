@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41YfKL0l9JL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L4CKQQK-es'
+slug: 'B07L4CKQQK-es Tamaris 1-1-22444-23  Zapatos de Tacón para Mujer  Rojo  Chili Patent 520   39 EU'
 actualPrice: 24.95 EUR
 currency: EUR
 price: 24.95

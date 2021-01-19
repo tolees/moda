@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41CxEc51hzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0743C1PCJ-es'
+slug: 'B0743C1PCJ-es Marca Amazon - Lark & Ro Classic Cap-Sleeve Wrap Dress Vestido  Wine Floral  M'
 actualPrice: 13.45 EUR
 currency: EUR
 price: 13.45

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4111hBYAHLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z6WVRXT-es'
+slug: 'B07Z6WVRXT-es Hi-Tec Cove Breeze  Sandalias Deportivas para Hombre  Gris  Charcoal/Black/Red Orange 052   40 EU'
 actualPrice: 27.25 EUR
 currency: EUR
 price: 27.25

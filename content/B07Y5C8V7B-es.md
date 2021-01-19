@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41OIeIPHYxL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y5C8V7B-es'
+slug: 'B07Y5C8V7B-es Geographical Norway Sudadera DE Hombre GYMCLASS B Naranja M'
 actualPrice: 27.3 EUR
 currency: EUR
 price: 27.3

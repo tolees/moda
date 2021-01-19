@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31xicIlf7YL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFZC671-es'
+slug: 'B07LFZC671-es Geox Women s D New ANNYA MID A Closed Toe Heels  Blue  Navy C4002   4 UK'
 actualPrice: 29.29 EUR
 currency: EUR
 price: 29.29

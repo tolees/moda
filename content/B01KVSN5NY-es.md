@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31a7TMJd2VL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01KVSN5NY-es'
+slug: 'B01KVSN5NY-es Timberland Adventure 2.0 Cupsole Alpine Oxford  Zapatillas Bajas para Hombre  Negro Black Nubuck  40 EU'
 actualPrice: 70.49 EUR
 currency: EUR
 price: 70.49

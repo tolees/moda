@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41cntzjcgML._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MM626RL-es'
+slug: 'B07MM626RL-es Levi s Levis 200sf Sprtswr Logo Color Boxer Brief 2p  Multicolor  Island Green 506   Large  Pack de 2 para Hombre'
 actualPrice: 12.5 EUR
 currency: EUR
 price: 12.5

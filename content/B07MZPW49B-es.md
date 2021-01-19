@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41TsobpK5UL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZPW49B-es'
+slug: 'B07MZPW49B-es Pepe Jeans Kurt Camiseta   Brass 891   Medium para Hombre'
 actualPrice: 9.87 EUR
 currency: EUR
 price: 9.87

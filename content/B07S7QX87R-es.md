@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31BYxz7rd5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S7QX87R-es'
+slug: 'B07S7QX87R-es PUMA Cozy Flip  Zapatos de Playa y Piscina Unisex-Adulto  Gris  Castlerock/Hot Coral 07   38 EU'
 actualPrice: 14.91 EUR
 currency: EUR
 price: 14.91

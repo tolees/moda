@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41nken2+RGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WRHZC54-es'
+slug: 'B07WRHZC54-es PINPOXE Guantes Esquí  Guantes de Invierno  Pantalla Táctil Guantes  Impermeable a Prueba de Agua Invierno para Ciclismo Escalada Senderismo Acampada Guantes esquí Mujeres Hombres  XL'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

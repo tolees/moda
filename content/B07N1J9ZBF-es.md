@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31zZdf7gtnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N1J9ZBF-es'
+slug: 'B07N1J9ZBF-es Clarks Kaylin Cara  Zapatos de Tacón para Mujer  Negro Black Pat  38 EU'
 actualPrice: 32.84 EUR
 currency: EUR
 price: 32.84

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31zTrjwl1FL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B006SWCLTW-es'
+slug: 'B006SWCLTW-es Helly Hansen W Seven J Chaqueta  Mujer  Negro  L'
 actualPrice: 79.94 EUR
 currency: EUR
 price: 79.94

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51OORA2+EKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JKSDJXL-es'
+slug: 'B07JKSDJXL-es BOYOU Guantes de Ciclismo a Prueba de Viento para Hombre  Guantes de Invierno con Pantalla táctil para Hombres'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

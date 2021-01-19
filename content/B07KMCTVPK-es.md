@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41TEUyVeqIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KMCTVPK-es'
+slug: 'B07KMCTVPK-es Marca Amazon - find. Americana de Lino Mujer  Negro  Black   38  Label: S'
 actualPrice: 7.6 EUR
 currency: EUR
 price: 7.6

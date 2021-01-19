@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Ze5ldFPVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MVRG1D9-es'
+slug: 'B07MVRG1D9-es Joules Golightly Abrigo para Lluvia  Morado  Berry Peony Berry Peony   40 para Mujer'
 actualPrice: 31.51 EUR
 currency: EUR
 price: 31.51

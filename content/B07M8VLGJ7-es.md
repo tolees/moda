@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/418y0V8+KLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M8VLGJ7-es'
+slug: 'B07M8VLGJ7-es Lee Elly Vaqueros  Negro/Lavado Negro  Light Blue Taos Bg   W25/L33 para Mujer'
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

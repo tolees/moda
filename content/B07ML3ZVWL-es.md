@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Um39kVLLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ML3ZVWL-es'
+slug: 'B07ML3ZVWL-es Clarks Un Cosmo Step  Zapatos de Tacón para Mujer  Azul  Blush Leather Blush Leather   39.5 EU'
 actualPrice: 32.69 EUR
 currency: EUR
 price: 32.69

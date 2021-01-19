@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Wmo77OEyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GJXMD4K-es'
+slug: 'B07GJXMD4K-es Marca Amazon - MERAKI Paula Paper Bag - Pantalones Mujer  Gris  Dark Olive Dark Olive   44  Label: XL'
 actualPrice: 21.0 EUR
 currency: EUR
 price: 21.0

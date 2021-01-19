@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41hfdkWod4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D6KQVG1-es'
+slug: 'B07D6KQVG1-es Ronamick Sandalen - Sandalias de Vestir de Poliuretano para Mujer  Color Negro  Talla 35 EU'
 actualPrice: 1.49 EUR
 currency: EUR
 price: 1.49

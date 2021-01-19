@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41binE++vZL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TFDGBQ3-es'
+slug: 'B07TFDGBQ3-es Quiksilver Brooks 5k Chaqueta Impermeable  Hombre  Gris  Medium Grey Heather   L'
 actualPrice: 77.49 EUR
 currency: EUR
 price: 77.49

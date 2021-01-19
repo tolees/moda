@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ZOJv6HI2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X8GBQJZ-es'
+slug: 'B07X8GBQJZ-es SHIELDON Funda Portátil 13.5 Pulgadas  Maletín Portatil Impermeable Funda Protectora para iPad Pro 12.9  MacBook Air  MacBook Pro  Surface Book2  ASUS  HP  Bolso Funda para Ordenador Portátil  Negro'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

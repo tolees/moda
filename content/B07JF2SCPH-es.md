@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61OXbCQbalL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JF2SCPH-es'
+slug: 'B07JF2SCPH-es P Prettyia 20 Juegos De Botines con Ganchos De Encaje con Remaches Hebillas De Cordones Reparación Y Senderismo'
 actualPrice: 9.34 EUR
 currency: EUR
 price: 9.34

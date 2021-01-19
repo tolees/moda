@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4151TUW3VAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S2S5VX9-es'
+slug: 'B07S2S5VX9-es Levi s The Jacket  Chaqueta vaquera  Azul  Moon Lit Trucker 0466   Medium para Hombre'
 actualPrice: 73.99 EUR
 currency: EUR
 price: 73.99

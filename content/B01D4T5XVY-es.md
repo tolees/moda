@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31dRmiuz9oL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01D4T5XVY-es'
+slug: 'B01D4T5XVY-es Elli Pendientes básicos de moda forma circular en plara de ley 925'
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

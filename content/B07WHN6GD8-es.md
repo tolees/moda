@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51YT7vERMLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WHN6GD8-es'
+slug: 'B07WHN6GD8-es Linen Family Disfraz de cosplay de anime adulto unisex Sudadera con capucha impresa en 3D Sudadera de varios colores XL'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/418ZWnvFO1L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PT1HFP9-es'
+slug: 'B07PT1HFP9-es MTNG KADIRI  Bolso totes para Mujer  Marrón  Pull Camel/Gris   18x19x18 cm  W x H x L '
 actualPrice: 8.22 EUR
 currency: EUR
 price: 8.22

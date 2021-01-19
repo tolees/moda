@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41I3NkH7RJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VVFHSLL-es'
+slug: 'B07VVFHSLL-es Tommy Hilfiger TJM Bold tee Camiseta  Azul  Twilight Navy Stripe 0ze   Large para Hombre'
 actualPrice: 15.27 EUR
 currency: EUR
 price: 15.27

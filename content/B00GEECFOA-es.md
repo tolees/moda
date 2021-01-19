@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41pLM0x+EFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00GEECFOA-es'
+slug: 'B00GEECFOA-es Rieker Mujer Sandalias de Vestir 62461  señora Sandalias de cuña  Zapatos del Verano cómodo tacón Alto Schwarz/Schwarz / 00 40 EU / 6.5 UK'
 actualPrice: 48.16 EUR
 currency: EUR
 price: 48.16

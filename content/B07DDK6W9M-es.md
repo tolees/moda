@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41RjtQJuUSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DDK6W9M-es'
+slug: 'B07DDK6W9M-es Marca Amazon - find. Rose Print Sudadera Mujer  Multicolor  Multi   38  Label: S'
 actualPrice: 9.46 EUR
 currency: EUR
 price: 9.46

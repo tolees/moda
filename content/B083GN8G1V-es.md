@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41cbzK2MYHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083GN8G1V-es'
+slug: 'B083GN8G1V-es Zapatos Deporte Mujer Zapatillas Deportivas Correr Gimnasio Casual Zapatos para Caminar Mesh Running Transpirable Aumentar Más Altos Sneakers Black-38'
 actualPrice: 21.98 EUR
 currency: EUR
 price: 21.98

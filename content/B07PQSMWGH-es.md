@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51bqswWB4tL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PQSMWGH-es'
+slug: 'B07PQSMWGH-es deAO Juego del Lejano Oeste Conjunto de Vaqueros y Nativos Americanos Figuras de Acción Cowboy Playset con Accesorios Incluidos Funciones de Luz y Sonidos'
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

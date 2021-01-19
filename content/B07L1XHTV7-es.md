@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41LYAIJmilL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L1XHTV7-es'
+slug: 'B07L1XHTV7-es Under Armour  UNDKU  Performance 2.0 Divot Stripe  Camisa Polo Hombre  Verde  Tandem Teal 431   S'
 actualPrice: 10.67 EUR
 currency: EUR
 price: 10.67

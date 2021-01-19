@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51-7lNekcNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007QAQQ14-es'
+slug: 'B007QAQQ14-es Cressi Portofino  Chanclas Flip Flops  Hombre  Azul/Blanco  Blau/Weiß   42 EU'
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41BCR71EdiL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NQPD12R-es'
+slug: 'B07NQPD12R-es Springfield 7Ba C/Red G7 Block Torzal Jersey  Azul  Blue 11   X-Small  Tamaño del Fabricante: XS  para Hombre'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

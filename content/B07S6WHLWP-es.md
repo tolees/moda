@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Mcxp7K0zL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S6WHLWP-es'
+slug: 'B07S6WHLWP-es El Naturalista N5144  Botines para Mujer  Rojo  Rioja Rioja   39 EU'
 actualPrice: 73.37 EUR
 currency: EUR
 price: 73.37

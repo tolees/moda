@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31A7wX659UL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VDRWNP8-es'
+slug: 'B07VDRWNP8-es Calvin Klein Zip Through HD Jacket Chaqueta  Blanco  Bright White Yaf   X-Large para Hombre'
 actualPrice: 53.26 EUR
 currency: EUR
 price: 53.26

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/5120khSoYmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0899JPMST-es'
+slug: 'B0899JPMST-es Zapatos de Seguridad para Mujer Zapatillas Zapatos de Hombre Seguridad de Acero Ligeras Calzado de Trabajo para Comodas Unisex Zapatos de Industria y Construcción Negro 44'
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41pzUBcEPuL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZPX557-es'
+slug: 'B07MZPX557-es Pepe Jeans Makeba Camiseta   Black 999   17-18 años de Edad  Talla del Fabricante: 17/18 años  para Niñas'
 actualPrice: 7.62 EUR
 currency: EUR
 price: 7.62

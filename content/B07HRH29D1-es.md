@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31jyj-uBL5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HRH29D1-es'
+slug: 'B07HRH29D1-es Alvivi Uniforme de Trabajo Bata Blanca Abrigo de Laboratorio Farmacia Estetoscopio de Juguete Traje de Doctor Enfermera Sanitario Chaqueta Disfraz Cosplay Conjunto Blanco 7-8 años'
 actualPrice: 9.49 EUR
 currency: EUR
 price: 9.49

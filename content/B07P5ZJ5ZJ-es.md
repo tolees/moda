@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41EFQoICHJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P5ZJ5ZJ-es'
+slug: 'B07P5ZJ5ZJ-es Lee Elly Vaqueros  Naranja  Potter S Clay 93   27W / 33L para Mujer'
 actualPrice: 15.93 EUR
 currency: EUR
 price: 15.93

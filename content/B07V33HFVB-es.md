@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/419zxkyhYpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V33HFVB-es'
+slug: 'B07V33HFVB-es BOSS Trunk 3p Co/El Bóxer  Multicolor  Open Miscellaneous 50426021-962   S  Pack de 3  para Hombre'
 actualPrice: 19.24 EUR
 currency: EUR
 price: 19.24

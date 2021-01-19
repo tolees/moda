@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41rkOsLAeSL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z1HWP68-es'
+slug: 'B07Z1HWP68-es EVERU Conjunto de Joyas Corazón de Plata 925 para Mujeres  Juego de Collar y Aretes Brillante Circonita Regalos Originales con Hermosa Caja Regalo  Azul '
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

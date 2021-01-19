@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ob5wpi8pL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V12JYNN-es'
+slug: 'B07V12JYNN-es Women s Secret Glitter Multilicense VR All I Want PJ Conjuntos de Pijama  Gris  Gama Grises 48   Medium  Tamaño del Fabricante: M  para Mujer'
 actualPrice: 16.87 EUR
 currency: EUR
 price: 16.87

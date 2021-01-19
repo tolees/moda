@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Cxzlz6TwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MSB3D2C-es'
+slug: 'B07MSB3D2C-es Marca Amazon - MERAKI Polo Hombre  Gris  Grey Marl   S  Label: S'
 actualPrice: 6.37 EUR
 currency: EUR
 price: 6.37

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411IuPXa8xL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SFY8B5D-es'
+slug: 'B07SFY8B5D-es Jacqueline de Yong NOS Jdycrea Treats L/s Noos Cardigan Knt Chaqueta Punto  Gris  Dark Grey Melange Dark Grey Melange   40  Talla del Fabricante: Medium  para Mujer'
 actualPrice: 5.8 EUR
 currency: EUR
 price: 5.8

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Wlck9dIQL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T289TWC-es'
+slug: 'B07T289TWC-es Organizador de Equipaje de Viaje  7 Piezas Impermeables Cubos de lavandería Bolsas de compresión Bolsas Maleta Organizador de artículos de Aseo para Ropa  Zapatos  Ropa Interior  cosméticos  Libros'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

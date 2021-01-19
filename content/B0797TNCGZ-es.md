@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41QmhCr7xUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0797TNCGZ-es'
+slug: 'B0797TNCGZ-es VIFUUR Zapatos de Agua Aqua Yoga para Mujer Hombre LoveNegro EU36/37'
 actualPrice: 14.66 EUR
 currency: EUR
 price: 14.66

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31YH7UelOlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S11V5LL-es'
+slug: 'B07S11V5LL-es Only Frsfalcon Zip Hood Sweat-Unit Sudadera con Capucha de Deporte  Azul  Navy Blazer Navy Blazer   X-Large para Hombre'
 actualPrice: 9.74 EUR
 currency: EUR
 price: 9.74

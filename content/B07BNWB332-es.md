@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41hYkf7YNLL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BNWB332-es'
+slug: 'B07BNWB332-es Columbia Ruckel Ridge Plus Waterproof  Zapatos Impermeables de Senderismo para Hombre  Marrón  Cordovan  Madder Brown 231   44 EU'
 actualPrice: 48 EUR
 currency: EUR
 price: 48

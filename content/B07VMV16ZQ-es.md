@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41J909cuuFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VMV16ZQ-es'
+slug: 'B07VMV16ZQ-es Lee Luke Vaqueros  Moto Used Zu  32W / 34L para Hombre'
 actualPrice: 58.93 EUR
 currency: EUR
 price: 58.93

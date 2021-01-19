@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51BrvKiGreL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YCFBPYJ-es'
+slug: 'B07YCFBPYJ-es LYSHION Mochilas para Pañales Biberones Pañal Bolso Mochila Multifuncional de Gran Capacidad'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

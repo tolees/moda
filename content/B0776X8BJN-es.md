@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-LJyGuLqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0776X8BJN-es'
+slug: 'B0776X8BJN-es Tommy Hilfiger Scanton Vaqueros  Azul  Berry Mid Blue Comfort 911   27W / 34L para Hombre'
 actualPrice: 21.36 EUR
 currency: EUR
 price: 21.36

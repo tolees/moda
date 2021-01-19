@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31SKiOj+k8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RY18YRV-es'
+slug: 'B07RY18YRV-es Only Frsfrankie Training SS tee-Unit Camiseta  Negro  Black Detail: Melange   Large para Hombre'
 actualPrice: 7.45 EUR
 currency: EUR
 price: 7.45

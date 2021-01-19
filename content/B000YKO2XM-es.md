@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31-o-INQHRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000YKO2XM-es'
+slug: 'B000YKO2XM-es Havaianas Top  Chanclas Unisex Adulto  Negro  Black   41/42 EU'
 actualPrice: 13.45 EUR
 currency: EUR
 price: 13.45

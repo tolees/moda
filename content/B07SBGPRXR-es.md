@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31UUqNfoNdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SBGPRXR-es'
+slug: 'B07SBGPRXR-es Lee Scarlett High Zip Vaqueros Skinny  Azul  Mulberry It   27W / 35L para Mujer'
 actualPrice: 40.4 EUR
 currency: EUR
 price: 40.4

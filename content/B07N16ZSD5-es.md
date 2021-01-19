@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41RPxXrRmiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N16ZSD5-es'
+slug: 'B07N16ZSD5-es G-STAR RAW 3301 Slim Fit Jeans Vaqueros  Worker Blue Faded  25W / 30L para Hombre'
 actualPrice: 44.58 EUR
 currency: EUR
 price: 44.58

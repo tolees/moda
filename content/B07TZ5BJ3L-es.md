@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41S0Eo8sXpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TZ5BJ3L-es'
+slug: 'B07TZ5BJ3L-es Women s Secret Trendy Tapestry TT Indiana White PJ Conjuntos de Pijama  Marfil  Marfil 97   Large  Tamaño del Fabricante: L  para Mujer'
 actualPrice: 17.36 EUR
 currency: EUR
 price: 17.36

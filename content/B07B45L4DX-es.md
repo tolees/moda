@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41cWK2ld6zL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B45L4DX-es'
+slug: 'B07B45L4DX-es SELECTED HOMME Slhslimpreston-Clean Shirt LS B Noos Camisa  Azul  Light Blue Light Blue   Medium para Hombre'
 actualPrice: 20.03 EUR
 currency: EUR
 price: 20.03

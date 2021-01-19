@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/514kSrgFNdL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WSWZ353-es'
+slug: 'B07WSWZ353-es Deevike Pantuflas Zapatillas Hombre Invierno CáLido Zapatos Memory Foam Antideslizante Zapatillas de Estar por Casa Marrón 40/41 EU'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

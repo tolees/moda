@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51W4EKLRTEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PT6SNHV-es'
+slug: 'B07PT6SNHV-es Marca Amazon - TRUTH & FABLE Vestido Midi Evasé de Gasa Mujer  Multicolor  Black/White Spot   38  Label: S'
 actualPrice: 6.4 EUR
 currency: EUR
 price: 6.4

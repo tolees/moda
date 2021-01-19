@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41LWewOewSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BY9M7F1-es'
+slug: 'B08BY9M7F1-es AMZTM Zapatos de Agua Niño Chicos  Tiburón Zapatillas Acuáticas Secado Rápido Tipo Calcetines Descalzado  Escarpines Deportivos para Paseo Playa Buceo Snorkel Kayak Surf tiburón  Numeric 24 '
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

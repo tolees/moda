@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41z3LkiV0sL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0825NMJSH-es'
+slug: 'B0825NMJSH-es Quiksilver Drift Away - Camiseta para Hombre Screen tee  Hombre  Stone Wash  M'
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

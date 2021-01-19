@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51-DE+Owh0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D5XWS1V-es'
+slug: 'B07D5XWS1V-es CLUB CUBANA Camisa Hawaiana Florar Casual Manga Corta Ajuste Regular para Hombre M'
 actualPrice: 15.49 EUR
 currency: EUR
 price: 15.49

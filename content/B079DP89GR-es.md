@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31XuJPhcAVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079DP89GR-es'
+slug: 'B079DP89GR-es Ever-Pretty A-línea Vestido de Noche Gasa Cuello en V sin Mangas Largo para Mujer Borgoña 38'
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

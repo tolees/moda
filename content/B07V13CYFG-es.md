@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31eVc9fml4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V13CYFG-es'
+slug: 'B07V13CYFG-es Women s Secret Generic Funny GD Koala PJ Conjuntos de Pijama  Gris  Gama Grises 46   Large  Tamaño del Fabricante: L  para Mujer'
 actualPrice: 23.29 EUR
 currency: EUR
 price: 23.29

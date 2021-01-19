@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41JHjg2CtVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085WM1P1L-es'
+slug: 'B085WM1P1L-es Verano de Deportivo Tops de Yoga Vests para Mujer Blusa Camisetas sin Mangas Running Ropa Tank Tops Chaleco Vest T Shirt Púrpura S'
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

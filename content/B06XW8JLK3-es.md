@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31zmNfHjhVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XW8JLK3-es'
+slug: 'B06XW8JLK3-es Amazon Essentials 6-Pack Crewneck Undershirts Camisa  Blanco  White   Medium'
 actualPrice: 15.75 EUR
 currency: EUR
 price: 15.75

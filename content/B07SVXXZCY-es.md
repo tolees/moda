@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31fGmzGNlDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SVXXZCY-es'
+slug: 'B07SVXXZCY-es Geox D Taormina F  Sandalias con Punta Abierta para Mujer  Negro  Black C9999   38 EU'
 actualPrice: 27.15 EUR
 currency: EUR
 price: 27.15

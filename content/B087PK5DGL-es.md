@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51WhbF2uijL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087PK5DGL-es'
+slug: 'B087PK5DGL-es Gracemee Mujer Moda Stiletto Heels Zapatos Ponerse Basic Pumps Dedo del Pie Puntiagudo Heels Fiesta Boda Oficina Zapatos Stripes Blue-12CM Size 35'
 actualPrice: 47.6 EUR
 currency: EUR
 price: 47.6

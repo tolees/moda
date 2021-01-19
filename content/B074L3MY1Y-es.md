@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31nWGetIS9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074L3MY1Y-es'
+slug: 'B074L3MY1Y-es SELECTED HOMME Shharo Ss Embroidery Polo Noos  Camiseta Polo Hombre  Rosa  Cabaret   S'
 actualPrice: 8.85 EUR
 currency: EUR
 price: 8.85

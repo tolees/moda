@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/413POjq1HWL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B079FV6RG6-es'
+slug: 'B079FV6RG6-es Under Armour Sport Style Wind Anorak Chaqueta  Hombre  Negro Y Gris  M'
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

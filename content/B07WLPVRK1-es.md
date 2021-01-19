@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41a-qNnnbgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WLPVRK1-es'
+slug: 'B07WLPVRK1-es Tommy Hilfiger Classic Parte de Arriba de Bikini  Azul  Pitch Blue 654-870   XL para Mujer'
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ZitQ8kCHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073RP94PF-es'
+slug: 'B073RP94PF-es Helly Hansen Crew Windbreaker Chaqueta  Hombre  Navy  S'
 actualPrice: 68.37 EUR
 currency: EUR
 price: 68.37

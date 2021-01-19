@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Qk4-He0jL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFMSFTV-es'
+slug: 'B07LFMSFTV-es Levi s The Ultimate BF Shirt Blusa  Azul  Fondulac Sodalite Blue 0003   Small para Mujer'
 actualPrice: 21.47 EUR
 currency: EUR
 price: 21.47

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416A3M+k6jL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0721WBBGL-es'
+slug: 'B0721WBBGL-es adidas Entrada 18 JSY Jersey de Fútbol de Manga Corta  Hombre  Rojo  Power Red/White   L'
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

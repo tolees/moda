@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31b9YH2x22L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NDL68C2-es'
+slug: 'B07NDL68C2-es G-STAR RAW Stem Round Neck Camiseta  Beige  Milk 111   XX-Small para Hombre'
 actualPrice: 7.97 EUR
 currency: EUR
 price: 7.97

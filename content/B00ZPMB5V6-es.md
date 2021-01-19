@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Chsw613DL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ZPMB5V6-es'
+slug: 'B00ZPMB5V6-es LEE  Daren Worn Grayly - Vaqueros para hombre  Azul  Strong Hand Db   40W x 34L'
 actualPrice: 24.63 EUR
 currency: EUR
 price: 24.63

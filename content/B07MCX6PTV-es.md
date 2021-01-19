@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41R3wFe5iHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MCX6PTV-es'
+slug: 'B07MCX6PTV-es Hot One Cambios De Color Monederos y Bolsos Luminosos Geométricos Monedero Holográfico Monedero Reflectante Mochilas De Moda  9# Bolso Negro  M '
 actualPrice: 23.91 EUR
 currency: EUR
 price: 23.91

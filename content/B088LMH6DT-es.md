@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Inl4y7D1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088LMH6DT-es'
+slug: 'B088LMH6DT-es RAIN BOW ISLAND Zuecos Clásicos con Correa Trasera  Hombre Adulto  Negro'
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

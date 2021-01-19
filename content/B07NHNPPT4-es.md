@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31uUnq4xJXL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NHNPPT4-es'
+slug: 'B07NHNPPT4-es Tamaris 1-1-25059-23  Botines para Mujer  Rojo  Bordeaux 549   37 EU'
 actualPrice: 19.37 EUR
 currency: EUR
 price: 19.37

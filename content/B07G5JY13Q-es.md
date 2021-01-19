@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31orAsgN7rL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G5JY13Q-es'
+slug: 'B07G5JY13Q-es Marca Amazon - Hem & Seam Camisa Lisa Regular Fit Hombre  Pack de 3  Blau  Blue / Blue / Blue   39 cm  Label: M'
 actualPrice: 16.32 EUR
 currency: EUR
 price: 16.32

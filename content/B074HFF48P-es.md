@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31DnYnrSGnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074HFF48P-es'
+slug: 'B074HFF48P-es FitFlop Lulu Leather Toepost  Sandalias con Plataforma para Mujer  Negro  Black 001   36 EU'
 actualPrice: 55.57 EUR
 currency: EUR
 price: 55.57

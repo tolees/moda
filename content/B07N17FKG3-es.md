@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4155MgtBlRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N17FKG3-es'
+slug: 'B07N17FKG3-es Lee Scarlett Vaqueros Skinny  Gris  Dark Grey Ovid Dw   25W / 33L para Mujer'
 actualPrice: 11.48 EUR
 currency: EUR
 price: 11.48

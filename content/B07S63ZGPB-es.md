@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31l-x1agp3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S63ZGPB-es'
+slug: 'B07S63ZGPB-es Crocs Crocband Flip Women  Chanclas para Mujer  Verde  Neo Mint 3ti   42/43 EU'
 actualPrice: 11.25 EUR
 currency: EUR
 price: 11.25

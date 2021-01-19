@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31p2BpSsXmL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B079LCTZV7-es'
+slug: 'B079LCTZV7-es Lacoste TH6709  Camiseta para Hombre  Azul  Bleu 001   5XL  Talla del fabricante: 10 '
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

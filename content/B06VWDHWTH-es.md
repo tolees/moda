@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/313Q9tgOpjL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06VWDHWTH-es'
+slug: 'B06VWDHWTH-es Braun Silk-épil 3 3-321 - Depiladora para mujer con rodillos de masaje y recortadora para la línea del bikini  blanco/rosa'
 actualPrice: 34.98 EUR
 currency: EUR
 price: 34.98

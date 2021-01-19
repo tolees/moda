@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41aLEhTuGnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0764JPDXF-es'
+slug: 'B0764JPDXF-es Kipling IZELLAH  Bolso bandolera para Mujer  Marrón  True Beige   33x23x12 cm'
 actualPrice: 46.99 EUR
 currency: EUR
 price: 46.99

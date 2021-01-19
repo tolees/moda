@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51wSgqVa94L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DJ8PV11-es'
+slug: 'B07DJ8PV11-es Honghu Verano Sexy Mangas Corta Low Culleo Slim Fit Vestido para Mujer Party Dress  S  Red-2 '
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

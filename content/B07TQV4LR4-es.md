@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31xAc68jpyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TQV4LR4-es'
+slug: 'B07TQV4LR4-es Clarks Un Tynamo Tie  Zapatos de Cordones Brogue para Hombre  Negro  Black Leather Black Leather   41.5 EU'
 actualPrice: 89.95 EUR
 currency: EUR
 price: 89.95

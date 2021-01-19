@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41UcCXO4UCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CQTW89I-es'
+slug: 'B01CQTW89I-es Glop Games- Princesa Disney  muñeca Vaiana Detalle. Fíjate en su Pelo  Vestido  Flor de Polinesia Toddler 35cm  38 cm  04703 '
 actualPrice: 19.49 EUR
 currency: EUR
 price: 19.49

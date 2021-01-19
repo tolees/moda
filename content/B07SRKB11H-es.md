@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31zaOYizrjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SRKB11H-es'
+slug: 'B07SRKB11H-es Geox D SUZZIE D  Zapatillas sin Cordones para Mujer  Blanco  White/Lt Gold C1327   40 EU'
 actualPrice: 28.44 EUR
 currency: EUR
 price: 28.44

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41SGS27DtBL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00VLNXTNA-es'
+slug: 'B00VLNXTNA-es Levi s L/S Barstow Western Shirt  Camisa Casual de Manga Larga para Hombre  Azul  Red Cast Stone   XX-Large'
 actualPrice: 59.95 EUR
 currency: EUR
 price: 59.95

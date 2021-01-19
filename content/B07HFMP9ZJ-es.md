@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31HnCoMHuGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HFMP9ZJ-es'
+slug: 'B07HFMP9ZJ-es Tommy Hilfiger Modern Jaspe Camiseta  Blanco  Classic White 100   Medium para Hombre'
 actualPrice: 19.49 EUR
 currency: EUR
 price: 19.49

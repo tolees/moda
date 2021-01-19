@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41w+HnF+1AL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RZ2D4C1-es'
+slug: 'B07RZ2D4C1-es BILLABONG Bus Stop Jacket Chaqueta Deportiva  Hombre  Negro  Black 19   One Size  Tamaño del Fabricante: XS '
 actualPrice: 41.52 EUR
 currency: EUR
 price: 41.52

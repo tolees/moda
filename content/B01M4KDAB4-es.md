@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/419WSQXQ6HL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M4KDAB4-es'
+slug: 'B01M4KDAB4-es Timberland Bradstreet Leather Sensorflex  Botas Chukka para Hombre  Amarillo Wheat Nubuck  44.5 EU'
 actualPrice: 75.99 EUR
 currency: EUR
 price: 75.99

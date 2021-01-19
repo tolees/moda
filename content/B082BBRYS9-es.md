@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31AMv7TwheL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B082BBRYS9-es'
+slug: 'B082BBRYS9-es Geographical Norway Parka Mujer DINASTY Negro 02'
 actualPrice: 95.2 EUR
 currency: EUR
 price: 95.2

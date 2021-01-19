@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51mFHhgbCkL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0763MSVD1-es'
+slug: 'B0763MSVD1-es Marvel Avengers - Camiseta para hombre - Thor - Large'
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

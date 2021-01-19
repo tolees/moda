@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41iKQH2QmlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WS74M9X-es'
+slug: 'B07WS74M9X-es Hombre Mujer Zapatillas de Deportes Zapatos Sneakers Running Deportivos Aire Libre para Correr Calzado Grey Pink 36'
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

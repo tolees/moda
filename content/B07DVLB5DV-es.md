@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31UPQUuwXmL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DVLB5DV-es'
+slug: 'B07DVLB5DV-es Columbia Mujer Pantalón Convertible  Saturday Trail II Convertible Pant  Nailon  Verde  Pond   Talla US: W12/L/  EU W44/L   1579851'
 actualPrice: 18.08 EUR
 currency: EUR
 price: 18.08

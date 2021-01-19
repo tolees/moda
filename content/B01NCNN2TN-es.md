@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41vbNy9oXwL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NCNN2TN-es'
+slug: 'B01NCNN2TN-es find. 16563 vestido fiesta mujer  Rosa  Old Rose/gold   44  Talla del Fabricante: X-Large '
 actualPrice: 13.5 EUR
 currency: EUR
 price: 13.5

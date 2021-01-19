@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41kTDWS-c9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PS6R7K5-es'
+slug: 'B07PS6R7K5-es Under Armour Challenger III Training Top Transpirable para Hacer Deporte  Camiseta para Hombre  Azul  LG'
 actualPrice: 18.33 EUR
 currency: EUR
 price: 18.33

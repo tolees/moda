@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41n+b07eruL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFV9MVT-es'
+slug: 'B07LFV9MVT-es Geox D HOARA G  Botas Estilo Motero para Mujer  Negro  Black C9999   35 EU'
 actualPrice: 55.82 EUR
 currency: EUR
 price: 55.82

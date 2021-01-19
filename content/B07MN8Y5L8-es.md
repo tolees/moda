@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41+IPlsSs5L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MN8Y5L8-es'
+slug: 'B07MN8Y5L8-es MTNG 50740  Sandalias con Plataforma para Mujer  Beige  Antil Cuero C35921   40 EU'
 actualPrice: 12.03 EUR
 currency: EUR
 price: 12.03

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51wmGEAVxGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZPZSK1-es'
+slug: 'B07MZPZSK1-es Pepe Jeans Nadia Sudadera   Grey Marl 933   3-4 años  Talla del Fabricante: 3/4 años  para Niñas'
 actualPrice: 17.46 EUR
 currency: EUR
 price: 17.46

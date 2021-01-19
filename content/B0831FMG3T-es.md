@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31g1-Bb6ZkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0831FMG3T-es'
+slug: 'B0831FMG3T-es Gafas de Presbicia con Visión Ultra Nítida Especiales para Lectura. Gafas para Vista Cansada para Hombre y Mujer. Tacto Goma y Cristales Anti-reflejantes. Indigo +2.0 – ARKEN BOOK'
 actualPrice: 19.43 EUR
 currency: EUR
 price: 19.43

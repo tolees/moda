@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41S6v3VaZBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VCTDVRP-es'
+slug: 'B07VCTDVRP-es Fossil Collar para Mujer JF03217710'
 actualPrice: 17.7 EUR
 currency: EUR
 price: 17.7

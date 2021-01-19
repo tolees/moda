@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ThAvqlE+L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFYBKSZ-es'
+slug: 'B07LFYBKSZ-es Geox U KEELBACK B ABX B  Zapatillas Altas para Hombre  Negro  Black C9999   42 EU'
 actualPrice: 38.27 EUR
 currency: EUR
 price: 38.27

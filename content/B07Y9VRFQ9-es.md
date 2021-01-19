@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Y9z4aCfkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y9VRFQ9-es'
+slug: 'B07Y9VRFQ9-es edc by Esprit 129cc2g003 Chaqueta  Beige  Beige 270   XX-Large para Hombre'
 actualPrice: 24.77 EUR
 currency: EUR
 price: 24.77

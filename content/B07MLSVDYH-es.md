@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31EUEo2uDZL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MLSVDYH-es'
+slug: 'B07MLSVDYH-es Clarks Ronnie Limit  Zapatos de Cordones Brogue para Hombre  Marrón  British Tan Lea British Tan Lea   41.5 EU'
 actualPrice: 50.06 EUR
 currency: EUR
 price: 50.06

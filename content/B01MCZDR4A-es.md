@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51YmkDTSIVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MCZDR4A-es'
+slug: 'B01MCZDR4A-es ValueHall Crampones universales 18 dientes acero hielo Grips antideslizante nieve y hielo tracción tacos zapato cadenas seguro protegen zapatos  L '
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31RmGG3pNvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZVQ9FN7-es'
+slug: 'B07ZVQ9FN7-es Levi s LS Battery HM Shirt Slim Camisa  Harbor Gray  L para Hombre'
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

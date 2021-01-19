@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31IGo-3ErvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TNLWTWD-es'
+slug: 'B07TNLWTWD-es Levi s Original Hm Icon Crew Sudadera  Amarillo  Golden Apricot 0016   Medium para Hombre'
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

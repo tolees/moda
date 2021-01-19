@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41fjLafiAAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001OVFKB8-es'
+slug: 'B001OVFKB8-es adidas Adilette Chanclas Hombre  Azul  Adiblu/White/Adiblu   43 EU  9 UK '
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

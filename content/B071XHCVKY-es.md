@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41P0rN50qLL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B071XHCVKY-es'
+slug: 'B071XHCVKY-es Calvin Klein Bikini  Gris  Grey Heather 020   38  Talla del Fabricante: Medium  para Mujer'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

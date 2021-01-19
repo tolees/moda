@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31eUogMvYlL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B083G78MSW-es'
+slug: 'B083G78MSW-es New balance NBML574SNU Zapatos Hombre Azul 50'
 actualPrice: 80 EUR
 currency: EUR
 price: 80

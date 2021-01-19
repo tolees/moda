@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41WBozLJuuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TQ7HMC2-es'
+slug: 'B07TQ7HMC2-es Superdry Desert Alchemy Fuji Chaqueta  Amarillo  Autumn Ochre Dq7   L para Hombre'
 actualPrice: 38.18 EUR
 currency: EUR
 price: 38.18

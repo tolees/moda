@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417gdVANdRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01KV9RRB4-es'
+slug: 'B01KV9RRB4-es Swing Vestido Mujer  Azul  marine   36'
 actualPrice: 54.87 EUR
 currency: EUR
 price: 54.87

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Bgu3ohmkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S3WMKXG-es'
+slug: 'B07S3WMKXG-es Levi s Housemark Graphic tee Camiseta  Blanco  Ssnl Hm Camo White 0249   S para Hombre'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

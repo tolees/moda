@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ISDHPQOfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KN76W2S-es'
+slug: 'B07KN76W2S-es adidas W E 3s FZ HD Sudadera  Mujer  Negro  Black/White   M'
 actualPrice: 36.49 EUR
 currency: EUR
 price: 36.49

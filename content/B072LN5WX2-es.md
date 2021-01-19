@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41hHIMI4lsL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072LN5WX2-es'
+slug: 'B072LN5WX2-es Under Armour UA HG Armour Full Zip Sudadera cálida  Mujer  Negro  Black/White 001   L'
 actualPrice: 34.98 EUR
 currency: EUR
 price: 34.98

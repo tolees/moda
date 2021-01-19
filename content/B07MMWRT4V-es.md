@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31cIRy5hVmL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MMWRT4V-es'
+slug: 'B07MMWRT4V-es Wrangler Arizona Vaqueros Straight  Azul  Dark Fuzz 77j   30 W/ 34 L para Hombre'
 actualPrice: 19.32 EUR
 currency: EUR
 price: 19.32

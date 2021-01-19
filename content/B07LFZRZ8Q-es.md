@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31WI8SM8sIL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFZRZ8Q-es'
+slug: 'B07LFZRZ8Q-es Geox D ANNYTAH Moc A  Mocasines para Mujer  Azul  Navy C4064   37 EU'
 actualPrice: 44.95 EUR
 currency: EUR
 price: 44.95

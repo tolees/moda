@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31+oaA3LkSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084JNQBJ7-es'
+slug: 'B084JNQBJ7-es adidas Jg A Xfg WB Chaqueta  Niñas  Blanco/matama/Negro  140  9/10 Años '
 actualPrice: 40.99 EUR
 currency: EUR
 price: 40.99

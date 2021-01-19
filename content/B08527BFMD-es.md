@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41TtF6mjBLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08527BFMD-es'
+slug: 'B08527BFMD-es Haioo Mochilas Escolares 5 en 1 con Dibujo de Nube para Colegio Mochilas Infantiles con Estuche Monedero Bolso Bandolera  Rosa '
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

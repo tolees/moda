@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ipjtJdzLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TYTRCD3-es'
+slug: 'B07TYTRCD3-es Puma Junior Gafas de sol  Multicolor  Crystal/Silver/Havana   47.0 Unisex Niños'
 actualPrice: 6.66 EUR
 currency: EUR
 price: 6.66

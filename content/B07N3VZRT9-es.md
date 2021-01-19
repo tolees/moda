@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41MSQS3Z+rL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N3VZRT9-es'
+slug: 'B07N3VZRT9-es Desigual T-Shirt Andora Camiseta  Rojo  Rojo Oscuro 3029   M para Mujer'
 actualPrice: 22.79 EUR
 currency: EUR
 price: 22.79

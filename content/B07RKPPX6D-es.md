@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31SZbUoj47L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RKPPX6D-es'
+slug: 'B07RKPPX6D-es Tommy Hilfiger Basic Hilfiger Sweatshirt Sudadera  Azul  Blue Dw5   Large para Hombre'
 actualPrice: 54.49 EUR
 currency: EUR
 price: 54.49

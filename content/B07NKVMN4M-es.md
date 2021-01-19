@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41k+Kux9v-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NKVMN4M-es'
+slug: 'B07NKVMN4M-es Rage 2 - Camiseta Goon Tatto [M]'
 actualPrice: 15.96 EUR
 currency: EUR
 price: 15.96

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31AvXlQlYsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FMNYHHH-es'
+slug: 'B07FMNYHHH-es find. Fur Lined Hiker Zapatos de Low Rise Senderismo  Negro Black  38 EU'
 actualPrice: 22.91 EUR
 currency: EUR
 price: 22.91

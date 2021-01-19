@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41hq1SlJjWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SRK9RXJ-es'
+slug: 'B07SRK9RXJ-es Geox D NYDAME E  Zapatillas para Mujer  Gris  Lt Grey C1010   38 EU'
 actualPrice: 69.95 EUR
 currency: EUR
 price: 69.95

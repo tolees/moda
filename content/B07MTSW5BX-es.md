@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31r8iKktytL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MTSW5BX-es'
+slug: 'B07MTSW5BX-es Pepe Jeans Pixie Vaqueros Pitillo Hombre  Azul  Destroy Denim Re0   W27/L32 para Mujer'
 actualPrice: 57.99 EUR
 currency: EUR
 price: 57.99

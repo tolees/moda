@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31D0TtwiNFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DYXZZ2V-es'
+slug: 'B07DYXZZ2V-es Columbia Pantalón de Excursionismo para Mujer  Back Beauty Passo Alto Heat Pant  Azul  Nocturnal   Talla W38/R'
 actualPrice: 56.99 EUR
 currency: EUR
 price: 56.99

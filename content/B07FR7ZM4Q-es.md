@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/415umO-pKeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FR7ZM4Q-es'
+slug: 'B07FR7ZM4Q-es Clarks Un Lisbon Lace  Zapatos de Cordones Derby para Hombre  Verde  Olive Canvas-   46 EU'
 actualPrice: 35.8 EUR
 currency: EUR
 price: 35.8

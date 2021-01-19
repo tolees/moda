@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31PhostXtbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PS35RBZ-es'
+slug: 'B07PS35RBZ-es Panama Jack Meridian Basics  Sandalias Punta Cerrada para Hombre  Negro  Negro C3   43 EU'
 actualPrice: 47.95 EUR
 currency: EUR
 price: 47.95

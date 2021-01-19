@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Pu813rpUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PDS28QW-es'
+slug: 'B07PDS28QW-es Geox U TAIKI B ABX A  Zapatillas Altas para Hombre  Marrón  Brown/Mud C6044   44 EU'
 actualPrice: 33.35 EUR
 currency: EUR
 price: 33.35

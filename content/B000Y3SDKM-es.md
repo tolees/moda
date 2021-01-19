@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41sVq5QDtNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000Y3SDKM-es'
+slug: 'B000Y3SDKM-es Wrangler Texas Darkstone  Vaqueros para Hombre  Vint Darkstone  W34/L36  ES 44 '
 actualPrice: 34.27 EUR
 currency: EUR
 price: 34.27

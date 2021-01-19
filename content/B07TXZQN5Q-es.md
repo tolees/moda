@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51CqCjQ5qRL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TXZQN5Q-es'
+slug: 'B07TXZQN5Q-es New Look Lattice Front Vestido  Negro  Black Pattern 9   40  Talla del Fabricante: 12  para Mujer'
 actualPrice: 14.0 EUR
 currency: EUR
 price: 14.0

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31oPVzpsx3L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DWJ12L2-es'
+slug: 'B07DWJ12L2-es hummel Precision Pro Entrenamiento Zip Chaqueta  otoño/Invierno  Hombre  Color Negro  tamaño Large'
 actualPrice: 19 EUR
 currency: EUR
 price: 19

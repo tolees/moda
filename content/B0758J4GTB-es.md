@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41oNCfGrm8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0758J4GTB-es'
+slug: 'B0758J4GTB-es edc by Esprit 997cc1b817 Vaqueros Skinny  Azul  Blue Dark Wash 901   W30/L34 para Mujer'
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41TY3YSOGVL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LG42ZPV-es'
+slug: 'B07LG42ZPV-es Geox J Kalispera Girl A  Zapatillas Altas para Niñas  Rosa  Lt Prune C8023   26 EU'
 actualPrice: 38.4 EUR
 currency: EUR
 price: 38.4

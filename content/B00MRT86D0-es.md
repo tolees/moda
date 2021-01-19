@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41-9WtF-MdL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00MRT86D0-es'
+slug: 'B00MRT86D0-es REPLAY MA955 Newbill Vaqueros Straight  Azul  Dark Blue Denim 007   W32/L34 para Hombre'
 actualPrice: 32.01 EUR
 currency: EUR
 price: 32.01

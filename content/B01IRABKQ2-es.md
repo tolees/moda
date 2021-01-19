@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41AwwlGViwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IRABKQ2-es'
+slug: 'B01IRABKQ2-es Botas para Hombre De Seguridad Puntera De Acero Zapatos De Trabajo Senderismo Plantilla De Protección Unisex-Adulto S1P SRC CE Aprobado Black Hammer 9952 Black Hammer  46 EU '
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31rOKrA7nyL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0777SS2QG-es'
+slug: 'B0777SS2QG-es Napapijri DAMAVAND Half Jersey  Negro  Black 041   S para Hombre'
 actualPrice: 36.43 EUR
 currency: EUR
 price: 36.43

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41FDDxG8HtL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MMLPFN6-es'
+slug: 'B07MMLPFN6-es Napapijri BOVES H Sudadera con Capucha  Rot  Red Scarlet R01   XX-Large para Hombre'
 actualPrice: 39.6 EUR
 currency: EUR
 price: 39.6

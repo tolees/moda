@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/410p4x8aHQL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J4H2MD7-es'
+slug: 'B07J4H2MD7-es Columbia Hombre Camiseta técnica de manga larga  M Engineered Long Sleeve Crew  Nailon  Azul  Mountain   Talla L  1820771'
 actualPrice: 20.26 EUR
 currency: EUR
 price: 20.26

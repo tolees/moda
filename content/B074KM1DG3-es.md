@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413o8wKalIL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074KM1DG3-es'
+slug: 'B074KM1DG3-es Crocs Crocband II Sandal PS K  Sandalias Unisex Niños  Azul  Navy/White   25/26 EU'
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

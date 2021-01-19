@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51uv+CFIwXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07THLDFW3-es'
+slug: 'B07THLDFW3-es iWalker Guantes Gimnasios de Crossfit para los Deportes Fithil Guantes de Crossfit para Gimnasio con Muñequera para Mujer y Hombre'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

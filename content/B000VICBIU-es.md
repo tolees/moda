@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41CvcnwZmhL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000VICBIU-es'
+slug: 'B000VICBIU-es Timberland 6 In Premium Waterproof  Botas Unisex Niños  Amarillo  Wheat Nubuck   30.5 EU'
 actualPrice: 56.94 EUR
 currency: EUR
 price: 56.94

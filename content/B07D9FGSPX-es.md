@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412y80Z3U6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D9FGSPX-es'
+slug: 'B07D9FGSPX-es Levi s 501 Original Fit Jeans Pantalón vaquero con diseño clásico y cómodos de usar  Bubbles St  33W / 36L para Hombre'
 actualPrice: 48.97 EUR
 currency: EUR
 price: 48.97

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41myyJs0ohL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TSMBRF3-es'
+slug: 'B07TSMBRF3-es Apanphy® Bolsa de Aseo Neceseres de Viaje Travel Bolso cosmético Bolso de Maquillaje Bolsa de Almacenamiento portátil Estuche de Maquillaje con asa Makeup Toiletry Bag para Mujeres -Leopard Brown'
 actualPrice: 11.58 EUR
 currency: EUR
 price: 11.58

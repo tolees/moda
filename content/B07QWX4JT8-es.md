@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31bbyLk-kNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QWX4JT8-es'
+slug: 'B07QWX4JT8-es ranrann Chaleco Sin Mangas para Niña Suave Camiseta de Algodón Color Sólido Crop Top Tank Top Camiseta Deporte de Fitness T-Shirt Gris 5-6 Años'
 actualPrice: 2.49 EUR
 currency: EUR
 price: 2.49

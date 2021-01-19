@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ghtYBdJoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SVP3TXM-es'
+slug: 'B07SVP3TXM-es Geox J Alben Boy D  Zapatillas para Niños  Azul  Royal/Green C4165   28 EU'
 actualPrice: 33.35 EUR
 currency: EUR
 price: 33.35

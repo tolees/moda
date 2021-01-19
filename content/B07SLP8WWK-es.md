@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31j8qfTV8xL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SLP8WWK-es'
+slug: 'B07SLP8WWK-es Burton Elite Camiseta  Hombre  Martini Olive  XXL'
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31-cytAIBjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R8TFJKB-es'
+slug: 'B07R8TFJKB-es Mammut Camiseta Alnasca Mujer Camiseta  Mujer  Bright White  XS'
 actualPrice: 25.55 EUR
 currency: EUR
 price: 25.55

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41WiWDDEL5L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B008ODLBT4-es'
+slug: 'B008ODLBT4-es Crocs Crocband Sandal Kids  Sandalias Unisex Niños  Azul  Navy/Red   33/34 EU'
 actualPrice: 20.65 EUR
 currency: EUR
 price: 20.65

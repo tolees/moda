@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/415Luj+LzaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TXHXY74-es'
+slug: 'B07TXHXY74-es 6TN Hombre Nunca soñé Que sería un Viejo gruñón  Pero aquí lo Estoy Matando Camiseta  M  Carbón '
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

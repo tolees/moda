@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31afPmQlD1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KF663QZ-es'
+slug: 'B07KF663QZ-es Levi s 501 Original Fit Jeans Pantalón vaquero con diseño clásico y cómodos de usar  Negro  Solice 2861   34W / 32L para Hombre'
 actualPrice: 43.39 EUR
 currency: EUR
 price: 43.39

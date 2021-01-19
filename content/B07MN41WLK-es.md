@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/416yFLnhR9L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MN41WLK-es'
+slug: 'B07MN41WLK-es Wrangler SS Logo tee Camiseta  Gris  Mid Grey Mel X37   XL para Hombre'
 actualPrice: 14 EUR
 currency: EUR
 price: 14

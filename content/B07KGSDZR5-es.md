@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41PFdJOwSEL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KGSDZR5-es'
+slug: 'B07KGSDZR5-es edc by Esprit 999cc2k803 Camiseta  Rojo  Red 630   X-Large para Hombre'
 actualPrice: 4.49 EUR
 currency: EUR
 price: 4.49

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/315CKp+SWSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007RNRII0-es'
+slug: 'B007RNRII0-es Speedo 8082108137 Gafas de Natación  Unisex  Negro  Cromo Oscuro   Talla Única'
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

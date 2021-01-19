@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4153USlJrhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M7DHYYT-es'
+slug: 'B07M7DHYYT-es Hackett Bengal Str KS Camisa   Blue 551   Medium para Hombre'
 actualPrice: 30.2 EUR
 currency: EUR
 price: 30.2

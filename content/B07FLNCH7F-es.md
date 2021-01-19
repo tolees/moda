@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41XNJOeRRFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FLNCH7F-es'
+slug: 'B07FLNCH7F-es David Jones - Pequeño Bolso Bandolera Cadena Mujer - Bolsos de Hombro Cruzado Cuero PU - Mensajero Crossbody Bag - Bolso Mano Zip Embrague Clutch Pochette Noche Trabajo Moda Diario Vida - Negro'
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

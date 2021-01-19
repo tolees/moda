@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41bB01VPioL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MF39DCL-es'
+slug: 'B07MF39DCL-es Columbia Lake 22  Chaqueta de plumas  Hombre  Gris  Columbia Grey Heather   Talla XXL'
 actualPrice: 34.42 EUR
 currency: EUR
 price: 34.42

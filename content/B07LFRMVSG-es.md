@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Iqn4FrYpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFRMVSG-es'
+slug: 'B07LFRMVSG-es Geox Pumps D New Annya M. A - Nappa schwarz 36'
 actualPrice: 34.07 EUR
 currency: EUR
 price: 34.07

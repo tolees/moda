@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41LxMBvUUGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SSTB5NB-es'
+slug: 'B07SSTB5NB-es Quiksilver Molokai Vacancy  Zapatos de Playa y Piscina para Hombre  Multicolor  Grey/Green/Blue Xsgb   39 EU'
 actualPrice: 10.49 EUR
 currency: EUR
 price: 10.49

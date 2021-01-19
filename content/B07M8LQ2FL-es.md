@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51nj7OZ9YiL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M8LQ2FL-es'
+slug: 'B07M8LQ2FL-es Wrangler LS 1pkt Shirt Camisa  Verde  Pine G01   Small para Hombre'
 actualPrice: 19.88 EUR
 currency: EUR
 price: 19.88

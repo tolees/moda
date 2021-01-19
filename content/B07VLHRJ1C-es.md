@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413zhVGgsTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VLHRJ1C-es'
+slug: 'B07VLHRJ1C-es Calvin Klein 3pk Braguita de Bikini  Negro  Black/Frozen/Feeder Stripe Black Qt6   L  Pack de 3  para Mujer'
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

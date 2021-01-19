@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/410K5hwpNSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087VLY2JX-es'
+slug: 'B087VLY2JX-es Columbia Powder Lite Hooded Chaqueta De Plumón con Capucha  Hombre  Rojo  Red Jasper  Dark Purple  Mountain Red   L'
 actualPrice: 66.49 EUR
 currency: EUR
 price: 66.49

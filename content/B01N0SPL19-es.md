@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41fTipkM3xL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N0SPL19-es'
+slug: 'B01N0SPL19-es Arena Envision Gafas de natación  Unisex Adulto  Clear  Talla Única'
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

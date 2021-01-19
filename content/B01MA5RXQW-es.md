@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41tKusqkkxL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MA5RXQW-es'
+slug: 'B01MA5RXQW-es Wrangler Straight Vaqueros para Mujer  Azul  Best Blue 94O   30W / 34L'
 actualPrice: 44.95 EUR
 currency: EUR
 price: 44.95

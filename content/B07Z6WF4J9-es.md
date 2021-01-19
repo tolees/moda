@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41FI6vc7HJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z6WF4J9-es'
+slug: 'B07Z6WF4J9-es Hi-Tec Ula Raft  Sandalias Deportivas para Hombre  Amarillo  Blazing Yellow/Navigate 079   43 EU'
 actualPrice: 22.39 EUR
 currency: EUR
 price: 22.39

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41tsmrWxyIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VQPXKSH-es'
+slug: 'B07VQPXKSH-es Teva Terra Fi Lite  Sandalias de Punta Descubierta para Mujer  Rojo  Red Plum Rpl   36 EU'
 actualPrice: 43.28 EUR
 currency: EUR
 price: 43.28

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31tfq-ZOiVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TNZMD9M-es'
+slug: 'B07TNZMD9M-es Clarks Hero Walk  Zapatos de Cordones Derby  Blanco  White Leather White Leather   38 EU'
 actualPrice: 45.13 EUR
 currency: EUR
 price: 45.13

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41v1O+KfQeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TVTNMMX-es'
+slug: 'B07TVTNMMX-es Women s Secret Bloom Feminine BF Dahlia PJ FR Conjuntos de Pijama  Multicolor  Gama Rosas/Morados 78   Large  Tamaño del Fabricante: L  para Mujer'
 actualPrice: 18.04 EUR
 currency: EUR
 price: 18.04

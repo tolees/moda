@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/418YZkBc-yL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TLZN2VT-es'
+slug: 'B07TLZN2VT-es Calvin Klein Jeans Ckj 026 Vaqueros Slim  Azul  Antwerp Rinse 911   W38/L32  Talla del Fabricante: 3238  para Hombre'
 actualPrice: 42.98 EUR
 currency: EUR
 price: 42.98

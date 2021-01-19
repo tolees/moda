@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41FLHwvssSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0761WYNVM-es'
+slug: 'B0761WYNVM-es KRISP Bolero Mujer Fiesta Tallas Grandes Torera Chaqueta Corta Boda Elegante Noche Vestir Manga   Negro  5159   SM   5159-BLK-SM'
 actualPrice: 6.0 EUR
 currency: EUR
 price: 6.0

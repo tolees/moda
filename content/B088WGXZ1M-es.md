@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41A81hB+GIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088WGXZ1M-es'
+slug: 'B088WGXZ1M-es Moda Zapatos Casuales Femeninos，Zapatillas para Mujer Deportivo Verano Respirable Mocasines Deportes Casual Sandalias，Antideslizantes Zapatilla Malla'
 actualPrice: 4.89 EUR
 currency: EUR
 price: 4.89

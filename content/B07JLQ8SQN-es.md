@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31y4iJn4QYL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JLQ8SQN-es'
+slug: 'B07JLQ8SQN-es Timberland Bradstreet Perforated Plain Toe  Zapatos de Cordones Oxford para Hombre  Marrón  Light Brown Nubuck   42 EU'
 actualPrice: 60 EUR
 currency: EUR
 price: 60

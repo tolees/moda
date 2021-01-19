@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31nAJT2Qb-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SQGW5HZ-es'
+slug: 'B07SQGW5HZ-es Geox D Avery C  Zapatillas para Mujer  Negro  Black C9999   41 EU'
 actualPrice: 35.37 EUR
 currency: EUR
 price: 35.37

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41EBTfZ5PKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K7HGVGH-es'
+slug: 'B07K7HGVGH-es adidas TIRO19 TR JKTY Chaqueta  Unisex niños  Black/White  5-6A'
 actualPrice: 29.49 EUR
 currency: EUR
 price: 29.49

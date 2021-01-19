@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4135Yc8SHnL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01KPCAZ3O-es'
+slug: 'B01KPCAZ3O-es Timberland Killington Chukka  Zapatillas Altas para Hombre  Negro  Black Nubuck   41.5 EU'
 actualPrice: 86.99 EUR
 currency: EUR
 price: 86.99

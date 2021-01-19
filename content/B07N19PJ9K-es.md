@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41S0I0CiXwL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N19PJ9K-es'
+slug: 'B07N19PJ9K-es Lee Trend Fit Tee  Camiseta para Hombre  Azul  Midnight Navy Ma   X-Large'
 actualPrice: 14.98 EUR
 currency: EUR
 price: 14.98

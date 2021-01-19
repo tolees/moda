@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/415BajCIAgL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NBIWO10-es'
+slug: 'B01NBIWO10-es find. Sudadera Oversized con Volantes para Mujer   Rosa  Old Rose   38  Talla del Fabricante: Small '
 actualPrice: 9.6 EUR
 currency: EUR
 price: 9.6

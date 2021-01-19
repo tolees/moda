@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41voXKqY1NL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CPW1T5S-es'
+slug: 'B07CPW1T5S-es Marca Amazon - AURIQUE Camiseta Yoga con Eslogan y Abertura en la Espalda Mujer  Morado  Purple Gumdrop   40  Label:M'
 actualPrice: 3.84 EUR
 currency: EUR
 price: 3.84

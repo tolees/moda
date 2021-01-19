@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41UgfEHjXjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07283WMMT-es'
+slug: 'B07283WMMT-es Lacoste L1212 Camiseta Polo  Azul  Methylene F9F   XS para Hombre'
 actualPrice: 40.45 EUR
 currency: EUR
 price: 40.45

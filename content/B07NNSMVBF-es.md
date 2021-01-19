@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ACuXRVYmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NNSMVBF-es'
+slug: 'B07NNSMVBF-es Under Armour UA Tech 2.0 SS Tee Novelty  Camiseta Para Gimnasio  Camiseta Transpirable Hombre  Verde  L'
 actualPrice: 17.51 EUR
 currency: EUR
 price: 17.51

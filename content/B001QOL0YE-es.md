@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ihE7BWqTL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001QOL0YE-es'
+slug: 'B001QOL0YE-es Levi s 501 Original Fit Jeans Vaqueros  Negro  Black 0165   36W / 32L para Hombre'
 actualPrice: 58.95 EUR
 currency: EUR
 price: 58.95

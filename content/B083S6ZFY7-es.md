@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Ab1PWc+dL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083S6ZFY7-es'
+slug: 'B083S6ZFY7-es COFACE Chanclas para Mujer Chancletas de Playa  Sandalias de Dedo  Antideslizantes Flip-Flop Verano Zapatos de Mujeres 40'
 actualPrice: 14.5 EUR
 currency: EUR
 price: 14.5

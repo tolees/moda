@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41-aN0rwQgL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WK2MC6B-es'
+slug: 'B07WK2MC6B-es Ropa Interior Térmica Hombre  Camiseta Térmica Hombre Deportes Ropa Interior Funcional Conjuntos Térmicos Termo Invierno Otoño con muy elástica para Running Esquí Montaña Ciclismo Fitness Negro L'
 actualPrice: 19.19 EUR
 currency: EUR
 price: 19.19

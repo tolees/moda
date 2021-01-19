@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31V7RpIzv8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FL59LXV-es'
+slug: 'B07FL59LXV-es Superdry Orange Label Vntge Emb S/s tee Camiseta  Rojo  Boston Burgundy Grit Uj7   Small para Hombre'
 actualPrice: 18.49 EUR
 currency: EUR
 price: 18.49

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413v3Cng-rL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072Q1L4CQ-es'
+slug: 'B072Q1L4CQ-es Fluchos- retail ES Spain 8499  Zapatos sin Cordones Hombre  Negro  Black   41 EU'
 actualPrice: 69.0 EUR
 currency: EUR
 price: 69.0

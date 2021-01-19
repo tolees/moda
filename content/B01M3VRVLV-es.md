@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41t687Dz7wL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M3VRVLV-es'
+slug: 'B01M3VRVLV-es Pepe Jeans Spike Vaqueros  Azul  11oz Streaky Vintage Used   W34/L32 para Hombre'
 actualPrice: 46.99 EUR
 currency: EUR
 price: 46.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41uQpA0zE-L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XC8TDWX-es'
+slug: 'B06XC8TDWX-es Pepe Jeans Spike Vaqueros  Azul  Fonce Denim H05   W33/L36 para Hombre'
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

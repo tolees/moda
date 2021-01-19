@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31USPxFAdmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GX9BH24-es'
+slug: 'B07GX9BH24-es SKYSPER Camiseta de Compresión Manga Larga para Hombre Pantalones Largos Leggings Apretada Ropa Interior Deportiva Deportes Transpirable Secado Rápido para Running Fitness Entrenamiento Yoga Ciclismo'
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41gFSdaayxL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N44CKCT-es'
+slug: 'B07N44CKCT-es Desigual Dress Valentina Vestido  Rojo  Merlot 3215   38  Talla del Fabricante: 36  para Mujer'
 actualPrice: 42.2 EUR
 currency: EUR
 price: 42.2

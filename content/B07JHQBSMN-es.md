@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51MTagProLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JHQBSMN-es'
+slug: 'B07JHQBSMN-es Amazon Essentials - Camisa de lino a rayas  de manga corta y corte entallado para hombre  verde oliva  Olive Plaid   US S  EU S '
 actualPrice: 3.74 EUR
 currency: EUR
 price: 3.74

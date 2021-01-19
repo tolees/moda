@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51IBFGVykHL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T2LMMY9-es'
+slug: 'B07T2LMMY9-es Tikea Bolsa Geométrica Luminosa Holográfica para Mujer  Caja de Maquillaje de Moda en Cuero Sintético  Bolsa de Cosmético Efecto Reflectante Plegable'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

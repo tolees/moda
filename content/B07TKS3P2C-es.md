@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41gBGe4D7KL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TKS3P2C-es'
+slug: 'B07TKS3P2C-es Clarks Lafley Lily  Sandalias de Talón Abierto para Mujer  Rojo  Red Red   37.5 EU'
 actualPrice: 39.34 EUR
 currency: EUR
 price: 39.34

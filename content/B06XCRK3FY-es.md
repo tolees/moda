@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41cgqQFeHtL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XCRK3FY-es'
+slug: 'B06XCRK3FY-es find. Vestido Camisero con Estampado de Rayas y Volantes para Mujer   Azul  Blue Stripe   38  Talla del Fabricante: Small '
 actualPrice: 13.5 EUR
 currency: EUR
 price: 13.5

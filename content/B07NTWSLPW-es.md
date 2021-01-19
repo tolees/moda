@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31PHPugK8SL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NTWSLPW-es'
+slug: 'B07NTWSLPW-es Calvin Klein Chest Institutional Slim SS tee Camiseta  Gris  Grey Heather 039   X-Small para Hombre'
 actualPrice: 23.15 EUR
 currency: EUR
 price: 23.15

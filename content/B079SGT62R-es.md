@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31FsdxAfwBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079SGT62R-es'
+slug: 'B079SGT62R-es Polaroid PLD 4066/S Gafas de sol  Marrón  DKHAVANA   57 Unisex Adulto'
 actualPrice: 25.1 EUR
 currency: EUR
 price: 25.1

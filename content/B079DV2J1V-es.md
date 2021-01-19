@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/516gLhAYOSL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079DV2J1V-es'
+slug: 'B079DV2J1V-es NOTONEON Collar del Regalo del día de la Madre  Plata del Platino AAA Regalo del Zircon de la Cebra Transparente para la Madre  Mujer  YN-002'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

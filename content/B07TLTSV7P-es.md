@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41dTfRPASJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TLTSV7P-es'
+slug: 'B07TLTSV7P-es Clarks Arla Jacory  Sandalias de Talón Abierto para Mujer  Azul  Indigo Indigo   40 EU'
 actualPrice: 32.86 EUR
 currency: EUR
 price: 32.86

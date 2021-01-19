@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41RfRtBNxtL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LF8N6NX-es'
+slug: 'B07LF8N6NX-es Levi s SS Color Block tee Camiseta  Multicolor  Jersey Colorblock Dress Blue/White/Red + White Print 0000   Small para Hombre'
 actualPrice: 13.55 EUR
 currency: EUR
 price: 13.55

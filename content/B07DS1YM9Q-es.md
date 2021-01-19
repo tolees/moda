@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Q4xAP0jCL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DS1YM9Q-es'
+slug: 'B07DS1YM9Q-es edc by Esprit 098cc1k014 Camisa Manga Larga  Rojo  Red 630   Medium para Mujer'
 actualPrice: 10.39 EUR
 currency: EUR
 price: 10.39

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51lYm1aTuIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0711KLTZC-es'
+slug: 'B0711KLTZC-es Barbacoa Grill guantes resistente al calor con garra de oso carne garras y pincel de silicona  Guantes de Cocina antideslizante para Horno Microondas y Parrilla  Naranja'
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31bdubSMHGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DYM7QVK-es'
+slug: 'B07DYM7QVK-es Merrell District Mendi Backstrap  Sandalias de Talón Abierto para Mujer  Negro Black  38 EU'
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

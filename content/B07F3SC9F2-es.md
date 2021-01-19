@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41do3bCUjSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F3SC9F2-es'
+slug: 'B07F3SC9F2-es Geox Uomo Sandal Strada B  Sandalias Punta Cerrada para Hombre  Marrón  Brown C0013   43 EU'
 actualPrice: 47.95 EUR
 currency: EUR
 price: 47.95

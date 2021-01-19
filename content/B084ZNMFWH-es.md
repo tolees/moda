@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41JKanpaLwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084ZNMFWH-es'
+slug: 'B084ZNMFWH-es Suhctup Funda Huawei P20 Pro  Carcasa Patrón de Dibujos Animados Soft Moda  Reforzado Cojín de Esquina Parachoques Funda Flexible Suave Ultra-Delgado Funda para Huawei P20 Pro'
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

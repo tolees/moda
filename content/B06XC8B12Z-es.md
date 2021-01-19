@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41nN97saDEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XC8B12Z-es'
+slug: 'B06XC8B12Z-es Clarks Tilden Walk  Zapatos de Cordones Derby para Hombre  Marrón  Dark Tan Leather-   47 EU'
 actualPrice: 27.02 EUR
 currency: EUR
 price: 27.02

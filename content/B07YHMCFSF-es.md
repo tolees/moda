@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Ba0rblTqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YHMCFSF-es'
+slug: 'B07YHMCFSF-es loonBonnie Estilo Coreano Moda Hombres Mujeres Amantes Pantalla táctil LED Reloj Inteligente Digital TPU Reloj de visualización de Tiempo de Datos Deportivos - Negro'
 actualPrice: 1.25 EUR
 currency: EUR
 price: 1.25

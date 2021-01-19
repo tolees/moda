@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41dQ6-XPVeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XQBKP3H-es'
+slug: 'B07XQBKP3H-es Tool Tour 2019 - Spectre Spike Camiseta Gris Marengo S'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

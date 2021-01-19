@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41PNw551F8L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JH2ZJ2J-es'
+slug: 'B07JH2ZJ2J-es PUMA ftblNXT Shirt Camiseta  Hombre  Azul  Bleu Azur/Red Blast   2XL'
 actualPrice: 8.32 EUR
 currency: EUR
 price: 8.32

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41FyTQXOjoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LF8RRC7-es'
+slug: 'B07LF8RRC7-es Levi s 510 Skinny Fit  Vaqueros para Hombre  Gris  Deathcap Light Mid Overt Adv 0962   W29/L30'
 actualPrice: 50.39 EUR
 currency: EUR
 price: 50.39

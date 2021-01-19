@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31RTQZJWkiL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CN8WXL1-es'
+slug: 'B07CN8WXL1-es Crocs Baya  Zuecos Unisex Adulto  Azul  Pool   36/37 EU'
 actualPrice: 27.95 EUR
 currency: EUR
 price: 27.95

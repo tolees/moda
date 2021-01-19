@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41guVsb4W-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081TTD7HV-es'
+slug: 'B081TTD7HV-es adidas Mono Jersey Pol Camiseta de Manga Corta  Hombre  Night Marine/White  L'
 actualPrice: 12.6 EUR
 currency: EUR
 price: 12.6

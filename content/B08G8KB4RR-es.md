@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41wgCUHDi7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08G8KB4RR-es'
+slug: 'B08G8KB4RR-es Zapatillas de Seguridad Hombre Zapatos de Trabajo con Punta de Acero Transpirable Reflectante Botas de Seguridad Negro 41 '
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

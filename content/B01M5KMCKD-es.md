@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51X6IhwNvbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M5KMCKD-es'
+slug: 'B01M5KMCKD-es Levi s BARSTOW WESTERN  Camisa Hombre  Azul  SUONA DRESS BLUES   Small'
 actualPrice: 29.89 EUR
 currency: EUR
 price: 29.89

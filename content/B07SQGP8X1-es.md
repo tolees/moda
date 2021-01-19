@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41iRmhFamoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SQGP8X1-es'
+slug: 'B07SQGP8X1-es Geox U Snake.2 A  Zapatillas para Hombre  Azul  Avio/Lt Grey C4453   42 EU'
 actualPrice: 48.26 EUR
 currency: EUR
 price: 48.26

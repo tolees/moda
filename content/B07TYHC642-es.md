@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41HFn-IPPML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TYHC642-es'
+slug: 'B07TYHC642-es Levi s Vneck Camiseta  Multicolor  Annalise Stripe Marina 0001   Small para Mujer'
 actualPrice: 17.5 EUR
 currency: EUR
 price: 17.5

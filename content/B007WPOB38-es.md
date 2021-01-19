@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41PehdvUw6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007WPOB38-es'
+slug: 'B007WPOB38-es Havaianas Brasil Logo  Chanclas Unisex Adulto  Azul  Marine Blue   39/40 EU'
 actualPrice: 18.03 EUR
 currency: EUR
 price: 18.03

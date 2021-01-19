@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/4173lBMcj5L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B078FBYJQR-es'
+slug: 'B078FBYJQR-es find. 64635 vaqueros mujer  Azul  Blue   W36/L32  Talla del Fabricante: 46 '
 actualPrice: 13.5 EUR
 currency: EUR
 price: 13.5

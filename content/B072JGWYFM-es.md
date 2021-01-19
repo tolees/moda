@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41CCr9ZXmCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072JGWYFM-es'
+slug: 'B072JGWYFM-es Fluchos Luca  Zapatos de Cordones Derby para Hombre  Marrón  Castaño 000   44 EU'
 actualPrice: 46.31 EUR
 currency: EUR
 price: 46.31

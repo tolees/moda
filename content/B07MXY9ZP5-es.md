@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31hGr0GQSGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MXY9ZP5-es'
+slug: 'B07MXY9ZP5-es SALOMON Blend Logo SS tee M Camiseta Deportiva de Manga Corta  Hombre  Negro  XL'
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-F6FObVaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VXKN5DW-es'
+slug: 'B07VXKN5DW-es Tommy Hilfiger TJM Essential Jaspe tee Camiseta  Rosa  Bright Cerise Pink T1k   Small para Hombre'
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

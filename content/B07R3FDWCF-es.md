@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/313Mhr2QD9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R3FDWCF-es'
+slug: 'B07R3FDWCF-es Marca Amazon - find. Chaleco Acolchado Hombre  Negro  Black   XXL  Label: XXL'
 actualPrice: 11.9 EUR
 currency: EUR
 price: 11.9

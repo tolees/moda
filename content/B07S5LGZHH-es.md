@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Q70ddzWfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S5LGZHH-es'
+slug: 'B07S5LGZHH-es Sandalias Mujer con Sandalias Wedge Plateau con Correa en el Tobillo Sandalias Bajas de Verano Alpargatas de Punta Abierta Zapatos Elegantes para Mujer Cómodos  38 EU  Blanco '
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

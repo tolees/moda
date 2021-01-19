@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41XM4oxnE4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F3BZ5C9-es'
+slug: 'B07F3BZ5C9-es Geox Uomo Sandal Strada B  Sandalias Punta Cerrada para Hombre  Negro  Black C9999   39 EU'
 actualPrice: 31.95 EUR
 currency: EUR
 price: 31.95

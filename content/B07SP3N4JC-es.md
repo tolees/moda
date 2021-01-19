@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31NeM455ZkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SP3N4JC-es'
+slug: 'B07SP3N4JC-es Havaianas Flash Urban Plus  Sandalias de Talón Abierto para Mujer  Negro  Black 0090   39/40 EU'
 actualPrice: 17.55 EUR
 currency: EUR
 price: 17.55

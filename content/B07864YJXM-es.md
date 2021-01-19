@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31RYNiI89EL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07864YJXM-es'
+slug: 'B07864YJXM-es PUMA Liga Sideline Poly Pants Core Pantalón  Hombre  Azul  Azul Oscuro/Blanco   XL'
 actualPrice: 18 EUR
 currency: EUR
 price: 18

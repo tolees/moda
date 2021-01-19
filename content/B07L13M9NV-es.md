@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41tImiCWO4L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L13M9NV-es'
+slug: 'B07L13M9NV-es Under Armour Rival Fleece Sportstyle Graphic Sudadera con Capucha  Mujer  Blanco  Onyx White/Black   XS'
 actualPrice: 32.2 EUR
 currency: EUR
 price: 32.2

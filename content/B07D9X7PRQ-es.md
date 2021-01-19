@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41yIuYj3AJL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D9X7PRQ-es'
+slug: 'B07D9X7PRQ-es Adidas Hoops 2.0 CMF C  Zapatos de Baloncesto Unisex Niños  Multicolor  Core Black/FTWR White/Hi/Res Red S18 B75960   34 EU'
 actualPrice: 17.48 EUR
 currency: EUR
 price: 17.48

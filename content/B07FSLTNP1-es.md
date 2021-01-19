@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31F8Y7xD72L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FSLTNP1-es'
+slug: 'B07FSLTNP1-es Clarks Un Karely Sun  Chanclas para Mujer  Negro  Black Nubuck-   35.5 EU'
 actualPrice: 44.34 EUR
 currency: EUR
 price: 44.34

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31CVeFl3vZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MKCVRXC-es'
+slug: 'B07MKCVRXC-es Helly Hansen HH LIFA T-Shirt Camiseta Técnica De Protección Solar Manga Corta  Hombre  White  S'
 actualPrice: 18.49 EUR
 currency: EUR
 price: 18.49

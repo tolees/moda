@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41yYXa7k8TL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M5DHS8J-es'
+slug: 'B07M5DHS8J-es Lee Austin Vaqueros Tapered  Azul  Dark Silver GV   30W / 32L para Hombre'
 actualPrice: 24.31 EUR
 currency: EUR
 price: 24.31

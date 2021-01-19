@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41A75zciJML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077XHXSJL-es'
+slug: 'B077XHXSJL-es Zoggs Predator Flex Gafas de natación  Unisex  Plata/Blanco/Azul  Talla Única'
 actualPrice: 17.0 EUR
 currency: EUR
 price: 17.0

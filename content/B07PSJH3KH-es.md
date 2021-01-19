@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/415CR-oj0DL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PSJH3KH-es'
+slug: 'B07PSJH3KH-es Kipling Osyka  Bolso Con Bandolera para Mujer  Dorado  Cloud Metal Gifting   21x15x3.2 centimeters  B x H x T '
 actualPrice: 42.65 EUR
 currency: EUR
 price: 42.65

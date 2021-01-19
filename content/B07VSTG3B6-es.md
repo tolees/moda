@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31oIX2BGPPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VSTG3B6-es'
+slug: 'B07VSTG3B6-es G-STAR RAW Kafey Ultra High Waist Skinny Vaqueros  Azul  Worn in Blue Storm 8971-b188   23W / 28L para Mujer'
 actualPrice: 37.02 EUR
 currency: EUR
 price: 37.02

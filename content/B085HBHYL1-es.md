@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/319YYI2D8SL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085HBHYL1-es'
+slug: 'B085HBHYL1-es CHEREEKI Gafas de Sol Deportivas  Gafas de Sol Polarizadas de Conducción con protección UV400 para Hombres y Mujeres  Negro '
 actualPrice: 15.46 EUR
 currency: EUR
 price: 15.46

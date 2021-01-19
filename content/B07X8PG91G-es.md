@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31hTdxwHdWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X8PG91G-es'
+slug: 'B07X8PG91G-es PUMA Ftblnxt 1/4 Zip Top Sudadera  Hombre  Black-Ultra Yellow  L'
 actualPrice: 26.67 EUR
 currency: EUR
 price: 26.67

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41F0ZTUdRFL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NW59CKM-es'
+slug: 'B07NW59CKM-es Skechers Keepsakes 2.0 Botines Mujer  Marrón  Chestnut Suede Csnt   39 EU'
 actualPrice: 50.76 EUR
 currency: EUR
 price: 50.76

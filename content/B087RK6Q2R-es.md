@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41dKsLhhOpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087RK6Q2R-es'
+slug: 'B087RK6Q2R-es Mosucoirl Camisa sin Mangas con Cuello en V y Encaje con Cuello en V Camisa Informal sin Mangas Camisa Blusa Ligera Sexy Tank Top  Negro  L '
 actualPrice: 13.9 EUR
 currency: EUR
 price: 13.9

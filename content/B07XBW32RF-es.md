@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4129nNnuV9L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XBW32RF-es'
+slug: 'B07XBW32RF-es ENGSWA Collar Mujer Plata de Ley 925 Colgante Corazón con Infinito Grabado Regalo para Mamá Abuela Hija Niña Esposa Novia'
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

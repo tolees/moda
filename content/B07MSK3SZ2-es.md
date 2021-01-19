@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31rEpIqLlfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MSK3SZ2-es'
+slug: 'B07MSK3SZ2-es Clarks Cotrell Stride  Zapatos de Cordones Derby para Hombre  Braun Tan-Funda de Piel  39.5 EU'
 actualPrice: 37.13 EUR
 currency: EUR
 price: 37.13

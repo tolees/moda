@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/511Xc+DG1aL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X86K4RL-es'
+slug: 'B07X86K4RL-es LIGE Relojes de Pulsera Acero Inoxidable Negocios Cuarzo Analógico Relojes Elegantes Dorados Moda Vestir Reloj'
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

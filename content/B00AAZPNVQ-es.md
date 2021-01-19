@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Uv7ODp5UL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00AAZPNVQ-es'
+slug: 'B00AAZPNVQ-es MUSTELA - MUSTELA BOLSO PRIMEROS PRODUCT'
 actualPrice: 4.36 EUR
 currency: EUR
 price: 4.36

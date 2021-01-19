@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/418PQ8N2BOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0878WYMWZ-es'
+slug: 'B0878WYMWZ-es Odetina Zapatos de tacón alto sólido Mary Janes con correa de hebilla y correa de hebilla para mujer  color Verde  talla 40.5 EU'
 actualPrice: 20.14 EUR
 currency: EUR
 price: 20.14

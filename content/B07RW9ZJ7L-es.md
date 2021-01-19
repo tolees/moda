@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31gg6PPhQvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RW9ZJ7L-es'
+slug: 'B07RW9ZJ7L-es GRACE KARIN Mujer Vestido Corto Elegante para Fiesta Cóctel M CL011107-1'
 actualPrice: 22.09 EUR
 currency: EUR
 price: 22.09

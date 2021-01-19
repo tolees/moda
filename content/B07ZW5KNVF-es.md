@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31fUvADC9hL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZW5KNVF-es'
+slug: 'B07ZW5KNVF-es Marca Amazon - find. Flat Gladiator Sandalias de Gladiador  Schwarz  Zebra   37 EU'
 actualPrice: 6.29 EUR
 currency: EUR
 price: 6.29

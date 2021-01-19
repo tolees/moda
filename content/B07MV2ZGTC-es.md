@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41xQ6hSmkML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MV2ZGTC-es'
+slug: 'B07MV2ZGTC-es Glowlab dreams bolsa deporte bolso de viaje'
 actualPrice: 20.24 EUR
 currency: EUR
 price: 20.24

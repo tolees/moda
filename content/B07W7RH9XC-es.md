@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41qlgiVKZ3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W7RH9XC-es'
+slug: 'B07W7RH9XC-es Tommy Hilfiger Basic Embroidered Hoody Sudadera  Azul  Blue Ink   XX-Large  Talla del Fabricante:  para Hombre'
 actualPrice: 35.18 EUR
 currency: EUR
 price: 35.18

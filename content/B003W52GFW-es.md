@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41+alPWKw9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003W52GFW-es'
+slug: 'B003W52GFW-es Timberland Classic 2-Eye  Náuticos para Mujer  Azul  MD Blue Full Grain   35.5 EU'
 actualPrice: 79.1 EUR
 currency: EUR
 price: 79.1

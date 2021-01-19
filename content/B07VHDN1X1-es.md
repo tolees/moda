@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41lf8HSgZKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VHDN1X1-es'
+slug: 'B07VHDN1X1-es HKT by Hackett Hkt 3 SS tee Camiseta  Verde  6fnspruce 6fn   Medium para Hombre'
 actualPrice: 16.8 EUR
 currency: EUR
 price: 16.8

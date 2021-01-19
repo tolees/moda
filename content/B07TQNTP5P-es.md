@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41CX8a9LMSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TQNTP5P-es'
+slug: 'B07TQNTP5P-es Levi s Relaxed Graphic tee Camiseta  Negro  90 s Serif Logo Mineral Black 0044   XX-Large para Hombre'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

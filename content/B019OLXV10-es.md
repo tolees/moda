@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41I03kZW9FL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B019OLXV10-es'
+slug: 'B019OLXV10-es Uneek UC902 - Pantalón de carga  color negro  30 alturas '
 actualPrice: 8 EUR
 currency: EUR
 price: 8

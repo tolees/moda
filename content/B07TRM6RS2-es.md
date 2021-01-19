@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/418xZBNbb3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TRM6RS2-es'
+slug: 'B07TRM6RS2-es Levi s Housemark Graphic tee Camiseta  Rojo  Hm Ssnl Tonal Earth Red 0276   Large para Hombre'
 actualPrice: 17.95 EUR
 currency: EUR
 price: 17.95

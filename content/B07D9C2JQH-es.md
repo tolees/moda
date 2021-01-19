@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41OIroPsJFL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D9C2JQH-es'
+slug: 'B07D9C2JQH-es NNJXD Unicornio Arco Iris Tutú Primer Cumpleaños Trajes de 3 Piezas Mameluco + Falda + Diadema de Oro Tamaño  1  1 año Rosa'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

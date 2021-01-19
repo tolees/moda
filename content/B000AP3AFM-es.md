@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31hYP-0ugRL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B000AP3AFM-es'
+slug: 'B000AP3AFM-es Reebok Classic Nylon Zapatilla de Running Hombre  Negro  Black / White   40 EU'
 actualPrice: 31.45 EUR
 currency: EUR
 price: 31.45

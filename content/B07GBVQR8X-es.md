@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31oHDz-Hb0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GBVQR8X-es'
+slug: 'B07GBVQR8X-es Puma Essentials LG T Camiseta de Manga Corta  Hombre  Blanco White  L'
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31zfRLMcVpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GDJB29T-es'
+slug: 'B07GDJB29T-es Levi s LS Battery Hm Shirt Camisa  Blanco  White 0000   Large para Hombre'
 actualPrice: 31.2 EUR
 currency: EUR
 price: 31.2

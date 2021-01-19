@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31aPF-Dta0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PT8NBTK-es'
+slug: 'B07PT8NBTK-es Marca Amazon - MERAKI Jersey de Algodón con Cremallera Hombre  Azul  Navy Denim   L  Label: L'
 actualPrice: 11.1 EUR
 currency: EUR
 price: 11.1

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41E+Kb-f24L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MMLN7VF-es'
+slug: 'B07MMLN7VF-es Napapijri Rainforest Pocket Chaqueta  Marrón  Golden Brown NC1   XS para Hombre'
 actualPrice: 90.0 EUR
 currency: EUR
 price: 90.0

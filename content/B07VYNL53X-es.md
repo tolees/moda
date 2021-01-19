@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41YP4Z2iCiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VYNL53X-es'
+slug: 'B07VYNL53X-es Tommy Hilfiger TJM NYC Small Logo tee Camiseta Deporte  Gris  Lt Grey Htr P01   Hombre'
 actualPrice: 9.61 EUR
 currency: EUR
 price: 9.61

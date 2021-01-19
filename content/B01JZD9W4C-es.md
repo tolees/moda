@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41FRYoDPr0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01JZD9W4C-es'
+slug: 'B01JZD9W4C-es BOSS Trunk CO/EL Bóxer  Blanco  White 100   Large  Pack de 3  para Hombre'
 actualPrice: 19.5 EUR
 currency: EUR
 price: 19.5

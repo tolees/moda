@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Djyh20svL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0721B9ZBL-es'
+slug: 'B0721B9ZBL-es Teva Hurricane Xlt2  Sandalias de Punta Descubierta para Hombre  Negro  Black Blk   42 EU'
 actualPrice: 52.99 EUR
 currency: EUR
 price: 52.99

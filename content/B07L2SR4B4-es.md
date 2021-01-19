@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41uP2gopGRL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L2SR4B4-es'
+slug: 'B07L2SR4B4-es Asics Netburner Ballistic FF MT  Zapatos de Voleibol para Mujer  Negro  Black/Laser Pink 001   37.5 EU'
 actualPrice: 58.51 EUR
 currency: EUR
 price: 58.51

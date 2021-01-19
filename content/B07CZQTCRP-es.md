@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41kCsP0cw7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CZQTCRP-es'
+slug: 'B07CZQTCRP-es Under Armour Sportstyle Terry H Sudadera con Capucha  Hombre  Blanco  Onyx White/Onyx White 112   M'
 actualPrice: 30.19 EUR
 currency: EUR
 price: 30.19

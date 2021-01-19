@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Jj7tQxPkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QPQX92T-es'
+slug: 'B07QPQX92T-es VGEBY1 Zapatos para Saltar  Zapatos de Rebote Unisex Botas de Rebote para Dar Forma al Cuerpo para Hacer Ejercicio físico 36-38-Gris Rojo '
 actualPrice: 112.59 EUR
 currency: EUR
 price: 112.59

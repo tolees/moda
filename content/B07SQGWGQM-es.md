@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41IsTvKo8yL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SQGWGQM-es'
+slug: 'B07SQGWGQM-es Geox D Sandal Vega A  Sandalia con Pulsera para Mujer  Beige  Taupe C6029   40 EU'
 actualPrice: 50.66 EUR
 currency: EUR
 price: 50.66

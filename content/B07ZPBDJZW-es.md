@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41+kDYE6OmL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZPBDJZW-es'
+slug: 'B07ZPBDJZW-es Charles Wilson Sudadera con Cremallera Completa con Capucha Peso Pesado  Medium  Black  1019  '
 actualPrice: 16.95 EUR
 currency: EUR
 price: 16.95

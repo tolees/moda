@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31jGud1UFfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VPR8MCC-es'
+slug: 'B07VPR8MCC-es Calvin Klein 2pk Bikini  Azul  1BlackIris/1White 0HC   8-9 años  Talla del Fabricante: 8-10  para Niñas'
 actualPrice: 18.09 EUR
 currency: EUR
 price: 18.09

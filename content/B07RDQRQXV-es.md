@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41YT+5ak9eL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RDQRQXV-es'
+slug: 'B07RDQRQXV-es Tommy Hilfiger TJM Novel Logo Crew Jersey de Deporte  Gris  Grey P   Small para Hombre'
 actualPrice: 31.05 EUR
 currency: EUR
 price: 31.05

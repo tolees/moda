@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51j-yTGLuXL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BRHYJNM-es'
+slug: 'B07BRHYJNM-es Relojes para Hombres  Moda Reloj de Cuarzo Reloj de Pulsera de Cuero LIGE Analógico Cronógrafo Negocio Reloje Impermeable'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41c8-+NyI3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SVPP58Q-es'
+slug: 'B07SVPP58Q-es Geox Uomo Snake E  Zapatillas para Hombre  Gris  Lt Grey/Grey C1292   42 EU'
 actualPrice: 59.9 EUR
 currency: EUR
 price: 59.9

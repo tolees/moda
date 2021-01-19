@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31JDG-muqWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YHDH162-es'
+slug: 'B07YHDH162-es NIKE Cv8964 - Bolso bandolera para mujer  color negro/blanco  talla única'
 actualPrice: 13.34 EUR
 currency: EUR
 price: 13.34

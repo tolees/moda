@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Ubfi+VlKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00HGP3ECI-es'
+slug: 'B00HGP3ECI-es Joma Suez Pantalón  Hombre  Rojo  M'
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

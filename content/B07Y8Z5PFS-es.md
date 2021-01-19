@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51PD7yfbv8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y8Z5PFS-es'
+slug: 'B07Y8Z5PFS-es XTI 86290.0  Bolso bandolera para Mujer  Negro  Negro   22x22x7 cm  W x H x L '
 actualPrice: 14.34 EUR
 currency: EUR
 price: 14.34

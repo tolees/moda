@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41R3HmXtRnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087JKYPVH-es'
+slug: 'B087JKYPVH-es Sucreven Mujer Elegante Tacón Alto Pump Punta Redonda Vestido Zapatos Sin Cordones Sencillo Rosa Talla 34 EU'
 actualPrice: 27.78 EUR
 currency: EUR
 price: 27.78

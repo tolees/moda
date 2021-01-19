@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31pCrOrYrQL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N45PZ1K-es'
+slug: 'B07N45PZ1K-es Tommy Hilfiger Corp Long Slv tee Camiseta de Manga Larga  Blanco  Bright White Yaf   Medium para Hombre'
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/415-pFK3dHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082LBM4ZS-es'
+slug: 'B082LBM4ZS-es Zoggs Predator Flex Gafas de natación  Unisex Adulto  Negro/Rojo/Espejo  Regular'
 actualPrice: 26.49 EUR
 currency: EUR
 price: 26.49

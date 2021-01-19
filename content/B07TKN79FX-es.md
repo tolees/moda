@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/317V9kySsOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TKN79FX-es'
+slug: 'B07TKN79FX-es Clarks Tri Sporty  Sandalias de Talón Abierto para Mujer  Beige  White Leather White Leather   42 EU'
 actualPrice: 45.71 EUR
 currency: EUR
 price: 45.71

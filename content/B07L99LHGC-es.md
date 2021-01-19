@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411Wyg9LK8L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L99LHGC-es'
+slug: 'B07L99LHGC-es Under Armour Mk1 Printed Camisa Manga Corta  Hombre  Verde  XL'
 actualPrice: 22.69 EUR
 currency: EUR
 price: 22.69

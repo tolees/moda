@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41m614mDyGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00H9BLH0U-es'
+slug: 'B00H9BLH0U-es Geox J ARTACH Boy A  Zapatillas para Niños  Negro  Black C9999   26 EU'
 actualPrice: 29.33 EUR
 currency: EUR
 price: 29.33

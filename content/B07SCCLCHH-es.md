@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/318sSW4geNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SCCLCHH-es'
+slug: 'B07SCCLCHH-es Fruit of the Loom Valueweight tee  3 Pack Camiseta  Azul  Navy 32   Medium  Size:M   Pack de 3  para Hombre'
 actualPrice: 7.88 EUR
 currency: EUR
 price: 7.88

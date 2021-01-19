@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31xwKSCUjIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073RPZRBQ-es'
+slug: 'B073RPZRBQ-es Helly Hansen HH Tech tee Camiseta Deportiva Manga Corto  Mujer  Light Grey  XL'
 actualPrice: 11.48 EUR
 currency: EUR
 price: 11.48

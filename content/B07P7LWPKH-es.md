@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31SE1Wkfl8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P7LWPKH-es'
+slug: 'B07P7LWPKH-es Joma Open II Falda Señora  Mujer  Negro  XL'
 actualPrice: 16.87 EUR
 currency: EUR
 price: 16.87

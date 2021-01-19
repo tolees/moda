@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-GhrUDBJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0758Q5ZKY-es'
+slug: 'B0758Q5ZKY-es Clarks Lafley Rosen  Sandalias de Talón Abierto para Mujer  Beige  Sand-   39 EU'
 actualPrice: 35.0 EUR
 currency: EUR
 price: 35.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417KFmRi1zL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TWXYHMZ-es'
+slug: 'B07TWXYHMZ-es Lee Logo tee Camiseta  Negro  Small para Mujer'
 actualPrice: 14.04 EUR
 currency: EUR
 price: 14.04

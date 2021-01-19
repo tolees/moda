@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41oa+WB4EzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VHR1HLS-es'
+slug: 'B07VHR1HLS-es Desigual TS Milan Camiseta  Blanco  Blanco 1000   Large para Mujer'
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

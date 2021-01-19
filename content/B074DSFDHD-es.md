@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Gcfwa6wcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074DSFDHD-es'
+slug: 'B074DSFDHD-es Joymoze Moderna Mochila de Ocio para Niñas Mochila Escolar para Adolescentes Mochila Bolso Estampado para Mujer  Gato '
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

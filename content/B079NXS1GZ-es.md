@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Ih4NjgHbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079NXS1GZ-es'
+slug: 'B079NXS1GZ-es Zapatos para Correr En Montaña Asfalto Aire Libre Deportes Zapatillas De Running para Hombre'
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

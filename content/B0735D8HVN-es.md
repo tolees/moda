@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ax+ffWqfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0735D8HVN-es'
+slug: 'B0735D8HVN-es Napapijri Rainforest Winter  Chaqueta para Hombre  Gris  Dark Grey Solid 198   Large'
 actualPrice: 119.99 EUR
 currency: EUR
 price: 119.99

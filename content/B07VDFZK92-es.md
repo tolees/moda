@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41eg7xhEwgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VDFZK92-es'
+slug: 'B07VDFZK92-es Desigual TS Milan Camiseta  Amarillo  Blazing 8035   Small para Mujer'
 actualPrice: 15.58 EUR
 currency: EUR
 price: 15.58

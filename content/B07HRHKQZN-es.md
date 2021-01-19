@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51WS+-kMIHL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HRHKQZN-es'
+slug: 'B07HRHKQZN-es Botas Altas para Mujer Cuero de Invierno Camfosy City Shoes con Piel de Tacón Alto Cómodos Botines Rojos Cálidos para Mujer Colorees Bohemios Originales'
 actualPrice: 73.99 EUR
 currency: EUR
 price: 73.99

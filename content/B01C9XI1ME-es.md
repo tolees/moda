@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41P8G3nAQ+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01C9XI1ME-es'
+slug: 'B01C9XI1ME-es Joopin Gafas de Sol Mujer Polarizadas de Moda Protección UV400 de Gran Tamaño Gafas de Sol Señoras U9045  Vino tinto '
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

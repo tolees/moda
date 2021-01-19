@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41OJ5X1mUFL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CWNMPCY-es'
+slug: 'B07CWNMPCY-es Bveyzi Mujeres RFID Bloqueo Billetera Cuero Zip Alrededor de Embrague Grande Viaje Bolso Correa para la muñeca Rojo de Vino'
 actualPrice: 32.46 EUR
 currency: EUR
 price: 32.46

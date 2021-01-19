@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41gE8x+Q2BL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZH8M1S-es'
+slug: 'B07MZH8M1S-es Superdry Surplus Goods Box FIT tee Camiseta  Turchese  Capri C3h   M para Hombre'
 actualPrice: 18.58 EUR
 currency: EUR
 price: 18.58

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41sNK0FT3yL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K2V8H9Y-es'
+slug: 'B07K2V8H9Y-es Columbia Glacial IV Jersey Polar con Media Cremallera para Mujer  Color: Rosa  Fucsia   Talla: S'
 actualPrice: 17.21 EUR
 currency: EUR
 price: 17.21

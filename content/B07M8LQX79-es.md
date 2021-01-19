@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41RX2J7qspL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M8LQX79-es'
+slug: 'B07M8LQX79-es Wrangler Sherpa Jacket Chaqueta Vaquera  Azul  Winter Bleach 10b   Large para Mujer'
 actualPrice: 33.78 EUR
 currency: EUR
 price: 33.78

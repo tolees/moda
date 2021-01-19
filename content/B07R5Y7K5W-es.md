@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51EgF2C7VfL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R5Y7K5W-es'
+slug: 'B07R5Y7K5W-es TEEHON Carteras Hombre con Monedero  Billetera de Hombre de Piel  Cartera RFID - Bloque 13.56 MHz  10 Ranuras para Tarjetas/Monedas/ID/Billetes  Retro Suave Cuero de Búfalo  Diseño de Botón  Marrón'
 actualPrice: 15.39 EUR
 currency: EUR
 price: 15.39

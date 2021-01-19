@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413M71XSoIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NWVS4WS-es'
+slug: 'B07NWVS4WS-es 18th Birthday Gifts 18 cumpleaños Mujer Original 18 Camiseta'
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

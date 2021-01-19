@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41rQusiXwUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00NWRFSX2-es'
+slug: 'B00NWRFSX2-es Nina Brautmoden - Vestido de novia - trapecio - Manga corta - Mujer blanco 48'
 actualPrice: 23.5 EUR
 currency: EUR
 price: 23.5

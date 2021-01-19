@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31eME1Pr5-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0796CQ4QP-es'
+slug: 'B0796CQ4QP-es Napapijri Rainforest M Sum 1 Chaqueta  Gris  Volcano H74   X-Large para Hombre'
 actualPrice: 79.0 EUR
 currency: EUR
 price: 79.0

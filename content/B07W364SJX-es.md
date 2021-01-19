@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41OLTdrb9XL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W364SJX-es'
+slug: 'B07W364SJX-es Pepe Jeans West Sir Camiseta  Verde  Unesafari 734   X-Large para Hombre'
 actualPrice: 15.25 EUR
 currency: EUR
 price: 15.25

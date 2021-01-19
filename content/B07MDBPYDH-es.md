@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/318tqXSP5FL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MDBPYDH-es'
+slug: 'B07MDBPYDH-es Lee Austin Vaqueros Tapered  Negro  Moto Black HL   31W / 34L para Hombre'
 actualPrice: 22.3 EUR
 currency: EUR
 price: 22.3

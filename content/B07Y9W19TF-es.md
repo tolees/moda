@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-3BOL+XaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y9W19TF-es'
+slug: 'B07Y9W19TF-es edc by Esprit 129cc1k040 Camisa Manga Larga  Gris  Light Grey 5 044   X-Large para Mujer'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

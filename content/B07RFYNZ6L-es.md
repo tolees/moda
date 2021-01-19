@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31+YGUO38DL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RFYNZ6L-es'
+slug: 'B07RFYNZ6L-es G-STAR RAW 3301 Slim Vaqueros  Rinsed B780-082  26W / 34L para Hombre'
 actualPrice: 17.54 EUR
 currency: EUR
 price: 17.54

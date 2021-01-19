@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41o49Q6EhcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z4PCTBG-es'
+slug: 'B07Z4PCTBG-es LIVACASA Bolso para Ordenador Bandolera para Portátil Funda para Portátil Computadora Macbook Air iPad Negocios para Mujeres y Hombres'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

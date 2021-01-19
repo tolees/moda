@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4140egAirmL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0044WVV5S-es'
+slug: 'B0044WVV5S-es Crocs Classic Clog  Zuecos Unisex Adulto  Rosa  Blossom 682   39/40 EU'
 actualPrice: 21.07 EUR
 currency: EUR
 price: 21.07

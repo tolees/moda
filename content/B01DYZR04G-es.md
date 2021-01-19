@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Itwt7BpZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01DYZR04G-es'
+slug: 'B01DYZR04G-es Polaroid PLD 6014/S Y2 YYV Gafas de sol  Negro  Black Rubber/Grey Pz   56 Unisex Adulto'
 actualPrice: 35.5 EUR
 currency: EUR
 price: 35.5

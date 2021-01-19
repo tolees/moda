@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/316eBV61CeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B009AJFC5U-es'
+slug: 'B009AJFC5U-es Ray-Ban Justin RB4165 - Gafas de sol Unisex  Negro  Black Rubber   51 mm'
 actualPrice: 94.41 EUR
 currency: EUR
 price: 94.41

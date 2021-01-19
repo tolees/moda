@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31WHxQRQmhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0844VVF3M-es'
+slug: 'B0844VVF3M-es Pepe Jeans Camiseta Trey Marino Hombre Small Blanco'
 actualPrice: 23.0 EUR
 currency: EUR
 price: 23.0

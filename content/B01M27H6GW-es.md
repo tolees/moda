@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ZORzk5qiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M27H6GW-es'
+slug: 'B01M27H6GW-es Timberland Tidelands Classic 2 Eye  Náuticos para Hombre  Azul  Navy Full Grain   41 EU'
 actualPrice: 61.79 EUR
 currency: EUR
 price: 61.79

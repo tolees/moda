@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41WcJJr6knL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SRK2YDC-es'
+slug: 'B07SRK2YDC-es Geox U Snake.2 A  Zapatillas para Hombre  Beige  Beige/Taupe C5300   43 EU'
 actualPrice: 32.75 EUR
 currency: EUR
 price: 32.75

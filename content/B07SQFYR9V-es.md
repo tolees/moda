@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41IGKMuwA7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SQFYR9V-es'
+slug: 'B07SQFYR9V-es Geox B Kaytan A  Sandalias de Punta Descubierta para Bebés  Beige  Beige/Gold C0871   25 EU'
 actualPrice: 34.9 EUR
 currency: EUR
 price: 34.9

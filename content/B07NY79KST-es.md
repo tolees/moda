@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41xu3jUyuFL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NY79KST-es'
+slug: 'B07NY79KST-es Superdry Digitize Reflective Gilet Chaleco  Negro  Black 02a   XX-Large  Talla del Fabricante: 2XL  para Hombre'
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

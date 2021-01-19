@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31fq3iY-nIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00Q4MYSSI-es'
+slug: 'B00Q4MYSSI-es Lacoste TH7618  Camiseta para Hombre  Azul  Marine   Medium  Talla del fabricante: 4 '
 actualPrice: 24.45 EUR
 currency: EUR
 price: 24.45

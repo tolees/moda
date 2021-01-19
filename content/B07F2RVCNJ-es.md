@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41PBZ3m7XzL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F2RVCNJ-es'
+slug: 'B07F2RVCNJ-es Helly Hansen Hp Fleece Jacket  Chaqueta deportiva para Hombre  Rojo  Rojo 147   Medium'
 actualPrice: 57.45 EUR
 currency: EUR
 price: 57.45

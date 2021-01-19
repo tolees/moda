@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41RKYmHAK1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RCJJKTJ-es'
+slug: 'B07RCJJKTJ-es G-STAR RAW Graphic 1 Slim Camiseta  Blanco  White 110   Large para Hombre'
 actualPrice: 19.71 EUR
 currency: EUR
 price: 19.71

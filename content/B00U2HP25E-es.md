@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41DtZRDTOQL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00U2HP25E-es'
+slug: 'B00U2HP25E-es Camiseta para chicos de Minecraft Negro negro 5-6 Years'
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

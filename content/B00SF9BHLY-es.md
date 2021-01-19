@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41UN1VxEq8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00SF9BHLY-es'
+slug: 'B00SF9BHLY-es G-STAR RAW 3301 Slim Fit Jeans Vaqueros  Medium Aged 6090-071  34W / 32L para Hombre'
 actualPrice: 64.49 EUR
 currency: EUR
 price: 64.49

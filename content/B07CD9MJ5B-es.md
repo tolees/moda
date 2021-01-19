@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31oSKo+syXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CD9MJ5B-es'
+slug: 'B07CD9MJ5B-es REPLAY M3591 .000.2660 Camiseta  Blanco  White 1   Large para Hombre'
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

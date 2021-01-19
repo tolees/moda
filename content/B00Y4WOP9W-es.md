@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41ikXJqer-L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00Y4WOP9W-es'
+slug: 'B00Y4WOP9W-es Neosens  S849 Restored Skin Rococo Zapatos con tira vertical Mujer  Negro  Ebony   39'
 actualPrice: 65.88 EUR
 currency: EUR
 price: 65.88

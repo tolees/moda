@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31jiFcs7OeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B015G6BH9K-es'
+slug: 'B015G6BH9K-es Ermenegildo Zegna Brillengestelle EZ5032 Monturas de gafas  Marrón  Braun   51.0 para Hombre'
 actualPrice: 95.9 EUR
 currency: EUR
 price: 95.9

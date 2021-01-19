@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/4168IE%2Bh67L._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B06VXRVYML-es'
+slug: 'B06VXRVYML-es find. Sudadera de Volantes para Mujer   Marfil  Ivory   46  Talla del Fabricante: XX-Large '
 actualPrice: 15.35 EUR
 currency: EUR
 price: 15.35

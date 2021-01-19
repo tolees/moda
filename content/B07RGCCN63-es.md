@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41rc7xj7SrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RGCCN63-es'
+slug: 'B07RGCCN63-es Tommy Hilfiger Corp Bar tee Camiseta Deporte  Gris  Grey P9x   X-Large para Hombre'
 actualPrice: 27.95 EUR
 currency: EUR
 price: 27.95

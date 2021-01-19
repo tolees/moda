@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41rVhYMGhlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WTZ3STM-es'
+slug: 'B07WTZ3STM-es AOQUSSQOA Mujer Conjuntos de Bikinis para Mujer Bikini de Dos Piezas Falda de Playa Traje de baño  EU 36-38  M   K '
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

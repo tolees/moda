@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51CrjGR8uSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GL2G1L5-es'
+slug: 'B07GL2G1L5-es Rismart Hombre Punta Cerrado Gancho y Bucle Al Aire Libre Excursionismo Cuero Zapatos Sandalias y Chanclas SN1505 Gris 39 EU '
 actualPrice: 29.56 EUR
 currency: EUR
 price: 29.56

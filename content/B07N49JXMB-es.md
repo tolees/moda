@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41bwfX0WldL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N49JXMB-es'
+slug: 'B07N49JXMB-es United Colors of Benetton Basico 2 Man Camiseta de Manga Larga  Rojo  Rossol 015   Medium para Hombre'
 actualPrice: 13.56 EUR
 currency: EUR
 price: 13.56

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/412dTv6kEdL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B073QN6PGG-es'
+slug: 'B073QN6PGG-es find.  Chaqueta de Leñador para Hombre  Verde  Grün   Medium'
 actualPrice: 18 EUR
 currency: EUR
 price: 18

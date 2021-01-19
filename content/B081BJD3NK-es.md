@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/419dYrDSTnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081BJD3NK-es'
+slug: 'B081BJD3NK-es Columbia Powder Pass Chaqueta con Capucha  Mujer  Rosa  Peach Cloud Ferny Ferns Print   L'
 actualPrice: 45.69 EUR
 currency: EUR
 price: 45.69

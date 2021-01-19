@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/316NkJV8FNL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B075R9KRD8-es'
+slug: 'B075R9KRD8-es Trangoworld Sieber Complet Chaqueta  Hombre  Kaki  XL'
 actualPrice: 160.99 EUR
 currency: EUR
 price: 160.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413te1vvo0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077Z7NY1Q-es'
+slug: 'B077Z7NY1Q-es HIKARO Sudadera con Print Hombre  Azul  Navy   50  Talla del fabricante: Medium '
 actualPrice: 8.89 EUR
 currency: EUR
 price: 8.89

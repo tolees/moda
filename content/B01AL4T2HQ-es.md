@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41J645e7jVL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01AL4T2HQ-es'
+slug: 'B01AL4T2HQ-es Wilson M Rush 9 Woven Short Blue Mir. - Pantalón Corto para Hombre  Color Azul  Talla S'
 actualPrice: 14.5 EUR
 currency: EUR
 price: 14.5

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51+BQEFuuSL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DV7V1H1-es'
+slug: 'B07DV7V1H1-es Bolso de Noche Bolso de Hombro Mujer Glitter Diamond Embrague Bolsos de Hechos a Mano Cadena de Encogimiento para Boda/Fiesta/Baile-Plateado'
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

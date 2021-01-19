@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41PcgqQyyPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076HQGND5-es'
+slug: 'B076HQGND5-es adidas CORE18 Hoody Sudadera con Capucha  Hombre  Azul  Azul/Blanco   L'
 actualPrice: 23.3 EUR
 currency: EUR
 price: 23.3

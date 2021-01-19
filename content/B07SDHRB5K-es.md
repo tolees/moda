@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Cn4XrHBiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SDHRB5K-es'
+slug: 'B07SDHRB5K-es Crocs Classic Clog Kids Roomy fit  Zuecos Unisex niños  Verde  Deep Green 3tj   19/20 EU'
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41gRPrOinkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFV9CMD-es'
+slug: 'B07LFV9CMD-es Geox D HOSMOS B ABX B  Botas de Nieve para Mujer  Negro  Black C9999   39 EU'
 actualPrice: 31.64 EUR
 currency: EUR
 price: 31.64

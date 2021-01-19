@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41bmSAzkfAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TLFML2Y-es'
+slug: 'B07TLFML2Y-es Levi s Housemark Graphic tee Camiseta  Rojo  Hm Ssnl Emb Farallon X 0259   Small para Hombre'
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41qfS9GmoRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FQX2DVL-es'
+slug: 'B07FQX2DVL-es Clarks Un Trek Part  Sandalias de Talón Abierto para Hombre  Verde  Dark Olive Nubuck-   45 EU'
 actualPrice: 58.92 EUR
 currency: EUR
 price: 58.92

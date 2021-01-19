@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41T3C0uV5YL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PXRJNK3-es'
+slug: 'B07PXRJNK3-es oodji Ultra Mujer Camisa de Algodón Oversize  Azul  ES 36 / XS'
 actualPrice: 11.4 EUR
 currency: EUR
 price: 11.4

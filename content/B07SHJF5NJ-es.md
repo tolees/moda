@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41wcS-G-QzL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SHJF5NJ-es'
+slug: 'B07SHJF5NJ-es Burton Oak Sudadera  Hombre  Keef Heather  M'
 actualPrice: 26.37 EUR
 currency: EUR
 price: 26.37

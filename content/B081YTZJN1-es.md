@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413ARuPKCbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081YTZJN1-es'
+slug: 'B081YTZJN1-es Jack & Jones Jorpex Sweat Hood Sudadera con Capucha  Flan  L para Hombre'
 actualPrice: 8.94 EUR
 currency: EUR
 price: 8.94

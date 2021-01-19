@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31UzgqjfqAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M5GTBHE-es'
+slug: 'B01M5GTBHE-es Lacoste Sport SH7609 Sudadera con Capucha  Gris  Argent Chine/Marine   X-Large  Talla del Fabricante: 6  para Hombre'
 actualPrice: 49.95 EUR
 currency: EUR
 price: 49.95

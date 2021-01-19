@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41DfyrTFFhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MMLLJSV-es'
+slug: 'B07MMLLJSV-es Napapijri Rainforest Winter 1 Chaqueta  Orange  Orangeade A21   XL para Hombre'
 actualPrice: 58.15 EUR
 currency: EUR
 price: 58.15

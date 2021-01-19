@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/410p0JZyDcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VFGB4V7-es'
+slug: 'B07VFGB4V7-es Clarks Cotrell Lane 261486527  Zapatos de Cordones Derby para Hombre  Verde  Olive Combi Olive Combi   41 EU'
 actualPrice: 34.13 EUR
 currency: EUR
 price: 34.13

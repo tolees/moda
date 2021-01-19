@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51GbKFZAAAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V2CLFHN-es'
+slug: 'B07V2CLFHN-es ACVIP - Camiseta de manga corta con cuello en V y hombros descubiertos de algodón rojo 120 cm 6-7 años '
 actualPrice: 11.05 EUR
 currency: EUR
 price: 11.05

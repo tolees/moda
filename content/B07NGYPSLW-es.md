@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31XZMA4-qQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NGYPSLW-es'
+slug: 'B07NGYPSLW-es Marca Amazon - Iris & Lilly Tanga Mujer  Pack de 5  Negro  Black   XXL  Label: XXL'
 actualPrice: 10.49 EUR
 currency: EUR
 price: 10.49

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41GnrelWaAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W91WVZ4-es'
+slug: 'B07W91WVZ4-es Tommy Hilfiger Abstract Stripe tee Camiseta Deporte  Gris  Medium Grey Heather   XX-Large para Hombre'
 actualPrice: 19.26 EUR
 currency: EUR
 price: 19.26

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51veVCROVDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01AIMNFFG-es'
+slug: 'B01AIMNFFG-es Relaxdays – Zapatero Compuesto de estructuras de Acero  Tela y Conectores de plástico con Medidas 90.5 x 87 x 29.5 cm 5 Pisos hasta 25 Pares de Zapatos  Color Blanco'
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

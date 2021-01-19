@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/313VtIaMZbL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L13XJ5Y-es'
+slug: 'B07L13XJ5Y-es Under Armour Rival Fleece Sportstyle LC Sleeve Graphic Sudadera con Capucha  Mujer  Blanco  Onyx White/Black 112   XS'
 actualPrice: 17.24 EUR
 currency: EUR
 price: 17.24

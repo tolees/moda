@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41I9Gqs2KlL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BB5TRDT-es'
+slug: 'B07BB5TRDT-es The North Face M Jacket Chaqueta Sangro  Hombre  Azul  Kodiak Blue lig   S'
 actualPrice: 81.41 EUR
 currency: EUR
 price: 81.41

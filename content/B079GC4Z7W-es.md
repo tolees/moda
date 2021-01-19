@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31kPViJw9ML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079GC4Z7W-es'
+slug: 'B079GC4Z7W-es find. Sandalias con Pulsera Mujer  Marrón  Brown Brown   39 EU'
 actualPrice: 7.24 EUR
 currency: EUR
 price: 7.24

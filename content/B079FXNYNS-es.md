@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412LWRv8T3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079FXNYNS-es'
+slug: 'B079FXNYNS-es Under Armour Sportstyle Cotton Logo Shorts  Pantalón Corto Hombre  Negro  SM'
 actualPrice: 28.9 EUR
 currency: EUR
 price: 28.9

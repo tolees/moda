@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Ubituc2nL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JH4ZYV9-es'
+slug: 'B07JH4ZYV9-es Pepe Jeans Kai Pm402100 Chaqueta   Sailor 580   Small para Hombre'
 actualPrice: 35.34 EUR
 currency: EUR
 price: 35.34

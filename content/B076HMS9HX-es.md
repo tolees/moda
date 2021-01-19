@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41m2Vp5rv9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076HMS9HX-es'
+slug: 'B076HMS9HX-es adidas CORE18 RN JKT Chaqueta Deportiva  Hombre  Azul  Dark Blue/White   S'
 actualPrice: 28.98 EUR
 currency: EUR
 price: 28.98

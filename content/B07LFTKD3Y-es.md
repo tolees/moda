@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51JUX6fUlnL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFTKD3Y-es'
+slug: 'B07LFTKD3Y-es Zapatillas de Seguridad Hombres LM-30 Zapatos de Trabajo de Cabeza de Acero Transpirable Reflectante súper Ligero Antideslizante'
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

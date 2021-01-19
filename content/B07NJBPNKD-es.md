@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/5148-HhgW8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NJBPNKD-es'
+slug: 'B07NJBPNKD-es Springfield 1.Gym.MD.Corto Cruzado Vestido  Multicolor  Multicolor 38   36  Tamaño del Fabricante: 36  para Mujer'
 actualPrice: 9.88 EUR
 currency: EUR
 price: 9.88

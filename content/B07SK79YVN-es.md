@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41mzRfwF3dL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SK79YVN-es'
+slug: 'B07SK79YVN-es Compatible con Xiaomi FIMI X8 SE Bolsa de Almacenamiento Impermeable Bolsa de Hombro portátil Bolso Duradero'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

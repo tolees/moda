@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41b8fWoqmBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083ZYBXFS-es'
+slug: 'B083ZYBXFS-es DCC FIONNI Collar Mujer Corazon Colgante Plata de Ley 925 Joyeria Flores Colgante Collares Personalizados con Caja de Regalo Mama Aniversario Cumpleaños'
 actualPrice: 23.0 EUR
 currency: EUR
 price: 23.0

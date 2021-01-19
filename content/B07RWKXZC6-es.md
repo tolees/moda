@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ePiYVjwbL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RWKXZC6-es'
+slug: 'B07RWKXZC6-es BILLABONG Tendencies Crew Sudadera  Hombre  Negro  Black 19   One Size  Tamaño del Fabricante: M '
 actualPrice: 25.21 EUR
 currency: EUR
 price: 25.21

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41yiZma-VtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WWBPLQK-es'
+slug: 'B07WWBPLQK-es Vinmori Chaleco Térmico Eléctrico  Tamaño Lavable  Carga USB Ajustable  Ropa de Abrigo de Invierno Unisex Chaleco Eléctrico'
 actualPrice: 30.04 EUR
 currency: EUR
 price: 30.04

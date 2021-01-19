@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41AaDUPNTzL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RH2G7N1-es'
+slug: 'B07RH2G7N1-es G-STAR RAW Graphic 13 Sudadera  Gris  Lt Grey Htr A302   XX-Small para Hombre'
 actualPrice: 39.97 EUR
 currency: EUR
 price: 39.97

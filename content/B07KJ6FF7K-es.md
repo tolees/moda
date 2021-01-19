@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/415cQ0r1EOL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KJ6FF7K-es'
+slug: 'B07KJ6FF7K-es Love Moschino Jc4002pp18la0500  bolso bandolera Unisex Adulto  Rojo  Rosso   14x8x23 centimeters  W x H x L '
 actualPrice: 99.01 EUR
 currency: EUR
 price: 99.01

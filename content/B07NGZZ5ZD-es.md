@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Jvrjbc37L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NGZZ5ZD-es'
+slug: 'B07NGZZ5ZD-es Real Betis - Temporada 2019/2020 - Kappa - Official Away  Jersey Act  Hombre  Neutro  L'
 actualPrice: 54.39 EUR
 currency: EUR
 price: 54.39

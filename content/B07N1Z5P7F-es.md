@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41wwrtcYx7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N1Z5P7F-es'
+slug: 'B07N1Z5P7F-es Clarks Deva Mae  Zapatos de tacón. para Mujer  Negro Combi Black Combi Black  41.5 EU'
 actualPrice: 26.55 EUR
 currency: EUR
 price: 26.55

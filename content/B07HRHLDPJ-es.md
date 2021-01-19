@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41IgqA8z4DL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HRHLDPJ-es'
+slug: 'B07HRHLDPJ-es YuamMei 1 Par de Guantes de Protección Completos  Guantes de Contacto con Dedos Completos para Sillines  Bicicletas  Motocicletas  Entrenamiento al Aire Libre  Caza  Senderismo  Cross Country XL '
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

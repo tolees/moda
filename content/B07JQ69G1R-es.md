@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ayAo56OrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JQ69G1R-es'
+slug: 'B07JQ69G1R-es adidas Tiro 19 Training Track Top Jkt Chaqueta Deportiva  Hombre  Azul  Bold Blue/Dark Blue/White   M'
 actualPrice: 33.94 EUR
 currency: EUR
 price: 33.94

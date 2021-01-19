@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Hwb6Re+xL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06WVD56CC-es'
+slug: 'B06WVD56CC-es camel active 5-Pocket Madison Vaqueros Straight  Azul  Raw Denim 42   W31/L30  Talla del Fabricante: 31/30  para Hombre'
 actualPrice: 50.1 EUR
 currency: EUR
 price: 50.1

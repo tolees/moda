@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31MKELQC4yL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00GCZCZOG-es'
+slug: 'B00GCZCZOG-es Redskins Gosseti  Zapatos de Cordones Oxford para Hombre  Negro-Negro  45 EU'
 actualPrice: 48.1 EUR
 currency: EUR
 price: 48.1

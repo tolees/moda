@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41X0I7bWOdL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0779FSTGW-es'
+slug: 'B0779FSTGW-es Clarks Originals Wallabee  Zapatos de Cordones Derby para Hombre  Marrón  Cola-   46 EU'
 actualPrice: 76.07 EUR
 currency: EUR
 price: 76.07

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413B1Pmfd5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V3N1L5X-es'
+slug: 'B07V3N1L5X-es Tommy Hilfiger Casual Cork Beach Sandal  Sandalias con Punta Abierta para Hombre  Azul  Desert Sky Dw5   42 EU'
 actualPrice: 24.0 EUR
 currency: EUR
 price: 24.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/512EXjw7UnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PDFKYTK-es'
+slug: 'B07PDFKYTK-es Tous K Shock Rever Girls  Organizadore de Bolso para Mujer   Multicolor 995900863   35x22x15 cm  W x H x L '
 actualPrice: 17.5 EUR
 currency: EUR
 price: 17.5

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31fHMEJbLWL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TVTXXK8-es'
+slug: 'B07TVTXXK8-es Women s Secret British Multilicense MB PE Rain PJ Conjuntos de Pijama  Verde  Gama Verdes 27   Medium  Tamaño del Fabricante: M  para Mujer'
 actualPrice: 20.76 EUR
 currency: EUR
 price: 20.76

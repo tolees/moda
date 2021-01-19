@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41eYhzOBFTL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H37VVTX-es'
+slug: 'B07H37VVTX-es Pastaza Hombre Mujer Botas de Nieve Senderismo Impermeables Deportes Trekking Zapatos Invierno Forro Piel Sneakers Marrón 41EU'
 actualPrice: 26.83 EUR
 currency: EUR
 price: 26.83

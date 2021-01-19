@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41JVuMMwDoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VPQWJHT-es'
+slug: 'B07VPQWJHT-es Tommy Hilfiger Stretch Slim Fit tee Camiseta Deporte  Desert Sky/White  X-Small para Hombre'
 actualPrice: 13.57 EUR
 currency: EUR
 price: 13.57

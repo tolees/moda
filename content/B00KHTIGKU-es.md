@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41+BXv6ZdLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KHTIGKU-es'
+slug: 'B00KHTIGKU-es Under Armour UA Heatgear Armour Sleeveless Camiseta Sin Mangas  Hombre  Azul  Midnight Navy/Steel 410   M'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41zgnKW2nGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VVRD2FC-es'
+slug: 'B07VVRD2FC-es Pepe Jeans Golders Camiseta  Naranja  Sundown 166   X-Small para Hombre'
 actualPrice: 19.17 EUR
 currency: EUR
 price: 19.17

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41zmoeDXqDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZVQF5ZB-es'
+slug: 'B07ZVQF5ZB-es Levi s SS Original Hm tee Camiseta  Dusky Citron  M para Hombre'
 actualPrice: 13.65 EUR
 currency: EUR
 price: 13.65

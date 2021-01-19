@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31sWYViu+zL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07STZKFYL-es'
+slug: 'B07STZKFYL-es Pepe Jeans Stanley Vaqueros Straight  Blanco  000Denim 000   W34/L34  Talla del Fabricante: 34  para Hombre'
 actualPrice: 33.24 EUR
 currency: EUR
 price: 33.24

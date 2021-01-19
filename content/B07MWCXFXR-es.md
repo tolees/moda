@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31QdugxF83L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MWCXFXR-es'
+slug: 'B07MWCXFXR-es RFID Delgado Billetera de Acero Inoxidable con Tecnología de Bloqueo RFID Que Protege Tus Tarjetas de Crédito y DNI para Tarjetero con 6 Ranuras Ultra Delgad  para Hombre y Mujer.  Ⅰ#Negro-Acero '
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

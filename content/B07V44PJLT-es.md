@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31s22l4AycL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V44PJLT-es'
+slug: 'B07V44PJLT-es SALOMON Agile FZ Hoodie M Chaqueta Cortavientos  Hombre  Verde  Green Gables   S'
 actualPrice: 40.0 EUR
 currency: EUR
 price: 40.0

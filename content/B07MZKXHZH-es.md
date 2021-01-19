@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41G0Ow6QdiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZKXHZH-es'
+slug: 'B07MZKXHZH-es Gioseppo 56856  Botines para Niñas  Morado Burdeos  25 EU'
 actualPrice: 13.71 EUR
 currency: EUR
 price: 13.71

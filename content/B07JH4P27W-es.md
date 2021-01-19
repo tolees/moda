@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41i5Gnzab+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JH4P27W-es'
+slug: 'B07JH4P27W-es Pepe Jeans Belle Pg580920 Sudadera   Grey Marl 933   4-5 años  Talla del Fabricante: 104/4 años  para Niñas'
 actualPrice: 32.95 EUR
 currency: EUR
 price: 32.95

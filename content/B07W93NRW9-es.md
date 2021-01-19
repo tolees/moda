@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41qomTTgHyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W93NRW9-es'
+slug: 'B07W93NRW9-es Jack & Jones Jormastul Sweat Hood Sudadera con Capucha  Azul  Light Grey Melange Fit: Reg   L para Hombre'
 actualPrice: 8.32 EUR
 currency: EUR
 price: 8.32

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41yoj8CFPqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001QOJ1ZY-es'
+slug: 'B001QOJ1ZY-es Levi s 501 Original Fit- Vaqueros para hombre  Azul  33W x 32L'
 actualPrice: 39.19 EUR
 currency: EUR
 price: 39.19

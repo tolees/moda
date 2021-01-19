@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41b-XnrXeuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VKGNP24-es'
+slug: 'B07VKGNP24-es Hackett London Amr Knit Shoulder Camiseta  Azul  595navy 595   Medium para Hombre'
 actualPrice: 48.31 EUR
 currency: EUR
 price: 48.31

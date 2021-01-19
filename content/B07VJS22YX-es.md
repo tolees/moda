@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-kbwmItiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VJS22YX-es'
+slug: 'B07VJS22YX-es SELECTED HOMME Slhdean Parka W Abrigo  Azul  Dark Sapphire Dark Sapphire   XL para Hombre'
 actualPrice: 31.38 EUR
 currency: EUR
 price: 31.38

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31SvOORQMxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G5JQYS3-es'
+slug: 'B07G5JQYS3-es find. 2 Pack Slim Shirt - Camisa Hombre  Multicolor  Contrast Charcoal With Black / White   42 cm  Label: XL'
 actualPrice: 7.91 EUR
 currency: EUR
 price: 7.91

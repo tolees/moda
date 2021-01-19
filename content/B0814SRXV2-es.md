@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31UYCMnXpHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0814SRXV2-es'
+slug: 'B0814SRXV2-es Under Armour UA Tech P Pantalón de Entrenamiento  Hombre  Azul  3232'
 actualPrice: 43.9 EUR
 currency: EUR
 price: 43.9

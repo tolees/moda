@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31HwUs57-cL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00HB55OHQ-es'
+slug: 'B00HB55OHQ-es Crocs Classic Z  Zuecos con Correa Trasera Unisex Adulto  Rojo  Pepper   36/37 EU'
 actualPrice: 26.0 EUR
 currency: EUR
 price: 26.0

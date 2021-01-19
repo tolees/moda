@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41CqAFTJLeL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RCGGMJ3-es'
+slug: 'B07RCGGMJ3-es Columbia Pouring Adventure II Chaqueta para Lluvia  Hombre  Azul  Dark Mountain   Dark Mountain   Talla: XS'
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

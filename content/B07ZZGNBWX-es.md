@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41m39DPNK7L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZZGNBWX-es'
+slug: 'B07ZZGNBWX-es Charles Wilson Jersey de Punto Fino de Algodón Cuello Pico para Hombre  XXX-Large  Brown Rust  1119  '
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

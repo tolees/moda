@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41DN+UNcMvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M83VZGT-es'
+slug: 'B07M83VZGT-es Napapijri Rainforest Winter 1 Chaqueta  Azul  French Blue Bb7   L para Hombre'
 actualPrice: 120.49 EUR
 currency: EUR
 price: 120.49

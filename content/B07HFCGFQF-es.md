@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31f6lvawxuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HFCGFQF-es'
+slug: 'B07HFCGFQF-es SIMYJOY Mujere Korea Pop Fans Estrellado Sudaderas Love Yourself Niñas Cool Casual Linda Jersey Loose Fitting Top Blanco S'
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

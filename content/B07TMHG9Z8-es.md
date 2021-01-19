@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Crr7BgfCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TMHG9Z8-es'
+slug: 'B07TMHG9Z8-es Levi s Barstow Western Standard Camisa  Azul  Red Cast Stone 0001   Medium para Hombre'
 actualPrice: 48.99 EUR
 currency: EUR
 price: 48.99

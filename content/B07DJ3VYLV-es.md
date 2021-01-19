@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31D5rZfJz3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DJ3VYLV-es'
+slug: 'B07DJ3VYLV-es Geox D Nebula C  Zapatillas para Mujer  Negro  Gun C1357   38 EU'
 actualPrice: 33.59 EUR
 currency: EUR
 price: 33.59

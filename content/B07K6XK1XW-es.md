@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41G5buAg2eL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K6XK1XW-es'
+slug: 'B07K6XK1XW-es Levi s 502 Regular Taper Vaqueros  Gris  Gobbler ADV 0297   32W / 30L para Hombre'
 actualPrice: 59.49 EUR
 currency: EUR
 price: 59.49

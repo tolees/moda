@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41bIipHaAiL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079ZZMW4G-es'
+slug: 'B079ZZMW4G-es VAIRO Falda Pantalon  Skort  Columns  Negro/Rosa  M '
 actualPrice: 17.9 EUR
 currency: EUR
 price: 17.9

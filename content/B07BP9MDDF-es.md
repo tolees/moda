@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31n3EzaK1OL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BP9MDDF-es'
+slug: 'B07BP9MDDF-es find. Camisa Formal Entallada Hombre  Azul  Navy   X-Large  Talla del fabricante: X-Large 16.5 '
 actualPrice: 10 EUR
 currency: EUR
 price: 10

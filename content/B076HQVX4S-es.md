@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41jFpJRKU6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076HQVX4S-es'
+slug: 'B076HQVX4S-es adidas Core18 Pre Jkty Chaqueta de Deporte  Unisex Niños  Negro/Blanco  13-14Y'
 actualPrice: 18.89 EUR
 currency: EUR
 price: 18.89

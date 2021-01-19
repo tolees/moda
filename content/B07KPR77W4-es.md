@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41fFjNj5IqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KPR77W4-es'
+slug: 'B07KPR77W4-es REPLAY Anbass Vaqueros Slim  Azul  Medium Blue 9   W28/L30  Talla del Fabricante: 28  para Hombre'
 actualPrice: 17.08 EUR
 currency: EUR
 price: 17.08

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41LxctjH9jL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B081CDQ3QS-es'
+slug: 'B081CDQ3QS-es Geographical Norway Parka NIÑO Boomerang Azul Marino 12'
 actualPrice: 71.2 EUR
 currency: EUR
 price: 71.2

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZJZjIcsbL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B004MMQDYO-es'
+slug: 'B004MMQDYO-es Josef Seibel Schuhfabrik GmbH Anvers 08  Zapatos de Cordones Derby para Hombre  Negro  39 EU'
 actualPrice: 40.7 EUR
 currency: EUR
 price: 40.7

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/514uE-UIv2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083PVYGM9-es'
+slug: 'B083PVYGM9-es Relojes para Hombre Moda Deporte Cuarzo Analógico Negro Malla Acero Inoxidable Impermeable Cronógrafo Reloj de Pulsera  Fecha automática'
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

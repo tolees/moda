@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41UycaM+oXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VWS5MXF-es'
+slug: 'B07VWS5MXF-es El Naturalista Zumaia  Sandalias con Punta Abierta para Mujer  Amarillo Curry Mixed Curry Mixed  36 EU'
 actualPrice: 71.95 EUR
 currency: EUR
 price: 71.95

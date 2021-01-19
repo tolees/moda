@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41uMoWGp1cL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B008H2C4KC-es'
+slug: 'B008H2C4KC-es Timberland Euro Sprint Hiker  Zapatillas Chukka para Hombre  Negro  Black Nubuck   40 EU'
 actualPrice: 105.99 EUR
 currency: EUR
 price: 105.99

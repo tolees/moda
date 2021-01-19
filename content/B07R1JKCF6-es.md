@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ArEHHDjLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R1JKCF6-es'
+slug: 'B07R1JKCF6-es Bolso de Fiesta Pequeña Elegante Noche Diamantes de imitación Clutch Monedero del Banquete Bolso de Boda Cocktail Dorado'
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

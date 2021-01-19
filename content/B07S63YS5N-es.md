@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41JnVCVkRbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S63YS5N-es'
+slug: 'B07S63YS5N-es Crocs Literide Flip  Chanclas Unisex Adulto  Verde  Neo Mint/Almost White 3tp   41/42 EU'
 actualPrice: 18.48 EUR
 currency: EUR
 price: 18.48

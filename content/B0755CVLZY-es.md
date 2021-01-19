@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51qFjxvo68L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0755CVLZY-es'
+slug: 'B0755CVLZY-es Vicloon Organizador de Equipaje 8 en 1 Set de Organizadores de Viajes  Impermeable Organizador de Maleta Bolsa Incluir 3 Cubos de Embalaje 3 Bolsos de la Compresión y 2 Bolsas de Zapatos  Azul Oscuro '
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

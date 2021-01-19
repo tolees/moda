@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41XWBzQ1l0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P2L5QTG-es'
+slug: 'B07P2L5QTG-es Goodthreads Standard-fit Long-Sleeve Stretch Oxford Shirt  All Hours  Camisa abotonada  azul vaquero  M Tall'
 actualPrice: 9.77 EUR
 currency: EUR
 price: 9.77

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51lxe3olMHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QD9DBMY-es'
+slug: 'B07QD9DBMY-es MerCie Joyeria de creación Artesanal de Juguete | 1800 Azulejos y Conectores para Crear Joyas  Accesorios de Moda  Ropa de muñecas y más | Juego de Novedad para Chicas 6 7 8 9 10+ años'
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

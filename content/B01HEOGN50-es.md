@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41FMor6MW3L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HEOGN50-es'
+slug: 'B01HEOGN50-es Crocs Classic Clog Kids Roomy fit Zuecos Unisex niños  Rosa  Carnation 6I2   19/20 EU'
 actualPrice: 19.68 EUR
 currency: EUR
 price: 19.68

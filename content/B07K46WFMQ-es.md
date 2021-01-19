@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/410DVLB3XfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K46WFMQ-es'
+slug: 'B07K46WFMQ-es WISHDOIT Hombre Moda Clásico Negro Ultra-Delgado Acero Inoxidable Reloj de Cuarzo Analógico Impermeable Casual Simple Deportiva Pulsera de Malla'
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Grc6xdSQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DYC1LZW-es'
+slug: 'B07DYC1LZW-es Quiksilver Monkey Caged  Zapatos de Playa y Piscina para Niños  Azul  Blue/Grey/Blue Xbsb   38 EU'
 actualPrice: 17.49 EUR
 currency: EUR
 price: 17.49

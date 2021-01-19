@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41qV5mcyrXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SWSKGLW-es'
+slug: 'B07SWSKGLW-es Geox J Alonisso Boy D  Zapatillas Altas para Niños  Azul  Avio/Beige C4289   35 EU'
 actualPrice: 20.42 EUR
 currency: EUR
 price: 20.42

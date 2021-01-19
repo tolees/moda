@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-LeqUicxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NVR1JHM-es'
+slug: 'B07NVR1JHM-es G-STAR RAW Graphic Logo 4 Camiseta  Azul  Small  Talla del Fabricante:  para Hombre'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

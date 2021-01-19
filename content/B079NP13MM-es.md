@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41pNk7dnp2L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079NP13MM-es'
+slug: 'B079NP13MM-es MISS MOLY Chaleco Mujer Ligero Acolchado Chaquetas de Cremallera con Cuello Mao Azul - L'
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

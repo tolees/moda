@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41f+VPso2gL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KSS71Z5-es'
+slug: 'B07KSS71Z5-es AnazoZ Acero Inoxidable Gemelos para Hombre Camisa Gemelos Regalos Plata Verde Citrina Camber 1.1x1.5CM'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

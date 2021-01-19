@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41U3ndMn7KL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VJZJL9H-es'
+slug: 'B07VJZJL9H-es NORTH SAILS Cotton Jersey Sweatshirt'
 actualPrice: 49.73 EUR
 currency: EUR
 price: 49.73

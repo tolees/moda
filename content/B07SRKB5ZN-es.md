@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41F5ApJW+BL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SRKB5ZN-es'
+slug: 'B07SRKB5ZN-es Geox D Hiver A  Zapatillas para Mujer  Beige  Sand C5004   38 EU'
 actualPrice: 22.92 EUR
 currency: EUR
 price: 22.92

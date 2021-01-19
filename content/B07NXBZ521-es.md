@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41WYkxNbunL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NXBZ521-es'
+slug: 'B07NXBZ521-es Superdry Premium Goods Puff Entry tee Camiseta de Tirantes  Blanco  Optic 01c   XL  Talla del Fabricante:16  para Mujer'
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

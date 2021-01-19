@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41flFr5tCwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KJZDTDB-es'
+slug: 'B07KJZDTDB-es Pepe Jeans Spike Vaqueros Straight  Gris  Wiser Wash Grey Used Denim Wy0   36W / 34L para Hombre'
 actualPrice: 51.99 EUR
 currency: EUR
 price: 51.99

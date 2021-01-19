@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41iFsf8lSZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KWF4GLW-es'
+slug: 'B00KWF4GLW-es Columbia Peakfreak Nomad Zapatos impermeables para hombre   Negro Black  Monument   44.5 EU'
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

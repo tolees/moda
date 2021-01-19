@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51YRIa+wizL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FSDNJTG-es'
+slug: 'B07FSDNJTG-es Bolso de Hombro pequeña de Mujer Bolso de Bandolera de Cuero PU Bolso de Mano Casual Moda Crossbody para niñas Señoras-Negro'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31zjWr4BC6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081DRN55T-es'
+slug: 'B081DRN55T-es Agoky Bolero de Boda Fiesta para Niña Abrigo Satinado Manga Acampanada Chaqueta de Princesa Capa para Vestido de Bautizo Ceremonia Cárdigan Azul Marino 10 Años'
 actualPrice: 5.49 EUR
 currency: EUR
 price: 5.49

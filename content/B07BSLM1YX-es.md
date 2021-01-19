@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31M5BSGTsKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BSLM1YX-es'
+slug: 'B07BSLM1YX-es REPLAY M4941d.000.80279a Camisa  Negro  Black 98   X-Large para Hombre'
 actualPrice: 19.67 EUR
 currency: EUR
 price: 19.67

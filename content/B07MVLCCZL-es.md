@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/410e3d4X7kL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MVLCCZL-es'
+slug: 'B07MVLCCZL-es Gant D1. The Light Down Jacket Chaqueta  Negro  Black 5   Large para Hombre'
 actualPrice: 154.81 EUR
 currency: EUR
 price: 154.81

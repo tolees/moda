@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41IUqZo7T5L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B082MNPXZQ-es'
+slug: 'B082MNPXZQ-es Geographical Norway Chaqueta Mujer ANIES Negro 03'
 actualPrice: 103.2 EUR
 currency: EUR
 price: 103.2

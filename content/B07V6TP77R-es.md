@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31WXnNhQMTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V6TP77R-es'
+slug: 'B07V6TP77R-es Tommy Hilfiger Comfort Footbed Beach Sandal  Chanclas para Hombre  Negro  Black Bds   44 EU'
 actualPrice: 17.96 EUR
 currency: EUR
 price: 17.96

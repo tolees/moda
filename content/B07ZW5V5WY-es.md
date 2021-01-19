@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Ri114p13L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZW5V5WY-es'
+slug: 'B07ZW5V5WY-es Marca Amazon - find. Flat Gladiator Sandalias de Gladiador  Azul  Turquoise   36 EU'
 actualPrice: 7.03 EUR
 currency: EUR
 price: 7.03

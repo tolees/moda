@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41yJWfWSAkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0788WS4MQ-es'
+slug: 'B0788WS4MQ-es Tous Nika Sherton  Bolso Bandolera para Mujer   Negro 495900115   19x14x5 cm  W x H x L '
 actualPrice: 57.75 EUR
 currency: EUR
 price: 57.75

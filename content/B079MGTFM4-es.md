@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41eMFjqESZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079MGTFM4-es'
+slug: 'B079MGTFM4-es Marca Amazon - MERAKI Camiseta de Manga Corta con Corte Estándar y Cuello de Pico Hombre  Gris  Light Grey Melange   XL  Label: XL'
 actualPrice: 6.0 EUR
 currency: EUR
 price: 6.0

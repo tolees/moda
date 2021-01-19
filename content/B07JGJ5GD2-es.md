@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31QoPztlEuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JGJ5GD2-es'
+slug: 'B07JGJ5GD2-es Pepe Jeans Duff Chest Logo T Camiseta  Blanco  Optic White 802   Large para Hombre'
 actualPrice: 24.36 EUR
 currency: EUR
 price: 24.36

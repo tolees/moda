@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41nF5KybKIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081BGJNFP-es'
+slug: 'B081BGJNFP-es Asics Gel-Pulse 11  Zapatos para Correr Mens  Gris  44 1/2 EU'
 actualPrice: 70.0 EUR
 currency: EUR
 price: 70.0

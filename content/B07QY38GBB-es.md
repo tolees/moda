@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31s1f1nuKkL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QY38GBB-es'
+slug: 'B07QY38GBB-es Under Armour Storm Full Zip Chaqueta  Hombre  Negro  XL'
 actualPrice: 52.48 EUR
 currency: EUR
 price: 52.48

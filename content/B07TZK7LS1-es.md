@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Z3UrbZX-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TZK7LS1-es'
+slug: 'B07TZK7LS1-es BOSS Boxer Brief 2p Solid  Naranja  Medium Orange 813   Large  Pack de 2  para Hombre'
 actualPrice: 14.56 EUR
 currency: EUR
 price: 14.56

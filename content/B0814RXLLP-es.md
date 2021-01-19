@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41GTz65g5KL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0814RXLLP-es'
+slug: 'B0814RXLLP-es Under Armour Global Football Tag Camisa Manga Corta  Hombre  Azul  LG'
 actualPrice: 15.49 EUR
 currency: EUR
 price: 15.49

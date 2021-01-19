@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31KuEtJwImL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01E1WJC8I-es'
+slug: 'B01E1WJC8I-es Mercedes-Benz Sonnenbrille M3019 Gafas de sol  Marrón  Braun   58.0 para Hombre'
 actualPrice: 36.75 EUR
 currency: EUR
 price: 36.75

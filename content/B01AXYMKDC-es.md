@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/314oUiLPypL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01AXYMKDC-es'
+slug: 'B01AXYMKDC-es Joma Nobel Pantalón de equipación  Azul celeste  L'
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

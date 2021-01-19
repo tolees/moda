@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41lGXnrRBDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NNTVNJ6-es'
+slug: 'B07NNTVNJ6-es Under Armour UA Jet  Zapatos de Deporte para Hombre  Gris  Halo Gray/White/Black   45 EU'
 actualPrice: 45.3 EUR
 currency: EUR
 price: 45.3

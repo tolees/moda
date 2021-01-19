@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ga3+PkjlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SMN428C-es'
+slug: 'B07SMN428C-es Kansoom Guantes de Ciclismo Motocicleta Bicicleta Montaña-Acolchados Bicicleta de Hombres Mujeres Antideslizante Pantalla'
 actualPrice: 12.29 EUR
 currency: EUR
 price: 12.29

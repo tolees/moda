@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41H4UW6FhLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RZ2CJY3-es'
+slug: 'B07RZ2CJY3-es BILLABONG Jackson SS Camiseta  Negro  Black 19   One Size  Tamaño del Fabricante: S  para Hombre'
 actualPrice: 10.41 EUR
 currency: EUR
 price: 10.41

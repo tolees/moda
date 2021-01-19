@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51dvJhjXi8L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JMRJYJ6-es'
+slug: 'B07JMRJYJ6-es Appy Mama. Mujer Premama Jersey Camiseta Túnica Larga Manga. 947p  Verde con Patrón Amarillo  44  2XL '
 actualPrice: 3.84 EUR
 currency: EUR
 price: 3.84

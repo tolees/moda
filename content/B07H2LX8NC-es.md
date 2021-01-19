@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31OdH-eW7GL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H2LX8NC-es'
+slug: 'B07H2LX8NC-es Goodbye  Rita. Round 6 Gafas  Azul  Talla Única Mujeres'
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

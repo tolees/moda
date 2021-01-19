@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/418yNSY+GKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JWQSS2G-es'
+slug: 'B07JWQSS2G-es Pepe Jeans Cash Pm200124 Vaqueros Straight   Wiser Wash Dark Used Denim Ww9   W32/L34 para Hombre'
 actualPrice: 46.99 EUR
 currency: EUR
 price: 46.99

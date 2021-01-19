@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31K1UHrE3kL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B008X3RW3O-es'
+slug: 'B008X3RW3O-es Geox U Federico W  Zapatos Derby para Hombre  Negro  Black C9999   41 EU'
 actualPrice: 45.9 EUR
 currency: EUR
 price: 45.9

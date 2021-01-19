@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31OsbEre1kL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VNGNPHF-es'
+slug: 'B07VNGNPHF-es Fossil Collar para Hombre JF03175040'
 actualPrice: 29.0 EUR
 currency: EUR
 price: 29.0

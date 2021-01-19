@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41HqHS3AyIL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KSQ6R4G-es'
+slug: 'B07KSQ6R4G-es Under Armour Mfo Let The Gains Begin SS Camiseta  Hombre  Negro  Black/Barn 001   S'
 actualPrice: 9.79 EUR
 currency: EUR
 price: 9.79

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/315CuBvP+6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TZZX3Z1-es'
+slug: 'B07TZZX3Z1-es Women s Secret Soft Touch 1 St1 Grey PJ Conjuntos de Pijama  Gris  Gama Grises 44   XX-Large  Tamaño del Fabricante: XXL  para Mujer'
 actualPrice: 13.31 EUR
 currency: EUR
 price: 13.31

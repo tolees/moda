@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41DBOsXFOuL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M8VHHV1-es'
+slug: 'B07M8VHHV1-es Lee Scarlett High Vaqueros  Azul  Sitka Worn In Jq   27W/31L para Mujer'
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

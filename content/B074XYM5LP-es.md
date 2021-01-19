@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31u+nkxIHoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074XYM5LP-es'
+slug: 'B074XYM5LP-es BOSS Identity T-Shirt RN Top de Pijama  Azul  Dark Blue 403   Medium para Hombre'
 actualPrice: 23.0 EUR
 currency: EUR
 price: 23.0

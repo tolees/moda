@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41S9Ik8m7ML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TS3KM6W-es'
+slug: 'B07TS3KM6W-es Levi s The tee Camiseta de Manga Corta  Azul  BRW T2 Marina 0793   Large para Mujer'
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

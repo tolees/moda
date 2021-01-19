@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Pt0g2I45L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SD93C3M-es'
+slug: 'B07SD93C3M-es Helly Hansen Logo Hoodie Sudadera con Capucha  Hombre  Rojo Alerta  S'
 actualPrice: 41.33 EUR
 currency: EUR
 price: 41.33

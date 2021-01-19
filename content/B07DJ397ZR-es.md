@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41xUF2OtsEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DJ397ZR-es'
+slug: 'B07DJ397ZR-es Geox Uomo Sandal Strada A  Sandalias con Punta Abierta para Hombre  Black  Black C9999   43 EU'
 actualPrice: 54.52 EUR
 currency: EUR
 price: 54.52

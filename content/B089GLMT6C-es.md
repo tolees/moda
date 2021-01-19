@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41hGJ2NIB4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089GLMT6C-es'
+slug: 'B089GLMT6C-es Kloius Bolso de hombro de mochila de cuero de gran capacidad para mujer Mochilas tipo casual'
 actualPrice: 34.0 EUR
 currency: EUR
 price: 34.0

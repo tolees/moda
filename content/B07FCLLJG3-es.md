@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31RLRwl2KuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FCLLJG3-es'
+slug: 'B07FCLLJG3-es Marca Amazon - find. Soft Jersey High Neck Sudadera Mujer  Negro  Black   40  Label: M'
 actualPrice: 6.57 EUR
 currency: EUR
 price: 6.57

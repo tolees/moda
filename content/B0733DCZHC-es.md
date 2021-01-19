@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41gGjkfrsEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0733DCZHC-es'
+slug: 'B0733DCZHC-es Marca Amazon - find. Sudadera de Tacto Suave para Hombre  Gris  Light Grey Marl   M  Label: M'
 actualPrice: 12.17 EUR
 currency: EUR
 price: 12.17

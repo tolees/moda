@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/316DhYcxnKL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FDHXFXT-es'
+slug: 'B07FDHXFXT-es Levi s 510 Skinny Fit  Vaqueros para Hombre  Azul  Irish Sea Cool T2 0818   W36/L34'
 actualPrice: 84.08 EUR
 currency: EUR
 price: 84.08

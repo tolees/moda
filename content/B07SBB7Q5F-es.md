@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31An5GvpRNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SBB7Q5F-es'
+slug: 'B07SBB7Q5F-es Crocs Classic II Flip  Chanclas Unisex Adulto  Negro  Black 001   45/46 EU'
 actualPrice: 7.5 EUR
 currency: EUR
 price: 7.5

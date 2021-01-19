@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ea+7GBOBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075MD3YJ9-es'
+slug: 'B075MD3YJ9-es Clarks Un Reisel Mara  Sandalias con Tira Vertical para Mujer  Negro  Black Leather-   37 EU'
 actualPrice: 41.2 EUR
 currency: EUR
 price: 41.2

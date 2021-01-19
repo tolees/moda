@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41FcyB4hojL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YGGG8Q5-es'
+slug: 'B07YGGG8Q5-es Jack & Jones JCOBOOSTER Sweat Hood DEC 19 Sudadera con Capucha  Negro  Black Black   XL para Hombre'
 actualPrice: 10.55 EUR
 currency: EUR
 price: 10.55

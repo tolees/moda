@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31c5wmPyjzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFRN2QW-es'
+slug: 'B07LFRN2QW-es Geox U Jaylon E  Botas Clasicas para Hombre  Marrón  Dk Coffee C6024   46 EU'
 actualPrice: 57.91 EUR
 currency: EUR
 price: 57.91

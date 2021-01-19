@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41J9SbjId6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TQ3W4N2-es'
+slug: 'B07TQ3W4N2-es Clarks Maritsa Mule  Sandalias Punta Cerrada para Mujer  Dorado  Rose Gold Rose Gold   37 EU'
 actualPrice: 50.25 EUR
 currency: EUR
 price: 50.25

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4154muCWQsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V2J34MQ-es'
+slug: 'B07V2J34MQ-es Tommy Hilfiger Natural Flatform Sandal  Sandalias Punta Cerrada para Mujer  Marrón  Dusty Bronze Gqe   39 EU'
 actualPrice: 49.95 EUR
 currency: EUR
 price: 49.95

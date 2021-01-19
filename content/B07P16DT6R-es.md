@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41iWoq8b+zL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P16DT6R-es'
+slug: 'B07P16DT6R-es Superdry Padded Elite Jacket Chaqueta  Verde  Warm Olive M6c   Medium para Hombre'
 actualPrice: 25.45 EUR
 currency: EUR
 price: 25.45

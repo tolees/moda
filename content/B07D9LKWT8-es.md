@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41liYinBxDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D9LKWT8-es'
+slug: 'B07D9LKWT8-es Tommy Hilfiger Trunk Bóxer  Gris  Dark Grey Htr 091   Medium para Hombre'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

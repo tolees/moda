@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31xJCUpXlqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W93M1RH-es'
+slug: 'B07W93M1RH-es Jack & Jones Jormastul Sweat Hood Sudadera con Capucha  Azul  Navy Blazer Fit: Reg   M para Hombre'
 actualPrice: 11.06 EUR
 currency: EUR
 price: 11.06

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31xl5hTLGbL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N9HW9XE-es'
+slug: 'B01N9HW9XE-es find. Camisa Entallada Óxford Estampada de Corte Entallado para Hombre  Rosa  Pink   Medium'
 actualPrice: 9 EUR
 currency: EUR
 price: 9

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41YfYcuemHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y2YCWPD-es'
+slug: 'B07Y2YCWPD-es AOQUSSQOA Mujer Traje de Baño de Una Pieza Retro Monokinis Pin Up Halter Talla Grande Una Pieza Moda Sexy con Uno/Dos Tirantes  EU 44-46  2XL   J '
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

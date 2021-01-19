@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41msgadtTZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFYL1T1-es'
+slug: 'B07LFYL1T1-es Geox J GRAYJAY Boy C  Zapatillas Altas para Niños  Azul Navy Royal C4226  24 EU'
 actualPrice: 17.09 EUR
 currency: EUR
 price: 17.09

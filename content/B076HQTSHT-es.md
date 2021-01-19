@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41a3Rt+5oCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076HQTSHT-es'
+slug: 'B076HQTSHT-es adidas Core18 Hoody Sudadera con Capucha  Unisex Niños  Rojo  Rojo/Blanco   5-6 años  Talla del Fabricante: 116 '
 actualPrice: 16.86 EUR
 currency: EUR
 price: 16.86

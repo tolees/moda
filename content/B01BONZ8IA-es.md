@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41njZV+4fxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BONZ8IA-es'
+slug: 'B01BONZ8IA-es ECCO Soft 2.0  Zapatos de Cordones Derby para Mujer  Negro  Black 51052   40 EU'
 actualPrice: 71.61 EUR
 currency: EUR
 price: 71.61

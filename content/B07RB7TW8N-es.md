@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41bTLdi2e8L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RB7TW8N-es'
+slug: 'B07RB7TW8N-es Columbia Pike Lake Chaqueta  Mujer  Verde  Olive Green   S'
 actualPrice: 38.95 EUR
 currency: EUR
 price: 38.95

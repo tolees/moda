@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ar6eHmoEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BTRXXSY-es'
+slug: 'B00BTRXXSY-es Porsche Design Sonnenbrille P8486 A 71 0 130 Iconic Gafas de sol  Dorado  Gold   71.0 para Hombre'
 actualPrice: 203.27 EUR
 currency: EUR
 price: 203.27

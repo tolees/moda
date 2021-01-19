@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41rVoWWT1WL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FTSCMDD-es'
+slug: 'B07FTSCMDD-es Lee Rider  Vaqueros Slim para Hombre  Azul  Broken Blue Sx   W31/L30'
 actualPrice: 44.98 EUR
 currency: EUR
 price: 44.98

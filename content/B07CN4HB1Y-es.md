@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31GtbqluMDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CN4HB1Y-es'
+slug: 'B07CN4HB1Y-es Crocs Crocband Flip  Chanclas Unisex-Adult  Grey  Light Grey/White 00j   36/37 EU'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

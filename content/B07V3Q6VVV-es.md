@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417zAp5d9SL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V3Q6VVV-es'
+slug: 'B07V3Q6VVV-es Superdry Classic Trunk Triple Pack Bóxer  Blanco  White Multipack J6k   XS para Hombre'
 actualPrice: 11.89 EUR
 currency: EUR
 price: 11.89

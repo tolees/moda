@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416gyMJuwyL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DLSZ337-es'
+slug: 'B07DLSZ337-es SPECIAL MAGIC - Pantalón Deportivo - para Mujer Gris Gris S'
 actualPrice: 18.09 EUR
 currency: EUR
 price: 18.09

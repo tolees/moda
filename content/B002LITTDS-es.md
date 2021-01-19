@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41bQk1C11xL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002LITTDS-es'
+slug: 'B002LITTDS-es Crocs Crocband U  Zuecos Unisex Adulto  Negro  Black   46-47 EU'
 actualPrice: 20.8 EUR
 currency: EUR
 price: 20.8

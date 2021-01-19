@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41exgnIYefL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NWW6RS5-es'
+slug: 'B07NWW6RS5-es Joma Cairo II Sudadera  Hombre  Melange  L'
 actualPrice: 13.0 EUR
 currency: EUR
 price: 13.0

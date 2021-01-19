@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41mzct-iX2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FMVK4V8-es'
+slug: 'B07FMVK4V8-es Converse Converse EDC 22 Backpack 10007031-A06 Bolso Bandolera 46 Centimeters 22 Azul  Navy '
 actualPrice: 17.48 EUR
 currency: EUR
 price: 17.48

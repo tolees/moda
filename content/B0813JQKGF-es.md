@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31BElcO7F6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0813JQKGF-es'
+slug: 'B0813JQKGF-es Marca Amazon - Find. Sandalias abiertas para mujer con tacón de rayas  color Negro  talla 37 EU'
 actualPrice: 6.62 EUR
 currency: EUR
 price: 6.62

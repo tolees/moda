@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51VKuYN+zKL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KSR1JHD-es'
+slug: 'B07KSR1JHD-es AnazoZ Acero Inoxidable Gemelos para Hombre Camisa Gemelos Boda Azul Citrina Redondo Curva Líneas 1.8x1.8CM'
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

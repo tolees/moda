@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51sb7CMd+mL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GJG84GN-es'
+slug: 'B07GJG84GN-es Mochila de Pañales para Bebé LOORI  Mochilas de Pañales y Biberones  Pañal Bolso Mochila Multifuncional de Gran Capacidad  Bolsos Cambiadores de Pañales  Impermeable  La Leche Mantener la Temperatura'
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31QgztrVtSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TLTRK5C-es'
+slug: 'B07TLTRK5C-es Clarks Un Bali Trek  Sandalias de Talón Abierto para Mujer  Negro  Black Combi Black Combi   41 EU'
 actualPrice: 42.53 EUR
 currency: EUR
 price: 42.53

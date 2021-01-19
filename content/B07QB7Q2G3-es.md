@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/311eFTn0w+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QB7Q2G3-es'
+slug: 'B07QB7Q2G3-es P Prettyia Calzador de Zapatos de Madera Mango Largo Levantador de Calzado Pulido Liso con Correa Colgante - S'
 actualPrice: 9.22 EUR
 currency: EUR
 price: 9.22

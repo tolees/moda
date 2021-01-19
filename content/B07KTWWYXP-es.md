@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31cjNwpEt2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KTWWYXP-es'
+slug: 'B07KTWWYXP-es adidas Harden Logo tee Camiseta de Manga Corta  Hombre  White  S'
 actualPrice: 15.16 EUR
 currency: EUR
 price: 15.16

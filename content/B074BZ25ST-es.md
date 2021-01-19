@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/3128obOuFIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074BZ25ST-es'
+slug: 'B074BZ25ST-es Pepe Jeans Hatch Vaqueros  Denim 11Oz Stay Black  36W / 34L para Hombre'
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

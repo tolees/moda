@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31hBaM-L0eL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D12RYXV-es'
+slug: 'B07D12RYXV-es Under Armour UA Launch Sw Split Short - Pantalón Corto  Hombre  Negro Black/Reflective 001  M'
 actualPrice: 22.32 EUR
 currency: EUR
 price: 22.32

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41aSoGBoGPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KMB8DVL-es'
+slug: 'B07KMB8DVL-es Juguetes para Niños de 8-12 Años  Dreamingbox Guantes Luminosos LED para Niños Halloween Juguetes para Niñas de 4-12 Años Regalos para Niños de 3-12 Años Regalo 3-12 Años Niñas Arcoiris Tamaño Mediano'
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31HABmcFT8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W97CMGC-es'
+slug: 'B07W97CMGC-es FIND Block Heel Round Toe Zapatos de Tacón  Naranja  Red   37 EU'
 actualPrice: 4.46 EUR
 currency: EUR
 price: 4.46

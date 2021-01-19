@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51XWUgaXY0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TSSB2NY-es'
+slug: 'B07TSSB2NY-es LIGE Relojes para Hombres Moda Relojes de Pulsera de para Hombres Vestido de Negocios Reloj de Cuarzo Impermeable para Hombres con Negro Acero Inoxidable'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

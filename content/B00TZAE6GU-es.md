@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41L9BjmBdbL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00TZAE6GU-es'
+slug: 'B00TZAE6GU-es uhlsport Stream 3.0 Ml Camiseta De Juego Manga Larga  Hombre  Azul Marino/Rojo  XL'
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

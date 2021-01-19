@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41wvlMAukNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W1VJBLL-es'
+slug: 'B07W1VJBLL-es Tommy Hilfiger TJM Pocket tee Camiseta  Azul  Faded Ink C0z   Large para Hombre'
 actualPrice: 12.97 EUR
 currency: EUR
 price: 12.97

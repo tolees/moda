@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31WytgIqgfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JH341MC-es'
+slug: 'B07JH341MC-es Pepe Jeans Hailey Crop Pl203424 Vaqueros evasé   Archive Écru Denim 000   W31/L32  Talla del Fabricante: W31/Regular  para Mujer'
 actualPrice: 23.52 EUR
 currency: EUR
 price: 23.52

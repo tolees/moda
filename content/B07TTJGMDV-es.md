@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31GhNXw7qpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TTJGMDV-es'
+slug: 'B07TTJGMDV-es Skechers Go Walk Smart-First Class  Chanclas para Mujer  Azul  Navy Textile Nvy   39 EU'
 actualPrice: 28.63 EUR
 currency: EUR
 price: 28.63

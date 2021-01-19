@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41iLUm7Il1L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q3TC13D-es'
+slug: 'B07Q3TC13D-es TTYAOVO Chicas Arco Iris Unicornio Fancy Vestido Princesa Flor Desfile de Niños Vestidos sin Mangas Volantes Vestido de Fiesta Talla 3-4 Años Púrpura'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

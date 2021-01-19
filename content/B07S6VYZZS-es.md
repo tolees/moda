@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51afgahU1oL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S6VYZZS-es'
+slug: 'B07S6VYZZS-es El Naturalista Myth Yggdrasil  Botines para Mujer  Gris  Plume/Caliza Plume/Caliza   38 EU'
 actualPrice: 31.11 EUR
 currency: EUR
 price: 31.11

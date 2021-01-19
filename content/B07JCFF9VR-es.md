@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31srtvyMCZL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JCFF9VR-es'
+slug: 'B07JCFF9VR-es Columbia Northern Comfort Chaqueta híbrida  Mujer  Color: Beige  Chalk   Talla: L'
 actualPrice: 22.41 EUR
 currency: EUR
 price: 22.41

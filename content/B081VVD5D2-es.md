@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41OLly4-sVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081VVD5D2-es'
+slug: 'B081VVD5D2-es Vans Mochila  diseño de vestido de esquí  Azul a cuadros'
 actualPrice: 25.59 EUR
 currency: EUR
 price: 25.59

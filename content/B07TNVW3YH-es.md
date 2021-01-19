@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41+jnwfEFhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TNVW3YH-es'
+slug: 'B07TNVW3YH-es Clarks Cotrell Lane  Zapatos de Cordones Derby para Hombre  Marrón  Tan Combi Lea Tan Combi Lea   48 EU'
 actualPrice: 34.1 EUR
 currency: EUR
 price: 34.1

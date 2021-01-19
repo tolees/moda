@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41tSyI4sw1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V6VWK8S-es'
+slug: 'B07V6VWK8S-es Camiseta Deportiva de Tirantes para Hombre Sin Manga Slim Fit Cómodo Fitness Top Camisetas de Tirante Gimnasio Deporte Senderismo'
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41bNuTbTZmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SVZ123T-es'
+slug: 'B07SVZ123T-es Quiksilver Molokai Nubuck II  Zapatos de Playa y Piscina para Hombre  Negro  Solid Black Sbkm   42 EU'
 actualPrice: 19.76 EUR
 currency: EUR
 price: 19.76

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31AJ2nT8VhL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CN2QR1D-es'
+slug: 'B07CN2QR1D-es Calvin Klein Sonnenbrille Ck4359S 22 Gafas de sol  Rosa  Pink   54.0 para Mujer'
 actualPrice: 36.81 EUR
 currency: EUR
 price: 36.81

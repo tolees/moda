@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41hpLpOcE1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VWX7GGW-es'
+slug: 'B07VWX7GGW-es Pepe Jeans Theo Camiseta  Azul  Old Navy 584   Medium para Hombre'
 actualPrice: 14.3 EUR
 currency: EUR
 price: 14.3

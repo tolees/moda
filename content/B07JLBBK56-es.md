@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41aEAwEAI4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JLBBK56-es'
+slug: 'B07JLBBK56-es Amazon Essentials - Chaqueta de uso diario para mujer  Negro  US S  EU S - M '
 actualPrice: 13.5 EUR
 currency: EUR
 price: 13.5

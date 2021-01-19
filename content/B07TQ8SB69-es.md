@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/418YZkBc-yL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TQ8SB69-es'
+slug: 'B07TQ8SB69-es Calvin Klein Ckj 026 Vaqueros Slim  Azul  Antwerp Rinse 911   34W / 30L para Hombre'
 actualPrice: 36.56 EUR
 currency: EUR
 price: 36.56

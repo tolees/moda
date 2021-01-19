@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/410v0UkV8CL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N3XFTFT-es'
+slug: 'B07N3XFTFT-es Desigual Blouse Sena Blusa  Rojo  BORGOÑA 3007   S para Mujer'
 actualPrice: 13.78 EUR
 currency: EUR
 price: 13.78

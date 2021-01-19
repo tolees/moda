@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41J8lF3xxeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00JFA4PUW-es'
+slug: 'B00JFA4PUW-es givova Podio Chaqueta  Hombre  Negro/Blanco  M'
 actualPrice: 26.87 EUR
 currency: EUR
 price: 26.87

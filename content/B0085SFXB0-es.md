@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31HX96wwXYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0085SFXB0-es'
+slug: 'B0085SFXB0-es Jack & Jones Jones - Camiseta de manga corta con cuello redondo para hombre  Black C N 010  Small'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

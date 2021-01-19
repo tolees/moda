@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ckey-0rLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G5HXB74-es'
+slug: 'B07G5HXB74-es find. 2 Pack Slim Shirt - Camisa Hombre  Gris  Contrast Charcoal With Black / Charcoal   39 cm  Label: M'
 actualPrice: 8.2 EUR
 currency: EUR
 price: 8.2

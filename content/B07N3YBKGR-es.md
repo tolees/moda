@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41FW8KBMTUL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N3YBKGR-es'
+slug: 'B07N3YBKGR-es Desigual Coat Exotic Classic Abrigo  Azul  Denim Medium Wash 5053   36 para Mujer'
 actualPrice: 32.94 EUR
 currency: EUR
 price: 32.94

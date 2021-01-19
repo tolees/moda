@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41UQWIrfOEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LX7MFFL-es'
+slug: 'B01LX7MFFL-es Skechers Reggae Slim-Vacay  Sandalias de Talón Abierto para Niñas  Marrón  Chocolate Duraleather/Webbing   35 EU'
 actualPrice: 40.0 EUR
 currency: EUR
 price: 40.0

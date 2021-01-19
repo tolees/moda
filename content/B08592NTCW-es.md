@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51upqksiHqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08592NTCW-es'
+slug: 'B08592NTCW-es Meloive Collar Anti Pulgas y Garrapatas para Perros  Control Seguro y Efectivo de Pulgas y Garrapatas-62cm  Resistente al Agua  Ajustable y Natural 8 Meses de Prevención'
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

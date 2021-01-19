@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41i36CR0tlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B013V6O4WO-es'
+slug: 'B013V6O4WO-es Levi s Housemark Polo  Camiseta para Hombre  Azul  104 DRESS BLUES X 3   Large'
 actualPrice: 30.0 EUR
 currency: EUR
 price: 30.0

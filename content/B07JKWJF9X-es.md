@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-14G2rVQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JKWJF9X-es'
+slug: 'B07JKWJF9X-es Lee Malone Vaqueros  New Grey FZ  33W / 34L para Hombre'
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31oZyikJ0pL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CPB4S5D-es'
+slug: 'B07CPB4S5D-es Crocs Reviva Flip Women  Chanclas para Mujer  Beige  Cobblestone/Stucco 2zc   34/35 EU'
 actualPrice: 7.94 EUR
 currency: EUR
 price: 7.94

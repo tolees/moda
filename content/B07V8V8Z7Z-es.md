@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41WS0T91qnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V8V8Z7Z-es'
+slug: 'B07V8V8Z7Z-es Tommy Hilfiger Natural Wedge Sandal  Sandalias Punta Cerrada para Mujer  Negro  Black Bds   38 EU'
 actualPrice: 47.36 EUR
 currency: EUR
 price: 47.36

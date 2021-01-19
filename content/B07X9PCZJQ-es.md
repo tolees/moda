@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41kPXu7wXhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X9PCZJQ-es'
+slug: 'B07X9PCZJQ-es FCB Conjunto Camiseta y Pantalón Primera Equipación Infantil Messi del FC Barcelona Producto Oficial Licenciado Temporada 2019-2020 Color Azulgrana  Azulgrana  Talla 14 '
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

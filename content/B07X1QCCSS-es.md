@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41yyK2c-GEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X1QCCSS-es'
+slug: 'B07X1QCCSS-es Zapatillas de Running Hombre Zapatillas para Hombre Calzado Deportivo Ligero y Transpirable Asfalto Zapatos para Correr Antideslizante Sneakers Blanco 42EU'
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

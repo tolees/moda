@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31KTABXBT6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073RP7B3V-es'
+slug: 'B073RP7B3V-es Helly Hansen HH Tech tee Camiseta Deportiva Manga Corto  Hombre  Light Grey  L'
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

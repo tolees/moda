@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41NYUPi18hL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00TH2WD3E-es'
+slug: 'B00TH2WD3E-es Berydale CAmisa para mujer  estilo Carmen  Blanco  34'
 actualPrice: 12.09 EUR
 currency: EUR
 price: 12.09

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41s-tKOYVkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081BJRS4D-es'
+slug: 'B081BJRS4D-es Columbia Powder Pass Chaqueta con Capucha  Hombre  Gris/Azul Grey Heather Mountain  XL'
 actualPrice: 51.64 EUR
 currency: EUR
 price: 51.64

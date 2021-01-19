@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41YnLroEe2L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00R4JL8II-es'
+slug: 'B00R4JL8II-es Izas Jalan Chaqueta polar  Mujer  Lima/ Turquesa  XXL'
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

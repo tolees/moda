@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31NvUr-ra9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073RPXPFN-es'
+slug: 'B073RPXPFN-es Helly Hansen HH Logo Camiseta Manga Corta  Hombre  White  4XL'
 actualPrice: 19.49 EUR
 currency: EUR
 price: 19.49

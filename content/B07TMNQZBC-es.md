@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/414Z7VuFvZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TMNQZBC-es'
+slug: 'B07TMNQZBC-es Superdry VL Shirt Shop Bonded tee Camiseta  Negro  Black 02a   XS para Hombre'
 actualPrice: 14.7 EUR
 currency: EUR
 price: 14.7

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31dpXeE60WL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TCHDFHV-es'
+slug: 'B07TCHDFHV-es Quiksilver Stapilton - Chaqueta De Lona Con Cremallera Para Hombre Chaqueta De Lona Con Cremallera  Hombre  black  M'
 actualPrice: 31.38 EUR
 currency: EUR
 price: 31.38

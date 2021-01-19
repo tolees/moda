@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Q0CqOfNHL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RPBFPDQ-es'
+slug: 'B07RPBFPDQ-es Hawkers X Nyjah Huston-Grind Gafas de sol  Gris  One Size Unisex'
 actualPrice: 15.57 EUR
 currency: EUR
 price: 15.57

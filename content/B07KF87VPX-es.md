@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31a0fDnxr7L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KF87VPX-es'
+slug: 'B07KF87VPX-es Levi s Graphic Crew B Sudadera  Blanco  Hm Ssnl Film Marshmallow/White 0080   Small para Hombre'
 actualPrice: 42.49 EUR
 currency: EUR
 price: 42.49

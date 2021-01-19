@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31QH+tDBg-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VD49DYX-es'
+slug: 'B07VD49DYX-es Calvin Klein Center Monogram Box Slim tee Camiseta  Blanco  Bright White Yaf   Small para Hombre'
 actualPrice: 17.95 EUR
 currency: EUR
 price: 17.95

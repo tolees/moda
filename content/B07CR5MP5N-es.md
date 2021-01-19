@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41eK7HmfMGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CR5MP5N-es'
+slug: 'B07CR5MP5N-es Cartera Legado Horizontal con Bandera Billetera Tarjetero Monedero Hombre Piel Cuero Hecho en Ubrique Marino Regalo Pulsera Bandera España y Tarjeta Proteccion RFID  Horizontal Marino con Broche '
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

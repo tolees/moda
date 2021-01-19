@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41bdlfcETjL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NC9C8NC-es'
+slug: 'B07NC9C8NC-es Pepe Jeans Axel Chaqueta  Verde  Bright Green 633   11-12 años  Talla del Fabricante: 12  para Niños'
 actualPrice: 50.66 EUR
 currency: EUR
 price: 50.66

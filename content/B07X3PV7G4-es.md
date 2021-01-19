@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41nBdiCwtKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X3PV7G4-es'
+slug: 'B07X3PV7G4-es Pepe Jeans Chepstow Vaqueros Hombre Ajustados  Azul  000denim 000   W34/L34  Talla del Fabricante: 34 '
 actualPrice: 48.02 EUR
 currency: EUR
 price: 48.02

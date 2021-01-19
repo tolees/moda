@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31mVPou3rCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NY8NF3X-es'
+slug: 'B07NY8NF3X-es Art Bergen  Botines para Mujer  Marrón  Cuero Cuero   36 EU'
 actualPrice: 52.6 EUR
 currency: EUR
 price: 52.6

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4145FzGOFEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JBJCL2K-es'
+slug: 'B07JBJCL2K-es ACVIP - Abrigo - Chaqueta Guateada - Manga Larga - para niña Rojo C 9-10 Años'
 actualPrice: 34.96 EUR
 currency: EUR
 price: 34.96

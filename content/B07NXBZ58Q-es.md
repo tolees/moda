@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31L+yPKhUlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NXBZ58Q-es'
+slug: 'B07NXBZ58Q-es Superdry Tyler Vaqueros Slim  Azul  Union Dark Blue Vf6   W38/L30  Talla del Fabricante: 38/30  para Hombre'
 actualPrice: 25.3 EUR
 currency: EUR
 price: 25.3

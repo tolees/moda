@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/419WTTGTH-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MXZ87CQ-es'
+slug: 'B01MXZ87CQ-es Crocs Sloane Embellished Flip  Chanclas para Mujer  Azul  Navy/Turquoise 4ad   34/35 EU'
 actualPrice: 27.95 EUR
 currency: EUR
 price: 27.95

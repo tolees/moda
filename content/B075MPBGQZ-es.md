@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31AxqJwS-KL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075MPBGQZ-es'
+slug: 'B075MPBGQZ-es MERAKI Vestido Camiseta Slim Fit Mujer  Rojo  Racing Red   Medium'
 actualPrice: 6.3 EUR
 currency: EUR
 price: 6.3

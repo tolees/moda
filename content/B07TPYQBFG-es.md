@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31KPBGBgjYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TPYQBFG-es'
+slug: 'B07TPYQBFG-es Clarks Tri Alexia  Sandalias de Talón Abierto para Mujer  Beige  Amber Nubuck Amber Nubuck   35.5 EU'
 actualPrice: 44.98 EUR
 currency: EUR
 price: 44.98

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41RykCVzNHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0772FLCKN-es'
+slug: 'B0772FLCKN-es Marca Amazon - MERAKI Pantalón Cortos Chinos Hombre  gris oscuro  38  Label: 38'
 actualPrice: 7.64 EUR
 currency: EUR
 price: 7.64

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41yhEke+0RL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BGTKSNC-es'
+slug: 'B01BGTKSNC-es G-STAR RAW 5620 3D Super Slim  Vaqueros para Hombre  Gris  Dark Aged Cobler   W26/L30'
 actualPrice: 41.98 EUR
 currency: EUR
 price: 41.98

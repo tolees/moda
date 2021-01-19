@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41bKpide-oL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SVXY7LX-es'
+slug: 'B07SVXY7LX-es Geox D Sandal Hiver B  Sandalias con Tira Vertical para Mujer  Negro  Black C9999   41 EU'
 actualPrice: 45.48 EUR
 currency: EUR
 price: 45.48

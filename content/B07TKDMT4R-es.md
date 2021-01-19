@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41nNaXWJFvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TKDMT4R-es'
+slug: 'B07TKDMT4R-es Levi s Relaxed Graphic Hoodie Sudadera  Azul  Boxtab Pop Riverside 0024   Small para Hombre'
 actualPrice: 30.16 EUR
 currency: EUR
 price: 30.16

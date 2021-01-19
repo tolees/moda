@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31YKH7U6kcL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFRTWCS-es'
+slug: 'B07LFRTWCS-es Geox U Jaylon F  Botas Clasicas para Hombre  Negro  Black C9999   42.5 EU'
 actualPrice: 63.4 EUR
 currency: EUR
 price: 63.4

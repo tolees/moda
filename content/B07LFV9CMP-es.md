@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41yc4bc8m8L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFV9CMP-es'
+slug: 'B07LFV9CMP-es Geox J SPACECLUB Girl C  Zapatillas para Niñas   Grey/Pink C0502   30 EU'
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

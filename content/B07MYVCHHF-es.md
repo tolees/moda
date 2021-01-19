@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31lxHJAO7KL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MYVCHHF-es'
+slug: 'B07MYVCHHF-es Gafas de sol para hombre polarizadas para mujer - UV 400 Protección 60MM por LUENX Rojo rosso L'
 actualPrice: 11.0 EUR
 currency: EUR
 price: 11.0

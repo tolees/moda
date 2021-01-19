@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41zVe1seoqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T9TLTQ3-es'
+slug: 'B07T9TLTQ3-es Michael Kors Bedford - Bolso para mujer  13 x 25 x 29 cm   color Multicolor  talla 13x25x29 cm  B x H x T '
 actualPrice: 101.55 EUR
 currency: EUR
 price: 101.55

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/419n1x0c-qL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SVNWTKH-es'
+slug: 'B07SVNWTKH-es Geox B Flexyper Boy B  Zapatillas para Bebés  Blanco  White/Blue C0006   23 EU'
 actualPrice: 30.57 EUR
 currency: EUR
 price: 30.57

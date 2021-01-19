@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41GcyuEYDBL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JMJCC8K-es'
+slug: 'B07JMJCC8K-es Chantelle DE Pyramide Sujetador para Camiseta  Beige  Champagner NL   80E  Talla del Fabricante: 65E  para Mujer'
 actualPrice: 12.28 EUR
 currency: EUR
 price: 12.28

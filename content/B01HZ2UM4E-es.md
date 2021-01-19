@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31s0l6beQBL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HZ2UM4E-es'
+slug: 'B01HZ2UM4E-es Morgan Mentos Camiseta  Blanco  Off White Off White   Medium  Talla del Fabricante: TM  para Mujer'
 actualPrice: 15.85 EUR
 currency: EUR
 price: 15.85

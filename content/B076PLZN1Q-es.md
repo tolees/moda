@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41vF4dTyyZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076PLZN1Q-es'
+slug: 'B076PLZN1Q-es Adidas Regista 18 Track Top Chaqueta Deportiva  Hombre  Rojo  Power Red/Black   2XL'
 actualPrice: 21.61 EUR
 currency: EUR
 price: 21.61

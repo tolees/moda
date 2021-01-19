@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31+qpJO0KUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00OE7R55I-es'
+slug: 'B00OE7R55I-es NIKE M Nk Dry tee Db Athlete Camiseta de Manga Corta  Hombre  White/ Black   XL'
 actualPrice: 11.01 EUR
 currency: EUR
 price: 11.01

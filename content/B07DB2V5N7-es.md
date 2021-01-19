@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41WrAPAafHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DB2V5N7-es'
+slug: 'B07DB2V5N7-es Jack Wolfskin Vojo Hike 2 Texapore Mid W Wasserdicht  Zapatos de High Rise Senderismo para Mujer  Siltstone 5116  35.5 EU'
 actualPrice: 77.51 EUR
 currency: EUR
 price: 77.51

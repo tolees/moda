@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/419ANpb5zhL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MQVG2VS-es'
+slug: 'B07MQVG2VS-es Napapijri SOVES Camiseta  Gris  Med Grey Mel 160   XL para Hombre'
 actualPrice: 15.6 EUR
 currency: EUR
 price: 15.6

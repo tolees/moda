@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41pKazl+AcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TNJ7W1W-es'
+slug: 'B07TNJ7W1W-es Charles Wilson Camiseta Polo de Punto Abultado  Large  Light Blue '
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

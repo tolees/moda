@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413pXHqhiSL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00AF6QPWG-es'
+slug: 'B00AF6QPWG-es Helly Hansen Seven J Jacket - Chaqueta para hombre  color gris  talla M'
 actualPrice: 60.99 EUR
 currency: EUR
 price: 60.99

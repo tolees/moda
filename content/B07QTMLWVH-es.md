@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41mKSB3-4cL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QTMLWVH-es'
+slug: 'B07QTMLWVH-es Columbia 1420421  Chaqueta Forro Polar Hombre  Rojo  Red Jasper  Dark Mountain   XL'
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

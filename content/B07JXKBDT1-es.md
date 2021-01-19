@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41PUta6gU6L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JXKBDT1-es'
+slug: 'B07JXKBDT1-es XTI 48771  Sandalias con Punta Abierta para Mujer  Beige  Beige Beige   41 EU'
 actualPrice: 8.33 EUR
 currency: EUR
 price: 8.33

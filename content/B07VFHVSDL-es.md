@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41XGCbDaF5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VFHVSDL-es'
+slug: 'B07VFHVSDL-es Jack & Jones Jprmiles BLU tee LS Henley-Pre Camisa Manga Larga  Blanco  Whisper White Fit: Slim Fit   XX-Large para Hombre'
 actualPrice: 5.83 EUR
 currency: EUR
 price: 5.83

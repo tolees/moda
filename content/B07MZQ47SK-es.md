@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41kwfhZGWSL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZQ47SK-es'
+slug: 'B07MZQ47SK-es Pepe Jeans Nastia Sudadera   Berry Red 280   Large para Mujer'
 actualPrice: 27.72 EUR
 currency: EUR
 price: 27.72

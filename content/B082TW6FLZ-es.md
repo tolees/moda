@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51BvPjUyDNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082TW6FLZ-es'
+slug: 'B082TW6FLZ-es Hub USB C  Adaptador USB C 11 en 1 con 4 USB3.0/2.0  4K HDMI  1080P VGA  Gigabit Ethernet RJ45  Lector de Tarjetas SD/TF  Chaqueta de Audio de 3.5 mm y Entrega de alimentación USB C'
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

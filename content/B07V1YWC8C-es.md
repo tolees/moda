@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41Il48xlrIL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V1YWC8C-es'
+slug: 'B07V1YWC8C-es Hi-Tec Damis - Sudadera de Forro Polar para Hombre  otoño/Invierno  Hombre  Color Light Seaport Melange  tamaño Medium'
 actualPrice: 13.16 EUR
 currency: EUR
 price: 13.16

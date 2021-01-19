@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31biixIFXBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IIN6CNO-es'
+slug: 'B01IIN6CNO-es Lee Twin Pack Crew Camiseta  Negro  Black Ai01   Large 2 para Hombre'
 actualPrice: 20.95 EUR
 currency: EUR
 price: 20.95

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41CY8F81edL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MKR8DJD-es'
+slug: 'B07MKR8DJD-es Lacoste Sf1550 Sudadera con Capucha  Azul Marine 423  32 para Mujer'
 actualPrice: 52.65 EUR
 currency: EUR
 price: 52.65

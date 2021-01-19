@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31KdCCaplJL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007K8SJ2G-es'
+slug: 'B007K8SJ2G-es Arena HYDROSOFT JR Boy HOO  Zapatos de Playa y Piscina Unisex niño  Azul  Denim/Sky Blue 070   35 EU'
 actualPrice: 10.2 EUR
 currency: EUR
 price: 10.2

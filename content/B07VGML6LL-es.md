@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31RGK3V0HRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VGML6LL-es'
+slug: 'B07VGML6LL-es Love Moschino T-Shirt Iridescent Logo Box Print Camiseta  Rosa  Pink L94   34  Talla del Fabricante: 38  para Mujer'
 actualPrice: 49.29 EUR
 currency: EUR
 price: 49.29

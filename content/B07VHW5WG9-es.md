@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41zsOU4bymL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VHW5WG9-es'
+slug: 'B07VHW5WG9-es Desigual TS brulé Camiseta  Negro  Negro 2000   Medium para Mujer'
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

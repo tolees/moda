@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41dprozmDgL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00WNAVSCY-es'
+slug: 'B00WNAVSCY-es Timberland Euro Sprint Hiker  Zapatillas Chukka para Hombre  Amarillo  Wheat Nubuck   40 EU'
 actualPrice: 101.06 EUR
 currency: EUR
 price: 101.06

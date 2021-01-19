@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41dCL-tdyjL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WWDT1GZ-es'
+slug: 'B07WWDT1GZ-es Charles Wilson Originals Sudadera con Capucha  X-Small  Black  0819  '
 actualPrice: 21.95 EUR
 currency: EUR
 price: 21.95

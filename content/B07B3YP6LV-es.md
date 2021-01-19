@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31XkYUXkiuL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B3YP6LV-es'
+slug: 'B07B3YP6LV-es Clarks Walbeck Edge II  Zapatos de Cordones Derby para Hombre  Negro  Black Leather   41.5 EU'
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ec8cP+XxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TXDVN69-es'
+slug: 'B07TXDVN69-es Levi s Graphic tee Camiseta  Negro  Boxtab SS T2 Mineral Black 0002   Medium para Hombre'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

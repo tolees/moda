@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Gn51t8zTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K751PWC-es'
+slug: 'B07K751PWC-es Levi s Graphic B Sudadera  Negro  Logo Ssnl Crew Mineral Black 0068   Large para Hombre'
 actualPrice: 49.95 EUR
 currency: EUR
 price: 49.95

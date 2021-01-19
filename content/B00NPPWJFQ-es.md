@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411NT0snFtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00NPPWJFQ-es'
+slug: 'B00NPPWJFQ-es Teva W Terra Fi Lite Leather  Sandalias de Punta Descubierta para Mujer  Marrón  Brown Brn   36 EU'
 actualPrice: 16.23 EUR
 currency: EUR
 price: 16.23

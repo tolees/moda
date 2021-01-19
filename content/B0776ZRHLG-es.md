@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41dPpe125UL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0776ZRHLG-es'
+slug: 'B0776ZRHLG-es Tommy Hilfiger Piqué P Camiseta Polo con Cierre de 3 Botones  Gris  Lt Grey Htr   L para Hombre'
 actualPrice: 38.45 EUR
 currency: EUR
 price: 38.45

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41rmPaftJPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VCT1ZHM-es'
+slug: 'B07VCT1ZHM-es Pepe Jeans March Basic Metal  Sandalias de Gladiador para Mujer  Gold Champagne 835  41 EU'
 actualPrice: 34.65 EUR
 currency: EUR
 price: 34.65

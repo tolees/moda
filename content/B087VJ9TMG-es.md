@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416vr+wyIZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087VJ9TMG-es'
+slug: 'B087VJ9TMG-es Columbia Powder Lite Hooded Chaqueta De Plumón con Capucha  Hombre  Naranja  Harvester  Shark   L'
 actualPrice: 66.49 EUR
 currency: EUR
 price: 66.49

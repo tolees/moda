@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31e1Gh2AlVL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B94RKZ5-es'
+slug: 'B07B94RKZ5-es Clarks Un Adorn Lace  Zapatos de Cordones Derby para Mujer  Azul  Navy Combi   36 EU'
 actualPrice: 17.67 EUR
 currency: EUR
 price: 17.67

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/316PypGZp9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KQ1HPYG-es'
+slug: 'B07KQ1HPYG-es Ever-Pretty Vestido de Fiesta Noche Largo para Mujer Cuello V Manga Corta Talla Grande Morado Oscuro 54'
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

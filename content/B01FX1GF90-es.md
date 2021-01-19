@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41SPH5BOp+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01FX1GF90-es'
+slug: 'B01FX1GF90-es Under Armour Play Up Short 2.0 Pantalón Corto  Mujer  Negro  Black/Black 002   M'
 actualPrice: 13.97 EUR
 currency: EUR
 price: 13.97

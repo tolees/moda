@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31gxI18WA-L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P82SGMW-es'
+slug: 'B07P82SGMW-es Lee Elly Vaqueros  Azul  Dark Marine 21   25W / 31L para Mujer'
 actualPrice: 16.56 EUR
 currency: EUR
 price: 16.56

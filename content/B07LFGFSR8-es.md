@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21yoLBSikAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFGFSR8-es'
+slug: 'B07LFGFSR8-es Levi s Slim 2pk Crewneck 1 Camiseta  Blanco  Two-Pack tee White + White 0000   X-Large para Hombre'
 actualPrice: 25.95 EUR
 currency: EUR
 price: 25.95

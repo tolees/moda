@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41u4h8-km5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M8L3TN1-es'
+slug: 'B07M8L3TN1-es Lee Plain Crew Neck SWS Sudadera  Azul  Frost Blue MJ   Large para Mujer'
 actualPrice: 20.68 EUR
 currency: EUR
 price: 20.68

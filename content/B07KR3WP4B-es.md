@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41WduakXNsL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KR3WP4B-es'
+slug: 'B07KR3WP4B-es Under Armour UA Streaker 2.0 Half Zip Sudadera  Hombre  Negro  Black/Reflective 001   M'
 actualPrice: 33.63 EUR
 currency: EUR
 price: 33.63

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41oeCR8IPLL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HMCGHDG-es'
+slug: 'B07HMCGHDG-es Skechers Heston-Rogic  Zapatos de Cordones Oxford para Hombre  Gris  Grey Gry   41.5 EU'
 actualPrice: 44.5 EUR
 currency: EUR
 price: 44.5

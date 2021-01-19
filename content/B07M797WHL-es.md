@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/314OKVFMJML._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M797WHL-es'
+slug: 'B07M797WHL-es Clarks Un Larvik Lace  Zapatos de Cordones Derby para Hombre  Marrón Brown Leather  47 EU'
 actualPrice: 54.95 EUR
 currency: EUR
 price: 54.95

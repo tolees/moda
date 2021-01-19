@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41MM89O3xQL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QM11PJB-es'
+slug: 'B07QM11PJB-es Timberland SS Millers River Pique Wide Stripe Polo Reg  Gris  Medium Grey Heather Yd B47   Small para Hombre'
 actualPrice: 20.86 EUR
 currency: EUR
 price: 20.86

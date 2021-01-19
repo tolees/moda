@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ta3gx2-pL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TKDNGVC-es'
+slug: 'B07TKDNGVC-es Levi s SS Battery Hm Slim Camisa  Azul  Riverside Garment Dyed 0003   X-Large para Hombre'
 actualPrice: 24.5 EUR
 currency: EUR
 price: 24.5

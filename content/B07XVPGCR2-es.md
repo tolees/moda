@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31c-hqO0NKL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XVPGCR2-es'
+slug: 'B07XVPGCR2-es edc by Esprit 119CC1G008 Abrigo  Negro  Black 001   XXL para Mujer'
 actualPrice: 43.23 EUR
 currency: EUR
 price: 43.23

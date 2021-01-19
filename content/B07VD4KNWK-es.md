@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51gobv2a6rL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VD4KNWK-es'
+slug: 'B07VD4KNWK-es Zapatillas de Niños Niñas Running Zapatos Azul 29'
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

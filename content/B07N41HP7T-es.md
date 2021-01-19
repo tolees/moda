@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41zSHOhlbxL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N41HP7T-es'
+slug: 'B07N41HP7T-es Desigual Coat Land Abrigo  Amarillo  Solar Power 8067   44  Talla del Fabricante:42  para Mujer'
 actualPrice: 59.93 EUR
 currency: EUR
 price: 59.93

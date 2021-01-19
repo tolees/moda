@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41aMAKgu6rL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JH3FMNZ-es'
+slug: 'B07JH3FMNZ-es Pepe Jeans Duff Chest Logo T Camiseta  Gris  Grey Marl 933   XX-Large para Hombre'
 actualPrice: 22.27 EUR
 currency: EUR
 price: 22.27

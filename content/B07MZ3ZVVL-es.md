@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/418NGQNC9UL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZ3ZVVL-es'
+slug: 'B07MZ3ZVVL-es Camisetas Hombre SHOBDW Verano de Lino Liso Algodón Talla Grande Botón de Manga Corta Camiseta con Cuello En V Blusa Suelta Camiseta Informal Tops para Hombres Gris XXL '
 actualPrice: 4.59 EUR
 currency: EUR
 price: 4.59

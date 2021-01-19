@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51dqPlU0XyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SRTHF22-es'
+slug: 'B07SRTHF22-es Quiksilver Molokai Tijuana  Zapatos de Playa y Piscina para Hombre  Negro  Grey/Grey/Black Xssk   46 EU'
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

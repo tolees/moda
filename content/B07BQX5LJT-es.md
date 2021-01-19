@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51DeQdOm0aL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BQX5LJT-es'
+slug: 'B07BQX5LJT-es MAMALICIOUS Mliben Nell 2/4 Jersey Top Nf Camiseta de Tirantes premamá  Multicolor  Chinese Red AOP: Peony Black Snow White   42  Talla del Fabricante: Large  para Mujer'
 actualPrice: 22.81 EUR
 currency: EUR
 price: 22.81

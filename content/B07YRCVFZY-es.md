@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31K6q72uUML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YRCVFZY-es'
+slug: 'B07YRCVFZY-es Marca Amazon - AURIQUE Mallas Largas de Deporte Mujer  Rojo  Red Dhalia   40  Label:M'
 actualPrice: 8.93 EUR
 currency: EUR
 price: 8.93

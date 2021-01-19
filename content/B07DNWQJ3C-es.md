@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41msjQ6cu3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DNWQJ3C-es'
+slug: 'B07DNWQJ3C-es LPUK Moda Mujer Cuadrado De Gran Tamaño Lentes de Gradiente de Lujo Gafas de Sol Retro Vintage Gafas de Marco Grande'
 actualPrice: 10.0 EUR
 currency: EUR
 price: 10.0

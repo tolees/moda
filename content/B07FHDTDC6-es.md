@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Hv6Xss-iL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FHDTDC6-es'
+slug: 'B07FHDTDC6-es Helly Hansen HP Racing Midlayer Lifaloft Cuello Forro Polar Marina Deportes Navegación Chaqueta Impermeable  Hombre  Navy  XL'
 actualPrice: 104.98 EUR
 currency: EUR
 price: 104.98

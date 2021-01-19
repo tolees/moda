@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Vqo-EwsGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N5SB2PZ-es'
+slug: 'B01N5SB2PZ-es Levi s The Perfect Tee  Camiseta  Mujer  Blanco  White 297   XS'
 actualPrice: 20.65 EUR
 currency: EUR
 price: 20.65

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31jCGoEGwZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VC9WV9M-es'
+slug: 'B07VC9WV9M-es JACK & JONES Jcowill Puffer Chaqueta  Azul  Navy Blazer Print: Melange   Large para Hombre'
 actualPrice: 23.12 EUR
 currency: EUR
 price: 23.12

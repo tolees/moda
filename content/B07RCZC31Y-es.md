@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31IkmbNAcKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RCZC31Y-es'
+slug: 'B07RCZC31Y-es G-STAR RAW Lynn Mid Waist Super Skinny Vaqueros  Azul  Worn In Naval 9136-A962   W25/L34  Talla del Fabricante: 25W/ 34L  para Mujer'
 actualPrice: 39.28 EUR
 currency: EUR
 price: 39.28

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/213lcPG-X6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SH1V4MJ-es'
+slug: 'B07SH1V4MJ-es Levi s June L S  Chanclas para Mujer  Rosa  Light Pink 81   38 EU'
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

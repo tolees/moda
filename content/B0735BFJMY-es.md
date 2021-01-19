@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31MqKEAPG9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0735BFJMY-es'
+slug: 'B0735BFJMY-es Napapijri Rainforest Winter  Chaqueta para Hombre  Negro  Black 041   Small'
 actualPrice: 120.49 EUR
 currency: EUR
 price: 120.49

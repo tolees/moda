@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41WLOFyVC-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JFFPFLG-es'
+slug: 'B07JFFPFLG-es Karactermania Mickey Mouse Paisgreen Bolso Bandolera  22 cm  Paisgreen'
 actualPrice: 10.4 EUR
 currency: EUR
 price: 10.4

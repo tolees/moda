@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/319qL+qkItL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KSJBVPC-es'
+slug: 'B07KSJBVPC-es Under Armour Graphic Sportstyle Fashion SSC Camiseta  Mujer  Blanco  Onyx White/Black 112   XS'
 actualPrice: 9.38 EUR
 currency: EUR
 price: 9.38

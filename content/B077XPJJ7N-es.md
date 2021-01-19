@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41gUhwNYYdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077XPJJ7N-es'
+slug: 'B077XPJJ7N-es Under Armour Sportstyle Left Chest Camiseta de Manga Corta  Hombre  Rojo  Red-600   XXL'
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

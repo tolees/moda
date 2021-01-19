@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31XmxdO2W9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FQM7FJQ-es'
+slug: 'B07FQM7FJQ-es Clarks Oakland Lace  Zapatos de Cordones Derby para Hombre  Negro  Black Leather-   47 EU'
 actualPrice: 55.0 EUR
 currency: EUR
 price: 55.0

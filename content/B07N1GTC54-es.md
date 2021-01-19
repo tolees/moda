@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31tfhdCmgVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N1GTC54-es'
+slug: 'B07N1GTC54-es Clarks Griffin Lane  Zapatos de Cordones Derby para Mujer  Marrón  Burgundy Suede Burgundy Suede   40 EU'
 actualPrice: 44.95 EUR
 currency: EUR
 price: 44.95

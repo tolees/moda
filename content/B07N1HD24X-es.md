@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31fpW+ee02L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N1HD24X-es'
+slug: 'B07N1HD24X-es Clarks Kaylin Cara  Zapatos de Tacón para Mujer  Beige  Praline Patent Praline Patent   38 EU'
 actualPrice: 38.03 EUR
 currency: EUR
 price: 38.03

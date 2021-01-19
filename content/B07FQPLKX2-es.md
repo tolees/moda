@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41eyiVgmZCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FQPLKX2-es'
+slug: 'B07FQPLKX2-es Clarks Cammy Glory  Sandalias Punta Cerrada para Mujer  Negro  Black Leather-   36 EU'
 actualPrice: 36.78 EUR
 currency: EUR
 price: 36.78

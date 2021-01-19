@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41d7CMbk7TL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D9GWYGJ-es'
+slug: 'B07D9GWYGJ-es Tommy Hilfiger LR Trunk Bóxer  Negro  Black 990   Medium para Hombre'
 actualPrice: 16.49 EUR
 currency: EUR
 price: 16.49

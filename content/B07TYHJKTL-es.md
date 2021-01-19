@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Jlyo0uxwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TYHJKTL-es'
+slug: 'B07TYHJKTL-es Levi s The tee Camiseta  Blanco  90 s Serif T2 Multicolor White+ 0969   Large para Mujer'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

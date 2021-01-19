@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41SjTsQxXwL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JB4L6CK-es'
+slug: 'B07JB4L6CK-es Timberland NeWaterproofort Bay Oxford  Zapatillas Unisex-Niños  Azul  Navy Canvas   32 EU'
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/410tAZETgJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00JQRHLGO-es'
+slug: 'B00JQRHLGO-es Calvin Klein Low Rise Trunk  Bóxer Hombre  Blanco  White   Small   Pack de 3 '
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

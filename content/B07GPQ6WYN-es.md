@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/412Ag7DK3-L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GPQ6WYN-es'
+slug: 'B07GPQ6WYN-es JOGVELO Maillot Ciclismo  Ropa Ciclismo Conjunto Hombre Mangas Largas Jersey + Culotes Ciclismo Reflectante Transpirable  M'
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41+Hiw0cNmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SSJW8HK-es'
+slug: 'B07SSJW8HK-es Geox U Snake.2 A  Zapatillas para Hombre  Gris  Grey/Lt Grey C1318   42 EU'
 actualPrice: 56.14 EUR
 currency: EUR
 price: 56.14

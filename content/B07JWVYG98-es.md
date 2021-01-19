@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41hsixhyG8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JWVYG98-es'
+slug: 'B07JWVYG98-es Columbia WAYFINDER  Zapatos Multideporte para Hombre  Gris  Ti Grey Steel  033   43 EU'
 actualPrice: 60.98 EUR
 currency: EUR
 price: 60.98

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/318sRmGVKTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BKSKJPH-es'
+slug: 'B07BKSKJPH-es Marca Amazon – Goodthreads – «El pantalón chino perfecto»; pantalón chino de corte entallado  lavado  cómodo y elástico para hombre  caqui  38W / 36L'
 actualPrice: 18.54 EUR
 currency: EUR
 price: 18.54

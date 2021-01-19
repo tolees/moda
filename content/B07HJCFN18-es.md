@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31YXAvYLiiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HJCFN18-es'
+slug: 'B07HJCFN18-es Polaroid PLD 6062/S Gafas de sol  Multicolor  Havgreen   57 para Hombre'
 actualPrice: 36.81 EUR
 currency: EUR
 price: 36.81

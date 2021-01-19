@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31CRlUJbM0L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GZ2JSQM-es'
+slug: 'B07GZ2JSQM-es Wrangler Texas Vaqueros  Azul  W34/L34  Talla del Fabricante:  para Hombre'
 actualPrice: 34.98 EUR
 currency: EUR
 price: 34.98

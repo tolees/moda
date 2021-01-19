@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4126gGcyywL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P7HWL31-es'
+slug: 'B07P7HWL31-es Aigle Vedur Mtd  Zapatos de Low Rise Senderismo para Hombre  Gris  Mid Grey/Rouge 001   41 EU'
 actualPrice: 24.79 EUR
 currency: EUR
 price: 24.79

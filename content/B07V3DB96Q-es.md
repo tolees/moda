@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41cMr-EjCML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V3DB96Q-es'
+slug: 'B07V3DB96Q-es LTB Jeans Joshua Vaqueros Slim  Ridley Wash  42W / 32L para Hombre'
 actualPrice: 30.58 EUR
 currency: EUR
 price: 30.58

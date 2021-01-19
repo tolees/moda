@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41aLBljl25L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F2QCNS1-es'
+slug: 'B07F2QCNS1-es Helly Hansen HH Logo Crew Sudadera Deportiva  Mujer  Grey Melange  M'
 actualPrice: 33.49 EUR
 currency: EUR
 price: 33.49

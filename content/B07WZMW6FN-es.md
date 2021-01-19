@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31y4HvipL9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WZMW6FN-es'
+slug: 'B07WZMW6FN-es Ipanema Fashion Sand VII Fem  Sandalias con Tira Vertical para Mujer  Multicolor  Burgundy/Rose 9142.0   39 EU'
 actualPrice: 22.39 EUR
 currency: EUR
 price: 22.39

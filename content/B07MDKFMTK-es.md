@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41pV7JlcOoL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MDKFMTK-es'
+slug: 'B07MDKFMTK-es Lacoste TH6709  Camiseta para Hombre  Azul  Alby Chiné 5ch   XS  Talla del fabricante: 2 '
 actualPrice: 37 EUR
 currency: EUR
 price: 37

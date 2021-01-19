@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41o+aLOMsrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NLBJQ7D-es'
+slug: 'B07NLBJQ7D-es Marca Amazon - TRUTH & FABLE Vestido Mujer Estampado  Multicolor  Multicolour   42  Label: L'
 actualPrice: 36.09 EUR
 currency: EUR
 price: 36.09

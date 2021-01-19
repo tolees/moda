@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41aKccbNvCL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078PTG7QK-es'
+slug: 'B078PTG7QK-es G-STAR RAW Core Super Slim Camisa Vaquera  Negro  Black 990   XS para Hombre'
 actualPrice: 19.94 EUR
 currency: EUR
 price: 19.94

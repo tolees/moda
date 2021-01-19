@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Q06jGECrL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M4QTE9M-es'
+slug: 'B01M4QTE9M-es G-STAR RAW Lynn Mid Waist Skinny  Vaqueros  3D Dark Aged 8469  31W / 34L para Mujer'
 actualPrice: 60.0 EUR
 currency: EUR
 price: 60.0

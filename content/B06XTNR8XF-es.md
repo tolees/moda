@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41k-7ouHCYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XTNR8XF-es'
+slug: 'B06XTNR8XF-es Pepe Jeans Zip Thru  Sudadera con Capucha para Hombre  Gris  Grey Marl 933   X-Small'
 actualPrice: 30.0 EUR
 currency: EUR
 price: 30.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31NRUe5X2JL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MMWNL8J-es'
+slug: 'B07MMWNL8J-es Wrangler Skinny Jeans Vaqueros  Azul  Dark Indigo X1e   30W / 30L para Mujer'
 actualPrice: 57.69 EUR
 currency: EUR
 price: 57.69

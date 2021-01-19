@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/415q8GcFNuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QD6PJ2C-es'
+slug: 'B07QD6PJ2C-es PUMA Reactive Reversible Jacket Chaqueta De Entrenamiento  Hombre  Castlerock Black-Jaffa Orange  S'
 actualPrice: 40.5 EUR
 currency: EUR
 price: 40.5

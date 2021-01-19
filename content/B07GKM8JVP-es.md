@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31X0saEyl4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GKM8JVP-es'
+slug: 'B07GKM8JVP-es Ever-Pretty A-línea Vestido de Fiesta Cuello en V Manga Corta Gasa Corte Imperio para Mujer Rosado 50'
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

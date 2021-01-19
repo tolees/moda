@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416Ms1mDqjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077XMS33V-es'
+slug: 'B077XMS33V-es Under Armour Fleece Sudadera para Hombre  Camiseta de Manga Larga con Media Cremallera  Sudadera de Deporte Transpirable y elástica  Black/Black  001   XXL'
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

@@ -6,7 +6,7 @@ image: 'None._SL200_'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VRB8V1S-es'
+slug: 'B07VRB8V1S-es Pepe Jeans Art Camiseta  Gris  933grey Marl 933   3 años  Talla del Fabricante: 3  para Niños'
 actualPrice: 15.62 EUR
 currency: EUR
 price: 15.62

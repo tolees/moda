@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41NZUnO8fQL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079DPJ8QB-es'
+slug: 'B079DPJ8QB-es La Vogue Zapatos Zapatilla con Lentejuela Para Niña Princesa Fiesta Rosa 29/Longitud Interior 19CM'
 actualPrice: 11.04 EUR
 currency: EUR
 price: 11.04

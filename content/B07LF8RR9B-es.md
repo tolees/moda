@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41XvqKGpMYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LF8RR9B-es'
+slug: 'B07LF8RR9B-es Levi s 501 Fit Jeans Pantalón vaquero para hombre con diseño clásico original y cómodos de usar  Azul  Ironwood Overt 2920   48W / 32L'
 actualPrice: 26.84 EUR
 currency: EUR
 price: 26.84

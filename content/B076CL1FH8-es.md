@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/310in1U7tDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076CL1FH8-es'
+slug: 'B076CL1FH8-es Samsonite Hip-Square - Tablet Cross-over M 7.9" Bolso bandolera  25 cm  3.5 liters  Negro  Black '
 actualPrice: 41.39 EUR
 currency: EUR
 price: 41.39

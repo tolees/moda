@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51DzdEklD2L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0811L6LCX-es'
+slug: 'B0811L6LCX-es Vicloon Princesa Vestir Accesorios  8 Pcs Amarillo Elsa Princesa Accesorios de disfraces  Regalo Conjunto de Belleza - Corona Anillo Sceptre Collar Pendientes Guantes para Niña'
 actualPrice: 8.63 EUR
 currency: EUR
 price: 8.63

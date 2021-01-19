@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41qxX7yRzoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VVRHG3P-es'
+slug: 'B07VVRHG3P-es Pepe Jeans Grace Sudadera  Amarillo  031lemon 031   Large para Mujer'
 actualPrice: 25.18 EUR
 currency: EUR
 price: 25.18

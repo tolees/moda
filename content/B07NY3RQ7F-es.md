@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Nfb03tErL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NY3RQ7F-es'
+slug: 'B07NY3RQ7F-es Superdry Padded Elite Jacket Chaqueta  Azul  Nautical Navy 09s   Small para Hombre'
 actualPrice: 23.46 EUR
 currency: EUR
 price: 23.46

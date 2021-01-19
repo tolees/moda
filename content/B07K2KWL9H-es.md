@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41C3vFJ2iWL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K2KWL9H-es'
+slug: 'B07K2KWL9H-es Timberland Splitrock 2 Waterproof  Zapatillas Chukka para Hombre  Marrón  Dark Brown Full Grain   41.5 EU'
 actualPrice: 53.44 EUR
 currency: EUR
 price: 53.44

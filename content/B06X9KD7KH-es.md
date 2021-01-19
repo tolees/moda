@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Ym4fOLtIL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06X9KD7KH-es'
+slug: 'B06X9KD7KH-es Kayhan Hombre Camisa  TwoFace Bordeaux M'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

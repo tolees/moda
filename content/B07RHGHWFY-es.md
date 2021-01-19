@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/312bbP-YpkL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RHGHWFY-es'
+slug: 'B07RHGHWFY-es Tommy Hilfiger Corp Split tee Camiseta Deporte  Azul  Blue Dw5   Small para Hombre'
 actualPrice: 19.0 EUR
 currency: EUR
 price: 19.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41PAmFDi6HL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087Q5YMHM-es'
+slug: 'B087Q5YMHM-es TAOFFEN Mujer Canvas Shoes Punta Redonda Zapatos para Caminar Planos sin Cordones Zapatos Escuela Orange Talla 37 Asiática'
 actualPrice: 23.88 EUR
 currency: EUR
 price: 23.88

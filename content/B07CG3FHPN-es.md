@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417-vLdV6LL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CG3FHPN-es'
+slug: 'B07CG3FHPN-es Jack & Jones Jjesheridan Shirt L/s Camisa Vaquera  Azul  Medium Blue Denim Fit:Slim   Hombre'
 actualPrice: 23.49 EUR
 currency: EUR
 price: 23.49

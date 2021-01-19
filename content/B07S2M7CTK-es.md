@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31jJUjmXgDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S2M7CTK-es'
+slug: 'B07S2M7CTK-es adidas M Mh 3s tee Camiseta de Manga Corta  Hombre  White/Black  S'
 actualPrice: 16.79 EUR
 currency: EUR
 price: 16.79

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51-3nRV38fL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XCX4LHF-es'
+slug: 'B07XCX4LHF-es Mujer Camisones Conjunto de Pijama de Encaje Sexy Elegante Ropa de Interior Dormir Pijamas para Mujer Familias para Todas Las Estaciones Camisones  Rojo Oscuro  L '
 actualPrice: 33.49 EUR
 currency: EUR
 price: 33.49

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41NAbL72WeL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N45HTCS-es'
+slug: 'B07N45HTCS-es United Colors of Benetton Basico 1 Man Abrigo   Negro 100   XX-Large  Talla del Fabricante: EL  para Hombre'
 actualPrice: 33.53 EUR
 currency: EUR
 price: 33.53

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416St4gq5VL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TS58SLD-es'
+slug: 'B07TS58SLD-es Jack & Jones Jjitim Jjleon GE 227 I.k. Noos Vaqueros Slim  Azul  Blue Denim Blue Denim   W28/L32  Talla del Fabricante: 28  para Hombre'
 actualPrice: 14.58 EUR
 currency: EUR
 price: 14.58

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41fiY4e5KmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SKK25T3-es'
+slug: 'B07SKK25T3-es CIVO Relojes Mujer Relojes de Señoras Acero Inoxidable Minimalista Impermeable Oro Rosa Diseñador Simple Moda Relojes de Cuarzo Analógicos para Mujeres con Esfera Marrón Elegante Casual'
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

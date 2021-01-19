@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41JYUO3LI+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W8VTHXQ-es'
+slug: 'B07W8VTHXQ-es Tommy Hilfiger Structured Slim Polo Camiseta Deporte  Rojo  Primary Red   Large para Hombre'
 actualPrice: 34.96 EUR
 currency: EUR
 price: 34.96

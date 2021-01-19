@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41A4GUONSSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SRKBDQB-es'
+slug: 'B07SRKBDQB-es Geox D Myria B  Zapatillas Altas para Mujer  Blanco  White/Off White C1352   37 EU'
 actualPrice: 50.48 EUR
 currency: EUR
 price: 50.48

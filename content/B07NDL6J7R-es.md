@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41FkCJM2QbL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NDL6J7R-es'
+slug: 'B07NDL6J7R-es G-STAR RAW Graphic 24 Loose Round Neck Sudadera  Beige  Milk 111   46  Talla del Fabricante: XX-Large  para Mujer'
 actualPrice: 12.66 EUR
 currency: EUR
 price: 12.66

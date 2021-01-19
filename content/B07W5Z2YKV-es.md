@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51FEdaV2YTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W5Z2YKV-es'
+slug: 'B07W5Z2YKV-es DOACT Chalecos Termico Exteriores Interfaz USB Chaleco Eléctrico Lavable Tres Engranajes Eléctrica Calefactable Chaquetas Aislamiento Térmico Neopreno para Exteriores Actividade Mantener Caliente XXXL'
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

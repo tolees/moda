@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Spnll3CtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071Z2ZQLG-es'
+slug: 'B071Z2ZQLG-es Tommy Hilfiger Core Stretch Slim Vneck tee Camiseta  Azul  Navy Blazer 416   X-Large para Hombre'
 actualPrice: 19.92 EUR
 currency: EUR
 price: 19.92

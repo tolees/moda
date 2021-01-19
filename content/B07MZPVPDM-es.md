@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51wmGEAVxGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZPVPDM-es'
+slug: 'B07MZPVPDM-es Pepe Jeans Nadia Sudadera   Grey Marl 933   7-8 años  Talla del Fabricante: 7/8 años  para Niñas'
 actualPrice: 17.54 EUR
 currency: EUR
 price: 17.54

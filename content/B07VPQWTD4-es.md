@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31KGQCXxvJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VPQWTD4-es'
+slug: 'B07VPQWTD4-es Tommy Hilfiger Stretch Slim Fit tee Camiseta Deporte  Azul  Blue Quartz   Small para Hombre'
 actualPrice: 24.67 EUR
 currency: EUR
 price: 24.67

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31JIbi02keL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00GZOGDBU-es'
+slug: 'B00GZOGDBU-es Joma Suez Pantalón  Hombre  Azul Marino  S'
 actualPrice: 14.9 EUR
 currency: EUR
 price: 14.9

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41qh3nPN83L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KMJSP83-es'
+slug: 'B07KMJSP83-es Mustang Big Sur Vaqueros Straight  Azul  Medium Middle 580   W31/L34  Talla del Fabricante: 31/34  para Hombre'
 actualPrice: 19.28 EUR
 currency: EUR
 price: 19.28

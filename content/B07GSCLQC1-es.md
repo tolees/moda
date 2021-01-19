@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41vlLDhafEL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GSCLQC1-es'
+slug: 'B07GSCLQC1-es Elimina el cabello facial para mujeres  suave  sin dolor  impecable y eléctrico  cabezal reemplazable 4 en 1  perfecto para cara  pierna  manos  bikini  brazos  cejas  masajeador facial'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

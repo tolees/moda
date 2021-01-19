@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41SgdRHgAHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YGQ8L2F-es'
+slug: 'B07YGQ8L2F-es Amazon Essentials Camiseta Cuello en V y Manga Corta. Fashion-Maternity-t-Shirts  Hibiscus/Azul Marino  US XL  EU 2XL '
 actualPrice: 13.92 EUR
 currency: EUR
 price: 13.92

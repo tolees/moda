@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31vlRnAEdVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NPBK2GH-es'
+slug: 'B07NPBK2GH-es Nike W Nk Miler Top Vneck Camiseta de Manga Corta  Mujer  White/ Reflective silv   S'
 actualPrice: 11.02 EUR
 currency: EUR
 price: 11.02

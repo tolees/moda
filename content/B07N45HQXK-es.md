@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41NAbL72WeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N45HQXK-es'
+slug: 'B07N45HQXK-es United Colors of Benetton Basico 1 Man Abrigo  Negro  Negro 100   Small para Hombre'
 actualPrice: 30.83 EUR
 currency: EUR
 price: 30.83

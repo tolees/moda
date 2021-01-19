@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41M49iGhOvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076X4RBK1-es'
+slug: 'B076X4RBK1-es Under Armour Curry 1 Lux Mid Zapatilla Baloncesto - 41'
 actualPrice: 46.39 EUR
 currency: EUR
 price: 46.39

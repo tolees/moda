@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31hIfxCgfKL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ZS8Q9RM-es'
+slug: 'B00ZS8Q9RM-es DC Shoes ADYS700071  Zapatilla Hombre  Negro  Black/White Bkw   40.5 EU'
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41L2P3VdT8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CG6ZR41-es'
+slug: 'B07CG6ZR41-es Marca Amazon - IRIS & LILLY Top de Bikini Crochet Mujer  Verde  Olive/Starlet Pink/Fandango Pink   M  Label: M'
 actualPrice: 7.78 EUR
 currency: EUR
 price: 7.78

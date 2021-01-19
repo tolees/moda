@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31SrtVML4kL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MLSSWFZ-es'
+slug: 'B07MLSSWFZ-es Clarks Bampton Lace  Zapatos de Cordones Brogue para Hombre  Marrón  Tan Tan   41 EU'
 actualPrice: 34.07 EUR
 currency: EUR
 price: 34.07

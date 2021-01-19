@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51oC9w3pX4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WKBPP5M-es'
+slug: 'B07WKBPP5M-es Marca Amazon - find. Vestido Cruzado de Flores Mujer  Multicolor  Pink Floral   36  Label: XS'
 actualPrice: 5.72 EUR
 currency: EUR
 price: 5.72

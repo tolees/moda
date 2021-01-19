@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41MGe1b9GEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073HKXDTD-es'
+slug: 'B073HKXDTD-es XTI 26915 Sandalias ESCLAVAS Mujer Sandalias Fuxia 38'
 actualPrice: 16.95 EUR
 currency: EUR
 price: 16.95

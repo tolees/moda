@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/312dNmLTwbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TPYSH8V-es'
+slug: 'B07TPYSH8V-es Clarks Foxwell Hall  Zapatos de Cordones Derby  Negro  Black SDE Black SDE   47 EU'
 actualPrice: 37.19 EUR
 currency: EUR
 price: 37.19

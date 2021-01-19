@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31PdGd5eNxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TJK4RL6-es'
+slug: 'B07TJK4RL6-es Clarks Un Adorn Lace  Zapatos de Cordones Derby para Mujer  Beige  Dusty Pink Combi Dusty Pink Combi   39.5 EU'
 actualPrice: 51.62 EUR
 currency: EUR
 price: 51.62

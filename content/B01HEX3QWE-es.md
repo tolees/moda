@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41pAqGVfRhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HEX3QWE-es'
+slug: 'B01HEX3QWE-es opel-r elegante exterior bici en gafas de sol polarizadas TR90 – Material resistente al impacto gafas de sol Para Ciclismo/Deportes//Contiene Lentes de cinco  bright black'
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/4146trvvI0L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JKWJWJT-es'
+slug: 'B07JKWJWJT-es Lee Emblem tee Camiseta  Beige  Dust Beige LP   Small para Hombre'
 actualPrice: 10.45 EUR
 currency: EUR
 price: 10.45

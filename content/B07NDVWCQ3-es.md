@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41mgKkk6hPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NDVWCQ3-es'
+slug: 'B07NDVWCQ3-es Columbia Challenger  Chaqueta cortavientos  Mujer  Negro/Beige  Black/Stone   S'
 actualPrice: 26.49 EUR
 currency: EUR
 price: 26.49

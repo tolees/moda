@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ubCmY4MWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BGM9J5W-es'
+slug: 'B01BGM9J5W-es Veet Sensitive Precision - Recortador Eléctrico Depilador Mujer Zonas Sensibles  Bikini  Facial y Axilas  Blanco'
 actualPrice: 21.21 EUR
 currency: EUR
 price: 21.21

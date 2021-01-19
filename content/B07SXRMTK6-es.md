@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41SoyYToniL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SXRMTK6-es'
+slug: 'B07SXRMTK6-es Geox D Sozy G  Sandalias con Punta Abierta para Mujer  Negro  Black/Gun C9b1g   38 EU'
 actualPrice: 48.93 EUR
 currency: EUR
 price: 48.93

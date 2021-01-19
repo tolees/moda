@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41TMjqJASqL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0763Q2SHQ-es'
+slug: 'B0763Q2SHQ-es WOLA estilo de redonda gafas de sol en madera SELVA mujer y hombre madera  sunglasses UV400 - polarisado arce'
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

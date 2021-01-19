@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51sDhz8tsDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DV93MTP-es'
+slug: 'B07DV93MTP-es Spotted Zebra Boxer Brief Ropa interior camuflaje X-Small  4-5 '
 actualPrice: 14.25 EUR
 currency: EUR
 price: 14.25

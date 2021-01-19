@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41mKnl2RrcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YBF6YZG-es'
+slug: 'B07YBF6YZG-es Vans OG Checker SS Camiseta  Blanco  White Wht   X-Small para Hombre'
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

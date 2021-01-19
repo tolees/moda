@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41hV%2B8e4hBL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L6KRP13-es'
+slug: 'B07L6KRP13-es Under Armour Armour Insulated Chaqueta  Hombre  Verde  XL'
 actualPrice: 72.31 EUR
 currency: EUR
 price: 72.31

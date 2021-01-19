@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ZY3jBFazL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VZZBSMP-es'
+slug: 'B07VZZBSMP-es El Naturalista Wakatiwai  Sandalias con Punta Abierta para Mujer  Azul  Marino Mixed Marino Mixed   37 EU'
 actualPrice: 43.86 EUR
 currency: EUR
 price: 43.86

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31duBdvB9PL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PNQGKYR-es'
+slug: 'B07PNQGKYR-es LATEC Gafas de Sol Deportivas  Gafas Ciclismo Polarizadas con Protección UV400 y TR90 Unbreakable Frame  para hombres Mujeres al aire libre Deportes Pesca Esquí Conducción Golf Correr Ciclismo'
 actualPrice: 12.79 EUR
 currency: EUR
 price: 12.79

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413yiEtxLiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01FHT3Y60-es'
+slug: 'B01FHT3Y60-es MaxMuxun Sandalias de Vestir Moderna Azul Cotidiana Comodida de Cita Para Mujer Tamaña 38 EU'
 actualPrice: 24.5 EUR
 currency: EUR
 price: 24.5

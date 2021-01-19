@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41VjiPVMv5L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S9XVVVP-es'
+slug: 'B07S9XVVVP-es FTIMILD - Chaqueta de Pana para Hombre con Cremallera  Estilo Retro con Bolsillos Verde Caqui S'
 actualPrice: 19.17 EUR
 currency: EUR
 price: 19.17

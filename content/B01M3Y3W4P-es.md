@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31qt2JDj+cL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M3Y3W4P-es'
+slug: 'B01M3Y3W4P-es Eye Candy ECJ-NL0067 - Collar para mujer  colgante en plata de ley 925  con 12 circonitas blancas  45 cm'
 actualPrice: 41.14 EUR
 currency: EUR
 price: 41.14

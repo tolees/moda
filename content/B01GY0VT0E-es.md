@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/312cv4+fzWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01GY0VT0E-es'
+slug: 'B01GY0VT0E-es Mercedes-Benz Sonnenbrille M7006 Gafas de sol  Marrón  Braun   57.0 para Hombre'
 actualPrice: 54.11 EUR
 currency: EUR
 price: 54.11

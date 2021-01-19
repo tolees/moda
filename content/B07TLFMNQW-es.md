@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31fF5Sm6PCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TLFMNQW-es'
+slug: 'B07TLFMNQW-es Levi s Relaxed Graphic tee Camiseta  Blanco  90 s Serif Logo D3 White 0038   XX-Large para Hombre'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

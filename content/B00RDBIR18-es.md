@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41MTQuhjbZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00RDBIR18-es'
+slug: 'B00RDBIR18-es adidas ESS 3S Chelsea - Pantalón corto para hombre  color negro / blanco  talla XXL'
 actualPrice: 17.51 EUR
 currency: EUR
 price: 17.51

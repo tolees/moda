@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41HX7OUd+vL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JHWWPJH-es'
+slug: 'B07JHWWPJH-es PUMA The Cat tee Camiseta  Hombre  Gris  Glacier Gray Heather White   XL'
 actualPrice: 8.32 EUR
 currency: EUR
 price: 8.32

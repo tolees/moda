@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Ki2QdgOGL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J3DLLRM-es'
+slug: 'B07J3DLLRM-es Under Armour Armour Fleece 1/2 Zip Sudadera cálida  Hombre  Rojo  Red/Black 601   XXL'
 actualPrice: 36.66 EUR
 currency: EUR
 price: 36.66

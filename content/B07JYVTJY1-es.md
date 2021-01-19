@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51ubkWa%2B06L._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JYVTJY1-es'
+slug: 'B07JYVTJY1-es Tommy Hilfiger Belle Boat-nk Top 3/4 Slv Jersey Deportivo  Naranja  Hori Easy STP/Koi 828   Small para Mujer'
 actualPrice: 32 EUR
 currency: EUR
 price: 32

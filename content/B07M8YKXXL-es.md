@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41nfON9vlmL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M8YKXXL-es'
+slug: 'B07M8YKXXL-es Geox M Hilstone D Abrigo  Azul  Blue Nights F4386   Medium  Talla del Fabricante: 50  para Hombre'
 actualPrice: 99.5 EUR
 currency: EUR
 price: 99.5

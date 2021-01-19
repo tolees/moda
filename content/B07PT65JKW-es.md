@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31F+G9u3isL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PT65JKW-es'
+slug: 'B07PT65JKW-es CARE OF by PUMA Sudadera con capucha de manga larga con capucha y cremallera para hombre  Rojo  Red   S  Label: S'
 actualPrice: 13.39 EUR
 currency: EUR
 price: 13.39

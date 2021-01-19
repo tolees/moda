@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/3198MJBzIAL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TSPJJ29-es'
+slug: 'B07TSPJJ29-es Women s Secret Daily Bees Db Bee Stripes PJ Conjuntos de Pijama  Gris  Gama Grises 49   Large  Tamaño del Fabricante: L  para Mujer'
 actualPrice: 15.46 EUR
 currency: EUR
 price: 15.46

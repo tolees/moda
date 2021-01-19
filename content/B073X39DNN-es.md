@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51JKtfooLZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073X39DNN-es'
+slug: 'B073X39DNN-es Camiseta Manga Corta Técnica Vueling Cup Hombre Roja M'
 actualPrice: 17.9 EUR
 currency: EUR
 price: 17.9

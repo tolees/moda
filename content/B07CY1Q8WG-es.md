@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ojzwShPgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CY1Q8WG-es'
+slug: 'B07CY1Q8WG-es Zapatillas de Deporte para bebés Zapatos Ocasionales Zapatos para Caminar en Primer Lugar Zapatos de niña niño Zapatos de bebé Sandalias Zapatos de Exterior Zapatos de Princesa'
 actualPrice: 4.69 EUR
 currency: EUR
 price: 4.69

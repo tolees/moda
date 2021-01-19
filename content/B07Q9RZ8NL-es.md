@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41xTEV+kEVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q9RZ8NL-es'
+slug: 'B07Q9RZ8NL-es Superdry Danika Boho Top Blusa  Azul  Richest Navy Zrn   XXS  Talla del Fabricante:6  para Mujer'
 actualPrice: 14.35 EUR
 currency: EUR
 price: 14.35

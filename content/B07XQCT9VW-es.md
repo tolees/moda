@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ik9xK3y+L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XQCT9VW-es'
+slug: 'B07XQCT9VW-es Mujer Camisa Básica Mujer Slim Fit - Camisa Blusa Casual de Fibra de Bambu Manga Larga Informal con Cierre de Botónl  Ideal para Oficina/Trabajo/Entrevista  Púrpura2  EU42 '
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

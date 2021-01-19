@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41lgmnL0GZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V5QPL6S-es'
+slug: 'B07V5QPL6S-es Tommy Hilfiger Hilfiger Badge Beach Sandal  Sandalias con Punta Abierta para Hombre  Azul  Desert Sky Dw5   40 EU'
 actualPrice: 26.15 EUR
 currency: EUR
 price: 26.15

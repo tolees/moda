@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31s+wss+FyL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L9G18QR-es'
+slug: 'B07L9G18QR-es Under Armour Rival Solid Pantalón  Niños  Negro  YSM'
 actualPrice: 11.12 EUR
 currency: EUR
 price: 11.12

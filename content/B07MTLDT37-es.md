@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41AnxFgDzKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MTLDT37-es'
+slug: 'B07MTLDT37-es Peppa Pig Sudadera para niñas 4-5 años Rosado'
 actualPrice: 16.95 EUR
 currency: EUR
 price: 16.95

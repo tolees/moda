@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41JIPmVzbiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DHYS1VL-es'
+slug: 'B07DHYS1VL-es Geox Uomo Sandal Strada A  Sandalias con Punta Abierta para Hombre  Brown  Coffee C6009   44 EU'
 actualPrice: 50.05 EUR
 currency: EUR
 price: 50.05

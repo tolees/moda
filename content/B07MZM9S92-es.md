@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41c+SHXPK0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZM9S92-es'
+slug: 'B07MZM9S92-es Pepe Jeans Jay Chaqueta   Black 999   Small para Hombre'
 actualPrice: 51.47 EUR
 currency: EUR
 price: 51.47

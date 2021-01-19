@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31APyO74GrL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BB5XDJ9-es'
+slug: 'B07BB5XDJ9-es Hurley M Garrison Chaqueta  Hombre  Negro  L'
 actualPrice: 22.92 EUR
 currency: EUR
 price: 22.92

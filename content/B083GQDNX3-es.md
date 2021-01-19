@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31R+-0sTUiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083GQDNX3-es'
+slug: 'B083GQDNX3-es Fankeshi - Abrigo de piel sintética para niña de flores  diseño de bolero - Blanco - 130 cm'
 actualPrice: 16.8 EUR
 currency: EUR
 price: 16.8

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41NtkB5LMSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QXL7RX3-es'
+slug: 'B07QXL7RX3-es Under Armour Forefront Rain Chaqueta  Hombre  Azul  SM'
 actualPrice: 47.97 EUR
 currency: EUR
 price: 47.97

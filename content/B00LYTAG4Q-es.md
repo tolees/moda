@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41F9lklqOML._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00LYTAG4Q-es'
+slug: 'B00LYTAG4Q-es Hollywood Star Fashion - Camiseta de manga corta con cuello en V'
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

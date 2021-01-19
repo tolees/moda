@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41kH1806W8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KF4QKSK-es'
+slug: 'B07KF4QKSK-es Levi s SS Set-in Sunset Pocket Camiseta  Multicolor  Colorblock Stripe Dress Blue/White/Brilliant Red/Sodalite Blue 0087   XX-Large para Hombre'
 actualPrice: 11.5 EUR
 currency: EUR
 price: 11.5

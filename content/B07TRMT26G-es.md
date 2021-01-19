@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416s3JVapaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TRMT26G-es'
+slug: 'B07TRMT26G-es Levi s The tee Camiseta  Blanco  Pink California Skies White+ 0917   Medium para Mujer'
 actualPrice: 14.5 EUR
 currency: EUR
 price: 14.5

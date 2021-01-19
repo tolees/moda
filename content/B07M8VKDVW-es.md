@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41RQCIxwXRL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M8VKDVW-es'
+slug: 'B07M8VKDVW-es Lee Button Down Camisa Casual  Azul  Beyond Blue   XX-Large para Hombre'
 actualPrice: 20.63 EUR
 currency: EUR
 price: 20.63

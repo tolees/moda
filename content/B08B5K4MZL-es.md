@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/516BduFPGWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08B5K4MZL-es'
+slug: 'B08B5K4MZL-es Leeharu - Abrigo de invierno para niña con capucha Bleu Flocon de Neige 8-9 Años'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

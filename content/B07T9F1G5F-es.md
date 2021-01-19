@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41PUaT9y19L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T9F1G5F-es'
+slug: 'B07T9F1G5F-es Quiksilver Get Buzzy Camiseta De Manga Larga  Niños  Gris  Light Grey Heather   XL/16'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

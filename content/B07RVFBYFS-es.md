@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41i4Ws3ypzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RVFBYFS-es'
+slug: 'B07RVFBYFS-es Pepe Jeans Hatch Vaqueros Hombre Ajustados  Azul  Medium Used 000   W30/L32'
 actualPrice: 40.37 EUR
 currency: EUR
 price: 40.37

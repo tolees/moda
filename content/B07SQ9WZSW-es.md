@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Z+bodWZkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SQ9WZSW-es'
+slug: 'B07SQ9WZSW-es Geox B Todo Girl B  Zapatillas para Bebés  Plateado  Silver/Aqua C1w4a   27 EU'
 actualPrice: 38.5 EUR
 currency: EUR
 price: 38.5

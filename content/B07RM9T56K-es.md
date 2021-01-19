@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31JVV2xnIKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RM9T56K-es'
+slug: 'B07RM9T56K-es Jack & Jones Jjimike Jjoriginal Am 816 Vaqueros Relaxed  Negro  Black Denim Black Denim   W30/L34  Talla del Fabricante: 30  para Hombre'
 actualPrice: 16.0 EUR
 currency: EUR
 price: 16.0

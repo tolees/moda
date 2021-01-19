@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41hBmuTyS8L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HGTS76T-es'
+slug: 'B07HGTS76T-es Aizeroth-UK Unisex Hombre Mujer Zapatillas de Seguridad con Punta de Acero Antideslizante S3 Zapatos de Trabajo Comodas Calzado de Trabajo Deportivos Botas de Protección Industria Construcción'
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41BE3REvlwL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LBN77MJ-es'
+slug: 'B07LBN77MJ-es Helly Hansen HH Logo Crew Sudadera Deportiva  Mujer  Festival Fuchsia  XL'
 actualPrice: 28.45 EUR
 currency: EUR
 price: 28.45

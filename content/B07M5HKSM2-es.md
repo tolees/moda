@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ZSP3MZkpL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M5HKSM2-es'
+slug: 'B07M5HKSM2-es Geox M Hilstone D Abrigo  Negro  Black F9000   XX-Large  Talla del Fabricante: 56  para Hombre'
 actualPrice: 69.65 EUR
 currency: EUR
 price: 69.65

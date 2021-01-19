@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41cT762-RML._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GSWY2BF-es'
+slug: 'B07GSWY2BF-es Puma Essentials LG T Camiseta de Manga Corta  Hombre  Negro  Cotton Black   M'
 actualPrice: 16.49 EUR
 currency: EUR
 price: 16.49

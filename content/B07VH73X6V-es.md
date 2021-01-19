@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41wYicm+ufL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VH73X6V-es'
+slug: 'B07VH73X6V-es edc by Esprit 099cc1b033 Vaqueros Skinny  Azul  Blue Dark Wash 901   W27/L32  Talla del Fabricante: 27/32  para Mujer'
 actualPrice: 10.13 EUR
 currency: EUR
 price: 10.13

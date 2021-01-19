@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41IB6zIW7SL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N3YVQKV-es'
+slug: 'B07N3YVQKV-es Desigual Dress Sevilla Vestido  Azul  Marino 5001   40 para Mujer'
 actualPrice: 30.63 EUR
 currency: EUR
 price: 30.63

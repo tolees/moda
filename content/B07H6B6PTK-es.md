@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31dS8I-JXxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H6B6PTK-es'
+slug: 'B07H6B6PTK-es Skechers Ultra Flex-Neon Star  Sandalias de Talón Abierto para Mujer  Negro  Black Gore/Mitobuck Trim Black   36 EU'
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

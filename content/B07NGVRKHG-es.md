@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31wQzUbtixL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NGVRKHG-es'
+slug: 'B07NGVRKHG-es Calvin Klein 3p Low Rise Trunk Bóxer  Negro  B/Tolerance/Wet Wther/Blue Logo Jkv   S  Pack de 3  para Hombre'
 actualPrice: 12.12 EUR
 currency: EUR
 price: 12.12

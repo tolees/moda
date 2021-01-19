@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41HROkz0kAL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GZJN2RF-es'
+slug: 'B07GZJN2RF-es CONQUECO - Chaleco - Moda - Sin Mangas - para Hombre Negro Negro  Medium'
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31jruZZHQIL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QBPYY2J-es'
+slug: 'B07QBPYY2J-es New Look Arnie Rip Bleach Vaqueros Skinny  Azul  Light Blue 45   W30/L32  Talla del Fabricante: 30R  para Hombre'
 actualPrice: 12 EUR
 currency: EUR
 price: 12

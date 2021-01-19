@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31JcB5855NL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01EYJRMHG-es'
+slug: 'B01EYJRMHG-es Levi s 511 Slim Fit Jeans Pantalón vaquero elástico y con corte estilizado para hombre  Headed South 4006  30W / 30L'
 actualPrice: 76.82 EUR
 currency: EUR
 price: 76.82

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41c4k-4aJzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S7BRB1J-es'
+slug: 'B07S7BRB1J-es Lee Small Sunset tee Camiseta  Negro  Black 01   Large para Hombre'
 actualPrice: 12.23 EUR
 currency: EUR
 price: 12.23

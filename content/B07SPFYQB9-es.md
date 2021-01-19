@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31R7FEphkxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SPFYQB9-es'
+slug: 'B07SPFYQB9-es dockers Alpha 360 Button Up Camisa Casual  Negro  Pirate Black 0041   M para Hombre'
 actualPrice: 15.97 EUR
 currency: EUR
 price: 15.97

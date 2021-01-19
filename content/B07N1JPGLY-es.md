@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31JzsBWsg4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N1JPGLY-es'
+slug: 'B07N1JPGLY-es Clarks Pure Mist  Zapatos de Cordones Derby para Mujer  Marrón  Tan Leather Tan Leather   38 EU'
 actualPrice: 17.33 EUR
 currency: EUR
 price: 17.33

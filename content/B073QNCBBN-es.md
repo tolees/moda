@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41f-HA%2BbKdL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B073QNCBBN-es'
+slug: 'B073QNCBBN-es find. Chaqueta Efecto Borreguito para Mujer  Marrón  Braun   40  Talla del Fabricante: Medium '
 actualPrice: 21 EUR
 currency: EUR
 price: 21

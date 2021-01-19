@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41PdT3Izu6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079C79FSC-es'
+slug: 'B079C79FSC-es Jack & Jones  Jjebasic Polo SS Noos - Camiseta para Hombre  Negro   Talla S'
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/319H+ahCcvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LBP88NF-es'
+slug: 'B07LBP88NF-es Helly Hansen Paramount Resistente Al Agua Y Al Viento Y Respirable Chaqueta De Softshell  Mujer  Navy  XS'
 actualPrice: 34.58 EUR
 currency: EUR
 price: 34.58

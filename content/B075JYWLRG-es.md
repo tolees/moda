@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41pOxdqzNSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075JYWLRG-es'
+slug: 'B075JYWLRG-es Madbike Accesorios de Cambio de Engranaje para Zapatos Botas de Motocicleta Protector  Black '
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

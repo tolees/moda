@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41OBsnHtCmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071JRG9R1-es'
+slug: 'B071JRG9R1-es Clarks Batcombe Wing  Zapatos de Cordones Derby  Negro  Black Leather-   44 EU'
 actualPrice: 42.67 EUR
 currency: EUR
 price: 42.67

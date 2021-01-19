@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41OsSjRrIuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DJ9J4VC-es'
+slug: 'B07DJ9J4VC-es Geox Uomo Snake K  Zapatillas para Hombre  Grey  Grey C1006   39 EU'
 actualPrice: 36.52 EUR
 currency: EUR
 price: 36.52

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41itJwOX9DL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V8KSKR9-es'
+slug: 'B07V8KSKR9-es Calvin Klein Monogram Relaxed Short Hoodie Sudadera  Gris  Light Grey Heather P01   40  Talla del Fabricante: Large  para Mujer'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

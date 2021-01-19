@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51J0uWnQ3xL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078SY6CZD-es'
+slug: 'B078SY6CZD-es Timberland Capri Sunset Wedge  Sandalias para Mujer  Marrón  Rust Nubuck   37.5 EU'
 actualPrice: 83.9 EUR
 currency: EUR
 price: 83.9

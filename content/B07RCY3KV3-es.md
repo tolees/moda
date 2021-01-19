@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/21AihMY00qL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RCY3KV3-es'
+slug: 'B07RCY3KV3-es TAIPAN Pulseras Mujer 925 Plata Original - Este Pulsera de Moda Viene con una Caja Utilizado como Regalos Originales para Mujer Madre Novia/Pulseras Plata Mujer'
 actualPrice: 13.9 EUR
 currency: EUR
 price: 13.9

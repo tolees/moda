@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41qrjlWWcfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D73DH4P-es'
+slug: 'B07D73DH4P-es Pendientes mujer plata de ley 925 pendientes largos con colgantes de bola de 10mm de cristal joyería de moda regalos para mujeres y niñas'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

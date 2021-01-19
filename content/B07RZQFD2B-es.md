@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31c7xP4LKEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RZQFD2B-es'
+slug: 'B07RZQFD2B-es Lacoste SH8654 - Sudadera Deportiva para Hombre  Corte Regular Azul Marino/Azul Marino  2f4 . XS'
 actualPrice: 62.87 EUR
 currency: EUR
 price: 62.87

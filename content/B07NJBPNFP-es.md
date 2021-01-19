@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31WQJlyE4zL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NJBPNFP-es'
+slug: 'B07NJBPNFP-es Springfield 4.FQ. Corto Rodill Vestido  Multicolor  Multicolor 18   42  Tamaño del Fabricante: 42  para Mujer'
 actualPrice: 9.86 EUR
 currency: EUR
 price: 9.86

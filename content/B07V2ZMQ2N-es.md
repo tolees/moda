@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41iwUIfs9JL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V2ZMQ2N-es'
+slug: 'B07V2ZMQ2N-es Wrangler ICONS Camisa Vaquera  Azul  New 301   Small para Hombre'
 actualPrice: 27.16 EUR
 currency: EUR
 price: 27.16

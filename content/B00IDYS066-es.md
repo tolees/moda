@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41neJtRqUXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00IDYS066-es'
+slug: 'B00IDYS066-es Case Logic DSS101 - Bolso para cámara'
 actualPrice: 41.29 EUR
 currency: EUR
 price: 41.29

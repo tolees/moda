@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41pbP-34tJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08D3SNNGH-es'
+slug: 'B08D3SNNGH-es Doaraha Camisón de Maternidad para Mujer Vestido Lactancia Pijama Premamá Embarazadas Camisónes Volantes Ropa de Dormir Cuello en V Manga 3/4  Azul Marino  Small '
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

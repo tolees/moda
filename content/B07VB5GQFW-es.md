@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41EnjqQhIRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VB5GQFW-es'
+slug: 'B07VB5GQFW-es Jack & Jones Jorwillow Stand Collar Jacket Chaqueta  Azul  Navy Blazer Navy Blazer   Small para Hombre'
 actualPrice: 28.68 EUR
 currency: EUR
 price: 28.68

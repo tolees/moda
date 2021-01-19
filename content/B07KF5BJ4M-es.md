@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41CZMe9RQiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KF5BJ4M-es'
+slug: 'B07KF5BJ4M-es Levi s 501 Crop Vaqueros Boyfriend  Azul  Montgomery Baked 0074   25W / 26L para Mujer'
 actualPrice: 54.95 EUR
 currency: EUR
 price: 54.95

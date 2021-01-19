@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51n0RJVOyYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GP6QNRP-es'
+slug: 'B07GP6QNRP-es Zapatillas Hombre Mujer Invierno CáLido Zapatos Memory Foam Casa Antideslizante Pantuflas  Gris/Rojo  38/39 EU '
 actualPrice: 19.98 EUR
 currency: EUR
 price: 19.98

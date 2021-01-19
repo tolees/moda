@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41+Vz3WUYnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VHC2Q8K-es'
+slug: 'B07VHC2Q8K-es Jack & Jones Jcofigure Parka STS  Negro  Black Pattern: Melange   XX-Large para Hombre'
 actualPrice: 19.76 EUR
 currency: EUR
 price: 19.76

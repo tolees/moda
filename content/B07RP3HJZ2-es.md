@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41PpdwMtN7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RP3HJZ2-es'
+slug: 'B07RP3HJZ2-es Conjunto regalo cumpleaños Cake Topper + Body o camiseta personalizado con el nombre decoración fiesta animales para Bebes Unisex Niños Niñas primer cumpleaños velas'
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41O7Qnbm5iL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076HMN94H-es'
+slug: 'B076HMN94H-es Adidas Regista 18 Track Top Chaqueta Deportiva  Hombre  Bold Gold/Black  2XL'
 actualPrice: 18.82 EUR
 currency: EUR
 price: 18.82

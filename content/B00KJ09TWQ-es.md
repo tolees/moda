@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31-B1pPjrgL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KJ09TWQ-es'
+slug: 'B00KJ09TWQ-es Calvin Klein Damen Slip MODERN COTTON - BIKINI  Einfarbig  Gr. 36  Herstellergröße: S   Schwarz  BLACK 001 '
 actualPrice: 12.49 EUR
 currency: EUR
 price: 12.49

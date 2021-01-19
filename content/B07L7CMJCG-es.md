@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41pnJkehA6L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L7CMJCG-es'
+slug: 'B07L7CMJCG-es JACK & JONES Jjitim Jjoriginal Am 814 Vaqueros Slim  Azul  Blue Denim Blue Denim   W31/L32  Talla del Fabricante: 31  para Hombre'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

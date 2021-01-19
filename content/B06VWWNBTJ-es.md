@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41yLp9RCU2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06VWWNBTJ-es'
+slug: 'B06VWWNBTJ-es Vans Colorblock tee - Camiseta para Hombre   Negro  Black/athletic Heather   Small'
 actualPrice: 16.15 EUR
 currency: EUR
 price: 16.15

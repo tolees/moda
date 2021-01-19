@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31+WqvzsFRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MCLP9Q2-es'
+slug: 'B07MCLP9Q2-es Marca Amazon - find. Pantalón con Cintura de Fuelle Mujer  Rosa  rosa antiguo 17-1518 Tcx    40  Label: M'
 actualPrice: 11.39 EUR
 currency: EUR
 price: 11.39

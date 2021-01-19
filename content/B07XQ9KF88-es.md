@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/319faFmgefL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XQ9KF88-es'
+slug: 'B07XQ9KF88-es Marca Amazon - FIND Stiletto Round Toe T-Bar Zapatos de Tacón  Dorado  Mirror Gold   36 EU'
 actualPrice: 5.87 EUR
 currency: EUR
 price: 5.87

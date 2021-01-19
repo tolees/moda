@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41hyAOTq5CL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077Y9WGDW-es'
+slug: 'B077Y9WGDW-es HIKARO Sudadera con Capucha Hombre  Verde  Khaki   52  Talla del fabricante: Large '
 actualPrice: 12.47 EUR
 currency: EUR
 price: 12.47

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41t0vpLhu0L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HSOVEN2-es'
+slug: 'B01HSOVEN2-es Timberland Adventure 2.0 Cupsole  Zapatillas Altas para Hombre  Marrón  Canteen Chaos   40 EU'
 actualPrice: 95.26 EUR
 currency: EUR
 price: 95.26

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31HGEqnabWL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075NNY5S5-es'
+slug: 'B075NNY5S5-es FitFlop Lulu Cross Slide  Sandalias de Punta Descubierta para Mujer  Black  Black 001   42 EU'
 actualPrice: 49.48 EUR
 currency: EUR
 price: 49.48

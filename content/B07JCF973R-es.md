@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41L+LDVTupL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JCF973R-es'
+slug: 'B07JCF973R-es Columbia Alpine Action Chaqueta OH Ski de esquí  Mujer  Azul  Nocturnal 467   S'
 actualPrice: 100.29 EUR
 currency: EUR
 price: 100.29

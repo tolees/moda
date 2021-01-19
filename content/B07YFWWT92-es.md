@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31NVMCgEGmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YFWWT92-es'
+slug: 'B07YFWWT92-es GOBY Collar de Helado de Paleta Creativa de Moda cruda de Estilo Dulce Simple  conmemoración de Viaje  3 '
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

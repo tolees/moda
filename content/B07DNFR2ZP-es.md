@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/410r6XDKtkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DNFR2ZP-es'
+slug: 'B07DNFR2ZP-es Clarks Becken Cap  Zapatos de Cordones Derby para Hombre  Marrón  Tan Leather-   46 EU'
 actualPrice: 56.9 EUR
 currency: EUR
 price: 56.9

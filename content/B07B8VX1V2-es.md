@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/319MkUOhlDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B8VX1V2-es'
+slug: 'B07B8VX1V2-es Clarks Dalia Rose  Zapatos de Tacón para Mujer  Negro  Black Patent   38 EU'
 actualPrice: 31.36 EUR
 currency: EUR
 price: 31.36

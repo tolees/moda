@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41LUbPYv1qL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GDWCY8B-es'
+slug: 'B07GDWCY8B-es Levi s LS Battery Hm Shirt Camisa  Negro  Black 0002   Large para Hombre'
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

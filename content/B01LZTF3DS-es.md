@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41kF+CcRSqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LZTF3DS-es'
+slug: 'B01LZTF3DS-es Skechers Reggae Slim-Vacay  Sandalias de Talón Abierto para Mujer  Negro  Black Blk   39 EU'
 actualPrice: 40.82 EUR
 currency: EUR
 price: 40.82

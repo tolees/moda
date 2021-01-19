@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41RcFRNoieL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XCGRD9D-es'
+slug: 'B06XCGRD9D-es G-STAR RAW 3301 High Waist Skinny Vaqueros  Azul  medium indigo aged 8968-6028   27W / 34L para Mujer'
 actualPrice: 40.0 EUR
 currency: EUR
 price: 40.0

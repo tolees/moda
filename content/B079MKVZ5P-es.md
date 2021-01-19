@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51hg2qiSCFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079MKVZ5P-es'
+slug: 'B079MKVZ5P-es Tommy Hilfiger Trunk Bóxer  Azul  Navy Blazer 416   Small para Hombre'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

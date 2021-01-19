@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/418k7R%2Bl7EL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFZ94R4-es'
+slug: 'B07LFZ94R4-es Geox J HADRIEL Girl D  Botas Slouch para Niñas  Rosa  Lt Prune C8023   27 EU'
 actualPrice: 40.85 EUR
 currency: EUR
 price: 40.85

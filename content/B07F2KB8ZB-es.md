@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31uOl+PmKbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F2KB8ZB-es'
+slug: 'B07F2KB8ZB-es Amazon Essentials – Camisa Oxford de manga larga de corte entallado de rayas para hombre  Azul  Aqua Stripe Aqu   US XS  EU XS '
 actualPrice: 14.46 EUR
 currency: EUR
 price: 14.46

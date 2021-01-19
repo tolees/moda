@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4105qLYve+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078WB91KH-es'
+slug: 'B078WB91KH-es Stonefly Berry II 1 Calf  Zapatos de Cordones Brogue para Hombre  Negro  Black 000   43 EU'
 actualPrice: 49.96 EUR
 currency: EUR
 price: 49.96

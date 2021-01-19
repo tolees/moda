@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31oXwUTdPuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00WUBHDPC-es'
+slug: 'B00WUBHDPC-es CASUAL FRIDAY 500924 Camisa  50003 Black  S para Hombre'
 actualPrice: 14.0 EUR
 currency: EUR
 price: 14.0

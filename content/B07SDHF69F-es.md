@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41QRYIG7ruL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SDHF69F-es'
+slug: 'B07SDHF69F-es Star Wars HS2123 Conjuntos de Pijama  Azul  Navy Navy   8 años para Niños'
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

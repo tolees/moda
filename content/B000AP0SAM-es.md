@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41ydw0C4u4L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B000AP0SAM-es'
+slug: 'B000AP0SAM-es Reebok Classic Nylon Zapatilla de Running Hombre  Blanco  White / Light Grey   42'
 actualPrice: 45.45 EUR
 currency: EUR
 price: 45.45

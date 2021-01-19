@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Zf5Y764sL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KDFQ92T-es'
+slug: 'B07KDFQ92T-es adidas Tiro19 Pre Jkty Chaqueta de Deporte  Unisex niños  Dark Blue/Black/White  1516'
 actualPrice: 20.95 EUR
 currency: EUR
 price: 20.95

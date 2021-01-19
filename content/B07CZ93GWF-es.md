@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31e1g4ARzQL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CZ93GWF-es'
+slug: 'B07CZ93GWF-es Under Armour UA Qualifier Shortsleeve Camiseta  Hombre  Gris  Mod Gray/Mod Gray/Reflective 011   XL'
 actualPrice: 15.4 EUR
 currency: EUR
 price: 15.4

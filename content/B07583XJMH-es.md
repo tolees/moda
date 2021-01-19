@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31jiUo7BCDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07583XJMH-es'
+slug: 'B07583XJMH-es The North Face T934VX Pantalón Infantil con Tirantes Snowquest  Unisex niños  TNF Black  S'
 actualPrice: 41.33 EUR
 currency: EUR
 price: 41.33

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41RAgFwr9OL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S1PGFR2-es'
+slug: 'B07S1PGFR2-es Rowenta Depiladora Flower Love Kit 3 en 1 - EP2853F0-2 velocidades  24 pinzas  Accesorio para depilación zona bikini con 2 peines  accesorio de pinzas con luzy bolsa de viaje'
 actualPrice: 25.95 EUR
 currency: EUR
 price: 25.95

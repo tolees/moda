@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41GTGqWjt8L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00RW5FOEI-es'
+slug: 'B00RW5FOEI-es Reef Twinpin  Sandalias con Correa de Tobillo para Hombre  Marrón  Brown   37 EU'
 actualPrice: 9.22 EUR
 currency: EUR
 price: 9.22

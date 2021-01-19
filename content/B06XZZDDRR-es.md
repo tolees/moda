@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31wxRdy3vOL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XZZDDRR-es'
+slug: 'B06XZZDDRR-es BROOKS BROTHERS Camicia Regent Manica Lunga  Camisa de Oficina para Hombre  Turquesa  Light/Pastel Blue 455  Large  Talla del Fabricante: 16H 34 '
 actualPrice: 43.7 EUR
 currency: EUR
 price: 43.7

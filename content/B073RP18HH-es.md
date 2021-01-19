@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41OOMDr99aL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B073RP18HH-es'
+slug: 'B073RP18HH-es Helly Hansen HH Tech Crew Camiseta  Hombre  Gris  Gris Oscuro 980   Large  Tamaño del Fabricante:L '
 actualPrice: 13.98 EUR
 currency: EUR
 price: 13.98

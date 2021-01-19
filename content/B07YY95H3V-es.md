@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41H71LcW9gL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YY95H3V-es'
+slug: 'B07YY95H3V-es Guantes de Invierno para Smartphone  Impermeables e Impermeables para Actividades al Aire Libre  Correr  Senderismo  esquí y Ciclismo para Hombres y Mujeres  Negro-5 '
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

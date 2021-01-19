@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/419UBuREkVL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0797T4XSY-es'
+slug: 'B0797T4XSY-es adidas CY7875  Sudadera de Hombre  Color Cortiz'
 actualPrice: 26.82 EUR
 currency: EUR
 price: 26.82

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31f3MBB1EnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N1JLHNS-es'
+slug: 'B07N1JLHNS-es Clarks Un Cosmo Step  Zapatos de Tacón para Mujer  Marrón  Aubergine Lea Aubergine Lea   35.5 EU'
 actualPrice: 47.51 EUR
 currency: EUR
 price: 47.51

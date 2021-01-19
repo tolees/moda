@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51aeg0NtlOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HFNSMTT-es'
+slug: 'B07HFNSMTT-es Only onlSKY REG DNM Skirt BB PIM992 Noos Falda  Mezclilla De Color Azul Claro  Talla del Fabricante: 36 para Mujer'
 actualPrice: 17.49 EUR
 currency: EUR
 price: 17.49

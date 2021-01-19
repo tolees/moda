@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41kv84a6qIL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N19CPTJ-es'
+slug: 'B07N19CPTJ-es Lee Logo tee  Camiseta para Hombre  Rojo  Warp Red Kg   Medium'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/319TivOrvwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YBJ26JB-es'
+slug: 'B07YBJ26JB-es Vans Left Chest Logo tee Camiseta  Rojo  Port Royale/Whi K1o   X-Small para Hombre'
 actualPrice: 13.95 EUR
 currency: EUR
 price: 13.95

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41JPwWtoqvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TXDWN4V-es'
+slug: 'B07TXDWN4V-es Levi s 511 Slim Fit Vaqueros  Beige Harvest Gold Sueded Sateen WT B 4425  28W / 32L para Hombre'
 actualPrice: 43.81 EUR
 currency: EUR
 price: 43.81

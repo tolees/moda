@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31lQRJ+YafL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0792FKCLP-es'
+slug: 'B0792FKCLP-es Geox D Stardust C  Botines para Mujer  Marrón  Coffee C6009   39 EU'
 actualPrice: 29.42 EUR
 currency: EUR
 price: 29.42

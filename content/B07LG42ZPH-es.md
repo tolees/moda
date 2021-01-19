@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41o2vKVGEXL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LG42ZPH-es'
+slug: 'B07LG42ZPH-es Geox J ALBEN Boy A  Zapatillas para Niños  Azul  Navy/Military Cf4a3   33 EU'
 actualPrice: 52.43 EUR
 currency: EUR
 price: 52.43

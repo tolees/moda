@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51-jXmF1X-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BRTHZ6G-es'
+slug: 'B07BRTHZ6G-es UMIPUBO Mujer Ropa de Baño Crochet Vestido de Playa V Cuello Camisolas y Pareos Bikini Cover up  Beige '
 actualPrice: 12.23 EUR
 currency: EUR
 price: 12.23

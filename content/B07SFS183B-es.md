@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41i+PQCelqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SFS183B-es'
+slug: 'B07SFS183B-es Helly Hansen HH Logo Crew Sudadera Deportiva  Hombre  Azul Royal  M'
 actualPrice: 38.55 EUR
 currency: EUR
 price: 38.55

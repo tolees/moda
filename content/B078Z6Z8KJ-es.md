@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41SGKid21uL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078Z6Z8KJ-es'
+slug: 'B078Z6Z8KJ-es GRITION Sandalias Hombre Verano Punta Cerrada Sandalias de Deporte de Gran Tamaño Sandalias de Protección Rápida Dry Toecap Verano  40EU BB '
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

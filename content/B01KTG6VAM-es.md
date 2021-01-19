@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/318g+pTK0cL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01KTG6VAM-es'
+slug: 'B01KTG6VAM-es Levi s 712 Vaqueros Slim  Negro  Black Sheen 0001   W23/L30  Talla del Fabricante: 23 30  para Mujer'
 actualPrice: 61.99 EUR
 currency: EUR
 price: 61.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41fVMwoMKGL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N15XH4K-es'
+slug: 'B07N15XH4K-es Lee Chunky Crew Neck Sudadera  Naranja  Sign Orange Me   Large para Hombre'
 actualPrice: 21.52 EUR
 currency: EUR
 price: 21.52

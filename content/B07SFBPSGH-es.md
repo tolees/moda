@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31wWsUAaZcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SFBPSGH-es'
+slug: 'B07SFBPSGH-es Helly Hansen W HH Logo Singlet Camiseta De Tirantes  Mujer  White  S'
 actualPrice: 12.45 EUR
 currency: EUR
 price: 12.45

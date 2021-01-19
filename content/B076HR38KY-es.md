@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31RTeT4obyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076HR38KY-es'
+slug: 'B076HR38KY-es adidas Core18 tee Camiseta de Manga Corta  Hombre  Dark Blue/White  M'
 actualPrice: 14.8 EUR
 currency: EUR
 price: 14.8

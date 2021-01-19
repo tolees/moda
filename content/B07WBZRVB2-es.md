@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41bnqmEHpBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WBZRVB2-es'
+slug: 'B07WBZRVB2-es Jack & Jones JCOSEAD Sweat Crew Neck FST Sudadera  Gris  Light Grey Melange Light Grey Melange   L para Hombre'
 actualPrice: 14.54 EUR
 currency: EUR
 price: 14.54

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31pl-qgMKWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072MJBK3F-es'
+slug: 'B072MJBK3F-es Marca Amazon - find. Camisa Hombre  Marfil  Stone   S  Label: S'
 actualPrice: 7.2 EUR
 currency: EUR
 price: 7.2

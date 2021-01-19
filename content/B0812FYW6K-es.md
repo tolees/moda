@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41PRbVeJD6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0812FYW6K-es'
+slug: 'B0812FYW6K-es Asics Gel-Pulse 11  Zapatos para Correr Mens  Azul  42 EU'
 actualPrice: 61.91 EUR
 currency: EUR
 price: 61.91

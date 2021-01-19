@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31GsqOg5TGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K7HBLPK-es'
+slug: 'B07K7HBLPK-es adidas Tiro19 WOV SHO Pantalón Corto  Hombre  Negro  Black/White   M'
 actualPrice: 17.49 EUR
 currency: EUR
 price: 17.49

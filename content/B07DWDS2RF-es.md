@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/317HTzhGKqL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DWDS2RF-es'
+slug: 'B07DWDS2RF-es Under Armour Tech SSC Graphic Camiseta  Mujer  Blanco  White/Lime Fizz/Charcoal 101   XL'
 actualPrice: 13.81 EUR
 currency: EUR
 price: 13.81

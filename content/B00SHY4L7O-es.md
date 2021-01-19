@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41L0tHVcixL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00SHY4L7O-es'
+slug: 'B00SHY4L7O-es Bogner Fire Ice Hombres Chaqueta Azul Azul/Azul Oscuro Talla:50  UE '
 actualPrice: 278.27 EUR
 currency: EUR
 price: 278.27

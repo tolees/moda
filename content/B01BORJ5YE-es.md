@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/413cKcYx3pL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BORJ5YE-es'
+slug: 'B01BORJ5YE-es Erima GmbH Classic Team Chaqueta para Todo Tiempo  Unisex Adulto  Rojo/Blanco  M'
 actualPrice: 17.22 EUR
 currency: EUR
 price: 17.22

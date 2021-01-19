@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41YnthRx3NL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MQ2QMRW-es'
+slug: 'B07MQ2QMRW-es HKT by Hackett Hkt GMT W Piquet Camisa   Indigo 561   Medium para Hombre'
 actualPrice: 17.31 EUR
 currency: EUR
 price: 17.31

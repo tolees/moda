@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41QM2G8-+mL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RY2MBQR-es'
+slug: 'B07RY2MBQR-es Only Onlpatrice SS Linen Dnm tee PAL Camiseta  Blanco  Cloud Dancer Cloud Dancer   42  Talla del Fabricante: Large  para Mujer'
 actualPrice: 11.39 EUR
 currency: EUR
 price: 11.39

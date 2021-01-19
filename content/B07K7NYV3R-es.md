@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41vs5AVlyYL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K7NYV3R-es'
+slug: 'B07K7NYV3R-es Esprit Kids Sweatshirt Card Sudadera Morado  Plum 871   Talla del Fabricante: 92+ para Niñas'
 actualPrice: 11.71 EUR
 currency: EUR
 price: 11.71

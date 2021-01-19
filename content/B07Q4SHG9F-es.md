@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/5189yxqghfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q4SHG9F-es'
+slug: 'B07Q4SHG9F-es Mochilas Escolares Fanspack Mochilas Escolares Juveniles Bolso Mochila Deporte Mochila Colegio Backpack Grande Mochila Infantil Juveniles  Negro y Azul '
 actualPrice: 30.21 EUR
 currency: EUR
 price: 30.21

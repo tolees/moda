@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/415MayCMYML._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01J1LQ6ZG-es'
+slug: 'B01J1LQ6ZG-es Crocs Crocband U  Zuecos Unisex Adulto  Azul  Navy-Volt Green-Lemon   38-39 EU'
 actualPrice: 36.0 EUR
 currency: EUR
 price: 36.0

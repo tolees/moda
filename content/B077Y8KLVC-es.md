@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41V+Xg2cwDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077Y8KLVC-es'
+slug: 'B077Y8KLVC-es HIKARO Sudadera con Capucha Hombre  Rojo  Red   48  Talla del fabricante: Small '
 actualPrice: 6.59 EUR
 currency: EUR
 price: 6.59

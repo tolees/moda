@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41yEVa7Wy2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07STLPY45-es'
+slug: 'B07STLPY45-es Geox U Walee A  Zapatillas para Hombre  Azul  Navy C4002   39 EU'
 actualPrice: 35.73 EUR
 currency: EUR
 price: 35.73

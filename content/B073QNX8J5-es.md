@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51sLWxA8TsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073QNX8J5-es'
+slug: 'B073QNX8J5-es Levi s 26309  Camisa Para Mujer  Multicolor  Gallberry Merlot 25   Small'
 actualPrice: 22.13 EUR
 currency: EUR
 price: 22.13

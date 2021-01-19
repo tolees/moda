@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31rJWBezx4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VHDN61C-es'
+slug: 'B07VHDN61C-es Hackett London Amr Multi SS Camiseta  Blanco  8aswhite/Blue 8as   XX-Large para Hombre'
 actualPrice: 60.93 EUR
 currency: EUR
 price: 60.93

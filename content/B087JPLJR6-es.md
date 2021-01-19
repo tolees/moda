@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41wVaj1wylL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087JPLJR6-es'
+slug: 'B087JPLJR6-es Sucreven Mujer Elegante Tacón Ancho Pump Puntiagudo Tacón Alto Pump Sin Cordones Vestido Zapatos Albaricoque Talla 35 EU'
 actualPrice: 26.78 EUR
 currency: EUR
 price: 26.78

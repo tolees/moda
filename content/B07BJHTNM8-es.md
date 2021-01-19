@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-Z8wlv7FL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BJHTNM8-es'
+slug: 'B07BJHTNM8-es G-STAR RAW 3301 Straight Tapered Vaqueros  Dark Aged 6553-89  32W / 30L para Hombre'
 actualPrice: 44.95 EUR
 currency: EUR
 price: 44.95

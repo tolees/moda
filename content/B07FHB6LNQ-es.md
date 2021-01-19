@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41gPsA-Ib4L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FHB6LNQ-es'
+slug: 'B07FHB6LNQ-es Levi s Sunset 1 Pocket Shirt Camisa  Multicolor  Wildcat Python Green 0388   X-Large para Hombre'
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

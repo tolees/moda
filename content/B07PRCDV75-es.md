@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41KZy2Qt5YL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PRCDV75-es'
+slug: 'B07PRCDV75-es Kipling Amiel  Bolso de Mano Mediano para Mujer  Dorado  Cloud Metal   27x24.5x14.5 centimeters  B x H x T '
 actualPrice: 31.74 EUR
 currency: EUR
 price: 31.74

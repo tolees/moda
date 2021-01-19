@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51i6kY3CvhL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M4K8RUM-es'
+slug: 'B01M4K8RUM-es Collares para Parejas Anillo Acero Inoxidable Regalo Amor Amistad Oro Rosa Joyería de Moda Regalo Halloween Compromiso Boda'
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

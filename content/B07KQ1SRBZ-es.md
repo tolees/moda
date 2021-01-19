@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31gn4Hj5EwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KQ1SRBZ-es'
+slug: 'B07KQ1SRBZ-es Helly Hansen Driftline Polo Camiseta tipo polo de manga corta con tejido de secado rápido y logo HH en el pecho en el pecho'
 actualPrice: 40.9 EUR
 currency: EUR
 price: 40.9

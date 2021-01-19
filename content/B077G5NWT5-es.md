@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51umsmQDpLL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077G5NWT5-es'
+slug: 'B077G5NWT5-es gracosy Mujer Botas de Nieve Senderismo Zapatos Antideslizantes Trekking Zapatos Invierno Piel de Forro Sneakers Transpirables'
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31RfibcmZ4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P2LKKZB-es'
+slug: 'B07P2LKKZB-es GRACE KARIN Mujer Vestido Elegante Años 50 Vestido de Mujeres Rockabilly Clásico L CL011020-3'
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

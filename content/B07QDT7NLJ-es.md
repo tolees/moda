@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41E0lVSMvcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QDT7NLJ-es'
+slug: 'B07QDT7NLJ-es PUMA VCF Training Jersey Maillot  Hombre  White/Fizzy Orange  S'
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41MX7eL7hmL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R7P63ZG-es'
+slug: 'B07R7P63ZG-es SISMIURRA Ajustable Collar Mujer Grabado Plata de Ley 925 Colgante Mujer Joyería Regalo Cumpleaños Aniversario Dia de San Valentin'
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41jju86F+nL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CZHJ8RF-es'
+slug: 'B07CZHJ8RF-es Under Armour Sportstyle Camiseta sin Mangas con Logotipo  Ropa Deportiva para Hombres Hecha de Tejido ultrasuave  Ancha Camiseta de Tirantes  Steel Light Heather/Steel Light Heather/Black  036   LG'
 actualPrice: 19.5 EUR
 currency: EUR
 price: 19.5

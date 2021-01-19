@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416EN1dtT+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T8F5XGT-es'
+slug: 'B07T8F5XGT-es VOHONEY - Bolso mochila para mujer Negro Sac À Dos Femme pour Noir Pu 1'
 actualPrice: 13.9 EUR
 currency: EUR
 price: 13.9

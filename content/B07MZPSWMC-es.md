@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51N7vB0Xp2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZPSWMC-es'
+slug: 'B07MZPSWMC-es Pepe Jeans Nouvelle Sudadera   Grey Marl 933   9-10 años  Talla del Fabricante: 9/10 años  para Niñas'
 actualPrice: 14.22 EUR
 currency: EUR
 price: 14.22

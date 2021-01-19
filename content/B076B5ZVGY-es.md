@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41j4qc5bNwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076B5ZVGY-es'
+slug: 'B076B5ZVGY-es Havaianas Brasil Logo  Chanclas Unisex Adulto  Negro  35/36 EU'
 actualPrice: 13.21 EUR
 currency: EUR
 price: 13.21

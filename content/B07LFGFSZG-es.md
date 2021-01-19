@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/418teEbww6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFGFSZG-es'
+slug: 'B07LFGFSZG-es Levi s LS Original Hm tee Camiseta  Negro  Black 0009   Small para Hombre'
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

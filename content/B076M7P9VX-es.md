@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/3189aAfBetL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076M7P9VX-es'
+slug: 'B076M7P9VX-es Trangoworld Bern Chaqueta  Hombre  Negro  L'
 actualPrice: 78.08 EUR
 currency: EUR
 price: 78.08

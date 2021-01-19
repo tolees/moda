@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ybjDfR4jL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0066YJNIY-es'
+slug: 'B0066YJNIY-es Floso - Guantes de punto Thinsulate Invierno/Frio para hombre/caballero  3M 40gr   Talla Única   Negro '
 actualPrice: 6.2 EUR
 currency: EUR
 price: 6.2

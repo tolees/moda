@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41uj8EGFzvL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KW4T4XQ-es'
+slug: 'B07KW4T4XQ-es URAQT Vestido lady bug  Rojo M  C-UZ18112-0 '
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

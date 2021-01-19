@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41WtKI-VZAL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RCJTD4W-es'
+slug: 'B07RCJTD4W-es JACK & JONES Jorretrovibe tee SS Crew Neck Camiseta  Multicolor  Yolk Yellow Fit: Reg   X-Large para Hombre'
 actualPrice: 5.45 EUR
 currency: EUR
 price: 5.45

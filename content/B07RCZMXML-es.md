@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31GW7FlE7gL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RCZMXML-es'
+slug: 'B07RCZMXML-es Under Armour Fleece PO Men s Pullover Hoodie Sudadera con Capucha Ancha  Ropa Deportiva Transpirable y elástica para Hombre  Hombre  Gris  LG'
 actualPrice: 20.61 EUR
 currency: EUR
 price: 20.61

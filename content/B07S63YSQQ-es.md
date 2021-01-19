@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31gxt3wp+UL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S63YSQQ-es'
+slug: 'B07S63YSQQ-es Crocs Crocband Flip Women  Chanclas para Mujer  Blanco  White 100   34/35 EU'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

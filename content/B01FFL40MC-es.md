@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41StKrDYL-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01FFL40MC-es'
+slug: 'B01FFL40MC-es Under Armour Heatgear Armour 2.0 Comp Shorts Pantalón Corto  Hombre  Blanco  White/Graphite 100   M'
 actualPrice: 14.49 EUR
 currency: EUR
 price: 14.49

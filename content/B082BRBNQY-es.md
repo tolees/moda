@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31aJhaPJxRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082BRBNQY-es'
+slug: 'B082BRBNQY-es ARENA The One Gafas De Natación  Unisex Adulto  Clear/Black  Talla Única'
 actualPrice: 15.33 EUR
 currency: EUR
 price: 15.33

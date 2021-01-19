@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Z5zmMwnOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0764KV9CR-es'
+slug: 'B0764KV9CR-es Kipling ARTO  Bolso bandolera para Mujer  Marrón  True Beige   29x26x4 cm'
 actualPrice: 47.71 EUR
 currency: EUR
 price: 47.71

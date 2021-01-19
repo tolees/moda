@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41kzDUi7pfL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081CDXR2P-es'
+slug: 'B081CDXR2P-es Geographical Norway Chaqueta DE NIÑO BOKER Rojo 10'
 actualPrice: 59.0 EUR
 currency: EUR
 price: 59.0

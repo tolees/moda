@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41FWFOR2mIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0788BWQFH-es'
+slug: 'B0788BWQFH-es Tommy Hilfiger RN tee SS Camiseta  Azul  Navy Blazer 416   Large para Hombre'
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41F5+FMxXJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZQHDDK-es'
+slug: 'B07MZQHDDK-es Pepe Jeans Nanete Sudadera  Rosa  Cloudy Pink 308   Large para Mujer'
 actualPrice: 22.05 EUR
 currency: EUR
 price: 22.05

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ljaMmOhKL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T4RQDNC-es'
+slug: 'B07T4RQDNC-es Tikea Bolsa Geométrica de Corcho Natural para Mujer  Mochila Ecológica de Moda Deportiva  Ajustable  Efecto Madera  Elegante'
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413yiEtxLiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01FHT3WEO-es'
+slug: 'B01FHT3WEO-es MaxMuxun Sandalias de Vestir Clásica Básica con Tira Trasera Azul para Mujer Tamaña 37 EU'
 actualPrice: 24.5 EUR
 currency: EUR
 price: 24.5

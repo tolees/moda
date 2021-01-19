@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41aQuyY1Z5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VLZMMMC-es'
+slug: 'B07VLZMMMC-es Vero Moda Vmeva HR Loose Paperbag Check Pant Noos Pantalones  Gris  Dark Grey Melange Checks: Grey/Brown   42  Talla del Fabricante: Large  para Mujer'
 actualPrice: 15.72 EUR
 currency: EUR
 price: 15.72

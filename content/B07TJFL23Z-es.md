@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411mrNQQC9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TJFL23Z-es'
+slug: 'B07TJFL23Z-es Levi s HR Decon Iconic BF Skirt Falda  Azul  High Plains 0011   Talla Única  Talla del Fabricante: 27  para Mujer'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

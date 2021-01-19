@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41UCEBut0zL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MMLLJQS-es'
+slug: 'B07MMLLJQS-es Napapijri SOVES Camiseta  Rojo  Red Scarlet R01   XL para Hombre'
 actualPrice: 19.5 EUR
 currency: EUR
 price: 19.5

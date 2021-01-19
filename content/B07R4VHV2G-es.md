@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51HQKc-mV8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R4VHV2G-es'
+slug: 'B07R4VHV2G-es Helly Hansen Lifaloft Ligera Chaqueta Aislante  Mujer  Alert Red  2XL'
 actualPrice: 103.64 EUR
 currency: EUR
 price: 103.64

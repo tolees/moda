@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31l0X+vVD3L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06ZYN4Z9H-es'
+slug: 'B06ZYN4Z9H-es Prada 67Ts  Gafas de Sol Unisex Adulto  Negro  Black   63'
 actualPrice: 69.8 EUR
 currency: EUR
 price: 69.8

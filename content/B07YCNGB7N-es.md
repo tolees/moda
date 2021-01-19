@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31WXevJQVzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YCNGB7N-es'
+slug: 'B07YCNGB7N-es Levi s Kids Lvg Ss Batwing Tee Camiseta Niñas'
 actualPrice: 14.35 EUR
 currency: EUR
 price: 14.35

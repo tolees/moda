@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31c7sUR3IRL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SBB6TSS-es'
+slug: 'B07SBB6TSS-es Crocs Crocband  Zuecos Unisex Adulto  Rosa  Blossom/White 6ph   36/37 EU'
 actualPrice: 33.59 EUR
 currency: EUR
 price: 33.59

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/414RBck+gpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0711CZHNV-es'
+slug: 'B0711CZHNV-es Marca Amazon - find. Camiseta Estampada de Mickey Mouse para Hombre  Schwarz  Black   M  Label: M'
 actualPrice: 4.89 EUR
 currency: EUR
 price: 4.89

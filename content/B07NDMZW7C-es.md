@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41AIqHEBGwL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NDMZW7C-es'
+slug: 'B07NDMZW7C-es G-STAR RAW Joosa V-Neck Camiseta  Rojo  Port Red 4608   40  Talla del Fabricante: Medium  para Mujer'
 actualPrice: 12.98 EUR
 currency: EUR
 price: 12.98

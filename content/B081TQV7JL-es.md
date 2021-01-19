@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31IaI-or4hL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081TQV7JL-es'
+slug: 'B081TQV7JL-es adidas Fef TR JSY Camiseta de Manga Corta  Hombre  Dash Green  L'
 actualPrice: 19.39 EUR
 currency: EUR
 price: 19.39

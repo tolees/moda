@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413Qq28ogcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0825NV5YD-es'
+slug: 'B0825NV5YD-es Quiksilver Drift Away - Camiseta para Hombre Screen tee  Hombre  Majolica Blue  XL'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

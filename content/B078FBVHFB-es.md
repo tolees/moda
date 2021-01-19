@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/413amMHadmL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B078FBVHFB-es'
+slug: 'B078FBVHFB-es find. 62909 vaqueros mujer  Negro  Black   W31/L32  Talla del Fabricante: 40/42 '
 actualPrice: 11.1 EUR
 currency: EUR
 price: 11.1

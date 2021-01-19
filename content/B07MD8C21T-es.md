@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41IwEhZOX+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MD8C21T-es'
+slug: 'B07MD8C21T-es UCB Benetton Ondas Bolsa deporte Bolso de viaje'
 actualPrice: 27.9 EUR
 currency: EUR
 price: 27.9

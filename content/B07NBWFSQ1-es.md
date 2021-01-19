@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413Ktx5l4xL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NBWFSQ1-es'
+slug: 'B07NBWFSQ1-es BOSS Boxer Brief 2p Solid  Verde  Open Green 342   Large  Pack de 2 para Hombre'
 actualPrice: 13.37 EUR
 currency: EUR
 price: 13.37

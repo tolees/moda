@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41evAL-cyTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07STKZKXT-es'
+slug: 'B07STKZKXT-es Geox Rishon Bebé  Deportivas Niño Transpirantes con Diseño de Inspiración Running. para Bebés  Verde Verde  21 EU'
 actualPrice: 35.82 EUR
 currency: EUR
 price: 35.82

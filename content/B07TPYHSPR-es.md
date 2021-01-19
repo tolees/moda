@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ixCzZQZlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TPYHSPR-es'
+slug: 'B07TPYHSPR-es Clarks Willow Gild  Sandalias de Talón Abierto para Mujer  Gris  Grey Snake Grey Snake   39 EU'
 actualPrice: 13.97 EUR
 currency: EUR
 price: 13.97

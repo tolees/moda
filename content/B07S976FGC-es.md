@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31-w746VzqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S976FGC-es'
+slug: 'B07S976FGC-es Crocs Swiftwater Sandal Women  Sandalias de Punta Descubierta para Mujer  Naranja  Grapefruit/White 82q   34/35 EU'
 actualPrice: 16.8 EUR
 currency: EUR
 price: 16.8

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41AuI+zJzxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZQJSGJ-es'
+slug: 'B07MZQJSGJ-es Pepe Jeans Nastia Sudadera   Verdant 683   Medium para Mujer'
 actualPrice: 38.0 EUR
 currency: EUR
 price: 38.0

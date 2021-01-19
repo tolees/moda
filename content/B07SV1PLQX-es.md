@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/414gFa6mlrL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SV1PLQX-es'
+slug: 'B07SV1PLQX-es JACK & JONES PREMIUM Jprlogo Twist Shirt L/s STS Camisa  Verde  Darkest Spruce Slim Fit   XX-Large para Hombre'
 actualPrice: 9.79 EUR
 currency: EUR
 price: 9.79

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41b2xfBbTTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SVPMB3P-es'
+slug: 'B07SVPMB3P-es Geox U Nebula C  Zapatillas para Hombre  Beige  Sand C5004   40 EU'
 actualPrice: 56.5 EUR
 currency: EUR
 price: 56.5

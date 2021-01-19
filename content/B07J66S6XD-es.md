@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41t7pomr04L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J66S6XD-es'
+slug: 'B07J66S6XD-es Lee Extreme Motion Straight Vaqueros  Azul  Maddox PU   32W / 32L para Hombre'
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

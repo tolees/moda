@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41YpitEgF1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D4FDPW7-es'
+slug: 'B07D4FDPW7-es Skechers MELBO Journeyman 2  Sandalias con Punta Cerrada para Hombre  Negro Black BBK  39 EU'
 actualPrice: 15.8 EUR
 currency: EUR
 price: 15.8

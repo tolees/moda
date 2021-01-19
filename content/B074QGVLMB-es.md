@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31FCyCUmhpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074QGVLMB-es'
+slug: 'B074QGVLMB-es Uvex Sportstyle 706 Gafas Deportivas  Unisex Adulto  Negro  Talla Única'
 actualPrice: 18.08 EUR
 currency: EUR
 price: 18.08

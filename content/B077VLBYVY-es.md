@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41SDC23LeUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077VLBYVY-es'
+slug: 'B077VLBYVY-es Levi s 502 Regular Taper Vaqueros  Azul  Franklin LTWT Warp 0120   33W / 32L para Hombre'
 actualPrice: 49.9 EUR
 currency: EUR
 price: 49.9

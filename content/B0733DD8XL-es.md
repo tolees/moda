@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41P4wSCkwBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0733DD8XL-es'
+slug: 'B0733DD8XL-es Marca Amazon - find. Sudadera de Tacto Suave para Hombre  Azul  Moonlight Blue   M  Label: M'
 actualPrice: 7.12 EUR
 currency: EUR
 price: 7.12

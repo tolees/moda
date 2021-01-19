@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/413uucksQlL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MSKJ62X-es'
+slug: 'B07MSKJ62X-es Clarks Arla Free  Zapatos de Cordones Derby para Hombre  Azul  Navy Navy   42.5 EU'
 actualPrice: 47.9 EUR
 currency: EUR
 price: 47.9

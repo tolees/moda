@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51rVPZ7ukNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082NYXJ5W-es'
+slug: 'B082NYXJ5W-es Oihxse Transparente Silicona Case Compatible con Xiaomi Mi 6 Funda Suave TPU Protección Carcasa Moda Dibujos Animados Divertida Diseño Ultra-Delgado Cubierta-Hojas'
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

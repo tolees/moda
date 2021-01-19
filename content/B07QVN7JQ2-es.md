@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/318NeNH793L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QVN7JQ2-es'
+slug: 'B07QVN7JQ2-es Under Armour Challenger III Midlayer  Camiseta de Hombre para Hacer Deporte  indispensable Ropa de Deportes Hombre  Negro  Black/White  001    XL'
 actualPrice: 14.37 EUR
 currency: EUR
 price: 14.37

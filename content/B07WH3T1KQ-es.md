@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51UmuM8utyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WH3T1KQ-es'
+slug: 'B07WH3T1KQ-es Marca Amazon - find. Mujer Vestido Midi Cruzado de Flores  Multicolor  Pink Floral   38  Label: S'
 actualPrice: 5.51 EUR
 currency: EUR
 price: 5.51

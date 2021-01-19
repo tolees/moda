@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31cbGrZxuoL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KGGTT5X-es'
+slug: 'B07KGGTT5X-es BOSS Citravel_2 Blusa  Azul  Bright Blue 439   40  Talla del Fabricante: 38  para Mujer'
 actualPrice: 40.45 EUR
 currency: EUR
 price: 40.45

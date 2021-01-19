@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31k8B48RfyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0014C2PZG-es'
+slug: 'B0014C2PZG-es Crocs Classic Z  Zuecos con Correa Trasera Unisex Adulto  Azul  Navy   46/47 EU'
 actualPrice: 25.49 EUR
 currency: EUR
 price: 25.49

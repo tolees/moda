@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41FWOF7qQxL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T9F2B4T-es'
+slug: 'B07T9F2B4T-es Quiksilver Get Buzzy Camiseta De Manga Larga  Niños  Blanco  White/Garnet   XL/16'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31bw-2TvdrL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01GDFMYVI-es'
+slug: 'B01GDFMYVI-es retroUV UV400 – Gafas de sol de diseño clásico Multicolor negro'
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412wYyid9wL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TLSVPGD-es'
+slug: 'B07TLSVPGD-es Clarks Lexi Carmen  Sandalias de Talón Abierto para Mujer  Blanco  White Leather White Leather   39 EU'
 actualPrice: 37.01 EUR
 currency: EUR
 price: 37.01

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41TercADnyL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0831PVM8C-es'
+slug: 'B0831PVM8C-es Canadian Peak Sudadera NIÑO Galapagos Gris Melange 12'
 actualPrice: 27.3 EUR
 currency: EUR
 price: 27.3

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51yTeGSXZDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XDL8F97-es'
+slug: 'B07XDL8F97-es LIGE Relojes para Hombre Acero Inoxidable Deportivos Cuarzo Cuarzo Analógico Reloj de Pulsera Moda Impermeables Hombres  Full Blue '
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

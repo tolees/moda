@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416Acn66f2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01FI0VC58-es'
+slug: 'B01FI0VC58-es Birkenstock Arizona EVA  Sandalias de Punta Descubierta para Mujer  Plateado  Metallic Anthracite Metallic Anthracite   38 EU'
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41cJJY7IH+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FQVCKYG-es'
+slug: 'B07FQVCKYG-es Clarks Batcombe Hall Derby - Zapatos de Cordones  para Hombre  Marrón  Tan Leather   41 EU'
 actualPrice: 44.3 EUR
 currency: EUR
 price: 44.3

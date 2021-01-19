@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41mXxHxJfaL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01GTF06PS-es'
+slug: 'B01GTF06PS-es Lupa con Luz Led - Rightwell Gafas Lupa de Aumento con Luz para Modelismo Reparaciones Coser Soldadura Eliminar Piojos Pegar Piezas Pequeñas Joyería y Relojería - 5 Lentes Intercambiables 1X-3.5X'
 actualPrice: 17.97 EUR
 currency: EUR
 price: 17.97

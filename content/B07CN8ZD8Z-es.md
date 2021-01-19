@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31SJycOPLFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CN8ZD8Z-es'
+slug: 'B07CN8ZD8Z-es Crocs Crocband Flip  Chanclas Unisex-Adult  Green  Army Green/White 37p   36/37 EU'
 actualPrice: 17.49 EUR
 currency: EUR
 price: 17.49

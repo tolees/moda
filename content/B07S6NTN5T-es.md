@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31lQ30oASgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S6NTN5T-es'
+slug: 'B07S6NTN5T-es PUMA Popcat 20  Sandalias deslizantes para Hombre  Blanco White Black  42 EU'
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

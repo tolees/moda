@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41qzuq8nfXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M7TK8HK-es'
+slug: 'B01M7TK8HK-es Funda para bolso  estuche portatil Leorx  superficie para Mac de 33 centímetros MacBook Air/Pro/Retina  negro '
 actualPrice: 9.34 EUR
 currency: EUR
 price: 9.34

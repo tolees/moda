@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31E6jj6vF7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HXLD5PJ-es'
+slug: 'B07HXLD5PJ-es New Look Poplin  Camisa para Hombre  Azul  Light Blue  Medium  Talla del Fabricante: 52 '
 actualPrice: 11.24 EUR
 currency: EUR
 price: 11.24

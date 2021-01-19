@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41hxLnzNjnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TXDRLPB-es'
+slug: 'B07TXDRLPB-es Levi s Housemark Graphic tee Camiseta  Azul  Hm Ssnl Tonal Riverside 0275   XX-Large para Hombre'
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

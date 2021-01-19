@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41xr+7quJ0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078WJSFLH-es'
+slug: 'B078WJSFLH-es Levi s Graphic Camiseta  Blanco  84 Sportswear Logo White 0000   X-Small para Hombre'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

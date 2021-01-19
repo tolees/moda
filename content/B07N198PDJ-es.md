@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31PftI-7zsL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N198PDJ-es'
+slug: 'B07N198PDJ-es G-STAR RAW 5620 3D Vaqueros Slim  Azul  Dry Waxed Cobler 8968/A887   32W / 32L para Hombre'
 actualPrice: 49.5 EUR
 currency: EUR
 price: 49.5

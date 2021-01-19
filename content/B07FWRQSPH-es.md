@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41CTCLh9GQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FWRQSPH-es'
+slug: 'B07FWRQSPH-es DaoRier - Cadena Tobillera para Mujer  diseño de pie descalzado  Cadena de Playa  Sandalias  Tobillo  Plata  Talla 21 + 5 cm'
 actualPrice: 1.11 EUR
 currency: EUR
 price: 1.11

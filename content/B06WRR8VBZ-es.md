@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41533N0bNOL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B06WRR8VBZ-es'
+slug: 'B06WRR8VBZ-es Gant Stretch Oxford-Solid Shirt Blusa  Rosa  Light Pink 662   44  Talla del Fabricante: 42  para Mujer'
 actualPrice: 57.1 EUR
 currency: EUR
 price: 57.1

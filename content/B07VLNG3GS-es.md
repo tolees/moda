@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41xihVxGcrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VLNG3GS-es'
+slug: 'B07VLNG3GS-es Bolso de Mano con Bandolera Pepe Jeans Strike'
 actualPrice: 25.5 EUR
 currency: EUR
 price: 25.5

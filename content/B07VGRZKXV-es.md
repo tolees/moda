@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41uYPtzypzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VGRZKXV-es'
+slug: 'B07VGRZKXV-es JACK & JONES Jprsander Detail Shirt L/s Pre Camisa  Azul  Cashmere Blue Fit: Slim Fit   X-Large para Hombre'
 actualPrice: 20.83 EUR
 currency: EUR
 price: 20.83

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31GHCfOC-SL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L3Y89CM-es'
+slug: 'B07L3Y89CM-es Marca Amazon - AURIQUE Mallas de Entrenamiento Mujer  Azul  Dress Blue   36  Label:XS'
 actualPrice: 14.67 EUR
 currency: EUR
 price: 14.67

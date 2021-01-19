@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41EGiYveeML._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L4C5B6C-es'
+slug: 'B07L4C5B6C-es Tamaris 1-1-22426-23  Zapatos con Plataforma para Mujer  Negro  Black Patent 18   37 EU'
 actualPrice: 22.45 EUR
 currency: EUR
 price: 22.45

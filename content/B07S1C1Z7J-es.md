@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41K6YwtVcEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S1C1Z7J-es'
+slug: 'B07S1C1Z7J-es Levi s Vneck Camiseta  Azul  Annalise Stripe Cloud Dancer 0004   Large para Mujer'
 actualPrice: 12.21 EUR
 currency: EUR
 price: 12.21

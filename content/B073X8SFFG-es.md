@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413gjNGSDaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073X8SFFG-es'
+slug: 'B073X8SFFG-es Timberland Larchmont Chelsea Waterproof  Botas Hombre  Marrón  Dark Brown Full Grain   47.5 EU'
 actualPrice: 60.78 EUR
 currency: EUR
 price: 60.78

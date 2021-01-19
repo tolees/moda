@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/414vPZeWnIL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R6TWYQN-es'
+slug: 'B07R6TWYQN-es Columbia Pike Lake Chaqueta  Mujer  Rojo  Red Lily   M'
 actualPrice: 43.59 EUR
 currency: EUR
 price: 43.59

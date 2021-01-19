@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31HF+s5vecL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CQPWRVB-es'
+slug: 'B07CQPWRVB-es Wrangler Arizona Straight Jeans Vaqueros  Black Valley  30W / 34L para Hombre'
 actualPrice: 19.39 EUR
 currency: EUR
 price: 19.39

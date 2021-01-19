@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41OqHH2cCkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XVC2YVT-es'
+slug: 'B07XVC2YVT-es Geographical Norway Sudadera Mujer GYMCLASS B Azul Marino XL'
 actualPrice: 27.3 EUR
 currency: EUR
 price: 27.3

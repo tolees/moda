@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51R1mIeK7lL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B081YWQVFZ-es'
+slug: 'B081YWQVFZ-es Guantes de Invierno Calientes Impermeable Prueba del Viento Guantes Pantalla Táctil Guantes Deportivos para Hombre y Mujer Guantes Invierno Antideslizante para Running Ciclismo Acampada Senderismo（XL-1'
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

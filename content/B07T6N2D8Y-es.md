@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31NFhETEqYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T6N2D8Y-es'
+slug: 'B07T6N2D8Y-es Timberland Classic 2 Eye  Náuticos para Hombre  Beige Light Taupe Nubuck  43 EU'
 actualPrice: 68.95 EUR
 currency: EUR
 price: 68.95

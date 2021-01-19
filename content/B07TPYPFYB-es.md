@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31I-4EJo29L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TPYPFYB-es'
+slug: 'B07TPYPFYB-es Clarks Step Juneshell  Sandalias Punta Cerrada para Mujer  Beige  Black Black   35.5 EU'
 actualPrice: 26.52 EUR
 currency: EUR
 price: 26.52

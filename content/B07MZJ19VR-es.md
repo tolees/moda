@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/311rz9sedyL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZJ19VR-es'
+slug: 'B07MZJ19VR-es Superdry Surplus Goods Box FIT tee Camiseta  Negro  Washed Black AFB   XS para Hombre'
 actualPrice: 10.28 EUR
 currency: EUR
 price: 10.28

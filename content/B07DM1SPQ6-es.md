@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Bw5cM8igL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DM1SPQ6-es'
+slug: 'B07DM1SPQ6-es Samsonite Openroad - 3 Way Bag Expandable for 15.6" Laptop 21/27L 1.5 KG Bolso bandolera  43 cm  21 liters  Negro  Jet Black '
 actualPrice: 155.46 EUR
 currency: EUR
 price: 155.46

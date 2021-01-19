@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31fmrIS3ZHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZV374ZV-es'
+slug: 'B07ZV374ZV-es Helly Hansen Rider Vest Chaleco de Ayuda a la flotabilidad  Unisex Adulto  Evening Blue  30/40 KG'
 actualPrice: 34.49 EUR
 currency: EUR
 price: 34.49

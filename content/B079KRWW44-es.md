@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41S%2BIFdyQeL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B079KRWW44-es'
+slug: 'B079KRWW44-es SIMYJOY Pareja Loro Dorado Pullover Loro Dorado Sudaderas Savage Sudadera para Hombres Mujeres Adolescentes Negro S'
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41xmRkEhalL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082Y2GYPJ-es'
+slug: 'B082Y2GYPJ-es Siux Camiseta Dry Rojo Negro'
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

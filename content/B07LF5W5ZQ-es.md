@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31+LLHcGwLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LF5W5ZQ-es'
+slug: 'B07LF5W5ZQ-es Levi s 2pk Crewneck Graphic Camiseta  Multicolor  2 Pack Hm White/Mid Tone Grey Heather 0001   X-Small para Hombre'
 actualPrice: 22.08 EUR
 currency: EUR
 price: 22.08

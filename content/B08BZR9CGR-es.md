@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41xKBfRa7dL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BZR9CGR-es'
+slug: 'B08BZR9CGR-es Summer Baby Kids Cómodo y suave mono corto de manga corta con estampado de letras Cuello redondo Camiseta con cuello redondo Baby Boys - Negro Gris - 100cm'
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

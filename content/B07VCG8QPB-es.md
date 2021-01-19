@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31QRBxPvGFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VCG8QPB-es'
+slug: 'B07VCG8QPB-es Marca Amazon - find. Stitch Cardigan - chaqueta punto Mujer  Azul  Soft Blue   46  Label: XXL'
 actualPrice: 10.37 EUR
 currency: EUR
 price: 10.37

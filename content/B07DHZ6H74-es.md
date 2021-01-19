@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41dLfV2QaeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DHZ6H74-es'
+slug: 'B07DHZ6H74-es Geox D Sandal Vega A  Sandalias con Punta Abierta para Mujer  Lt Gold C2012  35 EU'
 actualPrice: 52.94 EUR
 currency: EUR
 price: 52.94

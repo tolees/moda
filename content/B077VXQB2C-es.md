@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31SBtSHFB4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077VXQB2C-es'
+slug: 'B077VXQB2C-es Zoggs Ultima Air Titanium Gafas de natación  Unisex-Adult  Negro/Gris/Titanio  Talla única'
 actualPrice: 22.56 EUR
 currency: EUR
 price: 22.56

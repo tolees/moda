@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41FR3aQdbZL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NJFWMZX-es'
+slug: 'B07NJFWMZX-es Springfield 4.1.Gym.Skinny Cropped Ro Vaqueros Straight  Negro  Negro 1   34  Tamaño del Fabricante: 34  para Mujer'
 actualPrice: 13.84 EUR
 currency: EUR
 price: 13.84

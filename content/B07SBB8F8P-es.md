@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41e7cwtWiaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SBB8F8P-es'
+slug: 'B07SBB8F8P-es Crocs Monterey Diamante Wedge Flip  Chanclas para Mujer  Azul  Navy 410   34/35 EU'
 actualPrice: 30.6 EUR
 currency: EUR
 price: 30.6

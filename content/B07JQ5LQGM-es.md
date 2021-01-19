@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31cKYXB8+tL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JQ5LQGM-es'
+slug: 'B07JQ5LQGM-es Levi s 724 High Rise Straight Vaqueros  Negro  Black Sheen 0006   W25/L30  Talla del Fabricante: 25 30  para Mujer'
 actualPrice: 61.99 EUR
 currency: EUR
 price: 61.99

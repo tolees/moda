@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41V23CjTmsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KHTO118-es'
+slug: 'B00KHTO118-es Under Armour UA Heatgear Long Sleeve Camiseta De Manga Larga  Hombre  Azul  Royal/Steel 400   M'
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

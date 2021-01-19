@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4127UguttEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06WGWB5XT-es'
+slug: 'B06WGWB5XT-es Tommy Hilfiger Bikini con Inserción de Malla Braguitas con Cintura Elástica  Azul  Navy Blazer 416   36  Talla del Fabricante: SM  para Mujer'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

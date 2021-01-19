@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ApQp4xFOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VJ3F89V-es'
+slug: 'B07VJ3F89V-es Calvin Klein Foundation Slim Denim Jacket Chaqueta Vaquera  Azul  Da110 Light Blue 1aa   Small para Hombre'
 actualPrice: 64.28 EUR
 currency: EUR
 price: 64.28

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41z75t5xdVL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y5CQ6PN-es'
+slug: 'B07Y5CQ6PN-es Deevike Pantuflas Zapatillas Mujer Invierno CáLido Zapatos Memory Foam Antideslizante Zapatillas de Estar por Casa Azul 38/39 EU'
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41zKiQqenhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H9BDH18-es'
+slug: 'B07H9BDH18-es Charles Wilson Camisa Manga Larga Popelina Lisa para Hombre  Large  Dark Port '
 actualPrice: 18.95 EUR
 currency: EUR
 price: 18.95

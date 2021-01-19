@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31sqYKNBWEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M9YF3ZG-es'
+slug: 'B07M9YF3ZG-es Lacoste Th8602 Camiseta  Azul  Marine 166   Small  Talla del Fabricante: 3  para Hombre'
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

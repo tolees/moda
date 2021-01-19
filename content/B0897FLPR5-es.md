@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31yOs5r3N6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0897FLPR5-es'
+slug: 'B0897FLPR5-es ELEEMEE Mujer Simple Tacón Bajo Sandalias Square Toe Correa de Tobillo Sandalias Solid Vestido Zapatos Green Size 37 Asiática'
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

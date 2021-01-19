@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31KSUlI%2B2zL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B0792JMMLB-es'
+slug: 'B0792JMMLB-es Geox U NORWOLK B  Botas Chukka para Hombre  Negro  Black C9999   43 EU'
 actualPrice: 64.95 EUR
 currency: EUR
 price: 64.95

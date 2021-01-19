@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413rj0d2ltL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DQZ96TV-es'
+slug: 'B07DQZ96TV-es adidas Varilite Soft J Chaqueta de Deporte  Hombre  Carbon  XL'
 actualPrice: 78.99 EUR
 currency: EUR
 price: 78.99

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31uczkB98yL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00SF8JDJI-es'
+slug: 'B00SF8JDJI-es G-STAR RAW Lynn Mid Waist Skinny  Vaqueros  Medium Aged 6131  27W / 30L para Mujer'
 actualPrice: 60 EUR
 currency: EUR
 price: 60

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41GzPtdWXLL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075ZMSB9J-es'
+slug: 'B075ZMSB9J-es Zapatero Sable de 10 niveles  almacenamiento para 50 pares de zapatos  organizador de zapatos alto con niveles de tela impermeable  175 x 100 x 27 cm.'
 actualPrice: 23.4 EUR
 currency: EUR
 price: 23.4

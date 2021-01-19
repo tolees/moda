@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41uFVyTQXtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RZ2D9JG-es'
+slug: 'B07RZ2D9JG-es BILLABONG TRD Mrk LS tee Camiseta  Hombre  Azul  Dark Blue 709   One Size  Tamaño del Fabricante: XS '
 actualPrice: 12.5 EUR
 currency: EUR
 price: 12.5

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-Q+GEHGhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F344WZN-es'
+slug: 'B07F344WZN-es Helly Hansen HP Racing Midlayer Lifaloft Cuello Forro Polar Marina Deportes Navegación Chaqueta Impermeable  Mujer  Cherry Tomato  XS'
 actualPrice: 66.75 EUR
 currency: EUR
 price: 66.75

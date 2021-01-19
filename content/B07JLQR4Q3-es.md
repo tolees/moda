@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/310DLI9CJOL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JLQR4Q3-es'
+slug: 'B07JLQR4Q3-es Lee Scarlett Vaqueros  Clean Wheaton In  31W / 29L para Mujer'
 actualPrice: 60.99 EUR
 currency: EUR
 price: 60.99

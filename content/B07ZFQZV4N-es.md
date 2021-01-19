@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41r-EHPhUvL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZFQZV4N-es'
+slug: 'B07ZFQZV4N-es NICE WIN Guantes Esqui  Guantes Invierno Hombre Hombres y Mujeres  Negro  M '
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

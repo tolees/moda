@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41BtyjkBZpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X4SJ3SL-es'
+slug: 'B07X4SJ3SL-es Pepe Jeans Gen Vaqueros Straight  Azul  000Denim 000   W24/L34  Talla del Fabricante: 24  para Mujer'
 actualPrice: 46.49 EUR
 currency: EUR
 price: 46.49

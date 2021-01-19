@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41JEdw7CMsL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q738FXX-es'
+slug: 'B07Q738FXX-es NNJXD Vestido de Unicornio para niñas Fiesta de Apliques de Flores Cosplay Disfraz de Halloween + Gorros Tamaño  110  3-4 años Azul'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

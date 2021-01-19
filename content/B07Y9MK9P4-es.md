@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51TJrSoLBXL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y9MK9P4-es'
+slug: 'B07Y9MK9P4-es Juego de Destornilladores  Destornilladores de Precisión Kit  115 en 1 Magnético Kit de Herramientas de Profesional para Reparar Teléfonos Celulares  Reloj  Gafas  refrigerador  Ordenador ect'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

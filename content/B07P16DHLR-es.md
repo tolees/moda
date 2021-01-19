@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31vf1Fr0yGL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P16DHLR-es'
+slug: 'B07P16DHLR-es Superdry Vintage Logo Racer tee Camiseta  Rojo  Rouge Red Wa7   Large para Hombre'
 actualPrice: 10.06 EUR
 currency: EUR
 price: 10.06

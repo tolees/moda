@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41EFdbJK-5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0759Q5GJP-es'
+slug: 'B0759Q5GJP-es Clarks Vennor Walk  Zapatos de Cordones Derby para Hombre  Negro  Black Leather-   45 EU'
 actualPrice: 50.16 EUR
 currency: EUR
 price: 50.16

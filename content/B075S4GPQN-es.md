@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31YUjcfoNJL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B075S4GPQN-es'
+slug: 'B075S4GPQN-es MERAKI Sudadera con Capucha y Cremallera Mujer  Gris  Grey   X-Large'
 actualPrice: 16.18 EUR
 currency: EUR
 price: 16.18

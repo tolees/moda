@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Jcf0AIJBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01GY0WMYQ-es'
+slug: 'B01GY0WMYQ-es Mercedes-Benz Sonnenbrille M7001 Gafas de sol  Marrón  Braun   54.0 para Hombre'
 actualPrice: 21.85 EUR
 currency: EUR
 price: 21.85

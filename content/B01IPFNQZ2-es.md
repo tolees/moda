@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41TNmyuUxaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IPFNQZ2-es'
+slug: 'B01IPFNQZ2-es Helly Hansen Crew Chaqueta deportiva  Hombre  Azul  Azul Navy   X-Large  Tamaño del fabricante:XL '
 actualPrice: 91.98 EUR
 currency: EUR
 price: 91.98

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31bDIw1F+BL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MFM3J86-es'
+slug: 'B07MFM3J86-es Clarks Atticus Cap  Zapatos de Cordones Derby para Hombre  Marrón Tan Leather  44 EU'
 actualPrice: 31.72 EUR
 currency: EUR
 price: 31.72

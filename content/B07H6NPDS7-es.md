@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41H+ngUW2zL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H6NPDS7-es'
+slug: 'B07H6NPDS7-es Lee Scarlett High Zip Vaqueros Skinny  Azul  Blue Aged Yz   31W / 33L para Mujer'
 actualPrice: 35.26 EUR
 currency: EUR
 price: 35.26

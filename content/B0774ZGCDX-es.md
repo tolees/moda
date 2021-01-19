@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41jrxlTfmyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0774ZGCDX-es'
+slug: 'B0774ZGCDX-es Crocs Yukon Vista Clog M  Zuecos para Hombre  Marrón  Espresso/Espresso 22z   43/44 EU'
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

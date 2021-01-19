@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31KthZ3GafL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B012A3I7RM-es'
+slug: 'B012A3I7RM-es Geox D Nebula a  Zapatillas para Mujer  Negro  BLACKC9999   39 EU'
 actualPrice: 64.0 EUR
 currency: EUR
 price: 64.0

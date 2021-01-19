@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31iraLNRGfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B3PMQYT-es'
+slug: 'B07B3PMQYT-es Puma Liga Sideline Jh Chaqueta de Entrenamiento con Cremallera  Hombre  Negro Black White  3XL'
 actualPrice: 17.81 EUR
 currency: EUR
 price: 17.81

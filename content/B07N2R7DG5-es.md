@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51gHPj0GhhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N2R7DG5-es'
+slug: 'B07N2R7DG5-es Talbot Torro Set de Badminton 2 Attacker Junior para Niños  2 Raquetas Más Cortas 53 cm  2 Volantes  en un Valioso Bolso  449401'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

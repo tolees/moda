@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31IH1n8yu+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N1JLK69-es'
+slug: 'B07N1JLK69-es Clarks Un Damson Mid  Botines para Mujer  Marrón Brown Leather  41 EU'
 actualPrice: 24.01 EUR
 currency: EUR
 price: 24.01

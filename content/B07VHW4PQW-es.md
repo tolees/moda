@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41DsATYywXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VHW4PQW-es'
+slug: 'B07VHW4PQW-es Desigual Logo Patch Zurich  Bolso de Patchwork en Logomanía para Mujer  Beige  Beige   9x14.5x28.5 cm  B x H x T '
 actualPrice: 17.9 EUR
 currency: EUR
 price: 17.9

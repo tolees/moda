@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41fzsPe2PAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VCKLYHS-es'
+slug: 'B07VCKLYHS-es Desigual Bols ada Rotterdam - Bolso bandolera para mujer  15 x 30 x 31 cm   color rojo'
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

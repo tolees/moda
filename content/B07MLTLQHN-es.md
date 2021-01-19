@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41F-V-WEghL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MLTLQHN-es'
+slug: 'B07MLTLQHN-es Geox D Kaula B ABX C  Botas de Nieve para Mujer  Marrón  Tobacco C6777   38 EU'
 actualPrice: 33.62 EUR
 currency: EUR
 price: 33.62

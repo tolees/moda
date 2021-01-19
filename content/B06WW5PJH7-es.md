@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31Bshj%2Bov8L._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B06WW5PJH7-es'
+slug: 'B06WW5PJH7-es Sloggi Men 24/7 Microfibre H Hipster C2p  Boxer Hombre  Negro  Noir  Large  Talla del Fabricante: EU 6 / FR 4   Pack de 2'
 actualPrice: 16.73 EUR
 currency: EUR
 price: 16.73

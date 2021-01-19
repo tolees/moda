@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31kSIxf+sRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PPXV8BP-es'
+slug: 'B07PPXV8BP-es Under Armour UA Seamless SS  Camiseta de Manga Corta para Hombre  Camiseta para Correr Hombre  Blanco  White/Black  100    2XL'
 actualPrice: 25.0 EUR
 currency: EUR
 price: 25.0

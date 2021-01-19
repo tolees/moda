@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41LPJDmlQ+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V4RZW2K-es'
+slug: 'B07V4RZW2K-es Camiseta de Baloncesto NBA Chicago Bulls para Hombre Michael Jordan # 23 Retro Basketball Swingman Jersey  Rojo  S '
 actualPrice: 10.75 EUR
 currency: EUR
 price: 10.75

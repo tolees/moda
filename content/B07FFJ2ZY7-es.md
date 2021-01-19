@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-MCtMW-IL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FFJ2ZY7-es'
+slug: 'B07FFJ2ZY7-es Roxy Essential Element Chaqueta  Mujer  Verde  Burnt Olive GPZ0   Medium  Tamaño del Fabricante:M '
 actualPrice: 36.67 EUR
 currency: EUR
 price: 36.67

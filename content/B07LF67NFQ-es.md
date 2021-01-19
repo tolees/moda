@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/418FfDBeIjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LF67NFQ-es'
+slug: 'B07LF67NFQ-es Levi s 514 Vaqueros Straight  Azul  Apple Overt Adapt 1238   W33/L34  Talla del Fabricante: 33 34  para Hombre'
 actualPrice: 78.57 EUR
 currency: EUR
 price: 78.57

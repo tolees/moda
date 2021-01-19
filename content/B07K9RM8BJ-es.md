@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/311EPP4bQ1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K9RM8BJ-es'
+slug: 'B07K9RM8BJ-es Crocs Serena Slide Women  Sandalias de Punta Descubierta para Mujer  Rojo  Burgundy 605   34/35 EU'
 actualPrice: 7.54 EUR
 currency: EUR
 price: 7.54

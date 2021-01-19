@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31-KauOXVKL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GDC4NDW-es'
+slug: 'B07GDC4NDW-es Nike Dri-FIT Academy Dril Top Camiseta de Manga Larga  Hombre  Azul  Obsidian/White/White   M'
 actualPrice: 27.95 EUR
 currency: EUR
 price: 27.95

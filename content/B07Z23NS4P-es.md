@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31a2we+XMVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z23NS4P-es'
+slug: 'B07Z23NS4P-es Vans Spicoli Flat Shades Gafas de Sol  Negro  Black/Silver Mirror   50.0 para Hombre'
 actualPrice: 12.07 EUR
 currency: EUR
 price: 12.07

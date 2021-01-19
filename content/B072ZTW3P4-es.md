@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416r2tDl80L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072ZTW3P4-es'
+slug: 'B072ZTW3P4-es Champion Classic Logo Camiseta  Ecru  M para Hombre'
 actualPrice: 13.93 EUR
 currency: EUR
 price: 13.93

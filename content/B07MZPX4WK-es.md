@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51PNgSFcu9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZPX4WK-es'
+slug: 'B07MZPX4WK-es Pepe Jeans Catrina Blusa   Multi 0aa   Medium para Mujer'
 actualPrice: 26.18 EUR
 currency: EUR
 price: 26.18

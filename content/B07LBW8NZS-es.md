@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41LpHzQbR3L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LBW8NZS-es'
+slug: 'B07LBW8NZS-es Calvin Klein Fixed Triangle-rp Top de Bikini  Negro  Pvh Black 094   S para Mujer'
 actualPrice: 24.65 EUR
 currency: EUR
 price: 24.65

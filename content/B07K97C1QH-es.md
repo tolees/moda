@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31R4tCOO4oL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K97C1QH-es'
+slug: 'B07K97C1QH-es Crocs Crocband  Zuecos Unisex Adulto  Rosa  Pink Lemonade/White 62p   42/43 EU'
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

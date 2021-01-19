@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412oDvACaUL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0060KENS4-es'
+slug: 'B0060KENS4-es Smiffy s 28385  Chaqueta de Mujer para Grease  Rosa  S  8 - 10 UK '
 actualPrice: 14.74 EUR
 currency: EUR
 price: 14.74

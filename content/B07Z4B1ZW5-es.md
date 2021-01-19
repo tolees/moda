@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31EadOyETLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z4B1ZW5-es'
+slug: 'B07Z4B1ZW5-es G-STAR RAW Tacoma Long Sleeve Shirt Straight Vestido  Rinsed A785/082  X-Large para Mujer'
 actualPrice: 69.97 EUR
 currency: EUR
 price: 69.97

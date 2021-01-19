@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41w-TL1ediL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0776ZBC5Z-es'
+slug: 'B0776ZBC5Z-es Ho soccer 0505576.02 Pantalón Corto sin Acolchado  Hombre  Negro  S'
 actualPrice: 7.49 EUR
 currency: EUR
 price: 7.49

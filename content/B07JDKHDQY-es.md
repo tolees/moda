@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41iuYApMneL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JDKHDQY-es'
+slug: 'B07JDKHDQY-es Levi s Barstow Western Camisa Vaquera  Azul  Red Cast Rinse 0115   XX-Small para Hombre'
 actualPrice: 10.4 EUR
 currency: EUR
 price: 10.4

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/5100XDwLxBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087WRLPTD-es'
+slug: 'B087WRLPTD-es WERNNSAI Azul Tiburón Bolsas de Regalos - 12 Pcs Bolsas de Fiesta Con Cordón Bolsa Oceano Tema Suministros para la Fiesta para Chicos Cumpleaños Bolsas de Abrigo Lavable Bolsa de Regalo de Fiesta'
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

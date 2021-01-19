@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51sOJVEFriL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083BR2PF4-es'
+slug: 'B083BR2PF4-es Collar Antiladridos Para Perros - Collar Anti-Ladridos Sonido/Vibración/Sensibilidad  Collar Ajustable Para Perros Pequeños  Medianos y Grandes  Viene con 2 Collares de Nylon Luminosos Intercambiables'
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

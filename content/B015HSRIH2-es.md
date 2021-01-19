@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41nzyf6ERjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B015HSRIH2-es'
+slug: 'B015HSRIH2-es ESPRIT 2tone Strk Blz - Chaqueta de traje Hombre  Dark Grey  50'
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

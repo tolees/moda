@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41cXjjh2YKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079PHXVLG-es'
+slug: 'B079PHXVLG-es Only Onlnicole S/s Mix Top Noos Camiseta  Blanco  Cloud Dancer Cloud Dancer   X-Large para Mujer'
 actualPrice: 13.59 EUR
 currency: EUR
 price: 13.59

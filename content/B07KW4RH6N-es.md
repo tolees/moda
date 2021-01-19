@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41c6bV0cYCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KW4RH6N-es'
+slug: 'B07KW4RH6N-es AOQUSSQOA Abdomen de Las Mujeres Tankini Traje de baño de Gran tamaño patrón Falda del Cuerpo Que Forma Traje de baño  EU 38-40  XL   A '
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

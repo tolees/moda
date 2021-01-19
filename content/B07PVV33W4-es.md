@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31h1b6WyT+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PVV33W4-es'
+slug: 'B07PVV33W4-es Maglev Essentials Damen T-Shirt Mit V-Ausschnitt  5er-Pack Camiseta  Negro Schwarz   40  Talla del fabricante: Medium   5'
 actualPrice: 5.77 EUR
 currency: EUR
 price: 5.77

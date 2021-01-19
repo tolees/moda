@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31OOKVbTGUL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KF4SPMK-es'
+slug: 'B07KF4SPMK-es Levi s 510 Skinny Fit  Vaqueros para Hombre  Azul  Ivy Adv 0941   W31/L32'
 actualPrice: 80.99 EUR
 currency: EUR
 price: 80.99

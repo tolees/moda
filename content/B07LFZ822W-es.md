@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417jZNSQFQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFZ822W-es'
+slug: 'B07LFZ822W-es Geox J INEK Boy C  Zapatillas para Niños  Negro  Black/Orange C0038   24 EU'
 actualPrice: 45.5 EUR
 currency: EUR
 price: 45.5

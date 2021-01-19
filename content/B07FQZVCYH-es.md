@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/314XAr8QR2L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FQZVCYH-es'
+slug: 'B07FQZVCYH-es Ternua Corno Pants Pantalón  Hombre  Negro  Black   M'
 actualPrice: 63.11 EUR
 currency: EUR
 price: 63.11

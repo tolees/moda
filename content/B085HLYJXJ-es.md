@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Z+nsapqUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085HLYJXJ-es'
+slug: 'B085HLYJXJ-es Mishansha Transpirables Zapatillas Running para Niños Hook Loop Conveniente Ligero Walking Zapatos de Fitness 2020 Primavera Escuela Cómoda Niño Niña Sneaker Interior Exterior  Correr Azul 28'
 actualPrice: 22.64 EUR
 currency: EUR
 price: 22.64

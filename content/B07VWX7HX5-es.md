@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41sb1UPmE4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VWX7HX5-es'
+slug: 'B07VWX7HX5-es Pepe Jeans Edison Camiseta  Verde  Middle Green 631   Small para Hombre'
 actualPrice: 7.97 EUR
 currency: EUR
 price: 7.97

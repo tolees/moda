@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51QbuKvySGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073TT6Z3C-es'
+slug: 'B073TT6Z3C-es Aroncent Pulsera de Cuero Trenzado Brazalete Decorado de Picas Póker Collar con Colgantes de Baraja de Cartas de Acero Inoxidable Juego de Joyería de Cuerpo para Hombre – 2PCS'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

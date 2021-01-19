@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/415gNKo92VL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PNS16SH-es'
+slug: 'B07PNS16SH-es Under Armour Challenger III Knit Short  Pantalones Cortos para Entrenar  pantalón Short de Hombre para Correr Hombre  Azul  Academy/Halo Gray/Halo Gray  408    M'
 actualPrice: 12.11 EUR
 currency: EUR
 price: 12.11

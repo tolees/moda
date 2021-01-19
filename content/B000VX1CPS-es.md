@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41vgg32oPKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000VX1CPS-es'
+slug: 'B000VX1CPS-es Timberland 6-Inch Premium Boot  Botas para Hombre  Amarillo  Wheat Nubuck   46 EU'
 actualPrice: 122.35 EUR
 currency: EUR
 price: 122.35

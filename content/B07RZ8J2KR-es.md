@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/312gG5V8pLL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RZ8J2KR-es'
+slug: 'B07RZ8J2KR-es Levi s Vneck Camiseta  Azul  Sea Captain Blue 0005   Small para Mujer'
 actualPrice: 12.5 EUR
 currency: EUR
 price: 12.5

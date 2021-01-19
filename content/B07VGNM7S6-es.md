@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41fQnqOlr0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VGNM7S6-es'
+slug: 'B07VGNM7S6-es Marca Amazon - find. Stitch Cardigan - chaqueta punto Mujer  Gris  Soft Grey   40  Label: M'
 actualPrice: 12.76 EUR
 currency: EUR
 price: 12.76

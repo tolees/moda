@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41b5mMlpzWL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KQYG1GP-es'
+slug: 'B07KQYG1GP-es SALOMON Drifter Mid Jkt M Chaqueta Reversible  Hombre  Negro  2XL'
 actualPrice: 48.36 EUR
 currency: EUR
 price: 48.36

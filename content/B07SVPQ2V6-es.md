@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/414EUpH9eVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SVPQ2V6-es'
+slug: 'B07SVPQ2V6-es Geox U Renan B  Zapatillas para Hombre  Azul  Navy C4064   46 EU'
 actualPrice: 55.96 EUR
 currency: EUR
 price: 55.96

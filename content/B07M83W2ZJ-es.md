@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31cmeUdPBML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M83W2ZJ-es'
+slug: 'B07M83W2ZJ-es Napapijri Rainforest Pocket Chaqueta  Verde  Hunter Green 2 GD8   L para Hombre'
 actualPrice: 77.08 EUR
 currency: EUR
 price: 77.08

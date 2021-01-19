@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4105fjc3RNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JH341JC-es'
+slug: 'B07JH341JC-es Pepe Jeans Agnes Pl504151 Camiseta   Chambray 564   X-Small para Mujer'
 actualPrice: 21.0 EUR
 currency: EUR
 price: 21.0

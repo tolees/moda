@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41O-56fp9cL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LF8N99M-es'
+slug: 'B07LF8N99M-es Levi s 502 Regular Taper Vaqueros  Azul  Cedar Od Flat ADV Tnl 0515   30W / 34L para Hombre'
 actualPrice: 19.13 EUR
 currency: EUR
 price: 19.13

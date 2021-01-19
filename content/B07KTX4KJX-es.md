@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51QQV0c9ljL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KTX4KJX-es'
+slug: 'B07KTX4KJX-es adidas Lin Core Org Bolso  Unisex Adulto  Multicolor  azuaut/azuaut/Blanco   Talla Única'
 actualPrice: 8.95 EUR
 currency: EUR
 price: 8.95

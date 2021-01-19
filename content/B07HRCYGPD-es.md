@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ORTFgbFsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HRCYGPD-es'
+slug: 'B07HRCYGPD-es Marca Amazon - find. Short Sleeve Flannel Shirt Hombre  Rojo  Red/Black   XS  Label: XS'
 actualPrice: 7.46 EUR
 currency: EUR
 price: 7.46

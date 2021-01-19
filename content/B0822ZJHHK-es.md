@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31g4ObyXZ6L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0822ZJHHK-es'
+slug: 'B0822ZJHHK-es Charles Wilson Pantalón de Deportes con Puño Pantalón Deportivo Polar  Medium  Deep Navy  1119  '
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41QcDVvivwL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B075NH1NK5-es'
+slug: 'B075NH1NK5-es Tom Tailor Denim Chambray Baloon Sleeve Blouse  Blusa Mujer  Azul  Blau 1001   34  Talla del Fabricante: X-Small '
 actualPrice: 8 EUR
 currency: EUR
 price: 8

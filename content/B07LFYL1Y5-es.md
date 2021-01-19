@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21VQBbseVtL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFYL1Y5-es'
+slug: 'B07LFYL1Y5-es Geox D Hiver E  Zapatillas para Mujer  Marfil  Off White C1002   40 EU'
 actualPrice: 59.95 EUR
 currency: EUR
 price: 59.95

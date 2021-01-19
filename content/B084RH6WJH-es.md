@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31s13Ovh2VL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084RH6WJH-es'
+slug: 'B084RH6WJH-es 2 piezas portátil coche auto suspensión asiento monedero bolsa organizador soporte gancho reposacabezas sujetador y clip para coche envío gratis - beige'
 actualPrice: 1.33 EUR
 currency: EUR
 price: 1.33

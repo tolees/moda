@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31A+MlM763L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003LKLN02-es'
+slug: 'B003LKLN02-es Kempa Pantalón Aspire Web  Todo el año  Unisex  Color Negro/Blanco  tamaño XXS'
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

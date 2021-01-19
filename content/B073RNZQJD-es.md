@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/419Qc2X4ofL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073RNZQJD-es'
+slug: 'B073RNZQJD-es Helly Hansen Logo Hoodie Sudadera con Capucha  Hombre  Gris  2XL'
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

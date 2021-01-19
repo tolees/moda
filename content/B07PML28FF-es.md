@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41l3VKt3drL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PML28FF-es'
+slug: 'B07PML28FF-es MTNG Mauri  Bolso Mochila para Mujer  Negro  Antel/Liso Neg   14x31x26 cm  W x H x L '
 actualPrice: 17.42 EUR
 currency: EUR
 price: 17.42

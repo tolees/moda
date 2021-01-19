@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31nz+cwSBaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074PKJZMQ-es'
+slug: 'B074PKJZMQ-es TYRY.HU dentición collar para mamá para usar silicona juguetes de dentición de silicona de grado alimenticio libre de BPA goma de mascar para amamantar lactancia hecha a mano  verde menta '
 actualPrice: 10.98 EUR
 currency: EUR
 price: 10.98

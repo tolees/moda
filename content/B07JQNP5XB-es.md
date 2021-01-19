@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41lA9jGP0cL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JQNP5XB-es'
+slug: 'B07JQNP5XB-es Amazon Essentials - Chaqueta deportiva con media cremallera para niña  Agua  Aqua   US XS  EU 104-110 CM '
 actualPrice: 6.17 EUR
 currency: EUR
 price: 6.17

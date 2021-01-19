@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41jbNJG2hgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W1VNPH5-es'
+slug: 'B07W1VNPH5-es Tommy Hilfiger Windbreaker J Chaqueta Cortavientos con Capucha y Cierre de Cremallera  Rojo  Deep Crimson Xnl   L para Hombre'
 actualPrice: 39.27 EUR
 currency: EUR
 price: 39.27

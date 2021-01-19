@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/418Xqz8Ij9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NW53J7Q-es'
+slug: 'B07NW53J7Q-es Skechers Keepsakes 2.0-Broken Arrow  Botines para Mujer  Morado  Mauve Suede MVE   36 EU'
 actualPrice: 38.45 EUR
 currency: EUR
 price: 38.45

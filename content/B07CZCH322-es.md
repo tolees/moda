@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4175iIGHzRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CZCH322-es'
+slug: 'B07CZCH322-es Under Armour UA Qualifier Camiseta  Hombre  Amarillo  High-Vis Yellow/High-Vis Yellow/Reflective 731   XL'
 actualPrice: 21.74 EUR
 currency: EUR
 price: 21.74

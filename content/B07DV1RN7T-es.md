@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31yWrpAcI0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DV1RN7T-es'
+slug: 'B07DV1RN7T-es Lacoste Croco Slide 119 1 737cma0018092  Sandalias de Punta Descubierta para Hombre  Azul  Nvy/Wht 092   42 EU'
 actualPrice: 28.95 EUR
 currency: EUR
 price: 28.95

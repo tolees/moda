@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31lo2utNQFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N1JWJD9-es'
+slug: 'B07N1JWJD9-es Clarks Un Venturehi  Botines para Mujer  Negro  Black Combi Black Combi   37 EU'
 actualPrice: 105.0 EUR
 currency: EUR
 price: 105.0

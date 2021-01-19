@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41p2qLwzdwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NDCJ1YC-es'
+slug: 'B07NDCJ1YC-es Desigual Wallet Rep Comunika Mini Zi  Monedero para Mujer  Negro  NEGRO 2000   2 x 9 x 15 cm  B x H x T '
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

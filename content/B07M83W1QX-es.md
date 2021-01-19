@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41fuicL-ltL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M83W1QX-es'
+slug: 'B07M83W1QX-es Napapijri Rainforest Pocket Chaqueta  Azul  French Blue BB7   XXL para Hombre'
 actualPrice: 99.81 EUR
 currency: EUR
 price: 99.81

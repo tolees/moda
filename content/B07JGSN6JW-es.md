@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Ubituc2nL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JGSN6JW-es'
+slug: 'B07JGSN6JW-es Pepe Jeans Kai Pm402100 Chaqueta   Sailor 580   X-Large para Hombre'
 actualPrice: 81.0 EUR
 currency: EUR
 price: 81.0

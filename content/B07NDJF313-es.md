@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412dghMLqIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NDJF313-es'
+slug: 'B07NDJF313-es Geographical Norway Parka DE Hombre BANTOU Caqui L'
 actualPrice: 69.3 EUR
 currency: EUR
 price: 69.3

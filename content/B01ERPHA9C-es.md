@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31dKE3SuNbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01ERPHA9C-es'
+slug: 'B01ERPHA9C-es Joma SHT.S0M01 - Falda de tenis para mujer  color Verde  Green Fluor   talla Small'
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

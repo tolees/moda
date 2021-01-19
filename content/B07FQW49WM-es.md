@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31gX4LKHEPL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FQW49WM-es'
+slug: 'B07FQW49WM-es Clarks Edward Plain  Zapatos de Cordones Derby para Hombre  Negro  Black Leather-   42 EU'
 actualPrice: 35.46 EUR
 currency: EUR
 price: 35.46

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41oV9XtBpQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0788CGDN8-es'
+slug: 'B0788CGDN8-es Tommy Hilfiger Track Top LS HWK Sudadera  Gris  Grey Heather 004   Small para Hombre'
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

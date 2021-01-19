@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51DlEPOEy8L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T6TQLL2-es'
+slug: 'B07T6TQLL2-es Tikea Bolsa Geométrica Luminosa Holográfica para Mujer  Bolso Busta con Correa de Cadena de Moda en Cuero Sintético  Clutch Efecto Reflectante'
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

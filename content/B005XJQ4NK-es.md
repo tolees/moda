@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/410yfAKscdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005XJQ4NK-es'
+slug: 'B005XJQ4NK-es Eastpak Rusher Bolso bandolera  23 cm  Negro  Black '
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

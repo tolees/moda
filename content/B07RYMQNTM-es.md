@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41x+FBVk4rL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RYMQNTM-es'
+slug: 'B07RYMQNTM-es Levi s 511 Slim Fit Jeans Pantalón vaquero elástico y con corte estilizado  East Lake Adv 4106  28W/30L para Hombre'
 actualPrice: 79.95 EUR
 currency: EUR
 price: 79.95

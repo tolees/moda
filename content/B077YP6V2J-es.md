@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4148Lr8cflL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077YP6V2J-es'
+slug: 'B077YP6V2J-es HIKARO Sudadera Logo Hombre  Verde  Khaki   48  Talla del fabricante: Small '
 actualPrice: 16.66 EUR
 currency: EUR
 price: 16.66

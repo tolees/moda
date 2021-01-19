@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41YzjyRNZGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TLP3BYX-es'
+slug: 'B07TLP3BYX-es Clarks Atticus Lace  Zapatos de Cordones Derby para Hombre  Beige  Sage Nubuck Sage Nubuck   43 EU'
 actualPrice: 30.05 EUR
 currency: EUR
 price: 30.05

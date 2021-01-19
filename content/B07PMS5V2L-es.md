@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31NUqYRBTAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PMS5V2L-es'
+slug: 'B07PMS5V2L-es BOSS Maine BC-p Vaqueros Straight  Azul  Navy 410   33W / 36L para Hombre'
 actualPrice: 63.21 EUR
 currency: EUR
 price: 63.21

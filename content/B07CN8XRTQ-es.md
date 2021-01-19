@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411WlTx3BxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CN8XRTQ-es'
+slug: 'B07CN8XRTQ-es Crocs Crocband U  Zuecos Unisex Adulto  Azul  Blue Jean-Pool 4io   45-46 EU'
 actualPrice: 31.5 EUR
 currency: EUR
 price: 31.5

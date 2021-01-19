@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41FyU3OFDsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088R5P3WL-es'
+slug: 'B088R5P3WL-es WERNNSAI Cesto para Guardar de Dinosaurios - 40 × 33 × 45cm Cesto para la Ropa de Lona Plegables Guardería Cestas de Regalo para Niños Juguetes Ropa Zapatos Organizador del Hogar'
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

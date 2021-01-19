@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41vg+BxdIrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WLSZVBR-es'
+slug: 'B07WLSZVBR-es Jack & Jones Jornewshakedown Block Sweat Zip Hood Chaqueta Deportiva  Azul  Light Grey Melange Fit: Reg   S para Hombre'
 actualPrice: 9.58 EUR
 currency: EUR
 price: 9.58

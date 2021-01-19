@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41fYms8%2B9CL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B078ZG4M5H-es'
+slug: 'B078ZG4M5H-es SIMYJOY Unisex Regalo de San Valentín Blackpink Sudadera con Capucha KPOP Pullover Hip Hop Sudadera para Hombres Mujeres Adolescentes'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

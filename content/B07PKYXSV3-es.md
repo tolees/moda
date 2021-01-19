@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Xr1Tl3amL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PKYXSV3-es'
+slug: 'B07PKYXSV3-es New Balance 574v2  Zapatilla Baja de Deporte para Hombre  Azul  Blue   36 EU'
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31CBUh+COCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L9JC88Q-es'
+slug: 'B07L9JC88Q-es Under Armour Graphic Script Logo Fashion SSC Camisa Manga Corta  Mujer  Azul  MD'
 actualPrice: 10.78 EUR
 currency: EUR
 price: 10.78

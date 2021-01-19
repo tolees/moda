@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Z77kP9gHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SVYX7TQ-es'
+slug: 'B07SVYX7TQ-es Quiksilver Molokai Hold Down  Zapatos de Playa y Piscina para Hombre  Azul  Black/Blue/Black Xkbk   42 EU'
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

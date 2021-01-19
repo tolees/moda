@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41iMBf3VGKL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PW8YKS8-es'
+slug: 'B07PW8YKS8-es Duevin Bolso de la Motocicleta de la Mujer Mate PU portátil de Gran Capacidad Borla Bolso de Estilo Europeo y Americano Rose Rot '
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

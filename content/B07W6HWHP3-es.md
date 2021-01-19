@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41NjWW3MK3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W6HWHP3-es'
+slug: 'B07W6HWHP3-es Tom Tailor Doppelpack Basic T-Shirt Camiseta  Azul  Real Navy Blue 10360   M  Pack de 2  para Hombre'
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/416ST56mYUL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HF5QRBL-es'
+slug: 'B07HF5QRBL-es Bolso Mujer Pequeño Bolso Bandolera Mujer Pequeño Piel Sintético Bolso Portatil Mujer Bolsa de Mensajero（Marrón）'
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

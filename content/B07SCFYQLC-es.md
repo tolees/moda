@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41jdxfg93tL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SCFYQLC-es'
+slug: 'B07SCFYQLC-es Crocs Literide Flip  Chanclas Unisex Adulto  Azul Ice Blue Almost White 4kp  46/47 EU'
 actualPrice: 27.43 EUR
 currency: EUR
 price: 27.43

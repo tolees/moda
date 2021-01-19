@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41QcfCduBaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XACVLSK-es'
+slug: 'B00XACVLSK-es Scholl  Desodorante Pies Fresh Step anti-transpirante  elimina el olor y mantiene tus zapatos frescos  spray  150 ml'
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41P5murMpJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JZJ655V-es'
+slug: 'B07JZJ655V-es Tommy Hilfiger U Light Down Jacket Chaqueta  Verde  Olive Night 399   86 para Bebés'
 actualPrice: 35.81 EUR
 currency: EUR
 price: 35.81

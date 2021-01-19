@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41GDshNWObL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FYT3Q3Z-es'
+slug: 'B07FYT3Q3Z-es Wrangler Straight Vaqueros para Mujer  Azul  Yucca Valley 21X   29W / 32L'
 actualPrice: 27.86 EUR
 currency: EUR
 price: 27.86

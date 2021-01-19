@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41+odZx0nHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X3PWT81-es'
+slug: 'B07X3PWT81-es Pepe Jeans Victoria Vaqueros Ajustados  Azul  000denim 000   W27/L32  Talla del Fabricante: 27  para Mujer'
 actualPrice: 24.77 EUR
 currency: EUR
 price: 24.77

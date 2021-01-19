@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/413LhgWihyL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0719DGBFY-es'
+slug: 'B0719DGBFY-es find. Camiseta Estampada para Hombre  Negro  Charcoal   Small'
 actualPrice: 4.5 EUR
 currency: EUR
 price: 4.5

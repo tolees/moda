@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41JSHqPc9NL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073ZK8DK1-es'
+slug: 'B073ZK8DK1-es Napapijri Rainforest Winter  Chaqueta para Hombre  Azul  Blu Marine 176   X-Small'
 actualPrice: 120.49 EUR
 currency: EUR
 price: 120.49

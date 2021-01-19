@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41pK4CRtv+L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HCY7VR3-es'
+slug: 'B07HCY7VR3-es X-TIGER Vellón Térmico Invierno MTB Ciclismo Guantes con pantalla táctil para hombre con todos los dedos a prueba de viento e impermeable  M  CN = S  EU  '
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

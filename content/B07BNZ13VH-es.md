@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41BwZYMOLaL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BNZ13VH-es'
+slug: 'B07BNZ13VH-es Columbia Ruckel Ridge Chukka WP Omni-Heat  Zapatos de Senderismo para Hombre  Negro  Black  Dark Grey 010   42 EU'
 actualPrice: 71.89 EUR
 currency: EUR
 price: 71.89

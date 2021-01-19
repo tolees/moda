@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41Dyrl8z-SL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M8W5K8C-es'
+slug: 'B07M8W5K8C-es Wrangler Graphic Logo tee Camiseta  Negro  Black 100   Medium para Hombre'
 actualPrice: 10.33 EUR
 currency: EUR
 price: 10.33

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31kDV-mVI5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PMT38LY-es'
+slug: 'B07PMT38LY-es CARE OF by PUMA Sudadera con capucha  forro y cremallera de manga larga para hombre  dark grey  M  Label: M'
 actualPrice: 23.62 EUR
 currency: EUR
 price: 23.62

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31v7NULUYFL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B079ML5KCD-es'
+slug: 'B079ML5KCD-es MERAKI Camiseta Slim Fit de Manga Corta con Cuello de Pico Hombre  Rojo  Dark Red   Small'
 actualPrice: 3.6 EUR
 currency: EUR
 price: 3.6

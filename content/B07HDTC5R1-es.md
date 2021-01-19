@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31CENk5q0eL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HDTC5R1-es'
+slug: 'B07HDTC5R1-es Nike Precision III  Zapatos de Baloncesto Unisex Adulto  Negro  Black/White 002   40.5 EU'
 actualPrice: 55.96 EUR
 currency: EUR
 price: 55.96

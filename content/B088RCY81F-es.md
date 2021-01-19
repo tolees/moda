@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51nZ7M3BKWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088RCY81F-es'
+slug: 'B088RCY81F-es Guantes Tácticos 1 PZ Guante Bicicleta Montaña Verano Antideslizantes Guantes Ciclismo MTB Transpirables Guantes de Bicicleta de Carretera de Medio-Dedo para Hombres Mujeres  Deportes al Aire Libre'
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

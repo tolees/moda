@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51pwNM2AnVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B010M9WZIS-es'
+slug: 'B010M9WZIS-es Timberland Euro Sprint Hiker  Botas para Hombre  Amarillo Wheat  43.5 EU'
 actualPrice: 95.99 EUR
 currency: EUR
 price: 95.99

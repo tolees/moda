@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41QJjGtOa8L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N36DZSA-es'
+slug: 'B01N36DZSA-es Wrangler Texas Contrast Vaqueros  Azul  Vintage Tint   44W / 32L para Hombre'
 actualPrice: 71.95 EUR
 currency: EUR
 price: 71.95

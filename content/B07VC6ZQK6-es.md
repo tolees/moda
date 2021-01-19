@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41BWmdNGpNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VC6ZQK6-es'
+slug: 'B07VC6ZQK6-es NJunicorn Uncle Borderlands Cosplay - Sudadera con capucha para hombre  impresión 3D 03 S'
 actualPrice: 28.42 EUR
 currency: EUR
 price: 28.42

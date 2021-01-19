@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31xOxtJ1bqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L3KR4N8-es'
+slug: 'B07L3KR4N8-es Vestido Vintage para Muejeres Mangas 3/4 Cuello V de Fiesta Cóctel Rockabilly Clásico 2XL CL010823-1'
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

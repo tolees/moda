@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41fW8f44rML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G7QZM75-es'
+slug: 'B07G7QZM75-es DINOKA Riñonera de Gran Capacidad Cintura Fanny Pack Mujer Hombre Niños para Pasaporte Cargador Gafas de Sol  Crema Protectora Paraguas Bolso de Cintura Viajar Hípica Golf  Negro '
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Xk7ERszgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01C9XI26Y-es'
+slug: 'B01C9XI26Y-es Joopin Gafas de Sol Mujer Moda Polarizadas Protección UV400 de Gran Tamaño Gafas de Sol Señoras U9045  Negro '
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

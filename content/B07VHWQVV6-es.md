@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41TJETrcLzL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VHWQVV6-es'
+slug: 'B07VHWQVV6-es Esprit 099EE1K016s Camiseta de Manga Larga  Azul  Navy 2 401   XXL para Mujer'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

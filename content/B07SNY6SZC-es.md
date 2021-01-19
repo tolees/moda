@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41D70kRIpgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SNY6SZC-es'
+slug: 'B07SNY6SZC-es Levi s Orig Hm Vneck Camiseta  Azul  Dress Blues 0002   Large para Hombre'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

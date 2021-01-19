@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41DFZKDEqGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RZ2BQ5W-es'
+slug: 'B07RZ2BQ5W-es BILLABONG Laguna Beach Sudadera  Mujer  Verde  Wasabi 4447   One Size  Tamaño del Fabricante: S '
 actualPrice: 11.62 EUR
 currency: EUR
 price: 11.62

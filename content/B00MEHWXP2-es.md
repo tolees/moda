@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41jU6Yh-FhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00MEHWXP2-es'
+slug: 'B00MEHWXP2-es Marvel Capitan America - Camiseta para Hombre - Talla XL'
 actualPrice: 12.95 EUR
 currency: EUR
 price: 12.95

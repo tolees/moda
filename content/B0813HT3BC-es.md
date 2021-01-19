@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41fFrUG+sGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0813HT3BC-es'
+slug: 'B0813HT3BC-es Marca Amazon - Find. Sandalias abiertas Barely There para mujer  color Naranja  talla 36 EU'
 actualPrice: 23.07 EUR
 currency: EUR
 price: 23.07

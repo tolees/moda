@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31uVuGVWxNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CSU1DHS-es'
+slug: 'B01CSU1DHS-es Joma Campus II Camiseta de Juego Manga Corta  Hombre  Celeste  2XL-3XL'
 actualPrice: 9.98 EUR
 currency: EUR
 price: 9.98

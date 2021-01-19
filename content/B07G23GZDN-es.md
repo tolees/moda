@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41hgdo9oA0L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G23GZDN-es'
+slug: 'B07G23GZDN-es Litthing Sujetador Invisible Slim fit sin Anillo de Acero Chaleco para Mujer la combinación de Ropa Interior Femenina  Blanco Negro Color de Piel  M '
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41LWGHKtN9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00MMDRFWO-es'
+slug: 'B00MMDRFWO-es The North Face Sudadera Drew Peak  Hombre  TNF Black/TNF White  XS'
 actualPrice: 44.5 EUR
 currency: EUR
 price: 44.5

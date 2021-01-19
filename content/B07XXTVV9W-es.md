@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31UDperCeaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XXTVV9W-es'
+slug: 'B07XXTVV9W-es CHICTRY Chaqueta de Princesa Fiesta Boda Danza para Niña Elegante Cárdigan Abrigo Bolero Invierno Otoño Bebé Niña  12 Meses-8 años  Blanco 12-18 Meses'
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

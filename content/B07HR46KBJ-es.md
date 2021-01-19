@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41pSl20C+nL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HR46KBJ-es'
+slug: 'B07HR46KBJ-es Jack & Jones Jjiglenn Jjicon JJ 357 50sps Noos Vaqueros Slim  Azul  Blue Denim Blue Denim   W33/L36 para Hombre'
 actualPrice: 36.9 EUR
 currency: EUR
 price: 36.9

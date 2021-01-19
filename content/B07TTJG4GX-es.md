@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41twa7-pWxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TTJG4GX-es'
+slug: 'B07TTJG4GX-es Skechers Reggae Cup-oh  Snap  Sandalias de Punta Descubierta para Mujer  Negro  Black & Grey Gore Black   36 EU'
 actualPrice: 32.65 EUR
 currency: EUR
 price: 32.65

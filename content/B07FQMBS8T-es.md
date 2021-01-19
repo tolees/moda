@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41zs5-xYfbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FQMBS8T-es'
+slug: 'B07FQMBS8T-es Clarks Grandin Plain  Zapatos de Cordones Derby para Hombre  Marrón  Dark Brown Tumbled-   43 EU'
 actualPrice: 55.95 EUR
 currency: EUR
 price: 55.95

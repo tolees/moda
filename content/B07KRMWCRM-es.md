@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31+ze9fBslL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KRMWCRM-es'
+slug: 'B07KRMWCRM-es Columbia Silver Ridge 2.0  Pantalón Capri de Senderismo Nailon  Mujer  Negro  Talla US: W6/L21/  EU W38/L21 '
 actualPrice: 6.34 EUR
 currency: EUR
 price: 6.34

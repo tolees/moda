@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31VBGgsWx1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P2H2K9H-es'
+slug: 'B07P2H2K9H-es Art Bergen  Botines para Mujer  Verde  Kaki Kaki   37 EU'
 actualPrice: 26.88 EUR
 currency: EUR
 price: 26.88

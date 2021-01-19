@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31TH5ZXKPAL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000FI9R3I-es'
+slug: 'B000FI9R3I-es Pierre Cardin P.C. 8443/S IR 807 Gafas de Sol  Mujer  Negro  Black/Grey Blue   54'
 actualPrice: 5.04 EUR
 currency: EUR
 price: 5.04

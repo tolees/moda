@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/419-iP37dGL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HO30K7I-es'
+slug: 'B01HO30K7I-es Dickies Sacramento Camisa  Gris  Grey Melange Gym   X-Large  Tamaño del Fabricante:XLrge  para Hombre'
 actualPrice: 36.82 EUR
 currency: EUR
 price: 36.82

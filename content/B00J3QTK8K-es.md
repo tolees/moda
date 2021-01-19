@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41d8J%2B7vf0L._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B00J3QTK8K-es'
+slug: 'B00J3QTK8K-es uhlsport Match Classic De Mujer Chaqueta De Entrenamiento  Azul Marino/Blanco  XL'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

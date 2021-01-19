@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41elO-tSRuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DK465YV-es'
+slug: 'B07DK465YV-es Geox Tapuz Bebe  Sandalia Niño Transpirantes para Bebés  Azul  Navy/White C4211   18 EU'
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

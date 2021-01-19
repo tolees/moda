@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41YktZsVcTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WMFWSKZ-es'
+slug: 'B07WMFWSKZ-es Bragas Mujer sin Costuras Invisible Señoras Braguitas Low Rise Suave Ligera Bikini Braguitas  Pack de 6 Multicolor XS'
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

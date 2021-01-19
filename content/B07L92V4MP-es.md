@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31l-ieDkXkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L92V4MP-es'
+slug: 'B07L92V4MP-es Mujer Vestido Lápiz de Oficina Elegante Mangas Cortas S CL010867-1'
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

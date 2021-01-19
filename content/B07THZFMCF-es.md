@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/318LXz8w-YL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07THZFMCF-es'
+slug: 'B07THZFMCF-es Ermenegildo Zegna Sonnenbrille EZ0028-FN Gafas de sol  Marrón  Braun   56.0 para Hombre'
 actualPrice: 21.16 EUR
 currency: EUR
 price: 21.16

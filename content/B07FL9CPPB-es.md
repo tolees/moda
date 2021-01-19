@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31IcbUSgI6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FL9CPPB-es'
+slug: 'B07FL9CPPB-es Superdry Echo Beach Cagoule Chaqueta deportiva  Negro  Black 02a   X-Large para Hombre'
 actualPrice: 21.76 EUR
 currency: EUR
 price: 21.76

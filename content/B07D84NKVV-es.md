@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411K13EQ+dL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D84NKVV-es'
+slug: 'B07D84NKVV-es Dickies Belspring Chaqueta  Marrón  Small  Talla del Fabricante:  para Hombre'
 actualPrice: 25.26 EUR
 currency: EUR
 price: 25.26

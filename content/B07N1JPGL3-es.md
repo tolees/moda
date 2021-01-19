@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31SBsJVK2LL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N1JPGL3-es'
+slug: 'B07N1JPGL3-es Clarks Orabella Alice  Botines para Mujer  Marrón  Burgundy Patent Burgundy Patent   42 EU'
 actualPrice: 30.63 EUR
 currency: EUR
 price: 30.63

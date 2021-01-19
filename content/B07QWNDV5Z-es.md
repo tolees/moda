@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31mtSsTfSrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QWNDV5Z-es'
+slug: 'B07QWNDV5Z-es Under Armour Challenger III Training Pantalón  Hombre  Azul  LG'
 actualPrice: 29.88 EUR
 currency: EUR
 price: 29.88

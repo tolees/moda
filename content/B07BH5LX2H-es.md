@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/218V0o929XL._SL500_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BH5LX2H-es'
+slug: 'B07BH5LX2H-es Star Wars T030-10 Bóxer  Multicolor  Multicolor 0   12 años  Tamaño del Fabricante:10/12   para Niños'
 actualPrice: 11.9 EUR
 currency: EUR
 price: 11.9

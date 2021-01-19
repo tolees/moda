@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41tvdnbaUbL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07885MBXL-es'
+slug: 'B07885MBXL-es Salomon PROPELLER DRY W Guantes para mujer'
 actualPrice: 24.55 EUR
 currency: EUR
 price: 24.55

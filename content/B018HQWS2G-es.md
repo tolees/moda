@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ZTRwQLK-L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B018HQWS2G-es'
+slug: 'B018HQWS2G-es Salomon AGILE WARM GLOVE U Guantes unisex'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

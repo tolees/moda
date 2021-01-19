@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41N91oeELzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JQ53LTV-es'
+slug: 'B07JQ53LTV-es Cressi Aqua Shoes Zapatos Deportivo para Uso Acuático  Unisex Adulto  Verde/Azul  44'
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

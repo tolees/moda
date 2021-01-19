@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/419Qc2X4ofL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073RPGCJZ-es'
+slug: 'B073RPGCJZ-es Helly Hansen Logo Hoodie Sudadera para hombre con capucha  sudadera casual de algodón para uso diario y actividades al aire libre'
 actualPrice: 48.98 EUR
 currency: EUR
 price: 48.98

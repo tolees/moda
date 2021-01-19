@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41WUqIkSOQL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N44CK6K-es'
+slug: 'B07N44CK6K-es Desigual Blouse Mila Blusa  Negro  Negro 2000   XS para Mujer'
 actualPrice: 22.98 EUR
 currency: EUR
 price: 22.98

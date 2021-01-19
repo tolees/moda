@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/410YHg6xbQL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LZ6W1XU-es'
+slug: 'B01LZ6W1XU-es Indicode Glenn Camisa  Azul  Sky Way   XL para Hombre'
 actualPrice: 11.43 EUR
 currency: EUR
 price: 11.43

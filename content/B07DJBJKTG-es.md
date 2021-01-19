@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41k-EXrZyLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DJBJKTG-es'
+slug: 'B07DJBJKTG-es Geox D Rubidia A  Zapatillas para Mujer  Marrón  Curry C2021   39 EU'
 actualPrice: 45.57 EUR
 currency: EUR
 price: 45.57

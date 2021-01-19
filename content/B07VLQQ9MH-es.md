@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31q5Ue-YqWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VLQQ9MH-es'
+slug: 'B07VLQQ9MH-es Tommy Hilfiger TH Essential LW Dwn Chaqueta  Blanco  White Ybr   38  Talla del Fabricante: Medium  para Mujer'
 actualPrice: 65.31 EUR
 currency: EUR
 price: 65.31

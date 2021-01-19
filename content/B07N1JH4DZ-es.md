@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Gxt9srrBL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N1JH4DZ-es'
+slug: 'B07N1JH4DZ-es Clarks Un Adorn Walk Botines Mujer  Azul  Navy Nubuck Navy Nubuck   35.5 EU'
 actualPrice: 22.1 EUR
 currency: EUR
 price: 22.1

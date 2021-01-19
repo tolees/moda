@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31oKESqMdjL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M95FY1B-es'
+slug: 'B07M95FY1B-es Lee Luke Vaqueros  Dark Pool GP  28W / 34L para Hombre'
 actualPrice: 41.09 EUR
 currency: EUR
 price: 41.09

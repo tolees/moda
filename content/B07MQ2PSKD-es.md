@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41+b4M6PAqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MQ2PSKD-es'
+slug: 'B07MQ2PSKD-es HKT by Hackett Hkt Crew Sudadera   Red 255   Medium para Hombre'
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

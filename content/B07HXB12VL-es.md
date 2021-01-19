@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51BBDX5ZqiL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HXB12VL-es'
+slug: 'B07HXB12VL-es Gant D1. Harvest Moon Ruffle Dress Vestido  Azul  Marine 410   44  Talla del Fabricante: 42  para Mujer'
 actualPrice: 87.29 EUR
 currency: EUR
 price: 87.29

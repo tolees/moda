@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31JG32JJ4iL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002Q5NC8Y-es'
+slug: 'B002Q5NC8Y-es Ray-Ban Clubmaster RB3016 W0365 - Gafas de sol para hombre  Negro  Ebony/Arista W0365   51'
 actualPrice: 99.95 EUR
 currency: EUR
 price: 99.95

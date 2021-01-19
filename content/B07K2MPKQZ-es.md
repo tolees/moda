@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41bcSn0+CIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K2MPKQZ-es'
+slug: 'B07K2MPKQZ-es Adidas Adilette Aqua Zapatos de playa y piscina Unisex adulto  Azul  Navy F35542   39 EU  6 UK '
 actualPrice: 6.01 EUR
 currency: EUR
 price: 6.01

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41faZrLtNgL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DXVSB58-es'
+slug: 'B07DXVSB58-es Under Armour HG Racer - Camiseta de Tirantes para Mujer  Mujer  1271765-291  Lime Fizz/Metallic Silver  XS'
 actualPrice: 9.67 EUR
 currency: EUR
 price: 9.67

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31eC6H4i8kL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DP55CXM-es'
+slug: 'B07DP55CXM-es Tommy Hilfiger TJM Tommy Classics Logo tee Camisa  Azul  Black Iris 002   X-Small para Hombre'
 actualPrice: 23.49 EUR
 currency: EUR
 price: 23.49

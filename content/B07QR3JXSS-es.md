@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41OjR+5pJzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QR3JXSS-es'
+slug: 'B07QR3JXSS-es ZXYSHOP Abrigo de Invierno Acolchado para Niñas Princesas Chaqueta de algodón Dulce con Capucha Cintura Ajustable Blue-11-12Years'
 actualPrice: 9.42 EUR
 currency: EUR
 price: 9.42

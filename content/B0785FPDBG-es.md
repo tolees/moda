@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/513ZHVZt9sL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0785FPDBG-es'
+slug: 'B0785FPDBG-es Under Armour Tech Hoody 2.0-Twist Sudadera con Capucha  Mujer  Negro  Black/Metallic Silver 001   S'
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

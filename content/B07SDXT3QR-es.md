@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Oy1rpKVwL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SDXT3QR-es'
+slug: 'B07SDXT3QR-es Vans WM Thanks Coach Attendance Jacket Chaqueta  Verde  Grape Leaf Kcz   38  Talla del Fabricante: Small  para Mujer'
 actualPrice: 11.83 EUR
 currency: EUR
 price: 11.83

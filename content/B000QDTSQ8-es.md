@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41UgHyfLeML._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000QDTSQ8-es'
+slug: 'B000QDTSQ8-es Birkenstock Milano Birko-Flor Wide  Sandalias con Correa de Tobillo para Hombre  Marrón  Brun Foncé Brun Foncé   39 EU'
 actualPrice: 58.45 EUR
 currency: EUR
 price: 58.45

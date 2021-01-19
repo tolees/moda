@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41slxQJYoCL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B077VM4FN6-es'
+slug: 'B077VM4FN6-es Levi s The Perfect Tee  Camiseta  Mujer  Blanco  Better Batwing Cloud Dancer 0305   XS'
 actualPrice: 15.75 EUR
 currency: EUR
 price: 15.75

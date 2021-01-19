@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31JQx148StL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077XN3LYN-es'
+slug: 'B077XN3LYN-es Under Armour Armour Fleece Jogger Pantalón De Chándal  Hombre  Gris  Steel Light Heather/Black 035   XL'
 actualPrice: 41.97 EUR
 currency: EUR
 price: 41.97

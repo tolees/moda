@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41pqtlFndhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SWRRK2W-es'
+slug: 'B07SWRRK2W-es Geox B Djrock Boy C  Mocasines para Bebés  Azul  Navy/White C4211   21 EU'
 actualPrice: 27.31 EUR
 currency: EUR
 price: 27.31

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31FaDoWmWcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JN13GCF-es'
+slug: 'B07JN13GCF-es HAWKERS Gafas de Sol ONE Carbono  para Hombre y Mujer  con Montura Negra Mate con Trama y Lente Azul Claro Efecto Espejo  Protección UV400'
 actualPrice: 26.0 EUR
 currency: EUR
 price: 26.0

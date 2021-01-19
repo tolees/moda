@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31iJy3aXaCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005OBQMBQ-es'
+slug: 'B005OBQMBQ-es Ray-Ban Erika Classic Gafas de sol  Marrón  Tortoise/Gunmetal/Brown Gradient   54 Unisex-Adulto'
 actualPrice: 88.6 EUR
 currency: EUR
 price: 88.6

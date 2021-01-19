@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Bn+3e4jUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FR9ZGSM-es'
+slug: 'B07FR9ZGSM-es Clarks Sharon Crystal  Zapatos de Cordones Derby para Mujer  Beige  Pewter -   41 EU'
 actualPrice: 24.73 EUR
 currency: EUR
 price: 24.73

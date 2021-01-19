@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412ULQPICYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RW47TGW-es'
+slug: 'B07RW47TGW-es Zapatillas Hombres De Deporte Talla 39-48 Sin Cordones De Montañismo Deporte Running Zapatos para Correr Gimnasio Sneakers Deportivas Padel Transpirables Casual Zapatos de Red calados.'
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

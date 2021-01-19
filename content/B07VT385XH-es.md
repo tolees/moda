@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31G6OtA4NGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VT385XH-es'
+slug: 'B07VT385XH-es Calvin Klein Low Rise Trunk 3pk  Bóxer Hombre  Multicolor  JUNGLE LEAF/ SOOT/ ORANGE W. WHT WB LFW   Small'
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

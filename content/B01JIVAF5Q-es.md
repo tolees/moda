@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ckBHdQXOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01JIVAF5Q-es'
+slug: 'B01JIVAF5Q-es Levi s 510 Skinny Fit  Vaqueros para Hombre  Azul  Broken Raw 590   W26/L30'
 actualPrice: 29.65 EUR
 currency: EUR
 price: 29.65

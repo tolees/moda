@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417VurZMZKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RDQPYCS-es'
+slug: 'B07RDQPYCS-es Tommy Hilfiger TJM Novel Logo Crew Jersey de Deporte  Azul  Blue Cbk   Medium para Hombre'
 actualPrice: 42.0 EUR
 currency: EUR
 price: 42.0

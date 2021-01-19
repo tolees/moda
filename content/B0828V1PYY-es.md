@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41rJwSMqEcL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0828V1PYY-es'
+slug: 'B0828V1PYY-es Plantillas calentadas  calentadores de pies  plantillas de invierno  plantillas de zapatos calentadas  plantillas de calentador de pies calentadas recargables  tamaño: 40-44 cortado a medida-003'
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

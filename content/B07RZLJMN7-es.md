@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41YW36apVFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RZLJMN7-es'
+slug: 'B07RZLJMN7-es Levi s The Original Camiseta  Multicolor  Hm Patch OG tee Golden Apricot 0003   Large para Hombre'
 actualPrice: 14.49 EUR
 currency: EUR
 price: 14.49

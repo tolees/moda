@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Wl-r59t3L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LF67PY5-es'
+slug: 'B07LF67PY5-es Levi s Housemark Graphic tee Camiseta  Azul  Hm Outline Sodalite Blue 0243   X-Large para Hombre'
 actualPrice: 10.57 EUR
 currency: EUR
 price: 10.57

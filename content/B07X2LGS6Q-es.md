@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41puvJaF7FL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X2LGS6Q-es'
+slug: 'B07X2LGS6Q-es Pepe Jeans Hatch Vaqueros Hombre Ajustados  Azul  000denim 000   W32/L32  Talla del Fabricante: 32 '
 actualPrice: 64.4 EUR
 currency: EUR
 price: 64.4

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31cmjZL-WYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KRWC3ML-es'
+slug: 'B07KRWC3ML-es Columbia Tolmie Butte  Chaqueta  Hombre  Gris  Cool Grey   XL'
 actualPrice: 29.3 EUR
 currency: EUR
 price: 29.3

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412SxWAbpGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077XMNTP7-es'
+slug: 'B077XMNTP7-es Under Armour Woven Graphic Pantalón Corto  Hombre  Gris  Steel-035   M'
 actualPrice: 20.33 EUR
 currency: EUR
 price: 20.33

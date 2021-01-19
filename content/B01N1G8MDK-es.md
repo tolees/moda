@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Ot4JJUd2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N1G8MDK-es'
+slug: 'B01N1G8MDK-es Superga 2750-cotu Classic  Zapatilla Baja Unisex Adulto  Grün  Green Aqua   37 EU'
 actualPrice: 28.41 EUR
 currency: EUR
 price: 28.41

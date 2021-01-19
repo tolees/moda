@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51J9+Qi74aL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HPCSJWH-es'
+slug: 'B07HPCSJWH-es Cartera Pepe Jeans Jeans vertical con monedero Azul'
 actualPrice: 21.87 EUR
 currency: EUR
 price: 21.87

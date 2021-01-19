@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41rvR0whduL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01G1L1LWM-es'
+slug: 'B01G1L1LWM-es Newfacelook De las mujeres Señoras Motocicleta Impermeable Protector Chaqueta'
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

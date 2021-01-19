@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41qiaco7OYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M9CGMRA-es'
+slug: 'B01M9CGMRA-es Intimuse Shari  vestido Mujer  Morado  lila   36   XS/36 '
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

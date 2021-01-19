@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51q9f29oN7L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KLXTZC8-es'
+slug: 'B07KLXTZC8-es Bolso de Mujer Pequeña Bolso de Noche Hombro Billetera Embrague con Cadena Hechos a Mano Bolso de Hard Shell Diamantes del Banquete Fiesta Boda -Blanco'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41H9wjvE6kL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TLFMMCR-es'
+slug: 'B07TLFMMCR-es Levi s SS Classic 1 Pkt Standrd Camisa  Azul  Alonzo Dress Blues 0011   Large para Hombre'
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

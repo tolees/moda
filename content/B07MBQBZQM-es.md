@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31SMGb5A8JL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MBQBZQM-es'
+slug: 'B07MBQBZQM-es Marca Amazon - MERAKI Falda de Algodón Midi Mujer  Beige  46  Label: XXL'
 actualPrice: 7.94 EUR
 currency: EUR
 price: 7.94

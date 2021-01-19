@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/316qk-bsOQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S9S85FS-es'
+slug: 'B07S9S85FS-es PUMA Leadcat FTR  Sandalias deslizantes Unisex-Adulto  Azul  Dark Denim White/High Risk Red   42 EU'
 actualPrice: 17.95 EUR
 currency: EUR
 price: 17.95

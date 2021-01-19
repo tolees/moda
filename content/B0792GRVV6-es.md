@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41OZ8PIqG5L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0792GRVV6-es'
+slug: 'B0792GRVV6-es Geox J New Savage Boy A  Zapatillas para Niños  Negro  Black/Orange C0038   34 EU'
 actualPrice: 44.93 EUR
 currency: EUR
 price: 44.93

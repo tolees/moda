@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41EeY0qzdhL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KYN9L2W-es'
+slug: 'B07KYN9L2W-es Springfield 8.Gym.GRAF Bella Crochet Camiseta   Hielo 94   Large  Tamaño del Fabricante:L  para Mujer'
 actualPrice: 4.35 EUR
 currency: EUR
 price: 4.35

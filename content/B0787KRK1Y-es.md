@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41kVrNJtZLL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0787KRK1Y-es'
+slug: 'B0787KRK1Y-es Crocs Crocband Platform Clog  Zuecos Unisex Adulto  Negro  Black/White 066   36/37 EU'
 actualPrice: 27.95 EUR
 currency: EUR
 price: 27.95

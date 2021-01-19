@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41YNJhzQjGL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFSP3ZJ-es'
+slug: 'B07LFSP3ZJ-es Geox J Alonisso Boy N  Zapatillas Altas para Niños  Azul  Navy/Dk Orange C4218   34 EU'
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

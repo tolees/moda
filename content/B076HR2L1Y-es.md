@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/318-tnrc3eL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076HR2L1Y-es'
+slug: 'B076HR2L1Y-es Adidas Core 18 Training Jsy  Camiseta Hombre Verde  Bold Green/Black   XL'
 actualPrice: 13.94 EUR
 currency: EUR
 price: 13.94

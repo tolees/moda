@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41opp1vHrdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0824ZJ2FL-es'
+slug: 'B0824ZJ2FL-es AOTIAN Bolsos Bandolera de Mujer Nylon Bolso de Hombro Casual Bolsos Shoppers y Bolsa de Mensajero para Niñas'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

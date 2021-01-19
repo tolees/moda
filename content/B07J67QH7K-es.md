@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31wN0OGr0BL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J67QH7K-es'
+slug: 'B07J67QH7K-es Marca Amazon - Daily Ritual - Maxi vestido de algodón terry súper suave y espalda cruzada  para mujer  Negro  US XS  EU XS - S '
 actualPrice: 12.29 EUR
 currency: EUR
 price: 12.29

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51NqMZd0rKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084C3CVTN-es'
+slug: 'B084C3CVTN-es Mishansha Zapatillas de Masculino Femenino Ligero Suave Malla Transpirable Lace Up Zapatos para Caminar Gimnasia Trainers Primavera Verano 2020 Cómoda Atléticos Calzados  Sneaker Rosa 36'
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

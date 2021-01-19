@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416WoQjIdjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VN6GJX1-es'
+slug: 'B07VN6GJX1-es Desigual Jers Chill Chaqueta Punto  Negro  Negro 2000   Medium para Mujer'
 actualPrice: 55.1 EUR
 currency: EUR
 price: 55.1

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31HuX7gABjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RYWBP6Y-es'
+slug: 'B07RYWBP6Y-es VPASS Pantalones Hombre Verano Casuales Moda Deportivos Algodón y Lino Pants Color sólido Jogging Pantalon Fitness Suelto Pantalones Largos Pantalones Ropa de Hombre'
 actualPrice: 1.56 EUR
 currency: EUR
 price: 1.56

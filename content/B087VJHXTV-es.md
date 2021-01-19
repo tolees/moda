@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-f8KrlW7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087VJHXTV-es'
+slug: 'B087VJHXTV-es Columbia Horizon Explorer Chaqueta con Capucha  Hombre  Verde  Azul  Stone Green  Collegiate Navy   XXL'
 actualPrice: 85.99 EUR
 currency: EUR
 price: 85.99

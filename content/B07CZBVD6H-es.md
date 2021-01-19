@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31AlITWA6TL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CZBVD6H-es'
+slug: 'B07CZBVD6H-es Under Armour UA Launch Sw 5   Short Pantalón Corto  Hombre  Negro  Black/Black/Reflective 001   S'
 actualPrice: 19.29 EUR
 currency: EUR
 price: 19.29

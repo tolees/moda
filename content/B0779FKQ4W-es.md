@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ts7R6YwjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0779FKQ4W-es'
+slug: 'B0779FKQ4W-es adidas Entrada 18 JSY Teamtrikot Camiseta de Manga Corta  Niños  Rojo  Power Red/White   164'
 actualPrice: 12.2 EUR
 currency: EUR
 price: 12.2

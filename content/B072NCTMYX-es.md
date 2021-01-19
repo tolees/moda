@@ -6,7 +6,7 @@ image: 'None._SL200_'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072NCTMYX-es'
+slug: 'B072NCTMYX-es adidas ESS Lin Fzhoodb Sudadera  Hombre  Azul  Maruni/Blanco   XS'
 actualPrice: 29.98 EUR
 currency: EUR
 price: 29.98

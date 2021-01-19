@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Y90p-IK8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LBL79V1-es'
+slug: 'B07LBL79V1-es Rieker 52513-36  Botines para Mujer  Multicolor  Bordeaux/Schwarz/Leaf/Brandy/Senf 36   36 EU'
 actualPrice: 36.1 EUR
 currency: EUR
 price: 36.1

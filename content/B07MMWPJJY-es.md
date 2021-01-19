@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/419P1JZhfUL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MMWPJJY-es'
+slug: 'B07MMWPJJY-es Wrangler Jacket Chaqueta Bomber  Azul  Navy 114   Medium para Hombre'
 actualPrice: 51.9 EUR
 currency: EUR
 price: 51.9

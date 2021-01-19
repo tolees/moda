@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31SMWkxNL1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SQGWQTL-es'
+slug: 'B07SQGWQTL-es Geox Vega W  Zapatillas para Mujer  Blanco  Off White and White C1209   35 EU'
 actualPrice: 20.4 EUR
 currency: EUR
 price: 20.4

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31f3XGXh4xL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JQVGS36-es'
+slug: 'B07JQVGS36-es Tommy Hilfiger Tommy Flag Hilfiger tee Camisa Deportiva  Azul  Chambray Blue 422   Small para Hombre'
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31kkUNXaiHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K29QXXX-es'
+slug: 'B07K29QXXX-es Timberland Adventure 2.0 Cupsole Modern Oxford  Zapatillas Bajas para Hombre  Negro  Black Full Grain   45 EU'
 actualPrice: 51.65 EUR
 currency: EUR
 price: 51.65

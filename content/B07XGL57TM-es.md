@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41TMvC4QkjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XGL57TM-es'
+slug: 'B07XGL57TM-es Spirit 599909  Bolso bandolera para Hombre  Negro  Negro   5x31x18 cm  W x H x L '
 actualPrice: 6.26 EUR
 currency: EUR
 price: 6.26

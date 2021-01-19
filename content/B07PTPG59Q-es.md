@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51htsGAvjML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PTPG59Q-es'
+slug: 'B07PTPG59Q-es WinCret Pareo Playa Mujer Traje de Baño Verano Camisolas y Pareos Bikini Cover up y Ropa de Baño'
 actualPrice: 18.98 EUR
 currency: EUR
 price: 18.98

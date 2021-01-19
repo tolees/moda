@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41TbnkhPlYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TPVCS4D-es'
+slug: 'B07TPVCS4D-es Superdry Merchant Milled Lite L/s Shirt Camisa  Azul  Indigo Grit ZLK   S para Hombre'
 actualPrice: 23.01 EUR
 currency: EUR
 price: 23.01

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41c5pQ2uKJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077Y6GN7V-es'
+slug: 'B077Y6GN7V-es HIKARO Sudadera con Capucha Hombre  Azul  Denim   50  Talla del fabricante: Medium '
 actualPrice: 14.74 EUR
 currency: EUR
 price: 14.74

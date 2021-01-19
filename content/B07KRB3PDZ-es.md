@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31vu4aa4gcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KRB3PDZ-es'
+slug: 'B07KRB3PDZ-es FitFlop Twiss  Sandalias de Punta Descubierta para Mujer  Rojo  Blush 668   42 EU'
 actualPrice: 42.92 EUR
 currency: EUR
 price: 42.92

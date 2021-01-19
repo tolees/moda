@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31sAzicCcLL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFZ2PCC-es'
+slug: 'B07LFZ2PCC-es Geox U Kristof A  Zapatillas para Hombre  Negro  Black C9999   41 EU'
 actualPrice: 36.97 EUR
 currency: EUR
 price: 36.97

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41vzd0-1FBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NDL5RHK-es'
+slug: 'B07NDL5RHK-es G-STAR RAW Xpo Field Chaqueta  Verde  Sage 724   Small para Hombre'
 actualPrice: 37.29 EUR
 currency: EUR
 price: 37.29

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31sWg54DWYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00HEQZ4S6-es'
+slug: 'B00HEQZ4S6-es Timberland 6 Inch Premium Waterproof  Botas para Mujer  Negro  Black Full Grain   40 EU'
 actualPrice: 112.53 EUR
 currency: EUR
 price: 112.53

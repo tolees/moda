@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41v6VygNDdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NDNRFYP-es'
+slug: 'B07NDNRFYP-es G-STAR RAW Graphic 16 Core Hooded Sudadera  Azul  Imperial Blue 1305   X-Small para Hombre'
 actualPrice: 30.08 EUR
 currency: EUR
 price: 30.08

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41-R8MguAUL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DVJVXFF-es'
+slug: 'B07DVJVXFF-es New Balance MS 247 FK de la Zapatilla de deporte para hombres azul blanco  40 EU'
 actualPrice: 34.12 EUR
 currency: EUR
 price: 34.12

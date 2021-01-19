@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31+a96BI6+L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P6XZ9SS-es'
+slug: 'B07P6XZ9SS-es Wrangler Texas Vaqueros  Verde  Dusty Olive 275   W31/L32  Talla del Fabricante: 31/32  para Hombre'
 actualPrice: 26.09 EUR
 currency: EUR
 price: 26.09

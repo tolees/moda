@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41pdyhk+mrL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K71BB2L-es'
+slug: 'B07K71BB2L-es Levi s Graphic B Sudadera  Gris  Add Crew T2 Hm Mid Tone Heather Grey 0079   Medium para Hombre'
 actualPrice: 32.5 EUR
 currency: EUR
 price: 32.5

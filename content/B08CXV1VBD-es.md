@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41QD39T5WKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CXV1VBD-es'
+slug: 'B08CXV1VBD-es Camiseta Sin Mangas para Hombre De Moda Casual Único Camiseta Sin Mangas Camisa De Culturismo Camiseta con Camiseta Muscular Camiseta Sin Mangas Axila Entrenamiento Sin Mangas Deporte  Rojo 3XL '
 actualPrice: 15.82 EUR
 currency: EUR
 price: 15.82

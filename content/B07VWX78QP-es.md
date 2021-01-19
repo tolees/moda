@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41DpqHef6uL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VWX78QP-es'
+slug: 'B07VWX78QP-es Pepe Jeans Jude Camiseta  Azul  Indigo 561   X-Large para Hombre'
 actualPrice: 9.08 EUR
 currency: EUR
 price: 9.08

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31pUXUZIx4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01H70LP2C-es'
+slug: 'B01H70LP2C-es crocs 203998  Chanclas Mujer  Negro  Black/White   36/37 EU  W 6 US '
 actualPrice: 22.3 EUR
 currency: EUR
 price: 22.3

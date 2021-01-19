@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/317I5R0eiSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DJ3PTQB-es'
+slug: 'B07DJ3PTQB-es Geox D Annytah D  Bailarinas para Mujer  Blanco  White C1000   35 EU'
 actualPrice: 61.13 EUR
 currency: EUR
 price: 61.13

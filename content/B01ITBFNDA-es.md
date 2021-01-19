@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31hoGt+9-PL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01ITBFNDA-es'
+slug: 'B01ITBFNDA-es SHINU Clasico Marco Redondo Espejo Gafas de sol de moda Gafas de sol populares Gafas de Sol del Estilo de la Fiesta de una Pieza de las Gafas de Sol-SH71002'
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

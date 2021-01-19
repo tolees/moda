@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31yDqYgLo8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SWT5TNJ-es'
+slug: 'B07SWT5TNJ-es REPLAY M3590 .000.2660 Camiseta  Gris  Stone Grey. 396   XXX-Large para Hombre'
 actualPrice: 6.74 EUR
 currency: EUR
 price: 6.74

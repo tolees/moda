@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31U7U2RPBuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SMTHSPW-es'
+slug: 'B07SMTHSPW-es Burton Classic Mountain High Camiseta  Hombre  True Black  XL'
 actualPrice: 19.49 EUR
 currency: EUR
 price: 19.49

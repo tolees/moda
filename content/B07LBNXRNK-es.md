@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41TB2zagSTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LBNXRNK-es'
+slug: 'B07LBNXRNK-es Helly Hansen Moss Aislado 3-In-1 Forro Polar Interior Chaqueta Impermeable  Hombre  Essential Yellow  2XL'
 actualPrice: 61.12 EUR
 currency: EUR
 price: 61.12

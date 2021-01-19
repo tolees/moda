@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Xt2qSjXTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FKF3QT4-es'
+slug: 'B07FKF3QT4-es Superdry Vintage Logo Tri tee Camiseta de Tirantes  Gris  Montana Grey Grit Vy8   M para Hombre'
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

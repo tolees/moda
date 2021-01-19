@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41H+G01YC-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KF4Y1NV-es'
+slug: 'B07KF4Y1NV-es Levi s Graphic Set-in Neck  Camiseta para Hombre  Blanco  501 T2 White 0548   2XL'
 actualPrice: 16.25 EUR
 currency: EUR
 price: 16.25

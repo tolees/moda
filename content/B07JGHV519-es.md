@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41djUE2bv4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JGHV519-es'
+slug: 'B07JGHV519-es Pepe Jeans Antonia Pl504170 Camiseta   Optic White 802   Medium para Mujer'
 actualPrice: 25.95 EUR
 currency: EUR
 price: 25.95

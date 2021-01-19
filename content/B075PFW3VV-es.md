@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416wGYAlxqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075PFW3VV-es'
+slug: 'B075PFW3VV-es Clarks Un Trek Part  Sandalias de Talón Abierto para Hombre  Marrón  Dark Tan Lea-   43 EU'
 actualPrice: 54.95 EUR
 currency: EUR
 price: 54.95

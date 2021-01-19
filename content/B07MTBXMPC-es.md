@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41lzMQzp5rL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MTBXMPC-es'
+slug: 'B07MTBXMPC-es Napapijri Gardiner Camisa Casual  Azul  Blue Stripe S07   M para Hombre'
 actualPrice: 27.32 EUR
 currency: EUR
 price: 27.32

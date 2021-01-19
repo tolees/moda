@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41JZ7xCV7bL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RHL96T2-es'
+slug: 'B07RHL96T2-es Camisas de Mujer Tops Manga Corta Camisa de Gasa 3/4 Manga Blusa Ancha Mujeres Gasa Elegante Azul 2XL CLAF15-1'
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

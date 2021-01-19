@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ZeWfXFaLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RXL1BD2-es'
+slug: 'B07RXL1BD2-es Levi s 501 Crop Vaqueros Boyfriend  Negro  Cabo Fade 0111   W30/L26  Talla del Fabricante: 30 26  para Mujer'
 actualPrice: 47.75 EUR
 currency: EUR
 price: 47.75

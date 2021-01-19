@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31y0OPHE0QL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MLSVBR2-es'
+slug: 'B07MLSVBR2-es Clarks Ronnie Limit  Zapatos de Cordones Brogue para Hombre  Marrón  Dark Brown Combi Dark Brown Combi   42.5 EU'
 actualPrice: 34.14 EUR
 currency: EUR
 price: 34.14

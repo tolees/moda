@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41TtMy-XsPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075ZNF93P-es'
+slug: 'B075ZNF93P-es B.Catcher Collar Mujer Colgante Mariposas 925 Plata de Ley   Sueños de Mariposas   con para Regalo Originales Cadena 45cm Longitud'
 actualPrice: 14.87 EUR
 currency: EUR
 price: 14.87

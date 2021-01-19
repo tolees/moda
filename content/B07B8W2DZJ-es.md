@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41BeV91jtSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B8W2DZJ-es'
+slug: 'B07B8W2DZJ-es Clarks Un Geo Lace  Zapatos de Cordones Derby para Hombre  Azul  Navy Nubuck   39.5 EU'
 actualPrice: 88.0 EUR
 currency: EUR
 price: 88.0

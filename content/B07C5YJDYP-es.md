@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41cpJ1Ur9qL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C5YJDYP-es'
+slug: 'B07C5YJDYP-es JACK & JONES Jjesheridan Shirt L/s Camisa Vaquera  Negro  Black Denim Fit:Slim   Large para Hombre'
 actualPrice: 23.49 EUR
 currency: EUR
 price: 23.49

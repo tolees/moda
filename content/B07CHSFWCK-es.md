@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41t9RcXjs4L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CHSFWCK-es'
+slug: 'B07CHSFWCK-es Levi s SS Camiseta   Colorblock tee Peacoat/Marshmallow/Ch 0002   Small para Hombre'
 actualPrice: 16.95 EUR
 currency: EUR
 price: 16.95

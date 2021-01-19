@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413sM1yt8LL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088JW7N8X-es'
+slug: 'B088JW7N8X-es Garggi Mujer Moda Puntiagudo Tacón De Aguja Noche Pump Sin Cordones Elegante Tacón Alto Pump Vestido Boda Pump Negro Talla 40 Asiática'
 actualPrice: 22.56 EUR
 currency: EUR
 price: 22.56

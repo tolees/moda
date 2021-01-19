@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41w13Jp1inL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07STLYBLN-es'
+slug: 'B07STLYBLN-es Geox D NYDAME D  Zapatillas para Mujer  Blanco  White/Off White C1352   40 EU'
 actualPrice: 53.86 EUR
 currency: EUR
 price: 53.86

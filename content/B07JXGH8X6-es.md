@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41UlCEdFXZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JXGH8X6-es'
+slug: 'B07JXGH8X6-es Wrangler Arizona Straight Jeans Vaqueros  Fuse Blue  31W / 34L para Hombre'
 actualPrice: 33.48 EUR
 currency: EUR
 price: 33.48

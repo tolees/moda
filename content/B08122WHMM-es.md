@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41e8TnQ3JcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08122WHMM-es'
+slug: 'B08122WHMM-es Disney Camiseta Paquete de 2 de Manga Corta para niñas Frozen Multicolor 8-9 Años'
 actualPrice: 12.95 EUR
 currency: EUR
 price: 12.95

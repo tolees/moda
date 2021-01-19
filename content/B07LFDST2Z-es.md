@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31wSDQsrb1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFDST2Z-es'
+slug: 'B07LFDST2Z-es Levi s 501 Original Fit Jeans Vaqueros  Ironwood Od  40W / 34L para Hombre'
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

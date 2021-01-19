@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ti1T-6IFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01KGE5XHO-es'
+slug: 'B01KGE5XHO-es Goodthreads Slim-Fit Long-Sleeve Solid Oxford Shirt Camisa  Azul  Blue   Medium'
 actualPrice: 8.93 EUR
 currency: EUR
 price: 8.93

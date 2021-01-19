@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51N44wXs1kL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R8FMW2F-es'
+slug: 'B07R8FMW2F-es find. Lace Up Wedge Bootie Botines  Marrón Tan  39 EU'
 actualPrice: 7.69 EUR
 currency: EUR
 price: 7.69

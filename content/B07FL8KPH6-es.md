@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41lnGA1z6XL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FL8KPH6-es'
+slug: 'B07FL8KPH6-es Superdry Orange Label Vntge Emb S/s tee Camiseta  Gris  Flint Steel Grit A3z   X-Small para Hombre'
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

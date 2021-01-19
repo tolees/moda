@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41xyje0dVrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VGN8RXS-es'
+slug: 'B07VGN8RXS-es Desigual Jers Nagar Chaqueta Punto  Blanco  Crudo 1001   X-Large para Mujer'
 actualPrice: 23.95 EUR
 currency: EUR
 price: 23.95

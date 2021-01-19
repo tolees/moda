@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41iW9wPqzyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X7VF6KK-es'
+slug: 'B07X7VF6KK-es JK-2 Pegamento de Alta Intensidad Claro DIY Artesanía Zapatos de joyería Adhesivo de Pantalla de teléfono de Vidrio E7000 50mL 110mL'
 actualPrice: 6.55 EUR
 currency: EUR
 price: 6.55

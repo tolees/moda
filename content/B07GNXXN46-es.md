@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31WgDxP60sL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GNXXN46-es'
+slug: 'B07GNXXN46-es The Indian Face Gafas de Sol Espejadas Oxygen Mujer  Hombre Crystal Lente Amarilla'
 actualPrice: 39.0 EUR
 currency: EUR
 price: 39.0

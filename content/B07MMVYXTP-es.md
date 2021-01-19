@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416TXvbzE4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MMVYXTP-es'
+slug: 'B07MMVYXTP-es Lee Chest Logo tee Camiseta  Rojo  Warp Red KG   Large para Mujer'
 actualPrice: 14.13 EUR
 currency: EUR
 price: 14.13

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31na5M2KsmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FSF4R3T-es'
+slug: 'B07FSF4R3T-es Clarks Mena Blossom  Zapatos de Tacón para Mujer  Negro  Black Nubuck -   37.5 EU'
 actualPrice: 59.49 EUR
 currency: EUR
 price: 59.49

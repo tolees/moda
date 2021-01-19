@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31sVobnIUrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071FTWCZN-es'
+slug: 'B071FTWCZN-es Crocs Swiftwater Sandal W  Sandalias de Punta Descubierta para Mujer  Rosa  Paradise Pink/White   38/39 EU'
 actualPrice: 24.49 EUR
 currency: EUR
 price: 24.49

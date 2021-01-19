@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41aMRoevCUL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NWXJJMY-es'
+slug: 'B07NWXJJMY-es Joma Cairo II Sudadera  Hombre  Rojo  XL'
 actualPrice: 13.0 EUR
 currency: EUR
 price: 13.0

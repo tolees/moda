@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51GZGFKQqRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CVTQ5YN-es'
+slug: 'B07CVTQ5YN-es Billetera de cuero para hombre  billetera de cuero genuino  billetera de triple pliegue RFID para hombres  billetera Corspake con caja de regalo  11 ranuras para tarjetas de crédito  3 ventanas con id'
 actualPrice: 17.4 EUR
 currency: EUR
 price: 17.4

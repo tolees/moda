@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41aAbvAkrqL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KSPDNRB-es'
+slug: 'B07KSPDNRB-es AnazoZ Acero Inoxidable Gemelos para Hombre Camisa Gemelos Regalo Gris Circonita Cúbica Cuadrado 1.4x1.4CM'
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

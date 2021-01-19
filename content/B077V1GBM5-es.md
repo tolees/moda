@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ik9bY-2VL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077V1GBM5-es'
+slug: 'B077V1GBM5-es Kipling Syro  Bolso bandolera para Mujer  Marrón  True Beige   31x22x12.5 cm'
 actualPrice: 21.22 EUR
 currency: EUR
 price: 21.22

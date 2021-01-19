@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41KuFr3SVQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VGP9PSF-es'
+slug: 'B07VGP9PSF-es JACK & JONES Jjewashington Shirt L/s STS Camisa  Verde  Olive Nightgrün   XX-Large para Hombre'
 actualPrice: 11.01 EUR
 currency: EUR
 price: 11.01

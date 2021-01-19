@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31QpEaERnFL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TZ5BHY8-es'
+slug: 'B07TZ5BHY8-es Women s Secret Cozy Animals Ca Llama PJ Conjuntos de Pijama  Rosa  Rosa/Ojo Perdiz 70   Large  Tamaño del Fabricante: L  para Mujer'
 actualPrice: 20.72 EUR
 currency: EUR
 price: 20.72

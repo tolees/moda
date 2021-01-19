@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31zcCyS7tbL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N3YVQMM-es'
+slug: 'B07N3YVQMM-es Desigual Dress LENCY Vestido  Azul  Medieval Blue 5074   38  Talla del Fabricante: 36  para Mujer'
 actualPrice: 19.78 EUR
 currency: EUR
 price: 19.78

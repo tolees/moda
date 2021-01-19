@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31xicIlf7YL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFYXWG4-es'
+slug: 'B07LFYXWG4-es Geox Womens D New ANNYA MID A Pump  Navy  41 EU'
 actualPrice: 22.47 EUR
 currency: EUR
 price: 22.47

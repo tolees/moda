@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/419g9d9wVOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K2V39MF-es'
+slug: 'B07K2V39MF-es Columbia Glacial IV Jersey Polar con Media Cremallera para Mujer  Color: Rojo  Beet/Daredevil   Talla: S'
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

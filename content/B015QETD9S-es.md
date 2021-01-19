@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61XAfzfzbpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B015QETD9S-es'
+slug: 'B015QETD9S-es rubyca colgantes flotante para cristal Living memory Lockets collar Mix 6'
 actualPrice: 34.07 EUR
 currency: EUR
 price: 34.07

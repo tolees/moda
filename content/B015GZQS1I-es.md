@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31LKGEgxcnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B015GZQS1I-es'
+slug: 'B015GZQS1I-es Timberland Bradstreet Chukka Leather  Botas Hombre  Marrón  MD Brown Full Grain   46 EU'
 actualPrice: 89.52 EUR
 currency: EUR
 price: 89.52

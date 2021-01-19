@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41AKNyzgCwL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BGTV8QS-es'
+slug: 'B01BGTV8QS-es G-STAR RAW Midge Saddle Mid Waist Straight Vaqueros  Dk Aged 6553-89  36W / 30L para Mujer'
 actualPrice: 38.93 EUR
 currency: EUR
 price: 38.93

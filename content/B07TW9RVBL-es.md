@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411coIsshHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TW9RVBL-es'
+slug: 'B07TW9RVBL-es Levi s Graphic tee Camiseta  Azul  Boxtab SS T2 Dress Blues 0001   Small para Hombre'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

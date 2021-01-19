@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41vxrNZysOL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LBK86FW-es'
+slug: 'B07LBK86FW-es Tommy Hilfiger Saba Short Packable Windbreaker Chaqueta Impermeable  Morado  Pink Lavender 503   Large para Mujer'
 actualPrice: 48.82 EUR
 currency: EUR
 price: 48.82

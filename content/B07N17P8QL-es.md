@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41NZPYVcCmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N17P8QL-es'
+slug: 'B07N17P8QL-es Lee V Neck tee Camiseta  Azul  Midnight Navy Ma   X-Large para Mujer'
 actualPrice: 12.49 EUR
 currency: EUR
 price: 12.49

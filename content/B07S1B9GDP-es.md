@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41OQy+OaNiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S1B9GDP-es'
+slug: 'B07S1B9GDP-es JACK & JONES Jjeorganic Basic tee SS O-Neck Noos Camiseta  Gris  Grau   Small para Hombre'
 actualPrice: 5.04 EUR
 currency: EUR
 price: 5.04

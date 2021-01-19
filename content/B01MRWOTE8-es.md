@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/415xVzearhL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MRWOTE8-es'
+slug: 'B01MRWOTE8-es KRISP 6252-PNK-20  Vestido Corto Patinadora Vuelo Fruncido Busto  Rosa  6252   48'
 actualPrice: 12.49 EUR
 currency: EUR
 price: 12.49

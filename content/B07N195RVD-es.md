@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416ckbbXpxL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N195RVD-es'
+slug: 'B07N195RVD-es Lee Essential Logo SWS Sudadera  Gris  Grey Mele MP   X-Large para Mujer'
 actualPrice: 12.08 EUR
 currency: EUR
 price: 12.08

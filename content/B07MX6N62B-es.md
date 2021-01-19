@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51v-S3LYU1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MX6N62B-es'
+slug: 'B07MX6N62B-es A+ Trainer Collar Antiladridos Perro – Collar Adiestramiento Impermeable Collar Electrico Perro Ajustable para Perros Pequeño Mediano y Grande 7 Niveles de Vibración Progresivos Resistente al Agua'
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

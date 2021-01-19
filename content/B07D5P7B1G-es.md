@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31yk+VUmZQL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D5P7B1G-es'
+slug: 'B07D5P7B1G-es Under Armour UA Launch Sw 2-In-1 Long Short Pantalón Corto  Hombre  Negro  Black/Black/Reflective 001   M'
 actualPrice: 28.43 EUR
 currency: EUR
 price: 28.43

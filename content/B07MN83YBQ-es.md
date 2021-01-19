@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41F1ekAOi0L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MN83YBQ-es'
+slug: 'B07MN83YBQ-es Wrangler Crewneck Knit Sudadera  Amarillo  Mineral Yellow Y02   Small para Hombre'
 actualPrice: 29.98 EUR
 currency: EUR
 price: 29.98

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31PN0EJpwqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BXFCFN4-es'
+slug: 'B07BXFCFN4-es KUULEE Hombre Camisa Manga Larga Slim Fit Camisa Vaquera/Camisa a Cuadros Rejilla de Diamante'
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

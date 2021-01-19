@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31TcpAPigPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R6R63FF-es'
+slug: 'B07R6R63FF-es WEB EYEWEAR WE0261  Gafas para Hombre  Negro  60'
 actualPrice: 91.0 EUR
 currency: EUR
 price: 91.0

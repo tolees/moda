@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41OsvXK5faL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BZQYR9J-es'
+slug: 'B07BZQYR9J-es Joma Equip. M/c  Hombre  Camiseta hispa Rojo-Blanco  S'
 actualPrice: 17.16 EUR
 currency: EUR
 price: 17.16

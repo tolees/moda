@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413mez4QdAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M7B6SZQ-es'
+slug: 'B07M7B6SZQ-es Geox U Nebula Y A  Zapatillas para Hombre  Negro  Black C9999   44 EU'
 actualPrice: 57.36 EUR
 currency: EUR
 price: 57.36

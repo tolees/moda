@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41oPv1ZtgjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TWBGLRH-es'
+slug: 'B07TWBGLRH-es Levi s The tee Camiseta  Negro  90 s Serif T2 Caviar 0959   X-Small para Mujer'
 actualPrice: 10.49 EUR
 currency: EUR
 price: 10.49

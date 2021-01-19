@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/4177HAXd4QL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B077Y52CKD-es'
+slug: 'B077Y52CKD-es HIKARO Chaqueta con Cremallera y Capucha Hombre  Rojo  Burgundy   56  Talla del fabricante: XX-Large '
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

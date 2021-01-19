@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41fjLafiAAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001OVFKCW-es'
+slug: 'B001OVFKCW-es adidas Originals Adilette  Chanclas para Hombre  Azul  Adiblu/White/Adiblu   44 1/2 EU'
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

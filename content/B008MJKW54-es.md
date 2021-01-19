@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41FlLutE--L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B008MJKW54-es'
+slug: 'B008MJKW54-es Boxer Gifts - Carcasa para iPhone 4/4s  diseño con Texto LMAO'
 actualPrice: 9.07 EUR
 currency: EUR
 price: 9.07

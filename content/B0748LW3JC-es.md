@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41DO4mObyPL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0748LW3JC-es'
+slug: 'B0748LW3JC-es find. Jersey de Algodón para Mujer  Rojo  Burgandy   46  Talla del Fabricante: XX-Large '
 actualPrice: 14 EUR
 currency: EUR
 price: 14

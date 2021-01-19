@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Ui5E4FTuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078B2GVY1-es'
+slug: 'B078B2GVY1-es Under Armour Team Issue Camiseta para Hombre con Logotipo  Camiseta Deportiva Transpirable  Camiseta de Manga Corta para Hombre cómoda y Ancha  White/Black  100   XL'
 actualPrice: 14.9 EUR
 currency: EUR
 price: 14.9

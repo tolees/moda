@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41k8xeCNzML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078BBZKCY-es'
+slug: 'B078BBZKCY-es Under Armour Woven Graphic Short Pantalón Corto  Hombre  Negro  LG'
 actualPrice: 14.49 EUR
 currency: EUR
 price: 14.49

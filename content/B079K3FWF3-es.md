@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41JHCciV-8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079K3FWF3-es'
+slug: 'B079K3FWF3-es Napapijri Burgee Sweatshirt Sudadera  Gris  Med Grey Mel 160   Large para Hombre'
 actualPrice: 44.55 EUR
 currency: EUR
 price: 44.55

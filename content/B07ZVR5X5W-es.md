@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Rlr0-dPcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZVR5X5W-es'
+slug: 'B07ZVR5X5W-es Levi s 512 Slim Taper Fit Jean Vaqueros  Sage Nightshade ADV Tnl  32W / 34L para Hombre'
 actualPrice: 75.0 EUR
 currency: EUR
 price: 75.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41azqzEYf1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TQVNMNF-es'
+slug: 'B07TQVNMNF-es Clarks Paulson Plain  Zapatos de Cordones Derby para Hombre  Marrón  Tan Suede Tan Suede   41 EU'
 actualPrice: 27.21 EUR
 currency: EUR
 price: 27.21

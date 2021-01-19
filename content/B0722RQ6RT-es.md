@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41u2urRZAgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0722RQ6RT-es'
+slug: 'B0722RQ6RT-es El Naturalista N5142 Capretto Nectar  Botines para Mujer  Marrón  Wood   41 EU'
 actualPrice: 35.98 EUR
 currency: EUR
 price: 35.98

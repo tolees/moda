@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31jco3Qwm8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PNQJDRB-es'
+slug: 'B07PNQJDRB-es Calvin Klein Core Monogram Logo Sweatshirt Sudadera  Gris  Light Grey Heather 038   Large para Mujer'
 actualPrice: 60.99 EUR
 currency: EUR
 price: 60.99

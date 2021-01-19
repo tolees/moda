@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Weg0k+s9L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KF51QB1-es'
+slug: 'B07KF51QB1-es Levi s Perfect-tee Camiseta de Manga Corta  Rosa  Pink Lady 0034   Medium para Mujer'
 actualPrice: 12.5 EUR
 currency: EUR
 price: 12.5

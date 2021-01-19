@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41+D3nJpgGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001PH3VXK-es'
+slug: 'B001PH3VXK-es Superga 2750 COTU Classic  Zapatilla de Deporte Unisexo Adulto  Blanco  41 EU'
 actualPrice: 38.07 EUR
 currency: EUR
 price: 38.07

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/317Q92cxVYL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G2DRB4B-es'
+slug: 'B07G2DRB4B-es AURIQUE Mallas de Entrenamiento  Negro  Black High Shine/Grey Marl   40  Talla del Fabricante: Medium '
 actualPrice: 20.8 EUR
 currency: EUR
 price: 20.8

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Rxo+rXNsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S6NTCLB-es'
+slug: 'B07S6NTCLB-es PUMA Popcat 20  Sandalias deslizantes Unisex niños  Negro Black White  35.5 EU'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/414cf27Qa4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JM97PDL-es'
+slug: 'B07JM97PDL-es Lee Luke Vaqueros  Minimalee Fy  28W / 34L para Hombre'
 actualPrice: 41.57 EUR
 currency: EUR
 price: 41.57

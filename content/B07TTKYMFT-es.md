@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ycrtolV4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TTKYMFT-es'
+slug: 'B07TTKYMFT-es LIGE Relojes para Hombres Moda Militar Impermeable Deporte Reloj analógico Cuarzo Negocio Marrón Cronógrafo Cuero Reloj Esfera Grande'
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

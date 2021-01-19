@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41WZBw9WREL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NGT232P-es'
+slug: 'B07NGT232P-es Calvin Klein 3p Low Rise Trunk Bóxer  Gris  Charcoal H/Rasp Jam/Bright Cobalt Lfv   S  Pack de 3  para Hombre'
 actualPrice: 11.72 EUR
 currency: EUR
 price: 11.72

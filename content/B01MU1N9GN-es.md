@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41W3mYvfxxL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MU1N9GN-es'
+slug: 'B01MU1N9GN-es Crocs W Swiftwater Webbing Sandal 204804  Sandalias con Punta Abierta para Mujer  Negro  Black 001   38/39 EU'
 actualPrice: 30.45 EUR
 currency: EUR
 price: 30.45

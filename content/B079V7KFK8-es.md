@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31JOwf7TSJL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B079V7KFK8-es'
+slug: 'B079V7KFK8-es Wrangler Greensboro Regular Jeans Vaqueros  Azul  33W / 34L para Hombre'
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

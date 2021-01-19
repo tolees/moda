@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41dP36QalyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078SWPTQW-es'
+slug: 'B078SWPTQW-es Timberland Mocasines TB0A1Q86019'
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

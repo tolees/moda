@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/419OKLd29XL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S4SNPY5-es'
+slug: 'B07S4SNPY5-es New Balance 373 Hook and Loop n  Zapatilla Clásica para Niños  Gris  Steel with Atomic Yellow   37 EU'
 actualPrice: 22.05 EUR
 currency: EUR
 price: 22.05

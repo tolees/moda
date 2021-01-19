@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41GADq5eoHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XG65Y9B-es'
+slug: 'B06XG65Y9B-es Marca Amazon - find. Camisa Hombre  Verde  Fresh Green   S  Label: S'
 actualPrice: 7.6 EUR
 currency: EUR
 price: 7.6

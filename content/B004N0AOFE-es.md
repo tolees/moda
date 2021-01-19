@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31sc+8XJN7L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004N0AOFE-es'
+slug: 'B004N0AOFE-es Wilkinson sword quattro bikini - Cuchilla de depilar para zona de bikini'
 actualPrice: 7.17 EUR
 currency: EUR
 price: 7.17

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41pPBJSuO3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0822H5HCY-es'
+slug: 'B0822H5HCY-es Oihxse Case Compatible conHuawei Mate 20 Pro Funda Silicona Matorral TPU Suave Protector Carcasa Ultra Delgada Moda Linda Patrón Anti-Rasguño Caso Bumper Cover（Rojo-Paraguas）'
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

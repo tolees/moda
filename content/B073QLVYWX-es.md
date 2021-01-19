@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31oIpjP6l1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073QLVYWX-es'
+slug: 'B073QLVYWX-es Marca Amazon - AURIQUE Leggings con Paneles en Contraste de Deporte Mujer  Azul  Navy/sport Red   42  Label:L'
 actualPrice: 6.0 EUR
 currency: EUR
 price: 6.0

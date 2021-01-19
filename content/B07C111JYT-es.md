@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41+9l4DRJNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C111JYT-es'
+slug: 'B07C111JYT-es Fruit of the Loom - Camiseta básica de Manga Corta para niña/Chicas - 100% algodón Primera Calidad  3-4 Años   Azul Royal Moteado '
 actualPrice: 3.7 EUR
 currency: EUR
 price: 3.7

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41XYHOepH9L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01505CDGI-es'
+slug: 'B01505CDGI-es Star Wars Episode VII Kylo REN Shadows Camiseta  Negro  Large para Hombre'
 actualPrice: 13.58 EUR
 currency: EUR
 price: 13.58

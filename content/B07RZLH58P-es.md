@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/410aCjSdQ-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RZLH58P-es'
+slug: 'B07RZLH58P-es Levi s 512 Slim Taper Fit Vaqueros Tapered  Azul  Biologia ADV 0633   32W / 32L para Hombre'
 actualPrice: 59.8 EUR
 currency: EUR
 price: 59.8

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31LJlh1ZWYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RZV2VP6-es'
+slug: 'B07RZV2VP6-es BOSS LS-Shirt RN Thermal+ Camiseta térmica  Rojo  Dark Red 604   X-Large para Hombre'
 actualPrice: 19.42 EUR
 currency: EUR
 price: 19.42

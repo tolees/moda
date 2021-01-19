@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41B+HPeC6eL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MXY6NJY-es'
+slug: 'B01MXY6NJY-es Helly Hansen W Crew Hooded Midlayer Chaqueta Impermeable  Cortavientos y Transpirable para Mujer  con Forro Polar Integrado  Azul  Navy   M'
 actualPrice: 120.99 EUR
 currency: EUR
 price: 120.99

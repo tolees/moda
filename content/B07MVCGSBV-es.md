@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Mz0xPs2FL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MVCGSBV-es'
+slug: 'B07MVCGSBV-es Napapijri Soves Camiseta  Negro  Black 041   Medium para Hombre'
 actualPrice: 15.6 EUR
 currency: EUR
 price: 15.6

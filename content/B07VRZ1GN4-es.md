@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31iOTqETgLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VRZ1GN4-es'
+slug: 'B07VRZ1GN4-es Tommy Hilfiger Essential Original tee S/s Camiseta  Azul  Lapis Lazuli 431/880 C5d   Talla Única  Talla del Fabricante: 80  para Niños'
 actualPrice: 9.16 EUR
 currency: EUR
 price: 9.16

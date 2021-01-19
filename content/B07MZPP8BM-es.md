@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41XnFXIoAcL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZPP8BM-es'
+slug: 'B07MZPP8BM-es Pepe Jeans Neana Sudadera   Sailor 580   11-12 años  Talla del Fabricante: 11/12 años  para Niñas'
 actualPrice: 24.95 EUR
 currency: EUR
 price: 24.95

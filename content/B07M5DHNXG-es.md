@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41aAdvFAUOL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M5DHNXG-es'
+slug: 'B07M5DHNXG-es Lee Luke Vaqueros  Dark Blue Elko BU  W26/L32 para Hombre'
 actualPrice: 18.67 EUR
 currency: EUR
 price: 18.67

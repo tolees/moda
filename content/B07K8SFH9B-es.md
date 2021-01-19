@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41DWjprsirL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K8SFH9B-es'
+slug: 'B07K8SFH9B-es Levi s 512 Slim Taper Fit Vaqueros Tapered  Azul  Abu ADV 0310   30W / 30L para Hombre'
 actualPrice: 71.99 EUR
 currency: EUR
 price: 71.99

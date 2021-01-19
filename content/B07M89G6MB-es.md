@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31gEPV+vieL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M89G6MB-es'
+slug: 'B07M89G6MB-es Lee Daren Jeans Vaqueros Straight  Gris  Moto Grey HG   34W / 34L para Hombre'
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

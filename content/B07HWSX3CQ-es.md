@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Uy+hrE34L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HWSX3CQ-es'
+slug: 'B07HWSX3CQ-es H&E - Abrigo de invierno para niña con capucha y capucha  Niñas  color dorado  tamaño 6 años'
 actualPrice: 22.6 EUR
 currency: EUR
 price: 22.6

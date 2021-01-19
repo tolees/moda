@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/310qKnJ7QzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T3GZK6L-es'
+slug: 'B07T3GZK6L-es Timberland Bradstreet Plain Toe Sensorflex  Zapatos de Cordones Oxford para Hombre  Marrón Dark Brown Full Grain  44 EU'
 actualPrice: 65.0 EUR
 currency: EUR
 price: 65.0

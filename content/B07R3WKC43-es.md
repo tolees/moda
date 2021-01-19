@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41L2sRLQ6qL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R3WKC43-es'
+slug: 'B07R3WKC43-es 🎁 Bolso de la motocicleta Cuero genuino Bolso mensajero Bolsa de hombro 9 X 11 pulgadas | Bolsa de herramientas Marrón Manillar Respaldo Bolso de viaje | Con envío gratuito'
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

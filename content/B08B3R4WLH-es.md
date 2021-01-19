@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51yHP3kItrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08B3R4WLH-es'
+slug: 'B08B3R4WLH-es DoGeek Zapato Seguridad con Punta de Acero  Zapatos Trabajo Antideslizante para Trabajo y Senderismo'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

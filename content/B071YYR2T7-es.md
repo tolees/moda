@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Yk5VzZlsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071YYR2T7-es'
+slug: 'B071YYR2T7-es find. Camiseta para Mujer  Anaranjado / Coralino  Water Melon   38  Talle Fabricante: Small '
 actualPrice: 3.52 EUR
 currency: EUR
 price: 3.52

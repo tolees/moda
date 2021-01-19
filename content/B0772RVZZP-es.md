@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31CjUq7OIrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0772RVZZP-es'
+slug: 'B0772RVZZP-es Marca Amazon - MERAKI Pantalón Cortos Chinos Hombre  azul  navy   38  Label: 38'
 actualPrice: 7.12 EUR
 currency: EUR
 price: 7.12

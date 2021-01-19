@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/310WBkrqLiL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MFM2KB2-es'
+slug: 'B07MFM2KB2-es Clarks 261440557 - Botines de Cuero Hombre  Color Marrón  Talla 44 EU'
 actualPrice: 35.95 EUR
 currency: EUR
 price: 35.95

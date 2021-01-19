@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41HAmHVAzXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZPBGNMC-es'
+slug: 'B07ZPBGNMC-es Charles Wilson Sudadera con Cremallera Completa con Capucha Peso Pesado  Small  Olive  1019  '
 actualPrice: 16.95 EUR
 currency: EUR
 price: 16.95

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/418ocCaF0mL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BBTDXJ8-es'
+slug: 'B01BBTDXJ8-es ATTCL Hombre Gafas De Sol Deportes Polarizado Súper Ligero Al-Mg Marco De Metal 8177 Black-BLUE'
 actualPrice: 25.0 EUR
 currency: EUR
 price: 25.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41SLPy7AU2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0792JFD2G-es'
+slug: 'B0792JFD2G-es Geox J RIDDOCK Boy WPF A  Botas Chukka para Niños  Amarillo  Dk Yellow C2006   35 EU'
 actualPrice: 35.96 EUR
 currency: EUR
 price: 35.96

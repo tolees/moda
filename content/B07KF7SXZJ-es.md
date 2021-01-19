@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41pWMf+YNDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KF7SXZJ-es'
+slug: 'B07KF7SXZJ-es Calvin Klein Core Institutional Logo Slim tee Camiseta  Gris  Grey Heather 039   XX-Large para Hombre'
 actualPrice: 15.78 EUR
 currency: EUR
 price: 15.78

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/518dZlt367L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VFJVLRJ-es'
+slug: 'B07VFJVLRJ-es LIGE Relojes para Hombre Deportivo Impermeable Cuarzo Analógico para Hombre Prueba de Agua para Hombre Cronógrafo Dial Grande Moda Militar Reloj de Pulsera para Caballero de Cuero Negro'
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41TXzoaP4HL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z8DHZ2G-es'
+slug: 'B07Z8DHZ2G-es oodji Ultra Mujer Blusa de Silueta Libre con Mangas Cortas  Negro  ES 34 / XXS'
 actualPrice: 8.4 EUR
 currency: EUR
 price: 8.4

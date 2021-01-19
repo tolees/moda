@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412dHC3YcBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TKDNDQP-es'
+slug: 'B07TKDNDQP-es Levi s Camiseta  Multicolor  Authentic Colorblock tee Riverside/Ver 0000   X-Large para Hombre'
 actualPrice: 17.5 EUR
 currency: EUR
 price: 17.5

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41zWjESEUsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PPPCFCR-es'
+slug: 'B07PPPCFCR-es MTNG Bengala  Bolso bandolera para Mujer  Negro  Nylon Negro   8x13x19 cm  W x H x L '
 actualPrice: 10.47 EUR
 currency: EUR
 price: 10.47

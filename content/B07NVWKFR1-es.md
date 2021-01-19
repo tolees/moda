@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31FN3YXYP-L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NVWKFR1-es'
+slug: 'B07NVWKFR1-es Armor Lux 77288 Chaqueta  Negro  Noir 010   Medium  Talla del Fabricante: 48  para Mujer'
 actualPrice: 121.43 EUR
 currency: EUR
 price: 121.43

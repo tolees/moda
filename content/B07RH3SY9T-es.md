@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41WNSYimL+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RH3SY9T-es'
+slug: 'B07RH3SY9T-es Calvin Klein K60k606172 conjunto bufanda  gorro y guantes  Negro  Black Bds   Talla única  Talla del fabricante: OS  para Mujer'
 actualPrice: 21.69 EUR
 currency: EUR
 price: 21.69

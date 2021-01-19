@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41jY8wz-P5L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TZ1Q9XX-es'
+slug: 'B07TZ1Q9XX-es Parfois - Bolso Shopper Acolchado De Nylon - Mujeres - Tallas M - Magenta'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41bDTNtJ8IL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B074FVQ7MR-es'
+slug: 'B074FVQ7MR-es find. Sudadera Estampada para Hombre  Gris  G-marl   Medium'
 actualPrice: 8.4 EUR
 currency: EUR
 price: 8.4

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41l9+ciqyBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JJ4G2L2-es'
+slug: 'B07JJ4G2L2-es G-STAR RAW Firn Camiseta  Multicolor  Milk/Imperial Blue Stripe 8340   Small para Mujer'
 actualPrice: 13.29 EUR
 currency: EUR
 price: 13.29

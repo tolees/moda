@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41st1Ei%2BT5L._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B00UG4MEC2-es'
+slug: 'B00UG4MEC2-es Charles Wilson Camiseta Polo Clásica Lisa  Small  Burgundy '
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

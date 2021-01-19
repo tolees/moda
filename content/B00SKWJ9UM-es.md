@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-APGe3cDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00SKWJ9UM-es'
+slug: 'B00SKWJ9UM-es Lonsdale Caja de pantalón Corto para Hombre Pantalones de Deporte de los Cierres de Wear Sport de Boxeo de Entrenamiento'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

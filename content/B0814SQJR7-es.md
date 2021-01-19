@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41JBtXHL6PL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0814SQJR7-es'
+slug: 'B0814SQJR7-es Under Armour UA Seamless SS  camiseta de manga corta para hombre  camiseta para correr hombre  Rosa  Hushed Pink/Dash Pink/Metallic Silver  662    XS'
 actualPrice: 22.13 EUR
 currency: EUR
 price: 22.13

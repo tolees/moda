@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ru9w8RFBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PVKKGZR-es'
+slug: 'B07PVKKGZR-es Marca Amazon - find. Statement Fairisle Jumper Suéter Mujer  Rojo  RED   46  Label: XXL'
 actualPrice: 19.54 EUR
 currency: EUR
 price: 19.54

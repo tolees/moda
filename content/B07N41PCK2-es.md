@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41pRG1HHTDL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N41PCK2-es'
+slug: 'B07N41PCK2-es Desigual Dress Karen Vestido  Blanco 1000  XS para Mujer'
 actualPrice: 18.21 EUR
 currency: EUR
 price: 18.21

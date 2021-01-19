@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41Ir2Oe1nWL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B075X2Q3BV-es'
+slug: 'B075X2Q3BV-es find. NEWSTW046 vaqueros mujer  Azul  Dark Vintage   W27/L30'
 actualPrice: 10.8 EUR
 currency: EUR
 price: 10.8

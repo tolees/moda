@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31LxV-woX2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SWTPMX8-es'
+slug: 'B07SWTPMX8-es Geox D Jaysen A  Zapatillas para Mujer  Blanco  White/Lt Yellow C1372   39 EU'
 actualPrice: 45.57 EUR
 currency: EUR
 price: 45.57

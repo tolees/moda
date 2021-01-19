@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41+p95SfoxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077HKY6K5-es'
+slug: 'B077HKY6K5-es Vila Clothes Vitinny New S/s Dress-Noos Vestido  Blanco  Snow White Stripes: Total Eclipse   40  Talla del Fabricante: Medium  para Mujer'
 actualPrice: 18.89 EUR
 currency: EUR
 price: 18.89

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/211dwkCHPHL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JWXV9HF-es'
+slug: 'B07JWXV9HF-es G-STAR RAW Graphic 18 Mysid Slim Camiseta  Beige  Milk 111   Medium para Mujer'
 actualPrice: 8.84 EUR
 currency: EUR
 price: 8.84

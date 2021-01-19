@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41oHWBdnD5L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NDL62DM-es'
+slug: 'B07NDL62DM-es G-STAR RAW Graphic 17 Loose V-Neck Camiseta  Azul  Imperial Blue 1305   Large para Hombre'
 actualPrice: 19.97 EUR
 currency: EUR
 price: 19.97

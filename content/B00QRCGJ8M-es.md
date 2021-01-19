@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31fP1ZGoOBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00QRCGJ8M-es'
+slug: 'B00QRCGJ8M-es Geox U NEBULA B - zapatilla deportiva de cuero hombre  Azul  NAVYC4002   46 EU'
 actualPrice: 58.59 EUR
 currency: EUR
 price: 58.59

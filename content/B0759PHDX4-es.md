@@ -6,7 +6,7 @@ image: 'None._SL200_'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0759PHDX4-es'
+slug: 'B0759PHDX4-es Clarks Step Isle Lace  Zapatos de Cordones Derby para Hombre  Beige  Sand Canvas-   40 EU'
 actualPrice: 19.48 EUR
 currency: EUR
 price: 19.48

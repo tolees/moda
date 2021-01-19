@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31raXYMoAwL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K3W6D2G-es'
+slug: 'B07K3W6D2G-es Fortnite Floss Dance - Camiseta  color gris oscuro  talla L'
 actualPrice: 5.0 EUR
 currency: EUR
 price: 5.0

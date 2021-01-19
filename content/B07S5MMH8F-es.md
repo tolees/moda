@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41tW9MHaGHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S5MMH8F-es'
+slug: 'B07S5MMH8F-es BOSS Trunk 2p Gift Co Bóxer  Rojo  Bright Red 624   XX-Large  Pack de 2  para Hombre'
 actualPrice: 29.0 EUR
 currency: EUR
 price: 29.0

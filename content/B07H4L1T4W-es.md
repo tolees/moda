@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413N+Yi4gkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H4L1T4W-es'
+slug: 'B07H4L1T4W-es Nakosite DOG2433 Mejor Collar Antiladridos Perros para Pequeños medianos y Grandes  Bark Control Collar. Funciona Bien! Nueva tecnología!'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41yC-edHvbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NABWF99-es'
+slug: 'B01NABWF99-es Columbia Ponderay Chaqueta  Mujer  Blanco  White   S'
 actualPrice: 110.99 EUR
 currency: EUR
 price: 110.99

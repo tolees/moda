@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31aIKQZdypL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B015GLWLNQ-es'
+slug: 'B015GLWLNQ-es Ermenegildo Zegna Brillengestelle EZ5038 Monturas de gafas  Plateado  Silver   50.0 para Hombre'
 actualPrice: 27.84 EUR
 currency: EUR
 price: 27.84

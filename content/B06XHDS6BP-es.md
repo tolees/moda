@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41LTIOqRGgL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XHDS6BP-es'
+slug: 'B06XHDS6BP-es Helly Hansen Verglas Down Insulator Chaqueta de Down  Mujer  Color Negro  tamaño Medium'
 actualPrice: 125.56 EUR
 currency: EUR
 price: 125.56

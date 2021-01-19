@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41VtlkqltaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X86M5KN-es'
+slug: 'B07X86M5KN-es JACK & JONES Jcofort tee SS Crew Neck Camiseta  Blanco  White.Slim   X-Large para Hombre'
 actualPrice: 5.12 EUR
 currency: EUR
 price: 5.12

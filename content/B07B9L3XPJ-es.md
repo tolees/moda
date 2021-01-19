@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41s-gnQ4EOL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B9L3XPJ-es'
+slug: 'B07B9L3XPJ-es find. Parka Ligera Hombre  Beige  Stone   Large'
 actualPrice: 19.5 EUR
 currency: EUR
 price: 19.5

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41lT6o6RDDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TJ9VFM7-es'
+slug: 'B07TJ9VFM7-es NIKE W NP Tank Essential Swoosh Camiseta sin Mangas  Mujer  Black/ White   L'
 actualPrice: 14.4 EUR
 currency: EUR
 price: 14.4

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41JtASwxoML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N3SPBNC-es'
+slug: 'B07N3SPBNC-es Desigual Pullover MARYLEBONE Jersey  Negro  Storm Front 2104   L para Mujer'
 actualPrice: 23.84 EUR
 currency: EUR
 price: 23.84

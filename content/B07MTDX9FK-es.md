@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/415m4FJNfDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MTDX9FK-es'
+slug: 'B07MTDX9FK-es Marca Amazon - MERAKI Shorts de Natación Hombre  Turquesa  azul marino/turquesa .  M  Label: M'
 actualPrice: 9.14 EUR
 currency: EUR
 price: 9.14

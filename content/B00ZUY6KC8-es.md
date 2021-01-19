@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31OHKcm5WGL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ZUY6KC8-es'
+slug: 'B00ZUY6KC8-es REEF R2026ALB  Chanclas Hombre  Negro  Black / Silver   36 EU'
 actualPrice: 21.39 EUR
 currency: EUR
 price: 21.39

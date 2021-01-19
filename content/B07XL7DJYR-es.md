@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41CbS2t5ToL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XL7DJYR-es'
+slug: 'B07XL7DJYR-es Geographical Norway Parka Mujer Baby Ass A Negro 1'
 actualPrice: 65.0 EUR
 currency: EUR
 price: 65.0

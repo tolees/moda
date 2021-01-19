@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/310g8JjyhXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SBB8DYX-es'
+slug: 'B07SBB8DYX-es Crocs Crocband Flip Women  Chanclas para Mujer  Negro  Black 001   34/35 EU'
 actualPrice: 12.74 EUR
 currency: EUR
 price: 12.74

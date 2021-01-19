@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51lp9OWLhvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076CRQ3FQ-es'
+slug: 'B076CRQ3FQ-es Zapatillas Running para Hombre Aire Libre y Deporte Transpirables Casual Zapatos Gimnasio Correr Sneakers Naranja 44'
 actualPrice: 26.34 EUR
 currency: EUR
 price: 26.34

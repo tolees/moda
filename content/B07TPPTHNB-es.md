@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31fjuE6y+wL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TPPTHNB-es'
+slug: 'B07TPPTHNB-es Levi s Relaxed Graphic Hoodie Sudadera  Blanco  Boxtab Pop White 0022   XX-Large para Hombre'
 actualPrice: 43.13 EUR
 currency: EUR
 price: 43.13

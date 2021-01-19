@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51BxTL2qqIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VYZMJBX-es'
+slug: 'B07VYZMJBX-es Pepe Jeans Jerrod Camiseta  Azul  Indigo 561   X-Large para Hombre'
 actualPrice: 13.36 EUR
 currency: EUR
 price: 13.36

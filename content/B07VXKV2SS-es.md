@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41IQvP8Rm3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VXKV2SS-es'
+slug: 'B07VXKV2SS-es Tommy Hilfiger TJM Bold tee Camiseta  Azul  Exotic Teal Stripe 0a8   X-Large para Hombre'
 actualPrice: 21.24 EUR
 currency: EUR
 price: 21.24

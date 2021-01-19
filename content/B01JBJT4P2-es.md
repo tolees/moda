@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41tFN6MzZVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01JBJT4P2-es'
+slug: 'B01JBJT4P2-es Arena Cobra Core Gafas de natación  Unisex Adulto  Smoke/Red  Talla Única'
 actualPrice: 17.28 EUR
 currency: EUR
 price: 17.28

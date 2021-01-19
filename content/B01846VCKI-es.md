@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ivbL8ZXXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01846VCKI-es'
+slug: 'B01846VCKI-es Timberland 6 In Boot  Botas Altas para Hombre  Marrón  Brown Nubuck   43.5 EU'
 actualPrice: 112.35 EUR
 currency: EUR
 price: 112.35

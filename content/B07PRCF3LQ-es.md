@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51dMMasV9CL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PRCF3LQ-es'
+slug: 'B07PRCF3LQ-es Kipling Gleam S  Bolso de Tocador para Mujer  Verde  Seagrass   14x9.5x5.5 centimeters  B x H x T '
 actualPrice: 11.4 EUR
 currency: EUR
 price: 11.4

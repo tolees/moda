@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41r2ldcv1eL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LGYWCXQ-es'
+slug: 'B07LGYWCXQ-es JOINFREE Niños Niñas Nadar Zapatos para el Agua Deportes acuáticos Calcetines Zapatillas Zapatos para la Piscina  Unicornio Rosa 34-35 '
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

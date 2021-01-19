@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41acXs+XTYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077XQ5QM7-es'
+slug: 'B077XQ5QM7-es Under Armour Tech Graphic Short Pantalón Corto  Hombre  Azul  Academy/Steel 409   L'
 actualPrice: 19.63 EUR
 currency: EUR
 price: 19.63

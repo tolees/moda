@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Hrty3gWbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MJBHKQJ-es'
+slug: 'B07MJBHKQJ-es P Prettyia Moda Zapatillas de Tobillo de Alto Tacón Mini para Muñeca Muchachas 12 Pulgadas - Negro'
 actualPrice: 9.0 EUR
 currency: EUR
 price: 9.0

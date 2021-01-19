@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41q2MSfk-oL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BSQS2LF-es'
+slug: 'B07BSQS2LF-es oodji Ultra Hombre Camisa de Algodón con Cuello en Contraste  Azul  37'
 actualPrice: 9.1 EUR
 currency: EUR
 price: 9.1

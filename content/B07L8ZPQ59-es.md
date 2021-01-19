@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41xkET9EGZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L8ZPQ59-es'
+slug: 'B07L8ZPQ59-es REPLAY Anbass Vaqueros Slim  Negro  Blackboard 290   W36/L32  Talla del Fabricante: 36  para Hombre'
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

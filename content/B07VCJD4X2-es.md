@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417feMEZB-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VCJD4X2-es'
+slug: 'B07VCJD4X2-es Desigual Chaq villena Abrigo  Azul  Jeans Claro 5007   46  Talla del fabricante: 44  para Mujer'
 actualPrice: 56.9 EUR
 currency: EUR
 price: 56.9

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31XCNkxmivL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072F2QK4G-es'
+slug: 'B072F2QK4G-es G-STAR RAW Base Htr V T S/s 2-Pack Camiseta  Negro  Solid Black 2019   XX-Small para Hombre'
 actualPrice: 13.38 EUR
 currency: EUR
 price: 13.38

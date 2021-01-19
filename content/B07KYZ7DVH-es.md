@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41KW9LyTwAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KYZ7DVH-es'
+slug: 'B07KYZ7DVH-es Springfield 8.T.Kaftan Blusa  Multicolor  Varios 98   U  Tamaño del Fabricante:U  para Mujer'
 actualPrice: 5.34 EUR
 currency: EUR
 price: 5.34

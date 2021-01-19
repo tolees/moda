@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41RGJDOtIBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X7JGBRX-es'
+slug: 'B07X7JGBRX-es edc by Esprit 099CC1G030 Abrigo  Gris  Anthracite 010   XL para Mujer'
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

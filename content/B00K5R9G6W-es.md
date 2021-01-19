@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41LDQXjNJDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00K5R9G6W-es'
+slug: 'B00K5R9G6W-es Tommy Hilfiger 3p Lr Trunk Bóxer  Negro  Black 990   Small  Pack de 3  para Hombre'
 actualPrice: 27.49 EUR
 currency: EUR
 price: 27.49

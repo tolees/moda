@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/3193iVeVw6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TJXC3GB-es'
+slug: 'B07TJXC3GB-es Lacoste Sport Th3377 Camiseta  Azul  Marine/Citron 05e Ye4   X-Small  Talla del Fabricante: 2  para Hombre'
 actualPrice: 25.24 EUR
 currency: EUR
 price: 25.24

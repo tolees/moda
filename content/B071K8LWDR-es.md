@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51YyGcZ7uAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071K8LWDR-es'
+slug: 'B071K8LWDR-es Recién Nacido Pijama Algodón Mameluco Niñas Niños Peleles Sleepsuit Caricatura Trajes  0-3 Meses'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

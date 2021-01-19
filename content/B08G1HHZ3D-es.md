@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31K1pmj7a0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08G1HHZ3D-es'
+slug: 'B08G1HHZ3D-es Ocobudbxw Moda Mujer Lona Crossbody Messenger Cremallera Bolsos de Hombro Estudiantes Bolsos Escolares Bolsos'
 actualPrice: 11.3 EUR
 currency: EUR
 price: 11.3

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41Shsw8ZkLL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LF5XYRK-es'
+slug: 'B07LF5XYRK-es Levi s Barstow Western Camisa Vaquera  Negro  Bruised Indigo Mid 0318   Medium para Hombre'
 actualPrice: 60.46 EUR
 currency: EUR
 price: 60.46

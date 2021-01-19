@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/314RMCkRo1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFV95M5-es'
+slug: 'B07LFV95M5-es Geox D ANNYTAH D  Bailarinas para Mujer  Azul  Navy C4002   37 EU'
 actualPrice: 26.46 EUR
 currency: EUR
 price: 26.46

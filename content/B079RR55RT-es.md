@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BSk86sqGL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B079RR55RT-es'
+slug: 'B079RR55RT-es Pepe Jeans Jepson PM302995 Camisa  Azul  Black Wk2   Medium para Hombre'
 actualPrice: 34.49 EUR
 currency: EUR
 price: 34.49

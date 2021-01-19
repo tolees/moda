@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41sqQkKOsYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RC8KQSB-es'
+slug: 'B07RC8KQSB-es Columbia Pike Lake Chaqueta De Plumón con Capucha  Hombre  Azul  Dark Mountain/Jasper-Red   XXL'
 actualPrice: 63.52 EUR
 currency: EUR
 price: 63.52

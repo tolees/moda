@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41LC8q0yRUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0777VY7JV-es'
+slug: 'B0777VY7JV-es Tommy Hilfiger Original Triblend Camiseta  Rojo  Formula One 645   XX-Large para Hombre'
 actualPrice: 15.79 EUR
 currency: EUR
 price: 15.79

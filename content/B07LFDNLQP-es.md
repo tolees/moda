@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51XJLEWel8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFDNLQP-es'
+slug: 'B07LFDNLQP-es Levi s Slim 2pk Crewneck 1 Camiseta  Multicolor  2 Pack White + Blue Y/D/Blue + White Y/D Staple Stripe 0005   Medium  Pack de 2  para Hombre'
 actualPrice: 17.5 EUR
 currency: EUR
 price: 17.5

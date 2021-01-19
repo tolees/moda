@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31qoD8SIupL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V12WG1Q-es'
+slug: 'B07V12WG1Q-es Women s Secret Multilicense College MC DS Bunny PJ FR Conjuntos de Pijama  Gris  Gama Grises 44   X-Small  Tamaño del Fabricante: XS  para Mujer'
 actualPrice: 19.63 EUR
 currency: EUR
 price: 19.63

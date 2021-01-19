@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31E6Gpc3HuL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071VZD7QQ-es'
+slug: 'B071VZD7QQ-es Trangoworld Gyala Chaqueta  Mujer  Agua  2J1   L'
 actualPrice: 34.55 EUR
 currency: EUR
 price: 34.55

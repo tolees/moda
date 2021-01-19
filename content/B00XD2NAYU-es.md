@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41JGFNs%2BmPL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XD2NAYU-es'
+slug: 'B00XD2NAYU-es Pepe Jeans Spike Vaqueros  Azul  11OZ STREAKY STRETCH MED   W36/L32 para Hombre'
 actualPrice: 44.95 EUR
 currency: EUR
 price: 44.95

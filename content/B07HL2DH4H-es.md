@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/419UmndXrmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HL2DH4H-es'
+slug: 'B07HL2DH4H-es Ganchos Carrito Bebé  WELAVILA Cochecito Ganchos Clip para Bolso cambiadore y Bolsa de Compras  Ajuste Universal  Pack de 2  Negro'
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41tHzVok+gL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NDMXTQ4-es'
+slug: 'B07NDMXTQ4-es Esprit 049ee2k002 Camiseta  Azul  Blue 430   Medium para Hombre'
 actualPrice: 7.33 EUR
 currency: EUR
 price: 7.33

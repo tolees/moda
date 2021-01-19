@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31fyP8NBZOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01GWX255Q-es'
+slug: 'B01GWX255Q-es Geox U New Damon B  Mocasines para Hombre  Negro  BLACKC9999   39 EU'
 actualPrice: 75.96 EUR
 currency: EUR
 price: 75.96

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41X0WexwinL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SQGNKWT-es'
+slug: 'B07SQGNKWT-es Geox U Wells C  Zapatillas para Hombre  Gris  Lt Grey C1010   40 EU'
 actualPrice: 69.9 EUR
 currency: EUR
 price: 69.9

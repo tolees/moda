@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51UIXiVUPBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NS2W9BS-es'
+slug: 'B07NS2W9BS-es Camisetas Mujer SHOBDW Dia de la Mujer Verano Patchwork De Encaje Casual Ahuecar Volantes Manga Corta Suéter De Cuello De Tortuga Linda Blusa Floral Camiseta Blanca para Mujer Blanco XL '
 actualPrice: 5.59 EUR
 currency: EUR
 price: 5.59

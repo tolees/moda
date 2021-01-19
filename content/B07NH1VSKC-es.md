@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31KEGuMFxSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NH1VSKC-es'
+slug: 'B07NH1VSKC-es Marca Amazon - Iris & Lilly Tanga Mujer  Pack de 5  Rosa  Rosa   XXL  Label: XXL'
 actualPrice: 10.49 EUR
 currency: EUR
 price: 10.49

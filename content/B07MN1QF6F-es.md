@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-2VksPhNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MN1QF6F-es'
+slug: 'B07MN1QF6F-es The North Face Drew Peak Sudadera  Mujer  Azul  Azul tormenta   XS'
 actualPrice: 48.0 EUR
 currency: EUR
 price: 48.0

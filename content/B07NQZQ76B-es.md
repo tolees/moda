@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41FlgMcT+OL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NQZQ76B-es'
+slug: 'B07NQZQ76B-es PUMA Classics Logo Hoody TR Sudadera  Hombre  Medium Gray Heather  M'
 actualPrice: 27.82 EUR
 currency: EUR
 price: 27.82

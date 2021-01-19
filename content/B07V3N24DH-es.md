@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31kqk30j6bL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V3N24DH-es'
+slug: 'B07V3N24DH-es Tommy Hilfiger Corporate Leather Flat Sandal  Sandalias con Punta Abierta para Mujer  Blanco  Ivory Ybi   36 EU'
 actualPrice: 35.71 EUR
 currency: EUR
 price: 35.71

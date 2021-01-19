@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416eBCs0snL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0776ZRL7R-es'
+slug: 'B0776ZRL7R-es Tommy Hilfiger Original Jersey Camiseta  Azul  Black Iris 002   X-Small para Hombre'
 actualPrice: 19.15 EUR
 currency: EUR
 price: 19.15

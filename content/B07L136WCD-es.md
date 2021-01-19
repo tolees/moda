@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31fJxZ8A2SL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L136WCD-es'
+slug: 'B07L136WCD-es Under Armour AF Po Big Logo Graphic Sudadera  Hombre  Negro  LG'
 actualPrice: 36.17 EUR
 currency: EUR
 price: 36.17

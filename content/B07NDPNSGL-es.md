@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/414oH2ETBuL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NDPNSGL-es'
+slug: 'B07NDPNSGL-es G-STAR RAW Citishield Slim Chaqueta Vaquera  Negro  3D Cobler Processed WP A882   XX-Small para Hombre'
 actualPrice: 24.97 EUR
 currency: EUR
 price: 24.97

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Z4rTBg6BL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PQ43SZ9-es'
+slug: 'B07PQ43SZ9-es 8safe Bolso de Bebé Universal | Material de Alta Calidad Oxford 600D | Multi-Bolsillos | Cambiador Incluido GRATIS | Portabiberones'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

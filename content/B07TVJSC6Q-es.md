@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51Mi4urVifL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TVJSC6Q-es'
+slug: 'B07TVJSC6Q-es Timberland Camisa de Franela para Hombre  Manga Larga'
 actualPrice: 78.24 EUR
 currency: EUR
 price: 78.24

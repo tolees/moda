@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41vNJNf-0NL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01JARFMPG-es'
+slug: 'B01JARFMPG-es Replay Anbass  Vaqueros Slim para Hombre  Gris  Grey Denim 009   W34/L32'
 actualPrice: 53.49 EUR
 currency: EUR
 price: 53.49

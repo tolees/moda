@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41lxDdt59PL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TVTNQDG-es'
+slug: 'B07TVTNQDG-es Women s Secret Trendy Tapestry TT Green CLAS PJ FR Conjuntos de Pijama  Verde  Gama Verdes 29   X-Large  Tamaño del Fabricante: XL  para Mujer'
 actualPrice: 19.24 EUR
 currency: EUR
 price: 19.24

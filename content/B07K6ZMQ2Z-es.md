@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41XVA5blIiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K6ZMQ2Z-es'
+slug: 'B07K6ZMQ2Z-es Herrlicher Touch Cropped Vaqueros  Bliss 634  25W para Mujer'
 actualPrice: 45.76 EUR
 currency: EUR
 price: 45.76

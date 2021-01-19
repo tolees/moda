@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31TynLctg-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07771HWBW-es'
+slug: 'B07771HWBW-es Tommy Hilfiger Regular C Camiseta con Cuello Redondo  Azul  Black Iris   XL para Hombre'
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

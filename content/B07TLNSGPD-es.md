@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31e5TaiUAtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TLNSGPD-es'
+slug: 'B07TLNSGPD-es G-STAR RAW Earth Beetle Sudadera  Gris  Faded Balsam A983   X-Small para Mujer'
 actualPrice: 24.27 EUR
 currency: EUR
 price: 24.27

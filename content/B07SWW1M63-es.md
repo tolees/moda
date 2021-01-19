@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41JXeC20Z4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SWW1M63-es'
+slug: 'B07SWW1M63-es Vero Moda Vmava Plain SS Top Ga Noos Camiseta  Marrón  Coffee Bean Coffee Bean   36  Talla del Fabricante: X-Small  para Mujer'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

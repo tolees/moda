@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31pO+HakMfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073V3X4DF-es'
+slug: 'B073V3X4DF-es Jack & Jones Jjiglenn Jjfelix Am 046 50 SPS Noos Vaqueros Slim  Negro  Black Denim   W36/L36  Talla del Fabricante: 36  para Hombre'
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

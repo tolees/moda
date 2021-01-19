@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41bk2sHfeqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F25KYTV-es'
+slug: 'B07F25KYTV-es Amazon Essentials – Camisa Oxford de manga corta de corte recto para hombre  Gris  Grey Stripe Gre   US S  EU S '
 actualPrice: 3.39 EUR
 currency: EUR
 price: 3.39

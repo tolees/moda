@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31tGDfRxddL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TQNWG2L-es'
+slug: 'B07TQNWG2L-es Levi s 511 Slim Vaqueros  Gris Dark Slate Sueded Sateen WT B 4426  32W / 32L para Hombre'
 actualPrice: 44.5 EUR
 currency: EUR
 price: 44.5

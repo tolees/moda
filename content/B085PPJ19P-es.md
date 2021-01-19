@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ZdXnXxlUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085PPJ19P-es'
+slug: 'B085PPJ19P-es Timberland World Hiker Mid TB0A1W47K511'
 actualPrice: 55.04 EUR
 currency: EUR
 price: 55.04

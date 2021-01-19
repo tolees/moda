@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41P5qOrGCfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FB7NTLF-es'
+slug: 'B07FB7NTLF-es JACK & JONES Jjeholmen Sweat Zip Hood Noos Sudadera  Negro  Black Detail: PS   XXXX-Large para Hombre'
 actualPrice: 25.5 EUR
 currency: EUR
 price: 25.5

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41AAbQLOugL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BFJ2BOW-es'
+slug: 'B01BFJ2BOW-es Charles Wilson Camiseta Polo con Solapa de Contraste  Large  Teal '
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

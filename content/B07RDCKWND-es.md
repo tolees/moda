@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31KCpkBLQmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RDCKWND-es'
+slug: 'B07RDCKWND-es Tommy Hilfiger Corp Box Logo tee Camiseta Deporte  Azul  Blue Dw5   Small para Hombre'
 actualPrice: 30.64 EUR
 currency: EUR
 price: 30.64

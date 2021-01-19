@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41CB-Omq-VL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KYK21DJ-es'
+slug: 'B07KYK21DJ-es Mallalah Chaqueta de bebé niña Abrigo Trench Coat Sudadera con cinturón Princesa Niños Chaquetas Parka Ropa Prendas de Abrigo 0-4 años Primavera Otoño  XXS  Rojo '
 actualPrice: 6.07 EUR
 currency: EUR
 price: 6.07

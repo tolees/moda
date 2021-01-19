@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41IM6FiiBgL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZM9S4B-es'
+slug: 'B07MZM9S4B-es Pepe Jeans Auriga Chaqueta   Black 999   11-12  Talla del Fabricante: 11/12 años  para Niñas'
 actualPrice: 54.49 EUR
 currency: EUR
 price: 54.49

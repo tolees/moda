@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/410J09R5JYL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FK28KQD-es'
+slug: 'B07FK28KQD-es Lee Sherpa Jacket Chaqueta Vaquera  Azul  Vintage Worn   Large para Hombre'
 actualPrice: 78.03 EUR
 currency: EUR
 price: 78.03

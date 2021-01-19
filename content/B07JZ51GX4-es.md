@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41fDL%2BVzmyL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JZ51GX4-es'
+slug: 'B07JZ51GX4-es Tommy Hilfiger Recycled Short Puffer Chaqueta  Azul  Black Iris 002   74 para Bebés'
 actualPrice: 49.29 EUR
 currency: EUR
 price: 49.29

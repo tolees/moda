@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31TLszw6yWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FQTZXPJ-es'
+slug: 'B07FQTZXPJ-es Clarks Sharon Crystal  Zapatos de Cordones Derby para Mujer  Negro  Black-   37 EU'
 actualPrice: 23.45 EUR
 currency: EUR
 price: 23.45

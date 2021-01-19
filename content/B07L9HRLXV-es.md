@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31cJPEAmbNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L9HRLXV-es'
+slug: 'B07L9HRLXV-es Under Armour Accelerate Off-Pitch Pantalón  Hombre  Negro  SM'
 actualPrice: 21.81 EUR
 currency: EUR
 price: 21.81

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41pL-6khfnL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WGPQFKF-es'
+slug: 'B07WGPQFKF-es JACK & JONES JCOMILLA Sweat Hood Sudadera con Capucha  Multicolor  Light Grey Melange Detail:w. Black   S para Hombre'
 actualPrice: 25.21 EUR
 currency: EUR
 price: 25.21

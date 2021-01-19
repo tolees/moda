@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41B7bTqqAeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VC4Y7ZX-es'
+slug: 'B07VC4Y7ZX-es Calvin Klein Vegetable Dye Monogram Slim tee Camiseta  Gris  Antique Grey Ps7   Medium para Hombre'
 actualPrice: 13.74 EUR
 currency: EUR
 price: 13.74

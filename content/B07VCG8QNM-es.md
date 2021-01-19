@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31HZe2O-N-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VCG8QNM-es'
+slug: 'B07VCG8QNM-es Marca Amazon - find. Stitch Cardigan - chaqueta punto Mujer  Negro  Black   48  Label: 3XL'
 actualPrice: 12.37 EUR
 currency: EUR
 price: 12.37

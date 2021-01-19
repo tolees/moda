@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31gv30QI02L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079CCNGDS-es'
+slug: 'B079CCNGDS-es Jack & Jones Jjeplain tee SS V-Neck Noos Camiseta  Blanco  White Detail: Slim Fit   Small para Hombre'
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

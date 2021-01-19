@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41LVfg0DEoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WPWHZ4K-es'
+slug: 'B07WPWHZ4K-es Pepe Jeans Piccadilly 7/8 Vaqueros Straight  Azul  000denim 000   W24/L28  Talla del Fabricante: 24  para Mujer'
 actualPrice: 44.95 EUR
 currency: EUR
 price: 44.95

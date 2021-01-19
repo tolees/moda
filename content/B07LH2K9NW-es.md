@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Fg3UlF0yL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LH2K9NW-es'
+slug: 'B07LH2K9NW-es Gafas con Filtro Anti Luz Azul para Ordenador. Gafas de Presbicia o Lectura para Hombre y Mujer. Tacto Goma  Patillas Flexibles y Cristales Anti-reflejantes. Indigo +1.5 – UFFIZI'
 actualPrice: 24.9 EUR
 currency: EUR
 price: 24.9

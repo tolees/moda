@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/415gWOquOnL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01ET4MIKW-es'
+slug: 'B01ET4MIKW-es Helly Hansen Dubliner Jacket Chaqueta Chubasquero para Hombre de Uso Diario y para Actividades marítimas con la tecnología Helly Tech  Rojo  Bandera   S'
 actualPrice: 59.24 EUR
 currency: EUR
 price: 59.24

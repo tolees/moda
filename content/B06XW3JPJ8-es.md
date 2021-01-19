@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41RoIlDKYZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XW3JPJ8-es'
+slug: 'B06XW3JPJ8-es Huntvp Riñonera Táctica Mochila Deportiva Militar Bolso Cinturon Impermeable para Senderismo Ciclismo Camping Caza  Negro/Marrón'
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

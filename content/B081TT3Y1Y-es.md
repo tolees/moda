@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Ae-AvGtxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081TT3Y1Y-es'
+slug: 'B081TT3Y1Y-es adidas Con20 TR Jkt Chaqueta de Deporte  Hombre  Team Power Red  M'
 actualPrice: 34.8 EUR
 currency: EUR
 price: 34.8

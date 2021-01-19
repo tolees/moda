@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51EVO-YxwgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085HCFCQZ-es'
+slug: 'B085HCFCQZ-es Victorem Lebron James #23 Camiseta de Baloncesto para Hombres - NBA Lakers  Nuevo Tela Bordada Camiseta Deportivas de Jersey Swingman  Tamaño: S-XXL '
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31q+0h4P-OL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YNSYPBB-es'
+slug: 'B07YNSYPBB-es find. Hurrache Sandalias con Punta Cerrada  Rot  Orange Red   38 EU'
 actualPrice: 16.88 EUR
 currency: EUR
 price: 16.88

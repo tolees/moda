@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41JgoD02xHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SRJGJPK-es'
+slug: 'B07SRJGJPK-es Geox J POSEIDO Boy D  Zapatillas para Niños  Azul  Navy/Red C0735   36 EU'
 actualPrice: 26.36 EUR
 currency: EUR
 price: 26.36

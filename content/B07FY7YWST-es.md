@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41WlfEoxAlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FY7YWST-es'
+slug: 'B07FY7YWST-es Wrangler Kabel tee Camiseta  Blanco  White 312   X-Large para Hombre'
 actualPrice: 6.4 EUR
 currency: EUR
 price: 6.4

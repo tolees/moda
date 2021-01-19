@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/315M8BOU7CL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R1ZPYVF-es'
+slug: 'B07R1ZPYVF-es Under Armour  UNDKU I Will Multi Camisa Manga Corta  Hombre  Negro  MD'
 actualPrice: 15.97 EUR
 currency: EUR
 price: 15.97

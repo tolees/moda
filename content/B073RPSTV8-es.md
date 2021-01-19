@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41zv5nfDS0L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B073RPSTV8-es'
+slug: 'B073RPSTV8-es Star Wars HQ2017 Pijama de una Pieza  Niños  Azul  Navy   4 años  Tamaño del Fabricante:4Y '
 actualPrice: 5.07 EUR
 currency: EUR
 price: 5.07

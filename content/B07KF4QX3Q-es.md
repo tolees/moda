@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/414SOHSIrAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KF4QX3Q-es'
+slug: 'B07KF4QX3Q-es Levi s 511 Slim Fit Vaqueros  Norse Warp Cool 3721  31W / 32L para Hombre'
 actualPrice: 67.49 EUR
 currency: EUR
 price: 67.49

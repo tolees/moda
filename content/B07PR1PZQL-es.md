@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31+hUWA3C5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PR1PZQL-es'
+slug: 'B07PR1PZQL-es CARE OF by PUMA Sudadera con capucha de manga larga para hombre  ajuste alto  Rojo  Red   XS  Label: XS'
 actualPrice: 9.77 EUR
 currency: EUR
 price: 9.77

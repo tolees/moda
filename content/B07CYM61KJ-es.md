@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41FMiw3XhVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CYM61KJ-es'
+slug: 'B07CYM61KJ-es Levi s Graphic Set-in Neck  Camiseta para Hombre  Blanco  Levis Logo White 0424   S'
 actualPrice: 17.26 EUR
 currency: EUR
 price: 17.26

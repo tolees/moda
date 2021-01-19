@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21gHfMB6zUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L9T7H6L-es'
+slug: 'B07L9T7H6L-es Lacoste Croco Slide 319 4 US CMA  Sandalias de Punta Descubierta para Hombre  Blanco  White/Green   42 EU'
 actualPrice: 27.3 EUR
 currency: EUR
 price: 27.3

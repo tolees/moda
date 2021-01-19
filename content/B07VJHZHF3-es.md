@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41P5bMj18aL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VJHZHF3-es'
+slug: 'B07VJHZHF3-es Hackett London Amr Wings tee Camiseta  Naranja  158flame Orange 158   X-Large para Hombre'
 actualPrice: 22.26 EUR
 currency: EUR
 price: 22.26

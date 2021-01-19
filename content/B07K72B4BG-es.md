@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/414rzxd6WNL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K72B4BG-es'
+slug: 'B07K72B4BG-es Columbia WAYFINDER Outdry  Zapatos Multideporte para Mujer  Gris  Dark Mirage Red Quartz 412   37 EU'
 actualPrice: 83.99 EUR
 currency: EUR
 price: 83.99

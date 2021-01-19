@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Lv0t+yTaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HHNKCB2-es'
+slug: 'B07HHNKCB2-es Crocs Literide Clog  Zuecos Unisex Adulto  Azul  Navy/Pepper   37/38 EU'
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

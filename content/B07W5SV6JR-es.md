@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/419Rv0eEv8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W5SV6JR-es'
+slug: 'B07W5SV6JR-es Tommy Hilfiger Brooklyn Short Light Twill Vaqueros  Regatta Blue  28W / 30L para Hombre'
 actualPrice: 19.63 EUR
 currency: EUR
 price: 19.63

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Wv-K7nHhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BLBUG9M-es'
+slug: 'B00BLBUG9M-es Arena Hydrofit Man Hook Zapatos de Playa y Piscina  Hombre  Negro Black 056  40 EU'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

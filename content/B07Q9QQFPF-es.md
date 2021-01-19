@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51eCZ5u3fqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q9QQFPF-es'
+slug: 'B07Q9QQFPF-es Zapatillas Hombres Deporte Running Zapatos para Correr Gimnasio Sneakers Zapatos de Baloncesto para Hombre  3  38 EU'
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

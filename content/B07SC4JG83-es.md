@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31nrf+pJxiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SC4JG83-es'
+slug: 'B07SC4JG83-es Levi s 724 High Rise Straight Vaqueros  Azul  London Bridge 0044   W30/L30  Talla del Fabricante: 30 30  para Mujer'
 actualPrice: 68.49 EUR
 currency: EUR
 price: 68.49

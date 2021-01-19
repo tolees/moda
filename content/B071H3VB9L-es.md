@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41gOA8IZ6HL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071H3VB9L-es'
+slug: 'B071H3VB9L-es find. Botines con Suela de Crepe Estilo Óxford para Hombre  Negro  Black   44 EU'
 actualPrice: 22.12 EUR
 currency: EUR
 price: 22.12

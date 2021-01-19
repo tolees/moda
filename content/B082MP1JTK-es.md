@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/411obqWyiIL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B082MP1JTK-es'
+slug: 'B082MP1JTK-es Geographical Norway Chaqueta Mujer Abby Negro 02'
 actualPrice: 99.9 EUR
 currency: EUR
 price: 99.9

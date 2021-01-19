@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31TBliuV3tL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P96RF5C-es'
+slug: 'B07P96RF5C-es DANISH ENDURANCE Calzoncillos Bóxer de Deporte Pack de 3  Negro  Medium '
 actualPrice: 16.95 EUR
 currency: EUR
 price: 16.95

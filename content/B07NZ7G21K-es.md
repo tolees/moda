@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21iykMaEORL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NZ7G21K-es'
+slug: 'B07NZ7G21K-es adidas Ultimate Adistar Skort Falda  Blanco  Blanco Dq2127   Small  Tamaño del Fabricante:S  para Mujer'
 actualPrice: 38.22 EUR
 currency: EUR
 price: 38.22

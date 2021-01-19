@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41yyoqvP45L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFNSH52-es'
+slug: 'B07LFNSH52-es Levi s The Perfect Tee  Camiseta  Mujer  Azul  Hsmk Red Flock Sodalite Blue 0617   XS'
 actualPrice: 14.84 EUR
 currency: EUR
 price: 14.84

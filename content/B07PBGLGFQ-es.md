@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41CM63UqFHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PBGLGFQ-es'
+slug: 'B07PBGLGFQ-es Marca Amazon - find. Vestido Estampado con Cinturón Anudado Mujer  Azul  BLUE   42  Label: L'
 actualPrice: 8.48 EUR
 currency: EUR
 price: 8.48

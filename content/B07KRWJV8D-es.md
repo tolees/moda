@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31wph0En27L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KRWJV8D-es'
+slug: 'B07KRWJV8D-es Columbia Silver Ridge 2.0 Camisa de Manga Larga  Mujer  Beige  Fossil   M'
 actualPrice: 39.49 EUR
 currency: EUR
 price: 39.49

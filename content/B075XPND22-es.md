@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51TqeNsZSIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075XPND22-es'
+slug: 'B075XPND22-es Amaza Disfraz Años 80 Mujer Accesorios Guantes Calentadores Collares Pendientes Diademas'
 actualPrice: 9.98 EUR
 currency: EUR
 price: 9.98

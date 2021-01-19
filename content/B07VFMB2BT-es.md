@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41dtQwrGqiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VFMB2BT-es'
+slug: 'B07VFMB2BT-es edc by Esprit 099cc2k009 Camiseta  Blanco  White 100   Small para Hombre'
 actualPrice: 6.06 EUR
 currency: EUR
 price: 6.06

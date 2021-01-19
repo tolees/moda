@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31p+URp4BbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072BZYSRF-es'
+slug: 'B072BZYSRF-es Only onlRAIN REG Skinny Jeans CRY6060 Noos Vaqueros  Negro  Black Denim   38 /L32  Talla del Fabricante: Medium  para Mujer'
 actualPrice: 18.89 EUR
 currency: EUR
 price: 18.89

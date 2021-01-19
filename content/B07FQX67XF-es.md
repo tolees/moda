@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/3123FLOSl9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FQX67XF-es'
+slug: 'B07FQX67XF-es Clarks Tri Chloe  Sandalias de Talón Abierto para Mujer  Verde  Olive-   42 EU'
 actualPrice: 34.91 EUR
 currency: EUR
 price: 34.91

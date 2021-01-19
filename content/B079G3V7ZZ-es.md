@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31mci5PEY3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079G3V7ZZ-es'
+slug: 'B079G3V7ZZ-es Under Armour Sportstyle Pantalones para Hombre de algodón con Logotipo  pantalón Corto Ultraligero y Transpirable  cómodo y Ancho pantalón Deportivo  Black/White  001   LG'
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

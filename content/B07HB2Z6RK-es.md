@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/61JfFrJS%2BkL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HB2Z6RK-es'
+slug: 'B07HB2Z6RK-es Guantes Anticorte para Niños  Herefun Guantes Resistentes a Cortes Nivel 5 Seguridad para Cocina Trabajo Mecanico y Jardín  Guantes Resistentes para Niños al Corte de Proteccion Certificación'
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

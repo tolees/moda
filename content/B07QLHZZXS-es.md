@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41iO4thXjnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QLHZZXS-es'
+slug: 'B07QLHZZXS-es Mujer Pantalones Cortos Verano Elásticos Mallas Pantalones Patchwork Moda Cortos Pantalones Fitness Mallas Gym Yoga Slim Fit Pants Leggings Cintura Alta Deportivos Running Aptitud Mayas vpass'
 actualPrice: 1.45 EUR
 currency: EUR
 price: 1.45

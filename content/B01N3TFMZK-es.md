@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41JMG3diVPL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N3TFMZK-es'
+slug: 'B01N3TFMZK-es Tous Jacalanda Brunock Chain  Bolso Bandolera para Mujer   Negro 595900009   19.5x14.5x7 cm  W x H x L '
 actualPrice: 44.5 EUR
 currency: EUR
 price: 44.5

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41kipuVMZ2L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B003Y6ZFKW-es'
+slug: 'B003Y6ZFKW-es Urban Classics Chaqueta Lana Negro S'
 actualPrice: 17.65 EUR
 currency: EUR
 price: 17.65

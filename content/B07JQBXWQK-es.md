@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31TGC9k2FNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JQBXWQK-es'
+slug: 'B07JQBXWQK-es Jack & Jones Jjitom Jjoriginal Am 815 STS Vaqueros Skinny  Azul  Blue Denim Blue Denim   W30/L34  Talla del Fabricante: 30  para Hombre'
 actualPrice: 19.59 EUR
 currency: EUR
 price: 19.59

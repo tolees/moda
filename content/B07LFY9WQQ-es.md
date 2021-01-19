@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31l9nwXfhJL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFY9WQQ-es'
+slug: 'B07LFY9WQQ-es Geox U Renan B  Zapatillas para Hombre  Marrón  Mud C6372   40 EU'
 actualPrice: 36.84 EUR
 currency: EUR
 price: 36.84

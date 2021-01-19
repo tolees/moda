@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31PG6KD2fFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079VJSPF6-es'
+slug: 'B079VJSPF6-es Clarks Un Aldric Cap  Zapatos de Cordones Derby para Hombre  Negro  Black Leather-   45 EU'
 actualPrice: 66.91 EUR
 currency: EUR
 price: 66.91

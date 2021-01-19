@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41htj8XJH3L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HEXEBVE-es'
+slug: 'B01HEXEBVE-es Crocs Classic Clog Kids Roomy fit Zuecos Unisex niños  Naranja  Tangerine   33/34 EU'
 actualPrice: 18.89 EUR
 currency: EUR
 price: 18.89

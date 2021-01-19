@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41UM2O6500L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076P8L5SF-es'
+slug: 'B076P8L5SF-es HAPPY MAMA. Mujer Sudadera Capucha Lactancia Premamá Bolsillo de Canguro. 324p  Frambuesa  44  2XL '
 actualPrice: 16.12 EUR
 currency: EUR
 price: 16.12

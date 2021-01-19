@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41q8I0hCJhL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KF3BW5F-es'
+slug: 'B07KF3BW5F-es Levi s The Perfect Tee  Camiseta  Mujer  Rosa  Sptwr Logo Color Pink Lady 0723   2XS'
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ZVBngPx-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W4QKP4G-es'
+slug: 'B07W4QKP4G-es BAIGIO Riñonera de Cuero Hombre Mujer de Moda Bolsa Cinturón Piel Vintage Bolsos para Teléfonos Bandolera Multifuncional Bolsillos Ajustable Bolso de Cintura Casual Viajar Acampada  Marrón '
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61psrAtWXXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G5YBGSC-es'
+slug: 'B07G5YBGSC-es YDFYX Pierna Bolsa Multifuncional de Nailon Bolso para Viaje Senderismo Escalada Ciclismo Camping Montando en Bici Motocicleta Pack'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

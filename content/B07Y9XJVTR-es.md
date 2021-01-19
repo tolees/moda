@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31t1oLQHPWL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y9XJVTR-es'
+slug: 'B07Y9XJVTR-es Castellanisimos Zapatos Náuticos de Piel Marron Hombre con Cordones'
 actualPrice: 64.0 EUR
 currency: EUR
 price: 64.0

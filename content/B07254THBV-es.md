@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41xu2FsrjaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07254THBV-es'
+slug: 'B07254THBV-es WenVen Chaqueta Casual de Algodón para Invierno para Hombre Small Negro'
 actualPrice: 54.03 EUR
 currency: EUR
 price: 54.03

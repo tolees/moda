@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41vaMocxh3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01ERU4BQ2-es'
+slug: 'B01ERU4BQ2-es Joma - Sudadera campus ii 1/2 cremallera royal para hombre  Gris Melange Oscuro - 159  3XS'
 actualPrice: 15.37 EUR
 currency: EUR
 price: 15.37

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-sSjOcU5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VYV2YLY-es'
+slug: 'B07VYV2YLY-es Superdry Hombre Chaqueta de chándal Off-Piste Ultravioleta L'
 actualPrice: 45.0 EUR
 currency: EUR
 price: 45.0

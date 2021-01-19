@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Jvf6-wWCL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N4FF1LT-es'
+slug: 'B01N4FF1LT-es Columbia Pouring Adventure II Chaqueta para Lluvia  Hombre  Negro  Talla: M'
 actualPrice: 54.49 EUR
 currency: EUR
 price: 54.49

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/510iPwv40NL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B081S8NG5S-es'
+slug: 'B081S8NG5S-es Disney Frozen 2 - Camisa de Noche con Volante - Full Print - Elsa y Anna - Niña - 4/8 años Azzurro Elsa 128 cm 8 años '
 actualPrice: 19.94 EUR
 currency: EUR
 price: 19.94

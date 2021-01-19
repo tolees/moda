@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411ahlQNAqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TNVPM33-es'
+slug: 'B07TNVPM33-es Clarks Flex Sun  Sandalias de Talón Abierto para Mujer  Amarillo  Amber Suede Amber Suede   35.5 EU'
 actualPrice: 43.28 EUR
 currency: EUR
 price: 43.28

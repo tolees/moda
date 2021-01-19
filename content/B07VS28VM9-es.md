@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412pqmuYG8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VS28VM9-es'
+slug: 'B07VS28VM9-es Izod Faux Down Hooded Parka  Azul  Navy Blazer 410   S para Hombre'
 actualPrice: 101.16 EUR
 currency: EUR
 price: 101.16

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41et9ii9UoL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SPM21F6-es'
+slug: 'B07SPM21F6-es LOHOTEK Zapatillas Hombres Zapatos Deportivos para Hombres - Zapatos Casuales para Caminar Antideslizantes de Moda Zapatos Deportivas Atléticos al Aire Libre Gimnasio  47EU  Negro '
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

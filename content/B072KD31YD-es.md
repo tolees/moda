@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31aclnH-7zL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072KD31YD-es'
+slug: 'B072KD31YD-es Lee Morton Vaqueros Rectos  Negro  Black Rinse YC47   29W / 32L para Hombre'
 actualPrice: 19.73 EUR
 currency: EUR
 price: 19.73

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41B0piD92qL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JGJ5MXX-es'
+slug: 'B07JGJ5MXX-es Pepe Jeans Carter Pb502479 Camiseta   Chambray 564   4-5 años  Talla del Fabricante: 104/4 años  para Niños'
 actualPrice: 10.07 EUR
 currency: EUR
 price: 10.07

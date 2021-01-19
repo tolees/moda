@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41WDVfQZtCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NC1SD26-es'
+slug: 'B07NC1SD26-es Dorina Casablanca Maillot De Bain Braguita de Bikini  Negro  Black V00   135  Talla del Fabricante: L 44/46  para Mujer'
 actualPrice: 3.0 EUR
 currency: EUR
 price: 3.0

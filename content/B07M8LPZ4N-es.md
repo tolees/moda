@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41SoztjlZYL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M8LPZ4N-es'
+slug: 'B07M8LPZ4N-es Wrangler Graphic Logo tee Camiseta  Marfil  Off White 737   Small para Hombre'
 actualPrice: 17.48 EUR
 currency: EUR
 price: 17.48

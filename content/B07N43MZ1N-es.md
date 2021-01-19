@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416EkfdAO7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N43MZ1N-es'
+slug: 'B07N43MZ1N-es Tommy Hilfiger Tommy Hooded Parka Chaqueta   Jet Black Base   X-Large para Hombre'
 actualPrice: 164.0 EUR
 currency: EUR
 price: 164.0

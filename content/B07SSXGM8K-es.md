@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51HvKe4434L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SSXGM8K-es'
+slug: 'B07SSXGM8K-es BeiaMina Mujer Zapatos Moda Tacón Alto Sandalias Plataforma Fiesta Zapatos Tacón Ancho Verano Zapatos Glitter White Talla 39 Asiática'
 actualPrice: 21.66 EUR
 currency: EUR
 price: 21.66

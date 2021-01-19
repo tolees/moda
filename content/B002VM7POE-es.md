@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41nJJaf-71L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002VM7POE-es'
+slug: 'B002VM7POE-es CATWALK COLLECTION - MARTINA - Bolso de mano - Cuero - Blanco'
 actualPrice: 69.95 EUR
 currency: EUR
 price: 69.95

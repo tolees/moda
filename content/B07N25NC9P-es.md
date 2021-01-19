@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31WxJQKy87L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N25NC9P-es'
+slug: 'B07N25NC9P-es Seidensticker X-Slim Fit Langarm Mit Business Kent-Kragen Bügelfrei Uni-100% Baumwolle Camisa  Azul  Hellblau 11   38  Talla del Fabricante: 36  para Hombre'
 actualPrice: 18.94 EUR
 currency: EUR
 price: 18.94

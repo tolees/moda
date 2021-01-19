@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41r3KRXXI5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F31RL4Q-es'
+slug: 'B07F31RL4Q-es Helly Hansen Moss Jacket Chaqueta  Hombre  Blaze Orange  M'
 actualPrice: 41.49 EUR
 currency: EUR
 price: 41.49

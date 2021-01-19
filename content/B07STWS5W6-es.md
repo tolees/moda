@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41LYSGUtmCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07STWS5W6-es'
+slug: 'B07STWS5W6-es Roxy - Sandalias - Mujer - EU 40 - Rosa'
 actualPrice: 20.66 EUR
 currency: EUR
 price: 20.66

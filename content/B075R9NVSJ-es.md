@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41igbEO33NL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075R9NVSJ-es'
+slug: 'B075R9NVSJ-es Vero Moda Vmava Plain SS Top Ga Noos Camiseta  Gris  Asphalt Asphalt   44  Talla del Fabricante: X-Large  para Mujer'
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49

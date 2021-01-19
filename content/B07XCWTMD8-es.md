@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31GlhL7S88L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XCWTMD8-es'
+slug: 'B07XCWTMD8-es PUMA Nu-Tility Fitted tee Camiseta  Mujer  White  L'
 actualPrice: 10.75 EUR
 currency: EUR
 price: 10.75

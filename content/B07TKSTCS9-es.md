@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41iD2ZKpuuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TKSTCS9-es'
+slug: 'B07TKSTCS9-es Clarks Un Palma Vibe  Sandalias de Talón Abierto para Mujer  Gris  Taupe Leather Taupe Leather   35.5 EU'
 actualPrice: 36.15 EUR
 currency: EUR
 price: 36.15

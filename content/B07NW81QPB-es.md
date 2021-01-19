@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/418Xqz8Ij9L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NW81QPB-es'
+slug: 'B07NW81QPB-es Skechers Keepsakes 2.0 Botines Mujer  Morado  Mauve Suede Mve   37 EU'
 actualPrice: 36.49 EUR
 currency: EUR
 price: 36.49

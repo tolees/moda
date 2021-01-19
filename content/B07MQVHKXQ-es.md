@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41mxX7hjTxL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MQVHKXQ-es'
+slug: 'B07MQVHKXQ-es Napapijri Bra FZH Sudadera  Gris  Dark Grey Mel 197   XL para Mujer'
 actualPrice: 26.12 EUR
 currency: EUR
 price: 26.12

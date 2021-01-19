@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41+Un745sAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N3VXB6Y-es'
+slug: 'B07N3VXB6Y-es Desigual Dress Marian Vestido  Multicolor  Crudo 1001   40 para Mujer'
 actualPrice: 71.42 EUR
 currency: EUR
 price: 71.42

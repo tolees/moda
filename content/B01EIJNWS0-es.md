@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/418-9muJ0pL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01EIJNWS0-es'
+slug: 'B01EIJNWS0-es Rieker Hombre Botines B1340  de Caballero Botas Chukka  Medias Botas  botín con Cordones Nuss 40 EU / 6.5 UK'
 actualPrice: 26.95 EUR
 currency: EUR
 price: 26.95

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41J4SNvzhaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D44RBVH-es'
+slug: 'B07D44RBVH-es Marca Amazon - find. Chunky Gumsole Heavy Rand Botas Chelsea  Gris Taupe  39 EU'
 actualPrice: 17.71 EUR
 currency: EUR
 price: 17.71

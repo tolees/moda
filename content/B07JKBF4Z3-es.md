@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41SryWru-uL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JKBF4Z3-es'
+slug: 'B07JKBF4Z3-es PET MAGASIN Transportín de Mascotas Plegable – Bolsa de Transporte Acolchada con Lados Blandos – Bolso de Viaje para Perros pequeños  Gatos y Cachorros  ventilación Superior  Grande  Pink '
 actualPrice: 14.39 EUR
 currency: EUR
 price: 14.39

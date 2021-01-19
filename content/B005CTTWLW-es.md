@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41NsREUw4HL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005CTTWLW-es'
+slug: 'B005CTTWLW-es Schott NYC Lc1380 Chaqueta  Negro  Black    Taille Fabricant: XXL Taille Fabricant XXL  para Hombre'
 actualPrice: 213.0 EUR
 currency: EUR
 price: 213.0

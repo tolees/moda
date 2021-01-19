@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/515p5j1Q3tL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086WYQ9S2-es'
+slug: 'B086WYQ9S2-es AARDIMI - Sandalias para mujer  sandalias con tacón plano  tobilleras redondas  zapatos informales  35-43  color Rojo  talla 38 EU'
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

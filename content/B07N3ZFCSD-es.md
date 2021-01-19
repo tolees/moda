@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41gEGn+IUyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N3ZFCSD-es'
+slug: 'B07N3ZFCSD-es Marca Amazon - find. Camisa de Manga Larga de Algodón Hombre  Gris  Lt Grey   M  Label: M'
 actualPrice: 3.66 EUR
 currency: EUR
 price: 3.66

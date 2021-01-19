@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41jIArDukcL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B074RDFDB6-es'
+slug: 'B074RDFDB6-es Red Tape Holker Zapatos de cordones derby hombre  Negro  Black   43 EU  9 UK '
 actualPrice: 19.75 EUR
 currency: EUR
 price: 19.75

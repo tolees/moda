@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31+pVBpHRQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V4QCTJR-es'
+slug: 'B07V4QCTJR-es Superdry Classic Trunk Triple Pack Bóxer  Gris  Grey Marl Multipack 1sc   XL para Hombre'
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

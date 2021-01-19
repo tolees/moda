@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51HP1pm1T8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082MFLWR1-es'
+slug: 'B082MFLWR1-es BAIGIO Embrague de la Tarde Bling Glitter Purse Triángulo Diseño Monedero de la Boda Bolso para Fiesta de Graduación Señoras Bolso de Embrague de Noche de Diamantes de Imitación  Plateado '
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

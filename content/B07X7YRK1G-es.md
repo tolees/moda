@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41B7sJ3QPIL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X7YRK1G-es'
+slug: 'B07X7YRK1G-es Camper Neuman K300170-008 Botines Hombre 43'
 actualPrice: 115.0 EUR
 currency: EUR
 price: 115.0

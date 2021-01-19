@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31sv5CBohhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076HMRN6L-es'
+slug: 'B076HMRN6L-es adidas Core 18 T Camiseta  Hombre  Verde  Bold Green/Black   M'
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

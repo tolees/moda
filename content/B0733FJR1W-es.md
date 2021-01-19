@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41mTgEH5boL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0733FJR1W-es'
+slug: 'B0733FJR1W-es Marca Amazon - find. Sudadera de Tacto Suave para Hombre  Gris  Charcoal Marl   S  Label: S'
 actualPrice: 6.42 EUR
 currency: EUR
 price: 6.42

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/315eiI9kVXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MVBY81F-es'
+slug: 'B07MVBY81F-es Napapijri Berber C Sudadera  Verde  Green Forest 2 GE3   X-Large para Hombre'
 actualPrice: 35.6 EUR
 currency: EUR
 price: 35.6

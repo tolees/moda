@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41UY8hkumPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VCG1H4D-es'
+slug: 'B07VCG1H4D-es Desigual TS varsovia Camiseta  Azul  Estate Blue 5016   Medium para Mujer'
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

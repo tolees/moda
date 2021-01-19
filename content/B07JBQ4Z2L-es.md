@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31yZ+0Zk1sL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JBQ4Z2L-es'
+slug: 'B07JBQ4Z2L-es Columbia Powder Lite  Chaqueta  Mujer  C142Cirrus Grey Sparkler Print Talla S'
 actualPrice: 50.36 EUR
 currency: EUR
 price: 50.36

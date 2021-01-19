@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41yJ8hsK5bL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B074FYNDBG-es'
+slug: 'B074FYNDBG-es PAW PATROL HQ7208.E00.B  Pijama de Una Pieza para Niños  Multicolor '
 actualPrice: 5.89 EUR
 currency: EUR
 price: 5.89

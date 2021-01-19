@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41U8U7qb0VL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KSQPTLQ-es'
+slug: 'B07KSQPTLQ-es Under Armour Mfo Train Daily SS Camiseta  Hombre  Negro  Black/White 001   S'
 actualPrice: 10.12 EUR
 currency: EUR
 price: 10.12

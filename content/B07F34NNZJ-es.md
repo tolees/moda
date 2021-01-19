@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Gk-k5DbrL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F34NNZJ-es'
+slug: 'B07F34NNZJ-es Recién nacido Bebé Pijama de Algodón Mameluco Niños Pelele Mono Manga Larga Trajes 0-3 Meses'
 actualPrice: 13.97 EUR
 currency: EUR
 price: 13.97

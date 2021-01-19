@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41fu3AmXKdL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZZGH816-es'
+slug: 'B07ZZGH816-es Charles Wilson Jersey de Punto Fino de Algodón Cuello Pico para Hombre  Small  Yellow  1119  '
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

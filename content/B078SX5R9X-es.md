@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-YgUBs0fL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078SX5R9X-es'
+slug: 'B078SX5R9X-es Timberland Malibu Waves  Sandalias para Mujer  Marrón  Rust Nubuck   41 EU'
 actualPrice: 52.99 EUR
 currency: EUR
 price: 52.99

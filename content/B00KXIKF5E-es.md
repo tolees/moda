@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ZDp-9hqIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KXIKF5E-es'
+slug: 'B00KXIKF5E-es Under Armour Raid Shorts Pantalones para hombre  pantalón corto ultraligero y transpirable  anchos pantalones cortos deportivos de secado rápido  Black/Graphite  001   XL'
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

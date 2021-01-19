@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41PTfnfoYAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076D9X6CY-es'
+slug: 'B076D9X6CY-es adidas CORE18 STD JKT Chaqueta de Deporte  Hombre  Black/White  XL'
 actualPrice: 60.98 EUR
 currency: EUR
 price: 60.98

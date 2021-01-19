@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416wG2FwYNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YMXZBM1-es'
+slug: 'B07YMXZBM1-es Hurley M One&Only Solid tee Camiseta  Hombre  Camelia  L'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

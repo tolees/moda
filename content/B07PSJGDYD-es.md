@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41R3veGKb0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PSJGDYD-es'
+slug: 'B07PSJGDYD-es Kipling New Hiphurray  Bolso Saco para Mujer  Azul  Stone Blue Block   39x43x0.1 centimeters  B x H x T '
 actualPrice: 17.5 EUR
 currency: EUR
 price: 17.5

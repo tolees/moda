@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31KQNFs7ztL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TPXZJLD-es'
+slug: 'B07TPXZJLD-es Clarks Un Adorn Calm  Sandalias de Talón Abierto para Mujer  Beige  Off White Lea Off White Lea   40 EU'
 actualPrice: 34.14 EUR
 currency: EUR
 price: 34.14

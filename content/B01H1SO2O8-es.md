@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/412yPMRzHsL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01H1SO2O8-es'
+slug: 'B01H1SO2O8-es Nike Flat Front 833194 Pantalón Largo de Golf  Hombre  Morado  36/32'
 actualPrice: 42.09 EUR
 currency: EUR
 price: 42.09

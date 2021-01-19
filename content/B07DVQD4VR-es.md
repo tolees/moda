@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41sSJuhUQvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DVQD4VR-es'
+slug: 'B07DVQD4VR-es Collar de árbol de la vida y la familia con búho de circonitas y cadena  de GOXO'
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/415e8oO2NjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q3GY97P-es'
+slug: 'B07Q3GY97P-es Dockers by Gerli 43ln201  Botines para Mujer  Marrón  Braun 300   40 EU'
 actualPrice: 18.31 EUR
 currency: EUR
 price: 18.31

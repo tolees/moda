@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51kFyBjFWKL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NBH4QND-es'
+slug: 'B01NBH4QND-es Realer - Bolso de asas de sintético para mujer negro negro'
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

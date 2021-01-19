@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31o+otR4MiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KFWZDYQ-es'
+slug: 'B07KFWZDYQ-es PUMA Auriz  Zapatos de Futsal para Hombre  White-Green Glimmer  41 EU'
 actualPrice: 28.9 EUR
 currency: EUR
 price: 28.9

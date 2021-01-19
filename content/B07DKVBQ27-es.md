@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/417gLXsZH4L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DKVBQ27-es'
+slug: 'B07DKVBQ27-es Lacoste Sport Th3377 Camiseta  Plateado  Argent Chiné/Noir Y5j   Medium  Talla del Fabricante: 4  para Hombre'
 actualPrice: 30.79 EUR
 currency: EUR
 price: 30.79

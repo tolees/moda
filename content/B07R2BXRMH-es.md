@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Qq9We39dL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R2BXRMH-es'
+slug: 'B07R2BXRMH-es Wrangler LS 1pkt Shirt Camisa  Azul  Cobalt Blue B09   Medium para Hombre'
 actualPrice: 13.17 EUR
 currency: EUR
 price: 13.17

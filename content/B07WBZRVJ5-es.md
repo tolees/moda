@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41v1g7CCuOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WBZRVJ5-es'
+slug: 'B07WBZRVJ5-es Jack & Jones JORDUSTO Sweat Hood Sudadera con Capucha  Gris  Light Grey Melange Fit: Reg JJ   XL para Hombre'
 actualPrice: 10.28 EUR
 currency: EUR
 price: 10.28

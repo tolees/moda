@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/416DJ69O17L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CNNT328-es'
+slug: 'B07CNNT328-es Diesel UMLT-JAKE  Camiseta para Hombre  Negro  Black 900/0darx   XL'
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

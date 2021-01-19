@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41N0YYnU5JL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WZTD6Q1-es'
+slug: 'B07WZTD6Q1-es Peppa Pig Camiseta de Manga Corta Paquete de 2 para niñas Multicolor 7-8 Años'
 actualPrice: 12.95 EUR
 currency: EUR
 price: 12.95

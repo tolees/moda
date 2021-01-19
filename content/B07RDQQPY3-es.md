@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41uO3EnjYcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RDQQPY3-es'
+slug: 'B07RDQQPY3-es Tommy Hilfiger TJM Split Box tee Camiseta Deporte  Azul  Blue Cbk   Large para Hombre'
 actualPrice: 14.3 EUR
 currency: EUR
 price: 14.3

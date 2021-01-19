@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41e-nYD0HAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XDCJYLD-es'
+slug: 'B06XDCJYLD-es EverVanz Bolsa de Viaje Lona  Gran tamaño Bolso del Fin de Semana con Decoración De Cuero  Vintage Bolsas de Deporte para Actividades al Aire Libre  Gran Capacidad Bolso para Overnight'
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

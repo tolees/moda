@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41PkF1oY82L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NXZZS82-es'
+slug: 'B07NXZZS82-es Pierre Cardin Antibes Raw Denim Vaqueros Slim  Blau  Blau 53   42W x 32L para Hombre'
 actualPrice: 53.11 EUR
 currency: EUR
 price: 53.11

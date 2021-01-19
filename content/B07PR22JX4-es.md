@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31n+C9rhpVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PR22JX4-es'
+slug: 'B07PR22JX4-es Under Armour Challenger III Training Top Transpirable para Hacer Deporte  Camiseta para Hombre  Rojo  MD'
 actualPrice: 14.49 EUR
 currency: EUR
 price: 14.49

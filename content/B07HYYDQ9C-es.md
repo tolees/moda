@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/21K8-2g92EL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HYYDQ9C-es'
+slug: 'B07HYYDQ9C-es HAWKERS · CLASSIC · Burgundy Pink · Dark · Gafas de sol para hombre y mujer'
 actualPrice: 20.28 EUR
 currency: EUR
 price: 20.28

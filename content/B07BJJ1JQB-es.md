@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41JjLMfF9LL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BJJ1JQB-es'
+slug: 'B07BJJ1JQB-es G-STAR RAW ARC 3D Mid Waist Skinny Vaqueros  Azul  dk Aged 8968-89   25W / 32L para Mujer'
 actualPrice: 27.49 EUR
 currency: EUR
 price: 27.49

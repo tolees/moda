@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31vtDeqEevL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N5HR3SC-es'
+slug: 'B01N5HR3SC-es Crocs Flip Flops  Chanclas Unisex Adulto  Azul  Navy/Cerulean Blue   36/37 EU'
 actualPrice: 25.95 EUR
 currency: EUR
 price: 25.95

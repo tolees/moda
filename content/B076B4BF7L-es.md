@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41zhbQkvfmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076B4BF7L-es'
+slug: 'B076B4BF7L-es Geox D Nebula A  Zapatillas para Mujer  Rosa  Antique Rose   38 EU'
 actualPrice: 80.9 EUR
 currency: EUR
 price: 80.9

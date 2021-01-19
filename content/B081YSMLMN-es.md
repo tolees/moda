@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/419XL8D0eaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081YSMLMN-es'
+slug: 'B081YSMLMN-es Jack & Jones Jorpex Sweat Hood Sudadera con Capucha  Ashley Blue  L para Hombre'
 actualPrice: 8.92 EUR
 currency: EUR
 price: 8.92

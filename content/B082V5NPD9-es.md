@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41skMlL%2BYRL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B082V5NPD9-es'
+slug: 'B082V5NPD9-es Canadian Peak Chaqueta'
 actualPrice: 59.4 EUR
 currency: EUR
 price: 59.4

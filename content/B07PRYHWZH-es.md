@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41RZnBMzNcL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PRYHWZH-es'
+slug: 'B07PRYHWZH-es MTNG Mauri  Bolso mochila para Mujer  Marrón  Antel/Liso Cuero   14x31x26 cm  W x H x L '
 actualPrice: 12.14 EUR
 currency: EUR
 price: 12.14

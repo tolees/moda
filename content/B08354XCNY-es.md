@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41s70uvk9lL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08354XCNY-es'
+slug: 'B08354XCNY-es Jack & Jones Jjelogo tee SS O-Neck 2 Col Ss20 Noos Camiseta  Gota De Limón  L para Hombre'
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51-G7820BqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000YKMHP2-es'
+slug: 'B000YKMHP2-es Havaianas Top  Chanclas Unisex Adulto  Blanco  White   41/42 EU'
 actualPrice: 11.27 EUR
 currency: EUR
 price: 11.27

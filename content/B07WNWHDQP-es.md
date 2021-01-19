@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51CNf2ddvRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WNWHDQP-es'
+slug: 'B07WNWHDQP-es Funda con Cuerda para iPhone X/XS  Carcasa Transparente TPU Suave Silicona Case con Correa Colgante Ajustable Collar Correa de Cuello Cadena Cordón para iPhone X/XS - Multicolor'
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

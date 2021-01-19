@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31zg5k6nPaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00VLN9ID0-es'
+slug: 'B00VLN9ID0-es Levi s Graphic Set-In Neck  Camiseta para Hombre  Azul  C18977 Graphic H215-Hm Dress Blues Graphic H215-Hm 36.3 139   X-Large'
 actualPrice: 16.1 EUR
 currency: EUR
 price: 16.1

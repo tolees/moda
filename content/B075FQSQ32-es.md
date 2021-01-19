@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51KTu9NrNRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075FQSQ32-es'
+slug: 'B075FQSQ32-es The Walking Dad Camiseta de Hombre Nerd Dead  Farbe2:Marengo Mezclado;Größe2:L'
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

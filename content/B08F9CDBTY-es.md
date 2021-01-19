@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41UYbRLlFmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08F9CDBTY-es'
+slug: 'B08F9CDBTY-es Voova Funda Portatil 11-11.6 11.3 Pulgada Upgraded Protector Maletín Bolso Compatible con Macbook Pro 2020  iPad Pro12.9  Surface Pro X/7/6/5  Chromebook  Sleeve para pc con Asa Y Bolsillo  Negro'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

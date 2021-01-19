@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Z1ZWFQJqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V3SYDZ6-es'
+slug: 'B07V3SYDZ6-es TALED - Bolso bandolera de piel auténtica de 15 6 pulgadas con almohadilla para el hombro y correa - Bolso para ordenador portátil  universidad  trabajo '
 actualPrice: 127.95 EUR
 currency: EUR
 price: 127.95

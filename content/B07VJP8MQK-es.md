@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Rf1yEArTL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VJP8MQK-es'
+slug: 'B07VJP8MQK-es Esprit 099ee1g014s Abrigo  Azul  Navy 400   X-Small para Mujer'
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

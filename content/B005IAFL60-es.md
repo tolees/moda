@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31TzJCw2j3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005IAFL60-es'
+slug: 'B005IAFL60-es Ray-Ban Justin RB4165 - Gafas de sol Unisex  Gris  Transparent Grey Rubber 852/88   54 mm'
 actualPrice: 83.51 EUR
 currency: EUR
 price: 83.51

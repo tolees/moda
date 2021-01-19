@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41PBjxzcCpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SWSKM91-es'
+slug: 'B07SWSKM91-es Geox J Rebecca Girl B  Zapatillas para Niñas  Blanco  White/Fuchsia C0563   32 EU'
 actualPrice: 39.0 EUR
 currency: EUR
 price: 39.0

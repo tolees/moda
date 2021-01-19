@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41mzp70rQEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XTFCV6S-es'
+slug: 'B06XTFCV6S-es Pepe Jeans Zip Thru  Sudadera con Capucha para Hombre  Gris  Dk Grey Marl 963   Large'
 actualPrice: 25.53 EUR
 currency: EUR
 price: 25.53

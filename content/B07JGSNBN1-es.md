@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41jCMOacO9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JGSNBN1-es'
+slug: 'B07JGSNBN1-es Pepe Jeans Kai Pm402100 Chaqueta   Dandelion 054   Medium para Hombre'
 actualPrice: 29.74 EUR
 currency: EUR
 price: 29.74

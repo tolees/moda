@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41YODsYamKL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MMNB2LW-es'
+slug: 'B07MMNB2LW-es GANT D1.Winter TWI Buffalo Check Reg BD Camisa  Rojo  Port Red 605   Small para Hombre'
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

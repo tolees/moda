@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/515xdRYbslL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PL2TBFB-es'
+slug: 'B07PL2TBFB-es XTI 49303  Botines para Mujer  Negro  38 EU'
 actualPrice: 9.32 EUR
 currency: EUR
 price: 9.32

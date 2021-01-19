@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41oy5gKia0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JJ1SZX5-es'
+slug: 'B07JJ1SZX5-es Armani Exchange 9 5 Ounces Stretch Mid Wash Vaqueros Skinny  Azul  Indigo Denim 1500   40/L30  Talla del Fabricante: 26  para Mujer'
 actualPrice: 29.38 EUR
 currency: EUR
 price: 29.38

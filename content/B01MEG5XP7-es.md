@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41QbsiXzQjL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MEG5XP7-es'
+slug: 'B01MEG5XP7-es ESPRIT 017EE2F018  Camisa Hombre  Azul  NAVY   Large'
 actualPrice: 13.31 EUR
 currency: EUR
 price: 13.31

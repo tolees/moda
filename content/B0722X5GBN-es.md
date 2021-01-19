@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41lpusKO81L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0722X5GBN-es'
+slug: 'B0722X5GBN-es find. Vestido para Mujer   Rojo  Wine   36  Talla del Fabricante: X-Small '
 actualPrice: 8.4 EUR
 currency: EUR
 price: 8.4

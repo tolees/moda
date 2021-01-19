@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41WDlAnHrML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R4TDML3-es'
+slug: 'B07R4TDML3-es Wrangler Greensboro Regular Jeans Vaqueros  Azul  Smooth Criminal 28j   38W / 34L para Hombre'
 actualPrice: 36.22 EUR
 currency: EUR
 price: 36.22

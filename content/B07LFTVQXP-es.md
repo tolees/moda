@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31mhUX1ifgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFTVQXP-es'
+slug: 'B07LFTVQXP-es Geox D ANNYTAH Moc A  Mocasines para Mujer  Azul  Dk Blue C4007   37 EU'
 actualPrice: 24.4 EUR
 currency: EUR
 price: 24.4

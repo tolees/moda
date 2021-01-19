@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/313zi5yC9YL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KR9ZZJR-es'
+slug: 'B07KR9ZZJR-es Under Armour UA Streaker 2.0 Half Zip Sudadera  Mujer  Negro  Black/Black/Reflective 001   XS'
 actualPrice: 26.09 EUR
 currency: EUR
 price: 26.09

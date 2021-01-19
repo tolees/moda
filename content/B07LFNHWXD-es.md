@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41kuSI04ZHL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFNHWXD-es'
+slug: 'B07LFNHWXD-es Levi s 501 Crop Vaqueros Straight  Azul  Market Vintage 0080   28W / 30L para Mujer'
 actualPrice: 67.49 EUR
 currency: EUR
 price: 67.49

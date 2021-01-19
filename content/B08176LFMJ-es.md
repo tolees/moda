@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41RCcakgJAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08176LFMJ-es'
+slug: 'B08176LFMJ-es Columbia Outdoor Elements Sr Chaqueta con Cremallera  Hombre  Rojo  Carnelian Red  Wildfire   M'
 actualPrice: 38.44 EUR
 currency: EUR
 price: 38.44

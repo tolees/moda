@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41nUIfXf6mL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QD5YVD1-es'
+slug: 'B07QD5YVD1-es YIHANK - Blusa - para niña Negro Black3 XXXL'
 actualPrice: 4.44 EUR
 currency: EUR
 price: 4.44

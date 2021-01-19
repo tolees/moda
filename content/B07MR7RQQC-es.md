@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ptGFxx7jL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MR7RQQC-es'
+slug: 'B07MR7RQQC-es Lee Ivy Vaqueros  Negro  Black Rinse 47   25W / 33L para Mujer'
 actualPrice: 16.6 EUR
 currency: EUR
 price: 16.6

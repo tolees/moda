@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41r+HUn2QFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BN5NHII-es'
+slug: 'B00BN5NHII-es Pepe Jeans Original Stretch Camiseta  Azul  Navy 595   Large para Hombre'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

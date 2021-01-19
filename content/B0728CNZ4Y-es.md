@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/319zdPTSg2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0728CNZ4Y-es'
+slug: 'B0728CNZ4Y-es Crocs Classic Clog  Zuecos Unisex Adulto  Rosa  Ballerina Pink 6GD   37/38 EU'
 actualPrice: 22.57 EUR
 currency: EUR
 price: 22.57

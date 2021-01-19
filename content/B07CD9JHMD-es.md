@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/419lYlzbWHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CD9JHMD-es'
+slug: 'B07CD9JHMD-es REPLAY M3666 .000.21842 Camiseta  Negro  Black 98   Large para Hombre'
 actualPrice: 32.81 EUR
 currency: EUR
 price: 32.81

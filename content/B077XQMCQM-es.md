@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41wHP27--8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077XQMCQM-es'
+slug: 'B077XQMCQM-es Under Armour Tech Graphic Short Pantalón Corto  Hombre  Gris  Steel/Black 035   XL'
 actualPrice: 14.9 EUR
 currency: EUR
 price: 14.9

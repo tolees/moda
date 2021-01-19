@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31qeToER49L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KR1XLHX-es'
+slug: 'B07KR1XLHX-es Under Armour UA I Will 2.0 SS Camiseta  Hombre  Blanco  White/Black 100   XXL'
 actualPrice: 11.17 EUR
 currency: EUR
 price: 11.17

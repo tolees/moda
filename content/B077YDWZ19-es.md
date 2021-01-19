@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413wkFKC9bL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077YDWZ19-es'
+slug: 'B077YDWZ19-es HIKARO Sudadera con Print Mujer  Azul  Navy   38  Talla del fabricante: Small '
 actualPrice: 8.09 EUR
 currency: EUR
 price: 8.09

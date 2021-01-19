@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Qabgtm4jL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KGD2DN9-es'
+slug: 'B07KGD2DN9-es DCalderoni Moncayo Zapatos Piel Negros De Vestir con Cordones para Hombre 47 EU'
 actualPrice: 69.0 EUR
 currency: EUR
 price: 69.0

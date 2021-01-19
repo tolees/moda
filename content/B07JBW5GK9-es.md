@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51Lae7mZNyL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JBW5GK9-es'
+slug: 'B07JBW5GK9-es Guantes de Invierno   otutun Guantes de Pantalla Táctil Cortavientos Impermeable Guantes Ciclismo Invierno Unisex Antideslizante Exterior Guantes Deportivos para Caminar Correr Bici Motocicleta'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

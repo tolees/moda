@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31JhVrb91yL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072R3LYZX-es'
+slug: 'B072R3LYZX-es BOSS Trunk BF Original Bóxer  Negro  Black 001   Medium para Hombre'
 actualPrice: 19.96 EUR
 currency: EUR
 price: 19.96

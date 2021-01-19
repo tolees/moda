@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51FPrn6KXyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077HMFTSL-es'
+slug: 'B077HMFTSL-es Marca Amazon - find. Vestido Fruncido de Lunares Mujer  Rojo  Red   36  Label: XS'
 actualPrice: 7.02 EUR
 currency: EUR
 price: 7.02

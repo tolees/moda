@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51b4I45w2sL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XDK5RJB-es'
+slug: 'B07XDK5RJB-es coskefy Guantes Moto Invierno Guantes Esquí Impermeable para Hombre y Mujer Guantes Nieve Calientes Guantes Invierno Termicos para Snowboard Ciclismo Moto con 3M Thinsulate'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41JjurgHJfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HCH33QK-es'
+slug: 'B07HCH33QK-es NOVECASA Chaleco Sauna Hombre Neopreno Camiseta sin Mangas/Sudoración Pantalones Cortos Body Shaper Transpirar Gimnasia Abdome Adelgaz  S  Cortos Negro '
 actualPrice: 16.96 EUR
 currency: EUR
 price: 16.96

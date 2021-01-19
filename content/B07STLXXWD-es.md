@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41tr3lmLcRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07STLXXWD-es'
+slug: 'B07STLXXWD-es Geox D Rubidia A  Zapatillas para Mujer  Gris  Off White C1002   40 EU'
 actualPrice: 45.81 EUR
 currency: EUR
 price: 45.81

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41tmQrrdqSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YRJ4JPV-es'
+slug: 'B07YRJ4JPV-es VIFUUR Zapatillas Hombre Mujer de casa Espuma de Memoria de Alta Densidad Cálido Interior Lana al Aire Libre Forro de Felpa Suela Antideslizante Zapatos Beige 40/41'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

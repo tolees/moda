@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41WPcs-RYYL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SRSFYM5-es'
+slug: 'B07SRSFYM5-es New Balance FC Porto Primera Equipación SS 2019-2020 Niño  Camiseta  Blue-White  Talla SB'
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

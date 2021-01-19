@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41KX7NjnSDL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VSP21F7-es'
+slug: 'B07VSP21F7-es PORPEE Gafas de Sol Hombre Mujer Polarizadas Súper Ligero Al-Mg Marco De Metal | Nylon Polarizado HD | 100% UV400 Protection'
 actualPrice: 10.59 EUR
 currency: EUR
 price: 10.59

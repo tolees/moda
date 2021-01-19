@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41AL4+fG2EL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087BVPL9M-es'
+slug: 'B087BVPL9M-es Coolcept Mujer Dulce Lazos Zapatos de la Corte Tacón Alto Oficina Zapatos de Bombas sin Cordones Verano Zapatos Black Talla 44 Asiática'
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

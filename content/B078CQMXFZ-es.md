@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41riILtwxdL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078CQMXFZ-es'
+slug: 'B078CQMXFZ-es SIMYJOY Pareja Sudadera con Capucha Gato Encapuchado Camisa Pull-Over para Hombre y Mujer Adolescentes Negro L'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

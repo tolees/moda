@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41vTWA1HJiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081B5BMK1-es'
+slug: 'B081B5BMK1-es Columbia South Canyon Chaqueta Impermeable  Mujer  Azul Oscuro  Nocturnal   XS'
 actualPrice: 54.06 EUR
 currency: EUR
 price: 54.06

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412b5umPcKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TRM6QYQ-es'
+slug: 'B07TRM6QYQ-es Levi s 510 Vaqueros Skinny  Azul  Noce Cool 1051   W29/L32  Talla del Fabricante: 29 32  para Hombre'
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41lSMfYl9eL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0823BZK5Z-es'
+slug: 'B0823BZK5Z-es Jack & Jones Sweatshirt Sudadera  Detalle: Nueva White Melange White Melange  M para Hombre'
 actualPrice: 11.57 EUR
 currency: EUR
 price: 11.57

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31NMLtLuVQL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G2F3KYD-es'
+slug: 'B07G2F3KYD-es AURIQUE Floral Print Legging Mallas de Entrenamiento  Negro  Black   38  Talla del Fabricante: Small '
 actualPrice: 14.6 EUR
 currency: EUR
 price: 14.6

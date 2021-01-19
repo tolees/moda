@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21LGfuY75IL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PBSJPZN-es'
+slug: 'B07PBSJPZN-es Fruit of the Loom - Camiseta Modelo Iconic para niñas  3-4 Años   Blanco '
 actualPrice: 3.2 EUR
 currency: EUR
 price: 3.2

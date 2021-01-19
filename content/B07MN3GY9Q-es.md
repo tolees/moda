@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ryWyFSk2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MN3GY9Q-es'
+slug: 'B07MN3GY9Q-es Lee Chunky Knit Sudadera  Marfil  Off White MK   Medium para Mujer'
 actualPrice: 40.63 EUR
 currency: EUR
 price: 40.63

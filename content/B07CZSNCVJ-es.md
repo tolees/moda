@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31AAUUwUZBL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CZSNCVJ-es'
+slug: 'B07CZSNCVJ-es Under Armour Sportstyle Logo LS Camiseta  Hombre  Azul  Academy/White 408   L'
 actualPrice: 21.49 EUR
 currency: EUR
 price: 21.49

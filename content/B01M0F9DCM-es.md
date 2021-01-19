@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416NHM1-P7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M0F9DCM-es'
+slug: 'B01M0F9DCM-es ESPRIT Bodywear 996EF1A973  Parte de arriba de bikini Mujer  Negro  Black   36B'
 actualPrice: 20.84 EUR
 currency: EUR
 price: 20.84

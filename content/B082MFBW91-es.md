@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41zO1ecjzlL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082MFBW91-es'
+slug: 'B082MFBW91-es OBEEII Vestido de Fiesta Niña Disfraz para Ninas para Boda Bordado de Tul Comunión Fiesta para Cumpleaños Cóctel Ceremonia Disfraces Boda Prom Carnaval Cosplay Costume Begonia Rojo 120'
 actualPrice: 11.63 EUR
 currency: EUR
 price: 11.63

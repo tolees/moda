@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/314L+PXkczL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KPRPHNQ-es'
+slug: 'B07KPRPHNQ-es FitFlop Lottie Glitzy  Sandalias de Punta Descubierta Women s  Rosa  Rose Gold 323   41 EU'
 actualPrice: 43.99 EUR
 currency: EUR
 price: 43.99

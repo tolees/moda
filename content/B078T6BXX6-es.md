@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ZlTwsoqhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078T6BXX6-es'
+slug: 'B078T6BXX6-es Tommy Hilfiger Essential TH Beach Sandal  Chanclas para Hombre  Azul  Midnight 403   46 EU'
 actualPrice: 27.92 EUR
 currency: EUR
 price: 27.92

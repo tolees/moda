@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/414VD0zIGrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0776ZNPKH-es'
+slug: 'B0776ZNPKH-es Tommy Hilfiger Piqué P Camiseta Polo con Cierre de 3 Botones  Negro  Tommy Black   L para Hombre'
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

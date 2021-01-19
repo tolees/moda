@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41z-VGlIu7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VDJ564V-es'
+slug: 'B07VDJ564V-es edc by Esprit 099cc2g022 Chaqueta  Gris  Dark Grey 020   XX-Large para Hombre'
 actualPrice: 20.59 EUR
 currency: EUR
 price: 20.59

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/316C4ex1M9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B1TXMXP-es'
+slug: 'B07B1TXMXP-es Fruit of the Loom- Camiseta de Manga Corta Sofspun para niñas  12-13 Años/Grafito Claro '
 actualPrice: 3.95 EUR
 currency: EUR
 price: 3.95

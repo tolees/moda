@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41qrWskFXwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MVMNDD5-es'
+slug: 'B07MVMNDD5-es Marca Amazon - MERAKI Calzoncillo Corto de Algodón Hombre  Pack de 4  Gris  gris medio .  L  Label: L'
 actualPrice: 12.23 EUR
 currency: EUR
 price: 12.23

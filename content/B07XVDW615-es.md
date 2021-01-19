@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41x1FcVSObL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XVDW615-es'
+slug: 'B07XVDW615-es Geographical Norway Sudadera Mujer GYMCLASS B Taupe S'
 actualPrice: 27.3 EUR
 currency: EUR
 price: 27.3

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41LW8vml2rL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072MJBK31-es'
+slug: 'B072MJBK31-es Marca Amazon - find. Camisa Hombre  Marrón  Taupe   S  Label: S'
 actualPrice: 11.98 EUR
 currency: EUR
 price: 11.98

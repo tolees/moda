@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41upIliHqrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FMTXVWC-es'
+slug: 'B07FMTXVWC-es Ganchos de pared resistente ETSAMOR 2pcs Ganchos para toallas de baño del acero inoxidable colgador de abrigo sombrero en cocina y oficina con tornillo'
 actualPrice: 9.08 EUR
 currency: EUR
 price: 9.08

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41XTBTM4QoL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BT4DBQL-es'
+slug: 'B07BT4DBQL-es Sunny Holiday Mocasines Hombres Zapatos Planos con Cordones de Piel Hombre Casual Zapatos de Conducción 38-46 EU'
 actualPrice: 25.98 EUR
 currency: EUR
 price: 25.98

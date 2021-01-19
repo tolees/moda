@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41U2B9ypLxL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H3W2MC6-es'
+slug: 'B07H3W2MC6-es SwissWell Sudadera de Lana con Capucha para Hombre  Suéter para Hombre  Abrigo de Invierno y Deportes  Sudaderas con Cremallera para Hombre  Chaquetas para Deportes  Fitness  Recreación  Vida Diaria'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

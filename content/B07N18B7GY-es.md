@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31xC-l-DzdL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N18B7GY-es'
+slug: 'B07N18B7GY-es G-STAR RAW Lynn Mid-Waist Skinny Vaqueros  Dusty Grey B472-A799  26W / 36L para Mujer'
 actualPrice: 29.41 EUR
 currency: EUR
 price: 29.41

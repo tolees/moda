@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31KWF3B6aBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079WCMX8N-es'
+slug: 'B079WCMX8N-es Carrera 154/S Gafas de sol  Negro  BLACK   51 Unisex Adulto'
 actualPrice: 42.45 EUR
 currency: EUR
 price: 42.45

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41FigT+dBtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JZKRWZ6-es'
+slug: 'B07JZKRWZ6-es Tommy Hilfiger Logo tee S/s Camiseta  Azul  Saxony Blue 491   95  Talla del Fabricante: 80  para Bebés'
 actualPrice: 9.97 EUR
 currency: EUR
 price: 9.97

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41H0HASFlXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N5FOR7N-es'
+slug: 'B01N5FOR7N-es find. Camisa Clásica Manga Corta Hombre  Azul  Navy   Medium'
 actualPrice: 5.83 EUR
 currency: EUR
 price: 5.83

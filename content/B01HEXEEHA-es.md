@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41BaYaAN7xL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HEXEEHA-es'
+slug: 'B01HEXEEHA-es Crocs Classic Clog Kids Roomy fit Zuecos Unisex niños  Azul  Navy 410   27/28 EU'
 actualPrice: 19.93 EUR
 currency: EUR
 price: 19.93

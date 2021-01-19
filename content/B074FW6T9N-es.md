@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41hANcHPP6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074FW6T9N-es'
+slug: 'B074FW6T9N-es Marca Amazon - find. Sudadera de Rayas Verticales con Cuello Redondo Hombre  Azul  Navy   L  Label: L'
 actualPrice: 14.0 EUR
 currency: EUR
 price: 14.0

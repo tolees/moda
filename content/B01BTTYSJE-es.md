@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41HgM3jD18L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BTTYSJE-es'
+slug: 'B01BTTYSJE-es Piquadro Bolso Escolares  Azul  Azul  - CA3347P15/BLU3'
 actualPrice: 224.25 EUR
 currency: EUR
 price: 224.25

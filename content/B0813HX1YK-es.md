@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31s4YF2qVDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0813HX1YK-es'
+slug: 'B0813HX1YK-es Marca Amazon - Find. Sandalias abiertas para mujer con tacón de rayas  color Marfil  talla 40 EU'
 actualPrice: 10.07 EUR
 currency: EUR
 price: 10.07

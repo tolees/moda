@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31kU7Qfm2rL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SWT2T1P-es'
+slug: 'B07SWT2T1P-es Geox D PONTOISE D  Zapatillas para Mujer  Blanco  White/Silver C0007   41 EU'
 actualPrice: 38.05 EUR
 currency: EUR
 price: 38.05

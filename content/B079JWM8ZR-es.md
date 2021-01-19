@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41IHcgt5H3L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B079JWM8ZR-es'
+slug: 'B079JWM8ZR-es Napapijri Rainforest Winter  Chaqueta para Hombre  Rojo  Red Bourgogne R69   Large'
 actualPrice: 91.5 EUR
 currency: EUR
 price: 91.5

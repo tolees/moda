@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41hETjmulVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VD3G7HG-es'
+slug: 'B07VD3G7HG-es Calvin Klein CK Essential Slim V Neck tee Camiseta  Gris  Mid Grey Heather P2f   Large para Hombre'
 actualPrice: 20.95 EUR
 currency: EUR
 price: 20.95

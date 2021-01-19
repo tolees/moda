@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41f5ezuOARL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N3ZM14F-es'
+slug: 'B07N3ZM14F-es Desigual T-Shirt Luciana Camiseta  Verde Junco 4045  S para Mujer'
 actualPrice: 24.46 EUR
 currency: EUR
 price: 24.46

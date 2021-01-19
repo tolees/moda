@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41FHlq+pIBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076QBBL7W-es'
+slug: 'B076QBBL7W-es G-STAR RAW Core 3D Slim Shirt Wmn L/s Blusa  Blanco  White 110   Medium para Mujer'
 actualPrice: 34.97 EUR
 currency: EUR
 price: 34.97

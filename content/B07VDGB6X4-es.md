@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51aR1o5VJ9L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VDGB6X4-es'
+slug: 'B07VDGB6X4-es Esprit 099ee1g006 Abrigo  Gris  Dark Grey 020   XX-Large para Mujer'
 actualPrice: 51.26 EUR
 currency: EUR
 price: 51.26

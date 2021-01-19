@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21fqWF3L+dL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ESVZSFO-es'
+slug: 'B00ESVZSFO-es Ray-Ban Justin RB4165 - Gafas de sol Unisex  Negro  Green Classic 601/71   55 mm'
 actualPrice: 86.95 EUR
 currency: EUR
 price: 86.95

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41erA6kFQLL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JXJ37M8-es'
+slug: 'B07JXJ37M8-es Wrangler Regular Jacket Chaqueta  Azul  Bleached out 12d   XX-Large para Hombre'
 actualPrice: 23.96 EUR
 currency: EUR
 price: 23.96

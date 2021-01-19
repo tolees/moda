@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31srFDK8cbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CPC1QRW-es'
+slug: 'B07CPC1QRW-es Crocs Serena Sandal Women  Sandalias de Punta Descubierta para Mujer  Negro Black 060  38/39 EU'
 actualPrice: 22.49 EUR
 currency: EUR
 price: 22.49

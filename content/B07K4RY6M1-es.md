@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31EIy57s7vL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K4RY6M1-es'
+slug: 'B07K4RY6M1-es BOSS Mabsoot  Camisa  Azul  Open Blue   X-Large para Hombre'
 actualPrice: 24.41 EUR
 currency: EUR
 price: 24.41

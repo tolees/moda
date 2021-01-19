@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/419nbwyzIgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P4QX6HF-es'
+slug: 'B07P4QX6HF-es Goodthreads Standard-fit Long-Sleeve Stretch Oxford Shirt  All Hours  Camisa abotonada  Azul Marino  L'
 actualPrice: 6.49 EUR
 currency: EUR
 price: 6.49

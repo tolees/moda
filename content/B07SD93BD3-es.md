@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416L1zQYnjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SD93BD3-es'
+slug: 'B07SD93BD3-es Helly Hansen Crew Midlayer Chaqueta Deportiva Impermeable  Hombre  Royal Blue  M'
 actualPrice: 110.99 EUR
 currency: EUR
 price: 110.99

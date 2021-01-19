@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41w9OfmkJFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087RBTBJF-es'
+slug: 'B087RBTBJF-es ELEEMEE Mujer Moda Tacón Alto Verano Zapatos Tacón Pequeno Sandalias Correa de Tobillo White Size 48 Asian'
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

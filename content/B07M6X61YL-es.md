@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31KOBB1usfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M6X61YL-es'
+slug: 'B07M6X61YL-es Roman Originals Pantalón Capri elástico de bengalina para Mujer - Pantalón de Corte cónico Estilo años 50  Malla para Verano  Opaca  cómoda y elástica - Taupe - 40'
 actualPrice: 21.75 EUR
 currency: EUR
 price: 21.75

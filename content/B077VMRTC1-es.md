@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41mxXoolzLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077VMRTC1-es'
+slug: 'B077VMRTC1-es Levi s Perfect Tee  Camiseta para Mujer  Negro  Caviar 2 0008   X-Small'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41XvwOGCj4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X9MQ2NF-es'
+slug: 'B07X9MQ2NF-es adidas Core 18 Sweat Top Sudadera  Hombre  Yellow/Black  3XL'
 actualPrice: 24.38 EUR
 currency: EUR
 price: 24.38

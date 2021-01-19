@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41S6J7Nyg2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MGH4B4B-es'
+slug: 'B07MGH4B4B-es Marca Amazon - MERAKI Shorts de Natación Hombre  Negro  Geo Print .  XS  Label: XS'
 actualPrice: 4.5 EUR
 currency: EUR
 price: 4.5

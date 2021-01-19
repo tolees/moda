@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41wkTlGiYgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MU0XXLP-es'
+slug: 'B01MU0XXLP-es find. 13641 vestido fiesta mujer  Negro  Black   40  Talla del Fabricante: Medium '
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

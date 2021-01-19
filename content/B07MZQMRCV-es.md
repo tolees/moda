@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ogpE1EEaL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZQMRCV-es'
+slug: 'B07MZQMRCV-es Pepe Jeans Alice Chaqueta   Forest Green 682   X-Large para Mujer'
 actualPrice: 66.0 EUR
 currency: EUR
 price: 66.0

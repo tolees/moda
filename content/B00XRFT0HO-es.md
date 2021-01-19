@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/312eFOaGOEL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XRFT0HO-es'
+slug: 'B00XRFT0HO-es Helly Hansen Velocity Insulated Pant Pantalón  Hombre  Negro  M'
 actualPrice: 74.62 EUR
 currency: EUR
 price: 74.62

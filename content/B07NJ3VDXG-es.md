@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41hX7S7DMuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NJ3VDXG-es'
+slug: 'B07NJ3VDXG-es Springfield 2.T.Ap.Oi19.Volante Visco Blusa  Multicolor  Multicolor 65   X-Large  Tamaño del Fabricante: XL  para Mujer'
 actualPrice: 4.58 EUR
 currency: EUR
 price: 4.58

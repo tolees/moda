@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41rYBHhMf+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00189QZBU-es'
+slug: 'B00189QZBU-es Timberland Classic 2 Eye  Náuticos para Hombre  Marrón Med Brown Full Grain  43.5 EU'
 actualPrice: 80.16 EUR
 currency: EUR
 price: 80.16

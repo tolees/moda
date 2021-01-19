@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Pn96-0RuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HSTVF6X-es'
+slug: 'B07HSTVF6X-es WISHDOIT Relojes para Hombres Impermeable Acero Inoxidable Reloj analógico de Cuarzo para Hombre Marca Vestido de Negocios Reloj de Pulsera Hombre Reloj Azul Dorado'
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

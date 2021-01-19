@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/513zz1Jz0RL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MYCFAZ7-es'
+slug: 'B01MYCFAZ7-es Kayhan Hombre Camisa Monaco Red  M '
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

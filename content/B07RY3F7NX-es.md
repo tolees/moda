@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41zwOVFsymL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RY3F7NX-es'
+slug: 'B07RY3F7NX-es Nike W Nk Swoosh Run Top SS Camiseta de Manga Corta  Mujer  Pink Quartz/White  M'
 actualPrice: 17.3 EUR
 currency: EUR
 price: 17.3

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51lfhOQbYsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CBVFJN8-es'
+slug: 'B08CBVFJN8-es LJP Funda Huawei Honor 20  Suave PU Cuero Carcasa y TPU Funda Interna  Color Flip Wallet Case Cover para Huawei Honor 20  Billetera Magnético con Función de Soporte  Ranuras para Tarjetas'
 actualPrice: 7.92 EUR
 currency: EUR
 price: 7.92

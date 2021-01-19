@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31vE0--8jTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CKAKPO8-es'
+slug: 'B01CKAKPO8-es Feliz Caminar - Zuecos Sanitarios Flotantes Blanco  41'
 actualPrice: 20.5 EUR
 currency: EUR
 price: 20.5

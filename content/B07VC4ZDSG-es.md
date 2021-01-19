@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31QP2-9tMRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VC4ZDSG-es'
+slug: 'B07VC4ZDSG-es Calvin Klein CK Essential Slim V Neck tee Camiseta  Blanco  Bright White Yaf   Large para Hombre'
 actualPrice: 20.95 EUR
 currency: EUR
 price: 20.95

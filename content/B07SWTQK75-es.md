@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411JB26YdUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SWTQK75-es'
+slug: 'B07SWTQK75-es Geox D Nebula B  Zapatillas sin Cordones para Mujer  Gris  Lt Grey C1010   40 EU'
 actualPrice: 39.62 EUR
 currency: EUR
 price: 39.62

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31DFrXKJwvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FSDCNGY-es'
+slug: 'B07FSDCNGY-es Clarks Un Maui Lace  Zapatos de Cordones Derby para Mujer  Blanco  White Leather-   38 EU'
 actualPrice: 54.95 EUR
 currency: EUR
 price: 54.95

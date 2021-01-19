@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41BCScGwpJL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B081CPGTGX-es'
+slug: 'B081CPGTGX-es Geographical Norway Parka Hombre Boomerang A Gris Oscuro S'
 actualPrice: 65 EUR
 currency: EUR
 price: 65

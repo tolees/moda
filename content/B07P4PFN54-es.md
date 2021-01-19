@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31lJXOxYnYL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P4PFN54-es'
+slug: 'B07P4PFN54-es Art Mainz  Zapatos de Cordones Brogue Unisex Adulto  Marrón  Brown Brown   38 EU'
 actualPrice: 18.91 EUR
 currency: EUR
 price: 18.91

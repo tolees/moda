@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51HMfvrkZjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0876RHCBH-es'
+slug: 'B0876RHCBH-es RAZAMAZA Mujer Casual Tacón Ancho Zapatos de Mulas Puntiagudo Zapatos sin Cordones Sandalias Vestido Serpiente Red Talla 40 Asiática'
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

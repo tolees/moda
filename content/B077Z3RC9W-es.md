@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41zW5cWjsrL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B077Z3RC9W-es'
+slug: 'B077Z3RC9W-es Adidas Response Tee M  Camiseta para Hombre  Multicolor  Rojo   S'
 actualPrice: 16.58 EUR
 currency: EUR
 price: 16.58

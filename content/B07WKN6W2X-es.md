@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Q+qbB+nsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WKN6W2X-es'
+slug: 'B07WKN6W2X-es Pepe Jeans West Sir Camiseta  Naranja  Sundown 166   Medium para Hombre'
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

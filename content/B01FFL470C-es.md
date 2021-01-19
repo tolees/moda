@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41wnHXaOLOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01FFL470C-es'
+slug: 'B01FFL470C-es Under Armour Heatgear Armour 2.0 Comp Shorts Pantalón Corto  Hombre  Negro  Black/Graphite 001   S'
 actualPrice: 17.39 EUR
 currency: EUR
 price: 17.39

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51jCwvePoVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TXQS11W-es'
+slug: 'B07TXQS11W-es Harry Potter Vestido para niñas Hogwarts Gris 12-13 Años'
 actualPrice: 8.95 EUR
 currency: EUR
 price: 8.95

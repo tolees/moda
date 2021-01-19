@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31aVavceNSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003F26IPG-es'
+slug: 'B003F26IPG-es Lacoste L1212 Camiseta Polo  Rosa  Flamant T03   XS para Hombre'
 actualPrice: 57.0 EUR
 currency: EUR
 price: 57.0

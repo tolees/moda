@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31kNmcAz4KL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074WJF22Q-es'
+slug: 'B074WJF22Q-es Marca Amazon - MERAKI Chaqueta de Merino Hombre Cuello Pico  Gris  Charcoal Marl   M  Label: M'
 actualPrice: 15.14 EUR
 currency: EUR
 price: 15.14

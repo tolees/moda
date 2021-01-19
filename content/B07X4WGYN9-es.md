@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41PJCUTCqeL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X4WGYN9-es'
+slug: 'B07X4WGYN9-es JACK & JONES Jorexplore Parka Jacket STS Abrigos Hombre  Verde  Forest Night Detail: Solid   XX-Large'
 actualPrice: 55.77 EUR
 currency: EUR
 price: 55.77

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/418nmqqfbBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TSQ6YY5-es'
+slug: 'B07TSQ6YY5-es Lee Scarlett Vaqueros  Azul  Dark Favourite Nr   27W / 29L para Mujer'
 actualPrice: 59.95 EUR
 currency: EUR
 price: 59.95

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41lsni6DU2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SXRMTVS-es'
+slug: 'B07SXRMTVS-es Geox D Borealis A  Sandalia con Pulsera para Mujer  Gris  Dk Grey/Fluor Orange C9366   40 EU'
 actualPrice: 43.25 EUR
 currency: EUR
 price: 43.25

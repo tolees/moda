@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41YNWj27muL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TPYPQJW-es'
+slug: 'B07TPYPQJW-es Clarks Tri Alexia  Sandalias de Talón Abierto para Mujer  Beige  Stone Stone   41.5 EU'
 actualPrice: 60.49 EUR
 currency: EUR
 price: 60.49

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41wpm5TQYwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D7VL8J2-es'
+slug: 'B07D7VL8J2-es Calvin Klein Low Rise Trunk 3pk  Bóxer Hombre  Azul  Black/Blue Shadow/Cobalt Water Dtm Wb 4ku   Large'
 actualPrice: 32.15 EUR
 currency: EUR
 price: 32.15

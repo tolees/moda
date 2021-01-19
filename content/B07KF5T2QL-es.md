@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41+7IHiV9tL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KF5T2QL-es'
+slug: 'B07KF5T2QL-es Levi s 502 Regular Taper Vaqueros  Gris  Porcini Overt ADV 0416   34W / 36L para Hombre'
 actualPrice: 61.49 EUR
 currency: EUR
 price: 61.49

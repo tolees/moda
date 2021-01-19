@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41kmUZNdp6L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JH4GD4T-es'
+slug: 'B07JH4GD4T-es Eono Essentials - Chaqueta de esquí híbrida acolchada para hombre DuPont Sirona  negro  XXL '
 actualPrice: 6.6 EUR
 currency: EUR
 price: 6.6

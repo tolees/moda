@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/311FtsXHN3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078F68WPL-es'
+slug: 'B078F68WPL-es Crocs Swiftwater Flip Women  Zapatos de Playa y Piscina para Mujer  Negro Black 060  42/43 EU'
 actualPrice: 10.52 EUR
 currency: EUR
 price: 10.52

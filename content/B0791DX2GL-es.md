@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31Lo2PT5arL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0791DX2GL-es'
+slug: 'B0791DX2GL-es Crocs Classic Clog Kids Roomy fit  Zuecos Unisex niños  Azul  Blue Jean 4gx   34/35 EU'
 actualPrice: 12.09 EUR
 currency: EUR
 price: 12.09

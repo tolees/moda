@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41axqeRviUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RF18GZB-es'
+slug: 'B07RF18GZB-es G-STAR RAW Air Defence Zip Skinny Vaqueros  Gris  Worn In Lahar 8971-a966   W26/L32  Talla del Fabricante: 26W / 32L  para Hombre'
 actualPrice: 67.07 EUR
 currency: EUR
 price: 67.07

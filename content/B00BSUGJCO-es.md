@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31IJ309vZpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BSUGJCO-es'
+slug: 'B00BSUGJCO-es Uvex Sportstyle 211 Gafas de Ciclismo  Unisex Adulto  Negro  Talla Única'
 actualPrice: 15.23 EUR
 currency: EUR
 price: 15.23

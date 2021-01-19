@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31aFmg3yQjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M6Z0Y3Q-es'
+slug: 'B01M6Z0Y3Q-es Barkey - Panama Lentes Marrones - Gafas De Madera De Alta Calidad - 100% Hecho A Mano - Lentes Polarizadas'
 actualPrice: 59.0 EUR
 currency: EUR
 price: 59.0

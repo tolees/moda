@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41KZ24bux-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KK46M1S-es'
+slug: 'B07KK46M1S-es Columbia Redmond V2  Zapatos de Senderismo Impermeables para Hombre  Gris  Monument  Red J 036   42.5 EU'
 actualPrice: 57.99 EUR
 currency: EUR
 price: 57.99

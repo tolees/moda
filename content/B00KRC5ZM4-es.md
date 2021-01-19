@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/417qZDmbJYL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KRC5ZM4-es'
+slug: 'B00KRC5ZM4-es SELECTED 16040493 - Camisa casual de manga larga para hombre  color white white  talla Small'
 actualPrice: 26.07 EUR
 currency: EUR
 price: 26.07

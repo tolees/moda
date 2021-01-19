@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41hifWWL1fL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QF9QCWV-es'
+slug: 'B07QF9QCWV-es Puma Reactive Chaqueta De Entrenamiento  Hombre  Azul  Peacoat-Blue Turquoise White   L'
 actualPrice: 44.49 EUR
 currency: EUR
 price: 44.49

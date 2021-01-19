@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41hSnDy1AXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XMLG93Q-es'
+slug: 'B00XMLG93Q-es Pepe Jeans Soho Vaqueros  Azul  10oz Dark Used Worn H45   28W / 30L para Mujer'
 actualPrice: 40.99 EUR
 currency: EUR
 price: 40.99

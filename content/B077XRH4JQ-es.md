@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31hSm5W3kBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077XRH4JQ-es'
+slug: 'B077XRH4JQ-es Under Armour Tech 2.0 Shortsleeve Camiseta  Hombre  Blanco  White/Overcast Gray 100   S'
 actualPrice: 15.49 EUR
 currency: EUR
 price: 15.49

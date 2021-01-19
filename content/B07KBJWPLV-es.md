@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ZoeuQlDHL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KBJWPLV-es'
+slug: 'B07KBJWPLV-es Vero Moda Vmeva Abby 3/4 Trenchcoat Noos Abrigo  Negro Black  38  Talla del Fabricante: Small  para Mujer'
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

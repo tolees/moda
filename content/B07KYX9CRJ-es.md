@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41RArWk3hhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KYX9CRJ-es'
+slug: 'B07KYX9CRJ-es Columbia Zero Rules Short Sleeve Shirt Camiseta de manga corta  Hombre  Verde  Cypress Heather   XS'
 actualPrice: 27.23 EUR
 currency: EUR
 price: 27.23

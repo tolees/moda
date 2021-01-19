@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31fT+0vrIJL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V2L8JYV-es'
+slug: 'B07V2L8JYV-es JACK & JONES PREMIUM 12154586 Abrigo  Negro  Black Black   XX-Large para Hombre'
 actualPrice: 104.99 EUR
 currency: EUR
 price: 104.99

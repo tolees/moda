@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41fwCDfPcwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SVZ2SCR-es'
+slug: 'B07SVZ2SCR-es Quiksilver Molokai Layback  Zapatos de Playa y Piscina para Hombre  Multicolor  Black/Blue/Green Xkbg   47 EU'
 actualPrice: 20.19 EUR
 currency: EUR
 price: 20.19

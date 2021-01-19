@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41uLPuUX01L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SRK3XJZ-es'
+slug: 'B07SRK3XJZ-es Geox U Tevere C  Sandalias con Punta Abierta para Hombre  Gris  Grey/Blue C0244   44 EU'
 actualPrice: 35.28 EUR
 currency: EUR
 price: 35.28

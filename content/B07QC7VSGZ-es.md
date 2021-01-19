@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/317TMhgawBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QC7VSGZ-es'
+slug: 'B07QC7VSGZ-es Marca Amazon - AURIQUE Bal181la18 - leggings deporte mujer Mujer  Negro  Black/White   42  Label:L'
 actualPrice: 14.31 EUR
 currency: EUR
 price: 14.31

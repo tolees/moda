@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Ssg0U9GsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00F97YPVY-es'
+slug: 'B00F97YPVY-es LEABAGS Detroit Bolso Bandolera de auténtico Cuero búfalo en el Estilo Vintage - Muskat'
 actualPrice: 48.98 EUR
 currency: EUR
 price: 48.98

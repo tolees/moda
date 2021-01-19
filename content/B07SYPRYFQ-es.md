@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51sDtRDEvEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SYPRYFQ-es'
+slug: 'B07SYPRYFQ-es Moonssy Leggins Reductores Adelgazantes  Pantalones de Sauna Adelgazantes Mujer Nanotecnología  Leggins Anticeluliticos Cintura Alta  Mallas Fitness Push Up para Deporte Running Yoga Gym  XL '
 actualPrice: 22.8 EUR
 currency: EUR
 price: 22.8

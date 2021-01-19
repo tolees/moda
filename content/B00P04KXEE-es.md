@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/316bW0r1FIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00P04KXEE-es'
+slug: 'B00P04KXEE-es Polaroid PLD 1013/S H8 V08 50 Gafas de sol  Marrón  Havana/Green Pz   Hombre'
 actualPrice: 38.0 EUR
 currency: EUR
 price: 38.0

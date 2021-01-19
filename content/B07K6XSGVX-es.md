@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41iR6KXnbIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K6XSGVX-es'
+slug: 'B07K6XSGVX-es Levi s Original Hm tee Camiseta  Azul  LS Cotton + Patch Dress Blues 0001   Small para Hombre'
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

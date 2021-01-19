@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41W4wVGHAGL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PKVY4G8-es'
+slug: 'B07PKVY4G8-es Tous Bowling New Essence  Bolso bolera para Mujer  Multicolor  Mostaza Topo 995900797   31x24x13.5 cm  W x H x L '
 actualPrice: 83.4 EUR
 currency: EUR
 price: 83.4

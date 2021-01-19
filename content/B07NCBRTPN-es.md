@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31Afc69boKL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NCBRTPN-es'
+slug: 'B07NCBRTPN-es Pepe Jeans Mable Vaqueros Straight  Azul  Light Used Denim Md0   W27/L30 para Mujer'
 actualPrice: 39.9 EUR
 currency: EUR
 price: 39.9

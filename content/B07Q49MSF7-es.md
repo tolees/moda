@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41xPbWVsFTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q49MSF7-es'
+slug: 'B07Q49MSF7-es ZERHOK Neceser Aseo pequeño 8pcs Bolso de Organizador de nylón de Bolsas Impermeable pequeño Bolsa portátil Viaje'
 actualPrice: 9.97 EUR
 currency: EUR
 price: 9.97

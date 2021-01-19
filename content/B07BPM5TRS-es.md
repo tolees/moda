@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31y2P2QlF-L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BPM5TRS-es'
+slug: 'B07BPM5TRS-es Camper Lotta  Botines para Mujer  Schwarz  Black 1   41 EU'
 actualPrice: 51.58 EUR
 currency: EUR
 price: 51.58

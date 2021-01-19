@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41d5h1E1ssL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JWXP3H5-es'
+slug: 'B07JWXP3H5-es Lacoste Th3377 Camiseta  Plateado  Argent Chiné/Marine Mnc   X-Small  Talla del Fabricante: 2  para Hombre'
 actualPrice: 31.47 EUR
 currency: EUR
 price: 31.47

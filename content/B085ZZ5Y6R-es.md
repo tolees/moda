@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41dWPMsjR0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085ZZ5Y6R-es'
+slug: 'B085ZZ5Y6R-es Pijamas Dos Piezas para Niño Impresión de Aviones Manga Corta Camiseta y Pantalon Cortos Verano Algodón Ropa de Dormir/120'
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

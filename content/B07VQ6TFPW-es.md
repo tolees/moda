@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31782XrhmRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VQ6TFPW-es'
+slug: 'B07VQ6TFPW-es Tommy Hilfiger Stretch Slim Fit tee Camiseta Deporte  Naranja  Washed Vermillion   XX-Large para Hombre'
 actualPrice: 20.57 EUR
 currency: EUR
 price: 20.57

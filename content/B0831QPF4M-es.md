@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/417IQKcx6aL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0831QPF4M-es'
+slug: 'B0831QPF4M-es Canadian Peak Chaqueta DE Mujer AKATE Azul Marino 01'
 actualPrice: 77.4 EUR
 currency: EUR
 price: 77.4

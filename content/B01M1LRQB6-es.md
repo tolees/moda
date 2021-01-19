@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31En4PHLEAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M1LRQB6-es'
+slug: 'B01M1LRQB6-es El Naturalista N413 PLEASANT BLACK / WAKATAUA Sandalias con punta cerrada Mujer  Negro  Black   37 EU'
 actualPrice: 32.86 EUR
 currency: EUR
 price: 32.86

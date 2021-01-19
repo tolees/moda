@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41guVsb4W-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081TSW1FB-es'
+slug: 'B081TSW1FB-es adidas Mono Jersey Pol T-Shirt  Hombre  Night Marine/White  M'
 actualPrice: 11.02 EUR
 currency: EUR
 price: 11.02

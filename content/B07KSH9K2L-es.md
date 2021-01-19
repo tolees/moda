@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41wvrXnxciL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KSH9K2L-es'
+slug: 'B07KSH9K2L-es Bolsa para Mascotas Pequeño Animal doméstico Gato Perro Bolsa de Transporte Malla Transpirable Bolsa de Viaje portátil Bolso Bandolera Mochila Sling Pet Supplies - Purple S'
 actualPrice: 6.25 EUR
 currency: EUR
 price: 6.25

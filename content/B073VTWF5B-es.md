@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41cFAQaSM3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073VTWF5B-es'
+slug: 'B073VTWF5B-es Marca Amazon - find. Camiseta con Cuello Redondo Mujer  Rojo  Red   44  Label: XL'
 actualPrice: 3.88 EUR
 currency: EUR
 price: 3.88

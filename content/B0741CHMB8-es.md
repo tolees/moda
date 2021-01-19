@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Rq-b4EECL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0741CHMB8-es'
+slug: 'B0741CHMB8-es Verdster Islander – Gafas de Sol Clásicas de Espejo Anchas para Hombre & Mujer – Gafas de Sol Anchas a la Moda – Accesorios Incluidos'
 actualPrice: 16.97 EUR
 currency: EUR
 price: 16.97

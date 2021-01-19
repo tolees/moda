@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31VPxkKfbOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B9SLYVM-es'
+slug: 'B07B9SLYVM-es Tommy Hilfiger Core Stretch Slim Poplin Shirt Camisa  Blanco  Bright White 100   XXX-Large para Hombre'
 actualPrice: 47.95 EUR
 currency: EUR
 price: 47.95

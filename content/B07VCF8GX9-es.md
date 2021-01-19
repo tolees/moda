@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31bWEZGFsML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VCF8GX9-es'
+slug: 'B07VCF8GX9-es REPLAY Anbass Vaqueros  Dark Blue C07  36W / 36L para Hombre'
 actualPrice: 47.15 EUR
 currency: EUR
 price: 47.15

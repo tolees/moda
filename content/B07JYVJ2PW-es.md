@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4120hfpULXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JYVJ2PW-es'
+slug: 'B07JYVJ2PW-es Tommy Hilfiger Hilfiger Logo Sweatshirt Sudadera  Gris  Cloud Htr 501   X-Large para Hombre'
 actualPrice: 46.95 EUR
 currency: EUR
 price: 46.95

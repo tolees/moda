@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4127nYnGHiL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073RQ1YF2-es'
+slug: 'B073RQ1YF2-es Helly Hansen W Crew Chaqueta Deportiva  Mujer  Negro  Negro 990   Large  Tamaño del Fabricante:L '
 actualPrice: 61.12 EUR
 currency: EUR
 price: 61.12

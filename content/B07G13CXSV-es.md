@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31qzxjG-FzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G13CXSV-es'
+slug: 'B07G13CXSV-es Gafas de lectura sin patillas graduadas para hombre y mujer transparentes. Gafas de presbicia para hombre y mujer retro o vintage para vista cansada. Indigo +2.0 – MIM'
 actualPrice: 11.92 EUR
 currency: EUR
 price: 11.92

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/415Vor-l7xL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K2PVDKM-es'
+slug: 'B07K2PVDKM-es Under Armour UA SC 3ZER0 III  Zapatos de Baloncesto para Hombre  Rojo  Red/Jet Gray/Black  601  601   51.5 EU'
 actualPrice: 21.9 EUR
 currency: EUR
 price: 21.9

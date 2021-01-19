@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Ff9TXEpLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VDG1M4L-es'
+slug: 'B07VDG1M4L-es Desigual TS Karen Camiseta  Negro  Gris Alquitran 2022   Medium para Mujer'
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

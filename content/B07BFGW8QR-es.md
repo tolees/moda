@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413JRZbJm-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BFGW8QR-es'
+slug: 'B07BFGW8QR-es Columbia Silver Ridge II Pantalón Capri  Hombre  Gris  Grill   W36/L21'
 actualPrice: 36.49 EUR
 currency: EUR
 price: 36.49

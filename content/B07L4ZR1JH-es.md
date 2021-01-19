@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41MMRC6qwrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L4ZR1JH-es'
+slug: 'B07L4ZR1JH-es Marco Tozzi 2-2-25311-33  Botines para Mujer  Marrón  Chestnut Antic 300   38 EU'
 actualPrice: 15.11 EUR
 currency: EUR
 price: 15.11

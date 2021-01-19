@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41xPoc4-lpL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F2QTL25-es'
+slug: 'B07F2QTL25-es Vans Left Chest Logo tee  Camiseta para Hombre  Rojo  Jazzy-White Tide  Large'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

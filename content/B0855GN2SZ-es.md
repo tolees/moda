@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31U9N5t+4KL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0855GN2SZ-es'
+slug: 'B0855GN2SZ-es New Balance Sandalias Chanclas K2013 HPK para Niñas Rosa 31 EU'
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

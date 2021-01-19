@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41kzaCMOe2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DV95WMT-es'
+slug: 'B07DV95WMT-es Fallout Chaqueta XL Vault Capucha'
 actualPrice: 24.18 EUR
 currency: EUR
 price: 24.18

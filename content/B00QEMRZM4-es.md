@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31JQV30b0CL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00QEMRZM4-es'
+slug: 'B00QEMRZM4-es Crocs Classic Clog  Zuecos Unisex Adulto  Azul  Pool 40M   38/39 EU'
 actualPrice: 23.39 EUR
 currency: EUR
 price: 23.39

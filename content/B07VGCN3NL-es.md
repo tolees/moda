@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31KuFHnOM2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VGCN3NL-es'
+slug: 'B07VGCN3NL-es Calvin Klein Hip Brief 3pk Boxer  Rojo  Minnow/Horoscope/Inferno Weu   X-Large para Hombre'
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

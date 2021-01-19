@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/512bbSOVGZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TDX17RC-es'
+slug: 'B07TDX17RC-es Winline Gafas de Natación Profesional Anti Niebla Hermético Ajustable Gafas de Natación para Adultos para Hombres Y Mujeres  Fullblack/Tinted Lens '
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

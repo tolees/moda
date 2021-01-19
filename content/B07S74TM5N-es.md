@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41qJC-4Zr5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S74TM5N-es'
+slug: 'B07S74TM5N-es adidas Grand Court Base  Zapatos de Tenis para Hombre  Bianco FTWR White Blue Active Red  42 2/3 EU'
 actualPrice: 36.0 EUR
 currency: EUR
 price: 36.0

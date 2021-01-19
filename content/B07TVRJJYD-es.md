@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51RZIRy-H0L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TVRJJYD-es'
+slug: 'B07TVRJJYD-es Camisetas de Baloncesto para niño y niña  Stephen Curry #30 Camiseta de Baloncesto para niño Chaleco Pantalones Cortos de Verano Camiseta NBA Golden State Warriors'
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

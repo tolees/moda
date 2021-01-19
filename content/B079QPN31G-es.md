@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41P7nV9YP9L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079QPN31G-es'
+slug: 'B079QPN31G-es Levi s 502 Regular Taper Vaqueros  Azul  Stonewash 95978 0182   30W / 32L para Hombre'
 actualPrice: 40.14 EUR
 currency: EUR
 price: 40.14

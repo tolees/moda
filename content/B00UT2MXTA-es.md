@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Y5-EpFEAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00UT2MXTA-es'
+slug: 'B00UT2MXTA-es Tommy Hilfiger Shorty Pantalones de Pijama  Gris  Grey Heather 004   40 para Mujer'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

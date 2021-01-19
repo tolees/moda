@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41iFZMJ6QkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JL8XQ6C-es'
+slug: 'B07JL8XQ6C-es Columbia Redmond  Zapatos Bajos Impermeables Unisex Niños  Azul  Blue Bluebell  Pink 508   34 EU'
 actualPrice: 19.23 EUR
 currency: EUR
 price: 19.23

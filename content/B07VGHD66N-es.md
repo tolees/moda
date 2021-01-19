@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413y-xTCAHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VGHD66N-es'
+slug: 'B07VGHD66N-es BLEND Jet Vaqueros Slim  Azul  Denim Middle Blue 76201   W32/L32  Talla del Fabricante: 32/32  para Hombre'
 actualPrice: 29.48 EUR
 currency: EUR
 price: 29.48

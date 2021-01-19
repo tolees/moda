@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Gzj6I2JDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D44NXKH-es'
+slug: 'B07D44NXKH-es Marca Amazon - find. Chunky Gumsole Heavy Rand Botas Chelsea  Azul Navy  39 EU'
 actualPrice: 20.24 EUR
 currency: EUR
 price: 20.24

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41EY9EltaeL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MJ7FSCP-es'
+slug: 'B07MJ7FSCP-es Clarks - Botines de Cuero Hombre  color Taupe Suede  talla 43 EU'
 actualPrice: 45.31 EUR
 currency: EUR
 price: 45.31

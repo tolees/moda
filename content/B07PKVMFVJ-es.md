@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417fUhiS++L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PKVMFVJ-es'
+slug: 'B07PKVMFVJ-es Tous New Essence  Bolso bandolera para Mujer  Multicolor  Gun/Negro 995900615   28x19x10 cm  W x H x L '
 actualPrice: 90.3 EUR
 currency: EUR
 price: 90.3

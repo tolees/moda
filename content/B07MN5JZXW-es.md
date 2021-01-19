@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41mb4zpmtWL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MN5JZXW-es'
+slug: 'B07MN5JZXW-es Wrangler LS 2pkt Flap Shirt Corduroy Camisa  Marrón  Russet Brown Xma   X-Large para Hombre'
 actualPrice: 37.48 EUR
 currency: EUR
 price: 37.48

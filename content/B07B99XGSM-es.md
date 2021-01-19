@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41aaL0cKFWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B99XGSM-es'
+slug: 'B07B99XGSM-es Clarks Un Abode Ease  Zapatos de Cordones Derby para Hombre  Marrón  Dark Tan Leather   44 EU'
 actualPrice: 42.12 EUR
 currency: EUR
 price: 42.12

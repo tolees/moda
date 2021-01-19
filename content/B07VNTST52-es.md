@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41xx9Xl1MQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VNTST52-es'
+slug: 'B07VNTST52-es Lee Daren Button Fly Vaqueros Straight  Azul  Dk Clean Foam EK   38W x 36L para Hombre'
 actualPrice: 13.87 EUR
 currency: EUR
 price: 13.87

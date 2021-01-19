@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41PeNe0k4ML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KYV332C-es'
+slug: 'B00KYV332C-es Helly Hansen Jacke W Loke  Chaqueta Deportiva para Mujer  Negro  Black 990   Medium'
 actualPrice: 71.99 EUR
 currency: EUR
 price: 71.99

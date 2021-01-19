@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41GwFkjP0ML._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0744MQXTD-es'
+slug: 'B0744MQXTD-es Capitán Denim Denver Vaqueros Skinny  Azul  Mid Blue   WNA/L30  Tamaño del Fabricante:46  para Mujer'
 actualPrice: 10.38 EUR
 currency: EUR
 price: 10.38

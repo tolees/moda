@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31en4OP4xML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071ZN19YX-es'
+slug: 'B071ZN19YX-es Under Armour UA Challenger II Pantalones para Hombre  Ajustado pantalón de chándal  Pantalones Largos ultraligeros y de Secado rápido  Black/Graphite  001   SM'
 actualPrice: 28.86 EUR
 currency: EUR
 price: 28.86

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/419S0sdYWAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JHCGJYK-es'
+slug: 'B07JHCGJYK-es Columbia REDMOND V2 Zapatos de senderismo impermeables para mujer  Beige Pebble  Beet   38 EU'
 actualPrice: 57.99 EUR
 currency: EUR
 price: 57.99

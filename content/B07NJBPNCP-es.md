@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Ftx7oRN6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NJBPNCP-es'
+slug: 'B07NJBPNCP-es Springfield 4.2.T.Bimateria.Coraz.Ban Camiseta  Multicolor  Multicolor 42   Small  Tamaño del Fabricante: S  para Mujer'
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

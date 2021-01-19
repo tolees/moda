@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51GdfSMhzZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G3NXTKJ-es'
+slug: 'B07G3NXTKJ-es SELECTED HOMME Slhslimnew-Mark Shirt LS B Noos Camisa  Multicolor  Dark Sapphire AOP: AOP   Small para Hombre'
 actualPrice: 17.0 EUR
 currency: EUR
 price: 17.0

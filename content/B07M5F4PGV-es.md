@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41NTfdj9AKL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M5F4PGV-es'
+slug: 'B07M5F4PGV-es Wrangler LS Refined Polo Camisa Manga Larga  Negro  Black 100   Large para Hombre'
 actualPrice: 22.48 EUR
 currency: EUR
 price: 22.48

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41RsaYA8UtL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B082BBDLSK-es'
+slug: 'B082BBDLSK-es Geographical Norway Chaqueta Softshell Hombre Tyreek Negro L'
 actualPrice: 79.2 EUR
 currency: EUR
 price: 79.2

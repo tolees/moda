@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41kZM7h2rsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01FO0QZIQ-es'
+slug: 'B01FO0QZIQ-es Timberland Waterville 6 Inch Double Collar Waterproof  Botas para Mujer  Amarillo  Wheat Nubuck   42 EU'
 actualPrice: 54.0 EUR
 currency: EUR
 price: 54.0

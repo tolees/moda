@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51GuYKFk+IL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00PWN1NWY-es'
+slug: 'B00PWN1NWY-es KRISP Vestido Moda Mujer Fruncido  Granate  6487   38  6487-WIN-10'
 actualPrice: 16.49 EUR
 currency: EUR
 price: 16.49

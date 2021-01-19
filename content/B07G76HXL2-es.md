@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41m1iaXIpFL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G76HXL2-es'
+slug: 'B07G76HXL2-es Kipling ONALO Bolso de gimnasio  45 cm  18 liters  Blanco  Rainbow White '
 actualPrice: 42.5 EUR
 currency: EUR
 price: 42.5

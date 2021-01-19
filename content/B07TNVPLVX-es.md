@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31dkiwI+c5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TNVPLVX-es'
+slug: 'B07TNVPLVX-es Clarks Orinoco Strap  Sandalias de Talón Abierto para Mujer  Azul  Navy Leather Navy Leather   40 EU'
 actualPrice: 12.69 EUR
 currency: EUR
 price: 12.69

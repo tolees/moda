@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31-fSWAQMIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N4FF6N7-es'
+slug: 'B01N4FF6N7-es Columbia Saturday Trail Falda Pantalón con Protección Solar 50  Mujer  Beige  Fossil   8'
 actualPrice: 33.49 EUR
 currency: EUR
 price: 33.49

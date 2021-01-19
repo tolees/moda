@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41ODbAD2POL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N8KZD85-es'
+slug: 'B07N8KZD85-es Izod Poplin Plaid BD Shirt Camisa Casual  Rosa  Candy Pink 660   L para Hombre'
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

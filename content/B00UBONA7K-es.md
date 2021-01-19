@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41z0WB8pQqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00UBONA7K-es'
+slug: 'B00UBONA7K-es Tommy Hilfiger Cotton cn tee SS Icon Camiseta  Navy Blazer-PT 416  M para Hombre'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

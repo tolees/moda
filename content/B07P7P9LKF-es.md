@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41SZBEJhpRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P7P9LKF-es'
+slug: 'B07P7P9LKF-es Morgan 192-rdenty.p Vestido  Negro  Noir Noir   36  Talla del Fabricante: T36  para Mujer'
 actualPrice: 23.58 EUR
 currency: EUR
 price: 23.58

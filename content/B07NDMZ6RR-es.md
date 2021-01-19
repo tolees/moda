@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41EKV%2BXbdjL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NDMZ6RR-es'
+slug: 'B07NDMZ6RR-es G-STAR RAW Core Super Slim Camisa Vaquera  Multicolor  Milk/Hudson Blue Ao 8390   L para Hombre'
 actualPrice: 20.35 EUR
 currency: EUR
 price: 20.35

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31CJLYt5nrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KSGMFYT-es'
+slug: 'B07KSGMFYT-es Columbia Peak to Point Pantalón de Senderismo  Poliéster  Mujer  Gris  India Ink   Talla US: W8/R/  EU W40/R '
 actualPrice: 31.48 EUR
 currency: EUR
 price: 31.48

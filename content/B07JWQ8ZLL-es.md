@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41xu5IybG3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JWQ8ZLL-es'
+slug: 'B07JWQ8ZLL-es Pepe Jeans Sealey Pm581633 Sudadera   Sherwood 664   Small para Hombre'
 actualPrice: 49.85 EUR
 currency: EUR
 price: 49.85

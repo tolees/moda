@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41uf0kum57L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RWJTY6P-es'
+slug: 'B07RWJTY6P-es Only Onlenya Faux Leather Biker CC Otw Chaqueta  Rojo  Chinese Red Chinese Red   40  Talla del Fabricante: 38  para Mujer'
 actualPrice: 17.3 EUR
 currency: EUR
 price: 17.3

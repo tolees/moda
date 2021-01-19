@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Y63BI8KOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TPXD7SZ-es'
+slug: 'B07TPXD7SZ-es HAWKERS · ONE LS · Rubber Black · Sky · Gafas de sol para hombre y mujer'
 actualPrice: 27.29 EUR
 currency: EUR
 price: 27.29

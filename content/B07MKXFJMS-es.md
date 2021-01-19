@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51YTWy-PzAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MKXFJMS-es'
+slug: 'B07MKXFJMS-es oodji Ultra Mujer Blusa con Escote Barco y Volantes en Las Mangas  Azul  ES 42 / L'
 actualPrice: 8.3 EUR
 currency: EUR
 price: 8.3

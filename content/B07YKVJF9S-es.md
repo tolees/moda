@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21sISmRIP6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YKVJF9S-es'
+slug: 'B07YKVJF9S-es Esprit 999ee1n801 Camiseta  Blanco  White 100   X-Large  Pack de 2  para Mujer'
 actualPrice: 15.29 EUR
 currency: EUR
 price: 15.29

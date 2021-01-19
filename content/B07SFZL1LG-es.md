@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51zJhFyo-+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SFZL1LG-es'
+slug: 'B07SFZL1LG-es Kappa Maglia Replica Home 2019/2020 Camiseta De Juego  Hombre  Azul  M'
 actualPrice: 15.6 EUR
 currency: EUR
 price: 15.6

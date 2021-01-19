@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41J7MDMq62L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VVFJ5VH-es'
+slug: 'B07VVFJ5VH-es Tommy Hilfiger Small T Camiseta de Cuello Redondo y Logo Engomado  Gris  Lt Grey Htr P01   L para Hombre'
 actualPrice: 19.09 EUR
 currency: EUR
 price: 19.09

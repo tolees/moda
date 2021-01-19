@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41h9XgKWO7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G13NR7W-es'
+slug: 'B07G13NR7W-es Cartera de Cuero Billetera de hombre Monederos de hombre con Cuero Genuino Gran Capacidad & RFID Bloqueo  Carteras hombre Cuero con bolsillo de cremallera para monedas &llaves'
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

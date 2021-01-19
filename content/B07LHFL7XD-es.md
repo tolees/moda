@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-z-jseOeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LHFL7XD-es'
+slug: 'B07LHFL7XD-es The North Face SS Raglan Easy tee Camiseta  Hombre  Azul  Storm Blue   S'
 actualPrice: 17.5 EUR
 currency: EUR
 price: 17.5

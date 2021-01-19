@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31AiOsSSlHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TXF9M5Y-es'
+slug: 'B07TXF9M5Y-es Levi s 711 Shaping Super Skinny Pantalón Que moldea la Silueta  Azul  London Attitude 0521   32W / 32L para Mujer'
 actualPrice: 43.39 EUR
 currency: EUR
 price: 43.39

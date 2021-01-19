@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41UqpD6-iPL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D2JRCHY-es'
+slug: 'B07D2JRCHY-es find. Paris Embroidered Sudadera  Verde  Green   44  Talla del Fabricante: X-Large '
 actualPrice: 15 EUR
 currency: EUR
 price: 15

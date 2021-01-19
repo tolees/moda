@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31-2jafB51L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074ZJL6NZ-es'
+slug: 'B074ZJL6NZ-es Polaroid PLD 2058/S M9 003 55 Gafas de sol  Negro  Matt Black/Grey Grey   Hombre'
 actualPrice: 31.53 EUR
 currency: EUR
 price: 31.53

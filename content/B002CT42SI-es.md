@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31oSD0-iC6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002CT42SI-es'
+slug: 'B002CT42SI-es adidas Originals Adilette  Zapatos de Playa y Piscina Unisex Adulto  Blanco  White/Black/White   46 EU'
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41g-DMo7SoL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L6HGFHH-es'
+slug: 'B07L6HGFHH-es Under Armour Armour Insulated Chaqueta  Hombre  Negro  MD'
 actualPrice: 69.35 EUR
 currency: EUR
 price: 69.35

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31v2gLZ2BZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HX6FKPZ-es'
+slug: 'B07HX6FKPZ-es Lacoste Ch9623 Camisa  Azul  Marine/Marine 423   Medium  Talla del Fabricante: 39  para Hombre'
 actualPrice: 77.0 EUR
 currency: EUR
 price: 77.0

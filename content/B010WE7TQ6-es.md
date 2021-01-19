@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41GucfFdsgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B010WE7TQ6-es'
+slug: 'B010WE7TQ6-es Crocs Classic Clog  Zuecos Unisex Adulto  Naranja  Tangerine 817   38/39 EU'
 actualPrice: 27.8 EUR
 currency: EUR
 price: 27.8

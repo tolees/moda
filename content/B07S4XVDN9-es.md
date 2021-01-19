@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31BY41sy9xL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S4XVDN9-es'
+slug: 'B07S4XVDN9-es BOSS tee Curved Camiseta  Blanco  Natural 102   Medium para Hombre'
 actualPrice: 34.21 EUR
 currency: EUR
 price: 34.21

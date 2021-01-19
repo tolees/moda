@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Sk2bPFnoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PPLVTQP-es'
+slug: 'B07PPLVTQP-es Zapatos de Trabajo Muy cómodos para Trabajos de hostelería y no resbalan-UniseZapatos Casuales Muy cómodos para Trabajos de hostelería y no resbalan-Unisex-adultox-Adulto  35 EU  Negro '
 actualPrice: 17.98 EUR
 currency: EUR
 price: 17.98

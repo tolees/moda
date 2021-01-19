@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41qy4bmKf3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QWRH5C8-es'
+slug: 'B07QWRH5C8-es riou Bikini Conjuntos de Bikinis para Mujer Push Up Mujeres Traje de BañO Estampado Bohemio Dividido BañAdores con Relleno Tops y Braguitas Mujer 2019 brasileños vikinis'
 actualPrice: 1.97 EUR
 currency: EUR
 price: 1.97

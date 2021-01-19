@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41mieSGlRPL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DFTJT87-es'
+slug: 'B07DFTJT87-es Vero Moda NOS Vmcurl High Neck Faux Fur Jacket Noos Chaqueta  Negro Black  40  Talla del Fabricante: Medium  para Mujer'
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

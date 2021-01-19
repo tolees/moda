@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41JMqQE4E6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TLFLY3N-es'
+slug: 'B07TLFLY3N-es Levi s The Original Camiseta  Rojo  Hm Patch OG Hm tee Earth Red 0008   Small para Hombre'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

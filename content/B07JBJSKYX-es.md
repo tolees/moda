@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-T9s9hGFL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JBJSKYX-es'
+slug: 'B07JBJSKYX-es Skechers Double Up  Zapatos de tacón con Punta Cerrada para Mujer  Plateado  Silver SIL   39 EU'
 actualPrice: 38.95 EUR
 currency: EUR
 price: 38.95

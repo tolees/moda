@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51cd9d77jwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TYK41RD-es'
+slug: 'B07TYK41RD-es YZHEN Hombre Traje de Chaqueta a Cuadros Doble y Pantalones'
 actualPrice: 78.68 EUR
 currency: EUR
 price: 78.68

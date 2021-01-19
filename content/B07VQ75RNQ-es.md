@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31FGFPjfPNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VQ75RNQ-es'
+slug: 'B07VQ75RNQ-es Tommy Hilfiger Tommy Logo tee Camiseta Deporte  Amarillo  Sun Ray ZFB   Large para Hombre'
 actualPrice: 23.11 EUR
 currency: EUR
 price: 23.11

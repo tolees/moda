@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41Vs3rseTaL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DYX9XRY-es'
+slug: 'B07DYX9XRY-es Columbia Pike Lake Chaqueta  Mujer  Negro  Black   M'
 actualPrice: 75.99 EUR
 currency: EUR
 price: 75.99

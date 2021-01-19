@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31pg2+X3VwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DJ2X6K4-es'
+slug: 'B07DJ2X6K4-es Geox U Goinway B  Sandalias con Punta Abierta para Hombre  Verde  Military/Black C0498   43 EU'
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

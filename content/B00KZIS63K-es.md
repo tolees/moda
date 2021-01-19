@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Hu2yWl8kL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KZIS63K-es'
+slug: 'B00KZIS63K-es SOLS- Camiseta de Manga Corta para niñas  8 años   Blanco '
 actualPrice: 3.45 EUR
 currency: EUR
 price: 3.45

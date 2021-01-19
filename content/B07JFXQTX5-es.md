@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51Z3PsRZZGL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JFXQTX5-es'
+slug: 'B07JFXQTX5-es GLOGLOW Capa Casual de otoño de Las Mujeres  Encaje o-Cuello con Cremallera Frontal Abierta Chaqueta de Manga Larga Chaqueta de Punto Blusa L-Blanco '
 actualPrice: 5.89 EUR
 currency: EUR
 price: 5.89

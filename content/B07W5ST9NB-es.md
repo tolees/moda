@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41vnN7Eb5KL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W5ST9NB-es'
+slug: 'B07W5ST9NB-es Tommy Hilfiger Brooklyn Short Light Twill Vaqueros  Primary Red  28W / 30L para Hombre'
 actualPrice: 27.47 EUR
 currency: EUR
 price: 27.47

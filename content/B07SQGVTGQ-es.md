@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41BfkCk5nZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SQGVTGQ-es'
+slug: 'B07SQGVTGQ-es Geox D Sozy G  Sandalias con Punta Abierta para Mujer  Marrón  Brown/Lt Bronze C6fb6   35 EU'
 actualPrice: 48.93 EUR
 currency: EUR
 price: 48.93

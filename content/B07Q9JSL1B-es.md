@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41r01a8wrcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q9JSL1B-es'
+slug: 'B07Q9JSL1B-es Cronell Story Chaqueta De Camuflaje para Niñas Chaqueta Cortaviento Informal Sección Larga De Remaches Sueltos Abrigo para Niñas De 5 A 15 Años  1 L '
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

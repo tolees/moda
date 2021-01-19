@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31QKZDy%2Bd0L._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JMST5QN-es'
+slug: 'B07JMST5QN-es Amazon Essentials - Chaqueta de algodón terry de manga larga con cremallera completa para mujer  Graphite  US M  EU M - L '
 actualPrice: 12.8 EUR
 currency: EUR
 price: 12.8

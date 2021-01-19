@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41unwPePnuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QCLNP8Y-es'
+slug: 'B07QCLNP8Y-es Roamers - Sandalias Plantilla Espuma viscoelástica de Cierre Adhesivo  44 EU   Marrón '
 actualPrice: 31.45 EUR
 currency: EUR
 price: 31.45

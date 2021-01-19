@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41+g6iKvLsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VN8XCQS-es'
+slug: 'B07VN8XCQS-es Pepe Jeans Eggo Camiseta  Azul  Steel Blue 563   Medium para Hombre'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

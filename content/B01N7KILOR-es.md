@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41RCod6U9rL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N7KILOR-es'
+slug: 'B01N7KILOR-es Crocs Classic Clog Kids Roomy fit Zuecos Unisex niños  Gris  Slate Grey   19/20 EU'
 actualPrice: 17.33 EUR
 currency: EUR
 price: 17.33

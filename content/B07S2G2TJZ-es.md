@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31A1BbZk2vL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S2G2TJZ-es'
+slug: 'B07S2G2TJZ-es Levi s Vneck Camiseta  Blanco  White + 0002   X-Small para Mujer'
 actualPrice: 15.49 EUR
 currency: EUR
 price: 15.49

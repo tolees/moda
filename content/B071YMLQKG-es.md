@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/518HjLiwXNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071YMLQKG-es'
+slug: 'B071YMLQKG-es Boland 04241 Diadema Nilo Reina Disfraz de Vestido - Talla Única'
 actualPrice: 7.47 EUR
 currency: EUR
 price: 7.47

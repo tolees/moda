@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51jEKfq8fAL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CWSS4WQ-es'
+slug: 'B07CWSS4WQ-es AmzBarley Princesa Disfraz Traje Vestido Dress Costume Niña Cumpleaños Cosplay con Capa Disfraz Princesa Niña Vestido Traje Niña Fiesta Verano Primavera Boda Cereminia Manga Larga 3-4 Años Azul'
 actualPrice: 21.49 EUR
 currency: EUR
 price: 21.49

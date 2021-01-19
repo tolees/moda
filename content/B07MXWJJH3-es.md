@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51TwDivM6fL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MXWJJH3-es'
+slug: 'B07MXWJJH3-es Desigual 19WAXABG - Bolso de hombro de Sintético Mujer 16x6x26 cm  B x H x T '
 actualPrice: 35.1 EUR
 currency: EUR
 price: 35.1

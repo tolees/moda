@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51zmowXDK-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K5L7XV6-es'
+slug: 'B07K5L7XV6-es Levi s Type 3 Chaqueta Vaquera  Azul  Mayze Sherpa Trucker 0089   Medium para Hombre'
 actualPrice: 62.4 EUR
 currency: EUR
 price: 62.4

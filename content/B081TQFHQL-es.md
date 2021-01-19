@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31VsiCNfelL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081TQFHQL-es'
+slug: 'B081TQFHQL-es adidas Fef Camiseta Polo  Hombre  Collegiate Navy  L'
 actualPrice: 18.21 EUR
 currency: EUR
 price: 18.21

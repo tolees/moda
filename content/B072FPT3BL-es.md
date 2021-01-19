@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41r+Y44xTrL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072FPT3BL-es'
+slug: 'B072FPT3BL-es DoGeek Transpirable Zapatos de Ballet Zapatillas de Ballet de Danza Baile para Niña'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

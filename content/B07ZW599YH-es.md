@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41tBsjVt4YL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZW599YH-es'
+slug: 'B07ZW599YH-es Marca Amazon - find. CONNIE-S2C1-Court Zapatos de tacón con Punta Cerrada  Gris  40 EU'
 actualPrice: 12.6 EUR
 currency: EUR
 price: 12.6

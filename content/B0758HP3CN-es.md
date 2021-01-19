@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ah-Io6L4L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0758HP3CN-es'
+slug: 'B0758HP3CN-es edc by Esprit 997cc1b817 Vaqueros Skinny  Azul  Blue Medium Wash 902   W32/L30 para Mujer'
 actualPrice: 25.54 EUR
 currency: EUR
 price: 25.54

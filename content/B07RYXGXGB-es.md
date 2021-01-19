@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31I5FCbsOiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RYXGXGB-es'
+slug: 'B07RYXGXGB-es Pepe Jeans Regent Vaqueros Skinny  Azul  Medium Used Wiser Wash 000   Talla única  Talla del Fabricante: W27/L30  para Mujer'
 actualPrice: 52.99 EUR
 currency: EUR
 price: 52.99

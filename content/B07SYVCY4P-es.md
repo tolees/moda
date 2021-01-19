@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41vuoumjrXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SYVCY4P-es'
+slug: 'B07SYVCY4P-es adidas Long tee Camiseta de Manga Corta  Mujer  White  40'
 actualPrice: 33.09 EUR
 currency: EUR
 price: 33.09

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31IZ39KKDVL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FR3NNWP-es'
+slug: 'B07FR3NNWP-es Camper 1913  Zapatos de cordones Oxford para Hombre  Marrón  Dark Brown 200   44 EU'
 actualPrice: 69.3 EUR
 currency: EUR
 price: 69.3

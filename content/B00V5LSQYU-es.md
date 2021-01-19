@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41aDJHLuHrL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00V5LSQYU-es'
+slug: 'B00V5LSQYU-es Kempa Pantalón Deporte Core Modern Gris Jaspeado 2XS'
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

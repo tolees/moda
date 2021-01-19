@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417YQ5QCfTL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S5FWFLV-es'
+slug: 'B07S5FWFLV-es Karactermania Harry Potter Relic-Action Mini Horizontal Schultertasche Bolso Bandolera 22 Centimeters Multicolor  Multicolour '
 actualPrice: 8.45 EUR
 currency: EUR
 price: 8.45

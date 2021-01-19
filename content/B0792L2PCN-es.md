@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/414307osmEL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0792L2PCN-es'
+slug: 'B0792L2PCN-es Geox J New Savage Boy A  Zapatillas para Niños  Azul  Navy/Yellow C0657   31 EU'
 actualPrice: 33.4 EUR
 currency: EUR
 price: 33.4

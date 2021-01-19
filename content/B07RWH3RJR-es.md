@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41vKCBjT63L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RWH3RJR-es'
+slug: 'B07RWH3RJR-es Esprit 079ee2k016 Camisa Manga Larga  Azul  Navy 400   Medium para Hombre'
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

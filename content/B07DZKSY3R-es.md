@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413Xcwb6JUL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DZKSY3R-es'
+slug: 'B07DZKSY3R-es Columbia Powder Lite Hooded Chaqueta De Plumón con Capucha  Hombre  Azul  Dark Mountain Crosshatch Print   XL'
 actualPrice: 69.95 EUR
 currency: EUR
 price: 69.95

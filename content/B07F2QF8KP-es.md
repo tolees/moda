@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31j2OYLbnRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F2QF8KP-es'
+slug: 'B07F2QF8KP-es Helly Hansen Moss Outdoor Chaqueta Impermeable  Hombre  Black  S'
 actualPrice: 38.81 EUR
 currency: EUR
 price: 38.81

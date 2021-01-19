@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41UfgQZZIAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VNMNTYJ-es'
+slug: 'B07VNMNTYJ-es G-STAR RAW Denim Mix Hooded Chaqueta  Azul  Mazarine Blue C183-4213   XS para Hombre'
 actualPrice: 104.97 EUR
 currency: EUR
 price: 104.97

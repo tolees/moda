@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41R7WfWDHJL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RF8VLTY-es'
+slug: 'B07RF8VLTY-es Fila Disruptor 2 Premium Metallic Mujeres Zapatillas Moda - 39.5 EU'
 actualPrice: 64.89 EUR
 currency: EUR
 price: 64.89

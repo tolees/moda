@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Gaxdm-nxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B94YFC7-es'
+slug: 'B07B94YFC7-es Clarks Linvale Jerica  Zapatos de Tacón para Mujer  Azul  Navy Leather   39 EU'
 actualPrice: 40.17 EUR
 currency: EUR
 price: 40.17

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41iJWE-IkjL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y59FYF4-es'
+slug: 'B07Y59FYF4-es Geographical Norway Sudadera DE Hombre GYMCLASS B Azul Marino M'
 actualPrice: 27.3 EUR
 currency: EUR
 price: 27.3

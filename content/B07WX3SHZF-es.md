@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/419Pq+VK7pL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WX3SHZF-es'
+slug: 'B07WX3SHZF-es Charles Wilson Originals Sudadera Algodón Ligera Capucha Cremallera  XX-Large  Port  0819  '
 actualPrice: 18.95 EUR
 currency: EUR
 price: 18.95

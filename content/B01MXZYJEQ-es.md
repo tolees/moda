@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/4143guZY5GL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MXZYJEQ-es'
+slug: 'B01MXZYJEQ-es Pepaloves Rackets Skirt Cream  Falda Casual para Mujer  Beige  Cream   M'
 actualPrice: 11.59 EUR
 currency: EUR
 price: 11.59

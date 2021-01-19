@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411vj1bfItL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0777SFVCB-es'
+slug: 'B0777SFVCB-es Dim Mix and Colors Boxer X2  Negro  Negro CT Jaune Safran/Negro CT Azul Marin 5VV   X-Large  Pack de 2  para Hombre'
 actualPrice: 14.61 EUR
 currency: EUR
 price: 14.61

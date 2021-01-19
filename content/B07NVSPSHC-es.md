@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31DLL37nTdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NVSPSHC-es'
+slug: 'B07NVSPSHC-es G-STAR RAW Graphic Logo 4 Camiseta  Blanco  Medium  Talla del Fabricante:  para Hombre'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

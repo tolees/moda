@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41dqoFne9SL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071NTNDJ5-es'
+slug: 'B071NTNDJ5-es Lacoste Sport TH0123 Camiseta  Negro  Noir   Medium  Talla del Fabricante: 4  para Hombre'
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

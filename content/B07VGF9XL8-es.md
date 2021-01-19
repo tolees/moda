@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/413uarMENFL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VGF9XL8-es'
+slug: 'B07VGF9XL8-es OBEEII Vestidos Niñas Fiesta Bordado de Tul para Fiesta Comunion Vestido de Princesa Cumpleaños Cóctel Ceremonia Boda Prom Amarillo 3-4 Años'
 actualPrice: 14.65 EUR
 currency: EUR
 price: 14.65

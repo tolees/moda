@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41R-SiwLzZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V5QPMZW-es'
+slug: 'B07V5QPMZW-es Tommy Hilfiger Nautical Print Beach Sandal  Sandalias con Punta Abierta para Hombre  Azul  Desert Sky Dw5   43 EU'
 actualPrice: 17.95 EUR
 currency: EUR
 price: 17.95

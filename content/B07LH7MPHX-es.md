@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ET2GLR5TL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LH7MPHX-es'
+slug: 'B07LH7MPHX-es The North Face Quest Jacket Chaqueta Estampada para Mujer  Lapis Blue Flower Print  XS'
 actualPrice: 35.96 EUR
 currency: EUR
 price: 35.96

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41EYhN-BZEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NFGMZRR-es'
+slug: 'B07NFGMZRR-es Tommy Hilfiger Top Essential with V-Neck Camiseta de Manga Larga  Azul  Sky Captain Cjm   L para Mujer'
 actualPrice: 41.47 EUR
 currency: EUR
 price: 41.47

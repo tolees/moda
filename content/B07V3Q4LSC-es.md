@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41GC2ixSBDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V3Q4LSC-es'
+slug: 'B07V3Q4LSC-es Jack & Jones Jprwetford Parka STS  Verde  Olive Night Olive Night   XX-Large para Hombre'
 actualPrice: 28.19 EUR
 currency: EUR
 price: 28.19

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41omqBhCSjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N18BJ6J-es'
+slug: 'B07N18BJ6J-es G-STAR RAW 3301 Slim Fit Jeans Vaqueros  Antic Charcoal  25W / 30L para Hombre'
 actualPrice: 41.95 EUR
 currency: EUR
 price: 41.95

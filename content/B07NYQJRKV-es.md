@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41jhm2y4G8L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NYQJRKV-es'
+slug: 'B07NYQJRKV-es Sexy Lencería Picardias Mujer Body Transparente Conjunto de Encaje Pecho Abierto Sexy Ropa Erótica Pijama Encaje y Tul Abierta Picardías Babydoll a Juego Camisón de Encaje'
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

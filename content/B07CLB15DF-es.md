@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41T8DyCERwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CLB15DF-es'
+slug: 'B07CLB15DF-es Corrector de Postura Espalda y Hombros Para Hombre y Mujer Talla Única - Faja para Dolor de Espalda - Chaleco Corrector de Postura Enderezador de Espalda Transpirable - Incluye eBook de Ejercicios'
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

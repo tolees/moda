@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41S2LoKTeZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SRKB1Z4-es'
+slug: 'B07SRKB1Z4-es Geox D Myria B  Zapatillas Altas para Mujer  Negro  Black C9999   40 EU'
 actualPrice: 61.16 EUR
 currency: EUR
 price: 61.16

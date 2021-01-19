@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41aPXfKQqmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074FWVM26-es'
+slug: 'B074FWVM26-es Marca Amazon - find. Camiseta con Franjas para Hombre  Gris  Slate Grey   XL  Label: XL'
 actualPrice: 5.67 EUR
 currency: EUR
 price: 5.67

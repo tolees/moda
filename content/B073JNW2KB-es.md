@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41Nl1ob4AeL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B073JNW2KB-es'
+slug: 'B073JNW2KB-es find. Camiseta Manga Larga Hombre  Marfil  Off White   50  Talla del fabricante: Medium '
 actualPrice: 4.2 EUR
 currency: EUR
 price: 4.2

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411OWOeQvUL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078S7GPPD-es'
+slug: 'B078S7GPPD-es Alicia abrigo chaqueta de invierno damas negro - Gothic Fantasy - XXL - Poizen Industries'
 actualPrice: 52.99 EUR
 currency: EUR
 price: 52.99

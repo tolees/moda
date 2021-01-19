@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31XdTY5lspL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0813HSPSS-es'
+slug: 'B0813HSPSS-es Marca Amazon - Find. Sandalias abiertas para mujer 90s Mule  color Marrón  talla 40 EU'
 actualPrice: 5.52 EUR
 currency: EUR
 price: 5.52

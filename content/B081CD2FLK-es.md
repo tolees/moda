@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41XpjuwRTdL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081CD2FLK-es'
+slug: 'B081CD2FLK-es Geographical Norway Chaqueta Hombre BOKER Negro XL'
 actualPrice: 65.0 EUR
 currency: EUR
 price: 65.0

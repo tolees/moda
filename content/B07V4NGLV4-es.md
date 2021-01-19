@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31EZ4WvLdpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V4NGLV4-es'
+slug: 'B07V4NGLV4-es Billabong™ - Chanclas - Hombre - EU 45 - Negro'
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

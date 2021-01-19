@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41oihmyeSIL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LF5W7F6-es'
+slug: 'B07LF5W7F6-es Levi s Colorblock Windrunner Chaqueta  Rojo  Chinese Red 0000   Small para Hombre'
 actualPrice: 20.32 EUR
 currency: EUR
 price: 20.32

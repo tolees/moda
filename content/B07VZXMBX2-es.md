@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41KSROp73YL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VZXMBX2-es'
+slug: 'B07VZXMBX2-es Hush Puppies - Zapatos Rosie Estilo Menorquina de Esparto para Mujer señora  36 EU   Rosa '
 actualPrice: 41.95 EUR
 currency: EUR
 price: 41.95

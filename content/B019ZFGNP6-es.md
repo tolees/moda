@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/414bNaGUIbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B019ZFGNP6-es'
+slug: 'B019ZFGNP6-es Under Armour Tech Short Sleeve-Twist Camiseta  Mujer  Negro  XS'
 actualPrice: 12.9 EUR
 currency: EUR
 price: 12.9

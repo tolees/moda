@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41q4O6DWgSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TS2X8ND-es'
+slug: 'B07TS2X8ND-es Disney Sudadera para niños Toy Story Multicolor 3-4 Años'
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

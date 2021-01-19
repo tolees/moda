@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31V-tzSWPNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B019PWDED8-es'
+slug: 'B019PWDED8-es Diesel CREW NECK ESSENTIAL  Camiseta para Hombre  Negro  Black 900/0aalw   S  Pack de 3'
 actualPrice: 27.95 EUR
 currency: EUR
 price: 27.95

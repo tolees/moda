@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51gS15TpamL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MXGXDRG-es'
+slug: 'B07MXGXDRG-es Moxilyn Camisetas de Ciclismo para Hombre  Camiseta Corta  Top de Ciclismo Jerseys de Ciclismo  Ropa de Ciclismo  Mountain Bike/MTB Shirt  Transpirable y Que Absorbe El Sudor  Secado Rápido'
 actualPrice: 18.66 EUR
 currency: EUR
 price: 18.66

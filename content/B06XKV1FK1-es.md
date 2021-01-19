@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41WiGWIpOyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XKV1FK1-es'
+slug: 'B06XKV1FK1-es ElegantPark HC1621 Zapatos para Novia Boda Tacon Bajo Ronda Hebilla Bombea los Zapatos de Danza de Satén Zapatos de Boda Mujer Marfil EU 41'
 actualPrice: 52.99 EUR
 currency: EUR
 price: 52.99

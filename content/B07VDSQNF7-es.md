@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41hXOcDfL8L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VDSQNF7-es'
+slug: 'B07VDSQNF7-es Fila Boxer para Hombre  Multicolor  Small  pack de 4 '
 actualPrice: 12.41 EUR
 currency: EUR
 price: 12.41

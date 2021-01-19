@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51aRQqCmshL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QC27NWW-es'
+slug: 'B07QC27NWW-es yuyte 288 Agujeros Seis Capas Colocan Cajas de Organizador de Joyas de Metal  Giratorios Joyas Pendientes Collar Pulsera Almacenamiento árbol Torre Soporte'
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

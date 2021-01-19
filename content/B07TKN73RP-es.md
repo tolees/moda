@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41MYYf7MZqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TKN73RP-es'
+slug: 'B07TKN73RP-es Clarks Maritsa95 Glad  Sandalias de Talón Abierto para Mujer  Beige  Sage Nubuck Sage Nubuck   39.5 EU'
 actualPrice: 32.82 EUR
 currency: EUR
 price: 32.82

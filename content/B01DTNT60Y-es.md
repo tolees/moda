@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31b0s7rfKdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01DTNT60Y-es'
+slug: 'B01DTNT60Y-es Jimmy Choo Brillengestelle Jc180 Monturas de gafas  Blanco  Weiß   53.0 para Mujer'
 actualPrice: 47.7 EUR
 currency: EUR
 price: 47.7

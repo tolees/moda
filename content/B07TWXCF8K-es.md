@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41HUaH1EjaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TWXCF8K-es'
+slug: 'B07TWXCF8K-es Women s Secret Sense 1 Se1 Ruffle PJ Conjuntos de Pijama  Negro  Negro 1   Medium  Tamaño del Fabricante: M  para Mujer'
 actualPrice: 10.72 EUR
 currency: EUR
 price: 10.72

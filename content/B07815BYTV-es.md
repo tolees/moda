@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31YPm9YnKDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07815BYTV-es'
+slug: 'B07815BYTV-es Under Armour Tech 2.0 T Camiseta de Manga Corta  Hombre  Azul  Royal/Graphite 400   L'
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31PxMDC-WwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V5FFGJN-es'
+slug: 'B07V5FFGJN-es SALOMON Explore WP JKT M Chaqueta Impermeable  Hombre  Beige  Rainy Day '
 actualPrice: 65.98 EUR
 currency: EUR
 price: 65.98

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Vp1q4sQrL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RDQBZCM-es'
+slug: 'B07RDQBZCM-es adidas Hoops Mid 2.0 K  Zapatos de Baloncesto Unisex Niños  Multicolor Ftwbla Negbás Placen 000  36 EU'
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

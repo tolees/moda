@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41K2nGLmqZL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075JNKTBM-es'
+slug: 'B075JNKTBM-es Columbia 1420421  Chaqueta Forro Polar Hombre  Negro  Black   XS'
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

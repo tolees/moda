@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416oy-K+GnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00NQUPZ24-es'
+slug: 'B00NQUPZ24-es LTB Jeans 5346 - Vaqueros para mujer  Azul  Blue Lapis Wash 3923   W25/L36  talla fabricante: 25 '
 actualPrice: 29.4 EUR
 currency: EUR
 price: 29.4

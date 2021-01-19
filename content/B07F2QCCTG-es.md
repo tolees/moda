@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41XoTXNg9sL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F2QCCTG-es'
+slug: 'B07F2QCCTG-es Helly Hansen Moss Rain Shell Chaqueta Impermeable con Capucha  Mujer  Negro  XL'
 actualPrice: 51.99 EUR
 currency: EUR
 price: 51.99

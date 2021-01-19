@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41AwdAsDtfL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FFD23SJ-es'
+slug: 'B07FFD23SJ-es Wrangler Greensboro Regular Jeans Vaqueros  Azul  For Real 027   46W / 34L para Hombre'
 actualPrice: 46.09 EUR
 currency: EUR
 price: 46.09

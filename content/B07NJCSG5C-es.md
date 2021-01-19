@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4157zu338TL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NJCSG5C-es'
+slug: 'B07NJCSG5C-es Springfield INT.R.Real Down Tecnico Chaqueta  Azul  Azul 19   Medium  Tamaño del Fabricante: M  para Mujer'
 actualPrice: 23.12 EUR
 currency: EUR
 price: 23.12

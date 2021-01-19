@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31CrDR7WrML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T5K4HMM-es'
+slug: 'B07T5K4HMM-es Teva Hurricane Drift  Sandalias de Punta Descubierta para Mujer  Rojo  Fiery Red Fyr   40 EU'
 actualPrice: 23.35 EUR
 currency: EUR
 price: 23.35

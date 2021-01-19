@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31EGLgSEPvL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LZQB05W-es'
+slug: 'B01LZQB05W-es Milano Pantalón Marrón Oscuro ES 42'
 actualPrice: 8.01 EUR
 currency: EUR
 price: 8.01

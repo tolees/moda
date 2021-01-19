@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/516fyAngPEL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H6GRSWD-es'
+slug: 'B07H6GRSWD-es FOSTAK Mochila Femenina maletín  Bolsa de Viaje  Bolso Estiloso de Compras Femenino y Estiloso Bolso de Hombro para Notebook/Bolso de Trabajo para Ordenador portátil de 15 6 Pulgadas Lona Gris'
 actualPrice: 6.54 EUR
 currency: EUR
 price: 6.54

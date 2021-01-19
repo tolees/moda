@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41kx6NLBXRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZM9WC8-es'
+slug: 'B07MZM9WC8-es Pepe Jeans Carrie Chaqueta   Mousse 808   X-Small para Mujer'
 actualPrice: 59.16 EUR
 currency: EUR
 price: 59.16

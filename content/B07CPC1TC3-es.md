@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31MbkAE4eDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CPC1TC3-es'
+slug: 'B07CPC1TC3-es Crocs Classic Clog Kids Roomy fit  Zuecos Unisex niños  Rosa  Melon 737   19/20 EU'
 actualPrice: 8.91 EUR
 currency: EUR
 price: 8.91

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413J8WXfBjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XBM71PH-es'
+slug: 'B07XBM71PH-es adidas Core 18 Hoody Sudadera con Capucha  Hombre  Yellow/Black  S'
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

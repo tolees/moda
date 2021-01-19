@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/318xR3KQRuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y3RJNYG-es'
+slug: 'B07Y3RJNYG-es Jack & Jones Jorbasic SS tee Crew Neck 3-Pack Logo Ka Camiseta  Azul  White Detail: Reg Fit/Packed with TEM + Dgm   Small  Pack de 3  para Hombre'
 actualPrice: 10.19 EUR
 currency: EUR
 price: 10.19

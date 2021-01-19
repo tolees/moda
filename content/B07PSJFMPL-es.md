@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41YLhsKR61L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PSJFMPL-es'
+slug: 'B07PSJFMPL-es Kipling Myrte  Bolso con Bandolera para Mujer  Azul  Navy Stick Print   24x14.5x4.5 centimeters  B x H x T '
 actualPrice: 34.91 EUR
 currency: EUR
 price: 34.91

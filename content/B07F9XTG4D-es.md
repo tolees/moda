@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4132XTu1gYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F9XTG4D-es'
+slug: 'B07F9XTG4D-es Joma Atenas II Sudadera  Hombre  Melange  XL'
 actualPrice: 14.86 EUR
 currency: EUR
 price: 14.86

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Q9U60nDyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KXAH0GO-es'
+slug: 'B00KXAH0GO-es Under Armour UA HG Armour SS Camiseta  Hombre  Negro  Black/Steel 001   3XL'
 actualPrice: 22.45 EUR
 currency: EUR
 price: 22.45

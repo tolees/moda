@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51jF3Dsfh+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087PB72XH-es'
+slug: 'B087PB72XH-es Suhctup Funda Compatible con Huawei Honor 20 Pro Billetera Carcasa de Cuero PU Antigolpes Flip Magnético Caso [Soporte Plegable] [3 Ranuras para Tarjetas] TPU Silicona Case Libro Piel Cover Verde'
 actualPrice: 10.98 EUR
 currency: EUR
 price: 10.98

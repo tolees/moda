@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51hfQKalxaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SQR2SDZ-es'
+slug: 'B07SQR2SDZ-es Quiksilver Molokai Vacancy Youth  Zapatos de Playa y Piscina para Niños  Multicolor  Black/Green/Black Xkgk   35 EU'
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41oGTWTMQVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TKKNWYB-es'
+slug: 'B07TKKNWYB-es Superdry OL Low Roller tee Camiseta  Azul  Rich Navy Adq   S para Hombre'
 actualPrice: 16.51 EUR
 currency: EUR
 price: 16.51

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41OT42drluL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PFXWLZ9-es'
+slug: 'B07PFXWLZ9-es BLEND 20708531 Camisa Casual  Azul  Dark Navy Blue 74645   M para Hombre'
 actualPrice: 19.36 EUR
 currency: EUR
 price: 19.36

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41QzQw+7wtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BB43FFV-es'
+slug: 'B07BB43FFV-es The North Face T93BRM Chaqueta Trevail  Mujer  Grisaille Grey  XS'
 actualPrice: 63.8 EUR
 currency: EUR
 price: 63.8

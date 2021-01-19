@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51FUTGRd6SL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075YFPV4B-es'
+slug: 'B075YFPV4B-es Sportout Iños y Adolescentes Adultos Guantes de Portero de Futbol Proporciona un Agarre Poderoso Protege tus Dedos de lesiones Antideslizante  Material de Látex Excelente'
 actualPrice: 22.89 EUR
 currency: EUR
 price: 22.89

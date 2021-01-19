@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41mO6YLUjiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0771VZMX4-es'
+slug: 'B0771VZMX4-es Columbia Silver Ridge II Pantalón Capri  Hombre  Negro  Abyss   W30/L19'
 actualPrice: 18.57 EUR
 currency: EUR
 price: 18.57

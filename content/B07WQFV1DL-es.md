@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4125BG9Kt-L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WQFV1DL-es'
+slug: 'B07WQFV1DL-es Kuako Zapatillas de Estar por casa con Forro de vellón para Mujer Antideslizantes Espuma de Memoria para Interiores Zapatos cálidos acogedores de la casa'
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

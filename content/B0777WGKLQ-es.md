@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Oux9PQBBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0777WGKLQ-es'
+slug: 'B0777WGKLQ-es Julbo Whoops – Gafas de Sol para Mujer  Color Berenjena Oscuro/enjos Rosa'
 actualPrice: 46.49 EUR
 currency: EUR
 price: 46.49

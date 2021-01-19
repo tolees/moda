@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41eMPAlfnvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VBBN7GX-es'
+slug: 'B07VBBN7GX-es HUGO Drick202 Sudadera  Beige  Dark Beige 251   L para Hombre'
 actualPrice: 18.32 EUR
 currency: EUR
 price: 18.32

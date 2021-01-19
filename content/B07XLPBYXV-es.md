@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41uD13rFcDL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XLPBYXV-es'
+slug: 'B07XLPBYXV-es Geographical Norway Sudadera Mujer GYMCLASS B Rosa Claro S'
 actualPrice: 30.0 EUR
 currency: EUR
 price: 30.0

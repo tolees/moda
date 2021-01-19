@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41RJmusyFeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08521YFFF-es'
+slug: 'B08521YFFF-es Timberland Squall Canyon WT Pull ON MARRÓN TB0A296N9011'
 actualPrice: 76.23 EUR
 currency: EUR
 price: 76.23

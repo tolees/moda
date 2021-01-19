@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41jh9xBQr+L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VL9TQ2J-es'
+slug: 'B07VL9TQ2J-es JACK & JONES Jjewashington Shirt L/s STS Camisa  Verde  Fall Leafgrün   Medium para Hombre'
 actualPrice: 13.85 EUR
 currency: EUR
 price: 13.85

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41CxRl8Tz8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FH5L6T5-es'
+slug: 'B07FH5L6T5-es Havaianas Brasil  Chanclas Unisex Adulto  Beige  Sand Grey/Dark Brown   35/36 EU'
 actualPrice: 7.1 EUR
 currency: EUR
 price: 7.1

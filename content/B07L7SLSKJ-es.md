@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41UtKj7J4cL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L7SLSKJ-es'
+slug: 'B07L7SLSKJ-es NIKE Dri-FIT Miler Camiseta  Hombre  Rojo  University Red/University Red/Reflective Silv   M'
 actualPrice: 21.07 EUR
 currency: EUR
 price: 21.07

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31h+xilXsFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R3R66BH-es'
+slug: 'B07R3R66BH-es Mujer Vestido 1950 s Vintage Retro de Cóctel Fiesta Vestido S CL010698-8'
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

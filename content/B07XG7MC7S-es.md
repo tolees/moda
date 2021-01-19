@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41AK-Y70oxL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XG7MC7S-es'
+slug: 'B07XG7MC7S-es Gaatpot Zapatos Invierno Niña Niño Botas de Nieve Forradas Zapatillas Sneaker Botines Planas para Unisex Niños Amarillo 30.5 EU = 31 CN'
 actualPrice: 24.95 EUR
 currency: EUR
 price: 24.95

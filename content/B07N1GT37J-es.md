@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31hoTQEvPAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N1GT37J-es'
+slug: 'B07N1GT37J-es Clarks Griffin Lane  Zapatos de Cordones Derby para Mujer  Negro  Black Pat Black Pat   41 EU'
 actualPrice: 40.68 EUR
 currency: EUR
 price: 40.68

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/414tF2TZnjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01L410MOC-es'
+slug: 'B01L410MOC-es Havaianas Brasil Mix  Chanclas Unisex Adulto  Multicolor  Black/White   39/40 EU'
 actualPrice: 18.12 EUR
 currency: EUR
 price: 18.12

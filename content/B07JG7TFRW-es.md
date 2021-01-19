@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41zbG-FjiOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JG7TFRW-es'
+slug: 'B07JG7TFRW-es Pepe Jeans Elizabeth Pl401677 Chaqueta   Oyster 805   Small para Mujer'
 actualPrice: 74.98 EUR
 currency: EUR
 price: 74.98

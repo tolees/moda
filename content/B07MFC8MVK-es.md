@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41QL0mvrQvL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MFC8MVK-es'
+slug: 'B07MFC8MVK-es FOSTAK Bolsos totes/Bolso de hombro para mujer Bolso de viaje Messenger Bag elegante Bolsas portátiles para negocio que trabaja Notebook/ordenador portátil de 15.6 Inch Rosa'
 actualPrice: 10.79 EUR
 currency: EUR
 price: 10.79

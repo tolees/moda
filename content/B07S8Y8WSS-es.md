@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41np-7-dcSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S8Y8WSS-es'
+slug: 'B07S8Y8WSS-es Helly Hansen T-Shirt Camiseta de Manga Corta Hecha de algodón  con Logo HH en el Pecho  Hombre  Alert Red  S'
 actualPrice: 21.44 EUR
 currency: EUR
 price: 21.44

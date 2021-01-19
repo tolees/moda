@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41nQKPQorcL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N1GL8LZ-es'
+slug: 'B07N1GL8LZ-es Clarks Un Lindel Lo  Botines para Mujer  Marrón Dark Tan Oily  37 EU'
 actualPrice: 40.01 EUR
 currency: EUR
 price: 40.01

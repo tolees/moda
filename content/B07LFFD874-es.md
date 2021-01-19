@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41xajJkgtEL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFFD874-es'
+slug: 'B07LFFD874-es Levi s The Jacket  Chaqueta Vaquera  Beige  Olive Night Canvas Trucker 0411   Small para Hombre'
 actualPrice: 65.95 EUR
 currency: EUR
 price: 65.95

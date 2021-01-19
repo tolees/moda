@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31qMKkciNcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LG3X1YF-es'
+slug: 'B07LG3X1YF-es Geox D Sukie C  Zapatillas para Mujer  Blau  Navy C4002   38 EU'
 actualPrice: 36.52 EUR
 currency: EUR
 price: 36.52

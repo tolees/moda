@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/414mc83qNyL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08231CNBR-es'
+slug: 'B08231CNBR-es Charles Wilson Pantalón Deportivo Polar Mezcla de Algodón para Hombre  Large  Charcoal Melange  1119  '
 actualPrice: 13.95 EUR
 currency: EUR
 price: 13.95

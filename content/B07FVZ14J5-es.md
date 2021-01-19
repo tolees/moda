@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31eRInOlcOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FVZ14J5-es'
+slug: 'B07FVZ14J5-es adidas PANTALÓN Entrenamiento Core 30 Fútbol  Adolescentes y Ninos  Azul  Dark Blue/White   176'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

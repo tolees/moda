@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41e7TuvJ7xL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077NJJJ3R-es'
+slug: 'B077NJJJ3R-es Marca Amazon - find. Camiseta con Cuello Redondo Mujer  Blanco  White   40  Label: M'
 actualPrice: 4.11 EUR
 currency: EUR
 price: 4.11

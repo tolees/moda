@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41mzAbR7SWL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RC8GHQS-es'
+slug: 'B07RC8GHQS-es Columbia Timberturner Chaqueta  Hombre  Blanco  White/Collegiate Navy   L'
 actualPrice: 105.89 EUR
 currency: EUR
 price: 105.89
