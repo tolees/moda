@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Marca Amazon - AURIQUE Mallas de Deporte al 15.11 % de descuento'
-date: 2021-01-13 21:50:24
+date: 2021-01-19 12:41:46
 image: 'https://m.media-amazon.com/images/I/31SEULg7hJL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07VKNJLCR/?tag=tolees-21'
 descuento: '15.11'
-average: '19.53571428571429'
+average: '19.32555555555556'
 ---
 
 Ahora mismo tienes [Marca Amazon - AURIQUE Mallas de Deporte Tiro Alto Mujer  Negro  Black/Geranium   40  Label:M](https://www.amazon.es/dp/B07VKNJLCR/?tag=tolees-21) a 18.59 EUR (original: 21.9 EUR) (15.11 %  de descuento) en el siguiente enlace!
