@@ -1,12 +1,13 @@
 ---
 layout: post
 title: 'Levi s LS Original Hm tee Camiseta  Blac con un 41.46 % de descuento'
-date: 2021-01-18 05:31:46
+date: 2021-01-19 18:25:10
 image: 'https://m.media-amazon.com/images/I/418teEbww6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LF8RGSQ-es'
+slug: 'B07LF8RGSQ-es Levi s LS Original Hm tee Camiseta Black M para Hombre'
+tags: [ 'tole.es','camiseta', ]
 actualPrice: 20.49 EUR
 currency: EUR
 price: 20.49
@@ -25,8 +26,8 @@ En este momento está [Levi s LS Original Hm tee Camiseta  Black  M para Hombre]
 
 🔎:
 
-- Con un discreto logo en el pecho
 - Elaborada en punto suave
+- Con un discreto logo en el pecho
 - Modelo casual
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07LF8RGSQ/?tag=tolees-21)
