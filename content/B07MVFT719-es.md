@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MVFT719-es Gant D1. The Quilted Windcheater Chaqueta Azul Evening...'
-tags: tole.es, chaqueta
+tags: [ tole.es, chaqueta ]
 actualPrice: 125.0 EUR
 currency: EUR
 price: 125.0

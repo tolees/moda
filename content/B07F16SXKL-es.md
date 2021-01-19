@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F16SXKL-es Marca Amazon – Goodthreads – Camisa dobby de manga corta y...'
-tags: tole.es, camisa
+tags: [ tole.es, camisa ]
 actualPrice: 14.32 EUR
 currency: EUR
 price: 14.32

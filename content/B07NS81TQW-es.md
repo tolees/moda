@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NS81TQW-es Camisetas Mujer SHOBDW Dia de la Mujer Verano Patchwork De...'
-tags: tole.es, blusa, camiseta
+tags: [ tole.es, blusa, camiseta ]
 actualPrice: 8.59 EUR
 currency: EUR
 price: 8.59

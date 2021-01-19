@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01JEQM756-es Zuku Life underwear Basic Shortboxer - Bóxer para hombre...'
-tags: tole.es, bóxer
+tags: [ tole.es, bóxer ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0823M6DCS-es SERAPHY Chándales de Terciopelo Unisex Cálido 2PCS...'
-tags: tole.es, moda
+tags: [ tole.es, moda ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

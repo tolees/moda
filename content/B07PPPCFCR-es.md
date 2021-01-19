@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PPPCFCR-es MTNG Bengala Bolso bandolera para Mujer Negro Nylon Negro...'
-tags: tole.es, bolso
+tags: [ tole.es, bolso ]
 actualPrice: 10.47 EUR
 currency: EUR
 price: 10.47

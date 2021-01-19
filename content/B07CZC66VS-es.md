@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CZC66VS-es Under Armour Tech 2.0 T Camiseta Deportiva sin Mangas...'
-tags: tole.es, camiseta
+tags: [ tole.es, camiseta ]
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

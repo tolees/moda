@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XMLH36W-es AURIQUE BAL1178 Leggings Deporte Mujer Morado...'
-tags: tole.es, aurique
+tags: [ tole.es, aurique ]
 actualPrice: 18.7 EUR
 currency: EUR
 price: 18.7

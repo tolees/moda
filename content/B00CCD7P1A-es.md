@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00CCD7P1A-es Geox U Symbol D Derby para Hombre Negro Black C9999 39 EU'
-tags: tole.es, geox
+tags: [ tole.es, geox ]
 actualPrice: 69.95 EUR
 currency: EUR
 price: 69.95

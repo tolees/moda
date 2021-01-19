@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081B5VCMP-es Columbia CSC Basic Camiseta de Manga Corta Hombre Negro M'
-tags: tole.es, camiseta
+tags: [ tole.es, camiseta ]
 actualPrice: 16.4 EUR
 currency: EUR
 price: 16.4

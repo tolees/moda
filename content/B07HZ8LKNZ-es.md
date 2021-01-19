@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HZ8LKNZ-es Marca Amazon - Daily Ritual - Camiseta de manga corta...'
-tags: tole.es, camiseta
+tags: [ tole.es, camiseta ]
 actualPrice: 3.57 EUR
 currency: EUR
 price: 3.57

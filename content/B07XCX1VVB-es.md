@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XCX1VVB-es Jersey De Hombre Sudadera con Capucha De La Camiseta con...'
-tags: tole.es, camiseta, jersey, sudadera
+tags: [ tole.es, camiseta, jersey, sudadera ]
 actualPrice: 25.0 EUR
 currency: EUR
 price: 25.0

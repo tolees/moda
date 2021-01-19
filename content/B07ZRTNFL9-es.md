@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZRTNFL9-es Marca Amazon - AURIQUE Mallas de Deporte Cortas sin...'
-tags: tole.es, aurique
+tags: [ tole.es, aurique ]
 actualPrice: 8.6 EUR
 currency: EUR
 price: 8.6

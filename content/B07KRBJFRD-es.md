@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KRBJFRD-es Kigu Isabel Collar con Nombre - Chapado en Oro...'
-tags: tole.es, collar
+tags: [ tole.es, collar ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RC8KQSB-es Columbia Pike Lake Chaqueta De Plumón con Capucha Hombre...'
-tags: tole.es, chaqueta
+tags: [ tole.es, chaqueta ]
 actualPrice: 63.52 EUR
 currency: EUR
 price: 63.52

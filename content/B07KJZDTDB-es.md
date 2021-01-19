@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KJZDTDB-es Pepe Jeans Spike Vaqueros Straight Gris Wiser Wash Grey...'
-tags: tole.es, vaqueros
+tags: [ tole.es, vaqueros ]
 actualPrice: 51.99 EUR
 currency: EUR
 price: 51.99

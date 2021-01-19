@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZPV8HT-es Pepe Jeans Carry Falda Garnet 284 Medium para Mujer'
-tags: tole.es, falda
+tags: [ tole.es, falda ]
 actualPrice: 39.0 EUR
 currency: EUR
 price: 39.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000W8AMR6-es Havaianas Slim Chanclas para Mujer Negro Black 0090 37/38 EU'
-tags: tole.es, chanclas
+tags: [ tole.es, chanclas ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076WZBML5-es find. Sudadera con Mensaje Mujer Rosa Medium'
-tags: tole.es, sudadera
+tags: [ tole.es, sudadera ]
 actualPrice: 9.3 EUR
 currency: EUR
 price: 9.3

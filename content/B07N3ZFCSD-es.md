@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N3ZFCSD-es Marca Amazon - find. Camisa de Manga Larga de Algodón...'
-tags: tole.es, camisa, -, find.
+tags: [ tole.es, camisa, -, find. ]
 actualPrice: 3.66 EUR
 currency: EUR
 price: 3.66

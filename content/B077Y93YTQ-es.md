@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077Y93YTQ-es HIKARO Sudadera con Capucha Hombre Azul Denim 54 Talla del...'
-tags: tole.es, sudadera
+tags: [ tole.es, sudadera ]
 actualPrice: 13.03 EUR
 currency: EUR
 price: 13.03

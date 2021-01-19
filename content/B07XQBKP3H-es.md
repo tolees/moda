@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XQBKP3H-es Tool Tour 2019 - Spectre Spike Camiseta Gris Marengo S'
-tags: tole.es, camiseta
+tags: [ tole.es, camiseta ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

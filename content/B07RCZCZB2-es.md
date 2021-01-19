@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RCZCZB2-es G-STAR RAW Attacc Quilted Hooded Chaqueta Negro Dk Black...'
-tags: tole.es, chaqueta
+tags: [ tole.es, chaqueta ]
 actualPrice: 63.48 EUR
 currency: EUR
 price: 63.48

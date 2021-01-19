@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TYQL9BW-es Zapatillas de Deportes Hombre Mujer Zapatos Deportivos...'
-tags: tole.es, zapatos
+tags: [ tole.es, zapatos ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

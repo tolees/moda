@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PPJMQTS-es El Ganso 1 Camisa casual Blanco Blanco 0003 XX-Large para...'
-tags: tole.es, camisa
+tags: [ tole.es, camisa ]
 actualPrice: 23.43 EUR
 currency: EUR
 price: 23.43

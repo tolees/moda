@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DKLRT7C-es PUMA Active Camiseta Hombre Gris Medium Gray Heather M'
-tags: tole.es, camiseta
+tags: [ tole.es, camiseta ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

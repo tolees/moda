@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X2LH5CY-es Ipanema Anat Lovely X Fem Chanclas para Mujer Multicolor...'
-tags: tole.es, chanclas
+tags: [ tole.es, chanclas ]
 actualPrice: 15.96 EUR
 currency: EUR
 price: 15.96

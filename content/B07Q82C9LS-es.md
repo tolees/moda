@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q82C9LS-es Amilril Collar árbol de la Vida Colgante Plata de Ley 925...'
-tags: tole.es, collar, moda
+tags: [ tole.es, collar, moda ]
 actualPrice: 18.98 EUR
 currency: EUR
 price: 18.98

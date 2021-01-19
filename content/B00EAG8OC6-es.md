@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00EAG8OC6-es SEAC Biogel Antiempañante para máscaras y Gafas 100%...'
-tags: tole.es, gafas
+tags: [ tole.es, gafas ]
 actualPrice: 5.49 EUR
 currency: EUR
 price: 5.49

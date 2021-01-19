@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C1JN9X5-es Auxo Mujer Pijama Vestido Interior Sexy Enaguas Enteras...'
-tags: tole.es, pijama, vestido
+tags: [ tole.es, pijama, vestido ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

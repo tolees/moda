@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00U2HP3OY-es Minecraft - Camiseta para niño - Minecraft - Negro - 7 - 8...'
-tags: tole.es, camiseta
+tags: [ tole.es, camiseta ]
 actualPrice: 12.93 EUR
 currency: EUR
 price: 12.93

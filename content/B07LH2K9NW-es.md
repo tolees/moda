@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LH2K9NW-es Gafas con Filtro Anti Luz Azul para Ordenador. Gafas de...'
-tags: tole.es, gafas
+tags: [ tole.es, gafas ]
 actualPrice: 24.9 EUR
 currency: EUR
 price: 24.9

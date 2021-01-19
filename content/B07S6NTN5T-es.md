@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S6NTN5T-es PUMA Popcat 20 Sandalias deslizantes para Hombre Blanco...'
-tags: tole.es, sandalias
+tags: [ tole.es, sandalias ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

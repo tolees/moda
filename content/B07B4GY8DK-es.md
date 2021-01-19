@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B4GY8DK-es Mandarina Duck Mellow Leather Tracolla/Amphora Bolso...'
-tags: tole.es, bolso
+tags: [ tole.es, bolso ]
 actualPrice: 42.9 EUR
 currency: EUR
 price: 42.9

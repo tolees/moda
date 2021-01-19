@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LG1NX4S-es Geox D Jaysen D Zapatillas para Mujer Negro Black C9999 39 EU'
-tags: tole.es, geox
+tags: [ tole.es, geox ]
 actualPrice: 27.51 EUR
 currency: EUR
 price: 27.51

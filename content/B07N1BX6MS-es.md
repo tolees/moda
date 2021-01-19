@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N1BX6MS-es Lee Essential Logo SWS Sudadera Gris Grey Mele MP XXX-...'
-tags: tole.es, sudadera
+tags: [ tole.es, sudadera ]
 actualPrice: 10.96 EUR
 currency: EUR
 price: 10.96

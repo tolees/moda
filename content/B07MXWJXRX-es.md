@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MXWJXRX-es Desigual Bag Liberté Patch Folded Bolso para Mujer Negro...'
-tags: tole.es, bolso
+tags: [ tole.es, bolso ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

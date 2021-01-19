@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P5JLN81-es Joma Combi Camiseta Entrenamiento Hombre Negro L'
-tags: tole.es, camiseta
+tags: [ tole.es, camiseta ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

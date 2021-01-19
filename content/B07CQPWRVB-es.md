@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CQPWRVB-es Wrangler Arizona Straight Jeans Vaqueros Black Valley 30W...'
-tags: tole.es, vaqueros
+tags: [ tole.es, vaqueros ]
 actualPrice: 19.39 EUR
 currency: EUR
 price: 19.39

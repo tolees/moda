@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RX9HML9-es Grebarley Fitness Gloves Levantamiento de Pesas protección...'
-tags: tole.es, guantes
+tags: [ tole.es, guantes ]
 actualPrice: 12.59 EUR
 currency: EUR
 price: 12.59

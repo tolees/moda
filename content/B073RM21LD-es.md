@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073RM21LD-es Marca Amazon - find. Chaqueta de Satén Estilo Bómber Mujer...'
-tags: tole.es, chaqueta, -, find.
+tags: [ tole.es, chaqueta, -, find. ]
 actualPrice: 11.83 EUR
 currency: EUR
 price: 11.83

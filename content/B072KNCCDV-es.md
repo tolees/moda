@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072KNCCDV-es adidas W CW NUVIC Jkt Chaqueta de Deporte Mujer Black S'
-tags: tole.es, chaqueta
+tags: [ tole.es, chaqueta ]
 actualPrice: 118.03 EUR
 currency: EUR
 price: 118.03

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076HR96ZR-es adidas PANTALÓN Entrenamiento Core 21 Fútbol Adolescentes...'
-tags: tole.es, pantalón
+tags: [ tole.es, pantalón ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073RPSTV8-es Star Wars HQ2017 Pijama de una Pieza Niños Azul Navy 4...'
-tags: tole.es, pijama
+tags: [ tole.es, pijama ]
 actualPrice: 5.07 EUR
 currency: EUR
 price: 5.07

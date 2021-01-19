@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BLY0BH6-es Nike Benassi Jdi Chanclas Unisex Adulto Negro Black/White...'
-tags: tole.es, chanclas
+tags: [ tole.es, chanclas ]
 actualPrice: 18.8 EUR
 currency: EUR
 price: 18.8

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MDBPYDH-es Lee Austin Vaqueros Tapered Negro Moto Black HL 31W / 34L...'
-tags: tole.es, vaqueros
+tags: [ tole.es, vaqueros ]
 actualPrice: 22.3 EUR
 currency: EUR
 price: 22.3

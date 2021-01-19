@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RDYXSWW-es Marca Amazon - find. Casual Suede Ankle Botines Naranja...'
-tags: tole.es, botines, -, find.
+tags: [ tole.es, botines, -, find. ]
 actualPrice: 11.13 EUR
 currency: EUR
 price: 11.13

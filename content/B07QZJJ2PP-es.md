@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QZJJ2PP-es BaZhaHei CinturóN Verde de Compras Monedero del...'
-tags: tole.es, bolso, monedero
+tags: [ tole.es, bolso, monedero ]
 actualPrice: 1.12 EUR
 currency: EUR
 price: 1.12

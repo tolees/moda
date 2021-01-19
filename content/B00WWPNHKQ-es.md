@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00WWPNHKQ-es JACK & JONES - Vaqueros para hombre Azul Denim W32/L32 32'
-tags: tole.es, vaqueros
+tags: [ tole.es, vaqueros ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

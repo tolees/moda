@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06Y2JSH5Z-es Geox J Kalispera Girl I Zapatillas Altas para Niñas Negro...'
-tags: tole.es, geox
+tags: [ tole.es, geox ]
 actualPrice: 27.45 EUR
 currency: EUR
 price: 27.45

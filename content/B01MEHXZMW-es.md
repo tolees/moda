@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MEHXZMW-es Timberland Tidelands Classic 2 Eye Náuticos para Hombre...'
-tags: tole.es, timberland
+tags: [ tole.es, timberland ]
 actualPrice: 66.38 EUR
 currency: EUR
 price: 66.38

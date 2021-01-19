@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S2S7BY5-es Levi s The Original Camiseta Gris Hm Patch OG tee Forged...'
-tags: tole.es, camiseta
+tags: [ tole.es, camiseta ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

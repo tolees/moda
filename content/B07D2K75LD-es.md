@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D2K75LD-es Levi s 510 Skinny Fit Vaqueros para Hombre Negro Luther...'
-tags: tole.es, vaqueros
+tags: [ tole.es, vaqueros ]
 actualPrice: 59.49 EUR
 currency: EUR
 price: 59.49

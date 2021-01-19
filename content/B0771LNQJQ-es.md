@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0771LNQJQ-es SHOBDW Invierno Mujeres Moda Informal más Gruesa Slim...'
-tags: tole.es, abrigo, chaqueta, moda
+tags: [ tole.es, abrigo, chaqueta, moda ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

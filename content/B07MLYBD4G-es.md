@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MLYBD4G-es Geox B Tutim A Zapatillas Bebés Beige Biscuit C5046 23 EU'
-tags: tole.es, geox
+tags: [ tole.es, geox ]
 actualPrice: 24.95 EUR
 currency: EUR
 price: 24.95

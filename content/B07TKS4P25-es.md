@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TKS4P25-es Clarks Adriel Cove Zapatos con Tacon y Correa de Tobillo...'
-tags: tole.es, zapatos
+tags: [ tole.es, zapatos ]
 actualPrice: 35.33 EUR
 currency: EUR
 price: 35.33

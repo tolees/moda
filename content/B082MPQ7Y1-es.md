@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082MPQ7Y1-es Geographical Norway Chaqueta Mujer Abby Negro 01'
-tags: tole.es, chaqueta
+tags: [ tole.es, chaqueta ]
 actualPrice: 99.9 EUR
 currency: EUR
 price: 99.9

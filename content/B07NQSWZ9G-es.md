@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NQSWZ9G-es Springfield Frq Stripes Kodak Gg12 Jersey Azul Blue 11...'
-tags: tole.es, jersey
+tags: [ tole.es, jersey ]
 actualPrice: 8.34 EUR
 currency: EUR
 price: 8.34

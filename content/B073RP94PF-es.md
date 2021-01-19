@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073RP94PF-es Helly Hansen Crew Windbreaker Chaqueta Hombre Navy S'
-tags: tole.es, chaqueta
+tags: [ tole.es, chaqueta ]
 actualPrice: 68.37 EUR
 currency: EUR
 price: 68.37

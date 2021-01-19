@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075JYWLRG-es Madbike Accesorios de Cambio de Engranaje para Zapatos...'
-tags: tole.es, zapatos
+tags: [ tole.es, zapatos ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

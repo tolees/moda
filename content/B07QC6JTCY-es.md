@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QC6JTCY-es BOYOU gafas de sol polarizadas de los hombres gafas de sol...'
-tags: tole.es, gafas
+tags: [ tole.es, gafas ]
 actualPrice: 21.98 EUR
 currency: EUR
 price: 21.98

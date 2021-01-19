@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W91WVZ4-es Tommy Hilfiger Abstract Stripe tee Camiseta Deporte Gris...'
-tags: tole.es, camiseta
+tags: [ tole.es, camiseta ]
 actualPrice: 19.26 EUR
 currency: EUR
 price: 19.26

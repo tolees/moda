@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SQG2B7H-es Geox J Alben Boy B Zapatillas para Niños Verde...'
-tags: tole.es, geox
+tags: [ tole.es, geox ]
 actualPrice: 22.75 EUR
 currency: EUR
 price: 22.75

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MDPNY5J-es NNJXD Vestido de Fiesta de Princesa con Encaje de Flor de...'
-tags: tole.es, vestido
+tags: [ tole.es, vestido ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

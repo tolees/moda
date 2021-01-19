@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N6RLQFX-es find. Sandalias de Cuero Trenzado Mujer Varios Colores Tan...'
-tags: tole.es, sandalias
+tags: [ tole.es, sandalias ]
 actualPrice: 7.9 EUR
 currency: EUR
 price: 7.9

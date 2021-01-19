@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFV9DGW-es Geox D HOARA B Botas Estilo Motero para Mujer Negro Black...'
-tags: tole.es, geox
+tags: [ tole.es, geox ]
 actualPrice: 64.31 EUR
 currency: EUR
 price: 64.31

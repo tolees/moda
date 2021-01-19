@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PBC3WP2-es Lee Elly Vaqueros Azul Dark Marine 21 25W / 33L para Mujer'
-tags: tole.es, vaqueros
+tags: [ tole.es, vaqueros ]
 actualPrice: 12.16 EUR
 currency: EUR
 price: 12.16

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RCNY345-es Columbia 1420421 Chaqueta Forro Polar Hombre Azul...'
-tags: tole.es, chaqueta
+tags: [ tole.es, chaqueta ]
 actualPrice: 31.94 EUR
 currency: EUR
 price: 31.94

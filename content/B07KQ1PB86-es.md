@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KQ1PB86-es FitFlop Lottie Glitzy Sandalias con Punta Abierta para...'
-tags: tole.es, sandalias
+tags: [ tole.es, sandalias ]
 actualPrice: 44.91 EUR
 currency: EUR
 price: 44.91

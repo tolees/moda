@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071HN3MD8-es Lacoste TH6709 Camiseta para Hombre Gris Argent Chine 4XL...'
-tags: tole.es, camiseta
+tags: [ tole.es, camiseta ]
 actualPrice: 32.22 EUR
 currency: EUR
 price: 32.22

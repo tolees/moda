@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MWZNRF6-es KATOOM Zapatilla fregona 3 Pares Limpiar Polvo Microfibra...'
-tags: tole.es, zapatilla
+tags: [ tole.es, zapatilla ]
 actualPrice: 11.97 EUR
 currency: EUR
 price: 11.97

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N3YK9B2-es Desigual Shirt CAM Camisa Crudo Beige 1008 M para Mujer'
-tags: tole.es, camisa
+tags: [ tole.es, camisa ]
 actualPrice: 33.72 EUR
 currency: EUR
 price: 33.72

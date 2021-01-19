@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SQGNKR4-es Geox U Moner V Mocasines para Hombre Naranja Dk Yellow...'
-tags: tole.es, geox
+tags: [ tole.es, geox ]
 actualPrice: 70.04 EUR
 currency: EUR
 price: 70.04

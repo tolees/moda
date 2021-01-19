@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W4VLLS1-es BAIGIO Bolso de Boda Clutch Mujer Fiesta Carteras de Mano...'
-tags: tole.es, bolso
+tags: [ tole.es, bolso ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

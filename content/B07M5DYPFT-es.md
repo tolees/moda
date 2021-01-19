@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M5DYPFT-es Wrangler Logo tee Camiseta Azul Navy 114 Medium para Hombre'
-tags: tole.es, camiseta
+tags: [ tole.es, camiseta ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TKDNGQ9-es Levi s The Original Camiseta Verde Hm Patch OG Hm tee...'
-tags: tole.es, camiseta
+tags: [ tole.es, camiseta ]
 actualPrice: 12.5 EUR
 currency: EUR
 price: 12.5

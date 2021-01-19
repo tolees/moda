@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z2MWBNP-es Robinsoni Fundas Compatible con Xiaomi Redmi 7A Funda...'
-tags: tole.es, billetera, monedero
+tags: [ tole.es, billetera, monedero ]
 actualPrice: 5.59 EUR
 currency: EUR
 price: 5.59

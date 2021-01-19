@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082MNPXZQ-es Geographical Norway Chaqueta Mujer ANIES Negro 03'
-tags: tole.es, chaqueta
+tags: [ tole.es, chaqueta ]
 actualPrice: 103.2 EUR
 currency: EUR
 price: 103.2

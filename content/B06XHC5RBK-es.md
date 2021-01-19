@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XHC5RBK-es Helly Hansen W HH LIFA 1/2 Zip Camiseta Deportiva Mujer...'
-tags: tole.es, camiseta
+tags: [ tole.es, camiseta ]
 actualPrice: 71.5 EUR
 currency: EUR
 price: 71.5

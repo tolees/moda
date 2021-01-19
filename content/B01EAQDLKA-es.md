@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01EAQDLKA-es Halti Collar 8" - 12"'
-tags: tole.es, collar
+tags: [ tole.es, collar ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

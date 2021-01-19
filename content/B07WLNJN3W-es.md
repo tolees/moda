@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WLNJN3W-es Tommy Hilfiger Summer Allover Print tee Camiseta Deporte...'
-tags: tole.es, camiseta
+tags: [ tole.es, camiseta ]
 actualPrice: 14.36 EUR
 currency: EUR
 price: 14.36

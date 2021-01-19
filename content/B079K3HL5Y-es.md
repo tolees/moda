@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079K3HL5Y-es Napapijri Rainforest Pocket Chaqueta para Hombre Blanco...'
-tags: tole.es, chaqueta
+tags: [ tole.es, chaqueta ]
 actualPrice: 104.0 EUR
 currency: EUR
 price: 104.0

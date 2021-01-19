@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N1JLK69-es Clarks Un Damson Mid Botines para Mujer Marrón Brown...'
-tags: tole.es, botines
+tags: [ tole.es, botines ]
 actualPrice: 24.01 EUR
 currency: EUR
 price: 24.01

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W1VLYLJ-es Tommy Hilfiger TJM Tommy Stripe tee Camiseta Verde...'
-tags: tole.es, camiseta
+tags: [ tole.es, camiseta ]
 actualPrice: 14.07 EUR
 currency: EUR
 price: 14.07

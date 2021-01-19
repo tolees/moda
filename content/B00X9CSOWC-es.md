@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00X9CSOWC-es Timberland Larchmont Waterproof Botas Chukka para Hombre...'
-tags: tole.es, timberland
+tags: [ tole.es, timberland ]
 actualPrice: 105.0 EUR
 currency: EUR
 price: 105.0

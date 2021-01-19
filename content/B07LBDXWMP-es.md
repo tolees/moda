@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LBDXWMP-es Helly Hansen Vertex Secado Rápido Y Elástico Chaqueta con...'
-tags: tole.es, chaqueta
+tags: [ tole.es, chaqueta ]
 actualPrice: 38.22 EUR
 currency: EUR
 price: 38.22

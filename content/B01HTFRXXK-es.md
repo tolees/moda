@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HTFRXXK-es Columbia Chaqueta Impermeable con Capucha para Mujer...'
-tags: tole.es, chaqueta
+tags: [ tole.es, chaqueta ]
 actualPrice: 75.98 EUR
 currency: EUR
 price: 75.98

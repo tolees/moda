@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082BRBNQY-es ARENA The One Gafas De Natación Unisex Adulto Clear/Black...'
-tags: tole.es, gafas
+tags: [ tole.es, gafas ]
 actualPrice: 15.33 EUR
 currency: EUR
 price: 15.33

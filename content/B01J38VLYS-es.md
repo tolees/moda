@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01J38VLYS-es Dim X-Temp Boxer X2 Culotte Negro Noir 2 Pack Hombre'
-tags: tole.es, boxer
+tags: [ tole.es, boxer ]
 actualPrice: 17.92 EUR
 currency: EUR
 price: 17.92

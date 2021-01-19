@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004S63IHY-es Geox J Crush M Zapatillas para Niños Negro BLACKC9999 33 EU'
-tags: tole.es, geox
+tags: [ tole.es, geox ]
 actualPrice: 28.82 EUR
 currency: EUR
 price: 28.82

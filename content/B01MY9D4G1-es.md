@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MY9D4G1-es B.Catcher Mujer Collar Colgante Plata de Ley 925 con Doble...'
-tags: tole.es, collar
+tags: [ tole.es, collar ]
 actualPrice: 14.98 EUR
 currency: EUR
 price: 14.98

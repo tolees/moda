@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089B8LYDG-es CARPISA ® Bolso cesta - MANDEL'
-tags: tole.es, bolso
+tags: [ tole.es, bolso ]
 actualPrice: 11.68 EUR
 currency: EUR
 price: 11.68

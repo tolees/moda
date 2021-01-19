@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01H0SIQB4-es Michael Kors Jet Set Travel Bolso totes para Mujer Azul...'
-tags: tole.es, bolso
+tags: [ tole.es, bolso ]
 actualPrice: 130.0 EUR
 currency: EUR
 price: 130.0

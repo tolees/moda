@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079L52GSQ-es CLUB CUBANA Camisa Hawaiana Florar Casual Manga Corta...'
-tags: tole.es, camisa
+tags: [ tole.es, camisa ]
 actualPrice: 12.94 EUR
 currency: EUR
 price: 12.94

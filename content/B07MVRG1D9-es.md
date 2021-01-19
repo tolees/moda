@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MVRG1D9-es Joules Golightly Abrigo para Lluvia Morado Berry Peony...'
-tags: tole.es, abrigo
+tags: [ tole.es, abrigo ]
 actualPrice: 31.51 EUR
 currency: EUR
 price: 31.51

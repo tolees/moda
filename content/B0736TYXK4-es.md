@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0736TYXK4-es Vero Moda Vmava Plain Ss Top Ga Noos Camiseta para Mujer...'
-tags: tole.es, camiseta, moda
+tags: [ tole.es, camiseta, moda ]
 actualPrice: 12.74 EUR
 currency: EUR
 price: 12.74

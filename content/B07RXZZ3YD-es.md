@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RXZZ3YD-es Esprit 999ee2b806 Vaqueros Slim Azul Blue Dark Wash 901...'
-tags: tole.es, vaqueros
+tags: [ tole.es, vaqueros ]
 actualPrice: 35.04 EUR
 currency: EUR
 price: 35.04

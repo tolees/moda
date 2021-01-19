@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V3NDCPP-es Billabong™ - Chanclas - Hombre - EU 44 - Azul'
-tags: tole.es, chanclas
+tags: [ tole.es, chanclas ]
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

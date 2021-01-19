@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F14LC1L-es Havaianas Top Mix Chanclas Unisex Adulto Multicolor...'
-tags: tole.es, chanclas
+tags: [ tole.es, chanclas ]
 actualPrice: 15.68 EUR
 currency: EUR
 price: 15.68

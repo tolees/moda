@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0838S2WZZ-es AMZTM Dinosaurio Camiseta de Cumpleaños Bebé Cumpleaños...'
-tags: tole.es, camiseta
+tags: [ tole.es, camiseta ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

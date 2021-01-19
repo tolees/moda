@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01I1CTQMG-es adidas Real Madrid CF TRG Sudadera Hombre Blanco/Morado S'
-tags: tole.es, sudadera
+tags: [ tole.es, sudadera ]
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

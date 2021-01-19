@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HI3MLVM-es Superdry Classic Pique S/S Polo Camisa de Pijama Para...'
-tags: tole.es, camisa, pijama
+tags: [ tole.es, camisa, pijama ]
 actualPrice: 22.17 EUR
 currency: EUR
 price: 22.17

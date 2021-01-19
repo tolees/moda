@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MVLT3SL-es Napapijri Avalon Wint Chaqueta Azul BLU Marine 176 Large...'
-tags: tole.es, chaqueta
+tags: [ tole.es, chaqueta ]
 actualPrice: 87.76 EUR
 currency: EUR
 price: 87.76

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TPYDVN8-es G-STAR RAW Earth Beetle Sudadera Azul Faded Legion Blue...'
-tags: tole.es, sudadera
+tags: [ tole.es, sudadera ]
 actualPrice: 27.62 EUR
 currency: EUR
 price: 27.62

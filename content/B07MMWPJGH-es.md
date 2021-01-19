@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MMWPJGH-es Wrangler LS 1pkt Shirt Camisa Rojo Crimson Red X51 Medium...'
-tags: tole.es, camisa
+tags: [ tole.es, camisa ]
 actualPrice: 15.17 EUR
 currency: EUR
 price: 15.17

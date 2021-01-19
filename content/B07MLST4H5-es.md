@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MLST4H5-es Clarks Arla Free Zapatos de Cordones Derby para Hombre...'
-tags: tole.es, zapatos
+tags: [ tole.es, zapatos ]
 actualPrice: 47.9 EUR
 currency: EUR
 price: 47.9

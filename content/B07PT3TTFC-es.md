@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PT3TTFC-es ITALY MORN Pantalón para Hombre Casual Chino Jogging...'
-tags: tole.es, pantalón
+tags: [ tole.es, pantalón ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

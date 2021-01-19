@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PRCFL81-es Kipling Eleva Bolso con Bandolera para Mujer Dorado Cloud...'
-tags: tole.es, bolso
+tags: [ tole.es, bolso ]
 actualPrice: 35.89 EUR
 currency: EUR
 price: 35.89

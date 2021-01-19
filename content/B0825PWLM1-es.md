@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0825PWLM1-es Roxy Epic Afternoon Camiseta Mujer Blanco Snow White XL'
-tags: tole.es, camiseta
+tags: [ tole.es, camiseta ]
 actualPrice: 14.44 EUR
 currency: EUR
 price: 14.44

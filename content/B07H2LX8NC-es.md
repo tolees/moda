@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H2LX8NC-es Goodbye Rita. Round 6 Gafas Azul Talla Única Mujeres'
-tags: tole.es, gafas
+tags: [ tole.es, gafas ]
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

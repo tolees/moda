@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FHD9Q4T-es Helly Hansen HP Racing Prueba De Viento Y Respirable...'
-tags: tole.es, chaqueta
+tags: [ tole.es, chaqueta ]
 actualPrice: 74.66 EUR
 currency: EUR
 price: 74.66

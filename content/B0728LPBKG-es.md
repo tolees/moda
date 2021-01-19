@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0728LPBKG-es WuiWuiyu - Zapatilla Baja de Material Sintético para Chico'
-tags: tole.es, zapatilla
+tags: [ tole.es, zapatilla ]
 actualPrice: 18.51 EUR
 currency: EUR
 price: 18.51

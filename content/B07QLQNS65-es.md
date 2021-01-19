@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QLQNS65-es DoGeek Zapato Seguridad Zapatos Trabajo con Punta de Acero...'
-tags: tole.es, zapatos
+tags: [ tole.es, zapatos ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

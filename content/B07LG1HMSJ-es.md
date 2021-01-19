@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LG1HMSJ-es Geox B Kaytan A Zapatillas para Bebés Gris Dk Grey C9002...'
-tags: tole.es, geox
+tags: [ tole.es, geox ]
 actualPrice: 34.89 EUR
 currency: EUR
 price: 34.89

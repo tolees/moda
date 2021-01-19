@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071W6NT3H-es Fluchos- retail ES Spain 8499 Zapatos sin Cordones Hombre...'
-tags: tole.es, zapatos
+tags: [ tole.es, zapatos ]
 actualPrice: 58.16 EUR
 currency: EUR
 price: 58.16

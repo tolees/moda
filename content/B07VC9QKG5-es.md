@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VC9QKG5-es Vero Moda NOS Vmexcursionexpedition 3/4 Parka Noos Rojo...'
-tags: tole.es, moda, parka
+tags: [ tole.es, moda, parka ]
 actualPrice: 32.86 EUR
 currency: EUR
 price: 32.86

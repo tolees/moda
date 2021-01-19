@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N4LLC95-es Marca Amazon - Daily Ritual - Vestido largo de punto sin...'
-tags: tole.es, vestido
+tags: [ tole.es, vestido ]
 actualPrice: 8.06 EUR
 currency: EUR
 price: 8.06

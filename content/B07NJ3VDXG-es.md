@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NJ3VDXG-es Springfield 2.T.Ap.Oi19.Volante Visco Blusa Multicolor...'
-tags: tole.es, blusa
+tags: [ tole.es, blusa ]
 actualPrice: 4.58 EUR
 currency: EUR
 price: 4.58

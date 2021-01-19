@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QZTZ4KM-es Zapatos de Seguridad Hombres LM-121 Zapatillas de Trabajo...'
-tags: tole.es, zapatos
+tags: [ tole.es, zapatos ]
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

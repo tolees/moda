@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079DP89GR-es Ever-Pretty A-línea Vestido de Noche Gasa Cuello en V sin...'
-tags: tole.es, vestido
+tags: [ tole.es, vestido ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

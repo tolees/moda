@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074FYNDBG-es PAW PATROL HQ7208.E00.B Pijama de Una Pieza para Niños...'
-tags: tole.es, pijama
+tags: [ tole.es, pijama ]
 actualPrice: 5.89 EUR
 currency: EUR
 price: 5.89

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MDQN02Q-es BOSS T-Shirt RN 3p Co Camiseta para Hombre Blanco White...'
-tags: tole.es, camiseta
+tags: [ tole.es, camiseta ]
 actualPrice: 19.94 EUR
 currency: EUR
 price: 19.94

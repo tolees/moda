@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S56XVKM-es BOSS Trunk 2p Gift Co Bóxer Rojo Bright Red 624 Medium...'
-tags: tole.es, bóxer
+tags: [ tole.es, bóxer ]
 actualPrice: 29.0 EUR
 currency: EUR
 price: 29.0

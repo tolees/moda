@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XZQ8NT8-es ARTESANIA CERDA Bolso Bandolera 3D Harry Potter Unisex...'
-tags: tole.es, bolso
+tags: [ tole.es, bolso ]
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

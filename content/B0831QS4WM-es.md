@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0831QS4WM-es Canadian Peak Parka DE NIÑA BANINA Azul Marino 14'
-tags: tole.es, parka
+tags: [ tole.es, parka ]
 actualPrice: 53.4 EUR
 currency: EUR
 price: 53.4

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0771SCYGT-es Kiwisac Trendy Pirámides Bolso para Carro de Bebé...'
-tags: tole.es, bolso
+tags: [ tole.es, bolso ]
 actualPrice: 17.95 EUR
 currency: EUR
 price: 17.95

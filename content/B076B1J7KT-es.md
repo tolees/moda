@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076B1J7KT-es Gafas Fastskin Elite Mirror'
-tags: tole.es, gafas
+tags: [ tole.es, gafas ]
 actualPrice: 43.28 EUR
 currency: EUR
 price: 43.28

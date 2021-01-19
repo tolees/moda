@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01H1SO2O8-es Nike Flat Front 833194 Pantalón Largo de Golf Hombre...'
-tags: tole.es, pantalón
+tags: [ tole.es, pantalón ]
 actualPrice: 42.09 EUR
 currency: EUR
 price: 42.09

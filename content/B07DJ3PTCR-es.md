@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DJ3PTCR-es Geox D Jaysen A Zapatillas para Mujer Blanco White C1000...'
-tags: tole.es, geox
+tags: [ tole.es, geox ]
 actualPrice: 87.2 EUR
 currency: EUR
 price: 87.2

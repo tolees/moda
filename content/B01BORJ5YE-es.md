@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BORJ5YE-es Erima GmbH Classic Team Chaqueta para Todo Tiempo Unisex...'
-tags: tole.es, chaqueta
+tags: [ tole.es, chaqueta ]
 actualPrice: 17.22 EUR
 currency: EUR
 price: 17.22

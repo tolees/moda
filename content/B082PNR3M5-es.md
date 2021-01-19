@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082PNR3M5-es 8 PCS Organizadores de Viaje para Maletas Bolsas de...'
-tags: tole.es, zapatos
+tags: [ tole.es, zapatos ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

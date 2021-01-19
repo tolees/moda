@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0777SS2QG-es Napapijri DAMAVAND Half Jersey Negro Black 041 S para Hombre'
-tags: tole.es, jersey
+tags: [ tole.es, jersey ]
 actualPrice: 36.43 EUR
 currency: EUR
 price: 36.43

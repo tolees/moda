@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076Q8G9SG-es G-STAR RAW 3301 Straight Vaqueros Blu Medium Aged 6090-071...'
-tags: tole.es, vaqueros
+tags: [ tole.es, vaqueros ]
 actualPrice: 49.95 EUR
 currency: EUR
 price: 49.95

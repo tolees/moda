@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TRM6RS2-es Levi s Housemark Graphic tee Camiseta Rojo Hm Ssnl Tonal...'
-tags: tole.es, camiseta
+tags: [ tole.es, camiseta ]
 actualPrice: 17.95 EUR
 currency: EUR
 price: 17.95

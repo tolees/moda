@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00EFUNURG-es Helly Hansen W Crew Chaqueta Mujer Blanco XL'
-tags: tole.es, chaqueta
+tags: [ tole.es, chaqueta ]
 actualPrice: 86.46 EUR
 currency: EUR
 price: 86.46

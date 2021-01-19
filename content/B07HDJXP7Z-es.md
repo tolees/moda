@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HDJXP7Z-es Only Onltia Dnm Jacket BB MB Bex02 Noos Chaqueta vaquera...'
-tags: tole.es, chaqueta
+tags: [ tole.es, chaqueta ]
 actualPrice: 26.58 EUR
 currency: EUR
 price: 26.58

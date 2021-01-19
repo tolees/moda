@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07STWS5W6-es Roxy - Sandalias - Mujer - EU 40 - Rosa'
-tags: tole.es, sandalias
+tags: [ tole.es, sandalias ]
 actualPrice: 20.66 EUR
 currency: EUR
 price: 20.66

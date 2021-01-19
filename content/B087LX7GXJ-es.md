@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087LX7GXJ-es Voova 15 15.6 14 Pulgadas Funda Maletín Ordenador...'
-tags: tole.es, bolso
+tags: [ tole.es, bolso ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

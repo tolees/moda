@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079KRWW44-es SIMYJOY Pareja Loro Dorado Pullover Loro Dorado Sudaderas...'
-tags: tole.es, sudadera
+tags: [ tole.es, sudadera ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

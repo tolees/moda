@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S8PWT97-es PUMA Epic Flip V2 Zapatos de Playa y Piscina Unisex Adulto...'
-tags: tole.es, zapatos
+tags: [ tole.es, zapatos ]
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

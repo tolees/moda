@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MVWNHLM-es RATEL Kit de Chaleco Táctico para Niños 92pcs Traje de...'
-tags: tole.es, chaleco, chaqueta, gafas
+tags: [ tole.es, chaleco, chaqueta, gafas ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

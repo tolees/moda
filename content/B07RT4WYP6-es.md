@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RT4WYP6-es Vestido Vintage para Muejeres Mangas Corta Cuello V de...'
-tags: tole.es, vestido
+tags: [ tole.es, vestido ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

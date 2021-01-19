@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QNYCCYR-es El Búho Nocturno Pijama de Caballero de Manga Corta y...'
-tags: tole.es, chaqueta, pijama
+tags: [ tole.es, chaqueta, pijama ]
 actualPrice: 33.95 EUR
 currency: EUR
 price: 33.95

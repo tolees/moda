@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDL6TXB-es G-STAR RAW 3301 Boyfriend Denim Chaqueta Rosa Dk Tea Rose...'
-tags: tole.es, chaqueta
+tags: [ tole.es, chaqueta ]
 actualPrice: 31.88 EUR
 currency: EUR
 price: 31.88

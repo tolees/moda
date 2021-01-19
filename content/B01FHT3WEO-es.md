@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01FHT3WEO-es MaxMuxun Sandalias de Vestir Clásica Básica con Tira...'
-tags: tole.es, sandalias
+tags: [ tole.es, sandalias ]
 actualPrice: 24.5 EUR
 currency: EUR
 price: 24.5

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RXL1C9D-es Levi s 512 Slim Taper Fit Vaqueros Tapered Azul Cedar...'
-tags: tole.es, vaqueros
+tags: [ tole.es, vaqueros ]
 actualPrice: 80.5 EUR
 currency: EUR
 price: 80.5

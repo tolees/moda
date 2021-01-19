@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B015QETD9S-es rubyca colgantes flotante para cristal Living memory...'
-tags: tole.es, collar
+tags: [ tole.es, collar ]
 actualPrice: 34.07 EUR
 currency: EUR
 price: 34.07

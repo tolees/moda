@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TT71J9F-es Levi s Vneck Camiseta Gris Tbd100 0008 Small para Mujer'
-tags: tole.es, camiseta
+tags: [ tole.es, camiseta ]
 actualPrice: 12.5 EUR
 currency: EUR
 price: 12.5

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RMNG29Q-es New Balance 410v6 Trail Zapatos para Correr para Mujer...'
-tags: tole.es, zapatos
+tags: [ tole.es, zapatos ]
 actualPrice: 34.57 EUR
 currency: EUR
 price: 34.57

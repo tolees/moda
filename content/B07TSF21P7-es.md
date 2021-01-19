@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TSF21P7-es Skechers Go Walk Smart-First Class Chanclas para Mujer...'
-tags: tole.es, chanclas
+tags: [ tole.es, chanclas ]
 actualPrice: 23.43 EUR
 currency: EUR
 price: 23.43

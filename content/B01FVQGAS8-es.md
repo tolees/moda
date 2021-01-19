@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01FVQGAS8-es Oakley Line Miner Gafas Deportivas Hombre Matte Black...'
-tags: tole.es, gafas
+tags: [ tole.es, gafas ]
 actualPrice: 101.99 EUR
 currency: EUR
 price: 101.99

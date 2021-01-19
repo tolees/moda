@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TKLY2N3-es HAWKERS · ONE · Carbon Black · Dark Polarized · Gafas de...'
-tags: tole.es, gafas
+tags: [ tole.es, gafas ]
 actualPrice: 27.57 EUR
 currency: EUR
 price: 27.57

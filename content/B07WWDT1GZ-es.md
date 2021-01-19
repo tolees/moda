@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WWDT1GZ-es Charles Wilson Originals Sudadera con Capucha X-Small...'
-tags: tole.es, sudadera
+tags: [ tole.es, sudadera ]
 actualPrice: 21.95 EUR
 currency: EUR
 price: 21.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HY23CS8-es Lee Rider Tonal Vaqueros Black Rinse Yc47 33W / 32L para...'
-tags: tole.es, vaqueros
+tags: [ tole.es, vaqueros ]
 actualPrice: 42.71 EUR
 currency: EUR
 price: 42.71

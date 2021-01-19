@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XDXGYKP-es Prada 0PR17SS VH43C2 53 Gafas de Sol Verde...'
-tags: tole.es, gafas
+tags: [ tole.es, gafas ]
 actualPrice: 150.5 EUR
 currency: EUR
 price: 150.5

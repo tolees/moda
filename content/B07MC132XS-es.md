@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MC132XS-es Clarks Vargo Vibe Zapatos de Cordones Derby para Hombre...'
-tags: tole.es, zapatos
+tags: [ tole.es, zapatos ]
 actualPrice: 26.79 EUR
 currency: EUR
 price: 26.79

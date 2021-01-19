@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078LDB9QG-es Tommy Jeans Original Ryan Vaqueros Straight para Hombre...'
-tags: tole.es, vaqueros
+tags: [ tole.es, vaqueros ]
 actualPrice: 56.28 EUR
 currency: EUR
 price: 56.28

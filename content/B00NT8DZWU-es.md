@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NT8DZWU-es Dickies Kingsley Sudadera con Capucha Negro Black Small...'
-tags: tole.es, sudadera
+tags: [ tole.es, sudadera ]
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

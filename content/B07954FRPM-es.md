@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07954FRPM-es NIKE M Nk Rpl Park 18 RN Jkt W Chaqueta de Deporte Hombre...'
-tags: tole.es, chaqueta
+tags: [ tole.es, chaqueta ]
 actualPrice: 30.55 EUR
 currency: EUR
 price: 30.55

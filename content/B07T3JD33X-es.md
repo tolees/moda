@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T3JD33X-es LARNMERN Zapatos de Seguridad para Hombre con Puntera de...'
-tags: tole.es, zapatos
+tags: [ tole.es, zapatos ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

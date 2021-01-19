@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J3DLP85-es Under Armour UA Streaker 2.0 Camiseta Mujer Azul...'
-tags: tole.es, camiseta
+tags: [ tole.es, camiseta ]
 actualPrice: 20.97 EUR
 currency: EUR
 price: 20.97

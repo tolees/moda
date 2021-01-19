@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00LFCGVW8-es Birkenstock Classic Arizona EVA Zuecos para Hombre Blanco...'
-tags: tole.es, zuecos
+tags: [ tole.es, zuecos ]
 actualPrice: 30.0 EUR
 currency: EUR
 price: 30.0

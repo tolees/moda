@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XHQWJ2Y-es Geox J Kommodor B Zapatillas para Niños Negro Black/White...'
-tags: tole.es, geox
+tags: [ tole.es, geox ]
 actualPrice: 29.16 EUR
 currency: EUR
 price: 29.16

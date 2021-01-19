@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FTRH64F-es Lee Rider Vaqueros Slim para Hombre Azul Broken Blue Sx...'
-tags: tole.es, vaqueros
+tags: [ tole.es, vaqueros ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

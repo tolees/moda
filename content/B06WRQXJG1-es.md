@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06WRQXJG1-es Lacoste TH6709 Camiseta para Hombre Blanco Blanc S Talla...'
-tags: tole.es, camiseta
+tags: [ tole.es, camiseta ]
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

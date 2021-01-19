@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BY99WBD-es AMZTM Zapatos de Agua para Niño Chicos Tiburón Zapatillas...'
-tags: tole.es, zapatos
+tags: [ tole.es, zapatos ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

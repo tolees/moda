@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VNTV7V6-es Lee Luke Vaqueros Moto Flat EB 26W / 32L para Hombre'
-tags: tole.es, vaqueros
+tags: [ tole.es, vaqueros ]
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

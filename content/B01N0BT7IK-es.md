@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N0BT7IK-es Under Armour Rival Fitted Full Zip Sudadera Hombre Azul...'
-tags: tole.es, sudadera
+tags: [ tole.es, sudadera ]
 actualPrice: 42.04 EUR
 currency: EUR
 price: 42.04

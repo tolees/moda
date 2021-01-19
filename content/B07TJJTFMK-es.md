@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TJJTFMK-es G-STAR RAW Jirgi Zip Camiseta Negro Dk Black 6484 X-Large...'
-tags: tole.es, camiseta
+tags: [ tole.es, camiseta ]
 actualPrice: 34.97 EUR
 currency: EUR
 price: 34.97

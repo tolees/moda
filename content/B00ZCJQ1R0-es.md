@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ZCJQ1R0-es LEABAGS Philadelphia Monedero para Mujeres de auténtico...'
-tags: tole.es, monedero
+tags: [ tole.es, monedero ]
 actualPrice: 44.98 EUR
 currency: EUR
 price: 44.98

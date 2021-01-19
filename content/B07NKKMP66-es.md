@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NKKMP66-es Nasjac Neceser Maquillaje Bolsa de Cosméticos Organizador...'
-tags: tole.es, bolso
+tags: [ tole.es, bolso ]
 actualPrice: 15.36 EUR
 currency: EUR
 price: 15.36

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D2G92XR-es Levi s 502 Regular Taper Vaqueros Gris Headed East 0275...'
-tags: tole.es, vaqueros
+tags: [ tole.es, vaqueros ]
 actualPrice: 57.5 EUR
 currency: EUR
 price: 57.5

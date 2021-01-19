@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B9VWZ5P-es Skechers On-The-go Joy-Bundle Up Botines para Mujer Gris...'
-tags: tole.es, botines
+tags: [ tole.es, botines ]
 actualPrice: 30.36 EUR
 currency: EUR
 price: 30.36

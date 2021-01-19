@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FKK8V5V-es Superdry Vintage Logo Tri tee Camiseta de Tirantes Blanco...'
-tags: tole.es, camiseta
+tags: [ tole.es, camiseta ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

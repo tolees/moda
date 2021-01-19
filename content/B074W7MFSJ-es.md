@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074W7MFSJ-es Marca Amazon - MERAKI Chaqueta de Algodón Mujer Cuello...'
-tags: tole.es, chaqueta, meraki
+tags: [ tole.es, chaqueta, meraki ]
 actualPrice: 7.2 EUR
 currency: EUR
 price: 7.2

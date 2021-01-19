@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PMS5V2L-es BOSS Maine BC-p Vaqueros Straight Azul Navy 410 33W / 36L...'
-tags: tole.es, vaqueros
+tags: [ tole.es, vaqueros ]
 actualPrice: 63.21 EUR
 currency: EUR
 price: 63.21

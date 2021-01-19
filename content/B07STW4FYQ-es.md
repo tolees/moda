@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07STW4FYQ-es Quiksilver Rivi Slide Sandalias con Punta Abierta para...'
-tags: tole.es, sandalias
+tags: [ tole.es, sandalias ]
 actualPrice: 11.04 EUR
 currency: EUR
 price: 11.04

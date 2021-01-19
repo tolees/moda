@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JHX1DNS-es Estuche SileuCase para copas menstruales – Ideal para...'
-tags: tole.es, bolso
+tags: [ tole.es, bolso ]
 actualPrice: 4.39 EUR
 currency: EUR
 price: 4.39

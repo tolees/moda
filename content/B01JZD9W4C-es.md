@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01JZD9W4C-es BOSS Trunk CO/EL Bóxer Blanco White 100 Large Pack de 3...'
-tags: tole.es, bóxer
+tags: [ tole.es, bóxer ]
 actualPrice: 19.5 EUR
 currency: EUR
 price: 19.5

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DV4N7Y5-es Columbia WAYFINDER Outdry Zapatos Multideporte para Mujer...'
-tags: tole.es, zapatos
+tags: [ tole.es, zapatos ]
 actualPrice: 83.98 EUR
 currency: EUR
 price: 83.98

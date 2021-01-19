@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SPVJ8BM-es SINOES 270 Zapatillas Deporte Hombres Running Zapatos...'
-tags: tole.es, zapatos
+tags: [ tole.es, zapatos ]
 actualPrice: 23.88 EUR
 currency: EUR
 price: 23.88

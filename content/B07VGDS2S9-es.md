@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VGDS2S9-es OBEEII Vestidos Niñas Fiesta Bordado de Tul para Fiesta...'
-tags: tole.es, vestido
+tags: [ tole.es, vestido ]
 actualPrice: 11.65 EUR
 currency: EUR
 price: 11.65

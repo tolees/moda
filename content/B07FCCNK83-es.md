@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FCCNK83-es Pañal Bolso Mochila Gran Capacidad Mochila de Pañales...'
-tags: tole.es, bolso
+tags: [ tole.es, bolso ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

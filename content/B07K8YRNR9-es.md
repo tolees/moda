@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K8YRNR9-es Crocs Crocband Clog Kids Zuecos Unisex Niños Azul Bright...'
-tags: tole.es, zuecos
+tags: [ tole.es, zuecos ]
 actualPrice: 22.39 EUR
 currency: EUR
 price: 22.39

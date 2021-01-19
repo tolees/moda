@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BJHKMHG-es G-STAR RAW 3301 Slim Vaqueros Dk Aged 8466-90 30W / 32L...'
-tags: tole.es, vaqueros
+tags: [ tole.es, vaqueros ]
 actualPrice: 77.99 EUR
 currency: EUR
 price: 77.99

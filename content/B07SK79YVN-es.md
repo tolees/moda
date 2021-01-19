@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SK79YVN-es Compatible con Xiaomi FIMI X8 SE Bolsa de Almacenamiento...'
-tags: tole.es, bolso
+tags: [ tole.es, bolso ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075WWV69S-es LSERVER Chaqueta de Otoño e Invierno para Niña Acolchada...'
-tags: tole.es, abrigo, chaqueta
+tags: [ tole.es, abrigo, chaqueta ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

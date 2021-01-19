@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08125MMQV-es Geographical Norway Parka Hombre VERVEINE Negro S'
-tags: tole.es, parka
+tags: [ tole.es, parka ]
 actualPrice: 71.4 EUR
 currency: EUR
 price: 71.4

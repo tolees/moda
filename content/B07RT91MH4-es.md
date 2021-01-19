@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RT91MH4-es Esprit 079ee2h001 Chaleco Azul Blue 430 X-Small para Hombre'
-tags: tole.es, chaleco
+tags: [ tole.es, chaleco ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

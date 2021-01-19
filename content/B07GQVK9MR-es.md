@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GQVK9MR-es Suertree Anti Blue Light gafas de lectura 3 paquete ayuda...'
-tags: tole.es, gafas
+tags: [ tole.es, gafas ]
 actualPrice: 16.04 EUR
 currency: EUR
 price: 16.04

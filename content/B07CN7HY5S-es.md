@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CN7HY5S-es Crocs Specialist II Vent Clog Zuecos Unisex Adulto Negro...'
-tags: tole.es, zuecos
+tags: [ tole.es, zuecos ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

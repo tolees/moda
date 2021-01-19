@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07THLDFW3-es iWalker Guantes Gimnasios de Crossfit para los Deportes...'
-tags: tole.es, guantes
+tags: [ tole.es, guantes ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

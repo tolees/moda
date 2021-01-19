@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01IIN6CNO-es Lee Twin Pack Crew Camiseta Negro Black Ai01 Large 2 para...'
-tags: tole.es, camiseta
+tags: [ tole.es, camiseta ]
 actualPrice: 20.95 EUR
 currency: EUR
 price: 20.95

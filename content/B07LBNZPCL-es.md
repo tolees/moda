@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LBNZPCL-es Helly Hansen K Legend Ins Jacket Chaqueta Unisex niños 039...'
-tags: tole.es, chaqueta
+tags: [ tole.es, chaqueta ]
 actualPrice: 63.0 EUR
 currency: EUR
 price: 63.0

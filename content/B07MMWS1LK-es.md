@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MMWS1LK-es Wrangler Texas Contrast Vaqueros Azul Stay Warm 54s 32 W/...'
-tags: tole.es, vaqueros
+tags: [ tole.es, vaqueros ]
 actualPrice: 44.98 EUR
 currency: EUR
 price: 44.98

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L2SR4B4-es Asics Netburner Ballistic FF MT Zapatos de Voleibol para...'
-tags: tole.es, zapatos
+tags: [ tole.es, zapatos ]
 actualPrice: 58.51 EUR
 currency: EUR
 price: 58.51

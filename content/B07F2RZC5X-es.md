@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F2RZC5X-es Helly Hansen Hp Ocean Fz Hoodie Sudadera para Hombre Gris...'
-tags: tole.es, sudadera
+tags: [ tole.es, sudadera ]
 actualPrice: 51.64 EUR
 currency: EUR
 price: 51.64

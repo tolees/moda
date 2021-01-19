@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TV7MDN9-es Levi s Plus Size Pl 501 Crop Stonewash Vaqueros Straight...'
-tags: tole.es, vaqueros
+tags: [ tole.es, vaqueros ]
 actualPrice: 79.03 EUR
 currency: EUR
 price: 79.03

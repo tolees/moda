@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KDF88WS-es adidas Regi18 Pre Jkt Chaqueta de Deporte Hombre Bold...'
-tags: tole.es, chaqueta
+tags: [ tole.es, chaqueta ]
 actualPrice: 22.18 EUR
 currency: EUR
 price: 22.18

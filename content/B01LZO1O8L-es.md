@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LZO1O8L-es Asics Gel-Solution Speed 3 Clay Zapatilla De Tenis - 39'
-tags: tole.es, zapatilla
+tags: [ tole.es, zapatilla ]
 actualPrice: 57.99 EUR
 currency: EUR
 price: 57.99

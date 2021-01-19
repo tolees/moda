@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01IF9Z7BY-es The North Face Tekware TNF Jersey 100 Glacier Hombre TNF...'
-tags: tole.es, jersey
+tags: [ tole.es, jersey ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

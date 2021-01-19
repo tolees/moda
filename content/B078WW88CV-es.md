@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078WW88CV-es PUMA Liga Jersey Jr T-Shirt Unisex niños Red White 164'
-tags: tole.es, jersey
+tags: [ tole.es, jersey ]
 actualPrice: 12.46 EUR
 currency: EUR
 price: 12.46

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KF534ZH-es Levi s 502 Regular Taper Vaqueros Azul Adriatico Adapt...'
-tags: tole.es, vaqueros
+tags: [ tole.es, vaqueros ]
 actualPrice: 46.95 EUR
 currency: EUR
 price: 46.95

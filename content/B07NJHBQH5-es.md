@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NJHBQH5-es Dolores Promesas 108220 Camiseta Negro Negro Negro 00 000...'
-tags: tole.es, camiseta
+tags: [ tole.es, camiseta ]
 actualPrice: 42.84 EUR
 currency: EUR
 price: 42.84

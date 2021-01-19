@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LG3X1YF-es Geox D Sukie C Zapatillas para Mujer Blau Navy C4002 38 EU'
-tags: tole.es, geox
+tags: [ tole.es, geox ]
 actualPrice: 36.52 EUR
 currency: EUR
 price: 36.52

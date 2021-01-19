@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TKSTCS9-es Clarks Un Palma Vibe Sandalias de Talón Abierto para Mujer...'
-tags: tole.es, sandalias
+tags: [ tole.es, sandalias ]
 actualPrice: 36.15 EUR
 currency: EUR
 price: 36.15

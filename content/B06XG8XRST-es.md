@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XG8XRST-es Marca Amazon - find. Camisa Hombre Verde Khaki Palm L...'
-tags: tole.es, camisa, -, find.
+tags: [ tole.es, camisa, -, find. ]
 actualPrice: 7.17 EUR
 currency: EUR
 price: 7.17

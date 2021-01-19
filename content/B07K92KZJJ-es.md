@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K92KZJJ-es Crocs Classic Clog K Zuecos Unisex Niños Rosa Pink...'
-tags: tole.es, zuecos
+tags: [ tole.es, zuecos ]
 actualPrice: 16.2 EUR
 currency: EUR
 price: 16.2

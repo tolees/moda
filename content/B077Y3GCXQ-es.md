@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077Y3GCXQ-es HIKARO Sudadera con Cuello Alto Mujer Azul Aqua 36 Talla...'
-tags: tole.es, sudadera
+tags: [ tole.es, sudadera ]
 actualPrice: 9.89 EUR
 currency: EUR
 price: 9.89

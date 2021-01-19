@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PNQGKYR-es LATEC Gafas de Sol Deportivas Gafas Ciclismo Polarizadas...'
-tags: tole.es, gafas
+tags: [ tole.es, gafas ]
 actualPrice: 12.79 EUR
 currency: EUR
 price: 12.79

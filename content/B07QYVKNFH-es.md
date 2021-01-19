@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QYVKNFH-es MMTX Hawaiano Luau Falda de mesa Decoración de fiesta...'
-tags: tole.es, falda
+tags: [ tole.es, falda ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

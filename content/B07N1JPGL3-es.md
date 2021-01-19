@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N1JPGL3-es Clarks Orabella Alice Botines para Mujer Marrón Burgundy...'
-tags: tole.es, botines
+tags: [ tole.es, botines ]
 actualPrice: 30.63 EUR
 currency: EUR
 price: 30.63

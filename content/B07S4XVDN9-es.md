@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S4XVDN9-es BOSS tee Curved Camiseta Blanco Natural 102 Medium para...'
-tags: tole.es, camiseta
+tags: [ tole.es, camiseta ]
 actualPrice: 34.21 EUR
 currency: EUR
 price: 34.21

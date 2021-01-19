@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CDV36WS-es Zapatos de Seguridad Hombre Mujer Zapatillas de Trabajo...'
-tags: tole.es, zapatos
+tags: [ tole.es, zapatos ]
 actualPrice: 28.89 EUR
 currency: EUR
 price: 28.89

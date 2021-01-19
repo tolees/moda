@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DCZ6M6W-es Marca Amazon - find. Abrigo Hombre Azul Navy XS Label: XS'
-tags: tole.es, abrigo, -, find.
+tags: [ tole.es, abrigo, -, find. ]
 actualPrice: 49.64 EUR
 currency: EUR
 price: 49.64

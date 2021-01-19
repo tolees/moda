@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JHTQC8P-es Amazon Essentials - Camisa regular de lino a cuadros con...'
-tags: tole.es, camisa
+tags: [ tole.es, camisa ]
 actualPrice: 14 EUR
 currency: EUR
 price: 14

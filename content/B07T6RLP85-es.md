@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T6RLP85-es Elegantpark FL Diseño de gotitas de agua Clips de zapatos...'
-tags: tole.es, zapatos
+tags: [ tole.es, zapatos ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

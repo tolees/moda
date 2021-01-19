@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P4NRMFR-es Art Harlem Botines para Mujer Marrón Cuero Cuero 40 EU'
-tags: tole.es, botines
+tags: [ tole.es, botines ]
 actualPrice: 67.89 EUR
 currency: EUR
 price: 67.89

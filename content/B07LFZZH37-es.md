@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFZZH37-es Geox J Alonisso Boy N Zapatillas Altas para Niños Azul...'
-tags: tole.es, geox
+tags: [ tole.es, geox ]
 actualPrice: 28.01 EUR
 currency: EUR
 price: 28.01

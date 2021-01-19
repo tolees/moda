@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075YFPV4B-es Sportout Iños y Adolescentes Adultos Guantes de Portero de...'
-tags: tole.es, guantes
+tags: [ tole.es, guantes ]
 actualPrice: 22.89 EUR
 currency: EUR
 price: 22.89

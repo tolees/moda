@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NPJHWZF-es Skechers Status 2.0 Pexton Zapatos de Cordones Derby para...'
-tags: tole.es, zapatos
+tags: [ tole.es, zapatos ]
 actualPrice: 29.04 EUR
 currency: EUR
 price: 29.04

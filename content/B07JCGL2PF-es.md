@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JCGL2PF-es Columbia Alpine Action Chaqueta OH Ski de esquí Mujer Rojo...'
-tags: tole.es, chaqueta
+tags: [ tole.es, chaqueta ]
 actualPrice: 106.19 EUR
 currency: EUR
 price: 106.19

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VSHJ326-es Amilril Collar de Copo de Nieve Colgante Plata de Ley 925...'
-tags: tole.es, collar
+tags: [ tole.es, collar ]
 actualPrice: 17.98 EUR
 currency: EUR
 price: 17.98

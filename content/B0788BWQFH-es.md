@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0788BWQFH-es Tommy Hilfiger RN tee SS Camiseta Azul Navy Blazer 416...'
-tags: tole.es, camiseta
+tags: [ tole.es, camiseta ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FQPLKX2-es Clarks Cammy Glory Sandalias Punta Cerrada para Mujer...'
-tags: tole.es, sandalias
+tags: [ tole.es, sandalias ]
 actualPrice: 36.78 EUR
 currency: EUR
 price: 36.78

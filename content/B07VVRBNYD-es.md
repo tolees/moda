@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VVRBNYD-es Pepe Jeans Garrett Sudadera con Capucha Rojo Brick 262...'
-tags: tole.es, sudadera
+tags: [ tole.es, sudadera ]
 actualPrice: 25.6 EUR
 currency: EUR
 price: 25.6

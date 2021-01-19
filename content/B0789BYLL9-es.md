@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0789BYLL9-es Helly Hansen HH LIFA Merino Crew Camiseta Deportiva Manga...'
-tags: tole.es, camiseta
+tags: [ tole.es, camiseta ]
 actualPrice: 39.19 EUR
 currency: EUR
 price: 39.19

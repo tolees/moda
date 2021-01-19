@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GPQ6WYN-es JOGVELO Maillot Ciclismo Ropa Ciclismo Conjunto Hombre...'
-tags: tole.es, jersey
+tags: [ tole.es, jersey ]
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

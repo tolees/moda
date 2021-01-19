@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MQF3RZ7-es Helly Hansen Hp Atlantic Fz - Sudadera para Hombre Gris...'
-tags: tole.es, sudadera
+tags: [ tole.es, sudadera ]
 actualPrice: 71.5 EUR
 currency: EUR
 price: 71.5

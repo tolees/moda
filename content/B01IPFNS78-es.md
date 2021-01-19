@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01IPFNS78-es Helly Hansen Crew Chaqueta Deportiva Hombre Azul Azul Navy...'
-tags: tole.es, chaqueta
+tags: [ tole.es, chaqueta ]
 actualPrice: 62.99 EUR
 currency: EUR
 price: 62.99

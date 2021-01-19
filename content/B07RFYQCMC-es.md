@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RFYQCMC-es G-STAR RAW 3301 Mid Waist Skinny Vaqueros Faded Indigo...'
-tags: tole.es, vaqueros
+tags: [ tole.es, vaqueros ]
 actualPrice: 12.43 EUR
 currency: EUR
 price: 12.43

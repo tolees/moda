@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0014C0OUY-es Crocs Classic Clog Zuecos Unisex Adulto Marrón Chocolate...'
-tags: tole.es, zuecos
+tags: [ tole.es, zuecos ]
 actualPrice: 19.77 EUR
 currency: EUR
 price: 19.77

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CCN49GH-es Eyekepper Moda Deportes Bifocal Gafas de sol TR90...'
-tags: tole.es, gafas, moda
+tags: [ tole.es, gafas, moda ]
 actualPrice: 15.06 EUR
 currency: EUR
 price: 15.06

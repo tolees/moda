@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S62M3NK-es Fruit of the Loom Valueweight tee 3 Pack Camiseta...'
-tags: tole.es, camiseta
+tags: [ tole.es, camiseta ]
 actualPrice: 7.47 EUR
 currency: EUR
 price: 7.47

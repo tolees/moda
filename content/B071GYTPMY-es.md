@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071GYTPMY-es Lico Milan Zapatos de High Rise Senderismo para Hombre...'
-tags: tole.es, zapatos
+tags: [ tole.es, zapatos ]
 actualPrice: 39.19 EUR
 currency: EUR
 price: 39.19

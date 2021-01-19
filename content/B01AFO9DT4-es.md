@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01AFO9DT4-es Diesel UMTEE-JAKETHREEPACK Camiseta para Hombre Multicolor...'
-tags: tole.es, camiseta
+tags: [ tole.es, camiseta ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

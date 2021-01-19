@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TT7C55Q-es Clarks Surfing Tide T Sandalias Punta Cerrada para Niñas...'
-tags: tole.es, sandalias
+tags: [ tole.es, sandalias ]
 actualPrice: 18.62 EUR
 currency: EUR
 price: 18.62

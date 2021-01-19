@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077HRZ7S7-es Marca Amazon - find. Vestido Midi de Flores Mujer Verde...'
-tags: tole.es, vestido, -, find.
+tags: [ tole.es, vestido, -, find. ]
 actualPrice: 8.48 EUR
 currency: EUR
 price: 8.48

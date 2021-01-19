@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SFZL1LG-es Kappa Maglia Replica Home 2019/2020 Camiseta De Juego...'
-tags: tole.es, camiseta
+tags: [ tole.es, camiseta ]
 actualPrice: 15.6 EUR
 currency: EUR
 price: 15.6

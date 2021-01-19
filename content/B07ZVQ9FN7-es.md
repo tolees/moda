@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZVQ9FN7-es Levi s LS Battery HM Shirt Slim Camisa Harbor Gray L para...'
-tags: tole.es, camisa
+tags: [ tole.es, camisa ]
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

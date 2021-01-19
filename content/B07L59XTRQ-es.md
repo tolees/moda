@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L59XTRQ-es Only & Sons Onsowen Zip Track Sweat Chaqueta Deportiva...'
-tags: tole.es, chaqueta
+tags: [ tole.es, chaqueta ]
 actualPrice: 9.46 EUR
 currency: EUR
 price: 9.46

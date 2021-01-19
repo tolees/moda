@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VWLB7M4-es Tommy Hilfiger TJM Circle Logo tee Camiseta Deporte Blanco...'
-tags: tole.es, camiseta
+tags: [ tole.es, camiseta ]
 actualPrice: 13.41 EUR
 currency: EUR
 price: 13.41

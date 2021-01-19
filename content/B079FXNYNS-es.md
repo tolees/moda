@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079FXNYNS-es Under Armour Sportstyle Cotton Logo Shorts Pantalón Corto...'
-tags: tole.es, pantalón
+tags: [ tole.es, pantalón ]
 actualPrice: 28.9 EUR
 currency: EUR
 price: 28.9

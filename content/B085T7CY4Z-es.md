@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085T7CY4Z-es LIVACASA Riñoneras Mujeres Deportivas Riñoneras de Moda...'
-tags: tole.es, moda
+tags: [ tole.es, moda ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HKV17QQ-es Sanetta Sweatshirt Sudadera Rojo LAX Red 38054 62 Talla...'
-tags: tole.es, sudadera
+tags: [ tole.es, sudadera ]
 actualPrice: 6.73 EUR
 currency: EUR
 price: 6.73

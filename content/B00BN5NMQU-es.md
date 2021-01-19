@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BN5NMQU-es Pepe Jeans Original Stretch Camiseta Negro Black 999...'
-tags: tole.es, camiseta
+tags: [ tole.es, camiseta ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

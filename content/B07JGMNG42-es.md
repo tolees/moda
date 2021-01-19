@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JGMNG42-es HBselect 2 PCS Bolsa Pañales Impermeable Organizador...'
-tags: tole.es, bolso
+tags: [ tole.es, bolso ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

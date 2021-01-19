@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LY9ELGW-es Marca Amazon - Iris & Lilly BELK006M5 Hipster Mujer Pack...'
-tags: tole.es, iris, &, lilly
+tags: [ tole.es, iris, &, lilly ]
 actualPrice: 10.63 EUR
 currency: EUR
 price: 10.63

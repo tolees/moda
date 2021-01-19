@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003ART4ZM-es Birkenstock 51793 - Sandalias con hebilla unisex Negro 35...'
-tags: tole.es, sandalias
+tags: [ tole.es, sandalias ]
 actualPrice: 59.33 EUR
 currency: EUR
 price: 59.33

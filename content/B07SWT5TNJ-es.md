@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SWT5TNJ-es REPLAY M3590 .000.2660 Camiseta Gris Stone Grey. 396 XXX-...'
-tags: tole.es, camiseta
+tags: [ tole.es, camiseta ]
 actualPrice: 6.74 EUR
 currency: EUR
 price: 6.74

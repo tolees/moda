@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XV9LWFD-es Geographical Norway Sudadera Mujer GYMCLASS A Gris Melange S'
-tags: tole.es, sudadera
+tags: [ tole.es, sudadera ]
 actualPrice: 27.3 EUR
 currency: EUR
 price: 27.3

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VZXMBX2-es Hush Puppies - Zapatos Rosie Estilo Menorquina de Esparto...'
-tags: tole.es, zapatos
+tags: [ tole.es, zapatos ]
 actualPrice: 41.95 EUR
 currency: EUR
 price: 41.95

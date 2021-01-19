@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z4ZZ2LK-es Carteras de Mano Fiesta para Mujer Elegante Suave Bolsos...'
-tags: tole.es, moda
+tags: [ tole.es, moda ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

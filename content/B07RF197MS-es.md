@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RF197MS-es G-STAR RAW Revend Skinny Vaqueros Antic Faded Ripped Ash...'
-tags: tole.es, vaqueros
+tags: [ tole.es, vaqueros ]
 actualPrice: 32.51 EUR
 currency: EUR
 price: 32.51

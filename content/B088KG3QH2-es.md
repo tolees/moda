@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088KG3QH2-es Suhctup Funda Compatible con Samsung Galaxy M10 Antigolpes...'
-tags: tole.es, moda
+tags: [ tole.es, moda ]
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HZFXQF3-es find. Asymetric Toe Thong Wedge Sandalias con Punta...'
-tags: tole.es, sandalias
+tags: [ tole.es, sandalias ]
 actualPrice: 13.48 EUR
 currency: EUR
 price: 13.48

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VDRWNP8-es Calvin Klein Zip Through HD Jacket Chaqueta Blanco Bright...'
-tags: tole.es, chaqueta
+tags: [ tole.es, chaqueta ]
 actualPrice: 53.26 EUR
 currency: EUR
 price: 53.26

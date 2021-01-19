@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T7FR5BW-es Cadena Transparente Bolsa De PVC Verano PU Colorido...'
-tags: tole.es, bolso, monedero
+tags: [ tole.es, bolso, monedero ]
 actualPrice: 10.76 EUR
 currency: EUR
 price: 10.76

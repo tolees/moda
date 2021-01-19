@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TQTY7Y5-es Superdry Collective Track Top Sudadera Negro Black 02a XS...'
-tags: tole.es, sudadera
+tags: [ tole.es, sudadera ]
 actualPrice: 21.84 EUR
 currency: EUR
 price: 21.84

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VYCJF9Z-es Amazon Essentials Sudadera Ligera de Felpa Francesa con...'
-tags: tole.es, sudadera
+tags: [ tole.es, sudadera ]
 actualPrice: 22.07 EUR
 currency: EUR
 price: 22.07

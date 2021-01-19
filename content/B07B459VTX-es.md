@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B459VTX-es SELECTED HOMME Slhslimsel-Pelle Shirt LS B Noos Camisa...'
-tags: tole.es, camisa
+tags: [ tole.es, camisa ]
 actualPrice: 23.18 EUR
 currency: EUR
 price: 23.18

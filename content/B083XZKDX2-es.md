@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083XZKDX2-es IPOTCH 1/6 Chaqueta Cortavientos de Mangas Largas con...'
-tags: tole.es, chaqueta
+tags: [ tole.es, chaqueta ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

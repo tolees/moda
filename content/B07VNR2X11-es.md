@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VNR2X11-es Izod Tartan Check BD Shirt Camisa Casual Color Blanco...'
-tags: tole.es, camisa
+tags: [ tole.es, camisa ]
 actualPrice: 5.52 EUR
 currency: EUR
 price: 5.52

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NQPLFM6-es Yuson Girl Conjuntos De Bikini Rayas Talle Alto Retro...'
-tags: tole.es, bikini
+tags: [ tole.es, bikini ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

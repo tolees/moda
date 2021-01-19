@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SQF2V7F-es Greylags 100% Algodón Prima Camiseta para Hombre | Cuello...'
-tags: tole.es, camiseta
+tags: [ tole.es, camiseta ]
 actualPrice: 22.46 EUR
 currency: EUR
 price: 22.46

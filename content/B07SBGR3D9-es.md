@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SBGR3D9-es Lee Distorted Logo tee Camiseta Blanco Bright White Lj...'
-tags: tole.es, camiseta
+tags: [ tole.es, camiseta ]
 actualPrice: 10.37 EUR
 currency: EUR
 price: 10.37

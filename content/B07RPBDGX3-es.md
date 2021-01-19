@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RPBDGX3-es HAWKERS Warwick Gafas de sol Carbon Black Chrome One Size...'
-tags: tole.es, gafas
+tags: [ tole.es, gafas ]
 actualPrice: 14.54 EUR
 currency: EUR
 price: 14.54

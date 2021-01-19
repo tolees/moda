@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SKWLQZP-es Havaianas Top Vibes Chanclas para Mujer Multicolor...'
-tags: tole.es, chanclas
+tags: [ tole.es, chanclas ]
 actualPrice: 8.95 EUR
 currency: EUR
 price: 8.95

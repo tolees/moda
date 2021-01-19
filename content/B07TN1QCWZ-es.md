@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TN1QCWZ-es Superdry Ls Essentials Helio Padded Jacket Chaqueta Gris...'
-tags: tole.es, chaqueta
+tags: [ tole.es, chaqueta ]
 actualPrice: 21.37 EUR
 currency: EUR
 price: 21.37

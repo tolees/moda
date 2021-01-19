@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0748PJVZN-es find. Vestido de Tirantes con Raya Ejecutiva para Mujer...'
-tags: tole.es, vestido
+tags: [ tole.es, vestido ]
 actualPrice: 9 EUR
 currency: EUR
 price: 9

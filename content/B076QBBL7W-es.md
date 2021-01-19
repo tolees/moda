@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076QBBL7W-es G-STAR RAW Core 3D Slim Shirt Wmn L/s Blusa Blanco White...'
-tags: tole.es, blusa
+tags: [ tole.es, blusa ]
 actualPrice: 34.97 EUR
 currency: EUR
 price: 34.97

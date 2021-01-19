@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SRKB5ZN-es Geox D Hiver A Zapatillas para Mujer Beige Sand C5004 38 EU'
-tags: tole.es, geox
+tags: [ tole.es, geox ]
 actualPrice: 22.92 EUR
 currency: EUR
 price: 22.92

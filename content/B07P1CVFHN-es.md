@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P1CVFHN-es Monedero Movom Cactus'
-tags: tole.es, monedero
+tags: [ tole.es, monedero ]
 actualPrice: 3.5 EUR
 currency: EUR
 price: 3.5

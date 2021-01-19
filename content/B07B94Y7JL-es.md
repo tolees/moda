@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B94Y7JL-es Clarks Vargo Plain Zapatos de Cordones Derby Marrón Dark...'
-tags: tole.es, zapatos
+tags: [ tole.es, zapatos ]
 actualPrice: 64.2 EUR
 currency: EUR
 price: 64.2

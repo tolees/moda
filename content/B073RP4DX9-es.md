@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073RP4DX9-es Helly Hansen W HH Tech Crew Camisa Deportiva Mujer Blanco...'
-tags: tole.es, camisa
+tags: [ tole.es, camisa ]
 actualPrice: 18.05 EUR
 currency: EUR
 price: 18.05

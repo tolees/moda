@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B9VYFXC-es Skechers On-The-go-Bundle Up Botines para Mujer Morado...'
-tags: tole.es, botines
+tags: [ tole.es, botines ]
 actualPrice: 48.1 EUR
 currency: EUR
 price: 48.1

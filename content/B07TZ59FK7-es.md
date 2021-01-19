@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TZ59FK7-es Women s Secret Cozy Animals Ca Flamingo PJ Conjuntos de...'
-tags: tole.es, pijama
+tags: [ tole.es, pijama ]
 actualPrice: 12.9 EUR
 currency: EUR
 price: 12.9

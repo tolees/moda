@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003GSLEKI-es Havaianas Brasil Logo Chanclas Unisex niños Azul Navy Blue...'
-tags: tole.es, chanclas
+tags: [ tole.es, chanclas ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

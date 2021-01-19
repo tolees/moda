@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XPS18RM-es Calzado Deportivo Masculino de Seguridad con Puntera...'
-tags: tole.es, zapatos
+tags: [ tole.es, zapatos ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

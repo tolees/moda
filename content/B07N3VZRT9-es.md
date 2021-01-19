@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N3VZRT9-es Desigual T-Shirt Andora Camiseta Rojo Rojo Oscuro 3029 M...'
-tags: tole.es, camiseta
+tags: [ tole.es, camiseta ]
 actualPrice: 22.79 EUR
 currency: EUR
 price: 22.79

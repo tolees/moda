@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NB9B9L1-es Esprit 049ee1k034 Camiseta Blanco Off White 110 Small para...'
-tags: tole.es, camiseta
+tags: [ tole.es, camiseta ]
 actualPrice: 8.01 EUR
 currency: EUR
 price: 8.01

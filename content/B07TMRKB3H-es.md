@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TMRKB3H-es Clarks Tri Slide Sandalias Punta Cerrada para Mujer Beige...'
-tags: tole.es, sandalias
+tags: [ tole.es, sandalias ]
 actualPrice: 32.62 EUR
 currency: EUR
 price: 32.62

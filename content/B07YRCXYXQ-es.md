@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YRCXYXQ-es Marca Amazon - AURIQUE Contrast Panels BAL004 Mallas de...'
-tags: tole.es, aurique
+tags: [ tole.es, aurique ]
 actualPrice: 8.95 EUR
 currency: EUR
 price: 8.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MFM2LMT-es Clarks Oliver Limit Zapatos de Cordones Derby para Hombre...'
-tags: tole.es, zapatos
+tags: [ tole.es, zapatos ]
 actualPrice: 74.79 EUR
 currency: EUR
 price: 74.79

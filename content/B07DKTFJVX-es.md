@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DKTFJVX-es Dickies Farnham Chaqueta Marrón X-Small Talla del...'
-tags: tole.es, chaqueta
+tags: [ tole.es, chaqueta ]
 actualPrice: 58.25 EUR
 currency: EUR
 price: 58.25

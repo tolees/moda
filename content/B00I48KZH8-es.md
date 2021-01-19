@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00I48KZH8-es Katara Juego de Disfraces Super Mario Bros Niños/Adultos...'
-tags: tole.es, guantes
+tags: [ tole.es, guantes ]
 actualPrice: 18.33 EUR
 currency: EUR
 price: 18.33

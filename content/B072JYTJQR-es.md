@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072JYTJQR-es Clarks Batcombe Wing Zapatos de Cordones Derby Negro Black...'
-tags: tole.es, zapatos
+tags: [ tole.es, zapatos ]
 actualPrice: 52.07 EUR
 currency: EUR
 price: 52.07

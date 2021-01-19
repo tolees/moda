@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KXVBPSB-es JACK & JONES Jjitim Jjoriginal Am 815 Vaqueros Skinny Azul...'
-tags: tole.es, vaqueros
+tags: [ tole.es, vaqueros ]
 actualPrice: 20.21 EUR
 currency: EUR
 price: 20.21

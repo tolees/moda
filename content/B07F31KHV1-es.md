@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F31KHV1-es Helly Hansen Crew Windbreaker Jacket Chaqueta deportiva...'
-tags: tole.es, chaqueta
+tags: [ tole.es, chaqueta ]
 actualPrice: 58.14 EUR
 currency: EUR
 price: 58.14

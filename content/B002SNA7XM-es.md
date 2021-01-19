@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002SNA7XM-es Crocs Crocband Flip Chanclas Unisex-Adult Black Black...'
-tags: tole.es, chanclas
+tags: [ tole.es, chanclas ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

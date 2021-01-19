@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0776ZBC5Z-es Ho soccer 0505576.02 Pantalón Corto sin Acolchado Hombre...'
-tags: tole.es, pantalón
+tags: [ tole.es, pantalón ]
 actualPrice: 7.49 EUR
 currency: EUR
 price: 7.49

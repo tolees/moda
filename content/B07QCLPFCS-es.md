@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QCLPFCS-es PDQ - Sandalias Deportivas de Cierre Adhesivos 3 para...'
-tags: tole.es, sandalias
+tags: [ tole.es, sandalias ]
 actualPrice: 25.2 EUR
 currency: EUR
 price: 25.2

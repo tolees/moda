@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074NBKY4R-es Fitflop Lulu Cross Slide Sandalias de Punta Descubierta...'
-tags: tole.es, sandalias
+tags: [ tole.es, sandalias ]
 actualPrice: 39.0 EUR
 currency: EUR
 price: 39.0

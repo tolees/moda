@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F9SVQ4L-es Esprit Kids RM1039307 Camiseta Blanco White 010 Talla del...'
-tags: tole.es, camiseta
+tags: [ tole.es, camiseta ]
 actualPrice: 7.09 EUR
 currency: EUR
 price: 7.09

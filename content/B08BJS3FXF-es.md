@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BJS3FXF-es Cable Alargador USB 2.0 [3M] Cable Extension USB Tipo A...'
-tags: tole.es, gafas
+tags: [ tole.es, gafas ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

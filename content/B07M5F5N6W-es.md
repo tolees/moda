@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M5F5N6W-es Wrangler Skinny Jeans Vaqueros Azul Soft Drive 20g 32W /...'
-tags: tole.es, vaqueros
+tags: [ tole.es, vaqueros ]
 actualPrice: 20.75 EUR
 currency: EUR
 price: 20.75

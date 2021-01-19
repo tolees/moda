@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QB7Q2G3-es P Prettyia Calzador de Zapatos de Madera Mango Largo...'
-tags: tole.es, zapatos
+tags: [ tole.es, zapatos ]
 actualPrice: 9.22 EUR
 currency: EUR
 price: 9.22

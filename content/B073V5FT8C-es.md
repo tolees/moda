@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073V5FT8C-es adidas HVC K Zapatos de Boxeo Unisex Niños Negro Schwarz...'
-tags: tole.es, zapatos
+tags: [ tole.es, zapatos ]
 actualPrice: 14.63 EUR
 currency: EUR
 price: 14.63

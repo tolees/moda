@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TYTRCD3-es Puma Junior Gafas de sol Multicolor Crystal/Silver/Havana...'
-tags: tole.es, gafas
+tags: [ tole.es, gafas ]
 actualPrice: 6.66 EUR
 currency: EUR
 price: 6.66

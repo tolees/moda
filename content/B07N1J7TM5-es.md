@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N1J7TM5-es Clarks Pure Mist Zapatos de Cordones Derby para Mujer...'
-tags: tole.es, zapatos
+tags: [ tole.es, zapatos ]
 actualPrice: 14.18 EUR
 currency: EUR
 price: 14.18

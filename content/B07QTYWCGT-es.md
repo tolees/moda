@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QTYWCGT-es WILBEST Billetera de Hombre de Piel Cartera RFID Carteras...'
-tags: tole.es, billetera, monedero
+tags: [ tole.es, billetera, monedero ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

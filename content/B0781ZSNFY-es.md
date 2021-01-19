@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0781ZSNFY-es Puma Liga Sideline Woven Pantalón Hombre Azul Peacoat White S'
-tags: tole.es, pantalón
+tags: [ tole.es, pantalón ]
 actualPrice: 16.3 EUR
 currency: EUR
 price: 16.3

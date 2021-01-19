@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RCJHL7V-es G-STAR RAW 3301 Slim Vaqueros Antic Faded Ripped Marine...'
-tags: tole.es, vaqueros
+tags: [ tole.es, vaqueros ]
 actualPrice: 21.19 EUR
 currency: EUR
 price: 21.19

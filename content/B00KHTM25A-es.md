@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00KHTM25A-es Under Armour UA Heatgear Short Sleeve Camiseta Hombre...'
-tags: tole.es, camiseta
+tags: [ tole.es, camiseta ]
 actualPrice: 15.49 EUR
 currency: EUR
 price: 15.49

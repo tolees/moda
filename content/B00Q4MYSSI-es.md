@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00Q4MYSSI-es Lacoste TH7618 Camiseta para Hombre Azul Marine Medium...'
-tags: tole.es, camiseta
+tags: [ tole.es, camiseta ]
 actualPrice: 24.45 EUR
 currency: EUR
 price: 24.45

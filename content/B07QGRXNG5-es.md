@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QGRXNG5-es BeiaMina Mujer Moda Plano Sandalias Zapatos Sin Cordones...'
-tags: tole.es, moda, sandalias, zapatos
+tags: [ tole.es, moda, sandalias, zapatos ]
 actualPrice: 14.66 EUR
 currency: EUR
 price: 14.66

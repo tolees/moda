@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TXZQN5Q-es New Look Lattice Front Vestido Negro Black Pattern 9 40...'
-tags: tole.es, vestido
+tags: [ tole.es, vestido ]
 actualPrice: 14.0 EUR
 currency: EUR
 price: 14.0

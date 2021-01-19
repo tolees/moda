@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VD45ZS4-es Calvin Klein Vegetable Dye Monogram Crew Neck Sudadera...'
-tags: tole.es, sudadera
+tags: [ tole.es, sudadera ]
 actualPrice: 39.06 EUR
 currency: EUR
 price: 39.06

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L4C5B6C-es Tamaris 1-1-22426-23 Zapatos con Plataforma para Mujer...'
-tags: tole.es, zapatos
+tags: [ tole.es, zapatos ]
 actualPrice: 22.45 EUR
 currency: EUR
 price: 22.45

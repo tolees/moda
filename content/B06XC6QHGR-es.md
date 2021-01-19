@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XC6QHGR-es Clarks Gilman Mode Zapatos de Cordones Derby para Hombre...'
-tags: tole.es, zapatos
+tags: [ tole.es, zapatos ]
 actualPrice: 42.64 EUR
 currency: EUR
 price: 42.64

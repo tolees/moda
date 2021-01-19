@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R9JSMBR-es Aibrou Camiseta Lactancia Mujer Verano Camisetas Premama...'
-tags: tole.es, camiseta
+tags: [ tole.es, camiseta ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

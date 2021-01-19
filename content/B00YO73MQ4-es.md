@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00YO73MQ4-es Under Armour Tech T Camiseta sin Mangas Mujer Negro...'
-tags: tole.es, camiseta
+tags: [ tole.es, camiseta ]
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

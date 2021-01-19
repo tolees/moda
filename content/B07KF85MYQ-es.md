@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KF85MYQ-es Levi s SS Original Hm tee Camiseta Rojo Brilliant Red 0025...'
-tags: tole.es, camiseta
+tags: [ tole.es, camiseta ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

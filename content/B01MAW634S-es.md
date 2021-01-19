@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MAW634S-es flintronic Cartera Tarjeta de Crédito Slim Billetera...'
-tags: tole.es, billetera, monedero
+tags: [ tole.es, billetera, monedero ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

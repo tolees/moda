@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079DRTLGS-es Anna Smith Bolso de embrague con correa Bolso de noche de...'
-tags: tole.es, bolso
+tags: [ tole.es, bolso ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RMHKH3J-es SimpleLife Sport Bag Gym Shoulder Bag Travel Travel Sports...'
-tags: tole.es, zapatos
+tags: [ tole.es, zapatos ]
 actualPrice: 16.81 EUR
 currency: EUR
 price: 16.81

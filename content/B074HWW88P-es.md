@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074HWW88P-es Blanco Rosa Sudaderas Mujer Largas Tumblr Invierno Raya...'
-tags: tole.es, moda
+tags: [ tole.es, moda ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

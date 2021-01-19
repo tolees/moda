@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QJGHKZC-es Guess Analise Bolso de mano negro'
-tags: tole.es, bolso
+tags: [ tole.es, bolso ]
 actualPrice: 116 EUR
 currency: EUR
 price: 116

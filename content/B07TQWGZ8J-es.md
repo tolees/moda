@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TQWGZ8J-es Clarks Declan Mix Sandalias de Gladiador para Mujer Negro...'
-tags: tole.es, sandalias
+tags: [ tole.es, sandalias ]
 actualPrice: 34.0 EUR
 currency: EUR
 price: 34.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L5LLCJD-es RealMadrid Pelele Blanco 3-12 Meses 3 Meses'
-tags: tole.es, pelele
+tags: [ tole.es, pelele ]
 actualPrice: 12.49 EUR
 currency: EUR
 price: 12.49

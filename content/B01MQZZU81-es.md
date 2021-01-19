@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MQZZU81-es Timberland Kenniston Nellie Zapatillas Chukka para Mujer...'
-tags: tole.es, timberland
+tags: [ tole.es, timberland ]
 actualPrice: 72.99 EUR
 currency: EUR
 price: 72.99

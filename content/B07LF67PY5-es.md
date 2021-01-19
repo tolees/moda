@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LF67PY5-es Levi s Housemark Graphic tee Camiseta Azul Hm Outline...'
-tags: tole.es, camiseta
+tags: [ tole.es, camiseta ]
 actualPrice: 10.57 EUR
 currency: EUR
 price: 10.57

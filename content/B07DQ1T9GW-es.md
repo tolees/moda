@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DQ1T9GW-es Urban Classics Ladies Sherpa Hooded Jacket Chaqueta...'
-tags: tole.es, chaqueta
+tags: [ tole.es, chaqueta ]
 actualPrice: 23.35 EUR
 currency: EUR
 price: 23.35

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SB1YZLY-es Helly Hansen Dubliner Jacket Chaqueta Hombre Royal Blue M'
-tags: tole.es, chaqueta
+tags: [ tole.es, chaqueta ]
 actualPrice: 81.99 EUR
 currency: EUR
 price: 81.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V6XX2T8-es J.Endéar Inicial Encanto J Personalizar Collar Clavícula...'
-tags: tole.es, collar
+tags: [ tole.es, collar ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

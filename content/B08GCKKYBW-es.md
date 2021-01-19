@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08GCKKYBW-es MioRico Saco Dormir Bebe 1 TOG Saquito de Dormir 100%...'
-tags: tole.es, pijama
+tags: [ tole.es, pijama ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

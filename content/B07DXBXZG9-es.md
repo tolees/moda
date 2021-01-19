@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DXBXZG9-es Tommy Hilfiger T Camiseta Básica de Manga Corta Negro...'
-tags: tole.es, camiseta
+tags: [ tole.es, camiseta ]
 actualPrice: 10.45 EUR
 currency: EUR
 price: 10.45

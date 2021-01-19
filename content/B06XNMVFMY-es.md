@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XNMVFMY-es Geox D Quinlynn B Mocasines para Mujer Marrón Chestnut 37 EU'
-tags: tole.es, geox
+tags: [ tole.es, geox ]
 actualPrice: 30.11 EUR
 currency: EUR
 price: 30.11

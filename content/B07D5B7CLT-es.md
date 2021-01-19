@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D5B7CLT-es Funda Huawei P20 Flexible TPU Silicona Moda Lindo Case...'
-tags: tole.es, moda
+tags: [ tole.es, moda ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

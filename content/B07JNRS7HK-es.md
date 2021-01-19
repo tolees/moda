@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JNRS7HK-es Amazon Essentials - Vestido largo de manga corta para...'
-tags: tole.es, vestido
+tags: [ tole.es, vestido ]
 actualPrice: 5.52 EUR
 currency: EUR
 price: 5.52

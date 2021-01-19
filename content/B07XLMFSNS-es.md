@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XLMFSNS-es Jack & Jones Jjiglenn Jjoriginal JOS 800 I.K Vaqueros Slim...'
-tags: tole.es, vaqueros
+tags: [ tole.es, vaqueros ]
 actualPrice: 24.0 EUR
 currency: EUR
 price: 24.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RK411LC-es JACK & JONES Jcotake Sweat Zip Hood Sudadera Negro Black...'
-tags: tole.es, sudadera
+tags: [ tole.es, sudadera ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

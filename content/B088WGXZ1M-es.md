@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088WGXZ1M-es Moda Zapatos Casuales Femeninos，Zapatillas para Mujer...'
-tags: tole.es, moda, zapatos, zapatilla
+tags: [ tole.es, moda, zapatos, zapatilla ]
 actualPrice: 4.89 EUR
 currency: EUR
 price: 4.89

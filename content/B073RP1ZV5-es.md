@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073RP1ZV5-es Helly Hansen HH Tech T-Shirt Camiseta Técnica Hombre White M'
-tags: tole.es, camiseta
+tags: [ tole.es, camiseta ]
 actualPrice: 10.49 EUR
 currency: EUR
 price: 10.49

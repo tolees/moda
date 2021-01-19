@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00KHTMG4W-es Under Armour UA Heatgear Short Sleeve Camiseta Hombre Rojo...'
-tags: tole.es, camiseta
+tags: [ tole.es, camiseta ]
 actualPrice: 23.67 EUR
 currency: EUR
 price: 23.67

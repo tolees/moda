@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079XYKD7R-es PUMA Liga TR JSY Camiseta de Manga Corta Hombre Blanco...'
-tags: tole.es, camiseta
+tags: [ tole.es, camiseta ]
 actualPrice: 15.88 EUR
 currency: EUR
 price: 15.88

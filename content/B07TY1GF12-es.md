@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TY1GF12-es Women s Secret Mickey Vintage Mv DS Allover PJ FR...'
-tags: tole.es, pijama
+tags: [ tole.es, pijama ]
 actualPrice: 18.13 EUR
 currency: EUR
 price: 18.13

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078WTN6CZ-es Quiksilver Zapatos de Playa y Piscina AQYL100047 XSKS'
-tags: tole.es, zapatos
+tags: [ tole.es, zapatos ]
 actualPrice: 16.1 EUR
 currency: EUR
 price: 16.1

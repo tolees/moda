@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071S3LHTZ-es FIND Vestido Ajustable para Mujer Negro Schwarz 36 Talla...'
-tags: tole.es, vestido
+tags: [ tole.es, vestido ]
 actualPrice: 10.58 EUR
 currency: EUR
 price: 10.58

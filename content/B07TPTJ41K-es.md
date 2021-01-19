@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TPTJ41K-es Superdry OL Vintage Emb Crew Camiseta Azul Desert Sky Blue...'
-tags: tole.es, camiseta
+tags: [ tole.es, camiseta ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079MGGDTH-es Marca Amazon - MERAKI Camiseta de Manga Corta con Corte...'
-tags: tole.es, camiseta, meraki
+tags: [ tole.es, camiseta, meraki ]
 actualPrice: 7.14 EUR
 currency: EUR
 price: 7.14

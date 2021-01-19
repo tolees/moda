@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NVWKFR1-es Armor Lux 77288 Chaqueta Negro Noir 010 Medium Talla del...'
-tags: tole.es, chaqueta
+tags: [ tole.es, chaqueta ]
 actualPrice: 121.43 EUR
 currency: EUR
 price: 121.43

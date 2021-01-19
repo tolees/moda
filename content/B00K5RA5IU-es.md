@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00K5RA5IU-es Tommy Hilfiger 3p Trunk Bóxer Negro Black 990 Large Pack...'
-tags: tole.es, bóxer
+tags: [ tole.es, bóxer ]
 actualPrice: 23.8 EUR
 currency: EUR
 price: 23.8

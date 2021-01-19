@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MC123JK-es Clarks Ronnie Walk Zapatos de Cordones Derby Marrón...'
-tags: tole.es, zapatos
+tags: [ tole.es, zapatos ]
 actualPrice: 44.04 EUR
 currency: EUR
 price: 44.04

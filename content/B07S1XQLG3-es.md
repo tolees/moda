@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S1XQLG3-es Columbia Vapor Vent Zapatos para Hombre Gris Steam/Royal...'
-tags: tole.es, zapatos
+tags: [ tole.es, zapatos ]
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

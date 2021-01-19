@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KN76W2S-es adidas W E 3s FZ HD Sudadera Mujer Negro Black/White M'
-tags: tole.es, sudadera
+tags: [ tole.es, sudadera ]
 actualPrice: 36.49 EUR
 currency: EUR
 price: 36.49

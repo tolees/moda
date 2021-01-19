@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079ML5G6P-es Marca Amazon - MERAKI Camiseta de Manga Corta Hombre Negro...'
-tags: tole.es, camiseta, meraki
+tags: [ tole.es, camiseta, meraki ]
 actualPrice: 10.46 EUR
 currency: EUR
 price: 10.46

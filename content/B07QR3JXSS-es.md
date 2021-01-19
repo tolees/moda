@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QR3JXSS-es ZXYSHOP Abrigo de Invierno Acolchado para Niñas Princesas...'
-tags: tole.es, abrigo, chaqueta
+tags: [ tole.es, abrigo, chaqueta ]
 actualPrice: 9.42 EUR
 currency: EUR
 price: 9.42

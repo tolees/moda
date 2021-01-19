@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072X1J9YV-es Columbia Pike Lake Jacket Chaqueta Hombre Negro Black XL'
-tags: tole.es, chaqueta
+tags: [ tole.es, chaqueta ]
 actualPrice: 84.99 EUR
 currency: EUR
 price: 84.99

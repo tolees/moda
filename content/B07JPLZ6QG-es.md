@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JPLZ6QG-es Bebé Niña Vestido de Fiesta Princesa Disfraces Tutú Ballet...'
-tags: tole.es, vestido
+tags: [ tole.es, vestido ]
 actualPrice: 11.65 EUR
 currency: EUR
 price: 11.65

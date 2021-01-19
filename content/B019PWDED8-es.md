@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B019PWDED8-es Diesel CREW NECK ESSENTIAL Camiseta para Hombre Negro...'
-tags: tole.es, camiseta
+tags: [ tole.es, camiseta ]
 actualPrice: 27.95 EUR
 currency: EUR
 price: 27.95

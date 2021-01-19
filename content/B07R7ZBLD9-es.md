@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R7ZBLD9-es O NEILL PM Alti Hyperfleece - Chaqueta para Hombre Hombre...'
-tags: tole.es, chaqueta
+tags: [ tole.es, chaqueta ]
 actualPrice: 19.8 EUR
 currency: EUR
 price: 19.8

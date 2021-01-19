@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FQW4TRJ-es Clarks Step Beat Sun Abierta Sandalias Punta Cerrada Azul...'
-tags: tole.es, sandalias
+tags: [ tole.es, sandalias ]
 actualPrice: 21.98 EUR
 currency: EUR
 price: 21.98

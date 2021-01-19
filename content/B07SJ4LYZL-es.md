@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SJ4LYZL-es amzdeal - 30pcs Organizadores de Zapatos Ajustables...'
-tags: tole.es, zapatos
+tags: [ tole.es, zapatos ]
 actualPrice: 37.55 EUR
 currency: EUR
 price: 37.55

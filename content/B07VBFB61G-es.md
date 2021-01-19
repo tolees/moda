@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VBFB61G-es JACK & JONES Jprwetford Parka STS Beige Kelp Kelp Large...'
-tags: tole.es, parka
+tags: [ tole.es, parka ]
 actualPrice: 37.82 EUR
 currency: EUR
 price: 37.82

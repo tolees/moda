@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08G1FTPL4-es Ocobudbxw Mujeres niñas Moda en Forma de corazón Embrague...'
-tags: tole.es, bolso, moda, monedero
+tags: [ tole.es, bolso, moda, monedero ]
 actualPrice: 17.41 EUR
 currency: EUR
 price: 17.41

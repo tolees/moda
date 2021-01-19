@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K78KTZT-es Levi s 511 Slim Fit Vaqueros Caspian Adapt 3406 33W / 30L...'
-tags: tole.es, vaqueros
+tags: [ tole.es, vaqueros ]
 actualPrice: 68.49 EUR
 currency: EUR
 price: 68.49

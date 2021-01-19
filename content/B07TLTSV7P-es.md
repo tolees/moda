@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TLTSV7P-es Clarks Arla Jacory Sandalias de Talón Abierto para Mujer...'
-tags: tole.es, sandalias
+tags: [ tole.es, sandalias ]
 actualPrice: 32.86 EUR
 currency: EUR
 price: 32.86

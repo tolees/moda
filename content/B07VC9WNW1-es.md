@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VC9WNW1-es JACK & JONES Jorclan Parka Negro Black Large para Hombre'
-tags: tole.es, parka
+tags: [ tole.es, parka ]
 actualPrice: 29.76 EUR
 currency: EUR
 price: 29.76

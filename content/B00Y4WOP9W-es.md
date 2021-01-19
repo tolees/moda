@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00Y4WOP9W-es Neosens S849 Restored Skin Rococo Zapatos con tira...'
-tags: tole.es, zapatos
+tags: [ tole.es, zapatos ]
 actualPrice: 65.88 EUR
 currency: EUR
 price: 65.88

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B3PT69C-es Dilwe Chaleco táctico Clip Impermeable para Pistola Tira...'
-tags: tole.es, chaleco
+tags: [ tole.es, chaleco ]
 actualPrice: 8.59 EUR
 currency: EUR
 price: 8.59

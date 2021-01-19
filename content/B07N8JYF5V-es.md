@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N8JYF5V-es Desigual T-Shirt John Camiseta de Manga Larga Azul Diva...'
-tags: tole.es, camiseta
+tags: [ tole.es, camiseta ]
 actualPrice: 12.87 EUR
 currency: EUR
 price: 12.87

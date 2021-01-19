@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TVTXXK8-es Women s Secret British Multilicense MB PE Rain PJ...'
-tags: tole.es, pijama
+tags: [ tole.es, pijama ]
 actualPrice: 20.76 EUR
 currency: EUR
 price: 20.76

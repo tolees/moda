@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N1CH9KV-es G-STAR RAW 3301 High Waist Straight 90 s Ankle Vaqueros...'
-tags: tole.es, vaqueros
+tags: [ tole.es, vaqueros ]
 actualPrice: 35.23 EUR
 currency: EUR
 price: 35.23

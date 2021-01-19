@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KKW3LHT-es adidas Ask 360 LS 3S D Camiseta de Manga Larga Hombre Black M'
-tags: tole.es, camiseta
+tags: [ tole.es, camiseta ]
 actualPrice: 57.94 EUR
 currency: EUR
 price: 57.94

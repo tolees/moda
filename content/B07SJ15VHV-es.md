@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SJ15VHV-es Levi s Delamar L Chanclas para Hombre Negro R Black 159 XL'
-tags: tole.es, chanclas
+tags: [ tole.es, chanclas ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JH3FJ68-es Pepe Jeans Wyatt Pm305905 Camisa Blue 551 Small para Hombre'
-tags: tole.es, camisa
+tags: [ tole.es, camisa ]
 actualPrice: 34.1 EUR
 currency: EUR
 price: 34.1

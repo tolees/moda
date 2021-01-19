@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q7ZQQFC-es Xnuoyo Mochila de Bandolera Bolso de Pecho Hombro...'
-tags: tole.es, bolso
+tags: [ tole.es, bolso ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GZ2JSQM-es Wrangler Texas Vaqueros Azul W34/L34 Talla del Fabricante:...'
-tags: tole.es, vaqueros
+tags: [ tole.es, vaqueros ]
 actualPrice: 34.98 EUR
 currency: EUR
 price: 34.98

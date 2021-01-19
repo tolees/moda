@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JFQ7SQT-es Lacoste Ch9623 Camisa Gris Nimbus/Nimbus 7fp Medium Talla...'
-tags: tole.es, camisa
+tags: [ tole.es, camisa ]
 actualPrice: 73.98 EUR
 currency: EUR
 price: 73.98

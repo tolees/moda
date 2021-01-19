@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L4CKQQK-es Tamaris 1-1-22444-23 Zapatos de Tacón para Mujer Rojo...'
-tags: tole.es, zapatos
+tags: [ tole.es, zapatos ]
 actualPrice: 24.95 EUR
 currency: EUR
 price: 24.95

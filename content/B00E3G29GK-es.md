@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00E3G29GK-es Dickies Cornwell Abrigo impermeable para Hombre Gris...'
-tags: tole.es, abrigo
+tags: [ tole.es, abrigo ]
 actualPrice: 26.65 EUR
 currency: EUR
 price: 26.65

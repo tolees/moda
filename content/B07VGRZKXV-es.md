@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VGRZKXV-es JACK & JONES Jprsander Detail Shirt L/s Pre Camisa Azul...'
-tags: tole.es, camisa
+tags: [ tole.es, camisa ]
 actualPrice: 20.83 EUR
 currency: EUR
 price: 20.83

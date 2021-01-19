@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DDGTBP2-es Zapatos de Agua para Buceo Snorkel Surf Piscina Playa Vela...'
-tags: tole.es, zapatos
+tags: [ tole.es, zapatos ]
 actualPrice: 19.54 EUR
 currency: EUR
 price: 19.54

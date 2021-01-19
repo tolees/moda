@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YRD2WMT-es Marca Amazon - find. Vestido Largo Camisero Mujer...'
-tags: tole.es, vestido, -, find.
+tags: [ tole.es, vestido, -, find. ]
 actualPrice: 9.37 EUR
 currency: EUR
 price: 9.37

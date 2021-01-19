@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08C52LPCR-es GMWD Alfombrilla Desinfectante para El Piso Zapatos De...'
-tags: tole.es, zapatos
+tags: [ tole.es, zapatos ]
 actualPrice: 15.47 EUR
 currency: EUR
 price: 15.47

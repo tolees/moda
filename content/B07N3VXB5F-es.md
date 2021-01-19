@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N3VXB5F-es Desigual Postcards Dress Vestido Multicolor Tutti Fruti...'
-tags: tole.es, vestido
+tags: [ tole.es, vestido ]
 actualPrice: 29.98 EUR
 currency: EUR
 price: 29.98

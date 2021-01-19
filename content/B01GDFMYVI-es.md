@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GDFMYVI-es retroUV UV400 – Gafas de sol de diseño clásico Multicolor...'
-tags: tole.es, gafas
+tags: [ tole.es, gafas ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

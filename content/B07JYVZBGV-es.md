@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JYVZBGV-es Tommy Hilfiger Ivan Quilted Bomber Jacket Chaqueta Azul...'
-tags: tole.es, chaqueta
+tags: [ tole.es, chaqueta ]
 actualPrice: 160.95 EUR
 currency: EUR
 price: 160.95

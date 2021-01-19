@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C111JYT-es Fruit of the Loom - Camiseta básica de Manga Corta para...'
-tags: tole.es, camiseta
+tags: [ tole.es, camiseta ]
 actualPrice: 3.7 EUR
 currency: EUR
 price: 3.7

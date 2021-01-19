@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F9XTG4D-es Joma Atenas II Sudadera Hombre Melange XL'
-tags: tole.es, sudadera
+tags: [ tole.es, sudadera ]
 actualPrice: 14.86 EUR
 currency: EUR
 price: 14.86

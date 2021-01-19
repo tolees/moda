@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M1LK4T2-es Carrera 125/S HD 6UB Gafas de sol Negro Shn Black Gd/Grey...'
-tags: tole.es, gafas
+tags: [ tole.es, gafas ]
 actualPrice: 39.9 EUR
 currency: EUR
 price: 39.9

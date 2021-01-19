@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R3DZV3J-es Helly Hansen Lifaloft Insulator Jacket Chaqueta Aislante...'
-tags: tole.es, chaqueta
+tags: [ tole.es, chaqueta ]
 actualPrice: 100.0 EUR
 currency: EUR
 price: 100.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VRD8RSR-es Levi s Levis Men Vintage Stripe YD Boxer 2P Gris Middle...'
-tags: tole.es, boxer
+tags: [ tole.es, boxer ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

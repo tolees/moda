@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YRJ4JPV-es VIFUUR Zapatillas Hombre Mujer de casa Espuma de Memoria...'
-tags: tole.es, zapatos
+tags: [ tole.es, zapatos ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

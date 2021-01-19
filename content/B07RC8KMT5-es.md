@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RC8KMT5-es Columbia Lodge Chaqueta Sudadera para Hombre Negro XL'
-tags: tole.es, chaqueta, sudadera
+tags: [ tole.es, chaqueta, sudadera ]
 actualPrice: 48.18 EUR
 currency: EUR
 price: 48.18

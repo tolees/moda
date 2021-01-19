@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y89JSKK-es edc by Esprit 999cc1b820 Vaqueros Slim Azul Blue Light...'
-tags: tole.es, vaqueros
+tags: [ tole.es, vaqueros ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

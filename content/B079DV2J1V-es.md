@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079DV2J1V-es NOTONEON Collar del Regalo del día de la Madre Plata del...'
-tags: tole.es, collar
+tags: [ tole.es, collar ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

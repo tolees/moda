@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XLPBYXV-es Geographical Norway Sudadera Mujer GYMCLASS B Rosa Claro S'
-tags: tole.es, sudadera
+tags: [ tole.es, sudadera ]
 actualPrice: 30.0 EUR
 currency: EUR
 price: 30.0

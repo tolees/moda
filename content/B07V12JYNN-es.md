@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V12JYNN-es Women s Secret Glitter Multilicense VR All I Want PJ...'
-tags: tole.es, pijama
+tags: [ tole.es, pijama ]
 actualPrice: 16.87 EUR
 currency: EUR
 price: 16.87

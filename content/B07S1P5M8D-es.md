@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S1P5M8D-es Levi s 511 Slim Fit Vaqueros Gris Cat Mask Cool 4110 32W /...'
-tags: tole.es, vaqueros
+tags: [ tole.es, vaqueros ]
 actualPrice: 36.44 EUR
 currency: EUR
 price: 36.44

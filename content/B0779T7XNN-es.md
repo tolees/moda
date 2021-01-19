@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0779T7XNN-es Marca Amazon - AURIQUE Sudadera para Yoga Mujer Verde Sea...'
-tags: tole.es, aurique, sudadera
+tags: [ tole.es, aurique, sudadera ]
 actualPrice: 7.2 EUR
 currency: EUR
 price: 7.2

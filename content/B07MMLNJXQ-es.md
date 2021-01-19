@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MMLNJXQ-es Napapijri BAUNT FZH Sudadera Azul BLU Marine 176 S para...'
-tags: tole.es, sudadera
+tags: [ tole.es, sudadera ]
 actualPrice: 51.67 EUR
 currency: EUR
 price: 51.67

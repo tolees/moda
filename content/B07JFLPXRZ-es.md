@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JFLPXRZ-es Pepe Jeans Maria Pl203428 Vaqueros evasé Archive Medium...'
-tags: tole.es, vaqueros
+tags: [ tole.es, vaqueros ]
 actualPrice: 24.31 EUR
 currency: EUR
 price: 24.31

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076ZPZB8V-es Clarks Atticus Lace Zapatos de Cordones Derby para Hombre...'
-tags: tole.es, zapatos
+tags: [ tole.es, zapatos ]
 actualPrice: 63.71 EUR
 currency: EUR
 price: 63.71

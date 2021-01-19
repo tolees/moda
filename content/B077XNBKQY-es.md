@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077XNBKQY-es Under Armour Rival Fleece Po Hoodie Sudadera con Capucha...'
-tags: tole.es, sudadera
+tags: [ tole.es, sudadera ]
 actualPrice: 35.9 EUR
 currency: EUR
 price: 35.9

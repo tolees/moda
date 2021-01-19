@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01B80RN8C-es Helly Hansen Rigging Abrigo Hombre Azul Navy L'
-tags: tole.es, abrigo
+tags: [ tole.es, abrigo ]
 actualPrice: 175.0 EUR
 currency: EUR
 price: 175.0

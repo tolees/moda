@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PT8VGHB-es Under Armour UA Knockout Tank Camiseta de Tirantes...'
-tags: tole.es, camiseta
+tags: [ tole.es, camiseta ]
 actualPrice: 16.01 EUR
 currency: EUR
 price: 16.01

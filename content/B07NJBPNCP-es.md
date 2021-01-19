@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NJBPNCP-es Springfield 4.2.T.Bimateria.Coraz.Ban Camiseta Multicolor...'
-tags: tole.es, camiseta
+tags: [ tole.es, camiseta ]
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VC9WXN1-es JACK & JONES Jorhardy Light Puffer Chaqueta Rojo Scarlet...'
-tags: tole.es, chaqueta
+tags: [ tole.es, chaqueta ]
 actualPrice: 19.26 EUR
 currency: EUR
 price: 19.26

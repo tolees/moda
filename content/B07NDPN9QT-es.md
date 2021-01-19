@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDPN9QT-es G-STAR RAW Citishield Round Neck Sudadera Azul Dk Aged 89...'
-tags: tole.es, sudadera
+tags: [ tole.es, sudadera ]
 actualPrice: 35.7 EUR
 currency: EUR
 price: 35.7

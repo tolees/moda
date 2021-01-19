@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QZTR7VG-es Under Armour Qualifier Storm Run Chaqueta Hombre Gris SM'
-tags: tole.es, chaqueta
+tags: [ tole.es, chaqueta ]
 actualPrice: 47.65 EUR
 currency: EUR
 price: 47.65

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KF4SQL3-es Levi s 311 Shaping Skinny Vaqueros Paris Fade 29W / 30L...'
-tags: tole.es, vaqueros
+tags: [ tole.es, vaqueros ]
 actualPrice: 59.4 EUR
 currency: EUR
 price: 59.4

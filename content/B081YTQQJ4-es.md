@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081YTQQJ4-es Jack & Jones Jorpex Sweat Hood Sudadera con Capucha Flan M...'
-tags: tole.es, sudadera
+tags: [ tole.es, sudadera ]
 actualPrice: 10.68 EUR
 currency: EUR
 price: 10.68

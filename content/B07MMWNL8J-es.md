@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MMWNL8J-es Wrangler Skinny Jeans Vaqueros Azul Dark Indigo X1e 30W /...'
-tags: tole.es, vaqueros
+tags: [ tole.es, vaqueros ]
 actualPrice: 57.69 EUR
 currency: EUR
 price: 57.69

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V9JL6KC-es HCFKJ Cinturones para Vestidos de Fiesta Moda Rhinestone...'
-tags: tole.es, moda, vestido
+tags: [ tole.es, moda, vestido ]
 actualPrice: 0.99 EUR
 currency: EUR
 price: 0.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NTWSLPW-es Calvin Klein Chest Institutional Slim SS tee Camiseta Gris...'
-tags: tole.es, camiseta
+tags: [ tole.es, camiseta ]
 actualPrice: 23.15 EUR
 currency: EUR
 price: 23.15

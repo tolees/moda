@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MRYUN4G-es Columbia Heather Canyon Chaqueta para Mujer Negro S'
-tags: tole.es, chaqueta
+tags: [ tole.es, chaqueta ]
 actualPrice: 34.68 EUR
 currency: EUR
 price: 34.68

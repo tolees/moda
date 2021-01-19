@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076JKXCQM-es Hollywood Star - Camiseta de Manga Larga Lisa con Cuello...'
-tags: tole.es, camiseta
+tags: [ tole.es, camiseta ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

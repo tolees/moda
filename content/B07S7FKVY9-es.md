@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S7FKVY9-es Marca Amazon - find. Top Cruzado de Satén Mujer Multicolor...'
-tags: tole.es, -, find.
+tags: [ tole.es, -, find. ]
 actualPrice: 3.72 EUR
 currency: EUR
 price: 3.72

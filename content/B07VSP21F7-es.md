@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VSP21F7-es PORPEE Gafas de Sol Hombre Mujer Polarizadas Súper Ligero...'
-tags: tole.es, gafas
+tags: [ tole.es, gafas ]
 actualPrice: 10.59 EUR
 currency: EUR
 price: 10.59

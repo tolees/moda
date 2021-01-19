@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TWNMBDY-es Wrangler Flare Vaqueros evasé Azul Holiday 12y W28/L34...'
-tags: tole.es, vaqueros
+tags: [ tole.es, vaqueros ]
 actualPrice: 18.24 EUR
 currency: EUR
 price: 18.24

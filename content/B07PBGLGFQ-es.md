@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PBGLGFQ-es Marca Amazon - find. Vestido Estampado con Cinturón...'
-tags: tole.es, vestido, -, find.
+tags: [ tole.es, vestido, -, find. ]
 actualPrice: 8.48 EUR
 currency: EUR
 price: 8.48

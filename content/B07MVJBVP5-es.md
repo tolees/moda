@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MVJBVP5-es Kipling Izellah Bolso con Bandolera para Mujer Morado Dark...'
-tags: tole.es, bolso
+tags: [ tole.es, bolso ]
 actualPrice: 37.5 EUR
 currency: EUR
 price: 37.5

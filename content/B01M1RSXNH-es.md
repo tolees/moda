@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M1RSXNH-es Trango Ganin Ft Chaqueta Mujer Verde 6G0 -Verde Lima L'
-tags: tole.es, chaqueta
+tags: [ tole.es, chaqueta ]
 actualPrice: 124.99 EUR
 currency: EUR
 price: 124.99

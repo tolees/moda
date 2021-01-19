@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00JR1YS1A-es Timberland Euro Rock Hiker Botas Chukka para Hombre Azul...'
-tags: tole.es, timberland
+tags: [ tole.es, timberland ]
 actualPrice: 97.83 EUR
 currency: EUR
 price: 97.83

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D9FSCHX-es Levi s 501 Original Fit Vaqueros Sponge St 38W / 34L para...'
-tags: tole.es, vaqueros
+tags: [ tole.es, vaqueros ]
 actualPrice: 69.98 EUR
 currency: EUR
 price: 69.98

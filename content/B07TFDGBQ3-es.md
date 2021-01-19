@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TFDGBQ3-es Quiksilver Brooks 5k Chaqueta Impermeable Hombre Gris...'
-tags: tole.es, chaqueta
+tags: [ tole.es, chaqueta ]
 actualPrice: 77.49 EUR
 currency: EUR
 price: 77.49

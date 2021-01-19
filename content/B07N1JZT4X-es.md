@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N1JZT4X-es Clarks Step Explorhi Botines para Mujer Azul Navy Navy...'
-tags: tole.es, botines
+tags: [ tole.es, botines ]
 actualPrice: 31.26 EUR
 currency: EUR
 price: 31.26

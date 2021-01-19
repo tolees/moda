@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0746J3ZBQ-es Vbiger Trineos de Snowboard Moto Ciclismo Guantes de...'
-tags: tole.es, guantes
+tags: [ tole.es, guantes ]
 actualPrice: 16.95 EUR
 currency: EUR
 price: 16.95

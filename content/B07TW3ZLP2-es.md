@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TW3ZLP2-es Zapatos de Seguridad para Hombre con Puntera de Acero...'
-tags: tole.es, zapatos
+tags: [ tole.es, zapatos ]
 actualPrice: 43.99 EUR
 currency: EUR
 price: 43.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081Z6BP8S-es Disfraz Elsa Frozen Niñas con Capa Princesa Ana Vestido...'
-tags: tole.es, vestido
+tags: [ tole.es, vestido ]
 actualPrice: 10.57 EUR
 currency: EUR
 price: 10.57

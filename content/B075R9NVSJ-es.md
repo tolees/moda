@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075R9NVSJ-es Vero Moda Vmava Plain SS Top Ga Noos Camiseta Gris Asphalt...'
-tags: tole.es, camiseta, moda
+tags: [ tole.es, camiseta, moda ]
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49

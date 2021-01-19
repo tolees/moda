@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K6XK1XW-es Levi s 502 Regular Taper Vaqueros Gris Gobbler ADV 0297...'
-tags: tole.es, vaqueros
+tags: [ tole.es, vaqueros ]
 actualPrice: 59.49 EUR
 currency: EUR
 price: 59.49

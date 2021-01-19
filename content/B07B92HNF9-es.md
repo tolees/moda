@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B92HNF9-es Pepe Jeans Martin Gafas de sol Negro Black 52 para Hombre'
-tags: tole.es, gafas
+tags: [ tole.es, gafas ]
 actualPrice: 28.93 EUR
 currency: EUR
 price: 28.93

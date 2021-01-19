@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MR16RF9-es Calvin Klein Jeans Sonnenbrille Ckj510S 0 Gafas de sol...'
-tags: tole.es, gafas
+tags: [ tole.es, gafas ]
 actualPrice: 25.06 EUR
 currency: EUR
 price: 25.06

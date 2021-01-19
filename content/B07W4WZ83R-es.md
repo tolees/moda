@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W4WZ83R-es Springfield Brocha-c/70 Camiseta Rosa Pink 70 L Tamaño del...'
-tags: tole.es, camiseta
+tags: [ tole.es, camiseta ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

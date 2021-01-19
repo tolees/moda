@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YLWMHZV-es VERTBAUDET Camiseta de Cuello Alto fantasía bebé niño Azul...'
-tags: tole.es, camiseta
+tags: [ tole.es, camiseta ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

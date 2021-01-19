@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QD6PJ2C-es PUMA Reactive Reversible Jacket Chaqueta De Entrenamiento...'
-tags: tole.es, chaqueta
+tags: [ tole.es, chaqueta ]
 actualPrice: 40.5 EUR
 currency: EUR
 price: 40.5

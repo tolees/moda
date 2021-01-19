@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KWPWP5K-es Bolsa de Deporte Hombre Bolsas Gimnasio Mujer de Grande...'
-tags: tole.es, zapatos
+tags: [ tole.es, zapatos ]
 actualPrice: 29.86 EUR
 currency: EUR
 price: 29.86

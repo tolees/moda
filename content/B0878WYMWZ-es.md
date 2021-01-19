@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0878WYMWZ-es Odetina Zapatos de tacón alto sólido Mary Janes con correa...'
-tags: tole.es, zapatos
+tags: [ tole.es, zapatos ]
 actualPrice: 20.14 EUR
 currency: EUR
 price: 20.14

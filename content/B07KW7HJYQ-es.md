@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KW7HJYQ-es Sisley Jacket Chaqueta Mujer Negro Black 100 40 Talla...'
-tags: tole.es, chaqueta
+tags: [ tole.es, chaqueta ]
 actualPrice: 14.1 EUR
 currency: EUR
 price: 14.1

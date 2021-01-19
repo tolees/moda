@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N39ZTBX-es Desigual Shirt Frida Camisa Blanco Blanco 1000 M para Mujer'
-tags: tole.es, camisa
+tags: [ tole.es, camisa ]
 actualPrice: 44.31 EUR
 currency: EUR
 price: 44.31

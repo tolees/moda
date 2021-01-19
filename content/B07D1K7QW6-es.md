@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D1K7QW6-es Red Wagon Velvet Pleated Falda para Niñas Azul Teal 134...'
-tags: tole.es, falda
+tags: [ tole.es, falda ]
 actualPrice: 8.5 EUR
 currency: EUR
 price: 8.5

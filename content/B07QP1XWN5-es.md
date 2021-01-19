@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QP1XWN5-es Marca Amazon - IRIS & LILLY Pijama de Modal Mujer Rojo...'
-tags: tole.es, pijama, iris, &, lilly
+tags: [ tole.es, pijama, iris, &, lilly ]
 actualPrice: 13.41 EUR
 currency: EUR
 price: 13.41

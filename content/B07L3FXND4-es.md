@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L3FXND4-es Tommy Hilfiger Colorful Rope Flat Sandal Chanclas para...'
-tags: tole.es, chanclas
+tags: [ tole.es, chanclas ]
 actualPrice: 69.93 EUR
 currency: EUR
 price: 69.93

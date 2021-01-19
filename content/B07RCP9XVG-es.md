@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RCP9XVG-es Columbia Columbia Lodge Chaqueta sudadera Hombre...'
-tags: tole.es, chaqueta, sudadera
+tags: [ tole.es, chaqueta, sudadera ]
 actualPrice: 59.0 EUR
 currency: EUR
 price: 59.0

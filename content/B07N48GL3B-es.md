@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N48GL3B-es United Colors of Benetton College Man Camisa Casual...'
-tags: tole.es, camisa
+tags: [ tole.es, camisa ]
 actualPrice: 10.01 EUR
 currency: EUR
 price: 10.01

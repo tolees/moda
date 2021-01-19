@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076HQ1VGT-es Adidas CORE18 SW Top Sudadera Hombre Gris Gris/Negro L'
-tags: tole.es, sudadera
+tags: [ tole.es, sudadera ]
 actualPrice: 24.95 EUR
 currency: EUR
 price: 24.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B2RLW2L-es VR Gafas de Realidad Virtual Gafas vr Con Control Remoto...'
-tags: tole.es, gafas
+tags: [ tole.es, gafas ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

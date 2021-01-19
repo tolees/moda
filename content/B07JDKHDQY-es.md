@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JDKHDQY-es Levi s Barstow Western Camisa Vaquera Azul Red Cast Rinse...'
-tags: tole.es, camisa
+tags: [ tole.es, camisa ]
 actualPrice: 10.4 EUR
 currency: EUR
 price: 10.4

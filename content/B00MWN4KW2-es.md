@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00MWN4KW2-es Uvex Sportstyle 802 Vario Gafas de Ciclismo Unisex Adulto...'
-tags: tole.es, gafas
+tags: [ tole.es, gafas ]
 actualPrice: 71.13 EUR
 currency: EUR
 price: 71.13

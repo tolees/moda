@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JG7TP8D-es Pepe Jeans Shirley Pl401682 Chaqueta Multi Bleu 0aa...'
-tags: tole.es, chaqueta
+tags: [ tole.es, chaqueta ]
 actualPrice: 82.5 EUR
 currency: EUR
 price: 82.5

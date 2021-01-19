@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BF5QNHL-es Camisas Hombros Descubiertos Mujer Casual Colores Lisos T...'
-tags: tole.es, camiseta, moda
+tags: [ tole.es, camiseta, moda ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073ZS8D7Q-es GANT The Oxford Shirt Reg BD Camisa Rojo Light Pink 662...'
-tags: tole.es, camisa
+tags: [ tole.es, camisa ]
 actualPrice: 67.45 EUR
 currency: EUR
 price: 67.45

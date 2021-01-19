@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PSJGDYD-es Kipling New Hiphurray Bolso Saco para Mujer Azul Stone...'
-tags: tole.es, bolso
+tags: [ tole.es, bolso ]
 actualPrice: 17.5 EUR
 currency: EUR
 price: 17.5

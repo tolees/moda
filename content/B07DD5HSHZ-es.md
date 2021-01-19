@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DD5HSHZ-es Odlo Hoody Midlayer 1/2 Zip Steam Sudadera Mujer Gris...'
-tags: tole.es, sudadera
+tags: [ tole.es, sudadera ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

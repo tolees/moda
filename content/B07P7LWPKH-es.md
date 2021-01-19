@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P7LWPKH-es Joma Open II Falda Señora Mujer Negro XL'
-tags: tole.es, falda
+tags: [ tole.es, falda ]
 actualPrice: 16.87 EUR
 currency: EUR
 price: 16.87

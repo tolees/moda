@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QVN5XT8-es Under Armour Vanish Seamless Nov 1 Camisa de Manga Larga...'
-tags: tole.es, camisa
+tags: [ tole.es, camisa ]
 actualPrice: 12.39 EUR
 currency: EUR
 price: 12.39

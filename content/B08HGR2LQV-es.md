@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08HGR2LQV-es catmoew Mujer Sudadera Tops Chaqueta Suéter Jersey Mujer...'
-tags: tole.es, chaqueta, jersey, sudadera
+tags: [ tole.es, chaqueta, jersey, sudadera ]
 actualPrice: 12.95 EUR
 currency: EUR
 price: 12.95

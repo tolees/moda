@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RNR73ZT-es JACK & JONES Jjimike Jjoriginal Am 816 Vaqueros Relaxed...'
-tags: tole.es, vaqueros
+tags: [ tole.es, vaqueros ]
 actualPrice: 18.3 EUR
 currency: EUR
 price: 18.3

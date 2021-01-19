@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0085SFY9G-es Jack & Jones Jones - Camiseta de manga corta con cuello...'
-tags: tole.es, camiseta
+tags: [ tole.es, camiseta ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

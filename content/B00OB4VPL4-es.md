@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00OB4VPL4-es Cofra 40-JV028000-39 - Calzado de Seguridad Nuevo Santo...'
-tags: tole.es, zapatos
+tags: [ tole.es, zapatos ]
 actualPrice: 16.47 EUR
 currency: EUR
 price: 16.47

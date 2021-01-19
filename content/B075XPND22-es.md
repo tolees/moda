@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075XPND22-es Amaza Disfraz Años 80 Mujer Accesorios Guantes...'
-tags: tole.es, guantes
+tags: [ tole.es, guantes ]
 actualPrice: 9.98 EUR
 currency: EUR
 price: 9.98

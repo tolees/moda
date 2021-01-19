@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XHB2JQ4-es Helly Hansen Hombre Seven J Chaqueta para Lluvia Not...'
-tags: tole.es, chaqueta
+tags: [ tole.es, chaqueta ]
 actualPrice: 44.48 EUR
 currency: EUR
 price: 44.48

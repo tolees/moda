@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BJJ1JQB-es G-STAR RAW ARC 3D Mid Waist Skinny Vaqueros Azul dk Aged...'
-tags: tole.es, vaqueros
+tags: [ tole.es, vaqueros ]
 actualPrice: 27.49 EUR
 currency: EUR
 price: 27.49

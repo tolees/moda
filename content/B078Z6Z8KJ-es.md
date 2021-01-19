@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078Z6Z8KJ-es GRITION Sandalias Hombre Verano Punta Cerrada Sandalias de...'
-tags: tole.es, sandalias
+tags: [ tole.es, sandalias ]
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

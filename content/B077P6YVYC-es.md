@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077P6YVYC-es Lee Elly Vaqueros Azul One Wash Ha45 27W / 35L para Mujer'
-tags: tole.es, vaqueros
+tags: [ tole.es, vaqueros ]
 actualPrice: 22.25 EUR
 currency: EUR
 price: 22.25

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J6BH65R-es Hombres Bombardero Vuelo Piloto Chaqueta de Cuero Manga...'
-tags: tole.es, chaqueta
+tags: [ tole.es, chaqueta ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

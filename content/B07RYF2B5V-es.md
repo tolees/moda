@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RYF2B5V-es Redskins Dynamite Chaqueta Verde Kaki Dark Blouson 14 años...'
-tags: tole.es, chaqueta
+tags: [ tole.es, chaqueta ]
 actualPrice: 26.61 EUR
 currency: EUR
 price: 26.61

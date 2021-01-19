@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00C1TTWGQ-es Polaroid P8346 RC 0BM Gafas de sol Marrón Havana/Green...'
-tags: tole.es, gafas
+tags: [ tole.es, gafas ]
 actualPrice: 27.25 EUR
 currency: EUR
 price: 27.25

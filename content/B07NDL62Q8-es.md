@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDL62Q8-es G-STAR RAW Remi Boyfriend Blusa Rosa Dk Tea Rose A827...'
-tags: tole.es, blusa
+tags: [ tole.es, blusa ]
 actualPrice: 24.47 EUR
 currency: EUR
 price: 24.47

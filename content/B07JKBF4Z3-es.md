@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JKBF4Z3-es PET MAGASIN Transportín de Mascotas Plegable – Bolsa de...'
-tags: tole.es, bolso
+tags: [ tole.es, bolso ]
 actualPrice: 14.39 EUR
 currency: EUR
 price: 14.39

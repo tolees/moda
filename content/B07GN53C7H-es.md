@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GN53C7H-es Uten Limpiador Ultrasónico Profesional Acero Inoxidable...'
-tags: tole.es, gafas
+tags: [ tole.es, gafas ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

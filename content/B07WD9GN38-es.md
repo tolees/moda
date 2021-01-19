@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WD9GN38-es Bragas Mujer sin Costuras Invisible Señoras Braguitas Low...'
-tags: tole.es, bikini
+tags: [ tole.es, bikini ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MRVW1CR-es G-Star Eyben Slim R T Wmn S/s Camiseta Azul Sartho Blue...'
-tags: tole.es, camiseta
+tags: [ tole.es, camiseta ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

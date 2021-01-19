@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z9P79CR-es O NEILL LM 3Ple T-Shirt Camiseta Manga Corta Hombre Gris...'
-tags: tole.es, camiseta
+tags: [ tole.es, camiseta ]
 actualPrice: 7.55 EUR
 currency: EUR
 price: 7.55

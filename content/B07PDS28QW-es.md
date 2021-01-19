@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PDS28QW-es Geox U TAIKI B ABX A Zapatillas Altas para Hombre Marrón...'
-tags: tole.es, geox
+tags: [ tole.es, geox ]
 actualPrice: 33.35 EUR
 currency: EUR
 price: 33.35

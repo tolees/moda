@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YBHBDM9-es Vans Colorblock tee Camiseta Multicolor Black/White Y28...'
-tags: tole.es, camiseta
+tags: [ tole.es, camiseta ]
 actualPrice: 14.49 EUR
 currency: EUR
 price: 14.49

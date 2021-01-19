@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFZY5V7-es Geox D Felicity NP ABX C Botas Chelsea para Mujer Marrón...'
-tags: tole.es, geox
+tags: [ tole.es, geox ]
 actualPrice: 51.9 EUR
 currency: EUR
 price: 51.9

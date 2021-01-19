@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NQQXV6F-es Springfield FR Bomber Sudadera Negro Black 1 Medium Tamaño...'
-tags: tole.es, sudadera
+tags: [ tole.es, sudadera ]
 actualPrice: 9.47 EUR
 currency: EUR
 price: 9.47

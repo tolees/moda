@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005YBQM52-es Lee Brooklyn Straight Hombre Vaqueros Azul Mid Stonewash...'
-tags: tole.es, vaqueros
+tags: [ tole.es, vaqueros ]
 actualPrice: 45.89 EUR
 currency: EUR
 price: 45.89

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00Q7EV71E-es Columbia Peakfreak Venture Zapatos impermeables para...'
-tags: tole.es, zapatos
+tags: [ tole.es, zapatos ]
 actualPrice: 86.66 EUR
 currency: EUR
 price: 86.66
@@ -26,13 +26,13 @@ Está [Columbia Peakfreak Venture Zapatos impermeables para hombre   Negro Black
 
 ℹ️:
 
-- Tipo de tacón: Plano
-- Altura del tacón: 1 centímetros
-- Cierre: Cordones
-- Composición: Cuero/Malla
 - Revestimiento: Sintético
 - Material de la suela: Caucho
-- Anchura del zapato: Normal
+- Cierre: Cordones
 - Material exterior: Cuero
+- Anchura del zapato: Normal
+- Altura del tacón: 1 centímetros
+- Tipo de tacón: Plano
+- Composición: Cuero/Malla
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00Q7EV71E/?tag=tolees-21)

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M8L17WN-es Lee Sherpa Jacket Chaqueta Vaquera Verde Forest Night 96...'
-tags: tole.es, chaqueta
+tags: [ tole.es, chaqueta ]
 actualPrice: 57.95 EUR
 currency: EUR
 price: 57.95

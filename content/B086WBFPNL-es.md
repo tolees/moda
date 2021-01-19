@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086WBFPNL-es MO JOC - Zapatos de tacón para mujer color Negro talla 41 EU'
-tags: tole.es, zapatos
+tags: [ tole.es, zapatos ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SQGP9ZK-es Geox U Wells C Zapatillas para Hombre Gris Lt Grey C1010...'
-tags: tole.es, geox
+tags: [ tole.es, geox ]
 actualPrice: 69.9 EUR
 currency: EUR
 price: 69.9

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077Y8KL2L-es Sylvie Flirty Swimwear Bakela Parte de Arriba de Bikini...'
-tags: tole.es, bikini
+tags: [ tole.es, bikini ]
 actualPrice: 22.96 EUR
 currency: EUR
 price: 22.96

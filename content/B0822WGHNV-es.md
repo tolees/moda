@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0822WGHNV-es OwlFay Disfraz Elsa Frozen Niñas Princesa Ana Vestido...'
-tags: tole.es, vestido
+tags: [ tole.es, vestido ]
 actualPrice: 9.15 EUR
 currency: EUR
 price: 9.15

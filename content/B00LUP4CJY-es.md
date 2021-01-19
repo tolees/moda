@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00LUP4CJY-es Crocs Freesail Clog Zuecos para Mujer Negro Black 41/42 EU'
-tags: tole.es, zuecos
+tags: [ tole.es, zuecos ]
 actualPrice: 23.74 EUR
 currency: EUR
 price: 23.74

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NXZZS82-es Pierre Cardin Antibes Raw Denim Vaqueros Slim Blau Blau 53...'
-tags: tole.es, vaqueros
+tags: [ tole.es, vaqueros ]
 actualPrice: 53.11 EUR
 currency: EUR
 price: 53.11

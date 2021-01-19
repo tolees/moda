@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077Z5QHPD-es HIKARO Sudadera con Print Hombre Negro Black 54 Talla del...'
-tags: tole.es, sudadera
+tags: [ tole.es, sudadera ]
 actualPrice: 8.09 EUR
 currency: EUR
 price: 8.09

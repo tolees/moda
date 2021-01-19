@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N18WY4D-es Lee Button Down Camisa Azul Beyond Blue Medium para Hombre'
-tags: tole.es, camisa
+tags: [ tole.es, camisa ]
 actualPrice: 25.82 EUR
 currency: EUR
 price: 25.82

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00J5X0MWE-es uhlsport Match Chaqueta De Entrenamiento Hombre...'
-tags: tole.es, chaqueta
+tags: [ tole.es, chaqueta ]
 actualPrice: 14.49 EUR
 currency: EUR
 price: 14.49

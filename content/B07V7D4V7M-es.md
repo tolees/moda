@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V7D4V7M-es BOSS Biado r Camisa Azul Bright Blue 436 Large para Hombre'
-tags: tole.es, camisa
+tags: [ tole.es, camisa ]
 actualPrice: 60.5 EUR
 currency: EUR
 price: 60.5

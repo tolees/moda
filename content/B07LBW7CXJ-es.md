@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LBW7CXJ-es Tommy Hilfiger Bandeau-RP Parte de Arriba de Bikini Negro...'
-tags: tole.es, bikini
+tags: [ tole.es, bikini ]
 actualPrice: 27.93 EUR
 currency: EUR
 price: 27.93

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NGTTM3N-es adidas Bolso Weekend 1.9 2019 Gris Adultos unisex...'
-tags: tole.es, bolso
+tags: [ tole.es, bolso ]
 actualPrice: 29.45 EUR
 currency: EUR
 price: 29.45

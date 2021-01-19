@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079V4ZDPB-es Wrangler Skinny Vaqueros Skinny Mujer Azul Tainted Blue...'
-tags: tole.es, vaqueros
+tags: [ tole.es, vaqueros ]
 actualPrice: 31.71 EUR
 currency: EUR
 price: 31.71

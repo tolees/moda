@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MFM2K8P-es Clarks Bampton Lace Zapatos de Cordones Brogue para Hombre...'
-tags: tole.es, zapatos
+tags: [ tole.es, zapatos ]
 actualPrice: 18.53 EUR
 currency: EUR
 price: 18.53

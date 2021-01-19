@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XW85TSB-es Amazon Essentials 6-Pack Crewneck Undershirts Camisa...'
-tags: tole.es, camisa
+tags: [ tole.es, camisa ]
 actualPrice: 15.12 EUR
 currency: EUR
 price: 15.12

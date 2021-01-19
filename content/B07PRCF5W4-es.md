@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PRCF5W4-es Kipling New S Bolso Shopper para Mujer Verde Seagrass...'
-tags: tole.es, bolso
+tags: [ tole.es, bolso ]
 actualPrice: 28.91 EUR
 currency: EUR
 price: 28.91

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B9RZHWD-es Neosens S970 Restored Skin TINTILLA Sandalias con Punta...'
-tags: tole.es, sandalias
+tags: [ tole.es, sandalias ]
 actualPrice: 102.1 EUR
 currency: EUR
 price: 102.1

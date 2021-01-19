@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0734RJY2W-es find. Zapatos de Charol y Empeine Alto para Mujer Rojo Red...'
-tags: tole.es, zapatos
+tags: [ tole.es, zapatos ]
 actualPrice: 6.92 EUR
 currency: EUR
 price: 6.92

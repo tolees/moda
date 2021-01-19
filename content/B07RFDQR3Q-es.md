@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RFDQR3Q-es Tommy Hilfiger Corp Bar tee Camiseta Deporte Azul Blue Dw5...'
-tags: tole.es, camiseta
+tags: [ tole.es, camiseta ]
 actualPrice: 21.95 EUR
 currency: EUR
 price: 21.95

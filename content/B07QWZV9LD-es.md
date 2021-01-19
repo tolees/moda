@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QWZV9LD-es Under Armour Storm Full Zip Chaqueta Hombre Negro SM'
-tags: tole.es, chaqueta
+tags: [ tole.es, chaqueta ]
 actualPrice: 36.24 EUR
 currency: EUR
 price: 36.24

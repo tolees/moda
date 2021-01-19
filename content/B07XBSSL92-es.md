@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XBSSL92-es PUMA Nu-Tility FZ Hoody Sudadera Mujer Black M'
-tags: tole.es, sudadera
+tags: [ tole.es, sudadera ]
 actualPrice: 26.01 EUR
 currency: EUR
 price: 26.01

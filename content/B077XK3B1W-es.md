@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077XK3B1W-es Under Armour TAC Crew Base Camiseta Hombre Negro...'
-tags: tole.es, camiseta
+tags: [ tole.es, camiseta ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

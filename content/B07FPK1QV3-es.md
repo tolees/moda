@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FPK1QV3-es The North Face M Tball Triclim Jkt Chaqueta Thermoball...'
-tags: tole.es, chaqueta
+tags: [ tole.es, chaqueta ]
 actualPrice: 175.0 EUR
 currency: EUR
 price: 175.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TSFD7CR-es Wrangler Vaqueros slim Azul Light Charm 17u W31/L34 Talla...'
-tags: tole.es, vaqueros
+tags: [ tole.es, vaqueros ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

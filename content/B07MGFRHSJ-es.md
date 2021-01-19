@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MGFRHSJ-es Napapijri Rainforest Winter 1 Chaqueta Naranja Orangeade...'
-tags: tole.es, chaqueta
+tags: [ tole.es, chaqueta ]
 actualPrice: 64.04 EUR
 currency: EUR
 price: 64.04

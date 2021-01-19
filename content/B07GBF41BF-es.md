@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GBF41BF-es Nike 937 - Guantes de Fitness para Hombre Color Gris...'
-tags: tole.es, guantes
+tags: [ tole.es, guantes ]
 actualPrice: 15 EUR
 currency: EUR
 price: 15

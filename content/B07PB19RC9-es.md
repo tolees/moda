@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PB19RC9-es gracosy Sandalias Cuero Deportivas para Hombre Verano...'
-tags: tole.es, sandalias
+tags: [ tole.es, sandalias ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

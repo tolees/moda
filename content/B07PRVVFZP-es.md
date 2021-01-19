@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PRVVFZP-es MLMLANT Guantes de Barbacoa Resistentes Al Calor Extremo...'
-tags: tole.es, guantes
+tags: [ tole.es, guantes ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

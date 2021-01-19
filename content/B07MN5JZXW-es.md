@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MN5JZXW-es Wrangler LS 2pkt Flap Shirt Corduroy Camisa Marrón Russet...'
-tags: tole.es, camisa
+tags: [ tole.es, camisa ]
 actualPrice: 37.48 EUR
 currency: EUR
 price: 37.48

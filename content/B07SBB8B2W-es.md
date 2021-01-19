@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SBB8B2W-es Crocs Classic II Flip Chanclas Unisex Adulto Azul Navy 410...'
-tags: tole.es, chanclas
+tags: [ tole.es, chanclas ]
 actualPrice: 11.9 EUR
 currency: EUR
 price: 11.9

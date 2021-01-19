@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B013T6GFE6-es Pijama del increíble Hulk para niños desde 2 a 3 años...'
-tags: tole.es, pijama
+tags: [ tole.es, pijama ]
 actualPrice: 11.49 EUR
 currency: EUR
 price: 11.49

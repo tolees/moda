@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087PBM11J-es Suhctup Funda Compatible con LG Stylo 5 Billetera Carcasa...'
-tags: tole.es, billetera
+tags: [ tole.es, billetera ]
 actualPrice: 10.98 EUR
 currency: EUR
 price: 10.98

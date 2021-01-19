@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WMQ21BD-es find. # Shana-1a-58 Sandalias Abiertas Negro Black 37'
-tags: tole.es, sandalias
+tags: [ tole.es, sandalias ]
 actualPrice: 21.59 EUR
 currency: EUR
 price: 21.59

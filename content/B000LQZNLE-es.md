@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000LQZNLE-es Converse AS HI CAN OPTIC. WHT M7650 - Botines de lona...'
-tags: tole.es, botines
+tags: [ tole.es, botines ]
 actualPrice: 53.28 EUR
 currency: EUR
 price: 53.28

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F2QCCTG-es Helly Hansen Moss Rain Shell Chaqueta Impermeable con...'
-tags: tole.es, chaqueta
+tags: [ tole.es, chaqueta ]
 actualPrice: 51.99 EUR
 currency: EUR
 price: 51.99

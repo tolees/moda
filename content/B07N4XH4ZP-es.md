@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N4XH4ZP-es Tommy Hilfiger Tjw Clean Linear Logo tee Camiseta Purple...'
-tags: tole.es, camiseta
+tags: [ tole.es, camiseta ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

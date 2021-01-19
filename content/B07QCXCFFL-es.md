@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QCXCFFL-es Abravo Mujer Vestido?Bohemio Corto Florales Nacional...'
-tags: tole.es, vestido
+tags: [ tole.es, vestido ]
 actualPrice: 15.89 EUR
 currency: EUR
 price: 15.89

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005RB0Z3O-es Ray-Ban Mod. 4147 Gafas de sol Light Havana 55 para Hombre'
-tags: tole.es, gafas
+tags: [ tole.es, gafas ]
 actualPrice: 95.0 EUR
 currency: EUR
 price: 95.0

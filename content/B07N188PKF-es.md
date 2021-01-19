@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N188PKF-es G-STAR RAW ARC 3D Vaqueros Worker Blue Faded 25W / 34L...'
-tags: tole.es, vaqueros
+tags: [ tole.es, vaqueros ]
 actualPrice: 69.95 EUR
 currency: EUR
 price: 69.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076X5VY9F-es Geox U SAYMORE C Zapatos de Cordones Derby para Hombre...'
-tags: tole.es, geox, zapatos
+tags: [ tole.es, geox, zapatos ]
 actualPrice: 89.95 EUR
 currency: EUR
 price: 89.95

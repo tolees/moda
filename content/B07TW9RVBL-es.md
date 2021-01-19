@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TW9RVBL-es Levi s Graphic tee Camiseta Azul Boxtab SS T2 Dress Blues...'
-tags: tole.es, camiseta
+tags: [ tole.es, camiseta ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076HRH33L-es adidas CV3429 Sudadera con Capucha Unisex Niños Gris...'
-tags: tole.es, sudadera
+tags: [ tole.es, sudadera ]
 actualPrice: 25.98 EUR
 currency: EUR
 price: 25.98

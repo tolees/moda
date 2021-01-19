@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P4P2BTB-es Art 1521 Grass Black/Mainz Zapatos de Cordones para Hombre...'
-tags: tole.es, zapatos
+tags: [ tole.es, zapatos ]
 actualPrice: 17.68 EUR
 currency: EUR
 price: 17.68

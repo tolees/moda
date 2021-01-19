@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WRK1QX4-es New Look Op Patch Pocket Mtj Chaqueta Punto Marfil Off...'
-tags: tole.es, chaqueta
+tags: [ tole.es, chaqueta ]
 actualPrice: 13.0 EUR
 currency: EUR
 price: 13.0

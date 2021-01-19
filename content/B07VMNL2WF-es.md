@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VMNL2WF-es Tommy Hilfiger Tjw Roll Up Sleeve Shirt Camisa de Deporte...'
-tags: tole.es, camisa
+tags: [ tole.es, camisa ]
 actualPrice: 32.5 EUR
 currency: EUR
 price: 32.5

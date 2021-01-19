@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XCZNLR6-es Monedero de Embrague de Paja Bolsa de Noche Mujer Bolsos...'
-tags: tole.es, monedero
+tags: [ tole.es, monedero ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

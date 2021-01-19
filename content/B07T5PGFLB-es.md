@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T5PGFLB-es Timberland Perkins Row 2-Strap Junior Sandalias de Punta...'
-tags: tole.es, sandalias, timberland
+tags: [ tole.es, sandalias, timberland ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

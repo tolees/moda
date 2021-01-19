@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V8WQK86-es Triumph Body Make-up Soft Touch P Ex Sujetador para...'
-tags: tole.es, camiseta
+tags: [ tole.es, camiseta ]
 actualPrice: 21.45 EUR
 currency: EUR
 price: 21.45

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JYPBZNZ-es Tommy Hilfiger TJM Essential Jaspe tee Camiseta Azul Blue...'
-tags: tole.es, camiseta
+tags: [ tole.es, camiseta ]
 actualPrice: 20.95 EUR
 currency: EUR
 price: 20.95

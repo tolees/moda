@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007K8SJ2G-es Arena HYDROSOFT JR Boy HOO Zapatos de Playa y Piscina...'
-tags: tole.es, zapatos
+tags: [ tole.es, zapatos ]
 actualPrice: 10.2 EUR
 currency: EUR
 price: 10.2

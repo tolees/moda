@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZPX9CF-es Pepe Jeans Edward Chaqueta Infinity 985 Medium para Hombre'
-tags: tole.es, chaqueta
+tags: [ tole.es, chaqueta ]
 actualPrice: 75.93 EUR
 currency: EUR
 price: 75.93

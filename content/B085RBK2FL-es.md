@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085RBK2FL-es Gafas Protectoras Gafas Protectoras de Seguridad Gafas...'
-tags: tole.es, gafas
+tags: [ tole.es, gafas ]
 actualPrice: 5.46 EUR
 currency: EUR
 price: 5.46

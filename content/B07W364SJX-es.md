@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W364SJX-es Pepe Jeans West Sir Camiseta Verde Unesafari 734 X-Large...'
-tags: tole.es, camiseta
+tags: [ tole.es, camiseta ]
 actualPrice: 15.25 EUR
 currency: EUR
 price: 15.25

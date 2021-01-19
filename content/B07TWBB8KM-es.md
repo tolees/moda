@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TWBB8KM-es Levi s Vneck Camiseta Multicolor Annalise Stripe Marina...'
-tags: tole.es, camiseta
+tags: [ tole.es, camiseta ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

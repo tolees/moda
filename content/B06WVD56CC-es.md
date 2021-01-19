@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06WVD56CC-es camel active 5-Pocket Madison Vaqueros Straight Azul Raw...'
-tags: tole.es, vaqueros
+tags: [ tole.es, vaqueros ]
 actualPrice: 50.1 EUR
 currency: EUR
 price: 50.1

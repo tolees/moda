@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073RM6GRP-es RED WAGON Vestido Sudadera con Mensaje Niñas Verde Mint 5...'
-tags: tole.es, sudadera, vestido
+tags: [ tole.es, sudadera, vestido ]
 actualPrice: 10.51 EUR
 currency: EUR
 price: 10.51

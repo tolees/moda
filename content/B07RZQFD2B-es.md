@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RZQFD2B-es Lacoste SH8654 - Sudadera Deportiva para Hombre Corte...'
-tags: tole.es, sudadera
+tags: [ tole.es, sudadera ]
 actualPrice: 62.87 EUR
 currency: EUR
 price: 62.87

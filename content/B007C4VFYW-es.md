@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007C4VFYW-es Levi s 501 Original Fit Jeans Vaqueros Azul Marlon 42W /...'
-tags: tole.es, vaqueros
+tags: [ tole.es, vaqueros ]
 actualPrice: 55.99 EUR
 currency: EUR
 price: 55.99

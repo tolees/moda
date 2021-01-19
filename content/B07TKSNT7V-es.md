@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TKSNT7V-es Clarks Laina55 Court Zapatos de Tacón para Mujer Negro...'
-tags: tole.es, zapatos
+tags: [ tole.es, zapatos ]
 actualPrice: 30.96 EUR
 currency: EUR
 price: 30.96

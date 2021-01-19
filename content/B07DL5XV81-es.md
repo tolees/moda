@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DL5XV81-es Columbia 1840661 EVOLUTION VALLEY Pantalón de lluvia...'
-tags: tole.es, pantalón
+tags: [ tole.es, pantalón ]
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

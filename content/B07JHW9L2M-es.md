@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JHW9L2M-es Columbia WAYFINDER Mid Outdry Zapatos de montaña para...'
-tags: tole.es, zapatos
+tags: [ tole.es, zapatos ]
 actualPrice: 41.5 EUR
 currency: EUR
 price: 41.5

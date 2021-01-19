@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H9ZXTD6-es VVA Gafas de sol Hombre Polarizadas Aviador Hombres...'
-tags: tole.es, gafas
+tags: [ tole.es, gafas ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

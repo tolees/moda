@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J5PT84Y-es Marca Amazon - AURIQUE Sujetador Deportivo para...'
-tags: tole.es, aurique
+tags: [ tole.es, aurique ]
 actualPrice: 9.11 EUR
 currency: EUR
 price: 9.11

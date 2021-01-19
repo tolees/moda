@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HH2TQGS-es Mujer Botas de Nieve Zapatos Invierno Impermeables...'
-tags: tole.es, zapatos
+tags: [ tole.es, zapatos ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

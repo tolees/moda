@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S8Y8LFT-es Helly Hansen W HH Logo Hoodie Sudadera con Capucha Mujer...'
-tags: tole.es, sudadera
+tags: [ tole.es, sudadera ]
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

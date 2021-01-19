@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDL6BJ5-es G-STAR RAW Attacc Down Chaqueta Verde Sage 724 X-Small...'
-tags: tole.es, chaqueta
+tags: [ tole.es, chaqueta ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

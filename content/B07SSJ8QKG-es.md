@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SSJ8QKG-es Geox J Sandal Alben Boy D Sandalias con Punta Abierta para...'
-tags: tole.es, geox, sandalias
+tags: [ tole.es, geox, sandalias ]
 actualPrice: 28.8 EUR
 currency: EUR
 price: 28.8

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SS8P68T-es Cardigan Mujer Verano Camisa Blusa Manga Larga Mujer...'
-tags: tole.es, blusa, camisa, chaqueta
+tags: [ tole.es, blusa, camisa, chaqueta ]
 actualPrice: 32.49 EUR
 currency: EUR
 price: 32.49

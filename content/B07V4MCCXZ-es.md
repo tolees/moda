@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V4MCCXZ-es Kipling Presto UP Organizador de Bolso 28 cm 1 Liters Gris...'
-tags: tole.es, bolso
+tags: [ tole.es, bolso ]
 actualPrice: 20.1 EUR
 currency: EUR
 price: 20.1

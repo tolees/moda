@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PS6LZ54-es CARE OF by PUMA Sudadera con capucha de manga larga para...'
-tags: tole.es, sudadera
+tags: [ tole.es, sudadera ]
 actualPrice: 13.69 EUR
 currency: EUR
 price: 13.69

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R3FDWCF-es Marca Amazon - find. Chaleco Acolchado Hombre Negro Black...'
-tags: tole.es, chaleco, -, find.
+tags: [ tole.es, chaleco, -, find. ]
 actualPrice: 11.9 EUR
 currency: EUR
 price: 11.9

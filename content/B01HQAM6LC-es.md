@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HQAM6LC-es Crocs Crocband Zuecos Unisex Adulto Azul Blue/Yellow 41/42 EU'
-tags: tole.es, zuecos
+tags: [ tole.es, zuecos ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

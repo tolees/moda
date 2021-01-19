@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077Y86DJF-es HIKARO Sudadera con Capucha Hombre Azul Aqua 52 Talla del...'
-tags: tole.es, sudadera
+tags: [ tole.es, sudadera ]
 actualPrice: 14.98 EUR
 currency: EUR
 price: 14.98

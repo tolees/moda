@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07STKZS8N-es Geox B FLEXYPER Girl B Zapatillas para Niñas Rosa Fuchsia...'
-tags: tole.es, geox
+tags: [ tole.es, geox ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

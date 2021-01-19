@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DHYZFVB-es LvShui Camiseta BTS Unisex Manga Corta Cuello Redondo...'
-tags: tole.es, camiseta
+tags: [ tole.es, camiseta ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

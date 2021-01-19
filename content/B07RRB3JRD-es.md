@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RRB3JRD-es Lee Logo Sweat Sudadera Negro Black Black 02 Medium para...'
-tags: tole.es, sudadera
+tags: [ tole.es, sudadera ]
 actualPrice: 14.2 EUR
 currency: EUR
 price: 14.2

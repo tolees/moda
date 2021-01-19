@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077VXQB2C-es Zoggs Ultima Air Titanium Gafas de natación Unisex-Adult...'
-tags: tole.es, gafas
+tags: [ tole.es, gafas ]
 actualPrice: 22.56 EUR
 currency: EUR
 price: 22.56

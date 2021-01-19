@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M8W7FG2-es Wrangler Sherpa Jacket Corduroy Chaqueta Marrón Russet...'
-tags: tole.es, chaqueta
+tags: [ tole.es, chaqueta ]
 actualPrice: 77.97 EUR
 currency: EUR
 price: 77.97

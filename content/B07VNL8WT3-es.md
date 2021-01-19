@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VNL8WT3-es Only Onlcarol S/s Glitter V-Neck Top Jrs Camiseta sin...'
-tags: tole.es, camiseta
+tags: [ tole.es, camiseta ]
 actualPrice: 7.35 EUR
 currency: EUR
 price: 7.35

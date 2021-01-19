@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FHB1KT4-es Timberland Newport Bay Zapatillas Bajas para Hombre Azul...'
-tags: tole.es, timberland
+tags: [ tole.es, timberland ]
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

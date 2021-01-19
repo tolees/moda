@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07771HWBW-es Tommy Hilfiger Regular C Camiseta con Cuello Redondo Azul...'
-tags: tole.es, camiseta
+tags: [ tole.es, camiseta ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

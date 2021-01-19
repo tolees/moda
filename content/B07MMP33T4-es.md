@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MMP33T4-es Under Armour Rival Fleece Sportstyle Logo Jogger Pantalón...'
-tags: tole.es, pantalón
+tags: [ tole.es, pantalón ]
 actualPrice: 18.81 EUR
 currency: EUR
 price: 18.81

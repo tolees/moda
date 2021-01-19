@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SRK9RXJ-es Geox D NYDAME E Zapatillas para Mujer Gris Lt Grey C1010...'
-tags: tole.es, geox
+tags: [ tole.es, geox ]
 actualPrice: 69.95 EUR
 currency: EUR
 price: 69.95

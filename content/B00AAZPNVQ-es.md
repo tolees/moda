@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00AAZPNVQ-es MUSTELA - MUSTELA BOLSO PRIMEROS PRODUCT'
-tags: tole.es, bolso
+tags: [ tole.es, bolso ]
 actualPrice: 4.36 EUR
 currency: EUR
 price: 4.36

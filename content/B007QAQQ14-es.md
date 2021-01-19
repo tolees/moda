@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007QAQQ14-es Cressi Portofino Chanclas Flip Flops Hombre Azul/Blanco...'
-tags: tole.es, chanclas
+tags: [ tole.es, chanclas ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

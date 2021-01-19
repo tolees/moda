@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ZPMB5V6-es LEE Daren Worn Grayly - Vaqueros para hombre Azul Strong...'
-tags: tole.es, vaqueros
+tags: [ tole.es, vaqueros ]
 actualPrice: 24.63 EUR
 currency: EUR
 price: 24.63

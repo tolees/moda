@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079SMKJDM-es Desigual Nisa TS Camiseta Azul Marino 5001 L para Mujer'
-tags: tole.es, camiseta
+tags: [ tole.es, camiseta ]
 actualPrice: 11.98 EUR
 currency: EUR
 price: 11.98

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KBM72XD-es Crocs Classic Clog K Zuecos Unisex Niños Azul Bright...'
-tags: tole.es, zuecos
+tags: [ tole.es, zuecos ]
 actualPrice: 21.59 EUR
 currency: EUR
 price: 21.59

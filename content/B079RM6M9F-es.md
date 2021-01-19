@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079RM6M9F-es Levi s Barstow Western Camisa Vaquera Negro Black 0216...'
-tags: tole.es, camisa
+tags: [ tole.es, camisa ]
 actualPrice: 12.9 EUR
 currency: EUR
 price: 12.9

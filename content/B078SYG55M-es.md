@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078SYG55M-es Marca Amazon - TRUTH & FABLE Vestido midi de gasa con...'
-tags: tole.es, vestido
+tags: [ tole.es, vestido ]
 actualPrice: 20.46 EUR
 currency: EUR
 price: 20.46

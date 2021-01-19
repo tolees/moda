@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFV12D4-es Geox U Devan A Mocasines para Hombre Marrón Mud C6372 43 EU'
-tags: tole.es, geox
+tags: [ tole.es, geox ]
 actualPrice: 29.17 EUR
 currency: EUR
 price: 29.17

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SWV1N7Z-es Geox D NYDAME E Zapatillas para Mujer Beige Sand C5004 38 EU'
-tags: tole.es, geox
+tags: [ tole.es, geox ]
 actualPrice: 52.11 EUR
 currency: EUR
 price: 52.11

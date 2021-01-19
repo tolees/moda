@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075X2Q3BV-es find. NEWSTW046 vaqueros mujer Azul Dark Vintage W27/L30'
-tags: tole.es, vaqueros
+tags: [ tole.es, vaqueros ]
 actualPrice: 10.8 EUR
 currency: EUR
 price: 10.8

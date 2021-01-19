@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFYXXJC-es Geox U Adrien A Zapatos de Cordones Derby para Hombre...'
-tags: tole.es, geox, zapatos
+tags: [ tole.es, geox, zapatos ]
 actualPrice: 52.2 EUR
 currency: EUR
 price: 52.2

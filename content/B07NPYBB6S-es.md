@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NPYBB6S-es Marca Amazon - MERAKI Shorts de Lino Mujer Azul Navy 36...'
-tags: tole.es, meraki
+tags: [ tole.es, meraki ]
 actualPrice: 6.42 EUR
 currency: EUR
 price: 6.42

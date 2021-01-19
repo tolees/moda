@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01AFO9W54-es Diesel CREW NECK ESSENTIAL Camiseta para Hombre Multicolor...'
-tags: tole.es, camiseta
+tags: [ tole.es, camiseta ]
 actualPrice: 27.49 EUR
 currency: EUR
 price: 27.49

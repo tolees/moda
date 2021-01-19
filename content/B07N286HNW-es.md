@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N286HNW-es KAPORAL OLRIK Camiseta Blanc White M para Hombre'
-tags: tole.es, camiseta
+tags: [ tole.es, camiseta ]
 actualPrice: 4.23 EUR
 currency: EUR
 price: 4.23

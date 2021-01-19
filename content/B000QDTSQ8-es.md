@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000QDTSQ8-es Birkenstock Milano Birko-Flor Wide Sandalias con Correa de...'
-tags: tole.es, sandalias
+tags: [ tole.es, sandalias ]
 actualPrice: 58.45 EUR
 currency: EUR
 price: 58.45

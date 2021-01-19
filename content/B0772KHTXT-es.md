@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0772KHTXT-es MERAKI POETME003 Pantalones Cortos Azul Cashmere Blue W34'
-tags: tole.es, meraki
+tags: [ tole.es, meraki ]
 actualPrice: 6.6 EUR
 currency: EUR
 price: 6.6

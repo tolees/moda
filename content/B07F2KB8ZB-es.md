@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F2KB8ZB-es Amazon Essentials – Camisa Oxford de manga larga de corte...'
-tags: tole.es, camisa
+tags: [ tole.es, camisa ]
 actualPrice: 14.46 EUR
 currency: EUR
 price: 14.46

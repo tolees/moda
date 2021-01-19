@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MMWRGQN-es Wrangler Arizona Vaqueros Straight Azul Soft Night 50w 30...'
-tags: tole.es, vaqueros
+tags: [ tole.es, vaqueros ]
 actualPrice: 18.27 EUR
 currency: EUR
 price: 18.27

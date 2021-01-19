@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0735CJH3Z-es Napapijri Rainforest Winter Chaqueta para Hombre Gris Dark...'
-tags: tole.es, chaqueta
+tags: [ tole.es, chaqueta ]
 actualPrice: 89.95 EUR
 currency: EUR
 price: 89.95

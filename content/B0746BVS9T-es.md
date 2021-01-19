@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0746BVS9T-es Billetera Cuero Funda para Huawei P10 Lite Careynoce...'
-tags: tole.es, billetera
+tags: [ tole.es, billetera ]
 actualPrice: 7.59 EUR
 currency: EUR
 price: 7.59

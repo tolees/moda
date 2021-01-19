@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0743C1PCJ-es Marca Amazon - Lark & Ro Classic Cap-Sleeve Wrap Dress...'
-tags: tole.es, vestido
+tags: [ tole.es, vestido ]
 actualPrice: 13.45 EUR
 currency: EUR
 price: 13.45

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z1KP93R-es Guantes Impermeables Pantalla Táctil Esquí al Aire libre...'
-tags: tole.es, guantes
+tags: [ tole.es, guantes ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

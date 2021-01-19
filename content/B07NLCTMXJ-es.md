@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NLCTMXJ-es Caprice Herma Botines para Mujer Verde Khaki Nappa 710 38 EU'
-tags: tole.es, botines
+tags: [ tole.es, botines ]
 actualPrice: 14.55 EUR
 currency: EUR
 price: 14.55

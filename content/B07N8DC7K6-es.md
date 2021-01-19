@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N8DC7K6-es JACK & JONES NOS Jjialvin Jjjacket Sa 001 Noos Chaqueta...'
-tags: tole.es, chaqueta
+tags: [ tole.es, chaqueta ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

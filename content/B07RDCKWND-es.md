@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RDCKWND-es Tommy Hilfiger Corp Box Logo tee Camiseta Deporte Azul...'
-tags: tole.es, camiseta
+tags: [ tole.es, camiseta ]
 actualPrice: 30.64 EUR
 currency: EUR
 price: 30.64

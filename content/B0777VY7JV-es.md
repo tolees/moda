@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0777VY7JV-es Tommy Hilfiger Original Triblend Camiseta Rojo Formula One...'
-tags: tole.es, camiseta
+tags: [ tole.es, camiseta ]
 actualPrice: 15.79 EUR
 currency: EUR
 price: 15.79

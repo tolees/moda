@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L9B25KQ-es Under Armour Heatgear Armour Pantalón Corto Mujer Negro...'
-tags: tole.es, pantalón
+tags: [ tole.es, pantalón ]
 actualPrice: 18.49 EUR
 currency: EUR
 price: 18.49

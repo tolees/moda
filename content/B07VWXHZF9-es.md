@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VWXHZF9-es Skechers Energy-Retro Vision Sandalias con Punta Cerrada...'
-tags: tole.es, sandalias
+tags: [ tole.es, sandalias ]
 actualPrice: 22.05 EUR
 currency: EUR
 price: 22.05

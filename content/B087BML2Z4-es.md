@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087BML2Z4-es Mediffen Mujer Fiesta Tacón Ancho Correa De Tobillo Lazos...'
-tags: tole.es, moda, sandalias, vestido
+tags: [ tole.es, moda, sandalias, vestido ]
 actualPrice: 25.65 EUR
 currency: EUR
 price: 25.65

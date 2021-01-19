@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SD1CRQZ-es Flamingueo Bolso Holografico - Bolso Mochila Bolso...'
-tags: tole.es, bolso
+tags: [ tole.es, bolso ]
 actualPrice: 27.5 EUR
 currency: EUR
 price: 27.5

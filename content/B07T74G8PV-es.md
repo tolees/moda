@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T74G8PV-es Tag Heuer Brillengestelle Th-0552 Monturas de gafas...'
-tags: tole.es, gafas
+tags: [ tole.es, gafas ]
 actualPrice: 146.28 EUR
 currency: EUR
 price: 146.28

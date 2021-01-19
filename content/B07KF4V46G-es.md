@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KF4V46G-es Levi s Camiseta Blanco 2 Pack tee White +/White + 0001...'
-tags: tole.es, camiseta
+tags: [ tole.es, camiseta ]
 actualPrice: 24.45 EUR
 currency: EUR
 price: 24.45

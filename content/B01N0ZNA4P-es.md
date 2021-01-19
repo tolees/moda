@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N0ZNA4P-es Kappa Fredo Pantalón Corto Hombre Azul Marino YL'
-tags: tole.es, pantalón
+tags: [ tole.es, pantalón ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

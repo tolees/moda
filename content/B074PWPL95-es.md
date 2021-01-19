@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074PWPL95-es Hurley M One and Only Surf Camiseta de Manga Corta Hombre...'
-tags: tole.es, camiseta
+tags: [ tole.es, camiseta ]
 actualPrice: 25.94 EUR
 currency: EUR
 price: 25.94

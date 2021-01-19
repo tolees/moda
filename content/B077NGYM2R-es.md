@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077NGYM2R-es find. Sudadera Mujer Verde Green 36 Talla del fabricante:...'
-tags: tole.es, sudadera
+tags: [ tole.es, sudadera ]
 actualPrice: 8.4 EUR
 currency: EUR
 price: 8.4

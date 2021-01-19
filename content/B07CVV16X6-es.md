@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CVV16X6-es Foino Bolso Bandolera Mujer Moda Bolsa Diseño Bolsas de...'
-tags: tole.es, bolso, moda
+tags: [ tole.es, bolso, moda ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

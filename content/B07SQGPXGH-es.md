@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SQGPXGH-es Geox U Nebula C Zapatillas para Hombre Azul Avio C4005 39 EU'
-tags: tole.es, geox
+tags: [ tole.es, geox ]
 actualPrice: 49.13 EUR
 currency: EUR
 price: 49.13

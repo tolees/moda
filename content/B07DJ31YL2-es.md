@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DJ31YL2-es Geox U Renan C Zapatillas para Hombre Gris Grey/Jeans...'
-tags: tole.es, geox
+tags: [ tole.es, geox ]
 actualPrice: 49.95 EUR
 currency: EUR
 price: 49.95

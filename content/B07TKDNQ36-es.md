@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TKDNQ36-es Levi s 511 Slim Fit Vaqueros Verde Muddy Forest Sueded...'
-tags: tole.es, vaqueros
+tags: [ tole.es, vaqueros ]
 actualPrice: 55.99 EUR
 currency: EUR
 price: 55.99

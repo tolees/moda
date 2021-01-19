@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FTL5V7Q-es Lee Scarlett Cropped Vaqueros Skinny Gris Concrete Grey Cm...'
-tags: tole.es, vaqueros
+tags: [ tole.es, vaqueros ]
 actualPrice: 22.89 EUR
 currency: EUR
 price: 22.89

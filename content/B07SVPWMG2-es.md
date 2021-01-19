@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SVPWMG2-es Geox D Sukie B Zapatillas para Mujer Beige Dk Skin C8191...'
-tags: tole.es, geox
+tags: [ tole.es, geox ]
 actualPrice: 49.95 EUR
 currency: EUR
 price: 49.95

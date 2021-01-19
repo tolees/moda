@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SXSDV1V-es Geox U Snake.2 A Zapatillas para Hombre Blanco White/Lt...'
-tags: tole.es, geox
+tags: [ tole.es, geox ]
 actualPrice: 32.64 EUR
 currency: EUR
 price: 32.64

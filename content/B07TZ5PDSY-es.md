@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TZ5PDSY-es Lee Rider Vaqueros Slim Azul Light Sitka Jx W28/L34 Talla...'
-tags: tole.es, vaqueros
+tags: [ tole.es, vaqueros ]
 actualPrice: 16.63 EUR
 currency: EUR
 price: 16.63

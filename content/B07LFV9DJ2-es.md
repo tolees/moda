@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFV9DJ2-es Geox D Calinda High A Botines para Mujer Marrón Chestnut...'
-tags: tole.es, botines, geox
+tags: [ tole.es, botines, geox ]
 actualPrice: 33.96 EUR
 currency: EUR
 price: 33.96

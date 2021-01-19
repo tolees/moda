@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H6GRSWD-es FOSTAK Mochila Femenina maletín Bolsa de Viaje Bolso...'
-tags: tole.es, bolso
+tags: [ tole.es, bolso ]
 actualPrice: 6.54 EUR
 currency: EUR
 price: 6.54

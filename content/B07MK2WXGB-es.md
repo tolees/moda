@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MK2WXGB-es Cerdá 2300003841 Sandalias Deportivas para Niñas Blanco...'
-tags: tole.es, sandalias
+tags: [ tole.es, sandalias ]
 actualPrice: 7.55 EUR
 currency: EUR
 price: 7.55

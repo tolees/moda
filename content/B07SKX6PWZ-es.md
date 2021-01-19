@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SKX6PWZ-es Levi s Graphic Diana Crew Sudadera Amarillo 90 s Serif...'
-tags: tole.es, sudadera
+tags: [ tole.es, sudadera ]
 actualPrice: 30.0 EUR
 currency: EUR
 price: 30.0

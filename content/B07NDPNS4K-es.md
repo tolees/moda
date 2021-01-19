@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDPNS4K-es G-STAR RAW Starkon Graphic Loose Round Neck Camiseta Azul...'
-tags: tole.es, camiseta
+tags: [ tole.es, camiseta ]
 actualPrice: 13.96 EUR
 currency: EUR
 price: 13.96

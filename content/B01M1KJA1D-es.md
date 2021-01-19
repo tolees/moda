@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M1KJA1D-es FREESOO Set 5 kits Bolsa de Mama para Bebe Biberon...'
-tags: tole.es, bolso
+tags: [ tole.es, bolso ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

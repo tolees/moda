@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075PFW3VV-es Clarks Un Trek Part Sandalias de Talón Abierto para Hombre...'
-tags: tole.es, sandalias
+tags: [ tole.es, sandalias ]
 actualPrice: 54.95 EUR
 currency: EUR
 price: 54.95

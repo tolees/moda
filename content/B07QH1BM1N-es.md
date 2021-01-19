@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QH1BM1N-es MTNG Collection 58641 Botines para Mujer Negro Antil Negro...'
-tags: tole.es, botines
+tags: [ tole.es, botines ]
 actualPrice: 15.72 EUR
 currency: EUR
 price: 15.72

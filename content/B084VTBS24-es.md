@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084VTBS24-es Zapatos para Mujer Tacon Alto Aguja Primavera 2020 Sexy...'
-tags: tole.es, sandalias, zapatos
+tags: [ tole.es, sandalias, zapatos ]
 actualPrice: 16.22 EUR
 currency: EUR
 price: 16.22

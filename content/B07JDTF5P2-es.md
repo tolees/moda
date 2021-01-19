@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JDTF5P2-es Lacoste Sh6382 Sudadera Azul Marine 166 XX-Large Talla del...'
-tags: tole.es, sudadera
+tags: [ tole.es, sudadera ]
 actualPrice: 71.17 EUR
 currency: EUR
 price: 71.17

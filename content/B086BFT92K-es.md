@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086BFT92K-es TENDYCOCO 100Pcs Cubren Los Zapatos Útiles Portátiles...'
-tags: tole.es, zapatos
+tags: [ tole.es, zapatos ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

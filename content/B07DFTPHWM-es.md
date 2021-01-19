@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DFTPHWM-es Calvin Klein Bikini Culotte Negro Black 001 36 Talla del...'
-tags: tole.es, bikini
+tags: [ tole.es, bikini ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JG7ZNHY-es Pepe Jeans Amberes Archive Camiseta Blanco Optic White 802...'
-tags: tole.es, camiseta
+tags: [ tole.es, camiseta ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

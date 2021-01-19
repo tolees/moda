@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JMMVC6Z-es Timberland Kenniston 6 Inch Lace Up Botas para Mujer Rojo...'
-tags: tole.es, timberland
+tags: [ tole.es, timberland ]
 actualPrice: 32.06 EUR
 currency: EUR
 price: 32.06

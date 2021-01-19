@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M8HHQHN-es Geox U Snake.2 A Zapatillas para Hombre Marrón Cigar/Dk...'
-tags: tole.es, geox
+tags: [ tole.es, geox ]
 actualPrice: 56.95 EUR
 currency: EUR
 price: 56.95

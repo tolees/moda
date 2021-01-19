@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KBJWPMY-es Vero Moda Vmeva Abby 3/4 Trenchcoat Noos Abrigo Marrón...'
-tags: tole.es, abrigo, moda
+tags: [ tole.es, abrigo, moda ]
 actualPrice: 25.88 EUR
 currency: EUR
 price: 25.88

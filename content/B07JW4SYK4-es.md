@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JW4SYK4-es Columbia Powder Lite Jacket Chaqueta Hombre Negro Black S'
-tags: tole.es, chaqueta
+tags: [ tole.es, chaqueta ]
 actualPrice: 56.99 EUR
 currency: EUR
 price: 56.99

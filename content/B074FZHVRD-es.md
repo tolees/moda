@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074FZHVRD-es Gafas de sol POLARIZADAS VERDSTER TourDePro Para Hombres y...'
-tags: tole.es, gafas
+tags: [ tole.es, gafas ]
 actualPrice: 21.95 EUR
 currency: EUR
 price: 21.95

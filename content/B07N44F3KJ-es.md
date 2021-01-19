@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N44F3KJ-es Desigual Trousers Robots Vaqueros Boyfriend Azul Denim...'
-tags: tole.es, vaqueros
+tags: [ tole.es, vaqueros ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

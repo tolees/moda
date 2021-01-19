@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00PBLA6UC-es Mercedes-Benz Sonnenbrille M1039 Gafas de sol Dorado Gold...'
-tags: tole.es, gafas
+tags: [ tole.es, gafas ]
 actualPrice: 33.34 EUR
 currency: EUR
 price: 33.34

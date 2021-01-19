@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FSK8QFH-es Clarks Mena Blossom Zapatos de Tacón para Mujer Plateado...'
-tags: tole.es, zapatos
+tags: [ tole.es, zapatos ]
 actualPrice: 35.75 EUR
 currency: EUR
 price: 35.75

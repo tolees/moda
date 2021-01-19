@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XC6LWKM-es Clarks Tilden Plain Zapatos de cordones derby Hombre...'
-tags: tole.es, zapatos
+tags: [ tole.es, zapatos ]
 actualPrice: 41.16 EUR
 currency: EUR
 price: 41.16

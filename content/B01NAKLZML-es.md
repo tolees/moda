@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NAKLZML-es Columbia Canyon Chaqueta Softshell Hombre Gris Grey Ash...'
-tags: tole.es, chaqueta
+tags: [ tole.es, chaqueta ]
 actualPrice: 51.59 EUR
 currency: EUR
 price: 51.59

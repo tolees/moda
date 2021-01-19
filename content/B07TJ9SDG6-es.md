@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TJ9SDG6-es Levi s Sportswear Logo Graphic Camiseta Negro Ssnl Sw...'
-tags: tole.es, camiseta
+tags: [ tole.es, camiseta ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

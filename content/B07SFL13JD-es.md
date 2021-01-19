@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SFL13JD-es Calvin Klein Ckj 026 Vaqueros Slim Azul Stay Black 911 30W...'
-tags: tole.es, vaqueros
+tags: [ tole.es, vaqueros ]
 actualPrice: 24.18 EUR
 currency: EUR
 price: 24.18

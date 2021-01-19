@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M89GC1N-es Lee Sherpa Jacket Chaqueta Vaquera Negro Black 01 Large...'
-tags: tole.es, chaqueta
+tags: [ tole.es, chaqueta ]
 actualPrice: 64.98 EUR
 currency: EUR
 price: 64.98

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XYPF8J8-es find. 53669 Chaqueta Para Mujer Azul Mid Blue X-Small'
-tags: tole.es, chaqueta
+tags: [ tole.es, chaqueta ]
 actualPrice: 15 EUR
 currency: EUR
 price: 15

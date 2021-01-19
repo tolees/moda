@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFZ7XYK-es Geox J SPACECLUB Girl B Zapatillas para Niñas Rosa Antique...'
-tags: tole.es, geox
+tags: [ tole.es, geox ]
 actualPrice: 45.49 EUR
 currency: EUR
 price: 45.49

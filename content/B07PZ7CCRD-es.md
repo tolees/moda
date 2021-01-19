@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PZ7CCRD-es Hawiton Pijamas para Mujer Verano Corto Pijama de Algodón...'
-tags: tole.es, pijama
+tags: [ tole.es, pijama ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

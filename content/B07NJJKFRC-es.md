@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NJJKFRC-es Tamaris 1-1-26250-23 Botines para Mujer Marrón Cognac 305...'
-tags: tole.es, botines
+tags: [ tole.es, botines ]
 actualPrice: 18.63 EUR
 currency: EUR
 price: 18.63

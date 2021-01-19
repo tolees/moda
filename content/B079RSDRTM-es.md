@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079RSDRTM-es Pepe Jeans Norske Chaqueta Azul Ink 591 M para Hombre'
-tags: tole.es, chaqueta
+tags: [ tole.es, chaqueta ]
 actualPrice: 65.04 EUR
 currency: EUR
 price: 65.04

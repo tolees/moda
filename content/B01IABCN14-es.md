@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01IABCN14-es Meller - Kribi Amber Carbon - Gafas de sol para hombre y...'
-tags: tole.es, gafas
+tags: [ tole.es, gafas ]
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

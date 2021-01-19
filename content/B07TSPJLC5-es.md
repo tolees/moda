@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TSPJLC5-es Women s Secret The Lion King LK DS Hakuna PJ FR Conjuntos...'
-tags: tole.es, pijama
+tags: [ tole.es, pijama ]
 actualPrice: 16.17 EUR
 currency: EUR
 price: 16.17

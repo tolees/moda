@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VKJD88T-es Calvin Klein Hip Brief 3pk Boxer Rojo...'
-tags: tole.es, boxer
+tags: [ tole.es, boxer ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01JDV50HO-es Timberland Killington Botas Clasicas para Hombre Beige...'
-tags: tole.es, timberland
+tags: [ tole.es, timberland ]
 actualPrice: 86.99 EUR
 currency: EUR
 price: 86.99

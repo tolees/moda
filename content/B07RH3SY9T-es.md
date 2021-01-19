@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RH3SY9T-es Calvin Klein K60k606172 conjunto bufanda gorro y guantes...'
-tags: tole.es, guantes
+tags: [ tole.es, guantes ]
 actualPrice: 21.69 EUR
 currency: EUR
 price: 21.69

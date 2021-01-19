@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MLF7QXX-es Roman Originals Pantalón Capri elástico de bengalina para...'
-tags: tole.es, pantalón
+tags: [ tole.es, pantalón ]
 actualPrice: 21.75 EUR
 currency: EUR
 price: 21.75

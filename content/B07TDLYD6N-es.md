@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TDLYD6N-es Quiksilver Omni Logo Sudadera con Capucha Hombre Gris...'
-tags: tole.es, sudadera
+tags: [ tole.es, sudadera ]
 actualPrice: 26.6 EUR
 currency: EUR
 price: 26.6

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VHC2Q8K-es Jack & Jones Jcofigure Parka STS Negro Black Pattern:...'
-tags: tole.es, parka
+tags: [ tole.es, parka ]
 actualPrice: 19.76 EUR
 currency: EUR
 price: 19.76

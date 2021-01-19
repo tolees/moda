@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NWRFSX2-es Nina Brautmoden - Vestido de novia - trapecio - Manga...'
-tags: tole.es, vestido
+tags: [ tole.es, vestido ]
 actualPrice: 23.5 EUR
 currency: EUR
 price: 23.5

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N414BQG-es Desigual Dress Karen Vestido Blanco Blanco 1000 L para Mujer'
-tags: tole.es, vestido
+tags: [ tole.es, vestido ]
 actualPrice: 16.42 EUR
 currency: EUR
 price: 16.42

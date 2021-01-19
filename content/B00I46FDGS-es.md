@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00I46FDGS-es Pepe Jeans Eggo PM500465 Camiseta Blanco White 800 X-Small...'
-tags: tole.es, camiseta
+tags: [ tole.es, camiseta ]
 actualPrice: 19.58 EUR
 currency: EUR
 price: 19.58

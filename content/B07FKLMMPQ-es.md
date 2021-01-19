@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FKLMMPQ-es Trangoworld PC007743-6ZT-L Pantalón Largo Mujer...'
-tags: tole.es, pantalón
+tags: [ tole.es, pantalón ]
 actualPrice: 70.99 EUR
 currency: EUR
 price: 70.99

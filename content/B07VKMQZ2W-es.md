@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VKMQZ2W-es Teva Terra Fi Lite Sandalias de Punta Descubierta para...'
-tags: tole.es, sandalias
+tags: [ tole.es, sandalias ]
 actualPrice: 33.97 EUR
 currency: EUR
 price: 33.97

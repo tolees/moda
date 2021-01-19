@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MMLN2DV-es Napapijri Serber LS Camiseta Negro Black 041 S para Hombre'
-tags: tole.es, camiseta
+tags: [ tole.es, camiseta ]
 actualPrice: 39.31 EUR
 currency: EUR
 price: 39.31

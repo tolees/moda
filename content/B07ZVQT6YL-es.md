@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZVQT6YL-es Levi s Orig HM Vneck Camiseta Puerto S para Hombre'
-tags: tole.es, camiseta
+tags: [ tole.es, camiseta ]
 actualPrice: 13.57 EUR
 currency: EUR
 price: 13.57

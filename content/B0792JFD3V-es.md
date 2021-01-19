@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0792JFD3V-es Geox J New Savage Boy A Zapatillas para Niños Azul...'
-tags: tole.es, geox
+tags: [ tole.es, geox ]
 actualPrice: 44.0 EUR
 currency: EUR
 price: 44.0

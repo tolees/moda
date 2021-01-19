@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M5GTBHE-es Lacoste Sport SH7609 Sudadera con Capucha Gris Argent...'
-tags: tole.es, sudadera
+tags: [ tole.es, sudadera ]
 actualPrice: 49.95 EUR
 currency: EUR
 price: 49.95

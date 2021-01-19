@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MYCFAZ7-es Kayhan Hombre Camisa Monaco Red M'
-tags: tole.es, camisa
+tags: [ tole.es, camisa ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

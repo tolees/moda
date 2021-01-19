@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076HMS9HN-es adidas CORE18 TR Top Y Sudadera Unisex niños Black/White 5-6Y'
-tags: tole.es, sudadera
+tags: [ tole.es, sudadera ]
 actualPrice: 10.76 EUR
 currency: EUR
 price: 10.76

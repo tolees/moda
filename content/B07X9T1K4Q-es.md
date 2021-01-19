@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X9T1K4Q-es edc by Esprit 099CC1G030 Abrigo Verde Dark Khaki 355 XL...'
-tags: tole.es, abrigo
+tags: [ tole.es, abrigo ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

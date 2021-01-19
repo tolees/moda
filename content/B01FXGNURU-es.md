@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01FXGNURU-es Under Armour UA TAC Heatgear Comp tee Camiseta Hombre...'
-tags: tole.es, camiseta
+tags: [ tole.es, camiseta ]
 actualPrice: 22.39 EUR
 currency: EUR
 price: 22.39

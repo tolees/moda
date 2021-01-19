@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WTPR9PQ-es Charles Wilson Sudadera con Capucha de Peso Pesado Small...'
-tags: tole.es, sudadera
+tags: [ tole.es, sudadera ]
 actualPrice: 12.95 EUR
 currency: EUR
 price: 12.95

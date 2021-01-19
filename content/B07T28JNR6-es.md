@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T28JNR6-es Abravo Mujer Vestido Estampado Floral sin Mangas Vestido...'
-tags: tole.es, vestido
+tags: [ tole.es, vestido ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

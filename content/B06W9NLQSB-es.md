@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06W9NLQSB-es Hosaire Pulsera de Plata de Cielo Estrellado Metal-...'
-tags: tole.es, moda
+tags: [ tole.es, moda ]
 actualPrice: 1.9 EUR
 currency: EUR
 price: 1.9

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073CTZLV1-es Arena 000001E048-507 Estuche para Gafas de natación Unisex...'
-tags: tole.es, gafas
+tags: [ tole.es, gafas ]
 actualPrice: 5.7 EUR
 currency: EUR
 price: 5.7

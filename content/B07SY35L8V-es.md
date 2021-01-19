@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SY35L8V-es Quiksilver Molokai Vacancy Zapatos de Playa y Piscina para...'
-tags: tole.es, zapatos
+tags: [ tole.es, zapatos ]
 actualPrice: 10.49 EUR
 currency: EUR
 price: 10.49

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WRHZC54-es PINPOXE Guantes Esquí Guantes de Invierno Pantalla Táctil...'
-tags: tole.es, guantes
+tags: [ tole.es, guantes ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

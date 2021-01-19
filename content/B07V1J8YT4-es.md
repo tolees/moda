@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V1J8YT4-es BOSS Trunk 3p One Design Bóxer Multicolor Open...'
-tags: tole.es, bóxer
+tags: [ tole.es, bóxer ]
 actualPrice: 19.02 EUR
 currency: EUR
 price: 19.02

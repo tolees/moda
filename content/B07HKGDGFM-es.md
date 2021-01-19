@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HKGDGFM-es Under Armour UA Lockdown 4 Zapatos de Baloncesto para...'
-tags: tole.es, zapatos
+tags: [ tole.es, zapatos ]
 actualPrice: 48.28 EUR
 currency: EUR
 price: 48.28

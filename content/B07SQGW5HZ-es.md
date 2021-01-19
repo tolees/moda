@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SQGW5HZ-es Geox D Avery C Zapatillas para Mujer Negro Black C9999 41 EU'
-tags: tole.es, geox
+tags: [ tole.es, geox ]
 actualPrice: 35.37 EUR
 currency: EUR
 price: 35.37

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TXDWN81-es Levi s 511 Slim Vaqueros Baltic Navy Sueded Sateen WT B...'
-tags: tole.es, vaqueros
+tags: [ tole.es, vaqueros ]
 actualPrice: 44.18 EUR
 currency: EUR
 price: 44.18

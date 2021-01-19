@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MCSPW9L-es Napapijri BIBU FZH Sudadera Verde Green Forest 2 Ge3 L...'
-tags: tole.es, sudadera
+tags: [ tole.es, sudadera ]
 actualPrice: 51.6 EUR
 currency: EUR
 price: 51.6

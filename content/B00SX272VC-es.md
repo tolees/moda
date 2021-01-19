@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00SX272VC-es Calvin Klein Modern Cotton-Bralette Braguita de bikini...'
-tags: tole.es, bikini
+tags: [ tole.es, bikini ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

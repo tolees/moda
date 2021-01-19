@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TLLGDHJ-es Superdry Highwayman Trucker Chaqueta Vaquera Gris Silver...'
-tags: tole.es, chaqueta
+tags: [ tole.es, chaqueta ]
 actualPrice: 33.22 EUR
 currency: EUR
 price: 33.22

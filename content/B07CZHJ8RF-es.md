@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CZHJ8RF-es Under Armour Sportstyle Camiseta sin Mangas con Logotipo...'
-tags: tole.es, camiseta
+tags: [ tole.es, camiseta ]
 actualPrice: 19.5 EUR
 currency: EUR
 price: 19.5

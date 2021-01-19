@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H9YSSV2-es Unisex Chico Chica Zapatilla de Deporte del Zapato Negro...'
-tags: tole.es, zapatilla
+tags: [ tole.es, zapatilla ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

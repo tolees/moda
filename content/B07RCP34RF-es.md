@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RCP34RF-es Columbia Lake 22 Chaqueta De Plumón con Capucha Mujer...'
-tags: tole.es, chaqueta
+tags: [ tole.es, chaqueta ]
 actualPrice: 75.99 EUR
 currency: EUR
 price: 75.99

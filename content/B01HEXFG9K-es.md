@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HEXFG9K-es Crocs Crocband Clog K Zuecos con Correa Trasera Unisex-...'
-tags: tole.es, zuecos
+tags: [ tole.es, zuecos ]
 actualPrice: 21.3 EUR
 currency: EUR
 price: 21.3

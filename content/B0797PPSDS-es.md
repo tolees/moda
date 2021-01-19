@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0797PPSDS-es PUMA Liga Jersey T-Shirt Hombre White Black S'
-tags: tole.es, jersey
+tags: [ tole.es, jersey ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

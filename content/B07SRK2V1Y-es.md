@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SRK2V1Y-es Geox U Tevere C Sandalias con Punta Abierta para Hombre...'
-tags: tole.es, geox, sandalias
+tags: [ tole.es, geox, sandalias ]
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002SNAYBW-es Clarks Nature Three 20339005 - Zapatos casual de cuero...'
-tags: tole.es, zapatos
+tags: [ tole.es, zapatos ]
 actualPrice: 76.94 EUR
 currency: EUR
 price: 76.94

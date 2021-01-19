@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JX1VQJH-es Timberland Adventure 2.0 Cupsole Zapatillas Altas para...'
-tags: tole.es, timberland
+tags: [ tole.es, timberland ]
 actualPrice: 101.5 EUR
 currency: EUR
 price: 101.5

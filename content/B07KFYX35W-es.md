@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KFYX35W-es PUMA Rise XT NETFIT 1 Zapatos de Futsal Unisex adulto Grey...'
-tags: tole.es, zapatos
+tags: [ tole.es, zapatos ]
 actualPrice: 27.86 EUR
 currency: EUR
 price: 27.86

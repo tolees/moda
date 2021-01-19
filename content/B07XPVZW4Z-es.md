@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XPVZW4Z-es YOSICIL Niñas Disfraz Anna Frozen Elsa con Capa Traje de...'
-tags: tole.es, collar, vestido
+tags: [ tole.es, collar, vestido ]
 actualPrice: 21.74 EUR
 currency: EUR
 price: 21.74

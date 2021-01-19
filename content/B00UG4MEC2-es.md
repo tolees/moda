@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00UG4MEC2-es Charles Wilson Camiseta Polo Clásica Lisa Small Burgundy'
-tags: tole.es, camiseta
+tags: [ tole.es, camiseta ]
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

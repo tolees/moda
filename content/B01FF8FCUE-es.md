@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01FF8FCUE-es JACK & JONES Jjiliam Jjoriginal Am 010 Lid Noos Vaqueros...'
-tags: tole.es, vaqueros
+tags: [ tole.es, vaqueros ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

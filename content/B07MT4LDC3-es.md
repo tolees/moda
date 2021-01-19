@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MT4LDC3-es gracosy Sandalias Cuero Planas Verano Mujer Estilo Bohemia...'
-tags: tole.es, chanclas, sandalias, zapatos
+tags: [ tole.es, chanclas, sandalias, zapatos ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

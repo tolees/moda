@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RCZMXML-es Under Armour Fleece PO Men s Pullover Hoodie Sudadera con...'
-tags: tole.es, sudadera
+tags: [ tole.es, sudadera ]
 actualPrice: 20.61 EUR
 currency: EUR
 price: 20.61

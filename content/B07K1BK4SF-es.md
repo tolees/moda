@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K1BK4SF-es GRACE KARIN Mujer Bolero Chaqueta Corta Suave Cómodo...'
-tags: tole.es, chaqueta
+tags: [ tole.es, chaqueta ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

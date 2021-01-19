@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SZSPQJ2-es Tom Tailor Ray Camisa Rojo Black Red Minimal De 19536 XXX-...'
-tags: tole.es, camisa
+tags: [ tole.es, camisa ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

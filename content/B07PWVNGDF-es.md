@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PWVNGDF-es SUPRBIRD Guantes Ciclismo MTB Dedo Medio Guantes Hombre y...'
-tags: tole.es, guantes
+tags: [ tole.es, guantes ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

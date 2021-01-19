@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S7BRB1J-es Lee Small Sunset tee Camiseta Negro Black 01 Large para...'
-tags: tole.es, camiseta
+tags: [ tole.es, camiseta ]
 actualPrice: 12.23 EUR
 currency: EUR
 price: 12.23

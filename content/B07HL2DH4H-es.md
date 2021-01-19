@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HL2DH4H-es Ganchos Carrito Bebé WELAVILA Cochecito Ganchos Clip para...'
-tags: tole.es, bolso
+tags: [ tole.es, bolso ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

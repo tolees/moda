@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S34DVY8-es Ever-Pretty A-línea Tul Vestido de Noche Manga Corta...'
-tags: tole.es, vestido
+tags: [ tole.es, vestido ]
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

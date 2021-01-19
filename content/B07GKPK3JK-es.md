@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GKPK3JK-es Levi s Big and Tall 514 B&t Vaqueros Straight Azul Roald...'
-tags: tole.es, vaqueros
+tags: [ tole.es, vaqueros ]
 actualPrice: 48.96 EUR
 currency: EUR
 price: 48.96

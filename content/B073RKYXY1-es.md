@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073RKYXY1-es Adidas Adilette Comfort Zapatos de playa y piscina Hombre...'
-tags: tole.es, zapatos
+tags: [ tole.es, zapatos ]
 actualPrice: 11.91 EUR
 currency: EUR
 price: 11.91

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDL5RHK-es G-STAR RAW Xpo Field Chaqueta Verde Sage 724 Small para...'
-tags: tole.es, chaqueta
+tags: [ tole.es, chaqueta ]
 actualPrice: 37.29 EUR
 currency: EUR
 price: 37.29

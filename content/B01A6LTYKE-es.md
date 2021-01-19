@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01A6LTYKE-es Crocs Classic Lined Clog Zuecos Unisex Adulto Marrón...'
-tags: tole.es, zuecos
+tags: [ tole.es, zuecos ]
 actualPrice: 30.11 EUR
 currency: EUR
 price: 30.11

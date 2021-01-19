@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FSQ19MS-es Clarks Un Maui Lace Zapatos de Cordones Derby para Mujer...'
-tags: tole.es, zapatos
+tags: [ tole.es, zapatos ]
 actualPrice: 67.78 EUR
 currency: EUR
 price: 67.78

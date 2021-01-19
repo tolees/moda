@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G9HH53R-es Joma Race Chaqueta y Chaleco Cabal Hombre Negro S'
-tags: tole.es, chaleco, chaqueta
+tags: [ tole.es, chaleco, chaqueta ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

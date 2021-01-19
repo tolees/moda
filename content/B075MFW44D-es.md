@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075MFW44D-es Marca Amazon - MERAKI Vaqueros Ceñidos de Tiro Alto Mujer...'
-tags: tole.es, meraki, vaqueros
+tags: [ tole.es, meraki, vaqueros ]
 actualPrice: 17.5 EUR
 currency: EUR
 price: 17.5

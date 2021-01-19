@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076HRFYWK-es adidas Core18 Pre Jkty Chaqueta de Deporte Unisex Niños...'
-tags: tole.es, chaqueta
+tags: [ tole.es, chaqueta ]
 actualPrice: 17.0 EUR
 currency: EUR
 price: 17.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00RDBIR18-es adidas ESS 3S Chelsea - Pantalón corto para hombre color...'
-tags: tole.es, pantalón
+tags: [ tole.es, pantalón ]
 actualPrice: 17.51 EUR
 currency: EUR
 price: 17.51

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N2VNKWG-es Columbia Pouring Adventu Chaqueta Hombre Azul Hyper...'
-tags: tole.es, chaqueta
+tags: [ tole.es, chaqueta ]
 actualPrice: 47.72 EUR
 currency: EUR
 price: 47.72

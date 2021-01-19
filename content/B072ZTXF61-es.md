@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072ZTXF61-es Champion Classic Logo Camiseta Rojo M para Hombre'
-tags: tole.es, camiseta
+tags: [ tole.es, camiseta ]
 actualPrice: 13.93 EUR
 currency: EUR
 price: 13.93

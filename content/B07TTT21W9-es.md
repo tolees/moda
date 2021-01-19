@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TTT21W9-es Women s Secret Mickey Vintage Mv DS Every Week PJ...'
-tags: tole.es, pijama
+tags: [ tole.es, pijama ]
 actualPrice: 12.94 EUR
 currency: EUR
 price: 12.94

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FF2CFRS-es Wwoorr Quartz Relojes Analógicos Moda Casual para Mujer...'
-tags: tole.es, moda
+tags: [ tole.es, moda ]
 actualPrice: 15.29 EUR
 currency: EUR
 price: 15.29

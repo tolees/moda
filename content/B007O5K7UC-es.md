@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007O5K7UC-es Arena Spider Jr Gafas de Natación Unisex niños Rojo/Negro...'
-tags: tole.es, gafas
+tags: [ tole.es, gafas ]
 actualPrice: 9.25 EUR
 currency: EUR
 price: 9.25

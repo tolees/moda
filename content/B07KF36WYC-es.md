@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KF36WYC-es Levi s 511 Slim Fit Vaqueros Norse Warp Cool 3721 36W /...'
-tags: tole.es, vaqueros
+tags: [ tole.es, vaqueros ]
 actualPrice: 57.5 EUR
 currency: EUR
 price: 57.5

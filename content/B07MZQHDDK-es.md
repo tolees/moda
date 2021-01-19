@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZQHDDK-es Pepe Jeans Nanete Sudadera Rosa Cloudy Pink 308 Large para...'
-tags: tole.es, sudadera
+tags: [ tole.es, sudadera ]
 actualPrice: 22.05 EUR
 currency: EUR
 price: 22.05

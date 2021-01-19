@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VJHZ4GD-es Hackett Amr Stripe Back Camiseta Azul 595navy 595 Small...'
-tags: tole.es, camiseta
+tags: [ tole.es, camiseta ]
 actualPrice: 53.97 EUR
 currency: EUR
 price: 53.97

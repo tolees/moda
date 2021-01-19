@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GZ8NYZR-es Marca Amazon - MERAKI Blazer Hombre Azul Navy 48 Label: 38'
-tags: tole.es, meraki
+tags: [ tole.es, meraki ]
 actualPrice: 16.87 EUR
 currency: EUR
 price: 16.87

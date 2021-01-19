@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KW4T4XQ-es URAQT Vestido lady bug Rojo M C-UZ18112-0'
-tags: tole.es, vestido
+tags: [ tole.es, vestido ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MGFRZ4L-es Napapijri BOVES C Sudadera Rojo Red Scarlet R01 M para Hombre'
-tags: tole.es, sudadera
+tags: [ tole.es, sudadera ]
 actualPrice: 35.6 EUR
 currency: EUR
 price: 35.6

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VDG1M4L-es Desigual TS Karen Camiseta Negro Gris Alquitran 2022...'
-tags: tole.es, camiseta
+tags: [ tole.es, camiseta ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

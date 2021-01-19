@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PYD2NDF-es New Look Bermuda Button Falda Azul Navy 41 42 Talla del...'
-tags: tole.es, falda
+tags: [ tole.es, falda ]
 actualPrice: 6.96 EUR
 currency: EUR
 price: 6.96

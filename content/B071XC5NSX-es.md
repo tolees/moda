@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071XC5NSX-es Marca Amazon - find. Vestido Asimétrico para Mujer Rojo...'
-tags: tole.es, vestido, -, find.
+tags: [ tole.es, vestido, -, find. ]
 actualPrice: 8.67 EUR
 currency: EUR
 price: 8.67

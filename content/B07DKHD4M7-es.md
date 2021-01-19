@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DKHD4M7-es Kipling Gabbie Bolso bandolera para Mujer Gris Active Grey...'
-tags: tole.es, bolso
+tags: [ tole.es, bolso ]
 actualPrice: 57.0 EUR
 currency: EUR
 price: 57.0

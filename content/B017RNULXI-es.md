@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B017RNULXI-es LEABAGS Boston Bolso de Mensajero de auténtico Cuero...'
-tags: tole.es, bolso
+tags: [ tole.es, bolso ]
 actualPrice: 94.98 EUR
 currency: EUR
 price: 94.98

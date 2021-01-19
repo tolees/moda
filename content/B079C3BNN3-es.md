@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079C3BNN3-es Helly Hansen Swift 4.0 Aislado Chaqueta de Esquí Hombre...'
-tags: tole.es, chaqueta
+tags: [ tole.es, chaqueta ]
 actualPrice: 134.66 EUR
 currency: EUR
 price: 134.66

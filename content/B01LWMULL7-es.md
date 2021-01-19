@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LWMULL7-es Marca Amazon - IRIS & LILLY Sujetador Preformado con...'
-tags: tole.es, iris, &, lilly
+tags: [ tole.es, iris, &, lilly ]
 actualPrice: 5.98 EUR
 currency: EUR
 price: 5.98

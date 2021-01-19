@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CN2QR1D-es Calvin Klein Sonnenbrille Ck4359S 22 Gafas de sol Rosa...'
-tags: tole.es, gafas
+tags: [ tole.es, gafas ]
 actualPrice: 36.81 EUR
 currency: EUR
 price: 36.81

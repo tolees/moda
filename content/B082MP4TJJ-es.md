@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082MP4TJJ-es Geographical Norway Parka Mujer BOOMERA Camo Negro 02'
-tags: tole.es, parka
+tags: [ tole.es, parka ]
 actualPrice: 65.0 EUR
 currency: EUR
 price: 65.0

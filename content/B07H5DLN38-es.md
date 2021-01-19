@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H5DLN38-es Dannto Zapatos luminosos de 7 colores con luz led para...'
-tags: tole.es, zapatos
+tags: [ tole.es, zapatos ]
 actualPrice: 31.19 EUR
 currency: EUR
 price: 31.19

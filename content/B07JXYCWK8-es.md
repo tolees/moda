@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JXYCWK8-es XIAOYAO Hombre Sudadera con Capucha Deportiva Manga Larga...'
-tags: tole.es, camisa, sudadera
+tags: [ tole.es, camisa, sudadera ]
 actualPrice: 22.49 EUR
 currency: EUR
 price: 22.49

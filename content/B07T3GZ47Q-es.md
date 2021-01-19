@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T3GZ47Q-es Timberland Adventure 2.0 Cupsole Modern Oxford Zapatillas...'
-tags: tole.es, timberland
+tags: [ tole.es, timberland ]
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

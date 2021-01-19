@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R6GCWRG-es HonourSport Falda Capri para Mujer Deportes faldones...'
-tags: tole.es, falda
+tags: [ tole.es, falda ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

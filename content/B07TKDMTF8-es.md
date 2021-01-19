@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TKDMTF8-es Levi s Type 3 Chaqueta Vaquera Azul Firework Sherpa...'
-tags: tole.es, chaqueta
+tags: [ tole.es, chaqueta ]
 actualPrice: 85.99 EUR
 currency: EUR
 price: 85.99

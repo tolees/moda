@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079ML5KCD-es MERAKI Camiseta Slim Fit de Manga Corta con Cuello de Pico...'
-tags: tole.es, camiseta, meraki
+tags: [ tole.es, camiseta, meraki ]
 actualPrice: 3.6 EUR
 currency: EUR
 price: 3.6

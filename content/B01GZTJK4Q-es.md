@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GZTJK4Q-es KUTOOK Guantes Ciclismo Guantes MTB Gel Almohadilla de...'
-tags: tole.es, guantes
+tags: [ tole.es, guantes ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

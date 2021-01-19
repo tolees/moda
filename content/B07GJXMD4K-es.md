@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GJXMD4K-es Marca Amazon - MERAKI Paula Paper Bag - Pantalones Mujer...'
-tags: tole.es, meraki
+tags: [ tole.es, meraki ]
 actualPrice: 21.0 EUR
 currency: EUR
 price: 21.0

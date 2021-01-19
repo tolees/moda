@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HY7G65P-es Charles Wilson Camiseta Cuello Redondo Punto Tipo Jacquard...'
-tags: tole.es, camiseta
+tags: [ tole.es, camiseta ]
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

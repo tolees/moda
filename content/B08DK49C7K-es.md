@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DK49C7K-es Toallitas para lentes 200 toallitas de limpieza...'
-tags: tole.es, gafas
+tags: [ tole.es, gafas ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

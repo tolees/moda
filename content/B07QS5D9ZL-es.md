@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QS5D9ZL-es Asics Classic CT Zapatos de Baloncesto para Hombre Negro...'
-tags: tole.es, zapatos
+tags: [ tole.es, zapatos ]
 actualPrice: 32.98 EUR
 currency: EUR
 price: 32.98

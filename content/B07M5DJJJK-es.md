@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M5DJJJK-es Lee Luke Vaqueros Dark Blue Elko Bu W28/L32 para Hombre'
-tags: tole.es, vaqueros
+tags: [ tole.es, vaqueros ]
 actualPrice: 59.95 EUR
 currency: EUR
 price: 59.95

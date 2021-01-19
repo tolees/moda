@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JWQLCZD-es Pepe Jeans Waylon Pm305927 Camisa Indigo 561 X-Large para...'
-tags: tole.es, camisa
+tags: [ tole.es, camisa ]
 actualPrice: 32.0 EUR
 currency: EUR
 price: 32.0

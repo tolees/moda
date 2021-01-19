@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SCG7SSC-es adidas Rise Up N Run Long-Sleeve Top Men Camiseta de Manga...'
-tags: tole.es, camiseta
+tags: [ tole.es, camiseta ]
 actualPrice: 12.72 EUR
 currency: EUR
 price: 12.72

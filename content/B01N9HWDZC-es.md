@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N9HWDZC-es find. Jersey de Crochet con Hombros al Aire para Mujer...'
-tags: tole.es, jersey
+tags: [ tole.es, jersey ]
 actualPrice: 7.5 EUR
 currency: EUR
 price: 7.5

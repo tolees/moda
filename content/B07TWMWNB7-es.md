@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TWMWNB7-es Skechers D lites 2.0 - Mega Summer Sandalias de Talón...'
-tags: tole.es, sandalias
+tags: [ tole.es, sandalias ]
 actualPrice: 24.21 EUR
 currency: EUR
 price: 24.21

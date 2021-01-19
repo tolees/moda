@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M2ZT3RO-es Under Armour Rival Fitted Pull Over Sudadera Hombre Negro...'
-tags: tole.es, sudadera
+tags: [ tole.es, sudadera ]
 actualPrice: 30.19 EUR
 currency: EUR
 price: 30.19

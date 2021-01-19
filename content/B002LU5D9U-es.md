@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002LU5D9U-es Lacoste L1212 Camiseta Polo Azul Ruisseau XS para Hombre'
-tags: tole.es, camiseta
+tags: [ tole.es, camiseta ]
 actualPrice: 62.77 EUR
 currency: EUR
 price: 62.77

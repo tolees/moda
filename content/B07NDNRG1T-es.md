@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDNRG1T-es G-STAR RAW Graphic 22 Optic Slim Round Neck Camiseta...'
-tags: tole.es, camiseta
+tags: [ tole.es, camiseta ]
 actualPrice: 17.95 EUR
 currency: EUR
 price: 17.95

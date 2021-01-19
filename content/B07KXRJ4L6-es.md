@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KXRJ4L6-es G-STAR RAW Lynn Mid Skinny Vaqueros Azul Lt Aged 6553-424...'
-tags: tole.es, vaqueros
+tags: [ tole.es, vaqueros ]
 actualPrice: 64.49 EUR
 currency: EUR
 price: 64.49

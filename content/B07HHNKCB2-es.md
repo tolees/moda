@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HHNKCB2-es Crocs Literide Clog Zuecos Unisex Adulto Azul Navy/Pepper...'
-tags: tole.es, zuecos
+tags: [ tole.es, zuecos ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CS9W82W-es Pepe Jeans Melanie Blusa para Mujer Multi Bleu 0aa Small'
-tags: tole.es, blusa
+tags: [ tole.es, blusa ]
 actualPrice: 14.88 EUR
 currency: EUR
 price: 14.88

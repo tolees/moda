@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P1B6WXM-es Superdry Classic Twill L/s Shirt Camisa Azul Nórdica Blue...'
-tags: tole.es, camisa
+tags: [ tole.es, camisa ]
 actualPrice: 21.26 EUR
 currency: EUR
 price: 21.26

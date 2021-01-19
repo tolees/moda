@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZQS8M2-es Pepe Jeans Marcelle Camiseta Bubble Gum 349 3-4 años Talla...'
-tags: tole.es, camiseta
+tags: [ tole.es, camiseta ]
 actualPrice: 11.37 EUR
 currency: EUR
 price: 11.37

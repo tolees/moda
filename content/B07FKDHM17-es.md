@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FKDHM17-es Nike Dri-FIT Miler Camiseta Hombre Gris Atmosphere...'
-tags: tole.es, camiseta
+tags: [ tole.es, camiseta ]
 actualPrice: 19.65 EUR
 currency: EUR
 price: 19.65

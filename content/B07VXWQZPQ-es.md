@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VXWQZPQ-es Pepe Jeans Charing Camiseta Verde Pond 774 XX-Large para...'
-tags: tole.es, camiseta
+tags: [ tole.es, camiseta ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

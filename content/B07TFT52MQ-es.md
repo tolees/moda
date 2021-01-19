@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TFT52MQ-es bedee Chubasquero Chaqueta Impermeable Chubasquero Abrigo...'
-tags: tole.es, abrigo, chaqueta
+tags: [ tole.es, abrigo, chaqueta ]
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

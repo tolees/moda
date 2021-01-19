@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PQMP5D9-es Zerone Camisetas de Camuflaje de Manga Larga y Corta de...'
-tags: tole.es, camisa
+tags: [ tole.es, camisa ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

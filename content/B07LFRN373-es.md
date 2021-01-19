@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFRN373-es Geox U New Life C Zapatos de Cordones Derby para Hombre...'
-tags: tole.es, geox, zapatos
+tags: [ tole.es, geox, zapatos ]
 actualPrice: 33.08 EUR
 currency: EUR
 price: 33.08

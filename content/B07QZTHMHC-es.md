@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QZTHMHC-es Under Armour Challenger III Midlayer Camiseta de Hombre...'
-tags: tole.es, camiseta
+tags: [ tole.es, camiseta ]
 actualPrice: 15.16 EUR
 currency: EUR
 price: 15.16

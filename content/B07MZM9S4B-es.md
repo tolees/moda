@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZM9S4B-es Pepe Jeans Auriga Chaqueta Black 999 11-12 Talla del...'
-tags: tole.es, chaqueta
+tags: [ tole.es, chaqueta ]
 actualPrice: 54.49 EUR
 currency: EUR
 price: 54.49

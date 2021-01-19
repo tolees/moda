@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MSD5DHW-es Crocs Baya Zuecos Unisex Adulto Marrón Espresso 37/38 EU'
-tags: tole.es, zuecos
+tags: [ tole.es, zuecos ]
 actualPrice: 30.42 EUR
 currency: EUR
 price: 30.42

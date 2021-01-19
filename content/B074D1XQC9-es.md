@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074D1XQC9-es Wrangler Greensboro Vaqueros Negro Black 94g 32W/34L para...'
-tags: tole.es, vaqueros
+tags: [ tole.es, vaqueros ]
 actualPrice: 44.49 EUR
 currency: EUR
 price: 44.49

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082FLPKV1-es P Prettyia Plantillas Cálidas de Invierno Unisex...'
-tags: tole.es, zapatos
+tags: [ tole.es, zapatos ]
 actualPrice: 7.67 EUR
 currency: EUR
 price: 7.67

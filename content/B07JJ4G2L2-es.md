@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JJ4G2L2-es G-STAR RAW Firn Camiseta Multicolor Milk/Imperial Blue...'
-tags: tole.es, camiseta
+tags: [ tole.es, camiseta ]
 actualPrice: 13.29 EUR
 currency: EUR
 price: 13.29

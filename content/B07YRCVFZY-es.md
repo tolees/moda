@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YRCVFZY-es Marca Amazon - AURIQUE Mallas Largas de Deporte Mujer Rojo...'
-tags: tole.es, aurique
+tags: [ tole.es, aurique ]
 actualPrice: 8.93 EUR
 currency: EUR
 price: 8.93

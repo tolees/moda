@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B011V56IMG-es PUMA Epic Flip V2 Chanclas Unisex-Adulto Negro Black/White...'
-tags: tole.es, chanclas
+tags: [ tole.es, chanclas ]
 actualPrice: 10.91 EUR
 currency: EUR
 price: 10.91

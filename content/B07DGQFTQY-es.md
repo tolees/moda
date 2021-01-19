@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DGQFTQY-es Timberland Dausette Low Zapatillas Altas para Mujer Negro...'
-tags: tole.es, timberland
+tags: [ tole.es, timberland ]
 actualPrice: 60.0 EUR
 currency: EUR
 price: 60.0

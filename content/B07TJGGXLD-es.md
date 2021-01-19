@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TJGGXLD-es Superdry OL Vintage Emb Crew Camiseta Verde Desert Olive...'
-tags: tole.es, camiseta
+tags: [ tole.es, camiseta ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

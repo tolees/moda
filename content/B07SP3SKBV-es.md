@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SP3SKBV-es Havaianas Top Mix Chanclas para Mujer Rosa Hollywood Rose...'
-tags: tole.es, chanclas
+tags: [ tole.es, chanclas ]
 actualPrice: 12.8 EUR
 currency: EUR
 price: 12.8

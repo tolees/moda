@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WWXFRQM-es Rizador Pelo Plegable Profesional Planchas Rizadoras 25mm...'
-tags: tole.es, guantes
+tags: [ tole.es, guantes ]
 actualPrice: 12.49 EUR
 currency: EUR
 price: 12.49

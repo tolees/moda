@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076HR2L1Y-es Adidas Core 18 Training Jsy Camiseta Hombre Verde Bold...'
-tags: tole.es, camiseta
+tags: [ tole.es, camiseta ]
 actualPrice: 13.94 EUR
 currency: EUR
 price: 13.94

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001QOJ1ZY-es Levi s 501 Original Fit- Vaqueros para hombre Azul 33W x 32L'
-tags: tole.es, vaqueros
+tags: [ tole.es, vaqueros ]
 actualPrice: 39.19 EUR
 currency: EUR
 price: 39.19

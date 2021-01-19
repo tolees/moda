@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NZ2FBZX-es Superdry Astrid Puffer Chaqueta Verde City Green V2k XL...'
-tags: tole.es, chaqueta
+tags: [ tole.es, chaqueta ]
 actualPrice: 35.66 EUR
 currency: EUR
 price: 35.66

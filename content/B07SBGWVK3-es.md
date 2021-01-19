@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SBGWVK3-es Lee Rider Jacket Chaqueta Vaquera Azul Cerulean EI Large...'
-tags: tole.es, chaqueta
+tags: [ tole.es, chaqueta ]
 actualPrice: 54.98 EUR
 currency: EUR
 price: 54.98

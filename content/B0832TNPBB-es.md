@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0832TNPBB-es DaMohony bebé ropa conjunto traje mameluco falda diadema...'
-tags: tole.es, falda
+tags: [ tole.es, falda ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

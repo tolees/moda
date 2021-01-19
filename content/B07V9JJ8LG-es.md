@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V9JJ8LG-es Calvin Klein Washed Stripe Stretch Shirt f Camisa Azul...'
-tags: tole.es, camisa
+tags: [ tole.es, camisa ]
 actualPrice: 29.13 EUR
 currency: EUR
 price: 29.13

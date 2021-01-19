@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KL1S42Z-es adidas Essentials Linear Logo tee Camiseta Hombre Azul...'
-tags: tole.es, camiseta
+tags: [ tole.es, camiseta ]
 actualPrice: 15.44 EUR
 currency: EUR
 price: 15.44

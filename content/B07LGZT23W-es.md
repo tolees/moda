@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LGZT23W-es FineGood 12 pares de retenedores de gafas silicona...'
-tags: tole.es, gafas
+tags: [ tole.es, gafas ]
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

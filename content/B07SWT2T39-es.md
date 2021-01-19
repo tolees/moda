@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SWT2T39-es Geox D Sukie B Zapatillas para Mujer Azul Lt Blue C4003 35 EU'
-tags: tole.es, geox
+tags: [ tole.es, geox ]
 actualPrice: 59.94 EUR
 currency: EUR
 price: 59.94

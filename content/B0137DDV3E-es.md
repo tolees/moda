@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0137DDV3E-es Timberland 14478JSTB/02P - Reloj correa de goma color naranja'
-tags: tole.es, timberland
+tags: [ tole.es, timberland ]
 actualPrice: 78.0 EUR
 currency: EUR
 price: 78.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZPVPDM-es Pepe Jeans Nadia Sudadera Grey Marl 933 7-8 años Talla del...'
-tags: tole.es, sudadera
+tags: [ tole.es, sudadera ]
 actualPrice: 17.54 EUR
 currency: EUR
 price: 17.54

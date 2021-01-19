@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F22F9GG-es YISEVEN Guantes Hombre Pantalla Táctil Invierno de Cuero...'
-tags: tole.es, guantes
+tags: [ tole.es, guantes ]
 actualPrice: 43.99 EUR
 currency: EUR
 price: 43.99

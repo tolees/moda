@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TM131KK-es Lacoste Pack De 2 Boxer Courts Multicolor Blanc/Pin Yn6...'
-tags: tole.es, boxer
+tags: [ tole.es, boxer ]
 actualPrice: 25.0 EUR
 currency: EUR
 price: 25.0

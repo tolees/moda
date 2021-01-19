@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075QCQRDG-es Wantdo Chaqueta Gruesa Impermeable Contraviento para Niñas...'
-tags: tole.es, chaqueta
+tags: [ tole.es, chaqueta ]
 actualPrice: 7.19 EUR
 currency: EUR
 price: 7.19

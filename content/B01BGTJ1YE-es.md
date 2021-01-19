@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BGTJ1YE-es G-STAR RAW 3301 Tapered Vaqueros para Hombre Azul dk aged...'
-tags: tole.es, vaqueros
+tags: [ tole.es, vaqueros ]
 actualPrice: 20.89 EUR
 currency: EUR
 price: 20.89

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDP6SFL-es G-STAR RAW Graphic 9 Slim Round Neck Camiseta Blanco White...'
-tags: tole.es, camiseta
+tags: [ tole.es, camiseta ]
 actualPrice: 11.36 EUR
 currency: EUR
 price: 11.36

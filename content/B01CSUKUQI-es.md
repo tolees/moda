@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CSUKUQI-es Botas para Hombre De Seguridad Puntera De Acero Zapatos De...'
-tags: tole.es, zapatos
+tags: [ tole.es, zapatos ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

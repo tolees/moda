@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ND6YG8T-es dockers Smart 360 Flex Alpha Skinny Vaqueros Dark Ginger...'
-tags: tole.es, vaqueros
+tags: [ tole.es, vaqueros ]
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

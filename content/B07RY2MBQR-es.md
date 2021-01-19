@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RY2MBQR-es Only Onlpatrice SS Linen Dnm tee PAL Camiseta Blanco Cloud...'
-tags: tole.es, camiseta
+tags: [ tole.es, camiseta ]
 actualPrice: 11.39 EUR
 currency: EUR
 price: 11.39

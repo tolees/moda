@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RMR57DF-es JACK & JONES Jormachine tee SS Crew Neck Camiseta Blanco...'
-tags: tole.es, camiseta
+tags: [ tole.es, camiseta ]
 actualPrice: 5.76 EUR
 currency: EUR
 price: 5.76

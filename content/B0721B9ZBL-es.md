@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0721B9ZBL-es Teva Hurricane Xlt2 Sandalias de Punta Descubierta para...'
-tags: tole.es, sandalias
+tags: [ tole.es, sandalias ]
 actualPrice: 52.99 EUR
 currency: EUR
 price: 52.99

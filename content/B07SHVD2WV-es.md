@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SHVD2WV-es Under Armour Performance Polo 2.0 Men s Polo Camiseta Polo...'
-tags: tole.es, camisa, camiseta
+tags: [ tole.es, camisa, camiseta ]
 actualPrice: 35.42 EUR
 currency: EUR
 price: 35.42

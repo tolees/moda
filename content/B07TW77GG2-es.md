@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TW77GG2-es Tikea Mochila de Mamá Grande Mochila para Pañales...'
-tags: tole.es, bolso
+tags: [ tole.es, bolso ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YF9CZKL-es Marca Amazon - find. Chaqueta Larga Mujer Negro Black 40...'
-tags: tole.es, chaqueta, -, find.
+tags: [ tole.es, chaqueta, -, find. ]
 actualPrice: 11.63 EUR
 currency: EUR
 price: 11.63

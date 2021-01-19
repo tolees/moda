@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S19MSGN-es Esprit 089ee2g001 Chaqueta Marrón Toffee 225 XXX-Large...'
-tags: tole.es, chaqueta
+tags: [ tole.es, chaqueta ]
 actualPrice: 15.28 EUR
 currency: EUR
 price: 15.28

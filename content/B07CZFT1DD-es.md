@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CZFT1DD-es Under Armour UA Heatgear Racer Camiseta Sin Mangas Mujer...'
-tags: tole.es, camiseta
+tags: [ tole.es, camiseta ]
 actualPrice: 13.24 EUR
 currency: EUR
 price: 13.24

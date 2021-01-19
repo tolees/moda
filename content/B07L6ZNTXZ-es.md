@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L6ZNTXZ-es FitFlop Mukluk Shorty III Botines para Mujer Marrón...'
-tags: tole.es, botines
+tags: [ tole.es, botines ]
 actualPrice: 95.02 EUR
 currency: EUR
 price: 95.02

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DK4ZFBV-es Geox J Android Boy C Zapatillas para Niños Azul Navy/Lime...'
-tags: tole.es, geox
+tags: [ tole.es, geox ]
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

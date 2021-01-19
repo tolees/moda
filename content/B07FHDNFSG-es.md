@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FHDNFSG-es Helly Hansen Jr Moss Chaqueta Impermeable Unisex niños...'
-tags: tole.es, chaqueta
+tags: [ tole.es, chaqueta ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

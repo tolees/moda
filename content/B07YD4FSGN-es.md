@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YD4FSGN-es Amzdeal Gafas de Esquí Gafas Esquí Snowboard Doble Capa...'
-tags: tole.es, gafas
+tags: [ tole.es, gafas ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99
