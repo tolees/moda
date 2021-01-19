@@ -26,8 +26,8 @@ Tienes [Burton WB Profile - Guantes de esquí para mujer  negro  L](https://www.
 
 🔎:
 
-- Tejido DRYRIDE Durashell de 2-Capas
 - Aislante thermacore
+- Tejido DRYRIDE Durashell de 2-Capas
 - Diseño pre-curvado
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00E3S6UA4/?tag=tolees-21)
