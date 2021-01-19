@@ -26,9 +26,9 @@ En este momento está [PUMA ESS Logo B Camiseta  Niños  Peacoat  152](https://w
 
 🔎:
 
+- Tiene logotipo impreso en el pecho
+- Adecuada para actividades deportivas o para uso diario
 - Proporciona comodidad y libertad de movimiento
 - Cuello redondo de canalé
-- Adecuada para actividades deportivas o para uso diario
-- Tiene logotipo impreso en el pecho
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07D5PZS3J/?tag=tolees-21)
